@@ -25,7 +25,7 @@ jobs:
       - name: Tool
         uses: actions/checkout@v4
         with:
-          repository: OWNER/tamandua
+          repository: hallo-schnackenburg/tamandua
           path: tool
 
       - uses: actions/setup-node@v4
