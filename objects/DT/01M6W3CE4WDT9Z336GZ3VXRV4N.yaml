@@ -1,0 +1,57 @@
+id: 01M6W3CE4WDT9Z336GZ3VXRV4N
+type: document
+subtype: brochure
+title: Prospekt Universalofen M31
+date: "1929"
+origin:
+  name: Max Ketterer
+  type: business
+  location: Leipzig
+holder:
+  name: Doro Möller
+  type: person
+location: Niedernstr. 10, Schnackenburg
+subjects:
+  - name: Universalofen M31
+    type: thing
+    note: Ein solcher Ofen steht noch in der Niedernstr. 10
+    location: Niedernstr. 10, Schnackenburg
+files:
+  - role: page
+    num: 1
+    path: files/12/e8/12e8453a85d8fb1329a0146a3ff050fc430ca3547172d9dddee8c722095f0bdf/original.jpeg
+    sha256: 12e8453a85d8fb1329a0146a3ff050fc430ca3547172d9dddee8c722095f0bdf
+    mime: image/jpeg
+    bytes: 821689
+    width: 2048
+    height: 1339
+    variants:
+      - kind: preview
+        path: files/12/e8/12e8453a85d8fb1329a0146a3ff050fc430ca3547172d9dddee8c722095f0bdf/preview-400.e62aa2f43fcf.jpg
+        sha256: e62aa2f43fcf1da4c5b4e681464a9e70feea2950d159804ca3f365a758e809af
+        mime: image/jpeg
+        bytes: 52816
+        width: 400
+        height: 262
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    path: files/75/8f/758fc1f8617f99ed6ba566d61dc1f6fc03fc31703895ae4b9bf371bc43d71f71/original.jpeg
+    sha256: 758fc1f8617f99ed6ba566d61dc1f6fc03fc31703895ae4b9bf371bc43d71f71
+    mime: image/jpeg
+    bytes: 750611
+    width: 2048
+    height: 1395
+    variants:
+      - kind: preview
+        path: files/75/8f/758fc1f8617f99ed6ba566d61dc1f6fc03fc31703895ae4b9bf371bc43d71f71/preview-400.a8b862001984.jpg
+        sha256: a8b8620019846819e9b80d494eff968d4a2324480cdfc19c0dc1ecfb4700ac4d
+        mime: image/jpeg
+        bytes: 48000
+        width: 400
+        height: 272
+        generator:
+          name: browser-canvas
+          version: "1"
