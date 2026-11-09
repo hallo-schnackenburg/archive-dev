@@ -24,23 +24,3 @@ files:
         generator:
           name: browser-canvas
           version: "1"
-  - role: page
-    num: 2
-    original_name: prospekt-universal-ofen-2.jpeg
-    path: files/75/8f/758fc1f8617f99ed6ba566d61dc1f6fc03fc31703895ae4b9bf371bc43d71f71/original.jpeg
-    sha256: 758fc1f8617f99ed6ba566d61dc1f6fc03fc31703895ae4b9bf371bc43d71f71
-    mime: image/jpeg
-    bytes: 750611
-    width: 2048
-    height: 1395
-    variants:
-      - kind: preview
-        path: files/75/8f/758fc1f8617f99ed6ba566d61dc1f6fc03fc31703895ae4b9bf371bc43d71f71/preview-400.a8b862001984.jpg
-        sha256: a8b8620019846819e9b80d494eff968d4a2324480cdfc19c0dc1ecfb4700ac4d
-        mime: image/jpeg
-        bytes: 48000
-        width: 400
-        height: 272
-        generator:
-          name: browser-canvas
-          version: "1"
