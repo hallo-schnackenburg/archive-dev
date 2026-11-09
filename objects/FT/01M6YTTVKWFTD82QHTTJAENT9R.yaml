@@ -1,0 +1,24 @@
+id: 01M6YTTVKWFTD82QHTTJAENT9R
+type: image
+subtype: photo
+title:
+files:
+  - role: main
+    original_name: testbild-05.png
+    path: files/b7/44/b744ed4a72659f1b2395564b9187fb64afdede6e2bfd327a83645050c1171bfa/original.png
+    sha256: b744ed4a72659f1b2395564b9187fb64afdede6e2bfd327a83645050c1171bfa
+    mime: image/png
+    bytes: 7847
+    width: 400
+    height: 300
+    variants:
+      - kind: preview
+        path: files/b7/44/b744ed4a72659f1b2395564b9187fb64afdede6e2bfd327a83645050c1171bfa/preview-400.b504c29ed96b.jpg
+        sha256: b504c29ed96bb8df8b55824ee243f29ac70913577efe1629e3dc8a1aa4ed0472
+        mime: image/jpeg
+        bytes: 16014
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"
