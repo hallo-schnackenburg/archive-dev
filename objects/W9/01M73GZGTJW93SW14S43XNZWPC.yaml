@@ -1,0 +1,39 @@
+id: 01M73GZGTJW93SW14S43XNZWPC
+type: document
+subtype: brochure
+title: Universalofen W31
+date: "1929"
+origin:
+  name: Max Ketterer
+  type: business
+  location: Leipzig
+location: Niedernstr 10, Schnackenburg
+holder:
+  name: Doro Möller
+  type: person
+subjects:
+  - name: Universalofen W31
+    type: thing
+    note: steht heute noch in der Niedernstr 10
+    location: Niedernstr 10
+files:
+  - role: page
+    num: 1
+    original_name: prospekt-universal-ofen-1.jpeg
+    path: files/12/e8/12e8453a85d8fb1329a0146a3ff050fc430ca3547172d9dddee8c722095f0bdf/original.jpeg
+    sha256: 12e8453a85d8fb1329a0146a3ff050fc430ca3547172d9dddee8c722095f0bdf
+    mime: image/jpeg
+    bytes: 821689
+    width: 2048
+    height: 1339
+    variants:
+      - kind: preview
+        path: files/12/e8/12e8453a85d8fb1329a0146a3ff050fc430ca3547172d9dddee8c722095f0bdf/preview-400.e62aa2f43fcf.jpg
+        sha256: e62aa2f43fcf1da4c5b4e681464a9e70feea2950d159804ca3f365a758e809af
+        mime: image/jpeg
+        bytes: 52816
+        width: 400
+        height: 262
+        generator:
+          name: browser-canvas
+          version: "1"
