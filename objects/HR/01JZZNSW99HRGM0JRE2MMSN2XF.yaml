@@ -1,0 +1,35 @@
+id: 01JZZNSW99HRGM0JRE2MMSN2XF
+type: image
+subtype: photo
+title: Mühle Prospekt am Sonntag
+date: 1964-08-19
+location: Gorleben, Hafen
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/08/dc/08dc81fc5860a0e148bef70ba53e1196f06de45fc0739442aca64bec60fcd767/original.jpg
+    sha256: 08dc81fc5860a0e148bef70ba53e1196f06de45fc0739442aca64bec60fcd767
+    mime: image/jpeg
+    bytes: 18899440
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/08/dc/08dc81fc5860a0e148bef70ba53e1196f06de45fc0739442aca64bec60fcd767/preview-400.c7c4c44b110d.jpg
+        sha256: c7c4c44b110dea4ce25d80ced81fbbaf12b9467758f17a0468c949ec76dbaf56
+        mime: image/jpeg
+        bytes: 23128
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

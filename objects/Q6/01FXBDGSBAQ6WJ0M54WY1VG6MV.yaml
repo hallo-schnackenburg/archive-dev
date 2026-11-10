@@ -1,0 +1,35 @@
+id: 01FXBDGSBAQ6WJ0M54WY1VG6MV
+type: image
+subtype: photo
+title: Dorfschule Zeichnung nach dem Krieg
+date: 1987-03-05
+location: Schnackenburg, Brunnen
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/07/3f/073f47ea6477d2a5211468db5d4322e1d34ce23abd0de0169180d29ba1948928/original.jpg
+    sha256: 073f47ea6477d2a5211468db5d4322e1d34ce23abd0de0169180d29ba1948928
+    mime: image/jpeg
+    bytes: 15173113
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/07/3f/073f47ea6477d2a5211468db5d4322e1d34ce23abd0de0169180d29ba1948928/preview-400.8f81bd6e8f03.jpg
+        sha256: 8f81bd6e8f0318206314e42a3661c12f4323b750941cb991b5b6fe6d02c13327
+        mime: image/jpeg
+        bytes: 75821
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01EVYK48JE4STGMEFJB5WG7FFR
+type: image
+subtype: photo
+title: Schmiede Brief nach dem Krieg
+description: Schützenfest und grenzturm, bei Hochwasser.
+date: 1889-02-04
+location: Lenzen, Elbdeich
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Helga Plate
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/5d/35/5d356f96b689fcb387096a55f095b7d481b3c37d84b01a3a86e43dc56cd0a7dc/original.jpg
+    sha256: 5d356f96b689fcb387096a55f095b7d481b3c37d84b01a3a86e43dc56cd0a7dc
+    mime: image/jpeg
+    bytes: 11652297
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/5d/35/5d356f96b689fcb387096a55f095b7d481b3c37d84b01a3a86e43dc56cd0a7dc/preview-400.e5277ec55bea.jpg
+        sha256: e5277ec55beafb0fa08d96422d407b9a5251c4c815a826b92aa5727bc166d2ed
+        mime: image/jpeg
+        bytes: 83553
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

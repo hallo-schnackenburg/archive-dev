@@ -1,0 +1,39 @@
+id: 01GPGQRGFDM58FQ15XB3MGM9MN
+type: image
+subtype: photo
+title: Gasthof Rechnung nach dem Krieg
+date: 1967-04
+location: Lüchow, Molkerei
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/12/35/12354deef431dac70cfcf58f1edbc2d27727f4ff19d4d1c5f4487341c32da2f0/original.jpg
+    sha256: 12354deef431dac70cfcf58f1edbc2d27727f4ff19d4d1c5f4487341c32da2f0
+    mime: image/jpeg
+    bytes: 16421113
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/12/35/12354deef431dac70cfcf58f1edbc2d27727f4ff19d4d1c5f4487341c32da2f0/preview-400.e2c154bf0a67.jpg
+        sha256: e2c154bf0a6756d41fdb1749d8656e15a24eb6412addf567e80e990e4d43abf4
+        mime: image/jpeg
+        bytes: 55730
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

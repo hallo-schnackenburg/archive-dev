@@ -1,0 +1,35 @@
+id: 01JN2PT4WNE4CCPWKJN1HS9P71
+type: image
+subtype: photo
+title: Friedhof Notiz zur Wende
+date: "1877"
+location: Pretzier, Friedhof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/ff/e3/ffe36c51671115d671cfef2d612efce185324a6e79108259c64f67d8c714efa4/original.jpg
+    sha256: ffe36c51671115d671cfef2d612efce185324a6e79108259c64f67d8c714efa4
+    mime: image/jpeg
+    bytes: 15221230
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ff/e3/ffe36c51671115d671cfef2d612efce185324a6e79108259c64f67d8c714efa4/preview-400.f123c74033a7.jpg
+        sha256: f123c74033a7379d7dc8b113fddebb97f0adaec6f00bcc802598b07bf703ff0e
+        mime: image/jpeg
+        bytes: 30781
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

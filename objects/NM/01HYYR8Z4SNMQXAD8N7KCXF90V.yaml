@@ -1,0 +1,35 @@
+id: 01HYYR8Z4SNMQXAD8N7KCXF90V
+type: image
+subtype: photo
+title: Hafen Protokoll am Sonntag
+date: 2002~
+location: Kapern, Hochwasser
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/e7/d6/e7d6fec6d7dc75e0ddc0d3b527ba6b0835f15c13a11159539d829099d1c64b84/original.jpg
+    sha256: e7d6fec6d7dc75e0ddc0d3b527ba6b0835f15c13a11159539d829099d1c64b84
+    mime: image/jpeg
+    bytes: 6778045
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e7/d6/e7d6fec6d7dc75e0ddc0d3b527ba6b0835f15c13a11159539d829099d1c64b84/preview-400.b1b87dc6f13f.jpg
+        sha256: b1b87dc6f13f3f4bf7289a1b8a75259f4cbf93683450d1086779c0d9c46afa9a
+        mime: image/jpeg
+        bytes: 50539
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

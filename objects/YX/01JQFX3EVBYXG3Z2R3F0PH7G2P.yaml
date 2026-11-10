@@ -1,0 +1,51 @@
+id: 01JQFX3EVBYXG3Z2R3F0PH7G2P
+type: document
+subtype: brochure
+title: Brücke Notiz am Sonntag
+date: 2000-07
+language: de
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/b5/e9/b5e9f6b1f95dd535dbdcc7dc760725d838f0f081ed6226efbcdb69081db17285/original.tif
+    sha256: b5e9f6b1f95dd535dbdcc7dc760725d838f0f081ed6226efbcdb69081db17285
+    mime: image/tiff
+    bytes: 12972909
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b5/e9/b5e9f6b1f95dd535dbdcc7dc760725d838f0f081ed6226efbcdb69081db17285/preview-400.a0ca0ac4d64a.jpg
+        sha256: a0ca0ac4d64aca3b7dfa2cfd62b5fbca7f9a53101f6b1e08717036a7c4f233b8
+        mime: image/jpeg
+        bytes: 88049
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/6f/6b/6f6bc3f6ae6ae5d1e2cfc5c661ea7fc8c9eb503e984257f8dbc1ba5e4dbabc75/original.tif
+    sha256: 6f6bc3f6ae6ae5d1e2cfc5c661ea7fc8c9eb503e984257f8dbc1ba5e4dbabc75
+    mime: image/tiff
+    bytes: 2590493
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6f/6b/6f6bc3f6ae6ae5d1e2cfc5c661ea7fc8c9eb503e984257f8dbc1ba5e4dbabc75/preview-400.8dc03a225adf.jpg
+        sha256: 8dc03a225adfb52ce8854894b82819e7f206a7e79023ded4ab52067eeaa9387b
+        mime: image/jpeg
+        bytes: 65096
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

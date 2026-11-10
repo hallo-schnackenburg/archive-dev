@@ -1,0 +1,39 @@
+id: 01GDGMNTXFQXZ2DHTYY6VB7PEG
+type: image
+subtype: photo
+title: Feuerwehr Ansicht zur Wende
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: "1880"
+location: Seedorf, Gasthof
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Erika Voss
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/b3/0a/b30a176de5598f120bf749b7c6e441234f4a263a7bf9b9a91e12673cd88ad10c/original.jpg
+    sha256: b30a176de5598f120bf749b7c6e441234f4a263a7bf9b9a91e12673cd88ad10c
+    mime: image/jpeg
+    bytes: 13961597
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b3/0a/b30a176de5598f120bf749b7c6e441234f4a263a7bf9b9a91e12673cd88ad10c/preview-400.4d04de77642a.jpg
+        sha256: 4d04de77642ad1ba4547f225d800d685c816610ba1c4e58246e6d28a1e75a1cc
+        mime: image/jpeg
+        bytes: 46829
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

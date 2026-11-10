@@ -1,0 +1,37 @@
+id: 01KZWPHGT5HKFSPG1K5TKVJ58S
+type: image
+subtype: print
+title: Brücke Bescheid am Sonntag
+date: 2000-11-19
+location: Lüchow, Kindergarten
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/39/a0/39a010f621b84cfa4acb3b860b6e428eada605e02ef54e32cb02e83c279b964f/original.tif
+    sha256: 39a010f621b84cfa4acb3b860b6e428eada605e02ef54e32cb02e83c279b964f
+    mime: image/tiff
+    bytes: 10514123
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/39/a0/39a010f621b84cfa4acb3b860b6e428eada605e02ef54e32cb02e83c279b964f/preview-400.72ca18b42a4d.jpg
+        sha256: 72ca18b42a4d2dddbfe27e1d2615f41390a420a71fa564fe4286f4374251d39f
+        mime: image/jpeg
+        bytes: 69000
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

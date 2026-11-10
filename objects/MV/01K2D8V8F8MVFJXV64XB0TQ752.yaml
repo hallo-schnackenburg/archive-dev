@@ -1,0 +1,35 @@
+id: 01K2D8V8F8MVFJXV64XB0TQ752
+type: image
+subtype: photo
+title: Schützenfest Besuch zur Wende
+date: 1872-03-14
+location: Schnackenburg, Sportplatz
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/18/b6/18b65004794176d240be03831c6c53b1b507b043e1c1252609f9fe7521adf015/original.jpg
+    sha256: 18b65004794176d240be03831c6c53b1b507b043e1c1252609f9fe7521adf015
+    mime: image/jpeg
+    bytes: 23786823
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/18/b6/18b65004794176d240be03831c6c53b1b507b043e1c1252609f9fe7521adf015/preview-400.630acc4a9146.jpg
+        sha256: 630acc4a9146fa06d8a48292829e82a5c9f0113d17e52eb47843a81a0f64ca21
+        mime: image/jpeg
+        bytes: 59136
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

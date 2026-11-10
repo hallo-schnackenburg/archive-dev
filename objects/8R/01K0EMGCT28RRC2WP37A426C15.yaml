@@ -1,0 +1,35 @@
+id: 01K0EMGCT28RRC2WP37A426C15
+type: image
+subtype: photo
+title: Brücke Bescheid nach dem Krieg
+date: 1860/1864
+location: Seedorf, Ernte
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/71/b0/71b0c0042227f7446c2d3f720b6b5c108d0fb154b48bdb37b83d57c1710a43d1/original.jpg
+    sha256: 71b0c0042227f7446c2d3f720b6b5c108d0fb154b48bdb37b83d57c1710a43d1
+    mime: image/jpeg
+    bytes: 7961319
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/71/b0/71b0c0042227f7446c2d3f720b6b5c108d0fb154b48bdb37b83d57c1710a43d1/preview-400.bb0a9f32bd07.jpg
+        sha256: bb0a9f32bd07d07296a4c1c114bcd0ce5f4acd16bc41023ac89e9d48cde0d6a9
+        mime: image/jpeg
+        bytes: 74307
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

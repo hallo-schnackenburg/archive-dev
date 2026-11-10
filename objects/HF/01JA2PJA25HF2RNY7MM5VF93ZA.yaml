@@ -1,0 +1,35 @@
+id: 01JA2PJA25HF2RNY7MM5VF93ZA
+type: image
+subtype: photo
+title: Fähre Einweihung am Sonntag
+date: 1926-03-07
+location: Seedorf, Dorfschule
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/ab/21/ab21472f652c64abe85248d08ca188a0e1694e036e7eba58e921d79eea926e38/original.jpg
+    sha256: ab21472f652c64abe85248d08ca188a0e1694e036e7eba58e921d79eea926e38
+    mime: image/jpeg
+    bytes: 12636600
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ab/21/ab21472f652c64abe85248d08ca188a0e1694e036e7eba58e921d79eea926e38/preview-400.b6eacedfb289.jpg
+        sha256: b6eacedfb28935c6d2abbceb2e8a1589dfca819901f72818673752c4935d9e7e
+        mime: image/jpeg
+        bytes: 75435
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

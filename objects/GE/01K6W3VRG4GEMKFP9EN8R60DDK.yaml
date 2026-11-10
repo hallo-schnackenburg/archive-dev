@@ -1,0 +1,53 @@
+id: 01K6W3VRG4GEMKFP9EN8R60DDK
+type: document
+subtype: letter
+title: Hafen Rechnung im Winter
+description: Schreibt über die Ernte und das Wetter.
+date: 1910~
+language: de
+origin:
+  name: Anni Jeß
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/a9/89/a989e95eca96c565d4cfca14e2c49a5092470be05607251ca34f7a277ebaef98/original.tif
+    sha256: a989e95eca96c565d4cfca14e2c49a5092470be05607251ca34f7a277ebaef98
+    mime: image/tiff
+    bytes: 2979378
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a9/89/a989e95eca96c565d4cfca14e2c49a5092470be05607251ca34f7a277ebaef98/preview-400.4ddb381c5c02.jpg
+        sha256: 4ddb381c5c02c1b8a2c764044225f00163a32423a20fc80bbc1fb53805ff1c75
+        mime: image/jpeg
+        bytes: 32200
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/7f/ab/7fab046829c44198eee0e88089c5aee6e35fb8364d5ad4a5999c62876c39b3f4/original.tif
+    sha256: 7fab046829c44198eee0e88089c5aee6e35fb8364d5ad4a5999c62876c39b3f4
+    mime: image/tiff
+    bytes: 14607891
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7f/ab/7fab046829c44198eee0e88089c5aee6e35fb8364d5ad4a5999c62876c39b3f4/preview-400.04825ce5d80c.jpg
+        sha256: 04825ce5d80cc0f96a749fbc8b467fc85c2f60ef5556c1a5d0f1aa2322897f3f
+        mime: image/jpeg
+        bytes: 85523
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

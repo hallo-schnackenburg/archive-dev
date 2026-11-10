@@ -1,0 +1,34 @@
+id: 01HCZQGW90TR07Q6FP2V9NGS0M
+type: image
+subtype: plan
+title: Elbufer Umbau bei Hochwasser
+date: 1900-02-26
+location: Schnackenburg, Pfarrhaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/ee/36/ee361979803b1553c59be7cbcd842e6d14afd10d99861d33f99fe69465b017f5/original.tif
+    sha256: ee361979803b1553c59be7cbcd842e6d14afd10d99861d33f99fe69465b017f5
+    mime: image/tiff
+    bytes: 9128368
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ee/36/ee361979803b1553c59be7cbcd842e6d14afd10d99861d33f99fe69465b017f5/preview-400.f8ece8ae3057.jpg
+        sha256: f8ece8ae3057034525c098288aadf6d098ee54041f0c0af3b0812f0ce54de8dc
+        mime: image/jpeg
+        bytes: 23886
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

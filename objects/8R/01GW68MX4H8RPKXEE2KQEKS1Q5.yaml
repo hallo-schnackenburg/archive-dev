@@ -1,0 +1,39 @@
+id: 01GW68MX4H8RPKXEE2KQEKS1Q5
+type: image
+subtype: photo
+title: Bahnhof Ansicht zu Pfingsten
+date: 1864-12
+location: Gorleben, Zollamt
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/31/04/310430c781acd1c57de9da80cb23317333d5a54419a07ac70efc703987da518a/original.jpg
+    sha256: 310430c781acd1c57de9da80cb23317333d5a54419a07ac70efc703987da518a
+    mime: image/jpeg
+    bytes: 22243358
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/31/04/310430c781acd1c57de9da80cb23317333d5a54419a07ac70efc703987da518a/preview-400.41765bfd8ac5.jpg
+        sha256: 41765bfd8ac5a4c0f41c4c6d3d92070d81f83513ff565f75244d97f8f1999c24
+        mime: image/jpeg
+        bytes: 88357
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

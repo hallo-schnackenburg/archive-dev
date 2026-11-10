@@ -1,0 +1,37 @@
+id: 01HSA3QFHBBSZTPRVNZSSJ62P1
+type: image
+subtype: print
+title: Marktplatz Entwurf nach dem Krieg
+date: 1912-11-14
+location: Gorleben, Friedhof
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/45/9d/459ddb161ad4cd729a51ef25c92bcc5d313c4cdfeb4f717fa551f5502d4dec06/original.tif
+    sha256: 459ddb161ad4cd729a51ef25c92bcc5d313c4cdfeb4f717fa551f5502d4dec06
+    mime: image/tiff
+    bytes: 27056211
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/45/9d/459ddb161ad4cd729a51ef25c92bcc5d313c4cdfeb4f717fa551f5502d4dec06/preview-400.005f7e25c013.jpg
+        sha256: 005f7e25c013bb8f4c0bf73430d901de7bc599909daa79f5e67ae7516e1e729f
+        mime: image/jpeg
+        bytes: 78836
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

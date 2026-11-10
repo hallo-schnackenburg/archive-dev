@@ -1,0 +1,34 @@
+id: 01GC9N9DZW6VP74SQK9NH4TRS1
+type: image
+subtype: plan
+title: Gemeindehaus Entwurf am Sonntag
+date: "2015"
+location: Seedorf, Schmiede
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/8b/82/8b82cf8d99b5989b6ce8e7979ec58a63ae8f9dfadabc8212c86d06ad73ca0858/original.tif
+    sha256: 8b82cf8d99b5989b6ce8e7979ec58a63ae8f9dfadabc8212c86d06ad73ca0858
+    mime: image/tiff
+    bytes: 15773613
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8b/82/8b82cf8d99b5989b6ce8e7979ec58a63ae8f9dfadabc8212c86d06ad73ca0858/preview-400.47de416a1b41.jpg
+        sha256: 47de416a1b41f173517735a9146ea324ee61a50ed1f360a86389985551c2b4ea
+        mime: image/jpeg
+        bytes: 56390
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

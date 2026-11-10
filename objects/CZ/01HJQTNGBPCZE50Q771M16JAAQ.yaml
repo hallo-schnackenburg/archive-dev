@@ -1,0 +1,34 @@
+id: 01HJQTNGBPCZE50Q771M16JAAQ
+type: image
+subtype: print
+title: Storchennest Zeichnung am Sonntag
+description: Feuerwehr und brücke, zu Pfingsten.
+date: 1865-01-25
+origin:
+  name: Hans Brandt
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/95/f6/95f617afd3ba4020e35af7dbab3cf952b4d7d66b80c54e8dc6697813cce11a29/original.tif
+    sha256: 95f617afd3ba4020e35af7dbab3cf952b4d7d66b80c54e8dc6697813cce11a29
+    mime: image/tiff
+    bytes: 19079408
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/f6/95f617afd3ba4020e35af7dbab3cf952b4d7d66b80c54e8dc6697813cce11a29/preview-400.cf4e014b7234.jpg
+        sha256: cf4e014b72347ddac8d309048ad016ebc5cb1cd4cbdac5e76bf115c198f2c8e8
+        mime: image/jpeg
+        bytes: 58841
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

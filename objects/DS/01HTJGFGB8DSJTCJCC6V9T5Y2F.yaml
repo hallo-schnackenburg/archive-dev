@@ -1,0 +1,39 @@
+id: 01HTJGFGB8DSJTCJCC6V9T5Y2F
+type: image
+subtype: photo
+title: Molkerei Ansicht am Morgen
+date: 1920/1923
+location: Holtorf, Marktplatz
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/e7/33/e7334ec769f8fee030b2c665699877cd564650f945d282d9960a2ea54a9282f7/original.jpg
+    sha256: e7334ec769f8fee030b2c665699877cd564650f945d282d9960a2ea54a9282f7
+    mime: image/jpeg
+    bytes: 17528424
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e7/33/e7334ec769f8fee030b2c665699877cd564650f945d282d9960a2ea54a9282f7/preview-400.768b0585335a.jpg
+        sha256: 768b0585335a9d6d74bb7a087d7d9c39059b5bd9abb5e48c8f6b0fc392fa3583
+        mime: image/jpeg
+        bytes: 31132
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01FX4WJFZ7HJ5REB2G6GZKD60V
+type: image
+subtype: photo
+title: Bahnhof Zeichnung im Winter
+date: 1882/1886
+location: Restorf, Mühle
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/46/67/4667d2486507fdd3a1b89dc4a3bdd6e68e6adbfa7083559518adce91737d7437/original.jpg
+    sha256: 4667d2486507fdd3a1b89dc4a3bdd6e68e6adbfa7083559518adce91737d7437
+    mime: image/jpeg
+    bytes: 12594947
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/46/67/4667d2486507fdd3a1b89dc4a3bdd6e68e6adbfa7083559518adce91737d7437/preview-400.ebb70324d27d.jpg
+        sha256: ebb70324d27d3b6087f3bf81cf819a0e327b53cf60d73171259ef63eb31d9c7a
+        mime: image/jpeg
+        bytes: 75761
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

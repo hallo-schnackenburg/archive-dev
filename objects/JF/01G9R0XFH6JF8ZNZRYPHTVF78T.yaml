@@ -1,0 +1,39 @@
+id: 01G9R0XFH6JF8ZNZRYPHTVF78T
+type: image
+subtype: photo
+title: Mühle Jubiläum nach dem Krieg
+description: Zollamt und zollamt, nach dem Krieg.
+date: 1983-11-17
+location: Holtorf, Schützenfest
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Otto Hennings
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/06/cb/06cbb646741d86a36471941257878ace01ab11b29e077ff2546b24cf1f00d21c/original.jpg
+    sha256: 06cbb646741d86a36471941257878ace01ab11b29e077ff2546b24cf1f00d21c
+    mime: image/jpeg
+    bytes: 4043340
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/06/cb/06cbb646741d86a36471941257878ace01ab11b29e077ff2546b24cf1f00d21c/preview-400.f9c54077ca30.jpg
+        sha256: f9c54077ca30922599941c7636a12f264b6f86bd574f0276b1ead051783971b1
+        mime: image/jpeg
+        bytes: 82818
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

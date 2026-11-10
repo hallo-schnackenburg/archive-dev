@@ -1,0 +1,39 @@
+id: 01HFGCWHAK96QVMRWND60KWW2D
+type: image
+subtype: photo
+title: Hafen Zeichnung nach dem Krieg
+date: "1921"
+location: Kapern, Dorfschule
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/e4/95/e495121bca0232379761725e1546e2ae81adeb3542be9182471d87d3ee31f8fe/original.jpg
+    sha256: e495121bca0232379761725e1546e2ae81adeb3542be9182471d87d3ee31f8fe
+    mime: image/jpeg
+    bytes: 3533427
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e4/95/e495121bca0232379761725e1546e2ae81adeb3542be9182471d87d3ee31f8fe/preview-400.b108cba3dc99.jpg
+        sha256: b108cba3dc99b21e50c83fb629fc6fde7b3052e970ac9176dabc2c4428121be3
+        mime: image/jpeg
+        bytes: 65632
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

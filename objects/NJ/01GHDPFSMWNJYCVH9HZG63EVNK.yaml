@@ -1,0 +1,35 @@
+id: 01GHDPFSMWNJYCVH9HZG63EVNK
+type: image
+subtype: photo
+title: Rathaus Bericht zur Wende
+date: 1963-09
+location: Lenzen, Elbdeich
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/83/57/835775efbc8719186943b5bc97cc351b577b1162fe7b36f469c3a7c658b82fe3/original.jpg
+    sha256: 835775efbc8719186943b5bc97cc351b577b1162fe7b36f469c3a7c658b82fe3
+    mime: image/jpeg
+    bytes: 4178579
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/83/57/835775efbc8719186943b5bc97cc351b577b1162fe7b36f469c3a7c658b82fe3/preview-400.6f8b61449e47.jpg
+        sha256: 6f8b61449e4717d2e3ca0e4ea6744fd78c583f9e1a64490cf9ef93323b56de7d
+        mime: image/jpeg
+        bytes: 57125
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

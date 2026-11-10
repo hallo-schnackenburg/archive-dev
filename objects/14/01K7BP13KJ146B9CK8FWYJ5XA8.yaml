@@ -1,0 +1,34 @@
+id: 01K7BP13KJ146B9CK8FWYJ5XA8
+type: image
+subtype: print
+title: Elbufer Notiz bei Hochwasser
+description: Pfarrhaus und fähre, nach dem Krieg.
+date: 1905-07-28
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/fb/89/fb8977a2b328fd5813ded1d3bad531fc18857483f5f719bd8788ad56f007dfa6/original.tif
+    sha256: fb8977a2b328fd5813ded1d3bad531fc18857483f5f719bd8788ad56f007dfa6
+    mime: image/tiff
+    bytes: 11237549
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fb/89/fb8977a2b328fd5813ded1d3bad531fc18857483f5f719bd8788ad56f007dfa6/preview-400.d8b8dd0e4597.jpg
+        sha256: d8b8dd0e4597236020735cddac401aeecbfc0b264420285143d0bfacdb69a8ca
+        mime: image/jpeg
+        bytes: 31719
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

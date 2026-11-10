@@ -1,0 +1,73 @@
+id: 01F6YGDNZNFZ82S0NEPV18K5WH
+type: document
+subtype: letter
+title: Dorfteich Gruppenbild am Sonntag
+date: 1899-09-28
+language: de
+origin:
+  name: Karl Lemke
+  type: person
+  location: Ostfront
+recipient: Familie Lüders, Schnackenburg
+notes: Teilweise schwer lesbar.
+files:
+  - role: page
+    num: 1
+    original_name: feldpost_lueders_001.tif
+    path: files/ee/59/ee59c1ab929cad002de6b87e253ed7fcd90bd5ab389a4b1b73c6944bc5955a92/original.tif
+    sha256: ee59c1ab929cad002de6b87e253ed7fcd90bd5ab389a4b1b73c6944bc5955a92
+    mime: image/tiff
+    bytes: 26537872
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ee/59/ee59c1ab929cad002de6b87e253ed7fcd90bd5ab389a4b1b73c6944bc5955a92/preview-400.5ccd3c38df6b.jpg
+        sha256: 5ccd3c38df6b3a5faeefa9ee2840e4bf12eeb89966188fa43f052e1fe88f1bfb
+        mime: image/jpeg
+        bytes: 38341
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: feldpost_lueders_002.tif
+    path: files/06/5f/065f091e83e6b0ee641e577da8d64898cdebf3cdab26b9b65c5c849a299ff854/original.tif
+    sha256: 065f091e83e6b0ee641e577da8d64898cdebf3cdab26b9b65c5c849a299ff854
+    mime: image/tiff
+    bytes: 8914425
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/5f/065f091e83e6b0ee641e577da8d64898cdebf3cdab26b9b65c5c849a299ff854/preview-400.19a99d8a5a5b.jpg
+        sha256: 19a99d8a5a5b2cb2d80f1799f6b0153a455a2f056d93572982b37c9fb44aee49
+        mime: image/jpeg
+        bytes: 89441
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: feldpost_lueders_003.tif
+    path: files/dd/13/dd130254ab4ed2863de1a3f3171cf35cab23e10aeffe567df28355dce06e4919/original.tif
+    sha256: dd130254ab4ed2863de1a3f3171cf35cab23e10aeffe567df28355dce06e4919
+    mime: image/tiff
+    bytes: 10582273
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/13/dd130254ab4ed2863de1a3f3171cf35cab23e10aeffe567df28355dce06e4919/preview-400.e6b9bf1c0231.jpg
+        sha256: e6b9bf1c02312adbb0750561181ba337b9ad415945cb52390cadb265c1a52c46
+        mime: image/jpeg
+        bytes: 81796
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01FB636B2F6RBVM7VW9QB38WE5
+type: image
+subtype: plan
+title: Dorfteich Umbau bei Hochwasser
+date: 1851/1853
+location: Gartow, Pfarrhaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/b3/15/b315f841eb1fcd7571d04397cb138db0d6be3616101c22b77d544c95c0214902/original.tif
+    sha256: b315f841eb1fcd7571d04397cb138db0d6be3616101c22b77d544c95c0214902
+    mime: image/tiff
+    bytes: 6611087
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/15/b315f841eb1fcd7571d04397cb138db0d6be3616101c22b77d544c95c0214902/preview-400.f482388bb28a.jpg
+        sha256: f482388bb28a8901b621c1e76df269a8009b78c60f026450f712a80d013ea99b
+        mime: image/jpeg
+        bytes: 73446
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

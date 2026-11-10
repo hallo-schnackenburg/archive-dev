@@ -1,0 +1,53 @@
+id: 01K0KWG9JQ5RSXBD3C64JY0RX0
+type: document
+subtype: letter
+title: Dorfteich Rechnung zur Ernte
+description: Schreibt über die Ernte und das Wetter.
+date: "1852"
+language: de
+origin:
+  name: Anni Jeß
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/ab/56/ab56e642aa1c7a32642ea6b135a97171266a26759954bdabc609ceb5fac65018/original.tif
+    sha256: ab56e642aa1c7a32642ea6b135a97171266a26759954bdabc609ceb5fac65018
+    mime: image/tiff
+    bytes: 577561
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ab/56/ab56e642aa1c7a32642ea6b135a97171266a26759954bdabc609ceb5fac65018/preview-400.ef171d444041.jpg
+        sha256: ef171d444041c90cddef696f108209f1c3c20a8800ad54a354c70813aee635ce
+        mime: image/jpeg
+        bytes: 34871
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/52/b1/52b1a2f8b2ad7aa1edf5d62d8186e3ac58c29af42747fe8dce685b959d8510b7/original.tif
+    sha256: 52b1a2f8b2ad7aa1edf5d62d8186e3ac58c29af42747fe8dce685b959d8510b7
+    mime: image/tiff
+    bytes: 20705333
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/b1/52b1a2f8b2ad7aa1edf5d62d8186e3ac58c29af42747fe8dce685b959d8510b7/preview-400.3a1c993df6c3.jpg
+        sha256: 3a1c993df6c35395c26bb6cb13bad990423e9e34125807e986a489299c124073
+        mime: image/jpeg
+        bytes: 38873
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

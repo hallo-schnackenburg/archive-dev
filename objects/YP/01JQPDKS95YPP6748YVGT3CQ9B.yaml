@@ -1,0 +1,39 @@
+id: 01JQPDKS95YPP6748YVGT3CQ9B
+type: image
+subtype: photo
+title: Friedhof Notiz zur Ernte
+date: 1863-02-04
+location: Gorleben, Bahnhof
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/10/97/109751a33eb5bbb0524d156f38df1f51a91d88947ea8fdc0df6865738bc8a2ad/original.jpg
+    sha256: 109751a33eb5bbb0524d156f38df1f51a91d88947ea8fdc0df6865738bc8a2ad
+    mime: image/jpeg
+    bytes: 1221915
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/10/97/109751a33eb5bbb0524d156f38df1f51a91d88947ea8fdc0df6865738bc8a2ad/preview-400.690fa14e443b.jpg
+        sha256: 690fa14e443ba77fd158a9c91a7545322dbc581c555a585163702e73cb81a1f8
+        mime: image/jpeg
+        bytes: 35404
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

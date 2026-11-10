@@ -1,0 +1,39 @@
+id: 01JHZ9FFNX5583PZMG5XN1W7KF
+type: image
+subtype: photo
+title: Feuerwehr Abriss am Sonntag
+date: "2021"
+location: Lüchow, Brücke
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/00/20/0020cad1d7d89b99fca110ed4f6a20aeb77c40a250b0fbbfa4ff2062fda06ab1/original.jpg
+    sha256: 0020cad1d7d89b99fca110ed4f6a20aeb77c40a250b0fbbfa4ff2062fda06ab1
+    mime: image/jpeg
+    bytes: 11605813
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/00/20/0020cad1d7d89b99fca110ed4f6a20aeb77c40a250b0fbbfa4ff2062fda06ab1/preview-400.23c574d588e7.jpg
+        sha256: 23c574d588e7d363b263c1078e1b89a5e5ed5fb0983ad12983cb40052f5c277e
+        mime: image/jpeg
+        bytes: 64288
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

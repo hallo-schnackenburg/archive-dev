@@ -1,0 +1,35 @@
+id: 01G5FFZ9KNNTJ2S1ANPR55JR8A
+type: image
+subtype: photo
+title: Kindergarten Prospekt nach dem Krieg
+date: 1934-08-02
+location: Schnackenburg, Schmiede
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/11/45/114518032553040ac5c516eab5ccc24fffa08bc10e7892d97a5967ee4694f062/original.jpg
+    sha256: 114518032553040ac5c516eab5ccc24fffa08bc10e7892d97a5967ee4694f062
+    mime: image/jpeg
+    bytes: 2490431
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/11/45/114518032553040ac5c516eab5ccc24fffa08bc10e7892d97a5967ee4694f062/preview-400.41e34ab61a44.jpg
+        sha256: 41e34ab61a447574edde317ee07590d0796f185c138fd7b01f0ada3d4e6d1d83
+        mime: image/jpeg
+        bytes: 76902
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

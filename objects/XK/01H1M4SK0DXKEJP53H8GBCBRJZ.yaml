@@ -1,0 +1,39 @@
+id: 01H1M4SK0DXKEJP53H8GBCBRJZ
+type: image
+subtype: photo
+title: Hafen Einweihung vor dem Umbau
+date: "1881"
+location: Gorleben, Bäckerei
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/2a/3f/2a3f08e3dd7d537cf954dd1916beec62db299fe2443442e3a6fca4893ee0c525/original.jpg
+    sha256: 2a3f08e3dd7d537cf954dd1916beec62db299fe2443442e3a6fca4893ee0c525
+    mime: image/jpeg
+    bytes: 12950760
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2a/3f/2a3f08e3dd7d537cf954dd1916beec62db299fe2443442e3a6fca4893ee0c525/preview-400.f64ab8403cc0.jpg
+        sha256: f64ab8403cc0cadcedf7856a26660457f63199486cb24ddbe14f7a66b3991018
+        mime: image/jpeg
+        bytes: 89542
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

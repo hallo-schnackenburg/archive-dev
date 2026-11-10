@@ -1,0 +1,51 @@
+id: 01H4SNEK4FXPE6PG29JC0W3RQ4
+type: document
+subtype: brochure
+title: Bäckerei Aufnahme vor dem Umbau
+date: 2007-09-13
+language: de
+origin:
+  name: Helga Plate
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/7f/f8/7ff8040234a302ebf9416824c163377b2a1bccf9d74e9902b07f775dccc1d08f/original.tif
+    sha256: 7ff8040234a302ebf9416824c163377b2a1bccf9d74e9902b07f775dccc1d08f
+    mime: image/tiff
+    bytes: 17243150
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7f/f8/7ff8040234a302ebf9416824c163377b2a1bccf9d74e9902b07f775dccc1d08f/preview-400.cfd08f8e17b6.jpg
+        sha256: cfd08f8e17b62b5c5bdf7fc01e8436a5c703afb5e7195906c297df9fc1437dbd
+        mime: image/jpeg
+        bytes: 68172
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/4f/d8/4fd81d746edf154b0ab6487b7dd9ef0b06858a4fde50c5ce997f89bf083abc65/original.tif
+    sha256: 4fd81d746edf154b0ab6487b7dd9ef0b06858a4fde50c5ce997f89bf083abc65
+    mime: image/tiff
+    bytes: 18808783
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4f/d8/4fd81d746edf154b0ab6487b7dd9ef0b06858a4fde50c5ce997f89bf083abc65/preview-400.4e9c6b7acde8.jpg
+        sha256: 4e9c6b7acde8628f55b698078474297bc4e27a93dff80435e61f67ca4be9ae03
+        mime: image/jpeg
+        bytes: 44531
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01G9HH8YC56379CSPGV3N8WKW1
+type: image
+subtype: photo
+title: Bäckerei Ansicht zur Ernte
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 2003-12
+location: Gorleben, Brunnen
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Marta Lüders
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/7c/e8/7ce82ab06132c375145dc508927309067ef9011799050ea8e14a981464324289/original.jpg
+    sha256: 7ce82ab06132c375145dc508927309067ef9011799050ea8e14a981464324289
+    mime: image/jpeg
+    bytes: 25909667
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7c/e8/7ce82ab06132c375145dc508927309067ef9011799050ea8e14a981464324289/preview-400.d2a568833882.jpg
+        sha256: d2a568833882fbfd5e538df79d4b8bf3a2defe68f7e1de69b8b2825cd8ee3462
+        mime: image/jpeg
+        bytes: 66425
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

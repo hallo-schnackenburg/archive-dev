@@ -1,0 +1,39 @@
+id: 01HDHXKVPXHJN2DHP9TDQ6X8NB
+type: image
+subtype: photo
+title: Marktplatz Aufnahme im Sommer
+date: 1924~
+location: Restorf, Feuerwehr
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/32/7e/327ed8d36eabc5d52decd96c10f82f9df5331fddb6e2b7cb4acc7d3b71c27c64/original.jpg
+    sha256: 327ed8d36eabc5d52decd96c10f82f9df5331fddb6e2b7cb4acc7d3b71c27c64
+    mime: image/jpeg
+    bytes: 4519758
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/32/7e/327ed8d36eabc5d52decd96c10f82f9df5331fddb6e2b7cb4acc7d3b71c27c64/preview-400.b4d869167ba2.jpg
+        sha256: b4d869167ba2f95dbd525a70cf92f96bd38647315229d1b44bf57519b0aec563
+        mime: image/jpeg
+        bytes: 49182
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

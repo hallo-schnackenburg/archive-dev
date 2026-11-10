@@ -1,0 +1,34 @@
+id: 01GR2D62W9SN1F7BHKT40EG0JV
+type: image
+subtype: plan
+title: Fachwerkhaus Einladung im Sommer
+date: 1904/1907
+location: Schnackenburg, Elbufer
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/2a/de/2ade9fac0db82aa032fc9dda01562732b52c9186ef50ea099a7b08963f2d933d/original.tif
+    sha256: 2ade9fac0db82aa032fc9dda01562732b52c9186ef50ea099a7b08963f2d933d
+    mime: image/tiff
+    bytes: 24345826
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2a/de/2ade9fac0db82aa032fc9dda01562732b52c9186ef50ea099a7b08963f2d933d/preview-400.b59703de77d6.jpg
+        sha256: b59703de77d66d2c6d8be33358f2288dee517b6b0f324ec7c7ab0fe8a9f9e18f
+        mime: image/jpeg
+        bytes: 68309
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01KH3A0SZ6JES9TXKJRDT7D4VD
+type: image
+subtype: photo
+title: Fachwerkhaus Einladung zur Wende
+date: 1979/1985
+location: Kapern, Pfarrhaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/d9/f9/d9f907e19772679ccfc0d07af8305a35fd2f9aa9a14ff8e9db1bebe095cd8d3c/original.jpg
+    sha256: d9f907e19772679ccfc0d07af8305a35fd2f9aa9a14ff8e9db1bebe095cd8d3c
+    mime: image/jpeg
+    bytes: 24938300
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d9/f9/d9f907e19772679ccfc0d07af8305a35fd2f9aa9a14ff8e9db1bebe095cd8d3c/preview-400.f75a1db2f1b8.jpg
+        sha256: f75a1db2f1b8344e0a1911a0f7e77d529a8b772fdf5e4762ef6e5f992a1fe3b0
+        mime: image/jpeg
+        bytes: 27031
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

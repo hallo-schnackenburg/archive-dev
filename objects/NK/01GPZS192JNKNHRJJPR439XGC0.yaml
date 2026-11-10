@@ -1,0 +1,35 @@
+id: 01GPZS192JNKNHRJJPR439XGC0
+type: image
+subtype: photo
+title: Hochwasser Umbau im Sommer
+date: 1880-01-01
+location: Gorleben, Hafen
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/ab/b1/abb12a1944834da5e3f957163f4c0f86e4a9fd6444a435efbff14eb753d36007/original.jpg
+    sha256: abb12a1944834da5e3f957163f4c0f86e4a9fd6444a435efbff14eb753d36007
+    mime: image/jpeg
+    bytes: 9228849
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ab/b1/abb12a1944834da5e3f957163f4c0f86e4a9fd6444a435efbff14eb753d36007/preview-400.87cd7e8c9bfa.jpg
+        sha256: 87cd7e8c9bfa95f88cf414b2fe5a67efbdee07206711828629ef6624bddf283e
+        mime: image/jpeg
+        bytes: 25036
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

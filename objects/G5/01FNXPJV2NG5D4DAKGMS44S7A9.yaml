@@ -1,0 +1,34 @@
+id: 01FNXPJV2NG5D4DAKGMS44S7A9
+type: image
+subtype: plan
+title: Friedhof Rechnung vor dem Umbau
+date: "2015"
+location: Lüchow, Ernte
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/0d/09/0d09e18b9aebcc3354da07f1156ce9af4321a0eb207ece123e15725319d19bdc/original.tif
+    sha256: 0d09e18b9aebcc3354da07f1156ce9af4321a0eb207ece123e15725319d19bdc
+    mime: image/tiff
+    bytes: 973855
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0d/09/0d09e18b9aebcc3354da07f1156ce9af4321a0eb207ece123e15725319d19bdc/preview-400.9940ff914ecb.jpg
+        sha256: 9940ff914ecb53892a086b8302102e2733b5d97a5eae6f60592b25906d0aede9
+        mime: image/jpeg
+        bytes: 20429
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

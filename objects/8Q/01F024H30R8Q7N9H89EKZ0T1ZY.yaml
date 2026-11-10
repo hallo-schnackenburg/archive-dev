@@ -1,0 +1,37 @@
+id: 01F024H30R8Q7N9H89EKZ0T1ZY
+type: image
+subtype: print
+title: Feuerwehr Protokoll am Sonntag
+date: 1942-09-10
+location: Lüchow, Marktplatz
+origin:
+  name: Erika Voss
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/44/f2/44f2d41633eb1b57b719afde6df4b20c5e6d209111dab01a128235598ad49ddb/original.tif
+    sha256: 44f2d41633eb1b57b719afde6df4b20c5e6d209111dab01a128235598ad49ddb
+    mime: image/tiff
+    bytes: 11095095
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/44/f2/44f2d41633eb1b57b719afde6df4b20c5e6d209111dab01a128235598ad49ddb/preview-400.d2b17709ca91.jpg
+        sha256: d2b17709ca91d264a54ade6414a622ed1e2db914fbba1bb0c067c24d13d01e43
+        mime: image/jpeg
+        bytes: 88433
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

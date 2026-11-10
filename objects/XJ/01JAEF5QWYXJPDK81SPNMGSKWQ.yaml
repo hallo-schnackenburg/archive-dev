@@ -1,0 +1,53 @@
+id: 01JAEF5QWYXJPDK81SPNMGSKWQ
+type: document
+subtype: letter
+title: Hafen Umzug nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: 1950-12-18
+language: de
+origin:
+  name: Erika Voss
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/2a/34/2a3437b5da10feb749351bfb936a0ff8bff5921ff52f26d56c22d4a1dacf9e94/original.tif
+    sha256: 2a3437b5da10feb749351bfb936a0ff8bff5921ff52f26d56c22d4a1dacf9e94
+    mime: image/tiff
+    bytes: 23163967
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2a/34/2a3437b5da10feb749351bfb936a0ff8bff5921ff52f26d56c22d4a1dacf9e94/preview-400.14cff7292a59.jpg
+        sha256: 14cff7292a59279bd0ca35fe6de4b4d4113f932e6e46155af5943e987d76f3a8
+        mime: image/jpeg
+        bytes: 47169
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/4d/91/4d91881959c193e30395c15317f5bcc1f0d0f5a1cebf674d23706fd0c25c4c97/original.tif
+    sha256: 4d91881959c193e30395c15317f5bcc1f0d0f5a1cebf674d23706fd0c25c4c97
+    mime: image/tiff
+    bytes: 15958456
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4d/91/4d91881959c193e30395c15317f5bcc1f0d0f5a1cebf674d23706fd0c25c4c97/preview-400.aa8ca73ea606.jpg
+        sha256: aa8ca73ea6064dc988644676ed5b21e99971025ec44adc8a5fda0b41f076c326
+        mime: image/jpeg
+        bytes: 85572
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

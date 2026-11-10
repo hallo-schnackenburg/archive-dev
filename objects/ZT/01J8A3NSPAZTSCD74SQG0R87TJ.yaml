@@ -1,0 +1,39 @@
+id: 01J8A3NSPAZTSCD74SQG0R87TJ
+type: image
+subtype: photo
+title: Hafen Umzug nach dem Krieg
+date: 1858~
+location: Restorf, Elbufer
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/db/81/db811d44057d010e62d3b9fe44d1232869fa5a78b060d13d2d8a1ad3f7a3c32c/original.jpg
+    sha256: db811d44057d010e62d3b9fe44d1232869fa5a78b060d13d2d8a1ad3f7a3c32c
+    mime: image/jpeg
+    bytes: 1848232
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/db/81/db811d44057d010e62d3b9fe44d1232869fa5a78b060d13d2d8a1ad3f7a3c32c/preview-400.de844a47b43d.jpg
+        sha256: de844a47b43d905aee7df1aacf93274b0b0fb80c28280514bc869d19efbb6c9c
+        mime: image/jpeg
+        bytes: 40438
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

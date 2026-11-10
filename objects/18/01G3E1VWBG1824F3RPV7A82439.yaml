@@ -1,0 +1,37 @@
+id: 01G3E1VWBG1824F3RPV7A82439
+type: image
+subtype: print
+title: Rathaus Gruppenbild am Sonntag
+date: "1995"
+location: Lüchow, Zollamt
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/06/74/0674ab4bdf28e66c41d7fa4389df24dd0c1b2f23d7ccf6a33d27db173376a337/original.tif
+    sha256: 0674ab4bdf28e66c41d7fa4389df24dd0c1b2f23d7ccf6a33d27db173376a337
+    mime: image/tiff
+    bytes: 21313897
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/74/0674ab4bdf28e66c41d7fa4389df24dd0c1b2f23d7ccf6a33d27db173376a337/preview-400.056d09152ce8.jpg
+        sha256: 056d09152ce8ae6655ab14fb5fbbab1eba77b29409a56298bf353e5134b2aaf1
+        mime: image/jpeg
+        bytes: 60046
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

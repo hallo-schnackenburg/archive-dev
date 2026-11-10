@@ -1,0 +1,53 @@
+id: 01EYEYQEHB9AR0ZC3VCMSYDEBV
+type: document
+subtype: letter
+title: Schmiede Aufnahme nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: 1861-09
+language: de
+origin:
+  name: Rudolf Garms
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/01/44/0144cff5be9ce091b53ba74c938a1cda6f8a7ba8682c88cac44c0a1bc9eb4ea6/original.tif
+    sha256: 0144cff5be9ce091b53ba74c938a1cda6f8a7ba8682c88cac44c0a1bc9eb4ea6
+    mime: image/tiff
+    bytes: 732704
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/44/0144cff5be9ce091b53ba74c938a1cda6f8a7ba8682c88cac44c0a1bc9eb4ea6/preview-400.70a39e12bebc.jpg
+        sha256: 70a39e12bebc3ccb51c0c8d46bf4bedc7f8b32e374285e116503efcda4be5439
+        mime: image/jpeg
+        bytes: 85688
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/92/77/927769c1a7cbaa4cb59119078a7a508dc68d288a4ab6a3e09c7efdef1b29d4f7/original.tif
+    sha256: 927769c1a7cbaa4cb59119078a7a508dc68d288a4ab6a3e09c7efdef1b29d4f7
+    mime: image/tiff
+    bytes: 12882311
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/77/927769c1a7cbaa4cb59119078a7a508dc68d288a4ab6a3e09c7efdef1b29d4f7/preview-400.340a8cde44d7.jpg
+        sha256: 340a8cde44d75adeb620a134d63297ec3dcf5f9346472aaa490fb95e8020ca6f
+        mime: image/jpeg
+        bytes: 79577
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01EX11S0GM5JDZ8GYJQ0XM6TB7
+type: image
+subtype: photo
+title: Elbdeich Aufnahme zur Wende
+date: 1977-11
+location: Gorleben, Kirche St. Johannis
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/29/d3/29d3cef70fb8f36026aadad57067b9a19f6d333e4d6c51fc00089bffaa1d48fd/original.jpg
+    sha256: 29d3cef70fb8f36026aadad57067b9a19f6d333e4d6c51fc00089bffaa1d48fd
+    mime: image/jpeg
+    bytes: 21200663
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/29/d3/29d3cef70fb8f36026aadad57067b9a19f6d333e4d6c51fc00089bffaa1d48fd/preview-400.28bae22c0505.jpg
+        sha256: 28bae22c0505faa618dfd4ac6c11ba9aaac624f32e3bfda98071b957abe93912
+        mime: image/jpeg
+        bytes: 35341
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

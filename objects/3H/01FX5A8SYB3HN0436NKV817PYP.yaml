@@ -1,0 +1,29 @@
+id: 01FX5A8SYB3HN0436NKV817PYP
+type: image
+subtype: plan
+title: Fähre Prospekt zur Ernte
+date: 1905-02-14
+location: Schnackenburg, Hochwasser
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: bauplan_feuerwehr.tif
+    path: files/2d/75/2d75063581c4689e481db015c6fde430d23bf355db8d816de51ebb93ae93d952/original.tif
+    sha256: 2d75063581c4689e481db015c6fde430d23bf355db8d816de51ebb93ae93d952
+    mime: image/tiff
+    bytes: 19468804
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/75/2d75063581c4689e481db015c6fde430d23bf355db8d816de51ebb93ae93d952/preview-400.190652f438f7.jpg
+        sha256: 190652f438f75e664d4c384743dd7b37e163bd20e62a45011fe835c76fb4ac19
+        mime: image/jpeg
+        bytes: 76680
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

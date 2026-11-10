@@ -1,0 +1,53 @@
+id: 01GQ69A7RPZFVDEMF24Q4K9103
+type: document
+subtype: letter
+title: Molkerei Festtag nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: 1954-02
+language: de
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/52/cf/52cf57f60f0140808d7e74d00c1fa3a9b4cca67de4321fb5c43629862111105c/original.tif
+    sha256: 52cf57f60f0140808d7e74d00c1fa3a9b4cca67de4321fb5c43629862111105c
+    mime: image/tiff
+    bytes: 20992432
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/cf/52cf57f60f0140808d7e74d00c1fa3a9b4cca67de4321fb5c43629862111105c/preview-400.e4ca989ec49b.jpg
+        sha256: e4ca989ec49bfcb3fa3ed8f9ff9f7d57cbb61f93e8382c80ede0b729555d6641
+        mime: image/jpeg
+        bytes: 43469
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/ee/6d/ee6d6c205706e2cc68d8580405af7d715e8fc2d642d77ff1dbd1d22fde18448b/original.tif
+    sha256: ee6d6c205706e2cc68d8580405af7d715e8fc2d642d77ff1dbd1d22fde18448b
+    mime: image/tiff
+    bytes: 15129462
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ee/6d/ee6d6c205706e2cc68d8580405af7d715e8fc2d642d77ff1dbd1d22fde18448b/preview-400.d38c8cc171f5.jpg
+        sha256: d38c8cc171f502d2003aa2b02d14473749845d6c59f10d4878c0d68f2f1ad9d4
+        mime: image/jpeg
+        bytes: 71875
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,53 @@
+id: 01J2AKC29YNZ3A68M0K9ZVMXY7
+type: document
+subtype: letter
+title: Schmiede Zeichnung zur Wende
+description: Gemeindehaus und pfarrhaus, nach dem Krieg.
+date: "1862"
+language: de
+origin:
+  name: Fritz Bohlmann
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/2a/24/2a24dd988275d26b33b243835da6720eaa1e8b4cca222f32cb183aacefb63be8/original.tif
+    sha256: 2a24dd988275d26b33b243835da6720eaa1e8b4cca222f32cb183aacefb63be8
+    mime: image/tiff
+    bytes: 9479324
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2a/24/2a24dd988275d26b33b243835da6720eaa1e8b4cca222f32cb183aacefb63be8/preview-400.61dee04a45d9.jpg
+        sha256: 61dee04a45d9b4dd3f67b4a8fb31a2f12b02a514ceebd8a452a2d91ce1323bf5
+        mime: image/jpeg
+        bytes: 51352
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/8a/34/8a34cb5c3713591cfb1ba93c99a3d55b1f248682d4924a18314f06f0b7e2894d/original.tif
+    sha256: 8a34cb5c3713591cfb1ba93c99a3d55b1f248682d4924a18314f06f0b7e2894d
+    mime: image/tiff
+    bytes: 1061971
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8a/34/8a34cb5c3713591cfb1ba93c99a3d55b1f248682d4924a18314f06f0b7e2894d/preview-400.e5b91728c1cb.jpg
+        sha256: e5b91728c1cb72d8626445663decbd96e496f2e69c3591c5cd4a845e598d159d
+        mime: image/jpeg
+        bytes: 87456
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

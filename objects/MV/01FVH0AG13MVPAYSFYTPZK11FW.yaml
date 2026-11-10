@@ -1,0 +1,53 @@
+id: 01FVH0AG13MVPAYSFYTPZK11FW
+type: document
+subtype: letter
+title: Mühle Bericht bei Hochwasser
+description: Schreibt über die Ernte und das Wetter.
+date: 2021-05-17
+language: de
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/a0/54/a05409c8125facf56647d3fe33663865d293d6e64cfd1de1607c14b138ce79f6/original.tif
+    sha256: a05409c8125facf56647d3fe33663865d293d6e64cfd1de1607c14b138ce79f6
+    mime: image/tiff
+    bytes: 17193687
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a0/54/a05409c8125facf56647d3fe33663865d293d6e64cfd1de1607c14b138ce79f6/preview-400.b01c88f51e12.jpg
+        sha256: b01c88f51e1277c8644c17e3273036080d9f9f972ae59bd8037dc34b4f8bf454
+        mime: image/jpeg
+        bytes: 49802
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/aa/4b/aa4be7ccdbfdd5716e81e65542d623bbe97eb1c80a92cce7a2458aa53992e052/original.tif
+    sha256: aa4be7ccdbfdd5716e81e65542d623bbe97eb1c80a92cce7a2458aa53992e052
+    mime: image/tiff
+    bytes: 20799578
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/aa/4b/aa4be7ccdbfdd5716e81e65542d623bbe97eb1c80a92cce7a2458aa53992e052/preview-400.a975e2555b12.jpg
+        sha256: a975e2555b128113d63816666f1592a46df93b7de63dfb7c39e415ea2c7e57d2
+        mime: image/jpeg
+        bytes: 59014
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

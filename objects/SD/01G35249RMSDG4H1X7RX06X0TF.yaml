@@ -1,0 +1,39 @@
+id: 01G35249RMSDG4H1X7RX06X0TF
+type: image
+subtype: photo
+title: Friedhof Brief im Winter
+date: 1875-06
+location: Lüchow, Marktplatz
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/60/80/6080c94a6a74a0888948ef661a860722bfa24df8593dbab84225565968af4858/original.jpg
+    sha256: 6080c94a6a74a0888948ef661a860722bfa24df8593dbab84225565968af4858
+    mime: image/jpeg
+    bytes: 15473920
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/60/80/6080c94a6a74a0888948ef661a860722bfa24df8593dbab84225565968af4858/preview-400.3da56ae43fcd.jpg
+        sha256: 3da56ae43fcd6d5b0f11df224f2fb23aa1937710d9aaecca37c2f31845408f73
+        mime: image/jpeg
+        bytes: 64629
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

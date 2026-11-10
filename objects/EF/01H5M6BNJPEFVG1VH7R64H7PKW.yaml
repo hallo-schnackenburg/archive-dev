@@ -1,0 +1,34 @@
+id: 01H5M6BNJPEFVG1VH7R64H7PKW
+type: image
+subtype: plan
+title: Pfarrhaus Einladung am Morgen
+date: 1969-06
+location: Holtorf, Elbufer
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/4a/9b/4a9b7d8df1c6df1998c05a94b8496f0ad77ba1d798aba75d857b0daa40339340/original.tif
+    sha256: 4a9b7d8df1c6df1998c05a94b8496f0ad77ba1d798aba75d857b0daa40339340
+    mime: image/tiff
+    bytes: 10290319
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4a/9b/4a9b7d8df1c6df1998c05a94b8496f0ad77ba1d798aba75d857b0daa40339340/preview-400.53acc1c3cfe4.jpg
+        sha256: 53acc1c3cfe4c035a2d0103a0a75e4347a47b295b7a9890cd4abe788dc160554
+        mime: image/jpeg
+        bytes: 24709
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

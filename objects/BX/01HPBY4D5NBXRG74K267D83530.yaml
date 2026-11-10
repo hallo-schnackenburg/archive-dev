@@ -1,0 +1,51 @@
+id: 01HPBY4D5NBXRG74K267D83530
+type: document
+subtype: brochure
+title: Ernte Ansicht am Sonntag
+date: 1889/1893
+language: de
+origin:
+  name: Anni Jeß
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/2a/d6/2ad64f6f779a5ba4a50d7a7e5861861bd508a059207b9027a0574476ee7d5c5b/original.tif
+    sha256: 2ad64f6f779a5ba4a50d7a7e5861861bd508a059207b9027a0574476ee7d5c5b
+    mime: image/tiff
+    bytes: 7487556
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2a/d6/2ad64f6f779a5ba4a50d7a7e5861861bd508a059207b9027a0574476ee7d5c5b/preview-400.bfb3205d3854.jpg
+        sha256: bfb3205d3854b4e01a7c58e1fcca997448f8115515e6035338527eb32f1d25d6
+        mime: image/jpeg
+        bytes: 76110
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/b6/ff/b6ffe2b5535a24020daba41203fda3310275c931547713252564f6bad965fc3c/original.tif
+    sha256: b6ffe2b5535a24020daba41203fda3310275c931547713252564f6bad965fc3c
+    mime: image/tiff
+    bytes: 26903265
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b6/ff/b6ffe2b5535a24020daba41203fda3310275c931547713252564f6bad965fc3c/preview-400.7f28c8d9582b.jpg
+        sha256: 7f28c8d9582b135c8eeec6da7804d8ad639a60a5ef27661b3edbdc665842eb27
+        mime: image/jpeg
+        bytes: 28343
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

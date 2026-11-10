@@ -1,0 +1,39 @@
+id: 01GJSFTSSRHXSVYFSQA50QE122
+type: image
+subtype: photo
+title: Friedhof Zeichnung zur Wende
+date: 1882-02-28
+location: Lenzen, Brücke
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Otto Hennings
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/1e/48/1e48cbddae6d3f83cb303bdcc8873900f9cff73d4c1b58b81e0c4c8ac1b64883/original.jpg
+    sha256: 1e48cbddae6d3f83cb303bdcc8873900f9cff73d4c1b58b81e0c4c8ac1b64883
+    mime: image/jpeg
+    bytes: 12085945
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/1e/48/1e48cbddae6d3f83cb303bdcc8873900f9cff73d4c1b58b81e0c4c8ac1b64883/preview-400.0c7e844feec1.jpg
+        sha256: 0c7e844feec1714a9b2cf81833723577ad6dd8fd71c9befbe20ed5bb22ba7a36
+        mime: image/jpeg
+        bytes: 40798
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

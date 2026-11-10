@@ -1,0 +1,53 @@
+id: 01H0271PCVDB556M9TJYBPARX5
+type: document
+subtype: letter
+title: Mühle Prospekt im Sommer
+description: Schreibt über die Ernte und das Wetter.
+date: "1982"
+language: de
+origin:
+  name: Anni Jeß
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/32/81/3281885c42cfe77b5ecd93b0bdda510ca3236dfb383e21519592e7591950b3de/original.tif
+    sha256: 3281885c42cfe77b5ecd93b0bdda510ca3236dfb383e21519592e7591950b3de
+    mime: image/tiff
+    bytes: 1509973
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/32/81/3281885c42cfe77b5ecd93b0bdda510ca3236dfb383e21519592e7591950b3de/preview-400.b0328f833281.jpg
+        sha256: b0328f8332813de75597609d7c5b117beb5eacb02fccd691f8d46e775570affe
+        mime: image/jpeg
+        bytes: 86529
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/31/20/3120a7b803d8fb8a45b1c3221e5839e684f051bc21816a4e756876061623b51d/original.tif
+    sha256: 3120a7b803d8fb8a45b1c3221e5839e684f051bc21816a4e756876061623b51d
+    mime: image/tiff
+    bytes: 13517564
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/31/20/3120a7b803d8fb8a45b1c3221e5839e684f051bc21816a4e756876061623b51d/preview-400.a7875460d023.jpg
+        sha256: a7875460d0234f0ff1dcb9284a44c67bdef6e6eabee472563a55370cfa891ff6
+        mime: image/jpeg
+        bytes: 86891
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

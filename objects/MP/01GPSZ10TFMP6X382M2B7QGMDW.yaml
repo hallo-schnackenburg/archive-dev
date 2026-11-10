@@ -1,0 +1,34 @@
+id: 01GPSZ10TFMP6X382M2B7QGMDW
+type: image
+subtype: plan
+title: Marktplatz Ansicht am Morgen
+date: 1932-08
+location: Lenzen, Brücke
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/d4/a7/d4a7384199a601fcafa0853abedc5569e6be0ca5d16ee65073b207f218054225/original.tif
+    sha256: d4a7384199a601fcafa0853abedc5569e6be0ca5d16ee65073b207f218054225
+    mime: image/tiff
+    bytes: 2245619
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/a7/d4a7384199a601fcafa0853abedc5569e6be0ca5d16ee65073b207f218054225/preview-400.443909c5d714.jpg
+        sha256: 443909c5d7143967c75ded2e1e3a69affca639f9b8381b585fe2fe62ea8a57d4
+        mime: image/jpeg
+        bytes: 74903
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

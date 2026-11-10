@@ -1,0 +1,34 @@
+id: 01HGVRW1GEZ5RX4RG915P9J1DP
+type: image
+subtype: plan
+title: Dorfschule Festtag am Morgen
+date: 1930/1932
+location: Schnackenburg, Pfarrhaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/03/dd/03dd009befe93ef3b5adae309cd57f93fabd3804a968103c2adabc0fcd2618cf/original.tif
+    sha256: 03dd009befe93ef3b5adae309cd57f93fabd3804a968103c2adabc0fcd2618cf
+    mime: image/tiff
+    bytes: 14921059
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/03/dd/03dd009befe93ef3b5adae309cd57f93fabd3804a968103c2adabc0fcd2618cf/preview-400.d6757d9acdc2.jpg
+        sha256: d6757d9acdc290386b340789ea2a373d2b017a7b8940fc6ca30f70d77b451717
+        mime: image/jpeg
+        bytes: 60279
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

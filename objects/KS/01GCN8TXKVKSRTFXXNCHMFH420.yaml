@@ -1,0 +1,34 @@
+id: 01GCN8TXKVKSRTFXXNCHMFH420
+type: image
+subtype: plan
+title: Brücke Notiz zur Ernte
+date: 2014-11
+location: Gartow, Kirche St. Johannis
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/14/14/1414db2775784c9dfd94ee1e9dcaa45c5ac587be6b52e426ab8f56a663cc7861/original.tif
+    sha256: 1414db2775784c9dfd94ee1e9dcaa45c5ac587be6b52e426ab8f56a663cc7861
+    mime: image/tiff
+    bytes: 26408552
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/14/1414db2775784c9dfd94ee1e9dcaa45c5ac587be6b52e426ab8f56a663cc7861/preview-400.c535b337fbae.jpg
+        sha256: c535b337fbaed6b71c4aa8df1c41a17633a44ffeaabe650dba20e7373690c876
+        mime: image/jpeg
+        bytes: 39770
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

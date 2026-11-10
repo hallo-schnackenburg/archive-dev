@@ -1,0 +1,53 @@
+id: 01F9P6JW5MMNE8WVQ8KHGY56DK
+type: document
+subtype: letter
+title: Mühle Abriss zur Wende
+description: Schreibt über die Ernte und das Wetter.
+date: 1856-12-14
+language: de
+origin:
+  name: Walter Kuhlmann
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/ca/b6/cab6cd512b42e0d2a93f1297e44a0f7c3802db45b77e5517efe27bc80b96ce98/original.tif
+    sha256: cab6cd512b42e0d2a93f1297e44a0f7c3802db45b77e5517efe27bc80b96ce98
+    mime: image/tiff
+    bytes: 12496894
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ca/b6/cab6cd512b42e0d2a93f1297e44a0f7c3802db45b77e5517efe27bc80b96ce98/preview-400.f83b8c801d64.jpg
+        sha256: f83b8c801d642c89796ecaf8cb68852e070497cfaeed6628f785bbb83d30c0c9
+        mime: image/jpeg
+        bytes: 70047
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/62/02/620238d0a398368b3414ba9b7d65e65eb3440633e999d09ea40eae872b7048a8/original.tif
+    sha256: 620238d0a398368b3414ba9b7d65e65eb3440633e999d09ea40eae872b7048a8
+    mime: image/tiff
+    bytes: 8310488
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/62/02/620238d0a398368b3414ba9b7d65e65eb3440633e999d09ea40eae872b7048a8/preview-400.de0ffa84b1a5.jpg
+        sha256: de0ffa84b1a5127a4be66136e90b5237b549be74598d411de225956ed8cdf856
+        mime: image/jpeg
+        bytes: 68965
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01HS6XSGB7RZ8784A2FS069MM2
+type: image
+subtype: photo
+title: Friedhof Brief zu Pfingsten
+date: 1859-05
+location: Pretzier, Mühle
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/26/0a/260a36b021675fb7ed0cc5d3601109ff544b8dba2f1ca817a50c0546d8b130dd/original.jpg
+    sha256: 260a36b021675fb7ed0cc5d3601109ff544b8dba2f1ca817a50c0546d8b130dd
+    mime: image/jpeg
+    bytes: 1699334
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/26/0a/260a36b021675fb7ed0cc5d3601109ff544b8dba2f1ca817a50c0546d8b130dd/preview-400.ffef2eacfe91.jpg
+        sha256: ffef2eacfe91898851eff625b16b54a400d1dea7449c39fd806d37f5e70d851d
+        mime: image/jpeg
+        bytes: 79561
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

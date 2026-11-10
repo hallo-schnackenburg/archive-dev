@@ -1,0 +1,53 @@
+id: 01HGB8DBWC8T1FMSQQYARV7412
+type: document
+subtype: letter
+title: Schützenfest Ansicht zur Wende
+description: Schreibt über die Ernte und das Wetter.
+date: 2000-11-19
+language: de
+origin:
+  name: Hans Brandt
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/1c/dd/1cdd02606dac8bdd852f39823a919fd73fbd9e0fa336e4dbfe7fae85ca3fc458/original.tif
+    sha256: 1cdd02606dac8bdd852f39823a919fd73fbd9e0fa336e4dbfe7fae85ca3fc458
+    mime: image/tiff
+    bytes: 22309341
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/dd/1cdd02606dac8bdd852f39823a919fd73fbd9e0fa336e4dbfe7fae85ca3fc458/preview-400.13e10a21c21b.jpg
+        sha256: 13e10a21c21b7c016927aa29002f974c7d4826f8b7edae8cd500422efab436c2
+        mime: image/jpeg
+        bytes: 84454
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/3f/d1/3fd15f90da1fd351508c0f8a794ca8edfcaf84a85edb2775fedfb68791e5eb51/original.tif
+    sha256: 3fd15f90da1fd351508c0f8a794ca8edfcaf84a85edb2775fedfb68791e5eb51
+    mime: image/tiff
+    bytes: 3563456
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3f/d1/3fd15f90da1fd351508c0f8a794ca8edfcaf84a85edb2775fedfb68791e5eb51/preview-400.c963681a7ae9.jpg
+        sha256: c963681a7ae913ac705f2c090baf453ec71a586dfff4e951fce2f89ad26c5fe9
+        mime: image/jpeg
+        bytes: 26501
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

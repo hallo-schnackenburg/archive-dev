@@ -1,0 +1,35 @@
+id: 01H9G7TNH0F24ESJC743ZA6VRT
+type: image
+subtype: photo
+title: Bahnhof Prospekt nach dem Krieg
+date: 1957-05-17
+location: Gartow, Gasthof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/a5/c2/a5c21e251dd8aa7d96b1df2956a668c51050d0d2a1135c316f26cf207fa2cd16/original.jpg
+    sha256: a5c21e251dd8aa7d96b1df2956a668c51050d0d2a1135c316f26cf207fa2cd16
+    mime: image/jpeg
+    bytes: 17526983
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a5/c2/a5c21e251dd8aa7d96b1df2956a668c51050d0d2a1135c316f26cf207fa2cd16/preview-400.69135a1cb60e.jpg
+        sha256: 69135a1cb60e5327b3a50d7b8336167f15f38e8e0247991521bd81efaf8e8e24
+        mime: image/jpeg
+        bytes: 56735
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

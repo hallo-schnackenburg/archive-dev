@@ -1,0 +1,39 @@
+id: 01KKNFDCHEWR5VJXQ4QPRS4QW7
+type: image
+subtype: photo
+title: Elbdeich Prospekt zu Pfingsten
+date: 1885-01
+location: Gorleben, Friedhof
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/94/99/94995f90706c0413c835c546f14ad14b58944099405a09f3283959f904af8d85/original.jpg
+    sha256: 94995f90706c0413c835c546f14ad14b58944099405a09f3283959f904af8d85
+    mime: image/jpeg
+    bytes: 12258471
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/94/99/94995f90706c0413c835c546f14ad14b58944099405a09f3283959f904af8d85/preview-400.7855d42ee0b8.jpg
+        sha256: 7855d42ee0b83a2cb73d4bd5e7976153339c336c7e0cf01b1dd08548a258015c
+        mime: image/jpeg
+        bytes: 61817
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

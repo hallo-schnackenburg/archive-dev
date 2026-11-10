@@ -1,0 +1,34 @@
+id: 01J59YQEE0KGGJ2XFVGN713XZF
+type: image
+subtype: plan
+title: Elbufer Bericht am Sonntag
+date: "2000"
+location: Seedorf, Mühle
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/da/44/da44a2cbbcec91c16cf6d33c60b5a52a05926465f3154c53ef3c26b5b91c2735/original.tif
+    sha256: da44a2cbbcec91c16cf6d33c60b5a52a05926465f3154c53ef3c26b5b91c2735
+    mime: image/tiff
+    bytes: 12206473
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/44/da44a2cbbcec91c16cf6d33c60b5a52a05926465f3154c53ef3c26b5b91c2735/preview-400.0b30a28a493c.jpg
+        sha256: 0b30a28a493ce39d3b3802068ce489b1a6753d8a985c2931fd3f360063777fe8
+        mime: image/jpeg
+        bytes: 85071
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

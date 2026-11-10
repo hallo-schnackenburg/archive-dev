@@ -1,0 +1,47 @@
+id: 01F6A3B65PJY42EFSH3167CEP1
+type: image
+subtype: photo
+title: Feuerwehr Besuch nach dem Krieg
+description: Hafen und mühle, zur Ernte.
+date: 1873~
+location: Seedorf, Fachwerkhaus
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Karl Lemke
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/c7/6d/c76daa12d982540fc332fba590a86d5dc417e673807b1a6d784446f7d1cb7749/original.jpg
+    sha256: c76daa12d982540fc332fba590a86d5dc417e673807b1a6d784446f7d1cb7749
+    mime: image/jpeg
+    bytes: 21650756
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c7/6d/c76daa12d982540fc332fba590a86d5dc417e673807b1a6d784446f7d1cb7749/preview-400.4777d40a0f96.jpg
+        sha256: 4777d40a0f96286fe92af2813ed9c66a640efcfd1206a53d1a2be089e7094e44
+        mime: image/jpeg
+        bytes: 75650
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

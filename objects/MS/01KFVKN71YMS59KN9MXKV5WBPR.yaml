@@ -1,0 +1,73 @@
+id: 01KFVKN71YMS59KN9MXKV5WBPR
+type: document
+subtype: letter
+title: Hochwasser Prospekt am Morgen
+date: 2013-09-17
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Ostfront
+recipient: Familie Lüders, Schnackenburg
+notes: Teilweise schwer lesbar.
+files:
+  - role: page
+    num: 1
+    original_name: feldpost_lueders_001.tif
+    path: files/32/d1/32d1baf560fa58f2c844370c1fda4dc6c8284e6d655583643ae02432e96a29ee/original.tif
+    sha256: 32d1baf560fa58f2c844370c1fda4dc6c8284e6d655583643ae02432e96a29ee
+    mime: image/tiff
+    bytes: 12905061
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/32/d1/32d1baf560fa58f2c844370c1fda4dc6c8284e6d655583643ae02432e96a29ee/preview-400.742734223f03.jpg
+        sha256: 742734223f03dbe3a8ae2904fc8ea426ff52e73c26e6d0c16338231049c59532
+        mime: image/jpeg
+        bytes: 83682
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: feldpost_lueders_002.tif
+    path: files/ce/06/ce0670faed846da639b061a10f838b18d7205aa08c67fe47280aa081f34b1548/original.tif
+    sha256: ce0670faed846da639b061a10f838b18d7205aa08c67fe47280aa081f34b1548
+    mime: image/tiff
+    bytes: 26157037
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ce/06/ce0670faed846da639b061a10f838b18d7205aa08c67fe47280aa081f34b1548/preview-400.3fa3c88810a8.jpg
+        sha256: 3fa3c88810a8b31880aaadfa3147a40636ad0d1c8be9f31567ca697c1c3b05c3
+        mime: image/jpeg
+        bytes: 51316
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: feldpost_lueders_003.tif
+    path: files/0d/bf/0dbf7f4c23670b2753580dc0fbbf9ee363f4c8e98cfb9ba97a6054454bda6dfd/original.tif
+    sha256: 0dbf7f4c23670b2753580dc0fbbf9ee363f4c8e98cfb9ba97a6054454bda6dfd
+    mime: image/tiff
+    bytes: 15028660
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0d/bf/0dbf7f4c23670b2753580dc0fbbf9ee363f4c8e98cfb9ba97a6054454bda6dfd/preview-400.1e16b0b75f26.jpg
+        sha256: 1e16b0b75f2669672e44a59fad654ac8bd5cc923cfc148a082ab6f4dc1808527
+        mime: image/jpeg
+        bytes: 51345
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,51 @@
+id: 01JX2S0M232KX48N51GP43R2NB
+type: document
+subtype: brochure
+title: Gasthof Ansicht zur Ernte
+date: 2000-09
+language: de
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/17/9f/179f737352f35e6ada1fa8e3676674c053831db314ef78736c490c35bfa1cd0f/original.tif
+    sha256: 179f737352f35e6ada1fa8e3676674c053831db314ef78736c490c35bfa1cd0f
+    mime: image/tiff
+    bytes: 5170844
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/17/9f/179f737352f35e6ada1fa8e3676674c053831db314ef78736c490c35bfa1cd0f/preview-400.8278f7866096.jpg
+        sha256: 8278f7866096d3a0a03cf026f8333ff28d5b203e10d80bcd1e7bd9ed0ea81188
+        mime: image/jpeg
+        bytes: 81602
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/f4/7f/f47f85d5130c78c55216921e674e1a0a67cf4e82857e2b82c5035655024c02da/original.tif
+    sha256: f47f85d5130c78c55216921e674e1a0a67cf4e82857e2b82c5035655024c02da
+    mime: image/tiff
+    bytes: 8644292
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f4/7f/f47f85d5130c78c55216921e674e1a0a67cf4e82857e2b82c5035655024c02da/preview-400.dff8fbee0f69.jpg
+        sha256: dff8fbee0f69f92c35781609401e7af85ad195e4433f2649ec27af893c9dfd09
+        mime: image/jpeg
+        bytes: 49470
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

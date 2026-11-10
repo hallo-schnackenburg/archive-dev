@@ -1,0 +1,39 @@
+id: 01GAQ3723B3MV180TWF8BRAGMX
+type: image
+subtype: photo
+title: Elbdeich Bescheid im Sommer
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1948-06-06
+location: Pretzier, Ernte
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Ilse Wegner
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/8a/1f/8a1f6349e96dcecdae3082d8c67c620c19e777608caf815d0e91eb8d35376146/original.jpg
+    sha256: 8a1f6349e96dcecdae3082d8c67c620c19e777608caf815d0e91eb8d35376146
+    mime: image/jpeg
+    bytes: 20301029
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/8a/1f/8a1f6349e96dcecdae3082d8c67c620c19e777608caf815d0e91eb8d35376146/preview-400.fc4b6dc6c184.jpg
+        sha256: fc4b6dc6c1843e25e4e159ef6331fad716457c62623f5a08d0ba4d5fc8275b30
+        mime: image/jpeg
+        bytes: 30700
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,53 @@
+id: 01HGY7YDMD5Q8P2XFVDH494G16
+type: document
+subtype: letter
+title: Feuerwehr Jubiläum am Morgen
+description: Schmiede und molkerei, zur Wende.
+date: 2024-08
+language: de
+origin:
+  name: Anni Jeß
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/1d/8f/1d8f05993b866d879304e65b04befe34d8601f418a4914430a6ac80fcfb753b1/original.tif
+    sha256: 1d8f05993b866d879304e65b04befe34d8601f418a4914430a6ac80fcfb753b1
+    mime: image/tiff
+    bytes: 4743773
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/8f/1d8f05993b866d879304e65b04befe34d8601f418a4914430a6ac80fcfb753b1/preview-400.e44f63880581.jpg
+        sha256: e44f638805813e4f34a1d49891418bd901f4f554481815b4057b384660cf9862
+        mime: image/jpeg
+        bytes: 69549
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/be/35/be35873b29d2dbbb39c62191307271a40e9a30d1ca5f7079d823ac6fee9400e1/original.tif
+    sha256: be35873b29d2dbbb39c62191307271a40e9a30d1ca5f7079d823ac6fee9400e1
+    mime: image/tiff
+    bytes: 16644940
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/35/be35873b29d2dbbb39c62191307271a40e9a30d1ca5f7079d823ac6fee9400e1/preview-400.75a143e0faef.jpg
+        sha256: 75a143e0faef1fb53992ee9a9cdb2a197d27655d13f72e307b34bc42975852cc
+        mime: image/jpeg
+        bytes: 58009
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

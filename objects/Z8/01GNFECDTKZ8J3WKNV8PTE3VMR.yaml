@@ -1,0 +1,53 @@
+id: 01GNFECDTKZ8J3WKNV8PTE3VMR
+type: document
+subtype: letter
+title: Storchennest Protokoll im Winter
+description: Schreibt über die Ernte und das Wetter.
+date: 2000~
+language: de
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/6e/b4/6eb4fd997852efb7d67d5536d9d6c34859a1c45f2eb91c65a3c374c5a46e43e1/original.tif
+    sha256: 6eb4fd997852efb7d67d5536d9d6c34859a1c45f2eb91c65a3c374c5a46e43e1
+    mime: image/tiff
+    bytes: 3860607
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/b4/6eb4fd997852efb7d67d5536d9d6c34859a1c45f2eb91c65a3c374c5a46e43e1/preview-400.214fda32aee1.jpg
+        sha256: 214fda32aee1047075d8e5b1b8cf7ebedbd1abd96bf00b3eac739e33ef52b847
+        mime: image/jpeg
+        bytes: 37640
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/67/a8/67a809e74a547bb9e44f307ea8f6d2c437452fe95c5055252a16883fc16021e5/original.tif
+    sha256: 67a809e74a547bb9e44f307ea8f6d2c437452fe95c5055252a16883fc16021e5
+    mime: image/tiff
+    bytes: 23470490
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/67/a8/67a809e74a547bb9e44f307ea8f6d2c437452fe95c5055252a16883fc16021e5/preview-400.8b96062af309.jpg
+        sha256: 8b96062af3099798b6f9996b17ade6da91e0f236250b5b7550a13f09a51f4248
+        mime: image/jpeg
+        bytes: 70117
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

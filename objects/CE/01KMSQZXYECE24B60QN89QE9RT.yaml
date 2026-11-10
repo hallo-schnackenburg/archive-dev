@@ -1,0 +1,51 @@
+id: 01KMSQZXYECE24B60QN89QE9RT
+type: document
+subtype: brochure
+title: Pfarrhaus Umbau nach dem Krieg
+date: 2012-08-27
+language: de
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/a5/3c/a53c7d68489f1ad194111e573d569b5b45af3d0df5cdc882956cc856695d77de/original.tif
+    sha256: a53c7d68489f1ad194111e573d569b5b45af3d0df5cdc882956cc856695d77de
+    mime: image/tiff
+    bytes: 22740688
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a5/3c/a53c7d68489f1ad194111e573d569b5b45af3d0df5cdc882956cc856695d77de/preview-400.ec8307a1ce2b.jpg
+        sha256: ec8307a1ce2bf1851e10ad06577b93f0517553fa1af7493729e5d11c6a5e7ade
+        mime: image/jpeg
+        bytes: 26693
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/d3/03/d303300da2f965da612af5f0dc58731449ca7e78b796560be48ff0e6a170ed63/original.tif
+    sha256: d303300da2f965da612af5f0dc58731449ca7e78b796560be48ff0e6a170ed63
+    mime: image/tiff
+    bytes: 11267092
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d3/03/d303300da2f965da612af5f0dc58731449ca7e78b796560be48ff0e6a170ed63/preview-400.4fbd282d8fab.jpg
+        sha256: 4fbd282d8fab20365e908b7d053f0f66326bb2f254dc01cad8df35d782810eec
+        mime: image/jpeg
+        bytes: 52812
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

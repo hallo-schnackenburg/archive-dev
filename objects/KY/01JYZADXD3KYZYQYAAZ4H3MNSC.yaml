@@ -1,0 +1,34 @@
+id: 01JYZADXD3KYZYQYAAZ4H3MNSC
+type: image
+subtype: plan
+title: Elbufer Prospekt am Sonntag
+date: 1985~
+location: Gartow, Kindergarten
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/57/03/570327faed8f21525f0936d6c7bc7e055aac06385bd74206d7d7b41deefccf52/original.tif
+    sha256: 570327faed8f21525f0936d6c7bc7e055aac06385bd74206d7d7b41deefccf52
+    mime: image/tiff
+    bytes: 10141442
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/03/570327faed8f21525f0936d6c7bc7e055aac06385bd74206d7d7b41deefccf52/preview-400.f767ba7ee838.jpg
+        sha256: f767ba7ee838642ab363bf9626f9db5c3c99b81d9a52de46e84c7791b5fcfc93
+        mime: image/jpeg
+        bytes: 81296
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

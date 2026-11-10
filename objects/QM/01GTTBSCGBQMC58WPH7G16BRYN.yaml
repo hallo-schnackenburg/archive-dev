@@ -1,0 +1,34 @@
+id: 01GTTBSCGBQMC58WPH7G16BRYN
+type: image
+subtype: plan
+title: Mühle Entwurf am Morgen
+date: 1923~
+location: Schnackenburg, Storchennest
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/3c/43/3c4356af8fd85332ee1c8256cffea661e1df7631a5f9f4222187713d1d279953/original.tif
+    sha256: 3c4356af8fd85332ee1c8256cffea661e1df7631a5f9f4222187713d1d279953
+    mime: image/tiff
+    bytes: 15120721
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3c/43/3c4356af8fd85332ee1c8256cffea661e1df7631a5f9f4222187713d1d279953/preview-400.f70568f27c3d.jpg
+        sha256: f70568f27c3d734031c8aed88917bf0b251e39256aa4647ddbf51c41c22f8116
+        mime: image/jpeg
+        bytes: 52246
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

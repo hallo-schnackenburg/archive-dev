@@ -1,0 +1,51 @@
+id: 01GCP1MG48RSVEP1WDK0DBWR0N
+type: document
+subtype: brochure
+title: Kindergarten Prospekt im Winter
+date: 1878-04-09
+language: de
+origin:
+  name: Otto Hennings
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/12/c6/12c6e0784135f4e4875113daefc80ba253c13d8319c2a1fe5d2473da76cd3654/original.tif
+    sha256: 12c6e0784135f4e4875113daefc80ba253c13d8319c2a1fe5d2473da76cd3654
+    mime: image/tiff
+    bytes: 27284826
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/12/c6/12c6e0784135f4e4875113daefc80ba253c13d8319c2a1fe5d2473da76cd3654/preview-400.b2beffc729f6.jpg
+        sha256: b2beffc729f695496b9bc632af1cc8108cc3d9ff0c5bfa81812f4e4e287f9e74
+        mime: image/jpeg
+        bytes: 60843
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/3c/21/3c2146c08b84ef060a447eb7d3eb17865dd697e8f20db8e68392a2f2827bd12e/original.tif
+    sha256: 3c2146c08b84ef060a447eb7d3eb17865dd697e8f20db8e68392a2f2827bd12e
+    mime: image/tiff
+    bytes: 5703440
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3c/21/3c2146c08b84ef060a447eb7d3eb17865dd697e8f20db8e68392a2f2827bd12e/preview-400.15e4aa210c7d.jpg
+        sha256: 15e4aa210c7dff007d394b6e1d5c659ae9b58aa199ffd292bdf5868744ba7469
+        mime: image/jpeg
+        bytes: 32435
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

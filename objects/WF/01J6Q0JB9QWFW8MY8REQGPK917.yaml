@@ -1,0 +1,34 @@
+id: 01J6Q0JB9QWFW8MY8REQGPK917
+type: image
+subtype: plan
+title: Dorfschule Umzug bei Hochwasser
+date: 1909~
+location: Lüchow, Friedhof
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/a3/7a/a37aa567dde741241afff035f1c863aa5e677691b834c07be3ba72b252fba926/original.tif
+    sha256: a37aa567dde741241afff035f1c863aa5e677691b834c07be3ba72b252fba926
+    mime: image/tiff
+    bytes: 11693662
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a3/7a/a37aa567dde741241afff035f1c863aa5e677691b834c07be3ba72b252fba926/preview-400.dc6f85c85453.jpg
+        sha256: dc6f85c854537236151c944e14f1fee1a37722b96835bc979d7207698b8ea52f
+        mime: image/jpeg
+        bytes: 60764
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

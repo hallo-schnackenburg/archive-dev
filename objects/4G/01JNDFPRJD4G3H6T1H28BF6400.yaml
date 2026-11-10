@@ -1,0 +1,39 @@
+id: 01JNDFPRJD4G3H6T1H28BF6400
+type: image
+subtype: photo
+title: Schmiede Umbau zur Wende
+date: "1876"
+location: Gartow, Elbufer
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/42/6c/426c2a4887442241f4a1845c91f367723b9970b0d6cb1f26e15ea9e484172497/original.jpg
+    sha256: 426c2a4887442241f4a1845c91f367723b9970b0d6cb1f26e15ea9e484172497
+    mime: image/jpeg
+    bytes: 8495062
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/42/6c/426c2a4887442241f4a1845c91f367723b9970b0d6cb1f26e15ea9e484172497/preview-400.68805658e41e.jpg
+        sha256: 68805658e41ed7f11021f8b08178fa3fd4ec807e65cb07498eb2ffdae3eea231
+        mime: image/jpeg
+        bytes: 89459
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

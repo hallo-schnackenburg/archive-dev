@@ -1,0 +1,31 @@
+id: 01HTQZMA69MTG7NWPW5V0RZPXM
+type: image
+subtype: drawing
+title: Feuerwehr Aufnahme am Sonntag
+date: 2000-11
+origin:
+  name: Hans Brandt
+  type: person
+subjects:
+  - name: Stadtwappen
+    type: thing
+files:
+  - role: main
+    original_name: wappen_entwurf.tif
+    path: files/35/aa/35aa03792182c23f61dd2875523154c6c30afa83eee1c1baaf0fed71977650fe/original.tif
+    sha256: 35aa03792182c23f61dd2875523154c6c30afa83eee1c1baaf0fed71977650fe
+    mime: image/tiff
+    bytes: 8513516
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/35/aa/35aa03792182c23f61dd2875523154c6c30afa83eee1c1baaf0fed71977650fe/preview-400.3ec77baf6fcf.jpg
+        sha256: 3ec77baf6fcfde953088658202c4278e3295708a7c315c2a954ec41b5bbdbf60
+        mime: image/jpeg
+        bytes: 85761
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

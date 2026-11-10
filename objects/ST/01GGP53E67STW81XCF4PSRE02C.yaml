@@ -1,0 +1,35 @@
+id: 01GGP53E67STW81XCF4PSRE02C
+type: image
+subtype: photo
+title: Gasthof Bericht zur Ernte
+date: 1884/1887
+location: Restorf, Schmiede
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/c6/fa/c6fac8af71da7bbb0f5a9d4a3b4a91c2bea39e2b3cfeabb5b193172eb994654f/original.jpg
+    sha256: c6fac8af71da7bbb0f5a9d4a3b4a91c2bea39e2b3cfeabb5b193172eb994654f
+    mime: image/jpeg
+    bytes: 13309481
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c6/fa/c6fac8af71da7bbb0f5a9d4a3b4a91c2bea39e2b3cfeabb5b193172eb994654f/preview-400.2b7186232cda.jpg
+        sha256: 2b7186232cda9c851bb6155c7439a66eb9605fd1f9f5893d695693b9d2579326
+        mime: image/jpeg
+        bytes: 86644
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

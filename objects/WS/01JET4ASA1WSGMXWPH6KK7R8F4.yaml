@@ -1,0 +1,34 @@
+id: 01JET4ASA1WSGMXWPH6KK7R8F4
+type: image
+subtype: plan
+title: Kirche St. Johannis Brief zur Ernte
+date: "1922"
+location: Schnackenburg, Bahnhof
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/09/92/09920d5083257bdaa736004bab029a98843cb23310e5eaae1d3007d33d39586e/original.tif
+    sha256: 09920d5083257bdaa736004bab029a98843cb23310e5eaae1d3007d33d39586e
+    mime: image/tiff
+    bytes: 930484
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/92/09920d5083257bdaa736004bab029a98843cb23310e5eaae1d3007d33d39586e/preview-400.b38b3aca6865.jpg
+        sha256: b38b3aca6865a3aca609bb9f80cd9266b6acffb80066c955b7fcc13c8a50c88d
+        mime: image/jpeg
+        bytes: 72323
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01HKGKB5TRKPC6NBJ0WTV7N28T
+type: image
+subtype: photo
+title: Feuerwehr Festtag nach dem Krieg
+date: 1949-11-07
+location: Holtorf, Dorfteich
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/22/47/2247e28461810252234ee30989c47008a4c84f038cf47509511d19791749ca0a/original.jpg
+    sha256: 2247e28461810252234ee30989c47008a4c84f038cf47509511d19791749ca0a
+    mime: image/jpeg
+    bytes: 10650928
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/22/47/2247e28461810252234ee30989c47008a4c84f038cf47509511d19791749ca0a/preview-400.12fa85bb8eea.jpg
+        sha256: 12fa85bb8eea35510af1cbda9630307a62f37d35e382d63d88853d284c72762f
+        mime: image/jpeg
+        bytes: 51234
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

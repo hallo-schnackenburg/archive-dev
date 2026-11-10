@@ -1,0 +1,34 @@
+id: 01G26BRBD5C70KJ472ZQM868DX
+type: image
+subtype: plan
+title: Elbufer Rechnung im Sommer
+date: 1924-03
+location: Schnackenburg, Grenzturm
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Erika Voss
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/a5/e7/a5e72e929f050372f49c15c250d6f1037c296cb18a20612b6c6b37344dc9a3bd/original.tif
+    sha256: a5e72e929f050372f49c15c250d6f1037c296cb18a20612b6c6b37344dc9a3bd
+    mime: image/tiff
+    bytes: 19652070
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a5/e7/a5e72e929f050372f49c15c250d6f1037c296cb18a20612b6c6b37344dc9a3bd/preview-400.90af7268e20f.jpg
+        sha256: 90af7268e20fe63b309a3b4e7e31dfabfebaf5e854477ae9f750850410a47e19
+        mime: image/jpeg
+        bytes: 52223
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,29 @@
+id: 01GV53PNWGE15Q0WZ99D18GTPQ
+type: image
+subtype: plan
+title: Brücke Besuch am Sonntag
+date: 2015-12-28
+location: Seedorf, Gasthof
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: bauplan_feuerwehr.tif
+    path: files/ba/92/ba92cb9e0f75902bc2df724c262be8cd31723de2432622d78e17fc4463750a86/original.tif
+    sha256: ba92cb9e0f75902bc2df724c262be8cd31723de2432622d78e17fc4463750a86
+    mime: image/tiff
+    bytes: 24309969
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ba/92/ba92cb9e0f75902bc2df724c262be8cd31723de2432622d78e17fc4463750a86/preview-400.31b5ab8646f1.jpg
+        sha256: 31b5ab8646f1fcef36b1d40236f33fdff8e526ca97ea26fe820ebdd8a77c53ed
+        mime: image/jpeg
+        bytes: 89171
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

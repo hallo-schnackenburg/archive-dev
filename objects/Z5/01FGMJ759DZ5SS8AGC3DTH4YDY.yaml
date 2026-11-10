@@ -1,0 +1,34 @@
+id: 01FGMJ759DZ5SS8AGC3DTH4YDY
+type: image
+subtype: plan
+title: Pfarrhaus Zeichnung am Sonntag
+date: 1991-07-02
+location: Gartow, Gasthof
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/3f/4d/3f4d8af8af753224b8644010918f27a4d222220df6c26a177971a41b75a6fc72/original.tif
+    sha256: 3f4d8af8af753224b8644010918f27a4d222220df6c26a177971a41b75a6fc72
+    mime: image/tiff
+    bytes: 15159404
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3f/4d/3f4d8af8af753224b8644010918f27a4d222220df6c26a177971a41b75a6fc72/preview-400.e7e74be73b8f.jpg
+        sha256: e7e74be73b8f78beade57de0bb7b5077eb695e51fb47fdcade7715c9e1f6e5c8
+        mime: image/jpeg
+        bytes: 87187
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,51 @@
+id: 01GWDSZGDYY7EB03BWX1BRSNSW
+type: document
+subtype: brochure
+title: Fähre Bescheid bei Hochwasser
+date: "2008"
+language: de
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/04/82/0482804816e9e43eaeaf6ff4e045023380114d3bea6cd697c74800cff0fce189/original.tif
+    sha256: 0482804816e9e43eaeaf6ff4e045023380114d3bea6cd697c74800cff0fce189
+    mime: image/tiff
+    bytes: 20405294
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/82/0482804816e9e43eaeaf6ff4e045023380114d3bea6cd697c74800cff0fce189/preview-400.d8730ad401ef.jpg
+        sha256: d8730ad401ef0203da0b7d76b07eceb9db6f868b5a978763399aa277a912ca63
+        mime: image/jpeg
+        bytes: 59706
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/34/29/3429629efcc1f06a1a07272b3d15d5aeb451b2dd902daf9b9b18e63f7368cc15/original.tif
+    sha256: 3429629efcc1f06a1a07272b3d15d5aeb451b2dd902daf9b9b18e63f7368cc15
+    mime: image/tiff
+    bytes: 26608495
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/34/29/3429629efcc1f06a1a07272b3d15d5aeb451b2dd902daf9b9b18e63f7368cc15/preview-400.0a93221197fd.jpg
+        sha256: 0a93221197fd0220b16358f50aa4349a1f8070d77bd56fc5b7e0af9e9c7ae84f
+        mime: image/jpeg
+        bytes: 25306
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

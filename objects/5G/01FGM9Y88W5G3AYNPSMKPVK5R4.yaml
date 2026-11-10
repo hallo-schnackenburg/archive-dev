@@ -1,0 +1,51 @@
+id: 01FGM9Y88W5G3AYNPSMKPVK5R4
+type: document
+subtype: brochure
+title: Schmiede Entwurf nach dem Krieg
+date: 1905-11-14
+language: de
+origin:
+  name: Karl Lemke
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/30/a0/30a003f679855e1e4181dbdb72091ee68b1909297e26b8105391b454434c864c/original.tif
+    sha256: 30a003f679855e1e4181dbdb72091ee68b1909297e26b8105391b454434c864c
+    mime: image/tiff
+    bytes: 14263349
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/30/a0/30a003f679855e1e4181dbdb72091ee68b1909297e26b8105391b454434c864c/preview-400.875ebdc28a69.jpg
+        sha256: 875ebdc28a698439275f11118b42aec8e39d2b83f2b40bef9f5efb76c1131683
+        mime: image/jpeg
+        bytes: 22537
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/66/c1/66c10d6599cae7aee3b431446b88d2d8fb432439cbc20ef9da721a20136a10b1/original.tif
+    sha256: 66c10d6599cae7aee3b431446b88d2d8fb432439cbc20ef9da721a20136a10b1
+    mime: image/tiff
+    bytes: 26937815
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/66/c1/66c10d6599cae7aee3b431446b88d2d8fb432439cbc20ef9da721a20136a10b1/preview-400.7dd6de072ff6.jpg
+        sha256: 7dd6de072ff64629303ee52c717cd2b09fae6d8c964458d4cedce4a432cbc51f
+        mime: image/jpeg
+        bytes: 40371
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

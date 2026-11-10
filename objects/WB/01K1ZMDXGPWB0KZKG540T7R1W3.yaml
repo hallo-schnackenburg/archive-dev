@@ -1,0 +1,35 @@
+id: 01K1ZMDXGPWB0KZKG540T7R1W3
+type: image
+subtype: photo
+title: Elbufer Gruppenbild am Sonntag
+date: 1952-01-27
+location: Gorleben, Zollamt
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/88/1a/881af4d69bab146ac72a1194b23a14b0e348d42446acc921437fa72badbdfb03/original.jpg
+    sha256: 881af4d69bab146ac72a1194b23a14b0e348d42446acc921437fa72badbdfb03
+    mime: image/jpeg
+    bytes: 13069822
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/88/1a/881af4d69bab146ac72a1194b23a14b0e348d42446acc921437fa72badbdfb03/preview-400.730f1e65a875.jpg
+        sha256: 730f1e65a8756f1075f07666b8c7abf508bad0ed4b14cc5f9ad8921deaa8baf0
+        mime: image/jpeg
+        bytes: 63165
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

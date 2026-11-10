@@ -1,0 +1,35 @@
+id: 01JE2E3Z5N7FN2GC9SHV1ZWV03
+type: image
+subtype: photo
+title: Fachwerkhaus Zeichnung am Sonntag
+date: 1880-10-14
+location: Lenzen, Rathaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/09/82/098200910b446a86b768905331b989f5458011685806ee7ae349a1a53f997f29/original.jpg
+    sha256: 098200910b446a86b768905331b989f5458011685806ee7ae349a1a53f997f29
+    mime: image/jpeg
+    bytes: 3708922
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/09/82/098200910b446a86b768905331b989f5458011685806ee7ae349a1a53f997f29/preview-400.e82b9bf03c4b.jpg
+        sha256: e82b9bf03c4b3ba3936ef37ce333b90756ab785b0b0c072e4a90b8d1b33ee635
+        mime: image/jpeg
+        bytes: 40287
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

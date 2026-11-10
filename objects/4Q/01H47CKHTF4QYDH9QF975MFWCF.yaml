@@ -1,0 +1,35 @@
+id: 01H47CKHTF4QYDH9QF975MFWCF
+type: image
+subtype: photo
+title: Kindergarten Bericht im Sommer
+description: Das Wasser steht bis an die Deichkrone.
+date: "1854"
+location: Gorleben, Brunnen
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/35/bc/35bc4eb2b96ed80ce0e29f05c148a985732260c5169ff07767c86bcab50a1d9f/original.jpg
+    sha256: 35bc4eb2b96ed80ce0e29f05c148a985732260c5169ff07767c86bcab50a1d9f
+    mime: image/jpeg
+    bytes: 22232175
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/35/bc/35bc4eb2b96ed80ce0e29f05c148a985732260c5169ff07767c86bcab50a1d9f/preview-400.6af34d9f7f73.jpg
+        sha256: 6af34d9f7f7380a83846be5be5e2c5205c5cdb606d5656561e7c29eff7f5a145
+        mime: image/jpeg
+        bytes: 85561
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

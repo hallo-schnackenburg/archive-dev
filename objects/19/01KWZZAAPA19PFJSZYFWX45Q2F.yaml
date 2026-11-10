@@ -1,0 +1,34 @@
+id: 01KWZZAAPA19PFJSZYFWX45Q2F
+type: image
+subtype: print
+title: Dorfschule Umzug bei Hochwasser
+description: Kupferstich.
+date: 1992~
+origin:
+  name: Hans Brandt
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/da/06/da0675333c7447063040a993f563227375ffc4327aad14ea61459578954f85aa/original.tif
+    sha256: da0675333c7447063040a993f563227375ffc4327aad14ea61459578954f85aa
+    mime: image/tiff
+    bytes: 26371912
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/06/da0675333c7447063040a993f563227375ffc4327aad14ea61459578954f85aa/preview-400.8814edf8414b.jpg
+        sha256: 8814edf8414b85acf1345085e290c9f506bbf85d8a1ce2cafa078a5532d11da6
+        mime: image/jpeg
+        bytes: 58134
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

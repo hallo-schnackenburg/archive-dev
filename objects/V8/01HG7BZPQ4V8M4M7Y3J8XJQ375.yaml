@@ -1,0 +1,39 @@
+id: 01HG7BZPQ4V8M4M7Y3J8XJQ375
+type: image
+subtype: photo
+title: Bahnhof Prospekt am Morgen
+date: "1993"
+location: Pretzier, Dorfteich
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/06/7c/067cc9623cd861125b0a28604b8ad77def0e2ca4e5fb71da69bc522f41369a3a/original.jpg
+    sha256: 067cc9623cd861125b0a28604b8ad77def0e2ca4e5fb71da69bc522f41369a3a
+    mime: image/jpeg
+    bytes: 16561416
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/06/7c/067cc9623cd861125b0a28604b8ad77def0e2ca4e5fb71da69bc522f41369a3a/preview-400.b24f3248bc5f.jpg
+        sha256: b24f3248bc5feb0b666d9f75045e919daa6ceb2ba709581a73f7d8c451c72c7d
+        mime: image/jpeg
+        bytes: 56108
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

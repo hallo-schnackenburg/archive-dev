@@ -1,0 +1,34 @@
+id: 01HK6R7QYN0HDB4CHD10EPK85H
+type: image
+subtype: print
+title: Kirche St. Johannis Festtag nach dem Krieg
+description: Kupferstich.
+date: 1918-09-25
+origin:
+  name: Anni Jeß
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/6f/a0/6fa030342439839edaef6e68b700bc106c17f26a487941c9784d6cb49f62de56/original.tif
+    sha256: 6fa030342439839edaef6e68b700bc106c17f26a487941c9784d6cb49f62de56
+    mime: image/tiff
+    bytes: 4886925
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6f/a0/6fa030342439839edaef6e68b700bc106c17f26a487941c9784d6cb49f62de56/preview-400.9d27938ecd94.jpg
+        sha256: 9d27938ecd946935db7a6c2905e2dde9e6bd1bc7252904b6641894c4c987efff
+        mime: image/jpeg
+        bytes: 80247
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

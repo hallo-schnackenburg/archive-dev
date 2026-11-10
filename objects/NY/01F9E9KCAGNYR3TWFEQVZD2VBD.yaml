@@ -1,0 +1,35 @@
+id: 01F9E9KCAGNYR3TWFEQVZD2VBD
+type: image
+subtype: photo
+title: Zollamt Ansicht im Winter
+date: 1873-04
+location: Gartow, Friedhof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/04/52/0452fcfa89aa7f580f98a3bc4c8931414f21dc92e6040f010802d612da076873/original.jpg
+    sha256: 0452fcfa89aa7f580f98a3bc4c8931414f21dc92e6040f010802d612da076873
+    mime: image/jpeg
+    bytes: 5769465
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/04/52/0452fcfa89aa7f580f98a3bc4c8931414f21dc92e6040f010802d612da076873/preview-400.7e519a4e1737.jpg
+        sha256: 7e519a4e1737172fc27b954327cb43198099a52a4e326db6efa50c9d96324b8e
+        mime: image/jpeg
+        bytes: 72790
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

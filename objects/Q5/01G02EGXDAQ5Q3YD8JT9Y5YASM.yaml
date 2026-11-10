@@ -1,0 +1,34 @@
+id: 01G02EGXDAQ5Q3YD8JT9Y5YASM
+type: image
+subtype: plan
+title: Feuerwehr Einweihung im Winter
+date: "1852"
+location: Holtorf, Storchennest
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/cb/bf/cbbf18588cd081b65bdf763a3f2437daede321663c66d97ce6109cb661278a97/original.tif
+    sha256: cbbf18588cd081b65bdf763a3f2437daede321663c66d97ce6109cb661278a97
+    mime: image/tiff
+    bytes: 6235892
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cb/bf/cbbf18588cd081b65bdf763a3f2437daede321663c66d97ce6109cb661278a97/preview-400.d69bc94ce949.jpg
+        sha256: d69bc94ce9493e7dcc86fdf659dca219963bb374f0418f4d8449b28e1de07761
+        mime: image/jpeg
+        bytes: 79683
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01F96DGQRTA5CKRRVC2TV39D4G
+type: image
+subtype: print
+title: Friedhof Umzug am Sonntag
+description: Bäckerei und bäckerei, im Sommer.
+date: 1938-04-17
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/2e/8b/2e8b5ff14957e11b6df6f48bd266e9ca1743bbeef882a090aee777d3a0583c7d/original.tif
+    sha256: 2e8b5ff14957e11b6df6f48bd266e9ca1743bbeef882a090aee777d3a0583c7d
+    mime: image/tiff
+    bytes: 16950176
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/8b/2e8b5ff14957e11b6df6f48bd266e9ca1743bbeef882a090aee777d3a0583c7d/preview-400.05bde5adda8b.jpg
+        sha256: 05bde5adda8b2759abb968bf154cecc5f70240f4f1448e65bd9215f040243afa
+        mime: image/jpeg
+        bytes: 57052
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

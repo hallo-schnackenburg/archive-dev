@@ -1,0 +1,39 @@
+id: 01KE5089Q3PYQ4W5V999FNPR8C
+type: image
+subtype: photo
+title: Rathaus Umbau am Sonntag
+description: Gemeindehaus und dorfteich, vor dem Umbau.
+date: 1875-02
+location: Lenzen, Sportplatz
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Erika Voss
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/0d/94/0d9463ebe951dcfe2cacb353eed08e69c7f892f2fe590a8ad53260fa4b5d4197/original.jpg
+    sha256: 0d9463ebe951dcfe2cacb353eed08e69c7f892f2fe590a8ad53260fa4b5d4197
+    mime: image/jpeg
+    bytes: 6505283
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0d/94/0d9463ebe951dcfe2cacb353eed08e69c7f892f2fe590a8ad53260fa4b5d4197/preview-400.b34ee476d22b.jpg
+        sha256: b34ee476d22b6c80d0ba71fb37ac1ace167f18ab146661d3bf6017250ccc4622
+        mime: image/jpeg
+        bytes: 81946
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

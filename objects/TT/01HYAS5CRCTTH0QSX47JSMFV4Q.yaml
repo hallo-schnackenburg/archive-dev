@@ -1,0 +1,35 @@
+id: 01HYAS5CRCTTH0QSX47JSMFV4Q
+type: image
+subtype: photo
+title: Marktplatz Entwurf zur Wende
+date: "2012"
+location: Schnackenburg, Ernte
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/a9/ec/a9ecf15974a06232bc63f9e6aad420f46c80e8d0aeb7d218c0fcc6d81b1a10c0/original.jpg
+    sha256: a9ecf15974a06232bc63f9e6aad420f46c80e8d0aeb7d218c0fcc6d81b1a10c0
+    mime: image/jpeg
+    bytes: 1080644
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a9/ec/a9ecf15974a06232bc63f9e6aad420f46c80e8d0aeb7d218c0fcc6d81b1a10c0/preview-400.cb685faa56b5.jpg
+        sha256: cb685faa56b5384a2a353c98f85fe86a6bde5621a681067af833053160817bde
+        mime: image/jpeg
+        bytes: 22903
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

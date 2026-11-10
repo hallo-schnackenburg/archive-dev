@@ -1,0 +1,34 @@
+id: 01FG2VPWWF41PMFFJHFGVZ2FSZ
+type: image
+subtype: plan
+title: Brücke Notiz im Winter
+date: 2017-04-08
+location: Gorleben, Zollamt
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Erika Voss
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/d5/2d/d52d5b4b51039c4e259b1f90078d24c099e2b1353689801eb935f008abd9aea1/original.tif
+    sha256: d52d5b4b51039c4e259b1f90078d24c099e2b1353689801eb935f008abd9aea1
+    mime: image/tiff
+    bytes: 7046660
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/2d/d52d5b4b51039c4e259b1f90078d24c099e2b1353689801eb935f008abd9aea1/preview-400.5d278d61e3ad.jpg
+        sha256: 5d278d61e3ad2b91efedd29a8f77591864aedfb91fd61f4beefd095dbc50aa57
+        mime: image/jpeg
+        bytes: 79386
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

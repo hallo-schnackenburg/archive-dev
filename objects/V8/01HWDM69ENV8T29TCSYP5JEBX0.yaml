@@ -1,0 +1,37 @@
+id: 01HWDM69ENV8T29TCSYP5JEBX0
+type: image
+subtype: print
+title: Feuerwehr Notiz zur Wende
+date: 1860~
+location: Holtorf, Schmiede
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/8b/80/8b8040d05b333ceb7bc050b01f12c68545fcc35b79f183dd39a015d925c4ceaf/original.tif
+    sha256: 8b8040d05b333ceb7bc050b01f12c68545fcc35b79f183dd39a015d925c4ceaf
+    mime: image/tiff
+    bytes: 11919747
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8b/80/8b8040d05b333ceb7bc050b01f12c68545fcc35b79f183dd39a015d925c4ceaf/preview-400.f1fd3aace549.jpg
+        sha256: f1fd3aace5491c99a3be6ee4e028d943871be2728e96df2d249f914297e01698
+        mime: image/jpeg
+        bytes: 36721
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

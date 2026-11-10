@@ -1,0 +1,34 @@
+id: 01JTF3SBR96AE5C75MQ1Y1QXA0
+type: image
+subtype: print
+title: Hochwasser Umzug nach dem Krieg
+description: Kupferstich.
+date: 2022-02-21
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/b2/a0/b2a0d3f6683ed7b904bac8bac7341f6b36f505f745d5045666f7012d8089ef18/original.tif
+    sha256: b2a0d3f6683ed7b904bac8bac7341f6b36f505f745d5045666f7012d8089ef18
+    mime: image/tiff
+    bytes: 20344406
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b2/a0/b2a0d3f6683ed7b904bac8bac7341f6b36f505f745d5045666f7012d8089ef18/preview-400.1564ac799bdf.jpg
+        sha256: 1564ac799bdf4bf2aa8d515de2c5268b6b07279de4b5c4016cf3bdd72d62134a
+        mime: image/jpeg
+        bytes: 73034
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

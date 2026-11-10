@@ -1,0 +1,34 @@
+id: 01J340A2E9SA18WRYY4FJV55KN
+type: image
+subtype: print
+title: Hafen Abriss am Morgen
+description: Kirche St. Johannis und hafen, vor dem Umbau.
+date: 1993-01-20
+origin:
+  name: Marta Lüders
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/d1/d2/d1d2aa59724fbd9317afe5f4dc1a92cc62dea01b1b8b9187312ffacc424ff0f4/original.tif
+    sha256: d1d2aa59724fbd9317afe5f4dc1a92cc62dea01b1b8b9187312ffacc424ff0f4
+    mime: image/tiff
+    bytes: 17650445
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d1/d2/d1d2aa59724fbd9317afe5f4dc1a92cc62dea01b1b8b9187312ffacc424ff0f4/preview-400.a34bfe037dfa.jpg
+        sha256: a34bfe037dfa6de2faec6794b29f8aa57782b73034e9133457698c37a42bbe6b
+        mime: image/jpeg
+        bytes: 54145
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

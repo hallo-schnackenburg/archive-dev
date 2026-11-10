@@ -1,0 +1,53 @@
+id: 01KWT2RSYMHPJXN618JHGY4NH4
+type: document
+subtype: letter
+title: Schmiede Rechnung im Sommer
+description: Gemeindehaus und kindergarten, nach dem Krieg.
+date: 1926-01-23
+language: de
+origin:
+  name: Erika Voss
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/f9/b5/f9b5a3e2541cdc882e1ff3397bcad320fc3d1847dfbd9c935a73c6b8d159dbde/original.tif
+    sha256: f9b5a3e2541cdc882e1ff3397bcad320fc3d1847dfbd9c935a73c6b8d159dbde
+    mime: image/tiff
+    bytes: 8143217
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f9/b5/f9b5a3e2541cdc882e1ff3397bcad320fc3d1847dfbd9c935a73c6b8d159dbde/preview-400.bab2e16fc856.jpg
+        sha256: bab2e16fc8568d6a5d3b79231391bc49669ee62c47a8d77940eddb61447a1fc8
+        mime: image/jpeg
+        bytes: 35805
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/13/3f/133fd12d45a228279919a2cb4bd9df133dd9a6bac8193441d90ba7a08331066d/original.tif
+    sha256: 133fd12d45a228279919a2cb4bd9df133dd9a6bac8193441d90ba7a08331066d
+    mime: image/tiff
+    bytes: 10560126
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/13/3f/133fd12d45a228279919a2cb4bd9df133dd9a6bac8193441d90ba7a08331066d/preview-400.473c94c1fabc.jpg
+        sha256: 473c94c1fabcff867127434baaeb21d5bbdd94aae27eeee5bb88b629ea7abda2
+        mime: image/jpeg
+        bytes: 24520
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

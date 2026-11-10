@@ -1,0 +1,53 @@
+id: 01GBAMBYD3KCM2T4652M2XBQHV
+type: document
+subtype: letter
+title: Elbufer Bescheid im Winter
+description: Schreibt über die Ernte und das Wetter.
+date: 1926-04-20
+language: de
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/19/04/1904456c24bce8be1ffb8a8eeb67671fe5eda2032eb22d5d48714963e5d7c9a0/original.tif
+    sha256: 1904456c24bce8be1ffb8a8eeb67671fe5eda2032eb22d5d48714963e5d7c9a0
+    mime: image/tiff
+    bytes: 9548759
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/19/04/1904456c24bce8be1ffb8a8eeb67671fe5eda2032eb22d5d48714963e5d7c9a0/preview-400.f17fd51388bd.jpg
+        sha256: f17fd51388bd7a13ed7e40ced0c462de00e7558998070d7c80de148f6fb276d2
+        mime: image/jpeg
+        bytes: 81896
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/09/d1/09d16f3c6f37f98bc8dc228f8bd33f9814b3cd464a5e019861974006b726ec64/original.tif
+    sha256: 09d16f3c6f37f98bc8dc228f8bd33f9814b3cd464a5e019861974006b726ec64
+    mime: image/tiff
+    bytes: 20753973
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/d1/09d16f3c6f37f98bc8dc228f8bd33f9814b3cd464a5e019861974006b726ec64/preview-400.ea9769e6ff66.jpg
+        sha256: ea9769e6ff66a1c7f96a1e6d0f453133fa0849484ef05971ef2009dbf78ab636
+        mime: image/jpeg
+        bytes: 25135
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

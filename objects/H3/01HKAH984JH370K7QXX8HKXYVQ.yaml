@@ -1,0 +1,34 @@
+id: 01HKAH984JH370K7QXX8HKXYVQ
+type: image
+subtype: plan
+title: Hafen Jubiläum nach dem Krieg
+date: 1914~
+location: Lüchow, Fachwerkhaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/7d/4a/7d4a51c315fe2c64ac91f95923e2dbaccd28b04f883a932a6ab22b4aedbac78e/original.tif
+    sha256: 7d4a51c315fe2c64ac91f95923e2dbaccd28b04f883a932a6ab22b4aedbac78e
+    mime: image/tiff
+    bytes: 746831
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7d/4a/7d4a51c315fe2c64ac91f95923e2dbaccd28b04f883a932a6ab22b4aedbac78e/preview-400.1286fdd616ff.jpg
+        sha256: 1286fdd616ff3522aa5fab13ea544b926e32a95bf4bc93b5b8c770d11a5aa312
+        mime: image/jpeg
+        bytes: 78787
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

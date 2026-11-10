@@ -1,0 +1,34 @@
+id: 01KYH7TSDYGH6M7XC5N2HBQ4B9
+type: image
+subtype: print
+title: Elbdeich Umbau nach dem Krieg
+description: Kupferstich.
+date: "2020"
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/07/35/0735af36dfed57cc7418a89b109f80c93d1fdd2ffadd714e2f458d22e7122d93/original.tif
+    sha256: 0735af36dfed57cc7418a89b109f80c93d1fdd2ffadd714e2f458d22e7122d93
+    mime: image/tiff
+    bytes: 13175599
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/35/0735af36dfed57cc7418a89b109f80c93d1fdd2ffadd714e2f458d22e7122d93/preview-400.69bfaf027605.jpg
+        sha256: 69bfaf027605917c43a7275ad3e117af1cb0c4d15f44a26a45a6ac09915b4888
+        mime: image/jpeg
+        bytes: 81891
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

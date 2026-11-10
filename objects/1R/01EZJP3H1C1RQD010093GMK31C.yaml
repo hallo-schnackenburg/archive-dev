@@ -1,0 +1,35 @@
+id: 01EZJP3H1C1RQD010093GMK31C
+type: image
+subtype: photo
+title: Brücke Ansicht zur Ernte
+date: "2001"
+location: Gartow, Hochwasser
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/a5/69/a56953ddf22cc668e4ca5a534677a50ea01f48a7ce0e8d98391d1f69c5837431/original.jpg
+    sha256: a56953ddf22cc668e4ca5a534677a50ea01f48a7ce0e8d98391d1f69c5837431
+    mime: image/jpeg
+    bytes: 1991155
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a5/69/a56953ddf22cc668e4ca5a534677a50ea01f48a7ce0e8d98391d1f69c5837431/preview-400.e06eac426241.jpg
+        sha256: e06eac42624154dc1fc7f8c4224d861abb9a0fd119da38892f08396549fa300f
+        mime: image/jpeg
+        bytes: 71187
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

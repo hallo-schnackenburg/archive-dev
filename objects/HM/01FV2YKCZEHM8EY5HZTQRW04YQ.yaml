@@ -1,0 +1,51 @@
+id: 01FV2YKCZEHM8EY5HZTQRW04YQ
+type: document
+subtype: brochure
+title: Feuerwehr Umbau am Morgen
+date: 2001-11
+language: de
+origin:
+  name: Anni Jeß
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/f3/ba/f3ba83779dc2235dd0bb61725c407ea2653fe5814c73569be5945c1494ff66be/original.tif
+    sha256: f3ba83779dc2235dd0bb61725c407ea2653fe5814c73569be5945c1494ff66be
+    mime: image/tiff
+    bytes: 1194528
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f3/ba/f3ba83779dc2235dd0bb61725c407ea2653fe5814c73569be5945c1494ff66be/preview-400.a674eada626a.jpg
+        sha256: a674eada626a32d663c4df239765dc6d2fee9f9dfaec47eea3e79f20c067717c
+        mime: image/jpeg
+        bytes: 52937
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/7c/08/7c0831ea3ab4fd24c5620eec6ff2aa5fa1ba9db9f250f0f3042e58f72114933e/original.tif
+    sha256: 7c0831ea3ab4fd24c5620eec6ff2aa5fa1ba9db9f250f0f3042e58f72114933e
+    mime: image/tiff
+    bytes: 8477386
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7c/08/7c0831ea3ab4fd24c5620eec6ff2aa5fa1ba9db9f250f0f3042e58f72114933e/preview-400.1714233cf993.jpg
+        sha256: 1714233cf993fdde5d1cf31fc9bc832010fde84d07d28257d21e533e20be61e8
+        mime: image/jpeg
+        bytes: 77696
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

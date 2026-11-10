@@ -1,0 +1,39 @@
+id: 01FBTRW540W76VJHYP3DGAPW69
+type: image
+subtype: photo
+title: Rathaus Umzug am Morgen
+date: "1859"
+location: Kapern, Marktplatz
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/b9/07/b907c93ccef337346a5e2f9973944987c75c512ea2e7df6ea39037b4f16f5ca9/original.jpg
+    sha256: b907c93ccef337346a5e2f9973944987c75c512ea2e7df6ea39037b4f16f5ca9
+    mime: image/jpeg
+    bytes: 7240818
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b9/07/b907c93ccef337346a5e2f9973944987c75c512ea2e7df6ea39037b4f16f5ca9/preview-400.91a2cd0cd116.jpg
+        sha256: 91a2cd0cd116fefc65ab9182f3fca0092d27956ff6f7705dbb11d5a20977d659
+        mime: image/jpeg
+        bytes: 23544
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

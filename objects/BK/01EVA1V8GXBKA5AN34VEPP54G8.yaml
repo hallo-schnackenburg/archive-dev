@@ -1,0 +1,51 @@
+id: 01EVA1V8GXBKA5AN34VEPP54G8
+type: document
+subtype: brochure
+title: Elbdeich Prospekt am Sonntag
+date: 1901-09-11
+language: de
+origin:
+  name: Otto Hennings
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/3a/e2/3ae2720ad655cdb8327f4c1af390a789312fb6bc2bedabd7c59d736777ac9936/original.tif
+    sha256: 3ae2720ad655cdb8327f4c1af390a789312fb6bc2bedabd7c59d736777ac9936
+    mime: image/tiff
+    bytes: 24909170
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3a/e2/3ae2720ad655cdb8327f4c1af390a789312fb6bc2bedabd7c59d736777ac9936/preview-400.2843fec83d44.jpg
+        sha256: 2843fec83d44c34eece1e012b6813fc39ce8dab82771e8f06a67cec9a561d1c8
+        mime: image/jpeg
+        bytes: 64995
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/ed/a6/eda6d0ea0e50fc87513c0e4dc103aa5b9c55e57edb3708effb2dc886ea91588a/original.tif
+    sha256: eda6d0ea0e50fc87513c0e4dc103aa5b9c55e57edb3708effb2dc886ea91588a
+    mime: image/tiff
+    bytes: 8159888
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ed/a6/eda6d0ea0e50fc87513c0e4dc103aa5b9c55e57edb3708effb2dc886ea91588a/preview-400.267703b7fb79.jpg
+        sha256: 267703b7fb79fa97a1321f85f4d6259317808ccf40f9be911ad1ff23ac6ee0db
+        mime: image/jpeg
+        bytes: 88751
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

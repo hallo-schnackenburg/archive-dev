@@ -1,0 +1,51 @@
+id: 01JFVAH953AMF2TVBR4TWCAK6S
+type: document
+subtype: brochure
+title: Brücke Einweihung vor dem Umbau
+date: 1934-03-02
+language: de
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/16/80/16804082eacd39dd8ac928594cd144936c25ff509495e435c582539ce6ee218a/original.tif
+    sha256: 16804082eacd39dd8ac928594cd144936c25ff509495e435c582539ce6ee218a
+    mime: image/tiff
+    bytes: 13494149
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/16/80/16804082eacd39dd8ac928594cd144936c25ff509495e435c582539ce6ee218a/preview-400.d641963c0979.jpg
+        sha256: d641963c0979ff6a8e9a91af9ebeb4e97cc9669f5c18ef71562973108dafa814
+        mime: image/jpeg
+        bytes: 83677
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/cd/23/cd23341c8ec0a56ad4a0af2b8eec6b263a01593faba371dbdde780c0c7659439/original.tif
+    sha256: cd23341c8ec0a56ad4a0af2b8eec6b263a01593faba371dbdde780c0c7659439
+    mime: image/tiff
+    bytes: 21714788
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/23/cd23341c8ec0a56ad4a0af2b8eec6b263a01593faba371dbdde780c0c7659439/preview-400.70f594f82bea.jpg
+        sha256: 70f594f82beaf3de84c557517adaaa5ddbcb45d56d1cb4f6170ff8959f8a6145
+        mime: image/jpeg
+        bytes: 60045
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

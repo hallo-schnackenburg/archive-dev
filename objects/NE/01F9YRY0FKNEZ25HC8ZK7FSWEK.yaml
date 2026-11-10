@@ -1,0 +1,39 @@
+id: 01F9YRY0FKNEZ25HC8ZK7FSWEK
+type: image
+subtype: photo
+title: Fachwerkhaus Jubiläum zur Wende
+date: "1874"
+location: Schnackenburg, Molkerei
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/dc/c6/dcc6e467a60c35d3a59ffefa3177f75ecc8a6523edad12064c31151f6ea68d90/original.jpg
+    sha256: dcc6e467a60c35d3a59ffefa3177f75ecc8a6523edad12064c31151f6ea68d90
+    mime: image/jpeg
+    bytes: 24171180
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/dc/c6/dcc6e467a60c35d3a59ffefa3177f75ecc8a6523edad12064c31151f6ea68d90/preview-400.edc8dfa35e48.jpg
+        sha256: edc8dfa35e487545b8c3fe9bd985c46f47e8253b1952fe1b6066694741c3c892
+        mime: image/jpeg
+        bytes: 21181
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

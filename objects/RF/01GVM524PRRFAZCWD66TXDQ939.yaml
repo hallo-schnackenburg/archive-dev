@@ -1,0 +1,39 @@
+id: 01GVM524PRRFAZCWD66TXDQ939
+type: image
+subtype: photo
+title: Elbufer Umzug zur Wende
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1962-10-15
+location: Lüchow, Molkerei
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Gerda Schulz
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/fb/b6/fbb640c60048631a92f5a4029582fdb5ef5e1991602fa18fce728b174901b21f/original.jpg
+    sha256: fbb640c60048631a92f5a4029582fdb5ef5e1991602fa18fce728b174901b21f
+    mime: image/jpeg
+    bytes: 16261403
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fb/b6/fbb640c60048631a92f5a4029582fdb5ef5e1991602fa18fce728b174901b21f/preview-400.c740e630c4ce.jpg
+        sha256: c740e630c4cebdf531b0d58eb96d1151c19b25482baa3fe19151eb794ae798a3
+        mime: image/jpeg
+        bytes: 46025
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

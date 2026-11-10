@@ -1,0 +1,34 @@
+id: 01GS7MBP2Y1ZD1KRMJ7GW049DC
+type: image
+subtype: plan
+title: Pfarrhaus Entwurf am Sonntag
+date: 1931-07-15
+location: Restorf, Sportplatz
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/a3/83/a3834f9eb9aee288247a1715666ca36eabaa66e94f544355cac483aabc27b779/original.tif
+    sha256: a3834f9eb9aee288247a1715666ca36eabaa66e94f544355cac483aabc27b779
+    mime: image/tiff
+    bytes: 10629248
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a3/83/a3834f9eb9aee288247a1715666ca36eabaa66e94f544355cac483aabc27b779/preview-400.013cf569f9a0.jpg
+        sha256: 013cf569f9a04e012bf2749d28ce4bdddc5376317234ffe78c1c9e4f0b0bbdfd
+        mime: image/jpeg
+        bytes: 67478
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

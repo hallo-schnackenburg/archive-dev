@@ -1,0 +1,51 @@
+id: 01JN8X3Q8V7ZPN5A42VAVDSVM1
+type: document
+subtype: brochure
+title: Bäckerei Entwurf am Sonntag
+date: 2007-07-10
+language: de
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/2d/ae/2dae723b0750c1839f1c2af0694590c493ba20decb0ffd7797385599bb4612f3/original.tif
+    sha256: 2dae723b0750c1839f1c2af0694590c493ba20decb0ffd7797385599bb4612f3
+    mime: image/tiff
+    bytes: 10143042
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/ae/2dae723b0750c1839f1c2af0694590c493ba20decb0ffd7797385599bb4612f3/preview-400.7d736f1aa4f0.jpg
+        sha256: 7d736f1aa4f06a5a6ada861c26c5728c037f13cb185075a024c390bd2349f2ad
+        mime: image/jpeg
+        bytes: 21538
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/0d/42/0d422819f26cb4fd59f174e882c6d6f4b80e613f2e9dcd12fd3ab1824bc0e344/original.tif
+    sha256: 0d422819f26cb4fd59f174e882c6d6f4b80e613f2e9dcd12fd3ab1824bc0e344
+    mime: image/tiff
+    bytes: 3516887
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0d/42/0d422819f26cb4fd59f174e882c6d6f4b80e613f2e9dcd12fd3ab1824bc0e344/preview-400.6ff780add921.jpg
+        sha256: 6ff780add9211ad7e84112e0b975d3eb0d2ce453078d95f09734377063a16a56
+        mime: image/jpeg
+        bytes: 70279
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

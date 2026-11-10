@@ -1,0 +1,34 @@
+id: 01FVSYF43EWXG4RFY4A0647GX9
+type: image
+subtype: plan
+title: Sportplatz Notiz am Sonntag
+date: 1923-01-21
+location: Restorf, Gasthof
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/d4/cc/d4cc615985626923e1075ee7767abf33977db940af2c7255248dc9dfb06d11bf/original.tif
+    sha256: d4cc615985626923e1075ee7767abf33977db940af2c7255248dc9dfb06d11bf
+    mime: image/tiff
+    bytes: 7025396
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/cc/d4cc615985626923e1075ee7767abf33977db940af2c7255248dc9dfb06d11bf/preview-400.bf2f42ba5583.jpg
+        sha256: bf2f42ba5583b4de55aa13086d373fa9b1fcc5fa041e87aef5bfad84a754e8a5
+        mime: image/jpeg
+        bytes: 23584
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01FBMNRKFJFDWT9K3VJHPVZ5KX
+type: image
+subtype: plan
+title: Gasthof Festtag zur Wende
+date: 2020-08-19
+location: Restorf, Hochwasser
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/d6/1a/d61a8418a9f0cff19fd6dcbf0c5034c3eff43b021ef80c66cfc6a7277365488b/original.tif
+    sha256: d61a8418a9f0cff19fd6dcbf0c5034c3eff43b021ef80c66cfc6a7277365488b
+    mime: image/tiff
+    bytes: 2537912
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d6/1a/d61a8418a9f0cff19fd6dcbf0c5034c3eff43b021ef80c66cfc6a7277365488b/preview-400.52838dee9a4f.jpg
+        sha256: 52838dee9a4fc47cb7d8b870f3dfbfbdfb7123b315e683fa73c13f87ee839177
+        mime: image/jpeg
+        bytes: 88089
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

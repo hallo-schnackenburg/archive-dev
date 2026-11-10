@@ -1,0 +1,34 @@
+id: 01HRY7PTVX8BAH3HBKYSBND3W6
+type: image
+subtype: plan
+title: Schmiede Jubiläum vor dem Umbau
+date: 1990~
+location: Schnackenburg, Fachwerkhaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/3d/1c/3d1cbc6b198e4c9aa1cd4cbe2178d0baaa5b0ebe5893cabd4e942c5c7da5e169/original.tif
+    sha256: 3d1cbc6b198e4c9aa1cd4cbe2178d0baaa5b0ebe5893cabd4e942c5c7da5e169
+    mime: image/tiff
+    bytes: 27046657
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3d/1c/3d1cbc6b198e4c9aa1cd4cbe2178d0baaa5b0ebe5893cabd4e942c5c7da5e169/preview-400.f0e14a7e8f4e.jpg
+        sha256: f0e14a7e8f4ecafcfa56c3f7901da476c72e42245482b8c9c0064bd60e7bac91
+        mime: image/jpeg
+        bytes: 69095
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

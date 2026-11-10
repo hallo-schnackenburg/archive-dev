@@ -1,0 +1,34 @@
+id: 01JSQQM578W70PQ8NQZB0N6102
+type: image
+subtype: plan
+title: Dorfteich Bescheid zur Wende
+date: "1940"
+location: Holtorf, Gasthof
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/a9/12/a912f5c064e817e6b42c4f7247db134a02670f38cfb6b05168134d33a570cac9/original.tif
+    sha256: a912f5c064e817e6b42c4f7247db134a02670f38cfb6b05168134d33a570cac9
+    mime: image/tiff
+    bytes: 19274549
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a9/12/a912f5c064e817e6b42c4f7247db134a02670f38cfb6b05168134d33a570cac9/preview-400.8bd85b758782.jpg
+        sha256: 8bd85b758782f8eda244346c76970a495146947ec141d8d45986a33b03240cd5
+        mime: image/jpeg
+        bytes: 77111
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

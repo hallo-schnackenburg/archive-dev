@@ -1,0 +1,35 @@
+id: 01GPZRVDG28ZWQ8V4NAASHFVR9
+type: image
+subtype: photo
+title: Molkerei Prospekt zur Ernte
+date: 1885~
+location: Gorleben, Rathaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/0f/64/0f64370cd37c182cdcc92774093221607203b443050bf837a9e8c130c9d253da/original.jpg
+    sha256: 0f64370cd37c182cdcc92774093221607203b443050bf837a9e8c130c9d253da
+    mime: image/jpeg
+    bytes: 19596481
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0f/64/0f64370cd37c182cdcc92774093221607203b443050bf837a9e8c130c9d253da/preview-400.eae9217a9628.jpg
+        sha256: eae9217a9628343cab4e43d3f86e40dc22803017cf2d7aee0e7426c043acd8f6
+        mime: image/jpeg
+        bytes: 22702
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01J3YBWHPFF8J53CVHFJA24T01
+type: image
+subtype: plan
+title: Elbufer Prospekt nach dem Krieg
+date: 1995-08
+location: Holtorf, Molkerei
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/75/6b/756b64660dee38123fded2e2837b341ca974d703b7e32ef897b2612dca243de9/original.tif
+    sha256: 756b64660dee38123fded2e2837b341ca974d703b7e32ef897b2612dca243de9
+    mime: image/tiff
+    bytes: 1709426
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/75/6b/756b64660dee38123fded2e2837b341ca974d703b7e32ef897b2612dca243de9/preview-400.92754beb910c.jpg
+        sha256: 92754beb910ca731b157e9c7a9ba86f1cb443d71fbfc9ba50e6ac1f15e2cdf3d
+        mime: image/jpeg
+        bytes: 41344
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

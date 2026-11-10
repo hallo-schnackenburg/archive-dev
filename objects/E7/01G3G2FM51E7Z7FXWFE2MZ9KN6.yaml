@@ -1,0 +1,35 @@
+id: 01G3G2FM51E7Z7FXWFE2MZ9KN6
+type: image
+subtype: photo
+title: Grenzturm Ansicht nach dem Krieg
+date: 1853-02-12
+location: Kapern, Fähre
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/1d/37/1d3739e5d899e598495eaf38fea23ff48d7b14c9fb0e491928b8d013d569946f/original.jpg
+    sha256: 1d3739e5d899e598495eaf38fea23ff48d7b14c9fb0e491928b8d013d569946f
+    mime: image/jpeg
+    bytes: 19403163
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/1d/37/1d3739e5d899e598495eaf38fea23ff48d7b14c9fb0e491928b8d013d569946f/preview-400.63e458698e0f.jpg
+        sha256: 63e458698e0f4948b4f032fb000004b865d39a4b0d7166d550e09fd9d58987ea
+        mime: image/jpeg
+        bytes: 46448
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

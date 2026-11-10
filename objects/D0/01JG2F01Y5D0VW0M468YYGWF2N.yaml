@@ -1,0 +1,39 @@
+id: 01JG2F01Y5D0VW0M468YYGWF2N
+type: image
+subtype: photo
+title: Bahnhof Einladung am Sonntag
+date: 1885-02-04
+location: Gartow, Fachwerkhaus
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/38/0c/380c5819188eddc5aeaab604f2a2c9b74095c966351f70a2bbb846588275431f/original.jpg
+    sha256: 380c5819188eddc5aeaab604f2a2c9b74095c966351f70a2bbb846588275431f
+    mime: image/jpeg
+    bytes: 5424518
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/38/0c/380c5819188eddc5aeaab604f2a2c9b74095c966351f70a2bbb846588275431f/preview-400.729f43b0ecd3.jpg
+        sha256: 729f43b0ecd39314533d0104abde7dad73f216a8d3ed6917d17e622eb6d45629
+        mime: image/jpeg
+        bytes: 51540
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,51 @@
+id: 01FXMJP5CMQCSDFK6XCQ0JH81Y
+type: document
+subtype: brochure
+title: Kirche St. Johannis Jubiläum am Morgen
+date: 1967-11
+language: de
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/1f/2c/1f2ce198e931cc2663d212e15e91e9badd79909e21b36ca67d29e464f560278e/original.tif
+    sha256: 1f2ce198e931cc2663d212e15e91e9badd79909e21b36ca67d29e464f560278e
+    mime: image/tiff
+    bytes: 10943059
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1f/2c/1f2ce198e931cc2663d212e15e91e9badd79909e21b36ca67d29e464f560278e/preview-400.55d18fa534b3.jpg
+        sha256: 55d18fa534b3b23e2f41bed6f2ce07659b1deab28a5cd011d6aff34612fcca38
+        mime: image/jpeg
+        bytes: 85471
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/0c/58/0c584230891fd6cce833551a85f29bfd0216a8ea8946231899048cdf5ca46864/original.tif
+    sha256: 0c584230891fd6cce833551a85f29bfd0216a8ea8946231899048cdf5ca46864
+    mime: image/tiff
+    bytes: 6555621
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0c/58/0c584230891fd6cce833551a85f29bfd0216a8ea8946231899048cdf5ca46864/preview-400.104af0ba2ee3.jpg
+        sha256: 104af0ba2ee31ea39b25640ad59f352797ef68710a85a773a8db1a0f068ab3e7
+        mime: image/jpeg
+        bytes: 72246
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

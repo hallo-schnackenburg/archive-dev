@@ -1,0 +1,39 @@
+id: 01GK1WFW5VAAK5J18XS8D04FVD
+type: image
+subtype: photo
+title: Feuerwehr Einladung zur Ernte
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1892-04-10
+location: Gorleben, Zollamt
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Dieter Ahrens
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/a7/cf/a7cfab51cc10e61af9a3d18f4d2c34bc0a6f3c9bfc3dedea8f8fb64f615cce7b/original.jpg
+    sha256: a7cfab51cc10e61af9a3d18f4d2c34bc0a6f3c9bfc3dedea8f8fb64f615cce7b
+    mime: image/jpeg
+    bytes: 22258731
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a7/cf/a7cfab51cc10e61af9a3d18f4d2c34bc0a6f3c9bfc3dedea8f8fb64f615cce7b/preview-400.da8b58145e65.jpg
+        sha256: da8b58145e656ac10dbbbd2fb4ad12b6e42ebf2d8e3eb8ef417c0c9a181436fd
+        mime: image/jpeg
+        bytes: 72688
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

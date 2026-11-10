@@ -1,0 +1,34 @@
+id: 01K3YZPS4YA1NGB4C0Y38C7PN6
+type: image
+subtype: plan
+title: Grenzturm Einladung am Sonntag
+date: 1963-11-13
+location: Kapern, Elbdeich
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/bf/0c/bf0c1058a1934e0b584f2d1ef94b695a5b17c7d97ef485d41d579ba371a5cab4/original.tif
+    sha256: bf0c1058a1934e0b584f2d1ef94b695a5b17c7d97ef485d41d579ba371a5cab4
+    mime: image/tiff
+    bytes: 27641329
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bf/0c/bf0c1058a1934e0b584f2d1ef94b695a5b17c7d97ef485d41d579ba371a5cab4/preview-400.e63a04261206.jpg
+        sha256: e63a04261206d68b888f1efcfe84b2cc467665d2a8cd724772d913d13ea02e96
+        mime: image/jpeg
+        bytes: 36523
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

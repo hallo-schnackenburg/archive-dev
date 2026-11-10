@@ -1,0 +1,37 @@
+id: 01G5GG871AVVJG29HSQ6VVVJYD
+type: image
+subtype: print
+title: Gasthof Besuch am Sonntag
+date: 1938-04-21
+location: Seedorf, Gemeindehaus
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/a6/2d/a62d63e5685a355e5faecaa39a78c14a1ddfeda7803da4654c87c6676bfdfd2b/original.tif
+    sha256: a62d63e5685a355e5faecaa39a78c14a1ddfeda7803da4654c87c6676bfdfd2b
+    mime: image/tiff
+    bytes: 6547096
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a6/2d/a62d63e5685a355e5faecaa39a78c14a1ddfeda7803da4654c87c6676bfdfd2b/preview-400.426282525f35.jpg
+        sha256: 426282525f35be3f3d3a210d22f53727d481d37414deabe967d2bb5d773d5820
+        mime: image/jpeg
+        bytes: 52159
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

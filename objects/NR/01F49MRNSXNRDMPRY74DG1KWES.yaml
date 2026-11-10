@@ -1,0 +1,39 @@
+id: 01F49MRNSXNRDMPRY74DG1KWES
+type: image
+subtype: photo
+title: Bahnhof Umbau zur Wende
+date: 1875-03
+location: Gartow, Schmiede
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/68/98/6898172f9942bdcdd9762bec963ab00858715181f27cae257e098f87aec65881/original.jpg
+    sha256: 6898172f9942bdcdd9762bec963ab00858715181f27cae257e098f87aec65881
+    mime: image/jpeg
+    bytes: 7136077
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/68/98/6898172f9942bdcdd9762bec963ab00858715181f27cae257e098f87aec65881/preview-400.d1e1c61c6994.jpg
+        sha256: d1e1c61c699458ac851cb5b8ec4301504a57d00fb15cc49f43bede5c246e17a3
+        mime: image/jpeg
+        bytes: 20516
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

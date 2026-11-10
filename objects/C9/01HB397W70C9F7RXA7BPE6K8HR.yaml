@@ -1,0 +1,34 @@
+id: 01HB397W70C9F7RXA7BPE6K8HR
+type: image
+subtype: print
+title: Elbufer Einladung am Sonntag
+description: Kupferstich.
+date: "1921"
+origin:
+  name: Erika Voss
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/46/77/46774ec847eee1cf182fb534fe82a95bf5ad57e7c6d94fe28828e5903c0fb025/original.tif
+    sha256: 46774ec847eee1cf182fb534fe82a95bf5ad57e7c6d94fe28828e5903c0fb025
+    mime: image/tiff
+    bytes: 20905475
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/46/77/46774ec847eee1cf182fb534fe82a95bf5ad57e7c6d94fe28828e5903c0fb025/preview-400.172833588d6d.jpg
+        sha256: 172833588d6de859d174aff22f4b4299984f329674b0f4325e80437f6c995ad2
+        mime: image/jpeg
+        bytes: 89349
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

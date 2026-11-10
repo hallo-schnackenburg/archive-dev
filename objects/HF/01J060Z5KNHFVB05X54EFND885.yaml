@@ -1,0 +1,34 @@
+id: 01J060Z5KNHFVB05X54EFND885
+type: image
+subtype: print
+title: Gasthof Prospekt zur Ernte
+description: Kupferstich.
+date: 1936-02-23
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/ce/e5/cee5ef99a084abf331aca4799fbcdcf9e5c965d1efbf9bbe254e780a199f2241/original.tif
+    sha256: cee5ef99a084abf331aca4799fbcdcf9e5c965d1efbf9bbe254e780a199f2241
+    mime: image/tiff
+    bytes: 20250885
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ce/e5/cee5ef99a084abf331aca4799fbcdcf9e5c965d1efbf9bbe254e780a199f2241/preview-400.f2d9e773ea5f.jpg
+        sha256: f2d9e773ea5ffea31edd66aabf89486254c5e5cd0ea3ed81faea9263d79bd1c9
+        mime: image/jpeg
+        bytes: 85319
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

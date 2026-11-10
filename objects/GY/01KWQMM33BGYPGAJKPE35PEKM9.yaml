@@ -1,0 +1,34 @@
+id: 01KWQMM33BGYPGAJKPE35PEKM9
+type: image
+subtype: plan
+title: Elbufer Einladung am Sonntag
+date: 1883-05-12
+location: Lüchow, Elbufer
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Erika Voss
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/f0/c5/f0c5ceda5d7db8252d9612e4cbe581dbc88a03ef5d3c37b2ba71ff382ee59642/original.tif
+    sha256: f0c5ceda5d7db8252d9612e4cbe581dbc88a03ef5d3c37b2ba71ff382ee59642
+    mime: image/tiff
+    bytes: 20909020
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/c5/f0c5ceda5d7db8252d9612e4cbe581dbc88a03ef5d3c37b2ba71ff382ee59642/preview-400.afc750370e16.jpg
+        sha256: afc750370e16f69fa2bdf7cbd1d6e387d7cd6f774f8f6dda81c90baaaabe85cb
+        mime: image/jpeg
+        bytes: 23660
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

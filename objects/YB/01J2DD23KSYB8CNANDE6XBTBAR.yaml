@@ -1,0 +1,53 @@
+id: 01J2DD23KSYB8CNANDE6XBTBAR
+type: document
+subtype: letter
+title: Rathaus Einweihung am Morgen
+description: Schreibt über die Ernte und das Wetter.
+date: 2013-03
+language: de
+origin:
+  name: Rudolf Garms
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/3c/46/3c463e82e1202423320c1d0591864e8215bf6d789fc46f2a36c65a3d5128363d/original.tif
+    sha256: 3c463e82e1202423320c1d0591864e8215bf6d789fc46f2a36c65a3d5128363d
+    mime: image/tiff
+    bytes: 448841
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3c/46/3c463e82e1202423320c1d0591864e8215bf6d789fc46f2a36c65a3d5128363d/preview-400.90ae413226fd.jpg
+        sha256: 90ae413226fd6144ec611b2c1f0a9ad7f8c3b9b7922fb942c8be5100b73b23b1
+        mime: image/jpeg
+        bytes: 40948
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/75/49/75496acf3f1364b3b3f9bc31824bad4a48b37a041d175a7c5237094aa0ef4eb4/original.tif
+    sha256: 75496acf3f1364b3b3f9bc31824bad4a48b37a041d175a7c5237094aa0ef4eb4
+    mime: image/tiff
+    bytes: 22292400
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/75/49/75496acf3f1364b3b3f9bc31824bad4a48b37a041d175a7c5237094aa0ef4eb4/preview-400.47216f7373e0.jpg
+        sha256: 47216f7373e05f25576d5f69a5416a23678360f716af1ee062a265829914f6cd
+        mime: image/jpeg
+        bytes: 87693
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

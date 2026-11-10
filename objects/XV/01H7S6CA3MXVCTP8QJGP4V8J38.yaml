@@ -1,0 +1,31 @@
+id: 01H7S6CA3MXVCTP8QJGP4V8J38
+type: image
+subtype: drawing
+title: Bahnhof Entwurf am Morgen
+description: Federzeichnung, laviert.
+date: 1943-12-21
+location: Gorleben, Sportplatz
+origin:
+  name: Rudolf Garms
+  type: person
+  location: Hannover
+files:
+  - role: main
+    original_name: zeichnung_hafen.tif
+    path: files/93/e5/93e5bab89b822029650fd4acc92927abec474e444bae4e416b2efda647cb820a/original.tif
+    sha256: 93e5bab89b822029650fd4acc92927abec474e444bae4e416b2efda647cb820a
+    mime: image/tiff
+    bytes: 12422443
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/93/e5/93e5bab89b822029650fd4acc92927abec474e444bae4e416b2efda647cb820a/preview-400.5fbd7c0e3f47.jpg
+        sha256: 5fbd7c0e3f47e648abbe743e690abfcf88e721892eb203836ab4715d469870fc
+        mime: image/jpeg
+        bytes: 79802
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01KZP3YGB5F7FE8EFYR1JAN8EZ
+type: image
+subtype: drawing
+title: Rathaus Prospekt im Sommer
+description: Ernte und hafen, zur Wende.
+date: "1877"
+location: Pretzier, Hochwasser
+origin:
+  name: Rudolf Garms
+  type: person
+  location: Hannover
+files:
+  - role: main
+    original_name: zeichnung_hafen.tif
+    path: files/8a/03/8a03df3c4917ceeaeb6588ad625d57acb537c480595f62cbd9bd6c20a73fd038/original.tif
+    sha256: 8a03df3c4917ceeaeb6588ad625d57acb537c480595f62cbd9bd6c20a73fd038
+    mime: image/tiff
+    bytes: 4223972
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8a/03/8a03df3c4917ceeaeb6588ad625d57acb537c480595f62cbd9bd6c20a73fd038/preview-400.9ba0d0537775.jpg
+        sha256: 9ba0d05377753d475fe0d75f06ab611ce83a8cd8f33287e0dee125fb71e58c0a
+        mime: image/jpeg
+        bytes: 39636
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

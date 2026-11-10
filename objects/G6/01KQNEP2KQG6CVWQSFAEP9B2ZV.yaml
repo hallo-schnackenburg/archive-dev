@@ -1,0 +1,39 @@
+id: 01KQNEP2KQG6CVWQSFAEP9B2ZV
+type: image
+subtype: photo
+title: Sportplatz Entwurf im Winter
+description: Dorfteich und schmiede, im Sommer.
+date: "1886"
+location: Holtorf, Dorfteich
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Karl Lemke
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/55/74/5574fae3e63670b49c451ad641d8e7306c321228c0bcea08cdfdde125b29e92c/original.jpg
+    sha256: 5574fae3e63670b49c451ad641d8e7306c321228c0bcea08cdfdde125b29e92c
+    mime: image/jpeg
+    bytes: 26324586
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/55/74/5574fae3e63670b49c451ad641d8e7306c321228c0bcea08cdfdde125b29e92c/preview-400.f3e40309238a.jpg
+        sha256: f3e40309238a326cb6b08bc2991d5075a7d7773bef61e66ed0d986321dda3634
+        mime: image/jpeg
+        bytes: 65920
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

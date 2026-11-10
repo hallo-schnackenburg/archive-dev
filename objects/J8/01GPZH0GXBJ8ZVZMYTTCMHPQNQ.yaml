@@ -1,0 +1,35 @@
+id: 01GPZH0GXBJ8ZVZMYTTCMHPQNQ
+type: image
+subtype: photo
+title: Gemeindehaus Bericht am Morgen
+date: "1946"
+location: Pretzier, Storchennest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/d4/3a/d43ad02bc024afebeddb4dabb26af118988b25490752ec710ddbf77423404b46/original.jpg
+    sha256: d43ad02bc024afebeddb4dabb26af118988b25490752ec710ddbf77423404b46
+    mime: image/jpeg
+    bytes: 7527410
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d4/3a/d43ad02bc024afebeddb4dabb26af118988b25490752ec710ddbf77423404b46/preview-400.026db65e6f67.jpg
+        sha256: 026db65e6f67b95706ffec1a674391f6ee24a34c5a55781b1fc8dfbba42cf00e
+        mime: image/jpeg
+        bytes: 64579
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01H530Y8XA1DWZFPBJN5KPKD68
+type: image
+subtype: photo
+title: Elbufer Ansicht im Sommer
+date: 2015-05-06
+location: Holtorf, Feuerwehr
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/2e/dd/2edd01d99e98d9053a069b5ae1c7c1f7ed9288e0aa1450d8a90bf830c7ea3f39/original.jpg
+    sha256: 2edd01d99e98d9053a069b5ae1c7c1f7ed9288e0aa1450d8a90bf830c7ea3f39
+    mime: image/jpeg
+    bytes: 14771064
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2e/dd/2edd01d99e98d9053a069b5ae1c7c1f7ed9288e0aa1450d8a90bf830c7ea3f39/preview-400.8651254b0c71.jpg
+        sha256: 8651254b0c7165647ad2cb90addb149480f2c0b189c48cf469354030c132e5b2
+        mime: image/jpeg
+        bytes: 34435
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01JNNQWY8VP50MBKB86R1QSMSD
+type: image
+subtype: photo
+title: Gemeindehaus Notiz am Sonntag
+date: 1906/1909
+location: Pretzier, Bäckerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/f5/23/f523b631adc14d329464d7fae7a290d1e1962c6594852d32b10069699815a21e/original.jpg
+    sha256: f523b631adc14d329464d7fae7a290d1e1962c6594852d32b10069699815a21e
+    mime: image/jpeg
+    bytes: 2679517
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f5/23/f523b631adc14d329464d7fae7a290d1e1962c6594852d32b10069699815a21e/preview-400.fe68d76002f7.jpg
+        sha256: fe68d76002f7c65328a99b28b1f2fd6022dcf664df04188a596d4b4c4cdfa359
+        mime: image/jpeg
+        bytes: 32869
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

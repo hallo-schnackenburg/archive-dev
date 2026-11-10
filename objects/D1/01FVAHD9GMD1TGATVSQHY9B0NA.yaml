@@ -1,0 +1,34 @@
+id: 01FVAHD9GMD1TGATVSQHY9B0NA
+type: image
+subtype: plan
+title: Marktplatz Abriss nach dem Krieg
+date: 1955/1960
+location: Kapern, Kindergarten
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/d7/88/d788dfe1a95e28331a680251428705a8207422b239615a7cfb9b6479f82106eb/original.tif
+    sha256: d788dfe1a95e28331a680251428705a8207422b239615a7cfb9b6479f82106eb
+    mime: image/tiff
+    bytes: 12200547
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/88/d788dfe1a95e28331a680251428705a8207422b239615a7cfb9b6479f82106eb/preview-400.9fd59e54ffcd.jpg
+        sha256: 9fd59e54ffcdf8554505e3db9a2477307bb22981a15d73cffe0002039686fdb5
+        mime: image/jpeg
+        bytes: 79303
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

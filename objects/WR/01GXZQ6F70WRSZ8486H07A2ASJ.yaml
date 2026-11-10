@@ -1,0 +1,35 @@
+id: 01GXZQ6F70WRSZ8486H07A2ASJ
+type: image
+subtype: photo
+title: Bahnhof Umbau nach dem Krieg
+date: "2014"
+location: Kapern, Kindergarten
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/a4/bb/a4bb9f43709028db4b6241977e6f0d2b59bc90403850b1ee3cf707ba2a880a3c/original.jpg
+    sha256: a4bb9f43709028db4b6241977e6f0d2b59bc90403850b1ee3cf707ba2a880a3c
+    mime: image/jpeg
+    bytes: 5034233
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a4/bb/a4bb9f43709028db4b6241977e6f0d2b59bc90403850b1ee3cf707ba2a880a3c/preview-400.7b25b2558506.jpg
+        sha256: 7b25b25585069b156683a2e97c5b39e559bf075e484e8872b446be279a64eaa4
+        mime: image/jpeg
+        bytes: 75182
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01GY848DN2TYT9AC8150RS9V8F
+type: image
+subtype: photo
+title: Gasthof Prospekt am Sonntag
+date: 1925-08-27
+location: Lüchow, Schützenfest
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/2f/cd/2fcddc177068f602eb56f98a9dae7924a24d785d1a073a7a04dc315ea82be34a/original.jpg
+    sha256: 2fcddc177068f602eb56f98a9dae7924a24d785d1a073a7a04dc315ea82be34a
+    mime: image/jpeg
+    bytes: 21368078
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2f/cd/2fcddc177068f602eb56f98a9dae7924a24d785d1a073a7a04dc315ea82be34a/preview-400.b98abc4ef5f1.jpg
+        sha256: b98abc4ef5f1d1eddcc03a8f28b375b6bdd9f34681cca7ffcec677a5f3f54f84
+        mime: image/jpeg
+        bytes: 46753
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

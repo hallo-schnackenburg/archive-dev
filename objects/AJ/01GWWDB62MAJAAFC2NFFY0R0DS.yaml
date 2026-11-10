@@ -1,0 +1,53 @@
+id: 01GWWDB62MAJAAFC2NFFY0R0DS
+type: document
+subtype: letter
+title: Bäckerei Prospekt zu Pfingsten
+description: Schreibt über die Ernte und das Wetter.
+date: 2009/2012
+language: de
+origin:
+  name: Walter Kuhlmann
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/1d/1b/1d1bf19c5d3edf110030a0421178dfa0d1387f19cbc1f41f802799070995f56d/original.tif
+    sha256: 1d1bf19c5d3edf110030a0421178dfa0d1387f19cbc1f41f802799070995f56d
+    mime: image/tiff
+    bytes: 2402845
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/1b/1d1bf19c5d3edf110030a0421178dfa0d1387f19cbc1f41f802799070995f56d/preview-400.e11f5ebf624a.jpg
+        sha256: e11f5ebf624ad140d52276ce14357e54f82d7ceb3a6acfbfacc98aaebd0ee07c
+        mime: image/jpeg
+        bytes: 63559
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/89/9e/899e31fd94327c50b7b094b9dbabc8f931e2fd7e869e4aff0dca6a2af691b6ca/original.tif
+    sha256: 899e31fd94327c50b7b094b9dbabc8f931e2fd7e869e4aff0dca6a2af691b6ca
+    mime: image/tiff
+    bytes: 17081762
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/89/9e/899e31fd94327c50b7b094b9dbabc8f931e2fd7e869e4aff0dca6a2af691b6ca/preview-400.3bf4132a5aa1.jpg
+        sha256: 3bf4132a5aa12f4c95a959ae0db06defa83a9aa283ec7bfca7af7f07ed7599ed
+        mime: image/jpeg
+        bytes: 70428
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

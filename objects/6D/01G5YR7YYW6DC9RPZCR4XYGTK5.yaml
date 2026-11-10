@@ -1,0 +1,35 @@
+id: 01G5YR7YYW6DC9RPZCR4XYGTK5
+type: image
+subtype: photo
+title: Mühle Abriss am Sonntag
+date: 1965/1967
+location: Pretzier, Dorfteich
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/8e/d3/8ed3e35f1442f4d4b318a4f51295f1430e75adfe951925c161794ae0c5a1331a/original.jpg
+    sha256: 8ed3e35f1442f4d4b318a4f51295f1430e75adfe951925c161794ae0c5a1331a
+    mime: image/jpeg
+    bytes: 11415671
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/8e/d3/8ed3e35f1442f4d4b318a4f51295f1430e75adfe951925c161794ae0c5a1331a/preview-400.fbffe4f721b5.jpg
+        sha256: fbffe4f721b5b6a1d102cfed96fbef92f4581afde959523f3363fa8a9021e07c
+        mime: image/jpeg
+        bytes: 70847
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

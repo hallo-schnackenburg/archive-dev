@@ -1,0 +1,34 @@
+id: 01JCDV77N64VGY9MGT609A7R2V
+type: image
+subtype: plan
+title: Hafen Bescheid im Winter
+date: 1974~
+location: Kapern, Bäckerei
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/b0/31/b031ec2b621bc410b428942f67cb675c662c74ef919b28a299520c8477b0ac98/original.tif
+    sha256: b031ec2b621bc410b428942f67cb675c662c74ef919b28a299520c8477b0ac98
+    mime: image/tiff
+    bytes: 3587063
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b0/31/b031ec2b621bc410b428942f67cb675c662c74ef919b28a299520c8477b0ac98/preview-400.cc09efcd788f.jpg
+        sha256: cc09efcd788fe060a01620095169a0da0b51d6ccab70db967d42650ae1955c69
+        mime: image/jpeg
+        bytes: 66522
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

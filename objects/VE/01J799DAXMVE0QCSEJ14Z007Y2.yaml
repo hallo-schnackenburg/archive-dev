@@ -1,0 +1,35 @@
+id: 01J799DAXMVE0QCSEJ14Z007Y2
+type: image
+subtype: photo
+title: Pfarrhaus Brief bei Hochwasser
+date: 1901-12-19
+location: Kapern, Rathaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/77/02/7702fb34e98fd15da6e4b253c111978c2a25c2ad3aa5cb147860aa354fc16c7a/original.jpg
+    sha256: 7702fb34e98fd15da6e4b253c111978c2a25c2ad3aa5cb147860aa354fc16c7a
+    mime: image/jpeg
+    bytes: 9916472
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/77/02/7702fb34e98fd15da6e4b253c111978c2a25c2ad3aa5cb147860aa354fc16c7a/preview-400.e3c2894c5bb9.jpg
+        sha256: e3c2894c5bb99a1b1667e9802c35632d93cef7a17b2e6591d5d2423af7616155
+        mime: image/jpeg
+        bytes: 32331
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

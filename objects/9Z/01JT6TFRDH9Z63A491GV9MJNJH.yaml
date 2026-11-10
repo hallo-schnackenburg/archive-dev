@@ -1,0 +1,51 @@
+id: 01JT6TFRDH9Z63A491GV9MJNJH
+type: document
+subtype: brochure
+title: Friedhof Bescheid im Winter
+date: 1993-10-27
+language: de
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/c9/5e/c95e3bef503356eb80024a3a8c5ad15e761393e69c9cbd84557803d21465cfeb/original.tif
+    sha256: c95e3bef503356eb80024a3a8c5ad15e761393e69c9cbd84557803d21465cfeb
+    mime: image/tiff
+    bytes: 2153951
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c9/5e/c95e3bef503356eb80024a3a8c5ad15e761393e69c9cbd84557803d21465cfeb/preview-400.54ce0ae3fa5a.jpg
+        sha256: 54ce0ae3fa5aff062be1602aece07946900f8c6fce57ee0e427c4fe3d884992f
+        mime: image/jpeg
+        bytes: 42693
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/a4/19/a419a26ac0c86b59e129e3a2a3d640fd4c050dfaf16e2b35070eae7109c5cc18/original.tif
+    sha256: a419a26ac0c86b59e129e3a2a3d640fd4c050dfaf16e2b35070eae7109c5cc18
+    mime: image/tiff
+    bytes: 5783985
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a4/19/a419a26ac0c86b59e129e3a2a3d640fd4c050dfaf16e2b35070eae7109c5cc18/preview-400.85793b1d6348.jpg
+        sha256: 85793b1d63482038dae8b3ce48697deb99db96a30157645de5e5b95c45740d81
+        mime: image/jpeg
+        bytes: 36452
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

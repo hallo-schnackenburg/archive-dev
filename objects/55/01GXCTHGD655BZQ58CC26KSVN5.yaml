@@ -1,0 +1,51 @@
+id: 01GXCTHGD655BZQ58CC26KSVN5
+type: document
+subtype: brochure
+title: Marktplatz Protokoll zur Ernte
+date: 1880/1884
+language: de
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/3c/d8/3cd820bc763f85ebeede1fb006c1777c37a6bb521571342654a54b2656da8fca/original.tif
+    sha256: 3cd820bc763f85ebeede1fb006c1777c37a6bb521571342654a54b2656da8fca
+    mime: image/tiff
+    bytes: 21276711
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3c/d8/3cd820bc763f85ebeede1fb006c1777c37a6bb521571342654a54b2656da8fca/preview-400.b24f24bd2cc5.jpg
+        sha256: b24f24bd2cc5c7a156516170a1dfd032cf2fd79c5e6fa6a20f72e09909b4f1b2
+        mime: image/jpeg
+        bytes: 89527
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/ab/49/ab499957d04e231925509ba6e061478c68aa213283385f42e3117442f55acd69/original.tif
+    sha256: ab499957d04e231925509ba6e061478c68aa213283385f42e3117442f55acd69
+    mime: image/tiff
+    bytes: 18801083
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ab/49/ab499957d04e231925509ba6e061478c68aa213283385f42e3117442f55acd69/preview-400.bf63bf41287f.jpg
+        sha256: bf63bf41287fed6f3cee0e9d4e5b5c11df447391dd9ae09e338916afe9f81fda
+        mime: image/jpeg
+        bytes: 65666
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

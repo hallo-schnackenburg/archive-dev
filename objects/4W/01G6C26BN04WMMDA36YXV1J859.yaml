@@ -1,0 +1,34 @@
+id: 01G6C26BN04WMMDA36YXV1J859
+type: image
+subtype: plan
+title: Friedhof Zeichnung am Sonntag
+date: 1858-04-26
+location: Kapern, Bäckerei
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/4b/05/4b05dc7a522880ef0f62033191b71aca4b5031ddddfd2cdaf2897648620978ce/original.tif
+    sha256: 4b05dc7a522880ef0f62033191b71aca4b5031ddddfd2cdaf2897648620978ce
+    mime: image/tiff
+    bytes: 2279797
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4b/05/4b05dc7a522880ef0f62033191b71aca4b5031ddddfd2cdaf2897648620978ce/preview-400.6376588c2208.jpg
+        sha256: 6376588c2208fc2e52019e631dae739441f49fd2ee7faab55783f2ddc9fa4179
+        mime: image/jpeg
+        bytes: 59789
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

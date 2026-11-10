@@ -1,0 +1,35 @@
+id: 01JFVMEHW924SKRVFW90PYT9GC
+type: image
+subtype: photo
+title: Ernte Jubiläum zur Wende
+date: 1863-09
+location: Restorf, Hochwasser
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/42/9d/429dbcac4c41c398150e7f46f05e3786a1d44ecfa98718f2aa45d2caf211b21c/original.jpg
+    sha256: 429dbcac4c41c398150e7f46f05e3786a1d44ecfa98718f2aa45d2caf211b21c
+    mime: image/jpeg
+    bytes: 5137428
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/42/9d/429dbcac4c41c398150e7f46f05e3786a1d44ecfa98718f2aa45d2caf211b21c/preview-400.dbdd2e3841f2.jpg
+        sha256: dbdd2e3841f2530eb224b85876429bc7511156922fa1f60642900be75d9042df
+        mime: image/jpeg
+        bytes: 80964
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

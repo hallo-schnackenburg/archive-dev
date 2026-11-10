@@ -1,0 +1,53 @@
+id: 01HDK7Q0XKK0KY7VGJPSX2ZV1J
+type: document
+subtype: letter
+title: Bäckerei Umzug im Winter
+description: Schreibt über die Ernte und das Wetter.
+date: 1927-04
+language: de
+origin:
+  name: Karl Lemke
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/b7/2b/b72b42020138bfc8b0da8ec7747b66f11718945d100bf58cf70d29305239d565/original.tif
+    sha256: b72b42020138bfc8b0da8ec7747b66f11718945d100bf58cf70d29305239d565
+    mime: image/tiff
+    bytes: 18574441
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b7/2b/b72b42020138bfc8b0da8ec7747b66f11718945d100bf58cf70d29305239d565/preview-400.dd0c81271594.jpg
+        sha256: dd0c8127159498eba69bb894bf158a7b7626772f4ed7c7323ae021d60fccf350
+        mime: image/jpeg
+        bytes: 56388
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/15/72/15726370dd6e7ed6980c631678a627ceabd28cf2f3e0faf0112aa29ba0e32b4d/original.tif
+    sha256: 15726370dd6e7ed6980c631678a627ceabd28cf2f3e0faf0112aa29ba0e32b4d
+    mime: image/tiff
+    bytes: 18158110
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/15/72/15726370dd6e7ed6980c631678a627ceabd28cf2f3e0faf0112aa29ba0e32b4d/preview-400.c443b7bbaf05.jpg
+        sha256: c443b7bbaf050a16d8df4866a889ad35abf9ba6595156712b15931749d94c51c
+        mime: image/jpeg
+        bytes: 67695
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

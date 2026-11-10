@@ -1,0 +1,37 @@
+id: 01M0SDQ482G0M3KRM98YAMVFKT
+type: image
+subtype: print
+title: Bahnhof Prospekt im Sommer
+date: 1902-12-11
+location: Kapern, Zollamt
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/f0/76/f076de8c6bce509d932e6762033e8bbe6cab2ec44b2029a642ab8379b5161cc3/original.tif
+    sha256: f076de8c6bce509d932e6762033e8bbe6cab2ec44b2029a642ab8379b5161cc3
+    mime: image/tiff
+    bytes: 2203261
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/76/f076de8c6bce509d932e6762033e8bbe6cab2ec44b2029a642ab8379b5161cc3/preview-400.7bbe70d958fd.jpg
+        sha256: 7bbe70d958fd88f3ea3ac37a31f4395fd73e259880a833863b9fcd2f85216fd6
+        mime: image/jpeg
+        bytes: 49469
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

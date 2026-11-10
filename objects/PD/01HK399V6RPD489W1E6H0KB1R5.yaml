@@ -1,0 +1,34 @@
+id: 01HK399V6RPD489W1E6H0KB1R5
+type: image
+subtype: plan
+title: Schmiede Bericht am Morgen
+date: 1873-05-09
+location: Pretzier, Rathaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/67/a0/67a09c8369456fcd49a86de93b8340f199680077e9f20dad90fffde4da3c5f2a/original.tif
+    sha256: 67a09c8369456fcd49a86de93b8340f199680077e9f20dad90fffde4da3c5f2a
+    mime: image/tiff
+    bytes: 1126999
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/67/a0/67a09c8369456fcd49a86de93b8340f199680077e9f20dad90fffde4da3c5f2a/preview-400.b38eab2b2393.jpg
+        sha256: b38eab2b23939bce318ffd5a8a8ad75ee77182a26266fe00443ad92c8a2b4a47
+        mime: image/jpeg
+        bytes: 62199
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

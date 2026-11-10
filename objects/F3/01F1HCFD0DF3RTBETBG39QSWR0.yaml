@@ -1,0 +1,37 @@
+id: 01F1HCFD0DF3RTBETBG39QSWR0
+type: image
+subtype: print
+title: Hafen Einladung zur Ernte
+date: 1983-05-10
+location: Lüchow, Brunnen
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/1f/e1/1fe17751e8dab99d59bce160d482f10b097eb3d0642a92f3dc7434322bdb1daa/original.tif
+    sha256: 1fe17751e8dab99d59bce160d482f10b097eb3d0642a92f3dc7434322bdb1daa
+    mime: image/tiff
+    bytes: 8880295
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1f/e1/1fe17751e8dab99d59bce160d482f10b097eb3d0642a92f3dc7434322bdb1daa/preview-400.ba0d1b984399.jpg
+        sha256: ba0d1b98439902dd4ef123f3cfecf77ce445c86e122d81376d2beb1475e4389c
+        mime: image/jpeg
+        bytes: 25415
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

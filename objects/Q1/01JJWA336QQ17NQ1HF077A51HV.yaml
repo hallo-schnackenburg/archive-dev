@@ -1,0 +1,51 @@
+id: 01JJWA336QQ17NQ1HF077A51HV
+type: document
+subtype: brochure
+title: Dorfteich Abriss nach dem Krieg
+date: 1939~
+language: de
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/fc/d8/fcd8e3331c5ecb82d33330d7a13212e374b57202fd4a293dc53f416b75865774/original.tif
+    sha256: fcd8e3331c5ecb82d33330d7a13212e374b57202fd4a293dc53f416b75865774
+    mime: image/tiff
+    bytes: 25769863
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/d8/fcd8e3331c5ecb82d33330d7a13212e374b57202fd4a293dc53f416b75865774/preview-400.b25150bf8e20.jpg
+        sha256: b25150bf8e201607e7dbb5bc31863e71db679e364b59ed0f0fd2fd0d12352fb6
+        mime: image/jpeg
+        bytes: 69305
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/2f/9f/2f9f93645ea82024ac077debcc6d5b5562d470a61ecd6356ae98b7ae5dbcdfe8/original.tif
+    sha256: 2f9f93645ea82024ac077debcc6d5b5562d470a61ecd6356ae98b7ae5dbcdfe8
+    mime: image/tiff
+    bytes: 8500365
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2f/9f/2f9f93645ea82024ac077debcc6d5b5562d470a61ecd6356ae98b7ae5dbcdfe8/preview-400.e1079ef0c732.jpg
+        sha256: e1079ef0c7326cfeceb02ada45edcf5fe7d3ddb3a01390994d030205fcc72447
+        mime: image/jpeg
+        bytes: 66550
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

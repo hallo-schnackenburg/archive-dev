@@ -1,0 +1,51 @@
+id: 01HF83JF4VAC3KSDGEEK6387DM
+type: document
+subtype: brochure
+title: Hochwasser Zeichnung zur Wende
+date: 1997-08
+language: de
+origin:
+  name: Helga Plate
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/e3/bd/e3bdfc0fd35b6da575a54f64ea6c3703d7636b1ef840f81e5dc0424718657ce5/original.tif
+    sha256: e3bdfc0fd35b6da575a54f64ea6c3703d7636b1ef840f81e5dc0424718657ce5
+    mime: image/tiff
+    bytes: 1223863
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e3/bd/e3bdfc0fd35b6da575a54f64ea6c3703d7636b1ef840f81e5dc0424718657ce5/preview-400.98c59850ff39.jpg
+        sha256: 98c59850ff391b6de50dd1ff1e20b86a4ec210324a3667d08925e4445179fcff
+        mime: image/jpeg
+        bytes: 40161
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/da/00/da00e75321def219e8d2c9b3a75afb3d64be6419ec09f3419a576840450f854c/original.tif
+    sha256: da00e75321def219e8d2c9b3a75afb3d64be6419ec09f3419a576840450f854c
+    mime: image/tiff
+    bytes: 17615268
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/00/da00e75321def219e8d2c9b3a75afb3d64be6419ec09f3419a576840450f854c/preview-400.4efee4e03991.jpg
+        sha256: 4efee4e039915a8c1ff4c6d585005945fb375d136e23cadee52e56a65bae101d
+        mime: image/jpeg
+        bytes: 69660
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

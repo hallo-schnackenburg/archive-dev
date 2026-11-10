@@ -1,0 +1,39 @@
+id: 01F8ABE2SG46ZZ4XKP905V2WN1
+type: image
+subtype: photo
+title: Elbdeich Rechnung am Sonntag
+date: 1893-07-14
+location: Restorf, Dorfschule
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/a0/80/a080f7955137a44a4cc03b35b6dacfd979b9221accbff0db47e0d730cdaf188e/original.jpg
+    sha256: a080f7955137a44a4cc03b35b6dacfd979b9221accbff0db47e0d730cdaf188e
+    mime: image/jpeg
+    bytes: 3904948
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a0/80/a080f7955137a44a4cc03b35b6dacfd979b9221accbff0db47e0d730cdaf188e/preview-400.adc359bbfde8.jpg
+        sha256: adc359bbfde82857e61bf5e364e20ae7b53924ce5fca64cd38fa51182fda84d5
+        mime: image/jpeg
+        bytes: 74083
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

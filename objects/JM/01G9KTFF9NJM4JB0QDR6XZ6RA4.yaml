@@ -1,0 +1,39 @@
+id: 01G9KTFF9NJM4JB0QDR6XZ6RA4
+type: image
+subtype: photo
+title: Elbdeich Rechnung im Winter
+date: 1932-09
+location: Restorf, Sportplatz
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/3d/90/3d90df7815b3d007611514e3df29a11a809094097f1132e3500e6a906f6d078c/original.jpg
+    sha256: 3d90df7815b3d007611514e3df29a11a809094097f1132e3500e6a906f6d078c
+    mime: image/jpeg
+    bytes: 26011143
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/3d/90/3d90df7815b3d007611514e3df29a11a809094097f1132e3500e6a906f6d078c/preview-400.5864f29b5d67.jpg
+        sha256: 5864f29b5d67decaebcdf84827f296572a4a3e8b9f5a8304cfa63761efe856eb
+        mime: image/jpeg
+        bytes: 54288
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

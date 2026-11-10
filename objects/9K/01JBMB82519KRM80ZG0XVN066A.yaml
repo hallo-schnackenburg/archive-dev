@@ -1,0 +1,35 @@
+id: 01JBMB82519KRM80ZG0XVN066A
+type: image
+subtype: photo
+title: Bäckerei Bericht bei Hochwasser
+date: 1962-12-21
+location: Holtorf, Fachwerkhaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/e4/bd/e4bdec6f76c5bba47c87923cca3df01d330275be5800f06dd3923d81ace6671a/original.jpg
+    sha256: e4bdec6f76c5bba47c87923cca3df01d330275be5800f06dd3923d81ace6671a
+    mime: image/jpeg
+    bytes: 2776835
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e4/bd/e4bdec6f76c5bba47c87923cca3df01d330275be5800f06dd3923d81ace6671a/preview-400.d4a544c324fb.jpg
+        sha256: d4a544c324fb758e8d206d413090946a856c8554399a1cdd3dc965b70bbe0509
+        mime: image/jpeg
+        bytes: 28085
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

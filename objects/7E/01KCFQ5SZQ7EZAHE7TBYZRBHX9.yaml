@@ -1,0 +1,39 @@
+id: 01KCFQ5SZQ7EZAHE7TBYZRBHX9
+type: image
+subtype: photo
+title: Bäckerei Einweihung am Sonntag
+date: 1983-10
+location: Lenzen, Rathaus
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Karl Lemke
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/94/ad/94ad294d2e2d05b2f4195c9fb36233a44bb51e5d41314fdff514b9f82035057b/original.jpg
+    sha256: 94ad294d2e2d05b2f4195c9fb36233a44bb51e5d41314fdff514b9f82035057b
+    mime: image/jpeg
+    bytes: 18413075
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/94/ad/94ad294d2e2d05b2f4195c9fb36233a44bb51e5d41314fdff514b9f82035057b/preview-400.702e06e792c7.jpg
+        sha256: 702e06e792c70911944da9e370928d35bba40cc34ce725554af98805d05a651c
+        mime: image/jpeg
+        bytes: 79418
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

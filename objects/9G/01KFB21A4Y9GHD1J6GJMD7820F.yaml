@@ -1,0 +1,39 @@
+id: 01KFB21A4Y9GHD1J6GJMD7820F
+type: image
+subtype: photo
+title: Dorfteich Brief am Sonntag
+date: 1880~
+location: Pretzier, Bäckerei
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Dieter Ahrens
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/70/c2/70c25103b1b767d52a078235393c76a9a844f1204cc9112f8ddce3254a61a75b/original.jpg
+    sha256: 70c25103b1b767d52a078235393c76a9a844f1204cc9112f8ddce3254a61a75b
+    mime: image/jpeg
+    bytes: 23887540
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/70/c2/70c25103b1b767d52a078235393c76a9a844f1204cc9112f8ddce3254a61a75b/preview-400.d9801a91e5ae.jpg
+        sha256: d9801a91e5aea430a17c7f9795b1b16f71fc709adf128b31ae47a472248846ea
+        mime: image/jpeg
+        bytes: 73929
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

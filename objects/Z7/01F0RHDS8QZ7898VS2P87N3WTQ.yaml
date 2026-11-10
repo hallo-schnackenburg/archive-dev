@@ -1,0 +1,37 @@
+id: 01F0RHDS8QZ7898VS2P87N3WTQ
+type: image
+subtype: print
+title: Dorfteich Zeichnung zur Ernte
+date: "1871"
+location: Schnackenburg, Ernte
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/19/dc/19dcb44d0f1a3ccff24fd846e66257f81fa807f9bcad79b5bcfea5b75577bd69/original.tif
+    sha256: 19dcb44d0f1a3ccff24fd846e66257f81fa807f9bcad79b5bcfea5b75577bd69
+    mime: image/tiff
+    bytes: 6908953
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/19/dc/19dcb44d0f1a3ccff24fd846e66257f81fa807f9bcad79b5bcfea5b75577bd69/preview-400.c6718bc523f1.jpg
+        sha256: c6718bc523f1e6708573e74895b32c62939143328e2703a292e7ea9767d57f4e
+        mime: image/jpeg
+        bytes: 81228
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

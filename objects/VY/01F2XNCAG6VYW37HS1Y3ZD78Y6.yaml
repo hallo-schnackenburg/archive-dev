@@ -1,0 +1,33 @@
+id: 01F2XNCAG6VYW37HS1Y3ZD78Y6
+type: document
+subtype: letter
+title: Schmiede Prospekt am Morgen
+date: 2014-11-27
+language: de
+location: Kapern, Elbufer
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+recipient: Gemeinde Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: landrat_faehre_001.tif
+    path: files/ae/b3/aeb3a986dc9df96a36c828a871f449792825d9bea6381ed52683cba587603a85/original.tif
+    sha256: aeb3a986dc9df96a36c828a871f449792825d9bea6381ed52683cba587603a85
+    mime: image/tiff
+    bytes: 25702501
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ae/b3/aeb3a986dc9df96a36c828a871f449792825d9bea6381ed52683cba587603a85/preview-400.fc0cd35571d8.jpg
+        sha256: fc0cd35571d8ae921b1919b0fdced3e65e589fc86bfdac66e83620a887f857d1
+        mime: image/jpeg
+        bytes: 77999
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

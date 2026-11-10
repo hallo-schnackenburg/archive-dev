@@ -1,0 +1,35 @@
+id: 01HQTHEZMXRGP71JB77DAXZFF9
+type: image
+subtype: photo
+title: Kirche St. Johannis Besuch im Sommer
+date: 1923-03-15
+location: Lenzen, Feuerwehr
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/9d/de/9dde68a1b80e0e118bcb3cb1d58525106a036d6bfddde18058eb2bdcdcfaa8c8/original.jpg
+    sha256: 9dde68a1b80e0e118bcb3cb1d58525106a036d6bfddde18058eb2bdcdcfaa8c8
+    mime: image/jpeg
+    bytes: 25907982
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/9d/de/9dde68a1b80e0e118bcb3cb1d58525106a036d6bfddde18058eb2bdcdcfaa8c8/preview-400.51fd31c29c91.jpg
+        sha256: 51fd31c29c9146a818ebc3819b8b788d8acc69654b43efea5abfa68538d3b440
+        mime: image/jpeg
+        bytes: 49548
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

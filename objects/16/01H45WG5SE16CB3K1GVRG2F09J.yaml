@@ -1,0 +1,51 @@
+id: 01H45WG5SE16CB3K1GVRG2F09J
+type: document
+subtype: brochure
+title: Grenzturm Abriss am Morgen
+date: 1914-08
+language: de
+origin:
+  name: Hans Brandt
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/13/77/1377e8180629a235d3737b167bbceb2f6aa06daf82c13136687c29006d79f278/original.tif
+    sha256: 1377e8180629a235d3737b167bbceb2f6aa06daf82c13136687c29006d79f278
+    mime: image/tiff
+    bytes: 26859722
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/13/77/1377e8180629a235d3737b167bbceb2f6aa06daf82c13136687c29006d79f278/preview-400.effa0353cdb9.jpg
+        sha256: effa0353cdb98a3a2ac4e6318c2284219a357f0a7a57f467af3ebe388e00c271
+        mime: image/jpeg
+        bytes: 61136
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/20/50/2050c813a4d8472851890c04d1e11937644a099bec3f14d6ad47334c66dea534/original.tif
+    sha256: 2050c813a4d8472851890c04d1e11937644a099bec3f14d6ad47334c66dea534
+    mime: image/tiff
+    bytes: 21989468
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/20/50/2050c813a4d8472851890c04d1e11937644a099bec3f14d6ad47334c66dea534/preview-400.47442f50ee2a.jpg
+        sha256: 47442f50ee2a997a26c422b9b32cae9b8f7bd02d52f168e4be2cf88ee91f402d
+        mime: image/jpeg
+        bytes: 47518
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

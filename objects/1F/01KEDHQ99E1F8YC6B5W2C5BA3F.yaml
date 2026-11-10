@@ -1,0 +1,34 @@
+id: 01KEDHQ99E1F8YC6B5W2C5BA3F
+type: image
+subtype: plan
+title: Ernte Rechnung nach dem Krieg
+date: 1973-03
+location: Gartow, Grenzturm
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/0b/90/0b908490bb422e9b5cefdd30d8023d8f63f3fdaf9c342671c4d20166894af3ed/original.tif
+    sha256: 0b908490bb422e9b5cefdd30d8023d8f63f3fdaf9c342671c4d20166894af3ed
+    mime: image/tiff
+    bytes: 27218086
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0b/90/0b908490bb422e9b5cefdd30d8023d8f63f3fdaf9c342671c4d20166894af3ed/preview-400.f09e8f6f905d.jpg
+        sha256: f09e8f6f905d45701462c954f3d21f5e95ec8d2b2b00079038ae841c6b02819d
+        mime: image/jpeg
+        bytes: 25662
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

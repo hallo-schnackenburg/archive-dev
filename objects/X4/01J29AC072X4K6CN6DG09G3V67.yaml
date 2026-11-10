@@ -1,0 +1,35 @@
+id: 01J29AC072X4K6CN6DG09G3V67
+type: image
+subtype: photo
+title: Rathaus Einweihung zur Wende
+date: 2001-12-26
+location: Holtorf, Storchennest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/4c/fd/4cfdaa88e03f5003cdc71e067b2b93743699ffad333e533357e0a3c52436c9e1/original.jpg
+    sha256: 4cfdaa88e03f5003cdc71e067b2b93743699ffad333e533357e0a3c52436c9e1
+    mime: image/jpeg
+    bytes: 3850354
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4c/fd/4cfdaa88e03f5003cdc71e067b2b93743699ffad333e533357e0a3c52436c9e1/preview-400.9f515d0509db.jpg
+        sha256: 9f515d0509db0c2364d182a6cab787a7a4ab79f9143d0474efefd0ffa5808ceb
+        mime: image/jpeg
+        bytes: 30461
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

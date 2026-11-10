@@ -1,0 +1,53 @@
+id: 01KW5XWY1N3PN775JG970R4A26
+type: document
+subtype: letter
+title: Molkerei Einweihung am Morgen
+description: Schreibt über die Ernte und das Wetter.
+date: 1963-03-24
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/0f/16/0f1692dc9da151340b5bfaa10b78519a0cec99070a347a33ab7222e3a82820e7/original.tif
+    sha256: 0f1692dc9da151340b5bfaa10b78519a0cec99070a347a33ab7222e3a82820e7
+    mime: image/tiff
+    bytes: 19628824
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0f/16/0f1692dc9da151340b5bfaa10b78519a0cec99070a347a33ab7222e3a82820e7/preview-400.db1e7e57c743.jpg
+        sha256: db1e7e57c743e10826be2708b89bfb7637f6cd7ede9421fd644f2ad4a2aaeb74
+        mime: image/jpeg
+        bytes: 62765
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/9f/e7/9fe70688e8ca2d1d46fb330fb5e6d4c7f9f32a2edc82c0a9fef52e46cc76f597/original.tif
+    sha256: 9fe70688e8ca2d1d46fb330fb5e6d4c7f9f32a2edc82c0a9fef52e46cc76f597
+    mime: image/tiff
+    bytes: 640835
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9f/e7/9fe70688e8ca2d1d46fb330fb5e6d4c7f9f32a2edc82c0a9fef52e46cc76f597/preview-400.11e0fd0d2af9.jpg
+        sha256: 11e0fd0d2af90a5326f3c2d9ca21daec2397e67803498ed8817e30cd7999eab7
+        mime: image/jpeg
+        bytes: 49938
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

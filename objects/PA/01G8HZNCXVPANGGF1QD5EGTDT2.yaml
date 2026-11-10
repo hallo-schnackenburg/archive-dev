@@ -1,0 +1,51 @@
+id: 01G8HZNCXVPANGGF1QD5EGTDT2
+type: document
+subtype: brochure
+title: Elbufer Prospekt im Sommer
+date: 1854-04
+language: de
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/ab/2e/ab2e14b21c616150ac047bae8b9b56947a15bb4f66bb8dbfc2031597b3595178/original.tif
+    sha256: ab2e14b21c616150ac047bae8b9b56947a15bb4f66bb8dbfc2031597b3595178
+    mime: image/tiff
+    bytes: 16904728
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ab/2e/ab2e14b21c616150ac047bae8b9b56947a15bb4f66bb8dbfc2031597b3595178/preview-400.98a19bdd8e5b.jpg
+        sha256: 98a19bdd8e5bd83e6231ac43af46f7dd93f1d33ff5ffdb7246ba94302bcd13d1
+        mime: image/jpeg
+        bytes: 54190
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/54/b0/54b0208dede3bce3b828d9aab92b1c1060cacfad3b0b73f2f3074cd325957739/original.tif
+    sha256: 54b0208dede3bce3b828d9aab92b1c1060cacfad3b0b73f2f3074cd325957739
+    mime: image/tiff
+    bytes: 7668540
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/54/b0/54b0208dede3bce3b828d9aab92b1c1060cacfad3b0b73f2f3074cd325957739/preview-400.7ebdb43cff10.jpg
+        sha256: 7ebdb43cff10cbf6f733c2e4ff2b09e432b8715171cadaf6e286189a8a3a6b47
+        mime: image/jpeg
+        bytes: 43612
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

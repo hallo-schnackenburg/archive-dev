@@ -1,0 +1,39 @@
+id: 01G311RGK9C44WSQ9TZG8K7EYG
+type: image
+subtype: photo
+title: Hochwasser Protokoll bei Hochwasser
+date: 1878-05-24
+location: Pretzier, Dorfteich
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/f0/fd/f0fdcfadecf72015f4e1e855a3ef889b2a39495712f949f1eddf4d31a62e81ab/original.jpg
+    sha256: f0fdcfadecf72015f4e1e855a3ef889b2a39495712f949f1eddf4d31a62e81ab
+    mime: image/jpeg
+    bytes: 16890402
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f0/fd/f0fdcfadecf72015f4e1e855a3ef889b2a39495712f949f1eddf4d31a62e81ab/preview-400.dacf9846bc7b.jpg
+        sha256: dacf9846bc7b5951d185a5e189d0776c5787f0d466153d4e1816ef8674ebc7bb
+        mime: image/jpeg
+        bytes: 66939
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

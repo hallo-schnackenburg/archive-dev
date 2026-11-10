@@ -1,0 +1,35 @@
+id: 01HSHEVB6BBJPG36GGE4SR0QA4
+type: image
+subtype: photo
+title: Gemeindehaus Protokoll zur Wende
+date: 1997-10-13
+location: Holtorf, Molkerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/ec/95/ec95e9c6e08abe2f62c598cc21f83937018f933780b07ce57826ed4a42074588/original.jpg
+    sha256: ec95e9c6e08abe2f62c598cc21f83937018f933780b07ce57826ed4a42074588
+    mime: image/jpeg
+    bytes: 21138136
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ec/95/ec95e9c6e08abe2f62c598cc21f83937018f933780b07ce57826ed4a42074588/preview-400.d485d3966606.jpg
+        sha256: d485d3966606eea11a60140db6d0bb516cc77470739bffe36c76f0d81634a251
+        mime: image/jpeg
+        bytes: 82155
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

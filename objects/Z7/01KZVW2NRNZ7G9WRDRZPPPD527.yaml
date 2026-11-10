@@ -1,0 +1,35 @@
+id: 01KZVW2NRNZ7G9WRDRZPPPD527
+type: image
+subtype: photo
+title: Rathaus Notiz im Sommer
+date: 1999-12-02
+location: Kapern, Marktplatz
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/cd/71/cd71c8d771fdace01d95fef0e759d818ada41587255e0d74afbf96f91977101b/original.jpg
+    sha256: cd71c8d771fdace01d95fef0e759d818ada41587255e0d74afbf96f91977101b
+    mime: image/jpeg
+    bytes: 14764408
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/cd/71/cd71c8d771fdace01d95fef0e759d818ada41587255e0d74afbf96f91977101b/preview-400.009994abd208.jpg
+        sha256: 009994abd208ff5f986cb2242a2e7ef52852a7172137f168b3f8b84fc4d8ca03
+        mime: image/jpeg
+        bytes: 36996
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

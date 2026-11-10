@@ -1,0 +1,34 @@
+id: 01M0GQKAE8PNDVMS3AM715T80W
+type: image
+subtype: plan
+title: Fachwerkhaus Einladung am Sonntag
+date: 1923-08-11
+location: Schnackenburg, Marktplatz
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/dd/24/dd247b9640a137a801d588d4342b91daeb87be86264f91e014022130514e043f/original.tif
+    sha256: dd247b9640a137a801d588d4342b91daeb87be86264f91e014022130514e043f
+    mime: image/tiff
+    bytes: 12928729
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/24/dd247b9640a137a801d588d4342b91daeb87be86264f91e014022130514e043f/preview-400.a6e668350a49.jpg
+        sha256: a6e668350a49be5db9fff22475bcc84108d9f0b0ee4d715d1856516d33a41811
+        mime: image/jpeg
+        bytes: 29687
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

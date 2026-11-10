@@ -1,0 +1,35 @@
+id: 01KE0NFK67NHAA020QWGYKNMDV
+type: image
+subtype: photo
+title: Kindergarten Ansicht im Winter
+date: 1912-06
+location: Lüchow, Bäckerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/43/2c/432cb903fb54bf70c978c54d8c0eef375b0ee5966813ef8ea04f890ccb378c64/original.jpg
+    sha256: 432cb903fb54bf70c978c54d8c0eef375b0ee5966813ef8ea04f890ccb378c64
+    mime: image/jpeg
+    bytes: 14726893
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/43/2c/432cb903fb54bf70c978c54d8c0eef375b0ee5966813ef8ea04f890ccb378c64/preview-400.6d646a53206c.jpg
+        sha256: 6d646a53206c29f25df936bd890a466e057c754e432b895dd00f6259419fc269
+        mime: image/jpeg
+        bytes: 83621
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

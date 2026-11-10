@@ -1,0 +1,53 @@
+id: 01HKR0VGC4H89XX1XHPZEGJVE9
+type: document
+subtype: letter
+title: Bäckerei Besuch zur Ernte
+description: Schreibt über die Ernte und das Wetter.
+date: 1869~
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/0e/49/0e493b59c536b79bea2e9465ff6389c751b95effe35c11c439eba24f67325188/original.tif
+    sha256: 0e493b59c536b79bea2e9465ff6389c751b95effe35c11c439eba24f67325188
+    mime: image/tiff
+    bytes: 8643559
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0e/49/0e493b59c536b79bea2e9465ff6389c751b95effe35c11c439eba24f67325188/preview-400.1ab1a16e9cc4.jpg
+        sha256: 1ab1a16e9cc4e520e5a4f81f3ed0862501de11750e4b41f08442fe9e878bc7b3
+        mime: image/jpeg
+        bytes: 43285
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/00/c2/00c204fdf9b21275baa34df673d128837696441bdd7c56c3982249e8779013ce/original.tif
+    sha256: 00c204fdf9b21275baa34df673d128837696441bdd7c56c3982249e8779013ce
+    mime: image/tiff
+    bytes: 6383421
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/00/c2/00c204fdf9b21275baa34df673d128837696441bdd7c56c3982249e8779013ce/preview-400.7a3f4d4d4ca3.jpg
+        sha256: 7a3f4d4d4ca3be27f3ffafc49c4b800606cc37eda6b6d32c30c90ac560090bc8
+        mime: image/jpeg
+        bytes: 22527
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

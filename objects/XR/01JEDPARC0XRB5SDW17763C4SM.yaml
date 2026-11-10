@@ -1,0 +1,39 @@
+id: 01JEDPARC0XRB5SDW17763C4SM
+type: image
+subtype: photo
+title: Dorfteich Ansicht zur Ernte
+date: 1901-04-10
+location: Lenzen, Schützenfest
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/a0/33/a0336a30e3781e38cbdd534abbadae03995be9b193102e7ca67d66b113d42aab/original.jpg
+    sha256: a0336a30e3781e38cbdd534abbadae03995be9b193102e7ca67d66b113d42aab
+    mime: image/jpeg
+    bytes: 15472570
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a0/33/a0336a30e3781e38cbdd534abbadae03995be9b193102e7ca67d66b113d42aab/preview-400.781c31c69e00.jpg
+        sha256: 781c31c69e00722b97fd0eb165e80446c0aae5c9c5b6b5efe05374f5a97d6c40
+        mime: image/jpeg
+        bytes: 54428
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

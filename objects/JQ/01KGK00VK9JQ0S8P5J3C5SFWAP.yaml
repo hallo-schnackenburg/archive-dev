@@ -1,0 +1,51 @@
+id: 01KGK00VK9JQ0S8P5J3C5SFWAP
+type: document
+subtype: brochure
+title: Molkerei Aufnahme zur Ernte
+date: 1929-06-21
+language: de
+origin:
+  name: Hans Brandt
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/7b/2b/7b2b8060180dee88141c63b7da9e29774214a729e03ffad8388b368013de796a/original.tif
+    sha256: 7b2b8060180dee88141c63b7da9e29774214a729e03ffad8388b368013de796a
+    mime: image/tiff
+    bytes: 12648751
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7b/2b/7b2b8060180dee88141c63b7da9e29774214a729e03ffad8388b368013de796a/preview-400.92498d196160.jpg
+        sha256: 92498d1961603cc2c9b1d359abc5e6284c570260f8cc95502a4375094c09129d
+        mime: image/jpeg
+        bytes: 88372
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/62/d2/62d297b7191c3f534d34a807062b80682e3eb7620faf1ea9ba64a3d6d6d5b86c/original.tif
+    sha256: 62d297b7191c3f534d34a807062b80682e3eb7620faf1ea9ba64a3d6d6d5b86c
+    mime: image/tiff
+    bytes: 27644245
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/62/d2/62d297b7191c3f534d34a807062b80682e3eb7620faf1ea9ba64a3d6d6d5b86c/preview-400.b13653d0b8f5.jpg
+        sha256: b13653d0b8f5cdfafe745c3147c3f2005ec477b26a0d70de17f1efa6ca2fc053
+        mime: image/jpeg
+        bytes: 52263
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

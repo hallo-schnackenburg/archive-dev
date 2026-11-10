@@ -1,0 +1,37 @@
+id: 01H2XPWJQ1HEZFTD1T96YZ5Q0V
+type: image
+subtype: print
+title: Feuerwehr Abriss zur Ernte
+date: 2021-08-10
+location: Restorf, Feuerwehr
+origin:
+  name: Erika Voss
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/ac/ce/acce951fa13fb04d0f000af40acf0936f9e72c292549502f6b06132a176fda61/original.tif
+    sha256: acce951fa13fb04d0f000af40acf0936f9e72c292549502f6b06132a176fda61
+    mime: image/tiff
+    bytes: 19965336
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/ce/acce951fa13fb04d0f000af40acf0936f9e72c292549502f6b06132a176fda61/preview-400.a16c535420d4.jpg
+        sha256: a16c535420d40fd32bdca304f3ee445081b2236bfcabe39be0bbc4ff3fe52e73
+        mime: image/jpeg
+        bytes: 89580
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

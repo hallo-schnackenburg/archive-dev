@@ -1,0 +1,35 @@
+id: 01F5G7RGY477TBH410D6XYY087
+type: image
+subtype: photo
+title: Zollamt Ansicht zur Wende
+date: 1969-06-09
+location: Gorleben, Rathaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/13/99/1399d9d4a8c4a8dcd3cf494e30d70b0ca7ad1179de61ac198a63cb217a498abc/original.jpg
+    sha256: 1399d9d4a8c4a8dcd3cf494e30d70b0ca7ad1179de61ac198a63cb217a498abc
+    mime: image/jpeg
+    bytes: 12125091
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/13/99/1399d9d4a8c4a8dcd3cf494e30d70b0ca7ad1179de61ac198a63cb217a498abc/preview-400.bde41bf4f1c0.jpg
+        sha256: bde41bf4f1c0285cc1f15a4e18a84010bacff3bda5b9057f8db74dd69e558ea6
+        mime: image/jpeg
+        bytes: 64011
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

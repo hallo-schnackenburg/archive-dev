@@ -1,0 +1,39 @@
+id: 01GWJNBTWEDGEVHVYGGE0D15NT
+type: image
+subtype: photo
+title: Bahnhof Abriss am Morgen
+date: 1868-10-24
+location: Restorf, Rathaus
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/0a/67/0a6760f633e51b28684555a5bfb3e64e4f4431ab72691990005ea47398ff41b7/original.jpg
+    sha256: 0a6760f633e51b28684555a5bfb3e64e4f4431ab72691990005ea47398ff41b7
+    mime: image/jpeg
+    bytes: 18855243
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0a/67/0a6760f633e51b28684555a5bfb3e64e4f4431ab72691990005ea47398ff41b7/preview-400.e36673c8aa60.jpg
+        sha256: e36673c8aa60430977b86a68b1918d5625e9d9dce033d82bcb380e03ad76c2ed
+        mime: image/jpeg
+        bytes: 35887
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

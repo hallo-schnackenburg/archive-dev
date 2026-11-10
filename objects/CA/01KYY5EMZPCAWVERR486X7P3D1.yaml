@@ -1,0 +1,39 @@
+id: 01KYY5EMZPCAWVERR486X7P3D1
+type: image
+subtype: photo
+title: Mühle Gruppenbild im Sommer
+description: Mühle und gasthof, im Winter.
+date: 1882/1885
+location: Lüchow, Sportplatz
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Fritz Bohlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/d4/ec/d4ec2013fb7342e3c99727b9c1e9e866a9942f96f02e33c65fe503c2b0d85887/original.jpg
+    sha256: d4ec2013fb7342e3c99727b9c1e9e866a9942f96f02e33c65fe503c2b0d85887
+    mime: image/jpeg
+    bytes: 581128
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d4/ec/d4ec2013fb7342e3c99727b9c1e9e866a9942f96f02e33c65fe503c2b0d85887/preview-400.3c1dba140f5d.jpg
+        sha256: 3c1dba140f5d94b0425846b1ccc81e495b259efae80a0c16e007872c7876072f
+        mime: image/jpeg
+        bytes: 62126
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

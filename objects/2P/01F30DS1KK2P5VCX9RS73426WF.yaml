@@ -1,0 +1,39 @@
+id: 01F30DS1KK2P5VCX9RS73426WF
+type: image
+subtype: photo
+title: Friedhof Brief zur Wende
+date: 1995-05-07
+location: Holtorf, Schmiede
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/fa/49/fa49d5f9bbd742b8802c18fc7623a60dcd9fb87cdc5247f706c281aaabd1ee98/original.jpg
+    sha256: fa49d5f9bbd742b8802c18fc7623a60dcd9fb87cdc5247f706c281aaabd1ee98
+    mime: image/jpeg
+    bytes: 27754080
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fa/49/fa49d5f9bbd742b8802c18fc7623a60dcd9fb87cdc5247f706c281aaabd1ee98/preview-400.95e940005bf1.jpg
+        sha256: 95e940005bf12b7b31d2950c6ca2f2f75ba116e7c598d0eb121c0ca24ac69e7c
+        mime: image/jpeg
+        bytes: 60104
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

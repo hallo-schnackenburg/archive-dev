@@ -1,0 +1,37 @@
+id: 01HCKCWW918E8WTBC2F3ED3SJB
+type: image
+subtype: print
+title: Molkerei Umzug am Morgen
+date: "1905"
+location: Restorf, Grenzturm
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/bd/e6/bde6da1ab53fcf08b99e823de9160edfd594f709ee44c1ae501d3d67816d61d4/original.tif
+    sha256: bde6da1ab53fcf08b99e823de9160edfd594f709ee44c1ae501d3d67816d61d4
+    mime: image/tiff
+    bytes: 11991314
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/e6/bde6da1ab53fcf08b99e823de9160edfd594f709ee44c1ae501d3d67816d61d4/preview-400.4aebf27d6c74.jpg
+        sha256: 4aebf27d6c747b84841023adfa7063bb9f5cb880d87e105bec0c61c274cf646d
+        mime: image/jpeg
+        bytes: 77956
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

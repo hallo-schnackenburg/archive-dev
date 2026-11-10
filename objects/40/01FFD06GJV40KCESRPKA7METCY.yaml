@@ -1,0 +1,34 @@
+id: 01FFD06GJV40KCESRPKA7METCY
+type: image
+subtype: print
+title: Elbdeich Ansicht vor dem Umbau
+description: Kupferstich.
+date: 1991/1994
+origin:
+  name: Karl Lemke
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/26/c2/26c2714430b45dbf3620179861a64c3b76e7be8014417b3d82586685be79ee9f/original.tif
+    sha256: 26c2714430b45dbf3620179861a64c3b76e7be8014417b3d82586685be79ee9f
+    mime: image/tiff
+    bytes: 9260084
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/c2/26c2714430b45dbf3620179861a64c3b76e7be8014417b3d82586685be79ee9f/preview-400.91393f43bf6b.jpg
+        sha256: 91393f43bf6b5533ad442ed363aaab758c69524f95b499f7dff614841dff193d
+        mime: image/jpeg
+        bytes: 22305
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

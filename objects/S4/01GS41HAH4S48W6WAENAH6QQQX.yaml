@@ -1,0 +1,35 @@
+id: 01GS41HAH4S48W6WAENAH6QQQX
+type: image
+subtype: photo
+title: Ernte Festtag zur Ernte
+date: 1945-09-01
+location: Gartow, Dorfschule
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/27/20/27207b8774abd97bdf07112a1b925004ec931a676646da178762bc3a8ade917c/original.jpg
+    sha256: 27207b8774abd97bdf07112a1b925004ec931a676646da178762bc3a8ade917c
+    mime: image/jpeg
+    bytes: 10378074
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/27/20/27207b8774abd97bdf07112a1b925004ec931a676646da178762bc3a8ade917c/preview-400.9db077004cfb.jpg
+        sha256: 9db077004cfb9af78f3acad01d76b36b207ba51222c583eb7f919408dd2a77ba
+        mime: image/jpeg
+        bytes: 45785
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

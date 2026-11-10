@@ -1,0 +1,51 @@
+id: 01K838FECNV99DTE6769VD6Q4N
+type: document
+subtype: brochure
+title: Gasthof Einladung am Morgen
+date: 1977-11
+language: de
+origin:
+  name: Marta Lüders
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/b8/47/b847dcf92db4f7dd6c40005b5d674be46225c7a1681058656e23ec2793ae9325/original.tif
+    sha256: b847dcf92db4f7dd6c40005b5d674be46225c7a1681058656e23ec2793ae9325
+    mime: image/tiff
+    bytes: 15932426
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b8/47/b847dcf92db4f7dd6c40005b5d674be46225c7a1681058656e23ec2793ae9325/preview-400.5f6e8b9b55ed.jpg
+        sha256: 5f6e8b9b55ed12b8981d6448c06d1ebffacd1480e52bb7d1b61bb8dd9086bcc5
+        mime: image/jpeg
+        bytes: 72741
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/79/19/7919c3dd9c118463a308a695f55965ace0cf4bd0cee91244b93b287cc4e7cde9/original.tif
+    sha256: 7919c3dd9c118463a308a695f55965ace0cf4bd0cee91244b93b287cc4e7cde9
+    mime: image/tiff
+    bytes: 5416389
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/79/19/7919c3dd9c118463a308a695f55965ace0cf4bd0cee91244b93b287cc4e7cde9/preview-400.b00c9317f3e0.jpg
+        sha256: b00c9317f3e04045bd878b0356762e89c74b4c3c122e480c6f42ff95250520a7
+        mime: image/jpeg
+        bytes: 20409
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

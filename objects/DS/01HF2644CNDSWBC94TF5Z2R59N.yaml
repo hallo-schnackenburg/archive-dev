@@ -1,0 +1,34 @@
+id: 01HF2644CNDSWBC94TF5Z2R59N
+type: image
+subtype: plan
+title: Fachwerkhaus Bericht zur Ernte
+date: 1911~
+location: Lüchow, Kirche St. Johannis
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/57/c3/57c3f5728a535e4ed56e48cb58b4492e19fc7e580395a763b40223b4e6c3e388/original.tif
+    sha256: 57c3f5728a535e4ed56e48cb58b4492e19fc7e580395a763b40223b4e6c3e388
+    mime: image/tiff
+    bytes: 17239500
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/c3/57c3f5728a535e4ed56e48cb58b4492e19fc7e580395a763b40223b4e6c3e388/preview-400.d11887a48ce4.jpg
+        sha256: d11887a48ce46829b451a3ff2aa6b3eec66b0c4bb64abb6075e10dad27f4eef6
+        mime: image/jpeg
+        bytes: 46084
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

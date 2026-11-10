@@ -1,0 +1,34 @@
+id: 01KB77TZNAJ5S6HWJZK6134VP0
+type: image
+subtype: print
+title: Brunnen Aufnahme am Morgen
+description: Marktplatz und brücke, am Sonntag.
+date: 1900-05-01
+origin:
+  name: Anni Jeß
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/d5/08/d50858b0805944c30a255c4b8ecc98339fb7a22dd1007d72018bf3752b11a093/original.tif
+    sha256: d50858b0805944c30a255c4b8ecc98339fb7a22dd1007d72018bf3752b11a093
+    mime: image/tiff
+    bytes: 11452162
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/08/d50858b0805944c30a255c4b8ecc98339fb7a22dd1007d72018bf3752b11a093/preview-400.d913e72b071c.jpg
+        sha256: d913e72b071cef26297f565f74b5e9eef02b6689e483d606d164314932ac0a21
+        mime: image/jpeg
+        bytes: 58957
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

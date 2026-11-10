@@ -1,0 +1,39 @@
+id: 01KEZ3ZT01SX4S4SB9DTF2K64C
+type: image
+subtype: photo
+title: Elbdeich Besuch zu Pfingsten
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1890-03
+location: Gorleben, Storchennest
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Rudolf Garms
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/d5/e6/d5e61c94f9f47642b85291ddcd662fd68c23626210b501f217cf3f965528a7da/original.jpg
+    sha256: d5e61c94f9f47642b85291ddcd662fd68c23626210b501f217cf3f965528a7da
+    mime: image/jpeg
+    bytes: 18658115
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d5/e6/d5e61c94f9f47642b85291ddcd662fd68c23626210b501f217cf3f965528a7da/preview-400.79af694cfe1e.jpg
+        sha256: 79af694cfe1ea021d8e0128ce8a942719f71aac3681c80518083d1f86985fea5
+        mime: image/jpeg
+        bytes: 58841
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

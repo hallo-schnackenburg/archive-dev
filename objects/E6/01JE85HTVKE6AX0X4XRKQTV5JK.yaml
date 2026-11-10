@@ -1,0 +1,53 @@
+id: 01JE85HTVKE6AX0X4XRKQTV5JK
+type: document
+subtype: letter
+title: Zollamt Entwurf am Sonntag
+description: Schreibt über die Ernte und das Wetter.
+date: 1888-04-16
+language: de
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/0c/e5/0ce5cf21a51791728430d42c7bbdf59bcb81fab43a6c4a58f23591bc565a9cb4/original.tif
+    sha256: 0ce5cf21a51791728430d42c7bbdf59bcb81fab43a6c4a58f23591bc565a9cb4
+    mime: image/tiff
+    bytes: 24618380
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0c/e5/0ce5cf21a51791728430d42c7bbdf59bcb81fab43a6c4a58f23591bc565a9cb4/preview-400.e646c05c4b25.jpg
+        sha256: e646c05c4b25f5acf5c53404fa981b8fa3269c2a5abd26d00707c619a6b0992d
+        mime: image/jpeg
+        bytes: 75286
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/a1/dd/a1ddf45e0ba741c911ad1d0f7d91f6b5eb8cdcacafde26af808881999c014e00/original.tif
+    sha256: a1ddf45e0ba741c911ad1d0f7d91f6b5eb8cdcacafde26af808881999c014e00
+    mime: image/tiff
+    bytes: 24159368
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a1/dd/a1ddf45e0ba741c911ad1d0f7d91f6b5eb8cdcacafde26af808881999c014e00/preview-400.d2c73f0b5f05.jpg
+        sha256: d2c73f0b5f0553195b1064b71f9f0d0226030866f0af4442ccc230bb0deef716
+        mime: image/jpeg
+        bytes: 35782
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

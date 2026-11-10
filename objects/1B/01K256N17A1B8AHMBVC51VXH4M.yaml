@@ -1,0 +1,39 @@
+id: 01K256N17A1B8AHMBVC51VXH4M
+type: image
+subtype: photo
+title: Dorfteich Einladung im Winter
+date: 1916-05
+location: Lenzen, Brücke
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/93/d5/93d598602db285c2216a638f584e9c91072a57e7734064b7fda3dd1432e05e7b/original.jpg
+    sha256: 93d598602db285c2216a638f584e9c91072a57e7734064b7fda3dd1432e05e7b
+    mime: image/jpeg
+    bytes: 18276944
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/93/d5/93d598602db285c2216a638f584e9c91072a57e7734064b7fda3dd1432e05e7b/preview-400.cc284ae89c88.jpg
+        sha256: cc284ae89c88e28bd285fd36f13d3db658d7a60fa3ef4f152191707d4beab34c
+        mime: image/jpeg
+        bytes: 57626
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01FJMKY3CQN5X22SFTE0VW7CBS
+type: image
+subtype: photo
+title: Fähre Notiz zur Wende
+date: 1902-11-12
+location: Lenzen, Fähre
+origin:
+  name: Erika Voss
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/c7/1b/c71b3c8cdce58cee15ab1da2e126f95b9fea30e56ed908eba94920e2f77ca83a/original.jpg
+    sha256: c71b3c8cdce58cee15ab1da2e126f95b9fea30e56ed908eba94920e2f77ca83a
+    mime: image/jpeg
+    bytes: 2339641
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c7/1b/c71b3c8cdce58cee15ab1da2e126f95b9fea30e56ed908eba94920e2f77ca83a/preview-400.6e67b2de960e.jpg
+        sha256: 6e67b2de960e31a7457137987750360546046df187eb36de282759f412f98fb0
+        mime: image/jpeg
+        bytes: 65415
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

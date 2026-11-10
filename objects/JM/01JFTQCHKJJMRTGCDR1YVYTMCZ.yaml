@@ -1,0 +1,39 @@
+id: 01JFTQCHKJJMRTGCDR1YVYTMCZ
+type: image
+subtype: photo
+title: Elbdeich Zeichnung am Sonntag
+date: 1884-03-08
+location: Seedorf, Kirche St. Johannis
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/e3/b1/e3b184e7a4f07d9f9f458e23d88a8f85f2c00e39043f6beebdd25968a84d1c8c/original.jpg
+    sha256: e3b184e7a4f07d9f9f458e23d88a8f85f2c00e39043f6beebdd25968a84d1c8c
+    mime: image/jpeg
+    bytes: 9031242
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e3/b1/e3b184e7a4f07d9f9f458e23d88a8f85f2c00e39043f6beebdd25968a84d1c8c/preview-400.61d14cb71955.jpg
+        sha256: 61d14cb719551b84f84b4bbb4c7e0ab8cbf2b3c2c584eb9e257ef2917f13ec50
+        mime: image/jpeg
+        bytes: 68055
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

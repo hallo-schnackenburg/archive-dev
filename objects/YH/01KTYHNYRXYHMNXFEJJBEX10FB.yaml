@@ -1,0 +1,53 @@
+id: 01KTYHNYRXYHMNXFEJJBEX10FB
+type: document
+subtype: letter
+title: Dorfschule Zeichnung zur Ernte
+description: Gemeindehaus und schmiede, am Morgen.
+date: 1962-08-23
+language: de
+origin:
+  name: Hans Brandt
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/84/a8/84a8a5bd5f792edce9d923c58525a59fce6214f36c4e919f4bc41d89d9dae775/original.tif
+    sha256: 84a8a5bd5f792edce9d923c58525a59fce6214f36c4e919f4bc41d89d9dae775
+    mime: image/tiff
+    bytes: 1517675
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/84/a8/84a8a5bd5f792edce9d923c58525a59fce6214f36c4e919f4bc41d89d9dae775/preview-400.1efee7f4d8c7.jpg
+        sha256: 1efee7f4d8c7b60331ee93f9ba58002594e04f37e5a46099ceb07c8cbfce776e
+        mime: image/jpeg
+        bytes: 71823
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/af/d7/afd769514d000ae46f142b456b4ea9e60ad3a427fa90fa109c07e0005ba9e3a6/original.tif
+    sha256: afd769514d000ae46f142b456b4ea9e60ad3a427fa90fa109c07e0005ba9e3a6
+    mime: image/tiff
+    bytes: 792548
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/af/d7/afd769514d000ae46f142b456b4ea9e60ad3a427fa90fa109c07e0005ba9e3a6/preview-400.0f5022fbc9b6.jpg
+        sha256: 0f5022fbc9b6a591ad3f03f329abd17e438e150aabeef94722888f8bd53d0cc4
+        mime: image/jpeg
+        bytes: 24785
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01K3DCW21ETQ0MHDY539ACHMM1
+type: image
+subtype: plan
+title: Marktplatz Rechnung zur Ernte
+date: 1885-07
+location: Schnackenburg, Mühle
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/05/ef/05ef230f0a54142d32e29f423a852edf0fc62a8d22ebab77ee7941401c3df453/original.tif
+    sha256: 05ef230f0a54142d32e29f423a852edf0fc62a8d22ebab77ee7941401c3df453
+    mime: image/tiff
+    bytes: 27002691
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/ef/05ef230f0a54142d32e29f423a852edf0fc62a8d22ebab77ee7941401c3df453/preview-400.0f72427b35bf.jpg
+        sha256: 0f72427b35bfa23aaca220cb31d94f82709e3523266d83c79987ec12db3e87e9
+        mime: image/jpeg
+        bytes: 72898
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

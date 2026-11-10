@@ -1,0 +1,34 @@
+id: 01GB1N0WJN6CEQ3QW8SZGYWG8K
+type: image
+subtype: plan
+title: Grenzturm Ansicht zur Wende
+date: 2013-06-16
+location: Holtorf, Feuerwehr
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/e0/7c/e07c74b7dc8e96121efa8b4b55a6b882948bc76033e5f0540ea96e5ad00c174c/original.tif
+    sha256: e07c74b7dc8e96121efa8b4b55a6b882948bc76033e5f0540ea96e5ad00c174c
+    mime: image/tiff
+    bytes: 6403331
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e0/7c/e07c74b7dc8e96121efa8b4b55a6b882948bc76033e5f0540ea96e5ad00c174c/preview-400.bfacf7e9123d.jpg
+        sha256: bfacf7e9123d060a3407d446662306c7b0f9d8491f8d1804c9a04045344c26de
+        mime: image/jpeg
+        bytes: 53587
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

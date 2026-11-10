@@ -1,0 +1,51 @@
+id: 01H7DNMGWWEN4QYQM87JJ4E2GF
+type: document
+subtype: brochure
+title: Ernte Protokoll am Morgen
+date: "1964"
+language: de
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/30/ac/30ac14f5f4b547792655dc5236e28e69fd6aba684f1994b18b4d4df5a07d15b9/original.tif
+    sha256: 30ac14f5f4b547792655dc5236e28e69fd6aba684f1994b18b4d4df5a07d15b9
+    mime: image/tiff
+    bytes: 575066
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/30/ac/30ac14f5f4b547792655dc5236e28e69fd6aba684f1994b18b4d4df5a07d15b9/preview-400.db3fb575b48b.jpg
+        sha256: db3fb575b48b1cd91928de3736c0ca16bc8e192e4befe0ec242e5cd6593fc046
+        mime: image/jpeg
+        bytes: 42668
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/e7/61/e76114d4dfa86fb01006e4be9f82363afac55371e01ff28e153e11e44eba63f6/original.tif
+    sha256: e76114d4dfa86fb01006e4be9f82363afac55371e01ff28e153e11e44eba63f6
+    mime: image/tiff
+    bytes: 11949274
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e7/61/e76114d4dfa86fb01006e4be9f82363afac55371e01ff28e153e11e44eba63f6/preview-400.3fce65af30f2.jpg
+        sha256: 3fce65af30f21f89ccc5bf405ca489d1dd9c97d0669d7addb7ad7dbcb79c94df
+        mime: image/jpeg
+        bytes: 58663
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

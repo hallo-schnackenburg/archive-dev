@@ -1,0 +1,51 @@
+id: 01F38GMGD803FM44BVP0B9WEM9
+type: document
+subtype: brochure
+title: Schmiede Ansicht zur Ernte
+date: 1869-08-26
+language: de
+origin:
+  name: Erika Voss
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/da/43/da43183a3fe85f88d9732c59c47c3358bb605ee5f227876ae0d3c1c5ba1903ee/original.tif
+    sha256: da43183a3fe85f88d9732c59c47c3358bb605ee5f227876ae0d3c1c5ba1903ee
+    mime: image/tiff
+    bytes: 13335599
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/43/da43183a3fe85f88d9732c59c47c3358bb605ee5f227876ae0d3c1c5ba1903ee/preview-400.0a5ae5b93fe8.jpg
+        sha256: 0a5ae5b93fe8f7f462c1ec6012256aba79a5031a04ab8c98f77decb605a719f8
+        mime: image/jpeg
+        bytes: 51761
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/bd/ed/bded971aae675e382c27d67e1617806af29a358ff98cb8b5f53ba0e358077221/original.tif
+    sha256: bded971aae675e382c27d67e1617806af29a358ff98cb8b5f53ba0e358077221
+    mime: image/tiff
+    bytes: 14751545
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/ed/bded971aae675e382c27d67e1617806af29a358ff98cb8b5f53ba0e358077221/preview-400.646c6a011884.jpg
+        sha256: 646c6a011884e98b5a583db9a3de818ecda04e5ef6005d874afbbe67d03c1386
+        mime: image/jpeg
+        bytes: 38186
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

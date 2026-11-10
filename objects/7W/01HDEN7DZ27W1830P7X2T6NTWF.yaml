@@ -1,0 +1,35 @@
+id: 01HDEN7DZ27W1830P7X2T6NTWF
+type: image
+subtype: photo
+title: Gasthof Umzug nach dem Krieg
+date: 1942~
+location: Pretzier, Brücke
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/6e/cc/6ecc8390367422ed09106c92873e97654336b6c90b4b952cff502965e5e9bb9f/original.jpg
+    sha256: 6ecc8390367422ed09106c92873e97654336b6c90b4b952cff502965e5e9bb9f
+    mime: image/jpeg
+    bytes: 24642458
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/6e/cc/6ecc8390367422ed09106c92873e97654336b6c90b4b952cff502965e5e9bb9f/preview-400.626d368f74de.jpg
+        sha256: 626d368f74de0a2a79f84effd36f715f9aa1ae70307b1aa8ad9533ba65f1bc7b
+        mime: image/jpeg
+        bytes: 66322
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

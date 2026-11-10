@@ -1,0 +1,34 @@
+id: 01G9ESMPAFMEF31CFAY19AJ8SK
+type: image
+subtype: plan
+title: Molkerei Notiz nach dem Krieg
+date: 1980-02
+location: Pretzier, Mühle
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/4b/c5/4bc5318e721a325416c3d4136309d17929b23562cd1592fbd5a34613ea640d47/original.tif
+    sha256: 4bc5318e721a325416c3d4136309d17929b23562cd1592fbd5a34613ea640d47
+    mime: image/tiff
+    bytes: 1853794
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4b/c5/4bc5318e721a325416c3d4136309d17929b23562cd1592fbd5a34613ea640d47/preview-400.b33a8fb4b154.jpg
+        sha256: b33a8fb4b1542bc23522f1dc1ac47693427ec92dc86dbf984d88527e67de9ba0
+        mime: image/jpeg
+        bytes: 59702
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,53 @@
+id: 01J9HQN231JE0TZV6G60XMVF7K
+type: document
+subtype: letter
+title: Feuerwehr Einladung vor dem Umbau
+description: Brücke und storchennest, am Sonntag.
+date: 2002-05
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/de/62/de62cd038bab3d07f78da7b75dd2b714ba42c531fdf23ab1f7ff441aa84270c3/original.tif
+    sha256: de62cd038bab3d07f78da7b75dd2b714ba42c531fdf23ab1f7ff441aa84270c3
+    mime: image/tiff
+    bytes: 14518645
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/62/de62cd038bab3d07f78da7b75dd2b714ba42c531fdf23ab1f7ff441aa84270c3/preview-400.36cc4549228c.jpg
+        sha256: 36cc4549228cc56040ab3abac71672ab90b92fd39f9e7edbe4c43cc819868b16
+        mime: image/jpeg
+        bytes: 20914
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/c2/05/c205ddd3e8ce2d45254a619a252a7be612ba7269234c1fc226b22a2cde8797de/original.tif
+    sha256: c205ddd3e8ce2d45254a619a252a7be612ba7269234c1fc226b22a2cde8797de
+    mime: image/tiff
+    bytes: 15985415
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/05/c205ddd3e8ce2d45254a619a252a7be612ba7269234c1fc226b22a2cde8797de/preview-400.002688a8dc0f.jpg
+        sha256: 002688a8dc0ff131b825acfa7873d63b83cc9806fb6ffe29bb049ef470b75d38
+        mime: image/jpeg
+        bytes: 85582
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

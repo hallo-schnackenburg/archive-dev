@@ -1,0 +1,31 @@
+id: 01JMXK7HXB5TJ3H0GZ834BYD0K
+type: image
+subtype: drawing
+title: Rathaus Aufnahme im Winter
+description: Federzeichnung, laviert.
+date: 1890/1891
+location: Schnackenburg, Bahnhof
+origin:
+  name: Walter Kuhlmann
+  type: person
+  location: Hannover
+files:
+  - role: main
+    original_name: zeichnung_hafen.tif
+    path: files/4f/4d/4f4d75a0b24340af3f019ae3a46eee1dc712786ecd229ec4bdfdde64a433d1e8/original.tif
+    sha256: 4f4d75a0b24340af3f019ae3a46eee1dc712786ecd229ec4bdfdde64a433d1e8
+    mime: image/tiff
+    bytes: 24773188
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4f/4d/4f4d75a0b24340af3f019ae3a46eee1dc712786ecd229ec4bdfdde64a433d1e8/preview-400.e7aebb6237ac.jpg
+        sha256: e7aebb6237acac349a5f3d7a14f306ad05c4fd26989925d9c4cbf90acf28acf8
+        mime: image/jpeg
+        bytes: 43837
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

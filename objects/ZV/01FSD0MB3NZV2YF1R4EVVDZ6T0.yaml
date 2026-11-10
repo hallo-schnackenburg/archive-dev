@@ -1,0 +1,39 @@
+id: 01FSD0MB3NZV2YF1R4EVVDZ6T0
+type: image
+subtype: photo
+title: Brunnen Ansicht zur Wende
+description: Bahnhof und sportplatz, am Morgen.
+date: 1948-04-21
+location: Gorleben, Molkerei
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/5a/85/5a85779f400930fa4a34a8c451d9fb40c6189374c0bf47f886ecde6b773e777e/original.jpg
+    sha256: 5a85779f400930fa4a34a8c451d9fb40c6189374c0bf47f886ecde6b773e777e
+    mime: image/jpeg
+    bytes: 27233196
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/5a/85/5a85779f400930fa4a34a8c451d9fb40c6189374c0bf47f886ecde6b773e777e/preview-400.073d40fedfc6.jpg
+        sha256: 073d40fedfc65d6c5ea6e343a0d53c2521cf92f244d5872dd2ad490a9d51bec6
+        mime: image/jpeg
+        bytes: 25259
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01KWP2HY0K9YT6K93QGGSFK7G4
+type: image
+subtype: photo
+title: Bäckerei Entwurf zur Wende
+date: 1931/1933
+location: Gorleben, Gasthof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/56/3a/563aeed9efd60876f9735e2dcdd577369179e83f2f8a5cb3100a899940849115/original.jpg
+    sha256: 563aeed9efd60876f9735e2dcdd577369179e83f2f8a5cb3100a899940849115
+    mime: image/jpeg
+    bytes: 25079822
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/56/3a/563aeed9efd60876f9735e2dcdd577369179e83f2f8a5cb3100a899940849115/preview-400.9702d6094653.jpg
+        sha256: 9702d60946530df5cc5b2f2ce79912979e3c194a157b7d77dc99fcd2b840fd5c
+        mime: image/jpeg
+        bytes: 45297
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

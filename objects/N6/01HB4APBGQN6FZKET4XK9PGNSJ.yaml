@@ -1,0 +1,35 @@
+id: 01HB4APBGQN6FZKET4XK9PGNSJ
+type: image
+subtype: photo
+title: Fachwerkhaus Bericht zur Wende
+date: 1895/1899
+location: Gorleben, Bäckerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/12/49/1249450c825d3f37e59edac4ccb1abc5be2e0af599ffd382efc0469a6849401b/original.jpg
+    sha256: 1249450c825d3f37e59edac4ccb1abc5be2e0af599ffd382efc0469a6849401b
+    mime: image/jpeg
+    bytes: 2534097
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/12/49/1249450c825d3f37e59edac4ccb1abc5be2e0af599ffd382efc0469a6849401b/preview-400.75232d7fc775.jpg
+        sha256: 75232d7fc775bd27a0c8bdcb06097675311f81e471b6e5567f39241a502880c3
+        mime: image/jpeg
+        bytes: 69283
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

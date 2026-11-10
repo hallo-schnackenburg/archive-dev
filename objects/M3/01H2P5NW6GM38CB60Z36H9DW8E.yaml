@@ -1,0 +1,39 @@
+id: 01H2P5NW6GM38CB60Z36H9DW8E
+type: image
+subtype: photo
+title: Gasthof Brief zu Pfingsten
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1927-10
+location: Schnackenburg, Sportplatz
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Karl Lemke
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/f8/38/f8387ccf651220a6ae72704f90e9088220ecef5d166d770d0da029854862a080/original.jpg
+    sha256: f8387ccf651220a6ae72704f90e9088220ecef5d166d770d0da029854862a080
+    mime: image/jpeg
+    bytes: 1524412
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f8/38/f8387ccf651220a6ae72704f90e9088220ecef5d166d770d0da029854862a080/preview-400.072230584216.jpg
+        sha256: 07223058421664ce914d65da4e3b6f806a9a3040795cb135c7309d79c3d3194f
+        mime: image/jpeg
+        bytes: 62900
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

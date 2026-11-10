@@ -1,0 +1,34 @@
+id: 01F2GB6G0C76AE5RFNQYD0PRCS
+type: image
+subtype: plan
+title: Bäckerei Notiz am Morgen
+date: 1850/1851
+location: Seedorf, Schützenfest
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Erika Voss
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/f7/95/f795463487b7d1428f46a889acad4612e48aff56588ac4cbf370645bc7306809/original.tif
+    sha256: f795463487b7d1428f46a889acad4612e48aff56588ac4cbf370645bc7306809
+    mime: image/tiff
+    bytes: 2227323
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f7/95/f795463487b7d1428f46a889acad4612e48aff56588ac4cbf370645bc7306809/preview-400.44c219c096f9.jpg
+        sha256: 44c219c096f9f158074370ea2d02cf642992c3d2702ea742b2f3a64a1e8531a2
+        mime: image/jpeg
+        bytes: 40948
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

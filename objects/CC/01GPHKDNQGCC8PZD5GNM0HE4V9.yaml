@@ -1,0 +1,51 @@
+id: 01GPHKDNQGCC8PZD5GNM0HE4V9
+type: document
+subtype: brochure
+title: Fachwerkhaus Bescheid zur Ernte
+date: 1945-06-18
+language: de
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/17/8a/178a4008756dbaf93f7cde67c238e8e1db3ad74c089456ee0bd4051a1dc77199/original.tif
+    sha256: 178a4008756dbaf93f7cde67c238e8e1db3ad74c089456ee0bd4051a1dc77199
+    mime: image/tiff
+    bytes: 10491212
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/17/8a/178a4008756dbaf93f7cde67c238e8e1db3ad74c089456ee0bd4051a1dc77199/preview-400.1c18f3606902.jpg
+        sha256: 1c18f3606902d14222d727593001c5620753b66f0226d21f8e01d5bc2cde8c5a
+        mime: image/jpeg
+        bytes: 87738
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/8d/cc/8dcc9005a4045cfdac827c71bdde41b7b81797e1f8e481ce938a65ba8db7668b/original.tif
+    sha256: 8dcc9005a4045cfdac827c71bdde41b7b81797e1f8e481ce938a65ba8db7668b
+    mime: image/tiff
+    bytes: 509634
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8d/cc/8dcc9005a4045cfdac827c71bdde41b7b81797e1f8e481ce938a65ba8db7668b/preview-400.28aa97bfb23e.jpg
+        sha256: 28aa97bfb23e65fc2587401f576ec3fc35e8012f16f95c4f352454f288ad8fe4
+        mime: image/jpeg
+        bytes: 51135
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

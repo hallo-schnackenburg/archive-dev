@@ -1,0 +1,51 @@
+id: 01GRC99V4H1GM4KXD3V7M05S9P
+type: document
+subtype: brochure
+title: Kirche St. Johannis Entwurf am Sonntag
+date: "2008"
+language: de
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/2e/bb/2ebb6d8ea1f1dad12d54e019afa72ad54c62cc894a9fabdf1a2e19e11ee7731b/original.tif
+    sha256: 2ebb6d8ea1f1dad12d54e019afa72ad54c62cc894a9fabdf1a2e19e11ee7731b
+    mime: image/tiff
+    bytes: 27951920
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/bb/2ebb6d8ea1f1dad12d54e019afa72ad54c62cc894a9fabdf1a2e19e11ee7731b/preview-400.eecf19d0a8ac.jpg
+        sha256: eecf19d0a8ac1b1bb44f65bf3f1d423a38909543c2c1b74cba9dc8c31516d05a
+        mime: image/jpeg
+        bytes: 22073
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/57/b0/57b00d9ee40ab5cd94321f9c881d0980005638435b47bac730213739be9dc9b9/original.tif
+    sha256: 57b00d9ee40ab5cd94321f9c881d0980005638435b47bac730213739be9dc9b9
+    mime: image/tiff
+    bytes: 27546971
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/b0/57b00d9ee40ab5cd94321f9c881d0980005638435b47bac730213739be9dc9b9/preview-400.195010c7c9b3.jpg
+        sha256: 195010c7c9b34cf91f2a989e90f453ae03f4be7f4918ae855ecb8348a008dbeb
+        mime: image/jpeg
+        bytes: 32010
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

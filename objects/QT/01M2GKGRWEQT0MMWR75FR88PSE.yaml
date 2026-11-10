@@ -1,0 +1,39 @@
+id: 01M2GKGRWEQT0MMWR75FR88PSE
+type: image
+subtype: photo
+title: Gasthof Umzug zu Pfingsten
+description: Sportplatz und bäckerei, nach dem Krieg.
+date: "1876"
+location: Lenzen, Molkerei
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Erika Voss
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/ec/65/ec651a52298e3cd54ce6f617516c8f8cf9e2ea1cb87e111b3436f4db2ace66ca/original.jpg
+    sha256: ec651a52298e3cd54ce6f617516c8f8cf9e2ea1cb87e111b3436f4db2ace66ca
+    mime: image/jpeg
+    bytes: 6002609
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ec/65/ec651a52298e3cd54ce6f617516c8f8cf9e2ea1cb87e111b3436f4db2ace66ca/preview-400.889d4618290f.jpg
+        sha256: 889d4618290f7b08cf5d06eb4b5ca3603e2aad81405b33b6c27489c60243643d
+        mime: image/jpeg
+        bytes: 65173
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

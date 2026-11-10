@@ -1,0 +1,34 @@
+id: 01KQYXG5QW5VDRYKTSAJZHHKVF
+type: image
+subtype: plan
+title: Pfarrhaus Umzug im Winter
+date: 1941-03-23
+location: Lenzen, Hochwasser
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/f0/cb/f0cb5aef3a70f2826ce3f4b162a5804d1f08fe7db1aa75dea14a8d9e10991e38/original.tif
+    sha256: f0cb5aef3a70f2826ce3f4b162a5804d1f08fe7db1aa75dea14a8d9e10991e38
+    mime: image/tiff
+    bytes: 27732087
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/cb/f0cb5aef3a70f2826ce3f4b162a5804d1f08fe7db1aa75dea14a8d9e10991e38/preview-400.399e7ecef1a8.jpg
+        sha256: 399e7ecef1a8adb02e378df5bef97a82f139898b63406819f926723b1007077a
+        mime: image/jpeg
+        bytes: 22153
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

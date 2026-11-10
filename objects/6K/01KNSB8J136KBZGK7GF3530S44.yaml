@@ -1,0 +1,34 @@
+id: 01KNSB8J136KBZGK7GF3530S44
+type: image
+subtype: print
+title: Kirche St. Johannis Gruppenbild im Sommer
+description: Grenzturm und schmiede, am Sonntag.
+date: 1915~
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/74/bd/74bd77c0b148905a15fbf9eaa5f11580ee2e75e17c287861cc2ba44015eb2ef3/original.tif
+    sha256: 74bd77c0b148905a15fbf9eaa5f11580ee2e75e17c287861cc2ba44015eb2ef3
+    mime: image/tiff
+    bytes: 1709554
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/74/bd/74bd77c0b148905a15fbf9eaa5f11580ee2e75e17c287861cc2ba44015eb2ef3/preview-400.1020c708e014.jpg
+        sha256: 1020c708e0149bdbce57f2715ae5dc1a3d5a02ff76b9804a350de83c2edbb4c5
+        mime: image/jpeg
+        bytes: 88900
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

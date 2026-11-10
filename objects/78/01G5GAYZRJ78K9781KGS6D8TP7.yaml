@@ -1,0 +1,34 @@
+id: 01G5GAYZRJ78K9781KGS6D8TP7
+type: image
+subtype: plan
+title: Hafen Prospekt zu Pfingsten
+date: 1860/1864
+location: Lüchow, Molkerei
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/27/5b/275bc4c5713d1a5ac19e0c4625b70707a09aad561e7f1aaa29c3ad35fdf18e74/original.tif
+    sha256: 275bc4c5713d1a5ac19e0c4625b70707a09aad561e7f1aaa29c3ad35fdf18e74
+    mime: image/tiff
+    bytes: 953684
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/27/5b/275bc4c5713d1a5ac19e0c4625b70707a09aad561e7f1aaa29c3ad35fdf18e74/preview-400.ac1dd295c941.jpg
+        sha256: ac1dd295c941a8d8b9c363c6eb4a607ae36b7e0c648abb68711b76dc60c889b0
+        mime: image/jpeg
+        bytes: 81961
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

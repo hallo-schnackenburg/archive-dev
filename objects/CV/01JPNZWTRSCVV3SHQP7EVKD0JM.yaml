@@ -1,0 +1,35 @@
+id: 01JPNZWTRSCVV3SHQP7EVKD0JM
+type: image
+subtype: photo
+title: Gemeindehaus Aufnahme zur Wende
+description: Rathaus und fähre, im Sommer.
+date: 2015-06-26
+location: Schnackenburg, Hochwasser
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/ea/c0/eac05f8286716ff665e962a8789912580285b713ae219ba799067eb62f4eeedc/original.jpg
+    sha256: eac05f8286716ff665e962a8789912580285b713ae219ba799067eb62f4eeedc
+    mime: image/jpeg
+    bytes: 6280485
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/ea/c0/eac05f8286716ff665e962a8789912580285b713ae219ba799067eb62f4eeedc/preview-400.d022d0d74a26.jpg
+        sha256: d022d0d74a26f328c34b7b78fa398f05ec120a98aa0b650492126547285254b2
+        mime: image/jpeg
+        bytes: 53492
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

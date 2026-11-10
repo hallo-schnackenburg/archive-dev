@@ -1,0 +1,34 @@
+id: 01M3PHC16795BKF5B5Y1AJMR45
+type: image
+subtype: plan
+title: Dorfteich Ansicht vor dem Umbau
+date: "1951"
+location: Kapern, Kirche St. Johannis
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/eb/91/eb91467431b1847745e78663daf968ff2cc074bae22e01e90a06c7dbbb7fac82/original.tif
+    sha256: eb91467431b1847745e78663daf968ff2cc074bae22e01e90a06c7dbbb7fac82
+    mime: image/tiff
+    bytes: 11049579
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/eb/91/eb91467431b1847745e78663daf968ff2cc074bae22e01e90a06c7dbbb7fac82/preview-400.e5b6390eca44.jpg
+        sha256: e5b6390eca444635e749f3951a2f67b9bcc45eeabc6bd14b8733f7bbc3945d82
+        mime: image/jpeg
+        bytes: 81372
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

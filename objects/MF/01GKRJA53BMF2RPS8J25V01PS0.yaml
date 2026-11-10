@@ -1,0 +1,35 @@
+id: 01GKRJA53BMF2RPS8J25V01PS0
+type: image
+subtype: photo
+title: Fähre Bericht am Morgen
+date: "1879"
+location: Gartow, Zollamt
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/5f/4a/5f4ade354c92acc9c602d1d977b2c65c74f5f9271debb9229edaf6e47a0d5ce3/original.jpg
+    sha256: 5f4ade354c92acc9c602d1d977b2c65c74f5f9271debb9229edaf6e47a0d5ce3
+    mime: image/jpeg
+    bytes: 22773269
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/5f/4a/5f4ade354c92acc9c602d1d977b2c65c74f5f9271debb9229edaf6e47a0d5ce3/preview-400.b983556cb2c5.jpg
+        sha256: b983556cb2c5711a12966070dc788ef0a707e5ea6c769f41f8a0f551e05a2c4f
+        mime: image/jpeg
+        bytes: 82215
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

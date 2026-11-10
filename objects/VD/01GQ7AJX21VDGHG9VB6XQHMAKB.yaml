@@ -1,0 +1,34 @@
+id: 01GQ7AJX21VDGHG9VB6XQHMAKB
+type: image
+subtype: plan
+title: Mühle Bericht im Winter
+date: 1877/1883
+location: Kapern, Hafen
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/bd/51/bd518e97d86dc16fa0fcf95ed0f7b6f43ed34dcb1e4908a7df8100105e21b33e/original.tif
+    sha256: bd518e97d86dc16fa0fcf95ed0f7b6f43ed34dcb1e4908a7df8100105e21b33e
+    mime: image/tiff
+    bytes: 870699
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/51/bd518e97d86dc16fa0fcf95ed0f7b6f43ed34dcb1e4908a7df8100105e21b33e/preview-400.a0ce7c338f25.jpg
+        sha256: a0ce7c338f25ba3a66c99f228b67bba340f32af15bb8994a3fb5155b7cdb5651
+        mime: image/jpeg
+        bytes: 37799
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

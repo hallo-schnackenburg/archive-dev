@@ -1,0 +1,51 @@
+id: 01J68EEGKAAHQ30H398TCB8DNF
+type: document
+subtype: brochure
+title: Molkerei Umbau zur Ernte
+date: 1878-12-18
+language: de
+origin:
+  name: Hans Brandt
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/04/89/048979d2f9cae677d8909d7143ce509e71015f5870bfec489a6a59c1b687ef44/original.tif
+    sha256: 048979d2f9cae677d8909d7143ce509e71015f5870bfec489a6a59c1b687ef44
+    mime: image/tiff
+    bytes: 9090414
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/89/048979d2f9cae677d8909d7143ce509e71015f5870bfec489a6a59c1b687ef44/preview-400.199405d95d95.jpg
+        sha256: 199405d95d95e69b579395a705aef39346477cc804c9aa97e693f9a5962d91a7
+        mime: image/jpeg
+        bytes: 45571
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/23/50/2350d9c269d0e9f94bf61354fa0b17d5184d65ec33447cdba6504c0de35cb764/original.tif
+    sha256: 2350d9c269d0e9f94bf61354fa0b17d5184d65ec33447cdba6504c0de35cb764
+    mime: image/tiff
+    bytes: 24932111
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/23/50/2350d9c269d0e9f94bf61354fa0b17d5184d65ec33447cdba6504c0de35cb764/preview-400.1eca013cfbc6.jpg
+        sha256: 1eca013cfbc68471c8fd5af0d46a401f3003c6d2957085f6fe5f702a676b7b31
+        mime: image/jpeg
+        bytes: 35878
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

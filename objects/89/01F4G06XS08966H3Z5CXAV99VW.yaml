@@ -1,0 +1,53 @@
+id: 01F4G06XS08966H3Z5CXAV99VW
+type: document
+subtype: letter
+title: Fachwerkhaus Jubiläum zur Ernte
+description: Bahnhof und grenzturm, bei Hochwasser.
+date: 1883-06
+language: de
+origin:
+  name: Erika Voss
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/25/38/253863d1eb36bbea2c19115394a5627b29f341c58ffd4bc5f68e5c6c369a18b5/original.tif
+    sha256: 253863d1eb36bbea2c19115394a5627b29f341c58ffd4bc5f68e5c6c369a18b5
+    mime: image/tiff
+    bytes: 2522445
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/25/38/253863d1eb36bbea2c19115394a5627b29f341c58ffd4bc5f68e5c6c369a18b5/preview-400.eef748c8e0fb.jpg
+        sha256: eef748c8e0fbdc9ff8d1fd29848eb5bb4b36de4745c29aa2ed153e8c830b8314
+        mime: image/jpeg
+        bytes: 58736
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/ff/5a/ff5ab3f0d4965c65c1fa94be9a0cc46b7c1dd816f8e88505f2aa571356a534d3/original.tif
+    sha256: ff5ab3f0d4965c65c1fa94be9a0cc46b7c1dd816f8e88505f2aa571356a534d3
+    mime: image/tiff
+    bytes: 11811285
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/5a/ff5ab3f0d4965c65c1fa94be9a0cc46b7c1dd816f8e88505f2aa571356a534d3/preview-400.93e729639697.jpg
+        sha256: 93e7296396972252736a566b425386f994eb7119356c42e04b9b711b01c3e09e
+        mime: image/jpeg
+        bytes: 65714
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

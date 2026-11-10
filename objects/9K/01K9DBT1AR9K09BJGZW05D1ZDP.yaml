@@ -1,0 +1,53 @@
+id: 01K9DBT1AR9K09BJGZW05D1ZDP
+type: document
+subtype: letter
+title: Elbdeich Umzug zur Ernte
+description: Schreibt über die Ernte und das Wetter.
+date: 1896-08
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/80/96/80968d881df8869eb97b06ffbeb7428b51a4b68ed1fb7b4952e2f30a1adaa934/original.tif
+    sha256: 80968d881df8869eb97b06ffbeb7428b51a4b68ed1fb7b4952e2f30a1adaa934
+    mime: image/tiff
+    bytes: 22816179
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/96/80968d881df8869eb97b06ffbeb7428b51a4b68ed1fb7b4952e2f30a1adaa934/preview-400.3ee3f1d10b71.jpg
+        sha256: 3ee3f1d10b71a9b9c18666febf4533c3cd42d8a272c82ef6ad72fdd4183df018
+        mime: image/jpeg
+        bytes: 48778
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/dc/39/dc3993b902e8e32f2e0a01a563049e30841c0a46dc0bc65defef5efa9933f01a/original.tif
+    sha256: dc3993b902e8e32f2e0a01a563049e30841c0a46dc0bc65defef5efa9933f01a
+    mime: image/tiff
+    bytes: 9252597
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/39/dc3993b902e8e32f2e0a01a563049e30841c0a46dc0bc65defef5efa9933f01a/preview-400.174437341753.jpg
+        sha256: 174437341753b445684ca99bec51d7b218b3ac509e855c116db73a334d5b53c7
+        mime: image/jpeg
+        bytes: 29147
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

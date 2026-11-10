@@ -1,0 +1,39 @@
+id: 01H6W3SHZN93RN90E186EQTSKT
+type: image
+subtype: photo
+title: Mühle Prospekt zu Pfingsten
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1909-11
+location: Seedorf, Fähre
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Dieter Ahrens
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/3e/27/3e27c77a56db2eb6a22df8415b7e9e57d356fc81fa6bdd01f5c0f16bd2349907/original.jpg
+    sha256: 3e27c77a56db2eb6a22df8415b7e9e57d356fc81fa6bdd01f5c0f16bd2349907
+    mime: image/jpeg
+    bytes: 23752049
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/3e/27/3e27c77a56db2eb6a22df8415b7e9e57d356fc81fa6bdd01f5c0f16bd2349907/preview-400.86b4658ce744.jpg
+        sha256: 86b4658ce744eb49034fdc5b3e41bb64a4c88b8db64320e1e633eb3d3c6b6e54
+        mime: image/jpeg
+        bytes: 83248
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

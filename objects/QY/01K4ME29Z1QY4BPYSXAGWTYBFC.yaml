@@ -1,0 +1,51 @@
+id: 01K4ME29Z1QY4BPYSXAGWTYBFC
+type: document
+subtype: brochure
+title: Gemeindehaus Ansicht zur Wende
+date: 1870-10
+language: de
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/06/43/0643fc1bcb29fe69e56cc6c440be0ed6ebc348b66f7f5b86e7bb893001d571fc/original.tif
+    sha256: 0643fc1bcb29fe69e56cc6c440be0ed6ebc348b66f7f5b86e7bb893001d571fc
+    mime: image/tiff
+    bytes: 23989634
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/43/0643fc1bcb29fe69e56cc6c440be0ed6ebc348b66f7f5b86e7bb893001d571fc/preview-400.204ceb377144.jpg
+        sha256: 204ceb377144e11513f84629d2a5cfe80e4392c1799ed82ee039523e5c8d8d72
+        mime: image/jpeg
+        bytes: 69579
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/11/34/11341dd9d3f0e7240777efc61b55cb2a7b640da8017c78ce45430ad9be1c1134/original.tif
+    sha256: 11341dd9d3f0e7240777efc61b55cb2a7b640da8017c78ce45430ad9be1c1134
+    mime: image/tiff
+    bytes: 13881855
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/34/11341dd9d3f0e7240777efc61b55cb2a7b640da8017c78ce45430ad9be1c1134/preview-400.e0f00790613a.jpg
+        sha256: e0f00790613af0632f9723fca53f7ae3c74e3dc9e3cda30716797f6d78bc0f69
+        mime: image/jpeg
+        bytes: 61335
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

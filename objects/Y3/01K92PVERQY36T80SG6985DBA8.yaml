@@ -1,0 +1,39 @@
+id: 01K92PVERQY36T80SG6985DBA8
+type: image
+subtype: photo
+title: Dorfschule Gruppenbild im Winter
+date: 1888-10-17
+location: Kapern, Molkerei
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Hans Brandt
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/69/0f/690f5793bffb731f3303ccaf734bd192d372ff493f00aa698cca3a81f97b37b7/original.jpg
+    sha256: 690f5793bffb731f3303ccaf734bd192d372ff493f00aa698cca3a81f97b37b7
+    mime: image/jpeg
+    bytes: 21587904
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/69/0f/690f5793bffb731f3303ccaf734bd192d372ff493f00aa698cca3a81f97b37b7/preview-400.75dad470fd86.jpg
+        sha256: 75dad470fd862e93cf044fd99b9a611b71a43ca88de5f11191801152cb056849
+        mime: image/jpeg
+        bytes: 89275
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

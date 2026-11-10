@@ -1,0 +1,37 @@
+id: 01HYSCVRH37YQC9NGAJ31NJE58
+type: image
+subtype: print
+title: Feuerwehr Zeichnung am Morgen
+date: 1939-11
+location: Lüchow, Fachwerkhaus
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/e7/2e/e72e1e4a78400e0d6ba34af0bcf269f8f460f908ea304bac85a9b0da562ded18/original.tif
+    sha256: e72e1e4a78400e0d6ba34af0bcf269f8f460f908ea304bac85a9b0da562ded18
+    mime: image/tiff
+    bytes: 14465180
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e7/2e/e72e1e4a78400e0d6ba34af0bcf269f8f460f908ea304bac85a9b0da562ded18/preview-400.e8ec4a768515.jpg
+        sha256: e8ec4a7685153b8372cae7f8c616cd5bf179fcfe0eced0363387ce2c71e7eac2
+        mime: image/jpeg
+        bytes: 38798
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

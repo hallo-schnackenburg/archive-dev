@@ -1,0 +1,39 @@
+id: 01FHC94SD8VVWW655QN8Y2HHFN
+type: image
+subtype: photo
+title: Bahnhof Brief nach dem Krieg
+date: "2000"
+location: Restorf, Molkerei
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Helga Plate
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/b9/7a/b97a9b4a835ed00716c542e3ba2a54237ca7afa0ed34b3c5fa046050073cc67a/original.jpg
+    sha256: b97a9b4a835ed00716c542e3ba2a54237ca7afa0ed34b3c5fa046050073cc67a
+    mime: image/jpeg
+    bytes: 7595258
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b9/7a/b97a9b4a835ed00716c542e3ba2a54237ca7afa0ed34b3c5fa046050073cc67a/preview-400.fafa5adb38b5.jpg
+        sha256: fafa5adb38b520d74f614f5356bd615cff1155b5181af78b8e872276dc78fadb
+        mime: image/jpeg
+        bytes: 70031
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

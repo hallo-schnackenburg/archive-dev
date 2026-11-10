@@ -1,0 +1,53 @@
+id: 01F7NXEZQE6N7G5B9NTD3KG9B3
+type: document
+subtype: letter
+title: Dorfteich Ansicht bei Hochwasser
+description: Dorfschule und feuerwehr, zur Ernte.
+date: "1875"
+language: de
+origin:
+  name: Marta Lüders
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/bd/c8/bdc83f420af9aae367132b38e273319cf75ee01b95cfb9547739a390eda887ce/original.tif
+    sha256: bdc83f420af9aae367132b38e273319cf75ee01b95cfb9547739a390eda887ce
+    mime: image/tiff
+    bytes: 1338951
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/c8/bdc83f420af9aae367132b38e273319cf75ee01b95cfb9547739a390eda887ce/preview-400.1b9700c6a4ea.jpg
+        sha256: 1b9700c6a4eaa7e61b4dfcce9b470b835e9b6c4c52d55a52f3ad99d3a31d6726
+        mime: image/jpeg
+        bytes: 20668
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/08/e8/08e894181887a1bf3f93ae4eeab519dc56bc02a322dfdebacdc7fdd2b6f96980/original.tif
+    sha256: 08e894181887a1bf3f93ae4eeab519dc56bc02a322dfdebacdc7fdd2b6f96980
+    mime: image/tiff
+    bytes: 23824642
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/08/e8/08e894181887a1bf3f93ae4eeab519dc56bc02a322dfdebacdc7fdd2b6f96980/preview-400.c6519983694b.jpg
+        sha256: c6519983694b34303d0bb85e56f8df4f80aa6baddf5977e4ddd080b1544e82bf
+        mime: image/jpeg
+        bytes: 27587
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

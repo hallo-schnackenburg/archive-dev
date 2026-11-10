@@ -1,0 +1,39 @@
+id: 01KAZVK95SMDJ4M7E51KPXB9EB
+type: image
+subtype: photo
+title: Friedhof Ansicht am Sonntag
+date: 1931-01-10
+location: Gartow, Bäckerei
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/a4/2d/a42d372842cf96c3cbe90ee49c3751fe6913301547db82262c11431e8e214834/original.jpg
+    sha256: a42d372842cf96c3cbe90ee49c3751fe6913301547db82262c11431e8e214834
+    mime: image/jpeg
+    bytes: 13220726
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a4/2d/a42d372842cf96c3cbe90ee49c3751fe6913301547db82262c11431e8e214834/preview-400.2e390aa3e28a.jpg
+        sha256: 2e390aa3e28af303ac7ca400c07a6b46a1f40e4b14d1fc42788dea451f77e849
+        mime: image/jpeg
+        bytes: 60787
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01GSGEHXYMYS4CAS5TT4W5M3NA
+type: image
+subtype: plan
+title: Marktplatz Umzug im Winter
+date: 1938-05-19
+location: Pretzier, Molkerei
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/d3/b5/d3b5df489a341e2f02f0a694b2192beab2d61253f0a5bba1a6d545972c11538c/original.tif
+    sha256: d3b5df489a341e2f02f0a694b2192beab2d61253f0a5bba1a6d545972c11538c
+    mime: image/tiff
+    bytes: 2722227
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d3/b5/d3b5df489a341e2f02f0a694b2192beab2d61253f0a5bba1a6d545972c11538c/preview-400.cc9018b53178.jpg
+        sha256: cc9018b531789489fc2c10c5a7b00aa770697a973bcff100d19b443286048c38
+        mime: image/jpeg
+        bytes: 65894
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

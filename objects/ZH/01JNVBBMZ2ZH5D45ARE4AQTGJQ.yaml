@@ -1,0 +1,53 @@
+id: 01JNVBBMZ2ZH5D45ARE4AQTGJQ
+type: document
+subtype: letter
+title: Fachwerkhaus Brief bei Hochwasser
+description: Elbufer und mühle, im Sommer.
+date: 2008/2012
+language: de
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/db/ed/dbed9378598f0bb231eb760711f173fce8d547dc6133bb5779555bf2f9fc8b00/original.tif
+    sha256: dbed9378598f0bb231eb760711f173fce8d547dc6133bb5779555bf2f9fc8b00
+    mime: image/tiff
+    bytes: 13205861
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/ed/dbed9378598f0bb231eb760711f173fce8d547dc6133bb5779555bf2f9fc8b00/preview-400.a5293b08dc1a.jpg
+        sha256: a5293b08dc1a6430c275f5d3ba20c084abc00496dba127c3cc618cd441673242
+        mime: image/jpeg
+        bytes: 43299
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/9d/ea/9dead76cde8d72ef18435d9b5c3eb13ad07e79bf4f28be1984422351c5731c65/original.tif
+    sha256: 9dead76cde8d72ef18435d9b5c3eb13ad07e79bf4f28be1984422351c5731c65
+    mime: image/tiff
+    bytes: 10564622
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9d/ea/9dead76cde8d72ef18435d9b5c3eb13ad07e79bf4f28be1984422351c5731c65/preview-400.ab90cc358f20.jpg
+        sha256: ab90cc358f2025380985c230fa455933660b4fd74c3e1bd75b6ee5b0e1170d04
+        mime: image/jpeg
+        bytes: 36865
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

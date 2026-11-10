@@ -1,0 +1,53 @@
+id: 01F631TZPXT6ZG5JE2R18XYDEM
+type: document
+subtype: letter
+title: Fähre Umbau am Morgen
+description: Marktplatz und mühle, vor dem Umbau.
+date: 2022-02-03
+language: de
+origin:
+  name: Karl Lemke
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/24/82/2482acfaab71f154380a9034fabc6cd77ef734d46887c218ac72e96fe0f2cb30/original.tif
+    sha256: 2482acfaab71f154380a9034fabc6cd77ef734d46887c218ac72e96fe0f2cb30
+    mime: image/tiff
+    bytes: 25634794
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/24/82/2482acfaab71f154380a9034fabc6cd77ef734d46887c218ac72e96fe0f2cb30/preview-400.22343e03d440.jpg
+        sha256: 22343e03d4406959f03dc59645a7942e81894cef09e837010eefbc5ab5cdd19a
+        mime: image/jpeg
+        bytes: 38780
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/c0/bc/c0bcc65126da02205d01c6e823684e7b9806b6c592d49061483a110d72ea442b/original.tif
+    sha256: c0bcc65126da02205d01c6e823684e7b9806b6c592d49061483a110d72ea442b
+    mime: image/tiff
+    bytes: 21278654
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c0/bc/c0bcc65126da02205d01c6e823684e7b9806b6c592d49061483a110d72ea442b/preview-400.fa4a801053de.jpg
+        sha256: fa4a801053de57e68bf818a0d8f26d4786d86ac2ef263184d53a406ef350ed7b
+        mime: image/jpeg
+        bytes: 74697
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

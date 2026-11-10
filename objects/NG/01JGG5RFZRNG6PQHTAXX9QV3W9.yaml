@@ -1,0 +1,35 @@
+id: 01JGG5RFZRNG6PQHTAXX9QV3W9
+type: image
+subtype: photo
+title: Gasthof Festtag im Winter
+date: 1856-06-03
+location: Restorf, Hafen
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/c7/ba/c7bafbd167d7023b89aa386fd41c63880ef95ddbae04a9a727de7c81ff42019a/original.jpg
+    sha256: c7bafbd167d7023b89aa386fd41c63880ef95ddbae04a9a727de7c81ff42019a
+    mime: image/jpeg
+    bytes: 20571758
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c7/ba/c7bafbd167d7023b89aa386fd41c63880ef95ddbae04a9a727de7c81ff42019a/preview-400.8c65f4bac921.jpg
+        sha256: 8c65f4bac9210493fcc7188655665979fcd7d8c21ac7ba6e389bcf5fdc7658fa
+        mime: image/jpeg
+        bytes: 61782
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

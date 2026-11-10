@@ -1,0 +1,34 @@
+id: 01FNJDHT6XSD3Z7XREKFGM7876
+type: image
+subtype: plan
+title: Ernte Aufnahme vor dem Umbau
+date: 1930-09-28
+location: Lenzen, Rathaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/93/3e/933e9a368af5b27f6099323635b9a118fbfb9127e4fffa22e1a5b960ce87ac3a/original.tif
+    sha256: 933e9a368af5b27f6099323635b9a118fbfb9127e4fffa22e1a5b960ce87ac3a
+    mime: image/tiff
+    bytes: 16347070
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/93/3e/933e9a368af5b27f6099323635b9a118fbfb9127e4fffa22e1a5b960ce87ac3a/preview-400.a9b9bbf32697.jpg
+        sha256: a9b9bbf3269777f22eb501b47b5a3581731ff83dce05653b6e85d5360f5a5c87
+        mime: image/jpeg
+        bytes: 32756
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

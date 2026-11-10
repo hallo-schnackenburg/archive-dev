@@ -1,0 +1,39 @@
+id: 01KYNSZQ43JYAMZAK0SW0AJ87T
+type: image
+subtype: photo
+title: Fachwerkhaus Brief am Sonntag
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 2018-09-15
+location: Holtorf, Zollamt
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Karl Lemke
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/e1/4e/e14ead089fdd1648f52585c56b7f7198c5a92e07c29ab7113e96aa3c3104ca01/original.jpg
+    sha256: e14ead089fdd1648f52585c56b7f7198c5a92e07c29ab7113e96aa3c3104ca01
+    mime: image/jpeg
+    bytes: 16041684
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e1/4e/e14ead089fdd1648f52585c56b7f7198c5a92e07c29ab7113e96aa3c3104ca01/preview-400.e1f4d951bd51.jpg
+        sha256: e1f4d951bd51e764edcaf50fd3b9686e2ba7037bbffd4647194add91b23e3150
+        mime: image/jpeg
+        bytes: 36037
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01H67XVXRHKFBDNNHXX13CZP9C
+type: image
+subtype: photo
+title: Brunnen Bescheid am Morgen
+date: 1861-03-13
+location: Gorleben, Schützenfest
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/49/56/49561a7afc9d22ee14dc6c80f4ff85d03cc543547b790d80e6e78335fb982591/original.jpg
+    sha256: 49561a7afc9d22ee14dc6c80f4ff85d03cc543547b790d80e6e78335fb982591
+    mime: image/jpeg
+    bytes: 13155836
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/49/56/49561a7afc9d22ee14dc6c80f4ff85d03cc543547b790d80e6e78335fb982591/preview-400.d7b0bf5289ac.jpg
+        sha256: d7b0bf5289acf529db9e124849b784b420d1777f98a0b0e9f74cd66debaf8415
+        mime: image/jpeg
+        bytes: 38224
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

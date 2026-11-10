@@ -1,0 +1,39 @@
+id: 01KT249FEMDJ26HBY7DW72HK5B
+type: image
+subtype: photo
+title: Feuerwehr Umbau am Sonntag
+description: Gemeindehaus und ernte, nach dem Krieg.
+date: 2001-01-27
+location: Lenzen, Dorfteich
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Rudolf Garms
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/2b/07/2b07fb691333f88980c9dce115b23586cfd08a6b134610e37f678fb7f5f05b57/original.jpg
+    sha256: 2b07fb691333f88980c9dce115b23586cfd08a6b134610e37f678fb7f5f05b57
+    mime: image/jpeg
+    bytes: 10176920
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2b/07/2b07fb691333f88980c9dce115b23586cfd08a6b134610e37f678fb7f5f05b57/preview-400.b35d44deeac8.jpg
+        sha256: b35d44deeac8bf671d09d4b0e5b80b47c01871a43b41637f50f246238ce817aa
+        mime: image/jpeg
+        bytes: 73342
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

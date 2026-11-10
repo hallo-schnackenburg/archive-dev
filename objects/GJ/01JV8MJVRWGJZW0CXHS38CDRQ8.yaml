@@ -1,0 +1,53 @@
+id: 01JV8MJVRWGJZW0CXHS38CDRQ8
+type: document
+subtype: letter
+title: Dorfteich Besuch zur Wende
+description: Schreibt über die Ernte und das Wetter.
+date: 2016-07-28
+language: de
+origin:
+  name: Fritz Bohlmann
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/5c/c7/5cc7d0af481911e98c7914467955c407e0c00014aeac93598a9921143f555038/original.tif
+    sha256: 5cc7d0af481911e98c7914467955c407e0c00014aeac93598a9921143f555038
+    mime: image/tiff
+    bytes: 1570635
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5c/c7/5cc7d0af481911e98c7914467955c407e0c00014aeac93598a9921143f555038/preview-400.e8707d56d1b9.jpg
+        sha256: e8707d56d1b91129ce72dad33d46acf5c661101929f251847c329c5c9624939f
+        mime: image/jpeg
+        bytes: 31771
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/92/b2/92b2f4e73afdc8d381aae5d61878e8acf48f94a746a8887d4ff34c246352fd3d/original.tif
+    sha256: 92b2f4e73afdc8d381aae5d61878e8acf48f94a746a8887d4ff34c246352fd3d
+    mime: image/tiff
+    bytes: 16920506
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/b2/92b2f4e73afdc8d381aae5d61878e8acf48f94a746a8887d4ff34c246352fd3d/preview-400.e7002506d59d.jpg
+        sha256: e7002506d59dcf4b36c324775f297c7d8848a77be759fbb1fbdd60d3e570030e
+        mime: image/jpeg
+        bytes: 63803
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01FMDHZPFQXF631839ZDY7A0CX
+type: image
+subtype: photo
+title: Dorfteich Umzug am Morgen
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: "1987"
+location: Schnackenburg, Dorfteich
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Dieter Ahrens
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/da/d6/dad6c05b27c2c27bb6eb11e33b1e67ea0033f25e312a393c06a2f4afee80a473/original.jpg
+    sha256: dad6c05b27c2c27bb6eb11e33b1e67ea0033f25e312a393c06a2f4afee80a473
+    mime: image/jpeg
+    bytes: 1861454
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/da/d6/dad6c05b27c2c27bb6eb11e33b1e67ea0033f25e312a393c06a2f4afee80a473/preview-400.3d761ddb02ad.jpg
+        sha256: 3d761ddb02ad3ef703e4f48551ed9410a38f168bc56659d2632bf460af28d8cd
+        mime: image/jpeg
+        bytes: 78633
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

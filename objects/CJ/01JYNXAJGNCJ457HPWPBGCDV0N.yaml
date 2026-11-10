@@ -1,0 +1,39 @@
+id: 01JYNXAJGNCJ457HPWPBGCDV0N
+type: image
+subtype: photo
+title: Elbufer Protokoll vor dem Umbau
+description: Rathaus und zollamt, zu Pfingsten.
+date: 1926/1932
+location: Holtorf, Rathaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Wilhelm Krüger
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/05/47/0547b0ac31fbba8a27c84cf3580c1f372633a1cbb0773469a08cc319a33749ce/original.jpg
+    sha256: 0547b0ac31fbba8a27c84cf3580c1f372633a1cbb0773469a08cc319a33749ce
+    mime: image/jpeg
+    bytes: 20621556
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/05/47/0547b0ac31fbba8a27c84cf3580c1f372633a1cbb0773469a08cc319a33749ce/preview-400.0175336db5db.jpg
+        sha256: 0175336db5db8366b810bdc28066070ab98cefc1cf2307d6cd828c1b9897cadf
+        mime: image/jpeg
+        bytes: 88916
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

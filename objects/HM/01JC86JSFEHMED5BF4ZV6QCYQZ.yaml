@@ -1,0 +1,35 @@
+id: 01JC86JSFEHMED5BF4ZV6QCYQZ
+type: image
+subtype: photo
+title: Hochwasser Bescheid nach dem Krieg
+date: 1891-12
+location: Lenzen, Zollamt
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/42/4c/424c7f0210909569981819c08520cab5a8558b37cd138cef004e054123680112/original.jpg
+    sha256: 424c7f0210909569981819c08520cab5a8558b37cd138cef004e054123680112
+    mime: image/jpeg
+    bytes: 21563744
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/42/4c/424c7f0210909569981819c08520cab5a8558b37cd138cef004e054123680112/preview-400.dd384cc19440.jpg
+        sha256: dd384cc1944015ce54b981918267274095aab754867d8fe166ea6d87886cc7af
+        mime: image/jpeg
+        bytes: 29634
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

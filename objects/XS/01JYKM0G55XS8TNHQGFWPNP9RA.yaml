@@ -1,0 +1,35 @@
+id: 01JYKM0G55XS8TNHQGFWPNP9RA
+type: image
+subtype: photo
+title: Dorfschule Bericht am Morgen
+date: "1890"
+location: Kapern, Molkerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/ba/b0/bab0d58d25ebb652cd99a311ec8d87ea6150a0574560e4980954672083b55cd2/original.jpg
+    sha256: bab0d58d25ebb652cd99a311ec8d87ea6150a0574560e4980954672083b55cd2
+    mime: image/jpeg
+    bytes: 4637194
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ba/b0/bab0d58d25ebb652cd99a311ec8d87ea6150a0574560e4980954672083b55cd2/preview-400.184c780c5723.jpg
+        sha256: 184c780c5723f68fa6e14d79670e7b92fd383513c3a9f6e26a583ee33655c2eb
+        mime: image/jpeg
+        bytes: 36288
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

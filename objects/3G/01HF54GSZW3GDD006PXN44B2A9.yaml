@@ -1,0 +1,53 @@
+id: 01HF54GSZW3GDD006PXN44B2A9
+type: document
+subtype: letter
+title: Grenzturm Prospekt am Morgen
+description: Schreibt über die Ernte und das Wetter.
+date: 1982-04-09
+language: de
+origin:
+  name: Helga Plate
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/f1/12/f1128a4b04c8a78165d80cb8968927b2bc34edf27d5421931cf987c456547540/original.tif
+    sha256: f1128a4b04c8a78165d80cb8968927b2bc34edf27d5421931cf987c456547540
+    mime: image/tiff
+    bytes: 11649198
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f1/12/f1128a4b04c8a78165d80cb8968927b2bc34edf27d5421931cf987c456547540/preview-400.b73e288a35d1.jpg
+        sha256: b73e288a35d142bd488761ac7e04b214089f7d96f787b59cab41b3e0c7e1bb1e
+        mime: image/jpeg
+        bytes: 68172
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/fe/0f/fe0f9f9bbc3b50d6c64cf33d2c9fde75c0fd700ca97df0acbf69d174c5c7c22d/original.tif
+    sha256: fe0f9f9bbc3b50d6c64cf33d2c9fde75c0fd700ca97df0acbf69d174c5c7c22d
+    mime: image/tiff
+    bytes: 18735260
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fe/0f/fe0f9f9bbc3b50d6c64cf33d2c9fde75c0fd700ca97df0acbf69d174c5c7c22d/preview-400.3ac29ed36943.jpg
+        sha256: 3ac29ed369431a534a9422e75bb81cc3ba06feb7d95fe5ff41a67a35b38b9d41
+        mime: image/jpeg
+        bytes: 39783
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

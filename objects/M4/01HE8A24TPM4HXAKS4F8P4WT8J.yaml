@@ -1,0 +1,34 @@
+id: 01HE8A24TPM4HXAKS4F8P4WT8J
+type: image
+subtype: plan
+title: Ernte Umbau am Morgen
+date: 1967-02-26
+location: Holtorf, Storchennest
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/d2/c6/d2c6db0669a680cf18a059cf67cfc3339f7cf964a0e00eac30745275aed0a43d/original.tif
+    sha256: d2c6db0669a680cf18a059cf67cfc3339f7cf964a0e00eac30745275aed0a43d
+    mime: image/tiff
+    bytes: 3442811
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d2/c6/d2c6db0669a680cf18a059cf67cfc3339f7cf964a0e00eac30745275aed0a43d/preview-400.f017018f6247.jpg
+        sha256: f017018f62478569e9d78cf75f5e015d0a67fe89eebc68c1a9a098122b9a8154
+        mime: image/jpeg
+        bytes: 47918
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

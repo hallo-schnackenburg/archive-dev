@@ -1,0 +1,53 @@
+id: 01G3XMPAJ4JH87NGG29VH18XM4
+type: document
+subtype: letter
+title: Brücke Prospekt am Sonntag
+description: Schreibt über die Ernte und das Wetter.
+date: 1851-09-03
+language: de
+origin:
+  name: Walter Kuhlmann
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/eb/34/eb342571688279ce134655103c5a4121f07f15c4ba9ea1b73730b8db018363a8/original.tif
+    sha256: eb342571688279ce134655103c5a4121f07f15c4ba9ea1b73730b8db018363a8
+    mime: image/tiff
+    bytes: 2734917
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/eb/34/eb342571688279ce134655103c5a4121f07f15c4ba9ea1b73730b8db018363a8/preview-400.cc5aca3ea70a.jpg
+        sha256: cc5aca3ea70a2e7743e920359926b019703ad0c70a85b14e81b4b47b419c7802
+        mime: image/jpeg
+        bytes: 38116
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/91/21/912166b630e0db75c8e2c5b0c3bef0930c2c5ff0256bd25f2b1a720ebc9210ef/original.tif
+    sha256: 912166b630e0db75c8e2c5b0c3bef0930c2c5ff0256bd25f2b1a720ebc9210ef
+    mime: image/tiff
+    bytes: 27413819
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/91/21/912166b630e0db75c8e2c5b0c3bef0930c2c5ff0256bd25f2b1a720ebc9210ef/preview-400.5e81e98d0255.jpg
+        sha256: 5e81e98d0255d40813fcfafc703338c57ee3b5dbcda03dc529418fdf78ed7b76
+        mime: image/jpeg
+        bytes: 85998
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

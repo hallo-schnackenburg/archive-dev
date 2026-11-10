@@ -1,0 +1,39 @@
+id: 01KX7AS7QKTVGV154QP8F0V4QK
+type: image
+subtype: photo
+title: Bäckerei Abriss zur Wende
+date: "1986"
+location: Lüchow, Friedhof
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/e4/4b/e44bd105b42eae4735df9e60b0afedb903c46cc562e17b272eb612c02de06cb8/original.jpg
+    sha256: e44bd105b42eae4735df9e60b0afedb903c46cc562e17b272eb612c02de06cb8
+    mime: image/jpeg
+    bytes: 19567224
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e4/4b/e44bd105b42eae4735df9e60b0afedb903c46cc562e17b272eb612c02de06cb8/preview-400.a4537065d98e.jpg
+        sha256: a4537065d98e0ade07a45db0a6905161bc4a5e53c206f96dcc544d9e20b894bb
+        mime: image/jpeg
+        bytes: 88348
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01H3VB49SWE27H73P1EFPGHM5H
+type: image
+subtype: photo
+title: Gasthof Rechnung am Sonntag
+date: 1871-04-20
+location: Gartow, Brücke
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Dieter Ahrens
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/9f/80/9f80483a00d082ddf751a663b4223f5aa8149f51bad43ae03a50333f83f1b494/original.jpg
+    sha256: 9f80483a00d082ddf751a663b4223f5aa8149f51bad43ae03a50333f83f1b494
+    mime: image/jpeg
+    bytes: 4468255
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/9f/80/9f80483a00d082ddf751a663b4223f5aa8149f51bad43ae03a50333f83f1b494/preview-400.82cf05d79ee0.jpg
+        sha256: 82cf05d79ee000ebf79aba12164e50507ac28b1e864c9e357d822251ae4e2fbc
+        mime: image/jpeg
+        bytes: 57763
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

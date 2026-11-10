@@ -1,0 +1,39 @@
+id: 01K88Z37CVBNMKVYTKHB40032K
+type: image
+subtype: photo
+title: Fachwerkhaus Besuch nach dem Krieg
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1864/1865
+location: Seedorf, Fachwerkhaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Anni Jeß
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/fa/8b/fa8b8d515f751dbede7a3054ea39c07c271aba3fec39e2e0745f03b5c58b5d99/original.jpg
+    sha256: fa8b8d515f751dbede7a3054ea39c07c271aba3fec39e2e0745f03b5c58b5d99
+    mime: image/jpeg
+    bytes: 26525883
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fa/8b/fa8b8d515f751dbede7a3054ea39c07c271aba3fec39e2e0745f03b5c58b5d99/preview-400.525458da90cc.jpg
+        sha256: 525458da90cc8d3801debbfe9a94ccffe7506bce718d9485c476a5dea0d99f90
+        mime: image/jpeg
+        bytes: 75195
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

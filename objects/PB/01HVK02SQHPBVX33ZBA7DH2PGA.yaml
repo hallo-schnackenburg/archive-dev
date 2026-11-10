@@ -1,0 +1,35 @@
+id: 01HVK02SQHPBVX33ZBA7DH2PGA
+type: image
+subtype: photo
+title: Marktplatz Bescheid am Sonntag
+date: 1928-11-25
+location: Restorf, Bahnhof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/c6/e4/c6e4f641d00a9ceb14b67a6e1b41eb8a0ef0bd7b52d54b5134faefbea00aaafd/original.jpg
+    sha256: c6e4f641d00a9ceb14b67a6e1b41eb8a0ef0bd7b52d54b5134faefbea00aaafd
+    mime: image/jpeg
+    bytes: 3785590
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c6/e4/c6e4f641d00a9ceb14b67a6e1b41eb8a0ef0bd7b52d54b5134faefbea00aaafd/preview-400.cd192fae50c0.jpg
+        sha256: cd192fae50c04c62dda414db733c2ec11b2b9eded3a5c83452713ffcfded8239
+        mime: image/jpeg
+        bytes: 45905
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

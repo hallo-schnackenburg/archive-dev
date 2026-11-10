@@ -1,0 +1,39 @@
+id: 01GTYPHCT0DTGHZXJZM9TMH7HJ
+type: image
+subtype: photo
+title: Hochwasser Prospekt im Winter
+description: Dorfschule und molkerei, vor dem Umbau.
+date: 2014-06-02
+location: Gorleben, Schützenfest
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Helga Plate
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/5c/31/5c311371c69036f6c2af2ab2b72a11285b62ab63644adf364992ff44468080fc/original.jpg
+    sha256: 5c311371c69036f6c2af2ab2b72a11285b62ab63644adf364992ff44468080fc
+    mime: image/jpeg
+    bytes: 19082108
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/5c/31/5c311371c69036f6c2af2ab2b72a11285b62ab63644adf364992ff44468080fc/preview-400.c9ec199f7728.jpg
+        sha256: c9ec199f7728fbe29c61a4225ab446660cb21610bb90bfe3ba7ac58e92ad37ba
+        mime: image/jpeg
+        bytes: 76178
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,51 @@
+id: 01FWP1K7G6ZC7622BDEKFRQYNJ
+type: document
+subtype: brochure
+title: Schützenfest Zeichnung im Sommer
+date: 1923-09
+language: de
+origin:
+  name: Anni Jeß
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/37/9c/379cb67af93af7ca770ae44ad19aee02683079a487aa6ff5a78c42e72cff0766/original.tif
+    sha256: 379cb67af93af7ca770ae44ad19aee02683079a487aa6ff5a78c42e72cff0766
+    mime: image/tiff
+    bytes: 3177810
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/37/9c/379cb67af93af7ca770ae44ad19aee02683079a487aa6ff5a78c42e72cff0766/preview-400.92e8e62b440b.jpg
+        sha256: 92e8e62b440b800ed43872ee0ee8b2e8b91f3b8116e832f092f77b01df50b494
+        mime: image/jpeg
+        bytes: 33795
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/de/18/de1887ec5eae6888108abbb208f3a151dd9220a5a8f26ea56c54815c10510673/original.tif
+    sha256: de1887ec5eae6888108abbb208f3a151dd9220a5a8f26ea56c54815c10510673
+    mime: image/tiff
+    bytes: 12142386
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/18/de1887ec5eae6888108abbb208f3a151dd9220a5a8f26ea56c54815c10510673/preview-400.09f687af485e.jpg
+        sha256: 09f687af485ec095b989ebdec4c469670d5628fdfe435402d5214583774a2abb
+        mime: image/jpeg
+        bytes: 80734
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

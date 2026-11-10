@@ -1,0 +1,53 @@
+id: 01FSF2W9B0FJZZ6FE4VWGYJ745
+type: document
+subtype: letter
+title: Kindergarten Umzug zur Ernte
+description: Schreibt über die Ernte und das Wetter.
+date: 2020-11-10
+language: de
+origin:
+  name: Karl Lemke
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/b4/7f/b47f2462adae893f6f2f861f64e1bdaa94d6df701e410fee829674069b572e02/original.tif
+    sha256: b47f2462adae893f6f2f861f64e1bdaa94d6df701e410fee829674069b572e02
+    mime: image/tiff
+    bytes: 19455848
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/7f/b47f2462adae893f6f2f861f64e1bdaa94d6df701e410fee829674069b572e02/preview-400.8ae5f51252ab.jpg
+        sha256: 8ae5f51252ab1787b838768ea2899f72ff1a4682054e1e1a8a9786a96ed6444c
+        mime: image/jpeg
+        bytes: 36565
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/29/bd/29bdb366f3004e3f31cfd02f8d0e045f22af5ea5131ed9717929069784e01578/original.tif
+    sha256: 29bdb366f3004e3f31cfd02f8d0e045f22af5ea5131ed9717929069784e01578
+    mime: image/tiff
+    bytes: 27014096
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/29/bd/29bdb366f3004e3f31cfd02f8d0e045f22af5ea5131ed9717929069784e01578/preview-400.733c209b5c65.jpg
+        sha256: 733c209b5c655217dd9753dd87cd48e8fd9b23fba04cf59d37d6e1c32d3d0ee5
+        mime: image/jpeg
+        bytes: 25094
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

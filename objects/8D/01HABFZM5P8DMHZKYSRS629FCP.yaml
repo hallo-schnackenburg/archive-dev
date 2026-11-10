@@ -1,0 +1,35 @@
+id: 01HABFZM5P8DMHZKYSRS629FCP
+type: image
+subtype: photo
+title: Hafen Einladung vor dem Umbau
+date: 1978-11
+location: Holtorf, Bahnhof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/60/c3/60c37906610f9f451bcf6a78b43509fb5eab94d54d148dab7478e0a86254b7b6/original.jpg
+    sha256: 60c37906610f9f451bcf6a78b43509fb5eab94d54d148dab7478e0a86254b7b6
+    mime: image/jpeg
+    bytes: 26153958
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/60/c3/60c37906610f9f451bcf6a78b43509fb5eab94d54d148dab7478e0a86254b7b6/preview-400.9b1872d0113a.jpg
+        sha256: 9b1872d0113ace4c9337c1435d873a6766d6ab7c7a179e9caf2d524e658faeed
+        mime: image/jpeg
+        bytes: 49167
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

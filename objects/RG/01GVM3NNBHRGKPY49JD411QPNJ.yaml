@@ -1,0 +1,34 @@
+id: 01GVM3NNBHRGKPY49JD411QPNJ
+type: image
+subtype: plan
+title: Marktplatz Bescheid zur Ernte
+date: 1974-10
+location: Holtorf, Fachwerkhaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/ab/a5/aba5e236643e6024344c8a31bf7af2421db3b8ed963825dd4afdb2d73b1084e6/original.tif
+    sha256: aba5e236643e6024344c8a31bf7af2421db3b8ed963825dd4afdb2d73b1084e6
+    mime: image/tiff
+    bytes: 5041906
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ab/a5/aba5e236643e6024344c8a31bf7af2421db3b8ed963825dd4afdb2d73b1084e6/preview-400.bd1c2302403e.jpg
+        sha256: bd1c2302403e15ef35b219391f6b2e9182d5b9fe7d21ecb5e483760039a4d853
+        mime: image/jpeg
+        bytes: 81571
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

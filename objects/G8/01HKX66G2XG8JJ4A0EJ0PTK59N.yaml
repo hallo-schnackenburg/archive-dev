@@ -1,0 +1,53 @@
+id: 01HKX66G2XG8JJ4A0EJ0PTK59N
+type: document
+subtype: letter
+title: Bahnhof Bericht zur Ernte
+description: Brücke und ernte, am Sonntag.
+date: 1866-12-01
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/c7/29/c729de4dbe7bc8629a19dc0e7844cfb72346e71e53a1aae1abfee7da1a88292b/original.tif
+    sha256: c729de4dbe7bc8629a19dc0e7844cfb72346e71e53a1aae1abfee7da1a88292b
+    mime: image/tiff
+    bytes: 25366815
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c7/29/c729de4dbe7bc8629a19dc0e7844cfb72346e71e53a1aae1abfee7da1a88292b/preview-400.1774bcae5de7.jpg
+        sha256: 1774bcae5de7a8eb6261445e993cbbb17e3e382e75806bad4667e41df994f269
+        mime: image/jpeg
+        bytes: 26502
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/e7/b5/e7b525c6de1cc5ba25c9d67a44484cca6b7089a01a008696effd4bf5e506a948/original.tif
+    sha256: e7b525c6de1cc5ba25c9d67a44484cca6b7089a01a008696effd4bf5e506a948
+    mime: image/tiff
+    bytes: 6926025
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e7/b5/e7b525c6de1cc5ba25c9d67a44484cca6b7089a01a008696effd4bf5e506a948/preview-400.98ae786269d4.jpg
+        sha256: 98ae786269d4d07447cfd85971bd7df5170086165f57721bf68469867b6dff84
+        mime: image/jpeg
+        bytes: 72201
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

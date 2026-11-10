@@ -1,0 +1,51 @@
+id: 01HZBS7AZHRN9CAT8XQYCCW8NM
+type: document
+subtype: brochure
+title: Dorfteich Aufnahme am Morgen
+date: 1890-11
+language: de
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/e8/cc/e8ccf89df40da2fe160e40898ea9ed567bf11d77e070e46364405123238ed11a/original.tif
+    sha256: e8ccf89df40da2fe160e40898ea9ed567bf11d77e070e46364405123238ed11a
+    mime: image/tiff
+    bytes: 22635874
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/cc/e8ccf89df40da2fe160e40898ea9ed567bf11d77e070e46364405123238ed11a/preview-400.7f7afe0f20d9.jpg
+        sha256: 7f7afe0f20d9ec112719c3c88fd6d5735f16d6c93cd791f0afb5176727dd138d
+        mime: image/jpeg
+        bytes: 67166
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/92/d1/92d15ff7416675481de774bf73794eed6497b72e7f88663dc8a1edda3a72c9bd/original.tif
+    sha256: 92d15ff7416675481de774bf73794eed6497b72e7f88663dc8a1edda3a72c9bd
+    mime: image/tiff
+    bytes: 16370737
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/d1/92d15ff7416675481de774bf73794eed6497b72e7f88663dc8a1edda3a72c9bd/preview-400.e02e620c5a8c.jpg
+        sha256: e02e620c5a8cb8b863264aed1276843acb79ff4b73da861505bdc816dc73f035
+        mime: image/jpeg
+        bytes: 45290
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01HKVNPZ83D5TB4AWNT0RAAF9S
+type: image
+subtype: photo
+title: Zollamt Zeichnung vor dem Umbau
+date: "1921"
+location: Restorf, Bahnhof
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/08/fa/08fa6df31778ad239b2d7209c352f149045280c5d07c70ce25daf77b2aa0592f/original.jpg
+    sha256: 08fa6df31778ad239b2d7209c352f149045280c5d07c70ce25daf77b2aa0592f
+    mime: image/jpeg
+    bytes: 8279383
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/08/fa/08fa6df31778ad239b2d7209c352f149045280c5d07c70ce25daf77b2aa0592f/preview-400.86bd478c5c83.jpg
+        sha256: 86bd478c5c83f21f4d57aaa309b7e05c2d84ff2898be396134682d0d197f7585
+        mime: image/jpeg
+        bytes: 61188
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

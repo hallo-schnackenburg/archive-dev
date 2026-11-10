@@ -1,0 +1,33 @@
+id: 01GDPR7QAXBE8E4C88H9VPGRYP
+type: document
+subtype: letter
+title: Bäckerei Protokoll am Sonntag
+date: 1887-09
+language: de
+location: Restorf, Fachwerkhaus
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+recipient: Gemeinde Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: landrat_faehre_001.tif
+    path: files/68/09/680992e794506a03308120c890f7bee3dbccf993d4725d5721bafda152cf8bf4/original.tif
+    sha256: 680992e794506a03308120c890f7bee3dbccf993d4725d5721bafda152cf8bf4
+    mime: image/tiff
+    bytes: 11087834
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/68/09/680992e794506a03308120c890f7bee3dbccf993d4725d5721bafda152cf8bf4/preview-400.33ac7020bb19.jpg
+        sha256: 33ac7020bb19582b6343fc686bed26993a3ed5e33b73b83ee0a898b7ef7921f2
+        mime: image/jpeg
+        bytes: 63857
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

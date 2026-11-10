@@ -1,0 +1,53 @@
+id: 01G7N0C1JS00XYXF91YWTH0MQK
+type: document
+subtype: letter
+title: Dorfschule Besuch am Morgen
+description: Schreibt über die Ernte und das Wetter.
+date: 2012-11-28
+language: de
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/61/41/614103ab806e32a0ac0bb2db4da8b7e044dac5090b004611929c258a56c8a3bc/original.tif
+    sha256: 614103ab806e32a0ac0bb2db4da8b7e044dac5090b004611929c258a56c8a3bc
+    mime: image/tiff
+    bytes: 4633355
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/61/41/614103ab806e32a0ac0bb2db4da8b7e044dac5090b004611929c258a56c8a3bc/preview-400.002f497137f6.jpg
+        sha256: 002f497137f6e48f3a11a35eb94cf22bd508b32df3c86b75b49127a3d33c1caf
+        mime: image/jpeg
+        bytes: 58354
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/31/bf/31bfbf5c267d8a73499e1f622556e5d6e82c9f2bf6412d6e1462c04a11a892c4/original.tif
+    sha256: 31bfbf5c267d8a73499e1f622556e5d6e82c9f2bf6412d6e1462c04a11a892c4
+    mime: image/tiff
+    bytes: 20355550
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/31/bf/31bfbf5c267d8a73499e1f622556e5d6e82c9f2bf6412d6e1462c04a11a892c4/preview-400.3466127481f8.jpg
+        sha256: 3466127481f8b999ca58270a78c435d19528554d3df8e0a0d351f52e13ac29d4
+        mime: image/jpeg
+        bytes: 46112
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

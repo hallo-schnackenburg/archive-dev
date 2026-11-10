@@ -1,0 +1,34 @@
+id: 01HNGSHRY7SWRN95DE5606KV6M
+type: image
+subtype: plan
+title: Friedhof Protokoll im Winter
+date: 1994-01
+location: Gorleben, Fachwerkhaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/e1/63/e1630fbf3f80f8ec0b4bd195794c1e98ee6cf6f0d3da2eecdfb250e66ca02eb1/original.tif
+    sha256: e1630fbf3f80f8ec0b4bd195794c1e98ee6cf6f0d3da2eecdfb250e66ca02eb1
+    mime: image/tiff
+    bytes: 24586346
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e1/63/e1630fbf3f80f8ec0b4bd195794c1e98ee6cf6f0d3da2eecdfb250e66ca02eb1/preview-400.ba5ace0db913.jpg
+        sha256: ba5ace0db9132e2deeea883ad20dd157c2d1f7391dc782b2f20d0b5037cef929
+        mime: image/jpeg
+        bytes: 76667
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

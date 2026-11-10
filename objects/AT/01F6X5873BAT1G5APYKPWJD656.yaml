@@ -1,0 +1,34 @@
+id: 01F6X5873BAT1G5APYKPWJD656
+type: image
+subtype: plan
+title: Kirche St. Johannis Aufnahme am Sonntag
+date: 1890-10-16
+location: Pretzier, Bäckerei
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/27/cd/27cd5b90620977872fdc2c8a4c43420d2c974c31e3521a224f205b845082ef70/original.tif
+    sha256: 27cd5b90620977872fdc2c8a4c43420d2c974c31e3521a224f205b845082ef70
+    mime: image/tiff
+    bytes: 5063367
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/27/cd/27cd5b90620977872fdc2c8a4c43420d2c974c31e3521a224f205b845082ef70/preview-400.30e7f756a58e.jpg
+        sha256: 30e7f756a58e96d7d94028b95b0f83ba9edd7d5488232098687d2bc48698f3c1
+        mime: image/jpeg
+        bytes: 52192
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

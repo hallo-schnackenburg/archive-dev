@@ -1,0 +1,47 @@
+id: 01K8NE6MY5B05CWXHVBQWZ93T8
+type: image
+subtype: photo
+title: Dorfschule Jubiläum am Sonntag
+description: Kirche St. Johannis und friedhof, am Sonntag.
+date: "1889"
+location: Schnackenburg, Friedhof
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Fritz Bohlmann
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/9c/85/9c85d4aa364b570389a0a622f7e59583f0bcb32a09d1c5630ffb13c0bb3897a5/original.jpg
+    sha256: 9c85d4aa364b570389a0a622f7e59583f0bcb32a09d1c5630ffb13c0bb3897a5
+    mime: image/jpeg
+    bytes: 12419641
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/9c/85/9c85d4aa364b570389a0a622f7e59583f0bcb32a09d1c5630ffb13c0bb3897a5/preview-400.12762784ce7c.jpg
+        sha256: 12762784ce7c372e0bf0bda15f512e607f533ed604d5404b1714089eb0216e64
+        mime: image/jpeg
+        bytes: 53940
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

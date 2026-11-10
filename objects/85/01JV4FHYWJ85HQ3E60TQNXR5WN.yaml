@@ -1,0 +1,39 @@
+id: 01JV4FHYWJ85HQ3E60TQNXR5WN
+type: image
+subtype: photo
+title: Schmiede Brief im Winter
+description: Grenzturm und elbdeich, vor dem Umbau.
+date: 1914-09
+location: Kapern, Kindergarten
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/66/03/6603edde791da2d3609bbd4e01b93ce439377f701095899296d7d34ce1fb83f3/original.jpg
+    sha256: 6603edde791da2d3609bbd4e01b93ce439377f701095899296d7d34ce1fb83f3
+    mime: image/jpeg
+    bytes: 10366146
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/66/03/6603edde791da2d3609bbd4e01b93ce439377f701095899296d7d34ce1fb83f3/preview-400.ba35faac8031.jpg
+        sha256: ba35faac803141511eeefe6ea6820ef23a8ef781436c0f15fa0123142024b19a
+        mime: image/jpeg
+        bytes: 60714
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

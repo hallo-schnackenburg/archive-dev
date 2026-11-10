@@ -1,0 +1,39 @@
+id: 01FND1QE4DZ5QHBW461MZQJRS7
+type: image
+subtype: photo
+title: Mühle Ansicht nach dem Krieg
+date: 1866-12-06
+location: Pretzier, Ernte
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/09/bb/09bb3cc9a00389ab0791971efc96bebd24d8c2cf7a5b11511144eecd783dbdfd/original.jpg
+    sha256: 09bb3cc9a00389ab0791971efc96bebd24d8c2cf7a5b11511144eecd783dbdfd
+    mime: image/jpeg
+    bytes: 27703245
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/09/bb/09bb3cc9a00389ab0791971efc96bebd24d8c2cf7a5b11511144eecd783dbdfd/preview-400.ec92efe52d8b.jpg
+        sha256: ec92efe52d8b017a0917e30a1c3960c462816d3f2f24071ebf20cde88a1ad62e
+        mime: image/jpeg
+        bytes: 81385
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

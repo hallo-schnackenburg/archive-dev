@@ -1,0 +1,51 @@
+id: 01KTWR122QZK7K4VCNZMZ1MWWG
+type: document
+subtype: brochure
+title: Dorfteich Aufnahme am Sonntag
+date: 2013-07-15
+language: de
+origin:
+  name: Erika Voss
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/6c/0a/6c0ac4fad913f76255d825a1a3c182e0d9a8fc407362c4b23b590a7a122373bf/original.tif
+    sha256: 6c0ac4fad913f76255d825a1a3c182e0d9a8fc407362c4b23b590a7a122373bf
+    mime: image/tiff
+    bytes: 4026531
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6c/0a/6c0ac4fad913f76255d825a1a3c182e0d9a8fc407362c4b23b590a7a122373bf/preview-400.517f93f961b2.jpg
+        sha256: 517f93f961b25713a4abee8e57ffab8bd65c38ebf54f6aac3b2b15ba77d71c3d
+        mime: image/jpeg
+        bytes: 78071
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/2b/40/2b40962f788dd940f0bc4cebc202e7438865392a32b85dc7d3829647bc556c59/original.tif
+    sha256: 2b40962f788dd940f0bc4cebc202e7438865392a32b85dc7d3829647bc556c59
+    mime: image/tiff
+    bytes: 11723244
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2b/40/2b40962f788dd940f0bc4cebc202e7438865392a32b85dc7d3829647bc556c59/preview-400.9057795d6f11.jpg
+        sha256: 9057795d6f11780ec6f62014c0bac789e63b1d26f993b3b96439ac13b3ad3f84
+        mime: image/jpeg
+        bytes: 33733
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

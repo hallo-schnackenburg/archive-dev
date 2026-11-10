@@ -1,0 +1,33 @@
+id: 01FVSDQ10EBQ90SG4QH4TFCGYP
+type: document
+subtype: letter
+title: Mühle Rechnung im Sommer
+date: 2004-09
+language: de
+location: Gorleben, Brücke
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+recipient: Gemeinde Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: landrat_faehre_001.tif
+    path: files/db/a5/dba5720fc251376bb3798aeed6dc165fa77078acd27533a47535c28ba79252cb/original.tif
+    sha256: dba5720fc251376bb3798aeed6dc165fa77078acd27533a47535c28ba79252cb
+    mime: image/tiff
+    bytes: 9489071
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/a5/dba5720fc251376bb3798aeed6dc165fa77078acd27533a47535c28ba79252cb/preview-400.0da02deab0c1.jpg
+        sha256: 0da02deab0c1c1ff1c0f3a189c3ec423683e341b6b977f04decfa211f1d3f0c1
+        mime: image/jpeg
+        bytes: 28090
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

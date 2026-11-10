@@ -1,0 +1,39 @@
+id: 01HMMZ6DG6K6EEZWRF8J7Q6YZG
+type: image
+subtype: photo
+title: Friedhof Zeichnung am Sonntag
+description: Hafen und molkerei, zur Wende.
+date: 1916-01-07
+location: Gorleben, Rathaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Hans Brandt
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/c4/0b/c40b1093ffeaf89287df186df1bb14c00e75cce415c6b76869e379f4ef06bb54/original.jpg
+    sha256: c40b1093ffeaf89287df186df1bb14c00e75cce415c6b76869e379f4ef06bb54
+    mime: image/jpeg
+    bytes: 3212716
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c4/0b/c40b1093ffeaf89287df186df1bb14c00e75cce415c6b76869e379f4ef06bb54/preview-400.18b1c982b861.jpg
+        sha256: 18b1c982b861fa2a903e4992edc4af0ba9188092720b8ab184f97c7e65d265e3
+        mime: image/jpeg
+        bytes: 69040
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

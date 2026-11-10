@@ -1,0 +1,37 @@
+id: 01FCDMHMWF4JV8VJ8V1P8S5ZPY
+type: image
+subtype: print
+title: Bahnhof Einweihung im Winter
+date: 1867-07
+location: Kapern, Ernte
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/2d/4a/2d4a45bb23c686b9e5f5326bf70446783268f8aa8093da0ec53cd8d81f487da5/original.tif
+    sha256: 2d4a45bb23c686b9e5f5326bf70446783268f8aa8093da0ec53cd8d81f487da5
+    mime: image/tiff
+    bytes: 17384830
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/4a/2d4a45bb23c686b9e5f5326bf70446783268f8aa8093da0ec53cd8d81f487da5/preview-400.830b270a243a.jpg
+        sha256: 830b270a243a5696a5d68335ff8f7cc20b1848ad52aca6d4f413a9e833a2d9a1
+        mime: image/jpeg
+        bytes: 46641
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

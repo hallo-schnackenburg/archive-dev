@@ -1,0 +1,35 @@
+id: 01F7K3G6J04M1N08057M331F0G
+type: image
+subtype: photo
+title: Dorfteich Aufnahme zur Ernte
+date: 2013/2015
+location: Lenzen, Gasthof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/55/20/552027398695c125069275774869d08925429f54beea41ba247723e6adb25ba8/original.jpg
+    sha256: 552027398695c125069275774869d08925429f54beea41ba247723e6adb25ba8
+    mime: image/jpeg
+    bytes: 9586236
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/55/20/552027398695c125069275774869d08925429f54beea41ba247723e6adb25ba8/preview-400.7664b1dedf60.jpg
+        sha256: 7664b1dedf6098bad66209dde620bac036f58c396c3bb23391c19f9219383929
+        mime: image/jpeg
+        bytes: 82636
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

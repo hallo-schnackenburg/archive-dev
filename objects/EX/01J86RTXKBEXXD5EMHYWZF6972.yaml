@@ -1,0 +1,51 @@
+id: 01J86RTXKBEXXD5EMHYWZF6972
+type: document
+subtype: brochure
+title: Kindergarten Einladung am Morgen
+date: 1900-12-01
+language: de
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/0f/fe/0ffe65ba1473c2308703ef2ffb5224517baf08c3b482ef939019d81e41be3e62/original.tif
+    sha256: 0ffe65ba1473c2308703ef2ffb5224517baf08c3b482ef939019d81e41be3e62
+    mime: image/tiff
+    bytes: 18587057
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0f/fe/0ffe65ba1473c2308703ef2ffb5224517baf08c3b482ef939019d81e41be3e62/preview-400.67c8b239d1c4.jpg
+        sha256: 67c8b239d1c457e9b9391aefb1c3df42b53aaeb0d38512e326148006f0e7f75b
+        mime: image/jpeg
+        bytes: 63105
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/fc/ff/fcffb8cbf6f1196fde21cfa18fc7f300ed1c0ac2fa489790f337c3932ccffbaa/original.tif
+    sha256: fcffb8cbf6f1196fde21cfa18fc7f300ed1c0ac2fa489790f337c3932ccffbaa
+    mime: image/tiff
+    bytes: 10498531
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/ff/fcffb8cbf6f1196fde21cfa18fc7f300ed1c0ac2fa489790f337c3932ccffbaa/preview-400.d95bcbbb6012.jpg
+        sha256: d95bcbbb6012faa40fe2620960ef42148a234e0125db81bcb024eb7e7276d9d5
+        mime: image/jpeg
+        bytes: 72457
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

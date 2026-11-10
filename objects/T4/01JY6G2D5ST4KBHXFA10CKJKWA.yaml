@@ -1,0 +1,39 @@
+id: 01JY6G2D5ST4KBHXFA10CKJKWA
+type: image
+subtype: photo
+title: Kirche St. Johannis Aufnahme nach dem Krieg
+date: "1932"
+location: Lenzen, Hafen
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/b4/ea/b4eaf570df2550860d37ecca94113f0a1315a542c09c4829053d91030231785b/original.jpg
+    sha256: b4eaf570df2550860d37ecca94113f0a1315a542c09c4829053d91030231785b
+    mime: image/jpeg
+    bytes: 6349761
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b4/ea/b4eaf570df2550860d37ecca94113f0a1315a542c09c4829053d91030231785b/preview-400.f9a02d34601b.jpg
+        sha256: f9a02d34601b0aef26d14ae8091a9e12af05590f801052ddd5e660ef9e3eb53f
+        mime: image/jpeg
+        bytes: 45367
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

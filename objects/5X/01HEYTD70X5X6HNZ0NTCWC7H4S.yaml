@@ -1,0 +1,53 @@
+id: 01HEYTD70X5X6HNZ0NTCWC7H4S
+type: document
+subtype: letter
+title: Hafen Ansicht im Winter
+description: Schreibt über die Ernte und das Wetter.
+date: 2016-07-09
+language: de
+origin:
+  name: Hans Brandt
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/5c/91/5c9126ad5f3021e963ac5ddbbb3e4ebe1f9b9887726e86b96ee33fb69a976b4b/original.tif
+    sha256: 5c9126ad5f3021e963ac5ddbbb3e4ebe1f9b9887726e86b96ee33fb69a976b4b
+    mime: image/tiff
+    bytes: 23792144
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5c/91/5c9126ad5f3021e963ac5ddbbb3e4ebe1f9b9887726e86b96ee33fb69a976b4b/preview-400.f7c0533db2a6.jpg
+        sha256: f7c0533db2a68c8dde890b6423b9bbcc23a956c2ef6492bb047101bc57179f2d
+        mime: image/jpeg
+        bytes: 42188
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/ce/d1/ced16bc4d134a4d86855ef642f9bc40cd27e67491353417c761f386271e1976a/original.tif
+    sha256: ced16bc4d134a4d86855ef642f9bc40cd27e67491353417c761f386271e1976a
+    mime: image/tiff
+    bytes: 21288715
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ce/d1/ced16bc4d134a4d86855ef642f9bc40cd27e67491353417c761f386271e1976a/preview-400.10cc3d42c080.jpg
+        sha256: 10cc3d42c08034c5ffbfb224fabb9496cbef72732cc83a957d3a1099ba6f715a
+        mime: image/jpeg
+        bytes: 43794
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

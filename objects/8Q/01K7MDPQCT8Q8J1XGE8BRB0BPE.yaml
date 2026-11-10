@@ -1,0 +1,53 @@
+id: 01K7MDPQCT8Q8J1XGE8BRB0BPE
+type: document
+subtype: letter
+title: Kindergarten Rechnung bei Hochwasser
+description: Schreibt über die Ernte und das Wetter.
+date: 1887/1889
+language: de
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/ae/7b/ae7ba4291c4cd4185f47fd2944801f6454e760200259abd55d0cf6c3c6b765f7/original.tif
+    sha256: ae7ba4291c4cd4185f47fd2944801f6454e760200259abd55d0cf6c3c6b765f7
+    mime: image/tiff
+    bytes: 19094694
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ae/7b/ae7ba4291c4cd4185f47fd2944801f6454e760200259abd55d0cf6c3c6b765f7/preview-400.a3ce3df60250.jpg
+        sha256: a3ce3df60250166dcd13d03b93f512f6924000643ad61e5cd52d2eef217ce594
+        mime: image/jpeg
+        bytes: 26121
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/a6/ee/a6eed9205c4ad784556f936cf6ff900fa86c60fbdff220aa1a7c35ad90e80620/original.tif
+    sha256: a6eed9205c4ad784556f936cf6ff900fa86c60fbdff220aa1a7c35ad90e80620
+    mime: image/tiff
+    bytes: 7056361
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a6/ee/a6eed9205c4ad784556f936cf6ff900fa86c60fbdff220aa1a7c35ad90e80620/preview-400.0e87875bc565.jpg
+        sha256: 0e87875bc565441be584fd8f9fd3cfad0bae6431f8465169a90c5fd3b9024ba4
+        mime: image/jpeg
+        bytes: 74568
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01GJZ53SHXR37MBMHSW38RW3PQ
+type: image
+subtype: photo
+title: Mühle Bescheid am Morgen
+date: 1896~
+location: Kapern, Friedhof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/c8/3d/c83d01027ef1100938c8ddab58c46149e2b38636513ef4291d3f26c6570da462/original.jpg
+    sha256: c83d01027ef1100938c8ddab58c46149e2b38636513ef4291d3f26c6570da462
+    mime: image/jpeg
+    bytes: 24697478
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c8/3d/c83d01027ef1100938c8ddab58c46149e2b38636513ef4291d3f26c6570da462/preview-400.68f1139b8b6a.jpg
+        sha256: 68f1139b8b6afff23883d8912668f16d42aead847285a1d7f54bbaad36383da6
+        mime: image/jpeg
+        bytes: 78021
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

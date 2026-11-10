@@ -1,0 +1,39 @@
+id: 01JM56548A2CCP6G4MRZG09WP8
+type: image
+subtype: photo
+title: Brücke Umzug nach dem Krieg
+date: 1926/1932
+location: Lüchow, Zollamt
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/26/62/2662bbd1500caca9948aadae44de68b9976fa1c79e841b89086ba531ba6811b2/original.jpg
+    sha256: 2662bbd1500caca9948aadae44de68b9976fa1c79e841b89086ba531ba6811b2
+    mime: image/jpeg
+    bytes: 23952977
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/26/62/2662bbd1500caca9948aadae44de68b9976fa1c79e841b89086ba531ba6811b2/preview-400.1f817178ea04.jpg
+        sha256: 1f817178ea0435c737fd05f6381730923276297d16c206fa74b472a5b5baa9e7
+        mime: image/jpeg
+        bytes: 83638
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

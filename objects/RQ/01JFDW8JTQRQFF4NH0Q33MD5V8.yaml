@@ -1,0 +1,35 @@
+id: 01JFDW8JTQRQFF4NH0Q33MD5V8
+type: image
+subtype: photo
+title: Sportplatz Brief zu Pfingsten
+date: 1918-10
+location: Pretzier, Brunnen
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/ea/15/ea1535197a8e4c4186cf37f3a663b1dcf2efd188b945ac3236f9f0c7f8c88887/original.jpg
+    sha256: ea1535197a8e4c4186cf37f3a663b1dcf2efd188b945ac3236f9f0c7f8c88887
+    mime: image/jpeg
+    bytes: 27073152
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ea/15/ea1535197a8e4c4186cf37f3a663b1dcf2efd188b945ac3236f9f0c7f8c88887/preview-400.f3c302e95c2d.jpg
+        sha256: f3c302e95c2d4840b9b3bfddd1143bfe76810ea186996443e96280191b8d3934
+        mime: image/jpeg
+        bytes: 76981
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

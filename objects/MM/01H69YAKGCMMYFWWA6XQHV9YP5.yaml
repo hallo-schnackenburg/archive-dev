@@ -1,0 +1,47 @@
+id: 01H69YAKGCMMYFWWA6XQHV9YP5
+type: image
+subtype: photo
+title: Friedhof Prospekt zur Wende
+description: Pfarrhaus und brunnen, am Sonntag.
+date: 1939-01-15
+location: Holtorf, Elbdeich
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Fritz Bohlmann
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/8b/a2/8ba293f4626e208a51939d64465f3cde478e25add38d9eb04ed59d2bcf0b0917/original.jpg
+    sha256: 8ba293f4626e208a51939d64465f3cde478e25add38d9eb04ed59d2bcf0b0917
+    mime: image/jpeg
+    bytes: 12298123
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/8b/a2/8ba293f4626e208a51939d64465f3cde478e25add38d9eb04ed59d2bcf0b0917/preview-400.8cb57155a657.jpg
+        sha256: 8cb57155a657a5ef1e3837b5370f2c82446486be6574f3dab167bce209938ef7
+        mime: image/jpeg
+        bytes: 42107
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

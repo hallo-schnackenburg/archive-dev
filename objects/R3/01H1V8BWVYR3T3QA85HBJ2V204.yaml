@@ -1,0 +1,51 @@
+id: 01H1V8BWVYR3T3QA85HBJ2V204
+type: document
+subtype: brochure
+title: Dorfteich Protokoll zur Ernte
+date: 2015-09-24
+language: de
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/04/b8/04b8980b300725d4fbba8cc96358b6457a2e62680952354cd827de4cd5e4bfe4/original.tif
+    sha256: 04b8980b300725d4fbba8cc96358b6457a2e62680952354cd827de4cd5e4bfe4
+    mime: image/tiff
+    bytes: 5999165
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/b8/04b8980b300725d4fbba8cc96358b6457a2e62680952354cd827de4cd5e4bfe4/preview-400.82a0ed0a94b3.jpg
+        sha256: 82a0ed0a94b33e1f33255be1a9108588a5d72cb329f2242ed91e7ad8ebd2fe57
+        mime: image/jpeg
+        bytes: 66917
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/cd/ae/cdae754a0bc3228d5b7a0036db192c764fc109e0818ba17ae85da20b2535404d/original.tif
+    sha256: cdae754a0bc3228d5b7a0036db192c764fc109e0818ba17ae85da20b2535404d
+    mime: image/tiff
+    bytes: 620206
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/ae/cdae754a0bc3228d5b7a0036db192c764fc109e0818ba17ae85da20b2535404d/preview-400.1058331e2bf2.jpg
+        sha256: 1058331e2bf2117502b8ddb3f7431536ee76613e0b6ac58a974d545ab222d390
+        mime: image/jpeg
+        bytes: 78427
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

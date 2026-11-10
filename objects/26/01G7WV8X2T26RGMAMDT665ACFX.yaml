@@ -1,0 +1,35 @@
+id: 01G7WV8X2T26RGMAMDT665ACFX
+type: image
+subtype: photo
+title: Pfarrhaus Entwurf zur Wende
+date: 1875-10-22
+location: Lenzen, Rathaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/18/34/183414c5c3976b090609995ec2d7c89912389b9c6689700d3ec2c6cef0cdaa98/original.jpg
+    sha256: 183414c5c3976b090609995ec2d7c89912389b9c6689700d3ec2c6cef0cdaa98
+    mime: image/jpeg
+    bytes: 13591641
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/18/34/183414c5c3976b090609995ec2d7c89912389b9c6689700d3ec2c6cef0cdaa98/preview-400.2cea319e8659.jpg
+        sha256: 2cea319e86592a0c9386e4305156bd6096788db06f094b6f11a46342ce710b14
+        mime: image/jpeg
+        bytes: 40634
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

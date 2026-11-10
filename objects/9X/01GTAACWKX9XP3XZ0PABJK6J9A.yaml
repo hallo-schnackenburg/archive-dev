@@ -1,0 +1,53 @@
+id: 01GTAACWKX9XP3XZ0PABJK6J9A
+type: document
+subtype: letter
+title: Fachwerkhaus Ansicht zur Ernte
+description: Schreibt über die Ernte und das Wetter.
+date: 1941-07-07
+language: de
+origin:
+  name: Erika Voss
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/b3/44/b3440977b72fc676774612e1b766b1c84d09db86a92457ba4ac529e4903fcf5c/original.tif
+    sha256: b3440977b72fc676774612e1b766b1c84d09db86a92457ba4ac529e4903fcf5c
+    mime: image/tiff
+    bytes: 16026366
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/44/b3440977b72fc676774612e1b766b1c84d09db86a92457ba4ac529e4903fcf5c/preview-400.b731df377363.jpg
+        sha256: b731df377363f8cd2a944499e51949075e5a7832f260659475076fcfdbc5247b
+        mime: image/jpeg
+        bytes: 71730
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/11/98/11986a3c35bde2d0a79328193c09a3f48a19f325b73798b9d5cba8f1fba4501c/original.tif
+    sha256: 11986a3c35bde2d0a79328193c09a3f48a19f325b73798b9d5cba8f1fba4501c
+    mime: image/tiff
+    bytes: 3094177
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/98/11986a3c35bde2d0a79328193c09a3f48a19f325b73798b9d5cba8f1fba4501c/preview-400.d6d90958ae98.jpg
+        sha256: d6d90958ae9817295f96a76866ec68a5c6da1cde6e3c88ea71222564117bd342
+        mime: image/jpeg
+        bytes: 59784
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

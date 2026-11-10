@@ -1,0 +1,34 @@
+id: 01JYRV8A40B57KWFRVBAJ4QSH6
+type: image
+subtype: plan
+title: Grenzturm Einladung am Morgen
+date: 2002-07-21
+location: Holtorf, Rathaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/b3/f1/b3f1fb6e2452687b5a12539f0d767bd4d4e4d9f8cf5769f9330277da8ef27d7e/original.tif
+    sha256: b3f1fb6e2452687b5a12539f0d767bd4d4e4d9f8cf5769f9330277da8ef27d7e
+    mime: image/tiff
+    bytes: 24758135
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/f1/b3f1fb6e2452687b5a12539f0d767bd4d4e4d9f8cf5769f9330277da8ef27d7e/preview-400.f78212633f23.jpg
+        sha256: f78212633f23eb270578698e9c1e85bf94d549e15da43dce64b8a67ca86bc6d6
+        mime: image/jpeg
+        bytes: 74220
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

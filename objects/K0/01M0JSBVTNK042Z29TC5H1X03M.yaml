@@ -1,0 +1,29 @@
+id: 01M0JSBVTNK042Z29TC5H1X03M
+type: image
+subtype: plan
+title: Bahnhof Entwurf im Winter
+date: 2019-04-24
+location: Gorleben, Grenzturm
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: bauplan_feuerwehr.tif
+    path: files/19/fc/19fc19b4203823958084b2ac5163013c118a06865407a343a68c297a32a3b419/original.tif
+    sha256: 19fc19b4203823958084b2ac5163013c118a06865407a343a68c297a32a3b419
+    mime: image/tiff
+    bytes: 16292709
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/19/fc/19fc19b4203823958084b2ac5163013c118a06865407a343a68c297a32a3b419/preview-400.798faa633f87.jpg
+        sha256: 798faa633f87017245191ed419724955a9b0caccf5d59d7ff01b15fb7e90bb4d
+        mime: image/jpeg
+        bytes: 61736
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

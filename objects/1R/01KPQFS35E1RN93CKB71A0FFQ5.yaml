@@ -1,0 +1,35 @@
+id: 01KPQFS35E1RN93CKB71A0FFQ5
+type: image
+subtype: photo
+title: Dorfteich Einladung zur Ernte
+description: Gasthof und zollamt, nach dem Krieg.
+date: 1980-12-16
+location: Gartow, Fähre
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/dc/2c/dc2c8d3ba85e2b10de40860558c7f49b65f68b20dda023394e7ed213a81830aa/original.jpg
+    sha256: dc2c8d3ba85e2b10de40860558c7f49b65f68b20dda023394e7ed213a81830aa
+    mime: image/jpeg
+    bytes: 8635524
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/dc/2c/dc2c8d3ba85e2b10de40860558c7f49b65f68b20dda023394e7ed213a81830aa/preview-400.74fcb421259c.jpg
+        sha256: 74fcb421259cc7267ccc7b911e2700451b6c4381be97669524604223580eb01c
+        mime: image/jpeg
+        bytes: 56524
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

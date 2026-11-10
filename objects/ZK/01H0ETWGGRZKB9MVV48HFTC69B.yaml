@@ -1,0 +1,35 @@
+id: 01H0ETWGGRZKB9MVV48HFTC69B
+type: image
+subtype: photo
+title: Kindergarten Bericht im Winter
+date: 1899-03-16
+location: Schnackenburg, Hochwasser
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/75/40/754078f47f64f6bf6ffb0c035d8c77464e0bdd6856fc35eda15407b72e1ac6c3/original.jpg
+    sha256: 754078f47f64f6bf6ffb0c035d8c77464e0bdd6856fc35eda15407b72e1ac6c3
+    mime: image/jpeg
+    bytes: 7373898
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/75/40/754078f47f64f6bf6ffb0c035d8c77464e0bdd6856fc35eda15407b72e1ac6c3/preview-400.5deb6fc5c4ab.jpg
+        sha256: 5deb6fc5c4ab21c9e164dfa2be0747a8becee1999c053f8584839b799c10ac06
+        mime: image/jpeg
+        bytes: 88131
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

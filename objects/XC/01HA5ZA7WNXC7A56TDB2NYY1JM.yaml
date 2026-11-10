@@ -1,0 +1,35 @@
+id: 01HA5ZA7WNXC7A56TDB2NYY1JM
+type: image
+subtype: photo
+title: Fähre Ansicht im Winter
+description: Hochwasser und grenzturm, am Morgen.
+date: 1897-09-14
+location: Lenzen, Friedhof
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/3e/d9/3ed991b417b5fbe188599399d488e2dcea7564cbf030f2e8617eb88ffd97be67/original.jpg
+    sha256: 3ed991b417b5fbe188599399d488e2dcea7564cbf030f2e8617eb88ffd97be67
+    mime: image/jpeg
+    bytes: 24575617
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/3e/d9/3ed991b417b5fbe188599399d488e2dcea7564cbf030f2e8617eb88ffd97be67/preview-400.eaec02b7afd1.jpg
+        sha256: eaec02b7afd11376020eb0e3343d9410815d1d3c503f9d80b402344cb52ef8b5
+        mime: image/jpeg
+        bytes: 26822
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

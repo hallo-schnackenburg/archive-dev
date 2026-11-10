@@ -1,0 +1,35 @@
+id: 01KZKT04ZQ014GQAWT9DQC3DNV
+type: image
+subtype: photo
+title: Friedhof Abriss bei Hochwasser
+date: "2003"
+location: Lüchow, Gasthof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/7a/ca/7acadf723c9c3b11a5b8025120ef46c2f0b3eb19380ebf29527e2ab900954569/original.jpg
+    sha256: 7acadf723c9c3b11a5b8025120ef46c2f0b3eb19380ebf29527e2ab900954569
+    mime: image/jpeg
+    bytes: 9429203
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7a/ca/7acadf723c9c3b11a5b8025120ef46c2f0b3eb19380ebf29527e2ab900954569/preview-400.9fc0d80adc20.jpg
+        sha256: 9fc0d80adc2087f7c83d201e3bcce5cb843a570e206ae03022930231c1f78f67
+        mime: image/jpeg
+        bytes: 62766
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

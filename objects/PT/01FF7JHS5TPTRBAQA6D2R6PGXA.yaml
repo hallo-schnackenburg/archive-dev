@@ -1,0 +1,34 @@
+id: 01FF7JHS5TPTRBAQA6D2R6PGXA
+type: image
+subtype: plan
+title: Bahnhof Abriss im Sommer
+date: 2005-04-10
+location: Lenzen, Bäckerei
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/05/24/0524f42ebc759c7bbe35ab20a72e309f3165040b395a723cc22b93954d2f02c2/original.tif
+    sha256: 0524f42ebc759c7bbe35ab20a72e309f3165040b395a723cc22b93954d2f02c2
+    mime: image/tiff
+    bytes: 5261566
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/24/0524f42ebc759c7bbe35ab20a72e309f3165040b395a723cc22b93954d2f02c2/preview-400.2d3a2ffe9ecc.jpg
+        sha256: 2d3a2ffe9ecc675b97fa074cee569231e58a65bfc94996555cbeec705641efe2
+        mime: image/jpeg
+        bytes: 54606
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

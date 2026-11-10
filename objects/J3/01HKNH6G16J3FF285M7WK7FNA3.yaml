@@ -1,0 +1,53 @@
+id: 01HKNH6G16J3FF285M7WK7FNA3
+type: document
+subtype: letter
+title: Elbdeich Zeichnung im Sommer
+description: Schreibt über die Ernte und das Wetter.
+date: 1928~
+language: de
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/74/0c/740ce14768661e47a9076d27e3dd4fb2382ed003aab5331f147da820861bba01/original.tif
+    sha256: 740ce14768661e47a9076d27e3dd4fb2382ed003aab5331f147da820861bba01
+    mime: image/tiff
+    bytes: 9936826
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/74/0c/740ce14768661e47a9076d27e3dd4fb2382ed003aab5331f147da820861bba01/preview-400.adc7fbf9d8fb.jpg
+        sha256: adc7fbf9d8fbb48c9a25d1fe8b4005cf627d91d6a3b4d83ae72e30c7a3cf8a9b
+        mime: image/jpeg
+        bytes: 35584
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/d4/ea/d4ea593bdc56659e884ca1ecc4424390f764d1d60e6d562e5f8943617d41634c/original.tif
+    sha256: d4ea593bdc56659e884ca1ecc4424390f764d1d60e6d562e5f8943617d41634c
+    mime: image/tiff
+    bytes: 16343314
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/ea/d4ea593bdc56659e884ca1ecc4424390f764d1d60e6d562e5f8943617d41634c/preview-400.69537481696c.jpg
+        sha256: 69537481696cdc2712021c0dd443b646265fcde945101e0dc6f95f15182bb71e
+        mime: image/jpeg
+        bytes: 57278
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

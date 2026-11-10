@@ -1,0 +1,53 @@
+id: 01GWNZE8DHP8A15DNYWX5QF360
+type: document
+subtype: letter
+title: Rathaus Bericht zur Wende
+description: Hafen und fachwerkhaus, vor dem Umbau.
+date: 1930/1936
+language: de
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/5e/07/5e0790a8ac49e68d5c53be044f10e8090afc579bad6a175814f9ad7d55b30daa/original.tif
+    sha256: 5e0790a8ac49e68d5c53be044f10e8090afc579bad6a175814f9ad7d55b30daa
+    mime: image/tiff
+    bytes: 5375716
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5e/07/5e0790a8ac49e68d5c53be044f10e8090afc579bad6a175814f9ad7d55b30daa/preview-400.0968266c2304.jpg
+        sha256: 0968266c2304b6a5dcd11ee89137a9b1fbaeabd915c55f187f08b411fb3faf95
+        mime: image/jpeg
+        bytes: 82937
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/e4/ad/e4add736fe013fcf75302d2b32c6adea3ba484f41ca9572b5f30f4f3a3d1ad98/original.tif
+    sha256: e4add736fe013fcf75302d2b32c6adea3ba484f41ca9572b5f30f4f3a3d1ad98
+    mime: image/tiff
+    bytes: 22944495
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e4/ad/e4add736fe013fcf75302d2b32c6adea3ba484f41ca9572b5f30f4f3a3d1ad98/preview-400.89b16b40b01d.jpg
+        sha256: 89b16b40b01decb8a2d9d73123eb662bfa1ea72eb8cdd854e7391ba194ad8a30
+        mime: image/jpeg
+        bytes: 24798
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

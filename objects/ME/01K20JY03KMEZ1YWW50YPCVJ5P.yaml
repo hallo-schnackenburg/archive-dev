@@ -1,0 +1,39 @@
+id: 01K20JY03KMEZ1YWW50YPCVJ5P
+type: image
+subtype: photo
+title: Zollamt Notiz im Winter
+description: Mühle und gasthof, bei Hochwasser.
+date: "1994"
+location: Holtorf, Hafen
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Wilhelm Krüger
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/b5/10/b510904b37531cf67525766c6ded1a4f571c90374c7a11961e5a15a8149e133f/original.jpg
+    sha256: b510904b37531cf67525766c6ded1a4f571c90374c7a11961e5a15a8149e133f
+    mime: image/jpeg
+    bytes: 7927073
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b5/10/b510904b37531cf67525766c6ded1a4f571c90374c7a11961e5a15a8149e133f/preview-400.99d8b6dd69fb.jpg
+        sha256: 99d8b6dd69fb8274d8b3374172bb3adc3c7a29ea4e4339bff8c5d39a19d13ad7
+        mime: image/jpeg
+        bytes: 80771
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

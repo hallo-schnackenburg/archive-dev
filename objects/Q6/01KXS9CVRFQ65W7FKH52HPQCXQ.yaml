@@ -1,0 +1,39 @@
+id: 01KXS9CVRFQ65W7FKH52HPQCXQ
+type: image
+subtype: photo
+title: Brücke Ansicht zur Wende
+date: "1870"
+location: Schnackenburg, Bahnhof
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/4d/05/4d0574325504db49f109a1d41727f3725bbb1f11f4f40899cc33178117cae371/original.jpg
+    sha256: 4d0574325504db49f109a1d41727f3725bbb1f11f4f40899cc33178117cae371
+    mime: image/jpeg
+    bytes: 27161581
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4d/05/4d0574325504db49f109a1d41727f3725bbb1f11f4f40899cc33178117cae371/preview-400.bc0ed5d38eff.jpg
+        sha256: bc0ed5d38eff92430c8521a78a8a925fc7d02fc3922df9f456d23f0e9bfa9731
+        mime: image/jpeg
+        bytes: 64739
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

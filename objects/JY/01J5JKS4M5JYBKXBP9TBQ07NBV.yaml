@@ -1,0 +1,51 @@
+id: 01J5JKS4M5JYBKXBP9TBQ07NBV
+type: document
+subtype: brochure
+title: Schmiede Abriss im Sommer
+date: 1903-08
+language: de
+origin:
+  name: Helga Plate
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/26/fc/26fc78661221f77678f25820df6366ee5ae97f2e49e12bbff384e74bac39af69/original.tif
+    sha256: 26fc78661221f77678f25820df6366ee5ae97f2e49e12bbff384e74bac39af69
+    mime: image/tiff
+    bytes: 18836616
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/fc/26fc78661221f77678f25820df6366ee5ae97f2e49e12bbff384e74bac39af69/preview-400.58c839b279d8.jpg
+        sha256: 58c839b279d80e78e09feaf60cd6de93d010564c20cb3a78e9a16832f21e0d1d
+        mime: image/jpeg
+        bytes: 84573
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/d4/c7/d4c726e54888c39df208315228475623864badaccc4d6bbfd9c2e61455f37ca2/original.tif
+    sha256: d4c726e54888c39df208315228475623864badaccc4d6bbfd9c2e61455f37ca2
+    mime: image/tiff
+    bytes: 13832360
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/c7/d4c726e54888c39df208315228475623864badaccc4d6bbfd9c2e61455f37ca2/preview-400.91c9d243ee2c.jpg
+        sha256: 91c9d243ee2c7fee1ddccda1819e8e8f165a9142d2bb43e41437534d415c107c
+        mime: image/jpeg
+        bytes: 48597
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

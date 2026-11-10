@@ -1,0 +1,34 @@
+id: 01J6A9HC8S68P7TGXH6MZJ5BGW
+type: image
+subtype: plan
+title: Dorfschule Abriss nach dem Krieg
+date: "1970"
+location: Lüchow, Dorfschule
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/32/6a/326a50f69465e331eb121f83ed2a4f21876f90ed8a541551d2f3f9b17726767d/original.tif
+    sha256: 326a50f69465e331eb121f83ed2a4f21876f90ed8a541551d2f3f9b17726767d
+    mime: image/tiff
+    bytes: 26814490
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/32/6a/326a50f69465e331eb121f83ed2a4f21876f90ed8a541551d2f3f9b17726767d/preview-400.516fd6c3b49d.jpg
+        sha256: 516fd6c3b49d309ad54d58a141a3a261b5ba5ce677567677099951d8802226ea
+        mime: image/jpeg
+        bytes: 56515
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

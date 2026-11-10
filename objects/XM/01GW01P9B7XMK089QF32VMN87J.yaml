@@ -1,0 +1,34 @@
+id: 01GW01P9B7XMK089QF32VMN87J
+type: image
+subtype: print
+title: Dorfschule Aufnahme zu Pfingsten
+description: Kupferstich.
+date: 1937-03-06
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/bb/3a/bb3ad8666cad72cbbeac3f400e5166b630e474d20a73dc93d58f5efe5906b281/original.tif
+    sha256: bb3ad8666cad72cbbeac3f400e5166b630e474d20a73dc93d58f5efe5906b281
+    mime: image/tiff
+    bytes: 22831234
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bb/3a/bb3ad8666cad72cbbeac3f400e5166b630e474d20a73dc93d58f5efe5906b281/preview-400.42072b529a47.jpg
+        sha256: 42072b529a4760bc94cfb94e0decd47057d35b13ab9377a0f0009da0a10ac4ea
+        mime: image/jpeg
+        bytes: 26507
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

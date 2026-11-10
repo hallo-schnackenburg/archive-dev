@@ -1,0 +1,35 @@
+id: 01GMAM9RG4MPGC75SKFJZBWR2T
+type: image
+subtype: photo
+title: Schmiede Rechnung nach dem Krieg
+date: 2022-08-01
+location: Pretzier, Brunnen
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/2b/21/2b21b237ade46eee4561644d307c636c4773f39e0a8dd37c2b13808b2f4c2c0f/original.jpg
+    sha256: 2b21b237ade46eee4561644d307c636c4773f39e0a8dd37c2b13808b2f4c2c0f
+    mime: image/jpeg
+    bytes: 24943502
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2b/21/2b21b237ade46eee4561644d307c636c4773f39e0a8dd37c2b13808b2f4c2c0f/preview-400.3e8f0558d26d.jpg
+        sha256: 3e8f0558d26dda1813251965c2f29c248e4a19502e566aeb42c1e1575d7b5ac7
+        mime: image/jpeg
+        bytes: 72245
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

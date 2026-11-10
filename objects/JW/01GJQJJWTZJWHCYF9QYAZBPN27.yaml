@@ -1,0 +1,34 @@
+id: 01GJQJJWTZJWHCYF9QYAZBPN27
+type: image
+subtype: plan
+title: Hafen Protokoll zu Pfingsten
+date: 1924-05-18
+location: Lüchow, Elbufer
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/59/14/59143d063fe94b35b376b186787f1501776704fccbf55d4211f43a69eab8255c/original.tif
+    sha256: 59143d063fe94b35b376b186787f1501776704fccbf55d4211f43a69eab8255c
+    mime: image/tiff
+    bytes: 15016025
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/59/14/59143d063fe94b35b376b186787f1501776704fccbf55d4211f43a69eab8255c/preview-400.74331ef9bf92.jpg
+        sha256: 74331ef9bf92ce3566328b4e2401940ab3f66f8dd232fb20295c379b08046fc4
+        mime: image/jpeg
+        bytes: 31831
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

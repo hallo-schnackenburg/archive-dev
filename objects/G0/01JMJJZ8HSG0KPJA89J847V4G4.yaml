@@ -1,0 +1,53 @@
+id: 01JMJJZ8HSG0KPJA89J847V4G4
+type: document
+subtype: letter
+title: Feuerwehr Einweihung nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: 1990-06
+language: de
+origin:
+  name: Fritz Bohlmann
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/2f/66/2f66531d9e678cbec0ef5765dffad7f3dd066d823ead3bd1a18a37a64f7ba6b7/original.tif
+    sha256: 2f66531d9e678cbec0ef5765dffad7f3dd066d823ead3bd1a18a37a64f7ba6b7
+    mime: image/tiff
+    bytes: 11568876
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2f/66/2f66531d9e678cbec0ef5765dffad7f3dd066d823ead3bd1a18a37a64f7ba6b7/preview-400.a793baa32d42.jpg
+        sha256: a793baa32d4266cda1cddb34bb42d372049703b7d175348ee39a1dd3f06c39f1
+        mime: image/jpeg
+        bytes: 20419
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/f5/b2/f5b2424155eaf99b44490f7746ec371008fde78ed1e288dadbdf42b86d742400/original.tif
+    sha256: f5b2424155eaf99b44490f7746ec371008fde78ed1e288dadbdf42b86d742400
+    mime: image/tiff
+    bytes: 16224108
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f5/b2/f5b2424155eaf99b44490f7746ec371008fde78ed1e288dadbdf42b86d742400/preview-400.0f3e578082c2.jpg
+        sha256: 0f3e578082c2dbfb882871c952820d3091be9d57f3d02ee02b6d59f35d365a82
+        mime: image/jpeg
+        bytes: 39065
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

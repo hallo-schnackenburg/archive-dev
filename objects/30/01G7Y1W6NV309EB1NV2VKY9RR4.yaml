@@ -1,0 +1,39 @@
+id: 01G7Y1W6NV309EB1NV2VKY9RR4
+type: image
+subtype: photo
+title: Bahnhof Gruppenbild am Sonntag
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1941-09-26
+location: Lenzen, Schmiede
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Gerda Schulz
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/9a/b2/9ab25ea69d879b1ea89fe02ebb64224f0a84a64226c0b365373b9c2adb18e7b7/original.jpg
+    sha256: 9ab25ea69d879b1ea89fe02ebb64224f0a84a64226c0b365373b9c2adb18e7b7
+    mime: image/jpeg
+    bytes: 20534764
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/9a/b2/9ab25ea69d879b1ea89fe02ebb64224f0a84a64226c0b365373b9c2adb18e7b7/preview-400.6c15a9326b24.jpg
+        sha256: 6c15a9326b24bb669510ff169c26a63ad9c199a520321dd5e7bedb1cf4c5c356
+        mime: image/jpeg
+        bytes: 61243
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

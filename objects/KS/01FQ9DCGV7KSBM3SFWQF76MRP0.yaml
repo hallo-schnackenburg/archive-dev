@@ -1,0 +1,51 @@
+id: 01FQ9DCGV7KSBM3SFWQF76MRP0
+type: document
+subtype: brochure
+title: Schützenfest Bericht vor dem Umbau
+date: "2015"
+language: de
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/2e/0d/2e0d007138535c6d4aa4893f748d49781becbc58d077e966b5832cc82ae0fee4/original.tif
+    sha256: 2e0d007138535c6d4aa4893f748d49781becbc58d077e966b5832cc82ae0fee4
+    mime: image/tiff
+    bytes: 21082451
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/0d/2e0d007138535c6d4aa4893f748d49781becbc58d077e966b5832cc82ae0fee4/preview-400.1d282517a360.jpg
+        sha256: 1d282517a360cf9b3520420f7bb8724de2e06529f2d9e8421546dfd31867955e
+        mime: image/jpeg
+        bytes: 68390
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/01/f3/01f3b606c5f6661d9f773bd6126972789dd151289838f644bed5f39e0de30b0e/original.tif
+    sha256: 01f3b606c5f6661d9f773bd6126972789dd151289838f644bed5f39e0de30b0e
+    mime: image/tiff
+    bytes: 3250842
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/f3/01f3b606c5f6661d9f773bd6126972789dd151289838f644bed5f39e0de30b0e/preview-400.0f6d14778959.jpg
+        sha256: 0f6d1477895927eae6760939bd7c4f35fe1ac9685c44212691d1236743fb54e4
+        mime: image/jpeg
+        bytes: 74757
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

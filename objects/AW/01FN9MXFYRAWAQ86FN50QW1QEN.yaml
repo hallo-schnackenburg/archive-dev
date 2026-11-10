@@ -1,0 +1,53 @@
+id: 01FN9MXFYRAWAQ86FN50QW1QEN
+type: document
+subtype: letter
+title: Schmiede Umbau nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: "1937"
+language: de
+origin:
+  name: Helga Plate
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/07/14/07147a036b0054a5ccb5ee2b77ad9c8714041bb3c462fece648a4c4d5d3dc706/original.tif
+    sha256: 07147a036b0054a5ccb5ee2b77ad9c8714041bb3c462fece648a4c4d5d3dc706
+    mime: image/tiff
+    bytes: 3075395
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/14/07147a036b0054a5ccb5ee2b77ad9c8714041bb3c462fece648a4c4d5d3dc706/preview-400.8a353b032da7.jpg
+        sha256: 8a353b032da7ab5f2ae1637895e0e7cd3112de4d847c934207c792cd78cbe0c8
+        mime: image/jpeg
+        bytes: 87002
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/4a/4e/4a4e590c83f6c66331920e370bd1d2e101d25c38ebf877e015110bacea5169a5/original.tif
+    sha256: 4a4e590c83f6c66331920e370bd1d2e101d25c38ebf877e015110bacea5169a5
+    mime: image/tiff
+    bytes: 9023595
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4a/4e/4a4e590c83f6c66331920e370bd1d2e101d25c38ebf877e015110bacea5169a5/preview-400.1be3eaf0cc94.jpg
+        sha256: 1be3eaf0cc946fc454b9de5d4f66cdadea3573b076a5779bfd64a30fac669230
+        mime: image/jpeg
+        bytes: 30369
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

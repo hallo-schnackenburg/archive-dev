@@ -1,0 +1,73 @@
+id: 01KXQVMP03YH5QNAJKZ7JYM2P7
+type: document
+subtype: letter
+title: Dorfschule Prospekt am Sonntag
+date: 1984-11-27
+language: de
+origin:
+  name: Otto Hennings
+  type: person
+  location: Ostfront
+recipient: Familie Lüders, Schnackenburg
+notes: Teilweise schwer lesbar.
+files:
+  - role: page
+    num: 1
+    original_name: feldpost_lueders_001.tif
+    path: files/b7/d5/b7d51baede2b22be70cef4a256d0ca1fd1b2aed565e0f5e8f53b3b87877048fc/original.tif
+    sha256: b7d51baede2b22be70cef4a256d0ca1fd1b2aed565e0f5e8f53b3b87877048fc
+    mime: image/tiff
+    bytes: 9924052
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b7/d5/b7d51baede2b22be70cef4a256d0ca1fd1b2aed565e0f5e8f53b3b87877048fc/preview-400.63df1a4ad331.jpg
+        sha256: 63df1a4ad331ad8735c10dcf1c5309202eb04a764a025db2d5788c971c40d5c6
+        mime: image/jpeg
+        bytes: 66115
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: feldpost_lueders_002.tif
+    path: files/71/72/7172796ca2e4af136b689cd3dbc4abdeb15371debb04fd0b26ea8c82365ba4f2/original.tif
+    sha256: 7172796ca2e4af136b689cd3dbc4abdeb15371debb04fd0b26ea8c82365ba4f2
+    mime: image/tiff
+    bytes: 26967266
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/71/72/7172796ca2e4af136b689cd3dbc4abdeb15371debb04fd0b26ea8c82365ba4f2/preview-400.acdd86914ff2.jpg
+        sha256: acdd86914ff2e89b37f1b3fa429d1401d5fbd389fc223ae1a55dba57976476a4
+        mime: image/jpeg
+        bytes: 22899
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: feldpost_lueders_003.tif
+    path: files/79/c7/79c7f771e6962aef70635055a77b3cb327ace38130342f7da081576ea3a10623/original.tif
+    sha256: 79c7f771e6962aef70635055a77b3cb327ace38130342f7da081576ea3a10623
+    mime: image/tiff
+    bytes: 1908684
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/79/c7/79c7f771e6962aef70635055a77b3cb327ace38130342f7da081576ea3a10623/preview-400.8a3d34ed4656.jpg
+        sha256: 8a3d34ed46567c32ca32e5f5e9b79e16d9a824cad515b7bdebfdc3cd7638273d
+        mime: image/jpeg
+        bytes: 87309
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

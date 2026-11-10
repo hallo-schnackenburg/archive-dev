@@ -1,0 +1,53 @@
+id: 01F7SDP05BW5NKSM5Z3RFSVA9B
+type: document
+subtype: letter
+title: Gasthof Ansicht zur Ernte
+description: Mühle und zollamt, zur Ernte.
+date: 1925-01-21
+language: de
+origin:
+  name: Hans Brandt
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/e6/91/e6912c4ba4de8ff5c7692a4d70d60c2d6dedac7e8ed11a0f6a7f6605a6e6f9af/original.tif
+    sha256: e6912c4ba4de8ff5c7692a4d70d60c2d6dedac7e8ed11a0f6a7f6605a6e6f9af
+    mime: image/tiff
+    bytes: 27848148
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e6/91/e6912c4ba4de8ff5c7692a4d70d60c2d6dedac7e8ed11a0f6a7f6605a6e6f9af/preview-400.dda07d784bcc.jpg
+        sha256: dda07d784bcca06643ff70dfa476a919bba42785e98c27d6af9459e5ab5f5bdd
+        mime: image/jpeg
+        bytes: 38139
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/a3/5f/a35f6b7d8af51c148dbdf50968bc287219f22d32adeb8ffb45e4127f1e328431/original.tif
+    sha256: a35f6b7d8af51c148dbdf50968bc287219f22d32adeb8ffb45e4127f1e328431
+    mime: image/tiff
+    bytes: 7165853
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a3/5f/a35f6b7d8af51c148dbdf50968bc287219f22d32adeb8ffb45e4127f1e328431/preview-400.421317ae4475.jpg
+        sha256: 421317ae4475067d84f41d7ea99abfa59e59c63ece122fc9475f18e075aa0412
+        mime: image/jpeg
+        bytes: 42310
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01K6BC0A9ZEX6GS2NVRY32HZQ8
+type: image
+subtype: plan
+title: Mühle Umbau zur Ernte
+date: 1883-07-20
+location: Lenzen, Sportplatz
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Erika Voss
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/f7/53/f7538230d695f51064777ba3c131c45eb7addcf3bfe802bb733d21f83b574015/original.tif
+    sha256: f7538230d695f51064777ba3c131c45eb7addcf3bfe802bb733d21f83b574015
+    mime: image/tiff
+    bytes: 17889356
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f7/53/f7538230d695f51064777ba3c131c45eb7addcf3bfe802bb733d21f83b574015/preview-400.dabe51f7080d.jpg
+        sha256: dabe51f7080d75cd8cb618c3c8a14fe8c8ad5cf6a403d52ee2cfd930671493ae
+        mime: image/jpeg
+        bytes: 85582
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

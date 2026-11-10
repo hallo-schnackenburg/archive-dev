@@ -1,0 +1,35 @@
+id: 01KQF64Q8XQBEB269DX02TK5HJ
+type: image
+subtype: photo
+title: Sportplatz Jubiläum nach dem Krieg
+date: "1866"
+location: Schnackenburg, Schützenfest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/1d/f0/1df0b6068d4a39eebcfb182abe5ae70515ce7599039e4b36fc993ea491aea577/original.jpg
+    sha256: 1df0b6068d4a39eebcfb182abe5ae70515ce7599039e4b36fc993ea491aea577
+    mime: image/jpeg
+    bytes: 26861519
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/1d/f0/1df0b6068d4a39eebcfb182abe5ae70515ce7599039e4b36fc993ea491aea577/preview-400.24046ad7d3e4.jpg
+        sha256: 24046ad7d3e4042cb204366251f0f6943b5dc93fe20228f695edcb81cac6b4ff
+        mime: image/jpeg
+        bytes: 61299
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

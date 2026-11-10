@@ -1,0 +1,31 @@
+id: 01HHYBZ0A7BGC2BNRXKRSJDJ26
+type: image
+subtype: drawing
+title: Grenzturm Prospekt im Winter
+description: Bahnhof und grenzturm, im Sommer.
+date: 1886-12
+location: Gorleben, Gemeindehaus
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Hannover
+files:
+  - role: main
+    original_name: zeichnung_hafen.tif
+    path: files/0f/85/0f85d812b824e3d548b5a7bce43613c707abe44116c884c7946ae54fee05a81a/original.tif
+    sha256: 0f85d812b824e3d548b5a7bce43613c707abe44116c884c7946ae54fee05a81a
+    mime: image/tiff
+    bytes: 21836801
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0f/85/0f85d812b824e3d548b5a7bce43613c707abe44116c884c7946ae54fee05a81a/preview-400.54017fe203e3.jpg
+        sha256: 54017fe203e394062bb30e993a4f86f9888bc19c8239fdf6fc6082574e2b8f9c
+        mime: image/jpeg
+        bytes: 53081
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,53 @@
+id: 01GPAKPB74WB0YS2MEKDQHKSZY
+type: document
+subtype: letter
+title: Ernte Prospekt am Morgen
+description: Schreibt über die Ernte und das Wetter.
+date: 1992~
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/a6/e0/a6e0fd5782865f7119a4658de6c1a019d8a74d38c4a77449f3a93b45fa319386/original.tif
+    sha256: a6e0fd5782865f7119a4658de6c1a019d8a74d38c4a77449f3a93b45fa319386
+    mime: image/tiff
+    bytes: 21569207
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a6/e0/a6e0fd5782865f7119a4658de6c1a019d8a74d38c4a77449f3a93b45fa319386/preview-400.b5eeffa2c551.jpg
+        sha256: b5eeffa2c5516ce85fd3272ff9fcce93bf9b02862900535d0f6b829980782a29
+        mime: image/jpeg
+        bytes: 51225
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/58/45/5845b64485de2255b24c5ea04676bb48cfa78d5b871b4bb9f561bc213a3c1e2f/original.tif
+    sha256: 5845b64485de2255b24c5ea04676bb48cfa78d5b871b4bb9f561bc213a3c1e2f
+    mime: image/tiff
+    bytes: 23116278
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/58/45/5845b64485de2255b24c5ea04676bb48cfa78d5b871b4bb9f561bc213a3c1e2f/preview-400.f0a56dea4ce0.jpg
+        sha256: f0a56dea4ce0d5dc1c14c1ec1b90c4420baf6378abc79837cecd910924712d2c
+        mime: image/jpeg
+        bytes: 69537
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,29 @@
+id: 01KNCVH6W1JVVA1C0JK5ZGZSK2
+type: image
+subtype: plan
+title: Bahnhof Prospekt am Morgen
+date: 1869-08-08
+location: Gartow, Gasthof
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: bauplan_feuerwehr.tif
+    path: files/b7/84/b784c8b125aecb65212abd26e069f718ad0fe0f73a496bed8baf4b245f960063/original.tif
+    sha256: b784c8b125aecb65212abd26e069f718ad0fe0f73a496bed8baf4b245f960063
+    mime: image/tiff
+    bytes: 17816320
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b7/84/b784c8b125aecb65212abd26e069f718ad0fe0f73a496bed8baf4b245f960063/preview-400.8b0613118944.jpg
+        sha256: 8b0613118944e153c88af2f347acbbc950f0a368fc4e53586fafc01a379dbacd
+        mime: image/jpeg
+        bytes: 31110
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

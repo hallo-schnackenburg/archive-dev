@@ -1,0 +1,35 @@
+id: 01FY045R4A3GVK89T5GJA9AR43
+type: image
+subtype: photo
+title: Friedhof Abriss zur Ernte
+date: "1962"
+location: Kapern, Mühle
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/88/50/88508c19055715b2608d24d5f9210418b6c443271fc666d9d70fa56368a018a9/original.jpg
+    sha256: 88508c19055715b2608d24d5f9210418b6c443271fc666d9d70fa56368a018a9
+    mime: image/jpeg
+    bytes: 14090778
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/88/50/88508c19055715b2608d24d5f9210418b6c443271fc666d9d70fa56368a018a9/preview-400.a196c60e4139.jpg
+        sha256: a196c60e41395d1bf74c6cca2f1afc761f21938215efbc1de2c219d4c16931e7
+        mime: image/jpeg
+        bytes: 89150
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

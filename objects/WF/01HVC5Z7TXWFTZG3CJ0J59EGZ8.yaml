@@ -1,0 +1,39 @@
+id: 01HVC5Z7TXWFTZG3CJ0J59EGZ8
+type: image
+subtype: photo
+title: Bahnhof Zeichnung im Sommer
+description: Grenzturm und fachwerkhaus, am Morgen.
+date: 1876-05-15
+location: Holtorf, Mühle
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Marta Lüders
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/22/5b/225b36d91d5b61d4056eacbefad6cf128324219439e7dae2bfeec45dadfd3543/original.jpg
+    sha256: 225b36d91d5b61d4056eacbefad6cf128324219439e7dae2bfeec45dadfd3543
+    mime: image/jpeg
+    bytes: 24422753
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/22/5b/225b36d91d5b61d4056eacbefad6cf128324219439e7dae2bfeec45dadfd3543/preview-400.e8839e12f521.jpg
+        sha256: e8839e12f5219ba7f503230541e961f5feba0764ca430976635f33cfcb368f1b
+        mime: image/jpeg
+        bytes: 40918
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

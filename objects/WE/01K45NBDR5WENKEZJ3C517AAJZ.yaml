@@ -1,0 +1,39 @@
+id: 01K45NBDR5WENKEZJ3C517AAJZ
+type: image
+subtype: photo
+title: Schützenfest Rechnung im Winter
+date: 2015-02-26
+location: Holtorf, Gasthof
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/3d/e2/3de25cb162235c75be84e6a603a489f0d180f2ea236028f0d0220c6e19de01d9/original.jpg
+    sha256: 3de25cb162235c75be84e6a603a489f0d180f2ea236028f0d0220c6e19de01d9
+    mime: image/jpeg
+    bytes: 23371763
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/3d/e2/3de25cb162235c75be84e6a603a489f0d180f2ea236028f0d0220c6e19de01d9/preview-400.a1df9f841b48.jpg
+        sha256: a1df9f841b48e6c8d942f18c9f7de0dff57882285a0b546219231151fae81bab
+        mime: image/jpeg
+        bytes: 27639
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01HDZAVZD642XSQ46901HR00DY
+type: image
+subtype: plan
+title: Friedhof Notiz bei Hochwasser
+date: 1892~
+location: Gorleben, Zollamt
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/74/e7/74e7921f03bb9e9087b572e295b0a2bc5ac992c241d5c7685ba9911ada5f645c/original.tif
+    sha256: 74e7921f03bb9e9087b572e295b0a2bc5ac992c241d5c7685ba9911ada5f645c
+    mime: image/tiff
+    bytes: 8403288
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/74/e7/74e7921f03bb9e9087b572e295b0a2bc5ac992c241d5c7685ba9911ada5f645c/preview-400.6395fa010d3c.jpg
+        sha256: 6395fa010d3cb91d22e4d22d7f7226d120eb1655b027e505aa5a61a6f0a2c149
+        mime: image/jpeg
+        bytes: 30982
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

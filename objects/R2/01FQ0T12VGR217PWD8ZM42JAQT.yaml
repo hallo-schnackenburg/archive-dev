@@ -1,0 +1,47 @@
+id: 01FQ0T12VGR217PWD8ZM42JAQT
+type: image
+subtype: photo
+title: Ernte Protokoll am Morgen
+description: Brunnen und brunnen, nach dem Krieg.
+date: 1923/1927
+location: Lüchow, Rathaus
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/23/6e/236ed8dbae04f824bc6feae5e73c7d278bf83fa9b1db043391eb9effceb0c2b8/original.jpg
+    sha256: 236ed8dbae04f824bc6feae5e73c7d278bf83fa9b1db043391eb9effceb0c2b8
+    mime: image/jpeg
+    bytes: 6836290
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/23/6e/236ed8dbae04f824bc6feae5e73c7d278bf83fa9b1db043391eb9effceb0c2b8/preview-400.f30aa9c3bb4f.jpg
+        sha256: f30aa9c3bb4f2d4408a585ed618b0225f965b12cf789213b2d7870b3e8ee4d4c
+        mime: image/jpeg
+        bytes: 54603
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

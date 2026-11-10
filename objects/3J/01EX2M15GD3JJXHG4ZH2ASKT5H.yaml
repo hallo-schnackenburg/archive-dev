@@ -1,0 +1,31 @@
+id: 01EX2M15GD3JJXHG4ZH2ASKT5H
+type: image
+subtype: drawing
+title: Bäckerei Notiz im Sommer
+description: Mühle und brücke, im Winter.
+date: "1867"
+location: Holtorf, Storchennest
+origin:
+  name: Rudolf Garms
+  type: person
+  location: Hannover
+files:
+  - role: main
+    original_name: zeichnung_hafen.tif
+    path: files/59/ce/59ce9cd949605f94ff46417e5df11c234b56f6dc7c621b643a04499dde037096/original.tif
+    sha256: 59ce9cd949605f94ff46417e5df11c234b56f6dc7c621b643a04499dde037096
+    mime: image/tiff
+    bytes: 1770736
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/59/ce/59ce9cd949605f94ff46417e5df11c234b56f6dc7c621b643a04499dde037096/preview-400.62cc63f46d83.jpg
+        sha256: 62cc63f46d8322bade91b0cf23f83fceb1c4ed3c6f0dd7769c3ecd1a9ecd3ac1
+        mime: image/jpeg
+        bytes: 53778
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

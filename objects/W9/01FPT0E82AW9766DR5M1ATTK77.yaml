@@ -1,0 +1,34 @@
+id: 01FPT0E82AW9766DR5M1ATTK77
+type: image
+subtype: plan
+title: Ernte Entwurf am Sonntag
+date: 2003-01-28
+location: Holtorf, Marktplatz
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/8f/ca/8fcac258419ba5c8a1c584502b4f8c6f1562627ec6eba735de1f19011dc47ed6/original.tif
+    sha256: 8fcac258419ba5c8a1c584502b4f8c6f1562627ec6eba735de1f19011dc47ed6
+    mime: image/tiff
+    bytes: 10435322
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8f/ca/8fcac258419ba5c8a1c584502b4f8c6f1562627ec6eba735de1f19011dc47ed6/preview-400.d287f91c2cc5.jpg
+        sha256: d287f91c2cc587e59902d0e49029757aa55f70b969f2811f0a0d4d540c2180cc
+        mime: image/jpeg
+        bytes: 52474
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

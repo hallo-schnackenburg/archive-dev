@@ -1,0 +1,34 @@
+id: 01GK380A9V828ZT9GHZEC9KMDE
+type: image
+subtype: print
+title: Kirche St. Johannis Einweihung im Sommer
+description: Feuerwehr und bäckerei, vor dem Umbau.
+date: 1887-06-13
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/f3/d8/f3d894a962f8a8e2e30eabcb20e19490ca0c7d180099d02c9de3cfd50fa78abc/original.tif
+    sha256: f3d894a962f8a8e2e30eabcb20e19490ca0c7d180099d02c9de3cfd50fa78abc
+    mime: image/tiff
+    bytes: 20871573
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f3/d8/f3d894a962f8a8e2e30eabcb20e19490ca0c7d180099d02c9de3cfd50fa78abc/preview-400.358612076201.jpg
+        sha256: 35861207620133e5138631c7dde116a734de2a409c32d1e6f2d7748452f2cc43
+        mime: image/jpeg
+        bytes: 75163
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

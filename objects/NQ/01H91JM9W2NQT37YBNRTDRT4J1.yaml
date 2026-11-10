@@ -1,0 +1,39 @@
+id: 01H91JM9W2NQT37YBNRTDRT4J1
+type: image
+subtype: photo
+title: Friedhof Besuch im Winter
+date: "1926"
+location: Restorf, Gasthof
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Erika Voss
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/ee/b6/eeb679308b61b3d6e6b948cfb58955c8abb5094ff73480a7888d482f4e946b88/original.jpg
+    sha256: eeb679308b61b3d6e6b948cfb58955c8abb5094ff73480a7888d482f4e946b88
+    mime: image/jpeg
+    bytes: 20071372
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ee/b6/eeb679308b61b3d6e6b948cfb58955c8abb5094ff73480a7888d482f4e946b88/preview-400.45aef79a58a7.jpg
+        sha256: 45aef79a58a76d4293003189710b792f692b57a8dd5012536a2bd79530d4e965
+        mime: image/jpeg
+        bytes: 74863
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

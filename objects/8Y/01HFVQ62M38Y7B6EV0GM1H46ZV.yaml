@@ -1,0 +1,53 @@
+id: 01HFVQ62M38Y7B6EV0GM1H46ZV
+type: document
+subtype: letter
+title: Fachwerkhaus Bescheid nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: "2019"
+language: de
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/c5/b3/c5b3d39f4c5c0229b2b27d905b7fa49b8196f68c68d38e67b4b3561693a6302e/original.tif
+    sha256: c5b3d39f4c5c0229b2b27d905b7fa49b8196f68c68d38e67b4b3561693a6302e
+    mime: image/tiff
+    bytes: 17286290
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c5/b3/c5b3d39f4c5c0229b2b27d905b7fa49b8196f68c68d38e67b4b3561693a6302e/preview-400.0b1a2f8b2efc.jpg
+        sha256: 0b1a2f8b2efc7ad92d12d161c9c7bf2e3d7044d805c97e2651baa0b25ae8603b
+        mime: image/jpeg
+        bytes: 20081
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/b3/44/b34414b04243d40a5398e69bec9fd12a64072c9dd5b1b939af47fb214dfd717d/original.tif
+    sha256: b34414b04243d40a5398e69bec9fd12a64072c9dd5b1b939af47fb214dfd717d
+    mime: image/tiff
+    bytes: 7436046
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/44/b34414b04243d40a5398e69bec9fd12a64072c9dd5b1b939af47fb214dfd717d/preview-400.3ac0c1374795.jpg
+        sha256: 3ac0c1374795a888da1143ff1b88a1da5e1e0c801680f48fcdfc4a39e5527c6f
+        mime: image/jpeg
+        bytes: 53466
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

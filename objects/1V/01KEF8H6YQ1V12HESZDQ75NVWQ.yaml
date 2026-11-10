@@ -1,0 +1,51 @@
+id: 01KEF8H6YQ1V12HESZDQ75NVWQ
+type: document
+subtype: brochure
+title: Fachwerkhaus Umbau bei Hochwasser
+date: 2020-07-14
+language: de
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/db/03/db0383d2aec1d56233bf62dbaff068ec29f98b2362d686b729cc546b839b2e4d/original.tif
+    sha256: db0383d2aec1d56233bf62dbaff068ec29f98b2362d686b729cc546b839b2e4d
+    mime: image/tiff
+    bytes: 12670688
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/03/db0383d2aec1d56233bf62dbaff068ec29f98b2362d686b729cc546b839b2e4d/preview-400.ce6d76a1f2e7.jpg
+        sha256: ce6d76a1f2e793492549901cfdeef7f4547010acf8788e877ba2fbd498b7a1f1
+        mime: image/jpeg
+        bytes: 31279
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/08/f9/08f992b8b0f10811afccd20bf50b616c85242927c393254792af030ef4070e8f/original.tif
+    sha256: 08f992b8b0f10811afccd20bf50b616c85242927c393254792af030ef4070e8f
+    mime: image/tiff
+    bytes: 7164863
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/08/f9/08f992b8b0f10811afccd20bf50b616c85242927c393254792af030ef4070e8f/preview-400.b310e728055c.jpg
+        sha256: b310e728055c5b95b98beedea8b42671b91426dcd387755dc7f007b2d840c840
+        mime: image/jpeg
+        bytes: 77110
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

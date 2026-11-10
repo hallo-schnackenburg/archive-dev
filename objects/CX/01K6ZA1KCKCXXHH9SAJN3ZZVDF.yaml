@@ -1,0 +1,39 @@
+id: 01K6ZA1KCKCXXHH9SAJN3ZZVDF
+type: image
+subtype: photo
+title: Brücke Brief zur Wende
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1864-09
+location: Lenzen, Hochwasser
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Dieter Ahrens
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/f1/5d/f15db2675794b29ab1faab3a1ce02cacb02d1c7e6d42d9b9a94a14024e18fdf1/original.jpg
+    sha256: f15db2675794b29ab1faab3a1ce02cacb02d1c7e6d42d9b9a94a14024e18fdf1
+    mime: image/jpeg
+    bytes: 17832645
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f1/5d/f15db2675794b29ab1faab3a1ce02cacb02d1c7e6d42d9b9a94a14024e18fdf1/preview-400.7a74844d85d3.jpg
+        sha256: 7a74844d85d3e81d89f6909eb7bb57431720fbb338e18ba78c2e9d24f43f5237
+        mime: image/jpeg
+        bytes: 29362
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

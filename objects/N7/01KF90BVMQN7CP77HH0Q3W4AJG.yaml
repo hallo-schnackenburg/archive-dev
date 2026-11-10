@@ -1,0 +1,47 @@
+id: 01KF90BVMQN7CP77HH0Q3W4AJG
+type: image
+subtype: photo
+title: Grenzturm Besuch am Morgen
+description: Bahnhof und rathaus, nach dem Krieg.
+date: "1952"
+location: Pretzier, Brücke
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Anni Jeß
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/27/6e/276ee39347b39bbf9f42059465380595d4781b36eb37100c751298c5f7b4f617/original.jpg
+    sha256: 276ee39347b39bbf9f42059465380595d4781b36eb37100c751298c5f7b4f617
+    mime: image/jpeg
+    bytes: 1935940
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/27/6e/276ee39347b39bbf9f42059465380595d4781b36eb37100c751298c5f7b4f617/preview-400.7cdce56d329d.jpg
+        sha256: 7cdce56d329df3c05e65e5f6de477af7969e6d6efcf9e6d2f3c3427821c5c08a
+        mime: image/jpeg
+        bytes: 75102
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

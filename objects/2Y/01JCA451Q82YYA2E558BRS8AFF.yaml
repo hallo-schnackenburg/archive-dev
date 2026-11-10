@@ -1,0 +1,39 @@
+id: 01JCA451Q82YYA2E558BRS8AFF
+type: image
+subtype: photo
+title: Hochwasser Entwurf am Morgen
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: "1859"
+location: Pretzier, Zollamt
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Gerda Schulz
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/a6/f9/a6f93822e0942172e3fa854fad75faa69942273aad4caf78753d6fdfa45eac01/original.jpg
+    sha256: a6f93822e0942172e3fa854fad75faa69942273aad4caf78753d6fdfa45eac01
+    mime: image/jpeg
+    bytes: 6838862
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a6/f9/a6f93822e0942172e3fa854fad75faa69942273aad4caf78753d6fdfa45eac01/preview-400.9f9617e51e51.jpg
+        sha256: 9f9617e51e5172e0c70b02f58028cdfa89fdc06bfad6096e8984de969503e242
+        mime: image/jpeg
+        bytes: 20179
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

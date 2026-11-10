@@ -1,0 +1,51 @@
+id: 01GRFJN0G7X1XB04C3FCAHKQGF
+type: document
+subtype: brochure
+title: Elbufer Abriss zur Wende
+date: 1986-02
+language: de
+origin:
+  name: Marta Lüders
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/c1/01/c1016093371232128f8a49cb4bb0a89b388a6aea8c22e8872be906918e9ae817/original.tif
+    sha256: c1016093371232128f8a49cb4bb0a89b388a6aea8c22e8872be906918e9ae817
+    mime: image/tiff
+    bytes: 25302559
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c1/01/c1016093371232128f8a49cb4bb0a89b388a6aea8c22e8872be906918e9ae817/preview-400.fd42f74a6575.jpg
+        sha256: fd42f74a65759924194293ca9d0a781aaefefa15c2790ce96387a0270b3606b0
+        mime: image/jpeg
+        bytes: 80553
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/92/13/9213f0c01778c7ce39bfd7f432194046421671542cd375712c0c3640c25f5048/original.tif
+    sha256: 9213f0c01778c7ce39bfd7f432194046421671542cd375712c0c3640c25f5048
+    mime: image/tiff
+    bytes: 15777868
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/13/9213f0c01778c7ce39bfd7f432194046421671542cd375712c0c3640c25f5048/preview-400.98b66d13b9fa.jpg
+        sha256: 98b66d13b9fa0c9541eae92c168bce98e2bf9f814bd33caea04f6cd0191efdb7
+        mime: image/jpeg
+        bytes: 35804
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

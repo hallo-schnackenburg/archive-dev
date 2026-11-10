@@ -1,0 +1,39 @@
+id: 01K5MK6DC32P9XT322G6X0STXW
+type: image
+subtype: photo
+title: Mühle Besuch am Sonntag
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: "1932"
+location: Schnackenburg, Hafen
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Rudolf Garms
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/e0/36/e0369c03860ee83a98a51be8faac321239ac50606ec9ac16429fcde08ba9278d/original.jpg
+    sha256: e0369c03860ee83a98a51be8faac321239ac50606ec9ac16429fcde08ba9278d
+    mime: image/jpeg
+    bytes: 16170044
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e0/36/e0369c03860ee83a98a51be8faac321239ac50606ec9ac16429fcde08ba9278d/preview-400.b1bb511d282a.jpg
+        sha256: b1bb511d282afeaf26e74049849371f871f11cfba0144c42fdaa9cfa3fb72d17
+        mime: image/jpeg
+        bytes: 56534
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,53 @@
+id: 01H2K4FR4QKXNZJYET0SKX72C8
+type: document
+subtype: letter
+title: Dorfteich Umzug zu Pfingsten
+description: Schreibt über die Ernte und das Wetter.
+date: "1857"
+language: de
+origin:
+  name: Helga Plate
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/cb/b0/cbb06ef0130ec0fbd5602e319ae14006f8166bdc3d893281668a47d4f6e01224/original.tif
+    sha256: cbb06ef0130ec0fbd5602e319ae14006f8166bdc3d893281668a47d4f6e01224
+    mime: image/tiff
+    bytes: 13333368
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cb/b0/cbb06ef0130ec0fbd5602e319ae14006f8166bdc3d893281668a47d4f6e01224/preview-400.fa8d6ccaaaff.jpg
+        sha256: fa8d6ccaaaff63cac4d8f026d33da1cec3e26c44e6dc9f5d685a34ce7b27cdf8
+        mime: image/jpeg
+        bytes: 44536
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/9d/11/9d11fea970dfee96327c007fa4db4fcbca4a5932dd5ccba3e759fbbfd46e889a/original.tif
+    sha256: 9d11fea970dfee96327c007fa4db4fcbca4a5932dd5ccba3e759fbbfd46e889a
+    mime: image/tiff
+    bytes: 18600616
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9d/11/9d11fea970dfee96327c007fa4db4fcbca4a5932dd5ccba3e759fbbfd46e889a/preview-400.8453b8c75631.jpg
+        sha256: 8453b8c7563166b4b41a91f108907ecaddb3fe625c7436d460d5eba591a8203d
+        mime: image/jpeg
+        bytes: 47661
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

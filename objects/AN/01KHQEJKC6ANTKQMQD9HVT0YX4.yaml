@@ -1,0 +1,51 @@
+id: 01KHQEJKC6ANTKQMQD9HVT0YX4
+type: document
+subtype: brochure
+title: Grenzturm Ansicht zu Pfingsten
+date: 1907/1908
+language: de
+origin:
+  name: Marta Lüders
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/24/5f/245f385874db720c104f18232191146edb62c573e21225531e340c9f463c3051/original.tif
+    sha256: 245f385874db720c104f18232191146edb62c573e21225531e340c9f463c3051
+    mime: image/tiff
+    bytes: 24672199
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/24/5f/245f385874db720c104f18232191146edb62c573e21225531e340c9f463c3051/preview-400.dc0e281764e7.jpg
+        sha256: dc0e281764e7216394427ba02957256b9ff54fae23e0389a7ed0e7cd9e91bbb2
+        mime: image/jpeg
+        bytes: 74975
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/38/a5/38a55150f35930e081481a93ab2b22594694a54fd21cc6c3befe82bf105b94a8/original.tif
+    sha256: 38a55150f35930e081481a93ab2b22594694a54fd21cc6c3befe82bf105b94a8
+    mime: image/tiff
+    bytes: 13778220
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/38/a5/38a55150f35930e081481a93ab2b22594694a54fd21cc6c3befe82bf105b94a8/preview-400.4a1206c922a2.jpg
+        sha256: 4a1206c922a2a64ffb0e212ff0c78495b076ed0b7af63a6185ebfcf8a2ee0e7d
+        mime: image/jpeg
+        bytes: 24590
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

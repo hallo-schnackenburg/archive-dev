@@ -1,0 +1,34 @@
+id: 01K4QK2MXERK3H6JZ6FWF6JJZN
+type: image
+subtype: plan
+title: Fachwerkhaus Abriss nach dem Krieg
+date: 1959-08-26
+location: Gartow, Feuerwehr
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/7b/26/7b2630bd5c3477018d93c644f48bb3323894ae9a30c1587d40cc48323bdec48b/original.tif
+    sha256: 7b2630bd5c3477018d93c644f48bb3323894ae9a30c1587d40cc48323bdec48b
+    mime: image/tiff
+    bytes: 19406078
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7b/26/7b2630bd5c3477018d93c644f48bb3323894ae9a30c1587d40cc48323bdec48b/preview-400.ae35830d5229.jpg
+        sha256: ae35830d5229ba5bbc5e226632f479229be7f6345a9a72be9ef92b3b820d04dd
+        mime: image/jpeg
+        bytes: 56057
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

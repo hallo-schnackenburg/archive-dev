@@ -1,0 +1,51 @@
+id: 01FH9957VAK69PW99FVB45D25V
+type: document
+subtype: brochure
+title: Feuerwehr Bericht im Sommer
+date: 1914-04-06
+language: de
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/24/54/245412e7182121aa6937d7e2d6a81fa0454427cdac68eb82e952aae61196a76d/original.tif
+    sha256: 245412e7182121aa6937d7e2d6a81fa0454427cdac68eb82e952aae61196a76d
+    mime: image/tiff
+    bytes: 10056479
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/24/54/245412e7182121aa6937d7e2d6a81fa0454427cdac68eb82e952aae61196a76d/preview-400.3e3024b46767.jpg
+        sha256: 3e3024b467674ad92a44d5f2f302a2019df594424eaa1251067b35bc6a967026
+        mime: image/jpeg
+        bytes: 44248
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/f4/67/f467c2ebe49141a5b6e09eb55d35dd7fbc346c3a07aa5557c551943672126854/original.tif
+    sha256: f467c2ebe49141a5b6e09eb55d35dd7fbc346c3a07aa5557c551943672126854
+    mime: image/tiff
+    bytes: 17100840
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f4/67/f467c2ebe49141a5b6e09eb55d35dd7fbc346c3a07aa5557c551943672126854/preview-400.be61bdeee9ca.jpg
+        sha256: be61bdeee9ca05cc1d88284fc72aa7d92cda1dc98d2c30c38af8fc334bc3ccf4
+        mime: image/jpeg
+        bytes: 26436
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

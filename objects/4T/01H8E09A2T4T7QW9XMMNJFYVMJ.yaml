@@ -1,0 +1,39 @@
+id: 01H8E09A2T4T7QW9XMMNJFYVMJ
+type: image
+subtype: photo
+title: Bäckerei Umbau am Morgen
+date: 1850/1851
+location: Schnackenburg, Mühle
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Anni Jeß
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/f4/ea/f4ead38a451a2996c7f0114712e363729f296f72cb01f80fe0550725f27952c6/original.jpg
+    sha256: f4ead38a451a2996c7f0114712e363729f296f72cb01f80fe0550725f27952c6
+    mime: image/jpeg
+    bytes: 13925207
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f4/ea/f4ead38a451a2996c7f0114712e363729f296f72cb01f80fe0550725f27952c6/preview-400.eb1e6166fa04.jpg
+        sha256: eb1e6166fa04e4fb8a952490ee4cadc07d204e37fcd4141c5a0305e34ca38d40
+        mime: image/jpeg
+        bytes: 66944
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,33 @@
+id: 01H1BS3JQAFJZW8GKHXM8D6J0V
+type: document
+subtype: letter
+title: Elbufer Notiz nach dem Krieg
+date: 2021/2027
+language: de
+location: Kapern, Bahnhof
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+recipient: Gemeinde Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: landrat_faehre_001.tif
+    path: files/f5/54/f554682d47a07ba00eaa565b8469b1a2314804e74921c10c0920ac9c239330d8/original.tif
+    sha256: f554682d47a07ba00eaa565b8469b1a2314804e74921c10c0920ac9c239330d8
+    mime: image/tiff
+    bytes: 4311197
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f5/54/f554682d47a07ba00eaa565b8469b1a2314804e74921c10c0920ac9c239330d8/preview-400.f0b206be07d1.jpg
+        sha256: f0b206be07d1075c22b82e8f950f506259d783b57b87490dc862a767541f9f69
+        mime: image/jpeg
+        bytes: 70546
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

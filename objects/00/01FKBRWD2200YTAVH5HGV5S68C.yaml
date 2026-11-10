@@ -1,0 +1,39 @@
+id: 01FKBRWD2200YTAVH5HGV5S68C
+type: image
+subtype: photo
+title: Feuerwehr Umzug am Sonntag
+date: 1931-11-05
+location: Restorf, Schmiede
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/30/b8/30b86ba13f9271bff86a6d839ba1dabe0bd9d9362053fed40e675964f7b275c2/original.jpg
+    sha256: 30b86ba13f9271bff86a6d839ba1dabe0bd9d9362053fed40e675964f7b275c2
+    mime: image/jpeg
+    bytes: 12289749
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/30/b8/30b86ba13f9271bff86a6d839ba1dabe0bd9d9362053fed40e675964f7b275c2/preview-400.2431dd569e22.jpg
+        sha256: 2431dd569e2285077b891821374515808f3e53235e53adb348d8984c96a3b8ae
+        mime: image/jpeg
+        bytes: 26587
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

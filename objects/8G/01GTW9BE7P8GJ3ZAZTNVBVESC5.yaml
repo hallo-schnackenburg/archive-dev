@@ -1,0 +1,34 @@
+id: 01GTW9BE7P8GJ3ZAZTNVBVESC5
+type: image
+subtype: print
+title: Elbufer Umbau bei Hochwasser
+description: Kupferstich.
+date: 1902~
+origin:
+  name: Erika Voss
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/dc/22/dc22f15cac30c48a42d5bf69d1531cff8f97a5817f5268597712e537834e9d59/original.tif
+    sha256: dc22f15cac30c48a42d5bf69d1531cff8f97a5817f5268597712e537834e9d59
+    mime: image/tiff
+    bytes: 16198276
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/22/dc22f15cac30c48a42d5bf69d1531cff8f97a5817f5268597712e537834e9d59/preview-400.6c511404548c.jpg
+        sha256: 6c511404548ceef4a27931444d438bbf509312e3e0b5a84bc7157b11adc9d3ac
+        mime: image/jpeg
+        bytes: 21336
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

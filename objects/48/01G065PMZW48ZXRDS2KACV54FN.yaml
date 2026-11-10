@@ -1,0 +1,39 @@
+id: 01G065PMZW48ZXRDS2KACV54FN
+type: image
+subtype: photo
+title: Elbdeich Ansicht nach dem Krieg
+date: "1905"
+location: Gorleben, Marktplatz
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/ba/6b/ba6b7112e5dc57240b503123faadf561f25523c8f75ba68159ce03766c067ba1/original.jpg
+    sha256: ba6b7112e5dc57240b503123faadf561f25523c8f75ba68159ce03766c067ba1
+    mime: image/jpeg
+    bytes: 17315003
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ba/6b/ba6b7112e5dc57240b503123faadf561f25523c8f75ba68159ce03766c067ba1/preview-400.d083cf5f53cc.jpg
+        sha256: d083cf5f53ccc837a684b643d4cd77f20b0d892aba226b8924c266969932e537
+        mime: image/jpeg
+        bytes: 49253
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01JY98QGFB6D8BAVQ19JKZ2ZKF
+type: image
+subtype: plan
+title: Molkerei Aufnahme im Sommer
+date: 1952/1957
+location: Schnackenburg, Grenzturm
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/da/d3/dad377f8db30e8c884d2d2a4b2d760eb2edb008e4654e66961977ca71ec6eddd/original.tif
+    sha256: dad377f8db30e8c884d2d2a4b2d760eb2edb008e4654e66961977ca71ec6eddd
+    mime: image/tiff
+    bytes: 611149
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/d3/dad377f8db30e8c884d2d2a4b2d760eb2edb008e4654e66961977ca71ec6eddd/preview-400.88690a2ca43a.jpg
+        sha256: 88690a2ca43abd5da41793a072d3d9b1205bcfd917692b6137a051b85319e190
+        mime: image/jpeg
+        bytes: 59139
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

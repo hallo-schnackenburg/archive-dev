@@ -1,0 +1,53 @@
+id: 01F387DMV5NW5572334F6WJY4D
+type: document
+subtype: letter
+title: Rathaus Festtag im Winter
+description: Schreibt über die Ernte und das Wetter.
+date: 1865-12
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/89/9c/899c759eb399ae5ee42909ce75b2de2ee2d73a73f9672a2b3b37b18a65beb5c6/original.tif
+    sha256: 899c759eb399ae5ee42909ce75b2de2ee2d73a73f9672a2b3b37b18a65beb5c6
+    mime: image/tiff
+    bytes: 10946828
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/89/9c/899c759eb399ae5ee42909ce75b2de2ee2d73a73f9672a2b3b37b18a65beb5c6/preview-400.f0634a566944.jpg
+        sha256: f0634a5669445019cfa2b53a13a310f3d8e3631d57cf4956f610aa591d9026da
+        mime: image/jpeg
+        bytes: 52015
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/70/ef/70ef0011ffdb2d2294bf06404001d30f5f66766a468066d2a7563416435ebe99/original.tif
+    sha256: 70ef0011ffdb2d2294bf06404001d30f5f66766a468066d2a7563416435ebe99
+    mime: image/tiff
+    bytes: 1196095
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/70/ef/70ef0011ffdb2d2294bf06404001d30f5f66766a468066d2a7563416435ebe99/preview-400.10551b3245ca.jpg
+        sha256: 10551b3245cace001b705891f9651262b35554049126bfd67148210875a6cd3a
+        mime: image/jpeg
+        bytes: 63631
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

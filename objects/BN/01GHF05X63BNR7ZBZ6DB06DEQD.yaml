@@ -1,0 +1,37 @@
+id: 01GHF05X63BNR7ZBZ6DB06DEQD
+type: image
+subtype: print
+title: Gasthof Umzug im Winter
+date: 1935-05-11
+location: Gorleben, Hafen
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/fd/0a/fd0a7b87e451abeba22005d94c04cd4395a1bc5c9a74a2e9f40e7d38c386b09f/original.tif
+    sha256: fd0a7b87e451abeba22005d94c04cd4395a1bc5c9a74a2e9f40e7d38c386b09f
+    mime: image/tiff
+    bytes: 15089614
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fd/0a/fd0a7b87e451abeba22005d94c04cd4395a1bc5c9a74a2e9f40e7d38c386b09f/preview-400.6bf5dca9f230.jpg
+        sha256: 6bf5dca9f23058015666715746832c94155ee252595bffa7ab83b872db472793
+        mime: image/jpeg
+        bytes: 37741
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

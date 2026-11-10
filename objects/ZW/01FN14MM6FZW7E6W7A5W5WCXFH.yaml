@@ -1,0 +1,34 @@
+id: 01FN14MM6FZW7E6W7A5W5WCXFH
+type: image
+subtype: print
+title: Marktplatz Besuch zur Ernte
+description: Kupferstich.
+date: 1894-04-18
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/02/5e/025e78c87c7da7828750b40aec8083b8ca987cf54b6598ce7e3338ffcf202a22/original.tif
+    sha256: 025e78c87c7da7828750b40aec8083b8ca987cf54b6598ce7e3338ffcf202a22
+    mime: image/tiff
+    bytes: 24760853
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/5e/025e78c87c7da7828750b40aec8083b8ca987cf54b6598ce7e3338ffcf202a22/preview-400.aa8395a503ed.jpg
+        sha256: aa8395a503ed2f47a7f7b8fa82d65d2d8fe37d90f40220a719dc88608510c6e1
+        mime: image/jpeg
+        bytes: 27678
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

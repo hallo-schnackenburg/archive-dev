@@ -1,0 +1,35 @@
+id: 01KK9SWCQH58SPGR987P849MN8
+type: image
+subtype: photo
+title: Storchennest Zeichnung zur Ernte
+date: "1941"
+location: Gartow, Schützenfest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/62/e1/62e1ed9658769387b65e3378b8ad936af1c5600c9da16025431fb415a1d2fe3c/original.jpg
+    sha256: 62e1ed9658769387b65e3378b8ad936af1c5600c9da16025431fb415a1d2fe3c
+    mime: image/jpeg
+    bytes: 2888732
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/62/e1/62e1ed9658769387b65e3378b8ad936af1c5600c9da16025431fb415a1d2fe3c/preview-400.883884278771.jpg
+        sha256: 883884278771cddaca6dccc1da452bb89429045e7429e5e3edfaecec27d27e9a
+        mime: image/jpeg
+        bytes: 30480
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

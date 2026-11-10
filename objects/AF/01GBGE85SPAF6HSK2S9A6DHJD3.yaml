@@ -1,0 +1,53 @@
+id: 01GBGE85SPAF6HSK2S9A6DHJD3
+type: document
+subtype: letter
+title: Mühle Festtag am Morgen
+description: Kirche St. Johannis und brücke, nach dem Krieg.
+date: "1883"
+language: de
+origin:
+  name: Erika Voss
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/ef/81/ef8131789da3cd9c94c78e367e4e6335ccdbd6a2f11ff9ac8d0614de2af60376/original.tif
+    sha256: ef8131789da3cd9c94c78e367e4e6335ccdbd6a2f11ff9ac8d0614de2af60376
+    mime: image/tiff
+    bytes: 7602717
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ef/81/ef8131789da3cd9c94c78e367e4e6335ccdbd6a2f11ff9ac8d0614de2af60376/preview-400.90ce2ddffd92.jpg
+        sha256: 90ce2ddffd9212d82a8e52e8dd42d2c5bfefa317a6538bbbf80e6d451c90e8df
+        mime: image/jpeg
+        bytes: 88217
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/ed/3e/ed3e0b5130d1b34905407123e54f709dad8252809f8b0d349e6e2b48ebfff599/original.tif
+    sha256: ed3e0b5130d1b34905407123e54f709dad8252809f8b0d349e6e2b48ebfff599
+    mime: image/tiff
+    bytes: 522109
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ed/3e/ed3e0b5130d1b34905407123e54f709dad8252809f8b0d349e6e2b48ebfff599/preview-400.bf4c346c6c3f.jpg
+        sha256: bf4c346c6c3fb686553ec766b122f90d816bb9ab76505a3ed69067d96727934b
+        mime: image/jpeg
+        bytes: 25416
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

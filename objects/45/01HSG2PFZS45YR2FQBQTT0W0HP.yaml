@@ -1,0 +1,34 @@
+id: 01HSG2PFZS45YR2FQBQTT0W0HP
+type: image
+subtype: plan
+title: Dorfteich Ansicht am Sonntag
+date: 2005/2008
+location: Restorf, Gasthof
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/2f/50/2f5033c1b24ee596145f36f71fe82867921e20cb727a55542d0eaba6df1090be/original.tif
+    sha256: 2f5033c1b24ee596145f36f71fe82867921e20cb727a55542d0eaba6df1090be
+    mime: image/tiff
+    bytes: 2424008
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2f/50/2f5033c1b24ee596145f36f71fe82867921e20cb727a55542d0eaba6df1090be/preview-400.a402a60d5a6b.jpg
+        sha256: a402a60d5a6bd6383d6e62c634e1b2fe4cf27b640ef94bb79ce610f7fc8b4f45
+        mime: image/jpeg
+        bytes: 45855
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

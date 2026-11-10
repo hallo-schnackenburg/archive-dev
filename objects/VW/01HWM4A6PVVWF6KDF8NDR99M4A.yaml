@@ -1,0 +1,37 @@
+id: 01HWM4A6PVVWF6KDF8NDR99M4A
+type: image
+subtype: print
+title: Bahnhof Entwurf am Morgen
+date: 1908-03-16
+location: Lenzen, Kindergarten
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/35/92/3592be4c5b51e9b1dfb006630efb5573b180a540eda7a3c284d0b413bfb20f08/original.tif
+    sha256: 3592be4c5b51e9b1dfb006630efb5573b180a540eda7a3c284d0b413bfb20f08
+    mime: image/tiff
+    bytes: 14217453
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/35/92/3592be4c5b51e9b1dfb006630efb5573b180a540eda7a3c284d0b413bfb20f08/preview-400.d926c7732a4d.jpg
+        sha256: d926c7732a4d945fa8bdf4e1e5c399359e972714e36ce4de20d7261026404649
+        mime: image/jpeg
+        bytes: 26431
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

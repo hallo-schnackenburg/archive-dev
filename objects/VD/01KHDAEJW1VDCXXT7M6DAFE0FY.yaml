@@ -1,0 +1,35 @@
+id: 01KHDAEJW1VDCXXT7M6DAFE0FY
+type: image
+subtype: photo
+title: Feuerwehr Brief nach dem Krieg
+date: 1850-09-26
+location: Pretzier, Dorfschule
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/b2/ce/b2ce8089bfb36c3d1f018a3d0e68b66d5a15846163c35bb0d4521e82435807af/original.jpg
+    sha256: b2ce8089bfb36c3d1f018a3d0e68b66d5a15846163c35bb0d4521e82435807af
+    mime: image/jpeg
+    bytes: 10943101
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b2/ce/b2ce8089bfb36c3d1f018a3d0e68b66d5a15846163c35bb0d4521e82435807af/preview-400.af9d9edf8c48.jpg
+        sha256: af9d9edf8c482739a6a0cb922c50ce7aab5a8a6baa5a76154490eea5b132dd3d
+        mime: image/jpeg
+        bytes: 51834
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

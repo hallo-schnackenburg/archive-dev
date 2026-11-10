@@ -1,0 +1,34 @@
+id: 01G5RMS823ZFEBX7MBGQCC404C
+type: image
+subtype: plan
+title: Rathaus Umzug am Sonntag
+date: "1968"
+location: Pretzier, Schützenfest
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/0e/d6/0ed679e13b50e9fc3a69414c7fd235ec87e2164a1caf491eb2713ae5e100e48f/original.tif
+    sha256: 0ed679e13b50e9fc3a69414c7fd235ec87e2164a1caf491eb2713ae5e100e48f
+    mime: image/tiff
+    bytes: 20156524
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0e/d6/0ed679e13b50e9fc3a69414c7fd235ec87e2164a1caf491eb2713ae5e100e48f/preview-400.dd7bac9a76e8.jpg
+        sha256: dd7bac9a76e857321056043b4892e348c8f6f0154ccb58b69180f167c143daa3
+        mime: image/jpeg
+        bytes: 67377
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01G35EHW9QD8ZV3NNMFJSBDVDE
+type: image
+subtype: plan
+title: Gemeindehaus Brief im Sommer
+date: 1944-09-19
+location: Pretzier, Sportplatz
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/e4/d3/e4d34683cda124e3742f5ce129afa0bcea532a6a12487a8e482277ce450bb983/original.tif
+    sha256: e4d34683cda124e3742f5ce129afa0bcea532a6a12487a8e482277ce450bb983
+    mime: image/tiff
+    bytes: 439124
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e4/d3/e4d34683cda124e3742f5ce129afa0bcea532a6a12487a8e482277ce450bb983/preview-400.30e17325cab8.jpg
+        sha256: 30e17325cab81942046bbfd9fd76f70c66de2d2605aca6ae25143b1daebe3c8c
+        mime: image/jpeg
+        bytes: 47619
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

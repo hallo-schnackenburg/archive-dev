@@ -1,0 +1,39 @@
+id: 01J4NCVVAF7146CP634A20BC2V
+type: image
+subtype: photo
+title: Marktplatz Bericht am Sonntag
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 2020-10
+location: Restorf, Rathaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Rudolf Garms
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/8d/8d/8d8db68c0e08a9a1b2ff92f088c982f1548b8ebb359e070e6762f452efce07f0/original.jpg
+    sha256: 8d8db68c0e08a9a1b2ff92f088c982f1548b8ebb359e070e6762f452efce07f0
+    mime: image/jpeg
+    bytes: 17246772
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/8d/8d/8d8db68c0e08a9a1b2ff92f088c982f1548b8ebb359e070e6762f452efce07f0/preview-400.d126fad923ec.jpg
+        sha256: d126fad923ec1d080dbd3090632112bfe51d44d2698c4b15a8211a5bc300c9f7
+        mime: image/jpeg
+        bytes: 44148
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

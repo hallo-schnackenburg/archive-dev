@@ -1,0 +1,35 @@
+id: 01KJAPEMAHZKERH4KGDEKSWJZD
+type: image
+subtype: photo
+title: Sportplatz Notiz zu Pfingsten
+date: 1929-12
+location: Schnackenburg, Ernte
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/82/48/8248d617b7c25bcef325dc538a805b8313135075ec8f4f23b9cc242edf5f9ec6/original.jpg
+    sha256: 8248d617b7c25bcef325dc538a805b8313135075ec8f4f23b9cc242edf5f9ec6
+    mime: image/jpeg
+    bytes: 15497044
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/82/48/8248d617b7c25bcef325dc538a805b8313135075ec8f4f23b9cc242edf5f9ec6/preview-400.d062a443d3f6.jpg
+        sha256: d062a443d3f6ab63a1b1d4645c20d58b09cb774a030b706452b753fd74b4b045
+        mime: image/jpeg
+        bytes: 29781
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,53 @@
+id: 01G029WBSMNCBAKJR40YAMFYZN
+type: document
+subtype: letter
+title: Bahnhof Ansicht nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: 1928-07-23
+language: de
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/e8/ee/e8eed2ff1f808f58dd87b7c4569325712fa2b20165c6888ec93b1eed08a2b26f/original.tif
+    sha256: e8eed2ff1f808f58dd87b7c4569325712fa2b20165c6888ec93b1eed08a2b26f
+    mime: image/tiff
+    bytes: 6681342
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/ee/e8eed2ff1f808f58dd87b7c4569325712fa2b20165c6888ec93b1eed08a2b26f/preview-400.15e387a4b916.jpg
+        sha256: 15e387a4b916649be54f9232c21611f59031de01baa0f39002ce4e81d5d1999b
+        mime: image/jpeg
+        bytes: 53643
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/71/a7/71a7ebfae89cdddeb2986c40ab7e880dd155c814648f0d61ccff5e0a0fdc1745/original.tif
+    sha256: 71a7ebfae89cdddeb2986c40ab7e880dd155c814648f0d61ccff5e0a0fdc1745
+    mime: image/tiff
+    bytes: 17121571
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/71/a7/71a7ebfae89cdddeb2986c40ab7e880dd155c814648f0d61ccff5e0a0fdc1745/preview-400.b4f2bcae4897.jpg
+        sha256: b4f2bcae489718538876fb23540d27c8fdb0cd69c299c29ef5908ee6d4a46a65
+        mime: image/jpeg
+        bytes: 79403
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

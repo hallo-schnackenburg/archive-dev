@@ -1,0 +1,34 @@
+id: 01HRH2VCNSZMD5KJ9PMFPGDY1C
+type: image
+subtype: print
+title: Sportplatz Bericht im Sommer
+description: Friedhof und dorfschule, nach dem Krieg.
+date: 1875-04-20
+origin:
+  name: Otto Hennings
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/81/b5/81b5af49c3ff1da7b42ec0734d39fdd441a05bcc298b70df194a99cd297812db/original.tif
+    sha256: 81b5af49c3ff1da7b42ec0734d39fdd441a05bcc298b70df194a99cd297812db
+    mime: image/tiff
+    bytes: 12970027
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/81/b5/81b5af49c3ff1da7b42ec0734d39fdd441a05bcc298b70df194a99cd297812db/preview-400.7df9a58b7690.jpg
+        sha256: 7df9a58b7690ce04a6b9e4ec9c036f38e461dfa2121a33cd7e49c56962f717ec
+        mime: image/jpeg
+        bytes: 76335
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

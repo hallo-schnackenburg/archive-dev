@@ -1,0 +1,53 @@
+id: 01JJWT2EB0WBBFM4N30P9DW0J3
+type: document
+subtype: letter
+title: Zollamt Zeichnung zur Ernte
+description: Schreibt über die Ernte und das Wetter.
+date: 1942-02-07
+language: de
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/61/5f/615fe49676a7a4cf580571a6ba418c16166869906373ba35d394fcbadf8af4a8/original.tif
+    sha256: 615fe49676a7a4cf580571a6ba418c16166869906373ba35d394fcbadf8af4a8
+    mime: image/tiff
+    bytes: 26340894
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/61/5f/615fe49676a7a4cf580571a6ba418c16166869906373ba35d394fcbadf8af4a8/preview-400.f9674982254d.jpg
+        sha256: f9674982254d816558df15aaf43e801a3defa21b445b24902c4b53e0b9688438
+        mime: image/jpeg
+        bytes: 62443
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/47/0d/470d0d37492535f53139fc391ee5978cc455efd73c3821c676bc8380209283e0/original.tif
+    sha256: 470d0d37492535f53139fc391ee5978cc455efd73c3821c676bc8380209283e0
+    mime: image/tiff
+    bytes: 906339
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/47/0d/470d0d37492535f53139fc391ee5978cc455efd73c3821c676bc8380209283e0/preview-400.92cf9270396f.jpg
+        sha256: 92cf9270396f14195657d1f254fef1cfa97e0bdd76c7c487c6548d2e4c0f50ae
+        mime: image/jpeg
+        bytes: 83027
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

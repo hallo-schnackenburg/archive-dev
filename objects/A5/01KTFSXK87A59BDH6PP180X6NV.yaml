@@ -1,0 +1,51 @@
+id: 01KTFSXK87A59BDH6PP180X6NV
+type: document
+subtype: brochure
+title: Brücke Notiz vor dem Umbau
+date: "1907"
+language: de
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/42/32/42321dc009b30e562b7227bc8dfd2b864e7d89d85a2dbcedef8ed9ec65db7074/original.tif
+    sha256: 42321dc009b30e562b7227bc8dfd2b864e7d89d85a2dbcedef8ed9ec65db7074
+    mime: image/tiff
+    bytes: 25022860
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/42/32/42321dc009b30e562b7227bc8dfd2b864e7d89d85a2dbcedef8ed9ec65db7074/preview-400.fc61c40d7daa.jpg
+        sha256: fc61c40d7daaefb533521f393615e39c1519c5690eb6bc77cb88af02600ad7ff
+        mime: image/jpeg
+        bytes: 49513
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/1b/a9/1ba9fc1d70ff5e9aa932b1f6725016bb6958bc975f6716a21fd5c9edcb93bd9b/original.tif
+    sha256: 1ba9fc1d70ff5e9aa932b1f6725016bb6958bc975f6716a21fd5c9edcb93bd9b
+    mime: image/tiff
+    bytes: 9842442
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1b/a9/1ba9fc1d70ff5e9aa932b1f6725016bb6958bc975f6716a21fd5c9edcb93bd9b/preview-400.343b106c198a.jpg
+        sha256: 343b106c198a7011b57de91c240596d3b2d7b12f500796173b93022448e347b8
+        mime: image/jpeg
+        bytes: 63642
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01GX18MGBZKDRQVTCFZYJWA9A2
+type: image
+subtype: photo
+title: Schmiede Gruppenbild am Morgen
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: "1930"
+location: Seedorf, Bäckerei
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/ce/cb/cecb207894a26b0e0f92cba6683d246f12ccc90a4866973ee2325ed5e8476963/original.jpg
+    sha256: cecb207894a26b0e0f92cba6683d246f12ccc90a4866973ee2325ed5e8476963
+    mime: image/jpeg
+    bytes: 18510049
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ce/cb/cecb207894a26b0e0f92cba6683d246f12ccc90a4866973ee2325ed5e8476963/preview-400.da7bfae01eb1.jpg
+        sha256: da7bfae01eb1c9682346323597a6d47f4adb618479176f230f64eb8f3de1ff2f
+        mime: image/jpeg
+        bytes: 27508
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01EWDMRFEW24MNH7VSEPZGS9DB
+type: image
+subtype: photo
+title: Dorfteich Prospekt nach dem Krieg
+date: "2001"
+location: Lüchow, Bahnhof
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/e3/05/e305a510f1bfe6cc621cbf397a718b20270afa60b3abbdb5fa8f488f595c9022/original.jpg
+    sha256: e305a510f1bfe6cc621cbf397a718b20270afa60b3abbdb5fa8f488f595c9022
+    mime: image/jpeg
+    bytes: 22759732
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e3/05/e305a510f1bfe6cc621cbf397a718b20270afa60b3abbdb5fa8f488f595c9022/preview-400.5074c5eb4d48.jpg
+        sha256: 5074c5eb4d48bfbd6b2ca7475003dc344e52d3514627c838105a44419bbe0f18
+        mime: image/jpeg
+        bytes: 53586
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

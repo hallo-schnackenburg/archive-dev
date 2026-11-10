@@ -1,0 +1,34 @@
+id: 01KC0EN5FA1JAQ0PRFPK6B4BQM
+type: image
+subtype: plan
+title: Gasthof Jubiläum zur Wende
+date: 1869/1874
+location: Holtorf, Kindergarten
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/00/4b/004be13b4588fb64e3fa9fee733a37cdef1f43b4d8ae9df6acdbc804e0b8d1e2/original.tif
+    sha256: 004be13b4588fb64e3fa9fee733a37cdef1f43b4d8ae9df6acdbc804e0b8d1e2
+    mime: image/tiff
+    bytes: 13373153
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/00/4b/004be13b4588fb64e3fa9fee733a37cdef1f43b4d8ae9df6acdbc804e0b8d1e2/preview-400.383972013791.jpg
+        sha256: 383972013791a052562a9600b3bb187f2cd26565dbb96243654249fb25f369fc
+        mime: image/jpeg
+        bytes: 26716
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

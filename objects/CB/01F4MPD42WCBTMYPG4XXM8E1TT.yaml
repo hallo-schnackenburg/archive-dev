@@ -1,0 +1,37 @@
+id: 01F4MPD42WCBTMYPG4XXM8E1TT
+type: image
+subtype: print
+title: Gemeindehaus Protokoll zur Ernte
+date: 1952-04
+location: Lüchow, Pfarrhaus
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/34/b8/34b8bad9d3a92620f4fd8dd8af24b359ccbe5d3f2a2e428226b1f9cef8390ac5/original.tif
+    sha256: 34b8bad9d3a92620f4fd8dd8af24b359ccbe5d3f2a2e428226b1f9cef8390ac5
+    mime: image/tiff
+    bytes: 16794631
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/34/b8/34b8bad9d3a92620f4fd8dd8af24b359ccbe5d3f2a2e428226b1f9cef8390ac5/preview-400.e0e86ccbcd2b.jpg
+        sha256: e0e86ccbcd2bc4618fe9db7cfba00068c4f3332d6c728c7863af5129bfd61e08
+        mime: image/jpeg
+        bytes: 67476
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

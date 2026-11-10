@@ -1,0 +1,35 @@
+id: 01FSATDQ26QEE3JBPAH3Z74MNB
+type: image
+subtype: photo
+title: Fachwerkhaus Aufnahme am Sonntag
+date: 2005-12-20
+location: Lüchow, Fachwerkhaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/cd/00/cd003c744b894cedfb62571df260806ac453f29cfe560f1bcf1515af51b60e03/original.jpg
+    sha256: cd003c744b894cedfb62571df260806ac453f29cfe560f1bcf1515af51b60e03
+    mime: image/jpeg
+    bytes: 17001532
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/cd/00/cd003c744b894cedfb62571df260806ac453f29cfe560f1bcf1515af51b60e03/preview-400.65804522634a.jpg
+        sha256: 65804522634a12bbcead7cd85c7acfe017107ca92897bdaef37f9e4a50aea8b0
+        mime: image/jpeg
+        bytes: 60860
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

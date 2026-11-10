@@ -1,0 +1,39 @@
+id: 01KZHFW2AZ4XGB852VCES32HAP
+type: image
+subtype: photo
+title: Brunnen Ansicht zur Wende
+date: 1993-01-24
+location: Holtorf, Zollamt
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/f1/b0/f1b0d5972ebf87dc5be851698e2a3c8982bb9361a8e7aec68fffefb53caa5602/original.jpg
+    sha256: f1b0d5972ebf87dc5be851698e2a3c8982bb9361a8e7aec68fffefb53caa5602
+    mime: image/jpeg
+    bytes: 9340968
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f1/b0/f1b0d5972ebf87dc5be851698e2a3c8982bb9361a8e7aec68fffefb53caa5602/preview-400.82813d9d58fe.jpg
+        sha256: 82813d9d58feb14ee11e7820d960dd62108dc80a0ef81fbfacde1f0f760ce279
+        mime: image/jpeg
+        bytes: 51608
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

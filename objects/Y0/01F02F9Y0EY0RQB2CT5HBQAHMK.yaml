@@ -1,0 +1,35 @@
+id: 01F02F9Y0EY0RQB2CT5HBQAHMK
+type: image
+subtype: photo
+title: Bahnhof Brief zur Wende
+date: 2024/2027
+location: Gartow, Grenzturm
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/bb/06/bb0639415f563cb0456008f3f40406dea4717779d3ea5c0fda141dede8bff463/original.jpg
+    sha256: bb0639415f563cb0456008f3f40406dea4717779d3ea5c0fda141dede8bff463
+    mime: image/jpeg
+    bytes: 12382662
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/bb/06/bb0639415f563cb0456008f3f40406dea4717779d3ea5c0fda141dede8bff463/preview-400.2b42932f0d19.jpg
+        sha256: 2b42932f0d1906a50ba50b8eb354a78ffe54ecfe76409f01063864d1bd84c991
+        mime: image/jpeg
+        bytes: 45499
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

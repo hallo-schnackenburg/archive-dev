@@ -1,0 +1,34 @@
+id: 01M0KJ9GZB6GH1RJFRP1FKFWX2
+type: image
+subtype: plan
+title: Dorfteich Umbau bei Hochwasser
+date: 1904-02
+location: Seedorf, Schmiede
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/e0/fc/e0fc7690e6693cef3a479a54fb3e0ebbbfc7bc230a7cc39b740e996538af5e54/original.tif
+    sha256: e0fc7690e6693cef3a479a54fb3e0ebbbfc7bc230a7cc39b740e996538af5e54
+    mime: image/tiff
+    bytes: 14995696
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e0/fc/e0fc7690e6693cef3a479a54fb3e0ebbbfc7bc230a7cc39b740e996538af5e54/preview-400.3cfee0cd87db.jpg
+        sha256: 3cfee0cd87db0902248e2c9b49ea592ffc3fcb6daf589f4b325081f279be1383
+        mime: image/jpeg
+        bytes: 61043
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

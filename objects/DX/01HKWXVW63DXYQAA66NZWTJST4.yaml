@@ -1,0 +1,39 @@
+id: 01HKWXVW63DXYQAA66NZWTJST4
+type: image
+subtype: photo
+title: Gemeindehaus Notiz zu Pfingsten
+description: Gemeindehaus und bahnhof, nach dem Krieg.
+date: 1957/1960
+location: Seedorf, Mühle
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Karl Lemke
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/a0/0d/a00d51b5ce66575386ccde23f0c5ff5e798db6b53d1ddd8fee75740993efd3ab/original.jpg
+    sha256: a00d51b5ce66575386ccde23f0c5ff5e798db6b53d1ddd8fee75740993efd3ab
+    mime: image/jpeg
+    bytes: 5260408
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a0/0d/a00d51b5ce66575386ccde23f0c5ff5e798db6b53d1ddd8fee75740993efd3ab/preview-400.8ebbdb39cae1.jpg
+        sha256: 8ebbdb39cae1ce4972f06d28f7ff7e7e68088f7e0cbc0463c78b01f8a3decc84
+        mime: image/jpeg
+        bytes: 84331
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

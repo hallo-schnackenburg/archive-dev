@@ -1,0 +1,37 @@
+id: 01HFKHDNJPYB9GPSS4RA7GV2GF
+type: image
+subtype: print
+title: Dorfteich Abriss zur Ernte
+date: 1930-10-18
+location: Schnackenburg, Schützenfest
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/70/f9/70f9ecfab38f8869d28b7dcfe706dd15644274d36a9fe200e029170ac1a3d4e4/original.tif
+    sha256: 70f9ecfab38f8869d28b7dcfe706dd15644274d36a9fe200e029170ac1a3d4e4
+    mime: image/tiff
+    bytes: 10711851
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/70/f9/70f9ecfab38f8869d28b7dcfe706dd15644274d36a9fe200e029170ac1a3d4e4/preview-400.bc56195b00a5.jpg
+        sha256: bc56195b00a58b309a91bdaf2f2ae48ddbc70db834bf8bca5256da01a8f47fc0
+        mime: image/jpeg
+        bytes: 46788
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01JZ0PHM2JFSQ1QAKZTSKVW070
+type: image
+subtype: photo
+title: Ernte Jubiläum zur Wende
+date: 1943~
+location: Schnackenburg, Fachwerkhaus
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Wilhelm Krüger
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/ed/0a/ed0ae18aca468d72c8c03b037225f406ca41c605e7773af325701ba101fa0abd/original.jpg
+    sha256: ed0ae18aca468d72c8c03b037225f406ca41c605e7773af325701ba101fa0abd
+    mime: image/jpeg
+    bytes: 15785691
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ed/0a/ed0ae18aca468d72c8c03b037225f406ca41c605e7773af325701ba101fa0abd/preview-400.4b32dbe47fbb.jpg
+        sha256: 4b32dbe47fbbb3782afd90bb3cb587889bcf159643ab25953a8de79bb36c6570
+        mime: image/jpeg
+        bytes: 39815
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

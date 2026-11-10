@@ -1,0 +1,51 @@
+id: 01F17DFBC3481P23FHQV01ZBPE
+type: document
+subtype: brochure
+title: Feuerwehr Notiz im Winter
+date: 1885-01-21
+language: de
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/ef/7f/ef7f75b28ce76280c6d964e1f37f83a992aefe4353ded53d23421272b0a1b654/original.tif
+    sha256: ef7f75b28ce76280c6d964e1f37f83a992aefe4353ded53d23421272b0a1b654
+    mime: image/tiff
+    bytes: 13618056
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ef/7f/ef7f75b28ce76280c6d964e1f37f83a992aefe4353ded53d23421272b0a1b654/preview-400.098341cd41fd.jpg
+        sha256: 098341cd41fd51dc4fbcbb4f3c28d60b9c29ad1a82da67f2505bdbe5e5adcd7a
+        mime: image/jpeg
+        bytes: 63291
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/d7/d2/d7d20fa7f49d38145dca27ec185534797ed717bf275d4adb45b859ea14439a07/original.tif
+    sha256: d7d20fa7f49d38145dca27ec185534797ed717bf275d4adb45b859ea14439a07
+    mime: image/tiff
+    bytes: 16172465
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/d2/d7d20fa7f49d38145dca27ec185534797ed717bf275d4adb45b859ea14439a07/preview-400.a3a074dea49a.jpg
+        sha256: a3a074dea49ac00a37bcb37f844b136c7a6c3733382ed3669d25a05d8a3f5777
+        mime: image/jpeg
+        bytes: 87653
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

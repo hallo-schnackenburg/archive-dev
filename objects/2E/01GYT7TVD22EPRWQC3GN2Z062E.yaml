@@ -1,0 +1,51 @@
+id: 01GYT7TVD22EPRWQC3GN2Z062E
+type: document
+subtype: brochure
+title: Dorfteich Bescheid zur Wende
+date: 1905-02-21
+language: de
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/ae/4d/ae4da5d40f4bda79ae8057a382cea0df3f864293492ef5045012963e7fa2392f/original.tif
+    sha256: ae4da5d40f4bda79ae8057a382cea0df3f864293492ef5045012963e7fa2392f
+    mime: image/tiff
+    bytes: 24624824
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ae/4d/ae4da5d40f4bda79ae8057a382cea0df3f864293492ef5045012963e7fa2392f/preview-400.89978b3a8e33.jpg
+        sha256: 89978b3a8e334898254824fc96c546eebd5a908a89bc9f70db9153a9e254c649
+        mime: image/jpeg
+        bytes: 87831
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/49/ce/49cea07dd792e69696888d2d56128407a9b9e853190f992569972535e101a4d3/original.tif
+    sha256: 49cea07dd792e69696888d2d56128407a9b9e853190f992569972535e101a4d3
+    mime: image/tiff
+    bytes: 8022382
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/49/ce/49cea07dd792e69696888d2d56128407a9b9e853190f992569972535e101a4d3/preview-400.d3c587b34dad.jpg
+        sha256: d3c587b34dadb7e99fcedf18780006eab74d6e5734a1c60ae9e5b517260699f4
+        mime: image/jpeg
+        bytes: 28661
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

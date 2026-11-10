@@ -1,0 +1,39 @@
+id: 01FCX78EGTAT5BQCZHYFBK8ZEX
+type: image
+subtype: photo
+title: Dorfschule Einweihung am Sonntag
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1923-06
+location: Kapern, Storchennest
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/e7/23/e7230503feafb20ffc2f2328354cd75038dbb05c8eb27b015786c950ab45d6d3/original.jpg
+    sha256: e7230503feafb20ffc2f2328354cd75038dbb05c8eb27b015786c950ab45d6d3
+    mime: image/jpeg
+    bytes: 20111900
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e7/23/e7230503feafb20ffc2f2328354cd75038dbb05c8eb27b015786c950ab45d6d3/preview-400.9cbfe74c1c52.jpg
+        sha256: 9cbfe74c1c52ef9f8376791a09ca767b97b3876925f8896d46fb90db1668de81
+        mime: image/jpeg
+        bytes: 31180
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

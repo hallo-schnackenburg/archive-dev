@@ -1,0 +1,39 @@
+id: 01KJ42JCW0BNB3ZZ0FV9EJWSBJ
+type: image
+subtype: photo
+title: Dorfteich Aufnahme zur Ernte
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: "2015"
+location: Holtorf, Feuerwehr
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Anni Jeß
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/6f/c2/6fc2c05492e29a077a1e50c15247432db5fb5793b0b13c9f9c95e2b8af184df8/original.jpg
+    sha256: 6fc2c05492e29a077a1e50c15247432db5fb5793b0b13c9f9c95e2b8af184df8
+    mime: image/jpeg
+    bytes: 26757220
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/6f/c2/6fc2c05492e29a077a1e50c15247432db5fb5793b0b13c9f9c95e2b8af184df8/preview-400.7561d44e22ca.jpg
+        sha256: 7561d44e22cab1d855db4ea245497fd545484055283e7fa03e59869432bf8459
+        mime: image/jpeg
+        bytes: 28321
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

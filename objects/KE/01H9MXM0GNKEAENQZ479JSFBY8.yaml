@@ -1,0 +1,35 @@
+id: 01H9MXM0GNKEAENQZ479JSFBY8
+type: image
+subtype: photo
+title: Bäckerei Entwurf vor dem Umbau
+date: 1969-10
+location: Kapern, Bäckerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/59/a7/59a71371f418dbfba5c4bca458abe8f7fa4fef8b342e8994f95d2e9645852b62/original.jpg
+    sha256: 59a71371f418dbfba5c4bca458abe8f7fa4fef8b342e8994f95d2e9645852b62
+    mime: image/jpeg
+    bytes: 16302157
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/59/a7/59a71371f418dbfba5c4bca458abe8f7fa4fef8b342e8994f95d2e9645852b62/preview-400.dfb1aebf6313.jpg
+        sha256: dfb1aebf631317c9bee073fbbf76ed2b5d51199e564386343dc83ed6c6013106
+        mime: image/jpeg
+        bytes: 43284
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01H3EEADDQ8VGAH24WPR2M8WE1
+type: image
+subtype: plan
+title: Dorfteich Bescheid am Sonntag
+date: "1900"
+location: Holtorf, Schmiede
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/4a/47/4a47415df42397ef6fe92291c2da86d04a8ecb02990ff1ce712c4e48c5b6db84/original.tif
+    sha256: 4a47415df42397ef6fe92291c2da86d04a8ecb02990ff1ce712c4e48c5b6db84
+    mime: image/tiff
+    bytes: 15087270
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4a/47/4a47415df42397ef6fe92291c2da86d04a8ecb02990ff1ce712c4e48c5b6db84/preview-400.e25c0da1929c.jpg
+        sha256: e25c0da1929c680e5248d426ec116229b23fb16f7289dce2b24c2d70d511e901
+        mime: image/jpeg
+        bytes: 44353
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

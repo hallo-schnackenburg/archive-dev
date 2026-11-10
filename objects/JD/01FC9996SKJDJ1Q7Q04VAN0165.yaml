@@ -1,0 +1,34 @@
+id: 01FC9996SKJDJ1Q7Q04VAN0165
+type: image
+subtype: plan
+title: Marktplatz Rechnung vor dem Umbau
+date: 2016-07
+location: Kapern, Fachwerkhaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/cd/4a/cd4a21595c62ba2bb93ee288943c78da8d5ae0be675e198c174c8df2b5a58e05/original.tif
+    sha256: cd4a21595c62ba2bb93ee288943c78da8d5ae0be675e198c174c8df2b5a58e05
+    mime: image/tiff
+    bytes: 26792265
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/4a/cd4a21595c62ba2bb93ee288943c78da8d5ae0be675e198c174c8df2b5a58e05/preview-400.2475f95321b5.jpg
+        sha256: 2475f95321b5dc5de3b7e3afbb9b2b97dbb3e9fccd975d8837a796acfbd67efe
+        mime: image/jpeg
+        bytes: 20413
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

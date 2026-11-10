@@ -1,0 +1,53 @@
+id: 01F9H9RSEYVW48HXTFMD5BPFYF
+type: document
+subtype: letter
+title: Marktplatz Zeichnung zur Ernte
+description: Grenzturm und feuerwehr, zu Pfingsten.
+date: 1885-01-23
+language: de
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/fe/88/fe88ee2de53215d7ac5c6292e8ba076bdb5b7a739bc59866d7dece05b271a4e6/original.tif
+    sha256: fe88ee2de53215d7ac5c6292e8ba076bdb5b7a739bc59866d7dece05b271a4e6
+    mime: image/tiff
+    bytes: 22215628
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fe/88/fe88ee2de53215d7ac5c6292e8ba076bdb5b7a739bc59866d7dece05b271a4e6/preview-400.17f7f5447ede.jpg
+        sha256: 17f7f5447edee8e80a719e5f6991a312b331026be96b5987457bdeff182f23e6
+        mime: image/jpeg
+        bytes: 65629
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/19/d4/19d4dca4f539388f03c0aa4b2af0cbf21d565e1ca6268073ccfe96a2697d0ea4/original.tif
+    sha256: 19d4dca4f539388f03c0aa4b2af0cbf21d565e1ca6268073ccfe96a2697d0ea4
+    mime: image/tiff
+    bytes: 13596252
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/19/d4/19d4dca4f539388f03c0aa4b2af0cbf21d565e1ca6268073ccfe96a2697d0ea4/preview-400.7f422cc2fd74.jpg
+        sha256: 7f422cc2fd744841c7762a35a17df27ca1c46273acc165102f93976930343466
+        mime: image/jpeg
+        bytes: 48718
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

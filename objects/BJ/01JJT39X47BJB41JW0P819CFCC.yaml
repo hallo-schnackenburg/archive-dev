@@ -1,0 +1,39 @@
+id: 01JJT39X47BJB41JW0P819CFCC
+type: image
+subtype: photo
+title: Feuerwehr Besuch am Sonntag
+date: 2020-12-02
+location: Seedorf, Molkerei
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/4f/99/4f9967fc3651181761b9fbd0960f31416efef38b6ad3f23c43c5addc8940beb8/original.jpg
+    sha256: 4f9967fc3651181761b9fbd0960f31416efef38b6ad3f23c43c5addc8940beb8
+    mime: image/jpeg
+    bytes: 26741532
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4f/99/4f9967fc3651181761b9fbd0960f31416efef38b6ad3f23c43c5addc8940beb8/preview-400.05feabaf1bd4.jpg
+        sha256: 05feabaf1bd4bd354b24b8b84bb7ddc586d5c110f9ae8f97db9c122f3b77f58a
+        mime: image/jpeg
+        bytes: 48347
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

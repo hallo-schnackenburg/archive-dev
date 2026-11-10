@@ -1,0 +1,34 @@
+id: 01K72GJYK1PQKZYZ01J5FWKAM8
+type: image
+subtype: print
+title: Bahnhof Zeichnung zur Ernte
+description: Dorfschule und hafen, am Sonntag.
+date: 2024-12-26
+origin:
+  name: Marta Lüders
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/53/cf/53cf49909f8479aa2f19f400d92ab3e1e083c9f1af330c01cfb87e7b4a8582c2/original.tif
+    sha256: 53cf49909f8479aa2f19f400d92ab3e1e083c9f1af330c01cfb87e7b4a8582c2
+    mime: image/tiff
+    bytes: 13067734
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/53/cf/53cf49909f8479aa2f19f400d92ab3e1e083c9f1af330c01cfb87e7b4a8582c2/preview-400.aaaf6aca2160.jpg
+        sha256: aaaf6aca21600c8a98218294bc6f8f40d4107d990ebf1ca886f6f6fadebfd3de
+        mime: image/jpeg
+        bytes: 28874
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

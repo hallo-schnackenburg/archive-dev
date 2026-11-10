@@ -1,0 +1,35 @@
+id: 01GA2EWC8VHM92D18BQ4NQT353
+type: image
+subtype: photo
+title: Friedhof Aufnahme am Morgen
+description: Das Wasser steht bis an die Deichkrone.
+date: 1866-02
+location: Holtorf, Bäckerei
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/24/2d/242ddc69cb8e0a4ab1686a38f547f570ef3ca42442a7f982562f89ba7ef823a6/original.jpg
+    sha256: 242ddc69cb8e0a4ab1686a38f547f570ef3ca42442a7f982562f89ba7ef823a6
+    mime: image/jpeg
+    bytes: 12084142
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/24/2d/242ddc69cb8e0a4ab1686a38f547f570ef3ca42442a7f982562f89ba7ef823a6/preview-400.2acb1916957a.jpg
+        sha256: 2acb1916957a8cb5ea4fb08159734747deec38737259944f3b857849a9e6a810
+        mime: image/jpeg
+        bytes: 86436
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

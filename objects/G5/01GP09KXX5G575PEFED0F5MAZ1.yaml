@@ -1,0 +1,47 @@
+id: 01GP09KXX5G575PEFED0F5MAZ1
+type: image
+subtype: photo
+title: Bahnhof Abriss am Sonntag
+description: Der Umzug der Schützengesellschaft zieht über den Markt, im Hintergrund die Fachwerkhäuser.
+date: 1901~
+location: Gorleben, Gasthof
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/3a/0c/3a0cedaed0ac72cc74cde27282c6e02b14922808b50a57184d40de3e97fc2f67/original.jpg
+    sha256: 3a0cedaed0ac72cc74cde27282c6e02b14922808b50a57184d40de3e97fc2f67
+    mime: image/jpeg
+    bytes: 6910796
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/3a/0c/3a0cedaed0ac72cc74cde27282c6e02b14922808b50a57184d40de3e97fc2f67/preview-400.e9c221a853e6.jpg
+        sha256: e9c221a853e6efcc4eb902d52ff50078fcee48ab54da8d4fe919b248229d87df
+        mime: image/jpeg
+        bytes: 64954
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

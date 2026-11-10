@@ -1,0 +1,34 @@
+id: 01J12BKM06V9GBQTDVVKMAC0MW
+type: image
+subtype: print
+title: Ernte Brief bei Hochwasser
+description: Kupferstich.
+date: "1909"
+origin:
+  name: Erika Voss
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/0e/40/0e40f1d59d7f301321507d619725e03ac3dbe2e0ace68061f0759c8ebcff8a21/original.tif
+    sha256: 0e40f1d59d7f301321507d619725e03ac3dbe2e0ace68061f0759c8ebcff8a21
+    mime: image/tiff
+    bytes: 8082207
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0e/40/0e40f1d59d7f301321507d619725e03ac3dbe2e0ace68061f0759c8ebcff8a21/preview-400.ee7413815ee2.jpg
+        sha256: ee7413815ee29007e6e81d9d96156451a74d0013d3aac41bf4121a520cbb0e36
+        mime: image/jpeg
+        bytes: 26021
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

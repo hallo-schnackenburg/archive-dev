@@ -1,0 +1,47 @@
+id: 01JPCGSW8VW6TKMEQNA7B88QPD
+type: image
+subtype: photo
+title: Brücke Brief am Sonntag
+description: Bäckerei und dorfteich, im Winter.
+date: "1883"
+location: Gorleben, Gasthof
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/72/37/72375f4dbc6d3c391d359e6872558a7202ed49a5024402043407b4a6fbcae8b5/original.jpg
+    sha256: 72375f4dbc6d3c391d359e6872558a7202ed49a5024402043407b4a6fbcae8b5
+    mime: image/jpeg
+    bytes: 10548597
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/72/37/72375f4dbc6d3c391d359e6872558a7202ed49a5024402043407b4a6fbcae8b5/preview-400.4ef598e895ce.jpg
+        sha256: 4ef598e895cec357666c196bad7c3195bd82cf1b3d88135ed069b5f70d3f76e1
+        mime: image/jpeg
+        bytes: 38658
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

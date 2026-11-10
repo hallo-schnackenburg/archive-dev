@@ -1,0 +1,39 @@
+id: 01GKTQFEMQ1E8MMX009HKY8RMY
+type: image
+subtype: photo
+title: Schützenfest Einweihung vor dem Umbau
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1970-01-11
+location: Holtorf, Pfarrhaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Anni Jeß
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/db/79/db790f0602168ad23f253fec68ba87019845a0a45a113a3de57fd879a445a524/original.jpg
+    sha256: db790f0602168ad23f253fec68ba87019845a0a45a113a3de57fd879a445a524
+    mime: image/jpeg
+    bytes: 11445628
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/db/79/db790f0602168ad23f253fec68ba87019845a0a45a113a3de57fd879a445a524/preview-400.e72fc02312b0.jpg
+        sha256: e72fc02312b07bea368790f15cb3122830d7ef14e0c99d5302cd06419811925a
+        mime: image/jpeg
+        bytes: 83247
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

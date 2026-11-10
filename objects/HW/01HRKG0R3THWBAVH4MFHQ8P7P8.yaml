@@ -1,0 +1,35 @@
+id: 01HRKG0R3THWBAVH4MFHQ8P7P8
+type: image
+subtype: photo
+title: Friedhof Rechnung zur Wende
+date: 1887-10
+location: Schnackenburg, Pfarrhaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/56/80/5680f3bc7e3c1cadbfa66190db3cda8fa4e6c985e47b6b550e9b5f9ae4acc870/original.jpg
+    sha256: 5680f3bc7e3c1cadbfa66190db3cda8fa4e6c985e47b6b550e9b5f9ae4acc870
+    mime: image/jpeg
+    bytes: 4757218
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/56/80/5680f3bc7e3c1cadbfa66190db3cda8fa4e6c985e47b6b550e9b5f9ae4acc870/preview-400.6e459bbe062a.jpg
+        sha256: 6e459bbe062a5f5e6be56d576b5a44c99627943ed367230628746a5529853e7b
+        mime: image/jpeg
+        bytes: 63738
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

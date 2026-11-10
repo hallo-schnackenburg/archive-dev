@@ -1,0 +1,39 @@
+id: 01J5549TD3P6J7926F7K4CE25Q
+type: image
+subtype: photo
+title: Brücke Umbau am Morgen
+description: Schützenfest und rathaus, nach dem Krieg.
+date: 1953-01-26
+location: Gorleben, Schmiede
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Gerda Schulz
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/27/bb/27bb01abbf82161450f34319c8d3bb66f280a80ead77e7532631f68c95b2cfef/original.jpg
+    sha256: 27bb01abbf82161450f34319c8d3bb66f280a80ead77e7532631f68c95b2cfef
+    mime: image/jpeg
+    bytes: 20694782
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/27/bb/27bb01abbf82161450f34319c8d3bb66f280a80ead77e7532631f68c95b2cfef/preview-400.41f5381df7d0.jpg
+        sha256: 41f5381df7d035be3d4fe7380d8062c8949b7e1bbc8f0a350765ffc081a5a506
+        mime: image/jpeg
+        bytes: 34334
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

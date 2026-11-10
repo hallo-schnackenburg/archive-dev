@@ -1,0 +1,39 @@
+id: 01M11BGX9D860S1K12KC7CWBGV
+type: image
+subtype: photo
+title: Elbdeich Rechnung am Sonntag
+date: 1912-07-03
+location: Seedorf, Storchennest
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/95/4a/954a20155977f83249cbce2c5547c0f5769bf494c62680b38942832e5baccfc3/original.jpg
+    sha256: 954a20155977f83249cbce2c5547c0f5769bf494c62680b38942832e5baccfc3
+    mime: image/jpeg
+    bytes: 15982800
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/95/4a/954a20155977f83249cbce2c5547c0f5769bf494c62680b38942832e5baccfc3/preview-400.01bcf0888c93.jpg
+        sha256: 01bcf0888c93cc7c1dadb9efe1f082a4301172682e31a8c459c51f30aaf6a08b
+        mime: image/jpeg
+        bytes: 77809
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

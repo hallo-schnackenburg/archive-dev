@@ -1,0 +1,35 @@
+id: 01H3VXM609886C8S86YSH11CN1
+type: image
+subtype: photo
+title: Schmiede Protokoll am Sonntag
+date: 1868-07-23
+location: Restorf, Feuerwehr
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/df/a7/dfa727d046ae8fc49c69da43861a152495eada345fda80a017c735d4511ff34c/original.jpg
+    sha256: dfa727d046ae8fc49c69da43861a152495eada345fda80a017c735d4511ff34c
+    mime: image/jpeg
+    bytes: 10267244
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/df/a7/dfa727d046ae8fc49c69da43861a152495eada345fda80a017c735d4511ff34c/preview-400.71e75aa9c53a.jpg
+        sha256: 71e75aa9c53ab4ac2502aa760b383cea51d5b68f1b5f09cc648cc43f43062d4e
+        mime: image/jpeg
+        bytes: 52235
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

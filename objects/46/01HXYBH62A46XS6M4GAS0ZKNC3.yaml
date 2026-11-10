@@ -1,0 +1,35 @@
+id: 01HXYBH62A46XS6M4GAS0ZKNC3
+type: image
+subtype: photo
+title: Feuerwehr Einladung im Winter
+description: Feuerwehr und bäckerei, am Sonntag.
+date: "1892"
+location: Gartow, Hafen
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/1f/d4/1fd4cfc632f950c27fb91d5c97fc75e203f66eac4c2d200f219e93a8e86059c5/original.jpg
+    sha256: 1fd4cfc632f950c27fb91d5c97fc75e203f66eac4c2d200f219e93a8e86059c5
+    mime: image/jpeg
+    bytes: 27007829
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/1f/d4/1fd4cfc632f950c27fb91d5c97fc75e203f66eac4c2d200f219e93a8e86059c5/preview-400.decd8256dbf8.jpg
+        sha256: decd8256dbf863c4d85c89fca1e7124fb670c12f4d4759dd3992d3c30bf87747
+        mime: image/jpeg
+        bytes: 56635
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

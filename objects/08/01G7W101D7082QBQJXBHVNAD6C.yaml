@@ -1,0 +1,35 @@
+id: 01G7W101D7082QBQJXBHVNAD6C
+type: image
+subtype: photo
+title: Zollamt Festtag am Morgen
+date: 1935/1940
+location: Kapern, Bäckerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/7a/6c/7a6c635c521c345b148a082c668a577c48b9f63913ab579e868b123d64e336a1/original.jpg
+    sha256: 7a6c635c521c345b148a082c668a577c48b9f63913ab579e868b123d64e336a1
+    mime: image/jpeg
+    bytes: 1077938
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7a/6c/7a6c635c521c345b148a082c668a577c48b9f63913ab579e868b123d64e336a1/preview-400.bc01db95bb53.jpg
+        sha256: bc01db95bb5362b4dc72a703f08dbac4f8de80557b1cf73e63d3123b7f4fd18c
+        mime: image/jpeg
+        bytes: 52698
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

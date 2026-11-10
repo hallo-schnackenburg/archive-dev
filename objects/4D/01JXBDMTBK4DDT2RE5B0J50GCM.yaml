@@ -1,0 +1,39 @@
+id: 01JXBDMTBK4DDT2RE5B0J50GCM
+type: image
+subtype: photo
+title: Fähre Einladung zur Wende
+date: 2020-01-11
+location: Lüchow, Rathaus
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/66/7d/667d8ddc9cd01039fb09c2fc3d82ab279aeb67907ca09c16f025c37c7bf91563/original.jpg
+    sha256: 667d8ddc9cd01039fb09c2fc3d82ab279aeb67907ca09c16f025c37c7bf91563
+    mime: image/jpeg
+    bytes: 3829198
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/66/7d/667d8ddc9cd01039fb09c2fc3d82ab279aeb67907ca09c16f025c37c7bf91563/preview-400.f8c29cbca046.jpg
+        sha256: f8c29cbca0467a59ae178eb9ac18fdc33569374df416cf7b366911ce816125e3
+        mime: image/jpeg
+        bytes: 81100
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

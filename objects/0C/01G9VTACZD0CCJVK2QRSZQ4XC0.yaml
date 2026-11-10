@@ -1,0 +1,53 @@
+id: 01G9VTACZD0CCJVK2QRSZQ4XC0
+type: document
+subtype: letter
+title: Mühle Ansicht im Sommer
+description: Gasthof und bahnhof, im Sommer.
+date: 1999~
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/26/f0/26f0425fc6fbbac47d7ee3e896af4d59377087b8b676e271bfc2219aee60dbe2/original.tif
+    sha256: 26f0425fc6fbbac47d7ee3e896af4d59377087b8b676e271bfc2219aee60dbe2
+    mime: image/tiff
+    bytes: 27607810
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/f0/26f0425fc6fbbac47d7ee3e896af4d59377087b8b676e271bfc2219aee60dbe2/preview-400.5317b9195353.jpg
+        sha256: 5317b919535330b8aa61a4d61545dfbf84338e012d5b8c4f2457225b07581e11
+        mime: image/jpeg
+        bytes: 23915
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/91/a0/91a0cd84e7c81f2e0d25eae7ac55281199c8b933d1612e957eff3cecd479ac5f/original.tif
+    sha256: 91a0cd84e7c81f2e0d25eae7ac55281199c8b933d1612e957eff3cecd479ac5f
+    mime: image/tiff
+    bytes: 25962825
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/91/a0/91a0cd84e7c81f2e0d25eae7ac55281199c8b933d1612e957eff3cecd479ac5f/preview-400.2df2040d1878.jpg
+        sha256: 2df2040d187858a2ae73fc43f3f017ff05d32b1323871927d8265a1a6e1ec9a2
+        mime: image/jpeg
+        bytes: 89766
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

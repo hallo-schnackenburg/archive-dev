@@ -1,0 +1,34 @@
+id: 01HF37RQCTMKA146B5MS1HXJ1K
+type: image
+subtype: plan
+title: Schmiede Protokoll vor dem Umbau
+date: 2010-07-19
+location: Gartow, Kirche St. Johannis
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/03/7f/037f8aa6872b59cf591616445f5ca133cb337b2beb3535ac7587a97aaee1d99f/original.tif
+    sha256: 037f8aa6872b59cf591616445f5ca133cb337b2beb3535ac7587a97aaee1d99f
+    mime: image/tiff
+    bytes: 4912642
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/03/7f/037f8aa6872b59cf591616445f5ca133cb337b2beb3535ac7587a97aaee1d99f/preview-400.31344f5a3550.jpg
+        sha256: 31344f5a35509a128ec47ca7cb67ff4d16b0d3c9873e21a2e89f96cca6897d6c
+        mime: image/jpeg
+        bytes: 37825
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

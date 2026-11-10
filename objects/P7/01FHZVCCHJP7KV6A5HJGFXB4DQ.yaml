@@ -1,0 +1,34 @@
+id: 01FHZVCCHJP7KV6A5HJGFXB4DQ
+type: image
+subtype: plan
+title: Bahnhof Notiz zu Pfingsten
+date: 1883-10
+location: Kapern, Ernte
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/15/73/157300121a1b0dd1fa939a29bac111a9776964dae90f05584a640a08cc96cae3/original.tif
+    sha256: 157300121a1b0dd1fa939a29bac111a9776964dae90f05584a640a08cc96cae3
+    mime: image/tiff
+    bytes: 632697
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/15/73/157300121a1b0dd1fa939a29bac111a9776964dae90f05584a640a08cc96cae3/preview-400.2efbf87488f3.jpg
+        sha256: 2efbf87488f3363da3f7a17008c1756920ac51b826453446e114254538008bb2
+        mime: image/jpeg
+        bytes: 47545
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

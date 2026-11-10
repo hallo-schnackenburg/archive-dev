@@ -1,0 +1,39 @@
+id: 01FRNVZ2HFTB0KR41M2Z1C31FV
+type: image
+subtype: photo
+title: Dorfschule Festtag am Sonntag
+date: 1851-02
+location: Gartow, Molkerei
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Ilse Wegner
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/e3/35/e335e7239ae8dd0a0acf4b354d19cd83d2753def856559b59ddcfdcde51c11dd/original.jpg
+    sha256: e335e7239ae8dd0a0acf4b354d19cd83d2753def856559b59ddcfdcde51c11dd
+    mime: image/jpeg
+    bytes: 12782546
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e3/35/e335e7239ae8dd0a0acf4b354d19cd83d2753def856559b59ddcfdcde51c11dd/preview-400.178110fcaa6d.jpg
+        sha256: 178110fcaa6dfed996c8a73ec16fa0cbce0eb07f798106e60387f212ffe45612
+        mime: image/jpeg
+        bytes: 79981
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

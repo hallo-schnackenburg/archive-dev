@@ -1,0 +1,39 @@
+id: 01FFE8PQCYQSJE0VQ76W3V85T9
+type: image
+subtype: photo
+title: Hafen Festtag im Winter
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1860-05-22
+location: Lüchow, Feuerwehr
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Wilhelm Krüger
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/42/06/4206405d311dc45c42abe30b926b29bfbf5272418b17bfbc92d07548e50fb33d/original.jpg
+    sha256: 4206405d311dc45c42abe30b926b29bfbf5272418b17bfbc92d07548e50fb33d
+    mime: image/jpeg
+    bytes: 7893091
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/42/06/4206405d311dc45c42abe30b926b29bfbf5272418b17bfbc92d07548e50fb33d/preview-400.3cff804c8f54.jpg
+        sha256: 3cff804c8f549346505496b320c3c1502d9af4641a2283e616f9f10f05253880
+        mime: image/jpeg
+        bytes: 79050
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

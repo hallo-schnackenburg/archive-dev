@@ -1,0 +1,53 @@
+id: 01H4TFRWSBG1MZ2E3HH05VJAR6
+type: document
+subtype: letter
+title: Gasthof Bescheid bei Hochwasser
+description: Brunnen und ernte, zur Ernte.
+date: 1904-10-08
+language: de
+origin:
+  name: Karl Lemke
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/a0/50/a0508e3ac195537b6776070316d341e62aaf7f3a89668421109a3082a7cfb2dd/original.tif
+    sha256: a0508e3ac195537b6776070316d341e62aaf7f3a89668421109a3082a7cfb2dd
+    mime: image/tiff
+    bytes: 16599354
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a0/50/a0508e3ac195537b6776070316d341e62aaf7f3a89668421109a3082a7cfb2dd/preview-400.19581bb1df33.jpg
+        sha256: 19581bb1df3324d0fe279428cd907c0341f87a1bd6b178813b08b87260bd5b2b
+        mime: image/jpeg
+        bytes: 35191
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/9a/2e/9a2e648aad25faf7bc60d5631c00a8560efb4a2b61b4f30fb0a2ae3011f07f69/original.tif
+    sha256: 9a2e648aad25faf7bc60d5631c00a8560efb4a2b61b4f30fb0a2ae3011f07f69
+    mime: image/tiff
+    bytes: 17631869
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9a/2e/9a2e648aad25faf7bc60d5631c00a8560efb4a2b61b4f30fb0a2ae3011f07f69/preview-400.59fcdf0f3be0.jpg
+        sha256: 59fcdf0f3be017f8d8025aac00d7c31f8b10d219ccd33701f9447f6f98f43e05
+        mime: image/jpeg
+        bytes: 39886
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

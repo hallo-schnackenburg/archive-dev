@@ -1,0 +1,34 @@
+id: 01J9JJ9NG3JN32VTNYQRWJCFGJ
+type: image
+subtype: plan
+title: Friedhof Notiz zur Wende
+date: 1946-06-11
+location: Kapern, Kindergarten
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/85/f9/85f9d3eade4485532bb3b2f38054f3316572ebe518a7bb966f1224bb3562c0c2/original.tif
+    sha256: 85f9d3eade4485532bb3b2f38054f3316572ebe518a7bb966f1224bb3562c0c2
+    mime: image/tiff
+    bytes: 20038322
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/85/f9/85f9d3eade4485532bb3b2f38054f3316572ebe518a7bb966f1224bb3562c0c2/preview-400.8e40c61c3f72.jpg
+        sha256: 8e40c61c3f7281fbb0b61a8cda374254e273afe4e21da83975ef5e2229ef150a
+        mime: image/jpeg
+        bytes: 73885
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01KPJFQBK4KSK537GK96HN8M9P
+type: image
+subtype: photo
+title: Schmiede Umbau zur Ernte
+description: Bäckerei und bäckerei, nach dem Krieg.
+date: 1966-11
+location: Holtorf, Fähre
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Fritz Bohlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/d1/60/d1603927305dcdba5437a3891951e8b4cf675d0208c014b8ef5b009710ab67d1/original.jpg
+    sha256: d1603927305dcdba5437a3891951e8b4cf675d0208c014b8ef5b009710ab67d1
+    mime: image/jpeg
+    bytes: 18248033
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d1/60/d1603927305dcdba5437a3891951e8b4cf675d0208c014b8ef5b009710ab67d1/preview-400.c311367a2c23.jpg
+        sha256: c311367a2c236155c4ee0d905b052ee11eb1d0002e1362ff48003834b654ef31
+        mime: image/jpeg
+        bytes: 40596
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

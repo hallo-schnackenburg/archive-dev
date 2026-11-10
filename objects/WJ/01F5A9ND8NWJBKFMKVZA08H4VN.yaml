@@ -1,0 +1,35 @@
+id: 01F5A9ND8NWJBKFMKVZA08H4VN
+type: image
+subtype: photo
+title: Pfarrhaus Notiz nach dem Krieg
+date: 1895-11-01
+location: Pretzier, Fachwerkhaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/c6/f2/c6f23b0097c1855eee99031a801af352fecbd4ab77dfcfd8eebd4f7b842e370e/original.jpg
+    sha256: c6f23b0097c1855eee99031a801af352fecbd4ab77dfcfd8eebd4f7b842e370e
+    mime: image/jpeg
+    bytes: 3171451
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c6/f2/c6f23b0097c1855eee99031a801af352fecbd4ab77dfcfd8eebd4f7b842e370e/preview-400.e0c8de6da125.jpg
+        sha256: e0c8de6da1255d739c15aa59b332054075e65d8360d9094967a40293dc355a39
+        mime: image/jpeg
+        bytes: 24791
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

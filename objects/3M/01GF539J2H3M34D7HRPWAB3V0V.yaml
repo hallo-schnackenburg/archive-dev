@@ -1,0 +1,37 @@
+id: 01GF539J2H3M34D7HRPWAB3V0V
+type: image
+subtype: print
+title: Gasthof Einladung am Morgen
+date: 1956-02-19
+location: Schnackenburg, Rathaus
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/5a/cd/5acd193a8ebca0d79d34113fae0435e9eca42d7d361d580f43d7c1eb8b698f3e/original.tif
+    sha256: 5acd193a8ebca0d79d34113fae0435e9eca42d7d361d580f43d7c1eb8b698f3e
+    mime: image/tiff
+    bytes: 15380380
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5a/cd/5acd193a8ebca0d79d34113fae0435e9eca42d7d361d580f43d7c1eb8b698f3e/preview-400.c28c127ffbdf.jpg
+        sha256: c28c127ffbdf51d390c3528be8d66222f6a161526309bbebdc9b9666d5820fae
+        mime: image/jpeg
+        bytes: 68919
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

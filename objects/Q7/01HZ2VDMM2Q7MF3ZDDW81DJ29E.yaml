@@ -1,0 +1,53 @@
+id: 01HZ2VDMM2Q7MF3ZDDW81DJ29E
+type: document
+subtype: letter
+title: Zollamt Jubiläum zur Wende
+description: Schreibt über die Ernte und das Wetter.
+date: 1982~
+language: de
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/fe/df/fedfb0c26ca10782d66439368f29d32edb6d62c72799bcb9809254806517f965/original.tif
+    sha256: fedfb0c26ca10782d66439368f29d32edb6d62c72799bcb9809254806517f965
+    mime: image/tiff
+    bytes: 16293902
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fe/df/fedfb0c26ca10782d66439368f29d32edb6d62c72799bcb9809254806517f965/preview-400.bccc976a0942.jpg
+        sha256: bccc976a094292f94ca20fde5261ab4080783b249cef831d694846de35fe8a7b
+        mime: image/jpeg
+        bytes: 41516
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/dc/02/dc023755522e865b123c9eb0c81c328aa5509122bd8b9b04113a51c9a30b42f2/original.tif
+    sha256: dc023755522e865b123c9eb0c81c328aa5509122bd8b9b04113a51c9a30b42f2
+    mime: image/tiff
+    bytes: 12563475
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/02/dc023755522e865b123c9eb0c81c328aa5509122bd8b9b04113a51c9a30b42f2/preview-400.fc26da7394ee.jpg
+        sha256: fc26da7394ee9795ca474b08a877768d98d108d2357d292f919de2debc4d0b9b
+        mime: image/jpeg
+        bytes: 64959
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

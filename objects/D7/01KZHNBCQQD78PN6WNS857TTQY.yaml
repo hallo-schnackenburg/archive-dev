@@ -1,0 +1,51 @@
+id: 01KZHNBCQQD78PN6WNS857TTQY
+type: document
+subtype: brochure
+title: Hochwasser Besuch bei Hochwasser
+date: 1862-04
+language: de
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/3b/d9/3bd91e5b426738ac18939bb954362e53d2f568dc923eb93493c659b343215b01/original.tif
+    sha256: 3bd91e5b426738ac18939bb954362e53d2f568dc923eb93493c659b343215b01
+    mime: image/tiff
+    bytes: 5376920
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3b/d9/3bd91e5b426738ac18939bb954362e53d2f568dc923eb93493c659b343215b01/preview-400.d6e810a9ce56.jpg
+        sha256: d6e810a9ce569c7103cd7f80139c916a0f5f20cefd7ed3d7e51d9601e22dd68c
+        mime: image/jpeg
+        bytes: 37588
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/11/cf/11cf749f59d3a315f331030aa5cfdd1cb70473ce47c18c7d52f02875bce791af/original.tif
+    sha256: 11cf749f59d3a315f331030aa5cfdd1cb70473ce47c18c7d52f02875bce791af
+    mime: image/tiff
+    bytes: 8704432
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/cf/11cf749f59d3a315f331030aa5cfdd1cb70473ce47c18c7d52f02875bce791af/preview-400.af0e587edcc3.jpg
+        sha256: af0e587edcc3f32edb69cb2b08bd94f212ff1d9a38d26e7a20e789790dd338df
+        mime: image/jpeg
+        bytes: 37914
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

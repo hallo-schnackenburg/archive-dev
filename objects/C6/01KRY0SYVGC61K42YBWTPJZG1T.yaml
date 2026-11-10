@@ -1,0 +1,39 @@
+id: 01KRY0SYVGC61K42YBWTPJZG1T
+type: image
+subtype: photo
+title: Gasthof Bericht vor dem Umbau
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1965-08-19
+location: Restorf, Gasthof
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Wilhelm Krüger
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/91/ff/91ffb59d1102a98d9097dcdf265a3ee3aa0eef267333e2293ff7960220669d2e/original.jpg
+    sha256: 91ffb59d1102a98d9097dcdf265a3ee3aa0eef267333e2293ff7960220669d2e
+    mime: image/jpeg
+    bytes: 9353668
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/91/ff/91ffb59d1102a98d9097dcdf265a3ee3aa0eef267333e2293ff7960220669d2e/preview-400.2bdb4db850fe.jpg
+        sha256: 2bdb4db850fe1384c65407e6f70ef77a95f2061a90e5753977fd83eb1e974e54
+        mime: image/jpeg
+        bytes: 61323
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

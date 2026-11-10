@@ -1,0 +1,34 @@
+id: 01FDWG7PXWFKCZJVJG6KXNHETN
+type: image
+subtype: plan
+title: Bahnhof Zeichnung nach dem Krieg
+date: 1992-08
+location: Gorleben, Friedhof
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/51/8f/518f1a874dada598c0324e8b1ef6f180be6a0a74fb3a310e99206871a2401c6e/original.tif
+    sha256: 518f1a874dada598c0324e8b1ef6f180be6a0a74fb3a310e99206871a2401c6e
+    mime: image/tiff
+    bytes: 14760004
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/51/8f/518f1a874dada598c0324e8b1ef6f180be6a0a74fb3a310e99206871a2401c6e/preview-400.484ebc9c2f39.jpg
+        sha256: 484ebc9c2f393141faffaa7f3ca6ace99ad955953c9146148f435cdfb3f67c64
+        mime: image/jpeg
+        bytes: 59553
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

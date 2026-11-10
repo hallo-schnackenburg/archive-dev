@@ -1,0 +1,35 @@
+id: 01JDN7F1D2E4FN69W2K5WA8JFH
+type: image
+subtype: photo
+title: Ernte Rechnung am Morgen
+description: Das Wasser steht bis an die Deichkrone.
+date: 1970-06-22
+location: Holtorf, Storchennest
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/15/35/1535dff85af714f3e10947658ef9f599bcae636d1f883158fcd903faef3e659b/original.jpg
+    sha256: 1535dff85af714f3e10947658ef9f599bcae636d1f883158fcd903faef3e659b
+    mime: image/jpeg
+    bytes: 20221650
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/15/35/1535dff85af714f3e10947658ef9f599bcae636d1f883158fcd903faef3e659b/preview-400.9a1e0e8f63b7.jpg
+        sha256: 9a1e0e8f63b77ae2b3069d936893430396e170ff8e953df4a046c2bdb4da8d7a
+        mime: image/jpeg
+        bytes: 34422
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

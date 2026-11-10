@@ -1,0 +1,39 @@
+id: 01KVNQEWGVAVBW22AV9ZJ1K7A7
+type: image
+subtype: photo
+title: Brunnen Protokoll im Winter
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1901-11-04
+location: Lenzen, Elbdeich
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Erika Voss
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/13/d8/13d809fabd18f63cc64e0853fdc846d5d3d00fbb25766e075eba8357addcef94/original.jpg
+    sha256: 13d809fabd18f63cc64e0853fdc846d5d3d00fbb25766e075eba8357addcef94
+    mime: image/jpeg
+    bytes: 12056848
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/13/d8/13d809fabd18f63cc64e0853fdc846d5d3d00fbb25766e075eba8357addcef94/preview-400.da7800e7f746.jpg
+        sha256: da7800e7f746af96029b697530592074d935846e2ab5dae405eb1f412c59f656
+        mime: image/jpeg
+        bytes: 77010
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

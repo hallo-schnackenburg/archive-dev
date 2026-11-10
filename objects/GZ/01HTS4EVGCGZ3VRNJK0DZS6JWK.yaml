@@ -1,0 +1,53 @@
+id: 01HTS4EVGCGZ3VRNJK0DZS6JWK
+type: document
+subtype: letter
+title: Feuerwehr Prospekt zur Wende
+description: Schreibt über die Ernte und das Wetter.
+date: 1952~
+language: de
+origin:
+  name: Erika Voss
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/72/c3/72c31ffb308b2f7e30d4f23995f7d280df92418f3b30885425d6d4721280f571/original.tif
+    sha256: 72c31ffb308b2f7e30d4f23995f7d280df92418f3b30885425d6d4721280f571
+    mime: image/tiff
+    bytes: 25307638
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/72/c3/72c31ffb308b2f7e30d4f23995f7d280df92418f3b30885425d6d4721280f571/preview-400.b6b943f394ab.jpg
+        sha256: b6b943f394ab873a1b9b041c897202cf13686325e6492bdc04e2a111e3365764
+        mime: image/jpeg
+        bytes: 24244
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/2e/f6/2ef6744e74363513008398eb13fc44da9508338d909f4455e4d762986c9769be/original.tif
+    sha256: 2ef6744e74363513008398eb13fc44da9508338d909f4455e4d762986c9769be
+    mime: image/tiff
+    bytes: 9172725
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/f6/2ef6744e74363513008398eb13fc44da9508338d909f4455e4d762986c9769be/preview-400.04f9e6235362.jpg
+        sha256: 04f9e623536277340b97ab49abcb42a98f52b6e733dc839a5f6ca77a6cf47993
+        mime: image/jpeg
+        bytes: 59670
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

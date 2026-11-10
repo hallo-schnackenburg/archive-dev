@@ -1,0 +1,35 @@
+id: 01KBFWP8SF2G5QDVYTWD00APNE
+type: image
+subtype: photo
+title: Grenzturm Aufnahme im Sommer
+date: 1940-06
+location: Restorf, Molkerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/77/9c/779c5d1a4fcb050e6ab2d887b8bb57261581d736c482f5f13cdf29bd86f2a3e1/original.jpg
+    sha256: 779c5d1a4fcb050e6ab2d887b8bb57261581d736c482f5f13cdf29bd86f2a3e1
+    mime: image/jpeg
+    bytes: 27633235
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/77/9c/779c5d1a4fcb050e6ab2d887b8bb57261581d736c482f5f13cdf29bd86f2a3e1/preview-400.295607804b30.jpg
+        sha256: 295607804b30e724c893a5a4d8b574f2eb98c3ad4e37c4554dbb41572743f046
+        mime: image/jpeg
+        bytes: 80423
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

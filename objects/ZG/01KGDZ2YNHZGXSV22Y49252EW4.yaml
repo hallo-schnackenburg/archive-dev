@@ -1,0 +1,34 @@
+id: 01KGDZ2YNHZGXSV22Y49252EW4
+type: image
+subtype: plan
+title: Brunnen Entwurf zu Pfingsten
+date: 1858-07-06
+location: Restorf, Dorfteich
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/eb/f7/ebf76609fafd1764402b3aae20e73affa43714813319a8ba17712439fdef1b0a/original.tif
+    sha256: ebf76609fafd1764402b3aae20e73affa43714813319a8ba17712439fdef1b0a
+    mime: image/tiff
+    bytes: 19064791
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/eb/f7/ebf76609fafd1764402b3aae20e73affa43714813319a8ba17712439fdef1b0a/preview-400.a4c4da347cec.jpg
+        sha256: a4c4da347cecb03ebbdb21860b067a7a9ffec3b100be01cd0b6198d24220058b
+        mime: image/jpeg
+        bytes: 32443
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

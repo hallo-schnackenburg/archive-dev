@@ -1,0 +1,34 @@
+id: 01K9FATED7TJHCKGT8G0VPM353
+type: image
+subtype: plan
+title: Gemeindehaus Ansicht zur Wende
+date: 1993-09-21
+location: Lenzen, Hochwasser
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/d5/b2/d5b20a1afb73bbbed927c139aa60ce90ac46ce48f07ebccc5cb870c6dfc8ed6d/original.tif
+    sha256: d5b20a1afb73bbbed927c139aa60ce90ac46ce48f07ebccc5cb870c6dfc8ed6d
+    mime: image/tiff
+    bytes: 13124675
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/b2/d5b20a1afb73bbbed927c139aa60ce90ac46ce48f07ebccc5cb870c6dfc8ed6d/preview-400.d266ce43f136.jpg
+        sha256: d266ce43f13609169dc8dc65e5596a933de75c50ad8e97b08e36c799288cbd99
+        mime: image/jpeg
+        bytes: 75649
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

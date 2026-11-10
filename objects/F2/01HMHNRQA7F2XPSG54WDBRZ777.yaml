@@ -1,0 +1,37 @@
+id: 01HMHNRQA7F2XPSG54WDBRZ777
+type: image
+subtype: print
+title: Kirche St. Johannis Rechnung zur Wende
+date: 1916-04
+location: Seedorf, Brücke
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/99/92/9992d288c5ae2f7454b03a4b93ae89c92af7ebfea98a3f2ba118a3d1b6cf8e5f/original.tif
+    sha256: 9992d288c5ae2f7454b03a4b93ae89c92af7ebfea98a3f2ba118a3d1b6cf8e5f
+    mime: image/tiff
+    bytes: 13956353
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/99/92/9992d288c5ae2f7454b03a4b93ae89c92af7ebfea98a3f2ba118a3d1b6cf8e5f/preview-400.ca4425b84954.jpg
+        sha256: ca4425b84954b83ec206c99fcae3d81027c0cd6f9ddad78fab35e73201d8242f
+        mime: image/jpeg
+        bytes: 37449
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

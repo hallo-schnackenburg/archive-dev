@@ -1,0 +1,39 @@
+id: 01FQSZF1FJZBWGK74BT6CN2YBE
+type: image
+subtype: photo
+title: Pfarrhaus Entwurf zur Ernte
+description: Brunnen und gemeindehaus, im Sommer.
+date: "1916"
+location: Lenzen, Gemeindehaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Anni Jeß
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/cd/88/cd888a38093b311477013d20ba4b90825e5e342f62e4ecaebfaea1238e328326/original.jpg
+    sha256: cd888a38093b311477013d20ba4b90825e5e342f62e4ecaebfaea1238e328326
+    mime: image/jpeg
+    bytes: 24719542
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/cd/88/cd888a38093b311477013d20ba4b90825e5e342f62e4ecaebfaea1238e328326/preview-400.b339b385a3a7.jpg
+        sha256: b339b385a3a7701389869175e8d40916fe1f95adf085be1ea3758d849511e7bc
+        mime: image/jpeg
+        bytes: 67073
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

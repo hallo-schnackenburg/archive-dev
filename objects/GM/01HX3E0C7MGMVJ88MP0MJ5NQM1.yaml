@@ -1,0 +1,35 @@
+id: 01HX3E0C7MGMVJ88MP0MJ5NQM1
+type: image
+subtype: photo
+title: Gasthof Protokoll im Sommer
+date: 1977-04
+location: Lenzen, Elbdeich
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/7a/d4/7ad469345c6e4c3e92e88496806cbabb5129c32aee031735d7531db8269a9cec/original.jpg
+    sha256: 7ad469345c6e4c3e92e88496806cbabb5129c32aee031735d7531db8269a9cec
+    mime: image/jpeg
+    bytes: 19967633
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7a/d4/7ad469345c6e4c3e92e88496806cbabb5129c32aee031735d7531db8269a9cec/preview-400.7fb211baab1e.jpg
+        sha256: 7fb211baab1e9c6b39d97bdc3a3e393907173fe9d6acf0398fea953553120153
+        mime: image/jpeg
+        bytes: 20261
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01J7V4SSDQGQHGG3K039ZX28NF
+type: image
+subtype: print
+title: Brunnen Umbau im Winter
+description: Mühle und grenzturm, nach dem Krieg.
+date: 1948-08-27
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/56/5e/565eceb91053161d297d9175d58c7be60fd19d29857f29925326fd71958c4ac9/original.tif
+    sha256: 565eceb91053161d297d9175d58c7be60fd19d29857f29925326fd71958c4ac9
+    mime: image/tiff
+    bytes: 11630570
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/56/5e/565eceb91053161d297d9175d58c7be60fd19d29857f29925326fd71958c4ac9/preview-400.37eaa0617bc7.jpg
+        sha256: 37eaa0617bc7c2ace6240710897bf0611954ef35ec2337b992272b5960f95b33
+        mime: image/jpeg
+        bytes: 38745
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

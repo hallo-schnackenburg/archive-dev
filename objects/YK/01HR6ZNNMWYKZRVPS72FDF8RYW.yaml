@@ -1,0 +1,39 @@
+id: 01HR6ZNNMWYKZRVPS72FDF8RYW
+type: image
+subtype: photo
+title: Schmiede Umbau vor dem Umbau
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1961~
+location: Kapern, Hochwasser
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/83/80/83803ad5e4cf0201aba9dae7454b8e94f3b182f10fc152e90705647179deca18/original.jpg
+    sha256: 83803ad5e4cf0201aba9dae7454b8e94f3b182f10fc152e90705647179deca18
+    mime: image/jpeg
+    bytes: 8614048
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/83/80/83803ad5e4cf0201aba9dae7454b8e94f3b182f10fc152e90705647179deca18/preview-400.d0b1c4595930.jpg
+        sha256: d0b1c45959308842476ba0756d16ae3ef3e3e46eb6dcf41b8b642d6d37dfa86a
+        mime: image/jpeg
+        bytes: 89898
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

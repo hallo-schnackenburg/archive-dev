@@ -1,0 +1,34 @@
+id: 01J1FVXT9TTGYF2B91CH92HJ20
+type: image
+subtype: plan
+title: Ernte Protokoll am Sonntag
+date: 1951-10-06
+location: Lenzen, Storchennest
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/e6/63/e6638541767e222f756a2cffe4edb06e825a6003f86aff30d5553361b5cbba8c/original.tif
+    sha256: e6638541767e222f756a2cffe4edb06e825a6003f86aff30d5553361b5cbba8c
+    mime: image/tiff
+    bytes: 14337315
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e6/63/e6638541767e222f756a2cffe4edb06e825a6003f86aff30d5553361b5cbba8c/preview-400.dc3011dd1f20.jpg
+        sha256: dc3011dd1f20ce51ce64bfdce56c7f4378a4d58907707155666769f085f9c98b
+        mime: image/jpeg
+        bytes: 71730
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

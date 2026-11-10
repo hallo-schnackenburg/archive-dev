@@ -1,0 +1,37 @@
+id: 01H25SJV305P23NPA4NRQ7X3BB
+type: image
+subtype: print
+title: Hochwasser Ansicht nach dem Krieg
+date: 1922-08-25
+location: Holtorf, Hochwasser
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/cd/3c/cd3c16b0f8f881697fae144b1ece13d6732aa22bd8175577ae1f4399e5dcefc5/original.tif
+    sha256: cd3c16b0f8f881697fae144b1ece13d6732aa22bd8175577ae1f4399e5dcefc5
+    mime: image/tiff
+    bytes: 3533341
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/3c/cd3c16b0f8f881697fae144b1ece13d6732aa22bd8175577ae1f4399e5dcefc5/preview-400.68fed9688612.jpg
+        sha256: 68fed9688612adfed19a240a22d683e9327d9628525267b575ef41c6286b92d3
+        mime: image/jpeg
+        bytes: 53708
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

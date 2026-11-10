@@ -1,0 +1,39 @@
+id: 01GFEJE18T138P5FPC6HGGJHVG
+type: image
+subtype: photo
+title: Bäckerei Brief am Morgen
+description: Dorfschule und feuerwehr, am Morgen.
+date: 1958-01-20
+location: Kapern, Bäckerei
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Karl Lemke
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/61/09/6109addec6898659466e73d38a1c59e0126289d23503826c7db4e792183ca02b/original.jpg
+    sha256: 6109addec6898659466e73d38a1c59e0126289d23503826c7db4e792183ca02b
+    mime: image/jpeg
+    bytes: 15715571
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/61/09/6109addec6898659466e73d38a1c59e0126289d23503826c7db4e792183ca02b/preview-400.9dc0ee1b41a9.jpg
+        sha256: 9dc0ee1b41a9abaaa1a282763fb94c6ba0c3318ecf5508d25d7b79bf4ea53bc1
+        mime: image/jpeg
+        bytes: 70894
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

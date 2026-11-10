@@ -1,0 +1,53 @@
+id: 01HYSEZ071N7MKM8NHT6MPQTSK
+type: document
+subtype: letter
+title: Hafen Festtag am Sonntag
+description: Schreibt über die Ernte und das Wetter.
+date: 1892-01
+language: de
+origin:
+  name: Erika Voss
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/e8/31/e831fbd8adf1fe7f5103645c3fe603856a811bf7053739a222e75e4c24717458/original.tif
+    sha256: e831fbd8adf1fe7f5103645c3fe603856a811bf7053739a222e75e4c24717458
+    mime: image/tiff
+    bytes: 20352988
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/31/e831fbd8adf1fe7f5103645c3fe603856a811bf7053739a222e75e4c24717458/preview-400.8e65c59b0147.jpg
+        sha256: 8e65c59b0147d2528cbc93200508228aacfe7e178f6c276a78c9a30d6ae35e91
+        mime: image/jpeg
+        bytes: 49546
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/f6/54/f654d5936aeebf7df64ca9654d63029322a7e6be68f9db86c19106f13e7f7fd5/original.tif
+    sha256: f654d5936aeebf7df64ca9654d63029322a7e6be68f9db86c19106f13e7f7fd5
+    mime: image/tiff
+    bytes: 5614775
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f6/54/f654d5936aeebf7df64ca9654d63029322a7e6be68f9db86c19106f13e7f7fd5/preview-400.8423af427a89.jpg
+        sha256: 8423af427a89a8b04e217ba7212cd384a034f4af0f58f54832ccee86b15fc4e1
+        mime: image/jpeg
+        bytes: 36352
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

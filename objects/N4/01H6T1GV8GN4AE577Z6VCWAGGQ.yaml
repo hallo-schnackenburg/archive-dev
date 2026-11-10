@@ -1,0 +1,35 @@
+id: 01H6T1GV8GN4AE577Z6VCWAGGQ
+type: image
+subtype: photo
+title: Brücke Entwurf am Sonntag
+date: 1976~
+location: Restorf, Kindergarten
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/b5/17/b517f54fa8baf4904171011cac613116bb6b50b4d740bd947225b9ec6c9916b9/original.jpg
+    sha256: b517f54fa8baf4904171011cac613116bb6b50b4d740bd947225b9ec6c9916b9
+    mime: image/jpeg
+    bytes: 25525881
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b5/17/b517f54fa8baf4904171011cac613116bb6b50b4d740bd947225b9ec6c9916b9/preview-400.28e83537f94f.jpg
+        sha256: 28e83537f94f9b46a96aedde547b47ba34f8870dda0f7203c267e1152d98768c
+        mime: image/jpeg
+        bytes: 55917
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

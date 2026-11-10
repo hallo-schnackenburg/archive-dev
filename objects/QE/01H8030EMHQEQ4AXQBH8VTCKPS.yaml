@@ -1,0 +1,53 @@
+id: 01H8030EMHQEQ4AXQBH8VTCKPS
+type: document
+subtype: letter
+title: Rathaus Jubiläum im Winter
+description: Schreibt über die Ernte und das Wetter.
+date: 1889-09
+language: de
+origin:
+  name: Helga Plate
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/bd/e5/bde51dd46e77cd9999fe4f0c8460c38fcaf77d51aa87d11e1e93d9db38e4954f/original.tif
+    sha256: bde51dd46e77cd9999fe4f0c8460c38fcaf77d51aa87d11e1e93d9db38e4954f
+    mime: image/tiff
+    bytes: 6953576
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/e5/bde51dd46e77cd9999fe4f0c8460c38fcaf77d51aa87d11e1e93d9db38e4954f/preview-400.380b74b37043.jpg
+        sha256: 380b74b370430c764721d08d41a1c9198e1a8d6c96378958f819ea84e73fe823
+        mime: image/jpeg
+        bytes: 41971
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/a5/4a/a54aa35665762c3211bf3885e7a41bd63552294a354bc64b4b86388cd93c1c9d/original.tif
+    sha256: a54aa35665762c3211bf3885e7a41bd63552294a354bc64b4b86388cd93c1c9d
+    mime: image/tiff
+    bytes: 26623279
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a5/4a/a54aa35665762c3211bf3885e7a41bd63552294a354bc64b4b86388cd93c1c9d/preview-400.e2684712471a.jpg
+        sha256: e2684712471a1da96e9aaadd432f2e1242a13dc58adb60fbc65a784032d20388
+        mime: image/jpeg
+        bytes: 51109
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01HJ9Y75X1345Z89SBAWK3HKN6
+type: image
+subtype: plan
+title: Gemeindehaus Festtag im Winter
+date: 1949~
+location: Schnackenburg, Hochwasser
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/78/b5/78b5db929d41ac419356388d6b422ee94537a580338511481bae7bc917517148/original.tif
+    sha256: 78b5db929d41ac419356388d6b422ee94537a580338511481bae7bc917517148
+    mime: image/tiff
+    bytes: 971308
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/78/b5/78b5db929d41ac419356388d6b422ee94537a580338511481bae7bc917517148/preview-400.234ceacc8fbb.jpg
+        sha256: 234ceacc8fbb9e94af29170d23df6a14452799a0a04bd105563f9dfb60c4bcbb
+        mime: image/jpeg
+        bytes: 87102
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

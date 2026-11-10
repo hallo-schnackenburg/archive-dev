@@ -1,0 +1,35 @@
+id: 01HECNKFT3YFRPPGQGTY2XTXPB
+type: image
+subtype: photo
+title: Brücke Bericht bei Hochwasser
+date: "1975"
+location: Holtorf, Storchennest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/f8/04/f8044e7db26415ab9d746a86c55c9d02e44f9ac59b1cf6e4afa838af84e31394/original.jpg
+    sha256: f8044e7db26415ab9d746a86c55c9d02e44f9ac59b1cf6e4afa838af84e31394
+    mime: image/jpeg
+    bytes: 26735142
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f8/04/f8044e7db26415ab9d746a86c55c9d02e44f9ac59b1cf6e4afa838af84e31394/preview-400.ff3588619265.jpg
+        sha256: ff3588619265d68d50cc0ebc710d18825cb920c5261bb1242962892a1dd9dec8
+        mime: image/jpeg
+        bytes: 51377
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

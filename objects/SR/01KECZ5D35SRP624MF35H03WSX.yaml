@@ -1,0 +1,35 @@
+id: 01KECZ5D35SRP624MF35H03WSX
+type: image
+subtype: photo
+title: Bahnhof Abriss am Morgen
+date: 1940-07
+location: Lüchow, Kindergarten
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/fc/92/fc9200994ea8ea43ff004fbaf9804e0e2ccd8a04ea10fe6f074e3e8046707e56/original.jpg
+    sha256: fc9200994ea8ea43ff004fbaf9804e0e2ccd8a04ea10fe6f074e3e8046707e56
+    mime: image/jpeg
+    bytes: 10092402
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fc/92/fc9200994ea8ea43ff004fbaf9804e0e2ccd8a04ea10fe6f074e3e8046707e56/preview-400.08f221fdf0a2.jpg
+        sha256: 08f221fdf0a28b26ad7d4c82762995caa575c693dbd6062b7eabc65b7e0d9268
+        mime: image/jpeg
+        bytes: 88037
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

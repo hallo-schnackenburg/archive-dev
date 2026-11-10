@@ -1,0 +1,53 @@
+id: 01F4J30WZ3JNC0HH3WPFDSXVP7
+type: document
+subtype: letter
+title: Pfarrhaus Entwurf zur Ernte
+description: Schreibt über die Ernte und das Wetter.
+date: 1931-10-05
+language: de
+origin:
+  name: Fritz Bohlmann
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/1e/f2/1ef2362c75bd540e1b7e96e4f00e9aefcff4f4505065c7a3b4590bd3ce90181d/original.tif
+    sha256: 1ef2362c75bd540e1b7e96e4f00e9aefcff4f4505065c7a3b4590bd3ce90181d
+    mime: image/tiff
+    bytes: 15974015
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1e/f2/1ef2362c75bd540e1b7e96e4f00e9aefcff4f4505065c7a3b4590bd3ce90181d/preview-400.d7c3e3ad699c.jpg
+        sha256: d7c3e3ad699cbfdc1136ce6807e344f23767609dfc00856f80239f621aab996e
+        mime: image/jpeg
+        bytes: 81372
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/fb/44/fb4404b084503e402ac7dadd79b1cb22460865018e7c7c1cdf0b6587b9070a9c/original.tif
+    sha256: fb4404b084503e402ac7dadd79b1cb22460865018e7c7c1cdf0b6587b9070a9c
+    mime: image/tiff
+    bytes: 11902955
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fb/44/fb4404b084503e402ac7dadd79b1cb22460865018e7c7c1cdf0b6587b9070a9c/preview-400.7627b2050f30.jpg
+        sha256: 7627b2050f302b1c087af2132e9ba109e95a0db42d7b496bf1bd31b90b870820
+        mime: image/jpeg
+        bytes: 36551
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

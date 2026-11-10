@@ -1,0 +1,73 @@
+id: 01FJ2R9R98EKKVQB7TFWHE7QBV
+type: document
+subtype: letter
+title: Feuerwehr Prospekt nach dem Krieg
+date: 2019-12-13
+language: de
+origin:
+  name: Helga Plate
+  type: person
+  location: Ostfront
+recipient: Familie Lüders, Schnackenburg
+notes: Teilweise schwer lesbar.
+files:
+  - role: page
+    num: 1
+    original_name: feldpost_lueders_001.tif
+    path: files/78/f0/78f0ffd6d22151b290c6a7450762a99291f0f200bd3ed1b7e28635907412819a/original.tif
+    sha256: 78f0ffd6d22151b290c6a7450762a99291f0f200bd3ed1b7e28635907412819a
+    mime: image/tiff
+    bytes: 13525011
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/78/f0/78f0ffd6d22151b290c6a7450762a99291f0f200bd3ed1b7e28635907412819a/preview-400.02f4532ff639.jpg
+        sha256: 02f4532ff6391a5fa7d312252affe476f62f9c2a89647b67240e782fbdf6e1bd
+        mime: image/jpeg
+        bytes: 51144
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: feldpost_lueders_002.tif
+    path: files/b9/24/b9247d6a32969a983796b723abb560629cd6c9439661f8f0d9f7969ac2621bb1/original.tif
+    sha256: b9247d6a32969a983796b723abb560629cd6c9439661f8f0d9f7969ac2621bb1
+    mime: image/tiff
+    bytes: 27040035
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b9/24/b9247d6a32969a983796b723abb560629cd6c9439661f8f0d9f7969ac2621bb1/preview-400.e6589024981c.jpg
+        sha256: e6589024981c4022b46b4731ebbeac9e86ce0875d1617070e39792b7b77ceced
+        mime: image/jpeg
+        bytes: 78260
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: feldpost_lueders_003.tif
+    path: files/bf/cc/bfcca16c75788006a1d4f6a2323603d0e861754f44bb58804b2d940e46512771/original.tif
+    sha256: bfcca16c75788006a1d4f6a2323603d0e861754f44bb58804b2d940e46512771
+    mime: image/tiff
+    bytes: 7426360
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bf/cc/bfcca16c75788006a1d4f6a2323603d0e861754f44bb58804b2d940e46512771/preview-400.0aed5bf35703.jpg
+        sha256: 0aed5bf3570345a518309b3efe52b70ee987c02fa014f9f3b60ce258662aff28
+        mime: image/jpeg
+        bytes: 51195
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

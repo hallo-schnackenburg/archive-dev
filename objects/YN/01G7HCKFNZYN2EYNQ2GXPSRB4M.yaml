@@ -1,0 +1,34 @@
+id: 01G7HCKFNZYN2EYNQ2GXPSRB4M
+type: image
+subtype: print
+title: Marktplatz Notiz im Sommer
+description: Friedhof und zollamt, am Sonntag.
+date: 1911-01-26
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/c6/d9/c6d9437629e9cd83f0a3dfc82c870958f57394a2d864f78f8b6ccfcdbfd0a047/original.tif
+    sha256: c6d9437629e9cd83f0a3dfc82c870958f57394a2d864f78f8b6ccfcdbfd0a047
+    mime: image/tiff
+    bytes: 9115202
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/d9/c6d9437629e9cd83f0a3dfc82c870958f57394a2d864f78f8b6ccfcdbfd0a047/preview-400.e26323c07326.jpg
+        sha256: e26323c073260abcd3fb4e4fe2ef5ae0bc537139594b8eb6b3b5b0792ff6e9cb
+        mime: image/jpeg
+        bytes: 84750
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

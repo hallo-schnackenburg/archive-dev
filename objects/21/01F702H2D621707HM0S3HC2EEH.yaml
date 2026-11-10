@@ -1,0 +1,53 @@
+id: 01F702H2D621707HM0S3HC2EEH
+type: document
+subtype: letter
+title: Brücke Brief am Morgen
+description: Gemeindehaus und mühle, im Winter.
+date: "2015"
+language: de
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/d1/5e/d15eee38cca3df43030a55a2a55aafb0c6f5651b130e1191e167739c0c60d235/original.tif
+    sha256: d15eee38cca3df43030a55a2a55aafb0c6f5651b130e1191e167739c0c60d235
+    mime: image/tiff
+    bytes: 26714200
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d1/5e/d15eee38cca3df43030a55a2a55aafb0c6f5651b130e1191e167739c0c60d235/preview-400.b1ce505461ee.jpg
+        sha256: b1ce505461eee95f7029ac981f8d66753ce72f9e60242c390eb9977aabe53231
+        mime: image/jpeg
+        bytes: 20028
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/22/8e/228e35615da8d28e6d00cacbd85f7b241e676864e9f0ff58fd2494ceaa7225c0/original.tif
+    sha256: 228e35615da8d28e6d00cacbd85f7b241e676864e9f0ff58fd2494ceaa7225c0
+    mime: image/tiff
+    bytes: 3914477
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/22/8e/228e35615da8d28e6d00cacbd85f7b241e676864e9f0ff58fd2494ceaa7225c0/preview-400.9eb680bb4175.jpg
+        sha256: 9eb680bb4175e5e296c9a521e8af5e7a56f1e284f16565e0edf7b0056e8aced9
+        mime: image/jpeg
+        bytes: 47045
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

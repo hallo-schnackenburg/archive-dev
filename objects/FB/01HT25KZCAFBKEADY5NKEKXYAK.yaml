@@ -1,0 +1,34 @@
+id: 01HT25KZCAFBKEADY5NKEKXYAK
+type: image
+subtype: print
+title: Bäckerei Umzug nach dem Krieg
+description: Feuerwehr und schmiede, am Morgen.
+date: 1887-08-15
+origin:
+  name: Erika Voss
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/63/57/63575174f0d8520e2ffb0b272a8dc864ae1f0a1a0c89de9ea101840bcebe797b/original.tif
+    sha256: 63575174f0d8520e2ffb0b272a8dc864ae1f0a1a0c89de9ea101840bcebe797b
+    mime: image/tiff
+    bytes: 27012604
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/63/57/63575174f0d8520e2ffb0b272a8dc864ae1f0a1a0c89de9ea101840bcebe797b/preview-400.527bd63d930f.jpg
+        sha256: 527bd63d930f019252af353c27bf7885094bf649e02b22bd13bb769d9e597c17
+        mime: image/jpeg
+        bytes: 52675
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

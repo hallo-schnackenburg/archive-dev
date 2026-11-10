@@ -1,0 +1,47 @@
+id: 01KKQ5CNR8XFVEQ54V3XW6J1ZN
+type: image
+subtype: photo
+title: Storchennest Aufnahme zur Ernte
+description: Elbdeich und bahnhof, zur Ernte.
+date: "2023"
+location: Lüchow, Storchennest
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Erika Voss
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/d1/e2/d1e2e34b2a463f955411a0eac5de14e5200fb1051328171a6dba7f33d30e9124/original.jpg
+    sha256: d1e2e34b2a463f955411a0eac5de14e5200fb1051328171a6dba7f33d30e9124
+    mime: image/jpeg
+    bytes: 4764614
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d1/e2/d1e2e34b2a463f955411a0eac5de14e5200fb1051328171a6dba7f33d30e9124/preview-400.e06323e42290.jpg
+        sha256: e06323e422905049383787ddbc0dc96e53737fef14453aeaee153155aa68bb8d
+        mime: image/jpeg
+        bytes: 24977
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,53 @@
+id: 01GVA7SJH2CY5Z7N1SC5TXR5MA
+type: document
+subtype: letter
+title: Kindergarten Bescheid bei Hochwasser
+description: Schreibt über die Ernte und das Wetter.
+date: 2010-05
+language: de
+origin:
+  name: Hans Brandt
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/16/73/167387f1299860f38b36369c41a093364a67d88bd389bbba975e66c80241e26d/original.tif
+    sha256: 167387f1299860f38b36369c41a093364a67d88bd389bbba975e66c80241e26d
+    mime: image/tiff
+    bytes: 24406661
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/16/73/167387f1299860f38b36369c41a093364a67d88bd389bbba975e66c80241e26d/preview-400.711839542bb4.jpg
+        sha256: 711839542bb49448188abec0dde7d795f4c9a6c3e1474ecf6fb30b64ac9a4a24
+        mime: image/jpeg
+        bytes: 41142
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/8b/9c/8b9c6a82458f05b8fe964fa36f55d1e219d6a9104a6c4923dc5033ed1b06841b/original.tif
+    sha256: 8b9c6a82458f05b8fe964fa36f55d1e219d6a9104a6c4923dc5033ed1b06841b
+    mime: image/tiff
+    bytes: 4728705
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8b/9c/8b9c6a82458f05b8fe964fa36f55d1e219d6a9104a6c4923dc5033ed1b06841b/preview-400.783f75c5956d.jpg
+        sha256: 783f75c5956df54dea339ef5c6733f76ddd38e3e11e1db2755310a88a0c41b9a
+        mime: image/jpeg
+        bytes: 39136
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

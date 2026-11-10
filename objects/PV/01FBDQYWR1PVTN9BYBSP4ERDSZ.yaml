@@ -1,0 +1,34 @@
+id: 01FBDQYWR1PVTN9BYBSP4ERDSZ
+type: image
+subtype: plan
+title: Grenzturm Zeichnung am Sonntag
+date: 1886-07-17
+location: Restorf, Molkerei
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/b8/e2/b8e27b6a144e4545ef19045995afae5a098aa8af4c62fa0d70a2c3d3b98fb393/original.tif
+    sha256: b8e27b6a144e4545ef19045995afae5a098aa8af4c62fa0d70a2c3d3b98fb393
+    mime: image/tiff
+    bytes: 7708280
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b8/e2/b8e27b6a144e4545ef19045995afae5a098aa8af4c62fa0d70a2c3d3b98fb393/preview-400.09d7c47e9513.jpg
+        sha256: 09d7c47e9513ae5dad8b2d601a681d7a3ebec1fab8456c788f166a958c96d068
+        mime: image/jpeg
+        bytes: 44562
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

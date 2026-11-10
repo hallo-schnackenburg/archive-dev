@@ -1,0 +1,39 @@
+id: 01GH112KABMEVXEYY1W343E2BF
+type: image
+subtype: photo
+title: Rathaus Umzug im Winter
+date: 1932-03
+location: Pretzier, Gasthof
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/0b/44/0b4441d952e03facb87fbd64f1830b129df2a08ad66721994834ae0a483f3e86/original.jpg
+    sha256: 0b4441d952e03facb87fbd64f1830b129df2a08ad66721994834ae0a483f3e86
+    mime: image/jpeg
+    bytes: 8012630
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0b/44/0b4441d952e03facb87fbd64f1830b129df2a08ad66721994834ae0a483f3e86/preview-400.27aaf8f3188e.jpg
+        sha256: 27aaf8f3188ebc86e6499e9f49e1594cc45127f8823a8d9218fa6b6a9ac2bd4a
+        mime: image/jpeg
+        bytes: 28620
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

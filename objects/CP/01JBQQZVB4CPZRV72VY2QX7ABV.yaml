@@ -1,0 +1,35 @@
+id: 01JBQQZVB4CPZRV72VY2QX7ABV
+type: image
+subtype: photo
+title: Dorfteich Festtag am Sonntag
+date: 1986-01
+location: Gartow, Schmiede
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/63/a3/63a31ada101a42f9e344dc6793c48c6e872f111ebd25f14d96f5c4d89e4e3c2e/original.jpg
+    sha256: 63a31ada101a42f9e344dc6793c48c6e872f111ebd25f14d96f5c4d89e4e3c2e
+    mime: image/jpeg
+    bytes: 8907605
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/63/a3/63a31ada101a42f9e344dc6793c48c6e872f111ebd25f14d96f5c4d89e4e3c2e/preview-400.405982094244.jpg
+        sha256: 405982094244176a1a4056f0d1b1908f7b044a760a0328e7290572da74ce234f
+        mime: image/jpeg
+        bytes: 33124
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

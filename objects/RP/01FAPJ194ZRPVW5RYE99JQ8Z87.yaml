@@ -1,0 +1,34 @@
+id: 01FAPJ194ZRPVW5RYE99JQ8Z87
+type: image
+subtype: plan
+title: Zollamt Protokoll nach dem Krieg
+date: 1931-01-20
+location: Schnackenburg, Friedhof
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/22/3f/223faea67aa6f6b1e526a9eb4a5e5ce83c5da09057221bb440d4c44e50d97c1e/original.tif
+    sha256: 223faea67aa6f6b1e526a9eb4a5e5ce83c5da09057221bb440d4c44e50d97c1e
+    mime: image/tiff
+    bytes: 27500032
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/22/3f/223faea67aa6f6b1e526a9eb4a5e5ce83c5da09057221bb440d4c44e50d97c1e/preview-400.98607581d9d4.jpg
+        sha256: 98607581d9d4ebf7591bc88290212a784afb1f9ccaa80975962b7cf5125b95d8
+        mime: image/jpeg
+        bytes: 58873
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

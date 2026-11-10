@@ -1,0 +1,35 @@
+id: 01G1SC10NBQJM5D2MJPGHN6RAQ
+type: image
+subtype: photo
+title: Elbufer Bericht zur Wende
+date: 1997-08-08
+location: Kapern, Molkerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/15/8d/158db73c7438197ba8c23a9792a02981867d4d0493f345b08429226eb4673b0e/original.jpg
+    sha256: 158db73c7438197ba8c23a9792a02981867d4d0493f345b08429226eb4673b0e
+    mime: image/jpeg
+    bytes: 20028866
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/15/8d/158db73c7438197ba8c23a9792a02981867d4d0493f345b08429226eb4673b0e/preview-400.14900da18e2e.jpg
+        sha256: 14900da18e2e41e773615e9b4a86f9697d22ec4a19b039cd0cbd08cb273e7784
+        mime: image/jpeg
+        bytes: 60352
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

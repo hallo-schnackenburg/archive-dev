@@ -1,0 +1,53 @@
+id: 01KX9A12N2VWE14N0APZ2VPJ9G
+type: document
+subtype: letter
+title: Bäckerei Abriss im Winter
+description: Kirche St. Johannis und fähre, zur Wende.
+date: 1853-07
+language: de
+origin:
+  name: Walter Kuhlmann
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/45/9b/459b320c9fd9dfd1ab12cbcc2ccd82df5457f61c3d1a70f16205839ed5bfe789/original.tif
+    sha256: 459b320c9fd9dfd1ab12cbcc2ccd82df5457f61c3d1a70f16205839ed5bfe789
+    mime: image/tiff
+    bytes: 3464810
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/45/9b/459b320c9fd9dfd1ab12cbcc2ccd82df5457f61c3d1a70f16205839ed5bfe789/preview-400.e680e85a6fac.jpg
+        sha256: e680e85a6facfb0cb8d735ea67b7ea35ee6bfde8ba80fa28298e1bcab4894154
+        mime: image/jpeg
+        bytes: 43621
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/e8/98/e89816533d6e2e423357ceb379a1f7e591c9df8c0eadcf38d7438e88c5c1f3a0/original.tif
+    sha256: e89816533d6e2e423357ceb379a1f7e591c9df8c0eadcf38d7438e88c5c1f3a0
+    mime: image/tiff
+    bytes: 11419957
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/98/e89816533d6e2e423357ceb379a1f7e591c9df8c0eadcf38d7438e88c5c1f3a0/preview-400.2b1853b3d6b2.jpg
+        sha256: 2b1853b3d6b21ea632570c23d9c66b61fa26535dba7434643d2a9de442743bfd
+        mime: image/jpeg
+        bytes: 42649
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

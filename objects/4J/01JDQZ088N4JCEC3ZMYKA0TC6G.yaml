@@ -1,0 +1,39 @@
+id: 01JDQZ088N4JCEC3ZMYKA0TC6G
+type: image
+subtype: photo
+title: Gemeindehaus Bericht zur Ernte
+date: 2019-02-16
+location: Pretzier, Hafen
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Karl Lemke
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/26/61/26618cf842c3d4916f7e3f2526679c8d714206f6971cc53cf641d7e22dec74bf/original.jpg
+    sha256: 26618cf842c3d4916f7e3f2526679c8d714206f6971cc53cf641d7e22dec74bf
+    mime: image/jpeg
+    bytes: 5818939
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/26/61/26618cf842c3d4916f7e3f2526679c8d714206f6971cc53cf641d7e22dec74bf/preview-400.aa221a6405e8.jpg
+        sha256: aa221a6405e88cfb2f7177b4fce024b52479da7a43c004046ea2afd8958348a5
+        mime: image/jpeg
+        bytes: 65325
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

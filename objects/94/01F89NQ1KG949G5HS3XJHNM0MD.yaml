@@ -1,0 +1,39 @@
+id: 01F89NQ1KG949G5HS3XJHNM0MD
+type: image
+subtype: photo
+title: Bahnhof Rechnung zur Ernte
+date: 2005/2010
+location: Restorf, Grenzturm
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/8a/b1/8ab1490b3b58df60ca6a734a77379a763ca36e92aa71a19a3cc3839de6c42024/original.jpg
+    sha256: 8ab1490b3b58df60ca6a734a77379a763ca36e92aa71a19a3cc3839de6c42024
+    mime: image/jpeg
+    bytes: 21430564
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/8a/b1/8ab1490b3b58df60ca6a734a77379a763ca36e92aa71a19a3cc3839de6c42024/preview-400.c1700d50313e.jpg
+        sha256: c1700d50313e27bc814efb4a2d7a0fe79ed9becbc07d1a14bd040bf77c97dd6a
+        mime: image/jpeg
+        bytes: 35639
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

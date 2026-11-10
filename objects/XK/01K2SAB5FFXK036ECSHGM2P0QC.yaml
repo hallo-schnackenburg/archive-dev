@@ -1,0 +1,34 @@
+id: 01K2SAB5FFXK036ECSHGM2P0QC
+type: image
+subtype: plan
+title: Schmiede Ansicht zur Wende
+date: 1978-04-13
+location: Gorleben, Mühle
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/a1/34/a134a4b341fcc5939abeb6368f7037bd9ef93a8fd1d5971e1e24ccf5d81644e0/original.tif
+    sha256: a134a4b341fcc5939abeb6368f7037bd9ef93a8fd1d5971e1e24ccf5d81644e0
+    mime: image/tiff
+    bytes: 10979600
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a1/34/a134a4b341fcc5939abeb6368f7037bd9ef93a8fd1d5971e1e24ccf5d81644e0/preview-400.a269bc923f78.jpg
+        sha256: a269bc923f788aeb72559287d8d6200970b486bb6598fbeff21135ddfa1d79fc
+        mime: image/jpeg
+        bytes: 70546
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

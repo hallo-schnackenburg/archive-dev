@@ -1,0 +1,39 @@
+id: 01K1NV2QDR639P86WT9JG7FEHY
+type: image
+subtype: photo
+title: Zollamt Rechnung am Sonntag
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 2018-08-07
+location: Gartow, Ernte
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Helga Plate
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/ac/7a/ac7a1f00a86e9c662906ce76d1e31cd6f750473b00306d6fc67833b1df17cfd1/original.jpg
+    sha256: ac7a1f00a86e9c662906ce76d1e31cd6f750473b00306d6fc67833b1df17cfd1
+    mime: image/jpeg
+    bytes: 26947803
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ac/7a/ac7a1f00a86e9c662906ce76d1e31cd6f750473b00306d6fc67833b1df17cfd1/preview-400.2b9aa305b13f.jpg
+        sha256: 2b9aa305b13f36728f14910259a9435342403c82f80225c26c7a836aaed287ec
+        mime: image/jpeg
+        bytes: 51775
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01JKMMRM1CN9VEMPWWE67ZFW8Q
+type: image
+subtype: plan
+title: Kindergarten Rechnung am Sonntag
+date: 2003/2007
+location: Pretzier, Fachwerkhaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/e1/8b/e18b6ca825e3568344918096648c22bac73f70ffb557558752388920850ebb49/original.tif
+    sha256: e18b6ca825e3568344918096648c22bac73f70ffb557558752388920850ebb49
+    mime: image/tiff
+    bytes: 23943576
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e1/8b/e18b6ca825e3568344918096648c22bac73f70ffb557558752388920850ebb49/preview-400.1e15bdd559eb.jpg
+        sha256: 1e15bdd559eb0269b89f88fa91d809743ba843f8af0b4296adf85e8f516e1250
+        mime: image/jpeg
+        bytes: 22624
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

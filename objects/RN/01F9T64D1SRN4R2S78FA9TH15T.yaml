@@ -1,0 +1,37 @@
+id: 01F9T64D1SRN4R2S78FA9TH15T
+type: image
+subtype: print
+title: Friedhof Prospekt zu Pfingsten
+date: "1992"
+location: Gartow, Zollamt
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/56/d1/56d1564e45106ef87b3882b622faf145ed4ffb7896c7dde30d71a4385b00eb0e/original.tif
+    sha256: 56d1564e45106ef87b3882b622faf145ed4ffb7896c7dde30d71a4385b00eb0e
+    mime: image/tiff
+    bytes: 10986795
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/56/d1/56d1564e45106ef87b3882b622faf145ed4ffb7896c7dde30d71a4385b00eb0e/preview-400.d1fb580a1eef.jpg
+        sha256: d1fb580a1eef202193dd1582fab0007bac39bdf031eaaedba27a1838017c84b5
+        mime: image/jpeg
+        bytes: 27731
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

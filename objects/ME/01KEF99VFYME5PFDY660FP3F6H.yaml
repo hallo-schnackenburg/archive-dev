@@ -1,0 +1,34 @@
+id: 01KEF99VFYME5PFDY660FP3F6H
+type: image
+subtype: plan
+title: Dorfschule Zeichnung im Sommer
+date: "1966"
+location: Holtorf, Marktplatz
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/3a/b2/3ab2d7ccdc3b227a2f99cdf53fc50fe6ea984ab2c95433537bde48158f09ff38/original.tif
+    sha256: 3ab2d7ccdc3b227a2f99cdf53fc50fe6ea984ab2c95433537bde48158f09ff38
+    mime: image/tiff
+    bytes: 4818013
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3a/b2/3ab2d7ccdc3b227a2f99cdf53fc50fe6ea984ab2c95433537bde48158f09ff38/preview-400.da68075f9e3a.jpg
+        sha256: da68075f9e3ad587660a738f81f03d62f07d548a848bd80d49355c11e674e640
+        mime: image/jpeg
+        bytes: 81630
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

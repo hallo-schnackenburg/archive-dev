@@ -1,0 +1,31 @@
+id: 01HJ19DB1BSM5SXN6VQKN75EKK
+type: image
+subtype: drawing
+title: Bahnhof Jubiläum am Morgen
+description: Federzeichnung, laviert.
+date: 1945-10-20
+location: Gartow, Elbufer
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Hannover
+files:
+  - role: main
+    original_name: zeichnung_hafen.tif
+    path: files/01/ef/01ef93069b90b4999fd371d5888d5c7f37267a25136d052414b29be24a4d6f47/original.tif
+    sha256: 01ef93069b90b4999fd371d5888d5c7f37267a25136d052414b29be24a4d6f47
+    mime: image/tiff
+    bytes: 18786855
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/ef/01ef93069b90b4999fd371d5888d5c7f37267a25136d052414b29be24a4d6f47/preview-400.903a8b50060c.jpg
+        sha256: 903a8b50060ca37f4779e7af4e9c00df1d62016ca7afab93a09725e4306fe25d
+        mime: image/jpeg
+        bytes: 70906
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

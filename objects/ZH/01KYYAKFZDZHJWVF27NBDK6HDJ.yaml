@@ -1,0 +1,35 @@
+id: 01KYYAKFZDZHJWVF27NBDK6HDJ
+type: image
+subtype: photo
+title: Sportplatz Entwurf im Winter
+date: 1887-05-08
+location: Lüchow, Rathaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/be/60/be60fa097cc97b94a5d6e730369926df4ca81a759610115caf5dab1feeb15a06/original.jpg
+    sha256: be60fa097cc97b94a5d6e730369926df4ca81a759610115caf5dab1feeb15a06
+    mime: image/jpeg
+    bytes: 15078912
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/be/60/be60fa097cc97b94a5d6e730369926df4ca81a759610115caf5dab1feeb15a06/preview-400.5352d825c450.jpg
+        sha256: 5352d825c450615eb6ea573da8ea26dfce7e0b9e0122348c6bf16016b2906424
+        mime: image/jpeg
+        bytes: 27577
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

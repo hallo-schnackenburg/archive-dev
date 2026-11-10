@@ -1,0 +1,37 @@
+id: 01GQSZR1BV7HFF49N2QN344BWG
+type: image
+subtype: print
+title: Feuerwehr Ansicht zu Pfingsten
+date: 1914/1916
+location: Lenzen, Marktplatz
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/09/8a/098acaf2143cb2205c20449f6f05318634f9648d0e0f49d3fd552b3e9e96bbd0/original.tif
+    sha256: 098acaf2143cb2205c20449f6f05318634f9648d0e0f49d3fd552b3e9e96bbd0
+    mime: image/tiff
+    bytes: 18731449
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/8a/098acaf2143cb2205c20449f6f05318634f9648d0e0f49d3fd552b3e9e96bbd0/preview-400.ff14f9700181.jpg
+        sha256: ff14f9700181612aa7c612b32dbc8b7ececc3949d62fdae76b51f1fdd1e9d38f
+        mime: image/jpeg
+        bytes: 40862
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

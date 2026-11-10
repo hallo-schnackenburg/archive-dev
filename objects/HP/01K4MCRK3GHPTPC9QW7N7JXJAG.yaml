@@ -1,0 +1,39 @@
+id: 01K4MCRK3GHPTPC9QW7N7JXJAG
+type: image
+subtype: photo
+title: Dorfschule Jubiläum zur Wende
+date: "1919"
+location: Kapern, Fähre
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/06/f7/06f704b1f609d461dcc2511225bee62eebead515b09fed09f6daebe69de876a1/original.jpg
+    sha256: 06f704b1f609d461dcc2511225bee62eebead515b09fed09f6daebe69de876a1
+    mime: image/jpeg
+    bytes: 12434322
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/06/f7/06f704b1f609d461dcc2511225bee62eebead515b09fed09f6daebe69de876a1/preview-400.813d9e2a8b4b.jpg
+        sha256: 813d9e2a8b4bf92a80548e7156282e32939fc8797e4186c8119113a4c87405b5
+        mime: image/jpeg
+        bytes: 67529
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

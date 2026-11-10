@@ -1,0 +1,53 @@
+id: 01FD702WSWP37PRV9XMFMGRZ7Y
+type: document
+subtype: letter
+title: Hafen Bericht im Sommer
+description: Schreibt über die Ernte und das Wetter.
+date: 1925-04-04
+language: de
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/fb/67/fb67927aae1cf4fcf18874bed2735482128de2bfbbb875f765e5e3930165350c/original.tif
+    sha256: fb67927aae1cf4fcf18874bed2735482128de2bfbbb875f765e5e3930165350c
+    mime: image/tiff
+    bytes: 3777100
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fb/67/fb67927aae1cf4fcf18874bed2735482128de2bfbbb875f765e5e3930165350c/preview-400.55fd3d7888e9.jpg
+        sha256: 55fd3d7888e96e3357837eed9c92a9f020f2691b31d70b06b9121a68ac056aad
+        mime: image/jpeg
+        bytes: 34646
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/bd/1d/bd1db92f5d8cda9d0d6d71b396b0db553c7ae6e9418eecc9b43063df6f2a251c/original.tif
+    sha256: bd1db92f5d8cda9d0d6d71b396b0db553c7ae6e9418eecc9b43063df6f2a251c
+    mime: image/tiff
+    bytes: 6388768
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/1d/bd1db92f5d8cda9d0d6d71b396b0db553c7ae6e9418eecc9b43063df6f2a251c/preview-400.600b9946bd73.jpg
+        sha256: 600b9946bd739e31cda355d58f43a5a236d7a94f75c1a34240ac6a892f7fed93
+        mime: image/jpeg
+        bytes: 44934
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

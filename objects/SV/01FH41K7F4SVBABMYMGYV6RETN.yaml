@@ -1,0 +1,39 @@
+id: 01FH41K7F4SVBABMYMGYV6RETN
+type: image
+subtype: photo
+title: Kindergarten Ansicht am Sonntag
+description: Hochwasser und fähre, zur Ernte.
+date: 1870/1873
+location: Restorf, Hochwasser
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Otto Hennings
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/41/b2/41b24a12be151d6480a07bcacc773b38b67807fd4d54ff09c6c6377e96aa082f/original.jpg
+    sha256: 41b24a12be151d6480a07bcacc773b38b67807fd4d54ff09c6c6377e96aa082f
+    mime: image/jpeg
+    bytes: 5388071
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/41/b2/41b24a12be151d6480a07bcacc773b38b67807fd4d54ff09c6c6377e96aa082f/preview-400.04ec33ec505f.jpg
+        sha256: 04ec33ec505f0d5e790b993d8c12cacca6de2547538133ab127634ac9ad0d20a
+        mime: image/jpeg
+        bytes: 40671
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

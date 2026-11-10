@@ -1,0 +1,35 @@
+id: 01GD3R1JY7T0ZJYNFFDZYMPMKS
+type: image
+subtype: photo
+title: Ernte Einladung vor dem Umbau
+date: 1883-10
+location: Gartow, Rathaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/a7/e8/a7e8d9f83e0caf89903ed739af4cb113da45438cae3405ccff2ef5be5251a8dc/original.jpg
+    sha256: a7e8d9f83e0caf89903ed739af4cb113da45438cae3405ccff2ef5be5251a8dc
+    mime: image/jpeg
+    bytes: 23901739
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a7/e8/a7e8d9f83e0caf89903ed739af4cb113da45438cae3405ccff2ef5be5251a8dc/preview-400.390392174538.jpg
+        sha256: 3903921745389ed2b4df9739ecea38ba970400f63943c60753050e31f4e8a6bb
+        mime: image/jpeg
+        bytes: 89215
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

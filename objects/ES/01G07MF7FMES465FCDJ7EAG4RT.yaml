@@ -1,0 +1,51 @@
+id: 01G07MF7FMES465FCDJ7EAG4RT
+type: document
+subtype: brochure
+title: Fähre Protokoll am Sonntag
+date: 2018-01-13
+language: de
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/ea/77/ea771e1d4ec95deed27a502c7a51bd0c74e71d73361afc138fc0046f66365332/original.tif
+    sha256: ea771e1d4ec95deed27a502c7a51bd0c74e71d73361afc138fc0046f66365332
+    mime: image/tiff
+    bytes: 24317190
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ea/77/ea771e1d4ec95deed27a502c7a51bd0c74e71d73361afc138fc0046f66365332/preview-400.cb794150264d.jpg
+        sha256: cb794150264d00433d769f64ab501f5e82d07667662a70eba0aaf5967a90967a
+        mime: image/jpeg
+        bytes: 81616
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/38/a2/38a27aa18b4887f1b152dd7fe69efc4d01ff24a06d2fb300d4f66a9e8a5a4e55/original.tif
+    sha256: 38a27aa18b4887f1b152dd7fe69efc4d01ff24a06d2fb300d4f66a9e8a5a4e55
+    mime: image/tiff
+    bytes: 16772516
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/38/a2/38a27aa18b4887f1b152dd7fe69efc4d01ff24a06d2fb300d4f66a9e8a5a4e55/preview-400.86b973b3fe8c.jpg
+        sha256: 86b973b3fe8c6f1e3ffdfa764a18042d012647e6ce43f91ef2971b677585e4bb
+        mime: image/jpeg
+        bytes: 71883
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

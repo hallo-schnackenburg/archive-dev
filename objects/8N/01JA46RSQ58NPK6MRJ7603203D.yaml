@@ -1,0 +1,51 @@
+id: 01JA46RSQ58NPK6MRJ7603203D
+type: document
+subtype: brochure
+title: Ernte Rechnung vor dem Umbau
+date: 1941/1943
+language: de
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/ff/28/ff282a340e5ddbe9173bbb88325a12a341b4aa9ae452e9da9fdb378374ffcc83/original.tif
+    sha256: ff282a340e5ddbe9173bbb88325a12a341b4aa9ae452e9da9fdb378374ffcc83
+    mime: image/tiff
+    bytes: 20861193
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/28/ff282a340e5ddbe9173bbb88325a12a341b4aa9ae452e9da9fdb378374ffcc83/preview-400.d791cc775409.jpg
+        sha256: d791cc7754094d15791818a33f0aaed8c8d5a635bee74526822deeeb8fe24e88
+        mime: image/jpeg
+        bytes: 24606
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/0e/79/0e798439d44426dc0baaae8e90009a364911d39e721fce99d286699d3915e682/original.tif
+    sha256: 0e798439d44426dc0baaae8e90009a364911d39e721fce99d286699d3915e682
+    mime: image/tiff
+    bytes: 21944575
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0e/79/0e798439d44426dc0baaae8e90009a364911d39e721fce99d286699d3915e682/preview-400.bc74d88da642.jpg
+        sha256: bc74d88da64287065580aa492e412678935021ca468caa54632be1ca4abdbbc1
+        mime: image/jpeg
+        bytes: 71168
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,53 @@
+id: 01H162TFSXHK2SG2ERJ2MWQJE3
+type: document
+subtype: letter
+title: Molkerei Rechnung zur Ernte
+description: Fachwerkhaus und pfarrhaus, vor dem Umbau.
+date: 1860~
+language: de
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/6c/04/6c0400cb729e0e1c5b23a7bc1d6201de17eef66fe9bca4e0ef47ef70ce7e46a9/original.tif
+    sha256: 6c0400cb729e0e1c5b23a7bc1d6201de17eef66fe9bca4e0ef47ef70ce7e46a9
+    mime: image/tiff
+    bytes: 6923694
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6c/04/6c0400cb729e0e1c5b23a7bc1d6201de17eef66fe9bca4e0ef47ef70ce7e46a9/preview-400.78f1a3e80b54.jpg
+        sha256: 78f1a3e80b54cb4e17e2cd0c35d1393fea43497a06111659076737c619626602
+        mime: image/jpeg
+        bytes: 68089
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/af/5e/af5e642117dee5654df91f96ea14d69f86aaff490eee095759b6b87bd75b0c67/original.tif
+    sha256: af5e642117dee5654df91f96ea14d69f86aaff490eee095759b6b87bd75b0c67
+    mime: image/tiff
+    bytes: 23043369
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/af/5e/af5e642117dee5654df91f96ea14d69f86aaff490eee095759b6b87bd75b0c67/preview-400.0cd42d785566.jpg
+        sha256: 0cd42d785566b18ee7b33d80a99604dfe1397f79311c2579ab262d5c18463340
+        mime: image/jpeg
+        bytes: 56841
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

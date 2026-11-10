@@ -1,0 +1,34 @@
+id: 01FW0NKK4NSSZ1E7GTXQS7V6V3
+type: image
+subtype: print
+title: Grenzturm Gruppenbild im Sommer
+description: Kupferstich.
+date: 2017-08-19
+origin:
+  name: Otto Hennings
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/7d/57/7d57a249725860ef9e1fb1fbd6715a0ab9313d065c35985f12fb35c5a519e7af/original.tif
+    sha256: 7d57a249725860ef9e1fb1fbd6715a0ab9313d065c35985f12fb35c5a519e7af
+    mime: image/tiff
+    bytes: 5639068
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7d/57/7d57a249725860ef9e1fb1fbd6715a0ab9313d065c35985f12fb35c5a519e7af/preview-400.3e14de7c5c47.jpg
+        sha256: 3e14de7c5c47cfbc5958138052fda3216d0be5e1d6069f30f77f8f2c5d6e900f
+        mime: image/jpeg
+        bytes: 21235
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

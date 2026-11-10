@@ -1,0 +1,53 @@
+id: 01J2B19JFZ9B4YMDBCEEFGEVHQ
+type: document
+subtype: letter
+title: Elbdeich Aufnahme zur Ernte
+description: Schreibt über die Ernte und das Wetter.
+date: 1998-07-17
+language: de
+origin:
+  name: Rudolf Garms
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/5a/e5/5ae54546846306e5c008ecdc43d8087aa991a18e94f2fdd0355652fcb310e72c/original.tif
+    sha256: 5ae54546846306e5c008ecdc43d8087aa991a18e94f2fdd0355652fcb310e72c
+    mime: image/tiff
+    bytes: 9300987
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5a/e5/5ae54546846306e5c008ecdc43d8087aa991a18e94f2fdd0355652fcb310e72c/preview-400.6a747a6f661d.jpg
+        sha256: 6a747a6f661d3398cca521580cf3c9f5ed5bc52fe44638e1bd3e27bd112db874
+        mime: image/jpeg
+        bytes: 86372
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/52/e4/52e4a37986f28f5e68c70483cb44c1771c5783c9b046dc593707abfdec867c03/original.tif
+    sha256: 52e4a37986f28f5e68c70483cb44c1771c5783c9b046dc593707abfdec867c03
+    mime: image/tiff
+    bytes: 25639590
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/e4/52e4a37986f28f5e68c70483cb44c1771c5783c9b046dc593707abfdec867c03/preview-400.27f914842c1f.jpg
+        sha256: 27f914842c1f5a6b2aec19d753a91dcb8bd6353c08341c4f49aa18195c1ecc0a
+        mime: image/jpeg
+        bytes: 53015
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01H3H5813D3RGBPECW9TRX3T9V
+type: image
+subtype: plan
+title: Dorfschule Festtag vor dem Umbau
+date: 1900-08-10
+location: Schnackenburg, Hochwasser
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/42/f4/42f4921ea5730cee1a6a5b5fb361372dc08f2e5934a4987d68f178be208329d7/original.tif
+    sha256: 42f4921ea5730cee1a6a5b5fb361372dc08f2e5934a4987d68f178be208329d7
+    mime: image/tiff
+    bytes: 12795105
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/42/f4/42f4921ea5730cee1a6a5b5fb361372dc08f2e5934a4987d68f178be208329d7/preview-400.c616897b2c18.jpg
+        sha256: c616897b2c1855138240a00d963123a2374cdb33bc176b75d798c432154842c9
+        mime: image/jpeg
+        bytes: 58480
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

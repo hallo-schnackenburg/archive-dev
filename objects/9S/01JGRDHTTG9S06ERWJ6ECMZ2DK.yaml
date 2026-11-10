@@ -1,0 +1,37 @@
+id: 01JGRDHTTG9S06ERWJ6ECMZ2DK
+type: image
+subtype: print
+title: Grenzturm Protokoll zur Ernte
+date: 1933-02
+location: Lüchow, Fachwerkhaus
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/00/2a/002a7a9b659d74eb9a05549f29acf0b3f152cfe3cba941b0f971712aab625f33/original.tif
+    sha256: 002a7a9b659d74eb9a05549f29acf0b3f152cfe3cba941b0f971712aab625f33
+    mime: image/tiff
+    bytes: 16213695
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/00/2a/002a7a9b659d74eb9a05549f29acf0b3f152cfe3cba941b0f971712aab625f33/preview-400.9c2fdaf38159.jpg
+        sha256: 9c2fdaf38159cd350cec30fd933b8c4ef11b93195f6c69b92a1c4c37f7d034af
+        mime: image/jpeg
+        bytes: 56600
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

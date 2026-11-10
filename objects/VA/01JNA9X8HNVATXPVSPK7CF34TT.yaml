@@ -1,0 +1,51 @@
+id: 01JNA9X8HNVATXPVSPK7CF34TT
+type: document
+subtype: brochure
+title: Gasthof Einladung vor dem Umbau
+date: "1932"
+language: de
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/5e/25/5e25088f8610564474af2bf645a294532f6e326d32570508a25fd354bc78d5a2/original.tif
+    sha256: 5e25088f8610564474af2bf645a294532f6e326d32570508a25fd354bc78d5a2
+    mime: image/tiff
+    bytes: 24520526
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5e/25/5e25088f8610564474af2bf645a294532f6e326d32570508a25fd354bc78d5a2/preview-400.a79cbd45a1db.jpg
+        sha256: a79cbd45a1db6510a23efc7d3bf429e295ccf48a76b5cbed2c909a572d0ead4b
+        mime: image/jpeg
+        bytes: 63235
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/3d/e1/3de171fc8093a4dc75de2dfa87c7007e1130f5b24bee77f6bb4a735e2fe84019/original.tif
+    sha256: 3de171fc8093a4dc75de2dfa87c7007e1130f5b24bee77f6bb4a735e2fe84019
+    mime: image/tiff
+    bytes: 7906153
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3d/e1/3de171fc8093a4dc75de2dfa87c7007e1130f5b24bee77f6bb4a735e2fe84019/preview-400.1e9f2dca2ee9.jpg
+        sha256: 1e9f2dca2ee9953c9adf98474ffbd04bb11f9ed8ed9a4a086e38ad9b075fcf6c
+        mime: image/jpeg
+        bytes: 73423
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

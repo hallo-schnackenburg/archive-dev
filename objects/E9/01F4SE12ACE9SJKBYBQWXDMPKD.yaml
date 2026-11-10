@@ -1,0 +1,51 @@
+id: 01F4SE12ACE9SJKBYBQWXDMPKD
+type: document
+subtype: brochure
+title: Zollamt Besuch am Sonntag
+date: 1926-03-28
+language: de
+origin:
+  name: Helga Plate
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/ff/b9/ffb9823fc3f6777d54152d577ad4778c94bd980305184425c5f8547458404157/original.tif
+    sha256: ffb9823fc3f6777d54152d577ad4778c94bd980305184425c5f8547458404157
+    mime: image/tiff
+    bytes: 7464850
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/b9/ffb9823fc3f6777d54152d577ad4778c94bd980305184425c5f8547458404157/preview-400.06d86fce4ea3.jpg
+        sha256: 06d86fce4ea3ff5040d94e3d8486af5582a5e0b73f81e1a8dd6569d1783b7842
+        mime: image/jpeg
+        bytes: 44961
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/e2/d0/e2d084fe5a0b6c102e943387640e0a1e9f450ce00b62b49eb1008ff8aeb6c8db/original.tif
+    sha256: e2d084fe5a0b6c102e943387640e0a1e9f450ce00b62b49eb1008ff8aeb6c8db
+    mime: image/tiff
+    bytes: 21188626
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e2/d0/e2d084fe5a0b6c102e943387640e0a1e9f450ce00b62b49eb1008ff8aeb6c8db/preview-400.d6b093c610ee.jpg
+        sha256: d6b093c610eecd4ef43bb93bc825413ab05983ed698427624876288382d5678d
+        mime: image/jpeg
+        bytes: 81362
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

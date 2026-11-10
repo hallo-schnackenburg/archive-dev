@@ -1,0 +1,34 @@
+id: 01K1TGHE4QY0X9PXSB2RQWP169
+type: image
+subtype: print
+title: Brücke Prospekt zur Ernte
+description: Kupferstich.
+date: 1882-07-19
+origin:
+  name: Hans Brandt
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/16/99/1699394581ac7f4126c4140621a9cdd13d81b49f7a7f0a8f99350b70f81e7edc/original.tif
+    sha256: 1699394581ac7f4126c4140621a9cdd13d81b49f7a7f0a8f99350b70f81e7edc
+    mime: image/tiff
+    bytes: 16543926
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/16/99/1699394581ac7f4126c4140621a9cdd13d81b49f7a7f0a8f99350b70f81e7edc/preview-400.5c17f48064b7.jpg
+        sha256: 5c17f48064b7eed41f9c14da6f50d3ee3bd76370fe1c0c84ec4ee8d165aaaf4a
+        mime: image/jpeg
+        bytes: 53725
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

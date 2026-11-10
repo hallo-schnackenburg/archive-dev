@@ -1,0 +1,35 @@
+id: 01J44D3TH0NZKEKD6FSNTKHPM0
+type: image
+subtype: photo
+title: Sportplatz Einweihung am Sonntag
+date: 1886/1890
+location: Seedorf, Fachwerkhaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/8a/6f/8a6fbefd76777c5ddc585f81bf808782c7fbfe4d5ba099586024bcf06b38af6e/original.jpg
+    sha256: 8a6fbefd76777c5ddc585f81bf808782c7fbfe4d5ba099586024bcf06b38af6e
+    mime: image/jpeg
+    bytes: 27276840
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/8a/6f/8a6fbefd76777c5ddc585f81bf808782c7fbfe4d5ba099586024bcf06b38af6e/preview-400.f1f472db71c1.jpg
+        sha256: f1f472db71c1104176766accb4fdef7d6c017fee25b127ae48a1882c3f34b217
+        mime: image/jpeg
+        bytes: 68577
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

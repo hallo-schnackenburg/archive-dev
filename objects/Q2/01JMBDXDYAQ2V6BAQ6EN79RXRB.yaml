@@ -1,0 +1,35 @@
+id: 01JMBDXDYAQ2V6BAQ6EN79RXRB
+type: image
+subtype: photo
+title: Dorfschule Gruppenbild im Sommer
+date: "1939"
+location: Holtorf, Elbufer
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/3a/7b/3a7b64646479f01ddc1eea0206ec98e12a6be2f9b2c21ee406a9d2347fc2d40c/original.jpg
+    sha256: 3a7b64646479f01ddc1eea0206ec98e12a6be2f9b2c21ee406a9d2347fc2d40c
+    mime: image/jpeg
+    bytes: 8128557
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/3a/7b/3a7b64646479f01ddc1eea0206ec98e12a6be2f9b2c21ee406a9d2347fc2d40c/preview-400.cf8a6a196ac0.jpg
+        sha256: cf8a6a196ac0029f77b2fe5a218b9ba1c8c308f3e5d58a86bb9dd38bf28d9845
+        mime: image/jpeg
+        bytes: 41443
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

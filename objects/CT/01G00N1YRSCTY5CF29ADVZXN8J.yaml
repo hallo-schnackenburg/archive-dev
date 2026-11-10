@@ -1,0 +1,53 @@
+id: 01G00N1YRSCTY5CF29ADVZXN8J
+type: document
+subtype: letter
+title: Bäckerei Bericht am Sonntag
+description: Rathaus und dorfteich, zur Wende.
+date: 2009-02
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/91/28/9128300b4ea47f9af5ff4a7ef91a10de046d923fd068ed89b0ad9d984f3b989d/original.tif
+    sha256: 9128300b4ea47f9af5ff4a7ef91a10de046d923fd068ed89b0ad9d984f3b989d
+    mime: image/tiff
+    bytes: 18671489
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/91/28/9128300b4ea47f9af5ff4a7ef91a10de046d923fd068ed89b0ad9d984f3b989d/preview-400.ee5394ffb778.jpg
+        sha256: ee5394ffb7784a6d71538c232e19c8178ba9e0423acc3a1808c976ca9dbcad79
+        mime: image/jpeg
+        bytes: 33556
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/dd/52/dd5296ad934841d916b554f0b9f3bcb73eb2679400c26cf714b826af9e30aa82/original.tif
+    sha256: dd5296ad934841d916b554f0b9f3bcb73eb2679400c26cf714b826af9e30aa82
+    mime: image/tiff
+    bytes: 15875246
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/52/dd5296ad934841d916b554f0b9f3bcb73eb2679400c26cf714b826af9e30aa82/preview-400.25d8d6bc404e.jpg
+        sha256: 25d8d6bc404ee0fb69cb851022af43edfc228ef8294ac680fb58dd1f323ead5d
+        mime: image/jpeg
+        bytes: 72531
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

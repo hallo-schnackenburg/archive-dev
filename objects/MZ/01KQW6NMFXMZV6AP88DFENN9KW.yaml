@@ -1,0 +1,53 @@
+id: 01KQW6NMFXMZV6AP88DFENN9KW
+type: document
+subtype: letter
+title: Ernte Einladung bei Hochwasser
+description: Schreibt über die Ernte und das Wetter.
+date: 1914-03-23
+language: de
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/28/d1/28d12c74571fa1b12f1e55b42d47285cfd796c732d374c7a9bb24516a3603f1f/original.tif
+    sha256: 28d12c74571fa1b12f1e55b42d47285cfd796c732d374c7a9bb24516a3603f1f
+    mime: image/tiff
+    bytes: 16716131
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/28/d1/28d12c74571fa1b12f1e55b42d47285cfd796c732d374c7a9bb24516a3603f1f/preview-400.50b59f836b0a.jpg
+        sha256: 50b59f836b0a95a993e4302da38089b52de7ffbad15b56ce899015d9f3662310
+        mime: image/jpeg
+        bytes: 56068
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/ac/0c/ac0c10c8122ce1b17de7f13e76d86b0a91e9aa2877d83db7e2fdc9b88a704596/original.tif
+    sha256: ac0c10c8122ce1b17de7f13e76d86b0a91e9aa2877d83db7e2fdc9b88a704596
+    mime: image/tiff
+    bytes: 3770978
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/0c/ac0c10c8122ce1b17de7f13e76d86b0a91e9aa2877d83db7e2fdc9b88a704596/preview-400.fd26639b8a57.jpg
+        sha256: fd26639b8a57ae72dad4ce5eb3ae526dc4e4feabbb71539a4372fcbe0bc22fb0
+        mime: image/jpeg
+        bytes: 44628
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

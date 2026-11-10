@@ -1,0 +1,37 @@
+id: 01JEJG9A92ABHZ3C15QC6CGTJP
+type: image
+subtype: print
+title: Dorfschule Rechnung am Sonntag
+date: 1862/1864
+location: Seedorf, Bäckerei
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/11/f5/11f52508d1bc5e7fc15449738f509ceecc2b2f7bdee4da52910811145a8c5a1b/original.tif
+    sha256: 11f52508d1bc5e7fc15449738f509ceecc2b2f7bdee4da52910811145a8c5a1b
+    mime: image/tiff
+    bytes: 12964598
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/f5/11f52508d1bc5e7fc15449738f509ceecc2b2f7bdee4da52910811145a8c5a1b/preview-400.a1c86b3878fd.jpg
+        sha256: a1c86b3878fdffa751b62f9dda1994357ade3ce8326b690f229613ae0ff663d9
+        mime: image/jpeg
+        bytes: 57494
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

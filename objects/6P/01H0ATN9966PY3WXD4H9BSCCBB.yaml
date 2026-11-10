@@ -1,0 +1,53 @@
+id: 01H0ATN9966PY3WXD4H9BSCCBB
+type: document
+subtype: letter
+title: Bahnhof Umzug am Sonntag
+description: Schreibt über die Ernte und das Wetter.
+date: 1895-01-20
+language: de
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/0c/ad/0cad69ec4c9558910344cc157b87d6779849fafc3f4fcd00c5063a93b9bf9f64/original.tif
+    sha256: 0cad69ec4c9558910344cc157b87d6779849fafc3f4fcd00c5063a93b9bf9f64
+    mime: image/tiff
+    bytes: 11103895
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0c/ad/0cad69ec4c9558910344cc157b87d6779849fafc3f4fcd00c5063a93b9bf9f64/preview-400.bfa7bf68e288.jpg
+        sha256: bfa7bf68e2880f1b1f154cdf6514bc6a51c0be2e6b3b2a34fb8b28530d659002
+        mime: image/jpeg
+        bytes: 72492
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/89/92/89929eec878f0dbe08bbc6af766e3f222d515398f7d16f5583dda4b55c7861df/original.tif
+    sha256: 89929eec878f0dbe08bbc6af766e3f222d515398f7d16f5583dda4b55c7861df
+    mime: image/tiff
+    bytes: 7221871
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/89/92/89929eec878f0dbe08bbc6af766e3f222d515398f7d16f5583dda4b55c7861df/preview-400.0cf7c8d040da.jpg
+        sha256: 0cf7c8d040da03e9ea761c1282d2af72b458409ba8e82a5cd0a24a752b34807e
+        mime: image/jpeg
+        bytes: 53093
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

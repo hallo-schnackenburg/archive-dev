@@ -1,0 +1,35 @@
+id: 01KN9WN4Z19NVSYW51YJ4K2FRK
+type: image
+subtype: photo
+title: Grenzturm Protokoll im Winter
+date: 1903-12
+location: Seedorf, Bäckerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/0d/de/0dde8c11d129c45c68645c4bbde01f56103048a7654cb7dfafa449fff73a4e35/original.jpg
+    sha256: 0dde8c11d129c45c68645c4bbde01f56103048a7654cb7dfafa449fff73a4e35
+    mime: image/jpeg
+    bytes: 21408505
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0d/de/0dde8c11d129c45c68645c4bbde01f56103048a7654cb7dfafa449fff73a4e35/preview-400.b7640cbd6e23.jpg
+        sha256: b7640cbd6e2384c6ea3aa5c836021161dc8d64e594f7cff86cf6eb4fdc74789a
+        mime: image/jpeg
+        bytes: 65632
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

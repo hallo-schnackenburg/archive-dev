@@ -1,0 +1,35 @@
+id: 01GS8KT7V6TV21RS6BDGBN29GR
+type: image
+subtype: photo
+title: Brunnen Umzug am Sonntag
+date: 1965-09-09
+location: Kapern, Bahnhof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/6a/42/6a4274a56b3d6d4cfff500a9472c77214f00be51f792a82c667a1ba05a81fa82/original.jpg
+    sha256: 6a4274a56b3d6d4cfff500a9472c77214f00be51f792a82c667a1ba05a81fa82
+    mime: image/jpeg
+    bytes: 22071106
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/6a/42/6a4274a56b3d6d4cfff500a9472c77214f00be51f792a82c667a1ba05a81fa82/preview-400.be310c8783fa.jpg
+        sha256: be310c8783fac2d2dfe06e23f7f1621742efe2b9a1eab42a5658fd8307cb14ec
+        mime: image/jpeg
+        bytes: 29004
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

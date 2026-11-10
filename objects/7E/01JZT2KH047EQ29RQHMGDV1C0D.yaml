@@ -1,0 +1,73 @@
+id: 01JZT2KH047EQ29RQHMGDV1C0D
+type: document
+subtype: letter
+title: Schmiede Festtag am Sonntag
+date: "1894"
+language: de
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Ostfront
+recipient: Familie Lüders, Schnackenburg
+notes: Teilweise schwer lesbar.
+files:
+  - role: page
+    num: 1
+    original_name: feldpost_lueders_001.tif
+    path: files/45/55/4555b011ce1456fe32902e378f38642996115f50d6deb2c7bbdcf1e2c52a4650/original.tif
+    sha256: 4555b011ce1456fe32902e378f38642996115f50d6deb2c7bbdcf1e2c52a4650
+    mime: image/tiff
+    bytes: 13106567
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/45/55/4555b011ce1456fe32902e378f38642996115f50d6deb2c7bbdcf1e2c52a4650/preview-400.f17fa57e51f9.jpg
+        sha256: f17fa57e51f962e62b90d03ff053fcf2c30506fc5f233c1c334617269366c53a
+        mime: image/jpeg
+        bytes: 63933
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: feldpost_lueders_002.tif
+    path: files/9f/04/9f04dfb6873d69de9a83f08013806eacf216798a6df6c4f4664810e39f81f7a4/original.tif
+    sha256: 9f04dfb6873d69de9a83f08013806eacf216798a6df6c4f4664810e39f81f7a4
+    mime: image/tiff
+    bytes: 10172721
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9f/04/9f04dfb6873d69de9a83f08013806eacf216798a6df6c4f4664810e39f81f7a4/preview-400.c2deb98eacb9.jpg
+        sha256: c2deb98eacb9808146f96fbdf4b46cbdf2efb740e4c4fbc1a9aa0d850951d394
+        mime: image/jpeg
+        bytes: 50163
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: feldpost_lueders_003.tif
+    path: files/6e/fd/6efd6e3d0705c9061f3439cc227284ff4947f0b50632f80a467118c314d4c974/original.tif
+    sha256: 6efd6e3d0705c9061f3439cc227284ff4947f0b50632f80a467118c314d4c974
+    mime: image/tiff
+    bytes: 20201653
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/fd/6efd6e3d0705c9061f3439cc227284ff4947f0b50632f80a467118c314d4c974/preview-400.707777965aa3.jpg
+        sha256: 707777965aa33091e7c77328889c105e69f3760a629d8526d445dbc3ea769809
+        mime: image/jpeg
+        bytes: 56637
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

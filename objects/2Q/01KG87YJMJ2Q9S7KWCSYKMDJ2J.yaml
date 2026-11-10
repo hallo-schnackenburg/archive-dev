@@ -1,0 +1,37 @@
+id: 01KG87YJMJ2Q9S7KWCSYKMDJ2J
+type: image
+subtype: print
+title: Mühle Festtag am Sonntag
+date: 1878-12
+location: Gorleben, Zollamt
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/82/e8/82e89883ae7e961867573e965b22b6a860ed572e3b99b012712e29c8ddd87041/original.tif
+    sha256: 82e89883ae7e961867573e965b22b6a860ed572e3b99b012712e29c8ddd87041
+    mime: image/tiff
+    bytes: 884307
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/82/e8/82e89883ae7e961867573e965b22b6a860ed572e3b99b012712e29c8ddd87041/preview-400.d1219417895a.jpg
+        sha256: d1219417895a0772722db928636b7a31566b3938eeda763bfb74a9dd0f859630
+        mime: image/jpeg
+        bytes: 84383
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

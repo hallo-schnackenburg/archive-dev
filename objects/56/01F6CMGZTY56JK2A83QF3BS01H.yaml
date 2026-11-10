@@ -1,0 +1,39 @@
+id: 01F6CMGZTY56JK2A83QF3BS01H
+type: image
+subtype: photo
+title: Dorfteich Rechnung am Sonntag
+date: 1987-04-06
+location: Gorleben, Mühle
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/c0/c6/c0c6b318a59b5bc947cc6622eff0aed3f35a1d96e7149c2b16c0c9d62d01e632/original.jpg
+    sha256: c0c6b318a59b5bc947cc6622eff0aed3f35a1d96e7149c2b16c0c9d62d01e632
+    mime: image/jpeg
+    bytes: 20308117
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c0/c6/c0c6b318a59b5bc947cc6622eff0aed3f35a1d96e7149c2b16c0c9d62d01e632/preview-400.af58a04a2930.jpg
+        sha256: af58a04a29305d8479d65b5513933add25bb93281032e205edd7335b8b39af37
+        mime: image/jpeg
+        bytes: 27305
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

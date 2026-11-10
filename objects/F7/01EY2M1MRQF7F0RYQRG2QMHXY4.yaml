@@ -1,0 +1,53 @@
+id: 01EY2M1MRQF7F0RYQRG2QMHXY4
+type: document
+subtype: letter
+title: Zollamt Zeichnung im Winter
+description: Elbufer und mühle, am Sonntag.
+date: 2019/2024
+language: de
+origin:
+  name: Marta Lüders
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/cf/72/cf727c57be7aad0ce1b6ab49c31883e36e79700ec596cff26e6705d2f8f75437/original.tif
+    sha256: cf727c57be7aad0ce1b6ab49c31883e36e79700ec596cff26e6705d2f8f75437
+    mime: image/tiff
+    bytes: 9264795
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cf/72/cf727c57be7aad0ce1b6ab49c31883e36e79700ec596cff26e6705d2f8f75437/preview-400.952d0304b96a.jpg
+        sha256: 952d0304b96ad8a9d1e073a0570fb3c7fbd261d9e01ae84e609139c6cdaa169b
+        mime: image/jpeg
+        bytes: 29988
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/1b/6a/1b6a76e7bcd836270d8d7c32eb1815ca212f5c9dda2d2d45b2dde889d810398e/original.tif
+    sha256: 1b6a76e7bcd836270d8d7c32eb1815ca212f5c9dda2d2d45b2dde889d810398e
+    mime: image/tiff
+    bytes: 24028892
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1b/6a/1b6a76e7bcd836270d8d7c32eb1815ca212f5c9dda2d2d45b2dde889d810398e/preview-400.dc67a84dd9aa.jpg
+        sha256: dc67a84dd9aa025913463a48e39878d07eea819f9368853479da26005627102d
+        mime: image/jpeg
+        bytes: 74099
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

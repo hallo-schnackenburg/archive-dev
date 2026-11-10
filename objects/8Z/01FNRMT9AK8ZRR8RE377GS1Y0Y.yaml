@@ -1,0 +1,34 @@
+id: 01FNRMT9AK8ZRR8RE377GS1Y0Y
+type: image
+subtype: plan
+title: Elbdeich Protokoll vor dem Umbau
+date: 2024~
+location: Kapern, Molkerei
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/e3/c4/e3c4afa371b4dd7ebc1c81f628eb97c979d2cbfe7e2c84eae2824e0466fcae56/original.tif
+    sha256: e3c4afa371b4dd7ebc1c81f628eb97c979d2cbfe7e2c84eae2824e0466fcae56
+    mime: image/tiff
+    bytes: 18827324
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e3/c4/e3c4afa371b4dd7ebc1c81f628eb97c979d2cbfe7e2c84eae2824e0466fcae56/preview-400.373934abd847.jpg
+        sha256: 373934abd847ae1a2ed7cc574687518c25cc45d5e57d04c1a3882262c1645bf0
+        mime: image/jpeg
+        bytes: 55089
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

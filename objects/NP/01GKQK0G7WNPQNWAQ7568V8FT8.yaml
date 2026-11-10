@@ -1,0 +1,34 @@
+id: 01GKQK0G7WNPQNWAQ7568V8FT8
+type: image
+subtype: print
+title: Elbufer Jubiläum am Sonntag
+description: Zollamt und kirche st. johannis, am Sonntag.
+date: 1929-01-25
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/55/84/5584e55a53b54c881fe17810296fe7105c4ad9be5cd90a43ad1ff4946dc94483/original.tif
+    sha256: 5584e55a53b54c881fe17810296fe7105c4ad9be5cd90a43ad1ff4946dc94483
+    mime: image/tiff
+    bytes: 21377786
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/55/84/5584e55a53b54c881fe17810296fe7105c4ad9be5cd90a43ad1ff4946dc94483/preview-400.436c4ad6c565.jpg
+        sha256: 436c4ad6c5655e41f83217b1737b7ad737aa301dd732f89db84473c6e9ec8b7f
+        mime: image/jpeg
+        bytes: 71614
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

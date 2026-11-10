@@ -1,0 +1,53 @@
+id: 01KFENJ2QXNR577RDXPD1AV1N2
+type: document
+subtype: letter
+title: Fachwerkhaus Brief zu Pfingsten
+description: Schreibt über die Ernte und das Wetter.
+date: "2007"
+language: de
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/b8/88/b888ead15ae5e4dd108ab536e2474e698bdf2697bd59fe5dfc4f8b29ba42ea73/original.tif
+    sha256: b888ead15ae5e4dd108ab536e2474e698bdf2697bd59fe5dfc4f8b29ba42ea73
+    mime: image/tiff
+    bytes: 2242185
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b8/88/b888ead15ae5e4dd108ab536e2474e698bdf2697bd59fe5dfc4f8b29ba42ea73/preview-400.97a1d3ffe2a0.jpg
+        sha256: 97a1d3ffe2a05925da18aae4b258879ae52f57763297edf46e56f6e117e6c99b
+        mime: image/jpeg
+        bytes: 47991
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/5a/43/5a4341c9b7476544a59af688633322c737ab4a8dd0505799e068544938284f01/original.tif
+    sha256: 5a4341c9b7476544a59af688633322c737ab4a8dd0505799e068544938284f01
+    mime: image/tiff
+    bytes: 17097090
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5a/43/5a4341c9b7476544a59af688633322c737ab4a8dd0505799e068544938284f01/preview-400.1a2395d8d142.jpg
+        sha256: 1a2395d8d142619827bd97f08fe511bdb1a03e3e444bb6f20befdb3e7f5425a6
+        mime: image/jpeg
+        bytes: 72906
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

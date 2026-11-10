@@ -1,0 +1,53 @@
+id: 01K5JRPJ9EHYFCS3N992DN1ZAS
+type: document
+subtype: letter
+title: Schmiede Umbau im Sommer
+description: Schreibt über die Ernte und das Wetter.
+date: 1879-04
+language: de
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/f9/57/f957bad04da422fed0976f989058b285141ff5caa43b4757f365255204923eec/original.tif
+    sha256: f957bad04da422fed0976f989058b285141ff5caa43b4757f365255204923eec
+    mime: image/tiff
+    bytes: 6793683
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f9/57/f957bad04da422fed0976f989058b285141ff5caa43b4757f365255204923eec/preview-400.ca7a800b2def.jpg
+        sha256: ca7a800b2defca83adaec7fb3a64a144371186247bfb7c5a0dc17e1287c832da
+        mime: image/jpeg
+        bytes: 31731
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/81/80/8180e50d7d821e44446c18feea6dda9dc5b0dd0a40209dd0e958aa16eaa0b541/original.tif
+    sha256: 8180e50d7d821e44446c18feea6dda9dc5b0dd0a40209dd0e958aa16eaa0b541
+    mime: image/tiff
+    bytes: 20285341
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/81/80/8180e50d7d821e44446c18feea6dda9dc5b0dd0a40209dd0e958aa16eaa0b541/preview-400.9d5e83ac0502.jpg
+        sha256: 9d5e83ac0502ba49eb9e1638c4ed32641aa37c8e58faffe50009f4bc097c278e
+        mime: image/jpeg
+        bytes: 51241
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

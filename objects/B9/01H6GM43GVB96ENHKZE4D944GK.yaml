@@ -1,0 +1,34 @@
+id: 01H6GM43GVB96ENHKZE4D944GK
+type: image
+subtype: plan
+title: Feuerwehr Brief bei Hochwasser
+date: "1926"
+location: Lenzen, Elbufer
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/bb/8f/bb8fd015beb7858559062cc23fd79cdd883bc5c0ee77e9a4ed05bb472716d24b/original.tif
+    sha256: bb8fd015beb7858559062cc23fd79cdd883bc5c0ee77e9a4ed05bb472716d24b
+    mime: image/tiff
+    bytes: 18169159
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bb/8f/bb8fd015beb7858559062cc23fd79cdd883bc5c0ee77e9a4ed05bb472716d24b/preview-400.f7b18cdd02b2.jpg
+        sha256: f7b18cdd02b27a89b07e1bc67bab590271de09fd19903a8fc3e5d61fd65bdabe
+        mime: image/jpeg
+        bytes: 65211
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

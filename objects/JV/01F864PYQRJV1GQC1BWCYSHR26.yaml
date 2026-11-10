@@ -1,0 +1,39 @@
+id: 01F864PYQRJV1GQC1BWCYSHR26
+type: image
+subtype: photo
+title: Kirche St. Johannis Bericht am Sonntag
+description: Brücke und grenzturm, zur Wende.
+date: "1887"
+location: Gartow, Hafen
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Fritz Bohlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/5b/f0/5bf040b9eb84cb8ef70e257423cc5bd4067c3e6b01df5ed3781b18c14f68dbab/original.jpg
+    sha256: 5bf040b9eb84cb8ef70e257423cc5bd4067c3e6b01df5ed3781b18c14f68dbab
+    mime: image/jpeg
+    bytes: 12079374
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/5b/f0/5bf040b9eb84cb8ef70e257423cc5bd4067c3e6b01df5ed3781b18c14f68dbab/preview-400.b545dded9799.jpg
+        sha256: b545dded9799d001871b74a031ca8fc2f109621b64699a51d1f6727f60f253ed
+        mime: image/jpeg
+        bytes: 49939
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

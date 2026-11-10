@@ -1,0 +1,51 @@
+id: 01HZFC9AEB155AF5XN7663D64T
+type: document
+subtype: brochure
+title: Zollamt Prospekt im Sommer
+date: "1974"
+language: de
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/8e/ce/8ece81ce7c7d424ca96d40230cdb4b1338202dc2b2013ca58b3dcc6f36a83cbc/original.tif
+    sha256: 8ece81ce7c7d424ca96d40230cdb4b1338202dc2b2013ca58b3dcc6f36a83cbc
+    mime: image/tiff
+    bytes: 19351325
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8e/ce/8ece81ce7c7d424ca96d40230cdb4b1338202dc2b2013ca58b3dcc6f36a83cbc/preview-400.0d03311e00ab.jpg
+        sha256: 0d03311e00ab13ea143c2619cc9155d58331da3cfa9a0ac3eac6df0a3c12cc45
+        mime: image/jpeg
+        bytes: 45152
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/ca/e2/cae21f7fe06dfbc98911ae5311f03be8bac06d3dd769726223ccf133c5c3b515/original.tif
+    sha256: cae21f7fe06dfbc98911ae5311f03be8bac06d3dd769726223ccf133c5c3b515
+    mime: image/tiff
+    bytes: 8834475
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ca/e2/cae21f7fe06dfbc98911ae5311f03be8bac06d3dd769726223ccf133c5c3b515/preview-400.68870eceeeb2.jpg
+        sha256: 68870eceeeb2c2b37d5d9256b85266a3c3e2b0ac3e865305eda92e8b58148cdc
+        mime: image/jpeg
+        bytes: 69617
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

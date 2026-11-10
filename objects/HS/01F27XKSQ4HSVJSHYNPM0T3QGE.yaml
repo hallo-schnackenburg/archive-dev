@@ -1,0 +1,35 @@
+id: 01F27XKSQ4HSVJSHYNPM0T3QGE
+type: image
+subtype: photo
+title: Elbdeich Umbau nach dem Krieg
+date: "1864"
+location: Pretzier, Gasthof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/06/de/06ded278da8a9b9fda2d50e4a1ff72e9a145a7245c06d9673d5ab8a188cceecc/original.jpg
+    sha256: 06ded278da8a9b9fda2d50e4a1ff72e9a145a7245c06d9673d5ab8a188cceecc
+    mime: image/jpeg
+    bytes: 2978722
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/06/de/06ded278da8a9b9fda2d50e4a1ff72e9a145a7245c06d9673d5ab8a188cceecc/preview-400.b3458a118a8d.jpg
+        sha256: b3458a118a8dae25a0c345fa0b4d45b8407ab79bf72aa0d44e847533ad172380
+        mime: image/jpeg
+        bytes: 72048
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

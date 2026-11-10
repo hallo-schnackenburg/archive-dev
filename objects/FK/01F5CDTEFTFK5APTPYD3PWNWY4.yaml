@@ -1,0 +1,51 @@
+id: 01F5CDTEFTFK5APTPYD3PWNWY4
+type: document
+subtype: brochure
+title: Kindergarten Ansicht am Morgen
+date: 1895-09-13
+language: de
+origin:
+  name: Hans Brandt
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/7c/e4/7ce42bfd163c7d9756b4738902468daa4e773377bbc8b07090193862f5697064/original.tif
+    sha256: 7ce42bfd163c7d9756b4738902468daa4e773377bbc8b07090193862f5697064
+    mime: image/tiff
+    bytes: 8421131
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7c/e4/7ce42bfd163c7d9756b4738902468daa4e773377bbc8b07090193862f5697064/preview-400.ecff9b503f5c.jpg
+        sha256: ecff9b503f5ce78e4c0647e2a5ca7ae5bcaba33379d5911a4a0fbe18a6bf0013
+        mime: image/jpeg
+        bytes: 48958
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/0f/c2/0fc2eac159a3d4693c16c350aa4bfc84bb23d69f83dafdfc708b32ab30525c12/original.tif
+    sha256: 0fc2eac159a3d4693c16c350aa4bfc84bb23d69f83dafdfc708b32ab30525c12
+    mime: image/tiff
+    bytes: 6586911
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0f/c2/0fc2eac159a3d4693c16c350aa4bfc84bb23d69f83dafdfc708b32ab30525c12/preview-400.dbcbedf54e49.jpg
+        sha256: dbcbedf54e491ed485a81c2a29aaacfe74bddc82d6640356ada5c78cfac2d394
+        mime: image/jpeg
+        bytes: 87747
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

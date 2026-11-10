@@ -1,0 +1,35 @@
+id: 01GEXTJ6W23CF6E3NGTHJHK5GF
+type: image
+subtype: photo
+title: Fachwerkhaus Abriss am Sonntag
+date: 2020-05-15
+location: Gartow, Bäckerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/cf/f4/cff415dddbc2b59821138a4473cb7e3a4ace9ae8ed3ad9945ccf2cefe949702c/original.jpg
+    sha256: cff415dddbc2b59821138a4473cb7e3a4ace9ae8ed3ad9945ccf2cefe949702c
+    mime: image/jpeg
+    bytes: 16694007
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/cf/f4/cff415dddbc2b59821138a4473cb7e3a4ace9ae8ed3ad9945ccf2cefe949702c/preview-400.d464deeb3c56.jpg
+        sha256: d464deeb3c56afc12f7084c0b9a3e659df5d662254b976d6eba0cfa0793e815c
+        mime: image/jpeg
+        bytes: 21898
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

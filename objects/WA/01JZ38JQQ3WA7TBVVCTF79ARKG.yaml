@@ -1,0 +1,39 @@
+id: 01JZ38JQQ3WA7TBVVCTF79ARKG
+type: image
+subtype: photo
+title: Elbdeich Einweihung am Morgen
+date: 1868-01-16
+location: Lüchow, Elbdeich
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Marta Lüders
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/71/73/7173de680f1e7a1a8528931dedfebd300089e542f8bc1eed7121a3db4a63ac7b/original.jpg
+    sha256: 7173de680f1e7a1a8528931dedfebd300089e542f8bc1eed7121a3db4a63ac7b
+    mime: image/jpeg
+    bytes: 517408
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/71/73/7173de680f1e7a1a8528931dedfebd300089e542f8bc1eed7121a3db4a63ac7b/preview-400.dff633cd186c.jpg
+        sha256: dff633cd186cb0490168da2d21eb08ffc619ce8576444989bd8980c858e8badc
+        mime: image/jpeg
+        bytes: 59375
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

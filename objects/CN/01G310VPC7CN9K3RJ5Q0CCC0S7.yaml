@@ -1,0 +1,34 @@
+id: 01G310VPC7CN9K3RJ5Q0CCC0S7
+type: image
+subtype: plan
+title: Bäckerei Gruppenbild im Winter
+date: 1982/1987
+location: Holtorf, Rathaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/f3/8e/f38eb2b50237d24eb7ebc87fb52e0fbed57161825dd89a18177cb8c3877952c2/original.tif
+    sha256: f38eb2b50237d24eb7ebc87fb52e0fbed57161825dd89a18177cb8c3877952c2
+    mime: image/tiff
+    bytes: 6178396
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f3/8e/f38eb2b50237d24eb7ebc87fb52e0fbed57161825dd89a18177cb8c3877952c2/preview-400.3d1d18844baf.jpg
+        sha256: 3d1d18844baf5ca9843ee05f6c6b5ae09c7b03a2e44170d08638e02e587c88e5
+        mime: image/jpeg
+        bytes: 78514
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

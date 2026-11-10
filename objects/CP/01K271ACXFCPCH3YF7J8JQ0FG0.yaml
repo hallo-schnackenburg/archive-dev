@@ -1,0 +1,53 @@
+id: 01K271ACXFCPCH3YF7J8JQ0FG0
+type: document
+subtype: letter
+title: Friedhof Bescheid zur Ernte
+description: Grenzturm und rathaus, bei Hochwasser.
+date: 1895-10-01
+language: de
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/e3/af/e3af6d5d4e99052ae08c4fecd19b14931f377ceae11e92c2d2170a4c8ce2f385/original.tif
+    sha256: e3af6d5d4e99052ae08c4fecd19b14931f377ceae11e92c2d2170a4c8ce2f385
+    mime: image/tiff
+    bytes: 15098620
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e3/af/e3af6d5d4e99052ae08c4fecd19b14931f377ceae11e92c2d2170a4c8ce2f385/preview-400.637aee65cfbf.jpg
+        sha256: 637aee65cfbfdc17ef2cd285641e17eea30a69962a6f0bedf524e7398f184432
+        mime: image/jpeg
+        bytes: 48913
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/40/d7/40d72059b899de92f3f6970376a9e2f5777e2908290815b2182aa87566d89374/original.tif
+    sha256: 40d72059b899de92f3f6970376a9e2f5777e2908290815b2182aa87566d89374
+    mime: image/tiff
+    bytes: 19879131
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/d7/40d72059b899de92f3f6970376a9e2f5777e2908290815b2182aa87566d89374/preview-400.185baf3ae8d1.jpg
+        sha256: 185baf3ae8d13459712a365553841ddc34e3a1bb68f7b9f10f14adf0027b06da
+        mime: image/jpeg
+        bytes: 76981
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

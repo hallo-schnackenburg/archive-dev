@@ -1,0 +1,51 @@
+id: 01FMX823C1JKRFF2PRPK5AVR7K
+type: document
+subtype: brochure
+title: Bahnhof Aufnahme zur Wende
+date: 1858-08-10
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/00/6a/006adc5cfeeba38ebe778d167ad36ee72b397aa3ab15644f28975b8548af1584/original.tif
+    sha256: 006adc5cfeeba38ebe778d167ad36ee72b397aa3ab15644f28975b8548af1584
+    mime: image/tiff
+    bytes: 13165561
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/00/6a/006adc5cfeeba38ebe778d167ad36ee72b397aa3ab15644f28975b8548af1584/preview-400.c14e5aad51a7.jpg
+        sha256: c14e5aad51a7cf9727ba014e71554787988ae7aaeb18551ca0e1a171c84a760a
+        mime: image/jpeg
+        bytes: 65546
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/c4/9f/c49fdb5b8da19c95143e2165f5986e2d93ed86327a933b03bf29293a5ac9bfb5/original.tif
+    sha256: c49fdb5b8da19c95143e2165f5986e2d93ed86327a933b03bf29293a5ac9bfb5
+    mime: image/tiff
+    bytes: 18400582
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c4/9f/c49fdb5b8da19c95143e2165f5986e2d93ed86327a933b03bf29293a5ac9bfb5/preview-400.b3307dad7ece.jpg
+        sha256: b3307dad7ece4d289542cbb235783168cef5bc9f6b3237a23db17a193fc657ac
+        mime: image/jpeg
+        bytes: 27141
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

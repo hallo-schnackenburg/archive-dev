@@ -1,0 +1,37 @@
+id: 01F2HSPGTG1XA61E5CM646KQY7
+type: image
+subtype: print
+title: Dorfteich Festtag nach dem Krieg
+date: 1875-05
+location: Schnackenburg, Mühle
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/7f/b9/7fb979d203810483880d07d2a3d9b097cc7f1a5ebfd8902a71f8c3ecde0e6bd6/original.tif
+    sha256: 7fb979d203810483880d07d2a3d9b097cc7f1a5ebfd8902a71f8c3ecde0e6bd6
+    mime: image/tiff
+    bytes: 17517584
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7f/b9/7fb979d203810483880d07d2a3d9b097cc7f1a5ebfd8902a71f8c3ecde0e6bd6/preview-400.949bcb10d48c.jpg
+        sha256: 949bcb10d48c118c1213db5a795e1e30ea850aa5864ba503f5f9985e38810dc5
+        mime: image/jpeg
+        bytes: 72776
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

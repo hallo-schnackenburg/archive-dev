@@ -1,0 +1,51 @@
+id: 01G9TSF9KBM2B00QB5MHXJ4Y0D
+type: document
+subtype: brochure
+title: Bäckerei Umbau im Winter
+date: 1991-06-22
+language: de
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/e3/e7/e3e774008fdb3d65b993db03b2f082bccb605cf6987a157d3066282791b5368f/original.tif
+    sha256: e3e774008fdb3d65b993db03b2f082bccb605cf6987a157d3066282791b5368f
+    mime: image/tiff
+    bytes: 13835816
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e3/e7/e3e774008fdb3d65b993db03b2f082bccb605cf6987a157d3066282791b5368f/preview-400.d21d6594f5bf.jpg
+        sha256: d21d6594f5bf0731dd5f8342e782168fe47f91b2bca21dfb807ee2c06263b900
+        mime: image/jpeg
+        bytes: 22049
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/bd/0e/bd0e899219fc6f15937e84a57df831d51e0abea5d0568296e6e2f0d0bfc2a4cd/original.tif
+    sha256: bd0e899219fc6f15937e84a57df831d51e0abea5d0568296e6e2f0d0bfc2a4cd
+    mime: image/tiff
+    bytes: 20373205
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/0e/bd0e899219fc6f15937e84a57df831d51e0abea5d0568296e6e2f0d0bfc2a4cd/preview-400.0b97f6416353.jpg
+        sha256: 0b97f6416353dda0a45305968315bbd1fb39f2fa947fe0c4aa64acee0cf2fff7
+        mime: image/jpeg
+        bytes: 40683
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

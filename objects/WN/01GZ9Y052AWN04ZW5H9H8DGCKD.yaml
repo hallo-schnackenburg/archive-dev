@@ -1,0 +1,39 @@
+id: 01GZ9Y052AWN04ZW5H9H8DGCKD
+type: image
+subtype: photo
+title: Schmiede Ansicht vor dem Umbau
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1854-12
+location: Kapern, Rathaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Dieter Ahrens
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/93/13/931356981bbf89947d7c79e230720119a8397127a557342fab220ec05617b9f4/original.jpg
+    sha256: 931356981bbf89947d7c79e230720119a8397127a557342fab220ec05617b9f4
+    mime: image/jpeg
+    bytes: 18672376
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/93/13/931356981bbf89947d7c79e230720119a8397127a557342fab220ec05617b9f4/preview-400.8fa27912edd3.jpg
+        sha256: 8fa27912edd317d43cffbfcae4d583f8f1689c9cbe36e4b54f2232c007b7efd7
+        mime: image/jpeg
+        bytes: 55865
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

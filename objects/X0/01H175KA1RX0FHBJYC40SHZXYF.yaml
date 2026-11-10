@@ -1,0 +1,47 @@
+id: 01H175KA1RX0FHBJYC40SHZXYF
+type: image
+subtype: photo
+title: Bahnhof Ansicht im Winter
+description: Der Umzug der Schützengesellschaft zieht über den Markt, im Hintergrund die Fachwerkhäuser.
+date: 1898-02-04
+location: Lüchow, Dorfschule
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Marta Lüders
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/28/4b/284b55b700b42bae19d0b260835461a8c36db67937639d636567b5da6fb14bc6/original.jpg
+    sha256: 284b55b700b42bae19d0b260835461a8c36db67937639d636567b5da6fb14bc6
+    mime: image/jpeg
+    bytes: 15617076
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/28/4b/284b55b700b42bae19d0b260835461a8c36db67937639d636567b5da6fb14bc6/preview-400.fc809b318f65.jpg
+        sha256: fc809b318f652841fd849c12b7034420e1bd5a515958cac318df3831cfd5361a
+        mime: image/jpeg
+        bytes: 20952
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

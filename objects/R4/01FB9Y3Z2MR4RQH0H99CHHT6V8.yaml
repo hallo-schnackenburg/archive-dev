@@ -1,0 +1,35 @@
+id: 01FB9Y3Z2MR4RQH0H99CHHT6V8
+type: image
+subtype: photo
+title: Gasthof Protokoll am Morgen
+date: "1970"
+location: Holtorf, Grenzturm
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/21/8e/218ef61596aac6d653bcace1a449dad35c73f780782210e60dd76dab17022e76/original.jpg
+    sha256: 218ef61596aac6d653bcace1a449dad35c73f780782210e60dd76dab17022e76
+    mime: image/jpeg
+    bytes: 8084302
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/21/8e/218ef61596aac6d653bcace1a449dad35c73f780782210e60dd76dab17022e76/preview-400.fe4d2c5a8883.jpg
+        sha256: fe4d2c5a888364fa8bd60f2574a779ea06c51377d41054b7750c7c1000790160
+        mime: image/jpeg
+        bytes: 87387
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

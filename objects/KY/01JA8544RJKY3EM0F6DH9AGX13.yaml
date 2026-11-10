@@ -1,0 +1,39 @@
+id: 01JA8544RJKY3EM0F6DH9AGX13
+type: image
+subtype: photo
+title: Brücke Zeichnung nach dem Krieg
+date: "2002"
+location: Schnackenburg, Molkerei
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Fritz Bohlmann
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/60/6c/606ccdecc58b67af37b4f03e1466e73adcfc84b55fca52d1e75efa660bafc405/original.jpg
+    sha256: 606ccdecc58b67af37b4f03e1466e73adcfc84b55fca52d1e75efa660bafc405
+    mime: image/jpeg
+    bytes: 14460186
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/60/6c/606ccdecc58b67af37b4f03e1466e73adcfc84b55fca52d1e75efa660bafc405/preview-400.dc15fd191576.jpg
+        sha256: dc15fd19157655ce18a8907aad8255abdfd8558b2d3a713a9b7036bf0d1b858a
+        mime: image/jpeg
+        bytes: 33964
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

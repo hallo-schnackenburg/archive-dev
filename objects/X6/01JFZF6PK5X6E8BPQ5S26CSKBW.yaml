@@ -1,0 +1,53 @@
+id: 01JFZF6PK5X6E8BPQ5S26CSKBW
+type: document
+subtype: letter
+title: Feuerwehr Abriss am Morgen
+description: Schreibt über die Ernte und das Wetter.
+date: 2013/2017
+language: de
+origin:
+  name: Rudolf Garms
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/c7/0f/c70ff42135cac942d22725cea704726db11db15dc3002458b24f8f8c126cdfb6/original.tif
+    sha256: c70ff42135cac942d22725cea704726db11db15dc3002458b24f8f8c126cdfb6
+    mime: image/tiff
+    bytes: 18219864
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c7/0f/c70ff42135cac942d22725cea704726db11db15dc3002458b24f8f8c126cdfb6/preview-400.0b275af18fd5.jpg
+        sha256: 0b275af18fd5a057c8b52d0545956f20083e2c92b52f2e9941d2e617e7d0a834
+        mime: image/jpeg
+        bytes: 59023
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/2d/f0/2df0cb99e145266dd2f8268d9f94b5e3d736f660318137d0a057f967efda0a16/original.tif
+    sha256: 2df0cb99e145266dd2f8268d9f94b5e3d736f660318137d0a057f967efda0a16
+    mime: image/tiff
+    bytes: 13120514
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/f0/2df0cb99e145266dd2f8268d9f94b5e3d736f660318137d0a057f967efda0a16/preview-400.191de8b98f42.jpg
+        sha256: 191de8b98f42aed4aaa3408345524b19c02d046e972ea4ceb1d3d0be81e68aa8
+        mime: image/jpeg
+        bytes: 71011
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

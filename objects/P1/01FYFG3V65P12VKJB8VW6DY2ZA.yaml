@@ -1,0 +1,34 @@
+id: 01FYFG3V65P12VKJB8VW6DY2ZA
+type: image
+subtype: plan
+title: Molkerei Prospekt zur Wende
+date: 2023-10
+location: Lenzen, Pfarrhaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/c2/58/c25840fa3da787d6ce2abdc9c1f8cd8ad7a0941f4cc1199b5c0ea289bd79bfe1/original.tif
+    sha256: c25840fa3da787d6ce2abdc9c1f8cd8ad7a0941f4cc1199b5c0ea289bd79bfe1
+    mime: image/tiff
+    bytes: 7634501
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/58/c25840fa3da787d6ce2abdc9c1f8cd8ad7a0941f4cc1199b5c0ea289bd79bfe1/preview-400.e44cd1a50bcb.jpg
+        sha256: e44cd1a50bcb7491ead6482c0bfe9331efcb8654ddb2d94bbe4b854876962018
+        mime: image/jpeg
+        bytes: 84000
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

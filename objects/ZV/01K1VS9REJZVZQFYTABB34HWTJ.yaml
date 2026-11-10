@@ -1,0 +1,35 @@
+id: 01K1VS9REJZVZQFYTABB34HWTJ
+type: image
+subtype: photo
+title: Brunnen Bescheid am Sonntag
+date: 1865-03-10
+location: Pretzier, Hafen
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/18/1e/181e1569e9cd91b8b045a4be8ed8504c30c05ee879f9c25148bc91f27e5cec0c/original.jpg
+    sha256: 181e1569e9cd91b8b045a4be8ed8504c30c05ee879f9c25148bc91f27e5cec0c
+    mime: image/jpeg
+    bytes: 6400123
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/18/1e/181e1569e9cd91b8b045a4be8ed8504c30c05ee879f9c25148bc91f27e5cec0c/preview-400.36e7a9a6cba2.jpg
+        sha256: 36e7a9a6cba2a1e2a536032408af8cbe0e609a685daa17018af8015207f93b3c
+        mime: image/jpeg
+        bytes: 66965
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

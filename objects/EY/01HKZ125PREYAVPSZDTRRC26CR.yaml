@@ -1,0 +1,34 @@
+id: 01HKZ125PREYAVPSZDTRRC26CR
+type: image
+subtype: print
+title: Mühle Besuch am Sonntag
+description: Mühle und hochwasser, im Sommer.
+date: 1863-05
+origin:
+  name: Anni Jeß
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/9e/ef/9eefa0e85d37facf181a82c76c84038480e09c6b633b74cf7834b26cb848e03c/original.tif
+    sha256: 9eefa0e85d37facf181a82c76c84038480e09c6b633b74cf7834b26cb848e03c
+    mime: image/tiff
+    bytes: 6483061
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9e/ef/9eefa0e85d37facf181a82c76c84038480e09c6b633b74cf7834b26cb848e03c/preview-400.00eb03826147.jpg
+        sha256: 00eb03826147a2bc70061f1c14edaae78c057f12d614ba9d2a47fa3141402c1e
+        mime: image/jpeg
+        bytes: 56967
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

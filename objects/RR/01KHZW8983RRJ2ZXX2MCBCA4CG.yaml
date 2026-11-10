@@ -1,0 +1,29 @@
+id: 01KHZW8983RRJ2ZXX2MCBCA4CG
+type: image
+subtype: plan
+title: Friedhof Bescheid am Morgen
+date: "1876"
+location: Restorf, Ernte
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: bauplan_feuerwehr.tif
+    path: files/db/0a/db0a6cb7810b41b99f59fe7f78a914ae38c68fe77caba76c5279da99d664ab38/original.tif
+    sha256: db0a6cb7810b41b99f59fe7f78a914ae38c68fe77caba76c5279da99d664ab38
+    mime: image/tiff
+    bytes: 19270816
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/0a/db0a6cb7810b41b99f59fe7f78a914ae38c68fe77caba76c5279da99d664ab38/preview-400.dc900e947386.jpg
+        sha256: dc900e947386f159dce824e277242847d5ff55cc3b39d75eeea5e1ac7b0c4448
+        mime: image/jpeg
+        bytes: 51292
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

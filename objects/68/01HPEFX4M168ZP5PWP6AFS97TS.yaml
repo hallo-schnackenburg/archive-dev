@@ -1,0 +1,35 @@
+id: 01HPEFX4M168ZP5PWP6AFS97TS
+type: image
+subtype: photo
+title: Rathaus Aufnahme zur Wende
+description: Zollamt und grenzturm, nach dem Krieg.
+date: 2008-01-02
+location: Lenzen, Bahnhof
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/b2/08/b20805d8c9be9203d6d2e6e5206fe4833ce17edd8068a880e826d553e1163e7c/original.jpg
+    sha256: b20805d8c9be9203d6d2e6e5206fe4833ce17edd8068a880e826d553e1163e7c
+    mime: image/jpeg
+    bytes: 19425173
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/b2/08/b20805d8c9be9203d6d2e6e5206fe4833ce17edd8068a880e826d553e1163e7c/preview-400.9e3bcc4a8c5c.jpg
+        sha256: 9e3bcc4a8c5cbc8f3adad5cf0a9bf9a71724f5f6ee184c1c24e1dfa4e4f6f597
+        mime: image/jpeg
+        bytes: 86236
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

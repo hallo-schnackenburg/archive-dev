@@ -1,0 +1,39 @@
+id: 01KFCAJ1HGPT1MYRG5YNKSER4Y
+type: image
+subtype: photo
+title: Feuerwehr Aufnahme im Winter
+date: 1903-02
+location: Pretzier, Kirche St. Johannis
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Dieter Ahrens
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/70/ef/70ef54fc9d964db2265d15b45be9e71181d9fcf98e0f1ab02f5776d35800e54b/original.jpg
+    sha256: 70ef54fc9d964db2265d15b45be9e71181d9fcf98e0f1ab02f5776d35800e54b
+    mime: image/jpeg
+    bytes: 3001688
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/70/ef/70ef54fc9d964db2265d15b45be9e71181d9fcf98e0f1ab02f5776d35800e54b/preview-400.82580299d729.jpg
+        sha256: 82580299d72966f950b10696773b199085ad9b04e7cb16167cd99a8d57658668
+        mime: image/jpeg
+        bytes: 77160
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

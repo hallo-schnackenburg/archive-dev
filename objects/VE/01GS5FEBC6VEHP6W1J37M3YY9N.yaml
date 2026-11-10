@@ -1,0 +1,35 @@
+id: 01GS5FEBC6VEHP6W1J37M3YY9N
+type: image
+subtype: photo
+title: Dorfteich Umbau bei Hochwasser
+date: 1970-09-26
+location: Gartow, Molkerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/43/ac/43ac26bc07e6e17f598886a8c73004fb54feb425d8de8e050cf12c1c98e2254a/original.jpg
+    sha256: 43ac26bc07e6e17f598886a8c73004fb54feb425d8de8e050cf12c1c98e2254a
+    mime: image/jpeg
+    bytes: 15014733
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/43/ac/43ac26bc07e6e17f598886a8c73004fb54feb425d8de8e050cf12c1c98e2254a/preview-400.a4a12443e9f5.jpg
+        sha256: a4a12443e9f5f3565a7f88572e3ba603d56095c5dc27d084b3d16ded840e4cf0
+        mime: image/jpeg
+        bytes: 57660
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

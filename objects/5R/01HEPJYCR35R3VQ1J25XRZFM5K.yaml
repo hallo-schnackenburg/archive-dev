@@ -1,0 +1,35 @@
+id: 01HEPJYCR35R3VQ1J25XRZFM5K
+type: image
+subtype: photo
+title: Kirche St. Johannis Entwurf im Sommer
+date: "1927"
+location: Holtorf, Kirche St. Johannis
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/10/b0/10b08671e40421dcde096b3c0439457b448c386d8c5a7519eed801a8555e9fe7/original.jpg
+    sha256: 10b08671e40421dcde096b3c0439457b448c386d8c5a7519eed801a8555e9fe7
+    mime: image/jpeg
+    bytes: 7361394
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/10/b0/10b08671e40421dcde096b3c0439457b448c386d8c5a7519eed801a8555e9fe7/preview-400.6c0ed50711dc.jpg
+        sha256: 6c0ed50711dc6fb13bf81546713faf76fa0a8673cc310f78856d64902cbf226c
+        mime: image/jpeg
+        bytes: 61228
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

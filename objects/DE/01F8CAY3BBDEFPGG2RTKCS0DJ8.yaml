@@ -1,0 +1,37 @@
+id: 01F8CAY3BBDEFPGG2RTKCS0DJ8
+type: image
+subtype: print
+title: Grenzturm Jubiläum im Winter
+date: "1926"
+location: Holtorf, Sportplatz
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/de/8a/de8ae56fae55ad36766039a87cb4be060265b4aca6231c01f6cfbaba40103946/original.tif
+    sha256: de8ae56fae55ad36766039a87cb4be060265b4aca6231c01f6cfbaba40103946
+    mime: image/tiff
+    bytes: 20700324
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/8a/de8ae56fae55ad36766039a87cb4be060265b4aca6231c01f6cfbaba40103946/preview-400.422e99f21b2b.jpg
+        sha256: 422e99f21b2b053d88f0c5fbe85efd333d3fc15620d79b281eb09996e35a62e4
+        mime: image/jpeg
+        bytes: 38903
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

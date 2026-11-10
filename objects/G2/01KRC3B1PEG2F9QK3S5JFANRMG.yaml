@@ -1,0 +1,35 @@
+id: 01KRC3B1PEG2F9QK3S5JFANRMG
+type: image
+subtype: photo
+title: Elbdeich Einladung zur Ernte
+date: "1927"
+location: Restorf, Fähre
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/8a/c9/8ac933cf9b7075c401f87ab627d028350646b3189c652e8d786bb7ed5bc7efff/original.jpg
+    sha256: 8ac933cf9b7075c401f87ab627d028350646b3189c652e8d786bb7ed5bc7efff
+    mime: image/jpeg
+    bytes: 16440106
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/8a/c9/8ac933cf9b7075c401f87ab627d028350646b3189c652e8d786bb7ed5bc7efff/preview-400.84040aaa8b65.jpg
+        sha256: 84040aaa8b655af60e5d23990d964b4383d740f6e27443530805e1e746b450f4
+        mime: image/jpeg
+        bytes: 80857
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01J2MD3V20FZV4814FHTVHESF1
+type: image
+subtype: photo
+title: Brunnen Ansicht im Sommer
+date: 1919-01
+location: Restorf, Fähre
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/35/30/35302342be497093512af80fc720f05d31aa99fc6b678979ef6fb5d4c4be607c/original.jpg
+    sha256: 35302342be497093512af80fc720f05d31aa99fc6b678979ef6fb5d4c4be607c
+    mime: image/jpeg
+    bytes: 3175149
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/35/30/35302342be497093512af80fc720f05d31aa99fc6b678979ef6fb5d4c4be607c/preview-400.e90ec8f77fcf.jpg
+        sha256: e90ec8f77fcff817b16cfa6f006917da7c655521cf568a3abbf54386f2a462ba
+        mime: image/jpeg
+        bytes: 38580
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

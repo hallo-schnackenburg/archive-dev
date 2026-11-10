@@ -1,0 +1,53 @@
+id: 01GN8RN0962SJWZ1RV152DS3H6
+type: document
+subtype: letter
+title: Marktplatz Besuch nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: 1946-01-01
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/47/53/47536ff7ec4900eabcbb91dede2b0389c2b97c3efc6ab9ca27e185afc0935f7a/original.tif
+    sha256: 47536ff7ec4900eabcbb91dede2b0389c2b97c3efc6ab9ca27e185afc0935f7a
+    mime: image/tiff
+    bytes: 25389070
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/47/53/47536ff7ec4900eabcbb91dede2b0389c2b97c3efc6ab9ca27e185afc0935f7a/preview-400.129f97a541b9.jpg
+        sha256: 129f97a541b955e6c293e411bd5e880cdc9f45c59760fdccbc24b676d45c0f7b
+        mime: image/jpeg
+        bytes: 48997
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/df/45/df4513755dc6837b4f23d6d38f753e8e5c4136b6b8aa0e0ae8b2252afeedf69a/original.tif
+    sha256: df4513755dc6837b4f23d6d38f753e8e5c4136b6b8aa0e0ae8b2252afeedf69a
+    mime: image/tiff
+    bytes: 10302438
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/df/45/df4513755dc6837b4f23d6d38f753e8e5c4136b6b8aa0e0ae8b2252afeedf69a/preview-400.760db6b87dae.jpg
+        sha256: 760db6b87daea962b007e84534649c69e42eff96e9120d9451ce8490c4fc08d1
+        mime: image/jpeg
+        bytes: 41732
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,51 @@
+id: 01JERHPMW04BXWPTTQ4MAE39TT
+type: document
+subtype: brochure
+title: Grenzturm Aufnahme zur Wende
+date: 1859-11-03
+language: de
+origin:
+  name: Marta Lüders
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/01/dd/01dd6552269025b7f3c5295abe8e675991dd593f5a733e4f5bb958f5de55f188/original.tif
+    sha256: 01dd6552269025b7f3c5295abe8e675991dd593f5a733e4f5bb958f5de55f188
+    mime: image/tiff
+    bytes: 27524459
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/dd/01dd6552269025b7f3c5295abe8e675991dd593f5a733e4f5bb958f5de55f188/preview-400.524c7d76c314.jpg
+        sha256: 524c7d76c314cfc4525015b2f1a94e6d4919627d4ec01b9d32b156a5a74f0608
+        mime: image/jpeg
+        bytes: 49524
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/c2/86/c286cd2062ee21bdda33d12c957faa9b2c4c1e7885d10207027a16cf5d409efb/original.tif
+    sha256: c286cd2062ee21bdda33d12c957faa9b2c4c1e7885d10207027a16cf5d409efb
+    mime: image/tiff
+    bytes: 9305103
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/86/c286cd2062ee21bdda33d12c957faa9b2c4c1e7885d10207027a16cf5d409efb/preview-400.c18f4ea0ffa1.jpg
+        sha256: c18f4ea0ffa107661ea6c4482ece41d1e07069b033c110de6c7e82bcecde3a3b
+        mime: image/jpeg
+        bytes: 40974
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,47 @@
+id: 01GF8W1BGGA45CTJZ968Z1JQN6
+type: image
+subtype: photo
+title: Schützenfest Jubiläum zur Wende
+description: Mühle und hafen, vor dem Umbau.
+date: 2018-02-08
+location: Gorleben, Ernte
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/d8/87/d8876fe6d1066258e09f717a78211bf59b9d811f5a970ac5a8fc897a4dc751d4/original.jpg
+    sha256: d8876fe6d1066258e09f717a78211bf59b9d811f5a970ac5a8fc897a4dc751d4
+    mime: image/jpeg
+    bytes: 12498293
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d8/87/d8876fe6d1066258e09f717a78211bf59b9d811f5a970ac5a8fc897a4dc751d4/preview-400.516e7c2b758e.jpg
+        sha256: 516e7c2b758e72837d783a30c55e31caa4adfd480c596847678b8cc3b064a403
+        mime: image/jpeg
+        bytes: 72872
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

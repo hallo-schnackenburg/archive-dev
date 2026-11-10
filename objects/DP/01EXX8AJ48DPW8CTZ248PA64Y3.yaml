@@ -1,0 +1,33 @@
+id: 01EXX8AJ48DPW8CTZ248PA64Y3
+type: document
+subtype: letter
+title: Bahnhof Protokoll am Sonntag
+date: "1976"
+language: de
+location: Lüchow, Kirche St. Johannis
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+recipient: Gemeinde Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: landrat_faehre_001.tif
+    path: files/ff/db/ffdbc212d8d5c7b14d97bce924b42e5155f98be02386459f14b9954cfb35c1a5/original.tif
+    sha256: ffdbc212d8d5c7b14d97bce924b42e5155f98be02386459f14b9954cfb35c1a5
+    mime: image/tiff
+    bytes: 11764616
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/db/ffdbc212d8d5c7b14d97bce924b42e5155f98be02386459f14b9954cfb35c1a5/preview-400.7b3f289fe60b.jpg
+        sha256: 7b3f289fe60b03407e6c24c75276f13593d7f05296bcab1f977722fb05793ded
+        mime: image/jpeg
+        bytes: 37097
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01G2549Q0GQV3B25KBMNQF75ZM
+type: image
+subtype: photo
+title: Bäckerei Ansicht nach dem Krieg
+date: 1895-03
+location: Gorleben, Friedhof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/dc/1a/dc1ab1c0fe98beaca633a0c157a6e5d20c4d70badda4cf47dbdbbaef79c46b70/original.jpg
+    sha256: dc1ab1c0fe98beaca633a0c157a6e5d20c4d70badda4cf47dbdbbaef79c46b70
+    mime: image/jpeg
+    bytes: 5142493
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/dc/1a/dc1ab1c0fe98beaca633a0c157a6e5d20c4d70badda4cf47dbdbbaef79c46b70/preview-400.84c2de13ebd4.jpg
+        sha256: 84c2de13ebd4bc0e5c90084ad73862bf2bb61721dfd3bf1e547be4c9dac17f32
+        mime: image/jpeg
+        bytes: 39855
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

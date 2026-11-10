@@ -1,0 +1,53 @@
+id: 01GHYMWQ4BJ69Z7SJ44YX0AFM9
+type: document
+subtype: letter
+title: Elbdeich Umzug am Sonntag
+description: Hochwasser und schützenfest, am Sonntag.
+date: "1985"
+language: de
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/b6/0c/b60c44ebd71b199587bfec9116bd7229d78804a158550f237a93fb376d635ac7/original.tif
+    sha256: b60c44ebd71b199587bfec9116bd7229d78804a158550f237a93fb376d635ac7
+    mime: image/tiff
+    bytes: 2831797
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b6/0c/b60c44ebd71b199587bfec9116bd7229d78804a158550f237a93fb376d635ac7/preview-400.835e38a4b4d5.jpg
+        sha256: 835e38a4b4d5aca1afd9ba9bdf0bea3719918c53ab6668c40004408ede828335
+        mime: image/jpeg
+        bytes: 79044
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/a1/5e/a15e80812c91403c31c729652fb0c4a2c8c454f7d9fee4f4dfa0d67de55148f3/original.tif
+    sha256: a15e80812c91403c31c729652fb0c4a2c8c454f7d9fee4f4dfa0d67de55148f3
+    mime: image/tiff
+    bytes: 17066973
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a1/5e/a15e80812c91403c31c729652fb0c4a2c8c454f7d9fee4f4dfa0d67de55148f3/preview-400.e69715fdd69d.jpg
+        sha256: e69715fdd69d2a6a1bbe1a823dcfe35c33cf38979b3d6e03aaa2b426181d4941
+        mime: image/jpeg
+        bytes: 20101
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

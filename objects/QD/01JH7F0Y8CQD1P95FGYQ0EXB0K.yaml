@@ -1,0 +1,34 @@
+id: 01JH7F0Y8CQD1P95FGYQ0EXB0K
+type: image
+subtype: plan
+title: Storchennest Brief bei Hochwasser
+date: 1904/1905
+location: Seedorf, Marktplatz
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/6a/3b/6a3bb6b686893dbac89250803d9db980c9cf9d6ea40643b238b52f61242a69bd/original.tif
+    sha256: 6a3bb6b686893dbac89250803d9db980c9cf9d6ea40643b238b52f61242a69bd
+    mime: image/tiff
+    bytes: 22307586
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6a/3b/6a3bb6b686893dbac89250803d9db980c9cf9d6ea40643b238b52f61242a69bd/preview-400.dc0490cad97a.jpg
+        sha256: dc0490cad97a86e95604fe0f9d58d3dc65dbd69789715e4581125261db8b8c8e
+        mime: image/jpeg
+        bytes: 54560
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

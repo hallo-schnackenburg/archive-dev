@@ -1,0 +1,39 @@
+id: 01KBMQ1TWFT7F23C0DF066412Q
+type: image
+subtype: photo
+title: Bahnhof Ansicht am Sonntag
+date: 2000-03
+location: Pretzier, Dorfschule
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/86/d6/86d67634edecd3d7a1fdca3e7845282f9952463424ccbeedbcde7e95e7238c0d/original.jpg
+    sha256: 86d67634edecd3d7a1fdca3e7845282f9952463424ccbeedbcde7e95e7238c0d
+    mime: image/jpeg
+    bytes: 27946804
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/86/d6/86d67634edecd3d7a1fdca3e7845282f9952463424ccbeedbcde7e95e7238c0d/preview-400.b04e3ecde1e7.jpg
+        sha256: b04e3ecde1e76f67a5788f410ac6ce712ff3b9b25eebc40322a928a6873c921d
+        mime: image/jpeg
+        bytes: 62446
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

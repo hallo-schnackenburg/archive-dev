@@ -1,0 +1,39 @@
+id: 01J3P1P8HV5QR3HDMN7WA3PE5A
+type: image
+subtype: photo
+title: Rathaus Gruppenbild am Sonntag
+date: 1995-07-20
+location: Seedorf, Hochwasser
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/4f/53/4f535f7da447a99d314845cc23331818919b4dff35c09ea0e5bc37bb4909c469/original.jpg
+    sha256: 4f535f7da447a99d314845cc23331818919b4dff35c09ea0e5bc37bb4909c469
+    mime: image/jpeg
+    bytes: 20784716
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4f/53/4f535f7da447a99d314845cc23331818919b4dff35c09ea0e5bc37bb4909c469/preview-400.131c3e4c12b7.jpg
+        sha256: 131c3e4c12b7c6a09d75d2017b3c1937f86e50994d0d9a8358893f3b17da756f
+        mime: image/jpeg
+        bytes: 53463
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

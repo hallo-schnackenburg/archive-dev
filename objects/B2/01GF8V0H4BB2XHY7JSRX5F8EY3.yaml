@@ -1,0 +1,34 @@
+id: 01GF8V0H4BB2XHY7JSRX5F8EY3
+type: image
+subtype: print
+title: Brunnen Zeichnung im Sommer
+description: Kupferstich.
+date: 1988-10
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/49/03/490367162c052f5d49379379ed064286dd64f21b4e403aed71c06eeba1897175/original.tif
+    sha256: 490367162c052f5d49379379ed064286dd64f21b4e403aed71c06eeba1897175
+    mime: image/tiff
+    bytes: 19154478
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/49/03/490367162c052f5d49379379ed064286dd64f21b4e403aed71c06eeba1897175/preview-400.9c5a4d2d4742.jpg
+        sha256: 9c5a4d2d4742eadd4feab2675e966e447544385f057483290b8838b8e8a5f26c
+        mime: image/jpeg
+        bytes: 59370
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

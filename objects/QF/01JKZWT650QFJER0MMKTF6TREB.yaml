@@ -1,0 +1,39 @@
+id: 01JKZWT650QFJER0MMKTF6TREB
+type: image
+subtype: photo
+title: Gasthof Entwurf zur Ernte
+description: Schützenfest und gasthof, zur Wende.
+date: 1972-12-02
+location: Lenzen, Dorfschule
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Karl Lemke
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/da/4a/da4a8b903d127912a1c99cfb0e19bbf2bd7d276247d38ecf2f9c2925c450da44/original.jpg
+    sha256: da4a8b903d127912a1c99cfb0e19bbf2bd7d276247d38ecf2f9c2925c450da44
+    mime: image/jpeg
+    bytes: 24768456
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/da/4a/da4a8b903d127912a1c99cfb0e19bbf2bd7d276247d38ecf2f9c2925c450da44/preview-400.ac08cef01236.jpg
+        sha256: ac08cef01236d2f56043bbcc8a22596e87227052dd2e59de8307ab5f3e3b5e5e
+        mime: image/jpeg
+        bytes: 21729
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

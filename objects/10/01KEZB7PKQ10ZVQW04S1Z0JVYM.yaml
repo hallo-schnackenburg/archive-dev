@@ -1,0 +1,34 @@
+id: 01KEZB7PKQ10ZVQW04S1Z0JVYM
+type: image
+subtype: plan
+title: Pfarrhaus Abriss bei Hochwasser
+date: 1986-03
+location: Gorleben, Elbdeich
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Erika Voss
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/8d/cd/8dcd912baaac940f509509e5c52df8af28f0c397b58b67a5f3e99c2c594a8f1b/original.tif
+    sha256: 8dcd912baaac940f509509e5c52df8af28f0c397b58b67a5f3e99c2c594a8f1b
+    mime: image/tiff
+    bytes: 20073583
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8d/cd/8dcd912baaac940f509509e5c52df8af28f0c397b58b67a5f3e99c2c594a8f1b/preview-400.b89218ce3738.jpg
+        sha256: b89218ce3738999989981e04314c4551ed7181348b6ec5f157a6d5adb7f07d93
+        mime: image/jpeg
+        bytes: 67012
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

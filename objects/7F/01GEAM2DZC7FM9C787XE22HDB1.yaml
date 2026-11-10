@@ -1,0 +1,39 @@
+id: 01GEAM2DZC7FM9C787XE22HDB1
+type: image
+subtype: photo
+title: Gemeindehaus Rechnung bei Hochwasser
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 2006-04-01
+location: Lenzen, Sportplatz
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Karl Lemke
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/71/33/713340a3590fd7dc055bdccd00a3fd0bf9991e1af1884b1afaa0fd8cd4400d0f/original.jpg
+    sha256: 713340a3590fd7dc055bdccd00a3fd0bf9991e1af1884b1afaa0fd8cd4400d0f
+    mime: image/jpeg
+    bytes: 3574624
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/71/33/713340a3590fd7dc055bdccd00a3fd0bf9991e1af1884b1afaa0fd8cd4400d0f/preview-400.3496aefa068d.jpg
+        sha256: 3496aefa068d00cec6048dcf390acd965ac9073b3a206b3ee62d1768994028ea
+        mime: image/jpeg
+        bytes: 35545
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

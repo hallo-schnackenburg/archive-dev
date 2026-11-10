@@ -1,0 +1,51 @@
+id: 01GW2WT1758NEZJHDGAKDFZ47E
+type: document
+subtype: brochure
+title: Friedhof Festtag nach dem Krieg
+date: 1892~
+language: de
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/ad/e8/ade8246c5473985f138005d4c135ba7ee6a0cd2652d908c24aefdce326a40715/original.tif
+    sha256: ade8246c5473985f138005d4c135ba7ee6a0cd2652d908c24aefdce326a40715
+    mime: image/tiff
+    bytes: 26036771
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ad/e8/ade8246c5473985f138005d4c135ba7ee6a0cd2652d908c24aefdce326a40715/preview-400.b16928c34220.jpg
+        sha256: b16928c34220a6bead1a0ff4e5b6913ee9455eb25de139527b68f871cd052f79
+        mime: image/jpeg
+        bytes: 56650
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/2d/4e/2d4e9d2dd552e85ab859b2e0ecb559c9a594af7692be3838de84ba94fa761dba/original.tif
+    sha256: 2d4e9d2dd552e85ab859b2e0ecb559c9a594af7692be3838de84ba94fa761dba
+    mime: image/tiff
+    bytes: 20475352
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/4e/2d4e9d2dd552e85ab859b2e0ecb559c9a594af7692be3838de84ba94fa761dba/preview-400.1ee1621b7ceb.jpg
+        sha256: 1ee1621b7cebbedf84508a6366f28e1675124d94ec6ff2044f86f3f09f40923f
+        mime: image/jpeg
+        bytes: 49006
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

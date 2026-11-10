@@ -1,0 +1,39 @@
+id: 01GEK0HCD41DMT2JCE9E75B8A5
+type: image
+subtype: photo
+title: Fähre Abriss im Winter
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1983-10-18
+location: Kapern, Storchennest
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Anni Jeß
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/98/cb/98cb391e0686dee685ccda6b072278d9eedb5ae2f1c31dd9cb953072da9fcc5d/original.jpg
+    sha256: 98cb391e0686dee685ccda6b072278d9eedb5ae2f1c31dd9cb953072da9fcc5d
+    mime: image/jpeg
+    bytes: 26185262
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/98/cb/98cb391e0686dee685ccda6b072278d9eedb5ae2f1c31dd9cb953072da9fcc5d/preview-400.8c172dd0fd03.jpg
+        sha256: 8c172dd0fd0306a18e66db2b004e2ff494f2c1b2fd1517646ed607f24ae948a4
+        mime: image/jpeg
+        bytes: 57472
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

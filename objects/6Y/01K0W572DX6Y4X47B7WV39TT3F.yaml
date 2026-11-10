@@ -1,0 +1,39 @@
+id: 01K0W572DX6Y4X47B7WV39TT3F
+type: image
+subtype: photo
+title: Marktplatz Prospekt zur Ernte
+date: 1902-03
+location: Gorleben, Kirche St. Johannis
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Hans Brandt
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/2e/be/2ebe8d73218beb3c703012ef2490d4d2945b3da5811d89c111270fcb51abbac0/original.jpg
+    sha256: 2ebe8d73218beb3c703012ef2490d4d2945b3da5811d89c111270fcb51abbac0
+    mime: image/jpeg
+    bytes: 16569594
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2e/be/2ebe8d73218beb3c703012ef2490d4d2945b3da5811d89c111270fcb51abbac0/preview-400.eff81cf4355c.jpg
+        sha256: eff81cf4355ca12eafcab90b79d61368de111e937d0d4d1501b2251cb89d252f
+        mime: image/jpeg
+        bytes: 84638
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

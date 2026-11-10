@@ -1,0 +1,29 @@
+id: 01KASJ89SN22F7D8EM6R5GJP8X
+type: image
+subtype: plan
+title: Gasthof Protokoll am Sonntag
+date: 2011~
+location: Gartow, Gasthof
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: bauplan_feuerwehr.tif
+    path: files/d5/fe/d5feb5bf5d6c350ac7b79c7bc1154e1a96d45c9765227fb381d35a9b5d05868b/original.tif
+    sha256: d5feb5bf5d6c350ac7b79c7bc1154e1a96d45c9765227fb381d35a9b5d05868b
+    mime: image/tiff
+    bytes: 15026420
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/fe/d5feb5bf5d6c350ac7b79c7bc1154e1a96d45c9765227fb381d35a9b5d05868b/preview-400.f5dba3649a01.jpg
+        sha256: f5dba3649a0147bf92e618a255a3ed57df832fde05e5536774e71592b1b26cf9
+        mime: image/jpeg
+        bytes: 76384
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

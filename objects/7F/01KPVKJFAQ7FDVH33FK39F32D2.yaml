@@ -1,0 +1,37 @@
+id: 01KPVKJFAQ7FDVH33FK39F32D2
+type: image
+subtype: print
+title: Hafen Besuch im Sommer
+date: "1935"
+location: Gartow, Hafen
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/ce/80/ce80d45559ebc059f9b84d6568b34f11f87f2307ecf2d1411e7600f20aa41bf2/original.tif
+    sha256: ce80d45559ebc059f9b84d6568b34f11f87f2307ecf2d1411e7600f20aa41bf2
+    mime: image/tiff
+    bytes: 23140166
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ce/80/ce80d45559ebc059f9b84d6568b34f11f87f2307ecf2d1411e7600f20aa41bf2/preview-400.0f6b58b5268f.jpg
+        sha256: 0f6b58b5268f7ba7e3e06e75d77c8c640d8c06225007409833541ee37657e49d
+        mime: image/jpeg
+        bytes: 33180
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

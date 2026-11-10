@@ -1,0 +1,34 @@
+id: 01J3E2HPSM3QZD3F4RK4PDZ4JA
+type: image
+subtype: plan
+title: Sportplatz Bescheid nach dem Krieg
+date: 1950~
+location: Seedorf, Molkerei
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/08/a9/08a96107822fed89e5a6274d0ce3bf1247cc6cf8fb46a11f5b3174c3551ba9a5/original.tif
+    sha256: 08a96107822fed89e5a6274d0ce3bf1247cc6cf8fb46a11f5b3174c3551ba9a5
+    mime: image/tiff
+    bytes: 27712080
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/08/a9/08a96107822fed89e5a6274d0ce3bf1247cc6cf8fb46a11f5b3174c3551ba9a5/preview-400.f95064499460.jpg
+        sha256: f950644994609d4f65ba4936ffc5a8fb0481f26ab4e131146fbf878af28afc9b
+        mime: image/jpeg
+        bytes: 73566
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

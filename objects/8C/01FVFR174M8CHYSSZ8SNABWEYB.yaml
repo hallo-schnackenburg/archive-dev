@@ -1,0 +1,34 @@
+id: 01FVFR174M8CHYSSZ8SNABWEYB
+type: image
+subtype: print
+title: Marktplatz Einweihung am Sonntag
+description: Kupferstich.
+date: 1990-09-20
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/ff/92/ff924566b159c15cc8bd28e4d62cbf33dafe94f5b5f7effe7c0b855eb6cee4e3/original.tif
+    sha256: ff924566b159c15cc8bd28e4d62cbf33dafe94f5b5f7effe7c0b855eb6cee4e3
+    mime: image/tiff
+    bytes: 8079762
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/92/ff924566b159c15cc8bd28e4d62cbf33dafe94f5b5f7effe7c0b855eb6cee4e3/preview-400.a42f412a79f3.jpg
+        sha256: a42f412a79f3fcdacb65e02588a9c6d2ce97393f3221d288150b783ff5ef8069
+        mime: image/jpeg
+        bytes: 28667
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

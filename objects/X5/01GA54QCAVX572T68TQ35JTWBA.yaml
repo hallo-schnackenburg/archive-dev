@@ -1,0 +1,39 @@
+id: 01GA54QCAVX572T68TQ35JTWBA
+type: image
+subtype: photo
+title: Ernte Zeichnung im Sommer
+date: 1905-04-25
+location: Lenzen, Gasthof
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/18/ad/18ad96685050ada15b81ed6333faa8f6c0366852187a72636f9ee133f810b1ff/original.jpg
+    sha256: 18ad96685050ada15b81ed6333faa8f6c0366852187a72636f9ee133f810b1ff
+    mime: image/jpeg
+    bytes: 26236660
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/18/ad/18ad96685050ada15b81ed6333faa8f6c0366852187a72636f9ee133f810b1ff/preview-400.0c04843c99f7.jpg
+        sha256: 0c04843c99f7c97affb0c873c7ce1e90402bf16e8bd18b5f4f3db4400082e146
+        mime: image/jpeg
+        bytes: 23519
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

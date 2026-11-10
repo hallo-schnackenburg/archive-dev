@@ -1,0 +1,34 @@
+id: 01F8XZGBAARD4GNMVCF4D9TXC2
+type: image
+subtype: plan
+title: Marktplatz Umzug im Sommer
+date: 2023~
+location: Restorf, Sportplatz
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/14/73/14736a4164066b45541941115d724133b8982271553093f21d9a27b50c939565/original.tif
+    sha256: 14736a4164066b45541941115d724133b8982271553093f21d9a27b50c939565
+    mime: image/tiff
+    bytes: 8580659
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/73/14736a4164066b45541941115d724133b8982271553093f21d9a27b50c939565/preview-400.a1f665a4e147.jpg
+        sha256: a1f665a4e1475834e735ed4cdcf13b2f64819d93b27b04049de8f87313499356
+        mime: image/jpeg
+        bytes: 62956
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

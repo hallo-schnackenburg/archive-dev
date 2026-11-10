@@ -1,0 +1,39 @@
+id: 01K4MRFVQQFCBGYSKGYA0GM512
+type: image
+subtype: photo
+title: Marktplatz Protokoll bei Hochwasser
+date: "1862"
+location: Gorleben, Schützenfest
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/46/cc/46cc7bc4f1bc0592adea4963f4854d61004f9bee7f26cef42587fc25aeac7800/original.jpg
+    sha256: 46cc7bc4f1bc0592adea4963f4854d61004f9bee7f26cef42587fc25aeac7800
+    mime: image/jpeg
+    bytes: 19631118
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/46/cc/46cc7bc4f1bc0592adea4963f4854d61004f9bee7f26cef42587fc25aeac7800/preview-400.afa811778c51.jpg
+        sha256: afa811778c5101d4709b408f28ffec726f288c23c084d3911b7872e921df1702
+        mime: image/jpeg
+        bytes: 49883
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

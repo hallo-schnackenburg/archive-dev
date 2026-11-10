@@ -1,0 +1,37 @@
+id: 01KTDK90DQ45AP84GJASRZ8F8D
+type: image
+subtype: print
+title: Hafen Rechnung zur Ernte
+date: 1921-07-17
+location: Lenzen, Hafen
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/09/7e/097ecc462c65d51e1ce2214973d16c18f02966d0e9760c27a97c6bf882de443f/original.tif
+    sha256: 097ecc462c65d51e1ce2214973d16c18f02966d0e9760c27a97c6bf882de443f
+    mime: image/tiff
+    bytes: 11042454
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/7e/097ecc462c65d51e1ce2214973d16c18f02966d0e9760c27a97c6bf882de443f/preview-400.243de1f65cd4.jpg
+        sha256: 243de1f65cd4cf6346eb3792e7de2b72ca4c20d3e1456005ef9267150fcf4db1
+        mime: image/jpeg
+        bytes: 68261
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

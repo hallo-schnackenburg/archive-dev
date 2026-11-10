@@ -1,0 +1,35 @@
+id: 01KDZHPXX1QTNEB2ZF3QERD1QQ
+type: image
+subtype: photo
+title: Feuerwehr Bericht nach dem Krieg
+date: 1915-06
+location: Gartow, Gasthof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/a3/60/a360e1f8a5d9bfe5b2082add05c2947b6bcc9fbd86dd2eedc5e167b8ac1d2b8b/original.jpg
+    sha256: a360e1f8a5d9bfe5b2082add05c2947b6bcc9fbd86dd2eedc5e167b8ac1d2b8b
+    mime: image/jpeg
+    bytes: 14509040
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a3/60/a360e1f8a5d9bfe5b2082add05c2947b6bcc9fbd86dd2eedc5e167b8ac1d2b8b/preview-400.b7c2acd83d6c.jpg
+        sha256: b7c2acd83d6c6a04da77fb5e88f7dfd1e7ed2873725bc65146bbbbf039406bfc
+        mime: image/jpeg
+        bytes: 82500
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

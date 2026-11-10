@@ -1,0 +1,47 @@
+id: 01KR3FPAGYZA4VSHQFYFCJ5GS0
+type: image
+subtype: photo
+title: Feuerwehr Zeichnung zur Wende
+description: Der Umzug der Schützengesellschaft zieht über den Markt, im Hintergrund die Fachwerkhäuser.
+date: 1855-09-02
+location: Schnackenburg, Dorfschule
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/c1/b8/c1b8f9be0508da4075acf4af270286a856ec251efc2ff8716d059b82a2790808/original.jpg
+    sha256: c1b8f9be0508da4075acf4af270286a856ec251efc2ff8716d059b82a2790808
+    mime: image/jpeg
+    bytes: 18883550
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c1/b8/c1b8f9be0508da4075acf4af270286a856ec251efc2ff8716d059b82a2790808/preview-400.b07aa6b5f9e0.jpg
+        sha256: b07aa6b5f9e03f03fab3bc281aedc1801b7ae303407516f617022b3a64be9da3
+        mime: image/jpeg
+        bytes: 35030
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

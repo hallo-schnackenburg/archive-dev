@@ -1,0 +1,53 @@
+id: 01EW8WKR78WQT66NJEVW4BHKJH
+type: document
+subtype: letter
+title: Kindergarten Abriss nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: "1970"
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/bd/84/bd84446b4372fa7384169c07b7b615fb54fbec173085f0e9f390701b0418ae39/original.tif
+    sha256: bd84446b4372fa7384169c07b7b615fb54fbec173085f0e9f390701b0418ae39
+    mime: image/tiff
+    bytes: 6734610
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/84/bd84446b4372fa7384169c07b7b615fb54fbec173085f0e9f390701b0418ae39/preview-400.267cb63f5c5a.jpg
+        sha256: 267cb63f5c5ab6dc33ce440e2a04130f4ddeb042ce14011266a5b6e93f38a46d
+        mime: image/jpeg
+        bytes: 49311
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/ab/f7/abf7c5939c41a7bc5db602f77dd90267897046fbc3603b263f1681ac9a40f90a/original.tif
+    sha256: abf7c5939c41a7bc5db602f77dd90267897046fbc3603b263f1681ac9a40f90a
+    mime: image/tiff
+    bytes: 10902046
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ab/f7/abf7c5939c41a7bc5db602f77dd90267897046fbc3603b263f1681ac9a40f90a/preview-400.06f395ce33d9.jpg
+        sha256: 06f395ce33d9dc80fc69782b87a25bca198d61603f12ab6630ec007ba3e86495
+        mime: image/jpeg
+        bytes: 50976
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

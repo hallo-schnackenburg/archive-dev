@@ -1,0 +1,47 @@
+id: 01FPZRHS00R41TVJ0M6JXB6JNC
+type: image
+subtype: photo
+title: Marktplatz Abriss zur Wende
+description: Pfarrhaus und sportplatz, nach dem Krieg.
+date: 2023/2024
+location: Schnackenburg, Schützenfest
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/04/4d/044d5a3ac53dc5bb41e14def1d52b10f58dee67f502d3b528a7d762576b4dc35/original.jpg
+    sha256: 044d5a3ac53dc5bb41e14def1d52b10f58dee67f502d3b528a7d762576b4dc35
+    mime: image/jpeg
+    bytes: 14582158
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/04/4d/044d5a3ac53dc5bb41e14def1d52b10f58dee67f502d3b528a7d762576b4dc35/preview-400.11f49c38befc.jpg
+        sha256: 11f49c38befc007fc3b29f2b10381746a2d5b1c45d4846ce8e66f7df9c9cd7f4
+        mime: image/jpeg
+        bytes: 62536
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

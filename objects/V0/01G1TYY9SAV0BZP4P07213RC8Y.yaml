@@ -1,0 +1,39 @@
+id: 01G1TYY9SAV0BZP4P07213RC8Y
+type: image
+subtype: photo
+title: Friedhof Brief im Winter
+date: 1933-09
+location: Pretzier, Hafen
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Fritz Bohlmann
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/1c/0d/1c0d66c89669b587307fa4bb2bf949b6fe1b7eda900a3474fd021b2e842003a7/original.jpg
+    sha256: 1c0d66c89669b587307fa4bb2bf949b6fe1b7eda900a3474fd021b2e842003a7
+    mime: image/jpeg
+    bytes: 2309324
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/1c/0d/1c0d66c89669b587307fa4bb2bf949b6fe1b7eda900a3474fd021b2e842003a7/preview-400.ba4288bc0dee.jpg
+        sha256: ba4288bc0deec779c628caef6c090bdd09344d9995ff352d6d88e5ee85a4e6de
+        mime: image/jpeg
+        bytes: 80863
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

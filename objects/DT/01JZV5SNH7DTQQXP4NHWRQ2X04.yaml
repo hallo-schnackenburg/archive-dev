@@ -1,0 +1,34 @@
+id: 01JZV5SNH7DTQQXP4NHWRQ2X04
+type: image
+subtype: plan
+title: Marktplatz Rechnung im Sommer
+date: 1869-01-05
+location: Holtorf, Grenzturm
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/64/af/64af888eac4d63d57d03e5882672d761cb34645e98bbc173d54015c11ad72082/original.tif
+    sha256: 64af888eac4d63d57d03e5882672d761cb34645e98bbc173d54015c11ad72082
+    mime: image/tiff
+    bytes: 22650085
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/64/af/64af888eac4d63d57d03e5882672d761cb34645e98bbc173d54015c11ad72082/preview-400.6b9c961ab9f8.jpg
+        sha256: 6b9c961ab9f8daaa2ba43b64d8ee75ae2e5120402985b4c27236f35f54008826
+        mime: image/jpeg
+        bytes: 64430
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

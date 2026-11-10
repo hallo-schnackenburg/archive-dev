@@ -1,0 +1,34 @@
+id: 01J5J9TF59EEMBEZPE9AQM6B2V
+type: image
+subtype: plan
+title: Elbufer Bericht am Morgen
+date: "1853"
+location: Pretzier, Zollamt
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/f7/38/f738a2bc95126129f933ac0bb03f415a01b583f97a52b4f0bb344a5bb6bb331d/original.tif
+    sha256: f738a2bc95126129f933ac0bb03f415a01b583f97a52b4f0bb344a5bb6bb331d
+    mime: image/tiff
+    bytes: 7088480
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f7/38/f738a2bc95126129f933ac0bb03f415a01b583f97a52b4f0bb344a5bb6bb331d/preview-400.b75f14ace30d.jpg
+        sha256: b75f14ace30d7192771b5dc71c86684bc2f5a743946f7916ace89e80f4a8e237
+        mime: image/jpeg
+        bytes: 81041
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

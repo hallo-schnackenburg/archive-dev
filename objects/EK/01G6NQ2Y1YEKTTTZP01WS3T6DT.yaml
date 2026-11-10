@@ -1,0 +1,35 @@
+id: 01G6NQ2Y1YEKTTTZP01WS3T6DT
+type: image
+subtype: photo
+title: Friedhof Bericht zur Wende
+date: "1908"
+location: Lenzen, Dorfteich
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/f6/76/f676b3bbc13ab62dd2dfd662d41f6b7ff07bb9f17ab06d81ca03556d29043f84/original.jpg
+    sha256: f676b3bbc13ab62dd2dfd662d41f6b7ff07bb9f17ab06d81ca03556d29043f84
+    mime: image/jpeg
+    bytes: 21087340
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f6/76/f676b3bbc13ab62dd2dfd662d41f6b7ff07bb9f17ab06d81ca03556d29043f84/preview-400.0511f9e51690.jpg
+        sha256: 0511f9e51690d0510f8ff7a432b344dfaa7c2d89ac3fccb1daeb4b73c7e6e5ed
+        mime: image/jpeg
+        bytes: 55720
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

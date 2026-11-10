@@ -1,0 +1,39 @@
+id: 01HY5H819SK095S342QRNEF0ZJ
+type: image
+subtype: photo
+title: Dorfschule Entwurf im Winter
+description: Hochwasser und elbdeich, im Sommer.
+date: 2020-06-16
+location: Lenzen, Hochwasser
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Ilse Wegner
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/6e/d5/6ed5e595f4075b212088489f2d0b1663d4cb2e6a1a2ba3cff816f7cbbd507c72/original.jpg
+    sha256: 6ed5e595f4075b212088489f2d0b1663d4cb2e6a1a2ba3cff816f7cbbd507c72
+    mime: image/jpeg
+    bytes: 7797354
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/6e/d5/6ed5e595f4075b212088489f2d0b1663d4cb2e6a1a2ba3cff816f7cbbd507c72/preview-400.8eba76309598.jpg
+        sha256: 8eba76309598b6b7f479c11454c52494a0ecd58fe8f57e627fe13af9ac13a484
+        mime: image/jpeg
+        bytes: 82447
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

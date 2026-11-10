@@ -1,0 +1,35 @@
+id: 01GNHK55H8TC0EYS2Y7AVCYEWF
+type: image
+subtype: photo
+title: Bäckerei Einladung vor dem Umbau
+date: 1854~
+location: Restorf, Friedhof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/fd/6c/fd6c5d3f45801f1a56a97b0d9a393e9d61f57edb831457d5f6a4fc50d5ad319e/original.jpg
+    sha256: fd6c5d3f45801f1a56a97b0d9a393e9d61f57edb831457d5f6a4fc50d5ad319e
+    mime: image/jpeg
+    bytes: 17643788
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fd/6c/fd6c5d3f45801f1a56a97b0d9a393e9d61f57edb831457d5f6a4fc50d5ad319e/preview-400.ac34f13ae4c7.jpg
+        sha256: ac34f13ae4c7d4b3e6eed042279f6306408354b7d00d1b89d40d2698b1a8878e
+        mime: image/jpeg
+        bytes: 55269
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,53 @@
+id: 01G0HPE6PFHX9A0ZYDNHCJDQ3D
+type: document
+subtype: letter
+title: Mühle Besuch am Sonntag
+description: Schreibt über die Ernte und das Wetter.
+date: "1988"
+language: de
+origin:
+  name: Karl Lemke
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/af/00/af009247e3f2a77564b9a8dccd1afc0cddf8cfc36c9010443926c729eb6416e1/original.tif
+    sha256: af009247e3f2a77564b9a8dccd1afc0cddf8cfc36c9010443926c729eb6416e1
+    mime: image/tiff
+    bytes: 10295132
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/af/00/af009247e3f2a77564b9a8dccd1afc0cddf8cfc36c9010443926c729eb6416e1/preview-400.1bbe86e99a60.jpg
+        sha256: 1bbe86e99a60994a8d2944439dcdeb5d6a0c89df505abf205d9dae0856dd845a
+        mime: image/jpeg
+        bytes: 37309
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/b4/0d/b40db26e497fac3228734d14e5a139ee793735bf8d36a117a1e04f79c67aecdf/original.tif
+    sha256: b40db26e497fac3228734d14e5a139ee793735bf8d36a117a1e04f79c67aecdf
+    mime: image/tiff
+    bytes: 24420094
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/0d/b40db26e497fac3228734d14e5a139ee793735bf8d36a117a1e04f79c67aecdf/preview-400.f7010718f01c.jpg
+        sha256: f7010718f01c66d8bd55b2d3d269539e63bbb39adf18215c1c2a7036ab0078c9
+        mime: image/jpeg
+        bytes: 56310
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

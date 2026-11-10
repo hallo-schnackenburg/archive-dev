@@ -1,0 +1,35 @@
+id: 01JZWBKSJ3VA9XF642EHW2351M
+type: image
+subtype: photo
+title: Feuerwehr Aufnahme am Morgen
+date: 1923-12
+location: Pretzier, Rathaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/7d/66/7d662cf103bb8fd500f567410a3492c9c462d99ab6eae55b2297cad105679f45/original.jpg
+    sha256: 7d662cf103bb8fd500f567410a3492c9c462d99ab6eae55b2297cad105679f45
+    mime: image/jpeg
+    bytes: 16093263
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7d/66/7d662cf103bb8fd500f567410a3492c9c462d99ab6eae55b2297cad105679f45/preview-400.a70d348899b0.jpg
+        sha256: a70d348899b0c23598ac3dc70a355bc21ef6173108b4fad701b095a576821acf
+        mime: image/jpeg
+        bytes: 67413
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

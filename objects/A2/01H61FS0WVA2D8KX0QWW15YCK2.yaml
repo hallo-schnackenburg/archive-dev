@@ -1,0 +1,39 @@
+id: 01H61FS0WVA2D8KX0QWW15YCK2
+type: image
+subtype: photo
+title: Kindergarten Brief nach dem Krieg
+date: 1853-06-19
+location: Kapern, Ernte
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Fritz Bohlmann
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/66/1b/661bd9840c449ec20a6885dc8e5004d0e7577635196d3fd59a20cf446775a0c7/original.jpg
+    sha256: 661bd9840c449ec20a6885dc8e5004d0e7577635196d3fd59a20cf446775a0c7
+    mime: image/jpeg
+    bytes: 23460975
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/66/1b/661bd9840c449ec20a6885dc8e5004d0e7577635196d3fd59a20cf446775a0c7/preview-400.abe3e78bbce3.jpg
+        sha256: abe3e78bbce3abdd74cccc7601e319054b30b300d2e2cc6b52f90d9319a89fe0
+        mime: image/jpeg
+        bytes: 87299
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

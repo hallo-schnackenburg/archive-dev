@@ -1,0 +1,35 @@
+id: 01HKTGE2EKHNZ7R1BX0T5Y8A0Q
+type: image
+subtype: photo
+title: Kirche St. Johannis Einweihung vor dem Umbau
+date: 1953/1959
+location: Lüchow, Molkerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/2b/c7/2bc77066a9840fbbe3306fab1262a091543c506c093760744ea118875ad4b289/original.jpg
+    sha256: 2bc77066a9840fbbe3306fab1262a091543c506c093760744ea118875ad4b289
+    mime: image/jpeg
+    bytes: 26013562
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2b/c7/2bc77066a9840fbbe3306fab1262a091543c506c093760744ea118875ad4b289/preview-400.799b0d071897.jpg
+        sha256: 799b0d071897207706b2bf37d162e8cb9ce21b19c5bff2feebb770f0e7f40695
+        mime: image/jpeg
+        bytes: 80931
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

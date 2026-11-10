@@ -1,0 +1,35 @@
+id: 01JMYPRC1BTNB9PP0X5PX44GED
+type: image
+subtype: photo
+title: Bahnhof Brief am Sonntag
+date: 1952-12-27
+location: Gorleben, Sportplatz
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/b1/33/b133b2092f9b560317f6af836e5e8401e98e354bf6fa2bb89c328720f3676f77/original.jpg
+    sha256: b133b2092f9b560317f6af836e5e8401e98e354bf6fa2bb89c328720f3676f77
+    mime: image/jpeg
+    bytes: 20928025
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b1/33/b133b2092f9b560317f6af836e5e8401e98e354bf6fa2bb89c328720f3676f77/preview-400.9ab142ea2931.jpg
+        sha256: 9ab142ea2931c3b1bff977a5bf1d38ceb036a48eacf9f3853721a4500088303b
+        mime: image/jpeg
+        bytes: 26398
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,53 @@
+id: 01G8FMPY2K985R9Y9B0TN6MY7E
+type: document
+subtype: letter
+title: Pfarrhaus Ansicht am Sonntag
+description: Bäckerei und marktplatz, zur Ernte.
+date: 1996-01-21
+language: de
+origin:
+  name: Marta Lüders
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/01/05/0105b831165dfa4b1e63e23925d3af92196c305a148bf0934275a7e25877b636/original.tif
+    sha256: 0105b831165dfa4b1e63e23925d3af92196c305a148bf0934275a7e25877b636
+    mime: image/tiff
+    bytes: 12613433
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/05/0105b831165dfa4b1e63e23925d3af92196c305a148bf0934275a7e25877b636/preview-400.eb55d04e20a3.jpg
+        sha256: eb55d04e20a39850872992fdb04405826476ee9b5295e8f11012ff005af9615b
+        mime: image/jpeg
+        bytes: 67380
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/96/97/96978eac0e89dc22bd9fe327c5fa73dada12e7fd35e7864710dee2a994811751/original.tif
+    sha256: 96978eac0e89dc22bd9fe327c5fa73dada12e7fd35e7864710dee2a994811751
+    mime: image/tiff
+    bytes: 13460636
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/96/97/96978eac0e89dc22bd9fe327c5fa73dada12e7fd35e7864710dee2a994811751/preview-400.1cdee14154b0.jpg
+        sha256: 1cdee14154b046edb48918cc9eefe385bf872f4c2a7ab430a5171bfefe9f613e
+        mime: image/jpeg
+        bytes: 22717
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

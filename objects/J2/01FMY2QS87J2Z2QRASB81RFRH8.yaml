@@ -1,0 +1,34 @@
+id: 01FMY2QS87J2Z2QRASB81RFRH8
+type: image
+subtype: plan
+title: Dorfteich Jubiläum nach dem Krieg
+date: 1977/1979
+location: Kapern, Elbdeich
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/66/0f/660f85f6f3f111b2f3d61d9582d12e546745c83bc4aa15773cad9a51fb8196b6/original.tif
+    sha256: 660f85f6f3f111b2f3d61d9582d12e546745c83bc4aa15773cad9a51fb8196b6
+    mime: image/tiff
+    bytes: 23343126
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/66/0f/660f85f6f3f111b2f3d61d9582d12e546745c83bc4aa15773cad9a51fb8196b6/preview-400.cee54573652a.jpg
+        sha256: cee54573652a8496373a2ffc0baa44a51f65e7218e0ed85a818d0fd37cc71ee6
+        mime: image/jpeg
+        bytes: 38586
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

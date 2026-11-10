@@ -1,0 +1,35 @@
+id: 01JM3Q6FNJ9Q9NA95DVKW35ND8
+type: image
+subtype: photo
+title: Pfarrhaus Zeichnung zur Wende
+date: 1870-10-28
+location: Gorleben, Zollamt
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/4a/e6/4ae617d55daeef465f8b06805377794bb8d5afc9524a70175bf1fc98e352f8cb/original.jpg
+    sha256: 4ae617d55daeef465f8b06805377794bb8d5afc9524a70175bf1fc98e352f8cb
+    mime: image/jpeg
+    bytes: 22965532
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4a/e6/4ae617d55daeef465f8b06805377794bb8d5afc9524a70175bf1fc98e352f8cb/preview-400.9f08cf1e5393.jpg
+        sha256: 9f08cf1e53939f8d9df5245d4d2919ff585da03f652b2c034bce94e67543f1c4
+        mime: image/jpeg
+        bytes: 37218
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

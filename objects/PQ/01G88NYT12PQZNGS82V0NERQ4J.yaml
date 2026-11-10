@@ -1,0 +1,47 @@
+id: 01G88NYT12PQZNGS82V0NERQ4J
+type: image
+subtype: photo
+title: Rathaus Notiz im Sommer
+description: Molkerei und bahnhof, vor dem Umbau.
+date: 1854-03-26
+location: Pretzier, Elbufer
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/06/7f/067f03549ebf6fc314d38ec46c03d4c9ea87dbb754937730c2f4f584d9784e95/original.jpg
+    sha256: 067f03549ebf6fc314d38ec46c03d4c9ea87dbb754937730c2f4f584d9784e95
+    mime: image/jpeg
+    bytes: 15778614
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/06/7f/067f03549ebf6fc314d38ec46c03d4c9ea87dbb754937730c2f4f584d9784e95/preview-400.64843428977f.jpg
+        sha256: 64843428977f8e0175f893911e0865dcad78de489a023e9c7156b94aceb26cdd
+        mime: image/jpeg
+        bytes: 21444
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

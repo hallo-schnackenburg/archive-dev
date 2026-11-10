@@ -1,0 +1,39 @@
+id: 01JBEK5HNS639R8DQNDG7MDCMC
+type: image
+subtype: photo
+title: Friedhof Gruppenbild zu Pfingsten
+date: 1889-03-01
+location: Schnackenburg, Hafen
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Hans Brandt
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/81/92/8192f29071157a96513251cb71e1051006c905fed6681fc91ec5fe872bb00b88/original.jpg
+    sha256: 8192f29071157a96513251cb71e1051006c905fed6681fc91ec5fe872bb00b88
+    mime: image/jpeg
+    bytes: 25809000
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/81/92/8192f29071157a96513251cb71e1051006c905fed6681fc91ec5fe872bb00b88/preview-400.b30aec66f1a2.jpg
+        sha256: b30aec66f1a202f626f64fdf56022989755d733a5ca95bf4e55179d27643ceb8
+        mime: image/jpeg
+        bytes: 56220
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

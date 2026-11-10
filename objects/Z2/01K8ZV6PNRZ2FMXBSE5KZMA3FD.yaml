@@ -1,0 +1,35 @@
+id: 01K8ZV6PNRZ2FMXBSE5KZMA3FD
+type: image
+subtype: photo
+title: Pfarrhaus Ansicht am Morgen
+date: 1935-04-19
+location: Pretzier, Ernte
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/12/c2/12c2bf4a0091ddc1a8eb6f0754054c2dfdfcbb6aa7db0c5ae4920a5c4989c53d/original.jpg
+    sha256: 12c2bf4a0091ddc1a8eb6f0754054c2dfdfcbb6aa7db0c5ae4920a5c4989c53d
+    mime: image/jpeg
+    bytes: 15399250
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/12/c2/12c2bf4a0091ddc1a8eb6f0754054c2dfdfcbb6aa7db0c5ae4920a5c4989c53d/preview-400.25b138422bba.jpg
+        sha256: 25b138422bbaaf80ed26118cde96566e9cd69d86719c7e94d3f9451633a5152e
+        mime: image/jpeg
+        bytes: 61819
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

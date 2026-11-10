@@ -1,0 +1,34 @@
+id: 01JVBS10JAXCZZYXQ01A8PJHPX
+type: image
+subtype: print
+title: Elbdeich Einweihung im Sommer
+description: Kupferstich.
+date: 1939-12-13
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/45/3d/453d841ca9e157b8ff7b313f6c50cbfddf9cc480c71e56c07df4aa698850eb81/original.tif
+    sha256: 453d841ca9e157b8ff7b313f6c50cbfddf9cc480c71e56c07df4aa698850eb81
+    mime: image/tiff
+    bytes: 22463749
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/45/3d/453d841ca9e157b8ff7b313f6c50cbfddf9cc480c71e56c07df4aa698850eb81/preview-400.e52152edcfd7.jpg
+        sha256: e52152edcfd72d30d883e897d78bd755d348498b78177487c91abdbd00026afe
+        mime: image/jpeg
+        bytes: 56236
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

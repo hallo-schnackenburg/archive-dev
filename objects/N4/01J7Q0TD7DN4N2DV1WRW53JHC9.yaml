@@ -1,0 +1,34 @@
+id: 01J7Q0TD7DN4N2DV1WRW53JHC9
+type: image
+subtype: plan
+title: Elbdeich Brief vor dem Umbau
+date: 1960-07
+location: Holtorf, Brunnen
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/f0/18/f018beefeae877e4131f9f08f73395afbe35c5b4a059ea74dc126fe42aceec69/original.tif
+    sha256: f018beefeae877e4131f9f08f73395afbe35c5b4a059ea74dc126fe42aceec69
+    mime: image/tiff
+    bytes: 7776238
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/18/f018beefeae877e4131f9f08f73395afbe35c5b4a059ea74dc126fe42aceec69/preview-400.f0ea5b42e047.jpg
+        sha256: f0ea5b42e047e8e0b63216e349d1712e37f2f13d0a4b702e70cc8885c3fbfd12
+        mime: image/jpeg
+        bytes: 22937
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

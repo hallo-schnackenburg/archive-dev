@@ -1,0 +1,35 @@
+id: 01GE18MGT8TX2EFJRXWAYQ5R9S
+type: image
+subtype: photo
+title: Sportplatz Aufnahme bei Hochwasser
+date: 2021/2023
+location: Restorf, Feuerwehr
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/70/74/70741be50858d1177eba5bda10e6c5dd0526b65bacfef57730c2e58df0b5e4e9/original.jpg
+    sha256: 70741be50858d1177eba5bda10e6c5dd0526b65bacfef57730c2e58df0b5e4e9
+    mime: image/jpeg
+    bytes: 2479773
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/70/74/70741be50858d1177eba5bda10e6c5dd0526b65bacfef57730c2e58df0b5e4e9/preview-400.2c08b72504c1.jpg
+        sha256: 2c08b72504c12a8438badb81d856480ae5af7b30f31ce3e5d34c77357be045a1
+        mime: image/jpeg
+        bytes: 43791
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

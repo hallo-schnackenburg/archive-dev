@@ -1,0 +1,37 @@
+id: 01J2H36YHKT0K65HR1KPF0PHMZ
+type: image
+subtype: print
+title: Sportplatz Protokoll nach dem Krieg
+date: 2024-04
+location: Lüchow, Gemeindehaus
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/ce/8b/ce8be946293e128b8bfb352125962087ba7628ab70ccc84f0ed3c6d8c906d95e/original.tif
+    sha256: ce8be946293e128b8bfb352125962087ba7628ab70ccc84f0ed3c6d8c906d95e
+    mime: image/tiff
+    bytes: 1699429
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ce/8b/ce8be946293e128b8bfb352125962087ba7628ab70ccc84f0ed3c6d8c906d95e/preview-400.bfae14fa93a0.jpg
+        sha256: bfae14fa93a0daadcc8f94adebf56d3f116c0f48637c43698c4cdf2501123e55
+        mime: image/jpeg
+        bytes: 60658
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

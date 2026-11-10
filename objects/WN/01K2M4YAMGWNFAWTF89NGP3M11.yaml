@@ -1,0 +1,39 @@
+id: 01K2M4YAMGWNFAWTF89NGP3M11
+type: image
+subtype: photo
+title: Dorfteich Gruppenbild am Sonntag
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1954-08-08
+location: Kapern, Mühle
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Marta Lüders
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/05/f1/05f155e5c9ffdcde01d11346409267649115cb0059fc833d637b6f82f888360b/original.jpg
+    sha256: 05f155e5c9ffdcde01d11346409267649115cb0059fc833d637b6f82f888360b
+    mime: image/jpeg
+    bytes: 23423671
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/05/f1/05f155e5c9ffdcde01d11346409267649115cb0059fc833d637b6f82f888360b/preview-400.e7e506dc758e.jpg
+        sha256: e7e506dc758eca4d3a61076878488656284e32c5a44a3bb0e24a3cd3f5d50338
+        mime: image/jpeg
+        bytes: 41464
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

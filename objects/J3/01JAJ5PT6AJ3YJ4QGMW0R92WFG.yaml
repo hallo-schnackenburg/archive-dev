@@ -1,0 +1,39 @@
+id: 01JAJ5PT6AJ3YJ4QGMW0R92WFG
+type: image
+subtype: photo
+title: Feuerwehr Besuch nach dem Krieg
+date: "1947"
+location: Schnackenburg, Bahnhof
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/86/ee/86eef1121fec7e152c7b59d330b1cc974715031caa12b4dc81115ca5227c779a/original.jpg
+    sha256: 86eef1121fec7e152c7b59d330b1cc974715031caa12b4dc81115ca5227c779a
+    mime: image/jpeg
+    bytes: 24384920
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/86/ee/86eef1121fec7e152c7b59d330b1cc974715031caa12b4dc81115ca5227c779a/preview-400.525825804dcc.jpg
+        sha256: 525825804dcc8d88ecc68be9e6a27a02bd0d65b2a957045df7528c5a6ec92587
+        mime: image/jpeg
+        bytes: 82459
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

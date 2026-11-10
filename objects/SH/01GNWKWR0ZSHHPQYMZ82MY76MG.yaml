@@ -1,0 +1,29 @@
+id: 01GNWKWR0ZSHHPQYMZ82MY76MG
+type: image
+subtype: plan
+title: Bahnhof Brief im Sommer
+date: 1865-09
+location: Restorf, Bahnhof
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: bauplan_feuerwehr.tif
+    path: files/06/d4/06d4e8700c256c7980e2638b531eb2eab85e9361bc2c472caf9ae20ca93f2207/original.tif
+    sha256: 06d4e8700c256c7980e2638b531eb2eab85e9361bc2c472caf9ae20ca93f2207
+    mime: image/tiff
+    bytes: 22845353
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/d4/06d4e8700c256c7980e2638b531eb2eab85e9361bc2c472caf9ae20ca93f2207/preview-400.b5ef0456962d.jpg
+        sha256: b5ef0456962d53e5e6c259c0e89684e92b19ae87b027f195c16a99b1f4bf8435
+        mime: image/jpeg
+        bytes: 55479
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

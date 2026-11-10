@@ -1,0 +1,39 @@
+id: 01JQ5NM2RN5SV6VC2CE65J8Z5X
+type: image
+subtype: photo
+title: Elbufer Besuch im Winter
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1872-07-12
+location: Restorf, Dorfschule
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Wilhelm Krüger
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/76/c3/76c3106c035b8112751ecb7d738d72dcf8e30df3902aae1c50d1e3e70f53c08b/original.jpg
+    sha256: 76c3106c035b8112751ecb7d738d72dcf8e30df3902aae1c50d1e3e70f53c08b
+    mime: image/jpeg
+    bytes: 22389815
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/76/c3/76c3106c035b8112751ecb7d738d72dcf8e30df3902aae1c50d1e3e70f53c08b/preview-400.57bc44499a8b.jpg
+        sha256: 57bc44499a8bad0a82c5c493f926fd13ba0043d7df339b26e0ef561ea8abd370
+        mime: image/jpeg
+        bytes: 71222
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01H5VXHQ48T6M0Q3XHJK4VDWX5
+type: image
+subtype: photo
+title: Dorfteich Zeichnung nach dem Krieg
+date: "1916"
+location: Kapern, Dorfschule
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Wilhelm Krüger
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/ff/1b/ff1b6ab72b52c571dcf558df0f466bb9deb628dd359f02d4f05ef8a1d23ab1e2/original.jpg
+    sha256: ff1b6ab72b52c571dcf558df0f466bb9deb628dd359f02d4f05ef8a1d23ab1e2
+    mime: image/jpeg
+    bytes: 14021944
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ff/1b/ff1b6ab72b52c571dcf558df0f466bb9deb628dd359f02d4f05ef8a1d23ab1e2/preview-400.e8abea11a3d1.jpg
+        sha256: e8abea11a3d16b539e79ebb5cd63fc66ed5ce44e4648b85283ceb117ea067781
+        mime: image/jpeg
+        bytes: 68003
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

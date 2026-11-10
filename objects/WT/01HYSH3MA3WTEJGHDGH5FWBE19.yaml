@@ -1,0 +1,39 @@
+id: 01HYSH3MA3WTEJGHDGH5FWBE19
+type: image
+subtype: photo
+title: Hafen Ansicht am Morgen
+description: Bahnhof und hochwasser, zu Pfingsten.
+date: "1943"
+location: Lüchow, Schützenfest
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Walter Kuhlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/7e/1f/7e1f224a4d3143b369b6d2b5c188bc962306d5ace863bffe57ebdacfa422d707/original.jpg
+    sha256: 7e1f224a4d3143b369b6d2b5c188bc962306d5ace863bffe57ebdacfa422d707
+    mime: image/jpeg
+    bytes: 17028772
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7e/1f/7e1f224a4d3143b369b6d2b5c188bc962306d5ace863bffe57ebdacfa422d707/preview-400.8cec4dabbca0.jpg
+        sha256: 8cec4dabbca007bddffe5bd0c1a79f79364c438dcf267b6d3bbf0b45980ea4b0
+        mime: image/jpeg
+        bytes: 53002
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

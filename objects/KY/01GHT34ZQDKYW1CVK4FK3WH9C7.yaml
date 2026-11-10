@@ -1,0 +1,53 @@
+id: 01GHT34ZQDKYW1CVK4FK3WH9C7
+type: document
+subtype: letter
+title: Feuerwehr Festtag im Winter
+description: Schreibt über die Ernte und das Wetter.
+date: 1999-05-26
+language: de
+origin:
+  name: Erika Voss
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/86/eb/86ebb041562202565c83eabb31124f401aa38798c87d6967f4001bd56ff39e49/original.tif
+    sha256: 86ebb041562202565c83eabb31124f401aa38798c87d6967f4001bd56ff39e49
+    mime: image/tiff
+    bytes: 11014909
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/eb/86ebb041562202565c83eabb31124f401aa38798c87d6967f4001bd56ff39e49/preview-400.d394e5b12bd4.jpg
+        sha256: d394e5b12bd4c977d2a2b1e60cc80dc9b10c7a47c52d04de7b97b03551a2ce4c
+        mime: image/jpeg
+        bytes: 54099
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/06/9d/069d44bc5b3a2b8da9cc6b4f22368b0731c8952a78cf708345be98192f8e16c6/original.tif
+    sha256: 069d44bc5b3a2b8da9cc6b4f22368b0731c8952a78cf708345be98192f8e16c6
+    mime: image/tiff
+    bytes: 4323944
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/9d/069d44bc5b3a2b8da9cc6b4f22368b0731c8952a78cf708345be98192f8e16c6/preview-400.5a890a4f2325.jpg
+        sha256: 5a890a4f2325a2419dc18995bc2bbab8481b1a9d9ecaf98dec7228ea7e4e1e6e
+        mime: image/jpeg
+        bytes: 69440
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

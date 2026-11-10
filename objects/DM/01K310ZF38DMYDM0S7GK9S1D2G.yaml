@@ -1,0 +1,37 @@
+id: 01K310ZF38DMYDM0S7GK9S1D2G
+type: image
+subtype: print
+title: Kirche St. Johannis Aufnahme zur Wende
+date: 1890-06-02
+location: Seedorf, Molkerei
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/dd/2a/dd2a15dadce01b82bfd1e242df1d33bdf70768fdf45ef8ad139e22fdce99173b/original.tif
+    sha256: dd2a15dadce01b82bfd1e242df1d33bdf70768fdf45ef8ad139e22fdce99173b
+    mime: image/tiff
+    bytes: 18443911
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/2a/dd2a15dadce01b82bfd1e242df1d33bdf70768fdf45ef8ad139e22fdce99173b/preview-400.d6f5726e0f6d.jpg
+        sha256: d6f5726e0f6d90b57dafada4d89336fcb1c3ec66cb5db8b9d7a2dfd72a241181
+        mime: image/jpeg
+        bytes: 75549
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

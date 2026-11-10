@@ -1,0 +1,35 @@
+id: 01HF042PGVC1QFT5KV4AT4NFN9
+type: image
+subtype: photo
+title: Ernte Rechnung im Winter
+date: 1861-03
+location: Lenzen, Elbdeich
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/43/8f/438f1964de9232e928224f54fb8512f2be0012e09c5ca5c2b75148f07f567308/original.jpg
+    sha256: 438f1964de9232e928224f54fb8512f2be0012e09c5ca5c2b75148f07f567308
+    mime: image/jpeg
+    bytes: 5771803
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/43/8f/438f1964de9232e928224f54fb8512f2be0012e09c5ca5c2b75148f07f567308/preview-400.ec595af03433.jpg
+        sha256: ec595af03433f98aae22eed7ee2a01f17f02613dcd973653e418ccb31eabae40
+        mime: image/jpeg
+        bytes: 33731
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

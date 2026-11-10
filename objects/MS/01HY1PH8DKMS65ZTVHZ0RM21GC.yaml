@@ -1,0 +1,34 @@
+id: 01HY1PH8DKMS65ZTVHZ0RM21GC
+type: image
+subtype: plan
+title: Kirche St. Johannis Jubiläum zur Ernte
+date: 1933-03-17
+location: Lenzen, Schützenfest
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/10/fa/10fa44dc271b2a82cf6fc4aebfabedb6837856ccad480e40c758080ce9c60c06/original.tif
+    sha256: 10fa44dc271b2a82cf6fc4aebfabedb6837856ccad480e40c758080ce9c60c06
+    mime: image/tiff
+    bytes: 7804201
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/10/fa/10fa44dc271b2a82cf6fc4aebfabedb6837856ccad480e40c758080ce9c60c06/preview-400.d3c185676f3f.jpg
+        sha256: d3c185676f3fea6c897eb11d21b7b9e2e6bcadfe5490053781eed15a806ec7cc
+        mime: image/jpeg
+        bytes: 45797
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

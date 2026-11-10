@@ -1,0 +1,39 @@
+id: 01KRXFN02DEYZPBHY7J0MF3B3T
+type: image
+subtype: photo
+title: Kindergarten Ansicht im Winter
+date: "1996"
+location: Lüchow, Bahnhof
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Otto Hennings
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/25/f7/25f7bce4462eabb279dad8e2f800067a55b1624410003cdc3da61fe137f1bf0b/original.jpg
+    sha256: 25f7bce4462eabb279dad8e2f800067a55b1624410003cdc3da61fe137f1bf0b
+    mime: image/jpeg
+    bytes: 19482727
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/25/f7/25f7bce4462eabb279dad8e2f800067a55b1624410003cdc3da61fe137f1bf0b/preview-400.46bb1c14fa0d.jpg
+        sha256: 46bb1c14fa0d0e30c87fb7f189912024fa5adb3a3711bf71c258d373f0c6d2d4
+        mime: image/jpeg
+        bytes: 53381
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01H3PYV3E62G4ASKEW80QSH6PG
+type: image
+subtype: plan
+title: Feuerwehr Aufnahme im Winter
+date: 1878-03-03
+location: Restorf, Kirche St. Johannis
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/06/5e/065e72265aef8db09b83c68f2ae54ad02253f0425f49b7a800a339dd53fa5e31/original.tif
+    sha256: 065e72265aef8db09b83c68f2ae54ad02253f0425f49b7a800a339dd53fa5e31
+    mime: image/tiff
+    bytes: 15781721
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/5e/065e72265aef8db09b83c68f2ae54ad02253f0425f49b7a800a339dd53fa5e31/preview-400.d0742013f721.jpg
+        sha256: d0742013f7218b61882e88a37ef1f36e8a8a7335ee498a253e803ecdcdec1b9c
+        mime: image/jpeg
+        bytes: 72364
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

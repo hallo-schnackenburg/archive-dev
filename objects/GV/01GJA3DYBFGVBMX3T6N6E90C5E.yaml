@@ -1,0 +1,39 @@
+id: 01GJA3DYBFGVBMX3T6N6E90C5E
+type: image
+subtype: photo
+title: Gasthof Besuch im Sommer
+date: 1894-11
+location: Lenzen, Bäckerei
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Karl Lemke
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/4a/c6/4ac69a5d705703e88f79519b128e5b2641d196475e659195b343958a966f61f5/original.jpg
+    sha256: 4ac69a5d705703e88f79519b128e5b2641d196475e659195b343958a966f61f5
+    mime: image/jpeg
+    bytes: 17749297
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4a/c6/4ac69a5d705703e88f79519b128e5b2641d196475e659195b343958a966f61f5/preview-400.a937505f5639.jpg
+        sha256: a937505f563906d00121dd9dd237f9564344633941e38c735db29b4bde4356cd
+        mime: image/jpeg
+        bytes: 65768
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

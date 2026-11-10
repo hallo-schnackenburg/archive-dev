@@ -1,0 +1,39 @@
+id: 01KHSPSYYD8H58MK5XX8GNWKAM
+type: image
+subtype: photo
+title: Mühle Gruppenbild im Sommer
+date: "1952"
+location: Seedorf, Schmiede
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/7a/1f/7a1fe756d98f96784b2d3771a99aa3b539498dca6a4d66cca01c1afc5cd99cbe/original.jpg
+    sha256: 7a1fe756d98f96784b2d3771a99aa3b539498dca6a4d66cca01c1afc5cd99cbe
+    mime: image/jpeg
+    bytes: 20247692
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7a/1f/7a1fe756d98f96784b2d3771a99aa3b539498dca6a4d66cca01c1afc5cd99cbe/preview-400.a85d6191f997.jpg
+        sha256: a85d6191f9974551bf6af212ce7eac5a1efad8dbbd0a3ea58c193ed6e482100e
+        mime: image/jpeg
+        bytes: 23832
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

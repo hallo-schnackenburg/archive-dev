@@ -1,0 +1,39 @@
+id: 01H93G912RYAX8M18PXDZ8PE02
+type: image
+subtype: photo
+title: Elbufer Umzug im Sommer
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1968-07
+location: Lüchow, Rathaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Dieter Ahrens
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/05/c2/05c2d66981ce0f09e3bb3cc9ff120fa827aa1551b097119f66f6a16da2016ca4/original.jpg
+    sha256: 05c2d66981ce0f09e3bb3cc9ff120fa827aa1551b097119f66f6a16da2016ca4
+    mime: image/jpeg
+    bytes: 20339738
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/05/c2/05c2d66981ce0f09e3bb3cc9ff120fa827aa1551b097119f66f6a16da2016ca4/preview-400.1a1de21a08c7.jpg
+        sha256: 1a1de21a08c79870a398e31b7d2d17dee90d3251178abc81e7021b5761a0408a
+        mime: image/jpeg
+        bytes: 37031
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

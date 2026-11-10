@@ -1,0 +1,35 @@
+id: 01KE2A315RD1R258H8ZT6J89YQ
+type: image
+subtype: photo
+title: Brunnen Aufnahme vor dem Umbau
+description: Das Wasser steht bis an die Deichkrone.
+date: "1986"
+location: Schnackenburg, Brunnen
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/8a/67/8a677e2130114dbd9f5913c555d604181372b845141a0acafdcf5be78de93620/original.jpg
+    sha256: 8a677e2130114dbd9f5913c555d604181372b845141a0acafdcf5be78de93620
+    mime: image/jpeg
+    bytes: 16280697
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/8a/67/8a677e2130114dbd9f5913c555d604181372b845141a0acafdcf5be78de93620/preview-400.b23a8878139b.jpg
+        sha256: b23a8878139bdb8c6ee854778b1dcecbd35d33b0f27514128dc59a3bcd5d642c
+        mime: image/jpeg
+        bytes: 72391
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

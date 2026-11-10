@@ -1,0 +1,34 @@
+id: 01G1MHVNRZWDB8Y60ATV7QF7M8
+type: image
+subtype: plan
+title: Sportplatz Abriss im Winter
+date: "1942"
+location: Restorf, Schmiede
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/95/91/9591a1f1b401efcc3face7d3a33957489ca5f839657966c5a5bddfc3c7b1edc5/original.tif
+    sha256: 9591a1f1b401efcc3face7d3a33957489ca5f839657966c5a5bddfc3c7b1edc5
+    mime: image/tiff
+    bytes: 27076227
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/91/9591a1f1b401efcc3face7d3a33957489ca5f839657966c5a5bddfc3c7b1edc5/preview-400.e81fba8c0ecf.jpg
+        sha256: e81fba8c0ecf76ff766e32eefecf4da626cb42eaa54b92aed553836ca2fae81f
+        mime: image/jpeg
+        bytes: 64019
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

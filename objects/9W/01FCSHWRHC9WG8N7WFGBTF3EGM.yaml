@@ -1,0 +1,53 @@
+id: 01FCSHWRHC9WG8N7WFGBTF3EGM
+type: document
+subtype: letter
+title: Marktplatz Aufnahme nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: 1960-12-22
+language: de
+origin:
+  name: Marta Lüders
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/40/8f/408f49703cb3aec81ceaac43e2df79d2bf959eb23faa417b5a054847ecc2d7b4/original.tif
+    sha256: 408f49703cb3aec81ceaac43e2df79d2bf959eb23faa417b5a054847ecc2d7b4
+    mime: image/tiff
+    bytes: 17339338
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/8f/408f49703cb3aec81ceaac43e2df79d2bf959eb23faa417b5a054847ecc2d7b4/preview-400.6e6123915bd0.jpg
+        sha256: 6e6123915bd0a2ef89b39bf1865bddc2f1f24d5761e197d69e87357336cf3d94
+        mime: image/jpeg
+        bytes: 72181
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/7a/bc/7abc73a0188124453a20d562cf0be64f591923aba21361f9acf5926812302dba/original.tif
+    sha256: 7abc73a0188124453a20d562cf0be64f591923aba21361f9acf5926812302dba
+    mime: image/tiff
+    bytes: 3460741
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7a/bc/7abc73a0188124453a20d562cf0be64f591923aba21361f9acf5926812302dba/preview-400.07bc3b57710c.jpg
+        sha256: 07bc3b57710c99a977e1e8997a401afb237d8f8aaac7e3a1b70d244537720dd6
+        mime: image/jpeg
+        bytes: 80449
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

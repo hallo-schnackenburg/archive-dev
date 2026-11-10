@@ -1,0 +1,53 @@
+id: 01HNRZ2K8XP2EPA5925GCB2Q79
+type: document
+subtype: letter
+title: Ernte Rechnung nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: "2004"
+language: de
+origin:
+  name: Hans Brandt
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/33/51/3351294287dee5d83609e8116635992233027d8d30a180cdb104f37981a4a238/original.tif
+    sha256: 3351294287dee5d83609e8116635992233027d8d30a180cdb104f37981a4a238
+    mime: image/tiff
+    bytes: 18416022
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/33/51/3351294287dee5d83609e8116635992233027d8d30a180cdb104f37981a4a238/preview-400.e44dab86674e.jpg
+        sha256: e44dab86674ed320828d6735651d1bbe8862d7f97f9f317c2188c28750bdca81
+        mime: image/jpeg
+        bytes: 85375
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/e2/ab/e2ab9729d5ca88684f7bb9de26d4bfa35b0d14c8aefc96c0ba767ec251803049/original.tif
+    sha256: e2ab9729d5ca88684f7bb9de26d4bfa35b0d14c8aefc96c0ba767ec251803049
+    mime: image/tiff
+    bytes: 9016516
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e2/ab/e2ab9729d5ca88684f7bb9de26d4bfa35b0d14c8aefc96c0ba767ec251803049/preview-400.a0eaa0086ede.jpg
+        sha256: a0eaa0086edecc8708a8244eb8b6cdaf2337c2c23488887a4fd312c469b589f0
+        mime: image/jpeg
+        bytes: 71799
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

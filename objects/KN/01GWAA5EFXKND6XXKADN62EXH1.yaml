@@ -1,0 +1,39 @@
+id: 01GWAA5EFXKND6XXKADN62EXH1
+type: image
+subtype: photo
+title: Schmiede Besuch im Sommer
+date: 1947-02-25
+location: Lenzen, Gasthof
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Otto Hennings
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/50/d2/50d20d13d5be0fd7c03123892809964a05334fdd1a7590b0350cce4dc003ef72/original.jpg
+    sha256: 50d20d13d5be0fd7c03123892809964a05334fdd1a7590b0350cce4dc003ef72
+    mime: image/jpeg
+    bytes: 20035026
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/50/d2/50d20d13d5be0fd7c03123892809964a05334fdd1a7590b0350cce4dc003ef72/preview-400.c14c4fd89608.jpg
+        sha256: c14c4fd896085e0d5fccad0f9130aab4b9a9b02c192be24d543e601acac0ec30
+        mime: image/jpeg
+        bytes: 72139
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

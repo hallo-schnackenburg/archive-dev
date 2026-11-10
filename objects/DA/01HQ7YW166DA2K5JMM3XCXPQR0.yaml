@@ -1,0 +1,39 @@
+id: 01HQ7YW166DA2K5JMM3XCXPQR0
+type: image
+subtype: photo
+title: Molkerei Aufnahme am Sonntag
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1918-01-07
+location: Gorleben, Hochwasser
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Helga Plate
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/6e/50/6e50d3bd303e6533a1223036a1b1d3e7f543a44c0a605b791585cf29571a3772/original.jpg
+    sha256: 6e50d3bd303e6533a1223036a1b1d3e7f543a44c0a605b791585cf29571a3772
+    mime: image/jpeg
+    bytes: 11934428
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/6e/50/6e50d3bd303e6533a1223036a1b1d3e7f543a44c0a605b791585cf29571a3772/preview-400.e0d7b07f8aad.jpg
+        sha256: e0d7b07f8aad9e3db4ecb0efff8396e752f73279a511e1d982d6cbf0766bb744
+        mime: image/jpeg
+        bytes: 51205
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01JJADXB35HCY9MQ7E3DJCZRXA
+type: image
+subtype: photo
+title: Pfarrhaus Prospekt zur Ernte
+description: Grenzturm und fachwerkhaus, zur Wende.
+date: 1955-04-11
+location: Gorleben, Fähre
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/bf/76/bf769ed6fbf2115b7f008f216dcee0469671b316e02a55d55a9c8a9ad9bc282e/original.jpg
+    sha256: bf769ed6fbf2115b7f008f216dcee0469671b316e02a55d55a9c8a9ad9bc282e
+    mime: image/jpeg
+    bytes: 18165051
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/bf/76/bf769ed6fbf2115b7f008f216dcee0469671b316e02a55d55a9c8a9ad9bc282e/preview-400.3ef829d0c73a.jpg
+        sha256: 3ef829d0c73a787df58753b257b7dba79f92d7e6df4b874e0b84e5763765b240
+        mime: image/jpeg
+        bytes: 72620
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

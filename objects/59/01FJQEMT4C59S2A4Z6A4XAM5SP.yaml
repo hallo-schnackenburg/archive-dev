@@ -1,0 +1,53 @@
+id: 01FJQEMT4C59S2A4Z6A4XAM5SP
+type: document
+subtype: letter
+title: Dorfschule Prospekt zur Ernte
+description: Bahnhof und mühle, am Sonntag.
+date: "1884"
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/06/7a/067a65c46446379fd1d9d7005e151979f03df64d9ec8283a354f74dd356aef1a/original.tif
+    sha256: 067a65c46446379fd1d9d7005e151979f03df64d9ec8283a354f74dd356aef1a
+    mime: image/tiff
+    bytes: 13224221
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/7a/067a65c46446379fd1d9d7005e151979f03df64d9ec8283a354f74dd356aef1a/preview-400.27c0cc8a4a77.jpg
+        sha256: 27c0cc8a4a7700af09ce18765277cd516ea829a0cf1c5cd2459a8ea110e87db4
+        mime: image/jpeg
+        bytes: 62627
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/ab/05/ab05b3dff0b19e20a00e37e906ce0f995056ce19f2f13307c5dc8b0e39cfc1c2/original.tif
+    sha256: ab05b3dff0b19e20a00e37e906ce0f995056ce19f2f13307c5dc8b0e39cfc1c2
+    mime: image/tiff
+    bytes: 26461307
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ab/05/ab05b3dff0b19e20a00e37e906ce0f995056ce19f2f13307c5dc8b0e39cfc1c2/preview-400.09c5562f4f16.jpg
+        sha256: 09c5562f4f16eb18f2b587664b08cbc33f69869b7da50580a2d252e8328e4edf
+        mime: image/jpeg
+        bytes: 46023
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

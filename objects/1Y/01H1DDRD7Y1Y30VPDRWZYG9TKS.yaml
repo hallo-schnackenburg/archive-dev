@@ -1,0 +1,35 @@
+id: 01H1DDRD7Y1Y30VPDRWZYG9TKS
+type: image
+subtype: photo
+title: Dorfschule Bescheid im Sommer
+date: 2003~
+location: Schnackenburg, Friedhof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/60/08/60084d5b110942add6f0ffb0b5ba3b75d4276f2b2bd2efae0e5ce3172ef497c4/original.jpg
+    sha256: 60084d5b110942add6f0ffb0b5ba3b75d4276f2b2bd2efae0e5ce3172ef497c4
+    mime: image/jpeg
+    bytes: 3038216
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/60/08/60084d5b110942add6f0ffb0b5ba3b75d4276f2b2bd2efae0e5ce3172ef497c4/preview-400.b1af38c80bfd.jpg
+        sha256: b1af38c80bfd8c4e94c18d924e4d92a18d5d1c28461b52d8c9a104da1f37ab7d
+        mime: image/jpeg
+        bytes: 77490
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

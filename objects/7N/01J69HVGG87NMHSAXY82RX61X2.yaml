@@ -1,0 +1,53 @@
+id: 01J69HVGG87NMHSAXY82RX61X2
+type: document
+subtype: letter
+title: Dorfteich Ansicht am Morgen
+description: Hafen und dorfteich, nach dem Krieg.
+date: 2021-02
+language: de
+origin:
+  name: Hans Brandt
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/d2/64/d26412ac14114e634a87e8360e357b4bc8fb76147d17d34fa0f499a006aed33e/original.tif
+    sha256: d26412ac14114e634a87e8360e357b4bc8fb76147d17d34fa0f499a006aed33e
+    mime: image/tiff
+    bytes: 928495
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d2/64/d26412ac14114e634a87e8360e357b4bc8fb76147d17d34fa0f499a006aed33e/preview-400.6d189b6f4f29.jpg
+        sha256: 6d189b6f4f29c6e0797974c30eaf3d5e6a83627af4fbb9ab3aa0211373226d62
+        mime: image/jpeg
+        bytes: 36952
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/0c/9f/0c9f3a58bedbdae9afddc86830c6baa582a9f6a29d4bdd7c6798be43e75abdca/original.tif
+    sha256: 0c9f3a58bedbdae9afddc86830c6baa582a9f6a29d4bdd7c6798be43e75abdca
+    mime: image/tiff
+    bytes: 10378234
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0c/9f/0c9f3a58bedbdae9afddc86830c6baa582a9f6a29d4bdd7c6798be43e75abdca/preview-400.3a1474424947.jpg
+        sha256: 3a1474424947307fb6a602bc18f480834d6b87ec99ec4d613e0dcb7b74b5634e
+        mime: image/jpeg
+        bytes: 89120
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

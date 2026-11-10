@@ -1,0 +1,34 @@
+id: 01K7J38SR8JE4WTQPX02C16PCG
+type: image
+subtype: plan
+title: Molkerei Rechnung am Morgen
+date: "1965"
+location: Holtorf, Sportplatz
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/10/f2/10f246eb69d13b8ba089a36b9402a9c5b07af0e7f50192917a6ed3b19a7290c7/original.tif
+    sha256: 10f246eb69d13b8ba089a36b9402a9c5b07af0e7f50192917a6ed3b19a7290c7
+    mime: image/tiff
+    bytes: 6956835
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/10/f2/10f246eb69d13b8ba089a36b9402a9c5b07af0e7f50192917a6ed3b19a7290c7/preview-400.6725468c8c3e.jpg
+        sha256: 6725468c8c3e13a9f7f23bdcb377db239fb94445710f10771cbbfc72f504bdfd
+        mime: image/jpeg
+        bytes: 30468
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

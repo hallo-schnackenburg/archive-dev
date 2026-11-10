@@ -1,0 +1,51 @@
+id: 01KXRG3VPPFJEYSKKJZJ039Z6S
+type: document
+subtype: brochure
+title: Storchennest Notiz zur Wende
+date: 1919-05-17
+language: de
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/86/3e/863ed5e17683050b3fd203c377010d5a51c38ce2be439c481710b2033a548d4f/original.tif
+    sha256: 863ed5e17683050b3fd203c377010d5a51c38ce2be439c481710b2033a548d4f
+    mime: image/tiff
+    bytes: 10377916
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/3e/863ed5e17683050b3fd203c377010d5a51c38ce2be439c481710b2033a548d4f/preview-400.e95d320b7353.jpg
+        sha256: e95d320b73537e2c59c88b1d426b3670e400008c7446cfc84755199c5bb403c0
+        mime: image/jpeg
+        bytes: 78475
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/09/4a/094a31563cc23e050057c3dfd73af839fdfe2df68750b436115e40213e9e6260/original.tif
+    sha256: 094a31563cc23e050057c3dfd73af839fdfe2df68750b436115e40213e9e6260
+    mime: image/tiff
+    bytes: 6866491
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/4a/094a31563cc23e050057c3dfd73af839fdfe2df68750b436115e40213e9e6260/preview-400.b6365e717916.jpg
+        sha256: b6365e7179165ad1b0d3d1963e7111dd41f84b82c2440efbb0ba39a6fe15d7a8
+        mime: image/jpeg
+        bytes: 39510
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

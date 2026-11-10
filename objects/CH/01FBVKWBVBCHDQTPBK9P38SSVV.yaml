@@ -1,0 +1,53 @@
+id: 01FBVKWBVBCHDQTPBK9P38SSVV
+type: document
+subtype: letter
+title: Dorfschule Einweihung zur Ernte
+description: Schreibt über die Ernte und das Wetter.
+date: 1972-02
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/bc/5d/bc5dd4418a2b1b5d76770fd4718b701fca0845089e8ca244de153de806c4c3d7/original.tif
+    sha256: bc5dd4418a2b1b5d76770fd4718b701fca0845089e8ca244de153de806c4c3d7
+    mime: image/tiff
+    bytes: 10925446
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bc/5d/bc5dd4418a2b1b5d76770fd4718b701fca0845089e8ca244de153de806c4c3d7/preview-400.8bff350a07a9.jpg
+        sha256: 8bff350a07a98a325ac95de222e1096e59c8d631daa4bf3e8d72a17bb502edda
+        mime: image/jpeg
+        bytes: 60437
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/11/e1/11e10a572df92ff6ed0ea16170c5bb07d6ea1f42b9984d5e2c81a3cb43ac4f41/original.tif
+    sha256: 11e10a572df92ff6ed0ea16170c5bb07d6ea1f42b9984d5e2c81a3cb43ac4f41
+    mime: image/tiff
+    bytes: 13885213
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/e1/11e10a572df92ff6ed0ea16170c5bb07d6ea1f42b9984d5e2c81a3cb43ac4f41/preview-400.1212544b20d3.jpg
+        sha256: 1212544b20d3fe7325d030627d255115dd31ecb04e30caeabdb6a617b49e43e9
+        mime: image/jpeg
+        bytes: 45090
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

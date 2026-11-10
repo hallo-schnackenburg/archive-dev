@@ -1,0 +1,39 @@
+id: 01GNVNCQC39M497ETVBNFN8YPS
+type: image
+subtype: photo
+title: Storchennest Entwurf nach dem Krieg
+date: 1916-12
+location: Gartow, Dorfschule
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/7d/d1/7dd131febd9d8a60358ea9b9d0312f909ce564d430203c0cd7b519002ef53e30/original.jpg
+    sha256: 7dd131febd9d8a60358ea9b9d0312f909ce564d430203c0cd7b519002ef53e30
+    mime: image/jpeg
+    bytes: 7859528
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7d/d1/7dd131febd9d8a60358ea9b9d0312f909ce564d430203c0cd7b519002ef53e30/preview-400.eedde721aee3.jpg
+        sha256: eedde721aee35a0317a07f2aabb40c0fb06b0896ede100d5a28322a5f480aba4
+        mime: image/jpeg
+        bytes: 23431
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

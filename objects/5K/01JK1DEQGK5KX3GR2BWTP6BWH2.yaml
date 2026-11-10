@@ -1,0 +1,47 @@
+id: 01JK1DEQGK5KX3GR2BWTP6BWH2
+type: image
+subtype: photo
+title: Fähre Abriss am Morgen
+description: Gasthof und friedhof, im Winter.
+date: 2002-07-24
+location: Kapern, Molkerei
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/02/12/0212298305060e360c5327efc8339d44716b52847926ab2cff0d9caba5053a3c/original.jpg
+    sha256: 0212298305060e360c5327efc8339d44716b52847926ab2cff0d9caba5053a3c
+    mime: image/jpeg
+    bytes: 13082329
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/02/12/0212298305060e360c5327efc8339d44716b52847926ab2cff0d9caba5053a3c/preview-400.a5f3e92ee600.jpg
+        sha256: a5f3e92ee600b63cd6fffc87960f5108fd856320e423bd396d7369d5dcb9183e
+        mime: image/jpeg
+        bytes: 32627
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

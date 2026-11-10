@@ -1,0 +1,34 @@
+id: 01FN0Q34KMDMJ1QRKWRMTGPYSR
+type: image
+subtype: plan
+title: Molkerei Prospekt im Winter
+date: 1911-10-09
+location: Schnackenburg, Schmiede
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/62/c7/62c71b57688394b860e16910c0942b37afb40cb8f19accb4ed94059f64286a9a/original.tif
+    sha256: 62c71b57688394b860e16910c0942b37afb40cb8f19accb4ed94059f64286a9a
+    mime: image/tiff
+    bytes: 8087476
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/62/c7/62c71b57688394b860e16910c0942b37afb40cb8f19accb4ed94059f64286a9a/preview-400.1574946f9aed.jpg
+        sha256: 1574946f9aed9b9762ab62934b349fc4427d545a2a5f338e48a3d5b53f0befe5
+        mime: image/jpeg
+        bytes: 66428
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01GYTP8RHY5PHA5ARKRJ9RDZM1
+type: image
+subtype: plan
+title: Kindergarten Brief zur Ernte
+date: 2017~
+location: Pretzier, Marktplatz
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/69/9c/699cf52d26dd99b66c042827dde8eb0cabd8058158bcc650ef983d709f9bb73c/original.tif
+    sha256: 699cf52d26dd99b66c042827dde8eb0cabd8058158bcc650ef983d709f9bb73c
+    mime: image/tiff
+    bytes: 25439083
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/69/9c/699cf52d26dd99b66c042827dde8eb0cabd8058158bcc650ef983d709f9bb73c/preview-400.21154b271398.jpg
+        sha256: 21154b271398a1445f02a35c63e71944aef9705e6a368de74f6d4b4d13d95d4c
+        mime: image/jpeg
+        bytes: 72662
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

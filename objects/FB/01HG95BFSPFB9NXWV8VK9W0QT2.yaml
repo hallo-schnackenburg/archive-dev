@@ -1,0 +1,35 @@
+id: 01HG95BFSPFB9NXWV8VK9W0QT2
+type: image
+subtype: photo
+title: Brunnen Festtag im Sommer
+date: 2007-06-10
+location: Gorleben, Bahnhof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/4a/47/4a47983f70a8ab34f7675999437b48e5ef559c6961c5f2f3acff799176753cfa/original.jpg
+    sha256: 4a47983f70a8ab34f7675999437b48e5ef559c6961c5f2f3acff799176753cfa
+    mime: image/jpeg
+    bytes: 17985368
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4a/47/4a47983f70a8ab34f7675999437b48e5ef559c6961c5f2f3acff799176753cfa/preview-400.db21ca418bb2.jpg
+        sha256: db21ca418bb22634c337e7566950a6771ea0f1e9426e8d7e1ebcb9381d6ff1b6
+        mime: image/jpeg
+        bytes: 50009
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

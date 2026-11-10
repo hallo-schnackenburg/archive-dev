@@ -1,0 +1,37 @@
+id: 01H6Z64NWV4NTZJJY45P8WABT9
+type: image
+subtype: print
+title: Molkerei Einweihung am Sonntag
+date: 1852-12-28
+location: Lenzen, Pfarrhaus
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/40/07/4007f1cfbf9eec1ef0c0f0fbda06f45505937657d78df688a6a2c1dd0c169a46/original.tif
+    sha256: 4007f1cfbf9eec1ef0c0f0fbda06f45505937657d78df688a6a2c1dd0c169a46
+    mime: image/tiff
+    bytes: 14630493
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/07/4007f1cfbf9eec1ef0c0f0fbda06f45505937657d78df688a6a2c1dd0c169a46/preview-400.061fb1521962.jpg
+        sha256: 061fb1521962344fe7148c261aa4fbcb6eefdbbbc13bec37616028eb06c303ec
+        mime: image/jpeg
+        bytes: 27430
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,47 @@
+id: 01F7DW4Y5FHV1N15552WBZWG53
+type: image
+subtype: photo
+title: Zollamt Zeichnung am Morgen
+description: Schmiede und ernte, am Morgen.
+date: 2018-12-11
+location: Gartow, Elbufer
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Helga Plate
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/80/46/8046e38dec0d59dad93ed212f1076bcdfcb472def566f6c12b74d4aefbc89488/original.jpg
+    sha256: 8046e38dec0d59dad93ed212f1076bcdfcb472def566f6c12b74d4aefbc89488
+    mime: image/jpeg
+    bytes: 11863563
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/80/46/8046e38dec0d59dad93ed212f1076bcdfcb472def566f6c12b74d4aefbc89488/preview-400.e6489c439f54.jpg
+        sha256: e6489c439f54ea662d11383e64d92f56ad81ce76f793096a71d570570a5a69b0
+        mime: image/jpeg
+        bytes: 27511
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

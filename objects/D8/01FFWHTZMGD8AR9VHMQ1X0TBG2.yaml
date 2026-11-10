@@ -1,0 +1,31 @@
+id: 01FFWHTZMGD8AR9VHMQ1X0TBG2
+type: image
+subtype: drawing
+title: Fachwerkhaus Brief am Sonntag
+description: Bäckerei und schmiede, im Winter.
+date: 1945-01
+location: Gartow, Gasthof
+origin:
+  name: Fritz Bohlmann
+  type: person
+  location: Hannover
+files:
+  - role: main
+    original_name: zeichnung_hafen.tif
+    path: files/e6/ac/e6ac52bab9fb73d678426d460a2b3090f039279b03651ad79e68ebb8592e5196/original.tif
+    sha256: e6ac52bab9fb73d678426d460a2b3090f039279b03651ad79e68ebb8592e5196
+    mime: image/tiff
+    bytes: 4775292
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e6/ac/e6ac52bab9fb73d678426d460a2b3090f039279b03651ad79e68ebb8592e5196/preview-400.c38dd80c208b.jpg
+        sha256: c38dd80c208b68bb5bf3a75f1d42257bcae5445a909b5a1f7e2f60d35047f17d
+        mime: image/jpeg
+        bytes: 72514
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

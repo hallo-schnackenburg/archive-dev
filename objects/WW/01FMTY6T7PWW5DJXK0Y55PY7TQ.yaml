@@ -1,0 +1,35 @@
+id: 01FMTY6T7PWW5DJXK0Y55PY7TQ
+type: image
+subtype: photo
+title: Dorfteich Jubiläum am Sonntag
+date: 1985~
+location: Seedorf, Bahnhof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/6c/0d/6c0d101fe23b1e92f9c95eeda3cf860f83cad9f38ce2069518ae8570596d7067/original.jpg
+    sha256: 6c0d101fe23b1e92f9c95eeda3cf860f83cad9f38ce2069518ae8570596d7067
+    mime: image/jpeg
+    bytes: 26604516
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/6c/0d/6c0d101fe23b1e92f9c95eeda3cf860f83cad9f38ce2069518ae8570596d7067/preview-400.7c6cc8fb33b0.jpg
+        sha256: 7c6cc8fb33b04e839284a7087477b712727f63b02b221700dea910f97163b4c4
+        mime: image/jpeg
+        bytes: 88410
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

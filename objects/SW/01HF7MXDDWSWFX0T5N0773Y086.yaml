@@ -1,0 +1,51 @@
+id: 01HF7MXDDWSWFX0T5N0773Y086
+type: document
+subtype: brochure
+title: Zollamt Gruppenbild am Morgen
+date: 2008-11-22
+language: de
+origin:
+  name: Karl Lemke
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/5d/b9/5db9b02e706a51095b03fe86841956994b500ae9c1c8ac9b47e884ff62911799/original.tif
+    sha256: 5db9b02e706a51095b03fe86841956994b500ae9c1c8ac9b47e884ff62911799
+    mime: image/tiff
+    bytes: 27408430
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5d/b9/5db9b02e706a51095b03fe86841956994b500ae9c1c8ac9b47e884ff62911799/preview-400.dcf3f21ca1f2.jpg
+        sha256: dcf3f21ca1f220287fea475596c40aad6319966d953eeb5a3e2602c9a12fd80c
+        mime: image/jpeg
+        bytes: 26603
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/cd/f9/cdf92041ad69bdf64192b5c8e92165d428c3105087aaa157a1f3a04e37006d75/original.tif
+    sha256: cdf92041ad69bdf64192b5c8e92165d428c3105087aaa157a1f3a04e37006d75
+    mime: image/tiff
+    bytes: 25479000
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/f9/cdf92041ad69bdf64192b5c8e92165d428c3105087aaa157a1f3a04e37006d75/preview-400.a028d9ecd056.jpg
+        sha256: a028d9ecd0563384ee1f7d18dee74ccb97baa411b1e77fe8ef57b76d94661399
+        mime: image/jpeg
+        bytes: 48728
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

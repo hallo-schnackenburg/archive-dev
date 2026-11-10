@@ -1,0 +1,39 @@
+id: 01JGRRKEEVBWV102VGYN8K7CP0
+type: image
+subtype: photo
+title: Bahnhof Ansicht nach dem Krieg
+date: "1860"
+location: Pretzier, Fachwerkhaus
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Hans Brandt
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/c9/2f/c92fca38b58229a8dcf8f1d41176d15526ff8d0ce06ec69c221c7f595ee51905/original.jpg
+    sha256: c92fca38b58229a8dcf8f1d41176d15526ff8d0ce06ec69c221c7f595ee51905
+    mime: image/jpeg
+    bytes: 21231730
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c9/2f/c92fca38b58229a8dcf8f1d41176d15526ff8d0ce06ec69c221c7f595ee51905/preview-400.e0519ea9fd1f.jpg
+        sha256: e0519ea9fd1fdd609116c56651b443e8f6e1420572ba9b1f5e02cac16418490c
+        mime: image/jpeg
+        bytes: 22544
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

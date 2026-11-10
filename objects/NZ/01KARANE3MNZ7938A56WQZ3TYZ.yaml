@@ -1,0 +1,51 @@
+id: 01KARANE3MNZ7938A56WQZ3TYZ
+type: document
+subtype: brochure
+title: Schmiede Ansicht im Winter
+date: 1850-05
+language: de
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/f0/b6/f0b67a5c427062c01dad399e7ebb5438c86b24729f8a07f45f6a7f372aca478a/original.tif
+    sha256: f0b67a5c427062c01dad399e7ebb5438c86b24729f8a07f45f6a7f372aca478a
+    mime: image/tiff
+    bytes: 16352386
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/b6/f0b67a5c427062c01dad399e7ebb5438c86b24729f8a07f45f6a7f372aca478a/preview-400.7e140aa0b052.jpg
+        sha256: 7e140aa0b0525579ec62b3724e73dee7046064f5a05a37b385d41b3fd62682e7
+        mime: image/jpeg
+        bytes: 63454
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/15/03/1503f110588836a231656cefc0d0bb19b979542a8ddfcaff88fa203783897197/original.tif
+    sha256: 1503f110588836a231656cefc0d0bb19b979542a8ddfcaff88fa203783897197
+    mime: image/tiff
+    bytes: 10643399
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/15/03/1503f110588836a231656cefc0d0bb19b979542a8ddfcaff88fa203783897197/preview-400.02aa0040f238.jpg
+        sha256: 02aa0040f238593b367a333c23bce64944e1b92873dd780dcf4cb7f64c3225e0
+        mime: image/jpeg
+        bytes: 22092
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

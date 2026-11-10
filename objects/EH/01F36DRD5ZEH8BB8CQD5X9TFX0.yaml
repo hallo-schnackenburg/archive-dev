@@ -1,0 +1,39 @@
+id: 01F36DRD5ZEH8BB8CQD5X9TFX0
+type: image
+subtype: photo
+title: Brücke Aufnahme am Sonntag
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1858/1862
+location: Kapern, Bahnhof
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Dieter Ahrens
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/1c/4a/1c4a52c5dda0d42b2686654f5a01ddf6f8d5d51ba84cf5242a38271113515c9c/original.jpg
+    sha256: 1c4a52c5dda0d42b2686654f5a01ddf6f8d5d51ba84cf5242a38271113515c9c
+    mime: image/jpeg
+    bytes: 511906
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/1c/4a/1c4a52c5dda0d42b2686654f5a01ddf6f8d5d51ba84cf5242a38271113515c9c/preview-400.63ad70b93b2f.jpg
+        sha256: 63ad70b93b2fb994a76b38f653766596ce79df8cfbfbb05f38d272bb2a82eee0
+        mime: image/jpeg
+        bytes: 84307
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

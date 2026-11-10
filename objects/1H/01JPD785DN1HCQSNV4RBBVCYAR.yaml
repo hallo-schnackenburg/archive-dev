@@ -1,0 +1,34 @@
+id: 01JPD785DN1HCQSNV4RBBVCYAR
+type: image
+subtype: print
+title: Rathaus Einladung im Winter
+description: Kupferstich.
+date: 1946-06-08
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/20/d5/20d5ffa537033bba3319c4cc75c41725e6327ef9471eb4b62edeaf157ba90bc8/original.tif
+    sha256: 20d5ffa537033bba3319c4cc75c41725e6327ef9471eb4b62edeaf157ba90bc8
+    mime: image/tiff
+    bytes: 10433311
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/20/d5/20d5ffa537033bba3319c4cc75c41725e6327ef9471eb4b62edeaf157ba90bc8/preview-400.ecd5225dd214.jpg
+        sha256: ecd5225dd21485696febbacd120d59d4f58168e5a43f60ac8da9f6e42b3c9c36
+        mime: image/jpeg
+        bytes: 63755
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

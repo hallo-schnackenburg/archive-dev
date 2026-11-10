@@ -1,0 +1,31 @@
+id: 01GQZG3FKDSDNA9H4TRVX8BZ2K
+type: image
+subtype: drawing
+title: Gasthof Entwurf im Sommer
+description: Elbufer und grenzturm, nach dem Krieg.
+date: 1990/1994
+location: Schnackenburg, Zollamt
+origin:
+  name: Hans Brandt
+  type: person
+  location: Hannover
+files:
+  - role: main
+    original_name: zeichnung_hafen.tif
+    path: files/20/5e/205ecdcc20166b06bf4f7c97c0d462430174328107aa8deb633fa9be820e370c/original.tif
+    sha256: 205ecdcc20166b06bf4f7c97c0d462430174328107aa8deb633fa9be820e370c
+    mime: image/tiff
+    bytes: 26647742
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/20/5e/205ecdcc20166b06bf4f7c97c0d462430174328107aa8deb633fa9be820e370c/preview-400.bbf1a5259a31.jpg
+        sha256: bbf1a5259a31b261c027632bf7d1a81732b9bf1df20f28abebada5c8bed7a85e
+        mime: image/jpeg
+        bytes: 53002
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

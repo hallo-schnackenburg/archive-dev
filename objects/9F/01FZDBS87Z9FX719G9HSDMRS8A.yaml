@@ -1,0 +1,39 @@
+id: 01FZDBS87Z9FX719G9HSDMRS8A
+type: image
+subtype: photo
+title: Bäckerei Rechnung vor dem Umbau
+date: 1906-01
+location: Pretzier, Bahnhof
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/24/86/248619199c48ebfb1dd7bfd31207b6125b82722803dbe8959fabc8e38daa1a04/original.jpg
+    sha256: 248619199c48ebfb1dd7bfd31207b6125b82722803dbe8959fabc8e38daa1a04
+    mime: image/jpeg
+    bytes: 11026597
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/24/86/248619199c48ebfb1dd7bfd31207b6125b82722803dbe8959fabc8e38daa1a04/preview-400.3b0b475be943.jpg
+        sha256: 3b0b475be943cbac9545576b1c74fbba444f774795c63593a6847bedad2b5b53
+        mime: image/jpeg
+        bytes: 79279
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

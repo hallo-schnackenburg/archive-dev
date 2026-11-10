@@ -1,0 +1,34 @@
+id: 01GM4D8TJAR9NQ7DA0BWH6QX02
+type: image
+subtype: plan
+title: Brücke Aufnahme im Sommer
+date: 1980/1982
+location: Lenzen, Kindergarten
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/4a/1f/4a1f5286ba0d0f830631be245f081a9578ae5dbd34db6cefb2a8a95d12ceca78/original.tif
+    sha256: 4a1f5286ba0d0f830631be245f081a9578ae5dbd34db6cefb2a8a95d12ceca78
+    mime: image/tiff
+    bytes: 24081895
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4a/1f/4a1f5286ba0d0f830631be245f081a9578ae5dbd34db6cefb2a8a95d12ceca78/preview-400.c8eac346b3d2.jpg
+        sha256: c8eac346b3d227e5c6e5a4649d0ee58923b5cc72d59fcc8cc6452fc6bf1b78bf
+        mime: image/jpeg
+        bytes: 72826
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

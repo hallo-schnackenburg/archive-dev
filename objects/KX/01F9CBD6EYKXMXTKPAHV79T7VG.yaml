@@ -1,0 +1,35 @@
+id: 01F9CBD6EYKXMXTKPAHV79T7VG
+type: image
+subtype: photo
+title: Gemeindehaus Umbau zur Ernte
+date: "1977"
+location: Lüchow, Brunnen
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/04/42/044249d99af4f7e4123faa6b8111c4286eb115a988ea71325b2447642d550db0/original.jpg
+    sha256: 044249d99af4f7e4123faa6b8111c4286eb115a988ea71325b2447642d550db0
+    mime: image/jpeg
+    bytes: 22494873
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/04/42/044249d99af4f7e4123faa6b8111c4286eb115a988ea71325b2447642d550db0/preview-400.effcd8886f14.jpg
+        sha256: effcd8886f1452b03b4e7ebd82427cdb6f7ecfa26b2d88ab3beeaa66bc2bc7b2
+        mime: image/jpeg
+        bytes: 73202
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

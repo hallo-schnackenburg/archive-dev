@@ -1,0 +1,39 @@
+id: 01JKP7XCPE9W61X8Y1NJE1F9CM
+type: image
+subtype: photo
+title: Feuerwehr Gruppenbild am Sonntag
+description: Fachwerkhaus und elbufer, nach dem Krieg.
+date: 1914-02
+location: Lüchow, Brunnen
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Wilhelm Krüger
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/81/cc/81cc7b22921e7d6240d41944584f29060fec6fdc036c7c4e1540c4be0b8e09db/original.jpg
+    sha256: 81cc7b22921e7d6240d41944584f29060fec6fdc036c7c4e1540c4be0b8e09db
+    mime: image/jpeg
+    bytes: 20258488
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/81/cc/81cc7b22921e7d6240d41944584f29060fec6fdc036c7c4e1540c4be0b8e09db/preview-400.0aa78925cc4d.jpg
+        sha256: 0aa78925cc4da88cb3ad08fefb8f2c2958c821eb82f4eb114051112c5e40eadb
+        mime: image/jpeg
+        bytes: 78339
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

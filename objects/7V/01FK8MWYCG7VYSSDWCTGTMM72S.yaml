@@ -1,0 +1,39 @@
+id: 01FK8MWYCG7VYSSDWCTGTMM72S
+type: image
+subtype: photo
+title: Kindergarten Aufnahme im Sommer
+date: 1857/1860
+location: Restorf, Brunnen
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/34/65/3465c3c062f2467f2558c5caac7b002eac289e9e129938defc6021fefc95b369/original.jpg
+    sha256: 3465c3c062f2467f2558c5caac7b002eac289e9e129938defc6021fefc95b369
+    mime: image/jpeg
+    bytes: 24611164
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/34/65/3465c3c062f2467f2558c5caac7b002eac289e9e129938defc6021fefc95b369/preview-400.ee6a56d300ce.jpg
+        sha256: ee6a56d300ce9e499167e016c63dd6fbb656251135d1900e0b3dd68942af03d3
+        mime: image/jpeg
+        bytes: 31233
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01KRTSFSW9AFTPM5FB614QCCRS
+type: image
+subtype: photo
+title: Bahnhof Besuch nach dem Krieg
+date: 1948/1949
+location: Lüchow, Rathaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/80/c9/80c997621bdba4ec853b8d14e1468b33c173adc73d2819306bb52515665f4bb0/original.jpg
+    sha256: 80c997621bdba4ec853b8d14e1468b33c173adc73d2819306bb52515665f4bb0
+    mime: image/jpeg
+    bytes: 6025615
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/80/c9/80c997621bdba4ec853b8d14e1468b33c173adc73d2819306bb52515665f4bb0/preview-400.f29af784004e.jpg
+        sha256: f29af784004ef5c519abaea19310fbc1d1ac76dafaf61e0d9bf454725939f31b
+        mime: image/jpeg
+        bytes: 26312
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

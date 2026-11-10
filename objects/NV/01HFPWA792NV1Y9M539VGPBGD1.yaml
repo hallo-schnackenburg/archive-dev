@@ -1,0 +1,53 @@
+id: 01HFPWA792NV1Y9M539VGPBGD1
+type: document
+subtype: letter
+title: Ernte Aufnahme vor dem Umbau
+description: Schreibt über die Ernte und das Wetter.
+date: 1899-01-09
+language: de
+origin:
+  name: Helga Plate
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/86/4b/864bc9b91f1c61f62dad813baf7841ba99698ee4977bc0453deabd0811bda3c8/original.tif
+    sha256: 864bc9b91f1c61f62dad813baf7841ba99698ee4977bc0453deabd0811bda3c8
+    mime: image/tiff
+    bytes: 18154138
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/4b/864bc9b91f1c61f62dad813baf7841ba99698ee4977bc0453deabd0811bda3c8/preview-400.67ade149aea6.jpg
+        sha256: 67ade149aea670c202c2e940f8fab89a9bb2f5fb70ea111210e6572b2ca7108e
+        mime: image/jpeg
+        bytes: 88985
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/0f/e2/0fe2cc2df407c1ff1a16744f5d51075d6718d608f26fdee0f90c9a0dd91f05d7/original.tif
+    sha256: 0fe2cc2df407c1ff1a16744f5d51075d6718d608f26fdee0f90c9a0dd91f05d7
+    mime: image/tiff
+    bytes: 14047830
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0f/e2/0fe2cc2df407c1ff1a16744f5d51075d6718d608f26fdee0f90c9a0dd91f05d7/preview-400.94d74270def1.jpg
+        sha256: 94d74270def1557d941708a4cc28f2e415769dba1a556daeb08bb4ba8f5867ec
+        mime: image/jpeg
+        bytes: 35348
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

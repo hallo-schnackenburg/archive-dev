@@ -1,0 +1,51 @@
+id: 01K2TQZZBZXB8C9ES6JDSTZ2XC
+type: document
+subtype: brochure
+title: Mühle Bericht am Sonntag
+date: 1885-02
+language: de
+origin:
+  name: Marta Lüders
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/a4/cf/a4cf634ff5d7cf43d398542fbf3b9bab8987091ba7781ea5a0a61cd56667ad4f/original.tif
+    sha256: a4cf634ff5d7cf43d398542fbf3b9bab8987091ba7781ea5a0a61cd56667ad4f
+    mime: image/tiff
+    bytes: 3049990
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a4/cf/a4cf634ff5d7cf43d398542fbf3b9bab8987091ba7781ea5a0a61cd56667ad4f/preview-400.eed010099d25.jpg
+        sha256: eed010099d25d17b3c894ff63b06061ae78640a651bd5cf1bccc21575e8387dc
+        mime: image/jpeg
+        bytes: 43589
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/78/41/78413973da0496d499530d202cdcc7c9481b15df08de2373714dd69aeb5f02a8/original.tif
+    sha256: 78413973da0496d499530d202cdcc7c9481b15df08de2373714dd69aeb5f02a8
+    mime: image/tiff
+    bytes: 6146262
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/78/41/78413973da0496d499530d202cdcc7c9481b15df08de2373714dd69aeb5f02a8/preview-400.3762830ea1e7.jpg
+        sha256: 3762830ea1e77c13fa6203e95f925b6a59dffa6691d43d7d6fbe16252d35cafc
+        mime: image/jpeg
+        bytes: 81734
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01GAWS98EN384KMDJDVQVEDGS7
+type: image
+subtype: photo
+title: Feuerwehr Einladung zur Ernte
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 2003-02-04
+location: Gorleben, Grenzturm
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Anni Jeß
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/c7/b4/c7b488435dff5521ccf06ae868994e93a83dcf04ee4adc661c3674c0e3f56fc3/original.jpg
+    sha256: c7b488435dff5521ccf06ae868994e93a83dcf04ee4adc661c3674c0e3f56fc3
+    mime: image/jpeg
+    bytes: 10952626
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c7/b4/c7b488435dff5521ccf06ae868994e93a83dcf04ee4adc661c3674c0e3f56fc3/preview-400.3aa8eb150ae9.jpg
+        sha256: 3aa8eb150ae91ba03247a0fead7b17f280f978c42b9a475d492cd321b7eea484
+        mime: image/jpeg
+        bytes: 77868
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

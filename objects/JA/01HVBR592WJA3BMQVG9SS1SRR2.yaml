@@ -1,0 +1,39 @@
+id: 01HVBR592WJA3BMQVG9SS1SRR2
+type: image
+subtype: photo
+title: Kindergarten Gruppenbild im Sommer
+date: 1981~
+location: Restorf, Fachwerkhaus
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/af/21/af217b7c82cbed358cdc7405608a239b07cfe611707aca3dc32fdd13abdd11d4/original.jpg
+    sha256: af217b7c82cbed358cdc7405608a239b07cfe611707aca3dc32fdd13abdd11d4
+    mime: image/jpeg
+    bytes: 15728019
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/af/21/af217b7c82cbed358cdc7405608a239b07cfe611707aca3dc32fdd13abdd11d4/preview-400.919e4c933a04.jpg
+        sha256: 919e4c933a04b74d4a094ff84a56050bcd2612d35f8b0e5932ec51ac521e05c0
+        mime: image/jpeg
+        bytes: 70122
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

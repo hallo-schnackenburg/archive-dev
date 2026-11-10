@@ -1,0 +1,34 @@
+id: 01HAJYTCDMWDCF75AJGSFQHQM3
+type: image
+subtype: plan
+title: Storchennest Festtag im Sommer
+date: "1927"
+location: Gorleben, Molkerei
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/dc/24/dc24957e8cc2a80c55ba672dbf44a5955ee93a86c33506bace5ce6a13d8c7e72/original.tif
+    sha256: dc24957e8cc2a80c55ba672dbf44a5955ee93a86c33506bace5ce6a13d8c7e72
+    mime: image/tiff
+    bytes: 6495059
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/24/dc24957e8cc2a80c55ba672dbf44a5955ee93a86c33506bace5ce6a13d8c7e72/preview-400.4ed4263b4f5d.jpg
+        sha256: 4ed4263b4f5dd08cc7b0314daefc2594e5fbb38e6fe710904351882778995401
+        mime: image/jpeg
+        bytes: 54052
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

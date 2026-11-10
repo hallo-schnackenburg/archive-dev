@@ -1,0 +1,34 @@
+id: 01HHRPR6X6NGJXDY7BK06NXE84
+type: image
+subtype: print
+title: Bahnhof Gruppenbild bei Hochwasser
+description: Elbdeich und marktplatz, zur Ernte.
+date: "1984"
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/ab/f1/abf1d5bf4b54905bb70c22a8b1acb8ea5812fc44c80a6d0c1100ce8be10795b9/original.tif
+    sha256: abf1d5bf4b54905bb70c22a8b1acb8ea5812fc44c80a6d0c1100ce8be10795b9
+    mime: image/tiff
+    bytes: 17071107
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ab/f1/abf1d5bf4b54905bb70c22a8b1acb8ea5812fc44c80a6d0c1100ce8be10795b9/preview-400.0a4452aa5ddd.jpg
+        sha256: 0a4452aa5dddce71779e39538874b3ea471cb7c8a33b47e62a32bae5bdfb2b7e
+        mime: image/jpeg
+        bytes: 51695
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

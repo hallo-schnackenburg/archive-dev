@@ -1,0 +1,34 @@
+id: 01K55V2W0KZVAQBJ5HWNRZF6BS
+type: image
+subtype: print
+title: Friedhof Bericht im Winter
+description: Kupferstich.
+date: 1978-12-15
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/24/74/24745e791c1f9ba4deb441e98b1018aef001070bbef01a7166cac09a7d311f6b/original.tif
+    sha256: 24745e791c1f9ba4deb441e98b1018aef001070bbef01a7166cac09a7d311f6b
+    mime: image/tiff
+    bytes: 26389230
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/24/74/24745e791c1f9ba4deb441e98b1018aef001070bbef01a7166cac09a7d311f6b/preview-400.50b120d42511.jpg
+        sha256: 50b120d425114a08d3e094d0fe901519e36d6eaa3a79e3ff213e5d1008036cac
+        mime: image/jpeg
+        bytes: 31678
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

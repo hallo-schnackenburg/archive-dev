@@ -1,0 +1,37 @@
+id: 01FK4N3J3851BEF8G0AT7V8WJB
+type: image
+subtype: print
+title: Bäckerei Aufnahme nach dem Krieg
+date: 2023/2025
+location: Holtorf, Dorfschule
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/7d/09/7d09386bd69531a948a8bc00c9f7056639c87cd15f5a699f1e9a725a0a0af509/original.tif
+    sha256: 7d09386bd69531a948a8bc00c9f7056639c87cd15f5a699f1e9a725a0a0af509
+    mime: image/tiff
+    bytes: 8654212
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7d/09/7d09386bd69531a948a8bc00c9f7056639c87cd15f5a699f1e9a725a0a0af509/preview-400.cd772346ab8b.jpg
+        sha256: cd772346ab8b3abe17f8ef2b9aeaebffb06a6cb21ae6e8794a8bbfdd9935f9fa
+        mime: image/jpeg
+        bytes: 55751
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

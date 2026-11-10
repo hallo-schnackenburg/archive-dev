@@ -1,0 +1,53 @@
+id: 01FRCTNHV8SK68930SAGKG36CT
+type: document
+subtype: letter
+title: Gemeindehaus Bericht im Sommer
+description: Gasthof und hafen, am Sonntag.
+date: 1936-05-15
+language: de
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/32/c4/32c4ec464730ff3cb3780034e4c2f311fe8a59ef8cc94b6a46eef83bb005f79f/original.tif
+    sha256: 32c4ec464730ff3cb3780034e4c2f311fe8a59ef8cc94b6a46eef83bb005f79f
+    mime: image/tiff
+    bytes: 16699946
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/32/c4/32c4ec464730ff3cb3780034e4c2f311fe8a59ef8cc94b6a46eef83bb005f79f/preview-400.aea414d580b3.jpg
+        sha256: aea414d580b36499219040c1aa64d86ae299518adf550781ee54831ad13ad3ba
+        mime: image/jpeg
+        bytes: 85804
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/9b/10/9b1043df764e75db57d7c0119e915e285667880de8b05cf5596d4e0ea0ae8ea5/original.tif
+    sha256: 9b1043df764e75db57d7c0119e915e285667880de8b05cf5596d4e0ea0ae8ea5
+    mime: image/tiff
+    bytes: 3737807
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9b/10/9b1043df764e75db57d7c0119e915e285667880de8b05cf5596d4e0ea0ae8ea5/preview-400.cf48c804ba59.jpg
+        sha256: cf48c804ba59020bb9e770e9a566a429e3001e6880725c12746559421cfc3fd9
+        mime: image/jpeg
+        bytes: 22220
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

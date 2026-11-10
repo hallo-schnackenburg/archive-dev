@@ -1,0 +1,39 @@
+id: 01GA48F3BPZHP7YBS3RWK5AC9V
+type: image
+subtype: photo
+title: Fähre Prospekt zur Ernte
+date: 1902-03-20
+location: Lüchow, Schmiede
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/0f/e1/0fe1a3c25e507cd82a85160ac6c5858c3210b99a7844db84023fc6231cafb14b/original.jpg
+    sha256: 0fe1a3c25e507cd82a85160ac6c5858c3210b99a7844db84023fc6231cafb14b
+    mime: image/jpeg
+    bytes: 20960495
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0f/e1/0fe1a3c25e507cd82a85160ac6c5858c3210b99a7844db84023fc6231cafb14b/preview-400.a434b34b9ce6.jpg
+        sha256: a434b34b9ce6afdb38e4f2b80f70269e76a72fd49d2e22d60cd9b0387616cd4f
+        mime: image/jpeg
+        bytes: 36120
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

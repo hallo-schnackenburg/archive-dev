@@ -1,0 +1,34 @@
+id: 01HDRGAJ52M1Q8NAY7TJY0DPBK
+type: image
+subtype: print
+title: Bäckerei Protokoll nach dem Krieg
+description: Fachwerkhaus und dorfteich, nach dem Krieg.
+date: 2014~
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/22/80/228035bc863fbb047f2c7741445f1b8a792a0625d9abf095b65dd686570f9cf3/original.tif
+    sha256: 228035bc863fbb047f2c7741445f1b8a792a0625d9abf095b65dd686570f9cf3
+    mime: image/tiff
+    bytes: 20249326
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/22/80/228035bc863fbb047f2c7741445f1b8a792a0625d9abf095b65dd686570f9cf3/preview-400.d40fdcf76cb2.jpg
+        sha256: d40fdcf76cb299880d5e705ce0c81f5949e032d12de11aa167e6120e863907a0
+        mime: image/jpeg
+        bytes: 39513
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

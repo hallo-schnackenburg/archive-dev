@@ -1,0 +1,51 @@
+id: 01G0E27YZ027MW471F0B82YFXY
+type: document
+subtype: brochure
+title: Bahnhof Protokoll vor dem Umbau
+date: 1923/1928
+language: de
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/08/67/08678233d9310ff6a35f5082e110d627f272c07d562f97f7dacf694418b1d5bf/original.tif
+    sha256: 08678233d9310ff6a35f5082e110d627f272c07d562f97f7dacf694418b1d5bf
+    mime: image/tiff
+    bytes: 22631287
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/08/67/08678233d9310ff6a35f5082e110d627f272c07d562f97f7dacf694418b1d5bf/preview-400.483ffd63f1da.jpg
+        sha256: 483ffd63f1daf6961c3075986821b83796862d87e50aa1e8d8c68d315b2b5134
+        mime: image/jpeg
+        bytes: 23011
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/f5/d0/f5d03380c46e482b64dc21d31d8914c040e307fa8fe793a6430b80b13a2cc10d/original.tif
+    sha256: f5d03380c46e482b64dc21d31d8914c040e307fa8fe793a6430b80b13a2cc10d
+    mime: image/tiff
+    bytes: 7115669
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f5/d0/f5d03380c46e482b64dc21d31d8914c040e307fa8fe793a6430b80b13a2cc10d/preview-400.8318c8b236ac.jpg
+        sha256: 8318c8b236ac1a23a8bcad4780945395f59f3b69db9ac15223c157486e5719bb
+        mime: image/jpeg
+        bytes: 67294
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

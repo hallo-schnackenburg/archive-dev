@@ -1,0 +1,39 @@
+id: 01JMGBDJNVETWSRG3D9SM590JY
+type: image
+subtype: photo
+title: Fachwerkhaus Aufnahme im Winter
+date: 1933-03
+location: Pretzier, Molkerei
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/1a/d6/1ad699a827a7b6e6eec292e7d607413ad35f638be5eb601645cd9715212e6972/original.jpg
+    sha256: 1ad699a827a7b6e6eec292e7d607413ad35f638be5eb601645cd9715212e6972
+    mime: image/jpeg
+    bytes: 1116679
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/1a/d6/1ad699a827a7b6e6eec292e7d607413ad35f638be5eb601645cd9715212e6972/preview-400.cebc3ab54f43.jpg
+        sha256: cebc3ab54f435f214291d3e75677708c20151ee2d885368f49de362b73892099
+        mime: image/jpeg
+        bytes: 51010
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

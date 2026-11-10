@@ -1,0 +1,53 @@
+id: 01KXFVKDBPTQP75KA5DT0PKREX
+type: document
+subtype: letter
+title: Dorfteich Bescheid im Winter
+description: Kirche St. Johannis und brunnen, bei Hochwasser.
+date: 1936-01
+language: de
+origin:
+  name: Karl Lemke
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/bf/59/bf59a9851bb4e82883730bdb76269661badd6653e39c532ae377756fa829199f/original.tif
+    sha256: bf59a9851bb4e82883730bdb76269661badd6653e39c532ae377756fa829199f
+    mime: image/tiff
+    bytes: 3495201
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bf/59/bf59a9851bb4e82883730bdb76269661badd6653e39c532ae377756fa829199f/preview-400.3c28610621b1.jpg
+        sha256: 3c28610621b1f3a5f3b4a776698e54f796d849ac33c3ac452f0ec667dea22e0c
+        mime: image/jpeg
+        bytes: 58959
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/14/10/14103454a8521d2e57fd24ff9f61cbbe25db4a99463c1509c576743f5696ed5a/original.tif
+    sha256: 14103454a8521d2e57fd24ff9f61cbbe25db4a99463c1509c576743f5696ed5a
+    mime: image/tiff
+    bytes: 11762033
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/10/14103454a8521d2e57fd24ff9f61cbbe25db4a99463c1509c576743f5696ed5a/preview-400.9c480693db3f.jpg
+        sha256: 9c480693db3f87714e35119c9c2914c1a5389356dd8a73c151b568675d2467df
+        mime: image/jpeg
+        bytes: 24099
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

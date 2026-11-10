@@ -1,0 +1,53 @@
+id: 01F0C1N1S5MZKHEYPHK8106W0F
+type: document
+subtype: letter
+title: Brunnen Notiz nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: 1972-05-05
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/46/cf/46cf84e16c45445d014a6fce529c41b7251ff668c43ffa314febc3cb46cfd8f8/original.tif
+    sha256: 46cf84e16c45445d014a6fce529c41b7251ff668c43ffa314febc3cb46cfd8f8
+    mime: image/tiff
+    bytes: 16384777
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/46/cf/46cf84e16c45445d014a6fce529c41b7251ff668c43ffa314febc3cb46cfd8f8/preview-400.d597ad6c7152.jpg
+        sha256: d597ad6c7152ba7c63d0c9ba06e1a28335ccbb3a19af7faa4f991581a8e8c688
+        mime: image/jpeg
+        bytes: 25353
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/d4/1d/d41db12f25f3c8341733c943df550d47ff432e5c73fc8dff76a9dde8348d39bf/original.tif
+    sha256: d41db12f25f3c8341733c943df550d47ff432e5c73fc8dff76a9dde8348d39bf
+    mime: image/tiff
+    bytes: 24290528
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/1d/d41db12f25f3c8341733c943df550d47ff432e5c73fc8dff76a9dde8348d39bf/preview-400.73d63963c073.jpg
+        sha256: 73d63963c0739a9a28afcd3dc9ec07c9037b37963de2bd5ae85dc0bb3c120123
+        mime: image/jpeg
+        bytes: 73730
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

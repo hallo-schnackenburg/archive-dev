@@ -1,0 +1,35 @@
+id: 01F489B9AJ9T0NBKDZZHCTXAEY
+type: image
+subtype: photo
+title: Kirche St. Johannis Festtag zur Wende
+date: "1979"
+location: Pretzier, Storchennest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/17/10/1710c03772c9316760e1587751c91a201219f77fc673f8cf934bd6996d139387/original.jpg
+    sha256: 1710c03772c9316760e1587751c91a201219f77fc673f8cf934bd6996d139387
+    mime: image/jpeg
+    bytes: 26947472
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/17/10/1710c03772c9316760e1587751c91a201219f77fc673f8cf934bd6996d139387/preview-400.55f15d0840d2.jpg
+        sha256: 55f15d0840d26f040e0a47bcbd9eef1b1ab7deb673b319c0fd423296bd4d1a9d
+        mime: image/jpeg
+        bytes: 60482
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01FH20BH4T1F8QFRY32X258PB7
+type: image
+subtype: photo
+title: Bahnhof Umzug zur Ernte
+date: 1992-06-08
+location: Seedorf, Kindergarten
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/23/9b/239bfcdf0c64aad1b041f793dfdfeb62753f66cd88493b421d9ecdfc04a98c60/original.jpg
+    sha256: 239bfcdf0c64aad1b041f793dfdfeb62753f66cd88493b421d9ecdfc04a98c60
+    mime: image/jpeg
+    bytes: 21668024
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/23/9b/239bfcdf0c64aad1b041f793dfdfeb62753f66cd88493b421d9ecdfc04a98c60/preview-400.c9d6055c6df0.jpg
+        sha256: c9d6055c6df00be6ff60909b1666c28a8c00f8f91d68c3cd96afa13f098b71e4
+        mime: image/jpeg
+        bytes: 51985
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

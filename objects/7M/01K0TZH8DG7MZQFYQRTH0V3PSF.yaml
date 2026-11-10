@@ -1,0 +1,39 @@
+id: 01K0TZH8DG7MZQFYQRTH0V3PSF
+type: image
+subtype: photo
+title: Molkerei Ansicht am Sonntag
+description: Ernte und hafen, im Winter.
+date: 1869-04-06
+location: Seedorf, Elbdeich
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Fritz Bohlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/96/f9/96f9eebbed8274a0739cb54937180d6d149a20eeec83878f21b1e529e9f70f1a/original.jpg
+    sha256: 96f9eebbed8274a0739cb54937180d6d149a20eeec83878f21b1e529e9f70f1a
+    mime: image/jpeg
+    bytes: 3593778
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/96/f9/96f9eebbed8274a0739cb54937180d6d149a20eeec83878f21b1e529e9f70f1a/preview-400.08bae7df335e.jpg
+        sha256: 08bae7df335edd17739bbc7adc9e7b033eea15a62cb75e1759ec3bbca777cf66
+        mime: image/jpeg
+        bytes: 33299
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

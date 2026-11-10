@@ -1,0 +1,53 @@
+id: 01GK0KF7AKC18YYCC4DJP9YT1N
+type: document
+subtype: letter
+title: Fachwerkhaus Aufnahme nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: 1880-07-06
+language: de
+origin:
+  name: Hans Brandt
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/bc/16/bc16b7187576da309e13696450ca2db2eff011d9d48924f2a23e378b99ecb2db/original.tif
+    sha256: bc16b7187576da309e13696450ca2db2eff011d9d48924f2a23e378b99ecb2db
+    mime: image/tiff
+    bytes: 4305051
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bc/16/bc16b7187576da309e13696450ca2db2eff011d9d48924f2a23e378b99ecb2db/preview-400.e4e8994a0a6d.jpg
+        sha256: e4e8994a0a6d7ba57604c967079a62a206b20ca7adfee8e6c163c9ed442b8868
+        mime: image/jpeg
+        bytes: 48198
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/33/2d/332d59cc97e9f2109c5dfea9f118728a859549c7833a5b567e1fca0f35a2df71/original.tif
+    sha256: 332d59cc97e9f2109c5dfea9f118728a859549c7833a5b567e1fca0f35a2df71
+    mime: image/tiff
+    bytes: 27776918
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/33/2d/332d59cc97e9f2109c5dfea9f118728a859549c7833a5b567e1fca0f35a2df71/preview-400.3415cadcde9f.jpg
+        sha256: 3415cadcde9fb83acb4e03f895649e1a4912fc7d4d3416182601e9a2aeb34461
+        mime: image/jpeg
+        bytes: 85491
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

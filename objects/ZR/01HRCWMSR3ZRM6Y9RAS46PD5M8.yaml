@@ -1,0 +1,39 @@
+id: 01HRCWMSR3ZRM6Y9RAS46PD5M8
+type: image
+subtype: photo
+title: Fachwerkhaus Bericht zur Wende
+date: 1941-01-17
+location: Lenzen, Bäckerei
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Erika Voss
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/20/c1/20c1c55105705aebf21b6e775bdaa69438105d11671f803e08acdca9471e7e56/original.jpg
+    sha256: 20c1c55105705aebf21b6e775bdaa69438105d11671f803e08acdca9471e7e56
+    mime: image/jpeg
+    bytes: 21413622
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/20/c1/20c1c55105705aebf21b6e775bdaa69438105d11671f803e08acdca9471e7e56/preview-400.352c79688cd6.jpg
+        sha256: 352c79688cd6bb1e1cabd6cb5656d213ef1ef1afa2dd24c048d5a24dbc78d251
+        mime: image/jpeg
+        bytes: 29599
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

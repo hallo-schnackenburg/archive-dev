@@ -1,0 +1,34 @@
+id: 01JE9S31V7BVRXBCFC9PE1X5R7
+type: image
+subtype: plan
+title: Pfarrhaus Zeichnung im Sommer
+date: "1971"
+location: Seedorf, Pfarrhaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/fc/a4/fca45bdb965e8fd68f35d33a2f59ea6ab83e1b45281e3430b60bd517d1349c55/original.tif
+    sha256: fca45bdb965e8fd68f35d33a2f59ea6ab83e1b45281e3430b60bd517d1349c55
+    mime: image/tiff
+    bytes: 13656931
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/a4/fca45bdb965e8fd68f35d33a2f59ea6ab83e1b45281e3430b60bd517d1349c55/preview-400.515b08982b14.jpg
+        sha256: 515b08982b14d1909e308091e8a49ea1f5031fabc3f802376284887196509df1
+        mime: image/jpeg
+        bytes: 63492
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

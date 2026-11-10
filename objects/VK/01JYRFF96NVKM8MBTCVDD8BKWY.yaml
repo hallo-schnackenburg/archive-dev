@@ -1,0 +1,34 @@
+id: 01JYRFF96NVKM8MBTCVDD8BKWY
+type: image
+subtype: plan
+title: Storchennest Prospekt im Winter
+date: 1905~
+location: Holtorf, Schützenfest
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/dd/92/dd92ba1728b4c65894f0da047a31dacce3b7aefb1d7a74d87ba7485e79f43904/original.tif
+    sha256: dd92ba1728b4c65894f0da047a31dacce3b7aefb1d7a74d87ba7485e79f43904
+    mime: image/tiff
+    bytes: 25750747
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/92/dd92ba1728b4c65894f0da047a31dacce3b7aefb1d7a74d87ba7485e79f43904/preview-400.2d3a109afa9b.jpg
+        sha256: 2d3a109afa9bb3b040f23f47f5a031ceb02c022e7df262bd58173c56301fd2f8
+        mime: image/jpeg
+        bytes: 21256
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

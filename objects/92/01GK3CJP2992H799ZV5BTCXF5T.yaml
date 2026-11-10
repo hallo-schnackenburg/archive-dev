@@ -1,0 +1,39 @@
+id: 01GK3CJP2992H799ZV5BTCXF5T
+type: image
+subtype: photo
+title: Mühle Umbau am Sonntag
+date: 1900-05
+location: Seedorf, Gemeindehaus
+origin:
+  name: Erika Voss
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/91/5e/915e6a41eebe0a3956395902452c635f57fcdd20c584920c72543a93eec9eb15/original.jpg
+    sha256: 915e6a41eebe0a3956395902452c635f57fcdd20c584920c72543a93eec9eb15
+    mime: image/jpeg
+    bytes: 20575313
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/91/5e/915e6a41eebe0a3956395902452c635f57fcdd20c584920c72543a93eec9eb15/preview-400.d159664da615.jpg
+        sha256: d159664da61553d5041f3215eea9ec5539f30d391d91a790a3c51977726bc34b
+        mime: image/jpeg
+        bytes: 35918
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

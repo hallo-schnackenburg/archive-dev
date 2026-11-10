@@ -1,0 +1,34 @@
+id: 01EXPG36ZH8ARY5G89HQAPCYAY
+type: image
+subtype: plan
+title: Bäckerei Zeichnung zur Wende
+date: 1876-01-02
+location: Restorf, Ernte
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/23/36/2336fb0fbe03293f15d7606bc5c8fae14911d9df79465ca624aa4e763a6036ef/original.tif
+    sha256: 2336fb0fbe03293f15d7606bc5c8fae14911d9df79465ca624aa4e763a6036ef
+    mime: image/tiff
+    bytes: 27057030
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/23/36/2336fb0fbe03293f15d7606bc5c8fae14911d9df79465ca624aa4e763a6036ef/preview-400.497523f9e112.jpg
+        sha256: 497523f9e112f55b28586e7dfd52523de8409b1f78e226ddfbdaaefbb5d6902a
+        mime: image/jpeg
+        bytes: 25695
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

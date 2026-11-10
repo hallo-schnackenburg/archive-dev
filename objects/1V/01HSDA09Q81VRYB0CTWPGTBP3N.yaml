@@ -1,0 +1,37 @@
+id: 01HSDA09Q81VRYB0CTWPGTBP3N
+type: image
+subtype: print
+title: Bahnhof Besuch nach dem Krieg
+date: "2012"
+location: Restorf, Zollamt
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/f6/4e/f64e030714298a8bce6cde844b0d1280d4722920a016dee9359f57a76cad185a/original.tif
+    sha256: f64e030714298a8bce6cde844b0d1280d4722920a016dee9359f57a76cad185a
+    mime: image/tiff
+    bytes: 16537725
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f6/4e/f64e030714298a8bce6cde844b0d1280d4722920a016dee9359f57a76cad185a/preview-400.b5677180ff8c.jpg
+        sha256: b5677180ff8c48df6ed5c8d4118a262087dd62fa19e4b0caa301e91eed5070e9
+        mime: image/jpeg
+        bytes: 82629
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

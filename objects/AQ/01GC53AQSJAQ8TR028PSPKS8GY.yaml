@@ -1,0 +1,34 @@
+id: 01GC53AQSJAQ8TR028PSPKS8GY
+type: image
+subtype: plan
+title: Kirche St. Johannis Besuch nach dem Krieg
+date: 1852-10-07
+location: Schnackenburg, Feuerwehr
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/85/39/85393725f4bb5d754135213200b3c3b0b427926e32a7105f5ef9923393c4f63b/original.tif
+    sha256: 85393725f4bb5d754135213200b3c3b0b427926e32a7105f5ef9923393c4f63b
+    mime: image/tiff
+    bytes: 12555692
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/85/39/85393725f4bb5d754135213200b3c3b0b427926e32a7105f5ef9923393c4f63b/preview-400.0699548bd529.jpg
+        sha256: 0699548bd5298ef98175b1451978f019edf4985fc91c9c561a4899ffa54c586e
+        mime: image/jpeg
+        bytes: 85783
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,51 @@
+id: 01J5W6M9BQYKNQJ3BBM08T37S1
+type: document
+subtype: brochure
+title: Dorfteich Bericht am Sonntag
+date: 1858~
+language: de
+origin:
+  name: Erika Voss
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/99/9d/999d675a2098117bbbf60c98a929fd9aa381861a913d9bd8bbb1cba809e0e6ca/original.tif
+    sha256: 999d675a2098117bbbf60c98a929fd9aa381861a913d9bd8bbb1cba809e0e6ca
+    mime: image/tiff
+    bytes: 4786062
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/99/9d/999d675a2098117bbbf60c98a929fd9aa381861a913d9bd8bbb1cba809e0e6ca/preview-400.0e50c528ee4e.jpg
+        sha256: 0e50c528ee4e720f339059014814fa9f546007c042625decb174fdd5999ed4a3
+        mime: image/jpeg
+        bytes: 85032
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/67/9c/679cc0a20c5af8bd4288f9eff96d555ae6f88916cb5c9b9bd4611087a04632cf/original.tif
+    sha256: 679cc0a20c5af8bd4288f9eff96d555ae6f88916cb5c9b9bd4611087a04632cf
+    mime: image/tiff
+    bytes: 14724302
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/67/9c/679cc0a20c5af8bd4288f9eff96d555ae6f88916cb5c9b9bd4611087a04632cf/preview-400.3ea05daa5337.jpg
+        sha256: 3ea05daa533703b2bf37dc1daab34b8a149b79014297b5604eab35661cfa104f
+        mime: image/jpeg
+        bytes: 34677
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

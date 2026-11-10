@@ -1,0 +1,35 @@
+id: 01H1CX4Y60MRA8A5H5574434CR
+type: image
+subtype: photo
+title: Hafen Bericht am Sonntag
+description: Das Wasser steht bis an die Deichkrone.
+date: 1964-12-08
+location: Gartow, Storchennest
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/eb/d2/ebd27e4e06e1867a92d689f812f444e1fd3bc0db75aea368917e4202952b872f/original.jpg
+    sha256: ebd27e4e06e1867a92d689f812f444e1fd3bc0db75aea368917e4202952b872f
+    mime: image/jpeg
+    bytes: 26883229
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/eb/d2/ebd27e4e06e1867a92d689f812f444e1fd3bc0db75aea368917e4202952b872f/preview-400.d1bd195bde8f.jpg
+        sha256: d1bd195bde8f99d72a6520d74ea122c29c4ceb1899831d1f821c61199154d832
+        mime: image/jpeg
+        bytes: 28979
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

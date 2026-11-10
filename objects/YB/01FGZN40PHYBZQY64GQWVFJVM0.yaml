@@ -1,0 +1,39 @@
+id: 01FGZN40PHYBZQY64GQWVFJVM0
+type: image
+subtype: photo
+title: Rathaus Bericht im Winter
+date: 1889/1895
+location: Lüchow, Elbdeich
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/34/88/34880d5623ab0aef518d10791a538cf07a81e427026bc7c32d02dcacc3e34983/original.jpg
+    sha256: 34880d5623ab0aef518d10791a538cf07a81e427026bc7c32d02dcacc3e34983
+    mime: image/jpeg
+    bytes: 13525403
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/34/88/34880d5623ab0aef518d10791a538cf07a81e427026bc7c32d02dcacc3e34983/preview-400.fb2e74fbe859.jpg
+        sha256: fb2e74fbe859d1febc6df9c3ad43ef3e5cf5423a88cc37d254bf5646b01ae826
+        mime: image/jpeg
+        bytes: 88886
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

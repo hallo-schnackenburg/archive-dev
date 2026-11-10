@@ -1,0 +1,34 @@
+id: 01HVK394PHKJEANRWNTEYAYJB6
+type: image
+subtype: plan
+title: Fachwerkhaus Prospekt am Sonntag
+date: 1886/1891
+location: Holtorf, Feuerwehr
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/15/b7/15b7a5add1712da47f534a95c4feba0f21185e82c17aae35216c073616b90dde/original.tif
+    sha256: 15b7a5add1712da47f534a95c4feba0f21185e82c17aae35216c073616b90dde
+    mime: image/tiff
+    bytes: 26740340
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/15/b7/15b7a5add1712da47f534a95c4feba0f21185e82c17aae35216c073616b90dde/preview-400.17b5d5f26a7d.jpg
+        sha256: 17b5d5f26a7d279ffc0846d1b6d88ece0f511c18bf593e3372419c017f370312
+        mime: image/jpeg
+        bytes: 73749
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

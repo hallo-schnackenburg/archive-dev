@@ -1,0 +1,39 @@
+id: 01HVT921TMAZ09RH89WYJSR7CC
+type: image
+subtype: photo
+title: Feuerwehr Rechnung bei Hochwasser
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1894-05-13
+location: Gartow, Elbufer
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Hans Brandt
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/b5/9c/b59c1ec43c8c3b752a05c6d03d6474d5d32a7ca084ed0f252d7a2fb7c321567a/original.jpg
+    sha256: b59c1ec43c8c3b752a05c6d03d6474d5d32a7ca084ed0f252d7a2fb7c321567a
+    mime: image/jpeg
+    bytes: 15658382
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b5/9c/b59c1ec43c8c3b752a05c6d03d6474d5d32a7ca084ed0f252d7a2fb7c321567a/preview-400.c8ea13ca62d0.jpg
+        sha256: c8ea13ca62d06eadae1b94949b7211b40566d2cef5d4799713d7eb4e58252a9d
+        mime: image/jpeg
+        bytes: 28580
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

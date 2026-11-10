@@ -1,0 +1,53 @@
+id: 01EW70J47GT1YKE3C1D1DGJQCT
+type: document
+subtype: letter
+title: Dorfschule Zeichnung im Winter
+description: Schreibt über die Ernte und das Wetter.
+date: 1869-01
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/6f/8c/6f8c0452eb26f67a53167dbbf5b41a2767c47619bd8cc5867f32ee8054b460f2/original.tif
+    sha256: 6f8c0452eb26f67a53167dbbf5b41a2767c47619bd8cc5867f32ee8054b460f2
+    mime: image/tiff
+    bytes: 8396223
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6f/8c/6f8c0452eb26f67a53167dbbf5b41a2767c47619bd8cc5867f32ee8054b460f2/preview-400.7ca6b3d22895.jpg
+        sha256: 7ca6b3d22895800dc5def68b133029744766884e4c52a7d65269680d8370d5d1
+        mime: image/jpeg
+        bytes: 64481
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/25/ff/25ff667e791f3446fa5399d68a1edcc769c207a5bf2d0f401af889ae9233956e/original.tif
+    sha256: 25ff667e791f3446fa5399d68a1edcc769c207a5bf2d0f401af889ae9233956e
+    mime: image/tiff
+    bytes: 11482789
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/25/ff/25ff667e791f3446fa5399d68a1edcc769c207a5bf2d0f401af889ae9233956e/preview-400.54d9e5f66871.jpg
+        sha256: 54d9e5f6687108a9cd5f04084c0c00963f474e749531a85a80890a5ae4573d76
+        mime: image/jpeg
+        bytes: 84628
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

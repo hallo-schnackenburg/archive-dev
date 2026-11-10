@@ -1,0 +1,34 @@
+id: 01H6DAN77MS4V0N1T8BMPJZN9D
+type: image
+subtype: print
+title: Kirche St. Johannis Besuch nach dem Krieg
+description: Kupferstich.
+date: 1944~
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/b2/34/b23460abf2bcf7e9324d660176a3b16763614c9d9f857571fa5196d20dbe6fa6/original.tif
+    sha256: b23460abf2bcf7e9324d660176a3b16763614c9d9f857571fa5196d20dbe6fa6
+    mime: image/tiff
+    bytes: 22097934
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b2/34/b23460abf2bcf7e9324d660176a3b16763614c9d9f857571fa5196d20dbe6fa6/preview-400.0629a6f99815.jpg
+        sha256: 0629a6f9981534b6b065043cf355ab98f3896510fe3c3206806d4ff7acb12a4d
+        mime: image/jpeg
+        bytes: 37516
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

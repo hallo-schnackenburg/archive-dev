@@ -1,0 +1,39 @@
+id: 01G695SARWFNZX1R8BK5N58DCT
+type: image
+subtype: photo
+title: Hafen Besuch zur Ernte
+date: 1897-06
+location: Pretzier, Dorfschule
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/51/96/519697f27abebc9faf38b62aa9e51afe5a99c1ea1d3330460a170e6f7e16c206/original.jpg
+    sha256: 519697f27abebc9faf38b62aa9e51afe5a99c1ea1d3330460a170e6f7e16c206
+    mime: image/jpeg
+    bytes: 20775370
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/51/96/519697f27abebc9faf38b62aa9e51afe5a99c1ea1d3330460a170e6f7e16c206/preview-400.93877af1039e.jpg
+        sha256: 93877af1039e858340cac326c69865b8f7e32f4b0c534575259e3866bd43d6bf
+        mime: image/jpeg
+        bytes: 80250
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

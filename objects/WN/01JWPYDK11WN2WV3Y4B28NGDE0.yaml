@@ -1,0 +1,34 @@
+id: 01JWPYDK11WN2WV3Y4B28NGDE0
+type: image
+subtype: print
+title: Kirche St. Johannis Notiz zur Ernte
+description: Pfarrhaus und fachwerkhaus, bei Hochwasser.
+date: "1942"
+origin:
+  name: Otto Hennings
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/11/e3/11e3e615b6452f42c4257c0445bfc540a9ef3f817c3dcc32a72f8ff5a54ea894/original.tif
+    sha256: 11e3e615b6452f42c4257c0445bfc540a9ef3f817c3dcc32a72f8ff5a54ea894
+    mime: image/tiff
+    bytes: 23706485
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/e3/11e3e615b6452f42c4257c0445bfc540a9ef3f817c3dcc32a72f8ff5a54ea894/preview-400.8f55285f0833.jpg
+        sha256: 8f55285f0833201237eaedeef221dbd7240614627b5a922d7939a8aa163b2c35
+        mime: image/jpeg
+        bytes: 83807
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

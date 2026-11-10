@@ -1,0 +1,39 @@
+id: 01FR6N6K34FK2D5920S05PGV4N
+type: image
+subtype: photo
+title: Hafen Ansicht am Morgen
+date: 1860-01-21
+location: Kapern, Fachwerkhaus
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/e9/2d/e92d171569fe843f6833662a6f8a83615e1311a1e380d20de42cfb73b39b539e/original.jpg
+    sha256: e92d171569fe843f6833662a6f8a83615e1311a1e380d20de42cfb73b39b539e
+    mime: image/jpeg
+    bytes: 9090688
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e9/2d/e92d171569fe843f6833662a6f8a83615e1311a1e380d20de42cfb73b39b539e/preview-400.6c994d5abcb3.jpg
+        sha256: 6c994d5abcb38de5df8028260164e6b1fcdd6c1e037fd933796e8b9801a125f4
+        mime: image/jpeg
+        bytes: 77156
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,47 @@
+id: 01HQXTMKG2DZSD6DE2RVYKG3MX
+type: image
+subtype: photo
+title: Mühle Besuch am Morgen
+description: Hochwasser und bäckerei, im Winter.
+date: 1999/2002
+location: Schnackenburg, Grenzturm
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Erika Voss
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/ab/ec/abece3c4e3f2e26745f7aa115e64ad6e584cc96dba451e89b716d3c3ef63993f/original.jpg
+    sha256: abece3c4e3f2e26745f7aa115e64ad6e584cc96dba451e89b716d3c3ef63993f
+    mime: image/jpeg
+    bytes: 20790090
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ab/ec/abece3c4e3f2e26745f7aa115e64ad6e584cc96dba451e89b716d3c3ef63993f/preview-400.402b7eb74c64.jpg
+        sha256: 402b7eb74c64ee0a9ce74d420dd4c3c94443c45cacdb7cae2ad5f0ac9105d584
+        mime: image/jpeg
+        bytes: 46040
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

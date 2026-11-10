@@ -1,0 +1,53 @@
+id: 01KYQSPX3Q79EZ0N455HWNTQHA
+type: document
+subtype: letter
+title: Rathaus Zeichnung vor dem Umbau
+description: Fähre und bäckerei, im Sommer.
+date: 1945/1946
+language: de
+origin:
+  name: Karl Lemke
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/7e/ec/7eec3dd4a48cf503a431fe45c23b35b0d612d03f6c1c621053a02408bf44a28d/original.tif
+    sha256: 7eec3dd4a48cf503a431fe45c23b35b0d612d03f6c1c621053a02408bf44a28d
+    mime: image/tiff
+    bytes: 21756781
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7e/ec/7eec3dd4a48cf503a431fe45c23b35b0d612d03f6c1c621053a02408bf44a28d/preview-400.72bf40dc976c.jpg
+        sha256: 72bf40dc976cbb7940bd25a3ec2804decf23a23b77c4975579e41c52d22e44df
+        mime: image/jpeg
+        bytes: 88260
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/4d/5e/4d5e4af2bae6c377002d23119af8e2e892ffe307e0d2b2d1a64534775b0ce4d8/original.tif
+    sha256: 4d5e4af2bae6c377002d23119af8e2e892ffe307e0d2b2d1a64534775b0ce4d8
+    mime: image/tiff
+    bytes: 12118329
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4d/5e/4d5e4af2bae6c377002d23119af8e2e892ffe307e0d2b2d1a64534775b0ce4d8/preview-400.349182f96a64.jpg
+        sha256: 349182f96a64572e7dbfc361a518d7c93a3229d913dc49d0fa7e2e458d116b1a
+        mime: image/jpeg
+        bytes: 41337
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

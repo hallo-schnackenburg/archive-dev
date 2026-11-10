@@ -1,0 +1,35 @@
+id: 01F6HB0G8YNW4RR1PWB40D632P
+type: image
+subtype: photo
+title: Schmiede Besuch im Winter
+date: 1901-10-07
+location: Pretzier, Gasthof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/b5/1c/b51c22f38d8813ab2ecfb253eaf0b842583bfa6a13a2cd8a9d79e11a7a547746/original.jpg
+    sha256: b51c22f38d8813ab2ecfb253eaf0b842583bfa6a13a2cd8a9d79e11a7a547746
+    mime: image/jpeg
+    bytes: 24834379
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b5/1c/b51c22f38d8813ab2ecfb253eaf0b842583bfa6a13a2cd8a9d79e11a7a547746/preview-400.e044bcf62c59.jpg
+        sha256: e044bcf62c596e19b0731ef1e96460f4a763c3b4dd3913016adb60fbf4941f71
+        mime: image/jpeg
+        bytes: 47673
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

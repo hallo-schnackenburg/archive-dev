@@ -1,0 +1,51 @@
+id: 01JHDG2SED02PH4KQ129D5Z0QD
+type: document
+subtype: brochure
+title: Dorfschule Ansicht am Morgen
+date: 1857-09
+language: de
+origin:
+  name: Anni Jeß
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/85/7b/857b53f8b0d3401489abb5e5e25eeb574baea06eab9ca5175ab6901a613730a2/original.tif
+    sha256: 857b53f8b0d3401489abb5e5e25eeb574baea06eab9ca5175ab6901a613730a2
+    mime: image/tiff
+    bytes: 9857719
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/85/7b/857b53f8b0d3401489abb5e5e25eeb574baea06eab9ca5175ab6901a613730a2/preview-400.a2e29a3f3467.jpg
+        sha256: a2e29a3f34679df337e12aec1903a78712ad0249f5450766d4062adc2156d71c
+        mime: image/jpeg
+        bytes: 62590
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/fa/24/fa24a235d5a535a32970b01db16eb6168631fbd3e3cfb9f7acf774c76bc19e61/original.tif
+    sha256: fa24a235d5a535a32970b01db16eb6168631fbd3e3cfb9f7acf774c76bc19e61
+    mime: image/tiff
+    bytes: 14269063
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fa/24/fa24a235d5a535a32970b01db16eb6168631fbd3e3cfb9f7acf774c76bc19e61/preview-400.285d83af3305.jpg
+        sha256: 285d83af3305d1de776fa6fd1e3c4b6508dfb5939ef16cd1507ea8bc669cedcf
+        mime: image/jpeg
+        bytes: 45609
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01KD1HQWZP1ASFVVQ2BYKDG4SK
+type: image
+subtype: photo
+title: Mühle Zeichnung im Winter
+date: 1990-12-21
+location: Lüchow, Schmiede
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/97/3a/973afe8d5f4c23a8034ec322b45f954ea891b5f12f19f8daa02d151598329756/original.jpg
+    sha256: 973afe8d5f4c23a8034ec322b45f954ea891b5f12f19f8daa02d151598329756
+    mime: image/jpeg
+    bytes: 15190785
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/97/3a/973afe8d5f4c23a8034ec322b45f954ea891b5f12f19f8daa02d151598329756/preview-400.7c8d8f9e8bce.jpg
+        sha256: 7c8d8f9e8bcec56128ccfccdd5dc16cd590cd787f7f9980327f94e4e18cee6b9
+        mime: image/jpeg
+        bytes: 70872
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

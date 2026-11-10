@@ -1,0 +1,51 @@
+id: 01KY8FWVZ0S7TR540C8VHEGBE2
+type: document
+subtype: brochure
+title: Zollamt Bericht zu Pfingsten
+date: "1979"
+language: de
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/0c/c0/0cc05805a34296d36c0e8e6ecee871da57ffba9f02cac82c6e96c7ecde72004a/original.tif
+    sha256: 0cc05805a34296d36c0e8e6ecee871da57ffba9f02cac82c6e96c7ecde72004a
+    mime: image/tiff
+    bytes: 7469466
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0c/c0/0cc05805a34296d36c0e8e6ecee871da57ffba9f02cac82c6e96c7ecde72004a/preview-400.efa6392d9fd4.jpg
+        sha256: efa6392d9fd47e438eb8d44e6418ff4608bd845e896280235ce5e9a0e852c71c
+        mime: image/jpeg
+        bytes: 71900
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/de/02/de02c2938a9238a9694d6cea5dc9f46d68982c760703ad17d880f68497dfad92/original.tif
+    sha256: de02c2938a9238a9694d6cea5dc9f46d68982c760703ad17d880f68497dfad92
+    mime: image/tiff
+    bytes: 17292872
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/02/de02c2938a9238a9694d6cea5dc9f46d68982c760703ad17d880f68497dfad92/preview-400.a1108fa1f268.jpg
+        sha256: a1108fa1f268ad24bc80e5425c8604bd6ddee99a448ddcc8bd6a92f15bdb0485
+        mime: image/jpeg
+        bytes: 58633
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01G2EAM84V2CFKHSYR5E6SAW73
+type: image
+subtype: photo
+title: Mühle Aufnahme am Sonntag
+date: 1970-08
+location: Seedorf, Feuerwehr
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/74/44/7444d776ebe2dcbb3af9dd5b69ef2fa5f402fd82d6de568578695ebf270c19d8/original.jpg
+    sha256: 7444d776ebe2dcbb3af9dd5b69ef2fa5f402fd82d6de568578695ebf270c19d8
+    mime: image/jpeg
+    bytes: 14919463
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/74/44/7444d776ebe2dcbb3af9dd5b69ef2fa5f402fd82d6de568578695ebf270c19d8/preview-400.048cc16ae240.jpg
+        sha256: 048cc16ae240a4bd8a57df2a4ca5c2d27087c75af8e676ed338020c9dae9093d
+        mime: image/jpeg
+        bytes: 66204
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,53 @@
+id: 01FJ52YZQFE9K2YVV1XD9XP4TB
+type: document
+subtype: letter
+title: Gemeindehaus Einladung zur Wende
+description: Gasthof und schmiede, zur Wende.
+date: 1887-02-28
+language: de
+origin:
+  name: Marta Lüders
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/df/ea/dfea2c0b950f38113536493bc19a60fe27efac68f90e7ab3c3fbca69cc7924b0/original.tif
+    sha256: dfea2c0b950f38113536493bc19a60fe27efac68f90e7ab3c3fbca69cc7924b0
+    mime: image/tiff
+    bytes: 19523045
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/df/ea/dfea2c0b950f38113536493bc19a60fe27efac68f90e7ab3c3fbca69cc7924b0/preview-400.9fdbaeb85ca6.jpg
+        sha256: 9fdbaeb85ca685c5d73d78301baec93b324ad297b3451ab0d99b0547deccfe14
+        mime: image/jpeg
+        bytes: 35629
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/c1/c6/c1c604fb224db26902d098414f928e0ae14cd0ff79367840a38a4e11b06108f7/original.tif
+    sha256: c1c604fb224db26902d098414f928e0ae14cd0ff79367840a38a4e11b06108f7
+    mime: image/tiff
+    bytes: 20385268
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c1/c6/c1c604fb224db26902d098414f928e0ae14cd0ff79367840a38a4e11b06108f7/preview-400.2974934272f1.jpg
+        sha256: 2974934272f1c0e9d21d3b82ed632462762f67db1f5b15396a0471019de2f335
+        mime: image/jpeg
+        bytes: 33205
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

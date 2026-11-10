@@ -1,0 +1,53 @@
+id: 01HWSZ0AGM97FVK6ZCFTHT7M09
+type: document
+subtype: letter
+title: Gasthof Festtag am Morgen
+description: Gasthof und schmiede, bei Hochwasser.
+date: 1931-10-13
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/8e/73/8e739adafa1f7620e15c79c3ba468d3a457a8695b1f6a9512e0dd15fb142e130/original.tif
+    sha256: 8e739adafa1f7620e15c79c3ba468d3a457a8695b1f6a9512e0dd15fb142e130
+    mime: image/tiff
+    bytes: 5804508
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8e/73/8e739adafa1f7620e15c79c3ba468d3a457a8695b1f6a9512e0dd15fb142e130/preview-400.a2a08525c5ba.jpg
+        sha256: a2a08525c5ba80156ef313d4a81372d0a202537c00fd20fe97e705d786cef81d
+        mime: image/jpeg
+        bytes: 53624
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/7c/ca/7cca7055911ba449bdedbe638e75b80bfd55c605546dc5998659b62d5558bee3/original.tif
+    sha256: 7cca7055911ba449bdedbe638e75b80bfd55c605546dc5998659b62d5558bee3
+    mime: image/tiff
+    bytes: 18346611
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7c/ca/7cca7055911ba449bdedbe638e75b80bfd55c605546dc5998659b62d5558bee3/preview-400.a5cf13e585f3.jpg
+        sha256: a5cf13e585f37febb989c628e5ecb734eccb5da18a37f28ad20561b986c1d123
+        mime: image/jpeg
+        bytes: 84123
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

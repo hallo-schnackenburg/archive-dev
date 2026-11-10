@@ -1,0 +1,39 @@
+id: 01G3KAC3D7GVR258BPR2QQZXDB
+type: image
+subtype: photo
+title: Dorfteich Besuch nach dem Krieg
+date: 1928-03-17
+location: Gartow, Storchennest
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/7a/5e/7a5ea4dc3fec648afd712b9626f62a4c23579b8d5fa74bfd88112390afbc820b/original.jpg
+    sha256: 7a5ea4dc3fec648afd712b9626f62a4c23579b8d5fa74bfd88112390afbc820b
+    mime: image/jpeg
+    bytes: 19372678
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7a/5e/7a5ea4dc3fec648afd712b9626f62a4c23579b8d5fa74bfd88112390afbc820b/preview-400.ccb57f46a93c.jpg
+        sha256: ccb57f46a93cd09d7930ad540e9277607f86fb93bbffc60f41c30a0c50a59572
+        mime: image/jpeg
+        bytes: 53024
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

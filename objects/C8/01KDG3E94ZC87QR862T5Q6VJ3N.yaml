@@ -1,0 +1,35 @@
+id: 01KDG3E94ZC87QR862T5Q6VJ3N
+type: image
+subtype: photo
+title: Fachwerkhaus Gruppenbild nach dem Krieg
+date: 1919-05-27
+location: Schnackenburg, Hochwasser
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/37/5d/375d57b15ddcb92344a4ea4f09b66e4cf0b0a6eba852077684fa0028b13e00bb/original.jpg
+    sha256: 375d57b15ddcb92344a4ea4f09b66e4cf0b0a6eba852077684fa0028b13e00bb
+    mime: image/jpeg
+    bytes: 18508315
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/37/5d/375d57b15ddcb92344a4ea4f09b66e4cf0b0a6eba852077684fa0028b13e00bb/preview-400.e5c8672ea2c7.jpg
+        sha256: e5c8672ea2c7857c0f68cb74b0a508c520c25926884ac398aa8fd132292d6c13
+        mime: image/jpeg
+        bytes: 83722
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

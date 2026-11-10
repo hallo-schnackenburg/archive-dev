@@ -1,0 +1,39 @@
+id: 01JBBB0AQA3F84AW40S70SVTB4
+type: image
+subtype: photo
+title: Kindergarten Zeichnung nach dem Krieg
+date: 1895~
+location: Pretzier, Sportplatz
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/fb/98/fb9849c5f56994d192dc698d7a23112d1fa10923f65c2fc29a3841447243a9e3/original.jpg
+    sha256: fb9849c5f56994d192dc698d7a23112d1fa10923f65c2fc29a3841447243a9e3
+    mime: image/jpeg
+    bytes: 20509929
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fb/98/fb9849c5f56994d192dc698d7a23112d1fa10923f65c2fc29a3841447243a9e3/preview-400.0f1b0379bc62.jpg
+        sha256: 0f1b0379bc62f9f5c76bedac13a901ea54ae56ed4eeb3b95b04b99c40e2a7781
+        mime: image/jpeg
+        bytes: 33700
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

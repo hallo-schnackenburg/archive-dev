@@ -1,0 +1,35 @@
+id: 01K3MFSES3PEAXZC2BQ8DPGHND
+type: image
+subtype: photo
+title: Kirche St. Johannis Protokoll nach dem Krieg
+date: 1864-06-05
+location: Gorleben, Elbufer
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/80/2b/802b69b250c81f045b7de98f41ef1069a08a6f8cf1764e727cfefe71d0f7a169/original.jpg
+    sha256: 802b69b250c81f045b7de98f41ef1069a08a6f8cf1764e727cfefe71d0f7a169
+    mime: image/jpeg
+    bytes: 15594573
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/80/2b/802b69b250c81f045b7de98f41ef1069a08a6f8cf1764e727cfefe71d0f7a169/preview-400.76983fb347d0.jpg
+        sha256: 76983fb347d076e932d90459cd7937839813329c3cd549836b9ec89b3bac7695
+        mime: image/jpeg
+        bytes: 77477
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

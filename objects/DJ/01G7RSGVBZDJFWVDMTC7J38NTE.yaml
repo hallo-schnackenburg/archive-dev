@@ -1,0 +1,51 @@
+id: 01G7RSGVBZDJFWVDMTC7J38NTE
+type: document
+subtype: brochure
+title: Molkerei Entwurf zur Wende
+date: "1905"
+language: de
+origin:
+  name: Helga Plate
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/83/07/8307d05af97adbf7b1ae60fdf03526cf47f1c8a72d448d09559bd19a12133493/original.tif
+    sha256: 8307d05af97adbf7b1ae60fdf03526cf47f1c8a72d448d09559bd19a12133493
+    mime: image/tiff
+    bytes: 9959868
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/83/07/8307d05af97adbf7b1ae60fdf03526cf47f1c8a72d448d09559bd19a12133493/preview-400.ff4679daddbb.jpg
+        sha256: ff4679daddbb65c4fe95b40ee11a0489c0eaf0cb614558625e94614a39c9b9ed
+        mime: image/jpeg
+        bytes: 79188
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/5d/60/5d6008231884d8c44f7fb5af111321ebd8763818eb80c98baba30718bd0972bd/original.tif
+    sha256: 5d6008231884d8c44f7fb5af111321ebd8763818eb80c98baba30718bd0972bd
+    mime: image/tiff
+    bytes: 7973423
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5d/60/5d6008231884d8c44f7fb5af111321ebd8763818eb80c98baba30718bd0972bd/preview-400.157ee1b6cdd7.jpg
+        sha256: 157ee1b6cdd74864850696cce8fded3fac767785e3f802cd4ef302bc29a7f262
+        mime: image/jpeg
+        bytes: 27793
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

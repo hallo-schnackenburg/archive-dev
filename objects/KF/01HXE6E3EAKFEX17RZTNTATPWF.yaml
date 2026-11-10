@@ -1,0 +1,35 @@
+id: 01HXE6E3EAKFEX17RZTNTATPWF
+type: image
+subtype: photo
+title: Bäckerei Rechnung zur Wende
+date: "1951"
+location: Seedorf, Hafen
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/ab/cb/abcb164f4afa832fc481e6500be91e1e439db97bf26b367062f5651cc9092fe5/original.jpg
+    sha256: abcb164f4afa832fc481e6500be91e1e439db97bf26b367062f5651cc9092fe5
+    mime: image/jpeg
+    bytes: 26557664
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ab/cb/abcb164f4afa832fc481e6500be91e1e439db97bf26b367062f5651cc9092fe5/preview-400.12d47c4bfc1d.jpg
+        sha256: 12d47c4bfc1d0d6fc3bb3fabbb7e30b0c561573657dccc2b3be2760e4c900fc9
+        mime: image/jpeg
+        bytes: 59176
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

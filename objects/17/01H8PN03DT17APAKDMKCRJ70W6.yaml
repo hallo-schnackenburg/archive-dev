@@ -1,0 +1,39 @@
+id: 01H8PN03DT17APAKDMKCRJ70W6
+type: image
+subtype: photo
+title: Brunnen Bericht zur Ernte
+description: Elbufer und bäckerei, zu Pfingsten.
+date: 1899~
+location: Gartow, Grenzturm
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Fritz Bohlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/2f/a7/2fa7450bb1738bc8799755277054d0f177685ebb528e23d10a13bbaecde8ea6e/original.jpg
+    sha256: 2fa7450bb1738bc8799755277054d0f177685ebb528e23d10a13bbaecde8ea6e
+    mime: image/jpeg
+    bytes: 9994239
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2f/a7/2fa7450bb1738bc8799755277054d0f177685ebb528e23d10a13bbaecde8ea6e/preview-400.99ff872ae2d3.jpg
+        sha256: 99ff872ae2d3c3edf08b7d92727fe336b35bd242641930c936eca8d4bca2715d
+        mime: image/jpeg
+        bytes: 39778
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

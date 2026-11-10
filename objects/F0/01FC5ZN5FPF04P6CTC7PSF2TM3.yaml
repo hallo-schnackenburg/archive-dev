@@ -1,0 +1,47 @@
+id: 01FC5ZN5FPF04P6CTC7PSF2TM3
+type: image
+subtype: photo
+title: Marktplatz Prospekt am Sonntag
+description: Grenzturm und hochwasser, im Winter.
+date: "1962"
+location: Lüchow, Fähre
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Karl Lemke
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/8e/9f/8e9f4586772281ebf7e72cbbd3134f76f8b53d983ea80eb0ffab75d595cfd222/original.jpg
+    sha256: 8e9f4586772281ebf7e72cbbd3134f76f8b53d983ea80eb0ffab75d595cfd222
+    mime: image/jpeg
+    bytes: 4262512
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/8e/9f/8e9f4586772281ebf7e72cbbd3134f76f8b53d983ea80eb0ffab75d595cfd222/preview-400.f1ce4879e434.jpg
+        sha256: f1ce4879e4344357aadf82d129c7e39ba2a66fe915cf957e5dcfc0a8e710716d
+        mime: image/jpeg
+        bytes: 32320
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

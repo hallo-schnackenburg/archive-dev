@@ -1,0 +1,34 @@
+id: 01JJGCRBXNQHCQM9DNSRR3ZAER
+type: image
+subtype: plan
+title: Ernte Umbau am Morgen
+date: 1989-12
+location: Kapern, Zollamt
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/1c/aa/1caa909b7df7d6e14f3231facc8326f0ec94a78aa69a37fb407b4ae1aef76df8/original.tif
+    sha256: 1caa909b7df7d6e14f3231facc8326f0ec94a78aa69a37fb407b4ae1aef76df8
+    mime: image/tiff
+    bytes: 12405902
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/aa/1caa909b7df7d6e14f3231facc8326f0ec94a78aa69a37fb407b4ae1aef76df8/preview-400.2ec0f2556981.jpg
+        sha256: 2ec0f2556981894c4db472d5f04e03cc8f9d7ba39ea6f69931102cf4b262b785
+        mime: image/jpeg
+        bytes: 80569
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

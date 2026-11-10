@@ -1,0 +1,34 @@
+id: 01FT8HJ2AVGQP16G6EN2RD1THM
+type: image
+subtype: plan
+title: Kirche St. Johannis Zeichnung nach dem Krieg
+date: 1900-07-16
+location: Gorleben, Grenzturm
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/ea/72/ea726460d076eaf60ab196e4db1f7d5a3c6a9a893272cb47a804791573406b4a/original.tif
+    sha256: ea726460d076eaf60ab196e4db1f7d5a3c6a9a893272cb47a804791573406b4a
+    mime: image/tiff
+    bytes: 14947603
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ea/72/ea726460d076eaf60ab196e4db1f7d5a3c6a9a893272cb47a804791573406b4a/preview-400.46b0688b81e6.jpg
+        sha256: 46b0688b81e68306340a4b68f0d99e62d1b546c27887f936640d1a3bbd11da13
+        mime: image/jpeg
+        bytes: 62606
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

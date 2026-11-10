@@ -1,0 +1,35 @@
+id: 01KS2306P8ET6VCH0HQ5WB29ZC
+type: image
+subtype: photo
+title: Friedhof Bericht am Sonntag
+date: 1903/1908
+location: Kapern, Friedhof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/6f/10/6f10b129ae5ce5036b385b385b72a121ad09995560add05763888c3921f15f8d/original.jpg
+    sha256: 6f10b129ae5ce5036b385b385b72a121ad09995560add05763888c3921f15f8d
+    mime: image/jpeg
+    bytes: 9229870
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/6f/10/6f10b129ae5ce5036b385b385b72a121ad09995560add05763888c3921f15f8d/preview-400.9c45cc5300d9.jpg
+        sha256: 9c45cc5300d97ff542540f5b87c428cc975019758e832a3a1830d24295edc58c
+        mime: image/jpeg
+        bytes: 50455
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

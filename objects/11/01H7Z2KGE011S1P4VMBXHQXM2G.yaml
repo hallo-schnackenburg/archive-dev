@@ -1,0 +1,34 @@
+id: 01H7Z2KGE011S1P4VMBXHQXM2G
+type: image
+subtype: plan
+title: Fähre Notiz am Morgen
+date: 2000/2002
+location: Pretzier, Schützenfest
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/fc/b8/fcb8e9555c138f99d9e8ba40baaa141bff195b6f812fdeb6e6b1ce8115f76f7a/original.tif
+    sha256: fcb8e9555c138f99d9e8ba40baaa141bff195b6f812fdeb6e6b1ce8115f76f7a
+    mime: image/tiff
+    bytes: 16890732
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/b8/fcb8e9555c138f99d9e8ba40baaa141bff195b6f812fdeb6e6b1ce8115f76f7a/preview-400.a46261b2458b.jpg
+        sha256: a46261b2458b91a7f5088a3549618d8b59e03672d88f4e66805ccc91cc9b117c
+        mime: image/jpeg
+        bytes: 55384
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

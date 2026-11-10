@@ -1,0 +1,39 @@
+id: 01EYQMG7QZGPNNRQS0VAGDY9F5
+type: image
+subtype: photo
+title: Mühle Bericht zur Ernte
+description: Elbufer und ernte, nach dem Krieg.
+date: 1982-12
+location: Lüchow, Grenzturm
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Wilhelm Krüger
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/48/85/4885c2f4569fa3880a5aaa2cd17d03a5dbd3e125b88b58ebbb02af36fe2dacde/original.jpg
+    sha256: 4885c2f4569fa3880a5aaa2cd17d03a5dbd3e125b88b58ebbb02af36fe2dacde
+    mime: image/jpeg
+    bytes: 13765949
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/48/85/4885c2f4569fa3880a5aaa2cd17d03a5dbd3e125b88b58ebbb02af36fe2dacde/preview-400.f8ab910fde49.jpg
+        sha256: f8ab910fde49560e200e160aa82216f4826e99d327a8f31465e0e94e9ad54c22
+        mime: image/jpeg
+        bytes: 66626
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

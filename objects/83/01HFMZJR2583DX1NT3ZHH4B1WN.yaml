@@ -1,0 +1,51 @@
+id: 01HFMZJR2583DX1NT3ZHH4B1WN
+type: document
+subtype: brochure
+title: Dorfschule Prospekt am Sonntag
+date: 2014~
+language: de
+origin:
+  name: Anni Jeß
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/4d/95/4d95f5831dbf3a2ad7cd8e28f8a5e46119877c960ce79ce0074a854377836978/original.tif
+    sha256: 4d95f5831dbf3a2ad7cd8e28f8a5e46119877c960ce79ce0074a854377836978
+    mime: image/tiff
+    bytes: 20478359
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4d/95/4d95f5831dbf3a2ad7cd8e28f8a5e46119877c960ce79ce0074a854377836978/preview-400.018f99adb576.jpg
+        sha256: 018f99adb57658d448cd2b0dd2310320386eacd77761240e17ad8833bdfe8257
+        mime: image/jpeg
+        bytes: 29457
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/0b/c6/0bc6b218d76b85661ced527b1743fc7fa95ca6406f6734a861e573f51330061c/original.tif
+    sha256: 0bc6b218d76b85661ced527b1743fc7fa95ca6406f6734a861e573f51330061c
+    mime: image/tiff
+    bytes: 20539483
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0b/c6/0bc6b218d76b85661ced527b1743fc7fa95ca6406f6734a861e573f51330061c/preview-400.42dfb2b1d5c1.jpg
+        sha256: 42dfb2b1d5c1e13fddd5dcea404f8d90872a6709ae26002444d3d9032b1dab75
+        mime: image/jpeg
+        bytes: 28985
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

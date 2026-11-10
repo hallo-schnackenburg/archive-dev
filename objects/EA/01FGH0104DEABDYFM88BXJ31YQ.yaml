@@ -1,0 +1,39 @@
+id: 01FGH0104DEABDYFM88BXJ31YQ
+type: image
+subtype: photo
+title: Friedhof Besuch nach dem Krieg
+description: Feuerwehr und dorfschule, nach dem Krieg.
+date: "2021"
+location: Lenzen, Gasthof
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Ilse Wegner
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/23/75/2375b45dbb28d4583a23771d48371a9414b743c544b9ffdf1a53cb01dfd50b34/original.jpg
+    sha256: 2375b45dbb28d4583a23771d48371a9414b743c544b9ffdf1a53cb01dfd50b34
+    mime: image/jpeg
+    bytes: 7733533
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/23/75/2375b45dbb28d4583a23771d48371a9414b743c544b9ffdf1a53cb01dfd50b34/preview-400.06acd954b35f.jpg
+        sha256: 06acd954b35f994a858c9bd6cfe358f37aebe655c31f675179ff6bf4bbda5b73
+        mime: image/jpeg
+        bytes: 79094
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

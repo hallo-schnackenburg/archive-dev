@@ -1,0 +1,53 @@
+id: 01F8PB7YACBGMWEARH686XFDF9
+type: document
+subtype: letter
+title: Elbufer Einladung nach dem Krieg
+description: Schmiede und rathaus, zur Wende.
+date: "1899"
+language: de
+origin:
+  name: Walter Kuhlmann
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/0e/fc/0efc409109c56cc890a19b419b15118b5351bd73f09a12abf5c7bc3fa7b424a9/original.tif
+    sha256: 0efc409109c56cc890a19b419b15118b5351bd73f09a12abf5c7bc3fa7b424a9
+    mime: image/tiff
+    bytes: 14478841
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0e/fc/0efc409109c56cc890a19b419b15118b5351bd73f09a12abf5c7bc3fa7b424a9/preview-400.4b4cfccf8e8e.jpg
+        sha256: 4b4cfccf8e8ec1393b268e45e11fc2768118f489d4e3d32b8ab12e28c0f248f1
+        mime: image/jpeg
+        bytes: 32611
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/64/1c/641c9a9aabef42dfc32f5200faf12d7eb4d6f40ce8581e18fc48e459c1fc30d8/original.tif
+    sha256: 641c9a9aabef42dfc32f5200faf12d7eb4d6f40ce8581e18fc48e459c1fc30d8
+    mime: image/tiff
+    bytes: 23931977
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/64/1c/641c9a9aabef42dfc32f5200faf12d7eb4d6f40ce8581e18fc48e459c1fc30d8/preview-400.e48c85f0a44c.jpg
+        sha256: e48c85f0a44c598f4687514e4b2b4ebf65873f27f094e569615a3222bed682ae
+        mime: image/jpeg
+        bytes: 22037
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

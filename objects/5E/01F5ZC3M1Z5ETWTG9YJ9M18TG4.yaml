@@ -1,0 +1,53 @@
+id: 01F5ZC3M1Z5ETWTG9YJ9M18TG4
+type: document
+subtype: letter
+title: Sportplatz Bescheid zur Ernte
+description: Schreibt über die Ernte und das Wetter.
+date: "1936"
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/0d/47/0d4796ce7c03715ede76ecc3c813f608d675cea94d41350cddd3f7fd3ca071bc/original.tif
+    sha256: 0d4796ce7c03715ede76ecc3c813f608d675cea94d41350cddd3f7fd3ca071bc
+    mime: image/tiff
+    bytes: 10399816
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0d/47/0d4796ce7c03715ede76ecc3c813f608d675cea94d41350cddd3f7fd3ca071bc/preview-400.74e4ac2a8e6f.jpg
+        sha256: 74e4ac2a8e6fcac420e2bb4a87cf888c677ad4a4acb18f9d489a90e6b945a7df
+        mime: image/jpeg
+        bytes: 81958
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/6e/3a/6e3ac563a14edee96a957b1b2071f770596f3101257ee6611271bc168b22c963/original.tif
+    sha256: 6e3ac563a14edee96a957b1b2071f770596f3101257ee6611271bc168b22c963
+    mime: image/tiff
+    bytes: 25268534
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/3a/6e3ac563a14edee96a957b1b2071f770596f3101257ee6611271bc168b22c963/preview-400.612a4307ca7d.jpg
+        sha256: 612a4307ca7dddd9c762ea8d67d51bdf81463338c964356a767153b3d526609c
+        mime: image/jpeg
+        bytes: 38236
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

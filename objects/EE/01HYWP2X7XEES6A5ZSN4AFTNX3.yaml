@@ -1,0 +1,34 @@
+id: 01HYWP2X7XEES6A5ZSN4AFTNX3
+type: image
+subtype: print
+title: Mühle Rechnung am Sonntag
+description: Feuerwehr und hafen, vor dem Umbau.
+date: 1945/1947
+origin:
+  name: Hans Brandt
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/db/ee/dbee5b55a4363cdf55a8e82fad32266c29bc09f80287c2f141f6e8a1f292df44/original.tif
+    sha256: dbee5b55a4363cdf55a8e82fad32266c29bc09f80287c2f141f6e8a1f292df44
+    mime: image/tiff
+    bytes: 1629010
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/ee/dbee5b55a4363cdf55a8e82fad32266c29bc09f80287c2f141f6e8a1f292df44/preview-400.45e361c972fd.jpg
+        sha256: 45e361c972fdb1cfcef35d969cb4843788ae1762485268d8fc36285e45ade0e0
+        mime: image/jpeg
+        bytes: 21202
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

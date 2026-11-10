@@ -1,0 +1,35 @@
+id: 01GEVDZWWH2DQE6PG7EE262MNS
+type: image
+subtype: photo
+title: Bahnhof Abriss zur Wende
+date: 1864-10-01
+location: Lenzen, Schützenfest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/f3/5f/f35f11d95bdafe7614be52326a0a563b453e92de4eed83bc2800e0b7506d9270/original.jpg
+    sha256: f35f11d95bdafe7614be52326a0a563b453e92de4eed83bc2800e0b7506d9270
+    mime: image/jpeg
+    bytes: 7766192
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f3/5f/f35f11d95bdafe7614be52326a0a563b453e92de4eed83bc2800e0b7506d9270/preview-400.1d2272a229b8.jpg
+        sha256: 1d2272a229b86e7f8afd903da71906513c58ffbdc1efb34ec21afdfc62c0f41a
+        mime: image/jpeg
+        bytes: 43387
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

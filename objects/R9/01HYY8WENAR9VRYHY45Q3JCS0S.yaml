@@ -1,0 +1,53 @@
+id: 01HYY8WENAR9VRYHY45Q3JCS0S
+type: document
+subtype: letter
+title: Rathaus Notiz am Sonntag
+description: Schreibt über die Ernte und das Wetter.
+date: 1896-07
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/2d/09/2d09c2705994f06e8177ffee2231daf50383b9de3eba90f4f3b71dc48ec9740b/original.tif
+    sha256: 2d09c2705994f06e8177ffee2231daf50383b9de3eba90f4f3b71dc48ec9740b
+    mime: image/tiff
+    bytes: 469694
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/09/2d09c2705994f06e8177ffee2231daf50383b9de3eba90f4f3b71dc48ec9740b/preview-400.6b427561d846.jpg
+        sha256: 6b427561d84633dc2ffe83c12b7f016a6ce81bdf0fefa5dadde9e65e94d16d65
+        mime: image/jpeg
+        bytes: 45317
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/27/7f/277f284aa2e03bd821223f29f7a9361240b74bc50c2a912977af6ac038e9addc/original.tif
+    sha256: 277f284aa2e03bd821223f29f7a9361240b74bc50c2a912977af6ac038e9addc
+    mime: image/tiff
+    bytes: 20746650
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/27/7f/277f284aa2e03bd821223f29f7a9361240b74bc50c2a912977af6ac038e9addc/preview-400.547123ca16b7.jpg
+        sha256: 547123ca16b7379117f93d8ae7f91fe80640f96f6320d02b4a7252161bfb8271
+        mime: image/jpeg
+        bytes: 23650
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

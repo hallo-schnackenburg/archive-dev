@@ -1,0 +1,35 @@
+id: 01J8C22FYQDK41V2S0MZT01X70
+type: image
+subtype: photo
+title: Pfarrhaus Bericht zur Ernte
+description: Fachwerkhaus und schmiede, zur Wende.
+date: 1878-01-28
+location: Schnackenburg, Mühle
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/61/9c/619cf09b5ec4475cb6b85ec49207fbb3cb93b9edb778b3f49105bc98c2b62879/original.jpg
+    sha256: 619cf09b5ec4475cb6b85ec49207fbb3cb93b9edb778b3f49105bc98c2b62879
+    mime: image/jpeg
+    bytes: 11905632
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/61/9c/619cf09b5ec4475cb6b85ec49207fbb3cb93b9edb778b3f49105bc98c2b62879/preview-400.48b9fb59bc23.jpg
+        sha256: 48b9fb59bc23d599012ba12e08ad7d3ff50c530bce06b99296879741ecb9150a
+        mime: image/jpeg
+        bytes: 27201
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

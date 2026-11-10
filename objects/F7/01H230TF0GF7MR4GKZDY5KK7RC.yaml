@@ -1,0 +1,53 @@
+id: 01H230TF0GF7MR4GKZDY5KK7RC
+type: document
+subtype: letter
+title: Hochwasser Brief im Sommer
+description: Schreibt über die Ernte und das Wetter.
+date: "1949"
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/2d/32/2d3235adcb2cd0816bcd6349054eaaf1c554d801c5a6754fbcad6d29e532840f/original.tif
+    sha256: 2d3235adcb2cd0816bcd6349054eaaf1c554d801c5a6754fbcad6d29e532840f
+    mime: image/tiff
+    bytes: 9694618
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/32/2d3235adcb2cd0816bcd6349054eaaf1c554d801c5a6754fbcad6d29e532840f/preview-400.cee0716ed969.jpg
+        sha256: cee0716ed96996008a9169b19a087404311551faefbcb26fc247fe9c1b8f710d
+        mime: image/jpeg
+        bytes: 69499
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/28/24/28249ab9b849161601d1624939a7cb317e0440dbf8b22378aa46cc6efa1f9733/original.tif
+    sha256: 28249ab9b849161601d1624939a7cb317e0440dbf8b22378aa46cc6efa1f9733
+    mime: image/tiff
+    bytes: 11306082
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/28/24/28249ab9b849161601d1624939a7cb317e0440dbf8b22378aa46cc6efa1f9733/preview-400.5418b3edf34c.jpg
+        sha256: 5418b3edf34c91e457d4773c80c9fc44b720d7daa8332120598766673ac140c3
+        mime: image/jpeg
+        bytes: 50650
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

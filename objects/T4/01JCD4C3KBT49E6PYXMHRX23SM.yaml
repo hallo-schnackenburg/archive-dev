@@ -1,0 +1,34 @@
+id: 01JCD4C3KBT49E6PYXMHRX23SM
+type: image
+subtype: print
+title: Feuerwehr Notiz am Sonntag
+description: Kupferstich.
+date: "1983"
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/b4/34/b4346d0f08bdc4899e79218dc2b488d53bbef01fcf772ac9c11ba36c88c94efa/original.tif
+    sha256: b4346d0f08bdc4899e79218dc2b488d53bbef01fcf772ac9c11ba36c88c94efa
+    mime: image/tiff
+    bytes: 22090226
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/34/b4346d0f08bdc4899e79218dc2b488d53bbef01fcf772ac9c11ba36c88c94efa/preview-400.446f105af0a2.jpg
+        sha256: 446f105af0a232a612cf88db708a4c97788d73ccedeac0bc7f81900fb9816924
+        mime: image/jpeg
+        bytes: 23139
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

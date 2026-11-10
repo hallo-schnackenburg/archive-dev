@@ -1,0 +1,35 @@
+id: 01KRMRVA9PV9R0X8FTNA2YNXQT
+type: image
+subtype: photo
+title: Gasthof Ansicht am Morgen
+date: 1896-01
+location: Holtorf, Hochwasser
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/40/e5/40e5dcb685d19d5a4b4b8aa7e76783eb7ad9a6aa564e53b52c596afe17aa2a17/original.jpg
+    sha256: 40e5dcb685d19d5a4b4b8aa7e76783eb7ad9a6aa564e53b52c596afe17aa2a17
+    mime: image/jpeg
+    bytes: 8466218
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/40/e5/40e5dcb685d19d5a4b4b8aa7e76783eb7ad9a6aa564e53b52c596afe17aa2a17/preview-400.0dc15a19e714.jpg
+        sha256: 0dc15a19e7143f1d72f51d39be6a411d282db5a604f9faa93bfacb0288ceffa1
+        mime: image/jpeg
+        bytes: 69114
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

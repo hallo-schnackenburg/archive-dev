@@ -1,0 +1,39 @@
+id: 01G2QT8WCKKVWSX21YJ1X041EZ
+type: image
+subtype: photo
+title: Marktplatz Protokoll im Sommer
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1963-03
+location: Gorleben, Brunnen
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Walter Kuhlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/53/2f/532fe17ec7cfc9f6221e6501acc5116c3157383026bf3ae091de6c6b24c5a75f/original.jpg
+    sha256: 532fe17ec7cfc9f6221e6501acc5116c3157383026bf3ae091de6c6b24c5a75f
+    mime: image/jpeg
+    bytes: 17829608
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/53/2f/532fe17ec7cfc9f6221e6501acc5116c3157383026bf3ae091de6c6b24c5a75f/preview-400.31b1bc8b379b.jpg
+        sha256: 31b1bc8b379b9df308e2a82646cc4ca021f43901cf3cf21c333177d1fb0370cd
+        mime: image/jpeg
+        bytes: 65611
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

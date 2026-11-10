@@ -1,0 +1,35 @@
+id: 01KZCC1NMNP7PEFMBAKTSF9287
+type: image
+subtype: photo
+title: Brücke Prospekt vor dem Umbau
+date: "1911"
+location: Seedorf, Mühle
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/28/cd/28cd36a022e785023fdf9808b9b76c078ef910fc32bb29e36371ff83623e1dbb/original.jpg
+    sha256: 28cd36a022e785023fdf9808b9b76c078ef910fc32bb29e36371ff83623e1dbb
+    mime: image/jpeg
+    bytes: 3966080
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/28/cd/28cd36a022e785023fdf9808b9b76c078ef910fc32bb29e36371ff83623e1dbb/preview-400.212dbc9f8f56.jpg
+        sha256: 212dbc9f8f56abb2d54533b6536d86a805be5235ad97575a100479d739ace9a9
+        mime: image/jpeg
+        bytes: 35350
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

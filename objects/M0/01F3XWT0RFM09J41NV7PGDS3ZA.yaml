@@ -1,0 +1,39 @@
+id: 01F3XWT0RFM09J41NV7PGDS3ZA
+type: image
+subtype: photo
+title: Dorfschule Umzug am Sonntag
+description: Gasthof und storchennest, am Sonntag.
+date: 1918-11-01
+location: Kapern, Schützenfest
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Otto Hennings
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/a3/55/a355509eb1fdbcff7818416b75fbcb5e58ae0220b70de0122fc3de0318b8dbb7/original.jpg
+    sha256: a355509eb1fdbcff7818416b75fbcb5e58ae0220b70de0122fc3de0318b8dbb7
+    mime: image/jpeg
+    bytes: 7783278
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a3/55/a355509eb1fdbcff7818416b75fbcb5e58ae0220b70de0122fc3de0318b8dbb7/preview-400.03393be77341.jpg
+        sha256: 03393be77341a1f500f4e5d4d5ff44d865d74da4fdeee86a77855093f3d2bfd5
+        mime: image/jpeg
+        bytes: 26946
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

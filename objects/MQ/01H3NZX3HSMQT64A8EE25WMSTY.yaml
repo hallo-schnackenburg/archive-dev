@@ -1,0 +1,34 @@
+id: 01H3NZX3HSMQT64A8EE25WMSTY
+type: image
+subtype: print
+title: Fähre Notiz zur Ernte
+description: Marktplatz und bahnhof, im Sommer.
+date: 1995-04-12
+origin:
+  name: Erika Voss
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/20/45/20456223cb26786f304c69dc6a911d860846134068164cc8eac2b88d5be96f72/original.tif
+    sha256: 20456223cb26786f304c69dc6a911d860846134068164cc8eac2b88d5be96f72
+    mime: image/tiff
+    bytes: 4561919
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/20/45/20456223cb26786f304c69dc6a911d860846134068164cc8eac2b88d5be96f72/preview-400.b5577a80b00c.jpg
+        sha256: b5577a80b00cf2f0bed160b20c191f08fc04a46344041b3d38421a98a2e65c5c
+        mime: image/jpeg
+        bytes: 82716
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

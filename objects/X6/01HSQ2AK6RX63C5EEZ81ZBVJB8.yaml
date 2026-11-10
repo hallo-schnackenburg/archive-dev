@@ -1,0 +1,34 @@
+id: 01HSQ2AK6RX63C5EEZ81ZBVJB8
+type: image
+subtype: plan
+title: Marktplatz Jubiläum am Morgen
+date: 2016/2018
+location: Schnackenburg, Fachwerkhaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/5b/be/5bbe18cdd9666e2b313c4d0bc3ab50ab0e38ceca0664cc6252ee2322985231c6/original.tif
+    sha256: 5bbe18cdd9666e2b313c4d0bc3ab50ab0e38ceca0664cc6252ee2322985231c6
+    mime: image/tiff
+    bytes: 9457269
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5b/be/5bbe18cdd9666e2b313c4d0bc3ab50ab0e38ceca0664cc6252ee2322985231c6/preview-400.a3860f3b953e.jpg
+        sha256: a3860f3b953eef48a136d9b45984a3fe5de2043ca4d7513f533e6fd30601f14c
+        mime: image/jpeg
+        bytes: 27107
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

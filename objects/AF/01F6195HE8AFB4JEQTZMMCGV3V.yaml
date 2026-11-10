@@ -1,0 +1,37 @@
+id: 01F6195HE8AFB4JEQTZMMCGV3V
+type: image
+subtype: print
+title: Marktplatz Zeichnung zur Ernte
+date: 1983-09-17
+location: Schnackenburg, Bahnhof
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/1a/f0/1af0e1b771d9ce86ce1db4138aaf07c0ae5770146f8e6e99d41277b05bcfafdd/original.tif
+    sha256: 1af0e1b771d9ce86ce1db4138aaf07c0ae5770146f8e6e99d41277b05bcfafdd
+    mime: image/tiff
+    bytes: 12954417
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1a/f0/1af0e1b771d9ce86ce1db4138aaf07c0ae5770146f8e6e99d41277b05bcfafdd/preview-400.7351f0dac389.jpg
+        sha256: 7351f0dac389b9af97d72b65b9d3d20b773eec178b7db00e4f272eac412ecf6e
+        mime: image/jpeg
+        bytes: 74672
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

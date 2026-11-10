@@ -1,0 +1,37 @@
+id: 01KW0ZT0SYSZEXW0Q0J47JKXXV
+type: image
+subtype: print
+title: Bäckerei Bericht nach dem Krieg
+date: 1977-07-15
+location: Schnackenburg, Bahnhof
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/c0/7b/c07b12097bcafaf029665d35300ad145d88c72dbce6a48d9eb3829a2bde5e80c/original.tif
+    sha256: c07b12097bcafaf029665d35300ad145d88c72dbce6a48d9eb3829a2bde5e80c
+    mime: image/tiff
+    bytes: 7297585
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c0/7b/c07b12097bcafaf029665d35300ad145d88c72dbce6a48d9eb3829a2bde5e80c/preview-400.731ff72811f1.jpg
+        sha256: 731ff72811f1680b2bfc5ddff3b0995ed8687f8b93ccbee03846218b334e8f05
+        mime: image/jpeg
+        bytes: 34806
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

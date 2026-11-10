@@ -1,0 +1,35 @@
+id: 01H5G0MW12M48A5TR4H8YD731Q
+type: image
+subtype: photo
+title: Friedhof Zeichnung im Sommer
+description: Das Wasser steht bis an die Deichkrone.
+date: 2021~
+location: Lüchow, Elbufer
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/f4/1d/f41dda78e08239650bd0bb6a22580b16dfdd50e53f5d47cf4525cfe0b66050db/original.jpg
+    sha256: f41dda78e08239650bd0bb6a22580b16dfdd50e53f5d47cf4525cfe0b66050db
+    mime: image/jpeg
+    bytes: 20510701
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/f4/1d/f41dda78e08239650bd0bb6a22580b16dfdd50e53f5d47cf4525cfe0b66050db/preview-400.8d5b6187704f.jpg
+        sha256: 8d5b6187704f36450c0c57c4cf7c4d331f0bfe32c62fe32415bf41145c4abbe2
+        mime: image/jpeg
+        bytes: 62358
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

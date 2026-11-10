@@ -1,0 +1,53 @@
+id: 01K6PKHSSZ54MFFNA72VMNCDEE
+type: document
+subtype: letter
+title: Hafen Rechnung am Sonntag
+description: Brunnen und grenzturm, zu Pfingsten.
+date: 1954-11-24
+language: de
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/49/ff/49ff5d8ec80d9d1f1b8bde6df770f066339c3069b681b1f255a0c6c5a54f6dd5/original.tif
+    sha256: 49ff5d8ec80d9d1f1b8bde6df770f066339c3069b681b1f255a0c6c5a54f6dd5
+    mime: image/tiff
+    bytes: 23935793
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/49/ff/49ff5d8ec80d9d1f1b8bde6df770f066339c3069b681b1f255a0c6c5a54f6dd5/preview-400.ead0be56fb64.jpg
+        sha256: ead0be56fb641612c77ed1518ce32da489cd53c82ada765d7ceff2a267fce423
+        mime: image/jpeg
+        bytes: 42579
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/2c/e5/2ce5b7b25bb5a250cf0d619731629cbf64f6bfd5c321fdf7d86d024d5b59bebc/original.tif
+    sha256: 2ce5b7b25bb5a250cf0d619731629cbf64f6bfd5c321fdf7d86d024d5b59bebc
+    mime: image/tiff
+    bytes: 14445966
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2c/e5/2ce5b7b25bb5a250cf0d619731629cbf64f6bfd5c321fdf7d86d024d5b59bebc/preview-400.a9d33f0092a1.jpg
+        sha256: a9d33f0092a14ce951056214adfff8b94d13325a67655183e6515389d98e7887
+        mime: image/jpeg
+        bytes: 69127
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

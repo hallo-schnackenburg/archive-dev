@@ -1,0 +1,34 @@
+id: 01HEFY1YDJN44692KF142NKBMC
+type: image
+subtype: plan
+title: Friedhof Einladung am Sonntag
+date: 1921-01-08
+location: Gorleben, Zollamt
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/94/5c/945c2fe3b37d23a3190621da7ce25a74554b5a14aa9137ce419cedc661c5830d/original.tif
+    sha256: 945c2fe3b37d23a3190621da7ce25a74554b5a14aa9137ce419cedc661c5830d
+    mime: image/tiff
+    bytes: 22500839
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/94/5c/945c2fe3b37d23a3190621da7ce25a74554b5a14aa9137ce419cedc661c5830d/preview-400.32295627253e.jpg
+        sha256: 32295627253edca230b2de369649cbee12e12b53baf28b1a3057581ec499c1c8
+        mime: image/jpeg
+        bytes: 40938
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

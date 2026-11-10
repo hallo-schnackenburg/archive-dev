@@ -1,0 +1,34 @@
+id: 01HNYATSAWGQV93814KZV79XBR
+type: image
+subtype: plan
+title: Dorfteich Besuch nach dem Krieg
+date: 1894-07
+location: Seedorf, Bahnhof
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/54/f5/54f5e2a0ee2705a84fe35e137c0d16ea2609279c9ad055790cc5d4b558b52ca8/original.tif
+    sha256: 54f5e2a0ee2705a84fe35e137c0d16ea2609279c9ad055790cc5d4b558b52ca8
+    mime: image/tiff
+    bytes: 20571341
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/54/f5/54f5e2a0ee2705a84fe35e137c0d16ea2609279c9ad055790cc5d4b558b52ca8/preview-400.b9876643f005.jpg
+        sha256: b9876643f005240327952b52ee1895667d4ccde0c18313840b09a736b8ed77ee
+        mime: image/jpeg
+        bytes: 54875
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

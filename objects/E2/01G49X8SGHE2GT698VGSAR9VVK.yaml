@@ -1,0 +1,51 @@
+id: 01G49X8SGHE2GT698VGSAR9VVK
+type: document
+subtype: brochure
+title: Fachwerkhaus Brief nach dem Krieg
+date: 2016-02-18
+language: de
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/d3/dc/d3dcebf59d21b839855a8e2511676632b86c09f73d05f6c78f52841d433e571d/original.tif
+    sha256: d3dcebf59d21b839855a8e2511676632b86c09f73d05f6c78f52841d433e571d
+    mime: image/tiff
+    bytes: 14785533
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d3/dc/d3dcebf59d21b839855a8e2511676632b86c09f73d05f6c78f52841d433e571d/preview-400.87a19cae5fef.jpg
+        sha256: 87a19cae5fefc3ca52bcb3912ddaed22ebe9426eab5b455eb636ce8556071614
+        mime: image/jpeg
+        bytes: 66114
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/75/47/7547c57b4da6ac812c0226c1ae3c7de2267f3cab57db18dd370068eba3348bf4/original.tif
+    sha256: 7547c57b4da6ac812c0226c1ae3c7de2267f3cab57db18dd370068eba3348bf4
+    mime: image/tiff
+    bytes: 9927676
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/75/47/7547c57b4da6ac812c0226c1ae3c7de2267f3cab57db18dd370068eba3348bf4/preview-400.678028135786.jpg
+        sha256: 67802813578639080bf26431f210d5254c6484899bf229e4ce4c3c56ee6f25b0
+        mime: image/jpeg
+        bytes: 47272
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

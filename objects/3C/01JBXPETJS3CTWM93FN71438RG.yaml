@@ -1,0 +1,39 @@
+id: 01JBXPETJS3CTWM93FN71438RG
+type: image
+subtype: photo
+title: Dorfschule Rechnung nach dem Krieg
+date: 1890-01
+location: Schnackenburg, Gasthof
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/7d/fa/7dfad1327fb30d174266f9a2ce19646e50cad65ab2ee53d3b05ebafd7e666ea2/original.jpg
+    sha256: 7dfad1327fb30d174266f9a2ce19646e50cad65ab2ee53d3b05ebafd7e666ea2
+    mime: image/jpeg
+    bytes: 13773698
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7d/fa/7dfad1327fb30d174266f9a2ce19646e50cad65ab2ee53d3b05ebafd7e666ea2/preview-400.e620180bb605.jpg
+        sha256: e620180bb60589585fe3b99563947a6ba556f425b936abf3f20759a8398008b8
+        mime: image/jpeg
+        bytes: 44137
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

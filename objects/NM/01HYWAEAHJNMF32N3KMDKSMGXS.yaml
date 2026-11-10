@@ -1,0 +1,37 @@
+id: 01HYWAEAHJNMF32N3KMDKSMGXS
+type: image
+subtype: print
+title: Ernte Zeichnung am Sonntag
+date: 1919-05-09
+location: Gartow, Schützenfest
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/14/e5/14e5362abb6270b22c47835663e91d133af93e697109085c794c66d4a2bb630c/original.tif
+    sha256: 14e5362abb6270b22c47835663e91d133af93e697109085c794c66d4a2bb630c
+    mime: image/tiff
+    bytes: 1288679
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/e5/14e5362abb6270b22c47835663e91d133af93e697109085c794c66d4a2bb630c/preview-400.28f84b0cba8d.jpg
+        sha256: 28f84b0cba8d977977a8e32462ceb0273ffc786d0a73f492d8a9aa3e847980df
+        mime: image/jpeg
+        bytes: 28546
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01H978TRNN5FAP7SVN21HR2GJX
+type: image
+subtype: photo
+title: Sportplatz Besuch am Sonntag
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: "1947"
+location: Gorleben, Elbufer
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Wilhelm Krüger
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/67/48/67486aced2a282436ec47aa2bfbbd848631bde7277d4e024876173cb4487c843/original.jpg
+    sha256: 67486aced2a282436ec47aa2bfbbd848631bde7277d4e024876173cb4487c843
+    mime: image/jpeg
+    bytes: 25145349
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/67/48/67486aced2a282436ec47aa2bfbbd848631bde7277d4e024876173cb4487c843/preview-400.3c7304fbe658.jpg
+        sha256: 3c7304fbe658572b22576e2f8f689ae11face9fd17558b415597faefecc81786
+        mime: image/jpeg
+        bytes: 85351
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

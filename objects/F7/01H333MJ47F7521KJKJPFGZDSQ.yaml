@@ -1,0 +1,35 @@
+id: 01H333MJ47F7521KJKJPFGZDSQ
+type: image
+subtype: photo
+title: Bäckerei Bericht vor dem Umbau
+description: Schmiede und storchennest, nach dem Krieg.
+date: 1969-06-16
+location: Holtorf, Dorfschule
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/ec/96/ec96ad7a04294bce2d3241a9118b1f89cad93df0a1545ddc3e85246e1cb2ecda/original.jpg
+    sha256: ec96ad7a04294bce2d3241a9118b1f89cad93df0a1545ddc3e85246e1cb2ecda
+    mime: image/jpeg
+    bytes: 13110508
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/ec/96/ec96ad7a04294bce2d3241a9118b1f89cad93df0a1545ddc3e85246e1cb2ecda/preview-400.2898e514acec.jpg
+        sha256: 2898e514acec9416fac28b7086c4c00b8115170f093b057b774bfea98ee91d21
+        mime: image/jpeg
+        bytes: 52263
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

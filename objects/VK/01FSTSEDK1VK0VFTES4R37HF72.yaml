@@ -1,0 +1,39 @@
+id: 01FSTSEDK1VK0VFTES4R37HF72
+type: image
+subtype: photo
+title: Gasthof Bericht zu Pfingsten
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: "2007"
+location: Holtorf, Schmiede
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Erika Voss
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/f3/43/f34310b57979e521f584f991c7e599b423fccdb332664cbe396c4c9a3d23d5b4/original.jpg
+    sha256: f34310b57979e521f584f991c7e599b423fccdb332664cbe396c4c9a3d23d5b4
+    mime: image/jpeg
+    bytes: 26011229
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f3/43/f34310b57979e521f584f991c7e599b423fccdb332664cbe396c4c9a3d23d5b4/preview-400.856782929d59.jpg
+        sha256: 856782929d59274e58a37058126e0d7afe7522069300740daea9d18db0309abb
+        mime: image/jpeg
+        bytes: 64964
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01K3FMW40M6W92WR1JVA80BAQX
+type: image
+subtype: photo
+title: Rathaus Ansicht am Morgen
+description: Fachwerkhaus und brunnen, im Sommer.
+date: 1909-11-08
+location: Schnackenburg, Feuerwehr
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Anni Jeß
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/88/a0/88a06bd1ee23c3355c8fba97314e5c48fc80d348a25fdec0ef3a289bcbeb7afd/original.jpg
+    sha256: 88a06bd1ee23c3355c8fba97314e5c48fc80d348a25fdec0ef3a289bcbeb7afd
+    mime: image/jpeg
+    bytes: 19060804
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/88/a0/88a06bd1ee23c3355c8fba97314e5c48fc80d348a25fdec0ef3a289bcbeb7afd/preview-400.814daebe5daa.jpg
+        sha256: 814daebe5daad686f96f224144a0f80d97c79aec56dd621a488cb0c8b170a284
+        mime: image/jpeg
+        bytes: 62693
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

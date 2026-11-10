@@ -1,0 +1,35 @@
+id: 01F6DWC0JWWTX6AJE35C54H4W7
+type: image
+subtype: photo
+title: Feuerwehr Ansicht am Morgen
+description: Das Wasser steht bis an die Deichkrone.
+date: 1966-08-18
+location: Pretzier, Mühle
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/15/64/1564f48c9836df6a0e9dff60402269b5e555b998f2166d287c356af7df94475e/original.jpg
+    sha256: 1564f48c9836df6a0e9dff60402269b5e555b998f2166d287c356af7df94475e
+    mime: image/jpeg
+    bytes: 9659312
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/15/64/1564f48c9836df6a0e9dff60402269b5e555b998f2166d287c356af7df94475e/preview-400.860d8d9ce45f.jpg
+        sha256: 860d8d9ce45fb888f201d1d04a7bba747fadc9bdcd57e9d602a428774c553779
+        mime: image/jpeg
+        bytes: 26416
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

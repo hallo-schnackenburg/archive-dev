@@ -1,0 +1,31 @@
+id: 01JBM4R88GH49Y33S64NWBRFJZ
+type: image
+subtype: drawing
+title: Bäckerei Bericht im Sommer
+description: Elbdeich und feuerwehr, nach dem Krieg.
+date: "1882"
+location: Gorleben, Fachwerkhaus
+origin:
+  name: Anni Jeß
+  type: person
+  location: Hannover
+files:
+  - role: main
+    original_name: zeichnung_hafen.tif
+    path: files/38/05/3805abc81f123100a659ec6b1825818aa7512d3b14580ce5ae821499d256f62a/original.tif
+    sha256: 3805abc81f123100a659ec6b1825818aa7512d3b14580ce5ae821499d256f62a
+    mime: image/tiff
+    bytes: 27845231
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/38/05/3805abc81f123100a659ec6b1825818aa7512d3b14580ce5ae821499d256f62a/preview-400.30714054da12.jpg
+        sha256: 30714054da1208e0df7e3aa55758ff6cc8ff0ce31ccf9c742cd06b40f56e0816
+        mime: image/jpeg
+        bytes: 87165
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

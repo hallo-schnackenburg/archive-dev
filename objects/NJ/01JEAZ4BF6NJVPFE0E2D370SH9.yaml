@@ -1,0 +1,34 @@
+id: 01JEAZ4BF6NJVPFE0E2D370SH9
+type: image
+subtype: print
+title: Bäckerei Besuch zur Wende
+description: Kupferstich.
+date: 1902-09-26
+origin:
+  name: Marta Lüders
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/50/37/503728a9caee43c85aa2efcf57b3abd00ae22e8b7f4dbde0677a3b49a3bed3c3/original.tif
+    sha256: 503728a9caee43c85aa2efcf57b3abd00ae22e8b7f4dbde0677a3b49a3bed3c3
+    mime: image/tiff
+    bytes: 1759798
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/37/503728a9caee43c85aa2efcf57b3abd00ae22e8b7f4dbde0677a3b49a3bed3c3/preview-400.083bf04b7b0b.jpg
+        sha256: 083bf04b7b0b81d3893b2d5a9844aec6b66f5c262843e32cbaa8661f98aa9506
+        mime: image/jpeg
+        bytes: 35724
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

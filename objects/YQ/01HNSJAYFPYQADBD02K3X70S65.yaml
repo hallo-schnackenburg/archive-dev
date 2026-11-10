@@ -1,0 +1,34 @@
+id: 01HNSJAYFPYQADBD02K3X70S65
+type: image
+subtype: plan
+title: Rathaus Festtag vor dem Umbau
+date: 1918-11
+location: Pretzier, Dorfschule
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/1c/13/1c1347ad8d3033595adc35f49a8139de1a971ec44fa741da17986d605f5d2aad/original.tif
+    sha256: 1c1347ad8d3033595adc35f49a8139de1a971ec44fa741da17986d605f5d2aad
+    mime: image/tiff
+    bytes: 9741607
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/13/1c1347ad8d3033595adc35f49a8139de1a971ec44fa741da17986d605f5d2aad/preview-400.cd5abfd0f694.jpg
+        sha256: cd5abfd0f694449aed11bca091703f58ead75062e3bc22383ea2ddf412f17bf0
+        mime: image/jpeg
+        bytes: 41961
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

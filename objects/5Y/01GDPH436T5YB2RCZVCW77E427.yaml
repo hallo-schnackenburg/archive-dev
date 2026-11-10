@@ -1,0 +1,53 @@
+id: 01GDPH436T5YB2RCZVCW77E427
+type: document
+subtype: letter
+title: Hochwasser Zeichnung vor dem Umbau
+description: Ernte und mühle, am Morgen.
+date: 1858-05
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/b8/be/b8be7300def529112cdd9ecaf96ef35f9a4cf25beb74330c7017f4c6dd708548/original.tif
+    sha256: b8be7300def529112cdd9ecaf96ef35f9a4cf25beb74330c7017f4c6dd708548
+    mime: image/tiff
+    bytes: 5471262
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b8/be/b8be7300def529112cdd9ecaf96ef35f9a4cf25beb74330c7017f4c6dd708548/preview-400.de6eae40364c.jpg
+        sha256: de6eae40364c77d9ce849fe13584fedfe5112ded9493c3b3abcc8353b3d31533
+        mime: image/jpeg
+        bytes: 46450
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/f4/35/f435fb75c89f93552687ff6c8a83044c7423ace6942aec19fa7ecef352adb813/original.tif
+    sha256: f435fb75c89f93552687ff6c8a83044c7423ace6942aec19fa7ecef352adb813
+    mime: image/tiff
+    bytes: 7164350
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f4/35/f435fb75c89f93552687ff6c8a83044c7423ace6942aec19fa7ecef352adb813/preview-400.f739888ffd71.jpg
+        sha256: f739888ffd71e0d4f2bb0f968ae47a97434a10f834400acb456f4ecc48a54753
+        mime: image/jpeg
+        bytes: 88699
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

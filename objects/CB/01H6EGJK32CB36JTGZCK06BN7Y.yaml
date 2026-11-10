@@ -1,0 +1,39 @@
+id: 01H6EGJK32CB36JTGZCK06BN7Y
+type: image
+subtype: photo
+title: Grenzturm Rechnung bei Hochwasser
+date: 1901-11-15
+location: Lüchow, Schützenfest
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/8e/a7/8ea7886ee810ec94902464a2e14cc8c7e76b95a60ba964bc89ebfa3dcdb2e093/original.jpg
+    sha256: 8ea7886ee810ec94902464a2e14cc8c7e76b95a60ba964bc89ebfa3dcdb2e093
+    mime: image/jpeg
+    bytes: 15106073
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/8e/a7/8ea7886ee810ec94902464a2e14cc8c7e76b95a60ba964bc89ebfa3dcdb2e093/preview-400.3cf6da99edd1.jpg
+        sha256: 3cf6da99edd174297e700100210a917a0d6eae793d93b78cdf5e480a238fdb2f
+        mime: image/jpeg
+        bytes: 36851
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

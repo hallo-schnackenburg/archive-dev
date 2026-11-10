@@ -1,0 +1,73 @@
+id: 01JCW37YHQZFQVD4W28D5Z3MC0
+type: document
+subtype: letter
+title: Feuerwehr Zeichnung am Sonntag
+date: "1857"
+language: de
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Ostfront
+recipient: Familie Lüders, Schnackenburg
+notes: Teilweise schwer lesbar.
+files:
+  - role: page
+    num: 1
+    original_name: feldpost_lueders_001.tif
+    path: files/c0/93/c093575be69caae6f2c576a770d18ace2c88bfc515b1be7584813fe43b77c578/original.tif
+    sha256: c093575be69caae6f2c576a770d18ace2c88bfc515b1be7584813fe43b77c578
+    mime: image/tiff
+    bytes: 26970900
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c0/93/c093575be69caae6f2c576a770d18ace2c88bfc515b1be7584813fe43b77c578/preview-400.c892171125e3.jpg
+        sha256: c892171125e31b2a805c1462609f757cf5dabdb4fe4cd4f518f492b761726013
+        mime: image/jpeg
+        bytes: 49607
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: feldpost_lueders_002.tif
+    path: files/7e/6a/7e6a199cae71bbc73aa62af94890dc2cc4940b0a99f2deabf06a765fcb964e25/original.tif
+    sha256: 7e6a199cae71bbc73aa62af94890dc2cc4940b0a99f2deabf06a765fcb964e25
+    mime: image/tiff
+    bytes: 17806492
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7e/6a/7e6a199cae71bbc73aa62af94890dc2cc4940b0a99f2deabf06a765fcb964e25/preview-400.b2274acf1dcc.jpg
+        sha256: b2274acf1dcc1637843a1739deb4dfa43738fb6fee0fc2fe6ff0e86128be1d6f
+        mime: image/jpeg
+        bytes: 57886
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: feldpost_lueders_003.tif
+    path: files/25/c0/25c0ef5848afe24d7326139f35c793a8fc73b3a65134466afb27abe52e41afab/original.tif
+    sha256: 25c0ef5848afe24d7326139f35c793a8fc73b3a65134466afb27abe52e41afab
+    mime: image/tiff
+    bytes: 8028864
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/25/c0/25c0ef5848afe24d7326139f35c793a8fc73b3a65134466afb27abe52e41afab/preview-400.0f115b7acaf8.jpg
+        sha256: 0f115b7acaf8555d7ed37842fe7d79e2d321d50959328fced0455806993d86c1
+        mime: image/jpeg
+        bytes: 64467
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,53 @@
+id: 01HB8CPB18G2GKYFFQYHNZ2H49
+type: document
+subtype: letter
+title: Marktplatz Bescheid im Sommer
+description: Schreibt über die Ernte und das Wetter.
+date: 1864-08-10
+language: de
+origin:
+  name: Helga Plate
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/6b/d9/6bd9608c03be2b51e601b410fb1b4de35f39b9dc1151df7cbbc15d50af759d1e/original.tif
+    sha256: 6bd9608c03be2b51e601b410fb1b4de35f39b9dc1151df7cbbc15d50af759d1e
+    mime: image/tiff
+    bytes: 5995138
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6b/d9/6bd9608c03be2b51e601b410fb1b4de35f39b9dc1151df7cbbc15d50af759d1e/preview-400.56de8d683852.jpg
+        sha256: 56de8d68385281d3c9624e7ef14a3806f63ad3faed64501f777b194fd3939b15
+        mime: image/jpeg
+        bytes: 67098
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/b0/91/b091f7092a2c614fe2c71636f802cdfbcb719e6ddbf9375bad273b7563a3ed0d/original.tif
+    sha256: b091f7092a2c614fe2c71636f802cdfbcb719e6ddbf9375bad273b7563a3ed0d
+    mime: image/tiff
+    bytes: 8970038
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b0/91/b091f7092a2c614fe2c71636f802cdfbcb719e6ddbf9375bad273b7563a3ed0d/preview-400.529eadc28437.jpg
+        sha256: 529eadc28437b3d51eebb88452a06f9605cd29948175c13b28bf26a05c94a54c
+        mime: image/jpeg
+        bytes: 81020
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

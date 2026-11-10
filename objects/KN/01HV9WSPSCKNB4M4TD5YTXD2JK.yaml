@@ -1,0 +1,39 @@
+id: 01HV9WSPSCKNB4M4TD5YTXD2JK
+type: image
+subtype: photo
+title: Grenzturm Besuch im Sommer
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 2021-05
+location: Lüchow, Feuerwehr
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Gerda Schulz
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/0a/24/0a24a7da2a5dc688b057a4facffd91f097be5a5ef9ec574062ab4e61d0b55565/original.jpg
+    sha256: 0a24a7da2a5dc688b057a4facffd91f097be5a5ef9ec574062ab4e61d0b55565
+    mime: image/jpeg
+    bytes: 11525809
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0a/24/0a24a7da2a5dc688b057a4facffd91f097be5a5ef9ec574062ab4e61d0b55565/preview-400.252fbbfd0d14.jpg
+        sha256: 252fbbfd0d148764db8081f0f8cab1ce181f734165b31c6a08d744b7e7f2dfc5
+        mime: image/jpeg
+        bytes: 25552
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,53 @@
+id: 01HZDPVNEGP90HYR1AR5Q1DW1Y
+type: document
+subtype: letter
+title: Dorfschule Umbau vor dem Umbau
+description: Schreibt über die Ernte und das Wetter.
+date: 1884-05-15
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/e2/79/e279b66d008fe60aac170f41b1d62997ef93340d791751cbf475269576fecff2/original.tif
+    sha256: e279b66d008fe60aac170f41b1d62997ef93340d791751cbf475269576fecff2
+    mime: image/tiff
+    bytes: 16308508
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e2/79/e279b66d008fe60aac170f41b1d62997ef93340d791751cbf475269576fecff2/preview-400.ef0af4084be9.jpg
+        sha256: ef0af4084be97053f0f9c989d1a4e2b615b16c07f8c4f17db405e9c1ca59ea8b
+        mime: image/jpeg
+        bytes: 88378
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/9a/0b/9a0b764ea00f628bf2c9ca8e7dfe253b3443f4f528aa9f9fd040831ce9886201/original.tif
+    sha256: 9a0b764ea00f628bf2c9ca8e7dfe253b3443f4f528aa9f9fd040831ce9886201
+    mime: image/tiff
+    bytes: 12831211
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9a/0b/9a0b764ea00f628bf2c9ca8e7dfe253b3443f4f528aa9f9fd040831ce9886201/preview-400.508685476532.jpg
+        sha256: 508685476532fb452c7d44f6baf6c68c661f2df4069cf2ebb9409009260bde28
+        mime: image/jpeg
+        bytes: 32397
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

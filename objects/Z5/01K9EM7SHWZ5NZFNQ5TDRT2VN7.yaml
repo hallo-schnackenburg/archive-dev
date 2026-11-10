@@ -1,0 +1,39 @@
+id: 01K9EM7SHWZ5NZFNQ5TDRT2VN7
+type: image
+subtype: photo
+title: Gasthof Ansicht am Sonntag
+date: "1969"
+location: Gartow, Friedhof
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Fritz Bohlmann
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/36/8e/368e3f91f74ac992a5c5dbe84f44cb1636fa6454e577c498bb36562b8591db71/original.jpg
+    sha256: 368e3f91f74ac992a5c5dbe84f44cb1636fa6454e577c498bb36562b8591db71
+    mime: image/jpeg
+    bytes: 6718799
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/36/8e/368e3f91f74ac992a5c5dbe84f44cb1636fa6454e577c498bb36562b8591db71/preview-400.06d77846720e.jpg
+        sha256: 06d77846720ef132cc3d433123dbd6a4a8de72b29c9569d1dbd445cfa3dbb8aa
+        mime: image/jpeg
+        bytes: 41505
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

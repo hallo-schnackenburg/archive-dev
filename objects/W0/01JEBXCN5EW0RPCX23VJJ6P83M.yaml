@@ -1,0 +1,51 @@
+id: 01JEBXCN5EW0RPCX23VJJ6P83M
+type: document
+subtype: brochure
+title: Friedhof Rechnung am Sonntag
+date: 1991~
+language: de
+origin:
+  name: Otto Hennings
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/d0/b4/d0b49e61fdced543945f0d494edf874d4e18e53333dfb6418d22cb7f16052803/original.tif
+    sha256: d0b49e61fdced543945f0d494edf874d4e18e53333dfb6418d22cb7f16052803
+    mime: image/tiff
+    bytes: 21140692
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d0/b4/d0b49e61fdced543945f0d494edf874d4e18e53333dfb6418d22cb7f16052803/preview-400.194ba5a4d395.jpg
+        sha256: 194ba5a4d395fd0b1ea72781724b5be1277e48cdde467030098b4af8f7609815
+        mime: image/jpeg
+        bytes: 52541
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/91/8b/918b5120c74140789d0f6502ff01a1bc687de74e15a042e2f291b35b3957033c/original.tif
+    sha256: 918b5120c74140789d0f6502ff01a1bc687de74e15a042e2f291b35b3957033c
+    mime: image/tiff
+    bytes: 3182300
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/91/8b/918b5120c74140789d0f6502ff01a1bc687de74e15a042e2f291b35b3957033c/preview-400.8b07dbab9db8.jpg
+        sha256: 8b07dbab9db81066652e081f44f123d5dd65a46f0f1e92eff32f9d405f0bfdc7
+        mime: image/jpeg
+        bytes: 87873
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

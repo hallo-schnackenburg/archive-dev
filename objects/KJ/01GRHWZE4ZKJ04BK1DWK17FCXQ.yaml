@@ -1,0 +1,37 @@
+id: 01GRHWZE4ZKJ04BK1DWK17FCXQ
+type: image
+subtype: print
+title: Bäckerei Rechnung am Sonntag
+date: 1931-11
+location: Seedorf, Marktplatz
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/d0/64/d064dd374b2a48b97da9d71f0b660a2bad1199ab19af6bf7d4c7371ad62e71f8/original.tif
+    sha256: d064dd374b2a48b97da9d71f0b660a2bad1199ab19af6bf7d4c7371ad62e71f8
+    mime: image/tiff
+    bytes: 16830678
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d0/64/d064dd374b2a48b97da9d71f0b660a2bad1199ab19af6bf7d4c7371ad62e71f8/preview-400.371b03be7f50.jpg
+        sha256: 371b03be7f50a61dfd6ee798041b6998c178061fce243fdb74ba05be8dcce284
+        mime: image/jpeg
+        bytes: 74387
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

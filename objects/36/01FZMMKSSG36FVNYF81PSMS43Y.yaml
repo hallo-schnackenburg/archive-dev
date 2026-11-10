@@ -1,0 +1,39 @@
+id: 01FZMMKSSG36FVNYF81PSMS43Y
+type: image
+subtype: photo
+title: Gemeindehaus Notiz zur Ernte
+date: 1911-01
+location: Restorf, Zollamt
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/c2/0f/c20f77ffd70997d3f865edba27b8eefef297e810df395cb139fc6b51711f5afe/original.jpg
+    sha256: c20f77ffd70997d3f865edba27b8eefef297e810df395cb139fc6b51711f5afe
+    mime: image/jpeg
+    bytes: 9372157
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c2/0f/c20f77ffd70997d3f865edba27b8eefef297e810df395cb139fc6b51711f5afe/preview-400.acf4827477da.jpg
+        sha256: acf4827477da29fedc5dddb741f51e37b76d6893f2beccaf27c0083918227ffe
+        mime: image/jpeg
+        bytes: 63713
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

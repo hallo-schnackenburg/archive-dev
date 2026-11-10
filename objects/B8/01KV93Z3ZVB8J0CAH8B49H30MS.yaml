@@ -1,0 +1,47 @@
+id: 01KV93Z3ZVB8J0CAH8B49H30MS
+type: image
+subtype: photo
+title: Grenzturm Aufnahme am Morgen
+description: Der Umzug der Schützengesellschaft zieht über den Markt, im Hintergrund die Fachwerkhäuser.
+date: "1905"
+location: Gorleben, Storchennest
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/64/b5/64b5cb535fdbef82ae4b775eaa60b670e9e28bd56b485f0d7dc00a046514acc8/original.jpg
+    sha256: 64b5cb535fdbef82ae4b775eaa60b670e9e28bd56b485f0d7dc00a046514acc8
+    mime: image/jpeg
+    bytes: 15761925
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/64/b5/64b5cb535fdbef82ae4b775eaa60b670e9e28bd56b485f0d7dc00a046514acc8/preview-400.bcc245f80f91.jpg
+        sha256: bcc245f80f91ce029921c6133dbeaf8002bd708295efb180512e3c3c00ed3d7e
+        mime: image/jpeg
+        bytes: 31128
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,29 @@
+id: 01JF0CW86A2BRC20S73YBSGZHK
+type: image
+subtype: plan
+title: Hafen Aufnahme im Winter
+date: "1861"
+location: Holtorf, Marktplatz
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: bauplan_feuerwehr.tif
+    path: files/2b/24/2b244cc8457834b180a277343fa353a502a2106e69fa704eb48350e52498dc26/original.tif
+    sha256: 2b244cc8457834b180a277343fa353a502a2106e69fa704eb48350e52498dc26
+    mime: image/tiff
+    bytes: 12479566
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2b/24/2b244cc8457834b180a277343fa353a502a2106e69fa704eb48350e52498dc26/preview-400.5137599525cb.jpg
+        sha256: 5137599525cb8f5f9a6d0ba94aac875d1b924ffd599f7a67d26b96373fc76635
+        mime: image/jpeg
+        bytes: 50519
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

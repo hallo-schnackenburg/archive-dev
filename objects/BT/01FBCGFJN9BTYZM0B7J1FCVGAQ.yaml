@@ -1,0 +1,39 @@
+id: 01FBCGFJN9BTYZM0B7J1FCVGAQ
+type: image
+subtype: photo
+title: Gasthof Bericht am Morgen
+date: 1999-07
+location: Schnackenburg, Elbdeich
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/77/03/7703287f2f967c10812503d485061dd33cc077a78a91d4d7713c24a0697f10f8/original.jpg
+    sha256: 7703287f2f967c10812503d485061dd33cc077a78a91d4d7713c24a0697f10f8
+    mime: image/jpeg
+    bytes: 6886564
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/77/03/7703287f2f967c10812503d485061dd33cc077a78a91d4d7713c24a0697f10f8/preview-400.a13775ec7d48.jpg
+        sha256: a13775ec7d484018140b281930ea38bc3b8810132b6fb5d0ea81cfb094f6c838
+        mime: image/jpeg
+        bytes: 53806
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

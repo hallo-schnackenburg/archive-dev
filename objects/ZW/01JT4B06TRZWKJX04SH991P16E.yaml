@@ -1,0 +1,35 @@
+id: 01JT4B06TRZWKJX04SH991P16E
+type: image
+subtype: photo
+title: Dorfteich Besuch bei Hochwasser
+date: 1903-01
+location: Gorleben, Feuerwehr
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/af/7b/af7b0b9617839ea62f3d5f984759817d16d61773e80586abc5c38741288aa767/original.jpg
+    sha256: af7b0b9617839ea62f3d5f984759817d16d61773e80586abc5c38741288aa767
+    mime: image/jpeg
+    bytes: 7729145
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/af/7b/af7b0b9617839ea62f3d5f984759817d16d61773e80586abc5c38741288aa767/preview-400.f784af3150cd.jpg
+        sha256: f784af3150cdc8294ed3bfe32bf51ba279c48fb158f6f239fc1466f2b64b6857
+        mime: image/jpeg
+        bytes: 29091
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

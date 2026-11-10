@@ -1,0 +1,34 @@
+id: 01H9E7KXPSB4WYKS0DCPNTPWNJ
+type: image
+subtype: print
+title: Molkerei Ansicht am Morgen
+description: Elbdeich und rathaus, im Sommer.
+date: "1921"
+origin:
+  name: Marta Lüders
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/9e/67/9e67e8c1e5b0aef5028398449c3dcdaac9e0edd9e6834414a7bfe03a6e222df6/original.tif
+    sha256: 9e67e8c1e5b0aef5028398449c3dcdaac9e0edd9e6834414a7bfe03a6e222df6
+    mime: image/tiff
+    bytes: 23811234
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9e/67/9e67e8c1e5b0aef5028398449c3dcdaac9e0edd9e6834414a7bfe03a6e222df6/preview-400.c77d752ce69b.jpg
+        sha256: c77d752ce69b963bbf64e6a8d8d07d8c4383c8cc2950111b5bd4f3c5accfc277
+        mime: image/jpeg
+        bytes: 50826
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01FTYDHGDRYM4ZGXVWHF8JGAQ8
+type: image
+subtype: print
+title: Gasthof Notiz nach dem Krieg
+description: Kupferstich.
+date: 1877-06-14
+origin:
+  name: Helga Plate
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/de/eb/deeb5f77be26a450b73cfb4f92bbb4808d8dcc2bce91ff2b8961beb66662b891/original.tif
+    sha256: deeb5f77be26a450b73cfb4f92bbb4808d8dcc2bce91ff2b8961beb66662b891
+    mime: image/tiff
+    bytes: 3697004
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/eb/deeb5f77be26a450b73cfb4f92bbb4808d8dcc2bce91ff2b8961beb66662b891/preview-400.1fd49a0d58a6.jpg
+        sha256: 1fd49a0d58a6da898c2d005b5fbfcf923aea82b706abd91065c7d556ba772f81
+        mime: image/jpeg
+        bytes: 29815
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

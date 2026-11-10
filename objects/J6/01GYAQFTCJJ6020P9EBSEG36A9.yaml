@@ -1,0 +1,39 @@
+id: 01GYAQFTCJJ6020P9EBSEG36A9
+type: image
+subtype: photo
+title: Ernte Einladung im Sommer
+date: "1886"
+location: Holtorf, Sportplatz
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/bc/52/bc528f838aba540c122e55b1583a34488b241d15a14a11cdf76050bf39dca6d4/original.jpg
+    sha256: bc528f838aba540c122e55b1583a34488b241d15a14a11cdf76050bf39dca6d4
+    mime: image/jpeg
+    bytes: 8359273
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/bc/52/bc528f838aba540c122e55b1583a34488b241d15a14a11cdf76050bf39dca6d4/preview-400.9a7c97878373.jpg
+        sha256: 9a7c97878373f84ea065bc2ef30e5b38f95b6e71e7e47839d9fdff70b65a081c
+        mime: image/jpeg
+        bytes: 38010
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

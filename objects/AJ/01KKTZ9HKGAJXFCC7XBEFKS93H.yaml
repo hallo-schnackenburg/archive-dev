@@ -1,0 +1,35 @@
+id: 01KKTZ9HKGAJXFCC7XBEFKS93H
+type: image
+subtype: photo
+title: Bahnhof Jubiläum zu Pfingsten
+date: 1952/1956
+location: Seedorf, Marktplatz
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/f0/ba/f0ba0dd437a86726d9feaca6b6a8e6129b178dd93383b4d7138caaf3065a94fe/original.jpg
+    sha256: f0ba0dd437a86726d9feaca6b6a8e6129b178dd93383b4d7138caaf3065a94fe
+    mime: image/jpeg
+    bytes: 12752675
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f0/ba/f0ba0dd437a86726d9feaca6b6a8e6129b178dd93383b4d7138caaf3065a94fe/preview-400.025b2f453dd8.jpg
+        sha256: 025b2f453dd89ab3ec8f280f52c592929d616f02a32e86476fa7281c7962ad23
+        mime: image/jpeg
+        bytes: 78826
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01FFTVAG7ACFX4GBKNP3PGMSY7
+type: image
+subtype: plan
+title: Brücke Einweihung am Morgen
+date: 1876~
+location: Lüchow, Zollamt
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/e8/ea/e8ea76c218253632e20832e0b6fb04e8b53f5ea61c93a2e7a2d9ed680d931d45/original.tif
+    sha256: e8ea76c218253632e20832e0b6fb04e8b53f5ea61c93a2e7a2d9ed680d931d45
+    mime: image/tiff
+    bytes: 21031913
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/ea/e8ea76c218253632e20832e0b6fb04e8b53f5ea61c93a2e7a2d9ed680d931d45/preview-400.64e557375f59.jpg
+        sha256: 64e557375f593ae9c3633a37d932a2eee32d3d5255db773b4724d4fe54c55dbe
+        mime: image/jpeg
+        bytes: 78947
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

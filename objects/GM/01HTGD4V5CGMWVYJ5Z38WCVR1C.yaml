@@ -1,0 +1,29 @@
+id: 01HTGD4V5CGMWVYJ5Z38WCVR1C
+type: image
+subtype: plan
+title: Bahnhof Bescheid am Morgen
+date: "2019"
+location: Holtorf, Brücke
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: bauplan_feuerwehr.tif
+    path: files/b0/89/b0897401eb2bc74da8e4cd851341325102d27749f431918bb0cea6b2c0142cf1/original.tif
+    sha256: b0897401eb2bc74da8e4cd851341325102d27749f431918bb0cea6b2c0142cf1
+    mime: image/tiff
+    bytes: 20554215
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b0/89/b0897401eb2bc74da8e4cd851341325102d27749f431918bb0cea6b2c0142cf1/preview-400.b0a4a3c1d785.jpg
+        sha256: b0a4a3c1d7855e08b639ff4a430aba743982e4536d338fdb5bc24c3e5ea0b3f4
+        mime: image/jpeg
+        bytes: 49141
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

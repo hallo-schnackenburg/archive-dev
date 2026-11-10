@@ -1,0 +1,39 @@
+id: 01JE93Z761SKE1ZDXXNNKY9HQK
+type: image
+subtype: photo
+title: Hafen Brief nach dem Krieg
+description: Elbdeich und rathaus, im Sommer.
+date: 1891-07
+location: Gorleben, Grenzturm
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Rudolf Garms
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/32/9a/329a759ab4281e3fb990d7dacf742d88bd5533a30d5ae317bc9721c6d0abef47/original.jpg
+    sha256: 329a759ab4281e3fb990d7dacf742d88bd5533a30d5ae317bc9721c6d0abef47
+    mime: image/jpeg
+    bytes: 9103316
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/32/9a/329a759ab4281e3fb990d7dacf742d88bd5533a30d5ae317bc9721c6d0abef47/preview-400.7ddc2131e97d.jpg
+        sha256: 7ddc2131e97d6a615160813c7f2f853d47ddf8e1c2d23336ef7becb2fd21f3bc
+        mime: image/jpeg
+        bytes: 66150
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

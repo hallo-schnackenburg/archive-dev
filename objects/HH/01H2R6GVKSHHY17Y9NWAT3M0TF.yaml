@@ -1,0 +1,53 @@
+id: 01H2R6GVKSHHY17Y9NWAT3M0TF
+type: document
+subtype: letter
+title: Marktplatz Notiz bei Hochwasser
+description: Schreibt über die Ernte und das Wetter.
+date: 1946~
+language: de
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/27/a1/27a1a1e5f20c57166f8dbe3e2db52ad8a033294cf0ce228384577130cb1f7421/original.tif
+    sha256: 27a1a1e5f20c57166f8dbe3e2db52ad8a033294cf0ce228384577130cb1f7421
+    mime: image/tiff
+    bytes: 27891454
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/27/a1/27a1a1e5f20c57166f8dbe3e2db52ad8a033294cf0ce228384577130cb1f7421/preview-400.45660265f783.jpg
+        sha256: 45660265f78382e467532d53f864e39311723a62b2f3fc7abd6011ca0e6a4f39
+        mime: image/jpeg
+        bytes: 57229
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/c0/37/c0371f01e762455fbd0189477e6053c6d375aaee2d12448d05d32923ccca05ee/original.tif
+    sha256: c0371f01e762455fbd0189477e6053c6d375aaee2d12448d05d32923ccca05ee
+    mime: image/tiff
+    bytes: 23384005
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c0/37/c0371f01e762455fbd0189477e6053c6d375aaee2d12448d05d32923ccca05ee/preview-400.c20c4c6b9e54.jpg
+        sha256: c20c4c6b9e54ffb711f666e21ce15d5a49df4b5155485099711dc9c7902eaeb4
+        mime: image/jpeg
+        bytes: 73498
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

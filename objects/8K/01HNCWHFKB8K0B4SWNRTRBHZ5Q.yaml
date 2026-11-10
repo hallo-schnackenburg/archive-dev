@@ -1,0 +1,53 @@
+id: 01HNCWHFKB8K0B4SWNRTRBHZ5Q
+type: document
+subtype: letter
+title: Friedhof Notiz zur Ernte
+description: Schreibt über die Ernte und das Wetter.
+date: "1914"
+language: de
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/c9/96/c996079328af89721daea74c0bc704bf360ad9338aa2eca3dac4a56c638c998c/original.tif
+    sha256: c996079328af89721daea74c0bc704bf360ad9338aa2eca3dac4a56c638c998c
+    mime: image/tiff
+    bytes: 13776293
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c9/96/c996079328af89721daea74c0bc704bf360ad9338aa2eca3dac4a56c638c998c/preview-400.83a9618ebb98.jpg
+        sha256: 83a9618ebb98c57eee74473cef3150379f41ffe4bb9d272750c6a2627e4e9cbc
+        mime: image/jpeg
+        bytes: 38110
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/d2/cb/d2cbb4a43735d4070fd426442a1ed84081af0d9af03b9a4dae719616443a140a/original.tif
+    sha256: d2cbb4a43735d4070fd426442a1ed84081af0d9af03b9a4dae719616443a140a
+    mime: image/tiff
+    bytes: 4637684
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d2/cb/d2cbb4a43735d4070fd426442a1ed84081af0d9af03b9a4dae719616443a140a/preview-400.97f6b3a0519d.jpg
+        sha256: 97f6b3a0519ddc9b0441d0b61b2e33138b0b0c5bf5aac10d4508cbfbb16d5716
+        mime: image/jpeg
+        bytes: 68447
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

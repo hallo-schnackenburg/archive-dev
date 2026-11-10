@@ -1,0 +1,73 @@
+id: 01KJ3KSBS273KECD1HHWAYZ3RD
+type: document
+subtype: letter
+title: Bäckerei Protokoll zur Ernte
+date: 1967~
+language: de
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Ostfront
+recipient: Familie Lüders, Schnackenburg
+notes: Teilweise schwer lesbar.
+files:
+  - role: page
+    num: 1
+    original_name: feldpost_lueders_001.tif
+    path: files/3c/8d/3c8d6c8731052972b36060640e4f092a9b10936cc481cd06a568d966d55e8c9a/original.tif
+    sha256: 3c8d6c8731052972b36060640e4f092a9b10936cc481cd06a568d966d55e8c9a
+    mime: image/tiff
+    bytes: 25679421
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3c/8d/3c8d6c8731052972b36060640e4f092a9b10936cc481cd06a568d966d55e8c9a/preview-400.3fd760c8258f.jpg
+        sha256: 3fd760c8258f95763f146b3efa7fe5f339ce80f0f71be16acdaa0111fe97c374
+        mime: image/jpeg
+        bytes: 87402
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: feldpost_lueders_002.tif
+    path: files/c6/0b/c60b00f8e63cfccef2edf5344739c657dde8afce30bfd44a2d8c9fde6c55deae/original.tif
+    sha256: c60b00f8e63cfccef2edf5344739c657dde8afce30bfd44a2d8c9fde6c55deae
+    mime: image/tiff
+    bytes: 12677672
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/0b/c60b00f8e63cfccef2edf5344739c657dde8afce30bfd44a2d8c9fde6c55deae/preview-400.c81e97b5c8f5.jpg
+        sha256: c81e97b5c8f56410e65cedb77d7d49248964a44bd595b305af889c44f56388bf
+        mime: image/jpeg
+        bytes: 80381
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: feldpost_lueders_003.tif
+    path: files/6a/f1/6af153eb8962e26448ea4352689f95b6f097c6804e893101655ef2af79eb7da0/original.tif
+    sha256: 6af153eb8962e26448ea4352689f95b6f097c6804e893101655ef2af79eb7da0
+    mime: image/tiff
+    bytes: 7311633
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6a/f1/6af153eb8962e26448ea4352689f95b6f097c6804e893101655ef2af79eb7da0/preview-400.fa0e943333f2.jpg
+        sha256: fa0e943333f2539394f75fa8f76cdd64316620130cfc652259e9f8cc698f79cc
+        mime: image/jpeg
+        bytes: 46475
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

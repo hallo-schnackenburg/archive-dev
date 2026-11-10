@@ -1,0 +1,51 @@
+id: 01GAGNVEZ6RF2QCS3YKRCQEJJC
+type: document
+subtype: brochure
+title: Kindergarten Ansicht am Morgen
+date: 1970-03
+language: de
+origin:
+  name: Erika Voss
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/c8/88/c8885901bb799c1f659eeca477a9d512d2bb814e0ddce80498f299d4711929ca/original.tif
+    sha256: c8885901bb799c1f659eeca477a9d512d2bb814e0ddce80498f299d4711929ca
+    mime: image/tiff
+    bytes: 16504277
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/88/c8885901bb799c1f659eeca477a9d512d2bb814e0ddce80498f299d4711929ca/preview-400.a6516664c366.jpg
+        sha256: a6516664c366278fe60a4aa4a082c687b339ec3bb329b019caaf0b1764f3d0b8
+        mime: image/jpeg
+        bytes: 85154
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/cb/b5/cbb50d78d2dd5a853ccf342ea95bd3a93b65df8c91812341dcfead25d71b1569/original.tif
+    sha256: cbb50d78d2dd5a853ccf342ea95bd3a93b65df8c91812341dcfead25d71b1569
+    mime: image/tiff
+    bytes: 12509505
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cb/b5/cbb50d78d2dd5a853ccf342ea95bd3a93b65df8c91812341dcfead25d71b1569/preview-400.4afb35bba55f.jpg
+        sha256: 4afb35bba55f212b09b3ab440d8b337ceda606f1ca98de5f9b5df191468deefb
+        mime: image/jpeg
+        bytes: 53216
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

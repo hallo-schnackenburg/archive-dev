@@ -1,0 +1,34 @@
+id: 01GNWSZ52FYPDGZ0VXE6GBKNZB
+type: image
+subtype: plan
+title: Kirche St. Johannis Prospekt zur Ernte
+date: 1999-06-14
+location: Holtorf, Elbdeich
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/ff/99/ff99f55194fbacc7bd2ed4f4e23f2281a6cca5f6ec11d80e196b410038735340/original.tif
+    sha256: ff99f55194fbacc7bd2ed4f4e23f2281a6cca5f6ec11d80e196b410038735340
+    mime: image/tiff
+    bytes: 12686733
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/99/ff99f55194fbacc7bd2ed4f4e23f2281a6cca5f6ec11d80e196b410038735340/preview-400.6925b0b10193.jpg
+        sha256: 6925b0b1019303a937979db03b26df98dbbe0a0bb851454939e3dd6d73f37549
+        mime: image/jpeg
+        bytes: 41767
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01JJFCB47NFPB5GTVTR6RWDPAG
+type: image
+subtype: photo
+title: Dorfteich Ansicht nach dem Krieg
+description: Schützenfest und dorfteich, nach dem Krieg.
+date: 1917-12-05
+location: Lenzen, Zollamt
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Fritz Bohlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/6c/23/6c23da563e225ae428b6b3ba6537fb68fde19c73d24dfbbc33ea24d6cc37239f/original.jpg
+    sha256: 6c23da563e225ae428b6b3ba6537fb68fde19c73d24dfbbc33ea24d6cc37239f
+    mime: image/jpeg
+    bytes: 18664245
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/6c/23/6c23da563e225ae428b6b3ba6537fb68fde19c73d24dfbbc33ea24d6cc37239f/preview-400.bd2a061a363c.jpg
+        sha256: bd2a061a363cfcebe2804200a281ef0a52fba14cd11b075e2f9a1713a582c70f
+        mime: image/jpeg
+        bytes: 85511
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

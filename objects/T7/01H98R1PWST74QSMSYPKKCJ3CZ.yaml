@@ -1,0 +1,37 @@
+id: 01H98R1PWST74QSMSYPKKCJ3CZ
+type: image
+subtype: print
+title: Pfarrhaus Jubiläum am Sonntag
+date: "1862"
+location: Holtorf, Storchennest
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/e7/c9/e7c993fea13343c13ff43a4a2ff94eea48b193dfe208ac91be3a162b9852456a/original.tif
+    sha256: e7c993fea13343c13ff43a4a2ff94eea48b193dfe208ac91be3a162b9852456a
+    mime: image/tiff
+    bytes: 15427103
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e7/c9/e7c993fea13343c13ff43a4a2ff94eea48b193dfe208ac91be3a162b9852456a/preview-400.75179f9a2dea.jpg
+        sha256: 75179f9a2deaf46fb453ac3b66c64263aa0b124ef756c3b697a99b3388f02da5
+        mime: image/jpeg
+        bytes: 42487
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

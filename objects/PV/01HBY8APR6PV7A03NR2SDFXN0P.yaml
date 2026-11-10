@@ -1,0 +1,39 @@
+id: 01HBY8APR6PV7A03NR2SDFXN0P
+type: image
+subtype: photo
+title: Pfarrhaus Brief am Sonntag
+date: 1920-08
+location: Schnackenburg, Hafen
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/e4/07/e407c4c1a23aafae975b0395c29dccfa3591d478876b36eb0cab4b2d6baa16ae/original.jpg
+    sha256: e407c4c1a23aafae975b0395c29dccfa3591d478876b36eb0cab4b2d6baa16ae
+    mime: image/jpeg
+    bytes: 17135537
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e4/07/e407c4c1a23aafae975b0395c29dccfa3591d478876b36eb0cab4b2d6baa16ae/preview-400.7640795c59fc.jpg
+        sha256: 7640795c59fc80b699c963b527284142d4a0c7d586dec9ef559c5d1abd5f325e
+        mime: image/jpeg
+        bytes: 28707
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

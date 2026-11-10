@@ -1,0 +1,53 @@
+id: 01JQFHXAGS3BEMYNXBDW18BZPD
+type: document
+subtype: letter
+title: Fähre Zeichnung nach dem Krieg
+description: Hafen und ernte, am Morgen.
+date: 1985-10-15
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/67/e1/67e1bafbed6d9339e6bbc0c000145c0f048959828051716e1879641d2a49c05b/original.tif
+    sha256: 67e1bafbed6d9339e6bbc0c000145c0f048959828051716e1879641d2a49c05b
+    mime: image/tiff
+    bytes: 4041122
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/67/e1/67e1bafbed6d9339e6bbc0c000145c0f048959828051716e1879641d2a49c05b/preview-400.cbcd85550356.jpg
+        sha256: cbcd855503563470cc002b48aa198d93b7b5a2b6ec2f5c5b1c7f897fd1052d75
+        mime: image/jpeg
+        bytes: 62481
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/15/e9/15e94b62ae8cfb65f78b4bc046256696516002766262198becb4415f374e2827/original.tif
+    sha256: 15e94b62ae8cfb65f78b4bc046256696516002766262198becb4415f374e2827
+    mime: image/tiff
+    bytes: 17529113
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/15/e9/15e94b62ae8cfb65f78b4bc046256696516002766262198becb4415f374e2827/preview-400.15b5e70e8ed8.jpg
+        sha256: 15b5e70e8ed8d23ca039a5e04574b75650a9707de0f4c5ef89e1c63eb1a2b681
+        mime: image/jpeg
+        bytes: 57280
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

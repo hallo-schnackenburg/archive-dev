@@ -1,0 +1,39 @@
+id: 01F37CA2AKBDGPAHDJRZTMMTD8
+type: image
+subtype: photo
+title: Marktplatz Brief nach dem Krieg
+date: 1977-12
+location: Holtorf, Marktplatz
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/7d/6d/7d6d84b23d238672aade8b5a75fe3ef228b0ca1c8d6adc821ed97ffe0cefa6c0/original.jpg
+    sha256: 7d6d84b23d238672aade8b5a75fe3ef228b0ca1c8d6adc821ed97ffe0cefa6c0
+    mime: image/jpeg
+    bytes: 13704677
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7d/6d/7d6d84b23d238672aade8b5a75fe3ef228b0ca1c8d6adc821ed97ffe0cefa6c0/preview-400.62bcd1ffa6e4.jpg
+        sha256: 62bcd1ffa6e4c341585d75a44244ad3a8f75c649e74512cad6d383cd40b9c4ad
+        mime: image/jpeg
+        bytes: 75228
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

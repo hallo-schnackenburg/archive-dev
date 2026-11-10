@@ -1,0 +1,53 @@
+id: 01KTRKA1K2HPM5RCBS23QD02WH
+type: document
+subtype: letter
+title: Hochwasser Einladung am Sonntag
+description: Kirche St. Johannis und storchennest, bei Hochwasser.
+date: 1893-05-04
+language: de
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/32/20/322004a2d22f1930938da94d86cc72ade7aa68f632c4b840f3febf93cbd34546/original.tif
+    sha256: 322004a2d22f1930938da94d86cc72ade7aa68f632c4b840f3febf93cbd34546
+    mime: image/tiff
+    bytes: 6277051
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/32/20/322004a2d22f1930938da94d86cc72ade7aa68f632c4b840f3febf93cbd34546/preview-400.c9e6585c25d0.jpg
+        sha256: c9e6585c25d09f2977e3de36403bd42eee0b346c23a72a1586cca01967825a07
+        mime: image/jpeg
+        bytes: 32385
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/a1/b2/a1b2f6142e56fedaf6a37976fa73ad3f6e88e61c761e04dbbca736ee4c421f1b/original.tif
+    sha256: a1b2f6142e56fedaf6a37976fa73ad3f6e88e61c761e04dbbca736ee4c421f1b
+    mime: image/tiff
+    bytes: 11246740
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a1/b2/a1b2f6142e56fedaf6a37976fa73ad3f6e88e61c761e04dbbca736ee4c421f1b/preview-400.6b649c1eb4d2.jpg
+        sha256: 6b649c1eb4d2dc51f901bb6f5fe6cd794839488b4bd67672856b99fb4255dfb2
+        mime: image/jpeg
+        bytes: 53139
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

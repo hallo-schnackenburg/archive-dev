@@ -1,0 +1,34 @@
+id: 01GPNHFG6YRAT75903D4G1FXVG
+type: image
+subtype: plan
+title: Elbdeich Gruppenbild zur Wende
+date: 1982/1984
+location: Holtorf, Feuerwehr
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/c9/b6/c9b663a486effc37416074d33c29af9c424cc0d1f8e8106ba9c396bf2a3e0463/original.tif
+    sha256: c9b663a486effc37416074d33c29af9c424cc0d1f8e8106ba9c396bf2a3e0463
+    mime: image/tiff
+    bytes: 3123978
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c9/b6/c9b663a486effc37416074d33c29af9c424cc0d1f8e8106ba9c396bf2a3e0463/preview-400.b270ffe07de0.jpg
+        sha256: b270ffe07de0d26602f057b63258f8c88d8b49e93b1de52d4e647b99e671a613
+        mime: image/jpeg
+        bytes: 43256
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

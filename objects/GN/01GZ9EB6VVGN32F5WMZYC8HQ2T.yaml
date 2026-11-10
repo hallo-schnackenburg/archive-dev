@@ -1,0 +1,73 @@
+id: 01GZ9EB6VVGN32F5WMZYC8HQ2T
+type: document
+subtype: letter
+title: Feuerwehr Zeichnung am Sonntag
+date: 1864-03-26
+language: de
+origin:
+  name: Rudolf Garms
+  type: person
+  location: Ostfront
+recipient: Familie Lüders, Schnackenburg
+notes: Teilweise schwer lesbar.
+files:
+  - role: page
+    num: 1
+    original_name: feldpost_lueders_001.tif
+    path: files/8e/89/8e899c1f7fcb06f5f950107f01e47cb15cd70ea027c9cc9f72748825a64fdea8/original.tif
+    sha256: 8e899c1f7fcb06f5f950107f01e47cb15cd70ea027c9cc9f72748825a64fdea8
+    mime: image/tiff
+    bytes: 15411614
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8e/89/8e899c1f7fcb06f5f950107f01e47cb15cd70ea027c9cc9f72748825a64fdea8/preview-400.f6fa34c4c6c7.jpg
+        sha256: f6fa34c4c6c7b62523ef21628d182264fdb74314788691a48a993bb3dc096ba2
+        mime: image/jpeg
+        bytes: 59405
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: feldpost_lueders_002.tif
+    path: files/37/54/375471af634a83e3fa56323056d375424cc690577a4e37d206483eab2ffc77cf/original.tif
+    sha256: 375471af634a83e3fa56323056d375424cc690577a4e37d206483eab2ffc77cf
+    mime: image/tiff
+    bytes: 11350585
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/37/54/375471af634a83e3fa56323056d375424cc690577a4e37d206483eab2ffc77cf/preview-400.e2e31e40a998.jpg
+        sha256: e2e31e40a998816ebb27fd265e3422fb599a56c7ec79983ca71e3c22ae842b53
+        mime: image/jpeg
+        bytes: 67046
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: feldpost_lueders_003.tif
+    path: files/16/be/16be63de787125b88ceac1c3827620e430da15afed551f6c1c1d787a2c61f1ba/original.tif
+    sha256: 16be63de787125b88ceac1c3827620e430da15afed551f6c1c1d787a2c61f1ba
+    mime: image/tiff
+    bytes: 2055792
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/16/be/16be63de787125b88ceac1c3827620e430da15afed551f6c1c1d787a2c61f1ba/preview-400.30145c3b7e92.jpg
+        sha256: 30145c3b7e92453fc3481c4cbbb8a12c894a9eb445e98242f4010134aba2b78b
+        mime: image/jpeg
+        bytes: 78678
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

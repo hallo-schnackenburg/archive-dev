@@ -1,0 +1,53 @@
+id: 01J0628MNTHC96S31916MTY54A
+type: document
+subtype: letter
+title: Rathaus Brief am Morgen
+description: Schreibt über die Ernte und das Wetter.
+date: 2009~
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/44/bc/44bc4566c1a08c41fbbc2c4b64524a84b00cf9fb44eb4933a6ad94c933cb3111/original.tif
+    sha256: 44bc4566c1a08c41fbbc2c4b64524a84b00cf9fb44eb4933a6ad94c933cb3111
+    mime: image/tiff
+    bytes: 5343965
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/44/bc/44bc4566c1a08c41fbbc2c4b64524a84b00cf9fb44eb4933a6ad94c933cb3111/preview-400.aa024f94f19c.jpg
+        sha256: aa024f94f19cc0253af4154c02c62701f572620e6ca8894538128423b57b40bb
+        mime: image/jpeg
+        bytes: 86135
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/3d/cd/3dcd0c6ee355dc6bd9d4efaf1b598d34bd498310133b8e24afd9b828f205c173/original.tif
+    sha256: 3dcd0c6ee355dc6bd9d4efaf1b598d34bd498310133b8e24afd9b828f205c173
+    mime: image/tiff
+    bytes: 8343104
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3d/cd/3dcd0c6ee355dc6bd9d4efaf1b598d34bd498310133b8e24afd9b828f205c173/preview-400.ab75eb52c837.jpg
+        sha256: ab75eb52c83710b2f5bec37cdb7e29c1500a1a9baa68217a9444fb390c1fa0e2
+        mime: image/jpeg
+        bytes: 67195
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

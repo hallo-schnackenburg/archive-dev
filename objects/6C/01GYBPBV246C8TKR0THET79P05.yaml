@@ -1,0 +1,53 @@
+id: 01GYBPBV246C8TKR0THET79P05
+type: document
+subtype: letter
+title: Ernte Prospekt zu Pfingsten
+description: Schreibt über die Ernte und das Wetter.
+date: 1916-12-16
+language: de
+origin:
+  name: Anni Jeß
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/2f/7b/2f7b8819bbba3688eee881f6115b021a751346bae89b0473317c0b19e8452be2/original.tif
+    sha256: 2f7b8819bbba3688eee881f6115b021a751346bae89b0473317c0b19e8452be2
+    mime: image/tiff
+    bytes: 8173921
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2f/7b/2f7b8819bbba3688eee881f6115b021a751346bae89b0473317c0b19e8452be2/preview-400.1b4a9d12ff29.jpg
+        sha256: 1b4a9d12ff29648a9d0e0d6f68ec1898a280d16435317660e559dc0fe7668146
+        mime: image/jpeg
+        bytes: 39922
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/9a/d8/9ad8818eceb56c801b3ecb2e51b287f6e8452f956534a54bc2d80c453c8e7956/original.tif
+    sha256: 9ad8818eceb56c801b3ecb2e51b287f6e8452f956534a54bc2d80c453c8e7956
+    mime: image/tiff
+    bytes: 18974872
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9a/d8/9ad8818eceb56c801b3ecb2e51b287f6e8452f956534a54bc2d80c453c8e7956/preview-400.e7b2aaa4190c.jpg
+        sha256: e7b2aaa4190c5b7d6f7a051cce8e08cbaab0acdcc1754822deeeef486d531300
+        mime: image/jpeg
+        bytes: 78668
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

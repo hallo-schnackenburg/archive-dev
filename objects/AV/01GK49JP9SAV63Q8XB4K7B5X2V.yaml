@@ -1,0 +1,34 @@
+id: 01GK49JP9SAV63Q8XB4K7B5X2V
+type: image
+subtype: print
+title: Storchennest Ansicht am Sonntag
+description: Kupferstich.
+date: 1891-07-14
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/40/c5/40c5f8114e97e662e9b54f3ac8e03953a766173b104f8e1cac1fca0bfbe2eb2c/original.tif
+    sha256: 40c5f8114e97e662e9b54f3ac8e03953a766173b104f8e1cac1fca0bfbe2eb2c
+    mime: image/tiff
+    bytes: 22285199
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/c5/40c5f8114e97e662e9b54f3ac8e03953a766173b104f8e1cac1fca0bfbe2eb2c/preview-400.0e37254bd780.jpg
+        sha256: 0e37254bd7806676e0f7ecffdcf04b531a45e5438b5ecd026fd0eb977775a213
+        mime: image/jpeg
+        bytes: 35982
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

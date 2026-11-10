@@ -1,0 +1,37 @@
+id: 01FDN123CY86XVSPP41WK85NEY
+type: image
+subtype: print
+title: Gasthof Umzug zur Ernte
+date: 1975-03-24
+location: Schnackenburg, Dorfschule
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/70/27/7027461b1c684edf1d5fa8f0c635e6f6dacd4bf46d372327c4c67dd2ffca7a78/original.tif
+    sha256: 7027461b1c684edf1d5fa8f0c635e6f6dacd4bf46d372327c4c67dd2ffca7a78
+    mime: image/tiff
+    bytes: 22607031
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/70/27/7027461b1c684edf1d5fa8f0c635e6f6dacd4bf46d372327c4c67dd2ffca7a78/preview-400.fb67977de209.jpg
+        sha256: fb67977de209baa5be7efeaaf3a6bd8cad68cd6eaa134c112ab72d81a0625baa
+        mime: image/jpeg
+        bytes: 52301
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

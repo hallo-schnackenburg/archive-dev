@@ -1,0 +1,51 @@
+id: 01GFK4V25F0RASADKQY6KMRAT1
+type: document
+subtype: brochure
+title: Dorfschule Bericht im Winter
+date: 1921-09-21
+language: de
+origin:
+  name: Hans Brandt
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/b5/b1/b5b15b9554e77df88ea9d59f5c6366e3c26ce226cbe4b58fcad8f94bd7868101/original.tif
+    sha256: b5b15b9554e77df88ea9d59f5c6366e3c26ce226cbe4b58fcad8f94bd7868101
+    mime: image/tiff
+    bytes: 6786793
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b5/b1/b5b15b9554e77df88ea9d59f5c6366e3c26ce226cbe4b58fcad8f94bd7868101/preview-400.a8c4ac3344dc.jpg
+        sha256: a8c4ac3344dcc5c65c1e5f0a3613092d4672cea0397cc6398dc7cf7201b61a0f
+        mime: image/jpeg
+        bytes: 29495
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/81/22/8122cc66e6da5de7b1d2fd258d54bf8eb9c7accf504b4ff79bda254cd525a580/original.tif
+    sha256: 8122cc66e6da5de7b1d2fd258d54bf8eb9c7accf504b4ff79bda254cd525a580
+    mime: image/tiff
+    bytes: 17517613
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/81/22/8122cc66e6da5de7b1d2fd258d54bf8eb9c7accf504b4ff79bda254cd525a580/preview-400.17b315b1ba29.jpg
+        sha256: 17b315b1ba294b56153fcc06bd7c4265845cd15b82ceb2187b5ef7fae39ed7a8
+        mime: image/jpeg
+        bytes: 53688
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01J9P1YTDDJKB1Q3G1XQ2S31YB
+type: image
+subtype: plan
+title: Dorfschule Entwurf nach dem Krieg
+date: "1904"
+location: Pretzier, Bäckerei
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Erika Voss
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/8f/33/8f33aabe06447587dbd14561ea3c387a12e226cb47dc7a3212e8286b39d6ec4b/original.tif
+    sha256: 8f33aabe06447587dbd14561ea3c387a12e226cb47dc7a3212e8286b39d6ec4b
+    mime: image/tiff
+    bytes: 11956600
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8f/33/8f33aabe06447587dbd14561ea3c387a12e226cb47dc7a3212e8286b39d6ec4b/preview-400.29c1e0eaa10d.jpg
+        sha256: 29c1e0eaa10da197bf0240ef46832545edbcf1e472ad2f84bc6be9a0c5b4e41c
+        mime: image/jpeg
+        bytes: 77049
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

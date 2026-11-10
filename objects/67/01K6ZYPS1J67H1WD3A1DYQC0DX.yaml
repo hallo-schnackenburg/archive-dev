@@ -1,0 +1,39 @@
+id: 01K6ZYPS1J67H1WD3A1DYQC0DX
+type: image
+subtype: photo
+title: Schmiede Protokoll im Sommer
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1954-12-27
+location: Lenzen, Marktplatz
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Helga Plate
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/17/09/1709fc6798cf3af1f6752bf8ee0fb4717547912ece089c69fd80612b32f8fcfd/original.jpg
+    sha256: 1709fc6798cf3af1f6752bf8ee0fb4717547912ece089c69fd80612b32f8fcfd
+    mime: image/jpeg
+    bytes: 18300932
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/17/09/1709fc6798cf3af1f6752bf8ee0fb4717547912ece089c69fd80612b32f8fcfd/preview-400.59244dc3cd52.jpg
+        sha256: 59244dc3cd5239329acb569b0415aadd3998e5b59895cfbe62a62d2dc97483a2
+        mime: image/jpeg
+        bytes: 21330
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

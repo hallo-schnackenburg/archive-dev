@@ -1,0 +1,39 @@
+id: 01GBAMZNTXCS6N9GZWJ9PDPAWX
+type: image
+subtype: photo
+title: Gasthof Bericht nach dem Krieg
+date: 1935/1940
+location: Seedorf, Mühle
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/d4/ba/d4ba80a432011be8becbf5f9a8bba98de212bcb8b70cc9f2fa46b54e592fb806/original.jpg
+    sha256: d4ba80a432011be8becbf5f9a8bba98de212bcb8b70cc9f2fa46b54e592fb806
+    mime: image/jpeg
+    bytes: 9912723
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d4/ba/d4ba80a432011be8becbf5f9a8bba98de212bcb8b70cc9f2fa46b54e592fb806/preview-400.8fbf5db10fd7.jpg
+        sha256: 8fbf5db10fd7ecf7ede37041308f91f69f59c74f953fc189717177e5ae4c20a0
+        mime: image/jpeg
+        bytes: 80266
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

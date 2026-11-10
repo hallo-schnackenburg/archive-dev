@@ -1,0 +1,51 @@
+id: 01KWQ2BCTK8C0W12T6Z9Q75GVZ
+type: document
+subtype: brochure
+title: Fachwerkhaus Zeichnung zu Pfingsten
+date: 1941-04-03
+language: de
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/72/10/721092fa2ed7e6574b3d3434a56d2e88c21d9ebf443d9e22e8ce5a9b325b1ee0/original.tif
+    sha256: 721092fa2ed7e6574b3d3434a56d2e88c21d9ebf443d9e22e8ce5a9b325b1ee0
+    mime: image/tiff
+    bytes: 15873431
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/72/10/721092fa2ed7e6574b3d3434a56d2e88c21d9ebf443d9e22e8ce5a9b325b1ee0/preview-400.21bcbae2bd52.jpg
+        sha256: 21bcbae2bd52c6b7a6ec94a65efa9bfb6833098cccff34d6489ef2f45cf5dc3a
+        mime: image/jpeg
+        bytes: 68604
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/fd/33/fd338063866e0c39f1505422f640f7ac630a81a8781b8c076a573a18831e11d2/original.tif
+    sha256: fd338063866e0c39f1505422f640f7ac630a81a8781b8c076a573a18831e11d2
+    mime: image/tiff
+    bytes: 12826559
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fd/33/fd338063866e0c39f1505422f640f7ac630a81a8781b8c076a573a18831e11d2/preview-400.9107c2bd2019.jpg
+        sha256: 9107c2bd20198b0dfc4eadf757b774bb83e7b616f37cd99baeab628a414a45d4
+        mime: image/jpeg
+        bytes: 65980
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

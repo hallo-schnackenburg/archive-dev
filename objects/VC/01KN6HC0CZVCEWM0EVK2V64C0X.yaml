@@ -1,0 +1,35 @@
+id: 01KN6HC0CZVCEWM0EVK2V64C0X
+type: image
+subtype: photo
+title: Zollamt Gruppenbild nach dem Krieg
+date: "2022"
+location: Lüchow, Kirche St. Johannis
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/52/a3/52a378d1eff77e9f1049835e4ad5329a8a8022c3105fbec37d0bce9b99027f34/original.jpg
+    sha256: 52a378d1eff77e9f1049835e4ad5329a8a8022c3105fbec37d0bce9b99027f34
+    mime: image/jpeg
+    bytes: 3633343
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/52/a3/52a378d1eff77e9f1049835e4ad5329a8a8022c3105fbec37d0bce9b99027f34/preview-400.2d6df71f07e5.jpg
+        sha256: 2d6df71f07e5045a1fe6f42a8acb7277a2c92c95a2914ff91ab87ad8f9f01912
+        mime: image/jpeg
+        bytes: 68873
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

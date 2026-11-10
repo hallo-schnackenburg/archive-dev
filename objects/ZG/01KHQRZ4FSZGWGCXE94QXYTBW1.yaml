@@ -1,0 +1,39 @@
+id: 01KHQRZ4FSZGWGCXE94QXYTBW1
+type: image
+subtype: photo
+title: Dorfschule Prospekt vor dem Umbau
+description: Schmiede und bahnhof, im Winter.
+date: 1860-01-16
+location: Lüchow, Grenzturm
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Otto Hennings
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/c6/0b/c60b6b7d3e03d7283acd6203236a35cff868ed79032e36d31e8853b6df014e14/original.jpg
+    sha256: c60b6b7d3e03d7283acd6203236a35cff868ed79032e36d31e8853b6df014e14
+    mime: image/jpeg
+    bytes: 21600459
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c6/0b/c60b6b7d3e03d7283acd6203236a35cff868ed79032e36d31e8853b6df014e14/preview-400.98f634f26602.jpg
+        sha256: 98f634f26602669ca0b84526869a18d9583912691a38e1a1cb3845ab8ec3392e
+        mime: image/jpeg
+        bytes: 46478
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01JMVC3AQT6EQPDVSZ1TQXH0CX
+type: image
+subtype: print
+title: Mühle Abriss am Sonntag
+description: Schützenfest und storchennest, am Sonntag.
+date: 1908-05
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/c8/0e/c80e94d3e281f59eef2e4256013ae048907f2198fd577e612237b0b589274a91/original.tif
+    sha256: c80e94d3e281f59eef2e4256013ae048907f2198fd577e612237b0b589274a91
+    mime: image/tiff
+    bytes: 8488200
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/0e/c80e94d3e281f59eef2e4256013ae048907f2198fd577e612237b0b589274a91/preview-400.99b0b3db708b.jpg
+        sha256: 99b0b3db708b30f5cd1eeed74cf5198a61e2bc972aa3583a021edaf643e2fddc
+        mime: image/jpeg
+        bytes: 66589
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

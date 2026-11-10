@@ -1,0 +1,39 @@
+id: 01G7Z93AXMFHQZ70WWF9RENW0X
+type: image
+subtype: photo
+title: Gemeindehaus Rechnung nach dem Krieg
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1913-07
+location: Kapern, Hafen
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Ilse Wegner
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/f0/c4/f0c4b8bff4a50005c51e02ddf0cd8a90de16d8cf029aadb06533b4f5a250f25b/original.jpg
+    sha256: f0c4b8bff4a50005c51e02ddf0cd8a90de16d8cf029aadb06533b4f5a250f25b
+    mime: image/jpeg
+    bytes: 25665815
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f0/c4/f0c4b8bff4a50005c51e02ddf0cd8a90de16d8cf029aadb06533b4f5a250f25b/preview-400.dd4a0c144de2.jpg
+        sha256: dd4a0c144de295646a507f1c3968f8bdf223210625dac7fa781f67d178a3847f
+        mime: image/jpeg
+        bytes: 43016
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01JJHFWV8JX2Z25FFQB30SVVE6
+type: image
+subtype: photo
+title: Marktplatz Rechnung am Sonntag
+description: Das Wasser steht bis an die Deichkrone.
+date: "1918"
+location: Seedorf, Bahnhof
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/b4/b3/b4b377b8fecab5ec0d5643b72272d22a005c46371fb2b57f98c903d8ae086cdf/original.jpg
+    sha256: b4b377b8fecab5ec0d5643b72272d22a005c46371fb2b57f98c903d8ae086cdf
+    mime: image/jpeg
+    bytes: 27464105
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/b4/b3/b4b377b8fecab5ec0d5643b72272d22a005c46371fb2b57f98c903d8ae086cdf/preview-400.86fc29e7bd10.jpg
+        sha256: 86fc29e7bd10369c37bdcc846a892f818c26601248283d1a79121a474393d7cd
+        mime: image/jpeg
+        bytes: 64710
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

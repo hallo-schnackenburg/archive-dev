@@ -1,0 +1,35 @@
+id: 01K83ZPQHGBKZ51SP5JZP4TW3X
+type: image
+subtype: photo
+title: Friedhof Umbau nach dem Krieg
+date: 1961-04
+location: Holtorf, Gasthof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/3d/93/3d935e620d4a79ae69683a762ce03085deff4bc1379ca9076f503289fef58552/original.jpg
+    sha256: 3d935e620d4a79ae69683a762ce03085deff4bc1379ca9076f503289fef58552
+    mime: image/jpeg
+    bytes: 5304396
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/3d/93/3d935e620d4a79ae69683a762ce03085deff4bc1379ca9076f503289fef58552/preview-400.358ec604a932.jpg
+        sha256: 358ec604a932f637558e3633f329252e4e8dd56b56287499cfe91a964f4ac435
+        mime: image/jpeg
+        bytes: 34610
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

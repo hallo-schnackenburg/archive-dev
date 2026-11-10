@@ -1,0 +1,34 @@
+id: 01M2ESNTV0AKCKM90ZE467CRNK
+type: image
+subtype: print
+title: Ernte Protokoll im Winter
+description: Kupferstich.
+date: 2010~
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/e5/c2/e5c28c6f82dd014b257b1d06b21385e2ab8b064659f7c308ea14741b5a210581/original.tif
+    sha256: e5c28c6f82dd014b257b1d06b21385e2ab8b064659f7c308ea14741b5a210581
+    mime: image/tiff
+    bytes: 15356261
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e5/c2/e5c28c6f82dd014b257b1d06b21385e2ab8b064659f7c308ea14741b5a210581/preview-400.fabf71330a23.jpg
+        sha256: fabf71330a23d67c660a908a0cae01205559f44d824384e539414993dee6beaf
+        mime: image/jpeg
+        bytes: 44801
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

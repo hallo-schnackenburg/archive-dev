@@ -1,0 +1,53 @@
+id: 01FBS7PGD0ZXKWJYVRRANH8NV8
+type: document
+subtype: letter
+title: Zollamt Entwurf nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: 1888-02-13
+language: de
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/7f/5a/7f5a8e3c510eb3e18e7d180a94aba2a9a6584cdcf2296de924acd7eef2d2bec5/original.tif
+    sha256: 7f5a8e3c510eb3e18e7d180a94aba2a9a6584cdcf2296de924acd7eef2d2bec5
+    mime: image/tiff
+    bytes: 18588892
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7f/5a/7f5a8e3c510eb3e18e7d180a94aba2a9a6584cdcf2296de924acd7eef2d2bec5/preview-400.28e0985c0006.jpg
+        sha256: 28e0985c0006ca67c50146f4af18caaf7c9a0470e92f73d1d624a17c8d559c14
+        mime: image/jpeg
+        bytes: 80697
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/93/83/9383ca1521a71d8a4de3ece6a6e74c3acdd6e9dc9292e46929aa4060facb082f/original.tif
+    sha256: 9383ca1521a71d8a4de3ece6a6e74c3acdd6e9dc9292e46929aa4060facb082f
+    mime: image/tiff
+    bytes: 24288073
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/93/83/9383ca1521a71d8a4de3ece6a6e74c3acdd6e9dc9292e46929aa4060facb082f/preview-400.9b9bef88f37b.jpg
+        sha256: 9b9bef88f37b6f8fb18d78b878b9149a5a7ebf39a3a9f7589c8cca874d28dcdb
+        mime: image/jpeg
+        bytes: 37038
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

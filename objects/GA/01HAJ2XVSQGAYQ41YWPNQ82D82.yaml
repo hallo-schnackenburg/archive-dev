@@ -1,0 +1,35 @@
+id: 01HAJ2XVSQGAYQ41YWPNQ82D82
+type: image
+subtype: photo
+title: Mühle Besuch am Sonntag
+date: 1932-10
+location: Schnackenburg, Hochwasser
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/39/a1/39a1ea8b65428bcf99a7a085cbe6523b13cddbd209ad4b9f8b29ded5b41384a0/original.jpg
+    sha256: 39a1ea8b65428bcf99a7a085cbe6523b13cddbd209ad4b9f8b29ded5b41384a0
+    mime: image/jpeg
+    bytes: 15802171
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/39/a1/39a1ea8b65428bcf99a7a085cbe6523b13cddbd209ad4b9f8b29ded5b41384a0/preview-400.a8189508bd9a.jpg
+        sha256: a8189508bd9a309e5f0a55d9f8fe4c027262ad6544139a9b6f5ea01b77b8db45
+        mime: image/jpeg
+        bytes: 62411
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01FT51M5Q78CBYW4GSMWWS7MN8
+type: image
+subtype: photo
+title: Fähre Zeichnung am Sonntag
+date: 1974-04
+location: Lüchow, Zollamt
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/2a/76/2a760ea29488789a6e95aa670164b28db6bffb3998d5d04832bd691828a5f8c1/original.jpg
+    sha256: 2a760ea29488789a6e95aa670164b28db6bffb3998d5d04832bd691828a5f8c1
+    mime: image/jpeg
+    bytes: 17699767
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2a/76/2a760ea29488789a6e95aa670164b28db6bffb3998d5d04832bd691828a5f8c1/preview-400.0d3db4f221d2.jpg
+        sha256: 0d3db4f221d2a8f0a5a800827bb5ccb044e7b25f14582436088848fadfd6efca
+        mime: image/jpeg
+        bytes: 43497
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01KVGK85DAY6Q9Q21CEHX09H1D
+type: image
+subtype: photo
+title: Brücke Notiz im Sommer
+date: 1851/1857
+location: Seedorf, Rathaus
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/8b/6d/8b6d4dff688bbeff7bced9ec156b5762ad64558a238b80c37f8169af93b31280/original.jpg
+    sha256: 8b6d4dff688bbeff7bced9ec156b5762ad64558a238b80c37f8169af93b31280
+    mime: image/jpeg
+    bytes: 11711768
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/8b/6d/8b6d4dff688bbeff7bced9ec156b5762ad64558a238b80c37f8169af93b31280/preview-400.ddc2a1b3e870.jpg
+        sha256: ddc2a1b3e870971334512d8f2cf535ef56b71c2cdd954744e4aff5732fc3a3b1
+        mime: image/jpeg
+        bytes: 59568
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

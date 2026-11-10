@@ -1,0 +1,37 @@
+id: 01GRQ1RS282ZHGWF0ZC80GRKY5
+type: image
+subtype: print
+title: Schmiede Ansicht am Sonntag
+date: 1955/1961
+location: Lüchow, Elbdeich
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/1c/3d/1c3d39b5b9b7734c798bbb6a65ca13ed2689c7034a8e3f205121a0d8ba1c42db/original.tif
+    sha256: 1c3d39b5b9b7734c798bbb6a65ca13ed2689c7034a8e3f205121a0d8ba1c42db
+    mime: image/tiff
+    bytes: 8595936
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/3d/1c3d39b5b9b7734c798bbb6a65ca13ed2689c7034a8e3f205121a0d8ba1c42db/preview-400.85863a0451be.jpg
+        sha256: 85863a0451be2aff2613a83643dddfcee8f9e16ee485c50b862b691d254c8f28
+        mime: image/jpeg
+        bytes: 62420
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

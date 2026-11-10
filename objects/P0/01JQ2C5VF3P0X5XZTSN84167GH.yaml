@@ -1,0 +1,53 @@
+id: 01JQ2C5VF3P0X5XZTSN84167GH
+type: document
+subtype: letter
+title: Bahnhof Besuch zur Ernte
+description: Schreibt über die Ernte und das Wetter.
+date: 1964-07
+language: de
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/6d/b5/6db5896ac19dcb6dbf491647f7f7580a85968b1bdfa92b54ce713b0856ecd395/original.tif
+    sha256: 6db5896ac19dcb6dbf491647f7f7580a85968b1bdfa92b54ce713b0856ecd395
+    mime: image/tiff
+    bytes: 26312656
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6d/b5/6db5896ac19dcb6dbf491647f7f7580a85968b1bdfa92b54ce713b0856ecd395/preview-400.92950311e937.jpg
+        sha256: 92950311e937021139d2ae412ea5bdd7255f891eb535fdd45fc48331151df5d8
+        mime: image/jpeg
+        bytes: 72628
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/35/37/3537efeac9a3203391fe9791079a5848fa979dff2741c6be47b54fc1366968a2/original.tif
+    sha256: 3537efeac9a3203391fe9791079a5848fa979dff2741c6be47b54fc1366968a2
+    mime: image/tiff
+    bytes: 23447448
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/35/37/3537efeac9a3203391fe9791079a5848fa979dff2741c6be47b54fc1366968a2/preview-400.dc3b16d63e48.jpg
+        sha256: dc3b16d63e486e307ca7cd6999cbce24380c0a792e29d1995264a57fbe44cdcb
+        mime: image/jpeg
+        bytes: 27138
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

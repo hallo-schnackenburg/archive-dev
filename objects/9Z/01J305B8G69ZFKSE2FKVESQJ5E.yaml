@@ -1,0 +1,47 @@
+id: 01J305B8G69ZFKSE2FKVESQJ5E
+type: image
+subtype: photo
+title: Gasthof Besuch im Winter
+description: Schützenfest und fähre, zur Ernte.
+date: "1887"
+location: Schnackenburg, Pfarrhaus
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Walter Kuhlmann
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/1a/da/1ada43b6474711632007c0bfaca2691c013eeb160028d6e4be8ea91d8b362fe0/original.jpg
+    sha256: 1ada43b6474711632007c0bfaca2691c013eeb160028d6e4be8ea91d8b362fe0
+    mime: image/jpeg
+    bytes: 24740787
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/1a/da/1ada43b6474711632007c0bfaca2691c013eeb160028d6e4be8ea91d8b362fe0/preview-400.8ea5e11a2975.jpg
+        sha256: 8ea5e11a29756993c5042a4db17eaeaeb714984cce8c15f9045ff089f2db5def
+        mime: image/jpeg
+        bytes: 42872
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

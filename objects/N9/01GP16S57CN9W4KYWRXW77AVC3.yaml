@@ -1,0 +1,37 @@
+id: 01GP16S57CN9W4KYWRXW77AVC3
+type: image
+subtype: print
+title: Hafen Aufnahme am Sonntag
+date: 2019-12
+location: Holtorf, Dorfschule
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/4e/57/4e5798114be50a000c3fbc83b86813a5b06f233d4a29ec6b72904555a442e87c/original.tif
+    sha256: 4e5798114be50a000c3fbc83b86813a5b06f233d4a29ec6b72904555a442e87c
+    mime: image/tiff
+    bytes: 19559451
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4e/57/4e5798114be50a000c3fbc83b86813a5b06f233d4a29ec6b72904555a442e87c/preview-400.4a83d560ad84.jpg
+        sha256: 4a83d560ad8485789abc477b7fbd08c5ba060c29bab4fefae661835471b6f02f
+        mime: image/jpeg
+        bytes: 80054
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

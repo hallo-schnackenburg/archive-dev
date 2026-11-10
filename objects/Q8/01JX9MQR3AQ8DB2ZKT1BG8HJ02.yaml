@@ -1,0 +1,51 @@
+id: 01JX9MQR3AQ8DB2ZKT1BG8HJ02
+type: document
+subtype: brochure
+title: Brunnen Entwurf im Winter
+date: 2021-06-28
+language: de
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/83/49/834914689fb8098f16c68ad6ebc74df1bffa22afc5ae7010f67040fd359145f1/original.tif
+    sha256: 834914689fb8098f16c68ad6ebc74df1bffa22afc5ae7010f67040fd359145f1
+    mime: image/tiff
+    bytes: 20417227
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/83/49/834914689fb8098f16c68ad6ebc74df1bffa22afc5ae7010f67040fd359145f1/preview-400.efd8a1adc72d.jpg
+        sha256: efd8a1adc72dd9985544e33366fbc49daa60d53b16acd7473e192b49bbd6e174
+        mime: image/jpeg
+        bytes: 62954
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/69/1c/691cf5865c4a6994b6d35f1536ac63f245edbb976a99a1f938e3f30c18b13541/original.tif
+    sha256: 691cf5865c4a6994b6d35f1536ac63f245edbb976a99a1f938e3f30c18b13541
+    mime: image/tiff
+    bytes: 9453187
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/69/1c/691cf5865c4a6994b6d35f1536ac63f245edbb976a99a1f938e3f30c18b13541/preview-400.a7d809ee170a.jpg
+        sha256: a7d809ee170aa85cba4480e83a9204e7f79727dee927d2e693037f6106fa451e
+        mime: image/jpeg
+        bytes: 79054
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

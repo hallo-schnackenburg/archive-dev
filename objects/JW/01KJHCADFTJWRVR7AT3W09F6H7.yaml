@@ -1,0 +1,34 @@
+id: 01KJHCADFTJWRVR7AT3W09F6H7
+type: image
+subtype: plan
+title: Bäckerei Rechnung zur Wende
+date: "1919"
+location: Seedorf, Hochwasser
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/7f/ee/7feefbbff94870dc1f30128457c4b467e41d6f18ad20e6a8a1aa56e37f57890a/original.tif
+    sha256: 7feefbbff94870dc1f30128457c4b467e41d6f18ad20e6a8a1aa56e37f57890a
+    mime: image/tiff
+    bytes: 13647047
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7f/ee/7feefbbff94870dc1f30128457c4b467e41d6f18ad20e6a8a1aa56e37f57890a/preview-400.636bdd16e00a.jpg
+        sha256: 636bdd16e00ac201aeadf43fa61cb82d5c64101788495168794a58bd6188a3ca
+        mime: image/jpeg
+        bytes: 67829
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

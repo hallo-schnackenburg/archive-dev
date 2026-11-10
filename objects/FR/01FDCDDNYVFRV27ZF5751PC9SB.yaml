@@ -1,0 +1,53 @@
+id: 01FDCDDNYVFRV27ZF5751PC9SB
+type: document
+subtype: letter
+title: Grenzturm Prospekt zur Ernte
+description: Schreibt über die Ernte und das Wetter.
+date: 1872-10
+language: de
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/46/0c/460ca872dad8270e61afbf2fd33726a2010c59dfee229a761bfafe5924fe8a02/original.tif
+    sha256: 460ca872dad8270e61afbf2fd33726a2010c59dfee229a761bfafe5924fe8a02
+    mime: image/tiff
+    bytes: 6294299
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/46/0c/460ca872dad8270e61afbf2fd33726a2010c59dfee229a761bfafe5924fe8a02/preview-400.91c7c258f1d4.jpg
+        sha256: 91c7c258f1d45bed1244735b3b6cc57506450777aecef30fa2433d3478174ed7
+        mime: image/jpeg
+        bytes: 63537
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/7d/29/7d294a4557b077f42c1171060e4bccee277a79a4a1e591df38863b5cbdd46461/original.tif
+    sha256: 7d294a4557b077f42c1171060e4bccee277a79a4a1e591df38863b5cbdd46461
+    mime: image/tiff
+    bytes: 18277214
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7d/29/7d294a4557b077f42c1171060e4bccee277a79a4a1e591df38863b5cbdd46461/preview-400.70ce7088a8d4.jpg
+        sha256: 70ce7088a8d43e35f483b6b742b6591eb2f1b985180c1ed3ab83e5fccfd226b4
+        mime: image/jpeg
+        bytes: 73965
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

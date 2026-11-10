@@ -1,0 +1,35 @@
+id: 01HCXTV17A3RZ1T3VTE06PE3Y8
+type: image
+subtype: photo
+title: Grenzturm Notiz nach dem Krieg
+date: 1992~
+location: Restorf, Ernte
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/e7/10/e7101e8d9fa66d3300a5a7f6f56d1da73b15d9902315c2ef3036a6d396b49a64/original.jpg
+    sha256: e7101e8d9fa66d3300a5a7f6f56d1da73b15d9902315c2ef3036a6d396b49a64
+    mime: image/jpeg
+    bytes: 10770129
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e7/10/e7101e8d9fa66d3300a5a7f6f56d1da73b15d9902315c2ef3036a6d396b49a64/preview-400.13c245a21764.jpg
+        sha256: 13c245a217645b3cb902487c686be5664a7c9b7551fa2cae6864ed024e0668fc
+        mime: image/jpeg
+        bytes: 48856
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

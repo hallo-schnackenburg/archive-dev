@@ -1,0 +1,34 @@
+id: 01HDB85BDZMER1H4H3VTYCF3G7
+type: image
+subtype: plan
+title: Feuerwehr Abriss im Sommer
+date: 1923-02
+location: Holtorf, Gemeindehaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/8a/30/8a30dcd4350c7a018c675bec39b9f73085bb5e1ccb3b4640fff13e294f96c83d/original.tif
+    sha256: 8a30dcd4350c7a018c675bec39b9f73085bb5e1ccb3b4640fff13e294f96c83d
+    mime: image/tiff
+    bytes: 10177916
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8a/30/8a30dcd4350c7a018c675bec39b9f73085bb5e1ccb3b4640fff13e294f96c83d/preview-400.197f37a9cb69.jpg
+        sha256: 197f37a9cb69411eb2c43b39ebbb5c34266377d12a0ca2e44c4e71f02ef510d2
+        mime: image/jpeg
+        bytes: 65264
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

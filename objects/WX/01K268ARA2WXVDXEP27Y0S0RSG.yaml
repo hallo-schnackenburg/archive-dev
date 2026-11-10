@@ -1,0 +1,39 @@
+id: 01K268ARA2WXVDXEP27Y0S0RSG
+type: image
+subtype: photo
+title: Hafen Entwurf im Sommer
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1900-11-14
+location: Restorf, Elbufer
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Fritz Bohlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/49/57/4957f50d458a5066ca657bea4176cb5476fb6f2404459a61fd9d52b92769e7dc/original.jpg
+    sha256: 4957f50d458a5066ca657bea4176cb5476fb6f2404459a61fd9d52b92769e7dc
+    mime: image/jpeg
+    bytes: 11354311
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/49/57/4957f50d458a5066ca657bea4176cb5476fb6f2404459a61fd9d52b92769e7dc/preview-400.ce961e67bfcb.jpg
+        sha256: ce961e67bfcb1d16ca21de3ef4e468c74ada1d392b67d6da7aa0120ea40d3cda
+        mime: image/jpeg
+        bytes: 60526
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01J1V1AYQR9VJVTCK8RANSNZEN
+type: image
+subtype: photo
+title: Elbdeich Brief zur Ernte
+date: 1924-02-02
+location: Holtorf, Hafen
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Hans Brandt
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/b5/3d/b53de5994f1ba34916e3d27e4c63b2ea1ca50fb7aed929e4b24fc3ec231676ec/original.jpg
+    sha256: b53de5994f1ba34916e3d27e4c63b2ea1ca50fb7aed929e4b24fc3ec231676ec
+    mime: image/jpeg
+    bytes: 3523387
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b5/3d/b53de5994f1ba34916e3d27e4c63b2ea1ca50fb7aed929e4b24fc3ec231676ec/preview-400.6c56fdbf0600.jpg
+        sha256: 6c56fdbf0600487303fa2076da607eb6094f45d68bd0679882e32cce051f3ef1
+        mime: image/jpeg
+        bytes: 41338
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

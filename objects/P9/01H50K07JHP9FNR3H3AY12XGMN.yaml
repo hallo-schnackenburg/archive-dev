@@ -1,0 +1,39 @@
+id: 01H50K07JHP9FNR3H3AY12XGMN
+type: image
+subtype: photo
+title: Hafen Prospekt am Morgen
+date: 1944-10-17
+location: Lüchow, Molkerei
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Erika Voss
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/05/e6/05e6af6ca8800e5a551b23684c8fbdd10ae8c38fa39006f1600d37a9c723be09/original.jpg
+    sha256: 05e6af6ca8800e5a551b23684c8fbdd10ae8c38fa39006f1600d37a9c723be09
+    mime: image/jpeg
+    bytes: 2333764
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/05/e6/05e6af6ca8800e5a551b23684c8fbdd10ae8c38fa39006f1600d37a9c723be09/preview-400.3398532a852b.jpg
+        sha256: 3398532a852bad77cf60469fc49dce10c4b08a5da4641726378fc60296d5c6da
+        mime: image/jpeg
+        bytes: 52651
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

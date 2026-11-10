@@ -1,0 +1,37 @@
+id: 01K8046ETJF9Z3J9H92GG0T93J
+type: image
+subtype: print
+title: Mühle Umzug nach dem Krieg
+date: "1925"
+location: Restorf, Hochwasser
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/f1/9a/f19a8b572c26edffea280a5f799bdb7aba08d01b30ef73dbe3be053899a94c26/original.tif
+    sha256: f19a8b572c26edffea280a5f799bdb7aba08d01b30ef73dbe3be053899a94c26
+    mime: image/tiff
+    bytes: 24779698
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f1/9a/f19a8b572c26edffea280a5f799bdb7aba08d01b30ef73dbe3be053899a94c26/preview-400.a50ebf5e8eca.jpg
+        sha256: a50ebf5e8eca996170e3b38efed2b22b0c44fa1c784c966f3b3eaf8706dfcbe4
+        mime: image/jpeg
+        bytes: 56838
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

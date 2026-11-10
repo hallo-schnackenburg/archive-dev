@@ -1,0 +1,53 @@
+id: 01FSHW5BQVND9Y0H5KAPPWJM2C
+type: document
+subtype: letter
+title: Fähre Gruppenbild zur Wende
+description: Schreibt über die Ernte und das Wetter.
+date: 1952-07-21
+language: de
+origin:
+  name: Helga Plate
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/f3/f5/f3f567f4598d24566b086f47c5d5f3cbbdd3adab431c31bd006079e3fa52ee73/original.tif
+    sha256: f3f567f4598d24566b086f47c5d5f3cbbdd3adab431c31bd006079e3fa52ee73
+    mime: image/tiff
+    bytes: 19870011
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f3/f5/f3f567f4598d24566b086f47c5d5f3cbbdd3adab431c31bd006079e3fa52ee73/preview-400.07e7fbf18a84.jpg
+        sha256: 07e7fbf18a843bbd689256f920cf41366539856faf10d8ff528bfb158f0777e8
+        mime: image/jpeg
+        bytes: 76445
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/b4/af/b4afeec1ea1311d6e1655054791034cee0a7e99d07003393a5d6c34cb0c7121f/original.tif
+    sha256: b4afeec1ea1311d6e1655054791034cee0a7e99d07003393a5d6c34cb0c7121f
+    mime: image/tiff
+    bytes: 19180732
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/af/b4afeec1ea1311d6e1655054791034cee0a7e99d07003393a5d6c34cb0c7121f/preview-400.f303a74ec7a4.jpg
+        sha256: f303a74ec7a4b90ec7b779440cd31e231931df3d8130477a66a8c1b1b20ba6a0
+        mime: image/jpeg
+        bytes: 36848
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

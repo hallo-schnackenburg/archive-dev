@@ -1,0 +1,39 @@
+id: 01M30F81RNE45CT9004YWYS06T
+type: image
+subtype: photo
+title: Bäckerei Protokoll vor dem Umbau
+date: 1932-05-23
+location: Gorleben, Fachwerkhaus
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/64/6b/646bb722093cdec6eca85ed8881934ddf2288ccee244a5fda4f214161ae918ff/original.jpg
+    sha256: 646bb722093cdec6eca85ed8881934ddf2288ccee244a5fda4f214161ae918ff
+    mime: image/jpeg
+    bytes: 9093200
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/64/6b/646bb722093cdec6eca85ed8881934ddf2288ccee244a5fda4f214161ae918ff/preview-400.6f03944b2699.jpg
+        sha256: 6f03944b26992cc3ee978a8fff08764e484cda41ff767adf0b2756c862f95554
+        mime: image/jpeg
+        bytes: 76676
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01HXYRF68N9PA6QATRG5H75FX5
+type: image
+subtype: photo
+title: Marktplatz Prospekt zur Wende
+date: 1891/1894
+location: Restorf, Elbufer
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/28/39/2839d5739ddc43f9a7a7acbf507909662e2a868436b3bcb7666df0a188eb4b21/original.jpg
+    sha256: 2839d5739ddc43f9a7a7acbf507909662e2a868436b3bcb7666df0a188eb4b21
+    mime: image/jpeg
+    bytes: 21695397
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/28/39/2839d5739ddc43f9a7a7acbf507909662e2a868436b3bcb7666df0a188eb4b21/preview-400.1a26364f728b.jpg
+        sha256: 1a26364f728ba16ecbfd29b8795e67cd0022f65df2d26d8f92d51cbcf822b1aa
+        mime: image/jpeg
+        bytes: 42842
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

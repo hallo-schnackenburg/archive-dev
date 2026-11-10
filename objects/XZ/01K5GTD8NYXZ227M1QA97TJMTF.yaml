@@ -1,0 +1,39 @@
+id: 01K5GTD8NYXZ227M1QA97TJMTF
+type: image
+subtype: photo
+title: Pfarrhaus Abriss am Sonntag
+date: "1985"
+location: Holtorf, Schützenfest
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/24/18/241866310709be8fd248707d229b5dbca0da8a65d661262047a3c9b5a7e2d964/original.jpg
+    sha256: 241866310709be8fd248707d229b5dbca0da8a65d661262047a3c9b5a7e2d964
+    mime: image/jpeg
+    bytes: 23336666
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/24/18/241866310709be8fd248707d229b5dbca0da8a65d661262047a3c9b5a7e2d964/preview-400.3388204da3ee.jpg
+        sha256: 3388204da3eebf876cef9ff907ca2db81b4b4ecb75925d08ce20e7903def5221
+        mime: image/jpeg
+        bytes: 24882
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,51 @@
+id: 01JFMXP6YDWN4ZZW0X3MGT3TNM
+type: document
+subtype: brochure
+title: Friedhof Bescheid am Morgen
+date: "1986"
+language: de
+origin:
+  name: Marta Lüders
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/40/9a/409aa8d7a4137631e9ec647bd5a18c4c7514457c5adc79d51217c9976dc5c2a0/original.tif
+    sha256: 409aa8d7a4137631e9ec647bd5a18c4c7514457c5adc79d51217c9976dc5c2a0
+    mime: image/tiff
+    bytes: 19099441
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/9a/409aa8d7a4137631e9ec647bd5a18c4c7514457c5adc79d51217c9976dc5c2a0/preview-400.6942bf3f9c15.jpg
+        sha256: 6942bf3f9c150f500791b17ba20eb227f682f52937bbc474da1e80e264fc9c89
+        mime: image/jpeg
+        bytes: 45617
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/7e/19/7e193519a5c410c812d9510883eff07a92aed6ceab4edf90dafa1e3492471363/original.tif
+    sha256: 7e193519a5c410c812d9510883eff07a92aed6ceab4edf90dafa1e3492471363
+    mime: image/tiff
+    bytes: 15744409
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7e/19/7e193519a5c410c812d9510883eff07a92aed6ceab4edf90dafa1e3492471363/preview-400.92b53055822b.jpg
+        sha256: 92b53055822b59aafaca19fcceac277563b9bf43ff22e1d86eedf30b493dbfd4
+        mime: image/jpeg
+        bytes: 61506
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

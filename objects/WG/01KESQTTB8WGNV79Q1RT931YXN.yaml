@@ -1,0 +1,34 @@
+id: 01KESQTTB8WGNV79Q1RT931YXN
+type: image
+subtype: plan
+title: Kirche St. Johannis Festtag bei Hochwasser
+date: 1873-07-12
+location: Pretzier, Fähre
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/dc/ca/dcca6e0a6f383b72ed9956ec9cc2900876a58a1f71808b534d119b14b16c86d8/original.tif
+    sha256: dcca6e0a6f383b72ed9956ec9cc2900876a58a1f71808b534d119b14b16c86d8
+    mime: image/tiff
+    bytes: 10018521
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/ca/dcca6e0a6f383b72ed9956ec9cc2900876a58a1f71808b534d119b14b16c86d8/preview-400.a99e5384fafe.jpg
+        sha256: a99e5384fafefc80ae34c52f0b0654f29510a35c6dc8afe9657c7dfbc4733a31
+        mime: image/jpeg
+        bytes: 47647
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

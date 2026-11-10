@@ -1,0 +1,39 @@
+id: 01JVY2K42D41GXE3JM0AG0PPAG
+type: image
+subtype: photo
+title: Hafen Festtag am Sonntag
+description: Gemeindehaus und brunnen, im Winter.
+date: "1883"
+location: Lenzen, Marktplatz
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Gerda Schulz
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/b1/c4/b1c4a96bb59aafbcdfdbdbdf295fc59c4b4b2405daaa1ee1563256620034c87b/original.jpg
+    sha256: b1c4a96bb59aafbcdfdbdbdf295fc59c4b4b2405daaa1ee1563256620034c87b
+    mime: image/jpeg
+    bytes: 24506011
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b1/c4/b1c4a96bb59aafbcdfdbdbdf295fc59c4b4b2405daaa1ee1563256620034c87b/preview-400.e4257d77bad7.jpg
+        sha256: e4257d77bad792a8027f4643c9339bbe01ced75e6aaf9cac28d7bdf23a56eade
+        mime: image/jpeg
+        bytes: 44874
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

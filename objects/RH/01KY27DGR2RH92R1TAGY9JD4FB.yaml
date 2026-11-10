@@ -1,0 +1,35 @@
+id: 01KY27DGR2RH92R1TAGY9JD4FB
+type: image
+subtype: photo
+title: Dorfschule Entwurf im Sommer
+date: 1966/1969
+location: Kapern, Schützenfest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/39/8b/398b60d1e4703771885e93e990804f89186d0f7dc4d777611d504110c70ca71c/original.jpg
+    sha256: 398b60d1e4703771885e93e990804f89186d0f7dc4d777611d504110c70ca71c
+    mime: image/jpeg
+    bytes: 6065314
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/39/8b/398b60d1e4703771885e93e990804f89186d0f7dc4d777611d504110c70ca71c/preview-400.4666be736f3b.jpg
+        sha256: 4666be736f3b355a70963c3055d387a0e403d04e8dc08f0e561ed72b726fddbc
+        mime: image/jpeg
+        bytes: 66244
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

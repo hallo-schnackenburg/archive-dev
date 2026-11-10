@@ -1,0 +1,51 @@
+id: 01FGJFWJN0PH4HJ5B1DCPF4VNC
+type: document
+subtype: brochure
+title: Hochwasser Rechnung zur Ernte
+date: "1941"
+language: de
+origin:
+  name: Hans Brandt
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/fa/b3/fab356c8ccdf1715ae7364dd3d2f11b16fe13848721ecfacfbc04ded4dd0cd7e/original.tif
+    sha256: fab356c8ccdf1715ae7364dd3d2f11b16fe13848721ecfacfbc04ded4dd0cd7e
+    mime: image/tiff
+    bytes: 8283045
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fa/b3/fab356c8ccdf1715ae7364dd3d2f11b16fe13848721ecfacfbc04ded4dd0cd7e/preview-400.65ffe854d884.jpg
+        sha256: 65ffe854d884a352e780a95b8c6fcec21c50b45a70e986c8eb573ebb29362fe3
+        mime: image/jpeg
+        bytes: 63219
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/96/86/96861b11a456a52522380ae5245e5826b45685466a0bd52400a6bbc1a62cc997/original.tif
+    sha256: 96861b11a456a52522380ae5245e5826b45685466a0bd52400a6bbc1a62cc997
+    mime: image/tiff
+    bytes: 19197419
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/96/86/96861b11a456a52522380ae5245e5826b45685466a0bd52400a6bbc1a62cc997/preview-400.a7b21d79038c.jpg
+        sha256: a7b21d79038c9992204d375bcf922d8f1149d116240ca21864ce1ce3320c000b
+        mime: image/jpeg
+        bytes: 86286
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

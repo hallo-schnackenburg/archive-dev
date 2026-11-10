@@ -1,0 +1,39 @@
+id: 01KXR6CX7QZMGTEZ2257293EYP
+type: image
+subtype: photo
+title: Mühle Umzug zur Wende
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: "1851"
+location: Lüchow, Molkerei
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Marta Lüders
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/f2/3c/f23c59b921a5a670083614ddebaea263b591e5bbb82316d751c660acc35b45cc/original.jpg
+    sha256: f23c59b921a5a670083614ddebaea263b591e5bbb82316d751c660acc35b45cc
+    mime: image/jpeg
+    bytes: 24455539
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f2/3c/f23c59b921a5a670083614ddebaea263b591e5bbb82316d751c660acc35b45cc/preview-400.5f7431b9d8b3.jpg
+        sha256: 5f7431b9d8b380692e56dc1d82223df89c4ad6db3a816177801aa16463b690c9
+        mime: image/jpeg
+        bytes: 51546
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

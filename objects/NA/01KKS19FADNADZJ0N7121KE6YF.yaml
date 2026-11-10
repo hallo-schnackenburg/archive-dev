@@ -1,0 +1,53 @@
+id: 01KKS19FADNADZJ0N7121KE6YF
+type: document
+subtype: letter
+title: Feuerwehr Umbau im Sommer
+description: Schreibt über die Ernte und das Wetter.
+date: 1921-08-01
+language: de
+origin:
+  name: Marta Lüders
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/8b/f7/8bf7943f15fa7b37ba4ee8803896108463731345314251f5c3c36e1584b4b23d/original.tif
+    sha256: 8bf7943f15fa7b37ba4ee8803896108463731345314251f5c3c36e1584b4b23d
+    mime: image/tiff
+    bytes: 17159064
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8b/f7/8bf7943f15fa7b37ba4ee8803896108463731345314251f5c3c36e1584b4b23d/preview-400.0a4dacd2594d.jpg
+        sha256: 0a4dacd2594d5066acb5faba7c50edbf3561823e4e9d3cc478cf5f9491ffb0bd
+        mime: image/jpeg
+        bytes: 81790
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/ef/f7/eff7cb615e95534645b7436a7ab7282ed8d9563cfc5b6dc145f8a51d8a53199b/original.tif
+    sha256: eff7cb615e95534645b7436a7ab7282ed8d9563cfc5b6dc145f8a51d8a53199b
+    mime: image/tiff
+    bytes: 3213786
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ef/f7/eff7cb615e95534645b7436a7ab7282ed8d9563cfc5b6dc145f8a51d8a53199b/preview-400.510b78c9e264.jpg
+        sha256: 510b78c9e264906ca9696d4aa2a1d60d7584c077b6ff289155b918acb368cc30
+        mime: image/jpeg
+        bytes: 21965
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

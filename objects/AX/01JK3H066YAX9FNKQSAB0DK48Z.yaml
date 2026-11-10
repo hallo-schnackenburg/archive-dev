@@ -1,0 +1,29 @@
+id: 01JK3H066YAX9FNKQSAB0DK48Z
+type: image
+subtype: plan
+title: Mühle Rechnung zur Ernte
+date: 1896-05
+location: Restorf, Kirche St. Johannis
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: bauplan_feuerwehr.tif
+    path: files/fe/e8/fee850114e45dd035045d72b582a5ab1754065e07ebc5a8ab47d721887c36e6a/original.tif
+    sha256: fee850114e45dd035045d72b582a5ab1754065e07ebc5a8ab47d721887c36e6a
+    mime: image/tiff
+    bytes: 7022013
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fe/e8/fee850114e45dd035045d72b582a5ab1754065e07ebc5a8ab47d721887c36e6a/preview-400.c1daaa911150.jpg
+        sha256: c1daaa9111507a214753f7422f5b13567a606bf41dcc9b38c3393b5ae8948b72
+        mime: image/jpeg
+        bytes: 73892
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01J860Z55ZQNK4PJY4VYB254NG
+type: image
+subtype: plan
+title: Bahnhof Besuch im Sommer
+date: 1894-04-11
+location: Holtorf, Brunnen
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/d7/14/d714f37f9fc59924110f9c3be3683224bbf214395f1f1df0a4a6e078b20e7f2f/original.tif
+    sha256: d714f37f9fc59924110f9c3be3683224bbf214395f1f1df0a4a6e078b20e7f2f
+    mime: image/tiff
+    bytes: 1420182
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/14/d714f37f9fc59924110f9c3be3683224bbf214395f1f1df0a4a6e078b20e7f2f/preview-400.0193b82ad402.jpg
+        sha256: 0193b82ad40228caa4e85d619ac45601bd0836a44c5718c7697b863c4c6bddc1
+        mime: image/jpeg
+        bytes: 40714
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

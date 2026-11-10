@@ -1,0 +1,39 @@
+id: 01KC0X8YVS1D2HDFM3CPJ10GJ6
+type: image
+subtype: photo
+title: Schmiede Ansicht im Winter
+date: 1918-11-11
+location: Gorleben, Hafen
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Walter Kuhlmann
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/a3/e9/a3e90ee667d77907bc6347e740c367e9a3887c8a8482543cea8764065be19b1f/original.jpg
+    sha256: a3e90ee667d77907bc6347e740c367e9a3887c8a8482543cea8764065be19b1f
+    mime: image/jpeg
+    bytes: 26535899
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a3/e9/a3e90ee667d77907bc6347e740c367e9a3887c8a8482543cea8764065be19b1f/preview-400.2c1f6e8540f7.jpg
+        sha256: 2c1f6e8540f7c70761d42106f24aaa37e4a5620fa8084992b7fee2e068ebc96f
+        mime: image/jpeg
+        bytes: 68135
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

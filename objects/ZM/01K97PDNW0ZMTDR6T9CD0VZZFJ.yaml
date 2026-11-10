@@ -1,0 +1,53 @@
+id: 01K97PDNW0ZMTDR6T9CD0VZZFJ
+type: document
+subtype: letter
+title: Bäckerei Bescheid zur Ernte
+description: Bäckerei und gemeindehaus, nach dem Krieg.
+date: 2002-07
+language: de
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/f0/d4/f0d42f7454b913dde2cfe76be2ece9fa05634f36efc3a61f2b6fc98af5994c6a/original.tif
+    sha256: f0d42f7454b913dde2cfe76be2ece9fa05634f36efc3a61f2b6fc98af5994c6a
+    mime: image/tiff
+    bytes: 21668628
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/d4/f0d42f7454b913dde2cfe76be2ece9fa05634f36efc3a61f2b6fc98af5994c6a/preview-400.9b48f81fc293.jpg
+        sha256: 9b48f81fc293ad6ad2c45b35f1618834b7f868d126b7ac89f7f9e71d7bfe36e3
+        mime: image/jpeg
+        bytes: 75217
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/46/e2/46e2acf96725d39dabc818b52468243dff69cdce0f09808177711d3a5179dab6/original.tif
+    sha256: 46e2acf96725d39dabc818b52468243dff69cdce0f09808177711d3a5179dab6
+    mime: image/tiff
+    bytes: 9633251
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/46/e2/46e2acf96725d39dabc818b52468243dff69cdce0f09808177711d3a5179dab6/preview-400.f98112a9bd6b.jpg
+        sha256: f98112a9bd6b02fca8f900a530503a7e94101432fcefad149115d044ceca6401
+        mime: image/jpeg
+        bytes: 24453
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

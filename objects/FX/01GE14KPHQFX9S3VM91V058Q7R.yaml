@@ -1,0 +1,35 @@
+id: 01GE14KPHQFX9S3VM91V058Q7R
+type: image
+subtype: photo
+title: Schmiede Einladung im Winter
+date: 1872-08
+location: Schnackenburg, Kindergarten
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/b0/ce/b0ceb617193608929c05a037e90f4168b0601361c376261bf152d509f40d2307/original.jpg
+    sha256: b0ceb617193608929c05a037e90f4168b0601361c376261bf152d509f40d2307
+    mime: image/jpeg
+    bytes: 8684992
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b0/ce/b0ceb617193608929c05a037e90f4168b0601361c376261bf152d509f40d2307/preview-400.cd7a3c4e2a27.jpg
+        sha256: cd7a3c4e2a270f28ab8cac83b55b2fe8010aa7cf44c2fb18f2245f2cc6b121d3
+        mime: image/jpeg
+        bytes: 29254
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

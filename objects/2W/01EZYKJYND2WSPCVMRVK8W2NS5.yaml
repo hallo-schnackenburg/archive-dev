@@ -1,0 +1,35 @@
+id: 01EZYKJYND2WSPCVMRVK8W2NS5
+type: image
+subtype: photo
+title: Dorfschule Notiz am Sonntag
+date: 1968-03-07
+location: Schnackenburg, Molkerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/09/50/0950a2af91c848221eb9eabf281a43ab04f98fc930dc186308c2e66b73dee8e8/original.jpg
+    sha256: 0950a2af91c848221eb9eabf281a43ab04f98fc930dc186308c2e66b73dee8e8
+    mime: image/jpeg
+    bytes: 13164827
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/09/50/0950a2af91c848221eb9eabf281a43ab04f98fc930dc186308c2e66b73dee8e8/preview-400.88854f50372f.jpg
+        sha256: 88854f50372f07fd7cef980471932eb351c1358ee310dc429f6ad308d18ed62d
+        mime: image/jpeg
+        bytes: 56947
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

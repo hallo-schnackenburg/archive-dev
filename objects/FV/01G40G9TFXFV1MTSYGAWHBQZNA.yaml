@@ -1,0 +1,51 @@
+id: 01G40G9TFXFV1MTSYGAWHBQZNA
+type: document
+subtype: brochure
+title: Friedhof Einladung im Winter
+date: 1996-10-16
+language: de
+origin:
+  name: Otto Hennings
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/56/72/56721562d043492fecb4cf9d57c8c0831ee1b60315ce5b61270913099ee774cf/original.tif
+    sha256: 56721562d043492fecb4cf9d57c8c0831ee1b60315ce5b61270913099ee774cf
+    mime: image/tiff
+    bytes: 23721030
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/56/72/56721562d043492fecb4cf9d57c8c0831ee1b60315ce5b61270913099ee774cf/preview-400.b83045bd2697.jpg
+        sha256: b83045bd2697f391dace8bf022fec6f48dd7c00f70348e26e0e52c2eed5bd12e
+        mime: image/jpeg
+        bytes: 86960
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/25/e4/25e4f6ecc91283cbcade359393622a7e7475d07ed7281ecf2c544ff21d1fd629/original.tif
+    sha256: 25e4f6ecc91283cbcade359393622a7e7475d07ed7281ecf2c544ff21d1fd629
+    mime: image/tiff
+    bytes: 14607370
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/25/e4/25e4f6ecc91283cbcade359393622a7e7475d07ed7281ecf2c544ff21d1fd629/preview-400.9869e8125ed0.jpg
+        sha256: 9869e8125ed06db4a22cedcd03e296ae42ecf3ae11524963a78295603117e0f1
+        mime: image/jpeg
+        bytes: 62712
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

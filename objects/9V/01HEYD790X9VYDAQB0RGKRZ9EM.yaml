@@ -1,0 +1,35 @@
+id: 01HEYD790X9VYDAQB0RGKRZ9EM
+type: image
+subtype: photo
+title: Mühle Gruppenbild zur Ernte
+date: 2013~
+location: Pretzier, Mühle
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/36/34/3634d97f5784fda92a259a4cb17479247baade36f3529af064ac241d74120055/original.jpg
+    sha256: 3634d97f5784fda92a259a4cb17479247baade36f3529af064ac241d74120055
+    mime: image/jpeg
+    bytes: 25783423
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/36/34/3634d97f5784fda92a259a4cb17479247baade36f3529af064ac241d74120055/preview-400.05d0af1316a4.jpg
+        sha256: 05d0af1316a4b819f601cc18100304675470c6b925d13dfdd343ea77474f010f
+        mime: image/jpeg
+        bytes: 58690
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,51 @@
+id: 01FYSFB5K6HVM2WS3A69DY3PBR
+type: document
+subtype: brochure
+title: Storchennest Bericht am Sonntag
+date: 1955-08-20
+language: de
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/b6/df/b6df3648310cd75c5b12d391d24d7383a643a801a918739af0b4cdfc2e94cfe7/original.tif
+    sha256: b6df3648310cd75c5b12d391d24d7383a643a801a918739af0b4cdfc2e94cfe7
+    mime: image/tiff
+    bytes: 19403664
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b6/df/b6df3648310cd75c5b12d391d24d7383a643a801a918739af0b4cdfc2e94cfe7/preview-400.c08466277fb3.jpg
+        sha256: c08466277fb30eebc13c82547c802e13d4c746e03f8f88b38333dcfd57b1ef85
+        mime: image/jpeg
+        bytes: 53695
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/55/3f/553f736eb30d46ef99f59a331136d460b6f85f0a816b494045d5126658a1cb19/original.tif
+    sha256: 553f736eb30d46ef99f59a331136d460b6f85f0a816b494045d5126658a1cb19
+    mime: image/tiff
+    bytes: 20961594
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/55/3f/553f736eb30d46ef99f59a331136d460b6f85f0a816b494045d5126658a1cb19/preview-400.15619956309d.jpg
+        sha256: 15619956309d6149e430cc860f47ef8518a61b07475d0164cada0aab020ba16b
+        mime: image/jpeg
+        bytes: 37354
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

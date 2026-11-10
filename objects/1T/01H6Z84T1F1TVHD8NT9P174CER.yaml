@@ -1,0 +1,34 @@
+id: 01H6Z84T1F1TVHD8NT9P174CER
+type: image
+subtype: print
+title: Schützenfest Ansicht im Sommer
+description: Kupferstich.
+date: 1961~
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/9f/d7/9fd7bed86228a7a9244875f0c959946f234eb9e3a86d4e181c500001db998dee/original.tif
+    sha256: 9fd7bed86228a7a9244875f0c959946f234eb9e3a86d4e181c500001db998dee
+    mime: image/tiff
+    bytes: 18254031
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9f/d7/9fd7bed86228a7a9244875f0c959946f234eb9e3a86d4e181c500001db998dee/preview-400.dd4b18394e37.jpg
+        sha256: dd4b18394e3732c0996f74acb153dc0f1f3fa84d537ae59945f7a7869600332f
+        mime: image/jpeg
+        bytes: 66678
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

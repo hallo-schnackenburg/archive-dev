@@ -1,0 +1,51 @@
+id: 01EVGQBN6Y2804ST0AQHYTY4NZ
+type: document
+subtype: brochure
+title: Storchennest Bericht vor dem Umbau
+date: "1885"
+language: de
+origin:
+  name: Karl Lemke
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/d4/4a/d44a780a2d30ce8f3dd57ca0fc776e242965864ba15599b6d976f781779f4284/original.tif
+    sha256: d44a780a2d30ce8f3dd57ca0fc776e242965864ba15599b6d976f781779f4284
+    mime: image/tiff
+    bytes: 1553491
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/4a/d44a780a2d30ce8f3dd57ca0fc776e242965864ba15599b6d976f781779f4284/preview-400.3b5ebcf980f0.jpg
+        sha256: 3b5ebcf980f0d773f6c7831ed2def99388c88203ddb373d377e0bd263e64f80b
+        mime: image/jpeg
+        bytes: 89183
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/97/e6/97e68a0072bb274fae0344a950af11dfcb269f25b66d711a34820a6caed14e75/original.tif
+    sha256: 97e68a0072bb274fae0344a950af11dfcb269f25b66d711a34820a6caed14e75
+    mime: image/tiff
+    bytes: 18672805
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/e6/97e68a0072bb274fae0344a950af11dfcb269f25b66d711a34820a6caed14e75/preview-400.265c90e1a0a6.jpg
+        sha256: 265c90e1a0a6b310da68b51563a98f01a68f3c4718b45c453cbba017e004b460
+        mime: image/jpeg
+        bytes: 42553
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

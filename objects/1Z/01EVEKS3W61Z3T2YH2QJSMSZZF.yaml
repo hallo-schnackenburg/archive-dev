@@ -1,0 +1,39 @@
+id: 01EVEKS3W61Z3T2YH2QJSMSZZF
+type: image
+subtype: photo
+title: Brücke Besuch im Winter
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1865-07-20
+location: Holtorf, Kindergarten
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Walter Kuhlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/c4/6b/c46b5b746bc061f245226a941da15402fd1e199eaa4961a0cb9fb65f761ad77e/original.jpg
+    sha256: c46b5b746bc061f245226a941da15402fd1e199eaa4961a0cb9fb65f761ad77e
+    mime: image/jpeg
+    bytes: 8465065
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c4/6b/c46b5b746bc061f245226a941da15402fd1e199eaa4961a0cb9fb65f761ad77e/preview-400.209665f92be1.jpg
+        sha256: 209665f92be1ca9dff8bf7cf8e48be0003da855aeb613a789fe5198744507349
+        mime: image/jpeg
+        bytes: 49376
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

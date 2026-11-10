@@ -1,0 +1,35 @@
+id: 01GH1M5YPNDHBVC161H0F9X32Z
+type: image
+subtype: photo
+title: Dorfteich Jubiläum zur Wende
+date: 1931-09
+location: Lüchow, Pfarrhaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/53/64/5364f0f11326ce9883961cc795396c5fa36398b89f27725d7c88505d9577bb2b/original.jpg
+    sha256: 5364f0f11326ce9883961cc795396c5fa36398b89f27725d7c88505d9577bb2b
+    mime: image/jpeg
+    bytes: 9649404
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/53/64/5364f0f11326ce9883961cc795396c5fa36398b89f27725d7c88505d9577bb2b/preview-400.957cb37bd3d0.jpg
+        sha256: 957cb37bd3d0c02a7d9a64ab7df92749361c912d86f3684648fedc250460d03c
+        mime: image/jpeg
+        bytes: 69672
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

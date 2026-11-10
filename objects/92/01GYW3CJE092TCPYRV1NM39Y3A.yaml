@@ -1,0 +1,53 @@
+id: 01GYW3CJE092TCPYRV1NM39Y3A
+type: document
+subtype: letter
+title: Fachwerkhaus Ansicht im Sommer
+description: Schmiede und bäckerei, am Morgen.
+date: 1851-04-11
+language: de
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/75/c3/75c3c14185a43d3ba7ec53c76329cb5b31cbeec81f0ded6f7598b213ea395930/original.tif
+    sha256: 75c3c14185a43d3ba7ec53c76329cb5b31cbeec81f0ded6f7598b213ea395930
+    mime: image/tiff
+    bytes: 13645895
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/75/c3/75c3c14185a43d3ba7ec53c76329cb5b31cbeec81f0ded6f7598b213ea395930/preview-400.2868195b23b7.jpg
+        sha256: 2868195b23b728fa5b19bc63951acec1119249290c2eb150ed28176ff88f999d
+        mime: image/jpeg
+        bytes: 55090
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/59/51/59519a8711c8ed359a3f4331bb71e8f2157b7597d7c86d2ea490caee424228c6/original.tif
+    sha256: 59519a8711c8ed359a3f4331bb71e8f2157b7597d7c86d2ea490caee424228c6
+    mime: image/tiff
+    bytes: 10509233
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/59/51/59519a8711c8ed359a3f4331bb71e8f2157b7597d7c86d2ea490caee424228c6/preview-400.b0c266ad2130.jpg
+        sha256: b0c266ad213069e61658aad4d8c792f461dd9241cf6efd850d9dd2461e6ba0e2
+        mime: image/jpeg
+        bytes: 77357
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

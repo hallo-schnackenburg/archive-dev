@@ -1,0 +1,39 @@
+id: 01HQ6KMZDKDVGA6R288PR8FJS5
+type: image
+subtype: photo
+title: Fachwerkhaus Bescheid im Winter
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 2009-01-18
+location: Kapern, Pfarrhaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Anni Jeß
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/f5/f4/f5f46adcea18c361a365bd1cc42d0656370b78eddc47bf90b15ac8cf9eb230b7/original.jpg
+    sha256: f5f46adcea18c361a365bd1cc42d0656370b78eddc47bf90b15ac8cf9eb230b7
+    mime: image/jpeg
+    bytes: 12723163
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f5/f4/f5f46adcea18c361a365bd1cc42d0656370b78eddc47bf90b15ac8cf9eb230b7/preview-400.7e7877c77b51.jpg
+        sha256: 7e7877c77b51019e85ad8bce1f311de077d6c430b12288b371253955949fa2f8
+        mime: image/jpeg
+        bytes: 50745
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

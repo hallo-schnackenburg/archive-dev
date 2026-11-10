@@ -1,0 +1,53 @@
+id: 01H3NERFN17N0P7MJ0ZXH4DQRB
+type: document
+subtype: letter
+title: Zollamt Einladung im Winter
+description: Schreibt über die Ernte und das Wetter.
+date: 1986-12-21
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/2b/7c/2b7c4259813d1635c5c60f1f711559d3ac361c1984e321d4641fb997d5a6818e/original.tif
+    sha256: 2b7c4259813d1635c5c60f1f711559d3ac361c1984e321d4641fb997d5a6818e
+    mime: image/tiff
+    bytes: 26460304
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2b/7c/2b7c4259813d1635c5c60f1f711559d3ac361c1984e321d4641fb997d5a6818e/preview-400.51af4eaa1450.jpg
+        sha256: 51af4eaa1450aaf0236830c84b673ab34dd769e21ffef9febbad8c5bbd313a8d
+        mime: image/jpeg
+        bytes: 27352
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/9f/8a/9f8a645191ec5293bcdc8b8645bf96c4a121e14dc921b8fbd3aacc8833f657a0/original.tif
+    sha256: 9f8a645191ec5293bcdc8b8645bf96c4a121e14dc921b8fbd3aacc8833f657a0
+    mime: image/tiff
+    bytes: 4766653
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9f/8a/9f8a645191ec5293bcdc8b8645bf96c4a121e14dc921b8fbd3aacc8833f657a0/preview-400.dd48b2df43c3.jpg
+        sha256: dd48b2df43c3f8b016c544b91e05cb31153f4659bc152309213e88e51a45d77e
+        mime: image/jpeg
+        bytes: 63660
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

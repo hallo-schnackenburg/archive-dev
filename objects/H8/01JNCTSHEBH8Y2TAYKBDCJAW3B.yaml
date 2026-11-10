@@ -1,0 +1,39 @@
+id: 01JNCTSHEBH8Y2TAYKBDCJAW3B
+type: image
+subtype: photo
+title: Hochwasser Brief im Sommer
+date: 1925~
+location: Schnackenburg, Hochwasser
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Fritz Bohlmann
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/58/6f/586f869ab2db117d53e65f3b4569ebbf6ff10c05757cff17a33b775f3b168aaa/original.jpg
+    sha256: 586f869ab2db117d53e65f3b4569ebbf6ff10c05757cff17a33b775f3b168aaa
+    mime: image/jpeg
+    bytes: 18214222
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/58/6f/586f869ab2db117d53e65f3b4569ebbf6ff10c05757cff17a33b775f3b168aaa/preview-400.937665957f82.jpg
+        sha256: 937665957f82208ff39c34d057822cd786cf25eab19f93a6d21c6c89b98ad0b3
+        mime: image/jpeg
+        bytes: 55940
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

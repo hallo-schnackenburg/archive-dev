@@ -1,0 +1,51 @@
+id: 01HFYSY38C1HJ7VV10BQWRMVZW
+type: document
+subtype: brochure
+title: Sportplatz Entwurf nach dem Krieg
+date: 1899-06-24
+language: de
+origin:
+  name: Karl Lemke
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/de/17/de171d8369f6e125e170136600c2088428bb34371d4bb826c320342ac334cd4b/original.tif
+    sha256: de171d8369f6e125e170136600c2088428bb34371d4bb826c320342ac334cd4b
+    mime: image/tiff
+    bytes: 12194216
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/17/de171d8369f6e125e170136600c2088428bb34371d4bb826c320342ac334cd4b/preview-400.44f489a00fb7.jpg
+        sha256: 44f489a00fb7e43e3945ca73d3d06af5318e06da08d8f3851a6d7b8232c72e1a
+        mime: image/jpeg
+        bytes: 50397
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/8f/25/8f25b633ecd0ccd2f4bc11df8fa6939cdfecca34368ce215ed2d2dd61627151c/original.tif
+    sha256: 8f25b633ecd0ccd2f4bc11df8fa6939cdfecca34368ce215ed2d2dd61627151c
+    mime: image/tiff
+    bytes: 10589226
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8f/25/8f25b633ecd0ccd2f4bc11df8fa6939cdfecca34368ce215ed2d2dd61627151c/preview-400.5479f5454afe.jpg
+        sha256: 5479f5454afeb677cedd5af988a0f017d6d32d25014b66cd02c70b41a2ddfdbf
+        mime: image/jpeg
+        bytes: 72416
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

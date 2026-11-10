@@ -1,0 +1,35 @@
+id: 01KJMD4RVR97605MK619M4WQN7
+type: image
+subtype: photo
+title: Bäckerei Prospekt im Winter
+date: 1949/1951
+location: Gartow, Elbufer
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/ae/2d/ae2deadce549dbd0413ff7fc464448a88d9c101149c37db89b453e49b7ed4689/original.jpg
+    sha256: ae2deadce549dbd0413ff7fc464448a88d9c101149c37db89b453e49b7ed4689
+    mime: image/jpeg
+    bytes: 6630728
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ae/2d/ae2deadce549dbd0413ff7fc464448a88d9c101149c37db89b453e49b7ed4689/preview-400.ac992fdf0fab.jpg
+        sha256: ac992fdf0fab553bf6d346a8eec9beaaa75b64b04129987166236052a9ec2cf3
+        mime: image/jpeg
+        bytes: 89768
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

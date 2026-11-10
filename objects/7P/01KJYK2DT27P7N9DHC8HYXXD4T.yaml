@@ -1,0 +1,34 @@
+id: 01KJYK2DT27P7N9DHC8HYXXD4T
+type: image
+subtype: print
+title: Elbdeich Zeichnung vor dem Umbau
+description: Kupferstich.
+date: 1875-03
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/46/53/4653cdc28d5f42aa75596abfc2831bbaf80e4b6b1eb12738edec95bef3cdf17b/original.tif
+    sha256: 4653cdc28d5f42aa75596abfc2831bbaf80e4b6b1eb12738edec95bef3cdf17b
+    mime: image/tiff
+    bytes: 3189860
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/46/53/4653cdc28d5f42aa75596abfc2831bbaf80e4b6b1eb12738edec95bef3cdf17b/preview-400.600c27f76525.jpg
+        sha256: 600c27f76525a072d344cd7f18925baae67113f6aa92e94571e6e5fa196e98a9
+        mime: image/jpeg
+        bytes: 39374
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

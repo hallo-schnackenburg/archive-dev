@@ -1,0 +1,39 @@
+id: 01G96GH0HJH09MPSQ3ETGMMT5A
+type: image
+subtype: photo
+title: Brunnen Umbau zur Wende
+description: Kindergarten und feuerwehr, nach dem Krieg.
+date: "1941"
+location: Pretzier, Fähre
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Dieter Ahrens
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/93/48/9348e67b0d0ca8f42f4c47135aeb9975180cc71ad438360acc47f99325b47997/original.jpg
+    sha256: 9348e67b0d0ca8f42f4c47135aeb9975180cc71ad438360acc47f99325b47997
+    mime: image/jpeg
+    bytes: 22966774
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/93/48/9348e67b0d0ca8f42f4c47135aeb9975180cc71ad438360acc47f99325b47997/preview-400.3756c16503bc.jpg
+        sha256: 3756c16503bcf0695095dbf5887c5d2402c7e47be22ea35f8f52cb7b23cfadad
+        mime: image/jpeg
+        bytes: 80708
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

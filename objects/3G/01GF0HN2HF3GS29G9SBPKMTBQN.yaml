@@ -1,0 +1,51 @@
+id: 01GF0HN2HF3GS29G9SBPKMTBQN
+type: document
+subtype: brochure
+title: Bäckerei Ansicht zur Wende
+date: 1918-12-21
+language: de
+origin:
+  name: Marta Lüders
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/fc/b3/fcb326913fc45f99d529f954f06d5d84fb44b9e0ac669fa55a9b28b4027d05ee/original.tif
+    sha256: fcb326913fc45f99d529f954f06d5d84fb44b9e0ac669fa55a9b28b4027d05ee
+    mime: image/tiff
+    bytes: 15070832
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/b3/fcb326913fc45f99d529f954f06d5d84fb44b9e0ac669fa55a9b28b4027d05ee/preview-400.7307b2b1d75c.jpg
+        sha256: 7307b2b1d75c708b915f73f2f0a43829c417835aa3ad3296d71887eb61ff7403
+        mime: image/jpeg
+        bytes: 63221
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/a9/5f/a95fd86b0ead867178a18b6129903d8945ca88ef52a383d2b92d7283df57f234/original.tif
+    sha256: a95fd86b0ead867178a18b6129903d8945ca88ef52a383d2b92d7283df57f234
+    mime: image/tiff
+    bytes: 12971917
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a9/5f/a95fd86b0ead867178a18b6129903d8945ca88ef52a383d2b92d7283df57f234/preview-400.980f42770c99.jpg
+        sha256: 980f42770c99239e3318ac574e3232ec87f1c6a7e2985fbeb1cde3f9a27e92b0
+        mime: image/jpeg
+        bytes: 44302
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

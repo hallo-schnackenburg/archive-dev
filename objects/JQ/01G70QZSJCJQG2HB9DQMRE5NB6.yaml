@@ -1,0 +1,34 @@
+id: 01G70QZSJCJQG2HB9DQMRE5NB6
+type: image
+subtype: plan
+title: Mühle Prospekt zur Wende
+date: 2018-03-14
+location: Lüchow, Fähre
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/e7/4b/e74b86403f866680a952abb6d3942f863265621fab06577bfb7f8b1ee280de54/original.tif
+    sha256: e74b86403f866680a952abb6d3942f863265621fab06577bfb7f8b1ee280de54
+    mime: image/tiff
+    bytes: 17099099
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e7/4b/e74b86403f866680a952abb6d3942f863265621fab06577bfb7f8b1ee280de54/preview-400.7f630ac51730.jpg
+        sha256: 7f630ac517304768ff11ca6f0cedffed3754a00bd20ca6dc2c92ca35b81442e1
+        mime: image/jpeg
+        bytes: 56525
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

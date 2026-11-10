@@ -1,0 +1,39 @@
+id: 01H4CKR4X3DKYJ06RHQ9G3GV72
+type: image
+subtype: photo
+title: Gemeindehaus Brief nach dem Krieg
+description: Brunnen und dorfteich, im Winter.
+date: 1931-08
+location: Seedorf, Kindergarten
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Wilhelm Krüger
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/30/4b/304b1dd0f7569b0e0c184c4966b2aecb2277f426dcf3577811d0ffb3994681de/original.jpg
+    sha256: 304b1dd0f7569b0e0c184c4966b2aecb2277f426dcf3577811d0ffb3994681de
+    mime: image/jpeg
+    bytes: 13489066
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/30/4b/304b1dd0f7569b0e0c184c4966b2aecb2277f426dcf3577811d0ffb3994681de/preview-400.09db9eedca57.jpg
+        sha256: 09db9eedca578bc05870b3f8df89eeb4d1d33add9688221ecc9d46fd046894db
+        mime: image/jpeg
+        bytes: 50072
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

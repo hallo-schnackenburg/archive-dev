@@ -1,0 +1,53 @@
+id: 01F2Q3FBWRRJKJ5DDF2G59D1R5
+type: document
+subtype: letter
+title: Kirche St. Johannis Jubiläum im Winter
+description: Schreibt über die Ernte und das Wetter.
+date: 1877/1880
+language: de
+origin:
+  name: Helga Plate
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/c6/07/c60793207f24a0fbbef28b3105720a95f734d31d02c0a6f1d571b286e1806edc/original.tif
+    sha256: c60793207f24a0fbbef28b3105720a95f734d31d02c0a6f1d571b286e1806edc
+    mime: image/tiff
+    bytes: 24172857
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/07/c60793207f24a0fbbef28b3105720a95f734d31d02c0a6f1d571b286e1806edc/preview-400.9e43198a981f.jpg
+        sha256: 9e43198a981f48e803223b1e2aff29e61baba880af45137e758cb99366153cd1
+        mime: image/jpeg
+        bytes: 74039
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/2e/fb/2efb9ef7f730eacdb8cd69909c783aa372e3e8e569c7429e677a2c38617106cb/original.tif
+    sha256: 2efb9ef7f730eacdb8cd69909c783aa372e3e8e569c7429e677a2c38617106cb
+    mime: image/tiff
+    bytes: 2307816
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/fb/2efb9ef7f730eacdb8cd69909c783aa372e3e8e569c7429e677a2c38617106cb/preview-400.9c7633ee8ff4.jpg
+        sha256: 9c7633ee8ff4e99b9304a6a0f7c84a7d39f60cb6c5f666b682e73db9fd5f4c54
+        mime: image/jpeg
+        bytes: 39183
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

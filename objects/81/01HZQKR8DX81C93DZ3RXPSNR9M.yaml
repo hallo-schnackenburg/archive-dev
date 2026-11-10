@@ -1,0 +1,39 @@
+id: 01HZQKR8DX81C93DZ3RXPSNR9M
+type: image
+subtype: photo
+title: Friedhof Prospekt nach dem Krieg
+description: Marktplatz und gasthof, am Morgen.
+date: 2010-08-10
+location: Lüchow, Gasthof
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Karl Lemke
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/3c/fe/3cfe09a92653472a90e14e2390861da279e6c4945a50735b5e665da406e07406/original.jpg
+    sha256: 3cfe09a92653472a90e14e2390861da279e6c4945a50735b5e665da406e07406
+    mime: image/jpeg
+    bytes: 22526230
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/3c/fe/3cfe09a92653472a90e14e2390861da279e6c4945a50735b5e665da406e07406/preview-400.798a1a01f072.jpg
+        sha256: 798a1a01f07294ab527e90c2098e28cb3935f3f185a06dce3e16dfb038540056
+        mime: image/jpeg
+        bytes: 24530
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

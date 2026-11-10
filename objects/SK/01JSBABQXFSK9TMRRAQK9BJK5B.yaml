@@ -1,0 +1,34 @@
+id: 01JSBABQXFSK9TMRRAQK9BJK5B
+type: image
+subtype: plan
+title: Friedhof Ansicht am Sonntag
+date: 1992-11
+location: Schnackenburg, Elbdeich
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/0c/62/0c62b66ee43feee510f0890d4bfd4a26455069e6dbcf7513f750a9aa8cbd0d3c/original.tif
+    sha256: 0c62b66ee43feee510f0890d4bfd4a26455069e6dbcf7513f750a9aa8cbd0d3c
+    mime: image/tiff
+    bytes: 24325132
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0c/62/0c62b66ee43feee510f0890d4bfd4a26455069e6dbcf7513f750a9aa8cbd0d3c/preview-400.5413e6168c59.jpg
+        sha256: 5413e6168c5947c7adddaa64dcf5a7166498a2daff81e250ba275a56d28e739c
+        mime: image/jpeg
+        bytes: 28918
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

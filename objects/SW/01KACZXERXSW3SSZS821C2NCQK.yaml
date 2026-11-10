@@ -1,0 +1,34 @@
+id: 01KACZXERXSW3SSZS821C2NCQK
+type: image
+subtype: print
+title: Pfarrhaus Prospekt zu Pfingsten
+description: Kupferstich.
+date: 2019-02-16
+origin:
+  name: Karl Lemke
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/d6/6c/d66ce1220a4cb7b2c19d74c508f02c1e7fee7a237290e837dad62e9d73f94cc4/original.tif
+    sha256: d66ce1220a4cb7b2c19d74c508f02c1e7fee7a237290e837dad62e9d73f94cc4
+    mime: image/tiff
+    bytes: 22218669
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d6/6c/d66ce1220a4cb7b2c19d74c508f02c1e7fee7a237290e837dad62e9d73f94cc4/preview-400.90450ef76ecc.jpg
+        sha256: 90450ef76ecc73d359160146d360e229d94ea17201f6cf01695733ff9b932478
+        mime: image/jpeg
+        bytes: 46959
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

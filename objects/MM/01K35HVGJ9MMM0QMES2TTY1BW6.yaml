@@ -1,0 +1,51 @@
+id: 01K35HVGJ9MMM0QMES2TTY1BW6
+type: document
+subtype: brochure
+title: Feuerwehr Entwurf im Sommer
+date: 1982-12-28
+language: de
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/9a/26/9a260e8f60d98c1d3ca724e866b0259ce284ebf9fc79f98e6a2c4f787b729d62/original.tif
+    sha256: 9a260e8f60d98c1d3ca724e866b0259ce284ebf9fc79f98e6a2c4f787b729d62
+    mime: image/tiff
+    bytes: 6302679
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9a/26/9a260e8f60d98c1d3ca724e866b0259ce284ebf9fc79f98e6a2c4f787b729d62/preview-400.08a13ccd03c7.jpg
+        sha256: 08a13ccd03c7f77da1010a6ee9e2051db846705111536b81d4bac07404caa3ee
+        mime: image/jpeg
+        bytes: 32062
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/9a/22/9a225628f2bf7e41274ae41c8d66b792e7e89c0bcb8e5794e2260ce14641f327/original.tif
+    sha256: 9a225628f2bf7e41274ae41c8d66b792e7e89c0bcb8e5794e2260ce14641f327
+    mime: image/tiff
+    bytes: 24327183
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9a/22/9a225628f2bf7e41274ae41c8d66b792e7e89c0bcb8e5794e2260ce14641f327/preview-400.c32f6b8df577.jpg
+        sha256: c32f6b8df577e6e682df70edbac1c79cbfadcb9cb6db8eb069df077e01892efd
+        mime: image/jpeg
+        bytes: 47408
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

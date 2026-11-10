@@ -1,0 +1,34 @@
+id: 01JWFAS0K6ZXKF68H500ZRMXWM
+type: image
+subtype: plan
+title: Kindergarten Brief zur Wende
+date: 1889-05-02
+location: Kapern, Hochwasser
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/dd/bf/ddbf41961be6da937d6c730ca97aa523f5393d056006d24ea4dc63d925b0698d/original.tif
+    sha256: ddbf41961be6da937d6c730ca97aa523f5393d056006d24ea4dc63d925b0698d
+    mime: image/tiff
+    bytes: 15706519
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/bf/ddbf41961be6da937d6c730ca97aa523f5393d056006d24ea4dc63d925b0698d/preview-400.a2371b33c402.jpg
+        sha256: a2371b33c40296de4a6c6d82216bb1b5ab74b0673fd6045a30a31a7b319a17ad
+        mime: image/jpeg
+        bytes: 74667
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01HKX6W2WV9DZX3XCB78ECGCQP
+type: image
+subtype: plan
+title: Elbdeich Ansicht am Sonntag
+date: 2023/2026
+location: Gartow, Mühle
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/de/48/de48f226da3538ac9778f268409f29724179efe2f734e80b30ff5c1d2e6a6687/original.tif
+    sha256: de48f226da3538ac9778f268409f29724179efe2f734e80b30ff5c1d2e6a6687
+    mime: image/tiff
+    bytes: 20015730
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/48/de48f226da3538ac9778f268409f29724179efe2f734e80b30ff5c1d2e6a6687/preview-400.c6e2bf367b24.jpg
+        sha256: c6e2bf367b24a84fd8267eb2b5a2c3c4694f56926f112d493ea9bebec2835e6b
+        mime: image/jpeg
+        bytes: 34894
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

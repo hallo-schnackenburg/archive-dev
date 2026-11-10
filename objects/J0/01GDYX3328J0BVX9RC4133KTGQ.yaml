@@ -1,0 +1,39 @@
+id: 01GDYX3328J0BVX9RC4133KTGQ
+type: image
+subtype: photo
+title: Sportplatz Besuch am Morgen
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1937-12-28
+location: Lüchow, Friedhof
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Ilse Wegner
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/73/c7/73c75838febc35942e1c5924cba2c618cf78e179041fb373bc8ac6a693b5893f/original.jpg
+    sha256: 73c75838febc35942e1c5924cba2c618cf78e179041fb373bc8ac6a693b5893f
+    mime: image/jpeg
+    bytes: 627991
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/73/c7/73c75838febc35942e1c5924cba2c618cf78e179041fb373bc8ac6a693b5893f/preview-400.ffb4e40d8d42.jpg
+        sha256: ffb4e40d8d42a9c2a0826000adb028ddccc6b2f6f79e6e7eebf768e3b80fe052
+        mime: image/jpeg
+        bytes: 64956
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

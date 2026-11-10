@@ -1,0 +1,39 @@
+id: 01FRSWKSF34B19P07V5HVND8JC
+type: image
+subtype: photo
+title: Brunnen Gruppenbild am Morgen
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1852-07-09
+location: Schnackenburg, Schmiede
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Karl Lemke
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/4d/13/4d13d2267258fd9cb3c294bfdeec21b497e1d71c878a9b94152af52013f855ee/original.jpg
+    sha256: 4d13d2267258fd9cb3c294bfdeec21b497e1d71c878a9b94152af52013f855ee
+    mime: image/jpeg
+    bytes: 20927531
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4d/13/4d13d2267258fd9cb3c294bfdeec21b497e1d71c878a9b94152af52013f855ee/preview-400.9482be358f8c.jpg
+        sha256: 9482be358f8c16efd0b477ac53addee465b68712b2845b6272a154e4d278e87d
+        mime: image/jpeg
+        bytes: 48450
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01G6AA65DWRMREFFAY7YG33WTA
+type: image
+subtype: print
+title: Feuerwehr Aufnahme zur Ernte
+date: 1875/1877
+location: Schnackenburg, Dorfteich
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/24/dd/24dd2653302adb40d014e0054b91065864a67a084d55ca9a68a4e4dd113075aa/original.tif
+    sha256: 24dd2653302adb40d014e0054b91065864a67a084d55ca9a68a4e4dd113075aa
+    mime: image/tiff
+    bytes: 21578405
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/24/dd/24dd2653302adb40d014e0054b91065864a67a084d55ca9a68a4e4dd113075aa/preview-400.d535bc1cb4da.jpg
+        sha256: d535bc1cb4daaae90a5dc9daf16cdee5cbf233e877f6ebffdcde696ef9fa5e6d
+        mime: image/jpeg
+        bytes: 32650
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

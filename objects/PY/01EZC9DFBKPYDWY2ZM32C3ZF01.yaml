@@ -1,0 +1,39 @@
+id: 01EZC9DFBKPYDWY2ZM32C3ZF01
+type: image
+subtype: photo
+title: Fähre Zeichnung im Winter
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: "1973"
+location: Pretzier, Pfarrhaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Helga Plate
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/7b/34/7b345f735189a7d1c5536103c8f5eaa08bc4a5f9f3a06be50d57f6324b1ef83c/original.jpg
+    sha256: 7b345f735189a7d1c5536103c8f5eaa08bc4a5f9f3a06be50d57f6324b1ef83c
+    mime: image/jpeg
+    bytes: 11992377
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7b/34/7b345f735189a7d1c5536103c8f5eaa08bc4a5f9f3a06be50d57f6324b1ef83c/preview-400.53b078128743.jpg
+        sha256: 53b078128743cde450b563bc59fa82a6d359149f2aac0169cb836c4f13f793ce
+        mime: image/jpeg
+        bytes: 66536
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

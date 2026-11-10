@@ -1,0 +1,34 @@
+id: 01HVFY41DT7PR0BA2S3SH47FPW
+type: image
+subtype: print
+title: Fachwerkhaus Zeichnung im Winter
+description: Kupferstich.
+date: 1951/1952
+origin:
+  name: Karl Lemke
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/47/55/4755769b11c7722862a02791ca820083c8b1ff0ed2b862e1a78ae2f0a771916b/original.tif
+    sha256: 4755769b11c7722862a02791ca820083c8b1ff0ed2b862e1a78ae2f0a771916b
+    mime: image/tiff
+    bytes: 15495877
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/47/55/4755769b11c7722862a02791ca820083c8b1ff0ed2b862e1a78ae2f0a771916b/preview-400.44ea0cc9c762.jpg
+        sha256: 44ea0cc9c762c76c40e06269ebb77593f9227b1ba9bffa39fdbe0eeeec7c03e6
+        mime: image/jpeg
+        bytes: 23995
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

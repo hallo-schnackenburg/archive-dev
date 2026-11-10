@@ -1,0 +1,34 @@
+id: 01GPK96XK3JPE3DV2BHT5VAS9R
+type: image
+subtype: plan
+title: Mühle Brief nach dem Krieg
+date: "1964"
+location: Kapern, Storchennest
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/01/cc/01ccd4620120583047e045970728a1e16cfd413cbfc4adf1662e726347ef0d38/original.tif
+    sha256: 01ccd4620120583047e045970728a1e16cfd413cbfc4adf1662e726347ef0d38
+    mime: image/tiff
+    bytes: 19138734
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/cc/01ccd4620120583047e045970728a1e16cfd413cbfc4adf1662e726347ef0d38/preview-400.a23348ec2078.jpg
+        sha256: a23348ec20788c17cbf408e74b737134f5265180d0e8394714f9b0ca7c9e2c93
+        mime: image/jpeg
+        bytes: 54977
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

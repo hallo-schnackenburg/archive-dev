@@ -1,0 +1,73 @@
+id: 01F9HHPPJN2YQKY6BG0G4HKMM6
+type: document
+subtype: letter
+title: Ernte Einweihung nach dem Krieg
+date: "1885"
+language: de
+origin:
+  name: Marta Lüders
+  type: person
+  location: Ostfront
+recipient: Familie Lüders, Schnackenburg
+notes: Teilweise schwer lesbar.
+files:
+  - role: page
+    num: 1
+    original_name: feldpost_lueders_001.tif
+    path: files/a9/fa/a9fadf0df2c48de68042ae587d8bf14bb9a018e9c26defa903f9f7cef9346022/original.tif
+    sha256: a9fadf0df2c48de68042ae587d8bf14bb9a018e9c26defa903f9f7cef9346022
+    mime: image/tiff
+    bytes: 17357892
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a9/fa/a9fadf0df2c48de68042ae587d8bf14bb9a018e9c26defa903f9f7cef9346022/preview-400.cab33e64691d.jpg
+        sha256: cab33e64691d2e00711ae7f6ccca8c9dccf843a27439b155afa87e1f7b24899e
+        mime: image/jpeg
+        bytes: 66156
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: feldpost_lueders_002.tif
+    path: files/29/e6/29e68ff81f0b9d37611b0343cb7b4df873b7f4b645985661cefb7e221f4a6b6d/original.tif
+    sha256: 29e68ff81f0b9d37611b0343cb7b4df873b7f4b645985661cefb7e221f4a6b6d
+    mime: image/tiff
+    bytes: 12248611
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/29/e6/29e68ff81f0b9d37611b0343cb7b4df873b7f4b645985661cefb7e221f4a6b6d/preview-400.8088ce5312a1.jpg
+        sha256: 8088ce5312a11b8549afdf47a8219b716f59f02ea56071de0cfb60c58691fa96
+        mime: image/jpeg
+        bytes: 26936
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: feldpost_lueders_003.tif
+    path: files/11/52/11523895818456d4bb86def623e4df41a6392488b9c5ce719e181c96ee8c4751/original.tif
+    sha256: 11523895818456d4bb86def623e4df41a6392488b9c5ce719e181c96ee8c4751
+    mime: image/tiff
+    bytes: 2610228
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/52/11523895818456d4bb86def623e4df41a6392488b9c5ce719e181c96ee8c4751/preview-400.c960a0165136.jpg
+        sha256: c960a01651365d63b88648beafaa46ed694cbb77f214487184b0a0ca8a6ee2dd
+        mime: image/jpeg
+        bytes: 57578
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

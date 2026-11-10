@@ -1,0 +1,53 @@
+id: 01HP7FXBGY6Z40KJZXQ4YVNG79
+type: document
+subtype: letter
+title: Kirche St. Johannis Einweihung nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: 1884-07
+language: de
+origin:
+  name: Fritz Bohlmann
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/e3/dc/e3dc222aa47833fccd5fd6835f2e6e16a692c30ad0a5754fb5bbf2cf7ebcda2c/original.tif
+    sha256: e3dc222aa47833fccd5fd6835f2e6e16a692c30ad0a5754fb5bbf2cf7ebcda2c
+    mime: image/tiff
+    bytes: 23530073
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e3/dc/e3dc222aa47833fccd5fd6835f2e6e16a692c30ad0a5754fb5bbf2cf7ebcda2c/preview-400.b1ddebf7270e.jpg
+        sha256: b1ddebf7270ea957a70ee55255d8be6fc956a775aa15106e9203f1fdf931547f
+        mime: image/jpeg
+        bytes: 31670
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/88/66/8866c796c60b5f985ef9301c01de715c8473f06f01f0b9ed12179e132b3b75bf/original.tif
+    sha256: 8866c796c60b5f985ef9301c01de715c8473f06f01f0b9ed12179e132b3b75bf
+    mime: image/tiff
+    bytes: 6884925
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/88/66/8866c796c60b5f985ef9301c01de715c8473f06f01f0b9ed12179e132b3b75bf/preview-400.bd66a76f974c.jpg
+        sha256: bd66a76f974c3f59daa84c7831e295961b570fb81e14a9159d85065f84fc320d
+        mime: image/jpeg
+        bytes: 20790
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

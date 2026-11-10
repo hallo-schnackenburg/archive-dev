@@ -1,0 +1,47 @@
+id: 01K7NQAAEBR0XA8TGGSNXMN96N
+type: image
+subtype: photo
+title: Bahnhof Entwurf im Sommer
+description: Elbufer und gasthof, im Winter.
+date: 1863-11-27
+location: Pretzier, Bäckerei
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/9d/3f/9d3f7203399a80ebc41f0f3ba7153e2f9952d77196007c594bace9f27570a763/original.jpg
+    sha256: 9d3f7203399a80ebc41f0f3ba7153e2f9952d77196007c594bace9f27570a763
+    mime: image/jpeg
+    bytes: 19998770
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/9d/3f/9d3f7203399a80ebc41f0f3ba7153e2f9952d77196007c594bace9f27570a763/preview-400.e1b17ac317c1.jpg
+        sha256: e1b17ac317c1759cba06339b373f7c5387e3e7146a4d88723983ca8b6f05f068
+        mime: image/jpeg
+        bytes: 24929
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01HBW445EFJX96D5QA6VF1W16F
+type: image
+subtype: print
+title: Marktplatz Abriss zur Wende
+description: Kupferstich.
+date: 1967-04
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/63/bb/63bb7f34934fb7bad7706cb52066db699313fd96881ea2bf9d3c9a1bdaf75bca/original.tif
+    sha256: 63bb7f34934fb7bad7706cb52066db699313fd96881ea2bf9d3c9a1bdaf75bca
+    mime: image/tiff
+    bytes: 4460847
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/63/bb/63bb7f34934fb7bad7706cb52066db699313fd96881ea2bf9d3c9a1bdaf75bca/preview-400.3b4473232f6f.jpg
+        sha256: 3b4473232f6f3669966f90b979b9e6c4343c6ca8c3656525bf6450c12a1f6ef4
+        mime: image/jpeg
+        bytes: 44002
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

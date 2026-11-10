@@ -1,0 +1,34 @@
+id: 01JNAPECE3YJT5ZTNJFBK5BHYP
+type: image
+subtype: print
+title: Kindergarten Zeichnung am Morgen
+description: Kupferstich.
+date: 2013-03-01
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/c3/ee/c3ee1b6dee1d2e31ac86631027e8085a8f92501ccfb800f2c588f42fdfc841f8/original.tif
+    sha256: c3ee1b6dee1d2e31ac86631027e8085a8f92501ccfb800f2c588f42fdfc841f8
+    mime: image/tiff
+    bytes: 14915033
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c3/ee/c3ee1b6dee1d2e31ac86631027e8085a8f92501ccfb800f2c588f42fdfc841f8/preview-400.2b7ef1629800.jpg
+        sha256: 2b7ef1629800e448f4e6abe660bcf75dd878675b852cac6f4b2e18117fba8346
+        mime: image/jpeg
+        bytes: 51792
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

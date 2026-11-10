@@ -1,0 +1,39 @@
+id: 01KSFER07RAJ42V5QQV56K43RS
+type: image
+subtype: photo
+title: Ernte Protokoll vor dem Umbau
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1886-05-04
+location: Schnackenburg, Zollamt
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Walter Kuhlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/19/c3/19c30bd487aa68af9fd3082180eab564f2c64a4f1c6988c9a9376ba1661da96b/original.jpg
+    sha256: 19c30bd487aa68af9fd3082180eab564f2c64a4f1c6988c9a9376ba1661da96b
+    mime: image/jpeg
+    bytes: 6610721
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/19/c3/19c30bd487aa68af9fd3082180eab564f2c64a4f1c6988c9a9376ba1661da96b/preview-400.0776cbc595be.jpg
+        sha256: 0776cbc595beb175c0098ba5470b490fdf2b2735db9a7a62ceda151a461875b8
+        mime: image/jpeg
+        bytes: 72782
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

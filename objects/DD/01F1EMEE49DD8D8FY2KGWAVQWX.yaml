@@ -1,0 +1,34 @@
+id: 01F1EMEE49DD8D8FY2KGWAVQWX
+type: image
+subtype: print
+title: Fähre Jubiläum am Sonntag
+description: Kupferstich.
+date: 1868/1874
+origin:
+  name: Erika Voss
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/c3/a7/c3a709663233acb55306449cd17f3f4e50e9d07ecb38d9aa140a36b23c25d49c/original.tif
+    sha256: c3a709663233acb55306449cd17f3f4e50e9d07ecb38d9aa140a36b23c25d49c
+    mime: image/tiff
+    bytes: 16803178
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c3/a7/c3a709663233acb55306449cd17f3f4e50e9d07ecb38d9aa140a36b23c25d49c/preview-400.39f2c470b5f9.jpg
+        sha256: 39f2c470b5f97c6b29bde43fc974563fbb0470eec78d1ec16428758ea9ff6fcc
+        mime: image/jpeg
+        bytes: 39990
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01G8R2EMT3RJ13948NPET18EQN
+type: image
+subtype: print
+title: Grenzturm Bericht nach dem Krieg
+date: 1910-03-25
+location: Schnackenburg, Elbufer
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/b0/52/b052cb30cd0c3d988f4a034d6de20dbe8fe7e8bfb634c34e21cd83a07260e8f4/original.tif
+    sha256: b052cb30cd0c3d988f4a034d6de20dbe8fe7e8bfb634c34e21cd83a07260e8f4
+    mime: image/tiff
+    bytes: 7141627
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b0/52/b052cb30cd0c3d988f4a034d6de20dbe8fe7e8bfb634c34e21cd83a07260e8f4/preview-400.3b9a7e5387a9.jpg
+        sha256: 3b9a7e5387a983a59b2b2052c2bd8a3ac839d55048ba2faa18abc85de1d50acd
+        mime: image/jpeg
+        bytes: 56120
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

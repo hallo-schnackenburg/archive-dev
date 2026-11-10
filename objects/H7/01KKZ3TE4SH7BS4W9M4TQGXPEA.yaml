@@ -1,0 +1,34 @@
+id: 01KKZ3TE4SH7BS4W9M4TQGXPEA
+type: image
+subtype: print
+title: Hochwasser Protokoll bei Hochwasser
+description: Kupferstich.
+date: 1937-01
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/96/3e/963ecebcf8a4afce560b8e1b1d536c25bcb28ea9e51663b3c0a5780a6946732a/original.tif
+    sha256: 963ecebcf8a4afce560b8e1b1d536c25bcb28ea9e51663b3c0a5780a6946732a
+    mime: image/tiff
+    bytes: 25667031
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/96/3e/963ecebcf8a4afce560b8e1b1d536c25bcb28ea9e51663b3c0a5780a6946732a/preview-400.378abf0706fe.jpg
+        sha256: 378abf0706fea1814a85aa82f87d4b09899d1d2d46716988d3e7b4b39d637e8a
+        mime: image/jpeg
+        bytes: 49456
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

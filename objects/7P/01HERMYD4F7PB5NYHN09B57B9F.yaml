@@ -1,0 +1,35 @@
+id: 01HERMYD4F7PB5NYHN09B57B9F
+type: image
+subtype: photo
+title: Kirche St. Johannis Aufnahme im Sommer
+date: 1971-09-04
+location: Gartow, Bäckerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/68/07/6807aa35b80a57d22a887eb3de5752a337e80d2124f97b906cd6cbb20608e912/original.jpg
+    sha256: 6807aa35b80a57d22a887eb3de5752a337e80d2124f97b906cd6cbb20608e912
+    mime: image/jpeg
+    bytes: 23254965
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/68/07/6807aa35b80a57d22a887eb3de5752a337e80d2124f97b906cd6cbb20608e912/preview-400.d780255d0db7.jpg
+        sha256: d780255d0db7c51b1b9196b1eee2fa6a76d4ff0a5ce7233fb22420af07b4cc25
+        mime: image/jpeg
+        bytes: 62474
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

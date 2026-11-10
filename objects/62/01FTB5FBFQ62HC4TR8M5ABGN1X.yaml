@@ -1,0 +1,34 @@
+id: 01FTB5FBFQ62HC4TR8M5ABGN1X
+type: image
+subtype: print
+title: Brunnen Einladung nach dem Krieg
+description: Hochwasser und brücke, zur Wende.
+date: "1934"
+origin:
+  name: Marta Lüders
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/50/d7/50d75ad4dd305a41f717aede61a9f523b15ca18893ac57cbc410ac1f42871765/original.tif
+    sha256: 50d75ad4dd305a41f717aede61a9f523b15ca18893ac57cbc410ac1f42871765
+    mime: image/tiff
+    bytes: 3646427
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/d7/50d75ad4dd305a41f717aede61a9f523b15ca18893ac57cbc410ac1f42871765/preview-400.c2449b6d1b1e.jpg
+        sha256: c2449b6d1b1ee5c2c03966db18d0ddec95bfdf0f785fc864dd04551efe564c3c
+        mime: image/jpeg
+        bytes: 84969
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

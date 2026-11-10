@@ -1,0 +1,35 @@
+id: 01F71M6AFM4MYXQBJFK1PDVXN3
+type: image
+subtype: photo
+title: Dorfteich Rechnung am Sonntag
+date: 1883~
+location: Lenzen, Bahnhof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/77/dd/77dddd013beddf796823d281b3b3daaf1acd4598398cfe199a74e8d90d3fa643/original.jpg
+    sha256: 77dddd013beddf796823d281b3b3daaf1acd4598398cfe199a74e8d90d3fa643
+    mime: image/jpeg
+    bytes: 22881706
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/77/dd/77dddd013beddf796823d281b3b3daaf1acd4598398cfe199a74e8d90d3fa643/preview-400.a35ad56294de.jpg
+        sha256: a35ad56294de00dd7833aba58a01d319b3768f58f9c52c383746eabced998c4b
+        mime: image/jpeg
+        bytes: 22792
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

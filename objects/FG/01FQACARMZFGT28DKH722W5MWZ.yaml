@@ -1,0 +1,39 @@
+id: 01FQACARMZFGT28DKH722W5MWZ
+type: image
+subtype: photo
+title: Kindergarten Protokoll vor dem Umbau
+description: Bahnhof und zollamt, nach dem Krieg.
+date: 1939~
+location: Schnackenburg, Fachwerkhaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Walter Kuhlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/ff/2a/ff2a0e13c1ccb698b95994a908a8326764b0d5cedd3dd0890ff5b771f1105567/original.jpg
+    sha256: ff2a0e13c1ccb698b95994a908a8326764b0d5cedd3dd0890ff5b771f1105567
+    mime: image/jpeg
+    bytes: 4734771
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ff/2a/ff2a0e13c1ccb698b95994a908a8326764b0d5cedd3dd0890ff5b771f1105567/preview-400.5f52337bcc62.jpg
+        sha256: 5f52337bcc62f86b70421b3012274f13b1c799e6b8acadc6657bceaed6e68cec
+        mime: image/jpeg
+        bytes: 75414
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

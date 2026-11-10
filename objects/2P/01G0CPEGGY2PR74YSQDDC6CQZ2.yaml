@@ -1,0 +1,35 @@
+id: 01G0CPEGGY2PR74YSQDDC6CQZ2
+type: image
+subtype: photo
+title: Elbdeich Entwurf nach dem Krieg
+date: 1851/1853
+location: Lüchow, Molkerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/93/47/93478f6d3fc31e2f4e21f29b0e49f131e0de55f521a38fbc1e3c0c6c4ac56ad7/original.jpg
+    sha256: 93478f6d3fc31e2f4e21f29b0e49f131e0de55f521a38fbc1e3c0c6c4ac56ad7
+    mime: image/jpeg
+    bytes: 23725862
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/93/47/93478f6d3fc31e2f4e21f29b0e49f131e0de55f521a38fbc1e3c0c6c4ac56ad7/preview-400.48b1e623b9ac.jpg
+        sha256: 48b1e623b9ac465cdce02d627776e7c7aa272996c3ea32f8cc4acc55ea6e2ffd
+        mime: image/jpeg
+        bytes: 43088
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

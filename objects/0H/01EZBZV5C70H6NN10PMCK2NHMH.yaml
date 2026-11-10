@@ -1,0 +1,39 @@
+id: 01EZBZV5C70H6NN10PMCK2NHMH
+type: image
+subtype: photo
+title: Feuerwehr Aufnahme zur Ernte
+date: "2014"
+location: Restorf, Schmiede
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/e7/64/e7640c26b117d099d8de9d153ecff436c0ffcf2637afab4990236cfff04fa3f2/original.jpg
+    sha256: e7640c26b117d099d8de9d153ecff436c0ffcf2637afab4990236cfff04fa3f2
+    mime: image/jpeg
+    bytes: 3228414
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e7/64/e7640c26b117d099d8de9d153ecff436c0ffcf2637afab4990236cfff04fa3f2/preview-400.9a1d983875a8.jpg
+        sha256: 9a1d983875a82317b23b6c6c5658b9a8e7ede960cc1e77fab7284d81829a9672
+        mime: image/jpeg
+        bytes: 22175
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

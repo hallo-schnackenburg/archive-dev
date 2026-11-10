@@ -1,0 +1,47 @@
+id: 01KW5YAXY9GCAHP06WS303MXFQ
+type: image
+subtype: photo
+title: Schützenfest Einladung im Sommer
+description: Der Umzug der Schützengesellschaft zieht über den Markt, im Hintergrund die Fachwerkhäuser.
+date: 1880-12-23
+location: Gorleben, Bahnhof
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/67/0c/670cedd78ab5384d79aa27d0687141d6cb835b5208cb32d8a3211c42c5a8aa8f/original.jpg
+    sha256: 670cedd78ab5384d79aa27d0687141d6cb835b5208cb32d8a3211c42c5a8aa8f
+    mime: image/jpeg
+    bytes: 2988490
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/67/0c/670cedd78ab5384d79aa27d0687141d6cb835b5208cb32d8a3211c42c5a8aa8f/preview-400.e4720b5b16cf.jpg
+        sha256: e4720b5b16cfcc2cdc4647314d88f2671f0bbb14860695da46a26aff7389e07e
+        mime: image/jpeg
+        bytes: 72624
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

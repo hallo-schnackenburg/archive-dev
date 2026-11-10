@@ -1,0 +1,39 @@
+id: 01H2Z3GCYFBX1TK39PVPVCCFMK
+type: image
+subtype: photo
+title: Bahnhof Rechnung bei Hochwasser
+date: 1852-12-08
+location: Kapern, Gemeindehaus
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Anni Jeß
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/8b/af/8baf23941cb5217e28994a941d445bdc27d5863480db6d05166d26f0fa3a2194/original.jpg
+    sha256: 8baf23941cb5217e28994a941d445bdc27d5863480db6d05166d26f0fa3a2194
+    mime: image/jpeg
+    bytes: 578764
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/8b/af/8baf23941cb5217e28994a941d445bdc27d5863480db6d05166d26f0fa3a2194/preview-400.baf721f6d820.jpg
+        sha256: baf721f6d820072a7c7f59da61f5a1879ebe5bc98e9e32af90eb79b7304f0577
+        mime: image/jpeg
+        bytes: 56593
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

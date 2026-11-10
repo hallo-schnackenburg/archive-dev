@@ -1,0 +1,35 @@
+id: 01F78SFKF7SC1B6NARAFX9QRNT
+type: image
+subtype: photo
+title: Kindergarten Bescheid nach dem Krieg
+date: 1863-08-04
+location: Lenzen, Dorfschule
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/ff/b6/ffb64fbb9a038e7c02b5727d41ee7db8c9eacdee4f098d836f75ca0180f671b0/original.jpg
+    sha256: ffb64fbb9a038e7c02b5727d41ee7db8c9eacdee4f098d836f75ca0180f671b0
+    mime: image/jpeg
+    bytes: 20462774
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ff/b6/ffb64fbb9a038e7c02b5727d41ee7db8c9eacdee4f098d836f75ca0180f671b0/preview-400.8fdbf5eb4a82.jpg
+        sha256: 8fdbf5eb4a8254a2a87038d73cc91addcc085b638730abc0cabfa53d8d95a84b
+        mime: image/jpeg
+        bytes: 64221
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

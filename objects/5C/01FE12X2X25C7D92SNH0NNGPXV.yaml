@@ -1,0 +1,34 @@
+id: 01FE12X2X25C7D92SNH0NNGPXV
+type: image
+subtype: plan
+title: Elbdeich Einweihung am Morgen
+date: 1929-09-10
+location: Schnackenburg, Bäckerei
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/48/96/48968f687b8c8e805fc7a9204077b74a7bcbd8f7686f0b938bc587a27e77d8ac/original.tif
+    sha256: 48968f687b8c8e805fc7a9204077b74a7bcbd8f7686f0b938bc587a27e77d8ac
+    mime: image/tiff
+    bytes: 22692525
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/48/96/48968f687b8c8e805fc7a9204077b74a7bcbd8f7686f0b938bc587a27e77d8ac/preview-400.731f9d7fbe1c.jpg
+        sha256: 731f9d7fbe1c6bb3fc9190d8c8feb73c5f5adc4d2f2c23385698c91771028375
+        mime: image/jpeg
+        bytes: 82310
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

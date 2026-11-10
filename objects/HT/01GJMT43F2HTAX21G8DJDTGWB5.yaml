@@ -1,0 +1,35 @@
+id: 01GJMT43F2HTAX21G8DJDTGWB5
+type: image
+subtype: photo
+title: Hafen Protokoll am Morgen
+date: 1903/1908
+location: Restorf, Dorfteich
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/3c/e3/3ce368f2e031ab28af7a899a6da830a92632e5e464dce535cebc6cd23a4ab76f/original.jpg
+    sha256: 3ce368f2e031ab28af7a899a6da830a92632e5e464dce535cebc6cd23a4ab76f
+    mime: image/jpeg
+    bytes: 18709486
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/3c/e3/3ce368f2e031ab28af7a899a6da830a92632e5e464dce535cebc6cd23a4ab76f/preview-400.0cf8a757a664.jpg
+        sha256: 0cf8a757a664804fb5cb172f116ab96483d1dd171709c4864582b9da3b79a0f6
+        mime: image/jpeg
+        bytes: 53472
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

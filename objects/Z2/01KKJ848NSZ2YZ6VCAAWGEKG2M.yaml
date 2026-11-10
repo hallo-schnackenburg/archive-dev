@@ -1,0 +1,35 @@
+id: 01KKJ848NSZ2YZ6VCAAWGEKG2M
+type: image
+subtype: photo
+title: Brunnen Festtag zur Wende
+date: 1890/1894
+location: Gorleben, Molkerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/fd/fb/fdfbb94efe1a3393154ae67be06508df9ea16c719ac319d7f7c405e6c17ea2d2/original.jpg
+    sha256: fdfbb94efe1a3393154ae67be06508df9ea16c719ac319d7f7c405e6c17ea2d2
+    mime: image/jpeg
+    bytes: 14523097
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fd/fb/fdfbb94efe1a3393154ae67be06508df9ea16c719ac319d7f7c405e6c17ea2d2/preview-400.f45b47a27796.jpg
+        sha256: f45b47a277966080f41a5f0038e0a4dd299338496b2fb787953921ae8cf592a4
+        mime: image/jpeg
+        bytes: 60087
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

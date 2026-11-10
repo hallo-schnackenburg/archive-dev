@@ -1,0 +1,53 @@
+id: 01KRVNWTQ89J0ZQ8XACFDB0CJH
+type: document
+subtype: letter
+title: Kindergarten Ansicht nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: 1962-09-06
+language: de
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/06/36/063615b019beacfab6fced49d86875b9c8fe278a40f22eeaf4f8f0ac132d5a55/original.tif
+    sha256: 063615b019beacfab6fced49d86875b9c8fe278a40f22eeaf4f8f0ac132d5a55
+    mime: image/tiff
+    bytes: 19825611
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/36/063615b019beacfab6fced49d86875b9c8fe278a40f22eeaf4f8f0ac132d5a55/preview-400.dc6f6e177370.jpg
+        sha256: dc6f6e1773709732882deb638e674e430e519db8027240a30ba45cbc48f78de6
+        mime: image/jpeg
+        bytes: 70527
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/4b/da/4bda9f3111041f62afaa11f08f288ad91016e3e1ce841c2e30169ec755db400f/original.tif
+    sha256: 4bda9f3111041f62afaa11f08f288ad91016e3e1ce841c2e30169ec755db400f
+    mime: image/tiff
+    bytes: 9356366
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4b/da/4bda9f3111041f62afaa11f08f288ad91016e3e1ce841c2e30169ec755db400f/preview-400.6821bd4be099.jpg
+        sha256: 6821bd4be0997a7934c08a7122110de04ef8f73161cf56a3118a3b264b23f373
+        mime: image/jpeg
+        bytes: 72122
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01M37EHYZH8S5358GQCMN1E0Z0
+type: image
+subtype: plan
+title: Sportplatz Bericht zur Wende
+date: 1930/1936
+location: Restorf, Pfarrhaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/f7/12/f712c68fc4a294f6fc6557a822f7929e1c1594bc2c519844badd94e612abcc6e/original.tif
+    sha256: f712c68fc4a294f6fc6557a822f7929e1c1594bc2c519844badd94e612abcc6e
+    mime: image/tiff
+    bytes: 21430681
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f7/12/f712c68fc4a294f6fc6557a822f7929e1c1594bc2c519844badd94e612abcc6e/preview-400.936bf994017f.jpg
+        sha256: 936bf994017fba818d0cd76d1150b58716bf7feb1a73df45b72d289558897d27
+        mime: image/jpeg
+        bytes: 37020
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

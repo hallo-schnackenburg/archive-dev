@@ -1,0 +1,35 @@
+id: 01F0WMQQQCN9TRX2JJMSHXNFPK
+type: image
+subtype: photo
+title: Bäckerei Brief zur Wende
+date: 1967/1973
+location: Kapern, Molkerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/ab/80/ab803265d1e3a054fd3b1712bc2a6610cce64cda29be85fecf6afb756fb5f636/original.jpg
+    sha256: ab803265d1e3a054fd3b1712bc2a6610cce64cda29be85fecf6afb756fb5f636
+    mime: image/jpeg
+    bytes: 20434974
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ab/80/ab803265d1e3a054fd3b1712bc2a6610cce64cda29be85fecf6afb756fb5f636/preview-400.c8c866bae04f.jpg
+        sha256: c8c866bae04f214860a3fa8a1cea5337023628b89561cb6b2c8f02dbc5269d5f
+        mime: image/jpeg
+        bytes: 26550
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

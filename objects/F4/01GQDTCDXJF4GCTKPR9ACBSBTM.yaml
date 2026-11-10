@@ -1,0 +1,39 @@
+id: 01GQDTCDXJF4GCTKPR9ACBSBTM
+type: image
+subtype: photo
+title: Marktplatz Brief im Sommer
+date: 1866-03-07
+location: Gorleben, Mühle
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Helga Plate
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/19/da/19dac61470cf87c63470c8fcf04be099cc9731f3f40850fb899fdc316c769829/original.jpg
+    sha256: 19dac61470cf87c63470c8fcf04be099cc9731f3f40850fb899fdc316c769829
+    mime: image/jpeg
+    bytes: 1183878
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/19/da/19dac61470cf87c63470c8fcf04be099cc9731f3f40850fb899fdc316c769829/preview-400.a2080fa8560f.jpg
+        sha256: a2080fa8560fafd49126dceedb528ab7f15143d939fc42ed23cd521ad5b72782
+        mime: image/jpeg
+        bytes: 54225
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

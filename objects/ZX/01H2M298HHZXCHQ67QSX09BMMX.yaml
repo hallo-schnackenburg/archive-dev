@@ -1,0 +1,39 @@
+id: 01H2M298HHZXCHQ67QSX09BMMX
+type: image
+subtype: photo
+title: Fähre Protokoll nach dem Krieg
+date: 1903-04-07
+location: Gartow, Fähre
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/3c/78/3c78e51a3f3ad8d92b6bebd232bed28ac687dbef22aa7be18d6b5c78ec1b9410/original.jpg
+    sha256: 3c78e51a3f3ad8d92b6bebd232bed28ac687dbef22aa7be18d6b5c78ec1b9410
+    mime: image/jpeg
+    bytes: 3898887
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/3c/78/3c78e51a3f3ad8d92b6bebd232bed28ac687dbef22aa7be18d6b5c78ec1b9410/preview-400.eea1c1f89c9f.jpg
+        sha256: eea1c1f89c9fcda1da427bbdfb749c517bf6614297e4b0036a89d47cc62a2dbc
+        mime: image/jpeg
+        bytes: 56388
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

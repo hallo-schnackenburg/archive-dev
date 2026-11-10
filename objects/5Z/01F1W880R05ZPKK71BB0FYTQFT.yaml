@@ -1,0 +1,51 @@
+id: 01F1W880R05ZPKK71BB0FYTQFT
+type: document
+subtype: brochure
+title: Bäckerei Besuch bei Hochwasser
+date: 1905-04
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/b0/a1/b0a1bb4ef718ff643b82912fa1b9951c367e8f610ab7653f004824d1041d29bb/original.tif
+    sha256: b0a1bb4ef718ff643b82912fa1b9951c367e8f610ab7653f004824d1041d29bb
+    mime: image/tiff
+    bytes: 2800142
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b0/a1/b0a1bb4ef718ff643b82912fa1b9951c367e8f610ab7653f004824d1041d29bb/preview-400.e1a99823b7ea.jpg
+        sha256: e1a99823b7ea2bafba94761357c2e7fb9d425c88e90b059f02183da6aba5e46a
+        mime: image/jpeg
+        bytes: 68630
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/a1/71/a17142c9015ebfa411e941e7aff2e4882660160ba255e317d42b8912468f8321/original.tif
+    sha256: a17142c9015ebfa411e941e7aff2e4882660160ba255e317d42b8912468f8321
+    mime: image/tiff
+    bytes: 23030123
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a1/71/a17142c9015ebfa411e941e7aff2e4882660160ba255e317d42b8912468f8321/preview-400.9ea06067f8a7.jpg
+        sha256: 9ea06067f8a7a0e79f439a108f1bbe3a8da51f79f9d5063db5d986e1689946d7
+        mime: image/jpeg
+        bytes: 57592
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

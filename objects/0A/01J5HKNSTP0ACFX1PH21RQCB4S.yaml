@@ -1,0 +1,34 @@
+id: 01J5HKNSTP0ACFX1PH21RQCB4S
+type: image
+subtype: plan
+title: Friedhof Aufnahme am Sonntag
+date: "1891"
+location: Lüchow, Feuerwehr
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/df/16/df16ca171385c934c45008e32313be72211daae97e0499eb9714c6d2dcac7348/original.tif
+    sha256: df16ca171385c934c45008e32313be72211daae97e0499eb9714c6d2dcac7348
+    mime: image/tiff
+    bytes: 16903817
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/df/16/df16ca171385c934c45008e32313be72211daae97e0499eb9714c6d2dcac7348/preview-400.41e9ff3143e9.jpg
+        sha256: 41e9ff3143e99d5c4a181ef5a466a3d07e31ec6fc84bffbc083290fe36aa03c1
+        mime: image/jpeg
+        bytes: 72347
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

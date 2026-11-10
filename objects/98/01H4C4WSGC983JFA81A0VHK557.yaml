@@ -1,0 +1,51 @@
+id: 01H4C4WSGC983JFA81A0VHK557
+type: document
+subtype: brochure
+title: Schützenfest Umbau im Winter
+date: "2017"
+language: de
+origin:
+  name: Helga Plate
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/73/f8/73f801600fc6427286fb4117270d14b5b70dc17829e35a30fde34138db02b1e3/original.tif
+    sha256: 73f801600fc6427286fb4117270d14b5b70dc17829e35a30fde34138db02b1e3
+    mime: image/tiff
+    bytes: 26551083
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/73/f8/73f801600fc6427286fb4117270d14b5b70dc17829e35a30fde34138db02b1e3/preview-400.4e8a2ff2cbb3.jpg
+        sha256: 4e8a2ff2cbb3530c432f2cc62449b23c5f322c513bb72c45d29722d675513944
+        mime: image/jpeg
+        bytes: 29983
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/3e/76/3e7682286eea2d8775791173701d5b1121f5b9a6340586b461043140e7f7b276/original.tif
+    sha256: 3e7682286eea2d8775791173701d5b1121f5b9a6340586b461043140e7f7b276
+    mime: image/tiff
+    bytes: 4915577
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/76/3e7682286eea2d8775791173701d5b1121f5b9a6340586b461043140e7f7b276/preview-400.d90c19e2aece.jpg
+        sha256: d90c19e2aece9713fe00da621b25553b803fa8d4575ade4fdc29205fcf7cf428
+        mime: image/jpeg
+        bytes: 61885
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01G1B3NV3KXM0PFPW0FMJAJZY1
+type: image
+subtype: photo
+title: Brücke Aufnahme zur Ernte
+date: 1891-06-12
+location: Pretzier, Fähre
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/e3/5f/e35fd6eb220ecc205327b2a30e8f992977b1bac8c8a835f07035190c4ef342a2/original.jpg
+    sha256: e35fd6eb220ecc205327b2a30e8f992977b1bac8c8a835f07035190c4ef342a2
+    mime: image/jpeg
+    bytes: 2974270
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e3/5f/e35fd6eb220ecc205327b2a30e8f992977b1bac8c8a835f07035190c4ef342a2/preview-400.c7566d71772c.jpg
+        sha256: c7566d71772ccbd82efec1e86dd3e0caa2bca99787348380d256668a6ee77cdc
+        mime: image/jpeg
+        bytes: 36022
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01KTDCMKZME0WTVGMC6F18MREY
+type: image
+subtype: plan
+title: Molkerei Ansicht im Sommer
+date: 1908-02
+location: Pretzier, Gasthof
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Erika Voss
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/4c/0f/4c0fb70c9269e688a473ca7d5c9e6ba8d59483b8b9f97a6e2f90a5e8b3741b90/original.tif
+    sha256: 4c0fb70c9269e688a473ca7d5c9e6ba8d59483b8b9f97a6e2f90a5e8b3741b90
+    mime: image/tiff
+    bytes: 14635286
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4c/0f/4c0fb70c9269e688a473ca7d5c9e6ba8d59483b8b9f97a6e2f90a5e8b3741b90/preview-400.ccbbbfbc238c.jpg
+        sha256: ccbbbfbc238c868bff3e5c21845fe5e39e1a5949e5abc5052b55916584667b23
+        mime: image/jpeg
+        bytes: 29295
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

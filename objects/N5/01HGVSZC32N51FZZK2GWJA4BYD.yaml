@@ -1,0 +1,35 @@
+id: 01HGVSZC32N51FZZK2GWJA4BYD
+type: image
+subtype: photo
+title: Friedhof Brief bei Hochwasser
+date: 1904-09
+location: Kapern, Hafen
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/3c/85/3c8535f33994a5dfe3384ff97b4a290bb5c33a9f4edec2aa166b71d0da88da90/original.jpg
+    sha256: 3c8535f33994a5dfe3384ff97b4a290bb5c33a9f4edec2aa166b71d0da88da90
+    mime: image/jpeg
+    bytes: 13946268
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/3c/85/3c8535f33994a5dfe3384ff97b4a290bb5c33a9f4edec2aa166b71d0da88da90/preview-400.74c2b717e426.jpg
+        sha256: 74c2b717e426784e050d74fffb2978c36a4500e93e0f08f684ff105055f16ec2
+        mime: image/jpeg
+        bytes: 36185
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

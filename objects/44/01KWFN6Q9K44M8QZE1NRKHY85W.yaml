@@ -1,0 +1,51 @@
+id: 01KWFN6Q9K44M8QZE1NRKHY85W
+type: document
+subtype: brochure
+title: Zollamt Abriss am Morgen
+date: 1914-02-13
+language: de
+origin:
+  name: Karl Lemke
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/cf/eb/cfeb410e41b9af69aeed5aac1772b01a2ff40d2606ff2b92da5b98dd22466f5f/original.tif
+    sha256: cfeb410e41b9af69aeed5aac1772b01a2ff40d2606ff2b92da5b98dd22466f5f
+    mime: image/tiff
+    bytes: 21386197
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cf/eb/cfeb410e41b9af69aeed5aac1772b01a2ff40d2606ff2b92da5b98dd22466f5f/preview-400.63a6c4aec68c.jpg
+        sha256: 63a6c4aec68cc69d0b0389c271c88df8e332a3b7981277f22c0bb52c01bfdc21
+        mime: image/jpeg
+        bytes: 32961
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/f1/4d/f14d629302430622d12d504e9b40e35608c206ad4fed9603725d7ff830150191/original.tif
+    sha256: f14d629302430622d12d504e9b40e35608c206ad4fed9603725d7ff830150191
+    mime: image/tiff
+    bytes: 18039352
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f1/4d/f14d629302430622d12d504e9b40e35608c206ad4fed9603725d7ff830150191/preview-400.3006dc662673.jpg
+        sha256: 3006dc6626737878fb40d3f3393a8383b5f42d8cf9f732334997917fb33c35e4
+        mime: image/jpeg
+        bytes: 45332
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

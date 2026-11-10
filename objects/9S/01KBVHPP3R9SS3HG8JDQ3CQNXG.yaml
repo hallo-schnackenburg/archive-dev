@@ -1,0 +1,35 @@
+id: 01KBVHPP3R9SS3HG8JDQ3CQNXG
+type: image
+subtype: photo
+title: Rathaus Einladung am Sonntag
+date: 1901-07
+location: Schnackenburg, Ernte
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/96/eb/96eb7c9eb1385309e011c8eb9fb2107c3a74fe7fb823be35e2699155cf409c63/original.jpg
+    sha256: 96eb7c9eb1385309e011c8eb9fb2107c3a74fe7fb823be35e2699155cf409c63
+    mime: image/jpeg
+    bytes: 13736845
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/96/eb/96eb7c9eb1385309e011c8eb9fb2107c3a74fe7fb823be35e2699155cf409c63/preview-400.6cfaf5baf80a.jpg
+        sha256: 6cfaf5baf80a8882f820b11d2dc7189756af1f2de31d78fceb060838b67afadb
+        mime: image/jpeg
+        bytes: 74488
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

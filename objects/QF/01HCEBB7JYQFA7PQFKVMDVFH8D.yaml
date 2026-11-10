@@ -1,0 +1,34 @@
+id: 01HCEBB7JYQFA7PQFKVMDVFH8D
+type: image
+subtype: print
+title: Kirche St. Johannis Ansicht im Winter
+description: Hochwasser und gasthof, bei Hochwasser.
+date: "1914"
+origin:
+  name: Helga Plate
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/a3/d2/a3d250ff19868c549123026c4dbdc489347b485b9144f2b9a01012daf68aa584/original.tif
+    sha256: a3d250ff19868c549123026c4dbdc489347b485b9144f2b9a01012daf68aa584
+    mime: image/tiff
+    bytes: 11196272
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a3/d2/a3d250ff19868c549123026c4dbdc489347b485b9144f2b9a01012daf68aa584/preview-400.61f2507a9970.jpg
+        sha256: 61f2507a9970e288fc84dff15c5f14e0cc059acdf60c9adbf13f644077af1249
+        mime: image/jpeg
+        bytes: 75465
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

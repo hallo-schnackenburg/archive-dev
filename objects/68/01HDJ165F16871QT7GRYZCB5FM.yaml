@@ -1,0 +1,34 @@
+id: 01HDJ165F16871QT7GRYZCB5FM
+type: image
+subtype: plan
+title: Bäckerei Einladung am Sonntag
+date: "2016"
+location: Gartow, Friedhof
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/3b/d6/3bd6e7f85598f6a53a737035a254318ccd903c679666bc67cd4681764aabeb3d/original.tif
+    sha256: 3bd6e7f85598f6a53a737035a254318ccd903c679666bc67cd4681764aabeb3d
+    mime: image/tiff
+    bytes: 4716138
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3b/d6/3bd6e7f85598f6a53a737035a254318ccd903c679666bc67cd4681764aabeb3d/preview-400.f41de192d28d.jpg
+        sha256: f41de192d28d0a7aa2535b92c5fd184320139d953db6bff5a44035b5f88e1fd8
+        mime: image/jpeg
+        bytes: 24853
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

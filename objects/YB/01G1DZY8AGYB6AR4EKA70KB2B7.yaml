@@ -1,0 +1,35 @@
+id: 01G1DZY8AGYB6AR4EKA70KB2B7
+type: image
+subtype: photo
+title: Bahnhof Umzug am Morgen
+date: "1970"
+location: Schnackenburg, Dorfschule
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/33/db/33db02adcdcd45e9fa5781dab3ebe0f11192d043493f4ae6d2f6cfcce49774ee/original.jpg
+    sha256: 33db02adcdcd45e9fa5781dab3ebe0f11192d043493f4ae6d2f6cfcce49774ee
+    mime: image/jpeg
+    bytes: 4623804
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/33/db/33db02adcdcd45e9fa5781dab3ebe0f11192d043493f4ae6d2f6cfcce49774ee/preview-400.68def4f9091a.jpg
+        sha256: 68def4f9091a7461d40846b65327308bba6d90383d31408d14b65933497cd994
+        mime: image/jpeg
+        bytes: 65813
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01GSMHB4P2QYVDC10S9FWM119F
+type: image
+subtype: print
+title: Fähre Protokoll am Morgen
+date: 1939-01
+location: Kapern, Schützenfest
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/c2/de/c2de54fdf139554ac415e79b1cefaf29e5242f6d9ac420922085835b897617c7/original.tif
+    sha256: c2de54fdf139554ac415e79b1cefaf29e5242f6d9ac420922085835b897617c7
+    mime: image/tiff
+    bytes: 10242306
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/de/c2de54fdf139554ac415e79b1cefaf29e5242f6d9ac420922085835b897617c7/preview-400.bd768d3a8e56.jpg
+        sha256: bd768d3a8e56a1fbe47d70fdd82f15ea4fcc7baf9ebb75e6d0660ef716c29e7e
+        mime: image/jpeg
+        bytes: 82967
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

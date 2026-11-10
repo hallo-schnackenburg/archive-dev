@@ -1,0 +1,37 @@
+id: 01H2QXH54Y96HW3E9ZEHCVGV8V
+type: image
+subtype: print
+title: Feuerwehr Abriss am Morgen
+date: 2021-01
+location: Seedorf, Rathaus
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/34/ee/34ee5dbb153393b1e73b7d3c62db39aa3216ea84ca405d8ff0f3adbc23b65c99/original.tif
+    sha256: 34ee5dbb153393b1e73b7d3c62db39aa3216ea84ca405d8ff0f3adbc23b65c99
+    mime: image/tiff
+    bytes: 13752987
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/34/ee/34ee5dbb153393b1e73b7d3c62db39aa3216ea84ca405d8ff0f3adbc23b65c99/preview-400.d13d61aaf73f.jpg
+        sha256: d13d61aaf73f01761de22ca52dbca990206be9362bd549f5dddd4f80cb62a596
+        mime: image/jpeg
+        bytes: 71879
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

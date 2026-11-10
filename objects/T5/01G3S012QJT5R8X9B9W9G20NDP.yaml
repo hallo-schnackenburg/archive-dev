@@ -1,0 +1,53 @@
+id: 01G3S012QJT5R8X9B9W9G20NDP
+type: document
+subtype: letter
+title: Ernte Umbau vor dem Umbau
+description: Schreibt über die Ernte und das Wetter.
+date: 1975~
+language: de
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/07/fc/07fcf66073ec4a87ff77db78070b3fe58b0afea5bcd6a865a721181cd023a775/original.tif
+    sha256: 07fcf66073ec4a87ff77db78070b3fe58b0afea5bcd6a865a721181cd023a775
+    mime: image/tiff
+    bytes: 12634785
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/fc/07fcf66073ec4a87ff77db78070b3fe58b0afea5bcd6a865a721181cd023a775/preview-400.c5f3ebe2e1ba.jpg
+        sha256: c5f3ebe2e1bab2d0617384da94f8e79d02a84c5d3a82015a7b625cf8e06b0e87
+        mime: image/jpeg
+        bytes: 71454
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/de/80/de802de1b4ccc9f6096eede13bea3e3ff68f4bde0c50aedc8db0fb17d6a8bd90/original.tif
+    sha256: de802de1b4ccc9f6096eede13bea3e3ff68f4bde0c50aedc8db0fb17d6a8bd90
+    mime: image/tiff
+    bytes: 19948332
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/80/de802de1b4ccc9f6096eede13bea3e3ff68f4bde0c50aedc8db0fb17d6a8bd90/preview-400.8b6ff927a394.jpg
+        sha256: 8b6ff927a39415a62a7dd72a17e5c86d605aeaca055e099d1b6d80dc275344ca
+        mime: image/jpeg
+        bytes: 32237
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01M0E3Z9CV9TYC9VR7MFY6RHAB
+type: image
+subtype: plan
+title: Brücke Bescheid im Sommer
+date: 1954-11
+location: Kapern, Elbufer
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/d7/1a/d71ae40da7b524cb12c694e7583a6c849c303a5ac48821ca70bfd6f4dfaeefd9/original.tif
+    sha256: d71ae40da7b524cb12c694e7583a6c849c303a5ac48821ca70bfd6f4dfaeefd9
+    mime: image/tiff
+    bytes: 22362183
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/1a/d71ae40da7b524cb12c694e7583a6c849c303a5ac48821ca70bfd6f4dfaeefd9/preview-400.3cf73f6dbdd8.jpg
+        sha256: 3cf73f6dbdd8827df97ce5d26c7cbb11e07b5d2dde8e1be69b2b317fcea44117
+        mime: image/jpeg
+        bytes: 40985
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

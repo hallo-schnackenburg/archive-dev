@@ -1,0 +1,34 @@
+id: 01HXY12D81574R6B6BW8BWAKSZ
+type: image
+subtype: plan
+title: Molkerei Prospekt zur Wende
+date: 1867-02
+location: Pretzier, Schmiede
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/fe/7e/fe7e2cdf0d009d48232f1e5dd8b2761c5e0237e413f83525830ba3641d498073/original.tif
+    sha256: fe7e2cdf0d009d48232f1e5dd8b2761c5e0237e413f83525830ba3641d498073
+    mime: image/tiff
+    bytes: 16042793
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fe/7e/fe7e2cdf0d009d48232f1e5dd8b2761c5e0237e413f83525830ba3641d498073/preview-400.2e05370e01bd.jpg
+        sha256: 2e05370e01bd507545a54f73cb82a3b5a2f54341451f54cf52d95eec1a373fd1
+        mime: image/jpeg
+        bytes: 79049
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

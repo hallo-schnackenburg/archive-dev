@@ -1,0 +1,35 @@
+id: 01HGVGDBRFDQENBQJJ8D87NZ6P
+type: image
+subtype: photo
+title: Friedhof Rechnung vor dem Umbau
+date: 1985-06
+location: Schnackenburg, Sportplatz
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/12/16/12166b06b8ef7756d62b8578415013ba302771b0b9568df33b74134ff5d98343/original.jpg
+    sha256: 12166b06b8ef7756d62b8578415013ba302771b0b9568df33b74134ff5d98343
+    mime: image/jpeg
+    bytes: 4569835
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/12/16/12166b06b8ef7756d62b8578415013ba302771b0b9568df33b74134ff5d98343/preview-400.58a4e0225e27.jpg
+        sha256: 58a4e0225e27d7c3ca300b2d55e29c5c17560b2125ac5ab427b233df1f7056d5
+        mime: image/jpeg
+        bytes: 59929
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01HD61AGZY5VM2EAWHPCKHBEBJ
+type: image
+subtype: photo
+title: Bäckerei Entwurf zur Wende
+date: 1892-10-08
+location: Schnackenburg, Feuerwehr
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/75/78/7578ef03c43bcc581b5f4edd5804a53a9a85ba1ed6668f39505f9dad31e9f825/original.jpg
+    sha256: 7578ef03c43bcc581b5f4edd5804a53a9a85ba1ed6668f39505f9dad31e9f825
+    mime: image/jpeg
+    bytes: 14464841
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/75/78/7578ef03c43bcc581b5f4edd5804a53a9a85ba1ed6668f39505f9dad31e9f825/preview-400.be9a7a1e4c02.jpg
+        sha256: be9a7a1e4c029bed825ac802b6bb059fa431e76cc5b450cccf06ae5fe13c7da9
+        mime: image/jpeg
+        bytes: 81207
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

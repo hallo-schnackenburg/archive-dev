@@ -1,0 +1,34 @@
+id: 01G8MRZQ80AV604DSETKV9BRY0
+type: image
+subtype: plan
+title: Dorfteich Rechnung am Morgen
+date: 1959/1963
+location: Restorf, Sportplatz
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/e0/fa/e0fa4e66a6225f8e3e6c598f36336ba139e96066dd4181a99f0cab3b2682f2d2/original.tif
+    sha256: e0fa4e66a6225f8e3e6c598f36336ba139e96066dd4181a99f0cab3b2682f2d2
+    mime: image/tiff
+    bytes: 9612652
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e0/fa/e0fa4e66a6225f8e3e6c598f36336ba139e96066dd4181a99f0cab3b2682f2d2/preview-400.953af6787b6b.jpg
+        sha256: 953af6787b6b86e1edbb2e060fbaa1582cf2bd2e9cae4f8a3804f6c8a37b3615
+        mime: image/jpeg
+        bytes: 37950
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

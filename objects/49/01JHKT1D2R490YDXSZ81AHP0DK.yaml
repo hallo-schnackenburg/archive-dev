@@ -1,0 +1,51 @@
+id: 01JHKT1D2R490YDXSZ81AHP0DK
+type: document
+subtype: brochure
+title: Feuerwehr Prospekt am Sonntag
+date: 1903-03-15
+language: de
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/55/4c/554c277a49df216fee395b12b1f31511127b5eedfcf655053abc014e80f1c9fc/original.tif
+    sha256: 554c277a49df216fee395b12b1f31511127b5eedfcf655053abc014e80f1c9fc
+    mime: image/tiff
+    bytes: 7585347
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/55/4c/554c277a49df216fee395b12b1f31511127b5eedfcf655053abc014e80f1c9fc/preview-400.ef021e624c01.jpg
+        sha256: ef021e624c01b0158ae5354f31696e554c1dcb21e0bb726280d12459db405909
+        mime: image/jpeg
+        bytes: 31539
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/f5/1c/f51cad428309b0236e0149e348df224ee3aded7e28cdbf279848d39de0e4781a/original.tif
+    sha256: f51cad428309b0236e0149e348df224ee3aded7e28cdbf279848d39de0e4781a
+    mime: image/tiff
+    bytes: 3362547
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f5/1c/f51cad428309b0236e0149e348df224ee3aded7e28cdbf279848d39de0e4781a/preview-400.8d2702dc0305.jpg
+        sha256: 8d2702dc0305abad72cf7e43f39d54bad685d6e80544551adb4ecbfc3b1f197f
+        mime: image/jpeg
+        bytes: 38799
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

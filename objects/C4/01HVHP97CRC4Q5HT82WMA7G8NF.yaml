@@ -1,0 +1,39 @@
+id: 01HVHP97CRC4Q5HT82WMA7G8NF
+type: image
+subtype: photo
+title: Pfarrhaus Aufnahme zur Wende
+date: 1889-12-21
+location: Restorf, Gasthof
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Hans Brandt
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/b8/47/b8470acb2ed56f36c060f753951ebc0c3cc286fa6d2722d617debdf531d6b946/original.jpg
+    sha256: b8470acb2ed56f36c060f753951ebc0c3cc286fa6d2722d617debdf531d6b946
+    mime: image/jpeg
+    bytes: 1446378
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b8/47/b8470acb2ed56f36c060f753951ebc0c3cc286fa6d2722d617debdf531d6b946/preview-400.4636e9cfb93b.jpg
+        sha256: 4636e9cfb93b227781033ea7c405f224193dd83ac339b773da1310c7aeee2681
+        mime: image/jpeg
+        bytes: 50861
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

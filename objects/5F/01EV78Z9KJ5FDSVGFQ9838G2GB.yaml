@@ -1,0 +1,53 @@
+id: 01EV78Z9KJ5FDSVGFQ9838G2GB
+type: document
+subtype: letter
+title: Kirche St. Johannis Aufnahme zur Ernte
+description: Fachwerkhaus und feuerwehr, nach dem Krieg.
+date: 1857-04-28
+language: de
+origin:
+  name: Rudolf Garms
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/d7/0b/d70b4e73b954d3806bb60885f3fb0d80685522328509da7ac4c199ddc2ba72b8/original.tif
+    sha256: d70b4e73b954d3806bb60885f3fb0d80685522328509da7ac4c199ddc2ba72b8
+    mime: image/tiff
+    bytes: 27111376
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/0b/d70b4e73b954d3806bb60885f3fb0d80685522328509da7ac4c199ddc2ba72b8/preview-400.a98cff08e1ed.jpg
+        sha256: a98cff08e1ed6bdddc088b427531da591862494f5b9f07d945c8386669e94da3
+        mime: image/jpeg
+        bytes: 72286
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/51/8d/518dc9712034ef094b19e50090ee0b964e1f412616592f978ff07a817b3a5432/original.tif
+    sha256: 518dc9712034ef094b19e50090ee0b964e1f412616592f978ff07a817b3a5432
+    mime: image/tiff
+    bytes: 21683179
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/51/8d/518dc9712034ef094b19e50090ee0b964e1f412616592f978ff07a817b3a5432/preview-400.fae29013436d.jpg
+        sha256: fae29013436dbedcf2a114e6598ee24b763926b2ffdf33072af70a192e7c51e5
+        mime: image/jpeg
+        bytes: 31375
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

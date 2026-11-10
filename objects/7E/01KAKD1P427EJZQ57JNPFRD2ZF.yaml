@@ -1,0 +1,35 @@
+id: 01KAKD1P427EJZQ57JNPFRD2ZF
+type: image
+subtype: photo
+title: Gasthof Brief bei Hochwasser
+date: 2018/2019
+location: Lüchow, Pfarrhaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/95/d5/95d5ce39e2769e0b03d817ab3aa1e423d082159462627033c3fcd90da39bf079/original.jpg
+    sha256: 95d5ce39e2769e0b03d817ab3aa1e423d082159462627033c3fcd90da39bf079
+    mime: image/jpeg
+    bytes: 26509780
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/95/d5/95d5ce39e2769e0b03d817ab3aa1e423d082159462627033c3fcd90da39bf079/preview-400.8f40d34ef516.jpg
+        sha256: 8f40d34ef5166bff579b32477af5952f1559c8450cfd2b322b6ae619b9affa0e
+        mime: image/jpeg
+        bytes: 31280
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

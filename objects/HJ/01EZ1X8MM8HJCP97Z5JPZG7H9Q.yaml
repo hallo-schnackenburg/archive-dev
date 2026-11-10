@@ -1,0 +1,35 @@
+id: 01EZ1X8MM8HJCP97Z5JPZG7H9Q
+type: image
+subtype: photo
+title: Ernte Protokoll zur Wende
+date: 1996-09
+location: Restorf, Mühle
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/f8/84/f884ea8b899fb6ede964cf176d61fc627ea54f5f43e1539f728cb34c8f5f05ba/original.jpg
+    sha256: f884ea8b899fb6ede964cf176d61fc627ea54f5f43e1539f728cb34c8f5f05ba
+    mime: image/jpeg
+    bytes: 22975577
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f8/84/f884ea8b899fb6ede964cf176d61fc627ea54f5f43e1539f728cb34c8f5f05ba/preview-400.a25c36962e34.jpg
+        sha256: a25c36962e34f71a0c2b2a649eab9914053514183fbb58df39575cdcc5e62b49
+        mime: image/jpeg
+        bytes: 78684
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

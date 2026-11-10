@@ -1,0 +1,53 @@
+id: 01KX515N3BEQHGDH1D4Q2GMJ69
+type: document
+subtype: letter
+title: Schützenfest Notiz vor dem Umbau
+description: Schreibt über die Ernte und das Wetter.
+date: 1853-03-06
+language: de
+origin:
+  name: Helga Plate
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/67/a6/67a698fe61147341b131e1fad6ef0c678fac9171de7ca27560fede65ec849767/original.tif
+    sha256: 67a698fe61147341b131e1fad6ef0c678fac9171de7ca27560fede65ec849767
+    mime: image/tiff
+    bytes: 3042800
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/67/a6/67a698fe61147341b131e1fad6ef0c678fac9171de7ca27560fede65ec849767/preview-400.4855f96c461f.jpg
+        sha256: 4855f96c461f2742e5bb87c85bf583ca254e6a919d01eaf2723ce2d13e309313
+        mime: image/jpeg
+        bytes: 39815
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/35/03/3503621709e04d67ef000aab1be1ecbb290f21b27945ce700995066dbd776612/original.tif
+    sha256: 3503621709e04d67ef000aab1be1ecbb290f21b27945ce700995066dbd776612
+    mime: image/tiff
+    bytes: 5968827
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/35/03/3503621709e04d67ef000aab1be1ecbb290f21b27945ce700995066dbd776612/preview-400.dc5a1a1f613b.jpg
+        sha256: dc5a1a1f613b2bc083f3b85f789fdad3a8cf6dd849ae0493cf812bdcb00cbfa1
+        mime: image/jpeg
+        bytes: 62894
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

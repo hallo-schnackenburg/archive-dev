@@ -1,0 +1,39 @@
+id: 01FW4B0G5PMTBGGEXGFKK5C52B
+type: image
+subtype: photo
+title: Zollamt Ansicht am Morgen
+date: 2016-07-16
+location: Gorleben, Gemeindehaus
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/f5/12/f512fa08c3eab75d422ad66ea1d2dde427f97b3284d449da6109780dea125023/original.jpg
+    sha256: f512fa08c3eab75d422ad66ea1d2dde427f97b3284d449da6109780dea125023
+    mime: image/jpeg
+    bytes: 27506000
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f5/12/f512fa08c3eab75d422ad66ea1d2dde427f97b3284d449da6109780dea125023/preview-400.b24fc67e264f.jpg
+        sha256: b24fc67e264fae0e3dbc39192ca2dcf22fc0249e8ad51fd61157a340278320a4
+        mime: image/jpeg
+        bytes: 31003
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

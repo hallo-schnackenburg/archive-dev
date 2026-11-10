@@ -1,0 +1,34 @@
+id: 01K9CZE5WJ1BGT4JGKEW2KSC03
+type: image
+subtype: print
+title: Bahnhof Prospekt bei Hochwasser
+description: Kupferstich.
+date: 1999/2002
+origin:
+  name: Marta Lüders
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/00/22/0022550b641c73b091befce99c48b682255b641b5cf61e21f24de9ec22c7ba8c/original.tif
+    sha256: 0022550b641c73b091befce99c48b682255b641b5cf61e21f24de9ec22c7ba8c
+    mime: image/tiff
+    bytes: 8479444
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/00/22/0022550b641c73b091befce99c48b682255b641b5cf61e21f24de9ec22c7ba8c/preview-400.13df2ebaf85e.jpg
+        sha256: 13df2ebaf85e6b897f8d01651f478c5d6717ca78007123855a3595c46349e2f6
+        mime: image/jpeg
+        bytes: 55676
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

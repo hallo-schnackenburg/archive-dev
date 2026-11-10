@@ -1,0 +1,29 @@
+id: 01KADMH3WSD64DGAKWHE8G210A
+type: image
+subtype: plan
+title: Gasthof Rechnung zur Ernte
+date: 2006-09-27
+location: Kapern, Brücke
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: bauplan_feuerwehr.tif
+    path: files/90/97/909776c35fbce7dbc7677c7cf142959f9bcee445de4faf57136c4eb865032eac/original.tif
+    sha256: 909776c35fbce7dbc7677c7cf142959f9bcee445de4faf57136c4eb865032eac
+    mime: image/tiff
+    bytes: 5762071
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/90/97/909776c35fbce7dbc7677c7cf142959f9bcee445de4faf57136c4eb865032eac/preview-400.195b4b1b3e20.jpg
+        sha256: 195b4b1b3e2078cf21967b44976a2606acc8a393ea62026cb0a7c89b95dff235
+        mime: image/jpeg
+        bytes: 50557
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

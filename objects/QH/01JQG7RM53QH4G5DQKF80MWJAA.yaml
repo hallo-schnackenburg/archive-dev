@@ -1,0 +1,35 @@
+id: 01JQG7RM53QH4G5DQKF80MWJAA
+type: image
+subtype: photo
+title: Grenzturm Ansicht bei Hochwasser
+date: 1978-03-13
+location: Lüchow, Kindergarten
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/b4/07/b40712e6dc626ed1b4743040609b8b888a545ce10a722f0c602d762d4da2ea01/original.jpg
+    sha256: b40712e6dc626ed1b4743040609b8b888a545ce10a722f0c602d762d4da2ea01
+    mime: image/jpeg
+    bytes: 14425878
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b4/07/b40712e6dc626ed1b4743040609b8b888a545ce10a722f0c602d762d4da2ea01/preview-400.abf4f03324f5.jpg
+        sha256: abf4f03324f54905a4047d430c1e18b853334a01ac18fa350a5c1cfb6a474348
+        mime: image/jpeg
+        bytes: 59044
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

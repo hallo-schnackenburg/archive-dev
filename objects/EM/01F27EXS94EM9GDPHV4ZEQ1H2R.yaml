@@ -1,0 +1,47 @@
+id: 01F27EXS94EM9GDPHV4ZEQ1H2R
+type: image
+subtype: photo
+title: Hochwasser Jubiläum nach dem Krieg
+description: Bahnhof und zollamt, bei Hochwasser.
+date: 1925-11
+location: Kapern, Gemeindehaus
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/99/e4/99e4038c6d047f0838815f8a1b74b37babb0be2d4a71fc7ea3eb10c53bf0fcdb/original.jpg
+    sha256: 99e4038c6d047f0838815f8a1b74b37babb0be2d4a71fc7ea3eb10c53bf0fcdb
+    mime: image/jpeg
+    bytes: 20486856
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/99/e4/99e4038c6d047f0838815f8a1b74b37babb0be2d4a71fc7ea3eb10c53bf0fcdb/preview-400.5cd9a761c1b6.jpg
+        sha256: 5cd9a761c1b6b509521528302e95c246dae582384172ee171bd1ea5a3b436c8c
+        mime: image/jpeg
+        bytes: 70015
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

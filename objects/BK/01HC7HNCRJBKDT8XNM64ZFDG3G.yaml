@@ -1,0 +1,39 @@
+id: 01HC7HNCRJBKDT8XNM64ZFDG3G
+type: image
+subtype: photo
+title: Brunnen Entwurf im Sommer
+date: 1973-09-16
+location: Kapern, Molkerei
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/d5/1b/d51b1de7a9f623e1f5408056a270e4fd7a97749a0c607284deed72c2e81ed371/original.jpg
+    sha256: d51b1de7a9f623e1f5408056a270e4fd7a97749a0c607284deed72c2e81ed371
+    mime: image/jpeg
+    bytes: 885656
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d5/1b/d51b1de7a9f623e1f5408056a270e4fd7a97749a0c607284deed72c2e81ed371/preview-400.b059438daaa5.jpg
+        sha256: b059438daaa5ae21126b93a7f169584cc326b6f4406a764cc71bf89bc06026de
+        mime: image/jpeg
+        bytes: 88914
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

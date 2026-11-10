@@ -1,0 +1,39 @@
+id: 01J18EM86KFZMTPNF8DX64823X
+type: image
+subtype: photo
+title: Fähre Ansicht im Sommer
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1933-06
+location: Seedorf, Pfarrhaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Walter Kuhlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/2d/1b/2d1b8452f6aaa947d1b430abbeaf4b165097679b10c49f73687255b52afcc975/original.jpg
+    sha256: 2d1b8452f6aaa947d1b430abbeaf4b165097679b10c49f73687255b52afcc975
+    mime: image/jpeg
+    bytes: 12560571
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2d/1b/2d1b8452f6aaa947d1b430abbeaf4b165097679b10c49f73687255b52afcc975/preview-400.48bfbf74119d.jpg
+        sha256: 48bfbf74119d35b50db91c8cf83d1c8832f3e81755734846099b7d512a25ca00
+        mime: image/jpeg
+        bytes: 27698
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

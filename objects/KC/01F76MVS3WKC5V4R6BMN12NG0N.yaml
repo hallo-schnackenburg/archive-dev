@@ -1,0 +1,34 @@
+id: 01F76MVS3WKC5V4R6BMN12NG0N
+type: image
+subtype: plan
+title: Grenzturm Entwurf im Winter
+date: "1896"
+location: Gorleben, Brunnen
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/5b/df/5bdf18fa3f4ab93181a45a297d1a9b2a39fb74222ba2a040f88ab073578cd3b9/original.tif
+    sha256: 5bdf18fa3f4ab93181a45a297d1a9b2a39fb74222ba2a040f88ab073578cd3b9
+    mime: image/tiff
+    bytes: 16301504
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5b/df/5bdf18fa3f4ab93181a45a297d1a9b2a39fb74222ba2a040f88ab073578cd3b9/preview-400.cfb6b748ae2a.jpg
+        sha256: cfb6b748ae2ada4f7363bcacf163b5f2470202b68c28830da1fb5d7c05730548
+        mime: image/jpeg
+        bytes: 26614
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

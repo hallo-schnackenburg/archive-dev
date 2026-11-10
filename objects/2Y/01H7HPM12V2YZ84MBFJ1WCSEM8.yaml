@@ -1,0 +1,39 @@
+id: 01H7HPM12V2YZ84MBFJ1WCSEM8
+type: image
+subtype: photo
+title: Elbufer Brief zur Wende
+date: 2015-06-21
+location: Seedorf, Feuerwehr
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/71/17/7117096db09938b2d7999638a94f912c730f22bdb02cfba37d8fb911a84f8a91/original.jpg
+    sha256: 7117096db09938b2d7999638a94f912c730f22bdb02cfba37d8fb911a84f8a91
+    mime: image/jpeg
+    bytes: 2795494
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/71/17/7117096db09938b2d7999638a94f912c730f22bdb02cfba37d8fb911a84f8a91/preview-400.051ad80b755d.jpg
+        sha256: 051ad80b755d572065efc5ab9ea42bfc63ea0d801cb47ce160f3c930d209374d
+        mime: image/jpeg
+        bytes: 44555
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

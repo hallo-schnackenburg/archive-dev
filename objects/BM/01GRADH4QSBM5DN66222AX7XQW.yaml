@@ -1,0 +1,34 @@
+id: 01GRADH4QSBM5DN66222AX7XQW
+type: image
+subtype: print
+title: Rathaus Zeichnung nach dem Krieg
+description: Rathaus und rathaus, im Winter.
+date: 1890-03
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/bc/ed/bced98961b8803e49100c241df3a35ec55709cae5b8d86aa043a6f3c76d2c36d/original.tif
+    sha256: bced98961b8803e49100c241df3a35ec55709cae5b8d86aa043a6f3c76d2c36d
+    mime: image/tiff
+    bytes: 22310761
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bc/ed/bced98961b8803e49100c241df3a35ec55709cae5b8d86aa043a6f3c76d2c36d/preview-400.2c3662c648cd.jpg
+        sha256: 2c3662c648cd882990fa55bcb099f4b02d0266b29ba90baee23b5b1676a6a5b3
+        mime: image/jpeg
+        bytes: 37671
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

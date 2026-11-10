@@ -1,0 +1,39 @@
+id: 01KREKTPX11PFNDFHY4T7H03SS
+type: image
+subtype: photo
+title: Friedhof Abriss nach dem Krieg
+date: 1949-03
+location: Pretzier, Hafen
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/f4/57/f4576f5c9f289b7fbb2b90d343847bf959cab304cd8e626b9895b5f645e41699/original.jpg
+    sha256: f4576f5c9f289b7fbb2b90d343847bf959cab304cd8e626b9895b5f645e41699
+    mime: image/jpeg
+    bytes: 18516897
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f4/57/f4576f5c9f289b7fbb2b90d343847bf959cab304cd8e626b9895b5f645e41699/preview-400.7dea3c932e54.jpg
+        sha256: 7dea3c932e54694cbfa8c52e30041586d201fa53f21df293cf0c5fab8fd47209
+        mime: image/jpeg
+        bytes: 61320
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

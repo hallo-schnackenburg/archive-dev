@@ -1,0 +1,53 @@
+id: 01G9KQHVKS8TJXKTBK9982R5Z4
+type: document
+subtype: letter
+title: Kirche St. Johannis Ansicht bei Hochwasser
+description: Schreibt über die Ernte und das Wetter.
+date: "1997"
+language: de
+origin:
+  name: Rudolf Garms
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/01/c0/01c0a1949589ac383b60a2842cbc8b9c597402521ced837eed416bcdabf7fe61/original.tif
+    sha256: 01c0a1949589ac383b60a2842cbc8b9c597402521ced837eed416bcdabf7fe61
+    mime: image/tiff
+    bytes: 16263321
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/c0/01c0a1949589ac383b60a2842cbc8b9c597402521ced837eed416bcdabf7fe61/preview-400.aff1e35e5c46.jpg
+        sha256: aff1e35e5c4676b76a775da917593d4ca0a65286847e938aff0579a951108fb2
+        mime: image/jpeg
+        bytes: 64905
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/67/7e/677e04a33e57d6b597b06d64a9ba43c956ee105bec2c46a0789eb4f9b278db5f/original.tif
+    sha256: 677e04a33e57d6b597b06d64a9ba43c956ee105bec2c46a0789eb4f9b278db5f
+    mime: image/tiff
+    bytes: 11489902
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/67/7e/677e04a33e57d6b597b06d64a9ba43c956ee105bec2c46a0789eb4f9b278db5f/preview-400.e8468168b77a.jpg
+        sha256: e8468168b77adf5ee57f8adebedd5456ba38febca61a5039a8fca7c070543a41
+        mime: image/jpeg
+        bytes: 45462
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

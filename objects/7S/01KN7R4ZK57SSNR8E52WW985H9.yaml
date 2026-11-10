@@ -1,0 +1,51 @@
+id: 01KN7R4ZK57SSNR8E52WW985H9
+type: document
+subtype: brochure
+title: Pfarrhaus Umbau im Winter
+date: 1997-05
+language: de
+origin:
+  name: Otto Hennings
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/63/38/633842de71521d77e9289d043b94646e19e8140f5b9718cb07ca0d0f9a99c65c/original.tif
+    sha256: 633842de71521d77e9289d043b94646e19e8140f5b9718cb07ca0d0f9a99c65c
+    mime: image/tiff
+    bytes: 20321629
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/63/38/633842de71521d77e9289d043b94646e19e8140f5b9718cb07ca0d0f9a99c65c/preview-400.466f275c7c14.jpg
+        sha256: 466f275c7c14e5098a0765b4c360a53c7cb2bc42704575b715fad0342d042b03
+        mime: image/jpeg
+        bytes: 24012
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/2f/b3/2fb3fd23505c9c769677bbbc19975b6590f07dda0455cc25ff0743332d250349/original.tif
+    sha256: 2fb3fd23505c9c769677bbbc19975b6590f07dda0455cc25ff0743332d250349
+    mime: image/tiff
+    bytes: 17516135
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2f/b3/2fb3fd23505c9c769677bbbc19975b6590f07dda0455cc25ff0743332d250349/preview-400.6395fcd194b0.jpg
+        sha256: 6395fcd194b03ba01548cf2d76f16c93767444311032dc6a782797d761b80cd7
+        mime: image/jpeg
+        bytes: 66367
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

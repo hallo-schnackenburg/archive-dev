@@ -1,0 +1,29 @@
+id: 01FTGSC84HBQKR99JDRM6BXWP0
+type: image
+subtype: plan
+title: Marktplatz Bericht am Sonntag
+date: "1915"
+location: Gartow, Gasthof
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: bauplan_feuerwehr.tif
+    path: files/df/1a/df1a35edd1a087a13c1a5a11ed4edf27f73d4d746eb84755e9e62243123e3e94/original.tif
+    sha256: df1a35edd1a087a13c1a5a11ed4edf27f73d4d746eb84755e9e62243123e3e94
+    mime: image/tiff
+    bytes: 18111098
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/df/1a/df1a35edd1a087a13c1a5a11ed4edf27f73d4d746eb84755e9e62243123e3e94/preview-400.5d95b63e1c53.jpg
+        sha256: 5d95b63e1c534eb1865643e017b15c4db667156a5fa50e823d42e98dadbf314e
+        mime: image/jpeg
+        bytes: 66484
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

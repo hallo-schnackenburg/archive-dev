@@ -1,0 +1,39 @@
+id: 01GFRR4PKCHSM1CF5Y9C3QHXZD
+type: image
+subtype: photo
+title: Gasthof Notiz am Morgen
+date: 1979-06-27
+location: Pretzier, Bahnhof
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/cb/ea/cbea1530861abbd10592b3d59aa2a95ed18939d5703c1c4eccf8b1251cac575c/original.jpg
+    sha256: cbea1530861abbd10592b3d59aa2a95ed18939d5703c1c4eccf8b1251cac575c
+    mime: image/jpeg
+    bytes: 307714
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/cb/ea/cbea1530861abbd10592b3d59aa2a95ed18939d5703c1c4eccf8b1251cac575c/preview-400.5474d6e1a7b0.jpg
+        sha256: 5474d6e1a7b0ca1e8bf3066f09d4262cf8c21f30b33b9455d330ed61b6ac2f0a
+        mime: image/jpeg
+        bytes: 76701
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

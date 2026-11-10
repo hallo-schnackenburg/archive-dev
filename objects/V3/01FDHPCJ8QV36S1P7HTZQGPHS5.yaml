@@ -1,0 +1,53 @@
+id: 01FDHPCJ8QV36S1P7HTZQGPHS5
+type: document
+subtype: letter
+title: Molkerei Jubiläum zur Ernte
+description: Bahnhof und dorfschule, zur Ernte.
+date: 1950-09-14
+language: de
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/04/21/0421f09d6e23f274e0aa902036b62a5011d5765b9a258adfbb6cfc34b4c5f880/original.tif
+    sha256: 0421f09d6e23f274e0aa902036b62a5011d5765b9a258adfbb6cfc34b4c5f880
+    mime: image/tiff
+    bytes: 27115467
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/21/0421f09d6e23f274e0aa902036b62a5011d5765b9a258adfbb6cfc34b4c5f880/preview-400.af042c82cbef.jpg
+        sha256: af042c82cbefaa60f2a303cefd5ed2403a87164d1edd42a3276d30abf942739f
+        mime: image/jpeg
+        bytes: 62660
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/ef/64/ef64ceb94d9dc86e16a6884ad12de876a65bb15ab408bfe391ad97bd1f03da68/original.tif
+    sha256: ef64ceb94d9dc86e16a6884ad12de876a65bb15ab408bfe391ad97bd1f03da68
+    mime: image/tiff
+    bytes: 1938951
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ef/64/ef64ceb94d9dc86e16a6884ad12de876a65bb15ab408bfe391ad97bd1f03da68/preview-400.d7ac19be0c2c.jpg
+        sha256: d7ac19be0c2c3459bbacd80a18ba802e740d44065a6f77a26bdac645ae912d67
+        mime: image/jpeg
+        bytes: 70475
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

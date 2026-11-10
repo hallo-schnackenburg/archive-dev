@@ -1,0 +1,34 @@
+id: 01JSJD1651DA5WYRJ3XERXCK08
+type: image
+subtype: plan
+title: Molkerei Prospekt im Winter
+date: 1970~
+location: Restorf, Rathaus
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/13/42/1342a970315db8fafb2cee374a4df914c3609ca503dfce4c99cf7c9e705b8f79/original.tif
+    sha256: 1342a970315db8fafb2cee374a4df914c3609ca503dfce4c99cf7c9e705b8f79
+    mime: image/tiff
+    bytes: 22916008
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/13/42/1342a970315db8fafb2cee374a4df914c3609ca503dfce4c99cf7c9e705b8f79/preview-400.05eb7805fec2.jpg
+        sha256: 05eb7805fec28f9d76307c000d858ac97e414c94d6454b357c0cf5db668aea56
+        mime: image/jpeg
+        bytes: 39824
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01HRCMEBPFJ4D69WZTD5HDFFCB
+type: image
+subtype: photo
+title: Fähre Ansicht zur Ernte
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1927-09-01
+location: Holtorf, Schützenfest
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/d8/3a/d83a12b346ac03af44c0a0641e4e9028c7c5ca50c0134936c53e43987f601a7d/original.jpg
+    sha256: d83a12b346ac03af44c0a0641e4e9028c7c5ca50c0134936c53e43987f601a7d
+    mime: image/jpeg
+    bytes: 20485281
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d8/3a/d83a12b346ac03af44c0a0641e4e9028c7c5ca50c0134936c53e43987f601a7d/preview-400.19e3b7640637.jpg
+        sha256: 19e3b7640637f207cc8addf044449d7845b8cef66bb4f82c3b9dd41b552e1858
+        mime: image/jpeg
+        bytes: 24407
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

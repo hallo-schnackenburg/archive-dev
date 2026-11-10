@@ -1,0 +1,39 @@
+id: 01JDAJJACD8PR07N0SYYH8WRKD
+type: image
+subtype: photo
+title: Bäckerei Ansicht am Sonntag
+date: 2001/2005
+location: Lenzen, Rathaus
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Marta Lüders
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/55/70/557007c8f39c6186982a8d898f21152925ed1a2f8f24588155f02b574c003372/original.jpg
+    sha256: 557007c8f39c6186982a8d898f21152925ed1a2f8f24588155f02b574c003372
+    mime: image/jpeg
+    bytes: 16466331
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/55/70/557007c8f39c6186982a8d898f21152925ed1a2f8f24588155f02b574c003372/preview-400.b25c843fcbb4.jpg
+        sha256: b25c843fcbb4dcd5d00e46a717d566fbd67d76be0f1089620b4e30e99b94edcb
+        mime: image/jpeg
+        bytes: 70884
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

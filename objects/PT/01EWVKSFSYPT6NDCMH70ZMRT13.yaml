@@ -1,0 +1,35 @@
+id: 01EWVKSFSYPT6NDCMH70ZMRT13
+type: image
+subtype: photo
+title: Hafen Festtag zu Pfingsten
+date: 1900-06-02
+location: Gorleben, Schützenfest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/ba/72/ba722782b103bb852ca67db0c28b96fc5d26138e2953ae08f0734b66fd4b3cf2/original.jpg
+    sha256: ba722782b103bb852ca67db0c28b96fc5d26138e2953ae08f0734b66fd4b3cf2
+    mime: image/jpeg
+    bytes: 23731306
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ba/72/ba722782b103bb852ca67db0c28b96fc5d26138e2953ae08f0734b66fd4b3cf2/preview-400.e6b0c041e2db.jpg
+        sha256: e6b0c041e2db088f30a753b08ceb1914df2dc8356faf6cc59db85d40116a067c
+        mime: image/jpeg
+        bytes: 50527
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

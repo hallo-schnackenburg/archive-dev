@@ -1,0 +1,51 @@
+id: 01GG5X2Q0MHNC7N2NTQD8QMY02
+type: document
+subtype: brochure
+title: Elbdeich Einladung nach dem Krieg
+date: 2020-06-03
+language: de
+origin:
+  name: Fritz Bohlmann
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/be/1f/be1f0991dc165f77c6d2f3cbb250d7d78a3b501646e520e909631936ada5140c/original.tif
+    sha256: be1f0991dc165f77c6d2f3cbb250d7d78a3b501646e520e909631936ada5140c
+    mime: image/tiff
+    bytes: 487437
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/1f/be1f0991dc165f77c6d2f3cbb250d7d78a3b501646e520e909631936ada5140c/preview-400.775fef72e9ff.jpg
+        sha256: 775fef72e9ff061fff08ba085cfd11b884e18e7717f1bbbec631d68c7727331c
+        mime: image/jpeg
+        bytes: 60466
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/0f/12/0f12cf433651fcc9f2192c945e9695127640611264c429ec6d70105a1e6cbac2/original.tif
+    sha256: 0f12cf433651fcc9f2192c945e9695127640611264c429ec6d70105a1e6cbac2
+    mime: image/tiff
+    bytes: 21476373
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0f/12/0f12cf433651fcc9f2192c945e9695127640611264c429ec6d70105a1e6cbac2/preview-400.2ac93d856d49.jpg
+        sha256: 2ac93d856d49c00804c52336b388f46cbd65f039bf9de80e6b3d76137dcea5d8
+        mime: image/jpeg
+        bytes: 86811
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

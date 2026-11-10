@@ -1,0 +1,39 @@
+id: 01FNV0HSNDDQS3E2S090TWFQES
+type: image
+subtype: photo
+title: Bäckerei Einweihung am Morgen
+date: 1942-01
+location: Lüchow, Dorfschule
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Hans Brandt
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/00/e6/00e6ce009777fbc46a91ff33c39803b76c667dab1d648818141cc8baae9d2312/original.jpg
+    sha256: 00e6ce009777fbc46a91ff33c39803b76c667dab1d648818141cc8baae9d2312
+    mime: image/jpeg
+    bytes: 12944294
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/00/e6/00e6ce009777fbc46a91ff33c39803b76c667dab1d648818141cc8baae9d2312/preview-400.865cec1a14c9.jpg
+        sha256: 865cec1a14c90557cfae919dea3ffd0f8c5d962220eaf3cc68799581d81a16e4
+        mime: image/jpeg
+        bytes: 54027
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

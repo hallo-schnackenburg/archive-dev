@@ -1,0 +1,39 @@
+id: 01FJVX83K7PDMP6AWWYD2A922H
+type: image
+subtype: photo
+title: Bäckerei Ansicht im Sommer
+date: "1857"
+location: Restorf, Ernte
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Otto Hennings
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/b5/1f/b51fa86a7600d03bc58b9954b4c9846bca55840ce6952ed2ed0a87d80cd66d0b/original.jpg
+    sha256: b51fa86a7600d03bc58b9954b4c9846bca55840ce6952ed2ed0a87d80cd66d0b
+    mime: image/jpeg
+    bytes: 27764734
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b5/1f/b51fa86a7600d03bc58b9954b4c9846bca55840ce6952ed2ed0a87d80cd66d0b/preview-400.d860adf84657.jpg
+        sha256: d860adf84657d70bf28574ed89fbb3d9bebe45a3ae0cc2f657dcc0d2645223c0
+        mime: image/jpeg
+        bytes: 74116
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

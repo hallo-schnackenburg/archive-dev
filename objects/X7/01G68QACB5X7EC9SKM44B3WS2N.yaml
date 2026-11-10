@@ -1,0 +1,34 @@
+id: 01G68QACB5X7EC9SKM44B3WS2N
+type: image
+subtype: print
+title: Feuerwehr Aufnahme am Sonntag
+description: Kupferstich.
+date: 1914~
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/95/23/95230458c1bb3b18f5a39cb1724ee425dfd3a6b0dd502be50317a77125808a35/original.tif
+    sha256: 95230458c1bb3b18f5a39cb1724ee425dfd3a6b0dd502be50317a77125808a35
+    mime: image/tiff
+    bytes: 10087572
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/23/95230458c1bb3b18f5a39cb1724ee425dfd3a6b0dd502be50317a77125808a35/preview-400.b6687eeaf2ad.jpg
+        sha256: b6687eeaf2ad6c44c651355c4421cb477800ec4c0d16f9940b5b2669c081f7f3
+        mime: image/jpeg
+        bytes: 74197
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

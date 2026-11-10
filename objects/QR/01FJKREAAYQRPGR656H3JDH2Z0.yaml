@@ -1,0 +1,35 @@
+id: 01FJKREAAYQRPGR656H3JDH2Z0
+type: image
+subtype: photo
+title: Pfarrhaus Gruppenbild im Sommer
+date: "1910"
+location: Seedorf, Brücke
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/0e/91/0e91884650d053206d54ff2d328086f08f2c4afdef31b90d4eebd4da897a67be/original.jpg
+    sha256: 0e91884650d053206d54ff2d328086f08f2c4afdef31b90d4eebd4da897a67be
+    mime: image/jpeg
+    bytes: 7320886
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0e/91/0e91884650d053206d54ff2d328086f08f2c4afdef31b90d4eebd4da897a67be/preview-400.2bf4a6d9ce3f.jpg
+        sha256: 2bf4a6d9ce3f07ebb114257aa28826c48aa089a9a2c6b2bce88623f3a12d6e2f
+        mime: image/jpeg
+        bytes: 46947
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

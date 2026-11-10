@@ -1,0 +1,39 @@
+id: 01G9PP945F2KDFETP4JJRR46NT
+type: image
+subtype: photo
+title: Dorfschule Protokoll im Sommer
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1884-05-02
+location: Lüchow, Brücke
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Hans Brandt
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/37/e2/37e2ef813034ef894cba6948120d62bd0d10cc471bb5a4d8ad41b2e95e328411/original.jpg
+    sha256: 37e2ef813034ef894cba6948120d62bd0d10cc471bb5a4d8ad41b2e95e328411
+    mime: image/jpeg
+    bytes: 9937358
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/37/e2/37e2ef813034ef894cba6948120d62bd0d10cc471bb5a4d8ad41b2e95e328411/preview-400.6f94ebe17831.jpg
+        sha256: 6f94ebe17831a59b70c68388cc2f81e6b0b839f075f619b4d2ce77ae6244b086
+        mime: image/jpeg
+        bytes: 33591
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01KWSNHT0NR04HV8A6GNC2RG0V
+type: image
+subtype: photo
+title: Ernte Aufnahme vor dem Umbau
+date: 1852/1853
+location: Schnackenburg, Schmiede
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/39/b4/39b4ab00010f755d8b0e8c6956e1ab89153e48454de655ba6143a09729d2740e/original.jpg
+    sha256: 39b4ab00010f755d8b0e8c6956e1ab89153e48454de655ba6143a09729d2740e
+    mime: image/jpeg
+    bytes: 15670060
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/39/b4/39b4ab00010f755d8b0e8c6956e1ab89153e48454de655ba6143a09729d2740e/preview-400.d8f0fffb3f62.jpg
+        sha256: d8f0fffb3f6266fdbdf74da86f8065ef56b04bab941a86268a9429627ba10004
+        mime: image/jpeg
+        bytes: 82281
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

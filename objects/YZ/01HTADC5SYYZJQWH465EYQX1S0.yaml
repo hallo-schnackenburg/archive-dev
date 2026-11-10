@@ -1,0 +1,51 @@
+id: 01HTADC5SYYZJQWH465EYQX1S0
+type: document
+subtype: brochure
+title: Pfarrhaus Ansicht zu Pfingsten
+date: "1875"
+language: de
+origin:
+  name: Walter Kuhlmann
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/f0/aa/f0aacc4c11de553924cf8a880451c363d60edcd388a30865e65848da7f7b69e4/original.tif
+    sha256: f0aacc4c11de553924cf8a880451c363d60edcd388a30865e65848da7f7b69e4
+    mime: image/tiff
+    bytes: 3221446
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/aa/f0aacc4c11de553924cf8a880451c363d60edcd388a30865e65848da7f7b69e4/preview-400.6721110bc51d.jpg
+        sha256: 6721110bc51d88d35d0cbf067a0e5ce8770d59ccb845736ebd7f879e17a38012
+        mime: image/jpeg
+        bytes: 41710
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/db/d2/dbd2bbdd28e6a7769443dd47f894fb1c3bd2e2fbedbaff416c47eb5851d94be4/original.tif
+    sha256: dbd2bbdd28e6a7769443dd47f894fb1c3bd2e2fbedbaff416c47eb5851d94be4
+    mime: image/tiff
+    bytes: 14193476
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/d2/dbd2bbdd28e6a7769443dd47f894fb1c3bd2e2fbedbaff416c47eb5851d94be4/preview-400.8414b2bed014.jpg
+        sha256: 8414b2bed0146c1a90075105f4c978a10bc4ebbcd20e3b2e051d929f2ed01abd
+        mime: image/jpeg
+        bytes: 38791
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

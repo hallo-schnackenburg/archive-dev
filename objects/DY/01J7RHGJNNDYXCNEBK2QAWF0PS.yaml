@@ -1,0 +1,51 @@
+id: 01J7RHGJNNDYXCNEBK2QAWF0PS
+type: document
+subtype: brochure
+title: Bäckerei Rechnung am Sonntag
+date: 1902~
+language: de
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/7e/5d/7e5deb7ab32d9b373cc5a62ce237b9bda73b1bd9eab5993738b0f578a21f37a9/original.tif
+    sha256: 7e5deb7ab32d9b373cc5a62ce237b9bda73b1bd9eab5993738b0f578a21f37a9
+    mime: image/tiff
+    bytes: 20505332
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7e/5d/7e5deb7ab32d9b373cc5a62ce237b9bda73b1bd9eab5993738b0f578a21f37a9/preview-400.38f2b3e1ac8b.jpg
+        sha256: 38f2b3e1ac8bef8028b3655e67bbf03cef8237951adcf36165f2cb82b94793e4
+        mime: image/jpeg
+        bytes: 85733
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/ba/13/ba13f3f2eb67bcc4f45f4f2dd77cbf57c83864fd3d505ec9026aaead460546d0/original.tif
+    sha256: ba13f3f2eb67bcc4f45f4f2dd77cbf57c83864fd3d505ec9026aaead460546d0
+    mime: image/tiff
+    bytes: 23705381
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ba/13/ba13f3f2eb67bcc4f45f4f2dd77cbf57c83864fd3d505ec9026aaead460546d0/preview-400.8431907c6321.jpg
+        sha256: 8431907c6321178cf9905aed3691d6bd4a5e75f9edf46e58d9c5fab32c2a0ef0
+        mime: image/jpeg
+        bytes: 59785
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

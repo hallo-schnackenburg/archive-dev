@@ -1,0 +1,35 @@
+id: 01GKT7MP79YEE7TYKRFGRBT5NZ
+type: image
+subtype: photo
+title: Elbdeich Prospekt zu Pfingsten
+date: "1963"
+location: Gorleben, Hochwasser
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/af/51/af5196843f425352e8ec861badc2206645a24ac4c5a9be8e4de50c7058699a0b/original.jpg
+    sha256: af5196843f425352e8ec861badc2206645a24ac4c5a9be8e4de50c7058699a0b
+    mime: image/jpeg
+    bytes: 493636
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/af/51/af5196843f425352e8ec861badc2206645a24ac4c5a9be8e4de50c7058699a0b/preview-400.148873282057.jpg
+        sha256: 1488732820572328b611069978e4b2fbdf64853d645639f75a2fc26a67e33278
+        mime: image/jpeg
+        bytes: 23586
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

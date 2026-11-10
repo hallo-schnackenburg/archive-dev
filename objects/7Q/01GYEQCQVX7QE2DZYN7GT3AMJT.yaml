@@ -1,0 +1,34 @@
+id: 01GYEQCQVX7QE2DZYN7GT3AMJT
+type: image
+subtype: plan
+title: Schmiede Besuch bei Hochwasser
+date: "2008"
+location: Pretzier, Fähre
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/c5/2a/c52a14e40f80e71348c68e17d0c1a8759a958e41f91b1c9f8750adf99eaf69d8/original.tif
+    sha256: c52a14e40f80e71348c68e17d0c1a8759a958e41f91b1c9f8750adf99eaf69d8
+    mime: image/tiff
+    bytes: 3281480
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c5/2a/c52a14e40f80e71348c68e17d0c1a8759a958e41f91b1c9f8750adf99eaf69d8/preview-400.658f4890cc4d.jpg
+        sha256: 658f4890cc4d69b0e3028c04dbc060fde370f3610c17b4e034bbb22851ae2c2c
+        mime: image/jpeg
+        bytes: 80100
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

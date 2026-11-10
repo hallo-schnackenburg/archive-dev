@@ -1,0 +1,39 @@
+id: 01JWA7NJHFTKZVMBQV67F7E8GQ
+type: image
+subtype: photo
+title: Rathaus Ansicht am Sonntag
+date: 1892-07-22
+location: Seedorf, Grenzturm
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Otto Hennings
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/ad/f3/adf37560ff66d0630401293abf8eb5fd9f62a39321b4092ece307a90f1e6eb0f/original.jpg
+    sha256: adf37560ff66d0630401293abf8eb5fd9f62a39321b4092ece307a90f1e6eb0f
+    mime: image/jpeg
+    bytes: 3711269
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ad/f3/adf37560ff66d0630401293abf8eb5fd9f62a39321b4092ece307a90f1e6eb0f/preview-400.c8536bf9000c.jpg
+        sha256: c8536bf9000c34224edd6899cdb86a195c1ddecbeb4e3a6c0f543f2183ed9a0f
+        mime: image/jpeg
+        bytes: 44499
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

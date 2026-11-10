@@ -1,0 +1,34 @@
+id: 01K7GBA6C4PQ5RMNKY3A01YXCR
+type: image
+subtype: print
+title: Fähre Entwurf zur Wende
+description: Kupferstich.
+date: 1956-08
+origin:
+  name: Hans Brandt
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/a4/79/a479f9a05036edc5dcc8845bbb9e03adf2238fa2999493d20320d92e86bb4bca/original.tif
+    sha256: a479f9a05036edc5dcc8845bbb9e03adf2238fa2999493d20320d92e86bb4bca
+    mime: image/tiff
+    bytes: 9178197
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a4/79/a479f9a05036edc5dcc8845bbb9e03adf2238fa2999493d20320d92e86bb4bca/preview-400.ed425e300d71.jpg
+        sha256: ed425e300d716ce2a5a0bf547bb5339813ec4f016eaa8b00d20d278c5cb71f8a
+        mime: image/jpeg
+        bytes: 44493
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

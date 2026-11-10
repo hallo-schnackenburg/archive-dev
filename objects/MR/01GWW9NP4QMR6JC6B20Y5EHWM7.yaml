@@ -1,0 +1,34 @@
+id: 01GWW9NP4QMR6JC6B20Y5EHWM7
+type: image
+subtype: plan
+title: Fähre Ansicht zur Ernte
+date: 1950-08
+location: Lenzen, Ernte
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/0b/e1/0be12315aab0b499cb0672b902fca9b69c7732f92506002cf723c164c6ecea73/original.tif
+    sha256: 0be12315aab0b499cb0672b902fca9b69c7732f92506002cf723c164c6ecea73
+    mime: image/tiff
+    bytes: 4904616
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0b/e1/0be12315aab0b499cb0672b902fca9b69c7732f92506002cf723c164c6ecea73/preview-400.0c9fd8f3ab11.jpg
+        sha256: 0c9fd8f3ab115e8e1f7e35305faee7c1c8c639e120536d048717cd139edf378f
+        mime: image/jpeg
+        bytes: 86114
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

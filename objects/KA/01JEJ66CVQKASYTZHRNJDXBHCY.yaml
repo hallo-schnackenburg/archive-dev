@@ -1,0 +1,34 @@
+id: 01JEJ66CVQKASYTZHRNJDXBHCY
+type: image
+subtype: plan
+title: Marktplatz Bericht zur Wende
+date: "1986"
+location: Pretzier, Dorfteich
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/54/a9/54a9e414685c37306e06fe61d63b46d247c254c8fa74ff0b34febbbd3100efb8/original.tif
+    sha256: 54a9e414685c37306e06fe61d63b46d247c254c8fa74ff0b34febbbd3100efb8
+    mime: image/tiff
+    bytes: 10233595
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/54/a9/54a9e414685c37306e06fe61d63b46d247c254c8fa74ff0b34febbbd3100efb8/preview-400.9a0941234731.jpg
+        sha256: 9a09412347318d199583c633f16f495472be21e6a1cfff5c8e2fbb649e155ede
+        mime: image/jpeg
+        bytes: 52931
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

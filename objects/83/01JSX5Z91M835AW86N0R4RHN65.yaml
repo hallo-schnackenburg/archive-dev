@@ -1,0 +1,34 @@
+id: 01JSX5Z91M835AW86N0R4RHN65
+type: image
+subtype: plan
+title: Gemeindehaus Abriss zur Ernte
+date: 1896-10-08
+location: Gorleben, Ernte
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Erika Voss
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/c1/bc/c1bcf58915eb9bc377d83168b7df03cb4ad43d3d44fa35cb459ddcb73e21068c/original.tif
+    sha256: c1bcf58915eb9bc377d83168b7df03cb4ad43d3d44fa35cb459ddcb73e21068c
+    mime: image/tiff
+    bytes: 20887370
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c1/bc/c1bcf58915eb9bc377d83168b7df03cb4ad43d3d44fa35cb459ddcb73e21068c/preview-400.cbe8f055f2e2.jpg
+        sha256: cbe8f055f2e2075e5e688f509c96f6084c2dab721e035f38e7e8b135db34f61a
+        mime: image/jpeg
+        bytes: 26703
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

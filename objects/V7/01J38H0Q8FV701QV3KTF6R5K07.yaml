@@ -1,0 +1,39 @@
+id: 01J38H0Q8FV701QV3KTF6R5K07
+type: image
+subtype: photo
+title: Marktplatz Notiz nach dem Krieg
+date: 1891-09-24
+location: Holtorf, Dorfteich
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/cd/9a/cd9a8061f54bc7d4bf0bed9dd8e69ab6fb151a089c84575362eb521da829a38f/original.jpg
+    sha256: cd9a8061f54bc7d4bf0bed9dd8e69ab6fb151a089c84575362eb521da829a38f
+    mime: image/jpeg
+    bytes: 26798297
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/cd/9a/cd9a8061f54bc7d4bf0bed9dd8e69ab6fb151a089c84575362eb521da829a38f/preview-400.e4acbeb5e9f7.jpg
+        sha256: e4acbeb5e9f7336cc9aaaca611f8e072c0bc94ab8bcf0cfc53ae7c7abf01482c
+        mime: image/jpeg
+        bytes: 52448
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01K8SGE2NHC5SDV7GC9SRF363A
+type: image
+subtype: photo
+title: Marktplatz Aufnahme im Winter
+date: 1927-08-22
+location: Gorleben, Hochwasser
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/2a/a0/2aa0c0014252ac191617c30ff235a69b9888d616d175e85c8af5dbaf226968d0/original.jpg
+    sha256: 2aa0c0014252ac191617c30ff235a69b9888d616d175e85c8af5dbaf226968d0
+    mime: image/jpeg
+    bytes: 20662682
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2a/a0/2aa0c0014252ac191617c30ff235a69b9888d616d175e85c8af5dbaf226968d0/preview-400.22cf44c59e64.jpg
+        sha256: 22cf44c59e64d5c581eaa9305c52a2457d0b900e6f67675843c8d274e5f930b4
+        mime: image/jpeg
+        bytes: 40712
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

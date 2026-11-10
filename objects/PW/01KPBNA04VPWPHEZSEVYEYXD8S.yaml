@@ -1,0 +1,39 @@
+id: 01KPBNA04VPWPHEZSEVYEYXD8S
+type: image
+subtype: photo
+title: Bahnhof Zeichnung vor dem Umbau
+description: Bahnhof und molkerei, zur Ernte.
+date: 1887-06
+location: Holtorf, Friedhof
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Erika Voss
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/92/6b/926b799d5204aeb2f905241ddeaaef0bdd86a51cf03ce68cadaa2a0e7e181fd5/original.jpg
+    sha256: 926b799d5204aeb2f905241ddeaaef0bdd86a51cf03ce68cadaa2a0e7e181fd5
+    mime: image/jpeg
+    bytes: 310074
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/92/6b/926b799d5204aeb2f905241ddeaaef0bdd86a51cf03ce68cadaa2a0e7e181fd5/preview-400.da15e13203c7.jpg
+        sha256: da15e13203c7a07c8ee9153ef07f89768ea201997b48d29f3f4a7c715fde5b9b
+        mime: image/jpeg
+        bytes: 61914
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

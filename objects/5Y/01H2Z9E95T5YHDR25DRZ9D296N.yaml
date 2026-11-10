@@ -1,0 +1,53 @@
+id: 01H2Z9E95T5YHDR25DRZ9D296N
+type: document
+subtype: letter
+title: Fachwerkhaus Einladung nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: 1864-03-25
+language: de
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/b8/7d/b87d9d50f6bffa498f796cbbe04dc7d0e9aa843d656b185a712ab701f8a887b0/original.tif
+    sha256: b87d9d50f6bffa498f796cbbe04dc7d0e9aa843d656b185a712ab701f8a887b0
+    mime: image/tiff
+    bytes: 18557671
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b8/7d/b87d9d50f6bffa498f796cbbe04dc7d0e9aa843d656b185a712ab701f8a887b0/preview-400.cf0d24db4cbb.jpg
+        sha256: cf0d24db4cbbfe9c78247785d404521f9405a38bc39ecfe654ec15c56294b02c
+        mime: image/jpeg
+        bytes: 72677
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/88/61/8861601483492cfeab927960601c39517ae60b2e07debbc0371bdda14294b2d3/original.tif
+    sha256: 8861601483492cfeab927960601c39517ae60b2e07debbc0371bdda14294b2d3
+    mime: image/tiff
+    bytes: 5767984
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/88/61/8861601483492cfeab927960601c39517ae60b2e07debbc0371bdda14294b2d3/preview-400.33db51d58a06.jpg
+        sha256: 33db51d58a0670e9fec916757e11294f098bd4bf3f0b9f9d1dc1dab715e8ea79
+        mime: image/jpeg
+        bytes: 71932
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01KCZY9SNBKERHSRGDQEPZN8WR
+type: image
+subtype: plan
+title: Molkerei Bericht vor dem Umbau
+date: 1970-12-08
+location: Schnackenburg, Elbdeich
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/f7/bb/f7bb0f379611027bc4bb5d900cba35cc467e9c468e7103d481df040755c60aad/original.tif
+    sha256: f7bb0f379611027bc4bb5d900cba35cc467e9c468e7103d481df040755c60aad
+    mime: image/tiff
+    bytes: 17828095
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f7/bb/f7bb0f379611027bc4bb5d900cba35cc467e9c468e7103d481df040755c60aad/preview-400.e581b203d702.jpg
+        sha256: e581b203d70244c726c83c8e53a69766053660db5783d8484c41abc82b400109
+        mime: image/jpeg
+        bytes: 70547
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

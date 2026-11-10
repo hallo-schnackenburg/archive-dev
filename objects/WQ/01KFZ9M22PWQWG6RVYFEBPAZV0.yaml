@@ -1,0 +1,37 @@
+id: 01KFZ9M22PWQWG6RVYFEBPAZV0
+type: image
+subtype: print
+title: Sportplatz Zeichnung zur Ernte
+date: 1892-02-16
+location: Restorf, Hafen
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/d8/fc/d8fcef3f658d77b1f0f48422c018af9c944a65d02d8998304a8a7ec8af528f2e/original.tif
+    sha256: d8fcef3f658d77b1f0f48422c018af9c944a65d02d8998304a8a7ec8af528f2e
+    mime: image/tiff
+    bytes: 9694814
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d8/fc/d8fcef3f658d77b1f0f48422c018af9c944a65d02d8998304a8a7ec8af528f2e/preview-400.a7a8f1e94941.jpg
+        sha256: a7a8f1e949419b954d0f2534147368f15e0724ee4803a84f92ef4dfe09a54f3f
+        mime: image/jpeg
+        bytes: 54238
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

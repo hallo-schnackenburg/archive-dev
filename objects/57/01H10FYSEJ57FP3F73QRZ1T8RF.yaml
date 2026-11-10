@@ -1,0 +1,39 @@
+id: 01H10FYSEJ57FP3F73QRZ1T8RF
+type: image
+subtype: photo
+title: Bäckerei Einweihung zu Pfingsten
+date: 1852-02-18
+location: Gorleben, Fähre
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/bc/7f/bc7f34922f92185fd6dc1f599871440c448a36beb9ad0f06876c982a388af3e6/original.jpg
+    sha256: bc7f34922f92185fd6dc1f599871440c448a36beb9ad0f06876c982a388af3e6
+    mime: image/jpeg
+    bytes: 11938310
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/bc/7f/bc7f34922f92185fd6dc1f599871440c448a36beb9ad0f06876c982a388af3e6/preview-400.664fbbb62b5c.jpg
+        sha256: 664fbbb62b5cb8197a0863aef20f9c251bf77d0e83cdf95836ba30cef3d67bc9
+        mime: image/jpeg
+        bytes: 70033
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

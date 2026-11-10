@@ -1,0 +1,53 @@
+id: 01FDPCZWMHPAP3VGYZJNEP682Z
+type: document
+subtype: letter
+title: Hochwasser Rechnung im Winter
+description: Schreibt über die Ernte und das Wetter.
+date: 1863~
+language: de
+origin:
+  name: Fritz Bohlmann
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/95/e4/95e43b53747821c9ab7c781a5a00cbf3225f8b03b5ac6711fce8e9cef6ac59e8/original.tif
+    sha256: 95e43b53747821c9ab7c781a5a00cbf3225f8b03b5ac6711fce8e9cef6ac59e8
+    mime: image/tiff
+    bytes: 11373372
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/e4/95e43b53747821c9ab7c781a5a00cbf3225f8b03b5ac6711fce8e9cef6ac59e8/preview-400.1f803014283e.jpg
+        sha256: 1f803014283eb1d57574d78787b187220e1a2ba199616a8a2fe68a4d9157a94a
+        mime: image/jpeg
+        bytes: 86950
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/8d/8e/8d8e18ce5b7022b3daee38aef9dd545180227cd7227ead827a58da7d98f58a6b/original.tif
+    sha256: 8d8e18ce5b7022b3daee38aef9dd545180227cd7227ead827a58da7d98f58a6b
+    mime: image/tiff
+    bytes: 24886694
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8d/8e/8d8e18ce5b7022b3daee38aef9dd545180227cd7227ead827a58da7d98f58a6b/preview-400.155e4ad4b9fc.jpg
+        sha256: 155e4ad4b9fcab5ad8edda2af1e1c74ddb334fbc5d765dec124b02cdfdf3b9f9
+        mime: image/jpeg
+        bytes: 22312
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

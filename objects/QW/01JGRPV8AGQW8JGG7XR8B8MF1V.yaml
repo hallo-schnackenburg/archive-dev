@@ -1,0 +1,37 @@
+id: 01JGRPV8AGQW8JGG7XR8B8MF1V
+type: image
+subtype: print
+title: Brunnen Bericht am Morgen
+date: "1980"
+location: Gartow, Marktplatz
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/4d/db/4ddb00e343946282c9b90837b6b4abb6851add1cbf4b4c9aa1118ad66f2c52e6/original.tif
+    sha256: 4ddb00e343946282c9b90837b6b4abb6851add1cbf4b4c9aa1118ad66f2c52e6
+    mime: image/tiff
+    bytes: 16873940
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4d/db/4ddb00e343946282c9b90837b6b4abb6851add1cbf4b4c9aa1118ad66f2c52e6/preview-400.10ec72395a64.jpg
+        sha256: 10ec72395a645fe657538f07d682048efd7d617db8b365259367177708fbcfcd
+        mime: image/jpeg
+        bytes: 50656
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

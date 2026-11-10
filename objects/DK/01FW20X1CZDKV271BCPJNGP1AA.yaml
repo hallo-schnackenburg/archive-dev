@@ -1,0 +1,35 @@
+id: 01FW20X1CZDKV271BCPJNGP1AA
+type: image
+subtype: photo
+title: Pfarrhaus Einweihung am Morgen
+date: 1905-02-24
+location: Schnackenburg, Friedhof
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/02/f3/02f3ab299c121e80a8450a91744a78925f2d08ae388fc0cd11e820d88071e0dd/original.jpg
+    sha256: 02f3ab299c121e80a8450a91744a78925f2d08ae388fc0cd11e820d88071e0dd
+    mime: image/jpeg
+    bytes: 10767292
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/02/f3/02f3ab299c121e80a8450a91744a78925f2d08ae388fc0cd11e820d88071e0dd/preview-400.4a72255c3622.jpg
+        sha256: 4a72255c36226a189790cbbde1e7330ff29d8a5886de9ab49bcc3cf7c3748328
+        mime: image/jpeg
+        bytes: 81753
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

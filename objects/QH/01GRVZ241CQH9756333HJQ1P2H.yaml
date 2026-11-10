@@ -1,0 +1,51 @@
+id: 01GRVZ241CQH9756333HJQ1P2H
+type: document
+subtype: brochure
+title: Fähre Umzug zu Pfingsten
+date: "2016"
+language: de
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/12/c9/12c97979e33a1bf7f09de4eb445a2b3e743274a81b28cfb29d8185d8b7cd62bc/original.tif
+    sha256: 12c97979e33a1bf7f09de4eb445a2b3e743274a81b28cfb29d8185d8b7cd62bc
+    mime: image/tiff
+    bytes: 15424981
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/12/c9/12c97979e33a1bf7f09de4eb445a2b3e743274a81b28cfb29d8185d8b7cd62bc/preview-400.d430402aec92.jpg
+        sha256: d430402aec920edfca01a66c81f3ca866d49330c791942ebc4f6a3f5fef12782
+        mime: image/jpeg
+        bytes: 78620
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/b7/4d/b74d2429eee5730d714065c841f56e25cf796944f7a755c61884912067656f98/original.tif
+    sha256: b74d2429eee5730d714065c841f56e25cf796944f7a755c61884912067656f98
+    mime: image/tiff
+    bytes: 23100955
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b7/4d/b74d2429eee5730d714065c841f56e25cf796944f7a755c61884912067656f98/preview-400.24a38ac16d0e.jpg
+        sha256: 24a38ac16d0e95d13ecde906bc69820be62ccb137052d492b05fbddf08b9487c
+        mime: image/jpeg
+        bytes: 84557
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,29 @@
+id: 01HSFC1PE3M55FA92CEGK1K3YR
+type: image
+subtype: plan
+title: Rathaus Zeichnung im Winter
+date: "2000"
+location: Holtorf, Gasthof
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: bauplan_feuerwehr.tif
+    path: files/5f/ba/5fba1a71aca14ca8d25e401cab5783c88089632ae03bb164102119cc5f527dee/original.tif
+    sha256: 5fba1a71aca14ca8d25e401cab5783c88089632ae03bb164102119cc5f527dee
+    mime: image/tiff
+    bytes: 3456487
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5f/ba/5fba1a71aca14ca8d25e401cab5783c88089632ae03bb164102119cc5f527dee/preview-400.fddaa2e57936.jpg
+        sha256: fddaa2e57936c80262ed6a19ebfdb4ac762b9a6c6b0d3cc6c95b00e9f4fed2b8
+        mime: image/jpeg
+        bytes: 33584
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

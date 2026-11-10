@@ -1,0 +1,34 @@
+id: 01FYFBWT9GZG77PN86N79NGAXQ
+type: image
+subtype: plan
+title: Schmiede Abriss am Morgen
+date: 2003-11-18
+location: Lenzen, Zollamt
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/9b/f0/9bf02c1ec7e62a2287fabd90342cca1eeae4671d508cf16e2ca4c32dfe5e64e4/original.tif
+    sha256: 9bf02c1ec7e62a2287fabd90342cca1eeae4671d508cf16e2ca4c32dfe5e64e4
+    mime: image/tiff
+    bytes: 18753259
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9b/f0/9bf02c1ec7e62a2287fabd90342cca1eeae4671d508cf16e2ca4c32dfe5e64e4/preview-400.580cce827dcb.jpg
+        sha256: 580cce827dcb05aff9c9db8c9ec1fd77ad35ac971c3d0d2d5c09a096a566f88b
+        mime: image/jpeg
+        bytes: 79471
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

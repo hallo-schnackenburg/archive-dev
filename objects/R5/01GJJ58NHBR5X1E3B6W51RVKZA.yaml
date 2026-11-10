@@ -1,0 +1,35 @@
+id: 01GJJ58NHBR5X1E3B6W51RVKZA
+type: image
+subtype: photo
+title: Bäckerei Einweihung im Sommer
+date: 1956~
+location: Schnackenburg, Storchennest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/64/c4/64c4516ad1dce1316e929550d98a52b0092561fa41c97685f15af617acd91dc2/original.jpg
+    sha256: 64c4516ad1dce1316e929550d98a52b0092561fa41c97685f15af617acd91dc2
+    mime: image/jpeg
+    bytes: 12766471
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/64/c4/64c4516ad1dce1316e929550d98a52b0092561fa41c97685f15af617acd91dc2/preview-400.5d839576a165.jpg
+        sha256: 5d839576a16562541e43ab7cdac55d9db1317bdc24cebd468b100a4629bf89e6
+        mime: image/jpeg
+        bytes: 79763
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

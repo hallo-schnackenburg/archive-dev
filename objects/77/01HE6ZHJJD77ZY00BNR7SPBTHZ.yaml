@@ -1,0 +1,35 @@
+id: 01HE6ZHJJD77ZY00BNR7SPBTHZ
+type: image
+subtype: photo
+title: Schmiede Entwurf am Morgen
+date: 2017-07-26
+location: Pretzier, Gemeindehaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/e4/12/e41224c70752989b7da0cae29aad690529744c656ab5b368dcae070efd9d5fe1/original.jpg
+    sha256: e41224c70752989b7da0cae29aad690529744c656ab5b368dcae070efd9d5fe1
+    mime: image/jpeg
+    bytes: 6266212
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e4/12/e41224c70752989b7da0cae29aad690529744c656ab5b368dcae070efd9d5fe1/preview-400.74ad132bb3d0.jpg
+        sha256: 74ad132bb3d0855f8a1c1f9411f8e86d29099bb6328a4005f1e5f2fab6230738
+        mime: image/jpeg
+        bytes: 76308
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

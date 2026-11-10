@@ -1,0 +1,37 @@
+id: 01FEBDDEG62H2E2CG37AA8CMZK
+type: image
+subtype: print
+title: Hochwasser Prospekt am Sonntag
+date: 1979-10-15
+location: Lenzen, Friedhof
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/22/91/2291a754d4cf1ee840a94e7a679898c65d6844723f1737c6fe681a2ef77f700c/original.tif
+    sha256: 2291a754d4cf1ee840a94e7a679898c65d6844723f1737c6fe681a2ef77f700c
+    mime: image/tiff
+    bytes: 9031072
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/22/91/2291a754d4cf1ee840a94e7a679898c65d6844723f1737c6fe681a2ef77f700c/preview-400.394684f351ae.jpg
+        sha256: 394684f351aed555f8045fd00e7e4e998e9dc854673b17b25beae68f39ec8e52
+        mime: image/jpeg
+        bytes: 51559
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01G8BJABBT53QAQRERZH52WR0X
+type: image
+subtype: photo
+title: Brunnen Umzug im Winter
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1940-06-18
+location: Restorf, Elbufer
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Walter Kuhlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/e0/f4/e0f47157864a013884f70ea62b97c4d0bcc964ad81caf7973690d84381258c05/original.jpg
+    sha256: e0f47157864a013884f70ea62b97c4d0bcc964ad81caf7973690d84381258c05
+    mime: image/jpeg
+    bytes: 17228674
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e0/f4/e0f47157864a013884f70ea62b97c4d0bcc964ad81caf7973690d84381258c05/preview-400.62bf9c2f7d76.jpg
+        sha256: 62bf9c2f7d76230ab3b657ba5a035a1e68d92a5ea911f6c3f3530cb108c27311
+        mime: image/jpeg
+        bytes: 75241
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

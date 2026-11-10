@@ -1,0 +1,34 @@
+id: 01J1E7K81XQCA8BAS2CF59XTS4
+type: image
+subtype: plan
+title: Brücke Entwurf zu Pfingsten
+date: 1938-06-22
+location: Kapern, Elbdeich
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/82/f3/82f312ae53e4dcd4c8d942ed887f6cdddf64a485af3ccdc8a1b96ec4f06d3636/original.tif
+    sha256: 82f312ae53e4dcd4c8d942ed887f6cdddf64a485af3ccdc8a1b96ec4f06d3636
+    mime: image/tiff
+    bytes: 20934342
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/82/f3/82f312ae53e4dcd4c8d942ed887f6cdddf64a485af3ccdc8a1b96ec4f06d3636/preview-400.67a9dc7b92b5.jpg
+        sha256: 67a9dc7b92b5b2f36b3803ed963531533ea14f9edfb7c771799b9f8fde6f7617
+        mime: image/jpeg
+        bytes: 68795
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01FZXWKZNEATVVWN59NBVBX782
+type: image
+subtype: photo
+title: Elbufer Prospekt am Sonntag
+description: Ernte und marktplatz, im Winter.
+date: 2024-10-05
+location: Lenzen, Rathaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Wilhelm Krüger
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/63/43/6343e8b9c2d65f6f0ba45a143238519344be923d83e743143b290b8756aa45c2/original.jpg
+    sha256: 6343e8b9c2d65f6f0ba45a143238519344be923d83e743143b290b8756aa45c2
+    mime: image/jpeg
+    bytes: 10206982
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/63/43/6343e8b9c2d65f6f0ba45a143238519344be923d83e743143b290b8756aa45c2/preview-400.abf3dbfbec31.jpg
+        sha256: abf3dbfbec31ecd0d4d4e4043d0a16fb3908a8d38f8b60acadeaff26bc50c192
+        mime: image/jpeg
+        bytes: 38454
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

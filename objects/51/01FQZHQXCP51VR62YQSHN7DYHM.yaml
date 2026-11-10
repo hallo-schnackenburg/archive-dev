@@ -1,0 +1,47 @@
+id: 01FQZHQXCP51VR62YQSHN7DYHM
+type: image
+subtype: photo
+title: Gasthof Besuch am Sonntag
+description: Schützenfest und elbdeich, im Winter.
+date: 1857-11-28
+location: Gorleben, Fähre
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/fe/4c/fe4c537639a601b4cd5701f4215e9b504df805f6f05d933f2c6581c5757c2331/original.jpg
+    sha256: fe4c537639a601b4cd5701f4215e9b504df805f6f05d933f2c6581c5757c2331
+    mime: image/jpeg
+    bytes: 27898045
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fe/4c/fe4c537639a601b4cd5701f4215e9b504df805f6f05d933f2c6581c5757c2331/preview-400.38132357a0b3.jpg
+        sha256: 38132357a0b38ddcaa6503a23dc71e7bbe14bc7eb0d24e77506f629da9a2ee6b
+        mime: image/jpeg
+        bytes: 62757
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

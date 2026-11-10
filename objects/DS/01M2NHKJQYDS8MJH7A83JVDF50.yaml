@@ -1,0 +1,39 @@
+id: 01M2NHKJQYDS8MJH7A83JVDF50
+type: image
+subtype: photo
+title: Dorfschule Umzug zur Wende
+description: Fachwerkhaus und feuerwehr, am Sonntag.
+date: 1973-10-25
+location: Lenzen, Gemeindehaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Heinrich Meyer
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/a2/a6/a2a60b10604069c6050fe9a6521b221baa64760d1da4c35255656fb8b0212bc4/original.jpg
+    sha256: a2a60b10604069c6050fe9a6521b221baa64760d1da4c35255656fb8b0212bc4
+    mime: image/jpeg
+    bytes: 2638264
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a2/a6/a2a60b10604069c6050fe9a6521b221baa64760d1da4c35255656fb8b0212bc4/preview-400.effb93b754ee.jpg
+        sha256: effb93b754ee5c15e6c03e825de8b6674687a7800344da2966a75362cdc4de33
+        mime: image/jpeg
+        bytes: 35499
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

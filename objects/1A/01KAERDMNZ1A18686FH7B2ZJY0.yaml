@@ -1,0 +1,53 @@
+id: 01KAERDMNZ1A18686FH7B2ZJY0
+type: document
+subtype: letter
+title: Kindergarten Abriss am Sonntag
+description: Schreibt über die Ernte und das Wetter.
+date: 1931-09
+language: de
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/1d/71/1d71c39cb0b90cac1dc720b42d9bb86c578f16fbf360c3354f7e257256365f93/original.tif
+    sha256: 1d71c39cb0b90cac1dc720b42d9bb86c578f16fbf360c3354f7e257256365f93
+    mime: image/tiff
+    bytes: 22045292
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/71/1d71c39cb0b90cac1dc720b42d9bb86c578f16fbf360c3354f7e257256365f93/preview-400.39c022d9fab1.jpg
+        sha256: 39c022d9fab1c66537c7a358c23036435a64f3908f18a8e920d3aec75e783337
+        mime: image/jpeg
+        bytes: 85934
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/c6/8e/c68e839e40c6dfe7ea32b2ba9cf74fd69fc5dda30fc2f2ea9d2db5db7109fa1d/original.tif
+    sha256: c68e839e40c6dfe7ea32b2ba9cf74fd69fc5dda30fc2f2ea9d2db5db7109fa1d
+    mime: image/tiff
+    bytes: 18146388
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/8e/c68e839e40c6dfe7ea32b2ba9cf74fd69fc5dda30fc2f2ea9d2db5db7109fa1d/preview-400.0d3f07b13686.jpg
+        sha256: 0d3f07b1368667f1ab2f7d04843e586825b519b56206f4e720dcf84146871561
+        mime: image/jpeg
+        bytes: 41473
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

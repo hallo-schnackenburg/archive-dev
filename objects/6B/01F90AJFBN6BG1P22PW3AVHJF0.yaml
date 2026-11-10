@@ -1,0 +1,34 @@
+id: 01F90AJFBN6BG1P22PW3AVHJF0
+type: image
+subtype: print
+title: Fähre Festtag am Morgen
+description: Marktplatz und storchennest, vor dem Umbau.
+date: 1928/1929
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/c2/09/c209d6787b396e9e7c2e6eae222784bf2f88748c3545e7f122f0baa2df2c9a11/original.tif
+    sha256: c209d6787b396e9e7c2e6eae222784bf2f88748c3545e7f122f0baa2df2c9a11
+    mime: image/tiff
+    bytes: 1505488
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/09/c209d6787b396e9e7c2e6eae222784bf2f88748c3545e7f122f0baa2df2c9a11/preview-400.16c2fc067740.jpg
+        sha256: 16c2fc0677407f19ef8bc54431e89b82c5a189e5f0cb166c7390004e51a1dd67
+        mime: image/jpeg
+        bytes: 50655
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

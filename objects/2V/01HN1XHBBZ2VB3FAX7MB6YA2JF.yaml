@@ -1,0 +1,37 @@
+id: 01HN1XHBBZ2VB3FAX7MB6YA2JF
+type: image
+subtype: print
+title: Hafen Bericht am Morgen
+date: 2013/2014
+location: Schnackenburg, Fähre
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/6a/00/6a0097a2eeb29c4d634a6f2231db30f7e1bf464f59b72ef4f855b7a15aa66394/original.tif
+    sha256: 6a0097a2eeb29c4d634a6f2231db30f7e1bf464f59b72ef4f855b7a15aa66394
+    mime: image/tiff
+    bytes: 692713
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6a/00/6a0097a2eeb29c4d634a6f2231db30f7e1bf464f59b72ef4f855b7a15aa66394/preview-400.a85dacb2f054.jpg
+        sha256: a85dacb2f05445aac94cd0cda598b3aed157e68581ff2882f7c7b3f804fff7d4
+        mime: image/jpeg
+        bytes: 78022
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

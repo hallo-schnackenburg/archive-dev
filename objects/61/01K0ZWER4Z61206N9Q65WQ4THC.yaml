@@ -1,0 +1,35 @@
+id: 01K0ZWER4Z61206N9Q65WQ4THC
+type: image
+subtype: photo
+title: Hafen Ansicht nach dem Krieg
+date: 1946-12-19
+location: Schnackenburg, Elbdeich
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/93/2b/932b244cdc73a74f5c89b210ac21f0c5f47feaeddd6af94132e37c6226f2b5fe/original.jpg
+    sha256: 932b244cdc73a74f5c89b210ac21f0c5f47feaeddd6af94132e37c6226f2b5fe
+    mime: image/jpeg
+    bytes: 25243183
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/93/2b/932b244cdc73a74f5c89b210ac21f0c5f47feaeddd6af94132e37c6226f2b5fe/preview-400.be05634cc5a0.jpg
+        sha256: be05634cc5a0ef77bdaf37db4ff2af8a95bf6dfd611fd12dcc29c3edf9c3d069
+        mime: image/jpeg
+        bytes: 81186
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

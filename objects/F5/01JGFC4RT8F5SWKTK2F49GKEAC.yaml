@@ -1,0 +1,53 @@
+id: 01JGFC4RT8F5SWKTK2F49GKEAC
+type: document
+subtype: letter
+title: Kirche St. Johannis Besuch am Sonntag
+description: Schreibt über die Ernte und das Wetter.
+date: 1918/1919
+language: de
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/fc/14/fc14873684be5d200035dc8e0e19d6dec6db39960214ecd1d7e5beed166c7c53/original.tif
+    sha256: fc14873684be5d200035dc8e0e19d6dec6db39960214ecd1d7e5beed166c7c53
+    mime: image/tiff
+    bytes: 12526460
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/14/fc14873684be5d200035dc8e0e19d6dec6db39960214ecd1d7e5beed166c7c53/preview-400.73aa5343e239.jpg
+        sha256: 73aa5343e2390063ec3e1c2904a013dc50718bae566cc25335c9093a8bd09dfa
+        mime: image/jpeg
+        bytes: 44896
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/94/f4/94f4b7c4b955f6dc4c3cd6db68b58446b7876d06448d01643cfdde13500c0af0/original.tif
+    sha256: 94f4b7c4b955f6dc4c3cd6db68b58446b7876d06448d01643cfdde13500c0af0
+    mime: image/tiff
+    bytes: 23594885
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/94/f4/94f4b7c4b955f6dc4c3cd6db68b58446b7876d06448d01643cfdde13500c0af0/preview-400.a74328f9d569.jpg
+        sha256: a74328f9d569af4cd2eae89b4520d516f6b3c404fbc59c0016fb3fe402b9e11d
+        mime: image/jpeg
+        bytes: 73155
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

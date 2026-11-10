@@ -1,0 +1,51 @@
+id: 01G4152AEKT8Z0PCRRH3YVPFN7
+type: document
+subtype: brochure
+title: Hochwasser Prospekt im Winter
+date: "1934"
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/58/02/5802e3e561bcdaf3c8a65c7a124178e2b57626ec58b5779705a14a05692fac18/original.tif
+    sha256: 5802e3e561bcdaf3c8a65c7a124178e2b57626ec58b5779705a14a05692fac18
+    mime: image/tiff
+    bytes: 25688704
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/58/02/5802e3e561bcdaf3c8a65c7a124178e2b57626ec58b5779705a14a05692fac18/preview-400.1636167acb06.jpg
+        sha256: 1636167acb06ed0125c43fce49b18027afff5aa48baae89727e27286d9e163ca
+        mime: image/jpeg
+        bytes: 71744
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/4a/53/4a53ed17b93bcc0734bac75995c40b07d7107c4bbe2b89d13d35078c3eb48190/original.tif
+    sha256: 4a53ed17b93bcc0734bac75995c40b07d7107c4bbe2b89d13d35078c3eb48190
+    mime: image/tiff
+    bytes: 23716907
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4a/53/4a53ed17b93bcc0734bac75995c40b07d7107c4bbe2b89d13d35078c3eb48190/preview-400.9680c65afe42.jpg
+        sha256: 9680c65afe42a6560b11d932788c21dfa31fac2fd0abe5d78184592ff1071e25
+        mime: image/jpeg
+        bytes: 32597
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

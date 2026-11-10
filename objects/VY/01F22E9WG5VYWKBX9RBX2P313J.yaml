@@ -1,0 +1,51 @@
+id: 01F22E9WG5VYWKBX9RBX2P313J
+type: document
+subtype: brochure
+title: Fachwerkhaus Umbau am Sonntag
+date: 2008/2014
+language: de
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/81/1f/811f2b3288f5b6352ab37a3b0a9b445c452b7428ac687994ae080eb93801c352/original.tif
+    sha256: 811f2b3288f5b6352ab37a3b0a9b445c452b7428ac687994ae080eb93801c352
+    mime: image/tiff
+    bytes: 21807511
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/81/1f/811f2b3288f5b6352ab37a3b0a9b445c452b7428ac687994ae080eb93801c352/preview-400.834d9dfb4263.jpg
+        sha256: 834d9dfb4263c78bf9248581bbc3631bdc21ec7aff957343a0c92358536de50b
+        mime: image/jpeg
+        bytes: 46029
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/f1/e8/f1e8d9149bdfab7146de381ff6de06e41ad1843438107636d9c3402ab367edbe/original.tif
+    sha256: f1e8d9149bdfab7146de381ff6de06e41ad1843438107636d9c3402ab367edbe
+    mime: image/tiff
+    bytes: 819296
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f1/e8/f1e8d9149bdfab7146de381ff6de06e41ad1843438107636d9c3402ab367edbe/preview-400.7c53b36f7acf.jpg
+        sha256: 7c53b36f7acf4e255bb176b2432a27378fb0e651872ff43e8df9b752b0846f1e
+        mime: image/jpeg
+        bytes: 44731
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

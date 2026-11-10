@@ -1,0 +1,34 @@
+id: 01HY253GS55CYXSTYVD5WJA398
+type: image
+subtype: print
+title: Friedhof Gruppenbild nach dem Krieg
+description: Bahnhof und pfarrhaus, nach dem Krieg.
+date: "1992"
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/bd/de/bdde1c0f63ee971666898c80f2a6b310130532b14909366b25b053f2a2d3a963/original.tif
+    sha256: bdde1c0f63ee971666898c80f2a6b310130532b14909366b25b053f2a2d3a963
+    mime: image/tiff
+    bytes: 13306805
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/de/bdde1c0f63ee971666898c80f2a6b310130532b14909366b25b053f2a2d3a963/preview-400.cc9bee081e36.jpg
+        sha256: cc9bee081e362f5e6b2e8226748494238d33b9d99e24e538b0a51cf3e05182c7
+        mime: image/jpeg
+        bytes: 32532
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

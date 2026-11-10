@@ -1,0 +1,35 @@
+id: 01JMBZNBSD7HKXSPHAYCMMJ18F
+type: image
+subtype: photo
+title: Dorfschule Umzug im Winter
+date: 2001-11-28
+location: Gartow, Dorfteich
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/27/76/27766679905d9782b386b205a7a73389b580125ffdc974cf7b3d2e865cb2f853/original.jpg
+    sha256: 27766679905d9782b386b205a7a73389b580125ffdc974cf7b3d2e865cb2f853
+    mime: image/jpeg
+    bytes: 21021795
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/27/76/27766679905d9782b386b205a7a73389b580125ffdc974cf7b3d2e865cb2f853/preview-400.7c9a9ed43eff.jpg
+        sha256: 7c9a9ed43eff44df05db2c5c60043c72f9b179d3f46735dd561689bb1ddeeebe
+        mime: image/jpeg
+        bytes: 76098
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

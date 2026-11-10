@@ -1,0 +1,35 @@
+id: 01HX4JX3ZE41REJDWMW2XSC2E2
+type: image
+subtype: photo
+title: Bäckerei Ansicht am Sonntag
+description: Hafen und gasthof, im Sommer.
+date: "1865"
+location: Pretzier, Ernte
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/75/51/75512480c6c3b7672a4db56d27fe477eb866d130267ff9689f634cbae427b9ac/original.jpg
+    sha256: 75512480c6c3b7672a4db56d27fe477eb866d130267ff9689f634cbae427b9ac
+    mime: image/jpeg
+    bytes: 22311890
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/75/51/75512480c6c3b7672a4db56d27fe477eb866d130267ff9689f634cbae427b9ac/preview-400.ffc3badce1d2.jpg
+        sha256: ffc3badce1d20374049f36f21432949f72f00d6910586d11ed363367318fddfb
+        mime: image/jpeg
+        bytes: 29393
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

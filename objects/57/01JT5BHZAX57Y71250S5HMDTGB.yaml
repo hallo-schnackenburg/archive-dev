@@ -1,0 +1,37 @@
+id: 01JT5BHZAX57Y71250S5HMDTGB
+type: image
+subtype: print
+title: Sportplatz Bericht zur Wende
+date: "2003"
+location: Gartow, Schmiede
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/1c/68/1c6883c7d4f5b2d5624fabd476d9ecfdf04b4a328712cca31f2f04d098c81ab4/original.tif
+    sha256: 1c6883c7d4f5b2d5624fabd476d9ecfdf04b4a328712cca31f2f04d098c81ab4
+    mime: image/tiff
+    bytes: 13822962
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/68/1c6883c7d4f5b2d5624fabd476d9ecfdf04b4a328712cca31f2f04d098c81ab4/preview-400.443096438d19.jpg
+        sha256: 443096438d192a211c61cad20e918f088f435d244e69c65e6cd70bf452b8f602
+        mime: image/jpeg
+        bytes: 65099
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

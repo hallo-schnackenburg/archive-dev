@@ -1,0 +1,51 @@
+id: 01EXJD8JKCQWNTGGMZT549T2V0
+type: document
+subtype: brochure
+title: Molkerei Prospekt zur Ernte
+date: 1868/1870
+language: de
+origin:
+  name: Erika Voss
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/1b/7b/1b7bc2b8dbe759b8033e93e45438b625f3ad38d12f9cd3625ecddfebccb47885/original.tif
+    sha256: 1b7bc2b8dbe759b8033e93e45438b625f3ad38d12f9cd3625ecddfebccb47885
+    mime: image/tiff
+    bytes: 24487456
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1b/7b/1b7bc2b8dbe759b8033e93e45438b625f3ad38d12f9cd3625ecddfebccb47885/preview-400.27da8bc98611.jpg
+        sha256: 27da8bc986118c25cd59b54290acbae25d9feaf638e5a3475762d0b15cccecac
+        mime: image/jpeg
+        bytes: 46368
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/cb/f6/cbf654783cea145d7201c73a3544a54ca596e8692b80ec0ebb2f06511eb6c6b0/original.tif
+    sha256: cbf654783cea145d7201c73a3544a54ca596e8692b80ec0ebb2f06511eb6c6b0
+    mime: image/tiff
+    bytes: 8584405
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cb/f6/cbf654783cea145d7201c73a3544a54ca596e8692b80ec0ebb2f06511eb6c6b0/preview-400.74a09596a040.jpg
+        sha256: 74a09596a040077c3e6613a53a1fb67c08af1838c21e84bcd2e282d2844bcd20
+        mime: image/jpeg
+        bytes: 68745
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

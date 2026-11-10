@@ -1,0 +1,39 @@
+id: 01M340NKSB87RMVMYYFBK8PY97
+type: image
+subtype: photo
+title: Fachwerkhaus Brief am Sonntag
+date: "1970"
+location: Restorf, Marktplatz
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Fritz Bohlmann
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/4f/5d/4f5d57fc039733dbe9398a765b51955d947a0c4697ba2a7097d568af5b1fcbff/original.jpg
+    sha256: 4f5d57fc039733dbe9398a765b51955d947a0c4697ba2a7097d568af5b1fcbff
+    mime: image/jpeg
+    bytes: 24932485
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4f/5d/4f5d57fc039733dbe9398a765b51955d947a0c4697ba2a7097d568af5b1fcbff/preview-400.393c0399f91f.jpg
+        sha256: 393c0399f91f39c84261aca2b5cc3793e2049afcda514852acec1245804180f5
+        mime: image/jpeg
+        bytes: 69803
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

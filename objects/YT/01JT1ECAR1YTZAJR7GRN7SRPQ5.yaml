@@ -1,0 +1,34 @@
+id: 01JT1ECAR1YTZAJR7GRN7SRPQ5
+type: image
+subtype: print
+title: Fähre Brief am Sonntag
+description: Bahnhof und bahnhof, bei Hochwasser.
+date: 1894-05
+origin:
+  name: Karl Lemke
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/90/07/9007ea5cf25f62cd5feb57732c20f35761dcf6b72e023ed727d601996254f385/original.tif
+    sha256: 9007ea5cf25f62cd5feb57732c20f35761dcf6b72e023ed727d601996254f385
+    mime: image/tiff
+    bytes: 3205444
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/90/07/9007ea5cf25f62cd5feb57732c20f35761dcf6b72e023ed727d601996254f385/preview-400.07777d53f443.jpg
+        sha256: 07777d53f443c5cfc7885d506781a41bf4293056075678de9e10664205aee544
+        mime: image/jpeg
+        bytes: 72876
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01EYMHRG5Z75ST5EYF34PZ7PB6
+type: image
+subtype: photo
+title: Friedhof Besuch im Sommer
+date: 1989~
+location: Restorf, Storchennest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/51/7a/517a91fa979ae2f8135532e8b2ce80ae5a1911de7116f800de3088d22af1741f/original.jpg
+    sha256: 517a91fa979ae2f8135532e8b2ce80ae5a1911de7116f800de3088d22af1741f
+    mime: image/jpeg
+    bytes: 25425831
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/51/7a/517a91fa979ae2f8135532e8b2ce80ae5a1911de7116f800de3088d22af1741f/preview-400.b756b6210db1.jpg
+        sha256: b756b6210db152967841ad5edbbb45a38a119965da82f08486be6f57d67ab9c9
+        mime: image/jpeg
+        bytes: 50082
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

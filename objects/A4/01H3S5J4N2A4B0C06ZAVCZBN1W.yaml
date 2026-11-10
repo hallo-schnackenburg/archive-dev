@@ -1,0 +1,35 @@
+id: 01H3S5J4N2A4B0C06ZAVCZBN1W
+type: image
+subtype: photo
+title: Friedhof Besuch vor dem Umbau
+date: 1962-11-14
+location: Restorf, Elbdeich
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/34/0a/340ac8434c66d7cdabb04e4b7a87e0c4118161ad8b094b2e5fff605f0de66582/original.jpg
+    sha256: 340ac8434c66d7cdabb04e4b7a87e0c4118161ad8b094b2e5fff605f0de66582
+    mime: image/jpeg
+    bytes: 17300490
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/34/0a/340ac8434c66d7cdabb04e4b7a87e0c4118161ad8b094b2e5fff605f0de66582/preview-400.598bd519d3dd.jpg
+        sha256: 598bd519d3ddbfee586934706b863aa82236d47e880ab07fe2526c1b161e42da
+        mime: image/jpeg
+        bytes: 43668
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

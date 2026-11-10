@@ -1,0 +1,35 @@
+id: 01JKAQY5GC5JWACBQJCXDW7RWE
+type: image
+subtype: photo
+title: Bäckerei Einladung zur Wende
+date: 1895-11-27
+location: Schnackenburg, Storchennest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/1f/39/1f39e2c639851db9d73728294b71d97e92dcac587f01ae715f86bf5a46070c0a/original.jpg
+    sha256: 1f39e2c639851db9d73728294b71d97e92dcac587f01ae715f86bf5a46070c0a
+    mime: image/jpeg
+    bytes: 25292574
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/1f/39/1f39e2c639851db9d73728294b71d97e92dcac587f01ae715f86bf5a46070c0a/preview-400.ab0047d6f817.jpg
+        sha256: ab0047d6f81790f8349d8f55dd12997f51bbdbe80c6fb7174455777b4e49d3ee
+        mime: image/jpeg
+        bytes: 80462
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

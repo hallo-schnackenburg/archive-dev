@@ -1,0 +1,35 @@
+id: 01KKQV8Q1ZZ2ZMDN14Y4S52JX2
+type: image
+subtype: photo
+title: Kirche St. Johannis Ansicht bei Hochwasser
+date: "1886"
+location: Holtorf, Hafen
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/a7/72/a772a881ec8e2ddc9c964d6977c0f291c500fab5c8672f162d0667dc581c3de3/original.jpg
+    sha256: a772a881ec8e2ddc9c964d6977c0f291c500fab5c8672f162d0667dc581c3de3
+    mime: image/jpeg
+    bytes: 6314551
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a7/72/a772a881ec8e2ddc9c964d6977c0f291c500fab5c8672f162d0667dc581c3de3/preview-400.fc36bd168e51.jpg
+        sha256: fc36bd168e5167b3129df5b2b864b2a215d4918f9784fb9d3d61aacebd57724c
+        mime: image/jpeg
+        bytes: 60382
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

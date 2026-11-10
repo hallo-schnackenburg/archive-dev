@@ -1,0 +1,39 @@
+id: 01JH67KF8G6RM6F2GN1SJA4VMK
+type: image
+subtype: photo
+title: Fähre Ansicht am Morgen
+date: 1863-07-05
+location: Kapern, Gemeindehaus
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/06/9e/069e4b2956f64fc6053b224c88e09c8889a99322ffb6ad4d52683cce53e2c619/original.jpg
+    sha256: 069e4b2956f64fc6053b224c88e09c8889a99322ffb6ad4d52683cce53e2c619
+    mime: image/jpeg
+    bytes: 25429591
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/06/9e/069e4b2956f64fc6053b224c88e09c8889a99322ffb6ad4d52683cce53e2c619/preview-400.045207496b18.jpg
+        sha256: 045207496b18bc0635cfac0cb6dc3679b399bbbeceb06156e841fa313263d227
+        mime: image/jpeg
+        bytes: 43519
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

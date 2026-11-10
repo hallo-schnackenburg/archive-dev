@@ -1,0 +1,35 @@
+id: 01JCZX7KQ2DH1W1ECJXW2GQADJ
+type: image
+subtype: photo
+title: Elbdeich Einweihung im Sommer
+date: "1919"
+location: Kapern, Brunnen
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/0e/0c/0e0c4dd96018964cd6ffc01264eb6033c4f1d17d38e0b74159524c95c52b6304/original.jpg
+    sha256: 0e0c4dd96018964cd6ffc01264eb6033c4f1d17d38e0b74159524c95c52b6304
+    mime: image/jpeg
+    bytes: 19580985
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0e/0c/0e0c4dd96018964cd6ffc01264eb6033c4f1d17d38e0b74159524c95c52b6304/preview-400.90a772916991.jpg
+        sha256: 90a772916991ba91c217f48f2adf671edd9a19de9baded4408ff950c279b3702
+        mime: image/jpeg
+        bytes: 82818
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

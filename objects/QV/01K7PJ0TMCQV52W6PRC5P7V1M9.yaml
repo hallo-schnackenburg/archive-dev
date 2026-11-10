@@ -1,0 +1,35 @@
+id: 01K7PJ0TMCQV52W6PRC5P7V1M9
+type: image
+subtype: photo
+title: Dorfschule Protokoll zu Pfingsten
+date: 1918-04-21
+location: Holtorf, Elbdeich
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/76/9c/769c67b2f60ffc24a74d17a91e357046f0672e65bb2c2d294a601eff5a18570c/original.jpg
+    sha256: 769c67b2f60ffc24a74d17a91e357046f0672e65bb2c2d294a601eff5a18570c
+    mime: image/jpeg
+    bytes: 26349195
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/76/9c/769c67b2f60ffc24a74d17a91e357046f0672e65bb2c2d294a601eff5a18570c/preview-400.fd0a6bdc2a63.jpg
+        sha256: fd0a6bdc2a63ba1aedf1f9c7bbbc9f3f562ab59be96692ce20d005e4327b75ad
+        mime: image/jpeg
+        bytes: 50351
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

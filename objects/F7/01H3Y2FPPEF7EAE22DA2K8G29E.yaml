@@ -1,0 +1,35 @@
+id: 01H3Y2FPPEF7EAE22DA2K8G29E
+type: image
+subtype: photo
+title: Storchennest Aufnahme zur Wende
+date: 1899-08-18
+location: Lüchow, Bäckerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/70/db/70dbae683806d393a34a63a8f66cc3cf8b8e782eb142b620139382e392bfbaf5/original.jpg
+    sha256: 70dbae683806d393a34a63a8f66cc3cf8b8e782eb142b620139382e392bfbaf5
+    mime: image/jpeg
+    bytes: 4947764
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/70/db/70dbae683806d393a34a63a8f66cc3cf8b8e782eb142b620139382e392bfbaf5/preview-400.3e242b0e0a09.jpg
+        sha256: 3e242b0e0a09a9b65956b12e8631f21926a597460da0b479450eea03b5180f0f
+        mime: image/jpeg
+        bytes: 74349
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

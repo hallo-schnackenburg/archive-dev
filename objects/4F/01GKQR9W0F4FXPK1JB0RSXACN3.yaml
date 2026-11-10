@@ -1,0 +1,34 @@
+id: 01GKQR9W0F4FXPK1JB0RSXACN3
+type: image
+subtype: plan
+title: Rathaus Zeichnung am Sonntag
+date: "1886"
+location: Gorleben, Ernte
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Otto Hennings
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/0d/47/0d474ee1ec924e51ec989ed1abe9c8953a52203ede23352abf6c1314497cb71d/original.tif
+    sha256: 0d474ee1ec924e51ec989ed1abe9c8953a52203ede23352abf6c1314497cb71d
+    mime: image/tiff
+    bytes: 9758124
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0d/47/0d474ee1ec924e51ec989ed1abe9c8953a52203ede23352abf6c1314497cb71d/preview-400.3f53f7867aab.jpg
+        sha256: 3f53f7867aab84c6c43232cd79eb8119ac4b264eb8f2f9fd29776d1ad36c368e
+        mime: image/jpeg
+        bytes: 78323
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01JQTMF3FAVY442VWK2F2FVRQZ
+type: image
+subtype: photo
+title: Feuerwehr Notiz bei Hochwasser
+date: 1904-08-05
+location: Lenzen, Marktplatz
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/b9/1d/b91dd9859511666bd88a79133fd9b7c6c8892e91981b1541f241808468b653d7/original.jpg
+    sha256: b91dd9859511666bd88a79133fd9b7c6c8892e91981b1541f241808468b653d7
+    mime: image/jpeg
+    bytes: 13772000
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b9/1d/b91dd9859511666bd88a79133fd9b7c6c8892e91981b1541f241808468b653d7/preview-400.441319edc094.jpg
+        sha256: 441319edc094e35d672c9d8e3c8b7056736182a39268f383ebcb3a2e6bc098fd
+        mime: image/jpeg
+        bytes: 40073
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

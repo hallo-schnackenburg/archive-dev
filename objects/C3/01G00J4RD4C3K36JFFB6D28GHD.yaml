@@ -1,0 +1,47 @@
+id: 01G00J4RD4C3K36JFFB6D28GHD
+type: image
+subtype: photo
+title: Bahnhof Einladung am Morgen
+description: Der Umzug der Schützengesellschaft zieht über den Markt, im Hintergrund die Fachwerkhäuser.
+date: 2014-05-20
+location: Holtorf, Gasthof
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/d7/0d/d70d29ceec60914fa6e4816907e86c289815e769664d45da53d3e3474d67fa7d/original.jpg
+    sha256: d70d29ceec60914fa6e4816907e86c289815e769664d45da53d3e3474d67fa7d
+    mime: image/jpeg
+    bytes: 17436365
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d7/0d/d70d29ceec60914fa6e4816907e86c289815e769664d45da53d3e3474d67fa7d/preview-400.21c837769945.jpg
+        sha256: 21c837769945c59b94b8040200407eb5e16ede1654ef0f929cc5fb3c41e5886e
+        mime: image/jpeg
+        bytes: 34463
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

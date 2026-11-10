@@ -1,0 +1,39 @@
+id: 01GJKCP64PZVD7DX6D7NB9NX55
+type: image
+subtype: photo
+title: Rathaus Gruppenbild am Morgen
+description: Bäckerei und kirche st. johannis, vor dem Umbau.
+date: "1973"
+location: Seedorf, Rathaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Gerda Schulz
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/67/67/67670a67b7ee161dd1d7e78ae15472d191b7add18297d797a1f07cb6c14cf21e/original.jpg
+    sha256: 67670a67b7ee161dd1d7e78ae15472d191b7add18297d797a1f07cb6c14cf21e
+    mime: image/jpeg
+    bytes: 14159055
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/67/67/67670a67b7ee161dd1d7e78ae15472d191b7add18297d797a1f07cb6c14cf21e/preview-400.a691b5c618a3.jpg
+        sha256: a691b5c618a35ccce92140388b113ab4881200da91103f4f0f495ed24379a920
+        mime: image/jpeg
+        bytes: 78821
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

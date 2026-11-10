@@ -1,0 +1,39 @@
+id: 01GE793PYX30P5HHE7KQ112SPY
+type: image
+subtype: photo
+title: Gasthof Ansicht zur Ernte
+description: Kirche St. Johannis und molkerei, nach dem Krieg.
+date: 1975/1978
+location: Kapern, Brücke
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Walter Kuhlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/60/a4/60a42bafaef018b189c1bb479b583e320453057670ba3012ee526716e8368eea/original.jpg
+    sha256: 60a42bafaef018b189c1bb479b583e320453057670ba3012ee526716e8368eea
+    mime: image/jpeg
+    bytes: 12332928
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/60/a4/60a42bafaef018b189c1bb479b583e320453057670ba3012ee526716e8368eea/preview-400.b2a3fa71b6ba.jpg
+        sha256: b2a3fa71b6bafdf3a08925be78a24a3394f711d42d5c307d21ce84b9b22d4000
+        mime: image/jpeg
+        bytes: 73467
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

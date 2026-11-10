@@ -1,0 +1,39 @@
+id: 01G7PZFHPQS54WCHE1KRBN529T
+type: image
+subtype: photo
+title: Sportplatz Brief bei Hochwasser
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: "1929"
+location: Kapern, Zollamt
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Walter Kuhlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/c6/31/c631614d18b58b81826b4b536d604a60d755c072cb1bec982dfcdc86b28ad1da/original.jpg
+    sha256: c631614d18b58b81826b4b536d604a60d755c072cb1bec982dfcdc86b28ad1da
+    mime: image/jpeg
+    bytes: 21018428
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c6/31/c631614d18b58b81826b4b536d604a60d755c072cb1bec982dfcdc86b28ad1da/preview-400.e965f21815e2.jpg
+        sha256: e965f21815e2c1f45d81b11d67f2f070bd1d72d68c893b5efc74b51e1c4541f6
+        mime: image/jpeg
+        bytes: 54607
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

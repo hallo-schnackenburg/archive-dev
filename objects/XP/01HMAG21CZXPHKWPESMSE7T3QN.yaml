@@ -1,0 +1,47 @@
+id: 01HMAG21CZXPHKWPESMSE7T3QN
+type: image
+subtype: photo
+title: Bäckerei Zeichnung am Morgen
+description: Der Umzug der Schützengesellschaft zieht über den Markt, im Hintergrund die Fachwerkhäuser.
+date: 2013-08-01
+location: Lüchow, Grenzturm
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/a7/72/a772360e806695e9b72534dc7b867724cd740658cdef03cac74e7ad01bceb73c/original.jpg
+    sha256: a772360e806695e9b72534dc7b867724cd740658cdef03cac74e7ad01bceb73c
+    mime: image/jpeg
+    bytes: 9745850
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a7/72/a772360e806695e9b72534dc7b867724cd740658cdef03cac74e7ad01bceb73c/preview-400.37bb1d318a70.jpg
+        sha256: 37bb1d318a705b0f4bc69d7d8b652ac671f05eaac307ae382f19c0243b076cd0
+        mime: image/jpeg
+        bytes: 42002
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

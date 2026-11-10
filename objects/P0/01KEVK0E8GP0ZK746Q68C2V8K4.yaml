@@ -1,0 +1,35 @@
+id: 01KEVK0E8GP0ZK746Q68C2V8K4
+type: image
+subtype: photo
+title: Dorfschule Entwurf zur Ernte
+date: 1874-10-05
+location: Seedorf, Schmiede
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/fc/9e/fc9e1ddcbd9598bcc476bb7e35fd65349d21c8658a2e89a990ff0c7d35b0595f/original.jpg
+    sha256: fc9e1ddcbd9598bcc476bb7e35fd65349d21c8658a2e89a990ff0c7d35b0595f
+    mime: image/jpeg
+    bytes: 12455234
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fc/9e/fc9e1ddcbd9598bcc476bb7e35fd65349d21c8658a2e89a990ff0c7d35b0595f/preview-400.efafb5af1bef.jpg
+        sha256: efafb5af1bef1e299c7ea1e19fbbe26c520738ce757456ec6f33bcd64a9fb372
+        mime: image/jpeg
+        bytes: 40776
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

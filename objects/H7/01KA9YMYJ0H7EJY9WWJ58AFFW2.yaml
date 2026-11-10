@@ -1,0 +1,53 @@
+id: 01KA9YMYJ0H7EJY9WWJ58AFFW2
+type: document
+subtype: letter
+title: Storchennest Einladung am Morgen
+description: Schreibt über die Ernte und das Wetter.
+date: 2001-05
+language: de
+origin:
+  name: Rudolf Garms
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/e7/60/e7603948f522b5d9209997ce87dcb4e6fb6c71a1fb41d0ed6e9771bc67fb5932/original.tif
+    sha256: e7603948f522b5d9209997ce87dcb4e6fb6c71a1fb41d0ed6e9771bc67fb5932
+    mime: image/tiff
+    bytes: 15832131
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e7/60/e7603948f522b5d9209997ce87dcb4e6fb6c71a1fb41d0ed6e9771bc67fb5932/preview-400.3c920bdd9984.jpg
+        sha256: 3c920bdd9984331affb88488b343798730d9f0719e2bcc577e9c06e963c2696f
+        mime: image/jpeg
+        bytes: 83710
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/e0/bc/e0bcaa11b6fc84d88cd4409ac7b87c04b84189956bb912455f24f72595b60086/original.tif
+    sha256: e0bcaa11b6fc84d88cd4409ac7b87c04b84189956bb912455f24f72595b60086
+    mime: image/tiff
+    bytes: 8734753
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e0/bc/e0bcaa11b6fc84d88cd4409ac7b87c04b84189956bb912455f24f72595b60086/preview-400.9d6e6f1260b5.jpg
+        sha256: 9d6e6f1260b5b4d85ad99a252ce5212a404c5f6fa1d7c24bbc39bc1c89663fe9
+        mime: image/jpeg
+        bytes: 39205
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

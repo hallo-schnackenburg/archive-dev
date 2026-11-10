@@ -1,0 +1,39 @@
+id: 01J68DMXXH15EZZST88CF3B4MC
+type: image
+subtype: photo
+title: Sportplatz Notiz zu Pfingsten
+date: 1855/1860
+location: Holtorf, Schmiede
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/2b/77/2b77613ffdbdc1f3575f42b103b83f619235052bf46dbd635e56a972fb8d8eb1/original.jpg
+    sha256: 2b77613ffdbdc1f3575f42b103b83f619235052bf46dbd635e56a972fb8d8eb1
+    mime: image/jpeg
+    bytes: 21497831
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2b/77/2b77613ffdbdc1f3575f42b103b83f619235052bf46dbd635e56a972fb8d8eb1/preview-400.3cb122b3a957.jpg
+        sha256: 3cb122b3a9576b102792a569fd20e36808cc224a628823eff531af0afeaf719d
+        mime: image/jpeg
+        bytes: 45957
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

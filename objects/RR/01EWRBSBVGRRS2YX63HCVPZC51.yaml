@@ -1,0 +1,39 @@
+id: 01EWRBSBVGRRS2YX63HCVPZC51
+type: image
+subtype: photo
+title: Gasthof Entwurf zur Wende
+description: Hafen und sportplatz, im Sommer.
+date: 1911~
+location: Lenzen, Molkerei
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Rudolf Garms
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/a5/38/a5385bdc75912db10165f7b2e286c93ba20eba3e8c090f149975eeb448be0791/original.jpg
+    sha256: a5385bdc75912db10165f7b2e286c93ba20eba3e8c090f149975eeb448be0791
+    mime: image/jpeg
+    bytes: 15780124
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a5/38/a5385bdc75912db10165f7b2e286c93ba20eba3e8c090f149975eeb448be0791/preview-400.b878c3fa4054.jpg
+        sha256: b878c3fa4054c937cb7f09d7f34612f7f058a5dc197685b7e890622067dcf3ec
+        mime: image/jpeg
+        bytes: 73460
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

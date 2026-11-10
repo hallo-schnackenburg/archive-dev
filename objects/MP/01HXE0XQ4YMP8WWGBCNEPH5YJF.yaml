@@ -1,0 +1,35 @@
+id: 01HXE0XQ4YMP8WWGBCNEPH5YJF
+type: image
+subtype: photo
+title: Dorfteich Jubiläum vor dem Umbau
+date: 1883-10-10
+location: Kapern, Bäckerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/c6/90/c690305c3eb2b6e46e64458a859f61513a13fcc767d38d951f4efebd8b208b1a/original.jpg
+    sha256: c690305c3eb2b6e46e64458a859f61513a13fcc767d38d951f4efebd8b208b1a
+    mime: image/jpeg
+    bytes: 10879030
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c6/90/c690305c3eb2b6e46e64458a859f61513a13fcc767d38d951f4efebd8b208b1a/preview-400.7003de19c07e.jpg
+        sha256: 7003de19c07e29607d028108d7fd48534af4607f8edae3ecb6ef5124d4c8ceac
+        mime: image/jpeg
+        bytes: 45426
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

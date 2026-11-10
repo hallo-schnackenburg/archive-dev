@@ -1,0 +1,37 @@
+id: 01FFMDRXZ5D754FFCK9KAKFBKR
+type: image
+subtype: print
+title: Fähre Bericht im Sommer
+date: 1965-07-01
+location: Schnackenburg, Elbufer
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/72/f5/72f5b41a046076bb94bd14474dd2ff4027d4c148a81d46efe3fc31ded8cf906c/original.tif
+    sha256: 72f5b41a046076bb94bd14474dd2ff4027d4c148a81d46efe3fc31ded8cf906c
+    mime: image/tiff
+    bytes: 11522005
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/72/f5/72f5b41a046076bb94bd14474dd2ff4027d4c148a81d46efe3fc31ded8cf906c/preview-400.3403a2167d5e.jpg
+        sha256: 3403a2167d5ee9615ca347abd3c75334096630fab2392d4c491294e921cc1c07
+        mime: image/jpeg
+        bytes: 55551
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

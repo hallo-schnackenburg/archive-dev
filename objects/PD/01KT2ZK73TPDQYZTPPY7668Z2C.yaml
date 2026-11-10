@@ -1,0 +1,51 @@
+id: 01KT2ZK73TPDQYZTPPY7668Z2C
+type: document
+subtype: brochure
+title: Bäckerei Ansicht im Winter
+date: 1947-06
+language: de
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/96/16/9616a21836969fe17e681a233302324a7a75bc304b651e72c08a5265b5b71bfe/original.tif
+    sha256: 9616a21836969fe17e681a233302324a7a75bc304b651e72c08a5265b5b71bfe
+    mime: image/tiff
+    bytes: 16142080
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/96/16/9616a21836969fe17e681a233302324a7a75bc304b651e72c08a5265b5b71bfe/preview-400.e6ac40df5275.jpg
+        sha256: e6ac40df5275941e8db7cae1a24c732fb2b2c333bf763e6b1f2dab268071e8e7
+        mime: image/jpeg
+        bytes: 29143
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/0d/32/0d322aca0017541daadd59873d66fb2b328ffa763bf64d767b5354f71c36d681/original.tif
+    sha256: 0d322aca0017541daadd59873d66fb2b328ffa763bf64d767b5354f71c36d681
+    mime: image/tiff
+    bytes: 20549026
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0d/32/0d322aca0017541daadd59873d66fb2b328ffa763bf64d767b5354f71c36d681/preview-400.a845521fd67d.jpg
+        sha256: a845521fd67d0bf301a8247d93ff4b0a703d6e392d31fa251ce5c6dbf4a25ac4
+        mime: image/jpeg
+        bytes: 62797
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

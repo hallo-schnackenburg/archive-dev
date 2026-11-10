@@ -1,0 +1,35 @@
+id: 01FF7MX58H0KVBC0TSYN2A7RT4
+type: image
+subtype: photo
+title: Grenzturm Einweihung bei Hochwasser
+date: 1861-07-24
+location: Kapern, Molkerei
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/98/5d/985de83b402d27373f504e407a628e87bb5c9f3037e0eb9359c079d47034499b/original.jpg
+    sha256: 985de83b402d27373f504e407a628e87bb5c9f3037e0eb9359c079d47034499b
+    mime: image/jpeg
+    bytes: 2965658
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/98/5d/985de83b402d27373f504e407a628e87bb5c9f3037e0eb9359c079d47034499b/preview-400.5ceb40c0ba84.jpg
+        sha256: 5ceb40c0ba84d2243c0cf5cbdd3f171174baf32b2e495ea3e95dde08ccc38f1f
+        mime: image/jpeg
+        bytes: 71896
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

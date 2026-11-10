@@ -1,0 +1,34 @@
+id: 01KJRDH6E8FB0VAT98JC87BYT8
+type: image
+subtype: plan
+title: Fähre Rechnung nach dem Krieg
+date: 1951-06-21
+location: Holtorf, Storchennest
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/06/65/0665ed71a63fef1bf16d7ef1f1a8a91367d442f7e6af13f0f657b5db79c12e1c/original.tif
+    sha256: 0665ed71a63fef1bf16d7ef1f1a8a91367d442f7e6af13f0f657b5db79c12e1c
+    mime: image/tiff
+    bytes: 17768637
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/65/0665ed71a63fef1bf16d7ef1f1a8a91367d442f7e6af13f0f657b5db79c12e1c/preview-400.24bc205e09f9.jpg
+        sha256: 24bc205e09f9fabe85a6c3000f28f244f77cacfd67c10a31300e8cc054e7ecb3
+        mime: image/jpeg
+        bytes: 75371
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

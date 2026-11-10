@@ -1,0 +1,39 @@
+id: 01JGB52R3X23K0X401J6QQCQXM
+type: image
+subtype: photo
+title: Kindergarten Einladung am Sonntag
+date: 2012-05-22
+location: Holtorf, Gasthof
+origin:
+  name: Anni Jeß
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/65/f4/65f474f252f1755d1e3c3cbc36913a5cabd1349fffd05f0dec889761965b8fd8/original.jpg
+    sha256: 65f474f252f1755d1e3c3cbc36913a5cabd1349fffd05f0dec889761965b8fd8
+    mime: image/jpeg
+    bytes: 24660479
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/65/f4/65f474f252f1755d1e3c3cbc36913a5cabd1349fffd05f0dec889761965b8fd8/preview-400.544563d556c9.jpg
+        sha256: 544563d556c96011fd910fb543e1be221dabf4ecd91b6e19738026faaa4e2fd2
+        mime: image/jpeg
+        bytes: 56783
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01KX2CNZVFEVM06F5DQFF1A9PS
+type: image
+subtype: print
+title: Fachwerkhaus Einweihung zur Wende
+description: Kupferstich.
+date: "1884"
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/cf/c3/cfc34885f3f6fe1809c9e09e96ff8c65c76c84c0f9c18d522798f38acd4ac944/original.tif
+    sha256: cfc34885f3f6fe1809c9e09e96ff8c65c76c84c0f9c18d522798f38acd4ac944
+    mime: image/tiff
+    bytes: 17665928
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cf/c3/cfc34885f3f6fe1809c9e09e96ff8c65c76c84c0f9c18d522798f38acd4ac944/preview-400.3a05bf660d86.jpg
+        sha256: 3a05bf660d86b038ccfc790e0fb6d7bf3ecea3bbda8d4ca32570b40558ea0f93
+        mime: image/jpeg
+        bytes: 82486
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

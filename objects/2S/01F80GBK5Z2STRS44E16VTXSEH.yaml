@@ -1,0 +1,35 @@
+id: 01F80GBK5Z2STRS44E16VTXSEH
+type: image
+subtype: photo
+title: Kirche St. Johannis Bescheid am Morgen
+date: 1850-02-16
+location: Restorf, Schützenfest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/4c/44/4c44a0a098b62d477ae2969dce56ef714eacd1f090353298ed60834d51dc5a78/original.jpg
+    sha256: 4c44a0a098b62d477ae2969dce56ef714eacd1f090353298ed60834d51dc5a78
+    mime: image/jpeg
+    bytes: 8530890
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4c/44/4c44a0a098b62d477ae2969dce56ef714eacd1f090353298ed60834d51dc5a78/preview-400.c6c5d53366a9.jpg
+        sha256: c6c5d53366a958201b6f32d62727d52404be61d4d6041bb36f6d94af02c79953
+        mime: image/jpeg
+        bytes: 87576
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01H7W46HRF2B2N27WF6379JK0A
+type: image
+subtype: print
+title: Elbufer Entwurf vor dem Umbau
+description: Kupferstich.
+date: 1991-04-28
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/d8/ae/d8ae9c5b81d56cb1abac9810bf7b1eec0870515411ff94079f9676611d974da0/original.tif
+    sha256: d8ae9c5b81d56cb1abac9810bf7b1eec0870515411ff94079f9676611d974da0
+    mime: image/tiff
+    bytes: 581910
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d8/ae/d8ae9c5b81d56cb1abac9810bf7b1eec0870515411ff94079f9676611d974da0/preview-400.b0487d68286f.jpg
+        sha256: b0487d68286fcf2aa1194c8013155f5aa644747bc2cfe1a39f5ffa18d1b22ad2
+        mime: image/jpeg
+        bytes: 59280
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

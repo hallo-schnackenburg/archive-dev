@@ -1,0 +1,34 @@
+id: 01JMBTMYGW84DDCFY6C00G2P75
+type: image
+subtype: plan
+title: Hafen Einladung zu Pfingsten
+date: 2018-04-14
+location: Lenzen, Dorfteich
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/38/e3/38e39a43170ac8c5b18bf2421b62e064d7aa1e2b9cf9703264cd20ebd0d8b410/original.tif
+    sha256: 38e39a43170ac8c5b18bf2421b62e064d7aa1e2b9cf9703264cd20ebd0d8b410
+    mime: image/tiff
+    bytes: 14455810
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/38/e3/38e39a43170ac8c5b18bf2421b62e064d7aa1e2b9cf9703264cd20ebd0d8b410/preview-400.4a27eccc7978.jpg
+        sha256: 4a27eccc79782b133dc0513f84ccdb3575f2d35387ea428e0b3d89cc12eae52f
+        mime: image/jpeg
+        bytes: 34639
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

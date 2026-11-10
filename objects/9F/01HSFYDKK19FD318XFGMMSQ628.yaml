@@ -1,0 +1,53 @@
+id: 01HSFYDKK19FD318XFGMMSQ628
+type: document
+subtype: letter
+title: Zollamt Rechnung am Morgen
+description: Grenzturm und marktplatz, am Morgen.
+date: 1951-04-08
+language: de
+origin:
+  name: Helga Plate
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/74/14/741423cb544a159f6afe2add55d575511ed4c16e264c1f1fb6feba07018e02fd/original.tif
+    sha256: 741423cb544a159f6afe2add55d575511ed4c16e264c1f1fb6feba07018e02fd
+    mime: image/tiff
+    bytes: 12529334
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/74/14/741423cb544a159f6afe2add55d575511ed4c16e264c1f1fb6feba07018e02fd/preview-400.1c2b46086ac0.jpg
+        sha256: 1c2b46086ac0518281951c61538cc584886f3a623bd40b572087cb38b2dd0754
+        mime: image/jpeg
+        bytes: 22237
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/be/2d/be2d34b7af93589b65bfc48ada80b473a856ebb98599e8c051b67163aa4a0e04/original.tif
+    sha256: be2d34b7af93589b65bfc48ada80b473a856ebb98599e8c051b67163aa4a0e04
+    mime: image/tiff
+    bytes: 12702997
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/2d/be2d34b7af93589b65bfc48ada80b473a856ebb98599e8c051b67163aa4a0e04/preview-400.0b016f6c7064.jpg
+        sha256: 0b016f6c7064302045650d87d40bfddfe8c859e18cec859a1d40e35be2fb8e59
+        mime: image/jpeg
+        bytes: 64684
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

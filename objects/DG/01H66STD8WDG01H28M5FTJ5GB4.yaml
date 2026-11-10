@@ -1,0 +1,39 @@
+id: 01H66STD8WDG01H28M5FTJ5GB4
+type: image
+subtype: photo
+title: Schmiede Bericht im Winter
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1852~
+location: Pretzier, Friedhof
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Ilse Wegner
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/fd/8d/fd8daca38ffe0d20daedcc9963159e56dc545c82e64cb4d4c4047ad5efcb7918/original.jpg
+    sha256: fd8daca38ffe0d20daedcc9963159e56dc545c82e64cb4d4c4047ad5efcb7918
+    mime: image/jpeg
+    bytes: 6292016
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fd/8d/fd8daca38ffe0d20daedcc9963159e56dc545c82e64cb4d4c4047ad5efcb7918/preview-400.cd234ac9a36e.jpg
+        sha256: cd234ac9a36e5fc01ba372414914451cccfcd40ca6403af23d8fa164b99d1a66
+        mime: image/jpeg
+        bytes: 47275
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01HZEY1FK2V1EH5K56XENGKBHB
+type: image
+subtype: plan
+title: Elbdeich Abriss zur Ernte
+date: "1962"
+location: Seedorf, Hochwasser
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/c1/67/c167e58dd5c85ffd7c9c13c0069836ab2cab771bb4e765db65c7ee7a3d009943/original.tif
+    sha256: c167e58dd5c85ffd7c9c13c0069836ab2cab771bb4e765db65c7ee7a3d009943
+    mime: image/tiff
+    bytes: 19095731
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c1/67/c167e58dd5c85ffd7c9c13c0069836ab2cab771bb4e765db65c7ee7a3d009943/preview-400.5414c45f363e.jpg
+        sha256: 5414c45f363eae3fdb5435d0668627845ff8156de70c039c73804bdb5cf74f6d
+        mime: image/jpeg
+        bytes: 47869
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01F301NXBW5XZPEJHCTK8CRX9P
+type: image
+subtype: print
+title: Bahnhof Gruppenbild im Sommer
+date: 1998~
+location: Lüchow, Fähre
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/30/eb/30eb35598b9e2ace9ec0749f3dd0f768ead189ef042499e8afc8e9a751b6fb9d/original.tif
+    sha256: 30eb35598b9e2ace9ec0749f3dd0f768ead189ef042499e8afc8e9a751b6fb9d
+    mime: image/tiff
+    bytes: 13875226
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/30/eb/30eb35598b9e2ace9ec0749f3dd0f768ead189ef042499e8afc8e9a751b6fb9d/preview-400.95fe270b7a76.jpg
+        sha256: 95fe270b7a76db5e710a987f3f01737e9989c8742fca06b4156c93a1ce5facd4
+        mime: image/jpeg
+        bytes: 36263
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

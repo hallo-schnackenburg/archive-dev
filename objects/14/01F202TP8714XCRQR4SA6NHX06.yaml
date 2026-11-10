@@ -1,0 +1,39 @@
+id: 01F202TP8714XCRQR4SA6NHX06
+type: image
+subtype: photo
+title: Gemeindehaus Ansicht am Morgen
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 2003-08-22
+location: Lenzen, Kindergarten
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Erika Voss
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/2e/06/2e0601e88ca07c12a19ffe0b452c0ec1a38a2da8f57495d4c00f9bfb5643c558/original.jpg
+    sha256: 2e0601e88ca07c12a19ffe0b452c0ec1a38a2da8f57495d4c00f9bfb5643c558
+    mime: image/jpeg
+    bytes: 3662288
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2e/06/2e0601e88ca07c12a19ffe0b452c0ec1a38a2da8f57495d4c00f9bfb5643c558/preview-400.7d2eef01a99d.jpg
+        sha256: 7d2eef01a99d112b90f711efd6fa0a661aa19e329e024e007b1b973ca63e8858
+        mime: image/jpeg
+        bytes: 23130
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

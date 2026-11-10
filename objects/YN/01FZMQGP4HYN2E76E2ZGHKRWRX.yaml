@@ -1,0 +1,51 @@
+id: 01FZMQGP4HYN2E76E2ZGHKRWRX
+type: document
+subtype: brochure
+title: Ernte Jubiläum am Sonntag
+date: 1914-03
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/21/e3/21e3eaabbcd271685c52c941fcdb882b23ebb38724d66fd94b351364576c977b/original.tif
+    sha256: 21e3eaabbcd271685c52c941fcdb882b23ebb38724d66fd94b351364576c977b
+    mime: image/tiff
+    bytes: 451634
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/21/e3/21e3eaabbcd271685c52c941fcdb882b23ebb38724d66fd94b351364576c977b/preview-400.9b7c4f3dfc6e.jpg
+        sha256: 9b7c4f3dfc6e96375bb516ad14a09173fcf3c88c14a0cd3ce7eb79f23501a258
+        mime: image/jpeg
+        bytes: 28042
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/14/0f/140f2caac3e4f324a2508c26a0fe2142e5ff1bed6d6603cb96b2a5fe8578dcad/original.tif
+    sha256: 140f2caac3e4f324a2508c26a0fe2142e5ff1bed6d6603cb96b2a5fe8578dcad
+    mime: image/tiff
+    bytes: 22297064
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/0f/140f2caac3e4f324a2508c26a0fe2142e5ff1bed6d6603cb96b2a5fe8578dcad/preview-400.2bf7b9345832.jpg
+        sha256: 2bf7b934583245f759537be25d8eb67373cbc5ec48f86c7bcfc3cc7c09f60ae5
+        mime: image/jpeg
+        bytes: 36441
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

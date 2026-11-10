@@ -1,0 +1,51 @@
+id: 01M2A7HA75MWM15W76WCVHY705
+type: document
+subtype: brochure
+title: Kirche St. Johannis Notiz im Sommer
+date: "1951"
+language: de
+origin:
+  name: Anni Jeß
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/30/74/3074b89c25da58a7ea7837a91aa066cdbe506c55ca5ef22a5cc07d827b2973f2/original.tif
+    sha256: 3074b89c25da58a7ea7837a91aa066cdbe506c55ca5ef22a5cc07d827b2973f2
+    mime: image/tiff
+    bytes: 2489809
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/30/74/3074b89c25da58a7ea7837a91aa066cdbe506c55ca5ef22a5cc07d827b2973f2/preview-400.6d09848b3032.jpg
+        sha256: 6d09848b30329812c146e3164f6d292bed1066da151432524da117ca9a353b11
+        mime: image/jpeg
+        bytes: 50884
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/c9/cc/c9cce396370b9a692068ba271cf8595fbfdae430e6a46520bcd378a2ca0cfd6b/original.tif
+    sha256: c9cce396370b9a692068ba271cf8595fbfdae430e6a46520bcd378a2ca0cfd6b
+    mime: image/tiff
+    bytes: 19354907
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c9/cc/c9cce396370b9a692068ba271cf8595fbfdae430e6a46520bcd378a2ca0cfd6b/preview-400.d88bbc958032.jpg
+        sha256: d88bbc958032071f9f1173247e61f10051a48fd8b7597307c427d7540be510fb
+        mime: image/jpeg
+        bytes: 63257
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

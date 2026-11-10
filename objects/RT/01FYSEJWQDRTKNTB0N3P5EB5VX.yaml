@@ -1,0 +1,35 @@
+id: 01FYSEJWQDRTKNTB0N3P5EB5VX
+type: image
+subtype: photo
+title: Molkerei Bericht im Sommer
+date: 1962-10-09
+location: Seedorf, Storchennest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/89/df/89df97734b595247e3b997966ec1b11505f05ece05106d979e6f35b130e0940a/original.jpg
+    sha256: 89df97734b595247e3b997966ec1b11505f05ece05106d979e6f35b130e0940a
+    mime: image/jpeg
+    bytes: 24106610
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/89/df/89df97734b595247e3b997966ec1b11505f05ece05106d979e6f35b130e0940a/preview-400.7f1eff083d76.jpg
+        sha256: 7f1eff083d762ad62d0693da774a980bc688f0daa99da26d7f24a1730d3d2b08
+        mime: image/jpeg
+        bytes: 85884
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

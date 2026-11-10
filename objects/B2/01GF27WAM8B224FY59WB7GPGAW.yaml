@@ -1,0 +1,39 @@
+id: 01GF27WAM8B224FY59WB7GPGAW
+type: image
+subtype: photo
+title: Friedhof Bericht am Morgen
+date: 1912/1918
+location: Schnackenburg, Bäckerei
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/60/76/6076d23d7832f7f441342d4e2a3737cd081a11f234c68d7364780c562d862807/original.jpg
+    sha256: 6076d23d7832f7f441342d4e2a3737cd081a11f234c68d7364780c562d862807
+    mime: image/jpeg
+    bytes: 9305509
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/60/76/6076d23d7832f7f441342d4e2a3737cd081a11f234c68d7364780c562d862807/preview-400.8c5705fe014f.jpg
+        sha256: 8c5705fe014fc5a2fb430676a4e91578d7fbecf27746cbe2a943d9dde2cd7659
+        mime: image/jpeg
+        bytes: 68371
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

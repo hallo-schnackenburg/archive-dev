@@ -1,0 +1,39 @@
+id: 01GH24M1KKEXE45BWCMYB58BAH
+type: image
+subtype: photo
+title: Dorfteich Umzug zur Wende
+date: 1901-03
+location: Lüchow, Bahnhof
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/45/b3/45b33bb6b19e25773e4730a880ce523ab47395c9d3382400c7e24334d9d67afb/original.jpg
+    sha256: 45b33bb6b19e25773e4730a880ce523ab47395c9d3382400c7e24334d9d67afb
+    mime: image/jpeg
+    bytes: 7504230
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/45/b3/45b33bb6b19e25773e4730a880ce523ab47395c9d3382400c7e24334d9d67afb/preview-400.865793aa341c.jpg
+        sha256: 865793aa341c12228c29efef90d9ab0cf63aa2079cc6212cc7fe4bdc5be87ffc
+        mime: image/jpeg
+        bytes: 70938
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

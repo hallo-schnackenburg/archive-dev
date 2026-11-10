@@ -1,0 +1,39 @@
+id: 01JQKKPEAW51YG16SGNZSR4MGA
+type: image
+subtype: photo
+title: Storchennest Prospekt vor dem Umbau
+date: 1999-10
+location: Holtorf, Bäckerei
+origin:
+  name: Helga Plate
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/11/dc/11dc844fd65a33ac95511495aeed476d1a5d8a65695ba5f189036dfd86efb124/original.jpg
+    sha256: 11dc844fd65a33ac95511495aeed476d1a5d8a65695ba5f189036dfd86efb124
+    mime: image/jpeg
+    bytes: 10210524
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/11/dc/11dc844fd65a33ac95511495aeed476d1a5d8a65695ba5f189036dfd86efb124/preview-400.481246df9fd0.jpg
+        sha256: 481246df9fd0dc53cd461a149b1dbc639523dfdd9ad367bc7691d0bd6563cd04
+        mime: image/jpeg
+        bytes: 26028
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

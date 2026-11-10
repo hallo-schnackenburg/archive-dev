@@ -1,0 +1,39 @@
+id: 01JV1TEEC48CF1YQNB03E4HQZX
+type: image
+subtype: photo
+title: Marktplatz Notiz am Morgen
+date: "1924"
+location: Gartow, Elbufer
+origin:
+  name: Heinrich Meyer
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/d5/18/d518f7a3ac4530e07f923e76068ed8b07532fada8f602ac7b2ef60bf68926207/original.jpg
+    sha256: d518f7a3ac4530e07f923e76068ed8b07532fada8f602ac7b2ef60bf68926207
+    mime: image/jpeg
+    bytes: 831247
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d5/18/d518f7a3ac4530e07f923e76068ed8b07532fada8f602ac7b2ef60bf68926207/preview-400.a0498f275fbe.jpg
+        sha256: a0498f275fbe5d2c5a7881ba7326af1890538a1f3548f3cf2a3f0b94d62430ef
+        mime: image/jpeg
+        bytes: 53750
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

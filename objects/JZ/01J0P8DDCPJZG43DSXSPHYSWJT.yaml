@@ -1,0 +1,39 @@
+id: 01J0P8DDCPJZG43DSXSPHYSWJT
+type: image
+subtype: photo
+title: Rathaus Umzug am Morgen
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: "1910"
+location: Holtorf, Hafen
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Fritz Bohlmann
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/e2/67/e267f3a0e953140fb8ee47260d5f9de78068eeacf22b440917726b1d991c0f8a/original.jpg
+    sha256: e267f3a0e953140fb8ee47260d5f9de78068eeacf22b440917726b1d991c0f8a
+    mime: image/jpeg
+    bytes: 9611531
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e2/67/e267f3a0e953140fb8ee47260d5f9de78068eeacf22b440917726b1d991c0f8a/preview-400.effb9e232ed2.jpg
+        sha256: effb9e232ed244f926b875379e5cf76dbfacc72bc84a9a7f3e711ea1969ec227
+        mime: image/jpeg
+        bytes: 81686
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

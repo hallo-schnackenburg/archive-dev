@@ -1,0 +1,35 @@
+id: 01FPWF97M6HB7FMJQWQSAAHEGC
+type: image
+subtype: photo
+title: Dorfteich Entwurf zur Ernte
+date: 1996-01
+location: Gartow, Brunnen
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/86/06/8606a4ab0d48851a6d2263d2461b1fb3ae8f2b840c4904c9b02ccbf5bbc27b8b/original.jpg
+    sha256: 8606a4ab0d48851a6d2263d2461b1fb3ae8f2b840c4904c9b02ccbf5bbc27b8b
+    mime: image/jpeg
+    bytes: 25636298
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/86/06/8606a4ab0d48851a6d2263d2461b1fb3ae8f2b840c4904c9b02ccbf5bbc27b8b/preview-400.3121aa15a7e2.jpg
+        sha256: 3121aa15a7e20e4e720c5271854f6f03f020bb4c05baf96113d84fd8edb4c9f6
+        mime: image/jpeg
+        bytes: 62880
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

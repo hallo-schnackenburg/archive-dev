@@ -1,0 +1,51 @@
+id: 01HYBBWXBJW085F4H50V195P4B
+type: document
+subtype: brochure
+title: Bäckerei Protokoll zur Wende
+date: 1935-01
+language: de
+origin:
+  name: Karl Lemke
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/b4/09/b409be022d8d52230c7b22fa5d5924568be90b1fd5993ebc832aaed4fc0169df/original.tif
+    sha256: b409be022d8d52230c7b22fa5d5924568be90b1fd5993ebc832aaed4fc0169df
+    mime: image/tiff
+    bytes: 25653802
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/09/b409be022d8d52230c7b22fa5d5924568be90b1fd5993ebc832aaed4fc0169df/preview-400.d7fe1014a493.jpg
+        sha256: d7fe1014a4930d608a99abfdd47a60e6b3c9c8a48e3d02ab84d86faaccec72a2
+        mime: image/jpeg
+        bytes: 52315
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/20/4b/204b4b497b013070f006eb242cea8e5a6fa56df009b030e992e8524f8b4815e9/original.tif
+    sha256: 204b4b497b013070f006eb242cea8e5a6fa56df009b030e992e8524f8b4815e9
+    mime: image/tiff
+    bytes: 17527456
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/20/4b/204b4b497b013070f006eb242cea8e5a6fa56df009b030e992e8524f8b4815e9/preview-400.fd10448e869f.jpg
+        sha256: fd10448e869fbd7e559b501536223875091d7667b2fefcaa64e0b6eb88bbdc6c
+        mime: image/jpeg
+        bytes: 86325
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

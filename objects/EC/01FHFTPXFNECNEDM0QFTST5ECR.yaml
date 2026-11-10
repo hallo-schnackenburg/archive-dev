@@ -1,0 +1,39 @@
+id: 01FHFTPXFNECNEDM0QFTST5ECR
+type: image
+subtype: photo
+title: Gemeindehaus Bericht zur Wende
+date: 1883-10-21
+location: Lenzen, Dorfschule
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Karl Lemke
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/2e/e6/2ee624384b593030881ad9fd8ad99e5203fa0024a6fb5f76ab84a487b25960cc/original.jpg
+    sha256: 2ee624384b593030881ad9fd8ad99e5203fa0024a6fb5f76ab84a487b25960cc
+    mime: image/jpeg
+    bytes: 26474848
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2e/e6/2ee624384b593030881ad9fd8ad99e5203fa0024a6fb5f76ab84a487b25960cc/preview-400.9cb1bcd9ce60.jpg
+        sha256: 9cb1bcd9ce6073c35fca7dfb083b94c3c092adeda8b7b999060cc32a13f01604
+        mime: image/jpeg
+        bytes: 24890
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

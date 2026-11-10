@@ -1,0 +1,53 @@
+id: 01KZG7QVM78536W5MD9332BT0Q
+type: document
+subtype: letter
+title: Molkerei Umbau zu Pfingsten
+description: Schreibt über die Ernte und das Wetter.
+date: 1885~
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/da/3b/da3b0a7c01de04765e5ff9d3caeb8258aa2453e0850044fa901ea1c457faf0b5/original.tif
+    sha256: da3b0a7c01de04765e5ff9d3caeb8258aa2453e0850044fa901ea1c457faf0b5
+    mime: image/tiff
+    bytes: 8307741
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/3b/da3b0a7c01de04765e5ff9d3caeb8258aa2453e0850044fa901ea1c457faf0b5/preview-400.fc18bdc20a7d.jpg
+        sha256: fc18bdc20a7d597b8b183c6b2c81d3a15f37a387d2af90a5ee1d86df55525225
+        mime: image/jpeg
+        bytes: 64160
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/80/b5/80b569462cc4b7a610ee191cae0c6a91d2215e4be5ca2394186a3caaecc2eb7d/original.tif
+    sha256: 80b569462cc4b7a610ee191cae0c6a91d2215e4be5ca2394186a3caaecc2eb7d
+    mime: image/tiff
+    bytes: 27876946
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/b5/80b569462cc4b7a610ee191cae0c6a91d2215e4be5ca2394186a3caaecc2eb7d/preview-400.ae763d9d409f.jpg
+        sha256: ae763d9d409f46146cbf30a1fefcc9bc4de8c5eafd1247dd2d2e523c52c66ae0
+        mime: image/jpeg
+        bytes: 72860
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

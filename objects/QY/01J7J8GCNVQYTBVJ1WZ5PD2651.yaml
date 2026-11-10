@@ -1,0 +1,51 @@
+id: 01J7J8GCNVQYTBVJ1WZ5PD2651
+type: document
+subtype: brochure
+title: Marktplatz Ansicht im Winter
+date: 1900/1904
+language: de
+origin:
+  name: Dieter Ahrens
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/be/59/be5958538bfcebdfe9a83cace850ec74ab02fcaaf8e09f56174d550236b2003d/original.tif
+    sha256: be5958538bfcebdfe9a83cace850ec74ab02fcaaf8e09f56174d550236b2003d
+    mime: image/tiff
+    bytes: 24284124
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/59/be5958538bfcebdfe9a83cace850ec74ab02fcaaf8e09f56174d550236b2003d/preview-400.138acf8d7c87.jpg
+        sha256: 138acf8d7c87bd0d43b18a5341d3d42bd134b7042b93d4e4231d8dae0ad99642
+        mime: image/jpeg
+        bytes: 86832
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/da/a1/daa1561aca5ecfe116ba233078d171d96055447ce2a18b5ad2e372ffc15ff6f5/original.tif
+    sha256: daa1561aca5ecfe116ba233078d171d96055447ce2a18b5ad2e372ffc15ff6f5
+    mime: image/tiff
+    bytes: 12821124
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/a1/daa1561aca5ecfe116ba233078d171d96055447ce2a18b5ad2e372ffc15ff6f5/preview-400.7b1a62cb9fb1.jpg
+        sha256: 7b1a62cb9fb189a48ced070d3ae51e0595b736608be4024f2d8f225140be7de2
+        mime: image/jpeg
+        bytes: 21882
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01G8DE1CRZ6G56EK82GYPGME4M
+type: image
+subtype: photo
+title: Brücke Ansicht am Morgen
+date: 1953/1958
+location: Kapern, Rathaus
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/fb/d5/fbd580dff98f4843f67f665431844243530e8616b665bef34513e663b9f2e44e/original.jpg
+    sha256: fbd580dff98f4843f67f665431844243530e8616b665bef34513e663b9f2e44e
+    mime: image/jpeg
+    bytes: 5822678
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fb/d5/fbd580dff98f4843f67f665431844243530e8616b665bef34513e663b9f2e44e/preview-400.d6d2135fa3f6.jpg
+        sha256: d6d2135fa3f66f1f89d93fc5e4ccee83008ab596e9ff98df8cda530c7f36e9cc
+        mime: image/jpeg
+        bytes: 44392
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01F7Y0DSJKDKDR6Y772EEJ3JZ6
+type: image
+subtype: photo
+title: Feuerwehr Aufnahme am Morgen
+description: Das Wasser steht bis an die Deichkrone.
+date: 1915-10
+location: Pretzier, Hafen
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/a0/90/a090d41bc15b3dc3cfbc7c9dcacfa46036fc55796cdedbd06185dfcc8790a208/original.jpg
+    sha256: a090d41bc15b3dc3cfbc7c9dcacfa46036fc55796cdedbd06185dfcc8790a208
+    mime: image/jpeg
+    bytes: 19416244
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/a0/90/a090d41bc15b3dc3cfbc7c9dcacfa46036fc55796cdedbd06185dfcc8790a208/preview-400.5a529bf94812.jpg
+        sha256: 5a529bf94812205429d47a160fcd4b422e8f1b57c2e9cfe9b9105628152caa7a
+        mime: image/jpeg
+        bytes: 48057
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

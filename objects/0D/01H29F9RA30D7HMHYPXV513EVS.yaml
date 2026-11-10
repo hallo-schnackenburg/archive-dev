@@ -1,0 +1,34 @@
+id: 01H29F9RA30D7HMHYPXV513EVS
+type: image
+subtype: plan
+title: Fähre Entwurf zu Pfingsten
+date: 1949-02
+location: Seedorf, Bäckerei
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Wilhelm Krüger
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/d5/ad/d5ada6b58e07fd60f0182cacb137302d2aab1e4ff1deb0d2fafa04bf7f4fef5b/original.tif
+    sha256: d5ada6b58e07fd60f0182cacb137302d2aab1e4ff1deb0d2fafa04bf7f4fef5b
+    mime: image/tiff
+    bytes: 25081772
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/ad/d5ada6b58e07fd60f0182cacb137302d2aab1e4ff1deb0d2fafa04bf7f4fef5b/preview-400.b91c99bc63dd.jpg
+        sha256: b91c99bc63dd3b921bfbe3a2b7fc5d2200eb1b1115d2d819eb57e55fc1675250
+        mime: image/jpeg
+        bytes: 57705
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

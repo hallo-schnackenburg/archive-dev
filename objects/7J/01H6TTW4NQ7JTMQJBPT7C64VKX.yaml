@@ -1,0 +1,51 @@
+id: 01H6TTW4NQ7JTMQJBPT7C64VKX
+type: document
+subtype: brochure
+title: Fachwerkhaus Umzug im Sommer
+date: 1873~
+language: de
+origin:
+  name: Karl Lemke
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/fd/78/fd784b0b6150d1ef670267b5aa715a5b85866e70890453cda1f9071b5eb0fdd4/original.tif
+    sha256: fd784b0b6150d1ef670267b5aa715a5b85866e70890453cda1f9071b5eb0fdd4
+    mime: image/tiff
+    bytes: 23395502
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fd/78/fd784b0b6150d1ef670267b5aa715a5b85866e70890453cda1f9071b5eb0fdd4/preview-400.2dfaa346c36a.jpg
+        sha256: 2dfaa346c36a5ea97cbff3960ef206fae151248268accb1411c0882cc6233438
+        mime: image/jpeg
+        bytes: 64665
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/38/c2/38c286248340aa5f41f06ae3183e46571416adcb67c4670eccb36439486e4a50/original.tif
+    sha256: 38c286248340aa5f41f06ae3183e46571416adcb67c4670eccb36439486e4a50
+    mime: image/tiff
+    bytes: 8847960
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/38/c2/38c286248340aa5f41f06ae3183e46571416adcb67c4670eccb36439486e4a50/preview-400.37edf2abd399.jpg
+        sha256: 37edf2abd39986ec8363ac47bf7c59216e61215ccf0acf1c54aea6e983f0f456
+        mime: image/jpeg
+        bytes: 24553
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

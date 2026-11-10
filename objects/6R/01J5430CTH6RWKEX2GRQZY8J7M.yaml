@@ -1,0 +1,39 @@
+id: 01J5430CTH6RWKEX2GRQZY8J7M
+type: image
+subtype: photo
+title: Molkerei Ansicht nach dem Krieg
+date: 2014-01
+location: Pretzier, Schützenfest
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/fd/51/fd516469be7306a439c723a3a56bf71878c87d407efeb3a79411c2d6004232ae/original.jpg
+    sha256: fd516469be7306a439c723a3a56bf71878c87d407efeb3a79411c2d6004232ae
+    mime: image/jpeg
+    bytes: 7256299
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fd/51/fd516469be7306a439c723a3a56bf71878c87d407efeb3a79411c2d6004232ae/preview-400.e2f9d5e77cf9.jpg
+        sha256: e2f9d5e77cf98eb517d2150f6ce2c3ee5dca6cb960f1a557be5a56f9c2bd67f5
+        mime: image/jpeg
+        bytes: 39378
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

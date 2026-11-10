@@ -1,0 +1,39 @@
+id: 01HFVCY7E8MYD5S966FVFN9YVA
+type: image
+subtype: photo
+title: Gasthof Prospekt im Winter
+description: Bahnhof und gasthof, zu Pfingsten.
+date: 1974~
+location: Schnackenburg, Pfarrhaus
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Hans Brandt
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/df/58/df581feff50468a988eaf28783eea5fcbf51206c77a4acd9c0cc9a1ec842fabf/original.jpg
+    sha256: df581feff50468a988eaf28783eea5fcbf51206c77a4acd9c0cc9a1ec842fabf
+    mime: image/jpeg
+    bytes: 17796967
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/df/58/df581feff50468a988eaf28783eea5fcbf51206c77a4acd9c0cc9a1ec842fabf/preview-400.418a58d6ae34.jpg
+        sha256: 418a58d6ae34806446fdc08c67e8cd2a887dc689c50841b5557f2034dea30555
+        mime: image/jpeg
+        bytes: 34428
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01FHAP92DT1QCYQPW0WWN472KJ
+type: image
+subtype: photo
+title: Friedhof Aufnahme zur Wende
+date: 1872-05-01
+location: Kapern, Dorfteich
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/28/6e/286e085e393e33e2611bcc1800f80dad9692e17ea67ffb5f3b0be6084c6c1883/original.jpg
+    sha256: 286e085e393e33e2611bcc1800f80dad9692e17ea67ffb5f3b0be6084c6c1883
+    mime: image/jpeg
+    bytes: 19054272
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/28/6e/286e085e393e33e2611bcc1800f80dad9692e17ea67ffb5f3b0be6084c6c1883/preview-400.655132405ce9.jpg
+        sha256: 655132405ce945cb6aa7e8f198138c56c4395fd84970c0238558728b6a557166
+        mime: image/jpeg
+        bytes: 25908
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

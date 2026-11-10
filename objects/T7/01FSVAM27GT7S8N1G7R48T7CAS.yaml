@@ -1,0 +1,47 @@
+id: 01FSVAM27GT7S8N1G7R48T7CAS
+type: image
+subtype: photo
+title: Fachwerkhaus Brief am Morgen
+description: Zollamt und gemeindehaus, im Sommer.
+date: 1965-01-06
+location: Seedorf, Gemeindehaus
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Otto Hennings
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/63/95/6395ecafb243d015346dc0ae87c6b7e01eab7f1c7f5ebc36603a85e68483bcc0/original.jpg
+    sha256: 6395ecafb243d015346dc0ae87c6b7e01eab7f1c7f5ebc36603a85e68483bcc0
+    mime: image/jpeg
+    bytes: 17572728
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/63/95/6395ecafb243d015346dc0ae87c6b7e01eab7f1c7f5ebc36603a85e68483bcc0/preview-400.b990e8eb9d22.jpg
+        sha256: b990e8eb9d22db2a706c2241f7bbf5505bc1e426c421d67f6000606b002e861a
+        mime: image/jpeg
+        bytes: 50065
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01FXBSRSG5QG7SCZ47KN8QNAVY
+type: image
+subtype: print
+title: Gemeindehaus Bericht am Morgen
+date: 1970-06
+location: Gartow, Dorfschule
+origin:
+  name: Marta Lüders
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/80/1e/801e8af1f04bdcd58efb1a66332f0c17d7cef0d3702a3ec27dec1842f62e8d26/original.tif
+    sha256: 801e8af1f04bdcd58efb1a66332f0c17d7cef0d3702a3ec27dec1842f62e8d26
+    mime: image/tiff
+    bytes: 2227826
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/1e/801e8af1f04bdcd58efb1a66332f0c17d7cef0d3702a3ec27dec1842f62e8d26/preview-400.fb85e6092e3a.jpg
+        sha256: fb85e6092e3a8ce4d75bb0795e9f06a1000e1950721f2623ce71b38a73936522
+        mime: image/jpeg
+        bytes: 57961
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

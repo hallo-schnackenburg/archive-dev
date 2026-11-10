@@ -1,0 +1,39 @@
+id: 01G00XPRMDK2BA00SAGFHP8CB5
+type: image
+subtype: photo
+title: Molkerei Notiz zur Wende
+date: 2005-07
+location: Gartow, Elbdeich
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/84/54/8454461b8f089ce52544e7cc337f7e8471192d3d4617767000c775c8632b63c2/original.jpg
+    sha256: 8454461b8f089ce52544e7cc337f7e8471192d3d4617767000c775c8632b63c2
+    mime: image/jpeg
+    bytes: 1467037
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/84/54/8454461b8f089ce52544e7cc337f7e8471192d3d4617767000c775c8632b63c2/preview-400.3732c29631f3.jpg
+        sha256: 3732c29631f3031e5bab27cd962f252cbf6bacda8d17392236e8f0618face59a
+        mime: image/jpeg
+        bytes: 81614
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

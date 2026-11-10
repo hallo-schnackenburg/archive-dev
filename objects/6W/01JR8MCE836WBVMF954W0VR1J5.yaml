@@ -1,0 +1,34 @@
+id: 01JR8MCE836WBVMF954W0VR1J5
+type: image
+subtype: print
+title: Mühle Besuch nach dem Krieg
+description: Kupferstich.
+date: 1981-04-03
+origin:
+  name: Hans Brandt
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/dc/59/dc59c3f2629ba92dd858d451fbfcd4627301e5881d7e83e4a1183a872120c099/original.tif
+    sha256: dc59c3f2629ba92dd858d451fbfcd4627301e5881d7e83e4a1183a872120c099
+    mime: image/tiff
+    bytes: 27996931
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/59/dc59c3f2629ba92dd858d451fbfcd4627301e5881d7e83e4a1183a872120c099/preview-400.415cf935a63d.jpg
+        sha256: 415cf935a63d07ef18166f6d305de5eaf51581243277909fe5b59cbf341c2edb
+        mime: image/jpeg
+        bytes: 73115
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

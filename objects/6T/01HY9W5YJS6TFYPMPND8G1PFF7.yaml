@@ -1,0 +1,35 @@
+id: 01HY9W5YJS6TFYPMPND8G1PFF7
+type: image
+subtype: photo
+title: Kirche St. Johannis Festtag am Morgen
+date: 1940-05
+location: Restorf, Kindergarten
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/c7/7b/c77b32cf3c456ab570f5de9c1937ada11a71e253a37b8c3e65ea1c6d4cccdc2a/original.jpg
+    sha256: c77b32cf3c456ab570f5de9c1937ada11a71e253a37b8c3e65ea1c6d4cccdc2a
+    mime: image/jpeg
+    bytes: 7457673
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c7/7b/c77b32cf3c456ab570f5de9c1937ada11a71e253a37b8c3e65ea1c6d4cccdc2a/preview-400.cef8cbade3ec.jpg
+        sha256: cef8cbade3ec1a6b3ada8c3cc1a1cde9e497551cbf7735929721a9c69748c48c
+        mime: image/jpeg
+        bytes: 28266
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

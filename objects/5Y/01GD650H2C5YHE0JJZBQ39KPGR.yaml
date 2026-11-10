@@ -1,0 +1,34 @@
+id: 01GD650H2C5YHE0JJZBQ39KPGR
+type: image
+subtype: print
+title: Sportplatz Umzug zur Wende
+description: Kupferstich.
+date: 1871-12
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/be/51/be51cb20b7cdb8d590eb7198a98e0977aced6202b4c2af6795cbedf86b78907b/original.tif
+    sha256: be51cb20b7cdb8d590eb7198a98e0977aced6202b4c2af6795cbedf86b78907b
+    mime: image/tiff
+    bytes: 21026485
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/51/be51cb20b7cdb8d590eb7198a98e0977aced6202b4c2af6795cbedf86b78907b/preview-400.e3f5264b9360.jpg
+        sha256: e3f5264b936075e047cef019a07934249f884c4e050a9779b815d0a381e12135
+        mime: image/jpeg
+        bytes: 66400
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

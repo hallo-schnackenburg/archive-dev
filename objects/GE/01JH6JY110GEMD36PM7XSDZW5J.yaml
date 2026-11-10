@@ -1,0 +1,39 @@
+id: 01JH6JY110GEMD36PM7XSDZW5J
+type: image
+subtype: photo
+title: Mühle Ansicht zur Wende
+date: 1940-04
+location: Pretzier, Marktplatz
+origin:
+  name: Erika Voss
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/f1/c0/f1c0fae8d6cfa510d4185fd5bf649fee1eeaca8c18436454f210945a5ac16af2/original.jpg
+    sha256: f1c0fae8d6cfa510d4185fd5bf649fee1eeaca8c18436454f210945a5ac16af2
+    mime: image/jpeg
+    bytes: 26135536
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f1/c0/f1c0fae8d6cfa510d4185fd5bf649fee1eeaca8c18436454f210945a5ac16af2/preview-400.72200bd5d123.jpg
+        sha256: 72200bd5d12323271d69a9777e2625307a8bae19f66a3883a1f18cef7882c3a0
+        mime: image/jpeg
+        bytes: 47478
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

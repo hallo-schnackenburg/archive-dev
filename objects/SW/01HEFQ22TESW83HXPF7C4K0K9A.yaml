@@ -1,0 +1,51 @@
+id: 01HEFQ22TESW83HXPF7C4K0K9A
+type: document
+subtype: brochure
+title: Dorfteich Aufnahme bei Hochwasser
+date: "1941"
+language: de
+origin:
+  name: Gerda Schulz
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/c7/69/c769cd7a19646956b0f35834103116247519ba63253fc251364c93b33ee30e97/original.tif
+    sha256: c769cd7a19646956b0f35834103116247519ba63253fc251364c93b33ee30e97
+    mime: image/tiff
+    bytes: 14237397
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c7/69/c769cd7a19646956b0f35834103116247519ba63253fc251364c93b33ee30e97/preview-400.8a6eee28a877.jpg
+        sha256: 8a6eee28a8777ec62240020c70d5a918db15c21445fc6a6011e494e954348ce3
+        mime: image/jpeg
+        bytes: 56200
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/a2/7b/a27b77e984e5f542b601903aa130b032ead2d2b0610c14cf8529c1c4e4cc2bca/original.tif
+    sha256: a27b77e984e5f542b601903aa130b032ead2d2b0610c14cf8529c1c4e4cc2bca
+    mime: image/tiff
+    bytes: 3232271
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a2/7b/a27b77e984e5f542b601903aa130b032ead2d2b0610c14cf8529c1c4e4cc2bca/preview-400.ee208bbd57c5.jpg
+        sha256: ee208bbd57c5a717ef8e9e734428b0cfa48bfb9045386953b49797dc1b5c89d8
+        mime: image/jpeg
+        bytes: 77698
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

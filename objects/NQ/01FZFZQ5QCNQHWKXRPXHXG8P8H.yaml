@@ -1,0 +1,39 @@
+id: 01FZFZQ5QCNQHWKXRPXHXG8P8H
+type: image
+subtype: photo
+title: Molkerei Umzug im Sommer
+date: 1919-10-09
+location: Lüchow, Gemeindehaus
+origin:
+  name: Rudolf Garms
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/c0/9d/c09db7f7c19ed4f35ab5fb55c773ba5043477cfeb01cf94f36220b71f418ab7f/original.jpg
+    sha256: c09db7f7c19ed4f35ab5fb55c773ba5043477cfeb01cf94f36220b71f418ab7f
+    mime: image/jpeg
+    bytes: 18440603
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c0/9d/c09db7f7c19ed4f35ab5fb55c773ba5043477cfeb01cf94f36220b71f418ab7f/preview-400.f16f474c89d2.jpg
+        sha256: f16f474c89d269505ac2daaf1e80d43ab304ad1f57f2a918e16cb30373889808
+        mime: image/jpeg
+        bytes: 20168
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

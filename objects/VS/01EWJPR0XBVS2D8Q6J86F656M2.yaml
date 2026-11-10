@@ -1,0 +1,34 @@
+id: 01EWJPR0XBVS2D8Q6J86F656M2
+type: image
+subtype: plan
+title: Sportplatz Einladung im Winter
+date: 2012/2013
+location: Restorf, Bahnhof
+geocode:
+  lat: 52.9935
+  lon: 11.5705
+  precision: town
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+files:
+  - role: main
+    original_name: kataster_1876.tif
+    path: files/22/11/2211acbc8532edf36014f5966950d906e9c2edb709dbc676bc5f4c701c131e98/original.tif
+    sha256: 2211acbc8532edf36014f5966950d906e9c2edb709dbc676bc5f4c701c131e98
+    mime: image/tiff
+    bytes: 10712463
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/22/11/2211acbc8532edf36014f5966950d906e9c2edb709dbc676bc5f4c701c131e98/preview-400.44939c9f2742.jpg
+        sha256: 44939c9f27423ed4264058dc3445b42572f38db3482b46a3859d440119cfaef5
+        mime: image/jpeg
+        bytes: 32113
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

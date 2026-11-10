@@ -1,0 +1,47 @@
+id: 01JC57AWSAMQKHPFK6Y43ZNHV2
+type: image
+subtype: photo
+title: Bäckerei Abriss vor dem Umbau
+description: Feuerwehr und friedhof, am Sonntag.
+date: 1952-11-01
+location: Gorleben, Grenzturm
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Rudolf Garms
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/44/42/44423fd685974edbfb5c578651d27a3309e6cb0eb534ebe503739c301305b742/original.jpg
+    sha256: 44423fd685974edbfb5c578651d27a3309e6cb0eb534ebe503739c301305b742
+    mime: image/jpeg
+    bytes: 12265966
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/44/42/44423fd685974edbfb5c578651d27a3309e6cb0eb534ebe503739c301305b742/preview-400.4834c1fd0df2.jpg
+        sha256: 4834c1fd0df22d81e9d4dbb68a2d56f9a2b98492d5ca3719e4c1b34a1dbff1aa
+        mime: image/jpeg
+        bytes: 86525
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01H3M9E146A9N97N94ZK71E33T
+type: image
+subtype: photo
+title: Kirche St. Johannis Entwurf zu Pfingsten
+date: 2021~
+location: Gartow, Mühle
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/0a/a8/0aa8fb554e2aec1cb89e48965d83666e20b5b523481515997c7083041520e55a/original.jpg
+    sha256: 0aa8fb554e2aec1cb89e48965d83666e20b5b523481515997c7083041520e55a
+    mime: image/jpeg
+    bytes: 25657409
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0a/a8/0aa8fb554e2aec1cb89e48965d83666e20b5b523481515997c7083041520e55a/preview-400.8fef81765c0a.jpg
+        sha256: 8fef81765c0aaecf8236c3b8d822f0bbd81cb9708386c74277757cdc419689f8
+        mime: image/jpeg
+        bytes: 33942
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

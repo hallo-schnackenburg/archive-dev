@@ -1,0 +1,53 @@
+id: 01J0KF8Y19TREV0PTTJJ4C7VH5
+type: document
+subtype: letter
+title: Elbdeich Umbau vor dem Umbau
+description: Schreibt über die Ernte und das Wetter.
+date: 1891-11-06
+language: de
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/fe/76/fe76c634463901868eb1664dff7bda8ffe5a984206c5bffa8f29cd4bbb834b72/original.tif
+    sha256: fe76c634463901868eb1664dff7bda8ffe5a984206c5bffa8f29cd4bbb834b72
+    mime: image/tiff
+    bytes: 10393444
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fe/76/fe76c634463901868eb1664dff7bda8ffe5a984206c5bffa8f29cd4bbb834b72/preview-400.7ec7f34a50b9.jpg
+        sha256: 7ec7f34a50b935e8fdca9c589b1ecc1ef93b121ff4a84fd059199f52bd6d34c0
+        mime: image/jpeg
+        bytes: 85685
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/04/92/04925ba8bbb228bbe136283945bfd67e524facf10a1818be6695005124933d34/original.tif
+    sha256: 04925ba8bbb228bbe136283945bfd67e524facf10a1818be6695005124933d34
+    mime: image/tiff
+    bytes: 1955715
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/92/04925ba8bbb228bbe136283945bfd67e524facf10a1818be6695005124933d34/preview-400.3612d022d6a7.jpg
+        sha256: 3612d022d6a741c2901c242905b7088e315dc0580208b1950da469058d4ede3d
+        mime: image/jpeg
+        bytes: 24289
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

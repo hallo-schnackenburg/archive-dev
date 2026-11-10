@@ -1,0 +1,53 @@
+id: 01HEYTXWBKJHBVKMQXPYWP3B9N
+type: document
+subtype: letter
+title: Gemeindehaus Einladung nach dem Krieg
+description: Schreibt über die Ernte und das Wetter.
+date: 2017-05-11
+language: de
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/7f/ea/7feaaa35f6a1312025f5ee0ceaccf1f019ad96e42192c27556531a80f532ba83/original.tif
+    sha256: 7feaaa35f6a1312025f5ee0ceaccf1f019ad96e42192c27556531a80f532ba83
+    mime: image/tiff
+    bytes: 2996491
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7f/ea/7feaaa35f6a1312025f5ee0ceaccf1f019ad96e42192c27556531a80f532ba83/preview-400.d8e753125028.jpg
+        sha256: d8e753125028581957a0c2cbb9e90693a7b230402bbb4bff83fedb1693c46e53
+        mime: image/jpeg
+        bytes: 56471
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/31/b0/31b06619a0a619339fbf5d1e7864d96a43f6166d50ab5986f85f8e2fa8df475c/original.tif
+    sha256: 31b06619a0a619339fbf5d1e7864d96a43f6166d50ab5986f85f8e2fa8df475c
+    mime: image/tiff
+    bytes: 12057576
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/31/b0/31b06619a0a619339fbf5d1e7864d96a43f6166d50ab5986f85f8e2fa8df475c/preview-400.d0637d1cd9f5.jpg
+        sha256: d0637d1cd9f5bee2154dc510e1df26de0ad8cdff1ef46a2fe4d2e1c7345c65b4
+        mime: image/jpeg
+        bytes: 59864
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

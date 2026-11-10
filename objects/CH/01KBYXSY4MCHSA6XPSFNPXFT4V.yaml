@@ -1,0 +1,39 @@
+id: 01KBYXSY4MCHSA6XPSFNPXFT4V
+type: image
+subtype: photo
+title: Hafen Brief zur Wende
+date: "1961"
+location: Restorf, Elbufer
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Marta Lüders
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/cc/1b/cc1b8963c1d260e505353978df35423b63745959973317073db9aede514cb048/original.jpg
+    sha256: cc1b8963c1d260e505353978df35423b63745959973317073db9aede514cb048
+    mime: image/jpeg
+    bytes: 13875452
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/cc/1b/cc1b8963c1d260e505353978df35423b63745959973317073db9aede514cb048/preview-400.a166a4fd353f.jpg
+        sha256: a166a4fd353fdb793c00ea08862df6e3a59c346bb7a51aeca072f891e3529dae
+        mime: image/jpeg
+        bytes: 76120
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

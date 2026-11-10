@@ -1,0 +1,37 @@
+id: 01KDD81QZ8S7KH184DZE7M4TDB
+type: image
+subtype: print
+title: Schmiede Abriss bei Hochwasser
+date: 1901-04-03
+location: Kapern, Bahnhof
+origin:
+  name: Karl Lemke
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/ff/91/ff912591cc172cf2fb88bb9782421d2144a4813b8f047d93c95918c038f155b7/original.tif
+    sha256: ff912591cc172cf2fb88bb9782421d2144a4813b8f047d93c95918c038f155b7
+    mime: image/tiff
+    bytes: 11020052
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/91/ff912591cc172cf2fb88bb9782421d2144a4813b8f047d93c95918c038f155b7/preview-400.117cd5042e90.jpg
+        sha256: 117cd5042e90724db04608115b33b9e819fb2c8667df1b7f4c4fbd939ce94de8
+        mime: image/jpeg
+        bytes: 57260
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

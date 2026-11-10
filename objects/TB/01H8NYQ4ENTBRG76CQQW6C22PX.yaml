@@ -1,0 +1,39 @@
+id: 01H8NYQ4ENTBRG76CQQW6C22PX
+type: image
+subtype: photo
+title: Gasthof Einweihung am Morgen
+date: 1897-11-21
+location: Holtorf, Feuerwehr
+geocode:
+  lat: 52.9951
+  lon: 11.5712
+  precision: exact
+origin:
+  name: Karl Lemke
+  type: person
+subjects:
+  - name: Gierseilfähre
+    type: thing
+  - name: Elbe
+    type: place
+notes: "Rückseite beschriftet: „Pfingsten 58“."
+files:
+  - role: main
+    original_name: scan_0231.jpg
+    path: files/26/61/2661d4d6eac21101c38fd4322aef9f42039fd700800b6544e243f9319837863a/original.jpg
+    sha256: 2661d4d6eac21101c38fd4322aef9f42039fd700800b6544e243f9319837863a
+    mime: image/jpeg
+    bytes: 25468656
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/26/61/2661d4d6eac21101c38fd4322aef9f42039fd700800b6544e243f9319837863a/preview-400.455031d3c860.jpg
+        sha256: 455031d3c8601d7e7d567fed76d4b11964b5e86b03dac95061c66e2de474074b
+        mime: image/jpeg
+        bytes: 76675
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

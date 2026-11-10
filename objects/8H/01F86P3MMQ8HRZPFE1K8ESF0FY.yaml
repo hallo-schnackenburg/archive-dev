@@ -1,0 +1,53 @@
+id: 01F86P3MMQ8HRZPFE1K8ESF0FY
+type: document
+subtype: letter
+title: Marktplatz Umbau am Sonntag
+description: Schreibt über die Ernte und das Wetter.
+date: 2017-12
+language: de
+origin:
+  name: Anni Jeß
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/8e/ef/8eef56cdb1d5ad65fdc1529bc26932be74ce2ee51e63ccfc67d10e8a7eada8f5/original.tif
+    sha256: 8eef56cdb1d5ad65fdc1529bc26932be74ce2ee51e63ccfc67d10e8a7eada8f5
+    mime: image/tiff
+    bytes: 10489310
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8e/ef/8eef56cdb1d5ad65fdc1529bc26932be74ce2ee51e63ccfc67d10e8a7eada8f5/preview-400.20575e7398d8.jpg
+        sha256: 20575e7398d8f05aea1d3e59f6f873c13f4ce281f007c46107ddea25fe00cbe7
+        mime: image/jpeg
+        bytes: 67384
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/8c/7c/8c7c24a8708c4fef743cee5bf261f157a9a69a34c6007504eabd94c9a96a7725/original.tif
+    sha256: 8c7c24a8708c4fef743cee5bf261f157a9a69a34c6007504eabd94c9a96a7725
+    mime: image/tiff
+    bytes: 3192056
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8c/7c/8c7c24a8708c4fef743cee5bf261f157a9a69a34c6007504eabd94c9a96a7725/preview-400.5aacf39fb3f1.jpg
+        sha256: 5aacf39fb3f1f1ac118d2e4afdcd00cd6ebebe6408a37e4803e89338e67ed977
+        mime: image/jpeg
+        bytes: 36551
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

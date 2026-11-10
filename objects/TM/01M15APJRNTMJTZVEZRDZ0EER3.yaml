@@ -1,0 +1,35 @@
+id: 01M15APJRNTMJTZVEZRDZ0EER3
+type: image
+subtype: photo
+title: Elbufer Einladung im Winter
+date: 2003-10
+location: Holtorf, Storchennest
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/1e/3d/1e3d86ee267b736c76c1d255a55c74e23a1db8e37e320444a9bcff79d09c8d03/original.jpg
+    sha256: 1e3d86ee267b736c76c1d255a55c74e23a1db8e37e320444a9bcff79d09c8d03
+    mime: image/jpeg
+    bytes: 10425074
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/1e/3d/1e3d86ee267b736c76c1d255a55c74e23a1db8e37e320444a9bcff79d09c8d03/preview-400.d51c90cdefda.jpg
+        sha256: d51c90cdefda4066a55468d859382f93e35feab3b249dfc611e1ddc9f49e870c
+        mime: image/jpeg
+        bytes: 63553
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

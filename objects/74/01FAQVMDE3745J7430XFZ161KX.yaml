@@ -1,0 +1,39 @@
+id: 01FAQVMDE3745J7430XFZ161KX
+type: image
+subtype: photo
+title: Fähre Umbau zur Ernte
+description: Bäckerei und mühle, bei Hochwasser.
+date: 2008-10-27
+location: Gartow, Fähre
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Rudolf Garms
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/c7/f6/c7f62cc0496f779f73a583a46fc65bcc988a97515057885404b2542f280a4568/original.jpg
+    sha256: c7f62cc0496f779f73a583a46fc65bcc988a97515057885404b2542f280a4568
+    mime: image/jpeg
+    bytes: 7523911
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c7/f6/c7f62cc0496f779f73a583a46fc65bcc988a97515057885404b2542f280a4568/preview-400.a4ed2afc5fdd.jpg
+        sha256: a4ed2afc5fddd2e7035005bef26c3c042b7053b5f13fa8e5fbe3b18bf96f77a8
+        mime: image/jpeg
+        bytes: 49228
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

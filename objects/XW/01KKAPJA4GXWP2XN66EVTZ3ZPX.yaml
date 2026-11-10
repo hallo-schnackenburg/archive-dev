@@ -1,0 +1,39 @@
+id: 01KKAPJA4GXWP2XN66EVTZ3ZPX
+type: image
+subtype: photo
+title: Ernte Bescheid zur Ernte
+date: 1940-10-12
+location: Gartow, Ernte
+origin:
+  name: Hans Brandt
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/32/f5/32f5367367dffbcb591c33ed094ad1415c34cbfec66a1523a1a473206fa01eab/original.jpg
+    sha256: 32f5367367dffbcb591c33ed094ad1415c34cbfec66a1523a1a473206fa01eab
+    mime: image/jpeg
+    bytes: 8162409
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/32/f5/32f5367367dffbcb591c33ed094ad1415c34cbfec66a1523a1a473206fa01eab/preview-400.fd261f064cb5.jpg
+        sha256: fd261f064cb536eb555e78cabde5526f4c2f99d07f3712dcb7463e1d8d01ad91
+        mime: image/jpeg
+        bytes: 55979
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

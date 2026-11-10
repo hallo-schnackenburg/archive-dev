@@ -1,0 +1,39 @@
+id: 01H5FRHD67A07K6YM1W6365H9Z
+type: image
+subtype: photo
+title: Mühle Rechnung zur Ernte
+date: 1984-02-20
+location: Gorleben, Kirche St. Johannis
+origin:
+  name: Ilse Wegner
+  type: business
+  location: Lüchow
+subjects:
+  - name: Gasthof Zur Elbe
+    type: building
+  - name: Wilhelm Krüger
+    type: person
+    note: Wirt
+owner:
+  name: Familie Krüger
+  type: person
+files:
+  - role: main
+    original_name: krueger_gasthof.jpg
+    path: files/87/0c/870ccb4115892b9a4dfeb22c145f2498282075f17fd0a10ec8a5a53b51ca5fcc/original.jpg
+    sha256: 870ccb4115892b9a4dfeb22c145f2498282075f17fd0a10ec8a5a53b51ca5fcc
+    mime: image/jpeg
+    bytes: 11999911
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/87/0c/870ccb4115892b9a4dfeb22c145f2498282075f17fd0a10ec8a5a53b51ca5fcc/preview-400.903adc4c9626.jpg
+        sha256: 903adc4c9626c39dd3b07b7cd6a5bc87bc10295a477e1e9e3a817c3dd96bd374
+        mime: image/jpeg
+        bytes: 47733
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"
