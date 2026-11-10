@@ -1,0 +1,23 @@
+id: 01M3YB6F405HNDHCAZEGTWEABW
+type: image
+title: Nur ein Titel
+files:
+  - role: main
+    original_name: x.jpg
+    path: files/6b/20/6b206e7eadb537b5250606737be9c2a8e5ac158db1bdaafa0583cf4a5cb5f51b/original.jpg
+    sha256: 6b206e7eadb537b5250606737be9c2a8e5ac158db1bdaafa0583cf4a5cb5f51b
+    mime: image/jpeg
+    bytes: 3061146
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/6b/20/6b206e7eadb537b5250606737be9c2a8e5ac158db1bdaafa0583cf4a5cb5f51b/preview-400.ab7a98613c4c.jpg
+        sha256: ab7a98613c4ce7fc06755039b05d2fce654884bfa9973a2937ba22af5deddf71
+        mime: image/jpeg
+        bytes: 57685
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

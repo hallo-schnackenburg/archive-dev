@@ -1,0 +1,39 @@
+id: 01M3V46JC0ZFB99WWXGFJ5C7C2
+type: image
+subtype: photo
+title: Grenzübergang Schnackenburg–Lenzen
+description: Die Elbfähre zur Zeit der innerdeutschen Grenze, Blick nach Lenzen.
+date: 1989-11
+location: Schnackenburg, Elbufer
+geocode:
+  lat: 52.9985
+  lon: 11.576
+  precision: region
+origin:
+  name: Dieter Ahrens
+  type: person
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Grenzöffnung
+    type: event
+files:
+  - role: main
+    original_name: grenze_89.jpg
+    path: files/fc/85/fc85dc097a6c1ea0293ce911e13ab61c4731b50b4c9be5a46d5e55f29e22a138/original.jpg
+    sha256: fc85dc097a6c1ea0293ce911e13ab61c4731b50b4c9be5a46d5e55f29e22a138
+    mime: image/jpeg
+    bytes: 2118785
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fc/85/fc85dc097a6c1ea0293ce911e13ab61c4731b50b4c9be5a46d5e55f29e22a138/preview-400.090a29f10500.jpg
+        sha256: 090a29f10500598485c4f018307d841456004d7cdf32b07aed1fe3d596f1b25e
+        mime: image/jpeg
+        bytes: 42096
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01M3V0RPR02CG8Z8GVRDQ6V62Z
+type: image
+subtype: photo
+title: Kriegerdenkmal
+date: 1925-11-15
+location: Schnackenburg, Kirchplatz
+geocode:
+  lat: 52.9931
+  lon: 11.5697
+  precision: exact
+subjects:
+  - name: Kriegerdenkmal
+    type: thing
+  - name: Einweihung
+    type: event
+files:
+  - role: main
+    original_name: denkmal.jpg
+    path: files/0f/97/0f9759d27939e9c8a2ebae5d31a5fb672652cc32e7dcb26c89c07771efa862b0/original.jpg
+    sha256: 0f9759d27939e9c8a2ebae5d31a5fb672652cc32e7dcb26c89c07771efa862b0
+    mime: image/jpeg
+    bytes: 2102947
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0f/97/0f9759d27939e9c8a2ebae5d31a5fb672652cc32e7dcb26c89c07771efa862b0/preview-400.89f6d742f92c.jpg
+        sha256: 89f6d742f92c74409e37af10d3ed5b32e0ae38bcdc1e5111b6bf8452a99a2561
+        mime: image/jpeg
+        bytes: 41834
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01M3TK18805DC7T3J8E8TQ8EQ0
+type: image
+subtype: photo
+title: Hochwasser an der Elbe
+description: Das Wasser steht bis an die Deichkrone.
+date: 2002-08-19
+location: Schnackenburg, Elbdeich
+geocode:
+  lat: 52.9972
+  lon: 11.5641
+  precision: street
+subjects:
+  - name: Elbehochwasser 2002
+    type: event
+files:
+  - role: main
+    original_name: DSC00871.jpg
+    path: files/98/ab/98ab73fcb868df73cd7c2e0eb73fee1c0f09e8b4cc5b452793eb137e92ef2b8a/original.jpg
+    sha256: 98ab73fcb868df73cd7c2e0eb73fee1c0f09e8b4cc5b452793eb137e92ef2b8a
+    mime: image/jpeg
+    bytes: 2039595
+    width: 4032
+    height: 3024
+    captured_at: 2002-08-19T14:22:10Z
+    variants:
+      - kind: preview
+        path: files/98/ab/98ab73fcb868df73cd7c2e0eb73fee1c0f09e8b4cc5b452793eb137e92ef2b8a/preview-400.3a6fdb5baa54.jpg
+        sha256: 3a6fdb5baa54654305f395f74304ed84923e8964ff2c36ea103ec77dac1b8d4a
+        mime: image/jpeg
+        bytes: 40786
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

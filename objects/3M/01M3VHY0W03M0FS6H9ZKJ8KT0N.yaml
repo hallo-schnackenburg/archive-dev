@@ -1,0 +1,37 @@
+id: 01M3VHY0W03M0FS6H9ZKJ8KT0N
+type: image
+subtype: print
+title: Postkarte „Gruß aus Schnackenburg“
+date: "1912"
+location: Schnackenburg
+origin:
+  name: Verlag Hch. Schulze
+  type: business
+  location: Lüchow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kirche St. Nikolai
+    type: building
+  - name: Elbufer
+    type: place
+files:
+  - role: main
+    original_name: postkarte_gruss.tif
+    path: files/c4/12/c41222eda09d941045b4ef4f81ab218e2dd31db2d5a94ed5ad7727dfbb8dda11/original.tif
+    sha256: c41222eda09d941045b4ef4f81ab218e2dd31db2d5a94ed5ad7727dfbb8dda11
+    mime: image/tiff
+    bytes: 2182137
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c4/12/c41222eda09d941045b4ef4f81ab218e2dd31db2d5a94ed5ad7727dfbb8dda11/preview-400.475104868a2f.jpg
+        sha256: 475104868a2f1b435fe4231a99f5bf676f9028624847f64bfe2be4c83ac605c8
+        mime: image/jpeg
+        bytes: 43144
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

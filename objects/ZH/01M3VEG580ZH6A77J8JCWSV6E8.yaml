@@ -1,0 +1,34 @@
+id: 01M3VEG580ZH6A77J8JCWSV6E8
+type: image
+subtype: print
+title: Stadtansicht von der Elbseite
+description: Kupferstich.
+date: 1790~
+origin:
+  name: Verlag Merian-Erben
+  type: business
+  location: Frankfurt
+holder:
+  name: Landesbibliothek Hannover
+  type: business
+  location: Hannover
+files:
+  - role: main
+    original_name: stich_stadtansicht.tif
+    path: files/6b/76/6b76eef7ab75c25f0761b45a74d959dde0152c23145759dab7bbea33eb53d11e/original.tif
+    sha256: 6b76eef7ab75c25f0761b45a74d959dde0152c23145759dab7bbea33eb53d11e
+    mime: image/tiff
+    bytes: 2166299
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6b/76/6b76eef7ab75c25f0761b45a74d959dde0152c23145759dab7bbea33eb53d11e/preview-400.80affb6d1073.jpg
+        sha256: 80affb6d1073bb250cd6ac062c2a72f38422e7f61d78f1a11c9e3f9f2d6826b2
+        mime: image/jpeg
+        bytes: 42882
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

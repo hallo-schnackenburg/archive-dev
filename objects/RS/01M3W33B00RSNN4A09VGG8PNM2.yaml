@@ -1,0 +1,53 @@
+id: 01M3W33B00RSNN4A09VGG8PNM2
+type: document
+subtype: letter
+title: Brief an die Schwester
+description: Schreibt über die Ernte und das Wetter.
+date: 1923-05-14
+language: de
+origin:
+  name: Anna Meier
+  type: person
+  location: Schnackenburg
+recipient: Frieda Meier, Hamburg
+files:
+  - role: page
+    num: 1
+    original_name: brief_meier_001.tif
+    path: files/d9/e9/d9e9e0cba08b2af049a4378809facc38731c3129623e732dd64b4d69fa3d512f/original.tif
+    sha256: d9e9e0cba08b2af049a4378809facc38731c3129623e732dd64b4d69fa3d512f
+    mime: image/tiff
+    bytes: 2261327
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d9/e9/d9e9e0cba08b2af049a4378809facc38731c3129623e732dd64b4d69fa3d512f/preview-400.1dcd06077d91.jpg
+        sha256: 1dcd06077d917e04ed2f807f8cc9899c7da8907966d62ff0431deca582d0a81a
+        mime: image/jpeg
+        bytes: 44454
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: brief_meier_002.tif
+    path: files/b0/0c/b00c7482aba7a4719ac73e419e68145cc882233d80a0b340146fbba5e5ffe978/original.tif
+    sha256: b00c7482aba7a4719ac73e419e68145cc882233d80a0b340146fbba5e5ffe978
+    mime: image/tiff
+    bytes: 2277165
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b0/0c/b00c7482aba7a4719ac73e419e68145cc882233d80a0b340146fbba5e5ffe978/preview-400.0c95064afc5f.jpg
+        sha256: 0c95064afc5f85c0ee45d6e785e3aee13a6499142659fd979c2b3468c71bb7a8
+        mime: image/jpeg
+        bytes: 44716
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

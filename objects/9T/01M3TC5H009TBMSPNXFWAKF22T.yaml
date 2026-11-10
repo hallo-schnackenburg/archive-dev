@@ -1,0 +1,47 @@
+id: 01M3TC5H009TBMSPNXFWAKF22T
+type: image
+subtype: photo
+title: Schützenumzug am Marktplatz
+description: Der Umzug der Schützengesellschaft zieht über den Markt, im Hintergrund die Fachwerkhäuser.
+date: 1963-07
+location: Schnackenburg, Marktplatz
+geocode:
+  lat: 52.9928
+  lon: 11.5689
+  precision: street
+origin:
+  name: Karl Lemke
+  type: person
+  location: Schnackenburg
+holder:
+  name: Stadtarchiv Schnackenburg
+  type: business
+  location: Schnackenburg
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Konditorei Müller
+    type: business
+    note: am Markt
+  - name: Schützenfest 1963
+    type: event
+files:
+  - role: main
+    original_name: IMG_0412.jpg
+    path: files/c7/ff/c7ff776ae0cb8669667398f1eeb93e9167919eef8e709bff933c085327447fd8/original.jpg
+    sha256: c7ff776ae0cb8669667398f1eeb93e9167919eef8e709bff933c085327447fd8
+    mime: image/jpeg
+    bytes: 2007919
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c7/ff/c7ff776ae0cb8669667398f1eeb93e9167919eef8e709bff933c085327447fd8/preview-400.987412c5027f.jpg
+        sha256: 987412c5027fdd19b1291ea9730df40ce3c605df1415d5cc9f55bc639c62b7da
+        mime: image/jpeg
+        bytes: 40262
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

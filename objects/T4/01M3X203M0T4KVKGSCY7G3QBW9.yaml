@@ -1,0 +1,51 @@
+id: 01M3X203M0T4KVKGSCY7G3QBW9
+type: document
+subtype: brochure
+title: Werbeprospekt Fährbetrieb
+date: 1965~
+language: de
+origin:
+  name: Fährbetrieb Elbe-Mitte
+  type: business
+  location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: prospekt_faehre_001.tif
+    path: files/9d/ef/9defa01fd79a973db42fa5a7edf0ad27740b5478351346b21838d1e8633ccb26/original.tif
+    sha256: 9defa01fd79a973db42fa5a7edf0ad27740b5478351346b21838d1e8633ccb26
+    mime: image/tiff
+    bytes: 2974037
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9d/ef/9defa01fd79a973db42fa5a7edf0ad27740b5478351346b21838d1e8633ccb26/preview-400.eb893f7a532d.jpg
+        sha256: eb893f7a532db83cec2f964e2aa5a04f443cbe692b2eb1e07c9cc57b1ab41a59
+        mime: image/jpeg
+        bytes: 56244
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt_faehre_002.tif
+    path: files/d1/fb/d1fba80919540d54ea55452c892c48924ae9679e53dd31612ccd139bfb46a253/original.tif
+    sha256: d1fba80919540d54ea55452c892c48924ae9679e53dd31612ccd139bfb46a253
+    mime: image/tiff
+    bytes: 2989875
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d1/fb/d1fba80919540d54ea55452c892c48924ae9679e53dd31612ccd139bfb46a253/preview-400.dcc7065900e6.jpg
+        sha256: dcc7065900e69ee43bf203341ef6ae991c4c44ca07102bb46feae08420ddcba2
+        mime: image/jpeg
+        bytes: 56506
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
