@@ -1,0 +1,37 @@
+id: 01M75BK5Y21ZYZKGF2XEWRANZQ
+type: image
+subtype: drawing
+title: Stadtfrühstück Schnackenburg – Stellplan
+origin:
+  name: Sven
+date: "2026-10"
+files:
+  - role: main
+    original_name: frühstück-stellplan-1.png
+    path: files/ee/ee/eeee472184a472a50e991f63a4a2d9398a1ee8f7ecbadf3f8feafe86f5cb9fdf/original.png
+    sha256: eeee472184a472a50e991f63a4a2d9398a1ee8f7ecbadf3f8feafe86f5cb9fdf
+    mime: image/png
+    bytes: 1849165
+    width: 2332
+    height: 3638
+    variants:
+      - kind: preview
+        path: files/ee/ee/eeee472184a472a50e991f63a4a2d9398a1ee8f7ecbadf3f8feafe86f5cb9fdf/preview-400.9232b9a36346.jpg
+        sha256: 9232b9a3634682a6aba6377d4471c949de6d8523bcf853cf36be9af36ac27043
+        mime: image/jpeg
+        bytes: 21846
+        width: 256
+        height: 400
+        generator:
+          name: browser-canvas
+          version: "1"
+      - kind: web
+        path: files/ee/ee/eeee472184a472a50e991f63a4a2d9398a1ee8f7ecbadf3f8feafe86f5cb9fdf/web-2000.b5ea874799de.jpg
+        sha256: b5ea874799de74b21de05887368700718aaa3ae75a952a5fb009360d6f36b00e
+        mime: image/jpeg
+        bytes: 185188
+        width: 1282
+        height: 2000
+        generator:
+          name: browser-canvas
+          version: "1"
