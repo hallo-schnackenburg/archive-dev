@@ -1,0 +1,48 @@
+id: 01M056DRQ1XPBCNASPHNXEGR9T
+type: image
+subtype: photo
+title: Glockenweihe 1986
+description: Abzug im Format 9 x 13 cm.
+date: 1986/1995
+location: Hitzacker, Mühlenweg
+geocode:
+  lat: 52.9711
+  lon: 11.6482
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Krüger
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 27/087
+  note: Kellerarchiv
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Schützenfest 1986
+    type: event
+files:
+  - role: main
+    original_name: DSC2405.jpg
+    path: files/a1/64/a164e3b7d0f80f64ec27b34ca80ca8f2f9b003a4b43f1a9308fd09516aeb9e83/original.jpg
+    sha256: a164e3b7d0f80f64ec27b34ca80ca8f2f9b003a4b43f1a9308fd09516aeb9e83
+    mime: image/jpeg
+    bytes: 18976375
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/a1/64/a164e3b7d0f80f64ec27b34ca80ca8f2f9b003a4b43f1a9308fd09516aeb9e83/preview-400.54c06868211c.jpg
+        sha256: 54c06868211cfcedfd20aa58ac13a03fcf381f775f4f0a6c0aae856aebd9bc84
+        mime: image/jpeg
+        bytes: 31818
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

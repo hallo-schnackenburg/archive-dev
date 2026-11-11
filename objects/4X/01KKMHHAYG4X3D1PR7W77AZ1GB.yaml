@@ -1,0 +1,45 @@
+id: 01KKMHHAYG4X3D1PR7W77AZ1GB
+type: image
+subtype: photo
+title: Kaufmannshaus in Dömitz
+date: 1939-02
+location: Pretzier, Sparkasse
+geocode:
+  lat: 53.0352
+  lon: 11.5616
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Schlachtfest 1939
+    type: event
+  - name: Deicharbeiten 1939
+    type: event
+parents:
+  - 01HJJHXB72AVBKM2CVZ13T7KRK
+files:
+  - role: main
+    original_name: P7955.jpg
+    path: files/24/0b/240b80751f7594f6db9395f6a7dd7b85d355c8e7d3e0d5db40a3fc4bfec8fc92/original.jpg
+    sha256: 240b80751f7594f6db9395f6a7dd7b85d355c8e7d3e0d5db40a3fc4bfec8fc92
+    mime: image/jpeg
+    bytes: 17649679
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/24/0b/240b80751f7594f6db9395f6a7dd7b85d355c8e7d3e0d5db40a3fc4bfec8fc92/preview-400.3165d0af5ab9.jpg
+        sha256: 3165d0af5ab9fa45e1ace635dd7e4d2f41154844f51942f54641851634c405db
+        mime: image/jpeg
+        bytes: 52833
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01FS1QTBB6GD9MP30NJX0REF0S
+type: image
+subtype: plan
+title: Bauplan Gasthof Meyer 1852
+description: Maßstab 1:1000.
+date: 1852/1856
+location: Brünkendorf, Windmühle
+geocode:
+  lat: 52.9679
+  lon: 11.6203
+  precision: street
+  source: osm
+origin:
+  name: Fritz Sievers
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Zollamt
+    type: building
+files:
+  - role: main
+    original_name: scan_636.tif
+    path: files/83/a4/83a47b94e7c6ef31bc002275ffda38e75749e880039873ff6ef41e4250cd1f87/original.tif
+    sha256: 83a47b94e7c6ef31bc002275ffda38e75749e880039873ff6ef41e4250cd1f87
+    mime: image/tiff
+    bytes: 5971085
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/83/a4/83a47b94e7c6ef31bc002275ffda38e75749e880039873ff6ef41e4250cd1f87/preview-400.051de5c43f40.jpg
+        sha256: 051de5c43f4013021f52f62ac757817892c39237201ab12dc3e29ba552a811f3
+        mime: image/jpeg
+        bytes: 40479
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

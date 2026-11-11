@@ -1,0 +1,37 @@
+id: 01KK8TZ769NVEN3YMJGQ154VE1
+type: image
+subtype: plan
+title: Bauplan Scheune 1949
+description: Mit handschriftlichen Ergänzungen.
+location: Gülden, Am Elbdeich
+origin:
+  name: Walter Nitschke
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Hochzeit 1949
+    type: event
+  - name: Wilhelm Plate
+    type: person
+parents:
+  - 01F0XSSMANGM9PNX5YW1P1YTG6
+files:
+  - role: main
+    original_name: scan_592.tif
+    path: files/31/31/3131ce40eacd7a0256089ad103ea47c31ce8625fce3c21914f27b9a9b54909ac/original.tif
+    sha256: 3131ce40eacd7a0256089ad103ea47c31ce8625fce3c21914f27b9a9b54909ac
+    mime: image/tiff
+    bytes: 11141213
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/31/31/3131ce40eacd7a0256089ad103ea47c31ce8625fce3c21914f27b9a9b54909ac/preview-400.47a8797892ff.jpg
+        sha256: 47a8797892ffcf8f2873ac5e8a949a9fcab12e72bdc6ce9abe4038da852ebb47
+        mime: image/jpeg
+        bytes: 39719
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

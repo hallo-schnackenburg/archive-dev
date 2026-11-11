@@ -1,0 +1,43 @@
+id: 01FCVWY0SC1BJ7G78CPR679290
+type: image
+subtype: photo
+title: "Kriegerverein: Gruppenbild Feuerwehrübung"
+description: Abzug im Format 6 x 9 cm.
+date: "1984"
+location: Rüterberg, Deichstraße
+geocode:
+  lat: 53.089
+  lon: 11.6732
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Schulz
+  type: person
+  location: Kapern
+subjects:
+  - name: Dorfteich
+    type: building
+  - name: Gülden
+    type: place
+  - name: Brünkendorf
+    type: place
+files:
+  - role: main
+    original_name: DSC8059.jpg
+    path: files/2e/36/2e363a86fb280b81b3ddaf6210192e4d8fc0e4734417cd3f89b7adeed6783c3f/original.jpg
+    sha256: 2e363a86fb280b81b3ddaf6210192e4d8fc0e4734417cd3f89b7adeed6783c3f
+    mime: image/jpeg
+    bytes: 577724
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/2e/36/2e363a86fb280b81b3ddaf6210192e4d8fc0e4734417cd3f89b7adeed6783c3f/preview-400.13704c6d3fb1.jpg
+        sha256: 13704c6d3fb18774004a5243590a32298562d6561967fc03c4400fd8e0851abd
+        mime: image/jpeg
+        bytes: 20575
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

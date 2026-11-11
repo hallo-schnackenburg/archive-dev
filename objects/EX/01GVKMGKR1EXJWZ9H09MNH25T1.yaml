@@ -1,0 +1,31 @@
+id: 01GVKMGKR1EXJWZ9H09MNH25T1
+type: image
+subtype: drawing
+title: Skizze Gartow, Kirchstraße
+description: Federzeichnung, laviert.
+date: 1842-12-02
+location: Brünkendorf, Fährstraße
+origin:
+  name: Ilse Matthies
+  type: person
+  location: Gülden
+files:
+  - role: main
+    original_name: scan_616.tif
+    path: files/f5/b8/f5b86a85b259f25adcbbbe92cc5a05cd7c78ec9d00c3df555c7db022c569819a/original.tif
+    sha256: f5b86a85b259f25adcbbbe92cc5a05cd7c78ec9d00c3df555c7db022c569819a
+    mime: image/tiff
+    bytes: 16405439
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f5/b8/f5b86a85b259f25adcbbbe92cc5a05cd7c78ec9d00c3df555c7db022c569819a/preview-400.ae279688144c.jpg
+        sha256: ae279688144c75104ef5c776e68849a157d075d9c26d48e326b4d5cd296172c8
+        mime: image/jpeg
+        bytes: 65737
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01FGG8HVQQ33BBVM9Y2FE6WW9W
+type: image
+subtype: photo
+title: Ortsbesichtigung 1893
+description: Zu sehen sind Ziegelei und Storchennest.
+date: 1893-05
+location: Havelberg, Kindergarten
+geocode:
+  lat: 53.0947
+  lon: 11.6931
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro/Album 18/018
+  note: Kellerarchiv
+subjects:
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: scan_025.tif
+    path: files/21/f6/21f66ecc6baae7d4f7752e2a2632fe906526211a6e4a46c1d60eb900a51dc65d/original.tif
+    sha256: 21f66ecc6baae7d4f7752e2a2632fe906526211a6e4a46c1d60eb900a51dc65d
+    mime: image/tiff
+    bytes: 15862442
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/21/f6/21f66ecc6baae7d4f7752e2a2632fe906526211a6e4a46c1d60eb900a51dc65d/preview-400.590228cd8278.jpg
+        sha256: 590228cd82784034223418a679bb2c140c1cf41917b02e0407b687bfc6064211
+        mime: image/jpeg
+        bytes: 44769
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

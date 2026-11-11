@@ -1,0 +1,60 @@
+id: 01H1NG772JBPANA34085MQTTBN
+type: document
+subtype: note
+title: Rechnung Krüger, Mühle
+date: "1902"
+origin:
+  name: Walter Rohde
+  type: person
+  location: Salzwedel
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Mappe 17/091
+subjects:
+  - name: Konfirmation 1902
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_mqttbn_001.tif
+    path: files/1b/19/1b1979112d40bd6b5523c6cecada688cb2b70ae555c76aab781ebf6b54bd363a/original.tif
+    sha256: 1b1979112d40bd6b5523c6cecada688cb2b70ae555c76aab781ebf6b54bd363a
+    mime: image/tiff
+    bytes: 8842713
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1b/19/1b1979112d40bd6b5523c6cecada688cb2b70ae555c76aab781ebf6b54bd363a/preview-400.e50197b92b9f.jpg
+        sha256: e50197b92b9fbc89f5f87ad990ddffc0a03d3480f74419e4e1508b543468448f
+        mime: image/jpeg
+        bytes: 71393
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_mqttbn_002.tif
+    path: files/e5/5b/e55b1af237afdcb9b3920a2d3dc04af2b8241421af68c5e1e3bb1907f2bace52/original.tif
+    sha256: e55b1af237afdcb9b3920a2d3dc04af2b8241421af68c5e1e3bb1907f2bace52
+    mime: image/tiff
+    bytes: 17004357
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e5/5b/e55b1af237afdcb9b3920a2d3dc04af2b8241421af68c5e1e3bb1907f2bace52/preview-400.3474ee035b4d.jpg
+        sha256: 3474ee035b4da3532653ab3f80fdb3a13a7b13a9acc8656d07902dad941af8ac
+        mime: image/jpeg
+        bytes: 45523
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

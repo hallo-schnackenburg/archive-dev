@@ -1,0 +1,90 @@
+id: 01KGSDT59WHETFBRJ03SVSH4SW
+type: document
+subtype: letter
+title: Zeugnis für Heinz Schulz
+description: Handschriftlich, 3 Seiten.
+date: 1810-06
+location: Laase, Am Elbdeich
+geocode:
+  lat: 53.0305
+  lon: 11.6576
+  precision: street
+  source: osm
+origin:
+  name: Helga Lüders
+  type: person
+  location: Holtorf
+recipient: Jürgen Rieke
+language: en
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 8/307
+subjects:
+  - name: Otto Lemke
+    type: person
+  - name: Anni Plate
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_vsh4sw_001.tif
+    path: files/45/62/456217166eddb029a29282d47a72d12b7c193910dee04ecf9e13c1b72692b9ca/original.tif
+    sha256: 456217166eddb029a29282d47a72d12b7c193910dee04ecf9e13c1b72692b9ca
+    mime: image/tiff
+    bytes: 22527737
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/45/62/456217166eddb029a29282d47a72d12b7c193910dee04ecf9e13c1b72692b9ca/preview-400.7a2a383e3d53.jpg
+        sha256: 7a2a383e3d53a3a974fa1f21d6379be31732335eed6bc3078fda804ef374f657
+        mime: image/jpeg
+        bytes: 62331
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_vsh4sw_002.tif
+    path: files/44/8b/448b0b3acf637127b5a398c846de12a18bf9b3e9244d6b15621d44ecfce14ba5/original.tif
+    sha256: 448b0b3acf637127b5a398c846de12a18bf9b3e9244d6b15621d44ecfce14ba5
+    mime: image/tiff
+    bytes: 22750796
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/44/8b/448b0b3acf637127b5a398c846de12a18bf9b3e9244d6b15621d44ecfce14ba5/preview-400.c76b4b366cd3.jpg
+        sha256: c76b4b366cd33a5b378b7af5aca440e82844b12eb5fec72c4ee28666b3ef3574
+        mime: image/jpeg
+        bytes: 53043
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_vsh4sw_003.tif
+    path: files/80/2e/802e7c2af12d024681e387dfa0982c2a101ef0e13e156b83ed85aa76f6d00182/original.tif
+    sha256: 802e7c2af12d024681e387dfa0982c2a101ef0e13e156b83ed85aa76f6d00182
+    mime: image/tiff
+    bytes: 9563685
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/2e/802e7c2af12d024681e387dfa0982c2a101ef0e13e156b83ed85aa76f6d00182/preview-400.4011c4b44674.jpg
+        sha256: 4011c4b4467468489a9cfc38feaa455d93686e7d61afb42943c581533ba17f36
+        mime: image/jpeg
+        bytes: 76346
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

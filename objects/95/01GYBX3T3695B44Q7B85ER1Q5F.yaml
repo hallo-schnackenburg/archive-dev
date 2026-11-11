@@ -1,0 +1,49 @@
+id: 01GYBX3T3695B44Q7B85ER1Q5F
+type: image
+subtype: drawing
+title: Federzeichnung Schützenhaus, Lanz
+description: Federzeichnung, laviert.
+date: 1833-01-06
+location: Arendsee, Gartenstraße
+geocode:
+  lat: 53.0138
+  lon: 11.5531
+  precision: town
+  source: osm
+origin:
+  name: Emma Garms
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg/Kasten 19/025
+subjects:
+  - name: Glockenweihe 1833
+    type: event
+  - name: Hochzeit 1833
+    type: event
+  - name: Arendsee
+    type: place
+files:
+  - role: main
+    original_name: scan_526.tif
+    path: files/90/ee/90eeb9243559b0f8fe6fa1c3807f3615d76dac607231882d250a560dab24aea2/original.tif
+    sha256: 90eeb9243559b0f8fe6fa1c3807f3615d76dac607231882d250a560dab24aea2
+    mime: image/tiff
+    bytes: 14383029
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/90/ee/90eeb9243559b0f8fe6fa1c3807f3615d76dac607231882d250a560dab24aea2/preview-400.41fffe79d795.jpg
+        sha256: 41fffe79d7959920156c834e50c0e1165936a370e0aa5beb423149ee4d1c45a0
+        mime: image/jpeg
+        bytes: 69037
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

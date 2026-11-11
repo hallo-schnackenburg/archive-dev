@@ -1,0 +1,31 @@
+id: 01KZ678VGG1KHVQ52XYAV2R7S4
+type: image
+subtype: plan
+title: Bauplan Dorfteich 1815
+date: 1815-10-17
+location: Wustrow, Deichstraße
+subjects:
+  - name: Ilse Rieke
+    type: person
+  - name: Kirmes 1815
+    type: event
+files:
+  - role: main
+    original_name: scan_858.tif
+    path: files/91/a8/91a8054d3961c1b55891a0e35c9dbbc6790549aa271165e9678c9bc5f6b39815/original.tif
+    sha256: 91a8054d3961c1b55891a0e35c9dbbc6790549aa271165e9678c9bc5f6b39815
+    mime: image/tiff
+    bytes: 12630031
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/91/a8/91a8054d3961c1b55891a0e35c9dbbc6790549aa271165e9678c9bc5f6b39815/preview-400.da6d5661befa.jpg
+        sha256: da6d5661befa07f0f122b9397e14d28b8a984083630860ce620dbb88d19a0e1f
+        mime: image/jpeg
+        bytes: 23500
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

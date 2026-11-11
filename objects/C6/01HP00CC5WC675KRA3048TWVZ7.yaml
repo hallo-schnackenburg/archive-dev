@@ -1,0 +1,66 @@
+id: 01HP00CC5WC675KRA3048TWVZ7
+type: document
+subtype: letter
+title: Mitteilung aus Gorleben an Familie Ahrens
+description: Maschinenschriftlich, unterschrieben.
+date: "1828"
+location: Havelberg, Kindergarten
+geocode:
+  lat: 52.9735
+  lon: 11.4963
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Lüchow
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+parents:
+  - 01JQT54EAMY9FPSYNK9W7RJSV4
+  - 01JKQ421K5RBFQ8NV81GBKEPMH
+files:
+  - role: page
+    num: 1
+    original_name: letter_8twvz7_001.tif
+    path: files/61/fa/61fafbb72a3f3a66cfa7aa2a048e63c45cb4120547cb9e21c3f1c996606101ba/original.tif
+    sha256: 61fafbb72a3f3a66cfa7aa2a048e63c45cb4120547cb9e21c3f1c996606101ba
+    mime: image/tiff
+    bytes: 1867694
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/61/fa/61fafbb72a3f3a66cfa7aa2a048e63c45cb4120547cb9e21c3f1c996606101ba/preview-400.ab0c477b3daf.jpg
+        sha256: ab0c477b3daf3e03f3c8fe562ce6b28252783bad925ef4f4d817bc3edb32049a
+        mime: image/jpeg
+        bytes: 78416
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_8twvz7_002.tif
+    path: files/89/04/89049e154581c0dda1e26d9c8065cfb89c2fd37b456ead43214c09a68184bfa1/original.tif
+    sha256: 89049e154581c0dda1e26d9c8065cfb89c2fd37b456ead43214c09a68184bfa1
+    mime: image/tiff
+    bytes: 10999131
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/89/04/89049e154581c0dda1e26d9c8065cfb89c2fd37b456ead43214c09a68184bfa1/preview-400.8bd72e0a3e84.jpg
+        sha256: 8bd72e0a3e84d0d977a5e94449594124707fec9833bf26da46c0276887b5b523
+        mime: image/jpeg
+        bytes: 47199
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

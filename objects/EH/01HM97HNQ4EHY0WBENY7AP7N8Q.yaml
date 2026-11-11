@@ -1,0 +1,63 @@
+id: 01HM97HNQ4EHY0WBENY7AP7N8Q
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Holtorf 1951
+description: "Beschlossen wurde unter anderem: Brückenreparatur."
+date: 1951-07-01
+location: Lüchow, Kegelbahn
+geocode:
+  lat: 52.9239
+  lon: 11.6456
+  precision: street
+  source: osm
+origin:
+  name: Schulvorstand Laase
+  type: business
+  location: Wustrow
+language: de
+subjects:
+  - name: Gülden
+    type: place
+parents:
+  - 01H8RAP2NSBW425Q13KRW0P6FG
+files:
+  - role: page
+    num: 1
+    original_name: protocol_ap7n8q_001.tif
+    path: files/61/82/6182df2ce8022c74446f6c96a79b76f550fb1562a61576c2b3b4633f969f41a8/original.tif
+    sha256: 6182df2ce8022c74446f6c96a79b76f550fb1562a61576c2b3b4633f969f41a8
+    mime: image/tiff
+    bytes: 19053519
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/61/82/6182df2ce8022c74446f6c96a79b76f550fb1562a61576c2b3b4633f969f41a8/preview-400.55797175a705.jpg
+        sha256: 55797175a705a71e7b0ca00c6b758fe899c247695121cf9343d4f35f3b37fbfc
+        mime: image/jpeg
+        bytes: 77307
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_ap7n8q_002.tif
+    path: files/86/f8/86f8269a44d8d2eb7374bbed872588aeab8c437a0a63787c11a1b6c0166e0a95/original.tif
+    sha256: 86f8269a44d8d2eb7374bbed872588aeab8c437a0a63787c11a1b6c0166e0a95
+    mime: image/tiff
+    bytes: 953923
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/f8/86f8269a44d8d2eb7374bbed872588aeab8c437a0a63787c11a1b6c0166e0a95/preview-400.cb687183b472.jpg
+        sha256: cb687183b4720f267bdc08e46748f521d3843c82d4edda428149b263f36df754
+        mime: image/jpeg
+        bytes: 38190
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

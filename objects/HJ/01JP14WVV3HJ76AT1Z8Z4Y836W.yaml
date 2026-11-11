@@ -1,0 +1,43 @@
+id: 01JP14WVV3HJ76AT1Z8Z4Y836W
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Erntedankfest, Rüterberg"
+date: 196X
+location: Gollensdorf, Kaufmannshaus
+geocode:
+  lat: 52.9296
+  lon: 11.6173
+  precision: street
+  source: osm
+origin:
+  name: Rudolf Wegner
+  type: person
+  location: Pretzier
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Walter Klatt
+    type: person
+parents:
+  - 01J2MAW622CTKQ3RF50GE3CC82
+  - 01GVKN942N85NKH8CV072GG85G
+files:
+  - role: main
+    original_name: scan_586.tif
+    path: files/7c/23/7c23eb083ff5b070299cf4fac23729390d682879fa300bf704e989e555506c2e/original.tif
+    sha256: 7c23eb083ff5b070299cf4fac23729390d682879fa300bf704e989e555506c2e
+    mime: image/tiff
+    bytes: 8736280
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/7c/23/7c23eb083ff5b070299cf4fac23729390d682879fa300bf704e989e555506c2e/preview-400.60636ebc2056.jpg
+        sha256: 60636ebc205694467cb8b3bf473961c6aa3dabc219253942e26df0d20d91b90e
+        mime: image/jpeg
+        bytes: 22975
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

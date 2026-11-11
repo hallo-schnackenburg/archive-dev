@@ -1,0 +1,65 @@
+id: 01G0WDX29AE3E0M12XKZJ71CZ3
+type: document
+subtype: note
+title: Rechnung Wiegmann, Grenzturm
+description: Beleg mit Stempel.
+origin:
+  name: August Kuhlmann
+  type: person
+  location: Cumlosen
+language: de
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 8/380
+subjects:
+  - name: Karl Jürgens
+    type: person
+  - name: Gülden
+    type: place
+parents:
+  - 01F1Q5CD51G9ZH21J5XMQ18G3Z
+  - 01KZTC7HCNQEK4PPA9Y96PZJS7
+files:
+  - role: page
+    num: 1
+    original_name: note_j71cz3_001.tif
+    path: files/26/2d/262d91aad6e78d0856613a5d69b52c574d5a37e2596a0615756fca00ce947396/original.tif
+    sha256: 262d91aad6e78d0856613a5d69b52c574d5a37e2596a0615756fca00ce947396
+    mime: image/tiff
+    bytes: 13143849
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/2d/262d91aad6e78d0856613a5d69b52c574d5a37e2596a0615756fca00ce947396/preview-400.5dd3ecb78181.jpg
+        sha256: 5dd3ecb78181ae3f9b8b7daede75c3f290a85ae30ed178e27638750f3a843b96
+        mime: image/jpeg
+        bytes: 85604
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_j71cz3_002.tif
+    path: files/fe/24/fe24103b4fe5c520096d13214f32374b58a7c77fe10902fe2681bb7c6b37118d/original.tif
+    sha256: fe24103b4fe5c520096d13214f32374b58a7c77fe10902fe2681bb7c6b37118d
+    mime: image/tiff
+    bytes: 4869163
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fe/24/fe24103b4fe5c520096d13214f32374b58a7c77fe10902fe2681bb7c6b37118d/preview-400.0d9a350f256f.jpg
+        sha256: 0d9a350f256f462aea05e8d669efc8ff24fbb4e2defd35816a933eeabe2aeb7c
+        mime: image/jpeg
+        bytes: 56533
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

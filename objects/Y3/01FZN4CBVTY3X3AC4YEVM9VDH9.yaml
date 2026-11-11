@@ -1,0 +1,37 @@
+id: 01FZN4CBVTY3X3AC4YEVM9VDH9
+type: image
+subtype: print
+title: Postkarte Rüterberg, Sportplatz
+origin:
+  name: Fritz Harms
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Karl Behrens
+    type: person
+  - name: Viehmarkt 1899
+    type: event
+parents:
+  - 01J1F26G843KSNYD4G1QK36C01
+files:
+  - role: main
+    original_name: scan_588.tif
+    path: files/05/1d/051ddbdfbad2474817944243e46bbe519f6c3ad41e5fe5c0031a365d09c4c5ee/original.tif
+    sha256: 051ddbdfbad2474817944243e46bbe519f6c3ad41e5fe5c0031a365d09c4c5ee
+    mime: image/tiff
+    bytes: 3343050
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/1d/051ddbdfbad2474817944243e46bbe519f6c3ad41e5fe5c0031a365d09c4c5ee/preview-400.804ed18469be.jpg
+        sha256: 804ed18469be51f7096e7c4e057cde54b6ee9b364022725bdf84070f6404c1e7
+        mime: image/jpeg
+        bytes: 64191
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

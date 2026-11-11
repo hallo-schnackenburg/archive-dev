@@ -1,0 +1,43 @@
+id: 01FC3JNHG635MNHF21XMVV5Q2E
+type: image
+subtype: plan
+title: Flurkarte Zadrau, Rüterberg
+description: Mit handschriftlichen Ergänzungen.
+date: 1796?
+location: Nienwalde, Gartenstraße
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan/Mappe 10/061
+subjects:
+  - name: Laase
+    type: place
+  - name: Cumlosen
+    type: place
+  - name: Försterei
+    type: building
+parents:
+  - 01GEC3BDXTCY5KT0RTA97873HE
+  - 01H6GZ1A9PWXWTSCHDX2966H18
+files:
+  - role: main
+    original_name: scan_740.tif
+    path: files/e4/89/e489a7bc337e6863965271ba4b220e39be25c4c3c42180dea4614a4974b2f454/original.tif
+    sha256: e489a7bc337e6863965271ba4b220e39be25c4c3c42180dea4614a4974b2f454
+    mime: image/tiff
+    bytes: 7801332
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e4/89/e489a7bc337e6863965271ba4b220e39be25c4c3c42180dea4614a4974b2f454/preview-400.e29971d2873a.jpg
+        sha256: e29971d2873ae4b2fe5e64895bc4fcdfe7d9d82a4b7b0fbfc7944590db5013f9
+        mime: image/jpeg
+        bytes: 88558
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

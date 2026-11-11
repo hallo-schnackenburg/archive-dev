@@ -1,0 +1,36 @@
+id: 01GBJ7TAHB9VZ9VZXAQE0624NW
+type: image
+subtype: photo
+title: Ursula Voss, Porträt
+description: Abzug im Format 13 x 18 cm.
+date: 1898-04-09
+location: Schnackenburg, Friedhofskapelle
+geocode:
+  lat: 53.0064
+  lon: 11.6539
+  precision: region
+  source: osm
+origin:
+  name: Karl Burmester
+  type: person
+  location: Holtorf
+files:
+  - role: main
+    original_name: IMG_3443.jpg
+    path: files/3c/c6/3cc6d41f2f9b5305ffcff006b7ddc53025dbd1ecb957b010152865808b76ae48/original.jpg
+    sha256: 3cc6d41f2f9b5305ffcff006b7ddc53025dbd1ecb957b010152865808b76ae48
+    mime: image/jpeg
+    bytes: 8467962
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/3c/c6/3cc6d41f2f9b5305ffcff006b7ddc53025dbd1ecb957b010152865808b76ae48/preview-400.8aeb6d250d0e.jpg
+        sha256: 8aeb6d250d0e22e02d826e415a467e2afa64927d5a0a410e31fb24e4bef32106
+        mime: image/jpeg
+        bytes: 55330
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

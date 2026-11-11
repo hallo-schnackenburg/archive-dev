@@ -1,0 +1,39 @@
+id: 01GG33XT1RQDJPZAJKC0H0XHTM
+type: image
+subtype: plan
+title: Deichplan Bömenzien bis Brünkendorf
+description: Maßstab 1:2500.
+date: 1894-03-17
+location: Wootz, Deichstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 5/080
+  note: Dachboden, Truhe
+subjects:
+  - name: Marta Lüders
+    type: person
+parents:
+  - 01G6DC0XN5QKR1Z7MS1R51BN2J
+files:
+  - role: main
+    original_name: scan_939.tif
+    path: files/03/bd/03bdc4dc6239f7bbca0c1bb2285d6965558bf81c6298408c0500aa2237271f26/original.tif
+    sha256: 03bdc4dc6239f7bbca0c1bb2285d6965558bf81c6298408c0500aa2237271f26
+    mime: image/tiff
+    bytes: 1290449
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/03/bd/03bdc4dc6239f7bbca0c1bb2285d6965558bf81c6298408c0500aa2237271f26/preview-400.08fcde25b745.jpg
+        sha256: 08fcde25b745986d263ead71ab595b900efed55d2279655818c74a9b5916152f
+        mime: image/jpeg
+        bytes: 55664
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,32 @@
+id: 01KB514E6FSKAHC9AY7QYHY04P
+type: image
+subtype: plan
+title: Bauplan Rathaus 1946
+description: Tusche auf Transparentpapier.
+date: 1946-11-09
+location: Lenzen, Tanzsaal
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Gutshaus
+    type: building
+files:
+  - role: main
+    original_name: scan_595.tif
+    path: files/01/b6/01b630804bd656271a7da62d3bc523eee8eca319a94637867cd3173fde546296/original.tif
+    sha256: 01b630804bd656271a7da62d3bc523eee8eca319a94637867cd3173fde546296
+    mime: image/tiff
+    bytes: 15679192
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/b6/01b630804bd656271a7da62d3bc523eee8eca319a94637867cd3173fde546296/preview-400.8ff2ec705bf0.jpg
+        sha256: 8ff2ec705bf00c6c4f9bb4ace02656274ce4e04659e9662cc87409d979d8177e
+        mime: image/jpeg
+        bytes: 64958
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

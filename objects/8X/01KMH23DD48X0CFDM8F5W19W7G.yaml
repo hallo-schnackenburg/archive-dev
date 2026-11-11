@@ -1,0 +1,42 @@
+id: 01KMH23DD48X0CFDM8F5W19W7G
+type: image
+subtype: drawing
+title: Skizze Bömenzien, Schulstraße
+description: Federzeichnung, laviert.
+date: 1982-03-10
+location: Gartow, Marktstraße
+origin:
+  name: Erika Harms
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 38/082
+subjects:
+  - name: Pumpenhaus
+    type: building
+parents:
+  - 01FE51YC393SEJ3F0E3BYAZ1NB
+files:
+  - role: main
+    original_name: scan_045.tif
+    path: files/c8/37/c83723e8e7535e056676480a74c92fba01b7367f67f6ff6fb7cb6e91f801a627/original.tif
+    sha256: c83723e8e7535e056676480a74c92fba01b7367f67f6ff6fb7cb6e91f801a627
+    mime: image/tiff
+    bytes: 19203754
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c8/37/c83723e8e7535e056676480a74c92fba01b7367f67f6ff6fb7cb6e91f801a627/preview-400.104cc0d1e4d8.jpg
+        sha256: 104cc0d1e4d8efc8a0cbeb03dbaab51ac7853d48110a0c2955010d54844ade54
+        mime: image/jpeg
+        bytes: 64914
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

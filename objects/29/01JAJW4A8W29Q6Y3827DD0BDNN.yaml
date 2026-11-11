@@ -1,0 +1,41 @@
+id: 01JAJW4A8W29Q6Y3827DD0BDNN
+type: image
+subtype: print
+title: Postkarte Zadrau, Scheune
+description: Kupferstich, koloriert.
+date: 1824~
+location: Lanz, Torhaus
+origin:
+  name: Frieda Schulz
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Tanzsaal
+    type: building
+parents:
+  - 01KTZKC2A5R5HHQXVWXFS5SF60
+files:
+  - role: main
+    original_name: scan_107.tif
+    path: files/5b/dc/5bdc55e5db1164653892a353590f0242cca03126e931d7d0514e18649c2a943a/original.tif
+    sha256: 5bdc55e5db1164653892a353590f0242cca03126e931d7d0514e18649c2a943a
+    mime: image/tiff
+    bytes: 2803188
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5b/dc/5bdc55e5db1164653892a353590f0242cca03126e931d7d0514e18649c2a943a/preview-400.ed2054ddd417.jpg
+        sha256: ed2054ddd417451fe9594535a2f3d2da77b4041b38634733cddbdde92a596ed9
+        mime: image/jpeg
+        bytes: 72206
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

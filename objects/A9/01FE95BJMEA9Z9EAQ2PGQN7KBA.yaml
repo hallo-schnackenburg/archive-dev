@@ -1,0 +1,39 @@
+id: 01FE95BJMEA9Z9EAQ2PGQN7KBA
+type: image
+subtype: drawing
+title: Skizze Gorleben, Schulstraße
+description: Bleistift auf Papier.
+date: 194X
+origin:
+  name: Paul Lemke
+  type: person
+  location: Restorf
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Sturmschaden 1945
+    type: event
+  - name: Wassermühle
+    type: building
+parents:
+  - 01HJJHXB72AVBKM2CVZ13T7KRK
+files:
+  - role: main
+    original_name: scan_550.tif
+    path: files/ee/93/ee93dd83293661b0095d7e2acf12aa0146a393836cdd80e7949d36f00f119e68/original.tif
+    sha256: ee93dd83293661b0095d7e2acf12aa0146a393836cdd80e7949d36f00f119e68
+    mime: image/tiff
+    bytes: 8465225
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ee/93/ee93dd83293661b0095d7e2acf12aa0146a393836cdd80e7949d36f00f119e68/preview-400.4da4938bc0b3.jpg
+        sha256: 4da4938bc0b3e113ebd33d686bccd0da282e3aa2262a47a1d1c7d753a44ea229
+        mime: image/jpeg
+        bytes: 25558
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

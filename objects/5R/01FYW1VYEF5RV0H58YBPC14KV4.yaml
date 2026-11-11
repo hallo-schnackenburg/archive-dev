@@ -1,0 +1,60 @@
+id: 01FYW1VYEF5RV0H58YBPC14KV4
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Viehseuche 1967
+date: 1967/1970
+location: Schnackenburg, Bahnhofstraße
+geocode:
+  lat: 53.0326
+  lon: 11.5765
+  precision: region
+  source: osm
+language: de
+subjects:
+  - name: Weihnachtsmarkt 1967
+    type: event
+  - name: Arendsee
+    type: place
+  - name: Karl Cohrs
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: protocol_c14kv4_001.tif
+    path: files/59/0a/590aea0b53f46bc63165b06fa670b5be85178ac62ab53050c350b205bb635d32/original.tif
+    sha256: 590aea0b53f46bc63165b06fa670b5be85178ac62ab53050c350b205bb635d32
+    mime: image/tiff
+    bytes: 12939799
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/59/0a/590aea0b53f46bc63165b06fa670b5be85178ac62ab53050c350b205bb635d32/preview-400.69e92f264a3c.jpg
+        sha256: 69e92f264a3c3c87fa56506f51b4031b499a67259029346918b5f2994af9e997
+        mime: image/jpeg
+        bytes: 43390
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_c14kv4_002.tif
+    path: files/7c/32/7c32d7476d784ee3f1845790015757ce9d2fe30f16a61f49b7c5f52bab90f663/original.tif
+    sha256: 7c32d7476d784ee3f1845790015757ce9d2fe30f16a61f49b7c5f52bab90f663
+    mime: image/tiff
+    bytes: 3191530
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7c/32/7c32d7476d784ee3f1845790015757ce9d2fe30f16a61f49b7c5f52bab90f663/preview-400.8cfd0bbebc11.jpg
+        sha256: 8cfd0bbebc11bb847a3a831f83c8d9a0eaed4d0eb14d36f4783273a9a683373e
+        mime: image/jpeg
+        bytes: 65971
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

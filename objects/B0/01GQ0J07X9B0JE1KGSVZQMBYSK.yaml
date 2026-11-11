@@ -1,0 +1,45 @@
+id: 01GQ0J07X9B0JE1KGSVZQMBYSK
+type: document
+subtype: letter
+title: Korrespondenz Christa Jeß
+description: Maschinenschriftlich, unterschrieben.
+date: 1814-08
+location: Hitzacker, Lange Straße
+geocode:
+  lat: 52.908
+  lon: 11.642
+  precision: region
+  source: osm
+recipient: Hans Garms
+language: de
+subjects:
+  - name: Försterei
+    type: building
+  - name: Kirmes 1814
+    type: event
+  - name: Brückeneinweihung 1814
+    type: event
+parents:
+  - 01F084MHNWGJ7D7S7TBCXZMMB2
+  - 01M3QTWQ9H2E1GP4N4HWKMEY2Z
+files:
+  - role: page
+    num: 1
+    original_name: letter_qmbysk_001.tif
+    path: files/12/e5/12e5c8872a1b81d362d2fb91c511462031f29e9c216b1944c8c2ceb92bd8b75b/original.tif
+    sha256: 12e5c8872a1b81d362d2fb91c511462031f29e9c216b1944c8c2ceb92bd8b75b
+    mime: image/tiff
+    bytes: 15544930
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/12/e5/12e5c8872a1b81d362d2fb91c511462031f29e9c216b1944c8c2ceb92bd8b75b/preview-400.b4790a65fa99.jpg
+        sha256: b4790a65fa99e8e787d2c4ba4e9033168d53a862ea8701e033048a9dc6c22dcc
+        mime: image/jpeg
+        bytes: 70210
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

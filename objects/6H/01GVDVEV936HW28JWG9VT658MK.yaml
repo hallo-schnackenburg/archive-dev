@@ -1,0 +1,36 @@
+id: 01GVDVEV936HW28JWG9VT658MK
+type: image
+subtype: print
+title: Lithographie Kindergarten, Salzwedel
+description: Postkarte, gelaufen 1919.
+date: 1736~
+location: Bömenzien, Zollamt
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Kirmes 1736
+    type: event
+parents:
+  - 01GRNKDHCV8TZCTNMXGJA4SPF6
+files:
+  - role: main
+    original_name: scan_603.tif
+    path: files/87/f0/87f0b44011adc5cdf747139423d2afe77f982430431462e08336ff23ffea1e30/original.tif
+    sha256: 87f0b44011adc5cdf747139423d2afe77f982430431462e08336ff23ffea1e30
+    mime: image/tiff
+    bytes: 14682625
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/87/f0/87f0b44011adc5cdf747139423d2afe77f982430431462e08336ff23ffea1e30/preview-400.707a24519a0d.jpg
+        sha256: 707a24519a0d213bee52e9adb1526a28ddc86b27f0444e63f549c4696373f4ea
+        mime: image/jpeg
+        bytes: 76717
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

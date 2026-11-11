@@ -1,0 +1,42 @@
+id: 01FM46TB9F96RJY0R6PMAH9D3P
+type: image
+subtype: photo
+title: Backhaus in Salzwedel
+date: 1909?
+location: Nienwalde, Schulstraße
+geocode:
+  lat: 52.9879
+  lon: 11.612
+  precision: region
+  source: osm
+origin:
+  name: Ilse Bohlmann
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Erntedankfest 1909
+    type: event
+parents:
+  - 01GT8QZ1TC8KRDKD8TAJXY7YDB
+files:
+  - role: main
+    original_name: P2923.jpg
+    path: files/41/48/41485dd87e2eafa3bba04927d05baf810903cb64435eafd52f36b00f690522f5/original.jpg
+    sha256: 41485dd87e2eafa3bba04927d05baf810903cb64435eafd52f36b00f690522f5
+    mime: image/jpeg
+    bytes: 16704556
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/41/48/41485dd87e2eafa3bba04927d05baf810903cb64435eafd52f36b00f690522f5/preview-400.50147f8a4cd3.jpg
+        sha256: 50147f8a4cd3d4b3bfc98cc69bbbfce4e48db8f95b8b5ecbf54ca738bc354286
+        mime: image/jpeg
+        bytes: 84800
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

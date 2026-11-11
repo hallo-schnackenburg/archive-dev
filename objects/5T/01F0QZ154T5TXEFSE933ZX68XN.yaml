@@ -1,0 +1,43 @@
+id: 01F0QZ154T5TXEFSE933ZX68XN
+type: image
+subtype: drawing
+title: Federzeichnung Friedhofskapelle, Gollensdorf
+description: Federzeichnung, laviert.
+date: 1883-11
+location: Schnackenburg, Hafenstraße
+geocode:
+  lat: 53.0948
+  lon: 11.5355
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Krüger
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Gärtnerei
+    type: building
+  - name: Fritz Wiegmann
+    type: person
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: scan_679.tif
+    path: files/60/21/6021058b30d130b80bdf6f78658a62dbe65cce5cbd7d2c32386ec8282c469020/original.tif
+    sha256: 6021058b30d130b80bdf6f78658a62dbe65cce5cbd7d2c32386ec8282c469020
+    mime: image/tiff
+    bytes: 9583142
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/60/21/6021058b30d130b80bdf6f78658a62dbe65cce5cbd7d2c32386ec8282c469020/preview-400.2991903e0ad1.jpg
+        sha256: 2991903e0ad1a5e604d91ddd700049ecd6262c4539563562fcdb9cda60e3d322
+        mime: image/jpeg
+        bytes: 20178
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

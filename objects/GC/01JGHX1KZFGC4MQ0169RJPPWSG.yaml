@@ -1,0 +1,74 @@
+id: 01JGHX1KZFGC4MQ0169RJPPWSG
+type: document
+subtype: letter
+title: Einladung zum Ortsbesichtigung, Zadrau
+date: 1827-06-16
+location: Salzwedel, Torhaus
+geocode:
+  lat: 53.0529
+  lon: 11.671
+  precision: town
+  source: osm
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Zadrau
+recipient: Otto Ihde
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: F/Album 25/013
+owner:
+  name: Dieter Lüders
+  type: person
+  note: Nachlass
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: Pretzier
+    type: place
+  - name: Kartoffelernte 1827
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_jppwsg_001.tif
+    path: files/e0/ef/e0efbaad1c13b4e854ba419550a624243a29f6db25785a5699b154122fe3e91f/original.tif
+    sha256: e0efbaad1c13b4e854ba419550a624243a29f6db25785a5699b154122fe3e91f
+    mime: image/tiff
+    bytes: 2815322
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e0/ef/e0efbaad1c13b4e854ba419550a624243a29f6db25785a5699b154122fe3e91f/preview-400.d3da6bad7ec5.jpg
+        sha256: d3da6bad7ec5b97677fb07cec6e1da8af5deb1acd42c188ddeff1e6ae35d657f
+        mime: image/jpeg
+        bytes: 80648
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_jppwsg_002.tif
+    path: files/be/58/be58223e7f876c30efb6bdafc2671bdba83b56a61c8e22a0460d75bd3376aa75/original.tif
+    sha256: be58223e7f876c30efb6bdafc2671bdba83b56a61c8e22a0460d75bd3376aa75
+    mime: image/tiff
+    bytes: 23114967
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/58/be58223e7f876c30efb6bdafc2671bdba83b56a61c8e22a0460d75bd3376aa75/preview-400.c0d3947efc24.jpg
+        sha256: c0d3947efc24b3dcd7866b233104949af156b8042f26722abfba9dcbdef7079f
+        mime: image/jpeg
+        bytes: 83736
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

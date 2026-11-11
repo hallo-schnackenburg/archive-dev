@@ -1,0 +1,41 @@
+id: 01FP0GWFX0DPFZSJJV9PK0SFCK
+type: document
+subtype: letter
+title: Korrespondenz Frieda Schulz
+location: Gorleben, Elbstraße
+origin:
+  name: Erika Jeß
+  type: person
+  location: Lanz
+recipient: Hans Lüders
+language: de
+owner:
+  name: Wilhelm Matthies
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Sturmschaden 1818
+    type: event
+parents:
+  - 01JTVDYETN8G6S7M3ZJ0A2E9B3
+files:
+  - role: page
+    num: 1
+    original_name: letter_k0sfck_001.tif
+    path: files/8e/7f/8e7f064e199c46af493badcf563c9b27f5668d88df1dba038b0de6c25851d06a/original.tif
+    sha256: 8e7f064e199c46af493badcf563c9b27f5668d88df1dba038b0de6c25851d06a
+    mime: image/tiff
+    bytes: 1244490
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8e/7f/8e7f064e199c46af493badcf563c9b27f5668d88df1dba038b0de6c25851d06a/preview-400.a040eb06b1c9.jpg
+        sha256: a040eb06b1c9c6d47adbe90abcd10ce4fe83a1b34ba0063d73f20216e15c19f3
+        mime: image/jpeg
+        bytes: 74267
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

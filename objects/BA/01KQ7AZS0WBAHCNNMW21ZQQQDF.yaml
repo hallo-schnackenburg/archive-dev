@@ -1,0 +1,36 @@
+id: 01KQ7AZS0WBAHCNNMW21ZQQQDF
+type: image
+subtype: plan
+title: Bauplan Zollamt 1869
+description: Tusche auf Transparentpapier.
+date: 1869-07-06
+location: Arendsee, Mühlenweg
+origin:
+  name: Hans Bohlmann
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+files:
+  - role: main
+    original_name: scan_103.tif
+    path: files/35/b3/35b3b313332c10ba44aabbc584569295fe93da22ab08df29a9df2ab310ee85a9/original.tif
+    sha256: 35b3b313332c10ba44aabbc584569295fe93da22ab08df29a9df2ab310ee85a9
+    mime: image/tiff
+    bytes: 12590730
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/35/b3/35b3b313332c10ba44aabbc584569295fe93da22ab08df29a9df2ab310ee85a9/preview-400.48d363c03e17.jpg
+        sha256: 48d363c03e17764ccddfa9ce0778fddb0d878af22c3404b507f7d4698e320b5c
+        mime: image/jpeg
+        bytes: 46242
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

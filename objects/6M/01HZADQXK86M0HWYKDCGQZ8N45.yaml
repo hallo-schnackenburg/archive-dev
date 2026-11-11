@@ -1,0 +1,38 @@
+id: 01HZADQXK86M0HWYKDCGQZ8N45
+type: image
+subtype: plan
+title: Bauplan Backhaus 1833
+description: Maßstab 1:500.
+date: 1833?
+location: Bömenzien, Kriegerdenkmal
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 12/325
+subjects:
+  - name: Richtfest 1833
+    type: event
+  - name: Einschulung 1833
+    type: event
+files:
+  - role: main
+    original_name: scan_942.tif
+    path: files/eb/b8/ebb80ed4f50af00deddfbe1e8b4ab75222baf69dce5eb24b59de00e8d9b4bd53/original.tif
+    sha256: ebb80ed4f50af00deddfbe1e8b4ab75222baf69dce5eb24b59de00e8d9b4bd53
+    mime: image/tiff
+    bytes: 13850536
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/eb/b8/ebb80ed4f50af00deddfbe1e8b4ab75222baf69dce5eb24b59de00e8d9b4bd53/preview-400.643659ca975e.jpg
+        sha256: 643659ca975e7fbf48d25dd185668045df80caacac819389ea0257f684133de5
+        mime: image/jpeg
+        bytes: 63998
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

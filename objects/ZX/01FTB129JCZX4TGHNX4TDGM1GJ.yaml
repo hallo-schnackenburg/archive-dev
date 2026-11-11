@@ -1,0 +1,40 @@
+id: 01FTB129JCZX4TGHNX4TDGM1GJ
+type: image
+subtype: photo
+title: Gustav Meyer, Porträt
+description: Abzug im Format 9 x 13 cm.
+date: 1956-07-12
+location: Lüchow, Gartenstraße
+origin:
+  name: Hermann Lüders
+  type: person
+  location: Seedorf
+subjects:
+  - name: Hermann Garms
+    type: person
+  - name: Eisgang 1956
+    type: event
+  - name: Bömenzien
+    type: place
+parents:
+  - 01K8Q87E3JR4C3K8F7DC83NBAE
+files:
+  - role: main
+    original_name: DSC8573.jpg
+    path: files/c9/65/c965d11aa0e6bf3d234b751302497875f2b278c56c71ef529a53bd9898221312/original.jpg
+    sha256: c965d11aa0e6bf3d234b751302497875f2b278c56c71ef529a53bd9898221312
+    mime: image/jpeg
+    bytes: 10028850
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/c9/65/c965d11aa0e6bf3d234b751302497875f2b278c56c71ef529a53bd9898221312/preview-400.43c2b0ac3eea.jpg
+        sha256: 43c2b0ac3eeaef76f96c5cd6784df5779c9062455627942d3234c6eb9cf0f378
+        mime: image/jpeg
+        bytes: 25785
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

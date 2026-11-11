@@ -1,0 +1,63 @@
+id: 01FT5PPBKDK0550EKB1QPQZ36G
+type: document
+subtype: letter
+title: Hermann Meyer an die Gemeinde wegen Wohnungsnot
+description: Betrifft Deichbau.
+date: 1817~
+location: Gollensdorf, Kirchstraße
+origin:
+  name: Otto Schwarz
+  type: person
+  location: Wustrow
+recipient: Hermann Lüders
+language: de
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+  - name: Windmühle
+    type: building
+  - name: Hafen
+    type: building
+parents:
+  - 01KNHD7DYF112CXGR0WVK2W8DQ
+files:
+  - role: page
+    num: 1
+    original_name: letter_pqz36g_001.tif
+    path: files/19/74/197485a4683c69548871fb2a20c13fc061ed3f602a76875a0ba63bc1b0844f6b/original.tif
+    sha256: 197485a4683c69548871fb2a20c13fc061ed3f602a76875a0ba63bc1b0844f6b
+    mime: image/tiff
+    bytes: 21854373
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/19/74/197485a4683c69548871fb2a20c13fc061ed3f602a76875a0ba63bc1b0844f6b/preview-400.fdca126049e0.jpg
+        sha256: fdca126049e0111f0ba962efaba73a76cd3326135df979a81b20c6b34e07b3f9
+        mime: image/jpeg
+        bytes: 46742
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_pqz36g_002.tif
+    path: files/3c/32/3c327a20813646751365777c3d78bbc77db02f0c10abbfe88a1b98619c72d954/original.tif
+    sha256: 3c327a20813646751365777c3d78bbc77db02f0c10abbfe88a1b98619c72d954
+    mime: image/tiff
+    bytes: 7916117
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3c/32/3c327a20813646751365777c3d78bbc77db02f0c10abbfe88a1b98619c72d954/preview-400.4c3ec37bfb8d.jpg
+        sha256: 4c3ec37bfb8d53039793ff9b4d7a291097e85ef91c7d706ac0f1c3cc57264209
+        mime: image/jpeg
+        bytes: 56350
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

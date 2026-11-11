@@ -1,0 +1,47 @@
+id: 01FDC78MYSWKPYEZD072HCCF73
+type: image
+subtype: drawing
+title: Skizze Schnackenburg, Fährstraße
+description: Mit Anmerkungen am Rand.
+date: 1893~
+location: Salzwedel, Fährstraße
+geocode:
+  lat: 53.0243
+  lon: 11.6372
+  precision: exact
+  source: osm
+origin:
+  name: Gerda Tiedemann
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok/Album 10/119
+subjects:
+  - name: Windmühle
+    type: building
+  - name: Apotheke
+    type: building
+files:
+  - role: main
+    original_name: scan_440.tif
+    path: files/1c/61/1c6137a75b83f8987c5eabc33dffaf3c81d9f6d2f8f9d326d106dbe5ec960983/original.tif
+    sha256: 1c6137a75b83f8987c5eabc33dffaf3c81d9f6d2f8f9d326d106dbe5ec960983
+    mime: image/tiff
+    bytes: 8151332
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1c/61/1c6137a75b83f8987c5eabc33dffaf3c81d9f6d2f8f9d326d106dbe5ec960983/preview-400.87c0dfd4df54.jpg
+        sha256: 87c0dfd4df542781db3a955bdd27cee7e2a15ed9ccf655975402302d23ac8360
+        mime: image/jpeg
+        bytes: 79668
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

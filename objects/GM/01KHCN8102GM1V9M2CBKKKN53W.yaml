@@ -1,0 +1,45 @@
+id: 01KHCN8102GM1V9M2CBKKKN53W
+type: image
+subtype: photo
+title: Maifeier 1996
+date: 199X
+location: Salzwedel, Burgstraße
+origin:
+  name: Hans Behrens
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Ernst Rieke
+    type: person
+  - name: Gemeindehaus
+    type: building
+  - name: Wittenberge
+    type: place
+parents:
+  - 01FWDEQ7341YMQ5FKJVM0QZ484
+  - 01KB887JABSSE2YYYMZCE7AEZX
+files:
+  - role: main
+    original_name: IMG_9308.jpg
+    path: files/ed/96/ed968c8e740462aa84a239b654bd97f8a81f93adc9301cb3a23ae19f0aded622/original.jpg
+    sha256: ed968c8e740462aa84a239b654bd97f8a81f93adc9301cb3a23ae19f0aded622
+    mime: image/jpeg
+    bytes: 12678996
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/ed/96/ed968c8e740462aa84a239b654bd97f8a81f93adc9301cb3a23ae19f0aded622/preview-400.3086240052ae.jpg
+        sha256: 3086240052aed6e55e4c89b59dc522cf303614c3629702247b10c692a6e59095
+        mime: image/jpeg
+        bytes: 49408
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

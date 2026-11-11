@@ -1,0 +1,37 @@
+id: 01JY4AXYJ18CJREWZAWP6GR0Q1
+type: image
+subtype: photo
+title: Gustav Wegner, Porträt
+date: 1971-06
+location: Brünkendorf, Schützenhaus
+origin:
+  name: Otto Krüger
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Schmiede
+    type: building
+  - name: Richtfest 1971
+    type: event
+parents:
+  - 01H6GZ1A9PWXWTSCHDX2966H18
+files:
+  - role: main
+    original_name: scan_520.tif
+    path: files/03/12/03123a55abbb221144a977405cb778bbed6bcd6e76ae8a21ac4685f500ccb730/original.tif
+    sha256: 03123a55abbb221144a977405cb778bbed6bcd6e76ae8a21ac4685f500ccb730
+    mime: image/tiff
+    bytes: 9403064
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/03/12/03123a55abbb221144a977405cb778bbed6bcd6e76ae8a21ac4685f500ccb730/preview-400.e84e69ed950a.jpg
+        sha256: e84e69ed950a84e252e712f3dc75df403454d6e935c01384dacedd85d4557f1d
+        mime: image/jpeg
+        bytes: 82872
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

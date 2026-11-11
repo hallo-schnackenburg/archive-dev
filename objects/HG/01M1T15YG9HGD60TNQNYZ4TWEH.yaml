@@ -1,0 +1,42 @@
+id: 01M1T15YG9HGD60TNQNYZ4TWEH
+type: image
+subtype: print
+title: "Kupferstich: Zadrau von der Elbseite"
+date: 1747~
+origin:
+  name: Hans Voss
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 2/032
+owner:
+  name: Wilhelm Brandt
+  type: person
+  note: Nachlass
+subjects:
+  - name: Hafen
+    type: building
+files:
+  - role: main
+    original_name: scan_915.tif
+    path: files/08/27/082726c4e0c8ac5d3503ea131e93c725f115194aecefd2860f61d86dcf55fd59/original.tif
+    sha256: 082726c4e0c8ac5d3503ea131e93c725f115194aecefd2860f61d86dcf55fd59
+    mime: image/tiff
+    bytes: 21010752
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/08/27/082726c4e0c8ac5d3503ea131e93c725f115194aecefd2860f61d86dcf55fd59/preview-400.29a9b21ed858.jpg
+        sha256: 29a9b21ed858444428997f4fff8cfaa113fc4fb03cca4ba5c06aec84f3f6632e
+        mime: image/jpeg
+        bytes: 36877
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

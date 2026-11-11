@@ -1,0 +1,34 @@
+id: 01GS01MT80NN79YB7MS1M7AGE9
+type: image
+subtype: plan
+title: Grundriss Zollamt
+date: 1906/1911
+location: Schnackenburg, Mühlenweg
+geocode:
+  lat: 52.9113
+  lon: 11.6063
+  precision: street
+  source: osm
+parents:
+  - 01HC0SR9SYX64FFEJNDSMWXADW
+  - 01EYD0F18CY2V0SS2SY7TJVC0D
+files:
+  - role: main
+    original_name: scan_531.tif
+    path: files/fc/b9/fcb9c8f9ecc956fa80a22ee9efe5389940d0d0415f2060671936c3df1052e28b/original.tif
+    sha256: fcb9c8f9ecc956fa80a22ee9efe5389940d0d0415f2060671936c3df1052e28b
+    mime: image/tiff
+    bytes: 9309646
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fc/b9/fcb9c8f9ecc956fa80a22ee9efe5389940d0d0415f2060671936c3df1052e28b/preview-400.8dc58bfc875b.jpg
+        sha256: 8dc58bfc875b412b5e4b194cfd01dc64db783bfe5d5df82214f45c4562b9ad6b
+        mime: image/jpeg
+        bytes: 41087
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

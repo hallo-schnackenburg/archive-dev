@@ -1,0 +1,34 @@
+id: 01JC8B0R35GJR9XFKC8GE39WZJ
+type: image
+subtype: photo
+title: Gartenstraße, Ecke Lange Straße
+date: "1995"
+origin:
+  name: Wilhelm Bruns
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+parents:
+  - 01KNZ0SE3D6PEDW26H1C3A2K48
+files:
+  - role: main
+    original_name: DSC3058.jpg
+    path: files/71/4e/714ed4f9012b85f41c28901c06f4a1c03f6799c0405d238e78fc89bf4e939c09/original.jpg
+    sha256: 714ed4f9012b85f41c28901c06f4a1c03f6799c0405d238e78fc89bf4e939c09
+    mime: image/jpeg
+    bytes: 10716186
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/71/4e/714ed4f9012b85f41c28901c06f4a1c03f6799c0405d238e78fc89bf4e939c09/preview-400.1576c8ceacc0.jpg
+        sha256: 1576c8ceacc036d98c919fc4f9ad33aaee477d6b0daec3e89845b54ee6590dd4
+        mime: image/jpeg
+        bytes: 82247
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

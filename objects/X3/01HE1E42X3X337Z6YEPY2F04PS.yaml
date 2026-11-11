@@ -1,0 +1,33 @@
+id: 01HE1E42X3X337Z6YEPY2F04PS
+type: image
+subtype: print
+title: Gruß aus Holtorf, Cumlosen
+description: Postkarte, gelaufen 1919.
+date: 1797/1805
+location: Lanz, Burgstraße
+origin:
+  name: Wilhelm Meyer
+  type: person
+  location: Havelberg
+parents:
+  - 01G71PJ0VK24HFH5RX1917VY6A
+files:
+  - role: main
+    original_name: scan_554.tif
+    path: files/3d/41/3d414d88ebbb7b0e20401bc839a9ef0e12c8c0f709b4c0ca7a2b915ff416e9bd/original.tif
+    sha256: 3d414d88ebbb7b0e20401bc839a9ef0e12c8c0f709b4c0ca7a2b915ff416e9bd
+    mime: image/tiff
+    bytes: 21946905
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/3d/41/3d414d88ebbb7b0e20401bc839a9ef0e12c8c0f709b4c0ca7a2b915ff416e9bd/preview-400.2db298ca8b6c.jpg
+        sha256: 2db298ca8b6c31d8ead6476cabfc9ee8323534f4ca108fa48a2cd21b15c34e8f
+        mime: image/jpeg
+        bytes: 70776
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01GZDR81E5MVJD273ADYT87FSM
+type: image
+subtype: photo
+title: Konfirmation 1977
+description: Aufnahme von Dieter Ludolf.
+date: 197X
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Windmühle
+    type: building
+files:
+  - role: main
+    original_name: P0652.jpg
+    path: files/bb/4d/bb4d52bbea77caac60b7171ef3c199402114dc8247faf05f139a6ed97257a0eb/original.jpg
+    sha256: bb4d52bbea77caac60b7171ef3c199402114dc8247faf05f139a6ed97257a0eb
+    mime: image/jpeg
+    bytes: 15511849
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/bb/4d/bb4d52bbea77caac60b7171ef3c199402114dc8247faf05f139a6ed97257a0eb/preview-400.60ef52581181.jpg
+        sha256: 60ef52581181d14b9df0d5b8c2f861ebcfa3ffc5b7ad3e124e9868bb8251085e
+        mime: image/jpeg
+        bytes: 78255
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

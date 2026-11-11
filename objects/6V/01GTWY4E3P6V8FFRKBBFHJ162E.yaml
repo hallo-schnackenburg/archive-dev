@@ -1,0 +1,42 @@
+id: 01GTWY4E3P6V8FFRKBBFHJ162E
+type: image
+subtype: print
+title: Postkarte Wustrow, Grenzturm
+description: Lithographie, Rand beschnitten.
+date: 1896/1907
+location: Seedorf, Schulstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 40/233
+subjects:
+  - name: Weihnachtsmarkt 1896
+    type: event
+  - name: Marta Lemke
+    type: person
+  - name: Dorfteich
+    type: building
+parents:
+  - 01GBN6YKVFSAS5BGP6YM27NA9J
+files:
+  - role: main
+    original_name: scan_183.tif
+    path: files/60/6a/606a4dc4a051ad2b0971b4acaa57633b061bbaf8bc56d8df515ff9b34615674d/original.tif
+    sha256: 606a4dc4a051ad2b0971b4acaa57633b061bbaf8bc56d8df515ff9b34615674d
+    mime: image/tiff
+    bytes: 449403
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/60/6a/606a4dc4a051ad2b0971b4acaa57633b061bbaf8bc56d8df515ff9b34615674d/preview-400.63fd3c383263.jpg
+        sha256: 63fd3c383263374712417a58f47118afcf40dc5e8915dab488d6baf0c9a74cf3
+        mime: image/jpeg
+        bytes: 25863
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

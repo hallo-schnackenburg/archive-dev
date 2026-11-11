@@ -1,0 +1,29 @@
+id: 01HK4YM6CPYV4AHFQN8GNDBQWY
+type: image
+subtype: plan
+title: Bauplan Backhaus 1981
+date: 1981-03-12
+origin:
+  name: Ernst Lemke
+  type: person
+  location: Dömitz
+files:
+  - role: main
+    original_name: scan_870.tif
+    path: files/a3/1c/a31c0659a6bb55afaade904aae62178895b261e42c1cd36d93fff967e82aa137/original.tif
+    sha256: a31c0659a6bb55afaade904aae62178895b261e42c1cd36d93fff967e82aa137
+    mime: image/tiff
+    bytes: 18052797
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a3/1c/a31c0659a6bb55afaade904aae62178895b261e42c1cd36d93fff967e82aa137/preview-400.bf7f628451b1.jpg
+        sha256: bf7f628451b1477f46fcd8517d41f6d66cb54b303a994f4bf989c98c66c67f23
+        mime: image/jpeg
+        bytes: 40877
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

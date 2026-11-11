@@ -1,0 +1,38 @@
+id: 01K2NGJ44HZ6W0ATRCJXHJVWAW
+type: image
+subtype: plan
+title: Bauplan Bahnhof 1801
+description: Tusche auf Transparentpapier.
+date: 1801~
+location: Dömitz, Am Elbdeich
+origin:
+  name: Ilse Pape
+  type: person
+  location: Kapern
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Einweihung 1801
+    type: event
+  - name: Gemeindehaus
+    type: building
+files:
+  - role: main
+    original_name: scan_664.tif
+    path: files/f1/20/f12016387bfd26694b3d42e4e87bd9605fac185345b47da5612d2d0cb3d876ec/original.tif
+    sha256: f12016387bfd26694b3d42e4e87bd9605fac185345b47da5612d2d0cb3d876ec
+    mime: image/tiff
+    bytes: 12036723
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f1/20/f12016387bfd26694b3d42e4e87bd9605fac185345b47da5612d2d0cb3d876ec/preview-400.f0f60ee746fc.jpg
+        sha256: f0f60ee746fcb389ef37af700792e6330470ebc7202b991080779885bc5ec23a
+        mime: image/jpeg
+        bytes: 52185
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01GAAR118K7GCEMQAP83AVMZ7D
+type: image
+subtype: photo
+title: Familie Voss beim Kindergartenfest
+description: Abzug im Format 13 x 18 cm.
+date: 1950-12-10
+location: Rüterberg, Ziegelei
+geocode:
+  lat: 53.0961
+  lon: 11.5918
+  precision: town
+  source: osm
+origin:
+  name: Otto Lindemann
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Kasten 26/005
+parents:
+  - 01EWSDA9HNCJV2FVTXNNBEB0AC
+  - 01HDQ9RJAQFYW37R825PB2R2V0
+files:
+  - role: main
+    original_name: scan_879.tif
+    path: files/cd/99/cd995e21a1401738193901e3f21043169e14a24a9afe1e8d63ed7bd224be81a7/original.tif
+    sha256: cd995e21a1401738193901e3f21043169e14a24a9afe1e8d63ed7bd224be81a7
+    mime: image/tiff
+    bytes: 2082900
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cd/99/cd995e21a1401738193901e3f21043169e14a24a9afe1e8d63ed7bd224be81a7/preview-400.62c04cbab3b8.jpg
+        sha256: 62c04cbab3b819cd4eef49c9c35d767b75e42c1a5e47029345c2882000329270
+        mime: image/jpeg
+        bytes: 75523
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

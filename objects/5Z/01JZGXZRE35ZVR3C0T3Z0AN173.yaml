@@ -1,0 +1,35 @@
+id: 01JZGXZRE35ZVR3C0T3Z0AN173
+type: image
+subtype: photo
+title: Emma Heuer vor dem Mühle
+date: "1994"
+location: Rüterberg, Hinter den Höfen
+origin:
+  name: Käthe Wiegmann
+  type: person
+  location: Lüchow
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Tanzsaal
+    type: building
+files:
+  - role: main
+    original_name: IMG_6509.jpg
+    path: files/ec/b1/ecb1227f862e483e07b089f6cb7349b7991aa16ed315a675259895ff57153642/original.jpg
+    sha256: ecb1227f862e483e07b089f6cb7349b7991aa16ed315a675259895ff57153642
+    mime: image/jpeg
+    bytes: 15838936
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ec/b1/ecb1227f862e483e07b089f6cb7349b7991aa16ed315a675259895ff57153642/preview-400.5ea97a5bf3da.jpg
+        sha256: 5ea97a5bf3da9a8868b0a67566e69ab1858e3d571e43139fa651af2a5525b502
+        mime: image/jpeg
+        bytes: 77902
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

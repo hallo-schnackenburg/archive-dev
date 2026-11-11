@@ -1,0 +1,41 @@
+id: 01FZF58PA0CMFMKSEXKVR9J007
+type: image
+subtype: plan
+title: Grundriss Apotheke
+date: 1956-04
+location: Salzwedel, Burgstraße
+origin:
+  name: Gerda Kuhlmann
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 10/045
+subjects:
+  - name: Laase
+    type: place
+parents:
+  - 01KSS5WSKYD8DQE3452TFH91F6
+files:
+  - role: main
+    original_name: scan_811.tif
+    path: files/56/96/56962a4ba97732b8924269dfa34e7b20e44648fc16ed90ccf8ddb840e8a9f56c/original.tif
+    sha256: 56962a4ba97732b8924269dfa34e7b20e44648fc16ed90ccf8ddb840e8a9f56c
+    mime: image/tiff
+    bytes: 23483026
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/56/96/56962a4ba97732b8924269dfa34e7b20e44648fc16ed90ccf8ddb840e8a9f56c/preview-400.c2ef749bb654.jpg
+        sha256: c2ef749bb65458a87ac9942228cfbe7d2c872864071d968fe131e85b4dc12265
+        mime: image/jpeg
+        bytes: 20573
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

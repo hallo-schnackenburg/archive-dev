@@ -1,0 +1,35 @@
+id: 01KG8V8DXXMG4Z42Z13WKN09ZN
+type: image
+subtype: photo
+title: Blick vom Ziegelei auf das Storchennest
+description: Aufnahme von Wilhelm Albers.
+date: 1989-05
+origin:
+  name: Karl Bohlmann
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+files:
+  - role: main
+    original_name: scan_513.tif
+    path: files/fd/a7/fda7f49305ede8e7f437a71e47cb7225733e98a75534f1c092877dbb25c475ba/original.tif
+    sha256: fda7f49305ede8e7f437a71e47cb7225733e98a75534f1c092877dbb25c475ba
+    mime: image/tiff
+    bytes: 20761303
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fd/a7/fda7f49305ede8e7f437a71e47cb7225733e98a75534f1c092877dbb25c475ba/preview-400.58846e435128.jpg
+        sha256: 58846e435128627ec6258137128d57c338aef2e047dc11f6b4423228589977d9
+        mime: image/jpeg
+        bytes: 56869
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,61 @@
+id: 01J45JGEQV5VACPRH91FVN6862
+type: document
+subtype: letter
+title: Feldpostbrief von Karl Ludolf
+description: Betrifft Brandversicherung.
+date: 1888-04-20
+location: Dömitz, Kirchstraße
+geocode:
+  lat: 53.053
+  lon: 11.6229
+  precision: region
+  source: osm
+origin:
+  name: Fritz Hennings
+  type: person
+  location: Holtorf
+language: de
+subjects:
+  - name: Viehmarkt 1888
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_vn6862_001.tif
+    path: files/3a/75/3a75d2f968ae2f184765d1f26408621479b0e3d5014387bbc78b167bd21241e4/original.tif
+    sha256: 3a75d2f968ae2f184765d1f26408621479b0e3d5014387bbc78b167bd21241e4
+    mime: image/tiff
+    bytes: 8160860
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3a/75/3a75d2f968ae2f184765d1f26408621479b0e3d5014387bbc78b167bd21241e4/preview-400.3a9bdd3d5f83.jpg
+        sha256: 3a9bdd3d5f838a4655cb12487c4ea4d8fe08f7951f64629cace05969eea323f3
+        mime: image/jpeg
+        bytes: 46607
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_vn6862_002.tif
+    path: files/c9/44/c9443b7af2208afe41274e34d65f6e57db0bd7d0715d9823993ed319147faace/original.tif
+    sha256: c9443b7af2208afe41274e34d65f6e57db0bd7d0715d9823993ed319147faace
+    mime: image/tiff
+    bytes: 17154087
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c9/44/c9443b7af2208afe41274e34d65f6e57db0bd7d0715d9823993ed319147faace/preview-400.b0d0e1efd92a.jpg
+        sha256: b0d0e1efd92aaeab009aa62a0b68918b3bc7a1c45f11ccdb006038eb75fbe317
+        mime: image/jpeg
+        bytes: 73204
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

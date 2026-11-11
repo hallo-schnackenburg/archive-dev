@@ -1,0 +1,44 @@
+id: 01J9DAAVAG3RQCMZSBN08G67FG
+type: image
+subtype: drawing
+title: Skizze Brünkendorf, Marktstraße
+description: Bleistift auf Papier.
+date: "1897"
+location: Lenzen, Am Markt
+origin:
+  name: Hedwig Krüger
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 15/385
+subjects:
+  - name: Dieter Gaede
+    type: person
+  - name: Grenzturm
+    type: building
+  - name: Schützenhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_904.tif
+    path: files/cb/c5/cbc5aa29d361572d9b4b58dbbe18cd6e421055091842683eb4218aaf20efd223/original.tif
+    sha256: cbc5aa29d361572d9b4b58dbbe18cd6e421055091842683eb4218aaf20efd223
+    mime: image/tiff
+    bytes: 22281951
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cb/c5/cbc5aa29d361572d9b4b58dbbe18cd6e421055091842683eb4218aaf20efd223/preview-400.c1e3a4834e05.jpg
+        sha256: c1e3a4834e056592295ad6542eb9a33813e6d175745e704b0e9217d79a5e60ec
+        mime: image/jpeg
+        bytes: 22844
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

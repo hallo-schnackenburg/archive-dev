@@ -1,0 +1,42 @@
+id: 01HMZ4QARD15NFRETWWWF7Z1Z2
+type: image
+subtype: drawing
+title: Kegelbahn, Aquarell, Wootz
+date: 1875/1880
+location: Gartow, Dorfkrug
+geocode:
+  lat: 52.9058
+  lon: 11.6089
+  precision: exact
+  source: osm
+origin:
+  name: Gisela Hennings
+  type: person
+  location: Gartow
+subjects:
+  - name: Heinrich Voss
+    type: person
+  - name: Ortsbesichtigung 1875
+    type: event
+  - name: Laase
+    type: place
+files:
+  - role: main
+    original_name: scan_008.tif
+    path: files/89/97/8997f9162c2e985b975974a9c01c0aa175c48bf304d02bfe433f1a8df49e4741/original.tif
+    sha256: 8997f9162c2e985b975974a9c01c0aa175c48bf304d02bfe433f1a8df49e4741
+    mime: image/tiff
+    bytes: 19846713
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/89/97/8997f9162c2e985b975974a9c01c0aa175c48bf304d02bfe433f1a8df49e4741/preview-400.85cc269d1cef.jpg
+        sha256: 85cc269d1cefc935bb2000ccc44310e4fba21f01409069ab5f4124c37d1d055e
+        mime: image/jpeg
+        bytes: 74233
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

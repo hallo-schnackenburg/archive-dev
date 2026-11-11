@@ -1,0 +1,43 @@
+id: 01GCCHV27ZM1K3SFBWNA7VDG6F
+type: document
+subtype: letter
+title: Feldpostbrief von Gustav Lüders
+description: Maschinenschriftlich, unterschrieben.
+date: "1881"
+location: Rüterberg, Mühlenweg
+geocode:
+  lat: 52.959
+  lon: 11.6234
+  precision: town
+  source: osm
+origin:
+  name: Berta Garms
+  type: person
+  location: Gorleben
+recipient: Helga Schulz
+subjects:
+  - name: Seedorf
+    type: place
+parents:
+  - 01J1F26G843KSNYD4G1QK36C01
+files:
+  - role: page
+    num: 1
+    original_name: letter_7vdg6f_001.tif
+    path: files/8c/43/8c43c8435d5161ae590f933a1cdc8490b012e7165887707d51512b9c0277ede3/original.tif
+    sha256: 8c43c8435d5161ae590f933a1cdc8490b012e7165887707d51512b9c0277ede3
+    mime: image/tiff
+    bytes: 10203678
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8c/43/8c43c8435d5161ae590f933a1cdc8490b012e7165887707d51512b9c0277ede3/preview-400.3e1895a932e9.jpg
+        sha256: 3e1895a932e9e73117be9a1fc5cabf4a119dd7d4ae4d538fefe24ef78270caf4
+        mime: image/jpeg
+        bytes: 69461
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01GYZ2WNC9Y7FB2RAQRD06AYJB
+type: image
+subtype: print
+title: Postkarte Bömenzien, Kriegerdenkmal
+description: Postkarte, gelaufen 1916.
+date: 1744-06-03
+origin:
+  name: Emma Schulz
+  type: person
+  location: Holtorf
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Wilhelm Krüger
+    type: person
+  - name: Wootz
+    type: place
+files:
+  - role: main
+    original_name: scan_033.tif
+    path: files/40/69/4069e0ae1f95f3a068fc1edc95d8d7b8c4fb4135db7a4e7d2f61d2774f30331a/original.tif
+    sha256: 4069e0ae1f95f3a068fc1edc95d8d7b8c4fb4135db7a4e7d2f61d2774f30331a
+    mime: image/tiff
+    bytes: 15957091
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/40/69/4069e0ae1f95f3a068fc1edc95d8d7b8c4fb4135db7a4e7d2f61d2774f30331a/preview-400.68f55bffa0b8.jpg
+        sha256: 68f55bffa0b8bd7b7f2a07ae0db57ec301b0d8cb0276c372a7ba32a95759d7f0
+        mime: image/jpeg
+        bytes: 85878
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01H9CM76HMC8JZ1CEKYM1BNTCY
+type: image
+subtype: photo
+title: Beerdigung 1897
+description: Abzug im Format 9 x 13 cm.
+date: 1897-05-21
+origin:
+  name: Albert Schulz
+  type: person
+  location: Seedorf
+subjects:
+  - name: Pumpenhaus
+    type: building
+parents:
+  - 01KM675ZVCQFMKZVG8XHYFJ6C9
+files:
+  - role: main
+    original_name: scan_685.tif
+    path: files/7f/cc/7fcc50c1e10f50f8b4fde4df9f7cdd6346220a2bf2665d5ba2780b02b01cf129/original.tif
+    sha256: 7fcc50c1e10f50f8b4fde4df9f7cdd6346220a2bf2665d5ba2780b02b01cf129
+    mime: image/tiff
+    bytes: 9838286
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7f/cc/7fcc50c1e10f50f8b4fde4df9f7cdd6346220a2bf2665d5ba2780b02b01cf129/preview-400.97ee250e1349.jpg
+        sha256: 97ee250e13499421e93bed873d66b86f6291734f4e58851f2ff5f3f5cec3cd2e
+        mime: image/jpeg
+        bytes: 82931
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

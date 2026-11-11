@@ -1,0 +1,44 @@
+id: 01KRF3BJB9M56XSFZ81F6VBP85
+type: image
+subtype: print
+title: Postkarte Laase, Gasthof „Zur Elbe“
+date: 1918-03
+location: Kapern, Hafenstraße
+origin:
+  name: Paul Meyer
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro/Mappe 8/098
+subjects:
+  - name: Bahnhof
+    type: building
+  - name: Hans Schwarz
+    type: person
+parents:
+  - 01HEQM7NSGG9CPG145FYB637TF
+  - 01JZXBT98ER840PDJR2YFFBCZR
+files:
+  - role: main
+    original_name: scan_929.tif
+    path: files/0c/1d/0c1dc0f03c5ddb5fbc3effe98dca23034613121b3dad49f54dbd7b8610ae54ee/original.tif
+    sha256: 0c1dc0f03c5ddb5fbc3effe98dca23034613121b3dad49f54dbd7b8610ae54ee
+    mime: image/tiff
+    bytes: 20283979
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0c/1d/0c1dc0f03c5ddb5fbc3effe98dca23034613121b3dad49f54dbd7b8610ae54ee/preview-400.148198681fc1.jpg
+        sha256: 148198681fc1412309b013ff8de9147a37835f884424709acc3b4890ca9b4d4f
+        mime: image/jpeg
+        bytes: 63186
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

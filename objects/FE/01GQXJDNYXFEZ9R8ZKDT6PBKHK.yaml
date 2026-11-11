@@ -1,0 +1,39 @@
+id: 01GQXJDNYXFEZ9R8ZKDT6PBKHK
+type: image
+subtype: plan
+title: Bauplan Dorfladen 1824
+date: "1824"
+location: Wootz, Hinter den Höfen
+origin:
+  name: Albert Krüger
+  type: person
+  location: Gorleben
+subjects:
+  - name: Karl Krüger
+    type: person
+  - name: Erika Dreyer
+    type: person
+  - name: Hochwasser 1824
+    type: event
+parents:
+  - 01HR1QV0ZXC6MF6JQQQ9T74SMN
+files:
+  - role: main
+    original_name: scan_630.tif
+    path: files/38/1a/381a5458b7d3b8c40f0b02a64f732dd7efc81668a5b8a0c0cb01eb7c4daed1f9/original.tif
+    sha256: 381a5458b7d3b8c40f0b02a64f732dd7efc81668a5b8a0c0cb01eb7c4daed1f9
+    mime: image/tiff
+    bytes: 7226331
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/38/1a/381a5458b7d3b8c40f0b02a64f732dd7efc81668a5b8a0c0cb01eb7c4daed1f9/preview-400.f077637bb6dd.jpg
+        sha256: f077637bb6ddd66ebcaa8bee6c9f044d40c081bddba90fda87b98d869c1b3bf4
+        mime: image/jpeg
+        bytes: 52324
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

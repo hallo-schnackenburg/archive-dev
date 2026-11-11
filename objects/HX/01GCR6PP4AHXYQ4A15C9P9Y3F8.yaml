@@ -1,0 +1,28 @@
+id: 01GCR6PP4AHXYQ4A15C9P9Y3F8
+type: image
+subtype: plan
+title: Bauplan Molkerei 1809
+location: Gollensdorf, Dorfteich
+subjects:
+  - name: Lanz
+    type: place
+files:
+  - role: main
+    original_name: scan_683.tif
+    path: files/e8/34/e83488b65723cb9ac585247c44ea3c16394996338cd399d01a1121256403a899/original.tif
+    sha256: e83488b65723cb9ac585247c44ea3c16394996338cd399d01a1121256403a899
+    mime: image/tiff
+    bytes: 3435110
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e8/34/e83488b65723cb9ac585247c44ea3c16394996338cd399d01a1121256403a899/preview-400.e12b5567fab9.jpg
+        sha256: e12b5567fab9757f708cfaecb9e72bf320f15924545c580cc0d4cb8b9dc27f1e
+        mime: image/jpeg
+        bytes: 64333
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

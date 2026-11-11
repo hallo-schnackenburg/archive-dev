@@ -1,0 +1,33 @@
+id: 01JM461PBWW6JAMMQK221NDCTZ
+type: image
+subtype: drawing
+title: Skizze Hitzacker, Marktstraße
+description: Bleistift auf Papier.
+date: "1957"
+location: Dömitz, Elbstraße
+origin:
+  name: Walter Plate
+  type: person
+  location: Salzwedel
+parents:
+  - 01F6ZQ7TEP2TBDEHF40VAF0GAD
+files:
+  - role: main
+    original_name: scan_605.tif
+    path: files/44/47/4447bc01bc128f84c60748c01cbf8b8b24344f4c004c23d0d383680d26b9c291/original.tif
+    sha256: 4447bc01bc128f84c60748c01cbf8b8b24344f4c004c23d0d383680d26b9c291
+    mime: image/tiff
+    bytes: 27518012
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/44/47/4447bc01bc128f84c60748c01cbf8b8b24344f4c004c23d0d383680d26b9c291/preview-400.a7bb2ab2625d.jpg
+        sha256: a7bb2ab2625db06d66075c4f77bc91eae8a53097040c77388031aeaf153618cf
+        mime: image/jpeg
+        bytes: 88803
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

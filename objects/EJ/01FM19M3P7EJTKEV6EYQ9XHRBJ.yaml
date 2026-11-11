@@ -1,0 +1,43 @@
+id: 01FM19M3P7EJTKEV6EYQ9XHRBJ
+type: image
+subtype: print
+title: Ansichtskarte Mühlenweg, Wittenberge
+date: 1858-12
+location: Brünkendorf, Gartenstraße
+origin:
+  name: Wilhelm Garms
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok/Album 14/108
+subjects:
+  - name: Fritz Pape
+    type: person
+  - name: Gorleben
+    type: place
+  - name: Gasthof „Zur Elbe“
+    type: building
+files:
+  - role: main
+    original_name: scan_683.tif
+    path: files/4d/bd/4dbd9a1c41fc2115dea4774a5f2dba801291a45c3fd3d19a0e6000f7e5b1a833/original.tif
+    sha256: 4dbd9a1c41fc2115dea4774a5f2dba801291a45c3fd3d19a0e6000f7e5b1a833
+    mime: image/tiff
+    bytes: 17224733
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4d/bd/4dbd9a1c41fc2115dea4774a5f2dba801291a45c3fd3d19a0e6000f7e5b1a833/preview-400.d8921e94454e.jpg
+        sha256: d8921e94454e2ed2c3bc446db421f57a1c9326200938bcfd5cf555adfe820ae9
+        mime: image/jpeg
+        bytes: 20409
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

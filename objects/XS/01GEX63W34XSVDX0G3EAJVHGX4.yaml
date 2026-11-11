@@ -1,0 +1,42 @@
+id: 01GEX63W34XSVDX0G3EAJVHGX4
+type: image
+subtype: drawing
+title: Skizze Arendsee, Marktstraße
+description: Mit Anmerkungen am Rand.
+date: 1870?
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Fotos 5/307
+subjects:
+  - name: Gerda Plate
+    type: person
+parents:
+  - 01FZ34PCDWH41HVN2Q034693E1
+  - 01GA39T3DGKMZM390K7AXRNKQW
+files:
+  - role: main
+    original_name: scan_071.tif
+    path: files/6a/1a/6a1a2c9724c5ad7eb9e0520331b3dcba9c94b3b1b4bbb556bf287973a949a846/original.tif
+    sha256: 6a1a2c9724c5ad7eb9e0520331b3dcba9c94b3b1b4bbb556bf287973a949a846
+    mime: image/tiff
+    bytes: 4652658
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6a/1a/6a1a2c9724c5ad7eb9e0520331b3dcba9c94b3b1b4bbb556bf287973a949a846/preview-400.23eb0cc086e0.jpg
+        sha256: 23eb0cc086e01aaac2ed13315bf1685442c8aa1bcbc4a101576974d462e2e54b
+        mime: image/jpeg
+        bytes: 57339
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

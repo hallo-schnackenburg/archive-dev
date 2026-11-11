@@ -1,0 +1,40 @@
+id: 01KVVZAJ2QNB99W3XSJSRE62R3
+type: image
+subtype: plan
+title: Bauplan Gemeindehaus 1992
+description: Mit handschriftlichen Ergänzungen.
+date: 1992-12-21
+location: Restorf, Hafen
+origin:
+  name: Bernd Tiedemann
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Viehmarkt 1992
+    type: event
+  - name: Rüterberg
+    type: place
+parents:
+  - 01F1BRES3HCVYVM1NJ072546P5
+files:
+  - role: main
+    original_name: scan_210.tif
+    path: files/5e/7f/5e7ff97163426c549f40a7adc696a473d93b92dbd4e785cfc843bdd589af120e/original.tif
+    sha256: 5e7ff97163426c549f40a7adc696a473d93b92dbd4e785cfc843bdd589af120e
+    mime: image/tiff
+    bytes: 22046030
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5e/7f/5e7ff97163426c549f40a7adc696a473d93b92dbd4e785cfc843bdd589af120e/preview-400.fc8ecb3f5cb3.jpg
+        sha256: fc8ecb3f5cb314b5ef8f3dd818a94f51bfd6443cedc3ad4eb0a805d34e43dc68
+        mime: image/jpeg
+        bytes: 40538
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

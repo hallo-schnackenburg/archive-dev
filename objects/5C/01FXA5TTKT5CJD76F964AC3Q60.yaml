@@ -1,0 +1,39 @@
+id: 01FXA5TTKT5CJD76F964AC3Q60
+type: image
+subtype: drawing
+title: Skizze Zadrau, Am Elbdeich
+description: Federzeichnung, laviert.
+date: "1904"
+origin:
+  name: Ilse Voss
+  type: person
+  location: Gorleben
+subjects:
+  - name: Hochwasser 1904
+    type: event
+  - name: Dorffest 1904
+    type: event
+  - name: Dorfladen
+    type: building
+parents:
+  - 01J3DPEJ61GZW2DYZ6RC50SJBG
+files:
+  - role: main
+    original_name: scan_247.tif
+    path: files/e6/9b/e69bc5f8b586c95d7f74735992b8682d473de08b98027e2a84317e67fa1f089c/original.tif
+    sha256: e69bc5f8b586c95d7f74735992b8682d473de08b98027e2a84317e67fa1f089c
+    mime: image/tiff
+    bytes: 10458762
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e6/9b/e69bc5f8b586c95d7f74735992b8682d473de08b98027e2a84317e67fa1f089c/preview-400.25981abd139a.jpg
+        sha256: 25981abd139a745b8ec1e227b948acd95899631ed6e606db033cedf89da73fd0
+        mime: image/jpeg
+        bytes: 87339
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

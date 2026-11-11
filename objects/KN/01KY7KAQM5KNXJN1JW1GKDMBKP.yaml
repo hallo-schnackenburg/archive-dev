@@ -1,0 +1,43 @@
+id: 01KY7KAQM5KNXJN1JW1GKDMBKP
+type: image
+subtype: plan
+title: Deichplan Lüchow bis Wootz
+date: 1750/1754
+location: Kapern, Kirchstraße
+origin:
+  name: Karl Schulz
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Familie Hennings
+    type: person
+    location: Gartow
+  reference: Plan/Kasten 28/089
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Hochzeit 1750
+    type: event
+  - name: Apotheke
+    type: building
+files:
+  - role: main
+    original_name: scan_462.tif
+    path: files/e6/28/e62885f29c2f59ac1ca716a053187c585f7ccf440d3c66473895d1483151ec74/original.tif
+    sha256: e62885f29c2f59ac1ca716a053187c585f7ccf440d3c66473895d1483151ec74
+    mime: image/tiff
+    bytes: 3696230
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e6/28/e62885f29c2f59ac1ca716a053187c585f7ccf440d3c66473895d1483151ec74/preview-400.064e5ee18eca.jpg
+        sha256: 064e5ee18ecaecd606c715e493703e5978455e5d0a34637deafe4287f6fc16ff
+        mime: image/jpeg
+        bytes: 65487
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

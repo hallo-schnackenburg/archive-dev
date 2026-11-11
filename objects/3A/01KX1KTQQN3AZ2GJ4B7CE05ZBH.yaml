@@ -1,0 +1,47 @@
+id: 01KX1KTQQN3AZ2GJ4B7CE05ZBH
+type: document
+subtype: note
+title: Rechnung Lemke, Gutshaus
+description: Beleg mit Stempel.
+date: 1910/1919
+location: Nienwalde, Ziegelei
+geocode:
+  lat: 53.0784
+  lon: 11.6916
+  precision: region
+  source: osm
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan/Mappe 20/037
+  note: Mappe 12
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v2197
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Feuerwehrübung 1910
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_e05zbh_001.tif
+    path: files/52/c9/52c906eca49214b4a4a26153f3a53119b2685e1fc0d118736a800227ab71b90e/original.tif
+    sha256: 52c906eca49214b4a4a26153f3a53119b2685e1fc0d118736a800227ab71b90e
+    mime: image/tiff
+    bytes: 6764152
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/c9/52c906eca49214b4a4a26153f3a53119b2685e1fc0d118736a800227ab71b90e/preview-400.f84edc61f88c.jpg
+        sha256: f84edc61f88c579ee21e214cf98e615973f082bd5465001c23633663e2eb3c3a
+        mime: image/jpeg
+        bytes: 60963
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

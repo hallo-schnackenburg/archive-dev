@@ -1,0 +1,46 @@
+id: 01F9EVMW4FW9BE00ZE3MA7S7FV
+type: document
+subtype: letter
+title: Zeugnis für Frieda Prieß
+description: Betrifft Wegerecht.
+date: "1896"
+location: Wootz, Scheune
+geocode:
+  lat: 53.0444
+  lon: 11.6786
+  precision: exact
+  source: osm
+origin:
+  name: Karl Lemke
+  type: person
+  location: Kapern
+recipient: Heinrich Garms
+language: de
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Erika Wöhlk
+    type: person
+parents:
+  - 01G533XGBTT96G9NVNFMP1W6YH
+files:
+  - role: page
+    num: 1
+    original_name: letter_a7s7fv_001.tif
+    path: files/b9/ab/b9ab77aa2809b9c6b08141d231f10e0ea399aac2df7a936b2fd3ec6045866ad6/original.tif
+    sha256: b9ab77aa2809b9c6b08141d231f10e0ea399aac2df7a936b2fd3ec6045866ad6
+    mime: image/tiff
+    bytes: 1165455
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b9/ab/b9ab77aa2809b9c6b08141d231f10e0ea399aac2df7a936b2fd3ec6045866ad6/preview-400.a67eacbb68e5.jpg
+        sha256: a67eacbb68e52a6bf98db28f6676e79a9bd4170db98cc15b702c837bdbd28f39
+        mime: image/jpeg
+        bytes: 49769
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

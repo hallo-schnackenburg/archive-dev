@@ -1,0 +1,62 @@
+id: 01FR4BDSJS73X3306ZGE016QM8
+type: document
+subtype: letter
+title: Einladung zum Eisgang
+description: Betrifft Friedhofsordnung.
+date: 1889-05-07
+origin:
+  name: Wilhelm Voss
+  type: person
+  location: Havelberg
+recipient: Friedrich Jürgens
+language: de
+subjects:
+  - name: Scheune
+    type: building
+  - name: August Meyer
+    type: person
+  - name: Rudolf Jeß
+    type: person
+parents:
+  - 01HH950XB5366QVZP40SHBAM42
+files:
+  - role: page
+    num: 1
+    original_name: letter_016qm8_001.tif
+    path: files/1a/71/1a71b2c7ab394f5be0172dbaa4493f7be47ce4da22ba96fbafb7ee0da794c266/original.tif
+    sha256: 1a71b2c7ab394f5be0172dbaa4493f7be47ce4da22ba96fbafb7ee0da794c266
+    mime: image/tiff
+    bytes: 18927526
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1a/71/1a71b2c7ab394f5be0172dbaa4493f7be47ce4da22ba96fbafb7ee0da794c266/preview-400.7c9354ca6986.jpg
+        sha256: 7c9354ca6986783c0d254c3db2258a81032c4f6f9ae8af23a3cc11d18749dc08
+        mime: image/jpeg
+        bytes: 72816
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_016qm8_002.tif
+    path: files/78/92/789285bc8aed4c82156cef9e6bb1063d4c0e600178139e4d990a290472a5c935/original.tif
+    sha256: 789285bc8aed4c82156cef9e6bb1063d4c0e600178139e4d990a290472a5c935
+    mime: image/tiff
+    bytes: 20466545
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/78/92/789285bc8aed4c82156cef9e6bb1063d4c0e600178139e4d990a290472a5c935/preview-400.18a1c0b479b4.jpg
+        sha256: 18a1c0b479b4e7b26fec3762f3c1d62bd726a9ced4d3d0d5e19597615961b5d1
+        mime: image/jpeg
+        bytes: 36516
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

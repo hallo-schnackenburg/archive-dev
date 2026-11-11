@@ -1,0 +1,42 @@
+id: 01FVRSJCKHMBWG1RV5D2ZXZPQP
+type: image
+subtype: drawing
+title: Wappenentwurf Schnackenburg, Laase
+date: 1908-11
+location: Rüterberg, Kaufmannshaus
+geocode:
+  lat: 53.0995
+  lon: 11.6668
+  precision: street
+  source: osm
+origin:
+  name: Dieter Krüger
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Viehmarkt 1908
+    type: event
+parents:
+  - 01KZ4MB5E6YQFP0FDWJ529S5A8
+files:
+  - role: main
+    original_name: scan_928.tif
+    path: files/4b/20/4b2055887c2c16af996ceb57c176fd2c8fb33c5be4efd24eba82861ee47cd98a/original.tif
+    sha256: 4b2055887c2c16af996ceb57c176fd2c8fb33c5be4efd24eba82861ee47cd98a
+    mime: image/tiff
+    bytes: 27689137
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4b/20/4b2055887c2c16af996ceb57c176fd2c8fb33c5be4efd24eba82861ee47cd98a/preview-400.69b3f0f6dd3b.jpg
+        sha256: 69b3f0f6dd3b865a58779486007c344c57ced201c4e3d18374ebdec45aca857b
+        mime: image/jpeg
+        bytes: 25954
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01G2JYRP3JDAB3YX17KPCTRSW8
+type: image
+subtype: photo
+title: Wilhelm Dierks, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 2001-09
+location: Zadrau, Schützenhaus
+origin:
+  name: Karl Ihde
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Dorfladen
+    type: building
+  - name: Gülden
+    type: place
+files:
+  - role: main
+    original_name: scan_327.tif
+    path: files/9c/a5/9ca57b2349c4117d7625fed05254329607c28a4e37f057dc41a62715527a9b08/original.tif
+    sha256: 9ca57b2349c4117d7625fed05254329607c28a4e37f057dc41a62715527a9b08
+    mime: image/tiff
+    bytes: 16036391
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9c/a5/9ca57b2349c4117d7625fed05254329607c28a4e37f057dc41a62715527a9b08/preview-400.73b0d876663b.jpg
+        sha256: 73b0d876663ba18a4353e510936f5d3da5fd6da0e303c27591cafbabeaf9ce7b
+        mime: image/jpeg
+        bytes: 31402
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

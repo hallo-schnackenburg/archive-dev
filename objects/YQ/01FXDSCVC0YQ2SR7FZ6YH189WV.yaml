@@ -1,0 +1,41 @@
+id: 01FXDSCVC0YQ2SR7FZ6YH189WV
+type: image
+subtype: photo
+title: Tanzsaal in Gorleben
+description: Aufnahme von Käthe Garms.
+date: 1950-12-08
+location: Pretzier, Bahnhof
+geocode:
+  lat: 53.0983
+  lon: 11.5262
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 21/121
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+files:
+  - role: main
+    original_name: DSC7531.jpg
+    path: files/9a/98/9a987336541a4d127977994cc9f087e6a2bf9a091e564efc422a2b2c16f8d651/original.jpg
+    sha256: 9a987336541a4d127977994cc9f087e6a2bf9a091e564efc422a2b2c16f8d651
+    mime: image/jpeg
+    bytes: 5549479
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/9a/98/9a987336541a4d127977994cc9f087e6a2bf9a091e564efc422a2b2c16f8d651/preview-400.87fc95284b10.jpg
+        sha256: 87fc95284b1024ed4a34487f98a9fe5cef1de7748631d39cff0b4568139f57de
+        mime: image/jpeg
+        bytes: 55417
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01GZ36M8MMVVWXMF4D77NNHT23
+type: image
+subtype: photo
+title: Ortsbesichtigung 1939
+origin:
+  name: Heinrich Neumann
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Sparkasse
+    type: building
+  - name: Dorfschule
+    type: building
+  - name: Zadrau
+    type: place
+parents:
+  - 01HC0SR9SYX64FFEJNDSMWXADW
+files:
+  - role: main
+    original_name: scan_345.tif
+    path: files/89/8c/898c029041655f44d44e66dfacb1213ae79d3b8189da33124a2fa3c52f0f7271/original.tif
+    sha256: 898c029041655f44d44e66dfacb1213ae79d3b8189da33124a2fa3c52f0f7271
+    mime: image/tiff
+    bytes: 26984397
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/89/8c/898c029041655f44d44e66dfacb1213ae79d3b8189da33124a2fa3c52f0f7271/preview-400.9aa401671a9c.jpg
+        sha256: 9aa401671a9c41403471ab4f51eec7d8310398f226d7d4f11a3f736969b03510
+        mime: image/jpeg
+        bytes: 49685
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

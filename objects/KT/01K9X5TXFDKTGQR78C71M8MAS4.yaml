@@ -1,0 +1,36 @@
+id: 01K9X5TXFDKTGQR78C71M8MAS4
+type: image
+subtype: drawing
+title: Federzeichnung Wassermühle, Gollensdorf
+description: Federzeichnung, laviert.
+origin:
+  name: Irmgard Lenz
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Dieter Voss
+    type: person
+  - name: Mühle
+    type: building
+  - name: Karl Wegner
+    type: person
+files:
+  - role: main
+    original_name: scan_508.tif
+    path: files/7e/44/7e448cd2ffb7fc6a33cac95e7c9ecd2996d56b6e99aee378ca7c20e6de6a1f69/original.tif
+    sha256: 7e448cd2ffb7fc6a33cac95e7c9ecd2996d56b6e99aee378ca7c20e6de6a1f69
+    mime: image/tiff
+    bytes: 24775085
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/7e/44/7e448cd2ffb7fc6a33cac95e7c9ecd2996d56b6e99aee378ca7c20e6de6a1f69/preview-400.d489bc8bf3bb.jpg
+        sha256: d489bc8bf3bbf893169b6109d28ecb91d0a85bf357d6672f3f10ef1482222716
+        mime: image/jpeg
+        bytes: 46041
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01FFGCBEDPKJ7PNCX1YCC68BBC
+type: image
+subtype: print
+title: Postkarte Restorf, Pfarrhaus
+date: 1947-09-10
+origin:
+  name: Käthe Meyer
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 15/009
+subjects:
+  - name: Wilhelm Rohde
+    type: person
+  - name: Helga Meyer
+    type: person
+  - name: Gemeindehaus
+    type: building
+parents:
+  - 01F5CNJT1P56W2G465BH02E933
+files:
+  - role: main
+    original_name: scan_070.tif
+    path: files/46/18/46185656f15621fb6829ac67ebe227dfe15993056353812c0405ee99a01f89c6/original.tif
+    sha256: 46185656f15621fb6829ac67ebe227dfe15993056353812c0405ee99a01f89c6
+    mime: image/tiff
+    bytes: 13827563
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/46/18/46185656f15621fb6829ac67ebe227dfe15993056353812c0405ee99a01f89c6/preview-400.e8261fc73c6b.jpg
+        sha256: e8261fc73c6b346ca88769367e20f649c3d7d9c97556486166e5f8d801dc983b
+        mime: image/jpeg
+        bytes: 27634
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

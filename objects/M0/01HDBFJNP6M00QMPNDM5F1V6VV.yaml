@@ -1,0 +1,37 @@
+id: 01HDBFJNP6M00QMPNDM5F1V6VV
+type: image
+subtype: photo
+title: Maifeier 1968
+description: Aufnahme von Ernst Detlefs.
+date: 1968-08-08
+location: Cumlosen, Lange Straße
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Feuerwehrübung 1968
+    type: event
+  - name: Dömitz
+    type: place
+parents:
+  - 01J0HACSSNAGX3A6WBE45H61AH
+  - 01FWDEQ7341YMQ5FKJVM0QZ484
+files:
+  - role: main
+    original_name: scan_914.tif
+    path: files/e0/f6/e0f6dab22a86406c3b044e4d10b116fcdf61d5789940549158eea330257353e4/original.tif
+    sha256: e0f6dab22a86406c3b044e4d10b116fcdf61d5789940549158eea330257353e4
+    mime: image/tiff
+    bytes: 23431020
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e0/f6/e0f6dab22a86406c3b044e4d10b116fcdf61d5789940549158eea330257353e4/preview-400.d698f4ba2f91.jpg
+        sha256: d698f4ba2f914fb15a3da27175155e013a9096019d8e498d490405953ff3cd1d
+        mime: image/jpeg
+        bytes: 85669
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

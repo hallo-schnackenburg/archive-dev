@@ -1,0 +1,66 @@
+id: 01FZQ1JK1YW2Y9XG8EX1BD5N13
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Jugendfeuerwehr 1900
+date: 1900?
+origin:
+  name: Verbandsversammlung Wustrow
+  type: business
+  location: Cumlosen
+language: de
+original:
+  holder:
+    name: Familie Ahrens
+    type: person
+    location: Havelberg
+  note: Regal 4, Kiste 2
+owner:
+  name: Heinrich Ahrens
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Sturmschaden 1900
+    type: event
+parents:
+  - 01J5CY5YG0F694895WWHN65481
+files:
+  - role: page
+    num: 1
+    original_name: protocol_bd5n13_001.tif
+    path: files/03/e4/03e4de2e06ae7862405f8e45786c549888907d64f15421d7f685aa136d986aaf/original.tif
+    sha256: 03e4de2e06ae7862405f8e45786c549888907d64f15421d7f685aa136d986aaf
+    mime: image/tiff
+    bytes: 14829008
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/03/e4/03e4de2e06ae7862405f8e45786c549888907d64f15421d7f685aa136d986aaf/preview-400.d3c8a5a06c61.jpg
+        sha256: d3c8a5a06c6197e63c1ff845a06cd3dac66ab5df212b615af70a378a87ebcb79
+        mime: image/jpeg
+        bytes: 25920
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_bd5n13_002.tif
+    path: files/98/16/9816678bee072a0ff9e19643f1e8a57d50d464c5922de03233792f0c0ad4d90b/original.tif
+    sha256: 9816678bee072a0ff9e19643f1e8a57d50d464c5922de03233792f0c0ad4d90b
+    mime: image/tiff
+    bytes: 5571368
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/98/16/9816678bee072a0ff9e19643f1e8a57d50d464c5922de03233792f0c0ad4d90b/preview-400.f411cb46077b.jpg
+        sha256: f411cb46077b806e1014b8392e89a1288f38a715544efcf9943f3433fcdc1ac1
+        mime: image/jpeg
+        bytes: 77573
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

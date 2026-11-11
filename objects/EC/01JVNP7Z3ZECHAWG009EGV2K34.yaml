@@ -1,0 +1,32 @@
+id: 01JVNP7Z3ZECHAWG009EGV2K34
+type: image
+subtype: print
+title: "Kupferstich: Gollensdorf von der Elbseite, Salzwedel"
+date: 1942-06-04
+location: Restorf, Apotheke
+origin:
+  name: Günter Gaede
+  type: person
+  location: Brünkendorf
+parents:
+  - 01KB00B1WA04Q0PWPM12MS4ZXR
+files:
+  - role: main
+    original_name: scan_350.tif
+    path: files/f1/69/f169ea254cb00a4a6f778971019122c95f0b72b404d05594527772a55ae7eff1/original.tif
+    sha256: f169ea254cb00a4a6f778971019122c95f0b72b404d05594527772a55ae7eff1
+    mime: image/tiff
+    bytes: 23391153
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f1/69/f169ea254cb00a4a6f778971019122c95f0b72b404d05594527772a55ae7eff1/preview-400.c490ec4ed074.jpg
+        sha256: c490ec4ed0742db10c00d44d78b1851d818409b1c13c79c3e620156c2761cf83
+        mime: image/jpeg
+        bytes: 37652
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

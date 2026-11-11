@@ -1,0 +1,62 @@
+id: 01HJJGQEFZHW26N4R6A5N2R9BM
+type: document
+subtype: note
+title: Rechnung Gerdes, Kaufmannshaus
+description: Zettel, Bleistift.
+date: 194X
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Lanz
+    type: place
+  - name: Dieter Lemke
+    type: person
+parents:
+  - 01JWWTXH4CV5B4FWTT72A87FM2
+files:
+  - role: page
+    num: 1
+    original_name: note_n2r9bm_001.tif
+    path: files/05/da/05daa6343d519b7fa51b499ab314e4a6dab25c75b40e9318d3c2378f54695148/original.tif
+    sha256: 05daa6343d519b7fa51b499ab314e4a6dab25c75b40e9318d3c2378f54695148
+    mime: image/tiff
+    bytes: 6298955
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/da/05daa6343d519b7fa51b499ab314e4a6dab25c75b40e9318d3c2378f54695148/preview-400.0c555981372f.jpg
+        sha256: 0c555981372f6b6c9a552788671c6785f84aede0e20c076ac62063a6303e3a47
+        mime: image/jpeg
+        bytes: 46422
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_n2r9bm_002.tif
+    path: files/67/61/6761c97bd97f2e27b37cf84c7dc8e0eaca9dd2da987f0db65f7f8cf7757b7d50/original.tif
+    sha256: 6761c97bd97f2e27b37cf84c7dc8e0eaca9dd2da987f0db65f7f8cf7757b7d50
+    mime: image/tiff
+    bytes: 9809063
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/67/61/6761c97bd97f2e27b37cf84c7dc8e0eaca9dd2da987f0db65f7f8cf7757b7d50/preview-400.dcb589c96437.jpg
+        sha256: dcb589c9643722b21cced05f62709f0a85453945eb2613c0004631f98460004d
+        mime: image/jpeg
+        bytes: 76471
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

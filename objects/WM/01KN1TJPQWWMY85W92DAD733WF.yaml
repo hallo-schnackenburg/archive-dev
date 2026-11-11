@@ -1,0 +1,46 @@
+id: 01KN1TJPQWWMY85W92DAD733WF
+type: image
+subtype: print
+title: "Kupferstich: Rüterberg von der Elbseite, Arendsee"
+date: 187X
+location: Salzwedel, Kirchstraße
+origin:
+  name: Hans Voss
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 6/052
+  note: Mappe 12
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Dorffest 1876
+    type: event
+  - name: Frieda Burmester
+    type: person
+parents:
+  - 01EZC5C07CZY0ETCK5VD296P3F
+files:
+  - role: main
+    original_name: scan_071.tif
+    path: files/aa/d8/aad8dd0795d302cedffb2ebe3ec9e39dcad28db4fc3dc9a8c143625ea54d8288/original.tif
+    sha256: aad8dd0795d302cedffb2ebe3ec9e39dcad28db4fc3dc9a8c143625ea54d8288
+    mime: image/tiff
+    bytes: 1407398
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/aa/d8/aad8dd0795d302cedffb2ebe3ec9e39dcad28db4fc3dc9a8c143625ea54d8288/preview-400.ed216427af65.jpg
+        sha256: ed216427af65c59efd93be79207bdc8d202d4618e3607890ed54bd061e419334
+        mime: image/jpeg
+        bytes: 24637
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

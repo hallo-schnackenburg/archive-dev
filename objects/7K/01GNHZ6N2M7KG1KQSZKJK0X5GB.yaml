@@ -1,0 +1,67 @@
+id: 01GNHZ6N2M7KG1KQSZKJK0X5GB
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Handwerkerinnung 1995
+date: 1995-03-13
+origin:
+  name: Verbandsversammlung Cumlosen
+  type: business
+  location: Wustrow
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 9/001
+  note: Bücherregal links
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Nienwalde
+    type: place
+  - name: Glockenweihe 1995
+    type: event
+parents:
+  - 01KD7CS4EBG51K60J3B74H2VS5
+files:
+  - role: page
+    num: 1
+    original_name: protocol_k0x5gb_001.tif
+    path: files/dd/e2/dde28aa50b41a974339c0741aad20b98fb434475ebc2f6a09323349dccdf5000/original.tif
+    sha256: dde28aa50b41a974339c0741aad20b98fb434475ebc2f6a09323349dccdf5000
+    mime: image/tiff
+    bytes: 8817034
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/e2/dde28aa50b41a974339c0741aad20b98fb434475ebc2f6a09323349dccdf5000/preview-400.464974e40b6f.jpg
+        sha256: 464974e40b6fc6f47da854129f1c29bab93d073c910b6fa3520d71786480a7b7
+        mime: image/jpeg
+        bytes: 66586
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_k0x5gb_002.tif
+    path: files/c6/6e/c66ea8b9bfb0999636e760a73652d30d4a04767dfdc15d6ccec6ea0cdfe83038/original.tif
+    sha256: c66ea8b9bfb0999636e760a73652d30d4a04767dfdc15d6ccec6ea0cdfe83038
+    mime: image/tiff
+    bytes: 23844155
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/6e/c66ea8b9bfb0999636e760a73652d30d4a04767dfdc15d6ccec6ea0cdfe83038/preview-400.d5b791382a97.jpg
+        sha256: d5b791382a977ee94f82f42e84c02218e167bb3c0dd973a3ac16420c159ce6cc
+        mime: image/jpeg
+        bytes: 69692
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

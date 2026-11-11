@@ -1,0 +1,38 @@
+id: 01FX6BKN0B6RKNHB2YPA5QQX7F
+type: image
+subtype: photo
+title: "Kirchenchor: Gruppenbild Deicharbeiten"
+date: 1892~
+location: Kapern, Marktstraße
+geocode:
+  lat: 53.0314
+  lon: 11.5026
+  precision: town
+  source: osm
+origin:
+  name: Erika Schulz
+  type: person
+  location: Lanz
+subjects:
+  - name: Sturmschaden 1892
+    type: event
+files:
+  - role: main
+    original_name: P6655.jpg
+    path: files/be/79/be7929e1fc601108c3162134a2b7567bfda2ecd9ba144404f5e6e80c6d519111/original.jpg
+    sha256: be7929e1fc601108c3162134a2b7567bfda2ecd9ba144404f5e6e80c6d519111
+    mime: image/jpeg
+    bytes: 4774834
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/be/79/be7929e1fc601108c3162134a2b7567bfda2ecd9ba144404f5e6e80c6d519111/preview-400.7dd8578e1479.jpg
+        sha256: 7dd8578e1479c42c02e734352044b23b4b3b22aecdfa13a5410b17c13e18f869
+        mime: image/jpeg
+        bytes: 34451
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

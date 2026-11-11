@@ -1,0 +1,37 @@
+id: 01HNZFQMR4WFSHBPZQN9P2YR70
+type: image
+subtype: photo
+title: Hafen in Salzwedel
+date: 1970-03
+origin:
+  name: Emma Krüger
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro/Album 17/058
+parents:
+  - 01EYD0F18CY2V0SS2SY7TJVC0D
+files:
+  - role: main
+    original_name: scan_730.tif
+    path: files/4b/f2/4bf25e78b276d6481beaea788801a0c0730ffe12687ee15cf2630fb4fd12e5bb/original.tif
+    sha256: 4bf25e78b276d6481beaea788801a0c0730ffe12687ee15cf2630fb4fd12e5bb
+    mime: image/tiff
+    bytes: 6615945
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/4b/f2/4bf25e78b276d6481beaea788801a0c0730ffe12687ee15cf2630fb4fd12e5bb/preview-400.59949f6a7617.jpg
+        sha256: 59949f6a7617ed887660b596da99de9dbf7c5d12f23989fa79aa737e3059631b
+        mime: image/jpeg
+        bytes: 66841
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

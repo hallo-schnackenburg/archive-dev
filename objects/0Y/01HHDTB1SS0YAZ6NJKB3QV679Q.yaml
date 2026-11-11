@@ -1,0 +1,38 @@
+id: 01HHDTB1SS0YAZ6NJKB3QV679Q
+type: image
+subtype: print
+title: "Kupferstich: Holtorf von der Elbseite, Restorf"
+description: Postkarte, gelaufen 1933.
+date: 1863/1875
+location: Nienwalde, Mühlenweg
+origin:
+  name: Ursula Plate
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Erntedankfest 1863
+    type: event
+  - name: Hans Kuhlmann
+    type: person
+parents:
+  - 01HW23R9B0E6RPF7JKRG9EPK9N
+files:
+  - role: main
+    original_name: scan_493.tif
+    path: files/14/42/14424ca3ec279c196ee2343d166777604b6a6a7b9b0e0f9a73a2c9426bd2baa5/original.tif
+    sha256: 14424ca3ec279c196ee2343d166777604b6a6a7b9b0e0f9a73a2c9426bd2baa5
+    mime: image/tiff
+    bytes: 3721051
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/14/42/14424ca3ec279c196ee2343d166777604b6a6a7b9b0e0f9a73a2c9426bd2baa5/preview-400.9121471bb9d9.jpg
+        sha256: 9121471bb9d95b0b769724e4fc902c1c77ed3e913753b50a4d4dd60e1c22c72c
+        mime: image/jpeg
+        bytes: 30037
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

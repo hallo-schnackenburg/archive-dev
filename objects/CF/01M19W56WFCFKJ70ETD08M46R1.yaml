@@ -1,0 +1,35 @@
+id: 01M19W56WFCFKJ70ETD08M46R1
+type: image
+subtype: plan
+title: Flurkarte Arendsee
+date: 1864-12
+location: Gülden, Am Markt
+origin:
+  name: Helga Jeß
+  type: person
+  location: Gartow
+subjects:
+  - name: Glockenweihe 1864
+    type: event
+  - name: Arendsee
+    type: place
+files:
+  - role: main
+    original_name: scan_888.tif
+    path: files/a0/cd/a0cd8a1a4745d0b2099431c7b856b1e881c8ed5135fbd034a86607e447f90d84/original.tif
+    sha256: a0cd8a1a4745d0b2099431c7b856b1e881c8ed5135fbd034a86607e447f90d84
+    mime: image/tiff
+    bytes: 10218844
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a0/cd/a0cd8a1a4745d0b2099431c7b856b1e881c8ed5135fbd034a86607e447f90d84/preview-400.9b241bba692f.jpg
+        sha256: 9b241bba692fbbe780835c2164b5949139c02359f26d74eb0af3e8483a45e340
+        mime: image/jpeg
+        bytes: 21388
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

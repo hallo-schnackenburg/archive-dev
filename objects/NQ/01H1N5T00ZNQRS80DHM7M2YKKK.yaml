@@ -1,0 +1,46 @@
+id: 01H1N5T00ZNQRS80DHM7M2YKKK
+type: image
+subtype: photo
+title: Gärtnerei nach dem Hochwasser
+description: Abzug im Format 9 x 13 cm.
+date: "1908"
+location: Wustrow, Ziegelei
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Heinrich Lenz
+    type: person
+  - name: Ilse Behrens
+    type: person
+parents:
+  - 01KR3FCH1Y6Q5X71Q48GVZ96QG
+  - 01GVM1WCR2HNMHN4DWDZ4NZG4Z
+files:
+  - role: main
+    original_name: scan_041.tif
+    path: files/bb/79/bb79e329617fffe200d82a6e3e6def41ca26acd8af4e63cc942f7aa0595fbded/original.tif
+    sha256: bb79e329617fffe200d82a6e3e6def41ca26acd8af4e63cc942f7aa0595fbded
+    mime: image/tiff
+    bytes: 19403231
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bb/79/bb79e329617fffe200d82a6e3e6def41ca26acd8af4e63cc942f7aa0595fbded/preview-400.6f9d52139fff.jpg
+        sha256: 6f9d52139fff1cf8aa59a9fb96b351b20794c5eee1cdc5804759e52232e4d71c
+        mime: image/jpeg
+        bytes: 51110
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

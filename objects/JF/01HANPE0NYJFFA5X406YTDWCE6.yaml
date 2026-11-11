@@ -1,0 +1,32 @@
+id: 01HANPE0NYJFFA5X406YTDWCE6
+type: image
+subtype: plan
+title: Bauplan Kaufmannshaus 1856
+location: Lenzen, Lange Straße
+subjects:
+  - name: Emma Tiedemann
+    type: person
+  - name: Schnackenburg
+    type: place
+  - name: Gülden
+    type: place
+files:
+  - role: main
+    original_name: scan_938.tif
+    path: files/d5/db/d5db9b824f2592eb9870344c13db7b555de8fe40ed9f1e2de2aba721da00f9bf/original.tif
+    sha256: d5db9b824f2592eb9870344c13db7b555de8fe40ed9f1e2de2aba721da00f9bf
+    mime: image/tiff
+    bytes: 2835509
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/db/d5db9b824f2592eb9870344c13db7b555de8fe40ed9f1e2de2aba721da00f9bf/preview-400.da7e29318b1f.jpg
+        sha256: da7e29318b1f453e3b88846fde15a54ffdc2afd3afb66964037ae89b76459e9f
+        mime: image/jpeg
+        bytes: 84388
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

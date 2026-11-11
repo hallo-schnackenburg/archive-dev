@@ -1,0 +1,36 @@
+id: 01F01B93HDVQ4H248WXDS4NGF3
+type: image
+subtype: plan
+title: Flurkarte Kapern, Wittenberge
+description: Maßstab 1:1000.
+date: 1818-10-05
+location: Cumlosen, Elbstraße
+origin:
+  name: Christa Brandt
+  type: person
+  location: Lenzen
+subjects:
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01GWG9662GMDBHVAK54DXCMWG2
+files:
+  - role: main
+    original_name: scan_700.tif
+    path: files/fe/47/fe47961a1eb9f495f4fd793309940025cc2126c11132e410baa0a59e56082bbe/original.tif
+    sha256: fe47961a1eb9f495f4fd793309940025cc2126c11132e410baa0a59e56082bbe
+    mime: image/tiff
+    bytes: 18762536
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/fe/47/fe47961a1eb9f495f4fd793309940025cc2126c11132e410baa0a59e56082bbe/preview-400.6704249506b1.jpg
+        sha256: 6704249506b1b5c02f40086f5dd723806b54fa0ef1461f28f92ed06dd576e27a
+        mime: image/jpeg
+        bytes: 42435
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

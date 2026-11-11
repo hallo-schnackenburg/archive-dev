@@ -1,0 +1,40 @@
+id: 01JD8VHGVEMKSY32AXWEZ8B5JQ
+type: image
+subtype: plan
+title: Deichplan Wittenberge bis Laase
+description: Mit handschriftlichen Ergänzungen.
+date: 1904-04-12
+origin:
+  name: Marta Lüders
+  type: person
+  location: Lenzen
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Zadrau
+    type: place
+  - name: Anni Lemke
+    type: person
+parents:
+  - 01GWFE0FE3S612EGDSN47NZK4B
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+files:
+  - role: main
+    original_name: scan_335.tif
+    path: files/fd/19/fd1910c8e9d49e3889296d1c35a9bba73e59a844069977eb1932000845e395a6/original.tif
+    sha256: fd1910c8e9d49e3889296d1c35a9bba73e59a844069977eb1932000845e395a6
+    mime: image/tiff
+    bytes: 1319752
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fd/19/fd1910c8e9d49e3889296d1c35a9bba73e59a844069977eb1932000845e395a6/preview-400.ffbc30cc87f1.jpg
+        sha256: ffbc30cc87f1805bc3d384e37383402e22b2314ad373e373747e0cd9d581e63a
+        mime: image/jpeg
+        bytes: 45346
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

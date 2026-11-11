@@ -1,0 +1,37 @@
+id: 01K5F22H55GYCH3K7CEG3FN0BW
+type: image
+subtype: photo
+title: Mühle in Lenzen
+description: Zu sehen sind Zollamt und Elbdeich.
+date: 1905-03-17
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br 30/024
+subjects:
+  - name: Gorleben
+    type: place
+parents:
+  - 01GBX4DSD6VXD835CH0X8R10EN
+files:
+  - role: main
+    original_name: DSC4032.jpg
+    path: files/40/c4/40c4d9bc6af33acca3feb521fbe58154869b5dbd82c12dd2e0549cf856d59a27/original.jpg
+    sha256: 40c4d9bc6af33acca3feb521fbe58154869b5dbd82c12dd2e0549cf856d59a27
+    mime: image/jpeg
+    bytes: 18840461
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/40/c4/40c4d9bc6af33acca3feb521fbe58154869b5dbd82c12dd2e0549cf856d59a27/preview-400.d858fa015e76.jpg
+        sha256: d858fa015e766af62a72979b9f52378cda14f03ec71cfe5b3331861669cf1820
+        mime: image/jpeg
+        bytes: 86461
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

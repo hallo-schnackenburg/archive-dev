@@ -1,0 +1,44 @@
+id: 01GTRCNY2GPQ5S6VRHPFD2KN82
+type: image
+subtype: print
+title: Gruß aus Brünkendorf
+date: 1722-06-05
+location: Rüterberg, Badestelle
+geocode:
+  lat: 52.9217
+  lon: 11.5142
+  precision: street
+  source: osm
+origin:
+  name: Dieter Plate
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Einweihung 1722
+    type: event
+  - name: Sportplatz
+    type: building
+  - name: Ernst Ahrens
+    type: person
+parents:
+  - 01F4HYKHGYRFV335Z3P04PNKHW
+files:
+  - role: main
+    original_name: scan_455.tif
+    path: files/71/8e/718ec0bd3ced3eb1906dac3fb2e724bc708e584ad4ac2bfc6f94b40c035ad0cf/original.tif
+    sha256: 718ec0bd3ced3eb1906dac3fb2e724bc708e584ad4ac2bfc6f94b40c035ad0cf
+    mime: image/tiff
+    bytes: 21655495
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/71/8e/718ec0bd3ced3eb1906dac3fb2e724bc708e584ad4ac2bfc6f94b40c035ad0cf/preview-400.edbcfa4bd5d4.jpg
+        sha256: edbcfa4bd5d4700589d40648a27bdd669c9fbce5efaf53d7eff20df9854a62d1
+        mime: image/jpeg
+        bytes: 62211
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

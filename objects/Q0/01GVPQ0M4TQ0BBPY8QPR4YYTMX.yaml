@@ -1,0 +1,46 @@
+id: 01GVPQ0M4TQ0BBPY8QPR4YYTMX
+type: image
+subtype: photo
+title: Blick vom Sparkasse auf das Badestelle
+date: "1902"
+location: Schnackenburg, Kirchstraße
+geocode:
+  lat: 52.9043
+  lon: 11.6794
+  precision: region
+  source: osm
+origin:
+  name: Erika Dierks
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 6/041
+subjects:
+  - name: Tanzsaal
+    type: building
+  - name: Rüterberg
+    type: place
+files:
+  - role: main
+    original_name: scan_769.tif
+    path: files/fb/25/fb259539dd2ce4498ee690c89cd4a1a7a956fb6ac080b5abc3fbdc7772a266b2/original.tif
+    sha256: fb259539dd2ce4498ee690c89cd4a1a7a956fb6ac080b5abc3fbdc7772a266b2
+    mime: image/tiff
+    bytes: 23209944
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fb/25/fb259539dd2ce4498ee690c89cd4a1a7a956fb6ac080b5abc3fbdc7772a266b2/preview-400.265da868f305.jpg
+        sha256: 265da868f305057ea2c2e306329f83fcf882edef8d23bb286d6584d36c9d0ef3
+        mime: image/jpeg
+        bytes: 33794
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

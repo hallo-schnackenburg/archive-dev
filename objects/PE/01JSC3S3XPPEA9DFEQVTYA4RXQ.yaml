@@ -1,0 +1,48 @@
+id: 01JSC3S3XPPEA9DFEQVTYA4RXQ
+type: image
+subtype: drawing
+title: Federzeichnung Molkerei
+description: Federzeichnung, laviert.
+date: "1848"
+location: Salzwedel, Gemeindehaus
+geocode:
+  lat: 53.0619
+  lon: 11.4676
+  precision: street
+  source: osm
+origin:
+  name: Gerda Pape
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 7/267
+  note: Regal 1
+subjects:
+  - name: Hochzeit 1848
+    type: event
+  - name: Schlachterei
+    type: building
+files:
+  - role: main
+    original_name: scan_335.tif
+    path: files/05/e4/05e44425076d5494cf7e7fadcada8b338cd7c6ac5cdf5979f0e8d5ce6ba632a9/original.tif
+    sha256: 05e44425076d5494cf7e7fadcada8b338cd7c6ac5cdf5979f0e8d5ce6ba632a9
+    mime: image/tiff
+    bytes: 10982859
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/e4/05e44425076d5494cf7e7fadcada8b338cd7c6ac5cdf5979f0e8d5ce6ba632a9/preview-400.290f1e9a5a19.jpg
+        sha256: 290f1e9a5a19958fafe2b03b98d136262d2d3f24ddf28f8b7138a56f28362a86
+        mime: image/jpeg
+        bytes: 58798
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

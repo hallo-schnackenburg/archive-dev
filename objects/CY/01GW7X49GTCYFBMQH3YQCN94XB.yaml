@@ -1,0 +1,33 @@
+id: 01GW7X49GTCYFBMQH3YQCN94XB
+type: image
+subtype: drawing
+title: Skizze Havelberg, Am Elbdeich
+description: Federzeichnung, laviert.
+date: "1968"
+location: Gülden, Hinter den Höfen
+origin:
+  name: Erika Wöhlk
+  type: person
+  location: Gollensdorf
+parents:
+  - 01FSR5RWMB3S1C3C5MHAYVRE65
+files:
+  - role: main
+    original_name: scan_102.tif
+    path: files/3b/cf/3bcf0fa7b5de4fb9b242f53c6fa2ca397476803fda34b1cb3c5addc51615552e/original.tif
+    sha256: 3bcf0fa7b5de4fb9b242f53c6fa2ca397476803fda34b1cb3c5addc51615552e
+    mime: image/tiff
+    bytes: 6350046
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/3b/cf/3bcf0fa7b5de4fb9b242f53c6fa2ca397476803fda34b1cb3c5addc51615552e/preview-400.db3e7579d786.jpg
+        sha256: db3e7579d786bfaaedb0107e8c6a79118920eb2ffd967452739e5341c6c2d94d
+        mime: image/jpeg
+        bytes: 55051
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

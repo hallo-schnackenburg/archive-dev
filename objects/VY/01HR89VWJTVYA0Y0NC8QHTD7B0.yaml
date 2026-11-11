@@ -1,0 +1,42 @@
+id: 01HR89VWJTVYA0Y0NC8QHTD7B0
+type: image
+subtype: photo
+title: Feuerwehrübung 1917
+description: Farbfoto, leicht verblasst.
+date: 1917~
+origin:
+  name: Paul Schulz
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 24/260
+  note: Dachboden, Truhe
+subjects:
+  - name: Friedhofskapelle
+    type: building
+parents:
+  - 01KWYFYPXA1XKFXQC49HAWMD3Q
+files:
+  - role: main
+    original_name: foto_2404.jpg
+    path: files/6d/ba/6dba4b4de0d03ca3487ab7645629afb2e7cf44de0b22c4293f5a9cd6d7682377/original.jpg
+    sha256: 6dba4b4de0d03ca3487ab7645629afb2e7cf44de0b22c4293f5a9cd6d7682377
+    mime: image/jpeg
+    bytes: 4205954
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/6d/ba/6dba4b4de0d03ca3487ab7645629afb2e7cf44de0b22c4293f5a9cd6d7682377/preview-400.f4445498fea8.jpg
+        sha256: f4445498fea8d833b7ef81572317f8475d86154e7d28c2027a2b600c4efb0e6b
+        mime: image/jpeg
+        bytes: 59051
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

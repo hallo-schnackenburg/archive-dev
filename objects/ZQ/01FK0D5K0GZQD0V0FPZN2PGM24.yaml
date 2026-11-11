@@ -1,0 +1,37 @@
+id: 01FK0D5K0GZQD0V0FPZN2PGM24
+type: image
+subtype: print
+title: Postkarte Bömenzien, Dorfschule
+description: Postkarte, gelaufen 1923.
+date: 1837-06
+location: Gartow, Försterei
+geocode:
+  lat: 53.0754
+  lon: 11.6874
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+files:
+  - role: main
+    original_name: scan_970.tif
+    path: files/01/0a/010a31586c93716c15c57dd8f0bf0143280090ea4b5378a70e449fac8391244f/original.tif
+    sha256: 010a31586c93716c15c57dd8f0bf0143280090ea4b5378a70e449fac8391244f
+    mime: image/tiff
+    bytes: 25942653
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/01/0a/010a31586c93716c15c57dd8f0bf0143280090ea4b5378a70e449fac8391244f/preview-400.3bd01863b2f6.jpg
+        sha256: 3bd01863b2f6caffedca86941e308d6aa5eb25e8e6208074999d1f284fb33fa5
+        mime: image/jpeg
+        bytes: 81351
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

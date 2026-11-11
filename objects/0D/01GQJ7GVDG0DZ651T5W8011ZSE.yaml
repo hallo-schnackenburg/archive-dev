@@ -1,0 +1,38 @@
+id: 01GQJ7GVDG0DZ651T5W8011ZSE
+type: image
+subtype: plan
+title: Bauplan Schmiede 1823
+date: "1823"
+location: Gorleben, Schulstraße
+origin:
+  name: Heinrich Brandt
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 8/036
+parents:
+  - 01JJVWHQS46WZ6EFA7FBGQH53P
+files:
+  - role: main
+    original_name: scan_161.tif
+    path: files/f8/e0/f8e0f6fa81d5b28138255d04ce63c987e8924a2768b28ba9ef663ae250e54069/original.tif
+    sha256: f8e0f6fa81d5b28138255d04ce63c987e8924a2768b28ba9ef663ae250e54069
+    mime: image/tiff
+    bytes: 2610805
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f8/e0/f8e0f6fa81d5b28138255d04ce63c987e8924a2768b28ba9ef663ae250e54069/preview-400.497a9390308e.jpg
+        sha256: 497a9390308efc80970c78dc91d8283b27a4ce163c7a70a731341b6eba75c65e
+        mime: image/jpeg
+        bytes: 36217
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

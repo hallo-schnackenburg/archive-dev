@@ -1,0 +1,88 @@
+id: 01HPBXRG7YSBF249SP7JZVM05D
+type: document
+subtype: letter
+title: Brief von Helga Fricke an Heinrich Tiedemann
+location: Wittenberge, Pumpenhaus
+geocode:
+  lat: 52.9563
+  lon: 11.6859
+  precision: street
+  source: osm
+origin:
+  name: Hans Krüger
+  type: person
+  location: Cumlosen
+recipient: August Tiedemann
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Album 6/108
+subjects:
+  - name: Hans Schulz
+    type: person
+  - name: Dorfkrug
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_zvm05d_001.tif
+    path: files/28/57/285747b642e708cc5e50283263a45b39885879d3d8474df00e9762d715918ac5/original.tif
+    sha256: 285747b642e708cc5e50283263a45b39885879d3d8474df00e9762d715918ac5
+    mime: image/tiff
+    bytes: 13407217
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/28/57/285747b642e708cc5e50283263a45b39885879d3d8474df00e9762d715918ac5/preview-400.2ce01f7c3c77.jpg
+        sha256: 2ce01f7c3c776d9c5ab0113ee2ecedad5052c032611c07b3aee4f8fa624aef9b
+        mime: image/jpeg
+        bytes: 23269
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_zvm05d_002.tif
+    path: files/4b/42/4b421c838828cee78578949095e6f76811788a31d721c91f50f1db75515610e0/original.tif
+    sha256: 4b421c838828cee78578949095e6f76811788a31d721c91f50f1db75515610e0
+    mime: image/tiff
+    bytes: 13400350
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4b/42/4b421c838828cee78578949095e6f76811788a31d721c91f50f1db75515610e0/preview-400.c9d17efb0a9a.jpg
+        sha256: c9d17efb0a9a5f4c1917e7f239622fd07c3aeda4290284524bd89db20f5cbfae
+        mime: image/jpeg
+        bytes: 47801
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_zvm05d_003.tif
+    path: files/94/f5/94f5768aa83eb41b291cf05097bb9ec056b2f6d2724dffae4f233d751fabd5f9/original.tif
+    sha256: 94f5768aa83eb41b291cf05097bb9ec056b2f6d2724dffae4f233d751fabd5f9
+    mime: image/tiff
+    bytes: 25599773
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/94/f5/94f5768aa83eb41b291cf05097bb9ec056b2f6d2724dffae4f233d751fabd5f9/preview-400.c8862261784a.jpg
+        sha256: c8862261784a8687448b88abb3bb8b399fc8e10bfcdc0ef0544d53ecdf29e89e
+        mime: image/jpeg
+        bytes: 75057
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

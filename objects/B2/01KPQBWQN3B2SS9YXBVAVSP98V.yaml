@@ -1,0 +1,32 @@
+id: 01KPQBWQN3B2SS9YXBVAVSP98V
+type: image
+subtype: plan
+title: Bauplan Gasthof „Zur Elbe“ 1997
+location: Lenzen, Grenzturm
+origin:
+  name: Ingrid Wiegmann
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Zollamt
+    type: building
+files:
+  - role: main
+    original_name: scan_357.tif
+    path: files/75/7e/757e35174b9954bc40826d983d324408a5576067a11577141571264e4e1d2f29/original.tif
+    sha256: 757e35174b9954bc40826d983d324408a5576067a11577141571264e4e1d2f29
+    mime: image/tiff
+    bytes: 24874039
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/75/7e/757e35174b9954bc40826d983d324408a5576067a11577141571264e4e1d2f29/preview-400.76893c1be155.jpg
+        sha256: 76893c1be155c07e5457064e5cf5390e1681d63fa0e12f12a7a3bf7849863407
+        mime: image/jpeg
+        bytes: 61468
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

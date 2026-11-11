@@ -1,0 +1,39 @@
+id: 01FJVCW1DY0A0WHTMXHC395VR5
+type: image
+subtype: print
+title: "Kupferstich: Schnackenburg von der Elbseite, Bömenzien (5)"
+description: Postkarte, gelaufen 1942.
+date: 1745-11
+location: Salzwedel, Bahnhofstraße
+geocode:
+  lat: 53.04
+  lon: 11.6503
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01FZ6M8QKXGB7D7RCJXJBP9MVH
+files:
+  - role: main
+    original_name: scan_003.tif
+    path: files/3e/e7/3ee73659ca2718c396c8b11f7d9a96d0c9e7a1e3de80ed93af80871349f4407c/original.tif
+    sha256: 3ee73659ca2718c396c8b11f7d9a96d0c9e7a1e3de80ed93af80871349f4407c
+    mime: image/tiff
+    bytes: 5081561
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/e7/3ee73659ca2718c396c8b11f7d9a96d0c9e7a1e3de80ed93af80871349f4407c/preview-400.8312a882971c.jpg
+        sha256: 8312a882971cd3b23ccecec795f0a8a257198c865f4c785cb3e027a80f84712d
+        mime: image/jpeg
+        bytes: 75562
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

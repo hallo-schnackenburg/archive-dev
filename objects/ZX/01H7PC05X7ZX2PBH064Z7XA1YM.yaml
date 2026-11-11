@@ -1,0 +1,38 @@
+id: 01H7PC05X7ZX2PBH064Z7XA1YM
+type: image
+subtype: print
+title: Ansichtskarte Marktstraße
+date: 1716-07-03
+origin:
+  name: Käthe Jeß
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Laase
+    type: place
+  - name: Günter Lüders
+    type: person
+  - name: Rudolf Lemke
+    type: person
+parents:
+  - 01FVB0ZV7D5S8N9566PY0PJ70J
+files:
+  - role: main
+    original_name: scan_982.tif
+    path: files/6a/3f/6a3f196ec587027a3febbbdc5872b85629d785a976a6d52da42642f604260ddc/original.tif
+    sha256: 6a3f196ec587027a3febbbdc5872b85629d785a976a6d52da42642f604260ddc
+    mime: image/tiff
+    bytes: 10594798
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6a/3f/6a3f196ec587027a3febbbdc5872b85629d785a976a6d52da42642f604260ddc/preview-400.773daf08c11a.jpg
+        sha256: 773daf08c11ae844bc434bb9ad4148d905004c65a880cced904668d70c0f8ec4
+        mime: image/jpeg
+        bytes: 56323
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

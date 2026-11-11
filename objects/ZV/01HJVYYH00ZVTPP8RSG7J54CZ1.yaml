@@ -1,0 +1,39 @@
+id: 01HJVYYH00ZVTPP8RSG7J54CZ1
+type: image
+subtype: plan
+title: Bauplan Ziegelei 1841
+description: Maßstab 1:100.
+date: 1841/1853
+location: Lenzen, Windmühle
+geocode:
+  lat: 53.0067
+  lon: 11.6791
+  precision: region
+  source: osm
+origin:
+  name: Klaus Albers
+  type: person
+  location: Zadrau
+subjects:
+  - name: Grenzöffnung 1841
+    type: event
+files:
+  - role: main
+    original_name: scan_445.tif
+    path: files/46/43/464316d94034472e0f3df9b982792e5dd98a922bd9d350d36f1905ebd5be9e80/original.tif
+    sha256: 464316d94034472e0f3df9b982792e5dd98a922bd9d350d36f1905ebd5be9e80
+    mime: image/tiff
+    bytes: 11889201
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/46/43/464316d94034472e0f3df9b982792e5dd98a922bd9d350d36f1905ebd5be9e80/preview-400.4ed17f000c59.jpg
+        sha256: 4ed17f000c5937ddac676ddbd85261f6860497b246f2c3a506ca153b17f7d2c4
+        mime: image/jpeg
+        bytes: 71489
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

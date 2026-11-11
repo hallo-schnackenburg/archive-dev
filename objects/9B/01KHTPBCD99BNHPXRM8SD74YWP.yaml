@@ -1,0 +1,30 @@
+id: 01KHTPBCD99BNHPXRM8SD74YWP
+type: image
+subtype: print
+title: Postkarte Rüterberg, Molkerei
+description: Postkarte, gelaufen 1944.
+location: Wittenberge, Dorfstraße
+origin:
+  name: Karl Behrens
+  type: person
+  location: Dömitz
+files:
+  - role: main
+    original_name: scan_754.tif
+    path: files/ce/a6/cea6636dcbaa8fa87bd64f601ab7d2829e6ae88b343ce7b249dc70482e28a6fc/original.tif
+    sha256: cea6636dcbaa8fa87bd64f601ab7d2829e6ae88b343ce7b249dc70482e28a6fc
+    mime: image/tiff
+    bytes: 2992444
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ce/a6/cea6636dcbaa8fa87bd64f601ab7d2829e6ae88b343ce7b249dc70482e28a6fc/preview-400.1d12ee368b8f.jpg
+        sha256: 1d12ee368b8fce9b0aea31de827bd9c2305302f8c0e3436fcf761c8029fde9d0
+        mime: image/jpeg
+        bytes: 41277
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

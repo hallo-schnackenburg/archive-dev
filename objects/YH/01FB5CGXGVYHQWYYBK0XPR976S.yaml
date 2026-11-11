@@ -1,0 +1,44 @@
+id: 01FB5CGXGVYHQWYYBK0XPR976S
+type: document
+subtype: note
+title: Rechnung Pape, Dorfkrug
+date: "1965"
+location: Gartow, Bahnhofstraße
+geocode:
+  lat: 53.0674
+  lon: 11.5467
+  precision: region
+  source: osm
+origin:
+  name: Elfriede Wiegmann
+  type: person
+  location: Arendsee
+language: en
+subjects:
+  - name: Ernst Jeß
+    type: person
+  - name: Brünkendorf
+    type: place
+  - name: Kartoffelernte 1965
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_pr976s_001.tif
+    path: files/c2/d7/c2d7978e3d9a53fc64342dfbbce5fcef35c881fe0a765b1ac668d75f6b2b7808/original.tif
+    sha256: c2d7978e3d9a53fc64342dfbbce5fcef35c881fe0a765b1ac668d75f6b2b7808
+    mime: image/tiff
+    bytes: 22779470
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/d7/c2d7978e3d9a53fc64342dfbbce5fcef35c881fe0a765b1ac668d75f6b2b7808/preview-400.5162fca504b2.jpg
+        sha256: 5162fca504b290f8a673f533ae3105c1d5221729e0e62821d0646696b9b05b2c
+        mime: image/jpeg
+        bytes: 55943
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

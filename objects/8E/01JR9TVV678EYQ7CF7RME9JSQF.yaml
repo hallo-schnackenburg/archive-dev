@@ -1,0 +1,37 @@
+id: 01JR9TVV678EYQ7CF7RME9JSQF
+type: image
+subtype: print
+title: Lithographie Hafen, Wootz
+date: 1741/1745
+location: Holtorf, Burgstraße
+origin:
+  name: Erika Jeß
+  type: person
+  location: Wustrow
+subjects:
+  - name: Hochzeit 1741
+    type: event
+  - name: Otto Behrens
+    type: person
+parents:
+  - 01GWFE0FE3S612EGDSN47NZK4B
+files:
+  - role: main
+    original_name: scan_551.tif
+    path: files/d3/9f/d39f6040b78ee9c50e79b9cb956aeb71d821361d170720c97ec8727a57e6403b/original.tif
+    sha256: d39f6040b78ee9c50e79b9cb956aeb71d821361d170720c97ec8727a57e6403b
+    mime: image/tiff
+    bytes: 3343297
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d3/9f/d39f6040b78ee9c50e79b9cb956aeb71d821361d170720c97ec8727a57e6403b/preview-400.9f2055f1dd02.jpg
+        sha256: 9f2055f1dd02523f7f11bdb389af7521ed3edd32a4ed8ab128a092292f0184d2
+        mime: image/jpeg
+        bytes: 52785
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

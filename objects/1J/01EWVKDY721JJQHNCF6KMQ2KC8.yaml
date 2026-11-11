@@ -1,0 +1,41 @@
+id: 01EWVKDY721JJQHNCF6KMQ2KC8
+type: image
+subtype: photo
+title: Hedwig Harms vor dem Schmiede
+date: 1900-01-22
+location: Wootz, Kriegerdenkmal
+geocode:
+  lat: 52.9674
+  lon: 11.6568
+  precision: town
+  source: osm
+origin:
+  name: Heinz Tiedemann
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok 40/094
+files:
+  - role: main
+    original_name: scan_204.tif
+    path: files/b6/45/b6454ede30949952476b35628458fac3bbda32b12dd631345c5e1c9fb91e4827/original.tif
+    sha256: b6454ede30949952476b35628458fac3bbda32b12dd631345c5e1c9fb91e4827
+    mime: image/tiff
+    bytes: 17626758
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b6/45/b6454ede30949952476b35628458fac3bbda32b12dd631345c5e1c9fb91e4827/preview-400.9874731802e7.jpg
+        sha256: 9874731802e74e40e5c5c48b59adf993962be139dd11618b51855c85dc100660
+        mime: image/jpeg
+        bytes: 27241
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,47 @@
+id: 01HXE9GHZ01EH2N6ZF91GVK2JD
+type: document
+subtype: letter
+title: Korrespondenz Gerda Schulz
+description: Handschriftlich, 1 Seiten.
+date: 1878-03
+location: Zadrau, Marktstraße
+geocode:
+  lat: 52.9396
+  lon: 11.4652
+  precision: street
+  source: osm
+origin:
+  name: Hans Jeß
+  type: person
+  location: Bömenzien
+language: de
+owner:
+  name: Berta Jeß
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Pretzier
+    type: place
+parents:
+  - 01K17ANV6BS1YN44GQNBJ2A6CF
+files:
+  - role: page
+    num: 1
+    original_name: letter_gvk2jd_001.tif
+    path: files/3e/e7/3ee7a68d5d4513970fc067f18674c4a0a245c28226e9c73e5b5bf1969c3e774a/original.tif
+    sha256: 3ee7a68d5d4513970fc067f18674c4a0a245c28226e9c73e5b5bf1969c3e774a
+    mime: image/tiff
+    bytes: 20548029
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/e7/3ee7a68d5d4513970fc067f18674c4a0a245c28226e9c73e5b5bf1969c3e774a/preview-400.c4e98ff3bad2.jpg
+        sha256: c4e98ff3bad2c50c6d4f1a9c2e764c4036beb474ca4ff91c782435ba06d151df
+        mime: image/jpeg
+        bytes: 66426
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

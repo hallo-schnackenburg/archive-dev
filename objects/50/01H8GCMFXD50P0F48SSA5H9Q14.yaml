@@ -1,0 +1,62 @@
+id: 01H8GCMFXD50P0F48SSA5H9Q14
+type: document
+subtype: letter
+title: Glückwunschkarte zum Weihnachtsmarkt
+date: 1879-08-19
+location: Lenzen, Lange Straße
+origin:
+  name: Wilhelm Wiegmann
+  type: person
+  location: Gartow
+recipient: Karl Voss
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 35/081
+  note: Regal 1
+parents:
+  - 01M3QTWQ9H2E1GP4N4HWKMEY2Z
+files:
+  - role: page
+    num: 1
+    original_name: letter_5h9q14_001.tif
+    path: files/95/df/95df9c9a152b02d4deb2bcc9f6a15b707622d52c709161e29ecf96188f57412d/original.tif
+    sha256: 95df9c9a152b02d4deb2bcc9f6a15b707622d52c709161e29ecf96188f57412d
+    mime: image/tiff
+    bytes: 17212435
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/df/95df9c9a152b02d4deb2bcc9f6a15b707622d52c709161e29ecf96188f57412d/preview-400.226062a3efa1.jpg
+        sha256: 226062a3efa1abda01b26ae581dc35debc8fca8b4b77d5c55cddb8cdec2e2b30
+        mime: image/jpeg
+        bytes: 20295
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_5h9q14_002.tif
+    path: files/27/9f/279ff41329b269d08931a1f02851fb3e8cfae4486b6ca7382e3dfb0711ded565/original.tif
+    sha256: 279ff41329b269d08931a1f02851fb3e8cfae4486b6ca7382e3dfb0711ded565
+    mime: image/tiff
+    bytes: 1940739
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/27/9f/279ff41329b269d08931a1f02851fb3e8cfae4486b6ca7382e3dfb0711ded565/preview-400.a9616e5d12f4.jpg
+        sha256: a9616e5d12f43904896518b04604fd00b22aa72974df6ff75d9ece743cf30fa5
+        mime: image/jpeg
+        bytes: 29972
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

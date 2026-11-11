@@ -1,0 +1,36 @@
+id: 01H32TQV1EBWT8EBSBZEARAD55
+type: image
+subtype: plan
+title: Bauplan Pumpenhaus 1856
+location: Wootz, Kirchstraße
+origin:
+  name: Frieda Garms
+  type: person
+  location: Pretzier
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Frieda Hennings
+    type: person
+  - name: Hedwig Lemke
+    type: person
+files:
+  - role: main
+    original_name: scan_750.tif
+    path: files/88/a4/88a47fa01f09c077881c28a445fe1bfa6f337202093e4e0d903e2b526c17451e/original.tif
+    sha256: 88a47fa01f09c077881c28a445fe1bfa6f337202093e4e0d903e2b526c17451e
+    mime: image/tiff
+    bytes: 22975543
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/88/a4/88a47fa01f09c077881c28a445fe1bfa6f337202093e4e0d903e2b526c17451e/preview-400.d6ba2846f5e9.jpg
+        sha256: d6ba2846f5e9301a525bd8d58504c9bcf1763ac3faf34492566dc2f9e711440e
+        mime: image/jpeg
+        bytes: 74359
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

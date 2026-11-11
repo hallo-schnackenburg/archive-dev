@@ -1,0 +1,38 @@
+id: 01JYJ2BBXFWB0TDA3ABS55HVC1
+type: image
+subtype: print
+title: Postkarte Rüterberg, Dorfkrug
+date: 1810-08-05
+origin:
+  name: Erika Brandt
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan 34/209
+subjects:
+  - name: Dorfladen
+    type: building
+files:
+  - role: main
+    original_name: scan_508.tif
+    path: files/a1/1e/a11ee78a350d4b6a2d8b20de71c7d41365c4ad4850271c952d5e9742d323a956/original.tif
+    sha256: a11ee78a350d4b6a2d8b20de71c7d41365c4ad4850271c952d5e9742d323a956
+    mime: image/tiff
+    bytes: 3245728
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a1/1e/a11ee78a350d4b6a2d8b20de71c7d41365c4ad4850271c952d5e9742d323a956/preview-400.fc3c039ec83f.jpg
+        sha256: fc3c039ec83f47bfb12cb593acaf635932a9f44aa22cb76f86ec2d3bf5e2375b
+        mime: image/jpeg
+        bytes: 50799
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

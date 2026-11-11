@@ -1,0 +1,38 @@
+id: 01J5628S3HXR9BAH221NGNEQGN
+type: image
+subtype: drawing
+title: Entwurf für Torhaus
+date: 192X
+location: Brünkendorf, Elbdeich
+geocode:
+  lat: 52.9068
+  lon: 11.6919
+  precision: region
+  source: osm
+subjects:
+  - name: Schützenhaus
+    type: building
+  - name: Laase
+    type: place
+parents:
+  - 01KQE2MVHCH023HXPRAKNXXJ2W
+files:
+  - role: main
+    original_name: scan_057.tif
+    path: files/86/68/8668a2a8feac5bbd80e27855767ef8be42ffacab960fd5769f2ee4adb19522cc/original.tif
+    sha256: 8668a2a8feac5bbd80e27855767ef8be42ffacab960fd5769f2ee4adb19522cc
+    mime: image/tiff
+    bytes: 9848714
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/68/8668a2a8feac5bbd80e27855767ef8be42ffacab960fd5769f2ee4adb19522cc/preview-400.c5cc1ac03f33.jpg
+        sha256: c5cc1ac03f33677ba18905ffc095ffce531bccb95ab3fe9e7679f1a879974db0
+        mime: image/jpeg
+        bytes: 55216
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

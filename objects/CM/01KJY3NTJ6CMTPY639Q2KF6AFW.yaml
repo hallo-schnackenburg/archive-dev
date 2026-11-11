@@ -1,0 +1,42 @@
+id: 01KJY3NTJ6CMTPY639Q2KF6AFW
+type: image
+subtype: photo
+title: Marta Wiese vor dem Gärtnerei
+date: 1971-07-06
+location: Bömenzien, Am Markt
+geocode:
+  lat: 52.904
+  lon: 11.6054
+  precision: town
+  source: osm
+origin:
+  name: Karl Hennings
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Ortsbesichtigung 1971
+    type: event
+  - name: Fritz Rohde
+    type: person
+parents:
+  - 01JF4KWKVRQTHC2EW4F1D004T1
+files:
+  - role: main
+    original_name: scan_900.tif
+    path: files/4e/8e/4e8e63479ff783b83db4bd3e380eedd530e51e47055c9709e048dab2f605f2c4/original.tif
+    sha256: 4e8e63479ff783b83db4bd3e380eedd530e51e47055c9709e048dab2f605f2c4
+    mime: image/tiff
+    bytes: 579679
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4e/8e/4e8e63479ff783b83db4bd3e380eedd530e51e47055c9709e048dab2f605f2c4/preview-400.2dff8ed0ef20.jpg
+        sha256: 2dff8ed0ef2047a267053a02eaabb7fe36ca130a87133d0b210894223d653fb3
+        mime: image/jpeg
+        bytes: 56531
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

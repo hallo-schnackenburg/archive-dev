@@ -1,0 +1,44 @@
+id: 01F819YPZA1931R1FN6QK5D1ET
+type: image
+subtype: photo
+title: Glockenweihe 1928
+date: 1928-06-25
+origin:
+  name: Friedrich Brandt
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 39/153
+subjects:
+  - name: Feuerwehrübung 1928
+    type: event
+  - name: Karl Ahrens
+    type: person
+  - name: Arendsee
+    type: place
+parents:
+  - 01GM7NY0727P7EK5MCJ3J7A8SN
+files:
+  - role: main
+    original_name: P4402.jpg
+    path: files/55/1f/551f6632969d8f95fc6116b0957c018e4b6db8efeb5628c9a469fda70464f7ef/original.jpg
+    sha256: 551f6632969d8f95fc6116b0957c018e4b6db8efeb5628c9a469fda70464f7ef
+    mime: image/jpeg
+    bytes: 14289051
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/55/1f/551f6632969d8f95fc6116b0957c018e4b6db8efeb5628c9a469fda70464f7ef/preview-400.aeae46376efc.jpg
+        sha256: aeae46376efc445c6b79662ffe3bb6b52cdf2607d95cd5adb64313fc27d365e8
+        mime: image/jpeg
+        bytes: 53000
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

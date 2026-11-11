@@ -1,0 +1,43 @@
+id: 01GVVSFX6KXA96S9MQ4YCM40KW
+type: image
+subtype: print
+title: Ansichtskarte Am Markt, Nienwalde (6)
+date: 1835-01-20
+location: Gorleben, Feuerwehrhaus
+geocode:
+  lat: 52.9944
+  lon: 11.5073
+  precision: street
+  source: osm
+origin:
+  name: Hermann Dierks
+  type: person
+  location: Gartow
+subjects:
+  - name: Paul Sievers
+    type: person
+  - name: Lanz
+    type: place
+parents:
+  - 01GYVCE9612QGZYBGWYYZ1X9FF
+  - 01JSYB7Z03WSNMJ0H37E7BWCQW
+files:
+  - role: main
+    original_name: scan_238.tif
+    path: files/80/99/809918023b3851a7c0ee464d71352526f27e6ac7e7d6600c0600c4131fb0a2ce/original.tif
+    sha256: 809918023b3851a7c0ee464d71352526f27e6ac7e7d6600c0600c4131fb0a2ce
+    mime: image/tiff
+    bytes: 17287430
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/80/99/809918023b3851a7c0ee464d71352526f27e6ac7e7d6600c0600c4131fb0a2ce/preview-400.3b9716e0d932.jpg
+        sha256: 3b9716e0d9327993ac686e5550b2bac581fc621dfd82e175afcb8f78d3d98421
+        mime: image/jpeg
+        bytes: 58356
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

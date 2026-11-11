@@ -1,0 +1,43 @@
+id: 01GEACAFX0RSEZV42J13SB97MA
+type: image
+subtype: drawing
+title: Bäckerei Lüders, Aquarell, Bömenzien
+date: 195X
+location: Havelberg, Elbstraße
+origin:
+  name: Walter Voss
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br 14/277
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Bahnhof
+    type: building
+  - name: Brückeneinweihung 1956
+    type: event
+files:
+  - role: main
+    original_name: scan_040.tif
+    path: files/99/2f/992f4254060a57346e6d79eeb2aed07151577892c2dd82ff0c71e170c7ee2313/original.tif
+    sha256: 992f4254060a57346e6d79eeb2aed07151577892c2dd82ff0c71e170c7ee2313
+    mime: image/tiff
+    bytes: 11062819
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/99/2f/992f4254060a57346e6d79eeb2aed07151577892c2dd82ff0c71e170c7ee2313/preview-400.2d8bd3c630de.jpg
+        sha256: 2d8bd3c630de666425b4c74ef4fba894045b128df53d799de048bf3d2bebff89
+        mime: image/jpeg
+        bytes: 53113
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

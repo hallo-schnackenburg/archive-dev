@@ -1,0 +1,36 @@
+id: 01HHHHHF7NYC39FQ95HWJ991W5
+type: image
+subtype: print
+title: Postkarte Havelberg, Gasthof Meyer
+description: Kupferstich, koloriert.
+location: Bömenzien, Burgstraße
+origin:
+  name: Erika Oelker
+  type: person
+  location: Lanz
+subjects:
+  - name: Einweihung 1812
+    type: event
+parents:
+  - 01F3WB9ZBJKKX10FSWQKEJV2M4
+  - 01JAG0VN6X3TDF0BEKQ3Q9ZYWP
+files:
+  - role: main
+    original_name: scan_843.tif
+    path: files/ab/b1/abb10cb6dc1dd994d2007a50c7be89834c338bd8f2eba80bcc8177f6dfa7aaeb/original.tif
+    sha256: abb10cb6dc1dd994d2007a50c7be89834c338bd8f2eba80bcc8177f6dfa7aaeb
+    mime: image/tiff
+    bytes: 17992454
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ab/b1/abb10cb6dc1dd994d2007a50c7be89834c338bd8f2eba80bcc8177f6dfa7aaeb/preview-400.d3c3c90570ca.jpg
+        sha256: d3c3c90570ca42050538169414985aad821b7efd0a096f754087b4972bd6c9bf
+        mime: image/jpeg
+        bytes: 37364
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

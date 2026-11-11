@@ -1,0 +1,45 @@
+id: 01GTFMNDZ874D0MW14Z9RR1EEY
+type: image
+subtype: photo
+title: Brückeneinweihung 1959
+date: 1959-08
+location: Nienwalde, Burgstraße
+origin:
+  name: Käthe Wegner
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro 28/394
+subjects:
+  - name: Paul Kuhlmann
+    type: person
+  - name: Molkerei
+    type: building
+  - name: Straßenfest 1959
+    type: event
+parents:
+  - 01FQ7XJFBHG9XHBP2GHBKAZWD0
+files:
+  - role: main
+    original_name: foto_9840.jpg
+    path: files/ad/e0/ade0f4f36eb10d571cad8634791019a77a96a7c7db2cfd19f3472b248aa0a9e3/original.jpg
+    sha256: ade0f4f36eb10d571cad8634791019a77a96a7c7db2cfd19f3472b248aa0a9e3
+    mime: image/jpeg
+    bytes: 23874421
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ad/e0/ade0f4f36eb10d571cad8634791019a77a96a7c7db2cfd19f3472b248aa0a9e3/preview-400.d3f4e43d3630.jpg
+        sha256: d3f4e43d363032efdb34892436ddd7c78a4f73986c45225059d35ce0c996397f
+        mime: image/jpeg
+        bytes: 48218
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

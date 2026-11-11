@@ -1,0 +1,48 @@
+id: 01FS4WK97NQY5ZMFYJ383R1VJK
+type: image
+subtype: photo
+title: Wilhelm Albers, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1936/1942
+location: Kapern, Lange Straße
+geocode:
+  lat: 53.0105
+  lon: 11.5742
+  precision: exact
+  source: osm
+origin:
+  name: Lotte Meyer
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 18/087
+subjects:
+  - name: Dorfkrug
+    type: building
+parents:
+  - 01H40DBW3NVXVHMCXP864M4XJA
+  - 01KANHTTYAXE4AQ68WK7VS6MK4
+files:
+  - role: main
+    original_name: P6532.jpg
+    path: files/25/2b/252be07f1de775c127d78a6bd53474f6a407d301173007c0fec811b2ee02576d/original.jpg
+    sha256: 252be07f1de775c127d78a6bd53474f6a407d301173007c0fec811b2ee02576d
+    mime: image/jpeg
+    bytes: 23906786
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/25/2b/252be07f1de775c127d78a6bd53474f6a407d301173007c0fec811b2ee02576d/preview-400.7c9b385da988.jpg
+        sha256: 7c9b385da98896fa3ba3f6901b32450ef69553a4662b392b1cedff3e9d20ef58
+        mime: image/jpeg
+        bytes: 36829
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01HQ1C0H7FHK01E0R76YSGZXZB
+type: image
+subtype: drawing
+title: Wappenentwurf Seedorf, Holtorf
+date: 1864-12
+location: Rüterberg, Fährstraße
+geocode:
+  lat: 52.9463
+  lon: 11.4509
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 38/017
+  note: Schrank B
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Cumlosen
+    type: place
+files:
+  - role: main
+    original_name: scan_104.tif
+    path: files/2d/4c/2d4cf62df8cd4ebccfe64f18c517322b596e5272e32406a8b18f48a372345a0d/original.tif
+    sha256: 2d4cf62df8cd4ebccfe64f18c517322b596e5272e32406a8b18f48a372345a0d
+    mime: image/tiff
+    bytes: 25631616
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2d/4c/2d4cf62df8cd4ebccfe64f18c517322b596e5272e32406a8b18f48a372345a0d/preview-400.ee15a3b6c9a5.jpg
+        sha256: ee15a3b6c9a55600e1fa769d4b7eb1fb539f70c70da33e56612a511ac0f3baaf
+        mime: image/jpeg
+        bytes: 39283
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

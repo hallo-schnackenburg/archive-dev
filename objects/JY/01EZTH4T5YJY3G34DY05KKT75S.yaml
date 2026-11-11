@@ -1,0 +1,51 @@
+id: 01EZTH4T5YJY3G34DY05KKT75S
+type: image
+subtype: photo
+title: Kirche St. Johannis in Dömitz
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1927"
+location: Bömenzien, Dorfladen
+geocode:
+  lat: 53.0333
+  lon: 11.5557
+  precision: town
+  source: osm
+origin:
+  name: Walter Jeß
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 30/023
+  note: Schrank B
+subjects:
+  - name: Poststelle
+    type: building
+  - name: Molkerei
+    type: building
+parents:
+  - 01HPH5JAF3E8TMGWEPVY0VVSZH
+  - 01HJMR4YWKHDFKNS8WPV4XDY2Z
+files:
+  - role: main
+    original_name: IMG_7146.jpg
+    path: files/ef/66/ef668155d4cf8fdfff366beebb0562c0169ae19806b36e62ae8e2f1fb847baea/original.jpg
+    sha256: ef668155d4cf8fdfff366beebb0562c0169ae19806b36e62ae8e2f1fb847baea
+    mime: image/jpeg
+    bytes: 1021242
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/ef/66/ef668155d4cf8fdfff366beebb0562c0169ae19806b36e62ae8e2f1fb847baea/preview-400.10c9dca12137.jpg
+        sha256: 10c9dca12137391639458f52062ebfba6a4012bd1e780bd97abe146cbace114c
+        mime: image/jpeg
+        bytes: 58576
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

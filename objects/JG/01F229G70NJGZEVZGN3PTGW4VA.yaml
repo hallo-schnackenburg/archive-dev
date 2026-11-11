@@ -1,0 +1,44 @@
+id: 01F229G70NJGZEVZGN3PTGW4VA
+type: image
+subtype: photo
+title: Blick vom Speicher auf das Dorfladen
+date: 1931-05-23
+location: Bömenzien, Schützenhaus
+geocode:
+  lat: 53.0002
+  lon: 11.6253
+  precision: town
+  source: osm
+origin:
+  name: Karl Jeß
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v85583
+subjects:
+  - name: Rathaus
+    type: building
+files:
+  - role: main
+    original_name: foto_8387.jpg
+    path: files/b5/bd/b5bd02bfb1ceb3953bdfb3b24b36aafdb0869952fb73fd74a86aeb9c7e8a983d/original.jpg
+    sha256: b5bd02bfb1ceb3953bdfb3b24b36aafdb0869952fb73fd74a86aeb9c7e8a983d
+    mime: image/jpeg
+    bytes: 7548908
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b5/bd/b5bd02bfb1ceb3953bdfb3b24b36aafdb0869952fb73fd74a86aeb9c7e8a983d/preview-400.bdb324a9fad5.jpg
+        sha256: bdb324a9fad576efd80ca057ce21fda4079eef47bed3d897c9f981e0f3b1ed5a
+        mime: image/jpeg
+        bytes: 55667
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01FQ19DFXFG7PQSYPMX1VGS54S
+type: image
+subtype: drawing
+title: Skizze Pretzier, Kirchstraße
+description: Mit Anmerkungen am Rand.
+date: 1980-06-07
+location: Gülden, Gutshaus
+geocode:
+  lat: 52.9697
+  lon: 11.5921
+  precision: region
+  source: osm
+origin:
+  name: Otto Ahrens
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Hans Albers
+    type: person
+files:
+  - role: main
+    original_name: scan_800.tif
+    path: files/7c/c5/7cc51db00e7e5c5089ccfdb6ae631bec62fbe0740e057579a54ea2f1df66fb1f/original.tif
+    sha256: 7cc51db00e7e5c5089ccfdb6ae631bec62fbe0740e057579a54ea2f1df66fb1f
+    mime: image/tiff
+    bytes: 20613510
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7c/c5/7cc51db00e7e5c5089ccfdb6ae631bec62fbe0740e057579a54ea2f1df66fb1f/preview-400.688c1ac715d3.jpg
+        sha256: 688c1ac715d33c985fcf260c7d060ffcf9a04ca20372b78a7be89b9f907183e6
+        mime: image/jpeg
+        bytes: 55792
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

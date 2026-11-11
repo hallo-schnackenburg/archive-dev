@@ -1,0 +1,35 @@
+id: 01G2K7J3NQ57P3NMV56HFCJJM2
+type: image
+subtype: plan
+title: Bauplan Dorfladen 1982
+date: 1982-02
+location: Rüterberg, Tanzsaal
+subjects:
+  - name: Gartow
+    type: place
+  - name: Erika Behrens
+    type: person
+  - name: Elbdeich
+    type: building
+parents:
+  - 01J5DJ7A6MS3KE1Z0TKMZBQRP7
+files:
+  - role: main
+    original_name: scan_854.tif
+    path: files/ca/bb/cabba74071295543b573419822163373d355f0e0d192288db5b50f617a1a57fe/original.tif
+    sha256: cabba74071295543b573419822163373d355f0e0d192288db5b50f617a1a57fe
+    mime: image/tiff
+    bytes: 4097211
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ca/bb/cabba74071295543b573419822163373d355f0e0d192288db5b50f617a1a57fe/preview-400.f0e8bbffbf85.jpg
+        sha256: f0e8bbffbf85282f2c246398ae304dbb54b6b4910f9ec1382192807ac0ea7350
+        mime: image/jpeg
+        bytes: 24799
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

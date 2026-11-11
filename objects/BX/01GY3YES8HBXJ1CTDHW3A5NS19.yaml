@@ -1,0 +1,40 @@
+id: 01GY3YES8HBXJ1CTDHW3A5NS19
+type: image
+subtype: plan
+title: Grundriss Kirche St. Johannis, Seedorf
+date: "1904"
+location: Arendsee, Gartenstraße
+origin:
+  name: Walter Gaede
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Apotheke
+    type: building
+  - name: Försterei
+    type: building
+files:
+  - role: main
+    original_name: scan_572.tif
+    path: files/95/ef/95ef7459ffae727fec5ffb92ffe97e95c0af542e3d7b2eeff338b44b0e981382/original.tif
+    sha256: 95ef7459ffae727fec5ffb92ffe97e95c0af542e3d7b2eeff338b44b0e981382
+    mime: image/tiff
+    bytes: 20739551
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/95/ef/95ef7459ffae727fec5ffb92ffe97e95c0af542e3d7b2eeff338b44b0e981382/preview-400.1582bc7630ee.jpg
+        sha256: 1582bc7630ee73e296702b5acb0f616373d21f39d4a4db48ace7c315e220340f
+        mime: image/jpeg
+        bytes: 53287
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

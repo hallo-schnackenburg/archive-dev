@@ -1,0 +1,53 @@
+id: 01HGCX426AGWP8QE0AGXMJGZE6
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Gülden 1984
+description: Handschriftlich in Sütterlin.
+date: 1984?
+location: Arendsee, Hafenstraße
+origin:
+  name: Stadtrat Dömitz
+  type: business
+  location: Gorleben
+language: de
+files:
+  - role: page
+    num: 1
+    original_name: protocol_mjgze6_001.tif
+    path: files/16/9f/169f91ac03c4afa1b5522bfd476e9fa66a8ce9db168aed26f0c0431b970fa7f6/original.tif
+    sha256: 169f91ac03c4afa1b5522bfd476e9fa66a8ce9db168aed26f0c0431b970fa7f6
+    mime: image/tiff
+    bytes: 17977447
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/16/9f/169f91ac03c4afa1b5522bfd476e9fa66a8ce9db168aed26f0c0431b970fa7f6/preview-400.de4f3a44a41f.jpg
+        sha256: de4f3a44a41f41c890abfd8288f739b9c6454e1dc1f925e7f3905d41a1609183
+        mime: image/jpeg
+        bytes: 52395
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_mjgze6_002.tif
+    path: files/86/d3/86d3182730582f628548fb4e1b314d61bf16f72acfc62d5262c7e3c84164a995/original.tif
+    sha256: 86d3182730582f628548fb4e1b314d61bf16f72acfc62d5262c7e3c84164a995
+    mime: image/tiff
+    bytes: 6343454
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/d3/86d3182730582f628548fb4e1b314d61bf16f72acfc62d5262c7e3c84164a995/preview-400.94a26db11c3b.jpg
+        sha256: 94a26db11c3bab1847ff70d156447026ea7dbb506c3c5c3121a1ad986f608880
+        mime: image/jpeg
+        bytes: 46105
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

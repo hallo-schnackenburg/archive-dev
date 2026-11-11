@@ -1,0 +1,41 @@
+id: 01HP92MYBAMSXNDGNJP938BNVG
+type: image
+subtype: drawing
+title: Federzeichnung Ziegelei, Wustrow
+description: Mit Anmerkungen am Rand.
+date: "1946"
+origin:
+  name: Heinrich Garms
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro 1/364
+subjects:
+  - name: Speicher
+    type: building
+  - name: Helga Hennings
+    type: person
+files:
+  - role: main
+    original_name: scan_826.tif
+    path: files/35/2f/352ff7cc023d213b72cdc13e67722afc1cc7b5925978ba885a9ba26545b80edd/original.tif
+    sha256: 352ff7cc023d213b72cdc13e67722afc1cc7b5925978ba885a9ba26545b80edd
+    mime: image/tiff
+    bytes: 25581603
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/35/2f/352ff7cc023d213b72cdc13e67722afc1cc7b5925978ba885a9ba26545b80edd/preview-400.9253260835a1.jpg
+        sha256: 9253260835a1a5fe376385f1b023c8817c8da4f417f8dea31d0adda2cb753457
+        mime: image/jpeg
+        bytes: 87788
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

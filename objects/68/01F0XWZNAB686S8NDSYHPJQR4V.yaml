@@ -1,0 +1,39 @@
+id: 01F0XWZNAB686S8NDSYHPJQR4V
+type: image
+subtype: print
+title: Postkarte Lenzen, Tanzsaal
+description: Postkarte, gelaufen 1947.
+date: 1916-12-04
+location: Gollensdorf, Speicher
+origin:
+  name: Lotte Lemke
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Familie Harms
+    type: person
+    location: Dömitz
+subjects:
+  - name: Kapern
+    type: place
+files:
+  - role: main
+    original_name: scan_232.tif
+    path: files/28/eb/28ebc8798a0e8c545c2a0cc74bacbd0770028c604b8c10c6f0e967264c36f3f2/original.tif
+    sha256: 28ebc8798a0e8c545c2a0cc74bacbd0770028c604b8c10c6f0e967264c36f3f2
+    mime: image/tiff
+    bytes: 11260217
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/28/eb/28ebc8798a0e8c545c2a0cc74bacbd0770028c604b8c10c6f0e967264c36f3f2/preview-400.34237f7a45de.jpg
+        sha256: 34237f7a45de1f65893e3b9ab6a90479bc0ec882bf2a3b8bfbaf4e2d68ce79d3
+        mime: image/jpeg
+        bytes: 42374
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

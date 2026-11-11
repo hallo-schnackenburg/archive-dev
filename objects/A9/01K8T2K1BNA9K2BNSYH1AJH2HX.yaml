@@ -1,0 +1,45 @@
+id: 01K8T2K1BNA9K2BNSYH1AJH2HX
+type: image
+subtype: photo
+title: Familie Behrens beim Richtfest
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1910-06
+location: Bömenzien, Pumpenhaus
+geocode:
+  lat: 52.904
+  lon: 11.512
+  precision: region
+  source: osm
+origin:
+  name: Frieda Lemke
+  type: person
+  location: Gartow
+subjects:
+  - name: Erntedankfest 1910
+    type: event
+  - name: Hans Brandt
+    type: person
+  - name: Cumlosen
+    type: place
+parents:
+  - 01KNZ0SE3D6PEDW26H1C3A2K48
+files:
+  - role: main
+    original_name: P6522.jpg
+    path: files/3f/51/3f514cb53103494651a8a776acd8d9ee17a9db2c391519b0cb0423158fd3303c/original.jpg
+    sha256: 3f514cb53103494651a8a776acd8d9ee17a9db2c391519b0cb0423158fd3303c
+    mime: image/jpeg
+    bytes: 21650651
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/3f/51/3f514cb53103494651a8a776acd8d9ee17a9db2c391519b0cb0423158fd3303c/preview-400.f4c31528c913.jpg
+        sha256: f4c31528c91325df85321e4ffa9da492a284c738aebc29b2acaf2a85179fb485
+        mime: image/jpeg
+        bytes: 53154
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

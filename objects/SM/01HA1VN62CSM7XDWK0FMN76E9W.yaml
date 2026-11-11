@@ -1,0 +1,51 @@
+id: 01HA1VN62CSM7XDWK0FMN76E9W
+type: image
+subtype: plan
+title: Bauplan Pfarrhaus 1940
+description: Mit handschriftlichen Ergänzungen.
+date: "1940"
+location: Lanz, Elbstraße
+geocode:
+  lat: 53.0077
+  lon: 11.5235
+  precision: street
+  source: osm
+origin:
+  name: Otto Wiese
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F/Album 2/120
+subjects:
+  - name: Hans Voss
+    type: person
+  - name: Konfirmation 1940
+    type: event
+  - name: Gartow
+    type: place
+parents:
+  - 01JP20QWTYZEWRGFHPQXP5662Q
+files:
+  - role: main
+    original_name: scan_893.tif
+    path: files/ae/8d/ae8d74042e909a0d74370f9a8501e6f10aa9bb9590f9b21a4e05951a45671c97/original.tif
+    sha256: ae8d74042e909a0d74370f9a8501e6f10aa9bb9590f9b21a4e05951a45671c97
+    mime: image/tiff
+    bytes: 7498457
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ae/8d/ae8d74042e909a0d74370f9a8501e6f10aa9bb9590f9b21a4e05951a45671c97/preview-400.d46a00aaf3b1.jpg
+        sha256: d46a00aaf3b1dda0a0075b0eb760adefab9fb41e6acd592ea0783d26b60cd479
+        mime: image/jpeg
+        bytes: 80263
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

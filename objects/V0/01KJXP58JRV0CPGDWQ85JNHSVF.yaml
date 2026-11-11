@@ -1,0 +1,31 @@
+id: 01KJXP58JRV0CPGDWQ85JNHSVF
+type: image
+subtype: photo
+title: Deichstraße, Ecke Bahnhofstraße
+description: Zu sehen sind Schmiede und Gutshaus.
+date: "1902"
+location: Schnackenburg, Elbstraße
+origin:
+  name: Karl Kuhlmann
+  type: person
+  location: Brünkendorf
+files:
+  - role: main
+    original_name: IMG_2797.jpg
+    path: files/2d/a8/2da84f1b6509855f8e1e13c204ee3dca6d060f7333045f1fe8a9ce61f565e2d3/original.jpg
+    sha256: 2da84f1b6509855f8e1e13c204ee3dca6d060f7333045f1fe8a9ce61f565e2d3
+    mime: image/jpeg
+    bytes: 27954287
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/2d/a8/2da84f1b6509855f8e1e13c204ee3dca6d060f7333045f1fe8a9ce61f565e2d3/preview-400.4fc864ba4dcd.jpg
+        sha256: 4fc864ba4dcdf78af1e82ddbbe5f928b7dd822e8855c6598f3e9e6447805bdd8
+        mime: image/jpeg
+        bytes: 37291
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

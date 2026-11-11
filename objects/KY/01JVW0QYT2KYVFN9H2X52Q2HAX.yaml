@@ -1,0 +1,46 @@
+id: 01JVW0QYT2KYVFN9H2X52Q2HAX
+type: image
+subtype: drawing
+title: Entwurf für Dorfteich, Holtorf
+description: Mit Anmerkungen am Rand.
+date: 1918/1928
+location: Gollensdorf, Storchennest
+origin:
+  name: Rudolf Cohrs
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Familie Wegner
+    type: person
+    location: Kapern
+  reference: Dok/Mappe 20/079
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v32810
+subjects:
+  - name: Sturmschaden 1918
+    type: event
+  - name: Kirche St. Johannis
+    type: building
+  - name: Dömitz
+    type: place
+files:
+  - role: main
+    original_name: scan_918.tif
+    path: files/49/01/4901ad99a4452a06904bb1eb14c230c08f31f33baea5bfca59e4fc555eb58031/original.tif
+    sha256: 4901ad99a4452a06904bb1eb14c230c08f31f33baea5bfca59e4fc555eb58031
+    mime: image/tiff
+    bytes: 7545210
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/49/01/4901ad99a4452a06904bb1eb14c230c08f31f33baea5bfca59e4fc555eb58031/preview-400.548b4754e47e.jpg
+        sha256: 548b4754e47ed0ba372785f099207ce0aca86baa1df19df7b60b022aa1fd392b
+        mime: image/jpeg
+        bytes: 38297
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

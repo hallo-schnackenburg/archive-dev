@@ -1,0 +1,41 @@
+id: 01HBXWH00TH03W5RYM3GENDME6
+type: image
+subtype: photo
+title: Ilse Dreyer, Porträt
+description: Abzug im Format 9 x 13 cm.
+date: 1910-12-20
+location: Restorf, Poststelle
+geocode:
+  lat: 53.0313
+  lon: 11.6902
+  precision: street
+  source: osm
+owner:
+  name: Anni Hennings
+  type: person
+  note: Nachlass
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Hochwasser 1910
+    type: event
+files:
+  - role: main
+    original_name: DSC8293.jpg
+    path: files/2c/fe/2cfe6382bedbf9d0c8062040e1ad2aee37afcdc5dd09a92812106dd76a36615f/original.jpg
+    sha256: 2cfe6382bedbf9d0c8062040e1ad2aee37afcdc5dd09a92812106dd76a36615f
+    mime: image/jpeg
+    bytes: 3831973
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/2c/fe/2cfe6382bedbf9d0c8062040e1ad2aee37afcdc5dd09a92812106dd76a36615f/preview-400.08cd857f2ac2.jpg
+        sha256: 08cd857f2ac2061485e2ee1240a98cfbcc0fa05de00d6b665bf41a6d2d0cb5ab
+        mime: image/jpeg
+        bytes: 60605
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

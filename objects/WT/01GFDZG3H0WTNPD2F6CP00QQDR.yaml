@@ -1,0 +1,32 @@
+id: 01GFDZG3H0WTNPD2F6CP00QQDR
+type: image
+subtype: photo
+title: Försterei in Seedorf, Havelberg
+date: "1972"
+location: Zadrau, Poststelle
+origin:
+  name: Rudolf Schulz
+  type: person
+  location: Havelberg
+parents:
+  - 01JZKNVKBS64VYGFSCYTCB6QDJ
+files:
+  - role: main
+    original_name: DSC6092.jpg
+    path: files/5c/24/5c2479d46c7f7e33257102d5d4c9061066440c716d6185221fdd60114fc59580/original.jpg
+    sha256: 5c2479d46c7f7e33257102d5d4c9061066440c716d6185221fdd60114fc59580
+    mime: image/jpeg
+    bytes: 21475345
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/5c/24/5c2479d46c7f7e33257102d5d4c9061066440c716d6185221fdd60114fc59580/preview-400.3e51a6df87fb.jpg
+        sha256: 3e51a6df87fb709861f19b68e9cc4bfa2dac5a41da9feaafd73a33a27083e364
+        mime: image/jpeg
+        bytes: 30113
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

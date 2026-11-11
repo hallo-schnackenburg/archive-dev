@@ -1,0 +1,38 @@
+id: 01JAN0WWX6ZEHZMMW2AAZ6KGTF
+type: image
+subtype: print
+title: Postkarte Wittenberge, Wassermühle
+date: 1838-06-07
+location: Wittenberge, Hinter den Höfen
+origin:
+  name: Karl Klatt
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Familie Wegner
+    type: person
+    location: Salzwedel
+  reference: F 26/397
+parents:
+  - 01F4HYKHGYRFV335Z3P04PNKHW
+files:
+  - role: main
+    original_name: scan_931.tif
+    path: files/6c/e3/6ce310396fcd0779e920784bd5fd93de307ac64739369a1cba46c7502d673810/original.tif
+    sha256: 6ce310396fcd0779e920784bd5fd93de307ac64739369a1cba46c7502d673810
+    mime: image/tiff
+    bytes: 1399960
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/6c/e3/6ce310396fcd0779e920784bd5fd93de307ac64739369a1cba46c7502d673810/preview-400.6ba0a05e64ce.jpg
+        sha256: 6ba0a05e64ce9c9c33d01d54c6efcbb5483aee1655b73d3f257dc647370a25c0
+        mime: image/jpeg
+        bytes: 28688
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

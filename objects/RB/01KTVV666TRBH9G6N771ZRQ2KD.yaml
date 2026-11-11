@@ -1,0 +1,60 @@
+id: 01KTVV666TRBH9G6N771ZRQ2KD
+type: document
+subtype: note
+title: Rechnung Krüger, Dorfschule
+date: "1872"
+language: en
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 8/069
+subjects:
+  - name: Einweihung 1872
+    type: event
+  - name: Gorleben
+    type: place
+parents:
+  - 01F1BRES3HCVYVM1NJ072546P5
+files:
+  - role: page
+    num: 1
+    original_name: note_zrq2kd_001.tif
+    path: files/a5/6a/a56ab26d3f064eeba27861321c6f2361657e1ad09a88f995664e08c2d86af989/original.tif
+    sha256: a56ab26d3f064eeba27861321c6f2361657e1ad09a88f995664e08c2d86af989
+    mime: image/tiff
+    bytes: 27913786
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a5/6a/a56ab26d3f064eeba27861321c6f2361657e1ad09a88f995664e08c2d86af989/preview-400.48b3dfdf9cb2.jpg
+        sha256: 48b3dfdf9cb2a551453a46a7844ead85ce792ed97f1eeeb019b32e157eee5047
+        mime: image/jpeg
+        bytes: 54752
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_zrq2kd_002.tif
+    path: files/b8/cb/b8cb0cb8f26b3580cb658a2e3f0000443183f4ebd9850667b0397c578cef76d3/original.tif
+    sha256: b8cb0cb8f26b3580cb658a2e3f0000443183f4ebd9850667b0397c578cef76d3
+    mime: image/tiff
+    bytes: 19054567
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b8/cb/b8cb0cb8f26b3580cb658a2e3f0000443183f4ebd9850667b0397c578cef76d3/preview-400.a937d6bbbcd9.jpg
+        sha256: a937d6bbbcd9d461b555cadd351982bbd238b3ac4adcb00970b4b5513afad3ed
+        mime: image/jpeg
+        bytes: 77317
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

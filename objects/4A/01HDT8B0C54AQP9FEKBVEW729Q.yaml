@@ -1,0 +1,47 @@
+id: 01HDT8B0C54AQP9FEKBVEW729Q
+type: image
+subtype: photo
+title: Ernst Krüger vor dem Tanzsaal
+location: Gollensdorf, Dorfschule
+geocode:
+  lat: 52.9474
+  lon: 11.4748
+  precision: region
+  source: osm
+origin:
+  name: Berta Burmester
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Album 27/003
+subjects:
+  - name: Ilse Wiese
+    type: person
+  - name: Hochzeit 1942
+    type: event
+parents:
+  - 01KWT1T4KB5Q91S1TWXMCRMNCD
+files:
+  - role: main
+    original_name: P8232.jpg
+    path: files/f6/62/f662dbb9ee3f4923f09787d8a40528a228cb96670ee3f481f599d28c18ac1010/original.jpg
+    sha256: f662dbb9ee3f4923f09787d8a40528a228cb96670ee3f481f599d28c18ac1010
+    mime: image/jpeg
+    bytes: 8314299
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/f6/62/f662dbb9ee3f4923f09787d8a40528a228cb96670ee3f481f599d28c18ac1010/preview-400.6ceee1a4d564.jpg
+        sha256: 6ceee1a4d5649a1dd22c918401ab504c66aec470079133f3afbd0504e3c11130
+        mime: image/jpeg
+        bytes: 71087
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

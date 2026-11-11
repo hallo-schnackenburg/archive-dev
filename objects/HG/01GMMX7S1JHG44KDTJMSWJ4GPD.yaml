@@ -1,0 +1,32 @@
+id: 01GMMX7S1JHG44KDTJMSWJ4GPD
+type: image
+subtype: print
+title: "Holzschnitt: Schützenfest, Laase"
+date: 1752?
+location: Havelberg, Hafen
+origin:
+  name: Heinrich Cohrs
+  type: person
+  location: Bömenzien
+parents:
+  - 01EZVF5X45RBX6V4W1ADQSS6DP
+files:
+  - role: main
+    original_name: scan_023.tif
+    path: files/ab/b1/abb1fb80706b595a6af4705098f20f6c8eea816282f15ffa1e29b62a4808edd3/original.tif
+    sha256: abb1fb80706b595a6af4705098f20f6c8eea816282f15ffa1e29b62a4808edd3
+    mime: image/tiff
+    bytes: 9677847
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ab/b1/abb1fb80706b595a6af4705098f20f6c8eea816282f15ffa1e29b62a4808edd3/preview-400.541c1251416a.jpg
+        sha256: 541c1251416afc2bfad104203443cb8b76506c87d475a27f4f81ff8f5605716a
+        mime: image/jpeg
+        bytes: 84079
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

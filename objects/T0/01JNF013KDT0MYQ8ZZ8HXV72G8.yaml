@@ -1,0 +1,45 @@
+id: 01JNF013KDT0MYQ8ZZ8HXV72G8
+type: image
+subtype: plan
+title: Deichplan Gülden bis Nienwalde
+description: Tusche auf Transparentpapier.
+date: 1864-11-23
+location: Pretzier, Grenzturm
+origin:
+  name: Heinrich Stoll
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 20/078
+  note: Planschrank, Fach 3
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Lüchow
+    type: place
+  - name: Hans Ihde
+    type: person
+files:
+  - role: main
+    original_name: scan_171.tif
+    path: files/84/6e/846ea0cc95640e71f83c9a1d021b200fb2f733226e118164e39da4e284cb9888/original.tif
+    sha256: 846ea0cc95640e71f83c9a1d021b200fb2f733226e118164e39da4e284cb9888
+    mime: image/tiff
+    bytes: 16682565
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/84/6e/846ea0cc95640e71f83c9a1d021b200fb2f733226e118164e39da4e284cb9888/preview-400.a155a67d0ad2.jpg
+        sha256: a155a67d0ad239874fe1e1ee734c25508cac28d8bfedb67a0689d100cdc00434
+        mime: image/jpeg
+        bytes: 54879
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

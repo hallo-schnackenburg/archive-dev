@@ -1,0 +1,45 @@
+id: 01F79GDVWSQMARF3WNA2QQ16V9
+type: image
+subtype: photo
+title: Richtfest 1982
+description: Farbfoto, leicht verblasst.
+date: 1982-07
+origin:
+  name: Fritz Lemke
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Familie Dierks
+    type: person
+    location: Restorf
+  reference: F 10/310
+subjects:
+  - name: Restorf
+    type: place
+  - name: Cumlosen
+    type: place
+  - name: Kegelbahn
+    type: building
+parents:
+  - 01HE6ENCA0W2Z468GKA6QXY516
+files:
+  - role: main
+    original_name: P7552.jpg
+    path: files/a0/1d/a01d22f5fa6d9a04ccda87f66809d62e00846bb058d15f284239c37c42b9806b/original.jpg
+    sha256: a01d22f5fa6d9a04ccda87f66809d62e00846bb058d15f284239c37c42b9806b
+    mime: image/jpeg
+    bytes: 17995824
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/a0/1d/a01d22f5fa6d9a04ccda87f66809d62e00846bb058d15f284239c37c42b9806b/preview-400.5c502da6a844.jpg
+        sha256: 5c502da6a844d52fefee1da1fecbffe250f062a2fbff80263f01498edb8e50e5
+        mime: image/jpeg
+        bytes: 70304
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

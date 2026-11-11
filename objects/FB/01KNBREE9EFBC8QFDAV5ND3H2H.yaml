@@ -1,0 +1,44 @@
+id: 01KNBREE9EFBC8QFDAV5ND3H2H
+type: image
+subtype: print
+title: Postkarte Pretzier, Tanzsaal
+description: Postkarte, gelaufen 1934.
+date: 1761-07
+origin:
+  name: Heinrich Plate
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 2/115
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Havelberg
+    type: place
+  - name: Gartow
+    type: place
+files:
+  - role: main
+    original_name: scan_560.tif
+    path: files/c1/c1/c1c18f91a48692ed6973748599861142134c494e3a5bd944829b85f2b6a0e641/original.tif
+    sha256: c1c18f91a48692ed6973748599861142134c494e3a5bd944829b85f2b6a0e641
+    mime: image/tiff
+    bytes: 27275240
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c1/c1/c1c18f91a48692ed6973748599861142134c494e3a5bd944829b85f2b6a0e641/preview-400.c4009a4666e2.jpg
+        sha256: c4009a4666e2f6ceae113f09b65468cb42743b5833fa0263f7fd3a5f690f0023
+        mime: image/jpeg
+        bytes: 57954
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

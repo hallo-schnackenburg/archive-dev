@@ -1,0 +1,39 @@
+id: 01KPYRG00QEBJE5EJZRK9SYD5G
+type: image
+subtype: plan
+title: Deichplan Wittenberge bis Gülden, Holtorf
+description: Maßstab 1:250.
+date: 1960/1969
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br 25/092
+subjects:
+  - name: Grenzturm
+    type: building
+  - name: Werner Hennings
+    type: person
+parents:
+  - 01K1X786PFNA5XRTNM32Z243KC
+files:
+  - role: main
+    original_name: scan_555.tif
+    path: files/b4/bd/b4bdd571e7cb8a69b1d5fb454bdf264b36002b40665058094ba9ea9de37a173a/original.tif
+    sha256: b4bdd571e7cb8a69b1d5fb454bdf264b36002b40665058094ba9ea9de37a173a
+    mime: image/tiff
+    bytes: 8664598
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b4/bd/b4bdd571e7cb8a69b1d5fb454bdf264b36002b40665058094ba9ea9de37a173a/preview-400.dc773863bc1e.jpg
+        sha256: dc773863bc1e1ef5db23759c68291cc7711d718f0600430d6f5a32542c9aa982
+        mime: image/jpeg
+        bytes: 62866
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

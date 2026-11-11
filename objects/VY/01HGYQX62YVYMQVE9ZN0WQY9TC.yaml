@@ -1,0 +1,40 @@
+id: 01HGYQX62YVYMQVE9ZN0WQY9TC
+type: document
+subtype: note
+title: Rechnung Detlefs, Molkerei
+description: Beleg mit Stempel.
+date: 188X
+location: Schnackenburg, Pfarrhaus
+origin:
+  name: Erika Bohlmann
+  type: person
+  location: Bömenzien
+language: de
+subjects:
+  - name: Kapern
+    type: place
+  - name: Karl Krüger
+    type: person
+parents:
+  - 01HBK6C2YY23CZPK2AB67CF4HH
+files:
+  - role: page
+    num: 1
+    original_name: note_wqy9tc_001.tif
+    path: files/31/8b/318b3c72de7025829268cb9b9102b4a7313d853abf7c346f8a60953ca7c34a5a/original.tif
+    sha256: 318b3c72de7025829268cb9b9102b4a7313d853abf7c346f8a60953ca7c34a5a
+    mime: image/tiff
+    bytes: 12830881
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/31/8b/318b3c72de7025829268cb9b9102b4a7313d853abf7c346f8a60953ca7c34a5a/preview-400.33c5dc339162.jpg
+        sha256: 33c5dc3391625bf4140c067effccff8c82f94bcbe38059830e9f5911adc1eaed
+        mime: image/jpeg
+        bytes: 46855
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

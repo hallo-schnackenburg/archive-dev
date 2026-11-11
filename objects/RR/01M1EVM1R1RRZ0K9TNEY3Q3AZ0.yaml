@@ -1,0 +1,43 @@
+id: 01M1EVM1R1RRZ0K9TNEY3Q3AZ0
+type: image
+subtype: photo
+title: Schlachtfest 1985
+description: Zu sehen sind Dorfkrug und Storchennest.
+date: 1985-07
+location: Brünkendorf, Am Elbdeich
+geocode:
+  lat: 52.9609
+  lon: 11.5792
+  precision: town
+  source: osm
+origin:
+  name: Karl Lemke
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Ziegelei
+    type: building
+parents:
+  - 01EW7Y4DK0MKNT73TY4DDY8AY7
+files:
+  - role: main
+    original_name: DSC5906.jpg
+    path: files/f1/6c/f16cf32cb09b850b68c682ff30a5743d46d3518178b93f792b78423880b4812e/original.jpg
+    sha256: f16cf32cb09b850b68c682ff30a5743d46d3518178b93f792b78423880b4812e
+    mime: image/jpeg
+    bytes: 25069057
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/f1/6c/f16cf32cb09b850b68c682ff30a5743d46d3518178b93f792b78423880b4812e/preview-400.40c570ec9bc2.jpg
+        sha256: 40c570ec9bc292ac5297551509f7cbc0636a5a702be4317ae552cc956a065ba3
+        mime: image/jpeg
+        bytes: 53885
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

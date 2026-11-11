@@ -1,0 +1,36 @@
+id: 01HNBFKT9E64DFAFMJZ7Q4EQ5E
+type: image
+subtype: plan
+title: Bauplan Bäckerei Lüders 1769
+description: Mit handschriftlichen Ergänzungen.
+date: "1769"
+subjects:
+  - name: Ernst Lüders
+    type: person
+  - name: Ziegelei
+    type: building
+  - name: Wootz
+    type: place
+parents:
+  - 01J8ED3E4SGG31ZRC1FEQ26FTD
+files:
+  - role: main
+    original_name: scan_879.tif
+    path: files/56/89/568944dfa26f1dc609b83186827419378c00e51ecfe1c08a62f0c3f45775c3ca/original.tif
+    sha256: 568944dfa26f1dc609b83186827419378c00e51ecfe1c08a62f0c3f45775c3ca
+    mime: image/tiff
+    bytes: 15602285
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/56/89/568944dfa26f1dc609b83186827419378c00e51ecfe1c08a62f0c3f45775c3ca/preview-400.f136f0d9fba6.jpg
+        sha256: f136f0d9fba65ed2437d771d7d01a127406d72486037433108f24b2c13025226
+        mime: image/jpeg
+        bytes: 34250
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Doppelt vorhanden?

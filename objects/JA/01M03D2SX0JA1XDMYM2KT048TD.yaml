@@ -1,0 +1,47 @@
+id: 01M03D2SX0JA1XDMYM2KT048TD
+type: image
+subtype: photo
+title: Walter Meyer vor dem Kirche St. Johannis
+description: Abzug im Format 13 x 18 cm.
+date: 1995-07-01
+location: Nienwalde, Dorfkrug
+geocode:
+  lat: 52.9125
+  lon: 11.6794
+  precision: region
+  source: osm
+origin:
+  name: Erika Bruns
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 22/074
+subjects:
+  - name: Schützenfest 1995
+    type: event
+  - name: Badestelle
+    type: building
+files:
+  - role: main
+    original_name: P5697.jpg
+    path: files/3c/58/3c58d93a89b23c38be83570b943ea3b22423eb5f5c4ce5e639106a9120a76be2/original.jpg
+    sha256: 3c58d93a89b23c38be83570b943ea3b22423eb5f5c4ce5e639106a9120a76be2
+    mime: image/jpeg
+    bytes: 25923035
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/3c/58/3c58d93a89b23c38be83570b943ea3b22423eb5f5c4ce5e639106a9120a76be2/preview-400.5e11b895fc64.jpg
+        sha256: 5e11b895fc641c9707607d6356ac209bbf2dc273a8966a8583d2ff8541200948
+        mime: image/jpeg
+        bytes: 88840
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01HT1FWPCXAFXXPTK6G7DHC9NH
+type: image
+subtype: photo
+title: Schlachtfest 1903
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 190X
+location: Rüterberg, Mühlenweg
+origin:
+  name: Gerda Tiedemann
+  type: person
+  location: Gorleben
+subjects:
+  - name: Straßenfest 1903
+    type: event
+  - name: Fähranleger
+    type: building
+parents:
+  - 01GBN6YKVFSAS5BGP6YM27NA9J
+files:
+  - role: main
+    original_name: foto_5812.jpg
+    path: files/14/9f/149fb05228e3110968949ebdb8914a5832e5be97655fea97764532a101410246/original.jpg
+    sha256: 149fb05228e3110968949ebdb8914a5832e5be97655fea97764532a101410246
+    mime: image/jpeg
+    bytes: 852834
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/14/9f/149fb05228e3110968949ebdb8914a5832e5be97655fea97764532a101410246/preview-400.ec86f432215c.jpg
+        sha256: ec86f432215cd7b1484e394c1d87bfdfd1df3407fd24958888aabf1542768669
+        mime: image/jpeg
+        bytes: 68400
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

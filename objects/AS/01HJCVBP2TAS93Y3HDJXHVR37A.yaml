@@ -1,0 +1,40 @@
+id: 01HJCVBP2TAS93Y3HDJXHVR37A
+type: image
+subtype: drawing
+title: Skizze Havelberg, Am Markt
+description: Bleistift auf Papier.
+date: 1926-03-20
+location: Seedorf, Kirche St. Johannis
+origin:
+  name: Marta Neumann
+  type: person
+  location: Zadrau
+subjects:
+  - name: Viehmarkt 1926
+    type: event
+  - name: Zadrau
+    type: place
+  - name: Zadrau
+    type: place
+parents:
+  - 01GZKK3S8ZTHZFVGYM1SQET170
+files:
+  - role: main
+    original_name: scan_123.tif
+    path: files/ec/67/ec67a692b9c9987c6a3eb516331ea5eabf9b2625ff7530f9b6f1cc521a473290/original.tif
+    sha256: ec67a692b9c9987c6a3eb516331ea5eabf9b2625ff7530f9b6f1cc521a473290
+    mime: image/tiff
+    bytes: 12762237
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ec/67/ec67a692b9c9987c6a3eb516331ea5eabf9b2625ff7530f9b6f1cc521a473290/preview-400.1f122d4f9a2e.jpg
+        sha256: 1f122d4f9a2ea7fae4003184c86253f05ab27af0a3acd49af1ee7246b0bc320a
+        mime: image/jpeg
+        bytes: 52260
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

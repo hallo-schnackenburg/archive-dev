@@ -1,0 +1,72 @@
+id: 01GP2X577YQPS5WC9G1K9DEX3Z
+type: document
+subtype: letter
+title: Emma Hennings an die Gemeinde wegen Kanalisation
+description: Handschriftlich, 4 Seiten.
+date: 1871/1881
+location: Havelberg, Dorfstraße
+geocode:
+  lat: 53.0219
+  lon: 11.6012
+  precision: town
+  source: osm
+origin:
+  name: Marta Lemke
+  type: person
+  location: Gartow
+recipient: Otto Dreyer
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Planschrank, Fach 3
+subjects:
+  - name: Gülden
+    type: place
+  - name: Erika Lemke
+    type: person
+parents:
+  - 01KEEQTF18ZM4ZAMFBC1AXYQ8V
+files:
+  - role: page
+    num: 1
+    original_name: letter_9dex3z_001.tif
+    path: files/7f/0c/7f0c2d81ee6f2ee05f348c36a38309e43a70bbbecbbc083800567222243bd611/original.tif
+    sha256: 7f0c2d81ee6f2ee05f348c36a38309e43a70bbbecbbc083800567222243bd611
+    mime: image/tiff
+    bytes: 6422410
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7f/0c/7f0c2d81ee6f2ee05f348c36a38309e43a70bbbecbbc083800567222243bd611/preview-400.29e6818c47a3.jpg
+        sha256: 29e6818c47a30cebcbc4940c84e682c1a968688a3f6bb01eb8771181c3c89065
+        mime: image/jpeg
+        bytes: 87762
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_9dex3z_002.tif
+    path: files/a0/ac/a0acca6732e2cfad29641336ea3f296f1b3dcb2d38daf0be42debd82d5735f7c/original.tif
+    sha256: a0acca6732e2cfad29641336ea3f296f1b3dcb2d38daf0be42debd82d5735f7c
+    mime: image/tiff
+    bytes: 9403434
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a0/ac/a0acca6732e2cfad29641336ea3f296f1b3dcb2d38daf0be42debd82d5735f7c/preview-400.70d3bf7d52c4.jpg
+        sha256: 70d3bf7d52c4a21a1faec3e233996b169aa2a28f564bf3867f85cf1beca0b3bb
+        mime: image/jpeg
+        bytes: 27642
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

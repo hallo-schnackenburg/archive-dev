@@ -1,0 +1,44 @@
+id: 01KFPKKM4QF5SVQWQXKAH3G0M8
+type: image
+subtype: print
+title: Postkarte Kapern, Gutshaus
+date: "1912"
+location: Lanz, Hinter den Höfen
+geocode:
+  lat: 52.967
+  lon: 11.6537
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Fotos/Album 6/042
+subjects:
+  - name: Lotte Detlefs
+    type: person
+  - name: Albert Lemke
+    type: person
+  - name: Bäckerei Lüders
+    type: building
+files:
+  - role: main
+    original_name: scan_262.tif
+    path: files/69/ce/69ced5851fa07a365cfde1b505534579da5e792f8ddb8b00ce6d12e80cfb6eac/original.tif
+    sha256: 69ced5851fa07a365cfde1b505534579da5e792f8ddb8b00ce6d12e80cfb6eac
+    mime: image/tiff
+    bytes: 17732458
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/69/ce/69ced5851fa07a365cfde1b505534579da5e792f8ddb8b00ce6d12e80cfb6eac/preview-400.912b9e0eba7b.jpg
+        sha256: 912b9e0eba7b5274cdc15e1982dcac5eb2461ea21840886a5d07fb44e6a9ffdd
+        mime: image/jpeg
+        bytes: 73245
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

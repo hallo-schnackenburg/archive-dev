@@ -1,0 +1,45 @@
+id: 01F58ZMBBFX16R6QA6YESGGVFJ
+type: image
+subtype: photo
+title: Blick vom Gemeindehaus auf das Bahnhof
+description: Farbfoto, leicht verblasst.
+date: "1904"
+location: Wootz, Lange Straße
+origin:
+  name: Heinrich Gaede
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Familie Wegner
+    type: person
+    location: Wustrow
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Gutshaus
+    type: building
+  - name: Rudolf Ahrens
+    type: person
+parents:
+  - 01K07SKN5ZQ3VDE1287C9C0F74
+files:
+  - role: main
+    original_name: scan_055.tif
+    path: files/77/5f/775f681070c4bd44698a1a8c18875bb8496a5e3713815935fa71c9e531433233/original.tif
+    sha256: 775f681070c4bd44698a1a8c18875bb8496a5e3713815935fa71c9e531433233
+    mime: image/tiff
+    bytes: 900250
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/77/5f/775f681070c4bd44698a1a8c18875bb8496a5e3713815935fa71c9e531433233/preview-400.3543d5125be5.jpg
+        sha256: 3543d5125be54a7aa9a120ea9a125f757f53de05fdf0dd8d01be980e5e68a288
+        mime: image/jpeg
+        bytes: 87350
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01HTQEVEP4N79RQDJSXDDX0DY4
+type: image
+subtype: photo
+title: Osterfeuer 1915
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1915"
+location: Schnackenburg, Hafenstraße
+origin:
+  name: Hermann Schulz
+  type: person
+  location: Restorf
+subjects:
+  - name: Sturmschaden 1915
+    type: event
+  - name: Zadrau
+    type: place
+  - name: Heinrich Voss
+    type: person
+files:
+  - role: main
+    original_name: DSC9646.jpg
+    path: files/2c/f1/2cf126d385fb9df2995e085fd74ad82e02dc12d0783fda59fbb54a5dd6a66f7c/original.jpg
+    sha256: 2cf126d385fb9df2995e085fd74ad82e02dc12d0783fda59fbb54a5dd6a66f7c
+    mime: image/jpeg
+    bytes: 25300410
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/2c/f1/2cf126d385fb9df2995e085fd74ad82e02dc12d0783fda59fbb54a5dd6a66f7c/preview-400.337987ab557b.jpg
+        sha256: 337987ab557b9d6e2a58ffcd15f479dbc7823400c4df8248b395bba10642c97f
+        mime: image/jpeg
+        bytes: 72311
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

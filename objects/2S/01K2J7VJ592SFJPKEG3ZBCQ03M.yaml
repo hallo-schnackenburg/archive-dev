@@ -1,0 +1,66 @@
+id: 01K2J7VJ592SFJPKEG3ZBCQ03M
+type: document
+subtype: note
+title: Quittung für Dieter Meyer
+description: Beleg mit Stempel.
+date: 1974-11-19
+location: Lanz, Deichstraße
+origin:
+  name: Elfriede Behrens
+  type: person
+  location: Wootz
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 3/001
+subjects:
+  - name: Wootz
+    type: place
+  - name: Heinrich Meyer
+    type: person
+  - name: Kirche St. Johannis
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_bcq03m_001.tif
+    path: files/f4/bc/f4bcf5eb0c932346e8534ef7c9a77635f2dcd34c643f884c3b5e59237dab7905/original.tif
+    sha256: f4bcf5eb0c932346e8534ef7c9a77635f2dcd34c643f884c3b5e59237dab7905
+    mime: image/tiff
+    bytes: 14209439
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f4/bc/f4bcf5eb0c932346e8534ef7c9a77635f2dcd34c643f884c3b5e59237dab7905/preview-400.25bba18195c2.jpg
+        sha256: 25bba18195c241d34e682a6484e306b0c43a23132797b324f488641307b16af5
+        mime: image/jpeg
+        bytes: 52602
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_bcq03m_002.tif
+    path: files/e5/ce/e5cefad40da4b547585967bee871688ee3ce5a28d4700761d0f29310bb4952a5/original.tif
+    sha256: e5cefad40da4b547585967bee871688ee3ce5a28d4700761d0f29310bb4952a5
+    mime: image/tiff
+    bytes: 15888529
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e5/ce/e5cefad40da4b547585967bee871688ee3ce5a28d4700761d0f29310bb4952a5/preview-400.bd5c54bccc23.jpg
+        sha256: bd5c54bccc23de351f8a082370cfe1b788938327b6380659206d8345608b14c9
+        mime: image/jpeg
+        bytes: 84569
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

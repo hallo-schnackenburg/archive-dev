@@ -1,0 +1,43 @@
+id: 01JB08HYMAK7JTX8R36375M32Q
+type: image
+subtype: photo
+title: Kinder am Dorfladen
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Schnackenburg, Schlachterei
+origin:
+  name: Anni Brandt
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 14/331
+subjects:
+  - name: Richtfest 1922
+    type: event
+  - name: Konfirmation 1922
+    type: event
+parents:
+  - 01JMT0ZRHTVSQ2MA5HJ6W5MNW7
+files:
+  - role: main
+    original_name: IMG_8068.jpg
+    path: files/bf/48/bf48eab36a48c978276c3f0b1461ceca1db81333b77721a742839573107abbe4/original.jpg
+    sha256: bf48eab36a48c978276c3f0b1461ceca1db81333b77721a742839573107abbe4
+    mime: image/jpeg
+    bytes: 19594982
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/bf/48/bf48eab36a48c978276c3f0b1461ceca1db81333b77721a742839573107abbe4/preview-400.fbbfa57809f5.jpg
+        sha256: fbbfa57809f55f4ea45de0fb9ef375f1c4acf49b0587a7e1df1486e6d4ea3099
+        mime: image/jpeg
+        bytes: 20495
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

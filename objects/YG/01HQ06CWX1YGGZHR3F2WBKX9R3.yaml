@@ -1,0 +1,31 @@
+id: 01HQ06CWX1YGGZHR3F2WBKX9R3
+type: image
+subtype: photo
+title: Hans Meyer vor dem Ladestraße
+description: Abzug im Format 6 x 9 cm.
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br/Kasten 28/033
+files:
+  - role: main
+    original_name: P3863.jpg
+    path: files/03/11/0311467880164d89b986f337b84170f93cf363c16dc60318dcd49ef7441b08e7/original.jpg
+    sha256: 0311467880164d89b986f337b84170f93cf363c16dc60318dcd49ef7441b08e7
+    mime: image/jpeg
+    bytes: 3414906
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/03/11/0311467880164d89b986f337b84170f93cf363c16dc60318dcd49ef7441b08e7/preview-400.7b063040cc66.jpg
+        sha256: 7b063040cc66cb6f61c2bca8251f2a8054808f9a544d81cbbff09962e27c0369
+        mime: image/jpeg
+        bytes: 61251
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

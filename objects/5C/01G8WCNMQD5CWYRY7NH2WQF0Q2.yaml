@@ -1,0 +1,38 @@
+id: 01G8WCNMQD5CWYRY7NH2WQF0Q2
+type: image
+subtype: photo
+title: Friedrich Voss vor dem Scheune
+description: Farbfoto, leicht verblasst.
+location: Arendsee, Gasthof Meyer
+origin:
+  name: Heinrich Harms
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Mappe 26/029
+parents:
+  - 01FBYZQVFEERGK9E2W84G9TFJ3
+files:
+  - role: main
+    original_name: IMG_6887.jpg
+    path: files/89/9d/899da0f3565bb2ea55e6ccca7b3f80f65f7187c64252c2d43803a9045d7c195f/original.jpg
+    sha256: 899da0f3565bb2ea55e6ccca7b3f80f65f7187c64252c2d43803a9045d7c195f
+    mime: image/jpeg
+    bytes: 20955347
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/89/9d/899da0f3565bb2ea55e6ccca7b3f80f65f7187c64252c2d43803a9045d7c195f/preview-400.de4bb58c6a58.jpg
+        sha256: de4bb58c6a58be9031c2bc07680880633532deeb4c1b4bc51eb71a194e98bcce
+        mime: image/jpeg
+        bytes: 81827
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

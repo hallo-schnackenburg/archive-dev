@@ -1,0 +1,33 @@
+id: 01HH0PBCZ3HV62PB3BN2GSPVDM
+type: image
+subtype: plan
+title: Deichplan Dömitz bis Gülden
+description: Mit handschriftlichen Ergänzungen.
+date: 1982-12-12
+location: Holtorf, Dorfladen
+origin:
+  name: Friedrich Lüders
+  type: person
+  location: Hitzacker
+parents:
+  - 01JP20QWTYZEWRGFHPQXP5662Q
+files:
+  - role: main
+    original_name: scan_771.tif
+    path: files/88/3b/883b4ad19a0b27d184800052a0821515b05d885658c1809af345b25d5ab17fa8/original.tif
+    sha256: 883b4ad19a0b27d184800052a0821515b05d885658c1809af345b25d5ab17fa8
+    mime: image/tiff
+    bytes: 11145342
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/88/3b/883b4ad19a0b27d184800052a0821515b05d885658c1809af345b25d5ab17fa8/preview-400.ea29dcbb5b16.jpg
+        sha256: ea29dcbb5b16a034355494b246e138e9c59a578ec889fd706a27a2c8d339475f
+        mime: image/jpeg
+        bytes: 46435
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

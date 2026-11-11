@@ -1,0 +1,38 @@
+id: 01G5PPHES34FRVWJGQWE94K8A9
+type: image
+subtype: photo
+title: Sturmschaden 1944
+description: Zu sehen sind Rathaus und Backhaus.
+date: 1944-02
+origin:
+  name: Wilhelm Rieke
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 10/081
+parents:
+  - 01F28VANR68KA52XZKKNMJ33WV
+files:
+  - role: main
+    original_name: foto_8696.jpg
+    path: files/6a/2b/6a2b41c0c5bd5b99639d245bb6e6cecc99c0e0ccf2327397b40dc912caaa30bd/original.jpg
+    sha256: 6a2b41c0c5bd5b99639d245bb6e6cecc99c0e0ccf2327397b40dc912caaa30bd
+    mime: image/jpeg
+    bytes: 27414741
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/6a/2b/6a2b41c0c5bd5b99639d245bb6e6cecc99c0e0ccf2327397b40dc912caaa30bd/preview-400.8c8157ee9f16.jpg
+        sha256: 8c8157ee9f1652efdef299bfbd2fa00175b406fc855198e42e32bef7e7389add
+        mime: image/jpeg
+        bytes: 43715
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,33 @@
+id: 01FQQTJTKG8G820542Y7BKZ4EM
+type: image
+subtype: plan
+title: Bauplan Dorfkrug 1784
+date: 1784-11-21
+location: Gorleben, Schützenhaus
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Dorffest 1784
+    type: event
+parents:
+  - 01G13YFEMZ6M5B1HQ76CM2BWE2
+files:
+  - role: main
+    original_name: scan_775.tif
+    path: files/2f/6c/2f6c1e1f63f626463f7aa1a63c5a06d37bb4aa8c4e7aabeaf58f689715e37bda/original.tif
+    sha256: 2f6c1e1f63f626463f7aa1a63c5a06d37bb4aa8c4e7aabeaf58f689715e37bda
+    mime: image/tiff
+    bytes: 4675444
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/2f/6c/2f6c1e1f63f626463f7aa1a63c5a06d37bb4aa8c4e7aabeaf58f689715e37bda/preview-400.0ee2050d5167.jpg
+        sha256: 0ee2050d5167c32862e8d9027f324c4459dd278eed2487cb450087aa2c60ad5e
+        mime: image/jpeg
+        bytes: 73608
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

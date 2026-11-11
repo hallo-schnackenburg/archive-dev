@@ -1,0 +1,39 @@
+id: 01J739P1ZASM0Z06K7F3AJZPJ6
+type: image
+subtype: photo
+title: Hans Garms, Porträt
+date: 1994-11-09
+location: Rüterberg, Dorfkrug
+origin:
+  name: Brigitte Bohlmann
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Kapern
+    type: place
+  - name: Restorf
+    type: place
+  - name: Pfarrhaus
+    type: building
+parents:
+  - 01F1Q5CD51G9ZH21J5XMQ18G3Z
+files:
+  - role: main
+    original_name: scan_860.tif
+    path: files/0f/8e/0f8e32ae649d56e0b20b8fb2a51b994bd0285b9b95a484d0d7c1d0cd4bac8b79/original.tif
+    sha256: 0f8e32ae649d56e0b20b8fb2a51b994bd0285b9b95a484d0d7c1d0cd4bac8b79
+    mime: image/tiff
+    bytes: 21772205
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/0f/8e/0f8e32ae649d56e0b20b8fb2a51b994bd0285b9b95a484d0d7c1d0cd4bac8b79/preview-400.4827d11fb8fc.jpg
+        sha256: 4827d11fb8fc7495bad1a51043ece3ab8e6f57c35076aa0d015c9df760adad31
+        mime: image/jpeg
+        bytes: 78210
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

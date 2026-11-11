@@ -1,0 +1,31 @@
+id: 01KW2EDWXDB23K06J5P6QASXWD
+type: image
+subtype: plan
+title: Bauplan Rathaus 1879
+date: 1879-04-16
+origin:
+  name: Manfred Tiedemann
+  type: person
+  location: Holtorf
+parents:
+  - 01HXAPP619H88A03THR4YYNB5Y
+files:
+  - role: main
+    original_name: scan_850.tif
+    path: files/d3/fa/d3fac147e106143cb6135dcf20a8fb55c9b04646f83fb962d739899eafea9180/original.tif
+    sha256: d3fac147e106143cb6135dcf20a8fb55c9b04646f83fb962d739899eafea9180
+    mime: image/tiff
+    bytes: 11535671
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d3/fa/d3fac147e106143cb6135dcf20a8fb55c9b04646f83fb962d739899eafea9180/preview-400.beb1c38e6b4e.jpg
+        sha256: beb1c38e6b4efdd07bad6826500b19fc4c7089fe7f5d9d448c8ce22fac1f92cb
+        mime: image/jpeg
+        bytes: 67459
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

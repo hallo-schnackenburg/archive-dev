@@ -1,0 +1,40 @@
+id: 01GF7X10QVV062Q3TJ2G7MF051
+type: image
+subtype: plan
+title: Katasterblatt Voss, Kapern
+description: Tusche auf Transparentpapier.
+date: 1768-12-25
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 40/061
+  note: Regal 1
+parents:
+  - 01KD7CS4EBG51K60J3B74H2VS5
+  - 01H19H3S414JQDJQNW8FAB1631
+files:
+  - role: main
+    original_name: scan_755.tif
+    path: files/05/11/05114a89afab91e14d2ac5d027f6ef2f158ecb5988bf7c855fc90de478dd4e45/original.tif
+    sha256: 05114a89afab91e14d2ac5d027f6ef2f158ecb5988bf7c855fc90de478dd4e45
+    mime: image/tiff
+    bytes: 18978228
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/05/11/05114a89afab91e14d2ac5d027f6ef2f158ecb5988bf7c855fc90de478dd4e45/preview-400.ac2790bfd97e.jpg
+        sha256: ac2790bfd97ede551e1a2c6b1be3e979ea657983b2bf361f214783be08b0f35e
+        mime: image/jpeg
+        bytes: 58706
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

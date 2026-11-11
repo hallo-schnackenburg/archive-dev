@@ -1,0 +1,43 @@
+id: 01GFKK29GKPD43T11ZKNRDMT63
+type: image
+subtype: drawing
+title: Skizze Gorleben, Am Elbdeich
+location: Holtorf, Gartenstraße
+origin:
+  name: Erika Lemke
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 25/049
+subjects:
+  - name: Erntedankfest 1880
+    type: event
+  - name: Wittenberge
+    type: place
+parents:
+  - 01JKQ421K5RBFQ8NV81GBKEPMH
+files:
+  - role: main
+    original_name: scan_749.tif
+    path: files/18/c7/18c7466ed7244adec34d1281555feb931ee9452caf6979443c869f379a43eb4f/original.tif
+    sha256: 18c7466ed7244adec34d1281555feb931ee9452caf6979443c869f379a43eb4f
+    mime: image/tiff
+    bytes: 15878556
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/18/c7/18c7466ed7244adec34d1281555feb931ee9452caf6979443c869f379a43eb4f/preview-400.b730bac62e15.jpg
+        sha256: b730bac62e15d4655c611ae34c7d2458f324887a7b2b23bbd2dbf07124d67048
+        mime: image/jpeg
+        bytes: 64259
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Doppelt vorhanden?

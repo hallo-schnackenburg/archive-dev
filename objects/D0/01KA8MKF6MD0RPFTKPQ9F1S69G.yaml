@@ -1,0 +1,40 @@
+id: 01KA8MKF6MD0RPFTKPQ9F1S69G
+type: image
+subtype: plan
+title: Deichplan Gorleben bis Laase
+description: Maßstab 1:500.
+date: 1926-07-08
+location: Kapern, Kriegerdenkmal
+origin:
+  name: Emma Plate
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F/Album 10/031
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v82971
+parents:
+  - 01GA5Z0DBZAQFYJJA123R8HCJ9
+files:
+  - role: main
+    original_name: scan_438.tif
+    path: files/53/44/534449605b8228c3f935bf89753ede2a7a4175f74e5dfd8d079de2b55764c7be/original.tif
+    sha256: 534449605b8228c3f935bf89753ede2a7a4175f74e5dfd8d079de2b55764c7be
+    mime: image/tiff
+    bytes: 23828238
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/53/44/534449605b8228c3f935bf89753ede2a7a4175f74e5dfd8d079de2b55764c7be/preview-400.fd83d640dd89.jpg
+        sha256: fd83d640dd896f60d184597ee6c7196a0211255a60713218b99e0aba618090d0
+        mime: image/jpeg
+        bytes: 35347
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

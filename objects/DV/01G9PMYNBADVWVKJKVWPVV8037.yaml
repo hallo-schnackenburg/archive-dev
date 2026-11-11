@@ -1,0 +1,64 @@
+id: 01G9PMYNBADVWVKJKVWPVV8037
+type: document
+subtype: letter
+title: Mitteilung aus Holtorf an Familie Schulz
+date: 1873?
+location: Restorf, Dorfschule
+origin:
+  name: Gerda Mahnke
+  type: person
+  location: Gülden
+recipient: Marta Schulz
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 24/074
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+  - name: Gemeindehaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_vv8037_001.tif
+    path: files/da/dd/dadd4f77160613abf96ec1421a1fcf4b626492356d83ad382553d0767d2d734c/original.tif
+    sha256: dadd4f77160613abf96ec1421a1fcf4b626492356d83ad382553d0767d2d734c
+    mime: image/tiff
+    bytes: 6023634
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/dd/dadd4f77160613abf96ec1421a1fcf4b626492356d83ad382553d0767d2d734c/preview-400.340cdb30a00b.jpg
+        sha256: 340cdb30a00b783622c122db835fd2893d880ae39b70c0afdb793d2badb2f55a
+        mime: image/jpeg
+        bytes: 22710
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_vv8037_002.tif
+    path: files/75/b0/75b0c04787a286f66bbf1a899d951f5a8acfeb4c4b125350a2f357183acbeec0/original.tif
+    sha256: 75b0c04787a286f66bbf1a899d951f5a8acfeb4c4b125350a2f357183acbeec0
+    mime: image/tiff
+    bytes: 23200595
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/75/b0/75b0c04787a286f66bbf1a899d951f5a8acfeb4c4b125350a2f357183acbeec0/preview-400.8ce2fb9f628d.jpg
+        sha256: 8ce2fb9f628d368dd75bc6ee2c4ed4577220c9912087c55ab7250c1cd91e886f
+        mime: image/jpeg
+        bytes: 50380
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

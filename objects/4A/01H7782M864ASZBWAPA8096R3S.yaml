@@ -1,0 +1,63 @@
+id: 01H7782M864ASZBWAPA8096R3S
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Brünkendorf 1905
+date: 1905-02-10
+location: Schnackenburg, Kirche St. Johannis
+language: de
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Dömitz
+  reference: Fotos 40/351
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v55328
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Dieter Lemke
+    type: person
+parents:
+  - 01HGWAATSHSQJT69MF82EV6W37
+  - 01K839EZHAYF5H4HB4TXJTTJWF
+files:
+  - role: page
+    num: 1
+    original_name: protocol_096r3s_001.tif
+    path: files/24/ff/24ffe2c356207a6e33fd8e3a853f66fa051dde40a9a4976ba97909f539986ad5/original.tif
+    sha256: 24ffe2c356207a6e33fd8e3a853f66fa051dde40a9a4976ba97909f539986ad5
+    mime: image/tiff
+    bytes: 22059862
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/24/ff/24ffe2c356207a6e33fd8e3a853f66fa051dde40a9a4976ba97909f539986ad5/preview-400.93921948e48a.jpg
+        sha256: 93921948e48a239b6d9291171a69f2684ad56bf2036e52e3bbe4eb7fe46c8574
+        mime: image/jpeg
+        bytes: 50629
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_096r3s_002.tif
+    path: files/90/b9/90b966ddbfcefe8ed6de84a63ecb2ffb881d0b9f669d014b0344d03d8c06faf5/original.tif
+    sha256: 90b966ddbfcefe8ed6de84a63ecb2ffb881d0b9f669d014b0344d03d8c06faf5
+    mime: image/tiff
+    bytes: 25133623
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/90/b9/90b966ddbfcefe8ed6de84a63ecb2ffb881d0b9f669d014b0344d03d8c06faf5/preview-400.e7cc80ef8a00.jpg
+        sha256: e7cc80ef8a006e689f5f0607bed2e08a92120588d98f12a02b88df9c5085db50
+        mime: image/jpeg
+        bytes: 41902
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

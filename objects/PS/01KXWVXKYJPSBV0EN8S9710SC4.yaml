@@ -1,0 +1,43 @@
+id: 01KXWVXKYJPSBV0EN8S9710SC4
+type: image
+subtype: photo
+title: "Jugendfeuerwehr: Gruppenbild Fährjubiläum"
+description: Aufnahme von Heinrich Ludolf.
+date: 1896-11-19
+location: Havelberg, Burgstraße
+geocode:
+  lat: 52.9422
+  lon: 11.6211
+  precision: street
+  source: osm
+origin:
+  name: Karl Wegner
+  type: person
+  location: Wustrow
+subjects:
+  - name: Dorfladen
+    type: building
+  - name: Einweihung 1896
+    type: event
+parents:
+  - 01FZ34PCDWH41HVN2Q034693E1
+files:
+  - role: main
+    original_name: foto_1655.jpg
+    path: files/da/e9/dae9a3c2e3a4a66186e2fd5df705bace24cb6b3fb246942dcc0c1f103051f41f/original.jpg
+    sha256: dae9a3c2e3a4a66186e2fd5df705bace24cb6b3fb246942dcc0c1f103051f41f
+    mime: image/jpeg
+    bytes: 22020484
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/da/e9/dae9a3c2e3a4a66186e2fd5df705bace24cb6b3fb246942dcc0c1f103051f41f/preview-400.cad86cf331a1.jpg
+        sha256: cad86cf331a1b2bbc8ebe6a814b842f42401a80bba326f1265b4aa85906bd9c1
+        mime: image/jpeg
+        bytes: 32791
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01FMB7R4M8HMF59BF6N7QKVVF0
+type: image
+subtype: photo
+title: Fritz Jeß vor dem Badestelle
+date: 1992-06-15
+location: Wustrow, Am Markt
+geocode:
+  lat: 53.0829
+  lon: 11.6228
+  precision: region
+  source: osm
+origin:
+  name: Renate Wegner
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Friedhofskapelle
+    type: building
+  - name: Karl Pape
+    type: person
+  - name: Rüterberg
+    type: place
+parents:
+  - 01EYD0F18CY2V0SS2SY7TJVC0D
+  - 01H46K9BSD0B1AGYJKV43CT13X
+files:
+  - role: main
+    original_name: IMG_7988.jpg
+    path: files/58/d6/58d6dc2ba1dfa05d22952a5c35ab2d4f475613e30fd57076f86e88ac483f16d8/original.jpg
+    sha256: 58d6dc2ba1dfa05d22952a5c35ab2d4f475613e30fd57076f86e88ac483f16d8
+    mime: image/jpeg
+    bytes: 13441723
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/58/d6/58d6dc2ba1dfa05d22952a5c35ab2d4f475613e30fd57076f86e88ac483f16d8/preview-400.e9cba38654c0.jpg
+        sha256: e9cba38654c0f3841c4add7f48e07355eb1756bbbc18504d87f858fa030fb8c7
+        mime: image/jpeg
+        bytes: 59901
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

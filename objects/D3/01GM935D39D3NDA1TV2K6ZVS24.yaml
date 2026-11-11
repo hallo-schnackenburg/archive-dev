@@ -1,0 +1,37 @@
+id: 01GM935D39D3NDA1TV2K6ZVS24
+type: image
+subtype: plan
+title: Bauplan Pumpenhaus 1769
+date: "1769"
+origin:
+  name: Walter Voss
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01HX63HPJQWPA2R8TSS7RY7SQZ
+files:
+  - role: main
+    original_name: scan_815.tif
+    path: files/48/a4/48a4909afcea694eb87591c42d963fe98977988e6d22c0ee48266859ac54b1c2/original.tif
+    sha256: 48a4909afcea694eb87591c42d963fe98977988e6d22c0ee48266859ac54b1c2
+    mime: image/tiff
+    bytes: 24876842
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/48/a4/48a4909afcea694eb87591c42d963fe98977988e6d22c0ee48266859ac54b1c2/preview-400.619918e7caed.jpg
+        sha256: 619918e7caed9805c53ae261d0b03f9adf6853065b1f703c4a664ac51cd46981
+        mime: image/jpeg
+        bytes: 21451
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

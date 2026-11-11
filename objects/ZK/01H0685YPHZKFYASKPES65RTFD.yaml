@@ -1,0 +1,37 @@
+id: 01H0685YPHZKFYASKPES65RTFD
+type: image
+subtype: photo
+title: Bernd Ahrens, Porträt
+date: 1946-07
+location: Gollensdorf, Mühlenweg
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Dömitz
+    type: place
+  - name: Laase
+    type: place
+files:
+  - role: main
+    original_name: scan_551.tif
+    path: files/fc/e4/fce4bf6e15a555866d15fc0a61529b9984a88cc4b3cf753a20b341234ebebb39/original.tif
+    sha256: fce4bf6e15a555866d15fc0a61529b9984a88cc4b3cf753a20b341234ebebb39
+    mime: image/tiff
+    bytes: 17101974
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/e4/fce4bf6e15a555866d15fc0a61529b9984a88cc4b3cf753a20b341234ebebb39/preview-400.535779e718e9.jpg
+        sha256: 535779e718e947b3a80d0ee9beee2f0d59f294a55fd01503af758da2120c2a75
+        mime: image/jpeg
+        bytes: 36687
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01KG6PQ62Y2EFZ2ZNTTHGVA3VR
+type: image
+subtype: plan
+title: Deichplan Hitzacker bis Arendsee, Lanz
+date: 1958-03-02
+location: Salzwedel, Tanzsaal
+geocode:
+  lat: 52.9829
+  lon: 11.4707
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+files:
+  - role: main
+    original_name: scan_556.tif
+    path: files/46/04/4604dc39279f1a119111036a1c28049e807c51a7c2bb387adffe1d16b7c5cf56/original.tif
+    sha256: 4604dc39279f1a119111036a1c28049e807c51a7c2bb387adffe1d16b7c5cf56
+    mime: image/tiff
+    bytes: 460016
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/46/04/4604dc39279f1a119111036a1c28049e807c51a7c2bb387adffe1d16b7c5cf56/preview-400.6835e429e610.jpg
+        sha256: 6835e429e61034b3f321362898dbf7fbbf083ef5fb7b43f08f6ba8cc74514635
+        mime: image/jpeg
+        bytes: 76903
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

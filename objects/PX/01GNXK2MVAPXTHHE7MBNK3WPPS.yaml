@@ -1,0 +1,44 @@
+id: 01GNXK2MVAPXTHHE7MBNK3WPPS
+type: document
+subtype: note
+title: Rechnung Pape, Zollamt
+description: Beleg mit Stempel.
+date: 1905-02-13
+origin:
+  name: Emma Detlefs
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan/Mappe 5/061
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Badestelle
+    type: building
+  - name: Ortsbesichtigung 1905
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_k3wpps_001.tif
+    path: files/75/a4/75a445c32d88345a693755af892d2cee87fd592e8eb7fab4f436ceee58f2516a/original.tif
+    sha256: 75a445c32d88345a693755af892d2cee87fd592e8eb7fab4f436ceee58f2516a
+    mime: image/tiff
+    bytes: 17329960
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/75/a4/75a445c32d88345a693755af892d2cee87fd592e8eb7fab4f436ceee58f2516a/preview-400.cf5db6393e87.jpg
+        sha256: cf5db6393e87786a88f29146e9267f4e6338dec69c8068fa5e8685f7c184b55d
+        mime: image/jpeg
+        bytes: 33432
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

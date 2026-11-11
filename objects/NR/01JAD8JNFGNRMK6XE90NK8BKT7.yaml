@@ -1,0 +1,64 @@
+id: 01JAD8JNFGNRMK6XE90NK8BKT7
+type: document
+subtype: note
+title: Quittung für Rudolf Wiegmann
+description: Beleg mit Stempel.
+date: 1917-12-25
+location: Laase, Gasthof „Zur Elbe“
+geocode:
+  lat: 53.079
+  lon: 11.6356
+  precision: street
+  source: osm
+origin:
+  name: Käthe Dreyer
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Dieter Voss
+    type: person
+  - name: Wittenberge
+    type: place
+  - name: Rathaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_k8bkt7_001.tif
+    path: files/26/2f/262f9fdd0d41514745005e4b5ca6b7e9729f707849a6147f94a09bf4826cdd2b/original.tif
+    sha256: 262f9fdd0d41514745005e4b5ca6b7e9729f707849a6147f94a09bf4826cdd2b
+    mime: image/tiff
+    bytes: 14430747
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/2f/262f9fdd0d41514745005e4b5ca6b7e9729f707849a6147f94a09bf4826cdd2b/preview-400.3787eed69515.jpg
+        sha256: 3787eed69515605b37a2bded89048d7b18d6f6555c0b799242b6d9847f62ad6f
+        mime: image/jpeg
+        bytes: 31597
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_k8bkt7_002.tif
+    path: files/cb/d5/cbd536b44ce2b2718c74749895e8e12fa6aa6efd78eca90cef1e763789fc21c0/original.tif
+    sha256: cbd536b44ce2b2718c74749895e8e12fa6aa6efd78eca90cef1e763789fc21c0
+    mime: image/tiff
+    bytes: 12512039
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cb/d5/cbd536b44ce2b2718c74749895e8e12fa6aa6efd78eca90cef1e763789fc21c0/preview-400.a587ffd9bb68.jpg
+        sha256: a587ffd9bb6878960f1b78a953b0877ad75e914d1de25158eaa2cf24a6e560e0
+        mime: image/jpeg
+        bytes: 73508
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

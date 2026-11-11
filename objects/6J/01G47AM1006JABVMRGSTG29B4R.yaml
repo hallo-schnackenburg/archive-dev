@@ -1,0 +1,44 @@
+id: 01G47AM1006JABVMRGSTG29B4R
+type: image
+subtype: print
+title: Lithographie Windmühle, Dömitz
+description: Postkarte, gelaufen 1925.
+date: 1804-05-02
+location: Holtorf, Elbstraße
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 18/098
+owner:
+  name: Walter Pape
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+  - name: Restorf
+    type: place
+parents:
+  - 01GRNKDHCV8TZCTNMXGJA4SPF6
+files:
+  - role: main
+    original_name: scan_657.tif
+    path: files/03/b7/03b77951031148d31538b1740fa0e0922c9cb59431968f4fdf87aacca469fb81/original.tif
+    sha256: 03b77951031148d31538b1740fa0e0922c9cb59431968f4fdf87aacca469fb81
+    mime: image/tiff
+    bytes: 12048879
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/03/b7/03b77951031148d31538b1740fa0e0922c9cb59431968f4fdf87aacca469fb81/preview-400.4e84af519e5a.jpg
+        sha256: 4e84af519e5a73593b2bc79888615ec4bd737031159a32c29958e4a66d0ac1ec
+        mime: image/jpeg
+        bytes: 85333
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

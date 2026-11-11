@@ -1,0 +1,37 @@
+id: 01HH0E6BPEM60RSJ2SJ0GY7WG0
+type: image
+subtype: plan
+title: Deichplan Bömenzien bis Rüterberg
+date: "1785"
+location: Wustrow, Dorfkrug
+origin:
+  name: Hermann Jeß
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Wilhelm Schulz
+    type: person
+  - name: Salzwedel
+    type: place
+  - name: Kegelbahn
+    type: building
+files:
+  - role: main
+    original_name: scan_166.tif
+    path: files/31/17/3117ef7812dc306e34e244b8cc54a5785ad7e59161becb1975250e59c91b6bf7/original.tif
+    sha256: 3117ef7812dc306e34e244b8cc54a5785ad7e59161becb1975250e59c91b6bf7
+    mime: image/tiff
+    bytes: 6578391
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/31/17/3117ef7812dc306e34e244b8cc54a5785ad7e59161becb1975250e59c91b6bf7/preview-400.175c1ac5cced.jpg
+        sha256: 175c1ac5cced3be03fbe31367357c864b7c36d88afa6aea8c0215206cb7a77dd
+        mime: image/jpeg
+        bytes: 23459
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

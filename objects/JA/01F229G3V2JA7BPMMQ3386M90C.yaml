@@ -1,0 +1,57 @@
+id: 01F229G3V2JA7BPMMQ3386M90C
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Theatergruppe 1987
+date: 1987-05-04
+location: Nienwalde, Bahnhofstraße
+origin:
+  name: Feuerwehrausschuss Gollensdorf
+  type: business
+  location: Wootz
+language: de
+subjects:
+  - name: Ziegelei
+    type: building
+parents:
+  - 01J3V1AMRN38DQVKPXPMF1EE94
+files:
+  - role: page
+    num: 1
+    original_name: protocol_86m90c_001.tif
+    path: files/02/e7/02e762ef1cde9a2fbb1276764031115143d5012b0c2c4e0a0270cb7ad118f32f/original.tif
+    sha256: 02e762ef1cde9a2fbb1276764031115143d5012b0c2c4e0a0270cb7ad118f32f
+    mime: image/tiff
+    bytes: 23427345
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/e7/02e762ef1cde9a2fbb1276764031115143d5012b0c2c4e0a0270cb7ad118f32f/preview-400.6e51c74e1840.jpg
+        sha256: 6e51c74e1840421ecf4e62302b04639f1a050ed07f5ec8c8ae22f72beea7d4f7
+        mime: image/jpeg
+        bytes: 27155
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_86m90c_002.tif
+    path: files/df/64/df64d3570de39a61f7ceeaf7c7622ce0e4815ed999f0b252fe0504c00e4b74fc/original.tif
+    sha256: df64d3570de39a61f7ceeaf7c7622ce0e4815ed999f0b252fe0504c00e4b74fc
+    mime: image/tiff
+    bytes: 10580743
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/df/64/df64d3570de39a61f7ceeaf7c7622ce0e4815ed999f0b252fe0504c00e4b74fc/preview-400.e593b00eb448.jpg
+        sha256: e593b00eb448fceb0983f2b6142d1af3ec4d944f0d99af21c05232d4a84c7300
+        mime: image/jpeg
+        bytes: 86984
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

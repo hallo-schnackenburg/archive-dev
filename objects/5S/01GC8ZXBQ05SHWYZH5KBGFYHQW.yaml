@@ -1,0 +1,38 @@
+id: 01GC8ZXBQ05SHWYZH5KBGFYHQW
+type: image
+subtype: print
+title: Postkarte Gorleben, Tanzsaal
+date: "1917"
+origin:
+  name: Klaus Lenz
+  type: person
+  location: Wootz
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Viehmarkt 1917
+    type: event
+  - name: Bahnhof
+    type: building
+parents:
+  - 01GGFA4BRHTCBTSYCZDK78S61J
+files:
+  - role: main
+    original_name: scan_607.tif
+    path: files/a6/05/a6054fc61a33ad3b7d62fca54311ba716b260fdfe5b6c564b6b57f05d9b9b03c/original.tif
+    sha256: a6054fc61a33ad3b7d62fca54311ba716b260fdfe5b6c564b6b57f05d9b9b03c
+    mime: image/tiff
+    bytes: 16987774
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a6/05/a6054fc61a33ad3b7d62fca54311ba716b260fdfe5b6c564b6b57f05d9b9b03c/preview-400.0ffe96dc895a.jpg
+        sha256: 0ffe96dc895a6f2ee87ec2835d0f30ecc7d5e4e83660131421a027d7542e74bc
+        mime: image/jpeg
+        bytes: 80687
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

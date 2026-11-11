@@ -1,0 +1,35 @@
+id: 01KNRAT56627Z6VTPRPJA3RAKE
+type: image
+subtype: plan
+title: Grundriss Tischlerei Bruns
+description: Mit handschriftlichen Ergänzungen.
+date: 1990/1991
+origin:
+  name: Erika Brandt
+  type: person
+  location: Lenzen
+subjects:
+  - name: Wilhelm Krüger
+    type: person
+  - name: Heuberge
+    type: building
+files:
+  - role: main
+    original_name: scan_261.tif
+    path: files/a9/93/a993c114a493d494e693779e9893926e434dc1423399f3bf52eb75a27132e560/original.tif
+    sha256: a993c114a493d494e693779e9893926e434dc1423399f3bf52eb75a27132e560
+    mime: image/tiff
+    bytes: 13526289
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a9/93/a993c114a493d494e693779e9893926e434dc1423399f3bf52eb75a27132e560/preview-400.c235c61cf055.jpg
+        sha256: c235c61cf05554828679b05d3d710854ba6fb9ec576fae496238bc96c255bda8
+        mime: image/jpeg
+        bytes: 36093
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

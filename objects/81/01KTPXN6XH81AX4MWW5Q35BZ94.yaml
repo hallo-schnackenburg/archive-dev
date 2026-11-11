@@ -1,0 +1,38 @@
+id: 01KTPXN6XH81AX4MWW5Q35BZ94
+type: image
+subtype: plan
+title: Lageplan Grenzturm, Lenzen
+description: Tusche auf Transparentpapier.
+date: 1787-12-11
+origin:
+  name: August Wiegmann
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Wootz
+  reference: F 32/203
+parents:
+  - 01FVQ4AW5WXFEF57BN5S1PKQ3J
+files:
+  - role: main
+    original_name: scan_672.tif
+    path: files/46/a8/46a877cbdeac8522675e5db5c5996741dce1e2feb674a91b02ce371e8d2b222a/original.tif
+    sha256: 46a877cbdeac8522675e5db5c5996741dce1e2feb674a91b02ce371e8d2b222a
+    mime: image/tiff
+    bytes: 5766242
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/46/a8/46a877cbdeac8522675e5db5c5996741dce1e2feb674a91b02ce371e8d2b222a/preview-400.3c3d5fec616a.jpg
+        sha256: 3c3d5fec616a139196508ed7b7fc2290cfa02e929d9dce8e6845e60f8fb4546d
+        mime: image/jpeg
+        bytes: 22090
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

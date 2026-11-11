@@ -1,0 +1,46 @@
+id: 01JDTXGW2YBQX6KW2A4V79A5V5
+type: image
+subtype: plan
+title: Bauplan Tanzsaal 1766
+description: Mit handschriftlichen Ergänzungen.
+date: 1766-02
+location: Bömenzien, Fährstraße
+geocode:
+  lat: 53.0399
+  lon: 11.5597
+  precision: region
+  source: osm
+origin:
+  name: Karl Garms
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok/Album 5/017
+  note: Planschrank, Fach 3
+subjects:
+  - name: Mühle
+    type: building
+files:
+  - role: main
+    original_name: scan_041.tif
+    path: files/e5/74/e574ffef3f39d220637af1e72f0ef8ce6ce6bc16f3ae3b21ecb4912cc2e90daa/original.tif
+    sha256: e574ffef3f39d220637af1e72f0ef8ce6ce6bc16f3ae3b21ecb4912cc2e90daa
+    mime: image/tiff
+    bytes: 5807317
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e5/74/e574ffef3f39d220637af1e72f0ef8ce6ce6bc16f3ae3b21ecb4912cc2e90daa/preview-400.5bfbbb6d5b6f.jpg
+        sha256: 5bfbbb6d5b6f9d5ff862051dd504398741ccf29c5dfdc84399e1dbc89f20b7d2
+        mime: image/jpeg
+        bytes: 41876
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

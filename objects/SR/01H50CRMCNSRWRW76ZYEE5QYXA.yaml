@@ -1,0 +1,65 @@
+id: 01H50CRMCNSRWRW76ZYEE5QYXA
+type: document
+subtype: note
+title: Rechnung Krüger, Tischlerei Bruns
+description: Beleg mit Stempel.
+date: 1896-12-10
+location: Lanz, Grenzturm
+language: de
+original:
+  holder:
+    name: Familie Garms
+    type: person
+    location: Lenzen
+  reference: Slg/Mappe 26/087
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Zollamt
+    type: building
+parents:
+  - 01KCPF76CA7S8G3CA0KXJVYAVA
+  - 01FMSWW1KHV9FY1HEET6SN2P21
+files:
+  - role: page
+    num: 1
+    original_name: note_e5qyxa_001.tif
+    path: files/01/d2/01d2d7cb6fc0e7511ac3069ccac2e15793931a6b1182b73a73874601e26eb239/original.tif
+    sha256: 01d2d7cb6fc0e7511ac3069ccac2e15793931a6b1182b73a73874601e26eb239
+    mime: image/tiff
+    bytes: 1483043
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/d2/01d2d7cb6fc0e7511ac3069ccac2e15793931a6b1182b73a73874601e26eb239/preview-400.6c16c4c73d62.jpg
+        sha256: 6c16c4c73d62a44de86d451a3f01a1e73537d5c4c6d2f8e1aef8ffef2347f8ce
+        mime: image/jpeg
+        bytes: 66373
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_e5qyxa_002.tif
+    path: files/a8/cb/a8cb08688022eebd8a95ccf52c7e45a70072bc595ce62c10d19c388ad8f9652e/original.tif
+    sha256: a8cb08688022eebd8a95ccf52c7e45a70072bc595ce62c10d19c388ad8f9652e
+    mime: image/tiff
+    bytes: 6164630
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a8/cb/a8cb08688022eebd8a95ccf52c7e45a70072bc595ce62c10d19c388ad8f9652e/preview-400.bdcf6ab442b2.jpg
+        sha256: bdcf6ab442b2f8060b2300422916c108001194a698b1d84e15bcc61152f10bb8
+        mime: image/jpeg
+        bytes: 64918
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

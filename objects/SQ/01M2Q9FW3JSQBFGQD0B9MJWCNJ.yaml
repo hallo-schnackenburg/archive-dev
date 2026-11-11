@@ -1,0 +1,46 @@
+id: 01M2Q9FW3JSQBFGQD0B9MJWCNJ
+type: image
+subtype: photo
+title: Elbdeich in Brünkendorf
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Lenzen, Mühle
+origin:
+  name: Berta Prieß
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 11/049
+subjects:
+  - name: Grenzöffnung 1903
+    type: event
+  - name: Maifeier 1903
+    type: event
+  - name: Lanz
+    type: place
+parents:
+  - 01J2MAW622CTKQ3RF50GE3CC82
+  - 01HSFT2Q2FD2XQC16T903QVHSK
+files:
+  - role: main
+    original_name: IMG_4007.jpg
+    path: files/58/65/58656cb4ff5042f9d8902b8393f0eeae55484871a70b9f4d930e2a7843499c6f/original.jpg
+    sha256: 58656cb4ff5042f9d8902b8393f0eeae55484871a70b9f4d930e2a7843499c6f
+    mime: image/jpeg
+    bytes: 15554181
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/58/65/58656cb4ff5042f9d8902b8393f0eeae55484871a70b9f4d930e2a7843499c6f/preview-400.f438649b459b.jpg
+        sha256: f438649b459b7f7509f19f03a9985625498f183b69636e3ec6dad37b97852b8c
+        mime: image/jpeg
+        bytes: 62760
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

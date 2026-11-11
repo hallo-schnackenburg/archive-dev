@@ -1,0 +1,58 @@
+id: 01FTGEH0ZQ9WEDZ5Y3MDQFHB02
+type: document
+subtype: letter
+title: Feldpostbrief von Brigitte Bohlmann
+description: Mit Umschlag und Briefmarke.
+origin:
+  name: Brigitte Burmester
+  type: person
+  location: Gartow
+recipient: Karl Bohlmann
+language: de
+original:
+  holder:
+    name: Familie Harms
+    type: person
+    location: Gollensdorf
+  reference: F/Mappe 18/109
+files:
+  - role: page
+    num: 1
+    original_name: letter_qfhb02_001.tif
+    path: files/f0/80/f080c35c438d72ac75ce73a4382bab57436eabba4faa397493284c237998ffb1/original.tif
+    sha256: f080c35c438d72ac75ce73a4382bab57436eabba4faa397493284c237998ffb1
+    mime: image/tiff
+    bytes: 17981325
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/80/f080c35c438d72ac75ce73a4382bab57436eabba4faa397493284c237998ffb1/preview-400.4c6aae249f8c.jpg
+        sha256: 4c6aae249f8cdaeb00d33b98c23730f196e174aa04f5b7a9103519ca89bc5571
+        mime: image/jpeg
+        bytes: 51229
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_qfhb02_002.tif
+    path: files/17/0b/170b4208dbcf03b1c51655c3462cfc68a8cae45798c0ff0a3d8e1c129fd46e55/original.tif
+    sha256: 170b4208dbcf03b1c51655c3462cfc68a8cae45798c0ff0a3d8e1c129fd46e55
+    mime: image/tiff
+    bytes: 6888814
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/17/0b/170b4208dbcf03b1c51655c3462cfc68a8cae45798c0ff0a3d8e1c129fd46e55/preview-400.af9a04644172.jpg
+        sha256: af9a04644172f1819204b36a26e59eec31bf2f969692949794c48b22448afe2b
+        mime: image/jpeg
+        bytes: 69433
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

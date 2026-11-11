@@ -1,0 +1,41 @@
+id: 01HWAZZXWC5MB27E588K0QEHR8
+type: image
+subtype: drawing
+title: Wappenentwurf Seedorf, Pretzier
+description: Mit Anmerkungen am Rand.
+date: 1847-07-24
+location: Havelberg, Heuberge
+geocode:
+  lat: 52.9324
+  lon: 11.4564
+  precision: street
+  source: osm
+owner:
+  name: Karl Meyer
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Rathaus
+    type: building
+parents:
+  - 01G996YXACFHKB4DAGY313MZ7B
+files:
+  - role: main
+    original_name: scan_623.tif
+    path: files/e4/e7/e4e716fd274b3a81b5a0a6788fc69ad3695b6703f186f35607b642ad2ae147cb/original.tif
+    sha256: e4e716fd274b3a81b5a0a6788fc69ad3695b6703f186f35607b642ad2ae147cb
+    mime: image/tiff
+    bytes: 27019683
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e4/e7/e4e716fd274b3a81b5a0a6788fc69ad3695b6703f186f35607b642ad2ae147cb/preview-400.9eccb18db25e.jpg
+        sha256: 9eccb18db25e4995d3a4341194dc8dbb16571d2fc9eaa1ce5a757de66bce94fb
+        mime: image/jpeg
+        bytes: 77991
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,57 @@
+id: 01H1GWZG99W4P9XB55WGGMYZ47
+type: document
+subtype: note
+title: Aktennotiz Bauausschuss
+date: 186X
+location: Seedorf, Gartenstraße
+origin:
+  name: Ernst Kuhlmann
+  type: person
+  location: Seedorf
+language: de
+subjects:
+  - name: Kindergartenfest 1869
+    type: event
+  - name: Gollensdorf
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_gmyz47_001.tif
+    path: files/0b/bf/0bbfd70dcd2f600965d120df9b1c9ed25542a2ade3314f284339754d4c7a6f2d/original.tif
+    sha256: 0bbfd70dcd2f600965d120df9b1c9ed25542a2ade3314f284339754d4c7a6f2d
+    mime: image/tiff
+    bytes: 16272596
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0b/bf/0bbfd70dcd2f600965d120df9b1c9ed25542a2ade3314f284339754d4c7a6f2d/preview-400.9792369081d5.jpg
+        sha256: 9792369081d5309eb82ea136c34bc974b69e49dadfe4116abe5a151619c8654b
+        mime: image/jpeg
+        bytes: 88809
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_gmyz47_002.tif
+    path: files/00/26/0026febeba952fac3c4eeea7e12c2d57e0f4b8cf392055282d06c8b7585df744/original.tif
+    sha256: 0026febeba952fac3c4eeea7e12c2d57e0f4b8cf392055282d06c8b7585df744
+    mime: image/tiff
+    bytes: 1210536
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/00/26/0026febeba952fac3c4eeea7e12c2d57e0f4b8cf392055282d06c8b7585df744/preview-400.a9ac6ddfbcfd.jpg
+        sha256: a9ac6ddfbcfd9c607d0760be70671745da6544f1070c4d15c182cd678c55317c
+        mime: image/jpeg
+        bytes: 50691
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,32 @@
+id: 01FPCFA819XCVGB6V1XYGY8QGP
+type: image
+subtype: plan
+title: Grundriss Zollamt, Bömenzien
+description: Maßstab 1:2500.
+date: 1787-09
+owner:
+  name: Erika Quast
+  type: person
+  note: Dauerleihgabe
+parents:
+  - 01JGSEJ488A7DZQPFCQNBYWMJ1
+files:
+  - role: main
+    original_name: scan_232.tif
+    path: files/e0/d5/e0d55b688e688431ff352111806ca8f8b3d7759a2dcc732ab39e9e4e58316217/original.tif
+    sha256: e0d55b688e688431ff352111806ca8f8b3d7759a2dcc732ab39e9e4e58316217
+    mime: image/tiff
+    bytes: 16046847
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e0/d5/e0d55b688e688431ff352111806ca8f8b3d7759a2dcc732ab39e9e4e58316217/preview-400.2fb72fc4e043.jpg
+        sha256: 2fb72fc4e0437a576d3dd1aee30acc676e0d95de1a80576e9a0bbe32877eb7ab
+        mime: image/jpeg
+        bytes: 54003
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

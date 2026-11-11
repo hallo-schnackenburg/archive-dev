@@ -1,0 +1,61 @@
+id: 01FWEYJDBV0F1ZP0JJ7CAJM9QA
+type: document
+subtype: note
+title: Rechnung Quast, Heuberge
+description: Auf der Rückseite eines Formulars.
+date: 1939-06
+location: Havelberg, Am Markt
+origin:
+  name: Paul Eggers
+  type: person
+  location: Restorf
+subjects:
+  - name: Heinrich Rohde
+    type: person
+  - name: Heinrich Meyer
+    type: person
+  - name: Helga Ahrens
+    type: person
+parents:
+  - 01KGBXSKRT00YBVNJ684TQMH5V
+files:
+  - role: page
+    num: 1
+    original_name: note_ajm9qa_001.tif
+    path: files/72/eb/72eb26db5fb10864bb794d93c7616e5342c7fa488ec4b64391b3b32c8fd40e8d/original.tif
+    sha256: 72eb26db5fb10864bb794d93c7616e5342c7fa488ec4b64391b3b32c8fd40e8d
+    mime: image/tiff
+    bytes: 15230423
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/72/eb/72eb26db5fb10864bb794d93c7616e5342c7fa488ec4b64391b3b32c8fd40e8d/preview-400.b7dac9cc929a.jpg
+        sha256: b7dac9cc929aaa15b2caad3f19fd341a94e8ad25ace9ab515771a4ba7bb91c44
+        mime: image/jpeg
+        bytes: 61616
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_ajm9qa_002.tif
+    path: files/01/55/01558a931431691b73e664e9611cd27a46a1eb582338319014eb25245ef5de44/original.tif
+    sha256: 01558a931431691b73e664e9611cd27a46a1eb582338319014eb25245ef5de44
+    mime: image/tiff
+    bytes: 8952315
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/55/01558a931431691b73e664e9611cd27a46a1eb582338319014eb25245ef5de44/preview-400.65d63e17df65.jpg
+        sha256: 65d63e17df65f1b5b02efe0e8aec48fcff01cd463bde05c7047f64481b40455a
+        mime: image/jpeg
+        bytes: 79644
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

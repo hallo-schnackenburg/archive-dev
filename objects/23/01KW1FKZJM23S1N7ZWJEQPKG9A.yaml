@@ -1,0 +1,42 @@
+id: 01KW1FKZJM23S1N7ZWJEQPKG9A
+type: image
+subtype: photo
+title: Apotheke nach dem Erntedankfest
+description: Farbfoto, leicht verblasst.
+location: Seedorf, Hinter den Höfen
+geocode:
+  lat: 53.0094
+  lon: 11.6712
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok/Kasten 25/009
+subjects:
+  - name: Konfirmation 1984
+    type: event
+  - name: Brünkendorf
+    type: place
+files:
+  - role: main
+    original_name: foto_0279.jpg
+    path: files/9e/6d/9e6db676aa92fe10a6ca06847210d0f75de2170d5bceb3f3ff5683cb66e92de7/original.jpg
+    sha256: 9e6db676aa92fe10a6ca06847210d0f75de2170d5bceb3f3ff5683cb66e92de7
+    mime: image/jpeg
+    bytes: 6869593
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/9e/6d/9e6db676aa92fe10a6ca06847210d0f75de2170d5bceb3f3ff5683cb66e92de7/preview-400.3fca42b271f0.jpg
+        sha256: 3fca42b271f07ad7743e9b8330f34e3670163237df6572337d869ea3dcec6081
+        mime: image/jpeg
+        bytes: 65823
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

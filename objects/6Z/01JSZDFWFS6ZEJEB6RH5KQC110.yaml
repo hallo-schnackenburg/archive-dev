@@ -1,0 +1,41 @@
+id: 01JSZDFWFS6ZEJEB6RH5KQC110
+type: image
+subtype: drawing
+title: Skizze Arendsee, Schulstraße
+description: Bleistift auf Papier.
+date: "1930"
+location: Gartow, Marktstraße
+origin:
+  name: Heinrich Hartwig
+  type: person
+  location: Brünkendorf
+owner:
+  name: Dieter Voss
+  type: person
+  note: Nachlass
+subjects:
+  - name: Lanz
+    type: place
+parents:
+  - 01G5R1162DAMHHJWCJ6KKBZX71
+  - 01JAT6399B3E9Z9P00A12BJSFT
+files:
+  - role: main
+    original_name: scan_188.tif
+    path: files/10/bc/10bc5398d9e060da4275eea4351552885a4b417ba8c1f9e608192226421c0473/original.tif
+    sha256: 10bc5398d9e060da4275eea4351552885a4b417ba8c1f9e608192226421c0473
+    mime: image/tiff
+    bytes: 11225033
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/10/bc/10bc5398d9e060da4275eea4351552885a4b417ba8c1f9e608192226421c0473/preview-400.9d653c776ca8.jpg
+        sha256: 9d653c776ca8524edc488235cbda7cd857075e7d24825272b00d97e571755d6b
+        mime: image/jpeg
+        bytes: 25279
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

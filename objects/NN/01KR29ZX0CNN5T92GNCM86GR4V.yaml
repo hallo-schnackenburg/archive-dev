@@ -1,0 +1,36 @@
+id: 01KR29ZX0CNN5T92GNCM86GR4V
+type: image
+subtype: plan
+title: Grundriss Fähranleger, Laase
+date: "1825"
+origin:
+  name: Manfred Lenz
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Familie Brandt
+    type: person
+    location: Hitzacker
+parents:
+  - 01G71PJ0VK24HFH5RX1917VY6A
+files:
+  - role: main
+    original_name: scan_812.tif
+    path: files/f1/c6/f1c6fcbe080cc2b2f5b2110304d4074713dbd5ca8f7bf03dc56a2036d551a9d5/original.tif
+    sha256: f1c6fcbe080cc2b2f5b2110304d4074713dbd5ca8f7bf03dc56a2036d551a9d5
+    mime: image/tiff
+    bytes: 567547
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f1/c6/f1c6fcbe080cc2b2f5b2110304d4074713dbd5ca8f7bf03dc56a2036d551a9d5/preview-400.f801982b92f0.jpg
+        sha256: f801982b92f0b516a17defaf83807648f78312a11fc308e4c896ccfc868bc62d
+        mime: image/jpeg
+        bytes: 52864
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

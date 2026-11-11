@@ -1,0 +1,41 @@
+id: 01GVTQ5QDT8BR4MEZ7Z56EKMTZ
+type: image
+subtype: photo
+title: Elbdeich nach dem Fastnacht
+description: Abzug im Format 10 x 15 cm.
+date: 1958-05
+location: Lenzen, Schlachterei
+geocode:
+  lat: 52.9976
+  lon: 11.4548
+  precision: street
+  source: osm
+origin:
+  name: Heinrich Sievers
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Grenzturm
+    type: building
+parents:
+  - 01HJMR4YWKHDFKNS8WPV4XDY2Z
+files:
+  - role: main
+    original_name: IMG_6634.jpg
+    path: files/a0/17/a017d9f90572a7890d365ef4a6267467c9ad199cb16c517ff17143e4e8f8a8bd/original.jpg
+    sha256: a017d9f90572a7890d365ef4a6267467c9ad199cb16c517ff17143e4e8f8a8bd
+    mime: image/jpeg
+    bytes: 2734079
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/a0/17/a017d9f90572a7890d365ef4a6267467c9ad199cb16c517ff17143e4e8f8a8bd/preview-400.8e7fa4c04d0c.jpg
+        sha256: 8e7fa4c04d0c2dd652ecc30bd113493d38944feee4ce857d9769617ccaf48e0e
+        mime: image/jpeg
+        bytes: 80902
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

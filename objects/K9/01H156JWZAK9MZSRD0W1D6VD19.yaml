@@ -1,0 +1,33 @@
+id: 01H156JWZAK9MZSRD0W1D6VD19
+type: image
+subtype: photo
+title: Blick vom Speicher auf das Tanzsaal
+description: Abzug im Format 6 x 9 cm.
+location: Cumlosen, Am Elbdeich
+geocode:
+  lat: 52.9025
+  lon: 11.6269
+  precision: exact
+  source: osm
+parents:
+  - 01KTYRCAK48GPD0VE0FWRMS98S
+files:
+  - role: main
+    original_name: foto_1021.jpg
+    path: files/b4/b9/b4b92d2f50bdc5350c786a79f6ac76a71bf56e2543e5645d73646f79e9c15dfa/original.jpg
+    sha256: b4b92d2f50bdc5350c786a79f6ac76a71bf56e2543e5645d73646f79e9c15dfa
+    mime: image/jpeg
+    bytes: 6244447
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/b4/b9/b4b92d2f50bdc5350c786a79f6ac76a71bf56e2543e5645d73646f79e9c15dfa/preview-400.5c60ae47b347.jpg
+        sha256: 5c60ae47b347f86b2f994cf93969b5a9cec020a5b6e2ca46c67237d462f0bede
+        mime: image/jpeg
+        bytes: 85159
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

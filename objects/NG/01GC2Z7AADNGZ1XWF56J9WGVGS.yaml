@@ -1,0 +1,31 @@
+id: 01GC2Z7AADNGZ1XWF56J9WGVGS
+type: image
+subtype: plan
+title: Bauplan Gärtnerei 1776
+location: Wootz, Friedhofskapelle
+origin:
+  name: Dieter Pape
+  type: person
+  location: Zadrau
+parents:
+  - 01F5GRETGD87YBWEF5TGR1E25C
+files:
+  - role: main
+    original_name: scan_341.tif
+    path: files/0e/15/0e156ecc00627732cbac6d0d5d10e01b056b009fdc30c4b50f0a583675e86a27/original.tif
+    sha256: 0e156ecc00627732cbac6d0d5d10e01b056b009fdc30c4b50f0a583675e86a27
+    mime: image/tiff
+    bytes: 18575563
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/0e/15/0e156ecc00627732cbac6d0d5d10e01b056b009fdc30c4b50f0a583675e86a27/preview-400.3e6d3c57ca7e.jpg
+        sha256: 3e6d3c57ca7ef844320a75262d49c0623a5484bc84edbab866958380bd14b7e3
+        mime: image/jpeg
+        bytes: 86425
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

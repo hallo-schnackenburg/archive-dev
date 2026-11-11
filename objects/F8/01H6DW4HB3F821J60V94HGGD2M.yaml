@@ -1,0 +1,41 @@
+id: 01H6DW4HB3F821J60V94HGGD2M
+type: document
+subtype: note
+title: Kassenzettel Dorfladen
+description: Beleg mit Stempel.
+location: Gülden, Gartenstraße
+geocode:
+  lat: 53.0625
+  lon: 11.4925
+  precision: region
+  source: osm
+origin:
+  name: Karl Schwarz
+  type: person
+  location: Nienwalde
+language: de
+original:
+  holder:
+    name: Familie Voss
+    type: person
+    location: Pretzier
+  reference: Plan 19/007
+  note: Planschrank, Fach 3
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Wilhelm Sievers
+    type: person
+  - name: Dorfkrug
+    type: building
+storage: external
+external:
+  - type: website
+    site: Heimatverein Gartow
+    uri: https://heimatverein-gartow.example.org/objekt/689361
+    retrieved: 2026-11-28
+  - type: archive
+    site: Bundesarchiv
+    uri: https://bundesarchiv.example.org/objekt/266953
+    reference: Hann. 95 Nr. 2265
+notes: Person links unbekannt.

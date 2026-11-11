@@ -1,0 +1,67 @@
+id: 01H99XAZ3TBQRSD9WM7R4XWM24
+type: document
+subtype: note
+title: Rechnung Ludolf, Fachwerkhaus Marktstraße 4
+date: 1937-08-24
+location: Gülden, Poststelle
+geocode:
+  lat: 53.0551
+  lon: 11.61
+  precision: exact
+  source: osm
+origin:
+  name: Hans Matthies
+  type: person
+  location: Pretzier
+language: de
+subjects:
+  - name: Fähranleger
+    type: building
+  - name: Seedorf
+    type: place
+  - name: Käthe Neumann
+    type: person
+parents:
+  - 01GFYCYYAZQZW68R0ZQ0RJFGD8
+  - 01KSS5WSKYD8DQE3452TFH91F6
+files:
+  - role: page
+    num: 1
+    original_name: note_4xwm24_001.tif
+    path: files/dc/e8/dce808d79a2f512e20243c7cc9a2230a6e8c832738d5f1cd589a8dbcafa38065/original.tif
+    sha256: dce808d79a2f512e20243c7cc9a2230a6e8c832738d5f1cd589a8dbcafa38065
+    mime: image/tiff
+    bytes: 20062031
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/e8/dce808d79a2f512e20243c7cc9a2230a6e8c832738d5f1cd589a8dbcafa38065/preview-400.1cc77a977a42.jpg
+        sha256: 1cc77a977a427ef3dd55b248c5744ec3979252b8753b7363814a7b5870794af6
+        mime: image/jpeg
+        bytes: 56418
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_4xwm24_002.tif
+    path: files/76/d6/76d65048e6d76efe5964a56ce90ba7f5e7be32c322854c85a774ec112b0d0a91/original.tif
+    sha256: 76d65048e6d76efe5964a56ce90ba7f5e7be32c322854c85a774ec112b0d0a91
+    mime: image/tiff
+    bytes: 25549680
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/76/d6/76d65048e6d76efe5964a56ce90ba7f5e7be32c322854c85a774ec112b0d0a91/preview-400.a1a5600d9c8c.jpg
+        sha256: a1a5600d9c8c1d1cad3b6fa1dbafe6b85ed05e3c403d0b5f501b171ec701c740
+        mime: image/jpeg
+        bytes: 67329
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01FMWRZ7PEVEC4WX8GC1TREMRD
+type: image
+subtype: plan
+title: Bauplan Wassermühle 1960
+date: 1960?
+location: Pretzier, Deichstraße
+origin:
+  name: Karl Lemke
+  type: person
+  location: Arendsee
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Viehmarkt 1960
+    type: event
+  - name: Schlachtfest 1960
+    type: event
+parents:
+  - 01JZ3SNACCNPC796843QWD7KHP
+files:
+  - role: main
+    original_name: scan_663.tif
+    path: files/66/fd/66fdeafa67773f969999177440e51c053bf60394f9b0a819eeacec3a849b90b5/original.tif
+    sha256: 66fdeafa67773f969999177440e51c053bf60394f9b0a819eeacec3a849b90b5
+    mime: image/tiff
+    bytes: 6076294
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/66/fd/66fdeafa67773f969999177440e51c053bf60394f9b0a819eeacec3a849b90b5/preview-400.2d11f66d7795.jpg
+        sha256: 2d11f66d77955944131e4d7a413c301816a5481bdecded25920874517501a9ef
+        mime: image/jpeg
+        bytes: 52316
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

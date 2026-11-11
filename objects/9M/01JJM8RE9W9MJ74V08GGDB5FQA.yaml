@@ -1,0 +1,37 @@
+id: 01JJM8RE9W9MJ74V08GGDB5FQA
+type: image
+subtype: plan
+title: Bauplan Schützenhaus 1880
+description: Tusche auf Transparentpapier.
+date: "1880"
+origin:
+  name: Erika Ahrens
+  type: person
+  location: Zadrau
+subjects:
+  - name: Wootz
+    type: place
+  - name: Hermann Voss
+    type: person
+  - name: Arendsee
+    type: place
+files:
+  - role: main
+    original_name: scan_092.tif
+    path: files/e2/a5/e2a577cd30bd498426c4b1854a1ac54e7f3efd6c907f6fef4a964c2e6f45bf90/original.tif
+    sha256: e2a577cd30bd498426c4b1854a1ac54e7f3efd6c907f6fef4a964c2e6f45bf90
+    mime: image/tiff
+    bytes: 5675458
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e2/a5/e2a577cd30bd498426c4b1854a1ac54e7f3efd6c907f6fef4a964c2e6f45bf90/preview-400.1fab34e9af51.jpg
+        sha256: 1fab34e9af51f9fe86fb14be2e15e1ea8cde6f589ea29cc22f71febcc697ce50
+        mime: image/jpeg
+        bytes: 69818
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01K8SS9XHR48S9FD8XC28QK3TR
+type: image
+subtype: print
+title: Postkarte Wustrow, Försterei
+date: 1947-11-14
+origin:
+  name: Otto Lemke
+  type: person
+  location: Wustrow
+subjects:
+  - name: Hafen
+    type: building
+  - name: Dieter Lindemann
+    type: person
+  - name: Rudolf Nitschke
+    type: person
+parents:
+  - 01JZ3SNACCNPC796843QWD7KHP
+files:
+  - role: main
+    original_name: scan_410.tif
+    path: files/e3/fc/e3fc9859dace2bbfb129da76741ef036afdcacad59026ece097619fa0babd65f/original.tif
+    sha256: e3fc9859dace2bbfb129da76741ef036afdcacad59026ece097619fa0babd65f
+    mime: image/tiff
+    bytes: 23401994
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e3/fc/e3fc9859dace2bbfb129da76741ef036afdcacad59026ece097619fa0babd65f/preview-400.3e438c3aa0bf.jpg
+        sha256: 3e438c3aa0bf7061176ec9183fdf0ee1d43371b0767d102b5223dd1d3ef622b6
+        mime: image/jpeg
+        bytes: 68641
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

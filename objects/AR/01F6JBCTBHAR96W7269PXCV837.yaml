@@ -1,0 +1,37 @@
+id: 01F6JBCTBHAR96W7269PXCV837
+type: image
+subtype: drawing
+title: Skizze Brünkendorf, Kirchstraße
+date: 1946-06
+origin:
+  name: Ernst Hennings
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Nienwalde
+    type: place
+parents:
+  - 01J3DPEJ61GZW2DYZ6RC50SJBG
+  - 01F609NXHEBHNPDFETZVY63FSS
+files:
+  - role: main
+    original_name: scan_808.tif
+    path: files/20/32/2032406a40bc61449a7c5365d6276330400ab25058e02c3f73c24d2766ae03bc/original.tif
+    sha256: 2032406a40bc61449a7c5365d6276330400ab25058e02c3f73c24d2766ae03bc
+    mime: image/tiff
+    bytes: 25866902
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/20/32/2032406a40bc61449a7c5365d6276330400ab25058e02c3f73c24d2766ae03bc/preview-400.7f5233f82456.jpg
+        sha256: 7f5233f82456f71b15ab939c92cc3cbaddc3fd3d8e98ddf298110c9be130c5e8
+        mime: image/jpeg
+        bytes: 81451
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

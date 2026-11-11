@@ -1,0 +1,38 @@
+id: 01K8BQH60B0BW5AXY0DW2BRVV0
+type: image
+subtype: photo
+title: Bahnhofstraße, Ecke Dorfstraße
+description: Aufnahme von Wilhelm Krüger.
+date: 1924-06-10
+location: Hitzacker, Dorfstraße
+geocode:
+  lat: 53.0438
+  lon: 11.5526
+  precision: region
+  source: osm
+subjects:
+  - name: Apotheke
+    type: building
+parents:
+  - 01HW1XG7P06SRWXZK7CKV1D89H
+  - 01FEMA2K3GSA17BGZHHP3N0PEF
+files:
+  - role: main
+    original_name: scan_673.tif
+    path: files/8c/06/8c0644b2d59a3072e37b79446bdedeab558c2ed631216ec16a29bf7d49437df5/original.tif
+    sha256: 8c0644b2d59a3072e37b79446bdedeab558c2ed631216ec16a29bf7d49437df5
+    mime: image/tiff
+    bytes: 9132526
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8c/06/8c0644b2d59a3072e37b79446bdedeab558c2ed631216ec16a29bf7d49437df5/preview-400.93da57fb90fe.jpg
+        sha256: 93da57fb90fea413a96a7c19a11118bbe4db2c2ec3812a1e8feab35cdd2a3c86
+        mime: image/jpeg
+        bytes: 83713
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

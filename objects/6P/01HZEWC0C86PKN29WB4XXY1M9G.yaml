@@ -1,0 +1,44 @@
+id: 01HZEWC0C86PKN29WB4XXY1M9G
+type: image
+subtype: plan
+title: Grundriss Kaufmannshaus, Wootz
+description: Mit handschriftlichen Ergänzungen.
+date: 1897-02-16
+origin:
+  name: Frieda Jeß
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Familie Dreyer
+    type: person
+    location: Cumlosen
+  reference: F 20/070
+  note: Planschrank, Fach 3
+subjects:
+  - name: Maifeier 1897
+    type: event
+  - name: Kartoffelernte 1897
+    type: event
+  - name: Hochwasser 1897
+    type: event
+files:
+  - role: main
+    original_name: scan_237.tif
+    path: files/fd/db/fddb903b849e33ecea4c4ebcbca1d63dd552083312b59aa791af6c13ecdd04f7/original.tif
+    sha256: fddb903b849e33ecea4c4ebcbca1d63dd552083312b59aa791af6c13ecdd04f7
+    mime: image/tiff
+    bytes: 25236534
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fd/db/fddb903b849e33ecea4c4ebcbca1d63dd552083312b59aa791af6c13ecdd04f7/preview-400.c69adbca9602.jpg
+        sha256: c69adbca960276fd41482d683e3fe16d7d1de0520c0dea95d6900637b65a8daf
+        mime: image/jpeg
+        bytes: 42314
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

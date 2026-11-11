@@ -1,0 +1,35 @@
+id: 01GS3VCTRMY24HK76D4T1RFCB9
+type: image
+subtype: print
+title: Postkarte Gorleben, Gutshaus
+description: Kupferstich, koloriert.
+date: "1872"
+origin:
+  name: Brigitte Jeß
+  type: person
+  location: Lanz
+subjects:
+  - name: Karl Wegner
+    type: person
+parents:
+  - 01JZXBT98ER840PDJR2YFFBCZR
+files:
+  - role: main
+    original_name: scan_229.tif
+    path: files/e0/48/e048407eff4b600f2e568fc29e0ea9073c5a9c2dcd556315c96104fa7bc4791f/original.tif
+    sha256: e048407eff4b600f2e568fc29e0ea9073c5a9c2dcd556315c96104fa7bc4791f
+    mime: image/tiff
+    bytes: 4572597
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e0/48/e048407eff4b600f2e568fc29e0ea9073c5a9c2dcd556315c96104fa7bc4791f/preview-400.53fc29b14b9f.jpg
+        sha256: 53fc29b14b9f04841bf3756d3f83a3f916bf84cae48d033cab7203c2a5c8fbf8
+        mime: image/jpeg
+        bytes: 57402
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

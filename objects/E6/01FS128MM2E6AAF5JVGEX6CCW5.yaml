@@ -1,0 +1,67 @@
+id: 01FS128MM2E6AAF5JVGEX6CCW5
+type: document
+subtype: note
+title: Quittung für Elfriede Wegner
+description: Beleg mit Stempel.
+date: 1908-11-17
+location: Brünkendorf, Hafen
+geocode:
+  lat: 53.0143
+  lon: 11.6132
+  precision: town
+  source: osm
+origin:
+  name: Lotte Voss
+  type: person
+  location: Laase
+language: de
+subjects:
+  - name: Fährjubiläum 1908
+    type: event
+  - name: Ortsbesichtigung 1908
+    type: event
+  - name: Fastnacht 1908
+    type: event
+parents:
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+files:
+  - role: page
+    num: 1
+    original_name: note_x6ccw5_001.tif
+    path: files/f1/57/f1573917f30079d3c43cadc326b602d24b8dddce4fe339a8d01153371ce8c341/original.tif
+    sha256: f1573917f30079d3c43cadc326b602d24b8dddce4fe339a8d01153371ce8c341
+    mime: image/tiff
+    bytes: 18426691
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f1/57/f1573917f30079d3c43cadc326b602d24b8dddce4fe339a8d01153371ce8c341/preview-400.059be6a8cba4.jpg
+        sha256: 059be6a8cba4940199111d0ef2b180d675d7d46b32c363c5391ec628951ea9b8
+        mime: image/jpeg
+        bytes: 20670
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_x6ccw5_002.tif
+    path: files/5c/db/5cdb68e15df6072fb660f9e7e02bec7cc66a33c1b0a13befb4f751b3d501e247/original.tif
+    sha256: 5cdb68e15df6072fb660f9e7e02bec7cc66a33c1b0a13befb4f751b3d501e247
+    mime: image/tiff
+    bytes: 8842038
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5c/db/5cdb68e15df6072fb660f9e7e02bec7cc66a33c1b0a13befb4f751b3d501e247/preview-400.e7637329fcb9.jpg
+        sha256: e7637329fcb9b37344d37f9130e28051ba70cf1287919a4681cc8cf6fa7a90ae
+        mime: image/jpeg
+        bytes: 33950
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

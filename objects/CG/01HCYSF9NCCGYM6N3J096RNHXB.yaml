@@ -1,0 +1,36 @@
+id: 01HCYSF9NCCGYM6N3J096RNHXB
+type: image
+subtype: plan
+title: Katasterblatt Jeß
+description: Tusche auf Transparentpapier.
+date: 1961-03-12
+location: Lanz, Ziegelei
+origin:
+  name: Karl Schwarz
+  type: person
+  location: Gorleben
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Einschulung 1961
+    type: event
+files:
+  - role: main
+    original_name: scan_412.tif
+    path: files/1e/92/1e92f0240a1fccc585b786e508dfd319ff1f7670e908e86f317a7646a7fdd552/original.tif
+    sha256: 1e92f0240a1fccc585b786e508dfd319ff1f7670e908e86f317a7646a7fdd552
+    mime: image/tiff
+    bytes: 9330739
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1e/92/1e92f0240a1fccc585b786e508dfd319ff1f7670e908e86f317a7646a7fdd552/preview-400.ecfd4c139d5a.jpg
+        sha256: ecfd4c139d5a0709c1ee7ec3e055717423c376e99cda699917f12d6335d5a707
+        mime: image/jpeg
+        bytes: 76081
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

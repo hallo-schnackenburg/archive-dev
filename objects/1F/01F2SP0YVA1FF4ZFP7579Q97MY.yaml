@@ -1,0 +1,60 @@
+id: 01F2SP0YVA1FF4ZFP7579Q97MY
+type: document
+subtype: note
+title: Rechnung Wegner, Heuberge, Salzwedel
+description: Beleg mit Stempel.
+origin:
+  name: Erika Ahrens
+  type: person
+  location: Nienwalde
+language: de
+original:
+  holder:
+    name: Familie Ihde
+    type: person
+    location: Arendsee
+  reference: Fotos 17/225
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9582
+parents:
+  - 01EWC7VVF5TTWGM2X550P0P2HW
+files:
+  - role: page
+    num: 1
+    original_name: note_9q97my_001.tif
+    path: files/6b/db/6bdb8679d145086996a0acda21cc3c73fe47c9463ddff74e85d7fded9a020e1a/original.tif
+    sha256: 6bdb8679d145086996a0acda21cc3c73fe47c9463ddff74e85d7fded9a020e1a
+    mime: image/tiff
+    bytes: 12816119
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6b/db/6bdb8679d145086996a0acda21cc3c73fe47c9463ddff74e85d7fded9a020e1a/preview-400.7d611258a8d9.jpg
+        sha256: 7d611258a8d96c1380c5f93a5ec14b6a339a2587739d1ac434883eb37eab447c
+        mime: image/jpeg
+        bytes: 41744
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_9q97my_002.tif
+    path: files/63/3c/633ca50534703a27a3277b8474eb1e683202fcd58b3dab97f1d461287f19af95/original.tif
+    sha256: 633ca50534703a27a3277b8474eb1e683202fcd58b3dab97f1d461287f19af95
+    mime: image/tiff
+    bytes: 6832399
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/63/3c/633ca50534703a27a3277b8474eb1e683202fcd58b3dab97f1d461287f19af95/preview-400.721d4f97147e.jpg
+        sha256: 721d4f97147e5ec11f9eb05f6ac44b7727611ceba2e72f5566dfefc9a00a3dfc
+        mime: image/jpeg
+        bytes: 67660
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

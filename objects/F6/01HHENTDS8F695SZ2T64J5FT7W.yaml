@@ -1,0 +1,45 @@
+id: 01HHENTDS8F695SZ2T64J5FT7W
+type: image
+subtype: drawing
+title: Entwurf für Kirche St. Johannis, Lüchow
+description: Federzeichnung, laviert.
+date: "1906"
+location: Holtorf, Windmühle
+geocode:
+  lat: 52.9177
+  lon: 11.4581
+  precision: exact
+  source: osm
+origin:
+  name: Anni Garms
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 30/073
+subjects:
+  - name: Konfirmation 1906
+    type: event
+files:
+  - role: main
+    original_name: scan_690.tif
+    path: files/ff/fc/fffc0ac88fcf39a18acc988d280ec0c1bd0ec3a3f3e00bbc49a92813c919ba9a/original.tif
+    sha256: fffc0ac88fcf39a18acc988d280ec0c1bd0ec3a3f3e00bbc49a92813c919ba9a
+    mime: image/tiff
+    bytes: 10305773
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ff/fc/fffc0ac88fcf39a18acc988d280ec0c1bd0ec3a3f3e00bbc49a92813c919ba9a/preview-400.2beaf3d27917.jpg
+        sha256: 2beaf3d27917e924b3ca5a65b97a799e63874086efef91ffbe13a9bca9153674
+        mime: image/jpeg
+        bytes: 70266
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

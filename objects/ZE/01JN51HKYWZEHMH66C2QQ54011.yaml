@@ -1,0 +1,40 @@
+id: 01JN51HKYWZEHMH66C2QQ54011
+type: image
+subtype: photo
+title: Einweihung 1993
+description: Aufnahme von Brigitte Tiedemann.
+date: 1993-04
+location: Gorleben, Burgstraße
+geocode:
+  lat: 52.9901
+  lon: 11.5
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Sportplatz
+    type: building
+files:
+  - role: main
+    original_name: DSC8516.jpg
+    path: files/2a/a3/2aa3027227a1f55f0138b3d77f63e85fdae062490ec55d4054bf855829711e76/original.jpg
+    sha256: 2aa3027227a1f55f0138b3d77f63e85fdae062490ec55d4054bf855829711e76
+    mime: image/jpeg
+    bytes: 17568549
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/2a/a3/2aa3027227a1f55f0138b3d77f63e85fdae062490ec55d4054bf855829711e76/preview-400.57070accf167.jpg
+        sha256: 57070accf167855672030ccb950a28116f04b11f990f47fb529e7e89603a646d
+        mime: image/jpeg
+        bytes: 40144
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

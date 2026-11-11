@@ -1,0 +1,36 @@
+id: 01F02NYCV3G6EFVW5PDQYDKZ69
+type: image
+subtype: photo
+title: Beerdigung der Turnverein
+origin:
+  name: Rudolf Ahrens
+  type: person
+  location: Seedorf
+subjects:
+  - name: Schmiede
+    type: building
+  - name: Hochzeit 1989
+    type: event
+parents:
+  - 01HGWAATSHSQJT69MF82EV6W37
+  - 01JD1W7G8C9Y7RM5P61EE5M4CB
+files:
+  - role: main
+    original_name: P5855.jpg
+    path: files/92/1a/921add6b9e2a4795dc3ae80e576dffbf165d9dca2560e8b72311d74374d281bb/original.jpg
+    sha256: 921add6b9e2a4795dc3ae80e576dffbf165d9dca2560e8b72311d74374d281bb
+    mime: image/jpeg
+    bytes: 15462529
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/92/1a/921add6b9e2a4795dc3ae80e576dffbf165d9dca2560e8b72311d74374d281bb/preview-400.f2622747397c.jpg
+        sha256: f2622747397c6787b73ef082342e226a7dc844087393011b1d3316ff742990c0
+        mime: image/jpeg
+        bytes: 29131
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

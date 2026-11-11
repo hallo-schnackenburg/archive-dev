@@ -1,0 +1,37 @@
+id: 01G49EQ2V22FGYXXG6VKBTC901
+type: image
+subtype: print
+title: Postkarte Wootz, Tischlerei Bruns
+date: 1721-12-20
+location: Laase, Molkerei
+origin:
+  name: Käthe Voss
+  type: person
+  location: Laase
+subjects:
+  - name: Grenzturm
+    type: building
+  - name: Kindergartenfest 1721
+    type: event
+parents:
+  - 01F0BRQ2JGN7DY37JCS6H3RZJF
+files:
+  - role: main
+    original_name: scan_499.tif
+    path: files/21/10/21101c1cb3ccf8a4d1a0fe0e11e0d7cedd265e007bbc642d59e6488ae6856210/original.tif
+    sha256: 21101c1cb3ccf8a4d1a0fe0e11e0d7cedd265e007bbc642d59e6488ae6856210
+    mime: image/tiff
+    bytes: 23063715
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/21/10/21101c1cb3ccf8a4d1a0fe0e11e0d7cedd265e007bbc642d59e6488ae6856210/preview-400.1859c47405f0.jpg
+        sha256: 1859c47405f094bebfa961430d74c826295cd3ec766c4c82d3210b3afa8b930c
+        mime: image/jpeg
+        bytes: 32450
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01JTCNV3JE8AGP7BMNFJ5V5GA5
+type: image
+subtype: photo
+title: Hans Bruns vor dem Gärtnerei
+description: Abzug im Format 6 x 9 cm.
+location: Schnackenburg, Hafen
+origin:
+  name: Rudolf Wöhlk
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 1
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Gasthof Meyer
+    type: building
+  - name: Dorffest 1975
+    type: event
+files:
+  - role: main
+    original_name: P4834.jpg
+    path: files/5d/c4/5dc409191b131ca70973c391e81b6d4da0703a29355c31585af4b9323e23e5d3/original.jpg
+    sha256: 5dc409191b131ca70973c391e81b6d4da0703a29355c31585af4b9323e23e5d3
+    mime: image/jpeg
+    bytes: 23953835
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/5d/c4/5dc409191b131ca70973c391e81b6d4da0703a29355c31585af4b9323e23e5d3/preview-400.dc6fbd65d0f8.jpg
+        sha256: dc6fbd65d0f880c93a3af66d51b885fc15183b28f7190c9aac4cdf5e0352c7db
+        mime: image/jpeg
+        bytes: 54572
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

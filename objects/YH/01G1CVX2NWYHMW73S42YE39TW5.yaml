@@ -1,0 +1,38 @@
+id: 01G1CVX2NWYHMW73S42YE39TW5
+type: image
+subtype: print
+title: Ansichtskarte Dorfstraße, Holtorf
+description: Postkarte, gelaufen 1929.
+date: "1742"
+origin:
+  name: Renate Albers
+  type: person
+  location: Seedorf
+subjects:
+  - name: Mühle
+    type: building
+  - name: Pfarrhaus
+    type: building
+parents:
+  - 01FPG45DMCQ4FJ212ZPBZF1YR1
+  - 01HS9D6TNXGYQ746ZSEVHFEZN8
+files:
+  - role: main
+    original_name: scan_250.tif
+    path: files/b1/69/b1692e32b03f420ef3ecf3ffd1a074bed7a68c9cb3cfd22e7e65417066e7082c/original.tif
+    sha256: b1692e32b03f420ef3ecf3ffd1a074bed7a68c9cb3cfd22e7e65417066e7082c
+    mime: image/tiff
+    bytes: 17964077
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b1/69/b1692e32b03f420ef3ecf3ffd1a074bed7a68c9cb3cfd22e7e65417066e7082c/preview-400.6435b9246992.jpg
+        sha256: 6435b924699268ad8148820cdcc97ac214c7571eb9660c9e30d2687e47cd307e
+        mime: image/jpeg
+        bytes: 22762
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

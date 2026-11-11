@@ -1,0 +1,45 @@
+id: 01H90DS54FPH4REYP2GG9GYSDS
+type: image
+subtype: photo
+title: Gutshaus in Gollensdorf
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1953-07-07
+location: Wootz, Burgstraße
+geocode:
+  lat: 52.9809
+  lon: 11.624
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Detlefs
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Album 27/050
+  note: Regal 1
+parents:
+  - 01GYVCE9612QGZYBGWYYZ1X9FF
+files:
+  - role: main
+    original_name: P0361.jpg
+    path: files/80/2e/802e354c508c4a5a65c30ed19b854b6cb7e185f81986f470e5506f1f6abd5e94/original.jpg
+    sha256: 802e354c508c4a5a65c30ed19b854b6cb7e185f81986f470e5506f1f6abd5e94
+    mime: image/jpeg
+    bytes: 19883604
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/80/2e/802e354c508c4a5a65c30ed19b854b6cb7e185f81986f470e5506f1f6abd5e94/preview-400.f82d3c54553a.jpg
+        sha256: f82d3c54553aa0363fa546b77a7cb3100a73ae8c77eb37c25b726c91c7a36e14
+        mime: image/jpeg
+        bytes: 63426
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

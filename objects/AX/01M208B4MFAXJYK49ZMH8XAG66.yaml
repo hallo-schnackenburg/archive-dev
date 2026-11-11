@@ -1,0 +1,38 @@
+id: 01M208B4MFAXJYK49ZMH8XAG66
+type: image
+subtype: drawing
+title: Wappenentwurf Salzwedel, Gollensdorf
+description: Bleistift auf Papier.
+date: 1842-05
+location: Lüchow, Burgstraße
+origin:
+  name: Friedrich Brandt
+  type: person
+  location: Arendsee
+subjects:
+  - name: Friedhofskapelle
+    type: building
+  - name: Torhaus
+    type: building
+  - name: Poststelle
+    type: building
+files:
+  - role: main
+    original_name: scan_977.tif
+    path: files/ae/84/ae848b3e7f92be686dafdbd14db3dcb436ef36e9dba3f03d3d97b4f2940dfd67/original.tif
+    sha256: ae848b3e7f92be686dafdbd14db3dcb436ef36e9dba3f03d3d97b4f2940dfd67
+    mime: image/tiff
+    bytes: 14751343
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ae/84/ae848b3e7f92be686dafdbd14db3dcb436ef36e9dba3f03d3d97b4f2940dfd67/preview-400.82d01e65b3e0.jpg
+        sha256: 82d01e65b3e04fb66aae0cfdb46dfca887c120be4f24dfa663daa2ed05e2dcf3
+        mime: image/jpeg
+        bytes: 28190
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

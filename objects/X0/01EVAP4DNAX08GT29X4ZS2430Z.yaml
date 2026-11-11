@@ -1,0 +1,64 @@
+id: 01EVAP4DNAX08GT29X4ZS2430Z
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Brandversicherung 1979
+date: 1979?
+location: Gollensdorf, Sparkasse
+origin:
+  name: Kirchenvorstand Lenzen
+  type: business
+  location: Laase
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 2/017
+owner:
+  name: Heinrich Tiedemann
+  type: person
+  note: Nachlass
+parents:
+  - 01HR1QV0ZXC6MF6JQQQ9T74SMN
+files:
+  - role: page
+    num: 1
+    original_name: protocol_s2430z_001.tif
+    path: files/b2/10/b21086c7ef0eb4db869bf840c46a3e10b262b68a90ec914cd2fe5b50f527a6b3/original.tif
+    sha256: b21086c7ef0eb4db869bf840c46a3e10b262b68a90ec914cd2fe5b50f527a6b3
+    mime: image/tiff
+    bytes: 22074764
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b2/10/b21086c7ef0eb4db869bf840c46a3e10b262b68a90ec914cd2fe5b50f527a6b3/preview-400.684713b267fe.jpg
+        sha256: 684713b267fea2362bb1ed5560960aac734afb1081513da2930554ce73a1bbe0
+        mime: image/jpeg
+        bytes: 85627
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_s2430z_002.tif
+    path: files/b6/4a/b64ac24da7ea152937bc08f2ffb35a817d7a96c00d9723374d717305bdac121a/original.tif
+    sha256: b64ac24da7ea152937bc08f2ffb35a817d7a96c00d9723374d717305bdac121a
+    mime: image/tiff
+    bytes: 438883
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b6/4a/b64ac24da7ea152937bc08f2ffb35a817d7a96c00d9723374d717305bdac121a/preview-400.78e9ec4630e8.jpg
+        sha256: 78e9ec4630e863861de64b333722860f3663f94d36b869cc569051e485b69426
+        mime: image/jpeg
+        bytes: 83414
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

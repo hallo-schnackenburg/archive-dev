@@ -1,0 +1,39 @@
+id: 01K31QGXMR0QD90HQ99SYKS2TY
+type: image
+subtype: print
+title: "Holzschnitt: Eisgang"
+description: Lithographie, Rand beschnitten.
+date: 1777-09-11
+origin:
+  name: Hermann Meyer
+  type: person
+  location: Zadrau
+owner:
+  name: Marta Wegner
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Laase
+    type: place
+parents:
+  - 01G1SK4H01859R5DZSSW1552Y7
+files:
+  - role: main
+    original_name: scan_112.tif
+    path: files/ee/4d/ee4db0c6fad3db23e4c1ba0d70974844c01d1710f4371c72b56373f8255e6c84/original.tif
+    sha256: ee4db0c6fad3db23e4c1ba0d70974844c01d1710f4371c72b56373f8255e6c84
+    mime: image/tiff
+    bytes: 11459250
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ee/4d/ee4db0c6fad3db23e4c1ba0d70974844c01d1710f4371c72b56373f8255e6c84/preview-400.0f7d30d161bb.jpg
+        sha256: 0f7d30d161bb6e9a87f2ce09f1b9d89ff43954dc35d0057050199584538fa1f9
+        mime: image/jpeg
+        bytes: 52714
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

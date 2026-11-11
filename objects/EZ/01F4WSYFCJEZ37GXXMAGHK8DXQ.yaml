@@ -1,0 +1,49 @@
+id: 01F4WSYFCJEZ37GXXMAGHK8DXQ
+type: image
+subtype: photo
+title: Erika Albers vor dem Schmiede
+description: Aufnahme von Günter Wöhlk.
+location: Salzwedel, Burgstraße
+geocode:
+  lat: 53.0946
+  lon: 11.5853
+  precision: region
+  source: osm
+origin:
+  name: Ilse Gaede
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Fotos 14/104
+subjects:
+  - name: Heinrich Lemke
+    type: person
+  - name: Gustav Brandt
+    type: person
+parents:
+  - 01JCV95VZDBXMYRF9A0KB25RXZ
+  - 01H7TAC1S0T298G0K08CGYD8Q7
+files:
+  - role: main
+    original_name: foto_2170.jpg
+    path: files/e6/33/e6337fde1a0807f9c726d1c4d071a6d844c9fd62adc225f8f1530715550ff70a/original.jpg
+    sha256: e6337fde1a0807f9c726d1c4d071a6d844c9fd62adc225f8f1530715550ff70a
+    mime: image/jpeg
+    bytes: 8023872
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/e6/33/e6337fde1a0807f9c726d1c4d071a6d844c9fd62adc225f8f1530715550ff70a/preview-400.c1857a035cfa.jpg
+        sha256: c1857a035cfa0d4516ab865467cac95cba4f41f42db8ac73545cfc88d3fc5eca
+        mime: image/jpeg
+        bytes: 64381
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

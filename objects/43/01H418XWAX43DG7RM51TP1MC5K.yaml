@@ -1,0 +1,34 @@
+id: 01H418XWAX43DG7RM51TP1MC5K
+type: image
+subtype: photo
+title: Heinrich Stoll vor dem Pumpenhaus
+location: Restorf, Deichstraße
+origin:
+  name: Renate Wegner
+  type: person
+  location: Gorleben
+subjects:
+  - name: Apotheke
+    type: building
+  - name: Badestelle
+    type: building
+files:
+  - role: main
+    original_name: scan_952.tif
+    path: files/07/c7/07c7a9ed72ceb6f328a0f849e91dbc18b9659006656f591dabb7d65f6fdb3f41/original.tif
+    sha256: 07c7a9ed72ceb6f328a0f849e91dbc18b9659006656f591dabb7d65f6fdb3f41
+    mime: image/tiff
+    bytes: 8430905
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/07/c7/07c7a9ed72ceb6f328a0f849e91dbc18b9659006656f591dabb7d65f6fdb3f41/preview-400.b52b5da95ac3.jpg
+        sha256: b52b5da95ac3dbb81f5226de95777a7f4d86b075a95bbc50e6167e534cdbf928
+        mime: image/jpeg
+        bytes: 69962
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

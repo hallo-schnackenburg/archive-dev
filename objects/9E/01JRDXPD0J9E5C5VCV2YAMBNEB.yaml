@@ -1,0 +1,37 @@
+id: 01JRDXPD0J9E5C5VCV2YAMBNEB
+type: image
+subtype: print
+title: "Kupferstich: Pretzier von der Elbseite, Seedorf"
+description: Kupferstich, koloriert.
+date: 1726-12
+location: Zadrau, Marktstraße
+origin:
+  name: Karl Eggers
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Lanz
+    type: place
+parents:
+  - 01GQNCNS1ENA3RKA5ZC1ZCYHJF
+  - 01FXP7C4VHXDAWP3MGADT9QA1F
+files:
+  - role: main
+    original_name: scan_721.tif
+    path: files/e3/4a/e34a84c9fdd66b04edad154e77a4d68c3aaf16353b79797bb8bcbf7e67370427/original.tif
+    sha256: e34a84c9fdd66b04edad154e77a4d68c3aaf16353b79797bb8bcbf7e67370427
+    mime: image/tiff
+    bytes: 12839832
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e3/4a/e34a84c9fdd66b04edad154e77a4d68c3aaf16353b79797bb8bcbf7e67370427/preview-400.81899fd407d0.jpg
+        sha256: 81899fd407d0de0a9b8aff06d65bf615a9a7e8d632e5f84978327cb021f25363
+        mime: image/jpeg
+        bytes: 36267
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

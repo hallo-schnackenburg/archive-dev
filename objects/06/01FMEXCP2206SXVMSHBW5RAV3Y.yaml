@@ -1,0 +1,68 @@
+id: 01FMEXCP2206SXVMSHBW5RAV3Y
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Landfrauenverein 1954
+date: "1954"
+location: Salzwedel, Mühle
+geocode:
+  lat: 52.9216
+  lon: 11.6333
+  precision: street
+  source: osm
+origin:
+  name: Kirchenvorstand Restorf
+  type: business
+  location: Wittenberge
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Kasten 19/025
+subjects:
+  - name: Brunnen am Markt
+    type: building
+  - name: Tischlerei Bruns
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: protocol_5rav3y_001.tif
+    path: files/ce/66/ce669cd7d7f47aab12da2c33ff6865efb73982520dbaa26e22dafa23287735d1/original.tif
+    sha256: ce669cd7d7f47aab12da2c33ff6865efb73982520dbaa26e22dafa23287735d1
+    mime: image/tiff
+    bytes: 16458831
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ce/66/ce669cd7d7f47aab12da2c33ff6865efb73982520dbaa26e22dafa23287735d1/preview-400.916bf34a0ada.jpg
+        sha256: 916bf34a0ada925bb483b598118b2f53ad32b6bd292f8877440941288663b408
+        mime: image/jpeg
+        bytes: 22058
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_5rav3y_002.tif
+    path: files/c0/dd/c0dd004e4b983f6bfb496f2d5538f7a6e2fbdd8f7d77316d625877c1b2c959bd/original.tif
+    sha256: c0dd004e4b983f6bfb496f2d5538f7a6e2fbdd8f7d77316d625877c1b2c959bd
+    mime: image/tiff
+    bytes: 7934836
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c0/dd/c0dd004e4b983f6bfb496f2d5538f7a6e2fbdd8f7d77316d625877c1b2c959bd/preview-400.8c1d23515caa.jpg
+        sha256: 8c1d23515caa9c05fc80bdaf685c932362f673f23ef856d0e7801fb96a6fea3f
+        mime: image/jpeg
+        bytes: 44737
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

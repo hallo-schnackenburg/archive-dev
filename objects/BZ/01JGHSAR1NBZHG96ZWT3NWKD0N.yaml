@@ -1,0 +1,41 @@
+id: 01JGHSAR1NBZHG96ZWT3NWKD0N
+type: image
+subtype: photo
+title: Rudolf Meyer vor dem Schützenhaus
+description: Abzug im Format 10 x 15 cm.
+date: 1967-02-14
+location: Lenzen, Kirchstraße
+geocode:
+  lat: 52.9641
+  lon: 11.4993
+  precision: town
+  source: osm
+origin:
+  name: Albert Krüger
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Hochwasser 1967
+    type: event
+  - name: Arendsee
+    type: place
+files:
+  - role: main
+    original_name: scan_251.tif
+    path: files/a4/f6/a4f6201c488cfaa32e0f8378fcb8ddd6f59b96e8eec4d09a4fe6febc61933898/original.tif
+    sha256: a4f6201c488cfaa32e0f8378fcb8ddd6f59b96e8eec4d09a4fe6febc61933898
+    mime: image/tiff
+    bytes: 21700134
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a4/f6/a4f6201c488cfaa32e0f8378fcb8ddd6f59b96e8eec4d09a4fe6febc61933898/preview-400.edad271acd80.jpg
+        sha256: edad271acd80a40ef4ff6714df0f045c7f009dd6519a6dadbaf5e45a4b244895
+        mime: image/jpeg
+        bytes: 87603
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01FRYN9DPV95H0KD3812SZPYGZ
+type: image
+subtype: photo
+title: Elbdeich nach dem Hochwasser
+date: 1908~
+location: Restorf, Bahnhofstraße
+geocode:
+  lat: 53.0383
+  lon: 11.533
+  precision: street
+  source: osm
+origin:
+  name: Otto Harms
+  type: person
+  location: Gorleben
+subjects:
+  - name: Gartow
+    type: place
+  - name: Scheune
+    type: building
+parents:
+  - 01HQP25DE5H8X2VZ17AF0KJD5M
+files:
+  - role: main
+    original_name: scan_974.tif
+    path: files/3f/5f/3f5f5e1114ec724aefc5afdb9d54e4ddb41d23ae204bb4145932481ce263cef1/original.tif
+    sha256: 3f5f5e1114ec724aefc5afdb9d54e4ddb41d23ae204bb4145932481ce263cef1
+    mime: image/tiff
+    bytes: 3248541
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3f/5f/3f5f5e1114ec724aefc5afdb9d54e4ddb41d23ae204bb4145932481ce263cef1/preview-400.27060aaa036c.jpg
+        sha256: 27060aaa036cd9a07d0f07e532b9700c3325d460b44529b68d26756ff7c097a1
+        mime: image/jpeg
+        bytes: 53999
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

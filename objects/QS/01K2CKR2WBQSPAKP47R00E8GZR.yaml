@@ -1,0 +1,42 @@
+id: 01K2CKR2WBQSPAKP47R00E8GZR
+type: image
+subtype: drawing
+title: Wappenentwurf Lüchow, Hitzacker
+description: Bleistift auf Papier.
+date: 1969-05
+origin:
+  name: Ilse Ahrens
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Familie Kuhlmann
+    type: person
+    location: Laase
+subjects:
+  - name: Friedrich Lüders
+    type: person
+  - name: Albert Voss
+    type: person
+parents:
+  - 01JQT54EAMY9FPSYNK9W7RJSV4
+files:
+  - role: main
+    original_name: scan_421.tif
+    path: files/d9/d6/d9d6a4948f6e3a409298f9d516b7e8a294442afb117d0db327dde2db6bdc60a1/original.tif
+    sha256: d9d6a4948f6e3a409298f9d516b7e8a294442afb117d0db327dde2db6bdc60a1
+    mime: image/tiff
+    bytes: 9340782
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d9/d6/d9d6a4948f6e3a409298f9d516b7e8a294442afb117d0db327dde2db6bdc60a1/preview-400.ae112b9e768a.jpg
+        sha256: ae112b9e768ae3490bbcd953171aa8a25f9fc8520619ee45c89051b199380f82
+        mime: image/jpeg
+        bytes: 41252
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

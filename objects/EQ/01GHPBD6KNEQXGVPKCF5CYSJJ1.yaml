@@ -1,0 +1,29 @@
+id: 01GHPBD6KNEQXGVPKCF5CYSJJ1
+type: image
+subtype: plan
+title: Grundriss Gutshaus
+date: "1823"
+origin:
+  name: Ilse Bruns
+  type: person
+  location: Hitzacker
+files:
+  - role: main
+    original_name: scan_385.tif
+    path: files/d4/1d/d41d04e8c78d062f15cb12b15a4450635f64ed0f6ec3b0c2067d2633dbb2164a/original.tif
+    sha256: d41d04e8c78d062f15cb12b15a4450635f64ed0f6ec3b0c2067d2633dbb2164a
+    mime: image/tiff
+    bytes: 17167869
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d4/1d/d41d04e8c78d062f15cb12b15a4450635f64ed0f6ec3b0c2067d2633dbb2164a/preview-400.676e99c6d538.jpg
+        sha256: 676e99c6d5387090b3b141d90583a751a846a9b760441e428e54ce1a90780500
+        mime: image/jpeg
+        bytes: 88339
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

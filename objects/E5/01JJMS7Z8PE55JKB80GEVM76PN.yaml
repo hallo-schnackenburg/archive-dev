@@ -1,0 +1,34 @@
+id: 01JJMS7Z8PE55JKB80GEVM76PN
+type: image
+subtype: print
+title: "Kupferstich: Wootz von der Elbseite, Gartow"
+date: 1925-09-24
+origin:
+  name: Horst Krüger
+  type: person
+  location: Zadrau
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+parents:
+  - 01G8B1RBKCP0JCJ0TQ3WYMBBPZ
+files:
+  - role: main
+    original_name: scan_274.tif
+    path: files/9c/23/9c236f41e20cb6b101b3f3746cb7da6569aa843847f0571a6a28887cb9b0fab7/original.tif
+    sha256: 9c236f41e20cb6b101b3f3746cb7da6569aa843847f0571a6a28887cb9b0fab7
+    mime: image/tiff
+    bytes: 17426121
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9c/23/9c236f41e20cb6b101b3f3746cb7da6569aa843847f0571a6a28887cb9b0fab7/preview-400.a3895d7a8650.jpg
+        sha256: a3895d7a86501dceb894946013b4c34ba2944e806cc6a6951b80ac06a1ee5d7b
+        mime: image/jpeg
+        bytes: 64044
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

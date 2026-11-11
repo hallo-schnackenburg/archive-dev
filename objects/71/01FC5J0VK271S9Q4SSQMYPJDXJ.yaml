@@ -1,0 +1,39 @@
+id: 01FC5J0VK271S9Q4SSQMYPJDXJ
+type: image
+subtype: plan
+title: Deichplan Gorleben bis Restorf
+description: Maßstab 1:250.
+date: 1856-01-10
+origin:
+  name: Manfred Plate
+  type: person
+  location: Kapern
+subjects:
+  - name: Sparkasse
+    type: building
+  - name: Kirche St. Johannis
+    type: building
+  - name: Hitzacker
+    type: place
+parents:
+  - 01KGHR1E94X26ENFVH4J79T0CP
+files:
+  - role: main
+    original_name: scan_999.tif
+    path: files/1c/f3/1cf3cb1a27443fa87ac55d3b3eb8dc6a7e23f88ee8eeef3606c905cef5034031/original.tif
+    sha256: 1cf3cb1a27443fa87ac55d3b3eb8dc6a7e23f88ee8eeef3606c905cef5034031
+    mime: image/tiff
+    bytes: 6035991
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1c/f3/1cf3cb1a27443fa87ac55d3b3eb8dc6a7e23f88ee8eeef3606c905cef5034031/preview-400.077d16ab3736.jpg
+        sha256: 077d16ab37366afcd6468205e2cfb41577f544fdbffa67235b6ca294013e5264
+        mime: image/jpeg
+        bytes: 59235
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

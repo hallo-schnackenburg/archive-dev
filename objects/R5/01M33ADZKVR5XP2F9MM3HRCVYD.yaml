@@ -1,0 +1,43 @@
+id: 01M33ADZKVR5XP2F9MM3HRCVYD
+type: image
+subtype: plan
+title: Bauplan Heuberge 1754
+description: Maßstab 1:2500.
+date: "1754"
+location: Pretzier, Schulstraße
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 18/058
+  note: Mappe 12
+subjects:
+  - name: Schützenfest 1754
+    type: event
+  - name: Kapern
+    type: place
+  - name: Karl Krüger
+    type: person
+parents:
+  - 01F65BXKMKS9E7T6J3V39RWQAH
+files:
+  - role: main
+    original_name: scan_053.tif
+    path: files/b4/28/b428a774567f7c384483160ae3b4552ed92b409157a4cbe9c1dadd22f9b49057/original.tif
+    sha256: b428a774567f7c384483160ae3b4552ed92b409157a4cbe9c1dadd22f9b49057
+    mime: image/tiff
+    bytes: 1228692
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/28/b428a774567f7c384483160ae3b4552ed92b409157a4cbe9c1dadd22f9b49057/preview-400.b7a5e9f37645.jpg
+        sha256: b7a5e9f37645aa2c90059b48a6e3d18f41b0b0e06c81dbcd0735230241bf3fee
+        mime: image/jpeg
+        bytes: 49253
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

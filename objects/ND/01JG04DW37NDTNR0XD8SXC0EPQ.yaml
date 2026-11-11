@@ -1,0 +1,43 @@
+id: 01JG04DW37NDTNR0XD8SXC0EPQ
+type: image
+subtype: print
+title: Postkarte Brünkendorf, Zollamt
+description: Postkarte, gelaufen 1944.
+date: 1880/1884
+location: Bömenzien, Poststelle
+geocode:
+  lat: 52.993
+  lon: 11.5179
+  precision: town
+  source: osm
+origin:
+  name: Ilse Schwarz
+  type: person
+  location: Zadrau
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Heuberge
+    type: building
+  - name: Holtorf
+    type: place
+files:
+  - role: main
+    original_name: scan_864.tif
+    path: files/1e/33/1e33479ae0ce7b6b22026b980949dd7e75d1015e73a9c20bb51fbe30a6c46274/original.tif
+    sha256: 1e33479ae0ce7b6b22026b980949dd7e75d1015e73a9c20bb51fbe30a6c46274
+    mime: image/tiff
+    bytes: 20768218
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1e/33/1e33479ae0ce7b6b22026b980949dd7e75d1015e73a9c20bb51fbe30a6c46274/preview-400.e194e92d3b05.jpg
+        sha256: e194e92d3b05b833cc99154918ce7edb270a01a505ff6b67044a10fd50d6fa1d
+        mime: image/jpeg
+        bytes: 27348
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

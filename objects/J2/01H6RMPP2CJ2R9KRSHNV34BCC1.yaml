@@ -1,0 +1,36 @@
+id: 01H6RMPP2CJ2R9KRSHNV34BCC1
+type: image
+subtype: drawing
+title: Pfarrhaus, Aquarell, Lanz
+description: Federzeichnung, laviert.
+date: 1870-12-17
+location: Brünkendorf, Marktstraße
+geocode:
+  lat: 53.0196
+  lon: 11.5703
+  precision: town
+  source: osm
+origin:
+  name: Anni Wiegmann
+  type: person
+  location: Wootz
+files:
+  - role: main
+    original_name: scan_132.tif
+    path: files/97/2b/972b54ee58fa0180acbe10bb9f50e3fd041c0225474e40b15f248c8ca2581419/original.tif
+    sha256: 972b54ee58fa0180acbe10bb9f50e3fd041c0225474e40b15f248c8ca2581419
+    mime: image/tiff
+    bytes: 3324551
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/97/2b/972b54ee58fa0180acbe10bb9f50e3fd041c0225474e40b15f248c8ca2581419/preview-400.00d53be21ed6.jpg
+        sha256: 00d53be21ed6a3a5bf8147640f71dcf46f6ae68580e52cb77170e8447e115d54
+        mime: image/jpeg
+        bytes: 21732
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01HNPY6MA6NVY24V7T5MRNN155
+type: image
+subtype: photo
+title: Elfriede Lemke, Porträt
+description: Aufnahme von Brigitte Bohlmann.
+date: 1894-02-27
+location: Schnackenburg, Lange Straße
+geocode:
+  lat: 53.0243
+  lon: 11.6659
+  precision: region
+  source: osm
+origin:
+  name: Gerda Rohde
+  type: person
+  location: Cumlosen
+parents:
+  - 01HHR0N24ZWJF694Z9SN31KFR9
+files:
+  - role: main
+    original_name: foto_5471.jpg
+    path: files/3d/73/3d73498fa10458024997b69ff91c39ee2f97072788a3bc9a8a5bdc3798cb5c13/original.jpg
+    sha256: 3d73498fa10458024997b69ff91c39ee2f97072788a3bc9a8a5bdc3798cb5c13
+    mime: image/jpeg
+    bytes: 10633068
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/3d/73/3d73498fa10458024997b69ff91c39ee2f97072788a3bc9a8a5bdc3798cb5c13/preview-400.aff21cf48d3c.jpg
+        sha256: aff21cf48d3c7c0990e6e74112f488c755d46f085d927552a7ab719ae6e504d1
+        mime: image/jpeg
+        bytes: 35897
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

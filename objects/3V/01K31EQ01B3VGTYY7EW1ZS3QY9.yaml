@@ -1,0 +1,43 @@
+id: 01K31EQ01B3VGTYY7EW1ZS3QY9
+type: image
+subtype: print
+title: Postkarte Pretzier, Elbdeich
+date: "1781"
+location: Pretzier, Lange Straße
+origin:
+  name: Marta Jeß
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg 36/029
+subjects:
+  - name: August Kuhlmann
+    type: person
+  - name: Günter Lemke
+    type: person
+  - name: Hochwasser 1781
+    type: event
+files:
+  - role: main
+    original_name: scan_757.tif
+    path: files/cc/d1/ccd13d318d6cdce626cbb81351e629e1903625d3bb466ff5310e1217f34e6631/original.tif
+    sha256: ccd13d318d6cdce626cbb81351e629e1903625d3bb466ff5310e1217f34e6631
+    mime: image/tiff
+    bytes: 8930783
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/cc/d1/ccd13d318d6cdce626cbb81351e629e1903625d3bb466ff5310e1217f34e6631/preview-400.4bd68035c58b.jpg
+        sha256: 4bd68035c58bd72eb35841f7f242c265e38d575f5b5edf761ebd052af93dd5b5
+        mime: image/jpeg
+        bytes: 86348
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

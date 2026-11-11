@@ -1,0 +1,30 @@
+id: 01KRKHE6SZGKP5DQ0GDTRXVTNC
+type: image
+subtype: print
+title: Postkarte Brünkendorf, Schlachterei
+description: Lithographie, Rand beschnitten.
+subjects:
+  - name: Lanz
+    type: place
+  - name: Gärtnerei
+    type: building
+files:
+  - role: main
+    original_name: scan_474.tif
+    path: files/b6/09/b609f1b885b100c974f834a1e54ec1264e291ba7137baddc2eef4cee58001afa/original.tif
+    sha256: b609f1b885b100c974f834a1e54ec1264e291ba7137baddc2eef4cee58001afa
+    mime: image/tiff
+    bytes: 12090411
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b6/09/b609f1b885b100c974f834a1e54ec1264e291ba7137baddc2eef4cee58001afa/preview-400.09eae492bb36.jpg
+        sha256: 09eae492bb36bc21b6e557881d1e658a4b232da86e582157ffc944e0d4797874
+        mime: image/jpeg
+        bytes: 64554
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

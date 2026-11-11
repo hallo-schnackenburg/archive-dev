@@ -1,0 +1,62 @@
+id: 01GM048DZ7W6YSVPZFVJZ79256
+type: document
+subtype: letter
+title: Schreiben der Angelverein an den Schulvorstand
+recipient: Heinrich Schulz
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 39/160
+subjects:
+  - name: Osterfeuer 1810
+    type: event
+  - name: Ziegelei
+    type: building
+  - name: Schlachtfest 1810
+    type: event
+parents:
+  - 01GVKN942N85NKH8CV072GG85G
+files:
+  - role: page
+    num: 1
+    original_name: letter_z79256_001.tif
+    path: files/2e/82/2e825d5336338825cd9e8c380503544c01b13a89c5abf43eb439ec54e0026e7a/original.tif
+    sha256: 2e825d5336338825cd9e8c380503544c01b13a89c5abf43eb439ec54e0026e7a
+    mime: image/tiff
+    bytes: 20515958
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/82/2e825d5336338825cd9e8c380503544c01b13a89c5abf43eb439ec54e0026e7a/preview-400.a16ce8b97e62.jpg
+        sha256: a16ce8b97e62f751f11b8a1ac5137c6a680f10534d9c471b7cc373c75ecb5a0d
+        mime: image/jpeg
+        bytes: 53472
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_z79256_002.tif
+    path: files/cf/42/cf42014f3e7df98b615757307f7e81274a500fe1390b2e1d4ad08a6bbd41ba76/original.tif
+    sha256: cf42014f3e7df98b615757307f7e81274a500fe1390b2e1d4ad08a6bbd41ba76
+    mime: image/tiff
+    bytes: 5355742
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cf/42/cf42014f3e7df98b615757307f7e81274a500fe1390b2e1d4ad08a6bbd41ba76/preview-400.cde1d43802fb.jpg
+        sha256: cde1d43802fb202198c445b53325e37618b7e38aed6513e667e104b678426919
+        mime: image/jpeg
+        bytes: 62842
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

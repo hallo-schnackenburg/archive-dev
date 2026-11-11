@@ -1,0 +1,36 @@
+id: 01G9ZDSKSQRKHAZDCDHMN8JM2X
+type: image
+subtype: plan
+title: Bauplan Badestelle 1860
+description: Maßstab 1:250.
+date: 1860-05-08
+origin:
+  name: Friedrich Schulz
+  type: person
+  location: Zadrau
+subjects:
+  - name: Rüterberg
+    type: place
+parents:
+  - 01JBGVAY167R5WYZSBZK5TM9S3
+files:
+  - role: main
+    original_name: scan_486.tif
+    path: files/d9/97/d997b536c6b6fa6e843531d3fcc8b4a8da6d31544db5b4dffd9525ae09d83e41/original.tif
+    sha256: d997b536c6b6fa6e843531d3fcc8b4a8da6d31544db5b4dffd9525ae09d83e41
+    mime: image/tiff
+    bytes: 7421470
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d9/97/d997b536c6b6fa6e843531d3fcc8b4a8da6d31544db5b4dffd9525ae09d83e41/preview-400.465d7c27ddaa.jpg
+        sha256: 465d7c27ddaa2daabba96ca52d1d88e03905878f886cd0362c8d4dbaff5b72fd
+        mime: image/jpeg
+        bytes: 63893
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

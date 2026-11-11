@@ -1,0 +1,66 @@
+id: 01H30YAH5J9AQJS8GZJF9C3CWZ
+type: document
+subtype: note
+title: Rechnung Hennings, Bahnhof
+description: Auf der Rückseite eines Formulars.
+date: "1892"
+origin:
+  name: Günter Lemke
+  type: person
+  location: Pretzier
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan/Kasten 21/071
+  note: Dachboden, Truhe
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Karl Lemke
+    type: person
+  - name: Osterfeuer 1892
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_9c3cwz_001.tif
+    path: files/bb/6c/bb6c69308cc6f2039a37158d8b7d15740528eeec3e8e3f5a2cdca9b62aba2a21/original.tif
+    sha256: bb6c69308cc6f2039a37158d8b7d15740528eeec3e8e3f5a2cdca9b62aba2a21
+    mime: image/tiff
+    bytes: 1863456
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bb/6c/bb6c69308cc6f2039a37158d8b7d15740528eeec3e8e3f5a2cdca9b62aba2a21/preview-400.c9af7edb9c49.jpg
+        sha256: c9af7edb9c492eb10dd72d5bb4f789d76ba6f1b7daf14f5a4b15aa15f464d574
+        mime: image/jpeg
+        bytes: 29236
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_9c3cwz_002.tif
+    path: files/77/66/77668744612936f5d36ebc11b25fa5e36e0f41fe0b81ae4a755c0aac2cf3120c/original.tif
+    sha256: 77668744612936f5d36ebc11b25fa5e36e0f41fe0b81ae4a755c0aac2cf3120c
+    mime: image/tiff
+    bytes: 4348489
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/77/66/77668744612936f5d36ebc11b25fa5e36e0f41fe0b81ae4a755c0aac2cf3120c/preview-400.5614642ecbf6.jpg
+        sha256: 5614642ecbf689975a7b00fca78d4b439266ea836fd6420e6a35e3fb5bf385fc
+        mime: image/jpeg
+        bytes: 64402
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

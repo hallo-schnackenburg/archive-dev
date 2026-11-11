@@ -1,0 +1,34 @@
+id: 01HYG7K16DRGS2QEG3T7M64QHK
+type: image
+subtype: drawing
+title: Schmiede, Aquarell, Lüchow
+date: 185X
+location: Gollensdorf, Dorfstraße
+geocode:
+  lat: 53.0129
+  lon: 11.6399
+  precision: street
+  source: osm
+subjects:
+  - name: Otto Bruns
+    type: person
+files:
+  - role: main
+    original_name: scan_366.tif
+    path: files/e2/a8/e2a8c8735304211e2f68f75aabfcc15b330f3db73e0bf0343deb5bcc8b005e2d/original.tif
+    sha256: e2a8c8735304211e2f68f75aabfcc15b330f3db73e0bf0343deb5bcc8b005e2d
+    mime: image/tiff
+    bytes: 17005256
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e2/a8/e2a8c8735304211e2f68f75aabfcc15b330f3db73e0bf0343deb5bcc8b005e2d/preview-400.666c77413c37.jpg
+        sha256: 666c77413c373c5c02e7514875d65c8d4c561ba7b3e5c50d03deeb578aff94f5
+        mime: image/jpeg
+        bytes: 44221
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

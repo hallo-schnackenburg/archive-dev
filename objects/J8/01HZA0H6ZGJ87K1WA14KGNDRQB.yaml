@@ -1,0 +1,37 @@
+id: 01HZA0H6ZGJ87K1WA14KGNDRQB
+type: image
+subtype: drawing
+title: Skizze Nienwalde, Am Markt
+location: Laase, Am Markt
+geocode:
+  lat: 53.0918
+  lon: 11.4815
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+parents:
+  - 01GWG9662GMDBHVAK54DXCMWG2
+files:
+  - role: main
+    original_name: scan_823.tif
+    path: files/cc/fd/ccfd631ddb57b1974b409ae6a1ea6ab6dc1fb12bab9c73a0885302a090c248c0/original.tif
+    sha256: ccfd631ddb57b1974b409ae6a1ea6ab6dc1fb12bab9c73a0885302a090c248c0
+    mime: image/tiff
+    bytes: 3943129
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cc/fd/ccfd631ddb57b1974b409ae6a1ea6ab6dc1fb12bab9c73a0885302a090c248c0/preview-400.fa0dabcc7e9c.jpg
+        sha256: fa0dabcc7e9c98fa7de11fa2aff550d2b6ac59a8c0bbd346a265b2fb0456c604
+        mime: image/jpeg
+        bytes: 26025
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

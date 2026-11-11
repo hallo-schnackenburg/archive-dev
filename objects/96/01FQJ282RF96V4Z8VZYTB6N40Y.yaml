@@ -1,0 +1,36 @@
+id: 01FQJ282RF96V4Z8VZYTB6N40Y
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Maifeier"
+description: Bleistift auf Papier.
+date: 1884-02
+location: Arendsee, Kriegerdenkmal
+geocode:
+  lat: 53.0838
+  lon: 11.6211
+  precision: town
+  source: osm
+origin:
+  name: Friedrich Plate
+  type: person
+  location: Nienwalde
+files:
+  - role: main
+    original_name: scan_826.tif
+    path: files/5b/b6/5bb6aac4f87397321fefc2758367d15023f344c0aa03347ef4f47c419cd6696b/original.tif
+    sha256: 5bb6aac4f87397321fefc2758367d15023f344c0aa03347ef4f47c419cd6696b
+    mime: image/tiff
+    bytes: 24132385
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5b/b6/5bb6aac4f87397321fefc2758367d15023f344c0aa03347ef4f47c419cd6696b/preview-400.2de00abf65ba.jpg
+        sha256: 2de00abf65ba56c08ef046a6c47ff5d8f95bd7154f919eb5708ea6b01b9aa7e8
+        mime: image/jpeg
+        bytes: 72792
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

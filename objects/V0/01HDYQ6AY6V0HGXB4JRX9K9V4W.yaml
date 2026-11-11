@@ -1,0 +1,32 @@
+id: 01HDYQ6AY6V0HGXB4JRX9K9V4W
+type: image
+subtype: photo
+title: Otto Albers, Porträt
+description: Abzug im Format 6 x 9 cm.
+date: 1963?
+location: Brünkendorf, Burgstraße
+geocode:
+  lat: 53.0893
+  lon: 11.5249
+  precision: street
+  source: osm
+files:
+  - role: main
+    original_name: P3800.jpg
+    path: files/5a/09/5a09f77317870667b732dc4cb116688bb3b909b009015c9d5ee14776baff6267/original.jpg
+    sha256: 5a09f77317870667b732dc4cb116688bb3b909b009015c9d5ee14776baff6267
+    mime: image/jpeg
+    bytes: 2316776
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/5a/09/5a09f77317870667b732dc4cb116688bb3b909b009015c9d5ee14776baff6267/preview-400.e0589e9ed9f1.jpg
+        sha256: e0589e9ed9f162c42da697406d164931693d78a8226c93bebf68ea1954b61c92
+        mime: image/jpeg
+        bytes: 65464
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

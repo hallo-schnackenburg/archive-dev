@@ -1,0 +1,40 @@
+id: 01EYZYSTN5T83QHGFWERTN84NG
+type: image
+subtype: photo
+title: Grenzöffnung der Fußballverein
+description: Aufnahme von Friedrich Bruns.
+origin:
+  name: Paul Lemke
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 39/361
+subjects:
+  - name: Karl Lüders
+    type: person
+  - name: Hitzacker
+    type: place
+files:
+  - role: main
+    original_name: scan_150.tif
+    path: files/37/24/3724c98dece2d1734327fe5f7cabe7d8359b8c3a8b96db792dd0b5826b3c1f3a/original.tif
+    sha256: 3724c98dece2d1734327fe5f7cabe7d8359b8c3a8b96db792dd0b5826b3c1f3a
+    mime: image/tiff
+    bytes: 16650831
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/37/24/3724c98dece2d1734327fe5f7cabe7d8359b8c3a8b96db792dd0b5826b3c1f3a/preview-400.a866b63a6daf.jpg
+        sha256: a866b63a6daf43ce0dc76f6b39c557994c3d481be9551e450ec326709507234d
+        mime: image/jpeg
+        bytes: 59968
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

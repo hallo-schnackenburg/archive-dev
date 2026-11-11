@@ -1,0 +1,33 @@
+id: 01J4C0EQ6KHZGS1BB4RJA093E2
+type: image
+subtype: plan
+title: Deichplan Zadrau bis Kapern
+description: Mit handschriftlichen Ergänzungen.
+date: 1910?
+origin:
+  name: Ernst Ludolf
+  type: person
+  location: Dömitz
+subjects:
+  - name: August Garms
+    type: person
+files:
+  - role: main
+    original_name: scan_594.tif
+    path: files/dc/c4/dcc43b1941308133ff3d42f693cb0cb9b584527797927ac7f35268ac71b7c724/original.tif
+    sha256: dcc43b1941308133ff3d42f693cb0cb9b584527797927ac7f35268ac71b7c724
+    mime: image/tiff
+    bytes: 24655214
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/dc/c4/dcc43b1941308133ff3d42f693cb0cb9b584527797927ac7f35268ac71b7c724/preview-400.f51cfbe0e8df.jpg
+        sha256: f51cfbe0e8df4e8053cefe8694508e8c10706a80c6d6dbcbc03c48a41aca8b55
+        mime: image/jpeg
+        bytes: 32273
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

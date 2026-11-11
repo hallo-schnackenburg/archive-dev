@@ -1,0 +1,66 @@
+id: 01J3GDQJR5PSTM2XN1HNBRB9XS
+type: document
+subtype: note
+title: Kassenzettel Gasthof Meyer, Salzwedel
+description: Zettel, Bleistift.
+origin:
+  name: Gerda Matthies
+  type: person
+  location: Gorleben
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 28/104
+subjects:
+  - name: Wootz
+    type: place
+  - name: Berta Gaede
+    type: person
+  - name: Windmühle
+    type: building
+parents:
+  - 01K7J4DX7VRH2T02JPNZCE3TH0
+files:
+  - role: page
+    num: 1
+    original_name: note_brb9xs_001.tif
+    path: files/72/d0/72d04d0e7ab3f5c2fd0a2d8b90ab8953a9e39d8b52d09695ede6a2b4eeb1aa76/original.tif
+    sha256: 72d04d0e7ab3f5c2fd0a2d8b90ab8953a9e39d8b52d09695ede6a2b4eeb1aa76
+    mime: image/tiff
+    bytes: 14411074
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/72/d0/72d04d0e7ab3f5c2fd0a2d8b90ab8953a9e39d8b52d09695ede6a2b4eeb1aa76/preview-400.ecc1ac3e49ee.jpg
+        sha256: ecc1ac3e49eee1225a3b8d429a3fa5954daa797b16edc94da33510d7c3801675
+        mime: image/jpeg
+        bytes: 20119
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_brb9xs_002.tif
+    path: files/7b/b7/7bb7d9b522ff03cf00c9563fa61a1bda0c75d55f637e7e4d9415bec97dfc4e87/original.tif
+    sha256: 7bb7d9b522ff03cf00c9563fa61a1bda0c75d55f637e7e4d9415bec97dfc4e87
+    mime: image/tiff
+    bytes: 21151626
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7b/b7/7bb7d9b522ff03cf00c9563fa61a1bda0c75d55f637e7e4d9415bec97dfc4e87/preview-400.07efa847cf48.jpg
+        sha256: 07efa847cf488bdefdff761c75f01db6a501cfae215cd6a92f942e0306d7d1f1
+        mime: image/jpeg
+        bytes: 56814
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

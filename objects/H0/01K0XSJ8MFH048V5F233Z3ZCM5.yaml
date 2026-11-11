@@ -1,0 +1,42 @@
+id: 01K0XSJ8MFH048V5F233Z3ZCM5
+type: image
+subtype: photo
+title: Windmühle in Gülden
+date: 1999-11
+location: Brünkendorf, Mühlenweg
+geocode:
+  lat: 52.9806
+  lon: 11.677
+  precision: exact
+  source: osm
+origin:
+  name: Karl Tiedemann
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Hochwasser 1999
+    type: event
+  - name: Weihnachtsmarkt 1999
+    type: event
+parents:
+  - 01F5BDT8RF2AK0D4775DY21054
+files:
+  - role: main
+    original_name: scan_032.tif
+    path: files/a5/f7/a5f72a6bf10b9380f881e4ff5d46bced126cb343bf7b56f2a2f05b9c7fccd89e/original.tif
+    sha256: a5f72a6bf10b9380f881e4ff5d46bced126cb343bf7b56f2a2f05b9c7fccd89e
+    mime: image/tiff
+    bytes: 16610768
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a5/f7/a5f72a6bf10b9380f881e4ff5d46bced126cb343bf7b56f2a2f05b9c7fccd89e/preview-400.2eb05a490ce9.jpg
+        sha256: 2eb05a490ce96a894798939f9fb9118e080c6cefb48f7bbc31345a04e49ce176
+        mime: image/jpeg
+        bytes: 27158
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

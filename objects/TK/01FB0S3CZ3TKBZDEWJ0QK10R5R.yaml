@@ -1,0 +1,45 @@
+id: 01FB0S3CZ3TKBZDEWJ0QK10R5R
+type: image
+subtype: drawing
+title: Wappenentwurf Kapern, Arendsee
+description: Mit Anmerkungen am Rand.
+date: "1984"
+location: Gülden, Deichstraße
+origin:
+  name: Marta Kuhlmann
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 8/086
+subjects:
+  - name: Fährjubiläum 1984
+    type: event
+  - name: Dorfkrug
+    type: building
+parents:
+  - 01JSYB7Z03WSNMJ0H37E7BWCQW
+  - 01JRGX3XFSMSVNN02PC0NNSHZP
+files:
+  - role: main
+    original_name: scan_534.tif
+    path: files/42/1d/421d6d2d98530bf01e4cb372c5e327f16ada3877af04905059207bc1ae3532a0/original.tif
+    sha256: 421d6d2d98530bf01e4cb372c5e327f16ada3877af04905059207bc1ae3532a0
+    mime: image/tiff
+    bytes: 12955974
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/42/1d/421d6d2d98530bf01e4cb372c5e327f16ada3877af04905059207bc1ae3532a0/preview-400.5e714251c365.jpg
+        sha256: 5e714251c365ed341b497ab8a94f4f35e2dca25df8dea99182adce092fa622e9
+        mime: image/jpeg
+        bytes: 43993
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

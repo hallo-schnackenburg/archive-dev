@@ -1,0 +1,39 @@
+id: 01FKQGFJZT6W2TVG00CCCDGTC0
+type: image
+subtype: plan
+title: Bauplan Ziegelei 1917
+date: 1917/1918
+location: Wittenberge, Ziegelei
+origin:
+  name: Karl Behrens
+  type: person
+  location: Zadrau
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Eisgang 1917
+    type: event
+  - name: Karl Garms
+    type: person
+parents:
+  - 01FKRCJXM1WMJBH86NTRWPP373
+files:
+  - role: main
+    original_name: scan_260.tif
+    path: files/26/f3/26f309c17c0799c0b65ac3551ee7bdec834af6e5a5b603f4d4ea3374b67336d5/original.tif
+    sha256: 26f309c17c0799c0b65ac3551ee7bdec834af6e5a5b603f4d4ea3374b67336d5
+    mime: image/tiff
+    bytes: 6353431
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/26/f3/26f309c17c0799c0b65ac3551ee7bdec834af6e5a5b603f4d4ea3374b67336d5/preview-400.40ed68366679.jpg
+        sha256: 40ed683666794517b60ba4877f8934f0decc400a09a8adff12a4b1a855e12205
+        mime: image/jpeg
+        bytes: 84457
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01FSFYBZTYHTQJD4NEPZ64ZZDJ
+type: image
+subtype: drawing
+title: Skizze Seedorf, Hafenstraße, Arendsee
+date: "1936"
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 20/109
+files:
+  - role: main
+    original_name: scan_123.tif
+    path: files/20/b9/20b9c7c2efe273d16210244cc87f72c3f32a8fb2d6c18f42822c07abf7ce0e1a/original.tif
+    sha256: 20b9c7c2efe273d16210244cc87f72c3f32a8fb2d6c18f42822c07abf7ce0e1a
+    mime: image/tiff
+    bytes: 12031423
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/20/b9/20b9c7c2efe273d16210244cc87f72c3f32a8fb2d6c18f42822c07abf7ce0e1a/preview-400.803ed65f34e5.jpg
+        sha256: 803ed65f34e5c86f6e54447bc96e54895e6f9017c5672551b22d27b8bff37903
+        mime: image/jpeg
+        bytes: 21669
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01KGHAZX39WKK4WQRETY0JJKSW
+type: image
+subtype: drawing
+title: Federzeichnung Rathaus, Brünkendorf
+date: "1968"
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: Molkerei
+    type: building
+  - name: Cumlosen
+    type: place
+parents:
+  - 01KV80DFXW7572XGFSJ9A620CH
+  - 01H4PN30WRRJ626WVNCSGETHA9
+files:
+  - role: main
+    original_name: scan_324.tif
+    path: files/09/0d/090d4687e5d6906fd2c28d30cad370ecf1f1d14971f2eaa7ca859a9c7620160b/original.tif
+    sha256: 090d4687e5d6906fd2c28d30cad370ecf1f1d14971f2eaa7ca859a9c7620160b
+    mime: image/tiff
+    bytes: 10335521
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/09/0d/090d4687e5d6906fd2c28d30cad370ecf1f1d14971f2eaa7ca859a9c7620160b/preview-400.c140df48f852.jpg
+        sha256: c140df48f8524a85f50a4ba7df357986cd2a5a89ff5e1099582b48568f174443
+        mime: image/jpeg
+        bytes: 41228
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

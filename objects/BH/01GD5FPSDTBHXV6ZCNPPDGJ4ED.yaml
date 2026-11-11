@@ -1,0 +1,44 @@
+id: 01GD5FPSDTBHXV6ZCNPPDGJ4ED
+type: document
+subtype: note
+title: Kassenzettel Heuberge, Laase
+date: 1925-09-23
+location: Laase, Bahnhofstraße
+geocode:
+  lat: 53.0084
+  lon: 11.6113
+  precision: town
+  source: osm
+origin:
+  name: Otto Fricke
+  type: person
+  location: Pretzier
+language: de
+subjects:
+  - name: Viehmarkt 1925
+    type: event
+  - name: Poststelle
+    type: building
+  - name: Konfirmation 1925
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_dgj4ed_001.tif
+    path: files/92/da/92da1fab671d3805a0511dfbfd3c248987a8be0f14cb85fb88d3c51a5d8647bc/original.tif
+    sha256: 92da1fab671d3805a0511dfbfd3c248987a8be0f14cb85fb88d3c51a5d8647bc
+    mime: image/tiff
+    bytes: 15245549
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/da/92da1fab671d3805a0511dfbfd3c248987a8be0f14cb85fb88d3c51a5d8647bc/preview-400.d5b9cd2b7183.jpg
+        sha256: d5b9cd2b7183d86ab357e753c3dfd46fbf7bbd5010d71b628bf05beebde05400
+        mime: image/jpeg
+        bytes: 59415
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

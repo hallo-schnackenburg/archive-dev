@@ -1,0 +1,35 @@
+id: 01KS8J428P5W655E177Y34QBYD
+type: image
+subtype: photo
+title: Glockenweihe der Bürgerverein
+location: Pretzier, Ziegelei
+geocode:
+  lat: 53.0865
+  lon: 11.61
+  precision: region
+  source: osm
+subjects:
+  - name: Tanzsaal
+    type: building
+parents:
+  - 01EY996B6TE8NGN69VQYD76406
+files:
+  - role: main
+    original_name: scan_731.tif
+    path: files/0e/85/0e853d11c56cea1ef36f6ff530945d2e588a67c577fb3123c3ce7aa1d3717214/original.tif
+    sha256: 0e853d11c56cea1ef36f6ff530945d2e588a67c577fb3123c3ce7aa1d3717214
+    mime: image/tiff
+    bytes: 1898862
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/0e/85/0e853d11c56cea1ef36f6ff530945d2e588a67c577fb3123c3ce7aa1d3717214/preview-400.ffabc763c7f9.jpg
+        sha256: ffabc763c7f9ff109e74ef7044225a0884ffcde5cd5e53c7502510172ab0fc94
+        mime: image/jpeg
+        bytes: 71104
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

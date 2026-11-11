@@ -1,0 +1,63 @@
+id: 01G5CXMQ1YN6V0MT951C6HR3V1
+type: document
+subtype: letter
+title: Korrespondenz Anni Lemke
+date: 190X
+origin:
+  name: Marta Rieke
+  type: person
+  location: Zadrau
+recipient: Karl Wegner
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F 1/295
+subjects:
+  - name: Dieter Gaede
+    type: person
+  - name: Torhaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_6hr3v1_001.tif
+    path: files/8d/9e/8d9e4f79e4c39cfc4a9c43603dfa435abe323509b8a01739d91cf7238e1b7409/original.tif
+    sha256: 8d9e4f79e4c39cfc4a9c43603dfa435abe323509b8a01739d91cf7238e1b7409
+    mime: image/tiff
+    bytes: 13519837
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8d/9e/8d9e4f79e4c39cfc4a9c43603dfa435abe323509b8a01739d91cf7238e1b7409/preview-400.c81b163764ce.jpg
+        sha256: c81b163764ce2f08945b86a7ecbd9c5cdc408af31984f8120c7d43798174e3a0
+        mime: image/jpeg
+        bytes: 55921
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_6hr3v1_002.tif
+    path: files/19/aa/19aa6a9931e5690c7773dbe4eff991b2698d6408c47f636fc42749bc558279f6/original.tif
+    sha256: 19aa6a9931e5690c7773dbe4eff991b2698d6408c47f636fc42749bc558279f6
+    mime: image/tiff
+    bytes: 19617117
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/19/aa/19aa6a9931e5690c7773dbe4eff991b2698d6408c47f636fc42749bc558279f6/preview-400.d8f6bdcd5928.jpg
+        sha256: d8f6bdcd59284781483b447d617578a44a13650ddd7c9afef1a86a8cc3cd662a
+        mime: image/jpeg
+        bytes: 28695
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

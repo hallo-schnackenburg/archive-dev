@@ -1,0 +1,72 @@
+id: 01K3FPBJQXXC0TBZV430G7JD12
+type: document
+subtype: letter
+title: Brief von Frieda Fricke an Rudolf Heuer
+description: Maschinenschriftlich, unterschrieben.
+date: 1806-12
+location: Lüchow, Tischlerei Bruns
+geocode:
+  lat: 53.0583
+  lon: 11.4745
+  precision: street
+  source: osm
+origin:
+  name: Wilhelm Wiese
+  type: person
+  location: Bömenzien
+recipient: Ingrid Wöhlk
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Bahnhof
+    type: building
+  - name: Ingrid Krüger
+    type: person
+parents:
+  - 01F3WB9ZBJKKX10FSWQKEJV2M4
+files:
+  - role: page
+    num: 1
+    original_name: letter_g7jd12_001.tif
+    path: files/5f/0b/5f0b88eb6e1eabee26bbbac3f3aacd86325d606bc1af8b33bf66a0834c8d0204/original.tif
+    sha256: 5f0b88eb6e1eabee26bbbac3f3aacd86325d606bc1af8b33bf66a0834c8d0204
+    mime: image/tiff
+    bytes: 9038795
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5f/0b/5f0b88eb6e1eabee26bbbac3f3aacd86325d606bc1af8b33bf66a0834c8d0204/preview-400.236aec21d3de.jpg
+        sha256: 236aec21d3def661784dffd2fe87b1e128091d693733f6bed2a238cf50d9ea31
+        mime: image/jpeg
+        bytes: 56785
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_g7jd12_002.tif
+    path: files/5e/a9/5ea907ebb2090ab86b4c78b7c252f83860c7b8b3632a6af00df8c3d00baa0c7f/original.tif
+    sha256: 5ea907ebb2090ab86b4c78b7c252f83860c7b8b3632a6af00df8c3d00baa0c7f
+    mime: image/tiff
+    bytes: 9680355
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5e/a9/5ea907ebb2090ab86b4c78b7c252f83860c7b8b3632a6af00df8c3d00baa0c7f/preview-400.c13f029aa5cb.jpg
+        sha256: c13f029aa5cb927e0190d0ebc62dacfba1c007edf3725963ade153d6a690790b
+        mime: image/jpeg
+        bytes: 61461
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

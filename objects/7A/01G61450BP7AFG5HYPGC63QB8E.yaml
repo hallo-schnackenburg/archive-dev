@@ -1,0 +1,27 @@
+id: 01G61450BP7AFG5HYPGC63QB8E
+type: image
+subtype: plan
+title: Katasterblatt Lemke, Salzwedel
+date: 1918~
+parents:
+  - 01KXSMG16S33C92YAYMEJ5A0FZ
+files:
+  - role: main
+    original_name: scan_738.tif
+    path: files/f0/22/f022e832e40b91132a6c99305279beb5d55cabb15e4a66de44a0fe5ab9df2120/original.tif
+    sha256: f022e832e40b91132a6c99305279beb5d55cabb15e4a66de44a0fe5ab9df2120
+    mime: image/tiff
+    bytes: 18061469
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/22/f022e832e40b91132a6c99305279beb5d55cabb15e4a66de44a0fe5ab9df2120/preview-400.a5c60dcfb803.jpg
+        sha256: a5c60dcfb803899e964a78bb8158399c16d52139496ea901984784365be03a3f
+        mime: image/jpeg
+        bytes: 50311
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

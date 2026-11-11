@@ -1,0 +1,38 @@
+id: 01HFDHNQMRRNV3NPREXP31NJK8
+type: image
+subtype: photo
+title: Schulstraße, Ecke Deichstraße
+date: 1965/1974
+origin:
+  name: Helga Wiese
+  type: person
+  location: Zadrau
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+  - name: Dieter Lüders
+    type: person
+  - name: Wustrow
+    type: place
+parents:
+  - 01JP20QWTYZEWRGFHPQXP5662Q
+files:
+  - role: main
+    original_name: IMG_0320.jpg
+    path: files/5b/b3/5bb31166b6bf416f170818244f5882a3a76224ba638484670516d1f628069355/original.jpg
+    sha256: 5bb31166b6bf416f170818244f5882a3a76224ba638484670516d1f628069355
+    mime: image/jpeg
+    bytes: 18857800
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/5b/b3/5bb31166b6bf416f170818244f5882a3a76224ba638484670516d1f628069355/preview-400.aa30e90ed003.jpg
+        sha256: aa30e90ed00336ed2a071e0a6687d8269104bf3a93e3080ef2e7fe6295ca0782
+        mime: image/jpeg
+        bytes: 81266
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

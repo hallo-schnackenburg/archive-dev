@@ -1,0 +1,59 @@
+id: 01GH2ZV2V2H0JNT8MHQ0R37X9D
+type: document
+subtype: note
+title: Rechnung Pape, Bäckerei Lüders
+description: Auf der Rückseite eines Formulars.
+date: 196X
+origin:
+  name: Erika Albers
+  type: person
+  location: Bömenzien
+language: la
+subjects:
+  - name: Einschulung 1968
+    type: event
+  - name: Tanzsaal
+    type: building
+parents:
+  - 01FBYZQVFEERGK9E2W84G9TFJ3
+files:
+  - role: page
+    num: 1
+    original_name: note_r37x9d_001.tif
+    path: files/6d/ec/6decd01bc0be0c77e1f8153cae8634b6b3a6c09fdf2c5ed9ae80a70ae2231ee2/original.tif
+    sha256: 6decd01bc0be0c77e1f8153cae8634b6b3a6c09fdf2c5ed9ae80a70ae2231ee2
+    mime: image/tiff
+    bytes: 22306664
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6d/ec/6decd01bc0be0c77e1f8153cae8634b6b3a6c09fdf2c5ed9ae80a70ae2231ee2/preview-400.e7e4de83bc06.jpg
+        sha256: e7e4de83bc0695730d9616acb7de0267063c30ef2b4a97ee1bd2825e83e75c7e
+        mime: image/jpeg
+        bytes: 27303
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_r37x9d_002.tif
+    path: files/9e/50/9e50d9f782c22c7bde63188ec532e7110a19dc059ac4b7eaef494c0585652676/original.tif
+    sha256: 9e50d9f782c22c7bde63188ec532e7110a19dc059ac4b7eaef494c0585652676
+    mime: image/tiff
+    bytes: 6605760
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9e/50/9e50d9f782c22c7bde63188ec532e7110a19dc059ac4b7eaef494c0585652676/preview-400.5a3ec294caae.jpg
+        sha256: 5a3ec294caaea5c8d180749a5bc6325c9794b2ca0a2e22c3e839402c103ed2c0
+        mime: image/jpeg
+        bytes: 65951
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

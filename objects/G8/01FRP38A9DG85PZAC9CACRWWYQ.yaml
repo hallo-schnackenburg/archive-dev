@@ -1,0 +1,42 @@
+id: 01FRP38A9DG85PZAC9CACRWWYQ
+type: image
+subtype: photo
+title: Dorffest 1928
+date: 1928-03-11
+location: Brünkendorf, Hafenstraße
+geocode:
+  lat: 52.9464
+  lon: 11.6901
+  precision: street
+  source: osm
+origin:
+  name: Petra Lüders
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 20/025
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v65933
+files:
+  - role: main
+    original_name: IMG_3131.jpg
+    path: files/a5/6c/a56cf4a053c96002319c43d9b9618bec28d43be6ad94d5862797da0fb4404687/original.jpg
+    sha256: a56cf4a053c96002319c43d9b9618bec28d43be6ad94d5862797da0fb4404687
+    mime: image/jpeg
+    bytes: 7412216
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/a5/6c/a56cf4a053c96002319c43d9b9618bec28d43be6ad94d5862797da0fb4404687/preview-400.1219bf11f433.jpg
+        sha256: 1219bf11f433131657bf4eb4eae97398e87a4919cffaf89d9c860a4d08f9cf72
+        mime: image/jpeg
+        bytes: 58782
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

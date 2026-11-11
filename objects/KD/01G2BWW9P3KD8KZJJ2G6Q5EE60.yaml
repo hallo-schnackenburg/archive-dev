@@ -1,0 +1,44 @@
+id: 01G2BWW9P3KD8KZJJ2G6Q5EE60
+type: image
+subtype: photo
+title: Walter Harms, Porträt
+date: 1960-07-05
+location: Kapern, Mühlenweg
+geocode:
+  lat: 52.9935
+  lon: 11.5481
+  precision: exact
+  source: osm
+origin:
+  name: Wilhelm Wöhlk
+  type: person
+  location: Lüchow
+subjects:
+  - name: Brunnen am Markt
+    type: building
+  - name: Gorleben
+    type: place
+  - name: Otto Meyer
+    type: person
+parents:
+  - 01KYY4CVMJ2SF598S69P8F19XE
+files:
+  - role: main
+    original_name: scan_304.tif
+    path: files/ce/a6/cea6edb0c7bde4be85d78ad15b376090ef6261c9449cf333097f635b10b40e21/original.tif
+    sha256: cea6edb0c7bde4be85d78ad15b376090ef6261c9449cf333097f635b10b40e21
+    mime: image/tiff
+    bytes: 17890208
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ce/a6/cea6edb0c7bde4be85d78ad15b376090ef6261c9449cf333097f635b10b40e21/preview-400.34060a3564f3.jpg
+        sha256: 34060a3564f399eabfef8f82833e1464c57e430c9c7653ca4409a0a9eb5b6b26
+        mime: image/jpeg
+        bytes: 29035
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

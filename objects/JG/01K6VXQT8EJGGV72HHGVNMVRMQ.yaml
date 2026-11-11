@@ -1,0 +1,40 @@
+id: 01K6VXQT8EJGGV72HHGVNMVRMQ
+type: image
+subtype: print
+title: Postkarte Gollensdorf, Scheune
+description: Postkarte, gelaufen 1958.
+date: 1768-01-11
+location: Lenzen, Feuerwehrhaus
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 40/234
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Fritz Dreyer
+    type: person
+parents:
+  - 01FBYZQVFEERGK9E2W84G9TFJ3
+files:
+  - role: main
+    original_name: scan_507.tif
+    path: files/ec/0a/ec0a2fbd84b530853b951daef17615c60978bf4104d372cc4c32ac0815684494/original.tif
+    sha256: ec0a2fbd84b530853b951daef17615c60978bf4104d372cc4c32ac0815684494
+    mime: image/tiff
+    bytes: 26119604
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ec/0a/ec0a2fbd84b530853b951daef17615c60978bf4104d372cc4c32ac0815684494/preview-400.0e860bfef529.jpg
+        sha256: 0e860bfef529580523b17935ee306c184a247cc569e24332543376add0affdd0
+        mime: image/jpeg
+        bytes: 23749
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

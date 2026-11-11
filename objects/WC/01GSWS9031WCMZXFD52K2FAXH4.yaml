@@ -1,0 +1,36 @@
+id: 01GSWS9031WCMZXFD52K2FAXH4
+type: image
+subtype: plan
+title: Bauplan Bahnhof 1837
+description: Mit handschriftlichen Ergänzungen.
+date: 1837-04-13
+location: Restorf, Lange Straße
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Mappe 12
+subjects:
+  - name: Schmiede
+    type: building
+files:
+  - role: main
+    original_name: scan_628.tif
+    path: files/2a/5d/2a5df9b70d2e87f69f0cce2da16a75f63630d985fcbf0feae58d206ebad303ea/original.tif
+    sha256: 2a5df9b70d2e87f69f0cce2da16a75f63630d985fcbf0feae58d206ebad303ea
+    mime: image/tiff
+    bytes: 11592841
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2a/5d/2a5df9b70d2e87f69f0cce2da16a75f63630d985fcbf0feae58d206ebad303ea/preview-400.cf52ca4a7d33.jpg
+        sha256: cf52ca4a7d338fb9a9bf58f9a77118728e51cee817b0c2e26ca3182149ffe132
+        mime: image/jpeg
+        bytes: 28332
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

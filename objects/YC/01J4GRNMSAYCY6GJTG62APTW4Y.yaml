@@ -1,0 +1,35 @@
+id: 01J4GRNMSAYCY6GJTG62APTW4Y
+type: image
+subtype: print
+title: Postkarte Schnackenburg, Gärtnerei
+description: Kupferstich, koloriert.
+location: Zadrau, Kirche St. Johannis
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok/Kasten 9/113
+subjects:
+  - name: Glockenweihe 1745
+    type: event
+files:
+  - role: main
+    original_name: scan_985.tif
+    path: files/26/53/2653d4804eed8888d42856e538ed087a5af855e5d0d4222556ac4300c38cc5c3/original.tif
+    sha256: 2653d4804eed8888d42856e538ed087a5af855e5d0d4222556ac4300c38cc5c3
+    mime: image/tiff
+    bytes: 23272599
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/26/53/2653d4804eed8888d42856e538ed087a5af855e5d0d4222556ac4300c38cc5c3/preview-400.96fc240f6602.jpg
+        sha256: 96fc240f66023410e2b9f1a482257dbe30a295e2bffb44871ec21dd6b544493b
+        mime: image/jpeg
+        bytes: 34590
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

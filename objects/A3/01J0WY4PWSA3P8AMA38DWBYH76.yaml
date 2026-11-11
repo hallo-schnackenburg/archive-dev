@@ -1,0 +1,63 @@
+id: 01J0WY4PWSA3P8AMA38DWBYH76
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Dömitz 1964
+date: "1964"
+location: Wustrow, Grenzturm
+origin:
+  name: Kirchenvorstand Gartow
+  type: business
+  location: Gülden
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 28/240
+subjects:
+  - name: Gustav Oelker
+    type: person
+parents:
+  - 01K9N6XPK6XESVRSWK7PT6AY2K
+files:
+  - role: page
+    num: 1
+    original_name: protocol_wbyh76_001.tif
+    path: files/c0/e8/c0e85b95faeaeee664c07c261fe5c45f53dca34a4504fa518ced7563d83ae311/original.tif
+    sha256: c0e85b95faeaeee664c07c261fe5c45f53dca34a4504fa518ced7563d83ae311
+    mime: image/tiff
+    bytes: 9167032
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c0/e8/c0e85b95faeaeee664c07c261fe5c45f53dca34a4504fa518ced7563d83ae311/preview-400.4b24125373e6.jpg
+        sha256: 4b24125373e68d9f65c49f5b581d8f681edd06fc2963faa2dd1bfa0fa2bcec12
+        mime: image/jpeg
+        bytes: 49503
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_wbyh76_002.tif
+    path: files/7e/6d/7e6d0373133f60852372eee084dbc3e60d57aee4ec7f30e59b897bd9cf37be4d/original.tif
+    sha256: 7e6d0373133f60852372eee084dbc3e60d57aee4ec7f30e59b897bd9cf37be4d
+    mime: image/tiff
+    bytes: 807936
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7e/6d/7e6d0373133f60852372eee084dbc3e60d57aee4ec7f30e59b897bd9cf37be4d/preview-400.a0a1717f741f.jpg
+        sha256: a0a1717f741f7dc179765445e855fe5d3baefca668823b6715b6c312599ae6ba
+        mime: image/jpeg
+        bytes: 71269
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

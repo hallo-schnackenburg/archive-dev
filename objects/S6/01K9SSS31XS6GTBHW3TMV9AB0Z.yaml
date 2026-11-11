@@ -1,0 +1,44 @@
+id: 01K9SSS31XS6GTBHW3TMV9AB0Z
+type: image
+subtype: photo
+title: Heinrich Albers, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1955-09
+location: Wittenberge, Fähranleger
+origin:
+  name: Erika Plate
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 8/337
+subjects:
+  - name: Einweihung 1955
+    type: event
+  - name: Uwe Lüders
+    type: person
+  - name: Frieda Rieke
+    type: person
+files:
+  - role: main
+    original_name: P1939.jpg
+    path: files/65/5e/655e021739456ed443a7432b0a403a57daec9e2132073067c8549d9ebc332d2e/original.jpg
+    sha256: 655e021739456ed443a7432b0a403a57daec9e2132073067c8549d9ebc332d2e
+    mime: image/jpeg
+    bytes: 14083011
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/65/5e/655e021739456ed443a7432b0a403a57daec9e2132073067c8549d9ebc332d2e/preview-400.0521c621108c.jpg
+        sha256: 0521c621108c79c92d55e4ec14a83ed0432d42cc40bf240b469659bad38eebf7
+        mime: image/jpeg
+        bytes: 39069
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

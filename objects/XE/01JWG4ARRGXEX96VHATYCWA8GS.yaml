@@ -1,0 +1,34 @@
+id: 01JWG4ARRGXEX96VHATYCWA8GS
+type: image
+subtype: plan
+title: Grundriss Gasthof „Zur Elbe“
+description: Tusche auf Transparentpapier.
+date: 1996-05-10
+location: Hitzacker, Kirche St. Johannis
+geocode:
+  lat: 53.0366
+  lon: 11.5979
+  precision: region
+  source: osm
+parents:
+  - 01HNVK3TWSXAG1X7MJP1AQW02W
+files:
+  - role: main
+    original_name: scan_391.tif
+    path: files/d0/65/d06505b4116f2b2caa4c1d83e32509f57db5da3cdf3fdb627002ac6081ba2d52/original.tif
+    sha256: d06505b4116f2b2caa4c1d83e32509f57db5da3cdf3fdb627002ac6081ba2d52
+    mime: image/tiff
+    bytes: 1851669
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d0/65/d06505b4116f2b2caa4c1d83e32509f57db5da3cdf3fdb627002ac6081ba2d52/preview-400.b74ed02ed01c.jpg
+        sha256: b74ed02ed01c670b0517c9f1d20b85d8d06b5df565c4fc5788b62ff96a2b7a9b
+        mime: image/jpeg
+        bytes: 80806
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

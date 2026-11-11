@@ -1,0 +1,41 @@
+id: 01M0FA5KXJRJNW509JT0YC3ST5
+type: image
+subtype: photo
+title: Bäckerei Lüders in Bömenzien
+description: Zu sehen sind Kaufmannshaus und Försterei.
+date: 194X
+location: Holtorf, Sparkasse
+origin:
+  name: Erika Wiegmann
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Hafen
+    type: building
+  - name: Feuerwehrhaus
+    type: building
+  - name: Hitzacker
+    type: place
+parents:
+  - 01HRG40C1FAN8Q9TP1QT18AH5E
+  - 01KHXJPG3828D54ZR9ZE2Z5K94
+files:
+  - role: main
+    original_name: foto_8131.jpg
+    path: files/6f/8d/6f8df57916b55b353dc68aaa6d5afb3d7a3235293b7e629c3158f5023c2c0c29/original.jpg
+    sha256: 6f8df57916b55b353dc68aaa6d5afb3d7a3235293b7e629c3158f5023c2c0c29
+    mime: image/jpeg
+    bytes: 7693266
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/6f/8d/6f8df57916b55b353dc68aaa6d5afb3d7a3235293b7e629c3158f5023c2c0c29/preview-400.722a54f0a0bc.jpg
+        sha256: 722a54f0a0bc2ea3e3f8f94dafe6953a233897876c75454c19dfef7a9bd029f2
+        mime: image/jpeg
+        bytes: 30781
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

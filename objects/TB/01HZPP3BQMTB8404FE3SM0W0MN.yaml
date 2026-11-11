@@ -1,0 +1,33 @@
+id: 01HZPP3BQMTB8404FE3SM0W0MN
+type: image
+subtype: photo
+title: Rudolf Hennings, Porträt
+origin:
+  name: Wilhelm Behrens
+  type: person
+  location: Wootz
+subjects:
+  - name: Heuberge
+    type: building
+parents:
+  - 01JQT54EAMY9FPSYNK9W7RJSV4
+files:
+  - role: main
+    original_name: IMG_3707.jpg
+    path: files/1d/3c/1d3c553757b12c168e9f7971fa1fbb3fed53966cf9a92c5f868a4e311e1edf7e/original.jpg
+    sha256: 1d3c553757b12c168e9f7971fa1fbb3fed53966cf9a92c5f868a4e311e1edf7e
+    mime: image/jpeg
+    bytes: 9791984
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/1d/3c/1d3c553757b12c168e9f7971fa1fbb3fed53966cf9a92c5f868a4e311e1edf7e/preview-400.bc4c8c56b7ae.jpg
+        sha256: bc4c8c56b7aec825d25b2666dcb7c1ac330aee72a17574a82a6d0bb23313ec00
+        mime: image/jpeg
+        bytes: 57990
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

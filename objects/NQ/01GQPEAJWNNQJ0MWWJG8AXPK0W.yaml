@@ -1,0 +1,41 @@
+id: 01GQPEAJWNNQJ0MWWJG8AXPK0W
+type: image
+subtype: print
+title: "Kupferstich: Wittenberge von der Elbseite, Gorleben"
+description: Kupferstich, koloriert.
+date: 1873-01
+location: Gollensdorf, Am Markt
+origin:
+  name: Fritz Voss
+  type: person
+  location: Arendsee
+subjects:
+  - name: Konfirmation 1873
+    type: event
+  - name: Erntedankfest 1873
+    type: event
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01JN30QK7AA815KKZN3ATXX5V3
+  - 01F54Y44HWBYAXTTC3F5NVVN21
+files:
+  - role: main
+    original_name: scan_923.tif
+    path: files/b0/f1/b0f1008f4425bf683cf1e752a0d60222893a427692e3683ea086d6c7716f40b1/original.tif
+    sha256: b0f1008f4425bf683cf1e752a0d60222893a427692e3683ea086d6c7716f40b1
+    mime: image/tiff
+    bytes: 10197021
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b0/f1/b0f1008f4425bf683cf1e752a0d60222893a427692e3683ea086d6c7716f40b1/preview-400.67347061c94c.jpg
+        sha256: 67347061c94ced115c7e7152d0ab1854075b69727289f2456cc4842b4f1eebe3
+        mime: image/jpeg
+        bytes: 65104
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

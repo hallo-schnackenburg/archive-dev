@@ -1,0 +1,39 @@
+id: 01HN9R1KK3KBGVYX4PRQMXY3NT
+type: image
+subtype: plan
+title: Grundriss Feuerwehrhaus
+description: Maßstab 1:2500.
+date: 1943-09
+location: Cumlosen, Molkerei
+geocode:
+  lat: 52.9958
+  lon: 11.583
+  precision: town
+  source: osm
+origin:
+  name: Dieter Plate
+  type: person
+  location: Dömitz
+subjects:
+  - name: Beerdigung 1943
+    type: event
+files:
+  - role: main
+    original_name: scan_528.tif
+    path: files/eb/c3/ebc31c6cb3ce2cd35cd8edaf4ec82221088ca70627727ffec9293dfd7a68a7fa/original.tif
+    sha256: ebc31c6cb3ce2cd35cd8edaf4ec82221088ca70627727ffec9293dfd7a68a7fa
+    mime: image/tiff
+    bytes: 5634578
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/eb/c3/ebc31c6cb3ce2cd35cd8edaf4ec82221088ca70627727ffec9293dfd7a68a7fa/preview-400.3120e3bc45d8.jpg
+        sha256: 3120e3bc45d81e34e3900e956d348e8662c1d691e65ace09ef65ad635d7e0ed1
+        mime: image/jpeg
+        bytes: 33278
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

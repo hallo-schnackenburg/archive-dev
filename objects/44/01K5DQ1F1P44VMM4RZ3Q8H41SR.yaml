@@ -1,0 +1,50 @@
+id: 01K5DQ1F1P44VMM4RZ3Q8H41SR
+type: image
+subtype: photo
+title: Familie Heuer beim Ortsbesichtigung
+description: Abzug im Format 9 x 13 cm.
+location: Laase, Dorfladen
+geocode:
+  lat: 52.9817
+  lon: 11.4847
+  precision: street
+  source: osm
+origin:
+  name: Frieda Ahrens
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Lüchow
+  note: Schrank B
+subjects:
+  - name: Schmiede
+    type: building
+  - name: Weihnachtsmarkt 1986
+    type: event
+  - name: Schützenfest 1986
+    type: event
+parents:
+  - 01G488M9Q0MA5PAK1E0A8Z23Y9
+files:
+  - role: main
+    original_name: IMG_4338.jpg
+    path: files/ec/e4/ece4001a95dc775ccc5950f974cf81b137f9290a27ce129ccd21b33d1682438d/original.jpg
+    sha256: ece4001a95dc775ccc5950f974cf81b137f9290a27ce129ccd21b33d1682438d
+    mime: image/jpeg
+    bytes: 2330367
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/ec/e4/ece4001a95dc775ccc5950f974cf81b137f9290a27ce129ccd21b33d1682438d/preview-400.413e5a529d7c.jpg
+        sha256: 413e5a529d7cce685eadcf2ec8b8ec935fe74bef60f54384b1897b09c70c906e
+        mime: image/jpeg
+        bytes: 46802
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

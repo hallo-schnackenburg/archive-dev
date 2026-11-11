@@ -1,0 +1,41 @@
+id: 01JJNZTTB8QV8WNPW7DREE2F8A
+type: image
+subtype: plan
+title: Bauplan Ladestraße 1780
+description: Maßstab 1:250.
+date: "1780"
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 40/299
+subjects:
+  - name: Wilhelm Schwarz
+    type: person
+  - name: Gärtnerei
+    type: building
+  - name: Walter Rieke
+    type: person
+parents:
+  - 01GBX4DSD6VXD835CH0X8R10EN
+files:
+  - role: main
+    original_name: scan_808.tif
+    path: files/d6/39/d639f29f877e5053720b207a8dfdfb241089515bdb259b2b5d79e1422011dc21/original.tif
+    sha256: d639f29f877e5053720b207a8dfdfb241089515bdb259b2b5d79e1422011dc21
+    mime: image/tiff
+    bytes: 19977870
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d6/39/d639f29f877e5053720b207a8dfdfb241089515bdb259b2b5d79e1422011dc21/preview-400.ba229efe56fa.jpg
+        sha256: ba229efe56fa6bea40033e8104b6e9f9ed8d27c3ed4171257b3caffdd7befe5c
+        mime: image/jpeg
+        bytes: 32820
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

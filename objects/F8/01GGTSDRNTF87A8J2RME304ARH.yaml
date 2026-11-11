@@ -1,0 +1,66 @@
+id: 01GGTSDRNTF87A8J2RME304ARH
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Gemeindewahl 1900
+description: Anwesend waren 9 Personen.
+date: 1900-11-26
+location: Dömitz, Dorfstraße
+geocode:
+  lat: 53.0534
+  lon: 11.6883
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Windmühle
+    type: building
+  - name: Jürgen Lemke
+    type: person
+  - name: Hermann Mahnke
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: protocol_304arh_001.tif
+    path: files/da/cf/dacfbaa0f0de5a967cf630ce1bff5069f7017415698bd8e4d715fb3e44dddb21/original.tif
+    sha256: dacfbaa0f0de5a967cf630ce1bff5069f7017415698bd8e4d715fb3e44dddb21
+    mime: image/tiff
+    bytes: 22469178
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/cf/dacfbaa0f0de5a967cf630ce1bff5069f7017415698bd8e4d715fb3e44dddb21/preview-400.80f8ef69488c.jpg
+        sha256: 80f8ef69488c67ee103fa3c7651c85ec7fb53832f17276814cb73a235234e26c
+        mime: image/jpeg
+        bytes: 69353
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_304arh_002.tif
+    path: files/c6/76/c67613d5c249bceb047ddd5e615489109573620c9174d6b870cb7ae419f4ed67/original.tif
+    sha256: c67613d5c249bceb047ddd5e615489109573620c9174d6b870cb7ae419f4ed67
+    mime: image/tiff
+    bytes: 13913385
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/76/c67613d5c249bceb047ddd5e615489109573620c9174d6b870cb7ae419f4ed67/preview-400.d0d96409e587.jpg
+        sha256: d0d96409e58712106f1689fb2c53d912ab3cddcefb23dd8a74bf9fa377848b57
+        mime: image/jpeg
+        bytes: 37271
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Person links unbekannt.

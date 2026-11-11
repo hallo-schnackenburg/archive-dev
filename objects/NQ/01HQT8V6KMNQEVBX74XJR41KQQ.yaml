@@ -1,0 +1,47 @@
+id: 01HQT8V6KMNQEVBX74XJR41KQQ
+type: document
+subtype: letter
+title: Gesuch um Kirchenglocken
+date: 1980?
+location: Havelberg, Feuerwehrhaus
+geocode:
+  lat: 53.0574
+  lon: 11.4565
+  precision: town
+  source: osm
+language: de
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 4/113
+  note: Regal 1
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Eisgang 1980
+    type: event
+parents:
+  - 01HJJHXB72AVBKM2CVZ13T7KRK
+files:
+  - role: page
+    num: 1
+    original_name: letter_r41kqq_001.tif
+    path: files/2b/12/2b121f979eae16ee994eda6a734991c09ad19f56af3a61e6ef942dad6d544328/original.tif
+    sha256: 2b121f979eae16ee994eda6a734991c09ad19f56af3a61e6ef942dad6d544328
+    mime: image/tiff
+    bytes: 16650223
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2b/12/2b121f979eae16ee994eda6a734991c09ad19f56af3a61e6ef942dad6d544328/preview-400.9bb52bc4ca25.jpg
+        sha256: 9bb52bc4ca251a100a11e20205d7da809c37e3ba33c65032d6e879c758cb00ee
+        mime: image/jpeg
+        bytes: 21110
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,32 @@
+id: 01FK5M037A5AEB8TCQ8X7WYZWS
+type: image
+subtype: plan
+title: Deichplan Pretzier bis Dömitz
+description: Maßstab 1:250.
+date: 1982-10-10
+location: Wustrow, Hinter den Höfen
+geocode:
+  lat: 52.9516
+  lon: 11.4682
+  precision: street
+  source: osm
+files:
+  - role: main
+    original_name: scan_195.tif
+    path: files/1f/41/1f412d4543a94fd82ce62f584856811b0062733bdb99ea2a41b8737e2e812090/original.tif
+    sha256: 1f412d4543a94fd82ce62f584856811b0062733bdb99ea2a41b8737e2e812090
+    mime: image/tiff
+    bytes: 25756959
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1f/41/1f412d4543a94fd82ce62f584856811b0062733bdb99ea2a41b8737e2e812090/preview-400.1c152b5844ac.jpg
+        sha256: 1c152b5844acc3ac4374216f0f887f17ce87664b9ece7f9912e7aa80d7b8731f
+        mime: image/jpeg
+        bytes: 38960
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

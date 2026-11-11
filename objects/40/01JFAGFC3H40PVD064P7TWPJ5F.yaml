@@ -1,0 +1,71 @@
+id: 01JFAGFC3H40PVD064P7TWPJ5F
+type: document
+subtype: note
+title: Quittung für Manfred Wegner
+description: Beleg mit Stempel.
+date: "1927"
+location: Zadrau, Schmiede
+geocode:
+  lat: 53.0308
+  lon: 11.694
+  precision: region
+  source: osm
+origin:
+  name: Käthe Voss
+  type: person
+  location: Gollensdorf
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 17/057
+subjects:
+  - name: Fastnacht 1927
+    type: event
+  - name: Grenzöffnung 1927
+    type: event
+  - name: Heuberge
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_twpj5f_001.tif
+    path: files/78/3b/783b20cfaa5f9d050d629323729b3ca83664ca315ae03fa83c3c69cd48880577/original.tif
+    sha256: 783b20cfaa5f9d050d629323729b3ca83664ca315ae03fa83c3c69cd48880577
+    mime: image/tiff
+    bytes: 6531699
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/78/3b/783b20cfaa5f9d050d629323729b3ca83664ca315ae03fa83c3c69cd48880577/preview-400.cc9259a24869.jpg
+        sha256: cc9259a24869dae3e80d8d8d071481771f31ce1938a23c7528b3ebedf3f20f57
+        mime: image/jpeg
+        bytes: 36040
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_twpj5f_002.tif
+    path: files/91/58/9158f6e50a140ae79eeef2c1f15d1e94506ec2b9c17df375e88b30ae8eb470be/original.tif
+    sha256: 9158f6e50a140ae79eeef2c1f15d1e94506ec2b9c17df375e88b30ae8eb470be
+    mime: image/tiff
+    bytes: 27604831
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/91/58/9158f6e50a140ae79eeef2c1f15d1e94506ec2b9c17df375e88b30ae8eb470be/preview-400.135300822770.jpg
+        sha256: 1353008227709f45ca547e3808776159aeb37cae7451f34a6fc7cc75bca47555
+        mime: image/jpeg
+        bytes: 25217
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

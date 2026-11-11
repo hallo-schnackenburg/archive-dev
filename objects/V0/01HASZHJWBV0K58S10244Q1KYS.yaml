@@ -1,0 +1,32 @@
+id: 01HASZHJWBV0K58S10244Q1KYS
+type: image
+subtype: photo
+title: Heinrich Rohde, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1917-03-19
+origin:
+  name: Lotte Wöhlk
+  type: person
+  location: Pretzier
+parents:
+  - 01F65BXKMKS9E7T6J3V39RWQAH
+files:
+  - role: main
+    original_name: IMG_4408.jpg
+    path: files/42/98/4298d2b2b762c667857fe1c5afb5622b0f4399f856317297f9b6e4ca206babba/original.jpg
+    sha256: 4298d2b2b762c667857fe1c5afb5622b0f4399f856317297f9b6e4ca206babba
+    mime: image/jpeg
+    bytes: 24365104
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/42/98/4298d2b2b762c667857fe1c5afb5622b0f4399f856317297f9b6e4ca206babba/preview-400.c2a85d9ff2fb.jpg
+        sha256: c2a85d9ff2fb18a2d9834665be11eaf1fdda28415d6d5df8990f0a397b7d5739
+        mime: image/jpeg
+        bytes: 27802
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

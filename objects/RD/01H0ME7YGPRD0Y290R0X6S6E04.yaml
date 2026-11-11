@@ -1,0 +1,37 @@
+id: 01H0ME7YGPRD0Y290R0X6S6E04
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Straßenfest, Lenzen"
+date: 1874-03
+location: Havelberg, Gartenstraße
+geocode:
+  lat: 52.9231
+  lon: 11.4923
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br/Kasten 8/073
+files:
+  - role: main
+    original_name: scan_351.tif
+    path: files/25/f0/25f0062901c96d25c241087796a1d9733a999fa4e3b01341da29328ee1b5b7de/original.tif
+    sha256: 25f0062901c96d25c241087796a1d9733a999fa4e3b01341da29328ee1b5b7de
+    mime: image/tiff
+    bytes: 13300682
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/25/f0/25f0062901c96d25c241087796a1d9733a999fa4e3b01341da29328ee1b5b7de/preview-400.fb64eda2202a.jpg
+        sha256: fb64eda2202a646dd025bd8395ae431df8510a7a21bf87cf4e2160e60647c3ca
+        mime: image/jpeg
+        bytes: 37603
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

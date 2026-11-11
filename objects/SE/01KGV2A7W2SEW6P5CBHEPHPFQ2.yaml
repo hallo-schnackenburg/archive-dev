@@ -1,0 +1,35 @@
+id: 01KGV2A7W2SEW6P5CBHEPHPFQ2
+type: image
+subtype: photo
+title: Blick vom Torhaus auf das Rathaus
+description: Farbfoto, leicht verblasst.
+date: "1974"
+origin:
+  name: Horst Lüders
+  type: person
+  location: Wootz
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Ilse Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_125.tif
+    path: files/30/ea/30ea39d24729434781725b1c83c6fef470078f68dbc9806be8b1878d1cca412f/original.tif
+    sha256: 30ea39d24729434781725b1c83c6fef470078f68dbc9806be8b1878d1cca412f
+    mime: image/tiff
+    bytes: 8654080
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/30/ea/30ea39d24729434781725b1c83c6fef470078f68dbc9806be8b1878d1cca412f/preview-400.f434d60d2502.jpg
+        sha256: f434d60d2502c202616b4adbd53c00a1ce83bbf62dc7809735f7ec23649b6b6e
+        mime: image/jpeg
+        bytes: 57742
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

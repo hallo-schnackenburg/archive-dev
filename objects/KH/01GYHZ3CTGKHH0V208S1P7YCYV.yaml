@@ -1,0 +1,46 @@
+id: 01GYHZ3CTGKHH0V208S1P7YCYV
+type: image
+subtype: photo
+title: Viehmarkt 1896
+date: 1896-07-22
+location: Havelberg, Fährstraße
+origin:
+  name: Karl Lindemann
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Familie Dreyer
+    type: person
+    location: Kapern
+  reference: Dok 9/183
+subjects:
+  - name: Richtfest 1896
+    type: event
+  - name: Heinrich Behrens
+    type: person
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01KGHR1E94X26ENFVH4J79T0CP
+  - 01M1YR053NPJBEH3Y4WNQMC2X8
+files:
+  - role: main
+    original_name: IMG_1902.jpg
+    path: files/10/9b/109bc430360a9650ffdb17491ab5cfb593a1cfa2a8e354840036bda1dc082474/original.jpg
+    sha256: 109bc430360a9650ffdb17491ab5cfb593a1cfa2a8e354840036bda1dc082474
+    mime: image/jpeg
+    bytes: 23775844
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/10/9b/109bc430360a9650ffdb17491ab5cfb593a1cfa2a8e354840036bda1dc082474/preview-400.9bf9c0321369.jpg
+        sha256: 9bf9c03213699ce0c0106927939ad0e8b47b6eae569786a6a81b85728863f8ce
+        mime: image/jpeg
+        bytes: 74719
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

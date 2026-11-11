@@ -1,0 +1,41 @@
+id: 01KNXEZKQAB9SZM2AEZSZEHY6E
+type: image
+subtype: print
+title: Gruß aus Lenzen, Wittenberge
+description: Lithographie, Rand beschnitten.
+date: 1779-07
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg/Album 9/049
+  note: Planschrank, Fach 3
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v52057
+subjects:
+  - name: Straßenfest 1779
+    type: event
+  - name: Erntedankfest 1779
+    type: event
+parents:
+  - 01J2543CRBVAV30G60F9GTRGZ4
+files:
+  - role: main
+    original_name: scan_836.tif
+    path: files/36/8a/368a4055a8b3db18233fb64406d55b3be8532ee1207d525e0067560d3f954f90/original.tif
+    sha256: 368a4055a8b3db18233fb64406d55b3be8532ee1207d525e0067560d3f954f90
+    mime: image/tiff
+    bytes: 22211542
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/36/8a/368a4055a8b3db18233fb64406d55b3be8532ee1207d525e0067560d3f954f90/preview-400.55eb0f24e441.jpg
+        sha256: 55eb0f24e441a4786acfe7eaa2ac777d2f58a5aead45459b343f79dc5a82e452
+        mime: image/jpeg
+        bytes: 25465
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

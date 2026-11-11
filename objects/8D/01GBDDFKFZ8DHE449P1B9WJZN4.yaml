@@ -1,0 +1,35 @@
+id: 01GBDDFKFZ8DHE449P1B9WJZN4
+type: image
+subtype: plan
+title: Flurkarte Rüterberg, Brünkendorf
+date: 1908-09
+location: Kapern, Kirchstraße
+subjects:
+  - name: Gemeindehaus
+    type: building
+  - name: Wustrow
+    type: place
+  - name: Scheune
+    type: building
+parents:
+  - 01GYVCE9612QGZYBGWYYZ1X9FF
+files:
+  - role: main
+    original_name: scan_807.tif
+    path: files/d6/ca/d6cafb2693c0b3e7edb6f5183b60920bf6548c021820182bfba69b85620b2be5/original.tif
+    sha256: d6cafb2693c0b3e7edb6f5183b60920bf6548c021820182bfba69b85620b2be5
+    mime: image/tiff
+    bytes: 11149633
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d6/ca/d6cafb2693c0b3e7edb6f5183b60920bf6548c021820182bfba69b85620b2be5/preview-400.1f68a4af494a.jpg
+        sha256: 1f68a4af494a9719111f7ef56e52511186c4c0b71efc9d976654644d560d7c1f
+        mime: image/jpeg
+        bytes: 33918
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

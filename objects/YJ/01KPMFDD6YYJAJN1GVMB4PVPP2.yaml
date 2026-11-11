@@ -1,0 +1,52 @@
+id: 01KPMFDD6YYJAJN1GVMB4PVPP2
+type: image
+subtype: drawing
+title: Federzeichnung Gasthof „Zur Elbe“
+description: Mit Anmerkungen am Rand.
+date: 1884-08-07
+location: Seedorf, Heuberge
+geocode:
+  lat: 53.0808
+  lon: 11.5728
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 16/109
+owner:
+  name: Emma Hennings
+  type: person
+  note: Nachlass
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Arendsee
+    type: place
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01G0X29EZ2FVG07FG6GWV5MNSG
+  - 01J59Y3GT8EG81RDPY4TJCRWFY
+files:
+  - role: main
+    original_name: scan_128.tif
+    path: files/97/a4/97a481a16382cd07907ce1f6c514b303538cddd3f855b6667ac121f8f3a3ab33/original.tif
+    sha256: 97a481a16382cd07907ce1f6c514b303538cddd3f855b6667ac121f8f3a3ab33
+    mime: image/tiff
+    bytes: 16475486
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/a4/97a481a16382cd07907ce1f6c514b303538cddd3f855b6667ac121f8f3a3ab33/preview-400.65b869d3e5ad.jpg
+        sha256: 65b869d3e5adb90993a46c40a222620bde37f6953ff3fce4487ef49a2dc612c6
+        mime: image/jpeg
+        bytes: 79923
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

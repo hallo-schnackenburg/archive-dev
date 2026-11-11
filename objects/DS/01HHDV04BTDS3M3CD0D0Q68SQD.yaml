@@ -1,0 +1,41 @@
+id: 01HHDV04BTDS3M3CD0D0Q68SQD
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Fährjubiläum"
+date: 1828-03-05
+location: Lanz, Apotheke
+origin:
+  name: Heinrich Gaede
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg/Kasten 24/081
+subjects:
+  - name: Beerdigung 1828
+    type: event
+parents:
+  - 01FESK7CZ76YS0ANTN93GVS71Z
+files:
+  - role: main
+    original_name: scan_308.tif
+    path: files/ea/d0/ead0043580da3125150158f8d560d5a7b6527ece8d1c76d7eafe39db4a020d8c/original.tif
+    sha256: ead0043580da3125150158f8d560d5a7b6527ece8d1c76d7eafe39db4a020d8c
+    mime: image/tiff
+    bytes: 23506957
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ea/d0/ead0043580da3125150158f8d560d5a7b6527ece8d1c76d7eafe39db4a020d8c/preview-400.8d7880f393df.jpg
+        sha256: 8d7880f393dfa16186e806aeb760249df53ec8987b45878bc9828c2801581ff4
+        mime: image/jpeg
+        bytes: 22914
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

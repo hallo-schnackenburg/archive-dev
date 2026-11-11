@@ -1,0 +1,32 @@
+id: 01FNVW85K6CG4RB8QT8HE4DFKW
+type: image
+subtype: plan
+title: Bauplan Kindergarten 1895
+description: Tusche auf Transparentpapier.
+date: 1895-07-09
+location: Hitzacker, Dorfschule
+subjects:
+  - name: Restorf
+    type: place
+parents:
+  - 01GQDM3ZFG19XY70Y5T88AY6HH
+files:
+  - role: main
+    original_name: scan_081.tif
+    path: files/f4/39/f4393997cf5919f96c7193ac7e1f82dd96bc9d5f60ba75a340dd498b71af9f18/original.tif
+    sha256: f4393997cf5919f96c7193ac7e1f82dd96bc9d5f60ba75a340dd498b71af9f18
+    mime: image/tiff
+    bytes: 19945174
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f4/39/f4393997cf5919f96c7193ac7e1f82dd96bc9d5f60ba75a340dd498b71af9f18/preview-400.3d7c32ff743c.jpg
+        sha256: 3d7c32ff743ce1527a092101a58da7fa7b58400ec2d85bfa2033f785215bd354
+        mime: image/jpeg
+        bytes: 47734
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

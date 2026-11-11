@@ -1,0 +1,39 @@
+id: 01JCVMZF40401QHGYV46X1TFHS
+type: image
+subtype: plan
+title: Deichplan Rüterberg bis Wootz
+description: Maßstab 1:2500.
+date: 1996-08-15
+origin:
+  name: Lotte Sievers
+  type: person
+  location: Holtorf
+subjects:
+  - name: Grenzöffnung 1996
+    type: event
+  - name: Bahnhof
+    type: building
+  - name: Rüterberg
+    type: place
+parents:
+  - 01H633W1F1PMRNTS6MYSVBSE45
+files:
+  - role: main
+    original_name: scan_849.tif
+    path: files/c5/80/c580621041021dc2710c9a23fdc4b0238faa746a970a2f52ab120dcfac88c2cb/original.tif
+    sha256: c580621041021dc2710c9a23fdc4b0238faa746a970a2f52ab120dcfac88c2cb
+    mime: image/tiff
+    bytes: 11994979
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c5/80/c580621041021dc2710c9a23fdc4b0238faa746a970a2f52ab120dcfac88c2cb/preview-400.ab7daf1ab38c.jpg
+        sha256: ab7daf1ab38cc4914d248f676c22b2911086ee3fc7aa2a6c29388a126ee625f4
+        mime: image/jpeg
+        bytes: 22927
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01JEZXTYJM5FSYTQE56DHREYM0
+type: image
+subtype: plan
+title: Deichplan Wootz bis Nienwalde
+description: Tusche auf Transparentpapier.
+date: 1906~
+location: Cumlosen, Gutshaus
+origin:
+  name: Heinrich Plate
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+parents:
+  - 01GBPB9GYE54BV2D1R1WP3GYSX
+files:
+  - role: main
+    original_name: scan_460.tif
+    path: files/5b/76/5b76a49e44858ac0bfaaf60484e804cd9003179cf51b260010d56393df227a27/original.tif
+    sha256: 5b76a49e44858ac0bfaaf60484e804cd9003179cf51b260010d56393df227a27
+    mime: image/tiff
+    bytes: 7375852
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5b/76/5b76a49e44858ac0bfaaf60484e804cd9003179cf51b260010d56393df227a27/preview-400.9e739529d69d.jpg
+        sha256: 9e739529d69d701531259dcb60b620a16a663d1e7a85ccc0349efe62438582b5
+        mime: image/jpeg
+        bytes: 47384
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

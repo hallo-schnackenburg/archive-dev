@@ -1,0 +1,48 @@
+id: 01GWF334YFQZASCRX9GBHQH4H0
+type: image
+subtype: print
+title: Postkarte Rüterberg, Gasthof Meyer
+description: Postkarte, gelaufen 1901.
+date: "1896"
+location: Havelberg, Elbstraße
+geocode:
+  lat: 52.9475
+  lon: 11.5818
+  precision: town
+  source: osm
+origin:
+  name: Berta Behrens
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 2/066
+  note: Bücherregal links
+subjects:
+  - name: Ortsbesichtigung 1896
+    type: event
+  - name: Hermann Krüger
+    type: person
+files:
+  - role: main
+    original_name: scan_881.tif
+    path: files/ab/39/ab39d27e5f91447f22bd1ead4145cab464483cdc957a1ab481bc2abf7ae2a7b6/original.tif
+    sha256: ab39d27e5f91447f22bd1ead4145cab464483cdc957a1ab481bc2abf7ae2a7b6
+    mime: image/tiff
+    bytes: 15201547
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ab/39/ab39d27e5f91447f22bd1ead4145cab464483cdc957a1ab481bc2abf7ae2a7b6/preview-400.99864cafe318.jpg
+        sha256: 99864cafe318d5ae2cf6bc2b64018e5f2d22e940ac010937cb0a25581ad288c2
+        mime: image/jpeg
+        bytes: 48503
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

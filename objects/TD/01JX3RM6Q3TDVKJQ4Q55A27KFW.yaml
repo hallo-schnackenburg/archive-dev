@@ -1,0 +1,42 @@
+id: 01JX3RM6Q3TDVKJQ4Q55A27KFW
+type: image
+subtype: photo
+title: Schlachterei in Gartow
+date: 198X
+origin:
+  name: Otto Ulrich
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Mappe 19/111
+subjects:
+  - name: Feuerwehrübung 1981
+    type: event
+  - name: Windmühle
+    type: building
+  - name: Bömenzien
+    type: place
+files:
+  - role: main
+    original_name: scan_271.tif
+    path: files/42/f6/42f6a2031051ff44fe8f8bb94cc5f9ff292032cb0a986709317b76d242bc1442/original.tif
+    sha256: 42f6a2031051ff44fe8f8bb94cc5f9ff292032cb0a986709317b76d242bc1442
+    mime: image/tiff
+    bytes: 1448769
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/42/f6/42f6a2031051ff44fe8f8bb94cc5f9ff292032cb0a986709317b76d242bc1442/preview-400.9c699cc131d5.jpg
+        sha256: 9c699cc131d5a078fcad0275b515d4764e7ec8bc7adc5444c8100d417a0f4c0c
+        mime: image/jpeg
+        bytes: 27784
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

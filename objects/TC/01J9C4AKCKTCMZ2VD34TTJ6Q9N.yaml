@@ -1,0 +1,45 @@
+id: 01J9C4AKCKTCMZ2VD34TTJ6Q9N
+type: image
+subtype: drawing
+title: Entwurf für Feuerwehrhaus, Seedorf
+description: Bleistift auf Papier.
+date: 1907-07-12
+location: Havelberg, Schulstraße
+geocode:
+  lat: 52.9833
+  lon: 11.5201
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 19/380
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: Hochzeit 1907
+    type: event
+parents:
+  - 01KVHW9J5WMTP6BZZ691K647CF
+files:
+  - role: main
+    original_name: scan_585.tif
+    path: files/af/b5/afb553287198d9ca60d642f42f67d31389483117cc605a5bea33963450002144/original.tif
+    sha256: afb553287198d9ca60d642f42f67d31389483117cc605a5bea33963450002144
+    mime: image/tiff
+    bytes: 8658562
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/af/b5/afb553287198d9ca60d642f42f67d31389483117cc605a5bea33963450002144/preview-400.24c20c6cfd0e.jpg
+        sha256: 24c20c6cfd0ed0de7db678a360479f874a05dd20abafaabdea8b9571fb358986
+        mime: image/jpeg
+        bytes: 82276
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

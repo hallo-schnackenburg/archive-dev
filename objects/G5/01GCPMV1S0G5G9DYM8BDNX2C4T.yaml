@@ -1,0 +1,64 @@
+id: 01GCPMV1S0G5G9DYM8BDNX2C4T
+type: document
+subtype: letter
+title: Zeugnis für Heinrich Krüger
+date: 1949-11
+origin:
+  name: Helga Meyer
+  type: person
+  location: Kapern
+recipient: Frieda Meyer
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Wittenberge
+    type: place
+parents:
+  - 01KM675ZVCQFMKZVG8XHYFJ6C9
+files:
+  - role: page
+    num: 1
+    original_name: letter_nx2c4t_001.tif
+    path: files/a2/f7/a2f7f2e87efd70c84c602a8cf9704b6e05592d1437980c12786a681a4d767f5f/original.tif
+    sha256: a2f7f2e87efd70c84c602a8cf9704b6e05592d1437980c12786a681a4d767f5f
+    mime: image/tiff
+    bytes: 27338185
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a2/f7/a2f7f2e87efd70c84c602a8cf9704b6e05592d1437980c12786a681a4d767f5f/preview-400.eec22447e01e.jpg
+        sha256: eec22447e01e21ef2995fc48e0ef9fe37e08d1198008aebee8b87808db827358
+        mime: image/jpeg
+        bytes: 88944
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_nx2c4t_002.tif
+    path: files/e6/ff/e6ff239d975f2d970c628977ad91b434c13bdc1a51e6ce0fc8d5d0415d719429/original.tif
+    sha256: e6ff239d975f2d970c628977ad91b434c13bdc1a51e6ce0fc8d5d0415d719429
+    mime: image/tiff
+    bytes: 17515992
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e6/ff/e6ff239d975f2d970c628977ad91b434c13bdc1a51e6ce0fc8d5d0415d719429/preview-400.d1149dfcca0c.jpg
+        sha256: d1149dfcca0c467651f4b0842bd83bf5c560557d1c0f660d5979630cf5ae2464
+        mime: image/jpeg
+        bytes: 27284
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

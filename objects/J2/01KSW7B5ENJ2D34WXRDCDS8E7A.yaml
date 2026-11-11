@@ -1,0 +1,42 @@
+id: 01KSW7B5ENJ2D34WXRDCDS8E7A
+type: image
+subtype: drawing
+title: Entwurf für Tanzsaal
+date: 1820?
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Tanzsaal
+    type: building
+  - name: Backhaus
+    type: building
+parents:
+  - 01KBCYJZPX2SPV1MBZZ3QST2X6
+  - 01GZR4MDFA5EQY40GSVWP94FQ3
+files:
+  - role: main
+    original_name: scan_188.tif
+    path: files/f3/66/f36616113f881c000e939023a5f5da3f5c1fd8a6d9b2cac5edc70e92c824959d/original.tif
+    sha256: f36616113f881c000e939023a5f5da3f5c1fd8a6d9b2cac5edc70e92c824959d
+    mime: image/tiff
+    bytes: 24028468
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f3/66/f36616113f881c000e939023a5f5da3f5c1fd8a6d9b2cac5edc70e92c824959d/preview-400.7e4dc6e524f0.jpg
+        sha256: 7e4dc6e524f04b9dd4e3a7aee83488111fd17b1a25ceb60886d4e12e732d0441
+        mime: image/jpeg
+        bytes: 37594
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

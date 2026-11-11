@@ -1,0 +1,40 @@
+id: 01GXCPFKG9RYTDJYKAZ1XX0CJW
+type: image
+subtype: plan
+title: Deichplan Seedorf bis Gartow
+location: Wustrow, Burgstraße
+origin:
+  name: Marta Voss
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg 2/081
+subjects:
+  - name: Lenzen
+    type: place
+parents:
+  - 01J0GYR8W2ERJ99C6YPH8ATKMN
+files:
+  - role: main
+    original_name: scan_296.tif
+    path: files/bb/1d/bb1d30ace950047165bbe3b6a7d227c0c013b374e14c10c01f91185a3110ce6b/original.tif
+    sha256: bb1d30ace950047165bbe3b6a7d227c0c013b374e14c10c01f91185a3110ce6b
+    mime: image/tiff
+    bytes: 12891522
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/bb/1d/bb1d30ace950047165bbe3b6a7d227c0c013b374e14c10c01f91185a3110ce6b/preview-400.fdd80722cd26.jpg
+        sha256: fdd80722cd26c4b1c8e3e52378396ba067b146e6e266aa990444abb6ebbe09fc
+        mime: image/jpeg
+        bytes: 44309
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

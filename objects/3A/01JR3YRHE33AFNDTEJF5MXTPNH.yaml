@@ -1,0 +1,67 @@
+id: 01JR3YRHE33AFNDTEJF5MXTPNH
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Kirchenglocken 2005
+date: 2005-04-12
+location: Arendsee, Dorfstraße
+origin:
+  name: Verbandsversammlung Holtorf
+  type: business
+  location: Wootz
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Mappe 23/021
+subjects:
+  - name: Berta Gerdes
+    type: person
+  - name: Gorleben
+    type: place
+  - name: Marta Lemke
+    type: person
+parents:
+  - 01F5GRETGD87YBWEF5TGR1E25C
+files:
+  - role: page
+    num: 1
+    original_name: protocol_mxtpnh_001.tif
+    path: files/c3/bf/c3bfb5e1030f5014455ff274efbb4922e783974e9b692662933058e665718c7e/original.tif
+    sha256: c3bfb5e1030f5014455ff274efbb4922e783974e9b692662933058e665718c7e
+    mime: image/tiff
+    bytes: 26795511
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c3/bf/c3bfb5e1030f5014455ff274efbb4922e783974e9b692662933058e665718c7e/preview-400.d59cf54ec854.jpg
+        sha256: d59cf54ec854760c0860efdaa6c1dc7af39658a1a4d350eeb8ec20360db87f15
+        mime: image/jpeg
+        bytes: 26009
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_mxtpnh_002.tif
+    path: files/09/57/09576801826a694a20ebfc4595eb90e326f4e688ccced05cebf63b409406b93a/original.tif
+    sha256: 09576801826a694a20ebfc4595eb90e326f4e688ccced05cebf63b409406b93a
+    mime: image/tiff
+    bytes: 3426181
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/57/09576801826a694a20ebfc4595eb90e326f4e688ccced05cebf63b409406b93a/preview-400.65b7e5aa2f10.jpg
+        sha256: 65b7e5aa2f10ffd380eb859ca31c713ae189c9838a3789cb9448875229852500
+        mime: image/jpeg
+        bytes: 27781
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

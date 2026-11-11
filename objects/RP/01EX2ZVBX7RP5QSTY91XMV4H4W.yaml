@@ -1,0 +1,40 @@
+id: 01EX2ZVBX7RP5QSTY91XMV4H4W
+type: document
+subtype: letter
+title: Mitteilung aus Wustrow an Familie Meyer
+description: Maschinenschriftlich, unterschrieben.
+date: 1810-03
+location: Wustrow, Mühlenweg
+geocode:
+  lat: 53.0641
+  lon: 11.5307
+  precision: street
+  source: osm
+origin:
+  name: Karl Lenz
+  type: person
+  location: Lenzen
+recipient: Horst Schulz
+parents:
+  - 01HV8Q29MRM56K8HKB6HH162VH
+files:
+  - role: page
+    num: 1
+    original_name: letter_mv4h4w_001.tif
+    path: files/0e/04/0e04b5bbd102fb125c25e67f43e7863ce00ac4172be742367cded2fa39e0b0aa/original.tif
+    sha256: 0e04b5bbd102fb125c25e67f43e7863ce00ac4172be742367cded2fa39e0b0aa
+    mime: image/tiff
+    bytes: 17312632
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0e/04/0e04b5bbd102fb125c25e67f43e7863ce00ac4172be742367cded2fa39e0b0aa/preview-400.a3f60349df3d.jpg
+        sha256: a3f60349df3db2a7202ced1a03f3be657d64efd97954e66ff2628355773b893c
+        mime: image/jpeg
+        bytes: 84123
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,32 @@
+id: 01EXBCTDPAQHGQPXSY6B5FR7FA
+type: image
+subtype: print
+title: Postkarte Brünkendorf, Fachwerkhaus Marktstraße 4
+description: Kupferstich, koloriert.
+date: 1949-09
+origin:
+  name: Ursula Brandt
+  type: person
+  location: Gollensdorf
+parents:
+  - 01HKRG7RN0NA8YYR8Y8GWHXTB1
+files:
+  - role: main
+    original_name: scan_510.tif
+    path: files/cb/00/cb006b6a5d9130174d125495b85616d826633fcd0180dea77fc29e72cfaf6ce0/original.tif
+    sha256: cb006b6a5d9130174d125495b85616d826633fcd0180dea77fc29e72cfaf6ce0
+    mime: image/tiff
+    bytes: 20457267
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cb/00/cb006b6a5d9130174d125495b85616d826633fcd0180dea77fc29e72cfaf6ce0/preview-400.cffbf3e0d2d9.jpg
+        sha256: cffbf3e0d2d9901bf3bf45a5b1488df4f50b0651c58ef2f2f3fa18871ce8cf42
+        mime: image/jpeg
+        bytes: 66771
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

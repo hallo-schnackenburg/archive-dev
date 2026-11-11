@@ -1,0 +1,42 @@
+id: 01M1J44BVH0Q68YFNF8WR5AGK6
+type: image
+subtype: photo
+title: Heinz Cohrs, Porträt
+description: Aufnahme von Lotte Jeß.
+date: 1964-03-02
+location: Wittenberge, Dorfstraße
+origin:
+  name: Fritz Harms
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 32/266
+subjects:
+  - name: Straßenfest 1964
+    type: event
+parents:
+  - 01KY67T3MSFRGXDQ3PZ5V1DRZF
+files:
+  - role: main
+    original_name: scan_901.tif
+    path: files/b8/59/b859296987c498708b184382c7dc7ed330a3856495e3a71976c4787cd224665c/original.tif
+    sha256: b859296987c498708b184382c7dc7ed330a3856495e3a71976c4787cd224665c
+    mime: image/tiff
+    bytes: 16463312
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b8/59/b859296987c498708b184382c7dc7ed330a3856495e3a71976c4787cd224665c/preview-400.b87749398b51.jpg
+        sha256: b87749398b515f0484c0389f0100b162d1c6930056e0d9e15ec211e04488c62c
+        mime: image/jpeg
+        bytes: 44043
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

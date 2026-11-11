@@ -1,0 +1,38 @@
+id: 01H3AC6YZQTGNAVPFBECX1FMB2
+type: image
+subtype: photo
+title: Weihnachtsmarkt 1954
+date: 1954-12
+location: Wustrow, Mühlenweg
+geocode:
+  lat: 52.9006
+  lon: 11.5282
+  precision: town
+  source: osm
+subjects:
+  - name: Paul Bruns
+    type: person
+  - name: Wilhelm Behrens
+    type: person
+parents:
+  - 01FDN6VE2CD44TNGX826M38XCP
+files:
+  - role: main
+    original_name: P9816.jpg
+    path: files/20/dd/20dda6dd235e14d0132b3905f0c44a416e5556c059f5f0b99db7745dead0e74c/original.jpg
+    sha256: 20dda6dd235e14d0132b3905f0c44a416e5556c059f5f0b99db7745dead0e74c
+    mime: image/jpeg
+    bytes: 2123368
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/20/dd/20dda6dd235e14d0132b3905f0c44a416e5556c059f5f0b99db7745dead0e74c/preview-400.d6056ab61aa3.jpg
+        sha256: d6056ab61aa3ab00aac5f992b2fb12d21d62b08f22bba127a78e15e505cc6e97
+        mime: image/jpeg
+        bytes: 58133
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

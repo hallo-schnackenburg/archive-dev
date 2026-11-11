@@ -1,0 +1,43 @@
+id: 01JYHJZQ9Z8Y8XDPNPPWJNMH82
+type: image
+subtype: print
+title: Postkarte Hitzacker, Sparkasse
+description: Kupferstich, koloriert.
+date: 1950?
+location: Restorf, Bahnhof
+origin:
+  name: Karl Brandt
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Kapern
+    type: place
+  - name: Brunnen am Markt
+    type: building
+  - name: Weihnachtsmarkt 1950
+    type: event
+files:
+  - role: main
+    original_name: scan_186.tif
+    path: files/dd/10/dd1018ef4b7b032ba07cb576a94ad9df1d89641dd0002251b50c470f73afb756/original.tif
+    sha256: dd1018ef4b7b032ba07cb576a94ad9df1d89641dd0002251b50c470f73afb756
+    mime: image/tiff
+    bytes: 3165490
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/10/dd1018ef4b7b032ba07cb576a94ad9df1d89641dd0002251b50c470f73afb756/preview-400.129b38e641dd.jpg
+        sha256: 129b38e641ddbf25f3497765ee863c32398add14393463d7ea3607cdb6db63f4
+        mime: image/jpeg
+        bytes: 82149
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

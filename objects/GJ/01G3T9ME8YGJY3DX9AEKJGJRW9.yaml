@@ -1,0 +1,61 @@
+id: 01G3T9ME8YGJY3DX9AEKJGJRW9
+type: document
+subtype: letter
+title: Korrespondenz Hermann Klatt
+date: 1848-04
+location: Cumlosen, Dorfstraße
+geocode:
+  lat: 52.9138
+  lon: 11.5205
+  precision: exact
+  source: osm
+origin:
+  name: Ilse Rohde
+  type: person
+  location: Wootz
+recipient: August Gaede
+language: de
+subjects:
+  - name: Einweihung 1848
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_jgjrw9_001.tif
+    path: files/f9/b8/f9b8e0b25a8c77baffb081445fe74755da7943507f0f059f2d1593937df9b7bf/original.tif
+    sha256: f9b8e0b25a8c77baffb081445fe74755da7943507f0f059f2d1593937df9b7bf
+    mime: image/tiff
+    bytes: 16134580
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f9/b8/f9b8e0b25a8c77baffb081445fe74755da7943507f0f059f2d1593937df9b7bf/preview-400.6857dd8d26cd.jpg
+        sha256: 6857dd8d26cd1ce5a7d2ff1cc3b7233e339809f9a000a3458d31167e63ae35bc
+        mime: image/jpeg
+        bytes: 51756
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_jgjrw9_002.tif
+    path: files/d0/4d/d04dab9f6a7b2d0472ceb0d53c639d1a12b592aab2c3318440196f49b7d0708b/original.tif
+    sha256: d04dab9f6a7b2d0472ceb0d53c639d1a12b592aab2c3318440196f49b7d0708b
+    mime: image/tiff
+    bytes: 4083232
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d0/4d/d04dab9f6a7b2d0472ceb0d53c639d1a12b592aab2c3318440196f49b7d0708b/preview-400.dc40df28f9db.jpg
+        sha256: dc40df28f9db7c5ae55fe44c028c0f8b2f2dba742926a0e7f1d8474437372fb3
+        mime: image/jpeg
+        bytes: 23895
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

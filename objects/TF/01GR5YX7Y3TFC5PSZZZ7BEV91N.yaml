@@ -1,0 +1,39 @@
+id: 01GR5YX7Y3TFC5PSZZZ7BEV91N
+type: image
+subtype: photo
+title: Blick vom Fähranleger auf das Heuberge
+description: Aufnahme von Walter Sievers.
+date: 1932-11
+location: Nienwalde, Feuerwehrhaus
+geocode:
+  lat: 52.9696
+  lon: 11.6766
+  precision: region
+  source: osm
+subjects:
+  - name: Windmühle
+    type: building
+  - name: Konfirmation 1932
+    type: event
+  - name: Wilhelm Lemke
+    type: person
+files:
+  - role: main
+    original_name: P1904.jpg
+    path: files/a2/48/a248cc3b108e67e1370ac7ed8c0b131264ece655431c381ed6e0f2a21d850ad0/original.jpg
+    sha256: a248cc3b108e67e1370ac7ed8c0b131264ece655431c381ed6e0f2a21d850ad0
+    mime: image/jpeg
+    bytes: 21075849
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/a2/48/a248cc3b108e67e1370ac7ed8c0b131264ece655431c381ed6e0f2a21d850ad0/preview-400.dc50b3cb6260.jpg
+        sha256: dc50b3cb62606432f5531f83fcd07758539c171f98dffb96cc0f3fb6cd2b4e2a
+        mime: image/jpeg
+        bytes: 89674
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,64 @@
+id: 01GXAYSEHJE1BP2AE9G6JXBTHZ
+type: document
+subtype: letter
+title: Mitteilung aus Restorf an Familie Rohde
+location: Salzwedel, Kirche St. Johannis
+geocode:
+  lat: 52.9643
+  lon: 11.6853
+  precision: town
+  source: osm
+origin:
+  name: Gerda Jürgens
+  type: person
+  location: Schnackenburg
+recipient: Ernst Garms
+language: de
+subjects:
+  - name: Friedrich Krüger
+    type: person
+  - name: Kirche St. Johannis
+    type: building
+parents:
+  - 01HQPAG3WR0RA4T7KFW4A027V9
+files:
+  - role: page
+    num: 1
+    original_name: letter_jxbthz_001.tif
+    path: files/d6/4f/d64fc9a087ded65f33605d3847248eaea98135f461abb35c65694d90da711122/original.tif
+    sha256: d64fc9a087ded65f33605d3847248eaea98135f461abb35c65694d90da711122
+    mime: image/tiff
+    bytes: 21582851
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d6/4f/d64fc9a087ded65f33605d3847248eaea98135f461abb35c65694d90da711122/preview-400.5c8ee57c0aa5.jpg
+        sha256: 5c8ee57c0aa5449db9990e2f5510664d645851a87f8dabc5d877358765bc99c3
+        mime: image/jpeg
+        bytes: 43961
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_jxbthz_002.tif
+    path: files/92/26/9226c23fcf896886f5a7e6a16538840574255687e01b0726225723390904978f/original.tif
+    sha256: 9226c23fcf896886f5a7e6a16538840574255687e01b0726225723390904978f
+    mime: image/tiff
+    bytes: 12534466
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/26/9226c23fcf896886f5a7e6a16538840574255687e01b0726225723390904978f/preview-400.56eba8cfe831.jpg
+        sha256: 56eba8cfe831b3055e5b219c43ea4aaec485e576996949ec0ca7acf0fd2e11c7
+        mime: image/jpeg
+        bytes: 48764
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

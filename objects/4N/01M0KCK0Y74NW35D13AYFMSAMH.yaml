@@ -1,0 +1,31 @@
+id: 01M0KCK0Y74NW35D13AYFMSAMH
+type: image
+subtype: photo
+title: Familie Voss beim Sturmschaden
+date: 1979-03
+location: Wustrow, Lange Straße
+geocode:
+  lat: 53.0876
+  lon: 11.4856
+  precision: street
+  source: osm
+files:
+  - role: main
+    original_name: IMG_9376.jpg
+    path: files/ca/dc/cadc6e545646d42705eced8f20f819082b8d8367bbee8073d4d28c841a042b5f/original.jpg
+    sha256: cadc6e545646d42705eced8f20f819082b8d8367bbee8073d4d28c841a042b5f
+    mime: image/jpeg
+    bytes: 23163597
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/ca/dc/cadc6e545646d42705eced8f20f819082b8d8367bbee8073d4d28c841a042b5f/preview-400.8a941780d737.jpg
+        sha256: 8a941780d737eb883fe86f3179712fbc47aca9977987bb61bfd627451c067842
+        mime: image/jpeg
+        bytes: 30444
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

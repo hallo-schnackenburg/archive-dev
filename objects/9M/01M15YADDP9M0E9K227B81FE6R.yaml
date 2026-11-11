@@ -1,0 +1,35 @@
+id: 01M15YADDP9M0E9K227B81FE6R
+type: image
+subtype: print
+title: Postkarte Zadrau, Zollamt
+description: Lithographie, Rand beschnitten.
+location: Rüterberg, Lange Straße
+origin:
+  name: Karl Voss
+  type: person
+  location: Holtorf
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Ilse Tiedemann
+    type: person
+files:
+  - role: main
+    original_name: scan_779.tif
+    path: files/17/c0/17c0428b4cdac759fb5a5b408d72712005f27fe37fd21bd57c8b0be1cefd3024/original.tif
+    sha256: 17c0428b4cdac759fb5a5b408d72712005f27fe37fd21bd57c8b0be1cefd3024
+    mime: image/tiff
+    bytes: 19399273
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/17/c0/17c0428b4cdac759fb5a5b408d72712005f27fe37fd21bd57c8b0be1cefd3024/preview-400.6281a31840c6.jpg
+        sha256: 6281a31840c6eabf631c9e26feb64abe55c27da60aba98aaf2192bf7a6efeca7
+        mime: image/jpeg
+        bytes: 61865
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01KSFPHHAC60G6J9X32DY0MYGJ
+type: image
+subtype: photo
+title: Heuberge nach dem Kindergartenfest
+description: Aufnahme von Heinrich Sievers.
+date: 194X
+location: Wootz, Dorfladen
+geocode:
+  lat: 52.9971
+  lon: 11.5236
+  precision: region
+  source: osm
+origin:
+  name: Hans Lemke
+  type: person
+  location: Wustrow
+subjects:
+  - name: Lanz
+    type: place
+  - name: Glockenweihe 1946
+    type: event
+  - name: Molkerei
+    type: building
+files:
+  - role: main
+    original_name: scan_305.tif
+    path: files/da/a8/daa89e0cebcbb1067408323d418ac0fe2b8b4b49829521597581fddb9895662b/original.tif
+    sha256: daa89e0cebcbb1067408323d418ac0fe2b8b4b49829521597581fddb9895662b
+    mime: image/tiff
+    bytes: 2696483
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/a8/daa89e0cebcbb1067408323d418ac0fe2b8b4b49829521597581fddb9895662b/preview-400.a54a093d5a01.jpg
+        sha256: a54a093d5a01893b14602cbed69598f65e080c32a5f1e11f62e0891b4b7b29e4
+        mime: image/jpeg
+        bytes: 67006
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

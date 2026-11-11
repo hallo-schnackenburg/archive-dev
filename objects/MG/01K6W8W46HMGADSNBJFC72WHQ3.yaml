@@ -1,0 +1,37 @@
+id: 01K6W8W46HMGADSNBJFC72WHQ3
+type: image
+subtype: plan
+title: Katasterblatt Lenz
+date: 1994-12-20
+location: Gülden, Am Elbdeich
+geocode:
+  lat: 52.9387
+  lon: 11.5931
+  precision: region
+  source: osm
+origin:
+  name: Marta Krüger
+  type: person
+  location: Hitzacker
+parents:
+  - 01J8ED3E4SGG31ZRC1FEQ26FTD
+files:
+  - role: main
+    original_name: scan_780.tif
+    path: files/3e/5d/3e5d7e4d0ff23fbd5431fe85932923d6f13b1380e1548f30f430e719abe8ff71/original.tif
+    sha256: 3e5d7e4d0ff23fbd5431fe85932923d6f13b1380e1548f30f430e719abe8ff71
+    mime: image/tiff
+    bytes: 5611557
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/5d/3e5d7e4d0ff23fbd5431fe85932923d6f13b1380e1548f30f430e719abe8ff71/preview-400.bfdec6a32a02.jpg
+        sha256: bfdec6a32a022b302e4b84bfec685d9954f97618b7632af7dd4aa033573f3d4e
+        mime: image/jpeg
+        bytes: 78360
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

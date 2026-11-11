@@ -1,0 +1,36 @@
+id: 01HJCFPW09SHEWY8D1XNBM5X7S
+type: image
+subtype: photo
+title: Otto Gaede vor dem Fähranleger
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1957"
+location: Laase, Fährstraße
+geocode:
+  lat: 53.0208
+  lon: 11.6383
+  precision: exact
+  source: osm
+origin:
+  name: Rudolf Voss
+  type: person
+  location: Lanz
+files:
+  - role: main
+    original_name: DSC2912.jpg
+    path: files/67/a6/67a6ab64e0c83f62a0c5d0ac6e73078c55aca34a8a06e2f856543e6965347e69/original.jpg
+    sha256: 67a6ab64e0c83f62a0c5d0ac6e73078c55aca34a8a06e2f856543e6965347e69
+    mime: image/jpeg
+    bytes: 24226506
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/67/a6/67a6ab64e0c83f62a0c5d0ac6e73078c55aca34a8a06e2f856543e6965347e69/preview-400.e06c53e25598.jpg
+        sha256: e06c53e25598dd62df8b7c2a13ea81306d6ca0e9b6f877fe2a0f02a6712a5370
+        mime: image/jpeg
+        bytes: 62198
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

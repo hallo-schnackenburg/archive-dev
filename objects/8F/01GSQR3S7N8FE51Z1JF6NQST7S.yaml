@@ -1,0 +1,40 @@
+id: 01GSQR3S7N8FE51Z1JF6NQST7S
+type: image
+subtype: photo
+title: Familie Rieke beim Dorffest
+origin:
+  name: Karl Detlefs
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg/Album 28/002
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v33091
+subjects:
+  - name: Sturmschaden 1953
+    type: event
+  - name: Horst Ahrens
+    type: person
+files:
+  - role: main
+    original_name: IMG_7351.jpg
+    path: files/70/c2/70c2a3b3e0710cbba896c77ce2034d7b3b699776b76e8011ba3daeabdd8f804c/original.jpg
+    sha256: 70c2a3b3e0710cbba896c77ce2034d7b3b699776b76e8011ba3daeabdd8f804c
+    mime: image/jpeg
+    bytes: 5746781
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/70/c2/70c2a3b3e0710cbba896c77ce2034d7b3b699776b76e8011ba3daeabdd8f804c/preview-400.555f5751d890.jpg
+        sha256: 555f5751d890509bd6136a89b9bf9a3bad08acd44fc43fc10befd318d13a15b4
+        mime: image/jpeg
+        bytes: 64232
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01JQT6F72TZS60MZWG8EG015NK
+type: image
+subtype: plan
+title: Bauplan Kirche St. Johannis 1951
+description: Maßstab 1:100.
+date: 1951-02-25
+location: Rüterberg, Tanzsaal
+geocode:
+  lat: 53.0015
+  lon: 11.6015
+  precision: street
+  source: osm
+origin:
+  name: Karl Sievers
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  note: Dachboden, Truhe
+files:
+  - role: main
+    original_name: scan_236.tif
+    path: files/02/47/02473e7e10cf8c9bc0a224b6054a6ae519a408afc52af648da154aaa6725b805/original.tif
+    sha256: 02473e7e10cf8c9bc0a224b6054a6ae519a408afc52af648da154aaa6725b805
+    mime: image/tiff
+    bytes: 8435771
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/47/02473e7e10cf8c9bc0a224b6054a6ae519a408afc52af648da154aaa6725b805/preview-400.d662dc9c0182.jpg
+        sha256: d662dc9c0182580e4ccbdc3ea789dd49bae2b18bdc655057bbb15fc1917159e5
+        mime: image/jpeg
+        bytes: 28760
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

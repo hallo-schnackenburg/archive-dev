@@ -1,0 +1,61 @@
+id: 01GMT68QTGHBP3FAKT2TKT0WBT
+type: document
+subtype: letter
+title: Zeugnis für Rudolf Lenz
+description: Mit Umschlag und Briefmarke.
+date: "1861"
+location: Wustrow, Apotheke
+origin:
+  name: Karl Rieke
+  type: person
+  location: Laase
+recipient: Berta Voss
+language: de
+subjects:
+  - name: Ernst Detlefs
+    type: person
+  - name: Dömitz
+    type: place
+  - name: Cumlosen
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_kt0wbt_001.tif
+    path: files/e3/aa/e3aaaaeef5156383b9747e6ce80719fb9f863cce5a44de604f089ba6433c329c/original.tif
+    sha256: e3aaaaeef5156383b9747e6ce80719fb9f863cce5a44de604f089ba6433c329c
+    mime: image/tiff
+    bytes: 15958027
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e3/aa/e3aaaaeef5156383b9747e6ce80719fb9f863cce5a44de604f089ba6433c329c/preview-400.eeeda481cef9.jpg
+        sha256: eeeda481cef9db644a3327bde4fbb2fa7ad3278d17a48d7eba80a7ec18ef2141
+        mime: image/jpeg
+        bytes: 31189
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_kt0wbt_002.tif
+    path: files/49/99/499969fdd904d2981c069ee8ef285ad194a5e52021f0af70e931746b460cd99b/original.tif
+    sha256: 499969fdd904d2981c069ee8ef285ad194a5e52021f0af70e931746b460cd99b
+    mime: image/tiff
+    bytes: 21670223
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/49/99/499969fdd904d2981c069ee8ef285ad194a5e52021f0af70e931746b460cd99b/preview-400.a3e63ea3993f.jpg
+        sha256: a3e63ea3993f4d197e0eac61ab4d22d5fb3d6ea68ac83c103cfdf2380dad07dd
+        mime: image/jpeg
+        bytes: 63404
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

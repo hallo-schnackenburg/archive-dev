@@ -1,0 +1,43 @@
+id: 01JWPQ82ZP7PJF4ZG8F9JVJNYT
+type: image
+subtype: print
+title: Postkarte Bömenzien, Sparkasse
+description: Lithographie, Rand beschnitten.
+date: "1904"
+location: Wustrow, Gärtnerei
+geocode:
+  lat: 52.9891
+  lon: 11.546
+  precision: street
+  source: osm
+origin:
+  name: Heinrich Dreyer
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Gülden
+    type: place
+  - name: Grenzöffnung 1904
+    type: event
+  - name: Einweihung 1904
+    type: event
+files:
+  - role: main
+    original_name: scan_534.tif
+    path: files/d8/9a/d89ad3f652c6aa4b4868650382a2a4ae69dc73b0f5fd7b10909912064d9c8098/original.tif
+    sha256: d89ad3f652c6aa4b4868650382a2a4ae69dc73b0f5fd7b10909912064d9c8098
+    mime: image/tiff
+    bytes: 17911354
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d8/9a/d89ad3f652c6aa4b4868650382a2a4ae69dc73b0f5fd7b10909912064d9c8098/preview-400.3c844fae6705.jpg
+        sha256: 3c844fae670570391fa5fda83626a86cc41b4b423a5a2135bebf144be377e031
+        mime: image/jpeg
+        bytes: 80553
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

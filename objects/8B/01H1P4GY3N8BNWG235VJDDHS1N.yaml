@@ -1,0 +1,42 @@
+id: 01H1P4GY3N8BNWG235VJDDHS1N
+type: image
+subtype: plan
+title: Bauplan Gutshaus 1872
+date: 1872-07-15
+location: Lanz, Gasthof „Zur Elbe“
+origin:
+  name: Marta Cohrs
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 29/145
+  note: Schrank B
+subjects:
+  - name: Heinrich Krüger
+    type: person
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_425.tif
+    path: files/b7/f7/b7f7e4c1eedc7f0036114c52e18819a30b36f19f3aa79252bfe8c17427e01c50/original.tif
+    sha256: b7f7e4c1eedc7f0036114c52e18819a30b36f19f3aa79252bfe8c17427e01c50
+    mime: image/tiff
+    bytes: 9745949
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b7/f7/b7f7e4c1eedc7f0036114c52e18819a30b36f19f3aa79252bfe8c17427e01c50/preview-400.b3289eb02fbd.jpg
+        sha256: b3289eb02fbd7532ba2b0963ca6a95f3240d6a7180e04668308aece4d62ed36a
+        mime: image/jpeg
+        bytes: 35660
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

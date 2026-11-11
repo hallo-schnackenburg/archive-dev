@@ -1,0 +1,45 @@
+id: 01HBZKVGSHZAP0F45R9VPSZQ40
+type: image
+subtype: plan
+title: Deichplan Gartow bis Seedorf
+description: Mit handschriftlichen Ergänzungen.
+date: 1827-12-25
+location: Rüterberg, Deichstraße
+geocode:
+  lat: 53.0584
+  lon: 11.6002
+  precision: region
+  source: osm
+origin:
+  name: Ingrid Lüders
+  type: person
+  location: Gülden
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Kindergarten
+    type: building
+  - name: Dorffest 1827
+    type: event
+parents:
+  - 01HZMTYEG49WXPQXR5J73VXMAF
+files:
+  - role: main
+    original_name: scan_365.tif
+    path: files/e8/ff/e8ff1b405249d6b3abd7f18fe60137314546f85c6cf8b9fcdebd8d3a087dc1dd/original.tif
+    sha256: e8ff1b405249d6b3abd7f18fe60137314546f85c6cf8b9fcdebd8d3a087dc1dd
+    mime: image/tiff
+    bytes: 6688201
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/ff/e8ff1b405249d6b3abd7f18fe60137314546f85c6cf8b9fcdebd8d3a087dc1dd/preview-400.8a2c50b8b96e.jpg
+        sha256: 8a2c50b8b96ef1cbbaf91a18dfa3db79c9ca7d3d4e9ffd97c6aec692d5718b37
+        mime: image/jpeg
+        bytes: 66069
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

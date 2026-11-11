@@ -1,0 +1,43 @@
+id: 01H71AQE69GVS5T2PGCN5J5XPT
+type: image
+subtype: photo
+title: Zollamt nach dem Kirmes
+description: Farbfoto, leicht verblasst.
+date: 1892-07-08
+location: Wittenberge, Dorfladen
+geocode:
+  lat: 53.0249
+  lon: 11.5195
+  precision: exact
+  source: osm
+origin:
+  name: Otto Meyer
+  type: person
+  location: Pretzier
+subjects:
+  - name: Grenzturm
+    type: building
+  - name: Fähranleger
+    type: building
+parents:
+  - 01JP20QWTYZEWRGFHPQXP5662Q
+files:
+  - role: main
+    original_name: scan_417.tif
+    path: files/e7/13/e7136a38f005b5fe9c582bac6242abc7549f21e8958de899f1e66978299bacd7/original.tif
+    sha256: e7136a38f005b5fe9c582bac6242abc7549f21e8958de899f1e66978299bacd7
+    mime: image/tiff
+    bytes: 12181620
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e7/13/e7136a38f005b5fe9c582bac6242abc7549f21e8958de899f1e66978299bacd7/preview-400.096e8ad3b67b.jpg
+        sha256: 096e8ad3b67bb7195e59549da17d9da32e7b90bdd65bf1d598629c8918998956
+        mime: image/jpeg
+        bytes: 56993
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

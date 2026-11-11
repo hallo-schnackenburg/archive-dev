@@ -1,0 +1,48 @@
+id: 01K1G2Y0T0Q23V5KT0GA3GV23P
+type: image
+subtype: photo
+title: Schlachterei nach dem Straßenfest
+description: Aufnahme von Wilhelm Heuer.
+date: 1989-04
+location: Brünkendorf, Hafenstraße
+geocode:
+  lat: 53.0609
+  lon: 11.5189
+  precision: exact
+  source: osm
+origin:
+  name: Irmgard Lüders
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro 2/377
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Glockenweihe 1989
+    type: event
+  - name: Salzwedel
+    type: place
+files:
+  - role: main
+    original_name: foto_6783.jpg
+    path: files/b5/ba/b5bad37653f9c068b480d4a633d40ab384c041ffcc84da034c2f7826ba0c7e1a/original.jpg
+    sha256: b5bad37653f9c068b480d4a633d40ab384c041ffcc84da034c2f7826ba0c7e1a
+    mime: image/jpeg
+    bytes: 11163939
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b5/ba/b5bad37653f9c068b480d4a633d40ab384c041ffcc84da034c2f7826ba0c7e1a/preview-400.5a814e39ef58.jpg
+        sha256: 5a814e39ef58d790624413e3fd368f193d149ae3048643bc60d15ebf1d1f53a2
+        mime: image/jpeg
+        bytes: 80219
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

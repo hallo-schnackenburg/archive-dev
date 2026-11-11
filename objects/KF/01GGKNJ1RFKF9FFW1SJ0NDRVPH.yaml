@@ -1,0 +1,39 @@
+id: 01GGKNJ1RFKF9FFW1SJ0NDRVPH
+type: image
+subtype: photo
+title: Familie Jeß beim Konfirmation
+description: Zu sehen sind Elbdeich und Storchennest.
+date: 1912-09-04
+location: Dömitz, Schulstraße
+origin:
+  name: Ingrid Ahrens
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Gartow
+    type: place
+  - name: Pfarrhaus
+    type: building
+parents:
+  - 01J61X90CH264SW24N35G33X0N
+  - 01KP71Y1ZJN9JAVT84GFKBTVMW
+files:
+  - role: main
+    original_name: P6380.jpg
+    path: files/6c/fe/6cfe31e875559e3aa8bfc452a8cc7aa436a2fe7b0db4789e214d994bee72ed65/original.jpg
+    sha256: 6cfe31e875559e3aa8bfc452a8cc7aa436a2fe7b0db4789e214d994bee72ed65
+    mime: image/jpeg
+    bytes: 10496458
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/6c/fe/6cfe31e875559e3aa8bfc452a8cc7aa436a2fe7b0db4789e214d994bee72ed65/preview-400.bf94e7bc7ba1.jpg
+        sha256: bf94e7bc7ba104a6749ca44446146ba4e818700a1d430cc79660a7d432cf2dab
+        mime: image/jpeg
+        bytes: 31321
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

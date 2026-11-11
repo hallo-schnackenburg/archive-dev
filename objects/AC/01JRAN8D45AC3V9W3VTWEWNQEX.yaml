@@ -1,0 +1,37 @@
+id: 01JRAN8D45AC3V9W3VTWEWNQEX
+type: image
+subtype: photo
+title: Dorffest 1940
+description: Farbfoto, leicht verblasst.
+date: "1940"
+origin:
+  name: Hans Prieß
+  type: person
+  location: Lüchow
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Wootz
+    type: place
+parents:
+  - 01KNHD7DYF112CXGR0WVK2W8DQ
+files:
+  - role: main
+    original_name: DSC9552.jpg
+    path: files/79/6b/796bfb8dc5c47194d363618564fde20adc7d68277a8d0861334ab5b66a29f6bc/original.jpg
+    sha256: 796bfb8dc5c47194d363618564fde20adc7d68277a8d0861334ab5b66a29f6bc
+    mime: image/jpeg
+    bytes: 9809851
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/79/6b/796bfb8dc5c47194d363618564fde20adc7d68277a8d0861334ab5b66a29f6bc/preview-400.068ff45e21c9.jpg
+        sha256: 068ff45e21c9e46610c0d47f783eb0c7f19653410113d217be5cd6a9c9ee3312
+        mime: image/jpeg
+        bytes: 31947
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

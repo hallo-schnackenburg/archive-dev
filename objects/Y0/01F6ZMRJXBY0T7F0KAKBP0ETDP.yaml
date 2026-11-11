@@ -1,0 +1,33 @@
+id: 01F6ZMRJXBY0T7F0KAKBP0ETDP
+type: image
+subtype: plan
+title: Bauplan Kriegerdenkmal 1844
+description: Tusche auf Transparentpapier.
+date: 184X
+subjects:
+  - name: Feuerwehrübung 1844
+    type: event
+  - name: Kaufmannshaus
+    type: building
+parents:
+  - 01HBK6C2YY23CZPK2AB67CF4HH
+files:
+  - role: main
+    original_name: scan_063.tif
+    path: files/97/95/97957f63eb3d11cdb8f00a953ca56e06d4b0e331a6893a418f5ed2e5fd66e33d/original.tif
+    sha256: 97957f63eb3d11cdb8f00a953ca56e06d4b0e331a6893a418f5ed2e5fd66e33d
+    mime: image/tiff
+    bytes: 14473071
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/97/95/97957f63eb3d11cdb8f00a953ca56e06d4b0e331a6893a418f5ed2e5fd66e33d/preview-400.d3a03653e877.jpg
+        sha256: d3a03653e8770edf66aaf1cfb5a78f5075ad9b4f606163b540ffe16569c34905
+        mime: image/jpeg
+        bytes: 50319
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

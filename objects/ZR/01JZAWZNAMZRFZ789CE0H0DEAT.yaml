@@ -1,0 +1,36 @@
+id: 01JZAWZNAMZRFZ789CE0H0DEAT
+type: image
+subtype: plan
+title: Bauplan Elbdeich 1824
+date: 1824/1834
+location: Restorf, Kirche St. Johannis
+origin:
+  name: Jürgen Rohde
+  type: person
+  location: Seedorf
+owner:
+  name: Dieter Meyer
+  type: person
+  note: Leihgabe
+parents:
+  - 01GBN6YKVFSAS5BGP6YM27NA9J
+files:
+  - role: main
+    original_name: scan_969.tif
+    path: files/06/6f/066f280f18dbba7503187ac25a47dbe0e8dbff0ab2e4b798dc8a89def02734e0/original.tif
+    sha256: 066f280f18dbba7503187ac25a47dbe0e8dbff0ab2e4b798dc8a89def02734e0
+    mime: image/tiff
+    bytes: 22910207
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/06/6f/066f280f18dbba7503187ac25a47dbe0e8dbff0ab2e4b798dc8a89def02734e0/preview-400.fcad8bf372e3.jpg
+        sha256: fcad8bf372e39947a1008cd1c82952902db5ce554f0bfb725698e37056238c10
+        mime: image/jpeg
+        bytes: 67233
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

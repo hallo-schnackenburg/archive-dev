@@ -1,0 +1,43 @@
+id: 01K01BXFWDYE32QKEQNWY64AW6
+type: image
+subtype: photo
+title: Eisgang der Posaunenchor
+date: 1945-03-23
+origin:
+  name: Gerda Lüders
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 6/234
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Hochwasser 1945
+    type: event
+  - name: Cumlosen
+    type: place
+parents:
+  - 01FWY61A77XH3W72586VADGV50
+files:
+  - role: main
+    original_name: P4565.jpg
+    path: files/45/09/450960252bf11d12d996e2179726f7c598482e055ab0ff41a7a7ec7f92cea2cf/original.jpg
+    sha256: 450960252bf11d12d996e2179726f7c598482e055ab0ff41a7a7ec7f92cea2cf
+    mime: image/jpeg
+    bytes: 10506989
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/45/09/450960252bf11d12d996e2179726f7c598482e055ab0ff41a7a7ec7f92cea2cf/preview-400.25d509db1507.jpg
+        sha256: 25d509db15071e2c151c8c7659836e86acc53e3f102918b5dbe8ca974f631d79
+        mime: image/jpeg
+        bytes: 89673
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

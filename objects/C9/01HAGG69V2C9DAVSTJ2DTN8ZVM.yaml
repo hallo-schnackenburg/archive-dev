@@ -1,0 +1,35 @@
+id: 01HAGG69V2C9DAVSTJ2DTN8ZVM
+type: image
+subtype: print
+title: Postkarte Gülden, Friedhofskapelle
+description: Kupferstich, koloriert.
+date: 1758?
+origin:
+  name: Otto Schwarz
+  type: person
+  location: Laase
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Marta Ahrens
+    type: person
+files:
+  - role: main
+    original_name: scan_870.tif
+    path: files/5a/ee/5aee274384d494d854cfda265a0892d37091affb7b41eebc2a4adaff7428c7cc/original.tif
+    sha256: 5aee274384d494d854cfda265a0892d37091affb7b41eebc2a4adaff7428c7cc
+    mime: image/tiff
+    bytes: 17161602
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5a/ee/5aee274384d494d854cfda265a0892d37091affb7b41eebc2a4adaff7428c7cc/preview-400.cb758d6064d6.jpg
+        sha256: cb758d6064d6a5c1ba2d75709d84041f7d5823619562c074c472f0e828079bd7
+        mime: image/jpeg
+        bytes: 44561
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

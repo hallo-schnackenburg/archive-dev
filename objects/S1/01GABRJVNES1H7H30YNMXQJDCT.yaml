@@ -1,0 +1,37 @@
+id: 01GABRJVNES1H7H30YNMXQJDCT
+type: image
+subtype: photo
+title: Jürgen Lemke, Porträt
+date: "1899"
+location: Salzwedel, Dorfstraße
+origin:
+  name: Karl Krüger
+  type: person
+  location: Lenzen
+subjects:
+  - name: August Kuhlmann
+    type: person
+  - name: Kapern
+    type: place
+  - name: Storchennest
+    type: building
+files:
+  - role: main
+    original_name: IMG_2027.jpg
+    path: files/37/8a/378aed6d554d6456e0f19b745eb0f8a829df9fb1381c1722ae26548d06cd008e/original.jpg
+    sha256: 378aed6d554d6456e0f19b745eb0f8a829df9fb1381c1722ae26548d06cd008e
+    mime: image/jpeg
+    bytes: 807305
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/37/8a/378aed6d554d6456e0f19b745eb0f8a829df9fb1381c1722ae26548d06cd008e/preview-400.a0d91a2808f6.jpg
+        sha256: a0d91a2808f6745dcdacc28fe63e1ad9ab0b28a037dfded6424c52f4a6d87804
+        mime: image/jpeg
+        bytes: 74911
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

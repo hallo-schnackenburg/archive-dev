@@ -1,0 +1,42 @@
+id: 01GKD697BJCBPK79BAQT4APBTH
+type: image
+subtype: photo
+title: Blick vom Wassermühle auf das Storchennest
+date: "1974"
+location: Wittenberge, Deichstraße
+geocode:
+  lat: 53.0224
+  lon: 11.5992
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Sievers
+  type: person
+  location: Lanz
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Wustrow
+    type: place
+parents:
+  - 01G1ZMXCSZWR93Z3JYH6CR645Y
+files:
+  - role: main
+    original_name: DSC2381.jpg
+    path: files/fe/4c/fe4cdebbe484c5e926472953a470611f93dc9928e5dd547dbdd8424032be8075/original.jpg
+    sha256: fe4cdebbe484c5e926472953a470611f93dc9928e5dd547dbdd8424032be8075
+    mime: image/jpeg
+    bytes: 20857173
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/fe/4c/fe4cdebbe484c5e926472953a470611f93dc9928e5dd547dbdd8424032be8075/preview-400.f0b712ecbae3.jpg
+        sha256: f0b712ecbae3c931edfa596dd48da8a4fd2cab3ebcdd3012bbc0b43f023b11fb
+        mime: image/jpeg
+        bytes: 55903
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01JY9GX40HBA4F6V4SACG7KJX7
+type: image
+subtype: photo
+title: Eisgang 1918
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1918-01-13
+location: Restorf, Fährstraße
+subjects:
+  - name: Fastnacht 1918
+    type: event
+  - name: Badestelle
+    type: building
+parents:
+  - 01J7ZY57D3ECK0QYZPPDYBXEE3
+files:
+  - role: main
+    original_name: P4534.jpg
+    path: files/cb/f9/cbf9c70ac66b2fabbda80e472d47377339102abc4dc1b5fc2a88237acddc6652/original.jpg
+    sha256: cbf9c70ac66b2fabbda80e472d47377339102abc4dc1b5fc2a88237acddc6652
+    mime: image/jpeg
+    bytes: 24413824
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/cb/f9/cbf9c70ac66b2fabbda80e472d47377339102abc4dc1b5fc2a88237acddc6652/preview-400.07e4018b63ef.jpg
+        sha256: 07e4018b63efa5cacf9db3389a6948f8d52b891e64ea6f22768315cd50b88d58
+        mime: image/jpeg
+        bytes: 71898
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01HQ0B6F49TZ9994B74H6NR393
+type: image
+subtype: photo
+title: Walter Krüger, Porträt
+date: 1906/1915
+location: Arendsee, Gartenstraße
+geocode:
+  lat: 52.9685
+  lon: 11.5703
+  precision: region
+  source: osm
+origin:
+  name: Gerda Detlefs
+  type: person
+  location: Laase
+subjects:
+  - name: Straßenfest 1906
+    type: event
+parents:
+  - 01F5CJH4Q7NJEW1D0ZXEW20ZNC
+files:
+  - role: main
+    original_name: scan_589.tif
+    path: files/57/36/57363d506afdb3f29959cb5d17ec3047ca3bbcebf5b935f140b3cc580f56ab68/original.tif
+    sha256: 57363d506afdb3f29959cb5d17ec3047ca3bbcebf5b935f140b3cc580f56ab68
+    mime: image/tiff
+    bytes: 22825334
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/57/36/57363d506afdb3f29959cb5d17ec3047ca3bbcebf5b935f140b3cc580f56ab68/preview-400.7efd06408243.jpg
+        sha256: 7efd06408243ca84cbdb74e039816fe15e4a762548f85806af317204b769da3a
+        mime: image/jpeg
+        bytes: 58766
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

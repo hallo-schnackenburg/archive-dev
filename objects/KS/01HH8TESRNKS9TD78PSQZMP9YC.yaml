@@ -1,0 +1,35 @@
+id: 01HH8TESRNKS9TD78PSQZMP9YC
+type: image
+subtype: drawing
+title: Federzeichnung Kegelbahn
+description: Federzeichnung, laviert.
+date: 1850-05-02
+location: Seedorf, Schulstraße
+geocode:
+  lat: 52.9547
+  lon: 11.4757
+  precision: street
+  source: osm
+parents:
+  - 01K7A9XBEKBQ32YCR4HNDFGW06
+  - 01F46MZG12HDJQK9Z29HPTQV9B
+files:
+  - role: main
+    original_name: scan_718.tif
+    path: files/50/f6/50f6f5e2d3574ec37985e23239cf253f9a238258f81ccb67d54117f5b4119a9d/original.tif
+    sha256: 50f6f5e2d3574ec37985e23239cf253f9a238258f81ccb67d54117f5b4119a9d
+    mime: image/tiff
+    bytes: 7939136
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/f6/50f6f5e2d3574ec37985e23239cf253f9a238258f81ccb67d54117f5b4119a9d/preview-400.0ab616a2adc8.jpg
+        sha256: 0ab616a2adc83c6185ec779edc96f73bd1ca6d2ebf7cfc3068b47d0c676a910d
+        mime: image/jpeg
+        bytes: 71449
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

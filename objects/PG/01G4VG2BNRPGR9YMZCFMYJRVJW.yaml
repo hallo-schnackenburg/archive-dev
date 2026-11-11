@@ -1,0 +1,37 @@
+id: 01G4VG2BNRPGR9YMZCFMYJRVJW
+type: image
+subtype: print
+title: Postkarte Arendsee, Tischlerei Bruns
+date: 1702?
+location: Wootz, Poststelle
+origin:
+  name: Gerda Lüders
+  type: person
+  location: Lenzen
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Frieda Plate
+    type: person
+  - name: Dieter Heuer
+    type: person
+files:
+  - role: main
+    original_name: scan_629.tif
+    path: files/42/c0/42c01034c1e5c3c7136a47942ca139661a53665833267f4eaf48745ed2a328fb/original.tif
+    sha256: 42c01034c1e5c3c7136a47942ca139661a53665833267f4eaf48745ed2a328fb
+    mime: image/tiff
+    bytes: 11858111
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/42/c0/42c01034c1e5c3c7136a47942ca139661a53665833267f4eaf48745ed2a328fb/preview-400.7e749e1f3426.jpg
+        sha256: 7e749e1f3426abbc6a1456560e1669e48540ed76cb94dfd95990c59d5d7a662d
+        mime: image/jpeg
+        bytes: 52472
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

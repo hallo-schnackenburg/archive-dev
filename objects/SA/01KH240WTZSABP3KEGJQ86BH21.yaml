@@ -1,0 +1,42 @@
+id: 01KH240WTZSABP3KEGJQ86BH21
+type: image
+subtype: photo
+title: Bäckerei Lüders in Brünkendorf
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1906-10-22
+location: Gülden, Schulstraße
+origin:
+  name: Karl Krüger
+  type: person
+  location: Lüchow
+owner:
+  name: Anni Behrens
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Hochzeit 1906
+    type: event
+  - name: Konfirmation 1906
+    type: event
+  - name: Heuberge
+    type: building
+files:
+  - role: main
+    original_name: foto_8382.jpg
+    path: files/71/e2/71e2a7ee3f9be725a7673b1cb277c839ab0f79929fc9683816df27a653412d69/original.jpg
+    sha256: 71e2a7ee3f9be725a7673b1cb277c839ab0f79929fc9683816df27a653412d69
+    mime: image/jpeg
+    bytes: 7382699
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/71/e2/71e2a7ee3f9be725a7673b1cb277c839ab0f79929fc9683816df27a653412d69/preview-400.2c876949a1fc.jpg
+        sha256: 2c876949a1fc08646811f754b718004d1dd4f937aa080656014fc6994b75dbdb
+        mime: image/jpeg
+        bytes: 77208
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

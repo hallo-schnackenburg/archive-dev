@@ -1,0 +1,36 @@
+id: 01G93EJYMBYQF61FZGW41SH9CJ
+type: image
+subtype: print
+title: Gruß aus Dömitz, Kapern
+description: Kupferstich, koloriert.
+date: 1733-03
+location: Cumlosen, Rathaus
+origin:
+  name: Fritz Gaede
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Dieter Gerdes
+    type: person
+  - name: Heinrich Lemke
+    type: person
+files:
+  - role: main
+    original_name: scan_448.tif
+    path: files/8f/5c/8f5c188241b905f193cf822ca5144717a35d33c16a8efeb00a62c70519a0dd9e/original.tif
+    sha256: 8f5c188241b905f193cf822ca5144717a35d33c16a8efeb00a62c70519a0dd9e
+    mime: image/tiff
+    bytes: 11880585
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8f/5c/8f5c188241b905f193cf822ca5144717a35d33c16a8efeb00a62c70519a0dd9e/preview-400.d24bd87bd6eb.jpg
+        sha256: d24bd87bd6eb5fe4abfae4b8d87b0a1b9dff60c44b298344dcd462852f0e0f51
+        mime: image/jpeg
+        bytes: 87722
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

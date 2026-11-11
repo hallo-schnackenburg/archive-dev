@@ -1,0 +1,51 @@
+id: 01FET1SJBS6GNTND529N1V1Z10
+type: image
+subtype: photo
+title: "Jugendfeuerwehr: Gruppenbild Sturmschaden"
+description: Farbfoto, leicht verblasst.
+date: "1894"
+location: Laase, Burgstraße
+geocode:
+  lat: 52.9467
+  lon: 11.6509
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Matthies
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  note: Mappe 12
+owner:
+  name: Wilhelm Krüger
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Kartoffelernte 1894
+    type: event
+parents:
+  - 01GZKK3S8ZTHZFVGYM1SQET170
+files:
+  - role: main
+    original_name: DSC7270.jpg
+    path: files/5c/5b/5c5bcdee54eec9c8f86c1ffce875e8e42cecc4732ece1b03e1766f0e17891988/original.jpg
+    sha256: 5c5bcdee54eec9c8f86c1ffce875e8e42cecc4732ece1b03e1766f0e17891988
+    mime: image/jpeg
+    bytes: 23261345
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/5c/5b/5c5bcdee54eec9c8f86c1ffce875e8e42cecc4732ece1b03e1766f0e17891988/preview-400.744ad0fdd7bd.jpg
+        sha256: 744ad0fdd7bd0198ab3b1ae39f2f101368e9ee2822b0097b7270de013f573c6b
+        mime: image/jpeg
+        bytes: 88046
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

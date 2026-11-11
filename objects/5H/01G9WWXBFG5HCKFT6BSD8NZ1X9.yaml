@@ -1,0 +1,45 @@
+id: 01G9WWXBFG5HCKFT6BSD8NZ1X9
+type: image
+subtype: photo
+title: Karl Brandt, Porträt
+description: Abzug im Format 9 x 13 cm.
+date: 1978-06-14
+location: Cumlosen, Försterei
+geocode:
+  lat: 53.0509
+  lon: 11.6374
+  precision: town
+  source: osm
+origin:
+  name: Dieter Matthies
+  type: person
+  location: Zadrau
+subjects:
+  - name: Heuberge
+    type: building
+  - name: Kindergartenfest 1978
+    type: event
+  - name: Wittenberge
+    type: place
+parents:
+  - 01KVJ8Y27EYC61W5ZE473WC7YC
+files:
+  - role: main
+    original_name: DSC9365.jpg
+    path: files/99/07/99079086090663ba59c9d6979b101d117f4791000da6430f16493c935159ac30/original.jpg
+    sha256: 99079086090663ba59c9d6979b101d117f4791000da6430f16493c935159ac30
+    mime: image/jpeg
+    bytes: 24450942
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/99/07/99079086090663ba59c9d6979b101d117f4791000da6430f16493c935159ac30/preview-400.fae8a337b1d0.jpg
+        sha256: fae8a337b1d0cfbcced8faf548043530443d9af4fef00780a9902f344cdd2a86
+        mime: image/jpeg
+        bytes: 36291
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

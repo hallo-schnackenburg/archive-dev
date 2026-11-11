@@ -1,0 +1,36 @@
+id: 01HN5Y0KJST7F2N7PDC5ZBRRY8
+type: image
+subtype: drawing
+title: Entwurf für Feuerwehrhaus, Arendsee
+date: 1946/1958
+location: Gollensdorf, Gasthof Meyer
+geocode:
+  lat: 52.9336
+  lon: 11.4618
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+files:
+  - role: main
+    original_name: scan_720.tif
+    path: files/d7/48/d748f7e4a0b0cfcb2b6913364c29a63896d1f76360a512cfcc66d2c721db760a/original.tif
+    sha256: d748f7e4a0b0cfcb2b6913364c29a63896d1f76360a512cfcc66d2c721db760a
+    mime: image/tiff
+    bytes: 14760261
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/48/d748f7e4a0b0cfcb2b6913364c29a63896d1f76360a512cfcc66d2c721db760a/preview-400.777a3e582035.jpg
+        sha256: 777a3e582035b8129fe9c3e58dc4865791e932e2b8c3c07ed9fe6645f6cdac23
+        mime: image/jpeg
+        bytes: 20576
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

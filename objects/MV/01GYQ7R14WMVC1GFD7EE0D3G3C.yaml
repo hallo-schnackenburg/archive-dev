@@ -1,0 +1,48 @@
+id: 01GYQ7R14WMVC1GFD7EE0D3G3C
+type: image
+subtype: drawing
+title: Fähranleger, Aquarell
+origin:
+  name: Frieda Matthies
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 6/054
+  note: Mappe 12
+owner:
+  name: Lotte Ludolf
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Brückeneinweihung 1900
+    type: event
+  - name: Fährjubiläum 1900
+    type: event
+  - name: Gasthof Meyer
+    type: building
+parents:
+  - 01GEX84R7PHBNGS82DD5CBHJ6Q
+files:
+  - role: main
+    original_name: scan_809.tif
+    path: files/22/5c/225c19e32fe2e481d58002841142b565cae489a183c44e9a8f953df5c93203db/original.tif
+    sha256: 225c19e32fe2e481d58002841142b565cae489a183c44e9a8f953df5c93203db
+    mime: image/tiff
+    bytes: 2495752
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/22/5c/225c19e32fe2e481d58002841142b565cae489a183c44e9a8f953df5c93203db/preview-400.7a0dd784f20a.jpg
+        sha256: 7a0dd784f20a6bcf536316ab8decf592ba5ec30fa8b4beca26775eb5a922722a
+        mime: image/jpeg
+        bytes: 55559
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

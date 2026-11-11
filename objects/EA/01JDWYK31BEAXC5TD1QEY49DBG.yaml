@@ -1,0 +1,57 @@
+id: 01JDWYK31BEAXC5TD1QEY49DBG
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Kapern 1879
+description: Handschriftlich in Sütterlin.
+date: "1879"
+origin:
+  name: Kirchenvorstand Gülden
+  type: business
+  location: Gorleben
+language: de
+subjects:
+  - name: Dorfteich
+    type: building
+  - name: Pumpenhaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: protocol_y49dbg_001.tif
+    path: files/59/3b/593b3bfb2a8bd2b57061771606b08f3025a7bcd41701980ac47ba42a7a08e7d7/original.tif
+    sha256: 593b3bfb2a8bd2b57061771606b08f3025a7bcd41701980ac47ba42a7a08e7d7
+    mime: image/tiff
+    bytes: 20037977
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/59/3b/593b3bfb2a8bd2b57061771606b08f3025a7bcd41701980ac47ba42a7a08e7d7/preview-400.07cb8ca99ebf.jpg
+        sha256: 07cb8ca99ebff670174957749f9d42ad2eb7fe0c27d052980e9a8aac689aa747
+        mime: image/jpeg
+        bytes: 26055
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_y49dbg_002.tif
+    path: files/c5/0d/c50d9121e5c31c6ab890bf9ffedea59ba71f4100df58c3fd00b3cc7d9dde7439/original.tif
+    sha256: c50d9121e5c31c6ab890bf9ffedea59ba71f4100df58c3fd00b3cc7d9dde7439
+    mime: image/tiff
+    bytes: 24839740
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c5/0d/c50d9121e5c31c6ab890bf9ffedea59ba71f4100df58c3fd00b3cc7d9dde7439/preview-400.69bbe15bc6c1.jpg
+        sha256: 69bbe15bc6c195c07efcb7f6e1eb1d5e48c4f984aa434bfd7b0a268fe9f28049
+        mime: image/jpeg
+        bytes: 56562
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

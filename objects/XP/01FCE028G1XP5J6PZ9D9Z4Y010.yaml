@@ -1,0 +1,41 @@
+id: 01FCE028G1XP5J6PZ9D9Z4Y010
+type: image
+subtype: plan
+title: Deichplan Rüterberg bis Havelberg
+date: 1824-10
+location: Gollensdorf, Hinter den Höfen
+origin:
+  name: Frieda Ihde
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Kasten 19/047
+subjects:
+  - name: Gerda Lemke
+    type: person
+  - name: Bahnhof
+    type: building
+files:
+  - role: main
+    original_name: scan_048.tif
+    path: files/3e/05/3e05de4f870ecf804fb35bbf6555d866d0ca27e3558c4585ae91c0ce2f563c54/original.tif
+    sha256: 3e05de4f870ecf804fb35bbf6555d866d0ca27e3558c4585ae91c0ce2f563c54
+    mime: image/tiff
+    bytes: 23208281
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/05/3e05de4f870ecf804fb35bbf6555d866d0ca27e3558c4585ae91c0ce2f563c54/preview-400.c62e32e747d2.jpg
+        sha256: c62e32e747d28ee6d5dfe560cf98bbf612f28b0eba048b4a1e3bdb9b714e5c82
+        mime: image/jpeg
+        bytes: 41678
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

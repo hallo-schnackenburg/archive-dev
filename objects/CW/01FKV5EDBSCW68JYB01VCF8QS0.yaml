@@ -1,0 +1,41 @@
+id: 01FKV5EDBSCW68JYB01VCF8QS0
+type: document
+subtype: letter
+title: Einladung zum Sturmschaden
+date: 1846-08-06
+origin:
+  name: Rudolf Wegner
+  type: person
+  location: Holtorf
+recipient: August Tiedemann
+language: de
+subjects:
+  - name: Erika Voss
+    type: person
+  - name: Paul Garms
+    type: person
+  - name: Schlachtfest 1846
+    type: event
+parents:
+  - 01JASR0HP1MS5AYRYN7A5XSTYQ
+files:
+  - role: page
+    num: 1
+    original_name: letter_cf8qs0_001.tif
+    path: files/3d/56/3d5675a1cbddb4ed0dbb85efa73bf7387541c25c29b7a7ebafef8d990d76ad48/original.tif
+    sha256: 3d5675a1cbddb4ed0dbb85efa73bf7387541c25c29b7a7ebafef8d990d76ad48
+    mime: image/tiff
+    bytes: 17489442
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3d/56/3d5675a1cbddb4ed0dbb85efa73bf7387541c25c29b7a7ebafef8d990d76ad48/preview-400.d6adc2e8824d.jpg
+        sha256: d6adc2e8824d3b6607ceff9d1533ddf797b1625ee599f886b53af5d32255768c
+        mime: image/jpeg
+        bytes: 66906
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

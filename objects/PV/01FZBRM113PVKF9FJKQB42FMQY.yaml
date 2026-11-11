@@ -1,0 +1,44 @@
+id: 01FZBRM113PVKF9FJKQB42FMQY
+type: image
+subtype: photo
+title: Bahnhof in Salzwedel
+description: Abzug im Format 13 x 18 cm.
+date: "1921"
+location: Wustrow, Gartenstraße
+origin:
+  name: Klaus Lemke
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 18/050
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Gorleben
+    type: place
+parents:
+  - 01HGWAATSHSQJT69MF82EV6W37
+files:
+  - role: main
+    original_name: scan_083.tif
+    path: files/8a/f1/8af130bf60c4783d19641c909bca6a2e695b9f19db83ad74dc66768db06511a5/original.tif
+    sha256: 8af130bf60c4783d19641c909bca6a2e695b9f19db83ad74dc66768db06511a5
+    mime: image/tiff
+    bytes: 7647057
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8a/f1/8af130bf60c4783d19641c909bca6a2e695b9f19db83ad74dc66768db06511a5/preview-400.4b209c7e3464.jpg
+        sha256: 4b209c7e346465ee8c9358255f0f05116b3071088d76a37f108c4be6d577403c
+        mime: image/jpeg
+        bytes: 47795
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01H0YBBTMNC49JK0ZAMB7SJ150
+type: image
+subtype: photo
+title: Eisgang der Handwerkerinnung
+description: Aufnahme von Fritz Lüders.
+date: 1976/1979
+location: Restorf, Elbstraße
+origin:
+  name: Werner Meyer
+  type: person
+  location: Havelberg
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Ilse Wiegmann
+    type: person
+  - name: Gutshaus
+    type: building
+files:
+  - role: main
+    original_name: scan_957.tif
+    path: files/fb/e7/fbe781bcaa21ef60a83179f488fb254e82cd6a2af7d900af2f6886757eef37cf/original.tif
+    sha256: fbe781bcaa21ef60a83179f488fb254e82cd6a2af7d900af2f6886757eef37cf
+    mime: image/tiff
+    bytes: 7356158
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fb/e7/fbe781bcaa21ef60a83179f488fb254e82cd6a2af7d900af2f6886757eef37cf/preview-400.ef0ed6a5ad0e.jpg
+        sha256: ef0ed6a5ad0e15e705a1d58783701c99e8e438713a1e2d764b03d42f484ba89e
+        mime: image/jpeg
+        bytes: 84105
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

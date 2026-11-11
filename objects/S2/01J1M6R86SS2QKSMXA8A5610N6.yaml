@@ -1,0 +1,30 @@
+id: 01J1M6R86SS2QKSMXA8A5610N6
+type: image
+subtype: print
+title: Gruß aus Bömenzien, Wootz
+date: 1825-10
+location: Salzwedel, Kirche St. Johannis
+origin:
+  name: Horst Wegner
+  type: person
+  location: Gollensdorf
+files:
+  - role: main
+    original_name: scan_899.tif
+    path: files/ff/6f/ff6f368e051c7531275a7ce14e560082ecf8b49788cf3948a3edc0152aa919c4/original.tif
+    sha256: ff6f368e051c7531275a7ce14e560082ecf8b49788cf3948a3edc0152aa919c4
+    mime: image/tiff
+    bytes: 22339859
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/6f/ff6f368e051c7531275a7ce14e560082ecf8b49788cf3948a3edc0152aa919c4/preview-400.fa2b8e626fd2.jpg
+        sha256: fa2b8e626fd2668a98b8374759ce9823b87b3dd2d4880b498609ed4300088cd4
+        mime: image/jpeg
+        bytes: 75095
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

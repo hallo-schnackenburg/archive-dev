@@ -1,0 +1,47 @@
+id: 01FYJZN7JGC9E5KNYD1DWDG6E8
+type: image
+subtype: plan
+title: Bauplan Dorfschule 1829
+description: Tusche auf Transparentpapier.
+date: 1829-10
+origin:
+  name: Heinrich Garms
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 17/396
+  note: Dachboden, Truhe
+subjects:
+  - name: Restorf
+    type: place
+  - name: Kaufmannshaus
+    type: building
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01FJ86NA6W3C03D1PBGTPFRX8T
+  - 01HXDE71QATS2M3MPMXYF5BQTB
+files:
+  - role: main
+    original_name: scan_210.tif
+    path: files/a4/09/a409362a2b7299d22857dcc58242fd6c030ce665dc5c9f001642a67a026eea6e/original.tif
+    sha256: a409362a2b7299d22857dcc58242fd6c030ce665dc5c9f001642a67a026eea6e
+    mime: image/tiff
+    bytes: 25211593
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a4/09/a409362a2b7299d22857dcc58242fd6c030ce665dc5c9f001642a67a026eea6e/preview-400.1e2702258fb9.jpg
+        sha256: 1e2702258fb972c220c7653fb05c8360343811f1ef593abf5704f9d13a475c10
+        mime: image/jpeg
+        bytes: 60919
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01GQ2XB2DBAS32GQ8X2E66JF3Y
+type: document
+subtype: letter
+title: Brief von Ernst Ludolf an Ilse Ahrens
+date: 1917?
+location: Kapern, Burgstraße
+geocode:
+  lat: 53.0049
+  lon: 11.4662
+  precision: exact
+  source: osm
+origin:
+  name: Paul Lemke
+  type: person
+  location: Gorleben
+recipient: Karl Pape
+language: de
+subjects:
+  - name: Lanz
+    type: place
+  - name: Karl Gaede
+    type: person
+  - name: Seedorf
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_66jf3y_001.tif
+    path: files/04/2a/042a0e63a62aba4876059c6ae72a0d191232a2864bb19bb54977545cb4efe2de/original.tif
+    sha256: 042a0e63a62aba4876059c6ae72a0d191232a2864bb19bb54977545cb4efe2de
+    mime: image/tiff
+    bytes: 7920680
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/2a/042a0e63a62aba4876059c6ae72a0d191232a2864bb19bb54977545cb4efe2de/preview-400.a2b71be1b6bc.jpg
+        sha256: a2b71be1b6bc098ac6c57397096ac42c6bf2cceaa4fe30c8afd51904150d4428
+        mime: image/jpeg
+        bytes: 69504
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

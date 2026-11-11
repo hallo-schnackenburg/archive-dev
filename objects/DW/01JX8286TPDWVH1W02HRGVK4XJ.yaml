@@ -1,0 +1,44 @@
+id: 01JX8286TPDWVH1W02HRGVK4XJ
+type: image
+subtype: photo
+title: Gerda Lemke, Porträt
+date: 1903-03-21
+location: Wootz, Mühlenweg
+geocode:
+  lat: 52.9566
+  lon: 11.5749
+  precision: region
+  source: osm
+origin:
+  name: Paul Dreyer
+  type: person
+  location: Zadrau
+owner:
+  name: Rudolf Ahrens
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Lanz
+    type: place
+parents:
+  - 01J7ZY57D3ECK0QYZPPDYBXEE3
+files:
+  - role: main
+    original_name: foto_2801.jpg
+    path: files/6c/15/6c15ad4ced959d29e7c5fb78cef8b28d85527207c4d2a58cbcf183b0899bc43c/original.jpg
+    sha256: 6c15ad4ced959d29e7c5fb78cef8b28d85527207c4d2a58cbcf183b0899bc43c
+    mime: image/jpeg
+    bytes: 13707575
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/6c/15/6c15ad4ced959d29e7c5fb78cef8b28d85527207c4d2a58cbcf183b0899bc43c/preview-400.35e384094196.jpg
+        sha256: 35e3840941960272640647eb90a8f1e2e14391c9994e9bb78c971f255199b1c0
+        mime: image/jpeg
+        bytes: 84818
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

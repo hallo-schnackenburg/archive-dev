@@ -1,0 +1,33 @@
+id: 01JAPZAXE45EW6GT6EDJTT16XM
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Posaunenchor 1896
+date: "1896"
+location: Nienwalde, Fährstraße
+geocode:
+  lat: 52.9276
+  lon: 11.6641
+  precision: region
+  source: osm
+origin:
+  name: Kirchenvorstand Wootz
+  type: business
+  location: Bömenzien
+language: de
+subjects:
+  - name: Karl Harms
+    type: person
+  - name: August Garms
+    type: person
+parents:
+  - 01JYMEAJWANE502SQPKMZ6JGSN
+storage: external
+external:
+  - type: archive
+    site: Museum Lenzen
+    uri: https://museum-lenzen.example.org/objekt/608980
+    reference: Hann. 154 Nr. 2328
+    retrieved: 2026-08-21
+  - type: archive
+    site: Stadtarchiv Salzwedel
+    uri: https://stadtarchiv-salzwedel.example.org/objekt/991601

@@ -1,0 +1,40 @@
+id: 01H0SHQ15MDFNSZY5G4YJ64A3S
+type: image
+subtype: photo
+title: Dorffest 1918
+date: 1918-12-27
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Schrank B
+subjects:
+  - name: Sturmschaden 1918
+    type: event
+parents:
+  - 01HM10JM58C78RZE1Y6NV78KDE
+files:
+  - role: main
+    original_name: foto_9185.jpg
+    path: files/74/79/7479b1046a441502b9c7e1ddf97e84ab7add9906dee5cc4c4cb9bf1d6242c583/original.jpg
+    sha256: 7479b1046a441502b9c7e1ddf97e84ab7add9906dee5cc4c4cb9bf1d6242c583
+    mime: image/jpeg
+    bytes: 4873578
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/74/79/7479b1046a441502b9c7e1ddf97e84ab7add9906dee5cc4c4cb9bf1d6242c583/preview-400.6954ce60a476.jpg
+        sha256: 6954ce60a4767080385ebb91e178b61253da07047ec6e313cdc7a3981ac86d18
+        mime: image/jpeg
+        bytes: 79716
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01JE24K20MYZS8GJCK472N5R10
+type: image
+subtype: print
+title: Postkarte Seedorf, Fachwerkhaus Marktstraße 4
+description: Kupferstich, koloriert.
+date: 1790-11
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Lanz
+subjects:
+  - name: Osterfeuer 1790
+    type: event
+parents:
+  - 01F267JRW9ANSP74NWFX31H9W4
+files:
+  - role: main
+    original_name: scan_470.tif
+    path: files/bd/3b/bd3b472a1b64b49ff7413751e506f3d75d62be6614575a1e3cbcca2f375dec7b/original.tif
+    sha256: bd3b472a1b64b49ff7413751e506f3d75d62be6614575a1e3cbcca2f375dec7b
+    mime: image/tiff
+    bytes: 15565860
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/bd/3b/bd3b472a1b64b49ff7413751e506f3d75d62be6614575a1e3cbcca2f375dec7b/preview-400.caeb974cbdb6.jpg
+        sha256: caeb974cbdb65ad66e2da04cde1cb3d8866f3103f9af591f2a4e7e4562d80847
+        mime: image/jpeg
+        bytes: 46704
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01FD5E1MW27V5VHF1TK2EYGNFJ
+type: image
+subtype: plan
+title: Deichplan Havelberg bis Hitzacker
+subjects:
+  - name: Ernst Meyer
+    type: person
+  - name: Einweihung 1812
+    type: event
+parents:
+  - 01HJJHXB72AVBKM2CVZ13T7KRK
+files:
+  - role: main
+    original_name: scan_928.tif
+    path: files/0f/68/0f68b2e620a895565969a085d84f5bc5c314a628130f702c0807235dc63a24c6/original.tif
+    sha256: 0f68b2e620a895565969a085d84f5bc5c314a628130f702c0807235dc63a24c6
+    mime: image/tiff
+    bytes: 27635565
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/0f/68/0f68b2e620a895565969a085d84f5bc5c314a628130f702c0807235dc63a24c6/preview-400.06737dfa74fd.jpg
+        sha256: 06737dfa74fd99e6efdafbf65c5dffe6fe7c410a939b7aa1ca98c39f740a7612
+        mime: image/jpeg
+        bytes: 83042
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

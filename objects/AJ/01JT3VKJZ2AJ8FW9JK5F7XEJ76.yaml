@@ -1,0 +1,42 @@
+id: 01JT3VKJZ2AJ8FW9JK5F7XEJ76
+type: image
+subtype: plan
+title: Bauplan Dorfkrug 1898
+description: Tusche auf Transparentpapier.
+date: 1898-11-03
+location: Wustrow, Pfarrhaus
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 31/084
+owner:
+  name: Horst Bohlmann
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Gerda Bohlmann
+    type: person
+parents:
+  - 01G253EGHDFBNP7ZT73WK1Q02J
+files:
+  - role: main
+    original_name: scan_352.tif
+    path: files/b9/8b/b98bd43f18ba09ce8a23e3bff87f3985dd50a3b2cee8334315a808ed0c242726/original.tif
+    sha256: b98bd43f18ba09ce8a23e3bff87f3985dd50a3b2cee8334315a808ed0c242726
+    mime: image/tiff
+    bytes: 6495883
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b9/8b/b98bd43f18ba09ce8a23e3bff87f3985dd50a3b2cee8334315a808ed0c242726/preview-400.7b3a127d513a.jpg
+        sha256: 7b3a127d513a27394cebd5e546bb6cc1eae01f54db44c0fdf3853d022a0f9c52
+        mime: image/jpeg
+        bytes: 22452
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

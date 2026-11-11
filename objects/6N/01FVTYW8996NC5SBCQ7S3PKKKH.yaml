@@ -1,0 +1,39 @@
+id: 01FVTYW8996NC5SBCQ7S3PKKKH
+type: image
+subtype: drawing
+title: Skizze Lüchow, Burgstraße
+date: 1821/1826
+location: Wustrow, Kaufmannshaus
+origin:
+  name: Manfred Lemke
+  type: person
+  location: Wootz
+subjects:
+  - name: Osterfeuer 1821
+    type: event
+  - name: Ortsbesichtigung 1821
+    type: event
+  - name: Kartoffelernte 1821
+    type: event
+parents:
+  - 01FQ3YZE77QNA1ZTVZV37G0FNF
+files:
+  - role: main
+    original_name: scan_137.tif
+    path: files/a0/9d/a09d11a96d467bd35388ea10c758ab72f84d5f547ac892ea32496b7de27985ed/original.tif
+    sha256: a09d11a96d467bd35388ea10c758ab72f84d5f547ac892ea32496b7de27985ed
+    mime: image/tiff
+    bytes: 10597602
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a0/9d/a09d11a96d467bd35388ea10c758ab72f84d5f547ac892ea32496b7de27985ed/preview-400.b08b00e82dfb.jpg
+        sha256: b08b00e82dfb9308a3f70471361817b6a796765816830596cf7ca2e2b5d0e8bf
+        mime: image/jpeg
+        bytes: 24364
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

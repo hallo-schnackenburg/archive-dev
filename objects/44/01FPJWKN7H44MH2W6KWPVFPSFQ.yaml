@@ -1,0 +1,33 @@
+id: 01FPJWKN7H44MH2W6KWPVFPSFQ
+type: image
+subtype: plan
+title: Lageplan Elbdeich
+description: Maßstab 1:100.
+date: 1854?
+owner:
+  name: Walter Lemke
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Hochzeit 1854
+    type: event
+files:
+  - role: main
+    original_name: scan_309.tif
+    path: files/4f/d3/4fd3737c2bff81a3b4f026e5836c8db2ac31ced93ae03614c4ae93119ec18d12/original.tif
+    sha256: 4fd3737c2bff81a3b4f026e5836c8db2ac31ced93ae03614c4ae93119ec18d12
+    mime: image/tiff
+    bytes: 15811550
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4f/d3/4fd3737c2bff81a3b4f026e5836c8db2ac31ced93ae03614c4ae93119ec18d12/preview-400.e0616b696577.jpg
+        sha256: e0616b69657776a977626fc228f9e3bee774cc8c98a833188a3b50e9bfe71c9d
+        mime: image/jpeg
+        bytes: 33737
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

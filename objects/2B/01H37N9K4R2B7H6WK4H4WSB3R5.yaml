@@ -1,0 +1,40 @@
+id: 01H37N9K4R2B7H6WK4H4WSB3R5
+type: image
+subtype: photo
+title: Wassermühle in Dömitz
+date: 1938-12
+location: Holtorf, Bahnhofstraße
+origin:
+  name: Frieda Meyer
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Storchennest
+    type: building
+files:
+  - role: main
+    original_name: scan_020.tif
+    path: files/fb/0d/fb0d5a6d215221e7554e5dec80591f0f5798584a5ab066f16b7bdb0e189ec6cc/original.tif
+    sha256: fb0d5a6d215221e7554e5dec80591f0f5798584a5ab066f16b7bdb0e189ec6cc
+    mime: image/tiff
+    bytes: 20783389
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fb/0d/fb0d5a6d215221e7554e5dec80591f0f5798584a5ab066f16b7bdb0e189ec6cc/preview-400.5317077ed4e6.jpg
+        sha256: 5317077ed4e61da9711e99926493cfe69d441afd43807c4f8b996b191c7b1bfa
+        mime: image/jpeg
+        bytes: 72336
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

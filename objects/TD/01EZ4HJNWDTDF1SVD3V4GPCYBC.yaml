@@ -1,0 +1,47 @@
+id: 01EZ4HJNWDTDF1SVD3V4GPCYBC
+type: image
+subtype: print
+title: Postkarte Salzwedel, Zollamt
+description: Kupferstich, koloriert.
+date: 1720-04-21
+location: Wustrow, Badestelle
+geocode:
+  lat: 53.0287
+  lon: 11.5963
+  precision: town
+  source: osm
+origin:
+  name: Karl Meyer
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Album 24/030
+subjects:
+  - name: Kindergartenfest 1720
+    type: event
+  - name: Brunnen am Markt
+    type: building
+files:
+  - role: main
+    original_name: scan_747.tif
+    path: files/4b/61/4b613d307f16e22303451ab49ecfbb68eec5b353c7b962260c16fc2b142675b1/original.tif
+    sha256: 4b613d307f16e22303451ab49ecfbb68eec5b353c7b962260c16fc2b142675b1
+    mime: image/tiff
+    bytes: 14533750
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4b/61/4b613d307f16e22303451ab49ecfbb68eec5b353c7b962260c16fc2b142675b1/preview-400.9f5e5ced4ccc.jpg
+        sha256: 9f5e5ced4cccf8bf9774f8e042c2709011aea66982dacd10952c41846df24c0e
+        mime: image/jpeg
+        bytes: 71332
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

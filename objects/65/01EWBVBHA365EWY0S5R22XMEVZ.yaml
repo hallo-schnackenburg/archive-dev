@@ -1,0 +1,38 @@
+id: 01EWBVBHA365EWY0S5R22XMEVZ
+type: image
+subtype: plan
+title: Deichplan Lanz bis Lenzen
+description: Maßstab 1:100.
+date: 1839-03-15
+location: Cumlosen, Windmühle
+geocode:
+  lat: 52.904
+  lon: 11.6641
+  precision: town
+  source: osm
+origin:
+  name: Gerda Dierks
+  type: person
+  location: Pretzier
+parents:
+  - 01FE51YC393SEJ3F0E3BYAZ1NB
+files:
+  - role: main
+    original_name: scan_777.tif
+    path: files/c5/2a/c52aeed1a5eb1622a7a5ef56ed4013fbc6f3cee73e7b407488c043dc627a016f/original.tif
+    sha256: c52aeed1a5eb1622a7a5ef56ed4013fbc6f3cee73e7b407488c043dc627a016f
+    mime: image/tiff
+    bytes: 5614282
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c5/2a/c52aeed1a5eb1622a7a5ef56ed4013fbc6f3cee73e7b407488c043dc627a016f/preview-400.2701402da8f4.jpg
+        sha256: 2701402da8f40c6e519fe6ed9f6bdbeb69286507b30d0f654737e744ff9bada5
+        mime: image/jpeg
+        bytes: 63614
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

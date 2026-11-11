@@ -1,0 +1,59 @@
+id: 01FHKGBFJKY2MWNX00PF57TDBA
+type: document
+subtype: note
+title: Rechnung Voss, Molkerei
+date: 1962-05-04
+location: Hitzacker, Schulstraße
+geocode:
+  lat: 52.9366
+  lon: 11.6138
+  precision: exact
+  source: osm
+origin:
+  name: Lotte Jeß
+  type: person
+  location: Holtorf
+language: de
+parents:
+  - 01FKRCJXM1WMJBH86NTRWPP373
+files:
+  - role: page
+    num: 1
+    original_name: note_57tdba_001.tif
+    path: files/ee/c0/eec0dd6d80f772479c62d5cfe0cbc3d4f830e1c7afc4daf169c1d2705b892c79/original.tif
+    sha256: eec0dd6d80f772479c62d5cfe0cbc3d4f830e1c7afc4daf169c1d2705b892c79
+    mime: image/tiff
+    bytes: 8506093
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ee/c0/eec0dd6d80f772479c62d5cfe0cbc3d4f830e1c7afc4daf169c1d2705b892c79/preview-400.5a1c497d497a.jpg
+        sha256: 5a1c497d497acf0a39a1baa9d1a5fe7d40e8c438daabd3a0f2beed99d1dd0c25
+        mime: image/jpeg
+        bytes: 79631
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_57tdba_002.tif
+    path: files/01/8e/018e3c13be9c5fb739e91fcda84a76f9fbd3e72a7cb3c753e2af69e0299a1667/original.tif
+    sha256: 018e3c13be9c5fb739e91fcda84a76f9fbd3e72a7cb3c753e2af69e0299a1667
+    mime: image/tiff
+    bytes: 2707124
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/8e/018e3c13be9c5fb739e91fcda84a76f9fbd3e72a7cb3c753e2af69e0299a1667/preview-400.4cb523a92487.jpg
+        sha256: 4cb523a92487a3a98cc53c7169a9bfd094d30826e857cd28e60276c3ac083d8d
+        mime: image/jpeg
+        bytes: 30586
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

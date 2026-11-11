@@ -1,0 +1,43 @@
+id: 01KWHQ9HVS6NY9QQZGX75XREK6
+type: image
+subtype: photo
+title: Försterei in Dömitz
+date: 1992-10
+location: Wittenberge, Bahnhofstraße
+geocode:
+  lat: 53.012
+  lon: 11.675
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br 9/117
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v26408
+subjects:
+  - name: Fritz Ihde
+    type: person
+parents:
+  - 01KNV35QF9MCTPV2ME9SCJY459
+files:
+  - role: main
+    original_name: foto_7714.jpg
+    path: files/9b/75/9b75da370c8a6036d2c2322aba71f764bf8e731f25874464445e3176e49894d1/original.jpg
+    sha256: 9b75da370c8a6036d2c2322aba71f764bf8e731f25874464445e3176e49894d1
+    mime: image/jpeg
+    bytes: 3382737
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/9b/75/9b75da370c8a6036d2c2322aba71f764bf8e731f25874464445e3176e49894d1/preview-400.beb4f91ecd5b.jpg
+        sha256: beb4f91ecd5bd3810fd15bb6e181cf3682abf1971869278719a0089a23fa0944
+        mime: image/jpeg
+        bytes: 54341
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

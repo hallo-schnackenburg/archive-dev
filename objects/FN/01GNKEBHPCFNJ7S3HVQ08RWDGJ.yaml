@@ -1,0 +1,60 @@
+id: 01GNKEBHPCFNJ7S3HVQ08RWDGJ
+type: document
+subtype: protocol
+title: Protokoll des Kirchenvorstand vom 24. April 1856
+description: Handschriftlich in Sütterlin.
+date: 1856-04-24
+location: Bömenzien, Kirchstraße
+origin:
+  name: Kirchenvorstand Wootz
+  type: business
+  location: Schnackenburg
+language: de
+subjects:
+  - name: Richtfest 1856
+    type: event
+  - name: Maifeier 1856
+    type: event
+parents:
+  - 01JQ24JYM14XMX215Z8SCN1PS1
+files:
+  - role: page
+    num: 1
+    original_name: protocol_8rwdgj_001.tif
+    path: files/74/b0/74b00e2093c67eb17b7e7d4d1002bc40e4feb006abae8dad809a5d448279db9c/original.tif
+    sha256: 74b00e2093c67eb17b7e7d4d1002bc40e4feb006abae8dad809a5d448279db9c
+    mime: image/tiff
+    bytes: 21567886
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/74/b0/74b00e2093c67eb17b7e7d4d1002bc40e4feb006abae8dad809a5d448279db9c/preview-400.0ad901ae059f.jpg
+        sha256: 0ad901ae059f135117face0b3d225ce8ea7fbf7a74c955317e55add89860d458
+        mime: image/jpeg
+        bytes: 25382
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_8rwdgj_002.tif
+    path: files/18/cf/18cf8232283c0df72a99bedd853ddb6c18dc8db290b6deabd2fc9afe7b6d56fb/original.tif
+    sha256: 18cf8232283c0df72a99bedd853ddb6c18dc8db290b6deabd2fc9afe7b6d56fb
+    mime: image/tiff
+    bytes: 1834634
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/18/cf/18cf8232283c0df72a99bedd853ddb6c18dc8db290b6deabd2fc9afe7b6d56fb/preview-400.97bbdd255863.jpg
+        sha256: 97bbdd255863f04c531632105daf0acbe8635d6dc610a719450f50a6ef318101
+        mime: image/jpeg
+        bytes: 33462
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,73 @@
+id: 01JN55DPZD40ZBDVSR30ZSDVH9
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Spielmannszug 1896
+description: Handschriftlich in Sütterlin.
+date: 1896-01-17
+location: Zadrau, Windmühle
+geocode:
+  lat: 53.0177
+  lon: 11.5486
+  precision: exact
+  source: osm
+origin:
+  name: Finanzausschuss Lüchow
+  type: business
+  location: Brünkendorf
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 7/060
+subjects:
+  - name: Hans Krüger
+    type: person
+  - name: Lenzen
+    type: place
+  - name: Weihnachtsmarkt 1896
+    type: event
+parents:
+  - 01EW7Y4DK0MKNT73TY4DDY8AY7
+files:
+  - role: page
+    num: 1
+    original_name: protocol_zsdvh9_001.tif
+    path: files/ea/5e/ea5e22eb33f965570953e1f5c95a97d6fc9245f40b74a9745c361fb2a71ae93b/original.tif
+    sha256: ea5e22eb33f965570953e1f5c95a97d6fc9245f40b74a9745c361fb2a71ae93b
+    mime: image/tiff
+    bytes: 8413551
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ea/5e/ea5e22eb33f965570953e1f5c95a97d6fc9245f40b74a9745c361fb2a71ae93b/preview-400.7ce03375866c.jpg
+        sha256: 7ce03375866c4de19c7e665dfc7063c8c61bd6537926358af34173b339928dca
+        mime: image/jpeg
+        bytes: 85148
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_zsdvh9_002.tif
+    path: files/ad/38/ad3849701f15c23e90220684d96143f45b1069ecc13863d5b4cf0a539e589bcf/original.tif
+    sha256: ad3849701f15c23e90220684d96143f45b1069ecc13863d5b4cf0a539e589bcf
+    mime: image/tiff
+    bytes: 22879365
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ad/38/ad3849701f15c23e90220684d96143f45b1069ecc13863d5b4cf0a539e589bcf/preview-400.041b84b83424.jpg
+        sha256: 041b84b83424066761e9a1d8523a2b2589d59095b7c5b2c963c533201c6bdcab
+        mime: image/jpeg
+        bytes: 44135
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01K089DQAW9HPK2Y9A0J9XEW5P
+type: image
+subtype: plan
+title: Bauplan Poststelle 1856
+description: Maßstab 1:1000.
+date: "1856"
+location: Lüchow, Marktstraße
+origin:
+  name: Frieda Kuhlmann
+  type: person
+  location: Wittenberge
+owner:
+  name: Karl Lüders
+  type: person
+  note: Nachlass
+subjects:
+  - name: Berta Tiedemann
+    type: person
+  - name: Seedorf
+    type: place
+files:
+  - role: main
+    original_name: scan_480.tif
+    path: files/50/e7/50e7a260f6a2241121c80b276657db4a864dd1d6226ecc8a6d4d55d09cdce6b1/original.tif
+    sha256: 50e7a260f6a2241121c80b276657db4a864dd1d6226ecc8a6d4d55d09cdce6b1
+    mime: image/tiff
+    bytes: 11656265
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/e7/50e7a260f6a2241121c80b276657db4a864dd1d6226ecc8a6d4d55d09cdce6b1/preview-400.886ee953f83d.jpg
+        sha256: 886ee953f83d6c29df2db57956548f7e9c2f5ee1da20983effa0c3738625177a
+        mime: image/jpeg
+        bytes: 43897
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

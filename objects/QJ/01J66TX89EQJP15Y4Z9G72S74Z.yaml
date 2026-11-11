@@ -1,0 +1,46 @@
+id: 01J66TX89EQJP15Y4Z9G72S74Z
+type: image
+subtype: photo
+title: Gasthof Meyer in Salzwedel
+description: Aufnahme von Dieter Lüders.
+date: 1938-10-28
+origin:
+  name: Karl Jeß
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 13/012
+subjects:
+  - name: Karl Lemke
+    type: person
+  - name: Gartow
+    type: place
+  - name: Molkerei
+    type: building
+parents:
+  - 01H8RAP2NSBW425Q13KRW0P6FG
+  - 01KANHTTYAXE4AQ68WK7VS6MK4
+files:
+  - role: main
+    original_name: scan_569.tif
+    path: files/d5/0a/d50a4d52e7abf07a5bab9bc4e179ded78cc6c828af21149d1e0d9af297f85f2a/original.tif
+    sha256: d50a4d52e7abf07a5bab9bc4e179ded78cc6c828af21149d1e0d9af297f85f2a
+    mime: image/tiff
+    bytes: 24523825
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/0a/d50a4d52e7abf07a5bab9bc4e179ded78cc6c828af21149d1e0d9af297f85f2a/preview-400.78135888d3f5.jpg
+        sha256: 78135888d3f54fc2b29b3c8c96ee6052c643f13e7390e1e7f380de8babd12afc
+        mime: image/jpeg
+        bytes: 78519
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

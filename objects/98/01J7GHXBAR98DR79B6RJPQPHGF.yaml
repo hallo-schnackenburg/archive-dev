@@ -1,0 +1,31 @@
+id: 01J7GHXBAR98DR79B6RJPQPHGF
+type: image
+subtype: plan
+title: Deichplan Cumlosen bis Arendsee
+description: Maßstab 1:500.
+date: 1846-11
+location: Gorleben, Deichstraße
+origin:
+  name: Friedrich Jürgens
+  type: person
+  location: Schnackenburg
+files:
+  - role: main
+    original_name: scan_264.tif
+    path: files/c8/f5/c8f538a3c7581098359845612dc7011842a19c18e934d36ee5451bd9373099c7/original.tif
+    sha256: c8f538a3c7581098359845612dc7011842a19c18e934d36ee5451bd9373099c7
+    mime: image/tiff
+    bytes: 19426638
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c8/f5/c8f538a3c7581098359845612dc7011842a19c18e934d36ee5451bd9373099c7/preview-400.745123356eb1.jpg
+        sha256: 745123356eb1f015abc7bbe27161780bfa97c2c4449066304a085a26158763bd
+        mime: image/jpeg
+        bytes: 88622
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

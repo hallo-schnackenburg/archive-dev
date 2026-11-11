@@ -1,0 +1,50 @@
+id: 01JX1Q3MPFETF6RBGJKKBCMKKJ
+type: document
+subtype: letter
+title: Feldpostbrief von Fritz Krüger
+date: 1832-02
+location: Lanz, Am Markt
+geocode:
+  lat: 52.9065
+  lon: 11.6151
+  precision: exact
+  source: osm
+origin:
+  name: August Harms
+  type: person
+  location: Wustrow
+recipient: Emma Tiedemann
+language: de
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 24/087
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v52215
+subjects:
+  - name: Speicher
+    type: building
+  - name: Dorfteich
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_bcmkkj_001.tif
+    path: files/da/55/da55e2b5c0c503ad73680ec072422c82ba043ed86f2bc333840b8fcdf8dd8a09/original.tif
+    sha256: da55e2b5c0c503ad73680ec072422c82ba043ed86f2bc333840b8fcdf8dd8a09
+    mime: image/tiff
+    bytes: 7781902
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/55/da55e2b5c0c503ad73680ec072422c82ba043ed86f2bc333840b8fcdf8dd8a09/preview-400.bc643cee867b.jpg
+        sha256: bc643cee867bdb72bb5b0023ce94f1f6fa6016c7785ce97567f0ecebf536c20d
+        mime: image/jpeg
+        bytes: 48366
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

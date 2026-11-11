@@ -1,0 +1,44 @@
+id: 01JPRGHN03HGHNTHHGXV0PQ3WS
+type: image
+subtype: plan
+title: Grundriss Sparkasse
+description: Mit handschriftlichen Ergänzungen.
+date: "1811"
+origin:
+  name: Dieter Plate
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Familie Ahrens
+    type: person
+    location: Wootz
+  reference: F/Kasten 5/046
+  note: Mappe 12
+subjects:
+  - name: Bahnhof
+    type: building
+  - name: Dorfteich
+    type: building
+parents:
+  - 01FQ7XJFBHG9XHBP2GHBKAZWD0
+files:
+  - role: main
+    original_name: scan_938.tif
+    path: files/85/86/85862f8043c285ec4c46fbda4d5341c7217968680eaafca18758b10a0e66f660/original.tif
+    sha256: 85862f8043c285ec4c46fbda4d5341c7217968680eaafca18758b10a0e66f660
+    mime: image/tiff
+    bytes: 2086479
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/85/86/85862f8043c285ec4c46fbda4d5341c7217968680eaafca18758b10a0e66f660/preview-400.bbb417115a65.jpg
+        sha256: bbb417115a653eb9ba5270b02e216f1fbbcbf57517236d49da4280a9cb911da6
+        mime: image/jpeg
+        bytes: 81393
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

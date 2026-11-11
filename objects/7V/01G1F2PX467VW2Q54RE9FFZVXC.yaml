@@ -1,0 +1,41 @@
+id: 01G1F2PX467VW2Q54RE9FFZVXC
+type: image
+subtype: print
+title: Postkarte Holtorf, Fachwerkhaus Marktstraße 4
+description: Postkarte, gelaufen 1910.
+date: "1848"
+origin:
+  name: Otto Lemke
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 40/219
+subjects:
+  - name: Hochzeit 1848
+    type: event
+  - name: Kindergarten
+    type: building
+files:
+  - role: main
+    original_name: scan_767.tif
+    path: files/80/47/80476fbcae1343bb6faf1253ead11cada2c31c0083904dfe3b3ca5697840f89f/original.tif
+    sha256: 80476fbcae1343bb6faf1253ead11cada2c31c0083904dfe3b3ca5697840f89f
+    mime: image/tiff
+    bytes: 20717627
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/47/80476fbcae1343bb6faf1253ead11cada2c31c0083904dfe3b3ca5697840f89f/preview-400.564895ea8a01.jpg
+        sha256: 564895ea8a011f6de57ca3859ca30e91a9db1eb17e19738abb963b80e4355f9d
+        mime: image/jpeg
+        bytes: 89537
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

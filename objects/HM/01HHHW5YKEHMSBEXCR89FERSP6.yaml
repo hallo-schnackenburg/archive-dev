@@ -1,0 +1,38 @@
+id: 01HHHW5YKEHMSBEXCR89FERSP6
+type: image
+subtype: plan
+title: Grundriss Dorfschule
+date: 1976/1982
+location: Gorleben, Windmühle
+origin:
+  name: Marta Brandt
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Album 9/110
+parents:
+  - 01FBYZQVFEERGK9E2W84G9TFJ3
+files:
+  - role: main
+    original_name: scan_147.tif
+    path: files/de/ee/deee7d2b19896368dcc3bd369524254f71dfb0b70d8f4959f465970d377e40fc/original.tif
+    sha256: deee7d2b19896368dcc3bd369524254f71dfb0b70d8f4959f465970d377e40fc
+    mime: image/tiff
+    bytes: 10023686
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/de/ee/deee7d2b19896368dcc3bd369524254f71dfb0b70d8f4959f465970d377e40fc/preview-400.485c3a3bfdf0.jpg
+        sha256: 485c3a3bfdf06455c716e2122d38fef7c90da6ab5587207662881f416fde0d7b
+        mime: image/jpeg
+        bytes: 74945
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01GSDYPX5FFXP82W0ZBK3PB4JK
+type: image
+subtype: drawing
+title: Skizze Holtorf, Kirchstraße
+description: Federzeichnung, laviert.
+date: 1865/1873
+location: Nienwalde, Torhaus
+geocode:
+  lat: 52.9275
+  lon: 11.5801
+  precision: region
+  source: osm
+origin:
+  name: Fritz Brandt
+  type: person
+  location: Lenzen
+subjects:
+  - name: Kapern
+    type: place
+  - name: Dorfteich
+    type: building
+parents:
+  - 01J7HJZCB7JJH7C2451YX2QZGY
+files:
+  - role: main
+    original_name: scan_283.tif
+    path: files/13/67/1367d4be1aaad2bcd82d9a1250822eb2a3ef88404017e00cea003026b5038490/original.tif
+    sha256: 1367d4be1aaad2bcd82d9a1250822eb2a3ef88404017e00cea003026b5038490
+    mime: image/tiff
+    bytes: 18768843
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/13/67/1367d4be1aaad2bcd82d9a1250822eb2a3ef88404017e00cea003026b5038490/preview-400.ae447ee9676a.jpg
+        sha256: ae447ee9676ae2435dc2ff270496ca8c1a63d68b050c90210a0cb7f83eb31b81
+        mime: image/jpeg
+        bytes: 42673
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

@@ -1,0 +1,48 @@
+id: 01GWWJ955BXB1QY57T53N2BTY4
+type: image
+subtype: photo
+title: Hermann Krüger vor dem Gasthof Meyer
+date: "1969"
+location: Bömenzien, Sportplatz
+geocode:
+  lat: 52.9238
+  lon: 11.6258
+  precision: town
+  source: osm
+origin:
+  name: Karl Lüders
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 28/232
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Schnackenburg
+    type: place
+  - name: Wilhelm Ahrens
+    type: person
+files:
+  - role: main
+    original_name: DSC0993.jpg
+    path: files/eb/9a/eb9a72db1ae2ecf4226cbee28b5656c0e0c81d161615df6eaf077e84c92e7377/original.jpg
+    sha256: eb9a72db1ae2ecf4226cbee28b5656c0e0c81d161615df6eaf077e84c92e7377
+    mime: image/jpeg
+    bytes: 743840
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/eb/9a/eb9a72db1ae2ecf4226cbee28b5656c0e0c81d161615df6eaf077e84c92e7377/preview-400.b025b257da1c.jpg
+        sha256: b025b257da1c7109bba4024a28cbd74bd0a5b0097c2c78879b681109ca2f5fdf
+        mime: image/jpeg
+        bytes: 27839
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

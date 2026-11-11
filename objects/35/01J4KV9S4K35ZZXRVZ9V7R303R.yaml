@@ -1,0 +1,60 @@
+id: 01J4KV9S4K35ZZXRVZ9V7R303R
+type: document
+subtype: letter
+title: Gesuch um Brückenreparatur
+location: Brünkendorf, Fährstraße
+origin:
+  name: Elfriede Dierks
+  type: person
+  location: Lanz
+language: de
+subjects:
+  - name: Viehmarkt 1921
+    type: event
+  - name: Lotte Lemke
+    type: person
+parents:
+  - 01KZTC7HCNQEK4PPA9Y96PZJS7
+  - 01K63FK3HHMM0W1GA0H3WZR13N
+files:
+  - role: page
+    num: 1
+    original_name: letter_7r303r_001.tif
+    path: files/8a/1f/8a1fcb986420d4afebe7e31641869bd64ab3ceca54b5f2ff0e917355d0fdaeaa/original.tif
+    sha256: 8a1fcb986420d4afebe7e31641869bd64ab3ceca54b5f2ff0e917355d0fdaeaa
+    mime: image/tiff
+    bytes: 3412554
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8a/1f/8a1fcb986420d4afebe7e31641869bd64ab3ceca54b5f2ff0e917355d0fdaeaa/preview-400.584fb7c5c380.jpg
+        sha256: 584fb7c5c380c953a1215264b8b536b4db5f35ac6bc13d28f8bb669f7300190c
+        mime: image/jpeg
+        bytes: 35933
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_7r303r_002.tif
+    path: files/a7/d7/a7d714e651e5b53bf9e593874eae93484a9168cc4135a05ce58644616a5df6b0/original.tif
+    sha256: a7d714e651e5b53bf9e593874eae93484a9168cc4135a05ce58644616a5df6b0
+    mime: image/tiff
+    bytes: 1281556
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a7/d7/a7d714e651e5b53bf9e593874eae93484a9168cc4135a05ce58644616a5df6b0/preview-400.d1e6c84b81eb.jpg
+        sha256: d1e6c84b81ebdbc9870206f25cd1842ef950e072e4961777ceea485ee7659e46
+        mime: image/jpeg
+        bytes: 28158
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

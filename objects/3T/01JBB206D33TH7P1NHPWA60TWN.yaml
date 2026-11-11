@@ -1,0 +1,42 @@
+id: 01JBB206D33TH7P1NHPWA60TWN
+type: image
+subtype: photo
+title: Feuerwehrhaus in Gorleben
+description: Zu sehen sind Windmühle und Friedhofskapelle.
+date: "1976"
+location: Lenzen, Dorfstraße
+geocode:
+  lat: 53.0195
+  lon: 11.5652
+  precision: region
+  source: osm
+origin:
+  name: Frieda Brandt
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F/Album 7/032
+files:
+  - role: main
+    original_name: IMG_2525.jpg
+    path: files/ca/1b/ca1bf0d8a9fcbffba0a00ad6629fd42afe0bc0bc089133ecac2e2181a1031238/original.jpg
+    sha256: ca1bf0d8a9fcbffba0a00ad6629fd42afe0bc0bc089133ecac2e2181a1031238
+    mime: image/jpeg
+    bytes: 19386759
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/ca/1b/ca1bf0d8a9fcbffba0a00ad6629fd42afe0bc0bc089133ecac2e2181a1031238/preview-400.f1db0a6d1b21.jpg
+        sha256: f1db0a6d1b215bc96596a8161aec2f06a5cf9d09edd370e182783a2a64f66291
+        mime: image/jpeg
+        bytes: 63917
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

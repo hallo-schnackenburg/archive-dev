@@ -1,0 +1,59 @@
+id: 01JWP3YBVMEZ0DW1HA991D3K0S
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Hundesteuer 1961
+description: "Beschlossen wurde unter anderem: Brandversicherung."
+date: 196X
+origin:
+  name: Schulvorstand Brünkendorf
+  type: business
+  location: Zadrau
+language: de
+subjects:
+  - name: Hochwasser 1961
+    type: event
+  - name: Kapern
+    type: place
+  - name: Konfirmation 1961
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: protocol_1d3k0s_001.tif
+    path: files/9d/0c/9d0c5d98ba97b1e342dffdba970e36e04d1181105aca249572addc0c2afd6ece/original.tif
+    sha256: 9d0c5d98ba97b1e342dffdba970e36e04d1181105aca249572addc0c2afd6ece
+    mime: image/tiff
+    bytes: 14688405
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9d/0c/9d0c5d98ba97b1e342dffdba970e36e04d1181105aca249572addc0c2afd6ece/preview-400.14e7e929fabb.jpg
+        sha256: 14e7e929fabb4da86f7ed1ecd42e6dbfd35d438ff14bf89f1a2bf3af53fe029d
+        mime: image/jpeg
+        bytes: 28914
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_1d3k0s_002.tif
+    path: files/c4/20/c4209b7b6a08419c58ece24371e37753c3e30784bb926c9b49e2cb3e3cd94997/original.tif
+    sha256: c4209b7b6a08419c58ece24371e37753c3e30784bb926c9b49e2cb3e3cd94997
+    mime: image/tiff
+    bytes: 15507046
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c4/20/c4209b7b6a08419c58ece24371e37753c3e30784bb926c9b49e2cb3e3cd94997/preview-400.648066528ba6.jpg
+        sha256: 648066528ba66585aa9dcc0ee63bf146a72126a2df1d89a7932d675c1008ff67
+        mime: image/jpeg
+        bytes: 33093
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

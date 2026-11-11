@@ -1,0 +1,37 @@
+id: 01KHVHGBNHYYGA53VBPP9XQWKR
+type: image
+subtype: plan
+title: Lageplan Schlachterei
+date: 1800?
+location: Wustrow, Gasthof „Zur Elbe“
+origin:
+  name: Frieda Hennings
+  type: person
+  location: Wootz
+subjects:
+  - name: Kartoffelernte 1800
+    type: event
+  - name: Molkerei
+    type: building
+  - name: Mühle
+    type: building
+files:
+  - role: main
+    original_name: scan_668.tif
+    path: files/dc/ee/dceec80273170a9deafceb02f51ff385a32f5c80261ce928a51eb961cbe916d5/original.tif
+    sha256: dceec80273170a9deafceb02f51ff385a32f5c80261ce928a51eb961cbe916d5
+    mime: image/tiff
+    bytes: 2947306
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/dc/ee/dceec80273170a9deafceb02f51ff385a32f5c80261ce928a51eb961cbe916d5/preview-400.6c6e227ce499.jpg
+        sha256: 6c6e227ce4999b9c8d28212009ecb65f35cb03493d1854e549f15ba938ad6c52
+        mime: image/jpeg
+        bytes: 86235
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

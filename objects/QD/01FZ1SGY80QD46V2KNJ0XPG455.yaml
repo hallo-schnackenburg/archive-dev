@@ -1,0 +1,40 @@
+id: 01FZ1SGY80QD46V2KNJ0XPG455
+type: image
+subtype: drawing
+title: Skizze Lüchow, Bahnhofstraße
+date: 1901-10
+location: Brünkendorf, Gemeindehaus
+geocode:
+  lat: 53.0349
+  lon: 11.5141
+  precision: region
+  source: osm
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Hans Wiegmann
+    type: person
+  - name: Albert Bruns
+    type: person
+parents:
+  - 01GHXA70MDX353KKCRS2BQ39WE
+files:
+  - role: main
+    original_name: scan_209.tif
+    path: files/03/a7/03a775e6e73415163ec843d5be298956181ec43186d0ec33bd94856c5424e0bd/original.tif
+    sha256: 03a775e6e73415163ec843d5be298956181ec43186d0ec33bd94856c5424e0bd
+    mime: image/tiff
+    bytes: 8184518
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/03/a7/03a775e6e73415163ec843d5be298956181ec43186d0ec33bd94856c5424e0bd/preview-400.e395aa82eef0.jpg
+        sha256: e395aa82eef072b9d574a81908cfced37594614102d7f40fc97aa67db316e939
+        mime: image/jpeg
+        bytes: 22680
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

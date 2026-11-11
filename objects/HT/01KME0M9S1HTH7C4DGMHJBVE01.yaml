@@ -1,0 +1,45 @@
+id: 01KME0M9S1HTH7C4DGMHJBVE01
+type: image
+subtype: photo
+title: Speicher in Salzwedel
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1900-09
+location: Lüchow, Kegelbahn
+origin:
+  name: Ernst Tiedemann
+  type: person
+  location: Dömitz
+owner:
+  name: Albert Meyer
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Einschulung 1900
+    type: event
+  - name: Kartoffelernte 1900
+    type: event
+  - name: Seedorf
+    type: place
+parents:
+  - 01J0HACSSNAGX3A6WBE45H61AH
+  - 01KVJ8Y27EYC61W5ZE473WC7YC
+files:
+  - role: main
+    original_name: foto_8381.jpg
+    path: files/d4/68/d4688795800668599a4c46e1d8ef4a4a692446d0127d205acb2cf51f9db189d2/original.jpg
+    sha256: d4688795800668599a4c46e1d8ef4a4a692446d0127d205acb2cf51f9db189d2
+    mime: image/jpeg
+    bytes: 3333421
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d4/68/d4688795800668599a4c46e1d8ef4a4a692446d0127d205acb2cf51f9db189d2/preview-400.98cad07115d6.jpg
+        sha256: 98cad07115d651746878c2471621a4ddc4a9f1f3e9176c121924a94e38cf29bd
+        mime: image/jpeg
+        bytes: 20381
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

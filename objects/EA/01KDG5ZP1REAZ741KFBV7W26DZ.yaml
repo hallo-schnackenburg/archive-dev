@@ -1,0 +1,32 @@
+id: 01KDG5ZP1REAZ741KFBV7W26DZ
+type: image
+subtype: plan
+title: Bauplan Gutshaus 1894
+date: "1894"
+location: Dömitz, Pfarrhaus
+origin:
+  name: Marta Brandt
+  type: person
+  location: Lenzen
+parents:
+  - 01M1YR053NPJBEH3Y4WNQMC2X8
+files:
+  - role: main
+    original_name: scan_527.tif
+    path: files/df/68/df68bcb66c32a4e0338130ed15e74d6a7fac40551cb1e96e820a75b9edf8c21b/original.tif
+    sha256: df68bcb66c32a4e0338130ed15e74d6a7fac40551cb1e96e820a75b9edf8c21b
+    mime: image/tiff
+    bytes: 966650
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/df/68/df68bcb66c32a4e0338130ed15e74d6a7fac40551cb1e96e820a75b9edf8c21b/preview-400.7e63b3e4f727.jpg
+        sha256: 7e63b3e4f727898ed7104fc22deae45d6b7a34d6d228dbe3b2d396434df1e9a5
+        mime: image/jpeg
+        bytes: 21221
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

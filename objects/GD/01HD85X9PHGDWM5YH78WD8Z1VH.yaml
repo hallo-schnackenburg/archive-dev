@@ -1,0 +1,58 @@
+id: 01HD85X9PHGDWM5YH78WD8Z1VH
+type: document
+subtype: protocol
+title: Protokoll des Feuerwehrausschuss vom 1890
+description: "Beschlossen wurde unter anderem: Schulspeisung."
+location: Wustrow, Burgstraße
+origin:
+  name: Schulvorstand Salzwedel
+  type: business
+  location: Hitzacker
+owner:
+  name: Walter Lüders
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Backhaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: protocol_d8z1vh_001.tif
+    path: files/e9/4c/e94cd956469295f082803e5ecb4b1ffc850adaf3597e9428eb89c53be2882842/original.tif
+    sha256: e94cd956469295f082803e5ecb4b1ffc850adaf3597e9428eb89c53be2882842
+    mime: image/tiff
+    bytes: 26983139
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e9/4c/e94cd956469295f082803e5ecb4b1ffc850adaf3597e9428eb89c53be2882842/preview-400.9ea62045f7ce.jpg
+        sha256: 9ea62045f7cee670f7fd2db1e3abf9493e79a158abe9a82559049019fe6e83f3
+        mime: image/jpeg
+        bytes: 80952
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_d8z1vh_002.tif
+    path: files/87/d7/87d7e31a7ddee634339d65a0b6a4d43bbd9d240748776f61e233299d64029a14/original.tif
+    sha256: 87d7e31a7ddee634339d65a0b6a4d43bbd9d240748776f61e233299d64029a14
+    mime: image/tiff
+    bytes: 20192806
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/87/d7/87d7e31a7ddee634339d65a0b6a4d43bbd9d240748776f61e233299d64029a14/preview-400.55d23548654d.jpg
+        sha256: 55d23548654d5a874196194bb3e03af9175112166e3b34081d0dd52848d67078
+        mime: image/jpeg
+        bytes: 85977
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

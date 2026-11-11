@@ -1,0 +1,39 @@
+id: 01J78PCV98REQE80X53GCERVZG
+type: image
+subtype: drawing
+title: Entwurf für Zollamt
+date: 1896-05-24
+location: Gorleben, Burgstraße
+geocode:
+  lat: 53.0527
+  lon: 11.648
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01KWT1T4KB5Q91S1TWXMCRMNCD
+  - 01JP9HS44VA7XZY3HAP9PA82HG
+files:
+  - role: main
+    original_name: scan_526.tif
+    path: files/b4/58/b4583162292da253a26fee9ce8400163dea8e817f581aa66c2bfd212bb862d48/original.tif
+    sha256: b4583162292da253a26fee9ce8400163dea8e817f581aa66c2bfd212bb862d48
+    mime: image/tiff
+    bytes: 19246024
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b4/58/b4583162292da253a26fee9ce8400163dea8e817f581aa66c2bfd212bb862d48/preview-400.54060934160b.jpg
+        sha256: 54060934160b0082209863f4ab34b55e2b53d2a90d0b051d4531c63010cedf33
+        mime: image/jpeg
+        bytes: 68930
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

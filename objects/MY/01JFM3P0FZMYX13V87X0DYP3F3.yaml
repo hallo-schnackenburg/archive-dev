@@ -1,0 +1,49 @@
+id: 01JFM3P0FZMYX13V87X0DYP3F3
+type: image
+subtype: print
+title: Lithographie Kegelbahn
+description: Lithographie, Rand beschnitten.
+date: 1704-12-08
+location: Lenzen, Burgstraße
+geocode:
+  lat: 52.9929
+  lon: 11.5181
+  precision: region
+  source: osm
+origin:
+  name: Frieda Voss
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 6/117
+subjects:
+  - name: Gartow
+    type: place
+  - name: Gülden
+    type: place
+parents:
+  - 01J3V1AMRN38DQVKPXPMF1EE94
+files:
+  - role: main
+    original_name: scan_890.tif
+    path: files/c7/13/c713b50078b006fd70b7713e8c723b718d07355f480d3cbdaf6c29173d4ec897/original.tif
+    sha256: c713b50078b006fd70b7713e8c723b718d07355f480d3cbdaf6c29173d4ec897
+    mime: image/tiff
+    bytes: 8369234
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c7/13/c713b50078b006fd70b7713e8c723b718d07355f480d3cbdaf6c29173d4ec897/preview-400.2028922cec7a.jpg
+        sha256: 2028922cec7a8c95509f9b4e7a39b86c9dd8a9dfced7070cb3b27815693d148a
+        mime: image/jpeg
+        bytes: 79299
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

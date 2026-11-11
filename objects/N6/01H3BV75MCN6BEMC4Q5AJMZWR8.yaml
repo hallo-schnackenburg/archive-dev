@@ -1,0 +1,41 @@
+id: 01H3BV75MCN6BEMC4Q5AJMZWR8
+type: image
+subtype: drawing
+title: Skizze Holtorf, Hafenstraße, Laase
+date: 1910-04
+origin:
+  name: Irmgard Lemke
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Glockenweihe 1910
+    type: event
+  - name: Gasthof „Zur Elbe“
+    type: building
+files:
+  - role: main
+    original_name: scan_627.tif
+    path: files/09/50/0950e23a2cae13dd63f88c9ea44c94f621d53ed45a82e49622ea2ceeca29b0cd/original.tif
+    sha256: 0950e23a2cae13dd63f88c9ea44c94f621d53ed45a82e49622ea2ceeca29b0cd
+    mime: image/tiff
+    bytes: 1483763
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/09/50/0950e23a2cae13dd63f88c9ea44c94f621d53ed45a82e49622ea2ceeca29b0cd/preview-400.f38297cd3a73.jpg
+        sha256: f38297cd3a73e734df26ca977b0061862572f81adcc90f56400f0b6dc224b751
+        mime: image/jpeg
+        bytes: 85642
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

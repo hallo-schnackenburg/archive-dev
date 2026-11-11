@@ -1,0 +1,42 @@
+id: 01EWGYVBNQ3V2SRHG96T515096
+type: image
+subtype: photo
+title: "Angelverein: Gruppenbild Hochwasser"
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1903-10
+location: Kapern, Elbstraße
+geocode:
+  lat: 52.9149
+  lon: 11.5329
+  precision: town
+  source: osm
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Speicher
+    type: building
+  - name: August Voss
+    type: person
+parents:
+  - 01FBYZQVFEERGK9E2W84G9TFJ3
+  - 01HRJYJMA6PZA35NA1FR6QZ5XX
+files:
+  - role: main
+    original_name: IMG_4591.jpg
+    path: files/23/3f/233fcb863e93db8cae426254b7b2fce55cf61499f4e31241c7960e3450d2dd53/original.jpg
+    sha256: 233fcb863e93db8cae426254b7b2fce55cf61499f4e31241c7960e3450d2dd53
+    mime: image/jpeg
+    bytes: 10536469
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/23/3f/233fcb863e93db8cae426254b7b2fce55cf61499f4e31241c7960e3450d2dd53/preview-400.2de19afaaf3f.jpg
+        sha256: 2de19afaaf3f60dd55983159433e4c39dcd3819a5541a264f57eb68948c5eb04
+        mime: image/jpeg
+        bytes: 53466
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

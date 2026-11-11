@@ -1,0 +1,63 @@
+id: 01GJJE5W883QEEKPPV368407P4
+type: document
+subtype: letter
+title: Zeugnis für Friedrich Brandt
+description: Handschriftlich, 3 Seiten.
+date: 1854-11-11
+origin:
+  name: Hermann Plate
+  type: person
+  location: Cumlosen
+recipient: Karl Schulz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 12/229
+subjects:
+  - name: Gülden
+    type: place
+  - name: Rüterberg
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_8407p4_001.tif
+    path: files/58/bf/58bf597fd58b787bf2475d37b083cdece20e2a32334db96714504da5b3af8264/original.tif
+    sha256: 58bf597fd58b787bf2475d37b083cdece20e2a32334db96714504da5b3af8264
+    mime: image/tiff
+    bytes: 6659494
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/58/bf/58bf597fd58b787bf2475d37b083cdece20e2a32334db96714504da5b3af8264/preview-400.93a0cafe1d29.jpg
+        sha256: 93a0cafe1d2977e8b221b2e1ba9e27b239e2ae00747f6991a6c9a28e2e059380
+        mime: image/jpeg
+        bytes: 62832
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_8407p4_002.tif
+    path: files/35/6a/356a7d1c0b2bb58f48d35c876240924a7c0f0663a6ebf8c68510080f2df9bbc0/original.tif
+    sha256: 356a7d1c0b2bb58f48d35c876240924a7c0f0663a6ebf8c68510080f2df9bbc0
+    mime: image/tiff
+    bytes: 12472702
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/35/6a/356a7d1c0b2bb58f48d35c876240924a7c0f0663a6ebf8c68510080f2df9bbc0/preview-400.3bef592bd07a.jpg
+        sha256: 3bef592bd07a1bb7a01aad84deba14a2c29abb0d54b42ace906389ece0a0d543
+        mime: image/jpeg
+        bytes: 86663
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

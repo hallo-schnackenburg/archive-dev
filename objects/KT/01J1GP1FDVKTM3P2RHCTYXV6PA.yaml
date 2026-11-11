@@ -1,0 +1,61 @@
+id: 01J1GP1FDVKTM3P2RHCTYXV6PA
+type: document
+subtype: letter
+title: Mitteilung aus Wittenberge an Familie Bohlmann
+description: Handschriftlich, 4 Seiten.
+date: 1848-08-09
+location: Gorleben, Lange Straße
+origin:
+  name: Friedrich Lemke
+  type: person
+  location: Laase
+recipient: Karl Lemke
+language: de
+subjects:
+  - name: Hedwig Bohlmann
+    type: person
+  - name: Kriegerdenkmal
+    type: building
+  - name: Gorleben
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_yxv6pa_001.tif
+    path: files/47/05/470534aed32b1525b090ec71c2af4635cd228cc10a87830c9f4d53c7885fc0b6/original.tif
+    sha256: 470534aed32b1525b090ec71c2af4635cd228cc10a87830c9f4d53c7885fc0b6
+    mime: image/tiff
+    bytes: 18607237
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/47/05/470534aed32b1525b090ec71c2af4635cd228cc10a87830c9f4d53c7885fc0b6/preview-400.d1d983717b27.jpg
+        sha256: d1d983717b27c6a1b620aa8e685d0495ab3b74bdf0330d38a79045601e23fd83
+        mime: image/jpeg
+        bytes: 37302
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_yxv6pa_002.tif
+    path: files/cc/d9/ccd9abe0661ea7b910b2594ae7060fd18269331d1767077096a0f687c7e4d315/original.tif
+    sha256: ccd9abe0661ea7b910b2594ae7060fd18269331d1767077096a0f687c7e4d315
+    mime: image/tiff
+    bytes: 20597947
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cc/d9/ccd9abe0661ea7b910b2594ae7060fd18269331d1767077096a0f687c7e4d315/preview-400.ce58a233ebe7.jpg
+        sha256: ce58a233ebe733e3d61cd65b33dea8ce0880867e35dc6472af34733a30021ce8
+        mime: image/jpeg
+        bytes: 43009
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

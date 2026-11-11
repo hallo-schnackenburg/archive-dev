@@ -1,0 +1,37 @@
+id: 01FRT7K3ESHTKRDXEHVR0ERAJM
+type: image
+subtype: print
+title: Lithographie Windmühle
+description: Postkarte, gelaufen 1912.
+date: 1889-07-22
+origin:
+  name: Walter Brandt
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Deicharbeiten 1889
+    type: event
+  - name: Dieter Wegner
+    type: person
+  - name: Ortsbesichtigung 1889
+    type: event
+files:
+  - role: main
+    original_name: scan_209.tif
+    path: files/b3/6f/b36f81f8a2f7b011d17c11e22c470c518f12ef3f8d4c7f9f0e279f81c5191f56/original.tif
+    sha256: b36f81f8a2f7b011d17c11e22c470c518f12ef3f8d4c7f9f0e279f81c5191f56
+    mime: image/tiff
+    bytes: 26980071
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b3/6f/b36f81f8a2f7b011d17c11e22c470c518f12ef3f8d4c7f9f0e279f81c5191f56/preview-400.f68341797f21.jpg
+        sha256: f68341797f212ca42528fa87368e2bc32435df535d1bfe865c1e77460c1e8414
+        mime: image/jpeg
+        bytes: 54487
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

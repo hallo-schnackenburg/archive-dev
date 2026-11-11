@@ -1,0 +1,42 @@
+id: 01GEGB2SE3AZQ2H59CD994BZB7
+type: image
+subtype: print
+title: Postkarte Restorf, Kriegerdenkmal, Gartow
+description: Postkarte, gelaufen 1960.
+date: 1905-07-05
+origin:
+  name: Ursula Sievers
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+  - name: Sparkasse
+    type: building
+parents:
+  - 01KC6VVRX03XHNE2QA3QHP7TYJ
+files:
+  - role: main
+    original_name: scan_903.tif
+    path: files/e9/28/e92804f58813eccd6c104d69b4d75cbf980c9293d5128a799227268d5331af3a/original.tif
+    sha256: e92804f58813eccd6c104d69b4d75cbf980c9293d5128a799227268d5331af3a
+    mime: image/tiff
+    bytes: 9702593
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e9/28/e92804f58813eccd6c104d69b4d75cbf980c9293d5128a799227268d5331af3a/preview-400.e7ed847da8da.jpg
+        sha256: e7ed847da8daa0c3067decaab44c505ab54d9731f811f3a3f43c602ddaa6f38d
+        mime: image/jpeg
+        bytes: 84344
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

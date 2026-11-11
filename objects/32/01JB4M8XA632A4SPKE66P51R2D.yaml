@@ -1,0 +1,35 @@
+id: 01JB4M8XA632A4SPKE66P51R2D
+type: image
+subtype: plan
+title: Bauplan Speicher 1805
+date: 1805-10
+location: Cumlosen, Marktstraße
+origin:
+  name: Marta Rohde
+  type: person
+  location: Wootz
+subjects:
+  - name: Karl Wegner
+    type: person
+  - name: Beerdigung 1805
+    type: event
+files:
+  - role: main
+    original_name: scan_223.tif
+    path: files/ac/3e/ac3e9fc5f8660e5639250b45129cd666c45ab3c4d5bfa3eb8e5ca90da4db9de8/original.tif
+    sha256: ac3e9fc5f8660e5639250b45129cd666c45ab3c4d5bfa3eb8e5ca90da4db9de8
+    mime: image/tiff
+    bytes: 15807996
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ac/3e/ac3e9fc5f8660e5639250b45129cd666c45ab3c4d5bfa3eb8e5ca90da4db9de8/preview-400.b1f79d54b76c.jpg
+        sha256: b1f79d54b76c261de74b484bdc9e0b139b34134679e65f443b9c2c09c62a867e
+        mime: image/jpeg
+        bytes: 63100
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

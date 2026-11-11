@@ -1,0 +1,35 @@
+id: 01G78J1KDP7M3GEXVVYZ0KAW4S
+type: image
+subtype: print
+title: Postkarte Lenzen, Dorfteich
+date: "1804"
+subjects:
+  - name: Fährjubiläum 1804
+    type: event
+  - name: Wilhelm Plate
+    type: person
+  - name: Wilhelm Voss
+    type: person
+parents:
+  - 01HE14GR0R8R7PECGB2EPQE94M
+  - 01GVJSDJ9R4Q8JD7JQQP5X0PH0
+files:
+  - role: main
+    original_name: scan_411.tif
+    path: files/f6/23/f623b533ba40f7cf865c9118967e525d66ff6d2fc5786bbab2dad254ff669825/original.tif
+    sha256: f623b533ba40f7cf865c9118967e525d66ff6d2fc5786bbab2dad254ff669825
+    mime: image/tiff
+    bytes: 13034662
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f6/23/f623b533ba40f7cf865c9118967e525d66ff6d2fc5786bbab2dad254ff669825/preview-400.a1cc2f423da1.jpg
+        sha256: a1cc2f423da190446165cb4be7a8ff616fe71defc1e341ba165a37568c25ec49
+        mime: image/jpeg
+        bytes: 74737
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

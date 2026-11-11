@@ -1,0 +1,44 @@
+id: 01G0E4GPZ793ST8ACA3AKR9G94
+type: image
+subtype: photo
+title: Wilhelm Meyer, Porträt
+location: Lanz, Schulstraße
+geocode:
+  lat: 53.0628
+  lon: 11.5418
+  precision: region
+  source: osm
+origin:
+  name: Albert Lemke
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Restorf
+    type: place
+  - name: Schlachtfest 1988
+    type: event
+  - name: Wittenberge
+    type: place
+parents:
+  - 01HP3S6J7H7R7K5FQDZW91FMBP
+  - 01KYDMSXHX7AFCZAAJ5K4HGX9B
+files:
+  - role: main
+    original_name: scan_365.tif
+    path: files/3f/a4/3fa4398e6e6deb1a26a60672375cb8e6029601100a6a05dac039bc4e08591abb/original.tif
+    sha256: 3fa4398e6e6deb1a26a60672375cb8e6029601100a6a05dac039bc4e08591abb
+    mime: image/tiff
+    bytes: 5792420
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3f/a4/3fa4398e6e6deb1a26a60672375cb8e6029601100a6a05dac039bc4e08591abb/preview-400.09ba4f71ba68.jpg
+        sha256: 09ba4f71ba68e4c5d88c34e484e15dc1c4f2c3935385951f8f42f8eac16587e1
+        mime: image/jpeg
+        bytes: 29721
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,68 @@
+id: 01K7MFK5Y4W0MDH5D60ZHWTX6X
+type: document
+subtype: letter
+title: Korrespondenz Käthe Jeß
+date: 1868-11
+location: Bömenzien, Ladestraße
+geocode:
+  lat: 52.9272
+  lon: 11.6026
+  precision: exact
+  source: osm
+origin:
+  name: Emma Detlefs
+  type: person
+  location: Brünkendorf
+recipient: Gisela Krüger
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Einweihung 1868
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_hwtx6x_001.tif
+    path: files/b7/e4/b7e46107dc170e435f9d94c577f25ea59052fdecb0bdc26d9bbf01935811a1f5/original.tif
+    sha256: b7e46107dc170e435f9d94c577f25ea59052fdecb0bdc26d9bbf01935811a1f5
+    mime: image/tiff
+    bytes: 19787162
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b7/e4/b7e46107dc170e435f9d94c577f25ea59052fdecb0bdc26d9bbf01935811a1f5/preview-400.cf3e9478db64.jpg
+        sha256: cf3e9478db6487cd8897c08feec6abc93ff06c66ee8e7281f1fa4e182cf39a93
+        mime: image/jpeg
+        bytes: 40221
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_hwtx6x_002.tif
+    path: files/2d/88/2d88aabe3f91a5374f9409d794cd5066898ce565315abb15a2e2b15328f02b75/original.tif
+    sha256: 2d88aabe3f91a5374f9409d794cd5066898ce565315abb15a2e2b15328f02b75
+    mime: image/tiff
+    bytes: 18854677
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/88/2d88aabe3f91a5374f9409d794cd5066898ce565315abb15a2e2b15328f02b75/preview-400.cfe8b02108c5.jpg
+        sha256: cfe8b02108c55bf038f4b39e4c0579eb476fac30ee7b06b903b2130e201e8fe2
+        mime: image/jpeg
+        bytes: 35645
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01H87SM6AAT3QVTZG9DANS4NRG
+type: image
+subtype: print
+title: "Kupferstich: Gartow von der Elbseite, Lenzen"
+date: 1890-02-12
+location: Havelberg, Torhaus
+origin:
+  name: Paul Lemke
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 19/005
+subjects:
+  - name: Ladestraße
+    type: building
+files:
+  - role: main
+    original_name: scan_527.tif
+    path: files/e3/1c/e31ce82b56147ef8fb575f76f5ec3ea6efc4e88a30a0d3c3a6446c4fe3177830/original.tif
+    sha256: e31ce82b56147ef8fb575f76f5ec3ea6efc4e88a30a0d3c3a6446c4fe3177830
+    mime: image/tiff
+    bytes: 10774850
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e3/1c/e31ce82b56147ef8fb575f76f5ec3ea6efc4e88a30a0d3c3a6446c4fe3177830/preview-400.e4c48b7e8e97.jpg
+        sha256: e4c48b7e8e9714758320f68608fd25ba1db2b2118792d5638ca3c6e23754005c
+        mime: image/jpeg
+        bytes: 26174
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

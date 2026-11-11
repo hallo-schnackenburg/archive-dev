@@ -1,0 +1,38 @@
+id: 01FREGFY1BGFYVB55DAZ4RK00F
+type: image
+subtype: drawing
+title: Dorfkrug, Aquarell, Gorleben
+date: 1959-04-07
+origin:
+  name: Ilse Garms
+  type: person
+  location: Restorf
+subjects:
+  - name: Restorf
+    type: place
+  - name: Eisgang 1959
+    type: event
+  - name: Hans Meyer
+    type: person
+parents:
+  - 01H8RAP2NSBW425Q13KRW0P6FG
+files:
+  - role: main
+    original_name: scan_914.tif
+    path: files/dc/50/dc50060373fe8bbcaff5b9440b021cf17251a15a99ea66bc760ff256746bab59/original.tif
+    sha256: dc50060373fe8bbcaff5b9440b021cf17251a15a99ea66bc760ff256746bab59
+    mime: image/tiff
+    bytes: 26517301
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/50/dc50060373fe8bbcaff5b9440b021cf17251a15a99ea66bc760ff256746bab59/preview-400.1889177b0a2e.jpg
+        sha256: 1889177b0a2ea4b015508672789d8cb0dedf73469b02d4737d4d3a4751705feb
+        mime: image/jpeg
+        bytes: 29061
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

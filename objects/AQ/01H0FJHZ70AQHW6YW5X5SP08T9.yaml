@@ -1,0 +1,38 @@
+id: 01H0FJHZ70AQHW6YW5X5SP08T9
+type: image
+subtype: print
+title: Postkarte Restorf, Friedhofskapelle
+location: Lanz, Sportplatz
+origin:
+  name: Friedrich Voss
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Hafen
+    type: building
+  - name: Schlachtfest 1856
+    type: event
+  - name: Viehmarkt 1856
+    type: event
+parents:
+  - 01KD7CS4EBG51K60J3B74H2VS5
+files:
+  - role: main
+    original_name: scan_447.tif
+    path: files/85/8e/858e2579e7ae765f631a5019fe123677f3ac8ae8e4b11e529a692698c20328f1/original.tif
+    sha256: 858e2579e7ae765f631a5019fe123677f3ac8ae8e4b11e529a692698c20328f1
+    mime: image/tiff
+    bytes: 14986428
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/85/8e/858e2579e7ae765f631a5019fe123677f3ac8ae8e4b11e529a692698c20328f1/preview-400.147b47132750.jpg
+        sha256: 147b4713275092029d566cb1154731ca6adf94393592ede0c54b52a18ce9088d
+        mime: image/jpeg
+        bytes: 65056
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

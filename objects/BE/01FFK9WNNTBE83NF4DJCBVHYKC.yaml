@@ -1,0 +1,46 @@
+id: 01FFK9WNNTBE83NF4DJCBVHYKC
+type: image
+subtype: print
+title: Postkarte Salzwedel, Ladestraße
+description: Kupferstich, koloriert.
+date: "1712"
+location: Rüterberg, Mühlenweg
+origin:
+  name: Karl Brandt
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg/Album 16/116
+subjects:
+  - name: Kaufmannshaus
+    type: building
+  - name: Gartow
+    type: place
+  - name: Sportplatz
+    type: building
+parents:
+  - 01GKCFCDVMB3D019HAA4A20JFD
+files:
+  - role: main
+    original_name: scan_959.tif
+    path: files/fd/df/fddfb48a7e3de42cf8d310febfc4319b2998665f5f00c70196059722e5bba54e/original.tif
+    sha256: fddfb48a7e3de42cf8d310febfc4319b2998665f5f00c70196059722e5bba54e
+    mime: image/tiff
+    bytes: 13944381
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/fd/df/fddfb48a7e3de42cf8d310febfc4319b2998665f5f00c70196059722e5bba54e/preview-400.579cad25982c.jpg
+        sha256: 579cad25982c0c6bdd4337ad2186c492568c7187974ca289372f915bd93f1076
+        mime: image/jpeg
+        bytes: 78011
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,52 @@
+id: 01JXGRMDZMYYJHWVK2V6P3YAMT
+type: document
+subtype: letter
+title: August Lemke an die Gemeinde wegen Schulgeld
+date: 1884-05
+location: Gollensdorf, Mühlenweg
+geocode:
+  lat: 52.9922
+  lon: 11.6612
+  precision: region
+  source: osm
+origin:
+  name: Karl Bruns
+  type: person
+  location: Rüterberg
+recipient: Rudolf Wegner
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 11/083
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Wootz
+    type: place
+parents:
+  - 01GC32R7XA4RX5C5MWHXV94Y25
+  - 01FC5K4GCY6W41KZKCK9P52A8H
+files:
+  - role: page
+    num: 1
+    original_name: letter_p3yamt_001.tif
+    path: files/11/01/110173233bb0a8f7f1af1907dc9fcb8e27ec377d8c0bc929b31d41c64ba676a7/original.tif
+    sha256: 110173233bb0a8f7f1af1907dc9fcb8e27ec377d8c0bc929b31d41c64ba676a7
+    mime: image/tiff
+    bytes: 22753084
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/01/110173233bb0a8f7f1af1907dc9fcb8e27ec377d8c0bc929b31d41c64ba676a7/preview-400.4a5e93021f08.jpg
+        sha256: 4a5e93021f0856fc81c2713cd193f38e4f1a7ce83988843f317f13563ac950d8
+        mime: image/jpeg
+        bytes: 89408
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

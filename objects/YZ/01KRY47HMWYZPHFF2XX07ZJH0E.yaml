@@ -1,0 +1,47 @@
+id: 01KRY47HMWYZPHFF2XX07ZJH0E
+type: image
+subtype: drawing
+title: Skizze Lüchow, Elbstraße, Arendsee
+description: Bleistift auf Papier.
+date: 1841/1845
+location: Restorf, Apotheke
+geocode:
+  lat: 53.0413
+  lon: 11.6489
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 11/319
+owner:
+  name: Wilhelm Wöhlk
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Otto Schulz
+    type: person
+  - name: Anni Schulz
+    type: person
+files:
+  - role: main
+    original_name: scan_936.tif
+    path: files/e9/08/e908e3404a9c1076814afccb0ff3fafd7bbe112ca01520c01ad4091891142816/original.tif
+    sha256: e908e3404a9c1076814afccb0ff3fafd7bbe112ca01520c01ad4091891142816
+    mime: image/tiff
+    bytes: 11571394
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e9/08/e908e3404a9c1076814afccb0ff3fafd7bbe112ca01520c01ad4091891142816/preview-400.b5f973dd681c.jpg
+        sha256: b5f973dd681cef8a7f3cc8dffa3e98374493791bc64984278502896ce50b77cd
+        mime: image/jpeg
+        bytes: 42619
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

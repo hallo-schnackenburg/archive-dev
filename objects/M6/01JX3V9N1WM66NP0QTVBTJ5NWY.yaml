@@ -1,0 +1,45 @@
+id: 01JX3V9N1WM66NP0QTVBTJ5NWY
+type: image
+subtype: plan
+title: Bauplan Pumpenhaus 1781
+description: Mit handschriftlichen Ergänzungen.
+date: 1781-02-20
+origin:
+  name: Walter Meyer
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg 34/232
+subjects:
+  - name: Sparkasse
+    type: building
+  - name: Frieda Dreyer
+    type: person
+  - name: Gärtnerei
+    type: building
+parents:
+  - 01FSFJ347AK0X35M67AK3MGJ67
+files:
+  - role: main
+    original_name: scan_113.tif
+    path: files/82/21/8221424139eceb8a9f217524c61bcee9301a164369a23a0391b6c7a4605f0aac/original.tif
+    sha256: 8221424139eceb8a9f217524c61bcee9301a164369a23a0391b6c7a4605f0aac
+    mime: image/tiff
+    bytes: 15978665
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/82/21/8221424139eceb8a9f217524c61bcee9301a164369a23a0391b6c7a4605f0aac/preview-400.3d7dca3ccbf1.jpg
+        sha256: 3d7dca3ccbf196ea0a8fb26bb439c6b6726dab5434d6f54dd881b891f70e59fb
+        mime: image/jpeg
+        bytes: 40735
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

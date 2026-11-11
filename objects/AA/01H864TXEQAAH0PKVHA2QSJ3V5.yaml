@@ -1,0 +1,38 @@
+id: 01H864TXEQAAH0PKVHA2QSJ3V5
+type: image
+subtype: photo
+title: "Theatergruppe: Gruppenbild Sturmschaden"
+description: Aufnahme von Friedrich Ludolf.
+date: 1906-01-14
+location: Schnackenburg, Mühlenweg
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Mühle
+    type: building
+  - name: Ernst Voss
+    type: person
+  - name: Cumlosen
+    type: place
+files:
+  - role: main
+    original_name: DSC2278.jpg
+    path: files/f6/06/f606bd58e3db55f0461218b4e7de38833536ec8fced54e2fa4455bac6bd6e326/original.jpg
+    sha256: f606bd58e3db55f0461218b4e7de38833536ec8fced54e2fa4455bac6bd6e326
+    mime: image/jpeg
+    bytes: 7951071
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f6/06/f606bd58e3db55f0461218b4e7de38833536ec8fced54e2fa4455bac6bd6e326/preview-400.69db347a2f75.jpg
+        sha256: 69db347a2f755da5009a8023a5058889dfd34161129bc844a60d6324ecf01bf3
+        mime: image/jpeg
+        bytes: 84300
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

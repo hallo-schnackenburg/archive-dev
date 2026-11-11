@@ -1,0 +1,37 @@
+id: 01JDXGF5HB4QNAX24MWKF08QSB
+type: image
+subtype: plan
+title: Deichplan Seedorf bis Pretzier
+description: Tusche auf Transparentpapier.
+date: 1769-01
+location: Zadrau, Kirchstraße
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 10/345
+files:
+  - role: main
+    original_name: scan_941.tif
+    path: files/00/ce/00ce53333bb38479bd389ec998420d08637eb9b59c14cdfe56ee67265ccd5b1a/original.tif
+    sha256: 00ce53333bb38479bd389ec998420d08637eb9b59c14cdfe56ee67265ccd5b1a
+    mime: image/tiff
+    bytes: 17238931
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/00/ce/00ce53333bb38479bd389ec998420d08637eb9b59c14cdfe56ee67265ccd5b1a/preview-400.e7ca61108b2e.jpg
+        sha256: e7ca61108b2eee8fed799d7f45c66cd03b2f5f1ffda1377c87477cf21646fd3e
+        mime: image/jpeg
+        bytes: 33118
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

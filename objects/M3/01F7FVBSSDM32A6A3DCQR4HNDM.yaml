@@ -1,0 +1,41 @@
+id: 01F7FVBSSDM32A6A3DCQR4HNDM
+type: image
+subtype: print
+title: "Kupferstich: Laase von der Elbseite, Havelberg"
+description: Kupferstich, koloriert.
+date: 170X
+location: Seedorf, Deichstraße
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 29/090
+subjects:
+  - name: Gülden
+    type: place
+  - name: Friedhofskapelle
+    type: building
+parents:
+  - 01JRGX3XFSMSVNN02PC0NNSHZP
+  - 01F9MQ787B1DZ88NJB119JTN0N
+files:
+  - role: main
+    original_name: scan_312.tif
+    path: files/86/d7/86d7a977efd29d619b9afaf86954727e93de32c41c9cc8d17a17b1694ad78eeb/original.tif
+    sha256: 86d7a977efd29d619b9afaf86954727e93de32c41c9cc8d17a17b1694ad78eeb
+    mime: image/tiff
+    bytes: 23950606
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/d7/86d7a977efd29d619b9afaf86954727e93de32c41c9cc8d17a17b1694ad78eeb/preview-400.2e978293962d.jpg
+        sha256: 2e978293962d04339ddab51309262ba782c3910fd81bd4417f6c3e4e3fae560e
+        mime: image/jpeg
+        bytes: 50406
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

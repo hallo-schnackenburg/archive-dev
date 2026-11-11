@@ -1,0 +1,43 @@
+id: 01HNQ2AKKHCYGQ8A78CFFQ2ZNK
+type: image
+subtype: photo
+title: Familie Schwarz beim Fährjubiläum
+description: Farbfoto, leicht verblasst.
+date: 1977-05
+location: Kapern, Marktstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 2/073
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Wilhelm Hartwig
+    type: person
+  - name: Gülden
+    type: place
+parents:
+  - 01FJ86NA6W3C03D1PBGTPFRX8T
+files:
+  - role: main
+    original_name: scan_236.tif
+    path: files/c6/02/c6025f0de0a064306f148adbbd427a986687cc98f6321645b7d5d98794b630c8/original.tif
+    sha256: c6025f0de0a064306f148adbbd427a986687cc98f6321645b7d5d98794b630c8
+    mime: image/tiff
+    bytes: 9570361
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/02/c6025f0de0a064306f148adbbd427a986687cc98f6321645b7d5d98794b630c8/preview-400.649359cf383f.jpg
+        sha256: 649359cf383f310c7324c0949f8af2a3479d5ba44ff785241325e0b6751d77b0
+        mime: image/jpeg
+        bytes: 86825
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

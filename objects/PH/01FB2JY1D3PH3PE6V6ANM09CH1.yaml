@@ -1,0 +1,38 @@
+id: 01FB2JY1D3PH3PE6V6ANM09CH1
+type: image
+subtype: drawing
+title: Skizze Restorf, Deichstraße, Bömenzien
+date: 1889-01-27
+location: Pretzier, Backhaus
+geocode:
+  lat: 53.0526
+  lon: 11.4902
+  precision: region
+  source: osm
+origin:
+  name: Otto Krüger
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Badestelle
+    type: building
+files:
+  - role: main
+    original_name: scan_369.tif
+    path: files/b3/c7/b3c7673f130df290629f7823602cdec08a07acd059f5f63fbfe3820c9939b816/original.tif
+    sha256: b3c7673f130df290629f7823602cdec08a07acd059f5f63fbfe3820c9939b816
+    mime: image/tiff
+    bytes: 5644693
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b3/c7/b3c7673f130df290629f7823602cdec08a07acd059f5f63fbfe3820c9939b816/preview-400.97ecc35d3527.jpg
+        sha256: 97ecc35d3527688bec082fc950d7f908eb4382ca8c0aaff837b4211e91b4c086
+        mime: image/jpeg
+        bytes: 22345
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

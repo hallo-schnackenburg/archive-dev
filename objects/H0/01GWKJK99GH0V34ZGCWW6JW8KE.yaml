@@ -1,0 +1,31 @@
+id: 01GWKJK99GH0V34ZGCWW6JW8KE
+type: image
+subtype: plan
+title: Bauplan Feuerwehrhaus 1852
+description: Tusche auf Transparentpapier.
+date: 1852~
+location: Arendsee, Dorfkrug
+origin:
+  name: Helga Brandt
+  type: person
+  location: Havelberg
+files:
+  - role: main
+    original_name: scan_390.tif
+    path: files/3a/bd/3abd8934114ebb9657ee1f50147e0ac37a837a8f6ef860bcf5d979942a3dda59/original.tif
+    sha256: 3abd8934114ebb9657ee1f50147e0ac37a837a8f6ef860bcf5d979942a3dda59
+    mime: image/tiff
+    bytes: 15818662
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3a/bd/3abd8934114ebb9657ee1f50147e0ac37a837a8f6ef860bcf5d979942a3dda59/preview-400.f78071bb89c6.jpg
+        sha256: f78071bb89c6f4399d5420b26a1e581f329abfaf9f11f72c86f1485d2e02aee0
+        mime: image/jpeg
+        bytes: 57924
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

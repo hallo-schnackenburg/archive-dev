@@ -1,0 +1,49 @@
+id: 01HE4593CSK7M5XWY0Y7109CET
+type: image
+subtype: photo
+title: "Jugendfeuerwehr: Gruppenbild Hochwasser"
+description: Abzug im Format 10 x 15 cm.
+date: "1976"
+location: Nienwalde, Badestelle
+geocode:
+  lat: 53.0712
+  lon: 11.5487
+  precision: exact
+  source: osm
+origin:
+  name: Hans Brandt
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 12/039
+subjects:
+  - name: Scheune
+    type: building
+  - name: Fährjubiläum 1976
+    type: event
+  - name: Maifeier 1976
+    type: event
+files:
+  - role: main
+    original_name: scan_705.tif
+    path: files/51/29/5129a9fdc8aa46750cf68082af830739f0b1cd01ee7e203ced9f094805a0b4f5/original.tif
+    sha256: 5129a9fdc8aa46750cf68082af830739f0b1cd01ee7e203ced9f094805a0b4f5
+    mime: image/tiff
+    bytes: 3556090
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/51/29/5129a9fdc8aa46750cf68082af830739f0b1cd01ee7e203ced9f094805a0b4f5/preview-400.6f044dcc8ec7.jpg
+        sha256: 6f044dcc8ec7c1586e780f33371364309b22921a65b73eb09dacc7e1f4e3f350
+        mime: image/jpeg
+        bytes: 53879
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

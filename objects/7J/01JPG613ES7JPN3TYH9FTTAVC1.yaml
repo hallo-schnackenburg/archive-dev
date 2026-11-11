@@ -1,0 +1,60 @@
+id: 01JPG613ES7JPN3TYH9FTTAVC1
+type: document
+subtype: letter
+title: Zeugnis für Heinz Bohlmann
+description: Mit Umschlag und Briefmarke.
+origin:
+  name: Karl Ludolf
+  type: person
+  location: Laase
+language: de
+subjects:
+  - name: Fährjubiläum 1908
+    type: event
+  - name: Kartoffelernte 1908
+    type: event
+  - name: Fastnacht 1908
+    type: event
+parents:
+  - 01EWC7VVF5TTWGM2X550P0P2HW
+files:
+  - role: page
+    num: 1
+    original_name: letter_ttavc1_001.tif
+    path: files/01/d3/01d3207690933d9960cd0ec7a57d012614853755012906fbdb5d51ee67f9e824/original.tif
+    sha256: 01d3207690933d9960cd0ec7a57d012614853755012906fbdb5d51ee67f9e824
+    mime: image/tiff
+    bytes: 6928018
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/d3/01d3207690933d9960cd0ec7a57d012614853755012906fbdb5d51ee67f9e824/preview-400.5edfa2415456.jpg
+        sha256: 5edfa2415456c1fefff38ac0fd0d33cdfd993a2437de8436b1a6c7a82d878e7e
+        mime: image/jpeg
+        bytes: 57048
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_ttavc1_002.tif
+    path: files/ed/67/ed67a37b23ab0ff6a45d1920fd804f37e12c95371c4566358cc97c624f91fb8c/original.tif
+    sha256: ed67a37b23ab0ff6a45d1920fd804f37e12c95371c4566358cc97c624f91fb8c
+    mime: image/tiff
+    bytes: 27293351
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ed/67/ed67a37b23ab0ff6a45d1920fd804f37e12c95371c4566358cc97c624f91fb8c/preview-400.f385d74058b5.jpg
+        sha256: f385d74058b5ff1929f7dba10e858b319184fc7b0d6e9207347ebcecf1e2cab6
+        mime: image/jpeg
+        bytes: 81716
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01JHEBNFVHAQ6VCGN6JH59JVY4
+type: image
+subtype: print
+title: Postkarte Hitzacker, Kaufmannshaus
+description: Lithographie, Rand beschnitten.
+date: 1743-07-20
+origin:
+  name: Karl Schwarz
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Fritz Brandt
+    type: person
+  - name: Rudolf Lüders
+    type: person
+files:
+  - role: main
+    original_name: scan_292.tif
+    path: files/a4/93/a493ec00a5ae8d40a652fbbbb90542dc899d252d435797bed458cd6ca6819a4c/original.tif
+    sha256: a493ec00a5ae8d40a652fbbbb90542dc899d252d435797bed458cd6ca6819a4c
+    mime: image/tiff
+    bytes: 17056097
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a4/93/a493ec00a5ae8d40a652fbbbb90542dc899d252d435797bed458cd6ca6819a4c/preview-400.3e515011c2df.jpg
+        sha256: 3e515011c2df519782bafc20fc763238365743b2418fbd168cdd042a862c8160
+        mime: image/jpeg
+        bytes: 53812
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

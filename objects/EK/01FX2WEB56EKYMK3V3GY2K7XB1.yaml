@@ -1,0 +1,37 @@
+id: 01FX2WEB56EKYMK3V3GY2K7XB1
+type: image
+subtype: photo
+title: Fastnacht 1926
+date: 1926~
+location: Restorf, Gasthof „Zur Elbe“
+origin:
+  name: Frieda Ihde
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Apotheke
+    type: building
+parents:
+  - 01HS8SXFSQTVTEY5966Q2P57PM
+files:
+  - role: main
+    original_name: IMG_3146.jpg
+    path: files/6e/47/6e4732438d91e9bc41009f4d3d4fccd1afdd8e50dd0a8ae77e70bfddb5357b2a/original.jpg
+    sha256: 6e4732438d91e9bc41009f4d3d4fccd1afdd8e50dd0a8ae77e70bfddb5357b2a
+    mime: image/jpeg
+    bytes: 6045025
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/6e/47/6e4732438d91e9bc41009f4d3d4fccd1afdd8e50dd0a8ae77e70bfddb5357b2a/preview-400.50297470d6b6.jpg
+        sha256: 50297470d6b6e9855b80193fc220a905253d84ef9df0025ba367e43591682156
+        mime: image/jpeg
+        bytes: 52541
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

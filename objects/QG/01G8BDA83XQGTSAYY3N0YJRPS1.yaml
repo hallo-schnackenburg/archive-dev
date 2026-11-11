@@ -1,0 +1,44 @@
+id: 01G8BDA83XQGTSAYY3N0YJRPS1
+type: image
+subtype: photo
+title: Einweihung 1977
+date: 1977-11-04
+origin:
+  name: Karl Detlefs
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v26063
+subjects:
+  - name: Marta Wöhlk
+    type: person
+  - name: Ernst Tiedemann
+    type: person
+  - name: Otto Gerdes
+    type: person
+parents:
+  - 01KEEQTF18ZM4ZAMFBC1AXYQ8V
+files:
+  - role: main
+    original_name: scan_377.tif
+    path: files/16/0b/160be6a683aa573b275279b082311813991ad5f3c25b052c16cdfe50f3cb9846/original.tif
+    sha256: 160be6a683aa573b275279b082311813991ad5f3c25b052c16cdfe50f3cb9846
+    mime: image/tiff
+    bytes: 9486999
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/16/0b/160be6a683aa573b275279b082311813991ad5f3c25b052c16cdfe50f3cb9846/preview-400.8a2e42228f5a.jpg
+        sha256: 8a2e42228f5a9e95d16409265f88d13f0b01818b385af65a4eb046360a3ec64d
+        mime: image/jpeg
+        bytes: 65094
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

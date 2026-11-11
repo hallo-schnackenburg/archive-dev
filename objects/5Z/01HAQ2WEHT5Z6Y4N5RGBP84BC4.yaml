@@ -1,0 +1,44 @@
+id: 01HAQ2WEHT5Z6Y4N5RGBP84BC4
+type: image
+subtype: print
+title: "Kupferstich: Wittenberge von der Elbseite, Pretzier"
+date: "1859"
+origin:
+  name: Rudolf Brandt
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg/Kasten 21/066
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Marta Ahrens
+    type: person
+  - name: Einweihung 1859
+    type: event
+parents:
+  - 01JFKAQQ0R80TT983HC9766EP1
+files:
+  - role: main
+    original_name: scan_977.tif
+    path: files/46/9b/469bc80cbadbafd747a14a1958bd907e05563aa946a13e1f54840d302e48c3f2/original.tif
+    sha256: 469bc80cbadbafd747a14a1958bd907e05563aa946a13e1f54840d302e48c3f2
+    mime: image/tiff
+    bytes: 14098362
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/46/9b/469bc80cbadbafd747a14a1958bd907e05563aa946a13e1f54840d302e48c3f2/preview-400.755d55a081d6.jpg
+        sha256: 755d55a081d6f7264ec9d67137dae641420086eb0d3fc2445f815438c36b558b
+        mime: image/jpeg
+        bytes: 70404
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

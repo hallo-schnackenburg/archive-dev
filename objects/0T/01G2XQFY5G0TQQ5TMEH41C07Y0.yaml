@@ -1,0 +1,38 @@
+id: 01G2XQFY5G0TQQ5TMEH41C07Y0
+type: image
+subtype: photo
+title: Familie Garms beim Straßenfest
+description: Aufnahme von Frieda Nitschke.
+date: 200X
+location: Salzwedel, Ziegelei
+origin:
+  name: Berta Wöhlk
+  type: person
+  location: Lüchow
+subjects:
+  - name: Dorffest 2001
+    type: event
+  - name: Emma Rieke
+    type: person
+  - name: Arendsee
+    type: place
+files:
+  - role: main
+    original_name: scan_342.tif
+    path: files/60/e6/60e6eb40c48752570b693402a5d564177567343ceba84bf813594af1355da1ce/original.tif
+    sha256: 60e6eb40c48752570b693402a5d564177567343ceba84bf813594af1355da1ce
+    mime: image/tiff
+    bytes: 6318257
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/60/e6/60e6eb40c48752570b693402a5d564177567343ceba84bf813594af1355da1ce/preview-400.071b809c1926.jpg
+        sha256: 071b809c1926790ecf0a95d3a9f764996ec8374d8397f02cc78c7f3a945a5411
+        mime: image/jpeg
+        bytes: 39845
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

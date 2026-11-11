@@ -1,0 +1,31 @@
+id: 01GXDTJYHN6XSHDDFTJSMVRJ36
+type: image
+subtype: plan
+title: Deichplan Holtorf bis Lanz
+date: 191X
+origin:
+  name: Fritz Krüger
+  type: person
+  location: Gartow
+parents:
+  - 01F1BHYRX3XQ5HK4ANVQXBQ5E6
+files:
+  - role: main
+    original_name: scan_968.tif
+    path: files/13/fd/13fd673f3ba69c310884684587e27699b9cd81c842b4ff5cbc28b5d4727e7087/original.tif
+    sha256: 13fd673f3ba69c310884684587e27699b9cd81c842b4ff5cbc28b5d4727e7087
+    mime: image/tiff
+    bytes: 10332974
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/13/fd/13fd673f3ba69c310884684587e27699b9cd81c842b4ff5cbc28b5d4727e7087/preview-400.3fa71223703a.jpg
+        sha256: 3fa71223703a5aa120744110e3260e8c0b0bb26d11babec0a34a7b57c0b24ae6
+        mime: image/jpeg
+        bytes: 36055
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

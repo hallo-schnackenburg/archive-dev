@@ -1,0 +1,61 @@
+id: 01J7FT3S1XAEJTRC9RF5EE63VD
+type: document
+subtype: letter
+title: Korrespondenz Horst Lemke
+date: 1861-07-26
+location: Arendsee, Lange Straße
+origin:
+  name: Albert Wegner
+  type: person
+  location: Wootz
+recipient: Käthe Voss
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 14/059
+parents:
+  - 01HGWAATSHSQJT69MF82EV6W37
+files:
+  - role: page
+    num: 1
+    original_name: letter_ee63vd_001.tif
+    path: files/24/3d/243d4e52b7d5c21375d36c077cdd9b0a5fe39dd416457c38023942413b62d8c0/original.tif
+    sha256: 243d4e52b7d5c21375d36c077cdd9b0a5fe39dd416457c38023942413b62d8c0
+    mime: image/tiff
+    bytes: 2852530
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/24/3d/243d4e52b7d5c21375d36c077cdd9b0a5fe39dd416457c38023942413b62d8c0/preview-400.5abcd1e81dda.jpg
+        sha256: 5abcd1e81dda2a5c7bc0c7fd12fdc7f2ebbb7d7208bd19ddfbf9653905e2a1a0
+        mime: image/jpeg
+        bytes: 69579
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_ee63vd_002.tif
+    path: files/9b/33/9b33f976c28c188dbd91ea923efb488d5003cda20cf9d8ddc49ea116271dc829/original.tif
+    sha256: 9b33f976c28c188dbd91ea923efb488d5003cda20cf9d8ddc49ea116271dc829
+    mime: image/tiff
+    bytes: 27977176
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9b/33/9b33f976c28c188dbd91ea923efb488d5003cda20cf9d8ddc49ea116271dc829/preview-400.f2a950a19513.jpg
+        sha256: f2a950a19513d8743850fd3391437c6c636f28b806a439d53f65f1367b87d99b
+        mime: image/jpeg
+        bytes: 67918
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

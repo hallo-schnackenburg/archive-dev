@@ -1,0 +1,45 @@
+id: 01F98TZPD9SA430M2HBSJK7671
+type: image
+subtype: drawing
+title: Federzeichnung Gutshaus, Lüchow
+date: "1960"
+origin:
+  name: Anni Hennings
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 25/310
+  note: Kellerarchiv
+subjects:
+  - name: Schützenhaus
+    type: building
+  - name: Wassermühle
+    type: building
+  - name: Hochzeit 1960
+    type: event
+parents:
+  - 01J9G2YFZQRW9H8YS0MWA1XHM0
+files:
+  - role: main
+    original_name: scan_513.tif
+    path: files/f7/c9/f7c9f40aa14707475ec4e2dab0d88df1307e70777ac223a6c88ec0348c6a4d95/original.tif
+    sha256: f7c9f40aa14707475ec4e2dab0d88df1307e70777ac223a6c88ec0348c6a4d95
+    mime: image/tiff
+    bytes: 14618063
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f7/c9/f7c9f40aa14707475ec4e2dab0d88df1307e70777ac223a6c88ec0348c6a4d95/preview-400.815720e3ed08.jpg
+        sha256: 815720e3ed085234f2435c130d1e963b001c348df610f0867aa0332bf9abb3d4
+        mime: image/jpeg
+        bytes: 32562
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

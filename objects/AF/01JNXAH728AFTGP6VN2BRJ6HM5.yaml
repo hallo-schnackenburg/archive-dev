@@ -1,0 +1,35 @@
+id: 01JNXAH728AFTGP6VN2BRJ6HM5
+type: image
+subtype: photo
+title: Hafen nach dem Feuerwehrübung
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Gollensdorf, Dorfstraße
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Gülden
+subjects:
+  - name: Scheune
+    type: building
+  - name: Holtorf
+    type: place
+files:
+  - role: main
+    original_name: DSC5890.jpg
+    path: files/fd/56/fd56a1545055f07255c4d699288dff7d94e4d8b52978eb3bf4c2ff3e8347d43f/original.jpg
+    sha256: fd56a1545055f07255c4d699288dff7d94e4d8b52978eb3bf4c2ff3e8347d43f
+    mime: image/jpeg
+    bytes: 27286739
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/fd/56/fd56a1545055f07255c4d699288dff7d94e4d8b52978eb3bf4c2ff3e8347d43f/preview-400.fe7bf89cef9e.jpg
+        sha256: fe7bf89cef9e79ed1f3b73335de2be655f6066fd24d8a510d28441e70e40eb30
+        mime: image/jpeg
+        bytes: 58101
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

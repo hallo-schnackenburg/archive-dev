@@ -1,0 +1,37 @@
+id: 01J3WEJA3BMKZN55RQ9TMZ27QS
+type: image
+subtype: photo
+title: Otto Matthies vor dem Storchennest
+description: Aufnahme von Rudolf Voss.
+date: 1962-02
+origin:
+  name: Hans Jeß
+  type: person
+  location: Gartow
+subjects:
+  - name: Eisgang 1962
+    type: event
+  - name: Windmühle
+    type: building
+  - name: Hans Ludolf
+    type: person
+files:
+  - role: main
+    original_name: P0013.jpg
+    path: files/2b/f3/2bf3d09f3d5a150598b54f7491c2bb99fd1779ecb6b266d6036db57a9e2daf43/original.jpg
+    sha256: 2bf3d09f3d5a150598b54f7491c2bb99fd1779ecb6b266d6036db57a9e2daf43
+    mime: image/jpeg
+    bytes: 702664
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/2b/f3/2bf3d09f3d5a150598b54f7491c2bb99fd1779ecb6b266d6036db57a9e2daf43/preview-400.d7dbe11b791f.jpg
+        sha256: d7dbe11b791f0100c5ee54b8b6f6fda34ad520b633013733fa4745b1b62041b3
+        mime: image/jpeg
+        bytes: 76094
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

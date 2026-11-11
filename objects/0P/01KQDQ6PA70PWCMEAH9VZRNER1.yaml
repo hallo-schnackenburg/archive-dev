@@ -1,0 +1,31 @@
+id: 01KQDQ6PA70PWCMEAH9VZRNER1
+type: image
+subtype: photo
+title: Kinder am Gutshaus
+description: Aufnahme von Ursula Meyer.
+date: 1923/1934
+location: Gollensdorf, Elbdeich
+origin:
+  name: Ursula Bohlmann
+  type: person
+  location: Holtorf
+files:
+  - role: main
+    original_name: P6152.jpg
+    path: files/e4/2f/e42f66dfb9aa66be51a272101eae250ecad38077d4855158eca26cd87fb018f7/original.jpg
+    sha256: e42f66dfb9aa66be51a272101eae250ecad38077d4855158eca26cd87fb018f7
+    mime: image/jpeg
+    bytes: 16752552
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/e4/2f/e42f66dfb9aa66be51a272101eae250ecad38077d4855158eca26cd87fb018f7/preview-400.f2bf7d6a7e66.jpg
+        sha256: f2bf7d6a7e6673135426648295468e8b179d952843acdafe35de544da52aaf93
+        mime: image/jpeg
+        bytes: 26062
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

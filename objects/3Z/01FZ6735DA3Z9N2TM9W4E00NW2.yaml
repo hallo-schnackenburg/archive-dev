@@ -1,0 +1,49 @@
+id: 01FZ6735DA3Z9N2TM9W4E00NW2
+type: image
+subtype: photo
+title: Blick vom Schlachterei auf das Torhaus
+description: Farbfoto, leicht verblasst.
+date: 1910~
+location: Zadrau, Bahnhofstraße
+geocode:
+  lat: 53.0453
+  lon: 11.6184
+  precision: street
+  source: osm
+origin:
+  name: Hans Cohrs
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v23380
+subjects:
+  - name: Fritz Schulz
+    type: person
+  - name: Dömitz
+    type: place
+parents:
+  - 01H46K9BSD0B1AGYJKV43CT13X
+files:
+  - role: main
+    original_name: IMG_6100.jpg
+    path: files/2a/0a/2a0a3679cccfd3b335f2c16d74269c833a6660d062849577980d91a2ae526051/original.jpg
+    sha256: 2a0a3679cccfd3b335f2c16d74269c833a6660d062849577980d91a2ae526051
+    mime: image/jpeg
+    bytes: 5925260
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/2a/0a/2a0a3679cccfd3b335f2c16d74269c833a6660d062849577980d91a2ae526051/preview-400.7732f2983c42.jpg
+        sha256: 7732f2983c4220826ef7dc339755a1177df385f6c179f39255ad20208807bd61
+        mime: image/jpeg
+        bytes: 62490
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

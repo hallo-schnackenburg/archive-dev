@@ -1,0 +1,28 @@
+id: 01EW7CTPP6TVH0BPZHPGGKXJB3
+type: image
+subtype: plan
+title: Bauplan Försterei 1890
+description: Maßstab 1:2500.
+subjects:
+  - name: Lüchow
+    type: place
+files:
+  - role: main
+    original_name: scan_927.tif
+    path: files/42/47/42471cd7ff9e12b01c71e999594773c4bf40bd8c9ba13ccaafe51462b2c7deb4/original.tif
+    sha256: 42471cd7ff9e12b01c71e999594773c4bf40bd8c9ba13ccaafe51462b2c7deb4
+    mime: image/tiff
+    bytes: 17302680
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/42/47/42471cd7ff9e12b01c71e999594773c4bf40bd8c9ba13ccaafe51462b2c7deb4/preview-400.f9ebe3556d63.jpg
+        sha256: f9ebe3556d631f34e4e16734179868f2b885cd9d535863814d2e0edcbc57c6a9
+        mime: image/jpeg
+        bytes: 83798
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

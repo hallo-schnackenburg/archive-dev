@@ -1,0 +1,65 @@
+id: 01FMZQEWRCAM2EEHWW32FFFY4V
+type: document
+subtype: letter
+title: Korrespondenz Dieter Lemke
+description: Mit Umschlag und Briefmarke.
+date: 1818/1826
+location: Zadrau, Bahnhof
+origin:
+  name: Anni Ahrens
+  type: person
+  location: Nienwalde
+recipient: Hans Wöhlk
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg/Mappe 28/117
+  note: Regal 1
+subjects:
+  - name: Grenzöffnung 1818
+    type: event
+  - name: Försterei
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_fffy4v_001.tif
+    path: files/3e/74/3e74e26d46d342f2744aefba30d0938e96611ec65b615ebb019c83af0cf92ac7/original.tif
+    sha256: 3e74e26d46d342f2744aefba30d0938e96611ec65b615ebb019c83af0cf92ac7
+    mime: image/tiff
+    bytes: 5770305
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/74/3e74e26d46d342f2744aefba30d0938e96611ec65b615ebb019c83af0cf92ac7/preview-400.5df1f7974b2b.jpg
+        sha256: 5df1f7974b2bc8a94686989a74f5983cac91d9710011c8645a6f45f3cc7d3b95
+        mime: image/jpeg
+        bytes: 34264
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_fffy4v_002.tif
+    path: files/fd/91/fd919e148b821827412d0599e1daefb786ff0d172685417fc9cd7e0f5c31c435/original.tif
+    sha256: fd919e148b821827412d0599e1daefb786ff0d172685417fc9cd7e0f5c31c435
+    mime: image/tiff
+    bytes: 12726383
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fd/91/fd919e148b821827412d0599e1daefb786ff0d172685417fc9cd7e0f5c31c435/preview-400.df65f92dba06.jpg
+        sha256: df65f92dba06df92368ec1c841f17b0757dd03f6ae6b09efe10d8e776a16baa1
+        mime: image/jpeg
+        bytes: 85981
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

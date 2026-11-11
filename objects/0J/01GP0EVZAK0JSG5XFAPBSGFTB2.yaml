@@ -1,0 +1,33 @@
+id: 01GP0EVZAK0JSG5XFAPBSGFTB2
+type: image
+subtype: plan
+title: Bauplan Sportplatz 1769
+description: Mit handschriftlichen Ergänzungen.
+date: 1769-03
+origin:
+  name: Erika Dierks
+  type: person
+  location: Gorleben
+parents:
+  - 01HNVK3TWSXAG1X7MJP1AQW02W
+  - 01KCNQMHENJ8PAWGKRGSDX5HZ0
+files:
+  - role: main
+    original_name: scan_272.tif
+    path: files/11/16/11166f9010b8ee7e65a88c4b695119f51ecc7a059afef711e0b47e8cf3eb0b01/original.tif
+    sha256: 11166f9010b8ee7e65a88c4b695119f51ecc7a059afef711e0b47e8cf3eb0b01
+    mime: image/tiff
+    bytes: 5651637
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/11/16/11166f9010b8ee7e65a88c4b695119f51ecc7a059afef711e0b47e8cf3eb0b01/preview-400.a148a6b025b5.jpg
+        sha256: a148a6b025b5bc11f66443bc7da662986e5edeb6b0534fe2e5e4f388003bf29f
+        mime: image/jpeg
+        bytes: 43032
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

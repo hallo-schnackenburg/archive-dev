@@ -1,0 +1,38 @@
+id: 01GSPRQ9VV1EP83BCWZJX8BSZG
+type: image
+subtype: print
+title: Postkarte Wittenberge, Kriegerdenkmal
+description: Postkarte, gelaufen 1923.
+date: 1808/1815
+location: Lüchow, Marktstraße
+origin:
+  name: Frieda Wiegmann
+  type: person
+  location: Laase
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Torhaus
+    type: building
+parents:
+  - 01JP9HS44VA7XZY3HAP9PA82HG
+files:
+  - role: main
+    original_name: scan_309.tif
+    path: files/09/2d/092d78b1c92629bfe1a08eaa99e888c94cf7779363228114c1492d8d3996a904/original.tif
+    sha256: 092d78b1c92629bfe1a08eaa99e888c94cf7779363228114c1492d8d3996a904
+    mime: image/tiff
+    bytes: 16234533
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/09/2d/092d78b1c92629bfe1a08eaa99e888c94cf7779363228114c1492d8d3996a904/preview-400.2d14af6f5dce.jpg
+        sha256: 2d14af6f5dcec487d31215fecd5adfb67530b538f87e72866fbd85e9aaa9094f
+        mime: image/jpeg
+        bytes: 69414
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

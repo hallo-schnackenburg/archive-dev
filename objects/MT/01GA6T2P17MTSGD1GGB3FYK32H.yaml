@@ -1,0 +1,37 @@
+id: 01GA6T2P17MTSGD1GGB3FYK32H
+type: image
+subtype: photo
+title: Rathaus in Brünkendorf
+description: Farbfoto, leicht verblasst.
+date: "1989"
+origin:
+  name: Dieter Heuer
+  type: person
+  location: Zadrau
+subjects:
+  - name: Feuerwehrübung 1989
+    type: event
+  - name: Schützenhaus
+    type: building
+  - name: Kriegerdenkmal
+    type: building
+files:
+  - role: main
+    original_name: DSC5660.jpg
+    path: files/ca/35/ca35ae43fc1131c7a501065ba0cf1b62a3202ac047b119f0b9c25da3b498c03e/original.jpg
+    sha256: ca35ae43fc1131c7a501065ba0cf1b62a3202ac047b119f0b9c25da3b498c03e
+    mime: image/jpeg
+    bytes: 9061856
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/ca/35/ca35ae43fc1131c7a501065ba0cf1b62a3202ac047b119f0b9c25da3b498c03e/preview-400.716979159d7e.jpg
+        sha256: 716979159d7e34e1bad97b16c96dd6b7367277876f8da113090a52b4fd0995d1
+        mime: image/jpeg
+        bytes: 42587
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

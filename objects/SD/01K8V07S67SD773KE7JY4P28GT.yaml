@@ -1,0 +1,37 @@
+id: 01K8V07S67SD773KE7JY4P28GT
+type: image
+subtype: drawing
+title: Skizze Laase, Gartenstraße
+date: 189X
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 33/377
+parents:
+  - 01J36EBSGAM0EQS4K8346DJX88
+files:
+  - role: main
+    original_name: scan_624.tif
+    path: files/47/d9/47d9b8e6de6d71f4851715adbc466b73196f05d5585d473735f6dbfca6e377ee/original.tif
+    sha256: 47d9b8e6de6d71f4851715adbc466b73196f05d5585d473735f6dbfca6e377ee
+    mime: image/tiff
+    bytes: 22407922
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/47/d9/47d9b8e6de6d71f4851715adbc466b73196f05d5585d473735f6dbfca6e377ee/preview-400.77ef6fbf3599.jpg
+        sha256: 77ef6fbf359939233b156434b59928f052c9270d28fe114e0c34a41c45679506
+        mime: image/jpeg
+        bytes: 73986
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

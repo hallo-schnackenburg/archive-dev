@@ -1,0 +1,37 @@
+id: 01KPSPQW408CJG18HTNY2SMY46
+type: image
+subtype: plan
+title: Deichplan Brünkendorf bis Brünkendorf
+date: 1768-03-21
+location: Wittenberge, Kriegerdenkmal
+origin:
+  name: Karl Hennings
+  type: person
+  location: Dömitz
+subjects:
+  - name: Storchennest
+    type: building
+  - name: Fährjubiläum 1768
+    type: event
+parents:
+  - 01JDKHA5MPQ8XVK9JCT9CYCPDT
+files:
+  - role: main
+    original_name: scan_502.tif
+    path: files/d4/6c/d46cfda82ee934ccaa2a521fa2bbe8be63b519635605665ce48207643890d082/original.tif
+    sha256: d46cfda82ee934ccaa2a521fa2bbe8be63b519635605665ce48207643890d082
+    mime: image/tiff
+    bytes: 14153862
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d4/6c/d46cfda82ee934ccaa2a521fa2bbe8be63b519635605665ce48207643890d082/preview-400.f2417251523c.jpg
+        sha256: f2417251523c10559aa132018fad04be9c9bdbe2d6b1a1e7e80523043cec5842
+        mime: image/jpeg
+        bytes: 75359
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

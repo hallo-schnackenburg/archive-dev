@@ -1,0 +1,35 @@
+id: 01FTHWZ5WJD2MDDCVVKSQ8TNKS
+type: image
+subtype: drawing
+title: Skizze Dömitz, Hinter den Höfen
+date: 1890-02-07
+location: Lenzen, Sparkasse
+origin:
+  name: Fritz Brandt
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Zollamt
+    type: building
+parents:
+  - 01GEC3BDXTCY5KT0RTA97873HE
+files:
+  - role: main
+    original_name: scan_071.tif
+    path: files/09/ca/09ca3e42347875ebae87d04109501f15478afa276f9f537214b11fb67348ca35/original.tif
+    sha256: 09ca3e42347875ebae87d04109501f15478afa276f9f537214b11fb67348ca35
+    mime: image/tiff
+    bytes: 21040045
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/ca/09ca3e42347875ebae87d04109501f15478afa276f9f537214b11fb67348ca35/preview-400.b19c9776f9a4.jpg
+        sha256: b19c9776f9a4e4187d177d74de52c4c9da9a1f4e3c192a2155d36d52ea4a0446
+        mime: image/jpeg
+        bytes: 54781
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

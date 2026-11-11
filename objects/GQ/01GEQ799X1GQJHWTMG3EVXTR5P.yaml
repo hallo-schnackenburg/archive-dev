@@ -1,0 +1,38 @@
+id: 01GEQ799X1GQJHWTMG3EVXTR5P
+type: image
+subtype: photo
+title: Fähranleger nach dem Osterfeuer
+description: Farbfoto, leicht verblasst.
+date: 1951-07-05
+location: Laase, Deichstraße
+geocode:
+  lat: 52.9245
+  lon: 11.5563
+  precision: street
+  source: osm
+origin:
+  name: Karl Ahrens
+  type: person
+  location: Schnackenburg
+parents:
+  - 01HYMCFRJ492VAY6JD2NK5EJ56
+files:
+  - role: main
+    original_name: IMG_8356.jpg
+    path: files/33/7c/337cf68edc639aeca7868988c87944623a4cbf3695730f69db0ee066bc725323/original.jpg
+    sha256: 337cf68edc639aeca7868988c87944623a4cbf3695730f69db0ee066bc725323
+    mime: image/jpeg
+    bytes: 9333791
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/33/7c/337cf68edc639aeca7868988c87944623a4cbf3695730f69db0ee066bc725323/preview-400.09fa0b53a163.jpg
+        sha256: 09fa0b53a1632ebf2a8b52ac274e47baebd18a09465f772e36aeebec348b12d2
+        mime: image/jpeg
+        bytes: 30817
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

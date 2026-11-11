@@ -1,0 +1,40 @@
+id: 01FXZDSSJG6KM0ED88M8P5RD8T
+type: image
+subtype: plan
+title: Bauplan Dorfladen 1958
+date: "1958"
+location: Brünkendorf, Schulstraße
+origin:
+  name: Karl Schulz
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Hermann Harms
+    type: person
+parents:
+  - 01F20XMXWX2C707C5C7N0Y1A69
+files:
+  - role: main
+    original_name: scan_746.tif
+    path: files/06/88/068867cecba190a6578f761f20cf0ee8390302ed66878d9b05ce9c153e85dcb3/original.tif
+    sha256: 068867cecba190a6578f761f20cf0ee8390302ed66878d9b05ce9c153e85dcb3
+    mime: image/tiff
+    bytes: 6676731
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/06/88/068867cecba190a6578f761f20cf0ee8390302ed66878d9b05ce9c153e85dcb3/preview-400.a4ab1f0f024b.jpg
+        sha256: a4ab1f0f024b73cf8c354610bcdbf997a61582b40968f087ee6791c36fd79f0b
+        mime: image/jpeg
+        bytes: 46996
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

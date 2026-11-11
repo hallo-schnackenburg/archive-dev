@@ -1,0 +1,39 @@
+id: 01J31EGEETD5236GNVM9Q9G1R7
+type: document
+subtype: note
+title: Kassenzettel Ziegelei
+description: Beleg mit Stempel.
+date: "1988"
+location: Bömenzien, Feuerwehrhaus
+origin:
+  name: Heinrich Kuhlmann
+  type: person
+  location: Nienwalde
+language: de
+subjects:
+  - name: Feuerwehrübung 1988
+    type: event
+parents:
+  - 01F59EC1VBHH3WNCG7D36FBJZ4
+  - 01F83N316GB4JPE9NDSAS5ZR1M
+files:
+  - role: page
+    num: 1
+    original_name: note_q9g1r7_001.tif
+    path: files/4f/eb/4febf16a531631f1c917349058872cedd2f7e4dc6790d1926e366496c3e9fd58/original.tif
+    sha256: 4febf16a531631f1c917349058872cedd2f7e4dc6790d1926e366496c3e9fd58
+    mime: image/tiff
+    bytes: 14704242
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4f/eb/4febf16a531631f1c917349058872cedd2f7e4dc6790d1926e366496c3e9fd58/preview-400.76aed7e35738.jpg
+        sha256: 76aed7e35738150fe3ab2d19c61a8304e1184638c35e5218954e56735389aaac
+        mime: image/jpeg
+        bytes: 73879
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

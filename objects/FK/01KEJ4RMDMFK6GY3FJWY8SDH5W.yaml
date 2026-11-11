@@ -1,0 +1,48 @@
+id: 01KEJ4RMDMFK6GY3FJWY8SDH5W
+type: image
+subtype: photo
+title: Blick vom Sparkasse auf das Tischlerei Bruns
+description: Farbfoto, leicht verblasst.
+date: 1985-12-18
+location: Lenzen, Kaufmannshaus
+geocode:
+  lat: 53.0399
+  lon: 11.5988
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Dachboden, Truhe
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v93516
+subjects:
+  - name: Kapern
+    type: place
+  - name: Dorfkrug
+    type: building
+  - name: Hochwasser 1985
+    type: event
+parents:
+  - 01H46K9BSD0B1AGYJKV43CT13X
+files:
+  - role: main
+    original_name: scan_721.tif
+    path: files/13/8c/138c4f77af4047d03e1295a21ace744c55300d30ceb0c0e179e2f6a162e7f349/original.tif
+    sha256: 138c4f77af4047d03e1295a21ace744c55300d30ceb0c0e179e2f6a162e7f349
+    mime: image/tiff
+    bytes: 971422
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/13/8c/138c4f77af4047d03e1295a21ace744c55300d30ceb0c0e179e2f6a162e7f349/preview-400.d694963005cf.jpg
+        sha256: d694963005cfc38d4bfeed2a314585301f2f1e8c820e866426f028d76e9e1074
+        mime: image/jpeg
+        bytes: 75000
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

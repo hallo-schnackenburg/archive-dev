@@ -1,0 +1,40 @@
+id: 01KBAMWYAC48PDB0GXNZVDPC04
+type: document
+subtype: letter
+title: Korrespondenz Karl Wiegmann
+description: Mit Umschlag und Briefmarke.
+date: 1801-05-28
+origin:
+  name: Frieda Brandt
+  type: person
+  location: Lüchow
+recipient: Hans Prieß
+language: de
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Cumlosen
+    type: place
+parents:
+  - 01JBC9B9VKQH5QPSKH6RMD1TRT
+files:
+  - role: page
+    num: 1
+    original_name: letter_vdpc04_001.tif
+    path: files/5b/76/5b76d051dfcb17e4e33aeedb2a50c7b3fd1d35fa3f2dec3795f1814506b79894/original.tif
+    sha256: 5b76d051dfcb17e4e33aeedb2a50c7b3fd1d35fa3f2dec3795f1814506b79894
+    mime: image/tiff
+    bytes: 5090349
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5b/76/5b76d051dfcb17e4e33aeedb2a50c7b3fd1d35fa3f2dec3795f1814506b79894/preview-400.be4653a4b551.jpg
+        sha256: be4653a4b5519bac63d73fedfcace4cffd5e7fcdd1c0ab7237cf75e17a1476de
+        mime: image/jpeg
+        bytes: 81277
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

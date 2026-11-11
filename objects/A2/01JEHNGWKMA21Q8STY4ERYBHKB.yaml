@@ -1,0 +1,43 @@
+id: 01JEHNGWKMA21Q8STY4ERYBHKB
+type: image
+subtype: photo
+title: Kegelbahn in Lanz
+description: Aufnahme von Klaus Jeß.
+date: "1952"
+location: Salzwedel, Kirchstraße
+geocode:
+  lat: 53.0846
+  lon: 11.4817
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Pretzier
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Sparkasse
+    type: building
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: scan_467.tif
+    path: files/c0/99/c099bc1f67f165d36292e04cd18b93fab9b3e5c5b10eedd592f6a104390e09a5/original.tif
+    sha256: c099bc1f67f165d36292e04cd18b93fab9b3e5c5b10eedd592f6a104390e09a5
+    mime: image/tiff
+    bytes: 21980032
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c0/99/c099bc1f67f165d36292e04cd18b93fab9b3e5c5b10eedd592f6a104390e09a5/preview-400.e38d793dd126.jpg
+        sha256: e38d793dd1269bc31aae985605da7c6177960bbc7cb5f90e37d2d194ad3294c4
+        mime: image/jpeg
+        bytes: 45670
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

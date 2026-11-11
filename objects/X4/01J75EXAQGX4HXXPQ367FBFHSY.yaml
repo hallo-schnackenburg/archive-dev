@@ -1,0 +1,51 @@
+id: 01J75EXAQGX4HXXPQ367FBFHSY
+type: image
+subtype: print
+title: Gruß aus Wustrow
+date: 1701-08
+location: Rüterberg, Burgstraße
+geocode:
+  lat: 53.0379
+  lon: 11.5466
+  precision: town
+  source: osm
+origin:
+  name: Karl Sievers
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F 27/137
+  note: Schrank B
+subjects:
+  - name: Laase
+    type: place
+  - name: Erntedankfest 1701
+    type: event
+  - name: Straßenfest 1701
+    type: event
+parents:
+  - 01J0GVPF8CQ7XT4TS5V2ZE6DJJ
+files:
+  - role: main
+    original_name: scan_327.tif
+    path: files/95/44/9544d63f9d4e6101d261c7a831b69af17c0eb68df5294338e91c919c235f9e76/original.tif
+    sha256: 9544d63f9d4e6101d261c7a831b69af17c0eb68df5294338e91c919c235f9e76
+    mime: image/tiff
+    bytes: 23319299
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/95/44/9544d63f9d4e6101d261c7a831b69af17c0eb68df5294338e91c919c235f9e76/preview-400.59d4bd05f42e.jpg
+        sha256: 59d4bd05f42e5ac05931da6f805c9da2cb7cc83c51b4090385fa347f8bab570e
+        mime: image/jpeg
+        bytes: 54347
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

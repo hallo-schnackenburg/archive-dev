@@ -1,0 +1,38 @@
+id: 01K8YQVPZAN8J1GG27T6QF81ZX
+type: image
+subtype: photo
+title: Karl Wiegmann vor dem Försterei
+date: 1930-01
+location: Wustrow, Apotheke
+geocode:
+  lat: 53.0239
+  lon: 11.4731
+  precision: region
+  source: osm
+subjects:
+  - name: Tanzsaal
+    type: building
+  - name: Sparkasse
+    type: building
+  - name: Fährjubiläum 1930
+    type: event
+files:
+  - role: main
+    original_name: foto_6818.jpg
+    path: files/1c/ab/1cabb87d84bedd59f25a5bb535f78e542b95a473493ce067600c7e0644ba6179/original.jpg
+    sha256: 1cabb87d84bedd59f25a5bb535f78e542b95a473493ce067600c7e0644ba6179
+    mime: image/jpeg
+    bytes: 22275739
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/1c/ab/1cabb87d84bedd59f25a5bb535f78e542b95a473493ce067600c7e0644ba6179/preview-400.a2292c9e1c14.jpg
+        sha256: a2292c9e1c14887b74c543e3ac0cd527974f235dd9c47d68f9425b910cd052cb
+        mime: image/jpeg
+        bytes: 72130
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

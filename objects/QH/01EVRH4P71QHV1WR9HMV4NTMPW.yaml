@@ -1,0 +1,44 @@
+id: 01EVRH4P71QHV1WR9HMV4NTMPW
+type: image
+subtype: photo
+title: Einschulung 1894
+date: 1894-04
+location: Schnackenburg, Schulstraße
+origin:
+  name: Hans Hennings
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Album 23/032
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v90075
+subjects:
+  - name: Ortsbesichtigung 1894
+    type: event
+  - name: Günter Lemke
+    type: person
+parents:
+  - 01JDP1HT97BVWFD5H634MRB0GA
+files:
+  - role: main
+    original_name: P9117.jpg
+    path: files/ed/fe/edfe9a25eb23d39e5edc100c731dfe48090df43b39bd0c59cdd3c86638c8b935/original.jpg
+    sha256: edfe9a25eb23d39e5edc100c731dfe48090df43b39bd0c59cdd3c86638c8b935
+    mime: image/jpeg
+    bytes: 18021745
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ed/fe/edfe9a25eb23d39e5edc100c731dfe48090df43b39bd0c59cdd3c86638c8b935/preview-400.6e6e0e9be3a2.jpg
+        sha256: 6e6e0e9be3a286728d794edda8b725a2a5f153f26f46c50e856c97684584a053
+        mime: image/jpeg
+        bytes: 43439
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

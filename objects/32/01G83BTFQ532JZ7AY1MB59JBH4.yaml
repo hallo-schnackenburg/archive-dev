@@ -1,0 +1,45 @@
+id: 01G83BTFQ532JZ7AY1MB59JBH4
+type: image
+subtype: photo
+title: Friedrich Behrens, Porträt
+description: Aufnahme von Gisela Ahrens.
+date: 1931-07-17
+location: Arendsee, Schulstraße
+geocode:
+  lat: 53.0431
+  lon: 11.4513
+  precision: town
+  source: osm
+origin:
+  name: Gustav Voss
+  type: person
+  location: Gartow
+subjects:
+  - name: Poststelle
+    type: building
+  - name: Cumlosen
+    type: place
+  - name: Wilhelm Dreyer
+    type: person
+parents:
+  - 01HJPB419DCSVPH6S0SEYBKD5Z
+files:
+  - role: main
+    original_name: scan_766.tif
+    path: files/d8/26/d82699210165df0c6e3ea3cab208d92e4a9186c3033b81bea23e3f5fbdcaaf74/original.tif
+    sha256: d82699210165df0c6e3ea3cab208d92e4a9186c3033b81bea23e3f5fbdcaaf74
+    mime: image/tiff
+    bytes: 25528382
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d8/26/d82699210165df0c6e3ea3cab208d92e4a9186c3033b81bea23e3f5fbdcaaf74/preview-400.fc224ee654b2.jpg
+        sha256: fc224ee654b2864973a25a76cac518b8e0fca32c0723cae9372b2c840cbd7a8a
+        mime: image/jpeg
+        bytes: 76253
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01EW0GKBC7GCJM8WASV0JBX6A6
+type: image
+subtype: plan
+title: Bauplan Zollamt 1920
+date: 1920-07
+location: Restorf, Dorfstraße
+origin:
+  name: Ilse Voss
+  type: person
+  location: Lüchow
+subjects:
+  - name: Ortsbesichtigung 1920
+    type: event
+parents:
+  - 01GTF0FAKD2Z78BGPYW8ZV7JE5
+files:
+  - role: main
+    original_name: scan_752.tif
+    path: files/04/65/0465789c5cdd0b997bf376daebe88fd613cd95f920a4be7dc45d4a33b7ff0619/original.tif
+    sha256: 0465789c5cdd0b997bf376daebe88fd613cd95f920a4be7dc45d4a33b7ff0619
+    mime: image/tiff
+    bytes: 24579643
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/65/0465789c5cdd0b997bf376daebe88fd613cd95f920a4be7dc45d4a33b7ff0619/preview-400.5fd24a27210e.jpg
+        sha256: 5fd24a27210e625e061f36b951ce1a79354aa72ce205df190229c92b093670e0
+        mime: image/jpeg
+        bytes: 20619
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Datum nach Rückseite geschätzt.

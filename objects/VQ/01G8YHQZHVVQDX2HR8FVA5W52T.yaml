@@ -1,0 +1,43 @@
+id: 01G8YHQZHVVQDX2HR8FVA5W52T
+type: image
+subtype: plan
+title: Deichplan Dömitz bis Holtorf
+description: Maßstab 1:500.
+date: 1764~
+location: Nienwalde, Kirchstraße
+origin:
+  name: Otto Tiedemann
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Familie Dierks
+    type: person
+    location: Cumlosen
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Arendsee
+    type: place
+parents:
+  - 01KGHR1E94X26ENFVH4J79T0CP
+files:
+  - role: main
+    original_name: scan_830.tif
+    path: files/12/25/1225bebce1f6918a785a9a18e53f4c281451d6f81476bb191bed5169ced9af35/original.tif
+    sha256: 1225bebce1f6918a785a9a18e53f4c281451d6f81476bb191bed5169ced9af35
+    mime: image/tiff
+    bytes: 745458
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/12/25/1225bebce1f6918a785a9a18e53f4c281451d6f81476bb191bed5169ced9af35/preview-400.f9e4e7b62d1e.jpg
+        sha256: f9e4e7b62d1e469f6878d169c489fee49301eef72c2b4b9cb6e6bc0134fbe9bf
+        mime: image/jpeg
+        bytes: 44477
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

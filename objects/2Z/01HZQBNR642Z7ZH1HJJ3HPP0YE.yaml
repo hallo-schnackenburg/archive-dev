@@ -1,0 +1,47 @@
+id: 01HZQBNR642Z7ZH1HJJ3HPP0YE
+type: image
+subtype: photo
+title: Blick vom Brunnen am Markt auf das Pfarrhaus
+description: Farbfoto, leicht verblasst.
+date: 1908/1916
+location: Arendsee, Fährstraße
+geocode:
+  lat: 53.0901
+  lon: 11.5723
+  precision: region
+  source: osm
+origin:
+  name: Ingrid Harms
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  note: Kellerarchiv
+subjects:
+  - name: Karl Wegner
+    type: person
+parents:
+  - 01EZPB1VX62FRSWZHWBBH2D77Z
+files:
+  - role: main
+    original_name: scan_100.tif
+    path: files/9c/2a/9c2acdc7a89260fc3ddb2144bb225b4efc582a2a80351ebebf957b3d955b1425/original.tif
+    sha256: 9c2acdc7a89260fc3ddb2144bb225b4efc582a2a80351ebebf957b3d955b1425
+    mime: image/tiff
+    bytes: 12291455
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9c/2a/9c2acdc7a89260fc3ddb2144bb225b4efc582a2a80351ebebf957b3d955b1425/preview-400.7f80ac9ffec8.jpg
+        sha256: 7f80ac9ffec8c23146d37817afb7465e51948b17f92b15a251ec3240bbb0e7ad
+        mime: image/jpeg
+        bytes: 61687
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

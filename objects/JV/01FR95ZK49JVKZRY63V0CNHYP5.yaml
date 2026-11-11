@@ -1,0 +1,45 @@
+id: 01FR95ZK49JVKZRY63V0CNHYP5
+type: image
+subtype: photo
+title: Otto Ludolf, Porträt
+description: Aufnahme von Karl Meyer.
+date: "2004"
+location: Bömenzien, Hafenstraße
+geocode:
+  lat: 53.0241
+  lon: 11.4767
+  precision: town
+  source: osm
+origin:
+  name: Dieter Pape
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 5/113
+subjects:
+  - name: Kaufmannshaus
+    type: building
+files:
+  - role: main
+    original_name: P8000.jpg
+    path: files/68/46/68465d44e905bc2ea4b401433c70519e55e04239d1abe6accf3811a43b5221c1/original.jpg
+    sha256: 68465d44e905bc2ea4b401433c70519e55e04239d1abe6accf3811a43b5221c1
+    mime: image/jpeg
+    bytes: 21864433
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/68/46/68465d44e905bc2ea4b401433c70519e55e04239d1abe6accf3811a43b5221c1/preview-400.d87407c7c428.jpg
+        sha256: d87407c7c428daaca64359bfeff694ea0c0fb21e76f2eab908cd8651bd60fa83
+        mime: image/jpeg
+        bytes: 83914
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

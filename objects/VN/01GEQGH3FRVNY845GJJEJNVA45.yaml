@@ -1,0 +1,37 @@
+id: 01GEQGH3FRVNY845GJJEJNVA45
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Brandversicherung 1850
+description: Handschriftlich in Sütterlin.
+date: "1850"
+location: Gülden, Gartenstraße
+geocode:
+  lat: 53.0752
+  lon: 11.4527
+  precision: exact
+  source: osm
+origin:
+  name: Samtgemeinderat Brünkendorf
+  type: business
+  location: Brünkendorf
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 37/244
+subjects:
+  - name: Osterfeuer 1850
+    type: event
+storage: external
+external:
+  - type: website
+    site: Elbe-Zeitung online
+    retrieved: 2025-07-28
+  - type: archive
+    site: Stadtarchiv Salzwedel
+    uri: https://stadtarchiv-salzwedel.example.org/objekt/684989
+    reference: Rep. 136 Nr. 4337
+    note: Fotoserie, Nr. 3
+    retrieved: 2025-04-11

@@ -1,0 +1,35 @@
+id: 01H3DXF8E6J3M87DXX98B3NPSF
+type: image
+subtype: plan
+title: Deichplan Wootz bis Havelberg
+description: Tusche auf Transparentpapier.
+date: 1906?
+origin:
+  name: Klaus Hennings
+  type: person
+  location: Seedorf
+subjects:
+  - name: Lanz
+    type: place
+parents:
+  - 01GCVDVYZT1NS1DF3M44F3CN1W
+files:
+  - role: main
+    original_name: scan_094.tif
+    path: files/13/06/13067a9d8624bbba9568ba19256027c8f7853e92282a0da9d319dbee2f207005/original.tif
+    sha256: 13067a9d8624bbba9568ba19256027c8f7853e92282a0da9d319dbee2f207005
+    mime: image/tiff
+    bytes: 7755380
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/13/06/13067a9d8624bbba9568ba19256027c8f7853e92282a0da9d319dbee2f207005/preview-400.bf3cbaa07e19.jpg
+        sha256: bf3cbaa07e196f642905b6816d98cf00e06a83e15cce570ba6105fefae901b1f
+        mime: image/jpeg
+        bytes: 66676
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

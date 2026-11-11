@@ -1,0 +1,46 @@
+id: 01FGTDENA68VWKQMGRVFQNK2QF
+type: image
+subtype: drawing
+title: Heuberge, Aquarell, Gartow
+description: Mit Anmerkungen am Rand.
+date: "1842"
+location: Gülden, Brunnen am Markt
+geocode:
+  lat: 52.9615
+  lon: 11.6697
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Nitschke
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_110.tif
+    path: files/19/02/190272bbc4b3a3e34f587cf1cc20c230b3a35c8a7c78741f5096697aa1743647/original.tif
+    sha256: 190272bbc4b3a3e34f587cf1cc20c230b3a35c8a7c78741f5096697aa1743647
+    mime: image/tiff
+    bytes: 22220969
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/19/02/190272bbc4b3a3e34f587cf1cc20c230b3a35c8a7c78741f5096697aa1743647/preview-400.89f2b6841786.jpg
+        sha256: 89f2b68417865ae3e48db586f6a8d9390f71cdc0831dade6a011ad50d62aece9
+        mime: image/jpeg
+        bytes: 59280
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

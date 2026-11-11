@@ -1,0 +1,40 @@
+id: 01FAD5WD9XJ33ZBWND6E789WCM
+type: image
+subtype: drawing
+title: Skizze Gülden, Bahnhofstraße
+description: Bleistift auf Papier.
+date: 1955~
+location: Salzwedel, Hinter den Höfen
+origin:
+  name: Gisela Behrens
+  type: person
+  location: Dömitz
+subjects:
+  - name: Gustav Schwarz
+    type: person
+  - name: Karl Lemke
+    type: person
+  - name: Helga Lüders
+    type: person
+parents:
+  - 01KF2B6TP54JC25MG4X17B6G6E
+files:
+  - role: main
+    original_name: scan_541.tif
+    path: files/97/59/975997b35e4fc1bd02d227159415a2234e9b0742e7496bb0b7f258823dc7257a/original.tif
+    sha256: 975997b35e4fc1bd02d227159415a2234e9b0742e7496bb0b7f258823dc7257a
+    mime: image/tiff
+    bytes: 13002225
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/97/59/975997b35e4fc1bd02d227159415a2234e9b0742e7496bb0b7f258823dc7257a/preview-400.ab2b7b990717.jpg
+        sha256: ab2b7b990717393f3a4cdf19f1a51db5842fb814c76bafeff04ee7915691e20d
+        mime: image/jpeg
+        bytes: 64510
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

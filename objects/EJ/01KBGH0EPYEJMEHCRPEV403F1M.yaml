@@ -1,0 +1,40 @@
+id: 01KBGH0EPYEJMEHCRPEV403F1M
+type: image
+subtype: photo
+title: Tanzsaal nach dem Einschulung
+date: 1981-08-06
+location: Laase, Marktstraße
+geocode:
+  lat: 53.0138
+  lon: 11.5227
+  precision: region
+  source: osm
+origin:
+  name: Karl Garms
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Molkerei
+    type: building
+parents:
+  - 01J3V1AMRN38DQVKPXPMF1EE94
+files:
+  - role: main
+    original_name: scan_548.tif
+    path: files/b8/9f/b89f3834685d09952eae6f8926f9e070b302b27213b34355425ebfffa49f4b5a/original.tif
+    sha256: b89f3834685d09952eae6f8926f9e070b302b27213b34355425ebfffa49f4b5a
+    mime: image/tiff
+    bytes: 10136846
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b8/9f/b89f3834685d09952eae6f8926f9e070b302b27213b34355425ebfffa49f4b5a/preview-400.8da32f340534.jpg
+        sha256: 8da32f3405340c8f5635f81cd7a408b72500a885d5491f82dafb329cf2e1a7bf
+        mime: image/jpeg
+        bytes: 68348
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01FE2FQAD3NMH6PDDMSX39REB0
+type: image
+subtype: drawing
+title: Kirche St. Johannis, Aquarell, Gartow
+date: 1918-07
+origin:
+  name: Helga Dierks
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Familie Wiegmann
+    type: person
+    location: Wittenberge
+  reference: Plan 28/337
+subjects:
+  - name: Cumlosen
+    type: place
+files:
+  - role: main
+    original_name: scan_924.tif
+    path: files/5b/09/5b092e32db593656dc95234f87b6dfff6ef7afc8050f7a9ed4319a89e879c7dd/original.tif
+    sha256: 5b092e32db593656dc95234f87b6dfff6ef7afc8050f7a9ed4319a89e879c7dd
+    mime: image/tiff
+    bytes: 14201292
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/5b/09/5b092e32db593656dc95234f87b6dfff6ef7afc8050f7a9ed4319a89e879c7dd/preview-400.c06937ed9a4c.jpg
+        sha256: c06937ed9a4c1cffe80bf85e0f4ab68080801f28728939392f760ff044b835d6
+        mime: image/jpeg
+        bytes: 86434
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

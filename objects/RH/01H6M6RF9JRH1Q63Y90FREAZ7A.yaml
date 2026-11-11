@@ -1,0 +1,44 @@
+id: 01H6M6RF9JRH1Q63Y90FREAZ7A
+type: image
+subtype: plan
+title: Deichplan Wustrow bis Seedorf
+description: Mit handschriftlichen Ergänzungen.
+date: 1966-05-11
+location: Wittenberge, Dorfstraße
+geocode:
+  lat: 53.0656
+  lon: 11.5686
+  precision: region
+  source: osm
+origin:
+  name: Marta Burmester
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 23/042
+  note: Planschrank, Fach 3
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v59871
+files:
+  - role: main
+    original_name: scan_728.tif
+    path: files/04/f7/04f74c18baa86598a4c3357d6a91dfd49b8758092dca4b8716859e4b6ed068c7/original.tif
+    sha256: 04f74c18baa86598a4c3357d6a91dfd49b8758092dca4b8716859e4b6ed068c7
+    mime: image/tiff
+    bytes: 13803119
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/04/f7/04f74c18baa86598a4c3357d6a91dfd49b8758092dca4b8716859e4b6ed068c7/preview-400.63bfb144bee5.jpg
+        sha256: 63bfb144bee54a37194782563028ec8bc5eb1db871425a62844d56733a3e7244
+        mime: image/jpeg
+        bytes: 37262
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

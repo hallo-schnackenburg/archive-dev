@@ -1,0 +1,38 @@
+id: 01GMX7T2W0S7E2XN0DKRBH9N8H
+type: image
+subtype: plan
+title: Bauplan Tanzsaal 1893
+location: Gülden, Gutshaus
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Dachboden, Truhe
+subjects:
+  - name: Gartow
+    type: place
+  - name: Glockenweihe 1893
+    type: event
+parents:
+  - 01GQDM3ZFG19XY70Y5T88AY6HH
+files:
+  - role: main
+    original_name: scan_673.tif
+    path: files/27/be/27be85cbd50d0b671ea72588eb6a9cf63b4ee24e33a8c38ea02df6a0ac37321d/original.tif
+    sha256: 27be85cbd50d0b671ea72588eb6a9cf63b4ee24e33a8c38ea02df6a0ac37321d
+    mime: image/tiff
+    bytes: 2199743
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/27/be/27be85cbd50d0b671ea72588eb6a9cf63b4ee24e33a8c38ea02df6a0ac37321d/preview-400.9114713efaec.jpg
+        sha256: 9114713efaec21814f533258e5a2588f07e6945cf4e1a9babfd9e785dc280ebe
+        mime: image/jpeg
+        bytes: 21566
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

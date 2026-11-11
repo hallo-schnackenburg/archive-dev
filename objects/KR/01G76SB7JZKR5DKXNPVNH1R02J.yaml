@@ -1,0 +1,39 @@
+id: 01G76SB7JZKR5DKXNPVNH1R02J
+type: image
+subtype: photo
+title: Heinrich Ihde, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1913-05-21
+location: Hitzacker, Am Markt
+origin:
+  name: Wilhelm Burmester
+  type: person
+  location: Lüchow
+subjects:
+  - name: Richtfest 1913
+    type: event
+  - name: Eisgang 1913
+    type: event
+parents:
+  - 01JCYMRB83VZY8P4S2Q7H8E1H3
+  - 01KQE2MVHCH023HXPRAKNXXJ2W
+files:
+  - role: main
+    original_name: foto_2247.jpg
+    path: files/6c/f7/6cf71db2b9da3af92b27194772cadb2ac635b55aeee5024c9679a5bd09e13f60/original.jpg
+    sha256: 6cf71db2b9da3af92b27194772cadb2ac635b55aeee5024c9679a5bd09e13f60
+    mime: image/jpeg
+    bytes: 9726418
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/6c/f7/6cf71db2b9da3af92b27194772cadb2ac635b55aeee5024c9679a5bd09e13f60/preview-400.22f33dbb2a30.jpg
+        sha256: 22f33dbb2a30b4db70ef9a6ca7b0dbeeecb6a6e7013fbf75c7d3bbf3b278178c
+        mime: image/jpeg
+        bytes: 62750
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

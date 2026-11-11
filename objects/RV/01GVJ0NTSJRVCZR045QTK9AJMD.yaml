@@ -1,0 +1,33 @@
+id: 01GVJ0NTSJRVCZR045QTK9AJMD
+type: image
+subtype: print
+title: Lithographie Gärtnerei, Wootz
+date: 1729-06-07
+location: Wootz, Apotheke
+origin:
+  name: Wilhelm Garms
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Bahnhof
+    type: building
+files:
+  - role: main
+    original_name: scan_048.tif
+    path: files/03/93/0393fee7d95c30e2dcb3a7b03754cc0ce04c99dcbe1d460613f216e5d1c88fd6/original.tif
+    sha256: 0393fee7d95c30e2dcb3a7b03754cc0ce04c99dcbe1d460613f216e5d1c88fd6
+    mime: image/tiff
+    bytes: 8680289
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/03/93/0393fee7d95c30e2dcb3a7b03754cc0ce04c99dcbe1d460613f216e5d1c88fd6/preview-400.bbee96b32253.jpg
+        sha256: bbee96b32253ac8017f4b2ed1899ec31b62927cc1114eb2192122cca7449370e
+        mime: image/jpeg
+        bytes: 53746
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

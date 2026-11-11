@@ -1,0 +1,48 @@
+id: 01GYPCFFEZW487DBK8GJRKMRCC
+type: image
+subtype: print
+title: Postkarte Salzwedel, Dorfteich
+date: 1870-03-22
+location: Holtorf, Hafenstraße
+geocode:
+  lat: 53.0067
+  lon: 11.4666
+  precision: exact
+  source: osm
+origin:
+  name: Helga Ahrens
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro 35/067
+subjects:
+  - name: Bahnhof
+    type: building
+  - name: Dorfladen
+    type: building
+parents:
+  - 01FVB0ZV7D5S8N9566PY0PJ70J
+files:
+  - role: main
+    original_name: scan_357.tif
+    path: files/0e/57/0e575d60b6080339c83dcde561fdf681fda33c28039a432980b33f2affd879e5/original.tif
+    sha256: 0e575d60b6080339c83dcde561fdf681fda33c28039a432980b33f2affd879e5
+    mime: image/tiff
+    bytes: 9853461
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0e/57/0e575d60b6080339c83dcde561fdf681fda33c28039a432980b33f2affd879e5/preview-400.9fbcfd1f9825.jpg
+        sha256: 9fbcfd1f9825a40f3177b42b04f668a01591eef899974c0279b929c65c146d47
+        mime: image/jpeg
+        bytes: 73273
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

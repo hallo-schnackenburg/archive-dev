@@ -1,0 +1,51 @@
+id: 01G8RH7SQSZTBHHYEA2HWZK4RB
+type: image
+subtype: print
+title: Postkarte Laase, Sportplatz
+description: Kupferstich, koloriert.
+date: 1727?
+location: Restorf, Gemeindehaus
+geocode:
+  lat: 52.9188
+  lon: 11.4517
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Ahrens
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br/Album 21/047
+subjects:
+  - name: Kirmes 1727
+    type: event
+  - name: Hafen
+    type: building
+  - name: Richtfest 1727
+    type: event
+parents:
+  - 01JDP1HT97BVWFD5H634MRB0GA
+files:
+  - role: main
+    original_name: scan_290.tif
+    path: files/04/5c/045c6f75a11a3a23529fa28d919798f7f67fef3a49d861229870b49d024bbd4b/original.tif
+    sha256: 045c6f75a11a3a23529fa28d919798f7f67fef3a49d861229870b49d024bbd4b
+    mime: image/tiff
+    bytes: 26539664
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/04/5c/045c6f75a11a3a23529fa28d919798f7f67fef3a49d861229870b49d024bbd4b/preview-400.863e3ab6e4f1.jpg
+        sha256: 863e3ab6e4f131c867649a207131a078eae9bbd3054e209f6ed8c4b62e296be0
+        mime: image/jpeg
+        bytes: 87318
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

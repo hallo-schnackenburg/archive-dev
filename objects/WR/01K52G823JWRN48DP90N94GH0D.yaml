@@ -1,0 +1,33 @@
+id: 01K52G823JWRN48DP90N94GH0D
+type: image
+subtype: photo
+title: Heinrich Lemke vor dem Windmühle
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 2000-11-11
+location: Gollensdorf, Gutshaus
+origin:
+  name: Emma Meyer
+  type: person
+  location: Brünkendorf
+parents:
+  - 01M1YR053NPJBEH3Y4WNQMC2X8
+files:
+  - role: main
+    original_name: IMG_4111.jpg
+    path: files/7a/91/7a9123d3ecc1c629fc7ee3f9c79e41da45b222ee4ea0e8399b7de3cca0f8de3c/original.jpg
+    sha256: 7a9123d3ecc1c629fc7ee3f9c79e41da45b222ee4ea0e8399b7de3cca0f8de3c
+    mime: image/jpeg
+    bytes: 3895169
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/7a/91/7a9123d3ecc1c629fc7ee3f9c79e41da45b222ee4ea0e8399b7de3cca0f8de3c/preview-400.f1d6f8e11e78.jpg
+        sha256: f1d6f8e11e78f86e13685104edf69468ae004e8db272f2bc3e82f99f2e219437
+        mime: image/jpeg
+        bytes: 29829
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

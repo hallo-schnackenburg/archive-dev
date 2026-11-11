@@ -1,0 +1,35 @@
+id: 01FMWQHY2PN2TZMV2KFE1846SN
+type: image
+subtype: plan
+title: Deichplan Gollensdorf bis Rüterberg
+location: Gartow, Marktstraße
+origin:
+  name: Rudolf Klatt
+  type: person
+  location: Seedorf
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Windmühle
+    type: building
+files:
+  - role: main
+    original_name: scan_222.tif
+    path: files/f3/c4/f3c46e9f76d45ed13739f47d6cce60c537b0dd8f089796eaec64f5990709ca31/original.tif
+    sha256: f3c46e9f76d45ed13739f47d6cce60c537b0dd8f089796eaec64f5990709ca31
+    mime: image/tiff
+    bytes: 12245094
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f3/c4/f3c46e9f76d45ed13739f47d6cce60c537b0dd8f089796eaec64f5990709ca31/preview-400.93b51f626e94.jpg
+        sha256: 93b51f626e945ee26e84c37b01a789c1e85c8db45ba9ad48b6334c9532ca1861
+        mime: image/jpeg
+        bytes: 72995
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Doppelt vorhanden?

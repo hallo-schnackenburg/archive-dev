@@ -1,0 +1,40 @@
+id: 01EV2XP78T9H7HEWDW7VHTCFQB
+type: image
+subtype: drawing
+title: Federzeichnung Grenzturm
+description: Mit Anmerkungen am Rand.
+date: 1863-03-27
+location: Lenzen, Gartenstraße
+origin:
+  name: Erika Lemke
+  type: person
+  location: Kapern
+subjects:
+  - name: Wassermühle
+    type: building
+  - name: Cumlosen
+    type: place
+  - name: Fährjubiläum 1863
+    type: event
+parents:
+  - 01HXAPP619H88A03THR4YYNB5Y
+files:
+  - role: main
+    original_name: scan_088.tif
+    path: files/ec/b0/ecb08013c76508a0fbd6fef0549e6f213e4eaed05601625c4fc3a0863a3b2125/original.tif
+    sha256: ecb08013c76508a0fbd6fef0549e6f213e4eaed05601625c4fc3a0863a3b2125
+    mime: image/tiff
+    bytes: 8947681
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ec/b0/ecb08013c76508a0fbd6fef0549e6f213e4eaed05601625c4fc3a0863a3b2125/preview-400.c55afdd13fa8.jpg
+        sha256: c55afdd13fa89396cebb07a0d8c1d2792ac95b387c3a60993f402401331e4176
+        mime: image/jpeg
+        bytes: 48780
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

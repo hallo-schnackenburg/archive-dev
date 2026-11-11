@@ -1,0 +1,36 @@
+id: 01J2BZ9SKGY0MP7CC4TEHA7SFH
+type: image
+subtype: photo
+title: Karl Gaede, Porträt
+description: Zu sehen sind Elbdeich und Rathaus.
+date: 198X
+location: Brünkendorf, Gartenstraße
+subjects:
+  - name: Erika Garms
+    type: person
+  - name: Ilse Jeß
+    type: person
+  - name: Nienwalde
+    type: place
+parents:
+  - 01J0GVPF8CQ7XT4TS5V2ZE6DJJ
+files:
+  - role: main
+    original_name: scan_836.tif
+    path: files/4c/60/4c60c9a23574389add6d720fea6f4f2828613f435d60b654d94e975cc3cd20bd/original.tif
+    sha256: 4c60c9a23574389add6d720fea6f4f2828613f435d60b654d94e975cc3cd20bd
+    mime: image/tiff
+    bytes: 17745637
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4c/60/4c60c9a23574389add6d720fea6f4f2828613f435d60b654d94e975cc3cd20bd/preview-400.fb0b9632dddd.jpg
+        sha256: fb0b9632dddd65fe4a0f130cda2edc257454baf7fe9677d669ff0a39f4c2783d
+        mime: image/jpeg
+        bytes: 70763
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01HPQ77JH5ZCC7BR2M7XPBKWRC
+type: image
+subtype: photo
+title: Karl Meyer, Porträt
+location: Holtorf, Kirchstraße
+geocode:
+  lat: 53.0608
+  lon: 11.5618
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 21/021
+files:
+  - role: main
+    original_name: scan_048.tif
+    path: files/5c/08/5c08fb31770db3d977fb3302151fff540f6d92738876f5488047825c414e5f50/original.tif
+    sha256: 5c08fb31770db3d977fb3302151fff540f6d92738876f5488047825c414e5f50
+    mime: image/tiff
+    bytes: 27690906
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5c/08/5c08fb31770db3d977fb3302151fff540f6d92738876f5488047825c414e5f50/preview-400.5aed69f9c44d.jpg
+        sha256: 5aed69f9c44d294fba9183f6e31d1bf194dce12a2a1563fd4014db2901d9d667
+        mime: image/jpeg
+        bytes: 46806
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

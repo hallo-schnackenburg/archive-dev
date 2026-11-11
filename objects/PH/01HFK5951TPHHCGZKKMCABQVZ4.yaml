@@ -1,0 +1,40 @@
+id: 01HFK5951TPHHCGZKKMCABQVZ4
+type: image
+subtype: plan
+title: Bauplan Pumpenhaus 1827
+description: Maßstab 1:2500.
+date: 182X
+location: Wittenberge, Schlachterei
+origin:
+  name: Heinrich Neumann
+  type: person
+  location: Dömitz
+subjects:
+  - name: Bömenzien
+    type: place
+  - name: Viehmarkt 1827
+    type: event
+  - name: Sabine Eggers
+    type: person
+parents:
+  - 01H9CNJDBS1SSSX64VPG1WAVEE
+files:
+  - role: main
+    original_name: scan_395.tif
+    path: files/d8/d3/d8d3ef4df33ee314cc7723b92ec163b65e6fb39ca15aac6a49faf9387cdf6c86/original.tif
+    sha256: d8d3ef4df33ee314cc7723b92ec163b65e6fb39ca15aac6a49faf9387cdf6c86
+    mime: image/tiff
+    bytes: 24343310
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d8/d3/d8d3ef4df33ee314cc7723b92ec163b65e6fb39ca15aac6a49faf9387cdf6c86/preview-400.219878122f21.jpg
+        sha256: 219878122f21212ba9265a7ac5384b3ea4e405860006857cee277ab2289092e5
+        mime: image/jpeg
+        bytes: 55632
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01KDQQ2CJGFFM7AYS3VD09XM3R
+type: image
+subtype: photo
+title: Familie Fricke beim Hochwasser
+description: Abzug im Format 9 x 13 cm.
+date: 1915-08
+location: Havelberg, Apotheke
+origin:
+  name: August Tiedemann
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F 33/099
+subjects:
+  - name: Rudolf Lenz
+    type: person
+  - name: Hochwasser 1915
+    type: event
+parents:
+  - 01FRHHN2TXE6MJ0TDGG4SGYAWP
+files:
+  - role: main
+    original_name: IMG_7119.jpg
+    path: files/95/25/9525f31769879b8b3d2c8cadfc3cf2f00b73689c700b356f4576886aa34e7cf6/original.jpg
+    sha256: 9525f31769879b8b3d2c8cadfc3cf2f00b73689c700b356f4576886aa34e7cf6
+    mime: image/jpeg
+    bytes: 2069955
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/95/25/9525f31769879b8b3d2c8cadfc3cf2f00b73689c700b356f4576886aa34e7cf6/preview-400.9acf71908595.jpg
+        sha256: 9acf71908595db3bcd31b3b872df0093992d1bb66841147542ff3d6599e22c71
+        mime: image/jpeg
+        bytes: 84403
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

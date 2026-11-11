@@ -1,0 +1,34 @@
+id: 01KA62H04NR1R1W47AM1VXQXG3
+type: image
+subtype: plan
+title: Bauplan Hafen 1932
+date: "1932"
+location: Holtorf, Ziegelei
+geocode:
+  lat: 52.906
+  lon: 11.6566
+  precision: town
+  source: osm
+origin:
+  name: Ernst Voss
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Beerdigung 1932
+    type: event
+  - name: Lanz
+    type: place
+parents:
+  - 01EV4688KBXRNWBE8H1MYHF0WE
+storage: external
+external:
+  - type: website
+    site: Elbe-Zeitung online
+    uri: https://elbe-zeitung-online.example.org/objekt/993833
+    note: Seiten 12–19
+    retrieved: 2025-04-13
+  - type: archive
+    site: Bundesarchiv
+    uri: https://bundesarchiv.example.org/objekt/835044
+    reference: NLA 58 Nr. 2279
+    retrieved: 2026-04-28

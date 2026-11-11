@@ -1,0 +1,38 @@
+id: 01HZN8Y008XAB2ACJ20CCKJHGD
+type: image
+subtype: print
+title: Postkarte Lenzen, Heuberge
+date: 1862-06
+origin:
+  name: Karl Rohde
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Wilhelm Garms
+    type: person
+  - name: Holtorf
+    type: place
+  - name: Fastnacht 1862
+    type: event
+parents:
+  - 01J60ZPHNFEPSYPBYBQHSWMT7Y
+files:
+  - role: main
+    original_name: scan_733.tif
+    path: files/ae/1f/ae1fa61ea173424dca37114bd80ef35f577a5960bd061902a140a7ba0f673502/original.tif
+    sha256: ae1fa61ea173424dca37114bd80ef35f577a5960bd061902a140a7ba0f673502
+    mime: image/tiff
+    bytes: 5882050
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ae/1f/ae1fa61ea173424dca37114bd80ef35f577a5960bd061902a140a7ba0f673502/preview-400.6dc11f5bafdd.jpg
+        sha256: 6dc11f5bafdd9fb6a73cf1590ae666d2b6ca554d7cce1029de55cebd39878eb4
+        mime: image/jpeg
+        bytes: 25257
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

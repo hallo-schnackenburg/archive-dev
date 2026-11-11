@@ -1,0 +1,50 @@
+id: 01GYZEBET0XCT2AER9EPYNWA4K
+type: image
+subtype: photo
+title: Blick vom Badestelle auf das Schmiede
+description: Farbfoto, leicht verblasst.
+date: 1910-08-20
+location: Hitzacker, Lange Straße
+geocode:
+  lat: 52.9442
+  lon: 11.5165
+  precision: street
+  source: osm
+origin:
+  name: Otto Jeß
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Brunnen am Markt
+    type: building
+  - name: Schlachtfest 1910
+    type: event
+  - name: Holtorf
+    type: place
+parents:
+  - 01HJMR4YWKHDFKNS8WPV4XDY2Z
+files:
+  - role: main
+    original_name: scan_518.tif
+    path: files/12/5e/125e185ba78427b5e5272f539a80b6477a5c78b155caed16b02bb13422f60688/original.tif
+    sha256: 125e185ba78427b5e5272f539a80b6477a5c78b155caed16b02bb13422f60688
+    mime: image/tiff
+    bytes: 5352243
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/12/5e/125e185ba78427b5e5272f539a80b6477a5c78b155caed16b02bb13422f60688/preview-400.2ca881312832.jpg
+        sha256: 2ca881312832ad79eb2d73c4a761fa3b88cb3641d8233629ea7615b6b8c06351
+        mime: image/jpeg
+        bytes: 46298
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

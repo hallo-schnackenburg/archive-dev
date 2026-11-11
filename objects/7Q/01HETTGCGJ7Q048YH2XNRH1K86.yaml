@@ -1,0 +1,44 @@
+id: 01HETTGCGJ7Q048YH2XNRH1K86
+type: image
+subtype: photo
+title: Ortsbesichtigung 1899
+description: Aufnahme von Fritz Brandt.
+location: Dömitz, Schulstraße
+origin:
+  name: Elfriede Albers
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 18/068
+subjects:
+  - name: Erika Bohlmann
+    type: person
+  - name: Cumlosen
+    type: place
+parents:
+  - 01GF7F3QMSJY20DYHT7HM8AFKR
+  - 01GVT1XHSVEKN4VCH3XGAC134Y
+files:
+  - role: main
+    original_name: foto_9774.jpg
+    path: files/04/5f/045fb2d4a15186eb9af9eda54bf1da0f19b73cf14180c849ad5713cc3f5a5f74/original.jpg
+    sha256: 045fb2d4a15186eb9af9eda54bf1da0f19b73cf14180c849ad5713cc3f5a5f74
+    mime: image/jpeg
+    bytes: 1336433
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/04/5f/045fb2d4a15186eb9af9eda54bf1da0f19b73cf14180c849ad5713cc3f5a5f74/preview-400.e17af568da04.jpg
+        sha256: e17af568da041fcde3cae24ad3b1dae9afc81ddfdc4b4e29f363fbb692f46e40
+        mime: image/jpeg
+        bytes: 71101
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

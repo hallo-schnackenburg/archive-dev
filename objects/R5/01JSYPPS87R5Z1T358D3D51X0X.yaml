@@ -1,0 +1,46 @@
+id: 01JSYPPS87R5Z1T358D3D51X0X
+type: image
+subtype: drawing
+title: Skizze Arendsee, Bahnhofstraße, Wittenberge
+description: Bleistift auf Papier.
+date: 1860-01
+location: Pretzier, Mühle
+origin:
+  name: Fritz Voss
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok/Mappe 7/021
+subjects:
+  - name: Karl Stoll
+    type: person
+  - name: Kindergartenfest 1860
+    type: event
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01GKNYMFKHFES83J477ZEHD22T
+files:
+  - role: main
+    original_name: scan_798.tif
+    path: files/45/61/45614ccd83e5bb57c045c172117ec4b5a9cbc80d7a29de126a4ad21ebb9d4074/original.tif
+    sha256: 45614ccd83e5bb57c045c172117ec4b5a9cbc80d7a29de126a4ad21ebb9d4074
+    mime: image/tiff
+    bytes: 27564258
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/45/61/45614ccd83e5bb57c045c172117ec4b5a9cbc80d7a29de126a4ad21ebb9d4074/preview-400.d4fb63d22654.jpg
+        sha256: d4fb63d22654878a04caf399573fc9e001de91e27ca949351a7cd4144e1aa282
+        mime: image/jpeg
+        bytes: 89624
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,72 @@
+id: 01F8AMS4KZNC9KZ2Z060NDA2XC
+type: document
+subtype: letter
+title: Erika Kuhlmann an die Gemeinde wegen Wohnungsnot
+location: Salzwedel, Fährstraße
+geocode:
+  lat: 52.9787
+  lon: 11.4638
+  precision: region
+  source: osm
+origin:
+  name: Erika Lemke
+  type: person
+  location: Schnackenburg
+recipient: Karl Wiese
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Schrank B
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Hochzeit 1857
+    type: event
+  - name: Fährjubiläum 1857
+    type: event
+parents:
+  - 01JSYB7Z03WSNMJ0H37E7BWCQW
+files:
+  - role: page
+    num: 1
+    original_name: letter_nda2xc_001.tif
+    path: files/40/61/40619bbdd19bfc0577c0c1c09d6a142a4aceaca5d5863f1368ed9a76814254b4/original.tif
+    sha256: 40619bbdd19bfc0577c0c1c09d6a142a4aceaca5d5863f1368ed9a76814254b4
+    mime: image/tiff
+    bytes: 10914202
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/61/40619bbdd19bfc0577c0c1c09d6a142a4aceaca5d5863f1368ed9a76814254b4/preview-400.d0ca14dc2da6.jpg
+        sha256: d0ca14dc2da676cef073c472db81a1cb12fb12b8739ff1b82529d173b245c93d
+        mime: image/jpeg
+        bytes: 84667
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_nda2xc_002.tif
+    path: files/70/83/708366be4f8f7ba4c15c107bcd80e442351291dd3b1178b11b32d65f1cdacf35/original.tif
+    sha256: 708366be4f8f7ba4c15c107bcd80e442351291dd3b1178b11b32d65f1cdacf35
+    mime: image/tiff
+    bytes: 20393700
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/70/83/708366be4f8f7ba4c15c107bcd80e442351291dd3b1178b11b32d65f1cdacf35/preview-400.df725c5456fc.jpg
+        sha256: df725c5456fc314825a8f19ca1f2ee021baaaed3aa536c5ed8b2ac2e2431bb6e
+        mime: image/jpeg
+        bytes: 80035
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

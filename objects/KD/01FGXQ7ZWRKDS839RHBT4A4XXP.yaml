@@ -1,0 +1,33 @@
+id: 01FGXQ7ZWRKDS839RHBT4A4XXP
+type: image
+subtype: plan
+title: Lageplan Fachwerkhaus Marktstraße 4
+description: Tusche auf Transparentpapier.
+location: Gollensdorf, Bäckerei Lüders
+origin:
+  name: Elfriede Jeß
+  type: person
+  location: Lüchow
+subjects:
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: scan_185.tif
+    path: files/f1/bb/f1bb48346365459fb24b11bd4f8897a86f43ccc4aa9149063aa53c8df9820b3f/original.tif
+    sha256: f1bb48346365459fb24b11bd4f8897a86f43ccc4aa9149063aa53c8df9820b3f
+    mime: image/tiff
+    bytes: 9757002
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f1/bb/f1bb48346365459fb24b11bd4f8897a86f43ccc4aa9149063aa53c8df9820b3f/preview-400.5b2e9b1d692a.jpg
+        sha256: 5b2e9b1d692a8a1eb83c538905d037d8062234e97e4c91b7fff095dcde26d108
+        mime: image/jpeg
+        bytes: 48530
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,62 @@
+id: 01KH2CQSTSGBZEJPYV2A4F63P6
+type: document
+subtype: note
+title: Quittung für Rudolf Lüders
+description: Auf der Rückseite eines Formulars.
+date: 190X
+location: Wootz, Hinter den Höfen
+geocode:
+  lat: 53.0364
+  lon: 11.6275
+  precision: exact
+  source: osm
+origin:
+  name: Wilhelm Dierks
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Dieter Gaede
+    type: person
+parents:
+  - 01J035Y4PJ757ZX8Y4WBMZGKNQ
+files:
+  - role: page
+    num: 1
+    original_name: note_4f63p6_001.tif
+    path: files/0e/88/0e883c5d5bd08273e94da20c51f0bacf3741317b875b2e15228035607c296e37/original.tif
+    sha256: 0e883c5d5bd08273e94da20c51f0bacf3741317b875b2e15228035607c296e37
+    mime: image/tiff
+    bytes: 7966141
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0e/88/0e883c5d5bd08273e94da20c51f0bacf3741317b875b2e15228035607c296e37/preview-400.2059f357dfb7.jpg
+        sha256: 2059f357dfb7edff5cdf7e7c65116ad8709369d939e7c4a8156c78aba7158b50
+        mime: image/jpeg
+        bytes: 56433
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_4f63p6_002.tif
+    path: files/31/f8/31f8765099acb635cb8393a7bb8c35bb9f469151fcf0e569d7d8d282f78c99c6/original.tif
+    sha256: 31f8765099acb635cb8393a7bb8c35bb9f469151fcf0e569d7d8d282f78c99c6
+    mime: image/tiff
+    bytes: 10672011
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/31/f8/31f8765099acb635cb8393a7bb8c35bb9f469151fcf0e569d7d8d282f78c99c6/preview-400.9e8fe60972de.jpg
+        sha256: 9e8fe60972def031214766ad211b2660139e8e3fd4574657b4cccba42ab62188
+        mime: image/jpeg
+        bytes: 43716
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

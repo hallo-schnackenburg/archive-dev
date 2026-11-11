@@ -1,0 +1,45 @@
+id: 01HAVG3CPPAPP2D8W15CQYWPQV
+type: image
+subtype: print
+title: Gruß aus Wootz, Laase
+description: Postkarte, gelaufen 1947.
+date: 1743-05-02
+location: Restorf, Bahnhofstraße
+origin:
+  name: Ernst Bohlmann
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 27/058
+  note: Dachboden, Truhe
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Deicharbeiten 1743
+    type: event
+parents:
+  - 01J5DJ7A6MS3KE1Z0TKMZBQRP7
+files:
+  - role: main
+    original_name: scan_514.tif
+    path: files/fb/6c/fb6cbecbe70958473916248b354a0cc5f685639252eb4ef7fc46100f285b4235/original.tif
+    sha256: fb6cbecbe70958473916248b354a0cc5f685639252eb4ef7fc46100f285b4235
+    mime: image/tiff
+    bytes: 20749199
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/fb/6c/fb6cbecbe70958473916248b354a0cc5f685639252eb4ef7fc46100f285b4235/preview-400.77735ecbcbc8.jpg
+        sha256: 77735ecbcbc853a8ec2d9b8643cbdb9d081f5299d6179e43864fe0a1bae814de
+        mime: image/jpeg
+        bytes: 36257
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,61 @@
+id: 01F2FGBYM9A5F5YC3RFHBF6HJ2
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Nienwalde 1856
+description: Anwesend waren 9 Personen.
+date: 1856-09-20
+location: Gülden, Försterei
+geocode:
+  lat: 52.9992
+  lon: 11.6723
+  precision: town
+  source: osm
+origin:
+  name: Stadtrat Laase
+  type: business
+  location: Cumlosen
+language: de
+subjects:
+  - name: Dorfschule
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: protocol_bf6hj2_001.tif
+    path: files/9e/03/9e0314f56941ecf0bb414709b6878c976b7b3f7a09fc6ad3d3ad918cc4bba167/original.tif
+    sha256: 9e0314f56941ecf0bb414709b6878c976b7b3f7a09fc6ad3d3ad918cc4bba167
+    mime: image/tiff
+    bytes: 26794860
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9e/03/9e0314f56941ecf0bb414709b6878c976b7b3f7a09fc6ad3d3ad918cc4bba167/preview-400.31814667aae0.jpg
+        sha256: 31814667aae01b9919e48124398b916b5b59c28b2522f6e903c8ad5cad2a809d
+        mime: image/jpeg
+        bytes: 87777
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_bf6hj2_002.tif
+    path: files/15/86/15869403b8b2b50838318d668dd41f6f1f3aa3536d8b15cc5813f5a4b2357a23/original.tif
+    sha256: 15869403b8b2b50838318d668dd41f6f1f3aa3536d8b15cc5813f5a4b2357a23
+    mime: image/tiff
+    bytes: 26014514
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/15/86/15869403b8b2b50838318d668dd41f6f1f3aa3536d8b15cc5813f5a4b2357a23/preview-400.cb311ef654a0.jpg
+        sha256: cb311ef654a08499e354636843bfd0e30282defcd048a7ae2b133d2220c355cc
+        mime: image/jpeg
+        bytes: 25719
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

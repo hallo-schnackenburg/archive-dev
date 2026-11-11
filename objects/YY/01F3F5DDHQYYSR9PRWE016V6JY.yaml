@@ -1,0 +1,36 @@
+id: 01F3F5DDHQYYSR9PRWE016V6JY
+type: image
+subtype: print
+title: Postkarte Kapern, Gasthof „Zur Elbe“
+description: Lithographie, Rand beschnitten.
+date: "1891"
+location: Zadrau, Elbstraße
+origin:
+  name: Wilhelm Wegner
+  type: person
+  location: Dömitz
+subjects:
+  - name: Heuberge
+    type: building
+  - name: Apotheke
+    type: building
+files:
+  - role: main
+    original_name: scan_982.tif
+    path: files/45/da/45da8e19f5a1b24295a5198c81ab6b91d0b680a1ca028d437f579e6ef22e621b/original.tif
+    sha256: 45da8e19f5a1b24295a5198c81ab6b91d0b680a1ca028d437f579e6ef22e621b
+    mime: image/tiff
+    bytes: 3707305
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/45/da/45da8e19f5a1b24295a5198c81ab6b91d0b680a1ca028d437f579e6ef22e621b/preview-400.b5ef99e950c2.jpg
+        sha256: b5ef99e950c28e523c37d81e6e8b8e446a1b8d8b9a7c222050af2cc3f844bf42
+        mime: image/jpeg
+        bytes: 32548
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

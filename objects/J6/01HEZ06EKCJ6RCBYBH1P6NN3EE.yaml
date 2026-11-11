@@ -1,0 +1,51 @@
+id: 01HEZ06EKCJ6RCBYBH1P6NN3EE
+type: document
+subtype: letter
+title: Korrespondenz Karl Ludolf
+date: 1798-05
+location: Gollensdorf, Heuberge
+geocode:
+  lat: 53.0675
+  lon: 11.5508
+  precision: street
+  source: osm
+origin:
+  name: Günter Schulz
+  type: person
+  location: Dömitz
+recipient: Fritz Wiegmann
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Fotos 34/170
+subjects:
+  - name: Karl Rohde
+    type: person
+  - name: Wittenberge
+    type: place
+  - name: Gollensdorf
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_6nn3ee_001.tif
+    path: files/cd/35/cd3564dda2574a87d9a0b895c8ea1a7fcfab13abe428d6777d90ad6192caf170/original.tif
+    sha256: cd3564dda2574a87d9a0b895c8ea1a7fcfab13abe428d6777d90ad6192caf170
+    mime: image/tiff
+    bytes: 7152748
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/35/cd3564dda2574a87d9a0b895c8ea1a7fcfab13abe428d6777d90ad6192caf170/preview-400.fbfb06b7c5e5.jpg
+        sha256: fbfb06b7c5e5e7f241b93176730e3e0c9657caccaa682d79dcb952865ee3e0a9
+        mime: image/jpeg
+        bytes: 76718
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01GZ59VBA65A3Q15RQ8AB6591W
+type: image
+subtype: photo
+title: Grenzturm nach dem Weihnachtsmarkt
+date: 196X
+location: Gartow, Mühlenweg
+subjects:
+  - name: Laase
+    type: place
+  - name: Schmiede
+    type: building
+  - name: Kartoffelernte 1963
+    type: event
+parents:
+  - 01G2TCR62BVVGQGXN7R02P1CQQ
+  - 01F46MZG12HDJQK9Z29HPTQV9B
+files:
+  - role: main
+    original_name: scan_910.tif
+    path: files/2d/f8/2df8238df5554ffa59964da1caea47e5ee3f40238d79dffe68009f80dfd4a2cf/original.tif
+    sha256: 2df8238df5554ffa59964da1caea47e5ee3f40238d79dffe68009f80dfd4a2cf
+    mime: image/tiff
+    bytes: 19224953
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/2d/f8/2df8238df5554ffa59964da1caea47e5ee3f40238d79dffe68009f80dfd4a2cf/preview-400.d554ceb6f7fe.jpg
+        sha256: d554ceb6f7fe4f665c1f17e812eb6fd47eeecd0a5a65ae3e57f5f8bd87a042ec
+        mime: image/jpeg
+        bytes: 55007
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

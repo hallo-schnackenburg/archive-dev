@@ -1,0 +1,47 @@
+id: 01F41EK5P8MC3H8PTG3CWB4HD8
+type: document
+subtype: letter
+title: Brief von Marta Meyer an Irmgard Krüger
+description: Betrifft Grenzverkehr.
+date: 1822-01-15
+location: Lanz, Dorfkrug
+geocode:
+  lat: 52.9609
+  lon: 11.5119
+  precision: region
+  source: osm
+origin:
+  name: Gisela Dreyer
+  type: person
+  location: Lüchow
+recipient: Fritz Schulz
+subjects:
+  - name: Apotheke
+    type: building
+  - name: Einweihung 1822
+    type: event
+  - name: Dömitz
+    type: place
+parents:
+  - 01F084MHNWGJ7D7S7TBCXZMMB2
+files:
+  - role: page
+    num: 1
+    original_name: letter_wb4hd8_001.tif
+    path: files/2c/51/2c51db95455b709826c29d248fa45aa24225c6b8d79273249e718b033992c788/original.tif
+    sha256: 2c51db95455b709826c29d248fa45aa24225c6b8d79273249e718b033992c788
+    mime: image/tiff
+    bytes: 14956960
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2c/51/2c51db95455b709826c29d248fa45aa24225c6b8d79273249e718b033992c788/preview-400.edab63134c0e.jpg
+        sha256: edab63134c0ee5ebdb178dde27b8a6dd3e8277de342150657a190dc370a01f27
+        mime: image/jpeg
+        bytes: 82373
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

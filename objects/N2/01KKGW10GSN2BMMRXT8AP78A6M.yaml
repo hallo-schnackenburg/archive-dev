@@ -1,0 +1,42 @@
+id: 01KKGW10GSN2BMMRXT8AP78A6M
+type: image
+subtype: print
+title: "Holzschnitt: Beerdigung, Wustrow"
+date: "1743"
+origin:
+  name: August Tiedemann
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 18/363
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Kegelbahn
+    type: building
+parents:
+  - 01F4HYKHGYRFV335Z3P04PNKHW
+files:
+  - role: main
+    original_name: scan_720.tif
+    path: files/c6/21/c621f5f61b9004f2f6addedfd4fdde4e4d6a98ddfe43097fc358fc4456f8cd5c/original.tif
+    sha256: c621f5f61b9004f2f6addedfd4fdde4e4d6a98ddfe43097fc358fc4456f8cd5c
+    mime: image/tiff
+    bytes: 766410
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c6/21/c621f5f61b9004f2f6addedfd4fdde4e4d6a98ddfe43097fc358fc4456f8cd5c/preview-400.e8d3005e1b65.jpg
+        sha256: e8d3005e1b65de5bdd4a68eb216f6e0515f6ca6d039aebbe98b7c96a215a8641
+        mime: image/jpeg
+        bytes: 46057
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01G3Z4Q9VH0E99T15ADTJ43AYJ
+type: image
+subtype: drawing
+title: Poststelle, Aquarell
+description: Mit Anmerkungen am Rand.
+date: "1895"
+location: Cumlosen, Am Markt
+geocode:
+  lat: 53.0181
+  lon: 11.6915
+  precision: exact
+  source: osm
+origin:
+  name: Marta Behrens
+  type: person
+  location: Seedorf
+subjects:
+  - name: Backhaus
+    type: building
+  - name: Weihnachtsmarkt 1895
+    type: event
+  - name: Brunnen am Markt
+    type: building
+files:
+  - role: main
+    original_name: scan_282.tif
+    path: files/ae/25/ae25a65e9f5109dc98ff966e17b9fb5fe22666156b8cb44246b1d5746ff61bbf/original.tif
+    sha256: ae25a65e9f5109dc98ff966e17b9fb5fe22666156b8cb44246b1d5746ff61bbf
+    mime: image/tiff
+    bytes: 907842
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ae/25/ae25a65e9f5109dc98ff966e17b9fb5fe22666156b8cb44246b1d5746ff61bbf/preview-400.b3ac61aaf931.jpg
+        sha256: b3ac61aaf931def976ab84312dcf1b84e8406b1e19825fd26f20aeaaac084b2d
+        mime: image/jpeg
+        bytes: 31728
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

@@ -1,0 +1,42 @@
+id: 01FX18SQK8RD8F82J4JD30EPFA
+type: image
+subtype: print
+title: Postkarte Holtorf, Kirche St. Johannis
+description: Lithographie, Rand beschnitten.
+date: 1796/1797
+location: Seedorf, Elbstraße
+origin:
+  name: Erika Prieß
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 11/234
+subjects:
+  - name: Walter Rieke
+    type: person
+  - name: Osterfeuer 1796
+    type: event
+files:
+  - role: main
+    original_name: scan_080.tif
+    path: files/08/77/0877925a7b50318b25379ce0580b5d8631d144889eced2fde2ebd35b62da7996/original.tif
+    sha256: 0877925a7b50318b25379ce0580b5d8631d144889eced2fde2ebd35b62da7996
+    mime: image/tiff
+    bytes: 4786377
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/08/77/0877925a7b50318b25379ce0580b5d8631d144889eced2fde2ebd35b62da7996/preview-400.f886a4454065.jpg
+        sha256: f886a4454065b90b3086d04c0baefae4e6414cce39e5b91f79ca147e518ca0e0
+        mime: image/jpeg
+        bytes: 77636
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

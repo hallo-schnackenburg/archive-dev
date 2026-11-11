@@ -1,0 +1,42 @@
+id: 01HT7CF86WG4KJ3M0BN8HBN5FQ
+type: image
+subtype: photo
+title: Bahnhofstraße, Ecke Am Markt
+description: Aufnahme von Elfriede Lüders.
+date: "1947"
+location: Lenzen, Fährstraße
+origin:
+  name: Fritz Matthies
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Mappe 24/056
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Gutshaus
+    type: building
+files:
+  - role: main
+    original_name: scan_960.tif
+    path: files/19/d2/19d233241176cfaf24b5e7f64b51eb19f1ea3a5cbf86adadc0e1c649c8d695bd/original.tif
+    sha256: 19d233241176cfaf24b5e7f64b51eb19f1ea3a5cbf86adadc0e1c649c8d695bd
+    mime: image/tiff
+    bytes: 14531239
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/19/d2/19d233241176cfaf24b5e7f64b51eb19f1ea3a5cbf86adadc0e1c649c8d695bd/preview-400.57aee25556bd.jpg
+        sha256: 57aee25556bd6621aea9a0f3e43f7c285e2fa7f80c1a7039f50da9a8af6c3e5b
+        mime: image/jpeg
+        bytes: 77157
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

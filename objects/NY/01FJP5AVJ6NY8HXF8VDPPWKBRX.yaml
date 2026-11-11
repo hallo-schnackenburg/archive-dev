@@ -1,0 +1,37 @@
+id: 01FJP5AVJ6NY8HXF8VDPPWKBRX
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Kindergartenfest, Gartow"
+date: 1871-01-07
+origin:
+  name: Walter Meyer
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Rüterberg
+  reference: Slg 25/128
+parents:
+  - 01FDA5WD2HAQWVA4SE72GX6KEJ
+files:
+  - role: main
+    original_name: scan_384.tif
+    path: files/33/ff/33ff37d5861452dbe5e1def9913eca2551710d938c780b5b3adc2e96364efce4/original.tif
+    sha256: 33ff37d5861452dbe5e1def9913eca2551710d938c780b5b3adc2e96364efce4
+    mime: image/tiff
+    bytes: 22255338
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/33/ff/33ff37d5861452dbe5e1def9913eca2551710d938c780b5b3adc2e96364efce4/preview-400.078d27ec392c.jpg
+        sha256: 078d27ec392cd488a2c9a5eef95a71729e278fc696eb853cef6abb7b1365962b
+        mime: image/jpeg
+        bytes: 80838
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

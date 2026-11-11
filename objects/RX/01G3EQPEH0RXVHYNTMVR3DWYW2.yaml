@@ -1,0 +1,44 @@
+id: 01G3EQPEH0RXVHYNTMVR3DWYW2
+type: image
+subtype: drawing
+title: Skizze Arendsee, Elbstraße
+date: 1851-02
+location: Pretzier, Marktstraße
+origin:
+  name: Emma Bruns
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan 37/271
+  note: Schrank B
+subjects:
+  - name: Maifeier 1851
+    type: event
+  - name: Osterfeuer 1851
+    type: event
+parents:
+  - 01GPX56NY6DD91HTSCGYG7TKDB
+files:
+  - role: main
+    original_name: scan_692.tif
+    path: files/6e/c3/6ec30e2ad9e3868868e59eb9fa73102b031f5135f05e69e61128fa163290d0a7/original.tif
+    sha256: 6ec30e2ad9e3868868e59eb9fa73102b031f5135f05e69e61128fa163290d0a7
+    mime: image/tiff
+    bytes: 26383811
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/c3/6ec30e2ad9e3868868e59eb9fa73102b031f5135f05e69e61128fa163290d0a7/preview-400.7ccf2e655a0f.jpg
+        sha256: 7ccf2e655a0f87b7e180ab3abb03439c3deb22e8e489f6173db5b5e0488774e6
+        mime: image/jpeg
+        bytes: 58088
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

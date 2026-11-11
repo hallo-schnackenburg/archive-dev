@@ -1,0 +1,44 @@
+id: 01FJCCGB36RQ7E12253HDFZVXW
+type: image
+subtype: photo
+title: Familie Neumann beim Maifeier
+date: 1946/1950
+location: Laase, Fährstraße
+geocode:
+  lat: 53.0968
+  lon: 11.5155
+  precision: street
+  source: osm
+origin:
+  name: Ursula Wiegmann
+  type: person
+  location: Wootz
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Anni Wöhlk
+    type: person
+  - name: Holtorf
+    type: place
+parents:
+  - 01GPX56NY6DD91HTSCGYG7TKDB
+files:
+  - role: main
+    original_name: P4657.jpg
+    path: files/ce/db/cedbc698b3f9d0c909ebadf506c487a0185cc9bf235209b7745899a428e5a51b/original.jpg
+    sha256: cedbc698b3f9d0c909ebadf506c487a0185cc9bf235209b7745899a428e5a51b
+    mime: image/jpeg
+    bytes: 17853002
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/ce/db/cedbc698b3f9d0c909ebadf506c487a0185cc9bf235209b7745899a428e5a51b/preview-400.ec4f4b7d9e41.jpg
+        sha256: ec4f4b7d9e41c5237f80187057d8b6bdc6c7347fe484b50a866cf7aecd939f00
+        mime: image/jpeg
+        bytes: 45990
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

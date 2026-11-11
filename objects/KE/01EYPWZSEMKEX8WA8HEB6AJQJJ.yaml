@@ -1,0 +1,35 @@
+id: 01EYPWZSEMKEX8WA8HEB6AJQJJ
+type: image
+subtype: photo
+title: Gemeindehaus in Wootz
+date: "1953"
+location: Laase, Burgstraße
+geocode:
+  lat: 53.0436
+  lon: 11.4714
+  precision: region
+  source: osm
+origin:
+  name: Dieter Stoll
+  type: person
+  location: Arendsee
+files:
+  - role: main
+    original_name: scan_074.tif
+    path: files/65/62/65620902858ba2603aca9d913fcf85bad9c262cc586f4751423d6916e52de7f2/original.tif
+    sha256: 65620902858ba2603aca9d913fcf85bad9c262cc586f4751423d6916e52de7f2
+    mime: image/tiff
+    bytes: 24077246
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/65/62/65620902858ba2603aca9d913fcf85bad9c262cc586f4751423d6916e52de7f2/preview-400.29d26cbf791e.jpg
+        sha256: 29d26cbf791ea61f80e7ba43833afb591ae9e1ff27a42f8605e429cb3a69d137
+        mime: image/jpeg
+        bytes: 49701
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

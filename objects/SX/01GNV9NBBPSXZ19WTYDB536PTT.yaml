@@ -1,0 +1,51 @@
+id: 01GNV9NBBPSXZ19WTYDB536PTT
+type: image
+subtype: drawing
+title: Entwurf für Kriegerdenkmal, Pretzier
+description: Bleistift auf Papier.
+date: "1842"
+location: Lüchow, Burgstraße
+geocode:
+  lat: 52.9622
+  lon: 11.6971
+  precision: region
+  source: osm
+origin:
+  name: Karl Schulz
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Mappe 1/089
+subjects:
+  - name: Feuerwehrübung 1842
+    type: event
+  - name: Schützenfest 1842
+    type: event
+  - name: Storchennest
+    type: building
+parents:
+  - 01F88NE4NP6MTSKBG15MEZQEXV
+files:
+  - role: main
+    original_name: scan_766.tif
+    path: files/25/ab/25ab47b5645c0d165d623d9bfa18af0b8b6175113a0677b8e6f0e2474a039c95/original.tif
+    sha256: 25ab47b5645c0d165d623d9bfa18af0b8b6175113a0677b8e6f0e2474a039c95
+    mime: image/tiff
+    bytes: 19275053
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/25/ab/25ab47b5645c0d165d623d9bfa18af0b8b6175113a0677b8e6f0e2474a039c95/preview-400.6f1f0d7e582d.jpg
+        sha256: 6f1f0d7e582d2f1a6dd555ba93ae2dcd03327e3620d94843eaf33711d53dee73
+        mime: image/jpeg
+        bytes: 23770
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

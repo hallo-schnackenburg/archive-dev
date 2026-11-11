@@ -1,0 +1,37 @@
+id: 01EXNHWJP2WFADKTM7RKKKZH6V
+type: image
+subtype: photo
+title: Straßenfest 1930
+description: Abzug im Format 10 x 15 cm.
+date: 1930-08
+location: Gülden, Burgstraße
+origin:
+  name: Marta Rieke
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg 1/244
+files:
+  - role: main
+    original_name: scan_337.tif
+    path: files/10/08/1008043e1f59e42cc7a9668055119f4efc71a01ec112ba1b23cccbd1ab83bd34/original.tif
+    sha256: 1008043e1f59e42cc7a9668055119f4efc71a01ec112ba1b23cccbd1ab83bd34
+    mime: image/tiff
+    bytes: 4063530
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/10/08/1008043e1f59e42cc7a9668055119f4efc71a01ec112ba1b23cccbd1ab83bd34/preview-400.6fd28d7925f7.jpg
+        sha256: 6fd28d7925f7f19bd54705134550fccf10813a86bc4fb368101e168e823676fc
+        mime: image/jpeg
+        bytes: 27328
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

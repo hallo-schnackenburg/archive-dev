@@ -1,0 +1,62 @@
+id: 01J70SFQRJ7W4QDK6DF79WDD0H
+type: document
+subtype: note
+title: Quittung für Ernst Meyer
+date: 199X
+location: Lüchow, Lange Straße
+geocode:
+  lat: 53.0496
+  lon: 11.6523
+  precision: exact
+  source: osm
+language: de
+subjects:
+  - name: Heinrich Voss
+    type: person
+  - name: Marta Sievers
+    type: person
+  - name: Feuerwehrhaus
+    type: building
+parents:
+  - 01GV9GBAAY8D1BK0CQF82R0YYD
+files:
+  - role: page
+    num: 1
+    original_name: note_9wdd0h_001.tif
+    path: files/3e/44/3e443beed50c63dd8f92d7661ea24f02aae7cfab719f02c69530a5a0506db113/original.tif
+    sha256: 3e443beed50c63dd8f92d7661ea24f02aae7cfab719f02c69530a5a0506db113
+    mime: image/tiff
+    bytes: 411974
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/44/3e443beed50c63dd8f92d7661ea24f02aae7cfab719f02c69530a5a0506db113/preview-400.0a870330f66d.jpg
+        sha256: 0a870330f66dc66db16af690694b7145adbe23c641128d30eee5cd2be3705ad0
+        mime: image/jpeg
+        bytes: 85984
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_9wdd0h_002.tif
+    path: files/34/df/34dff6e907f746a6dc6010ce55d2be8094ba5fe1eb2c9aeabdeae14957be15c6/original.tif
+    sha256: 34dff6e907f746a6dc6010ce55d2be8094ba5fe1eb2c9aeabdeae14957be15c6
+    mime: image/tiff
+    bytes: 1353637
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/34/df/34dff6e907f746a6dc6010ce55d2be8094ba5fe1eb2c9aeabdeae14957be15c6/preview-400.5b197ba9bd50.jpg
+        sha256: 5b197ba9bd50c77a6ab81efbf2bd5e6252a51a2c578edb8ca8f23e18f1cb1929
+        mime: image/jpeg
+        bytes: 55200
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

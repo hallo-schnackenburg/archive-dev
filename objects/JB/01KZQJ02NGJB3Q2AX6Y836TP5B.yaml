@@ -1,0 +1,40 @@
+id: 01KZQJ02NGJB3Q2AX6Y836TP5B
+type: image
+subtype: photo
+title: Eisgang 1978
+description: Aufnahme von Günter Krüger.
+date: 1978/1990
+location: Salzwedel, Apotheke
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Osterfeuer 1978
+    type: event
+parents:
+  - 01EYD0F18CY2V0SS2SY7TJVC0D
+files:
+  - role: main
+    original_name: P6625.jpg
+    path: files/e8/98/e898d07ab2920c5cfaa3b5c1b069824a53da95a9a96cfbea464057417106ff30/original.jpg
+    sha256: e898d07ab2920c5cfaa3b5c1b069824a53da95a9a96cfbea464057417106ff30
+    mime: image/jpeg
+    bytes: 17063685
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/e8/98/e898d07ab2920c5cfaa3b5c1b069824a53da95a9a96cfbea464057417106ff30/preview-400.9536ff52b2b7.jpg
+        sha256: 9536ff52b2b7b49291f4e397f6340f6d19a19bb0e7d46b5e53712e79a1803af4
+        mime: image/jpeg
+        bytes: 48766
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

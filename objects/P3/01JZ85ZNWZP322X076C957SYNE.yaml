@@ -1,0 +1,43 @@
+id: 01JZ85ZNWZP322X076C957SYNE
+type: image
+subtype: print
+title: Lithographie Speicher, Seedorf
+description: Postkarte, gelaufen 1911.
+date: "1914"
+location: Nienwalde, Bahnhofstraße
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F/Album 15/042
+subjects:
+  - name: Fritz Matthies
+    type: person
+  - name: Kindergarten
+    type: building
+  - name: Rudolf Brandt
+    type: person
+parents:
+  - 01HSN5QZ6JGHWHBF50F9VB0XTK
+  - 01GEC3BDXTCY5KT0RTA97873HE
+files:
+  - role: main
+    original_name: scan_953.tif
+    path: files/dd/8a/dd8ac90b0d44819cae8548edd1ef50d523b7270f78fcd81f383915f9e286d2eb/original.tif
+    sha256: dd8ac90b0d44819cae8548edd1ef50d523b7270f78fcd81f383915f9e286d2eb
+    mime: image/tiff
+    bytes: 6516618
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/dd/8a/dd8ac90b0d44819cae8548edd1ef50d523b7270f78fcd81f383915f9e286d2eb/preview-400.1b0a8ca56eee.jpg
+        sha256: 1b0a8ca56eeeb7754449784f90f34871364d80cdb76234bb101214d08a1d96a0
+        mime: image/jpeg
+        bytes: 21071
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

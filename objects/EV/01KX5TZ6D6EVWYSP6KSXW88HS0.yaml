@@ -1,0 +1,51 @@
+id: 01KX5TZ6D6EVWYSP6KSXW88HS0
+type: document
+subtype: note
+title: Rechnung Vogt, Dorfkrug
+description: Beleg mit Stempel.
+date: "1877"
+location: Bömenzien, Dorfstraße
+geocode:
+  lat: 53.047
+  lon: 11.6745
+  precision: street
+  source: osm
+origin:
+  name: Walter Kuhlmann
+  type: person
+  location: Hitzacker
+language: de
+owner:
+  name: Wilhelm Voss
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Hans Behrens
+    type: person
+  - name: Schlachtfest 1877
+    type: event
+  - name: Storchennest
+    type: building
+parents:
+  - 01JZKNVKBS64VYGFSCYTCB6QDJ
+files:
+  - role: page
+    num: 1
+    original_name: note_w88hs0_001.tif
+    path: files/af/24/af2497e5be5311edec802e75339ffc8da8ba0dc5327846b131e5ed90481f38d0/original.tif
+    sha256: af2497e5be5311edec802e75339ffc8da8ba0dc5327846b131e5ed90481f38d0
+    mime: image/tiff
+    bytes: 7192064
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/af/24/af2497e5be5311edec802e75339ffc8da8ba0dc5327846b131e5ed90481f38d0/preview-400.6d3dee6ed28d.jpg
+        sha256: 6d3dee6ed28d2537b1c15de8b4576f2f0c70d0db40b9a16316d580bd91160360
+        mime: image/jpeg
+        bytes: 43415
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

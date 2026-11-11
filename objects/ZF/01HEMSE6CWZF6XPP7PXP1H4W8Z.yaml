@@ -1,0 +1,36 @@
+id: 01HEMSE6CWZF6XPP7PXP1H4W8Z
+type: image
+subtype: photo
+title: Ernst Jeß, Porträt
+description: Aufnahme von Karl Hennings.
+date: "1912"
+location: Wustrow, Dorfstraße
+origin:
+  name: Karl Voss
+  type: person
+  location: Zadrau
+subjects:
+  - name: Elbdeich
+    type: building
+  - name: Karl Kuhlmann
+    type: person
+files:
+  - role: main
+    original_name: IMG_2157.jpg
+    path: files/87/22/87221d422746bf60a0d991b099e93820548d2f0cd0d6b3b0c9a31a997137238f/original.jpg
+    sha256: 87221d422746bf60a0d991b099e93820548d2f0cd0d6b3b0c9a31a997137238f
+    mime: image/jpeg
+    bytes: 9786330
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/87/22/87221d422746bf60a0d991b099e93820548d2f0cd0d6b3b0c9a31a997137238f/preview-400.17305e70d607.jpg
+        sha256: 17305e70d607b4c3bcc028602789c91639f12aeaf279e0fdb911088b04732dce
+        mime: image/jpeg
+        bytes: 75533
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

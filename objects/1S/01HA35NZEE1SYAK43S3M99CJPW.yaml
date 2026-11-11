@@ -1,0 +1,38 @@
+id: 01HA35NZEE1SYAK43S3M99CJPW
+type: image
+subtype: plan
+title: Deichplan Brünkendorf bis Wustrow
+date: 1808-04-02
+origin:
+  name: Emma Klatt
+  type: person
+  location: Gartow
+subjects:
+  - name: Wilhelm Bohlmann
+    type: person
+  - name: Laase
+    type: place
+  - name: Kapern
+    type: place
+parents:
+  - 01JP20QWTYZEWRGFHPQXP5662Q
+files:
+  - role: main
+    original_name: scan_890.tif
+    path: files/90/f5/90f5eff82afe93dad43d942cb828fcb7dd077843ac5b032a04d7cdd38556179e/original.tif
+    sha256: 90f5eff82afe93dad43d942cb828fcb7dd077843ac5b032a04d7cdd38556179e
+    mime: image/tiff
+    bytes: 14359831
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/90/f5/90f5eff82afe93dad43d942cb828fcb7dd077843ac5b032a04d7cdd38556179e/preview-400.9b80bf08177c.jpg
+        sha256: 9b80bf08177cdaa1f5120daa5eeb6886951180bddf64a60dbc07f6a1dc8dcea0
+        mime: image/jpeg
+        bytes: 71742
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

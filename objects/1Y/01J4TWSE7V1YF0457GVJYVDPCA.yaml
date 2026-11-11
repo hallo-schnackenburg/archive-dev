@@ -1,0 +1,58 @@
+id: 01J4TWSE7V1YF0457GVJYVDPCA
+type: document
+subtype: note
+title: "Handschriftliche Notiz: Kirmes"
+date: 1904-12-20
+location: Schnackenburg, Hafenstraße
+geocode:
+  lat: 52.9427
+  lon: 11.51
+  precision: street
+  source: osm
+origin:
+  name: Horst Lenz
+  type: person
+  location: Lanz
+parents:
+  - 01J2MAW622CTKQ3RF50GE3CC82
+files:
+  - role: page
+    num: 1
+    original_name: note_yvdpca_001.tif
+    path: files/8c/1e/8c1e6818593c4c33d61b58d29ee3be842a4eed532e19a0ec49d14e92fc4d5717/original.tif
+    sha256: 8c1e6818593c4c33d61b58d29ee3be842a4eed532e19a0ec49d14e92fc4d5717
+    mime: image/tiff
+    bytes: 14124772
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8c/1e/8c1e6818593c4c33d61b58d29ee3be842a4eed532e19a0ec49d14e92fc4d5717/preview-400.10be6c71a313.jpg
+        sha256: 10be6c71a31367acce30a38f95802bdc4f9a390d27269cd26f174c7d6a669272
+        mime: image/jpeg
+        bytes: 73419
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_yvdpca_002.tif
+    path: files/47/54/4754ef3f311b6110b71c89109b5f29782fb4b9cd1d4aaa3e7fb2532752543d08/original.tif
+    sha256: 4754ef3f311b6110b71c89109b5f29782fb4b9cd1d4aaa3e7fb2532752543d08
+    mime: image/tiff
+    bytes: 16344738
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/47/54/4754ef3f311b6110b71c89109b5f29782fb4b9cd1d4aaa3e7fb2532752543d08/preview-400.77de7fa46ee0.jpg
+        sha256: 77de7fa46ee0cbcfa424bb29ef5a3ea8755dcdfdae2d60fc13fd6182ca86d9bb
+        mime: image/jpeg
+        bytes: 23056
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

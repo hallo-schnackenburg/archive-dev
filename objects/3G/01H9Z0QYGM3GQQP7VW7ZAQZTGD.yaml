@@ -1,0 +1,40 @@
+id: 01H9Z0QYGM3GQQP7VW7ZAQZTGD
+type: image
+subtype: photo
+title: Beerdigung 1929
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1929-01-06
+location: Restorf, Hafenstraße
+origin:
+  name: August Detlefs
+  type: person
+  location: Havelberg
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Gerda Hennings
+    type: person
+  - name: Pretzier
+    type: place
+parents:
+  - 01K17ANV6BS1YN44GQNBJ2A6CF
+files:
+  - role: main
+    original_name: IMG_4827.jpg
+    path: files/78/a7/78a724fe38e3023b94f5721d86597ec08298d0d367271ee29db9c31e0695a68c/original.jpg
+    sha256: 78a724fe38e3023b94f5721d86597ec08298d0d367271ee29db9c31e0695a68c
+    mime: image/jpeg
+    bytes: 13284738
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/78/a7/78a724fe38e3023b94f5721d86597ec08298d0d367271ee29db9c31e0695a68c/preview-400.70c64e934014.jpg
+        sha256: 70c64e93401496820b5e2186e7087dd59987e25b3cf6384dbaf230f664ab5071
+        mime: image/jpeg
+        bytes: 29780
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

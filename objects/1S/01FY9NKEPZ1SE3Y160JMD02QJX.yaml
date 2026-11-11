@@ -1,0 +1,42 @@
+id: 01FY9NKEPZ1SE3Y160JMD02QJX
+type: image
+subtype: photo
+title: Blick vom Försterei auf das Feuerwehrhaus
+description: Zu sehen sind Ladestraße und Elbdeich.
+location: Gollensdorf, Sportplatz
+geocode:
+  lat: 52.9373
+  lon: 11.6593
+  precision: region
+  source: osm
+origin:
+  name: Karl Jeß
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Fritz Lenz
+    type: person
+  - name: Hans Matthies
+    type: person
+parents:
+  - 01KP71Y1ZJN9JAVT84GFKBTVMW
+files:
+  - role: main
+    original_name: P5901.jpg
+    path: files/d6/61/d661c800f230adfc005dae04cb02e1f299e74b6be3d83429f1e28b23a87182b4/original.jpg
+    sha256: d661c800f230adfc005dae04cb02e1f299e74b6be3d83429f1e28b23a87182b4
+    mime: image/jpeg
+    bytes: 17960065
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/d6/61/d661c800f230adfc005dae04cb02e1f299e74b6be3d83429f1e28b23a87182b4/preview-400.69ad8aec54bf.jpg
+        sha256: 69ad8aec54bf9e4b393997dca138c8342d2b38aaec908ca316dd0ac5ab1e7379
+        mime: image/jpeg
+        bytes: 87293
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

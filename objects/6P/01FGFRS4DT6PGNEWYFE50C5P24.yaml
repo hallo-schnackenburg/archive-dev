@@ -1,0 +1,48 @@
+id: 01FGFRS4DT6PGNEWYFE50C5P24
+type: image
+subtype: plan
+title: Bauplan Gutshaus 1931
+description: Mit handschriftlichen Ergänzungen.
+date: 1931-11-17
+location: Rüterberg, Heuberge
+origin:
+  name: Walter Hennings
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 30/276
+subjects:
+  - name: Marta Pape
+    type: person
+  - name: Zadrau
+    type: place
+  - name: Weihnachtsmarkt 1931
+    type: event
+parents:
+  - 01JF4KWKVRQTHC2EW4F1D004T1
+  - 01FE51YC393SEJ3F0E3BYAZ1NB
+files:
+  - role: main
+    original_name: scan_153.tif
+    path: files/ad/83/ad83f7fc6f270662cde1cb54ff1ec1b38f0131435123eb51966e29cfbd05cf1c/original.tif
+    sha256: ad83f7fc6f270662cde1cb54ff1ec1b38f0131435123eb51966e29cfbd05cf1c
+    mime: image/tiff
+    bytes: 15641734
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ad/83/ad83f7fc6f270662cde1cb54ff1ec1b38f0131435123eb51966e29cfbd05cf1c/preview-400.48ca5e5b2da2.jpg
+        sha256: 48ca5e5b2da2eae47486fa9d9cd80c4cda981235cee26d6d4237d646ea392653
+        mime: image/jpeg
+        bytes: 72566
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

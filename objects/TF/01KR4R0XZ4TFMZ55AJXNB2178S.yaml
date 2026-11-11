@@ -1,0 +1,41 @@
+id: 01KR4R0XZ4TFMZ55AJXNB2178S
+type: image
+subtype: photo
+title: Hochwasser 1959
+description: Aufnahme von Gerda Jeß.
+date: 1959-02
+origin:
+  name: Heinz Gerdes
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg/Album 19/052
+subjects:
+  - name: Einschulung 1959
+    type: event
+  - name: Straßenfest 1959
+    type: event
+files:
+  - role: main
+    original_name: DSC3361.jpg
+    path: files/ec/8b/ec8b0d701752671fef65e515eaa7b2de8a3f661af7bb42c8c0d41a827d7ec7e9/original.jpg
+    sha256: ec8b0d701752671fef65e515eaa7b2de8a3f661af7bb42c8c0d41a827d7ec7e9
+    mime: image/jpeg
+    bytes: 21901180
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ec/8b/ec8b0d701752671fef65e515eaa7b2de8a3f661af7bb42c8c0d41a827d7ec7e9/preview-400.adfec0800ebd.jpg
+        sha256: adfec0800ebd5eb7ef278691bb07a18dec512f258bd2c1a4a5fe3faab14a6697
+        mime: image/jpeg
+        bytes: 24258
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

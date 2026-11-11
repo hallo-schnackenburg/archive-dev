@@ -1,0 +1,42 @@
+id: 01EY3ZWS8QNPAC5D8A0ZZXM420
+type: image
+subtype: plan
+title: Bauplan Tanzsaal 1846
+date: 1846-12-11
+location: Schnackenburg, Dorfstraße
+origin:
+  name: Marta Meyer
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 12/034
+subjects:
+  - name: Otto Wegner
+    type: person
+parents:
+  - 01H46K9BSD0B1AGYJKV43CT13X
+  - 01FPG45DMCQ4FJ212ZPBZF1YR1
+files:
+  - role: main
+    original_name: scan_930.tif
+    path: files/32/19/3219090fc7d18845aaa433a213c59d93b730c56dbc55eec63b66f843a9a79a4c/original.tif
+    sha256: 3219090fc7d18845aaa433a213c59d93b730c56dbc55eec63b66f843a9a79a4c
+    mime: image/tiff
+    bytes: 24198162
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/32/19/3219090fc7d18845aaa433a213c59d93b730c56dbc55eec63b66f843a9a79a4c/preview-400.2f7023a4c367.jpg
+        sha256: 2f7023a4c3674c4fde0e0b77b6fd358dfc5f8b731b45641c3091e21f3c597afc
+        mime: image/jpeg
+        bytes: 48313
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

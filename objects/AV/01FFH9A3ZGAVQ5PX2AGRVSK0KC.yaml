@@ -1,0 +1,45 @@
+id: 01FFH9A3ZGAVQ5PX2AGRVSK0KC
+type: image
+subtype: plan
+title: Bauplan Bäckerei Lüders 1841
+description: Tusche auf Transparentpapier.
+date: 1841~
+origin:
+  name: Käthe Krüger
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Wilhelm Schulz
+    type: person
+  - name: Fähranleger
+    type: building
+  - name: Gärtnerei
+    type: building
+parents:
+  - 01EZPB1VX62FRSWZHWBBH2D77Z
+files:
+  - role: main
+    original_name: scan_958.tif
+    path: files/08/05/0805476a9b47c8fc8957d73d8508421822db41dde9e689c128ee7b0e4a995a5b/original.tif
+    sha256: 0805476a9b47c8fc8957d73d8508421822db41dde9e689c128ee7b0e4a995a5b
+    mime: image/tiff
+    bytes: 6980052
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/08/05/0805476a9b47c8fc8957d73d8508421822db41dde9e689c128ee7b0e4a995a5b/preview-400.3e9bb903c681.jpg
+        sha256: 3e9bb903c681f5105f4dbc9557b18e9aa7c26011222b54acfd8b725e5ad3b129
+        mime: image/jpeg
+        bytes: 41971
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01K23JXSNGKMERQXD3QBAQ09P7
+type: image
+subtype: photo
+title: Apotheke in Wustrow
+description: Zu sehen sind Schützenhaus und Badestelle.
+location: Lenzen, Am Elbdeich
+origin:
+  name: Walter Matthies
+  type: person
+  location: Lüchow
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Tischlerei Bruns
+    type: building
+  - name: Dieter Brandt
+    type: person
+parents:
+  - 01KVCSCGQMX3Z8B4CPCNEPWYV0
+files:
+  - role: main
+    original_name: P4444.jpg
+    path: files/a2/8f/a28f4ef385f2646a4d80dcbfb6cc592df345829d97ee2333c5707838aa65898f/original.jpg
+    sha256: a28f4ef385f2646a4d80dcbfb6cc592df345829d97ee2333c5707838aa65898f
+    mime: image/jpeg
+    bytes: 27943469
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/a2/8f/a28f4ef385f2646a4d80dcbfb6cc592df345829d97ee2333c5707838aa65898f/preview-400.a58b66812fc8.jpg
+        sha256: a58b66812fc8765dbf5d5b09a10384b20548d2c9e3c70b2da63ed74ccfc1258a
+        mime: image/jpeg
+        bytes: 33804
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

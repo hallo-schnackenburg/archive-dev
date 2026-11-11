@@ -1,0 +1,35 @@
+id: 01FAWC6GY92WHNTP2A2VB23NRX
+type: image
+subtype: photo
+title: Erika Ahrens, Porträt
+description: Zu sehen sind Poststelle und Bahnhof.
+date: 1963-11
+location: Gülden, Lange Straße
+geocode:
+  lat: 52.9735
+  lon: 11.5388
+  precision: town
+  source: osm
+subjects:
+  - name: Zadrau
+    type: place
+files:
+  - role: main
+    original_name: DSC3689.jpg
+    path: files/79/92/79923491f0ddea951b33ccaf2a62b18482ba5e8701ef107fcecb0f16a499c806/original.jpg
+    sha256: 79923491f0ddea951b33ccaf2a62b18482ba5e8701ef107fcecb0f16a499c806
+    mime: image/jpeg
+    bytes: 23862341
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/79/92/79923491f0ddea951b33ccaf2a62b18482ba5e8701ef107fcecb0f16a499c806/preview-400.070074f27aa2.jpg
+        sha256: 070074f27aa28b5ab6772b30d19b745fa86d6227a7694697c85dd7c271996740
+        mime: image/jpeg
+        bytes: 54131
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

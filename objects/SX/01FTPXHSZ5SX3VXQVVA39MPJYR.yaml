@@ -1,0 +1,46 @@
+id: 01FTPXHSZ5SX3VXQVVA39MPJYR
+type: image
+subtype: plan
+title: Deichplan Bömenzien bis Lüchow
+date: 1774~
+location: Laase, Lange Straße
+geocode:
+  lat: 53.0821
+  lon: 11.4669
+  precision: exact
+  source: osm
+origin:
+  name: Renate Hennings
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 34/352
+subjects:
+  - name: Anni Schulz
+    type: person
+parents:
+  - 01K4CSV2ZP5WMZZB5PTYVKX9F7
+files:
+  - role: main
+    original_name: scan_947.tif
+    path: files/25/f6/25f67f1fbe703abba76607265c41ef4cfa4e4dacf45290e68fbe255b196ba456/original.tif
+    sha256: 25f67f1fbe703abba76607265c41ef4cfa4e4dacf45290e68fbe255b196ba456
+    mime: image/tiff
+    bytes: 19095437
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/25/f6/25f67f1fbe703abba76607265c41ef4cfa4e4dacf45290e68fbe255b196ba456/preview-400.f0738307a6e1.jpg
+        sha256: f0738307a6e1d12f8837123f778646ca3939e92a1cc7fb2570118f1fd92ddd4b
+        mime: image/jpeg
+        bytes: 71291
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

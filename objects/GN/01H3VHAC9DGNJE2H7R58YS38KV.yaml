@@ -1,0 +1,38 @@
+id: 01H3VHAC9DGNJE2H7R58YS38KV
+type: image
+subtype: plan
+title: Deichplan Gülden bis Gorleben
+description: Maßstab 1:250.
+date: 1767-01-24
+location: Havelberg, Kindergarten
+origin:
+  name: Berta Schulz
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Einweihung 1767
+    type: event
+  - name: Hans Bohlmann
+    type: person
+  - name: Schlachtfest 1767
+    type: event
+files:
+  - role: main
+    original_name: scan_744.tif
+    path: files/62/07/62072600cd09901b81fba45f195fe3fb084f5bc2f1ce3719a724beee2f8acc21/original.tif
+    sha256: 62072600cd09901b81fba45f195fe3fb084f5bc2f1ce3719a724beee2f8acc21
+    mime: image/tiff
+    bytes: 21573932
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/62/07/62072600cd09901b81fba45f195fe3fb084f5bc2f1ce3719a724beee2f8acc21/preview-400.dab8d44d9471.jpg
+        sha256: dab8d44d9471b647597911f79004c3f2943ebc3f809974a5d14a02fb1b8be833
+        mime: image/jpeg
+        bytes: 44767
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

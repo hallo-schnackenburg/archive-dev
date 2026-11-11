@@ -1,0 +1,40 @@
+id: 01G76KS2HYYEB5BHHHA31RXBJZ
+type: document
+subtype: letter
+title: Feldpostbrief von Gerda Voss
+description: Handschriftlich, 4 Seiten.
+date: "1952"
+location: Gorleben, Försterei
+geocode:
+  lat: 52.942
+  lon: 11.5764
+  precision: town
+  source: osm
+recipient: Dieter Dierks
+language: de
+subjects:
+  - name: Hafen
+    type: building
+  - name: Schützenfest 1952
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_1rxbjz_001.tif
+    path: files/76/e5/76e563d02817598e0731b9eddabf69c8a9ef41359f4df0944e400ec9e7d5012d/original.tif
+    sha256: 76e563d02817598e0731b9eddabf69c8a9ef41359f4df0944e400ec9e7d5012d
+    mime: image/tiff
+    bytes: 21134808
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/76/e5/76e563d02817598e0731b9eddabf69c8a9ef41359f4df0944e400ec9e7d5012d/preview-400.f196e32063d3.jpg
+        sha256: f196e32063d30eade18e0e89ee6a098c9ac787d06799560d72df40fd4324432b
+        mime: image/jpeg
+        bytes: 81211
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

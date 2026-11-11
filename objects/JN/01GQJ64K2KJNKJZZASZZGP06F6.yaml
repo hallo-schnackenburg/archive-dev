@@ -1,0 +1,45 @@
+id: 01GQJ64K2KJNKJZZASZZGP06F6
+type: image
+subtype: plan
+title: Flurkarte Holtorf
+date: 1834/1838
+location: Wustrow, Fähranleger
+origin:
+  name: Ilse Gaede
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Familie Jürgens
+    type: person
+    location: Nienwalde
+  note: Regal 1
+owner:
+  name: Rudolf Voss
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Schmiede
+    type: building
+  - name: Brunnen am Markt
+    type: building
+files:
+  - role: main
+    original_name: scan_247.tif
+    path: files/94/b9/94b97281e510d1d36e759346411f492704e3ec336a05fe6e0d3503519424702a/original.tif
+    sha256: 94b97281e510d1d36e759346411f492704e3ec336a05fe6e0d3503519424702a
+    mime: image/tiff
+    bytes: 23133417
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/94/b9/94b97281e510d1d36e759346411f492704e3ec336a05fe6e0d3503519424702a/preview-400.667cde758e6a.jpg
+        sha256: 667cde758e6a7f9a1eab5713b0ae338f06fbf6789fdf87a06059270383e20248
+        mime: image/jpeg
+        bytes: 62702
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

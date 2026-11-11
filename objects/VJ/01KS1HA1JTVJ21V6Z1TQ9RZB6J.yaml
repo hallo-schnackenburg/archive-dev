@@ -1,0 +1,36 @@
+id: 01KS1HA1JTVJ21V6Z1TQ9RZB6J
+type: image
+subtype: photo
+title: Heuberge nach dem Eisgang
+description: Schwarzweißfoto, Rückseite beschriftet.
+origin:
+  name: Heinrich Ludolf
+  type: person
+  location: Wustrow
+subjects:
+  - name: Heinrich Hennings
+    type: person
+  - name: Grenzöffnung 1939
+    type: event
+parents:
+  - 01GZXZG1A5CXM3AAT5P1TWE94F
+files:
+  - role: main
+    original_name: foto_8206.jpg
+    path: files/98/7f/987fb74458561fa40fcbdf587c17ab88da240106988e7b42ebf41f4524769f9b/original.jpg
+    sha256: 987fb74458561fa40fcbdf587c17ab88da240106988e7b42ebf41f4524769f9b
+    mime: image/jpeg
+    bytes: 23995784
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/98/7f/987fb74458561fa40fcbdf587c17ab88da240106988e7b42ebf41f4524769f9b/preview-400.5ca094adb125.jpg
+        sha256: 5ca094adb1254d06c07f717c3abda6ddc96e22dc0ccf6cb5817c21fabb987187
+        mime: image/jpeg
+        bytes: 35898
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

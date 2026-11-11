@@ -1,0 +1,71 @@
+id: 01FZMY7X0BQHNC5M91MJ7H1S5N
+type: document
+subtype: note
+title: Rechnung Bohlmann, Gemeindehaus
+description: Auf der Rückseite eines Formulars.
+date: 2000-04-05
+location: Pretzier, Bahnhofstraße
+geocode:
+  lat: 53.0421
+  lon: 11.6752
+  precision: region
+  source: osm
+origin:
+  name: Karl Rohde
+  type: person
+  location: Kapern
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  note: Dachboden, Truhe
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Hitzacker
+    type: place
+parents:
+  - 01KRNVBSTXBJR5NRDE3HAC7HXQ
+files:
+  - role: page
+    num: 1
+    original_name: note_7h1s5n_001.tif
+    path: files/25/e2/25e2956f562ee78cea23b8eefce6374053e28af8da22704cbd6e7049207cbfe9/original.tif
+    sha256: 25e2956f562ee78cea23b8eefce6374053e28af8da22704cbd6e7049207cbfe9
+    mime: image/tiff
+    bytes: 17106734
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/25/e2/25e2956f562ee78cea23b8eefce6374053e28af8da22704cbd6e7049207cbfe9/preview-400.0ccb6da837a4.jpg
+        sha256: 0ccb6da837a42bc1de002d8609f51ee43ddbc77d33a8590b9aa503538f6893ce
+        mime: image/jpeg
+        bytes: 41688
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_7h1s5n_002.tif
+    path: files/04/6a/046a71d089d8e0391c37f20393687d4caec1d0a462dfaa9e0ce0f020509b55fc/original.tif
+    sha256: 046a71d089d8e0391c37f20393687d4caec1d0a462dfaa9e0ce0f020509b55fc
+    mime: image/tiff
+    bytes: 5691084
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/6a/046a71d089d8e0391c37f20393687d4caec1d0a462dfaa9e0ce0f020509b55fc/preview-400.68892c6c3a08.jpg
+        sha256: 68892c6c3a082e870d391134037533e0e46e9f20f0e81265ecebccd1e8a2e891
+        mime: image/jpeg
+        bytes: 70442
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

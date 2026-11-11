@@ -1,0 +1,40 @@
+id: 01JAJHHZKD77294PYE04GP03F0
+type: image
+subtype: plan
+title: Deichplan Hitzacker bis Nienwalde
+description: Maßstab 1:500.
+date: 1813-08-11
+location: Seedorf, Burgstraße
+origin:
+  name: Emma Kuhlmann
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Gollensdorf
+  reference: Pro/Album 26/001
+  note: Bücherregal links
+parents:
+  - 01JN30QK7AA815KKZN3ATXX5V3
+files:
+  - role: main
+    original_name: scan_001.tif
+    path: files/a1/7d/a17d21de1928402a075c78b3699dbd831deffdc73f6180bd95ce06b5cc0b1ffd/original.tif
+    sha256: a17d21de1928402a075c78b3699dbd831deffdc73f6180bd95ce06b5cc0b1ffd
+    mime: image/tiff
+    bytes: 7166286
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a1/7d/a17d21de1928402a075c78b3699dbd831deffdc73f6180bd95ce06b5cc0b1ffd/preview-400.cca0a34f0bf9.jpg
+        sha256: cca0a34f0bf95b47d41307546b9845dd58b35f177616a1345933410f750f5932
+        mime: image/jpeg
+        bytes: 41043
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

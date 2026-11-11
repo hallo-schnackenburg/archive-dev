@@ -1,0 +1,34 @@
+id: 01KVWAQTP4G8075YEG8KC12FC9
+type: image
+subtype: print
+title: "Kupferstich: Salzwedel von der Elbseite, Brünkendorf"
+description: Lithographie, Rand beschnitten.
+date: "1899"
+location: Wootz, Lange Straße
+origin:
+  name: Walter Oelker
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Havelberg
+    type: place
+files:
+  - role: main
+    original_name: scan_196.tif
+    path: files/49/86/4986d33492a53d01f6861bdce38eba89c70a90109e60a4107306615702ab68ca/original.tif
+    sha256: 4986d33492a53d01f6861bdce38eba89c70a90109e60a4107306615702ab68ca
+    mime: image/tiff
+    bytes: 6063448
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/49/86/4986d33492a53d01f6861bdce38eba89c70a90109e60a4107306615702ab68ca/preview-400.71637964cdb4.jpg
+        sha256: 71637964cdb47891c6bf07f2fb08ab1ba8cd625b04d779cbed3c3a0e8e05dda8
+        mime: image/jpeg
+        bytes: 57160
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

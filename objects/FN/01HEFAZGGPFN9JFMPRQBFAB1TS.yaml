@@ -1,0 +1,46 @@
+id: 01HEFAZGGPFN9JFMPRQBFAB1TS
+type: image
+subtype: photo
+title: Ilse Behrens, Porträt
+date: 1904-09-17
+location: Cumlosen, Elbstraße
+geocode:
+  lat: 52.9849
+  lon: 11.6965
+  precision: street
+  source: osm
+origin:
+  name: Karl Voss
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 4/047
+subjects:
+  - name: Erntedankfest 1904
+    type: event
+parents:
+  - 01H8RAP2NSBW425Q13KRW0P6FG
+files:
+  - role: main
+    original_name: DSC9148.jpg
+    path: files/53/94/53942de2467c55f4c21c59b71b093547396fa27b3d187cac3e616685b677fc9f/original.jpg
+    sha256: 53942de2467c55f4c21c59b71b093547396fa27b3d187cac3e616685b677fc9f
+    mime: image/jpeg
+    bytes: 21956324
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/53/94/53942de2467c55f4c21c59b71b093547396fa27b3d187cac3e616685b677fc9f/preview-400.9d652e79af53.jpg
+        sha256: 9d652e79af534fe05654b50a4071ac4cebe8babd087ec083e417d3318d5cb77b
+        mime: image/jpeg
+        bytes: 73148
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

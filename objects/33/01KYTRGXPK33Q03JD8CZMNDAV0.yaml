@@ -1,0 +1,60 @@
+id: 01KYTRGXPK33Q03JD8CZMNDAV0
+type: document
+subtype: letter
+title: Feldpostbrief von Gerda Ahrens
+description: Handschriftlich, 4 Seiten.
+date: 188X
+origin:
+  name: Karl Krüger
+  type: person
+  location: Rüterberg
+recipient: Manfred Wegner
+language: de
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Seedorf
+    type: place
+parents:
+  - 01FHXWS77V11495NM60GV2NEPP
+files:
+  - role: page
+    num: 1
+    original_name: letter_mndav0_001.tif
+    path: files/e5/ab/e5ab9292fcc99ba315dde997c6fddae5b98294378a966629c039dd68c0f0c7a8/original.tif
+    sha256: e5ab9292fcc99ba315dde997c6fddae5b98294378a966629c039dd68c0f0c7a8
+    mime: image/tiff
+    bytes: 13735127
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e5/ab/e5ab9292fcc99ba315dde997c6fddae5b98294378a966629c039dd68c0f0c7a8/preview-400.6958d5c296ea.jpg
+        sha256: 6958d5c296ea206bcd002fe00f1912442575643d0cb8e2abb0a4dd02cfea4924
+        mime: image/jpeg
+        bytes: 58631
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_mndav0_002.tif
+    path: files/17/63/1763e8293cf0070b52a649b044207e364f216446d0d7a0990e160e251c96af8e/original.tif
+    sha256: 1763e8293cf0070b52a649b044207e364f216446d0d7a0990e160e251c96af8e
+    mime: image/tiff
+    bytes: 12951974
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/17/63/1763e8293cf0070b52a649b044207e364f216446d0d7a0990e160e251c96af8e/preview-400.a66caf3530ae.jpg
+        sha256: a66caf3530ae356b0f17501fc1d8794592f667b940959643d60e2ec575b15722
+        mime: image/jpeg
+        bytes: 89960
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

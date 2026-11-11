@@ -1,0 +1,39 @@
+id: 01H48CKNN3J2GK41C5W3WY71H7
+type: image
+subtype: photo
+title: Sturmschaden 1989
+description: Abzug im Format 10 x 15 cm.
+date: "1989"
+original:
+  holder:
+    name: Familie Kuhlmann
+    type: person
+    location: Zadrau
+  note: Bücherregal links
+subjects:
+  - name: Restorf
+    type: place
+  - name: Wilhelm Kuhlmann
+    type: person
+parents:
+  - 01GHB8CACBDV42F0VWCD6Z5CC1
+files:
+  - role: main
+    original_name: IMG_6373.jpg
+    path: files/10/e8/10e8d654eec1f2053ae28dc96bd49bd90fc47bdb238cc4a46002b2e308df1334/original.jpg
+    sha256: 10e8d654eec1f2053ae28dc96bd49bd90fc47bdb238cc4a46002b2e308df1334
+    mime: image/jpeg
+    bytes: 27702303
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/10/e8/10e8d654eec1f2053ae28dc96bd49bd90fc47bdb238cc4a46002b2e308df1334/preview-400.e47db6ccfd59.jpg
+        sha256: e47db6ccfd5977a951ec71794810358151215debd84b2fb1a2200d313265e694
+        mime: image/jpeg
+        bytes: 37018
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

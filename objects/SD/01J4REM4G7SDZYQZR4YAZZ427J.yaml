@@ -1,0 +1,37 @@
+id: 01J4REM4G7SDZYQZR4YAZZ427J
+type: image
+subtype: photo
+title: Scheune in Dömitz
+description: Farbfoto, leicht verblasst.
+date: "1921"
+origin:
+  name: Wilhelm Bruns
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+parents:
+  - 01JN30QK7AA815KKZN3ATXX5V3
+files:
+  - role: main
+    original_name: IMG_9450.jpg
+    path: files/78/dd/78dd603480c5718b97915e37e182e8b89475e374ebbcafee113239f8029f1dc6/original.jpg
+    sha256: 78dd603480c5718b97915e37e182e8b89475e374ebbcafee113239f8029f1dc6
+    mime: image/jpeg
+    bytes: 19610800
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/78/dd/78dd603480c5718b97915e37e182e8b89475e374ebbcafee113239f8029f1dc6/preview-400.d9eb50dd5342.jpg
+        sha256: d9eb50dd53421c9affeab66370edd6f88d317d58ba7c96b039a2935c411537ca
+        mime: image/jpeg
+        bytes: 55105
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

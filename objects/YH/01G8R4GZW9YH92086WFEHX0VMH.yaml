@@ -1,0 +1,46 @@
+id: 01G8R4GZW9YH92086WFEHX0VMH
+type: image
+subtype: print
+title: Postkarte Kapern, Fachwerkhaus Marktstraße 4
+description: Postkarte, gelaufen 1951.
+date: 1703-02-15
+location: Schnackenburg, Dorfkrug
+origin:
+  name: Wilhelm Schulz
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 24/307
+owner:
+  name: Karl Rohde
+  type: person
+  note: Nachlass
+subjects:
+  - name: Kartoffelernte 1703
+    type: event
+parents:
+  - 01FC500G3M1EH4PAW2K7HHB2K0
+files:
+  - role: main
+    original_name: scan_812.tif
+    path: files/d8/a2/d8a21b004e21d82a8c17fd71b37ac84142d1e3edc5dbcb2a39572270e7640664/original.tif
+    sha256: d8a21b004e21d82a8c17fd71b37ac84142d1e3edc5dbcb2a39572270e7640664
+    mime: image/tiff
+    bytes: 19562368
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d8/a2/d8a21b004e21d82a8c17fd71b37ac84142d1e3edc5dbcb2a39572270e7640664/preview-400.7973ddb5c569.jpg
+        sha256: 7973ddb5c5696080ab79f0cbdd96f37e293bc6b61ba897a18834a51d0ec90731
+        mime: image/jpeg
+        bytes: 33172
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

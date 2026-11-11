@@ -1,0 +1,38 @@
+id: 01EZ5PSYE3T0TRZZ1EE1W6KVXX
+type: image
+subtype: print
+title: Postkarte Wustrow, Bahnhof
+description: Kupferstich, koloriert.
+date: 1856-01-28
+location: Lüchow, Am Markt
+origin:
+  name: Heinrich Hennings
+  type: person
+  location: Gülden
+subjects:
+  - name: Elfriede Dierks
+    type: person
+  - name: Zollamt
+    type: building
+parents:
+  - 01J08P48B9HRVCXCZGRJBPCQ14
+files:
+  - role: main
+    original_name: scan_122.tif
+    path: files/4c/8e/4c8ef85e7f8274a25a3593dc0fcd818d10f342ce6106bb4b3ccc08a367a5bfac/original.tif
+    sha256: 4c8ef85e7f8274a25a3593dc0fcd818d10f342ce6106bb4b3ccc08a367a5bfac
+    mime: image/tiff
+    bytes: 1892152
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/4c/8e/4c8ef85e7f8274a25a3593dc0fcd818d10f342ce6106bb4b3ccc08a367a5bfac/preview-400.8098740b2211.jpg
+        sha256: 8098740b2211df48c3fb8b7f68746fc12f4facfaec483f437bd7181112a80218
+        mime: image/jpeg
+        bytes: 57521
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01HMC9N3W0S25634B9E1HTEY9A
+type: image
+subtype: plan
+title: Katasterblatt Lemke, Hitzacker
+description: Mit handschriftlichen Ergänzungen.
+date: 1782/1787
+location: Hitzacker, Deichstraße
+geocode:
+  lat: 52.9517
+  lon: 11.6044
+  precision: exact
+  source: osm
+origin:
+  name: Emma Schwarz
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Wilhelm Lenz
+    type: person
+  - name: Kindergartenfest 1782
+    type: event
+parents:
+  - 01GKCFCDVMB3D019HAA4A20JFD
+files:
+  - role: main
+    original_name: scan_973.tif
+    path: files/5d/62/5d621daf1d6643ecdd14ebdadc9b5bb8085516dc79ff6972b25501fb28142f11/original.tif
+    sha256: 5d621daf1d6643ecdd14ebdadc9b5bb8085516dc79ff6972b25501fb28142f11
+    mime: image/tiff
+    bytes: 11370384
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/5d/62/5d621daf1d6643ecdd14ebdadc9b5bb8085516dc79ff6972b25501fb28142f11/preview-400.ddc9ce8cdee3.jpg
+        sha256: ddc9ce8cdee3dc99d647c8155340aab3f99457cd254c76b3ab3914eda65b2462
+        mime: image/jpeg
+        bytes: 49729
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

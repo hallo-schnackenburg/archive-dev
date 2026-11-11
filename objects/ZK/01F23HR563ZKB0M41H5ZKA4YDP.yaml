@@ -1,0 +1,45 @@
+id: 01F23HR563ZKB0M41H5ZKA4YDP
+type: image
+subtype: print
+title: Postkarte Wittenberge, Molkerei
+date: 170X
+location: Schnackenburg, Pfarrhaus
+origin:
+  name: August Rieke
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok/Album 14/069
+  note: Bücherregal links
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Viehmarkt 1702
+    type: event
+parents:
+  - 01KSS5WSKYD8DQE3452TFH91F6
+  - 01KQE2MVHCH023HXPRAKNXXJ2W
+files:
+  - role: main
+    original_name: scan_277.tif
+    path: files/6c/91/6c91bb90e9e0cadb4d37eaf2261fba827f023e59b2bd915392ecd815f7643fb3/original.tif
+    sha256: 6c91bb90e9e0cadb4d37eaf2261fba827f023e59b2bd915392ecd815f7643fb3
+    mime: image/tiff
+    bytes: 7966916
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6c/91/6c91bb90e9e0cadb4d37eaf2261fba827f023e59b2bd915392ecd815f7643fb3/preview-400.2e45e80f4932.jpg
+        sha256: 2e45e80f49328f493867246960703c8282fdbe6d6c8f3e0dfec6ff7e0c8ec307
+        mime: image/jpeg
+        bytes: 26891
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01KEF5T9VM6BY20EW79WP71522
+type: image
+subtype: print
+title: Gruß aus Wustrow, Bömenzien
+date: 1782-01-24
+location: Nienwalde, Friedhofskapelle
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Gülden
+    type: place
+  - name: Fährjubiläum 1782
+    type: event
+parents:
+  - 01J1F26G843KSNYD4G1QK36C01
+files:
+  - role: main
+    original_name: scan_353.tif
+    path: files/3a/9f/3a9f06768c7663a5404ffcba8b02636e3be7174c97a25f05ac7dad774869a404/original.tif
+    sha256: 3a9f06768c7663a5404ffcba8b02636e3be7174c97a25f05ac7dad774869a404
+    mime: image/tiff
+    bytes: 26937486
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/3a/9f/3a9f06768c7663a5404ffcba8b02636e3be7174c97a25f05ac7dad774869a404/preview-400.40e4122ec197.jpg
+        sha256: 40e4122ec197fd95b7ff395992b6ab4bb98dec5d8814418b51a9417cc56f1bf0
+        mime: image/jpeg
+        bytes: 53934
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

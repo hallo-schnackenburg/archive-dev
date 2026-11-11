@@ -1,0 +1,54 @@
+id: 01GF8Q4RYVNF111DHN1P1F1N2M
+type: document
+subtype: note
+title: Rechnung Voss, Brunnen am Markt
+date: 1871-04-03
+location: Seedorf, Dorfstraße
+origin:
+  name: Walter Voss
+  type: person
+  location: Lüchow
+language: de
+parents:
+  - 01FEEW1K0P7657HFN4R8JBV1AC
+files:
+  - role: page
+    num: 1
+    original_name: note_1f1n2m_001.tif
+    path: files/ae/fc/aefc246e8bf637993d8dcb21dd290eb7906f2711b1f30a98c65fd6996180e809/original.tif
+    sha256: aefc246e8bf637993d8dcb21dd290eb7906f2711b1f30a98c65fd6996180e809
+    mime: image/tiff
+    bytes: 17214644
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ae/fc/aefc246e8bf637993d8dcb21dd290eb7906f2711b1f30a98c65fd6996180e809/preview-400.c2ff82494397.jpg
+        sha256: c2ff82494397bbbcc8045ff37ec54b9578364189b9e2c28141d419e7125bf62e
+        mime: image/jpeg
+        bytes: 71784
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_1f1n2m_002.tif
+    path: files/66/0d/660d43e5b67db0c9956469056cbd2772bd1e6f92f70f420e219d0ff7d86df9c4/original.tif
+    sha256: 660d43e5b67db0c9956469056cbd2772bd1e6f92f70f420e219d0ff7d86df9c4
+    mime: image/tiff
+    bytes: 23199301
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/66/0d/660d43e5b67db0c9956469056cbd2772bd1e6f92f70f420e219d0ff7d86df9c4/preview-400.7a9dac732c6f.jpg
+        sha256: 7a9dac732c6f60311aed26aa56de276b664bffbf4f6c92a4f4f72e7a1063413d
+        mime: image/jpeg
+        bytes: 67013
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01J80H6MZEX1G721NTR250BJAE
+type: image
+subtype: plan
+title: Bauplan Mühle 1879
+description: Maßstab 1:250.
+date: 1879-11-18
+location: Cumlosen, Deichstraße
+original:
+  holder:
+    name: Familie Kuhlmann
+    type: person
+    location: Cumlosen
+  reference: Pro 13/278
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: Gerda Bohlmann
+    type: person
+  - name: Zollamt
+    type: building
+files:
+  - role: main
+    original_name: scan_083.tif
+    path: files/d2/3f/d23f53eb136ffebff1e002d45faf38f0fedc666d23328c10803ac630ae51aa19/original.tif
+    sha256: d23f53eb136ffebff1e002d45faf38f0fedc666d23328c10803ac630ae51aa19
+    mime: image/tiff
+    bytes: 12997523
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d2/3f/d23f53eb136ffebff1e002d45faf38f0fedc666d23328c10803ac630ae51aa19/preview-400.94ccc88fbaab.jpg
+        sha256: 94ccc88fbaab0257d6dd4c5c6a0a3def1c8c5e150dca07e90fe89c7bd6806f1f
+        mime: image/jpeg
+        bytes: 22853
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

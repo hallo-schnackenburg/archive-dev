@@ -1,0 +1,34 @@
+id: 01K1EERPDWZSB4E6HCG2KHHMFQ
+type: image
+subtype: print
+title: Lithographie Rathaus, Restorf
+description: Lithographie, Rand beschnitten.
+origin:
+  name: Helga Schwarz
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Käthe Meyer
+    type: person
+files:
+  - role: main
+    original_name: scan_427.tif
+    path: files/36/b1/36b16fb4adc0260b7054fb8d958c41e8836ebe2ae16748eac120e2cda03e0194/original.tif
+    sha256: 36b16fb4adc0260b7054fb8d958c41e8836ebe2ae16748eac120e2cda03e0194
+    mime: image/tiff
+    bytes: 1679177
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/36/b1/36b16fb4adc0260b7054fb8d958c41e8836ebe2ae16748eac120e2cda03e0194/preview-400.981636dc40ba.jpg
+        sha256: 981636dc40bae03140bb7f708c590e3aecc8ec4a5f9342e355c5959a4ec603c0
+        mime: image/jpeg
+        bytes: 63352
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

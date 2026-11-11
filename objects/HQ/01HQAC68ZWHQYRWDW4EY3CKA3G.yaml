@@ -1,0 +1,41 @@
+id: 01HQAC68ZWHQYRWDW4EY3CKA3G
+type: image
+subtype: photo
+title: Heinrich Voss vor dem Storchennest
+description: Zu sehen sind Bahnhof und Molkerei.
+date: 1990-08
+location: Lenzen, Pumpenhaus
+geocode:
+  lat: 52.9362
+  lon: 11.5195
+  precision: town
+  source: osm
+owner:
+  name: Wilhelm Eggers
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Deicharbeiten 1990
+    type: event
+  - name: Schützenhaus
+    type: building
+files:
+  - role: main
+    original_name: P1192.jpg
+    path: files/bd/a8/bda808354291f777841c0fc330b76d067e836928add712dde9865103b98a95e3/original.jpg
+    sha256: bda808354291f777841c0fc330b76d067e836928add712dde9865103b98a95e3
+    mime: image/jpeg
+    bytes: 18330913
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/bd/a8/bda808354291f777841c0fc330b76d067e836928add712dde9865103b98a95e3/preview-400.0acf6c61817c.jpg
+        sha256: 0acf6c61817c013b5d97fb4ae48417a1cec910a2ce0570583c7fcc8f163abd68
+        mime: image/jpeg
+        bytes: 61530
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

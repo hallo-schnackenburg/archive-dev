@@ -1,0 +1,35 @@
+id: 01HKM7C9BWZCBHA9086W16YJFB
+type: image
+subtype: photo
+title: Marta Pape, Porträt
+description: Zu sehen sind Schmiede und Schlachterei.
+date: 198X
+subjects:
+  - name: Weihnachtsmarkt 1985
+    type: event
+  - name: Hermann Garms
+    type: person
+  - name: Konfirmation 1985
+    type: event
+parents:
+  - 01F9DH58STHY0SNK18ZFW9YJ7Y
+files:
+  - role: main
+    original_name: scan_200.tif
+    path: files/ff/a1/ffa1ad1d76a105ad4e177f5ddec69310116876e725848e27bee6d4cd9a4a4457/original.tif
+    sha256: ffa1ad1d76a105ad4e177f5ddec69310116876e725848e27bee6d4cd9a4a4457
+    mime: image/tiff
+    bytes: 23214961
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ff/a1/ffa1ad1d76a105ad4e177f5ddec69310116876e725848e27bee6d4cd9a4a4457/preview-400.5b39fbd6b109.jpg
+        sha256: 5b39fbd6b10914d4d37cda04f032c8e5eef13955caf88247bd32f91d32968280
+        mime: image/jpeg
+        bytes: 68299
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

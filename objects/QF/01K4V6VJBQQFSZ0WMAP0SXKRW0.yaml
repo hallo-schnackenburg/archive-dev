@@ -1,0 +1,40 @@
+id: 01K4V6VJBQQFSZ0WMAP0SXKRW0
+type: image
+subtype: print
+title: Lithographie Schmiede, Pretzier
+description: Lithographie, Rand beschnitten.
+date: 1734-12-21
+location: Hitzacker, Gartenstraße
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Kasten 22/067
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Ladestraße
+    type: building
+  - name: Wassermühle
+    type: building
+files:
+  - role: main
+    original_name: scan_748.tif
+    path: files/70/6d/706da51ed91ee4479ad55f89ee9c64d79fba526a3584287627e7102ac38779e5/original.tif
+    sha256: 706da51ed91ee4479ad55f89ee9c64d79fba526a3584287627e7102ac38779e5
+    mime: image/tiff
+    bytes: 25698055
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/70/6d/706da51ed91ee4479ad55f89ee9c64d79fba526a3584287627e7102ac38779e5/preview-400.23412f02d272.jpg
+        sha256: 23412f02d272e0eddf585118ac30b0bc843b9ac8ab13c9d2b5bdb93236df4351
+        mime: image/jpeg
+        bytes: 68966
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

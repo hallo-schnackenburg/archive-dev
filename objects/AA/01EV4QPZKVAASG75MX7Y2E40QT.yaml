@@ -1,0 +1,40 @@
+id: 01EV4QPZKVAASG75MX7Y2E40QT
+type: image
+subtype: print
+title: "Kupferstich: Holtorf von der Elbseite, Seedorf"
+date: 1866-05
+origin:
+  name: Karl Rohde
+  type: person
+  location: Schnackenburg
+owner:
+  name: Anni Brandt
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Straßenfest 1866
+    type: event
+  - name: Richtfest 1866
+    type: event
+  - name: Backhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_841.tif
+    path: files/ea/9c/ea9c056b2f61eef51e823fc5762f1a8a2e7a8d89eebb77d501c4b39f37688a9f/original.tif
+    sha256: ea9c056b2f61eef51e823fc5762f1a8a2e7a8d89eebb77d501c4b39f37688a9f
+    mime: image/tiff
+    bytes: 22096451
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ea/9c/ea9c056b2f61eef51e823fc5762f1a8a2e7a8d89eebb77d501c4b39f37688a9f/preview-400.c05eb86a1dc3.jpg
+        sha256: c05eb86a1dc372d3bddff2b891312bc8f6d9fba962582d4420ce42c924171bf6
+        mime: image/jpeg
+        bytes: 28084
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

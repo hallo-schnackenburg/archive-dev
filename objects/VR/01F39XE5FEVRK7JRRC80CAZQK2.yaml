@@ -1,0 +1,43 @@
+id: 01F39XE5FEVRK7JRRC80CAZQK2
+type: image
+subtype: plan
+title: Lageplan Pumpenhaus
+description: Mit handschriftlichen Ergänzungen.
+date: 1912-06-26
+location: Brünkendorf, Am Elbdeich
+geocode:
+  lat: 52.9387
+  lon: 11.6213
+  precision: exact
+  source: osm
+origin:
+  name: Otto Matthies
+  type: person
+  location: Gülden
+subjects:
+  - name: Karl Meyer
+    type: person
+  - name: Ortsbesichtigung 1912
+    type: event
+parents:
+  - 01GRV0HWYNKA4M54BH3W1TXJFJ
+files:
+  - role: main
+    original_name: scan_266.tif
+    path: files/d0/3c/d03cf64c378271d1eea6228c113b5aa4c29eec24c442cd556f3408df1171ac20/original.tif
+    sha256: d03cf64c378271d1eea6228c113b5aa4c29eec24c442cd556f3408df1171ac20
+    mime: image/tiff
+    bytes: 2334342
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d0/3c/d03cf64c378271d1eea6228c113b5aa4c29eec24c442cd556f3408df1171ac20/preview-400.42addaf68c91.jpg
+        sha256: 42addaf68c9129c913e801e34c453dbf460fa2c0a6a479294ab3d556fd68c61a
+        mime: image/jpeg
+        bytes: 36690
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

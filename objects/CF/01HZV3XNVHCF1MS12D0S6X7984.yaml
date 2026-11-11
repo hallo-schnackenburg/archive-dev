@@ -1,0 +1,42 @@
+id: 01HZV3XNVHCF1MS12D0S6X7984
+type: image
+subtype: photo
+title: Dorfstraße, Ecke Deichstraße
+description: Abzug im Format 10 x 15 cm.
+date: "1920"
+location: Lenzen, Bahnhofstraße
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Album 4/052
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Schützenfest 1920
+    type: event
+  - name: Beerdigung 1920
+    type: event
+parents:
+  - 01JSYB7Z03WSNMJ0H37E7BWCQW
+files:
+  - role: main
+    original_name: foto_9232.jpg
+    path: files/92/bc/92bc152bf7b6645b6b02a26439150487bcf6b463f58001095d670e42ca168550/original.jpg
+    sha256: 92bc152bf7b6645b6b02a26439150487bcf6b463f58001095d670e42ca168550
+    mime: image/jpeg
+    bytes: 8309093
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/92/bc/92bc152bf7b6645b6b02a26439150487bcf6b463f58001095d670e42ca168550/preview-400.9018973d77d1.jpg
+        sha256: 9018973d77d14d6be380465e76759dd31edae9d280df03d3914c5d157fee3068
+        mime: image/jpeg
+        bytes: 82174
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01HMFBHAPBW6J7JRGA2FE7JW82
+type: image
+subtype: plan
+title: Deichplan Gollensdorf bis Holtorf
+date: 1955-04-11
+location: Wootz, Lange Straße
+geocode:
+  lat: 52.954
+  lon: 11.5628
+  precision: region
+  source: osm
+origin:
+  name: Erika Detlefs
+  type: person
+  location: Laase
+parents:
+  - 01FPG45DMCQ4FJ212ZPBZF1YR1
+files:
+  - role: main
+    original_name: scan_344.tif
+    path: files/84/2b/842bd53ce2d71075fe6bbcb0495d21469007a41f62484f2dd441b6aa39b2a482/original.tif
+    sha256: 842bd53ce2d71075fe6bbcb0495d21469007a41f62484f2dd441b6aa39b2a482
+    mime: image/tiff
+    bytes: 16259647
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/84/2b/842bd53ce2d71075fe6bbcb0495d21469007a41f62484f2dd441b6aa39b2a482/preview-400.e4d6be6b3d5a.jpg
+        sha256: e4d6be6b3d5a7ecf26f8d07da72941907241c8325eff96ac70477727796f5d20
+        mime: image/jpeg
+        bytes: 80082
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01JTA4X1Y38WPWY9T5F8XBP11H
+type: image
+subtype: photo
+title: Heinrich Garms, Porträt
+date: 1940-05-02
+origin:
+  name: Wilhelm Meyer
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 33/156
+  note: Bücherregal links
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Fährjubiläum 1940
+    type: event
+parents:
+  - 01J1F26G843KSNYD4G1QK36C01
+files:
+  - role: main
+    original_name: P8928.jpg
+    path: files/f3/23/f32332bae595b27f6d7e6b10e41894467a03bc25c581c05d8a8798747ee5b8e4/original.jpg
+    sha256: f32332bae595b27f6d7e6b10e41894467a03bc25c581c05d8a8798747ee5b8e4
+    mime: image/jpeg
+    bytes: 20976882
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/f3/23/f32332bae595b27f6d7e6b10e41894467a03bc25c581c05d8a8798747ee5b8e4/preview-400.91701ff6e3c2.jpg
+        sha256: 91701ff6e3c28f33c4cd66ba08ec21750bd3627857c84cd7fe2e34b38dc0a57c
+        mime: image/jpeg
+        bytes: 85215
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

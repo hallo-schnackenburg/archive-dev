@@ -1,0 +1,45 @@
+id: 01HGSCMP0TDZ9FW59CF5HENG06
+type: image
+subtype: photo
+title: Ingrid Wegner, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "2001"
+location: Gollensdorf, Gutshaus
+origin:
+  name: Fritz Rohde
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Tanzsaal
+    type: building
+  - name: Bahnhof
+    type: building
+  - name: Berta Krüger
+    type: person
+parents:
+  - 01F74508EQW0M86CC6HKB6Q51Z
+files:
+  - role: main
+    original_name: scan_056.tif
+    path: files/77/85/77853c88c7cf737d1d2c346574511090b3e328466e9bc8e4307145de67688f44/original.tif
+    sha256: 77853c88c7cf737d1d2c346574511090b3e328466e9bc8e4307145de67688f44
+    mime: image/tiff
+    bytes: 17469916
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/77/85/77853c88c7cf737d1d2c346574511090b3e328466e9bc8e4307145de67688f44/preview-400.6a1f14f48700.jpg
+        sha256: 6a1f14f48700a27aadd1cb0bc3e05caeab2d99c2f068c93961e7ff201c54fb13
+        mime: image/jpeg
+        bytes: 41792
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

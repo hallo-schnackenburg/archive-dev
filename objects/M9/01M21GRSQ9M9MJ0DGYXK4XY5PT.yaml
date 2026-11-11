@@ -1,0 +1,45 @@
+id: 01M21GRSQ9M9MJ0DGYXK4XY5PT
+type: image
+subtype: plan
+title: Deichplan Lanz bis Gülden
+description: Mit handschriftlichen Ergänzungen.
+date: 1835-10-25
+location: Lanz, Am Elbdeich
+geocode:
+  lat: 52.934
+  lon: 11.5732
+  precision: street
+  source: osm
+origin:
+  name: Heinrich Wöhlk
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 16/022
+subjects:
+  - name: Maifeier 1835
+    type: event
+files:
+  - role: main
+    original_name: scan_186.tif
+    path: files/5e/f1/5ef193bdab8dab531422d524b3aeae6d82a06e1399c56f6bf2492dac1662f409/original.tif
+    sha256: 5ef193bdab8dab531422d524b3aeae6d82a06e1399c56f6bf2492dac1662f409
+    mime: image/tiff
+    bytes: 17588378
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5e/f1/5ef193bdab8dab531422d524b3aeae6d82a06e1399c56f6bf2492dac1662f409/preview-400.8715c0e663fc.jpg
+        sha256: 8715c0e663fc7b6205ab4f7b6c2388e82966214e3233c30df2b36db047adbea6
+        mime: image/jpeg
+        bytes: 76915
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

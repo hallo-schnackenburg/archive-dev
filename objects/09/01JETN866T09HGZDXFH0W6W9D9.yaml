@@ -1,0 +1,38 @@
+id: 01JETN866T09HGZDXFH0W6W9D9
+type: image
+subtype: drawing
+title: Skizze Gartow, Dorfstraße
+date: 1908/1916
+origin:
+  name: Käthe Dierks
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 25/065
+parents:
+  - 01HRG40C1FAN8Q9TP1QT18AH5E
+  - 01EZC5C07CZY0ETCK5VD296P3F
+files:
+  - role: main
+    original_name: scan_563.tif
+    path: files/dc/04/dc048d22e68d40f30c77fe71c010ffceaa8a8ae46fe69d3d7e7c4ea9ead7dacb/original.tif
+    sha256: dc048d22e68d40f30c77fe71c010ffceaa8a8ae46fe69d3d7e7c4ea9ead7dacb
+    mime: image/tiff
+    bytes: 22799848
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/dc/04/dc048d22e68d40f30c77fe71c010ffceaa8a8ae46fe69d3d7e7c4ea9ead7dacb/preview-400.6b987b34df1a.jpg
+        sha256: 6b987b34df1ad1fdbe159579d072ccd8290cd40e2d796642d9af048056be5f60
+        mime: image/jpeg
+        bytes: 24319
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

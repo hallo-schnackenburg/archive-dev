@@ -1,0 +1,30 @@
+id: 01FCKD7VGMNNW6EN5CNZ5C0P8A
+type: image
+subtype: drawing
+title: Skizze Nienwalde, Am Elbdeich
+description: Bleistift auf Papier.
+location: Wittenberge, Feuerwehrhaus
+origin:
+  name: Ernst Schulz
+  type: person
+  location: Brünkendorf
+files:
+  - role: main
+    original_name: scan_836.tif
+    path: files/03/d8/03d837c57749daceecdb81a1b1c1a7f9cf0bdf03046836aa356640f133a25b37/original.tif
+    sha256: 03d837c57749daceecdb81a1b1c1a7f9cf0bdf03046836aa356640f133a25b37
+    mime: image/tiff
+    bytes: 25685247
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/03/d8/03d837c57749daceecdb81a1b1c1a7f9cf0bdf03046836aa356640f133a25b37/preview-400.6bc74006d537.jpg
+        sha256: 6bc74006d5378267560c799e39aac16eda14d292867be2498462b9fbb6b1d75a
+        mime: image/jpeg
+        bytes: 21074
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

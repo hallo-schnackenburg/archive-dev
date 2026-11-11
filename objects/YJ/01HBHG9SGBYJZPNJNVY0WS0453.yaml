@@ -1,0 +1,38 @@
+id: 01HBHG9SGBYJZPNJNVY0WS0453
+type: image
+subtype: plan
+title: Bauplan Dorfschule 1926
+date: 1926/1937
+location: Hitzacker, Apotheke
+origin:
+  name: Erika Albers
+  type: person
+  location: Seedorf
+subjects:
+  - name: Gartow
+    type: place
+  - name: Gorleben
+    type: place
+parents:
+  - 01HXAPP619H88A03THR4YYNB5Y
+  - 01K0DYSTF2EJ283ADN76W7FBTC
+files:
+  - role: main
+    original_name: scan_533.tif
+    path: files/c3/fa/c3faeb32dfb34e0621a8912f7e4ec87ecb6fa93217bbf95d90f30b47c91e0a5c/original.tif
+    sha256: c3faeb32dfb34e0621a8912f7e4ec87ecb6fa93217bbf95d90f30b47c91e0a5c
+    mime: image/tiff
+    bytes: 8686872
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c3/fa/c3faeb32dfb34e0621a8912f7e4ec87ecb6fa93217bbf95d90f30b47c91e0a5c/preview-400.226d9edea987.jpg
+        sha256: 226d9edea98765df114393ccf26841f34b443ac7d2d07a22062498f379a977ea
+        mime: image/jpeg
+        bytes: 26556
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

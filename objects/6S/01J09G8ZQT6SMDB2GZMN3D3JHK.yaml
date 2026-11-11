@@ -1,0 +1,36 @@
+id: 01J09G8ZQT6SMDB2GZMN3D3JHK
+type: image
+subtype: print
+title: Postkarte Laase, Heuberge
+description: Postkarte, gelaufen 1910.
+date: "1912"
+origin:
+  name: Wilhelm Bohlmann
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 3/050
+files:
+  - role: main
+    original_name: scan_760.tif
+    path: files/f9/33/f933e3b349c77e295906304de2c00618bddfd32be97f42fbd0e361a46773c13e/original.tif
+    sha256: f933e3b349c77e295906304de2c00618bddfd32be97f42fbd0e361a46773c13e
+    mime: image/tiff
+    bytes: 3392035
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f9/33/f933e3b349c77e295906304de2c00618bddfd32be97f42fbd0e361a46773c13e/preview-400.9343c7b22ca9.jpg
+        sha256: 9343c7b22ca9f831889d53346d18b8a020b209681eccc1ba2e8448d4a4db17ef
+        mime: image/jpeg
+        bytes: 36015
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

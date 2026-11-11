@@ -1,0 +1,36 @@
+id: 01G2WQE6DJBQZ90EZ2Z2XGDTWS
+type: image
+subtype: print
+title: Postkarte Dömitz, Gasthof Meyer
+description: Postkarte, gelaufen 1939.
+date: "1803"
+location: Wustrow, Hafenstraße
+geocode:
+  lat: 52.9729
+  lon: 11.6543
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Garms
+  type: person
+  location: Wootz
+files:
+  - role: main
+    original_name: scan_894.tif
+    path: files/fb/55/fb551d477ac51131b2d256082bcfc72224d21cb9d9db9881601547263fb310b8/original.tif
+    sha256: fb551d477ac51131b2d256082bcfc72224d21cb9d9db9881601547263fb310b8
+    mime: image/tiff
+    bytes: 23639149
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fb/55/fb551d477ac51131b2d256082bcfc72224d21cb9d9db9881601547263fb310b8/preview-400.1045e3560a87.jpg
+        sha256: 1045e3560a872e01f5d94ce04b9f5b6f40c3e0f2a55eea4e528e766a0058bcf9
+        mime: image/jpeg
+        bytes: 64053
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

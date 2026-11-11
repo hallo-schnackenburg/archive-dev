@@ -1,0 +1,56 @@
+id: 01FR4EG6JMFHDEXSG4GDPGVP09
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Gollensdorf 1858
+description: Handschriftlich in Sütterlin.
+date: 1858-01
+location: Gollensdorf, Tanzsaal
+language: de
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Manfred Wegner
+    type: person
+  - name: Glockenweihe 1858
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: protocol_pgvp09_001.tif
+    path: files/b2/4b/b24b4d087d24eeca13d131cefad7de13c36db07c51f05c34abc7df2d4658a32c/original.tif
+    sha256: b24b4d087d24eeca13d131cefad7de13c36db07c51f05c34abc7df2d4658a32c
+    mime: image/tiff
+    bytes: 10108751
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b2/4b/b24b4d087d24eeca13d131cefad7de13c36db07c51f05c34abc7df2d4658a32c/preview-400.cf2aac43a00c.jpg
+        sha256: cf2aac43a00c6c6bbe084d49856a3c922c702c0e5cdbeac355ea511f4b067ac6
+        mime: image/jpeg
+        bytes: 50056
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_pgvp09_002.tif
+    path: files/2f/e6/2fe687d9e7bbdf5c1e46823573c10f28e513969d1b2822a1caeec1487605cd79/original.tif
+    sha256: 2fe687d9e7bbdf5c1e46823573c10f28e513969d1b2822a1caeec1487605cd79
+    mime: image/tiff
+    bytes: 20512415
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2f/e6/2fe687d9e7bbdf5c1e46823573c10f28e513969d1b2822a1caeec1487605cd79/preview-400.c310d6b41cb1.jpg
+        sha256: c310d6b41cb1ca166407ffaef22c15521b1cc0755a70c03094f42a275e8b61f2
+        mime: image/jpeg
+        bytes: 62101
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

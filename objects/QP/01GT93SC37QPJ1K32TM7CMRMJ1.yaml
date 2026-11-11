@@ -1,0 +1,37 @@
+id: 01GT93SC37QPJ1K32TM7CMRMJ1
+type: image
+subtype: photo
+title: Hans Lüders, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1905-07-01
+location: Hitzacker, Backhaus
+origin:
+  name: Karl Wegner
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 7/014
+files:
+  - role: main
+    original_name: DSC9620.jpg
+    path: files/e9/87/e98756ca3e495ab71ab5977d7ff61738916412469e40634b5e07003ceafb59c5/original.jpg
+    sha256: e98756ca3e495ab71ab5977d7ff61738916412469e40634b5e07003ceafb59c5
+    mime: image/jpeg
+    bytes: 9872193
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e9/87/e98756ca3e495ab71ab5977d7ff61738916412469e40634b5e07003ceafb59c5/preview-400.509d56a47e01.jpg
+        sha256: 509d56a47e011c81a2a8a05724f0105e8dda81730a7a3c4a2022b58ccb5ccd19
+        mime: image/jpeg
+        bytes: 47545
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

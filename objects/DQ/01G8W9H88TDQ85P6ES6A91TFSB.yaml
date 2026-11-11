@@ -1,0 +1,42 @@
+id: 01G8W9H88TDQ85P6ES6A91TFSB
+type: image
+subtype: photo
+title: Blick vom Gutshaus auf das Badestelle
+description: Farbfoto, leicht verblasst.
+date: 190X
+origin:
+  name: Paul Zander
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Schützenfest 1902
+    type: event
+  - name: Laase
+    type: place
+  - name: Wilhelm Lemke
+    type: person
+files:
+  - role: main
+    original_name: scan_606.tif
+    path: files/78/19/7819f2820cbea42701f7f7f9caa40af0293a19fc6104ecde77761c2b55a017b1/original.tif
+    sha256: 7819f2820cbea42701f7f7f9caa40af0293a19fc6104ecde77761c2b55a017b1
+    mime: image/tiff
+    bytes: 14806658
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/78/19/7819f2820cbea42701f7f7f9caa40af0293a19fc6104ecde77761c2b55a017b1/preview-400.e842861686b8.jpg
+        sha256: e842861686b8a4467229f03c96f383dca0eff821b26a1ec966f380e71038cff8
+        mime: image/jpeg
+        bytes: 23739
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

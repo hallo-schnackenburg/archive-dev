@@ -1,0 +1,44 @@
+id: 01G3A9PHQMP8JM0EEC119FD971
+type: image
+subtype: photo
+title: Deicharbeiten 1949
+date: "1949"
+location: Havelberg, Fährstraße
+geocode:
+  lat: 52.9941
+  lon: 11.5507
+  precision: region
+  source: osm
+origin:
+  name: Irmgard Lüders
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Restorf
+    type: place
+  - name: Seedorf
+    type: place
+parents:
+  - 01FBYZQVFEERGK9E2W84G9TFJ3
+files:
+  - role: main
+    original_name: scan_692.tif
+    path: files/d7/97/d797eeb3944d53b3fc5092a0a32526515b2aa85a18d224666d0166913f66daaf/original.tif
+    sha256: d797eeb3944d53b3fc5092a0a32526515b2aa85a18d224666d0166913f66daaf
+    mime: image/tiff
+    bytes: 20250219
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/97/d797eeb3944d53b3fc5092a0a32526515b2aa85a18d224666d0166913f66daaf/preview-400.438eb3086f7c.jpg
+        sha256: 438eb3086f7c84175edb6f3172386be29120e18608310fa1a61cd45e2c49360c
+        mime: image/jpeg
+        bytes: 86400
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

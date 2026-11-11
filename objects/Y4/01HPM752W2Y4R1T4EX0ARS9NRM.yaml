@@ -1,0 +1,37 @@
+id: 01HPM752W2Y4R1T4EX0ARS9NRM
+type: image
+subtype: plan
+title: Bauplan Kirche St. Johannis 1910
+date: 1910-04-02
+location: Lüchow, Am Elbdeich
+origin:
+  name: Elfriede Behrens
+  type: person
+  location: Wittenberge
+owner:
+  name: Wilhelm Harms
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Deicharbeiten 1910
+    type: event
+files:
+  - role: main
+    original_name: scan_874.tif
+    path: files/40/0c/400c8e962aa89b342998a94e1d413c3107b5896af1a88d06eccf660a8907c7e3/original.tif
+    sha256: 400c8e962aa89b342998a94e1d413c3107b5896af1a88d06eccf660a8907c7e3
+    mime: image/tiff
+    bytes: 8249777
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/40/0c/400c8e962aa89b342998a94e1d413c3107b5896af1a88d06eccf660a8907c7e3/preview-400.c53046e4e711.jpg
+        sha256: c53046e4e7118f22f0a55159618216d0ccbc2de1d820f2243192ddfee58c6e87
+        mime: image/jpeg
+        bytes: 59118
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

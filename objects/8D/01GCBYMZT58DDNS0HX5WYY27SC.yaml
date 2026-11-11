@@ -1,0 +1,49 @@
+id: 01GCBYMZT58DDNS0HX5WYY27SC
+type: document
+subtype: note
+title: Rechnung Ihde, Wassermühle
+description: Beleg mit Stempel.
+date: 1975-08-07
+location: Holtorf, Hinter den Höfen
+geocode:
+  lat: 52.9403
+  lon: 11.5174
+  precision: region
+  source: osm
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 26/085
+subjects:
+  - name: Dorffest 1975
+    type: event
+  - name: Feuerwehrhaus
+    type: building
+  - name: Holtorf
+    type: place
+parents:
+  - 01G6DC0XN5QKR1Z7MS1R51BN2J
+files:
+  - role: page
+    num: 1
+    original_name: note_yy27sc_001.tif
+    path: files/c5/a3/c5a3b765c9fbe13b826cd4e950d2ebed1baabbe8fa50144200381785b72731d6/original.tif
+    sha256: c5a3b765c9fbe13b826cd4e950d2ebed1baabbe8fa50144200381785b72731d6
+    mime: image/tiff
+    bytes: 27000628
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c5/a3/c5a3b765c9fbe13b826cd4e950d2ebed1baabbe8fa50144200381785b72731d6/preview-400.b14546e27d0c.jpg
+        sha256: b14546e27d0cf0a09462d8eef34e312e492713e3d254ef1da7e854a9522bd16b
+        mime: image/jpeg
+        bytes: 77312
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

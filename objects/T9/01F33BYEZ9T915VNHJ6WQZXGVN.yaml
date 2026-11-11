@@ -1,0 +1,33 @@
+id: 01F33BYEZ9T915VNHJ6WQZXGVN
+type: image
+subtype: photo
+title: Ernst Voss, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1938-03
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Seedorf
+    type: place
+parents:
+  - 01JJNGWHZ0RP8DV6ZT19QKH0BJ
+files:
+  - role: main
+    original_name: scan_556.tif
+    path: files/c5/08/c508da2683c94b95828568689b6fc065dbeb03e86580eef072e1ff9f6155aa68/original.tif
+    sha256: c508da2683c94b95828568689b6fc065dbeb03e86580eef072e1ff9f6155aa68
+    mime: image/tiff
+    bytes: 18099310
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c5/08/c508da2683c94b95828568689b6fc065dbeb03e86580eef072e1ff9f6155aa68/preview-400.3c000a56ed4c.jpg
+        sha256: 3c000a56ed4cd2beccbc2b6fa846db670463e192560ea31d57a7cd047385e327
+        mime: image/jpeg
+        bytes: 43550
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

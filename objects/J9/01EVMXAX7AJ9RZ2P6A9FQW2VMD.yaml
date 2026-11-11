@@ -1,0 +1,56 @@
+id: 01EVMXAX7AJ9RZ2P6A9FQW2VMD
+type: document
+subtype: note
+title: Rechnung Krüger, Wassermühle
+date: 1923-12
+location: Havelberg, Lange Straße
+geocode:
+  lat: 52.997
+  lon: 11.5544
+  precision: region
+  source: osm
+origin:
+  name: August Ahrens
+  type: person
+  location: Cumlosen
+files:
+  - role: page
+    num: 1
+    original_name: note_qw2vmd_001.tif
+    path: files/97/a8/97a86d7c5074c12ef8f472777e82d18be3cebe6f709f28b9b4779e4c0317ba8e/original.tif
+    sha256: 97a86d7c5074c12ef8f472777e82d18be3cebe6f709f28b9b4779e4c0317ba8e
+    mime: image/tiff
+    bytes: 3411095
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/a8/97a86d7c5074c12ef8f472777e82d18be3cebe6f709f28b9b4779e4c0317ba8e/preview-400.52674e4106f8.jpg
+        sha256: 52674e4106f84425c9053a3337cc39831d08890cc5f746934382b3089856401c
+        mime: image/jpeg
+        bytes: 57312
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_qw2vmd_002.tif
+    path: files/e1/98/e1989c3ba79ba44ca49cc7c0b0043e4f57cc1e3933705934d6e776e8dab238e7/original.tif
+    sha256: e1989c3ba79ba44ca49cc7c0b0043e4f57cc1e3933705934d6e776e8dab238e7
+    mime: image/tiff
+    bytes: 21597468
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e1/98/e1989c3ba79ba44ca49cc7c0b0043e4f57cc1e3933705934d6e776e8dab238e7/preview-400.e22c48424d8b.jpg
+        sha256: e22c48424d8b464270a198cc11f181c2c500c4a786a592065172d54b04c68e57
+        mime: image/jpeg
+        bytes: 68867
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

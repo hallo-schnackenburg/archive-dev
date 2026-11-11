@@ -1,0 +1,40 @@
+id: 01JB87QGNP76NXF01SZFTVCWMQ
+type: image
+subtype: drawing
+title: Entwurf für Schmiede, Pretzier
+description: Federzeichnung, laviert.
+date: 1862-06-04
+location: Laase, Gartenstraße
+geocode:
+  lat: 53.0471
+  lon: 11.5627
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Album 16/012
+parents:
+  - 01KC6VVRX03XHNE2QA3QHP7TYJ
+files:
+  - role: main
+    original_name: scan_049.tif
+    path: files/87/d4/87d4426c146b7da15ef3b52e19f4492ea8c56d488a9c62f1b3704359070032d1/original.tif
+    sha256: 87d4426c146b7da15ef3b52e19f4492ea8c56d488a9c62f1b3704359070032d1
+    mime: image/tiff
+    bytes: 18035881
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/87/d4/87d4426c146b7da15ef3b52e19f4492ea8c56d488a9c62f1b3704359070032d1/preview-400.14523f08d7a0.jpg
+        sha256: 14523f08d7a01a1c89adbfe5114ee3e9f4e07a59cdb71cb6d858ef1e12ef52b2
+        mime: image/jpeg
+        bytes: 77314
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

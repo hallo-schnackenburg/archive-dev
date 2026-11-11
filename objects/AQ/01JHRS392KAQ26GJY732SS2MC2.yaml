@@ -1,0 +1,85 @@
+id: 01JHRS392KAQ26GJY732SS2MC2
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Viehseuche 1849
+description: Anwesend waren 11 Personen.
+date: 1849-01
+location: Wootz, Apotheke
+geocode:
+  lat: 53.0403
+  lon: 11.5468
+  precision: town
+  source: osm
+origin:
+  name: Stadtrat Lüchow
+  type: business
+  location: Seedorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Käthe Wiese
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: protocol_ss2mc2_001.tif
+    path: files/f3/d1/f3d1f1807bc2200839c136071eecfedbeaed2a63238c55a81ecebe467efbb75f/original.tif
+    sha256: f3d1f1807bc2200839c136071eecfedbeaed2a63238c55a81ecebe467efbb75f
+    mime: image/tiff
+    bytes: 10360391
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f3/d1/f3d1f1807bc2200839c136071eecfedbeaed2a63238c55a81ecebe467efbb75f/preview-400.5377daa741d0.jpg
+        sha256: 5377daa741d0bdfa564033cf60426fea016a10a592efd2e372073e9d51fd6759
+        mime: image/jpeg
+        bytes: 71387
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_ss2mc2_002.tif
+    path: files/08/dc/08dcbbc04597a6cc994c958da18337cf8e8d1f44c5a82ca1ac917bab226ada8a/original.tif
+    sha256: 08dcbbc04597a6cc994c958da18337cf8e8d1f44c5a82ca1ac917bab226ada8a
+    mime: image/tiff
+    bytes: 20156206
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/08/dc/08dcbbc04597a6cc994c958da18337cf8e8d1f44c5a82ca1ac917bab226ada8a/preview-400.61e76d7fc594.jpg
+        sha256: 61e76d7fc594f3ab4974018249e2ffca5c61333bd453c33d0a747cfa0599e2e1
+        mime: image/jpeg
+        bytes: 61236
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_ss2mc2_003.tif
+    path: files/30/f3/30f38cb96470963083142f1ac6ff17234616219b94e4061e37c92632cead5442/original.tif
+    sha256: 30f38cb96470963083142f1ac6ff17234616219b94e4061e37c92632cead5442
+    mime: image/tiff
+    bytes: 25557655
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/30/f3/30f38cb96470963083142f1ac6ff17234616219b94e4061e37c92632cead5442/preview-400.e28e6e856c8a.jpg
+        sha256: e28e6e856c8a674cec31b8bda80aa7c89919b96a781bfeb4d98c74e74be212f9
+        mime: image/jpeg
+        bytes: 79678
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

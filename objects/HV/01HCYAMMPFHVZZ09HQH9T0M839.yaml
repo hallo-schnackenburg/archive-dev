@@ -1,0 +1,45 @@
+id: 01HCYAMMPFHVZZ09HQH9T0M839
+type: image
+subtype: photo
+title: Frieda Schulz, Porträt
+description: Zu sehen sind Kegelbahn und Schmiede.
+date: 1918-03
+location: Restorf, Burgstraße
+geocode:
+  lat: 53.0976
+  lon: 11.6482
+  precision: region
+  source: osm
+origin:
+  name: Karl Wegner
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Fotos 8/148
+  note: Kellerarchiv
+parents:
+  - 01KVHW9J5WMTP6BZZ691K647CF
+files:
+  - role: main
+    original_name: scan_155.tif
+    path: files/71/9e/719ecae7c42ba38b06c553732f75284ce6830a7839803405a06b56be63ca35a2/original.tif
+    sha256: 719ecae7c42ba38b06c553732f75284ce6830a7839803405a06b56be63ca35a2
+    mime: image/tiff
+    bytes: 23813897
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/71/9e/719ecae7c42ba38b06c553732f75284ce6830a7839803405a06b56be63ca35a2/preview-400.ebb04cea8d94.jpg
+        sha256: ebb04cea8d94092f4ce25354313be6be26e4c187d2d079880dc5f7138cb1ff16
+        mime: image/jpeg
+        bytes: 53258
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

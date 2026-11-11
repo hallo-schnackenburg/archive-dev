@@ -1,0 +1,39 @@
+id: 01F4GRZWG20WB0QW7KA5VCZ7FN
+type: image
+subtype: plan
+title: Grundriss Schmiede
+date: "1761"
+location: Arendsee, Hinter den Höfen
+geocode:
+  lat: 52.9127
+  lon: 11.6476
+  precision: region
+  source: osm
+subjects:
+  - name: Hans Heuer
+    type: person
+  - name: Paul Wegner
+    type: person
+parents:
+  - 01HX63HPJQWPA2R8TSS7RY7SQZ
+  - 01FT5CTVAMDQF7480XV03FD2CZ
+files:
+  - role: main
+    original_name: scan_050.tif
+    path: files/d2/26/d22645fc15a307ce1e1e83c33ff1de6d15242a2f9e8249942ac07cc39104a3f9/original.tif
+    sha256: d22645fc15a307ce1e1e83c33ff1de6d15242a2f9e8249942ac07cc39104a3f9
+    mime: image/tiff
+    bytes: 2107256
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d2/26/d22645fc15a307ce1e1e83c33ff1de6d15242a2f9e8249942ac07cc39104a3f9/preview-400.feac3bd73544.jpg
+        sha256: feac3bd73544222052fd98850c3c23823d52ac96e92777e2f8f6118764cdd7a3
+        mime: image/jpeg
+        bytes: 46104
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

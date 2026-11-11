@@ -1,0 +1,30 @@
+id: 01H3T33Y4JSZ0EA0C9E5WD1GDW
+type: image
+subtype: plan
+title: Grundriss Pfarrhaus, Lüchow
+date: 199X
+subjects:
+  - name: Gutshaus
+    type: building
+  - name: Dömitz
+    type: place
+files:
+  - role: main
+    original_name: scan_099.tif
+    path: files/2b/1d/2b1d3c23f1ed6ffb71f2f1e2d156e0f54ba470ca7ce5a3daa2d3935a9304ca47/original.tif
+    sha256: 2b1d3c23f1ed6ffb71f2f1e2d156e0f54ba470ca7ce5a3daa2d3935a9304ca47
+    mime: image/tiff
+    bytes: 2455498
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2b/1d/2b1d3c23f1ed6ffb71f2f1e2d156e0f54ba470ca7ce5a3daa2d3935a9304ca47/preview-400.04a619666a42.jpg
+        sha256: 04a619666a424853cb072cd78a08ea072b119bd704926fa3de4460a0c4e1127d
+        mime: image/jpeg
+        bytes: 62915
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

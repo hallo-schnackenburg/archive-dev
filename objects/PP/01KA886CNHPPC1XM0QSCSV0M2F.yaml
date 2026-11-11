@@ -1,0 +1,35 @@
+id: 01KA886CNHPPC1XM0QSCSV0M2F
+type: image
+subtype: drawing
+title: Dorfschule, Aquarell, Gartow
+date: 1837/1847
+location: Kapern, Hinter den Höfen
+geocode:
+  lat: 53.032
+  lon: 11.5104
+  precision: exact
+  source: osm
+origin:
+  name: Helga Ahrens
+  type: person
+  location: Dömitz
+files:
+  - role: main
+    original_name: scan_643.tif
+    path: files/eb/77/eb772a0caf1773bf61f962cafa0e2487d9d780bf94429c278a9a0c787cb05431/original.tif
+    sha256: eb772a0caf1773bf61f962cafa0e2487d9d780bf94429c278a9a0c787cb05431
+    mime: image/tiff
+    bytes: 13839656
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/eb/77/eb772a0caf1773bf61f962cafa0e2487d9d780bf94429c278a9a0c787cb05431/preview-400.2c6ef0cfb3e4.jpg
+        sha256: 2c6ef0cfb3e413c9d99a321b11bd2f71cb673f89c2842cfddb4e3d881eded397
+        mime: image/jpeg
+        bytes: 77607
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

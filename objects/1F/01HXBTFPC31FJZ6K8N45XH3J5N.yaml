@@ -1,0 +1,33 @@
+id: 01HXBTFPC31FJZ6K8N45XH3J5N
+type: image
+subtype: photo
+title: Ortsbesichtigung 1952
+description: Zu sehen sind Kirche St. Johannis und Gemeindehaus.
+location: Seedorf, Apotheke
+origin:
+  name: Otto Gerdes
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: scan_025.tif
+    path: files/fd/61/fd617c3afbd35996fa5d08636c95bc06b3283dff19c4e78cb0f5d9c3e529be30/original.tif
+    sha256: fd617c3afbd35996fa5d08636c95bc06b3283dff19c4e78cb0f5d9c3e529be30
+    mime: image/tiff
+    bytes: 9892202
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fd/61/fd617c3afbd35996fa5d08636c95bc06b3283dff19c4e78cb0f5d9c3e529be30/preview-400.0baaaf9600ed.jpg
+        sha256: 0baaaf9600edd5ef5f04e8928032fdb7ebf24b06f6e8ae6e4d3559005795d305
+        mime: image/jpeg
+        bytes: 70039
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

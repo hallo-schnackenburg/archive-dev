@@ -1,0 +1,60 @@
+id: 01K6ZKS6HZPGHCBZXXQYH9GTAC
+type: document
+subtype: note
+title: "Handschriftliche Notiz: Sturmschaden"
+description: Zettel, Bleistift.
+date: 188X
+location: Zadrau, Bahnhof
+origin:
+  name: Karl Lemke
+  type: person
+  location: Cumlosen
+language: de
+subjects:
+  - name: Erika Ahrens
+    type: person
+  - name: Gutshaus
+    type: building
+parents:
+  - 01GT4AQMYDQV6X3W40VS0A09TX
+files:
+  - role: page
+    num: 1
+    original_name: note_h9gtac_001.tif
+    path: files/2a/47/2a4755555d5e9e7b8f2395e94464b8f5b3a12d6233d94882b7335ffc83c986f5/original.tif
+    sha256: 2a4755555d5e9e7b8f2395e94464b8f5b3a12d6233d94882b7335ffc83c986f5
+    mime: image/tiff
+    bytes: 5646174
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2a/47/2a4755555d5e9e7b8f2395e94464b8f5b3a12d6233d94882b7335ffc83c986f5/preview-400.b9071c7a1ce3.jpg
+        sha256: b9071c7a1ce3635dfc329b20ae0bf876ff565196d8a057185eaf43c847f66419
+        mime: image/jpeg
+        bytes: 21115
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_h9gtac_002.tif
+    path: files/d2/64/d2649af62abd41274ab8d5d3d70127e331d1f996ae7e783790aa26ad45fa8abd/original.tif
+    sha256: d2649af62abd41274ab8d5d3d70127e331d1f996ae7e783790aa26ad45fa8abd
+    mime: image/tiff
+    bytes: 27217126
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d2/64/d2649af62abd41274ab8d5d3d70127e331d1f996ae7e783790aa26ad45fa8abd/preview-400.6392c9939d7f.jpg
+        sha256: 6392c9939d7f6a0ab397f0ca80e1b7c2f433fe5e17e62f67c898eb50af3886c9
+        mime: image/jpeg
+        bytes: 47614
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

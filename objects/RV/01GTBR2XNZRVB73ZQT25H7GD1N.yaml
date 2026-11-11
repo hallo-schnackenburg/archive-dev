@@ -1,0 +1,35 @@
+id: 01GTBR2XNZRVB73ZQT25H7GD1N
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Gartow
+location: Wittenberge, Gartenstraße
+origin:
+  name: Elfriede Voss
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Familie Prieß
+    type: person
+    location: Bömenzien
+  reference: Br 31/286
+files:
+  - role: main
+    original_name: scan_794.tif
+    path: files/b4/63/b463a12f90eed95c56b59ab1a24679e9ef6ea52ab711543436b7f68078f74551/original.tif
+    sha256: b463a12f90eed95c56b59ab1a24679e9ef6ea52ab711543436b7f68078f74551
+    mime: image/tiff
+    bytes: 21311533
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/63/b463a12f90eed95c56b59ab1a24679e9ef6ea52ab711543436b7f68078f74551/preview-400.0e061e5ad5fe.jpg
+        sha256: 0e061e5ad5fee55350c347ee04e8e7f8247cf3bcf8431b68ddac3837c1ccc885
+        mime: image/jpeg
+        bytes: 57442
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

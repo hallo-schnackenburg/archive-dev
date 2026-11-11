@@ -1,0 +1,46 @@
+id: 01HVPVW1KMJZ7G5G6C2SDA9R81
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Hochzeit, Gartow"
+date: 1920/1926
+location: Holtorf, Bahnhofstraße
+geocode:
+  lat: 53.05
+  lon: 11.581
+  precision: street
+  source: osm
+origin:
+  name: Otto Eggers
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan 20/167
+subjects:
+  - name: Pumpenhaus
+    type: building
+parents:
+  - 01KZ4MB5E6YQFP0FDWJ529S5A8
+files:
+  - role: main
+    original_name: scan_145.tif
+    path: files/6f/71/6f7113654befac8769e246f18c19051f57d74d372d6f0f7d9ebe6d8e42305eec/original.tif
+    sha256: 6f7113654befac8769e246f18c19051f57d74d372d6f0f7d9ebe6d8e42305eec
+    mime: image/tiff
+    bytes: 10713981
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/6f/71/6f7113654befac8769e246f18c19051f57d74d372d6f0f7d9ebe6d8e42305eec/preview-400.2923612a17ed.jpg
+        sha256: 2923612a17eda50bfdcda0be408604285948257fefeea469f4085391787822e2
+        mime: image/jpeg
+        bytes: 45977
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

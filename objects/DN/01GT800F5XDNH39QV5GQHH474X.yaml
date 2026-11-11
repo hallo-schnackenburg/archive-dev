@@ -1,0 +1,48 @@
+id: 01GT800F5XDNH39QV5GQHH474X
+type: image
+subtype: photo
+title: Rudolf Voss vor dem Speicher
+date: 1959?
+location: Rüterberg, Lange Straße
+geocode:
+  lat: 53.0743
+  lon: 11.5212
+  precision: exact
+  source: osm
+origin:
+  name: Frieda Albers
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Planschrank, Fach 3
+subjects:
+  - name: Mühle
+    type: building
+  - name: Renate Tiedemann
+    type: person
+  - name: Kirmes 1959
+    type: event
+files:
+  - role: main
+    original_name: scan_842.tif
+    path: files/ca/15/ca156cc86872772218c45862f58837dfafad3bb65eac3b72742176bd09e8b648/original.tif
+    sha256: ca156cc86872772218c45862f58837dfafad3bb65eac3b72742176bd09e8b648
+    mime: image/tiff
+    bytes: 1343824
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ca/15/ca156cc86872772218c45862f58837dfafad3bb65eac3b72742176bd09e8b648/preview-400.2f280a34e6a3.jpg
+        sha256: 2f280a34e6a319d457b585b23d86afa90d3b1f907ab89e72eea1412da0fed7b2
+        mime: image/jpeg
+        bytes: 80963
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

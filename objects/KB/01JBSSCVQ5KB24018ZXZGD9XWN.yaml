@@ -1,0 +1,46 @@
+id: 01JBSSCVQ5KB24018ZXZGD9XWN
+type: image
+subtype: plan
+title: Deichplan Cumlosen bis Holtorf
+description: Mit handschriftlichen Ergänzungen.
+date: 1986-02-26
+location: Wustrow, Hafenstraße
+origin:
+  name: Lotte Matthies
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 14/110
+owner:
+  name: Otto Harms
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Nienwalde
+    type: place
+files:
+  - role: main
+    original_name: scan_631.tif
+    path: files/a3/15/a31561f1055a2f5111e78d4d913acb766fae0fdb606cd8ad26458e84d5be7e58/original.tif
+    sha256: a31561f1055a2f5111e78d4d913acb766fae0fdb606cd8ad26458e84d5be7e58
+    mime: image/tiff
+    bytes: 6726490
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a3/15/a31561f1055a2f5111e78d4d913acb766fae0fdb606cd8ad26458e84d5be7e58/preview-400.b92c07127200.jpg
+        sha256: b92c07127200820b021d5fc11503c063e6fcfa22582efc4dc185a8b9f0d8ca50
+        mime: image/jpeg
+        bytes: 51657
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

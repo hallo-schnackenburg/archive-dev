@@ -1,0 +1,48 @@
+id: 01FEDZBHPB7J1DAGMZDWPSWHS1
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Einschulung, Restorf"
+date: 1833-12
+location: Laase, Tanzsaal
+geocode:
+  lat: 52.9272
+  lon: 11.4828
+  precision: street
+  source: osm
+origin:
+  name: Albert Eggers
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Fotos/Mappe 4/004
+subjects:
+  - name: Wassermühle
+    type: building
+  - name: Gülden
+    type: place
+parents:
+  - 01F5WN4D1FQE5PP5MD0YFVKCS4
+files:
+  - role: main
+    original_name: scan_918.tif
+    path: files/90/ba/90bab61b63997ec0a38a47d48ad9774b748d7632a7372f34c1d1688ebe761bac/original.tif
+    sha256: 90bab61b63997ec0a38a47d48ad9774b748d7632a7372f34c1d1688ebe761bac
+    mime: image/tiff
+    bytes: 14193055
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/90/ba/90bab61b63997ec0a38a47d48ad9774b748d7632a7372f34c1d1688ebe761bac/preview-400.0c16f920ac09.jpg
+        sha256: 0c16f920ac09efea678005081f5feb5f1bfc8e1322be0d331c68ece79a776261
+        mime: image/jpeg
+        bytes: 87344
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01JENJDES34ZT2ZMGGMGFQN6EX
+type: image
+subtype: photo
+title: Marta Ahrens vor dem Feuerwehrhaus
+description: Aufnahme von Hans Lüders.
+date: 1966-08-15
+location: Wustrow, Am Elbdeich
+origin:
+  name: Fritz Garms
+  type: person
+  location: Lüchow
+subjects:
+  - name: Zadrau
+    type: place
+  - name: August Eggers
+    type: person
+  - name: Uwe Tiedemann
+    type: person
+files:
+  - role: main
+    original_name: scan_368.tif
+    path: files/18/39/1839ab8c82080a0e81d6406cb0aedf7e884fb8e9a4258701980f843e8a80b89c/original.tif
+    sha256: 1839ab8c82080a0e81d6406cb0aedf7e884fb8e9a4258701980f843e8a80b89c
+    mime: image/tiff
+    bytes: 3165495
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/18/39/1839ab8c82080a0e81d6406cb0aedf7e884fb8e9a4258701980f843e8a80b89c/preview-400.89d162730c5c.jpg
+        sha256: 89d162730c5cd6128a624e86bff678e53726ae9605a15b17c3883efe8df439a5
+        mime: image/jpeg
+        bytes: 29565
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

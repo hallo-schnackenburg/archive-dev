@@ -1,0 +1,41 @@
+id: 01G1KXHGCPEGCTRF93TS7BTTYY
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Hochwasser, Havelberg"
+location: Holtorf, Kirchstraße
+origin:
+  name: Elfriede Krüger
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg 4/165
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v84671
+subjects:
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01K17ANV6BS1YN44GQNBJ2A6CF
+files:
+  - role: main
+    original_name: scan_801.tif
+    path: files/2d/be/2dbe93f5c268b773c1404ff3d6bb94a14d4751e0a0e83ab47eaf5ec710e03728/original.tif
+    sha256: 2dbe93f5c268b773c1404ff3d6bb94a14d4751e0a0e83ab47eaf5ec710e03728
+    mime: image/tiff
+    bytes: 16707544
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/2d/be/2dbe93f5c268b773c1404ff3d6bb94a14d4751e0a0e83ab47eaf5ec710e03728/preview-400.b446b53e4057.jpg
+        sha256: b446b53e4057cdfc1ebd01c1875e9bce1462961c6308c30ed3d6e210158a69d5
+        mime: image/jpeg
+        bytes: 53241
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01FW1Q20R9NGB91Y5XM57Z6SDH
+type: image
+subtype: plan
+title: Lageplan Rathaus
+description: Maßstab 1:1000.
+date: 1897~
+origin:
+  name: Erika Voss
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Lüchow
+    type: place
+  - name: Fährjubiläum 1897
+    type: event
+files:
+  - role: main
+    original_name: scan_859.tif
+    path: files/c4/ed/c4edb8a51aa6983843ea5706f87f955932d603ee6482fa836115033a75e52a4f/original.tif
+    sha256: c4edb8a51aa6983843ea5706f87f955932d603ee6482fa836115033a75e52a4f
+    mime: image/tiff
+    bytes: 1041417
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c4/ed/c4edb8a51aa6983843ea5706f87f955932d603ee6482fa836115033a75e52a4f/preview-400.a084fdea2262.jpg
+        sha256: a084fdea22623bf1b3799d774829ac6e641cc5f3d2973ef575cb439f27149209
+        mime: image/jpeg
+        bytes: 78982
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

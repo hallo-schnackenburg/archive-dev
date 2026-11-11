@@ -1,0 +1,33 @@
+id: 01KZSMR7DVC673Q6CWVEQETYZB
+type: image
+subtype: plan
+title: Bauplan Pfarrhaus 1764
+date: 176X
+location: Gülden, Lange Straße
+origin:
+  name: Karl Garms
+  type: person
+  location: Gollensdorf
+parents:
+  - 01G71PJ0VK24HFH5RX1917VY6A
+files:
+  - role: main
+    original_name: scan_148.tif
+    path: files/fe/b7/feb71bf6b332df83aea7d98ecefc99fcda9e6b6c7d3bf1271fd753f50fd3370c/original.tif
+    sha256: feb71bf6b332df83aea7d98ecefc99fcda9e6b6c7d3bf1271fd753f50fd3370c
+    mime: image/tiff
+    bytes: 26319402
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fe/b7/feb71bf6b332df83aea7d98ecefc99fcda9e6b6c7d3bf1271fd753f50fd3370c/preview-400.660ce148947c.jpg
+        sha256: 660ce148947c09dcdf23e6f6599291888b0f35782cff37c41bcfe78e6a12bae0
+        mime: image/jpeg
+        bytes: 29542
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Datum nach Rückseite geschätzt.

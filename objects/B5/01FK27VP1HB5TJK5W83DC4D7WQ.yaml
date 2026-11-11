@@ -1,0 +1,59 @@
+id: 01FK27VP1HB5TJK5W83DC4D7WQ
+type: document
+subtype: letter
+title: Feldpostbrief von Dieter Rieke
+description: Mit Umschlag und Briefmarke.
+date: 1848-04
+location: Cumlosen, Försterei
+origin:
+  name: Hermann Rohde
+  type: person
+  location: Pretzier
+recipient: Otto Wegner
+language: de
+subjects:
+  - name: Seedorf
+    type: place
+parents:
+  - 01HBK6C2YY23CZPK2AB67CF4HH
+files:
+  - role: page
+    num: 1
+    original_name: letter_c4d7wq_001.tif
+    path: files/32/bb/32bb8a887c0b43609353780e434704d123ec09e45ee6d46cbb8cd30da975c54d/original.tif
+    sha256: 32bb8a887c0b43609353780e434704d123ec09e45ee6d46cbb8cd30da975c54d
+    mime: image/tiff
+    bytes: 26479197
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/32/bb/32bb8a887c0b43609353780e434704d123ec09e45ee6d46cbb8cd30da975c54d/preview-400.5cda1b355032.jpg
+        sha256: 5cda1b355032b036042022f39e8c8f2f371c71defd5f1d07148bdcfaca12477f
+        mime: image/jpeg
+        bytes: 47861
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_c4d7wq_002.tif
+    path: files/2b/30/2b3075bbee0adad6e358371f368dfc5c6acc496a84fd804feebe551b1cfe4a69/original.tif
+    sha256: 2b3075bbee0adad6e358371f368dfc5c6acc496a84fd804feebe551b1cfe4a69
+    mime: image/tiff
+    bytes: 1554532
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2b/30/2b3075bbee0adad6e358371f368dfc5c6acc496a84fd804feebe551b1cfe4a69/preview-400.30252198c66f.jpg
+        sha256: 30252198c66f7c236d0e9e0feefe76add78e108fa6073dee10fb482f7831dbed
+        mime: image/jpeg
+        bytes: 59133
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

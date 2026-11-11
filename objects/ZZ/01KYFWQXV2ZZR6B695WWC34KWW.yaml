@@ -1,0 +1,41 @@
+id: 01KYFWQXV2ZZR6B695WWC34KWW
+type: image
+subtype: drawing
+title: Rathaus, Aquarell, Lanz
+description: Mit Anmerkungen am Rand.
+date: "1927"
+location: Hitzacker, Marktstraße
+origin:
+  name: Wilhelm Meyer
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Sturmschaden 1927
+    type: event
+  - name: Sportplatz
+    type: building
+  - name: Feuerwehrübung 1927
+    type: event
+parents:
+  - 01F5CNJT1P56W2G465BH02E933
+  - 01FTBRH4CY1NRQ8V7FMPS575HJ
+files:
+  - role: main
+    original_name: scan_838.tif
+    path: files/29/2a/292a48b56bb5d41c4d7a8c446a4f970a8d1580146f30abc8bd5b8d1006de68f8/original.tif
+    sha256: 292a48b56bb5d41c4d7a8c446a4f970a8d1580146f30abc8bd5b8d1006de68f8
+    mime: image/tiff
+    bytes: 9927857
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/29/2a/292a48b56bb5d41c4d7a8c446a4f970a8d1580146f30abc8bd5b8d1006de68f8/preview-400.c3a33b1676f9.jpg
+        sha256: c3a33b1676f9a8b2a2ac790ac07fbb055cc5282c43436fcd899bc6cae585db20
+        mime: image/jpeg
+        bytes: 42572
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

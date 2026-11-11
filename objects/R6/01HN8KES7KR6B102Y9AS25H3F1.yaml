@@ -1,0 +1,61 @@
+id: 01HN8KES7KR6B102Y9AS25H3F1
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Imkerverein 1911
+description: "Beschlossen wurde unter anderem: Strompreise."
+date: 1911-10-22
+location: Wustrow, Fährstraße
+origin:
+  name: Bauausschuss Pretzier
+  type: business
+  location: Rüterberg
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v24982
+parents:
+  - 01H902F8KH7FGB5792BQJBD6C6
+files:
+  - role: page
+    num: 1
+    original_name: protocol_25h3f1_001.tif
+    path: files/29/2a/292a54a9dbab47636d661ca7261c16b728331d3d638896284e58a55537885f02/original.tif
+    sha256: 292a54a9dbab47636d661ca7261c16b728331d3d638896284e58a55537885f02
+    mime: image/tiff
+    bytes: 9443423
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/29/2a/292a54a9dbab47636d661ca7261c16b728331d3d638896284e58a55537885f02/preview-400.9041c18221d9.jpg
+        sha256: 9041c18221d9e55c57ede0720039b922582e6a073a34dfbeca4315a5bad6d478
+        mime: image/jpeg
+        bytes: 25732
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_25h3f1_002.tif
+    path: files/28/77/2877ced7a15bcabab3789a70c83995b2ca17f1e4445d622d93015208849d2493/original.tif
+    sha256: 2877ced7a15bcabab3789a70c83995b2ca17f1e4445d622d93015208849d2493
+    mime: image/tiff
+    bytes: 15482055
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/28/77/2877ced7a15bcabab3789a70c83995b2ca17f1e4445d622d93015208849d2493/preview-400.7e84a8bec4d6.jpg
+        sha256: 7e84a8bec4d642475f31f3109520f469fdd93060d41accd380e00bc573f20431
+        mime: image/jpeg
+        bytes: 51667
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

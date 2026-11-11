@@ -1,0 +1,41 @@
+id: 01KFC2AR12AD05WVXM9HMG06GG
+type: image
+subtype: plan
+title: Deichplan Kapern bis Schnackenburg
+location: Kapern, Fährstraße
+origin:
+  name: Emma Voss
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro/Mappe 18/020
+  note: Bücherregal links
+subjects:
+  - name: August Lüders
+    type: person
+parents:
+  - 01G996YXACFHKB4DAGY313MZ7B
+files:
+  - role: main
+    original_name: scan_171.tif
+    path: files/d8/f7/d8f7ff9c1a8dffbb2f82b72bebb0e6ba357f79f4be732d92931c2726ff7ac084/original.tif
+    sha256: d8f7ff9c1a8dffbb2f82b72bebb0e6ba357f79f4be732d92931c2726ff7ac084
+    mime: image/tiff
+    bytes: 10512354
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d8/f7/d8f7ff9c1a8dffbb2f82b72bebb0e6ba357f79f4be732d92931c2726ff7ac084/preview-400.fd7719d84f68.jpg
+        sha256: fd7719d84f6861ca223728812d5fcc121f607200e047a34549125600cb0b0cae
+        mime: image/jpeg
+        bytes: 47253
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

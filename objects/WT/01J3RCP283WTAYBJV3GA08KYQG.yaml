@@ -1,0 +1,41 @@
+id: 01J3RCP283WTAYBJV3GA08KYQG
+type: image
+subtype: print
+title: Postkarte Schnackenburg, Bäckerei Lüders
+date: 1852-03
+location: Havelberg, Kirche St. Johannis
+origin:
+  name: Rudolf Ihde
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 25/052
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Ursula Cohrs
+    type: person
+files:
+  - role: main
+    original_name: scan_188.tif
+    path: files/3d/84/3d8487180c54a760992904db2740a13c3d54e761ea5195675dbe3fe86f65eda2/original.tif
+    sha256: 3d8487180c54a760992904db2740a13c3d54e761ea5195675dbe3fe86f65eda2
+    mime: image/tiff
+    bytes: 4987189
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3d/84/3d8487180c54a760992904db2740a13c3d54e761ea5195675dbe3fe86f65eda2/preview-400.bc5367e9b2c6.jpg
+        sha256: bc5367e9b2c642c3cc21b14fb297c528317a78ad143e7dc469c95f1c3b47a9be
+        mime: image/jpeg
+        bytes: 81420
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

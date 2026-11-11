@@ -1,0 +1,51 @@
+id: 01HX717RNSPSMFV07CHD9A6RCQ
+type: image
+subtype: photo
+title: Weihnachtsmarkt der Imkerverein
+date: 1916-06-27
+location: Holtorf, Marktstraße
+geocode:
+  lat: 53.0606
+  lon: 11.5387
+  precision: region
+  source: osm
+origin:
+  name: Käthe Lüders
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg 28/175
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Fährjubiläum 1916
+    type: event
+  - name: Wootz
+    type: place
+  - name: Wustrow
+    type: place
+parents:
+  - 01G5R1162DAMHHJWCJ6KKBZX71
+files:
+  - role: main
+    original_name: IMG_5009.jpg
+    path: files/8a/73/8a7329a5ac06d3406d2b40a3ba0932091dc5b1c652552e81d0f81bb9788f64fb/original.jpg
+    sha256: 8a7329a5ac06d3406d2b40a3ba0932091dc5b1c652552e81d0f81bb9788f64fb
+    mime: image/jpeg
+    bytes: 5106637
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/8a/73/8a7329a5ac06d3406d2b40a3ba0932091dc5b1c652552e81d0f81bb9788f64fb/preview-400.035a5606995f.jpg
+        sha256: 035a5606995f49da4e1c3cd8e4e583fb5e1b54596149eb928f5d4e474dc8beab
+        mime: image/jpeg
+        bytes: 62671
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,52 @@
+id: 01K8NF9N0A7FD05XGQGE7NHKYK
+type: image
+subtype: print
+title: Postkarte Zadrau, Pumpenhaus
+description: Kupferstich, koloriert.
+date: 1810-04-08
+location: Zadrau, Bahnhofstraße
+geocode:
+  lat: 52.9211
+  lon: 11.5584
+  precision: region
+  source: osm
+origin:
+  name: Gerda Voss
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Familie Hennings
+    type: person
+    location: Gorleben
+  reference: Pro 11/237
+subjects:
+  - name: Heinrich Wegner
+    type: person
+  - name: Scheune
+    type: building
+  - name: Zadrau
+    type: place
+parents:
+  - 01GA5Z0DBZAQFYJJA123R8HCJ9
+files:
+  - role: main
+    original_name: scan_472.tif
+    path: files/9c/5a/9c5ab11aaebc09e7594a4c20bae6643b823c2535ae8113c57037845b7f324b84/original.tif
+    sha256: 9c5ab11aaebc09e7594a4c20bae6643b823c2535ae8113c57037845b7f324b84
+    mime: image/tiff
+    bytes: 16942966
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9c/5a/9c5ab11aaebc09e7594a4c20bae6643b823c2535ae8113c57037845b7f324b84/preview-400.5af2e2ee227e.jpg
+        sha256: 5af2e2ee227e64e98c8f8b95c167a693ea865383c80875a26f0494c985bc4975
+        mime: image/jpeg
+        bytes: 40427
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Person links unbekannt.

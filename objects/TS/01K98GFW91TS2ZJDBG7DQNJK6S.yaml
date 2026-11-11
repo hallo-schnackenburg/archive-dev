@@ -1,0 +1,41 @@
+id: 01K98GFW91TS2ZJDBG7DQNJK6S
+type: image
+subtype: photo
+title: Fritz Fricke, Porträt
+date: "1999"
+location: Wootz, Bäckerei Lüders
+geocode:
+  lat: 52.9222
+  lon: 11.6753
+  precision: street
+  source: osm
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Ortsbesichtigung 1999
+    type: event
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01HE6ENCA0W2Z468GKA6QXY516
+  - 01K8HWTS9YNZVY4EVEMNNZSHBJ
+files:
+  - role: main
+    original_name: DSC9963.jpg
+    path: files/c0/72/c07215f225ac8d5393a0e2bf962f597000d1a81bf51f2597ba4aaf8a74b23f7e/original.jpg
+    sha256: c07215f225ac8d5393a0e2bf962f597000d1a81bf51f2597ba4aaf8a74b23f7e
+    mime: image/jpeg
+    bytes: 2102171
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/c0/72/c07215f225ac8d5393a0e2bf962f597000d1a81bf51f2597ba4aaf8a74b23f7e/preview-400.99388bae8000.jpg
+        sha256: 99388bae80003376e606e8a29a1fa281d83a1b9240bf4cfb4eaa1239c89a960a
+        mime: image/jpeg
+        bytes: 74958
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

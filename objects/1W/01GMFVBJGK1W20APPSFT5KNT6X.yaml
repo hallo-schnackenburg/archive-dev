@@ -1,0 +1,30 @@
+id: 01GMFVBJGK1W20APPSFT5KNT6X
+type: image
+subtype: print
+title: Postkarte Bömenzien, Schmiede
+date: "1903"
+location: Pretzier, Fachwerkhaus Marktstraße 4
+origin:
+  name: Heinrich Schwarz
+  type: person
+  location: Wootz
+files:
+  - role: main
+    original_name: scan_039.tif
+    path: files/ca/66/ca66c0ba10f0a3024cac9545f2fab53df14574be10d903233bbe660af7aa908e/original.tif
+    sha256: ca66c0ba10f0a3024cac9545f2fab53df14574be10d903233bbe660af7aa908e
+    mime: image/tiff
+    bytes: 5860479
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ca/66/ca66c0ba10f0a3024cac9545f2fab53df14574be10d903233bbe660af7aa908e/preview-400.7d4769de70f3.jpg
+        sha256: 7d4769de70f3dd86dc912b00486d6e74992e2aea9ba1248e0de34dbcd577a70b
+        mime: image/jpeg
+        bytes: 80383
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

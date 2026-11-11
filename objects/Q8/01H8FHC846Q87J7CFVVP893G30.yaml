@@ -1,0 +1,41 @@
+id: 01H8FHC846Q87J7CFVVP893G30
+type: image
+subtype: print
+title: Postkarte Cumlosen, Molkerei
+description: Kupferstich, koloriert.
+date: "1864"
+location: Holtorf, Fachwerkhaus Marktstraße 4
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 4, Kiste 2
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v86040
+subjects:
+  - name: Dorfladen
+    type: building
+  - name: Kriegerdenkmal
+    type: building
+  - name: Erntedankfest 1864
+    type: event
+files:
+  - role: main
+    original_name: scan_715.tif
+    path: files/a6/d2/a6d2d5f6056f864fbf3c490198034d4dba44899953ff0a3ef7f9246b7fe2bd65/original.tif
+    sha256: a6d2d5f6056f864fbf3c490198034d4dba44899953ff0a3ef7f9246b7fe2bd65
+    mime: image/tiff
+    bytes: 25517817
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a6/d2/a6d2d5f6056f864fbf3c490198034d4dba44899953ff0a3ef7f9246b7fe2bd65/preview-400.5deb3f94ec7f.jpg
+        sha256: 5deb3f94ec7f793aa4d062b432efcd5d3ad407568799a3f315bf53d090dad09d
+        mime: image/jpeg
+        bytes: 87186
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

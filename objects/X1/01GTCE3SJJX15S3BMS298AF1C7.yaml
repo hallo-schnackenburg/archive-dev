@@ -1,0 +1,31 @@
+id: 01GTCE3SJJX15S3BMS298AF1C7
+type: image
+subtype: plan
+title: Deichplan Lüchow bis Lanz
+description: Maßstab 1:250.
+date: 1910/1918
+location: Dömitz, Elbstraße
+origin:
+  name: Horst Behrens
+  type: person
+  location: Lüchow
+files:
+  - role: main
+    original_name: scan_366.tif
+    path: files/f0/0f/f00f0413e0cfb269643d47dee0b92769eac8ec3ed4f4b22fcd991ce17953aa65/original.tif
+    sha256: f00f0413e0cfb269643d47dee0b92769eac8ec3ed4f4b22fcd991ce17953aa65
+    mime: image/tiff
+    bytes: 27109922
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f0/0f/f00f0413e0cfb269643d47dee0b92769eac8ec3ed4f4b22fcd991ce17953aa65/preview-400.776a2c370b65.jpg
+        sha256: 776a2c370b650d0d716bf37590192db6d7762c3bb25c3deee6fe002cc9e02520
+        mime: image/jpeg
+        bytes: 46208
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

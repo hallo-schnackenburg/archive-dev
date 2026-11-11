@@ -1,0 +1,40 @@
+id: 01F0CTP2HTK17SEDGNGXDTVMR7
+type: image
+subtype: print
+title: Gruß aus Laase
+description: Kupferstich, koloriert.
+date: 1843-07-09
+location: Brünkendorf, Marktstraße
+origin:
+  name: Paul Jeß
+  type: person
+  location: Restorf
+subjects:
+  - name: Heinrich Plate
+    type: person
+  - name: Tischlerei Bruns
+    type: building
+  - name: Erika Wegner
+    type: person
+parents:
+  - 01FGVBASJXHEH355K2B76NTT5V
+files:
+  - role: main
+    original_name: scan_423.tif
+    path: files/af/8b/af8b4ee23ab35eb32468cec5b4b3f231cf48f832d1405b57ee5f9bd0dae89b76/original.tif
+    sha256: af8b4ee23ab35eb32468cec5b4b3f231cf48f832d1405b57ee5f9bd0dae89b76
+    mime: image/tiff
+    bytes: 3498202
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/af/8b/af8b4ee23ab35eb32468cec5b4b3f231cf48f832d1405b57ee5f9bd0dae89b76/preview-400.1d243791d792.jpg
+        sha256: 1d243791d792307ff14cf3568eb1f740560a301ebde93e664b0039fe6f12911f
+        mime: image/jpeg
+        bytes: 83747
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01GXPW5JBP6JZY19G5HMZZ2C9Q
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Spielmannszug 1882
+description: "Beschlossen wurde unter anderem: Viehseuche."
+date: 1882-11-17
+location: Cumlosen, Deichstraße
+geocode:
+  lat: 53.0564
+  lon: 11.6284
+  precision: exact
+  source: osm
+origin:
+  name: Verbandsversammlung Arendsee
+  type: business
+  location: Wustrow
+language: de
+owner:
+  name: Walter Rieke
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Kegelbahn
+    type: building
+  - name: Osterfeuer 1882
+    type: event
+  - name: Lanz
+    type: place
+storage: external
+external:
+  - type: archive
+    site: Landesarchiv Hannover
+    uri: https://landesarchiv-hannover.example.org/objekt/285222
+    reference: Hann. 220 Nr. 4600
+    note: nur Findbuch
+  - type: platform
+    site: Wikimedia Commons
+    uri: https://wikimedia-commons.example.org/objekt/543416

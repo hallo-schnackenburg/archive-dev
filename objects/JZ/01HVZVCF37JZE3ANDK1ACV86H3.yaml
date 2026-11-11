@@ -1,0 +1,42 @@
+id: 01HVZVCF37JZE3ANDK1ACV86H3
+type: image
+subtype: print
+title: Postkarte Hitzacker, Storchennest
+description: Postkarte, gelaufen 1934.
+date: 1906-01-23
+origin:
+  name: Hedwig Rieke
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 18/003
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+  - name: Tischlerei Bruns
+    type: building
+files:
+  - role: main
+    original_name: scan_752.tif
+    path: files/0b/60/0b601f4cb26143f22159340f6f0aee4e0f72feb47142b58267f56644c7cd630a/original.tif
+    sha256: 0b601f4cb26143f22159340f6f0aee4e0f72feb47142b58267f56644c7cd630a
+    mime: image/tiff
+    bytes: 17455425
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0b/60/0b601f4cb26143f22159340f6f0aee4e0f72feb47142b58267f56644c7cd630a/preview-400.8333f7a95aa0.jpg
+        sha256: 8333f7a95aa062979500967a9c21e409c77fbdff7af6fd9ac55b922dc6fee34d
+        mime: image/jpeg
+        bytes: 59395
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

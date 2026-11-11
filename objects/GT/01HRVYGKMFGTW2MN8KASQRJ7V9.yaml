@@ -1,0 +1,51 @@
+id: 01HRVYGKMFGTW2MN8KASQRJ7V9
+type: document
+subtype: note
+title: Rechnung Rieke, Molkerei
+description: Auf der Rückseite eines Formulars.
+date: 1909?
+location: Gülden, Elbstraße
+geocode:
+  lat: 53.0247
+  lon: 11.6778
+  precision: region
+  source: osm
+origin:
+  name: Hans Wegner
+  type: person
+  location: Wustrow
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro/Album 4/027
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Kirmes 1909
+    type: event
+  - name: Grenzöffnung 1909
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_qrj7v9_001.tif
+    path: files/53/c8/53c841561c7fb62a8b1ffa3993d1011e01b0ee7931d97ae1c0a02691ad36cccb/original.tif
+    sha256: 53c841561c7fb62a8b1ffa3993d1011e01b0ee7931d97ae1c0a02691ad36cccb
+    mime: image/tiff
+    bytes: 5561550
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/53/c8/53c841561c7fb62a8b1ffa3993d1011e01b0ee7931d97ae1c0a02691ad36cccb/preview-400.9b95001a6bc8.jpg
+        sha256: 9b95001a6bc8ab749b1c9f7c48bac74f6b5cb349a794bbeffb282147b2acd9ef
+        mime: image/jpeg
+        bytes: 82745
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

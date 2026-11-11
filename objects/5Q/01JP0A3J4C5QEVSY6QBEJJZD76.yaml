@@ -1,0 +1,40 @@
+id: 01JP0A3J4C5QEVSY6QBEJJZD76
+type: image
+subtype: drawing
+title: Skizze Gülden, Burgstraße
+description: Mit Anmerkungen am Rand.
+location: Kapern, Deichstraße
+origin:
+  name: Heinrich Lüders
+  type: person
+  location: Gülden
+subjects:
+  - name: Schmiede
+    type: building
+  - name: Wustrow
+    type: place
+  - name: Schützenhaus
+    type: building
+parents:
+  - 01GPX56NY6DD91HTSCGYG7TKDB
+  - 01KV80DFXW7572XGFSJ9A620CH
+files:
+  - role: main
+    original_name: scan_661.tif
+    path: files/b4/8e/b48e7608a17323e1c6de88221354f6e3dd8ce1754b7037e41e14810649881dd1/original.tif
+    sha256: b48e7608a17323e1c6de88221354f6e3dd8ce1754b7037e41e14810649881dd1
+    mime: image/tiff
+    bytes: 4081295
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/8e/b48e7608a17323e1c6de88221354f6e3dd8ce1754b7037e41e14810649881dd1/preview-400.7c2521fce07d.jpg
+        sha256: 7c2521fce07d30fef0c6dbeb39ac23c6ea60b5b7234ed93848cbaf41675d2387
+        mime: image/jpeg
+        bytes: 66423
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

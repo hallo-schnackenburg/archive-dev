@@ -1,0 +1,42 @@
+id: 01G7M3HFAAZR8VQBEXRC77CW1M
+type: document
+subtype: letter
+title: Beschwerde über Wohnungsnot
+description: Handschriftlich, 2 Seiten.
+date: 1807/1818
+location: Lanz, Mühlenweg
+geocode:
+  lat: 53.0152
+  lon: 11.5441
+  precision: street
+  source: osm
+recipient: Wilhelm Lemke
+language: de
+subjects:
+  - name: Heuberge
+    type: building
+  - name: Heuberge
+    type: building
+  - name: Schützenfest 1807
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_77cw1m_001.tif
+    path: files/2b/78/2b7845f9e15502039ae1811505133bae9bea0d9b00a5f4b0ddc3036325d67085/original.tif
+    sha256: 2b7845f9e15502039ae1811505133bae9bea0d9b00a5f4b0ddc3036325d67085
+    mime: image/tiff
+    bytes: 6013231
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2b/78/2b7845f9e15502039ae1811505133bae9bea0d9b00a5f4b0ddc3036325d67085/preview-400.2c4eaacb647c.jpg
+        sha256: 2c4eaacb647c9044e56f4b138a8b36fe9e307d0244e21738cf41210b4ec3ec78
+        mime: image/jpeg
+        bytes: 85089
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

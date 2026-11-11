@@ -1,0 +1,35 @@
+id: 01HFGHZ13HJ9XRRV447CS91XW1
+type: image
+subtype: plan
+title: Bauplan Schützenhaus 1937
+description: Maßstab 1:2500.
+date: 1937-02
+origin:
+  name: Rudolf Detlefs
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Schlachtfest 1937
+    type: event
+  - name: Richtfest 1937
+    type: event
+files:
+  - role: main
+    original_name: scan_431.tif
+    path: files/89/39/89392c8d1110545d1126980e90f77f1282a821eb4c0709051f2f4fd32c1a300e/original.tif
+    sha256: 89392c8d1110545d1126980e90f77f1282a821eb4c0709051f2f4fd32c1a300e
+    mime: image/tiff
+    bytes: 3326001
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/89/39/89392c8d1110545d1126980e90f77f1282a821eb4c0709051f2f4fd32c1a300e/preview-400.c44c7c9c6127.jpg
+        sha256: c44c7c9c6127e5a0249ca18d699aef71b72d6cc74d8cddfc9fe811948f0700c5
+        mime: image/jpeg
+        bytes: 30257
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

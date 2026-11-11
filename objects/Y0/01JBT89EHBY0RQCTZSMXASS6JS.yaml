@@ -1,0 +1,37 @@
+id: 01JBT89EHBY0RQCTZSMXASS6JS
+type: image
+subtype: photo
+title: Familie Rohde beim Straßenfest
+date: "1902"
+location: Kapern, Bahnhofstraße
+origin:
+  name: Wilhelm Meyer
+  type: person
+  location: Holtorf
+subjects:
+  - name: Kindergartenfest 1902
+    type: event
+  - name: Pumpenhaus
+    type: building
+parents:
+  - 01HSN5QZ6JGHWHBF50F9VB0XTK
+files:
+  - role: main
+    original_name: foto_9157.jpg
+    path: files/70/a7/70a772a1a5378e71044fd50520a600e73070869899b1cdbd7c8aa5c48acc67ca/original.jpg
+    sha256: 70a772a1a5378e71044fd50520a600e73070869899b1cdbd7c8aa5c48acc67ca
+    mime: image/jpeg
+    bytes: 12070462
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/70/a7/70a772a1a5378e71044fd50520a600e73070869899b1cdbd7c8aa5c48acc67ca/preview-400.3a826b587140.jpg
+        sha256: 3a826b5871409ecd9b494c4d1b806a745dfeb88781da609aadc813a1e3381b3d
+        mime: image/jpeg
+        bytes: 82350
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

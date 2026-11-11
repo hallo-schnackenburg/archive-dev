@@ -1,0 +1,44 @@
+id: 01KMFFRR86MP1AVSKD3WXT07ZX
+type: image
+subtype: print
+title: Postkarte Gartow, Kirche St. Johannis
+description: Postkarte, gelaufen 1952.
+date: "1720"
+location: Lanz, Hafenstraße
+origin:
+  name: Heinrich Wegner
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 2/090
+subjects:
+  - name: Straßenfest 1720
+    type: event
+  - name: Seedorf
+    type: place
+parents:
+  - 01JCTPZAEAG98DVMJJQRNTASRZ
+files:
+  - role: main
+    original_name: scan_705.tif
+    path: files/0f/29/0f292d08002640b126bddd837023a1d9f98f34fcd58d2b0a9dc2b0029c0e3e19/original.tif
+    sha256: 0f292d08002640b126bddd837023a1d9f98f34fcd58d2b0a9dc2b0029c0e3e19
+    mime: image/tiff
+    bytes: 16064822
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0f/29/0f292d08002640b126bddd837023a1d9f98f34fcd58d2b0a9dc2b0029c0e3e19/preview-400.48daabee1784.jpg
+        sha256: 48daabee17845b2774233612e4832391e37625c602337e8f1247c9912bd8959c
+        mime: image/jpeg
+        bytes: 59843
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

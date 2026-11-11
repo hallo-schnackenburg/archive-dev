@@ -1,0 +1,36 @@
+id: 01JS830RW9DS3SF36WCK8X7TQW
+type: image
+subtype: plan
+title: Grundriss Dorfladen, Holtorf
+description: Maßstab 1:100.
+date: 1967-01-12
+origin:
+  name: Renate Lemke
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok 11/362
+files:
+  - role: main
+    original_name: scan_424.tif
+    path: files/37/12/37121fac2f72e4a2d1a05e4d04c7c7b7408b319cd13573d615d7c48a952b8450/original.tif
+    sha256: 37121fac2f72e4a2d1a05e4d04c7c7b7408b319cd13573d615d7c48a952b8450
+    mime: image/tiff
+    bytes: 23061488
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/37/12/37121fac2f72e4a2d1a05e4d04c7c7b7408b319cd13573d615d7c48a952b8450/preview-400.c2d79528eeb2.jpg
+        sha256: c2d79528eeb266a9d7a2d8f702bc78cc8d4e9e1c45e85d6b3df30f6499d192e5
+        mime: image/jpeg
+        bytes: 42940
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

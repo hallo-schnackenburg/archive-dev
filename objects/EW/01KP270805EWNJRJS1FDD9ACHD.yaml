@@ -1,0 +1,42 @@
+id: 01KP270805EWNJRJS1FDD9ACHD
+type: image
+subtype: print
+title: Lithographie Dorfladen, Lenzen
+date: "1707"
+location: Salzwedel, Elbdeich
+geocode:
+  lat: 52.9211
+  lon: 11.4535
+  precision: exact
+  source: osm
+origin:
+  name: Karl Hartwig
+  type: person
+  location: Gülden
+subjects:
+  - name: Heuberge
+    type: building
+  - name: Lanz
+    type: place
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: scan_307.tif
+    path: files/c3/df/c3dfe9c94e30943c9e0f61738e2cabad22b65b1910dbc1ac2f4d010744d10f98/original.tif
+    sha256: c3dfe9c94e30943c9e0f61738e2cabad22b65b1910dbc1ac2f4d010744d10f98
+    mime: image/tiff
+    bytes: 14345823
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c3/df/c3dfe9c94e30943c9e0f61738e2cabad22b65b1910dbc1ac2f4d010744d10f98/preview-400.d9037750d679.jpg
+        sha256: d9037750d679c99d4f26a6adf68b03f1620bc10293b3119b2ff90e5f2eb8c237
+        mime: image/jpeg
+        bytes: 88353
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

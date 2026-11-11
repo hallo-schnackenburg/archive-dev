@@ -1,0 +1,43 @@
+id: 01J6ZJKGVSK2Q1VSJESXRECW9D
+type: image
+subtype: photo
+title: Käthe Ahrens, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1959?
+location: Havelberg, Hinter den Höfen
+origin:
+  name: Elfriede Schulz
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Familie Voss
+    type: person
+    location: Dömitz
+  reference: F 14/103
+  note: Regal 1
+subjects:
+  - name: Kegelbahn
+    type: building
+  - name: Zadrau
+    type: place
+files:
+  - role: main
+    original_name: P2164.jpg
+    path: files/18/5f/185fb51dc19ac67a561e7d0930cba26a6affbd3295ae2fac96ffec2bb064114a/original.jpg
+    sha256: 185fb51dc19ac67a561e7d0930cba26a6affbd3295ae2fac96ffec2bb064114a
+    mime: image/jpeg
+    bytes: 22947618
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/18/5f/185fb51dc19ac67a561e7d0930cba26a6affbd3295ae2fac96ffec2bb064114a/preview-400.6412e4ae228f.jpg
+        sha256: 6412e4ae228f2fda4849804871b2e58d81e8bc5ab833e5731ad348fe0f5e1a64
+        mime: image/jpeg
+        bytes: 73051
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

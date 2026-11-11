@@ -1,0 +1,48 @@
+id: 01J7BCRV92YM1WEABZJ3M980P2
+type: image
+subtype: photo
+title: Bahnhof in Gülden
+date: 1970-06-01
+location: Kapern, Tanzsaal
+geocode:
+  lat: 53.0207
+  lon: 11.6538
+  precision: region
+  source: osm
+origin:
+  name: Albert Rohde
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 29/037
+owner:
+  name: Frieda Wegner
+  type: person
+  note: Nachlass
+subjects:
+  - name: Laase
+    type: place
+files:
+  - role: main
+    original_name: P7192.jpg
+    path: files/b5/43/b543e736cbcce114b381959e3e13c503bb4cc05f95858e7e6db23f6b51b1c301/original.jpg
+    sha256: b543e736cbcce114b381959e3e13c503bb4cc05f95858e7e6db23f6b51b1c301
+    mime: image/jpeg
+    bytes: 13080105
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b5/43/b543e736cbcce114b381959e3e13c503bb4cc05f95858e7e6db23f6b51b1c301/preview-400.04100d3f1c77.jpg
+        sha256: 04100d3f1c77206f94345febb94f0e666b8f4aa8ab76ef038a9830e15e15764e
+        mime: image/jpeg
+        bytes: 53996
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

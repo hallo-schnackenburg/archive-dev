@@ -1,0 +1,42 @@
+id: 01FAZJX73FHXW42DKHPEE1AQWB
+type: image
+subtype: plan
+title: Bauplan Gutshaus 1812
+description: Tusche auf Transparentpapier.
+date: "1812"
+origin:
+  name: Karl Bruns
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Lotte Schwarz
+    type: person
+  - name: Hedwig Ahrens
+    type: person
+parents:
+  - 01K6MM688883CWMKTJ2NVR6F70
+files:
+  - role: main
+    original_name: scan_231.tif
+    path: files/1c/a1/1ca146abd8cb7d4e7511605d381e7a27e12624f47b697449ba83bbfb3947ef35/original.tif
+    sha256: 1ca146abd8cb7d4e7511605d381e7a27e12624f47b697449ba83bbfb3947ef35
+    mime: image/tiff
+    bytes: 10752643
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/a1/1ca146abd8cb7d4e7511605d381e7a27e12624f47b697449ba83bbfb3947ef35/preview-400.6b2404e66206.jpg
+        sha256: 6b2404e662065f7bedb1e0ca0fc38ebe5c8643d4e958079884f5f8005bdb92a1
+        mime: image/jpeg
+        bytes: 62587
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

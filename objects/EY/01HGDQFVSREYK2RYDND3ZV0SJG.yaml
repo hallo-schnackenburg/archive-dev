@@ -1,0 +1,33 @@
+id: 01HGDQFVSREYK2RYDND3ZV0SJG
+type: image
+subtype: plan
+title: Grundriss Apotheke, Seedorf
+date: 1946/1954
+location: Havelberg, Molkerei
+subjects:
+  - name: Backhaus
+    type: building
+  - name: Kartoffelernte 1946
+    type: event
+  - name: Pretzier
+    type: place
+files:
+  - role: main
+    original_name: scan_470.tif
+    path: files/82/51/825111eb4aa118fd38c30b01ed6ef1a65a1b5e847c91bb9d4a95d2e6f7f979bb/original.tif
+    sha256: 825111eb4aa118fd38c30b01ed6ef1a65a1b5e847c91bb9d4a95d2e6f7f979bb
+    mime: image/tiff
+    bytes: 16605094
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/82/51/825111eb4aa118fd38c30b01ed6ef1a65a1b5e847c91bb9d4a95d2e6f7f979bb/preview-400.22472613f869.jpg
+        sha256: 22472613f86955af14b3cd46faa6845a6b51b0b35dc27ffeee4cffbbb52be8d0
+        mime: image/jpeg
+        bytes: 30684
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,32 @@
+id: 01G1BEG4RZBEZN9GG1GHX0ZS2Q
+type: document
+subtype: letter
+title: Korrespondenz Fritz Hennings
+description: Mit Umschlag und Briefmarke.
+date: "1843"
+location: Hitzacker, Ladestraße
+geocode:
+  lat: 53.0748
+  lon: 11.6631
+  precision: town
+  source: osm
+origin:
+  name: Hans Voss
+  type: person
+  location: Laase
+language: fr
+subjects:
+  - name: Schlachtfest 1843
+    type: event
+  - name: Wilhelm Lemke
+    type: person
+  - name: Heuberge
+    type: building
+parents:
+  - 01K8Q87E3JR4C3K8F7DC83NBAE
+storage: external
+external:
+  - type: archive
+    site: Bundesarchiv
+    uri: https://bundesarchiv.example.org/objekt/401244
+    retrieved: 2026-02-23

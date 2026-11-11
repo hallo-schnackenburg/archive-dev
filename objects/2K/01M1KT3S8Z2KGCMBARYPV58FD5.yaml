@@ -1,0 +1,64 @@
+id: 01M1KT3S8Z2KGCMBARYPV58FD5
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Kegelclub 1899
+description: Anwesend waren 16 Personen.
+date: 1899-08-02
+location: Rüterberg, Gartenstraße
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 24/371
+subjects:
+  - name: Heinrich Krüger
+    type: person
+  - name: Wilhelm Lemke
+    type: person
+  - name: Sparkasse
+    type: building
+parents:
+  - 01FQ7XJFBHG9XHBP2GHBKAZWD0
+files:
+  - role: page
+    num: 1
+    original_name: protocol_v58fd5_001.tif
+    path: files/b3/0d/b30db08cfd5257ba484dea21fc93429fa73c3d8b6773ea8eec22609fce911cf5/original.tif
+    sha256: b30db08cfd5257ba484dea21fc93429fa73c3d8b6773ea8eec22609fce911cf5
+    mime: image/tiff
+    bytes: 10549866
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/0d/b30db08cfd5257ba484dea21fc93429fa73c3d8b6773ea8eec22609fce911cf5/preview-400.383402ac2460.jpg
+        sha256: 383402ac2460bfbf2f90f2990ac542179320aaf6b695e082289448adca7c4501
+        mime: image/jpeg
+        bytes: 55736
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_v58fd5_002.tif
+    path: files/18/4b/184bd2818d382e287e10f54961756093bb64ef4b70fc06828d75982c27f754e6/original.tif
+    sha256: 184bd2818d382e287e10f54961756093bb64ef4b70fc06828d75982c27f754e6
+    mime: image/tiff
+    bytes: 2076475
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/18/4b/184bd2818d382e287e10f54961756093bb64ef4b70fc06828d75982c27f754e6/preview-400.a0664b7f2603.jpg
+        sha256: a0664b7f26035c19f3ac71f98210063a434739dc8928e9a08c8367b1c6721320
+        mime: image/jpeg
+        bytes: 69508
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

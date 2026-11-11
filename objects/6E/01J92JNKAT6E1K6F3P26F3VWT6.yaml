@@ -1,0 +1,45 @@
+id: 01J92JNKAT6E1K6F3P26F3VWT6
+type: image
+subtype: photo
+title: Poststelle nach dem Schützenfest
+location: Bömenzien, Am Markt
+geocode:
+  lat: 52.9736
+  lon: 11.5163
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Krüger
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 27/072
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+parents:
+  - 01EW7Y4DK0MKNT73TY4DDY8AY7
+files:
+  - role: main
+    original_name: scan_573.tif
+    path: files/aa/36/aa36163a9b73736a8a1c2463716e3b091749c1d0aa2ef485a5ed67959e54bdec/original.tif
+    sha256: aa36163a9b73736a8a1c2463716e3b091749c1d0aa2ef485a5ed67959e54bdec
+    mime: image/tiff
+    bytes: 16716974
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/aa/36/aa36163a9b73736a8a1c2463716e3b091749c1d0aa2ef485a5ed67959e54bdec/preview-400.039ebe72e5ee.jpg
+        sha256: 039ebe72e5eeffb723a4ee594df119fa268dd2d3edb2048290eb3337eec5f735
+        mime: image/jpeg
+        bytes: 32518
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

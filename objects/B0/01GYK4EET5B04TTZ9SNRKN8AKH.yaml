@@ -1,0 +1,28 @@
+id: 01GYK4EET5B04TTZ9SNRKN8AKH
+type: image
+subtype: plan
+title: Bauplan Storchennest 1762
+date: 1762-04-04
+parents:
+  - 01M1D2FGQR97JS2R2G2HQVPQ5E
+  - 01HV11E038N92237YZT5N8S98R
+files:
+  - role: main
+    original_name: scan_246.tif
+    path: files/d7/e8/d7e87ff482d22afdec6a7d37612bcfac74383e7871a9e73e1df24e1f39251c6a/original.tif
+    sha256: d7e87ff482d22afdec6a7d37612bcfac74383e7871a9e73e1df24e1f39251c6a
+    mime: image/tiff
+    bytes: 27263008
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d7/e8/d7e87ff482d22afdec6a7d37612bcfac74383e7871a9e73e1df24e1f39251c6a/preview-400.eb9828046b2a.jpg
+        sha256: eb9828046b2a37b37a9531dd2793ac1e05f9758d4aa1dfac380333ccdee0a1b9
+        mime: image/jpeg
+        bytes: 55393
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

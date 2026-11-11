@@ -1,0 +1,40 @@
+id: 01KXVMQHJ4DGW6DPB9JRBJ6V0F
+type: image
+subtype: drawing
+title: Kaufmannshaus, Aquarell, Pretzier
+description: Federzeichnung, laviert.
+date: 1901-12-10
+location: Kapern, Marktstraße
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok/Album 22/038
+subjects:
+  - name: Kirmes 1901
+    type: event
+  - name: Seedorf
+    type: place
+  - name: Gemeindehaus
+    type: building
+files:
+  - role: main
+    original_name: scan_039.tif
+    path: files/83/61/8361f3cd1020af3b445e819d360b1a5ecf497c533fa57259a6c2746ec8a56569/original.tif
+    sha256: 8361f3cd1020af3b445e819d360b1a5ecf497c533fa57259a6c2746ec8a56569
+    mime: image/tiff
+    bytes: 20626168
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/83/61/8361f3cd1020af3b445e819d360b1a5ecf497c533fa57259a6c2746ec8a56569/preview-400.f48926a45835.jpg
+        sha256: f48926a45835c245fd4cd510729ffe5b7524b82a520115a8e5e9437e54999714
+        mime: image/jpeg
+        bytes: 31232
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

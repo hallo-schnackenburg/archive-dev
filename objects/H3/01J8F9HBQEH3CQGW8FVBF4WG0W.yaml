@@ -1,0 +1,43 @@
+id: 01J8F9HBQEH3CQGW8FVBF4WG0W
+type: image
+subtype: plan
+title: Bauplan Badestelle 1789
+date: 1789-07
+location: Lenzen, Backhaus
+geocode:
+  lat: 52.9829
+  lon: 11.5911
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 39/335
+parents:
+  - 01HDS44JS4B8GN7QC5M5DZA42B
+files:
+  - role: main
+    original_name: scan_936.tif
+    path: files/13/29/132981ca0380fd4e4005a91ee3a5e8dfd11197b532fdf6cdcf9262e95de99f0c/original.tif
+    sha256: 132981ca0380fd4e4005a91ee3a5e8dfd11197b532fdf6cdcf9262e95de99f0c
+    mime: image/tiff
+    bytes: 24714564
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/13/29/132981ca0380fd4e4005a91ee3a5e8dfd11197b532fdf6cdcf9262e95de99f0c/preview-400.8eee97d9aef0.jpg
+        sha256: 8eee97d9aef0d3d933f68ef210394c793fe5ab220c9c3c617ce3f854056cbf7e
+        mime: image/jpeg
+        bytes: 61851
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

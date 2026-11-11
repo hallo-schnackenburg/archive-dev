@@ -1,0 +1,37 @@
+id: 01HCBS543YVNZK68A3MC1JCWGQ
+type: image
+subtype: photo
+title: Ortsbesichtigung 1895
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1895/1902
+origin:
+  name: Irmgard Bohlmann
+  type: person
+  location: Gorleben
+subjects:
+  - name: Fastnacht 1895
+    type: event
+  - name: Dieter Wegner
+    type: person
+  - name: Gutshaus
+    type: building
+files:
+  - role: main
+    original_name: scan_787.tif
+    path: files/5f/10/5f10afc27ef04853a12df954f2135f13da2940c39c05fb1bac21876449cc5ecb/original.tif
+    sha256: 5f10afc27ef04853a12df954f2135f13da2940c39c05fb1bac21876449cc5ecb
+    mime: image/tiff
+    bytes: 18669860
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5f/10/5f10afc27ef04853a12df954f2135f13da2940c39c05fb1bac21876449cc5ecb/preview-400.05dcf5b432ab.jpg
+        sha256: 05dcf5b432ab72cf7aadf09a6c66a7a58b3f2222b130150ad55310d946984e99
+        mime: image/jpeg
+        bytes: 41451
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

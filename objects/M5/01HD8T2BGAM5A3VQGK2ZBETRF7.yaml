@@ -1,0 +1,43 @@
+id: 01HD8T2BGAM5A3VQGK2ZBETRF7
+type: image
+subtype: plan
+title: Deichplan Brünkendorf bis Lüchow
+description: Tusche auf Transparentpapier.
+date: 1904-08-23
+location: Seedorf, Deichstraße
+geocode:
+  lat: 52.9709
+  lon: 11.544
+  precision: street
+  source: osm
+origin:
+  name: Ilse Wöhlk
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br 4/229
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Sabine Heuer
+    type: person
+  - name: Gasthof „Zur Elbe“
+    type: building
+parents:
+  - 01F9YMN9D3JJVF02Y68XA8TP10
+  - 01FGVBASJXHEH355K2B76NTT5V
+storage: external
+external:
+  - type: website
+    site: Elbe-Zeitung online
+    uri: https://elbe-zeitung-online.example.org/objekt/924146
+    note: nur Findbuch
+    retrieved: 2026-10-10
+  - type: archive
+    site: Landesarchiv Hannover
+    uri: https://landesarchiv-hannover.example.org/objekt/253545
+    retrieved: 2026-08-11

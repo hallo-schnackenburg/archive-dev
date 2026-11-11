@@ -1,0 +1,42 @@
+id: 01J57TPQ20QTEQBDACF6JA1JK3
+type: image
+subtype: plan
+title: Flurkarte Pretzier
+date: 1987-01-10
+location: Laase, Fährstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 21/101
+subjects:
+  - name: Wilhelm Kuhlmann
+    type: person
+  - name: Heinrich Voss
+    type: person
+  - name: Gemeindehaus
+    type: building
+parents:
+  - 01HYMCFRJ492VAY6JD2NK5EJ56
+  - 01FW45K78CH6GZGKXRKMW3Q4ET
+files:
+  - role: main
+    original_name: scan_130.tif
+    path: files/b0/69/b0691383d3e16a97d5817b29dcfb7ee27578092d2d4a8151793d83150689dde3/original.tif
+    sha256: b0691383d3e16a97d5817b29dcfb7ee27578092d2d4a8151793d83150689dde3
+    mime: image/tiff
+    bytes: 19208657
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b0/69/b0691383d3e16a97d5817b29dcfb7ee27578092d2d4a8151793d83150689dde3/preview-400.7c23d234c30a.jpg
+        sha256: 7c23d234c30ad809cb6137b797816cfb6ae912294f8a4ae25c8d92f73262d22e
+        mime: image/jpeg
+        bytes: 39458
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

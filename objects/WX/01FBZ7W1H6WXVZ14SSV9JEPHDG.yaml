@@ -1,0 +1,92 @@
+id: 01FBZ7W1H6WXVZ14SSV9JEPHDG
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Fußballverein 1944
+description: "Beschlossen wurde unter anderem: Wohnungsnot."
+date: "1944"
+location: Kapern, Bahnhofstraße
+geocode:
+  lat: 53.0939
+  lon: 11.5654
+  precision: street
+  source: osm
+origin:
+  name: Ortsrat Cumlosen
+  type: business
+  location: Schnackenburg
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Sturmschaden 1944
+    type: event
+  - name: Tischlerei Bruns
+    type: building
+  - name: Kriegerdenkmal
+    type: building
+parents:
+  - 01J61X90CH264SW24N35G33X0N
+  - 01GKNYMFKHFES83J477ZEHD22T
+files:
+  - role: page
+    num: 1
+    original_name: protocol_jephdg_001.tif
+    path: files/b7/9c/b79c344821795aa868f7b62fdb2c5fe5cf73fb291dea7cb31a4fcf6c8579550e/original.tif
+    sha256: b79c344821795aa868f7b62fdb2c5fe5cf73fb291dea7cb31a4fcf6c8579550e
+    mime: image/tiff
+    bytes: 12450878
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b7/9c/b79c344821795aa868f7b62fdb2c5fe5cf73fb291dea7cb31a4fcf6c8579550e/preview-400.304718b7ecdb.jpg
+        sha256: 304718b7ecdb9dfa82f2b3252fd9430b33109acf7bafeed0fe8d6bb3e60a5afa
+        mime: image/jpeg
+        bytes: 57313
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_jephdg_002.tif
+    path: files/fb/70/fb7039186f2b9ed3f2fd99d601ddc1f2c0ab9c264c21008ebcad1a604e3de5e9/original.tif
+    sha256: fb7039186f2b9ed3f2fd99d601ddc1f2c0ab9c264c21008ebcad1a604e3de5e9
+    mime: image/tiff
+    bytes: 665447
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fb/70/fb7039186f2b9ed3f2fd99d601ddc1f2c0ab9c264c21008ebcad1a604e3de5e9/preview-400.f0002e15b2d9.jpg
+        sha256: f0002e15b2d93686de7218b8d3d78d19c4ae16d8e7228f74c82022393bc74a63
+        mime: image/jpeg
+        bytes: 47500
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_jephdg_003.tif
+    path: files/4f/41/4f4144bbc48f0304a22edd5726d724ae0ad6c23bdf8e287aa09b294c1cb5f21f/original.tif
+    sha256: 4f4144bbc48f0304a22edd5726d724ae0ad6c23bdf8e287aa09b294c1cb5f21f
+    mime: image/tiff
+    bytes: 21376027
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4f/41/4f4144bbc48f0304a22edd5726d724ae0ad6c23bdf8e287aa09b294c1cb5f21f/preview-400.72b31694d37f.jpg
+        sha256: 72b31694d37fca39e48e8f3bb00c1d7410b6c3880f440823b377bf858519a25b
+        mime: image/jpeg
+        bytes: 24141
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

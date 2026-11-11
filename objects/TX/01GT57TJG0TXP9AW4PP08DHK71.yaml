@@ -1,0 +1,34 @@
+id: 01GT57TJG0TXP9AW4PP08DHK71
+type: image
+subtype: plan
+title: Bauplan Feuerwehrhaus 1778
+description: Mit handschriftlichen Ergänzungen.
+date: 1778/1788
+location: Seedorf, Pumpenhaus
+origin:
+  name: Renate Wegner
+  type: person
+  location: Holtorf
+subjects:
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: scan_809.tif
+    path: files/2f/78/2f785f7dbf4506586a30b9d678271c1b82ad1e6a89c6afdd76915248f8b65767/original.tif
+    sha256: 2f785f7dbf4506586a30b9d678271c1b82ad1e6a89c6afdd76915248f8b65767
+    mime: image/tiff
+    bytes: 26814061
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2f/78/2f785f7dbf4506586a30b9d678271c1b82ad1e6a89c6afdd76915248f8b65767/preview-400.3993481d8864.jpg
+        sha256: 3993481d8864cb087a8f457a0bf1cca820755f848a701bb5dfba7c57d44d34e3
+        mime: image/jpeg
+        bytes: 72893
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

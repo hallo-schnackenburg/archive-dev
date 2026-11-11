@@ -1,0 +1,41 @@
+id: 01JWPZBJEBVMTT05WXHYF1SR5M
+type: image
+subtype: photo
+title: Gartenstraße, Ecke Am Markt
+description: Zu sehen sind Dorfladen und Poststelle.
+date: 199X
+location: Seedorf, Deichstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 23/104
+  note: Regal 1
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Hans Jeß
+    type: person
+  - name: Gemeindehaus
+    type: building
+files:
+  - role: main
+    original_name: DSC2162.jpg
+    path: files/02/79/027981c574897720b0ccf230df8e393256119c43562caf645cbf96141f68766b/original.jpg
+    sha256: 027981c574897720b0ccf230df8e393256119c43562caf645cbf96141f68766b
+    mime: image/jpeg
+    bytes: 26848410
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/02/79/027981c574897720b0ccf230df8e393256119c43562caf645cbf96141f68766b/preview-400.00a611ba7aa8.jpg
+        sha256: 00a611ba7aa808008e30caae9dd0f457a1cb1d71a847759f465f8439fd48d85e
+        mime: image/jpeg
+        bytes: 77096
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

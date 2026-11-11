@@ -1,0 +1,43 @@
+id: 01HE5Q2V4DAT08EETE6WS2KDFA
+type: image
+subtype: print
+title: Postkarte Zadrau, Schmiede
+date: 1916/1928
+location: Lenzen, Hafen
+origin:
+  name: Hans Schulz
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos 24/163
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Irmgard Ahrens
+    type: person
+parents:
+  - 01H8RAP2NSBW425Q13KRW0P6FG
+files:
+  - role: main
+    original_name: scan_413.tif
+    path: files/b8/24/b82427208e54a989587ce11ff40114b514901f58c38fd656463a5bb8e0ef6873/original.tif
+    sha256: b82427208e54a989587ce11ff40114b514901f58c38fd656463a5bb8e0ef6873
+    mime: image/tiff
+    bytes: 1961430
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b8/24/b82427208e54a989587ce11ff40114b514901f58c38fd656463a5bb8e0ef6873/preview-400.fa1611e0e9a1.jpg
+        sha256: fa1611e0e9a137151fdd95270004395ff3cdbc6217fbb555963b68efbd6dbb35
+        mime: image/jpeg
+        bytes: 54361
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

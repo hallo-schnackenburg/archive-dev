@@ -1,0 +1,43 @@
+id: 01JGYXT3EPAA9BR495TY3F19ZP
+type: image
+subtype: print
+title: Postkarte Brünkendorf, Rathaus
+date: "1904"
+origin:
+  name: Fritz Nitschke
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Dieter Voss
+    type: person
+  - name: Kindergarten
+    type: building
+  - name: August Ahrens
+    type: person
+parents:
+  - 01F65BXKMKS9E7T6J3V39RWQAH
+files:
+  - role: main
+    original_name: scan_683.tif
+    path: files/3f/02/3f0277c4d6480ab8ced06192221fd4de9036b80b30cce179f3935d5f48f43b6f/original.tif
+    sha256: 3f0277c4d6480ab8ced06192221fd4de9036b80b30cce179f3935d5f48f43b6f
+    mime: image/tiff
+    bytes: 15122567
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3f/02/3f0277c4d6480ab8ced06192221fd4de9036b80b30cce179f3935d5f48f43b6f/preview-400.c8fa9fcfb4e1.jpg
+        sha256: c8fa9fcfb4e121d502e2807201da46499480dff05f4964e0080b3f73d7b10cba
+        mime: image/jpeg
+        bytes: 49781
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01F7JYFB7GG1PK9QND0JFADXA2
+type: image
+subtype: photo
+title: Am Markt, Ecke Elbstraße
+date: 1917-07-23
+location: Kapern, Am Markt
+geocode:
+  lat: 53.0791
+  lon: 11.5968
+  precision: region
+  source: osm
+origin:
+  name: Fritz Bohlmann
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01J1F26G843KSNYD4G1QK36C01
+files:
+  - role: main
+    original_name: P4546.jpg
+    path: files/83/79/837953949fe11facff62ee73fb9ec4a0b9383ac5ecad7bbbbcb7f28a0361fed8/original.jpg
+    sha256: 837953949fe11facff62ee73fb9ec4a0b9383ac5ecad7bbbbcb7f28a0361fed8
+    mime: image/jpeg
+    bytes: 20596002
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/83/79/837953949fe11facff62ee73fb9ec4a0b9383ac5ecad7bbbbcb7f28a0361fed8/preview-400.60628008cd41.jpg
+        sha256: 60628008cd41299004f63f7ddb76682dda86bb19bbc5fbea39663c2ba5218910
+        mime: image/jpeg
+        bytes: 48452
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

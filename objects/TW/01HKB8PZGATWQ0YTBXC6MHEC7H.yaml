@@ -1,0 +1,41 @@
+id: 01HKB8PZGATWQ0YTBXC6MHEC7H
+type: image
+subtype: print
+title: Lithographie Windmühle, Cumlosen
+description: Postkarte, gelaufen 1929.
+date: 1868-02
+location: Cumlosen, Bäckerei Lüders
+origin:
+  name: Gerda Heuer
+  type: person
+  location: Pretzier
+subjects:
+  - name: Hans Lemke
+    type: person
+  - name: Holtorf
+    type: place
+  - name: Straßenfest 1868
+    type: event
+parents:
+  - 01FE51YC393SEJ3F0E3BYAZ1NB
+  - 01F2FHHHC3A4CYH69SBK2R9NT8
+files:
+  - role: main
+    original_name: scan_754.tif
+    path: files/3a/92/3a92e48c8035a83a2f0c14a89d1c847f25a330b920c3e4d30b8bddfaf3b63eba/original.tif
+    sha256: 3a92e48c8035a83a2f0c14a89d1c847f25a330b920c3e4d30b8bddfaf3b63eba
+    mime: image/tiff
+    bytes: 14327228
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3a/92/3a92e48c8035a83a2f0c14a89d1c847f25a330b920c3e4d30b8bddfaf3b63eba/preview-400.bbe4c255a961.jpg
+        sha256: bbe4c255a96156f14a50f28053e1aee3f3186916e6fac4309cef4ea11803c27a
+        mime: image/jpeg
+        bytes: 58557
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

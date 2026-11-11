@@ -1,0 +1,64 @@
+id: 01JKSZKZNM6AE73PP8903DJF93
+type: document
+subtype: note
+title: Quittung für Hans Krüger
+date: 1976/1988
+location: Pretzier, Am Elbdeich
+geocode:
+  lat: 53.0113
+  lon: 11.5583
+  precision: street
+  source: osm
+origin:
+  name: August Krüger
+  type: person
+  location: Salzwedel
+language: de
+subjects:
+  - name: Laase
+    type: place
+  - name: Berta Voss
+    type: person
+parents:
+  - 01EV0D4XTDHPDC62G2HMCAGK8D
+files:
+  - role: page
+    num: 1
+    original_name: note_3djf93_001.tif
+    path: files/b4/13/b413333abd0428ec4f968543d2f9647c1fb370a7104205593d01ab683c57cf63/original.tif
+    sha256: b413333abd0428ec4f968543d2f9647c1fb370a7104205593d01ab683c57cf63
+    mime: image/tiff
+    bytes: 17465230
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/13/b413333abd0428ec4f968543d2f9647c1fb370a7104205593d01ab683c57cf63/preview-400.6fd276eabebd.jpg
+        sha256: 6fd276eabebda86c89ccb02a1fd6ba10c29f42330db1c5ee5b98700b1b91e8dc
+        mime: image/jpeg
+        bytes: 72868
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_3djf93_002.tif
+    path: files/02/f4/02f418b910c51af4daf0c49bd61bf9890fe37d7402d4bbffe49433a1cfaad7ae/original.tif
+    sha256: 02f418b910c51af4daf0c49bd61bf9890fe37d7402d4bbffe49433a1cfaad7ae
+    mime: image/tiff
+    bytes: 12362243
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/f4/02f418b910c51af4daf0c49bd61bf9890fe37d7402d4bbffe49433a1cfaad7ae/preview-400.1a4a4292110e.jpg
+        sha256: 1a4a4292110e6c855c56c433082aa708589f5d8a615429120ce90da1ac88c18a
+        mime: image/jpeg
+        bytes: 46239
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

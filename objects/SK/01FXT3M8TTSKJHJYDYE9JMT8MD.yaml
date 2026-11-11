@@ -1,0 +1,39 @@
+id: 01FXT3M8TTSKJHJYDYE9JMT8MD
+type: image
+subtype: photo
+title: Rudolf Lindemann, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1992-06-10
+origin:
+  name: Gerda Meyer
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Album 8/033
+  note: Kellerarchiv
+parents:
+  - 01GT4AQMYDQV6X3W40VS0A09TX
+files:
+  - role: main
+    original_name: scan_346.tif
+    path: files/8a/29/8a29992ba35262dcce5f347b64c9a2bc6b84e0bcd26fae326e20e4b907a8e7b9/original.tif
+    sha256: 8a29992ba35262dcce5f347b64c9a2bc6b84e0bcd26fae326e20e4b907a8e7b9
+    mime: image/tiff
+    bytes: 21384256
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8a/29/8a29992ba35262dcce5f347b64c9a2bc6b84e0bcd26fae326e20e4b907a8e7b9/preview-400.03f4b5cd7ab3.jpg
+        sha256: 03f4b5cd7ab304aa06e10d2cc05dda10a1cd2aeca9f6752e4d2fd2cd76926bc1
+        mime: image/jpeg
+        bytes: 56472
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

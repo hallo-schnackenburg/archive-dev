@@ -1,0 +1,30 @@
+id: 01HFJS03EV6G04NK2C5P110R41
+type: image
+subtype: photo
+title: Hans Meyer, Porträt
+date: 1904-06-16
+location: Hitzacker, Wassermühle
+origin:
+  name: Emma Garms
+  type: person
+  location: Dömitz
+files:
+  - role: main
+    original_name: DSC9578.jpg
+    path: files/6a/9a/6a9ae068eeae1a6e26dcf942930daf2a2c287af0792a2cc0faa931b2cf727a63/original.jpg
+    sha256: 6a9ae068eeae1a6e26dcf942930daf2a2c287af0792a2cc0faa931b2cf727a63
+    mime: image/jpeg
+    bytes: 2741246
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/6a/9a/6a9ae068eeae1a6e26dcf942930daf2a2c287af0792a2cc0faa931b2cf727a63/preview-400.189ce38a8e24.jpg
+        sha256: 189ce38a8e2424bc65701ea226fd32c14ebb53f3f21e588a423741e33dcaa9fe
+        mime: image/jpeg
+        bytes: 58639
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

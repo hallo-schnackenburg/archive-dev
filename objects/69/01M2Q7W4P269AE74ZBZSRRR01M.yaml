@@ -1,0 +1,39 @@
+id: 01M2Q7W4P269AE74ZBZSRRR01M
+type: image
+subtype: print
+title: Gruß aus Schnackenburg, Wittenberge
+description: Lithographie, Rand beschnitten.
+date: 1783-07-04
+location: Gartow, Sportplatz
+origin:
+  name: Ilse Plate
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br 12/169
+parents:
+  - 01KCPF76CA7S8G3CA0KXJVYAVA
+files:
+  - role: main
+    original_name: scan_076.tif
+    path: files/80/71/807138c21c6f8050a7b17c4b941541cee96767b7c183ded3ce7710bde9cf11a2/original.tif
+    sha256: 807138c21c6f8050a7b17c4b941541cee96767b7c183ded3ce7710bde9cf11a2
+    mime: image/tiff
+    bytes: 2802576
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/71/807138c21c6f8050a7b17c4b941541cee96767b7c183ded3ce7710bde9cf11a2/preview-400.63f959acab9e.jpg
+        sha256: 63f959acab9ee24ffe0ed6d89c24f62003b0265cc9cd5a737c5a6a4667338ceb
+        mime: image/jpeg
+        bytes: 85037
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

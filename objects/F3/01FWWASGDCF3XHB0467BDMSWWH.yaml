@@ -1,0 +1,43 @@
+id: 01FWWASGDCF3XHB0467BDMSWWH
+type: image
+subtype: print
+title: Gruß aus Gülden, Lenzen
+description: Kupferstich, koloriert.
+location: Schnackenburg, Hafenstraße
+origin:
+  name: Gerda Lemke
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 17/063
+subjects:
+  - name: Karl Nitschke
+    type: person
+  - name: Marta Meyer
+    type: person
+  - name: Deicharbeiten 1924
+    type: event
+files:
+  - role: main
+    original_name: scan_519.tif
+    path: files/09/7f/097ff52731c46753916137371b0491af79b4ffe08b1f7f5b9671be2147af1a01/original.tif
+    sha256: 097ff52731c46753916137371b0491af79b4ffe08b1f7f5b9671be2147af1a01
+    mime: image/tiff
+    bytes: 17461341
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/09/7f/097ff52731c46753916137371b0491af79b4ffe08b1f7f5b9671be2147af1a01/preview-400.091119f4b11c.jpg
+        sha256: 091119f4b11c9521a9629a43876ba504247947d07683ff6ef7af06adef22c0f4
+        mime: image/jpeg
+        bytes: 24415
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

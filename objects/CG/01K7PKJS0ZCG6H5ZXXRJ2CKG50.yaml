@@ -1,0 +1,62 @@
+id: 01K7PKJS0ZCG6H5ZXXRJ2CKG50
+type: document
+subtype: letter
+title: Brief von Hans Gaede an Hans Lemke
+date: 1899-10-09
+location: Gollensdorf, Mühle
+geocode:
+  lat: 53.0047
+  lon: 11.6427
+  precision: exact
+  source: osm
+recipient: Frieda Lemke
+owner:
+  name: Gerda Meyer
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Fritz Ahrens
+    type: person
+parents:
+  - 01K3PA0AX7J3WY8KDDN8217RNG
+files:
+  - role: page
+    num: 1
+    original_name: letter_2ckg50_001.tif
+    path: files/d9/dc/d9dc0b12f5ca5d51126cc7208770ae18c3a18ee15c4c0bcd21e89dee28becb7b/original.tif
+    sha256: d9dc0b12f5ca5d51126cc7208770ae18c3a18ee15c4c0bcd21e89dee28becb7b
+    mime: image/tiff
+    bytes: 21387040
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d9/dc/d9dc0b12f5ca5d51126cc7208770ae18c3a18ee15c4c0bcd21e89dee28becb7b/preview-400.9066eb8b0536.jpg
+        sha256: 9066eb8b05362f2636a93f699dc523464bbda21e1173fb6453a7702b43ed577e
+        mime: image/jpeg
+        bytes: 78326
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_2ckg50_002.tif
+    path: files/ef/45/ef452b27895b64f8e6dc321358d51c61c305937d5c5109d5a23e2179b47a6fd9/original.tif
+    sha256: ef452b27895b64f8e6dc321358d51c61c305937d5c5109d5a23e2179b47a6fd9
+    mime: image/tiff
+    bytes: 12581285
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ef/45/ef452b27895b64f8e6dc321358d51c61c305937d5c5109d5a23e2179b47a6fd9/preview-400.06ffb4adaaf4.jpg
+        sha256: 06ffb4adaaf42ba44ff2c8b104e2f973e6247252fce6b0140519574deca724e5
+        mime: image/jpeg
+        bytes: 78231
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

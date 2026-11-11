@@ -1,0 +1,45 @@
+id: 01KZFGN6WA16C9QWB40VN8N1KS
+type: image
+subtype: photo
+title: Erntedankfest 1921
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 192X
+location: Gollensdorf, Deichstraße
+geocode:
+  lat: 52.9848
+  lon: 11.501
+  precision: region
+  source: osm
+origin:
+  name: Karl Rieke
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Mappe 27/050
+subjects:
+  - name: Windmühle
+    type: building
+files:
+  - role: main
+    original_name: scan_505.tif
+    path: files/63/b1/63b1ccf2fcd745682e362de262c7b605ddfe366fe411202f90e718f3cb3f4447/original.tif
+    sha256: 63b1ccf2fcd745682e362de262c7b605ddfe366fe411202f90e718f3cb3f4447
+    mime: image/tiff
+    bytes: 22261880
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/63/b1/63b1ccf2fcd745682e362de262c7b605ddfe366fe411202f90e718f3cb3f4447/preview-400.116c3c7cdf37.jpg
+        sha256: 116c3c7cdf374c5262776b17affbe5225713e79ab41cfdcb3846c68e7814d804
+        mime: image/jpeg
+        bytes: 86661
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

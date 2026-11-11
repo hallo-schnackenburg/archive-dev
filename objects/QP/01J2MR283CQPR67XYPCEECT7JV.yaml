@@ -1,0 +1,42 @@
+id: 01J2MR283CQPR67XYPCEECT7JV
+type: image
+subtype: photo
+title: Grenzöffnung 1990
+description: Zu sehen sind Sparkasse und Dorfteich.
+date: 1990/1999
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg 26/357
+subjects:
+  - name: Hochwasser 1990
+    type: event
+  - name: Brigitte Sievers
+    type: person
+  - name: Ernst Harms
+    type: person
+parents:
+  - 01F609NXHEBHNPDFETZVY63FSS
+  - 01G8JVP67ZT9860RH8N2NEXXK7
+files:
+  - role: main
+    original_name: DSC5882.jpg
+    path: files/91/9f/919fe86d22577f45b7637037e30b3915e59acaba87d45eebff7fe42ef91a8636/original.jpg
+    sha256: 919fe86d22577f45b7637037e30b3915e59acaba87d45eebff7fe42ef91a8636
+    mime: image/jpeg
+    bytes: 27125505
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/91/9f/919fe86d22577f45b7637037e30b3915e59acaba87d45eebff7fe42ef91a8636/preview-400.e81542bf3195.jpg
+        sha256: e81542bf31956c0a170405aa33bb4fabcaa2c598a320b1adb0ed114cf3f319a4
+        mime: image/jpeg
+        bytes: 77567
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

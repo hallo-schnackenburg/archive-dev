@@ -1,0 +1,62 @@
+id: 01M1CXRWJA8DJJ908HMSR9HWXX
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Heimatverein 1922
+date: 1922-04-28
+location: Lenzen, Pumpenhaus
+origin:
+  name: Finanzausschuss Brünkendorf
+  type: business
+  location: Arendsee
+language: de
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Fastnacht 1922
+    type: event
+  - name: Einschulung 1922
+    type: event
+parents:
+  - 01J61X90CH264SW24N35G33X0N
+  - 01GZKK3S8ZTHZFVGYM1SQET170
+files:
+  - role: page
+    num: 1
+    original_name: protocol_r9hwxx_001.tif
+    path: files/d3/52/d3520d9afc39d8ccb52940089a36f72d76ac64b6a2de25412a25f2f806c575e6/original.tif
+    sha256: d3520d9afc39d8ccb52940089a36f72d76ac64b6a2de25412a25f2f806c575e6
+    mime: image/tiff
+    bytes: 7445317
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d3/52/d3520d9afc39d8ccb52940089a36f72d76ac64b6a2de25412a25f2f806c575e6/preview-400.dcb19c61f5f4.jpg
+        sha256: dcb19c61f5f40977398830f7c57ba738a5cd89addceb404991ebc7f9861d3a95
+        mime: image/jpeg
+        bytes: 63777
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_r9hwxx_002.tif
+    path: files/7c/be/7cbebf932d1e12086bd715e863e6a26e7f67a895348259acc889649feb5db3b3/original.tif
+    sha256: 7cbebf932d1e12086bd715e863e6a26e7f67a895348259acc889649feb5db3b3
+    mime: image/tiff
+    bytes: 19391578
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7c/be/7cbebf932d1e12086bd715e863e6a26e7f67a895348259acc889649feb5db3b3/preview-400.0f7ee4b94285.jpg
+        sha256: 0f7ee4b942850806830782bac6a14382b9db12a4c12a3265ca86f0f394ea4371
+        mime: image/jpeg
+        bytes: 34378
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

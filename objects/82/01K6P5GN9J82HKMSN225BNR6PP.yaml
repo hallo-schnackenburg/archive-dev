@@ -1,0 +1,35 @@
+id: 01K6P5GN9J82HKMSN225BNR6PP
+type: image
+subtype: plan
+title: Bauplan Dorfteich 1959
+date: "1959"
+location: Arendsee, Gartenstraße
+origin:
+  name: Gerda Lüders
+  type: person
+  location: Dömitz
+subjects:
+  - name: Deicharbeiten 1959
+    type: event
+  - name: Wittenberge
+    type: place
+files:
+  - role: main
+    original_name: scan_207.tif
+    path: files/50/a4/50a43c9b5bfd3548ba6e348dbee37d55b11d5d5bd5637cad363cdca12c0932c9/original.tif
+    sha256: 50a43c9b5bfd3548ba6e348dbee37d55b11d5d5bd5637cad363cdca12c0932c9
+    mime: image/tiff
+    bytes: 23746593
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/a4/50a43c9b5bfd3548ba6e348dbee37d55b11d5d5bd5637cad363cdca12c0932c9/preview-400.6c5110d5daa7.jpg
+        sha256: 6c5110d5daa7e0c8ea18fb6febfaf862708e219f26a88e936aae4c6b81ed4b70
+        mime: image/jpeg
+        bytes: 24996
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

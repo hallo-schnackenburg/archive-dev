@@ -1,0 +1,62 @@
+id: 01JG36JGCN42T5HGS2N91S3NQG
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Heimatverein 1854
+description: "Beschlossen wurde unter anderem: Kanalisation."
+date: "1854"
+origin:
+  name: Verbandsversammlung Schnackenburg
+  type: business
+  location: Zadrau
+language: de
+subjects:
+  - name: Hans Bohlmann
+    type: person
+  - name: Wassermühle
+    type: building
+  - name: Dorffest 1854
+    type: event
+parents:
+  - 01HPYA59S9BTVVKYNA7APHK7GB
+files:
+  - role: page
+    num: 1
+    original_name: protocol_1s3nqg_001.tif
+    path: files/20/36/203611db0ad982ac09eb917a3f9618e497f55cbcf01bf522668327fae4248c26/original.tif
+    sha256: 203611db0ad982ac09eb917a3f9618e497f55cbcf01bf522668327fae4248c26
+    mime: image/tiff
+    bytes: 12458100
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/20/36/203611db0ad982ac09eb917a3f9618e497f55cbcf01bf522668327fae4248c26/preview-400.a8eaad0d21b1.jpg
+        sha256: a8eaad0d21b154cc6cca438d1ee025005879df0b4a13e7abfed3055ecc985861
+        mime: image/jpeg
+        bytes: 56268
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_1s3nqg_002.tif
+    path: files/68/3c/683c201c3d70ac84bf816a20439534842fce89bd0d343081561a3585206d0639/original.tif
+    sha256: 683c201c3d70ac84bf816a20439534842fce89bd0d343081561a3585206d0639
+    mime: image/tiff
+    bytes: 27901955
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/68/3c/683c201c3d70ac84bf816a20439534842fce89bd0d343081561a3585206d0639/preview-400.0081b3a37c17.jpg
+        sha256: 0081b3a37c1716a81121d9bb2db0a828ad40053c1f0544a9981dfa7137463091
+        mime: image/jpeg
+        bytes: 59432
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

@@ -1,0 +1,45 @@
+id: 01HV1MSA3M34JZPBX30BXRAFP1
+type: document
+subtype: note
+title: Quittung für Hans Brandt
+description: Beleg mit Stempel.
+date: 2009-02-06
+location: Wootz, Am Markt
+geocode:
+  lat: 52.9071
+  lon: 11.6292
+  precision: street
+  source: osm
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 20/083
+subjects:
+  - name: Restorf
+    type: place
+  - name: Havelberg
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_xrafp1_001.tif
+    path: files/75/67/756773bd348d23f92083d73a856e69a7d40d266267a08d39e4c3b13c73edf2d7/original.tif
+    sha256: 756773bd348d23f92083d73a856e69a7d40d266267a08d39e4c3b13c73edf2d7
+    mime: image/tiff
+    bytes: 1106716
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/75/67/756773bd348d23f92083d73a856e69a7d40d266267a08d39e4c3b13c73edf2d7/preview-400.238cff3dca41.jpg
+        sha256: 238cff3dca41aabf33f085dd8283eb8c25ac10635987b4ecc361c6eefbb9f921
+        mime: image/jpeg
+        bytes: 75001
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

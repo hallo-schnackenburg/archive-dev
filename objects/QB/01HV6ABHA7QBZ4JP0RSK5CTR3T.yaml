@@ -1,0 +1,65 @@
+id: 01HV6ABHA7QBZ4JP0RSK5CTR3T
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Fußballverein 1961
+date: 1961-03
+origin:
+  name: Verbandsversammlung Zadrau
+  type: business
+  location: Kapern
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Feuerwehrübung 1961
+    type: event
+  - name: Richtfest 1961
+    type: event
+  - name: Ernst Detlefs
+    type: person
+parents:
+  - 01GT8QZ1TC8KRDKD8TAJXY7YDB
+  - 01JVVDQHBMNHTD5MF8KHV0G3FW
+files:
+  - role: page
+    num: 1
+    original_name: protocol_5ctr3t_001.tif
+    path: files/76/d9/76d950865af2734475af04f5c599d4eba6927c3c18fbbda62ecf96e8ad58ca82/original.tif
+    sha256: 76d950865af2734475af04f5c599d4eba6927c3c18fbbda62ecf96e8ad58ca82
+    mime: image/tiff
+    bytes: 23490186
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/76/d9/76d950865af2734475af04f5c599d4eba6927c3c18fbbda62ecf96e8ad58ca82/preview-400.19c52747cb25.jpg
+        sha256: 19c52747cb252f3dfc3f70d49cca64a8304fc0e0da5475542d86ff74d27e1eda
+        mime: image/jpeg
+        bytes: 37928
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_5ctr3t_002.tif
+    path: files/b7/e5/b7e5e527fb2cebf4a5405b3a7a9231c0a48aa528e85d536ab3679215e2a7c489/original.tif
+    sha256: b7e5e527fb2cebf4a5405b3a7a9231c0a48aa528e85d536ab3679215e2a7c489
+    mime: image/tiff
+    bytes: 3731234
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b7/e5/b7e5e527fb2cebf4a5405b3a7a9231c0a48aa528e85d536ab3679215e2a7c489/preview-400.648c321a151d.jpg
+        sha256: 648c321a151d8c83b266d5f0018c003f1105a8f76a0e7998a03960e1266fe80c
+        mime: image/jpeg
+        bytes: 23901
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

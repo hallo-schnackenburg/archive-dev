@@ -1,0 +1,30 @@
+id: 01HVAAGQP6S8Q40CKVNRQCJR2R
+type: image
+subtype: photo
+title: Bahnhof in Gorleben
+date: "1985"
+location: Restorf, Badestelle
+origin:
+  name: Günter Wiese
+  type: person
+  location: Seedorf
+files:
+  - role: main
+    original_name: IMG_4456.jpg
+    path: files/7b/aa/7baac912843ca891158dd449f91afaf8fc537272aa311dd466f92eb202a8288a/original.jpg
+    sha256: 7baac912843ca891158dd449f91afaf8fc537272aa311dd466f92eb202a8288a
+    mime: image/jpeg
+    bytes: 14172983
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7b/aa/7baac912843ca891158dd449f91afaf8fc537272aa311dd466f92eb202a8288a/preview-400.6efc5b1ec51b.jpg
+        sha256: 6efc5b1ec51b6bf00ef3224d3672e9cc9ba15188e35662ed8258570fb82ca107
+        mime: image/jpeg
+        bytes: 75435
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

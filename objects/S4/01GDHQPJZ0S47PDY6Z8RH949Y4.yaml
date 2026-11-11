@@ -1,0 +1,42 @@
+id: 01GDHQPJZ0S47PDY6Z8RH949Y4
+type: image
+subtype: print
+title: Postkarte Hitzacker, Dorfkrug
+date: 1766~
+location: Gollensdorf, Schulstraße
+geocode:
+  lat: 52.9178
+  lon: 11.5134
+  precision: street
+  source: osm
+origin:
+  name: Heinz Lemke
+  type: person
+  location: Kapern
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Seedorf
+    type: place
+parents:
+  - 01FZ3FX8WBDRJ86RV9VJDC76PT
+files:
+  - role: main
+    original_name: scan_446.tif
+    path: files/f2/68/f268b0e600b19cd1b678b0fddb059dad29d4f1ca313d80632de8afab0b248a76/original.tif
+    sha256: f268b0e600b19cd1b678b0fddb059dad29d4f1ca313d80632de8afab0b248a76
+    mime: image/tiff
+    bytes: 15923442
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f2/68/f268b0e600b19cd1b678b0fddb059dad29d4f1ca313d80632de8afab0b248a76/preview-400.778781d40290.jpg
+        sha256: 778781d4029001096980e0af26df08fa3fb6ac0ed90630da34b1c526eab0a6f1
+        mime: image/jpeg
+        bytes: 84810
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

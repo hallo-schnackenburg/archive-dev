@@ -1,0 +1,38 @@
+id: 01F6MASGQKG6RH4AB6G08F8FP1
+type: image
+subtype: print
+title: Gruß aus Brünkendorf, Schnackenburg
+description: Lithographie, Rand beschnitten.
+date: 1776-12-08
+location: Cumlosen, Ladestraße
+origin:
+  name: Hermann Lemke
+  type: person
+  location: Lenzen
+subjects:
+  - name: Wootz
+    type: place
+  - name: Pretzier
+    type: place
+  - name: Fastnacht 1776
+    type: event
+files:
+  - role: main
+    original_name: scan_752.tif
+    path: files/09/de/09deacfe8f476e78fde9f1685a02205e5acc43ce2ebcc481cd6fb9287ac069b7/original.tif
+    sha256: 09deacfe8f476e78fde9f1685a02205e5acc43ce2ebcc481cd6fb9287ac069b7
+    mime: image/tiff
+    bytes: 26367328
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/de/09deacfe8f476e78fde9f1685a02205e5acc43ce2ebcc481cd6fb9287ac069b7/preview-400.f70c7c6f6fb1.jpg
+        sha256: f70c7c6f6fb1ccf4ca22376b2a07d5cea1548fc13b1c7ca643d416296ae24b3c
+        mime: image/jpeg
+        bytes: 22389
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

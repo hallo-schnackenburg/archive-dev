@@ -1,0 +1,60 @@
+id: 01KDNW6FN3FA9Q0KP6B4RMZZWA
+type: document
+subtype: letter
+title: Brief von Heinz Voss an Hermann Lenz
+date: "1918"
+location: Kapern, Scheune
+geocode:
+  lat: 52.9448
+  lon: 11.6782
+  precision: exact
+  source: osm
+origin:
+  name: Rudolf Wiegmann
+  type: person
+  location: Brünkendorf
+recipient: Irmgard Klatt
+language: de
+parents:
+  - 01K7X50YJVP4Q2EM4RD9TMVQVM
+files:
+  - role: page
+    num: 1
+    original_name: letter_rmzzwa_001.tif
+    path: files/c6/f6/c6f6927955c852a843bf7062eb5478ba18615902e27eb74c97e3e747eb3cd663/original.tif
+    sha256: c6f6927955c852a843bf7062eb5478ba18615902e27eb74c97e3e747eb3cd663
+    mime: image/tiff
+    bytes: 11806148
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/f6/c6f6927955c852a843bf7062eb5478ba18615902e27eb74c97e3e747eb3cd663/preview-400.399363ad702f.jpg
+        sha256: 399363ad702fca1a83a0bad7a00c7bbe02d40967ffb45df5c81655d695d4d9e3
+        mime: image/jpeg
+        bytes: 89438
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_rmzzwa_002.tif
+    path: files/02/00/0200780b3d66eeb5c39f503be0bc085d2ea3f518c2f4e15e37bd510bcbf59caf/original.tif
+    sha256: 0200780b3d66eeb5c39f503be0bc085d2ea3f518c2f4e15e37bd510bcbf59caf
+    mime: image/tiff
+    bytes: 6451413
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/00/0200780b3d66eeb5c39f503be0bc085d2ea3f518c2f4e15e37bd510bcbf59caf/preview-400.d6c3c6b3b334.jpg
+        sha256: d6c3c6b3b334479bf70f2217979b84f1096723977aa4cb3289c2bc61fc944367
+        mime: image/jpeg
+        bytes: 75146
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,52 @@
+id: 01JT3HAMVK86CT0FG7WWCHFAG1
+type: document
+subtype: letter
+title: Schreiben der Heimatverein an den Stadtrat
+date: 1906/1913
+location: Lüchow, Kindergarten
+geocode:
+  lat: 52.9305
+  lon: 11.6033
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Meyer
+  type: person
+  location: Gorleben
+recipient: Erika Wiegmann
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Mappe 12
+subjects:
+  - name: Klaus Schwarz
+    type: person
+  - name: Feuerwehrübung 1906
+    type: event
+parents:
+  - 01KYY4CVMJ2SF598S69P8F19XE
+  - 01KRNVBSTXBJR5NRDE3HAC7HXQ
+files:
+  - role: page
+    num: 1
+    original_name: letter_chfag1_001.tif
+    path: files/13/13/1313031a4e1821aa8ee5a54788d73e88e10e78d0214668d61e581b3d33e2655e/original.tif
+    sha256: 1313031a4e1821aa8ee5a54788d73e88e10e78d0214668d61e581b3d33e2655e
+    mime: image/tiff
+    bytes: 7312347
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/13/13/1313031a4e1821aa8ee5a54788d73e88e10e78d0214668d61e581b3d33e2655e/preview-400.3a20dc161121.jpg
+        sha256: 3a20dc161121f90287d5c908d2a4e803b69d473b67a4e2e693f43f9db6914e3a
+        mime: image/jpeg
+        bytes: 39456
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

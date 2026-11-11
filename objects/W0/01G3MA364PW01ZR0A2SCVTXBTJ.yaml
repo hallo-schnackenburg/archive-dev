@@ -1,0 +1,44 @@
+id: 01G3MA364PW01ZR0A2SCVTXBTJ
+type: image
+subtype: plan
+title: Bauplan Kindergarten 1981
+date: 1981~
+origin:
+  name: Wilhelm Rieke
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Familie Kuhlmann
+    type: person
+    location: Gartow
+  note: Planschrank, Fach 3
+subjects:
+  - name: Kartoffelernte 1981
+    type: event
+  - name: Otto Jeß
+    type: person
+  - name: Lüchow
+    type: place
+parents:
+  - 01KHXJPG3828D54ZR9ZE2Z5K94
+files:
+  - role: main
+    original_name: scan_478.tif
+    path: files/e2/66/e2669545a53bcf0b8ed17da08bf37c10a1c531699d61385ec3acc94c2def6024/original.tif
+    sha256: e2669545a53bcf0b8ed17da08bf37c10a1c531699d61385ec3acc94c2def6024
+    mime: image/tiff
+    bytes: 10264001
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e2/66/e2669545a53bcf0b8ed17da08bf37c10a1c531699d61385ec3acc94c2def6024/preview-400.8262f4714f1c.jpg
+        sha256: 8262f4714f1cdab7e7e7b778dcb284b294435a1f7d7deee9f3db6accd018fae2
+        mime: image/jpeg
+        bytes: 59851
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

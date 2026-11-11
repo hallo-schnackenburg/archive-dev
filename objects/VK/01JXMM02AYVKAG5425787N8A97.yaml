@@ -1,0 +1,44 @@
+id: 01JXMM02AYVKAG5425787N8A97
+type: image
+subtype: drawing
+title: Skizze Hitzacker, Schulstraße
+date: 1969?
+location: Havelberg, Bahnhof
+origin:
+  name: Heinrich Lüders
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 26/232
+  note: Regal 1
+subjects:
+  - name: Einschulung 1969
+    type: event
+  - name: Kaufmannshaus
+    type: building
+  - name: Heuberge
+    type: building
+files:
+  - role: main
+    original_name: scan_828.tif
+    path: files/2d/9f/2d9fc58b97e9e6f868336b788df1e99d9544f3418190ac53bff3313ce3113e26/original.tif
+    sha256: 2d9fc58b97e9e6f868336b788df1e99d9544f3418190ac53bff3313ce3113e26
+    mime: image/tiff
+    bytes: 26301178
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2d/9f/2d9fc58b97e9e6f868336b788df1e99d9544f3418190ac53bff3313ce3113e26/preview-400.1074704637fd.jpg
+        sha256: 1074704637fd497d2970847d3c0b05fd2fdc9f71bc3c64cf040e613394692c80
+        mime: image/jpeg
+        bytes: 22032
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

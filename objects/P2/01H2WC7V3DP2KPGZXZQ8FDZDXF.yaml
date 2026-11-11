@@ -1,0 +1,40 @@
+id: 01H2WC7V3DP2KPGZXZQ8FDZDXF
+type: image
+subtype: plan
+title: Deichplan Zadrau bis Seedorf
+description: Mit handschriftlichen Ergänzungen.
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Konfirmation 1936
+    type: event
+  - name: Schlachterei
+    type: building
+  - name: Grenzöffnung 1936
+    type: event
+parents:
+  - 01GF7F3QMSJY20DYHT7HM8AFKR
+  - 01J7ZY57D3ECK0QYZPPDYBXEE3
+files:
+  - role: main
+    original_name: scan_879.tif
+    path: files/68/37/68375afe00c3a97aa72bfa736e43fff01216796202734df575732e22922b9c85/original.tif
+    sha256: 68375afe00c3a97aa72bfa736e43fff01216796202734df575732e22922b9c85
+    mime: image/tiff
+    bytes: 27793167
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/68/37/68375afe00c3a97aa72bfa736e43fff01216796202734df575732e22922b9c85/preview-400.e70f96fb5ed4.jpg
+        sha256: e70f96fb5ed45d827f790bb126f05885e4c405097538125989a3fb1241be3536
+        mime: image/jpeg
+        bytes: 45144
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Doppelt vorhanden?

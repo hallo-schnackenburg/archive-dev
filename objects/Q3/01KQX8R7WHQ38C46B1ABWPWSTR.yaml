@@ -1,0 +1,38 @@
+id: 01KQX8R7WHQ38C46B1ABWPWSTR
+type: image
+subtype: print
+title: Postkarte Wootz, Elbdeich
+description: Postkarte, gelaufen 1919.
+date: 1865-06-15
+location: Wootz, Marktstraße
+origin:
+  name: Karl Brandt
+  type: person
+  location: Seedorf
+subjects:
+  - name: Restorf
+    type: place
+  - name: Lüchow
+    type: place
+  - name: Speicher
+    type: building
+files:
+  - role: main
+    original_name: scan_178.tif
+    path: files/95/00/95004c920a43c823ad499f48c15f13fe62fb7fe63d208355755f5602749f3bc5/original.tif
+    sha256: 95004c920a43c823ad499f48c15f13fe62fb7fe63d208355755f5602749f3bc5
+    mime: image/tiff
+    bytes: 9920832
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/00/95004c920a43c823ad499f48c15f13fe62fb7fe63d208355755f5602749f3bc5/preview-400.e9e190ec2547.jpg
+        sha256: e9e190ec2547bf14d22b1391b12cabafb9340c78f60a5fe52ece0f0b29dbb63f
+        mime: image/jpeg
+        bytes: 30444
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

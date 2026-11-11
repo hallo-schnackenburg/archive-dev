@@ -1,0 +1,47 @@
+id: 01M2N8TX9R8SH28QVHPQNSBMX2
+type: document
+subtype: note
+title: Notiz zu Schulspeisung
+description: Auf der Rückseite eines Formulars.
+date: 1904-03
+location: Brünkendorf, Gasthof Meyer
+geocode:
+  lat: 52.9616
+  lon: 11.6975
+  precision: exact
+  source: osm
+origin:
+  name: Ilse Dreyer
+  type: person
+  location: Bömenzien
+language: en
+original:
+  holder:
+    name: Familie Rieke
+    type: person
+    location: Arendsee
+  reference: Dok/Kasten 29/017
+subjects:
+  - name: Maifeier 1904
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_nsbmx2_001.tif
+    path: files/77/ab/77ab901359603135bc0e5f5e30472feec9ae385d2688a08049b36cdb458cd114/original.tif
+    sha256: 77ab901359603135bc0e5f5e30472feec9ae385d2688a08049b36cdb458cd114
+    mime: image/tiff
+    bytes: 19806869
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/77/ab/77ab901359603135bc0e5f5e30472feec9ae385d2688a08049b36cdb458cd114/preview-400.8ef689076bb3.jpg
+        sha256: 8ef689076bb39669b72ff56c827d903399147c0c163167db3f946112269d1964
+        mime: image/jpeg
+        bytes: 55942
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

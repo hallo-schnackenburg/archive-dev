@@ -1,0 +1,41 @@
+id: 01GWDRBFQJYGSQ22CVY3RE5J7H
+type: image
+subtype: print
+title: "Kupferstich: Laase von der Elbseite, Lüchow"
+description: Lithographie, Rand beschnitten.
+date: 1800/1804
+origin:
+  name: Wilhelm Gaede
+  type: person
+  location: Dömitz
+owner:
+  name: Rudolf Wiegmann
+  type: person
+  note: Nachlass
+subjects:
+  - name: Hedwig Schulz
+    type: person
+  - name: Fastnacht 1800
+    type: event
+  - name: Schnackenburg
+    type: place
+files:
+  - role: main
+    original_name: scan_208.tif
+    path: files/71/e9/71e99b52bd4ca0e54173a5d85e4320b006609ee379eee78a2e3a2d0fbb0ae3a2/original.tif
+    sha256: 71e99b52bd4ca0e54173a5d85e4320b006609ee379eee78a2e3a2d0fbb0ae3a2
+    mime: image/tiff
+    bytes: 1396592
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/71/e9/71e99b52bd4ca0e54173a5d85e4320b006609ee379eee78a2e3a2d0fbb0ae3a2/preview-400.09ff3db622f3.jpg
+        sha256: 09ff3db622f3905f3deb254e641ff47a14fc0ad14f03075be6105b509d3fcf84
+        mime: image/jpeg
+        bytes: 70768
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

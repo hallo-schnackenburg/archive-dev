@@ -1,0 +1,43 @@
+id: 01GH16HN8JE87DX00GPKFMB4N9
+type: image
+subtype: print
+title: Postkarte Cumlosen, Kriegerdenkmal
+location: Gollensdorf, Marktstraße
+geocode:
+  lat: 53.0694
+  lon: 11.4561
+  precision: region
+  source: osm
+origin:
+  name: Käthe Lüders
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 4/054
+subjects:
+  - name: Zollamt
+    type: building
+files:
+  - role: main
+    original_name: scan_264.tif
+    path: files/92/d4/92d4ea2627fdad4f835377028561c65f768b9fc1d2384f0d32e7e47f5cbb4206/original.tif
+    sha256: 92d4ea2627fdad4f835377028561c65f768b9fc1d2384f0d32e7e47f5cbb4206
+    mime: image/tiff
+    bytes: 4776162
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/92/d4/92d4ea2627fdad4f835377028561c65f768b9fc1d2384f0d32e7e47f5cbb4206/preview-400.432c00fdd5f7.jpg
+        sha256: 432c00fdd5f70baa21c3c53d330b2271288146b42e763679cf9ed03c776218be
+        mime: image/jpeg
+        bytes: 88129
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

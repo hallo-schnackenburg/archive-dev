@@ -1,0 +1,61 @@
+id: 01J40TEPCE2STN0E61RRV9CN6H
+type: document
+subtype: note
+title: Rechnung Dreyer, Windmühle
+date: 1873-06-16
+location: Wittenberge, Dorfstraße
+origin:
+  name: Käthe Wöhlk
+  type: person
+  location: Arendsee
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg 32/242
+  note: Regal 4, Kiste 2
+parents:
+  - 01F3WB9ZBJKKX10FSWQKEJV2M4
+files:
+  - role: page
+    num: 1
+    original_name: note_v9cn6h_001.tif
+    path: files/d7/01/d70161718af53af373ff9be4bd11429fa8550fd1ced8c57f055e8fa8316e0dfb/original.tif
+    sha256: d70161718af53af373ff9be4bd11429fa8550fd1ced8c57f055e8fa8316e0dfb
+    mime: image/tiff
+    bytes: 22034955
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/01/d70161718af53af373ff9be4bd11429fa8550fd1ced8c57f055e8fa8316e0dfb/preview-400.87382223e0dd.jpg
+        sha256: 87382223e0dde1818a815bb902a867f438ed95666de167ee356a4c722717848d
+        mime: image/jpeg
+        bytes: 73966
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_v9cn6h_002.tif
+    path: files/6c/2b/6c2ba60511807ecd127f951ef97cd2de5724a7c390a47b80385f2fdf3719c2a6/original.tif
+    sha256: 6c2ba60511807ecd127f951ef97cd2de5724a7c390a47b80385f2fdf3719c2a6
+    mime: image/tiff
+    bytes: 5727857
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6c/2b/6c2ba60511807ecd127f951ef97cd2de5724a7c390a47b80385f2fdf3719c2a6/preview-400.b82e4deaea43.jpg
+        sha256: b82e4deaea43f919341cdedb46a1984bfd8bcf744d33c2840c63ea8bd17ad1ad
+        mime: image/jpeg
+        bytes: 52502
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,74 @@
+id: 01H93SEMVH8SZJYBRA4HAYETWN
+type: document
+subtype: note
+title: Rechnung Brandt, Badestelle
+description: Auf der Rückseite eines Formulars.
+date: 1961-01-04
+location: Laase, Gärtnerei
+geocode:
+  lat: 52.9794
+  lon: 11.5227
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Voss
+  type: person
+  location: Dömitz
+language: de
+original:
+  holder:
+    name: Familie Garms
+    type: person
+    location: Gorleben
+  reference: Br/Kasten 7/019
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Wootz
+    type: place
+  - name: Deicharbeiten 1961
+    type: event
+  - name: Arendsee
+    type: place
+parents:
+  - 01H8EQS4AVFVXGT4V39H7JSKCS
+files:
+  - role: page
+    num: 1
+    original_name: note_ayetwn_001.tif
+    path: files/3e/1e/3e1e29f1f4b8d2033b87db3e33a49f041967e49b7f43c732f042df0bd526a05a/original.tif
+    sha256: 3e1e29f1f4b8d2033b87db3e33a49f041967e49b7f43c732f042df0bd526a05a
+    mime: image/tiff
+    bytes: 469322
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/1e/3e1e29f1f4b8d2033b87db3e33a49f041967e49b7f43c732f042df0bd526a05a/preview-400.87f572310a4e.jpg
+        sha256: 87f572310a4e9ea342f5eae0c123172180d42fb18a6d57e34acb95efb915fef0
+        mime: image/jpeg
+        bytes: 22949
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_ayetwn_002.tif
+    path: files/d7/53/d7531eb290ecfc3366fbd4b44dd1120807e9502045b1ca73ebe88c8042bd1015/original.tif
+    sha256: d7531eb290ecfc3366fbd4b44dd1120807e9502045b1ca73ebe88c8042bd1015
+    mime: image/tiff
+    bytes: 787705
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/53/d7531eb290ecfc3366fbd4b44dd1120807e9502045b1ca73ebe88c8042bd1015/preview-400.c15bc670b408.jpg
+        sha256: c15bc670b408dcb1c23db2e086f1fe18ea7d51c7a9bc414c9b249264755419be
+        mime: image/jpeg
+        bytes: 21262
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

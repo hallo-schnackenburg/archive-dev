@@ -1,0 +1,40 @@
+id: 01EYAPQYMABWS26QQ4PKM1PK99
+type: image
+subtype: print
+title: Postkarte Rüterberg, Tanzsaal
+description: Kupferstich, koloriert.
+date: 1950-03-01
+location: Wootz, Mühle
+origin:
+  name: Gerda Meyer
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Backhaus
+    type: building
+  - name: Arendsee
+    type: place
+  - name: Brunnen am Markt
+    type: building
+parents:
+  - 01GQNCNS1ENA3RKA5ZC1ZCYHJF
+files:
+  - role: main
+    original_name: scan_733.tif
+    path: files/9f/f2/9ff254f27fa7c827f117e559a606e5754b2a8b940db8eb6c05cf7143036e600d/original.tif
+    sha256: 9ff254f27fa7c827f117e559a606e5754b2a8b940db8eb6c05cf7143036e600d
+    mime: image/tiff
+    bytes: 3121652
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9f/f2/9ff254f27fa7c827f117e559a606e5754b2a8b940db8eb6c05cf7143036e600d/preview-400.0d8649a6d0e7.jpg
+        sha256: 0d8649a6d0e76fd7ad204e1c1dc50ca1ce815dedb22b6f350d76779e59d8077a
+        mime: image/jpeg
+        bytes: 63127
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

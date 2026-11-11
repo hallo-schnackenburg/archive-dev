@@ -1,0 +1,38 @@
+id: 01JATZ5MWY7CHB4QX73DAQVXEG
+type: image
+subtype: plan
+title: Deichplan Hitzacker bis Kapern
+description: Maßstab 1:500.
+date: 1860/1868
+location: Havelberg, Elbstraße
+origin:
+  name: Karl Hartwig
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Album 21/097
+  note: Dachboden, Truhe
+files:
+  - role: main
+    original_name: scan_942.tif
+    path: files/66/1e/661ec3bfd6c1b6e9e95e8f12b0a601345a25533e710035412c353f5d2478a5ad/original.tif
+    sha256: 661ec3bfd6c1b6e9e95e8f12b0a601345a25533e710035412c353f5d2478a5ad
+    mime: image/tiff
+    bytes: 2092094
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/66/1e/661ec3bfd6c1b6e9e95e8f12b0a601345a25533e710035412c353f5d2478a5ad/preview-400.4a7ccc40ae0a.jpg
+        sha256: 4a7ccc40ae0aa7e167c190a0b6b68f0c84c170e62ee8399fa9aaa1ba61345d0f
+        mime: image/jpeg
+        bytes: 37903
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

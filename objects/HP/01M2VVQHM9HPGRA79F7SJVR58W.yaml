@@ -1,0 +1,39 @@
+id: 01M2VVQHM9HPGRA79F7SJVR58W
+type: image
+subtype: drawing
+title: Sparkasse, Aquarell
+date: 1862-11
+location: Wittenberge, Fährstraße
+origin:
+  name: Dieter Wöhlk
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 9/084
+subjects:
+  - name: Kartoffelernte 1862
+    type: event
+files:
+  - role: main
+    original_name: scan_295.tif
+    path: files/d3/92/d3925848b331ec54d2530f418bc49730df68071750a501da42cca31bc46ee18a/original.tif
+    sha256: d3925848b331ec54d2530f418bc49730df68071750a501da42cca31bc46ee18a
+    mime: image/tiff
+    bytes: 17563729
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d3/92/d3925848b331ec54d2530f418bc49730df68071750a501da42cca31bc46ee18a/preview-400.dbee0a018ec4.jpg
+        sha256: dbee0a018ec43be7af5d4ed5065634009a39e08c489f32537e40a1d8e65f33d1
+        mime: image/jpeg
+        bytes: 64638
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

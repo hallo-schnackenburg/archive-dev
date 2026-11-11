@@ -1,0 +1,61 @@
+id: 01FRBKS971ADMD83MDN869MQW1
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Marktgebühren 1975
+description: Handschriftlich in Sütterlin.
+date: 1975-04
+location: Nienwalde, Feuerwehrhaus
+geocode:
+  lat: 53.0328
+  lon: 11.6483
+  precision: region
+  source: osm
+language: de
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Grenzöffnung 1975
+    type: event
+  - name: Frieda Meyer
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: protocol_69mqw1_001.tif
+    path: files/23/50/2350941510640d257f43c752eb8891747d30e383784ec9ce1ed03a567aa62e70/original.tif
+    sha256: 2350941510640d257f43c752eb8891747d30e383784ec9ce1ed03a567aa62e70
+    mime: image/tiff
+    bytes: 22008730
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/23/50/2350941510640d257f43c752eb8891747d30e383784ec9ce1ed03a567aa62e70/preview-400.01477a8003d7.jpg
+        sha256: 01477a8003d7632fbb73fb5cab1eede13a541bdcb1b4b59a809b48d98107e64b
+        mime: image/jpeg
+        bytes: 83857
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_69mqw1_002.tif
+    path: files/e3/80/e380067449e0d93959333af346a7e2026321920cee642ad2bee09eee70f46f26/original.tif
+    sha256: e380067449e0d93959333af346a7e2026321920cee642ad2bee09eee70f46f26
+    mime: image/tiff
+    bytes: 5250342
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e3/80/e380067449e0d93959333af346a7e2026321920cee642ad2bee09eee70f46f26/preview-400.e31d7e0849f1.jpg
+        sha256: e31d7e0849f13bf237a14372686cc38fbbf96b915fa913db9227b878f6a718e2
+        mime: image/jpeg
+        bytes: 20845
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

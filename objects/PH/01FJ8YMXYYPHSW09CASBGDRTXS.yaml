@@ -1,0 +1,32 @@
+id: 01FJ8YMXYYPHSW09CASBGDRTXS
+type: image
+subtype: print
+title: "Kupferstich: Hitzacker von der Elbseite, Lanz"
+description: Postkarte, gelaufen 1925.
+date: 1712-06-16
+location: Rüterberg, Dorfstraße
+subjects:
+  - name: Sturmschaden 1712
+    type: event
+  - name: Gutshaus
+    type: building
+files:
+  - role: main
+    original_name: scan_611.tif
+    path: files/02/5d/025db80a167a4cb4add4dd75f7efe287689699cadee2380b648d5ee73c3a4ae8/original.tif
+    sha256: 025db80a167a4cb4add4dd75f7efe287689699cadee2380b648d5ee73c3a4ae8
+    mime: image/tiff
+    bytes: 14389952
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/5d/025db80a167a4cb4add4dd75f7efe287689699cadee2380b648d5ee73c3a4ae8/preview-400.7650deee8ba1.jpg
+        sha256: 7650deee8ba1192f3d20cc1c7bd4199a3b3166ea5e7db70b55489364ac50c62e
+        mime: image/jpeg
+        bytes: 72071
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,51 @@
+id: 01KPF02RH5P9YVDGJVT4K9QVTJ
+type: image
+subtype: photo
+title: Deicharbeiten 1983
+date: 1983-04-10
+location: Wittenberge, Elbstraße
+geocode:
+  lat: 53.031
+  lon: 11.6199
+  precision: region
+  source: osm
+origin:
+  name: Ernst Lemke
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 25/303
+  note: Kellerarchiv
+owner:
+  name: Marta Matthies
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Cumlosen
+    type: place
+files:
+  - role: main
+    original_name: foto_4074.jpg
+    path: files/5a/cc/5acce5e3a4bfda629ab48dc28d84e53883d87c20d20c75bc89c5f05f77cc9c8a/original.jpg
+    sha256: 5acce5e3a4bfda629ab48dc28d84e53883d87c20d20c75bc89c5f05f77cc9c8a
+    mime: image/jpeg
+    bytes: 26740811
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/5a/cc/5acce5e3a4bfda629ab48dc28d84e53883d87c20d20c75bc89c5f05f77cc9c8a/preview-400.bed149571d5a.jpg
+        sha256: bed149571d5a5beb6d8f454769428b5bf110ad94d18d05cf22bea7eb92b28529
+        mime: image/jpeg
+        bytes: 24059
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,46 @@
+id: 01KWKBM6DJNFQXJQKERTTTPNNH
+type: image
+subtype: drawing
+title: Skizze Laase, Schulstraße
+description: Mit Anmerkungen am Rand.
+location: Gollensdorf, Mühlenweg
+geocode:
+  lat: 53.0062
+  lon: 11.6506
+  precision: street
+  source: osm
+origin:
+  name: Otto Tiedemann
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan/Kasten 25/080
+subjects:
+  - name: Christa Oelker
+    type: person
+parents:
+  - 01KYY4CVMJ2SF598S69P8F19XE
+files:
+  - role: main
+    original_name: scan_084.tif
+    path: files/ef/e1/efe15e0da23eb45667eda8a026946056d9d408d92b5a10c10ad18b8c1fdc5a31/original.tif
+    sha256: efe15e0da23eb45667eda8a026946056d9d408d92b5a10c10ad18b8c1fdc5a31
+    mime: image/tiff
+    bytes: 3186782
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ef/e1/efe15e0da23eb45667eda8a026946056d9d408d92b5a10c10ad18b8c1fdc5a31/preview-400.1733333e51a5.jpg
+        sha256: 1733333e51a57aedcfb19aee0e1b14bd5302b787ec7e718f6c177164528fcbc1
+        mime: image/jpeg
+        bytes: 41430
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

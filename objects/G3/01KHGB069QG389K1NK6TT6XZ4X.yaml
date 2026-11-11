@@ -1,0 +1,38 @@
+id: 01KHGB069QG389K1NK6TT6XZ4X
+type: image
+subtype: drawing
+title: Wappenentwurf Pretzier, Restorf
+date: "1923"
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 18/153
+subjects:
+  - name: Maifeier 1923
+    type: event
+  - name: Sturmschaden 1923
+    type: event
+parents:
+  - 01FP0WJ7PX3NTMB1HWR0QPCV98
+files:
+  - role: main
+    original_name: scan_096.tif
+    path: files/b2/41/b24179dd071cfb9b96010d58fe431e57cc2378cf43955a423561ba88b45feb75/original.tif
+    sha256: b24179dd071cfb9b96010d58fe431e57cc2378cf43955a423561ba88b45feb75
+    mime: image/tiff
+    bytes: 13089166
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b2/41/b24179dd071cfb9b96010d58fe431e57cc2378cf43955a423561ba88b45feb75/preview-400.9ff5ac0c229f.jpg
+        sha256: 9ff5ac0c229f672fff35b53f5d7741d77644f2baa1ad359bf04741ffe745081c
+        mime: image/jpeg
+        bytes: 88177
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

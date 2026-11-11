@@ -1,0 +1,40 @@
+id: 01KPF2RGQ9FEJE4XP0JBFJ5VSB
+type: image
+subtype: photo
+title: Kinder am Speicher
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1958-07-07
+location: Lüchow, Marktstraße
+origin:
+  name: Erika Schulz
+  type: person
+  location: Wustrow
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+  - name: Kaufmannshaus
+    type: building
+  - name: Maifeier 1958
+    type: event
+parents:
+  - 01K4FGD1ECY3HP77BZASK6DQRW
+files:
+  - role: main
+    original_name: DSC9271.jpg
+    path: files/33/28/3328a385cd7e0a2d106ac7dbd2afc0b92671d4ae3b5618bfe6437bf4c03ed981/original.jpg
+    sha256: 3328a385cd7e0a2d106ac7dbd2afc0b92671d4ae3b5618bfe6437bf4c03ed981
+    mime: image/jpeg
+    bytes: 9865957
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/33/28/3328a385cd7e0a2d106ac7dbd2afc0b92671d4ae3b5618bfe6437bf4c03ed981/preview-400.71c07bff7a8b.jpg
+        sha256: 71c07bff7a8bcebcedb0f241f05e13ca27437db1dd74fb2ab284087726cf6297
+        mime: image/jpeg
+        bytes: 66780
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

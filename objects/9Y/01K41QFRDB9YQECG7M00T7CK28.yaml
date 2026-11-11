@@ -1,0 +1,41 @@
+id: 01K41QFRDB9YQECG7M00T7CK28
+type: image
+subtype: print
+title: "Kupferstich: Gülden von der Elbseite, Gülden"
+description: Postkarte, gelaufen 1931.
+location: Rüterberg, Am Markt
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 38/172
+subjects:
+  - name: Glockenweihe 1828
+    type: event
+  - name: Arendsee
+    type: place
+  - name: Rüterberg
+    type: place
+parents:
+  - 01JSF9V4MEBDGEQJGPBJV20THW
+files:
+  - role: main
+    original_name: scan_138.tif
+    path: files/9c/c3/9cc30e39e306d2ac67f77c00cd52be59f01684c8a4946c4d359b53d6d35a2b26/original.tif
+    sha256: 9cc30e39e306d2ac67f77c00cd52be59f01684c8a4946c4d359b53d6d35a2b26
+    mime: image/tiff
+    bytes: 8273650
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9c/c3/9cc30e39e306d2ac67f77c00cd52be59f01684c8a4946c4d359b53d6d35a2b26/preview-400.524ce14321d0.jpg
+        sha256: 524ce14321d0ebe02690280cd5175c48df83390d16e44b44db1ebdcfd464ff08
+        mime: image/jpeg
+        bytes: 25672
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

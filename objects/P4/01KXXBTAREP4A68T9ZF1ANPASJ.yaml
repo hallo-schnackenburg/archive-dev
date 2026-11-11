@@ -1,0 +1,36 @@
+id: 01KXXBTAREP4A68T9ZF1ANPASJ
+type: image
+subtype: plan
+title: Deichplan Gartow bis Gülden
+description: Maßstab 1:500.
+date: 1750-07-25
+location: Wustrow, Am Elbdeich
+origin:
+  name: Dieter Hennings
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Zadrau
+    type: place
+files:
+  - role: main
+    original_name: scan_196.tif
+    path: files/b7/ed/b7ed35f50924f28d7c6e82d079cbc68a55fe9d1e32c530bbb0f3fe61a2b87c38/original.tif
+    sha256: b7ed35f50924f28d7c6e82d079cbc68a55fe9d1e32c530bbb0f3fe61a2b87c38
+    mime: image/tiff
+    bytes: 14352787
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b7/ed/b7ed35f50924f28d7c6e82d079cbc68a55fe9d1e32c530bbb0f3fe61a2b87c38/preview-400.a4fa9917cbad.jpg
+        sha256: a4fa9917cbad46613d6e3ed4f54911d29380d5404a1ac7cc861048f07f1b3934
+        mime: image/jpeg
+        bytes: 49475
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

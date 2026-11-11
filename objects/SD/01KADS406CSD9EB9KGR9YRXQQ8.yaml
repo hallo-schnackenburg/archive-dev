@@ -1,0 +1,41 @@
+id: 01KADS406CSD9EB9KGR9YRXQQ8
+type: image
+subtype: photo
+title: Straßenfest 1909
+description: Farbfoto, leicht verblasst.
+date: 1909-02-04
+origin:
+  name: Hans Lemke
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Dömitz
+  reference: Plan/Mappe 11/079
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Kindergartenfest 1909
+    type: event
+files:
+  - role: main
+    original_name: DSC4057.jpg
+    path: files/e3/dc/e3dc091522d1960861e7dd9622877aabb9ac1167e9bf8bc1d78f301c45189eb7/original.jpg
+    sha256: e3dc091522d1960861e7dd9622877aabb9ac1167e9bf8bc1d78f301c45189eb7
+    mime: image/jpeg
+    bytes: 1580418
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e3/dc/e3dc091522d1960861e7dd9622877aabb9ac1167e9bf8bc1d78f301c45189eb7/preview-400.c309e5deee49.jpg
+        sha256: c309e5deee49a2269e64c74ad6b0a4595102711f36192abf7042153a02822d99
+        mime: image/jpeg
+        bytes: 24851
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

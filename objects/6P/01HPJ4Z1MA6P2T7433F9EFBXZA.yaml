@@ -1,0 +1,42 @@
+id: 01HPJ4Z1MA6P2T7433F9EFBXZA
+type: image
+subtype: plan
+title: Bauplan Tischlerei Bruns 1810
+description: Maßstab 1:2500.
+date: 1810-07
+location: Lenzen, Schulstraße
+geocode:
+  lat: 52.9662
+  lon: 11.7
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Voss
+  type: person
+  location: Lüchow
+subjects:
+  - name: Hedwig Bohlmann
+    type: person
+parents:
+  - 01EWC7VVF5TTWGM2X550P0P2HW
+  - 01JP5EBH2JPHYSX1ABKRA99Q8F
+files:
+  - role: main
+    original_name: scan_245.tif
+    path: files/e7/e3/e7e3bf10af59cff7ae3c4b251b0ed507c5937cf21a5f9855c93c1771c8662aa3/original.tif
+    sha256: e7e3bf10af59cff7ae3c4b251b0ed507c5937cf21a5f9855c93c1771c8662aa3
+    mime: image/tiff
+    bytes: 12608016
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e7/e3/e7e3bf10af59cff7ae3c4b251b0ed507c5937cf21a5f9855c93c1771c8662aa3/preview-400.2d3a0b4db255.jpg
+        sha256: 2d3a0b4db2550ac29a72f153bfbf7a9d4df8542f208073aa966ee9a4c6755bd7
+        mime: image/jpeg
+        bytes: 31549
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

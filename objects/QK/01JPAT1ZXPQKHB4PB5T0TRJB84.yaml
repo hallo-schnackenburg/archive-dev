@@ -1,0 +1,31 @@
+id: 01JPAT1ZXPQKHB4PB5T0TRJB84
+type: image
+subtype: drawing
+title: Skizze Wootz, Hafenstraße
+description: Bleistift auf Papier.
+date: "1981"
+location: Arendsee, Försterei
+origin:
+  name: Rudolf Wegner
+  type: person
+  location: Arendsee
+files:
+  - role: main
+    original_name: scan_721.tif
+    path: files/50/e1/50e1ccd0fee184dab62b91e715d01e30d1c1f77204d16dc02bd5ef547ffc5b0b/original.tif
+    sha256: 50e1ccd0fee184dab62b91e715d01e30d1c1f77204d16dc02bd5ef547ffc5b0b
+    mime: image/tiff
+    bytes: 26167902
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/e1/50e1ccd0fee184dab62b91e715d01e30d1c1f77204d16dc02bd5ef547ffc5b0b/preview-400.45d2a73ce7cc.jpg
+        sha256: 45d2a73ce7cc0ebce36e60d875b6b93b8ea409b22fd7e0400142e27908ec3d0b
+        mime: image/jpeg
+        bytes: 42735
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

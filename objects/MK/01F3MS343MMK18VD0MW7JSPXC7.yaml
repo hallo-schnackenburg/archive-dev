@@ -1,0 +1,43 @@
+id: 01F3MS343MMK18VD0MW7JSPXC7
+type: image
+subtype: drawing
+title: Rathaus, Aquarell
+date: 1954?
+location: Nienwalde, Schmiede
+geocode:
+  lat: 52.9332
+  lon: 11.4784
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Hans Burmester
+    type: person
+  - name: Brückeneinweihung 1954
+    type: event
+  - name: Dorfladen
+    type: building
+files:
+  - role: main
+    original_name: scan_157.tif
+    path: files/38/85/38859cb3972f1f934ad62427ed80cedf1855f0d6df52c915ef9a5c1f0cab8f72/original.tif
+    sha256: 38859cb3972f1f934ad62427ed80cedf1855f0d6df52c915ef9a5c1f0cab8f72
+    mime: image/tiff
+    bytes: 16171043
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/38/85/38859cb3972f1f934ad62427ed80cedf1855f0d6df52c915ef9a5c1f0cab8f72/preview-400.8906acde3bf0.jpg
+        sha256: 8906acde3bf07a8735b5a587b83d7b5d567b7847dec83fb75ae3475708bbb737
+        mime: image/jpeg
+        bytes: 57571
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01HWQWSVC54EQHZH8VG0C31D4V
+type: image
+subtype: photo
+title: Beerdigung 1966
+description: Farbfoto, leicht verblasst.
+date: 1966~
+location: Arendsee, Hinter den Höfen
+geocode:
+  lat: 52.9772
+  lon: 11.4983
+  precision: exact
+  source: osm
+subjects:
+  - name: Gustav Wegner
+    type: person
+parents:
+  - 01M2NXDF44FKVBFKSHH2CXM07G
+files:
+  - role: main
+    original_name: P6544.jpg
+    path: files/ef/e2/efe29d228c945ef51542d87dcb22e27cdbdc9a06c439c25d6a24ffa8a0133f5b/original.jpg
+    sha256: efe29d228c945ef51542d87dcb22e27cdbdc9a06c439c25d6a24ffa8a0133f5b
+    mime: image/jpeg
+    bytes: 9808310
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ef/e2/efe29d228c945ef51542d87dcb22e27cdbdc9a06c439c25d6a24ffa8a0133f5b/preview-400.f6f26baadf53.jpg
+        sha256: f6f26baadf53b6e4c4fb16e3702b5da8099d75540211d73497a196c53b0a86ad
+        mime: image/jpeg
+        bytes: 60230
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

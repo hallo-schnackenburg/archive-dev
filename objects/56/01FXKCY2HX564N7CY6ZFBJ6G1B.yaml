@@ -1,0 +1,39 @@
+id: 01FXKCY2HX564N7CY6ZFBJ6G1B
+type: image
+subtype: plan
+title: Bauplan Schlachterei 1786
+description: Maßstab 1:250.
+date: 178X
+location: Rüterberg, Gärtnerei
+origin:
+  name: Lotte Schwarz
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Cumlosen
+subjects:
+  - name: Kindergartenfest 1786
+    type: event
+files:
+  - role: main
+    original_name: scan_742.tif
+    path: files/a2/5e/a25edb6ced128401854e1f6a8aaef287302051b79fa6f523ac4bd3d68a942e63/original.tif
+    sha256: a25edb6ced128401854e1f6a8aaef287302051b79fa6f523ac4bd3d68a942e63
+    mime: image/tiff
+    bytes: 22625754
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a2/5e/a25edb6ced128401854e1f6a8aaef287302051b79fa6f523ac4bd3d68a942e63/preview-400.53645ba092b9.jpg
+        sha256: 53645ba092b90ea787841e5b940038aedff76398fcd6aa50a4c3b3156a9f25fd
+        mime: image/jpeg
+        bytes: 59000
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01GRNG8FR0XP3F6V5E0ZEZ74NY
+type: image
+subtype: drawing
+title: Entwurf für Wassermühle, Lüchow
+description: Mit Anmerkungen am Rand.
+date: 1966-01
+location: Gorleben, Am Markt
+geocode:
+  lat: 52.9163
+  lon: 11.551
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Schwarz
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 1/066
+  note: Kellerarchiv
+files:
+  - role: main
+    original_name: scan_835.tif
+    path: files/93/aa/93aa83b10b17bcfffb82587baaa4b95f10c74b66fde0c9c96cf2bb2350be3d71/original.tif
+    sha256: 93aa83b10b17bcfffb82587baaa4b95f10c74b66fde0c9c96cf2bb2350be3d71
+    mime: image/tiff
+    bytes: 21781160
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/93/aa/93aa83b10b17bcfffb82587baaa4b95f10c74b66fde0c9c96cf2bb2350be3d71/preview-400.7c09feefcd45.jpg
+        sha256: 7c09feefcd45dfc84cc303f2677e7615afab7264074f01c846d3e2bd8850a8e3
+        mime: image/jpeg
+        bytes: 83683
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

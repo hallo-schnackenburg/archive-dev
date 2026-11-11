@@ -1,0 +1,39 @@
+id: 01FTZWDF7XT5Y5ZYB26KSJRF3K
+type: image
+subtype: print
+title: "Holzschnitt: Maifeier, Hitzacker"
+description: Postkarte, gelaufen 1954.
+date: 1735-12
+location: Dömitz, Mühlenweg
+geocode:
+  lat: 53.0316
+  lon: 11.5424
+  precision: region
+  source: osm
+subjects:
+  - name: Wilhelm Ahrens
+    type: person
+  - name: Dorfschule
+    type: building
+parents:
+  - 01KSQSSGDYWJ8WM96BXT4QY5Z0
+files:
+  - role: main
+    original_name: scan_529.tif
+    path: files/f9/83/f983f30ce49814831031f1aa2d1cbb1d3333a350f67687f80bd862ce9cb317f0/original.tif
+    sha256: f983f30ce49814831031f1aa2d1cbb1d3333a350f67687f80bd862ce9cb317f0
+    mime: image/tiff
+    bytes: 17108365
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f9/83/f983f30ce49814831031f1aa2d1cbb1d3333a350f67687f80bd862ce9cb317f0/preview-400.273a1ae6f0ed.jpg
+        sha256: 273a1ae6f0edf0dc8133c70a82dd904359a6ec0f5a8a9234ac27f78b7fa83097
+        mime: image/jpeg
+        bytes: 42963
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

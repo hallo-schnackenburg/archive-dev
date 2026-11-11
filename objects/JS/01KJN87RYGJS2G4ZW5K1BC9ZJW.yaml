@@ -1,0 +1,42 @@
+id: 01KJN87RYGJS2G4ZW5K1BC9ZJW
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Lanz
+description: Mit handschriftlichen Ergänzungen.
+date: 1997?
+origin:
+  name: Dieter Rieke
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 31/314
+  note: Planschrank, Fach 3
+subjects:
+  - name: Einweihung 1997
+    type: event
+  - name: Ortsbesichtigung 1997
+    type: event
+files:
+  - role: main
+    original_name: scan_362.tif
+    path: files/1a/33/1a33f0980ccdcfc4c8463da2f766e14518704f9784964156ab8db21ccacd7307/original.tif
+    sha256: 1a33f0980ccdcfc4c8463da2f766e14518704f9784964156ab8db21ccacd7307
+    mime: image/tiff
+    bytes: 1474525
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/1a/33/1a33f0980ccdcfc4c8463da2f766e14518704f9784964156ab8db21ccacd7307/preview-400.b1f7c7cfda6e.jpg
+        sha256: b1f7c7cfda6e4ce51f31644ffa725e52539e371c0d1b3438b15cee66f36028e0
+        mime: image/jpeg
+        bytes: 79085
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

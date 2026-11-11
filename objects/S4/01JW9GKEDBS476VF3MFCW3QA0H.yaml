@@ -1,0 +1,39 @@
+id: 01JW9GKEDBS476VF3MFCW3QA0H
+type: image
+subtype: plan
+title: Deichplan Arendsee bis Arendsee
+description: Tusche auf Transparentpapier.
+date: "1770"
+location: Wustrow, Lange Straße
+origin:
+  name: Ursula Meyer
+  type: person
+  location: Lanz
+subjects:
+  - name: Gärtnerei
+    type: building
+  - name: Straßenfest 1770
+    type: event
+parents:
+  - 01HYFCM6DN6A2J5RK4P4H4GN9C
+  - 01HBSGHG52Z98SDKPVZX12Z93T
+files:
+  - role: main
+    original_name: scan_260.tif
+    path: files/4c/3c/4c3c0c0c761d8866a223de1a48a9f38b98afbf7b75bb07342161863528c0e5bf/original.tif
+    sha256: 4c3c0c0c761d8866a223de1a48a9f38b98afbf7b75bb07342161863528c0e5bf
+    mime: image/tiff
+    bytes: 15508850
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/4c/3c/4c3c0c0c761d8866a223de1a48a9f38b98afbf7b75bb07342161863528c0e5bf/preview-400.239b014c42c4.jpg
+        sha256: 239b014c42c4cfd127fecd225031051ddd8858c187460e6779f85b5f11673e05
+        mime: image/jpeg
+        bytes: 62203
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01J2K00DWB5BYYGFDMP680VF62
+type: image
+subtype: print
+title: "Kupferstich: Bömenzien von der Elbseite, Lanz"
+date: 1802?
+location: Wittenberge, Dorfstraße
+geocode:
+  lat: 53.0279
+  lon: 11.5205
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Dreyer
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+parents:
+  - 01JZKNVKBS64VYGFSCYTCB6QDJ
+  - 01H19H3S414JQDJQNW8FAB1631
+files:
+  - role: main
+    original_name: scan_795.tif
+    path: files/db/71/db7121e0e0133730ed199f8e1055cb23a99b7c01a19d90f4203d2ce68039d97f/original.tif
+    sha256: db7121e0e0133730ed199f8e1055cb23a99b7c01a19d90f4203d2ce68039d97f
+    mime: image/tiff
+    bytes: 26111540
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/71/db7121e0e0133730ed199f8e1055cb23a99b7c01a19d90f4203d2ce68039d97f/preview-400.17625c2f2baf.jpg
+        sha256: 17625c2f2baf95c33a732c5cb7a596439e6c8bb60c37ce99df2182044b24f259
+        mime: image/jpeg
+        bytes: 52169
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

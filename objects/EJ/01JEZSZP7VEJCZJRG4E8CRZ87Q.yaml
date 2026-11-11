@@ -1,0 +1,44 @@
+id: 01JEZSZP7VEJCZJRG4E8CRZ87Q
+type: image
+subtype: drawing
+title: Skizze Brünkendorf, Elbstraße
+date: "1904"
+location: Laase, Brunnen am Markt
+geocode:
+  lat: 53.0747
+  lon: 11.6426
+  precision: town
+  source: osm
+origin:
+  name: Emma Bohlmann
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 34/263
+subjects:
+  - name: Elfriede Schwarz
+    type: person
+files:
+  - role: main
+    original_name: scan_928.tif
+    path: files/16/8d/168d888d343656282e31b824eed5b176f86ca0a4a70153e816ecbb4b86791ef2/original.tif
+    sha256: 168d888d343656282e31b824eed5b176f86ca0a4a70153e816ecbb4b86791ef2
+    mime: image/tiff
+    bytes: 15909969
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/16/8d/168d888d343656282e31b824eed5b176f86ca0a4a70153e816ecbb4b86791ef2/preview-400.42e6b00da61e.jpg
+        sha256: 42e6b00da61e23c8471fb2e3a0c52a8cb9f0f522b01b7441fde28e3c6a608ff8
+        mime: image/jpeg
+        bytes: 40793
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

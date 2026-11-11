@@ -1,0 +1,83 @@
+id: 01FX2XRPK5G321GCFHR4MBAH6T
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Nienwalde 1935
+description: "Beschlossen wurde unter anderem: Schulspeisung."
+location: Lanz, Grenzturm
+geocode:
+  lat: 52.9321
+  lon: 11.6859
+  precision: region
+  source: osm
+origin:
+  name: Bauausschuss Wustrow
+  type: business
+  location: Gülden
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg/Mappe 30/040
+files:
+  - role: page
+    num: 1
+    original_name: protocol_mbah6t_001.tif
+    path: files/cf/1b/cf1b171836a6711d2da408619d73c44b2c5c1583ac7e5e4e5c8b75ba862c6fad/original.tif
+    sha256: cf1b171836a6711d2da408619d73c44b2c5c1583ac7e5e4e5c8b75ba862c6fad
+    mime: image/tiff
+    bytes: 9708876
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cf/1b/cf1b171836a6711d2da408619d73c44b2c5c1583ac7e5e4e5c8b75ba862c6fad/preview-400.c53ac456b899.jpg
+        sha256: c53ac456b899c20fa57dc7fc619b4b3d6573ed4b067e6a2727797a07003d78e2
+        mime: image/jpeg
+        bytes: 51927
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_mbah6t_002.tif
+    path: files/39/75/3975c622cced61af2ebbf1253579971352b8d4af66133f9cf1aa85fb629e52cf/original.tif
+    sha256: 3975c622cced61af2ebbf1253579971352b8d4af66133f9cf1aa85fb629e52cf
+    mime: image/tiff
+    bytes: 3819278
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/39/75/3975c622cced61af2ebbf1253579971352b8d4af66133f9cf1aa85fb629e52cf/preview-400.64b38b606f48.jpg
+        sha256: 64b38b606f4888a0614bf62747f9cb926d7f968257cc0c8afb7108ba04e0d61f
+        mime: image/jpeg
+        bytes: 71481
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_mbah6t_003.tif
+    path: files/0b/75/0b75406da80e14c926ae3cfbad35959b4763982b837dd4a1fbce7eee260cbd36/original.tif
+    sha256: 0b75406da80e14c926ae3cfbad35959b4763982b837dd4a1fbce7eee260cbd36
+    mime: image/tiff
+    bytes: 7029184
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0b/75/0b75406da80e14c926ae3cfbad35959b4763982b837dd4a1fbce7eee260cbd36/preview-400.3919581ed2c6.jpg
+        sha256: 3919581ed2c6a3ba9e3dc8a2ccd6c0429db95704420a60e3db39d72033722bcd
+        mime: image/jpeg
+        bytes: 68124
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

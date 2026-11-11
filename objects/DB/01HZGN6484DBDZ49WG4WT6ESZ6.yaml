@@ -1,0 +1,64 @@
+id: 01HZGN6484DBDZ49WG4WT6ESZ6
+type: document
+subtype: letter
+title: Zeugnis für Gerda Garms
+description: Handschriftlich, 3 Seiten.
+date: 1816/1824
+origin:
+  name: Karl Krüger
+  type: person
+  location: Hitzacker
+recipient: Karl Detlefs
+language: de
+original:
+  holder:
+    name: Familie Krüger
+    type: person
+    location: Gülden
+  reference: Dok 27/098
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Scheune
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_t6esz6_001.tif
+    path: files/fe/88/fe88457f4e9a1617d99891a385b9a14bd49ebfd1363ea81624ee9ced839074d8/original.tif
+    sha256: fe88457f4e9a1617d99891a385b9a14bd49ebfd1363ea81624ee9ced839074d8
+    mime: image/tiff
+    bytes: 26052514
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fe/88/fe88457f4e9a1617d99891a385b9a14bd49ebfd1363ea81624ee9ced839074d8/preview-400.f06d0c99f2c3.jpg
+        sha256: f06d0c99f2c39c7b5d1722fffbb919396f3fc7472a485a1cf9d1cbd8d42e7e90
+        mime: image/jpeg
+        bytes: 58764
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_t6esz6_002.tif
+    path: files/60/33/6033c877a6b96c281f9a0764518d6bffdcad62a6a562068ed9b8bf665159b18b/original.tif
+    sha256: 6033c877a6b96c281f9a0764518d6bffdcad62a6a562068ed9b8bf665159b18b
+    mime: image/tiff
+    bytes: 2124280
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/60/33/6033c877a6b96c281f9a0764518d6bffdcad62a6a562068ed9b8bf665159b18b/preview-400.bfd87c332392.jpg
+        sha256: bfd87c332392943a3388b8ac3db0bfc9578707489f8f489bcc29f8302352cb91
+        mime: image/jpeg
+        bytes: 42825
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

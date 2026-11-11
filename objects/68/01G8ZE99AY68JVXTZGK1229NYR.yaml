@@ -1,0 +1,43 @@
+id: 01G8ZE99AY68JVXTZGK1229NYR
+type: document
+subtype: letter
+title: Brief von Emma Pape an Wilhelm Harms
+date: 1810-12
+location: Bömenzien, Am Elbdeich
+geocode:
+  lat: 53.099
+  lon: 11.4912
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Lüders
+  type: person
+  location: Dömitz
+recipient: Berta Wiegmann
+language: de
+subjects:
+  - name: Brunnen am Markt
+    type: building
+  - name: Gemeindehaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_229nyr_001.tif
+    path: files/4c/3b/4c3be03760a40d33817fc72286dd4220b02ff1289628b0eaf0403c9512239a29/original.tif
+    sha256: 4c3be03760a40d33817fc72286dd4220b02ff1289628b0eaf0403c9512239a29
+    mime: image/tiff
+    bytes: 19218437
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4c/3b/4c3be03760a40d33817fc72286dd4220b02ff1289628b0eaf0403c9512239a29/preview-400.0e1fc896eead.jpg
+        sha256: 0e1fc896eead01555a493fb205c01190015107b6ffd9bbcc1287e5ed72eab051
+        mime: image/jpeg
+        bytes: 87726
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

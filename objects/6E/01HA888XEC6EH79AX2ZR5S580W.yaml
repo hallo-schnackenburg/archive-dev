@@ -1,0 +1,40 @@
+id: 01HA888XEC6EH79AX2ZR5S580W
+type: image
+subtype: print
+title: Gruß aus Zadrau, Wustrow
+description: Postkarte, gelaufen 1927.
+date: 1758-10-20
+location: Wootz, Burgstraße
+origin:
+  name: Gerda Brandt
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Viehmarkt 1758
+    type: event
+  - name: Maifeier 1758
+    type: event
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01EV4688KBXRNWBE8H1MYHF0WE
+files:
+  - role: main
+    original_name: scan_369.tif
+    path: files/64/5f/645fc4794490999ed921dd7b60be3254700b70564c41a29466b39bd2ddbf2b27/original.tif
+    sha256: 645fc4794490999ed921dd7b60be3254700b70564c41a29466b39bd2ddbf2b27
+    mime: image/tiff
+    bytes: 21703683
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/64/5f/645fc4794490999ed921dd7b60be3254700b70564c41a29466b39bd2ddbf2b27/preview-400.497fdc0ae64f.jpg
+        sha256: 497fdc0ae64ff6a22df4e707e87f0d9fde660a94169dd7b35b27bb8a69752d90
+        mime: image/jpeg
+        bytes: 39494
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

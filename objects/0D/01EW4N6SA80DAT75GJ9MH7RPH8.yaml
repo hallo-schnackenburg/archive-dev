@@ -1,0 +1,39 @@
+id: 01EW4N6SA80DAT75GJ9MH7RPH8
+type: image
+subtype: print
+title: "Holzschnitt: Kirmes"
+date: 1728-06
+location: Gorleben, Sportplatz
+geocode:
+  lat: 52.9352
+  lon: 11.463
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 25/091
+parents:
+  - 01JDVF1103F03HCTM49T0G4EC6
+files:
+  - role: main
+    original_name: scan_422.tif
+    path: files/76/c8/76c8b4eae8a9850c4bf3fd97a82730d60b2710567e61a52407d7780c6d120c7a/original.tif
+    sha256: 76c8b4eae8a9850c4bf3fd97a82730d60b2710567e61a52407d7780c6d120c7a
+    mime: image/tiff
+    bytes: 22727527
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/76/c8/76c8b4eae8a9850c4bf3fd97a82730d60b2710567e61a52407d7780c6d120c7a/preview-400.9676c32915fa.jpg
+        sha256: 9676c32915fa0f3eea704faa8bedf0960b6a4a82d2e95b64b2278f2ac708cee7
+        mime: image/jpeg
+        bytes: 36274
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

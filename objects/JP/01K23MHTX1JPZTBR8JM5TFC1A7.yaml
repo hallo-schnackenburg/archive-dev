@@ -1,0 +1,42 @@
+id: 01K23MHTX1JPZTBR8JM5TFC1A7
+type: document
+subtype: note
+title: Notiz zu Flüchtlingsunterbringung
+date: 1958-05
+location: Rüterberg, Hinter den Höfen
+geocode:
+  lat: 52.9626
+  lon: 11.5345
+  precision: street
+  source: osm
+origin:
+  name: Otto Wegner
+  type: person
+  location: Rüterberg
+language: de
+subjects:
+  - name: Walter Schulz
+    type: person
+parents:
+  - 01KSS5WSKYD8DQE3452TFH91F6
+files:
+  - role: page
+    num: 1
+    original_name: note_tfc1a7_001.tif
+    path: files/23/2d/232d926d955256ac77d041e3070ccee3141684ff0de9c16dab921c28729077fa/original.tif
+    sha256: 232d926d955256ac77d041e3070ccee3141684ff0de9c16dab921c28729077fa
+    mime: image/tiff
+    bytes: 12102636
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/23/2d/232d926d955256ac77d041e3070ccee3141684ff0de9c16dab921c28729077fa/preview-400.220511f86a71.jpg
+        sha256: 220511f86a71abdc40afb3d0926269f8974bdaa8fc09b9077b0ba98436b4b077
+        mime: image/jpeg
+        bytes: 40148
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01GVZQYR7VMKEDXZ31AQWMQXC8
+type: image
+subtype: print
+title: Postkarte Holtorf, Wassermühle, Havelberg
+description: Postkarte, gelaufen 1910.
+date: 1808-09-07
+origin:
+  name: Emma Schwarz
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan 27/187
+subjects:
+  - name: Gülden
+    type: place
+  - name: Einweihung 1808
+    type: event
+  - name: Heinrich Ahrens
+    type: person
+parents:
+  - 01F609NXHEBHNPDFETZVY63FSS
+files:
+  - role: main
+    original_name: scan_318.tif
+    path: files/e0/90/e09070135fe5750fdb04ddc3cfe9c1d15100ba2fa836a4ed62971207af09e29c/original.tif
+    sha256: e09070135fe5750fdb04ddc3cfe9c1d15100ba2fa836a4ed62971207af09e29c
+    mime: image/tiff
+    bytes: 25456831
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e0/90/e09070135fe5750fdb04ddc3cfe9c1d15100ba2fa836a4ed62971207af09e29c/preview-400.48d47a6c6c72.jpg
+        sha256: 48d47a6c6c7291f00f2c966befede6601264cbce115ab80600d9a1fc0e190e46
+        mime: image/jpeg
+        bytes: 38808
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01HNEHY49Z1FF4FYTXFNDZK7B2
+type: image
+subtype: photo
+title: Viehmarkt 1958
+description: Farbfoto, leicht verblasst.
+date: "1958"
+location: Lenzen, Lange Straße
+subjects:
+  - name: Glockenweihe 1958
+    type: event
+  - name: Wittenberge
+    type: place
+  - name: Sportplatz
+    type: building
+parents:
+  - 01KEEQTF18ZM4ZAMFBC1AXYQ8V
+files:
+  - role: main
+    original_name: P5811.jpg
+    path: files/61/7d/617da7dbe5925437ddd87ee8b2ad11ea97c8d548da13a7cd5730ee0044ec1096/original.jpg
+    sha256: 617da7dbe5925437ddd87ee8b2ad11ea97c8d548da13a7cd5730ee0044ec1096
+    mime: image/jpeg
+    bytes: 19411745
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/61/7d/617da7dbe5925437ddd87ee8b2ad11ea97c8d548da13a7cd5730ee0044ec1096/preview-400.7a50d06b686e.jpg
+        sha256: 7a50d06b686efcf29b7d7fd6f520449f4d79f39c88cf45c30fae9038ba814dbd
+        mime: image/jpeg
+        bytes: 25050
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

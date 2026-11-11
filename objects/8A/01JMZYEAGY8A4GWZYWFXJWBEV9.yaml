@@ -1,0 +1,36 @@
+id: 01JMZYEAGY8A4GWZYWFXJWBEV9
+type: image
+subtype: drawing
+title: Entwurf für Hafen, Laase
+description: Mit Anmerkungen am Rand.
+date: 1855-06-10
+location: Nienwalde, Hinter den Höfen
+geocode:
+  lat: 52.9595
+  lon: 11.6885
+  precision: town
+  source: osm
+owner:
+  name: August Wiese
+  type: person
+  note: Nachlass
+files:
+  - role: main
+    original_name: scan_264.tif
+    path: files/9e/d6/9ed6e67405bc3a80d51e1f34ce1966be118a0771f9601f6e8df2230f8ecb15d4/original.tif
+    sha256: 9ed6e67405bc3a80d51e1f34ce1966be118a0771f9601f6e8df2230f8ecb15d4
+    mime: image/tiff
+    bytes: 13389714
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9e/d6/9ed6e67405bc3a80d51e1f34ce1966be118a0771f9601f6e8df2230f8ecb15d4/preview-400.fec5a824c056.jpg
+        sha256: fec5a824c05649185d86827302dd8af017c43189111025d4e005d81ce7cdc11e
+        mime: image/jpeg
+        bytes: 40400
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

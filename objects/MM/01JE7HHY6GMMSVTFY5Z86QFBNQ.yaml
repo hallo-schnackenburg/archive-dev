@@ -1,0 +1,33 @@
+id: 01JE7HHY6GMMSVTFY5Z86QFBNQ
+type: image
+subtype: photo
+title: Mühle nach dem Ortsbesichtigung
+description: Aufnahme von Otto Cohrs.
+date: 1902-10-24
+origin:
+  name: Ilse Ahrens
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Backhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_044.tif
+    path: files/c5/2f/c52fbc9364b780658dfde091c1524b3b956719e96ad67bf33e707d3bd5f18cd7/original.tif
+    sha256: c52fbc9364b780658dfde091c1524b3b956719e96ad67bf33e707d3bd5f18cd7
+    mime: image/tiff
+    bytes: 27783222
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c5/2f/c52fbc9364b780658dfde091c1524b3b956719e96ad67bf33e707d3bd5f18cd7/preview-400.f3ff1f321ae1.jpg
+        sha256: f3ff1f321ae1f7ba585473d43e0e257ce9534e42ca3b740de18066eda607d7a7
+        mime: image/jpeg
+        bytes: 73006
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

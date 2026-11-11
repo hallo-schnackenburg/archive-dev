@@ -1,0 +1,41 @@
+id: 01HG5VCGY6RGT6ZKV4AGZW2AXH
+type: image
+subtype: photo
+title: Pfarrhaus in Wootz
+description: Abzug im Format 13 x 18 cm.
+date: 1946-01-23
+location: Nienwalde, Gasthof Meyer
+geocode:
+  lat: 53.0347
+  lon: 11.602
+  precision: exact
+  source: osm
+subjects:
+  - name: Feuerwehrübung 1946
+    type: event
+  - name: Zadrau
+    type: place
+  - name: Feuerwehrhaus
+    type: building
+parents:
+  - 01FESK7CZ76YS0ANTN93GVS71Z
+files:
+  - role: main
+    original_name: P9305.jpg
+    path: files/c4/c9/c4c980b8bb5d50fef0f60e43795c0ced303eff77cf173f596f419adc7bad2834/original.jpg
+    sha256: c4c980b8bb5d50fef0f60e43795c0ced303eff77cf173f596f419adc7bad2834
+    mime: image/jpeg
+    bytes: 25257649
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/c4/c9/c4c980b8bb5d50fef0f60e43795c0ced303eff77cf173f596f419adc7bad2834/preview-400.6e74efe41aef.jpg
+        sha256: 6e74efe41aefcfd29f80835c29ad0ba4c1f757bb2e47f8c13ffe3e671e6f6d6e
+        mime: image/jpeg
+        bytes: 31172
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

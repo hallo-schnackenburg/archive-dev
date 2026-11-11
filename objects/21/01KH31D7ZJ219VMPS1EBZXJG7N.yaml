@@ -1,0 +1,42 @@
+id: 01KH31D7ZJ219VMPS1EBZXJG7N
+type: image
+subtype: print
+title: Postkarte Rüterberg, Elbdeich
+date: 1718-05-21
+origin:
+  name: Fritz Jeß
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Familie Ludolf
+    type: person
+    location: Brünkendorf
+  reference: Dok/Kasten 2/025
+subjects:
+  - name: Pumpenhaus
+    type: building
+  - name: Friedhofskapelle
+    type: building
+parents:
+  - 01HDS44JS4B8GN7QC5M5DZA42B
+files:
+  - role: main
+    original_name: scan_149.tif
+    path: files/8f/41/8f41f2eca343e464e585bcb3af7aa4acee074539f488246dc4896f6d37d2ba51/original.tif
+    sha256: 8f41f2eca343e464e585bcb3af7aa4acee074539f488246dc4896f6d37d2ba51
+    mime: image/tiff
+    bytes: 2844889
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8f/41/8f41f2eca343e464e585bcb3af7aa4acee074539f488246dc4896f6d37d2ba51/preview-400.3ae7a0751b6b.jpg
+        sha256: 3ae7a0751b6bf083c5505b1d56104d96bba0dc15f27289d82a516495fd388be0
+        mime: image/jpeg
+        bytes: 60814
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

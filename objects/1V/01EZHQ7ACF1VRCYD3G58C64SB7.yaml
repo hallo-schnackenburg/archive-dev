@@ -1,0 +1,33 @@
+id: 01EZHQ7ACF1VRCYD3G58C64SB7
+type: image
+subtype: photo
+title: Schlachterei in Restorf
+date: 192X
+location: Zadrau, Fährstraße
+origin:
+  name: Dieter Heuer
+  type: person
+  location: Wootz
+subjects:
+  - name: Dorfteich
+    type: building
+files:
+  - role: main
+    original_name: scan_910.tif
+    path: files/55/cc/55cc34c5d9738e3bc0b17f7c0d29ca65d2c728528b1ef5f35fd28fdb44de65ae/original.tif
+    sha256: 55cc34c5d9738e3bc0b17f7c0d29ca65d2c728528b1ef5f35fd28fdb44de65ae
+    mime: image/tiff
+    bytes: 3935141
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/55/cc/55cc34c5d9738e3bc0b17f7c0d29ca65d2c728528b1ef5f35fd28fdb44de65ae/preview-400.67a2d5732752.jpg
+        sha256: 67a2d57327520caf27ac460ad21db1108305d4ea15e547ea7ee37aa35c2d2f66
+        mime: image/jpeg
+        bytes: 27086
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,32 @@
+id: 01F4FF0QS1JYM40F1KBC457EYH
+type: image
+subtype: plan
+title: Bauplan Pfarrhaus 1876
+description: Tusche auf Transparentpapier.
+date: 1876-01-20
+origin:
+  name: Hans Ahrens
+  type: person
+  location: Restorf
+parents:
+  - 01GEXDCNJFMMX07WG8TNDMERGT
+files:
+  - role: main
+    original_name: scan_467.tif
+    path: files/a9/c3/a9c322c45386df04cc3161da0bf6955dc7c9f735e5ec993f209203808c952486/original.tif
+    sha256: a9c322c45386df04cc3161da0bf6955dc7c9f735e5ec993f209203808c952486
+    mime: image/tiff
+    bytes: 19421202
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a9/c3/a9c322c45386df04cc3161da0bf6955dc7c9f735e5ec993f209203808c952486/preview-400.c4588de80a2c.jpg
+        sha256: c4588de80a2c42f2668225874cc14cb731c533a993ea32e7faafdb5bfbaab6b7
+        mime: image/jpeg
+        bytes: 44877
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

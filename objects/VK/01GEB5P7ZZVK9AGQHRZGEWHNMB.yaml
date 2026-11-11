@@ -1,0 +1,64 @@
+id: 01GEB5P7ZZVK9AGQHRZGEWHNMB
+type: document
+subtype: letter
+title: Korrespondenz Erika Schulz
+description: Betrifft Flüchtlingsunterbringung.
+date: 1899-08-21
+location: Cumlosen, Burgstraße
+geocode:
+  lat: 53.0671
+  lon: 11.6611
+  precision: town
+  source: osm
+origin:
+  name: Heinz Ahrens
+  type: person
+  location: Dömitz
+recipient: Fritz Harms
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: letter_ewhnmb_001.tif
+    path: files/08/f5/08f583019a1960edbd676933d7f639d5faf91785f0ba9c124155a0e531eba7ce/original.tif
+    sha256: 08f583019a1960edbd676933d7f639d5faf91785f0ba9c124155a0e531eba7ce
+    mime: image/tiff
+    bytes: 26776809
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/08/f5/08f583019a1960edbd676933d7f639d5faf91785f0ba9c124155a0e531eba7ce/preview-400.23c9ad0421cd.jpg
+        sha256: 23c9ad0421cddb2b9fa4ccf5945f773180326d4809a964e42d6a5539455a5035
+        mime: image/jpeg
+        bytes: 36176
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_ewhnmb_002.tif
+    path: files/ca/df/cadfabf019ccef61dbe613c8a88c080d4d10f671bb6a0d0811cf4597b76d4e61/original.tif
+    sha256: cadfabf019ccef61dbe613c8a88c080d4d10f671bb6a0d0811cf4597b76d4e61
+    mime: image/tiff
+    bytes: 7494926
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ca/df/cadfabf019ccef61dbe613c8a88c080d4d10f671bb6a0d0811cf4597b76d4e61/preview-400.52f8be7ae951.jpg
+        sha256: 52f8be7ae951110f8f2e9c03f2512ab301c2e76c8f4ee5347f71c5225512f7b5
+        mime: image/jpeg
+        bytes: 65906
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01GPF2STWBRQ6989SCDNZ9NS11
+type: image
+subtype: drawing
+title: Skizze Cumlosen, Am Elbdeich
+date: 1931-11-27
+location: Pretzier, Zollamt
+origin:
+  name: Gustav Ahrens
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 26/077
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Backhaus
+    type: building
+parents:
+  - 01F4TNZXAP8C2DPZT6V4QF0N5Q
+files:
+  - role: main
+    original_name: scan_324.tif
+    path: files/ac/a1/aca18e97b047166c7c6b1157c22e32f3938eeb7ad7d8242acd4aebaad6f7f363/original.tif
+    sha256: aca18e97b047166c7c6b1157c22e32f3938eeb7ad7d8242acd4aebaad6f7f363
+    mime: image/tiff
+    bytes: 13071487
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/a1/aca18e97b047166c7c6b1157c22e32f3938eeb7ad7d8242acd4aebaad6f7f363/preview-400.e11c1a0dd17c.jpg
+        sha256: e11c1a0dd17c7a05c06564972a9a5f47a0c489ad9a1fc6f835cffb34695c1041
+        mime: image/jpeg
+        bytes: 66512
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

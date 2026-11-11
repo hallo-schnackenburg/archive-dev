@@ -1,0 +1,35 @@
+id: 01HSGDHXH4ZNV7RFZ6P3FF52QR
+type: image
+subtype: plan
+title: Bauplan Kirche St. Johannis 1848
+date: 1848-12
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br/Album 1/037
+  note: Mappe 12
+subjects:
+  - name: Konfirmation 1848
+    type: event
+files:
+  - role: main
+    original_name: scan_284.tif
+    path: files/b6/fa/b6fa8626aa3a76718ed3ad55fc1062bab1bbfdc8e4fef4f4b11f90d87336472e/original.tif
+    sha256: b6fa8626aa3a76718ed3ad55fc1062bab1bbfdc8e4fef4f4b11f90d87336472e
+    mime: image/tiff
+    bytes: 864422
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b6/fa/b6fa8626aa3a76718ed3ad55fc1062bab1bbfdc8e4fef4f4b11f90d87336472e/preview-400.16462d8c6f2f.jpg
+        sha256: 16462d8c6f2fb0fe2e3a585c659d6436fc361b0161a0cdacfaf3146c08d732c6
+        mime: image/jpeg
+        bytes: 21403
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

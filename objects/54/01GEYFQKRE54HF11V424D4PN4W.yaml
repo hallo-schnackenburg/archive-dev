@@ -1,0 +1,34 @@
+id: 01GEYFQKRE54HF11V424D4PN4W
+type: image
+subtype: plan
+title: Katasterblatt Brandt, Kapern
+date: "1827"
+location: Lüchow, Brunnen am Markt
+geocode:
+  lat: 53.075
+  lon: 11.4547
+  precision: region
+  source: osm
+subjects:
+  - name: Dieter Lemke
+    type: person
+files:
+  - role: main
+    original_name: scan_715.tif
+    path: files/af/df/afdf8ab97df3c1324c6324b8430a229f0b38e131651ac5306d144508d4b5da33/original.tif
+    sha256: afdf8ab97df3c1324c6324b8430a229f0b38e131651ac5306d144508d4b5da33
+    mime: image/tiff
+    bytes: 23044575
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/af/df/afdf8ab97df3c1324c6324b8430a229f0b38e131651ac5306d144508d4b5da33/preview-400.2a39670f43d2.jpg
+        sha256: 2a39670f43d2daa16e0f24b02a08ff6a007056763abb0e349e9b720d915eedd8
+        mime: image/jpeg
+        bytes: 21041
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

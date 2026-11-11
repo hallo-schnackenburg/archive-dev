@@ -1,0 +1,64 @@
+id: 01F64A5KBP7AR65H7AGP3WGJ92
+type: document
+subtype: note
+title: Rechnung Brandt, Ziegelei
+date: 1920-05-19
+location: Lüchow, Kirchstraße
+geocode:
+  lat: 53.0894
+  lon: 11.5337
+  precision: street
+  source: osm
+origin:
+  name: Fritz Tiedemann
+  type: person
+  location: Lüchow
+language: de
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Nienwalde
+    type: place
+parents:
+  - 01H633W1F1PMRNTS6MYSVBSE45
+files:
+  - role: page
+    num: 1
+    original_name: note_3wgj92_001.tif
+    path: files/f3/9c/f39c8880f52beaac54c203655d79d1f08ebf02150ca6ac0f9486227931dd97a5/original.tif
+    sha256: f39c8880f52beaac54c203655d79d1f08ebf02150ca6ac0f9486227931dd97a5
+    mime: image/tiff
+    bytes: 4954873
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f3/9c/f39c8880f52beaac54c203655d79d1f08ebf02150ca6ac0f9486227931dd97a5/preview-400.28a1506a99e9.jpg
+        sha256: 28a1506a99e913dfbe7bb1e4ecdae8662b6d26d0b1a1c84de546bd3ba3b16fb4
+        mime: image/jpeg
+        bytes: 84945
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_3wgj92_002.tif
+    path: files/12/f6/12f6a4e76321ccd54d00587d1572f8ca02c6bf8b74b7d46043e40dbcf794acf2/original.tif
+    sha256: 12f6a4e76321ccd54d00587d1572f8ca02c6bf8b74b7d46043e40dbcf794acf2
+    mime: image/tiff
+    bytes: 1299204
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/12/f6/12f6a4e76321ccd54d00587d1572f8ca02c6bf8b74b7d46043e40dbcf794acf2/preview-400.1760f0ae1ad5.jpg
+        sha256: 1760f0ae1ad5cdc35910887ae7656e0f31faa98685ed86b0fd74324430b05b29
+        mime: image/jpeg
+        bytes: 60474
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

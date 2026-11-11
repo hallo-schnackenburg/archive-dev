@@ -1,0 +1,34 @@
+id: 01H0FAAMR7Q9TDYJWD05MD2HAC
+type: image
+subtype: plan
+title: Flurkarte Seedorf, Seedorf
+date: 1922?
+origin:
+  name: Otto Krüger
+  type: person
+  location: Seedorf
+subjects:
+  - name: Friedrich Hennings
+    type: person
+parents:
+  - 01KX0R6PE6GGZKHT99TAR1XJN4
+files:
+  - role: main
+    original_name: scan_172.tif
+    path: files/cb/26/cb26cdeddbae0b2e7fa482b9f41fbfa94c9967940c15c064ec57923de70c691d/original.tif
+    sha256: cb26cdeddbae0b2e7fa482b9f41fbfa94c9967940c15c064ec57923de70c691d
+    mime: image/tiff
+    bytes: 21940627
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cb/26/cb26cdeddbae0b2e7fa482b9f41fbfa94c9967940c15c064ec57923de70c691d/preview-400.4969d20ef63e.jpg
+        sha256: 4969d20ef63ef077d0f431f98dc29f5276e65ea3a93c11e93ff3a02e50b699ef
+        mime: image/jpeg
+        bytes: 52915
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

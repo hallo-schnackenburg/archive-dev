@@ -1,0 +1,50 @@
+id: 01G1Q5S2FAGMWP02PMNRM46T75
+type: image
+subtype: photo
+title: Richtfest 1922
+date: 1922/1929
+location: Laase, Tischlerei Bruns
+geocode:
+  lat: 53.0604
+  lon: 11.5694
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Hartwig
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  note: Schrank B
+subjects:
+  - name: Scheune
+    type: building
+  - name: Kapern
+    type: place
+  - name: Gustav Wiese
+    type: person
+parents:
+  - 01FSR5RWMB3S1C3C5MHAYVRE65
+files:
+  - role: main
+    original_name: IMG_7277.jpg
+    path: files/dc/a5/dca501c9f929d1b01feb51e04b82ddd0ee04f4d4a0cc98757c1597001bca2eaa/original.jpg
+    sha256: dca501c9f929d1b01feb51e04b82ddd0ee04f4d4a0cc98757c1597001bca2eaa
+    mime: image/jpeg
+    bytes: 23307040
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/dc/a5/dca501c9f929d1b01feb51e04b82ddd0ee04f4d4a0cc98757c1597001bca2eaa/preview-400.4c8e55fb3b6e.jpg
+        sha256: 4c8e55fb3b6e01b138698d257e45f1bec4e9e439e05c25cde32871514061850b
+        mime: image/jpeg
+        bytes: 76110
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

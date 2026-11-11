@@ -1,0 +1,83 @@
+id: 01KY7P4G20X0Q3NC48SCSWZT5S
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Kirchenchor 1900
+description: "Beschlossen wurde unter anderem: Brandversicherung."
+date: "1900"
+location: Gülden, Rathaus
+geocode:
+  lat: 53.0935
+  lon: 11.5684
+  precision: town
+  source: osm
+origin:
+  name: Verbandsversammlung Wootz
+  type: business
+  location: Seedorf
+language: de
+subjects:
+  - name: Karl Kuhlmann
+    type: person
+  - name: Heinz Dreyer
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: protocol_swzt5s_001.tif
+    path: files/83/fb/83fba64f527364a260ad474588365a4192080349b630ff72637eedf7ec5b1425/original.tif
+    sha256: 83fba64f527364a260ad474588365a4192080349b630ff72637eedf7ec5b1425
+    mime: image/tiff
+    bytes: 18714299
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/83/fb/83fba64f527364a260ad474588365a4192080349b630ff72637eedf7ec5b1425/preview-400.86ddb6494843.jpg
+        sha256: 86ddb6494843d3ae0006689dbce40bd8da434e1452f0c32e98750140cc62e722
+        mime: image/jpeg
+        bytes: 69218
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_swzt5s_002.tif
+    path: files/5d/2d/5d2db67a574149e66deff035fe3f3dde269ddd255459162ae3226d972d6279c1/original.tif
+    sha256: 5d2db67a574149e66deff035fe3f3dde269ddd255459162ae3226d972d6279c1
+    mime: image/tiff
+    bytes: 8056528
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5d/2d/5d2db67a574149e66deff035fe3f3dde269ddd255459162ae3226d972d6279c1/preview-400.e1a43243d087.jpg
+        sha256: e1a43243d0877a8c06d766e3fee124ad7c526b8545f4aefb6a3189a4cb56cb0a
+        mime: image/jpeg
+        bytes: 87905
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_swzt5s_003.tif
+    path: files/d8/82/d882ffe083e9aaab4e333162f646c90a39d4d2c9be827740e2321d4a1cc312e6/original.tif
+    sha256: d882ffe083e9aaab4e333162f646c90a39d4d2c9be827740e2321d4a1cc312e6
+    mime: image/tiff
+    bytes: 22068162
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d8/82/d882ffe083e9aaab4e333162f646c90a39d4d2c9be827740e2321d4a1cc312e6/preview-400.ca9cb1feb62f.jpg
+        sha256: ca9cb1feb62fc7159f3100933c8acea9c68c3edca0ea36221981ceae214714bd
+        mime: image/jpeg
+        bytes: 36041
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

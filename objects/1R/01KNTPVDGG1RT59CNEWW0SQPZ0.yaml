@@ -1,0 +1,46 @@
+id: 01KNTPVDGG1RT59CNEWW0SQPZ0
+type: image
+subtype: print
+title: Postkarte Rüterberg, Scheune
+description: Postkarte, gelaufen 1928.
+location: Lüchow, Marktstraße
+geocode:
+  lat: 52.9704
+  lon: 11.6934
+  precision: exact
+  source: osm
+origin:
+  name: Ilse Jeß
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok 13/103
+subjects:
+  - name: Wootz
+    type: place
+parents:
+  - 01HXKWJA1EQYHXN89QXEXV1595
+files:
+  - role: main
+    original_name: scan_621.tif
+    path: files/7d/f0/7df086780285c26eb69195689c8ef6b74574584c5114f59c828c385d27c84627/original.tif
+    sha256: 7df086780285c26eb69195689c8ef6b74574584c5114f59c828c385d27c84627
+    mime: image/tiff
+    bytes: 13842350
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7d/f0/7df086780285c26eb69195689c8ef6b74574584c5114f59c828c385d27c84627/preview-400.0d2f2e09892c.jpg
+        sha256: 0d2f2e09892cfe388347ab3424b503dd9e3791fd6bee940d81b244cac6fabd2d
+        mime: image/jpeg
+        bytes: 67001
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

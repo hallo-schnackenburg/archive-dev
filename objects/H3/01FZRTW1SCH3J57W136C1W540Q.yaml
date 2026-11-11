@@ -1,0 +1,40 @@
+id: 01FZRTW1SCH3J57W136C1W540Q
+type: image
+subtype: plan
+title: Deichplan Restorf bis Gollensdorf
+description: Mit handschriftlichen Ergänzungen.
+date: 1760-08
+location: Kapern, Torhaus
+geocode:
+  lat: 52.9625
+  lon: 11.4918
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 1/010
+parents:
+  - 01G488M9Q0MA5PAK1E0A8Z23Y9
+files:
+  - role: main
+    original_name: scan_955.tif
+    path: files/8a/49/8a49ba5f25c73c20142638fad3d97cfd3cd61cf19cd9f3021c8147854cf5ebe3/original.tif
+    sha256: 8a49ba5f25c73c20142638fad3d97cfd3cd61cf19cd9f3021c8147854cf5ebe3
+    mime: image/tiff
+    bytes: 12881199
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8a/49/8a49ba5f25c73c20142638fad3d97cfd3cd61cf19cd9f3021c8147854cf5ebe3/preview-400.76367d938e4a.jpg
+        sha256: 76367d938e4a52f3f8a8ee5b1ca5742a8385e4975e0dc4a937456e37a88ab30b
+        mime: image/jpeg
+        bytes: 20668
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

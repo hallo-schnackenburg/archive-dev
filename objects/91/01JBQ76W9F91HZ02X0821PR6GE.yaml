@@ -1,0 +1,58 @@
+id: 01JBQ76W9F91HZ02X0821PR6GE
+type: document
+subtype: letter
+title: Feldpostbrief von Heinrich Meyer
+date: 1798-10-07
+location: Brünkendorf, Friedhofskapelle
+origin:
+  name: Hans Lemke
+  type: person
+  location: Gorleben
+recipient: Frieda Voss
+language: de
+subjects:
+  - name: Fähranleger
+    type: building
+  - name: Lanz
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_1pr6ge_001.tif
+    path: files/d8/a4/d8a4ef21d824885e6b34336889cd93eb1438aa672427cac053f60b5c51b24e2a/original.tif
+    sha256: d8a4ef21d824885e6b34336889cd93eb1438aa672427cac053f60b5c51b24e2a
+    mime: image/tiff
+    bytes: 4846253
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d8/a4/d8a4ef21d824885e6b34336889cd93eb1438aa672427cac053f60b5c51b24e2a/preview-400.88af29cfd928.jpg
+        sha256: 88af29cfd9286c88c9b1df7df6318ed72184e9aadaaf79125398c6741521bd0a
+        mime: image/jpeg
+        bytes: 79502
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_1pr6ge_002.tif
+    path: files/3b/5e/3b5ea066238e65d074c5cb41bbdeb802b8045e9189b273365ea056f1cf4d0513/original.tif
+    sha256: 3b5ea066238e65d074c5cb41bbdeb802b8045e9189b273365ea056f1cf4d0513
+    mime: image/tiff
+    bytes: 27968787
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3b/5e/3b5ea066238e65d074c5cb41bbdeb802b8045e9189b273365ea056f1cf4d0513/preview-400.2bd27f9e12a3.jpg
+        sha256: 2bd27f9e12a3e92982c4a4114263eea4323459156f4f9a7032e84af2f0c17b03
+        mime: image/jpeg
+        bytes: 61304
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

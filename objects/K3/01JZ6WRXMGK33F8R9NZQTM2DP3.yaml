@@ -1,0 +1,42 @@
+id: 01JZ6WRXMGK33F8R9NZQTM2DP3
+type: image
+subtype: drawing
+title: Dorfteich, Aquarell
+description: Mit Anmerkungen am Rand.
+location: Arendsee, Försterei
+geocode:
+  lat: 53.0303
+  lon: 11.4775
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 34/134
+  note: Kellerarchiv
+subjects:
+  - name: Grenzöffnung 1884
+    type: event
+files:
+  - role: main
+    original_name: scan_751.tif
+    path: files/93/6b/936b42b743d62dc152642abc0007d6d9dcb93f6e79bdb9f22d42ee0eb3016c14/original.tif
+    sha256: 936b42b743d62dc152642abc0007d6d9dcb93f6e79bdb9f22d42ee0eb3016c14
+    mime: image/tiff
+    bytes: 19365248
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/93/6b/936b42b743d62dc152642abc0007d6d9dcb93f6e79bdb9f22d42ee0eb3016c14/preview-400.e50d11abc783.jpg
+        sha256: e50d11abc78336e3d89e0020a125a5db3cb90e2f552dbf0995baff6d05a83ead
+        mime: image/jpeg
+        bytes: 21257
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Person links unbekannt.

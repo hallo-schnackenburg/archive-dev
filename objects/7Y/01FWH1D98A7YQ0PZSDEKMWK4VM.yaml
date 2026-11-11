@@ -1,0 +1,41 @@
+id: 01FWH1D98A7YQ0PZSDEKMWK4VM
+type: image
+subtype: photo
+title: "Bürgerverein: Gruppenbild Feuerwehrübung"
+description: Abzug im Format 9 x 13 cm.
+date: 1932/1944
+location: Salzwedel, Am Markt
+geocode:
+  lat: 52.999
+  lon: 11.5543
+  precision: street
+  source: osm
+subjects:
+  - name: Brückeneinweihung 1932
+    type: event
+  - name: Seedorf
+    type: place
+  - name: Eisgang 1932
+    type: event
+parents:
+  - 01J5DJ7A6MS3KE1Z0TKMZBQRP7
+files:
+  - role: main
+    original_name: foto_4839.jpg
+    path: files/38/1a/381acfbcb45a18cdd52260f30155a8896d862c1e6979164180acae18321fc251/original.jpg
+    sha256: 381acfbcb45a18cdd52260f30155a8896d862c1e6979164180acae18321fc251
+    mime: image/jpeg
+    bytes: 24256985
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/38/1a/381acfbcb45a18cdd52260f30155a8896d862c1e6979164180acae18321fc251/preview-400.f28e9dce36c1.jpg
+        sha256: f28e9dce36c10b004637194f4624cd73b82b4737036394042c0c36c54af1b5bd
+        mime: image/jpeg
+        bytes: 27707
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

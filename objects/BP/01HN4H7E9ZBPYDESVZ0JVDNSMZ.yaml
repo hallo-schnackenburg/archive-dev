@@ -1,0 +1,42 @@
+id: 01HN4H7E9ZBPYDESVZ0JVDNSMZ
+type: image
+subtype: photo
+title: Burgstraße, Ecke Gartenstraße
+description: Abzug im Format 9 x 13 cm.
+date: "2002"
+location: Cumlosen, Ladestraße
+origin:
+  name: Anni Kuhlmann
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Zadrau
+  reference: Dok 30/236
+subjects:
+  - name: Dömitz
+    type: place
+parents:
+  - 01EV4688KBXRNWBE8H1MYHF0WE
+files:
+  - role: main
+    original_name: scan_815.tif
+    path: files/6f/e4/6fe458cbb4f898d99bd740ac12e6685f76319f4684a47442794eda49cfe8e250/original.tif
+    sha256: 6fe458cbb4f898d99bd740ac12e6685f76319f4684a47442794eda49cfe8e250
+    mime: image/tiff
+    bytes: 11371514
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6f/e4/6fe458cbb4f898d99bd740ac12e6685f76319f4684a47442794eda49cfe8e250/preview-400.a2214932b263.jpg
+        sha256: a2214932b263bb2d3cbdc64f6269cf92047fe11c9cc97eeb23fcf74e3c480c06
+        mime: image/jpeg
+        bytes: 43675
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

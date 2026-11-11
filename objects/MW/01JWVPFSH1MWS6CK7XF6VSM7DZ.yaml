@@ -1,0 +1,33 @@
+id: 01JWVPFSH1MWS6CK7XF6VSM7DZ
+type: image
+subtype: photo
+title: Sturmschaden 1923
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1923-01-16
+origin:
+  name: Helga Fricke
+  type: person
+  location: Laase
+subjects:
+  - name: Brünkendorf
+    type: place
+files:
+  - role: main
+    original_name: scan_954.tif
+    path: files/d9/af/d9af13eab43f2680572df6881279c0d5a4fdd2ec7d10cd2afd47b8e42586fa7a/original.tif
+    sha256: d9af13eab43f2680572df6881279c0d5a4fdd2ec7d10cd2afd47b8e42586fa7a
+    mime: image/tiff
+    bytes: 4974002
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d9/af/d9af13eab43f2680572df6881279c0d5a4fdd2ec7d10cd2afd47b8e42586fa7a/preview-400.f2cd4254190e.jpg
+        sha256: f2cd4254190e3aa1c60d54c06a2c70e7635381367864e71b19cc74b23ddfd28f
+        mime: image/jpeg
+        bytes: 50886
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01H31SJKCNW1XJJV3RA4A1W7C5
+type: image
+subtype: print
+title: Postkarte Laase, Schlachterei
+date: 1812-09-03
+location: Lanz, Gasthof „Zur Elbe“
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Familie Tiedemann
+    type: person
+    location: Wootz
+  reference: Dok 1/202
+files:
+  - role: main
+    original_name: scan_940.tif
+    path: files/ac/a6/aca63924f8fa3496a1880bb668e1c64d5fc0c3e86385b7bce7e0fb9e0f885b57/original.tif
+    sha256: aca63924f8fa3496a1880bb668e1c64d5fc0c3e86385b7bce7e0fb9e0f885b57
+    mime: image/tiff
+    bytes: 11267631
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/a6/aca63924f8fa3496a1880bb668e1c64d5fc0c3e86385b7bce7e0fb9e0f885b57/preview-400.9abe98e75ee9.jpg
+        sha256: 9abe98e75ee9af6ebd58d8a2b7058c78f21fe4c083a6a0b8587d8f37a6900cfc
+        mime: image/jpeg
+        bytes: 82098
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

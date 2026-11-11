@@ -1,0 +1,35 @@
+id: 01JGAPSB2S82NM7QGBECPMCG22
+type: image
+subtype: print
+title: "Kupferstich: Gartow von der Elbseite, Gollensdorf"
+description: Lithographie, Rand beschnitten.
+origin:
+  name: Heinrich Tiedemann
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro 27/243
+files:
+  - role: main
+    original_name: scan_485.tif
+    path: files/44/69/44698963fb202ccfdfdc587ea531f9e1f371f6dd6978a0126c644d2c84356403/original.tif
+    sha256: 44698963fb202ccfdfdc587ea531f9e1f371f6dd6978a0126c644d2c84356403
+    mime: image/tiff
+    bytes: 23064381
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/44/69/44698963fb202ccfdfdc587ea531f9e1f371f6dd6978a0126c644d2c84356403/preview-400.69b2987d2374.jpg
+        sha256: 69b2987d2374db690a0b72f776dd26e05766889544ece8c83325997c31d01db9
+        mime: image/jpeg
+        bytes: 32400
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

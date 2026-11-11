@@ -1,0 +1,60 @@
+id: 01JATCSTYX1THEPS782V00EDJD
+type: document
+subtype: letter
+title: Brief von Ilse Harms an Gustav Schwarz
+date: 1906/1916
+location: Wootz, Poststelle
+geocode:
+  lat: 52.9734
+  lon: 11.5781
+  precision: region
+  source: osm
+language: nds
+subjects:
+  - name: Otto Schulz
+    type: person
+  - name: Schlachtfest 1906
+    type: event
+  - name: Zollamt
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_00edjd_001.tif
+    path: files/b3/20/b3201215e29448e0e53ce377147c5547723f1f06b0ae884de2fd1effa548c19a/original.tif
+    sha256: b3201215e29448e0e53ce377147c5547723f1f06b0ae884de2fd1effa548c19a
+    mime: image/tiff
+    bytes: 15599636
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/20/b3201215e29448e0e53ce377147c5547723f1f06b0ae884de2fd1effa548c19a/preview-400.37e7dd211bc0.jpg
+        sha256: 37e7dd211bc01090532c6d934f8d69b8cded200591f61498873ae43dc681db6a
+        mime: image/jpeg
+        bytes: 22831
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_00edjd_002.tif
+    path: files/bd/ca/bdca5175339c3735bed9363fa46214d64ebb43c84f108d8d9f413dde2df14492/original.tif
+    sha256: bdca5175339c3735bed9363fa46214d64ebb43c84f108d8d9f413dde2df14492
+    mime: image/tiff
+    bytes: 2743441
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/ca/bdca5175339c3735bed9363fa46214d64ebb43c84f108d8d9f413dde2df14492/preview-400.1ce97fe6f3fd.jpg
+        sha256: 1ce97fe6f3fdf112e15f667d0704a244bd15a6cc0c63fa89983a16df6b756d64
+        mime: image/jpeg
+        bytes: 52126
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

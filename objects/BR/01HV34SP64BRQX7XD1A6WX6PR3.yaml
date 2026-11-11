@@ -1,0 +1,44 @@
+id: 01HV34SP64BRQX7XD1A6WX6PR3
+type: image
+subtype: photo
+title: Paul Pape, Porträt
+date: 1930-12
+location: Brünkendorf, Kirchstraße
+geocode:
+  lat: 52.9769
+  lon: 11.5
+  precision: town
+  source: osm
+origin:
+  name: Paul Plate
+  type: person
+  location: Gartow
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Grenzöffnung 1930
+    type: event
+  - name: Dorffest 1930
+    type: event
+parents:
+  - 01G1DKZE5VGWDBWA4SKKX3DZT5
+files:
+  - role: main
+    original_name: P0225.jpg
+    path: files/f4/fc/f4fcfdff773bbcf0beee6f5a8b355f2011ff7ba2dbf52f827cb9e94c6931a7c1/original.jpg
+    sha256: f4fcfdff773bbcf0beee6f5a8b355f2011ff7ba2dbf52f827cb9e94c6931a7c1
+    mime: image/jpeg
+    bytes: 3566702
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/f4/fc/f4fcfdff773bbcf0beee6f5a8b355f2011ff7ba2dbf52f827cb9e94c6931a7c1/preview-400.be74faf42536.jpg
+        sha256: be74faf425367b986780465e5cff3fd133fd000c58d49dd59625d4e5e593a3b9
+        mime: image/jpeg
+        bytes: 29086
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

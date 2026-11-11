@@ -1,0 +1,37 @@
+id: 01KV4KWGW24RXD8EPEZH6C60V2
+type: image
+subtype: drawing
+title: Skizze Rüterberg, Mühlenweg
+description: Bleistift auf Papier.
+date: 1880-08-25
+origin:
+  name: Fritz Heuer
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Gärtnerei
+    type: building
+  - name: Bahnhof
+    type: building
+parents:
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+files:
+  - role: main
+    original_name: scan_279.tif
+    path: files/70/5b/705b501e6f2d49d8b4679c5ac1acb3847b72ff52910bc6d53db46c1a4ae4d0b4/original.tif
+    sha256: 705b501e6f2d49d8b4679c5ac1acb3847b72ff52910bc6d53db46c1a4ae4d0b4
+    mime: image/tiff
+    bytes: 19311163
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/70/5b/705b501e6f2d49d8b4679c5ac1acb3847b72ff52910bc6d53db46c1a4ae4d0b4/preview-400.8e259b4a4769.jpg
+        sha256: 8e259b4a4769a68d54bbe828310622ace83c25a2af436d8858f8f24efef3f9b5
+        mime: image/jpeg
+        bytes: 88008
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

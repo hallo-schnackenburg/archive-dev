@@ -1,0 +1,42 @@
+id: 01FXQTCDT2AJ9A3M16DH0P9PF7
+type: image
+subtype: plan
+title: Deichplan Lanz bis Restorf
+description: Mit handschriftlichen Ergänzungen.
+date: 1984-01
+location: Rüterberg, Hinter den Höfen
+origin:
+  name: Karl Fricke
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Gorleben
+  reference: Pro/Mappe 15/054
+subjects:
+  - name: Brückeneinweihung 1984
+    type: event
+  - name: Wootz
+    type: place
+files:
+  - role: main
+    original_name: scan_740.tif
+    path: files/71/fc/71fce93821d7764e3caea7a24277331277b944e7271e0a7be9bd382bdaee19f5/original.tif
+    sha256: 71fce93821d7764e3caea7a24277331277b944e7271e0a7be9bd382bdaee19f5
+    mime: image/tiff
+    bytes: 27814798
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/71/fc/71fce93821d7764e3caea7a24277331277b944e7271e0a7be9bd382bdaee19f5/preview-400.de0e68a7f045.jpg
+        sha256: de0e68a7f0455ebd1582461ab14c3217c3bfb2465bc84cf9a7982efa6d51e4ea
+        mime: image/jpeg
+        bytes: 32396
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

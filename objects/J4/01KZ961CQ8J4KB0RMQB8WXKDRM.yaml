@@ -1,0 +1,42 @@
+id: 01KZ961CQ8J4KB0RMQB8WXKDRM
+type: image
+subtype: drawing
+title: Kindergarten, Aquarell
+date: 1963-01-03
+location: Bömenzien, Schlachterei
+geocode:
+  lat: 52.9237
+  lon: 11.4841
+  precision: town
+  source: osm
+origin:
+  name: Anni Dierks
+  type: person
+  location: Gülden
+subjects:
+  - name: Weihnachtsmarkt 1963
+    type: event
+  - name: Gutshaus
+    type: building
+parents:
+  - 01M3FABESZS5MMBAB10S45G2KH
+files:
+  - role: main
+    original_name: scan_920.tif
+    path: files/5d/d7/5dd733a9211b5d91ad4a5c117065a19194e63f8d9532d79a8bc9291c90a4c393/original.tif
+    sha256: 5dd733a9211b5d91ad4a5c117065a19194e63f8d9532d79a8bc9291c90a4c393
+    mime: image/tiff
+    bytes: 12993758
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5d/d7/5dd733a9211b5d91ad4a5c117065a19194e63f8d9532d79a8bc9291c90a4c393/preview-400.3ba97d6a7ba0.jpg
+        sha256: 3ba97d6a7ba0b9049248a8fd31df7427357e2db510b2c0424cbd767a1c8fab4c
+        mime: image/jpeg
+        bytes: 78853
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

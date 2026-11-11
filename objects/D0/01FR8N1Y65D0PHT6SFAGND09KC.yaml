@@ -1,0 +1,38 @@
+id: 01FR8N1Y65D0PHT6SFAGND09KC
+type: image
+subtype: drawing
+title: Skizze Bömenzien, Schulstraße, Wittenberge
+description: Mit Anmerkungen am Rand.
+date: "1854"
+location: Restorf, Hinter den Höfen
+geocode:
+  lat: 53.061
+  lon: 11.462
+  precision: exact
+  source: osm
+origin:
+  name: Gerda Bohlmann
+  type: person
+  location: Lenzen
+parents:
+  - 01J1BQMAQVEW8DB40J658P2X0W
+files:
+  - role: main
+    original_name: scan_260.tif
+    path: files/19/23/19231098b924779fa598957f2c11f6b609f35ca548d77761803fdf407ad11d6e/original.tif
+    sha256: 19231098b924779fa598957f2c11f6b609f35ca548d77761803fdf407ad11d6e
+    mime: image/tiff
+    bytes: 6998866
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/19/23/19231098b924779fa598957f2c11f6b609f35ca548d77761803fdf407ad11d6e/preview-400.e83b7a29cef3.jpg
+        sha256: e83b7a29cef301c0f4a6cd07ce48349595b5a665647a12328bf94b8be21e8ba8
+        mime: image/jpeg
+        bytes: 78065
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

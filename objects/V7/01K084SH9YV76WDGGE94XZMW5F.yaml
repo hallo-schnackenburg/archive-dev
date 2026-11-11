@@ -1,0 +1,43 @@
+id: 01K084SH9YV76WDGGE94XZMW5F
+type: document
+subtype: letter
+title: Zeugnis für Hermann Meyer
+date: 1892-01-13
+location: Wittenberge, Fähranleger
+geocode:
+  lat: 53.0637
+  lon: 11.5517
+  precision: region
+  source: osm
+origin:
+  name: Günter Tiedemann
+  type: person
+  location: Gartow
+recipient: Otto Klatt
+language: nds
+subjects:
+  - name: Gülden
+    type: place
+parents:
+  - 01K8HWTS9YNZVY4EVEMNNZSHBJ
+files:
+  - role: page
+    num: 1
+    original_name: letter_xzmw5f_001.tif
+    path: files/e4/66/e4661f48aa4e4e3b0fe46ceedb7d8ae94a54701f2b4cf2376d2a3b51d6330873/original.tif
+    sha256: e4661f48aa4e4e3b0fe46ceedb7d8ae94a54701f2b4cf2376d2a3b51d6330873
+    mime: image/tiff
+    bytes: 24438637
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e4/66/e4661f48aa4e4e3b0fe46ceedb7d8ae94a54701f2b4cf2376d2a3b51d6330873/preview-400.e1663538eb41.jpg
+        sha256: e1663538eb416330dfc045d4ab7afda3a42fd367583afefb1f365e05a29b93ce
+        mime: image/jpeg
+        bytes: 77231
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,48 @@
+id: 01FZP8FD1VGK4VC9JWZFPDGQA9
+type: image
+subtype: photo
+title: Kriegerdenkmal nach dem Weihnachtsmarkt
+date: 1957-11-19
+location: Bömenzien, Gartenstraße
+geocode:
+  lat: 53.0912
+  lon: 11.5425
+  precision: street
+  source: osm
+origin:
+  name: Fritz Wiese
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Familie Harms
+    type: person
+    location: Cumlosen
+  reference: Pro/Album 3/091
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+  - name: Maifeier 1957
+    type: event
+  - name: Gemeindehaus
+    type: building
+files:
+  - role: main
+    original_name: P6104.jpg
+    path: files/b6/70/b6707935a29bbe1570f9dc1342f50b0e1bb4e8ff40900b657cc3e448e3061be7/original.jpg
+    sha256: b6707935a29bbe1570f9dc1342f50b0e1bb4e8ff40900b657cc3e448e3061be7
+    mime: image/jpeg
+    bytes: 849944
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b6/70/b6707935a29bbe1570f9dc1342f50b0e1bb4e8ff40900b657cc3e448e3061be7/preview-400.b8c635b845c6.jpg
+        sha256: b8c635b845c63992d0eb491f626df69ea111ec7fd2d457960df6320e6efd003e
+        mime: image/jpeg
+        bytes: 20740
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

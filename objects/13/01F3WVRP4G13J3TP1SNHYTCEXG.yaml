@@ -1,0 +1,43 @@
+id: 01F3WVRP4G13J3TP1SNHYTCEXG
+type: image
+subtype: photo
+title: Familie Matthies beim Einschulung
+description: Farbfoto, leicht verblasst.
+date: "1938"
+location: Nienwalde, Schulstraße
+geocode:
+  lat: 53.0172
+  lon: 11.5259
+  precision: town
+  source: osm
+origin:
+  name: Karl Vogt
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Lanz
+    type: place
+  - name: Gülden
+    type: place
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+files:
+  - role: main
+    original_name: DSC5174.jpg
+    path: files/7f/52/7f522920713581b423bc1881b1b6e4e6aab432dc352af9f69d884e4d19806a98/original.jpg
+    sha256: 7f522920713581b423bc1881b1b6e4e6aab432dc352af9f69d884e4d19806a98
+    mime: image/jpeg
+    bytes: 787166
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7f/52/7f522920713581b423bc1881b1b6e4e6aab432dc352af9f69d884e4d19806a98/preview-400.f9f36785d87a.jpg
+        sha256: f9f36785d87af8ff7b1650127500f1c919eb75e6d4efc318c0ccb1af1e566d84
+        mime: image/jpeg
+        bytes: 66182
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

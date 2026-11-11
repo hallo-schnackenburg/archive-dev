@@ -1,0 +1,57 @@
+id: 01F7ZRYJKW1NBTSWYMS952S7Y1
+type: document
+subtype: note
+title: Rechnung Hennings, Wassermühle
+date: 1943/1947
+location: Wootz, Burgstraße
+geocode:
+  lat: 53.0744
+  lon: 11.6185
+  precision: region
+  source: osm
+origin:
+  name: Gerda Dierks
+  type: person
+  location: Zadrau
+language: de
+files:
+  - role: page
+    num: 1
+    original_name: note_52s7y1_001.tif
+    path: files/09/e9/09e98a25fd5604a6c572cadd0b147c8e48f607804b92800d8db628ae1d09ab30/original.tif
+    sha256: 09e98a25fd5604a6c572cadd0b147c8e48f607804b92800d8db628ae1d09ab30
+    mime: image/tiff
+    bytes: 12353130
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/e9/09e98a25fd5604a6c572cadd0b147c8e48f607804b92800d8db628ae1d09ab30/preview-400.1c25404eb0b7.jpg
+        sha256: 1c25404eb0b7218ce04a53593b031ec8cde13a77b3efc2ec4028ebfe44af3a52
+        mime: image/jpeg
+        bytes: 73808
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_52s7y1_002.tif
+    path: files/53/8e/538e6190df163a4abeba88dc6395ca349c79a4070839f85bd137782dc62a4029/original.tif
+    sha256: 538e6190df163a4abeba88dc6395ca349c79a4070839f85bd137782dc62a4029
+    mime: image/tiff
+    bytes: 3692906
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/53/8e/538e6190df163a4abeba88dc6395ca349c79a4070839f85bd137782dc62a4029/preview-400.fdb706160f60.jpg
+        sha256: fdb706160f60d0c4b6948fa06026562f05cd735f05156918c3e48c0755c855dc
+        mime: image/jpeg
+        bytes: 82801
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

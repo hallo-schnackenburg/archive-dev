@@ -1,0 +1,44 @@
+id: 01HV00CM52P4MTJ3Q60NF3EN24
+type: image
+subtype: plan
+title: Bauplan Kriegerdenkmal 1988
+date: 1988-12-11
+origin:
+  name: Berta Sievers
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 7/300
+subjects:
+  - name: Fritz Lemke
+    type: person
+  - name: Lüchow
+    type: place
+  - name: Walter Schulz
+    type: person
+parents:
+  - 01GWG9662GMDBHVAK54DXCMWG2
+files:
+  - role: main
+    original_name: scan_314.tif
+    path: files/68/2e/682e6e8b7f77fa04f1e29dcaf82e4b1ca22ecf6d818eff2e9ce8b8c8c2b774bf/original.tif
+    sha256: 682e6e8b7f77fa04f1e29dcaf82e4b1ca22ecf6d818eff2e9ce8b8c8c2b774bf
+    mime: image/tiff
+    bytes: 22596420
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/68/2e/682e6e8b7f77fa04f1e29dcaf82e4b1ca22ecf6d818eff2e9ce8b8c8c2b774bf/preview-400.e9880ebc2d11.jpg
+        sha256: e9880ebc2d11e0f23bd02bfb133f0d6f05c6a21095ef80327fa2a57d0542a11a
+        mime: image/jpeg
+        bytes: 79725
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

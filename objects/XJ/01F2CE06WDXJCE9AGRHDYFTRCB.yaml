@@ -1,0 +1,45 @@
+id: 01F2CE06WDXJCE9AGRHDYFTRCB
+type: image
+subtype: plan
+title: Deichplan Havelberg bis Gülden
+description: Mit handschriftlichen Ergänzungen.
+date: "1766"
+location: Brünkendorf, Elbstraße
+origin:
+  name: Otto Hennings
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok/Mappe 4/009
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Dorfkrug
+    type: building
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: scan_702.tif
+    path: files/e8/83/e88315bb013c6f362f4fdcb88c64edb2bbdf8982e19b4e057a6a81b9e60425f7/original.tif
+    sha256: e88315bb013c6f362f4fdcb88c64edb2bbdf8982e19b4e057a6a81b9e60425f7
+    mime: image/tiff
+    bytes: 11303501
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e8/83/e88315bb013c6f362f4fdcb88c64edb2bbdf8982e19b4e057a6a81b9e60425f7/preview-400.da9e6f738fd3.jpg
+        sha256: da9e6f738fd39a41be6fc0fa11d73ef6af40bb956a6601f83d94bfcb8e458210
+        mime: image/jpeg
+        bytes: 41152
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Person links unbekannt.

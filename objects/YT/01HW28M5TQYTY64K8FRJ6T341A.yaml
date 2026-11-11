@@ -1,0 +1,72 @@
+id: 01HW28M5TQYTY64K8FRJ6T341A
+type: document
+subtype: note
+title: Kassenzettel Gemeindehaus, Hitzacker
+date: "1965"
+location: Seedorf, Badestelle
+geocode:
+  lat: 53.0895
+  lon: 11.4612
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Ludolf
+  type: person
+  location: Arendsee
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan/Mappe 6/031
+owner:
+  name: Karl Meyer
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Werner Lenz
+    type: person
+  - name: Sparkasse
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_6t341a_001.tif
+    path: files/68/4b/684bacc542b793ef028a168c2ef4bcc718671ee7da2020b1468468d24d6fb075/original.tif
+    sha256: 684bacc542b793ef028a168c2ef4bcc718671ee7da2020b1468468d24d6fb075
+    mime: image/tiff
+    bytes: 13316480
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/68/4b/684bacc542b793ef028a168c2ef4bcc718671ee7da2020b1468468d24d6fb075/preview-400.37af91167fd0.jpg
+        sha256: 37af91167fd09621b7f4b6b809a8cb406947d798998eb9cf1630a244e2c5b9af
+        mime: image/jpeg
+        bytes: 59905
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_6t341a_002.tif
+    path: files/ba/5e/ba5e729f8eb9939edc78182bb10559c162d1bb737e8caec804a03a02527c2b5d/original.tif
+    sha256: ba5e729f8eb9939edc78182bb10559c162d1bb737e8caec804a03a02527c2b5d
+    mime: image/tiff
+    bytes: 23513728
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ba/5e/ba5e729f8eb9939edc78182bb10559c162d1bb737e8caec804a03a02527c2b5d/preview-400.d490e30b64d8.jpg
+        sha256: d490e30b64d8f1d1625ba9ccaa6fcc9d053c6b8b340089ede6faecc3826bc424
+        mime: image/jpeg
+        bytes: 88235
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

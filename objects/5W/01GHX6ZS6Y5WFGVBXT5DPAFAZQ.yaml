@@ -1,0 +1,37 @@
+id: 01GHX6ZS6Y5WFGVBXT5DPAFAZQ
+type: image
+subtype: plan
+title: Deichplan Brünkendorf bis Gollensdorf
+date: 1787-01-15
+origin:
+  name: Dieter Lemke
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Erika Ahrens
+    type: person
+  - name: Erntedankfest 1787
+    type: event
+parents:
+  - 01J5CY5YG0F694895WWHN65481
+  - 01KZ4MB5E6YQFP0FDWJ529S5A8
+files:
+  - role: main
+    original_name: scan_416.tif
+    path: files/9e/4e/9e4e6d8a022dca37cb8dfd8b8c450b30fe09878fc29aba0c1a961a210b0fd762/original.tif
+    sha256: 9e4e6d8a022dca37cb8dfd8b8c450b30fe09878fc29aba0c1a961a210b0fd762
+    mime: image/tiff
+    bytes: 23480755
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9e/4e/9e4e6d8a022dca37cb8dfd8b8c450b30fe09878fc29aba0c1a961a210b0fd762/preview-400.fccfece920ae.jpg
+        sha256: fccfece920ae1efd75a0496d23173356ffff8cc07509b717e9d5c30bf9990693
+        mime: image/jpeg
+        bytes: 57620
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

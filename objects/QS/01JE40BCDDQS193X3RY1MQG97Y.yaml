@@ -1,0 +1,38 @@
+id: 01JE40BCDDQS193X3RY1MQG97Y
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Pretzier 1844
+description: Anwesend waren 16 Personen.
+date: 1844-01
+location: Bömenzien, Kirchstraße
+geocode:
+  lat: 53.0598
+  lon: 11.4961
+  precision: street
+  source: osm
+origin:
+  name: Samtgemeinderat Brünkendorf
+  type: business
+  location: Zadrau
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 19/357
+subjects:
+  - name: Gartow
+    type: place
+  - name: Viehmarkt 1844
+    type: event
+parents:
+  - 01HRJYJMA6PZA35NA1FR6QZ5XX
+storage: external
+external:
+  - type: archive
+    site: Wendlandarchiv
+    uri: https://wendlandarchiv.example.org/objekt/508595
+    reference: Rep. 9 Nr. 3291
+    retrieved: 2026-02-02
+notes: Zustand prüfen.

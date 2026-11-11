@@ -1,0 +1,36 @@
+id: 01K5M29SXFPDW7K2A66QVDEP14
+type: image
+subtype: print
+title: Postkarte Kapern, Sportplatz
+description: Postkarte, gelaufen 1932.
+date: 1751-06-27
+location: Wootz, Am Markt
+origin:
+  name: Ilse Sievers
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Maifeier 1751
+    type: event
+  - name: Straßenfest 1751
+    type: event
+files:
+  - role: main
+    original_name: scan_002.tif
+    path: files/ee/2e/ee2e8597caf493cfd8f7e1fd255f0818aeb5052083dae9a3afdfe77068031f97/original.tif
+    sha256: ee2e8597caf493cfd8f7e1fd255f0818aeb5052083dae9a3afdfe77068031f97
+    mime: image/tiff
+    bytes: 25028424
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ee/2e/ee2e8597caf493cfd8f7e1fd255f0818aeb5052083dae9a3afdfe77068031f97/preview-400.bd525dbb6329.jpg
+        sha256: bd525dbb63298ea7573c2e6b26a54cd7d738b7609c1086454189e5590dae72e6
+        mime: image/jpeg
+        bytes: 75859
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

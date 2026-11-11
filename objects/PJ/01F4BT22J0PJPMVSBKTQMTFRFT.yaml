@@ -1,0 +1,34 @@
+id: 01F4BT22J0PJPMVSBKTQMTFRFT
+type: image
+subtype: plan
+title: Deichplan Restorf bis Dömitz
+description: Mit handschriftlichen Ergänzungen.
+date: 1840-12-02
+location: Lanz, Speicher
+geocode:
+  lat: 53.022
+  lon: 11.5949
+  precision: street
+  source: osm
+parents:
+  - 01GWG9662GMDBHVAK54DXCMWG2
+files:
+  - role: main
+    original_name: scan_315.tif
+    path: files/0c/87/0c87a5b4e81c2752116be478462e06c74fd1903b13946ba07e6e6447c59e23ba/original.tif
+    sha256: 0c87a5b4e81c2752116be478462e06c74fd1903b13946ba07e6e6447c59e23ba
+    mime: image/tiff
+    bytes: 23755510
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0c/87/0c87a5b4e81c2752116be478462e06c74fd1903b13946ba07e6e6447c59e23ba/preview-400.a2f97d603594.jpg
+        sha256: a2f97d6035941d960c3ef7f73c4f26b3c0e5897844e865d4c1a64710a83491fb
+        mime: image/jpeg
+        bytes: 85131
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

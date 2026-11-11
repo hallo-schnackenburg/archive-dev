@@ -1,0 +1,41 @@
+id: 01FZRDV2XEK6AXHN2EN0VYP91Z
+type: image
+subtype: plan
+title: Bauplan Wassermühle 1981
+date: 1981~
+origin:
+  name: Paul Lemke
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro 11/075
+  note: Schrank B
+subjects:
+  - name: Dieter Schulz
+    type: person
+parents:
+  - 01J5DJ7A6MS3KE1Z0TKMZBQRP7
+files:
+  - role: main
+    original_name: scan_184.tif
+    path: files/11/fb/11fbe36a14dd5666563601cd66832e8c7fd5bdc612197abf52df592011890822/original.tif
+    sha256: 11fbe36a14dd5666563601cd66832e8c7fd5bdc612197abf52df592011890822
+    mime: image/tiff
+    bytes: 5098237
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/11/fb/11fbe36a14dd5666563601cd66832e8c7fd5bdc612197abf52df592011890822/preview-400.b76f37a9efc8.jpg
+        sha256: b76f37a9efc86780023084ed9d1e20cc8099e2c821651907b323170f96aae358
+        mime: image/jpeg
+        bytes: 79451
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

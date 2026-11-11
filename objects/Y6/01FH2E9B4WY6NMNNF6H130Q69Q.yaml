@@ -1,0 +1,35 @@
+id: 01FH2E9B4WY6NMNNF6H130Q69Q
+type: image
+subtype: photo
+title: Ortsbesichtigung 1926
+description: Farbfoto, leicht verblasst.
+date: 1926-03-26
+origin:
+  name: Dieter Lemke
+  type: person
+  location: Laase
+subjects:
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01GVT1XHSVEKN4VCH3XGAC134Y
+files:
+  - role: main
+    original_name: foto_0550.jpg
+    path: files/30/32/3032f16de6d58f6a55d0ee8b17add992fd9b76d2eae38a853dd5bec4d16e68a6/original.jpg
+    sha256: 3032f16de6d58f6a55d0ee8b17add992fd9b76d2eae38a853dd5bec4d16e68a6
+    mime: image/jpeg
+    bytes: 4394768
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/30/32/3032f16de6d58f6a55d0ee8b17add992fd9b76d2eae38a853dd5bec4d16e68a6/preview-400.2a59e11c6b0e.jpg
+        sha256: 2a59e11c6b0e6c1e63cde2e5cd07a1f64d791d9cd3827eb8af96b6aeecadc760
+        mime: image/jpeg
+        bytes: 62874
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

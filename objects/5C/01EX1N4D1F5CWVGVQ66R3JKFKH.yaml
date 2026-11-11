@@ -1,0 +1,71 @@
+id: 01EX1N4D1F5CWVGVQ66R3JKFKH
+type: document
+subtype: note
+title: Quittung für Hermann Brandt
+description: Zettel, Bleistift.
+date: 1926-05-13
+location: Restorf, Deichstraße
+geocode:
+  lat: 52.9669
+  lon: 11.6303
+  precision: town
+  source: osm
+origin:
+  name: Karl Wegner
+  type: person
+  location: Lenzen
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 33/324
+subjects:
+  - name: Maifeier 1926
+    type: event
+  - name: Backhaus
+    type: building
+  - name: Wilhelm Lüders
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_3jkfkh_001.tif
+    path: files/ea/36/ea36d6641bc50ab73f6928718abe9045f2561cd65707111b224c7d2fe8c511e0/original.tif
+    sha256: ea36d6641bc50ab73f6928718abe9045f2561cd65707111b224c7d2fe8c511e0
+    mime: image/tiff
+    bytes: 25499895
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ea/36/ea36d6641bc50ab73f6928718abe9045f2561cd65707111b224c7d2fe8c511e0/preview-400.ffd78f5ee1b4.jpg
+        sha256: ffd78f5ee1b4ea74c5c485b9226c016620923ce4eaa8a0fcbd746b929cf8db4d
+        mime: image/jpeg
+        bytes: 21739
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_3jkfkh_002.tif
+    path: files/92/e7/92e753721f74407dfdbeb9fd837c76b0ab822dca32bd8be69c97faa8500a84b8/original.tif
+    sha256: 92e753721f74407dfdbeb9fd837c76b0ab822dca32bd8be69c97faa8500a84b8
+    mime: image/tiff
+    bytes: 20456902
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/e7/92e753721f74407dfdbeb9fd837c76b0ab822dca32bd8be69c97faa8500a84b8/preview-400.df44ff2a7936.jpg
+        sha256: df44ff2a79368c8d9b4cc896a51d553d490ad20b103faeb0ea98814c49b14b71
+        mime: image/jpeg
+        bytes: 70772
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

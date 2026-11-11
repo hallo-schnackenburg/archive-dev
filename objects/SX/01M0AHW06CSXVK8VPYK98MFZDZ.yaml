@@ -1,0 +1,61 @@
+id: 01M0AHW06CSXVK8VPYK98MFZDZ
+type: document
+subtype: note
+title: Kassenzettel Ladestraße, Pretzier
+description: Auf der Rückseite eines Formulars.
+location: Schnackenburg, Deichstraße
+origin:
+  name: Gerda Detlefs
+  type: person
+  location: Bömenzien
+language: de
+subjects:
+  - name: Friedhofskapelle
+    type: building
+  - name: Seedorf
+    type: place
+  - name: Hitzacker
+    type: place
+parents:
+  - 01KX29XZ6YEZXRZYXDTRF154JS
+files:
+  - role: page
+    num: 1
+    original_name: note_8mfzdz_001.tif
+    path: files/bd/8e/bd8ebfe9c331b81216f6f48d7a05d2d6b6bc74d15e81adb639e581fccb88e2e8/original.tif
+    sha256: bd8ebfe9c331b81216f6f48d7a05d2d6b6bc74d15e81adb639e581fccb88e2e8
+    mime: image/tiff
+    bytes: 11384915
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/8e/bd8ebfe9c331b81216f6f48d7a05d2d6b6bc74d15e81adb639e581fccb88e2e8/preview-400.547c3d837fa2.jpg
+        sha256: 547c3d837fa21c13acdbe68e54fa0b2bc806222f434a1fcb20916adaf922a224
+        mime: image/jpeg
+        bytes: 62494
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_8mfzdz_002.tif
+    path: files/62/cb/62cb66203128fa5732631d3ad36aaec6712ebef9ef74d848479c81563b9748c4/original.tif
+    sha256: 62cb66203128fa5732631d3ad36aaec6712ebef9ef74d848479c81563b9748c4
+    mime: image/tiff
+    bytes: 18675784
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/62/cb/62cb66203128fa5732631d3ad36aaec6712ebef9ef74d848479c81563b9748c4/preview-400.77329c2283eb.jpg
+        sha256: 77329c2283eb95f3d484ace6859807654200b59c908c0f40d0b27259e3ee451c
+        mime: image/jpeg
+        bytes: 43231
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

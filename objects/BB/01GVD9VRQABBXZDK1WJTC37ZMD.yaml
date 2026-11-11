@@ -1,0 +1,37 @@
+id: 01GVD9VRQABBXZDK1WJTC37ZMD
+type: image
+subtype: plan
+title: Grundriss Heuberge
+date: 1969~
+original:
+  holder:
+    name: Familie Garms
+    type: person
+    location: Gülden
+  reference: Dok/Mappe 9/025
+subjects:
+  - name: Otto Wöhlk
+    type: person
+parents:
+  - 01K839EZHAYF5H4HB4TXJTTJWF
+  - 01KP71Y1ZJN9JAVT84GFKBTVMW
+files:
+  - role: main
+    original_name: scan_085.tif
+    path: files/50/94/509472e51db0b19396f696bb5c3e710c9558b161bb48a90fa2b8a63bbe0b49d4/original.tif
+    sha256: 509472e51db0b19396f696bb5c3e710c9558b161bb48a90fa2b8a63bbe0b49d4
+    mime: image/tiff
+    bytes: 436676
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/94/509472e51db0b19396f696bb5c3e710c9558b161bb48a90fa2b8a63bbe0b49d4/preview-400.9221985c4d48.jpg
+        sha256: 9221985c4d48359eca0041d5ae47e24fa99da0abd964ea7cb1bac5d80e543d95
+        mime: image/jpeg
+        bytes: 39060
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01F70TEYBYEX9E92DWK45CB1XB
+type: image
+subtype: photo
+title: Pumpenhaus in Nienwalde
+description: Aufnahme von Ernst Ahrens.
+date: "1925"
+location: Brünkendorf, Hinter den Höfen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 27/269
+  note: Mappe 12
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v62726
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Dömitz
+    type: place
+parents:
+  - 01EZC5C07CZY0ETCK5VD296P3F
+files:
+  - role: main
+    original_name: P3630.jpg
+    path: files/59/e6/59e60ee500d8a9c73309c1e9dac61336317d5513bb91be5b0256589496aa33ab/original.jpg
+    sha256: 59e60ee500d8a9c73309c1e9dac61336317d5513bb91be5b0256589496aa33ab
+    mime: image/jpeg
+    bytes: 11546734
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/59/e6/59e60ee500d8a9c73309c1e9dac61336317d5513bb91be5b0256589496aa33ab/preview-400.ed3740dcf4fe.jpg
+        sha256: ed3740dcf4fe43f1b4854c7d31cc37af04c01092844b5847c4e8fe67a9e65be8
+        mime: image/jpeg
+        bytes: 55119
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

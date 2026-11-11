@@ -1,0 +1,32 @@
+id: 01HTEZ10BAEKTFE46ES4ESMG88
+type: image
+subtype: photo
+title: Burgstraße, Ecke Fährstraße
+description: Schwarzweißfoto, Rückseite beschriftet.
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Weihnachtsmarkt 1890
+    type: event
+parents:
+  - 01F83N316GB4JPE9NDSAS5ZR1M
+files:
+  - role: main
+    original_name: DSC8016.jpg
+    path: files/ec/9e/ec9e8f851d6024c27e33eea1f86595bab8a1dd7e405e8cb7ce911df321fe2dc3/original.jpg
+    sha256: ec9e8f851d6024c27e33eea1f86595bab8a1dd7e405e8cb7ce911df321fe2dc3
+    mime: image/jpeg
+    bytes: 13503607
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/ec/9e/ec9e8f851d6024c27e33eea1f86595bab8a1dd7e405e8cb7ce911df321fe2dc3/preview-400.9b48c0e55ebd.jpg
+        sha256: 9b48c0e55ebd5b66e8d86e98e38ff4990358166a4ae83ebe9bc83f50bf888e56
+        mime: image/jpeg
+        bytes: 37139
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

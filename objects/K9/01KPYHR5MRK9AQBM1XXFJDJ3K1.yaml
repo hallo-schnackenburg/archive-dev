@@ -1,0 +1,34 @@
+id: 01KPYHR5MRK9AQBM1XXFJDJ3K1
+type: image
+subtype: plan
+title: Deichplan Laase bis Lanz
+description: Tusche auf Transparentpapier.
+date: 1889~
+location: Wustrow, Fährstraße
+origin:
+  name: Wilhelm Wegner
+  type: person
+  location: Gorleben
+subjects:
+  - name: Heuberge
+    type: building
+files:
+  - role: main
+    original_name: scan_550.tif
+    path: files/a5/b4/a5b45c700aee26e9e0dd6d2c11caffe622f0cdaf33f6490279bb2c8045cc39f4/original.tif
+    sha256: a5b45c700aee26e9e0dd6d2c11caffe622f0cdaf33f6490279bb2c8045cc39f4
+    mime: image/tiff
+    bytes: 7164763
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a5/b4/a5b45c700aee26e9e0dd6d2c11caffe622f0cdaf33f6490279bb2c8045cc39f4/preview-400.2d00c87410e2.jpg
+        sha256: 2d00c87410e277b8407466b14fb48b5b00375a186ea559da63060f526ac4b931
+        mime: image/jpeg
+        bytes: 74418
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

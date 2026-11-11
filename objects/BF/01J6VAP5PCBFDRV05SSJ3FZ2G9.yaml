@@ -1,0 +1,42 @@
+id: 01J6VAP5PCBFDRV05SSJ3FZ2G9
+type: image
+subtype: plan
+title: Deichplan Hitzacker bis Salzwedel
+description: Mit handschriftlichen Ergänzungen.
+date: "1870"
+origin:
+  name: Friedrich Lüders
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Nienwalde
+  reference: Slg 5/013
+  note: Planschrank, Fach 3
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Ingrid Hennings
+    type: person
+files:
+  - role: main
+    original_name: scan_897.tif
+    path: files/db/ae/dbae8b57fff78c10d74d544eb36226186d6b5443268c9b332fdbaf3fa513c874/original.tif
+    sha256: dbae8b57fff78c10d74d544eb36226186d6b5443268c9b332fdbaf3fa513c874
+    mime: image/tiff
+    bytes: 17550174
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/db/ae/dbae8b57fff78c10d74d544eb36226186d6b5443268c9b332fdbaf3fa513c874/preview-400.3e329c2ce1db.jpg
+        sha256: 3e329c2ce1db57b182954c458428476553e66ab4ca2f31d0805f068b02e05b9b
+        mime: image/jpeg
+        bytes: 29940
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

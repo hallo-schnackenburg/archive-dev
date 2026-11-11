@@ -1,0 +1,36 @@
+id: 01FY1JAFE6SX1M10W1RVBZS895
+type: image
+subtype: photo
+title: Marta Meyer, Porträt
+date: 1959-12
+location: Wootz, Burgstraße
+geocode:
+  lat: 52.9924
+  lon: 11.6665
+  precision: region
+  source: osm
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+parents:
+  - 01F609NXHEBHNPDFETZVY63FSS
+files:
+  - role: main
+    original_name: IMG_1824.jpg
+    path: files/62/eb/62ebceb329fe781a7ab0169c4c2f47e48d616f89b5bc09ee56016f2e5ff82e9a/original.jpg
+    sha256: 62ebceb329fe781a7ab0169c4c2f47e48d616f89b5bc09ee56016f2e5ff82e9a
+    mime: image/jpeg
+    bytes: 23468805
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/62/eb/62ebceb329fe781a7ab0169c4c2f47e48d616f89b5bc09ee56016f2e5ff82e9a/preview-400.de09d9a803aa.jpg
+        sha256: de09d9a803aaa0f0c1ad2f7e9a57b9a7af3599dc452380f663a2ecf8cbd45283
+        mime: image/jpeg
+        bytes: 51260
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

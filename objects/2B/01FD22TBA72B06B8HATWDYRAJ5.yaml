@@ -1,0 +1,34 @@
+id: 01FD22TBA72B06B8HATWDYRAJ5
+type: image
+subtype: drawing
+title: Skizze Wootz, Lange Straße
+location: Lanz, Fährstraße
+origin:
+  name: Monika Pape
+  type: person
+  location: Dömitz
+subjects:
+  - name: Gartow
+    type: place
+  - name: Lenzen
+    type: place
+files:
+  - role: main
+    original_name: scan_222.tif
+    path: files/45/a5/45a5f20d4c48d3bc2284292ae708c80458acc43012e354da5e1cbd81bf25e21a/original.tif
+    sha256: 45a5f20d4c48d3bc2284292ae708c80458acc43012e354da5e1cbd81bf25e21a
+    mime: image/tiff
+    bytes: 5602361
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/45/a5/45a5f20d4c48d3bc2284292ae708c80458acc43012e354da5e1cbd81bf25e21a/preview-400.32907676758c.jpg
+        sha256: 32907676758c6d0ebedf4e49c01c3139a2ce01ada90772d7bfbbd7ba6acc97fc
+        mime: image/jpeg
+        bytes: 36674
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

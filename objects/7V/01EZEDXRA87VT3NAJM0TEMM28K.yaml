@@ -1,0 +1,38 @@
+id: 01EZEDXRA87VT3NAJM0TEMM28K
+type: image
+subtype: drawing
+title: Wappenentwurf Zadrau, Pretzier
+description: Federzeichnung, laviert.
+date: 1899-04
+location: Lanz, Pumpenhaus
+geocode:
+  lat: 53.064
+  lon: 11.4876
+  precision: region
+  source: osm
+origin:
+  name: Dieter Schulz
+  type: person
+  location: Cumlosen
+parents:
+  - 01K6MM688883CWMKTJ2NVR6F70
+files:
+  - role: main
+    original_name: scan_533.tif
+    path: files/14/dd/14ddf11987727cb82e86b560381f6a890971aee68bd4ef45ad3b22e376df527a/original.tif
+    sha256: 14ddf11987727cb82e86b560381f6a890971aee68bd4ef45ad3b22e376df527a
+    mime: image/tiff
+    bytes: 5199831
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/14/dd/14ddf11987727cb82e86b560381f6a890971aee68bd4ef45ad3b22e376df527a/preview-400.a2ae264db078.jpg
+        sha256: a2ae264db07838d737b0bb3070f4b464a72d627ba081d1037bec9bffc3c0167b
+        mime: image/jpeg
+        bytes: 74718
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

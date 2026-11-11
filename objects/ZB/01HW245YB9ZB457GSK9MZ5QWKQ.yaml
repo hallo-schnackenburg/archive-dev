@@ -1,0 +1,45 @@
+id: 01HW245YB9ZB457GSK9MZ5QWKQ
+type: image
+subtype: print
+title: Gruß aus Restorf, Pretzier
+date: 1883/1885
+origin:
+  name: Rudolf Garms
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan/Album 8/107
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Tanzsaal
+    type: building
+  - name: Dorffest 1883
+    type: event
+parents:
+  - 01F46MZG12HDJQK9Z29HPTQV9B
+files:
+  - role: main
+    original_name: scan_016.tif
+    path: files/40/6f/406f9deff00276ef721ce54aad0b8131eb79a4662e159bc9aece9694d92d83b5/original.tif
+    sha256: 406f9deff00276ef721ce54aad0b8131eb79a4662e159bc9aece9694d92d83b5
+    mime: image/tiff
+    bytes: 16880940
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/40/6f/406f9deff00276ef721ce54aad0b8131eb79a4662e159bc9aece9694d92d83b5/preview-400.e7b9ee085023.jpg
+        sha256: e7b9ee0850238f2e4f80afaf2844e47f96c7e07b6088804e4b6945dc0b881f4b
+        mime: image/jpeg
+        bytes: 26466
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

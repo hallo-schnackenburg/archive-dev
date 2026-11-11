@@ -1,0 +1,39 @@
+id: 01HFHV6FDY44KS0ZRR7K2XT0ZT
+type: image
+subtype: plan
+title: Bauplan Windmühle 1946
+description: Tusche auf Transparentpapier.
+date: 1946?
+origin:
+  name: Gerda Rohde
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Kirmes 1946
+    type: event
+  - name: Feuerwehrübung 1946
+    type: event
+  - name: Erika Hennings
+    type: person
+parents:
+  - 01G8B1RBKCP0JCJ0TQ3WYMBBPZ
+files:
+  - role: main
+    original_name: scan_454.tif
+    path: files/14/9c/149cf8fedf20430c0254d23716b564cae0584bc933c22da63c84104fa1ff078b/original.tif
+    sha256: 149cf8fedf20430c0254d23716b564cae0584bc933c22da63c84104fa1ff078b
+    mime: image/tiff
+    bytes: 27163555
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/9c/149cf8fedf20430c0254d23716b564cae0584bc933c22da63c84104fa1ff078b/preview-400.f036ac20cf0f.jpg
+        sha256: f036ac20cf0f1a27a54d0d2edf4719fb5214f1aa20e26acc2a4a16dbec649075
+        mime: image/jpeg
+        bytes: 38173
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01GTXHHPRD17YGCFFZ1NFKD0TQ
+type: image
+subtype: plan
+title: Bauplan Grenzturm 1855
+date: "1855"
+location: Gülden, Hinter den Höfen
+geocode:
+  lat: 52.9036
+  lon: 11.4688
+  precision: region
+  source: osm
+subjects:
+  - name: Erntedankfest 1855
+    type: event
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_447.tif
+    path: files/72/32/723296c12eaa5ac2c6862cf5d62bde3e75fc4b32fd21ac803d65f0c71712b8fe/original.tif
+    sha256: 723296c12eaa5ac2c6862cf5d62bde3e75fc4b32fd21ac803d65f0c71712b8fe
+    mime: image/tiff
+    bytes: 18730485
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/72/32/723296c12eaa5ac2c6862cf5d62bde3e75fc4b32fd21ac803d65f0c71712b8fe/preview-400.f4111b910adf.jpg
+        sha256: f4111b910adf84d95a27cfb6616f91c9040da65d7dcaf2dd3dbc99c873b10aac
+        mime: image/jpeg
+        bytes: 43932
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

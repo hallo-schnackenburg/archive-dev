@@ -1,0 +1,42 @@
+id: 01M3QMJSBDD1WQC176B5ZZE890
+type: image
+subtype: photo
+title: "Kriegerverein: Gruppenbild Konfirmation"
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Cumlosen, Elbstraße
+geocode:
+  lat: 53.0674
+  lon: 11.6388
+  precision: region
+  source: osm
+origin:
+  name: Fritz Schwarz
+  type: person
+  location: Dömitz
+subjects:
+  - name: Hochwasser 1952
+    type: event
+  - name: Rudolf Lemke
+    type: person
+parents:
+  - 01JTAHZQ2H6N377TQAEA3P4341
+files:
+  - role: main
+    original_name: scan_781.tif
+    path: files/16/7a/167a4a79162e5589337eeb1e7ae999422d140a056603b7bec97253f14f62b5f1/original.tif
+    sha256: 167a4a79162e5589337eeb1e7ae999422d140a056603b7bec97253f14f62b5f1
+    mime: image/tiff
+    bytes: 2432942
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/16/7a/167a4a79162e5589337eeb1e7ae999422d140a056603b7bec97253f14f62b5f1/preview-400.29f07b9965a3.jpg
+        sha256: 29f07b9965a34668264aaa733009c82c328733f9757280d828a3ba4f62919179
+        mime: image/jpeg
+        bytes: 34624
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

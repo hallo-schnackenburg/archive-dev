@@ -1,0 +1,35 @@
+id: 01EY56YFVZAVQF6RCK4TY49GM6
+type: image
+subtype: plan
+title: Bauplan Bäckerei Lüders 1985
+description: Mit handschriftlichen Ergänzungen.
+date: "1985"
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg 40/097
+subjects:
+  - name: Straßenfest 1985
+    type: event
+files:
+  - role: main
+    original_name: scan_776.tif
+    path: files/a8/9b/a89b4ef9fbeabe30f50d5d264f863de12bf041db5455484caadb92a2947ed1ae/original.tif
+    sha256: a89b4ef9fbeabe30f50d5d264f863de12bf041db5455484caadb92a2947ed1ae
+    mime: image/tiff
+    bytes: 14665883
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a8/9b/a89b4ef9fbeabe30f50d5d264f863de12bf041db5455484caadb92a2947ed1ae/preview-400.fc41811cef98.jpg
+        sha256: fc41811cef982b7751ce67fde4cd6f9c84027ed6625b7f8774f27ff58deb4805
+        mime: image/jpeg
+        bytes: 72507
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

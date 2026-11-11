@@ -1,0 +1,44 @@
+id: 01HBQQC4W80NCYNGFBGB7389NF
+type: image
+subtype: photo
+title: Blick vom Heuberge auf das Gärtnerei
+date: 1946-01
+location: Lanz, Hinter den Höfen
+geocode:
+  lat: 52.9587
+  lon: 11.5889
+  precision: street
+  source: osm
+origin:
+  name: Ilse Plate
+  type: person
+  location: Lenzen
+owner:
+  name: Berta Bohlmann
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Fährjubiläum 1946
+    type: event
+parents:
+  - 01EWC7VVF5TTWGM2X550P0P2HW
+files:
+  - role: main
+    original_name: DSC0700.jpg
+    path: files/31/04/3104fb1fbb7e7c59b13f3889ad609aadc7be6bf56159079aac6ce625cdad452a/original.jpg
+    sha256: 3104fb1fbb7e7c59b13f3889ad609aadc7be6bf56159079aac6ce625cdad452a
+    mime: image/jpeg
+    bytes: 25601065
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/31/04/3104fb1fbb7e7c59b13f3889ad609aadc7be6bf56159079aac6ce625cdad452a/preview-400.bb60c80af3e1.jpg
+        sha256: bb60c80af3e1857f328ed7d641fd28cff2af2709d60de09c9b54543210c7fad0
+        mime: image/jpeg
+        bytes: 49933
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

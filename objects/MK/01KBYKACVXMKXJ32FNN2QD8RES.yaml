@@ -1,0 +1,45 @@
+id: 01KBYKACVXMKXJ32FNN2QD8RES
+type: image
+subtype: photo
+title: "Heimatverein: Gruppenbild Grenzöffnung"
+description: Zu sehen sind Fähranleger und Kirche St. Johannis.
+date: 1986-09
+location: Cumlosen, Hafenstraße
+geocode:
+  lat: 53.0691
+  lon: 11.6211
+  precision: exact
+  source: osm
+origin:
+  name: Helga Behrens
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Feuerwehrübung 1986
+    type: event
+  - name: Bahnhof
+    type: building
+parents:
+  - 01H902F8KH7FGB5792BQJBD6C6
+files:
+  - role: main
+    original_name: foto_1780.jpg
+    path: files/86/95/8695f2840895edd6daadda57d31f4507f45094fc27596aa63b2c11599c2bac88/original.jpg
+    sha256: 8695f2840895edd6daadda57d31f4507f45094fc27596aa63b2c11599c2bac88
+    mime: image/jpeg
+    bytes: 2249126
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/86/95/8695f2840895edd6daadda57d31f4507f45094fc27596aa63b2c11599c2bac88/preview-400.a89008426065.jpg
+        sha256: a890084260652482fee78bb37fa40ef4efcedff385beabf318d7c7616173d7ee
+        mime: image/jpeg
+        bytes: 56307
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

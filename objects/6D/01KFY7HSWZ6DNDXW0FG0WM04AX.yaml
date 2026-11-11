@@ -1,0 +1,40 @@
+id: 01KFY7HSWZ6DNDXW0FG0WM04AX
+type: image
+subtype: print
+title: Postkarte Schnackenburg, Dorfteich
+description: Postkarte, gelaufen 1920.
+date: 1942-10-04
+location: Rüterberg, Kriegerdenkmal
+origin:
+  name: Hans Plate
+  type: person
+  location: Bömenzien
+owner:
+  name: Otto Meyer
+  type: person
+  note: Nachlass
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Kaufmannshaus
+    type: building
+files:
+  - role: main
+    original_name: scan_410.tif
+    path: files/fa/fe/fafe9363c0d320dbfc52309dc5e7dd828f232df18d6b57243cdfa738fafd24c1/original.tif
+    sha256: fafe9363c0d320dbfc52309dc5e7dd828f232df18d6b57243cdfa738fafd24c1
+    mime: image/tiff
+    bytes: 16728843
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fa/fe/fafe9363c0d320dbfc52309dc5e7dd828f232df18d6b57243cdfa738fafd24c1/preview-400.1cee9b9f55b6.jpg
+        sha256: 1cee9b9f55b6a81f4e6f0f2462c364489e24aa67130e50560e1a2de240111e47
+        mime: image/jpeg
+        bytes: 45212
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

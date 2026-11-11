@@ -1,0 +1,37 @@
+id: 01H37G9QJ9TH7AZTVG6X9STR2V
+type: image
+subtype: photo
+title: Gemeindehaus in Wittenberge
+description: Zu sehen sind Sportplatz und Storchennest.
+date: 1930/1936
+location: Cumlosen, Kirchstraße
+geocode:
+  lat: 53.002
+  lon: 11.6227
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+files:
+  - role: main
+    original_name: DSC3734.jpg
+    path: files/13/18/13180acefef6b69c363193d19c428b2d42f7fbf1436b3d0ec4c57c2c74475c42/original.jpg
+    sha256: 13180acefef6b69c363193d19c428b2d42f7fbf1436b3d0ec4c57c2c74475c42
+    mime: image/jpeg
+    bytes: 8918783
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/13/18/13180acefef6b69c363193d19c428b2d42f7fbf1436b3d0ec4c57c2c74475c42/preview-400.4a27b7bf19f4.jpg
+        sha256: 4a27b7bf19f4ce3edc4334ca40b3a01fb2cc9ee8f70af49c6974bdd86c502c4a
+        mime: image/jpeg
+        bytes: 80772
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

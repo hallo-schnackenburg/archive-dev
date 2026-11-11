@@ -1,0 +1,42 @@
+id: 01G0YS11R39S2MPNFCCQW8ZKFZ
+type: image
+subtype: photo
+title: Blick vom Kaufmannshaus auf das Badestelle
+date: "1900"
+location: Pretzier, Ladestraße
+geocode:
+  lat: 52.9009
+  lon: 11.6932
+  precision: town
+  source: osm
+origin:
+  name: August Burmester
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Käthe Brandt
+    type: person
+  - name: Konfirmation 1900
+    type: event
+  - name: Albert Timm
+    type: person
+files:
+  - role: main
+    original_name: scan_247.tif
+    path: files/f1/9b/f19bcce895ce6c7d79a3881fcedcee16abc39b34cacc6f8b5581a5675315ed1f/original.tif
+    sha256: f19bcce895ce6c7d79a3881fcedcee16abc39b34cacc6f8b5581a5675315ed1f
+    mime: image/tiff
+    bytes: 11863173
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f1/9b/f19bcce895ce6c7d79a3881fcedcee16abc39b34cacc6f8b5581a5675315ed1f/preview-400.19d61ab20089.jpg
+        sha256: 19d61ab2008907e18b20aa3a11795097bc8d04c271e35d05cfdd937e186bac63
+        mime: image/jpeg
+        bytes: 67420
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

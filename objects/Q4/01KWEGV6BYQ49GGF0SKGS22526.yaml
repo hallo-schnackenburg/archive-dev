@@ -1,0 +1,37 @@
+id: 01KWEGV6BYQ49GGF0SKGS22526
+type: image
+subtype: drawing
+title: Skizze Cumlosen, Bahnhofstraße, Nienwalde
+date: "1832"
+location: Gorleben, Friedhofskapelle
+origin:
+  name: Otto Jeß
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Eisgang 1832
+    type: event
+parents:
+  - 01KGBXSKRT00YBVNJ684TQMH5V
+files:
+  - role: main
+    original_name: scan_570.tif
+    path: files/c0/f0/c0f098d02d44b8983b38e4127919c031d3d4e7cab2232479197d48b181e0a95f/original.tif
+    sha256: c0f098d02d44b8983b38e4127919c031d3d4e7cab2232479197d48b181e0a95f
+    mime: image/tiff
+    bytes: 25185207
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c0/f0/c0f098d02d44b8983b38e4127919c031d3d4e7cab2232479197d48b181e0a95f/preview-400.42e9ad04f731.jpg
+        sha256: 42e9ad04f731c04522119ed3f0d8852b401e97990498649c8288ed5b839ce4cb
+        mime: image/jpeg
+        bytes: 21480
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

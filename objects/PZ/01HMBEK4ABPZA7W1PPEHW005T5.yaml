@@ -1,0 +1,45 @@
+id: 01HMBEK4ABPZA7W1PPEHW005T5
+type: image
+subtype: photo
+title: Mühle nach dem Brückeneinweihung
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1952/1954
+location: Wustrow, Dorfstraße
+geocode:
+  lat: 52.9135
+  lon: 11.5182
+  precision: region
+  source: osm
+origin:
+  name: Karl Meyer
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Berta Voss
+    type: person
+  - name: Molkerei
+    type: building
+  - name: Grenzöffnung 1952
+    type: event
+parents:
+  - 01GP24D2SDXXFWEGVD1MK92BK9
+files:
+  - role: main
+    original_name: P9738.jpg
+    path: files/1a/47/1a4793f6c422301bebcbe91b8b9f7af8e48addadc1c24b1abefe6a827bd7b56e/original.jpg
+    sha256: 1a4793f6c422301bebcbe91b8b9f7af8e48addadc1c24b1abefe6a827bd7b56e
+    mime: image/jpeg
+    bytes: 19885307
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/1a/47/1a4793f6c422301bebcbe91b8b9f7af8e48addadc1c24b1abefe6a827bd7b56e/preview-400.b6dc1436c213.jpg
+        sha256: b6dc1436c213f1d1a97c948ca5d3ced6d7e580335bb71f766805a752363cc21f
+        mime: image/jpeg
+        bytes: 87267
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

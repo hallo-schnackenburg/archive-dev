@@ -1,0 +1,50 @@
+id: 01JG82ZGZCMRESXH2HZ19RRJ29
+type: image
+subtype: drawing
+title: Federzeichnung Pumpenhaus, Rüterberg
+date: 1927-06
+location: Lanz, Kirchstraße
+geocode:
+  lat: 53.033
+  lon: 11.4783
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Cohrs
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 14/059
+subjects:
+  - name: Emma Matthies
+    type: person
+  - name: Speicher
+    type: building
+  - name: Grenzöffnung 1927
+    type: event
+parents:
+  - 01K17ANV6BS1YN44GQNBJ2A6CF
+files:
+  - role: main
+    original_name: scan_809.tif
+    path: files/b6/61/b6613061d5cbcc04086d13754481aa08f4c1c082cbb6ff651faf6e2ed76e531c/original.tif
+    sha256: b6613061d5cbcc04086d13754481aa08f4c1c082cbb6ff651faf6e2ed76e531c
+    mime: image/tiff
+    bytes: 3897495
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b6/61/b6613061d5cbcc04086d13754481aa08f4c1c082cbb6ff651faf6e2ed76e531c/preview-400.9875579b4ab8.jpg
+        sha256: 9875579b4ab808dbbba8c7abbba676b833411d5c797195703253944222b4f9cc
+        mime: image/jpeg
+        bytes: 81452
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

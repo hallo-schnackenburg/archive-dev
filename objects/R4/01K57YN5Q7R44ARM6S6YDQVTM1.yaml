@@ -1,0 +1,34 @@
+id: 01K57YN5Q7R44ARM6S6YDQVTM1
+type: image
+subtype: plan
+title: Bauplan Scheune 1846
+description: Tusche auf Transparentpapier.
+date: 1846~
+location: Arendsee, Lange Straße
+origin:
+  name: Rudolf Gaede
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Dieter Krüger
+    type: person
+files:
+  - role: main
+    original_name: scan_855.tif
+    path: files/58/e9/58e9d79a9d1eacdc5e3859e9e74e6948b4e65b8ebb2dc0828e689e487bcd1524/original.tif
+    sha256: 58e9d79a9d1eacdc5e3859e9e74e6948b4e65b8ebb2dc0828e689e487bcd1524
+    mime: image/tiff
+    bytes: 4383717
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/58/e9/58e9d79a9d1eacdc5e3859e9e74e6948b4e65b8ebb2dc0828e689e487bcd1524/preview-400.4e257f9617ba.jpg
+        sha256: 4e257f9617ba6e6b556967ffe5321daf7f2251ed0d1dc74f96473b59ea675355
+        mime: image/jpeg
+        bytes: 58902
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

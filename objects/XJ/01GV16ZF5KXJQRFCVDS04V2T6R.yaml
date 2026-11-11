@@ -1,0 +1,46 @@
+id: 01GV16ZF5KXJQRFCVDS04V2T6R
+type: image
+subtype: print
+title: Postkarte Dömitz, Schlachterei
+date: 1906-12
+location: Cumlosen, Gartenstraße
+geocode:
+  lat: 53.0003
+  lon: 11.6374
+  precision: exact
+  source: osm
+origin:
+  name: Anni Brandt
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 18/046
+subjects:
+  - name: Marta Lindemann
+    type: person
+  - name: Hitzacker
+    type: place
+files:
+  - role: main
+    original_name: scan_137.tif
+    path: files/86/54/8654e09863037ef7afda4b8a4741f8fbac6488d440fb4f7e427f3dacfeed665a/original.tif
+    sha256: 8654e09863037ef7afda4b8a4741f8fbac6488d440fb4f7e427f3dacfeed665a
+    mime: image/tiff
+    bytes: 26407292
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/86/54/8654e09863037ef7afda4b8a4741f8fbac6488d440fb4f7e427f3dacfeed665a/preview-400.96e4cf25da19.jpg
+        sha256: 96e4cf25da19c0ffb1360aaa8232c3d10b2acc863d385f523b4f5d3ef375a7af
+        mime: image/jpeg
+        bytes: 59452
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

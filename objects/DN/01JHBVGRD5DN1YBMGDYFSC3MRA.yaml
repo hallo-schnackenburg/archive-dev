@@ -1,0 +1,37 @@
+id: 01JHBVGRD5DN1YBMGDYFSC3MRA
+type: image
+subtype: photo
+title: Günter Schulz, Porträt
+description: Aufnahme von Heinrich Lemke.
+location: Pretzier, Elbstraße
+origin:
+  name: Ernst Meyer
+  type: person
+  location: Lanz
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Dömitz
+    type: place
+  - name: Erika Neumann
+    type: person
+files:
+  - role: main
+    original_name: scan_643.tif
+    path: files/73/85/7385a1ae983e2d297ed6723b10489b18f8537055ebe135a98118acf15f980489/original.tif
+    sha256: 7385a1ae983e2d297ed6723b10489b18f8537055ebe135a98118acf15f980489
+    mime: image/tiff
+    bytes: 27821354
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/73/85/7385a1ae983e2d297ed6723b10489b18f8537055ebe135a98118acf15f980489/preview-400.82ba485f6c12.jpg
+        sha256: 82ba485f6c12d98db6fa158aba8883703c659bbb104d8c139c2664a15b7097b6
+        mime: image/jpeg
+        bytes: 31375
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

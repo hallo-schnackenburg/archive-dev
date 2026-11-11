@@ -1,0 +1,60 @@
+id: 01JKTYTR03XMTJ7KJS1QPXHQAV
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Brünkendorf 1923
+description: Anwesend waren 10 Personen.
+date: 1923-12
+location: Lüchow, Marktstraße
+origin:
+  name: Kirchenvorstand Nienwalde
+  type: business
+  location: Seedorf
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 7/332
+  note: Kellerarchiv
+files:
+  - role: page
+    num: 1
+    original_name: protocol_pxhqav_001.tif
+    path: files/b9/83/b98375b2f9bdf11e90f68478ab1435be25609cf9046a7d52be28fa7a82e2a3f5/original.tif
+    sha256: b98375b2f9bdf11e90f68478ab1435be25609cf9046a7d52be28fa7a82e2a3f5
+    mime: image/tiff
+    bytes: 26770937
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b9/83/b98375b2f9bdf11e90f68478ab1435be25609cf9046a7d52be28fa7a82e2a3f5/preview-400.5e92355b374e.jpg
+        sha256: 5e92355b374e768e8ba2b13f7d1af33cf8f1166a0d21b0b747e1c8b4d9806860
+        mime: image/jpeg
+        bytes: 49510
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_pxhqav_002.tif
+    path: files/ee/e5/eee513e7695bba06d7b7fa1a78c096709c9c42d7b325647b5feb3072ce90e91f/original.tif
+    sha256: eee513e7695bba06d7b7fa1a78c096709c9c42d7b325647b5feb3072ce90e91f
+    mime: image/tiff
+    bytes: 22875972
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ee/e5/eee513e7695bba06d7b7fa1a78c096709c9c42d7b325647b5feb3072ce90e91f/preview-400.9a93fb08f370.jpg
+        sha256: 9a93fb08f3700dc63231bd57430e98095227df169f5aaf49fcc17714010cb216
+        mime: image/jpeg
+        bytes: 49816
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

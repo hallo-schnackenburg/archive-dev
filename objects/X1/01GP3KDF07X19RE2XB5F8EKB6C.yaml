@@ -1,0 +1,47 @@
+id: 01GP3KDF07X19RE2XB5F8EKB6C
+type: image
+subtype: photo
+title: Torhaus in Bömenzien
+description: Abzug im Format 6 x 9 cm.
+date: 1965-10
+location: Seedorf, Hinter den Höfen
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 25/039
+subjects:
+  - name: Maifeier 1965
+    type: event
+  - name: Gustav Ihde
+    type: person
+  - name: Brunnen am Markt
+    type: building
+parents:
+  - 01FVSGGTHXCNNWVMHHZN3NRKZQ
+  - 01KX2QEWS5CRBXEA92Z62Z3K4Q
+files:
+  - role: main
+    original_name: P3299.jpg
+    path: files/f8/60/f8602de3a7399cdc4228d5f5983c942ab0a774edf8c15cd3ffafe8d69c5c7498/original.jpg
+    sha256: f8602de3a7399cdc4228d5f5983c942ab0a774edf8c15cd3ffafe8d69c5c7498
+    mime: image/jpeg
+    bytes: 15146720
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/f8/60/f8602de3a7399cdc4228d5f5983c942ab0a774edf8c15cd3ffafe8d69c5c7498/preview-400.4d9dd1f8a2b1.jpg
+        sha256: 4d9dd1f8a2b173a7882e36de5dbdaed2b2c072dcd3e6a62d43def1530e974876
+        mime: image/jpeg
+        bytes: 74479
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

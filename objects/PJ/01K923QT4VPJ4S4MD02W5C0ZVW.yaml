@@ -1,0 +1,43 @@
+id: 01K923QT4VPJ4S4MD02W5C0ZVW
+type: image
+subtype: plan
+title: Bauplan Mühle 1810
+date: 1810-08-11
+location: Brünkendorf, Am Markt
+origin:
+  name: Fritz Dreyer
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01JF4KWKVRQTHC2EW4F1D004T1
+  - 01M265RTMYNX5W0CM6R19YZYNH
+files:
+  - role: main
+    original_name: scan_296.tif
+    path: files/e2/de/e2dec09a5237c02c6e11b395c27f9fb6ca01b17283aae5c0644ea7c4a2f12fd5/original.tif
+    sha256: e2dec09a5237c02c6e11b395c27f9fb6ca01b17283aae5c0644ea7c4a2f12fd5
+    mime: image/tiff
+    bytes: 15687089
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e2/de/e2dec09a5237c02c6e11b395c27f9fb6ca01b17283aae5c0644ea7c4a2f12fd5/preview-400.4f535a59b34b.jpg
+        sha256: 4f535a59b34b478ea2cecedbcafe2660436cfdd6bab916271ebfb8821bb49108
+        mime: image/jpeg
+        bytes: 32006
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

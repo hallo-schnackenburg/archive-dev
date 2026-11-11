@@ -1,0 +1,41 @@
+id: 01JRBP0Z8RDK7B1HQ60V6T31VP
+type: image
+subtype: plan
+title: Flurkarte Zadrau
+date: 1929~
+location: Gollensdorf, Ladestraße
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 24/088
+  note: Regal 1
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Anni Ahrens
+    type: person
+parents:
+  - 01F54Y44HWBYAXTTC3F5NVVN21
+  - 01JKQ421K5RBFQ8NV81GBKEPMH
+files:
+  - role: main
+    original_name: scan_763.tif
+    path: files/9b/1e/9b1e774d2bf7ab7317c929800b1a48e9b4bb056b3ebb633751fb4a7556cada69/original.tif
+    sha256: 9b1e774d2bf7ab7317c929800b1a48e9b4bb056b3ebb633751fb4a7556cada69
+    mime: image/tiff
+    bytes: 3340158
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9b/1e/9b1e774d2bf7ab7317c929800b1a48e9b4bb056b3ebb633751fb4a7556cada69/preview-400.61208c16f624.jpg
+        sha256: 61208c16f62448a5af488eb8670100170c13070f20a7aa2cfb0fc651a338181b
+        mime: image/jpeg
+        bytes: 79452
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

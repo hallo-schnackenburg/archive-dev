@@ -1,0 +1,44 @@
+id: 01FWGECBFB36495P7SAMGZ5HNV
+type: image
+subtype: photo
+title: Blick vom Brunnen am Markt auf das Speicher
+date: 1941-08-04
+location: Zadrau, Fährstraße
+geocode:
+  lat: 53.0295
+  lon: 11.5403
+  precision: region
+  source: osm
+origin:
+  name: Frieda Lemke
+  type: person
+  location: Havelberg
+subjects:
+  - name: Lotte Dreyer
+    type: person
+  - name: Kindergarten
+    type: building
+  - name: Paul Kuhlmann
+    type: person
+parents:
+  - 01J3WMQQBAAF8A7JDSEC500W36
+files:
+  - role: main
+    original_name: IMG_1550.jpg
+    path: files/f1/d0/f1d07e4b3dc86e0204694934df359f9b69fca40652cbc0ac8cdda5805d88f871/original.jpg
+    sha256: f1d07e4b3dc86e0204694934df359f9b69fca40652cbc0ac8cdda5805d88f871
+    mime: image/jpeg
+    bytes: 21884272
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/f1/d0/f1d07e4b3dc86e0204694934df359f9b69fca40652cbc0ac8cdda5805d88f871/preview-400.919bae798bce.jpg
+        sha256: 919bae798bced48de19fa6019c41283897925e210cedad9071eae4a5fd988c70
+        mime: image/jpeg
+        bytes: 23818
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

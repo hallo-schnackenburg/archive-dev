@@ -1,0 +1,40 @@
+id: 01KAZR6K832TMR1HA4S1WTVJ1X
+type: image
+subtype: drawing
+title: Skizze Wustrow, Elbstraße
+date: 198X
+location: Hitzacker, Dorfteich
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br 36/016
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Erika Lemke
+    type: person
+parents:
+  - 01KW7A26BTPJQVF2JX2JPDHVMK
+  - 01HXDE71QATS2M3MPMXYF5BQTB
+files:
+  - role: main
+    original_name: scan_177.tif
+    path: files/07/d0/07d0fa520ef7ff6c36ad0715ba9f4c6fd1a8e335df89f03e9d9b2a4a0d3f685c/original.tif
+    sha256: 07d0fa520ef7ff6c36ad0715ba9f4c6fd1a8e335df89f03e9d9b2a4a0d3f685c
+    mime: image/tiff
+    bytes: 4859510
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/07/d0/07d0fa520ef7ff6c36ad0715ba9f4c6fd1a8e335df89f03e9d9b2a4a0d3f685c/preview-400.13405745315c.jpg
+        sha256: 13405745315c8cc95ad7a0069c79ce237cfdbc0025836198f8c8352a143c2e5a
+        mime: image/jpeg
+        bytes: 53894
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

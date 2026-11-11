@@ -1,0 +1,36 @@
+id: 01HFDVWQVMQ9NGDDGWWVEFDA3Z
+type: image
+subtype: photo
+title: Ilse Harms, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1928~
+location: Gülden, Elbstraße
+origin:
+  name: Gerda Tiedemann
+  type: person
+  location: Gartow
+subjects:
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01JSF9V4MEBDGEQJGPBJV20THW
+files:
+  - role: main
+    original_name: DSC4206.jpg
+    path: files/ff/09/ff0908f375a01bdaef1fbe6df7a472c40c2f47108f021c59a29b1c998748c3ec/original.jpg
+    sha256: ff0908f375a01bdaef1fbe6df7a472c40c2f47108f021c59a29b1c998748c3ec
+    mime: image/jpeg
+    bytes: 13121086
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ff/09/ff0908f375a01bdaef1fbe6df7a472c40c2f47108f021c59a29b1c998748c3ec/preview-400.9afdaf949536.jpg
+        sha256: 9afdaf949536a88a6f4e16908fe6cdece65022a64d9c86c9f0568740d04b52a1
+        mime: image/jpeg
+        bytes: 26156
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

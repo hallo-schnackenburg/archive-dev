@@ -1,0 +1,30 @@
+id: 01GHVEPJDTSRJSBPN6F7FFSESN
+type: image
+subtype: plan
+title: Bauplan Försterei 1764
+date: 1764/1775
+location: Rüterberg, Am Elbdeich
+origin:
+  name: Heinrich Jeß
+  type: person
+  location: Lüchow
+files:
+  - role: main
+    original_name: scan_239.tif
+    path: files/bd/05/bd058dffc9b2765563b5f9805e884c7ed0334cbb0ee6db756fec3d78c71e3d8b/original.tif
+    sha256: bd058dffc9b2765563b5f9805e884c7ed0334cbb0ee6db756fec3d78c71e3d8b
+    mime: image/tiff
+    bytes: 24438671
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/05/bd058dffc9b2765563b5f9805e884c7ed0334cbb0ee6db756fec3d78c71e3d8b/preview-400.1f7bc5bab85a.jpg
+        sha256: 1f7bc5bab85ad192c6a2b1a647a6022dd28b4322666f3982496c9c907ed7b077
+        mime: image/jpeg
+        bytes: 79223
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

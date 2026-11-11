@@ -1,0 +1,36 @@
+id: 01H0K1PDCRV2TVN5T9JCN72RNH
+type: image
+subtype: plan
+title: Deichplan Dömitz bis Restorf
+date: 1866-11
+location: Rüterberg, Dorfstraße
+origin:
+  name: Günter Lemke
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  note: Regal 1
+files:
+  - role: main
+    original_name: scan_991.tif
+    path: files/95/bb/95bb1ab278546ec8dc4b21af393e93679aacfe00fb8d88d65ecce8b21a9231bf/original.tif
+    sha256: 95bb1ab278546ec8dc4b21af393e93679aacfe00fb8d88d65ecce8b21a9231bf
+    mime: image/tiff
+    bytes: 18132307
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/bb/95bb1ab278546ec8dc4b21af393e93679aacfe00fb8d88d65ecce8b21a9231bf/preview-400.79a774e22c40.jpg
+        sha256: 79a774e22c403a4de943333061b132bcea111de49db5b1dadbac2c7a3a8531a9
+        mime: image/jpeg
+        bytes: 31312
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

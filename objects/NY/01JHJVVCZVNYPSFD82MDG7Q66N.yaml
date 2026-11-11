@@ -1,0 +1,41 @@
+id: 01JHJVVCZVNYPSFD82MDG7Q66N
+type: image
+subtype: plan
+title: Deichplan Schnackenburg bis Lüchow
+date: "1764"
+original:
+  holder:
+    name: Familie Brandt
+    type: person
+    location: Hitzacker
+  reference: Fotos 29/094
+  note: Regal 1
+subjects:
+  - name: Karl Oelker
+    type: person
+  - name: Wittenberge
+    type: place
+  - name: Glockenweihe 1764
+    type: event
+parents:
+  - 01F5WN4D1FQE5PP5MD0YFVKCS4
+files:
+  - role: main
+    original_name: scan_886.tif
+    path: files/ae/b6/aeb6a76454f534a5acc49fce607892fb59c010b6135e3f17f650ba2c5fe29e97/original.tif
+    sha256: aeb6a76454f534a5acc49fce607892fb59c010b6135e3f17f650ba2c5fe29e97
+    mime: image/tiff
+    bytes: 17715509
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ae/b6/aeb6a76454f534a5acc49fce607892fb59c010b6135e3f17f650ba2c5fe29e97/preview-400.7c40ee1db77e.jpg
+        sha256: 7c40ee1db77e5ae59d39e4476568f5a86352b645e3a679fc4ee0f326073558f9
+        mime: image/jpeg
+        bytes: 40945
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

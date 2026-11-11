@@ -1,0 +1,40 @@
+id: 01FK0M5C9R5MVDPWYD4RHDZMGE
+type: image
+subtype: plan
+title: Bauplan Dorfkrug 1942
+description: Tusche auf Transparentpapier.
+date: 1942-04-06
+location: Brünkendorf, Marktstraße
+origin:
+  name: Marta Voss
+  type: person
+  location: Arendsee
+subjects:
+  - name: Mühle
+    type: building
+  - name: Storchennest
+    type: building
+  - name: Emma Albers
+    type: person
+parents:
+  - 01GKCFCDVMB3D019HAA4A20JFD
+files:
+  - role: main
+    original_name: scan_561.tif
+    path: files/3c/9b/3c9b0b287087b102881e45374b1a527955c533844649a35e1bfbcfdf147c251e/original.tif
+    sha256: 3c9b0b287087b102881e45374b1a527955c533844649a35e1bfbcfdf147c251e
+    mime: image/tiff
+    bytes: 25186287
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/3c/9b/3c9b0b287087b102881e45374b1a527955c533844649a35e1bfbcfdf147c251e/preview-400.0108e58ce964.jpg
+        sha256: 0108e58ce964506ff86529c4208e786e741fcd8f6c18335f90bdca827bc55c85
+        mime: image/jpeg
+        bytes: 84366
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

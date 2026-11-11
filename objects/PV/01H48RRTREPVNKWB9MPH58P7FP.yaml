@@ -1,0 +1,47 @@
+id: 01H48RRTREPVNKWB9MPH58P7FP
+type: image
+subtype: photo
+title: Heinrich Lüders vor dem Schmiede
+description: Abzug im Format 6 x 9 cm.
+date: 1899/1911
+location: Gorleben, Kirchstraße
+geocode:
+  lat: 52.9624
+  lon: 11.6945
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 29/039
+  note: Planschrank, Fach 3
+subjects:
+  - name: Kindergarten
+    type: building
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01H6GZ1A9PWXWTSCHDX2966H18
+  - 01HETPQRM52KXM7ZS582C2ECF3
+files:
+  - role: main
+    original_name: IMG_8449.jpg
+    path: files/b7/7e/b77ef4c2b4513af824cbf636e2540b24a254b175337270d01e202bb73f3a19ac/original.jpg
+    sha256: b77ef4c2b4513af824cbf636e2540b24a254b175337270d01e202bb73f3a19ac
+    mime: image/jpeg
+    bytes: 7234941
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b7/7e/b77ef4c2b4513af824cbf636e2540b24a254b175337270d01e202bb73f3a19ac/preview-400.6c7fa9e50691.jpg
+        sha256: 6c7fa9e506916f0f012aa2bfc3679d44ffc0041ca33bf9f1d8f0c01e215c0a05
+        mime: image/jpeg
+        bytes: 80021
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

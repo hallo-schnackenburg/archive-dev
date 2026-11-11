@@ -1,0 +1,50 @@
+id: 01GVKT3TNQ2MT9XHKZTSAET7GQ
+type: image
+subtype: photo
+title: Blick vom Dorfschule auf das Dorfkrug
+description: Farbfoto, leicht verblasst.
+date: "1901"
+location: Lanz, Mühlenweg
+geocode:
+  lat: 52.95
+  lon: 11.5865
+  precision: exact
+  source: osm
+origin:
+  name: Anni Garms
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Kellerarchiv
+subjects:
+  - name: Einweihung 1901
+    type: event
+  - name: Fritz Krüger
+    type: person
+parents:
+  - 01JS8ZTXPKXF8SMDJ80AZF81V6
+  - 01FSR5RWMB3S1C3C5MHAYVRE65
+files:
+  - role: main
+    original_name: scan_062.tif
+    path: files/db/b1/dbb12cdac3b1ea124d4f2a3274c5badde49e148e339149e8561418260d2a0e9b/original.tif
+    sha256: dbb12cdac3b1ea124d4f2a3274c5badde49e148e339149e8561418260d2a0e9b
+    mime: image/tiff
+    bytes: 24733222
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/db/b1/dbb12cdac3b1ea124d4f2a3274c5badde49e148e339149e8561418260d2a0e9b/preview-400.a85967b8d1f6.jpg
+        sha256: a85967b8d1f68031eb8c21e8dd158e2ce470d099a974d53ca3d7ba9a06f09c96
+        mime: image/jpeg
+        bytes: 73872
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

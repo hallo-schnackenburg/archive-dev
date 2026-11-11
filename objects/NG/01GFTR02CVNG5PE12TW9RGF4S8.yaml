@@ -1,0 +1,86 @@
+id: 01GFTR02CVNG5PE12TW9RGF4S8
+type: document
+subtype: letter
+title: Korrespondenz Wilhelm Krüger
+date: "1892"
+origin:
+  name: Heinrich Ahrens
+  type: person
+  location: Hitzacker
+recipient: Erika Hennings
+language: de
+owner:
+  name: Wilhelm Sievers
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Wootz
+    type: place
+  - name: Brunnen am Markt
+    type: building
+  - name: Speicher
+    type: building
+parents:
+  - 01HPYA59S9BTVVKYNA7APHK7GB
+  - 01G1DKZE5VGWDBWA4SKKX3DZT5
+files:
+  - role: page
+    num: 1
+    original_name: letter_rgf4s8_001.tif
+    path: files/49/b0/49b0d1f6e9d42938edab52787eccdae032d73f33859c2864179ab2c137190359/original.tif
+    sha256: 49b0d1f6e9d42938edab52787eccdae032d73f33859c2864179ab2c137190359
+    mime: image/tiff
+    bytes: 23511608
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/49/b0/49b0d1f6e9d42938edab52787eccdae032d73f33859c2864179ab2c137190359/preview-400.babd7864558b.jpg
+        sha256: babd7864558bbf1ce29859d318f815cf5a085506d1d298fb328b3f378a910f17
+        mime: image/jpeg
+        bytes: 59495
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_rgf4s8_002.tif
+    path: files/02/c5/02c515a5a8244c6522cfc695e10d05383df7fa5b6125a88d50e01e85bf71d756/original.tif
+    sha256: 02c515a5a8244c6522cfc695e10d05383df7fa5b6125a88d50e01e85bf71d756
+    mime: image/tiff
+    bytes: 731369
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/c5/02c515a5a8244c6522cfc695e10d05383df7fa5b6125a88d50e01e85bf71d756/preview-400.20042b661c98.jpg
+        sha256: 20042b661c9896394ada455ef6e7d8da19c86f24345715c5be1b52e8c31ef872
+        mime: image/jpeg
+        bytes: 69185
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_rgf4s8_003.tif
+    path: files/da/39/da39b35f9cc9823ca953a7e4b977f74a15221dfa50700bd686ebc604932b9d1b/original.tif
+    sha256: da39b35f9cc9823ca953a7e4b977f74a15221dfa50700bd686ebc604932b9d1b
+    mime: image/tiff
+    bytes: 24463425
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/39/da39b35f9cc9823ca953a7e4b977f74a15221dfa50700bd686ebc604932b9d1b/preview-400.ad2f37cf54cc.jpg
+        sha256: ad2f37cf54cc7d2108af629f0b36e627a7885d8c8fbe73a5eb0449aef37280ec
+        mime: image/jpeg
+        bytes: 42964
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

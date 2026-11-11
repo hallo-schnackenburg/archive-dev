@@ -1,0 +1,37 @@
+id: 01J582E6S6ZE6SV6HFXH6CP4KG
+type: image
+subtype: plan
+title: Deichplan Pretzier bis Cumlosen
+date: 1931-01-10
+location: Schnackenburg, Marktstraße
+origin:
+  name: August Lemke
+  type: person
+  location: Laase
+subjects:
+  - name: Wootz
+    type: place
+  - name: Karl Bohlmann
+    type: person
+parents:
+  - 01KYDMSXHX7AFCZAAJ5K4HGX9B
+files:
+  - role: main
+    original_name: scan_273.tif
+    path: files/11/f2/11f2bb08bda8952a563d9868cd89501de701a8281fa3c03ba567504d4823501c/original.tif
+    sha256: 11f2bb08bda8952a563d9868cd89501de701a8281fa3c03ba567504d4823501c
+    mime: image/tiff
+    bytes: 25062991
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/f2/11f2bb08bda8952a563d9868cd89501de701a8281fa3c03ba567504d4823501c/preview-400.3a8143ebf982.jpg
+        sha256: 3a8143ebf982fc7057610332bd54da3bb28507b3122fdd06c0e6a69a01dc45a2
+        mime: image/jpeg
+        bytes: 85655
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

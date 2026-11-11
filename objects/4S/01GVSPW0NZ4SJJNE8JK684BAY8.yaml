@@ -1,0 +1,38 @@
+id: 01GVSPW0NZ4SJJNE8JK684BAY8
+type: image
+subtype: photo
+title: Emma Gaede, Porträt
+date: 1980-05
+origin:
+  name: Horst Wöhlk
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Wootz
+    type: place
+  - name: Emma Krüger
+    type: person
+  - name: Gorleben
+    type: place
+parents:
+  - 01EV4688KBXRNWBE8H1MYHF0WE
+files:
+  - role: main
+    original_name: scan_496.tif
+    path: files/2d/b5/2db56875c7426c1c1d0ee1e1ad8fe1aa27371d8c161df425867eea5b3b392d8b/original.tif
+    sha256: 2db56875c7426c1c1d0ee1e1ad8fe1aa27371d8c161df425867eea5b3b392d8b
+    mime: image/tiff
+    bytes: 17967333
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/2d/b5/2db56875c7426c1c1d0ee1e1ad8fe1aa27371d8c161df425867eea5b3b392d8b/preview-400.10696bbdeccd.jpg
+        sha256: 10696bbdeccda077710e9996467599f33e4802a3f56cb22117b993d4baa5c841
+        mime: image/jpeg
+        bytes: 67723
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

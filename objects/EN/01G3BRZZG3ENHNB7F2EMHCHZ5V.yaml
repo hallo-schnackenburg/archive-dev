@@ -1,0 +1,42 @@
+id: 01G3BRZZG3ENHNB7F2EMHCHZ5V
+type: image
+subtype: plan
+title: Bauplan Gasthof Meyer 1785
+description: Tusche auf Transparentpapier.
+date: "1785"
+location: Havelberg, Sparkasse
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 32/323
+subjects:
+  - name: Poststelle
+    type: building
+  - name: Hitzacker
+    type: place
+  - name: Kirche St. Johannis
+    type: building
+parents:
+  - 01HWXZJSFPT1G68MTVYSQM6PXW
+files:
+  - role: main
+    original_name: scan_254.tif
+    path: files/66/35/663507a2ea4563f5bd572a5666344c1515e9a0757fbfbe22382c4872311ba63d/original.tif
+    sha256: 663507a2ea4563f5bd572a5666344c1515e9a0757fbfbe22382c4872311ba63d
+    mime: image/tiff
+    bytes: 24593191
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/66/35/663507a2ea4563f5bd572a5666344c1515e9a0757fbfbe22382c4872311ba63d/preview-400.c56d6572e8ba.jpg
+        sha256: c56d6572e8ba31d42096df3892bffd6694320b025dca3ea40ae82921ee11fca9
+        mime: image/jpeg
+        bytes: 29951
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,46 @@
+id: 01H1ZMKWBBW04DBDR00M8MAM0C
+type: image
+subtype: plan
+title: Deichplan Hitzacker bis Gorleben
+description: Tusche auf Transparentpapier.
+date: 1948/1958
+origin:
+  name: Karl Krüger
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 12/030
+  note: Schrank B
+subjects:
+  - name: Brückeneinweihung 1948
+    type: event
+  - name: Marta Bohlmann
+    type: person
+  - name: Osterfeuer 1948
+    type: event
+parents:
+  - 01GP24D2SDXXFWEGVD1MK92BK9
+files:
+  - role: main
+    original_name: scan_780.tif
+    path: files/81/e4/81e4579b780c34cb10b8441a059f41e8e588e889c656ba43d569ed2f9bdffff0/original.tif
+    sha256: 81e4579b780c34cb10b8441a059f41e8e588e889c656ba43d569ed2f9bdffff0
+    mime: image/tiff
+    bytes: 27118020
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/81/e4/81e4579b780c34cb10b8441a059f41e8e588e889c656ba43d569ed2f9bdffff0/preview-400.07d745eb3e6e.jpg
+        sha256: 07d745eb3e6eeeff877f2d9477efc49eab70b192db7c8792147aa290086ec561
+        mime: image/jpeg
+        bytes: 21787
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

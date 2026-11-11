@@ -1,0 +1,62 @@
+id: 01JX66SGTK8974M4EVMGD3HF5T
+type: document
+subtype: note
+title: Rechnung Brandt, Försterei
+date: "2008"
+location: Nienwalde, Burgstraße
+geocode:
+  lat: 53.0341
+  lon: 11.6464
+  precision: street
+  source: osm
+origin:
+  name: Erika Bruns
+  type: person
+  location: Brünkendorf
+language: de
+subjects:
+  - name: Schlachtfest 2008
+    type: event
+  - name: Dorfkrug
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_d3hf5t_001.tif
+    path: files/90/5d/905d6b9bb28f624dd6353ff8e233ce90a16692fe585ffc32aa7655671693c3b1/original.tif
+    sha256: 905d6b9bb28f624dd6353ff8e233ce90a16692fe585ffc32aa7655671693c3b1
+    mime: image/tiff
+    bytes: 8187329
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/90/5d/905d6b9bb28f624dd6353ff8e233ce90a16692fe585ffc32aa7655671693c3b1/preview-400.3b696dd5f652.jpg
+        sha256: 3b696dd5f652deec093908fb9436833a7876b21c30dd7fa6f2c05abd6c2c213d
+        mime: image/jpeg
+        bytes: 88420
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_d3hf5t_002.tif
+    path: files/2c/d7/2cd76b9375c76ce0667bec82432fccca06b6ba4c102f43b62094c14cc4a5e347/original.tif
+    sha256: 2cd76b9375c76ce0667bec82432fccca06b6ba4c102f43b62094c14cc4a5e347
+    mime: image/tiff
+    bytes: 2789641
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2c/d7/2cd76b9375c76ce0667bec82432fccca06b6ba4c102f43b62094c14cc4a5e347/preview-400.0fa391216c3d.jpg
+        sha256: 0fa391216c3d273994cd370bbc910072dfd24c703b7a3529b81e5f2f5dc873db
+        mime: image/jpeg
+        bytes: 66753
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

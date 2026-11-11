@@ -1,0 +1,38 @@
+id: 01GW9FSEVS32YXMP0CSZ2CNWAM
+type: image
+subtype: print
+title: Ansichtskarte Bahnhofstraße, Lenzen (20)
+description: Lithographie, Rand beschnitten.
+date: "1914"
+location: Seedorf, Bahnhofstraße
+origin:
+  name: Hans Meyer
+  type: person
+  location: Wootz
+subjects:
+  - name: Gustav Lemke
+    type: person
+  - name: Hafen
+    type: building
+  - name: Jürgen Wegner
+    type: person
+files:
+  - role: main
+    original_name: scan_292.tif
+    path: files/57/9d/579d68a5b87bc9c9efd77551bcca31f170b056dce9c72121dd3bcf5a896776fa/original.tif
+    sha256: 579d68a5b87bc9c9efd77551bcca31f170b056dce9c72121dd3bcf5a896776fa
+    mime: image/tiff
+    bytes: 13288257
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/9d/579d68a5b87bc9c9efd77551bcca31f170b056dce9c72121dd3bcf5a896776fa/preview-400.c28a0f0d2b9e.jpg
+        sha256: c28a0f0d2b9e950126eac7abc2af9486de50071d8d05aca1971866d6c1db40a9
+        mime: image/jpeg
+        bytes: 63787
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

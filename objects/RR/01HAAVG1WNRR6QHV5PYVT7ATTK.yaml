@@ -1,0 +1,37 @@
+id: 01HAAVG1WNRR6QHV5PYVT7ATTK
+type: image
+subtype: plan
+title: Bauplan Fachwerkhaus Marktstraße 4 1886
+description: Mit handschriftlichen Ergänzungen.
+date: 1886-03-13
+origin:
+  name: Jürgen Jeß
+  type: person
+  location: Wootz
+subjects:
+  - name: Sturmschaden 1886
+    type: event
+  - name: Konfirmation 1886
+    type: event
+  - name: Bäckerei Lüders
+    type: building
+files:
+  - role: main
+    original_name: scan_510.tif
+    path: files/5f/7b/5f7b27124bbbdef977d426cbb3c823e143552c3e925375227e2f2f00eefa4e2f/original.tif
+    sha256: 5f7b27124bbbdef977d426cbb3c823e143552c3e925375227e2f2f00eefa4e2f
+    mime: image/tiff
+    bytes: 8428694
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5f/7b/5f7b27124bbbdef977d426cbb3c823e143552c3e925375227e2f2f00eefa4e2f/preview-400.d829a3864706.jpg
+        sha256: d829a3864706b171a70f55f01db3d98d374d2c54fb247b2db11235ee072cbb3c
+        mime: image/jpeg
+        bytes: 80715
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

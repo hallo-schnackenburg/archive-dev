@@ -1,0 +1,44 @@
+id: 01JJ7DE1NZMJ4ATFRWBEEMCBJ4
+type: image
+subtype: photo
+title: Blick vom Tanzsaal auf das Kindergarten
+description: Zu sehen sind Scheune und Kriegerdenkmal.
+date: 192X
+origin:
+  name: Erika Cohrs
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro/Kasten 13/015
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Gasthof Meyer
+    type: building
+parents:
+  - 01GG9H557FNKNNHZ67KS9WW423
+  - 01JTVDYETN8G6S7M3ZJ0A2E9B3
+files:
+  - role: main
+    original_name: P0571.jpg
+    path: files/f3/1d/f31d3a09a1a81641806051afbd6f2df1998e8e2ebe12a7425b122dd9a4742970/original.jpg
+    sha256: f31d3a09a1a81641806051afbd6f2df1998e8e2ebe12a7425b122dd9a4742970
+    mime: image/jpeg
+    bytes: 7872840
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/f3/1d/f31d3a09a1a81641806051afbd6f2df1998e8e2ebe12a7425b122dd9a4742970/preview-400.d2e3d74260b0.jpg
+        sha256: d2e3d74260b03831a9785e46b901315359e9302b5fff0dcb5afeb475bdf0b498
+        mime: image/jpeg
+        bytes: 87577
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

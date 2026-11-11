@@ -1,0 +1,38 @@
+id: 01G0JHZDVF79Q9KAWF8HVSD3MF
+type: image
+subtype: plan
+title: Bauplan Fachwerkhaus Marktstraße 4 1841
+description: Tusche auf Transparentpapier.
+date: 1841~
+location: Gartow, Hafen
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg 32/221
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Viehmarkt 1841
+    type: event
+files:
+  - role: main
+    original_name: scan_835.tif
+    path: files/a9/fd/a9fd9d496104aa6a6437adf8f5e58356335cc2c70d494c5be18afa63a9542b84/original.tif
+    sha256: a9fd9d496104aa6a6437adf8f5e58356335cc2c70d494c5be18afa63a9542b84
+    mime: image/tiff
+    bytes: 26749295
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a9/fd/a9fd9d496104aa6a6437adf8f5e58356335cc2c70d494c5be18afa63a9542b84/preview-400.a017c102aa8c.jpg
+        sha256: a017c102aa8c366bb4a01e368ce8a7bc74d87bc182307b00ff65cb151f3822a1
+        mime: image/jpeg
+        bytes: 85081
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

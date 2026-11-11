@@ -1,0 +1,37 @@
+id: 01JP8B90EBPKMY67KZAPWV8MA4
+type: image
+subtype: drawing
+title: Gärtnerei, Aquarell, Lüchow
+date: "1919"
+origin:
+  name: Hedwig Brandt
+  type: person
+  location: Restorf
+subjects:
+  - name: Erntedankfest 1919
+    type: event
+  - name: Restorf
+    type: place
+parents:
+  - 01KZTC7HCNQEK4PPA9Y96PZJS7
+  - 01KXSMG16S33C92YAYMEJ5A0FZ
+files:
+  - role: main
+    original_name: scan_206.tif
+    path: files/c8/de/c8decc715fca6c879f0ba9b8ee6d98786f231d7511608411833837b9b48bbbf0/original.tif
+    sha256: c8decc715fca6c879f0ba9b8ee6d98786f231d7511608411833837b9b48bbbf0
+    mime: image/tiff
+    bytes: 13277001
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/de/c8decc715fca6c879f0ba9b8ee6d98786f231d7511608411833837b9b48bbbf0/preview-400.f8e1a68d450c.jpg
+        sha256: f8e1a68d450cd1abb96fce516c8dc7f948eb54c099c8341fc1b7c807a86979c1
+        mime: image/jpeg
+        bytes: 33813
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01G5PFNC05SATE8GWS1FRC0269
+type: image
+subtype: photo
+title: Brigitte Ahrens, Porträt
+location: Kapern, Gartenstraße
+geocode:
+  lat: 53.0465
+  lon: 11.517
+  precision: exact
+  source: osm
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Friedhofskapelle
+    type: building
+  - name: Dieter Tiedemann
+    type: person
+parents:
+  - 01FQ3YZE77QNA1ZTVZV37G0FNF
+files:
+  - role: main
+    original_name: IMG_1328.jpg
+    path: files/b1/ce/b1ceb39665d311ec92f7ac259d69a7cc1d1c24c5112a91d5358317104fedb634/original.jpg
+    sha256: b1ceb39665d311ec92f7ac259d69a7cc1d1c24c5112a91d5358317104fedb634
+    mime: image/jpeg
+    bytes: 25990794
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b1/ce/b1ceb39665d311ec92f7ac259d69a7cc1d1c24c5112a91d5358317104fedb634/preview-400.e2cdcb27766f.jpg
+        sha256: e2cdcb27766f238c11f52815e6e8a232c8913fb61905a1716c556dd62ddbe183
+        mime: image/jpeg
+        bytes: 69320
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

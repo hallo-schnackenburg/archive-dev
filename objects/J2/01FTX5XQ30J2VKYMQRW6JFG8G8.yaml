@@ -1,0 +1,43 @@
+id: 01FTX5XQ30J2VKYMQRW6JFG8G8
+type: image
+subtype: print
+title: Lithographie Windmühle, Lanz
+date: 1745-07
+location: Brünkendorf, Elbstraße
+origin:
+  name: August Matthies
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 8/254
+subjects:
+  - name: Kapern
+    type: place
+  - name: Gorleben
+    type: place
+parents:
+  - 01KVDK33TB3HJY6QE3J1AKEA7N
+files:
+  - role: main
+    original_name: scan_794.tif
+    path: files/da/fc/dafc83e86151ae61da162f7cdef622aec2735affda326a0f78a38c789bb9ab94/original.tif
+    sha256: dafc83e86151ae61da162f7cdef622aec2735affda326a0f78a38c789bb9ab94
+    mime: image/tiff
+    bytes: 20972205
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/da/fc/dafc83e86151ae61da162f7cdef622aec2735affda326a0f78a38c789bb9ab94/preview-400.57d846a68d51.jpg
+        sha256: 57d846a68d511d9f2eb192afd813312fc9e22675d7721650aaee85ee8fc6074c
+        mime: image/jpeg
+        bytes: 82589
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

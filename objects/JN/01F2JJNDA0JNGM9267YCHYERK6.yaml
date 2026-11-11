@@ -1,0 +1,52 @@
+id: 01F2JJNDA0JNGM9267YCHYERK6
+type: image
+subtype: photo
+title: Fastnacht der Spielmannszug
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1924-07
+location: Arendsee, Marktstraße
+geocode:
+  lat: 52.9937
+  lon: 11.5023
+  precision: street
+  source: osm
+origin:
+  name: Berta Voss
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro 3/111
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Arendsee
+    type: place
+  - name: Lenzen
+    type: place
+parents:
+  - 01G253EGHDFBNP7ZT73WK1Q02J
+  - 01F2FHHHC3A4CYH69SBK2R9NT8
+files:
+  - role: main
+    original_name: scan_531.tif
+    path: files/6c/07/6c072bc606552339d581b3c7c13ae04c9d87438cae0663127238d6ed1df5ba14/original.tif
+    sha256: 6c072bc606552339d581b3c7c13ae04c9d87438cae0663127238d6ed1df5ba14
+    mime: image/tiff
+    bytes: 10338655
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6c/07/6c072bc606552339d581b3c7c13ae04c9d87438cae0663127238d6ed1df5ba14/preview-400.02d86d3d3978.jpg
+        sha256: 02d86d3d3978268015896196534948a3959f9ed3e2497c25de93b698155d6de0
+        mime: image/jpeg
+        bytes: 63429
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

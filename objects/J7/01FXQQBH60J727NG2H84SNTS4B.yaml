@@ -1,0 +1,42 @@
+id: 01FXQQBH60J727NG2H84SNTS4B
+type: image
+subtype: plan
+title: Deichplan Salzwedel bis Salzwedel
+date: 1892-01
+location: Laase, Hinter den Höfen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 18/347
+subjects:
+  - name: Erntedankfest 1892
+    type: event
+  - name: Grenzturm
+    type: building
+  - name: Wustrow
+    type: place
+parents:
+  - 01HH369QCTQQ41PT1K6NF00KAH
+files:
+  - role: main
+    original_name: scan_186.tif
+    path: files/93/1c/931c7215159cb53bf56236f7280db863c0faa7bd5c7e923b50174205c55311bb/original.tif
+    sha256: 931c7215159cb53bf56236f7280db863c0faa7bd5c7e923b50174205c55311bb
+    mime: image/tiff
+    bytes: 5586498
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/93/1c/931c7215159cb53bf56236f7280db863c0faa7bd5c7e923b50174205c55311bb/preview-400.2d0bbf89a72a.jpg
+        sha256: 2d0bbf89a72a53714f35a800cad1eeabc6ed6c531291dc54550e39eb6dd3e583
+        mime: image/jpeg
+        bytes: 89832
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

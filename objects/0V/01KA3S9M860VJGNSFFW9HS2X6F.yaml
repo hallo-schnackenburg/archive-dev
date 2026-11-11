@@ -1,0 +1,42 @@
+id: 01KA3S9M860VJGNSFFW9HS2X6F
+type: image
+subtype: photo
+title: Gartenstraße, Ecke Gartenstraße
+description: Farbfoto, leicht verblasst.
+date: "1942"
+location: Lanz, Lange Straße
+origin:
+  name: Karl Kuhlmann
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro/Kasten 21/035
+subjects:
+  - name: Pfarrhaus
+    type: building
+  - name: Tischlerei Bruns
+    type: building
+files:
+  - role: main
+    original_name: DSC2206.jpg
+    path: files/e4/43/e4436aacf8249fd89cf34998143d9b7567ba697cf9addbc188499d03f3257e91/original.jpg
+    sha256: e4436aacf8249fd89cf34998143d9b7567ba697cf9addbc188499d03f3257e91
+    mime: image/jpeg
+    bytes: 23809354
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/e4/43/e4436aacf8249fd89cf34998143d9b7567ba697cf9addbc188499d03f3257e91/preview-400.8042a3cf72bf.jpg
+        sha256: 8042a3cf72bf2f3b099a81d80cd5c78657f95daf57fae517c62418edabaa3192
+        mime: image/jpeg
+        bytes: 52059
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

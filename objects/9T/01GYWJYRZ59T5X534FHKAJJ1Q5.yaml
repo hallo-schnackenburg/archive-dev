@@ -1,0 +1,50 @@
+id: 01GYWJYRZ59T5X534FHKAJJ1Q5
+type: image
+subtype: plan
+title: Deichplan Cumlosen bis Brünkendorf
+description: Maßstab 1:500.
+location: Gülden, Elbstraße
+geocode:
+  lat: 53.0245
+  lon: 11.612
+  precision: region
+  source: osm
+origin:
+  name: Dieter Harms
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg 18/294
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Hochzeit 1848
+    type: event
+  - name: Karl Jeß
+    type: person
+parents:
+  - 01H6GZ1A9PWXWTSCHDX2966H18
+files:
+  - role: main
+    original_name: scan_605.tif
+    path: files/10/41/10418745e4decc6fdeafc0db796b5b7cc1b4b06e48ef1488368195ce62aef91d/original.tif
+    sha256: 10418745e4decc6fdeafc0db796b5b7cc1b4b06e48ef1488368195ce62aef91d
+    mime: image/tiff
+    bytes: 5351278
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/10/41/10418745e4decc6fdeafc0db796b5b7cc1b4b06e48ef1488368195ce62aef91d/preview-400.84bc6cf5b33d.jpg
+        sha256: 84bc6cf5b33dc25738e326b66e326c98709994a42494b9847ab759e029ea6507
+        mime: image/jpeg
+        bytes: 45028
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

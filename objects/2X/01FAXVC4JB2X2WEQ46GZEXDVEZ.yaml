@@ -1,0 +1,37 @@
+id: 01FAXVC4JB2X2WEQ46GZEXDVEZ
+type: image
+subtype: photo
+title: Albert Wegner, Porträt
+date: 2004-10
+location: Gorleben, Wassermühle
+origin:
+  name: Gerda Harms
+  type: person
+  location: Gartow
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Hafen
+    type: building
+  - name: Berta Ahrens
+    type: person
+files:
+  - role: main
+    original_name: foto_7070.jpg
+    path: files/2b/9d/2b9dd6d531cf0cc5135a4a8876095526c4cfbeec9a3d8cdc87505cdf4563fe01/original.jpg
+    sha256: 2b9dd6d531cf0cc5135a4a8876095526c4cfbeec9a3d8cdc87505cdf4563fe01
+    mime: image/jpeg
+    bytes: 21031407
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/2b/9d/2b9dd6d531cf0cc5135a4a8876095526c4cfbeec9a3d8cdc87505cdf4563fe01/preview-400.eace2b43b97b.jpg
+        sha256: eace2b43b97b9994eba671078793d782acf69b73496a5482fcf028a3c609548e
+        mime: image/jpeg
+        bytes: 50566
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

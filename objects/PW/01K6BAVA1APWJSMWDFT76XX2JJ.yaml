@@ -1,0 +1,35 @@
+id: 01K6BAVA1APWJSMWDFT76XX2JJ
+type: image
+subtype: plan
+title: Deichplan Lüchow bis Wustrow
+date: 1965-12
+location: Arendsee, Bahnhofstraße
+origin:
+  name: Marta Rieke
+  type: person
+  location: Lenzen
+subjects:
+  - name: Bahnhof
+    type: building
+parents:
+  - 01JD1W7G8C9Y7RM5P61EE5M4CB
+files:
+  - role: main
+    original_name: scan_255.tif
+    path: files/07/f1/07f13ec953877283140f2cbe87d412ef5009adc7eb8d735375eccbddb7a65b56/original.tif
+    sha256: 07f13ec953877283140f2cbe87d412ef5009adc7eb8d735375eccbddb7a65b56
+    mime: image/tiff
+    bytes: 27708125
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/07/f1/07f13ec953877283140f2cbe87d412ef5009adc7eb8d735375eccbddb7a65b56/preview-400.f3f87afbd73e.jpg
+        sha256: f3f87afbd73e514f52c0be167d4cfdc7209c44f82dd2708217b0789af8051773
+        mime: image/jpeg
+        bytes: 27397
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

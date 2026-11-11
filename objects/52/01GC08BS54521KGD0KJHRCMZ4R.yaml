@@ -1,0 +1,50 @@
+id: 01GC08BS54521KGD0KJHRCMZ4R
+type: image
+subtype: drawing
+title: Skizze Wittenberge, Hafenstraße
+date: 1824-04
+location: Wittenberge, Am Markt
+geocode:
+  lat: 53.0179
+  lon: 11.6421
+  precision: region
+  source: osm
+origin:
+  name: Erika Bruns
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  note: Schrank B
+subjects:
+  - name: Restorf
+    type: place
+  - name: Seedorf
+    type: place
+  - name: Kegelbahn
+    type: building
+parents:
+  - 01G13YFEMZ6M5B1HQ76CM2BWE2
+files:
+  - role: main
+    original_name: scan_134.tif
+    path: files/ba/b4/bab407630eff2eeebab54c47d67950f3001c76436de173c00d88cf8e6700bed1/original.tif
+    sha256: bab407630eff2eeebab54c47d67950f3001c76436de173c00d88cf8e6700bed1
+    mime: image/tiff
+    bytes: 3731786
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ba/b4/bab407630eff2eeebab54c47d67950f3001c76436de173c00d88cf8e6700bed1/preview-400.22fb4a025f78.jpg
+        sha256: 22fb4a025f78f6a623f582474dfe5ec3e039f755f4936f809c80e15a919d9b03
+        mime: image/jpeg
+        bytes: 38611
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

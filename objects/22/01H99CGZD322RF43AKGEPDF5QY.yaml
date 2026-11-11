@@ -1,0 +1,41 @@
+id: 01H99CGZD322RF43AKGEPDF5QY
+type: image
+subtype: drawing
+title: Skizze Gülden, Am Elbdeich
+description: Bleistift auf Papier.
+date: 1858-02-10
+origin:
+  name: Anni Voss
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F/Album 7/052
+subjects:
+  - name: Straßenfest 1858
+    type: event
+parents:
+  - 01FVB0ZV7D5S8N9566PY0PJ70J
+files:
+  - role: main
+    original_name: scan_625.tif
+    path: files/42/01/4201e133f529fbceb39d93595015ffceb55196a88fb550b67cf31b999731fb70/original.tif
+    sha256: 4201e133f529fbceb39d93595015ffceb55196a88fb550b67cf31b999731fb70
+    mime: image/tiff
+    bytes: 20240861
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/42/01/4201e133f529fbceb39d93595015ffceb55196a88fb550b67cf31b999731fb70/preview-400.f89e8c72a5aa.jpg
+        sha256: f89e8c72a5aa48d7056c8fca2852aa2c9b442000c57bdbf63d642af8b3e746c0
+        mime: image/jpeg
+        bytes: 61804
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

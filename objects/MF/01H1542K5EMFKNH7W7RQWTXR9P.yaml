@@ -1,0 +1,67 @@
+id: 01H1542K5EMFKNH7W7RQWTXR9P
+type: document
+subtype: letter
+title: Mitteilung aus Havelberg an Familie Rieke
+description: Maschinenschriftlich, unterschrieben.
+date: 1887-05-25
+location: Wustrow, Burgstraße
+origin:
+  name: Emma Sievers
+  type: person
+  location: Laase
+recipient: Marta Lemke
+language: de
+owner:
+  name: Jürgen Schulz
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Horst Tiedemann
+    type: person
+  - name: Gasthof Meyer
+    type: building
+parents:
+  - 01M1YR053NPJBEH3Y4WNQMC2X8
+files:
+  - role: page
+    num: 1
+    original_name: letter_wtxr9p_001.tif
+    path: files/ba/93/ba93d59512729e180bddd37e2cd0ecb7d281fa8d17081978872528c2272a3c9e/original.tif
+    sha256: ba93d59512729e180bddd37e2cd0ecb7d281fa8d17081978872528c2272a3c9e
+    mime: image/tiff
+    bytes: 15475620
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ba/93/ba93d59512729e180bddd37e2cd0ecb7d281fa8d17081978872528c2272a3c9e/preview-400.ceeaf0a0c178.jpg
+        sha256: ceeaf0a0c1781312941810e52c0b0ec71dc8ac1f23673e38dd4377916101a9fb
+        mime: image/jpeg
+        bytes: 73847
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_wtxr9p_002.tif
+    path: files/a3/f2/a3f20a0b549b9d9c8fd6dee1b8d4bf488704487ee56773ccdd098b973a7c3b87/original.tif
+    sha256: a3f20a0b549b9d9c8fd6dee1b8d4bf488704487ee56773ccdd098b973a7c3b87
+    mime: image/tiff
+    bytes: 11419867
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a3/f2/a3f20a0b549b9d9c8fd6dee1b8d4bf488704487ee56773ccdd098b973a7c3b87/preview-400.9308bca1289b.jpg
+        sha256: 9308bca1289b54db6137143ec962e6099738812aa78f24480d964d1db2976215
+        mime: image/jpeg
+        bytes: 82957
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

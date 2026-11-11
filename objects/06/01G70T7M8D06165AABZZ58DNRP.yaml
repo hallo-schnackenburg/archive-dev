@@ -1,0 +1,29 @@
+id: 01G70T7M8D06165AABZZ58DNRP
+type: image
+subtype: plan
+title: Bauplan Dorfteich 1835
+date: 1835?
+origin:
+  name: Rudolf Hennings
+  type: person
+  location: Nienwalde
+files:
+  - role: main
+    original_name: scan_819.tif
+    path: files/ec/40/ec40ef4fee25a9baf036c05e150f0849a0059b5f906727735d03377ed809df14/original.tif
+    sha256: ec40ef4fee25a9baf036c05e150f0849a0059b5f906727735d03377ed809df14
+    mime: image/tiff
+    bytes: 16192969
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ec/40/ec40ef4fee25a9baf036c05e150f0849a0059b5f906727735d03377ed809df14/preview-400.d04f428037b6.jpg
+        sha256: d04f428037b6b5e0a4540b83af975de3be8d70e080d904a6c3f152ea0e27dfde
+        mime: image/jpeg
+        bytes: 28374
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01GQXDSQVAM306VM90V1XTWD1P
+type: image
+subtype: plan
+title: Deichplan Wustrow bis Gorleben
+date: "1898"
+location: Havelberg, Torhaus
+origin:
+  name: Erika Harms
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Familie Ahrens
+    type: person
+    location: Brünkendorf
+parents:
+  - 01F1BHYRX3XQ5HK4ANVQXBQ5E6
+files:
+  - role: main
+    original_name: scan_273.tif
+    path: files/5e/3f/5e3f307a5260c333f9ea3c94e69149f60c8f2080e8998cc5b0b2190654d40102/original.tif
+    sha256: 5e3f307a5260c333f9ea3c94e69149f60c8f2080e8998cc5b0b2190654d40102
+    mime: image/tiff
+    bytes: 15153137
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/5e/3f/5e3f307a5260c333f9ea3c94e69149f60c8f2080e8998cc5b0b2190654d40102/preview-400.ede3bb517eff.jpg
+        sha256: ede3bb517eff491e87e4b8f70ded18c0a342c3147c9eaa8dd133dd317c79a956
+        mime: image/jpeg
+        bytes: 46041
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

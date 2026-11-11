@@ -1,0 +1,41 @@
+id: 01F8AKZM833W1RVNZ1S61Z06A6
+type: image
+subtype: photo
+title: Hans Harms, Porträt
+date: 1908-03-01
+location: Lüchow, Ziegelei
+geocode:
+  lat: 52.9521
+  lon: 11.4531
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 10/110
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Hermann Brandt
+    type: person
+files:
+  - role: main
+    original_name: foto_4617.jpg
+    path: files/ad/67/ad6760ceab417557d65ee44a3bed56e3e117a72bb30dc021630189eab2b5fa0e/original.jpg
+    sha256: ad6760ceab417557d65ee44a3bed56e3e117a72bb30dc021630189eab2b5fa0e
+    mime: image/jpeg
+    bytes: 2116714
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ad/67/ad6760ceab417557d65ee44a3bed56e3e117a72bb30dc021630189eab2b5fa0e/preview-400.299e40a04090.jpg
+        sha256: 299e40a040909124155c75f069c94c25101ca09707e83d54db4626bbe07f5542
+        mime: image/jpeg
+        bytes: 68861
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

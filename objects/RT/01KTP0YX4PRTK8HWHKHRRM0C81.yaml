@@ -1,0 +1,40 @@
+id: 01KTP0YX4PRTK8HWHKHRRM0C81
+type: image
+subtype: print
+title: Postkarte Wittenberge, Kindergarten
+description: Lithographie, Rand beschnitten.
+date: 1747-02-10
+location: Lenzen, Dorfkrug
+origin:
+  name: Hermann Lüders
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Familie Schulz
+    type: person
+    location: Lenzen
+  reference: F/Album 9/006
+subjects:
+  - name: Beerdigung 1747
+    type: event
+files:
+  - role: main
+    original_name: scan_172.tif
+    path: files/50/65/5065ead3431d4dcf59b0a5f43cea264bad7387d78be6d527496016055e1e6e7f/original.tif
+    sha256: 5065ead3431d4dcf59b0a5f43cea264bad7387d78be6d527496016055e1e6e7f
+    mime: image/tiff
+    bytes: 23411755
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/50/65/5065ead3431d4dcf59b0a5f43cea264bad7387d78be6d527496016055e1e6e7f/preview-400.d7bcad169c28.jpg
+        sha256: d7bcad169c28d1244d28c71f176bc39806ff2723c5588971c9905bf58d8a631d
+        mime: image/jpeg
+        bytes: 38642
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

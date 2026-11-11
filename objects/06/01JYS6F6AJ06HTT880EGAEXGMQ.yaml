@@ -1,0 +1,49 @@
+id: 01JYS6F6AJ06HTT880EGAEXGMQ
+type: image
+subtype: drawing
+title: Dorfschule, Aquarell, Lanz
+description: Bleistift auf Papier.
+date: 1900-06-10
+location: Wittenberge, Fährstraße
+geocode:
+  lat: 52.9102
+  lon: 11.5441
+  precision: town
+  source: osm
+origin:
+  name: Fritz Jeß
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 31/361
+subjects:
+  - name: Einweihung 1900
+    type: event
+  - name: Hochzeit 1900
+    type: event
+parents:
+  - 01JZ2DVH8HN29KX4QQA51CQ13F
+files:
+  - role: main
+    original_name: scan_933.tif
+    path: files/5b/fc/5bfc4dcbe9978f09e837bca662df6be449db46534ae218726cb6b908bc6e3474/original.tif
+    sha256: 5bfc4dcbe9978f09e837bca662df6be449db46534ae218726cb6b908bc6e3474
+    mime: image/tiff
+    bytes: 26005739
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5b/fc/5bfc4dcbe9978f09e837bca662df6be449db46534ae218726cb6b908bc6e3474/preview-400.670a9feb0ab1.jpg
+        sha256: 670a9feb0ab18fdac762636508d6393c4c90b01f6815b57fc3026ce8a1458895
+        mime: image/jpeg
+        bytes: 74668
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

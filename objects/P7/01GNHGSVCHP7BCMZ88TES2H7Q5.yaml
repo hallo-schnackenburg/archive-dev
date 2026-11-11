@@ -1,0 +1,33 @@
+id: 01GNHGSVCHP7BCMZ88TES2H7Q5
+type: image
+subtype: print
+title: Postkarte Lenzen, Storchennest
+description: Postkarte, gelaufen 1918.
+date: 1859/1860
+origin:
+  name: Helga Bohlmann
+  type: person
+  location: Gülden
+subjects:
+  - name: Tanzsaal
+    type: building
+files:
+  - role: main
+    original_name: scan_365.tif
+    path: files/31/4b/314b4f54a0c3aa325f5c08cd38b1d0ac4f9974f69786847e76797addffafc558/original.tif
+    sha256: 314b4f54a0c3aa325f5c08cd38b1d0ac4f9974f69786847e76797addffafc558
+    mime: image/tiff
+    bytes: 22642266
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/31/4b/314b4f54a0c3aa325f5c08cd38b1d0ac4f9974f69786847e76797addffafc558/preview-400.00281b888550.jpg
+        sha256: 00281b888550f0bc59477cdc6e6cf34252bd63c04c0ae3903e801d156e0080c1
+        mime: image/jpeg
+        bytes: 74092
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

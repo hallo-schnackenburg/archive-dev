@@ -1,0 +1,42 @@
+id: 01H1QMP3G5CCKYA6EFJ5NAFFH0
+type: image
+subtype: print
+title: Postkarte Havelberg, Bahnhof
+date: 1848-12
+origin:
+  name: Heinrich Schulz
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br/Mappe 12/118
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Heinrich Krüger
+    type: person
+parents:
+  - 01GGW9C3690VQN7H7FZF3TFT19
+files:
+  - role: main
+    original_name: scan_639.tif
+    path: files/b3/77/b377aa7990d7583557a050c71d07deb639c9c901b13a3ba799ff4bed19f386a1/original.tif
+    sha256: b377aa7990d7583557a050c71d07deb639c9c901b13a3ba799ff4bed19f386a1
+    mime: image/tiff
+    bytes: 4240147
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b3/77/b377aa7990d7583557a050c71d07deb639c9c901b13a3ba799ff4bed19f386a1/preview-400.a92741c3164c.jpg
+        sha256: a92741c3164c9fa15ac3f6392d962c1668786ebc949601f8a711d4a961b373c0
+        mime: image/jpeg
+        bytes: 38150
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

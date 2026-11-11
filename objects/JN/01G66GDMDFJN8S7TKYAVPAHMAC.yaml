@@ -1,0 +1,62 @@
+id: 01G66GDMDFJN8S7TKYAVPAHMAC
+type: document
+subtype: note
+title: Rechnung Meyer, Dorfteich
+description: Beleg mit Stempel.
+date: "1943"
+location: Gollensdorf, Am Elbdeich
+origin:
+  name: Ernst Rohde
+  type: person
+  location: Hitzacker
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Mappe 18/033
+subjects:
+  - name: Friedhofskapelle
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_pahmac_001.tif
+    path: files/5c/87/5c87b3c51040c50e7012781fe98d142f162e4610394104ae9da4fb21e20af7b6/original.tif
+    sha256: 5c87b3c51040c50e7012781fe98d142f162e4610394104ae9da4fb21e20af7b6
+    mime: image/tiff
+    bytes: 24727282
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5c/87/5c87b3c51040c50e7012781fe98d142f162e4610394104ae9da4fb21e20af7b6/preview-400.8b712bf54591.jpg
+        sha256: 8b712bf54591dcd69aa2d7d5e1efda551754f1f7026b992f87af62b82f57aaca
+        mime: image/jpeg
+        bytes: 76387
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_pahmac_002.tif
+    path: files/b7/4c/b74cb7b583669e35bbc7b4ad3df0b6c32cc207d25de0cf28a1b19ecaf294f48a/original.tif
+    sha256: b74cb7b583669e35bbc7b4ad3df0b6c32cc207d25de0cf28a1b19ecaf294f48a
+    mime: image/tiff
+    bytes: 3252949
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b7/4c/b74cb7b583669e35bbc7b4ad3df0b6c32cc207d25de0cf28a1b19ecaf294f48a/preview-400.bfee0d851572.jpg
+        sha256: bfee0d8515727e171ebb1be1f763571c835aa667e19a53bedb44ee0e6934e380
+        mime: image/jpeg
+        bytes: 47205
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

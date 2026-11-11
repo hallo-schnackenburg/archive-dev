@@ -1,0 +1,45 @@
+id: 01K6FDZEFMPAHGXWVGE35A6P8P
+type: image
+subtype: drawing
+title: Skizze Pretzier, Hafenstraße
+description: Bleistift auf Papier.
+date: 1954-02-01
+location: Gülden, Hinter den Höfen
+origin:
+  name: Fritz Wöhlk
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Beerdigung 1954
+    type: event
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01GV9GBAAY8D1BK0CQF82R0YYD
+files:
+  - role: main
+    original_name: scan_790.tif
+    path: files/01/0b/010b928cf51b932d63b1d4b180d305fea06d5f16f522ff5e3d3ed0f3658e04f8/original.tif
+    sha256: 010b928cf51b932d63b1d4b180d305fea06d5f16f522ff5e3d3ed0f3658e04f8
+    mime: image/tiff
+    bytes: 5109012
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/01/0b/010b928cf51b932d63b1d4b180d305fea06d5f16f522ff5e3d3ed0f3658e04f8/preview-400.04c90e6b4820.jpg
+        sha256: 04c90e6b4820d258fcda0537df9f019897951e90474e76ffc80fa67fe99d3da8
+        mime: image/jpeg
+        bytes: 45109
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01KWZAF5NF0RZTDN7H6G2JX7GX
+type: image
+subtype: plan
+title: Flurkarte Lanz
+date: 1780-07-01
+location: Bömenzien, Fachwerkhaus Marktstraße 4
+geocode:
+  lat: 52.9968
+  lon: 11.5126
+  precision: town
+  source: osm
+origin:
+  name: Karl Meyer
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Berta Meyer
+    type: person
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: scan_746.tif
+    path: files/52/bd/52bd5b3f08abe63feaa90e0a9b66ee70c3d9245b63158e84ddc05b2c36a23ae5/original.tif
+    sha256: 52bd5b3f08abe63feaa90e0a9b66ee70c3d9245b63158e84ddc05b2c36a23ae5
+    mime: image/tiff
+    bytes: 15050968
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/52/bd/52bd5b3f08abe63feaa90e0a9b66ee70c3d9245b63158e84ddc05b2c36a23ae5/preview-400.780a3f5571ab.jpg
+        sha256: 780a3f5571aba47a180296368f2f4d5b45ebf5e93cf399fc1a3ff9e15e629e70
+        mime: image/jpeg
+        bytes: 85209
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01JNZ2WB1HQSS7WSD1KRY2RE2H
+type: image
+subtype: print
+title: Postkarte Kapern, Dorfschule
+description: Kupferstich, koloriert.
+date: 1871-06
+location: Dömitz, Mühlenweg
+geocode:
+  lat: 53.0978
+  lon: 11.5879
+  precision: exact
+  source: osm
+owner:
+  name: Emma Voss
+  type: person
+  note: Nachlass
+subjects:
+  - name: Heinz Rohde
+    type: person
+  - name: Zadrau
+    type: place
+  - name: Otto Voss
+    type: person
+parents:
+  - 01KDD6TJHRWYW5BFBZ7TKQREBJ
+files:
+  - role: main
+    original_name: scan_742.tif
+    path: files/6c/bc/6cbcbbf18f195f5f8fee79ad281e4d09c497d94a719960218534df5c70f38403/original.tif
+    sha256: 6cbcbbf18f195f5f8fee79ad281e4d09c497d94a719960218534df5c70f38403
+    mime: image/tiff
+    bytes: 26821118
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6c/bc/6cbcbbf18f195f5f8fee79ad281e4d09c497d94a719960218534df5c70f38403/preview-400.86df7f7b6d74.jpg
+        sha256: 86df7f7b6d742b001bcf1cb54b44b79063bffd2a2824c3a71ea68e8cadf7c4e0
+        mime: image/jpeg
+        bytes: 79308
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

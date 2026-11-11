@@ -1,0 +1,36 @@
+id: 01FA3J01PC2Q313KR78C65WSMR
+type: image
+subtype: plan
+title: Grundriss Backhaus, Gülden
+description: Maßstab 1:250.
+date: 1792-03-06
+location: Kapern, Bahnhof
+geocode:
+  lat: 53.0309
+  lon: 11.6843
+  precision: region
+  source: osm
+origin:
+  name: August Wiese
+  type: person
+  location: Kapern
+files:
+  - role: main
+    original_name: scan_096.tif
+    path: files/c2/1c/c21c45f937959baa2eef063458fe0846c115ff4463dd6405e3a08d4c0ea73908/original.tif
+    sha256: c21c45f937959baa2eef063458fe0846c115ff4463dd6405e3a08d4c0ea73908
+    mime: image/tiff
+    bytes: 13159287
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/1c/c21c45f937959baa2eef063458fe0846c115ff4463dd6405e3a08d4c0ea73908/preview-400.689503740a87.jpg
+        sha256: 689503740a87e82a6f40fd8a396be116f0659c1c68c1354dfa3ded0d4ba7ab1e
+        mime: image/jpeg
+        bytes: 64559
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

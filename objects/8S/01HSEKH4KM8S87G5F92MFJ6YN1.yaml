@@ -1,0 +1,65 @@
+id: 01HSEKH4KM8S87G5F92MFJ6YN1
+type: document
+subtype: protocol
+title: Protokoll des Samtgemeinderat vom 1982
+location: Dömitz, Badestelle
+geocode:
+  lat: 52.9605
+  lon: 11.5681
+  precision: street
+  source: osm
+origin:
+  name: Feuerwehrausschuss Laase
+  type: business
+  location: Holtorf
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok 9/044
+subjects:
+  - name: Rudolf Burmester
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: protocol_fj6yn1_001.tif
+    path: files/85/b5/85b51aaff519854af1256f1178122fbc61895e91cb4ae8f376c994848ecf2fd4/original.tif
+    sha256: 85b51aaff519854af1256f1178122fbc61895e91cb4ae8f376c994848ecf2fd4
+    mime: image/tiff
+    bytes: 20179132
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/85/b5/85b51aaff519854af1256f1178122fbc61895e91cb4ae8f376c994848ecf2fd4/preview-400.c0242d1c3638.jpg
+        sha256: c0242d1c3638e6a9988c5865be5203e7ef46c8b1fcd5e2972f15813fa480ee8b
+        mime: image/jpeg
+        bytes: 37173
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_fj6yn1_002.tif
+    path: files/5e/7a/5e7ad52ca1a3f48314bd2542d290f30ceeb73f9650a6cb747fdbfde13b3c3772/original.tif
+    sha256: 5e7ad52ca1a3f48314bd2542d290f30ceeb73f9650a6cb747fdbfde13b3c3772
+    mime: image/tiff
+    bytes: 3590315
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5e/7a/5e7ad52ca1a3f48314bd2542d290f30ceeb73f9650a6cb747fdbfde13b3c3772/preview-400.d0d7d6b9cb30.jpg
+        sha256: d0d7d6b9cb30164cbbc8c23a384327ea6a1f0e2903964bc61381d1e08db1463a
+        mime: image/jpeg
+        bytes: 28079
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

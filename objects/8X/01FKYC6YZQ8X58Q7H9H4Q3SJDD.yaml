@@ -1,0 +1,33 @@
+id: 01FKYC6YZQ8X58Q7H9H4Q3SJDD
+type: image
+subtype: print
+title: Postkarte Rüterberg, Fähranleger
+date: "1710"
+location: Lanz, Marktstraße
+origin:
+  name: Paul Burmester
+  type: person
+  location: Laase
+parents:
+  - 01JKQ421K5RBFQ8NV81GBKEPMH
+  - 01J5VEM4DET47BYJHEPTWJ7T8Q
+files:
+  - role: main
+    original_name: scan_115.tif
+    path: files/d1/35/d13544993acffbd3f1a74ffd9198e9a78b715c418cad334dee3069f76f8834eb/original.tif
+    sha256: d13544993acffbd3f1a74ffd9198e9a78b715c418cad334dee3069f76f8834eb
+    mime: image/tiff
+    bytes: 27170096
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d1/35/d13544993acffbd3f1a74ffd9198e9a78b715c418cad334dee3069f76f8834eb/preview-400.cefede915ced.jpg
+        sha256: cefede915ced84177abe5d81bc2366af23673a749bd4ebdce68bce049b9f8c43
+        mime: image/jpeg
+        bytes: 40659
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01F6DEGYZVNBYTFDG6D9PS5KB2
+type: image
+subtype: drawing
+title: Gasthof „Zur Elbe“, Aquarell, Lanz
+description: Federzeichnung, laviert.
+location: Lüchow, Am Markt
+origin:
+  name: Hans Hennings
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Emma Brandt
+    type: person
+  - name: Brünkendorf
+    type: place
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01KD7CS4EBG51K60J3B74H2VS5
+files:
+  - role: main
+    original_name: scan_957.tif
+    path: files/90/c9/90c99cf946451053621ec71fb258dafcfaeacf4a6a9853003bf18747d425b691/original.tif
+    sha256: 90c99cf946451053621ec71fb258dafcfaeacf4a6a9853003bf18747d425b691
+    mime: image/tiff
+    bytes: 2083792
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/90/c9/90c99cf946451053621ec71fb258dafcfaeacf4a6a9853003bf18747d425b691/preview-400.5e583a657708.jpg
+        sha256: 5e583a65770811ecde3c11a30be791687ca173d89d6e1fbebdcb8e286008fa3f
+        mime: image/jpeg
+        bytes: 46740
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

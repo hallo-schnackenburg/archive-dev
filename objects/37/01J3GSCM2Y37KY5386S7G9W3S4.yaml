@@ -1,0 +1,38 @@
+id: 01J3GSCM2Y37KY5386S7G9W3S4
+type: image
+subtype: photo
+title: Erntedankfest 1959
+description: Farbfoto, leicht verblasst.
+date: 1959-02
+location: Pretzier, Hafen
+origin:
+  name: Wilhelm Ahrens
+  type: person
+  location: Seedorf
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Kirmes 1959
+    type: event
+parents:
+  - 01F609NXHEBHNPDFETZVY63FSS
+files:
+  - role: main
+    original_name: DSC0808.jpg
+    path: files/fd/bf/fdbf15fe452d015a3830e58c609fc64e2f0ae404981553aa29835d21d4e78bfa/original.jpg
+    sha256: fdbf15fe452d015a3830e58c609fc64e2f0ae404981553aa29835d21d4e78bfa
+    mime: image/jpeg
+    bytes: 27805258
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/fd/bf/fdbf15fe452d015a3830e58c609fc64e2f0ae404981553aa29835d21d4e78bfa/preview-400.942b715717b3.jpg
+        sha256: 942b715717b351a34bb7c152fda69e5df3279cea88deb4964dd71b7b30a1f63d
+        mime: image/jpeg
+        bytes: 85052
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

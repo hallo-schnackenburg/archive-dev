@@ -1,0 +1,43 @@
+id: 01J4KQJ0YWTZNVJWW1DY4QBMGK
+type: image
+subtype: photo
+title: Elbstraße, Ecke Mühlenweg
+date: 189X
+location: Gartow, Bäckerei Lüders
+origin:
+  name: Emma Jeß
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Mappe 24/008
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+  - name: Ziegelei
+    type: building
+parents:
+  - 01KSQSSGDYWJ8WM96BXT4QY5Z0
+files:
+  - role: main
+    original_name: foto_3102.jpg
+    path: files/0b/54/0b541fe9afd41bf14b7c21cc336e722d486c2b9e136f00721e7809cc16315b16/original.jpg
+    sha256: 0b541fe9afd41bf14b7c21cc336e722d486c2b9e136f00721e7809cc16315b16
+    mime: image/jpeg
+    bytes: 24864052
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/0b/54/0b541fe9afd41bf14b7c21cc336e722d486c2b9e136f00721e7809cc16315b16/preview-400.e11e371b7fa9.jpg
+        sha256: e11e371b7fa982107a11391088f71bbb076705f361dfb0f1be83b9b061812f5d
+        mime: image/jpeg
+        bytes: 51393
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,59 @@
+id: 01FSH7FSNQJW2ABBPCRRSJF3A0
+type: document
+subtype: note
+title: Rechnung Plate, Elbdeich
+description: Beleg mit Stempel.
+date: "1956"
+location: Kapern, Poststelle
+language: de
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Schmiede
+    type: building
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01KB43N3WF3CCAY1BW6XZDFMAY
+  - 01FX13NA4AT0PM3FBRV1XBR89T
+files:
+  - role: page
+    num: 1
+    original_name: note_sjf3a0_001.tif
+    path: files/05/12/051274e23d5c7d162bc36ddd84f4556f122a297527b49ff192718e1a0ea0ae82/original.tif
+    sha256: 051274e23d5c7d162bc36ddd84f4556f122a297527b49ff192718e1a0ea0ae82
+    mime: image/tiff
+    bytes: 20587530
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/12/051274e23d5c7d162bc36ddd84f4556f122a297527b49ff192718e1a0ea0ae82/preview-400.c452f9e47554.jpg
+        sha256: c452f9e475541ed1c5142953ec1a353aeebf9b3d57b522565e605eead4480098
+        mime: image/jpeg
+        bytes: 43343
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_sjf3a0_002.tif
+    path: files/33/11/3311b8cc03ee28a2413bb8c83b7f44f5e011ea3b7353520ff6524d347e601bb7/original.tif
+    sha256: 3311b8cc03ee28a2413bb8c83b7f44f5e011ea3b7353520ff6524d347e601bb7
+    mime: image/tiff
+    bytes: 11444847
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/33/11/3311b8cc03ee28a2413bb8c83b7f44f5e011ea3b7353520ff6524d347e601bb7/preview-400.2205052422bc.jpg
+        sha256: 2205052422bc9005484d1949ed9a4792ff0889db81237387b91d85dc35da1f1d
+        mime: image/jpeg
+        bytes: 87911
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

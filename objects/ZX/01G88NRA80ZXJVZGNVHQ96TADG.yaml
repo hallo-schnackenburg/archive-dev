@@ -1,0 +1,44 @@
+id: 01G88NRA80ZXJVZGNVHQ96TADG
+type: image
+subtype: drawing
+title: Federzeichnung Pumpenhaus
+description: Federzeichnung, laviert.
+date: 1897-02
+location: Gartow, Hafen
+geocode:
+  lat: 53.0951
+  lon: 11.6613
+  precision: town
+  source: osm
+origin:
+  name: Anni Bruns
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Dieter Heuer
+    type: person
+  - name: Gülden
+    type: place
+parents:
+  - 01JMSDNGA55JGRT5ESX6NS0WKN
+  - 01F5A46AQZSQ2ZQK2E1F4Z4ECB
+files:
+  - role: main
+    original_name: scan_593.tif
+    path: files/91/ad/91ad1fe87626086366a2c92ea3a713b4a7f757f55e1452cfd3886cfc0ce69284/original.tif
+    sha256: 91ad1fe87626086366a2c92ea3a713b4a7f757f55e1452cfd3886cfc0ce69284
+    mime: image/tiff
+    bytes: 4145295
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/91/ad/91ad1fe87626086366a2c92ea3a713b4a7f757f55e1452cfd3886cfc0ce69284/preview-400.7ed41f4fdee6.jpg
+        sha256: 7ed41f4fdee67f0a2928f00d306a5a370d96aeefd4abd61f2bc4f70fa27e1c68
+        mime: image/jpeg
+        bytes: 54334
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

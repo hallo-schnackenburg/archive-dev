@@ -1,0 +1,31 @@
+id: 01KSNESJZM8JGWB11H17VS6NDW
+type: image
+subtype: photo
+title: Fastnacht 1917
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1917-04-15
+subjects:
+  - name: Sturmschaden 1917
+    type: event
+  - name: Helga Rieke
+    type: person
+files:
+  - role: main
+    original_name: foto_8490.jpg
+    path: files/20/ed/20ed6416313d0a2d91b37624ac45756a1077b3c681d810f731636d43ef4bf318/original.jpg
+    sha256: 20ed6416313d0a2d91b37624ac45756a1077b3c681d810f731636d43ef4bf318
+    mime: image/jpeg
+    bytes: 17611175
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/20/ed/20ed6416313d0a2d91b37624ac45756a1077b3c681d810f731636d43ef4bf318/preview-400.33ae7b76e570.jpg
+        sha256: 33ae7b76e570169a80ed6efa920d16897f2da1823570f98fc905fdd73d342a5d
+        mime: image/jpeg
+        bytes: 72883
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

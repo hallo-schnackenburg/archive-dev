@@ -1,0 +1,38 @@
+id: 01JSR2X0A2G3HJ46K7SR286NK0
+type: image
+subtype: plan
+title: Deichplan Hitzacker bis Bömenzien
+description: Maßstab 1:1000.
+date: 1976-03-20
+location: Bömenzien, Elbstraße
+origin:
+  name: Gerda Hennings
+  type: person
+  location: Zadrau
+subjects:
+  - name: Gülden
+    type: place
+  - name: Irmgard Lemke
+    type: person
+parents:
+  - 01GG9H557FNKNNHZ67KS9WW423
+files:
+  - role: main
+    original_name: scan_998.tif
+    path: files/a9/e5/a9e5682b47f58d8a1f3c4c776fab06ec6f354e64aacfa2ac23e09e4dadec977d/original.tif
+    sha256: a9e5682b47f58d8a1f3c4c776fab06ec6f354e64aacfa2ac23e09e4dadec977d
+    mime: image/tiff
+    bytes: 7645097
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a9/e5/a9e5682b47f58d8a1f3c4c776fab06ec6f354e64aacfa2ac23e09e4dadec977d/preview-400.9d86d4e7c45c.jpg
+        sha256: 9d86d4e7c45cfcaff665d75d4f8b33c437912f821b4a5d2d0a7878743425f762
+        mime: image/jpeg
+        bytes: 63230
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

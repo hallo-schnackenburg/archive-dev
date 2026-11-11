@@ -1,0 +1,35 @@
+id: 01JBFMYRXMPBW5RXA0MVZQNNWN
+type: image
+subtype: print
+title: Postkarte Gollensdorf, Molkerei
+description: Lithographie, Rand beschnitten.
+location: Wustrow, Pumpenhaus
+origin:
+  name: August Lüders
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Mühle
+    type: building
+  - name: Kegelbahn
+    type: building
+files:
+  - role: main
+    original_name: scan_088.tif
+    path: files/92/37/9237232d87f40cd56b4b48a4dfa5d6fd5af25234144b752ffca3d39de6f16ff3/original.tif
+    sha256: 9237232d87f40cd56b4b48a4dfa5d6fd5af25234144b752ffca3d39de6f16ff3
+    mime: image/tiff
+    bytes: 17492125
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/92/37/9237232d87f40cd56b4b48a4dfa5d6fd5af25234144b752ffca3d39de6f16ff3/preview-400.ad79eee55c5c.jpg
+        sha256: ad79eee55c5c86bc9676feef728e92d162a592c7d834184206f2e1745e1cc1f8
+        mime: image/jpeg
+        bytes: 83192
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

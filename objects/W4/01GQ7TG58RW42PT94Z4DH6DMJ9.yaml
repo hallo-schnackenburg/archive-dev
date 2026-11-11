@@ -1,0 +1,36 @@
+id: 01GQ7TG58RW42PT94Z4DH6DMJ9
+type: image
+subtype: print
+title: Postkarte Bömenzien, Ladestraße
+date: "1891"
+location: Wustrow, Kirchstraße
+origin:
+  name: Erika Voss
+  type: person
+  location: Dömitz
+subjects:
+  - name: Hitzacker
+    type: place
+parents:
+  - 01F1Q5CD51G9ZH21J5XMQ18G3Z
+  - 01GVT1XHSVEKN4VCH3XGAC134Y
+files:
+  - role: main
+    original_name: scan_051.tif
+    path: files/4f/1e/4f1e8559879d939adbca41f23b55a365bad7bb27c62ae963be4f679df731b78f/original.tif
+    sha256: 4f1e8559879d939adbca41f23b55a365bad7bb27c62ae963be4f679df731b78f
+    mime: image/tiff
+    bytes: 5924228
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4f/1e/4f1e8559879d939adbca41f23b55a365bad7bb27c62ae963be4f679df731b78f/preview-400.0a111fbbf404.jpg
+        sha256: 0a111fbbf404e56de2c4869f2ab93d1b4d49b3486935f1d7e78944e7695842f6
+        mime: image/jpeg
+        bytes: 60899
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

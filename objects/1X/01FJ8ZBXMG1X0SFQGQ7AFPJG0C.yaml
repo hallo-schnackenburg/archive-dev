@@ -1,0 +1,48 @@
+id: 01FJ8ZBXMG1X0SFQGQ7AFPJG0C
+type: image
+subtype: plan
+title: Lageplan Schlachterei, Schnackenburg
+date: 1759/1762
+location: Arendsee, Schulstraße
+origin:
+  name: Gerda Hartwig
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan 16/259
+  note: Mappe 12
+owner:
+  name: Lotte Bruns
+  type: person
+  note: Nachlass
+subjects:
+  - name: Gärtnerei
+    type: building
+  - name: Beerdigung 1759
+    type: event
+parents:
+  - 01H5DZWSA252A4P3AWD6J9T3TK
+files:
+  - role: main
+    original_name: scan_760.tif
+    path: files/ff/70/ff704c7288bd762d31c1855b2bd98af5bba21eb26a7c313977783d12b223e993/original.tif
+    sha256: ff704c7288bd762d31c1855b2bd98af5bba21eb26a7c313977783d12b223e993
+    mime: image/tiff
+    bytes: 19809113
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/70/ff704c7288bd762d31c1855b2bd98af5bba21eb26a7c313977783d12b223e993/preview-400.25f2cf596671.jpg
+        sha256: 25f2cf596671c5d72a4adfd188a9f9406f727ebc73f63e217e299726c3e8aead
+        mime: image/jpeg
+        bytes: 47288
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

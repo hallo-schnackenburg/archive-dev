@@ -1,0 +1,37 @@
+id: 01KH42T1Z4N7NFN1N0MH90PWJ2
+type: image
+subtype: print
+title: Postkarte Pretzier, Sportplatz
+description: Postkarte, gelaufen 1902.
+date: 1737-12-04
+location: Holtorf, Am Elbdeich
+geocode:
+  lat: 52.9936
+  lon: 11.5599
+  precision: town
+  source: osm
+subjects:
+  - name: Ladestraße
+    type: building
+parents:
+  - 01KRNVBSTXBJR5NRDE3HAC7HXQ
+files:
+  - role: main
+    original_name: scan_075.tif
+    path: files/c0/9d/c09da2f74a2267c3c2baa04049c608e8812c044aa6fcc0b33cd7edddbaaea510/original.tif
+    sha256: c09da2f74a2267c3c2baa04049c608e8812c044aa6fcc0b33cd7edddbaaea510
+    mime: image/tiff
+    bytes: 13221044
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c0/9d/c09da2f74a2267c3c2baa04049c608e8812c044aa6fcc0b33cd7edddbaaea510/preview-400.af7efdcf0c9c.jpg
+        sha256: af7efdcf0c9c428cc11c064c8fedf2efb5428dfd22202dfe2b80a253164824c3
+        mime: image/jpeg
+        bytes: 70401
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

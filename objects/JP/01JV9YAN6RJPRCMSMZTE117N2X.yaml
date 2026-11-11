@@ -1,0 +1,44 @@
+id: 01JV9YAN6RJPRCMSMZTE117N2X
+type: image
+subtype: plan
+title: Deichplan Gartow bis Gollensdorf
+date: "1787"
+location: Salzwedel, Hinter den Höfen
+origin:
+  name: Emma Krüger
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Album 3/088
+  note: Kellerarchiv
+subjects:
+  - name: Fastnacht 1787
+    type: event
+  - name: Backhaus
+    type: building
+  - name: Wittenberge
+    type: place
+files:
+  - role: main
+    original_name: scan_253.tif
+    path: files/78/fd/78fdcdc2c9dba7dcdeffd4d7d77ec8aa7d187cc5bb9de2867d0b7c7ced509980/original.tif
+    sha256: 78fdcdc2c9dba7dcdeffd4d7d77ec8aa7d187cc5bb9de2867d0b7c7ced509980
+    mime: image/tiff
+    bytes: 13535806
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/78/fd/78fdcdc2c9dba7dcdeffd4d7d77ec8aa7d187cc5bb9de2867d0b7c7ced509980/preview-400.3276f2f389e8.jpg
+        sha256: 3276f2f389e8a89292cef806861b5a88de1c0e2f14c7698b38629f5a6d7a2d13
+        mime: image/jpeg
+        bytes: 28678
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

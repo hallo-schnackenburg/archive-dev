@@ -1,0 +1,44 @@
+id: 01HSN7HSR1FRDQDRYWA7MM3RE3
+type: image
+subtype: print
+title: Postkarte Dömitz, Dorfkrug
+date: 1756-04-15
+location: Wittenberge, Gartenstraße
+geocode:
+  lat: 52.9654
+  lon: 11.5604
+  precision: street
+  source: osm
+origin:
+  name: Emma Lemke
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  note: Regal 1
+parents:
+  - 01FVB0ZV7D5S8N9566PY0PJ70J
+files:
+  - role: main
+    original_name: scan_641.tif
+    path: files/52/6c/526cc5dd58a2c939b22c27932c3a89c56aef567b295115ea01b0e45ca977dff3/original.tif
+    sha256: 526cc5dd58a2c939b22c27932c3a89c56aef567b295115ea01b0e45ca977dff3
+    mime: image/tiff
+    bytes: 18162829
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/52/6c/526cc5dd58a2c939b22c27932c3a89c56aef567b295115ea01b0e45ca977dff3/preview-400.9684a903204f.jpg
+        sha256: 9684a903204f1aff171c4b4fdc5185799eecef81748f6936ed8b19808f6634b6
+        mime: image/jpeg
+        bytes: 39425
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

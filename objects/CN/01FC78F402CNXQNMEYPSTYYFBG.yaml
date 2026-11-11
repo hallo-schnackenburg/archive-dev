@@ -1,0 +1,42 @@
+id: 01FC78F402CNXQNMEYPSTYYFBG
+type: image
+subtype: print
+title: Postkarte Seedorf, Storchennest
+description: Postkarte, gelaufen 1951.
+date: 1958?
+location: Dömitz, Am Elbdeich
+geocode:
+  lat: 52.9122
+  lon: 11.4968
+  precision: street
+  source: osm
+origin:
+  name: Käthe Voss
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Frieda Hartwig
+    type: person
+parents:
+  - 01HZP17Y1NVSXA7HYV6RH1MVZS
+  - 01GM7NY0727P7EK5MCJ3J7A8SN
+files:
+  - role: main
+    original_name: scan_907.tif
+    path: files/8c/9b/8c9b0ab51fa09dd22a4b56dff501957f08e0ccfd97c3bb1e2241502447f0f0f8/original.tif
+    sha256: 8c9b0ab51fa09dd22a4b56dff501957f08e0ccfd97c3bb1e2241502447f0f0f8
+    mime: image/tiff
+    bytes: 4295004
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8c/9b/8c9b0ab51fa09dd22a4b56dff501957f08e0ccfd97c3bb1e2241502447f0f0f8/preview-400.58d6bce762d6.jpg
+        sha256: 58d6bce762d6270e4bc02c3501f66e76c39d69f4e6eb278fdd16eb06176e9f18
+        mime: image/jpeg
+        bytes: 67536
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

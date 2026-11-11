@@ -1,0 +1,39 @@
+id: 01HTR5JDV5XK0EJGVRRHEPEGGA
+type: image
+subtype: photo
+title: Hermann Ihde vor dem Mühle
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1929-05
+location: Holtorf, Rathaus
+geocode:
+  lat: 53.0806
+  lon: 11.6303
+  precision: region
+  source: osm
+subjects:
+  - name: Fährjubiläum 1929
+    type: event
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01GV9GBAAY8D1BK0CQF82R0YYD
+files:
+  - role: main
+    original_name: P5841.jpg
+    path: files/ec/50/ec5080e78a1808bf4256d0d1591e5878b85b633b26dc4aee0cf49c2197671838/original.jpg
+    sha256: ec5080e78a1808bf4256d0d1591e5878b85b633b26dc4aee0cf49c2197671838
+    mime: image/jpeg
+    bytes: 17157347
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ec/50/ec5080e78a1808bf4256d0d1591e5878b85b633b26dc4aee0cf49c2197671838/preview-400.15c1d3a3766f.jpg
+        sha256: 15c1d3a3766f2b55a3298269f5506528761cdea6734120426a8876952d48b066
+        mime: image/jpeg
+        bytes: 66964
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

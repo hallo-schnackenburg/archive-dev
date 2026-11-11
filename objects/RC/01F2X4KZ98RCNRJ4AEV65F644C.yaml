@@ -1,0 +1,33 @@
+id: 01F2X4KZ98RCNRJ4AEV65F644C
+type: image
+subtype: print
+title: Postkarte Bömenzien, Gasthof Meyer
+date: 1843-10
+location: Kapern, Hafenstraße
+geocode:
+  lat: 53.0199
+  lon: 11.629
+  precision: town
+  source: osm
+parents:
+  - 01H8EQS4AVFVXGT4V39H7JSKCS
+files:
+  - role: main
+    original_name: scan_853.tif
+    path: files/f4/a2/f4a2d65f0f6114840a18d66fe11c385d6734c5467beacf0342449649cb5b2d38/original.tif
+    sha256: f4a2d65f0f6114840a18d66fe11c385d6734c5467beacf0342449649cb5b2d38
+    mime: image/tiff
+    bytes: 649546
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f4/a2/f4a2d65f0f6114840a18d66fe11c385d6734c5467beacf0342449649cb5b2d38/preview-400.3c7fb2807f5c.jpg
+        sha256: 3c7fb2807f5cfb1cded788ed11e167bab376d128bed18ee58229fd9058a96d51
+        mime: image/jpeg
+        bytes: 83935
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

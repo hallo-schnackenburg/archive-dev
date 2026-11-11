@@ -1,0 +1,46 @@
+id: 01JJBDF94E1C69FC34P85QZMT5
+type: image
+subtype: plan
+title: Bauplan Ladestraße 1758
+date: "1758"
+location: Laase, Deichstraße
+origin:
+  name: Horst Plate
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 29/091
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v58837
+subjects:
+  - name: Gerda Pape
+    type: person
+  - name: Anni Neumann
+    type: person
+  - name: Kindergartenfest 1758
+    type: event
+parents:
+  - 01F9YMN9D3JJVF02Y68XA8TP10
+files:
+  - role: main
+    original_name: scan_083.tif
+    path: files/f1/81/f1810045b3f5d0c5c727e8207caf954dd7c77aaa3cc2db05801e5d0a7e1d85b6/original.tif
+    sha256: f1810045b3f5d0c5c727e8207caf954dd7c77aaa3cc2db05801e5d0a7e1d85b6
+    mime: image/tiff
+    bytes: 23071755
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f1/81/f1810045b3f5d0c5c727e8207caf954dd7c77aaa3cc2db05801e5d0a7e1d85b6/preview-400.ec8374e97cb6.jpg
+        sha256: ec8374e97cb6e1dfa159acc061453af14900fd82970b9ad5371cbdad62b7c72c
+        mime: image/jpeg
+        bytes: 39748
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

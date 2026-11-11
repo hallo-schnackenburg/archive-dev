@@ -1,0 +1,41 @@
+id: 01H77F1NAW6PFXH4B05694GRZ4
+type: image
+subtype: plan
+title: Bauplan Kegelbahn 1951
+description: Maßstab 1:500.
+date: "1951"
+location: Holtorf, Storchennest
+origin:
+  name: Fritz Meyer
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F/Album 3/036
+subjects:
+  - name: Wustrow
+    type: place
+files:
+  - role: main
+    original_name: scan_882.tif
+    path: files/6a/84/6a846d723489e48cac8c4a0810110783cb748710aba15979b1d29dcd39c463b0/original.tif
+    sha256: 6a846d723489e48cac8c4a0810110783cb748710aba15979b1d29dcd39c463b0
+    mime: image/tiff
+    bytes: 16735332
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6a/84/6a846d723489e48cac8c4a0810110783cb748710aba15979b1d29dcd39c463b0/preview-400.eb62a8b40f6b.jpg
+        sha256: eb62a8b40f6bb7cde22af3c5ee24563c8ca521240ab826cf3beee3a9768554ad
+        mime: image/jpeg
+        bytes: 42541
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Person links unbekannt.

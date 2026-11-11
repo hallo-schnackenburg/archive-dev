@@ -1,0 +1,40 @@
+id: 01HFBGMH3FNCRX1NWMEPTHE0SK
+type: image
+subtype: photo
+title: Frieda Wöhlk, Porträt
+date: 197X
+location: Lanz, Molkerei
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Album 26/016
+subjects:
+  - name: Scheune
+    type: building
+  - name: Sturmschaden 1971
+    type: event
+parents:
+  - 01HXKWJA1EQYHXN89QXEXV1595
+  - 01HJPB419DCSVPH6S0SEYBKD5Z
+files:
+  - role: main
+    original_name: DSC1152.jpg
+    path: files/ae/0f/ae0f3971d9717dbeeab18691d8bc90f383e6bc27bf3f47980d305f16721b3ead/original.jpg
+    sha256: ae0f3971d9717dbeeab18691d8bc90f383e6bc27bf3f47980d305f16721b3ead
+    mime: image/jpeg
+    bytes: 10944911
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ae/0f/ae0f3971d9717dbeeab18691d8bc90f383e6bc27bf3f47980d305f16721b3ead/preview-400.52815aecbc30.jpg
+        sha256: 52815aecbc306d77c3746750e0b13873cb3eaa16ceae665391800c7b3ad2b002
+        mime: image/jpeg
+        bytes: 36851
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

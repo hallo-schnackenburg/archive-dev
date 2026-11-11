@@ -1,0 +1,44 @@
+id: 01M1ER1MEEFV4XCZP15947TX9Z
+type: image
+subtype: plan
+title: Lageplan Fachwerkhaus Marktstraße 4, Wustrow
+description: Maßstab 1:100.
+date: 1917-12-07
+location: Rüterberg, Gartenstraße
+origin:
+  name: Marta Eggers
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 22/094
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Gemeindehaus
+    type: building
+  - name: Kindergarten
+    type: building
+files:
+  - role: main
+    original_name: scan_871.tif
+    path: files/5a/1a/5a1a3de1938924c797fae73ee62ea35d602e8882201e65fdb7b86b7082153cd3/original.tif
+    sha256: 5a1a3de1938924c797fae73ee62ea35d602e8882201e65fdb7b86b7082153cd3
+    mime: image/tiff
+    bytes: 19262263
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5a/1a/5a1a3de1938924c797fae73ee62ea35d602e8882201e65fdb7b86b7082153cd3/preview-400.cb164c196987.jpg
+        sha256: cb164c1969876516a2d19f80c547345193498bdd67299ab9c79eba5e346e7f95
+        mime: image/jpeg
+        bytes: 56126
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

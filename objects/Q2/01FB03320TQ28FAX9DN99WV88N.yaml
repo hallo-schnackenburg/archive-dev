@@ -1,0 +1,38 @@
+id: 01FB03320TQ28FAX9DN99WV88N
+type: image
+subtype: plan
+title: Katasterblatt Neumann
+date: 177X
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Album 4/004
+subjects:
+  - name: Richtfest 1777
+    type: event
+  - name: Kirmes 1777
+    type: event
+  - name: Ilse Lüders
+    type: person
+files:
+  - role: main
+    original_name: scan_959.tif
+    path: files/56/89/568993da1d5d7455e486f8786be23adb950214409e03fae13992a9d9e8c336ff/original.tif
+    sha256: 568993da1d5d7455e486f8786be23adb950214409e03fae13992a9d9e8c336ff
+    mime: image/tiff
+    bytes: 21791054
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/56/89/568993da1d5d7455e486f8786be23adb950214409e03fae13992a9d9e8c336ff/preview-400.ddad45f48c20.jpg
+        sha256: ddad45f48c2030316ed96e73522186da7fd18e957f3038aeda50b2ef55c5d428
+        mime: image/jpeg
+        bytes: 53891
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

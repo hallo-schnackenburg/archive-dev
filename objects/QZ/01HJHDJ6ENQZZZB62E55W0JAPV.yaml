@@ -1,0 +1,37 @@
+id: 01HJHDJ6ENQZZZB62E55W0JAPV
+type: image
+subtype: print
+title: Postkarte Wustrow, Brunnen am Markt
+date: "1731"
+location: Cumlosen, Deichstraße
+origin:
+  name: Karl Rieke
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Eisgang 1731
+    type: event
+parents:
+  - 01HETPQRM52KXM7ZS582C2ECF3
+files:
+  - role: main
+    original_name: scan_861.tif
+    path: files/86/f2/86f20356769c3d75fc0ef9ae327990555b05cead68a6aaefbd3c22b9d08cd8e1/original.tif
+    sha256: 86f20356769c3d75fc0ef9ae327990555b05cead68a6aaefbd3c22b9d08cd8e1
+    mime: image/tiff
+    bytes: 26409923
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/f2/86f20356769c3d75fc0ef9ae327990555b05cead68a6aaefbd3c22b9d08cd8e1/preview-400.516b110c2896.jpg
+        sha256: 516b110c2896be2e54573fd7209fccd508ce04151b07ac81fa0f07f2d208e241
+        mime: image/jpeg
+        bytes: 64640
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01JAD2CGGT6RF7VPBTPXP3YAG3
+type: image
+subtype: photo
+title: Ernst Detlefs, Porträt
+description: Aufnahme von Hans Heuer.
+date: 1973?
+location: Dömitz, Marktstraße
+origin:
+  name: Wilhelm Behrens
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Cumlosen
+subjects:
+  - name: Gärtnerei
+    type: building
+  - name: Gärtnerei
+    type: building
+files:
+  - role: main
+    original_name: DSC6939.jpg
+    path: files/c9/99/c99935b9979127ede48ebfee115658529257d88260526e85c904a93912b71cdf/original.jpg
+    sha256: c99935b9979127ede48ebfee115658529257d88260526e85c904a93912b71cdf
+    mime: image/jpeg
+    bytes: 15578417
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/c9/99/c99935b9979127ede48ebfee115658529257d88260526e85c904a93912b71cdf/preview-400.686d4b251d0c.jpg
+        sha256: 686d4b251d0c78188cd058bd1d8351d82bcd3b31a60af061af38fb0735708d47
+        mime: image/jpeg
+        bytes: 85764
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

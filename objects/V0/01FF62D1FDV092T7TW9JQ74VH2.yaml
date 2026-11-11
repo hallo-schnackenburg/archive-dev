@@ -1,0 +1,48 @@
+id: 01FF62D1FDV092T7TW9JQ74VH2
+type: image
+subtype: plan
+title: Bauplan Sparkasse 1804
+location: Lanz, Grenzturm
+geocode:
+  lat: 52.9908
+  lon: 11.6333
+  precision: street
+  source: osm
+origin:
+  name: Irmgard Schulz
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 1/099
+  note: Planschrank, Fach 3
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Dorffest 1804
+    type: event
+parents:
+  - 01K6AZXAQBY5GZ2MJ9739G5ZQB
+files:
+  - role: main
+    original_name: scan_699.tif
+    path: files/c7/0a/c70aeee8388fa9a85543c9c98086f6b98c64028ee249c352f7877ddee516525d/original.tif
+    sha256: c70aeee8388fa9a85543c9c98086f6b98c64028ee249c352f7877ddee516525d
+    mime: image/tiff
+    bytes: 12252186
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c7/0a/c70aeee8388fa9a85543c9c98086f6b98c64028ee249c352f7877ddee516525d/preview-400.06b83f964c5a.jpg
+        sha256: 06b83f964c5a9b463e68704ad8be505d63a403419f94d025f1d13337cd481481
+        mime: image/jpeg
+        bytes: 84386
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

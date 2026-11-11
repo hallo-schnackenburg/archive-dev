@@ -1,0 +1,34 @@
+id: 01JHP7CRWCCYM7CPGN00HMMJ40
+type: image
+subtype: photo
+title: Konfirmation 1910
+description: Aufnahme von Klaus Rieke.
+date: 1910-08
+location: Lenzen, Gasthof „Zur Elbe“
+subjects:
+  - name: Elbdeich
+    type: building
+  - name: Salzwedel
+    type: place
+  - name: Wassermühle
+    type: building
+files:
+  - role: main
+    original_name: DSC9510.jpg
+    path: files/51/f5/51f50be57d93921d756a7784f1adcfdde54143d3cd9d1be5262f9075c2623901/original.jpg
+    sha256: 51f50be57d93921d756a7784f1adcfdde54143d3cd9d1be5262f9075c2623901
+    mime: image/jpeg
+    bytes: 13604870
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/51/f5/51f50be57d93921d756a7784f1adcfdde54143d3cd9d1be5262f9075c2623901/preview-400.f173c49fd646.jpg
+        sha256: f173c49fd6468a4b040045736c0ece6c6b0ec507143a4f144b6a83c230500f38
+        mime: image/jpeg
+        bytes: 36799
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

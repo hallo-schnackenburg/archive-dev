@@ -1,0 +1,39 @@
+id: 01F4HD4YF3JNNH9DN4TXCGJB5G
+type: image
+subtype: print
+title: Postkarte Holtorf, Dorfteich
+description: Lithographie, Rand beschnitten.
+date: 1763-10-13
+origin:
+  name: Fritz Brandt
+  type: person
+  location: Holtorf
+subjects:
+  - name: Osterfeuer 1763
+    type: event
+  - name: Karl Lemke
+    type: person
+  - name: Fastnacht 1763
+    type: event
+parents:
+  - 01HWXZJSFPT1G68MTVYSQM6PXW
+files:
+  - role: main
+    original_name: scan_317.tif
+    path: files/58/e9/58e9c4ddf042a1d6afdaa4b570a946c39e94160815c5b660c13f31abd52f791d/original.tif
+    sha256: 58e9c4ddf042a1d6afdaa4b570a946c39e94160815c5b660c13f31abd52f791d
+    mime: image/tiff
+    bytes: 8894669
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/58/e9/58e9c4ddf042a1d6afdaa4b570a946c39e94160815c5b660c13f31abd52f791d/preview-400.cba86f1e769e.jpg
+        sha256: cba86f1e769e11b4ce8c7f6f9d5550258ae214f1fc3b06c6fff4f5bf74e3527a
+        mime: image/jpeg
+        bytes: 79306
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

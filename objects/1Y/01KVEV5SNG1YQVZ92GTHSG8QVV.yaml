@@ -1,0 +1,38 @@
+id: 01KVEV5SNG1YQVZ92GTHSG8QVV
+type: image
+subtype: plan
+title: Deichplan Havelberg bis Havelberg
+date: "1900"
+location: Hitzacker, Am Markt
+geocode:
+  lat: 52.9487
+  lon: 11.6503
+  precision: street
+  source: osm
+subjects:
+  - name: Wootz
+    type: place
+  - name: Fritz Brandt
+    type: person
+parents:
+  - 01HYD54FFAY9KMJSV99THJGVD5
+files:
+  - role: main
+    original_name: scan_256.tif
+    path: files/3f/8f/3f8f5474877a7e8d0cbf3583c9f5556c9da72302ad6a1a040c754d1b2463c116/original.tif
+    sha256: 3f8f5474877a7e8d0cbf3583c9f5556c9da72302ad6a1a040c754d1b2463c116
+    mime: image/tiff
+    bytes: 1656871
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3f/8f/3f8f5474877a7e8d0cbf3583c9f5556c9da72302ad6a1a040c754d1b2463c116/preview-400.edd8d5ea107a.jpg
+        sha256: edd8d5ea107a9adcdafa4b127cb73f1a8a56b237b10776f14f947351375e7615
+        mime: image/jpeg
+        bytes: 34886
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,64 @@
+id: 01FZNT0T497860XT0NMYS02N2C
+type: document
+subtype: letter
+title: Zeugnis für Erika Rieke
+description: Maschinenschriftlich, unterschrieben.
+date: 1924/1929
+location: Bömenzien, Schulstraße
+geocode:
+  lat: 52.9347
+  lon: 11.5274
+  precision: region
+  source: osm
+origin:
+  name: Wilhelm Pape
+  type: person
+  location: Cumlosen
+recipient: August Gerdes
+language: de
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Einweihung 1924
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_s02n2c_001.tif
+    path: files/24/0b/240b6abbe809c90561e2bbe1001655bf98febde2ada99d9ff98a036c99635447/original.tif
+    sha256: 240b6abbe809c90561e2bbe1001655bf98febde2ada99d9ff98a036c99635447
+    mime: image/tiff
+    bytes: 657552
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/24/0b/240b6abbe809c90561e2bbe1001655bf98febde2ada99d9ff98a036c99635447/preview-400.a371e6648e29.jpg
+        sha256: a371e6648e29fe96bce766bc2505a9b7fd5373c44b487723c7fecb89150c2d4a
+        mime: image/jpeg
+        bytes: 89648
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_s02n2c_002.tif
+    path: files/da/71/da71ba66d5022bd1718b1ab789df318abe683e331781642691f367cebbce4071/original.tif
+    sha256: da71ba66d5022bd1718b1ab789df318abe683e331781642691f367cebbce4071
+    mime: image/tiff
+    bytes: 13071918
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/71/da71ba66d5022bd1718b1ab789df318abe683e331781642691f367cebbce4071/preview-400.c29dca3427db.jpg
+        sha256: c29dca3427db6eae17495268ca6ff0f3bc165fdf175fe27387561ffb36168c07
+        mime: image/jpeg
+        bytes: 59494
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

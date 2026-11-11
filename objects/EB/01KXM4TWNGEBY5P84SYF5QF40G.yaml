@@ -1,0 +1,49 @@
+id: 01KXM4TWNGEBY5P84SYF5QF40G
+type: image
+subtype: photo
+title: Kinder am Dorfteich
+date: "1980"
+location: Pretzier, Elbstraße
+geocode:
+  lat: 53.078
+  lon: 11.5544
+  precision: street
+  source: osm
+origin:
+  name: Anni Ahrens
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 30/050
+  note: Regal 1
+subjects:
+  - name: Scheune
+    type: building
+  - name: Gasthof Meyer
+    type: building
+parents:
+  - 01M3RT3C17QDA971WE6FYTG43J
+files:
+  - role: main
+    original_name: scan_493.tif
+    path: files/9b/b3/9bb315cfb738eeeb472f52baf9099ec6e1017133b993a5b1aa1c98483edd3bb7/original.tif
+    sha256: 9bb315cfb738eeeb472f52baf9099ec6e1017133b993a5b1aa1c98483edd3bb7
+    mime: image/tiff
+    bytes: 20315144
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/9b/b3/9bb315cfb738eeeb472f52baf9099ec6e1017133b993a5b1aa1c98483edd3bb7/preview-400.5f4fe27cec15.jpg
+        sha256: 5f4fe27cec1585ad0e7e68c9126287958bc57229475eb2c8cf76cadae646d0da
+        mime: image/jpeg
+        bytes: 42798
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

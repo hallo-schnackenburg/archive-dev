@@ -1,0 +1,32 @@
+id: 01FAWTP64CPAV1EWGFF7YCMHM7
+type: image
+subtype: print
+title: "Kupferstich: Nienwalde von der Elbseite, Dömitz (75)"
+description: Lithographie, Rand beschnitten.
+date: 1920-06-15
+location: Seedorf, Am Elbdeich
+subjects:
+  - name: Backhaus
+    type: building
+parents:
+  - 01EVCP6NN2EADHWRTHNC79ZAS7
+files:
+  - role: main
+    original_name: scan_229.tif
+    path: files/a7/65/a765897cada01e05223ad1010ac91fdedd53aa3d8738c5cf8a8d8268c2fa8948/original.tif
+    sha256: a765897cada01e05223ad1010ac91fdedd53aa3d8738c5cf8a8d8268c2fa8948
+    mime: image/tiff
+    bytes: 14058172
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a7/65/a765897cada01e05223ad1010ac91fdedd53aa3d8738c5cf8a8d8268c2fa8948/preview-400.3268ed0818ed.jpg
+        sha256: 3268ed0818eda42a27d591ea2310ebe595965b5f907847b59d0008246b4d2c88
+        mime: image/jpeg
+        bytes: 69942
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

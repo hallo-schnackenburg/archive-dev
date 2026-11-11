@@ -1,0 +1,59 @@
+id: 01KV1CCPW4CE6TTJ4MDYWNRK9C
+type: document
+subtype: note
+title: Kassenzettel Windmühle
+description: Zettel, Bleistift.
+date: "1968"
+location: Kapern, Mühlenweg
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Gorleben
+language: de
+subjects:
+  - name: Schützenfest 1968
+    type: event
+parents:
+  - 01FKKV9TY32Q9KHAS0G1HP77R3
+  - 01JN30QK7AA815KKZN3ATXX5V3
+files:
+  - role: page
+    num: 1
+    original_name: note_wnrk9c_001.tif
+    path: files/0d/68/0d685fc8348a2c0a282263de9252f0f942c1d2300d723903650efca412a58cc0/original.tif
+    sha256: 0d685fc8348a2c0a282263de9252f0f942c1d2300d723903650efca412a58cc0
+    mime: image/tiff
+    bytes: 18758031
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0d/68/0d685fc8348a2c0a282263de9252f0f942c1d2300d723903650efca412a58cc0/preview-400.9acffc2212c9.jpg
+        sha256: 9acffc2212c93e5793a5e88057f3eb3141d26433c92da1aa8f82e7a166b1affc
+        mime: image/jpeg
+        bytes: 62218
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_wnrk9c_002.tif
+    path: files/f7/6a/f76a0b8f21d2516f55268bb7e10a482334eb23fbf9effefaf2511eb0350818b0/original.tif
+    sha256: f76a0b8f21d2516f55268bb7e10a482334eb23fbf9effefaf2511eb0350818b0
+    mime: image/tiff
+    bytes: 20872432
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f7/6a/f76a0b8f21d2516f55268bb7e10a482334eb23fbf9effefaf2511eb0350818b0/preview-400.fa044ea9fa9d.jpg
+        sha256: fa044ea9fa9d30a45de5a213d0f940d2c63be43c6eaabc7ed39627a58dafda50
+        mime: image/jpeg
+        bytes: 50437
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

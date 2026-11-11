@@ -1,0 +1,44 @@
+id: 01GCYS8VB36NJ48NDPTDTQKZ57
+type: image
+subtype: drawing
+title: Wappenentwurf Bömenzien, Holtorf
+description: Bleistift auf Papier.
+date: 1970-02
+location: Seedorf, Am Elbdeich
+geocode:
+  lat: 53.0152
+  lon: 11.5254
+  precision: exact
+  source: osm
+origin:
+  name: Fritz Heuer
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro 13/188
+parents:
+  - 01J7ZY57D3ECK0QYZPPDYBXEE3
+files:
+  - role: main
+    original_name: scan_560.tif
+    path: files/33/68/3368a16f5f23d54339ae8cd993a645e0aa2a5b2fe9e76cbe623d4014f8445ef8/original.tif
+    sha256: 3368a16f5f23d54339ae8cd993a645e0aa2a5b2fe9e76cbe623d4014f8445ef8
+    mime: image/tiff
+    bytes: 24570806
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/33/68/3368a16f5f23d54339ae8cd993a645e0aa2a5b2fe9e76cbe623d4014f8445ef8/preview-400.bdb230e8343e.jpg
+        sha256: bdb230e8343eeade08091415827898d785b34fcba7ea8e2f98432599865fa64a
+        mime: image/jpeg
+        bytes: 20950
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

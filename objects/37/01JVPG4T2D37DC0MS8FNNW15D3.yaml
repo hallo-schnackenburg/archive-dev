@@ -1,0 +1,50 @@
+id: 01JVPG4T2D37DC0MS8FNNW15D3
+type: image
+subtype: plan
+title: Bauplan Ladestraße 1861
+description: Maßstab 1:1000.
+date: 1861~
+location: Gollensdorf, Schulstraße
+geocode:
+  lat: 52.9921
+  lon: 11.5511
+  precision: town
+  source: osm
+origin:
+  name: Marta Pape
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Rudolf Wegner
+    type: person
+  - name: Wootz
+    type: place
+parents:
+  - 01GG9H557FNKNNHZ67KS9WW423
+files:
+  - role: main
+    original_name: scan_911.tif
+    path: files/ca/26/ca2665503e9ea3dc8d04ad9e90baf15c988ca1f4fc5689b94d458119ce2fa7b0/original.tif
+    sha256: ca2665503e9ea3dc8d04ad9e90baf15c988ca1f4fc5689b94d458119ce2fa7b0
+    mime: image/tiff
+    bytes: 21852804
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ca/26/ca2665503e9ea3dc8d04ad9e90baf15c988ca1f4fc5689b94d458119ce2fa7b0/preview-400.a813d1645106.jpg
+        sha256: a813d1645106eabd8fd6a43e3bc4a28b5043873e824882fea8bb6796225b531b
+        mime: image/jpeg
+        bytes: 28995
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

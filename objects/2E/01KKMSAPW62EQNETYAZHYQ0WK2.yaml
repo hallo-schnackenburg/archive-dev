@@ -1,0 +1,70 @@
+id: 01KKMSAPW62EQNETYAZHYQ0WK2
+type: document
+subtype: note
+title: Rechnung Ahrens, Ziegelei
+date: 1929-02-20
+location: Salzwedel, Deichstraße
+geocode:
+  lat: 52.9476
+  lon: 11.5113
+  precision: region
+  source: osm
+origin:
+  name: Jürgen Meyer
+  type: person
+  location: Lanz
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Fotos/Mappe 28/098
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Maifeier 1929
+    type: event
+  - name: August Pape
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_yq0wk2_001.tif
+    path: files/c5/c8/c5c8a47f8a6aca0f56d46794259626be858d8f8df0989e569a532bf470a545f8/original.tif
+    sha256: c5c8a47f8a6aca0f56d46794259626be858d8f8df0989e569a532bf470a545f8
+    mime: image/tiff
+    bytes: 15886713
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c5/c8/c5c8a47f8a6aca0f56d46794259626be858d8f8df0989e569a532bf470a545f8/preview-400.85f742e8bf6c.jpg
+        sha256: 85f742e8bf6cd62cf013658cdce314acda185c4ba073a0ecbd087ca20f41be00
+        mime: image/jpeg
+        bytes: 78988
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_yq0wk2_002.tif
+    path: files/b1/88/b1884ef0811c51f6be0b7cd5e3c1f7086e83338c9e801b22c4fe47b7307bb04a/original.tif
+    sha256: b1884ef0811c51f6be0b7cd5e3c1f7086e83338c9e801b22c4fe47b7307bb04a
+    mime: image/tiff
+    bytes: 4114888
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b1/88/b1884ef0811c51f6be0b7cd5e3c1f7086e83338c9e801b22c4fe47b7307bb04a/preview-400.f7c453e3f273.jpg
+        sha256: f7c453e3f273c808923631fb495ea060c746e86f2079a1d73ceda7263758fbb1
+        mime: image/jpeg
+        bytes: 38949
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,68 @@
+id: 01HSWRSQ4W8T4WB74MJR32QS7A
+type: document
+subtype: note
+title: Quittung für Gustav Plate
+date: 195X
+location: Wootz, Schulstraße
+geocode:
+  lat: 53.0595
+  lon: 11.679
+  precision: town
+  source: osm
+origin:
+  name: Werner Lemke
+  type: person
+  location: Seedorf
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 4/031
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Tischlerei Bruns
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_32qs7a_001.tif
+    path: files/f7/14/f714a92a284dce4f75ae65d3e9b64ad084b91aa78ccd5926d30809c2c3ae4a5a/original.tif
+    sha256: f714a92a284dce4f75ae65d3e9b64ad084b91aa78ccd5926d30809c2c3ae4a5a
+    mime: image/tiff
+    bytes: 12893700
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f7/14/f714a92a284dce4f75ae65d3e9b64ad084b91aa78ccd5926d30809c2c3ae4a5a/preview-400.2fd7ee0e7055.jpg
+        sha256: 2fd7ee0e7055fc6ab19763f0176ba6814e1ca73f215b3a93dad430200b1fd3a7
+        mime: image/jpeg
+        bytes: 35986
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_32qs7a_002.tif
+    path: files/c7/46/c746000e190790f6d9739fe19f86a946e5d3967d82d3d35c02c7f291f83b14e3/original.tif
+    sha256: c746000e190790f6d9739fe19f86a946e5d3967d82d3d35c02c7f291f83b14e3
+    mime: image/tiff
+    bytes: 12406472
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c7/46/c746000e190790f6d9739fe19f86a946e5d3967d82d3d35c02c7f291f83b14e3/preview-400.627e67e026fa.jpg
+        sha256: 627e67e026fa7ac73f8b076ed7fc69c52f5fb99dc29eb4adfcf83e4f4806aefd
+        mime: image/jpeg
+        bytes: 29204
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

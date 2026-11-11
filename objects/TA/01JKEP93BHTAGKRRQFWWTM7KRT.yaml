@@ -1,0 +1,33 @@
+id: 01JKEP93BHTAGKRRQFWWTM7KRT
+type: image
+subtype: plan
+title: Deichplan Schnackenburg bis Schnackenburg
+date: "1804"
+location: Gülden, Am Markt
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Apotheke
+    type: building
+  - name: Erntedankfest 1804
+    type: event
+files:
+  - role: main
+    original_name: scan_145.tif
+    path: files/d3/52/d3521eedae26ec3d313720eebc2b303ba13929c81fa7521819dd74a633e61c00/original.tif
+    sha256: d3521eedae26ec3d313720eebc2b303ba13929c81fa7521819dd74a633e61c00
+    mime: image/tiff
+    bytes: 19351665
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d3/52/d3521eedae26ec3d313720eebc2b303ba13929c81fa7521819dd74a633e61c00/preview-400.fe17e0c4f945.jpg
+        sha256: fe17e0c4f94515413e888eefa7bbaa7303f34edeb904c1b85bed9ad9bfb91bb7
+        mime: image/jpeg
+        bytes: 74237
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

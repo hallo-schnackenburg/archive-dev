@@ -1,0 +1,30 @@
+id: 01HVE84BXRS4635ED1BZF9S7EK
+type: image
+subtype: plan
+title: Katasterblatt Ahrens
+description: Maßstab 1:100.
+date: 1816/1827
+location: Pretzier, Marktstraße
+subjects:
+  - name: Deicharbeiten 1816
+    type: event
+files:
+  - role: main
+    original_name: scan_121.tif
+    path: files/80/45/8045bb349911237e8559b86760b0f7b29cb0f9ad83419c74316c9f53167935d9/original.tif
+    sha256: 8045bb349911237e8559b86760b0f7b29cb0f9ad83419c74316c9f53167935d9
+    mime: image/tiff
+    bytes: 6992618
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/45/8045bb349911237e8559b86760b0f7b29cb0f9ad83419c74316c9f53167935d9/preview-400.c0a13b669504.jpg
+        sha256: c0a13b669504702c93aa51ba83ec3b391c8dbffc715ca4e4cd0920f1a4e7339e
+        mime: image/jpeg
+        bytes: 48495
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

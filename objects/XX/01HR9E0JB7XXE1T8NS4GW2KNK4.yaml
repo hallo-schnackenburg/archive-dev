@@ -1,0 +1,41 @@
+id: 01HR9E0JB7XXE1T8NS4GW2KNK4
+type: document
+subtype: note
+title: Rechnung Wiese, Backhaus
+description: Zettel, Bleistift.
+date: 1907-12
+location: Lüchow, Deichstraße
+geocode:
+  lat: 53.0925
+  lon: 11.4739
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Garms
+  type: person
+  location: Gollensdorf
+language: de
+subjects:
+  - name: Dorfteich
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_w2knk4_001.tif
+    path: files/bb/56/bb563ab78735645e726aad90f80fc82dcff200f12147c14a77a94f3e8187e707/original.tif
+    sha256: bb563ab78735645e726aad90f80fc82dcff200f12147c14a77a94f3e8187e707
+    mime: image/tiff
+    bytes: 24717539
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bb/56/bb563ab78735645e726aad90f80fc82dcff200f12147c14a77a94f3e8187e707/preview-400.d3835b0f1fa9.jpg
+        sha256: d3835b0f1fa9bb2da1e54f4c1b95c2326570575414a3a61b558d665c17731e26
+        mime: image/jpeg
+        bytes: 44516
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

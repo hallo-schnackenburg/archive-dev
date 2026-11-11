@@ -1,0 +1,43 @@
+id: 01HRJ9QT70PATYTTS1D67BCFE4
+type: image
+subtype: plan
+title: Katasterblatt Gaede
+description: Mit handschriftlichen Ergänzungen.
+date: 1888-01
+location: Pretzier, Apotheke
+origin:
+  name: Jürgen Wöhlk
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok/Kasten 21/090
+subjects:
+  - name: Lotte Sievers
+    type: person
+parents:
+  - 01KQE2MVHCH023HXPRAKNXXJ2W
+  - 01JD1W7G8C9Y7RM5P61EE5M4CB
+files:
+  - role: main
+    original_name: scan_918.tif
+    path: files/71/dc/71dcf8673a146f48ed26fbcda1c1b8a31c0ddad86665f2e197d9d31cda857157/original.tif
+    sha256: 71dcf8673a146f48ed26fbcda1c1b8a31c0ddad86665f2e197d9d31cda857157
+    mime: image/tiff
+    bytes: 17591806
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/71/dc/71dcf8673a146f48ed26fbcda1c1b8a31c0ddad86665f2e197d9d31cda857157/preview-400.1e33c6782639.jpg
+        sha256: 1e33c67826399f69173a3eb0ca84d7ec5a7ce025da0c91ab4ac7e073add2ed7c
+        mime: image/jpeg
+        bytes: 78190
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

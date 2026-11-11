@@ -1,0 +1,35 @@
+id: 01GPBJMKMNYWYBSJ0YHZJKBPJN
+type: image
+subtype: print
+title: Postkarte Lanz, Feuerwehrhaus
+description: Postkarte, gelaufen 1904.
+date: "1885"
+location: Schnackenburg, Schulstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Schnackenburg
+    type: place
+files:
+  - role: main
+    original_name: scan_782.tif
+    path: files/0a/7e/0a7ec8a3d9d1df9df4ec153ed377f080ef64c1543f0bb60ddbe0eb6e16b2c80e/original.tif
+    sha256: 0a7ec8a3d9d1df9df4ec153ed377f080ef64c1543f0bb60ddbe0eb6e16b2c80e
+    mime: image/tiff
+    bytes: 23916093
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0a/7e/0a7ec8a3d9d1df9df4ec153ed377f080ef64c1543f0bb60ddbe0eb6e16b2c80e/preview-400.26f71da1aae4.jpg
+        sha256: 26f71da1aae4b2cc4fc2d7529d30e00c5098132c24fd1634c8f1e888375e2725
+        mime: image/jpeg
+        bytes: 54720
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

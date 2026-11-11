@@ -1,0 +1,48 @@
+id: 01G41A45JEVW0S5VB3ZSKGKS18
+type: image
+subtype: print
+title: Lithographie Sparkasse
+date: 1810~
+location: Lenzen, Tanzsaal
+geocode:
+  lat: 53.0146
+  lon: 11.5549
+  precision: town
+  source: osm
+origin:
+  name: Karl Tiedemann
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 18/012
+owner:
+  name: Dieter Nitschke
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Pretzier
+    type: place
+files:
+  - role: main
+    original_name: scan_993.tif
+    path: files/64/38/6438732bec5ffba5b825dfe8fc477a481fb19234375d61f4c31ec0ce8751f564/original.tif
+    sha256: 6438732bec5ffba5b825dfe8fc477a481fb19234375d61f4c31ec0ce8751f564
+    mime: image/tiff
+    bytes: 4544966
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/64/38/6438732bec5ffba5b825dfe8fc477a481fb19234375d61f4c31ec0ce8751f564/preview-400.347a59d06dc1.jpg
+        sha256: 347a59d06dc1b0104b032fbe93a362f1811ba3f275e3ad94fd8f106cbbd3309d
+        mime: image/jpeg
+        bytes: 30394
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

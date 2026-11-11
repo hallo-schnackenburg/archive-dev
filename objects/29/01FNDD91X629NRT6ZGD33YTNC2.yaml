@@ -1,0 +1,37 @@
+id: 01FNDD91X629NRT6ZGD33YTNC2
+type: image
+subtype: plan
+title: Bauplan Poststelle 2000
+date: 2000~
+location: Bömenzien, Dorfteich
+origin:
+  name: Lotte Gaede
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Ilse Brandt
+    type: person
+  - name: Heinrich Wegner
+    type: person
+parents:
+  - 01JQ24JYM14XMX215Z8SCN1PS1
+files:
+  - role: main
+    original_name: scan_072.tif
+    path: files/dd/51/dd510af3e5902168b242a49ed2d0698618fb52a8df9a1c8825d3b4d58fadb301/original.tif
+    sha256: dd510af3e5902168b242a49ed2d0698618fb52a8df9a1c8825d3b4d58fadb301
+    mime: image/tiff
+    bytes: 27102478
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/dd/51/dd510af3e5902168b242a49ed2d0698618fb52a8df9a1c8825d3b4d58fadb301/preview-400.ed3557106b09.jpg
+        sha256: ed3557106b097e6cfc27fa41a242460f850fd183a702a6965a47058517acd713
+        mime: image/jpeg
+        bytes: 26495
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

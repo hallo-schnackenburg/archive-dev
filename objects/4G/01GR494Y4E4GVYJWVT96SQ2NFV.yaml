@@ -1,0 +1,41 @@
+id: 01GR494Y4E4GVYJWVT96SQ2NFV
+type: image
+subtype: plan
+title: Deichplan Dömitz bis Seedorf
+description: Tusche auf Transparentpapier.
+date: "1790"
+location: Holtorf, Mühle
+origin:
+  name: Fritz Lüders
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Backhaus
+    type: building
+  - name: Konfirmation 1790
+    type: event
+files:
+  - role: main
+    original_name: scan_752.tif
+    path: files/bf/71/bf71f294e8608042fc0bdfa3ee8dc4cbd3dcc6bc868124ef820e2ac71a185da1/original.tif
+    sha256: bf71f294e8608042fc0bdfa3ee8dc4cbd3dcc6bc868124ef820e2ac71a185da1
+    mime: image/tiff
+    bytes: 25765248
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bf/71/bf71f294e8608042fc0bdfa3ee8dc4cbd3dcc6bc868124ef820e2ac71a185da1/preview-400.ff735eaae180.jpg
+        sha256: ff735eaae180ab2d85457f28470a2e6e48c62491aaa7e2720806e357512ebd69
+        mime: image/jpeg
+        bytes: 47141
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

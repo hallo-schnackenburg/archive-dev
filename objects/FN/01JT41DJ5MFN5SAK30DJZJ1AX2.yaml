@@ -1,0 +1,36 @@
+id: 01JT41DJ5MFN5SAK30DJZJ1AX2
+type: image
+subtype: photo
+title: Grenzöffnung 1919
+description: Farbfoto, leicht verblasst.
+date: "1919"
+origin:
+  name: Käthe Lemke
+  type: person
+  location: Laase
+subjects:
+  - name: Heinrich Cohrs
+    type: person
+parents:
+  - 01EYD0F18CY2V0SS2SY7TJVC0D
+  - 01EV0D4XTDHPDC62G2HMCAGK8D
+files:
+  - role: main
+    original_name: IMG_9218.jpg
+    path: files/08/d9/08d9c4633f7671ba88e543de92c97a0caec06b96bf06a50f97efc1aab711792b/original.jpg
+    sha256: 08d9c4633f7671ba88e543de92c97a0caec06b96bf06a50f97efc1aab711792b
+    mime: image/jpeg
+    bytes: 26200645
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/08/d9/08d9c4633f7671ba88e543de92c97a0caec06b96bf06a50f97efc1aab711792b/preview-400.fae7ff256e18.jpg
+        sha256: fae7ff256e18476e74abddac7b077855df835703e845d72dc6e3e41fac1c822b
+        mime: image/jpeg
+        bytes: 82687
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

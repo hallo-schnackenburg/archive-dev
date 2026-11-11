@@ -1,0 +1,41 @@
+id: 01KHBXKPW7B6KASQD52SQ29Q5C
+type: image
+subtype: photo
+title: Kirmes 1985
+description: Farbfoto, leicht verblasst.
+date: 1985-06-27
+location: Kapern, Schulstraße
+origin:
+  name: Fritz Lindemann
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Bahnhof
+    type: building
+  - name: Konfirmation 1985
+    type: event
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01K2N0VJGKQKN7XPNR7CJ9ZRGF
+  - 01JAT6399B3E9Z9P00A12BJSFT
+files:
+  - role: main
+    original_name: DSC5031.jpg
+    path: files/b1/9d/b19db2e51ceb24caf43063bce257973369aeec71384308a11fc975e600f0e871/original.jpg
+    sha256: b19db2e51ceb24caf43063bce257973369aeec71384308a11fc975e600f0e871
+    mime: image/jpeg
+    bytes: 11961280
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b1/9d/b19db2e51ceb24caf43063bce257973369aeec71384308a11fc975e600f0e871/preview-400.2d09e7e83f4b.jpg
+        sha256: 2d09e7e83f4b5b555ba3c8f8c099dd2c92799f1475d905446dc8a85e66caf1b1
+        mime: image/jpeg
+        bytes: 20228
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

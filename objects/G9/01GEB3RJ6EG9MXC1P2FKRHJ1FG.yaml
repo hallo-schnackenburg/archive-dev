@@ -1,0 +1,42 @@
+id: 01GEB3RJ6EG9MXC1P2FKRHJ1FG
+type: image
+subtype: photo
+title: Rudolf Rieke vor dem Gutshaus
+description: Farbfoto, leicht verblasst.
+date: 1916-03-24
+location: Dömitz, Fähranleger
+origin:
+  name: Otto Rieke
+  type: person
+  location: Pretzier
+owner:
+  name: Friedrich Schwarz
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Brückeneinweihung 1916
+    type: event
+  - name: Kirmes 1916
+    type: event
+files:
+  - role: main
+    original_name: DSC0197.jpg
+    path: files/89/a8/89a8f86063457e492fe5c6421c9f37f15ee65a374061e297b2b7261e070b7707/original.jpg
+    sha256: 89a8f86063457e492fe5c6421c9f37f15ee65a374061e297b2b7261e070b7707
+    mime: image/jpeg
+    bytes: 18624509
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/89/a8/89a8f86063457e492fe5c6421c9f37f15ee65a374061e297b2b7261e070b7707/preview-400.475a5da721a5.jpg
+        sha256: 475a5da721a5022c94b3c31e2e9fc24c61f656ed9c780391a88223133687552a
+        mime: image/jpeg
+        bytes: 28233
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

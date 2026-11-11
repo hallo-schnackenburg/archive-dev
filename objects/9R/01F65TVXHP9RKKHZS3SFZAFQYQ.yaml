@@ -1,0 +1,31 @@
+id: 01F65TVXHP9RKKHZS3SFZAFQYQ
+type: image
+subtype: plan
+title: Grundriss Scheune
+description: Tusche auf Transparentpapier.
+date: "1921"
+location: Pretzier, Kirchstraße
+owner:
+  name: Hans Krüger
+  type: person
+  note: Leihgabe
+files:
+  - role: main
+    original_name: scan_517.tif
+    path: files/a4/77/a477643876e78b86d30a7c4159020cf39b9e42746949b12bb7e1885ad1a108e4/original.tif
+    sha256: a477643876e78b86d30a7c4159020cf39b9e42746949b12bb7e1885ad1a108e4
+    mime: image/tiff
+    bytes: 13602633
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a4/77/a477643876e78b86d30a7c4159020cf39b9e42746949b12bb7e1885ad1a108e4/preview-400.4471c64715af.jpg
+        sha256: 4471c64715afc9b57b323bed01ef75e22fc8a1362c6406cddc53dc86b78a794a
+        mime: image/jpeg
+        bytes: 76244
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

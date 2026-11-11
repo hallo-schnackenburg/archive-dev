@@ -1,0 +1,31 @@
+id: 01J5D89FTN8RSPRPCYMZQ6TA2N
+type: image
+subtype: plan
+title: Deichplan Gartow bis Gartow
+description: Mit handschriftlichen Ergänzungen.
+date: "1903"
+location: Pretzier, Kirchstraße
+origin:
+  name: Helga Lemke
+  type: person
+  location: Brünkendorf
+files:
+  - role: main
+    original_name: scan_905.tif
+    path: files/ef/4f/ef4fd6fe4ba89c5567b90b30f0dc6954e7ab4dc259a4a324acc310a272cf9453/original.tif
+    sha256: ef4fd6fe4ba89c5567b90b30f0dc6954e7ab4dc259a4a324acc310a272cf9453
+    mime: image/tiff
+    bytes: 11621305
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ef/4f/ef4fd6fe4ba89c5567b90b30f0dc6954e7ab4dc259a4a324acc310a272cf9453/preview-400.d305301ef186.jpg
+        sha256: d305301ef1868c96c0c1800ab8627b859b18110f1d670c6208338920429d8786
+        mime: image/jpeg
+        bytes: 59551
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01H6D3PVRDSYF7NYQCCNTB5A7C
+type: image
+subtype: photo
+title: Einschulung 1984
+date: "1984"
+location: Restorf, Schulstraße
+origin:
+  name: Walter Matthies
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 8/003
+subjects:
+  - name: Wilhelm Meyer
+    type: person
+  - name: Wittenberge
+    type: place
+  - name: Einschulung 1984
+    type: event
+parents:
+  - 01KXD1F75H1JZH7SDYYBNHXZ0A
+files:
+  - role: main
+    original_name: scan_435.tif
+    path: files/a2/c1/a2c15d663bc03736d110b606862abdd39b2dc9b2b5a92b5f116c8987c0e0f118/original.tif
+    sha256: a2c15d663bc03736d110b606862abdd39b2dc9b2b5a92b5f116c8987c0e0f118
+    mime: image/tiff
+    bytes: 3814915
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a2/c1/a2c15d663bc03736d110b606862abdd39b2dc9b2b5a92b5f116c8987c0e0f118/preview-400.35f127670582.jpg
+        sha256: 35f127670582c375519aa77ac0397b0ecb99a1d53caaf035d313d3f11807c8ce
+        mime: image/jpeg
+        bytes: 61052
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

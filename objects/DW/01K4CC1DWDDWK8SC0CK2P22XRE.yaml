@@ -1,0 +1,39 @@
+id: 01K4CC1DWDDWK8SC0CK2P22XRE
+type: image
+subtype: plan
+title: Deichplan Bömenzien bis Gorleben
+description: Mit handschriftlichen Ergänzungen.
+date: 1939-03-10
+origin:
+  name: Marta Schulz
+  type: person
+  location: Laase
+subjects:
+  - name: Schützenhaus
+    type: building
+  - name: Kirche St. Johannis
+    type: building
+  - name: Marta Lemke
+    type: person
+parents:
+  - 01JD1W7G8C9Y7RM5P61EE5M4CB
+files:
+  - role: main
+    original_name: scan_870.tif
+    path: files/f8/a6/f8a6abaeb96ffc6f545405932570c80acbde9f179095dab408c69c55193d3947/original.tif
+    sha256: f8a6abaeb96ffc6f545405932570c80acbde9f179095dab408c69c55193d3947
+    mime: image/tiff
+    bytes: 3064943
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f8/a6/f8a6abaeb96ffc6f545405932570c80acbde9f179095dab408c69c55193d3947/preview-400.8965f544af92.jpg
+        sha256: 8965f544af92d68d9f2540739c06ec67a6760b10c9d11ea2390019d872b7d6f6
+        mime: image/jpeg
+        bytes: 83527
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

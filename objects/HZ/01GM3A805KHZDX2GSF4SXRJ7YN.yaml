@@ -1,0 +1,47 @@
+id: 01GM3A805KHZDX2GSF4SXRJ7YN
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Beerdigung, Nienwalde"
+description: Federzeichnung, laviert.
+date: 1961/1968
+location: Kapern, Burgstraße
+geocode:
+  lat: 52.988
+  lon: 11.549
+  precision: region
+  source: osm
+origin:
+  name: Anni Behrens
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 9/049
+subjects:
+  - name: Brückeneinweihung 1961
+    type: event
+parents:
+  - 01HRVYM45E9Q1MV4SZNSP2VQV9
+files:
+  - role: main
+    original_name: scan_016.tif
+    path: files/b6/dc/b6dc64eecbe456b7e90743cf518ef345e484eaa6d1b9e4539ed8de2a74e6fd8c/original.tif
+    sha256: b6dc64eecbe456b7e90743cf518ef345e484eaa6d1b9e4539ed8de2a74e6fd8c
+    mime: image/tiff
+    bytes: 25337784
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b6/dc/b6dc64eecbe456b7e90743cf518ef345e484eaa6d1b9e4539ed8de2a74e6fd8c/preview-400.b6a87c29e52f.jpg
+        sha256: b6a87c29e52f2af73b2fbba12826637ac1241a8c4f3dd5d27b5b26751b1e862e
+        mime: image/jpeg
+        bytes: 58640
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

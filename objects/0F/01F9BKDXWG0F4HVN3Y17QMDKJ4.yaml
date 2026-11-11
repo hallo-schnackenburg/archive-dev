@@ -1,0 +1,36 @@
+id: 01F9BKDXWG0F4HVN3Y17QMDKJ4
+type: image
+subtype: photo
+title: Brunnen am Markt in Wittenberge
+description: Zu sehen sind Windmühle und Elbdeich.
+date: 1905-12-07
+location: Holtorf, Deichstraße
+geocode:
+  lat: 52.9735
+  lon: 11.5361
+  precision: street
+  source: osm
+origin:
+  name: Frieda Gerdes
+  type: person
+  location: Restorf
+files:
+  - role: main
+    original_name: IMG_6839.jpg
+    path: files/28/3c/283c64ab63a004492a8615fd645bb16ac866af84e6b8873a4b81e31f98fab6d8/original.jpg
+    sha256: 283c64ab63a004492a8615fd645bb16ac866af84e6b8873a4b81e31f98fab6d8
+    mime: image/jpeg
+    bytes: 6778774
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/28/3c/283c64ab63a004492a8615fd645bb16ac866af84e6b8873a4b81e31f98fab6d8/preview-400.31429af709bd.jpg
+        sha256: 31429af709bd469e38f7305ef43d9f339d48d5e8704e66c7972ae9b03e187eaa
+        mime: image/jpeg
+        bytes: 39931
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

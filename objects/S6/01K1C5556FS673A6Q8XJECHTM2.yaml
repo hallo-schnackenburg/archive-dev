@@ -1,0 +1,38 @@
+id: 01K1C5556FS673A6Q8XJECHTM2
+type: image
+subtype: photo
+title: Lange Straße, Ecke Hinter den Höfen
+description: Farbfoto, leicht verblasst.
+date: 1909-03-26
+location: Salzwedel, Burgstraße
+geocode:
+  lat: 53.0402
+  lon: 11.5989
+  precision: region
+  source: osm
+origin:
+  name: Walter Prieß
+  type: person
+  location: Bömenzien
+parents:
+  - 01F1C76VVA9D0FJCEKQVNQPP86
+files:
+  - role: main
+    original_name: scan_838.tif
+    path: files/8c/64/8c64abc9fefe689692659757388693db77a8578e49d3e4dcd67bd74593d15b60/original.tif
+    sha256: 8c64abc9fefe689692659757388693db77a8578e49d3e4dcd67bd74593d15b60
+    mime: image/tiff
+    bytes: 8012508
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/8c/64/8c64abc9fefe689692659757388693db77a8578e49d3e4dcd67bd74593d15b60/preview-400.5e6eb54cb6a9.jpg
+        sha256: 5e6eb54cb6a9d42e3a9598ea8dff54602249423536d32bc9bcc36b27ea0b639f
+        mime: image/jpeg
+        bytes: 75021
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

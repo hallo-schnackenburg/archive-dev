@@ -1,0 +1,35 @@
+id: 01K2ZJSPHVK4VMSYSHVYNP25RB
+type: image
+subtype: photo
+title: Gutshaus in Gartow
+date: 1942-04-12
+location: Kapern, Deichstraße
+origin:
+  name: Dieter Lemke
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Hochwasser 1942
+    type: event
+  - name: August Wegner
+    type: person
+files:
+  - role: main
+    original_name: scan_349.tif
+    path: files/d5/59/d55961361386eb9eebfee67ccf42059814ca8bb3428911651228a3082229a627/original.tif
+    sha256: d55961361386eb9eebfee67ccf42059814ca8bb3428911651228a3082229a627
+    mime: image/tiff
+    bytes: 15431041
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d5/59/d55961361386eb9eebfee67ccf42059814ca8bb3428911651228a3082229a627/preview-400.2028e016dc35.jpg
+        sha256: 2028e016dc35572041f9665ecce2213bb16d9f2385b24744995476219ad1a21f
+        mime: image/jpeg
+        bytes: 87741
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

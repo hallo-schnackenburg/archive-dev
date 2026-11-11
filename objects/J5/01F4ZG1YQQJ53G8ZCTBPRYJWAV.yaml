@@ -1,0 +1,36 @@
+id: 01F4ZG1YQQJ53G8ZCTBPRYJWAV
+type: image
+subtype: photo
+title: Gustav Ahrens, Porträt
+description: Abzug im Format 9 x 13 cm.
+location: Brünkendorf, Am Elbdeich
+geocode:
+  lat: 53.0452
+  lon: 11.4736
+  precision: town
+  source: osm
+subjects:
+  - name: Beerdigung 1962
+    type: event
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: IMG_8318.jpg
+    path: files/29/00/2900f25662315ca7660771491b3b1607ca1ebb8d11f709b5132db983f59d21c2/original.jpg
+    sha256: 2900f25662315ca7660771491b3b1607ca1ebb8d11f709b5132db983f59d21c2
+    mime: image/jpeg
+    bytes: 18489311
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/29/00/2900f25662315ca7660771491b3b1607ca1ebb8d11f709b5132db983f59d21c2/preview-400.7c22694f0874.jpg
+        sha256: 7c22694f08744edc7cfdd4fdd42960bae8feabef3862f184e0e0a61080743291
+        mime: image/jpeg
+        bytes: 85054
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

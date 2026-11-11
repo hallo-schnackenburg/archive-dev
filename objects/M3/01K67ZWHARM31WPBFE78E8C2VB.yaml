@@ -1,0 +1,42 @@
+id: 01K67ZWHARM31WPBFE78E8C2VB
+type: document
+subtype: note
+title: Kassenzettel Schlachterei, Holtorf
+description: Zettel, Bleistift.
+location: Hitzacker, Windmühle
+origin:
+  name: August Kuhlmann
+  type: person
+  location: Dömitz
+language: de
+subjects:
+  - name: Poststelle
+    type: building
+  - name: Emma Wöhlk
+    type: person
+  - name: Wootz
+    type: place
+parents:
+  - 01G2WJPJPQXBE3BT808Y4JJJ99
+  - 01H683J429KTWPMPPF52JN3Q9J
+files:
+  - role: page
+    num: 1
+    original_name: note_e8c2vb_001.tif
+    path: files/c4/d7/c4d7389474fba40136c4f505f1a55e3446c01e6071fd7e7dd633eabff24dca2f/original.tif
+    sha256: c4d7389474fba40136c4f505f1a55e3446c01e6071fd7e7dd633eabff24dca2f
+    mime: image/tiff
+    bytes: 11092998
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c4/d7/c4d7389474fba40136c4f505f1a55e3446c01e6071fd7e7dd633eabff24dca2f/preview-400.04d14dc485dd.jpg
+        sha256: 04d14dc485dd818d95284a9d2043ece1ac4956b2a4deab142a1fd014a646ed51
+        mime: image/jpeg
+        bytes: 88659
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01GJ3MASDENRN8HR62BKFKYCC4
+type: image
+subtype: photo
+title: Konfirmation 1949
+date: 1949-11-06
+location: Cumlosen, Schmiede
+geocode:
+  lat: 52.9312
+  lon: 11.69
+  precision: town
+  source: osm
+origin:
+  name: Klaus Voss
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Familie Neumann
+    type: person
+    location: Wustrow
+  reference: F 18/013
+subjects:
+  - name: Helga Matthies
+    type: person
+files:
+  - role: main
+    original_name: scan_397.tif
+    path: files/c9/8c/c98c1fc5abcc305457285a70ebd9b1042b1ff2c3f0a1bbb884274314201a5ecc/original.tif
+    sha256: c98c1fc5abcc305457285a70ebd9b1042b1ff2c3f0a1bbb884274314201a5ecc
+    mime: image/tiff
+    bytes: 6665363
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c9/8c/c98c1fc5abcc305457285a70ebd9b1042b1ff2c3f0a1bbb884274314201a5ecc/preview-400.8c7c81b7f0b0.jpg
+        sha256: 8c7c81b7f0b0aa5a73f67ae24124c02f8d780a8a8c6d2c837c4d9e93bc3917d5
+        mime: image/jpeg
+        bytes: 38918
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

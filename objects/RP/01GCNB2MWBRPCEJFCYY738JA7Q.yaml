@@ -1,0 +1,42 @@
+id: 01GCNB2MWBRPCEJFCYY738JA7Q
+type: image
+subtype: photo
+title: Fastnacht 1999
+date: 1999-12
+location: Lanz, Bahnhofstraße
+geocode:
+  lat: 53.0232
+  lon: 11.6117
+  precision: street
+  source: osm
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Kindergartenfest 1999
+    type: event
+  - name: Frieda Wegner
+    type: person
+  - name: Erika Wöhlk
+    type: person
+files:
+  - role: main
+    original_name: P2884.jpg
+    path: files/63/b4/63b433470ab3510d530e608a2ed6931add92d123015079db3e3ac60b581ef5bf/original.jpg
+    sha256: 63b433470ab3510d530e608a2ed6931add92d123015079db3e3ac60b581ef5bf
+    mime: image/jpeg
+    bytes: 7542012
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/63/b4/63b433470ab3510d530e608a2ed6931add92d123015079db3e3ac60b581ef5bf/preview-400.0aeefee9550b.jpg
+        sha256: 0aeefee9550b923db41d5c4dce11ce806d922be59ff7b317b59399699d44f3bf
+        mime: image/jpeg
+        bytes: 26763
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

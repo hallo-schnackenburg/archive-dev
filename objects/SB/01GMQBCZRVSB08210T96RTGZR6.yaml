@@ -1,0 +1,42 @@
+id: 01GMQBCZRVSB08210T96RTGZR6
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Konfirmation, Zadrau"
+date: 1834-07-04
+location: Gollensdorf, Gärtnerei
+geocode:
+  lat: 53.0798
+  lon: 11.6256
+  precision: exact
+  source: osm
+origin:
+  name: Ilse Meyer
+  type: person
+  location: Arendsee
+subjects:
+  - name: Käthe Jeß
+    type: person
+  - name: Wustrow
+    type: place
+parents:
+  - 01K839EZHAYF5H4HB4TXJTTJWF
+files:
+  - role: main
+    original_name: scan_891.tif
+    path: files/b3/f1/b3f177121974c71cfc04d4823688a549fe7eb2658fafbcbbfbb136d76e18fc05/original.tif
+    sha256: b3f177121974c71cfc04d4823688a549fe7eb2658fafbcbbfbb136d76e18fc05
+    mime: image/tiff
+    bytes: 3410414
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/f1/b3f177121974c71cfc04d4823688a549fe7eb2658fafbcbbfbb136d76e18fc05/preview-400.d551051a6102.jpg
+        sha256: d551051a6102517456a25591e187332978498b9b08e349ee8d106b349b45dd07
+        mime: image/jpeg
+        bytes: 63664
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

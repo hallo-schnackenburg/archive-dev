@@ -1,0 +1,44 @@
+id: 01FN831SDGVSWN8FGJ9KQ46RYR
+type: image
+subtype: photo
+title: Blick vom Molkerei auf das Wassermühle
+description: Aufnahme von Rudolf Heuer.
+date: 1908/1914
+location: Lüchow, Deichstraße
+geocode:
+  lat: 53.0217
+  lon: 11.6737
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Familie Schwarz
+    type: person
+    location: Gollensdorf
+  reference: Slg/Album 23/046
+  note: Planschrank, Fach 3
+subjects:
+  - name: Ziegelei
+    type: building
+parents:
+  - 01H6GZ1A9PWXWTSCHDX2966H18
+files:
+  - role: main
+    original_name: P7835.jpg
+    path: files/24/be/24be153c31669b7c55f263d525c7af042465aed895516cb72f3527b06fb7102b/original.jpg
+    sha256: 24be153c31669b7c55f263d525c7af042465aed895516cb72f3527b06fb7102b
+    mime: image/jpeg
+    bytes: 13710030
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/24/be/24be153c31669b7c55f263d525c7af042465aed895516cb72f3527b06fb7102b/preview-400.3be9c6eaf615.jpg
+        sha256: 3be9c6eaf6154b04ddccc3b1b90070e535108cacda58b1c3951aa33d811b47fd
+        mime: image/jpeg
+        bytes: 49691
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

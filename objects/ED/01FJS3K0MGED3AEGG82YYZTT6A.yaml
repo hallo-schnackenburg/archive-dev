@@ -1,0 +1,37 @@
+id: 01FJS3K0MGED3AEGG82YYZTT6A
+type: image
+subtype: plan
+title: Bauplan Gasthof Meyer 1853
+description: Maßstab 1:1000.
+date: 1853-07
+location: Gollensdorf, Apotheke
+origin:
+  name: Elfriede Sievers
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Kartoffelernte 1853
+    type: event
+parents:
+  - 01JF4KWKVRQTHC2EW4F1D004T1
+  - 01GWG9662GMDBHVAK54DXCMWG2
+files:
+  - role: main
+    original_name: scan_206.tif
+    path: files/42/86/4286ec2df27e1762a30a26b85a29a0b68e80e94655511e8d364ccbd2d0412150/original.tif
+    sha256: 4286ec2df27e1762a30a26b85a29a0b68e80e94655511e8d364ccbd2d0412150
+    mime: image/tiff
+    bytes: 5682377
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/42/86/4286ec2df27e1762a30a26b85a29a0b68e80e94655511e8d364ccbd2d0412150/preview-400.1a32dc22e455.jpg
+        sha256: 1a32dc22e455297bfb8e72772bd213c4418379988deefa83f18ce7f739504c33
+        mime: image/jpeg
+        bytes: 54133
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

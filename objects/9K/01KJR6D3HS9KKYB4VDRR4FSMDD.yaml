@@ -1,0 +1,45 @@
+id: 01KJR6D3HS9KKYB4VDRR4FSMDD
+type: image
+subtype: photo
+title: Emma Schulz, Porträt
+date: "1924"
+location: Holtorf, Lange Straße
+origin:
+  name: Manfred Dierks
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  note: Schrank B
+owner:
+  name: Lotte Brandt
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Kindergarten
+    type: building
+  - name: Beerdigung 1924
+    type: event
+files:
+  - role: main
+    original_name: P1713.jpg
+    path: files/ba/26/ba26f7d5d169772edb1dbbf0605037d6fe65575ce4e301a16f1e5091df52199f/original.jpg
+    sha256: ba26f7d5d169772edb1dbbf0605037d6fe65575ce4e301a16f1e5091df52199f
+    mime: image/jpeg
+    bytes: 8327665
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ba/26/ba26f7d5d169772edb1dbbf0605037d6fe65575ce4e301a16f1e5091df52199f/preview-400.5893c87a0ac7.jpg
+        sha256: 5893c87a0ac786e2369f791ef613b9d12dc4398b80a0f41cd7d97a950349a59c
+        mime: image/jpeg
+        bytes: 84957
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

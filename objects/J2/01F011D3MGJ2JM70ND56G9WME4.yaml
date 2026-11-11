@@ -1,0 +1,43 @@
+id: 01F011D3MGJ2JM70ND56G9WME4
+type: image
+subtype: plan
+title: Bauplan Dorfschule 1847
+description: Mit handschriftlichen Ergänzungen.
+location: Schnackenburg, Gartenstraße
+geocode:
+  lat: 53.0233
+  lon: 11.6695
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Familie Wiegmann
+    type: person
+    location: Lanz
+  reference: Pro 29/157
+  note: Planschrank, Fach 3
+subjects:
+  - name: Wilhelm Wiegmann
+    type: person
+  - name: Irmgard Harms
+    type: person
+files:
+  - role: main
+    original_name: scan_960.tif
+    path: files/93/f7/93f74499f958d89eecf1510170539eb92cf698b1ecf2c74e091958474f1da614/original.tif
+    sha256: 93f74499f958d89eecf1510170539eb92cf698b1ecf2c74e091958474f1da614
+    mime: image/tiff
+    bytes: 23607097
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/93/f7/93f74499f958d89eecf1510170539eb92cf698b1ecf2c74e091958474f1da614/preview-400.781bd03ec979.jpg
+        sha256: 781bd03ec979839da78cdc01e9fcaee56ee12915de7410422f4d59ece3635dea
+        mime: image/jpeg
+        bytes: 63570
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

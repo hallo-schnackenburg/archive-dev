@@ -1,0 +1,46 @@
+id: 01JG155XX9XA2WW3TQA64GRRF8
+type: image
+subtype: plan
+title: Bauplan Tanzsaal 1941
+description: Maßstab 1:1000.
+date: 1941-04-12
+location: Hitzacker, Apotheke
+origin:
+  name: Käthe Dierks
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Kindergartenfest 1941
+    type: event
+  - name: Schmiede
+    type: building
+parents:
+  - 01F1C76VVA9D0FJCEKQVNQPP86
+  - 01JMT0ZRHTVSQ2MA5HJ6W5MNW7
+files:
+  - role: main
+    original_name: scan_362.tif
+    path: files/79/3f/793f3ab6635d3ad1a5bf846e196f2b4573d52d6f64c2a4a884179eac389ef046/original.tif
+    sha256: 793f3ab6635d3ad1a5bf846e196f2b4573d52d6f64c2a4a884179eac389ef046
+    mime: image/tiff
+    bytes: 13600761
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/79/3f/793f3ab6635d3ad1a5bf846e196f2b4573d52d6f64c2a4a884179eac389ef046/preview-400.36463fdad7f1.jpg
+        sha256: 36463fdad7f17e2e6cc5fe3243c46e8135a203f5da3fecc5c7a5dbcbd2994114
+        mime: image/jpeg
+        bytes: 42961
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

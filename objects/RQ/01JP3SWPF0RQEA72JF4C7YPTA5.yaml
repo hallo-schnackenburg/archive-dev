@@ -1,0 +1,57 @@
+id: 01JP3SWPF0RQEA72JF4C7YPTA5
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Gartow 1869
+description: Handschriftlich in Sütterlin.
+date: 1869-08-12
+location: Seedorf, Mühlenweg
+language: de
+original:
+  holder:
+    name: Familie Schwarz
+    type: person
+    location: Nienwalde
+  reference: F/Kasten 26/012
+parents:
+  - 01HX63HPJQWPA2R8TSS7RY7SQZ
+files:
+  - role: page
+    num: 1
+    original_name: protocol_7ypta5_001.tif
+    path: files/94/b9/94b96a9288adafdb2284f9452d4dbfe52c132ff7f379c27835a55d0bced766a7/original.tif
+    sha256: 94b96a9288adafdb2284f9452d4dbfe52c132ff7f379c27835a55d0bced766a7
+    mime: image/tiff
+    bytes: 20610533
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/94/b9/94b96a9288adafdb2284f9452d4dbfe52c132ff7f379c27835a55d0bced766a7/preview-400.8d6ae8d98b60.jpg
+        sha256: 8d6ae8d98b6068ba80e5b4564f26310a3927dd4f5be5abab74a55e31e6ef4e68
+        mime: image/jpeg
+        bytes: 62167
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_7ypta5_002.tif
+    path: files/3c/90/3c906e447c54d3b20d5897fbe879485c2cc70f7aec3df33fc41c26e01159e31e/original.tif
+    sha256: 3c906e447c54d3b20d5897fbe879485c2cc70f7aec3df33fc41c26e01159e31e
+    mime: image/tiff
+    bytes: 4884608
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3c/90/3c906e447c54d3b20d5897fbe879485c2cc70f7aec3df33fc41c26e01159e31e/preview-400.fe4d3a9195da.jpg
+        sha256: fe4d3a9195da1ed87543be766c61467fa4d59464e93248d320ef1ba4fb0a919d
+        mime: image/jpeg
+        bytes: 64163
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

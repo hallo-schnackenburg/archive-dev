@@ -1,0 +1,41 @@
+id: 01EWKXH3D4T4EYGF50FNM8RGJX
+type: image
+subtype: drawing
+title: Skizze Schnackenburg, Hafenstraße, Pretzier
+date: 1883/1893
+location: Bömenzien, Badestelle
+origin:
+  name: Walter Behrens
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Grenzöffnung 1883
+    type: event
+files:
+  - role: main
+    original_name: scan_104.tif
+    path: files/39/a8/39a8d6c161d0f9f6f9719a7e7c3b154bbf6ee85214da6d13ce11c34cface350c/original.tif
+    sha256: 39a8d6c161d0f9f6f9719a7e7c3b154bbf6ee85214da6d13ce11c34cface350c
+    mime: image/tiff
+    bytes: 10445354
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/39/a8/39a8d6c161d0f9f6f9719a7e7c3b154bbf6ee85214da6d13ce11c34cface350c/preview-400.6e27e150b1a3.jpg
+        sha256: 6e27e150b1a304e02a670370c26c6fb2af755e17839b78463dc485b1b107fcef
+        mime: image/jpeg
+        bytes: 39140
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

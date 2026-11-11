@@ -1,0 +1,34 @@
+id: 01GPH42FB8QFBQ896G8TDSS5XX
+type: image
+subtype: drawing
+title: Skizze Seedorf, Bahnhofstraße
+date: 1868-07
+origin:
+  name: August Schulz
+  type: person
+  location: Kapern
+subjects:
+  - name: Gemeindehaus
+    type: building
+parents:
+  - 01KWT1T4KB5Q91S1TWXMCRMNCD
+files:
+  - role: main
+    original_name: scan_230.tif
+    path: files/6e/75/6e75d27a08409efe4f19fbd3db17a637c82152c4899471c60001da82845c5d7b/original.tif
+    sha256: 6e75d27a08409efe4f19fbd3db17a637c82152c4899471c60001da82845c5d7b
+    mime: image/tiff
+    bytes: 15120869
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/75/6e75d27a08409efe4f19fbd3db17a637c82152c4899471c60001da82845c5d7b/preview-400.9e47795209e3.jpg
+        sha256: 9e47795209e3a76ed9bfe0d2f2250339db59b1480573c7e6acbe80fae79ee4aa
+        mime: image/jpeg
+        bytes: 47670
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

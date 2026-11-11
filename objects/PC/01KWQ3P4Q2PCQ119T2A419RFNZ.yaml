@@ -1,0 +1,39 @@
+id: 01KWQ3P4Q2PCQ119T2A419RFNZ
+type: image
+subtype: plan
+title: Deichplan Lanz bis Arendsee
+description: Mit handschriftlichen Ergänzungen.
+date: 1800-12-02
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 38/228
+  note: Mappe 12
+subjects:
+  - name: Heuberge
+    type: building
+parents:
+  - 01H36RTMJEX4S0EGJJ5ANSCJNW
+  - 01JN30QK7AA815KKZN3ATXX5V3
+files:
+  - role: main
+    original_name: scan_789.tif
+    path: files/54/58/5458be9b193de8934702a8dfb6f63df6675f2ac2bc52fb344d22cbbc2c38937d/original.tif
+    sha256: 5458be9b193de8934702a8dfb6f63df6675f2ac2bc52fb344d22cbbc2c38937d
+    mime: image/tiff
+    bytes: 12892278
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/54/58/5458be9b193de8934702a8dfb6f63df6675f2ac2bc52fb344d22cbbc2c38937d/preview-400.9b47d20e6ea7.jpg
+        sha256: 9b47d20e6ea767365eade3d5baaa94f3cfa8535fd2a3e5c88c0a0d0b0cc7983e
+        mime: image/jpeg
+        bytes: 74332
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

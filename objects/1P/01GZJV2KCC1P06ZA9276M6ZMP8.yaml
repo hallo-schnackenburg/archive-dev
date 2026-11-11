@@ -1,0 +1,49 @@
+id: 01GZJV2KCC1P06ZA9276M6ZMP8
+type: document
+subtype: letter
+title: Korrespondenz Emma Voss
+description: Maschinenschriftlich, unterschrieben.
+date: 1958-05-13
+location: Arendsee, Dorfladen
+geocode:
+  lat: 53.0387
+  lon: 11.6856
+  precision: exact
+  source: osm
+recipient: Frieda Krüger
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Weihnachtsmarkt 1958
+    type: event
+  - name: Gutshaus
+    type: building
+parents:
+  - 01FJ86NA6W3C03D1PBGTPFRX8T
+files:
+  - role: page
+    num: 1
+    original_name: letter_m6zmp8_001.tif
+    path: files/e9/be/e9bea5f7d6535f0253702678eab47009207319f2ff6ef29048f5a05efa7451a3/original.tif
+    sha256: e9bea5f7d6535f0253702678eab47009207319f2ff6ef29048f5a05efa7451a3
+    mime: image/tiff
+    bytes: 7194151
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e9/be/e9bea5f7d6535f0253702678eab47009207319f2ff6ef29048f5a05efa7451a3/preview-400.54217b8af468.jpg
+        sha256: 54217b8af468f6229c10d06dd6dede56f153151b818bb41421dee7274fe22b0a
+        mime: image/jpeg
+        bytes: 71954
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

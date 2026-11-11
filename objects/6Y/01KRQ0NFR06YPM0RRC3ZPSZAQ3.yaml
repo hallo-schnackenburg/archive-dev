@@ -1,0 +1,36 @@
+id: 01KRQ0NFR06YPM0RRC3ZPSZAQ3
+type: image
+subtype: photo
+title: Elbstraße, Ecke Schulstraße
+description: Abzug im Format 13 x 18 cm.
+date: 1920-08
+location: Rüterberg, Dorfschule
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 24/096
+subjects:
+  - name: Rüterberg
+    type: place
+files:
+  - role: main
+    original_name: scan_552.tif
+    path: files/31/82/31820a5e8614e86ad6b39ebfa2c62aa039056ef9a05a04b4b10fe648dece6d85/original.tif
+    sha256: 31820a5e8614e86ad6b39ebfa2c62aa039056ef9a05a04b4b10fe648dece6d85
+    mime: image/tiff
+    bytes: 21455204
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/31/82/31820a5e8614e86ad6b39ebfa2c62aa039056ef9a05a04b4b10fe648dece6d85/preview-400.89973486802a.jpg
+        sha256: 89973486802afaf56730b3d84e95602d7f4f63e6168d4cb68202488a2800eaa5
+        mime: image/jpeg
+        bytes: 81320
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

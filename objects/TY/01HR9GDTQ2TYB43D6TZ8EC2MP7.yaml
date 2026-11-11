@@ -1,0 +1,43 @@
+id: 01HR9GDTQ2TYB43D6TZ8EC2MP7
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Schützenfest, Havelberg"
+date: 193X
+location: Wootz, Bäckerei Lüders
+geocode:
+  lat: 53.0303
+  lon: 11.6738
+  precision: exact
+  source: osm
+origin:
+  name: Otto Brandt
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: F 22/345
+  note: Dachboden, Truhe
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v63449
+files:
+  - role: main
+    original_name: scan_959.tif
+    path: files/9e/4c/9e4c4487ac48481b61f0b7b72b5525901a2f98261e9280bd2e83d26b157f80bd/original.tif
+    sha256: 9e4c4487ac48481b61f0b7b72b5525901a2f98261e9280bd2e83d26b157f80bd
+    mime: image/tiff
+    bytes: 19206236
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9e/4c/9e4c4487ac48481b61f0b7b72b5525901a2f98261e9280bd2e83d26b157f80bd/preview-400.9a82b90c65a2.jpg
+        sha256: 9a82b90c65a2c0bedd455fb34bd033588bb9546873f6c460fc53b81e55228073
+        mime: image/jpeg
+        bytes: 74678
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

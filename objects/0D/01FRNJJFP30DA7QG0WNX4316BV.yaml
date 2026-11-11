@@ -1,0 +1,42 @@
+id: 01FRNJJFP30DA7QG0WNX4316BV
+type: image
+subtype: print
+title: "Kupferstich: Wustrow von der Elbseite, Wustrow"
+date: "1901"
+origin:
+  name: Irmgard Lemke
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 3/207
+subjects:
+  - name: Marta Zander
+    type: person
+  - name: Brückeneinweihung 1901
+    type: event
+  - name: Molkerei
+    type: building
+files:
+  - role: main
+    original_name: scan_263.tif
+    path: files/5c/d3/5cd3f153d7703405745a566671e4edf47fe97a707667ab662586c76cf6cb7a71/original.tif
+    sha256: 5cd3f153d7703405745a566671e4edf47fe97a707667ab662586c76cf6cb7a71
+    mime: image/tiff
+    bytes: 24981041
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5c/d3/5cd3f153d7703405745a566671e4edf47fe97a707667ab662586c76cf6cb7a71/preview-400.5149f3731a61.jpg
+        sha256: 5149f3731a6105a9b4018a159f667eac794bb35060f08c81d92bb8c2d1c711d8
+        mime: image/jpeg
+        bytes: 54532
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

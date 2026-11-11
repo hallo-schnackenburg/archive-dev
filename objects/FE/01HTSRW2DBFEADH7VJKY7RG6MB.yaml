@@ -1,0 +1,37 @@
+id: 01HTSRW2DBFEADH7VJKY7RG6MB
+type: image
+subtype: plan
+title: Bauplan Ladestraße 1832
+description: Tusche auf Transparentpapier.
+date: 1832-07
+origin:
+  name: Renate Meyer
+  type: person
+  location: Wustrow
+subjects:
+  - name: Hochzeit 1832
+    type: event
+  - name: Karl Lemke
+    type: person
+  - name: Ilse Brandt
+    type: person
+files:
+  - role: main
+    original_name: scan_181.tif
+    path: files/dd/b8/ddb8ae0491e809d75f50c38babed6782c119c58bcf846b7b2f4eddb49ea81bd9/original.tif
+    sha256: ddb8ae0491e809d75f50c38babed6782c119c58bcf846b7b2f4eddb49ea81bd9
+    mime: image/tiff
+    bytes: 17311612
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/dd/b8/ddb8ae0491e809d75f50c38babed6782c119c58bcf846b7b2f4eddb49ea81bd9/preview-400.93afcd4ae72a.jpg
+        sha256: 93afcd4ae72a377822da652a8856141fefeabe75aaf4e902da1cb1e8286c4d10
+        mime: image/jpeg
+        bytes: 64835
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

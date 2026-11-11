@@ -1,0 +1,45 @@
+id: 01F3X1YJ8TG75C3CYGZ7HMQM7W
+type: image
+subtype: drawing
+title: Apotheke, Aquarell, Dömitz
+date: 1829-08
+location: Gollensdorf, Gasthof Meyer
+geocode:
+  lat: 52.9478
+  lon: 11.6546
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 28/031
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Dorfkrug
+    type: building
+parents:
+  - 01FRHHN2TXE6MJ0TDGG4SGYAWP
+  - 01JN30QK7AA815KKZN3ATXX5V3
+files:
+  - role: main
+    original_name: scan_732.tif
+    path: files/66/87/66875fd0c1d15774e6c36211e0e83d4a2ec3738c625a5bc9c2cf0e2de2a20175/original.tif
+    sha256: 66875fd0c1d15774e6c36211e0e83d4a2ec3738c625a5bc9c2cf0e2de2a20175
+    mime: image/tiff
+    bytes: 3302936
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/66/87/66875fd0c1d15774e6c36211e0e83d4a2ec3738c625a5bc9c2cf0e2de2a20175/preview-400.605fd136d047.jpg
+        sha256: 605fd136d047ad84bbb34d904f6de5f4b1e8336bf8a7c454cf85eafcd50114c0
+        mime: image/jpeg
+        bytes: 29615
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

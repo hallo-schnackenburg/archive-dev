@@ -1,0 +1,72 @@
+id: 01HHS15WWEF2V9XZGZG7EED8SZ
+type: document
+subtype: note
+title: Rechnung Krüger, Sparkasse
+date: 1930?
+location: Gollensdorf, Lange Straße
+geocode:
+  lat: 53.0547
+  lon: 11.6747
+  precision: town
+  source: osm
+origin:
+  name: Hermann Meyer
+  type: person
+  location: Gülden
+language: nds
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F/Mappe 26/028
+owner:
+  name: Gerda Krüger
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Helga Brandt
+    type: person
+parents:
+  - 01K031Q9A4VAM2ZR0E2Y2SQX6S
+files:
+  - role: page
+    num: 1
+    original_name: note_eed8sz_001.tif
+    path: files/74/2c/742c91b5a4968cbd04d8c2d54a75ef51e0324af67a31f62a7ed38ec5a76f06ad/original.tif
+    sha256: 742c91b5a4968cbd04d8c2d54a75ef51e0324af67a31f62a7ed38ec5a76f06ad
+    mime: image/tiff
+    bytes: 14033590
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/74/2c/742c91b5a4968cbd04d8c2d54a75ef51e0324af67a31f62a7ed38ec5a76f06ad/preview-400.88a3e2fad29f.jpg
+        sha256: 88a3e2fad29f6f89623eab0a9ac9ef9b08a6ecfdc17bf54b68cce895485864a9
+        mime: image/jpeg
+        bytes: 58365
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_eed8sz_002.tif
+    path: files/f7/fd/f7fd6eab871ab9ba694a4feada7d1c8f840fb663eedd321b052ff3e273c3371c/original.tif
+    sha256: f7fd6eab871ab9ba694a4feada7d1c8f840fb663eedd321b052ff3e273c3371c
+    mime: image/tiff
+    bytes: 839219
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f7/fd/f7fd6eab871ab9ba694a4feada7d1c8f840fb663eedd321b052ff3e273c3371c/preview-400.d3857bc2f50b.jpg
+        sha256: d3857bc2f50b24280dc331d05415661636c7211bd9edef264f3c8f79cb3a5517
+        mime: image/jpeg
+        bytes: 58041
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

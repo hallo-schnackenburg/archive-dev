@@ -1,0 +1,37 @@
+id: 01FKJT2JHP7X2WWAVPD0XZXZ2R
+type: image
+subtype: photo
+title: Blick vom Bäckerei Lüders auf das Schmiede
+description: Aufnahme von Fritz Behrens.
+date: 1891-01-08
+origin:
+  name: Gerda Meyer
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Kapern
+    type: place
+  - name: Grenzöffnung 1891
+    type: event
+  - name: Grenzturm
+    type: building
+files:
+  - role: main
+    original_name: scan_067.tif
+    path: files/00/31/00312f196e7d9be5de10355762c1c849d08d5c3099115f438dcf0a0137a3ac59/original.tif
+    sha256: 00312f196e7d9be5de10355762c1c849d08d5c3099115f438dcf0a0137a3ac59
+    mime: image/tiff
+    bytes: 10703357
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/00/31/00312f196e7d9be5de10355762c1c849d08d5c3099115f438dcf0a0137a3ac59/preview-400.829cd41841dd.jpg
+        sha256: 829cd41841dd2348626e0b398d213851bd7ee17bc4005d6dfc8cc2a83acea459
+        mime: image/jpeg
+        bytes: 89850
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

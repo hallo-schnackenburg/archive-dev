@@ -1,0 +1,34 @@
+id: 01HPRNV53TZV4WR7J8HTRFPZRG
+type: image
+subtype: plan
+title: Flurkarte Havelberg, Bömenzien
+description: Tusche auf Transparentpapier.
+date: 1945-06-28
+location: Brünkendorf, Elbstraße
+origin:
+  name: Ilse Wiegmann
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Apotheke
+    type: building
+files:
+  - role: main
+    original_name: scan_310.tif
+    path: files/a1/58/a1581354c50af218922e243e6e3dcaaadacd57012bc97123445541ca8748d7bc/original.tif
+    sha256: a1581354c50af218922e243e6e3dcaaadacd57012bc97123445541ca8748d7bc
+    mime: image/tiff
+    bytes: 10775969
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a1/58/a1581354c50af218922e243e6e3dcaaadacd57012bc97123445541ca8748d7bc/preview-400.e212f434d8f3.jpg
+        sha256: e212f434d8f3107ea025dbfaf5a01e2f96b8fe774b625366969503440b72dd01
+        mime: image/jpeg
+        bytes: 41045
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

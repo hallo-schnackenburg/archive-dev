@@ -1,0 +1,69 @@
+id: 01HVD6QQYTKPXW2SV3HQ9EYNAC
+type: document
+subtype: note
+title: Rechnung Hennings, Gärtnerei
+location: Gülden, Lange Straße
+geocode:
+  lat: 52.9061
+  lon: 11.6136
+  precision: region
+  source: osm
+origin:
+  name: Emma Timm
+  type: person
+  location: Gorleben
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 37/227
+subjects:
+  - name: Brigitte Jeß
+    type: person
+  - name: Grenzturm
+    type: building
+  - name: Eisgang 1874
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_9eynac_001.tif
+    path: files/86/78/8678520a62bb2bb305dd7dc83e360a25805e63b72e1cde9a51de4e303006cec9/original.tif
+    sha256: 8678520a62bb2bb305dd7dc83e360a25805e63b72e1cde9a51de4e303006cec9
+    mime: image/tiff
+    bytes: 20822867
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/78/8678520a62bb2bb305dd7dc83e360a25805e63b72e1cde9a51de4e303006cec9/preview-400.983e3105e6d0.jpg
+        sha256: 983e3105e6d0924ac51772f391d4ef5a0afe0a562547d9a090368ec6744a3006
+        mime: image/jpeg
+        bytes: 21671
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_9eynac_002.tif
+    path: files/e5/4b/e54ba2d017c514e0612ce5882cac659b039d39588142277c1896331ef4952162/original.tif
+    sha256: e54ba2d017c514e0612ce5882cac659b039d39588142277c1896331ef4952162
+    mime: image/tiff
+    bytes: 26221586
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e5/4b/e54ba2d017c514e0612ce5882cac659b039d39588142277c1896331ef4952162/preview-400.57ecbe833709.jpg
+        sha256: 57ecbe833709c61927436b5227ff94282c47e25197bc70d43922692ac1565f2a
+        mime: image/jpeg
+        bytes: 39694
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

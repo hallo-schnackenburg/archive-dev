@@ -1,0 +1,48 @@
+id: 01K16BGZZDMWCH1J9Y0TCAT61Y
+type: document
+subtype: letter
+title: Zeugnis für Hans Meyer
+date: 1798-03-12
+location: Havelberg, Kirchstraße
+geocode:
+  lat: 53.0277
+  lon: 11.4507
+  precision: exact
+  source: osm
+origin:
+  name: Otto Lemke
+  type: person
+  location: Brünkendorf
+recipient: Heinrich Plate
+language: de
+original:
+  holder:
+    name: Familie Krüger
+    type: person
+    location: Rüterberg
+  reference: F/Mappe 17/060
+  note: Schrank B
+subjects:
+  - name: Hafen
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_cat61y_001.tif
+    path: files/52/16/5216e5c1b1a296c032e723c71f00cb85391b2ff5345db6afbc318d460ad15bec/original.tif
+    sha256: 5216e5c1b1a296c032e723c71f00cb85391b2ff5345db6afbc318d460ad15bec
+    mime: image/tiff
+    bytes: 11321659
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/16/5216e5c1b1a296c032e723c71f00cb85391b2ff5345db6afbc318d460ad15bec/preview-400.b0f24cc4d583.jpg
+        sha256: b0f24cc4d583016bea07b15dfa75ad2291b188685a462ca792512f13be8ef8d2
+        mime: image/jpeg
+        bytes: 50647
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

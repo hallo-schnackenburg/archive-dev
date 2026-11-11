@@ -1,0 +1,43 @@
+id: 01GDR25GMGD7KRVQQ920KKCEYT
+type: image
+subtype: photo
+title: "Fußballverein: Gruppenbild Fastnacht"
+description: Farbfoto, leicht verblasst.
+date: 1999/2002
+location: Bömenzien, Hafen
+geocode:
+  lat: 52.9825
+  lon: 11.538
+  precision: town
+  source: osm
+origin:
+  name: Dieter Brandt
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+parents:
+  - 01F5CJH4Q7NJEW1D0ZXEW20ZNC
+files:
+  - role: main
+    original_name: scan_939.tif
+    path: files/57/b1/57b1458e4abd43d6fa45ef8eca61d3968077f5016da6aa5c46a7d8719d3bb2e0/original.tif
+    sha256: 57b1458e4abd43d6fa45ef8eca61d3968077f5016da6aa5c46a7d8719d3bb2e0
+    mime: image/tiff
+    bytes: 5880643
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/57/b1/57b1458e4abd43d6fa45ef8eca61d3968077f5016da6aa5c46a7d8719d3bb2e0/preview-400.35097c73fcd1.jpg
+        sha256: 35097c73fcd1df666a55fd703cc85b9f64eb80914d2de192e6378b8a1041cd85
+        mime: image/jpeg
+        bytes: 59037
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

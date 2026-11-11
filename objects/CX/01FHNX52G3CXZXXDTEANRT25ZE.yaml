@@ -1,0 +1,46 @@
+id: 01FHNX52G3CXZXXDTEANRT25ZE
+type: image
+subtype: print
+title: Postkarte Pretzier, Heuberge
+description: Postkarte, gelaufen 1927.
+date: 1921/1922
+location: Holtorf, Fährstraße
+geocode:
+  lat: 53.0417
+  lon: 11.5494
+  precision: region
+  source: osm
+origin:
+  name: Wilhelm Ludolf
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 29/049
+owner:
+  name: Marta Jeß
+  type: person
+  note: Leihgabe
+files:
+  - role: main
+    original_name: scan_446.tif
+    path: files/6d/ce/6dce53797ae059ffd73e4918bc6beabd55da78d5cb442914b3c5c809a84ba121/original.tif
+    sha256: 6dce53797ae059ffd73e4918bc6beabd55da78d5cb442914b3c5c809a84ba121
+    mime: image/tiff
+    bytes: 11871556
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6d/ce/6dce53797ae059ffd73e4918bc6beabd55da78d5cb442914b3c5c809a84ba121/preview-400.cc3c8e596edf.jpg
+        sha256: cc3c8e596edf608de65d01ecea472517795734f360de0eb44d438e2fc7d3b522
+        mime: image/jpeg
+        bytes: 47204
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

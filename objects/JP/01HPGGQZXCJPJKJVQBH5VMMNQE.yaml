@@ -1,0 +1,32 @@
+id: 01HPGGQZXCJPJKJVQBH5VMMNQE
+type: image
+subtype: plan
+title: Katasterblatt Matthies
+location: Laase, Rathaus
+geocode:
+  lat: 52.9652
+  lon: 11.4639
+  precision: street
+  source: osm
+origin:
+  name: Marta Wegner
+  type: person
+  location: Holtorf
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Karl Gaede
+    type: person
+storage: external
+external:
+  - type: archive
+    site: Landesarchiv Hannover
+    uri: https://landesarchiv-hannover.example.org/objekt/47923
+    reference: NLA 265 Nr. 3270
+    retrieved: 2026-03-12
+  - type: archive
+    site: Stadtarchiv Salzwedel
+    uri: https://stadtarchiv-salzwedel.example.org/objekt/906504
+    reference: Rep. 275 Nr. 245
+    note: Fotoserie, Nr. 3
+    retrieved: 2026-05-19

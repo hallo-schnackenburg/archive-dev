@@ -1,0 +1,46 @@
+id: 01FZPNM8G2HVFNET8A46D9FW1N
+type: document
+subtype: letter
+title: Feldpostbrief von Ernst Hennings
+description: Maschinenschriftlich, unterschrieben.
+date: 1985-11-04
+location: Wustrow, Kriegerdenkmal
+geocode:
+  lat: 53.0791
+  lon: 11.671
+  precision: region
+  source: osm
+origin:
+  name: Karl Krüger
+  type: person
+  location: Gartow
+recipient: Jürgen Lemke
+language: de
+subjects:
+  - name: Karl Lemke
+    type: person
+  - name: Lanz
+    type: place
+  - name: Hans Lüders
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_d9fw1n_001.tif
+    path: files/04/62/04626465b3e40b20e26d403f965f50de9857b7bed138ee7256d1a6a6543fccc4/original.tif
+    sha256: 04626465b3e40b20e26d403f965f50de9857b7bed138ee7256d1a6a6543fccc4
+    mime: image/tiff
+    bytes: 11036748
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/62/04626465b3e40b20e26d403f965f50de9857b7bed138ee7256d1a6a6543fccc4/preview-400.43cc65a01563.jpg
+        sha256: 43cc65a015631e8dd9a0e9c7a74e8fcb70dec45865b8fdc2deec93753b457d3c
+        mime: image/jpeg
+        bytes: 77988
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

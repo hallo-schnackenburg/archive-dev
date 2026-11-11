@@ -1,0 +1,39 @@
+id: 01K928N1107K7JPY0M3DJKBFN5
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Salzwedel
+description: Mit handschriftlichen Ergänzungen.
+date: 1870~
+location: Arendsee, Hafen
+geocode:
+  lat: 52.9292
+  lon: 11.5218
+  precision: street
+  source: osm
+origin:
+  name: Marta Plate
+  type: person
+  location: Gorleben
+subjects:
+  - name: Heuberge
+    type: building
+files:
+  - role: main
+    original_name: scan_412.tif
+    path: files/48/3c/483cb2639b472d277af31c706c97b199380b7eff753ac0e0a874c407137bab9d/original.tif
+    sha256: 483cb2639b472d277af31c706c97b199380b7eff753ac0e0a874c407137bab9d
+    mime: image/tiff
+    bytes: 6030790
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/48/3c/483cb2639b472d277af31c706c97b199380b7eff753ac0e0a874c407137bab9d/preview-400.c8c772701317.jpg
+        sha256: c8c772701317d7fc7f62d1d87f6799f5133c37698a84debddb48113d58c51e04
+        mime: image/jpeg
+        bytes: 23109
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

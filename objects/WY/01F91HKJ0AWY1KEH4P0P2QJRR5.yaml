@@ -1,0 +1,37 @@
+id: 01F91HKJ0AWY1KEH4P0P2QJRR5
+type: image
+subtype: photo
+title: Elfriede Hartwig, Porträt
+description: Zu sehen sind Apotheke und Sparkasse.
+date: 198X
+origin:
+  name: Ilse Garms
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Schlachtfest 1987
+    type: event
+  - name: Schmiede
+    type: building
+  - name: Dieter Voss
+    type: person
+files:
+  - role: main
+    original_name: IMG_2279.jpg
+    path: files/b5/f5/b5f571c34ee95bd7a85a8bbb0e069e4591c5abce577224e6d40ec39c76d1a2cc/original.jpg
+    sha256: b5f571c34ee95bd7a85a8bbb0e069e4591c5abce577224e6d40ec39c76d1a2cc
+    mime: image/jpeg
+    bytes: 6978891
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b5/f5/b5f571c34ee95bd7a85a8bbb0e069e4591c5abce577224e6d40ec39c76d1a2cc/preview-400.f31a76767136.jpg
+        sha256: f31a7676713633e19a09d264fd2fa1950c27a511b4fe545a2061e90f0bcb2a4f
+        mime: image/jpeg
+        bytes: 57535
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

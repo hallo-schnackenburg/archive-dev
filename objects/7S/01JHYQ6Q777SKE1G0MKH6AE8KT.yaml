@@ -1,0 +1,41 @@
+id: 01JHYQ6Q777SKE1G0MKH6AE8KT
+type: image
+subtype: drawing
+title: Entwurf für Dorfteich, Lüchow (74)
+description: Bleistift auf Papier.
+date: 1846-06
+location: Lüchow, Lange Straße
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan 2/326
+  note: Dachboden, Truhe
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Walter Wegner
+    type: person
+parents:
+  - 01JJRB980S7G97FX3YJ3JFCV87
+files:
+  - role: main
+    original_name: scan_998.tif
+    path: files/a4/d6/a4d6a25f7af18d975754a9015649f434ee62228e90d5e8636a3137aa6cc5b106/original.tif
+    sha256: a4d6a25f7af18d975754a9015649f434ee62228e90d5e8636a3137aa6cc5b106
+    mime: image/tiff
+    bytes: 25544516
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a4/d6/a4d6a25f7af18d975754a9015649f434ee62228e90d5e8636a3137aa6cc5b106/preview-400.9c02ae646c57.jpg
+        sha256: 9c02ae646c5748fa8148423a7408d55323047a88f0b30a39b013390932dbdee9
+        mime: image/jpeg
+        bytes: 45321
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

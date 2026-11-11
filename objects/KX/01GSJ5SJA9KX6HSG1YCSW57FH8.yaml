@@ -1,0 +1,35 @@
+id: 01GSJ5SJA9KX6HSG1YCSW57FH8
+type: image
+subtype: plan
+title: Bauplan Torhaus 1938
+description: Maßstab 1:500.
+date: 1938-09-20
+location: Rüterberg, Hafenstraße
+geocode:
+  lat: 53.0082
+  lon: 11.5233
+  precision: street
+  source: osm
+parents:
+  - 01KJHV4RZ8X5ZNWBC3B15QV0TT
+  - 01KZ4MB5E6YQFP0FDWJ529S5A8
+files:
+  - role: main
+    original_name: scan_218.tif
+    path: files/51/54/51549b17289d4f6375fed263d8b6ac156efe6f6203ae5cdd3ef8011ec27e34fc/original.tif
+    sha256: 51549b17289d4f6375fed263d8b6ac156efe6f6203ae5cdd3ef8011ec27e34fc
+    mime: image/tiff
+    bytes: 14889460
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/51/54/51549b17289d4f6375fed263d8b6ac156efe6f6203ae5cdd3ef8011ec27e34fc/preview-400.a7de70adc363.jpg
+        sha256: a7de70adc363d848890a6e913a23a14d17523453a5385304df19a33c49b72f15
+        mime: image/jpeg
+        bytes: 72140
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

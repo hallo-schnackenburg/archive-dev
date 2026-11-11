@@ -1,0 +1,36 @@
+id: 01GMAZPTCFYQK4H2CEFZ7B83D0
+type: image
+subtype: photo
+title: Käthe Krüger vor dem Kindergarten
+description: Zu sehen sind Pumpenhaus und Hafen.
+location: Dömitz, Pfarrhaus
+origin:
+  name: Dieter Ludolf
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Zollamt
+    type: building
+parents:
+  - 01FVSGGTHXCNNWVMHHZN3NRKZQ
+  - 01FC5K4GCY6W41KZKCK9P52A8H
+files:
+  - role: main
+    original_name: scan_995.tif
+    path: files/3c/de/3cde63305d3ec605b1d26072333e292104323082f1fa0d0e3a282d55bd55c5f8/original.tif
+    sha256: 3cde63305d3ec605b1d26072333e292104323082f1fa0d0e3a282d55bd55c5f8
+    mime: image/tiff
+    bytes: 16192872
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3c/de/3cde63305d3ec605b1d26072333e292104323082f1fa0d0e3a282d55bd55c5f8/preview-400.e950e27575aa.jpg
+        sha256: e950e27575aa240b069f5361aa4459f067092095d0df4f675ffc6d6142738af4
+        mime: image/jpeg
+        bytes: 39356
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

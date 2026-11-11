@@ -1,0 +1,41 @@
+id: 01KTSG6QE7ZP7GXM2AFEBJGGMF
+type: image
+subtype: plan
+title: Deichplan Havelberg bis Dömitz
+description: Maßstab 1:2500.
+date: 1896-10
+location: Nienwalde, Gasthof Meyer
+origin:
+  name: Gustav Wöhlk
+  type: person
+  location: Gülden
+owner:
+  name: Erika Lüders
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Beerdigung 1896
+    type: event
+parents:
+  - 01HPH5JAF3E8TMGWEPVY0VVSZH
+  - 01HZP17Y1NVSXA7HYV6RH1MVZS
+files:
+  - role: main
+    original_name: scan_638.tif
+    path: files/ee/91/ee9125fd717d8a2356eab5be5dd2f6a6e3b99a91adcc9bf9376d89e3536ea257/original.tif
+    sha256: ee9125fd717d8a2356eab5be5dd2f6a6e3b99a91adcc9bf9376d89e3536ea257
+    mime: image/tiff
+    bytes: 15345963
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ee/91/ee9125fd717d8a2356eab5be5dd2f6a6e3b99a91adcc9bf9376d89e3536ea257/preview-400.b57c75691774.jpg
+        sha256: b57c75691774f02f2265f768f4c30a401a4ae3769e643ce7be4796da8e2a0556
+        mime: image/jpeg
+        bytes: 56013
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

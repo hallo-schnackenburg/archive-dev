@@ -1,0 +1,33 @@
+id: 01FJ5XRD3M4B46F3FD1GAM275N
+type: image
+subtype: plan
+title: Deichplan Zadrau bis Pretzier
+date: 1875-08-18
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 37/200
+parents:
+  - 01FE51YC393SEJ3F0E3BYAZ1NB
+files:
+  - role: main
+    original_name: scan_253.tif
+    path: files/00/c3/00c3e238fdecd63a53987bd592a5b595328db91bb88458a13ef54e5e89537fca/original.tif
+    sha256: 00c3e238fdecd63a53987bd592a5b595328db91bb88458a13ef54e5e89537fca
+    mime: image/tiff
+    bytes: 22644361
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/00/c3/00c3e238fdecd63a53987bd592a5b595328db91bb88458a13ef54e5e89537fca/preview-400.b77ebd8e10d3.jpg
+        sha256: b77ebd8e10d389010876ac62cbb02badfd9070a8382226f4f53ae5efd0d2fc37
+        mime: image/jpeg
+        bytes: 68495
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01KGMRG355SHXC6RHYD6ART45R
+type: image
+subtype: photo
+title: Karl Albers, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1969"
+location: Wootz, Pumpenhaus
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Gartow
+    type: place
+parents:
+  - 01J2MAW622CTKQ3RF50GE3CC82
+files:
+  - role: main
+    original_name: IMG_1245.jpg
+    path: files/d8/af/d8af9879cf1c6fa6a691fc33be58976ee4a5a3eab9cf41fba5e00fb826b84e14/original.jpg
+    sha256: d8af9879cf1c6fa6a691fc33be58976ee4a5a3eab9cf41fba5e00fb826b84e14
+    mime: image/jpeg
+    bytes: 19533236
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/d8/af/d8af9879cf1c6fa6a691fc33be58976ee4a5a3eab9cf41fba5e00fb826b84e14/preview-400.db55d90ec019.jpg
+        sha256: db55d90ec01907cb008aa6334e3d38564f76bc22af0985fbb8221bd8b137596a
+        mime: image/jpeg
+        bytes: 62265
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

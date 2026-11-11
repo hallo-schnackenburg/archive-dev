@@ -1,0 +1,86 @@
+id: 01FJNHZ99Y0M1EAGR03K4WQ0CH
+type: document
+subtype: letter
+title: Vertrag über Dorferneuerung, Wittenberge
+date: "1877"
+location: Laase, Hinter den Höfen
+geocode:
+  lat: 52.9755
+  lon: 11.567
+  precision: exact
+  source: osm
+origin:
+  name: Karl Matthies
+  type: person
+  location: Holtorf
+recipient: Gerda Lenz
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Mappe 17/063
+parents:
+  - 01FFXT95F2XCPVJ6NKJMCYEVVA
+files:
+  - role: page
+    num: 1
+    original_name: letter_4wq0ch_001.tif
+    path: files/a3/97/a3973e9fd4df57dbcdf4fea80e2cf8f7ba07459f43619e4247c0c663526170c2/original.tif
+    sha256: a3973e9fd4df57dbcdf4fea80e2cf8f7ba07459f43619e4247c0c663526170c2
+    mime: image/tiff
+    bytes: 12176834
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a3/97/a3973e9fd4df57dbcdf4fea80e2cf8f7ba07459f43619e4247c0c663526170c2/preview-400.5d8f3ab41d3c.jpg
+        sha256: 5d8f3ab41d3c3a7c890a861c6c027a281182c398eb6f84c9cb80cfbed8fb874f
+        mime: image/jpeg
+        bytes: 84672
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_4wq0ch_002.tif
+    path: files/f2/ee/f2ee88753558293cce2c634de901231443ec2b0909d651dbdfa8be482a74b01e/original.tif
+    sha256: f2ee88753558293cce2c634de901231443ec2b0909d651dbdfa8be482a74b01e
+    mime: image/tiff
+    bytes: 13639979
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f2/ee/f2ee88753558293cce2c634de901231443ec2b0909d651dbdfa8be482a74b01e/preview-400.47ef3e8c55b1.jpg
+        sha256: 47ef3e8c55b1643a7b11871231817f8c418b90341a271d0bd9aff88faa789397
+        mime: image/jpeg
+        bytes: 89121
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_4wq0ch_003.tif
+    path: files/10/02/10020acfefc0f394c1f371ee2a4501a9c1297e35a4ad464e411820a36ac8c53b/original.tif
+    sha256: 10020acfefc0f394c1f371ee2a4501a9c1297e35a4ad464e411820a36ac8c53b
+    mime: image/tiff
+    bytes: 27805088
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/10/02/10020acfefc0f394c1f371ee2a4501a9c1297e35a4ad464e411820a36ac8c53b/preview-400.493c5ff17214.jpg
+        sha256: 493c5ff17214051bdedf0c08eca8359695cb17c01cdb0a86610be53e757877f0
+        mime: image/jpeg
+        bytes: 68665
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

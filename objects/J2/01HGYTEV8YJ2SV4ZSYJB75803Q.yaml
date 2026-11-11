@@ -1,0 +1,45 @@
+id: 01HGYTEV8YJ2SV4ZSYJB75803Q
+type: image
+subtype: photo
+title: "Posaunenchor: Gruppenbild Deicharbeiten"
+description: Abzug im Format 9 x 13 cm.
+location: Gülden, Deichstraße
+geocode:
+  lat: 52.9374
+  lon: 11.4507
+  precision: region
+  source: osm
+origin:
+  name: August Voss
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Marta Bohlmann
+    type: person
+files:
+  - role: main
+    original_name: scan_251.tif
+    path: files/06/2e/062ea99a04814aa8574114cb3044f9d51a92b420776dac17b090e581a7fdd0c7/original.tif
+    sha256: 062ea99a04814aa8574114cb3044f9d51a92b420776dac17b090e581a7fdd0c7
+    mime: image/tiff
+    bytes: 4135616
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/2e/062ea99a04814aa8574114cb3044f9d51a92b420776dac17b090e581a7fdd0c7/preview-400.1cfd1a6b8d80.jpg
+        sha256: 1cfd1a6b8d802ba3d25bd0c00d23df7d41448a8df633f8cc585e1ef900c70115
+        mime: image/jpeg
+        bytes: 77863
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

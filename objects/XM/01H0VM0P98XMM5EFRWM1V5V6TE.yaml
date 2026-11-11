@@ -1,0 +1,30 @@
+id: 01H0VM0P98XMM5EFRWM1V5V6TE
+type: image
+subtype: plan
+title: Bauplan Dorfteich 1806
+description: Maßstab 1:500.
+date: 1806-06-03
+origin:
+  name: Helga Jeß
+  type: person
+  location: Nienwalde
+files:
+  - role: main
+    original_name: scan_666.tif
+    path: files/69/39/69397fb9e20b12d9035ff4f013b599650bb2d6b8d6bddc694e12586fcafa47d2/original.tif
+    sha256: 69397fb9e20b12d9035ff4f013b599650bb2d6b8d6bddc694e12586fcafa47d2
+    mime: image/tiff
+    bytes: 25172883
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/69/39/69397fb9e20b12d9035ff4f013b599650bb2d6b8d6bddc694e12586fcafa47d2/preview-400.48d33993ce5f.jpg
+        sha256: 48d33993ce5f22e88afecbf6c766d8518bfefc34c33c344fb32f21003a69199f
+        mime: image/jpeg
+        bytes: 53177
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

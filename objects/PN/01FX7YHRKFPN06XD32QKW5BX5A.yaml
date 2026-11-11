@@ -1,0 +1,39 @@
+id: 01FX7YHRKFPN06XD32QKW5BX5A
+type: image
+subtype: photo
+title: Blick vom Grenzturm auf das Apotheke
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1927/1932
+location: Gollensdorf, Bahnhofstraße
+geocode:
+  lat: 53.0314
+  lon: 11.5513
+  precision: exact
+  source: osm
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Sportplatz
+    type: building
+parents:
+  - 01GVM1WCR2HNMHN4DWDZ4NZG4Z
+files:
+  - role: main
+    original_name: scan_390.tif
+    path: files/d5/05/d5052226c31ce833211b61fa02ccd2b86c011b6c01a60be2cb442d5237a2e0dc/original.tif
+    sha256: d5052226c31ce833211b61fa02ccd2b86c011b6c01a60be2cb442d5237a2e0dc
+    mime: image/tiff
+    bytes: 17242739
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d5/05/d5052226c31ce833211b61fa02ccd2b86c011b6c01a60be2cb442d5237a2e0dc/preview-400.ec69e677634b.jpg
+        sha256: ec69e677634bafd2fcc2b9d117476c25a10cc7bd1946db3ff587f33b2d3a898e
+        mime: image/jpeg
+        bytes: 20780
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

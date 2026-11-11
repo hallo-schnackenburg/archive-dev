@@ -1,0 +1,37 @@
+id: 01F2DBFPHZWBJ7JX5BHHCS972M
+type: image
+subtype: photo
+title: Sturmschaden 1915
+date: 1915-11
+location: Salzwedel, Apotheke
+origin:
+  name: Marta Sievers
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Familie Pape
+    type: person
+    location: Restorf
+parents:
+  - 01M1D2FGQR97JS2R2G2HQVPQ5E
+files:
+  - role: main
+    original_name: IMG_4652.jpg
+    path: files/d0/1a/d01a57132a03299ebdcc64e89174b55ed36c9f8d8baefae7711645512420935c/original.jpg
+    sha256: d01a57132a03299ebdcc64e89174b55ed36c9f8d8baefae7711645512420935c
+    mime: image/jpeg
+    bytes: 19399908
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/d0/1a/d01a57132a03299ebdcc64e89174b55ed36c9f8d8baefae7711645512420935c/preview-400.678b1b17a5d6.jpg
+        sha256: 678b1b17a5d698aa66cd9ad9ad0b9e764ae00be2e57058dbb711c286f3e4761a
+        mime: image/jpeg
+        bytes: 73877
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

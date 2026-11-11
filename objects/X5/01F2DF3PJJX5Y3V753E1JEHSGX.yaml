@@ -1,0 +1,35 @@
+id: 01F2DF3PJJX5Y3V753E1JEHSGX
+type: image
+subtype: photo
+title: Sturmschaden 1907
+description: Zu sehen sind Gasthof „Zur Elbe“ und Apotheke.
+date: "1907"
+origin:
+  name: Renate Ahrens
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Cumlosen
+    type: place
+parents:
+  - 01F1C76VVA9D0FJCEKQVNQPP86
+files:
+  - role: main
+    original_name: DSC4784.jpg
+    path: files/bf/df/bfdfdd48533056665551f48ddc5b0d76b551e0dcd06a6503023e6af9dcbff7fa/original.jpg
+    sha256: bfdfdd48533056665551f48ddc5b0d76b551e0dcd06a6503023e6af9dcbff7fa
+    mime: image/jpeg
+    bytes: 12069596
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/bf/df/bfdfdd48533056665551f48ddc5b0d76b551e0dcd06a6503023e6af9dcbff7fa/preview-400.28ad1e6ad3db.jpg
+        sha256: 28ad1e6ad3dba7ffd22c9545b0d49a24818b98462c5d9a2dee81bb5fda035c68
+        mime: image/jpeg
+        bytes: 78427
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

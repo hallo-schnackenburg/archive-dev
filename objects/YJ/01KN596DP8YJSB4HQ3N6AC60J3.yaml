@@ -1,0 +1,36 @@
+id: 01KN596DP8YJSB4HQ3N6AC60J3
+type: image
+subtype: photo
+title: Emma Wiese, Porträt
+date: "1999"
+origin:
+  name: Heinz Heuer
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Karl Pape
+    type: person
+  - name: Molkerei
+    type: building
+  - name: Gartow
+    type: place
+files:
+  - role: main
+    original_name: DSC8726.jpg
+    path: files/b3/9c/b39c9a79b135b54d76c9cb89ec5a2d3480e355defae8bca6eb77741aa4a2913e/original.jpg
+    sha256: b39c9a79b135b54d76c9cb89ec5a2d3480e355defae8bca6eb77741aa4a2913e
+    mime: image/jpeg
+    bytes: 7041221
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b3/9c/b39c9a79b135b54d76c9cb89ec5a2d3480e355defae8bca6eb77741aa4a2913e/preview-400.bc53965e6eff.jpg
+        sha256: bc53965e6eff8d6087a2316caccfc7a320267b5023d5f061c98911cb4d5a244d
+        mime: image/jpeg
+        bytes: 89745
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01JEWF27GJM80TT08ACDHJ1K3H
+type: image
+subtype: plan
+title: Bauplan Sparkasse 1904
+date: 1904-08-27
+location: Laase, Hinter den Höfen
+subjects:
+  - name: Elbdeich
+    type: building
+  - name: Sparkasse
+    type: building
+files:
+  - role: main
+    original_name: scan_396.tif
+    path: files/cb/cd/cbcdd899f33d8e63184189c62fa750a60263c950a401b50ea2dc79e1a4bb3cff/original.tif
+    sha256: cbcdd899f33d8e63184189c62fa750a60263c950a401b50ea2dc79e1a4bb3cff
+    mime: image/tiff
+    bytes: 14885714
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cb/cd/cbcdd899f33d8e63184189c62fa750a60263c950a401b50ea2dc79e1a4bb3cff/preview-400.853e48dcfef5.jpg
+        sha256: 853e48dcfef5d144c3b2eb2704969b917594c890c2f64ac29c2cc247a779d002
+        mime: image/jpeg
+        bytes: 66378
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

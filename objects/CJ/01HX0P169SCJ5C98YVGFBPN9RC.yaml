@@ -1,0 +1,41 @@
+id: 01HX0P169SCJ5C98YVGFBPN9RC
+type: image
+subtype: drawing
+title: Entwurf für Kriegerdenkmal
+description: Bleistift auf Papier.
+date: 1873/1875
+location: Lanz, Gartenstraße
+geocode:
+  lat: 53.0806
+  lon: 11.5644
+  precision: exact
+  source: osm
+origin:
+  name: Karl Meyer
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Lanz
+    type: place
+files:
+  - role: main
+    original_name: scan_564.tif
+    path: files/40/0a/400ad9211b79b11ea1da42fd1dea5f121a5f7bca85960516633bef3d19319368/original.tif
+    sha256: 400ad9211b79b11ea1da42fd1dea5f121a5f7bca85960516633bef3d19319368
+    mime: image/tiff
+    bytes: 27108358
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/0a/400ad9211b79b11ea1da42fd1dea5f121a5f7bca85960516633bef3d19319368/preview-400.95b831358f41.jpg
+        sha256: 95b831358f41b531ec4a7b4c6afe9767bc627d9ed8f18221488df08f129b9b71
+        mime: image/jpeg
+        bytes: 48700
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

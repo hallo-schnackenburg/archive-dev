@@ -1,0 +1,84 @@
+id: 01GP7FBQX1287SGNFCYSMENNCM
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Freiwillige Feuerwehr 1943
+description: Anwesend waren 12 Personen.
+date: "1943"
+origin:
+  name: Feuerwehrausschuss Laase
+  type: business
+  location: Pretzier
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Karl Meyer
+    type: person
+  - name: Karl Wegner
+    type: person
+  - name: Sabine Lemke
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: protocol_menncm_001.tif
+    path: files/50/86/508634c810164819c1e78a9126f086de9c745bc698ac54a69f917eb8cad72fde/original.tif
+    sha256: 508634c810164819c1e78a9126f086de9c745bc698ac54a69f917eb8cad72fde
+    mime: image/tiff
+    bytes: 6006321
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/86/508634c810164819c1e78a9126f086de9c745bc698ac54a69f917eb8cad72fde/preview-400.9f064062867f.jpg
+        sha256: 9f064062867f71e364f56dc1f76a8fc936c2f37461e1fb77102d30944b607b2d
+        mime: image/jpeg
+        bytes: 67316
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_menncm_002.tif
+    path: files/b0/6d/b06d3c34e59ed14708fc4d685fe13bf16bb0158cd5d6ac2b16819460013b92bf/original.tif
+    sha256: b06d3c34e59ed14708fc4d685fe13bf16bb0158cd5d6ac2b16819460013b92bf
+    mime: image/tiff
+    bytes: 18265293
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b0/6d/b06d3c34e59ed14708fc4d685fe13bf16bb0158cd5d6ac2b16819460013b92bf/preview-400.089febe6d7c9.jpg
+        sha256: 089febe6d7c9924d1229978808647ff5829aef2421d2c4426bd067f689bd447d
+        mime: image/jpeg
+        bytes: 49440
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_menncm_003.tif
+    path: files/d9/37/d9375ba93f06f096ae0410c6ca88fd876e2ed1d63fe1b88ffc999c341578a5cb/original.tif
+    sha256: d9375ba93f06f096ae0410c6ca88fd876e2ed1d63fe1b88ffc999c341578a5cb
+    mime: image/tiff
+    bytes: 17822966
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d9/37/d9375ba93f06f096ae0410c6ca88fd876e2ed1d63fe1b88ffc999c341578a5cb/preview-400.54618aaca7bb.jpg
+        sha256: 54618aaca7bbc5a264327bfa41bfcf9fc2a31dbeb28e002cfa1e0b4441152d12
+        mime: image/jpeg
+        bytes: 56147
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

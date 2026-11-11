@@ -1,0 +1,43 @@
+id: 01HQBH54D13R1P1RYMTFEMNMW7
+type: image
+subtype: drawing
+title: Federzeichnung Badestelle, Rüterberg
+description: Bleistift auf Papier.
+date: "1910"
+location: Rüterberg, Mühlenweg
+origin:
+  name: Erika Nitschke
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Einweihung 1910
+    type: event
+  - name: Schmiede
+    type: building
+parents:
+  - 01JN30QK7AA815KKZN3ATXX5V3
+files:
+  - role: main
+    original_name: scan_637.tif
+    path: files/39/56/3956e1e7777810fa3641961c2ecf1103922b54c4884f1efc86b9aecd8bdb4919/original.tif
+    sha256: 3956e1e7777810fa3641961c2ecf1103922b54c4884f1efc86b9aecd8bdb4919
+    mime: image/tiff
+    bytes: 5426844
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/39/56/3956e1e7777810fa3641961c2ecf1103922b54c4884f1efc86b9aecd8bdb4919/preview-400.12e8b796abee.jpg
+        sha256: 12e8b796abeea189feac69e8b14bd6161a131a9cc03594166a27bf68df78a981
+        mime: image/jpeg
+        bytes: 36959
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

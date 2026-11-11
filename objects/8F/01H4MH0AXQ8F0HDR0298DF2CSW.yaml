@@ -1,0 +1,37 @@
+id: 01H4MH0AXQ8F0HDR0298DF2CSW
+type: image
+subtype: plan
+title: Bauplan Elbdeich 1904
+description: Mit handschriftlichen Ergänzungen.
+date: 1904-05-22
+location: Seedorf, Ladestraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 6/275
+subjects:
+  - name: Seedorf
+    type: place
+files:
+  - role: main
+    original_name: scan_966.tif
+    path: files/ac/80/ac80f6ae703d5ebf7cc0682cf13cd6d2618081565cb55b6306efbb509fc9b861/original.tif
+    sha256: ac80f6ae703d5ebf7cc0682cf13cd6d2618081565cb55b6306efbb509fc9b861
+    mime: image/tiff
+    bytes: 3861680
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/80/ac80f6ae703d5ebf7cc0682cf13cd6d2618081565cb55b6306efbb509fc9b861/preview-400.783f881b51ca.jpg
+        sha256: 783f881b51ca0e2bb232be48bdae4535bd508107942bc916fc49a1e01600f5e0
+        mime: image/jpeg
+        bytes: 71580
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

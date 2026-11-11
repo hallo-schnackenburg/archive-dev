@@ -1,0 +1,32 @@
+id: 01KBQPEHDQC9PDC7B3K2HKKX14
+type: image
+subtype: print
+title: "Kupferstich: Restorf von der Elbseite, Seedorf"
+description: Lithographie, Rand beschnitten.
+date: 1706/1712
+origin:
+  name: Helga Jeß
+  type: person
+  location: Gülden
+parents:
+  - 01FPBW8XQ5TR1SGGQ9277H4RM1
+files:
+  - role: main
+    original_name: scan_516.tif
+    path: files/3d/53/3d539c7c145bf03b57cbb4ed93d51ec356be19c93078e2827dfca344d14d4d97/original.tif
+    sha256: 3d539c7c145bf03b57cbb4ed93d51ec356be19c93078e2827dfca344d14d4d97
+    mime: image/tiff
+    bytes: 12571624
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3d/53/3d539c7c145bf03b57cbb4ed93d51ec356be19c93078e2827dfca344d14d4d97/preview-400.2cdea92320c2.jpg
+        sha256: 2cdea92320c2d64c00bfb58bb23c2ee8ed6fd5a151cab347d8ad03e1f3360751
+        mime: image/jpeg
+        bytes: 41952
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

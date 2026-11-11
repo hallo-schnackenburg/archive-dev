@@ -1,0 +1,34 @@
+id: 01GZDNQKSJCZS2CFWGZGA1Y2TX
+type: image
+subtype: print
+title: "Kupferstich: Rüterberg von der Elbseite, Restorf"
+date: "1841"
+origin:
+  name: Erika Hennings
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+files:
+  - role: main
+    original_name: scan_382.tif
+    path: files/fd/fd/fdfd262df01f4ba185e3bd87474710ba59fe1fc2eed05acc784dbb6b04b767af/original.tif
+    sha256: fdfd262df01f4ba185e3bd87474710ba59fe1fc2eed05acc784dbb6b04b767af
+    mime: image/tiff
+    bytes: 16472626
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/fd/fd/fdfd262df01f4ba185e3bd87474710ba59fe1fc2eed05acc784dbb6b04b767af/preview-400.835f3eadf584.jpg
+        sha256: 835f3eadf584b222de6c97538d4e2089e01eada522d37aaf3f9ef5898d4a9791
+        mime: image/jpeg
+        bytes: 20663
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

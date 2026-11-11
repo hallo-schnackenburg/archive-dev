@@ -1,0 +1,37 @@
+id: 01F4KVK8Y0CHBRT9WJ249X5GK9
+type: image
+subtype: photo
+title: Grenzturm in Gollensdorf
+date: "1986"
+location: Seedorf, Hafenstraße
+origin:
+  name: Wilhelm Sievers
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01JAT6399B3E9Z9P00A12BJSFT
+files:
+  - role: main
+    original_name: P6995.jpg
+    path: files/d8/30/d83076c7c59a803e0ab19dc935262658146be4b9eafdf3acc0986dda6d893e7b/original.jpg
+    sha256: d83076c7c59a803e0ab19dc935262658146be4b9eafdf3acc0986dda6d893e7b
+    mime: image/jpeg
+    bytes: 7753462
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/d8/30/d83076c7c59a803e0ab19dc935262658146be4b9eafdf3acc0986dda6d893e7b/preview-400.7e09abbff5ab.jpg
+        sha256: 7e09abbff5aba342c67278917d56c6eb603ba878030709d94a1ab7982c10a5c4
+        mime: image/jpeg
+        bytes: 47090
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

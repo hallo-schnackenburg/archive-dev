@@ -1,0 +1,44 @@
+id: 01KAS7FC08B20X1DW7ZZHCKJ3H
+type: image
+subtype: photo
+title: Ernst Brandt, Porträt
+description: Farbfoto, leicht verblasst.
+date: "1895"
+location: Zadrau, Fährstraße
+origin:
+  name: Hans Pape
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 15/341
+subjects:
+  - name: Otto Krüger
+    type: person
+  - name: Lenzen
+    type: place
+  - name: Holtorf
+    type: place
+files:
+  - role: main
+    original_name: scan_410.tif
+    path: files/9c/8a/9c8a1afffac8e009c66181803ec7513cf90e18414781ad017f377ffe173a7c2c/original.tif
+    sha256: 9c8a1afffac8e009c66181803ec7513cf90e18414781ad017f377ffe173a7c2c
+    mime: image/tiff
+    bytes: 3441875
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9c/8a/9c8a1afffac8e009c66181803ec7513cf90e18414781ad017f377ffe173a7c2c/preview-400.cac32ee665de.jpg
+        sha256: cac32ee665de8e9bb40642a17648d04d7ea28ee49bd4a794ea1ff920c4de39ff
+        mime: image/jpeg
+        bytes: 32063
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

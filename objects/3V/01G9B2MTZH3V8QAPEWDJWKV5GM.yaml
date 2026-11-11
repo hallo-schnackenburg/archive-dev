@@ -1,0 +1,41 @@
+id: 01G9B2MTZH3V8QAPEWDJWKV5GM
+type: image
+subtype: plan
+title: Flurkarte Seedorf, Laase
+description: Maßstab 1:2500.
+date: 1878-12
+location: Kapern, Elbstraße
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br 24/290
+  note: Planschrank, Fach 3
+subjects:
+  - name: Gülden
+    type: place
+  - name: Gerda Plate
+    type: person
+  - name: Albert Lenz
+    type: person
+files:
+  - role: main
+    original_name: scan_593.tif
+    path: files/1d/1f/1d1f497f565505c59aac4c5751a7dd21eed643a97e47dd14ca4ee1efd5335f4b/original.tif
+    sha256: 1d1f497f565505c59aac4c5751a7dd21eed643a97e47dd14ca4ee1efd5335f4b
+    mime: image/tiff
+    bytes: 2554828
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1d/1f/1d1f497f565505c59aac4c5751a7dd21eed643a97e47dd14ca4ee1efd5335f4b/preview-400.f6dd15ec5fe7.jpg
+        sha256: f6dd15ec5fe75f35913abff63049f92c3bc90cd6ac164f9a3b33c110ae4367d4
+        mime: image/jpeg
+        bytes: 52792
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01KVX6M1AQ5775ZTJMXZRVE8P8
+type: image
+subtype: print
+title: Postkarte Restorf, Badestelle
+description: Kupferstich, koloriert.
+date: 1744-05-14
+location: Nienwalde, Dorfstraße
+original:
+  holder:
+    name: Familie Rathjens
+    type: person
+    location: Laase
+  reference: Plan/Mappe 24/032
+  note: Mappe 12
+subjects:
+  - name: Schlachterei
+    type: building
+parents:
+  - 01KY67T3MSFRGXDQ3PZ5V1DRZF
+files:
+  - role: main
+    original_name: scan_123.tif
+    path: files/62/fb/62fb361936d91db077aecbdea338ad249fb4370bbedca39edb59837149993d4e/original.tif
+    sha256: 62fb361936d91db077aecbdea338ad249fb4370bbedca39edb59837149993d4e
+    mime: image/tiff
+    bytes: 3301519
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/62/fb/62fb361936d91db077aecbdea338ad249fb4370bbedca39edb59837149993d4e/preview-400.1ab6fce6fe7a.jpg
+        sha256: 1ab6fce6fe7aa27fc3077c9bf9f368bde63cc2d65714f011e3b95eff912bc3a7
+        mime: image/jpeg
+        bytes: 88986
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

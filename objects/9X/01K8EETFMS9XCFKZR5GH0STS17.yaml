@@ -1,0 +1,37 @@
+id: 01K8EETFMS9XCFKZR5GH0STS17
+type: image
+subtype: print
+title: Postkarte Pretzier, Fähranleger
+description: Postkarte, gelaufen 1943.
+date: "1799"
+origin:
+  name: Hans Dreyer
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Karl Wegner
+    type: person
+  - name: Brigitte Lemke
+    type: person
+parents:
+  - 01KY67T3MSFRGXDQ3PZ5V1DRZF
+files:
+  - role: main
+    original_name: scan_103.tif
+    path: files/dc/5e/dc5e6fef750de9f8104c599b7c6213c72c105e5faa8308b1e6ae92072a66a62c/original.tif
+    sha256: dc5e6fef750de9f8104c599b7c6213c72c105e5faa8308b1e6ae92072a66a62c
+    mime: image/tiff
+    bytes: 6361065
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/dc/5e/dc5e6fef750de9f8104c599b7c6213c72c105e5faa8308b1e6ae92072a66a62c/preview-400.170a91a71889.jpg
+        sha256: 170a91a71889a16a5dede0a9015d342b1ca74a38b01e9bb4ae61c5bc7cf824d6
+        mime: image/jpeg
+        bytes: 64276
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

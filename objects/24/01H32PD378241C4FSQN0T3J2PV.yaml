@@ -1,0 +1,59 @@
+id: 01H32PD378241C4FSQN0T3J2PV
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Posaunenchor 1861
+description: "Beschlossen wurde unter anderem: Marktgebühren."
+date: 1861-07-25
+location: Hitzacker, Fährstraße
+language: de
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Kartoffelernte 1861
+    type: event
+parents:
+  - 01GEV5Y4J3FGXYTVXBWZX1MJPG
+files:
+  - role: page
+    num: 1
+    original_name: protocol_t3j2pv_001.tif
+    path: files/f5/3d/f53d321a51c7a673303ee74266bda6835445c4742239cf3c81757f5229295672/original.tif
+    sha256: f53d321a51c7a673303ee74266bda6835445c4742239cf3c81757f5229295672
+    mime: image/tiff
+    bytes: 3549745
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f5/3d/f53d321a51c7a673303ee74266bda6835445c4742239cf3c81757f5229295672/preview-400.22a080eb4dfc.jpg
+        sha256: 22a080eb4dfcbc7144e4b959346696130039dd01927244bcfd19e1a3304c798a
+        mime: image/jpeg
+        bytes: 33499
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_t3j2pv_002.tif
+    path: files/01/61/0161c32cf064160ca3c5defe85b32abfc90353467321019d28f2f0808a5c2013/original.tif
+    sha256: 0161c32cf064160ca3c5defe85b32abfc90353467321019d28f2f0808a5c2013
+    mime: image/tiff
+    bytes: 23213471
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/61/0161c32cf064160ca3c5defe85b32abfc90353467321019d28f2f0808a5c2013/preview-400.736f275e8103.jpg
+        sha256: 736f275e81036bdd8c0611efceb7b52f2e2ab90c13d71945ba28fc589c9bfaf9
+        mime: image/jpeg
+        bytes: 31087
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

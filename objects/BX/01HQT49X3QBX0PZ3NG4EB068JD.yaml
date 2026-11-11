@@ -1,0 +1,43 @@
+id: 01HQT49X3QBX0PZ3NG4EB068JD
+type: image
+subtype: drawing
+title: Wappenentwurf Havelberg, Holtorf
+description: Bleistift auf Papier.
+date: "1824"
+location: Gorleben, Dorfstraße
+origin:
+  name: Otto Krüger
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Familie Behrens
+    type: person
+    location: Lüchow
+  reference: Plan 36/354
+  note: Dachboden, Truhe
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Kapern
+    type: place
+files:
+  - role: main
+    original_name: scan_643.tif
+    path: files/d9/a0/d9a04553ac34e711a1dac0a473a8560498ea325a719b76e11c87a29a7e5ace96/original.tif
+    sha256: d9a04553ac34e711a1dac0a473a8560498ea325a719b76e11c87a29a7e5ace96
+    mime: image/tiff
+    bytes: 7937273
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d9/a0/d9a04553ac34e711a1dac0a473a8560498ea325a719b76e11c87a29a7e5ace96/preview-400.ed4cda60ce47.jpg
+        sha256: ed4cda60ce47f419906aaa1477b73cbfef684d24271d7856da880922dcb20d0d
+        mime: image/jpeg
+        bytes: 74763
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

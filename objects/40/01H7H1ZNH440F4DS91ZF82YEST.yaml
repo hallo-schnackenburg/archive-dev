@@ -1,0 +1,46 @@
+id: 01H7H1ZNH440F4DS91ZF82YEST
+type: image
+subtype: photo
+title: Maifeier 1910
+description: Aufnahme von Erika Detlefs.
+date: "1910"
+location: Laase, Mühlenweg
+origin:
+  name: Horst Voss
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 12/032
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Hochwasser 1910
+    type: event
+  - name: Lenzen
+    type: place
+parents:
+  - 01G71PJ0VK24HFH5RX1917VY6A
+files:
+  - role: main
+    original_name: scan_182.tif
+    path: files/03/02/03023acbf2744e1e0996147bfcbdd91f0aeded65709040de1c520a303f1ac061/original.tif
+    sha256: 03023acbf2744e1e0996147bfcbdd91f0aeded65709040de1c520a303f1ac061
+    mime: image/tiff
+    bytes: 18230909
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/03/02/03023acbf2744e1e0996147bfcbdd91f0aeded65709040de1c520a303f1ac061/preview-400.fcb2bacd7c2f.jpg
+        sha256: fcb2bacd7c2f89bd3f0b96f97c61aab38bca8cfa579ec2a9a868efedcbdb622a
+        mime: image/jpeg
+        bytes: 37439
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

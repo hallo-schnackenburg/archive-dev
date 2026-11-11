@@ -1,0 +1,32 @@
+id: 01G61BW9JDDDMTZ9K0H2F3VKPE
+type: image
+subtype: print
+title: Lithographie Dorfkrug
+description: Postkarte, gelaufen 1956.
+date: "1768"
+origin:
+  name: Hans Voss
+  type: person
+  location: Laase
+parents:
+  - 01H5HMCYV3GS9H3ZBJZMHBTPJV
+files:
+  - role: main
+    original_name: scan_530.tif
+    path: files/d2/6c/d26cca7b06fb4d192f472e298461f99802a38c464232b480561f63f6915aaa3b/original.tif
+    sha256: d26cca7b06fb4d192f472e298461f99802a38c464232b480561f63f6915aaa3b
+    mime: image/tiff
+    bytes: 25908077
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d2/6c/d26cca7b06fb4d192f472e298461f99802a38c464232b480561f63f6915aaa3b/preview-400.50574e96d021.jpg
+        sha256: 50574e96d0219dd93dffadfa1c68e8ea7f28bd2236d03259f7b057945ec2bbcf
+        mime: image/jpeg
+        bytes: 29343
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

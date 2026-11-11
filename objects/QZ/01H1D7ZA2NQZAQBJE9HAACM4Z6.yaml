@@ -1,0 +1,45 @@
+id: 01H1D7ZA2NQZAQBJE9HAACM4Z6
+type: image
+subtype: print
+title: Ansichtskarte Am Elbdeich, Holtorf
+description: Kupferstich, koloriert.
+date: 1841-02-09
+location: Bömenzien, Kindergarten
+geocode:
+  lat: 52.962
+  lon: 11.4599
+  precision: town
+  source: osm
+origin:
+  name: Emma Prieß
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 15/060
+subjects:
+  - name: Sportplatz
+    type: building
+files:
+  - role: main
+    original_name: scan_568.tif
+    path: files/ff/5f/ff5f11cd7df1c88601984f066694934c172ef3f02dd29d220fded41b615f0330/original.tif
+    sha256: ff5f11cd7df1c88601984f066694934c172ef3f02dd29d220fded41b615f0330
+    mime: image/tiff
+    bytes: 6686082
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ff/5f/ff5f11cd7df1c88601984f066694934c172ef3f02dd29d220fded41b615f0330/preview-400.3a02ec0415b6.jpg
+        sha256: 3a02ec0415b6378291f87198dcc85895ea6d5daf0c15d38cf4f83d0ab24df4cd
+        mime: image/jpeg
+        bytes: 42211
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

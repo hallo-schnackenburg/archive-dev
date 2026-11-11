@@ -1,0 +1,33 @@
+id: 01K2KZC5BHNJVHMSWDNFP5MVWW
+type: image
+subtype: plan
+title: Deichplan Laase bis Gorleben
+description: Maßstab 1:500.
+date: 1896/1899
+origin:
+  name: Dieter Lemke
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Fastnacht 1896
+    type: event
+files:
+  - role: main
+    original_name: scan_888.tif
+    path: files/18/4b/184b5b0032d86eff0ec8bcbabe8ab549928b52e0d6b4cd60b3be2aca05e0d0fe/original.tif
+    sha256: 184b5b0032d86eff0ec8bcbabe8ab549928b52e0d6b4cd60b3be2aca05e0d0fe
+    mime: image/tiff
+    bytes: 10710349
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/18/4b/184b5b0032d86eff0ec8bcbabe8ab549928b52e0d6b4cd60b3be2aca05e0d0fe/preview-400.38ff9b454369.jpg
+        sha256: 38ff9b4543693ff18728700597f19d9333e08d6f8ea8677bec7ce5053b8c6d8c
+        mime: image/jpeg
+        bytes: 28819
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

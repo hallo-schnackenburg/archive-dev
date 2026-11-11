@@ -1,0 +1,44 @@
+id: 01GN9XK358W1DARB501YBWMK4Q
+type: image
+subtype: plan
+title: Bauplan Kaufmannshaus 1781
+date: 1781?
+origin:
+  name: Albert Voss
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Mappe 5/113
+subjects:
+  - name: Walter Lenz
+    type: person
+  - name: Berta Wegner
+    type: person
+  - name: August Jeß
+    type: person
+parents:
+  - 01G1ZMXCSZWR93Z3JYH6CR645Y
+files:
+  - role: main
+    original_name: scan_065.tif
+    path: files/af/d7/afd719278c5e3ad1dcef47001c3541d228f5acea67168a8257f50eb21ee447de/original.tif
+    sha256: afd719278c5e3ad1dcef47001c3541d228f5acea67168a8257f50eb21ee447de
+    mime: image/tiff
+    bytes: 21194426
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/af/d7/afd719278c5e3ad1dcef47001c3541d228f5acea67168a8257f50eb21ee447de/preview-400.5cc77a07dbf2.jpg
+        sha256: 5cc77a07dbf28c00db0f16bec89c8589256fb2b618dc0523ed9867dfeeb18e61
+        mime: image/jpeg
+        bytes: 48472
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

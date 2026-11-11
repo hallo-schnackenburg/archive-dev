@@ -1,0 +1,67 @@
+id: 01JSPCBB6T8HP126JR0KART6C4
+type: document
+subtype: letter
+title: Brief von Gisela Bruns an Wilhelm Lemke
+date: 1908-10
+location: Wittenberge, Ladestraße
+geocode:
+  lat: 53.0285
+  lon: 11.5738
+  precision: street
+  source: osm
+origin:
+  name: August Bohlmann
+  type: person
+  location: Cumlosen
+language: de
+subjects:
+  - name: Sparkasse
+    type: building
+  - name: Dömitz
+    type: place
+  - name: Bömenzien
+    type: place
+parents:
+  - 01J5CY5YG0F694895WWHN65481
+  - 01FE51YC393SEJ3F0E3BYAZ1NB
+files:
+  - role: page
+    num: 1
+    original_name: letter_art6c4_001.tif
+    path: files/d9/57/d9573f0c15642e10621095eda66546da12b74497aef20e994229f51ba1764e83/original.tif
+    sha256: d9573f0c15642e10621095eda66546da12b74497aef20e994229f51ba1764e83
+    mime: image/tiff
+    bytes: 19924236
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d9/57/d9573f0c15642e10621095eda66546da12b74497aef20e994229f51ba1764e83/preview-400.161f953615fa.jpg
+        sha256: 161f953615fafb07b955afb9d0c35f54f9d777de70fa91ee345a1baa2d6b12c2
+        mime: image/jpeg
+        bytes: 37356
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_art6c4_002.tif
+    path: files/39/2a/392a415584c6e4c2da7443798fea389a38919cd6491a00c302cdcd6d27127d05/original.tif
+    sha256: 392a415584c6e4c2da7443798fea389a38919cd6491a00c302cdcd6d27127d05
+    mime: image/tiff
+    bytes: 20214726
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/39/2a/392a415584c6e4c2da7443798fea389a38919cd6491a00c302cdcd6d27127d05/preview-400.95fb277f8ea6.jpg
+        sha256: 95fb277f8ea625c3833fd8c2bccab6c33a9940826db52f0572a791eff001b182
+        mime: image/jpeg
+        bytes: 27644
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

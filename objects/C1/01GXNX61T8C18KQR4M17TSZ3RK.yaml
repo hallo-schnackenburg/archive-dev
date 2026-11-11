@@ -1,0 +1,36 @@
+id: 01GXNX61T8C18KQR4M17TSZ3RK
+type: image
+subtype: photo
+title: Maifeier 1925
+description: Schwarzweißfoto, Rückseite beschriftet.
+origin:
+  name: Käthe Ahrens
+  type: person
+  location: Lanz
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Hochzeit 1925
+    type: event
+  - name: Weihnachtsmarkt 1925
+    type: event
+files:
+  - role: main
+    original_name: DSC3852.jpg
+    path: files/ff/94/ff940fefd10a318af2ccbd679a4489a60f6d7c7645f85d8e91b4445daf8e6688/original.jpg
+    sha256: ff940fefd10a318af2ccbd679a4489a60f6d7c7645f85d8e91b4445daf8e6688
+    mime: image/jpeg
+    bytes: 4890390
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ff/94/ff940fefd10a318af2ccbd679a4489a60f6d7c7645f85d8e91b4445daf8e6688/preview-400.081c31449fdd.jpg
+        sha256: 081c31449fdd8ed1b59f5704622e7c37559038c1608160710ba4d58716dfed15
+        mime: image/jpeg
+        bytes: 26643
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,63 @@
+id: 01FNYGNW2S800VCFEHPX2VF1E8
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Theatergruppe 1911
+description: Handschriftlich in Sütterlin.
+date: "1911"
+location: Salzwedel, Sparkasse
+origin:
+  name: Samtgemeinderat Pretzier
+  type: business
+  location: Restorf
+language: de
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Gerda Brandt
+    type: person
+parents:
+  - 01FESK7CZ76YS0ANTN93GVS71Z
+files:
+  - role: page
+    num: 1
+    original_name: protocol_2vf1e8_001.tif
+    path: files/ca/8a/ca8abfd6654a794323bc9fe2cc246f2334711936aa4556b34ba8844205ccb982/original.tif
+    sha256: ca8abfd6654a794323bc9fe2cc246f2334711936aa4556b34ba8844205ccb982
+    mime: image/tiff
+    bytes: 17933291
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ca/8a/ca8abfd6654a794323bc9fe2cc246f2334711936aa4556b34ba8844205ccb982/preview-400.d7231aa3e586.jpg
+        sha256: d7231aa3e5861e9b0b5fc3eedb54a2ef47e543d23fb1d247bad6b8e491a5c3ab
+        mime: image/jpeg
+        bytes: 25684
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_2vf1e8_002.tif
+    path: files/06/6e/066ebf86145a61070cf2c5a35a3be3c10e59c6d576da74229abbf8bfba3b9a2c/original.tif
+    sha256: 066ebf86145a61070cf2c5a35a3be3c10e59c6d576da74229abbf8bfba3b9a2c
+    mime: image/tiff
+    bytes: 27527653
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/6e/066ebf86145a61070cf2c5a35a3be3c10e59c6d576da74229abbf8bfba3b9a2c/preview-400.9a6086066d93.jpg
+        sha256: 9a6086066d933bddf5011ecef4b970654ff0a041f57e1cd3dac3b4d177599eb4
+        mime: image/jpeg
+        bytes: 43749
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

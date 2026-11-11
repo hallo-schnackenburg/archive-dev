@@ -1,0 +1,35 @@
+id: 01FGF9SXZM4VQSSXVGQB12DGVJ
+type: image
+subtype: plan
+title: Lageplan Grenzturm
+date: 1847~
+location: Zadrau, Dorfladen
+geocode:
+  lat: 53.0866
+  lon: 11.6882
+  precision: town
+  source: osm
+subjects:
+  - name: Maifeier 1847
+    type: event
+files:
+  - role: main
+    original_name: scan_363.tif
+    path: files/12/79/12792a8fa3957f77254469c80d0c46bff6e16b626b4946e1b0a1edd45e25773d/original.tif
+    sha256: 12792a8fa3957f77254469c80d0c46bff6e16b626b4946e1b0a1edd45e25773d
+    mime: image/tiff
+    bytes: 27802439
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/12/79/12792a8fa3957f77254469c80d0c46bff6e16b626b4946e1b0a1edd45e25773d/preview-400.ec13f74fecfc.jpg
+        sha256: ec13f74fecfc4d3c8e7ce319a4a066257bc5cdeb60ba8e0ce97e512b651f9802
+        mime: image/jpeg
+        bytes: 58684
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Person links unbekannt.

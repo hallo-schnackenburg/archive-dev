@@ -1,0 +1,41 @@
+id: 01HNF4DBA4WCTEC7YGBEZ01CFN
+type: image
+subtype: print
+title: Lithographie Rathaus, Hitzacker
+description: Postkarte, gelaufen 1926.
+date: 1829-12-24
+location: Kapern, Gartenstraße
+geocode:
+  lat: 53.02
+  lon: 11.5102
+  precision: town
+  source: osm
+origin:
+  name: Rudolf Tiedemann
+  type: person
+  location: Havelberg
+subjects:
+  - name: Hans Voss
+    type: person
+parents:
+  - 01GVM1WCR2HNMHN4DWDZ4NZG4Z
+files:
+  - role: main
+    original_name: scan_772.tif
+    path: files/47/e8/47e801f43f4652c28b4f5ed48af1297d93d0e3249e9fe0851632ff7eb9c36dbd/original.tif
+    sha256: 47e801f43f4652c28b4f5ed48af1297d93d0e3249e9fe0851632ff7eb9c36dbd
+    mime: image/tiff
+    bytes: 24775264
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/47/e8/47e801f43f4652c28b4f5ed48af1297d93d0e3249e9fe0851632ff7eb9c36dbd/preview-400.39263535bae8.jpg
+        sha256: 39263535bae8b3e51e35d85b4a1d71c97de9b5027587967e2a9cc39fc813c16a
+        mime: image/jpeg
+        bytes: 28455
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

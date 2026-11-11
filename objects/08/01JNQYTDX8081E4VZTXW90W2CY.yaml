@@ -1,0 +1,50 @@
+id: 01JNQYTDX8081E4VZTXW90W2CY
+type: image
+subtype: photo
+title: Otto Hennings vor dem Hafen
+description: Farbfoto, leicht verblasst.
+date: 1933-10
+location: Cumlosen, Tanzsaal
+geocode:
+  lat: 53.0244
+  lon: 11.5946
+  precision: street
+  source: osm
+origin:
+  name: Wilhelm Jeß
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Kellerarchiv
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v22770
+subjects:
+  - name: Kegelbahn
+    type: building
+  - name: Berta Wegner
+    type: person
+  - name: Zadrau
+    type: place
+files:
+  - role: main
+    original_name: P6302.jpg
+    path: files/94/0a/940ac0472e495e173a722b072a46bb7dbdeb7bace73ad87451930deb498cc117/original.jpg
+    sha256: 940ac0472e495e173a722b072a46bb7dbdeb7bace73ad87451930deb498cc117
+    mime: image/jpeg
+    bytes: 19503481
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/94/0a/940ac0472e495e173a722b072a46bb7dbdeb7bace73ad87451930deb498cc117/preview-400.a51779b37fd0.jpg
+        sha256: a51779b37fd05e507546bb350360015dc5029549fc62fba3f2fc7c8cf876a7dc
+        mime: image/jpeg
+        bytes: 59534
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

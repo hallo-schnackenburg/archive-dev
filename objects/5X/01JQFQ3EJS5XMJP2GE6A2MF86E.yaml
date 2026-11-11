@@ -1,0 +1,39 @@
+id: 01JQFQ3EJS5XMJP2GE6A2MF86E
+type: image
+subtype: photo
+title: Hermann Jeß, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1903-05-19
+location: Gartow, Dorfstraße
+geocode:
+  lat: 52.9624
+  lon: 11.5859
+  precision: region
+  source: osm
+subjects:
+  - name: Karl Behrens
+    type: person
+  - name: Wilhelm Bohlmann
+    type: person
+parents:
+  - 01J1BQMAQVEW8DB40J658P2X0W
+files:
+  - role: main
+    original_name: IMG_6526.jpg
+    path: files/bd/5c/bd5c6bc3c6b5db79651d5a33fc492805a7a1f052b58ba2db55fbee9e19888211/original.jpg
+    sha256: bd5c6bc3c6b5db79651d5a33fc492805a7a1f052b58ba2db55fbee9e19888211
+    mime: image/jpeg
+    bytes: 13766598
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/bd/5c/bd5c6bc3c6b5db79651d5a33fc492805a7a1f052b58ba2db55fbee9e19888211/preview-400.71bbc6317565.jpg
+        sha256: 71bbc63175651ee934fcd6a34fc98491b8c5f37ec9d11a4e115638d6d3e683dd
+        mime: image/jpeg
+        bytes: 65906
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

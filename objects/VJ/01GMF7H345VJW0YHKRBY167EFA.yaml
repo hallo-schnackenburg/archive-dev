@@ -1,0 +1,38 @@
+id: 01GMF7H345VJW0YHKRBY167EFA
+type: image
+subtype: print
+title: "Holzschnitt: Hochzeit, Gorleben"
+date: 1764-11
+origin:
+  name: Karl Voss
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Gisela Tiedemann
+    type: person
+  - name: Marta Ludolf
+    type: person
+  - name: Pumpenhaus
+    type: building
+parents:
+  - 01J7ZY57D3ECK0QYZPPDYBXEE3
+files:
+  - role: main
+    original_name: scan_089.tif
+    path: files/8a/e5/8ae5799937243203ed664a673b8414457a56b581ea7a8bb03b3f1a4960874f01/original.tif
+    sha256: 8ae5799937243203ed664a673b8414457a56b581ea7a8bb03b3f1a4960874f01
+    mime: image/tiff
+    bytes: 5962274
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8a/e5/8ae5799937243203ed664a673b8414457a56b581ea7a8bb03b3f1a4960874f01/preview-400.61230568b8af.jpg
+        sha256: 61230568b8af51dbc0e0b27e5411f368c8eb083f2ab4d2a4a8c95dc5a5013533
+        mime: image/jpeg
+        bytes: 78077
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

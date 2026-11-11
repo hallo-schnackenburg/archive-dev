@@ -1,0 +1,37 @@
+id: 01JJWC8NMYC5SR2FWS7F8F8V11
+type: image
+subtype: plan
+title: Deichplan Gartow bis Arendsee
+date: "1966"
+location: Hitzacker, Gartenstraße
+origin:
+  name: Wilhelm Rohde
+  type: person
+  location: Dömitz
+subjects:
+  - name: Pfarrhaus
+    type: building
+  - name: Emma Wegner
+    type: person
+  - name: Gasthof „Zur Elbe“
+    type: building
+files:
+  - role: main
+    original_name: scan_275.tif
+    path: files/c5/63/c56303e66c6908b25ca935f1688a283e5e6a83c8caa3063ca3d35e821a3d4dff/original.tif
+    sha256: c56303e66c6908b25ca935f1688a283e5e6a83c8caa3063ca3d35e821a3d4dff
+    mime: image/tiff
+    bytes: 14776338
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c5/63/c56303e66c6908b25ca935f1688a283e5e6a83c8caa3063ca3d35e821a3d4dff/preview-400.e05732a5e137.jpg
+        sha256: e05732a5e137bc3b1a5ad9252def72b3416168dc5e183f6b3b6f9907515c3cf5
+        mime: image/jpeg
+        bytes: 26598
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01H15MR42MEJZC3SBH151T93WD
+type: image
+subtype: photo
+title: Hochwasser 1936
+date: "1936"
+location: Bömenzien, Burgstraße
+geocode:
+  lat: 52.9699
+  lon: 11.6015
+  precision: exact
+  source: osm
+parents:
+  - 01F5A46AQZSQ2ZQK2E1F4Z4ECB
+  - 01GA39T3DGKMZM390K7AXRNKQW
+files:
+  - role: main
+    original_name: foto_5286.jpg
+    path: files/71/22/7122bf33ac9af1242f32176b014d7f6c5b6ef0fc36d2abaa9ebbfee9be509d31/original.jpg
+    sha256: 7122bf33ac9af1242f32176b014d7f6c5b6ef0fc36d2abaa9ebbfee9be509d31
+    mime: image/jpeg
+    bytes: 25616036
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/71/22/7122bf33ac9af1242f32176b014d7f6c5b6ef0fc36d2abaa9ebbfee9be509d31/preview-400.8a89a5b01e9b.jpg
+        sha256: 8a89a5b01e9b1c8d448ab9328ac903445485519d2eb859ba2ab7e80431f6fe7f
+        mime: image/jpeg
+        bytes: 22466
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

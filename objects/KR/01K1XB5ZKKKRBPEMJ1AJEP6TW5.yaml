@@ -1,0 +1,38 @@
+id: 01K1XB5ZKKKRBPEMJ1AJEP6TW5
+type: image
+subtype: plan
+title: Flurkarte Gorleben, Lanz
+date: "1820"
+origin:
+  name: Dieter Lüders
+  type: person
+  location: Laase
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Feuerwehrhaus
+    type: building
+  - name: Osterfeuer 1820
+    type: event
+parents:
+  - 01F609NXHEBHNPDFETZVY63FSS
+files:
+  - role: main
+    original_name: scan_977.tif
+    path: files/5e/c9/5ec901faff2629b36fa20c0d958b33f7674adc67026db4d1cb48a1b09fa1faec/original.tif
+    sha256: 5ec901faff2629b36fa20c0d958b33f7674adc67026db4d1cb48a1b09fa1faec
+    mime: image/tiff
+    bytes: 2011559
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5e/c9/5ec901faff2629b36fa20c0d958b33f7674adc67026db4d1cb48a1b09fa1faec/preview-400.99227d281279.jpg
+        sha256: 99227d28127951fd6362b2e6c9dbc2145cc6007735ca5a2ad03915900b223429
+        mime: image/jpeg
+        bytes: 78540
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

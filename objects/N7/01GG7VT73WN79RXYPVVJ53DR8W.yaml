@@ -1,0 +1,42 @@
+id: 01GG7VT73WN79RXYPVVJ53DR8W
+type: image
+subtype: drawing
+title: Entwurf für Kindergarten
+date: 1977/1989
+location: Lenzen, Rathaus
+geocode:
+  lat: 52.9452
+  lon: 11.5623
+  precision: street
+  source: osm
+origin:
+  name: Ilse Detlefs
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Helga Bohlmann
+    type: person
+  - name: Restorf
+    type: place
+parents:
+  - 01JCYMRB83VZY8P4S2Q7H8E1H3
+files:
+  - role: main
+    original_name: scan_839.tif
+    path: files/28/e3/28e3bef08f8abd6e336dbc9fe8abb14db5b7b24fb8094ee773c6389920e2b20e/original.tif
+    sha256: 28e3bef08f8abd6e336dbc9fe8abb14db5b7b24fb8094ee773c6389920e2b20e
+    mime: image/tiff
+    bytes: 2810287
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/28/e3/28e3bef08f8abd6e336dbc9fe8abb14db5b7b24fb8094ee773c6389920e2b20e/preview-400.bfe88285b79d.jpg
+        sha256: bfe88285b79d813b682dfbdc28739d7e2c10a9a6bd73e0c95312998c23883083
+        mime: image/jpeg
+        bytes: 42922
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

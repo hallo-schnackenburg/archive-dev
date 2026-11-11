@@ -1,0 +1,33 @@
+id: 01KZ5TSZ6RCZF2XEW76J6NF3A0
+type: image
+subtype: print
+title: "Holzschnitt: Sturmschaden, Bömenzien"
+description: Lithographie, Rand beschnitten.
+date: 1909-04
+origin:
+  name: Gustav Jeß
+  type: person
+  location: Schnackenburg
+parents:
+  - 01J170QRQ1RW8QBV1KF3WPVAX6
+  - 01GWG9662GMDBHVAK54DXCMWG2
+files:
+  - role: main
+    original_name: scan_598.tif
+    path: files/1f/31/1f3141b3bdcc9c5af8a5446017cb34fd9fe100560d9577779d2266f4c9dd04c1/original.tif
+    sha256: 1f3141b3bdcc9c5af8a5446017cb34fd9fe100560d9577779d2266f4c9dd04c1
+    mime: image/tiff
+    bytes: 11738244
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/1f/31/1f3141b3bdcc9c5af8a5446017cb34fd9fe100560d9577779d2266f4c9dd04c1/preview-400.03544480675f.jpg
+        sha256: 03544480675fce657940c79a119a426b6c4cccfd07341fde41267d09548373c7
+        mime: image/jpeg
+        bytes: 57966
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

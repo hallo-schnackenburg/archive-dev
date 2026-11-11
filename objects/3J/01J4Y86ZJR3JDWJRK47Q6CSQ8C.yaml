@@ -1,0 +1,49 @@
+id: 01J4Y86ZJR3JDWJRK47Q6CSQ8C
+type: image
+subtype: photo
+title: Familie Lemke beim Osterfeuer
+description: Farbfoto, leicht verblasst.
+date: 1996/2005
+location: Wustrow, Bahnhof
+geocode:
+  lat: 53.0771
+  lon: 11.5552
+  precision: street
+  source: osm
+origin:
+  name: Hans Ahrens
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg 26/389
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+  - name: Dorfschule
+    type: building
+  - name: Hans Gaede
+    type: person
+files:
+  - role: main
+    original_name: scan_720.tif
+    path: files/e8/fd/e8fdc66ade7a1f8b47585cd6c0c2fb91f6ec83652d23f014e427df2479bcbc9e/original.tif
+    sha256: e8fdc66ade7a1f8b47585cd6c0c2fb91f6ec83652d23f014e427df2479bcbc9e
+    mime: image/tiff
+    bytes: 22606261
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e8/fd/e8fdc66ade7a1f8b47585cd6c0c2fb91f6ec83652d23f014e427df2479bcbc9e/preview-400.83eeaca2e250.jpg
+        sha256: 83eeaca2e250abce81422429e972ab25ca699babbb921d174fe21d2cfbf86c76
+        mime: image/jpeg
+        bytes: 35687
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

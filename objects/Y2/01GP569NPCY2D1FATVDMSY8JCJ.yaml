@@ -1,0 +1,50 @@
+id: 01GP569NPCY2D1FATVDMSY8JCJ
+type: image
+subtype: photo
+title: Hochwasser 1913
+date: "1913"
+location: Lüchow, Molkerei
+geocode:
+  lat: 52.9882
+  lon: 11.5439
+  precision: exact
+  source: osm
+origin:
+  name: Brigitte Oelker
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Feuerwehrübung 1913
+    type: event
+  - name: Hitzacker
+    type: place
+  - name: Restorf
+    type: place
+parents:
+  - 01FXP7C4VHXDAWP3MGADT9QA1F
+  - 01H683J429KTWPMPPF52JN3Q9J
+files:
+  - role: main
+    original_name: P9667.jpg
+    path: files/cf/10/cf1013ace6dbf429951fce45004c6658613377c42f7667b58604d89c74841134/original.jpg
+    sha256: cf1013ace6dbf429951fce45004c6658613377c42f7667b58604d89c74841134
+    mime: image/jpeg
+    bytes: 19373313
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/cf/10/cf1013ace6dbf429951fce45004c6658613377c42f7667b58604d89c74841134/preview-400.4a6fec7bf595.jpg
+        sha256: 4a6fec7bf595dbf2383fdf723c704d79fbab89c935c37d3770b5bc0d43f80ef1
+        mime: image/jpeg
+        bytes: 65903
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

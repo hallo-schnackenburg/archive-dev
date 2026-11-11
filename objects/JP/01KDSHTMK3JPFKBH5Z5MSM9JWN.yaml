@@ -1,0 +1,46 @@
+id: 01KDSHTMK3JPFKBH5Z5MSM9JWN
+type: image
+subtype: print
+title: Gruß aus Cumlosen
+date: 1830-12-03
+origin:
+  name: Heinrich Bruns
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 24/336
+owner:
+  name: Friedrich Lemke
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Schlachterei
+    type: building
+  - name: Gerda Jeß
+    type: person
+  - name: Kapern
+    type: place
+files:
+  - role: main
+    original_name: scan_338.tif
+    path: files/f2/38/f23874a53134333ee1a700184089857f1ec6e28edc0f6912d99ff57424d2af1a/original.tif
+    sha256: f23874a53134333ee1a700184089857f1ec6e28edc0f6912d99ff57424d2af1a
+    mime: image/tiff
+    bytes: 6687373
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f2/38/f23874a53134333ee1a700184089857f1ec6e28edc0f6912d99ff57424d2af1a/preview-400.7d47c2861b14.jpg
+        sha256: 7d47c2861b1454377387e92ce35835a68b9d3664c4cf59be30a43cc33c1274b8
+        mime: image/jpeg
+        bytes: 80306
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

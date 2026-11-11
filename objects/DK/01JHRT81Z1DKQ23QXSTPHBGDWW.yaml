@@ -1,0 +1,45 @@
+id: 01JHRT81Z1DKQ23QXSTPHBGDWW
+type: image
+subtype: photo
+title: Pfarrhaus in Wustrow
+description: Aufnahme von Fritz Wegner.
+date: 1893-01-22
+location: Lenzen, Schulstraße
+origin:
+  name: Rudolf Tiedemann
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 19/238
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Fastnacht 1893
+    type: event
+parents:
+  - 01K4CSV2ZP5WMZZB5PTYVKX9F7
+  - 01FP0WJ7PX3NTMB1HWR0QPCV98
+files:
+  - role: main
+    original_name: foto_7129.jpg
+    path: files/5c/55/5c55d99e73181e93bad65ebf39f1d8bf2ee86fbb62b80ea5ef950837a823102c/original.jpg
+    sha256: 5c55d99e73181e93bad65ebf39f1d8bf2ee86fbb62b80ea5ef950837a823102c
+    mime: image/jpeg
+    bytes: 6126072
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/5c/55/5c55d99e73181e93bad65ebf39f1d8bf2ee86fbb62b80ea5ef950837a823102c/preview-400.e786bb247d12.jpg
+        sha256: e786bb247d127ce12c4a948190985978b837697232b0e59c37d8276b64c5eba7
+        mime: image/jpeg
+        bytes: 66300
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

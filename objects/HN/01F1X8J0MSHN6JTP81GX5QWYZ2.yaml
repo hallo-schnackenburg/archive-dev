@@ -1,0 +1,36 @@
+id: 01F1X8J0MSHN6JTP81GX5QWYZ2
+type: image
+subtype: plan
+title: Flurkarte Salzwedel, Restorf
+date: 1822/1829
+location: Nienwalde, Am Elbdeich
+origin:
+  name: Heinrich Ahrens
+  type: person
+  location: Pretzier
+subjects:
+  - name: Karl Albers
+    type: person
+parents:
+  - 01JSYB7Z03WSNMJ0H37E7BWCQW
+  - 01JTPFAGJV7HD3HHWGXV6FNT27
+files:
+  - role: main
+    original_name: scan_576.tif
+    path: files/7e/97/7e97b6c9f84dd00949fb064fbc89187e6fed5fd1af4dfee5c898dadf26bdae25/original.tif
+    sha256: 7e97b6c9f84dd00949fb064fbc89187e6fed5fd1af4dfee5c898dadf26bdae25
+    mime: image/tiff
+    bytes: 10683646
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7e/97/7e97b6c9f84dd00949fb064fbc89187e6fed5fd1af4dfee5c898dadf26bdae25/preview-400.c194bf15e3ce.jpg
+        sha256: c194bf15e3ce1f769821c0abe9536c52815452d582261aaa0e5e58c6e9623192
+        mime: image/jpeg
+        bytes: 58503
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

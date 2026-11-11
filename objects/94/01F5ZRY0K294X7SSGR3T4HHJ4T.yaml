@@ -1,0 +1,43 @@
+id: 01F5ZRY0K294X7SSGR3T4HHJ4T
+type: image
+subtype: plan
+title: Bauplan Kirche St. Johannis 1792
+date: 1792-02-11
+location: Schnackenburg, Mühlenweg
+origin:
+  name: Fritz Voss
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg/Kasten 4/017
+subjects:
+  - name: Dorfteich
+    type: building
+  - name: Brigitte Meyer
+    type: person
+  - name: Berta Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_354.tif
+    path: files/ff/2c/ff2c3d2afb4b9f67eae0a229215df705e9450fdb8c41630afa6bd0668f2fb005/original.tif
+    sha256: ff2c3d2afb4b9f67eae0a229215df705e9450fdb8c41630afa6bd0668f2fb005
+    mime: image/tiff
+    bytes: 6583652
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ff/2c/ff2c3d2afb4b9f67eae0a229215df705e9450fdb8c41630afa6bd0668f2fb005/preview-400.b1e33d4e85bf.jpg
+        sha256: b1e33d4e85bf6fd434e527c05482c064dbf54322f7f7ce5aba57a77d8602d33f
+        mime: image/jpeg
+        bytes: 29277
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

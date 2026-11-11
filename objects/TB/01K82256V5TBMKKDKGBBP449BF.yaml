@@ -1,0 +1,38 @@
+id: 01K82256V5TBMKKDKGBBP449BF
+type: image
+subtype: drawing
+title: Federzeichnung Dorfschule
+description: Federzeichnung, laviert.
+date: 1838-09-24
+location: Restorf, Bahnhofstraße
+origin:
+  name: Fritz Behrens
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Ortsbesichtigung 1838
+    type: event
+  - name: Elbdeich
+    type: building
+  - name: Hochwasser 1838
+    type: event
+files:
+  - role: main
+    original_name: scan_446.tif
+    path: files/fb/32/fb32d88b616d7b47f28752067765648a42ec39f98c8ab6d85d2b5118c96f6479/original.tif
+    sha256: fb32d88b616d7b47f28752067765648a42ec39f98c8ab6d85d2b5118c96f6479
+    mime: image/tiff
+    bytes: 27593687
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fb/32/fb32d88b616d7b47f28752067765648a42ec39f98c8ab6d85d2b5118c96f6479/preview-400.4b842a596a17.jpg
+        sha256: 4b842a596a17cc7d9216e3f0d6f63957bcc2a6ed377ee06e21e32b9a29d73a9d
+        mime: image/jpeg
+        bytes: 49290
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

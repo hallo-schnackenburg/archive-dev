@@ -1,0 +1,36 @@
+id: 01EY0F1ZF05RV3WW524BYB867J
+type: image
+subtype: plan
+title: Grundriss Brunnen am Markt, Pretzier
+date: "1922"
+location: Nienwalde, Lange Straße
+origin:
+  name: Friedrich Meyer
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 11/284
+files:
+  - role: main
+    original_name: scan_834.tif
+    path: files/a8/a0/a8a08ccb5469d126de254322d337eabc676f8d8fcee26d09c3a30adef8d0c123/original.tif
+    sha256: a8a08ccb5469d126de254322d337eabc676f8d8fcee26d09c3a30adef8d0c123
+    mime: image/tiff
+    bytes: 17371144
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a8/a0/a8a08ccb5469d126de254322d337eabc676f8d8fcee26d09c3a30adef8d0c123/preview-400.ae7d3423e371.jpg
+        sha256: ae7d3423e371c76242c4b2873df12b7fa240942c7c952751fb3eca52dc59614b
+        mime: image/jpeg
+        bytes: 88899
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

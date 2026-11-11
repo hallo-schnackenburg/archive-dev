@@ -1,0 +1,49 @@
+id: 01JTWJTBA913BNGRHNF99CAMWX
+type: image
+subtype: photo
+title: "Fußballverein: Gruppenbild Maifeier"
+description: Aufnahme von Elfriede Lemke.
+date: 199X
+location: Schnackenburg, Hinter den Höfen
+geocode:
+  lat: 53.0374
+  lon: 11.5453
+  precision: town
+  source: osm
+origin:
+  name: Erika Bruns
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 29/135
+subjects:
+  - name: Lanz
+    type: place
+  - name: Kegelbahn
+    type: building
+  - name: Bäckerei Lüders
+    type: building
+files:
+  - role: main
+    original_name: P4870.jpg
+    path: files/f5/be/f5be70a29513ba4f0b6bb9f2914fb5485396c537407861e0bf1ab7add5f99c2e/original.jpg
+    sha256: f5be70a29513ba4f0b6bb9f2914fb5485396c537407861e0bf1ab7add5f99c2e
+    mime: image/jpeg
+    bytes: 19517374
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/f5/be/f5be70a29513ba4f0b6bb9f2914fb5485396c537407861e0bf1ab7add5f99c2e/preview-400.712d82bdd4c4.jpg
+        sha256: 712d82bdd4c4fc01bfeffd974408fb702904a0d3977199e5d6f3a792f7074fc7
+        mime: image/jpeg
+        bytes: 49138
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

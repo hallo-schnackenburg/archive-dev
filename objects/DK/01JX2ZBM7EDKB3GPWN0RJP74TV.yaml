@@ -1,0 +1,40 @@
+id: 01JX2ZBM7EDKB3GPWN0RJP74TV
+type: image
+subtype: print
+title: Postkarte Holtorf, Gemeindehaus
+description: Kupferstich, koloriert.
+date: 1796/1808
+location: Lüchow, Schulstraße
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Bömenzien
+  reference: Slg 40/281
+subjects:
+  - name: Hafen
+    type: building
+  - name: Windmühle
+    type: building
+  - name: Gasthof Meyer
+    type: building
+files:
+  - role: main
+    original_name: scan_772.tif
+    path: files/ab/f4/abf406c7349d1cbbcc2f20a4ec847543d26f1cd1116044a517e3b78b8c65bfa3/original.tif
+    sha256: abf406c7349d1cbbcc2f20a4ec847543d26f1cd1116044a517e3b78b8c65bfa3
+    mime: image/tiff
+    bytes: 15437409
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ab/f4/abf406c7349d1cbbcc2f20a4ec847543d26f1cd1116044a517e3b78b8c65bfa3/preview-400.f7869a12391c.jpg
+        sha256: f7869a12391cb6e5116f40a15b695675a0dfb0f5cd4a44973d22a6310382aae7
+        mime: image/jpeg
+        bytes: 62365
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

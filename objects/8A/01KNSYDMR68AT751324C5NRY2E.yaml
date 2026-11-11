@@ -1,0 +1,38 @@
+id: 01KNSYDMR68AT751324C5NRY2E
+type: image
+subtype: plan
+title: Deichplan Restorf bis Wittenberge
+date: "1968"
+origin:
+  name: Hans Wegner
+  type: person
+  location: Restorf
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+  - name: Ziegelei
+    type: building
+  - name: Hochwasser 1968
+    type: event
+parents:
+  - 01HPYA59S9BTVVKYNA7APHK7GB
+files:
+  - role: main
+    original_name: scan_770.tif
+    path: files/bb/d3/bbd349c95b2dd2d0bfc6b2694ee4ac7b0aec1b3dc108f43f6f521a17c05dbab7/original.tif
+    sha256: bbd349c95b2dd2d0bfc6b2694ee4ac7b0aec1b3dc108f43f6f521a17c05dbab7
+    mime: image/tiff
+    bytes: 20745552
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bb/d3/bbd349c95b2dd2d0bfc6b2694ee4ac7b0aec1b3dc108f43f6f521a17c05dbab7/preview-400.ab078f2c8645.jpg
+        sha256: ab078f2c8645efd885cd67e2544c64c1199b840595e0d3af2d002bc50bb902e3
+        mime: image/jpeg
+        bytes: 24126
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

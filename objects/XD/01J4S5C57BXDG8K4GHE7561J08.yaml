@@ -1,0 +1,48 @@
+id: 01J4S5C57BXDG8K4GHE7561J08
+type: image
+subtype: photo
+title: "Theatergruppe: Gruppenbild Glockenweihe"
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1890~
+location: Schnackenburg, Pfarrhaus
+geocode:
+  lat: 53.0381
+  lon: 11.5704
+  precision: street
+  source: osm
+origin:
+  name: Otto Brandt
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Familie Wiegmann
+    type: person
+    location: Kapern
+  reference: Plan/Album 11/045
+  note: Dachboden, Truhe
+subjects:
+  - name: Brunnen am Markt
+    type: building
+  - name: Cumlosen
+    type: place
+files:
+  - role: main
+    original_name: P8882.jpg
+    path: files/03/ee/03ee34f811d5d10e4251446caed4807073dc62c33c20d56cd5c6d4fcad1adfe7/original.jpg
+    sha256: 03ee34f811d5d10e4251446caed4807073dc62c33c20d56cd5c6d4fcad1adfe7
+    mime: image/jpeg
+    bytes: 10807424
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/03/ee/03ee34f811d5d10e4251446caed4807073dc62c33c20d56cd5c6d4fcad1adfe7/preview-400.e4d013299ec4.jpg
+        sha256: e4d013299ec40fade2fa78ac6dea113ad7ae229c4948aa2a0280725605155d29
+        mime: image/jpeg
+        bytes: 54350
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

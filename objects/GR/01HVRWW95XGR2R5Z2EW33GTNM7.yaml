@@ -1,0 +1,36 @@
+id: 01HVRWW95XGR2R5Z2EW33GTNM7
+type: image
+subtype: photo
+title: Eisgang 1922
+date: "1922"
+location: Dömitz, Grenzturm
+origin:
+  name: Wilhelm Nitschke
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Pretzier
+    type: place
+parents:
+  - 01HV23CDKEHB2T4F0325HW90F9
+  - 01KVCSCGQMX3Z8B4CPCNEPWYV0
+files:
+  - role: main
+    original_name: foto_3811.jpg
+    path: files/27/4b/274b7c263049208247ba6b9cca2c4e090f52934374041ad11cfad4eeea6bdac7/original.jpg
+    sha256: 274b7c263049208247ba6b9cca2c4e090f52934374041ad11cfad4eeea6bdac7
+    mime: image/jpeg
+    bytes: 20798172
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/27/4b/274b7c263049208247ba6b9cca2c4e090f52934374041ad11cfad4eeea6bdac7/preview-400.00062ee3a93f.jpg
+        sha256: 00062ee3a93f7b080072210da799c7767e1d18ee003b04c52ad4fcf84505c6fa
+        mime: image/jpeg
+        bytes: 24340
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

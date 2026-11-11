@@ -1,0 +1,39 @@
+id: 01GHN7STB6RCTKN0N3EEARWCGE
+type: image
+subtype: plan
+title: Bauplan Wassermühle 1968
+description: Tusche auf Transparentpapier.
+date: 1968/1976
+location: Zadrau, Windmühle
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Dachboden, Truhe
+subjects:
+  - name: Kartoffelernte 1968
+    type: event
+parents:
+  - 01JASR0HP1MS5AYRYN7A5XSTYQ
+  - 01HJMR4YWKHDFKNS8WPV4XDY2Z
+files:
+  - role: main
+    original_name: scan_903.tif
+    path: files/e7/20/e7205b4da2da21cc2448c38d0c3beb515f56dcb76f35eaaf95af2041fe7a4a5f/original.tif
+    sha256: e7205b4da2da21cc2448c38d0c3beb515f56dcb76f35eaaf95af2041fe7a4a5f
+    mime: image/tiff
+    bytes: 415848
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e7/20/e7205b4da2da21cc2448c38d0c3beb515f56dcb76f35eaaf95af2041fe7a4a5f/preview-400.70edb5d1174d.jpg
+        sha256: 70edb5d1174dc1bf7233b2875d90594cb50f4ba3ba90e3cb1b3f29d41d31de1f
+        mime: image/jpeg
+        bytes: 68459
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

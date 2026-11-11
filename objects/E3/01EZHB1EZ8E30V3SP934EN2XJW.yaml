@@ -1,0 +1,43 @@
+id: 01EZHB1EZ8E30V3SP934EN2XJW
+type: image
+subtype: print
+title: Lithographie Torhaus, Bömenzien
+description: Lithographie, Rand beschnitten.
+date: 1867-11-21
+location: Arendsee, Lange Straße
+geocode:
+  lat: 53.005
+  lon: 11.4797
+  precision: town
+  source: osm
+origin:
+  name: Karl Wöhlk
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Heinz Lindemann
+    type: person
+  - name: Sportplatz
+    type: building
+files:
+  - role: main
+    original_name: scan_197.tif
+    path: files/f2/fd/f2fda6e5b649ab7fcf4cbb5e5dada80d3d5520e60963a6a4854840e99115b0dc/original.tif
+    sha256: f2fda6e5b649ab7fcf4cbb5e5dada80d3d5520e60963a6a4854840e99115b0dc
+    mime: image/tiff
+    bytes: 3771259
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f2/fd/f2fda6e5b649ab7fcf4cbb5e5dada80d3d5520e60963a6a4854840e99115b0dc/preview-400.c790c126bc25.jpg
+        sha256: c790c126bc25ddd697065133cc6ea0a8957777a27d6de7bff22a805d2a27e211
+        mime: image/jpeg
+        bytes: 37112
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

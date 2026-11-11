@@ -1,0 +1,41 @@
+id: 01H9Y8776PS8FV7J3K3TXGVENG
+type: image
+subtype: photo
+title: Viehmarkt 1975
+date: 1975-01-05
+location: Wustrow, Bahnhofstraße
+origin:
+  name: Paul Ludolf
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Restorf
+  reference: F/Mappe 6/099
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+  - name: Gustav Voss
+    type: person
+files:
+  - role: main
+    original_name: IMG_4882.jpg
+    path: files/53/9c/539c253dcb54818d652fc004a08c47dd3dd732cd08171ee66b11f5389b5c24a1/original.jpg
+    sha256: 539c253dcb54818d652fc004a08c47dd3dd732cd08171ee66b11f5389b5c24a1
+    mime: image/jpeg
+    bytes: 27771291
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/53/9c/539c253dcb54818d652fc004a08c47dd3dd732cd08171ee66b11f5389b5c24a1/preview-400.fd457b88a48a.jpg
+        sha256: fd457b88a48adff9c0620ad08f6ab0e459ca46ec54c9c4a697e0db062bd8e8b0
+        mime: image/jpeg
+        bytes: 78982
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

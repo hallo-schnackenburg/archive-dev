@@ -1,0 +1,39 @@
+id: 01KN7M83PZM0JW3E6GEWZGAFJZ
+type: image
+subtype: print
+title: Lithographie Torhaus, Kapern
+description: Postkarte, gelaufen 1912.
+date: 1905-07-01
+location: Salzwedel, Dorfstraße
+origin:
+  name: Otto Bohlmann
+  type: person
+  location: Restorf
+subjects:
+  - name: Erika Gerdes
+    type: person
+  - name: Marta Wegner
+    type: person
+parents:
+  - 01FC500G3M1EH4PAW2K7HHB2K0
+  - 01GYVCE9612QGZYBGWYYZ1X9FF
+files:
+  - role: main
+    original_name: scan_740.tif
+    path: files/c0/28/c02809c725eee84f9b4ae196fa971920f56d31c14ddcc0db1c41ebc64ec92139/original.tif
+    sha256: c02809c725eee84f9b4ae196fa971920f56d31c14ddcc0db1c41ebc64ec92139
+    mime: image/tiff
+    bytes: 16854777
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c0/28/c02809c725eee84f9b4ae196fa971920f56d31c14ddcc0db1c41ebc64ec92139/preview-400.ffabf0fbf029.jpg
+        sha256: ffabf0fbf029672e9eb5162fb3076cf240c559ff138261cf00f9ca9fb496656c
+        mime: image/jpeg
+        bytes: 84243
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

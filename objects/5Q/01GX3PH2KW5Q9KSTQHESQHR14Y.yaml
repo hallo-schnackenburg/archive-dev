@@ -1,0 +1,45 @@
+id: 01GX3PH2KW5Q9KSTQHESQHR14Y
+type: image
+subtype: drawing
+title: Skizze Dömitz, Hinter den Höfen, Havelberg
+date: 1837~
+location: Lenzen, Schulstraße
+geocode:
+  lat: 53.0277
+  lon: 11.4517
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 24/017
+  note: Dachboden, Truhe
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Bäckerei Lüders
+    type: building
+parents:
+  - 01JRGX3XFSMSVNN02PC0NNSHZP
+files:
+  - role: main
+    original_name: scan_784.tif
+    path: files/9a/89/9a89700afead0a33e981828929b375723b41d17bb79326bf7c284fbbe8f47608/original.tif
+    sha256: 9a89700afead0a33e981828929b375723b41d17bb79326bf7c284fbbe8f47608
+    mime: image/tiff
+    bytes: 18409689
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9a/89/9a89700afead0a33e981828929b375723b41d17bb79326bf7c284fbbe8f47608/preview-400.d346e3179a65.jpg
+        sha256: d346e3179a657b700107fec49efd044ec9a20aebcaa99e2eddf8683815024fea
+        mime: image/jpeg
+        bytes: 44424
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

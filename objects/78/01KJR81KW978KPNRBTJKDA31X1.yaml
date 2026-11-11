@@ -1,0 +1,50 @@
+id: 01KJR81KW978KPNRBTJKDA31X1
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Glockenweihe, Cumlosen"
+description: Mit Anmerkungen am Rand.
+date: 1934~
+location: Bömenzien, Badestelle
+geocode:
+  lat: 52.9143
+  lon: 11.6947
+  precision: exact
+  source: osm
+origin:
+  name: Otto Wiegmann
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 3/120
+  note: Bücherregal links
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Kindergartenfest 1934
+    type: event
+parents:
+  - 01HSFT2Q2FD2XQC16T903QVHSK
+files:
+  - role: main
+    original_name: scan_774.tif
+    path: files/fb/70/fb70e488026469f6d855761b6086aeff20fe27461320877aec59a1c494cc2e75/original.tif
+    sha256: fb70e488026469f6d855761b6086aeff20fe27461320877aec59a1c494cc2e75
+    mime: image/tiff
+    bytes: 17718890
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fb/70/fb70e488026469f6d855761b6086aeff20fe27461320877aec59a1c494cc2e75/preview-400.fac67eaeb557.jpg
+        sha256: fac67eaeb55719426309e02a3f11a02c3fd91d807a9b760e8950cec763250992
+        mime: image/jpeg
+        bytes: 53476
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

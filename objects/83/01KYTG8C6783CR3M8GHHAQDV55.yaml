@@ -1,0 +1,41 @@
+id: 01KYTG8C6783CR3M8GHHAQDV55
+type: image
+subtype: drawing
+title: Wappenentwurf Brünkendorf, Kapern (98)
+description: Bleistift auf Papier.
+date: 1879~
+location: Havelberg, Tischlerei Bruns
+geocode:
+  lat: 52.9144
+  lon: 11.6125
+  precision: region
+  source: osm
+subjects:
+  - name: Karl Hennings
+    type: person
+  - name: Sportplatz
+    type: building
+  - name: Eisgang 1879
+    type: event
+parents:
+  - 01EZVF5X45RBX6V4W1ADQSS6DP
+files:
+  - role: main
+    original_name: scan_867.tif
+    path: files/6a/ff/6aff85d385a10e385136a8dcc2566dab5c53db73d2ff7518bb01761b0592c6a1/original.tif
+    sha256: 6aff85d385a10e385136a8dcc2566dab5c53db73d2ff7518bb01761b0592c6a1
+    mime: image/tiff
+    bytes: 4655822
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6a/ff/6aff85d385a10e385136a8dcc2566dab5c53db73d2ff7518bb01761b0592c6a1/preview-400.d43ff740bcf5.jpg
+        sha256: d43ff740bcf55f07d1614d2324c9725d9d3af8f001ae4522c56c329a67b2a7aa
+        mime: image/jpeg
+        bytes: 65688
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

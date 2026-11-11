@@ -1,0 +1,39 @@
+id: 01HNE9DYMQAVX7JW5FV85PQ728
+type: image
+subtype: print
+title: Lithographie Gärtnerei, Cumlosen
+description: Lithographie, Rand beschnitten.
+location: Arendsee, Lange Straße
+origin:
+  name: Dieter Jürgens
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro 1/347
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+files:
+  - role: main
+    original_name: scan_673.tif
+    path: files/c1/58/c158494e9d9606a31ac2232cc1263224df7547df386ea68336c7516b5b3af35f/original.tif
+    sha256: c158494e9d9606a31ac2232cc1263224df7547df386ea68336c7516b5b3af35f
+    mime: image/tiff
+    bytes: 21882534
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c1/58/c158494e9d9606a31ac2232cc1263224df7547df386ea68336c7516b5b3af35f/preview-400.9aed6c290739.jpg
+        sha256: 9aed6c290739c9c9daf3baf1257dd58809eba1d97574d7060fe1d51f8eefadd6
+        mime: image/jpeg
+        bytes: 65002
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,73 @@
+id: 01F09AF5JRE5SGK4ZDQYMDHKFG
+type: document
+subtype: note
+title: Rechnung Krüger, Windmühle
+description: Beleg mit Stempel.
+date: "1985"
+location: Wustrow, Scheune
+geocode:
+  lat: 53.0979
+  lon: 11.6361
+  precision: exact
+  source: osm
+origin:
+  name: August Lemke
+  type: person
+  location: Wootz
+language: nds
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro 12/319
+  note: Regal 4, Kiste 2
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v80856
+subjects:
+  - name: Wootz
+    type: place
+  - name: Kirche St. Johannis
+    type: building
+  - name: Heinrich Cohrs
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_mdhkfg_001.tif
+    path: files/94/38/9438f1397be260501540e60884dab732b9eef4b3439a24842e7724bd7cf576df/original.tif
+    sha256: 9438f1397be260501540e60884dab732b9eef4b3439a24842e7724bd7cf576df
+    mime: image/tiff
+    bytes: 4853972
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/94/38/9438f1397be260501540e60884dab732b9eef4b3439a24842e7724bd7cf576df/preview-400.1bb8664eee02.jpg
+        sha256: 1bb8664eee021fe15882b34ca320ed299f121b730fdb89dcdb67df49b73d3126
+        mime: image/jpeg
+        bytes: 70024
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_mdhkfg_002.tif
+    path: files/44/12/44125f06533382c2c079e7ee57ad1a527f67390b0356b1f3378facbbb7349484/original.tif
+    sha256: 44125f06533382c2c079e7ee57ad1a527f67390b0356b1f3378facbbb7349484
+    mime: image/tiff
+    bytes: 1990451
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/44/12/44125f06533382c2c079e7ee57ad1a527f67390b0356b1f3378facbbb7349484/preview-400.1564ca6e3ff2.jpg
+        sha256: 1564ca6e3ff2054040f6d7039070dcff06abf37a65d5b93de222d1e228d68212
+        mime: image/jpeg
+        bytes: 47922
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

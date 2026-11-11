@@ -1,0 +1,45 @@
+id: 01HKKBGERK68GQPFF8G5G9ET3F
+type: image
+subtype: plan
+title: Deichplan Gollensdorf bis Dömitz
+description: Maßstab 1:2500.
+date: "1943"
+location: Lüchow, Mühlenweg
+geocode:
+  lat: 52.9018
+  lon: 11.5034
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 36/392
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Wootz
+    type: place
+  - name: Bömenzien
+    type: place
+files:
+  - role: main
+    original_name: scan_896.tif
+    path: files/a8/cd/a8cdef880e7a145af07b63c43c37ed271dce0799099f95a641d01d90a18391b3/original.tif
+    sha256: a8cdef880e7a145af07b63c43c37ed271dce0799099f95a641d01d90a18391b3
+    mime: image/tiff
+    bytes: 17674725
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a8/cd/a8cdef880e7a145af07b63c43c37ed271dce0799099f95a641d01d90a18391b3/preview-400.0c3b86ebfdd2.jpg
+        sha256: 0c3b86ebfdd23ff9249e9e356d901b2cedc2035cc4b4a229af925872aa04830d
+        mime: image/jpeg
+        bytes: 58786
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01J6Y484PH2RE31RH3WAWJTB54
+type: image
+subtype: plan
+title: Deichplan Kapern bis Lüchow
+date: "1914"
+location: Havelberg, Feuerwehrhaus
+geocode:
+  lat: 52.9978
+  lon: 11.654
+  precision: region
+  source: osm
+subjects:
+  - name: Gustav Kuhlmann
+    type: person
+parents:
+  - 01HRJYJMA6PZA35NA1FR6QZ5XX
+files:
+  - role: main
+    original_name: scan_042.tif
+    path: files/66/8f/668f43d8dc7c8d30afea940f1a365804b7d1c743c89d75352ea615d58bff02f6/original.tif
+    sha256: 668f43d8dc7c8d30afea940f1a365804b7d1c743c89d75352ea615d58bff02f6
+    mime: image/tiff
+    bytes: 3373552
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/66/8f/668f43d8dc7c8d30afea940f1a365804b7d1c743c89d75352ea615d58bff02f6/preview-400.9765dcbf901d.jpg
+        sha256: 9765dcbf901d3bb60fd0e5e38387654b8eebdc296164ed5e0db43714b0ec3a8c
+        mime: image/jpeg
+        bytes: 56984
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

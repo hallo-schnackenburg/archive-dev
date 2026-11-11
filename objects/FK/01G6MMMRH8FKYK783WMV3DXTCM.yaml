@@ -1,0 +1,38 @@
+id: 01G6MMMRH8FKYK783WMV3DXTCM
+type: image
+subtype: photo
+title: Fritz Dierks, Porträt
+description: Abzug im Format 6 x 9 cm.
+date: 196X
+location: Holtorf, Am Elbdeich
+origin:
+  name: Otto Harms
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Pretzier
+    type: place
+parents:
+  - 01J36EBSGAM0EQS4K8346DJX88
+files:
+  - role: main
+    original_name: DSC1181.jpg
+    path: files/96/40/9640d8f862c345c8adf1c40abc604fe89f2268ba5345d0db3ce34da99ee430c9/original.jpg
+    sha256: 9640d8f862c345c8adf1c40abc604fe89f2268ba5345d0db3ce34da99ee430c9
+    mime: image/jpeg
+    bytes: 24298660
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/96/40/9640d8f862c345c8adf1c40abc604fe89f2268ba5345d0db3ce34da99ee430c9/preview-400.8a000eb43ff4.jpg
+        sha256: 8a000eb43ff48eaa0a091b429a6344e6dcc29512eb94c0bc3e2920cc96a4f573
+        mime: image/jpeg
+        bytes: 47583
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

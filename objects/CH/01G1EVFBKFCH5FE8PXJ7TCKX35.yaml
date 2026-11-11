@@ -1,0 +1,37 @@
+id: 01G1EVFBKFCH5FE8PXJ7TCKX35
+type: image
+subtype: print
+title: Postkarte Seedorf, Gemeindehaus
+description: Kupferstich, koloriert.
+date: 1781-02-12
+location: Bömenzien, Hinter den Höfen
+geocode:
+  lat: 53.0701
+  lon: 11.5984
+  precision: street
+  source: osm
+subjects:
+  - name: Dieter Wiegmann
+    type: person
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: scan_615.tif
+    path: files/fa/bc/fabc9464e900c0d6010fdbbb73083f8e2798e71195c37825904904def383ed2d/original.tif
+    sha256: fabc9464e900c0d6010fdbbb73083f8e2798e71195c37825904904def383ed2d
+    mime: image/tiff
+    bytes: 25241748
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fa/bc/fabc9464e900c0d6010fdbbb73083f8e2798e71195c37825904904def383ed2d/preview-400.7644dc31b84c.jpg
+        sha256: 7644dc31b84c1ebae462ff2701f0815cc930d663e900a0eaeae848d6a447010e
+        mime: image/jpeg
+        bytes: 65355
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

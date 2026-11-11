@@ -1,0 +1,35 @@
+id: 01JMKAPY49ZFQEDE8VXD7RN2QW
+type: image
+subtype: print
+title: Lithographie Bahnhof, Dömitz
+description: Postkarte, gelaufen 1915.
+date: "1767"
+subjects:
+  - name: Richtfest 1767
+    type: event
+  - name: Paul Albers
+    type: person
+  - name: Salzwedel
+    type: place
+parents:
+  - 01JF4KWKVRQTHC2EW4F1D004T1
+files:
+  - role: main
+    original_name: scan_015.tif
+    path: files/b1/4c/b14ca8c6d69ffa9f1629496b9f22edfdf80b7c526eea73d6501a46b418878a19/original.tif
+    sha256: b14ca8c6d69ffa9f1629496b9f22edfdf80b7c526eea73d6501a46b418878a19
+    mime: image/tiff
+    bytes: 27913396
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b1/4c/b14ca8c6d69ffa9f1629496b9f22edfdf80b7c526eea73d6501a46b418878a19/preview-400.5b5b9163d9ea.jpg
+        sha256: 5b5b9163d9eae587abdcc1994f3e6f915de5e365a1dbbcef23a3db7a4e4f964d
+        mime: image/jpeg
+        bytes: 25637
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

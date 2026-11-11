@@ -1,0 +1,46 @@
+id: 01G68Q0HF9HH3D0XGZ1KW7CQ4T
+type: image
+subtype: photo
+title: Karl Lüders vor dem Hafen
+date: 2004-04
+location: Gartow, Hinter den Höfen
+geocode:
+  lat: 52.9853
+  lon: 11.511
+  precision: street
+  source: osm
+origin:
+  name: Karl Oelker
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 8/103
+subjects:
+  - name: Feuerwehrübung 2004
+    type: event
+parents:
+  - 01J8GJHXRZG3WKWHP1C2HPX9G9
+files:
+  - role: main
+    original_name: scan_453.tif
+    path: files/86/74/86747ac5ebce9becd1f05bab63ca9188f95b2bd327c8f46ee3ea719c4debd905/original.tif
+    sha256: 86747ac5ebce9becd1f05bab63ca9188f95b2bd327c8f46ee3ea719c4debd905
+    mime: image/tiff
+    bytes: 10637813
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/74/86747ac5ebce9becd1f05bab63ca9188f95b2bd327c8f46ee3ea719c4debd905/preview-400.aa0ee0932db5.jpg
+        sha256: aa0ee0932db51a5479766881453d7f04d555d428414de52c9ec7e8281a7eb23c
+        mime: image/jpeg
+        bytes: 44025
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

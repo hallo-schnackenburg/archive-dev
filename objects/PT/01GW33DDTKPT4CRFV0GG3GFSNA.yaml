@@ -1,0 +1,35 @@
+id: 01GW33DDTKPT4CRFV0GG3GFSNA
+type: image
+subtype: photo
+title: Fachwerkhaus Marktstraße 4 in Wustrow
+description: Abzug im Format 9 x 13 cm.
+location: Schnackenburg, Schulstraße
+origin:
+  name: August Ahrens
+  type: person
+  location: Gorleben
+subjects:
+  - name: Gemeindehaus
+    type: building
+parents:
+  - 01GEC3BDXTCY5KT0RTA97873HE
+files:
+  - role: main
+    original_name: IMG_9990.jpg
+    path: files/0d/a5/0da5ff68b0cb7c981ff8adf5006e5c1a62ce01318e471f624e8b233231f666f3/original.jpg
+    sha256: 0da5ff68b0cb7c981ff8adf5006e5c1a62ce01318e471f624e8b233231f666f3
+    mime: image/jpeg
+    bytes: 7381441
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/0d/a5/0da5ff68b0cb7c981ff8adf5006e5c1a62ce01318e471f624e8b233231f666f3/preview-400.75868e30419f.jpg
+        sha256: 75868e30419fc23d414571159fb61aa056776dfa10e75a951d7c0598dc9d684b
+        mime: image/jpeg
+        bytes: 35516
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

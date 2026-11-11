@@ -1,0 +1,37 @@
+id: 01G1SX03X8DYKJ5Q3M0VFQ48XV
+type: image
+subtype: plan
+title: Bauplan Schützenhaus 1777
+description: Tusche auf Transparentpapier.
+date: "1777"
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Album 25/047
+subjects:
+  - name: Kartoffelernte 1777
+    type: event
+  - name: Ilse Krüger
+    type: person
+files:
+  - role: main
+    original_name: scan_489.tif
+    path: files/ec/56/ec56b620d3dec6e01a7070ea8c30ee1ef2bab3eb31b1e7bc470c5b959689e035/original.tif
+    sha256: ec56b620d3dec6e01a7070ea8c30ee1ef2bab3eb31b1e7bc470c5b959689e035
+    mime: image/tiff
+    bytes: 25233862
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ec/56/ec56b620d3dec6e01a7070ea8c30ee1ef2bab3eb31b1e7bc470c5b959689e035/preview-400.427836252df7.jpg
+        sha256: 427836252df7d4bc95b31c23b45b3790c58cb5c60b5620276a7e40782be92a13
+        mime: image/jpeg
+        bytes: 74208
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

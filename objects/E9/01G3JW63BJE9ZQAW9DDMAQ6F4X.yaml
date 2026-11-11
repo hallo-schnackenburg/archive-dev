@@ -1,0 +1,41 @@
+id: 01G3JW63BJE9ZQAW9DDMAQ6F4X
+type: image
+subtype: photo
+title: Ursula Ahrens vor dem Kaufmannshaus
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1930-11
+location: Zadrau, Ladestraße
+geocode:
+  lat: 52.9337
+  lon: 11.6384
+  precision: exact
+  source: osm
+subjects:
+  - name: Fähranleger
+    type: building
+  - name: Pfarrhaus
+    type: building
+  - name: Lanz
+    type: place
+parents:
+  - 01JKPSVJPFP12GHYARDAWPBNEN
+files:
+  - role: main
+    original_name: DSC4332.jpg
+    path: files/0a/52/0a52cf510b2223ab1d4bfd840cf8323d9ed72e175dd200c1e96558e80d61c113/original.jpg
+    sha256: 0a52cf510b2223ab1d4bfd840cf8323d9ed72e175dd200c1e96558e80d61c113
+    mime: image/jpeg
+    bytes: 8715189
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/0a/52/0a52cf510b2223ab1d4bfd840cf8323d9ed72e175dd200c1e96558e80d61c113/preview-400.6870fbf531e4.jpg
+        sha256: 6870fbf531e45b41cd50541d21553dff31344ebc1054a7de22238f6d2d20287b
+        mime: image/jpeg
+        bytes: 65850
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

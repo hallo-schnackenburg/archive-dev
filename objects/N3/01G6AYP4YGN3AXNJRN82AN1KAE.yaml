@@ -1,0 +1,37 @@
+id: 01G6AYP4YGN3AXNJRN82AN1KAE
+type: image
+subtype: photo
+title: Karl Wegner vor dem Kindergarten
+date: 192X
+origin:
+  name: Hans Bohlmann
+  type: person
+  location: Kapern
+subjects:
+  - name: Pumpenhaus
+    type: building
+  - name: Erntedankfest 1928
+    type: event
+parents:
+  - 01JS809ECB0H6P74TPETN12T1S
+  - 01KR3FCH1Y6Q5X71Q48GVZ96QG
+files:
+  - role: main
+    original_name: scan_474.tif
+    path: files/02/4d/024d39b8451c793eb3f3e3bc30361350e52a00bf74d00fc1899a556be914fa19/original.tif
+    sha256: 024d39b8451c793eb3f3e3bc30361350e52a00bf74d00fc1899a556be914fa19
+    mime: image/tiff
+    bytes: 21511625
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/02/4d/024d39b8451c793eb3f3e3bc30361350e52a00bf74d00fc1899a556be914fa19/preview-400.1cad4dd9df1b.jpg
+        sha256: 1cad4dd9df1b8b0161cb877d2ea402f0df910663b2e5097362bc4db5d9d32f59
+        mime: image/jpeg
+        bytes: 39136
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

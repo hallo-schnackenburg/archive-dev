@@ -1,0 +1,37 @@
+id: 01G5A7YWDVHJC764G0V4ZQE4KH
+type: image
+subtype: photo
+title: Kirmes 1903
+date: 1903-11-02
+location: Pretzier, Gartenstraße
+geocode:
+  lat: 52.9493
+  lon: 11.4838
+  precision: town
+  source: osm
+origin:
+  name: Frieda Meyer
+  type: person
+  location: Lüchow
+parents:
+  - 01H36RTMJEX4S0EGJJ5ANSCJNW
+files:
+  - role: main
+    original_name: P5616.jpg
+    path: files/b7/19/b7197ba270ca31babd77b0ca7365ca4683d687479bc6868512b5f91aeece2229/original.jpg
+    sha256: b7197ba270ca31babd77b0ca7365ca4683d687479bc6868512b5f91aeece2229
+    mime: image/jpeg
+    bytes: 14882383
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b7/19/b7197ba270ca31babd77b0ca7365ca4683d687479bc6868512b5f91aeece2229/preview-400.8330462cb7b2.jpg
+        sha256: 8330462cb7b24a29f24de9368a994fb7c3c48bf904a20084123327ef2a7d0667
+        mime: image/jpeg
+        bytes: 53660
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

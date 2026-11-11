@@ -1,0 +1,43 @@
+id: 01FZZYTPA23D86AACTYH2MCYSF
+type: image
+subtype: print
+title: Postkarte Wustrow, Badestelle
+description: Kupferstich, koloriert.
+date: 1767-02-14
+location: Gartow, Deichstraße
+geocode:
+  lat: 53.0243
+  lon: 11.6432
+  precision: town
+  source: osm
+origin:
+  name: Jürgen Meyer
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+parents:
+  - 01KCNQMHENJ8PAWGKRGSDX5HZ0
+files:
+  - role: main
+    original_name: scan_545.tif
+    path: files/90/ab/90ab68e29aff9eeaeaf29866c2e02489a2913b7cbcd70a18e6bbf3e14b0d9602/original.tif
+    sha256: 90ab68e29aff9eeaeaf29866c2e02489a2913b7cbcd70a18e6bbf3e14b0d9602
+    mime: image/tiff
+    bytes: 23449082
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/90/ab/90ab68e29aff9eeaeaf29866c2e02489a2913b7cbcd70a18e6bbf3e14b0d9602/preview-400.9157f9804bd0.jpg
+        sha256: 9157f9804bd0bc2f05ee44a438925c3df9d5effae5961fe495c3e48580d2b595
+        mime: image/jpeg
+        bytes: 41380
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

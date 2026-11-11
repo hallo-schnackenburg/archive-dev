@@ -1,0 +1,44 @@
+id: 01FV85S09YCZNJY30XNAM8JSV5
+type: image
+subtype: drawing
+title: Entwurf für Gasthof Meyer, Havelberg
+description: Bleistift auf Papier.
+date: 1822~
+location: Wustrow, Tischlerei Bruns
+geocode:
+  lat: 53.04
+  lon: 11.5202
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Wegner
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01J0TGH296RHC0G6JXY0S53XED
+  - 01J0KJQZCBVBB5P2CFE222P7V3
+files:
+  - role: main
+    original_name: scan_417.tif
+    path: files/5c/55/5c5593b53c89f62729ba790287ef138e15cfea1fe5e5515e9a03948c3f850153/original.tif
+    sha256: 5c5593b53c89f62729ba790287ef138e15cfea1fe5e5515e9a03948c3f850153
+    mime: image/tiff
+    bytes: 16421689
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5c/55/5c5593b53c89f62729ba790287ef138e15cfea1fe5e5515e9a03948c3f850153/preview-400.e18dcc3cdfba.jpg
+        sha256: e18dcc3cdfba38b96620133ecc442c9cd1103375c66413e846e04a9bef6874d5
+        mime: image/jpeg
+        bytes: 29568
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,62 @@
+id: 01JHT6SN69QTRAFGW0ZTXAXWET
+type: document
+subtype: letter
+title: Feldpostbrief von Manfred Lemke
+location: Wustrow, Schützenhaus
+geocode:
+  lat: 53.0917
+  lon: 11.5148
+  precision: street
+  source: osm
+origin:
+  name: Karl Sievers
+  type: person
+  location: Laase
+recipient: Marta Ahrens
+language: de
+subjects:
+  - name: Dorfteich
+    type: building
+parents:
+  - 01HV23CDKEHB2T4F0325HW90F9
+files:
+  - role: page
+    num: 1
+    original_name: letter_xaxwet_001.tif
+    path: files/38/51/3851190eb766ebb818083edcd60a98f96f79c2a7bca97ceaa82eaf824579e840/original.tif
+    sha256: 3851190eb766ebb818083edcd60a98f96f79c2a7bca97ceaa82eaf824579e840
+    mime: image/tiff
+    bytes: 26030288
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/38/51/3851190eb766ebb818083edcd60a98f96f79c2a7bca97ceaa82eaf824579e840/preview-400.b1b612ca6787.jpg
+        sha256: b1b612ca6787737dd35a5e14a1605c5a2d841fc1ea7d18a0561a195407680ec7
+        mime: image/jpeg
+        bytes: 83765
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_xaxwet_002.tif
+    path: files/9e/00/9e00a310eb420331903485b3c99025fc47069206336f06c87ee662fe31007662/original.tif
+    sha256: 9e00a310eb420331903485b3c99025fc47069206336f06c87ee662fe31007662
+    mime: image/tiff
+    bytes: 21960659
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9e/00/9e00a310eb420331903485b3c99025fc47069206336f06c87ee662fe31007662/preview-400.1d9f9086464f.jpg
+        sha256: 1d9f9086464f8a83ded63bfd2654dab688e1695487a0f11912901ddca0be8416
+        mime: image/jpeg
+        bytes: 36300
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

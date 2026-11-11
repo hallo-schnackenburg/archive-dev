@@ -1,0 +1,40 @@
+id: 01FNVX06HMA8V53RTT9CVPC2BR
+type: image
+subtype: plan
+title: Bauplan Gasthof „Zur Elbe“ 1933
+date: 1933-10-13
+location: Hitzacker, Gartenstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 1
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v64378
+subjects:
+  - name: Wilhelm Tiedemann
+    type: person
+  - name: Bäckerei Lüders
+    type: building
+parents:
+  - 01JKPSVJPFP12GHYARDAWPBNEN
+files:
+  - role: main
+    original_name: scan_426.tif
+    path: files/73/fd/73fdbbd7be5a7159f9ee6577f78ec2978a90d2d6f0dd4278893597075859509e/original.tif
+    sha256: 73fdbbd7be5a7159f9ee6577f78ec2978a90d2d6f0dd4278893597075859509e
+    mime: image/tiff
+    bytes: 5950114
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/73/fd/73fdbbd7be5a7159f9ee6577f78ec2978a90d2d6f0dd4278893597075859509e/preview-400.cf46a76a090c.jpg
+        sha256: cf46a76a090c0ffa948a4e29e1ac8c106c1a8f5fbf1f9d3458eefeb49594019e
+        mime: image/jpeg
+        bytes: 30523
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

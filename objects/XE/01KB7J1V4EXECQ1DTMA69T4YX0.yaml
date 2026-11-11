@@ -1,0 +1,38 @@
+id: 01KB7J1V4EXECQ1DTMA69T4YX0
+type: image
+subtype: photo
+title: Brunnen am Markt in Pretzier
+description: Farbfoto, leicht verblasst.
+date: 1999-01-06
+location: Seedorf, Am Elbdeich
+geocode:
+  lat: 53.0497
+  lon: 11.5035
+  precision: region
+  source: osm
+origin:
+  name: Wilhelm Kuhlmann
+  type: person
+  location: Lenzen
+parents:
+  - 01F3VCSE878CERJ8H75RB28YMS
+files:
+  - role: main
+    original_name: scan_019.tif
+    path: files/09/18/09189cfbfd04bec6dba04f9ce84e98235699da1383cd0050847bce0b3f6e6082/original.tif
+    sha256: 09189cfbfd04bec6dba04f9ce84e98235699da1383cd0050847bce0b3f6e6082
+    mime: image/tiff
+    bytes: 829717
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/18/09189cfbfd04bec6dba04f9ce84e98235699da1383cd0050847bce0b3f6e6082/preview-400.44c0cec2ee2a.jpg
+        sha256: 44c0cec2ee2a9bae910584cc89bc6806ff493b153c9f26850927934372bf2daf
+        mime: image/jpeg
+        bytes: 60593
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

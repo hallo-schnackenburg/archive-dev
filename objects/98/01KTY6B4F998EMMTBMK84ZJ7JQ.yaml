@@ -1,0 +1,29 @@
+id: 01KTY6B4F998EMMTBMK84ZJ7JQ
+type: image
+subtype: plan
+title: Deichplan Lanz bis Wittenberge
+location: Salzwedel, Schlachterei
+origin:
+  name: Otto Ludolf
+  type: person
+  location: Gartow
+files:
+  - role: main
+    original_name: scan_251.tif
+    path: files/eb/72/eb72ac884ae5abcf041ff973bb794b534a8a5f8145fe1dc43ef6f103f1a76e4e/original.tif
+    sha256: eb72ac884ae5abcf041ff973bb794b534a8a5f8145fe1dc43ef6f103f1a76e4e
+    mime: image/tiff
+    bytes: 23300361
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/eb/72/eb72ac884ae5abcf041ff973bb794b534a8a5f8145fe1dc43ef6f103f1a76e4e/preview-400.009d7269329e.jpg
+        sha256: 009d7269329eaa5ae1ab504d397b8e0400caef8334e0ea14bbe5758de0149cb3
+        mime: image/jpeg
+        bytes: 51496
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

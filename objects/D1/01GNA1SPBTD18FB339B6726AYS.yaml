@@ -1,0 +1,34 @@
+id: 01GNA1SPBTD18FB339B6726AYS
+type: image
+subtype: print
+title: "Kupferstich: Lanz von der Elbseite, Holtorf"
+description: Postkarte, gelaufen 1939.
+date: 1844-08-11
+location: Laase, Hafenstraße
+origin:
+  name: Paul Schulz
+  type: person
+  location: Laase
+subjects:
+  - name: Kapern
+    type: place
+files:
+  - role: main
+    original_name: scan_299.tif
+    path: files/9c/a0/9ca051d11c685b95cde448a3a2f339fb4b794f99a9c34ef126a816cc8e6a39c4/original.tif
+    sha256: 9ca051d11c685b95cde448a3a2f339fb4b794f99a9c34ef126a816cc8e6a39c4
+    mime: image/tiff
+    bytes: 18749569
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/9c/a0/9ca051d11c685b95cde448a3a2f339fb4b794f99a9c34ef126a816cc8e6a39c4/preview-400.88d85997cf8e.jpg
+        sha256: 88d85997cf8e95b88e0811c0bbddbb12128d7edee324d25cfb89fe592717f16b
+        mime: image/jpeg
+        bytes: 30054
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

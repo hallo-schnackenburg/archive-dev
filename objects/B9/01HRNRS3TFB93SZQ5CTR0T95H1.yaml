@@ -1,0 +1,61 @@
+id: 01HRNRS3TFB93SZQ5CTR0T95H1
+type: document
+subtype: letter
+title: Lotte Brandt an die Gemeinde wegen Flüchtlingsunterbringung
+description: Betrifft Schulspeisung.
+date: 1802/1811
+location: Holtorf, Dorfstraße
+geocode:
+  lat: 53.0772
+  lon: 11.5041
+  precision: exact
+  source: osm
+origin:
+  name: Horst Eggers
+  type: person
+  location: Laase
+language: de
+subjects:
+  - name: Deicharbeiten 1802
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_0t95h1_001.tif
+    path: files/3d/8a/3d8a4baa992b46fec73fa0ac4700c221151b7ed89b517082001c6f64f4c399dd/original.tif
+    sha256: 3d8a4baa992b46fec73fa0ac4700c221151b7ed89b517082001c6f64f4c399dd
+    mime: image/tiff
+    bytes: 9470397
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3d/8a/3d8a4baa992b46fec73fa0ac4700c221151b7ed89b517082001c6f64f4c399dd/preview-400.2d559646c4d5.jpg
+        sha256: 2d559646c4d501ec2cf5c936bd72a12ded5d204fc1a4341f5ef9567a558da8cc
+        mime: image/jpeg
+        bytes: 88437
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_0t95h1_002.tif
+    path: files/b1/ed/b1eda544750469c1047013ae9627e31b432df8b7515af0f7096b1962ab8b0d2e/original.tif
+    sha256: b1eda544750469c1047013ae9627e31b432df8b7515af0f7096b1962ab8b0d2e
+    mime: image/tiff
+    bytes: 4709100
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b1/ed/b1eda544750469c1047013ae9627e31b432df8b7515af0f7096b1962ab8b0d2e/preview-400.0e0ff8b3e0d3.jpg
+        sha256: 0e0ff8b3e0d3e74ff8f9a9b4d290a610eea1bfc29c424ea2dc4c81b8460b64c9
+        mime: image/jpeg
+        bytes: 31777
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

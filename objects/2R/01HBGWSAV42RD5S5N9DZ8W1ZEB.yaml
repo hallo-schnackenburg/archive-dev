@@ -1,0 +1,38 @@
+id: 01HBGWSAV42RD5S5N9DZ8W1ZEB
+type: image
+subtype: print
+title: Postkarte Nienwalde, Tischlerei Bruns
+description: Lithographie, Rand beschnitten.
+date: 1928-08-26
+location: Seedorf, Kirchstraße
+origin:
+  name: Ilse Lemke
+  type: person
+  location: Arendsee
+subjects:
+  - name: Schützenfest 1928
+    type: event
+  - name: Straßenfest 1928
+    type: event
+parents:
+  - 01FMSWW1KHV9FY1HEET6SN2P21
+files:
+  - role: main
+    original_name: scan_850.tif
+    path: files/2f/15/2f15de916fb490c8c9a8b8ce8fe59503894303940a1ecb96da700bf9138df435/original.tif
+    sha256: 2f15de916fb490c8c9a8b8ce8fe59503894303940a1ecb96da700bf9138df435
+    mime: image/tiff
+    bytes: 3908314
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2f/15/2f15de916fb490c8c9a8b8ce8fe59503894303940a1ecb96da700bf9138df435/preview-400.855c42e2f743.jpg
+        sha256: 855c42e2f7437690101c9d6256405ec93fe8962079c2dffc9afcf0f8dfde4eed
+        mime: image/jpeg
+        bytes: 89850
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,47 @@
+id: 01J0VJ72RTXKH50C9NGB7ANEKR
+type: image
+subtype: photo
+title: Blick vom Badestelle auf das Sportplatz
+description: Abzug im Format 13 x 18 cm.
+date: "1987"
+location: Holtorf, Gasthof „Zur Elbe“
+geocode:
+  lat: 52.9172
+  lon: 11.6291
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F 15/123
+subjects:
+  - name: Dorffest 1987
+    type: event
+  - name: Manfred Dreyer
+    type: person
+  - name: Elbdeich
+    type: building
+parents:
+  - 01F5WN4D1FQE5PP5MD0YFVKCS4
+files:
+  - role: main
+    original_name: IMG_7920.jpg
+    path: files/f9/91/f991b9d3a7dc84330eff15fa8e2e7cc5d849e07c9c76d01eb5ce965e0f632698/original.jpg
+    sha256: f991b9d3a7dc84330eff15fa8e2e7cc5d849e07c9c76d01eb5ce965e0f632698
+    mime: image/jpeg
+    bytes: 6199931
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/f9/91/f991b9d3a7dc84330eff15fa8e2e7cc5d849e07c9c76d01eb5ce965e0f632698/preview-400.1232efef4570.jpg
+        sha256: 1232efef4570a1cb9296f471ccca587a28e3ac91ab1d701e32369f5a951f9c71
+        mime: image/jpeg
+        bytes: 85944
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

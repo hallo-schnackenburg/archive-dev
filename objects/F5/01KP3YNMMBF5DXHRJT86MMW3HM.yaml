@@ -1,0 +1,37 @@
+id: 01KP3YNMMBF5DXHRJT86MMW3HM
+type: image
+subtype: print
+title: Postkarte Arendsee, Bahnhof
+date: "1920"
+location: Zadrau, Schlachterei
+origin:
+  name: Hermann Wegner
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan/Album 11/071
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v46648
+files:
+  - role: main
+    original_name: scan_007.tif
+    path: files/f8/94/f8948e631eb85242654dae213cc1b36277bfffcca9e8ce284bd855720ab35686/original.tif
+    sha256: f8948e631eb85242654dae213cc1b36277bfffcca9e8ce284bd855720ab35686
+    mime: image/tiff
+    bytes: 12864749
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f8/94/f8948e631eb85242654dae213cc1b36277bfffcca9e8ce284bd855720ab35686/preview-400.8ee9bb000284.jpg
+        sha256: 8ee9bb00028446d64053f19a6b5db2faba795bf8e2bb7ebdae729449f418b222
+        mime: image/jpeg
+        bytes: 57178
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

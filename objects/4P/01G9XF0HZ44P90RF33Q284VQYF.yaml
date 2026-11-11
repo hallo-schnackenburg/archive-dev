@@ -1,0 +1,44 @@
+id: 01G9XF0HZ44P90RF33Q284VQYF
+type: image
+subtype: photo
+title: Brigitte Lemke vor dem Schmiede
+date: "1929"
+location: Lüchow, Dorfstraße
+geocode:
+  lat: 52.9054
+  lon: 11.686
+  precision: exact
+  source: osm
+origin:
+  name: Helga Harms
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Regal 1
+subjects:
+  - name: Schützenfest 1929
+    type: event
+files:
+  - role: main
+    original_name: scan_752.tif
+    path: files/1e/d6/1ed687cb730b8a371b7a892ebba5c054056bda2cee9db0659ebd04ce00696a04/original.tif
+    sha256: 1ed687cb730b8a371b7a892ebba5c054056bda2cee9db0659ebd04ce00696a04
+    mime: image/tiff
+    bytes: 10194765
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/1e/d6/1ed687cb730b8a371b7a892ebba5c054056bda2cee9db0659ebd04ce00696a04/preview-400.d3bac8579bed.jpg
+        sha256: d3bac8579bede9aca2684ebc55b9ce4ba5691ab8ad8eebf78ba6eda9c54431ab
+        mime: image/jpeg
+        bytes: 28751
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

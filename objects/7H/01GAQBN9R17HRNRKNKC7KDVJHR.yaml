@@ -1,0 +1,40 @@
+id: 01GAQBN9R17HRNRKNKC7KDVJHR
+type: image
+subtype: photo
+title: Dieter Lemke vor dem Gärtnerei
+date: "1904"
+location: Lüchow, Hafenstraße
+geocode:
+  lat: 53.024
+  lon: 11.5008
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Erntedankfest 1904
+    type: event
+parents:
+  - 01G253EGHDFBNP7ZT73WK1Q02J
+files:
+  - role: main
+    original_name: foto_8787.jpg
+    path: files/d1/eb/d1ebb0d7a2b0400c2cdb201bfbb39a76ea0b66fa26f8fb44975265640e92bb32/original.jpg
+    sha256: d1ebb0d7a2b0400c2cdb201bfbb39a76ea0b66fa26f8fb44975265640e92bb32
+    mime: image/jpeg
+    bytes: 9950302
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/d1/eb/d1ebb0d7a2b0400c2cdb201bfbb39a76ea0b66fa26f8fb44975265640e92bb32/preview-400.58c2897f8468.jpg
+        sha256: 58c2897f84680c878acb9c0dfd99ece6ed993f886b50f66d76c256f8c22ffb1a
+        mime: image/jpeg
+        bytes: 22839
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

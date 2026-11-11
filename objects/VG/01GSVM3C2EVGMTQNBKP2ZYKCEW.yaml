@@ -1,0 +1,33 @@
+id: 01GSVM3C2EVGMTQNBKP2ZYKCEW
+type: image
+subtype: plan
+title: Bauplan Tanzsaal 1971
+description: Maßstab 1:1000.
+date: "1971"
+location: Zadrau, Sparkasse
+origin:
+  name: Anni Plate
+  type: person
+  location: Kapern
+parents:
+  - 01KGBXSKRT00YBVNJ684TQMH5V
+files:
+  - role: main
+    original_name: scan_338.tif
+    path: files/c9/c6/c9c6573672003833bf5b299131a37aa40e1a6b0e74aacf2b6e8aca7fc0e3195a/original.tif
+    sha256: c9c6573672003833bf5b299131a37aa40e1a6b0e74aacf2b6e8aca7fc0e3195a
+    mime: image/tiff
+    bytes: 22871802
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c9/c6/c9c6573672003833bf5b299131a37aa40e1a6b0e74aacf2b6e8aca7fc0e3195a/preview-400.a0e568bf3680.jpg
+        sha256: a0e568bf3680bc27e0fe0772188a88bda9c9613cec1b088a47fd441c9d3dcc59
+        mime: image/jpeg
+        bytes: 79449
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01JVMSDQZSJ6J8ERN9THK6ET45
+type: image
+subtype: plan
+title: Flurkarte Kapern
+description: Maßstab 1:2500.
+date: 1902-09-12
+location: Holtorf, Fährstraße
+origin:
+  name: Karl Jeß
+  type: person
+  location: Lüchow
+files:
+  - role: main
+    original_name: scan_836.tif
+    path: files/e3/87/e387eb2aa229471754463ffb77f389186f3edde7772c6ce3cff4033650b6096d/original.tif
+    sha256: e387eb2aa229471754463ffb77f389186f3edde7772c6ce3cff4033650b6096d
+    mime: image/tiff
+    bytes: 10871549
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e3/87/e387eb2aa229471754463ffb77f389186f3edde7772c6ce3cff4033650b6096d/preview-400.01d5bfd71123.jpg
+        sha256: 01d5bfd711238d4bdfe72b30c9c30656a557ccb9feb2263265f176029cf505ce
+        mime: image/jpeg
+        bytes: 77526
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

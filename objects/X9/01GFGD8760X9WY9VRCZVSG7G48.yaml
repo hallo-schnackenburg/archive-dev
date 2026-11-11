@@ -1,0 +1,29 @@
+id: 01GFGD8760X9WY9VRCZVSG7G48
+type: image
+subtype: plan
+title: Bauplan Fähranleger 1927
+description: Mit handschriftlichen Ergänzungen.
+date: "1927"
+location: Lenzen, Dorfstraße
+geocode:
+  lat: 53.048
+  lon: 11.6151
+  precision: town
+  source: osm
+subjects:
+  - name: Sturmschaden 1927
+    type: event
+  - name: Dorffest 1927
+    type: event
+  - name: Gärtnerei
+    type: building
+parents:
+  - 01F83N316GB4JPE9NDSAS5ZR1M
+  - 01HM10JM58C78RZE1Y6NV78KDE
+storage: external
+external:
+  - type: archive
+    site: Landesarchiv Hannover
+    uri: https://landesarchiv-hannover.example.org/objekt/979445
+    reference: Best. 254 Nr. 2944
+    retrieved: 2026-03-15

@@ -1,0 +1,36 @@
+id: 01KSZXW9T11BQ4BF321ZYTQ7TT
+type: image
+subtype: print
+title: Postkarte Brünkendorf, Backhaus
+description: Kupferstich, koloriert.
+origin:
+  name: Gerda Dreyer
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Kartoffelernte 1894
+    type: event
+  - name: Tischlerei Bruns
+    type: building
+parents:
+  - 01JPMD8F3VGY301NNB2HGSHFGR
+files:
+  - role: main
+    original_name: scan_956.tif
+    path: files/47/ac/47acaf3ba37c466cac8492de25051903a940f3b03fc17c287ebf49fa8c127557/original.tif
+    sha256: 47acaf3ba37c466cac8492de25051903a940f3b03fc17c287ebf49fa8c127557
+    mime: image/tiff
+    bytes: 6486841
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/47/ac/47acaf3ba37c466cac8492de25051903a940f3b03fc17c287ebf49fa8c127557/preview-400.8b55d0f012fa.jpg
+        sha256: 8b55d0f012fa0b821b04dbf7851cece25624067f3c8fdc063f2154c75b15e141
+        mime: image/jpeg
+        bytes: 68735
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

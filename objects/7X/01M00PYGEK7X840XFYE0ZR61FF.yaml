@@ -1,0 +1,31 @@
+id: 01M00PYGEK7X840XFYE0ZR61FF
+type: image
+subtype: plan
+title: Lageplan Tanzsaal
+description: Maßstab 1:500.
+date: 1759-01-17
+subjects:
+  - name: Gasthof Meyer
+    type: building
+  - name: Glockenweihe 1759
+    type: event
+files:
+  - role: main
+    original_name: scan_026.tif
+    path: files/d0/c9/d0c99e0fd657ed15d513c12e055f5f551f7ec4c0984de125cf58687a0573dbb0/original.tif
+    sha256: d0c99e0fd657ed15d513c12e055f5f551f7ec4c0984de125cf58687a0573dbb0
+    mime: image/tiff
+    bytes: 13913712
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d0/c9/d0c99e0fd657ed15d513c12e055f5f551f7ec4c0984de125cf58687a0573dbb0/preview-400.390a1a6e8890.jpg
+        sha256: 390a1a6e8890bc39212f184cc0a2c689ce325aeeadca0848ac07d9e0d95db2e2
+        mime: image/jpeg
+        bytes: 83590
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01KQRPD3RWQDR1Z3DVTTV3BZS5
+type: image
+subtype: photo
+title: Ernst Rohde, Porträt
+date: 1915-04
+location: Restorf, Apotheke
+geocode:
+  lat: 52.9666
+  lon: 11.6198
+  precision: town
+  source: osm
+origin:
+  name: Erika Jeß
+  type: person
+  location: Lenzen
+subjects:
+  - name: Brunnen am Markt
+    type: building
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Brünkendorf
+    type: place
+files:
+  - role: main
+    original_name: foto_0099.jpg
+    path: files/17/56/175676a9165603cf2ee3355a420540e376dd4d5f7bf6ece2d7ffa80e6b5af223/original.jpg
+    sha256: 175676a9165603cf2ee3355a420540e376dd4d5f7bf6ece2d7ffa80e6b5af223
+    mime: image/jpeg
+    bytes: 6151639
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/17/56/175676a9165603cf2ee3355a420540e376dd4d5f7bf6ece2d7ffa80e6b5af223/preview-400.1df934c3aba9.jpg
+        sha256: 1df934c3aba96f73fdf777bb327565510cb308d1677577fb129e9038080da623
+        mime: image/jpeg
+        bytes: 89014
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

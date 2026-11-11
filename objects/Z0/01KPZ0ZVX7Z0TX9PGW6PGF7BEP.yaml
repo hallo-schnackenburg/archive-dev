@@ -1,0 +1,39 @@
+id: 01KPZ0ZVX7Z0TX9PGW6PGF7BEP
+type: image
+subtype: print
+title: Gruß aus Havelberg, Salzwedel (74)
+description: Postkarte, gelaufen 1913.
+date: "1950"
+location: Gorleben, Schulstraße
+geocode:
+  lat: 52.927
+  lon: 11.5717
+  precision: town
+  source: osm
+origin:
+  name: Karl Lemke
+  type: person
+  location: Gartow
+subjects:
+  - name: Hans Bohlmann
+    type: person
+files:
+  - role: main
+    original_name: scan_805.tif
+    path: files/df/25/df2594e633387519d0eefb640c775a071b4dc2a1591e03793396bc280c52794f/original.tif
+    sha256: df2594e633387519d0eefb640c775a071b4dc2a1591e03793396bc280c52794f
+    mime: image/tiff
+    bytes: 1478161
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/df/25/df2594e633387519d0eefb640c775a071b4dc2a1591e03793396bc280c52794f/preview-400.bb77f2ba08d0.jpg
+        sha256: bb77f2ba08d00e8efeeb2bf3b52a9d673727b01510634cfd9cce5b4461cc3c23
+        mime: image/jpeg
+        bytes: 43632
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

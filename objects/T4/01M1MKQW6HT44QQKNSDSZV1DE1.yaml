@@ -1,0 +1,40 @@
+id: 01M1MKQW6HT44QQKNSDSZV1DE1
+type: image
+subtype: print
+title: "Holzschnitt: Beerdigung, Salzwedel"
+date: "1785"
+location: Restorf, Kirchstraße
+geocode:
+  lat: 53.0907
+  lon: 11.4782
+  precision: region
+  source: osm
+origin:
+  name: Berta Bohlmann
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Käthe Krüger
+    type: person
+parents:
+  - 01J5DJ7A6MS3KE1Z0TKMZBQRP7
+files:
+  - role: main
+    original_name: scan_759.tif
+    path: files/3d/36/3d36012e4433c5bf37af53de50291ef93f80d722028970a9f1cad16adbc6814a/original.tif
+    sha256: 3d36012e4433c5bf37af53de50291ef93f80d722028970a9f1cad16adbc6814a
+    mime: image/tiff
+    bytes: 22896864
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3d/36/3d36012e4433c5bf37af53de50291ef93f80d722028970a9f1cad16adbc6814a/preview-400.a22139201648.jpg
+        sha256: a22139201648aaeb0408ff98e8f10db45cfca1bb2069366d68a361ac5e5aca30
+        mime: image/jpeg
+        bytes: 81406
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

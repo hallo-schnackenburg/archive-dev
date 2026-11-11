@@ -1,0 +1,65 @@
+id: 01JGDFFASHVD4Q26AF5BQ0PDT9
+type: document
+subtype: note
+title: Rechnung Garms, Pumpenhaus
+description: Beleg mit Stempel.
+date: "1974"
+origin:
+  name: Otto Harms
+  type: person
+  location: Laase
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Album 24/021
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Wilhelm Voss
+    type: person
+  - name: Hitzacker
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_q0pdt9_001.tif
+    path: files/24/cf/24cf9bb424a6a830b5b56e3353ba880a09021f542951a972c91435032e5d6e9b/original.tif
+    sha256: 24cf9bb424a6a830b5b56e3353ba880a09021f542951a972c91435032e5d6e9b
+    mime: image/tiff
+    bytes: 26526072
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/24/cf/24cf9bb424a6a830b5b56e3353ba880a09021f542951a972c91435032e5d6e9b/preview-400.2df17e0de797.jpg
+        sha256: 2df17e0de7975613e98e6d46e03cfb3762b1c238e1b0ebd254070aa2f6e38f33
+        mime: image/jpeg
+        bytes: 33998
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_q0pdt9_002.tif
+    path: files/d5/e0/d5e002f6f407d14a7aa3dced17756a9532eb7bfa5980663f7109bd383b9babbc/original.tif
+    sha256: d5e002f6f407d14a7aa3dced17756a9532eb7bfa5980663f7109bd383b9babbc
+    mime: image/tiff
+    bytes: 17177198
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/e0/d5e002f6f407d14a7aa3dced17756a9532eb7bfa5980663f7109bd383b9babbc/preview-400.fcf6d62b9fcd.jpg
+        sha256: fcf6d62b9fcd2c6226b457ffa68ce548c3232602068b77014fa4127878212866
+        mime: image/jpeg
+        bytes: 60882
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

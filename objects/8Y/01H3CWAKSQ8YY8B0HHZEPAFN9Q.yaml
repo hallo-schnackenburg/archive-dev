@@ -1,0 +1,37 @@
+id: 01H3CWAKSQ8YY8B0HHZEPAFN9Q
+type: image
+subtype: photo
+title: Hochwasser 1910
+description: Aufnahme von Karl Gaede.
+date: "1910"
+location: Wittenberge, Bahnhofstraße
+geocode:
+  lat: 52.9357
+  lon: 11.68
+  precision: street
+  source: osm
+subjects:
+  - name: Dieter Wöhlk
+    type: person
+parents:
+  - 01K031Q9A4VAM2ZR0E2Y2SQX6S
+files:
+  - role: main
+    original_name: DSC5216.jpg
+    path: files/b7/52/b752488b5e9126713e04dd07fedeabead06408b5e03b9eede9338ea1cf56cdd0/original.jpg
+    sha256: b752488b5e9126713e04dd07fedeabead06408b5e03b9eede9338ea1cf56cdd0
+    mime: image/jpeg
+    bytes: 22899085
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/b7/52/b752488b5e9126713e04dd07fedeabead06408b5e03b9eede9338ea1cf56cdd0/preview-400.5cc7de54e55a.jpg
+        sha256: 5cc7de54e55a7f2346778f5663c11223ae6af9fa06e66848e44109352b0e614c
+        mime: image/jpeg
+        bytes: 41942
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

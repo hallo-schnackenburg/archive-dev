@@ -1,0 +1,31 @@
+id: 01HPD92RZCEGDMSBPZZ2Y310HY
+type: image
+subtype: drawing
+title: Mühle, Aquarell
+description: Mit Anmerkungen am Rand.
+date: 1964-01-20
+location: Gartow, Torhaus
+origin:
+  name: Fritz Dreyer
+  type: person
+  location: Wootz
+files:
+  - role: main
+    original_name: scan_229.tif
+    path: files/03/a0/03a0e6dfb1b194f08dc4d6542351f92de667f04aafeb75b6f10009b634685df3/original.tif
+    sha256: 03a0e6dfb1b194f08dc4d6542351f92de667f04aafeb75b6f10009b634685df3
+    mime: image/tiff
+    bytes: 8734592
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/03/a0/03a0e6dfb1b194f08dc4d6542351f92de667f04aafeb75b6f10009b634685df3/preview-400.d72e01983b27.jpg
+        sha256: d72e01983b27163088100f1fc4a5404d573600b2df56defbdb47a8e6f6b89381
+        mime: image/jpeg
+        bytes: 63539
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

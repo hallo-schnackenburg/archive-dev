@@ -1,0 +1,41 @@
+id: 01F6C13P6JSAAATNPVME5A91BN
+type: image
+subtype: photo
+title: Fritz Schulz, Porträt
+description: Zu sehen sind Rathaus und Dorfteich.
+date: 1987/1992
+location: Dömitz, Dorfteich
+origin:
+  name: Ernst Dreyer
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Poststelle
+    type: building
+  - name: Rüterberg
+    type: place
+  - name: Deicharbeiten 1987
+    type: event
+parents:
+  - 01F54Y44HWBYAXTTC3F5NVVN21
+  - 01FW45K78CH6GZGKXRKMW3Q4ET
+files:
+  - role: main
+    original_name: foto_3843.jpg
+    path: files/62/9d/629d0a7ae749a2715e27833425c7d1f3f556c9198abce1b9d8fafc1fdc4876b8/original.jpg
+    sha256: 629d0a7ae749a2715e27833425c7d1f3f556c9198abce1b9d8fafc1fdc4876b8
+    mime: image/jpeg
+    bytes: 12750486
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/62/9d/629d0a7ae749a2715e27833425c7d1f3f556c9198abce1b9d8fafc1fdc4876b8/preview-400.29356aae2fa9.jpg
+        sha256: 29356aae2fa9b53056fc5388d6650084b71190e1fb917b3ea13efae793d54093
+        mime: image/jpeg
+        bytes: 43416
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

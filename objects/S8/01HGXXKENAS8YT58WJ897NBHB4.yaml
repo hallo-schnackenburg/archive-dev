@@ -1,0 +1,58 @@
+id: 01HGXXKENAS8YT58WJ897NBHB4
+type: document
+subtype: letter
+title: Brief von Helga Krüger an Ilse Bohlmann
+location: Restorf, Elbstraße
+origin:
+  name: Friedrich Ahrens
+  type: person
+  location: Seedorf
+recipient: Karl Dreyer
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Salzwedel
+    type: place
+parents:
+  - 01H683J429KTWPMPPF52JN3Q9J
+files:
+  - role: page
+    num: 1
+    original_name: letter_7nbhb4_001.tif
+    path: files/36/ae/36aec9bf6896bd94882e0d4fb5bc50230a71f798973a9b58c8d86d0d498e9c8a/original.tif
+    sha256: 36aec9bf6896bd94882e0d4fb5bc50230a71f798973a9b58c8d86d0d498e9c8a
+    mime: image/tiff
+    bytes: 13203140
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/36/ae/36aec9bf6896bd94882e0d4fb5bc50230a71f798973a9b58c8d86d0d498e9c8a/preview-400.6f2e6683d940.jpg
+        sha256: 6f2e6683d9406f01c21663b69dc7926ecf7b4134845e23c60ec98046fbc8f41a
+        mime: image/jpeg
+        bytes: 76140
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_7nbhb4_002.tif
+    path: files/da/9b/da9bc25d7086e9c23b748f1781373a103a3c020a78d1e85bb23ba1aa01b07374/original.tif
+    sha256: da9bc25d7086e9c23b748f1781373a103a3c020a78d1e85bb23ba1aa01b07374
+    mime: image/tiff
+    bytes: 5596884
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/9b/da9bc25d7086e9c23b748f1781373a103a3c020a78d1e85bb23ba1aa01b07374/preview-400.8d3f5f389a3b.jpg
+        sha256: 8d3f5f389a3b0d59ba8fb73b4a0f2039aa9d2f6c5b79fbab2b4cff9a41217e59
+        mime: image/jpeg
+        bytes: 27542
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

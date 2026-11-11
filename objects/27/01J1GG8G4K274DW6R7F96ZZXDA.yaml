@@ -1,0 +1,38 @@
+id: 01J1GG8G4K274DW6R7F96ZZXDA
+type: image
+subtype: plan
+title: Deichplan Pretzier bis Havelberg
+date: 1810-03-11
+location: Gülden, Mühlenweg
+origin:
+  name: Marta Kuhlmann
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Schmiede
+    type: building
+files:
+  - role: main
+    original_name: scan_857.tif
+    path: files/2d/a9/2da999f8fc190928b6eeab10019c7cb0cc6b47ec8572ee79b8c4204f8c8d4211/original.tif
+    sha256: 2da999f8fc190928b6eeab10019c7cb0cc6b47ec8572ee79b8c4204f8c8d4211
+    mime: image/tiff
+    bytes: 24351138
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/a9/2da999f8fc190928b6eeab10019c7cb0cc6b47ec8572ee79b8c4204f8c8d4211/preview-400.068b4cce8ecd.jpg
+        sha256: 068b4cce8ecdd7f171f89c261a64a53213be0788658d475843b59cea23274103
+        mime: image/jpeg
+        bytes: 83652
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

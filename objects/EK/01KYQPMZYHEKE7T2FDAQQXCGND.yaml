@@ -1,0 +1,91 @@
+id: 01KYQPMZYHEKE7T2FDAQQXCGND
+type: document
+subtype: letter
+title: Feldpostbrief von Christa Krüger
+date: 1954-08-23
+location: Holtorf, Schulstraße
+geocode:
+  lat: 53.0327
+  lon: 11.5257
+  precision: town
+  source: osm
+origin:
+  name: Frieda Brandt
+  type: person
+  location: Kapern
+recipient: Marta Lemke
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br 17/189
+subjects:
+  - name: Badestelle
+    type: building
+  - name: Paul Dreyer
+    type: person
+parents:
+  - 01GC32R7XA4RX5C5MWHXV94Y25
+files:
+  - role: page
+    num: 1
+    original_name: letter_qxcgnd_001.tif
+    path: files/d7/32/d732b2501f29d4fcd33191d09cddc58e4aede22521c0bb0b5f79d243815ffdc3/original.tif
+    sha256: d732b2501f29d4fcd33191d09cddc58e4aede22521c0bb0b5f79d243815ffdc3
+    mime: image/tiff
+    bytes: 4278609
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/32/d732b2501f29d4fcd33191d09cddc58e4aede22521c0bb0b5f79d243815ffdc3/preview-400.9f1eecdbb2f6.jpg
+        sha256: 9f1eecdbb2f69798a6fb924539eda69d3b0a785b51778a934c7d5266e9dc0ebd
+        mime: image/jpeg
+        bytes: 54396
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_qxcgnd_002.tif
+    path: files/19/1e/191e2b28fd778fa907544377377cce275576b45b64c8cbc2355a2dcc26966808/original.tif
+    sha256: 191e2b28fd778fa907544377377cce275576b45b64c8cbc2355a2dcc26966808
+    mime: image/tiff
+    bytes: 2291545
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/19/1e/191e2b28fd778fa907544377377cce275576b45b64c8cbc2355a2dcc26966808/preview-400.53b5065a8f71.jpg
+        sha256: 53b5065a8f713a3c07ac7e5fdb6f68daf4b2122ca8643db7ab63a349ecb9862a
+        mime: image/jpeg
+        bytes: 55611
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_qxcgnd_003.tif
+    path: files/d1/32/d132d53215e325bf72a48f8450189ba715ed7bdc8880fc167d81689c00a9f549/original.tif
+    sha256: d132d53215e325bf72a48f8450189ba715ed7bdc8880fc167d81689c00a9f549
+    mime: image/tiff
+    bytes: 9721878
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d1/32/d132d53215e325bf72a48f8450189ba715ed7bdc8880fc167d81689c00a9f549/preview-400.94b9919963ee.jpg
+        sha256: 94b9919963eef359cfda1fc3086323c4c5713efda040bb99a995fec1fe63b946
+        mime: image/jpeg
+        bytes: 72566
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

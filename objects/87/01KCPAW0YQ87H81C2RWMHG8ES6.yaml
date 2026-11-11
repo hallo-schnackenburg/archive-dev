@@ -1,0 +1,74 @@
+id: 01KCPAW0YQ87H81C2RWMHG8ES6
+type: document
+subtype: letter
+title: Brief von Walter Sievers an Ingrid Lenz
+description: Handschriftlich, 1 Seiten.
+date: 1902-05-11
+location: Gollensdorf, Sparkasse
+geocode:
+  lat: 52.9687
+  lon: 11.4558
+  precision: exact
+  source: osm
+origin:
+  name: Fritz Garms
+  type: person
+  location: Seedorf
+recipient: Heinrich Voss
+language: de
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Seedorf
+  note: Kellerarchiv
+owner:
+  name: Karl Lenz
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Bahnhof
+    type: building
+  - name: Viehmarkt 1902
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_hg8es6_001.tif
+    path: files/ec/ae/ecaed238f4063871ae8705fe45c4f01d63831bdc7a26e0d54ea75de2790f728b/original.tif
+    sha256: ecaed238f4063871ae8705fe45c4f01d63831bdc7a26e0d54ea75de2790f728b
+    mime: image/tiff
+    bytes: 14278181
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ec/ae/ecaed238f4063871ae8705fe45c4f01d63831bdc7a26e0d54ea75de2790f728b/preview-400.fe0b0b89be77.jpg
+        sha256: fe0b0b89be77c7d51b26a3d4e1d7bcefaff4227741d3ae2c63ad377299aa70e3
+        mime: image/jpeg
+        bytes: 39118
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_hg8es6_002.tif
+    path: files/37/cd/37cdf5619021d038cd0170866b0b736595d6ad438973be70850d6461ad3a62d0/original.tif
+    sha256: 37cdf5619021d038cd0170866b0b736595d6ad438973be70850d6461ad3a62d0
+    mime: image/tiff
+    bytes: 9405830
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/37/cd/37cdf5619021d038cd0170866b0b736595d6ad438973be70850d6461ad3a62d0/preview-400.2515ca9901e3.jpg
+        sha256: 2515ca9901e3c6c2790b68341427af5c4508f5562f2d33043f8a83c830953df4
+        mime: image/jpeg
+        bytes: 26513
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

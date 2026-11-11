@@ -1,0 +1,31 @@
+id: 01JJH71R31KRXF8MEMVE5PH95H
+type: image
+subtype: photo
+title: Sturmschaden 1974
+date: 1974-05-27
+origin:
+  name: Jürgen Ihde
+  type: person
+  location: Brünkendorf
+parents:
+  - 01JKPSVJPFP12GHYARDAWPBNEN
+files:
+  - role: main
+    original_name: DSC2706.jpg
+    path: files/6b/f4/6bf4e71938e09c4231d75e8176135cd033ded0cd8d8b0e75d7cf16528ff60b90/original.jpg
+    sha256: 6bf4e71938e09c4231d75e8176135cd033ded0cd8d8b0e75d7cf16528ff60b90
+    mime: image/jpeg
+    bytes: 15145947
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/6b/f4/6bf4e71938e09c4231d75e8176135cd033ded0cd8d8b0e75d7cf16528ff60b90/preview-400.6da2725663de.jpg
+        sha256: 6da2725663defc8fe9ddc5af0ebb5b91d1fe304a8fa0306d91d73ae540d16866
+        mime: image/jpeg
+        bytes: 43786
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,63 @@
+id: 01KDDZCCM34F1J1TCBYP6NPA1X
+type: document
+subtype: note
+title: Rechnung Jeß, Gutshaus
+date: 1874/1878
+location: Bömenzien, Lange Straße
+origin:
+  name: Rudolf Detlefs
+  type: person
+  location: Restorf
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F/Kasten 7/049
+subjects:
+  - name: Hochwasser 1874
+    type: event
+  - name: Gartow
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_6npa1x_001.tif
+    path: files/9d/80/9d809893d848785f21b9bdf54190e9103ffe70accdf308dea46c3a4c9c026f4c/original.tif
+    sha256: 9d809893d848785f21b9bdf54190e9103ffe70accdf308dea46c3a4c9c026f4c
+    mime: image/tiff
+    bytes: 9953977
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9d/80/9d809893d848785f21b9bdf54190e9103ffe70accdf308dea46c3a4c9c026f4c/preview-400.edb2a9695d9a.jpg
+        sha256: edb2a9695d9a0479fa0c7e1867cc1e5394d241333040210b3ff71e54cbcc0181
+        mime: image/jpeg
+        bytes: 82601
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_6npa1x_002.tif
+    path: files/71/a6/71a67ea7b8c952d7df64f39685570fd05271302fbe6141c46b67a805b236583f/original.tif
+    sha256: 71a67ea7b8c952d7df64f39685570fd05271302fbe6141c46b67a805b236583f
+    mime: image/tiff
+    bytes: 17446275
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/71/a6/71a67ea7b8c952d7df64f39685570fd05271302fbe6141c46b67a805b236583f/preview-400.b4fbce308d35.jpg
+        sha256: b4fbce308d350b6cc97794b6e34974ae83921f847304c2b2f98d6ef2375f1dc4
+        mime: image/jpeg
+        bytes: 71165
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

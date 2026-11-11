@@ -1,0 +1,64 @@
+id: 01FCX7BRN8CEDTYDMMTMN7DDWG
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Wohnungsnot 1860
+date: 1860-11
+location: Laase, Gutshaus
+geocode:
+  lat: 52.9484
+  lon: 11.6442
+  precision: exact
+  source: osm
+origin:
+  name: Finanzausschuss Salzwedel
+  type: business
+  location: Rüterberg
+language: de
+subjects:
+  - name: Gutshaus
+    type: building
+  - name: Grenzturm
+    type: building
+parents:
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+files:
+  - role: page
+    num: 1
+    original_name: protocol_n7ddwg_001.tif
+    path: files/51/68/51680b53b9dac8e68ed7ce55dbf4efcb1c0c76641383d2e2213c4f4b1d6a4720/original.tif
+    sha256: 51680b53b9dac8e68ed7ce55dbf4efcb1c0c76641383d2e2213c4f4b1d6a4720
+    mime: image/tiff
+    bytes: 22749333
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/51/68/51680b53b9dac8e68ed7ce55dbf4efcb1c0c76641383d2e2213c4f4b1d6a4720/preview-400.eaaa88c51189.jpg
+        sha256: eaaa88c511897b2b685056ee921c83ccf572a38364190ebacc7c7cbfed9d5094
+        mime: image/jpeg
+        bytes: 60586
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_n7ddwg_002.tif
+    path: files/6f/82/6f826ab36464ed3166db208e4144a6d1864e0b344dbd4a345719dfae67c86c47/original.tif
+    sha256: 6f826ab36464ed3166db208e4144a6d1864e0b344dbd4a345719dfae67c86c47
+    mime: image/tiff
+    bytes: 22707507
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6f/82/6f826ab36464ed3166db208e4144a6d1864e0b344dbd4a345719dfae67c86c47/preview-400.dc6ae6b0bd63.jpg
+        sha256: dc6ae6b0bd63551d00a5d867493a54cefd3ee0f7c886d0dfb859d536d15c7dc7
+        mime: image/jpeg
+        bytes: 32969
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

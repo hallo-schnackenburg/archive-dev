@@ -1,0 +1,39 @@
+id: 01GPNJ4HASXFKZV3RVHFCY4M9N
+type: image
+subtype: drawing
+title: Wappenentwurf Lanz, Schnackenburg
+description: Mit Anmerkungen am Rand.
+date: "1953"
+location: Cumlosen, Elbstraße
+origin:
+  name: Hans Cohrs
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Gemeindehaus
+    type: building
+  - name: Elfriede Meyer
+    type: person
+parents:
+  - 01GKNYMFKHFES83J477ZEHD22T
+  - 01JRGX3XFSMSVNN02PC0NNSHZP
+files:
+  - role: main
+    original_name: scan_766.tif
+    path: files/25/bf/25bf38828bdf9823221effe18a7ca76aaf474f225fc2dc4b10d41d1f0efe1c0c/original.tif
+    sha256: 25bf38828bdf9823221effe18a7ca76aaf474f225fc2dc4b10d41d1f0efe1c0c
+    mime: image/tiff
+    bytes: 26700592
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/25/bf/25bf38828bdf9823221effe18a7ca76aaf474f225fc2dc4b10d41d1f0efe1c0c/preview-400.ed27a32461b9.jpg
+        sha256: ed27a32461b95dca575152b8e0d6a236b4b6423595b683c96a6c299c66dd303a
+        mime: image/jpeg
+        bytes: 39321
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,49 @@
+id: 01GDQDFXEQEXXSFV7S85W515TK
+type: image
+subtype: photo
+title: Hochwasser 1942
+description: Aufnahme von Rudolf Voss.
+date: 194X
+location: Gollensdorf, Gemeindehaus
+geocode:
+  lat: 52.9802
+  lon: 11.6907
+  precision: town
+  source: osm
+origin:
+  name: Hans Kuhlmann
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 6/042
+subjects:
+  - name: Ursula Garms
+    type: person
+  - name: Wilhelm Wegner
+    type: person
+  - name: Paul Voss
+    type: person
+files:
+  - role: main
+    original_name: foto_5603.jpg
+    path: files/2c/a4/2ca4eca65081a8578645deabc0339e2943028727b0f046e7db88bd915577585e/original.jpg
+    sha256: 2ca4eca65081a8578645deabc0339e2943028727b0f046e7db88bd915577585e
+    mime: image/jpeg
+    bytes: 2984517
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/2c/a4/2ca4eca65081a8578645deabc0339e2943028727b0f046e7db88bd915577585e/preview-400.590fb997f1b7.jpg
+        sha256: 590fb997f1b740e824c7179cc495c39dd0cf0c3a4740a24ff3298d1e71e0768a
+        mime: image/jpeg
+        bytes: 87484
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01GKY1VH6A9GDHKXEDMPDJ6G92
+type: image
+subtype: drawing
+title: Skizze Rüterberg, Elbstraße
+date: 1849~
+origin:
+  name: Walter Lemke
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Rudolf Nitschke
+    type: person
+  - name: Gerda Fricke
+    type: person
+  - name: Gutshaus
+    type: building
+parents:
+  - 01HGWAATSHSQJT69MF82EV6W37
+files:
+  - role: main
+    original_name: scan_014.tif
+    path: files/c4/f1/c4f1e50d77b096035ab71b3622c3ee14484a7f0afe0ee6f5daf482e71778161c/original.tif
+    sha256: c4f1e50d77b096035ab71b3622c3ee14484a7f0afe0ee6f5daf482e71778161c
+    mime: image/tiff
+    bytes: 13974848
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c4/f1/c4f1e50d77b096035ab71b3622c3ee14484a7f0afe0ee6f5daf482e71778161c/preview-400.4bbd44980951.jpg
+        sha256: 4bbd44980951ebb2b76ec766aa6b974ea1a5aeaa59c8a48a6dd9e9b4adf33a8e
+        mime: image/jpeg
+        bytes: 64933
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

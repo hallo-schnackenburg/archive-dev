@@ -1,0 +1,37 @@
+id: 01G8HKBPDWHS4ZNDE5528FYNRT
+type: image
+subtype: photo
+title: Paul Krüger vor dem Sportplatz
+description: Zu sehen sind Bahnhof und Sparkasse.
+date: 1890-04-11
+origin:
+  name: Renate Ludolf
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Fährjubiläum 1890
+    type: event
+  - name: Heuberge
+    type: building
+  - name: Backhaus
+    type: building
+files:
+  - role: main
+    original_name: DSC8105.jpg
+    path: files/84/3a/843ac26916689c1d69b53f4b7db91226a23c8d6514c0fe6686b73cad6d2b3873/original.jpg
+    sha256: 843ac26916689c1d69b53f4b7db91226a23c8d6514c0fe6686b73cad6d2b3873
+    mime: image/jpeg
+    bytes: 20753600
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/84/3a/843ac26916689c1d69b53f4b7db91226a23c8d6514c0fe6686b73cad6d2b3873/preview-400.4fe07161f8f3.jpg
+        sha256: 4fe07161f8f35f84f428ac1a27cf4277a64d016f4ad085fa27cd4dec6a0f42ea
+        mime: image/jpeg
+        bytes: 65688
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

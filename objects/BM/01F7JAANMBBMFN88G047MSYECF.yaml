@@ -1,0 +1,45 @@
+id: 01F7JAANMBBMFN88G047MSYECF
+type: image
+subtype: drawing
+title: Entwurf für Backhaus, Lanz
+date: "1888"
+location: Gartow, Kindergarten
+origin:
+  name: Marta Voss
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 2/338
+owner:
+  name: Gerda Krüger
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Osterfeuer 1888
+    type: event
+parents:
+  - 01F5CNJT1P56W2G465BH02E933
+files:
+  - role: main
+    original_name: scan_546.tif
+    path: files/b0/cc/b0ccc7357f76753fb7f1b5b1713fb8daf1d0ace6444c3b6f6610b51ab3157d93/original.tif
+    sha256: b0ccc7357f76753fb7f1b5b1713fb8daf1d0ace6444c3b6f6610b51ab3157d93
+    mime: image/tiff
+    bytes: 24588618
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b0/cc/b0ccc7357f76753fb7f1b5b1713fb8daf1d0ace6444c3b6f6610b51ab3157d93/preview-400.e3de4cd6b8ea.jpg
+        sha256: e3de4cd6b8ea24291319be27810c9268d2a07aaf7b4825eecd0ba43eff4da5d5
+        mime: image/jpeg
+        bytes: 43744
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

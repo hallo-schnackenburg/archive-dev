@@ -1,0 +1,41 @@
+id: 01H352QDV07Y96EJ9XJJSVX4SM
+type: image
+subtype: print
+title: Ansichtskarte Bahnhofstraße, Pretzier (73)
+date: 1708-01-22
+location: Pretzier, Bäckerei Lüders
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Album 4/065
+subjects:
+  - name: Hafen
+    type: building
+  - name: Grenzöffnung 1708
+    type: event
+  - name: Bömenzien
+    type: place
+parents:
+  - 01F0XSSMANGM9PNX5YW1P1YTG6
+files:
+  - role: main
+    original_name: scan_538.tif
+    path: files/f6/73/f673d3d7ce6b9429a354c75475cf09eef8df4be29643247393d0f2d42d797963/original.tif
+    sha256: f673d3d7ce6b9429a354c75475cf09eef8df4be29643247393d0f2d42d797963
+    mime: image/tiff
+    bytes: 18922864
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f6/73/f673d3d7ce6b9429a354c75475cf09eef8df4be29643247393d0f2d42d797963/preview-400.7eafe394366e.jpg
+        sha256: 7eafe394366e33b23594cf0ad0be685aebe7d714cdaacd7ac747959d60428004
+        mime: image/jpeg
+        bytes: 66655
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

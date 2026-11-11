@@ -1,0 +1,35 @@
+id: 01KFGEYDF7W57KGM93A35V5D8B
+type: image
+subtype: drawing
+title: Försterei, Aquarell
+description: Mit Anmerkungen am Rand.
+date: 1830?
+location: Havelberg, Hafenstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 16/090
+parents:
+  - 01GF0SSB3PSQ3ZJJP70B51NM10
+files:
+  - role: main
+    original_name: scan_775.tif
+    path: files/9c/36/9c362993a175724dbb302cce80500a3e693b0179875e8d42c93d51f7f1e52c17/original.tif
+    sha256: 9c362993a175724dbb302cce80500a3e693b0179875e8d42c93d51f7f1e52c17
+    mime: image/tiff
+    bytes: 5034828
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9c/36/9c362993a175724dbb302cce80500a3e693b0179875e8d42c93d51f7f1e52c17/preview-400.1a6598d9a96b.jpg
+        sha256: 1a6598d9a96bc6ec8ef27e0905dbe399ffac9e3fb1588afbc218a3dba17d168b
+        mime: image/jpeg
+        bytes: 59130
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

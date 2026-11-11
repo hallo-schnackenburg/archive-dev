@@ -1,0 +1,52 @@
+id: 01HZ2DJ18AW3GW6KP04AAB65JF
+type: image
+subtype: drawing
+title: Skizze Arendsee, Lange Straße, Brünkendorf
+description: Bleistift auf Papier.
+date: "1824"
+location: Cumlosen, Dorfteich
+geocode:
+  lat: 53.0265
+  lon: 11.4715
+  precision: exact
+  source: osm
+origin:
+  name: Marta Voss
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+owner:
+  name: Helga Burmester
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Bömenzien
+    type: place
+  - name: Konfirmation 1824
+    type: event
+parents:
+  - 01KX2QEWS5CRBXEA92Z62Z3K4Q
+files:
+  - role: main
+    original_name: scan_537.tif
+    path: files/ff/7a/ff7a1cf6d5d6d319abe83d99c147f360026fbe2bde36a788826f25ac631bfacf/original.tif
+    sha256: ff7a1cf6d5d6d319abe83d99c147f360026fbe2bde36a788826f25ac631bfacf
+    mime: image/tiff
+    bytes: 24954858
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/7a/ff7a1cf6d5d6d319abe83d99c147f360026fbe2bde36a788826f25ac631bfacf/preview-400.6e6e02043f15.jpg
+        sha256: 6e6e02043f15490206b88766c8719b08f7e428b751de6afa4489786106a3c999
+        mime: image/jpeg
+        bytes: 28561
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

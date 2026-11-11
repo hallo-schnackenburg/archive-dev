@@ -1,0 +1,60 @@
+id: 01JNZ5T1ZPMGVTC63VZPR10TH0
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Heimatverein 1911
+date: 1911-10-08
+origin:
+  name: Feuerwehrausschuss Holtorf
+  type: business
+  location: Seedorf
+language: de
+subjects:
+  - name: Gemeindehaus
+    type: building
+  - name: Storchennest
+    type: building
+  - name: Bahnhof
+    type: building
+parents:
+  - 01FC500G3M1EH4PAW2K7HHB2K0
+files:
+  - role: page
+    num: 1
+    original_name: protocol_r10th0_001.tif
+    path: files/eb/84/eb84c5dce8bf22c2ab994a3dd56de1e9f4eb0fce827d0567fd162cdd8fbaef04/original.tif
+    sha256: eb84c5dce8bf22c2ab994a3dd56de1e9f4eb0fce827d0567fd162cdd8fbaef04
+    mime: image/tiff
+    bytes: 5983439
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/eb/84/eb84c5dce8bf22c2ab994a3dd56de1e9f4eb0fce827d0567fd162cdd8fbaef04/preview-400.951400e5f13d.jpg
+        sha256: 951400e5f13d0f3e322a01d562aa67410fff5a83f81651a80777523d67ff4a8f
+        mime: image/jpeg
+        bytes: 65365
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_r10th0_002.tif
+    path: files/34/69/3469f1ae7e86e59fedf3d8bc612b7675cbcb72fb68ad0a3db753995210ccc273/original.tif
+    sha256: 3469f1ae7e86e59fedf3d8bc612b7675cbcb72fb68ad0a3db753995210ccc273
+    mime: image/tiff
+    bytes: 16768940
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/34/69/3469f1ae7e86e59fedf3d8bc612b7675cbcb72fb68ad0a3db753995210ccc273/preview-400.2fd70c938f0a.jpg
+        sha256: 2fd70c938f0aa314df5bd5465816fd6c914a428e5bfe882544fc003deff8ef59
+        mime: image/jpeg
+        bytes: 79443
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

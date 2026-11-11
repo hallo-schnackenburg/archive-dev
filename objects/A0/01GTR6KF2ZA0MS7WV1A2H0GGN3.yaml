@@ -1,0 +1,47 @@
+id: 01GTR6KF2ZA0MS7WV1A2H0GGN3
+type: image
+subtype: plan
+title: Bauplan Pfarrhaus 1886
+description: Mit handschriftlichen Ergänzungen.
+date: "1886"
+location: Cumlosen, Mühlenweg
+origin:
+  name: Helga Rieke
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 34/199
+  note: Mappe 12
+subjects:
+  - name: Grenzturm
+    type: building
+  - name: Dorfkrug
+    type: building
+  - name: Sturmschaden 1886
+    type: event
+parents:
+  - 01FFXT95F2XCPVJ6NKJMCYEVVA
+files:
+  - role: main
+    original_name: scan_942.tif
+    path: files/20/9a/209a34af174976942b67736a6625178708296a57e2cc7f83ae4c43fb1ed9f41e/original.tif
+    sha256: 209a34af174976942b67736a6625178708296a57e2cc7f83ae4c43fb1ed9f41e
+    mime: image/tiff
+    bytes: 17523651
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/20/9a/209a34af174976942b67736a6625178708296a57e2cc7f83ae4c43fb1ed9f41e/preview-400.53f917c07967.jpg
+        sha256: 53f917c07967a9ce6ecfadecf933716dcdde0a1ef9cac67be045406df4a19774
+        mime: image/jpeg
+        bytes: 41467
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

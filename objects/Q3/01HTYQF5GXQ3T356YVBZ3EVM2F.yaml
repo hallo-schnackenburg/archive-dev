@@ -1,0 +1,40 @@
+id: 01HTYQF5GXQ3T356YVBZ3EVM2F
+type: image
+subtype: plan
+title: Deichplan Lüchow bis Lenzen
+date: 1910/1918
+original:
+  holder:
+    name: Familie Albers
+    type: person
+    location: Zadrau
+  reference: Plan 27/304
+subjects:
+  - name: Heinrich Pape
+    type: person
+  - name: Rudolf Ihde
+    type: person
+  - name: Frieda Garms
+    type: person
+parents:
+  - 01HKRG7RN0NA8YYR8Y8GWHXTB1
+files:
+  - role: main
+    original_name: scan_578.tif
+    path: files/84/cc/84ccf46ca8ecb13ef9a76fe854f37e5e99d206f99918c4dceb7758a011b7ea3e/original.tif
+    sha256: 84ccf46ca8ecb13ef9a76fe854f37e5e99d206f99918c4dceb7758a011b7ea3e
+    mime: image/tiff
+    bytes: 1476379
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/84/cc/84ccf46ca8ecb13ef9a76fe854f37e5e99d206f99918c4dceb7758a011b7ea3e/preview-400.31e38d0e03ba.jpg
+        sha256: 31e38d0e03ba851c556f0ea9ef88d58c08d3fba1336b3d1f059ee37126ad3aaa
+        mime: image/jpeg
+        bytes: 37817
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

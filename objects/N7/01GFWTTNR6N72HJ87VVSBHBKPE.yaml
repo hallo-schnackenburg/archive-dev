@@ -1,0 +1,37 @@
+id: 01GFWTTNR6N72HJ87VVSBHBKPE
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Rüterberg 1942
+description: Handschriftlich in Sütterlin.
+date: 1942-08-03
+location: Gollensdorf, Ziegelei
+geocode:
+  lat: 53.0749
+  lon: 11.5611
+  precision: region
+  source: osm
+origin:
+  name: Gemeinderat Lenzen
+  type: business
+  location: Lüchow
+language: de
+owner:
+  name: Berta Voss
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Erntedankfest 1942
+    type: event
+parents:
+  - 01JZKNVKBS64VYGFSCYTCB6QDJ
+storage: external
+external:
+  - type: archive
+    site: Kreisarchiv Lüchow-Dannenberg
+    uri: https://kreisarchiv-l-chow-dannenberg.example.org/objekt/110685
+    reference: NLA 220 Nr. 4582
+    retrieved: 2025-02-18
+  - type: archive
+    site: Bundesarchiv
+    uri: https://bundesarchiv.example.org/objekt/264407
+    reference: Best. 86 Nr. 735

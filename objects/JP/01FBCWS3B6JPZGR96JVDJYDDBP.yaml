@@ -1,0 +1,34 @@
+id: 01FBCWS3B6JPZGR96JVDJYDDBP
+type: image
+subtype: plan
+title: Lageplan Gärtnerei
+description: Mit handschriftlichen Ergänzungen.
+date: 1899-01
+location: Pretzier, Gemeindehaus
+origin:
+  name: Walter Lemke
+  type: person
+  location: Wustrow
+subjects:
+  - name: Erntedankfest 1899
+    type: event
+files:
+  - role: main
+    original_name: scan_932.tif
+    path: files/97/b7/97b7bdf69d867dff1e6102d3071cf760d0c9956295989bfe4f478f2530dd23de/original.tif
+    sha256: 97b7bdf69d867dff1e6102d3071cf760d0c9956295989bfe4f478f2530dd23de
+    mime: image/tiff
+    bytes: 17655947
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/97/b7/97b7bdf69d867dff1e6102d3071cf760d0c9956295989bfe4f478f2530dd23de/preview-400.35c79d78e1be.jpg
+        sha256: 35c79d78e1be517295c28950fba265a2353c56ca74c30ca9f9e326957e9a9f02
+        mime: image/jpeg
+        bytes: 28943
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

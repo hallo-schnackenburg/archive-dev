@@ -1,0 +1,42 @@
+id: 01GJXJQ93GJ39R0XRGV5H8FW64
+type: image
+subtype: photo
+title: Kindergarten in Pretzier
+date: 1909-09-12
+location: Arendsee, Schulstraße
+geocode:
+  lat: 52.9729
+  lon: 11.5211
+  precision: town
+  source: osm
+origin:
+  name: Karl Krüger
+  type: person
+  location: Lüchow
+subjects:
+  - name: Pumpenhaus
+    type: building
+  - name: Ilse Ahrens
+    type: person
+  - name: Jürgen Wegner
+    type: person
+files:
+  - role: main
+    original_name: scan_938.tif
+    path: files/39/f5/39f548f5e78e3eb56648e323221c84e77d457de62afed857354ca7c99166c5ff/original.tif
+    sha256: 39f548f5e78e3eb56648e323221c84e77d457de62afed857354ca7c99166c5ff
+    mime: image/tiff
+    bytes: 27639087
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/39/f5/39f548f5e78e3eb56648e323221c84e77d457de62afed857354ca7c99166c5ff/preview-400.40c9cdcf5add.jpg
+        sha256: 40c9cdcf5addeb6f1449df08ed67221031d2a700f6b4d3681089065fe9045cbd
+        mime: image/jpeg
+        bytes: 58171
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

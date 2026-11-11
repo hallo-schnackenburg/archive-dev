@@ -1,0 +1,43 @@
+id: 01GQ4TPWA932F27N7N8M9P4EBW
+type: image
+subtype: photo
+title: Speicher nach dem Straßenfest
+description: Zu sehen sind Försterei und Wassermühle.
+date: "1955"
+location: Havelberg, Molkerei
+geocode:
+  lat: 53.0236
+  lon: 11.4626
+  precision: exact
+  source: osm
+origin:
+  name: Wilhelm Bohlmann
+  type: person
+  location: Lüchow
+subjects:
+  - name: Karl Plate
+    type: person
+  - name: Havelberg
+    type: place
+parents:
+  - 01H6GZ1A9PWXWTSCHDX2966H18
+files:
+  - role: main
+    original_name: P4122.jpg
+    path: files/54/74/5474b3d12d0f4296428a8742b50a6e1e8f1012e6238b347624fb51715fe569e7/original.jpg
+    sha256: 5474b3d12d0f4296428a8742b50a6e1e8f1012e6238b347624fb51715fe569e7
+    mime: image/jpeg
+    bytes: 24299082
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/54/74/5474b3d12d0f4296428a8742b50a6e1e8f1012e6238b347624fb51715fe569e7/preview-400.c3ed9a1dea2e.jpg
+        sha256: c3ed9a1dea2e093654a69c56b1d79f1a2d6bb4844297433813b591007f284609
+        mime: image/jpeg
+        bytes: 75814
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,47 @@
+id: 01JEFK0E7EJJ2Q89ZRVVNPR6S1
+type: image
+subtype: print
+title: Postkarte Wootz, Badestelle
+location: Lüchow, Fährstraße
+geocode:
+  lat: 53.0959
+  lon: 11.5608
+  precision: exact
+  source: osm
+origin:
+  name: Sabine Plate
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 14/263
+subjects:
+  - name: Ilse Detlefs
+    type: person
+  - name: Wilhelm Wöhlk
+    type: person
+  - name: Schnackenburg
+    type: place
+files:
+  - role: main
+    original_name: scan_950.tif
+    path: files/a1/b8/a1b8b23952eebe27789ded753a52f345a7ef537eb2be942f901bb64a6eab8f37/original.tif
+    sha256: a1b8b23952eebe27789ded753a52f345a7ef537eb2be942f901bb64a6eab8f37
+    mime: image/tiff
+    bytes: 10726136
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a1/b8/a1b8b23952eebe27789ded753a52f345a7ef537eb2be942f901bb64a6eab8f37/preview-400.b0a81441d7eb.jpg
+        sha256: b0a81441d7eb53c7adbeae13f4f20c346f2fcb5b8d5154eee8bba4a8c960c6bb
+        mime: image/jpeg
+        bytes: 74107
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

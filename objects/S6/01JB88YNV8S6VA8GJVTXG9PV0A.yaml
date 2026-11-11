@@ -1,0 +1,48 @@
+id: 01JB88YNV8S6VA8GJVTXG9PV0A
+type: image
+subtype: photo
+title: Storchennest in Gollensdorf
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1925"
+location: Restorf, Dorfkrug
+geocode:
+  lat: 52.9453
+  lon: 11.5287
+  precision: town
+  source: osm
+origin:
+  name: Lotte Dreyer
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 37/126
+  note: Schrank B
+subjects:
+  - name: Deicharbeiten 1925
+    type: event
+parents:
+  - 01HCDYTRFHFRB82WRMENEDR10F
+files:
+  - role: main
+    original_name: P7464.jpg
+    path: files/e1/0d/e10dc48442db4d11f244e8b98c881312c4e3e4094809f1723f13973aad819e8a/original.jpg
+    sha256: e10dc48442db4d11f244e8b98c881312c4e3e4094809f1723f13973aad819e8a
+    mime: image/jpeg
+    bytes: 6763485
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/e1/0d/e10dc48442db4d11f244e8b98c881312c4e3e4094809f1723f13973aad819e8a/preview-400.e8201e416d94.jpg
+        sha256: e8201e416d9496359f646d4910f09de17600e7099bd458dc848e50ee6b6464f5
+        mime: image/jpeg
+        bytes: 59141
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

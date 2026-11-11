@@ -1,0 +1,37 @@
+id: 01GVFQD4F9YDV3CDZBQ9QBKFT7
+type: image
+subtype: print
+title: Postkarte Seedorf, Hafen
+description: Kupferstich, koloriert.
+date: 1736?
+origin:
+  name: Hermann Rieke
+  type: person
+  location: Laase
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+  - name: Rüterberg
+    type: place
+  - name: Wustrow
+    type: place
+files:
+  - role: main
+    original_name: scan_901.tif
+    path: files/05/12/05129cc12875b787cec099dcb10e1b750fc1e17104c65d7fd0afee314424cb32/original.tif
+    sha256: 05129cc12875b787cec099dcb10e1b750fc1e17104c65d7fd0afee314424cb32
+    mime: image/tiff
+    bytes: 3068396
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/12/05129cc12875b787cec099dcb10e1b750fc1e17104c65d7fd0afee314424cb32/preview-400.0b51ee942d9e.jpg
+        sha256: 0b51ee942d9ece95ff2ba6987fa6e8e2cc7bdee19268097d31861ad1d311989c
+        mime: image/jpeg
+        bytes: 48026
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

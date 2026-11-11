@@ -1,0 +1,37 @@
+id: 01JH6D912E9AJZ4BQ1DCTS6XTJ
+type: image
+subtype: photo
+title: Eisgang 2005
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 2005-02-26
+location: Dömitz, Schulstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Tanzsaal
+    type: building
+parents:
+  - 01JN30QK7AA815KKZN3ATXX5V3
+files:
+  - role: main
+    original_name: IMG_0492.jpg
+    path: files/80/1d/801df8c332c6baf88587795ce53bd1a6496697b48c3bd640d6c3b74665085051/original.jpg
+    sha256: 801df8c332c6baf88587795ce53bd1a6496697b48c3bd640d6c3b74665085051
+    mime: image/jpeg
+    bytes: 12612979
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/80/1d/801df8c332c6baf88587795ce53bd1a6496697b48c3bd640d6c3b74665085051/preview-400.ffc4e4b138f2.jpg
+        sha256: ffc4e4b138f2221e9f5b9c57808b73177414a9d40242a79fcf025f13a1f21af0
+        mime: image/jpeg
+        bytes: 45053
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

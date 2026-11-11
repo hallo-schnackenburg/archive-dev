@@ -1,0 +1,51 @@
+id: 01GFV9210T03HBCHK49TCA9DKJ
+type: document
+subtype: note
+title: Quittung für Karl Lemke
+description: Auf der Rückseite eines Formulars.
+date: 1972-12
+location: Seedorf, Am Markt
+geocode:
+  lat: 52.9839
+  lon: 11.4774
+  precision: street
+  source: osm
+origin:
+  name: Fritz Schwarz
+  type: person
+  location: Seedorf
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F/Mappe 6/105
+subjects:
+  - name: Ortsbesichtigung 1972
+    type: event
+  - name: Otto Lemke
+    type: person
+  - name: Tischlerei Bruns
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_ca9dkj_001.tif
+    path: files/2d/90/2d90c29d0bf9eb86202f9ee92eb5f0c98b6bc10512cd2045fd68bcfdd8d51525/original.tif
+    sha256: 2d90c29d0bf9eb86202f9ee92eb5f0c98b6bc10512cd2045fd68bcfdd8d51525
+    mime: image/tiff
+    bytes: 5566696
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/90/2d90c29d0bf9eb86202f9ee92eb5f0c98b6bc10512cd2045fd68bcfdd8d51525/preview-400.b1cb5aca9336.jpg
+        sha256: b1cb5aca9336c26075fabeb1438aa283950f56d0cb4551e40ba8c8c2938b5635
+        mime: image/jpeg
+        bytes: 27978
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

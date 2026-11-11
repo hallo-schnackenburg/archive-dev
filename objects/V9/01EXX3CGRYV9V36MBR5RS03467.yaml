@@ -1,0 +1,38 @@
+id: 01EXX3CGRYV9V36MBR5RS03467
+type: image
+subtype: photo
+title: Albert Garms, Porträt
+description: Zu sehen sind Tanzsaal und Schlachterei.
+date: "1999"
+location: Laase, Tischlerei Bruns
+origin:
+  name: Anni Hennings
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Bahnhof
+    type: building
+  - name: Dorfschule
+    type: building
+  - name: Gärtnerei
+    type: building
+files:
+  - role: main
+    original_name: P7083.jpg
+    path: files/fe/c5/fec51d2601657b60aca96bec9da24bc0f52fe13522cd855efd5d561d8168c000/original.jpg
+    sha256: fec51d2601657b60aca96bec9da24bc0f52fe13522cd855efd5d561d8168c000
+    mime: image/jpeg
+    bytes: 21084044
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fe/c5/fec51d2601657b60aca96bec9da24bc0f52fe13522cd855efd5d561d8168c000/preview-400.0f28c3a92d70.jpg
+        sha256: 0f28c3a92d705c74fac25301b0fac77148d3777fa290a652ab8c2f22744abad8
+        mime: image/jpeg
+        bytes: 52535
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

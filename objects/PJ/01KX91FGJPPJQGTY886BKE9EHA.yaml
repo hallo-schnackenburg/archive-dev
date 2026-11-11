@@ -1,0 +1,44 @@
+id: 01KX91FGJPPJQGTY886BKE9EHA
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Schnackenburg
+date: 1778-02
+location: Wittenberge, Schulstraße
+origin:
+  name: Rudolf Krüger
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 3/018
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v35580
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Hochwasser 1778
+    type: event
+  - name: Sparkasse
+    type: building
+files:
+  - role: main
+    original_name: scan_450.tif
+    path: files/b8/b6/b8b67cf0cec5a07a788951847184dcee0ac2d9834aa396674ecc637cecc8c6d0/original.tif
+    sha256: b8b67cf0cec5a07a788951847184dcee0ac2d9834aa396674ecc637cecc8c6d0
+    mime: image/tiff
+    bytes: 6544002
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b8/b6/b8b67cf0cec5a07a788951847184dcee0ac2d9834aa396674ecc637cecc8c6d0/preview-400.6468823daba8.jpg
+        sha256: 6468823daba8f12a1dd6afc8ef21ac4bc4d1da41a40edd4194fed9f853255614
+        mime: image/jpeg
+        bytes: 58102
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

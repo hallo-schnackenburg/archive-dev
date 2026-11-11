@@ -1,0 +1,43 @@
+id: 01K4S0DN70EWQPD9A4MF31BD6M
+type: image
+subtype: photo
+title: Straßenfest 2004
+description: Farbfoto, leicht verblasst.
+date: 2004-09-02
+location: Gartow, Bahnhofstraße
+geocode:
+  lat: 53.04
+  lon: 11.4843
+  precision: region
+  source: osm
+origin:
+  name: Hermann Ahrens
+  type: person
+  location: Gartow
+subjects:
+  - name: Kapern
+    type: place
+  - name: Gülden
+    type: place
+  - name: Gerda Bruns
+    type: person
+files:
+  - role: main
+    original_name: P6491.jpg
+    path: files/fc/22/fc22c18593a39e417c6f0180c000d43a2d63039530beb3be8e6ff3ae905d69b0/original.jpg
+    sha256: fc22c18593a39e417c6f0180c000d43a2d63039530beb3be8e6ff3ae905d69b0
+    mime: image/jpeg
+    bytes: 6742086
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/fc/22/fc22c18593a39e417c6f0180c000d43a2d63039530beb3be8e6ff3ae905d69b0/preview-400.f84dbf10c1bc.jpg
+        sha256: f84dbf10c1bc514ff9ca86fadc901ad70a4524a95f537e9ef829cfff15cb962e
+        mime: image/jpeg
+        bytes: 63718
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

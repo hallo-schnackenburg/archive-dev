@@ -1,0 +1,41 @@
+id: 01F7WVRTJ3ZHB26GSQ7K2KAM2Z
+type: image
+subtype: drawing
+title: Skizze Wittenberge, Hinter den Höfen
+description: Bleistift auf Papier.
+location: Bömenzien, Molkerei
+origin:
+  name: Heinrich Wiese
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok 17/235
+subjects:
+  - name: Havelberg
+    type: place
+parents:
+  - 01GGW9C3690VQN7H7FZF3TFT19
+files:
+  - role: main
+    original_name: scan_597.tif
+    path: files/02/cc/02cc4524e45325a1df9674d86aa5824de83d3eb9a5e1107c15d95e284c0b049c/original.tif
+    sha256: 02cc4524e45325a1df9674d86aa5824de83d3eb9a5e1107c15d95e284c0b049c
+    mime: image/tiff
+    bytes: 22472136
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/cc/02cc4524e45325a1df9674d86aa5824de83d3eb9a5e1107c15d95e284c0b049c/preview-400.e0c66501b7f4.jpg
+        sha256: e0c66501b7f40ad27c9e9001fecedac1c83acd224892983b9f59be22889243ce
+        mime: image/jpeg
+        bytes: 54033
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

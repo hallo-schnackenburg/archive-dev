@@ -1,0 +1,64 @@
+id: 01HSZGR8HKXX47SCBEQFARY82X
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Gorleben 1975
+description: "Beschlossen wurde unter anderem: Fährgeld."
+date: 1975?
+origin:
+  name: Finanzausschuss Holtorf
+  type: business
+  location: Schnackenburg
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Eisgang 1975
+    type: event
+  - name: Fährjubiläum 1975
+    type: event
+  - name: Käthe Ulrich
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: protocol_ary82x_001.tif
+    path: files/52/69/5269130be739973899ca04fec5a3c748bfff27b8d3019b17c7b53da95751d90e/original.tif
+    sha256: 5269130be739973899ca04fec5a3c748bfff27b8d3019b17c7b53da95751d90e
+    mime: image/tiff
+    bytes: 11248682
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/69/5269130be739973899ca04fec5a3c748bfff27b8d3019b17c7b53da95751d90e/preview-400.1da8920775ea.jpg
+        sha256: 1da8920775ea52d06d9bc18ab4612195f4b6d37bd7b4b9fcc1e605bcb9039933
+        mime: image/jpeg
+        bytes: 35081
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_ary82x_002.tif
+    path: files/04/14/04143e483018933a081b99329f5f76fa57b832b6708fa8cc4a266f68108b14ec/original.tif
+    sha256: 04143e483018933a081b99329f5f76fa57b832b6708fa8cc4a266f68108b14ec
+    mime: image/tiff
+    bytes: 15558856
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/14/04143e483018933a081b99329f5f76fa57b832b6708fa8cc4a266f68108b14ec/preview-400.dd1bf4ffb147.jpg
+        sha256: dd1bf4ffb147de6933296b7ed2786f8aa8a0ae47b167e9beef03ee130d4b150f
+        mime: image/jpeg
+        bytes: 54779
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

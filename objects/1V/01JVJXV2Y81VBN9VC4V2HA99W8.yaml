@@ -1,0 +1,59 @@
+id: 01JVJXV2Y81VBN9VC4V2HA99W8
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Kapern 1842
+date: 1842-07-26
+location: Wootz, Schützenhaus
+origin:
+  name: Ortsrat Wootz
+  type: business
+  location: Lüchow
+language: de
+subjects:
+  - name: Pumpenhaus
+    type: building
+  - name: Anni Lenz
+    type: person
+parents:
+  - 01JN30QK7AA815KKZN3ATXX5V3
+files:
+  - role: page
+    num: 1
+    original_name: protocol_ha99w8_001.tif
+    path: files/09/f8/09f81cdf4e09b662ba5ddc737381d9084037da070eb1e91909671305731e38f0/original.tif
+    sha256: 09f81cdf4e09b662ba5ddc737381d9084037da070eb1e91909671305731e38f0
+    mime: image/tiff
+    bytes: 18005332
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/f8/09f81cdf4e09b662ba5ddc737381d9084037da070eb1e91909671305731e38f0/preview-400.80dc22ba2530.jpg
+        sha256: 80dc22ba2530d629b43db267032db58f2e702c3eb6b2d9a5cf8050f052d05e04
+        mime: image/jpeg
+        bytes: 24121
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_ha99w8_002.tif
+    path: files/be/8e/be8e161efd7e10269be8545eabeef8c03bd1b907edb9c8b56fc2d53fcfcb8029/original.tif
+    sha256: be8e161efd7e10269be8545eabeef8c03bd1b907edb9c8b56fc2d53fcfcb8029
+    mime: image/tiff
+    bytes: 1152781
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/8e/be8e161efd7e10269be8545eabeef8c03bd1b907edb9c8b56fc2d53fcfcb8029/preview-400.0677003a4c18.jpg
+        sha256: 0677003a4c18dbca613173f11f32ddcd31f099cfc3ff67d2ab1f4070895c8ea0
+        mime: image/jpeg
+        bytes: 80794
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

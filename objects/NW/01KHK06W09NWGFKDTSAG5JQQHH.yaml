@@ -1,0 +1,36 @@
+id: 01KHK06W09NWGFKDTSAG5JQQHH
+type: image
+subtype: plan
+title: Bauplan Apotheke 1762
+date: 1762~
+location: Gülden, Dorfladen
+origin:
+  name: Heinrich Jeß
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Wootz
+    type: place
+parents:
+  - 01KBCYJZPX2SPV1MBZZ3QST2X6
+  - 01JF4KWKVRQTHC2EW4F1D004T1
+files:
+  - role: main
+    original_name: scan_830.tif
+    path: files/ca/23/ca23beb1973fb9ef02f767b7ead6624e4e5fca8ce16465f19fbfdf90dd018f0e/original.tif
+    sha256: ca23beb1973fb9ef02f767b7ead6624e4e5fca8ce16465f19fbfdf90dd018f0e
+    mime: image/tiff
+    bytes: 18312724
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ca/23/ca23beb1973fb9ef02f767b7ead6624e4e5fca8ce16465f19fbfdf90dd018f0e/preview-400.ec0b2b71bd53.jpg
+        sha256: ec0b2b71bd53f0ca9c921f0ea5ee75ccf931df9f900c2de3947e71b592b6f1bd
+        mime: image/jpeg
+        bytes: 62170
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

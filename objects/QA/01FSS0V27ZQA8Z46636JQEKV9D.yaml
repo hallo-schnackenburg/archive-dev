@@ -1,0 +1,38 @@
+id: 01FSS0V27ZQA8Z46636JQEKV9D
+type: image
+subtype: plan
+title: Deichplan Gartow bis Bömenzien
+date: 1944-08-15
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 40/221
+subjects:
+  - name: Speicher
+    type: building
+  - name: Seedorf
+    type: place
+  - name: Gasthof „Zur Elbe“
+    type: building
+files:
+  - role: main
+    original_name: scan_861.tif
+    path: files/df/13/df13fbb4c475292f28ce3225bae2cef9a054dce707ac2a3ae7a2cfe50372050b/original.tif
+    sha256: df13fbb4c475292f28ce3225bae2cef9a054dce707ac2a3ae7a2cfe50372050b
+    mime: image/tiff
+    bytes: 12082590
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/df/13/df13fbb4c475292f28ce3225bae2cef9a054dce707ac2a3ae7a2cfe50372050b/preview-400.fed04a9e62b3.jpg
+        sha256: fed04a9e62b30ec5576f53e81dea51f7e2a3c98dd95c39dc1746843baee2ac44
+        mime: image/jpeg
+        bytes: 68356
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

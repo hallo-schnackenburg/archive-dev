@@ -1,0 +1,65 @@
+id: 01J8KSFQMHSS6BFNX4Z9DZTH7T
+type: document
+subtype: letter
+title: Feldpostbrief von Erika Meyer
+date: 1920-03
+location: Dömitz, Gartenstraße
+geocode:
+  lat: 52.9719
+  lon: 11.6173
+  precision: street
+  source: osm
+origin:
+  name: Käthe Brandt
+  type: person
+  location: Seedorf
+recipient: Karl Schulz
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br/Mappe 28/011
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v3468
+files:
+  - role: page
+    num: 1
+    original_name: letter_dzth7t_001.tif
+    path: files/37/36/37364db6ae6e9c05b0d9efb94b4901b3480558083e77c32a74b03d58b430900f/original.tif
+    sha256: 37364db6ae6e9c05b0d9efb94b4901b3480558083e77c32a74b03d58b430900f
+    mime: image/tiff
+    bytes: 9433797
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/37/36/37364db6ae6e9c05b0d9efb94b4901b3480558083e77c32a74b03d58b430900f/preview-400.b8f966608b9a.jpg
+        sha256: b8f966608b9a71288917451722c2f9d6df68e87abbeb6fbcf7ffcd4c6caedab2
+        mime: image/jpeg
+        bytes: 64131
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_dzth7t_002.tif
+    path: files/d5/98/d59897470fecf343f2120c8471e5ad2fceb78ae2cef7272cc0200e9b3c1b208b/original.tif
+    sha256: d59897470fecf343f2120c8471e5ad2fceb78ae2cef7272cc0200e9b3c1b208b
+    mime: image/tiff
+    bytes: 8197170
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/98/d59897470fecf343f2120c8471e5ad2fceb78ae2cef7272cc0200e9b3c1b208b/preview-400.1b6dce47f73b.jpg
+        sha256: 1b6dce47f73b23090ed2eec977c31c78811694351484abef41c55e5d5a52a4c6
+        mime: image/jpeg
+        bytes: 42267
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

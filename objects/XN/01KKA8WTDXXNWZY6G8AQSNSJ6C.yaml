@@ -1,0 +1,35 @@
+id: 01KKA8WTDXXNWZY6G8AQSNSJ6C
+type: image
+subtype: photo
+title: Bahnhofstraße, Ecke Schulstraße
+date: "1970"
+origin:
+  name: Walter Jeß
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Familie Dierks
+    type: person
+    location: Dömitz
+  reference: Br/Mappe 1/016
+files:
+  - role: main
+    original_name: P4695.jpg
+    path: files/ce/2f/ce2f8d8ae7576f2b8f584809672262599ce0992be69d3c5b0660f63cddd7d7bf/original.jpg
+    sha256: ce2f8d8ae7576f2b8f584809672262599ce0992be69d3c5b0660f63cddd7d7bf
+    mime: image/jpeg
+    bytes: 13073497
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/ce/2f/ce2f8d8ae7576f2b8f584809672262599ce0992be69d3c5b0660f63cddd7d7bf/preview-400.4da87042b1b3.jpg
+        sha256: 4da87042b1b3ee6cebb78020d08ef5de56a3fba11864606691529b6d633a5811
+        mime: image/jpeg
+        bytes: 50836
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

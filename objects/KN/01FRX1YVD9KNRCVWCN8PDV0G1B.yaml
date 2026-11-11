@@ -1,0 +1,36 @@
+id: 01FRX1YVD9KNRCVWCN8PDV0G1B
+type: image
+subtype: plan
+title: Bauplan Torhaus 1927
+description: Tusche auf Transparentpapier.
+date: 1927/1937
+location: Gorleben, Kegelbahn
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Hans Gerdes
+    type: person
+  - name: Holtorf
+    type: place
+parents:
+  - 01M0CBRWW56FRQVDWWMJQPF72C
+files:
+  - role: main
+    original_name: scan_764.tif
+    path: files/00/bf/00bf57e071ca462fe43ccccb06f7c97a49d8e0c0f2a6e4e682127888b724a197/original.tif
+    sha256: 00bf57e071ca462fe43ccccb06f7c97a49d8e0c0f2a6e4e682127888b724a197
+    mime: image/tiff
+    bytes: 6959067
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/00/bf/00bf57e071ca462fe43ccccb06f7c97a49d8e0c0f2a6e4e682127888b724a197/preview-400.70b0f4f1260c.jpg
+        sha256: 70b0f4f1260c44468f32bff9acfa8af02713082e5acce430a562daf7395ecde1
+        mime: image/jpeg
+        bytes: 40108
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

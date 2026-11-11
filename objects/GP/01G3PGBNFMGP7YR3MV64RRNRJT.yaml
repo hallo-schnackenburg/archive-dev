@@ -1,0 +1,47 @@
+id: 01G3PGBNFMGP7YR3MV64RRNRJT
+type: image
+subtype: photo
+title: Blick vom Kirche St. Johannis auf das Dorfladen
+location: Seedorf, Kirchstraße
+geocode:
+  lat: 53.0568
+  lon: 11.645
+  precision: exact
+  source: osm
+origin:
+  name: Walter Wegner
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br 25/217
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+  - name: Karl Meyer
+    type: person
+parents:
+  - 01GA39T3DGKMZM390K7AXRNKQW
+files:
+  - role: main
+    original_name: P3456.jpg
+    path: files/bc/de/bcde94ffc31ea78c09f0062309b1d8f4138443cca765c921129257dfdfe126ba/original.jpg
+    sha256: bcde94ffc31ea78c09f0062309b1d8f4138443cca765c921129257dfdfe126ba
+    mime: image/jpeg
+    bytes: 1514035
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/bc/de/bcde94ffc31ea78c09f0062309b1d8f4138443cca765c921129257dfdfe126ba/preview-400.361319cd15cd.jpg
+        sha256: 361319cd15cdecf3f15391922172d02dcc6ce8255facd72442d2b354c1784cfc
+        mime: image/jpeg
+        bytes: 22599
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

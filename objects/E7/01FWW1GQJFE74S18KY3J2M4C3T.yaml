@@ -1,0 +1,49 @@
+id: 01FWW1GQJFE74S18KY3J2M4C3T
+type: image
+subtype: photo
+title: Weihnachtsmarkt 1937
+date: "1937"
+location: Havelberg, Bahnhofstraße
+geocode:
+  lat: 52.9379
+  lon: 11.5781
+  precision: exact
+  source: osm
+origin:
+  name: Gerda Krüger
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Lanz
+    type: place
+  - name: Storchennest
+    type: building
+  - name: Schützenfest 1937
+    type: event
+parents:
+  - 01G5CJBY3RS88Q2T2XPXK8Z7QS
+files:
+  - role: main
+    original_name: DSC0059.jpg
+    path: files/71/ff/71ffb66a14f07b36c5fd09a68b51106183a0b1dab30172fcccf8a1fefedfe5ad/original.jpg
+    sha256: 71ffb66a14f07b36c5fd09a68b51106183a0b1dab30172fcccf8a1fefedfe5ad
+    mime: image/jpeg
+    bytes: 20528942
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/71/ff/71ffb66a14f07b36c5fd09a68b51106183a0b1dab30172fcccf8a1fefedfe5ad/preview-400.9028b7641984.jpg
+        sha256: 9028b7641984b6d2945b70ae2349d15ed2dab0e9f332660a155b57f596a15434
+        mime: image/jpeg
+        bytes: 69290
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,56 @@
+id: 01JFXZSQXVQ0AYP4QW5MRCB1AT
+type: document
+subtype: note
+title: Quittung für Marta Brandt
+language: de
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Gerda Brandt
+    type: person
+parents:
+  - 01KXD1F75H1JZH7SDYYBNHXZ0A
+  - 01FA78F7DCMY60051YNWVNSZ2X
+files:
+  - role: page
+    num: 1
+    original_name: note_rcb1at_001.tif
+    path: files/70/be/70be14e87b68f6d04b289598e4812a8441dd3a59b9b69e795a609168c9cdc47a/original.tif
+    sha256: 70be14e87b68f6d04b289598e4812a8441dd3a59b9b69e795a609168c9cdc47a
+    mime: image/tiff
+    bytes: 18571618
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/70/be/70be14e87b68f6d04b289598e4812a8441dd3a59b9b69e795a609168c9cdc47a/preview-400.a4cfd29cdbd4.jpg
+        sha256: a4cfd29cdbd4d80aad950b3a25d076e59c094f897f7a6bdb461d419016d3c9aa
+        mime: image/jpeg
+        bytes: 79023
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_rcb1at_002.tif
+    path: files/68/da/68da645c2be7643472b8e3c2775907ca39a75f1a0d5c16d98020974d364bfb94/original.tif
+    sha256: 68da645c2be7643472b8e3c2775907ca39a75f1a0d5c16d98020974d364bfb94
+    mime: image/tiff
+    bytes: 2655841
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/68/da/68da645c2be7643472b8e3c2775907ca39a75f1a0d5c16d98020974d364bfb94/preview-400.25d827c0713b.jpg
+        sha256: 25d827c0713b255591062520b63a3a10be7148b3d44a943800e694587c559448
+        mime: image/jpeg
+        bytes: 51108
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

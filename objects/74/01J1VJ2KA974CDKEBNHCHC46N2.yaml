@@ -1,0 +1,42 @@
+id: 01J1VJ2KA974CDKEBNHCHC46N2
+type: image
+subtype: photo
+title: Brückeneinweihung 1903
+description: Farbfoto, leicht verblasst.
+date: 1903-03-22
+origin:
+  name: Ilse Dreyer
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 29/066
+  note: Kellerarchiv
+subjects:
+  - name: Ortsbesichtigung 1903
+    type: event
+  - name: Schützenhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_444.tif
+    path: files/aa/55/aa554488e893e39d2a12aa944b7c3311fd3f90d09e918d15a92d1c78495d49a1/original.tif
+    sha256: aa554488e893e39d2a12aa944b7c3311fd3f90d09e918d15a92d1c78495d49a1
+    mime: image/tiff
+    bytes: 7900242
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/aa/55/aa554488e893e39d2a12aa944b7c3311fd3f90d09e918d15a92d1c78495d49a1/preview-400.85945c27a0cc.jpg
+        sha256: 85945c27a0cc01eb2d3265872182545732d8bed0d984622c719d0ef3e6dcf1a8
+        mime: image/jpeg
+        bytes: 59455
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

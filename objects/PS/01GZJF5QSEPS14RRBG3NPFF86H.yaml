@@ -1,0 +1,36 @@
+id: 01GZJF5QSEPS14RRBG3NPFF86H
+type: image
+subtype: photo
+title: Fritz Voss, Porträt
+date: "1978"
+location: Gartow, Molkerei
+subjects:
+  - name: Irmgard Hennings
+    type: person
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Backhaus
+    type: building
+parents:
+  - 01FQ3YZE77QNA1ZTVZV37G0FNF
+  - 01GZXZG1A5CXM3AAT5P1TWE94F
+files:
+  - role: main
+    original_name: IMG_0905.jpg
+    path: files/2d/cf/2dcfe1139c3691499f37897d6518d328ba9c544b8bcb0418f8407d8527194dcb/original.jpg
+    sha256: 2dcfe1139c3691499f37897d6518d328ba9c544b8bcb0418f8407d8527194dcb
+    mime: image/jpeg
+    bytes: 13140814
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/2d/cf/2dcfe1139c3691499f37897d6518d328ba9c544b8bcb0418f8407d8527194dcb/preview-400.f205b4eceb56.jpg
+        sha256: f205b4eceb5648fcf5db49eef83ce25555491195773b96a942b8c26db6b9a8ec
+        mime: image/jpeg
+        bytes: 60561
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

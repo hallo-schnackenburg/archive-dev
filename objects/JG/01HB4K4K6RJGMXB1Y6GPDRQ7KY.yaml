@@ -1,0 +1,40 @@
+id: 01HB4K4K6RJGMXB1Y6GPDRQ7KY
+type: image
+subtype: print
+title: Postkarte Brünkendorf, Kirche St. Johannis
+description: Kupferstich, koloriert.
+date: 1947-11-06
+location: Zadrau, Friedhofskapelle
+origin:
+  name: Erika Tiedemann
+  type: person
+  location: Gülden
+owner:
+  name: Fritz Krüger
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Lotte Garms
+    type: person
+  - name: Gasthof „Zur Elbe“
+    type: building
+files:
+  - role: main
+    original_name: scan_413.tif
+    path: files/5d/3e/5d3e6cdb8ad567412e13aa69fb3f09450d1e27d0f92acc5761998442b213059e/original.tif
+    sha256: 5d3e6cdb8ad567412e13aa69fb3f09450d1e27d0f92acc5761998442b213059e
+    mime: image/tiff
+    bytes: 11772438
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5d/3e/5d3e6cdb8ad567412e13aa69fb3f09450d1e27d0f92acc5761998442b213059e/preview-400.9ce93d0c2c62.jpg
+        sha256: 9ce93d0c2c6297d36bc6e24e487acb5f4423610071ef245f00343ef1e534f179
+        mime: image/jpeg
+        bytes: 40674
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

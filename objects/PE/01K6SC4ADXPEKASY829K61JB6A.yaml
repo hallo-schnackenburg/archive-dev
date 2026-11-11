@@ -1,0 +1,44 @@
+id: 01K6SC4ADXPEKASY829K61JB6A
+type: document
+subtype: note
+title: Quittung für Walter Rieke
+date: 2009-10-20
+location: Cumlosen, Burgstraße
+geocode:
+  lat: 53.0695
+  lon: 11.6592
+  precision: street
+  source: osm
+origin:
+  name: Walter Lüders
+  type: person
+  location: Arendsee
+language: de
+subjects:
+  - name: Karl Dreyer
+    type: person
+  - name: Maifeier 2009
+    type: event
+parents:
+  - 01KVJ8Y27EYC61W5ZE473WC7YC
+files:
+  - role: page
+    num: 1
+    original_name: note_61jb6a_001.tif
+    path: files/de/eb/deebe3d62c7203a2d1dce2bf1cd9444e8ef2d80ec4558eac80e86a535cb47e6b/original.tif
+    sha256: deebe3d62c7203a2d1dce2bf1cd9444e8ef2d80ec4558eac80e86a535cb47e6b
+    mime: image/tiff
+    bytes: 18495392
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/eb/deebe3d62c7203a2d1dce2bf1cd9444e8ef2d80ec4558eac80e86a535cb47e6b/preview-400.56334f653466.jpg
+        sha256: 56334f653466d7d0b4f6c8563f131e1b73e0c6dc378c792c06dc67a6b3292b96
+        mime: image/jpeg
+        bytes: 42967
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

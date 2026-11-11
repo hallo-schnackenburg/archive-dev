@@ -1,0 +1,34 @@
+id: 01J0518TNJ4SK7XJFF332S2MMC
+type: image
+subtype: print
+title: "Kupferstich: Schnackenburg von der Elbseite, Bömenzien"
+location: Gorleben, Schulstraße
+origin:
+  name: Frieda Meyer
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: Lotte Plate
+    type: person
+files:
+  - role: main
+    original_name: scan_321.tif
+    path: files/43/15/4315485618a232e759acd3147a739df2c315f145b1b4ce78da26c65d1365037f/original.tif
+    sha256: 4315485618a232e759acd3147a739df2c315f145b1b4ce78da26c65d1365037f
+    mime: image/tiff
+    bytes: 17805449
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/43/15/4315485618a232e759acd3147a739df2c315f145b1b4ce78da26c65d1365037f/preview-400.4c2fab09c98b.jpg
+        sha256: 4c2fab09c98b204b51c5791fd538ea6c43b5b7925e543813d90bbb42646b045d
+        mime: image/jpeg
+        bytes: 80203
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

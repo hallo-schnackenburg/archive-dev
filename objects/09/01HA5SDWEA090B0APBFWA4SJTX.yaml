@@ -1,0 +1,35 @@
+id: 01HA5SDWEA090B0APBFWA4SJTX
+type: image
+subtype: plan
+title: Bauplan Schlachterei 1933
+description: Tusche auf Transparentpapier.
+date: 1933-08-20
+origin:
+  name: Otto Ahrens
+  type: person
+  location: Wustrow
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Lanz
+    type: place
+files:
+  - role: main
+    original_name: scan_955.tif
+    path: files/c7/0e/c70ea6ae4d954b6afa2f407bf559b842fd2195c8a633190abd1402d3c9c93a04/original.tif
+    sha256: c70ea6ae4d954b6afa2f407bf559b842fd2195c8a633190abd1402d3c9c93a04
+    mime: image/tiff
+    bytes: 14981101
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c7/0e/c70ea6ae4d954b6afa2f407bf559b842fd2195c8a633190abd1402d3c9c93a04/preview-400.ed7027210a19.jpg
+        sha256: ed7027210a199820e02073fd40846c705b1fbfbc890912a760c8a33b01fc8d1f
+        mime: image/jpeg
+        bytes: 56801
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

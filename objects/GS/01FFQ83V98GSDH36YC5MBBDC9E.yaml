@@ -1,0 +1,38 @@
+id: 01FFQ83V98GSDH36YC5MBBDC9E
+type: image
+subtype: print
+title: Postkarte Wustrow, Schmiede
+description: Kupferstich, koloriert.
+date: 1891-08-12
+location: Bömenzien, Dorfschule
+origin:
+  name: Erika Schulz
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Fastnacht 1891
+    type: event
+  - name: Sturmschaden 1891
+    type: event
+parents:
+  - 01KM675ZVCQFMKZVG8XHYFJ6C9
+files:
+  - role: main
+    original_name: scan_423.tif
+    path: files/78/d4/78d4078b123ccb61b89e5be576f19540c3fbe5df5bbc5e834332dc8408d22103/original.tif
+    sha256: 78d4078b123ccb61b89e5be576f19540c3fbe5df5bbc5e834332dc8408d22103
+    mime: image/tiff
+    bytes: 25489779
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/78/d4/78d4078b123ccb61b89e5be576f19540c3fbe5df5bbc5e834332dc8408d22103/preview-400.e42ce35c29fc.jpg
+        sha256: e42ce35c29fc2b8745549c6815dbc255eb0e8ca3ba1f826ebdf3112d9bcbb97b
+        mime: image/jpeg
+        bytes: 28467
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

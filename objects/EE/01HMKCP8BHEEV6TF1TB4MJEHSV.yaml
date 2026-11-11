@@ -1,0 +1,28 @@
+id: 01HMKCP8BHEEV6TF1TB4MJEHSV
+type: image
+subtype: plan
+title: Bauplan Dorfschule 1904
+description: Maßstab 1:100.
+date: "1904"
+parents:
+  - 01JN30QK7AA815KKZN3ATXX5V3
+files:
+  - role: main
+    original_name: scan_982.tif
+    path: files/df/55/df559b08cbc54a2c69ea448f8d110b193207dbf75e68b6b4dd6a1cfd953b4bb0/original.tif
+    sha256: df559b08cbc54a2c69ea448f8d110b193207dbf75e68b6b4dd6a1cfd953b4bb0
+    mime: image/tiff
+    bytes: 23874217
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/df/55/df559b08cbc54a2c69ea448f8d110b193207dbf75e68b6b4dd6a1cfd953b4bb0/preview-400.76fa3e7715ec.jpg
+        sha256: 76fa3e7715ecb60f1dfd6aec7e95ee0b8941d95b387f405e983b7ed9093d7400
+        mime: image/jpeg
+        bytes: 29107
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

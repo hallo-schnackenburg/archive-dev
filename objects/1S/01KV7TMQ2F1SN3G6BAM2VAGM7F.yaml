@@ -1,0 +1,32 @@
+id: 01KV7TMQ2F1SN3G6BAM2VAGM7F
+type: image
+subtype: print
+title: "Holzschnitt: Glockenweihe"
+description: Kupferstich, koloriert.
+date: "1794"
+origin:
+  name: Hans Voss
+  type: person
+  location: Dömitz
+parents:
+  - 01JWWTXH4CV5B4FWTT72A87FM2
+files:
+  - role: main
+    original_name: scan_215.tif
+    path: files/b7/ad/b7ad7eb5429d00bca9cbe3f4ebef0aeb06905142016991ac2b6eb45d079045cb/original.tif
+    sha256: b7ad7eb5429d00bca9cbe3f4ebef0aeb06905142016991ac2b6eb45d079045cb
+    mime: image/tiff
+    bytes: 25317822
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b7/ad/b7ad7eb5429d00bca9cbe3f4ebef0aeb06905142016991ac2b6eb45d079045cb/preview-400.595b71acb983.jpg
+        sha256: 595b71acb98361dbd883ee9f12cdbde555590fc014b3c8b11c7c1601978049c1
+        mime: image/jpeg
+        bytes: 22313
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

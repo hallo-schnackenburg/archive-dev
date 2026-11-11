@@ -1,0 +1,85 @@
+id: 01F26VHRCE1AEY8556RKZV7XPY
+type: document
+subtype: letter
+title: Dankschreiben Spielmannszug
+description: Mit Umschlag und Briefmarke.
+date: "1807"
+location: Lenzen, Bahnhofstraße
+geocode:
+  lat: 52.9553
+  lon: 11.4722
+  precision: region
+  source: osm
+recipient: Bernd Jeß
+language: de
+subjects:
+  - name: Ilse Plate
+    type: person
+  - name: Brigitte Voss
+    type: person
+  - name: Erntedankfest 1807
+    type: event
+parents:
+  - 01F8F6MXW2PVW8HD0CH1TYMBGX
+  - 01GHXA70MDX353KKCRS2BQ39WE
+files:
+  - role: page
+    num: 1
+    original_name: letter_zv7xpy_001.tif
+    path: files/4b/6b/4b6b4ebe0ca369094359f108af9f336c728274fec95a8c81e9a1410275e1f645/original.tif
+    sha256: 4b6b4ebe0ca369094359f108af9f336c728274fec95a8c81e9a1410275e1f645
+    mime: image/tiff
+    bytes: 18476788
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4b/6b/4b6b4ebe0ca369094359f108af9f336c728274fec95a8c81e9a1410275e1f645/preview-400.8f24abe66600.jpg
+        sha256: 8f24abe666003e06376ad2a47b9faacd188d932826561821011e7b1720da3c4f
+        mime: image/jpeg
+        bytes: 47470
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_zv7xpy_002.tif
+    path: files/53/2e/532e42a610ad65c58256446257d46dbdfd3fcf8bd0568b3ec4279a5ed8ce89d9/original.tif
+    sha256: 532e42a610ad65c58256446257d46dbdfd3fcf8bd0568b3ec4279a5ed8ce89d9
+    mime: image/tiff
+    bytes: 1415089
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/53/2e/532e42a610ad65c58256446257d46dbdfd3fcf8bd0568b3ec4279a5ed8ce89d9/preview-400.2ce539b2eb34.jpg
+        sha256: 2ce539b2eb34cf63ec4a82e2f56950aafc06afd7451fa00fcb91605b614ef350
+        mime: image/jpeg
+        bytes: 38723
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_zv7xpy_003.tif
+    path: files/94/03/94037246b3c1653672b160991afe945f858163d16e6029179ce6bd73314918e6/original.tif
+    sha256: 94037246b3c1653672b160991afe945f858163d16e6029179ce6bd73314918e6
+    mime: image/tiff
+    bytes: 26974393
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/94/03/94037246b3c1653672b160991afe945f858163d16e6029179ce6bd73314918e6/preview-400.6a82b4296b49.jpg
+        sha256: 6a82b4296b4942fdc440b4242159c894eec1c6aa6f9c19a88577a0262bcfcc58
+        mime: image/jpeg
+        bytes: 41816
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

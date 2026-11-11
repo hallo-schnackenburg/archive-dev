@@ -1,0 +1,43 @@
+id: 01EZFGJAY7X78DPTEZQK5XTSBA
+type: image
+subtype: plan
+title: Bauplan Försterei 1914
+description: Maßstab 1:250.
+date: 1914-03
+location: Dömitz, Hafenstraße
+origin:
+  name: Emma Bohlmann
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Kapern
+  reference: Dok/Mappe 17/021
+  note: Schrank B
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Lenzen
+    type: place
+files:
+  - role: main
+    original_name: scan_080.tif
+    path: files/4f/44/4f44ccdfdb8f7e0b0ae62ed4a6760c44888e09e5e4f441f1f2872407084a85db/original.tif
+    sha256: 4f44ccdfdb8f7e0b0ae62ed4a6760c44888e09e5e4f441f1f2872407084a85db
+    mime: image/tiff
+    bytes: 2847046
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/4f/44/4f44ccdfdb8f7e0b0ae62ed4a6760c44888e09e5e4f441f1f2872407084a85db/preview-400.9e1a231c6168.jpg
+        sha256: 9e1a231c6168d09b552af60c96e8157463dedf52a012b900cb61ad6f145bb2ce
+        mime: image/jpeg
+        bytes: 34540
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

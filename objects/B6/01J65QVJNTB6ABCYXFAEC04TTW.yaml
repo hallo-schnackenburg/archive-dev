@@ -1,0 +1,39 @@
+id: 01J65QVJNTB6ABCYXFAEC04TTW
+type: image
+subtype: print
+title: "Kupferstich: Cumlosen von der Elbseite, Pretzier"
+date: "1778"
+location: Arendsee, Bahnhofstraße
+geocode:
+  lat: 52.9495
+  lon: 11.683
+  precision: street
+  source: osm
+origin:
+  name: Günter Jeß
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Kapern
+    type: place
+files:
+  - role: main
+    original_name: scan_823.tif
+    path: files/38/3d/383d0f4dd5d7708475c243f04f3f5cbc285db2a74420367513086caaea8e514a/original.tif
+    sha256: 383d0f4dd5d7708475c243f04f3f5cbc285db2a74420367513086caaea8e514a
+    mime: image/tiff
+    bytes: 21141761
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/38/3d/383d0f4dd5d7708475c243f04f3f5cbc285db2a74420367513086caaea8e514a/preview-400.3360377b519e.jpg
+        sha256: 3360377b519eae3cd22cdcf86e355a26affef7eaac80c755a435532145357362
+        mime: image/jpeg
+        bytes: 70556
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

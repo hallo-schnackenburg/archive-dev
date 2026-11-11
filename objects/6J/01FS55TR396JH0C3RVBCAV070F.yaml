@@ -1,0 +1,60 @@
+id: 01FS55TR396JH0C3RVBCAV070F
+type: document
+subtype: note
+title: "Handschriftliche Notiz: Einweihung, Wootz"
+description: Beleg mit Stempel.
+date: 1961-06-01
+origin:
+  name: Heinrich Kuhlmann
+  type: person
+  location: Seedorf
+language: de
+subjects:
+  - name: Fähranleger
+    type: building
+  - name: Arendsee
+    type: place
+parents:
+  - 01KX0R6PE6GGZKHT99TAR1XJN4
+  - 01J60ZPHNFEPSYPBYBQHSWMT7Y
+files:
+  - role: page
+    num: 1
+    original_name: note_av070f_001.tif
+    path: files/b6/19/b619a8d89952b87d999fc1b45be98b556f855721b510ea2fb6866a173f0d5cca/original.tif
+    sha256: b619a8d89952b87d999fc1b45be98b556f855721b510ea2fb6866a173f0d5cca
+    mime: image/tiff
+    bytes: 15721114
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b6/19/b619a8d89952b87d999fc1b45be98b556f855721b510ea2fb6866a173f0d5cca/preview-400.0e3e251fce58.jpg
+        sha256: 0e3e251fce5873b9268a77874495766973967b961e7919ed6c7e2da35ba2d779
+        mime: image/jpeg
+        bytes: 75761
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_av070f_002.tif
+    path: files/91/12/9112f5872d498e10252c4a3af28983cc0a98dde4eed8916a8c651f4f56dc22de/original.tif
+    sha256: 9112f5872d498e10252c4a3af28983cc0a98dde4eed8916a8c651f4f56dc22de
+    mime: image/tiff
+    bytes: 21337119
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/91/12/9112f5872d498e10252c4a3af28983cc0a98dde4eed8916a8c651f4f56dc22de/preview-400.3655e95a464d.jpg
+        sha256: 3655e95a464dc58adb16d93d270ffcb95f6fe9b74a5e19dd93583c2dec2017fb
+        mime: image/jpeg
+        bytes: 22328
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

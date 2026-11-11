@@ -1,0 +1,38 @@
+id: 01JDHVF1ENPMY3VB0JXVJJDD1J
+type: image
+subtype: photo
+title: Brunnen am Markt nach dem Kartoffelernte
+description: Aufnahme von Otto Plate.
+date: 1912-01-03
+location: Salzwedel, Pumpenhaus
+geocode:
+  lat: 52.9414
+  lon: 11.5037
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Familie Wöhlk
+    type: person
+    location: Havelberg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v48312
+files:
+  - role: main
+    original_name: IMG_8035.jpg
+    path: files/a1/6e/a16e0df331d28fb05c41649c19cabf71cdc36286d806c6085dfc3ff407a4cc5e/original.jpg
+    sha256: a16e0df331d28fb05c41649c19cabf71cdc36286d806c6085dfc3ff407a4cc5e
+    mime: image/jpeg
+    bytes: 7958124
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/a1/6e/a16e0df331d28fb05c41649c19cabf71cdc36286d806c6085dfc3ff407a4cc5e/preview-400.683e999d3d1d.jpg
+        sha256: 683e999d3d1d7eaa89c2e349fe054f38556674de1537e389beda868e88fb4288
+        mime: image/jpeg
+        bytes: 74384
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

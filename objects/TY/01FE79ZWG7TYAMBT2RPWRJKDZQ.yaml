@@ -1,0 +1,33 @@
+id: 01FE79ZWG7TYAMBT2RPWRJKDZQ
+type: image
+subtype: photo
+title: Windmühle in Zadrau
+location: Lüchow, Kegelbahn
+geocode:
+  lat: 52.932
+  lon: 11.634
+  precision: exact
+  source: osm
+subjects:
+  - name: Kartoffelernte 1951
+    type: event
+files:
+  - role: main
+    original_name: DSC5872.jpg
+    path: files/0c/e3/0ce3467934a996f62c07e4710f542bd56aa3bc3cb51df7b890fe6bc435cd3dd7/original.jpg
+    sha256: 0ce3467934a996f62c07e4710f542bd56aa3bc3cb51df7b890fe6bc435cd3dd7
+    mime: image/jpeg
+    bytes: 13467169
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/0c/e3/0ce3467934a996f62c07e4710f542bd56aa3bc3cb51df7b890fe6bc435cd3dd7/preview-400.7911b14816a6.jpg
+        sha256: 7911b14816a668aef9044062f7b3e8aa306733977408418b27610f439f15e9c8
+        mime: image/jpeg
+        bytes: 62758
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

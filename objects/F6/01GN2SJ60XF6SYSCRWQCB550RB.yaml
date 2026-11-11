@@ -1,0 +1,43 @@
+id: 01GN2SJ60XF6SYSCRWQCB550RB
+type: image
+subtype: drawing
+title: Wappenentwurf Seedorf, Nienwalde
+description: Bleistift auf Papier.
+date: 194X
+origin:
+  name: Dieter Sievers
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 13/050
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Grenzturm
+    type: building
+  - name: Lotte Meyer
+    type: person
+files:
+  - role: main
+    original_name: scan_223.tif
+    path: files/6e/92/6e922f928888bce60428e09713e3d26544e62febe88d921b1c860807c4052e93/original.tif
+    sha256: 6e922f928888bce60428e09713e3d26544e62febe88d921b1c860807c4052e93
+    mime: image/tiff
+    bytes: 1551932
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6e/92/6e922f928888bce60428e09713e3d26544e62febe88d921b1c860807c4052e93/preview-400.dc27409cd0ad.jpg
+        sha256: dc27409cd0ad9193daadc9994df036c69bf05152eef00d16c740e0ed191f6119
+        mime: image/jpeg
+        bytes: 40338
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01KRZH82YM7JGM5SVXHWDS56ZZ
+type: image
+subtype: drawing
+title: Federzeichnung Grenzturm, Nienwalde
+description: Mit Anmerkungen am Rand.
+date: 1835-06-15
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 23/006
+subjects:
+  - name: Erika Meyer
+    type: person
+files:
+  - role: main
+    original_name: scan_988.tif
+    path: files/02/6f/026f44c48ae3795335def43ef92de624b40ba7e8d1939da2f8a2afbc50823df1/original.tif
+    sha256: 026f44c48ae3795335def43ef92de624b40ba7e8d1939da2f8a2afbc50823df1
+    mime: image/tiff
+    bytes: 20032107
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/6f/026f44c48ae3795335def43ef92de624b40ba7e8d1939da2f8a2afbc50823df1/preview-400.cb9ebd538f06.jpg
+        sha256: cb9ebd538f061b865d4114acddeb6723f4c8a2dffff37683cb4b185188818571
+        mime: image/jpeg
+        bytes: 44489
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

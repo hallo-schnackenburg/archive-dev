@@ -1,0 +1,34 @@
+id: 01HGWNVN07M6T1Z5XX3HD0ZNGR
+type: document
+subtype: brochure
+title: Ortsführer Kapern 1916
+description: Gedruckt in Rüterberg, 50 Seiten.
+date: 1916-12
+location: Kapern, Wassermühle
+geocode:
+  lat: 52.9366
+  lon: 11.4637
+  precision: town
+  source: osm
+origin:
+  name: Marta Meyer
+  type: person
+  location: Kapern
+language: de
+subjects:
+  - name: Wootz
+    type: place
+  - name: Klaus Schulz
+    type: person
+  - name: Grenzöffnung 1916
+    type: event
+parents:
+  - 01HC0SR9SYX64FFEJNDSMWXADW
+  - 01KHXJPG3828D54ZR9ZE2Z5K94
+storage: external
+external:
+  - type: platform
+    site: Wikimedia Commons
+    uri: https://wikimedia-commons.example.org/objekt/710479
+    note: nur Findbuch
+    retrieved: 2026-02-10

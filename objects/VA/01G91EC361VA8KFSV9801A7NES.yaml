@@ -1,0 +1,41 @@
+id: 01G91EC361VA8KFSV9801A7NES
+type: image
+subtype: print
+title: "Kupferstich: Brünkendorf von der Elbseite"
+description: Lithographie, Rand beschnitten.
+date: 1838-06
+location: Lanz, Gartenstraße
+origin:
+  name: August Burmester
+  type: person
+  location: Havelberg
+owner:
+  name: Karl Brandt
+  type: person
+  note: Nachlass
+subjects:
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01M3FABESZS5MMBAB10S45G2KH
+  - 01GV8MKHYPAWB1MAEXCSAW38CR
+files:
+  - role: main
+    original_name: scan_123.tif
+    path: files/15/1d/151d035e3c0ef2705bd423d6e58a7ad22889836752d626c106a956158740a050/original.tif
+    sha256: 151d035e3c0ef2705bd423d6e58a7ad22889836752d626c106a956158740a050
+    mime: image/tiff
+    bytes: 15015774
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/15/1d/151d035e3c0ef2705bd423d6e58a7ad22889836752d626c106a956158740a050/preview-400.26fa640dfd6c.jpg
+        sha256: 26fa640dfd6c7ead8ed3855ae46d8d34d6bb89eef22752ebf2a0e98b74bd8012
+        mime: image/jpeg
+        bytes: 28425
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

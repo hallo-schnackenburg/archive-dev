@@ -1,0 +1,42 @@
+id: 01GJ0V6ST3J0EGFA4NVK5Q01X1
+type: image
+subtype: photo
+title: Pumpenhaus nach dem Glockenweihe
+description: Farbfoto, leicht verblasst.
+origin:
+  name: Karl Hennings
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Kasten 1/017
+subjects:
+  - name: Hans Sievers
+    type: person
+  - name: Brünkendorf
+    type: place
+  - name: Osterfeuer 1902
+    type: event
+files:
+  - role: main
+    original_name: IMG_8048.jpg
+    path: files/35/46/3546c8638316fd7d5581d6311d89e8b371303b1c92da594b8c1cdbc1e03ecb0e/original.jpg
+    sha256: 3546c8638316fd7d5581d6311d89e8b371303b1c92da594b8c1cdbc1e03ecb0e
+    mime: image/jpeg
+    bytes: 11744487
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/35/46/3546c8638316fd7d5581d6311d89e8b371303b1c92da594b8c1cdbc1e03ecb0e/preview-400.02360b72004a.jpg
+        sha256: 02360b72004a88e8a13d2ecdd8a56aa4bdd8ff483713dd9d4038f68c06e3c575
+        mime: image/jpeg
+        bytes: 68573
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

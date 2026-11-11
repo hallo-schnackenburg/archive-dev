@@ -1,0 +1,29 @@
+id: 01GKETZHSE47JQNDPG16XPCPZB
+type: image
+subtype: plan
+title: Bauplan Friedhofskapelle 1866
+date: "1866"
+origin:
+  name: Irmgard Ludolf
+  type: person
+  location: Lanz
+files:
+  - role: main
+    original_name: scan_845.tif
+    path: files/43/9c/439ca88954ae05568bb56a66519dba26e64c25fc466800923b7859e7f19c30cc/original.tif
+    sha256: 439ca88954ae05568bb56a66519dba26e64c25fc466800923b7859e7f19c30cc
+    mime: image/tiff
+    bytes: 18500806
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/43/9c/439ca88954ae05568bb56a66519dba26e64c25fc466800923b7859e7f19c30cc/preview-400.a130c16c4a65.jpg
+        sha256: a130c16c4a651d473301ea651f3ef0debb23d8c04c145f98e52a3d183b7bfe08
+        mime: image/jpeg
+        bytes: 66753
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

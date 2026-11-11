@@ -1,0 +1,49 @@
+id: 01G5YPQAAYYGVCRT9Z67SSBGC9
+type: image
+subtype: photo
+title: Viehmarkt der Schützengesellschaft
+description: Abzug im Format 9 x 13 cm.
+date: 1932-06
+location: Cumlosen, Ladestraße
+geocode:
+  lat: 52.9271
+  lon: 11.5308
+  precision: region
+  source: osm
+origin:
+  name: Günter Lemke
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Familie Tiedemann
+    type: person
+    location: Lenzen
+  note: Dachboden, Truhe
+subjects:
+  - name: Hans Lemke
+    type: person
+  - name: Karl Lemke
+    type: person
+parents:
+  - 01G13YFEMZ6M5B1HQ76CM2BWE2
+files:
+  - role: main
+    original_name: scan_244.tif
+    path: files/b3/03/b30389c9569402fd024c11f8001dae44784ccc58bbff28feb0c477b510453676/original.tif
+    sha256: b30389c9569402fd024c11f8001dae44784ccc58bbff28feb0c477b510453676
+    mime: image/tiff
+    bytes: 19835228
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/03/b30389c9569402fd024c11f8001dae44784ccc58bbff28feb0c477b510453676/preview-400.c845571966a0.jpg
+        sha256: c845571966a0241a38a1280ce4a18df0b928e54b5a0e0bb7a5fc9bc5437d42b2
+        mime: image/jpeg
+        bytes: 64257
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

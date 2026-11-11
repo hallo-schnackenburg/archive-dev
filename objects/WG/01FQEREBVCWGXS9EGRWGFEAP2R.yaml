@@ -1,0 +1,36 @@
+id: 01FQEREBVCWGXS9EGRWGFEAP2R
+type: image
+subtype: plan
+title: Bauplan Bäckerei Lüders 1854
+description: Maßstab 1:2500.
+date: 1854-06-19
+location: Cumlosen, Hinter den Höfen
+subjects:
+  - name: Hochwasser 1854
+    type: event
+  - name: Beerdigung 1854
+    type: event
+  - name: Storchennest
+    type: building
+parents:
+  - 01K6AZXAQBY5GZ2MJ9739G5ZQB
+files:
+  - role: main
+    original_name: scan_948.tif
+    path: files/68/7f/687fda41870c39530c1a4425a36bc41a7e1ff2c9005a4f5c9b7c63004c0c7457/original.tif
+    sha256: 687fda41870c39530c1a4425a36bc41a7e1ff2c9005a4f5c9b7c63004c0c7457
+    mime: image/tiff
+    bytes: 23710898
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/68/7f/687fda41870c39530c1a4425a36bc41a7e1ff2c9005a4f5c9b7c63004c0c7457/preview-400.6cf80f59217d.jpg
+        sha256: 6cf80f59217d6a07cbd42ed7bc09a197a18dce46f5b1dbbbf0570b0b9676b2ac
+        mime: image/jpeg
+        bytes: 28334
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

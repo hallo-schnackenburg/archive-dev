@@ -1,0 +1,46 @@
+id: 01KH47MMVEACBYGHCGQ5JWQF0B
+type: image
+subtype: print
+title: "Holzschnitt: Einweihung, Arendsee"
+date: "1931"
+location: Gülden, Hinter den Höfen
+geocode:
+  lat: 53.0415
+  lon: 11.5497
+  precision: exact
+  source: osm
+origin:
+  name: Ernst Krüger
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  note: Dachboden, Truhe
+subjects:
+  - name: Grenzöffnung 1931
+    type: event
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: scan_054.tif
+    path: files/85/80/85804f58d2f6a4f2d220dbfd9918d1d67b6bb435165f70ee8a3a746cec9b2796/original.tif
+    sha256: 85804f58d2f6a4f2d220dbfd9918d1d67b6bb435165f70ee8a3a746cec9b2796
+    mime: image/tiff
+    bytes: 12041940
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/85/80/85804f58d2f6a4f2d220dbfd9918d1d67b6bb435165f70ee8a3a746cec9b2796/preview-400.856eb21f787a.jpg
+        sha256: 856eb21f787a87d29d3c2fb252d0019fd87570d624c3eb93a62ea866d7f0190f
+        mime: image/jpeg
+        bytes: 87516
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

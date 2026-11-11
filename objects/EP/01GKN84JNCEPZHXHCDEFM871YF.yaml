@@ -1,0 +1,30 @@
+id: 01GKN84JNCEPZHXHCDEFM871YF
+type: image
+subtype: photo
+title: Poststelle in Cumlosen
+origin:
+  name: Heinrich Harms
+  type: person
+  location: Dömitz
+parents:
+  - 01EYD0F18CY2V0SS2SY7TJVC0D
+files:
+  - role: main
+    original_name: DSC3973.jpg
+    path: files/64/6b/646b13bdf7462797a08ed3e5def0af9738366941061f57116982d100195a665c/original.jpg
+    sha256: 646b13bdf7462797a08ed3e5def0af9738366941061f57116982d100195a665c
+    mime: image/jpeg
+    bytes: 23835166
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/64/6b/646b13bdf7462797a08ed3e5def0af9738366941061f57116982d100195a665c/preview-400.8f2b82c3f0fd.jpg
+        sha256: 8f2b82c3f0fd4bec3d5a3992c326915a5b1b8b0959448193ab89288350eb9f93
+        mime: image/jpeg
+        bytes: 57697
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

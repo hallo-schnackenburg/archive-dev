@@ -1,0 +1,56 @@
+id: 01FAX301HCZEFT0CWV97MTAH2A
+type: document
+subtype: letter
+title: Zeugnis für Ernst Lemke
+date: 1865-08-27
+origin:
+  name: Heinrich Schwarz
+  type: person
+  location: Wustrow
+recipient: August Brandt
+subjects:
+  - name: Gülden
+    type: place
+parents:
+  - 01F5AE2XPF50SXP9GWBFQRZ78K
+files:
+  - role: page
+    num: 1
+    original_name: letter_mtah2a_001.tif
+    path: files/6a/b3/6ab3b42339f460832d464eec48e0092639d8e3786134e42aafec4e8dca19d200/original.tif
+    sha256: 6ab3b42339f460832d464eec48e0092639d8e3786134e42aafec4e8dca19d200
+    mime: image/tiff
+    bytes: 14454265
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6a/b3/6ab3b42339f460832d464eec48e0092639d8e3786134e42aafec4e8dca19d200/preview-400.288c034a49fc.jpg
+        sha256: 288c034a49fc881d70dac2a02f1538e8b66de9e24e4326fec9d18b3404fe4337
+        mime: image/jpeg
+        bytes: 47268
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_mtah2a_002.tif
+    path: files/d1/c4/d1c4559f7a401ec15a4924b5700e52c4ce8828f423538eab6f27d38dcd51bf73/original.tif
+    sha256: d1c4559f7a401ec15a4924b5700e52c4ce8828f423538eab6f27d38dcd51bf73
+    mime: image/tiff
+    bytes: 27608627
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d1/c4/d1c4559f7a401ec15a4924b5700e52c4ce8828f423538eab6f27d38dcd51bf73/preview-400.d44cf7f3da5b.jpg
+        sha256: d44cf7f3da5b63a64fbea2e030d6201c62288c48343eb880d654e4b7528cbbd5
+        mime: image/jpeg
+        bytes: 29029
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01F0XVEYGGJQJMSHDBVA0WM559
+type: image
+subtype: photo
+title: Osterfeuer 1907
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1907-01
+location: Restorf, Mühlenweg
+origin:
+  name: Wilhelm Bohlmann
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Konfirmation 1907
+    type: event
+  - name: Weihnachtsmarkt 1907
+    type: event
+  - name: Kirche St. Johannis
+    type: building
+files:
+  - role: main
+    original_name: IMG_2462.jpg
+    path: files/97/26/9726acb743380f130b3437a8a2c99b0edf358190e93996b41f3f0096e62a823a/original.jpg
+    sha256: 9726acb743380f130b3437a8a2c99b0edf358190e93996b41f3f0096e62a823a
+    mime: image/jpeg
+    bytes: 7022953
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/97/26/9726acb743380f130b3437a8a2c99b0edf358190e93996b41f3f0096e62a823a/preview-400.d6181009b5b1.jpg
+        sha256: d6181009b5b1069351edd5eb33d96d48fee996494f612e69840c7b4a2df5759f
+        mime: image/jpeg
+        bytes: 38709
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

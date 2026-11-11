@@ -1,0 +1,50 @@
+id: 01G5M6C2DP569ZTZ4PPFP0H9YC
+type: image
+subtype: plan
+title: Bauplan Schmiede 1827
+date: 1827-01-13
+location: Gartow, Lange Straße
+geocode:
+  lat: 52.9758
+  lon: 11.6794
+  precision: town
+  source: osm
+origin:
+  name: Paul Harms
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F/Album 26/033
+subjects:
+  - name: Gülden
+    type: place
+  - name: Backhaus
+    type: building
+  - name: Nienwalde
+    type: place
+parents:
+  - 01FQ7XJFBHG9XHBP2GHBKAZWD0
+files:
+  - role: main
+    original_name: scan_250.tif
+    path: files/8b/d5/8bd5524410cb9f509915c7a4e81575da1da483ceff42c8410fa97c21440d3aba/original.tif
+    sha256: 8bd5524410cb9f509915c7a4e81575da1da483ceff42c8410fa97c21440d3aba
+    mime: image/tiff
+    bytes: 1446280
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8b/d5/8bd5524410cb9f509915c7a4e81575da1da483ceff42c8410fa97c21440d3aba/preview-400.e14a286b6df6.jpg
+        sha256: e14a286b6df68ac5e858536dfdb8d1d9c7ad38341a450713c24662600ec138c3
+        mime: image/jpeg
+        bytes: 57773
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

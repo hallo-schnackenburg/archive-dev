@@ -1,0 +1,32 @@
+id: 01JB051902VTPMQ8ENAYJMK0YZ
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Wootz
+date: "1928"
+owner:
+  name: Günter Schulz
+  type: person
+  note: Dauerleihgabe
+parents:
+  - 01H36RTMJEX4S0EGJJ5ANSCJNW
+  - 01J1BQMAQVEW8DB40J658P2X0W
+files:
+  - role: main
+    original_name: scan_483.tif
+    path: files/05/33/0533b991f55d83f8ddf313470a7bb751c24ccad9271614e7686ebc807a707306/original.tif
+    sha256: 0533b991f55d83f8ddf313470a7bb751c24ccad9271614e7686ebc807a707306
+    mime: image/tiff
+    bytes: 6840861
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/05/33/0533b991f55d83f8ddf313470a7bb751c24ccad9271614e7686ebc807a707306/preview-400.b37f51fb7c40.jpg
+        sha256: b37f51fb7c401e749d5f21ebeffdd207b473315a2e352ee7bd9e6aa282c6d20b
+        mime: image/jpeg
+        bytes: 31369
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

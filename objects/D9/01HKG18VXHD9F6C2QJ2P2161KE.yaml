@@ -1,0 +1,38 @@
+id: 01HKG18VXHD9F6C2QJ2P2161KE
+type: image
+subtype: plan
+title: Bauplan Gutshaus 1906
+description: Tusche auf Transparentpapier.
+date: 1906/1910
+origin:
+  name: Erika Hennings
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 25/111
+parents:
+  - 01H40DBW3NVXVHMCXP864M4XJA
+files:
+  - role: main
+    original_name: scan_703.tif
+    path: files/3f/18/3f1855e302ab1cdbe9e71b7dde3f5e367a579482d411ef6c34b4e747d763a067/original.tif
+    sha256: 3f1855e302ab1cdbe9e71b7dde3f5e367a579482d411ef6c34b4e747d763a067
+    mime: image/tiff
+    bytes: 22201387
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3f/18/3f1855e302ab1cdbe9e71b7dde3f5e367a579482d411ef6c34b4e747d763a067/preview-400.3895d4759a8a.jpg
+        sha256: 3895d4759a8ac20aaea553a7564e5ad65f5493113d0498db096b05bc5e052dc2
+        mime: image/jpeg
+        bytes: 81321
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

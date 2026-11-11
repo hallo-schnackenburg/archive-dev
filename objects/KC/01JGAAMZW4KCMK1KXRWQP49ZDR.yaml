@@ -1,0 +1,43 @@
+id: 01JGAAMZW4KCMK1KXRWQP49ZDR
+type: image
+subtype: photo
+title: Ladestraße nach dem Kartoffelernte
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1954-03-11
+location: Wittenberge, Rathaus
+geocode:
+  lat: 53.072
+  lon: 11.4508
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg/Mappe 24/026
+subjects:
+  - name: Bahnhof
+    type: building
+  - name: Erika Schulz
+    type: person
+files:
+  - role: main
+    original_name: DSC8318.jpg
+    path: files/d0/08/d008948662160516fb3b794e113ae036a6abeb46269d949a8296ead4641b32b1/original.jpg
+    sha256: d008948662160516fb3b794e113ae036a6abeb46269d949a8296ead4641b32b1
+    mime: image/jpeg
+    bytes: 6931384
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/d0/08/d008948662160516fb3b794e113ae036a6abeb46269d949a8296ead4641b32b1/preview-400.e3275cdf13aa.jpg
+        sha256: e3275cdf13aaa3998b5e366c7986d19b42452ba5401014c8713c92c7990a2dca
+        mime: image/jpeg
+        bytes: 74905
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,56 @@
+id: 01GH2PC3VWS34Q45GG95N17HNQ
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Gollensdorf 1897
+description: "Beschlossen wurde unter anderem: Gemeindewahl."
+date: 189X
+location: Gollensdorf, Kirchstraße
+origin:
+  name: Gemeinderat Lenzen
+  type: business
+  location: Restorf
+language: de
+subjects:
+  - name: Nienwalde
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: protocol_n17hnq_001.tif
+    path: files/6c/81/6c8108d3d75824d4e1675a191fa3587375756c85abe4ccef9aef7b1e6bfbc640/original.tif
+    sha256: 6c8108d3d75824d4e1675a191fa3587375756c85abe4ccef9aef7b1e6bfbc640
+    mime: image/tiff
+    bytes: 4433480
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6c/81/6c8108d3d75824d4e1675a191fa3587375756c85abe4ccef9aef7b1e6bfbc640/preview-400.06329acb7357.jpg
+        sha256: 06329acb735790c576a2536a96ab11bf2c8fe12940609ddb2ac1cf5a88c344a7
+        mime: image/jpeg
+        bytes: 80355
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_n17hnq_002.tif
+    path: files/ab/bc/abbc5922265797a4165394813693898983dea2e71776c8f4fab5476a359a8b06/original.tif
+    sha256: abbc5922265797a4165394813693898983dea2e71776c8f4fab5476a359a8b06
+    mime: image/tiff
+    bytes: 27996780
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ab/bc/abbc5922265797a4165394813693898983dea2e71776c8f4fab5476a359a8b06/preview-400.1fb118c2a68b.jpg
+        sha256: 1fb118c2a68be22396654951847efd1efb6579028c25ba32886551a3b0025f54
+        mime: image/jpeg
+        bytes: 70149
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

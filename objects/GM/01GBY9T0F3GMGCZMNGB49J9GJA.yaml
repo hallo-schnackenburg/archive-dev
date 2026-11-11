@@ -1,0 +1,61 @@
+id: 01GBY9T0F3GMGCZMNGB49J9GJA
+type: document
+subtype: note
+title: Rechnung Garms, Gemeindehaus
+description: Auf der Rückseite eines Formulars.
+date: "1956"
+location: Laase, Burgstraße
+geocode:
+  lat: 53.0079
+  lon: 11.5037
+  precision: region
+  source: osm
+language: de
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: Lenzen
+    type: place
+  - name: Deicharbeiten 1956
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_9j9gja_001.tif
+    path: files/6f/d3/6fd3b37808956a19826408d3bdd561226d6b5c3febf5f62a08233b8f3036dfd7/original.tif
+    sha256: 6fd3b37808956a19826408d3bdd561226d6b5c3febf5f62a08233b8f3036dfd7
+    mime: image/tiff
+    bytes: 25476357
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6f/d3/6fd3b37808956a19826408d3bdd561226d6b5c3febf5f62a08233b8f3036dfd7/preview-400.1b2d16ffcc8d.jpg
+        sha256: 1b2d16ffcc8d03b366a239e6049ee144dc5fe362109f36017b9ca35e3393b3de
+        mime: image/jpeg
+        bytes: 60830
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_9j9gja_002.tif
+    path: files/ec/96/ec96b675cec1951029a462e2102fe746456f551be92b99ffe3e515e75c90dfb4/original.tif
+    sha256: ec96b675cec1951029a462e2102fe746456f551be92b99ffe3e515e75c90dfb4
+    mime: image/tiff
+    bytes: 5603239
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ec/96/ec96b675cec1951029a462e2102fe746456f551be92b99ffe3e515e75c90dfb4/preview-400.8db996b930da.jpg
+        sha256: 8db996b930daf5607792b677fddb3bb79390185761dda569443f7c16917af7e4
+        mime: image/jpeg
+        bytes: 20513
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

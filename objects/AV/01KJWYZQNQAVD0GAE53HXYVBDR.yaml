@@ -1,0 +1,51 @@
+id: 01KJWYZQNQAVD0GAE53HXYVBDR
+type: image
+subtype: photo
+title: Beerdigung 1923
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1923-05
+location: Zadrau, Lange Straße
+geocode:
+  lat: 53.0707
+  lon: 11.4546
+  precision: town
+  source: osm
+origin:
+  name: Karl Harms
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Hochwasser 1923
+    type: event
+  - name: Lanz
+    type: place
+  - name: Wustrow
+    type: place
+parents:
+  - 01HZP17Y1NVSXA7HYV6RH1MVZS
+  - 01JAG0VN6X3TDF0BEKQ3Q9ZYWP
+files:
+  - role: main
+    original_name: IMG_8683.jpg
+    path: files/5f/c1/5fc1eac9c7dffad915766f2d551ca8212573bc034b80b9abc165cc91b5b61e9f/original.jpg
+    sha256: 5fc1eac9c7dffad915766f2d551ca8212573bc034b80b9abc165cc91b5b61e9f
+    mime: image/jpeg
+    bytes: 15144105
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/5f/c1/5fc1eac9c7dffad915766f2d551ca8212573bc034b80b9abc165cc91b5b61e9f/preview-400.0ba84d59d61c.jpg
+        sha256: 0ba84d59d61c5a29281bd8041a6b6b437a2216de54ecb9d8c45ed8be998e76d6
+        mime: image/jpeg
+        bytes: 65648
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

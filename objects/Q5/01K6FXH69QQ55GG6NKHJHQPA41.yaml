@@ -1,0 +1,41 @@
+id: 01K6FXH69QQ55GG6NKHJHQPA41
+type: image
+subtype: photo
+title: Konfirmation 1927
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1927"
+location: Brünkendorf, Kindergarten
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Seedorf
+subjects:
+  - name: Wilhelm Lüders
+    type: person
+  - name: Hans Krüger
+    type: person
+  - name: Rathaus
+    type: building
+parents:
+  - 01M265RTMYNX5W0CM6R19YZYNH
+  - 01HS9D6TNXGYQ746ZSEVHFEZN8
+files:
+  - role: main
+    original_name: DSC0200.jpg
+    path: files/c9/1d/c91d11c33e8b2842f56b73e69a98f8f8958f4c458c180f1489e31229cad78a86/original.jpg
+    sha256: c91d11c33e8b2842f56b73e69a98f8f8958f4c458c180f1489e31229cad78a86
+    mime: image/jpeg
+    bytes: 24933456
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/c9/1d/c91d11c33e8b2842f56b73e69a98f8f8958f4c458c180f1489e31229cad78a86/preview-400.17c4ed3bfadd.jpg
+        sha256: 17c4ed3bfadddb3b2e0f5552d0b86789236e5cf1e110496a6b76f715445a570b
+        mime: image/jpeg
+        bytes: 23372
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01GHP1N4Q77ZPY3DVQJACYRJ2N
+type: image
+subtype: plan
+title: Deichplan Wootz bis Wustrow
+description: Tusche auf Transparentpapier.
+date: "1988"
+location: Laase, Am Markt
+origin:
+  name: Albert Schulz
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg/Album 21/065
+files:
+  - role: main
+    original_name: scan_615.tif
+    path: files/48/9f/489ff4a382dc4b92950d439e58f0423246be3395f8b528457676f06cbb3c69b3/original.tif
+    sha256: 489ff4a382dc4b92950d439e58f0423246be3395f8b528457676f06cbb3c69b3
+    mime: image/tiff
+    bytes: 14731501
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/48/9f/489ff4a382dc4b92950d439e58f0423246be3395f8b528457676f06cbb3c69b3/preview-400.3ad87ca84179.jpg
+        sha256: 3ad87ca84179db706e85af8f6375e7a5b8926bb082dd9d4cf4724e3a51d43e5c
+        mime: image/jpeg
+        bytes: 75970
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

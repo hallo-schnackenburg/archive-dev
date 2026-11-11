@@ -1,0 +1,36 @@
+id: 01KXS0YNSWP3SRNZ5SCEJ1X2P9
+type: image
+subtype: plan
+title: Bauplan Dorfladen 1906
+description: Mit handschriftlichen Ergänzungen.
+date: 1906-07-27
+location: Lenzen, Speicher
+origin:
+  name: Helga Dreyer
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Käthe Krüger
+    type: person
+parents:
+  - 01KX29XZ6YEZXRZYXDTRF154JS
+files:
+  - role: main
+    original_name: scan_584.tif
+    path: files/34/89/34894883ed668d8e67b4cbc677cb103449afae34d1f5374f243ae850f578828c/original.tif
+    sha256: 34894883ed668d8e67b4cbc677cb103449afae34d1f5374f243ae850f578828c
+    mime: image/tiff
+    bytes: 5905792
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/34/89/34894883ed668d8e67b4cbc677cb103449afae34d1f5374f243ae850f578828c/preview-400.43c317000352.jpg
+        sha256: 43c317000352cd28ec7ff4f50d6afb8035b32c4fe6a766d7c1fcec0b05562d6f
+        mime: image/jpeg
+        bytes: 74274
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

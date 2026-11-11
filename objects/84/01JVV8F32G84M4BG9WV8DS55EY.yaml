@@ -1,0 +1,43 @@
+id: 01JVV8F32G84M4BG9WV8DS55EY
+type: image
+subtype: photo
+title: Otto Garms, Porträt
+date: 2001/2002
+location: Arendsee, Am Elbdeich
+origin:
+  name: Gerda Jürgens
+  type: person
+  location: Wittenberge
+owner:
+  name: Dieter Albers
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Elbdeich
+    type: building
+  - name: Gasthof „Zur Elbe“
+    type: building
+parents:
+  - 01F4HYKHGYRFV335Z3P04PNKHW
+files:
+  - role: main
+    original_name: scan_292.tif
+    path: files/5b/31/5b312ed35fb02a4328636da707e39a33139ea3e7f4c76ea1c524f926f1f504ad/original.tif
+    sha256: 5b312ed35fb02a4328636da707e39a33139ea3e7f4c76ea1c524f926f1f504ad
+    mime: image/tiff
+    bytes: 3008641
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5b/31/5b312ed35fb02a4328636da707e39a33139ea3e7f4c76ea1c524f926f1f504ad/preview-400.56f588347bcc.jpg
+        sha256: 56f588347bccc82af4b31a9d23efb11a5a4f9c40a16fc7462e676032afd0cdde
+        mime: image/jpeg
+        bytes: 64226
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

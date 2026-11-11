@@ -1,0 +1,40 @@
+id: 01HV2FKAZXT7X86HE2G544HN52
+type: image
+subtype: print
+title: Lithographie Wassermühle, Cumlosen
+date: 1806-12-16
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 8/171
+owner:
+  name: Walter Cohrs
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Friedhofskapelle
+    type: building
+files:
+  - role: main
+    original_name: scan_974.tif
+    path: files/7b/83/7b832cdd76ccbd492f83f31b4d09569fabee181ba2fcb2feccd925362e2fb670/original.tif
+    sha256: 7b832cdd76ccbd492f83f31b4d09569fabee181ba2fcb2feccd925362e2fb670
+    mime: image/tiff
+    bytes: 18545539
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7b/83/7b832cdd76ccbd492f83f31b4d09569fabee181ba2fcb2feccd925362e2fb670/preview-400.9bc404e4f782.jpg
+        sha256: 9bc404e4f782b6f76fc429781d0f6145963ec64dbe248b7afa9f50865bd051d8
+        mime: image/jpeg
+        bytes: 71832
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

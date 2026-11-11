@@ -1,0 +1,37 @@
+id: 01FYX63RS6XBHHXM10JGNWG14M
+type: image
+subtype: photo
+title: Ziegelei nach dem Einweihung
+location: Lüchow, Bahnhof
+geocode:
+  lat: 52.9974
+  lon: 11.5153
+  precision: region
+  source: osm
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Gartow
+    type: place
+  - name: Erika Wöhlk
+    type: person
+files:
+  - role: main
+    original_name: IMG_7071.jpg
+    path: files/30/c9/30c976d5dc4b261da2ea2afdfada048edca711916b939b40a0743a9461580f29/original.jpg
+    sha256: 30c976d5dc4b261da2ea2afdfada048edca711916b939b40a0743a9461580f29
+    mime: image/jpeg
+    bytes: 15410039
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/30/c9/30c976d5dc4b261da2ea2afdfada048edca711916b939b40a0743a9461580f29/preview-400.cf20e7e79a3b.jpg
+        sha256: cf20e7e79a3bd432d997e8fdd1e8012fc53dfb64d7c1fd1664ef3d26390fe193
+        mime: image/jpeg
+        bytes: 84476
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

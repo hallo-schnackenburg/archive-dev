@@ -1,0 +1,42 @@
+id: 01KR3VAFH61BAHHDWVVDWZ02Y7
+type: image
+subtype: print
+title: Postkarte Salzwedel, Gemeindehaus
+description: Kupferstich, koloriert.
+date: "1857"
+origin:
+  name: Hans Lemke
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan/Album 2/053
+owner:
+  name: Otto Ihde
+  type: person
+  note: Dauerleihgabe
+parents:
+  - 01JP9HS44VA7XZY3HAP9PA82HG
+files:
+  - role: main
+    original_name: scan_791.tif
+    path: files/bf/7b/bf7bcae1f80e9ba94fba49dc764fc65881b0610603749c1fd09c311a1767c112/original.tif
+    sha256: bf7bcae1f80e9ba94fba49dc764fc65881b0610603749c1fd09c311a1767c112
+    mime: image/tiff
+    bytes: 27391301
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bf/7b/bf7bcae1f80e9ba94fba49dc764fc65881b0610603749c1fd09c311a1767c112/preview-400.b32559e39450.jpg
+        sha256: b32559e394509b74d498a1cdbd9fe2175aca76fa96f0e89209d83aa2a4ca5fea
+        mime: image/jpeg
+        bytes: 73154
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

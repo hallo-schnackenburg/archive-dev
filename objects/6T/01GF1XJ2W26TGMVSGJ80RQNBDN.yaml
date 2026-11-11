@@ -1,0 +1,35 @@
+id: 01GF1XJ2W26TGMVSGJ80RQNBDN
+type: image
+subtype: photo
+title: Otto Wegner, Porträt
+date: "1972"
+location: Gorleben, Zollamt
+geocode:
+  lat: 53.0796
+  lon: 11.5689
+  precision: exact
+  source: osm
+origin:
+  name: Wilhelm Tiedemann
+  type: person
+  location: Holtorf
+files:
+  - role: main
+    original_name: IMG_8228.jpg
+    path: files/6d/72/6d72d7eeb42b1e68c79d59721164e4879d0b085ddb34a166419de91ad2da315e/original.jpg
+    sha256: 6d72d7eeb42b1e68c79d59721164e4879d0b085ddb34a166419de91ad2da315e
+    mime: image/jpeg
+    bytes: 2563237
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/6d/72/6d72d7eeb42b1e68c79d59721164e4879d0b085ddb34a166419de91ad2da315e/preview-400.e921515fa0a2.jpg
+        sha256: e921515fa0a2dde028e2011638a6506ec690e2066f581b8580af25ded964d378
+        mime: image/jpeg
+        bytes: 73640
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

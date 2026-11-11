@@ -1,0 +1,36 @@
+id: 01H6EM1CQD326P6E3X6WXA70NN
+type: image
+subtype: print
+title: Postkarte Gorleben, Tischlerei Bruns
+date: 1942-10
+location: Bömenzien, Mühlenweg
+origin:
+  name: Hans Ahrens
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro 21/016
+files:
+  - role: main
+    original_name: scan_725.tif
+    path: files/a2/1e/a21e60ad8053187f0393cb7af96d61ad757f21ff7f277b7429e1ea2f3f3614d3/original.tif
+    sha256: a21e60ad8053187f0393cb7af96d61ad757f21ff7f277b7429e1ea2f3f3614d3
+    mime: image/tiff
+    bytes: 7568244
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a2/1e/a21e60ad8053187f0393cb7af96d61ad757f21ff7f277b7429e1ea2f3f3614d3/preview-400.3edbf855d0ef.jpg
+        sha256: 3edbf855d0eff0114327cd47bda85b24d2ce9e41b8f0d29fcb8ece007079cddd
+        mime: image/jpeg
+        bytes: 48477
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

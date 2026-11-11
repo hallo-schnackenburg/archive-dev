@@ -1,0 +1,65 @@
+id: 01FJH21W18F7ADJ76SFRA9YG15
+type: document
+subtype: letter
+title: Feldpostbrief von Emma Ahrens
+date: "1840"
+location: Cumlosen, Lange Straße
+geocode:
+  lat: 53.0601
+  lon: 11.5255
+  precision: region
+  source: osm
+origin:
+  name: Gerda Lenz
+  type: person
+  location: Gollensdorf
+language: de
+original:
+  holder:
+    name: Familie Schwarz
+    type: person
+    location: Gorleben
+  reference: Fotos/Mappe 9/009
+parents:
+  - 01EZC5C07CZY0ETCK5VD296P3F
+files:
+  - role: page
+    num: 1
+    original_name: letter_a9yg15_001.tif
+    path: files/68/e8/68e83bf1ffbd0d6b57a9afba0a37ce36f0bcba9233386086fca8b6a47a7b2ccb/original.tif
+    sha256: 68e83bf1ffbd0d6b57a9afba0a37ce36f0bcba9233386086fca8b6a47a7b2ccb
+    mime: image/tiff
+    bytes: 2342859
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/68/e8/68e83bf1ffbd0d6b57a9afba0a37ce36f0bcba9233386086fca8b6a47a7b2ccb/preview-400.ff49518075c5.jpg
+        sha256: ff49518075c53bb26449b4f274b7ff69b8855d1a5b3b4a299b35a8c0395ddcc3
+        mime: image/jpeg
+        bytes: 89394
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_a9yg15_002.tif
+    path: files/fc/1b/fc1b682806b2d4a1b5ef34d81a9f73bbeaa74ecadd9c61cbbca3d3d372d7fdbd/original.tif
+    sha256: fc1b682806b2d4a1b5ef34d81a9f73bbeaa74ecadd9c61cbbca3d3d372d7fdbd
+    mime: image/tiff
+    bytes: 14856361
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/1b/fc1b682806b2d4a1b5ef34d81a9f73bbeaa74ecadd9c61cbbca3d3d372d7fdbd/preview-400.e0e7ccd2494e.jpg
+        sha256: e0e7ccd2494e7289b8b46b9e78634f7d14b0e0d1541cb80a469e5c986c79a02e
+        mime: image/jpeg
+        bytes: 76612
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

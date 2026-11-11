@@ -1,0 +1,45 @@
+id: 01FFABSGN1CP6V46SJV49HTNP6
+type: image
+subtype: drawing
+title: Skizze Lanz, Lange Straße
+description: Bleistift auf Papier.
+date: 1899-02-07
+location: Brünkendorf, Pfarrhaus
+geocode:
+  lat: 52.9924
+  lon: 11.533
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Planschrank, Fach 3
+subjects:
+  - name: Karl Voss
+    type: person
+  - name: Gärtnerei
+    type: building
+  - name: Hedwig Krüger
+    type: person
+files:
+  - role: main
+    original_name: scan_748.tif
+    path: files/e2/dc/e2dc2853da58771273c6b0de6409e76320ab473f3e10448ec0a97019e406e57e/original.tif
+    sha256: e2dc2853da58771273c6b0de6409e76320ab473f3e10448ec0a97019e406e57e
+    mime: image/tiff
+    bytes: 16671729
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e2/dc/e2dc2853da58771273c6b0de6409e76320ab473f3e10448ec0a97019e406e57e/preview-400.894870b5a44f.jpg
+        sha256: 894870b5a44f296d20a393be201b0acd9fe95124417733eeac2c0a896bdb9623
+        mime: image/jpeg
+        bytes: 44671
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01FCEPDRHB2QEZJNDED1JBM47Q
+type: image
+subtype: photo
+title: Kinder am Schmiede, Wittenberge
+description: Zu sehen sind Kindergarten und Dorfkrug.
+date: "1910"
+location: Schnackenburg, Fachwerkhaus Marktstraße 4
+geocode:
+  lat: 53.0748
+  lon: 11.6706
+  precision: street
+  source: osm
+origin:
+  name: Karl Plate
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Wassermühle
+    type: building
+files:
+  - role: main
+    original_name: P7026.jpg
+    path: files/97/5c/975c117f0cdd2c291cb43f39d0b0616e17c7507123c9195252e13eb375a2238c/original.jpg
+    sha256: 975c117f0cdd2c291cb43f39d0b0616e17c7507123c9195252e13eb375a2238c
+    mime: image/jpeg
+    bytes: 23968759
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/97/5c/975c117f0cdd2c291cb43f39d0b0616e17c7507123c9195252e13eb375a2238c/preview-400.c394ac694853.jpg
+        sha256: c394ac6948538722ba6573be19df396264e9e20fffc5239290e813bfeac0612d
+        mime: image/jpeg
+        bytes: 40802
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

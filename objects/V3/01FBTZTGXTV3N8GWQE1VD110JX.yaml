@@ -1,0 +1,35 @@
+id: 01FBTZTGXTV3N8GWQE1VD110JX
+type: image
+subtype: photo
+title: Hochzeit der Heimatverein
+date: "1928"
+location: Brünkendorf, Tanzsaal
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Kirmes 1928
+    type: event
+  - name: Karl Voss
+    type: person
+parents:
+  - 01F9DH58STHY0SNK18ZFW9YJ7Y
+files:
+  - role: main
+    original_name: DSC0721.jpg
+    path: files/fe/9d/fe9d7102747d787c715f1e362e6a47628121eb8a48213fe5eefc93f815e1f17d/original.jpg
+    sha256: fe9d7102747d787c715f1e362e6a47628121eb8a48213fe5eefc93f815e1f17d
+    mime: image/jpeg
+    bytes: 15633654
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/fe/9d/fe9d7102747d787c715f1e362e6a47628121eb8a48213fe5eefc93f815e1f17d/preview-400.ed894e8ff611.jpg
+        sha256: ed894e8ff61172adc9363e93f6e70b9595ccb2d39503402657587eaa708078d5
+        mime: image/jpeg
+        bytes: 35279
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

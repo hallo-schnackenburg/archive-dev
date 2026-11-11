@@ -1,0 +1,42 @@
+id: 01HD5V5KQY5EFQ4HTRC4D7WSMD
+type: image
+subtype: photo
+title: Blick vom Apotheke auf das Kaufmannshaus
+description: Zu sehen sind Gärtnerei und Kirche St. Johannis.
+location: Bömenzien, Kirchstraße
+origin:
+  name: Albert Plate
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 24/072
+subjects:
+  - name: Zadrau
+    type: place
+parents:
+  - 01F0BRQ2JGN7DY37JCS6H3RZJF
+  - 01M3RT3C17QDA971WE6FYTG43J
+files:
+  - role: main
+    original_name: DSC5862.jpg
+    path: files/19/8f/198f151a3575575bfeb468fa8696f72d2b63ac4970d8195feb85a34d741fec5f/original.jpg
+    sha256: 198f151a3575575bfeb468fa8696f72d2b63ac4970d8195feb85a34d741fec5f
+    mime: image/jpeg
+    bytes: 15919841
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/19/8f/198f151a3575575bfeb468fa8696f72d2b63ac4970d8195feb85a34d741fec5f/preview-400.bb9fe56c0534.jpg
+        sha256: bb9fe56c0534b141149c3e81721662519e761b4ca3aa8869114cc4f36c398900
+        mime: image/jpeg
+        bytes: 54994
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

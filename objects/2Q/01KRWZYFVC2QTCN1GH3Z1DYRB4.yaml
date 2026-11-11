@@ -1,0 +1,33 @@
+id: 01KRWZYFVC2QTCN1GH3Z1DYRB4
+type: image
+subtype: plan
+title: Deichplan Hitzacker bis Wootz
+date: 1768-02
+location: Gorleben, Schulstraße
+origin:
+  name: Hans Krüger
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Günter Rohde
+    type: person
+files:
+  - role: main
+    original_name: scan_564.tif
+    path: files/79/8b/798b8c6ddad6e0de8198ad79422ec0ab5dd6e9907352dd00d2beb04536c3c773/original.tif
+    sha256: 798b8c6ddad6e0de8198ad79422ec0ab5dd6e9907352dd00d2beb04536c3c773
+    mime: image/tiff
+    bytes: 27917765
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/79/8b/798b8c6ddad6e0de8198ad79422ec0ab5dd6e9907352dd00d2beb04536c3c773/preview-400.2fc8c359b882.jpg
+        sha256: 2fc8c359b8821feb7ed02b17987d2f389715955bf585ab548101b4c3f0fccbdf
+        mime: image/jpeg
+        bytes: 63711
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

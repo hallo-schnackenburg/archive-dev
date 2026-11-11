@@ -1,0 +1,34 @@
+id: 01KSKGX5V9D1YGK85YJHYMCX0J
+type: image
+subtype: plan
+title: Bauplan Gutshaus 1939
+description: Mit handschriftlichen Ergänzungen.
+date: 1939-07-07
+location: Brünkendorf, Hinter den Höfen
+origin:
+  name: Otto Meyer
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Wittenberge
+    type: place
+files:
+  - role: main
+    original_name: scan_109.tif
+    path: files/d9/44/d94440264d5d140ea8989863a7e2d8ea642b45c31342e6a565a5b2e389755689/original.tif
+    sha256: d94440264d5d140ea8989863a7e2d8ea642b45c31342e6a565a5b2e389755689
+    mime: image/tiff
+    bytes: 21602673
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d9/44/d94440264d5d140ea8989863a7e2d8ea642b45c31342e6a565a5b2e389755689/preview-400.a720123f5b2e.jpg
+        sha256: a720123f5b2e3f3da52409fb408fd09539294aa665663d48e0ae79d35d3e77ad
+        mime: image/jpeg
+        bytes: 53603
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

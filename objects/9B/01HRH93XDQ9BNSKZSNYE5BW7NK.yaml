@@ -1,0 +1,35 @@
+id: 01HRH93XDQ9BNSKZSNYE5BW7NK
+type: image
+subtype: plan
+title: Bauplan Tischlerei Bruns 1827
+description: Tusche auf Transparentpapier.
+date: 182X
+location: Dömitz, Am Elbdeich
+subjects:
+  - name: Badestelle
+    type: building
+  - name: Schützenfest 1827
+    type: event
+parents:
+  - 01HDQ9RJAQFYW37R825PB2R2V0
+  - 01FDA5WD2HAQWVA4SE72GX6KEJ
+files:
+  - role: main
+    original_name: scan_216.tif
+    path: files/d5/04/d5043c1b3755ed3616d16e3ab8325eb6df0f7fc4f04856be692bb0eaa11ab663/original.tif
+    sha256: d5043c1b3755ed3616d16e3ab8325eb6df0f7fc4f04856be692bb0eaa11ab663
+    mime: image/tiff
+    bytes: 22410142
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/04/d5043c1b3755ed3616d16e3ab8325eb6df0f7fc4f04856be692bb0eaa11ab663/preview-400.623c43b39186.jpg
+        sha256: 623c43b39186bef6773ff84be53c19dcaf6e6f6379f2fe63b41bdf03721c83ac
+        mime: image/jpeg
+        bytes: 35580
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

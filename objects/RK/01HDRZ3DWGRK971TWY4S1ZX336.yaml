@@ -1,0 +1,37 @@
+id: 01HDRZ3DWGRK971TWY4S1ZX336
+type: image
+subtype: drawing
+title: Federzeichnung Rathaus, Wootz
+description: Mit Anmerkungen am Rand.
+date: "1970"
+location: Havelberg, Deichstraße
+geocode:
+  lat: 52.9158
+  lon: 11.4677
+  precision: street
+  source: osm
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Hochwasser 1970
+    type: event
+files:
+  - role: main
+    original_name: scan_996.tif
+    path: files/74/73/74735d94cf4cdf491b5d4db6742aabfa9d5827db3c2f6272a4c1c9b0a0f68631/original.tif
+    sha256: 74735d94cf4cdf491b5d4db6742aabfa9d5827db3c2f6272a4c1c9b0a0f68631
+    mime: image/tiff
+    bytes: 6933961
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/74/73/74735d94cf4cdf491b5d4db6742aabfa9d5827db3c2f6272a4c1c9b0a0f68631/preview-400.20e15c3b1d3e.jpg
+        sha256: 20e15c3b1d3ee05810fac51d87cd90268113e2a602bbf1be526f3a5bbf2af6a2
+        mime: image/jpeg
+        bytes: 64870
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

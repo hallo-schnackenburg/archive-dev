@@ -1,0 +1,40 @@
+id: 01FRCYXM233VMKD4Z48NFQBXE9
+type: image
+subtype: photo
+title: Blick vom Ziegelei auf das Bahnhof
+date: 1958-11-16
+location: Restorf, Hafenstraße
+geocode:
+  lat: 52.9559
+  lon: 11.6062
+  precision: street
+  source: osm
+subjects:
+  - name: Helga Jeß
+    type: person
+  - name: Feuerwehrübung 1958
+    type: event
+  - name: Kindergarten
+    type: building
+parents:
+  - 01JP5EBH2JPHYSX1ABKRA99Q8F
+files:
+  - role: main
+    original_name: DSC8999.jpg
+    path: files/11/40/1140072c30d2cc37c7fce2b3495c359eca41209bb27a05445a4ff07451c787df/original.jpg
+    sha256: 1140072c30d2cc37c7fce2b3495c359eca41209bb27a05445a4ff07451c787df
+    mime: image/jpeg
+    bytes: 14559730
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/11/40/1140072c30d2cc37c7fce2b3495c359eca41209bb27a05445a4ff07451c787df/preview-400.4c717b7e0401.jpg
+        sha256: 4c717b7e0401d8ba9419b7ad2006b4933fc86df556f16e489bdf97e17764ce93
+        mime: image/jpeg
+        bytes: 81719
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

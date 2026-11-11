@@ -1,0 +1,35 @@
+id: 01G3Q9TGW0Y3HNNGGM7K10NC8Y
+type: image
+subtype: photo
+title: "Kirchenchor: Gruppenbild Grenzöffnung"
+date: 1898-05-14
+location: Rüterberg, Gemeindehaus
+geocode:
+  lat: 53.047
+  lon: 11.6009
+  precision: exact
+  source: osm
+origin:
+  name: Erika Pape
+  type: person
+  location: Salzwedel
+files:
+  - role: main
+    original_name: DSC2175.jpg
+    path: files/3a/ba/3abadf4b1e9b0a9e31b868ae2a9eaf8d2f026db7f0fe4f4bd272545df8885e43/original.jpg
+    sha256: 3abadf4b1e9b0a9e31b868ae2a9eaf8d2f026db7f0fe4f4bd272545df8885e43
+    mime: image/jpeg
+    bytes: 6618285
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/3a/ba/3abadf4b1e9b0a9e31b868ae2a9eaf8d2f026db7f0fe4f4bd272545df8885e43/preview-400.031504e87ce5.jpg
+        sha256: 031504e87ce551611a8d5b60794c59908ba02e383f60ac69640ed3c4e1ab7daf
+        mime: image/jpeg
+        bytes: 39719
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

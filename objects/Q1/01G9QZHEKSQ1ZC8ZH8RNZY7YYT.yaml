@@ -1,0 +1,39 @@
+id: 01G9QZHEKSQ1ZC8ZH8RNZY7YYT
+type: image
+subtype: plan
+title: Flurkarte Dömitz
+description: Mit handschriftlichen Ergänzungen.
+location: Schnackenburg, Elbstraße
+origin:
+  name: Otto Krüger
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok 35/044
+subjects:
+  - name: Eisgang 1952
+    type: event
+files:
+  - role: main
+    original_name: scan_629.tif
+    path: files/a9/db/a9db10952d244c7d7cbef7daf8b4b245a552f325ccc53c67fbe7f8fb200f8974/original.tif
+    sha256: a9db10952d244c7d7cbef7daf8b4b245a552f325ccc53c67fbe7f8fb200f8974
+    mime: image/tiff
+    bytes: 22639424
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a9/db/a9db10952d244c7d7cbef7daf8b4b245a552f325ccc53c67fbe7f8fb200f8974/preview-400.1439aa479f6e.jpg
+        sha256: 1439aa479f6e194e39abc4b79a720e6e59993bb4e6315c60a6c875415f9e4299
+        mime: image/jpeg
+        bytes: 88949
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

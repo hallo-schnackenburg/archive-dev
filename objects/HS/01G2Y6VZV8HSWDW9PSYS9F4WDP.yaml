@@ -1,0 +1,37 @@
+id: 01G2Y6VZV8HSWDW9PSYS9F4WDP
+type: image
+subtype: plan
+title: Katasterblatt Albers
+date: 1979-11-21
+location: Dömitz, Speicher
+origin:
+  name: Gerda Wegner
+  type: person
+  location: Wustrow
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Schmiede
+    type: building
+  - name: Feuerwehrübung 1979
+    type: event
+files:
+  - role: main
+    original_name: scan_554.tif
+    path: files/22/f4/22f420bee16be7d0ec9df769ec28e5d4479f6f365a246394fef91b5c184885e1/original.tif
+    sha256: 22f420bee16be7d0ec9df769ec28e5d4479f6f365a246394fef91b5c184885e1
+    mime: image/tiff
+    bytes: 14059709
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/22/f4/22f420bee16be7d0ec9df769ec28e5d4479f6f365a246394fef91b5c184885e1/preview-400.ee8cd71213dd.jpg
+        sha256: ee8cd71213dd1f2ecd88d1ea8dd393735a7c12d7f9fa8ac44d806d645d302b16
+        mime: image/jpeg
+        bytes: 22967
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,57 @@
+id: 01K518H35GBZ8KXQ5YVZ1B2BMM
+type: document
+subtype: letter
+title: Mitteilung aus Pretzier an Familie Meyer
+description: Mit Umschlag und Briefmarke.
+date: 1890-03-17
+location: Bömenzien, Badestelle
+origin:
+  name: Otto Prieß
+  type: person
+  location: Pretzier
+recipient: Lotte Krüger
+language: de
+subjects:
+  - name: Eisgang 1890
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_1b2bmm_001.tif
+    path: files/2e/06/2e06a584f248dbc7d2e1e537c4851a8fd51d1baba4db7c80fc9e00745198efde/original.tif
+    sha256: 2e06a584f248dbc7d2e1e537c4851a8fd51d1baba4db7c80fc9e00745198efde
+    mime: image/tiff
+    bytes: 3309294
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/06/2e06a584f248dbc7d2e1e537c4851a8fd51d1baba4db7c80fc9e00745198efde/preview-400.b3058c18149d.jpg
+        sha256: b3058c18149dcc44813e61210a7840c15fb861027d4261ebfb0f0dd42005bd1c
+        mime: image/jpeg
+        bytes: 36015
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_1b2bmm_002.tif
+    path: files/f4/47/f447dac1fccc544c36031fe067b35dd4e02d894d75d6ce876f5f614805257c4d/original.tif
+    sha256: f447dac1fccc544c36031fe067b35dd4e02d894d75d6ce876f5f614805257c4d
+    mime: image/tiff
+    bytes: 5247464
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f4/47/f447dac1fccc544c36031fe067b35dd4e02d894d75d6ce876f5f614805257c4d/preview-400.fdb8190bb024.jpg
+        sha256: fdb8190bb024ecebd3adb17ef9a37bb3f9d81c16e06d65acb3ab279153ed99e2
+        mime: image/jpeg
+        bytes: 27036
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

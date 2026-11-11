@@ -1,0 +1,42 @@
+id: 01JH2JG7H6PJQMS9KAAFWQAVCF
+type: image
+subtype: plan
+title: Bauplan Fähranleger 1808
+description: Mit handschriftlichen Ergänzungen.
+date: 1808-06-08
+location: Bömenzien, Kirchstraße
+origin:
+  name: Wilhelm Garms
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg/Kasten 22/105
+subjects:
+  - name: Weihnachtsmarkt 1808
+    type: event
+parents:
+  - 01K07SKN5ZQ3VDE1287C9C0F74
+files:
+  - role: main
+    original_name: scan_325.tif
+    path: files/54/f5/54f5877efee76a42765f62ca125b542c111aa32bb661c03502c9f00684ceed7e/original.tif
+    sha256: 54f5877efee76a42765f62ca125b542c111aa32bb661c03502c9f00684ceed7e
+    mime: image/tiff
+    bytes: 6108483
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/54/f5/54f5877efee76a42765f62ca125b542c111aa32bb661c03502c9f00684ceed7e/preview-400.a08c75ec3018.jpg
+        sha256: a08c75ec30186ad979cfb31412287f0009fcbafa32c8d640716a895cc4bc41db
+        mime: image/jpeg
+        bytes: 69283
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

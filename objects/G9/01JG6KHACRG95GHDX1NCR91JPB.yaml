@@ -1,0 +1,44 @@
+id: 01JG6KHACRG95GHDX1NCR91JPB
+type: image
+subtype: photo
+title: Emma Schulz vor dem Wassermühle
+date: 1968-01-22
+location: Holtorf, Sportplatz
+geocode:
+  lat: 53.059
+  lon: 11.5326
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos/Album 15/060
+subjects:
+  - name: Lanz
+    type: place
+  - name: Windmühle
+    type: building
+parents:
+  - 01K17ANV6BS1YN44GQNBJ2A6CF
+files:
+  - role: main
+    original_name: P2173.jpg
+    path: files/a1/5f/a15f0c6e8eb322f8ecbbec61bec23a7249f468985049509665b018e4bf74fa30/original.jpg
+    sha256: a15f0c6e8eb322f8ecbbec61bec23a7249f468985049509665b018e4bf74fa30
+    mime: image/jpeg
+    bytes: 21449412
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/a1/5f/a15f0c6e8eb322f8ecbbec61bec23a7249f468985049509665b018e4bf74fa30/preview-400.2adb485386f8.jpg
+        sha256: 2adb485386f835287337a6bed112ec17a71b18874467d56b9a7ea4a9b771c574
+        mime: image/jpeg
+        bytes: 78987
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

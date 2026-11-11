@@ -1,0 +1,48 @@
+id: 01GCJ3RC90R9J777Z91QZJ4GNP
+type: image
+subtype: photo
+title: Karl Lemke vor dem Hafen
+location: Brünkendorf, Bahnhofstraße
+geocode:
+  lat: 52.9547
+  lon: 11.5833
+  precision: town
+  source: osm
+origin:
+  name: Jürgen Brandt
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Familie Dreyer
+    type: person
+    location: Dömitz
+  reference: F 3/004
+subjects:
+  - name: Beerdigung 1892
+    type: event
+  - name: Schützenfest 1892
+    type: event
+  - name: Ilse Pape
+    type: person
+files:
+  - role: main
+    original_name: scan_625.tif
+    path: files/92/dc/92dc5b1b7d50ae417daad656751eea40facece883317c80d5d10b177f0e57135/original.tif
+    sha256: 92dc5b1b7d50ae417daad656751eea40facece883317c80d5d10b177f0e57135
+    mime: image/tiff
+    bytes: 8495278
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/92/dc/92dc5b1b7d50ae417daad656751eea40facece883317c80d5d10b177f0e57135/preview-400.aa297250f5d4.jpg
+        sha256: aa297250f5d4ac337f0ad8af693abbf26d41e4d351329d8eef058d9873df35a4
+        mime: image/jpeg
+        bytes: 89382
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

@@ -1,0 +1,44 @@
+id: 01KPNPNFCPQJ7SG3NRR9VP3DCS
+type: image
+subtype: photo
+title: Gerda Schwarz, Porträt
+description: Zu sehen sind Scheune und Backhaus.
+date: 1912-01-23
+location: Nienwalde, Kirchstraße
+origin:
+  name: Albert Dreyer
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok 6/187
+subjects:
+  - name: Elbdeich
+    type: building
+  - name: Berta Rohde
+    type: person
+parents:
+  - 01HNVK3TWSXAG1X7MJP1AQW02W
+files:
+  - role: main
+    original_name: P7868.jpg
+    path: files/25/02/2502ab68e27212103e1e7b49b022ec5e8c5c4c99f19c78f5a00cb5e801cc5634/original.jpg
+    sha256: 2502ab68e27212103e1e7b49b022ec5e8c5c4c99f19c78f5a00cb5e801cc5634
+    mime: image/jpeg
+    bytes: 18878216
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/25/02/2502ab68e27212103e1e7b49b022ec5e8c5c4c99f19c78f5a00cb5e801cc5634/preview-400.f4d0d3c5f495.jpg
+        sha256: f4d0d3c5f49542d2a2177273be3311036281e49dc6a2703035595002c7745057
+        mime: image/jpeg
+        bytes: 67722
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

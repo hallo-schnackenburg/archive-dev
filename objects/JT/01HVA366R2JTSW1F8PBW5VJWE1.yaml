@@ -1,0 +1,42 @@
+id: 01HVA366R2JTSW1F8PBW5VJWE1
+type: image
+subtype: plan
+title: Bauplan Elbdeich 1960
+date: 1960-09-15
+location: Schnackenburg, Sparkasse
+geocode:
+  lat: 53.0155
+  lon: 11.5666
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 9/103
+subjects:
+  - name: Restorf
+    type: place
+  - name: Richtfest 1960
+    type: event
+files:
+  - role: main
+    original_name: scan_494.tif
+    path: files/d1/5a/d15ad147ece4add054d1526b7b0e40e1f9db4dace9058990b8fff117b277d16a/original.tif
+    sha256: d15ad147ece4add054d1526b7b0e40e1f9db4dace9058990b8fff117b277d16a
+    mime: image/tiff
+    bytes: 25959690
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d1/5a/d15ad147ece4add054d1526b7b0e40e1f9db4dace9058990b8fff117b277d16a/preview-400.c836e46c9d36.jpg
+        sha256: c836e46c9d36e5317dd5449d4885c2e4aa99e74e2494d213fe52729b670fb6bc
+        mime: image/jpeg
+        bytes: 63577
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

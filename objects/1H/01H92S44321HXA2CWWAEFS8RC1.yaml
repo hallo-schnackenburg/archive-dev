@@ -1,0 +1,40 @@
+id: 01H92S44321HXA2CWWAEFS8RC1
+type: image
+subtype: photo
+title: Kirmes 1937
+date: 1937-10-27
+location: Zadrau, Am Elbdeich
+geocode:
+  lat: 53.0772
+  lon: 11.5934
+  precision: region
+  source: osm
+origin:
+  name: Marta Tiedemann
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Gemeindehaus
+    type: building
+files:
+  - role: main
+    original_name: DSC3567.jpg
+    path: files/47/66/4766490bf0c0ccff6551888e8d2f210ccf5d999b707f1e14e6336af21cadf24a/original.jpg
+    sha256: 4766490bf0c0ccff6551888e8d2f210ccf5d999b707f1e14e6336af21cadf24a
+    mime: image/jpeg
+    bytes: 4499116
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/47/66/4766490bf0c0ccff6551888e8d2f210ccf5d999b707f1e14e6336af21cadf24a/preview-400.caa4fff5a105.jpg
+        sha256: caa4fff5a10551d666fa0afa7c6f1e5e04839b94f299ab00a909b2d8edfb341b
+        mime: image/jpeg
+        bytes: 21106
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

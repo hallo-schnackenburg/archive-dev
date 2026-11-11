@@ -1,0 +1,35 @@
+id: 01FBGH5750C92N29M8Q0EJ0V00
+type: image
+subtype: plan
+title: Katasterblatt Garms, Salzwedel
+description: Tusche auf Transparentpapier.
+date: 1824~
+location: Wootz, Am Markt
+origin:
+  name: Dieter Rieke
+  type: person
+  location: Havelberg
+owner:
+  name: Gerda Ihde
+  type: person
+  note: Dauerleihgabe
+files:
+  - role: main
+    original_name: scan_184.tif
+    path: files/49/16/4916377f567217cb282efdf9317072c1b1910a85bd8d2d230c4356122a0a8332/original.tif
+    sha256: 4916377f567217cb282efdf9317072c1b1910a85bd8d2d230c4356122a0a8332
+    mime: image/tiff
+    bytes: 22866768
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/49/16/4916377f567217cb282efdf9317072c1b1910a85bd8d2d230c4356122a0a8332/preview-400.cd1af060f431.jpg
+        sha256: cd1af060f431bb14e90a8edac62ca99a592f132eab66c3c573f5fa24531ce917
+        mime: image/jpeg
+        bytes: 45251
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

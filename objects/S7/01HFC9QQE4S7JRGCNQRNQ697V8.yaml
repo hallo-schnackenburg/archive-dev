@@ -1,0 +1,32 @@
+id: 01HFC9QQE4S7JRGCNQRNQ697V8
+type: image
+subtype: print
+title: Postkarte Wootz, Torhaus
+date: 1832-04-26
+location: Restorf, Kaufmannshaus
+origin:
+  name: Dieter Voss
+  type: person
+  location: Rüterberg
+parents:
+  - 01HP6EAK3TB1B30E0D5T4P2J2A
+files:
+  - role: main
+    original_name: scan_101.tif
+    path: files/d9/b4/d9b45e01be59fb6d28cd769e4460e591f12f5ffec7122b315658a8b598ef0317/original.tif
+    sha256: d9b45e01be59fb6d28cd769e4460e591f12f5ffec7122b315658a8b598ef0317
+    mime: image/tiff
+    bytes: 5555807
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d9/b4/d9b45e01be59fb6d28cd769e4460e591f12f5ffec7122b315658a8b598ef0317/preview-400.113b5ef5acfa.jpg
+        sha256: 113b5ef5acfa82cff6d9c54e819cba5500c828d636bda1e5ad18eff61539f800
+        mime: image/jpeg
+        bytes: 73634
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

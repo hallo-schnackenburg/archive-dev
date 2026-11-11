@@ -1,0 +1,42 @@
+id: 01FDG2CEMQZDN07PSY8XTV548P
+type: image
+subtype: print
+title: Postkarte Laase, Tischlerei Bruns
+description: Postkarte, gelaufen 1912.
+date: 1748-01
+location: Kapern, Zollamt
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Kellerarchiv
+subjects:
+  - name: Apotheke
+    type: building
+  - name: Heuberge
+    type: building
+  - name: Ziegelei
+    type: building
+parents:
+  - 01K2NKV9ZRJGR8MNHBQ4VNYQV6
+files:
+  - role: main
+    original_name: scan_025.tif
+    path: files/4c/0b/4c0bb5f2310baa481363b5f130358fc50a7f24e24fc7278bc72a5092d61ac950/original.tif
+    sha256: 4c0bb5f2310baa481363b5f130358fc50a7f24e24fc7278bc72a5092d61ac950
+    mime: image/tiff
+    bytes: 11359661
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4c/0b/4c0bb5f2310baa481363b5f130358fc50a7f24e24fc7278bc72a5092d61ac950/preview-400.b9d00093bfc6.jpg
+        sha256: b9d00093bfc6ec2f8c74c6ada14322193bba246fcfe36b042c9b6e1439bf8f62
+        mime: image/jpeg
+        bytes: 22509
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

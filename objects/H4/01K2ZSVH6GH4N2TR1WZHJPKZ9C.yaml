@@ -1,0 +1,35 @@
+id: 01K2ZSVH6GH4N2TR1WZHJPKZ9C
+type: image
+subtype: photo
+title: Emma Dreyer vor dem Gasthof Meyer
+origin:
+  name: Walter Krüger
+  type: person
+  location: Seedorf
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Kirche St. Johannis
+    type: building
+parents:
+  - 01K63FK3HHMM0W1GA0H3WZR13N
+files:
+  - role: main
+    original_name: DSC9421.jpg
+    path: files/7e/7b/7e7b3dc3d738e4b1b9c6bb94f24cbb111e1dcb8211f9288d45e3b9c9ed40a7e4/original.jpg
+    sha256: 7e7b3dc3d738e4b1b9c6bb94f24cbb111e1dcb8211f9288d45e3b9c9ed40a7e4
+    mime: image/jpeg
+    bytes: 27881921
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7e/7b/7e7b3dc3d738e4b1b9c6bb94f24cbb111e1dcb8211f9288d45e3b9c9ed40a7e4/preview-400.5f287788c6b0.jpg
+        sha256: 5f287788c6b0b5a5ce50755cc12cd4d6519c8e23727f1492163e670ccd6cb75d
+        mime: image/jpeg
+        bytes: 68858
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

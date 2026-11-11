@@ -1,0 +1,38 @@
+id: 01JVV827359SDRBK6FB5DNYQZR
+type: image
+subtype: print
+title: Gruß aus Wittenberge, Nienwalde
+description: Postkarte, gelaufen 1940.
+date: 1924-11
+location: Bömenzien, Lange Straße
+origin:
+  name: Ernst Lemke
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Gustav Plate
+    type: person
+  - name: Karl Lemke
+    type: person
+files:
+  - role: main
+    original_name: scan_107.tif
+    path: files/1d/b9/1db985d3a686b306e05ca1cf1f61da9125b8e6a751dcd7be19c42f45394a5081/original.tif
+    sha256: 1db985d3a686b306e05ca1cf1f61da9125b8e6a751dcd7be19c42f45394a5081
+    mime: image/tiff
+    bytes: 9552805
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/1d/b9/1db985d3a686b306e05ca1cf1f61da9125b8e6a751dcd7be19c42f45394a5081/preview-400.d00b3c8b48b4.jpg
+        sha256: d00b3c8b48b431db923c482de25bb8dcb1c27b8a1de053ec24ab10e3f9f725d3
+        mime: image/jpeg
+        bytes: 20360
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

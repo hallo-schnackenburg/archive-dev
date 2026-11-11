@@ -1,0 +1,35 @@
+id: 01FTFHYNXR2RFSAR44Z3BDZJEW
+type: image
+subtype: plan
+title: Grundriss Poststelle
+date: 1892-11
+location: Arendsee, Dorfstraße
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 15/042
+subjects:
+  - name: Eisgang 1892
+    type: event
+files:
+  - role: main
+    original_name: scan_273.tif
+    path: files/21/bd/21bdf2c5e8934d3203b27fc26a0f281f6a7bd75c92b73ce7c01ad63424e011d6/original.tif
+    sha256: 21bdf2c5e8934d3203b27fc26a0f281f6a7bd75c92b73ce7c01ad63424e011d6
+    mime: image/tiff
+    bytes: 17038215
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/21/bd/21bdf2c5e8934d3203b27fc26a0f281f6a7bd75c92b73ce7c01ad63424e011d6/preview-400.6c62db0171d0.jpg
+        sha256: 6c62db0171d0bedf4b9bcd2daee4cc11751b5c1367e35dd3a9b12e72f8aac22d
+        mime: image/jpeg
+        bytes: 84556
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

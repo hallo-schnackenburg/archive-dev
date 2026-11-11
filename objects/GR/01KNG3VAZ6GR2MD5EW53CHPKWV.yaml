@@ -1,0 +1,34 @@
+id: 01KNG3VAZ6GR2MD5EW53CHPKWV
+type: document
+subtype: protocol
+title: Protokoll des Stadtrat vom 193X
+description: "Beschlossen wurde unter anderem: Wohnungsnot."
+date: 193X
+origin:
+  name: Finanzausschuss Brünkendorf
+  type: business
+  location: Restorf
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 1/096
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Wilhelm Lindemann
+    type: person
+parents:
+  - 01HQPAG3WR0RA4T7KFW4A027V9
+storage: external
+external:
+  - type: archive
+    site: Landeskirchliches Archiv
+    uri: https://landeskirchliches-archiv.example.org/objekt/559429
+    reference: Hann. 71 Nr. 534
+    retrieved: 2026-11-19
+  - type: archive
+    site: Stadtarchiv Salzwedel
+    uri: https://stadtarchiv-salzwedel.example.org/objekt/717937

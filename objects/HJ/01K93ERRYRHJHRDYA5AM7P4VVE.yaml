@@ -1,0 +1,33 @@
+id: 01K93ERRYRHJHRDYA5AM7P4VVE
+type: image
+subtype: print
+title: Postkarte Lanz, Zollamt
+date: 1860-02
+location: Dömitz, Elbstraße
+geocode:
+  lat: 53.0566
+  lon: 11.4963
+  precision: town
+  source: osm
+parents:
+  - 01FWDEQ7341YMQ5FKJVM0QZ484
+files:
+  - role: main
+    original_name: scan_391.tif
+    path: files/3f/79/3f798bd05869a9f8fd68c060da1b401f10b9c86ac2d3a90cf98dcd418aa6cb25/original.tif
+    sha256: 3f798bd05869a9f8fd68c060da1b401f10b9c86ac2d3a90cf98dcd418aa6cb25
+    mime: image/tiff
+    bytes: 27483032
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3f/79/3f798bd05869a9f8fd68c060da1b401f10b9c86ac2d3a90cf98dcd418aa6cb25/preview-400.4f3dd5676392.jpg
+        sha256: 4f3dd5676392de0526bb0f2df9c7fed0fd95cb50b1fd4178e050d18222691fd6
+        mime: image/jpeg
+        bytes: 21876
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

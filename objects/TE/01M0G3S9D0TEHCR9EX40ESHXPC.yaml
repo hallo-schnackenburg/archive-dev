@@ -1,0 +1,50 @@
+id: 01M0G3S9D0TEHCR9EX40ESHXPC
+type: document
+subtype: note
+title: Rechnung Lemke, Schmiede
+description: Zettel, Bleistift.
+date: 1937-10
+location: Gollensdorf, Försterei
+geocode:
+  lat: 52.9815
+  lon: 11.52
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Hennings
+  type: person
+  location: Salzwedel
+language: la
+original:
+  holder:
+    name: Familie Bohlmann
+    type: person
+    location: Brünkendorf
+subjects:
+  - name: Kaufmannshaus
+    type: building
+  - name: Einweihung 1937
+    type: event
+parents:
+  - 01J8EFPX4R9MB05RW08DV43E95
+files:
+  - role: page
+    num: 1
+    original_name: note_eshxpc_001.tif
+    path: files/3d/b5/3db58264c286268eda76bff56a62a8f077e2e2930b20f16294717fd60cfc88fa/original.tif
+    sha256: 3db58264c286268eda76bff56a62a8f077e2e2930b20f16294717fd60cfc88fa
+    mime: image/tiff
+    bytes: 27716831
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3d/b5/3db58264c286268eda76bff56a62a8f077e2e2930b20f16294717fd60cfc88fa/preview-400.a105b5937e02.jpg
+        sha256: a105b5937e0232e17581fcc7f03e9c99f47c5da67125b5fba261946a3eaa17f3
+        mime: image/jpeg
+        bytes: 39176
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

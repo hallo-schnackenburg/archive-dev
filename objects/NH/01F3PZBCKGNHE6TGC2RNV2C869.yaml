@@ -1,0 +1,44 @@
+id: 01F3PZBCKGNHE6TGC2RNV2C869
+type: image
+subtype: drawing
+title: Skizze Laase, Fährstraße
+location: Wustrow, Kriegerdenkmal
+origin:
+  name: Anni Cohrs
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg 11/018
+  note: Bücherregal links
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v61908
+subjects:
+  - name: Kindergartenfest 1939
+    type: event
+  - name: Deicharbeiten 1939
+    type: event
+parents:
+  - 01F084MHNWGJ7D7S7TBCXZMMB2
+files:
+  - role: main
+    original_name: scan_496.tif
+    path: files/56/b0/56b049d258a51a481032251f4f44ba8d225f52ab889abc16399512bd146f2f37/original.tif
+    sha256: 56b049d258a51a481032251f4f44ba8d225f52ab889abc16399512bd146f2f37
+    mime: image/tiff
+    bytes: 6618901
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/56/b0/56b049d258a51a481032251f4f44ba8d225f52ab889abc16399512bd146f2f37/preview-400.a1bf1a0d6e8f.jpg
+        sha256: a1bf1a0d6e8f1dc5cf23178a0a27eba40f69720c0fb6e92383e0f39aff8a02aa
+        mime: image/jpeg
+        bytes: 43898
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

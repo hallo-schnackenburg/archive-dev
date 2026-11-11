@@ -1,0 +1,60 @@
+id: 01HBNV27NBF0BY31S232R75PCP
+type: document
+subtype: note
+title: Rechnung Plate, Hafen
+date: 196X
+origin:
+  name: Emma Brandt
+  type: person
+  location: Cumlosen
+language: de
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Gemeindehaus
+    type: building
+  - name: Hitzacker
+    type: place
+parents:
+  - 01HTZ3ZVCQNEKM8ZRY48BPENG4
+files:
+  - role: page
+    num: 1
+    original_name: note_r75pcp_001.tif
+    path: files/13/94/1394367b6819c5ae4c9e9911412da8113b3871c677f62f8d36c8cd9cc89ca942/original.tif
+    sha256: 1394367b6819c5ae4c9e9911412da8113b3871c677f62f8d36c8cd9cc89ca942
+    mime: image/tiff
+    bytes: 15187795
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/13/94/1394367b6819c5ae4c9e9911412da8113b3871c677f62f8d36c8cd9cc89ca942/preview-400.77672e79a07c.jpg
+        sha256: 77672e79a07c2ca946700d76840f7950a336f14806033e22b4565e1f2cf60651
+        mime: image/jpeg
+        bytes: 23613
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_r75pcp_002.tif
+    path: files/f0/be/f0be3cfe7c53feadec639099f47af7edad3848620ea9da25f0b7602bafdf6bdb/original.tif
+    sha256: f0be3cfe7c53feadec639099f47af7edad3848620ea9da25f0b7602bafdf6bdb
+    mime: image/tiff
+    bytes: 6922099
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/be/f0be3cfe7c53feadec639099f47af7edad3848620ea9da25f0b7602bafdf6bdb/preview-400.a941d3f85b45.jpg
+        sha256: a941d3f85b452928bddb423eeaf6d612d6a5a86dec1f4f6fe51ac7dc54703320
+        mime: image/jpeg
+        bytes: 77569
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

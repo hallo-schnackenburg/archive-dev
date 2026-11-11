@@ -1,0 +1,39 @@
+id: 01GTHAAENFJ3260Y20EEVF9MRZ
+type: image
+subtype: drawing
+title: Skizze Dömitz, Dorfstraße
+location: Gartow, Burgstraße
+geocode:
+  lat: 52.9681
+  lon: 11.4838
+  precision: town
+  source: osm
+origin:
+  name: Hermann Meyer
+  type: person
+  location: Seedorf
+subjects:
+  - name: Osterfeuer 1974
+    type: event
+  - name: Heinrich Lüders
+    type: person
+files:
+  - role: main
+    original_name: scan_640.tif
+    path: files/a0/d6/a0d651325adf61f79fb9b8f83e006f9121f703a6b6265f3454b42aafcbf405a0/original.tif
+    sha256: a0d651325adf61f79fb9b8f83e006f9121f703a6b6265f3454b42aafcbf405a0
+    mime: image/tiff
+    bytes: 20303118
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a0/d6/a0d651325adf61f79fb9b8f83e006f9121f703a6b6265f3454b42aafcbf405a0/preview-400.3194a316e7fa.jpg
+        sha256: 3194a316e7fab8b261bef1244972d959d7f0c14369192c04b3f355ab0a3c1e7b
+        mime: image/jpeg
+        bytes: 68870
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

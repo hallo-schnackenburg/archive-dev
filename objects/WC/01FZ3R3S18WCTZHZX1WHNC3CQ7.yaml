@@ -1,0 +1,41 @@
+id: 01FZ3R3S18WCTZHZX1WHNC3CQ7
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Straßenfest, Brünkendorf"
+description: Federzeichnung, laviert.
+date: "1973"
+location: Gollensdorf, Dorfschule
+geocode:
+  lat: 53.0776
+  lon: 11.6952
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Wegner
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Sturmschaden 1973
+    type: event
+  - name: Brunnen am Markt
+    type: building
+files:
+  - role: main
+    original_name: scan_450.tif
+    path: files/06/a3/06a3a7042e20776016364db095c987e1f3d5b6e0c603fb388b8335503454e885/original.tif
+    sha256: 06a3a7042e20776016364db095c987e1f3d5b6e0c603fb388b8335503454e885
+    mime: image/tiff
+    bytes: 8469878
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/a3/06a3a7042e20776016364db095c987e1f3d5b6e0c603fb388b8335503454e885/preview-400.427820b5b138.jpg
+        sha256: 427820b5b1383a15748469705379955bf0504d5e2e9b2742b412839706f9a45a
+        mime: image/jpeg
+        bytes: 64336
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

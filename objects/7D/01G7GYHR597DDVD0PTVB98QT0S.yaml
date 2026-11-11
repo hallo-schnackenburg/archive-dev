@@ -1,0 +1,37 @@
+id: 01G7GYHR597DDVD0PTVB98QT0S
+type: image
+subtype: print
+title: "Kupferstich: Zadrau von der Elbseite, Wittenberge"
+location: Seedorf, Am Markt
+origin:
+  name: Klaus Behrens
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro/Kasten 5/092
+parents:
+  - 01FJMCPRQ0EG050EZ87JB0MN40
+files:
+  - role: main
+    original_name: scan_458.tif
+    path: files/75/ab/75ab63f2bb3aabb6f8ce53bbd43321b735c95415dad35a961392152a12407ac4/original.tif
+    sha256: 75ab63f2bb3aabb6f8ce53bbd43321b735c95415dad35a961392152a12407ac4
+    mime: image/tiff
+    bytes: 3806362
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/75/ab/75ab63f2bb3aabb6f8ce53bbd43321b735c95415dad35a961392152a12407ac4/preview-400.5e6860715de3.jpg
+        sha256: 5e6860715de3513617dfd5de44c40c435c77a51550d111ca69e71f997a881d9d
+        mime: image/jpeg
+        bytes: 62929
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

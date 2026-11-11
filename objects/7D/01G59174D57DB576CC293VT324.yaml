@@ -1,0 +1,30 @@
+id: 01G59174D57DB576CC293VT324
+type: image
+subtype: plan
+title: Bauplan Tischlerei Bruns 1908
+description: Mit handschriftlichen Ergänzungen.
+date: 1908-09-27
+location: Seedorf, Pumpenhaus
+subjects:
+  - name: Dorfteich
+    type: building
+files:
+  - role: main
+    original_name: scan_656.tif
+    path: files/ca/f1/caf14a601e46000e7277f137962db5a91752e3795fec3aa0cc38e6a625196db6/original.tif
+    sha256: caf14a601e46000e7277f137962db5a91752e3795fec3aa0cc38e6a625196db6
+    mime: image/tiff
+    bytes: 22190460
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ca/f1/caf14a601e46000e7277f137962db5a91752e3795fec3aa0cc38e6a625196db6/preview-400.f77ca30f936d.jpg
+        sha256: f77ca30f936d4bca70936b2130182ab36f19e64d94d40c71b9ab8ddd9c1bad7c
+        mime: image/jpeg
+        bytes: 35587
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

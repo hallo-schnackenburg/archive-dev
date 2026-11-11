@@ -1,0 +1,71 @@
+id: 01FNKMN5B8XBP5GWK4QJVMC2DA
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Kriegerverein 1994
+description: Anwesend waren 14 Personen.
+date: 1994?
+location: Cumlosen, Burgstraße
+geocode:
+  lat: 52.9821
+  lon: 11.6794
+  precision: street
+  source: osm
+origin:
+  name: Kirchenvorstand Nienwalde
+  type: business
+  location: Cumlosen
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br 32/114
+subjects:
+  - name: Konfirmation 1994
+    type: event
+  - name: Erika Timm
+    type: person
+  - name: Karl Brandt
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: protocol_vmc2da_001.tif
+    path: files/50/cc/50cc2ad9a9d191def2f8645e48c0bd87fb50efad1b87a6fd6b780141ceaf9ae8/original.tif
+    sha256: 50cc2ad9a9d191def2f8645e48c0bd87fb50efad1b87a6fd6b780141ceaf9ae8
+    mime: image/tiff
+    bytes: 21166193
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/cc/50cc2ad9a9d191def2f8645e48c0bd87fb50efad1b87a6fd6b780141ceaf9ae8/preview-400.134448b7948f.jpg
+        sha256: 134448b7948f9d3d134726f1a5291f7ca293ad1a3d84bf143ea97904f9be63c8
+        mime: image/jpeg
+        bytes: 82097
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_vmc2da_002.tif
+    path: files/62/70/6270d2f98046b5e0a5846764564960fb7e56301ea27c281d30e7a61e4e62923f/original.tif
+    sha256: 6270d2f98046b5e0a5846764564960fb7e56301ea27c281d30e7a61e4e62923f
+    mime: image/tiff
+    bytes: 4011723
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/62/70/6270d2f98046b5e0a5846764564960fb7e56301ea27c281d30e7a61e4e62923f/preview-400.8f0813b71f5c.jpg
+        sha256: 8f0813b71f5cc2ed8d0284522b75570f8c550e692d6457790baae8a97ecf91f6
+        mime: image/jpeg
+        bytes: 20237
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

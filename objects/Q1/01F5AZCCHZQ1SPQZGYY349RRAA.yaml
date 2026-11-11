@@ -1,0 +1,39 @@
+id: 01F5AZCCHZQ1SPQZGYY349RRAA
+type: image
+subtype: plan
+title: Katasterblatt Bruns, Wittenberge
+description: Maßstab 1:500.
+date: 1897?
+origin:
+  name: Lotte Schwarz
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 24/163
+  note: Regal 1
+parents:
+  - 01FQ7XJFBHG9XHBP2GHBKAZWD0
+files:
+  - role: main
+    original_name: scan_159.tif
+    path: files/03/b2/03b200950f9faa08686b8d608c565cd67013d8244f3295ed60e746f8a7acd706/original.tif
+    sha256: 03b200950f9faa08686b8d608c565cd67013d8244f3295ed60e746f8a7acd706
+    mime: image/tiff
+    bytes: 1323701
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/03/b2/03b200950f9faa08686b8d608c565cd67013d8244f3295ed60e746f8a7acd706/preview-400.7219b34f4dae.jpg
+        sha256: 7219b34f4dae1b04f53955b49d46059ace9b082f81350b6aa8d7c66d4d6efb8f
+        mime: image/jpeg
+        bytes: 64033
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

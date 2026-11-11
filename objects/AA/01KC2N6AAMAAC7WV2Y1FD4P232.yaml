@@ -1,0 +1,42 @@
+id: 01KC2N6AAMAAC7WV2Y1FD4P232
+type: image
+subtype: plan
+title: Grundriss Gemeindehaus
+date: "1879"
+location: Wustrow, Am Markt
+geocode:
+  lat: 52.9391
+  lon: 11.6616
+  precision: region
+  source: osm
+origin:
+  name: Ilse Lemke
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Marta Wegner
+    type: person
+  - name: Windmühle
+    type: building
+  - name: Frieda Jeß
+    type: person
+files:
+  - role: main
+    original_name: scan_936.tif
+    path: files/c1/1d/c11d612e2fa7bbadfb3d57484e0cc9c364c046960c36978fb33b158eb540cbd8/original.tif
+    sha256: c11d612e2fa7bbadfb3d57484e0cc9c364c046960c36978fb33b158eb540cbd8
+    mime: image/tiff
+    bytes: 6128604
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c1/1d/c11d612e2fa7bbadfb3d57484e0cc9c364c046960c36978fb33b158eb540cbd8/preview-400.ef3fcfaea0e5.jpg
+        sha256: ef3fcfaea0e5ecb97a094e0206c3a48f4b9f0c760d26dac03bf96b8a3c1118ac
+        mime: image/jpeg
+        bytes: 74303
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

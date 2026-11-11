@@ -1,0 +1,30 @@
+id: 01GNSB04PG9EH8M4JMNQ8WDN3M
+type: image
+subtype: plan
+title: Katasterblatt Hennings
+date: 1890-11
+location: Gorleben, Hinter den Höfen
+origin:
+  name: Dieter Brandt
+  type: person
+  location: Gorleben
+files:
+  - role: main
+    original_name: scan_617.tif
+    path: files/5e/b0/5eb07d25b4d461b0251e7f2f2ec9c9212ff0856a65ae57028930ee7e0a0f3536/original.tif
+    sha256: 5eb07d25b4d461b0251e7f2f2ec9c9212ff0856a65ae57028930ee7e0a0f3536
+    mime: image/tiff
+    bytes: 8859280
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5e/b0/5eb07d25b4d461b0251e7f2f2ec9c9212ff0856a65ae57028930ee7e0a0f3536/preview-400.5e151ccd04be.jpg
+        sha256: 5e151ccd04beafffb3eda755e921540df5ead219dd3802c920ad4d62c5cdc419
+        mime: image/jpeg
+        bytes: 40957
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

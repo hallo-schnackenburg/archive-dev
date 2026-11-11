@@ -1,0 +1,68 @@
+id: 01FXWFHK3AY5BB7W9Z3W3652R2
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Heimatverein 1889
+description: Handschriftlich in Sütterlin.
+date: "1889"
+origin:
+  name: Schulvorstand Hitzacker
+  type: business
+  location: Cumlosen
+language: de
+original:
+  holder:
+    name: Familie Wöhlk
+    type: person
+    location: Wootz
+  reference: Br 39/174
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v72929
+subjects:
+  - name: Gerda Garms
+    type: person
+  - name: Jürgen Hennings
+    type: person
+  - name: Bäckerei Lüders
+    type: building
+parents:
+  - 01GWFE0FE3S612EGDSN47NZK4B
+files:
+  - role: page
+    num: 1
+    original_name: protocol_3652r2_001.tif
+    path: files/11/7f/117f9d043e465207d815c78be0ebf3490cb60696b7b9976ffc78aa64d79d23a8/original.tif
+    sha256: 117f9d043e465207d815c78be0ebf3490cb60696b7b9976ffc78aa64d79d23a8
+    mime: image/tiff
+    bytes: 7892906
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/7f/117f9d043e465207d815c78be0ebf3490cb60696b7b9976ffc78aa64d79d23a8/preview-400.3ff9d0c41d9a.jpg
+        sha256: 3ff9d0c41d9ad47f5eeabceb492891dce1735067c74e4be1778e1b8e9fe9f412
+        mime: image/jpeg
+        bytes: 71759
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_3652r2_002.tif
+    path: files/dc/2d/dc2d4b19fbcd85e29c19cab0e8dce2d7cfb5cabca26cc5b105cd0fa97ecc7126/original.tif
+    sha256: dc2d4b19fbcd85e29c19cab0e8dce2d7cfb5cabca26cc5b105cd0fa97ecc7126
+    mime: image/tiff
+    bytes: 7978866
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/2d/dc2d4b19fbcd85e29c19cab0e8dce2d7cfb5cabca26cc5b105cd0fa97ecc7126/preview-400.34eb9751f65d.jpg
+        sha256: 34eb9751f65db8071360fa32758795d427771d3ba00208605ad4577fbbe366ab
+        mime: image/jpeg
+        bytes: 31841
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

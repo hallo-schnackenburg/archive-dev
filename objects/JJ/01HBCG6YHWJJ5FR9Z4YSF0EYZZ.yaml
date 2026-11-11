@@ -1,0 +1,43 @@
+id: 01HBCG6YHWJJ5FR9Z4YSF0EYZZ
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Schlachtfest, Zadrau"
+description: Mit Anmerkungen am Rand.
+date: 1907-09-12
+location: Restorf, Poststelle
+origin:
+  name: Otto Lemke
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Familie Pape
+    type: person
+    location: Arendsee
+  reference: F 19/193
+  note: Regal 1
+subjects:
+  - name: Straßenfest 1907
+    type: event
+  - name: Wilhelm Wegner
+    type: person
+files:
+  - role: main
+    original_name: scan_800.tif
+    path: files/5e/73/5e7314fc74ed149724b4451813eb15f7ca84945900989857d75c6be911012cb8/original.tif
+    sha256: 5e7314fc74ed149724b4451813eb15f7ca84945900989857d75c6be911012cb8
+    mime: image/tiff
+    bytes: 15479112
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5e/73/5e7314fc74ed149724b4451813eb15f7ca84945900989857d75c6be911012cb8/preview-400.07c22fd09d77.jpg
+        sha256: 07c22fd09d771421ddbd465691f96751f33a6468f0d37ae4684164e22523bcad
+        mime: image/jpeg
+        bytes: 63425
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

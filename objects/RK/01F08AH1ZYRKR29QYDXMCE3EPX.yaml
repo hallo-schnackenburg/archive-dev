@@ -1,0 +1,40 @@
+id: 01F08AH1ZYRKR29QYDXMCE3EPX
+type: image
+subtype: photo
+title: Feuerwehrhaus nach dem Glockenweihe
+description: Farbfoto, leicht verblasst.
+location: Lüchow, Pumpenhaus
+geocode:
+  lat: 53.0745
+  lon: 11.5319
+  precision: region
+  source: osm
+origin:
+  name: Wilhelm Hennings
+  type: person
+  location: Havelberg
+subjects:
+  - name: Mühle
+    type: building
+  - name: Sturmschaden 1973
+    type: event
+files:
+  - role: main
+    original_name: DSC9245.jpg
+    path: files/ea/28/ea287764faa55e7dace8e722d6bddcf9e5c6a0ba570be6aa5ac6ee5df827aa3a/original.jpg
+    sha256: ea287764faa55e7dace8e722d6bddcf9e5c6a0ba570be6aa5ac6ee5df827aa3a
+    mime: image/jpeg
+    bytes: 11919815
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/ea/28/ea287764faa55e7dace8e722d6bddcf9e5c6a0ba570be6aa5ac6ee5df827aa3a/preview-400.4b3e0e2164ca.jpg
+        sha256: 4b3e0e2164ca1ac8253ea0100e42d0d74e22fcfde5224ca00ffb4c062c02dcf0
+        mime: image/jpeg
+        bytes: 43851
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

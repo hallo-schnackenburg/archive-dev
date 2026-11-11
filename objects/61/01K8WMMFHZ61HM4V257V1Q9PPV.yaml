@@ -1,0 +1,45 @@
+id: 01K8WMMFHZ61HM4V257V1Q9PPV
+type: image
+subtype: photo
+title: Emma Schulz vor dem Gemeindehaus
+description: Aufnahme von Karl Albers.
+date: 1975-07
+location: Bömenzien, Hafenstraße
+origin:
+  name: Gerda Voss
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Restorf
+subjects:
+  - name: Grenzöffnung 1975
+    type: event
+  - name: Gemeindehaus
+    type: building
+  - name: Elbdeich
+    type: building
+parents:
+  - 01F0XSSMANGM9PNX5YW1P1YTG6
+files:
+  - role: main
+    original_name: IMG_0576.jpg
+    path: files/d5/8b/d58bb934819d2d2595c962816703bb0ddee8d215430abb5bdf32a1f939fc1d55/original.jpg
+    sha256: d58bb934819d2d2595c962816703bb0ddee8d215430abb5bdf32a1f939fc1d55
+    mime: image/jpeg
+    bytes: 25140365
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/d5/8b/d58bb934819d2d2595c962816703bb0ddee8d215430abb5bdf32a1f939fc1d55/preview-400.ab743878d81c.jpg
+        sha256: ab743878d81ce515ca6b00ca5e075242f052c3cac89a868f6689ac49f7e46025
+        mime: image/jpeg
+        bytes: 51400
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

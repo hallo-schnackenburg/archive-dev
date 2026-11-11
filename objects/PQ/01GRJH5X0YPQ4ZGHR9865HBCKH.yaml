@@ -1,0 +1,41 @@
+id: 01GRJH5X0YPQ4ZGHR9865HBCKH
+type: image
+subtype: print
+title: Postkarte Gartow, Backhaus
+date: 189X
+location: Restorf, Elbstraße
+origin:
+  name: Gerda Cohrs
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Familie Jeß
+    type: person
+    location: Pretzier
+  reference: F/Kasten 15/097
+subjects:
+  - name: Friedrich Cohrs
+    type: person
+  - name: Bömenzien
+    type: place
+files:
+  - role: main
+    original_name: scan_275.tif
+    path: files/e2/07/e207abd1342e535eb1b347583c3bd19b03e684f3126f66c376595ff90ee3fb92/original.tif
+    sha256: e207abd1342e535eb1b347583c3bd19b03e684f3126f66c376595ff90ee3fb92
+    mime: image/tiff
+    bytes: 7335323
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e2/07/e207abd1342e535eb1b347583c3bd19b03e684f3126f66c376595ff90ee3fb92/preview-400.efca637ace7e.jpg
+        sha256: efca637ace7e2b385e519b49b3efc79424f9232e4b194aa2d4a3db2e32146bc3
+        mime: image/jpeg
+        bytes: 85696
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01M1K8Q58N6ZZVDMB0VFWNB4QG
+type: image
+subtype: print
+title: Postkarte Zadrau, Gärtnerei
+description: Kupferstich, koloriert.
+date: 1897-11-02
+origin:
+  name: Emma Fricke
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  note: Mappe 12
+subjects:
+  - name: Laase
+    type: place
+  - name: Otto Voss
+    type: person
+  - name: Ilse Wegner
+    type: person
+files:
+  - role: main
+    original_name: scan_432.tif
+    path: files/3a/14/3a1467345e26a3d95f8764fb41e8b9fc8e0fac93d5bd0304ce54e0fb32c6086f/original.tif
+    sha256: 3a1467345e26a3d95f8764fb41e8b9fc8e0fac93d5bd0304ce54e0fb32c6086f
+    mime: image/tiff
+    bytes: 11991415
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3a/14/3a1467345e26a3d95f8764fb41e8b9fc8e0fac93d5bd0304ce54e0fb32c6086f/preview-400.b55c162a7591.jpg
+        sha256: b55c162a75912768527f2cb1f96e5f1c5848aa00a2d4b646bb53dfb8327bca26
+        mime: image/jpeg
+        bytes: 81082
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

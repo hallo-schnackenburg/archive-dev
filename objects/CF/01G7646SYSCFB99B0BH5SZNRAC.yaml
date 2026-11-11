@@ -1,0 +1,45 @@
+id: 01G7646SYSCFB99B0BH5SZNRAC
+type: image
+subtype: photo
+title: Dorfkrug in Laase
+date: 1927?
+location: Zadrau, Burgstraße
+geocode:
+  lat: 53.0685
+  lon: 11.666
+  precision: region
+  source: osm
+origin:
+  name: Gustav Ahrens
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Planschrank, Fach 3
+owner:
+  name: Wilhelm Dreyer
+  type: person
+  note: Nachlass
+files:
+  - role: main
+    original_name: scan_674.tif
+    path: files/81/81/8181d22457bfea32c6fe8d796f59ef3307a91f909acb1372649de1bcb6afc915/original.tif
+    sha256: 8181d22457bfea32c6fe8d796f59ef3307a91f909acb1372649de1bcb6afc915
+    mime: image/tiff
+    bytes: 6971018
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/81/81/8181d22457bfea32c6fe8d796f59ef3307a91f909acb1372649de1bcb6afc915/preview-400.cd298b442495.jpg
+        sha256: cd298b442495c9a47e9cec3d798dfa8b8be3b017730d4650bb2c69bd483834ef
+        mime: image/jpeg
+        bytes: 48475
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

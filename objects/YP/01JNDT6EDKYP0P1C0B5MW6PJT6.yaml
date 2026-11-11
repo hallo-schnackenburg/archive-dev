@@ -1,0 +1,35 @@
+id: 01JNDT6EDKYP0P1C0B5MW6PJT6
+type: image
+subtype: photo
+title: Hans Rohde, Porträt
+date: 1895-07
+location: Wittenberge, Dorfladen
+origin:
+  name: Gerda Hennings
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Wustrow
+    type: place
+parents:
+  - 01GCVDVYZT1NS1DF3M44F3CN1W
+files:
+  - role: main
+    original_name: P0541.jpg
+    path: files/13/29/132917652f1be9749a3870d8aa87c57aa9480761e991266735de9267c0da9182/original.jpg
+    sha256: 132917652f1be9749a3870d8aa87c57aa9480761e991266735de9267c0da9182
+    mime: image/jpeg
+    bytes: 2710138
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/13/29/132917652f1be9749a3870d8aa87c57aa9480761e991266735de9267c0da9182/preview-400.44f5b53acd5b.jpg
+        sha256: 44f5b53acd5b06b527f3f00bbb8ec73f7cd941a2494b037fdca1fa23bdd17b59
+        mime: image/jpeg
+        bytes: 35996
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

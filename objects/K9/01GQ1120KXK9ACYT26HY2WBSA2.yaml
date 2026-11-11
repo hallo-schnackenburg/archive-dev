@@ -1,0 +1,37 @@
+id: 01GQ1120KXK9ACYT26HY2WBSA2
+type: image
+subtype: plan
+title: Katasterblatt Bohlmann, Bömenzien
+description: Mit handschriftlichen Ergänzungen.
+date: "1866"
+origin:
+  name: Heinrich Wegner
+  type: person
+  location: Laase
+subjects:
+  - name: Frieda Lemke
+    type: person
+  - name: Restorf
+    type: place
+  - name: Lüchow
+    type: place
+files:
+  - role: main
+    original_name: scan_444.tif
+    path: files/72/b9/72b9473f3aec25ce35fbe2f457feeb40b1a4257b86ec6adb0a68e95b63e70599/original.tif
+    sha256: 72b9473f3aec25ce35fbe2f457feeb40b1a4257b86ec6adb0a68e95b63e70599
+    mime: image/tiff
+    bytes: 23847208
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/72/b9/72b9473f3aec25ce35fbe2f457feeb40b1a4257b86ec6adb0a68e95b63e70599/preview-400.257b21f7fbaf.jpg
+        sha256: 257b21f7fbafdd6cb7f0a0dc144ea51b4a44b78a59fb76556f6189f96fc3878c
+        mime: image/jpeg
+        bytes: 28416
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

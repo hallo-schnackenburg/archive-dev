@@ -1,0 +1,45 @@
+id: 01M1WRB3D5YAGT6A01C1TR85VZ
+type: document
+subtype: note
+title: Rechnung Klatt, Ziegelei
+description: Beleg mit Stempel.
+date: 1912-07-12
+location: Salzwedel, Schützenhaus
+origin:
+  name: Friedrich Plate
+  type: person
+  location: Gorleben
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Tischlerei Bruns
+    type: building
+  - name: Hochwasser 1912
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_tr85vz_001.tif
+    path: files/1d/13/1d13cbbe7881a366699796adeebf22354f93123fb32426ed4c9212a5dac592df/original.tif
+    sha256: 1d13cbbe7881a366699796adeebf22354f93123fb32426ed4c9212a5dac592df
+    mime: image/tiff
+    bytes: 22506943
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/13/1d13cbbe7881a366699796adeebf22354f93123fb32426ed4c9212a5dac592df/preview-400.5d96f8999ece.jpg
+        sha256: 5d96f8999ece2cc774faff2a4860637d98a32bf36942c84fd4472906758fc3d5
+        mime: image/jpeg
+        bytes: 24968
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01FR4H26PABYXVPQKZ096TFGM3
+type: image
+subtype: photo
+title: Eisgang der Kegelclub
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Zadrau, Elbstraße
+geocode:
+  lat: 52.9389
+  lon: 11.5021
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Gaede
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+files:
+  - role: main
+    original_name: DSC2316.jpg
+    path: files/b5/a6/b5a6d5000e0823cb9be66373ea46e0234e6e43eb90127870c95b624635f47888/original.jpg
+    sha256: b5a6d5000e0823cb9be66373ea46e0234e6e43eb90127870c95b624635f47888
+    mime: image/jpeg
+    bytes: 3068869
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b5/a6/b5a6d5000e0823cb9be66373ea46e0234e6e43eb90127870c95b624635f47888/preview-400.740060813c97.jpg
+        sha256: 740060813c9709c8f62c2e34d457d1db1d4b2de0f3575bd02214180e774a1210
+        mime: image/jpeg
+        bytes: 76178
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01FZQWB2C5X0VJPYSJZDTQGPB4
+type: image
+subtype: photo
+title: Einschulung der Turnverein
+description: Zu sehen sind Gasthof „Zur Elbe“ und Torhaus.
+date: 1915-10-13
+location: Gorleben, Burgstraße
+geocode:
+  lat: 52.9866
+  lon: 11.6213
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 36/360
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v83020
+subjects:
+  - name: Gutshaus
+    type: building
+parents:
+  - 01G8JVP67ZT9860RH8N2NEXXK7
+files:
+  - role: main
+    original_name: foto_5047.jpg
+    path: files/d0/3e/d03ea5d241994c03c298b14436f8363a69208b003629d21987c5c9c97f2722fe/original.jpg
+    sha256: d03ea5d241994c03c298b14436f8363a69208b003629d21987c5c9c97f2722fe
+    mime: image/jpeg
+    bytes: 1035656
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/d0/3e/d03ea5d241994c03c298b14436f8363a69208b003629d21987c5c9c97f2722fe/preview-400.332c2050bea5.jpg
+        sha256: 332c2050bea5b58b09385a64976b8aecfc2d782cb73fcd89c7f080d0d5e3346c
+        mime: image/jpeg
+        bytes: 66569
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

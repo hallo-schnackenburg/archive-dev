@@ -1,0 +1,82 @@
+id: 01HBR4NH9YXNE6P6ZR11CTJX51
+type: document
+subtype: letter
+title: Brief von Wilhelm Behrens an Ernst Schulz
+description: Betrifft Brückenreparatur.
+date: 1815-06-02
+location: Schnackenburg, Lange Straße
+geocode:
+  lat: 53.069
+  lon: 11.6133
+  precision: region
+  source: osm
+recipient: Karl Hennings
+language: de
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Kaufmannshaus
+    type: building
+  - name: Fähranleger
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_ctjx51_001.tif
+    path: files/a9/f6/a9f632fe38f94a4fdeef14b11dd889aa43c3e2f11324afd81fc870a22d4dfc63/original.tif
+    sha256: a9f632fe38f94a4fdeef14b11dd889aa43c3e2f11324afd81fc870a22d4dfc63
+    mime: image/tiff
+    bytes: 18899496
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a9/f6/a9f632fe38f94a4fdeef14b11dd889aa43c3e2f11324afd81fc870a22d4dfc63/preview-400.f0d47d0f97e5.jpg
+        sha256: f0d47d0f97e5c9d163cfd9b1844e7b5005df1d08ee9e10d843d88ed784dd612c
+        mime: image/jpeg
+        bytes: 48062
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_ctjx51_002.tif
+    path: files/df/ac/dfacd0a37de74fdbbe15b6e1ac69ec3f7826135bbb26a361db900a653844cb80/original.tif
+    sha256: dfacd0a37de74fdbbe15b6e1ac69ec3f7826135bbb26a361db900a653844cb80
+    mime: image/tiff
+    bytes: 8123633
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/df/ac/dfacd0a37de74fdbbe15b6e1ac69ec3f7826135bbb26a361db900a653844cb80/preview-400.d0deeac3dd59.jpg
+        sha256: d0deeac3dd590544403f75ac73ca2183a945721ffc6ee31d920662237dccac75
+        mime: image/jpeg
+        bytes: 47130
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_ctjx51_003.tif
+    path: files/e1/b8/e1b832e067463cbb33e4774832db25ef4fb695016ada7b2b8ac5bdd1e06de016/original.tif
+    sha256: e1b832e067463cbb33e4774832db25ef4fb695016ada7b2b8ac5bdd1e06de016
+    mime: image/tiff
+    bytes: 3996315
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e1/b8/e1b832e067463cbb33e4774832db25ef4fb695016ada7b2b8ac5bdd1e06de016/preview-400.a80bb8426d66.jpg
+        sha256: a80bb8426d66a2358083aa8020ff4231f24595768ecee144b254163376a1137b
+        mime: image/jpeg
+        bytes: 26101
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

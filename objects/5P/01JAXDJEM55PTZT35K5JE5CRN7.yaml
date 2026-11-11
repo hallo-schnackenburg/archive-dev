@@ -1,0 +1,39 @@
+id: 01JAXDJEM55PTZT35K5JE5CRN7
+type: image
+subtype: plan
+title: Bauplan Kirche St. Johannis 1872
+location: Kapern, Am Markt
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 29/119
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Sturmschaden 1872
+    type: event
+parents:
+  - 01FESK7CZ76YS0ANTN93GVS71Z
+  - 01FSR5RWMB3S1C3C5MHAYVRE65
+files:
+  - role: main
+    original_name: scan_481.tif
+    path: files/30/f9/30f949fbf4309a31845db212a8dcfb28c08a9c53175d88017f8ba89b26349568/original.tif
+    sha256: 30f949fbf4309a31845db212a8dcfb28c08a9c53175d88017f8ba89b26349568
+    mime: image/tiff
+    bytes: 5659949
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/30/f9/30f949fbf4309a31845db212a8dcfb28c08a9c53175d88017f8ba89b26349568/preview-400.9c687cd33c86.jpg
+        sha256: 9c687cd33c8601a355ca859f7c6ea87b14751de5561cbeac032fdcb635c82d21
+        mime: image/jpeg
+        bytes: 76083
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

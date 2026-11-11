@@ -1,0 +1,39 @@
+id: 01JKKCEFMSZYVM7A1T2DEC3FM9
+type: image
+subtype: photo
+title: Maifeier 1952
+date: 1952-01-15
+location: Pretzier, Schulstraße
+origin:
+  name: Gerda Bohlmann
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Viehmarkt 1952
+    type: event
+  - name: Gorleben
+    type: place
+  - name: Kaufmannshaus
+    type: building
+parents:
+  - 01K4CSV2ZP5WMZZB5PTYVKX9F7
+files:
+  - role: main
+    original_name: scan_581.tif
+    path: files/06/ac/06ac0e821571d40e4eeda53bfc3b81e852d910813f76a5ca099795e644f34df1/original.tif
+    sha256: 06ac0e821571d40e4eeda53bfc3b81e852d910813f76a5ca099795e644f34df1
+    mime: image/tiff
+    bytes: 23119725
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/ac/06ac0e821571d40e4eeda53bfc3b81e852d910813f76a5ca099795e644f34df1/preview-400.646ba9707c7a.jpg
+        sha256: 646ba9707c7ad1ef6623a79dcb2bf885994f48024bfbd082cc5620fe162dcd3d
+        mime: image/jpeg
+        bytes: 78671
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

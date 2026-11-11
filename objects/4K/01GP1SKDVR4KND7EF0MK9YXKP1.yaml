@@ -1,0 +1,30 @@
+id: 01GP1SKDVR4KND7EF0MK9YXKP1
+type: image
+subtype: plan
+title: Bauplan Pumpenhaus 1765
+description: Maßstab 1:1000.
+date: 1765-05
+origin:
+  name: Hans Garms
+  type: person
+  location: Lüchow
+files:
+  - role: main
+    original_name: scan_924.tif
+    path: files/1d/36/1d36f5d14a2180d7757c4a95cfcb3456d5d1af14dcbcb78c5c864985deef1353/original.tif
+    sha256: 1d36f5d14a2180d7757c4a95cfcb3456d5d1af14dcbcb78c5c864985deef1353
+    mime: image/tiff
+    bytes: 12628260
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1d/36/1d36f5d14a2180d7757c4a95cfcb3456d5d1af14dcbcb78c5c864985deef1353/preview-400.e7cd6b83aa8c.jpg
+        sha256: e7cd6b83aa8c4c83f79cf5d1767f2adca3f930965daf90737f6b1516003b1b1a
+        mime: image/jpeg
+        bytes: 65324
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

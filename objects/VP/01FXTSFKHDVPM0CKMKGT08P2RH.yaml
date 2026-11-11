@@ -1,0 +1,43 @@
+id: 01FXTSFKHDVPM0CKMKGT08P2RH
+type: image
+subtype: print
+title: "Kupferstich: Lenzen von der Elbseite, Brünkendorf"
+date: 1756-04
+location: Schnackenburg, Deichstraße
+geocode:
+  lat: 52.9291
+  lon: 11.5068
+  precision: region
+  source: osm
+origin:
+  name: Wilhelm Detlefs
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Rudolf Rathjens
+    type: person
+files:
+  - role: main
+    original_name: scan_277.tif
+    path: files/52/80/52809fe9bd87d21941ee2d28938e2f483f08283c224fa1f562f3c688eeb65d72/original.tif
+    sha256: 52809fe9bd87d21941ee2d28938e2f483f08283c224fa1f562f3c688eeb65d72
+    mime: image/tiff
+    bytes: 11160636
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/80/52809fe9bd87d21941ee2d28938e2f483f08283c224fa1f562f3c688eeb65d72/preview-400.6d013f6c0719.jpg
+        sha256: 6d013f6c07195fc7562a618f24d830fb7013fd77acdc2a4894221c9faa661343
+        mime: image/jpeg
+        bytes: 48441
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

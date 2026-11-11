@@ -1,0 +1,43 @@
+id: 01FT7479TP2KG9ZPBPSYJBN9V6
+type: image
+subtype: photo
+title: "Heimatverein: Gruppenbild Fährjubiläum"
+description: Abzug im Format 6 x 9 cm.
+date: 1891/1894
+location: Kapern, Am Elbdeich
+geocode:
+  lat: 53.0837
+  lon: 11.6979
+  precision: street
+  source: osm
+origin:
+  name: Rudolf Schwarz
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Backhaus
+    type: building
+  - name: Kirmes 1891
+    type: event
+  - name: Laase
+    type: place
+files:
+  - role: main
+    original_name: DSC2392.jpg
+    path: files/d2/4c/d24c645077dce2a4ddb7bf567cdd258ad4a154f0d59aee635bb789da823f7163/original.jpg
+    sha256: d24c645077dce2a4ddb7bf567cdd258ad4a154f0d59aee635bb789da823f7163
+    mime: image/jpeg
+    bytes: 17571111
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/d2/4c/d24c645077dce2a4ddb7bf567cdd258ad4a154f0d59aee635bb789da823f7163/preview-400.be972a33bbc2.jpg
+        sha256: be972a33bbc2fe4435be279cb288c6a55c196abc89212f17ec0ff1db5c008b47
+        mime: image/jpeg
+        bytes: 36927
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

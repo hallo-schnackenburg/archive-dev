@@ -1,0 +1,38 @@
+id: 01HJ6F9THYWYF1CMARM6G71WAP
+type: image
+subtype: photo
+title: Blick vom Scheune auf das Feuerwehrhaus
+description: Abzug im Format 10 x 15 cm.
+location: Cumlosen, Dorfkrug
+geocode:
+  lat: 52.9905
+  lon: 11.696
+  precision: town
+  source: osm
+subjects:
+  - name: Wilhelm Timm
+    type: person
+  - name: Kriegerdenkmal
+    type: building
+  - name: Maifeier 1944
+    type: event
+files:
+  - role: main
+    original_name: DSC6092.jpg
+    path: files/71/63/71632c941da08dd6a6896acf28a7607e7e268731574c8879bb4ac9255697d6dd/original.jpg
+    sha256: 71632c941da08dd6a6896acf28a7607e7e268731574c8879bb4ac9255697d6dd
+    mime: image/jpeg
+    bytes: 14173360
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/71/63/71632c941da08dd6a6896acf28a7607e7e268731574c8879bb4ac9255697d6dd/preview-400.bfb906118861.jpg
+        sha256: bfb90611886130f8d66a2d423b4db07288d277cd4d013e256136798c678db96d
+        mime: image/jpeg
+        bytes: 52869
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

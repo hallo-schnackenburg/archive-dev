@@ -1,0 +1,54 @@
+id: 01KJEN16VQX2XHH9ED5GFF6D9W
+type: document
+subtype: letter
+title: Brief von Helga Gaede an Wilhelm Wiegmann
+description: Handschriftlich, 2 Seiten.
+date: 1805/1817
+location: Wittenberge, Elbstraße
+geocode:
+  lat: 52.9242
+  lon: 11.6397
+  precision: exact
+  source: osm
+language: de
+files:
+  - role: page
+    num: 1
+    original_name: letter_ff6d9w_001.tif
+    path: files/da/16/da166f96c5d4e01df89941bd9ec9a6650c094161717376780c56828fdb69b8c4/original.tif
+    sha256: da166f96c5d4e01df89941bd9ec9a6650c094161717376780c56828fdb69b8c4
+    mime: image/tiff
+    bytes: 20213859
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/16/da166f96c5d4e01df89941bd9ec9a6650c094161717376780c56828fdb69b8c4/preview-400.c272851faa02.jpg
+        sha256: c272851faa02a935a5d82affa4928f1c86af68a6029b2a6ba883aa51b8e9620d
+        mime: image/jpeg
+        bytes: 20113
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_ff6d9w_002.tif
+    path: files/be/5c/be5c8c63db084357630cf71299fd2cb200c5182bd4daec086809955209fa870b/original.tif
+    sha256: be5c8c63db084357630cf71299fd2cb200c5182bd4daec086809955209fa870b
+    mime: image/tiff
+    bytes: 25684646
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/5c/be5c8c63db084357630cf71299fd2cb200c5182bd4daec086809955209fa870b/preview-400.d2bd032cadf5.jpg
+        sha256: d2bd032cadf5afdd4e0dc88c25ad27532d0e86efaac46d21a92a9f5f121c924a
+        mime: image/jpeg
+        bytes: 82140
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01G0WRXEEWSZCEVR0EGQ0VD85Q
+type: image
+subtype: plan
+title: Deichplan Gülden bis Bömenzien
+description: Mit handschriftlichen Ergänzungen.
+date: 1799~
+location: Zadrau, Schulstraße
+origin:
+  name: Erika Wegner
+  type: person
+  location: Wustrow
+subjects:
+  - name: Wootz
+    type: place
+parents:
+  - 01HP3S6J7H7R7K5FQDZW91FMBP
+  - 01GBPB9GYE54BV2D1R1WP3GYSX
+files:
+  - role: main
+    original_name: scan_188.tif
+    path: files/15/ef/15ef2c5170737e74a4148f461587dd713859b6d66d38f31506c375c82e32398d/original.tif
+    sha256: 15ef2c5170737e74a4148f461587dd713859b6d66d38f31506c375c82e32398d
+    mime: image/tiff
+    bytes: 2050001
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/15/ef/15ef2c5170737e74a4148f461587dd713859b6d66d38f31506c375c82e32398d/preview-400.2eed243a8a10.jpg
+        sha256: 2eed243a8a1080b7e041acae9779239e901f91aa5d10a3f3ab933532e0503b9f
+        mime: image/jpeg
+        bytes: 77268
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

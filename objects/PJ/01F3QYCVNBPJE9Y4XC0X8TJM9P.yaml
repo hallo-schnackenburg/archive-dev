@@ -1,0 +1,58 @@
+id: 01F3QYCVNBPJE9Y4XC0X8TJM9P
+type: document
+subtype: protocol
+title: Protokoll des Verbandsversammlung vom 189X
+description: "Beschlossen wurde unter anderem: Brandversicherung."
+date: 189X
+location: Lenzen, Hafenstraße
+origin:
+  name: Finanzausschuss Nienwalde
+  type: business
+  location: Lenzen
+language: de
+subjects:
+  - name: Backhaus
+    type: building
+  - name: Lüchow
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: protocol_8tjm9p_001.tif
+    path: files/aa/01/aa01954adeccce42f3f1e722e8fdae28cd87f559e359dee3875cc5a6a6a306fb/original.tif
+    sha256: aa01954adeccce42f3f1e722e8fdae28cd87f559e359dee3875cc5a6a6a306fb
+    mime: image/tiff
+    bytes: 14079277
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/aa/01/aa01954adeccce42f3f1e722e8fdae28cd87f559e359dee3875cc5a6a6a306fb/preview-400.02114ada1e06.jpg
+        sha256: 02114ada1e06d1a53b43a2f53ac41a9fb7f2763090dfbdcea43105d60892b572
+        mime: image/jpeg
+        bytes: 84716
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_8tjm9p_002.tif
+    path: files/50/8b/508bb64378699dd379823de66b8b4d78f2c19363dd9c68be0d26e0f1d0aec16b/original.tif
+    sha256: 508bb64378699dd379823de66b8b4d78f2c19363dd9c68be0d26e0f1d0aec16b
+    mime: image/tiff
+    bytes: 27175807
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/8b/508bb64378699dd379823de66b8b4d78f2c19363dd9c68be0d26e0f1d0aec16b/preview-400.9786e56b788c.jpg
+        sha256: 9786e56b788c283633a97602c474855b8c4cc50854690c9f29747beec27b538a
+        mime: image/jpeg
+        bytes: 56298
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,71 @@
+id: 01J3AR274K2VZ84FGD4S7RJYGA
+type: document
+subtype: letter
+title: Feldpostbrief von Erika Oelker
+description: Mit Umschlag und Briefmarke.
+date: 1958-06
+location: Gorleben, Schlachterei
+geocode:
+  lat: 53.0645
+  lon: 11.4869
+  precision: town
+  source: osm
+origin:
+  name: Fritz Schulz
+  type: person
+  location: Laase
+recipient: Erika Ahrens
+language: en
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Einweihung 1958
+    type: event
+  - name: Rathaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_7rjyga_001.tif
+    path: files/54/0a/540aa520334ae13a1c80154fad5a727f404266708b03fd47db0af91c706f34c0/original.tif
+    sha256: 540aa520334ae13a1c80154fad5a727f404266708b03fd47db0af91c706f34c0
+    mime: image/tiff
+    bytes: 10553721
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/54/0a/540aa520334ae13a1c80154fad5a727f404266708b03fd47db0af91c706f34c0/preview-400.a171d5c8dd8a.jpg
+        sha256: a171d5c8dd8ab164873ffafb7725bb3b7035f64a83bc1ff4a2928dd371195bc0
+        mime: image/jpeg
+        bytes: 31546
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_7rjyga_002.tif
+    path: files/d4/e1/d4e1e9da134884947d2f5257cdefc2dc6890ccffa6af834171fb40ac3f88f898/original.tif
+    sha256: d4e1e9da134884947d2f5257cdefc2dc6890ccffa6af834171fb40ac3f88f898
+    mime: image/tiff
+    bytes: 1978898
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/e1/d4e1e9da134884947d2f5257cdefc2dc6890ccffa6af834171fb40ac3f88f898/preview-400.7298cf6a35df.jpg
+        sha256: 7298cf6a35df3e323ce1a638e52f1ed05b93797ec0a5b4a6d378f996b622489f
+        mime: image/jpeg
+        bytes: 32308
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

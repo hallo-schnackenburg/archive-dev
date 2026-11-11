@@ -1,0 +1,40 @@
+id: 01FX1B8AY1TCD6VC5BPP9XA4T3
+type: image
+subtype: print
+title: Postkarte Wootz, Schlachterei
+description: Lithographie, Rand beschnitten.
+date: 1911-04
+location: Hitzacker, Gartenstraße
+origin:
+  name: Brigitte Schulz
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+owner:
+  name: Paul Bohlmann
+  type: person
+  note: Dauerleihgabe
+files:
+  - role: main
+    original_name: scan_705.tif
+    path: files/1f/5e/1f5eac3cbb2010839c4c15ae6cca2ca3c08acc590c7fc9f8ace8722c951c529b/original.tif
+    sha256: 1f5eac3cbb2010839c4c15ae6cca2ca3c08acc590c7fc9f8ace8722c951c529b
+    mime: image/tiff
+    bytes: 6071557
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/1f/5e/1f5eac3cbb2010839c4c15ae6cca2ca3c08acc590c7fc9f8ace8722c951c529b/preview-400.382cb7964b52.jpg
+        sha256: 382cb7964b52a67529c7be34055ee097baf3648d748699fdc54a0f867f041b86
+        mime: image/jpeg
+        bytes: 75413
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

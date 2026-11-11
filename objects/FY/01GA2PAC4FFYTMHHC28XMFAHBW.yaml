@@ -1,0 +1,60 @@
+id: 01GA2PAC4FFYTMHHC28XMFAHBW
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Brückenreparatur 2012
+description: "Beschlossen wurde unter anderem: Friedhofsordnung."
+date: 2012-06-08
+location: Arendsee, Feuerwehrhaus
+origin:
+  name: Bauausschuss Wootz
+  type: business
+  location: Lanz
+language: de
+subjects:
+  - name: Gasthof Meyer
+    type: building
+  - name: Schmiede
+    type: building
+parents:
+  - 01FXP7C4VHXDAWP3MGADT9QA1F
+files:
+  - role: page
+    num: 1
+    original_name: protocol_mfahbw_001.tif
+    path: files/e4/e1/e4e1bc644d2cacf77e950fae282a528e7700fc7822730fbddef5d5713db4aa76/original.tif
+    sha256: e4e1bc644d2cacf77e950fae282a528e7700fc7822730fbddef5d5713db4aa76
+    mime: image/tiff
+    bytes: 10847147
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e4/e1/e4e1bc644d2cacf77e950fae282a528e7700fc7822730fbddef5d5713db4aa76/preview-400.0548498db955.jpg
+        sha256: 0548498db955e3d290111959f099b487d37778c0e7d7da2cd1dafb09e76a8945
+        mime: image/jpeg
+        bytes: 53192
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_mfahbw_002.tif
+    path: files/db/13/db134d707a05ef8c956000cba10142a86eee0049bec830496e5801758cc74230/original.tif
+    sha256: db134d707a05ef8c956000cba10142a86eee0049bec830496e5801758cc74230
+    mime: image/tiff
+    bytes: 27646858
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/13/db134d707a05ef8c956000cba10142a86eee0049bec830496e5801758cc74230/preview-400.eeb3a9124781.jpg
+        sha256: eeb3a9124781648d7222d66d8a5e3bdf88314514a45720ba71aabf09d723add8
+        mime: image/jpeg
+        bytes: 54691
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

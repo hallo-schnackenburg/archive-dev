@@ -1,0 +1,41 @@
+id: 01G9KW9Q6NAEPEC7FCS606ATF5
+type: document
+subtype: letter
+title: Feldpostbrief von Helga Behrens
+description: Mit Umschlag und Briefmarke.
+date: 1851-03-03
+location: Seedorf, Badestelle
+geocode:
+  lat: 53.0192
+  lon: 11.6524
+  precision: region
+  source: osm
+recipient: Klaus Ahrens
+subjects:
+  - name: Helga Plate
+    type: person
+  - name: Restorf
+    type: place
+parents:
+  - 01F0QYSCYKSTCN1NTYT6RNDCR9
+files:
+  - role: page
+    num: 1
+    original_name: letter_06atf5_001.tif
+    path: files/b1/6f/b16fca9536ebbb18f730f77ca2c543c9f53282d92ee855168b201d4feea63ac6/original.tif
+    sha256: b16fca9536ebbb18f730f77ca2c543c9f53282d92ee855168b201d4feea63ac6
+    mime: image/tiff
+    bytes: 10594292
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b1/6f/b16fca9536ebbb18f730f77ca2c543c9f53282d92ee855168b201d4feea63ac6/preview-400.47e883c797b7.jpg
+        sha256: 47e883c797b73f379ca79ad632649dff61110f6eb1a5c6facd317c34d9583980
+        mime: image/jpeg
+        bytes: 29598
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

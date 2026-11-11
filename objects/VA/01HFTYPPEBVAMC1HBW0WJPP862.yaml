@@ -1,0 +1,40 @@
+id: 01HFTYPPEBVAMC1HBW0WJPP862
+type: document
+subtype: letter
+title: Mitteilung aus Bömenzien an Familie Detlefs
+date: 1876/1887
+location: Lenzen, Deichstraße
+geocode:
+  lat: 53.0051
+  lon: 11.6305
+  precision: town
+  source: osm
+recipient: Hans Meyer
+language: de
+subjects:
+  - name: Lüchow
+    type: place
+parents:
+  - 01FDN6VE2CD44TNGX826M38XCP
+  - 01F3WB9ZBJKKX10FSWQKEJV2M4
+files:
+  - role: page
+    num: 1
+    original_name: letter_jpp862_001.tif
+    path: files/04/e9/04e96982906f80b7e9626bc99c487b15b63d71fd20b3697b5b9eb1a62e45bea7/original.tif
+    sha256: 04e96982906f80b7e9626bc99c487b15b63d71fd20b3697b5b9eb1a62e45bea7
+    mime: image/tiff
+    bytes: 20803468
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/e9/04e96982906f80b7e9626bc99c487b15b63d71fd20b3697b5b9eb1a62e45bea7/preview-400.433973b15295.jpg
+        sha256: 433973b1529503c01556b3508c82f830c4edd086cf7fad3ec09c293ad4dd9838
+        mime: image/jpeg
+        bytes: 40532
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

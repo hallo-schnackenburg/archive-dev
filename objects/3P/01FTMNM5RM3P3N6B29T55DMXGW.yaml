@@ -1,0 +1,35 @@
+id: 01FTMNM5RM3P3N6B29T55DMXGW
+type: image
+subtype: print
+title: Postkarte Gülden, Sportplatz
+date: 186X
+location: Havelberg, Storchennest
+geocode:
+  lat: 52.9242
+  lon: 11.6254
+  precision: town
+  source: osm
+origin:
+  name: Karl Voss
+  type: person
+  location: Holtorf
+files:
+  - role: main
+    original_name: scan_304.tif
+    path: files/7c/73/7c73c71320b656fb3df388df4d9ce11219b86c042b07f8d7e46eb44cf4cf47f7/original.tif
+    sha256: 7c73c71320b656fb3df388df4d9ce11219b86c042b07f8d7e46eb44cf4cf47f7
+    mime: image/tiff
+    bytes: 10551069
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7c/73/7c73c71320b656fb3df388df4d9ce11219b86c042b07f8d7e46eb44cf4cf47f7/preview-400.8e39dab407e0.jpg
+        sha256: 8e39dab407e04939ecc42c3293826b9e1ac62fead3203187e5281ee725ba59be
+        mime: image/jpeg
+        bytes: 76074
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

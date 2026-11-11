@@ -1,0 +1,41 @@
+id: 01HV4W7Q2M6RPPHP1V89C7B27Z
+type: image
+subtype: photo
+title: Gasthof Meyer in Wustrow
+description: Farbfoto, leicht verblasst.
+date: 1940-06-07
+location: Rüterberg, Poststelle
+geocode:
+  lat: 52.9504
+  lon: 11.6758
+  precision: region
+  source: osm
+origin:
+  name: Helga Krüger
+  type: person
+  location: Laase
+subjects:
+  - name: Schlachterei
+    type: building
+  - name: Restorf
+    type: place
+files:
+  - role: main
+    original_name: IMG_0866.jpg
+    path: files/9d/a5/9da5ac851e4ecde707815a1360f2cb8dfaf706bc7f5423c568c299ffd5cfc950/original.jpg
+    sha256: 9da5ac851e4ecde707815a1360f2cb8dfaf706bc7f5423c568c299ffd5cfc950
+    mime: image/jpeg
+    bytes: 5824440
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/9d/a5/9da5ac851e4ecde707815a1360f2cb8dfaf706bc7f5423c568c299ffd5cfc950/preview-400.cf7b000f6121.jpg
+        sha256: cf7b000f612179a71d9fb6e2c949da961bd1594a29258810b368fbffebceebff
+        mime: image/jpeg
+        bytes: 35537
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

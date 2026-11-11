@@ -1,0 +1,44 @@
+id: 01GY2M5BZJCQRHAC199FSY1C5B
+type: image
+subtype: photo
+title: Ernst Pape, Porträt
+description: Abzug im Format 9 x 13 cm.
+location: Brünkendorf, Wassermühle
+geocode:
+  lat: 52.9302
+  lon: 11.6447
+  precision: street
+  source: osm
+origin:
+  name: Marta Voss
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Kapern
+    type: place
+  - name: Lüchow
+    type: place
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01HD1KFMRR65WK8D19R9SH3ANJ
+files:
+  - role: main
+    original_name: foto_1323.jpg
+    path: files/34/9d/349d299f0af45f7565d8ee212a92bfe5cdf9b76adcb12d7b2c39743ca47840d7/original.jpg
+    sha256: 349d299f0af45f7565d8ee212a92bfe5cdf9b76adcb12d7b2c39743ca47840d7
+    mime: image/jpeg
+    bytes: 12856676
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/34/9d/349d299f0af45f7565d8ee212a92bfe5cdf9b76adcb12d7b2c39743ca47840d7/preview-400.488b15e3f494.jpg
+        sha256: 488b15e3f494c989833dc6d49b79df73df522feb95c19a2a874ab5b3fe6a5122
+        mime: image/jpeg
+        bytes: 49516
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

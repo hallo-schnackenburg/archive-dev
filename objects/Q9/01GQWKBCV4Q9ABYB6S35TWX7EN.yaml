@@ -1,0 +1,36 @@
+id: 01GQWKBCV4Q9ABYB6S35TWX7EN
+type: image
+subtype: plan
+title: Deichplan Lanz bis Rüterberg
+description: Tusche auf Transparentpapier.
+date: 1770/1776
+origin:
+  name: Brigitte Krüger
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 21/016
+files:
+  - role: main
+    original_name: scan_053.tif
+    path: files/ac/be/acbe53332f2be02551de306b4c1fb5ce8ff4751beb8526ad4354ebc21e1fc717/original.tif
+    sha256: acbe53332f2be02551de306b4c1fb5ce8ff4751beb8526ad4354ebc21e1fc717
+    mime: image/tiff
+    bytes: 26708276
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ac/be/acbe53332f2be02551de306b4c1fb5ce8ff4751beb8526ad4354ebc21e1fc717/preview-400.0181e56c2e84.jpg
+        sha256: 0181e56c2e84cdd56d3316746901dd8cac3dda2c2e667ae83dc3d1f2eb1a5a3f
+        mime: image/jpeg
+        bytes: 22725
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01JQD5FD4TGQNFKNH66PNBPBH3
+type: image
+subtype: photo
+title: Sturmschaden 1900
+description: Zu sehen sind Mühle und Gutshaus.
+date: 1900~
+location: Dömitz, Schulstraße
+origin:
+  name: Rudolf Rieke
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 11/057
+  note: Regal 1
+subjects:
+  - name: Ilse Wegner
+    type: person
+  - name: Beerdigung 1900
+    type: event
+  - name: Dieter Bruns
+    type: person
+files:
+  - role: main
+    original_name: foto_7970.jpg
+    path: files/5e/58/5e58b790a6ed06fee1d544b0869e049c3ded1df44413f03e2f2ec6b423def83a/original.jpg
+    sha256: 5e58b790a6ed06fee1d544b0869e049c3ded1df44413f03e2f2ec6b423def83a
+    mime: image/jpeg
+    bytes: 26555584
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/5e/58/5e58b790a6ed06fee1d544b0869e049c3ded1df44413f03e2f2ec6b423def83a/preview-400.bb1e2e35ee49.jpg
+        sha256: bb1e2e35ee49bf6c2d15c025932a3aeb728aee37c5ad4c92d82583f6f5b9203a
+        mime: image/jpeg
+        bytes: 62296
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

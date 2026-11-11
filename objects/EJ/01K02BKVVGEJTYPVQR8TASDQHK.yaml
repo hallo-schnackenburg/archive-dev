@@ -1,0 +1,37 @@
+id: 01K02BKVVGEJTYPVQR8TASDQHK
+type: image
+subtype: photo
+title: Gerda Behrens, Porträt
+date: "1984"
+location: Hitzacker, Poststelle
+origin:
+  name: Wilhelm Meyer
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Scheune
+    type: building
+  - name: Bömenzien
+    type: place
+  - name: Salzwedel
+    type: place
+files:
+  - role: main
+    original_name: P8666.jpg
+    path: files/73/c4/73c4e9aecd625a7f5895cc51b283adc4deb8f1babcd12364bb90d16943692b99/original.jpg
+    sha256: 73c4e9aecd625a7f5895cc51b283adc4deb8f1babcd12364bb90d16943692b99
+    mime: image/jpeg
+    bytes: 10343719
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/73/c4/73c4e9aecd625a7f5895cc51b283adc4deb8f1babcd12364bb90d16943692b99/preview-400.f1a3ad25e4f3.jpg
+        sha256: f1a3ad25e4f32899736f9f135da0bdc4b4bf2bf87e9ecb75aa88d5adc2e4cd25
+        mime: image/jpeg
+        bytes: 86299
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

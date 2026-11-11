@@ -1,0 +1,37 @@
+id: 01KCXB96P748WKC4JQ41RZBX7H
+type: image
+subtype: plan
+title: Deichplan Brünkendorf bis Rüterberg
+description: Mit handschriftlichen Ergänzungen.
+date: "1831"
+origin:
+  name: Dieter Wöhlk
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Karl Wiegmann
+    type: person
+  - name: Heinrich Krüger
+    type: person
+files:
+  - role: main
+    original_name: scan_119.tif
+    path: files/20/df/20dfceb81dda8dca750559b0ee4f252298f5be585575862d59b814502dea9c03/original.tif
+    sha256: 20dfceb81dda8dca750559b0ee4f252298f5be585575862d59b814502dea9c03
+    mime: image/tiff
+    bytes: 11098791
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/20/df/20dfceb81dda8dca750559b0ee4f252298f5be585575862d59b814502dea9c03/preview-400.cec8b737a83a.jpg
+        sha256: cec8b737a83a127ea48ad36069a9c36a50e74890a663e1001f9d2630a30fec36
+        mime: image/jpeg
+        bytes: 22862
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

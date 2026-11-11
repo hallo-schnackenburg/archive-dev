@@ -1,0 +1,33 @@
+id: 01H3QY0S9HHX7078K5ETRKH3X5
+type: image
+subtype: plan
+title: Bauplan Försterei 1924
+description: Mit handschriftlichen Ergänzungen.
+date: 1924-02-12
+location: Holtorf, Burgstraße
+origin:
+  name: Gisela Dreyer
+  type: person
+  location: Nienwalde
+parents:
+  - 01FC500G3M1EH4PAW2K7HHB2K0
+files:
+  - role: main
+    original_name: scan_190.tif
+    path: files/35/a4/35a4fc6788d62669a9db292ad7d6aeaffb990e33445477cd230e825535a0a30c/original.tif
+    sha256: 35a4fc6788d62669a9db292ad7d6aeaffb990e33445477cd230e825535a0a30c
+    mime: image/tiff
+    bytes: 20022643
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/35/a4/35a4fc6788d62669a9db292ad7d6aeaffb990e33445477cd230e825535a0a30c/preview-400.3377daebadb0.jpg
+        sha256: 3377daebadb09d2db5cf9d51f08fa1bcfe0cd577cefd955c2eaa0a36c7c21c63
+        mime: image/jpeg
+        bytes: 63221
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01K1CYCMGK5TPCP6AGEJN72TXJ
+type: image
+subtype: plan
+title: Bauplan Schlachterei 1866
+description: Tusche auf Transparentpapier.
+date: 1866-05-13
+origin:
+  name: Hans Krüger
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br 7/358
+  note: Bücherregal links
+subjects:
+  - name: Zadrau
+    type: place
+files:
+  - role: main
+    original_name: scan_295.tif
+    path: files/5f/cc/5fcc0647b1dbcaf8c4a3c5b42c725b3a0258be7b0f8a7a1187192712890111de/original.tif
+    sha256: 5fcc0647b1dbcaf8c4a3c5b42c725b3a0258be7b0f8a7a1187192712890111de
+    mime: image/tiff
+    bytes: 21305332
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5f/cc/5fcc0647b1dbcaf8c4a3c5b42c725b3a0258be7b0f8a7a1187192712890111de/preview-400.91788affb1be.jpg
+        sha256: 91788affb1be4acf149220282f64898907b6691ce84940f01618e9816b2bcb8b
+        mime: image/jpeg
+        bytes: 81707
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

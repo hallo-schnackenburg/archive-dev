@@ -1,0 +1,43 @@
+id: 01FAGXNJ0DHJ6Q6RBBHKMJDSS2
+type: image
+subtype: photo
+title: Blick vom Mühle auf das Kriegerdenkmal
+description: Farbfoto, leicht verblasst.
+date: 1918-08-10
+location: Laase, Am Elbdeich
+geocode:
+  lat: 52.971
+  lon: 11.6453
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Glockenweihe 1918
+    type: event
+  - name: Hochwasser 1918
+    type: event
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: DSC7097.jpg
+    path: files/bf/9f/bf9ff605cbfb0d1d68095cea3f655332e60f861e71e09f82f2db91363966815e/original.jpg
+    sha256: bf9ff605cbfb0d1d68095cea3f655332e60f861e71e09f82f2db91363966815e
+    mime: image/jpeg
+    bytes: 19252986
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/bf/9f/bf9ff605cbfb0d1d68095cea3f655332e60f861e71e09f82f2db91363966815e/preview-400.297fe85429cf.jpg
+        sha256: 297fe85429cf821fd7e50f0cd80ac4ed7a22cb28798770b9cec267dbb2f68ff9
+        mime: image/jpeg
+        bytes: 22049
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

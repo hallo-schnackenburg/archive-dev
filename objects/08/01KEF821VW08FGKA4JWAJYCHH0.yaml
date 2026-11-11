@@ -1,0 +1,35 @@
+id: 01KEF821VW08FGKA4JWAJYCHH0
+type: image
+subtype: photo
+title: Ortsbesichtigung 1902
+date: 1902-06-13
+location: Rüterberg, Gasthof Meyer
+origin:
+  name: Walter Quast
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Richtfest 1902
+    type: event
+parents:
+  - 01HCD5GG1YH2QA7DYGGFJP6WBZ
+files:
+  - role: main
+    original_name: DSC1420.jpg
+    path: files/6b/59/6b594e4a8cf95cbbe07471ce15225f4a303a3f2473e58892cbec02dd3bfcbb60/original.jpg
+    sha256: 6b594e4a8cf95cbbe07471ce15225f4a303a3f2473e58892cbec02dd3bfcbb60
+    mime: image/jpeg
+    bytes: 10085843
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/6b/59/6b594e4a8cf95cbbe07471ce15225f4a303a3f2473e58892cbec02dd3bfcbb60/preview-400.7200dc625386.jpg
+        sha256: 7200dc625386f1672e5c8d773ccd9ac61fe533d6f400bb891fba2bb21a3302c4
+        mime: image/jpeg
+        bytes: 81842
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,89 @@
+id: 01GR10A4C0T2BP7SYG99324TE7
+type: document
+subtype: letter
+title: Brief von August Lemke an Rudolf Meyer
+date: 1892~
+location: Wustrow, Schulstraße
+geocode:
+  lat: 53.0005
+  lon: 11.6853
+  precision: region
+  source: osm
+origin:
+  name: Emma Wegner
+  type: person
+  location: Holtorf
+recipient: Günter Bohlmann
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 9/257
+subjects:
+  - name: Bahnhof
+    type: building
+  - name: Gutshaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_324te7_001.tif
+    path: files/4c/00/4c00e1783b068b99b0b969ff31484213fe3c9d37a44e71bb0206ea539d0581a5/original.tif
+    sha256: 4c00e1783b068b99b0b969ff31484213fe3c9d37a44e71bb0206ea539d0581a5
+    mime: image/tiff
+    bytes: 9238604
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4c/00/4c00e1783b068b99b0b969ff31484213fe3c9d37a44e71bb0206ea539d0581a5/preview-400.a2ff7f9fa225.jpg
+        sha256: a2ff7f9fa225ae7a6c9b9c7d8c63d0d7a882a7d715388285a68a3ebf48d5860f
+        mime: image/jpeg
+        bytes: 38208
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_324te7_002.tif
+    path: files/7a/b6/7ab6cfd3dac25b83c5e9c85ae00993adced0226a79b1992b520f62014446abd6/original.tif
+    sha256: 7ab6cfd3dac25b83c5e9c85ae00993adced0226a79b1992b520f62014446abd6
+    mime: image/tiff
+    bytes: 9659787
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7a/b6/7ab6cfd3dac25b83c5e9c85ae00993adced0226a79b1992b520f62014446abd6/preview-400.8ea4b2ac592f.jpg
+        sha256: 8ea4b2ac592f659fff10dc0934e32a4e2115f485d7f7a0ed1c53f7775530331b
+        mime: image/jpeg
+        bytes: 65366
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_324te7_003.tif
+    path: files/ac/94/ac941c6f1e9e881eba4749013d00004cf8099523607b02ffb9d99ae347c0281c/original.tif
+    sha256: ac941c6f1e9e881eba4749013d00004cf8099523607b02ffb9d99ae347c0281c
+    mime: image/tiff
+    bytes: 13717033
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/94/ac941c6f1e9e881eba4749013d00004cf8099523607b02ffb9d99ae347c0281c/preview-400.93b181fcdb20.jpg
+        sha256: 93b181fcdb205053a49427d37ba169c256afa8baa3eb5556077988156954a8b3
+        mime: image/jpeg
+        bytes: 37845
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

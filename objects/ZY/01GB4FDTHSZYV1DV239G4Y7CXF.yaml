@@ -1,0 +1,43 @@
+id: 01GB4FDTHSZYV1DV239G4Y7CXF
+type: image
+subtype: photo
+title: Schlachtfest 1984
+description: Abzug im Format 6 x 9 cm.
+date: 1984-02-14
+location: Lanz, Speicher
+geocode:
+  lat: 52.9134
+  lon: 11.6463
+  precision: town
+  source: osm
+origin:
+  name: Gerda Rieke
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Anni Wegner
+    type: person
+  - name: Paul Harms
+    type: person
+  - name: Fährjubiläum 1984
+    type: event
+files:
+  - role: main
+    original_name: scan_472.tif
+    path: files/62/2a/622ab42b91c49ea56549ea76e0798635a2818682258d4f5769fe3aab0a20697f/original.tif
+    sha256: 622ab42b91c49ea56549ea76e0798635a2818682258d4f5769fe3aab0a20697f
+    mime: image/tiff
+    bytes: 19998423
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/62/2a/622ab42b91c49ea56549ea76e0798635a2818682258d4f5769fe3aab0a20697f/preview-400.28be110908d1.jpg
+        sha256: 28be110908d1a85cb1ba336170dc39a7d1a8f92e1e75d98dffbe44abefff14b7
+        mime: image/jpeg
+        bytes: 34647
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

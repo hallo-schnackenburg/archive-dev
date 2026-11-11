@@ -1,0 +1,35 @@
+id: 01M3G9GZW74ZQTEDZ6XNJAPD5E
+type: image
+subtype: plan
+title: Lageplan Windmühle
+date: 1986-10-23
+origin:
+  name: Friedrich Ahrens
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 29/047
+files:
+  - role: main
+    original_name: scan_460.tif
+    path: files/2e/8d/2e8d630f1ceaede93d92458becbd3a6e711befaa37a003a8cb99e926fef0d2e6/original.tif
+    sha256: 2e8d630f1ceaede93d92458becbd3a6e711befaa37a003a8cb99e926fef0d2e6
+    mime: image/tiff
+    bytes: 24972932
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2e/8d/2e8d630f1ceaede93d92458becbd3a6e711befaa37a003a8cb99e926fef0d2e6/preview-400.ab2f92c8c305.jpg
+        sha256: ab2f92c8c3057cc3c7fe91b8ff495b9372c4967ac419aef28460332ec2cac08d
+        mime: image/jpeg
+        bytes: 31911
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

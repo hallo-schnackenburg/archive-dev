@@ -1,0 +1,42 @@
+id: 01F7NKGGH4DR5D0EAZG2ASNMWH
+type: image
+subtype: print
+title: Postkarte Wustrow, Gasthof „Zur Elbe“
+description: Lithographie, Rand beschnitten.
+date: 1703-09-26
+location: Lenzen, Mühlenweg
+geocode:
+  lat: 52.9148
+  lon: 11.4709
+  precision: street
+  source: osm
+origin:
+  name: Karl Wiegmann
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+parents:
+  - 01GWFE0FE3S612EGDSN47NZK4B
+  - 01FJMCPRQ0EG050EZ87JB0MN40
+files:
+  - role: main
+    original_name: scan_559.tif
+    path: files/c2/64/c2645f0680dca78f263fd44fe8094a30ad9e69386847d882f2e15130bcd78297/original.tif
+    sha256: c2645f0680dca78f263fd44fe8094a30ad9e69386847d882f2e15130bcd78297
+    mime: image/tiff
+    bytes: 5310110
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c2/64/c2645f0680dca78f263fd44fe8094a30ad9e69386847d882f2e15130bcd78297/preview-400.9dd78044d3d7.jpg
+        sha256: 9dd78044d3d74a836f6342ea828daaf8e9973176d8977fc0d4e08153c880225e
+        mime: image/jpeg
+        bytes: 60042
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

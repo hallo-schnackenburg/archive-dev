@@ -1,0 +1,36 @@
+id: 01KWZKBVE1VWV8P11W0GW04WSM
+type: image
+subtype: print
+title: Gruß aus Wustrow, Holtorf
+description: Postkarte, gelaufen 1918.
+date: 1728-02-10
+location: Laase, Am Elbdeich
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Lotte Schulz
+    type: person
+  - name: Gutshaus
+    type: building
+parents:
+  - 01GQDM3ZFG19XY70Y5T88AY6HH
+files:
+  - role: main
+    original_name: scan_255.tif
+    path: files/be/13/be136f6688e48c726518bd9d5e3408ca83330ae3d49c5f5751fd333fd3f4da9b/original.tif
+    sha256: be136f6688e48c726518bd9d5e3408ca83330ae3d49c5f5751fd333fd3f4da9b
+    mime: image/tiff
+    bytes: 16100409
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/13/be136f6688e48c726518bd9d5e3408ca83330ae3d49c5f5751fd333fd3f4da9b/preview-400.0dfefb38a322.jpg
+        sha256: 0dfefb38a322c49f6170eadb66af1678d281ede17c19679ef10cb75cb5c47df1
+        mime: image/jpeg
+        bytes: 23510
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

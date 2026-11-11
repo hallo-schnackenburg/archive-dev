@@ -1,0 +1,38 @@
+id: 01JAKHZVPJNWQ3MPM0FM0Q2MKS
+type: image
+subtype: photo
+title: Hermann Lemke, Porträt
+description: Aufnahme von Hans Tiedemann.
+date: 2005-11-04
+location: Wittenberge, Schlachterei
+geocode:
+  lat: 53.0235
+  lon: 11.4707
+  precision: street
+  source: osm
+origin:
+  name: Fritz Krüger
+  type: person
+  location: Hitzacker
+parents:
+  - 01JF4KWKVRQTHC2EW4F1D004T1
+files:
+  - role: main
+    original_name: P7720.jpg
+    path: files/88/ca/88cabda885017b0153afbcf070343e2fee45091d32eb3bbbf64ae90f1648e8c8/original.jpg
+    sha256: 88cabda885017b0153afbcf070343e2fee45091d32eb3bbbf64ae90f1648e8c8
+    mime: image/jpeg
+    bytes: 8616652
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/88/ca/88cabda885017b0153afbcf070343e2fee45091d32eb3bbbf64ae90f1648e8c8/preview-400.1bab832f4b5e.jpg
+        sha256: 1bab832f4b5ef116fa5f16eb29d20b25c9a5d5ccee56af8749c10ad87eb63242
+        mime: image/jpeg
+        bytes: 54590
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

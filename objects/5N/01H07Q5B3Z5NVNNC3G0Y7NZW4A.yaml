@@ -1,0 +1,33 @@
+id: 01H07Q5B3Z5NVNNC3G0Y7NZW4A
+type: image
+subtype: print
+title: Ansichtskarte Marktstraße, Lenzen
+description: Kupferstich, koloriert.
+date: 1803-03-20
+origin:
+  name: Friedrich Hennings
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Hochzeit 1803
+    type: event
+files:
+  - role: main
+    original_name: scan_349.tif
+    path: files/1b/7d/1b7dc86abc2b05780b60ff686af54c13b7145e0fd6fae4ffa14b67636ff7d7ba/original.tif
+    sha256: 1b7dc86abc2b05780b60ff686af54c13b7145e0fd6fae4ffa14b67636ff7d7ba
+    mime: image/tiff
+    bytes: 1951728
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1b/7d/1b7dc86abc2b05780b60ff686af54c13b7145e0fd6fae4ffa14b67636ff7d7ba/preview-400.51ac018e3773.jpg
+        sha256: 51ac018e37734af2737dc0252b577082ae9f0d93e44538e4da23a2efe3494bc6
+        mime: image/jpeg
+        bytes: 53455
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

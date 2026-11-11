@@ -1,0 +1,29 @@
+id: 01FPV5GJ6CTGXH0W3JB9KR2JK8
+type: image
+subtype: plan
+title: Bauplan Schlachterei 1819
+date: 1819-08
+location: Brünkendorf, Molkerei
+parents:
+  - 01KY67T3MSFRGXDQ3PZ5V1DRZF
+  - 01GWFE0FE3S612EGDSN47NZK4B
+files:
+  - role: main
+    original_name: scan_784.tif
+    path: files/dc/67/dc67bb32ce36400054316770dc00bba165c39ed0ae77f262c555437ab2bfb519/original.tif
+    sha256: dc67bb32ce36400054316770dc00bba165c39ed0ae77f262c555437ab2bfb519
+    mime: image/tiff
+    bytes: 27427682
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/67/dc67bb32ce36400054316770dc00bba165c39ed0ae77f262c555437ab2bfb519/preview-400.93743346e85c.jpg
+        sha256: 93743346e85c75036523e89182b8ae5c4e2a041387f6d79a4adb7ae1eb7874d6
+        mime: image/jpeg
+        bytes: 87853
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

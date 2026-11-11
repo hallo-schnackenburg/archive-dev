@@ -1,0 +1,41 @@
+id: 01HRANXEF8SFRT7FBN12E16EC3
+type: image
+subtype: print
+title: "Holzschnitt: Konfirmation, Arendsee"
+description: Lithographie, Rand beschnitten.
+date: 1768-11-18
+location: Bömenzien, Fährstraße
+origin:
+  name: Wilhelm Schulz
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Fritz Wegner
+    type: person
+  - name: Erika Brandt
+    type: person
+parents:
+  - 01F88NE4NP6MTSKBG15MEZQEXV
+  - 01JP5EBH2JPHYSX1ABKRA99Q8F
+files:
+  - role: main
+    original_name: scan_217.tif
+    path: files/01/47/0147381b45a52babb4b7a42faf3add6afb805b5b10413ccb396cd27fe7ec39ba/original.tif
+    sha256: 0147381b45a52babb4b7a42faf3add6afb805b5b10413ccb396cd27fe7ec39ba
+    mime: image/tiff
+    bytes: 25098147
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/01/47/0147381b45a52babb4b7a42faf3add6afb805b5b10413ccb396cd27fe7ec39ba/preview-400.ce6b0679ccdd.jpg
+        sha256: ce6b0679ccdd8d36d3a49a16a584149e05ab76257f703ef0d8744b61b69480b0
+        mime: image/jpeg
+        bytes: 55933
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

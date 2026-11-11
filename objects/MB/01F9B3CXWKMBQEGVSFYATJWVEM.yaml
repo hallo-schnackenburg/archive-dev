@@ -1,0 +1,38 @@
+id: 01F9B3CXWKMBQEGVSFYATJWVEM
+type: image
+subtype: print
+title: Postkarte Gollensdorf, Windmühle
+date: "1906"
+origin:
+  name: Dieter Rieke
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Dömitz
+    type: place
+  - name: Eisgang 1906
+    type: event
+parents:
+  - 01GXXVEKH9A0GJR23K785W58NQ
+files:
+  - role: main
+    original_name: scan_122.tif
+    path: files/4f/16/4f168b06140ac2222cb645f41a6395246ad390c7eafa4c6a5a59f3f69ac1d103/original.tif
+    sha256: 4f168b06140ac2222cb645f41a6395246ad390c7eafa4c6a5a59f3f69ac1d103
+    mime: image/tiff
+    bytes: 12055599
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4f/16/4f168b06140ac2222cb645f41a6395246ad390c7eafa4c6a5a59f3f69ac1d103/preview-400.dfe80258ddef.jpg
+        sha256: dfe80258ddef53df2b8df220db9161901d827f3c40b3f97a8666c444df4f565c
+        mime: image/jpeg
+        bytes: 73082
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

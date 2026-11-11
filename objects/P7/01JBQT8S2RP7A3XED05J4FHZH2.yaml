@@ -1,0 +1,41 @@
+id: 01JBQT8S2RP7A3XED05J4FHZH2
+type: image
+subtype: plan
+title: Deichplan Schnackenburg bis Rüterberg
+date: 1868-07-22
+location: Arendsee, Kirchstraße
+original:
+  holder:
+    name: Familie Cohrs
+    type: person
+    location: Kapern
+  reference: F 40/330
+subjects:
+  - name: Grenzturm
+    type: building
+  - name: Dorffest 1868
+    type: event
+  - name: Einweihung 1868
+    type: event
+parents:
+  - 01HH950XB5366QVZP40SHBAM42
+files:
+  - role: main
+    original_name: scan_053.tif
+    path: files/40/0e/400e54be41b674de28766d15b6878a38ef64310d87e19249bbc8009129fc2650/original.tif
+    sha256: 400e54be41b674de28766d15b6878a38ef64310d87e19249bbc8009129fc2650
+    mime: image/tiff
+    bytes: 18674977
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/0e/400e54be41b674de28766d15b6878a38ef64310d87e19249bbc8009129fc2650/preview-400.b5081f84cd5a.jpg
+        sha256: b5081f84cd5aaa3f85e39796e84db14291ce042698ba707162d7a977a2952ac1
+        mime: image/jpeg
+        bytes: 77265
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,69 @@
+id: 01KZWC7JHE5KH5RWT1F79FVSJ2
+type: document
+subtype: letter
+title: Hans Garms an die Gemeinde wegen Straßenbeleuchtung
+description: Handschriftlich, 2 Seiten.
+date: 1794-03-16
+location: Kapern, Am Markt
+geocode:
+  lat: 53.0742
+  lon: 11.5725
+  precision: town
+  source: osm
+origin:
+  name: August Plate
+  type: person
+  location: Holtorf
+recipient: Karl Garms
+language: de
+subjects:
+  - name: Torhaus
+    type: building
+  - name: Cumlosen
+    type: place
+  - name: Lanz
+    type: place
+parents:
+  - 01HYMCFRJ492VAY6JD2NK5EJ56
+  - 01KCNQMHENJ8PAWGKRGSDX5HZ0
+files:
+  - role: page
+    num: 1
+    original_name: letter_9fvsj2_001.tif
+    path: files/9c/a3/9ca3072dff1c9bc8c29f2436614559f9e7585b80e6d1a3416f32db6b89b6911b/original.tif
+    sha256: 9ca3072dff1c9bc8c29f2436614559f9e7585b80e6d1a3416f32db6b89b6911b
+    mime: image/tiff
+    bytes: 6641631
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9c/a3/9ca3072dff1c9bc8c29f2436614559f9e7585b80e6d1a3416f32db6b89b6911b/preview-400.7b99c975f456.jpg
+        sha256: 7b99c975f45673020c4a4f25c95a3f76148405fc95e7d1617e32ca0989b56813
+        mime: image/jpeg
+        bytes: 34962
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_9fvsj2_002.tif
+    path: files/a5/c6/a5c69bba9df2e6c3ab21c449d99c85ac6d2b34171c7983c76eab509e07b79f39/original.tif
+    sha256: a5c69bba9df2e6c3ab21c449d99c85ac6d2b34171c7983c76eab509e07b79f39
+    mime: image/tiff
+    bytes: 16411198
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a5/c6/a5c69bba9df2e6c3ab21c449d99c85ac6d2b34171c7983c76eab509e07b79f39/preview-400.c0e6e5fc6e3c.jpg
+        sha256: c0e6e5fc6e3c67a4500cdc67d62507259493719048b7b19b24b7be7b3918faec
+        mime: image/jpeg
+        bytes: 70473
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

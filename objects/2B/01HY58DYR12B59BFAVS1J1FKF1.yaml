@@ -1,0 +1,35 @@
+id: 01HY58DYR12B59BFAVS1J1FKF1
+type: image
+subtype: drawing
+title: Entwurf für Försterei, Kapern
+description: Mit Anmerkungen am Rand.
+date: "1859"
+origin:
+  name: Heinz Schwarz
+  type: person
+  location: Kapern
+subjects:
+  - name: Försterei
+    type: building
+  - name: Wustrow
+    type: place
+files:
+  - role: main
+    original_name: scan_193.tif
+    path: files/bc/dd/bcdd1bd8d02c27dd86ae6237ab51f1e30a30858743f1fd0a3212eefc8129a584/original.tif
+    sha256: bcdd1bd8d02c27dd86ae6237ab51f1e30a30858743f1fd0a3212eefc8129a584
+    mime: image/tiff
+    bytes: 15730854
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/bc/dd/bcdd1bd8d02c27dd86ae6237ab51f1e30a30858743f1fd0a3212eefc8129a584/preview-400.768218e13eae.jpg
+        sha256: 768218e13eae9dc538e24e67eea701a14bc382ddb84b35ac3f1b7e7629e5060e
+        mime: image/jpeg
+        bytes: 25424
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

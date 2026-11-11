@@ -1,0 +1,39 @@
+id: 01J9WTWHABF1AEN89F4GT0MER3
+type: image
+subtype: plan
+title: Deichplan Havelberg bis Seedorf
+description: Mit handschriftlichen Ergänzungen.
+date: 189X
+location: Lanz, Storchennest
+geocode:
+  lat: 52.9104
+  lon: 11.4987
+  precision: exact
+  source: osm
+origin:
+  name: August Gaede
+  type: person
+  location: Kapern
+subjects:
+  - name: August Cohrs
+    type: person
+files:
+  - role: main
+    original_name: scan_543.tif
+    path: files/37/ef/37efe5b3770a7b5fa66e94507f60937c3b2f23e1aee7ee5f31e50e28d599799e/original.tif
+    sha256: 37efe5b3770a7b5fa66e94507f60937c3b2f23e1aee7ee5f31e50e28d599799e
+    mime: image/tiff
+    bytes: 10533402
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/37/ef/37efe5b3770a7b5fa66e94507f60937c3b2f23e1aee7ee5f31e50e28d599799e/preview-400.a9bc66f685d2.jpg
+        sha256: a9bc66f685d2270d05cb336c85a9f80dd275ba148c7d06f11cc51ec89ea14e72
+        mime: image/jpeg
+        bytes: 33783
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

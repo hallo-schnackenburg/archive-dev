@@ -1,0 +1,35 @@
+id: 01FS1S1KTA3ZTZETF1YK1PC90Q
+type: image
+subtype: print
+title: Lithographie Grenzturm, Schnackenburg
+origin:
+  name: Karl Wiegmann
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Restorf
+    type: place
+  - name: Ernst Gaede
+    type: person
+  - name: Einschulung 1937
+    type: event
+files:
+  - role: main
+    original_name: scan_759.tif
+    path: files/7d/7c/7d7c26ea38c4da72871f757b222d7c4a79f5ee3e4ab60e07facf233b3250e20b/original.tif
+    sha256: 7d7c26ea38c4da72871f757b222d7c4a79f5ee3e4ab60e07facf233b3250e20b
+    mime: image/tiff
+    bytes: 24448450
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/7d/7c/7d7c26ea38c4da72871f757b222d7c4a79f5ee3e4ab60e07facf233b3250e20b/preview-400.0028d4a89476.jpg
+        sha256: 0028d4a89476889d6a11d54cb63d48bd540d19dceb64ad3f013dc19cea77a5e6
+        mime: image/jpeg
+        bytes: 54886
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

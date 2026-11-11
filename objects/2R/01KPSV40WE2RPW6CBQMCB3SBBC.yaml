@@ -1,0 +1,41 @@
+id: 01KPSV40WE2RPW6CBQMCB3SBBC
+type: image
+subtype: print
+title: "Holzschnitt: Brückeneinweihung"
+description: Kupferstich, koloriert.
+date: 1701-11-11
+location: Wootz, Kriegerdenkmal
+geocode:
+  lat: 53.0536
+  lon: 11.533
+  precision: street
+  source: osm
+origin:
+  name: Horst Brandt
+  type: person
+  location: Laase
+subjects:
+  - name: Zadrau
+    type: place
+parents:
+  - 01H8EQS4AVFVXGT4V39H7JSKCS
+files:
+  - role: main
+    original_name: scan_867.tif
+    path: files/6e/4b/6e4b1e855688c4791e2f45d78f04e0f090d39772ebdbb494656a87ad0fbaddae/original.tif
+    sha256: 6e4b1e855688c4791e2f45d78f04e0f090d39772ebdbb494656a87ad0fbaddae
+    mime: image/tiff
+    bytes: 17785182
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/4b/6e4b1e855688c4791e2f45d78f04e0f090d39772ebdbb494656a87ad0fbaddae/preview-400.05bf7d07b7d0.jpg
+        sha256: 05bf7d07b7d07017411b1d0e462e0ecb185fc2a251457751ddcda4f24385ee1d
+        mime: image/jpeg
+        bytes: 22318
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

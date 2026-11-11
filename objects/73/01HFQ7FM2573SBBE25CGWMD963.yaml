@@ -1,0 +1,44 @@
+id: 01HFQ7FM2573SBBE25CGWMD963
+type: image
+subtype: photo
+title: Irmgard Lüders vor dem Schützenhaus
+description: Abzug im Format 13 x 18 cm.
+date: 2000?
+location: Laase, Am Markt
+geocode:
+  lat: 52.9528
+  lon: 11.5502
+  precision: region
+  source: osm
+origin:
+  name: Dieter Pape
+  type: person
+  location: Arendsee
+subjects:
+  - name: Gerda Harms
+    type: person
+  - name: Scheune
+    type: building
+parents:
+  - 01FX13NA4AT0PM3FBRV1XBR89T
+  - 01K4FGD1ECY3HP77BZASK6DQRW
+files:
+  - role: main
+    original_name: P4588.jpg
+    path: files/12/f9/12f9ff860929ee0145ce6e560120dc555dda11e8e55b11fa2088157ea61efeaa/original.jpg
+    sha256: 12f9ff860929ee0145ce6e560120dc555dda11e8e55b11fa2088157ea61efeaa
+    mime: image/jpeg
+    bytes: 6701204
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/12/f9/12f9ff860929ee0145ce6e560120dc555dda11e8e55b11fa2088157ea61efeaa/preview-400.5dc3bf187103.jpg
+        sha256: 5dc3bf187103fa15e1e3eec9ea1c32c45a8808ad8ad67d0bbcc0fc691d70c829
+        mime: image/jpeg
+        bytes: 88688
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

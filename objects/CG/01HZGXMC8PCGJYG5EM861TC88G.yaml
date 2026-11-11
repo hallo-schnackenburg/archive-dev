@@ -1,0 +1,61 @@
+id: 01HZGXMC8PCGJYG5EM861TC88G
+type: document
+subtype: note
+title: Rechnung Bohlmann, Rathaus
+date: 1920-11-03
+location: Brünkendorf, Zollamt
+origin:
+  name: Walter Ludolf
+  type: person
+  location: Cumlosen
+language: de
+subjects:
+  - name: Hans Mahnke
+    type: person
+  - name: Dorffest 1920
+    type: event
+  - name: Konfirmation 1920
+    type: event
+parents:
+  - 01GV9GBAAY8D1BK0CQF82R0YYD
+files:
+  - role: page
+    num: 1
+    original_name: note_1tc88g_001.tif
+    path: files/bc/b4/bcb4f7414e418e56202020c1324ecbeb8ffe2c8b9d57573670603f12d069f5a7/original.tif
+    sha256: bcb4f7414e418e56202020c1324ecbeb8ffe2c8b9d57573670603f12d069f5a7
+    mime: image/tiff
+    bytes: 18133984
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bc/b4/bcb4f7414e418e56202020c1324ecbeb8ffe2c8b9d57573670603f12d069f5a7/preview-400.4fad9a1aa29a.jpg
+        sha256: 4fad9a1aa29a670c44e4d64fa17a6685f1d12ed7d8995a470d86bd6852d9fb07
+        mime: image/jpeg
+        bytes: 84713
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_1tc88g_002.tif
+    path: files/53/12/5312e37548891e951c714f95414ac473f757b5c61aa95d602d280415f707ee1c/original.tif
+    sha256: 5312e37548891e951c714f95414ac473f757b5c61aa95d602d280415f707ee1c
+    mime: image/tiff
+    bytes: 18675297
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/53/12/5312e37548891e951c714f95414ac473f757b5c61aa95d602d280415f707ee1c/preview-400.6957ee1841ea.jpg
+        sha256: 6957ee1841ea4516d7ee0b04c11af51f8a91e892e2a2b72e9d8c08ad78f8c1eb
+        mime: image/jpeg
+        bytes: 25450
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01J5AW374R3KFE93G7AFE1SVDJ
+type: image
+subtype: print
+title: Lithographie Försterei
+date: 1748~
+location: Restorf, Feuerwehrhaus
+geocode:
+  lat: 53.035
+  lon: 11.6935
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Tiedemann
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Schützenfest 1748
+    type: event
+files:
+  - role: main
+    original_name: scan_337.tif
+    path: files/40/f0/40f0b33bdeffb53e1733b64d8f7f9d70b6e164a941eb3281bc8c36b6605a85d5/original.tif
+    sha256: 40f0b33bdeffb53e1733b64d8f7f9d70b6e164a941eb3281bc8c36b6605a85d5
+    mime: image/tiff
+    bytes: 12473062
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/40/f0/40f0b33bdeffb53e1733b64d8f7f9d70b6e164a941eb3281bc8c36b6605a85d5/preview-400.84004060d81e.jpg
+        sha256: 84004060d81e8b2975bb2008d5d4280ab881db085956d6c74bba4330f2776d0f
+        mime: image/jpeg
+        bytes: 62639
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

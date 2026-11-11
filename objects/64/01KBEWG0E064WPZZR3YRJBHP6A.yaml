@@ -1,0 +1,42 @@
+id: 01KBEWG0E064WPZZR3YRJBHP6A
+type: image
+subtype: print
+title: Ansichtskarte Bahnhofstraße, Pretzier
+description: Kupferstich, koloriert.
+date: 1784-12-05
+location: Schnackenburg, Gartenstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 35/255
+subjects:
+  - name: Gerda Tiedemann
+    type: person
+  - name: Berta Hennings
+    type: person
+  - name: Fritz Ahrens
+    type: person
+parents:
+  - 01KGHR1E94X26ENFVH4J79T0CP
+files:
+  - role: main
+    original_name: scan_177.tif
+    path: files/3f/96/3f96ebda9f00af9e545a5c272e12f8fd19b040d41d41e20a606a44f6a712168f/original.tif
+    sha256: 3f96ebda9f00af9e545a5c272e12f8fd19b040d41d41e20a606a44f6a712168f
+    mime: image/tiff
+    bytes: 9092636
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3f/96/3f96ebda9f00af9e545a5c272e12f8fd19b040d41d41e20a606a44f6a712168f/preview-400.67ef2d375035.jpg
+        sha256: 67ef2d375035b658eab8fdc0f9bb0083cfe59431f15b29f38f028d59ff8d1fe8
+        mime: image/jpeg
+        bytes: 82564
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

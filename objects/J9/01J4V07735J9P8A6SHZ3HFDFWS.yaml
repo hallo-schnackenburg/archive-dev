@@ -1,0 +1,39 @@
+id: 01J4V07735J9P8A6SHZ3HFDFWS
+type: image
+subtype: photo
+title: Ziegelei nach dem Weihnachtsmarkt
+description: Aufnahme von Anni Lemke.
+date: 197X
+location: Restorf, Schulstraße
+geocode:
+  lat: 53.0437
+  lon: 11.5322
+  precision: region
+  source: osm
+origin:
+  name: Otto Lemke
+  type: person
+  location: Wittenberge
+parents:
+  - 01JP5EBH2JPHYSX1ABKRA99Q8F
+  - 01GKS14MYNZ2SH5MPVMV8DY5ZA
+files:
+  - role: main
+    original_name: DSC0758.jpg
+    path: files/1d/c0/1dc0db13af965430abf10a3c7ac8289f3a10fb627f4383521bd8ab786b65dfef/original.jpg
+    sha256: 1dc0db13af965430abf10a3c7ac8289f3a10fb627f4383521bd8ab786b65dfef
+    mime: image/jpeg
+    bytes: 7850063
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/1d/c0/1dc0db13af965430abf10a3c7ac8289f3a10fb627f4383521bd8ab786b65dfef/preview-400.04994201a8c7.jpg
+        sha256: 04994201a8c7751bebec276aabf8946dc953a149a9a1e31155eb5b044535541e
+        mime: image/jpeg
+        bytes: 40101
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

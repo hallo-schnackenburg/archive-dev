@@ -1,0 +1,36 @@
+id: 01J8EVBCR42S5BZZJ2JX44AN7M
+type: image
+subtype: drawing
+title: Federzeichnung Kaufmannshaus, Wootz
+description: Bleistift auf Papier.
+date: 1966-04-25
+location: Nienwalde, Burgstraße
+geocode:
+  lat: 53.014
+  lon: 11.4937
+  precision: region
+  source: osm
+origin:
+  name: Lotte Meyer
+  type: person
+  location: Kapern
+files:
+  - role: main
+    original_name: scan_987.tif
+    path: files/9d/09/9d09d87cf9e88c2edd77f6e28f2e2b273430716d1ef0cedcbf3fe68565ba3836/original.tif
+    sha256: 9d09d87cf9e88c2edd77f6e28f2e2b273430716d1ef0cedcbf3fe68565ba3836
+    mime: image/tiff
+    bytes: 26329968
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/9d/09/9d09d87cf9e88c2edd77f6e28f2e2b273430716d1ef0cedcbf3fe68565ba3836/preview-400.d5496d0eeae6.jpg
+        sha256: d5496d0eeae6404740d280babb8080b46115bc1fc39ec4188552381502c7fa43
+        mime: image/jpeg
+        bytes: 26096
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

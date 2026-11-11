@@ -1,0 +1,45 @@
+id: 01JD2K0MKJPGF0K6H3DH5KJSZ1
+type: image
+subtype: photo
+title: Tischlerei Bruns nach dem Konfirmation
+description: Farbfoto, leicht verblasst.
+date: "1956"
+location: Lanz, Dorfstraße
+geocode:
+  lat: 53.0044
+  lon: 11.6889
+  precision: region
+  source: osm
+origin:
+  name: Rudolf Plate
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Heinrich Wiegmann
+    type: person
+  - name: Dieter Bohlmann
+    type: person
+  - name: Walter Voss
+    type: person
+parents:
+  - 01GBKP0DZ4S8BGQ19AMQB61K54
+files:
+  - role: main
+    original_name: scan_645.tif
+    path: files/53/32/533232c370ae148a0514b58f04a3e6f684eab3f0dedf20950da1c5460fc94d00/original.tif
+    sha256: 533232c370ae148a0514b58f04a3e6f684eab3f0dedf20950da1c5460fc94d00
+    mime: image/tiff
+    bytes: 7057992
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/53/32/533232c370ae148a0514b58f04a3e6f684eab3f0dedf20950da1c5460fc94d00/preview-400.826c9a2c471e.jpg
+        sha256: 826c9a2c471ecd34a03ad562c76f1d418238e0b15bacf783368df76aa8b82d75
+        mime: image/jpeg
+        bytes: 77905
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

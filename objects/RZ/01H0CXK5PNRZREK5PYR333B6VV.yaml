@@ -1,0 +1,32 @@
+id: 01H0CXK5PNRZREK5PYR333B6VV
+type: image
+subtype: plan
+title: Deichplan Gollensdorf bis Zadrau
+description: Maßstab 1:250.
+date: "1755"
+location: Gorleben, Pumpenhaus
+geocode:
+  lat: 52.9277
+  lon: 11.6427
+  precision: street
+  source: osm
+files:
+  - role: main
+    original_name: scan_514.tif
+    path: files/87/23/87230e4345a203d441563b722e1405fdbbf821d4c421c4c978088403e7e6bfee/original.tif
+    sha256: 87230e4345a203d441563b722e1405fdbbf821d4c421c4c978088403e7e6bfee
+    mime: image/tiff
+    bytes: 8805972
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/87/23/87230e4345a203d441563b722e1405fdbbf821d4c421c4c978088403e7e6bfee/preview-400.c6ea7f7a9b8c.jpg
+        sha256: c6ea7f7a9b8cb0f1d09342a1d3a7fa52a0ab898688ad070981ca69236ce0b6bc
+        mime: image/jpeg
+        bytes: 85030
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

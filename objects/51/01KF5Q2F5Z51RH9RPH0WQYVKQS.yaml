@@ -1,0 +1,38 @@
+id: 01KF5Q2F5Z51RH9RPH0WQYVKQS
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Kirmes, Zadrau"
+location: Bömenzien, Badestelle
+origin:
+  name: Hans Dierks
+  type: person
+  location: Restorf
+subjects:
+  - name: Kirmes 1857
+    type: event
+  - name: Wittenberge
+    type: place
+  - name: Schützenhaus
+    type: building
+parents:
+  - 01J8GJHXRZG3WKWHP1C2HPX9G9
+files:
+  - role: main
+    original_name: scan_409.tif
+    path: files/3b/d2/3bd29fe5f5f5ec069d4954ad868182b4eb2e1d5aac341094afbe30c9e740aa33/original.tif
+    sha256: 3bd29fe5f5f5ec069d4954ad868182b4eb2e1d5aac341094afbe30c9e740aa33
+    mime: image/tiff
+    bytes: 21328686
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3b/d2/3bd29fe5f5f5ec069d4954ad868182b4eb2e1d5aac341094afbe30c9e740aa33/preview-400.3338f361c800.jpg
+        sha256: 3338f361c8008c85d87ff1a8d26e0aa0a573f513ce5fa91bdb3806818a43d660
+        mime: image/jpeg
+        bytes: 37388
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

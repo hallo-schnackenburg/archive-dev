@@ -1,0 +1,43 @@
+id: 01H0CKHWYBBTPV9M4EN8P6SWD1
+type: image
+subtype: plan
+title: Lageplan Scheune
+description: Tusche auf Transparentpapier.
+date: 1982-01
+location: Gartow, Lange Straße
+geocode:
+  lat: 53.0242
+  lon: 11.4631
+  precision: exact
+  source: osm
+origin:
+  name: Emma Lüders
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Backhaus
+    type: building
+  - name: Helga Nitschke
+    type: person
+  - name: Elbdeich
+    type: building
+files:
+  - role: main
+    original_name: scan_099.tif
+    path: files/67/3c/673cae62c504e17073c0b841e8b2c2c5ac1d64e71c1ac07d0b4d6bebc5402137/original.tif
+    sha256: 673cae62c504e17073c0b841e8b2c2c5ac1d64e71c1ac07d0b4d6bebc5402137
+    mime: image/tiff
+    bytes: 13531290
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/67/3c/673cae62c504e17073c0b841e8b2c2c5ac1d64e71c1ac07d0b4d6bebc5402137/preview-400.418c7bbdc363.jpg
+        sha256: 418c7bbdc3637d2ba3e7cfe8c102f97bad65d1dc21638202d17112ab362e8bb6
+        mime: image/jpeg
+        bytes: 70091
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

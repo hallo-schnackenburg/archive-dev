@@ -1,0 +1,42 @@
+id: 01HD1EY3J344756WSRXCS6D2ZT
+type: image
+subtype: drawing
+title: Skizze Brünkendorf, Dorfstraße, Brünkendorf
+description: Mit Anmerkungen am Rand.
+date: 1853/1854
+location: Gartow, Pfarrhaus
+geocode:
+  lat: 52.9241
+  lon: 11.5565
+  precision: street
+  source: osm
+origin:
+  name: Otto Garms
+  type: person
+  location: Zadrau
+subjects:
+  - name: Friedhofskapelle
+    type: building
+parents:
+  - 01KYY4CVMJ2SF598S69P8F19XE
+  - 01KX0R6PE6GGZKHT99TAR1XJN4
+files:
+  - role: main
+    original_name: scan_293.tif
+    path: files/72/32/7232bcc2564be1a9cf9b5f1f8f46dadc085e55021fb91dd5f36748ede87255ce/original.tif
+    sha256: 7232bcc2564be1a9cf9b5f1f8f46dadc085e55021fb91dd5f36748ede87255ce
+    mime: image/tiff
+    bytes: 14791762
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/72/32/7232bcc2564be1a9cf9b5f1f8f46dadc085e55021fb91dd5f36748ede87255ce/preview-400.9a5a9af5b7f6.jpg
+        sha256: 9a5a9af5b7f68556b4e2b267b5e9e0ee298469814e2046906ce9a7a259373d00
+        mime: image/jpeg
+        bytes: 85519
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

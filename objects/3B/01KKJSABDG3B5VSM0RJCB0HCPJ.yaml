@@ -1,0 +1,35 @@
+id: 01KKJSABDG3B5VSM0RJCB0HCPJ
+type: image
+subtype: print
+title: Postkarte Wittenberge, Pumpenhaus
+description: Kupferstich, koloriert.
+date: 1746~
+location: Lüchow, Lange Straße
+subjects:
+  - name: Helga Detlefs
+    type: person
+  - name: Torhaus
+    type: building
+parents:
+  - 01KSRA45MY62RRCYWKV46WYHC3
+  - 01FX13NA4AT0PM3FBRV1XBR89T
+files:
+  - role: main
+    original_name: scan_050.tif
+    path: files/fe/cb/fecb211d61c5ac719fe81b79a479332a07abfaf2fffdeb3fa6c7121281ef505f/original.tif
+    sha256: fecb211d61c5ac719fe81b79a479332a07abfaf2fffdeb3fa6c7121281ef505f
+    mime: image/tiff
+    bytes: 15216355
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fe/cb/fecb211d61c5ac719fe81b79a479332a07abfaf2fffdeb3fa6c7121281ef505f/preview-400.67fc8205c293.jpg
+        sha256: 67fc8205c293eaf4198b64a7840fb9d0a9f82ed5be22c3fa264a380be0930257
+        mime: image/jpeg
+        bytes: 36770
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01HWA2VC9JHJTZF4XN9C62EP2K
+type: image
+subtype: photo
+title: Wilhelm Voss vor dem Försterei
+date: 1902/1906
+location: Havelberg, Mühlenweg
+geocode:
+  lat: 53.0373
+  lon: 11.5197
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Mappe 27/101
+subjects:
+  - name: Marta Brandt
+    type: person
+parents:
+  - 01H5HMCYV3GS9H3ZBJZMHBTPJV
+files:
+  - role: main
+    original_name: P0456.jpg
+    path: files/06/f0/06f01942e7529ff221404d6e8b18368209b596d6129d5124bc154f8dc42a48a4/original.jpg
+    sha256: 06f01942e7529ff221404d6e8b18368209b596d6129d5124bc154f8dc42a48a4
+    mime: image/jpeg
+    bytes: 26358977
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/06/f0/06f01942e7529ff221404d6e8b18368209b596d6129d5124bc154f8dc42a48a4/preview-400.ff883b041027.jpg
+        sha256: ff883b0410279eb4f7fb8cbf544b85f48fdc725a229c5292e86a60ff8ec1a7c5
+        mime: image/jpeg
+        bytes: 35536
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

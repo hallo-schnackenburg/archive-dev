@@ -1,0 +1,37 @@
+id: 01M1X0NDH70N4XTKCVQWC6BTEP
+type: image
+subtype: plan
+title: Deichplan Hitzacker bis Wustrow
+date: 1843-04
+location: Restorf, Dorfstraße
+origin:
+  name: Marta Brandt
+  type: person
+  location: Gartow
+subjects:
+  - name: Grenzöffnung 1843
+    type: event
+  - name: Zadrau
+    type: place
+parents:
+  - 01FW1Z22ADA66X2V6627E3G693
+files:
+  - role: main
+    original_name: scan_141.tif
+    path: files/ea/d3/ead310283b22b7fa8b044e0c1939cb4b90fecef4f95ba3ac732bb90d98ce5ad0/original.tif
+    sha256: ead310283b22b7fa8b044e0c1939cb4b90fecef4f95ba3ac732bb90d98ce5ad0
+    mime: image/tiff
+    bytes: 24388910
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ea/d3/ead310283b22b7fa8b044e0c1939cb4b90fecef4f95ba3ac732bb90d98ce5ad0/preview-400.cf75610068d4.jpg
+        sha256: cf75610068d4e46919276fdcc46ed9b1eafeb4cf9973c6b48ceaea0b0bba1c01
+        mime: image/jpeg
+        bytes: 63521
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01EWSBT7Y19EHXQMFDCVF7F194
+type: image
+subtype: photo
+title: Heinrich Pape, Porträt
+date: 1915-03-23
+location: Dömitz, Hinter den Höfen
+origin:
+  name: Karl Schwarz
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: August Jeß
+    type: person
+  - name: Kirmes 1915
+    type: event
+parents:
+  - 01J1F26G843KSNYD4G1QK36C01
+  - 01KQE2MVHCH023HXPRAKNXXJ2W
+files:
+  - role: main
+    original_name: scan_864.tif
+    path: files/2a/4a/2a4a06e5bf8cfcf5be3dab4a1693092ac272cfcf6e77398d36419367df036c05/original.tif
+    sha256: 2a4a06e5bf8cfcf5be3dab4a1693092ac272cfcf6e77398d36419367df036c05
+    mime: image/tiff
+    bytes: 5328380
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2a/4a/2a4a06e5bf8cfcf5be3dab4a1693092ac272cfcf6e77398d36419367df036c05/preview-400.cb1cb638de9b.jpg
+        sha256: cb1cb638de9b2bf28b31908abaf52364ecf1d52178174356756dad1d04e3a0df
+        mime: image/jpeg
+        bytes: 49243
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

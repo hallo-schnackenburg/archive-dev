@@ -1,0 +1,51 @@
+id: 01KTSW6T98R72ZT8JA7FA72HYZ
+type: image
+subtype: photo
+title: Ilse Lemke vor dem Pfarrhaus
+description: Zu sehen sind Windmühle und Gasthof „Zur Elbe“.
+date: 1913-07
+location: Wootz, Deichstraße
+geocode:
+  lat: 52.9649
+  lon: 11.5174
+  precision: exact
+  source: osm
+origin:
+  name: Gustav Schwarz
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Fotos/Mappe 15/042
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Schützenhaus
+    type: building
+  - name: Dieter Harms
+    type: person
+parents:
+  - 01KSS5WSKYD8DQE3452TFH91F6
+files:
+  - role: main
+    original_name: IMG_5769.jpg
+    path: files/4c/61/4c619e8c6172567b7cb30de44c6f3d8ecd79b6ea2fc5e7fc430b333882842e29/original.jpg
+    sha256: 4c619e8c6172567b7cb30de44c6f3d8ecd79b6ea2fc5e7fc430b333882842e29
+    mime: image/jpeg
+    bytes: 20249358
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4c/61/4c619e8c6172567b7cb30de44c6f3d8ecd79b6ea2fc5e7fc430b333882842e29/preview-400.59170087d1c2.jpg
+        sha256: 59170087d1c2a4bef8905894308c6cc49fc6840d48489e25f6c90a1bf0decc65
+        mime: image/jpeg
+        bytes: 35210
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

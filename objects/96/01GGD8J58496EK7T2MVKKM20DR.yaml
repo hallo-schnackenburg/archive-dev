@@ -1,0 +1,40 @@
+id: 01GGD8J58496EK7T2MVKKM20DR
+type: image
+subtype: plan
+title: Deichplan Zadrau bis Salzwedel
+date: 1923-08-16
+origin:
+  name: Marta Krüger
+  type: person
+  location: Rüterberg
+owner:
+  name: Bernd Wiese
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Försterei
+    type: building
+parents:
+  - 01EW7Y4DK0MKNT73TY4DDY8AY7
+files:
+  - role: main
+    original_name: scan_327.tif
+    path: files/c8/5f/c85f057b9773a22c52d65c0dc9b9bd553e158c0a9709f5d917c86b0185413c24/original.tif
+    sha256: c85f057b9773a22c52d65c0dc9b9bd553e158c0a9709f5d917c86b0185413c24
+    mime: image/tiff
+    bytes: 15234819
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/5f/c85f057b9773a22c52d65c0dc9b9bd553e158c0a9709f5d917c86b0185413c24/preview-400.2afecf30ecab.jpg
+        sha256: 2afecf30ecab64ee35b2d96579a5ab7c5636f39d57fa1182043d6e4fb1b1d2d2
+        mime: image/jpeg
+        bytes: 72002
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

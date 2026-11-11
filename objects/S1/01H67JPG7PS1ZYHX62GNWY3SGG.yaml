@@ -1,0 +1,32 @@
+id: 01H67JPG7PS1ZYHX62GNWY3SGG
+type: image
+subtype: print
+title: Gruß aus Gülden, Seedorf
+date: "1701"
+location: Brünkendorf, Hinter den Höfen
+origin:
+  name: Rudolf Kuhlmann
+  type: person
+  location: Arendsee
+parents:
+  - 01JGKVZV6PYRTQW3JF5XVEVJGR
+files:
+  - role: main
+    original_name: scan_600.tif
+    path: files/06/d2/06d2cf16d02293c0c2ed588bc223e1d8238da44ac97ec702b68bc5c0a7e9adf8/original.tif
+    sha256: 06d2cf16d02293c0c2ed588bc223e1d8238da44ac97ec702b68bc5c0a7e9adf8
+    mime: image/tiff
+    bytes: 16521683
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/06/d2/06d2cf16d02293c0c2ed588bc223e1d8238da44ac97ec702b68bc5c0a7e9adf8/preview-400.503d8f68468c.jpg
+        sha256: 503d8f68468cb1827ea9201e18f87443ba87ade37f879f5bce1d0b586b150076
+        mime: image/jpeg
+        bytes: 85054
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01KN166P7CK6ZSSHA6Y9KMZE99
+type: image
+subtype: photo
+title: Friedrich Rohde vor dem Fachwerkhaus Marktstraße 4
+description: Farbfoto, leicht verblasst.
+origin:
+  name: Heinrich Matthies
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 23/116
+  note: Regal 1
+subjects:
+  - name: Speicher
+    type: building
+  - name: Gartow
+    type: place
+parents:
+  - 01HRVYM45E9Q1MV4SZNSP2VQV9
+files:
+  - role: main
+    original_name: scan_128.tif
+    path: files/ae/db/aedbb203da021c3f4de25ff2a40f2c35d32017e01e4af6a4779d1fb1b26d7bc5/original.tif
+    sha256: aedbb203da021c3f4de25ff2a40f2c35d32017e01e4af6a4779d1fb1b26d7bc5
+    mime: image/tiff
+    bytes: 6207303
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ae/db/aedbb203da021c3f4de25ff2a40f2c35d32017e01e4af6a4779d1fb1b26d7bc5/preview-400.0f06bf71a26d.jpg
+        sha256: 0f06bf71a26d4ef8a046d303e3c2547624b17c79985227571f002deddc2a6899
+        mime: image/jpeg
+        bytes: 82549
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

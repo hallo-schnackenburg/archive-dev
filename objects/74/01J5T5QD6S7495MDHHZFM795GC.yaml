@@ -1,0 +1,67 @@
+id: 01J5T5QD6S7495MDHHZFM795GC
+type: document
+subtype: letter
+title: Zeugnis für Ilse Schulz
+description: Mit Umschlag und Briefmarke.
+date: 1942-01-15
+location: Nienwalde, Am Markt
+origin:
+  name: Marta Bruns
+  type: person
+  location: Havelberg
+recipient: Heinrich Lüders
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Album 1/055
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Dömitz
+    type: place
+parents:
+  - 01GKCFCDVMB3D019HAA4A20JFD
+  - 01HEN36GX2JVN3M54R3NSB7YJF
+files:
+  - role: page
+    num: 1
+    original_name: letter_m795gc_001.tif
+    path: files/b4/7f/b47f63d3ecb94f0bdf983fda4f92c44030b4e245a88723ac3d0768c352fd4795/original.tif
+    sha256: b47f63d3ecb94f0bdf983fda4f92c44030b4e245a88723ac3d0768c352fd4795
+    mime: image/tiff
+    bytes: 6038291
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/7f/b47f63d3ecb94f0bdf983fda4f92c44030b4e245a88723ac3d0768c352fd4795/preview-400.497a9c1bcc91.jpg
+        sha256: 497a9c1bcc9187c1a831b78a00e29de768fc5ac1cda1f32f0ccf4239e63cce23
+        mime: image/jpeg
+        bytes: 75842
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_m795gc_002.tif
+    path: files/a4/1d/a41d97fc250ae62eb687022ef2c772aba11798d1a2aa4a2758d006f030c3cb79/original.tif
+    sha256: a41d97fc250ae62eb687022ef2c772aba11798d1a2aa4a2758d006f030c3cb79
+    mime: image/tiff
+    bytes: 25972851
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a4/1d/a41d97fc250ae62eb687022ef2c772aba11798d1a2aa4a2758d006f030c3cb79/preview-400.df2604935d48.jpg
+        sha256: df2604935d485be444a549feaf4da30fa07a8e95e0a8d855a0433b2fc070cd24
+        mime: image/jpeg
+        bytes: 52422
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

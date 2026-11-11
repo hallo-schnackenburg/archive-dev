@@ -1,0 +1,56 @@
+id: 01GCJH0QYZ54H600JCDSHBWGDG
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Spielmannszug 1871
+description: Handschriftlich in Sütterlin.
+date: 1871-05
+location: Pretzier, Gasthof „Zur Elbe“
+origin:
+  name: Gemeinderat Wootz
+  type: business
+  location: Wustrow
+language: de
+subjects:
+  - name: Havelberg
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: protocol_hbwgdg_001.tif
+    path: files/71/af/71afd17e3201a0cea0a353f5add6f7408e2e3b2340ca5ff2b2c2511953983f35/original.tif
+    sha256: 71afd17e3201a0cea0a353f5add6f7408e2e3b2340ca5ff2b2c2511953983f35
+    mime: image/tiff
+    bytes: 5255095
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/71/af/71afd17e3201a0cea0a353f5add6f7408e2e3b2340ca5ff2b2c2511953983f35/preview-400.bd8073986f1c.jpg
+        sha256: bd8073986f1c31f8d14de53cc123391950b4fc10f84c42474a77e38ef47d4140
+        mime: image/jpeg
+        bytes: 64838
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_hbwgdg_002.tif
+    path: files/28/0c/280c47a8d108273e18e5814d6d27f6cd571081eed64f2014f086e9304c4eb60e/original.tif
+    sha256: 280c47a8d108273e18e5814d6d27f6cd571081eed64f2014f086e9304c4eb60e
+    mime: image/tiff
+    bytes: 21680245
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/28/0c/280c47a8d108273e18e5814d6d27f6cd571081eed64f2014f086e9304c4eb60e/preview-400.04bd01223eb0.jpg
+        sha256: 04bd01223eb009cbd83954a41d8e3e80eeb63a1c3034ab3df64824517523fa1a
+        mime: image/jpeg
+        bytes: 79133
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

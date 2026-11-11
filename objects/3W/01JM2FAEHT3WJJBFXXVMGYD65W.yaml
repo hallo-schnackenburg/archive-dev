@@ -1,0 +1,43 @@
+id: 01JM2FAEHT3WJJBFXXVMGYD65W
+type: image
+subtype: plan
+title: Bauplan Schmiede 2000
+date: "2000"
+location: Wootz, Burgstraße
+origin:
+  name: Heinrich Schulz
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 27/090
+  note: Regal 4, Kiste 2
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4069
+subjects:
+  - name: Irmgard Brandt
+    type: person
+parents:
+  - 01F0XSSMANGM9PNX5YW1P1YTG6
+files:
+  - role: main
+    original_name: scan_831.tif
+    path: files/61/7d/617db3eb00a9ba5ab31275fc57ff840b67c9bb62811d0c4ced514f70ffe0a088/original.tif
+    sha256: 617db3eb00a9ba5ab31275fc57ff840b67c9bb62811d0c4ced514f70ffe0a088
+    mime: image/tiff
+    bytes: 14945141
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/61/7d/617db3eb00a9ba5ab31275fc57ff840b67c9bb62811d0c4ced514f70ffe0a088/preview-400.c59af67586c6.jpg
+        sha256: c59af67586c6d558695ba953e8ce04eabd4a2e84b628c0e395eb61c1ab2a4c65
+        mime: image/jpeg
+        bytes: 66779
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

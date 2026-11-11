@@ -1,0 +1,34 @@
+id: 01F8726S70SVM1JV1Q9FFWE7DJ
+type: image
+subtype: plan
+title: Bauplan Fähranleger 1929
+description: Tusche auf Transparentpapier.
+date: "1929"
+location: Gollensdorf, Dorfschule
+origin:
+  name: Ilse Dreyer
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Dorfteich
+    type: building
+files:
+  - role: main
+    original_name: scan_896.tif
+    path: files/e6/ab/e6ab275e5e7e81773f08b61e6e73032e0fe5252bba134d58c8c252c0d919d47e/original.tif
+    sha256: e6ab275e5e7e81773f08b61e6e73032e0fe5252bba134d58c8c252c0d919d47e
+    mime: image/tiff
+    bytes: 3752239
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e6/ab/e6ab275e5e7e81773f08b61e6e73032e0fe5252bba134d58c8c252c0d919d47e/preview-400.f17652b0a0e5.jpg
+        sha256: f17652b0a0e5b442dbd32f2d78fb9300a3d4d4c10e1c38b5f836210be277eca4
+        mime: image/jpeg
+        bytes: 39537
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

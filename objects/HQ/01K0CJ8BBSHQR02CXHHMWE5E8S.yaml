@@ -1,0 +1,39 @@
+id: 01K0CJ8BBSHQR02CXHHMWE5E8S
+type: image
+subtype: plan
+title: Flurkarte Hitzacker
+description: Maßstab 1:100.
+date: 1855/1857
+origin:
+  name: Hans Krüger
+  type: person
+  location: Salzwedel
+owner:
+  name: Heinrich Bohlmann
+  type: person
+  note: Nachlass
+subjects:
+  - name: Einschulung 1855
+    type: event
+parents:
+  - 01F9YMN9D3JJVF02Y68XA8TP10
+files:
+  - role: main
+    original_name: scan_796.tif
+    path: files/f2/ba/f2ba32c0b41abe290d94fe0111c407ecfb5dcbdacc00c13fff8f22b68e8fff10/original.tif
+    sha256: f2ba32c0b41abe290d94fe0111c407ecfb5dcbdacc00c13fff8f22b68e8fff10
+    mime: image/tiff
+    bytes: 12495562
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f2/ba/f2ba32c0b41abe290d94fe0111c407ecfb5dcbdacc00c13fff8f22b68e8fff10/preview-400.364c826a8c6f.jpg
+        sha256: 364c826a8c6f8cf9f24cde0454522af5312a0beb01f97c6b973497a02ef9c2ff
+        mime: image/jpeg
+        bytes: 65182
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

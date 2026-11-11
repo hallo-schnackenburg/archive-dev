@@ -1,0 +1,45 @@
+id: 01K79FYSH76AXJHXM6FHEDBMXK
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Konfirmation, Havelberg"
+description: Federzeichnung, laviert.
+date: 1892/1904
+location: Seedorf, Marktstraße
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 28/343
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v99298
+subjects:
+  - name: Konfirmation 1892
+    type: event
+  - name: Fährjubiläum 1892
+    type: event
+  - name: Grenzöffnung 1892
+    type: event
+files:
+  - role: main
+    original_name: scan_282.tif
+    path: files/64/de/64ded383eae2c7edb31d61b32a893f95f389d673b97908e7370aba016714ec52/original.tif
+    sha256: 64ded383eae2c7edb31d61b32a893f95f389d673b97908e7370aba016714ec52
+    mime: image/tiff
+    bytes: 12482143
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/64/de/64ded383eae2c7edb31d61b32a893f95f389d673b97908e7370aba016714ec52/preview-400.f76b6aa24a68.jpg
+        sha256: f76b6aa24a6890b2fd80494abc0867b815c46c1f2478ccc168a0b5222ed1e008
+        mime: image/jpeg
+        bytes: 39833
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

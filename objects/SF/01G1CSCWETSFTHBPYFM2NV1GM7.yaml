@@ -1,0 +1,37 @@
+id: 01G1CSCWETSFTHBPYFM2NV1GM7
+type: image
+subtype: photo
+title: Hans Behrens vor dem Gasthof Meyer
+date: 1952/1962
+location: Cumlosen, Kirchstraße
+origin:
+  name: Wilhelm Voss
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Straßenfest 1952
+    type: event
+  - name: Wustrow
+    type: place
+parents:
+  - 01EWC7VVF5TTWGM2X550P0P2HW
+files:
+  - role: main
+    original_name: DSC0981.jpg
+    path: files/2e/d6/2ed6fe3eb9ec557dd7db984186511e588250f5b8160a79583ca7a9dab3ba8206/original.jpg
+    sha256: 2ed6fe3eb9ec557dd7db984186511e588250f5b8160a79583ca7a9dab3ba8206
+    mime: image/jpeg
+    bytes: 26588536
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/2e/d6/2ed6fe3eb9ec557dd7db984186511e588250f5b8160a79583ca7a9dab3ba8206/preview-400.4baedb9d336f.jpg
+        sha256: 4baedb9d336f9f39b4fc582fdf166c405bce30efcc04f9e6c1dcd9a78c52f781
+        mime: image/jpeg
+        bytes: 69290
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

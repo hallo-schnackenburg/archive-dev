@@ -1,0 +1,44 @@
+id: 01GDT33D2M397QYQQD3NGEVKWK
+type: image
+subtype: photo
+title: Blick vom Tischlerei Bruns auf das Bahnhof
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1943-11-13
+location: Havelberg, Kaufmannshaus
+geocode:
+  lat: 53.0574
+  lon: 11.5914
+  precision: street
+  source: osm
+origin:
+  name: Dieter Meyer
+  type: person
+  location: Restorf
+subjects:
+  - name: Helga Rieke
+    type: person
+  - name: Eisgang 1943
+    type: event
+parents:
+  - 01EVCP6NN2EADHWRTHNC79ZAS7
+  - 01J0GVPF8CQ7XT4TS5V2ZE6DJJ
+files:
+  - role: main
+    original_name: foto_1617.jpg
+    path: files/37/e8/37e8935bed56d30aad37a2a9aab712c3a3e147b4c45fec71fb8670a35601b86e/original.jpg
+    sha256: 37e8935bed56d30aad37a2a9aab712c3a3e147b4c45fec71fb8670a35601b86e
+    mime: image/jpeg
+    bytes: 9084503
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/37/e8/37e8935bed56d30aad37a2a9aab712c3a3e147b4c45fec71fb8670a35601b86e/preview-400.d7cf69d6ae41.jpg
+        sha256: d7cf69d6ae41766f8c3dd87b1ec1dfa41a495746a2415d41537303ba2bb65411
+        mime: image/jpeg
+        bytes: 32362
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

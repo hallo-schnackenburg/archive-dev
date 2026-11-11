@@ -1,0 +1,64 @@
+id: 01HBTXWD91SKZ6P1AW518FPV7G
+type: document
+subtype: letter
+title: Brief von Erika Schulz an Heinz Wiegmann
+description: Handschriftlich, 4 Seiten.
+date: 1791-02-21
+location: Zadrau, Tischlerei Bruns
+geocode:
+  lat: 52.9706
+  lon: 11.5591
+  precision: region
+  source: osm
+origin:
+  name: Walter Schulz
+  type: person
+  location: Holtorf
+recipient: Rudolf Hennings
+language: de
+subjects:
+  - name: Eisgang 1791
+    type: event
+  - name: Maifeier 1791
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_8fpv7g_001.tif
+    path: files/26/ed/26ed58ea3cd8306a2304ff97f11df1a9e7860f505247723d961f9c97986ce9d9/original.tif
+    sha256: 26ed58ea3cd8306a2304ff97f11df1a9e7860f505247723d961f9c97986ce9d9
+    mime: image/tiff
+    bytes: 27679242
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/ed/26ed58ea3cd8306a2304ff97f11df1a9e7860f505247723d961f9c97986ce9d9/preview-400.a7a93f583e8c.jpg
+        sha256: a7a93f583e8cbc8c1a7789da628a9135274bd3dd8684204875616273b737a1b8
+        mime: image/jpeg
+        bytes: 52273
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_8fpv7g_002.tif
+    path: files/15/ce/15cec25788da71092f3a4a312d91a9c45c72c878b0a04004aea8ca2ecbde5b22/original.tif
+    sha256: 15cec25788da71092f3a4a312d91a9c45c72c878b0a04004aea8ca2ecbde5b22
+    mime: image/tiff
+    bytes: 12526321
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/15/ce/15cec25788da71092f3a4a312d91a9c45c72c878b0a04004aea8ca2ecbde5b22/preview-400.be9fbea9bbbc.jpg
+        sha256: be9fbea9bbbcabb64759c950f16c715fcf44dfe0967fc2bace36ef758fc5dbdc
+        mime: image/jpeg
+        bytes: 88293
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

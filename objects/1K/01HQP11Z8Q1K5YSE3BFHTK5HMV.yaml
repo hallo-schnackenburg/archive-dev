@@ -1,0 +1,42 @@
+id: 01HQP11Z8Q1K5YSE3BFHTK5HMV
+type: document
+subtype: letter
+title: Korrespondenz Karl Fricke
+description: Maschinenschriftlich, unterschrieben.
+location: Gorleben, Lange Straße
+geocode:
+  lat: 52.9303
+  lon: 11.5492
+  precision: street
+  source: osm
+recipient: Erika Bohlmann
+original:
+  holder:
+    name: Familie Wiese
+    type: person
+    location: Laase
+  reference: F/Kasten 19/042
+subjects:
+  - name: Rudolf Lüders
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_tk5hmv_001.tif
+    path: files/1c/5d/1c5d86a3da7878537d8d0a4dab568ea61bc3922a66cc2aa8b9f166f89d37d543/original.tif
+    sha256: 1c5d86a3da7878537d8d0a4dab568ea61bc3922a66cc2aa8b9f166f89d37d543
+    mime: image/tiff
+    bytes: 6245349
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/5d/1c5d86a3da7878537d8d0a4dab568ea61bc3922a66cc2aa8b9f166f89d37d543/preview-400.93fcffa54469.jpg
+        sha256: 93fcffa544696c53563ac0011b313ca9d60ee597ad9da72c69629804c956d026
+        mime: image/jpeg
+        bytes: 30106
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

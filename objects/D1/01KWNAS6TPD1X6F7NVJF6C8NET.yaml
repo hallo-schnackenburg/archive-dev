@@ -1,0 +1,32 @@
+id: 01KWNAS6TPD1X6F7NVJF6C8NET
+type: image
+subtype: photo
+title: Walter Jürgens, Porträt
+date: "1929"
+location: Rüterberg, Kaufmannshaus
+origin:
+  name: Karl Brandt
+  type: person
+  location: Restorf
+parents:
+  - 01FZRWF3VCQTN5JHADZZNEJ53B
+files:
+  - role: main
+    original_name: IMG_3257.jpg
+    path: files/03/d6/03d64b873f312b3b70383518cc23c0f9c0a36a5d522e7670738032521b09b915/original.jpg
+    sha256: 03d64b873f312b3b70383518cc23c0f9c0a36a5d522e7670738032521b09b915
+    mime: image/jpeg
+    bytes: 818601
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/03/d6/03d64b873f312b3b70383518cc23c0f9c0a36a5d522e7670738032521b09b915/preview-400.0ff27aac9c87.jpg
+        sha256: 0ff27aac9c87769996f3ae25e61924f1dc86865863bbd6ca3df878ba636478fa
+        mime: image/jpeg
+        bytes: 61536
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01HEAY0XQJYWPNTW5X2SBHPJ3X
+type: image
+subtype: photo
+title: Gerda Ahrens vor dem Dorfteich
+description: Farbfoto, leicht verblasst.
+date: "1997"
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 6/007
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Apotheke
+    type: building
+files:
+  - role: main
+    original_name: IMG_6836.jpg
+    path: files/52/f8/52f8f8948dd04a6a187ea179334c30975cb0029d7a7888d598a2afd3f419e418/original.jpg
+    sha256: 52f8f8948dd04a6a187ea179334c30975cb0029d7a7888d598a2afd3f419e418
+    mime: image/jpeg
+    bytes: 25047291
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/52/f8/52f8f8948dd04a6a187ea179334c30975cb0029d7a7888d598a2afd3f419e418/preview-400.02bc949e66c7.jpg
+        sha256: 02bc949e66c77d8678a8a6a44437933a478489ec448bbf556951edc87a6db556
+        mime: image/jpeg
+        bytes: 58287
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

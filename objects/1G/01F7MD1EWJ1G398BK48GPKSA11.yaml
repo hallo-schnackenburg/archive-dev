@@ -1,0 +1,33 @@
+id: 01F7MD1EWJ1G398BK48GPKSA11
+type: image
+subtype: plan
+title: Bauplan Apotheke 1975
+date: 1975-04-04
+location: Brünkendorf, Dorfstraße
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro/Album 27/041
+  note: Regal 1
+files:
+  - role: main
+    original_name: scan_895.tif
+    path: files/7f/05/7f0549e9a3a55a972a4561b893da88d05aa900effddcbe7a7ff5cdf7077c478a/original.tif
+    sha256: 7f0549e9a3a55a972a4561b893da88d05aa900effddcbe7a7ff5cdf7077c478a
+    mime: image/tiff
+    bytes: 24514356
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7f/05/7f0549e9a3a55a972a4561b893da88d05aa900effddcbe7a7ff5cdf7077c478a/preview-400.3b4210cc0b3e.jpg
+        sha256: 3b4210cc0b3ecc1fcdb3580417a8e7b574b221cce33c1f54ed55bb2360d0a4e7
+        mime: image/jpeg
+        bytes: 77935
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

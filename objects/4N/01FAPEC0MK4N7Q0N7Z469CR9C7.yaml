@@ -1,0 +1,35 @@
+id: 01FAPEC0MK4N7Q0N7Z469CR9C7
+type: image
+subtype: plan
+title: Bauplan Tischlerei Bruns 1892
+description: Tusche auf Transparentpapier.
+date: 1892-07-28
+subjects:
+  - name: Irmgard Ludolf
+    type: person
+  - name: Havelberg
+    type: place
+  - name: Dieter Ahrens
+    type: person
+parents:
+  - 01KZTC7HCNQEK4PPA9Y96PZJS7
+files:
+  - role: main
+    original_name: scan_076.tif
+    path: files/e8/84/e884dea8a1de7446c80fed9f87100f51ef7e61d24da26fe68876d6354c0f3fe2/original.tif
+    sha256: e884dea8a1de7446c80fed9f87100f51ef7e61d24da26fe68876d6354c0f3fe2
+    mime: image/tiff
+    bytes: 16378634
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/84/e884dea8a1de7446c80fed9f87100f51ef7e61d24da26fe68876d6354c0f3fe2/preview-400.83e0fd9b3b65.jpg
+        sha256: 83e0fd9b3b65e7f868d651cfd0eab4d3d556d800f3e37b193804d2f55871d32b
+        mime: image/jpeg
+        bytes: 84184
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

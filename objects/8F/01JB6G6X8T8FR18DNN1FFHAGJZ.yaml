@@ -1,0 +1,38 @@
+id: 01JB6G6X8T8FR18DNN1FFHAGJZ
+type: image
+subtype: print
+title: Lithographie Grenzturm
+description: Postkarte, gelaufen 1938.
+date: "1804"
+location: Brünkendorf, Mühle
+origin:
+  name: Ilse Hennings
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+  - name: Torhaus
+    type: building
+parents:
+  - 01FW1Z22ADA66X2V6627E3G693
+files:
+  - role: main
+    original_name: scan_963.tif
+    path: files/7f/eb/7feb162c52fb1ccc1931dd1597cd58b95515794f994981e0d26e676f768ca3d5/original.tif
+    sha256: 7feb162c52fb1ccc1931dd1597cd58b95515794f994981e0d26e676f768ca3d5
+    mime: image/tiff
+    bytes: 20722440
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7f/eb/7feb162c52fb1ccc1931dd1597cd58b95515794f994981e0d26e676f768ca3d5/preview-400.8adc3c1e28e8.jpg
+        sha256: 8adc3c1e28e8e10497d6f7f40d2738047de5f4e6b61f51bc4afd662ae6735ebc
+        mime: image/jpeg
+        bytes: 36367
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

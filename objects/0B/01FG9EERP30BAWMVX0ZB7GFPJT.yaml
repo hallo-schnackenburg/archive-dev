@@ -1,0 +1,33 @@
+id: 01FG9EERP30BAWMVX0ZB7GFPJT
+type: image
+subtype: photo
+title: Maifeier 1896
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1896"
+subjects:
+  - name: Hermann Wegner
+    type: person
+  - name: Heinrich Voss
+    type: person
+  - name: Kegelbahn
+    type: building
+files:
+  - role: main
+    original_name: foto_5115.jpg
+    path: files/78/c5/78c52f398bae996b9b69eaefacd0987d43fb4aeaafb973dfe049432026a136e6/original.jpg
+    sha256: 78c52f398bae996b9b69eaefacd0987d43fb4aeaafb973dfe049432026a136e6
+    mime: image/jpeg
+    bytes: 12153771
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/78/c5/78c52f398bae996b9b69eaefacd0987d43fb4aeaafb973dfe049432026a136e6/preview-400.22379cdae99f.jpg
+        sha256: 22379cdae99f82e649e873966dbcc8b34023061870fb2aa7ed626f03f1dff7f0
+        mime: image/jpeg
+        bytes: 23198
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

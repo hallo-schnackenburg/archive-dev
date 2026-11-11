@@ -1,0 +1,31 @@
+id: 01JQDQ83RYVCSW9EW2QRCQ4E0S
+type: image
+subtype: photo
+title: Otto Wiegmann, Porträt
+date: "1915"
+origin:
+  name: Karl Albers
+  type: person
+  location: Gorleben
+parents:
+  - 01JTVDYETN8G6S7M3ZJ0A2E9B3
+files:
+  - role: main
+    original_name: scan_856.tif
+    path: files/70/6e/706ef7b87caa353b8947049909638fb2db9b6b1e2f7c10ee9541bd30ff300dc2/original.tif
+    sha256: 706ef7b87caa353b8947049909638fb2db9b6b1e2f7c10ee9541bd30ff300dc2
+    mime: image/tiff
+    bytes: 10247546
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/70/6e/706ef7b87caa353b8947049909638fb2db9b6b1e2f7c10ee9541bd30ff300dc2/preview-400.d0e3c63ec833.jpg
+        sha256: d0e3c63ec8333b3358567dec09a16c661c0e7c4da06a73d586b8d43d1a508e0b
+        mime: image/jpeg
+        bytes: 75798
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01FN7S4APZ24AWKXHFVHDXCRTE
+type: image
+subtype: plan
+title: Grundriss Windmühle, Hitzacker
+description: Mit handschriftlichen Ergänzungen.
+date: 1952-02-23
+origin:
+  name: Dieter Schulz
+  type: person
+  location: Gorleben
+subjects:
+  - name: Erika Ahrens
+    type: person
+  - name: Wustrow
+    type: place
+parents:
+  - 01HYFCM6DN6A2J5RK4P4H4GN9C
+files:
+  - role: main
+    original_name: scan_823.tif
+    path: files/1c/9d/1c9da6e12ae4a63ea40fa2438249ad91873ad43fa221a9503568ae9899facce5/original.tif
+    sha256: 1c9da6e12ae4a63ea40fa2438249ad91873ad43fa221a9503568ae9899facce5
+    mime: image/tiff
+    bytes: 17973934
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/9d/1c9da6e12ae4a63ea40fa2438249ad91873ad43fa221a9503568ae9899facce5/preview-400.4e2b82952b5c.jpg
+        sha256: 4e2b82952b5c798e60b019356d3653dd6e7a59a1c50b3ce363b2682b05c126a5
+        mime: image/jpeg
+        bytes: 45679
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

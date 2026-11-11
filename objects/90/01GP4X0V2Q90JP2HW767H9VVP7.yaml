@@ -1,0 +1,42 @@
+id: 01GP4X0V2Q90JP2HW767H9VVP7
+type: image
+subtype: drawing
+title: Wappenentwurf Lenzen, Wittenberge
+description: Bleistift auf Papier.
+date: 1861?
+location: Dömitz, Scheune
+geocode:
+  lat: 53.076
+  lon: 11.5201
+  precision: town
+  source: osm
+origin:
+  name: Jürgen Lüders
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Mappe 3/017
+files:
+  - role: main
+    original_name: scan_006.tif
+    path: files/bb/47/bb47b713281becb8f11ac6fad4eda8d95970c4bc97f6e416e43283e853104562/original.tif
+    sha256: bb47b713281becb8f11ac6fad4eda8d95970c4bc97f6e416e43283e853104562
+    mime: image/tiff
+    bytes: 21452619
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bb/47/bb47b713281becb8f11ac6fad4eda8d95970c4bc97f6e416e43283e853104562/preview-400.5f212156fa1a.jpg
+        sha256: 5f212156fa1addfde4caac0d03eda22c6e405aae1993fc954cda6d98006604c6
+        mime: image/jpeg
+        bytes: 56629
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

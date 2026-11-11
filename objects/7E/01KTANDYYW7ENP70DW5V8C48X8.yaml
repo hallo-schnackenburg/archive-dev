@@ -1,0 +1,38 @@
+id: 01KTANDYYW7ENP70DW5V8C48X8
+type: image
+subtype: plan
+title: Bauplan Zollamt 1857
+date: "1857"
+origin:
+  name: Friedrich Krüger
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Fotos 3/346
+  note: Bücherregal links
+parents:
+  - 01HQR6RV72ZH2HDYEHKXXJ1EJM
+files:
+  - role: main
+    original_name: scan_392.tif
+    path: files/be/5b/be5b6b5e4af1cd27f7ba68d38ce18aca902c331a56ad1c27a6c5c2bec0f12859/original.tif
+    sha256: be5b6b5e4af1cd27f7ba68d38ce18aca902c331a56ad1c27a6c5c2bec0f12859
+    mime: image/tiff
+    bytes: 1604231
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/5b/be5b6b5e4af1cd27f7ba68d38ce18aca902c331a56ad1c27a6c5c2bec0f12859/preview-400.395543c1d868.jpg
+        sha256: 395543c1d86807b896ec4fab9b219441ec5ec3dfcd2f65fa7718994b9c32d5bb
+        mime: image/jpeg
+        bytes: 89707
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

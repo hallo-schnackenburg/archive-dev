@@ -1,0 +1,40 @@
+id: 01GAHGWEFJ6HF8CAZ3PEGR898F
+type: image
+subtype: plan
+title: Bauplan Fachwerkhaus Marktstraße 4 1944
+date: 1944-02
+location: Laase, Dorfstraße
+geocode:
+  lat: 52.9233
+  lon: 11.4577
+  precision: street
+  source: osm
+origin:
+  name: Wilhelm Eggers
+  type: person
+  location: Pretzier
+subjects:
+  - name: Albert Garms
+    type: person
+  - name: Ilse Lüders
+    type: person
+files:
+  - role: main
+    original_name: scan_978.tif
+    path: files/aa/6c/aa6c8c485666ea53da71dc72386ab8c2770189917522ac2fed5ce25ede44eee2/original.tif
+    sha256: aa6c8c485666ea53da71dc72386ab8c2770189917522ac2fed5ce25ede44eee2
+    mime: image/tiff
+    bytes: 19409892
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/aa/6c/aa6c8c485666ea53da71dc72386ab8c2770189917522ac2fed5ce25ede44eee2/preview-400.d1fadd0c12f1.jpg
+        sha256: d1fadd0c12f19a5cd1418a7f363e7b3135cdfa946ee267643558f5f3347a88d4
+        mime: image/jpeg
+        bytes: 68705
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01KXGZC4EYMH06FAXVMV8E0FD6
+type: image
+subtype: print
+title: "Kupferstich: Wootz von der Elbseite, Nienwalde"
+description: Lithographie, Rand beschnitten.
+date: 1777-07-25
+location: Gollensdorf, Dorfladen
+origin:
+  name: Heinrich Jeß
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok/Album 13/051
+subjects:
+  - name: Richtfest 1777
+    type: event
+  - name: Einschulung 1777
+    type: event
+parents:
+  - 01FT5CTVAMDQF7480XV03FD2CZ
+  - 01KXD1F75H1JZH7SDYYBNHXZ0A
+files:
+  - role: main
+    original_name: scan_349.tif
+    path: files/d2/76/d276127699748b52e9c79624b4e573173ea92f1100f303c719802cfe553efc36/original.tif
+    sha256: d276127699748b52e9c79624b4e573173ea92f1100f303c719802cfe553efc36
+    mime: image/tiff
+    bytes: 18295871
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d2/76/d276127699748b52e9c79624b4e573173ea92f1100f303c719802cfe553efc36/preview-400.8e5539f0a462.jpg
+        sha256: 8e5539f0a46261faccf0765f404ab5c59a02cf2a1845536c6b8e556667c8b329
+        mime: image/jpeg
+        bytes: 82270
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

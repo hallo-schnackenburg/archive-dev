@@ -1,0 +1,37 @@
+id: 01HB4SDPZ0SZ5YK4DCX4GVJY9Y
+type: image
+subtype: print
+title: Ansichtskarte Mühlenweg, Cumlosen
+description: Postkarte, gelaufen 1902.
+date: 1877/1879
+location: Wootz, Molkerei
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Laase
+    type: place
+  - name: Konfirmation 1877
+    type: event
+parents:
+  - 01GVT1XHSVEKN4VCH3XGAC134Y
+  - 01KP71Y1ZJN9JAVT84GFKBTVMW
+files:
+  - role: main
+    original_name: scan_718.tif
+    path: files/ad/2b/ad2bf520c36d6c75cbb31a8de7612cafbc68cb8d525d464012bd8fc1d6cd9d38/original.tif
+    sha256: ad2bf520c36d6c75cbb31a8de7612cafbc68cb8d525d464012bd8fc1d6cd9d38
+    mime: image/tiff
+    bytes: 4486512
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ad/2b/ad2bf520c36d6c75cbb31a8de7612cafbc68cb8d525d464012bd8fc1d6cd9d38/preview-400.c88f89c7d279.jpg
+        sha256: c88f89c7d279e3d5f620820f190e37d0701b1d6c05a24a0d2cc15ead5c7de6db
+        mime: image/jpeg
+        bytes: 60645
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

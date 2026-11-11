@@ -1,0 +1,33 @@
+id: 01GDXS53660H8KP4EP7DN59EJ9
+type: image
+subtype: drawing
+title: Skizze Havelberg, Am Elbdeich, Hitzacker
+description: Bleistift auf Papier.
+date: 191X
+location: Gülden, Storchennest
+origin:
+  name: Heinrich Voss
+  type: person
+  location: Havelberg
+parents:
+  - 01F5GRETGD87YBWEF5TGR1E25C
+files:
+  - role: main
+    original_name: scan_750.tif
+    path: files/8e/0b/8e0bf3236bd50f620205ab08d1bca97bcfce840aaebd1f8abfbccf5d98ef7700/original.tif
+    sha256: 8e0bf3236bd50f620205ab08d1bca97bcfce840aaebd1f8abfbccf5d98ef7700
+    mime: image/tiff
+    bytes: 18173159
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8e/0b/8e0bf3236bd50f620205ab08d1bca97bcfce840aaebd1f8abfbccf5d98ef7700/preview-400.a6becd81e200.jpg
+        sha256: a6becd81e200446051141c9a91a1b0895258b2995f102796867f3ca704d5d169
+        mime: image/jpeg
+        bytes: 89218
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

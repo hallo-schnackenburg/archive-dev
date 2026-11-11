@@ -1,0 +1,43 @@
+id: 01K7MDSCSH1HTGYWCGP5AQJDQN
+type: image
+subtype: plan
+title: Deichplan Gorleben bis Pretzier
+date: "1859"
+origin:
+  name: Marta Meyer
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 1/188
+  note: Planschrank, Fach 3
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Maifeier 1859
+    type: event
+parents:
+  - 01GYVCE9612QGZYBGWYYZ1X9FF
+files:
+  - role: main
+    original_name: scan_632.tif
+    path: files/a7/6c/a76cb3a226e3ec27f8736ca8c9b57cd76390fe2c9444bc3db708f22cb9764a07/original.tif
+    sha256: a76cb3a226e3ec27f8736ca8c9b57cd76390fe2c9444bc3db708f22cb9764a07
+    mime: image/tiff
+    bytes: 7521134
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a7/6c/a76cb3a226e3ec27f8736ca8c9b57cd76390fe2c9444bc3db708f22cb9764a07/preview-400.87ff3c1a202f.jpg
+        sha256: 87ff3c1a202fd2946ee85a62d9de8602652bedf653e5488c881bb03457b25bcb
+        mime: image/jpeg
+        bytes: 58953
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

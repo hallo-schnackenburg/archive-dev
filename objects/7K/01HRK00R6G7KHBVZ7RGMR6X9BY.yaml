@@ -1,0 +1,43 @@
+id: 01HRK00R6G7KHBVZ7RGMR6X9BY
+type: image
+subtype: drawing
+title: Entwurf für Rathaus, Lüchow
+date: 1970-08
+location: Bömenzien, Elbstraße
+origin:
+  name: August Hennings
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan/Mappe 24/105
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Wustrow
+    type: place
+parents:
+  - 01FN6T6JHA18TW27M4TSYE0FQV
+files:
+  - role: main
+    original_name: scan_607.tif
+    path: files/b8/23/b823350c60899e206072cbb786c4d1d5b45f2c5d266cb98468f893890c54aedc/original.tif
+    sha256: b823350c60899e206072cbb786c4d1d5b45f2c5d266cb98468f893890c54aedc
+    mime: image/tiff
+    bytes: 14501873
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b8/23/b823350c60899e206072cbb786c4d1d5b45f2c5d266cb98468f893890c54aedc/preview-400.41ade1f4eacf.jpg
+        sha256: 41ade1f4eacf0aa02c0784fb55af56c2ec11d38fde53c9d8ea69ab97eada1d85
+        mime: image/jpeg
+        bytes: 31451
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

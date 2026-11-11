@@ -1,0 +1,39 @@
+id: 01G9TYFTJNRHGHMCG5G9CD4WX3
+type: image
+subtype: print
+title: Postkarte Seedorf, Rathaus
+date: 1716/1722
+location: Hitzacker, Gartenstraße
+origin:
+  name: Hans Krüger
+  type: person
+  location: Gülden
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Kartoffelernte 1716
+    type: event
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01GKCFCDVMB3D019HAA4A20JFD
+files:
+  - role: main
+    original_name: scan_720.tif
+    path: files/33/61/33617d748eebf91f7b4aa486cd374ab19f11a8224196db2ae88f34c60b14fe7f/original.tif
+    sha256: 33617d748eebf91f7b4aa486cd374ab19f11a8224196db2ae88f34c60b14fe7f
+    mime: image/tiff
+    bytes: 15904533
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/33/61/33617d748eebf91f7b4aa486cd374ab19f11a8224196db2ae88f34c60b14fe7f/preview-400.4c5ccc7cbbf5.jpg
+        sha256: 4c5ccc7cbbf5874e86dfcf5ba4c30929ba7955438e6c3e3079366182f4c72be4
+        mime: image/jpeg
+        bytes: 63414
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

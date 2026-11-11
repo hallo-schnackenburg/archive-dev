@@ -1,0 +1,43 @@
+id: 01HHGTWDXX94R0MC4Y9SZS87A8
+type: image
+subtype: drawing
+title: Wappenentwurf Wustrow, Arendsee
+description: Mit Anmerkungen am Rand.
+location: Laase, Fachwerkhaus Marktstraße 4
+origin:
+  name: Gerda Wiegmann
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 12/017
+subjects:
+  - name: Tanzsaal
+    type: building
+  - name: Hitzacker
+    type: place
+parents:
+  - 01JR4AKNGZNYFV9JQXZ29K40BD
+files:
+  - role: main
+    original_name: scan_454.tif
+    path: files/db/07/db07a0ec951d7c4d539a25fbffecbe1a37fe21fc9f89cf8099d5eb20d09d8573/original.tif
+    sha256: db07a0ec951d7c4d539a25fbffecbe1a37fe21fc9f89cf8099d5eb20d09d8573
+    mime: image/tiff
+    bytes: 16858269
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/db/07/db07a0ec951d7c4d539a25fbffecbe1a37fe21fc9f89cf8099d5eb20d09d8573/preview-400.4bac9b5baec1.jpg
+        sha256: 4bac9b5baec1b7033b27d31dc98b4d24b2c13eda25811540a682863002abf165
+        mime: image/jpeg
+        bytes: 71406
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

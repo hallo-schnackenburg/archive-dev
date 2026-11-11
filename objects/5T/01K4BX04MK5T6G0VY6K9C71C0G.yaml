@@ -1,0 +1,35 @@
+id: 01K4BX04MK5T6G0VY6K9C71C0G
+type: image
+subtype: photo
+title: Fährstraße, Ecke Hinter den Höfen
+description: Farbfoto, leicht verblasst.
+date: "1989"
+origin:
+  name: Dieter Wiegmann
+  type: person
+  location: Wootz
+subjects:
+  - name: Wittenberge
+    type: place
+parents:
+  - 01HCDYTRFHFRB82WRMENEDR10F
+files:
+  - role: main
+    original_name: scan_570.tif
+    path: files/5c/dc/5cdca7fe574ce71967f2f8d13564196f8ffa066d3777a95ecc067c4d4568fb6b/original.tif
+    sha256: 5cdca7fe574ce71967f2f8d13564196f8ffa066d3777a95ecc067c4d4568fb6b
+    mime: image/tiff
+    bytes: 2805774
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/5c/dc/5cdca7fe574ce71967f2f8d13564196f8ffa066d3777a95ecc067c4d4568fb6b/preview-400.751ae51e7e04.jpg
+        sha256: 751ae51e7e04b2143bb604f197d948da6a977ae400af681e4e18a079aaad19ea
+        mime: image/jpeg
+        bytes: 27411
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,64 @@
+id: 01GENFNZ6R5R3ZJGJ547S81MN5
+type: document
+subtype: note
+title: Rechnung Gaede, Gasthof Meyer
+description: Beleg mit Stempel.
+date: 1997-12
+origin:
+  name: Erika Kuhlmann
+  type: person
+  location: Schnackenburg
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Bahnhof
+    type: building
+  - name: Marta Wegner
+    type: person
+parents:
+  - 01KYDMSXHX7AFCZAAJ5K4HGX9B
+files:
+  - role: page
+    num: 1
+    original_name: note_s81mn5_001.tif
+    path: files/30/14/3014e3ffa8d8afb4a0561180e5d2e7732f32bf512f76a119cadad54899468174/original.tif
+    sha256: 3014e3ffa8d8afb4a0561180e5d2e7732f32bf512f76a119cadad54899468174
+    mime: image/tiff
+    bytes: 13120476
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/30/14/3014e3ffa8d8afb4a0561180e5d2e7732f32bf512f76a119cadad54899468174/preview-400.23d6ec758475.jpg
+        sha256: 23d6ec75847592688561e37cd645676b24bcf5f9494198097408e2f36d32cbcd
+        mime: image/jpeg
+        bytes: 50110
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_s81mn5_002.tif
+    path: files/a5/c6/a5c6fc7869fbb00d5bfaa7d3d201d155ae1fb499827922c66e8533f5745ee530/original.tif
+    sha256: a5c6fc7869fbb00d5bfaa7d3d201d155ae1fb499827922c66e8533f5745ee530
+    mime: image/tiff
+    bytes: 20494260
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a5/c6/a5c6fc7869fbb00d5bfaa7d3d201d155ae1fb499827922c66e8533f5745ee530/preview-400.25df5d58db19.jpg
+        sha256: 25df5d58db190e321d910a0f26961bf3e6b46d766a69216820b17c9112d3d022
+        mime: image/jpeg
+        bytes: 63104
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

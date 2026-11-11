@@ -1,0 +1,45 @@
+id: 01FXSBS446QX5H65MWPQPMX7CP
+type: image
+subtype: drawing
+title: Entwurf für Försterei
+description: Federzeichnung, laviert.
+date: 1956/1966
+location: Salzwedel, Hafenstraße
+geocode:
+  lat: 53.0705
+  lon: 11.4746
+  precision: exact
+  source: osm
+origin:
+  name: Helga Lemke
+  type: person
+  location: Kapern
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Kirmes 1956
+    type: event
+  - name: Viehmarkt 1956
+    type: event
+parents:
+  - 01HNVK3TWSXAG1X7MJP1AQW02W
+files:
+  - role: main
+    original_name: scan_950.tif
+    path: files/81/da/81da59383e0bd63c89b724d44e97e628f6afceff7028559cf2526b3315a838ff/original.tif
+    sha256: 81da59383e0bd63c89b724d44e97e628f6afceff7028559cf2526b3315a838ff
+    mime: image/tiff
+    bytes: 24732301
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/81/da/81da59383e0bd63c89b724d44e97e628f6afceff7028559cf2526b3315a838ff/preview-400.b77d7a300c93.jpg
+        sha256: b77d7a300c9371a056e20e631dc36ad3a83b365025f1aeceb4f32c797b45c283
+        mime: image/jpeg
+        bytes: 49247
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

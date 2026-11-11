@@ -1,0 +1,41 @@
+id: 01GBAHHM3XDSWY9VP2WNYP8CDH
+type: image
+subtype: photo
+title: "Kriegerverein: Gruppenbild Hochwasser"
+date: "2002"
+location: Bömenzien, Scheune
+geocode:
+  lat: 53.011
+  lon: 11.6819
+  precision: exact
+  source: osm
+origin:
+  name: Otto Heuer
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v42554
+files:
+  - role: main
+    original_name: scan_393.tif
+    path: files/38/5c/385cc377ff306c6f116cc3eb6e69c2c5f983005bc04dd7eccc1409a8d30acd43/original.tif
+    sha256: 385cc377ff306c6f116cc3eb6e69c2c5f983005bc04dd7eccc1409a8d30acd43
+    mime: image/tiff
+    bytes: 14726619
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/38/5c/385cc377ff306c6f116cc3eb6e69c2c5f983005bc04dd7eccc1409a8d30acd43/preview-400.41238a732d05.jpg
+        sha256: 41238a732d0515b4e3132729b8593fedaa13867c9527fe02adac68d1adf78900
+        mime: image/jpeg
+        bytes: 48807
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

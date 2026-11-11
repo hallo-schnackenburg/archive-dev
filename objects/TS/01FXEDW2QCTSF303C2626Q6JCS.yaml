@@ -1,0 +1,46 @@
+id: 01FXEDW2QCTSF303C2626Q6JCS
+type: image
+subtype: photo
+title: Familie Kuhlmann beim Weihnachtsmarkt
+description: Aufnahme von Berta Ahrens.
+date: 1923-08-12
+location: Wittenberge, Pfarrhaus
+geocode:
+  lat: 53.0294
+  lon: 11.521
+  precision: street
+  source: osm
+origin:
+  name: Heinrich Plate
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Windmühle
+    type: building
+  - name: Hochwasser 1923
+    type: event
+files:
+  - role: main
+    original_name: IMG_0054.jpg
+    path: files/dc/24/dc2424203462f222dbc8042f37b641b66c07e3aa1f9607d02f5dd16a6306af67/original.jpg
+    sha256: dc2424203462f222dbc8042f37b641b66c07e3aa1f9607d02f5dd16a6306af67
+    mime: image/jpeg
+    bytes: 22788465
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/dc/24/dc2424203462f222dbc8042f37b641b66c07e3aa1f9607d02f5dd16a6306af67/preview-400.5af07af4474f.jpg
+        sha256: 5af07af4474f14ce04c66e03080b87f54de5f77bf57b3ca72a4e53228f124900
+        mime: image/jpeg
+        bytes: 25716
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

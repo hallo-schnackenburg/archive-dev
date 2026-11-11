@@ -1,0 +1,43 @@
+id: 01GQXTB1SR94K4Z4C73QKV4PKV
+type: image
+subtype: plan
+title: Bauplan Schützenhaus 2000
+description: Tusche auf Transparentpapier.
+date: "2000"
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 9/074
+owner:
+  name: Gerda Wiegmann
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+  - name: Konfirmation 2000
+    type: event
+parents:
+  - 01K6MM688883CWMKTJ2NVR6F70
+files:
+  - role: main
+    original_name: scan_742.tif
+    path: files/23/6f/236f4283bb22946622256ac563e63a3502e3f175ac12c95ba556c7e89df92ab7/original.tif
+    sha256: 236f4283bb22946622256ac563e63a3502e3f175ac12c95ba556c7e89df92ab7
+    mime: image/tiff
+    bytes: 1910214
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/23/6f/236f4283bb22946622256ac563e63a3502e3f175ac12c95ba556c7e89df92ab7/preview-400.7364778388ce.jpg
+        sha256: 7364778388cefe9669e553ae1e10cf6df8bdf7fcbaa4bca5310ad0f9ca474a7b
+        mime: image/jpeg
+        bytes: 83287
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

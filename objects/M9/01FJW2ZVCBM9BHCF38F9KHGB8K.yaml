@@ -1,0 +1,35 @@
+id: 01FJW2ZVCBM9BHCF38F9KHGB8K
+type: image
+subtype: photo
+title: Familie Ahrens beim Schlachtfest
+description: Farbfoto, leicht verblasst.
+location: Laase, Lange Straße
+origin:
+  name: Rudolf Lemke
+  type: person
+  location: Gülden
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Osterfeuer 1991
+    type: event
+files:
+  - role: main
+    original_name: scan_870.tif
+    path: files/96/49/964973c5277128ce1781841bdf636c188ec2c844083e81eef70d900dbd686ed1/original.tif
+    sha256: 964973c5277128ce1781841bdf636c188ec2c844083e81eef70d900dbd686ed1
+    mime: image/tiff
+    bytes: 9074471
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/96/49/964973c5277128ce1781841bdf636c188ec2c844083e81eef70d900dbd686ed1/preview-400.faa054aa9081.jpg
+        sha256: faa054aa9081d30087d8e64d75584930ad7601c13db67c63e95ae5d0abf940a7
+        mime: image/jpeg
+        bytes: 42196
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

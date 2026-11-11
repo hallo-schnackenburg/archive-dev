@@ -1,0 +1,36 @@
+id: 01J19NF4MAF4XCBZPAGJDBJPWC
+type: image
+subtype: print
+title: Postkarte Dömitz, Pumpenhaus
+date: "1779"
+location: Pretzier, Kindergarten
+origin:
+  name: Heinrich Albers
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok 38/216
+files:
+  - role: main
+    original_name: scan_978.tif
+    path: files/c2/3b/c23bb1a715e7e15f03fc24c652b707536b78769361e92ce35dc32ae6e9ee1e92/original.tif
+    sha256: c23bb1a715e7e15f03fc24c652b707536b78769361e92ce35dc32ae6e9ee1e92
+    mime: image/tiff
+    bytes: 5922566
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c2/3b/c23bb1a715e7e15f03fc24c652b707536b78769361e92ce35dc32ae6e9ee1e92/preview-400.b44074a397c9.jpg
+        sha256: b44074a397c9b0b2c4a3cc47555b23c66c68ecda44ecc049fe34cb365ca439e5
+        mime: image/jpeg
+        bytes: 70953
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

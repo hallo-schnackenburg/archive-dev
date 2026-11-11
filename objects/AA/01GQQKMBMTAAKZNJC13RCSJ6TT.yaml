@@ -1,0 +1,57 @@
+id: 01GQQKMBMTAAKZNJC13RCSJ6TT
+type: document
+subtype: protocol
+title: Protokoll des Feuerwehrausschuss vom 22. Juni 1922
+date: 1922-06-22
+origin:
+  name: Stadtrat Lüchow
+  type: business
+  location: Gollensdorf
+language: de
+subjects:
+  - name: Bömenzien
+    type: place
+parents:
+  - 01GFYCYYAZQZW68R0ZQ0RJFGD8
+  - 01GP24D2SDXXFWEGVD1MK92BK9
+files:
+  - role: page
+    num: 1
+    original_name: protocol_csj6tt_001.tif
+    path: files/db/71/db714f50ad0e78e3ce5bcef1f15800e512b35be3cda4d26437fb92532b8d0821/original.tif
+    sha256: db714f50ad0e78e3ce5bcef1f15800e512b35be3cda4d26437fb92532b8d0821
+    mime: image/tiff
+    bytes: 3900429
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/71/db714f50ad0e78e3ce5bcef1f15800e512b35be3cda4d26437fb92532b8d0821/preview-400.9250ce600555.jpg
+        sha256: 9250ce600555c2c5880a1eac0a7ab9aa5e88f6c523e5f9ca4291c6f7984069e0
+        mime: image/jpeg
+        bytes: 32826
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_csj6tt_002.tif
+    path: files/f9/73/f973dfd92a1bececde04301e2530de960d8d2d255e50e992fc2b9a9803102200/original.tif
+    sha256: f973dfd92a1bececde04301e2530de960d8d2d255e50e992fc2b9a9803102200
+    mime: image/tiff
+    bytes: 17032760
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f9/73/f973dfd92a1bececde04301e2530de960d8d2d255e50e992fc2b9a9803102200/preview-400.d87d351046a8.jpg
+        sha256: d87d351046a87173a7a73ae57c6fb38a63b6b250ba8bc021c0e10c98d20d182e
+        mime: image/jpeg
+        bytes: 26088
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

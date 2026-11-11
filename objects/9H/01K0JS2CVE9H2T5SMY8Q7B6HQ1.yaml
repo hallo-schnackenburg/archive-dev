@@ -1,0 +1,38 @@
+id: 01K0JS2CVE9H2T5SMY8Q7B6HQ1
+type: image
+subtype: photo
+title: Hans Kuhlmann vor dem Försterei
+description: Abzug im Format 13 x 18 cm.
+date: "1947"
+location: Rüterberg, Marktstraße
+origin:
+  name: Jürgen Pape
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Gärtnerei
+    type: building
+  - name: Brünkendorf
+    type: place
+  - name: Karl Jeß
+    type: person
+files:
+  - role: main
+    original_name: scan_843.tif
+    path: files/74/63/7463aa23f7e7e3567577f60da05b54dd3aa5b25b041444042ccb3b7d16aa87cc/original.tif
+    sha256: 7463aa23f7e7e3567577f60da05b54dd3aa5b25b041444042ccb3b7d16aa87cc
+    mime: image/tiff
+    bytes: 26519790
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/74/63/7463aa23f7e7e3567577f60da05b54dd3aa5b25b041444042ccb3b7d16aa87cc/preview-400.4e3199e128ed.jpg
+        sha256: 4e3199e128edb1af45f751aff14fefce35eaed67d545f1bbfa880a49938cbb3a
+        mime: image/jpeg
+        bytes: 69643
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

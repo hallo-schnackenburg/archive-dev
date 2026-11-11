@@ -1,0 +1,38 @@
+id: 01J55ZMWM23B1HGAYKZ0R7AQHA
+type: image
+subtype: plan
+title: Deichplan Gülden bis Lanz, Salzwedel
+description: Maßstab 1:1000.
+date: 1934-07
+location: Cumlosen, Kaufmannshaus
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+owner:
+  name: Günter Lemke
+  type: person
+  note: Nachlass
+parents:
+  - 01KNV35QF9MCTPV2ME9SCJY459
+files:
+  - role: main
+    original_name: scan_934.tif
+    path: files/fa/53/fa5362bd0b87aebc9384baa900d3fe4e144ccfc2194908a983888e750be8d7de/original.tif
+    sha256: fa5362bd0b87aebc9384baa900d3fe4e144ccfc2194908a983888e750be8d7de
+    mime: image/tiff
+    bytes: 986963
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fa/53/fa5362bd0b87aebc9384baa900d3fe4e144ccfc2194908a983888e750be8d7de/preview-400.2f39f65ac0be.jpg
+        sha256: 2f39f65ac0be54db0358359669988baa1915784b2c055cb2f7d716a3ee102aa2
+        mime: image/jpeg
+        bytes: 67173
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

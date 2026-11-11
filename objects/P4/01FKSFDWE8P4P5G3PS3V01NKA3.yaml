@@ -1,0 +1,60 @@
+id: 01FKSFDWE8P4P5G3PS3V01NKA3
+type: document
+subtype: letter
+title: Dieter Meyer an die Gemeinde wegen Viehseuche
+location: Lenzen, Elbdeich
+geocode:
+  lat: 52.922
+  lon: 11.5274
+  precision: region
+  source: osm
+recipient: Horst Voss
+language: de
+subjects:
+  - name: Grenzöffnung 1981
+    type: event
+  - name: Arendsee
+    type: place
+  - name: Grenzöffnung 1981
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_01nka3_001.tif
+    path: files/31/53/3153760975e9a38354a3a8ed6ed78291f3ac1e7d5a7459f1e6ea4def57260bc1/original.tif
+    sha256: 3153760975e9a38354a3a8ed6ed78291f3ac1e7d5a7459f1e6ea4def57260bc1
+    mime: image/tiff
+    bytes: 18792975
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/31/53/3153760975e9a38354a3a8ed6ed78291f3ac1e7d5a7459f1e6ea4def57260bc1/preview-400.88c031db4c24.jpg
+        sha256: 88c031db4c246138481805e7997f91bd97ed0b65be5f2aafc97a4c1173b8e2c0
+        mime: image/jpeg
+        bytes: 53707
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_01nka3_002.tif
+    path: files/80/cc/80cc2eed99b82f77efc9af99b111f1ca83ccc6fcfd1e6eee0399cf05d0342415/original.tif
+    sha256: 80cc2eed99b82f77efc9af99b111f1ca83ccc6fcfd1e6eee0399cf05d0342415
+    mime: image/tiff
+    bytes: 19111096
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/cc/80cc2eed99b82f77efc9af99b111f1ca83ccc6fcfd1e6eee0399cf05d0342415/preview-400.7debc4e81325.jpg
+        sha256: 7debc4e81325317a84eecc02876e866120be777d724cd75bc2a0886f9e94f26e
+        mime: image/jpeg
+        bytes: 72116
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

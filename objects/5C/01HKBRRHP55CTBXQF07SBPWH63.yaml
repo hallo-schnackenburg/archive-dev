@@ -1,0 +1,33 @@
+id: 01HKBRRHP55CTBXQF07SBPWH63
+type: image
+subtype: photo
+title: Lange Straße, Ecke Bahnhofstraße
+date: 1906/1916
+location: Restorf, Dorfkrug
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Wittenberge
+    type: place
+parents:
+  - 01GVT1XHSVEKN4VCH3XGAC134Y
+files:
+  - role: main
+    original_name: scan_826.tif
+    path: files/2a/d5/2ad568d58c0f0a57eaa1901d89202870b8ec4fa3d5fe7d1ff6c3d22351606b15/original.tif
+    sha256: 2ad568d58c0f0a57eaa1901d89202870b8ec4fa3d5fe7d1ff6c3d22351606b15
+    mime: image/tiff
+    bytes: 24159072
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/2a/d5/2ad568d58c0f0a57eaa1901d89202870b8ec4fa3d5fe7d1ff6c3d22351606b15/preview-400.d192ce89d617.jpg
+        sha256: d192ce89d6177a2a6bd1c018e23af5579ce9a0c52ab5eba96365e9548e4c66ef
+        mime: image/jpeg
+        bytes: 47050
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

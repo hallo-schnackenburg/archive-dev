@@ -1,0 +1,39 @@
+id: 01FY1XBXK1TDPG4JPC87VXSBNJ
+type: image
+subtype: print
+title: Ansichtskarte Elbstraße, Brünkendorf
+date: 1943/1944
+origin:
+  name: Werner Hennings
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 22/105
+  note: Regal 4, Kiste 2
+parents:
+  - 01HQP25DE5H8X2VZ17AF0KJD5M
+  - 01FMSWW1KHV9FY1HEET6SN2P21
+files:
+  - role: main
+    original_name: scan_449.tif
+    path: files/e7/a6/e7a69df242ffac3e6060653ee2e3981be8b645ce11ca109b0efa0f448d65826f/original.tif
+    sha256: e7a69df242ffac3e6060653ee2e3981be8b645ce11ca109b0efa0f448d65826f
+    mime: image/tiff
+    bytes: 24454112
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e7/a6/e7a69df242ffac3e6060653ee2e3981be8b645ce11ca109b0efa0f448d65826f/preview-400.ea72166e3657.jpg
+        sha256: ea72166e3657d45cbded5148ef8fb4acf7fbcc0228afe2c2e26ccc8697e45085
+        mime: image/jpeg
+        bytes: 71118
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

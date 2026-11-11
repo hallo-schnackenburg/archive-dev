@@ -1,0 +1,45 @@
+id: 01JVFHXAVRQAR1CVC3JRPG73RZ
+type: image
+subtype: drawing
+title: Federzeichnung Bäckerei Lüders, Brünkendorf
+date: 1868-02
+origin:
+  name: Fritz Detlefs
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 25/038
+  note: Dachboden, Truhe
+subjects:
+  - name: Osterfeuer 1868
+    type: event
+  - name: Gutshaus
+    type: building
+  - name: Wilhelm Ahrens
+    type: person
+parents:
+  - 01F5AE2XPF50SXP9GWBFQRZ78K
+files:
+  - role: main
+    original_name: scan_381.tif
+    path: files/2f/88/2f88ff388085d6a527d51dede01922bec98d9b3f6336c49967418b00a0e9e5aa/original.tif
+    sha256: 2f88ff388085d6a527d51dede01922bec98d9b3f6336c49967418b00a0e9e5aa
+    mime: image/tiff
+    bytes: 26225581
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2f/88/2f88ff388085d6a527d51dede01922bec98d9b3f6336c49967418b00a0e9e5aa/preview-400.4fb7fb6927e7.jpg
+        sha256: 4fb7fb6927e7efa36d3ca730c83758eb4ac57e93f470e3befacf571d4dd73115
+        mime: image/jpeg
+        bytes: 42867
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

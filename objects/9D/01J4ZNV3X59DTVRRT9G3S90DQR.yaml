@@ -1,0 +1,30 @@
+id: 01J4ZNV3X59DTVRRT9G3S90DQR
+type: image
+subtype: plan
+title: Katasterblatt Lüders
+description: Mit handschriftlichen Ergänzungen.
+date: 1956-02
+origin:
+  name: Dieter Dierks
+  type: person
+  location: Rüterberg
+files:
+  - role: main
+    original_name: scan_232.tif
+    path: files/80/3f/803f5359c69de61d559aebe45a9a6a648cf70c07b02e7a6d6574d73887fc9aca/original.tif
+    sha256: 803f5359c69de61d559aebe45a9a6a648cf70c07b02e7a6d6574d73887fc9aca
+    mime: image/tiff
+    bytes: 20454472
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/80/3f/803f5359c69de61d559aebe45a9a6a648cf70c07b02e7a6d6574d73887fc9aca/preview-400.af98db569cb1.jpg
+        sha256: af98db569cb1e2efa3e2d6f9ad76cdf40bc49b467bf5aa14fa146f942a46894e
+        mime: image/jpeg
+        bytes: 72759
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

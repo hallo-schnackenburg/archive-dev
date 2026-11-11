@@ -1,0 +1,40 @@
+id: 01G2SM0HJFAJAE3D8DJVM4YEJZ
+type: image
+subtype: photo
+title: Wilhelm Eggers vor dem Zollamt
+date: 1921-08-03
+location: Gollensdorf, Lange Straße
+geocode:
+  lat: 52.9173
+  lon: 11.6594
+  precision: region
+  source: osm
+origin:
+  name: Uwe Tiedemann
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Kaufmannshaus
+    type: building
+parents:
+  - 01HH950XB5366QVZP40SHBAM42
+files:
+  - role: main
+    original_name: P9648.jpg
+    path: files/8e/ba/8ebae9a0224539ee7cf885b74d111599095abd90f19ff9b2edc4dc97ff0ee360/original.jpg
+    sha256: 8ebae9a0224539ee7cf885b74d111599095abd90f19ff9b2edc4dc97ff0ee360
+    mime: image/jpeg
+    bytes: 11892755
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/8e/ba/8ebae9a0224539ee7cf885b74d111599095abd90f19ff9b2edc4dc97ff0ee360/preview-400.3c99ed4aef10.jpg
+        sha256: 3c99ed4aef10536b5cd6f5da24412797cfe46ab8b648b164a86412eea3f84757
+        mime: image/jpeg
+        bytes: 39440
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01FKBZZZ1H0E7TQ870SEY5KFW8
+type: image
+subtype: drawing
+title: Skizze Gollensdorf, Hafenstraße, Nienwalde
+description: Mit Anmerkungen am Rand.
+date: 1947-12
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Dachboden, Truhe
+subjects:
+  - name: Konfirmation 1947
+    type: event
+  - name: Kaufmannshaus
+    type: building
+  - name: Havelberg
+    type: place
+files:
+  - role: main
+    original_name: scan_413.tif
+    path: files/e2/72/e272f7efefd05c5f5a68054bd1fbfb9c3d3772b59075cdf1539272b193863a58/original.tif
+    sha256: e272f7efefd05c5f5a68054bd1fbfb9c3d3772b59075cdf1539272b193863a58
+    mime: image/tiff
+    bytes: 11584732
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e2/72/e272f7efefd05c5f5a68054bd1fbfb9c3d3772b59075cdf1539272b193863a58/preview-400.3c93190a6d69.jpg
+        sha256: 3c93190a6d69c57a33fd457f7125c59e498e3876d23556c299076400e305c1ed
+        mime: image/jpeg
+        bytes: 78262
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

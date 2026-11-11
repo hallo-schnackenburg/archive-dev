@@ -1,0 +1,35 @@
+id: 01GEKXAEDR38GZHEJV82E36ZD8
+type: image
+subtype: plan
+title: Grundriss Dorfteich
+description: Mit handschriftlichen Ergänzungen.
+date: 1922-10-06
+origin:
+  name: Karl Bohlmann
+  type: person
+  location: Wustrow
+subjects:
+  - name: Lüchow
+    type: place
+parents:
+  - 01G5R1162DAMHHJWCJ6KKBZX71
+files:
+  - role: main
+    original_name: scan_602.tif
+    path: files/7b/ba/7bba9dee64d9eb749511440230885c30b15daeb07d84f7ba8d93196cb57a01c9/original.tif
+    sha256: 7bba9dee64d9eb749511440230885c30b15daeb07d84f7ba8d93196cb57a01c9
+    mime: image/tiff
+    bytes: 14962840
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7b/ba/7bba9dee64d9eb749511440230885c30b15daeb07d84f7ba8d93196cb57a01c9/preview-400.70b37156b327.jpg
+        sha256: 70b37156b327602e0189c3b73543189e6addc85dc5132f03b2f6dfd89dcabd1a
+        mime: image/jpeg
+        bytes: 34983
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

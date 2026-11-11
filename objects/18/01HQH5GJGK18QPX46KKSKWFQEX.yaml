@@ -1,0 +1,44 @@
+id: 01HQH5GJGK18QPX46KKSKWFQEX
+type: image
+subtype: plan
+title: Deichplan Kapern bis Wootz
+description: Tusche auf Transparentpapier.
+date: "1941"
+origin:
+  name: Paul Wegner
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Ortsbesichtigung 1941
+    type: event
+  - name: Badestelle
+    type: building
+  - name: Hitzacker
+    type: place
+parents:
+  - 01JKPSVJPFP12GHYARDAWPBNEN
+files:
+  - role: main
+    original_name: scan_181.tif
+    path: files/99/e0/99e092ac6481db2660696e0ec67bd31e6f5ba15719837612c41b0cce51715e4e/original.tif
+    sha256: 99e092ac6481db2660696e0ec67bd31e6f5ba15719837612c41b0cce51715e4e
+    mime: image/tiff
+    bytes: 4871490
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/99/e0/99e092ac6481db2660696e0ec67bd31e6f5ba15719837612c41b0cce51715e4e/preview-400.c5c60bf68258.jpg
+        sha256: c5c60bf68258365faa025a849afdff981daa0cf38332c7c5306b39615456d1d0
+        mime: image/jpeg
+        bytes: 45289
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

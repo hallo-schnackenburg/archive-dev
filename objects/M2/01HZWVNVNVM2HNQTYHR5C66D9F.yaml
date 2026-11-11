@@ -1,0 +1,42 @@
+id: 01HZWVNVNVM2HNQTYHR5C66D9F
+type: image
+subtype: print
+title: "Kupferstich: Gorleben von der Elbseite, Brünkendorf"
+description: Lithographie, Rand beschnitten.
+date: 1911-01-11
+origin:
+  name: Ernst Eggers
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Erika Plate
+    type: person
+  - name: Feuerwehrhaus
+    type: building
+parents:
+  - 01HPYA59S9BTVVKYNA7APHK7GB
+files:
+  - role: main
+    original_name: scan_766.tif
+    path: files/2a/31/2a3105bffd494b6d885bbb194c88f0cc7b5ccbba1f26f838cf6def671a6c3d02/original.tif
+    sha256: 2a3105bffd494b6d885bbb194c88f0cc7b5ccbba1f26f838cf6def671a6c3d02
+    mime: image/tiff
+    bytes: 22598008
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2a/31/2a3105bffd494b6d885bbb194c88f0cc7b5ccbba1f26f838cf6def671a6c3d02/preview-400.670b18c19c75.jpg
+        sha256: 670b18c19c75b13629699c97c9cde5a450bcacfe3fef84d4441e483f8222539b
+        mime: image/jpeg
+        bytes: 38288
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

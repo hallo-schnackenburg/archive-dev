@@ -1,0 +1,40 @@
+id: 01J8PTJTW2575C8CQW9NPPB41C
+type: image
+subtype: photo
+title: Blick vom Apotheke auf das Försterei
+description: Farbfoto, leicht verblasst.
+date: 199X
+location: Schnackenburg, Gärtnerei
+origin:
+  name: Ernst Schwarz
+  type: person
+  location: Wustrow
+subjects:
+  - name: Gustav Schulz
+    type: person
+  - name: Gustav Schulz
+    type: person
+  - name: Försterei
+    type: building
+parents:
+  - 01JGKVZV6PYRTQW3JF5XVEVJGR
+files:
+  - role: main
+    original_name: IMG_9407.jpg
+    path: files/20/a7/20a79825dc494622e28fd4372b0f1a9e46544c8a4fd2dc0dbafe89ac0bf3ea7c/original.jpg
+    sha256: 20a79825dc494622e28fd4372b0f1a9e46544c8a4fd2dc0dbafe89ac0bf3ea7c
+    mime: image/jpeg
+    bytes: 24012725
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/20/a7/20a79825dc494622e28fd4372b0f1a9e46544c8a4fd2dc0dbafe89ac0bf3ea7c/preview-400.6ae1111d3457.jpg
+        sha256: 6ae1111d3457ba747070da3a0f1e5883d7b34b3847d76e8b652d2e3a8c57998b
+        mime: image/jpeg
+        bytes: 38871
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

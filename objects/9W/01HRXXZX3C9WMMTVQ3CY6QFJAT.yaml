@@ -1,0 +1,44 @@
+id: 01HRXXZX3C9WMMTVQ3CY6QFJAT
+type: image
+subtype: print
+title: Postkarte Schnackenburg, Apotheke
+location: Rüterberg, Kirchstraße
+origin:
+  name: Erika Bohlmann
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 30/006
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Brunnen am Markt
+    type: building
+  - name: Maifeier 1754
+    type: event
+parents:
+  - 01JSEZ1KR3W9V6KCYZ4QHW4E4A
+  - 01GQDM3ZFG19XY70Y5T88AY6HH
+files:
+  - role: main
+    original_name: scan_696.tif
+    path: files/6a/6d/6a6d5a5d39553d39e37a9699e3aa9ea1a710a35989ab6330de1311ffc022293a/original.tif
+    sha256: 6a6d5a5d39553d39e37a9699e3aa9ea1a710a35989ab6330de1311ffc022293a
+    mime: image/tiff
+    bytes: 6474130
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6a/6d/6a6d5a5d39553d39e37a9699e3aa9ea1a710a35989ab6330de1311ffc022293a/preview-400.d80c5870f007.jpg
+        sha256: d80c5870f0076357b146a9557e48abd589bdc179d7d97a879e3557f9a3479302
+        mime: image/jpeg
+        bytes: 80921
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

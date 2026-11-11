@@ -1,0 +1,47 @@
+id: 01H1HXCZWMYS43D8P3DYS89XVJ
+type: document
+subtype: note
+title: Rechnung Matthies, Rathaus
+date: 1861-11
+location: Gartow, Bahnhof
+geocode:
+  lat: 52.9777
+  lon: 11.5721
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Voss
+  type: person
+  location: Wootz
+language: de
+subjects:
+  - name: Anni Krüger
+    type: person
+  - name: Restorf
+    type: place
+  - name: Kaufmannshaus
+    type: building
+parents:
+  - 01JCYMRB83VZY8P4S2Q7H8E1H3
+  - 01H36RTMJEX4S0EGJJ5ANSCJNW
+files:
+  - role: page
+    num: 1
+    original_name: note_s89xvj_001.tif
+    path: files/65/9c/659c60771a01f4eb757fd63ebeeb08b0491f151b872fd5d87eaf0c2d13880443/original.tif
+    sha256: 659c60771a01f4eb757fd63ebeeb08b0491f151b872fd5d87eaf0c2d13880443
+    mime: image/tiff
+    bytes: 13579704
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/65/9c/659c60771a01f4eb757fd63ebeeb08b0491f151b872fd5d87eaf0c2d13880443/preview-400.becf71c43eb2.jpg
+        sha256: becf71c43eb2ece108f9d799c830141602467d15b9e8f4d886d43da3a7b3044c
+        mime: image/jpeg
+        bytes: 88424
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

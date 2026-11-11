@@ -1,0 +1,36 @@
+id: 01GPBBYNREJS18PVCSH5N7KBRW
+type: image
+subtype: drawing
+title: Entwurf für Gutshaus
+date: 1884-09-11
+location: Schnackenburg, Dorfschule
+subjects:
+  - name: Speicher
+    type: building
+  - name: Heinrich Hennings
+    type: person
+  - name: Lanz
+    type: place
+parents:
+  - 01FFXT95F2XCPVJ6NKJMCYEVVA
+  - 01HHR0N24ZWJF694Z9SN31KFR9
+files:
+  - role: main
+    original_name: scan_868.tif
+    path: files/28/c3/28c3d2bca7efc586def96e487172c079f67ba58912a9ccac119aa1c7a03ecf57/original.tif
+    sha256: 28c3d2bca7efc586def96e487172c079f67ba58912a9ccac119aa1c7a03ecf57
+    mime: image/tiff
+    bytes: 3812214
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/28/c3/28c3d2bca7efc586def96e487172c079f67ba58912a9ccac119aa1c7a03ecf57/preview-400.56ba80da3a7e.jpg
+        sha256: 56ba80da3a7eda40e7b581b91fe690e36e02d76211252994a19fe82967e860fe
+        mime: image/jpeg
+        bytes: 38208
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

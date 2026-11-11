@@ -1,0 +1,42 @@
+id: 01HP4HHHGFMC496GNRJJ2YY5YV
+type: image
+subtype: photo
+title: Erntedankfest 1933
+description: Abzug im Format 9 x 13 cm.
+date: 1933-04-05
+location: Laase, Hafenstraße
+origin:
+  name: Gerda Hennings
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro/Kasten 6/114
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+parents:
+  - 01FBYZQVFEERGK9E2W84G9TFJ3
+files:
+  - role: main
+    original_name: foto_3000.jpg
+    path: files/2f/71/2f71b42abe2f6220feb7194f6c59a074fab555638da501bc546898f308b1e07e/original.jpg
+    sha256: 2f71b42abe2f6220feb7194f6c59a074fab555638da501bc546898f308b1e07e
+    mime: image/jpeg
+    bytes: 19240000
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/2f/71/2f71b42abe2f6220feb7194f6c59a074fab555638da501bc546898f308b1e07e/preview-400.b8dda9ec62b0.jpg
+        sha256: b8dda9ec62b02a6596f081da87b50ac7a89b2d1012be5f51727fc908af64968c
+        mime: image/jpeg
+        bytes: 69368
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01H2RNH1GRYPDWZC7500R8DHBS
+type: image
+subtype: print
+title: Gruß aus Cumlosen, Pretzier
+description: Postkarte, gelaufen 1944.
+date: 1754/1756
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Fotos/Album 25/108
+subjects:
+  - name: Schnackenburg
+    type: place
+files:
+  - role: main
+    original_name: scan_633.tif
+    path: files/bc/d3/bcd3f319f82a07547cc0442376bd5c7800d5522d401f4efa0ab9b7baf158c95a/original.tif
+    sha256: bcd3f319f82a07547cc0442376bd5c7800d5522d401f4efa0ab9b7baf158c95a
+    mime: image/tiff
+    bytes: 5516370
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bc/d3/bcd3f319f82a07547cc0442376bd5c7800d5522d401f4efa0ab9b7baf158c95a/preview-400.07f1aed8cf39.jpg
+        sha256: 07f1aed8cf3911e37fa3b64bd18a098e996b1ca053e59c7c0b9f4ba2787d3094
+        mime: image/jpeg
+        bytes: 85968
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

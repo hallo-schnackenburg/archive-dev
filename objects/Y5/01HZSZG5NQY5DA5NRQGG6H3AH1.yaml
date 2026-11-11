@@ -1,0 +1,70 @@
+id: 01HZSZG5NQY5DA5NRQGG6H3AH1
+type: document
+subtype: letter
+title: Korrespondenz Dieter Tiedemann
+description: Betrifft Friedhofsordnung.
+date: "1848"
+location: Brünkendorf, Zollamt
+geocode:
+  lat: 52.9293
+  lon: 11.6583
+  precision: town
+  source: osm
+origin:
+  name: Frieda Garms
+  type: person
+  location: Rüterberg
+recipient: Ilse Meyer
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 2/018
+subjects:
+  - name: Petra Schwarz
+    type: person
+  - name: Dorfschule
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_6h3ah1_001.tif
+    path: files/0c/1d/0c1dba2656810c4204c32e46545134dec0592850b46670a6e2efef95c6ec37a9/original.tif
+    sha256: 0c1dba2656810c4204c32e46545134dec0592850b46670a6e2efef95c6ec37a9
+    mime: image/tiff
+    bytes: 27959773
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0c/1d/0c1dba2656810c4204c32e46545134dec0592850b46670a6e2efef95c6ec37a9/preview-400.1f845ca3d04f.jpg
+        sha256: 1f845ca3d04f8f469ba2c93125e43280c2e4ce09d3713cd34fcfa0a7d09694d4
+        mime: image/jpeg
+        bytes: 85489
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_6h3ah1_002.tif
+    path: files/18/f1/18f13aba33319268138b71dd9d9b25039e200c6be14f3b5cb693fce41e90a2f2/original.tif
+    sha256: 18f13aba33319268138b71dd9d9b25039e200c6be14f3b5cb693fce41e90a2f2
+    mime: image/tiff
+    bytes: 1912762
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/18/f1/18f13aba33319268138b71dd9d9b25039e200c6be14f3b5cb693fce41e90a2f2/preview-400.a22519efad88.jpg
+        sha256: a22519efad888965eb98e95acd90f4122e1f48a2655663004c17f4954c55169e
+        mime: image/jpeg
+        bytes: 89465
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

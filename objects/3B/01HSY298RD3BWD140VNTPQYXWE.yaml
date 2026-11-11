@@ -1,0 +1,40 @@
+id: 01HSY298RD3BWD140VNTPQYXWE
+type: image
+subtype: plan
+title: Katasterblatt Plate
+description: Maßstab 1:1000.
+date: 1911?
+location: Arendsee, Lange Straße
+origin:
+  name: Gisela Meyer
+  type: person
+  location: Arendsee
+owner:
+  name: Paul Meyer
+  type: person
+  note: Nachlass
+subjects:
+  - name: Försterei
+    type: building
+  - name: Holtorf
+    type: place
+files:
+  - role: main
+    original_name: scan_728.tif
+    path: files/4d/54/4d542044217fd39c6241c21824008287fff40c28b1d14a08a5a91404407d5c7d/original.tif
+    sha256: 4d542044217fd39c6241c21824008287fff40c28b1d14a08a5a91404407d5c7d
+    mime: image/tiff
+    bytes: 15577260
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4d/54/4d542044217fd39c6241c21824008287fff40c28b1d14a08a5a91404407d5c7d/preview-400.546ba44ffd51.jpg
+        sha256: 546ba44ffd517e35342eac436079b5b751db1aa8c1b0178040e886dc14aeb2b6
+        mime: image/jpeg
+        bytes: 51322
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01F2VFWEDJ8KN4EMMCHMETWAZE
+type: image
+subtype: photo
+title: Eisgang 1927
+description: Abzug im Format 13 x 18 cm.
+date: 1927?
+location: Wustrow, Deichstraße
+origin:
+  name: Irmgard Lemke
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 10/130
+subjects:
+  - name: Bernd Krüger
+    type: person
+  - name: Erika Voss
+    type: person
+parents:
+  - 01H50FV4Y1X081JA2BHVBS4W88
+  - 01GHB8CACBDV42F0VWCD6Z5CC1
+files:
+  - role: main
+    original_name: DSC7086.jpg
+    path: files/a3/99/a399b3d03849d71d730af2e17209325707571e3c016bc01aa2606ca7144a6da9/original.jpg
+    sha256: a399b3d03849d71d730af2e17209325707571e3c016bc01aa2606ca7144a6da9
+    mime: image/jpeg
+    bytes: 9736270
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/a3/99/a399b3d03849d71d730af2e17209325707571e3c016bc01aa2606ca7144a6da9/preview-400.89c8dda9eb1b.jpg
+        sha256: 89c8dda9eb1b78c3378a5a2d812772f180eb87a795eae72429483ea344a19d03
+        mime: image/jpeg
+        bytes: 61495
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

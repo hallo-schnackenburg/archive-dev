@@ -1,0 +1,32 @@
+id: 01H0WKP1A1RG95F28TBYRVNXXF
+type: image
+subtype: print
+title: "Kupferstich: Arendsee von der Elbseite, Hitzacker"
+description: Kupferstich, koloriert.
+date: 1884-06
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Lanz
+parents:
+  - 01GA39T3DGKMZM390K7AXRNKQW
+files:
+  - role: main
+    original_name: scan_799.tif
+    path: files/4d/d5/4dd5c923db8d1d21187ac700971a299f1b4055487727d2bb4cbdb35b1fb60302/original.tif
+    sha256: 4dd5c923db8d1d21187ac700971a299f1b4055487727d2bb4cbdb35b1fb60302
+    mime: image/tiff
+    bytes: 16838710
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4d/d5/4dd5c923db8d1d21187ac700971a299f1b4055487727d2bb4cbdb35b1fb60302/preview-400.9fdce60f3244.jpg
+        sha256: 9fdce60f3244e50dc973b46536026aba640f14fe2c121a8b3c644c1ea9cc5a67
+        mime: image/jpeg
+        bytes: 47692
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

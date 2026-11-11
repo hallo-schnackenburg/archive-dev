@@ -1,0 +1,33 @@
+id: 01GACHM1K1VH3KBTB56V5A9VXX
+type: image
+subtype: photo
+title: Brückeneinweihung 1896
+date: 1896-08
+location: Restorf, Hinter den Höfen
+origin:
+  name: Paul Ahrens
+  type: person
+  location: Lenzen
+parents:
+  - 01GRV0HWYNKA4M54BH3W1TXJFJ
+  - 01FAQ3AREZBKTAGHNPJF8ZYQP7
+files:
+  - role: main
+    original_name: DSC7536.jpg
+    path: files/07/ab/07abb9f1dfe888caf9b75868838d76d04461f720507d86a32f622e185254cb0a/original.jpg
+    sha256: 07abb9f1dfe888caf9b75868838d76d04461f720507d86a32f622e185254cb0a
+    mime: image/jpeg
+    bytes: 27547342
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/07/ab/07abb9f1dfe888caf9b75868838d76d04461f720507d86a32f622e185254cb0a/preview-400.f1bbe643153c.jpg
+        sha256: f1bbe643153c209e5b5da60531f2b2d1bb7d3f2e86a0b2eade1e5e04834c2b70
+        mime: image/jpeg
+        bytes: 51258
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

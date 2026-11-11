@@ -1,0 +1,39 @@
+id: 01J22M5KY1WTZYY5MNCANRXE0E
+type: image
+subtype: photo
+title: Karl Ihde, Porträt
+description: Abzug im Format 9 x 13 cm.
+date: 1917-09-20
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 19/074
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Erika Voss
+    type: person
+  - name: Hafen
+    type: building
+files:
+  - role: main
+    original_name: scan_852.tif
+    path: files/c3/1b/c31b5137a11620b2e39c01b96a5fe218135f000ed70b7216d97a8cda72ba1aba/original.tif
+    sha256: c31b5137a11620b2e39c01b96a5fe218135f000ed70b7216d97a8cda72ba1aba
+    mime: image/tiff
+    bytes: 27976832
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c3/1b/c31b5137a11620b2e39c01b96a5fe218135f000ed70b7216d97a8cda72ba1aba/preview-400.1a7b36169b00.jpg
+        sha256: 1a7b36169b0076ed9b95559a30a9528f10a56c49fa194a98575937974549271e
+        mime: image/jpeg
+        bytes: 20738
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

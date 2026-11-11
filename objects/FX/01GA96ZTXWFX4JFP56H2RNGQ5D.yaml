@@ -1,0 +1,65 @@
+id: 01GA96ZTXWFX4JFP56H2RNGQ5D
+type: document
+subtype: letter
+title: Zeugnis für Wilhelm Wegner
+description: Mit Umschlag und Briefmarke.
+date: 1909-02-11
+location: Salzwedel, Hinter den Höfen
+origin:
+  name: Frieda Wiese
+  type: person
+  location: Seedorf
+recipient: Gerda Heuer
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 25/060
+  note: Planschrank, Fach 3
+subjects:
+  - name: Gasthof Meyer
+    type: building
+  - name: Grenzöffnung 1909
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_rngq5d_001.tif
+    path: files/05/04/05049ab2dfda7a87905be8322e9f710d1d9e94bc2f71e62dfd3ed0713ea2dab7/original.tif
+    sha256: 05049ab2dfda7a87905be8322e9f710d1d9e94bc2f71e62dfd3ed0713ea2dab7
+    mime: image/tiff
+    bytes: 14150520
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/04/05049ab2dfda7a87905be8322e9f710d1d9e94bc2f71e62dfd3ed0713ea2dab7/preview-400.625d2033cd79.jpg
+        sha256: 625d2033cd79be54ecf9c5cc6173a5d7fd25b6e472f7c50d7c6f9c20db4afa79
+        mime: image/jpeg
+        bytes: 20645
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_rngq5d_002.tif
+    path: files/a2/39/a2396a9c298d6fa5c629f654c1278e8b37ba0c51b457124232118879a3ba3fe0/original.tif
+    sha256: a2396a9c298d6fa5c629f654c1278e8b37ba0c51b457124232118879a3ba3fe0
+    mime: image/tiff
+    bytes: 1080945
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a2/39/a2396a9c298d6fa5c629f654c1278e8b37ba0c51b457124232118879a3ba3fe0/preview-400.b34618445a61.jpg
+        sha256: b34618445a61690e375b30f7307f1c5c1038a67ca8e3bad7a22435d2d1089658
+        mime: image/jpeg
+        bytes: 31820
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

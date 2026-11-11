@@ -1,0 +1,41 @@
+id: 01G21X76GQNCYQN49B5EVZ2NMM
+type: image
+subtype: photo
+title: Hafen in Dömitz
+description: Abzug im Format 10 x 15 cm.
+date: 191X
+location: Wustrow, Schulstraße
+geocode:
+  lat: 52.9301
+  lon: 11.6562
+  precision: town
+  source: osm
+subjects:
+  - name: Walter Ahrens
+    type: person
+  - name: Bömenzien
+    type: place
+  - name: Grenzöffnung 1915
+    type: event
+parents:
+  - 01FHAJMC0QDXRYDR1PV64RNJKV
+files:
+  - role: main
+    original_name: scan_194.tif
+    path: files/2d/2e/2d2eb5c0abdcf35a59ec51bb9136ba295da72cf9c2aca51afe07f363c8f464c5/original.tif
+    sha256: 2d2eb5c0abdcf35a59ec51bb9136ba295da72cf9c2aca51afe07f363c8f464c5
+    mime: image/tiff
+    bytes: 8683540
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2d/2e/2d2eb5c0abdcf35a59ec51bb9136ba295da72cf9c2aca51afe07f363c8f464c5/preview-400.09e9600453e5.jpg
+        sha256: 09e9600453e5398cbb1df7fb09fa1b133b8a2a7c32e205acf9e5c1747b0fb73f
+        mime: image/jpeg
+        bytes: 80774
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

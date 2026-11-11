@@ -1,0 +1,48 @@
+id: 01F910M458Y8D6VV0TW2PGMTXV
+type: image
+subtype: photo
+title: Blick vom Zollamt auf das Mühle
+date: 1923-11
+location: Lenzen, Hafenstraße
+geocode:
+  lat: 53.0863
+  lon: 11.6028
+  precision: street
+  source: osm
+origin:
+  name: Karl Brandt
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Familie Hennings
+    type: person
+    location: Schnackenburg
+  reference: F 18/031
+subjects:
+  - name: Hedwig Wiegmann
+    type: person
+  - name: Maifeier 1923
+    type: event
+  - name: Einschulung 1923
+    type: event
+files:
+  - role: main
+    original_name: IMG_0438.jpg
+    path: files/6b/fa/6bfad8f492b5eb23b133fe7557e86edc47f1cef10fa40dc1b51417ff12ecb3df/original.jpg
+    sha256: 6bfad8f492b5eb23b133fe7557e86edc47f1cef10fa40dc1b51417ff12ecb3df
+    mime: image/jpeg
+    bytes: 23402594
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/6b/fa/6bfad8f492b5eb23b133fe7557e86edc47f1cef10fa40dc1b51417ff12ecb3df/preview-400.b9647bd0a6de.jpg
+        sha256: b9647bd0a6de2de0156d6a7d4415afcf5edd20fe41b02fc1a7096a95fc20f8cb
+        mime: image/jpeg
+        bytes: 72638
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01H267V56GY2J9D2PJ5GSY5N3G
+type: image
+subtype: plan
+title: Bauplan Backhaus 1782
+date: 1782-08-05
+location: Nienwalde, Rathaus
+origin:
+  name: Hans Hennings
+  type: person
+  location: Gorleben
+subjects:
+  - name: Maifeier 1782
+    type: event
+  - name: Sparkasse
+    type: building
+  - name: Einweihung 1782
+    type: event
+files:
+  - role: main
+    original_name: scan_563.tif
+    path: files/a2/5b/a25bcdba78e480eec134f5e84d38531465eab0dda4d056454f7577c8cfaf29f9/original.tif
+    sha256: a25bcdba78e480eec134f5e84d38531465eab0dda4d056454f7577c8cfaf29f9
+    mime: image/tiff
+    bytes: 3475575
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a2/5b/a25bcdba78e480eec134f5e84d38531465eab0dda4d056454f7577c8cfaf29f9/preview-400.2d1863770cda.jpg
+        sha256: 2d1863770cdaa1711462cc98db364eb565a785200185a3200b776239596ad1a0
+        mime: image/jpeg
+        bytes: 35955
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

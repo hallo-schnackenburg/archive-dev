@@ -1,0 +1,40 @@
+id: 01KHMBKMD12MSD8TYTPQ3JM1J0
+type: image
+subtype: plan
+title: Lageplan Dorfladen
+description: Mit handschriftlichen Ergänzungen.
+date: 1997/2003
+location: Gülden, Dorfstraße
+origin:
+  name: Karl Krüger
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 15/284
+parents:
+  - 01FPBW8XQ5TR1SGGQ9277H4RM1
+  - 01J7ZY57D3ECK0QYZPPDYBXEE3
+files:
+  - role: main
+    original_name: scan_521.tif
+    path: files/b2/6d/b26d4dafd875300d67d620240fce28c0a5d3ed57f532a03440203e3e8f33cb91/original.tif
+    sha256: b26d4dafd875300d67d620240fce28c0a5d3ed57f532a03440203e3e8f33cb91
+    mime: image/tiff
+    bytes: 8943236
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b2/6d/b26d4dafd875300d67d620240fce28c0a5d3ed57f532a03440203e3e8f33cb91/preview-400.15376688d0e3.jpg
+        sha256: 15376688d0e335c92a2184b7f7db379600c2571653b81aa33aa00520bebd0e43
+        mime: image/jpeg
+        bytes: 39421
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

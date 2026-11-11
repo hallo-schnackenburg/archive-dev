@@ -1,0 +1,35 @@
+id: 01EYF2VSPQWJ3GD3ZRGZDSSNV8
+type: image
+subtype: print
+title: Postkarte Zadrau, Försterei
+description: Postkarte, gelaufen 1959.
+date: 1773-09-02
+subjects:
+  - name: Pfarrhaus
+    type: building
+  - name: Renate Wöhlk
+    type: person
+  - name: Wassermühle
+    type: building
+parents:
+  - 01JBGVAY167R5WYZSBZK5TM9S3
+files:
+  - role: main
+    original_name: scan_633.tif
+    path: files/d7/78/d77818dfa63846d5f285ced9c7a7a74142cf2860c1d8b51603e7d8c6a1560446/original.tif
+    sha256: d77818dfa63846d5f285ced9c7a7a74142cf2860c1d8b51603e7d8c6a1560446
+    mime: image/tiff
+    bytes: 21725352
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/78/d77818dfa63846d5f285ced9c7a7a74142cf2860c1d8b51603e7d8c6a1560446/preview-400.4f48665802c1.jpg
+        sha256: 4f48665802c13752c9bbf56eb74cfc4cfbea8c80e1c33b89a076b725b0f35bc6
+        mime: image/jpeg
+        bytes: 44961
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

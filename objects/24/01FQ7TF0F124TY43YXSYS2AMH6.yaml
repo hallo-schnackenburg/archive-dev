@@ -1,0 +1,65 @@
+id: 01FQ7TF0F124TY43YXSYS2AMH6
+type: document
+subtype: letter
+title: Einladung zum Fährjubiläum, Lüchow
+date: 1954-04-08
+location: Wustrow, Friedhofskapelle
+geocode:
+  lat: 53.0013
+  lon: 11.4676
+  precision: town
+  source: osm
+origin:
+  name: Friedrich Fricke
+  type: person
+  location: Pretzier
+recipient: Renate Klatt
+language: de
+subjects:
+  - name: Hochzeit 1954
+    type: event
+  - name: Hochwasser 1954
+    type: event
+  - name: Schlachterei
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_s2amh6_001.tif
+    path: files/19/25/19251775091d00352bf4b06f1ba2e7f1c60edf7ab791b458104c91e105e05dd8/original.tif
+    sha256: 19251775091d00352bf4b06f1ba2e7f1c60edf7ab791b458104c91e105e05dd8
+    mime: image/tiff
+    bytes: 4936014
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/19/25/19251775091d00352bf4b06f1ba2e7f1c60edf7ab791b458104c91e105e05dd8/preview-400.a7e385d6f0ca.jpg
+        sha256: a7e385d6f0ca494e361ed4058cc0703132f34a7a0a1f2843125b41d02d48866e
+        mime: image/jpeg
+        bytes: 67350
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_s2amh6_002.tif
+    path: files/49/b6/49b6fe521b62113277e442d7fd4bc005005b5f3e92886d7807fd1ed751d43991/original.tif
+    sha256: 49b6fe521b62113277e442d7fd4bc005005b5f3e92886d7807fd1ed751d43991
+    mime: image/tiff
+    bytes: 27431272
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/49/b6/49b6fe521b62113277e442d7fd4bc005005b5f3e92886d7807fd1ed751d43991/preview-400.da6b4d63d1de.jpg
+        sha256: da6b4d63d1de54321b80f9481f59813e6bedbc55041292fc42014b14e868907c
+        mime: image/jpeg
+        bytes: 68023
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

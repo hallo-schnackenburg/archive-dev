@@ -1,0 +1,39 @@
+id: 01KPQRY9X7SJGC6X3W4Y3B730D
+type: image
+subtype: drawing
+title: Skizze Lüchow, Lange Straße
+description: Bleistift auf Papier.
+date: 194X
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Schrank B
+subjects:
+  - name: Elbdeich
+    type: building
+  - name: Emma Fricke
+    type: person
+  - name: Erika Krüger
+    type: person
+files:
+  - role: main
+    original_name: scan_762.tif
+    path: files/11/ff/11ff4cc7fad747239e32bdb96fc5bd4a5139a144c26495c0282e40633a6d3d25/original.tif
+    sha256: 11ff4cc7fad747239e32bdb96fc5bd4a5139a144c26495c0282e40633a6d3d25
+    mime: image/tiff
+    bytes: 16054414
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/ff/11ff4cc7fad747239e32bdb96fc5bd4a5139a144c26495c0282e40633a6d3d25/preview-400.f205963dac9e.jpg
+        sha256: f205963dac9ea22b538609c2e043f0e110220f884025029018b78ca861c59358
+        mime: image/jpeg
+        bytes: 31439
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

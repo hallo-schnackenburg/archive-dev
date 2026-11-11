@@ -1,0 +1,38 @@
+id: 01J4C94VJM8P4CXP5HXN4X8524
+type: image
+subtype: drawing
+title: Skizze Rüterberg, Burgstraße, Kapern
+description: Bleistift auf Papier.
+origin:
+  name: Walter Lindemann
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 24/049
+parents:
+  - 01HE14GR0R8R7PECGB2EPQE94M
+  - 01HX63HPJQWPA2R8TSS7RY7SQZ
+files:
+  - role: main
+    original_name: scan_217.tif
+    path: files/6e/51/6e5191bfdc5c223c612252bac3eeae5af5dca81b9385518422dbab1927f6c29c/original.tif
+    sha256: 6e5191bfdc5c223c612252bac3eeae5af5dca81b9385518422dbab1927f6c29c
+    mime: image/tiff
+    bytes: 4134343
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6e/51/6e5191bfdc5c223c612252bac3eeae5af5dca81b9385518422dbab1927f6c29c/preview-400.9e638585d4c8.jpg
+        sha256: 9e638585d4c89693e9de11d502446c5a6ba63ab9fd85523e1973ccb9c77f841e
+        mime: image/jpeg
+        bytes: 45566
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

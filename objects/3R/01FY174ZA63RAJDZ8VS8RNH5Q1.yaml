@@ -1,0 +1,31 @@
+id: 01FY174ZA63RAJDZ8VS8RNH5Q1
+type: image
+subtype: print
+title: Postkarte Brünkendorf, Gasthof Meyer
+description: Postkarte, gelaufen 1949.
+date: "1840"
+location: Laase, Hafenstraße
+origin:
+  name: Otto Nitschke
+  type: person
+  location: Wootz
+files:
+  - role: main
+    original_name: scan_723.tif
+    path: files/a4/68/a468df5c6b90c1db5fa9555548d4be477118dcf035201be8dca7344639447e90/original.tif
+    sha256: a468df5c6b90c1db5fa9555548d4be477118dcf035201be8dca7344639447e90
+    mime: image/tiff
+    bytes: 5072828
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a4/68/a468df5c6b90c1db5fa9555548d4be477118dcf035201be8dca7344639447e90/preview-400.b22ccb8c4a28.jpg
+        sha256: b22ccb8c4a28a400728ec5ef4c24783787683898917e6b8b6c6aab16e07fe0de
+        mime: image/jpeg
+        bytes: 89084
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

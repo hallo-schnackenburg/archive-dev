@@ -1,0 +1,41 @@
+id: 01F85CJ47J70HW695P9PGBXVN5
+type: image
+subtype: plan
+title: Bauplan Pfarrhaus 1983
+date: 1983~
+location: Wittenberge, Molkerei
+origin:
+  name: Anni Kuhlmann
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 25/003
+subjects:
+  - name: Erika Krüger
+    type: person
+  - name: Wassermühle
+    type: building
+files:
+  - role: main
+    original_name: scan_674.tif
+    path: files/bf/14/bf148ecf0e0874b24c20a6ce7d9f4bf67632491c087343620e52769a4c36345e/original.tif
+    sha256: bf148ecf0e0874b24c20a6ce7d9f4bf67632491c087343620e52769a4c36345e
+    mime: image/tiff
+    bytes: 20323459
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bf/14/bf148ecf0e0874b24c20a6ce7d9f4bf67632491c087343620e52769a4c36345e/preview-400.8154b114659f.jpg
+        sha256: 8154b114659f5c35565c8bbd01cf6f08d2eb71ebd301817a05d8fadb7050ce91
+        mime: image/jpeg
+        bytes: 88382
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

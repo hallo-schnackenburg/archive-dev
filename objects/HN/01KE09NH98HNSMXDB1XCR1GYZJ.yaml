@@ -1,0 +1,38 @@
+id: 01KE09NH98HNSMXDB1XCR1GYZJ
+type: image
+subtype: photo
+title: Bahnhof in Gollensdorf
+description: Abzug im Format 9 x 13 cm.
+date: 2001-07-19
+location: Arendsee, Marktstraße
+geocode:
+  lat: 53.0605
+  lon: 11.6454
+  precision: exact
+  source: osm
+origin:
+  name: Karl Cohrs
+  type: person
+  location: Holtorf
+parents:
+  - 01H5HMCYV3GS9H3ZBJZMHBTPJV
+files:
+  - role: main
+    original_name: P5310.jpg
+    path: files/24/df/24df1ec4dbe3425e28a8d0606319295fe908d578d0339506bf5e035634d01713/original.jpg
+    sha256: 24df1ec4dbe3425e28a8d0606319295fe908d578d0339506bf5e035634d01713
+    mime: image/jpeg
+    bytes: 25756780
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/24/df/24df1ec4dbe3425e28a8d0606319295fe908d578d0339506bf5e035634d01713/preview-400.86370340f51b.jpg
+        sha256: 86370340f51b7974b1f1d6026a5ed8a66e6eed3184cced7f38060200950c27b8
+        mime: image/jpeg
+        bytes: 59015
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01FJ7EFA78N6DH01D5YZR8JPKC
+type: image
+subtype: photo
+title: Osterfeuer der Theatergruppe
+description: Zu sehen sind Schützenhaus und Tanzsaal.
+date: 1935-08
+location: Lanz, Bahnhof
+geocode:
+  lat: 53.0741
+  lon: 11.4994
+  precision: exact
+  source: osm
+origin:
+  name: Hermann Dierks
+  type: person
+  location: Havelberg
+subjects:
+  - name: Gerda Rieke
+    type: person
+  - name: Fastnacht 1935
+    type: event
+parents:
+  - 01EWYE51ZQTFTFRZH9QFSNZE0B
+files:
+  - role: main
+    original_name: scan_077.tif
+    path: files/3b/45/3b45a885ae5d5e297169dfb7cbaa912ad07e40190578b309b1d3100973cbced1/original.tif
+    sha256: 3b45a885ae5d5e297169dfb7cbaa912ad07e40190578b309b1d3100973cbced1
+    mime: image/tiff
+    bytes: 12634869
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3b/45/3b45a885ae5d5e297169dfb7cbaa912ad07e40190578b309b1d3100973cbced1/preview-400.1ac4bb0625b0.jpg
+        sha256: 1ac4bb0625b0a9981d4a8c713842ce1395381e52f3c17e5a6906daa8c065087c
+        mime: image/jpeg
+        bytes: 75266
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

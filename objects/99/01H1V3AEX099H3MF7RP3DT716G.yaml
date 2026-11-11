@@ -1,0 +1,37 @@
+id: 01H1V3AEX099H3MF7RP3DT716G
+type: image
+subtype: photo
+title: Emma Bohlmann vor dem Feuerwehrhaus
+date: "1943"
+location: Bömenzien, Bahnhofstraße
+origin:
+  name: Walter Jeß
+  type: person
+  location: Laase
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Mühle
+    type: building
+parents:
+  - 01H8EQS4AVFVXGT4V39H7JSKCS
+files:
+  - role: main
+    original_name: P8021.jpg
+    path: files/58/4d/584d572ec0cafda961f8ad25f2b36582b8aae709f448227a6a741e05a10be509/original.jpg
+    sha256: 584d572ec0cafda961f8ad25f2b36582b8aae709f448227a6a741e05a10be509
+    mime: image/jpeg
+    bytes: 18359476
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/58/4d/584d572ec0cafda961f8ad25f2b36582b8aae709f448227a6a741e05a10be509/preview-400.de377b529053.jpg
+        sha256: de377b529053fe0f73170f8dd97737435d1d5bb17dd7c91b564516bce5901e8b
+        mime: image/jpeg
+        bytes: 20529
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

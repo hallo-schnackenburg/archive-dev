@@ -1,0 +1,33 @@
+id: 01JSTJ974M2P7M3ASHDRS37MG3
+type: image
+subtype: photo
+title: Schützenfest 1933
+description: Zu sehen sind Gutshaus und Grenzturm.
+date: 1933-07-05
+location: Havelberg, Mühlenweg
+origin:
+  name: Friedrich Ahrens
+  type: person
+  location: Gülden
+parents:
+  - 01J2MAW622CTKQ3RF50GE3CC82
+files:
+  - role: main
+    original_name: scan_557.tif
+    path: files/4a/14/4a1482664d28824706e304d40560c7b27574f0a8b50faff56619f58c991196db/original.tif
+    sha256: 4a1482664d28824706e304d40560c7b27574f0a8b50faff56619f58c991196db
+    mime: image/tiff
+    bytes: 20377434
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4a/14/4a1482664d28824706e304d40560c7b27574f0a8b50faff56619f58c991196db/preview-400.1717b376c96d.jpg
+        sha256: 1717b376c96dcd49d5523332e66c11c5f28d5c5c3fcb687e14142d88bb586af0
+        mime: image/jpeg
+        bytes: 51719
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,84 @@
+id: 01HJCV9CBH2WE2PPBS0QY2X7H4
+type: document
+subtype: letter
+title: Feldpostbrief von Friedrich Harms
+date: 1942-01-16
+location: Dömitz, Mühlenweg
+geocode:
+  lat: 53.0205
+  lon: 11.5948
+  precision: town
+  source: osm
+origin:
+  name: Ernst Plate
+  type: person
+  location: Hitzacker
+recipient: Friedrich Burmester
+subjects:
+  - name: Karl Bruns
+    type: person
+  - name: Wustrow
+    type: place
+  - name: Molkerei
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_y2x7h4_001.tif
+    path: files/b3/16/b3168866733780ee8479e4d28e388e631e1cca481d8f601318c73b6459a08783/original.tif
+    sha256: b3168866733780ee8479e4d28e388e631e1cca481d8f601318c73b6459a08783
+    mime: image/tiff
+    bytes: 5713797
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/16/b3168866733780ee8479e4d28e388e631e1cca481d8f601318c73b6459a08783/preview-400.2f3eaaee0bcc.jpg
+        sha256: 2f3eaaee0bcc9a8e5109a786a26d900130f3882ba7229d2039daaeaef7502e52
+        mime: image/jpeg
+        bytes: 59831
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_y2x7h4_002.tif
+    path: files/aa/da/aadafe02037c4e1129198df4bb9b70eb2db92df02fe23a7fa31e3d525d2186f7/original.tif
+    sha256: aadafe02037c4e1129198df4bb9b70eb2db92df02fe23a7fa31e3d525d2186f7
+    mime: image/tiff
+    bytes: 10524446
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/aa/da/aadafe02037c4e1129198df4bb9b70eb2db92df02fe23a7fa31e3d525d2186f7/preview-400.bca8777690ef.jpg
+        sha256: bca8777690ef3c278f0c67a867f854f8884259b0bc982805afba5867d2ab8058
+        mime: image/jpeg
+        bytes: 22125
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_y2x7h4_003.tif
+    path: files/f2/9e/f29ef4a4800f81b3cb2cc4c5272efed198cc7843d8e450e4868af048888700e1/original.tif
+    sha256: f29ef4a4800f81b3cb2cc4c5272efed198cc7843d8e450e4868af048888700e1
+    mime: image/tiff
+    bytes: 19374302
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f2/9e/f29ef4a4800f81b3cb2cc4c5272efed198cc7843d8e450e4868af048888700e1/preview-400.34615be836e8.jpg
+        sha256: 34615be836e88be6cad636a57e8e948c3d6d7436e4915965f115c118551fa419
+        mime: image/jpeg
+        bytes: 25135
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

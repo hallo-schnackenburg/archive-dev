@@ -1,0 +1,46 @@
+id: 01KQ3BDP9CWMZE1S2M421A23Y3
+type: image
+subtype: plan
+title: Deichplan Wustrow bis Cumlosen
+date: "1768"
+location: Rüterberg, Dorfschule
+origin:
+  name: Heinrich Schwarz
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 23/104
+  note: Bücherregal links
+owner:
+  name: Hermann Wiegmann
+  type: person
+  note: Nachlass
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Dorffest 1768
+    type: event
+files:
+  - role: main
+    original_name: scan_578.tif
+    path: files/72/5c/725ce2ab98b5c75d5190a97af07fc90dcb488de0a4e5a2fa765fc878d75b5189/original.tif
+    sha256: 725ce2ab98b5c75d5190a97af07fc90dcb488de0a4e5a2fa765fc878d75b5189
+    mime: image/tiff
+    bytes: 26156810
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/72/5c/725ce2ab98b5c75d5190a97af07fc90dcb488de0a4e5a2fa765fc878d75b5189/preview-400.462c74b54191.jpg
+        sha256: 462c74b541914b77aed7c6a918cb88c93ee9187fda45ba2ca3ba28b5119d0dc5
+        mime: image/jpeg
+        bytes: 75357
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,30 @@
+id: 01G379WPMJDRMX74KJ5SV8VYP8
+type: image
+subtype: photo
+title: Schlachterei in Gorleben
+description: Abzug im Format 10 x 15 cm.
+location: Seedorf, Dorfteich
+origin:
+  name: Marta Rieke
+  type: person
+  location: Laase
+files:
+  - role: main
+    original_name: IMG_0225.jpg
+    path: files/2b/06/2b061f3739431dc7f8c854a8a3f692380f7ce7a0fd1245aa7be762233cf6b763/original.jpg
+    sha256: 2b061f3739431dc7f8c854a8a3f692380f7ce7a0fd1245aa7be762233cf6b763
+    mime: image/jpeg
+    bytes: 24669355
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/2b/06/2b061f3739431dc7f8c854a8a3f692380f7ce7a0fd1245aa7be762233cf6b763/preview-400.7e482fa5486f.jpg
+        sha256: 7e482fa5486fdaf9cd9007e2d9466b785a54955a49e873695b461ac378bb080c
+        mime: image/jpeg
+        bytes: 82887
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

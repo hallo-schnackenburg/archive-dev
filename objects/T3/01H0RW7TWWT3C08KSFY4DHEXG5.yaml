@@ -1,0 +1,40 @@
+id: 01H0RW7TWWT3C08KSFY4DHEXG5
+type: image
+subtype: photo
+title: Försterei in Pretzier
+description: Zu sehen sind Rathaus und Torhaus.
+date: "1938"
+location: Gollensdorf, Elbstraße
+origin:
+  name: Helga Lüders
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 2/210
+subjects:
+  - name: Schlachtfest 1938
+    type: event
+files:
+  - role: main
+    original_name: DSC6413.jpg
+    path: files/3d/ca/3dcadcf3a5ed83a230bcf4663fdc3c139f382d2321537e4952ab6e4a73ab94f9/original.jpg
+    sha256: 3dcadcf3a5ed83a230bcf4663fdc3c139f382d2321537e4952ab6e4a73ab94f9
+    mime: image/jpeg
+    bytes: 9126128
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/3d/ca/3dcadcf3a5ed83a230bcf4663fdc3c139f382d2321537e4952ab6e4a73ab94f9/preview-400.671743713527.jpg
+        sha256: 671743713527176db091029620561f75fb3c72c0f8e5fdbd2ecc82b75e49e62b
+        mime: image/jpeg
+        bytes: 53049
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

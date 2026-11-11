@@ -1,0 +1,38 @@
+id: 01M0WAX8NQTZNCFJJC7CWSZP05
+type: image
+subtype: print
+title: Gruß aus Gülden, Arendsee
+description: Lithographie, Rand beschnitten.
+date: 1797-11-17
+location: Salzwedel, Gasthof „Zur Elbe“
+origin:
+  name: Käthe Plate
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+parents:
+  - 01GWG9662GMDBHVAK54DXCMWG2
+files:
+  - role: main
+    original_name: scan_886.tif
+    path: files/be/53/be53ceeed80e6dcc2989f5728ef1771ab44d19f57ca5392bca14b3993270b9a5/original.tif
+    sha256: be53ceeed80e6dcc2989f5728ef1771ab44d19f57ca5392bca14b3993270b9a5
+    mime: image/tiff
+    bytes: 9692296
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/be/53/be53ceeed80e6dcc2989f5728ef1771ab44d19f57ca5392bca14b3993270b9a5/preview-400.97e14b7a244a.jpg
+        sha256: 97e14b7a244a62ae82d1cccb8c204885699ff4108b79bcf1b3615dc381f1c8ec
+        mime: image/jpeg
+        bytes: 29949
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

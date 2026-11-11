@@ -1,0 +1,34 @@
+id: 01GBBXSAKW1BYBRBWS784DFC8W
+type: image
+subtype: plan
+title: Lageplan Mühle
+date: 1920-07
+origin:
+  name: Dieter Rieke
+  type: person
+  location: Pretzier
+subjects:
+  - name: Weihnachtsmarkt 1920
+    type: event
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+files:
+  - role: main
+    original_name: scan_455.tif
+    path: files/f9/7a/f97aa3ef39e3548c534a8debf8811e4cb3e56da22545175a5601ef77e65fa158/original.tif
+    sha256: f97aa3ef39e3548c534a8debf8811e4cb3e56da22545175a5601ef77e65fa158
+    mime: image/tiff
+    bytes: 1994495
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f9/7a/f97aa3ef39e3548c534a8debf8811e4cb3e56da22545175a5601ef77e65fa158/preview-400.812f0382a052.jpg
+        sha256: 812f0382a0525e865cf1fc463b6d7f19da50ff818ff9003526721f0275d2c6ce
+        mime: image/jpeg
+        bytes: 48873
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

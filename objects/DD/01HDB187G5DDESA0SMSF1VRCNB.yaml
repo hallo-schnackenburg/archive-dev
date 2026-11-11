@@ -1,0 +1,66 @@
+id: 01HDB187G5DDESA0SMSF1VRCNB
+type: document
+subtype: letter
+title: Feldpostbrief von Gerda Lenz
+description: Betrifft Friedhofsordnung.
+date: 1796-03-24
+location: Dömitz, Dorfschule
+origin:
+  name: Günter Meyer
+  type: person
+  location: Arendsee
+recipient: Berta Jürgens
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok/Kasten 7/042
+subjects:
+  - name: Schützenfest 1796
+    type: event
+parents:
+  - 01GSWGF0TVVWPKF3HT3DSA6W3N
+  - 01HS8SXFSQTVTEY5966Q2P57PM
+files:
+  - role: page
+    num: 1
+    original_name: letter_1vrcnb_001.tif
+    path: files/39/1a/391aaf4b251e708e7abdb7d303cbe9750937c94a6599b575b4d2b2f9ee1c9fa4/original.tif
+    sha256: 391aaf4b251e708e7abdb7d303cbe9750937c94a6599b575b4d2b2f9ee1c9fa4
+    mime: image/tiff
+    bytes: 4546787
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/39/1a/391aaf4b251e708e7abdb7d303cbe9750937c94a6599b575b4d2b2f9ee1c9fa4/preview-400.e1106ae4b106.jpg
+        sha256: e1106ae4b1069f444848440792c09e1af6344f680ffd1195c22c6de69e37ce4e
+        mime: image/jpeg
+        bytes: 62671
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_1vrcnb_002.tif
+    path: files/c6/ca/c6caec73bf3babc40ad71490b8cd9faf35525f4585f14e6d1d7f70a32607a800/original.tif
+    sha256: c6caec73bf3babc40ad71490b8cd9faf35525f4585f14e6d1d7f70a32607a800
+    mime: image/tiff
+    bytes: 20168370
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/ca/c6caec73bf3babc40ad71490b8cd9faf35525f4585f14e6d1d7f70a32607a800/preview-400.86b0932b1452.jpg
+        sha256: 86b0932b1452131346a60f5a8dd8ce4512b064b29116b32136e4856393e7d0d7
+        mime: image/jpeg
+        bytes: 56016
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

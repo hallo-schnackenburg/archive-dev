@@ -1,0 +1,46 @@
+id: 01F0QZ6QD3EP1QRHP4GG973JGF
+type: image
+subtype: print
+title: Postkarte Wootz, Sparkasse
+description: Postkarte, gelaufen 1947.
+date: 1727~
+location: Gorleben, Am Elbdeich
+geocode:
+  lat: 53.0319
+  lon: 11.6739
+  precision: exact
+  source: osm
+origin:
+  name: Heinz Brandt
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Lanz
+    type: place
+parents:
+  - 01H8EQS4AVFVXGT4V39H7JSKCS
+files:
+  - role: main
+    original_name: scan_004.tif
+    path: files/be/b5/beb5330705498db1379f7c583d88f5993c906b75efebccfd959a0dfb8ca1c008/original.tif
+    sha256: beb5330705498db1379f7c583d88f5993c906b75efebccfd959a0dfb8ca1c008
+    mime: image/tiff
+    bytes: 26565326
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/be/b5/beb5330705498db1379f7c583d88f5993c906b75efebccfd959a0dfb8ca1c008/preview-400.dcb1b72f92cc.jpg
+        sha256: dcb1b72f92cc3e81a9b2066d6e13c15acc721b35ced854bc7da136e2f80d3f48
+        mime: image/jpeg
+        bytes: 89202
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

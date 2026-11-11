@@ -1,0 +1,45 @@
+id: 01FWXYQS6D35XB5AEKW2PMW5RW
+type: image
+subtype: print
+title: Postkarte Wustrow, Windmühle
+description: Postkarte, gelaufen 1957.
+date: 1955-07-17
+location: Salzwedel, Fährstraße
+geocode:
+  lat: 53.0782
+  lon: 11.539
+  precision: street
+  source: osm
+origin:
+  name: Erika Meyer
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 32/359
+subjects:
+  - name: Friedhofskapelle
+    type: building
+files:
+  - role: main
+    original_name: scan_314.tif
+    path: files/ea/22/ea22ddc6db31ce503e898b5f5194ce98d91b2cc00b36dc7c2857852e7ca3963f/original.tif
+    sha256: ea22ddc6db31ce503e898b5f5194ce98d91b2cc00b36dc7c2857852e7ca3963f
+    mime: image/tiff
+    bytes: 26990365
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ea/22/ea22ddc6db31ce503e898b5f5194ce98d91b2cc00b36dc7c2857852e7ca3963f/preview-400.e92ca254d7a7.jpg
+        sha256: e92ca254d7a7afc8938c3e29a5eb95ffde542942677ebc8e980800226ed923fb
+        mime: image/jpeg
+        bytes: 25967
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,33 @@
+id: 01GYD55RMT63XEF4043E7D4A2P
+type: image
+subtype: plan
+title: Bauplan Tischlerei Bruns 1862
+origin:
+  name: Rudolf Bohlmann
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01KSS5WSKYD8DQE3452TFH91F6
+files:
+  - role: main
+    original_name: scan_313.tif
+    path: files/9e/1f/9e1f799d4ba2b679e7ae878a78be2d1a6c2b8768c2b0c8af3831bb6384c182fa/original.tif
+    sha256: 9e1f799d4ba2b679e7ae878a78be2d1a6c2b8768c2b0c8af3831bb6384c182fa
+    mime: image/tiff
+    bytes: 23099042
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9e/1f/9e1f799d4ba2b679e7ae878a78be2d1a6c2b8768c2b0c8af3831bb6384c182fa/preview-400.542d5b8cf10f.jpg
+        sha256: 542d5b8cf10f5a3b08332fe01171bb518816eb50e8849c245f7ab328edad4fd8
+        mime: image/jpeg
+        bytes: 20499
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

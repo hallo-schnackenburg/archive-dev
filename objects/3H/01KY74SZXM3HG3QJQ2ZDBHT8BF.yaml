@@ -1,0 +1,38 @@
+id: 01KY74SZXM3HG3QJQ2ZDBHT8BF
+type: image
+subtype: print
+title: Gruß aus Hitzacker, Gartow (17)
+date: 1769-04
+location: Bömenzien, Marktstraße
+origin:
+  name: Marta Plate
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok/Album 28/089
+parents:
+  - 01KF2B6TP54JC25MG4X17B6G6E
+files:
+  - role: main
+    original_name: scan_574.tif
+    path: files/ac/08/ac088149773ddb3e992c3604c79a6e40109ccbf60cecb446ccc181079720b6a6/original.tif
+    sha256: ac088149773ddb3e992c3604c79a6e40109ccbf60cecb446ccc181079720b6a6
+    mime: image/tiff
+    bytes: 27386383
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ac/08/ac088149773ddb3e992c3604c79a6e40109ccbf60cecb446ccc181079720b6a6/preview-400.88ffc91ccc71.jpg
+        sha256: 88ffc91ccc71e66c0f39df4e71914b5e19325806e02d3daca00765371e2f7d74
+        mime: image/jpeg
+        bytes: 37625
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

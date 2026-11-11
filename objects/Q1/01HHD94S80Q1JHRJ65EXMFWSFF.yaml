@@ -1,0 +1,31 @@
+id: 01HHD94S80Q1JHRJ65EXMFWSFF
+type: image
+subtype: plan
+title: Deichplan Laase bis Pretzier
+date: 1797-04
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Kapern
+parents:
+  - 01HEQM7NSGG9CPG145FYB637TF
+files:
+  - role: main
+    original_name: scan_917.tif
+    path: files/94/3f/943f0d0869b5c0aa72a728000a214e967af36a13cb2a9234b076e568825a5ec9/original.tif
+    sha256: 943f0d0869b5c0aa72a728000a214e967af36a13cb2a9234b076e568825a5ec9
+    mime: image/tiff
+    bytes: 8837902
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/94/3f/943f0d0869b5c0aa72a728000a214e967af36a13cb2a9234b076e568825a5ec9/preview-400.4f3d5f0976fc.jpg
+        sha256: 4f3d5f0976fcbfec3d7c1e89735eebd7582ad6c2c49e41a82cb281f61fa096f6
+        mime: image/jpeg
+        bytes: 65792
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

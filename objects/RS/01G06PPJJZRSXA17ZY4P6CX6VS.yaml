@@ -1,0 +1,37 @@
+id: 01G06PPJJZRSXA17ZY4P6CX6VS
+type: image
+subtype: plan
+title: Bauplan Gemeindehaus 1863
+date: "1863"
+location: Nienwalde, Gärtnerei
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v78942
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Lüchow
+    type: place
+files:
+  - role: main
+    original_name: scan_675.tif
+    path: files/3f/a6/3fa618099e7db2afd36ba163d82adbd0c754051a2dbd45dbe1d1267cc950804f/original.tif
+    sha256: 3fa618099e7db2afd36ba163d82adbd0c754051a2dbd45dbe1d1267cc950804f
+    mime: image/tiff
+    bytes: 17426256
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3f/a6/3fa618099e7db2afd36ba163d82adbd0c754051a2dbd45dbe1d1267cc950804f/preview-400.084e90313b0f.jpg
+        sha256: 084e90313b0f4ad4ab7eab02e434b5498182ce843d1205e5ae8ad399038e94fd
+        mime: image/jpeg
+        bytes: 70192
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,66 @@
+id: 01GVYTHB983JM0K232EXP7C4F7
+type: document
+subtype: note
+title: Aktennotiz Ortsrat, Arendsee
+description: Auf der Rückseite eines Formulars.
+date: 1913~
+location: Lenzen, Dorfschule
+origin:
+  name: Erika Pape
+  type: person
+  location: Gollensdorf
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F 18/187
+  note: Regal 4, Kiste 2
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v23905
+subjects:
+  - name: Einschulung 1913
+    type: event
+parents:
+  - 01HV8Q29MRM56K8HKB6HH162VH
+files:
+  - role: page
+    num: 1
+    original_name: note_p7c4f7_001.tif
+    path: files/bb/cc/bbcc96645a4d97707023a041b435f06ee2bca09c6fac71bf1001fbb05d9f3857/original.tif
+    sha256: bbcc96645a4d97707023a041b435f06ee2bca09c6fac71bf1001fbb05d9f3857
+    mime: image/tiff
+    bytes: 26155489
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bb/cc/bbcc96645a4d97707023a041b435f06ee2bca09c6fac71bf1001fbb05d9f3857/preview-400.8c17ad42b4f3.jpg
+        sha256: 8c17ad42b4f33c4ce0d344718337075872e73c43354332849749f14c4a59b6a9
+        mime: image/jpeg
+        bytes: 49188
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_p7c4f7_002.tif
+    path: files/0a/c2/0ac26823c1f3596d682cc359377f6fc6068f748c16df56482cb98deb6cfef944/original.tif
+    sha256: 0ac26823c1f3596d682cc359377f6fc6068f748c16df56482cb98deb6cfef944
+    mime: image/tiff
+    bytes: 12923118
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0a/c2/0ac26823c1f3596d682cc359377f6fc6068f748c16df56482cb98deb6cfef944/preview-400.c0f8aacaf6b2.jpg
+        sha256: c0f8aacaf6b2dfc65f0452b5006d4691b9d5feb6764be481fb62b79a96ade738
+        mime: image/jpeg
+        bytes: 87609
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

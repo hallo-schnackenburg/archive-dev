@@ -1,0 +1,61 @@
+id: 01FJSYVGW8CH1WV9CDA8MSY73R
+type: document
+subtype: note
+title: Kassenzettel Scheune
+description: Beleg mit Stempel.
+location: Lüchow, Heuberge
+origin:
+  name: Friedrich Heuer
+  type: person
+  location: Dömitz
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 4/191
+subjects:
+  - name: Holtorf
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_msy73r_001.tif
+    path: files/8a/b5/8ab51222b70bb80427314622ed8c7c88633c9c03c4272ee24cfa6d08c4e60c24/original.tif
+    sha256: 8ab51222b70bb80427314622ed8c7c88633c9c03c4272ee24cfa6d08c4e60c24
+    mime: image/tiff
+    bytes: 728270
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8a/b5/8ab51222b70bb80427314622ed8c7c88633c9c03c4272ee24cfa6d08c4e60c24/preview-400.2f24ad9ccac6.jpg
+        sha256: 2f24ad9ccac611b34876be1c3e179b54f21bfa17b199dd182aa86ebc6d72cf6e
+        mime: image/jpeg
+        bytes: 53316
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_msy73r_002.tif
+    path: files/6a/e1/6ae1906afc8bd0c68a0c3407445b0270a364b07ab23e2bc15d552461d65dedd0/original.tif
+    sha256: 6ae1906afc8bd0c68a0c3407445b0270a364b07ab23e2bc15d552461d65dedd0
+    mime: image/tiff
+    bytes: 25204782
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6a/e1/6ae1906afc8bd0c68a0c3407445b0270a364b07ab23e2bc15d552461d65dedd0/preview-400.b2158a292fc0.jpg
+        sha256: b2158a292fc094079d4bd8b00fbf5001f7f5c8efbd134d8da3e6429f1c7d42b4
+        mime: image/jpeg
+        bytes: 41632
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

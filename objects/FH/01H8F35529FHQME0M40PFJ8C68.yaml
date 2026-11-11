@@ -1,0 +1,45 @@
+id: 01H8F35529FHQME0M40PFJ8C68
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Hochzeit, Nienwalde"
+description: Federzeichnung, laviert.
+date: 1836-05-25
+location: Wustrow, Lange Straße
+geocode:
+  lat: 52.9553
+  lon: 11.4718
+  precision: exact
+  source: osm
+origin:
+  name: Helga Nitschke
+  type: person
+  location: Dömitz
+subjects:
+  - name: Otto Krüger
+    type: person
+  - name: Karl Matthies
+    type: person
+  - name: Hitzacker
+    type: place
+parents:
+  - 01JAT6399B3E9Z9P00A12BJSFT
+files:
+  - role: main
+    original_name: scan_038.tif
+    path: files/42/01/42018047eccedd258043e5d65fcdc26b1db195dc969ac47a3661a3e2cc414eda/original.tif
+    sha256: 42018047eccedd258043e5d65fcdc26b1db195dc969ac47a3661a3e2cc414eda
+    mime: image/tiff
+    bytes: 9262332
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/42/01/42018047eccedd258043e5d65fcdc26b1db195dc969ac47a3661a3e2cc414eda/preview-400.b8add6150af8.jpg
+        sha256: b8add6150af8d27d89e1b4148614da7e0a01bbd826c5347af4a3d48da8e4ce14
+        mime: image/jpeg
+        bytes: 28735
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01G5MGYX4EFADRGGD3VWTQDWFV
+type: image
+subtype: photo
+title: Scheune in Bömenzien
+description: Farbfoto, leicht verblasst.
+date: 1972-02-08
+location: Arendsee, Lange Straße
+origin:
+  name: Manfred Kuhlmann
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Familie Brandt
+    type: person
+    location: Hitzacker
+  reference: Dok 13/340
+parents:
+  - 01JDMR23P0ST4P21YFR11Z2B2R
+files:
+  - role: main
+    original_name: scan_466.tif
+    path: files/01/59/01599f83daa54e8dc8bd305d64eb51e5f07de8f58db248ff89d434c488c87a2d/original.tif
+    sha256: 01599f83daa54e8dc8bd305d64eb51e5f07de8f58db248ff89d434c488c87a2d
+    mime: image/tiff
+    bytes: 11286746
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/01/59/01599f83daa54e8dc8bd305d64eb51e5f07de8f58db248ff89d434c488c87a2d/preview-400.a1ab57644b4f.jpg
+        sha256: a1ab57644b4fc36281ffbe3ab7877adaeae0fc0465a9ea70c1c972c9640b288c
+        mime: image/jpeg
+        bytes: 53852
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

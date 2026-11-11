@@ -1,0 +1,46 @@
+id: 01GX2CXZAD909GY0V872HP6XCZ
+type: image
+subtype: photo
+title: Hermann Plate vor dem Tanzsaal
+description: Farbfoto, leicht verblasst.
+date: 1908~
+location: Zadrau, Marktstraße
+geocode:
+  lat: 53.0719
+  lon: 11.4865
+  precision: street
+  source: osm
+origin:
+  name: Emma Wöhlk
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 22/091
+  note: Dachboden, Truhe
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v35533
+parents:
+  - 01H36RTMJEX4S0EGJJ5ANSCJNW
+files:
+  - role: main
+    original_name: P9438.jpg
+    path: files/e5/96/e596c7793c599928e705013bf2ff59a295087ad252971609e4fa0c8df5f527ed/original.jpg
+    sha256: e596c7793c599928e705013bf2ff59a295087ad252971609e4fa0c8df5f527ed
+    mime: image/jpeg
+    bytes: 2789137
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/e5/96/e596c7793c599928e705013bf2ff59a295087ad252971609e4fa0c8df5f527ed/preview-400.7982c67d3df9.jpg
+        sha256: 7982c67d3df9de081053025a9a7c48931a78df3579239bf9d7e8210816cd5261
+        mime: image/jpeg
+        bytes: 46972
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,47 @@
+id: 01G0S1EHC00ZG9AJJ7T4HW70AB
+type: image
+subtype: print
+title: Lithographie Schmiede, Schnackenburg
+description: Lithographie, Rand beschnitten.
+date: 1860-08
+location: Gülden, Schlachterei
+geocode:
+  lat: 52.9714
+  lon: 11.5962
+  precision: town
+  source: osm
+origin:
+  name: Otto Wegner
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 2/207
+subjects:
+  - name: Dorfteich
+    type: building
+parents:
+  - 01J2543CRBVAV30G60F9GTRGZ4
+files:
+  - role: main
+    original_name: scan_766.tif
+    path: files/6a/74/6a74ce331909aef34b789397c0654ce38f4e37049ecc6cac22d000e4eb63c651/original.tif
+    sha256: 6a74ce331909aef34b789397c0654ce38f4e37049ecc6cac22d000e4eb63c651
+    mime: image/tiff
+    bytes: 19169021
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/6a/74/6a74ce331909aef34b789397c0654ce38f4e37049ecc6cac22d000e4eb63c651/preview-400.fced552b606e.jpg
+        sha256: fced552b606edba8209606c7fb566f61ee479ad88e155bde6eb348586494452f
+        mime: image/jpeg
+        bytes: 56745
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

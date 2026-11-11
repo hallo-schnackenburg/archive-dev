@@ -1,0 +1,59 @@
+id: 01F15RFDTDZKE3M0P32AMPV8JM
+type: document
+subtype: note
+title: Rechnung Voss, Bahnhof
+description: Zettel, Bleistift.
+date: "1874"
+location: Lenzen, Bahnhofstraße
+geocode:
+  lat: 53.0225
+  lon: 11.583
+  precision: exact
+  source: osm
+language: de
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Karl Bohlmann
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_mpv8jm_001.tif
+    path: files/cd/98/cd98fe55c2341aac1d1a516b5b581a9e99e68ea23e99df7af8d4dcbae56f4f4d/original.tif
+    sha256: cd98fe55c2341aac1d1a516b5b581a9e99e68ea23e99df7af8d4dcbae56f4f4d
+    mime: image/tiff
+    bytes: 27881907
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/98/cd98fe55c2341aac1d1a516b5b581a9e99e68ea23e99df7af8d4dcbae56f4f4d/preview-400.5ce91819d0e4.jpg
+        sha256: 5ce91819d0e4b917c286e7a96bcc184a60ad6fc931fccec286e4acf384316254
+        mime: image/jpeg
+        bytes: 79012
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_mpv8jm_002.tif
+    path: files/97/30/9730a6e11438a069133f697a878f518455e2427522a8c2018758130827cc8505/original.tif
+    sha256: 9730a6e11438a069133f697a878f518455e2427522a8c2018758130827cc8505
+    mime: image/tiff
+    bytes: 6641512
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/30/9730a6e11438a069133f697a878f518455e2427522a8c2018758130827cc8505/preview-400.b5886db8a7bb.jpg
+        sha256: b5886db8a7bb5930bd4eb221a30f4ee44b9dfda80b61144b65df6c1300daadba
+        mime: image/jpeg
+        bytes: 20694
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

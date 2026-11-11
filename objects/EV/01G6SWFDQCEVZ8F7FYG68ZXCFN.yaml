@@ -1,0 +1,46 @@
+id: 01G6SWFDQCEVZ8F7FYG68ZXCFN
+type: image
+subtype: drawing
+title: Rathaus, Aquarell, Nienwalde
+description: Federzeichnung, laviert.
+date: 1927-01-03
+location: Havelberg, Dorfstraße
+origin:
+  name: August Ahrens
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 21/187
+subjects:
+  - name: Kapern
+    type: place
+  - name: Storchennest
+    type: building
+  - name: Gutshaus
+    type: building
+parents:
+  - 01J1BQMAQVEW8DB40J658P2X0W
+files:
+  - role: main
+    original_name: scan_212.tif
+    path: files/91/f7/91f78fb29ee0d34ebebfc337c2817889d3a55dd012099014140e135e239226aa/original.tif
+    sha256: 91f78fb29ee0d34ebebfc337c2817889d3a55dd012099014140e135e239226aa
+    mime: image/tiff
+    bytes: 23290714
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/91/f7/91f78fb29ee0d34ebebfc337c2817889d3a55dd012099014140e135e239226aa/preview-400.7de54ddc7634.jpg
+        sha256: 7de54ddc7634e63257ba7e57fb3efd997f11cc6ec9cd2bdbc435ed8ca9fd250d
+        mime: image/jpeg
+        bytes: 75308
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

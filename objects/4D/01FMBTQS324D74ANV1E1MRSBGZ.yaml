@@ -1,0 +1,33 @@
+id: 01FMBTQS324D74ANV1E1MRSBGZ
+type: image
+subtype: photo
+title: Walter Nitschke, Porträt
+description: Aufnahme von Heinrich Schulz.
+date: 191X
+origin:
+  name: Wilhelm Rieke
+  type: person
+  location: Arendsee
+parents:
+  - 01GA39T3DGKMZM390K7AXRNKQW
+  - 01JKPSVJPFP12GHYARDAWPBNEN
+files:
+  - role: main
+    original_name: scan_426.tif
+    path: files/99/73/99734c5868c5fc679079804db9900d898d84aecfdd41a6a45300d3c3c5436bfc/original.tif
+    sha256: 99734c5868c5fc679079804db9900d898d84aecfdd41a6a45300d3c3c5436bfc
+    mime: image/tiff
+    bytes: 5771934
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/99/73/99734c5868c5fc679079804db9900d898d84aecfdd41a6a45300d3c3c5436bfc/preview-400.61457f22b2c8.jpg
+        sha256: 61457f22b2c85c1b08f71d85b1c80850a80e7eb2075eda9908e2d819d22dbb6b
+        mime: image/jpeg
+        bytes: 27726
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

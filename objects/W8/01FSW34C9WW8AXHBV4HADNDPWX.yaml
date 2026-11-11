@@ -1,0 +1,43 @@
+id: 01FSW34C9WW8AXHBV4HADNDPWX
+type: image
+subtype: plan
+title: Deichplan Seedorf bis Gülden
+description: Mit handschriftlichen Ergänzungen.
+date: 1959~
+location: Gorleben, Dorfstraße
+geocode:
+  lat: 53.0515
+  lon: 11.6194
+  precision: region
+  source: osm
+origin:
+  name: Erika Lemke
+  type: person
+  location: Seedorf
+subjects:
+  - name: Kindergartenfest 1959
+    type: event
+  - name: Konfirmation 1959
+    type: event
+parents:
+  - 01FFXT95F2XCPVJ6NKJMCYEVVA
+files:
+  - role: main
+    original_name: scan_886.tif
+    path: files/eb/ef/ebef7b2bed98e84f3ff7a645804df405547b0eb8aaa56b598f5e57a4002d5418/original.tif
+    sha256: ebef7b2bed98e84f3ff7a645804df405547b0eb8aaa56b598f5e57a4002d5418
+    mime: image/tiff
+    bytes: 24754011
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/eb/ef/ebef7b2bed98e84f3ff7a645804df405547b0eb8aaa56b598f5e57a4002d5418/preview-400.f7459d31b3d8.jpg
+        sha256: f7459d31b3d810a8afa76b017357fb1645318f7804b62e7ef985b7c44bb89794
+        mime: image/jpeg
+        bytes: 89803
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

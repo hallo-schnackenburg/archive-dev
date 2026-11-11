@@ -1,0 +1,58 @@
+id: 01FVZ314HYAN7B6VKBAGT9A2G6
+type: document
+subtype: note
+title: Rechnung Rohde, Gasthof „Zur Elbe“
+date: 1899?
+location: Gorleben, Schulstraße
+geocode:
+  lat: 52.982
+  lon: 11.6674
+  precision: town
+  source: osm
+language: en
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Deicharbeiten 1899
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_t9a2g6_001.tif
+    path: files/53/16/53169cc5a46e61a421f38f2f93ad9c98775a66e2750695ebf1bf03f965a38bcc/original.tif
+    sha256: 53169cc5a46e61a421f38f2f93ad9c98775a66e2750695ebf1bf03f965a38bcc
+    mime: image/tiff
+    bytes: 22867937
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/53/16/53169cc5a46e61a421f38f2f93ad9c98775a66e2750695ebf1bf03f965a38bcc/preview-400.2de2a3ad5e98.jpg
+        sha256: 2de2a3ad5e982df8bf30e08a0723ade2a5e7ad60062fc0aab1caa29c726f96a1
+        mime: image/jpeg
+        bytes: 61807
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_t9a2g6_002.tif
+    path: files/49/a9/49a9d35fe272a5b8e0f44174306e5831557b29ecacff0094b6100be7fedaf38b/original.tif
+    sha256: 49a9d35fe272a5b8e0f44174306e5831557b29ecacff0094b6100be7fedaf38b
+    mime: image/tiff
+    bytes: 7781490
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/49/a9/49a9d35fe272a5b8e0f44174306e5831557b29ecacff0094b6100be7fedaf38b/preview-400.92ee435b1840.jpg
+        sha256: 92ee435b1840c42d33d1e0de93fa3486523d1158c896d900231bea7750eeafbd
+        mime: image/jpeg
+        bytes: 64980
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

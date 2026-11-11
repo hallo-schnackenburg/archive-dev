@@ -1,0 +1,44 @@
+id: 01H157HY7YS0NCQYR1HYKA852F
+type: image
+subtype: photo
+title: Irmgard Schulz, Porträt
+description: Abzug im Format 13 x 18 cm.
+date: "1970"
+origin:
+  name: Ernst Rieke
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 27/031
+  note: Schrank B
+subjects:
+  - name: Richtfest 1970
+    type: event
+  - name: Hedwig Voss
+    type: person
+parents:
+  - 01KYDMSXHX7AFCZAAJ5K4HGX9B
+files:
+  - role: main
+    original_name: DSC9320.jpg
+    path: files/32/4d/324d4172ed3dd2db44b3eb2415d98f763ee721eb28738a9305594cbfb7f5c8d7/original.jpg
+    sha256: 324d4172ed3dd2db44b3eb2415d98f763ee721eb28738a9305594cbfb7f5c8d7
+    mime: image/jpeg
+    bytes: 12612709
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/32/4d/324d4172ed3dd2db44b3eb2415d98f763ee721eb28738a9305594cbfb7f5c8d7/preview-400.3ea7cb9d95ed.jpg
+        sha256: 3ea7cb9d95edb05dae87918d603b1478d8999e3e3e305af94f8643d07f88301b
+        mime: image/jpeg
+        bytes: 28524
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

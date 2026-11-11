@@ -1,0 +1,33 @@
+id: 01FMS403SNY021S6XRSEQVTKXF
+type: image
+subtype: plan
+title: Deichplan Wittenberge bis Gollensdorf
+date: 1842-05-22
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Badestelle
+    type: building
+files:
+  - role: main
+    original_name: scan_043.tif
+    path: files/ed/ce/edce02b68bb458436d9c99570e4fe85fcbcfcfeb1f1ab48e6471497093f4747a/original.tif
+    sha256: edce02b68bb458436d9c99570e4fe85fcbcfcfeb1f1ab48e6471497093f4747a
+    mime: image/tiff
+    bytes: 8690411
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ed/ce/edce02b68bb458436d9c99570e4fe85fcbcfcfeb1f1ab48e6471497093f4747a/preview-400.4ca96796d12c.jpg
+        sha256: 4ca96796d12c99259daa3a84a851678d32dfef058c4d1a11a5b4ba34d569f702
+        mime: image/jpeg
+        bytes: 72763
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

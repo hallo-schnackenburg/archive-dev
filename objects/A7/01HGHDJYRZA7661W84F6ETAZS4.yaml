@@ -1,0 +1,43 @@
+id: 01HGHDJYRZA7661W84F6ETAZS4
+type: image
+subtype: print
+title: Postkarte Hitzacker, Dorfteich
+description: Lithographie, Rand beschnitten.
+date: 1748-08-07
+location: Hitzacker, Wassermühle
+origin:
+  name: Helga Lemke
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos/Kasten 9/054
+  note: Mappe 12
+subjects:
+  - name: Lanz
+    type: place
+  - name: Poststelle
+    type: building
+files:
+  - role: main
+    original_name: scan_005.tif
+    path: files/75/42/754241f92684f788b95820a8e9a0acc9b81ae83b3dedbe8a17e157f93ba424a9/original.tif
+    sha256: 754241f92684f788b95820a8e9a0acc9b81ae83b3dedbe8a17e157f93ba424a9
+    mime: image/tiff
+    bytes: 25715213
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/75/42/754241f92684f788b95820a8e9a0acc9b81ae83b3dedbe8a17e157f93ba424a9/preview-400.e75fc0bd70c7.jpg
+        sha256: e75fc0bd70c76c2f517342b28431a27c5c8c3acaa6a9ae9cf132ce3a2ec32767
+        mime: image/jpeg
+        bytes: 69665
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

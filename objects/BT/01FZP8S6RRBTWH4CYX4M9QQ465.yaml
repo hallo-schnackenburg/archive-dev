@@ -1,0 +1,47 @@
+id: 01FZP8S6RRBTWH4CYX4M9QQ465
+type: image
+subtype: photo
+title: Hafenstraße, Ecke Elbstraße
+description: Farbfoto, leicht verblasst.
+date: 1976-10-08
+location: Gartow, Gemeindehaus
+geocode:
+  lat: 52.9387
+  lon: 11.6052
+  precision: region
+  source: osm
+origin:
+  name: Erika Eggers
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 6/130
+  note: Dachboden, Truhe
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v39375
+parents:
+  - 01KKDMB49XNP34JAQ6WF092FVT
+  - 01F9MQ787B1DZ88NJB119JTN0N
+files:
+  - role: main
+    original_name: foto_1795.jpg
+    path: files/6e/ef/6eefd8b6d6177a34eb4fdad76647660bf7d2e9e65a15e1cb378395a230de0228/original.jpg
+    sha256: 6eefd8b6d6177a34eb4fdad76647660bf7d2e9e65a15e1cb378395a230de0228
+    mime: image/jpeg
+    bytes: 4052923
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/6e/ef/6eefd8b6d6177a34eb4fdad76647660bf7d2e9e65a15e1cb378395a230de0228/preview-400.78647af807a0.jpg
+        sha256: 78647af807a06b8b63d45c85ede31afb1b4edcc949f4544c929c0a45ed6ae01f
+        mime: image/jpeg
+        bytes: 69673
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

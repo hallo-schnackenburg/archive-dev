@@ -1,0 +1,85 @@
+id: 01EWGEVRND4GQB3AW5KPRZK8AW
+type: document
+subtype: letter
+title: Korrespondenz Heinrich Lemke
+date: 1872-05
+location: Lüchow, Burgstraße
+geocode:
+  lat: 52.9298
+  lon: 11.5124
+  precision: street
+  source: osm
+origin:
+  name: Elfriede Voss
+  type: person
+  location: Pretzier
+recipient: Walter Meyer
+language: de
+subjects:
+  - name: Lanz
+    type: place
+  - name: Bömenzien
+    type: place
+parents:
+  - 01FBYZQVFEERGK9E2W84G9TFJ3
+files:
+  - role: page
+    num: 1
+    original_name: letter_rzk8aw_001.tif
+    path: files/c8/c6/c8c66bfe034ee2d8aafa0beead7d147ce9872a3296db1092accb3fca5f0d60b5/original.tif
+    sha256: c8c66bfe034ee2d8aafa0beead7d147ce9872a3296db1092accb3fca5f0d60b5
+    mime: image/tiff
+    bytes: 25092034
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/c6/c8c66bfe034ee2d8aafa0beead7d147ce9872a3296db1092accb3fca5f0d60b5/preview-400.8f51cfdf6115.jpg
+        sha256: 8f51cfdf6115418fca58e4c1bd6e1ef602e2a7627a1294e0a3fd7d2536550148
+        mime: image/jpeg
+        bytes: 32104
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_rzk8aw_002.tif
+    path: files/c1/2f/c12f0d81bfb15bd0595bb2abf62a50be9a9eaa156bec422aaccf412b4ead1dfb/original.tif
+    sha256: c12f0d81bfb15bd0595bb2abf62a50be9a9eaa156bec422aaccf412b4ead1dfb
+    mime: image/tiff
+    bytes: 2865335
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c1/2f/c12f0d81bfb15bd0595bb2abf62a50be9a9eaa156bec422aaccf412b4ead1dfb/preview-400.26fecdc4f075.jpg
+        sha256: 26fecdc4f075893365f921af4acb328fdf04ad139625f31d74e9b8145af32e70
+        mime: image/jpeg
+        bytes: 35398
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_rzk8aw_003.tif
+    path: files/21/24/212489048b9ef7b08d4528ddf48056b93c34ad979b59809ba102b9706dd27610/original.tif
+    sha256: 212489048b9ef7b08d4528ddf48056b93c34ad979b59809ba102b9706dd27610
+    mime: image/tiff
+    bytes: 13949551
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/21/24/212489048b9ef7b08d4528ddf48056b93c34ad979b59809ba102b9706dd27610/preview-400.f3c34b0a7f44.jpg
+        sha256: f3c34b0a7f44fc8ce756850ae7004515002cc6cc985a17d33c8c903eb9ec1ad4
+        mime: image/jpeg
+        bytes: 56360
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

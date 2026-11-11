@@ -1,0 +1,35 @@
+id: 01K5G11HC26ND2A0JH6H2B8YHX
+type: image
+subtype: plan
+title: Bauplan Kegelbahn 1770
+date: 1770-12
+location: Havelberg, Pfarrhaus
+geocode:
+  lat: 52.9568
+  lon: 11.5303
+  precision: street
+  source: osm
+origin:
+  name: Gerda Krüger
+  type: person
+  location: Schnackenburg
+files:
+  - role: main
+    original_name: scan_386.tif
+    path: files/26/f0/26f0296593d2e96882230611ce904552b99c27a356fbf39d1738923d433d1e44/original.tif
+    sha256: 26f0296593d2e96882230611ce904552b99c27a356fbf39d1738923d433d1e44
+    mime: image/tiff
+    bytes: 25737911
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/f0/26f0296593d2e96882230611ce904552b99c27a356fbf39d1738923d433d1e44/preview-400.a0b74e7cab84.jpg
+        sha256: a0b74e7cab844fd7ce562df64883fa31e9451b382837596f1e4ae53999f6a6b5
+        mime: image/jpeg
+        bytes: 67092
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

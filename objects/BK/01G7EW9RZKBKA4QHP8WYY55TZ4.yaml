@@ -1,0 +1,42 @@
+id: 01G7EW9RZKBKA4QHP8WYY55TZ4
+type: image
+subtype: print
+title: "Kupferstich: Wittenberge von der Elbseite"
+description: Postkarte, gelaufen 1903.
+date: 1748-12
+location: Havelberg, Wassermühle
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 4/054
+  note: Regal 1
+subjects:
+  - name: Kirmes 1748
+    type: event
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01H40DBW3NVXVHMCXP864M4XJA
+files:
+  - role: main
+    original_name: scan_018.tif
+    path: files/8f/d7/8fd77d94088a5ac1b1309d27b4927258b4994646f4d435072f240bb731d47976/original.tif
+    sha256: 8fd77d94088a5ac1b1309d27b4927258b4994646f4d435072f240bb731d47976
+    mime: image/tiff
+    bytes: 6511267
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8f/d7/8fd77d94088a5ac1b1309d27b4927258b4994646f4d435072f240bb731d47976/preview-400.037705bf7ffa.jpg
+        sha256: 037705bf7ffa75734afde0c6e24e37cf348545b59d8aab27a254c1fde16ee2e1
+        mime: image/jpeg
+        bytes: 50488
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

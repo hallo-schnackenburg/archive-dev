@@ -1,0 +1,30 @@
+id: 01JKEX85MF8T5B3EG90ZHKKMP8
+type: image
+subtype: print
+title: Lithographie Scheune
+description: Kupferstich, koloriert.
+date: 1913-03-26
+origin:
+  name: Dieter Klatt
+  type: person
+  location: Gartow
+files:
+  - role: main
+    original_name: scan_173.tif
+    path: files/d8/61/d86103ee188644b779e25782d5ec24c7e149b1a69fd58dc425813c97f11bf27e/original.tif
+    sha256: d86103ee188644b779e25782d5ec24c7e149b1a69fd58dc425813c97f11bf27e
+    mime: image/tiff
+    bytes: 16277603
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d8/61/d86103ee188644b779e25782d5ec24c7e149b1a69fd58dc425813c97f11bf27e/preview-400.dfc3d2b593a3.jpg
+        sha256: dfc3d2b593a33c12871668d8f281f983e3933490b90704539d56da38ab4a5059
+        mime: image/jpeg
+        bytes: 79555
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

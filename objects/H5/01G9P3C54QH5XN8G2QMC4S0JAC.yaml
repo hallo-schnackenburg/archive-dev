@@ -1,0 +1,48 @@
+id: 01G9P3C54QH5XN8G2QMC4S0JAC
+type: image
+subtype: drawing
+title: Skizze Hitzacker, Bahnhofstraße
+description: Federzeichnung, laviert.
+date: 1846~
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 4, Kiste 2
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v96090
+owner:
+  name: Heinz Burmester
+  type: person
+  note: Nachlass
+subjects:
+  - name: Hans Heuer
+    type: person
+  - name: Fastnacht 1846
+    type: event
+parents:
+  - 01HW23R9B0E6RPF7JKRG9EPK9N
+files:
+  - role: main
+    original_name: scan_654.tif
+    path: files/01/de/01deda96609dc11342cb13ef78e1693e32980f9b72a0b577f9747d82142d4541/original.tif
+    sha256: 01deda96609dc11342cb13ef78e1693e32980f9b72a0b577f9747d82142d4541
+    mime: image/tiff
+    bytes: 27790923
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/01/de/01deda96609dc11342cb13ef78e1693e32980f9b72a0b577f9747d82142d4541/preview-400.c5f3efae89af.jpg
+        sha256: c5f3efae89afc387d84023f50b419431c2bc64e23b728d7fdef70151965cef36
+        mime: image/jpeg
+        bytes: 58572
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

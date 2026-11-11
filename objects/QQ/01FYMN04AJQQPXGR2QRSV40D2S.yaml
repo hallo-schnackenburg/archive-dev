@@ -1,0 +1,41 @@
+id: 01FYMN04AJQQPXGR2QRSV40D2S
+type: image
+subtype: photo
+title: Rudolf Hennings vor dem Bäckerei Lüders
+description: Farbfoto, leicht verblasst.
+date: "1932"
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Anni Krüger
+    type: person
+  - name: Schützenhaus
+    type: building
+  - name: Karl Voss
+    type: person
+parents:
+  - 01JKQ421K5RBFQ8NV81GBKEPMH
+  - 01H50FV4Y1X081JA2BHVBS4W88
+files:
+  - role: main
+    original_name: DSC8453.jpg
+    path: files/da/6b/da6b576cc44bbaedfe5f782dd9d1ace68fbd529c5daf3e918e6a95ebf828ec80/original.jpg
+    sha256: da6b576cc44bbaedfe5f782dd9d1ace68fbd529c5daf3e918e6a95ebf828ec80
+    mime: image/jpeg
+    bytes: 11797721
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/da/6b/da6b576cc44bbaedfe5f782dd9d1ace68fbd529c5daf3e918e6a95ebf828ec80/preview-400.b9480341e0b4.jpg
+        sha256: b9480341e0b42bce85e62620c4d117e86a9ef4182c94041bae376ec997f56dc7
+        mime: image/jpeg
+        bytes: 59672
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01GATC1MKH8C87QP4HMS31A279
+type: image
+subtype: photo
+title: Wassermühle in Arendsee
+description: Aufnahme von Friedrich Bruns.
+date: "2001"
+location: Gülden, Bahnhofstraße
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg/Kasten 3/096
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Einschulung 2001
+    type: event
+files:
+  - role: main
+    original_name: scan_147.tif
+    path: files/3c/75/3c752ffe3dc341e57e0f04c1fecde4d5d16515a5c5c3204c1be0ef02892b233c/original.tif
+    sha256: 3c752ffe3dc341e57e0f04c1fecde4d5d16515a5c5c3204c1be0ef02892b233c
+    mime: image/tiff
+    bytes: 12995022
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3c/75/3c752ffe3dc341e57e0f04c1fecde4d5d16515a5c5c3204c1be0ef02892b233c/preview-400.898bb5c6b8e0.jpg
+        sha256: 898bb5c6b8e045b1e9ab9d491dd24977efc892cf45341bfdce4664c42e1f2a51
+        mime: image/jpeg
+        bytes: 72871
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

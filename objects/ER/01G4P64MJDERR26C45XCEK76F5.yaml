@@ -1,0 +1,48 @@
+id: 01G4P64MJDERR26C45XCEK76F5
+type: document
+subtype: letter
+title: Brief von Dieter Krüger an Wilhelm Ahrens
+description: Handschriftlich, 1 Seiten.
+date: 1849-11
+location: Rüterberg, Mühlenweg
+geocode:
+  lat: 53.0604
+  lon: 11.5956
+  precision: town
+  source: osm
+origin:
+  name: Ilse Rieke
+  type: person
+  location: Lüchow
+recipient: Dieter Hennings
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok 29/376
+subjects:
+  - name: Tanzsaal
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_ek76f5_001.tif
+    path: files/5b/e4/5be45e003369e030ed230b59ce13d1529dbcec467dcf19adb8af677716b65625/original.tif
+    sha256: 5be45e003369e030ed230b59ce13d1529dbcec467dcf19adb8af677716b65625
+    mime: image/tiff
+    bytes: 12851889
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5b/e4/5be45e003369e030ed230b59ce13d1529dbcec467dcf19adb8af677716b65625/preview-400.42d3a64e1665.jpg
+        sha256: 42d3a64e16650a4da70059776ec3589c2539b21de4b5da61381d18a1f1e67464
+        mime: image/jpeg
+        bytes: 72420
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

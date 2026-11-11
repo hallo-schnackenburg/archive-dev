@@ -1,0 +1,85 @@
+id: 01GEVGHZP0XZXWJA0C7V8W3A1C
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Arendsee 1952
+location: Arendsee, Gärtnerei
+origin:
+  name: Samtgemeinderat Rüterberg
+  type: business
+  location: Laase
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 28/018
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v96491
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Hochwasser 1952
+    type: event
+parents:
+  - 01GRV0HWYNKA4M54BH3W1TXJFJ
+files:
+  - role: page
+    num: 1
+    original_name: protocol_8w3a1c_001.tif
+    path: files/42/a1/42a129fb74f639414e6b5ffdd2d0e715f36c8e5d8a86bb55c33ea09460e29cc0/original.tif
+    sha256: 42a129fb74f639414e6b5ffdd2d0e715f36c8e5d8a86bb55c33ea09460e29cc0
+    mime: image/tiff
+    bytes: 21583182
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/42/a1/42a129fb74f639414e6b5ffdd2d0e715f36c8e5d8a86bb55c33ea09460e29cc0/preview-400.fecc0877d070.jpg
+        sha256: fecc0877d0703da872d1ea1fc36ddcaae96732d2d8931197d6c075ca0ef7f2d1
+        mime: image/jpeg
+        bytes: 36313
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_8w3a1c_002.tif
+    path: files/9e/b6/9eb648102e2ebc05a7b2899cf1c7b0eee76a28fe67716b2532720c779f117057/original.tif
+    sha256: 9eb648102e2ebc05a7b2899cf1c7b0eee76a28fe67716b2532720c779f117057
+    mime: image/tiff
+    bytes: 20291664
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9e/b6/9eb648102e2ebc05a7b2899cf1c7b0eee76a28fe67716b2532720c779f117057/preview-400.69a66e89234a.jpg
+        sha256: 69a66e89234af11f40f935ccd312a642723a8217de135e21ee12980f2a8b4445
+        mime: image/jpeg
+        bytes: 46480
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_8w3a1c_003.tif
+    path: files/24/bd/24bd8f38fdc9a4012f41777c93dd68f1892c825988e11b2ea9df5a2d3f095cfc/original.tif
+    sha256: 24bd8f38fdc9a4012f41777c93dd68f1892c825988e11b2ea9df5a2d3f095cfc
+    mime: image/tiff
+    bytes: 2460595
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/24/bd/24bd8f38fdc9a4012f41777c93dd68f1892c825988e11b2ea9df5a2d3f095cfc/preview-400.e8ad6d756a0e.jpg
+        sha256: e8ad6d756a0ef5c5018e0bec248588943aaecff7b44b1f9703a6940be13cc49b
+        mime: image/jpeg
+        bytes: 82107
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

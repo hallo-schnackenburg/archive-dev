@@ -1,0 +1,41 @@
+id: 01JY0E1ABXC758A5TZ5S918K06
+type: image
+subtype: photo
+title: Gasthof Meyer nach dem Richtfest
+location: Wustrow, Deichstraße
+geocode:
+  lat: 53.0452
+  lon: 11.6852
+  precision: town
+  source: osm
+origin:
+  name: Emma Meyer
+  type: person
+  location: Zadrau
+subjects:
+  - name: Torhaus
+    type: building
+  - name: Wassermühle
+    type: building
+parents:
+  - 01JS8ZTXPKXF8SMDJ80AZF81V6
+files:
+  - role: main
+    original_name: scan_266.tif
+    path: files/8e/98/8e98fabfe0f7026413d53f8a021d361c52225467aac6038750ed17780fc3ec5e/original.tif
+    sha256: 8e98fabfe0f7026413d53f8a021d361c52225467aac6038750ed17780fc3ec5e
+    mime: image/tiff
+    bytes: 26572365
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/8e/98/8e98fabfe0f7026413d53f8a021d361c52225467aac6038750ed17780fc3ec5e/preview-400.2fdcd8863140.jpg
+        sha256: 2fdcd886314031121f062606dc4e47ada227125d569916a816843d63dd792867
+        mime: image/jpeg
+        bytes: 89413
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01G57ZQ8QMN7SG8012GBX819VC
+type: image
+subtype: plan
+title: Deichplan Havelberg bis Bömenzien
+date: 1965-01-27
+location: Brünkendorf, Marktstraße
+geocode:
+  lat: 53.0759
+  lon: 11.543
+  precision: exact
+  source: osm
+subjects:
+  - name: Frieda Plate
+    type: person
+parents:
+  - 01GBX4DSD6VXD835CH0X8R10EN
+files:
+  - role: main
+    original_name: scan_988.tif
+    path: files/71/23/7123e54acc7aafdf07b8a7e85d12463e1f6e33831605e8c525f44233a4d9d20a/original.tif
+    sha256: 7123e54acc7aafdf07b8a7e85d12463e1f6e33831605e8c525f44233a4d9d20a
+    mime: image/tiff
+    bytes: 27139149
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/71/23/7123e54acc7aafdf07b8a7e85d12463e1f6e33831605e8c525f44233a4d9d20a/preview-400.2fd19b3b8fd4.jpg
+        sha256: 2fd19b3b8fd4d7887aa928c34f5fe75625edd78c1a7c667627fddfa1219302ec
+        mime: image/jpeg
+        bytes: 69271
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

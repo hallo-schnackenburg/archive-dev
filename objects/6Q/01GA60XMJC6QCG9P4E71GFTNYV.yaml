@@ -1,0 +1,32 @@
+id: 01GA60XMJC6QCG9P4E71GFTNYV
+type: image
+subtype: plan
+title: Flurkarte Lüchow
+date: 193X
+location: Salzwedel, Gutshaus
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+parents:
+  - 01JGSEJ488A7DZQPFCQNBYWMJ1
+  - 01J7HJZCB7JJH7C2451YX2QZGY
+files:
+  - role: main
+    original_name: scan_767.tif
+    path: files/08/89/0889d3a12311385ccb6f2b87aed0a35f2d77136d84d802d19b8bcaf0b9b3e2b2/original.tif
+    sha256: 0889d3a12311385ccb6f2b87aed0a35f2d77136d84d802d19b8bcaf0b9b3e2b2
+    mime: image/tiff
+    bytes: 24932400
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/08/89/0889d3a12311385ccb6f2b87aed0a35f2d77136d84d802d19b8bcaf0b9b3e2b2/preview-400.45d1a26ab6d5.jpg
+        sha256: 45d1a26ab6d5865c253a36ae52dc38bfa307687dc2124f2f69f14f7a88d584d5
+        mime: image/jpeg
+        bytes: 60999
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

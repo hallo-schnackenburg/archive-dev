@@ -1,0 +1,39 @@
+id: 01FT9J76YSCP3WP5V8GYPMVX5D
+type: image
+subtype: plan
+title: Bauplan Sportplatz 1792
+description: Maßstab 1:250.
+date: "1792"
+location: Wittenberge, Am Elbdeich
+geocode:
+  lat: 52.9445
+  lon: 11.6045
+  precision: town
+  source: osm
+origin:
+  name: Hans Schulz
+  type: person
+  location: Arendsee
+subjects:
+  - name: Kindergartenfest 1792
+    type: event
+files:
+  - role: main
+    original_name: scan_182.tif
+    path: files/ea/e1/eae1bb7ff380c555a0a300f741bbd4d38b46b75917ce56477ec88862e14b5d5b/original.tif
+    sha256: eae1bb7ff380c555a0a300f741bbd4d38b46b75917ce56477ec88862e14b5d5b
+    mime: image/tiff
+    bytes: 21804228
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ea/e1/eae1bb7ff380c555a0a300f741bbd4d38b46b75917ce56477ec88862e14b5d5b/preview-400.60c41211cafb.jpg
+        sha256: 60c41211cafb3f95a1a684f11fed45053aa8acf7850f798b2470da6d5a87d540
+        mime: image/jpeg
+        bytes: 28865
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01JFRCGVD81N6ZAA817XBQ30C4
+type: image
+subtype: drawing
+title: Federzeichnung Bäckerei Lüders, Hitzacker
+location: Gülden, Dorfteich
+geocode:
+  lat: 53.0216
+  lon: 11.6886
+  precision: region
+  source: osm
+origin:
+  name: Käthe Lenz
+  type: person
+  location: Seedorf
+subjects:
+  - name: Dömitz
+    type: place
+parents:
+  - 01KBCYJZPX2SPV1MBZZ3QST2X6
+files:
+  - role: main
+    original_name: scan_377.tif
+    path: files/9f/34/9f34fbcfad55e2891a726edc3c4a334d7bda8189a3d704f6bf1002d18ba31d80/original.tif
+    sha256: 9f34fbcfad55e2891a726edc3c4a334d7bda8189a3d704f6bf1002d18ba31d80
+    mime: image/tiff
+    bytes: 13905860
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/9f/34/9f34fbcfad55e2891a726edc3c4a334d7bda8189a3d704f6bf1002d18ba31d80/preview-400.1f1751348317.jpg
+        sha256: 1f1751348317965794c7e6c0fdec8b16cbb0eddd40b3c97aa0d86c638dbd2897
+        mime: image/jpeg
+        bytes: 27825
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

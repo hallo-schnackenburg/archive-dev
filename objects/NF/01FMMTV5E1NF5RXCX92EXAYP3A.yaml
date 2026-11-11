@@ -1,0 +1,34 @@
+id: 01FMMTV5E1NF5RXCX92EXAYP3A
+type: image
+subtype: drawing
+title: Skizze Gollensdorf, Schulstraße
+date: 1922-03-14
+origin:
+  name: Friedrich Dreyer
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Schlachtfest 1922
+    type: event
+parents:
+  - 01F5AE2XPF50SXP9GWBFQRZ78K
+files:
+  - role: main
+    original_name: scan_655.tif
+    path: files/e4/b2/e4b2f92bccc5ab395355d1551edbbd576c48d9aa7c8e3022adbfc6ee171c42ed/original.tif
+    sha256: e4b2f92bccc5ab395355d1551edbbd576c48d9aa7c8e3022adbfc6ee171c42ed
+    mime: image/tiff
+    bytes: 8384370
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e4/b2/e4b2f92bccc5ab395355d1551edbbd576c48d9aa7c8e3022adbfc6ee171c42ed/preview-400.fa8e68f258ac.jpg
+        sha256: fa8e68f258ac52bcf3ec7328e01119fe462deabf14cf4dd73ec85d1d029da8cf
+        mime: image/jpeg
+        bytes: 48361
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

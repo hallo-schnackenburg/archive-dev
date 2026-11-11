@@ -1,0 +1,31 @@
+id: 01H0XVT4CQDFFMK7BVSMQY3JVH
+type: image
+subtype: plan
+title: Bauplan Storchennest 1842
+date: 1842-07
+location: Pretzier, Pumpenhaus
+subjects:
+  - name: Brückeneinweihung 1842
+    type: event
+parents:
+  - 01J0GYR8W2ERJ99C6YPH8ATKMN
+files:
+  - role: main
+    original_name: scan_219.tif
+    path: files/a2/b6/a2b64e8b28176e94be64255d8d29ee2a717df18192a80680cab0a4b806ad9ac5/original.tif
+    sha256: a2b64e8b28176e94be64255d8d29ee2a717df18192a80680cab0a4b806ad9ac5
+    mime: image/tiff
+    bytes: 15447048
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a2/b6/a2b64e8b28176e94be64255d8d29ee2a717df18192a80680cab0a4b806ad9ac5/preview-400.c7600b08a2d5.jpg
+        sha256: c7600b08a2d5f641ac33e5682440d7413c8c919a9e2932141e7cb2069dbcbe45
+        mime: image/jpeg
+        bytes: 81317
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

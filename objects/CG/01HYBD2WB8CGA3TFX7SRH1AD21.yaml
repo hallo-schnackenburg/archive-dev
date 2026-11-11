@@ -1,0 +1,38 @@
+id: 01HYBD2WB8CGA3TFX7SRH1AD21
+type: image
+subtype: print
+title: Postkarte Dömitz, Gemeindehaus
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Schrank B
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v58554
+subjects:
+  - name: Torhaus
+    type: building
+  - name: Pfarrhaus
+    type: building
+parents:
+  - 01HQR6RV72ZH2HDYEHKXXJ1EJM
+files:
+  - role: main
+    original_name: scan_219.tif
+    path: files/58/bf/58bf09470a5c29b584d8863e2e504c4619ba6acec8a38bb068c2d723cbeed81c/original.tif
+    sha256: 58bf09470a5c29b584d8863e2e504c4619ba6acec8a38bb068c2d723cbeed81c
+    mime: image/tiff
+    bytes: 17850121
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/58/bf/58bf09470a5c29b584d8863e2e504c4619ba6acec8a38bb068c2d723cbeed81c/preview-400.39b37fbb594e.jpg
+        sha256: 39b37fbb594e7688290955a9a6c16a756e19debeed53e1e97fa4a6def36a2b81
+        mime: image/jpeg
+        bytes: 37125
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

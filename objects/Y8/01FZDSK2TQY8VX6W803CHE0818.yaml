@@ -1,0 +1,35 @@
+id: 01FZDSK2TQY8VX6W803CHE0818
+type: image
+subtype: photo
+title: Bahnhof in Schnackenburg
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro/Album 20/092
+subjects:
+  - name: Gorleben
+    type: place
+parents:
+  - 01FKRCJXM1WMJBH86NTRWPP373
+files:
+  - role: main
+    original_name: scan_989.tif
+    path: files/cd/b0/cdb06529f3b2459117421f3d9944aecfc99237927f089def6753df0925dd619c/original.tif
+    sha256: cdb06529f3b2459117421f3d9944aecfc99237927f089def6753df0925dd619c
+    mime: image/tiff
+    bytes: 3574497
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/b0/cdb06529f3b2459117421f3d9944aecfc99237927f089def6753df0925dd619c/preview-400.cfb12f873d52.jpg
+        sha256: cfb12f873d522410804cd7f88c342a2b602147f37ffc417ede10d39537d8f8b1
+        mime: image/jpeg
+        bytes: 58018
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

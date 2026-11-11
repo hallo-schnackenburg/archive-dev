@@ -1,0 +1,38 @@
+id: 01JAYHSY3VC1787ZAAZDZWDHNZ
+type: image
+subtype: photo
+title: Anni Plate, Porträt
+date: "1958"
+location: Gollensdorf, Storchennest
+geocode:
+  lat: 53.0664
+  lon: 11.6191
+  precision: region
+  source: osm
+subjects:
+  - name: Feuerwehrübung 1958
+    type: event
+  - name: Einschulung 1958
+    type: event
+  - name: Tanzsaal
+    type: building
+files:
+  - role: main
+    original_name: scan_044.tif
+    path: files/c3/82/c382144e29d1d8406f4a45cc39c03b6b3d539d25787474f4f579fa397582ad29/original.tif
+    sha256: c382144e29d1d8406f4a45cc39c03b6b3d539d25787474f4f579fa397582ad29
+    mime: image/tiff
+    bytes: 6160356
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c3/82/c382144e29d1d8406f4a45cc39c03b6b3d539d25787474f4f579fa397582ad29/preview-400.28b3d2139d85.jpg
+        sha256: 28b3d2139d859387e659a1c058176ce6125c54dfc1081ee71f5fa6afe7b251ca
+        mime: image/jpeg
+        bytes: 79027
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

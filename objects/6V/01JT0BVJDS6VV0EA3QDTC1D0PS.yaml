@@ -1,0 +1,31 @@
+id: 01JT0BVJDS6VV0EA3QDTC1D0PS
+type: image
+subtype: photo
+title: Grenzöffnung 1922
+description: Zu sehen sind Tanzsaal und Hafen.
+date: 1922?
+location: Gartow, Zollamt
+origin:
+  name: Ernst Jeß
+  type: person
+  location: Rüterberg
+files:
+  - role: main
+    original_name: scan_429.tif
+    path: files/19/c1/19c1792e8d9f9f4beb498272d97dca23a19c6ab48c549c572daadba4bc167190/original.tif
+    sha256: 19c1792e8d9f9f4beb498272d97dca23a19c6ab48c549c572daadba4bc167190
+    mime: image/tiff
+    bytes: 15877433
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/19/c1/19c1792e8d9f9f4beb498272d97dca23a19c6ab48c549c572daadba4bc167190/preview-400.813dea0579ab.jpg
+        sha256: 813dea0579ab98b8669c971e6bbe7f49c16c7182a01231b48539b2377d341aad
+        mime: image/jpeg
+        bytes: 34168
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01H6KSR2QFGF53AFZ98K5SHF9Y
+type: image
+subtype: print
+title: Postkarte Wootz, Windmühle, Dömitz
+description: Lithographie, Rand beschnitten.
+date: 1886-09
+location: Arendsee, Elbstraße
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro 34/074
+subjects:
+  - name: Richtfest 1886
+    type: event
+  - name: Frieda Wegner
+    type: person
+  - name: Straßenfest 1886
+    type: event
+parents:
+  - 01J5VEM4DET47BYJHEPTWJ7T8Q
+files:
+  - role: main
+    original_name: scan_746.tif
+    path: files/9e/cf/9ecf32310154dd6fa2d4ae50ee0aae26d5d5d5a5e3592a0af7988a8031840f00/original.tif
+    sha256: 9ecf32310154dd6fa2d4ae50ee0aae26d5d5d5a5e3592a0af7988a8031840f00
+    mime: image/tiff
+    bytes: 13361230
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9e/cf/9ecf32310154dd6fa2d4ae50ee0aae26d5d5d5a5e3592a0af7988a8031840f00/preview-400.20dae12db362.jpg
+        sha256: 20dae12db362c617cf93af4a345e50c718fb6c1c6e87d9a752c856d2756d0a15
+        mime: image/jpeg
+        bytes: 64134
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

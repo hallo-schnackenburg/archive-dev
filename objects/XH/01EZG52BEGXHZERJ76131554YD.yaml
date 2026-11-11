@@ -1,0 +1,46 @@
+id: 01EZG52BEGXHZERJ76131554YD
+type: image
+subtype: plan
+title: Grundriss Fähranleger, Wustrow
+date: "1817"
+location: Salzwedel, Lange Straße
+geocode:
+  lat: 53.0381
+  lon: 11.4925
+  precision: region
+  source: osm
+origin:
+  name: Karl Meyer
+  type: person
+  location: Cumlosen
+owner:
+  name: Heinrich Cohrs
+  type: person
+  note: Nachlass
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Wilhelm Plate
+    type: person
+parents:
+  - 01KRNVBSTXBJR5NRDE3HAC7HXQ
+files:
+  - role: main
+    original_name: scan_735.tif
+    path: files/43/0c/430c24d33432a09f8955bbafaf78cc0b99647e62be97f51d4535b60a66c2ad6f/original.tif
+    sha256: 430c24d33432a09f8955bbafaf78cc0b99647e62be97f51d4535b60a66c2ad6f
+    mime: image/tiff
+    bytes: 4048089
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/43/0c/430c24d33432a09f8955bbafaf78cc0b99647e62be97f51d4535b60a66c2ad6f/preview-400.61d160650971.jpg
+        sha256: 61d160650971306ebcf129f4082906d8ae81ce16c44ac5ac42ddc42a066e859c
+        mime: image/jpeg
+        bytes: 37847
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

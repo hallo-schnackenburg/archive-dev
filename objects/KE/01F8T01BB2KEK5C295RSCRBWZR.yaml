@@ -1,0 +1,33 @@
+id: 01F8T01BB2KEK5C295RSCRBWZR
+type: image
+subtype: photo
+title: Fritz Bruns, Porträt
+description: Abzug im Format 13 x 18 cm.
+date: 1890-01-17
+location: Wootz, Fährstraße
+origin:
+  name: Marta Kuhlmann
+  type: person
+  location: Bömenzien
+parents:
+  - 01GXXVEKH9A0GJR23K785W58NQ
+files:
+  - role: main
+    original_name: scan_825.tif
+    path: files/d5/13/d513652841dec45547025763b1c28312fa872ca2dae10c1a86b77b38172576b7/original.tif
+    sha256: d513652841dec45547025763b1c28312fa872ca2dae10c1a86b77b38172576b7
+    mime: image/tiff
+    bytes: 10922430
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/13/d513652841dec45547025763b1c28312fa872ca2dae10c1a86b77b38172576b7/preview-400.1f65cd9f44d0.jpg
+        sha256: 1f65cd9f44d04b07d27107af000b4d14bf1b8a8d1f5b7f58488b6612b3d3d2af
+        mime: image/jpeg
+        bytes: 43605
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

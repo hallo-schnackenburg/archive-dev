@@ -1,0 +1,30 @@
+id: 01FYS00W7W932B6HVN6EGXN4X6
+type: image
+subtype: photo
+title: Ernst Dierks vor dem Försterei
+description: Aufnahme von Hans Lemke.
+date: 1977/1981
+origin:
+  name: Emma Jeß
+  type: person
+  location: Arendsee
+files:
+  - role: main
+    original_name: foto_0886.jpg
+    path: files/fe/0b/fe0b425b39a0cde6c9933746fa4a2733a24f04bb7c3601171546db4649ba4b42/original.jpg
+    sha256: fe0b425b39a0cde6c9933746fa4a2733a24f04bb7c3601171546db4649ba4b42
+    mime: image/jpeg
+    bytes: 25395721
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/fe/0b/fe0b425b39a0cde6c9933746fa4a2733a24f04bb7c3601171546db4649ba4b42/preview-400.168bbbfd90dd.jpg
+        sha256: 168bbbfd90ddcefcb574a12561183be60127fed456b716fefe7c07bec851eabf
+        mime: image/jpeg
+        bytes: 24026
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

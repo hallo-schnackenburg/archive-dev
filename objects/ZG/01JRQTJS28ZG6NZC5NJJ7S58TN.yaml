@@ -1,0 +1,39 @@
+id: 01JRQTJS28ZG6NZC5NJJ7S58TN
+type: image
+subtype: plan
+title: Flurkarte Lenzen, Restorf
+date: "1880"
+location: Kapern, Elbdeich
+origin:
+  name: Gustav Wegner
+  type: person
+  location: Lanz
+subjects:
+  - name: Hermann Lenz
+    type: person
+  - name: Karl Krüger
+    type: person
+  - name: Dorffest 1880
+    type: event
+parents:
+  - 01GBX4DSD6VXD835CH0X8R10EN
+files:
+  - role: main
+    original_name: scan_202.tif
+    path: files/84/33/8433fb20c75c591272339429060fba1c452555188011a99e2e23333f2514dccd/original.tif
+    sha256: 8433fb20c75c591272339429060fba1c452555188011a99e2e23333f2514dccd
+    mime: image/tiff
+    bytes: 22467232
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/84/33/8433fb20c75c591272339429060fba1c452555188011a99e2e23333f2514dccd/preview-400.9e48a0a5946a.jpg
+        sha256: 9e48a0a5946ad51568a4ba4d3c498e89a12d4434909f83e9edea59acead9c64e
+        mime: image/jpeg
+        bytes: 75230
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01KAXMK7J6GA7ETF7PDMFQRT5V
+type: image
+subtype: plan
+title: Deichplan Restorf bis Salzwedel
+description: Mit handschriftlichen Ergänzungen.
+date: "1796"
+location: Lanz, Zollamt
+geocode:
+  lat: 52.9123
+  lon: 11.6151
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Voss
+  type: person
+  location: Wootz
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Grenzöffnung 1796
+    type: event
+parents:
+  - 01HW23R9B0E6RPF7JKRG9EPK9N
+files:
+  - role: main
+    original_name: scan_150.tif
+    path: files/8c/c8/8cc83d01b04bc2e46034090a01d866f615653e46578675c6acc3ca260c01f74d/original.tif
+    sha256: 8cc83d01b04bc2e46034090a01d866f615653e46578675c6acc3ca260c01f74d
+    mime: image/tiff
+    bytes: 6603062
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/8c/c8/8cc83d01b04bc2e46034090a01d866f615653e46578675c6acc3ca260c01f74d/preview-400.6a0eacfb04d5.jpg
+        sha256: 6a0eacfb04d5797a19016cfa5765ff902162f9ac0434b168bba909ede887fa56
+        mime: image/jpeg
+        bytes: 57866
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

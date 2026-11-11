@@ -1,0 +1,44 @@
+id: 01FM47WEFY00DYDWDZJA0NCSYN
+type: image
+subtype: print
+title: Postkarte Gartow, Kaufmannshaus
+description: Lithographie, Rand beschnitten.
+date: "1917"
+origin:
+  name: Brigitte Bohlmann
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Familie Lindemann
+    type: person
+    location: Hitzacker
+  reference: Dok 26/031
+  note: Mappe 12
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Marta Wegner
+    type: person
+parents:
+  - 01HR8855DCCGBPN12NSBDQW8VK
+files:
+  - role: main
+    original_name: scan_675.tif
+    path: files/e7/df/e7dfa5fae158877c9a0cf588f33eda8339b7664f9862c466dcc54b81ca24b3db/original.tif
+    sha256: e7dfa5fae158877c9a0cf588f33eda8339b7664f9862c466dcc54b81ca24b3db
+    mime: image/tiff
+    bytes: 12129914
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e7/df/e7dfa5fae158877c9a0cf588f33eda8339b7664f9862c466dcc54b81ca24b3db/preview-400.d0cf6a64ad94.jpg
+        sha256: d0cf6a64ad94c5a863c3b24bd7b03fe5aa72b062a348188d4a62ac4e5f08b65c
+        mime: image/jpeg
+        bytes: 51997
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

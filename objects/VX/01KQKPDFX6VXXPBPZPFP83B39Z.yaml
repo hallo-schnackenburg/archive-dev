@@ -1,0 +1,49 @@
+id: 01KQKPDFX6VXXPBPZPFP83B39Z
+type: image
+subtype: plan
+title: Deichplan Lenzen bis Schnackenburg
+description: Tusche auf Transparentpapier.
+date: 1799?
+location: Wustrow, Am Elbdeich
+geocode:
+  lat: 52.9594
+  lon: 11.6368
+  precision: region
+  source: osm
+origin:
+  name: August Eggers
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 11/041
+subjects:
+  - name: Brigitte Krüger
+    type: person
+  - name: Gülden
+    type: place
+parents:
+  - 01FZ3FX8WBDRJ86RV9VJDC76PT
+files:
+  - role: main
+    original_name: scan_913.tif
+    path: files/4d/6e/4d6eb70e3555c0c0d7f800449fbccf8401d5494fc5030f5171b09ddff3125f26/original.tif
+    sha256: 4d6eb70e3555c0c0d7f800449fbccf8401d5494fc5030f5171b09ddff3125f26
+    mime: image/tiff
+    bytes: 24975839
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4d/6e/4d6eb70e3555c0c0d7f800449fbccf8401d5494fc5030f5171b09ddff3125f26/preview-400.99a16af51df6.jpg
+        sha256: 99a16af51df68a981ade67eed04ce96774f137b64822949d45bbeaabed719f77
+        mime: image/jpeg
+        bytes: 80757
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

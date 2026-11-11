@@ -1,0 +1,39 @@
+id: 01M2882B3FWMGG8HFGKGWM7G7G
+type: image
+subtype: photo
+title: Hochwasser 1935
+date: "1935"
+location: Pretzier, Heuberge
+origin:
+  name: Wilhelm Ahrens
+  type: person
+  location: Lüchow
+subjects:
+  - name: Dieter Schwarz
+    type: person
+  - name: Gustav Heuer
+    type: person
+  - name: Fähranleger
+    type: building
+parents:
+  - 01FA78F7DCMY60051YNWVNSZ2X
+files:
+  - role: main
+    original_name: scan_691.tif
+    path: files/f9/df/f9dfe7c1fa7facd3e744ed8cba9919047421f39f81b2e993560c7b44bcf7dafb/original.tif
+    sha256: f9dfe7c1fa7facd3e744ed8cba9919047421f39f81b2e993560c7b44bcf7dafb
+    mime: image/tiff
+    bytes: 6279906
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f9/df/f9dfe7c1fa7facd3e744ed8cba9919047421f39f81b2e993560c7b44bcf7dafb/preview-400.8fb113fd1d4f.jpg
+        sha256: 8fb113fd1d4f777a4a16568ba344ad9107dbc316d0bcb0e71fde4692450002fa
+        mime: image/jpeg
+        bytes: 70865
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

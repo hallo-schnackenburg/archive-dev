@@ -1,0 +1,40 @@
+id: 01JQ73R1R0FC94W8WS37Y7SAN5
+type: image
+subtype: plan
+title: Bauplan Pumpenhaus 1763
+description: Mit handschriftlichen Ergänzungen.
+date: 1763-05-08
+location: Schnackenburg, Torhaus
+origin:
+  name: Karl Eggers
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 7/040
+subjects:
+  - name: Ursula Hennings
+    type: person
+files:
+  - role: main
+    original_name: scan_208.tif
+    path: files/df/06/df06b88a757f6dacc2ed284cd79df56f52750f7cf6d289d0a53c5aae84eef827/original.tif
+    sha256: df06b88a757f6dacc2ed284cd79df56f52750f7cf6d289d0a53c5aae84eef827
+    mime: image/tiff
+    bytes: 5058314
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/df/06/df06b88a757f6dacc2ed284cd79df56f52750f7cf6d289d0a53c5aae84eef827/preview-400.240c4b2c654b.jpg
+        sha256: 240c4b2c654bef828aaccad9e775973bb2ad43ad6737bdcd248fd4ec6883526f
+        mime: image/jpeg
+        bytes: 79104
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

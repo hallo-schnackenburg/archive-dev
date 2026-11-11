@@ -1,0 +1,31 @@
+id: 01H7RVQV3QV8M239CQV58DVENF
+type: image
+subtype: drawing
+title: Federzeichnung Poststelle, Bömenzien
+description: Mit Anmerkungen am Rand.
+date: "1879"
+location: Zadrau, Hinter den Höfen
+origin:
+  name: Otto Sievers
+  type: person
+  location: Lüchow
+files:
+  - role: main
+    original_name: scan_767.tif
+    path: files/20/9e/209e58aedc511219453b9e28678428b36060fc5099728f6b16f4ced816a9b2c1/original.tif
+    sha256: 209e58aedc511219453b9e28678428b36060fc5099728f6b16f4ced816a9b2c1
+    mime: image/tiff
+    bytes: 17310535
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/20/9e/209e58aedc511219453b9e28678428b36060fc5099728f6b16f4ced816a9b2c1/preview-400.75c2187017bf.jpg
+        sha256: 75c2187017bf3f6a61630c5cfe0cf8af334e99a8a7a8f3ea1695ced69326df90
+        mime: image/jpeg
+        bytes: 86925
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

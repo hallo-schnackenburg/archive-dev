@@ -1,0 +1,48 @@
+id: 01F6KGQWMEJBE6C3AM1KSS4T51
+type: image
+subtype: photo
+title: Albert Wegner vor dem Bäckerei Lüders
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 2004?
+location: Brünkendorf, Hinter den Höfen
+geocode:
+  lat: 53.0184
+  lon: 11.5301
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 25/242
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Schlachtfest 2004
+    type: event
+  - name: Viehmarkt 2004
+    type: event
+  - name: Dorfschule
+    type: building
+parents:
+  - 01KYDMSXHX7AFCZAAJ5K4HGX9B
+files:
+  - role: main
+    original_name: IMG_3864.jpg
+    path: files/e2/49/e2493faa6f40bd25b5d7771c5fe4af88a6a748ded9e3af0e3763ec128cf8a882/original.jpg
+    sha256: e2493faa6f40bd25b5d7771c5fe4af88a6a748ded9e3af0e3763ec128cf8a882
+    mime: image/jpeg
+    bytes: 18185327
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/e2/49/e2493faa6f40bd25b5d7771c5fe4af88a6a748ded9e3af0e3763ec128cf8a882/preview-400.91ed67661869.jpg
+        sha256: 91ed67661869d7bd84edc273f5e773074644c9d5f31b463e2746c283cfb5b04c
+        mime: image/jpeg
+        bytes: 34019
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01H4H3PM5275XRJ4CF4WQWZ1N2
+type: image
+subtype: plan
+title: Bauplan Kriegerdenkmal 1755
+date: 175X
+origin:
+  name: Ilse Rohde
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+owner:
+  name: Karl Lemke
+  type: person
+  note: Leihgabe
+parents:
+  - 01M1D2FGQR97JS2R2G2HQVPQ5E
+files:
+  - role: main
+    original_name: scan_331.tif
+    path: files/a6/19/a619daad09a07f9a33c40a0f9cca6e5eafea2a05ddb33a03a8f452f59822aaf1/original.tif
+    sha256: a619daad09a07f9a33c40a0f9cca6e5eafea2a05ddb33a03a8f452f59822aaf1
+    mime: image/tiff
+    bytes: 19447717
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a6/19/a619daad09a07f9a33c40a0f9cca6e5eafea2a05ddb33a03a8f452f59822aaf1/preview-400.6a6583522567.jpg
+        sha256: 6a65835225677ecdf74f067dc6a2478fef32d7550fbb8fc659cc1966578ee312
+        mime: image/jpeg
+        bytes: 66835
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

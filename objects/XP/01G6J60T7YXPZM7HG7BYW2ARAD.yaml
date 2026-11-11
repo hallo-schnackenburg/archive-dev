@@ -1,0 +1,47 @@
+id: 01G6J60T7YXPZM7HG7BYW2ARAD
+type: image
+subtype: photo
+title: Schlachterei in Zadrau
+date: 1899-01-18
+location: Zadrau, Dorfschule
+geocode:
+  lat: 53.0968
+  lon: 11.6518
+  precision: exact
+  source: osm
+origin:
+  name: Hans Ahrens
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg 6/234
+  note: Bücherregal links
+subjects:
+  - name: Grenzturm
+    type: building
+  - name: Kindergarten
+    type: building
+files:
+  - role: main
+    original_name: DSC3600.jpg
+    path: files/54/62/5462cb7fe65c44d8bdbb783e45b0734fe0b0f7ddbfdf96907e366ae6b1de42f9/original.jpg
+    sha256: 5462cb7fe65c44d8bdbb783e45b0734fe0b0f7ddbfdf96907e366ae6b1de42f9
+    mime: image/jpeg
+    bytes: 18931152
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/54/62/5462cb7fe65c44d8bdbb783e45b0734fe0b0f7ddbfdf96907e366ae6b1de42f9/preview-400.5cc2a0f26cbb.jpg
+        sha256: 5cc2a0f26cbb002c6d0b35cdab20f3b26276b2c2a8eaaea5fca11a27c12895ed
+        mime: image/jpeg
+        bytes: 67023
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01KNBHKC9HCZ7QKF1EG5YPQ6K6
+type: image
+subtype: photo
+title: Familie Tiedemann beim Hochzeit
+location: Wootz, Zollamt
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 12/037
+subjects:
+  - name: Wootz
+    type: place
+  - name: Konfirmation 1943
+    type: event
+  - name: Lüchow
+    type: place
+files:
+  - role: main
+    original_name: scan_906.tif
+    path: files/b5/36/b536e6faf957256e758b53b9b9da6c9b079c08fd27b91602e430368517d5082f/original.tif
+    sha256: b536e6faf957256e758b53b9b9da6c9b079c08fd27b91602e430368517d5082f
+    mime: image/tiff
+    bytes: 21781546
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b5/36/b536e6faf957256e758b53b9b9da6c9b079c08fd27b91602e430368517d5082f/preview-400.c89df4b28401.jpg
+        sha256: c89df4b284018a31dba61a2e9541edba92b41b234ee9ddf146f59cebbe7ed4fd
+        mime: image/jpeg
+        bytes: 28771
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

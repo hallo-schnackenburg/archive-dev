@@ -1,0 +1,39 @@
+id: 01HXKKMBN4ERWGP1YP78SX7M5N
+type: image
+subtype: photo
+title: Erntedankfest 1913
+origin:
+  name: Heinrich Hennings
+  type: person
+  location: Holtorf
+owner:
+  name: Erika Hennings
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Hochzeit 1913
+    type: event
+  - name: Scheune
+    type: building
+  - name: Zadrau
+    type: place
+files:
+  - role: main
+    original_name: foto_0276.jpg
+    path: files/13/e8/13e819de1c0aaf7a2bba7da8d5995e6419c2fe5f6129f42f0a35286dc9dbe0cb/original.jpg
+    sha256: 13e819de1c0aaf7a2bba7da8d5995e6419c2fe5f6129f42f0a35286dc9dbe0cb
+    mime: image/jpeg
+    bytes: 22619293
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/13/e8/13e819de1c0aaf7a2bba7da8d5995e6419c2fe5f6129f42f0a35286dc9dbe0cb/preview-400.1e43d288a228.jpg
+        sha256: 1e43d288a2286a5f8c4ad15b612eb6af9184794ce1988ecd32e0778ce66ac7ac
+        mime: image/jpeg
+        bytes: 40603
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

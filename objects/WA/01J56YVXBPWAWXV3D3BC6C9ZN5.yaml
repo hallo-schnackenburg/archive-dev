@@ -1,0 +1,40 @@
+id: 01J56YVXBPWAWXV3D3BC6C9ZN5
+type: image
+subtype: print
+title: Postkarte Rüterberg, Schmiede
+description: Postkarte, gelaufen 1932.
+date: "1766"
+location: Arendsee, Deichstraße
+geocode:
+  lat: 52.9531
+  lon: 11.6535
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Schützenfest 1766
+    type: event
+files:
+  - role: main
+    original_name: scan_619.tif
+    path: files/50/45/504531492b8919d4c122b99b549637854da1c647fa096252c6d144758d6c54b2/original.tif
+    sha256: 504531492b8919d4c122b99b549637854da1c647fa096252c6d144758d6c54b2
+    mime: image/tiff
+    bytes: 24142828
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/50/45/504531492b8919d4c122b99b549637854da1c647fa096252c6d144758d6c54b2/preview-400.eaf71a827bc1.jpg
+        sha256: eaf71a827bc1069c16de8d569a6834f31743c2cff59b35d597a94b61b0cab692
+        mime: image/jpeg
+        bytes: 40456
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

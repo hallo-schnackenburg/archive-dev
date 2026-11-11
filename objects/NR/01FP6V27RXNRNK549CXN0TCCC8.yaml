@@ -1,0 +1,67 @@
+id: 01FP6V27RXNRNK549CXN0TCCC8
+type: document
+subtype: note
+title: Quittung für Karl Lüders
+description: Auf der Rückseite eines Formulars.
+date: 1964-01-24
+location: Pretzier, Torhaus
+geocode:
+  lat: 52.9844
+  lon: 11.5179
+  precision: street
+  source: osm
+origin:
+  name: Rudolf Hennings
+  type: person
+  location: Gartow
+language: de
+subjects:
+  - name: Anni Meyer
+    type: person
+  - name: Fastnacht 1964
+    type: event
+  - name: Karl Harms
+    type: person
+parents:
+  - 01J36EBSGAM0EQS4K8346DJX88
+files:
+  - role: page
+    num: 1
+    original_name: note_0tccc8_001.tif
+    path: files/de/ef/deef0944865897b87832246991ac61ac88daaa560f11797037598cb32899e7ba/original.tif
+    sha256: deef0944865897b87832246991ac61ac88daaa560f11797037598cb32899e7ba
+    mime: image/tiff
+    bytes: 8106947
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/ef/deef0944865897b87832246991ac61ac88daaa560f11797037598cb32899e7ba/preview-400.ddeca24dba77.jpg
+        sha256: ddeca24dba77c59eca8ce06084ef587840e457fd35083b3790002afe9e2e6c29
+        mime: image/jpeg
+        bytes: 67855
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_0tccc8_002.tif
+    path: files/e8/73/e8736c6e9dadd4f0f451fcae59b09381713a4e27fa5fade53ff29ea3a6201fbb/original.tif
+    sha256: e8736c6e9dadd4f0f451fcae59b09381713a4e27fa5fade53ff29ea3a6201fbb
+    mime: image/tiff
+    bytes: 20544155
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/73/e8736c6e9dadd4f0f451fcae59b09381713a4e27fa5fade53ff29ea3a6201fbb/preview-400.6ee26b483e72.jpg
+        sha256: 6ee26b483e72b3cd8d194332e97f6f74f4d7989a32cfbd242268f7d6400799f0
+        mime: image/jpeg
+        bytes: 80288
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

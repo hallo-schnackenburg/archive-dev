@@ -1,0 +1,32 @@
+id: 01HKAYBG6QFBHAKPHH9QMGR7CD
+type: image
+subtype: print
+title: Postkarte Seedorf, Kriegerdenkmal
+description: Lithographie, Rand beschnitten.
+date: 1774-11-06
+origin:
+  name: Elfriede Kuhlmann
+  type: person
+  location: Dömitz
+parents:
+  - 01J2543CRBVAV30G60F9GTRGZ4
+files:
+  - role: main
+    original_name: scan_327.tif
+    path: files/1c/09/1c09eaf5c31ef8f697ba372b72f67557d3ce5178ee6893bb0300cd0006682c9c/original.tif
+    sha256: 1c09eaf5c31ef8f697ba372b72f67557d3ce5178ee6893bb0300cd0006682c9c
+    mime: image/tiff
+    bytes: 12294469
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/09/1c09eaf5c31ef8f697ba372b72f67557d3ce5178ee6893bb0300cd0006682c9c/preview-400.a8554ed0086c.jpg
+        sha256: a8554ed0086cb089f831cbfbdcbeccd9c115c236c9095987ddbb4f3b25dd2f1e
+        mime: image/jpeg
+        bytes: 73119
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

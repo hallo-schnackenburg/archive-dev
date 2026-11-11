@@ -1,0 +1,51 @@
+id: 01M2N6DA462K1W8BGCB73YA8TE
+type: document
+subtype: letter
+title: Schreiben der Posaunenchor an den Verbandsversammlung, Brünkendorf
+date: "1828"
+location: Nienwalde, Lange Straße
+geocode:
+  lat: 52.9562
+  lon: 11.6709
+  precision: street
+  source: osm
+origin:
+  name: Otto Eggers
+  type: person
+  location: Wootz
+recipient: Gerda Wegner
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 22/039
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Anni Schwarz
+    type: person
+parents:
+  - 01KGHR1E94X26ENFVH4J79T0CP
+files:
+  - role: page
+    num: 1
+    original_name: letter_3ya8te_001.tif
+    path: files/d3/07/d307a04f62856d86065521f55ffbb4978c7bdc1037f741655c4a0e8db88fa6fb/original.tif
+    sha256: d307a04f62856d86065521f55ffbb4978c7bdc1037f741655c4a0e8db88fa6fb
+    mime: image/tiff
+    bytes: 19810390
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d3/07/d307a04f62856d86065521f55ffbb4978c7bdc1037f741655c4a0e8db88fa6fb/preview-400.4f62073c5c21.jpg
+        sha256: 4f62073c5c21ba3acf081c62794d06133503a93c021ca991f9186a54d6d537d7
+        mime: image/jpeg
+        bytes: 26594
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

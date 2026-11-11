@@ -1,0 +1,38 @@
+id: 01H3YFXVPBA8X3JNR3E9GB0FW0
+type: image
+subtype: plan
+title: Deichplan Gartow bis Salzwedel
+date: "1934"
+origin:
+  name: Klaus Wöhlk
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 12/140
+subjects:
+  - name: Otto Wegner
+    type: person
+files:
+  - role: main
+    original_name: scan_941.tif
+    path: files/af/2f/af2fe2f81d5c56578912e30e704ddf5c1a93415b4d19530facfa9282e2b9a252/original.tif
+    sha256: af2fe2f81d5c56578912e30e704ddf5c1a93415b4d19530facfa9282e2b9a252
+    mime: image/tiff
+    bytes: 27741950
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/af/2f/af2fe2f81d5c56578912e30e704ddf5c1a93415b4d19530facfa9282e2b9a252/preview-400.661119940496.jpg
+        sha256: 6611199404962ccd21b70a18bd61101b8f285ec2b6ba050b6be88e1e24e5ef8e
+        mime: image/jpeg
+        bytes: 69540
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

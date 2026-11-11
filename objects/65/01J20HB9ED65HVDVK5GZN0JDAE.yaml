@@ -1,0 +1,43 @@
+id: 01J20HB9ED65HVDVK5GZN0JDAE
+type: image
+subtype: photo
+title: Hans Meyer vor dem Molkerei
+description: Farbfoto, leicht verblasst.
+date: 1959-03-10
+location: Gartow, Pumpenhaus
+geocode:
+  lat: 53.0911
+  lon: 11.6885
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Cohrs
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Dieter Lemke
+    type: person
+  - name: Karl Plate
+    type: person
+  - name: Gartow
+    type: place
+files:
+  - role: main
+    original_name: foto_3149.jpg
+    path: files/69/f2/69f24609e9836c32defeafe95c219e2b929103a248682b7bdc4f2f61a3ec7c30/original.jpg
+    sha256: 69f24609e9836c32defeafe95c219e2b929103a248682b7bdc4f2f61a3ec7c30
+    mime: image/jpeg
+    bytes: 23046598
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/69/f2/69f24609e9836c32defeafe95c219e2b929103a248682b7bdc4f2f61a3ec7c30/preview-400.e49ee3bef01c.jpg
+        sha256: e49ee3bef01c64e59aa1762821b459267ef374eec29e8fa690b6c9ec5a5dea90
+        mime: image/jpeg
+        bytes: 58186
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

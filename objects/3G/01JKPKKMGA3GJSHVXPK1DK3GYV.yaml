@@ -1,0 +1,36 @@
+id: 01JKPKKMGA3GJSHVXPK1DK3GYV
+type: image
+subtype: drawing
+title: Skizze Restorf, Am Elbdeich
+description: Mit Anmerkungen am Rand.
+date: 1830-01
+origin:
+  name: Friedrich Lüders
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Sturmschaden 1830
+    type: event
+parents:
+  - 01HYFCM6DN6A2J5RK4P4H4GN9C
+  - 01G2TCR62BVVGQGXN7R02P1CQQ
+files:
+  - role: main
+    original_name: scan_936.tif
+    path: files/58/ef/58efe3d7b3fbbe8790374d1cef9df4080aa5275cbe75955f84bacff2fcc573a3/original.tif
+    sha256: 58efe3d7b3fbbe8790374d1cef9df4080aa5275cbe75955f84bacff2fcc573a3
+    mime: image/tiff
+    bytes: 7920336
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/58/ef/58efe3d7b3fbbe8790374d1cef9df4080aa5275cbe75955f84bacff2fcc573a3/preview-400.9c43647a684a.jpg
+        sha256: 9c43647a684a0cf3446ff5e7bc22a19ddbee92065cece79416118c5c6ee6f02f
+        mime: image/jpeg
+        bytes: 23952
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

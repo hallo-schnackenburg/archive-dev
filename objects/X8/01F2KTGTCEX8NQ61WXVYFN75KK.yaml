@@ -1,0 +1,36 @@
+id: 01F2KTGTCEX8NQ61WXVYFN75KK
+type: image
+subtype: plan
+title: Deichplan Seedorf bis Zadrau
+description: Mit handschriftlichen Ergänzungen.
+date: 1847-03
+location: Lanz, Burgstraße
+geocode:
+  lat: 52.947
+  lon: 11.4524
+  precision: town
+  source: osm
+origin:
+  name: Gerda Brandt
+  type: person
+  location: Seedorf
+files:
+  - role: main
+    original_name: scan_896.tif
+    path: files/9f/87/9f87e3c3d2da9d5b63e5ec834dd43f0d7e9c684a344d05347ba5b62a12d81ae4/original.tif
+    sha256: 9f87e3c3d2da9d5b63e5ec834dd43f0d7e9c684a344d05347ba5b62a12d81ae4
+    mime: image/tiff
+    bytes: 14560833
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9f/87/9f87e3c3d2da9d5b63e5ec834dd43f0d7e9c684a344d05347ba5b62a12d81ae4/preview-400.35415937fafd.jpg
+        sha256: 35415937fafd5ad4694185f19e50f180e6639a97ec36168efb3f40a5b061153e
+        mime: image/jpeg
+        bytes: 33461
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

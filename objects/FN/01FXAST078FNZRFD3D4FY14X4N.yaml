@@ -1,0 +1,41 @@
+id: 01FXAST078FNZRFD3D4FY14X4N
+type: image
+subtype: print
+title: Postkarte Havelberg, Fähranleger
+description: Postkarte, gelaufen 1944.
+date: 1772-03-11
+location: Restorf, Tanzsaal
+geocode:
+  lat: 53.0806
+  lon: 11.4976
+  precision: exact
+  source: osm
+subjects:
+  - name: Sturmschaden 1772
+    type: event
+  - name: Beerdigung 1772
+    type: event
+  - name: Fähranleger
+    type: building
+parents:
+  - 01F5WN4D1FQE5PP5MD0YFVKCS4
+files:
+  - role: main
+    original_name: scan_825.tif
+    path: files/d4/35/d43562f6f68e1f9001e19b666732b7083cd1f123c7b16af488a5479d4da20d5f/original.tif
+    sha256: d43562f6f68e1f9001e19b666732b7083cd1f123c7b16af488a5479d4da20d5f
+    mime: image/tiff
+    bytes: 9253845
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/35/d43562f6f68e1f9001e19b666732b7083cd1f123c7b16af488a5479d4da20d5f/preview-400.8a17d1ce2559.jpg
+        sha256: 8a17d1ce25592f5d3d144ec8c2cfebab0243a871ab75a3decdf49d55db83f671
+        mime: image/jpeg
+        bytes: 30200
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

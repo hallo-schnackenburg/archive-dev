@@ -1,0 +1,51 @@
+id: 01J5AGS6AJAYHP2DZ1Y4MZVBPE
+type: document
+subtype: letter
+title: Korrespondenz Klaus Jeß
+date: 1800/1812
+origin:
+  name: Gustav Plate
+  type: person
+  location: Wustrow
+language: de
+files:
+  - role: page
+    num: 1
+    original_name: letter_mzvbpe_001.tif
+    path: files/9d/72/9d721979ac2087da014470e54c09783abca25e5996fb714c6c2a423b1c0ae538/original.tif
+    sha256: 9d721979ac2087da014470e54c09783abca25e5996fb714c6c2a423b1c0ae538
+    mime: image/tiff
+    bytes: 22961014
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9d/72/9d721979ac2087da014470e54c09783abca25e5996fb714c6c2a423b1c0ae538/preview-400.7224258528d4.jpg
+        sha256: 7224258528d45fd2c3a6c943d2973d1517d5eb8ce51e2dd58f1ebcb4d43c5587
+        mime: image/jpeg
+        bytes: 72039
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_mzvbpe_002.tif
+    path: files/ed/78/ed7880dfb32f609e549498bf924f9b7e4b01a3277e8c967f72bc132d504ae975/original.tif
+    sha256: ed7880dfb32f609e549498bf924f9b7e4b01a3277e8c967f72bc132d504ae975
+    mime: image/tiff
+    bytes: 15809882
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ed/78/ed7880dfb32f609e549498bf924f9b7e4b01a3277e8c967f72bc132d504ae975/preview-400.c41606a01894.jpg
+        sha256: c41606a01894f75112149281ae47ed932b18fef17af2df2d45ff453d5f034201
+        mime: image/jpeg
+        bytes: 85930
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

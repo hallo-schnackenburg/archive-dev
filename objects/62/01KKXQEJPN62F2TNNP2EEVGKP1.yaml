@@ -1,0 +1,37 @@
+id: 01KKXQEJPN62F2TNNP2EEVGKP1
+type: image
+subtype: plan
+title: Bauplan Backhaus 1879
+description: Maßstab 1:2500.
+date: 1879-12-22
+origin:
+  name: Frieda Ahrens
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01F5WN4D1FQE5PP5MD0YFVKCS4
+files:
+  - role: main
+    original_name: scan_263.tif
+    path: files/46/6b/466b314da9cba72f1530bccb12af901351dc1fccbdf8319a972169472dcafc47/original.tif
+    sha256: 466b314da9cba72f1530bccb12af901351dc1fccbdf8319a972169472dcafc47
+    mime: image/tiff
+    bytes: 13193858
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/46/6b/466b314da9cba72f1530bccb12af901351dc1fccbdf8319a972169472dcafc47/preview-400.ed8c77829dc3.jpg
+        sha256: ed8c77829dc3e2cacc3b6f4cea8b1711e137ccceb629417ea3bfd1d648029e20
+        mime: image/jpeg
+        bytes: 23534
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

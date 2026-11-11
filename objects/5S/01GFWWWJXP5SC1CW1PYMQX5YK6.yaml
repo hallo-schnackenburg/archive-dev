@@ -1,0 +1,69 @@
+id: 01GFWWWJXP5SC1CW1PYMQX5YK6
+type: document
+subtype: letter
+title: Korrespondenz Dieter Hennings
+date: "1883"
+location: Salzwedel, Am Elbdeich
+origin:
+  name: Irmgard Oelker
+  type: person
+  location: Salzwedel
+recipient: Wilhelm Voss
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Album 16/020
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v87072
+subjects:
+  - name: August Hartwig
+    type: person
+  - name: Karl Schulz
+    type: person
+  - name: Brückeneinweihung 1883
+    type: event
+parents:
+  - 01J0GYR8W2ERJ99C6YPH8ATKMN
+files:
+  - role: page
+    num: 1
+    original_name: letter_qx5yk6_001.tif
+    path: files/f7/9d/f79dbb182f95d54b5a0ed069b19c52a5445bedfed4fd210b1714bd834b4f3cd2/original.tif
+    sha256: f79dbb182f95d54b5a0ed069b19c52a5445bedfed4fd210b1714bd834b4f3cd2
+    mime: image/tiff
+    bytes: 9587567
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f7/9d/f79dbb182f95d54b5a0ed069b19c52a5445bedfed4fd210b1714bd834b4f3cd2/preview-400.13f6cddcb090.jpg
+        sha256: 13f6cddcb09018de81116806ad33ac2251a4d1086657d90d657174dca2667b3b
+        mime: image/jpeg
+        bytes: 81722
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_qx5yk6_002.tif
+    path: files/75/0f/750f7b1e3d6e6cd86435e4ea364f496a9d5fa27d28d50f208656ee728e4bff96/original.tif
+    sha256: 750f7b1e3d6e6cd86435e4ea364f496a9d5fa27d28d50f208656ee728e4bff96
+    mime: image/tiff
+    bytes: 12075719
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/75/0f/750f7b1e3d6e6cd86435e4ea364f496a9d5fa27d28d50f208656ee728e4bff96/preview-400.3802046ea6fc.jpg
+        sha256: 3802046ea6fcbc067bf76a1088b23b3284486daa9dc2d8a009f9ec5b6e1ee240
+        mime: image/jpeg
+        bytes: 77180
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

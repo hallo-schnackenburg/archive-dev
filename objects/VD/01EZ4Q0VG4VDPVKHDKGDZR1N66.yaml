@@ -1,0 +1,41 @@
+id: 01EZ4Q0VG4VDPVKHDKGDZR1N66
+type: image
+subtype: print
+title: "Holzschnitt: Hochwasser"
+description: Postkarte, gelaufen 1922.
+date: 1922-06
+location: Pretzier, Schulstraße
+geocode:
+  lat: 52.9402
+  lon: 11.6912
+  precision: region
+  source: osm
+origin:
+  name: Dieter Wiegmann
+  type: person
+  location: Lenzen
+subjects:
+  - name: Kindergarten
+    type: building
+parents:
+  - 01FVB0ZV7D5S8N9566PY0PJ70J
+files:
+  - role: main
+    original_name: scan_650.tif
+    path: files/76/40/7640028ff957f05c1965c760e9b4805d6b662d5c692a94b83fe7da110450ba3b/original.tif
+    sha256: 7640028ff957f05c1965c760e9b4805d6b662d5c692a94b83fe7da110450ba3b
+    mime: image/tiff
+    bytes: 3150999
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/76/40/7640028ff957f05c1965c760e9b4805d6b662d5c692a94b83fe7da110450ba3b/preview-400.ac13dd3a9d07.jpg
+        sha256: ac13dd3a9d07b417c533dbf722d22d2a76ab7b2163b6946b0029c0cb1b6a770c
+        mime: image/jpeg
+        bytes: 25004
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

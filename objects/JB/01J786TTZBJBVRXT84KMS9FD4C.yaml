@@ -1,0 +1,38 @@
+id: 01J786TTZBJBVRXT84KMS9FD4C
+type: image
+subtype: photo
+title: Elfriede Lüders, Porträt
+description: Aufnahme von Karl Plate.
+date: 1933-01-05
+location: Gartow, Heuberge
+origin:
+  name: Wilhelm Ahrens
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Kindergartenfest 1933
+    type: event
+parents:
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+files:
+  - role: main
+    original_name: scan_887.tif
+    path: files/ed/12/ed1206ad59ab5fa88fe1b2ea03db603287c426346eaf1404aab6f15b9b2af62a/original.tif
+    sha256: ed1206ad59ab5fa88fe1b2ea03db603287c426346eaf1404aab6f15b9b2af62a
+    mime: image/tiff
+    bytes: 23344198
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ed/12/ed1206ad59ab5fa88fe1b2ea03db603287c426346eaf1404aab6f15b9b2af62a/preview-400.eba09e6f415a.jpg
+        sha256: eba09e6f415ac0218fd8bccfd77673807834dca09bdccfda6b4163ff6359df38
+        mime: image/jpeg
+        bytes: 69379
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

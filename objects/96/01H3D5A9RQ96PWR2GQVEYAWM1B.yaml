@@ -1,0 +1,42 @@
+id: 01H3D5A9RQ96PWR2GQVEYAWM1B
+type: image
+subtype: plan
+title: Bauplan Backhaus 1965
+description: Maßstab 1:100.
+date: "1965"
+location: Gollensdorf, Lange Straße
+geocode:
+  lat: 52.9959
+  lon: 11.5689
+  precision: region
+  source: osm
+origin:
+  name: Erika Lenz
+  type: person
+  location: Gülden
+subjects:
+  - name: Gutshaus
+    type: building
+parents:
+  - 01JCTPZAEAG98DVMJJQRNTASRZ
+  - 01GV8MKHYPAWB1MAEXCSAW38CR
+files:
+  - role: main
+    original_name: scan_941.tif
+    path: files/df/48/df4803e3526368f22e4ce0bf5a54dc07641b54fc4c7b9cad2668c02bb04f0c1b/original.tif
+    sha256: df4803e3526368f22e4ce0bf5a54dc07641b54fc4c7b9cad2668c02bb04f0c1b
+    mime: image/tiff
+    bytes: 16215979
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/df/48/df4803e3526368f22e4ce0bf5a54dc07641b54fc4c7b9cad2668c02bb04f0c1b/preview-400.a60ad7389f48.jpg
+        sha256: a60ad7389f48971feb5653b3b5702f0db6f289783ed0032b3328ad85b42bcd73
+        mime: image/jpeg
+        bytes: 77718
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

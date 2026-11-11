@@ -1,0 +1,33 @@
+id: 01F4EHFT2X0D99DNR85CH5GSW6
+type: image
+subtype: plan
+title: Bauplan Friedhofskapelle 1955
+description: Tusche auf Transparentpapier.
+date: 1955-09-10
+location: Gorleben, Sparkasse
+original:
+  holder:
+    name: Familie Voss
+    type: person
+    location: Restorf
+  note: Mappe 12
+files:
+  - role: main
+    original_name: scan_092.tif
+    path: files/29/3d/293dbc5ce5eaa65cb36085f37843508ec5e9a4e849b2714309982463710ab52d/original.tif
+    sha256: 293dbc5ce5eaa65cb36085f37843508ec5e9a4e849b2714309982463710ab52d
+    mime: image/tiff
+    bytes: 16731560
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/29/3d/293dbc5ce5eaa65cb36085f37843508ec5e9a4e849b2714309982463710ab52d/preview-400.60d3326fc35d.jpg
+        sha256: 60d3326fc35d8c34fd0a2c3891efd1187910643e52065da52a8b5eb0a997b247
+        mime: image/jpeg
+        bytes: 65335
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

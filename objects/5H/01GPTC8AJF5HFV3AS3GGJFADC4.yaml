@@ -1,0 +1,35 @@
+id: 01GPTC8AJF5HFV3AS3GGJFADC4
+type: image
+subtype: photo
+title: Blick vom Brunnen am Markt auf das Backhaus
+date: 1938~
+location: Wootz, Dorfladen
+origin:
+  name: Otto Krüger
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Backhaus
+    type: building
+parents:
+  - 01GTBPQD1S4KYDH3R014D5J1PZ
+files:
+  - role: main
+    original_name: scan_449.tif
+    path: files/04/34/04342b32a80d8afd9d65133d610962b921dad92840cca5a642ae4c9d9edb8c4a/original.tif
+    sha256: 04342b32a80d8afd9d65133d610962b921dad92840cca5a642ae4c9d9edb8c4a
+    mime: image/tiff
+    bytes: 12636616
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/04/34/04342b32a80d8afd9d65133d610962b921dad92840cca5a642ae4c9d9edb8c4a/preview-400.61bd2c682b1c.jpg
+        sha256: 61bd2c682b1c4eeb7ec1b85e5c4aaf16ae106215f39d301573dd1a36f56d4bf8
+        mime: image/jpeg
+        bytes: 71845
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

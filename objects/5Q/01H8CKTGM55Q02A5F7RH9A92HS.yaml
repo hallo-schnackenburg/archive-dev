@@ -1,0 +1,36 @@
+id: 01H8CKTGM55Q02A5F7RH9A92HS
+type: image
+subtype: plan
+title: Bauplan Kindergarten 1957
+description: Tusche auf Transparentpapier.
+date: 1957-02-01
+location: Lanz, Lange Straße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 6/163
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v58014
+parents:
+  - 01GVKN942N85NKH8CV072GG85G
+files:
+  - role: main
+    original_name: scan_084.tif
+    path: files/4c/d3/4cd38af25c9b28b51cef8ce56443ed0e26dff99b0f9c5e62bb8c1da6878aed0f/original.tif
+    sha256: 4cd38af25c9b28b51cef8ce56443ed0e26dff99b0f9c5e62bb8c1da6878aed0f
+    mime: image/tiff
+    bytes: 17775256
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4c/d3/4cd38af25c9b28b51cef8ce56443ed0e26dff99b0f9c5e62bb8c1da6878aed0f/preview-400.e3c44801b7d4.jpg
+        sha256: e3c44801b7d474cf3dc4f191cd716b5b6c20ba0112ab4b7f842c1a2f2689159c
+        mime: image/jpeg
+        bytes: 60211
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

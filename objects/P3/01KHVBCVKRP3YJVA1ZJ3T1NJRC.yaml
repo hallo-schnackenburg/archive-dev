@@ -1,0 +1,28 @@
+id: 01KHVBCVKRP3YJVA1ZJ3T1NJRC
+type: image
+subtype: plan
+title: Deichplan Lenzen bis Lüchow
+description: Tusche auf Transparentpapier.
+date: "1871"
+parents:
+  - 01HKRG7RN0NA8YYR8Y8GWHXTB1
+files:
+  - role: main
+    original_name: scan_620.tif
+    path: files/dd/65/dd6538b9d94e5fd70e52ab287cae3ff2a29420b8f93e2c4b7b14b929a20c859b/original.tif
+    sha256: dd6538b9d94e5fd70e52ab287cae3ff2a29420b8f93e2c4b7b14b929a20c859b
+    mime: image/tiff
+    bytes: 2588025
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/dd/65/dd6538b9d94e5fd70e52ab287cae3ff2a29420b8f93e2c4b7b14b929a20c859b/preview-400.26142175dd12.jpg
+        sha256: 26142175dd12f327a66bcd700eedd7cbabc42c9241af5abb462e80ab24cbeb89
+        mime: image/jpeg
+        bytes: 43659
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

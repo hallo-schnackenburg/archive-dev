@@ -1,0 +1,35 @@
+id: 01JK4043H88CCRHACR4Y96CP9V
+type: image
+subtype: print
+title: Gruß aus Rüterberg
+description: Postkarte, gelaufen 1921.
+date: 1915-04-13
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 38/395
+parents:
+  - 01J2543CRBVAV30G60F9GTRGZ4
+  - 01F9DH58STHY0SNK18ZFW9YJ7Y
+files:
+  - role: main
+    original_name: scan_737.tif
+    path: files/4c/a8/4ca8781a16a78364c0093d72cff425ab12b02b6eb1f38cf75f3d40cbc0bf3168/original.tif
+    sha256: 4ca8781a16a78364c0093d72cff425ab12b02b6eb1f38cf75f3d40cbc0bf3168
+    mime: image/tiff
+    bytes: 8281398
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4c/a8/4ca8781a16a78364c0093d72cff425ab12b02b6eb1f38cf75f3d40cbc0bf3168/preview-400.53373a3eff1c.jpg
+        sha256: 53373a3eff1ce146a2d6e564dcd861a1c3efb7ff8476097fcb812894f2438160
+        mime: image/jpeg
+        bytes: 69088
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

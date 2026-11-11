@@ -1,0 +1,46 @@
+id: 01JR2NS24YC9EXNXAH8WJYTXMK
+type: image
+subtype: print
+title: Postkarte Lüchow, Feuerwehrhaus
+date: "1883"
+location: Laase, Kegelbahn
+geocode:
+  lat: 52.9273
+  lon: 11.6341
+  precision: region
+  source: osm
+origin:
+  name: Erika Matthies
+  type: person
+  location: Bömenzien
+owner:
+  name: Otto Meyer
+  type: person
+  note: Nachlass
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01KVCSCGQMX3Z8B4CPCNEPWYV0
+files:
+  - role: main
+    original_name: scan_651.tif
+    path: files/47/e6/47e6d32038286c0f790f0c3de0d8cd616f9636fa5c2594b05366017274fe41a9/original.tif
+    sha256: 47e6d32038286c0f790f0c3de0d8cd616f9636fa5c2594b05366017274fe41a9
+    mime: image/tiff
+    bytes: 2084386
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/47/e6/47e6d32038286c0f790f0c3de0d8cd616f9636fa5c2594b05366017274fe41a9/preview-400.ed651cff8499.jpg
+        sha256: ed651cff8499f5ef43a083f91ddb87fddee10b72a892bd447de998c12e9533b5
+        mime: image/jpeg
+        bytes: 25643
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

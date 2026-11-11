@@ -1,0 +1,63 @@
+id: 01K4YFBE4134BVWGZEPXG5HCN1
+type: document
+subtype: note
+title: Rechnung Voss, Pfarrhaus
+date: 1861-07-22
+location: Arendsee, Gartenstraße
+geocode:
+  lat: 53.0127
+  lon: 11.6991
+  precision: region
+  source: osm
+origin:
+  name: Günter Ahrens
+  type: person
+  location: Arendsee
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan/Mappe 14/101
+files:
+  - role: page
+    num: 1
+    original_name: note_g5hcn1_001.tif
+    path: files/0e/a7/0ea7d939c75f5e583878aa4e2e5bfebc4070475af8f0d2033b7d5fd30511a853/original.tif
+    sha256: 0ea7d939c75f5e583878aa4e2e5bfebc4070475af8f0d2033b7d5fd30511a853
+    mime: image/tiff
+    bytes: 2099388
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0e/a7/0ea7d939c75f5e583878aa4e2e5bfebc4070475af8f0d2033b7d5fd30511a853/preview-400.04ba64a1bc9f.jpg
+        sha256: 04ba64a1bc9fe94281196260cc7b28537dad81a5bfee26327c371c81f15d36f7
+        mime: image/jpeg
+        bytes: 58991
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_g5hcn1_002.tif
+    path: files/b0/b1/b0b1deee160895408f19e9073df1736a280c879e0f17403198f01776bc6647e0/original.tif
+    sha256: b0b1deee160895408f19e9073df1736a280c879e0f17403198f01776bc6647e0
+    mime: image/tiff
+    bytes: 3374194
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b0/b1/b0b1deee160895408f19e9073df1736a280c879e0f17403198f01776bc6647e0/preview-400.01f14af2844d.jpg
+        sha256: 01f14af2844d710a194b3c70d7fee2ed3df41fff5800a63ce15b56e45e5c11cd
+        mime: image/jpeg
+        bytes: 30952
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

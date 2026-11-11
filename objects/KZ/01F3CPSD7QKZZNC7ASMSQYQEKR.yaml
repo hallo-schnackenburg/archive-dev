@@ -1,0 +1,35 @@
+id: 01F3CPSD7QKZZNC7ASMSQYQEKR
+type: image
+subtype: photo
+title: Richtfest 1903
+description: Farbfoto, leicht verblasst.
+date: "1903"
+origin:
+  name: Paul Burmester
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Otto Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_854.tif
+    path: files/1c/d4/1cd414bbed9084290a2f8c6c242da6aac00838fdd8171c12903d3ad0526f9f27/original.tif
+    sha256: 1cd414bbed9084290a2f8c6c242da6aac00838fdd8171c12903d3ad0526f9f27
+    mime: image/tiff
+    bytes: 12614797
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1c/d4/1cd414bbed9084290a2f8c6c242da6aac00838fdd8171c12903d3ad0526f9f27/preview-400.4b35593e0137.jpg
+        sha256: 4b35593e01370da7855ffb2ad36eb2912237b2eae22f0c7b32d44a4617b8d624
+        mime: image/jpeg
+        bytes: 61811
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

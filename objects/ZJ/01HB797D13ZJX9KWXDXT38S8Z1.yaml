@@ -1,0 +1,40 @@
+id: 01HB797D13ZJX9KWXDXT38S8Z1
+type: image
+subtype: plan
+title: Deichplan Havelberg bis Zadrau
+date: "1828"
+location: Gollensdorf, Dorfladen
+origin:
+  name: Erika Detlefs
+  type: person
+  location: Wustrow
+subjects:
+  - name: Beerdigung 1828
+    type: event
+  - name: Salzwedel
+    type: place
+  - name: Seedorf
+    type: place
+parents:
+  - 01HBK6C2YY23CZPK2AB67CF4HH
+  - 01GBX4DSD6VXD835CH0X8R10EN
+files:
+  - role: main
+    original_name: scan_518.tif
+    path: files/a9/fe/a9fe8fa9c2b1056091e4db750ae5965a9fd62c55dcc2404a4f41ca84e2e3fd34/original.tif
+    sha256: a9fe8fa9c2b1056091e4db750ae5965a9fd62c55dcc2404a4f41ca84e2e3fd34
+    mime: image/tiff
+    bytes: 17522604
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a9/fe/a9fe8fa9c2b1056091e4db750ae5965a9fd62c55dcc2404a4f41ca84e2e3fd34/preview-400.aaafeb92cf29.jpg
+        sha256: aaafeb92cf29bf776c2dd0e5b583c95861b5c362f42ab8f7f962243b128852c8
+        mime: image/jpeg
+        bytes: 47236
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

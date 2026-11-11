@@ -1,0 +1,45 @@
+id: 01KHDCX4SZF9XE6NG7ZG81A10S
+type: image
+subtype: print
+title: "Kupferstich: Gartow von der Elbseite, Wootz"
+description: Lithographie, Rand beschnitten.
+date: 1830-08-25
+location: Kapern, Gartenstraße
+geocode:
+  lat: 53.0208
+  lon: 11.511
+  precision: street
+  source: osm
+origin:
+  name: Frieda Brandt
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 31/133
+subjects:
+  - name: Wootz
+    type: place
+files:
+  - role: main
+    original_name: scan_587.tif
+    path: files/e6/98/e69879afa68dfbee7df6a6f7fe20f299f18bce5627a8a61033e849814aac0dba/original.tif
+    sha256: e69879afa68dfbee7df6a6f7fe20f299f18bce5627a8a61033e849814aac0dba
+    mime: image/tiff
+    bytes: 26296954
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e6/98/e69879afa68dfbee7df6a6f7fe20f299f18bce5627a8a61033e849814aac0dba/preview-400.83ff3c906820.jpg
+        sha256: 83ff3c906820c726cef01239bf1b81c9caf8087a19b5ba93534d5678bf11f1fd
+        mime: image/jpeg
+        bytes: 33947
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

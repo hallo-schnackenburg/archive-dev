@@ -1,0 +1,35 @@
+id: 01F5836XJ5FZ35KQ8QNEQWY5M4
+type: image
+subtype: photo
+title: Walter Ahrens vor dem Schmiede
+date: 1898/1903
+location: Salzwedel, Poststelle
+geocode:
+  lat: 52.929
+  lon: 11.5263
+  precision: region
+  source: osm
+origin:
+  name: Friedrich Lemke
+  type: person
+  location: Laase
+files:
+  - role: main
+    original_name: scan_701.tif
+    path: files/99/0b/990b2830cb69e5dd2644edae390d6731bf8858f499d4a2e4580ae1d453165dec/original.tif
+    sha256: 990b2830cb69e5dd2644edae390d6731bf8858f499d4a2e4580ae1d453165dec
+    mime: image/tiff
+    bytes: 22924606
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/99/0b/990b2830cb69e5dd2644edae390d6731bf8858f499d4a2e4580ae1d453165dec/preview-400.5e6961114712.jpg
+        sha256: 5e696111471286d4ee681f8b0f38eb37d6e667e044a68455b5cad03a8efb21e2
+        mime: image/jpeg
+        bytes: 83779
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,58 @@
+id: 01JY9HBZH8MKC9M28ASGE8CEHV
+type: document
+subtype: letter
+title: Feldpostbrief von Klaus Krüger
+description: Handschriftlich, 2 Seiten.
+date: 1917-08-24
+origin:
+  name: Heinrich Bohlmann
+  type: person
+  location: Lüchow
+recipient: Erika Hennings
+language: de
+subjects:
+  - name: Einschulung 1917
+    type: event
+  - name: Gasthof „Zur Elbe“
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_e8cehv_001.tif
+    path: files/54/6f/546f9d532ec964b55bd74fac056b7cf7910afbe9584b90b9912c550726de68aa/original.tif
+    sha256: 546f9d532ec964b55bd74fac056b7cf7910afbe9584b90b9912c550726de68aa
+    mime: image/tiff
+    bytes: 26093939
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/54/6f/546f9d532ec964b55bd74fac056b7cf7910afbe9584b90b9912c550726de68aa/preview-400.53b501657c15.jpg
+        sha256: 53b501657c15ef89a6f3d99c739b7b5194fda27a71b76c425e7aaf8a61ba9114
+        mime: image/jpeg
+        bytes: 75832
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_e8cehv_002.tif
+    path: files/53/a5/53a5884fe3f19628c34c70fd4e106c7cf2cf3e92f43d5d9dd5a3e7ed97794fe6/original.tif
+    sha256: 53a5884fe3f19628c34c70fd4e106c7cf2cf3e92f43d5d9dd5a3e7ed97794fe6
+    mime: image/tiff
+    bytes: 2506277
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/53/a5/53a5884fe3f19628c34c70fd4e106c7cf2cf3e92f43d5d9dd5a3e7ed97794fe6/preview-400.0f38032d5e3b.jpg
+        sha256: 0f38032d5e3b848841d676e0089cbe363b88ace2b58eb3d2356025f1ed5044bc
+        mime: image/jpeg
+        bytes: 88138
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

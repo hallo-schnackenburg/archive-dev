@@ -1,0 +1,40 @@
+id: 01JHPE0ZCFVFQP11GBDW22TAVT
+type: image
+subtype: print
+title: Ansichtskarte Elbstraße, Kapern (90)
+date: 1739-10
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F/Kasten 29/083
+subjects:
+  - name: Karl Ihde
+    type: person
+  - name: Gorleben
+    type: place
+  - name: Weihnachtsmarkt 1739
+    type: event
+parents:
+  - 01G8JVP67ZT9860RH8N2NEXXK7
+files:
+  - role: main
+    original_name: scan_172.tif
+    path: files/a1/ba/a1baa344c774119a6c600e8a83b4cfcbad84aac7327dbd42a5c5b195e42a6b81/original.tif
+    sha256: a1baa344c774119a6c600e8a83b4cfcbad84aac7327dbd42a5c5b195e42a6b81
+    mime: image/tiff
+    bytes: 26003698
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a1/ba/a1baa344c774119a6c600e8a83b4cfcbad84aac7327dbd42a5c5b195e42a6b81/preview-400.e9bb4c2bdb0b.jpg
+        sha256: e9bb4c2bdb0bdcfcfa3c46c6472c779250e6db768b07d7d0ff9fb26c28069dc0
+        mime: image/jpeg
+        bytes: 28172
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

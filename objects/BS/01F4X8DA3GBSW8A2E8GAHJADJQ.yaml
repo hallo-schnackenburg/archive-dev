@@ -1,0 +1,44 @@
+id: 01F4X8DA3GBSW8A2E8GAHJADJQ
+type: image
+subtype: plan
+title: Bauplan Dorfschule 1984
+description: Tusche auf Transparentpapier.
+date: 1984-04
+location: Gorleben, Elbstraße
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan 16/286
+subjects:
+  - name: Albert Fricke
+    type: person
+  - name: Otto Krüger
+    type: person
+  - name: Lanz
+    type: place
+files:
+  - role: main
+    original_name: scan_263.tif
+    path: files/ed/85/ed8535a624cd605f445218a4f489be249e170c0a67c2097f56186a97cfb20937/original.tif
+    sha256: ed8535a624cd605f445218a4f489be249e170c0a67c2097f56186a97cfb20937
+    mime: image/tiff
+    bytes: 7825141
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ed/85/ed8535a624cd605f445218a4f489be249e170c0a67c2097f56186a97cfb20937/preview-400.43d7d852031a.jpg
+        sha256: 43d7d852031a898a8d4888b7899b800f5eb0d75ca5e1929b59ca5d21614481af
+        mime: image/jpeg
+        bytes: 67732
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

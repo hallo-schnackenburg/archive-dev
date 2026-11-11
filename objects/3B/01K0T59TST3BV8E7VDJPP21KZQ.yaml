@@ -1,0 +1,36 @@
+id: 01K0T59TST3BV8E7VDJPP21KZQ
+type: image
+subtype: print
+title: Postkarte Dömitz, Poststelle
+description: Postkarte, gelaufen 1933.
+date: 1874/1880
+location: Salzwedel, Badestelle
+origin:
+  name: Berta Ahrens
+  type: person
+  location: Havelberg
+subjects:
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01EVCP6NN2EADHWRTHNC79ZAS7
+files:
+  - role: main
+    original_name: scan_333.tif
+    path: files/15/0f/150fa7ec0bb1be3fd64c7195bd7bf5b4541c98b090ee27637fdc74041d755ddd/original.tif
+    sha256: 150fa7ec0bb1be3fd64c7195bd7bf5b4541c98b090ee27637fdc74041d755ddd
+    mime: image/tiff
+    bytes: 6651178
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/15/0f/150fa7ec0bb1be3fd64c7195bd7bf5b4541c98b090ee27637fdc74041d755ddd/preview-400.a95d4c6ee26c.jpg
+        sha256: a95d4c6ee26c2dc2765d94c749219861cf27497bdb2822306098ceb5d1ead7b1
+        mime: image/jpeg
+        bytes: 80629
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

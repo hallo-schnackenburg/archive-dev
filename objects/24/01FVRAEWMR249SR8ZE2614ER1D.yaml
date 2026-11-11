@@ -1,0 +1,33 @@
+id: 01FVRAEWMR249SR8ZE2614ER1D
+type: image
+subtype: photo
+title: Maifeier 1950
+description: Farbfoto, leicht verblasst.
+date: 1950-10
+origin:
+  name: Friedrich Matthies
+  type: person
+  location: Gartow
+subjects:
+  - name: Schützenfest 1950
+    type: event
+files:
+  - role: main
+    original_name: foto_3085.jpg
+    path: files/1a/bc/1abc5e7022e248c23df09d85fc10c63304fa6e12046213820b98386c9b8c1c1c/original.jpg
+    sha256: 1abc5e7022e248c23df09d85fc10c63304fa6e12046213820b98386c9b8c1c1c
+    mime: image/jpeg
+    bytes: 13872926
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/1a/bc/1abc5e7022e248c23df09d85fc10c63304fa6e12046213820b98386c9b8c1c1c/preview-400.b0c25db81020.jpg
+        sha256: b0c25db81020a01aca5ebd837270207191fcf9b2e9205e02a8b8fcaeb2b0cc0b
+        mime: image/jpeg
+        bytes: 23563
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

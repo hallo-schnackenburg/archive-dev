@@ -1,0 +1,41 @@
+id: 01GJJD3XM7KYGN4AT9VVEDTC2P
+type: image
+subtype: drawing
+title: Wappenentwurf Wustrow, Dömitz
+date: 1962-01
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F/Kasten 5/067
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v47211
+subjects:
+  - name: Poststelle
+    type: building
+  - name: Salzwedel
+    type: place
+  - name: Ernst Meyer
+    type: person
+parents:
+  - 01FVB0ZV7D5S8N9566PY0PJ70J
+files:
+  - role: main
+    original_name: scan_023.tif
+    path: files/38/c5/38c5692fd3074307f1bc6f28e47c62f515e89ad341eab6b30b1fc4c5998dca2f/original.tif
+    sha256: 38c5692fd3074307f1bc6f28e47c62f515e89ad341eab6b30b1fc4c5998dca2f
+    mime: image/tiff
+    bytes: 13341565
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/38/c5/38c5692fd3074307f1bc6f28e47c62f515e89ad341eab6b30b1fc4c5998dca2f/preview-400.fd29855b287f.jpg
+        sha256: fd29855b287f28a2eaa083e1a91fae09154fa1706adcb76e4f8a2bea8347e37c
+        mime: image/jpeg
+        bytes: 85836
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

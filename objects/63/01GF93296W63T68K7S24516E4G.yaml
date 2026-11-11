@@ -1,0 +1,43 @@
+id: 01GF93296W63T68K7S24516E4G
+type: document
+subtype: note
+title: Rechnung Hennings, Tanzsaal
+location: Gorleben, Kirchstraße
+geocode:
+  lat: 53.0114
+  lon: 11.6385
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Familie Matthies
+    type: person
+    location: Havelberg
+  reference: Pro/Kasten 28/086
+  note: Mappe 12
+subjects:
+  - name: Sportplatz
+    type: building
+  - name: Beerdigung 1961
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_516e4g_001.tif
+    path: files/af/a9/afa999deacd7e758ef90c4d637603df55bc80afd3ae53c9c4da394cd7c85a227/original.tif
+    sha256: afa999deacd7e758ef90c4d637603df55bc80afd3ae53c9c4da394cd7c85a227
+    mime: image/tiff
+    bytes: 1345624
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/af/a9/afa999deacd7e758ef90c4d637603df55bc80afd3ae53c9c4da394cd7c85a227/preview-400.4d55c0e2799c.jpg
+        sha256: 4d55c0e2799cd634a3c654a6507526a874edf4e7e85f2d40d39b8dc52b66c26f
+        mime: image/jpeg
+        bytes: 21191
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

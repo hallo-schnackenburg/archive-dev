@@ -1,0 +1,42 @@
+id: 01J0Z3T7CAN0K6R5QWH03HYQ2S
+type: image
+subtype: photo
+title: Blick vom Gemeindehaus auf das Apotheke
+date: 1955-04-14
+location: Lenzen, Bahnhof
+geocode:
+  lat: 53.0924
+  lon: 11.4674
+  precision: exact
+  source: osm
+origin:
+  name: Dieter Wiegmann
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Dorffest 1955
+    type: event
+  - name: Brückeneinweihung 1955
+    type: event
+parents:
+  - 01F1BHYRX3XQ5HK4ANVQXBQ5E6
+files:
+  - role: main
+    original_name: scan_059.tif
+    path: files/48/23/4823f59edbb2e70d2d5e814c9825617bed49386c8e336c32f763e29ab3a96802/original.tif
+    sha256: 4823f59edbb2e70d2d5e814c9825617bed49386c8e336c32f763e29ab3a96802
+    mime: image/tiff
+    bytes: 16581530
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/48/23/4823f59edbb2e70d2d5e814c9825617bed49386c8e336c32f763e29ab3a96802/preview-400.bc6e276b7670.jpg
+        sha256: bc6e276b7670d08e96ff48bf72736fae87394fc506d4ad6f7c9ee46738970f80
+        mime: image/jpeg
+        bytes: 32996
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

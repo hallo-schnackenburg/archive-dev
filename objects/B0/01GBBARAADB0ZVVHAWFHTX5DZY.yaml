@@ -1,0 +1,92 @@
+id: 01GBBARAADB0ZVVHAWFHTX5DZY
+type: document
+subtype: letter
+title: Zeugnis für Heinrich Gerdes
+description: Handschriftlich, 3 Seiten.
+date: 1855-05-27
+location: Pretzier, Scheune
+geocode:
+  lat: 53.0968
+  lon: 11.4567
+  precision: street
+  source: osm
+origin:
+  name: Erika Meyer
+  type: person
+  location: Gartow
+recipient: Erika Ahrens
+language: de
+original:
+  holder:
+    name: Familie Oelker
+    type: person
+    location: Salzwedel
+  note: Planschrank, Fach 3
+subjects:
+  - name: Gülden
+    type: place
+  - name: Zadrau
+    type: place
+  - name: Wittenberge
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_tx5dzy_001.tif
+    path: files/aa/67/aa6759b87fdf33fb2b087e2b9afd21cdfcc9f8041433dc79cf39c6aae58f7a78/original.tif
+    sha256: aa6759b87fdf33fb2b087e2b9afd21cdfcc9f8041433dc79cf39c6aae58f7a78
+    mime: image/tiff
+    bytes: 21459086
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/aa/67/aa6759b87fdf33fb2b087e2b9afd21cdfcc9f8041433dc79cf39c6aae58f7a78/preview-400.95f28126c339.jpg
+        sha256: 95f28126c33940f3ac4be73f72c71f801f603d0e44d7b48d215a52ce09ea0b34
+        mime: image/jpeg
+        bytes: 30092
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_tx5dzy_002.tif
+    path: files/ab/ca/abcad7d7c06712fce3fbfef9f692331f6bb741f5b817b6b518bc6f9fa4e4c90b/original.tif
+    sha256: abcad7d7c06712fce3fbfef9f692331f6bb741f5b817b6b518bc6f9fa4e4c90b
+    mime: image/tiff
+    bytes: 14051508
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ab/ca/abcad7d7c06712fce3fbfef9f692331f6bb741f5b817b6b518bc6f9fa4e4c90b/preview-400.1630651091a7.jpg
+        sha256: 1630651091a7b5c530d1fdbd024b1558a98238388f20a79e6b13205fa8d279e0
+        mime: image/jpeg
+        bytes: 34713
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_tx5dzy_003.tif
+    path: files/46/b4/46b43029be9582c79ac187fd8dcb773e21f01951027acc9eb5174dd79414f49b/original.tif
+    sha256: 46b43029be9582c79ac187fd8dcb773e21f01951027acc9eb5174dd79414f49b
+    mime: image/tiff
+    bytes: 22027676
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/46/b4/46b43029be9582c79ac187fd8dcb773e21f01951027acc9eb5174dd79414f49b/preview-400.443f9737dfc1.jpg
+        sha256: 443f9737dfc1c886dcc053ce249913bdce1a63911039c6ec226bfa00bc169086
+        mime: image/jpeg
+        bytes: 47145
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

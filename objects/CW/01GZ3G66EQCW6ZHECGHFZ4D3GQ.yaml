@@ -1,0 +1,31 @@
+id: 01GZ3G66EQCW6ZHECGHFZ4D3GQ
+type: image
+subtype: plan
+title: Deichplan Wittenberge bis Schnackenburg
+date: 176X
+location: Nienwalde, Schulstraße
+geocode:
+  lat: 52.9866
+  lon: 11.4528
+  precision: street
+  source: osm
+files:
+  - role: main
+    original_name: scan_691.tif
+    path: files/59/86/5986c0a35663e0aef5dd9344de72ce5381473aad28bf4f54f75dbb9a7a1a2bc9/original.tif
+    sha256: 5986c0a35663e0aef5dd9344de72ce5381473aad28bf4f54f75dbb9a7a1a2bc9
+    mime: image/tiff
+    bytes: 1889485
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/59/86/5986c0a35663e0aef5dd9344de72ce5381473aad28bf4f54f75dbb9a7a1a2bc9/preview-400.6359a6decd52.jpg
+        sha256: 6359a6decd52829b4a4c7e620248c174a199310acac8c5c92d4dfd93dacaaf75
+        mime: image/jpeg
+        bytes: 35990
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

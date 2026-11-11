@@ -1,0 +1,34 @@
+id: 01JW9VKWY44802F8KJ43CXYNGG
+type: image
+subtype: plan
+title: Deichplan Salzwedel bis Bömenzien
+description: Maßstab 1:250.
+date: 1896-01
+location: Lenzen, Marktstraße
+origin:
+  name: Lotte Rohde
+  type: person
+  location: Wootz
+subjects:
+  - name: Ladestraße
+    type: building
+files:
+  - role: main
+    original_name: scan_723.tif
+    path: files/e1/62/e162313a02b9804974b6d17683ca9f13638298d9285ab1d190e26aeb0bf60398/original.tif
+    sha256: e162313a02b9804974b6d17683ca9f13638298d9285ab1d190e26aeb0bf60398
+    mime: image/tiff
+    bytes: 16903184
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e1/62/e162313a02b9804974b6d17683ca9f13638298d9285ab1d190e26aeb0bf60398/preview-400.ae712230d136.jpg
+        sha256: ae712230d136e4b6c2906ac97705f7f777fb500b9700a45dd14894dbb8ad59fc
+        mime: image/jpeg
+        bytes: 72029
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01GTWQ2ZDPG3G35V19JQKYS72S
+type: document
+subtype: letter
+title: Korrespondenz Wilhelm Schulz
+description: Maschinenschriftlich, unterschrieben.
+date: 1906~
+location: Kapern, Gasthof Meyer
+geocode:
+  lat: 53.0917
+  lon: 11.6731
+  precision: region
+  source: osm
+language: de
+subjects:
+  - name: Dorffest 1906
+    type: event
+  - name: Fähranleger
+    type: building
+parents:
+  - 01HRJYJMA6PZA35NA1FR6QZ5XX
+  - 01J1BQMAQVEW8DB40J658P2X0W
+files:
+  - role: page
+    num: 1
+    original_name: letter_kys72s_001.tif
+    path: files/14/9b/149bbba029bcdcc382c7c4f78ae11a3bbd21d1fba98b793d4f28ec1f31b0645c/original.tif
+    sha256: 149bbba029bcdcc382c7c4f78ae11a3bbd21d1fba98b793d4f28ec1f31b0645c
+    mime: image/tiff
+    bytes: 23776104
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/9b/149bbba029bcdcc382c7c4f78ae11a3bbd21d1fba98b793d4f28ec1f31b0645c/preview-400.98f6ecaed28f.jpg
+        sha256: 98f6ecaed28f6c9e7e87630852aac7f7152c3e8179a54989db49441bc246e752
+        mime: image/jpeg
+        bytes: 49578
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

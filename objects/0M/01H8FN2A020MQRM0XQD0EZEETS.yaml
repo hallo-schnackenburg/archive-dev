@@ -1,0 +1,41 @@
+id: 01H8FN2A020MQRM0XQD0EZEETS
+type: image
+subtype: photo
+title: Karl Schulz vor dem Zollamt
+description: Aufnahme von Emma Ulrich.
+date: "1912"
+location: Pretzier, Schulstraße
+geocode:
+  lat: 53.0404
+  lon: 11.6022
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 10/040
+parents:
+  - 01F0QYSCYKSTCN1NTYT6RNDCR9
+  - 01G5YQX49NEBDKWNJMDBV4BH06
+files:
+  - role: main
+    original_name: P3951.jpg
+    path: files/97/e5/97e5b6469b4738617b4ee63cf18a053aeb0c4ac6fc3bc9897f2b0c074058bad8/original.jpg
+    sha256: 97e5b6469b4738617b4ee63cf18a053aeb0c4ac6fc3bc9897f2b0c074058bad8
+    mime: image/jpeg
+    bytes: 26745110
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/97/e5/97e5b6469b4738617b4ee63cf18a053aeb0c4ac6fc3bc9897f2b0c074058bad8/preview-400.f872307b6b42.jpg
+        sha256: f872307b6b420b27b238459a49917465926f665b018fee6cddf7220972f1becb
+        mime: image/jpeg
+        bytes: 48926
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

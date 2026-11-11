@@ -1,0 +1,41 @@
+id: 01HDBRFKJP4WAP79M5TFKAA3WD
+type: image
+subtype: plan
+title: Deichplan Rüterberg bis Gülden
+description: Mit handschriftlichen Ergänzungen.
+date: "1960"
+location: Nienwalde, Schmiede
+geocode:
+  lat: 52.9355
+  lon: 11.7
+  precision: exact
+  source: osm
+origin:
+  name: Käthe Stoll
+  type: person
+  location: Gorleben
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Anni Lemke
+    type: person
+files:
+  - role: main
+    original_name: scan_437.tif
+    path: files/c9/d0/c9d014fd9b2c3da2050b0641827274fabddfbef15d762248f70a41e146264a8d/original.tif
+    sha256: c9d014fd9b2c3da2050b0641827274fabddfbef15d762248f70a41e146264a8d
+    mime: image/tiff
+    bytes: 19864574
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c9/d0/c9d014fd9b2c3da2050b0641827274fabddfbef15d762248f70a41e146264a8d/preview-400.a96c216d4bec.jpg
+        sha256: a96c216d4bec466bb3c5950c596b6cecf1133a69d32568f8deab68aa54835acb
+        mime: image/jpeg
+        bytes: 24425
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

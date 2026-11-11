@@ -1,0 +1,82 @@
+id: 01HSWK50K54KX4HS7D523MYHAR
+type: document
+subtype: protocol
+title: Protokoll des Ortsrat vom 8. Mai 1872
+date: 1872-05-08
+location: Cumlosen, Mühlenweg
+geocode:
+  lat: 52.953
+  lon: 11.5771
+  precision: exact
+  source: osm
+origin:
+  name: Ortsrat Zadrau
+  type: business
+  location: Lenzen
+language: de
+subjects:
+  - name: Schmiede
+    type: building
+parents:
+  - 01KCPF76CA7S8G3CA0KXJVYAVA
+files:
+  - role: page
+    num: 1
+    original_name: protocol_3myhar_001.tif
+    path: files/14/e2/14e251f5771a3e519825cc46264d69af016831a33218c2cdc07a4afe1c0ffabd/original.tif
+    sha256: 14e251f5771a3e519825cc46264d69af016831a33218c2cdc07a4afe1c0ffabd
+    mime: image/tiff
+    bytes: 9046557
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/e2/14e251f5771a3e519825cc46264d69af016831a33218c2cdc07a4afe1c0ffabd/preview-400.dac52d255415.jpg
+        sha256: dac52d255415194985cfed7dca1f8107c21fa323eb054aae74aa237f26a406ad
+        mime: image/jpeg
+        bytes: 85760
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_3myhar_002.tif
+    path: files/bb/0c/bb0c60d685a5feaa6fabe29b1074cadec71996d545cd5ea081ab8ebb14372d55/original.tif
+    sha256: bb0c60d685a5feaa6fabe29b1074cadec71996d545cd5ea081ab8ebb14372d55
+    mime: image/tiff
+    bytes: 1689491
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bb/0c/bb0c60d685a5feaa6fabe29b1074cadec71996d545cd5ea081ab8ebb14372d55/preview-400.c7c7089a5dd2.jpg
+        sha256: c7c7089a5dd2238be31fba41a9069ab4633ce5678d5e6a04f7dc0a05ebdf53f0
+        mime: image/jpeg
+        bytes: 48850
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_3myhar_003.tif
+    path: files/96/92/9692c894ed21eb12f12ca28da7cd7b0fb180fad05d7231fbae5a54467bc55aaa/original.tif
+    sha256: 9692c894ed21eb12f12ca28da7cd7b0fb180fad05d7231fbae5a54467bc55aaa
+    mime: image/tiff
+    bytes: 20282847
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/96/92/9692c894ed21eb12f12ca28da7cd7b0fb180fad05d7231fbae5a54467bc55aaa/preview-400.082a197a5e06.jpg
+        sha256: 082a197a5e06cb95eedcad3eca21b8876a00fb0330a241e2c196919791e286db
+        mime: image/jpeg
+        bytes: 61046
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,48 @@
+id: 01HHXXNY5FHQSQK0SK4WD36P2J
+type: image
+subtype: photo
+title: Familie Bruns beim Osterfeuer
+date: 1971-08-10
+location: Wustrow, Schulstraße
+geocode:
+  lat: 52.9772
+  lon: 11.6925
+  precision: region
+  source: osm
+origin:
+  name: Hermann Gaede
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 28/080
+subjects:
+  - name: Rudolf Jeß
+    type: person
+  - name: Gollensdorf
+    type: place
+  - name: Hitzacker
+    type: place
+files:
+  - role: main
+    original_name: P3950.jpg
+    path: files/c7/ce/c7ce514e0c887e0dd6697901a4b65366edb9584594f4508fec5bb15e18cff98e/original.jpg
+    sha256: c7ce514e0c887e0dd6697901a4b65366edb9584594f4508fec5bb15e18cff98e
+    mime: image/jpeg
+    bytes: 6588718
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c7/ce/c7ce514e0c887e0dd6697901a4b65366edb9584594f4508fec5bb15e18cff98e/preview-400.1329552849e1.jpg
+        sha256: 1329552849e103543fa2714ff9a323a66b9362a9fbe308fe4cfa95113a69c167
+        mime: image/jpeg
+        bytes: 60150
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

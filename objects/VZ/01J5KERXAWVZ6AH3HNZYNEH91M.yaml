@@ -1,0 +1,35 @@
+id: 01J5KERXAWVZ6AH3HNZYNEH91M
+type: image
+subtype: plan
+title: Katasterblatt Behrens
+description: Tusche auf Transparentpapier.
+date: 1987-03
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 12/068
+subjects:
+  - name: Schmiede
+    type: building
+files:
+  - role: main
+    original_name: scan_670.tif
+    path: files/3b/7e/3b7e2acedcef62f739289f9375a5925433284bae397d64c5863b245461ee1408/original.tif
+    sha256: 3b7e2acedcef62f739289f9375a5925433284bae397d64c5863b245461ee1408
+    mime: image/tiff
+    bytes: 1239307
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3b/7e/3b7e2acedcef62f739289f9375a5925433284bae397d64c5863b245461ee1408/preview-400.e9e2e3dde0dd.jpg
+        sha256: e9e2e3dde0dd27e254374d0a1265637e546340b2c17f71763fc2a8b009f5873b
+        mime: image/jpeg
+        bytes: 41145
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

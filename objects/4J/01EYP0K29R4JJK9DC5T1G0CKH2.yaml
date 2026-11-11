@@ -1,0 +1,39 @@
+id: 01EYP0K29R4JJK9DC5T1G0CKH2
+type: image
+subtype: plan
+title: Katasterblatt Garms
+description: Maßstab 1:1000.
+date: 1990-10-28
+location: Gülden, Mühlenweg
+geocode:
+  lat: 53.0939
+  lon: 11.4698
+  precision: street
+  source: osm
+subjects:
+  - name: Dieter Ahrens
+    type: person
+  - name: Grenzöffnung 1990
+    type: event
+  - name: Zadrau
+    type: place
+files:
+  - role: main
+    original_name: scan_928.tif
+    path: files/ee/8f/ee8ff1c4ecf699a0f03f8ac1b8bab805ebf3b0e396038524312ad746d2431cbb/original.tif
+    sha256: ee8ff1c4ecf699a0f03f8ac1b8bab805ebf3b0e396038524312ad746d2431cbb
+    mime: image/tiff
+    bytes: 13692324
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ee/8f/ee8ff1c4ecf699a0f03f8ac1b8bab805ebf3b0e396038524312ad746d2431cbb/preview-400.474ea103f188.jpg
+        sha256: 474ea103f188e7b9050058b8310a4c2d31cd273e322d34d176b728ef2b167ece
+        mime: image/jpeg
+        bytes: 51102
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

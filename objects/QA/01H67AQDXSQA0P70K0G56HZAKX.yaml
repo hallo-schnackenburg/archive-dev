@@ -1,0 +1,30 @@
+id: 01H67AQDXSQA0P70K0G56HZAKX
+type: image
+subtype: plan
+title: Bauplan Tanzsaal 1928
+description: Mit handschriftlichen Ergänzungen.
+date: "1928"
+origin:
+  name: Ilse Detlefs
+  type: person
+  location: Schnackenburg
+files:
+  - role: main
+    original_name: scan_276.tif
+    path: files/63/32/6332b63538a1dfadd3058a431b951bf670554c2b9393b682e407adcdd391bdd4/original.tif
+    sha256: 6332b63538a1dfadd3058a431b951bf670554c2b9393b682e407adcdd391bdd4
+    mime: image/tiff
+    bytes: 14541113
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/63/32/6332b63538a1dfadd3058a431b951bf670554c2b9393b682e407adcdd391bdd4/preview-400.e131d8f65e27.jpg
+        sha256: e131d8f65e272cde56f7ee40e8819517a556124392a9c572b78c01b2e613b5e1
+        mime: image/jpeg
+        bytes: 29658
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

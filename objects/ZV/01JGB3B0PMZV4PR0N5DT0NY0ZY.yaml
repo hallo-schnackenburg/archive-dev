@@ -1,0 +1,42 @@
+id: 01JGB3B0PMZV4PR0N5DT0NY0ZY
+type: image
+subtype: plan
+title: Bauplan Gärtnerei 1753
+description: Maßstab 1:500.
+date: 1753-05
+location: Pretzier, Hinter den Höfen
+geocode:
+  lat: 52.9589
+  lon: 11.4859
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Heuberge
+    type: building
+parents:
+  - 01K6MM688883CWMKTJ2NVR6F70
+files:
+  - role: main
+    original_name: scan_650.tif
+    path: files/7c/49/7c49695c79e8611791e8fccddf7c34f80e045505d7c67e2f9581fa45d86ead79/original.tif
+    sha256: 7c49695c79e8611791e8fccddf7c34f80e045505d7c67e2f9581fa45d86ead79
+    mime: image/tiff
+    bytes: 23776898
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7c/49/7c49695c79e8611791e8fccddf7c34f80e045505d7c67e2f9581fa45d86ead79/preview-400.c36ab5a9244c.jpg
+        sha256: c36ab5a9244c69134c6211ac8eb58697d6aec09fbcc565d5b83548f822590a12
+        mime: image/jpeg
+        bytes: 29632
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

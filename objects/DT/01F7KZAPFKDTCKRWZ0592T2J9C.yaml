@@ -1,0 +1,39 @@
+id: 01F7KZAPFKDTCKRWZ0592T2J9C
+type: image
+subtype: photo
+title: Schützenhaus nach dem Schlachtfest
+description: Zu sehen sind Gemeindehaus und Molkerei.
+date: 1996-12-19
+location: Lüchow, Heuberge
+geocode:
+  lat: 53.0607
+  lon: 11.6141
+  precision: street
+  source: osm
+subjects:
+  - name: Fähranleger
+    type: building
+  - name: Wilhelm Lemke
+    type: person
+  - name: Hans Rieke
+    type: person
+files:
+  - role: main
+    original_name: scan_560.tif
+    path: files/2e/60/2e60afb95344719cdd3120aa4ff5ad000c7ab9b33a1dabb2178cf384be44e76c/original.tif
+    sha256: 2e60afb95344719cdd3120aa4ff5ad000c7ab9b33a1dabb2178cf384be44e76c
+    mime: image/tiff
+    bytes: 24690648
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2e/60/2e60afb95344719cdd3120aa4ff5ad000c7ab9b33a1dabb2178cf384be44e76c/preview-400.32aa5ad0e819.jpg
+        sha256: 32aa5ad0e819057b67597bad048d3f6761ed860672c7d5397721d902f012b8bd
+        mime: image/jpeg
+        bytes: 50577
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

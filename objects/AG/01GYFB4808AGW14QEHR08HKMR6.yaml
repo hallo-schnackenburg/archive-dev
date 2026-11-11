@@ -1,0 +1,36 @@
+id: 01GYFB4808AGW14QEHR08HKMR6
+type: image
+subtype: photo
+title: Fritz Matthies, Porträt
+location: Gorleben, Elbdeich
+geocode:
+  lat: 53.0532
+  lon: 11.6288
+  precision: town
+  source: osm
+origin:
+  name: Lotte Krüger
+  type: person
+  location: Laase
+parents:
+  - 01HCDYTRFHFRB82WRMENEDR10F
+files:
+  - role: main
+    original_name: scan_424.tif
+    path: files/4a/fd/4afd734abf0c3767796860a8cc6d39a06ba3e71b10ddabf0b9becb6080cb283b/original.tif
+    sha256: 4afd734abf0c3767796860a8cc6d39a06ba3e71b10ddabf0b9becb6080cb283b
+    mime: image/tiff
+    bytes: 19432065
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4a/fd/4afd734abf0c3767796860a8cc6d39a06ba3e71b10ddabf0b9becb6080cb283b/preview-400.bce95b4fa8c3.jpg
+        sha256: bce95b4fa8c35c7f3ea00cf4394b9e5383eaf50dda1cfd9bf7082596d56fb16a
+        mime: image/jpeg
+        bytes: 29215
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

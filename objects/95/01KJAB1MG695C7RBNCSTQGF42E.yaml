@@ -1,0 +1,41 @@
+id: 01KJAB1MG695C7RBNCSTQGF42E
+type: image
+subtype: plan
+title: Katasterblatt Voss, Lüchow
+description: Tusche auf Transparentpapier.
+date: 1972-07-11
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Kellerarchiv
+subjects:
+  - name: Grenzturm
+    type: building
+  - name: Nienwalde
+    type: place
+  - name: Fährjubiläum 1972
+    type: event
+parents:
+  - 01GVT1XHSVEKN4VCH3XGAC134Y
+files:
+  - role: main
+    original_name: scan_070.tif
+    path: files/c6/a7/c6a7df60a56538b59b5353d7023e4b56c39940e7fd36d45a409539a8ac421d5c/original.tif
+    sha256: c6a7df60a56538b59b5353d7023e4b56c39940e7fd36d45a409539a8ac421d5c
+    mime: image/tiff
+    bytes: 7170786
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c6/a7/c6a7df60a56538b59b5353d7023e4b56c39940e7fd36d45a409539a8ac421d5c/preview-400.c4bb1832d940.jpg
+        sha256: c4bb1832d940205e892cc549e613994e45f5af51a6eb10695a20e8dbb875d871
+        mime: image/jpeg
+        bytes: 72162
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01FME97Y6A0YFK4G5EY0Y0JZPP
+type: image
+subtype: drawing
+title: Federzeichnung Försterei
+description: Bleistift auf Papier.
+date: 184X
+location: Lüchow, Schützenhaus
+origin:
+  name: Erika Ahrens
+  type: person
+  location: Lanz
+subjects:
+  - name: Grenzöffnung 1845
+    type: event
+  - name: Feuerwehrhaus
+    type: building
+  - name: Erika Harms
+    type: person
+parents:
+  - 01JKQ421K5RBFQ8NV81GBKEPMH
+files:
+  - role: main
+    original_name: scan_291.tif
+    path: files/4e/dc/4edc9a3825f73cbe9a6be516f528710e3b108a562c5bc5a604c9adc6d6878ad1/original.tif
+    sha256: 4edc9a3825f73cbe9a6be516f528710e3b108a562c5bc5a604c9adc6d6878ad1
+    mime: image/tiff
+    bytes: 478079
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4e/dc/4edc9a3825f73cbe9a6be516f528710e3b108a562c5bc5a604c9adc6d6878ad1/preview-400.aa7fe2ff73f2.jpg
+        sha256: aa7fe2ff73f2d409d7d2bf3178883c9a4a01becc9dc147521cf41f113796cde5
+        mime: image/jpeg
+        bytes: 38149
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

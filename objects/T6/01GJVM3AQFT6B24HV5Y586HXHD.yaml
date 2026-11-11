@@ -1,0 +1,36 @@
+id: 01GJVM3AQFT6B24HV5Y586HXHD
+type: image
+subtype: drawing
+title: Skizze Hitzacker, Hafenstraße
+date: 1902-10-09
+location: Salzwedel, Hafen
+origin:
+  name: Albert Gerdes
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Gorleben
+    type: place
+parents:
+  - 01FC500G3M1EH4PAW2K7HHB2K0
+  - 01K6MM688883CWMKTJ2NVR6F70
+files:
+  - role: main
+    original_name: scan_554.tif
+    path: files/75/36/753602fae3fc5366b7002b031c24a9a03de3c73779ef11ed190752581b3083cc/original.tif
+    sha256: 753602fae3fc5366b7002b031c24a9a03de3c73779ef11ed190752581b3083cc
+    mime: image/tiff
+    bytes: 8231797
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/75/36/753602fae3fc5366b7002b031c24a9a03de3c73779ef11ed190752581b3083cc/preview-400.f18215093bff.jpg
+        sha256: f18215093bffbcf8d4d5d8b01827a5acd850f72de0c78d4f19d600e34d69785e
+        mime: image/jpeg
+        bytes: 27614
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

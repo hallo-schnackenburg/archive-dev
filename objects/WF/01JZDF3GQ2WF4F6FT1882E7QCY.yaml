@@ -1,0 +1,40 @@
+id: 01JZDF3GQ2WF4F6FT1882E7QCY
+type: image
+subtype: photo
+title: "Freiwillige Feuerwehr: Gruppenbild Grenzöffnung"
+date: "1978"
+location: Gartow, Fachwerkhaus Marktstraße 4
+geocode:
+  lat: 52.926
+  lon: 11.6069
+  precision: street
+  source: osm
+origin:
+  name: Ilse Lemke
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Ortsbesichtigung 1978
+    type: event
+parents:
+  - 01JDMR23P0ST4P21YFR11Z2B2R
+files:
+  - role: main
+    original_name: DSC1594.jpg
+    path: files/5a/30/5a302ee9908d1ed346578b8fd4297f38b9003af9b895cd7c6b538e5a872f7f6f/original.jpg
+    sha256: 5a302ee9908d1ed346578b8fd4297f38b9003af9b895cd7c6b538e5a872f7f6f
+    mime: image/jpeg
+    bytes: 25327940
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/5a/30/5a302ee9908d1ed346578b8fd4297f38b9003af9b895cd7c6b538e5a872f7f6f/preview-400.cbf82bafb29b.jpg
+        sha256: cbf82bafb29bcced1258ada1107a404b03b8ae2db4cbb222607e44099020915a
+        mime: image/jpeg
+        bytes: 23100
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

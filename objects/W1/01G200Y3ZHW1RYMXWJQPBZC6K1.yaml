@@ -1,0 +1,33 @@
+id: 01G200Y3ZHW1RYMXWJQPBZC6K1
+type: image
+subtype: print
+title: Postkarte Kapern, Badestelle
+date: "1716"
+location: Gülden, Hafenstraße
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Grenzöffnung 1716
+    type: event
+parents:
+  - 01F2FHHHC3A4CYH69SBK2R9NT8
+files:
+  - role: main
+    original_name: scan_012.tif
+    path: files/cf/ae/cfaebf34460a0c5ff0bf47bc4e8e65c5c42a28f309c5ee393d2f9316dcdc0d0b/original.tif
+    sha256: cfaebf34460a0c5ff0bf47bc4e8e65c5c42a28f309c5ee393d2f9316dcdc0d0b
+    mime: image/tiff
+    bytes: 1819173
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cf/ae/cfaebf34460a0c5ff0bf47bc4e8e65c5c42a28f309c5ee393d2f9316dcdc0d0b/preview-400.258083af10d0.jpg
+        sha256: 258083af10d018d29aebc2f20b9c24f6b49d5fc37deee68b020fcc78a6ec949d
+        mime: image/jpeg
+        bytes: 30316
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

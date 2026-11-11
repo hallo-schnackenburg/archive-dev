@@ -1,0 +1,60 @@
+id: 01F1QJYYBAHKGVYZ5GSWVGMGFS
+type: document
+subtype: letter
+title: Feldpostbrief von Lotte Lemke
+description: Handschriftlich, 3 Seiten.
+location: Salzwedel, Wassermühle
+origin:
+  name: Karl Hennings
+  type: person
+  location: Zadrau
+recipient: Walter Lemke
+language: de
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Walter Krüger
+    type: person
+parents:
+  - 01F1Q5CD51G9ZH21J5XMQ18G3Z
+files:
+  - role: page
+    num: 1
+    original_name: letter_vgmgfs_001.tif
+    path: files/c8/2f/c82f4aff0a88a04d59056929f0245653ef20d52cffca8116f8bfcc3069560236/original.tif
+    sha256: c82f4aff0a88a04d59056929f0245653ef20d52cffca8116f8bfcc3069560236
+    mime: image/tiff
+    bytes: 10242003
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/2f/c82f4aff0a88a04d59056929f0245653ef20d52cffca8116f8bfcc3069560236/preview-400.45e5ce32660a.jpg
+        sha256: 45e5ce32660a91bdff203d400d452334354279e8cdf72ba8ee16cca9460aedb9
+        mime: image/jpeg
+        bytes: 68950
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_vgmgfs_002.tif
+    path: files/09/db/09db1901a2c14aa8462a2d19b6884c3b0c1757863eebad8f2a048d902b0d61cf/original.tif
+    sha256: 09db1901a2c14aa8462a2d19b6884c3b0c1757863eebad8f2a048d902b0d61cf
+    mime: image/tiff
+    bytes: 20828611
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/db/09db1901a2c14aa8462a2d19b6884c3b0c1757863eebad8f2a048d902b0d61cf/preview-400.9640a229a061.jpg
+        sha256: 9640a229a0619e071e92f80448e44287ca3bcee2eb17171fad1dd38e14581576
+        mime: image/jpeg
+        bytes: 32194
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

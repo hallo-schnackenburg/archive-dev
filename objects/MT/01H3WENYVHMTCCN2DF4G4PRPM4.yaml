@@ -1,0 +1,43 @@
+id: 01H3WENYVHMTCCN2DF4G4PRPM4
+type: image
+subtype: plan
+title: Bauplan Kindergarten 1759
+date: 1759-11-12
+origin:
+  name: Anni Brandt
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 7/030
+subjects:
+  - name: Deicharbeiten 1759
+    type: event
+  - name: Osterfeuer 1759
+    type: event
+parents:
+  - 01HE6ENCA0W2Z468GKA6QXY516
+  - 01HJJHXB72AVBKM2CVZ13T7KRK
+files:
+  - role: main
+    original_name: scan_084.tif
+    path: files/a8/cc/a8cc92784efc7fea9c76865038c0f7a189a12e3e74c8daed6f34f5ca059a5c84/original.tif
+    sha256: a8cc92784efc7fea9c76865038c0f7a189a12e3e74c8daed6f34f5ca059a5c84
+    mime: image/tiff
+    bytes: 7670460
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a8/cc/a8cc92784efc7fea9c76865038c0f7a189a12e3e74c8daed6f34f5ca059a5c84/preview-400.dd555f277290.jpg
+        sha256: dd555f277290d0286ec0c5a9f2d134ece4acaac22bec081b45c7edc5d4ba8028
+        mime: image/jpeg
+        bytes: 68135
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

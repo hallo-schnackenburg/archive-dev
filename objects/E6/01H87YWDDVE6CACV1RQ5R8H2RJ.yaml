@@ -1,0 +1,40 @@
+id: 01H87YWDDVE6CACV1RQ5R8H2RJ
+type: image
+subtype: drawing
+title: Kaufmannshaus, Aquarell, Lenzen
+date: 1867-01-12
+location: Holtorf, Bahnhofstraße
+geocode:
+  lat: 52.9761
+  lon: 11.5546
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Rieke
+  type: person
+  location: Gartow
+subjects:
+  - name: Karl Tiedemann
+    type: person
+parents:
+  - 01J59Y3GT8EG81RDPY4TJCRWFY
+files:
+  - role: main
+    original_name: scan_170.tif
+    path: files/d3/e6/d3e6bdfa4294e0fe001ac2c9baa0a5d7c5756c8786b56f1b839ca8e808dbf789/original.tif
+    sha256: d3e6bdfa4294e0fe001ac2c9baa0a5d7c5756c8786b56f1b839ca8e808dbf789
+    mime: image/tiff
+    bytes: 4463022
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d3/e6/d3e6bdfa4294e0fe001ac2c9baa0a5d7c5756c8786b56f1b839ca8e808dbf789/preview-400.d42bc3f24b94.jpg
+        sha256: d42bc3f24b94c45ce35c52b0577a8a96987dac24247582d8310ca6f71912d0e5
+        mime: image/jpeg
+        bytes: 22847
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

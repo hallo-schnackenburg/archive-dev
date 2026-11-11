@@ -1,0 +1,69 @@
+id: 01KE9XYN1E309G5Q37QYCQER5P
+type: document
+subtype: note
+title: Rechnung Hennings, Dorfladen
+description: Beleg mit Stempel.
+date: 1954-11
+location: Wustrow, Marktstraße
+origin:
+  name: Ernst Burmester
+  type: person
+  location: Lüchow
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 6/103
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v44759
+subjects:
+  - name: Helga Ludolf
+    type: person
+  - name: Restorf
+    type: place
+  - name: Deicharbeiten 1954
+    type: event
+parents:
+  - 01FAQ3AREZBKTAGHNPJF8ZYQP7
+files:
+  - role: page
+    num: 1
+    original_name: note_cqer5p_001.tif
+    path: files/98/44/9844d88e77553cc94122264a4dcc9482e8277b5bafaa74635b7f246fe72f5806/original.tif
+    sha256: 9844d88e77553cc94122264a4dcc9482e8277b5bafaa74635b7f246fe72f5806
+    mime: image/tiff
+    bytes: 17798632
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/98/44/9844d88e77553cc94122264a4dcc9482e8277b5bafaa74635b7f246fe72f5806/preview-400.dad1abfc6618.jpg
+        sha256: dad1abfc661852cb6a04933a7a69501c712c36a0c7ff7e580eb1843109e6dbc4
+        mime: image/jpeg
+        bytes: 35063
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_cqer5p_002.tif
+    path: files/2a/f6/2af626234f6b18d5e47961e003f8a87184227bc5e34d6114babf9615019c5b8d/original.tif
+    sha256: 2af626234f6b18d5e47961e003f8a87184227bc5e34d6114babf9615019c5b8d
+    mime: image/tiff
+    bytes: 24719257
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2a/f6/2af626234f6b18d5e47961e003f8a87184227bc5e34d6114babf9615019c5b8d/preview-400.8dd6d764ca7c.jpg
+        sha256: 8dd6d764ca7c7338733fe6a469b1f76114eabb77837c9abfd2da10dcaf086fa1
+        mime: image/jpeg
+        bytes: 61349
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

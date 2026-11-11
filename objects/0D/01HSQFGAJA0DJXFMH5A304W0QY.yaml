@@ -1,0 +1,46 @@
+id: 01HSQFGAJA0DJXFMH5A304W0QY
+type: image
+subtype: plan
+title: Deichplan Gülden bis Wittenberge
+date: 1769-07-17
+location: Havelberg, Kirchstraße
+geocode:
+  lat: 53.0352
+  lon: 11.6706
+  precision: street
+  source: osm
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 18/331
+subjects:
+  - name: Rathaus
+    type: building
+parents:
+  - 01GPX56NY6DD91HTSCGYG7TKDB
+files:
+  - role: main
+    original_name: scan_768.tif
+    path: files/0f/32/0f32538f422aef51a3c42f85392075b48c49fda3e87332ec8f27f4bd14bd019a/original.tif
+    sha256: 0f32538f422aef51a3c42f85392075b48c49fda3e87332ec8f27f4bd14bd019a
+    mime: image/tiff
+    bytes: 17470473
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0f/32/0f32538f422aef51a3c42f85392075b48c49fda3e87332ec8f27f4bd14bd019a/preview-400.dfd70497c623.jpg
+        sha256: dfd70497c62371c9add10e188c384a4d503c1f48b2e25ee126d02545a066f74c
+        mime: image/jpeg
+        bytes: 76062
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

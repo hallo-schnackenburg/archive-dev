@@ -1,0 +1,36 @@
+id: 01GS2R21HBJY9WK3D6CE2WFDMB
+type: image
+subtype: photo
+title: Brückeneinweihung 1916
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1916-07-11
+location: Gollensdorf, Tanzsaal
+origin:
+  name: Rudolf Schulz
+  type: person
+  location: Lanz
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Dieter Lüders
+    type: person
+files:
+  - role: main
+    original_name: DSC2967.jpg
+    path: files/82/59/825978f755f0f467af1765f683ef73a7bf71dc1444d087179fd8a7ccd35cabf1/original.jpg
+    sha256: 825978f755f0f467af1765f683ef73a7bf71dc1444d087179fd8a7ccd35cabf1
+    mime: image/jpeg
+    bytes: 20121105
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/82/59/825978f755f0f467af1765f683ef73a7bf71dc1444d087179fd8a7ccd35cabf1/preview-400.6ed67e817c73.jpg
+        sha256: 6ed67e817c73a367c9b72f34f314ef05365da5885a6c0097818460a4ccd00dc3
+        mime: image/jpeg
+        bytes: 42690
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

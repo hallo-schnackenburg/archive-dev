@@ -1,0 +1,44 @@
+id: 01F1XPXZBWVEP4QJMJJNZ1S189
+type: image
+subtype: photo
+title: Einschulung 2005
+date: 200X
+location: Nienwalde, Tanzsaal
+geocode:
+  lat: 52.9724
+  lon: 11.6924
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 28/091
+subjects:
+  - name: Feuerwehrübung 2005
+    type: event
+  - name: Konfirmation 2005
+    type: event
+  - name: Lotte Garms
+    type: person
+files:
+  - role: main
+    original_name: DSC9396.jpg
+    path: files/a9/fb/a9fbbe4fe4fce38d5421848074944a263621d0cdf91c941f9fb1505c3879f31b/original.jpg
+    sha256: a9fbbe4fe4fce38d5421848074944a263621d0cdf91c941f9fb1505c3879f31b
+    mime: image/jpeg
+    bytes: 15541409
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a9/fb/a9fbbe4fe4fce38d5421848074944a263621d0cdf91c941f9fb1505c3879f31b/preview-400.f8567987907e.jpg
+        sha256: f8567987907e5b65c04e1d1459ef5b8fa1cad8209164a50981a1c20de9adb4c2
+        mime: image/jpeg
+        bytes: 26599
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

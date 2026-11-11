@@ -1,0 +1,46 @@
+id: 01GPHM0AT5JK6DBZR7EYN4FC4S
+type: image
+subtype: print
+title: Ansichtskarte Marktstraße, Holtorf
+description: Lithographie, Rand beschnitten.
+date: 1814-10-25
+location: Wustrow, Dorfkrug
+origin:
+  name: Karl Lemke
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Familie Lüders
+    type: person
+    location: Rüterberg
+  reference: Dok 38/363
+subjects:
+  - name: Torhaus
+    type: building
+  - name: Gartow
+    type: place
+  - name: Erika Garms
+    type: person
+parents:
+  - 01F5A46AQZSQ2ZQK2E1F4Z4ECB
+files:
+  - role: main
+    original_name: scan_301.tif
+    path: files/55/5e/555e5bb739c75bcc4d6c08a9a8abde174dfff63f043d4320f0347712b7131a5b/original.tif
+    sha256: 555e5bb739c75bcc4d6c08a9a8abde174dfff63f043d4320f0347712b7131a5b
+    mime: image/tiff
+    bytes: 23714790
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/55/5e/555e5bb739c75bcc4d6c08a9a8abde174dfff63f043d4320f0347712b7131a5b/preview-400.598e2fbd380e.jpg
+        sha256: 598e2fbd380e3c5ae2b49261ac40417557aeb57acfe8213ce6e88957708e8806
+        mime: image/jpeg
+        bytes: 88887
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

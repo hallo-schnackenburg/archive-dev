@@ -1,0 +1,36 @@
+id: 01FER8BNZRMKYRWDWZH0TEG7FJ
+type: image
+subtype: plan
+title: Deichplan Zadrau bis Zadrau
+date: 1814-11
+origin:
+  name: August Voss
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 18/215
+  note: Planschrank, Fach 3
+files:
+  - role: main
+    original_name: scan_495.tif
+    path: files/8f/9f/8f9fde322e40ccb4efa784736e12b0c79fade9aaeb4f076f144074c4e4560ddc/original.tif
+    sha256: 8f9fde322e40ccb4efa784736e12b0c79fade9aaeb4f076f144074c4e4560ddc
+    mime: image/tiff
+    bytes: 5127375
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/8f/9f/8f9fde322e40ccb4efa784736e12b0c79fade9aaeb4f076f144074c4e4560ddc/preview-400.eaae9e05e916.jpg
+        sha256: eaae9e05e916d14e4c5c7e6c0fcd2a23a3b6b190b85aaa030a9b03f66670a894
+        mime: image/jpeg
+        bytes: 77405
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

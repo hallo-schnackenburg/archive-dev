@@ -1,0 +1,45 @@
+id: 01JQYPDHDR5PR7FYT0277SRVRC
+type: image
+subtype: photo
+title: Dorfkrug in Lenzen
+description: Farbfoto, leicht verblasst.
+date: 1906-09
+location: Zadrau, Burgstraße
+geocode:
+  lat: 52.9462
+  lon: 11.6009
+  precision: street
+  source: osm
+origin:
+  name: Marta Bohlmann
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok 4/163
+subjects:
+  - name: Dieter Lemke
+    type: person
+files:
+  - role: main
+    original_name: DSC0893.jpg
+    path: files/3d/a7/3da7993847b954261b3cf74c101b0d3a900318a883b26cb66a6c9e12433d8d8a/original.jpg
+    sha256: 3da7993847b954261b3cf74c101b0d3a900318a883b26cb66a6c9e12433d8d8a
+    mime: image/jpeg
+    bytes: 6167918
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/3d/a7/3da7993847b954261b3cf74c101b0d3a900318a883b26cb66a6c9e12433d8d8a/preview-400.5d8d0b8e9b8e.jpg
+        sha256: 5d8d0b8e9b8ea5a3eb9b37d117b7aca7f47b1118ecedafb203e3ecc37b447cc8
+        mime: image/jpeg
+        bytes: 34733
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

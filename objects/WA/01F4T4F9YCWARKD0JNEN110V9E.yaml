@@ -1,0 +1,43 @@
+id: 01F4T4F9YCWARKD0JNEN110V9E
+type: image
+subtype: plan
+title: Lageplan Kaufmannshaus, Havelberg
+description: Maßstab 1:1000.
+date: 1959-05
+location: Lanz, Deichstraße
+origin:
+  name: Fritz Wegner
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Mappe 20/053
+  note: Planschrank, Fach 3
+subjects:
+  - name: Kindergarten
+    type: building
+  - name: Heinrich Meyer
+    type: person
+files:
+  - role: main
+    original_name: scan_609.tif
+    path: files/1b/e9/1be9127e3938bbecfb51902ed135f5992d745dc032c64681902741b91dc7e2f2/original.tif
+    sha256: 1be9127e3938bbecfb51902ed135f5992d745dc032c64681902741b91dc7e2f2
+    mime: image/tiff
+    bytes: 25712554
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/1b/e9/1be9127e3938bbecfb51902ed135f5992d745dc032c64681902741b91dc7e2f2/preview-400.412d163acd6c.jpg
+        sha256: 412d163acd6c999985a79f628204ab2ecb9c9b7705bb2c5f30cde9c09410ba69
+        mime: image/jpeg
+        bytes: 85003
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

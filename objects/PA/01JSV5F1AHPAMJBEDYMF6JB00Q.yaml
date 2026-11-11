@@ -1,0 +1,39 @@
+id: 01JSV5F1AHPAMJBEDYMF6JB00Q
+type: image
+subtype: plan
+title: Katasterblatt Rohde
+description: Mit handschriftlichen Ergänzungen.
+location: Lüchow, Kirchstraße
+origin:
+  name: Karl Schulz
+  type: person
+  location: Laase
+subjects:
+  - name: Brunnen am Markt
+    type: building
+  - name: Gartow
+    type: place
+  - name: Holtorf
+    type: place
+parents:
+  - 01EWSDA9HNCJV2FVTXNNBEB0AC
+files:
+  - role: main
+    original_name: scan_951.tif
+    path: files/fc/8f/fc8fed813ae5c44715fcf3013af958bc7ee8151f95cca64a2dd4d97480544adc/original.tif
+    sha256: fc8fed813ae5c44715fcf3013af958bc7ee8151f95cca64a2dd4d97480544adc
+    mime: image/tiff
+    bytes: 11472165
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/8f/fc8fed813ae5c44715fcf3013af958bc7ee8151f95cca64a2dd4d97480544adc/preview-400.b337568fc815.jpg
+        sha256: b337568fc8156d3ae901c1c5ce1cbd382ff595180b3d9ec4b1c3c787a6b41d07
+        mime: image/jpeg
+        bytes: 56058
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

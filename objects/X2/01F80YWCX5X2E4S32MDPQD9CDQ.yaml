@@ -1,0 +1,63 @@
+id: 01F80YWCX5X2E4S32MDPQD9CDQ
+type: document
+subtype: protocol
+title: Protokoll des Feuerwehrausschuss vom 197X
+description: Handschriftlich in Sütterlin.
+date: 197X
+location: Arendsee, Schulstraße
+origin:
+  name: Finanzausschuss Lanz
+  type: business
+  location: Schnackenburg
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 20/078
+  note: Mappe 12
+subjects:
+  - name: Straßenfest 1975
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: protocol_qd9cdq_001.tif
+    path: files/85/e6/85e61cb58d975bff1e1b5e28ed21800e360ad6c53203218c9b7743f53a0942dd/original.tif
+    sha256: 85e61cb58d975bff1e1b5e28ed21800e360ad6c53203218c9b7743f53a0942dd
+    mime: image/tiff
+    bytes: 27846321
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/85/e6/85e61cb58d975bff1e1b5e28ed21800e360ad6c53203218c9b7743f53a0942dd/preview-400.94d6fa303dfb.jpg
+        sha256: 94d6fa303dfbf06f4e95341929fd41e43fdfc116652cf2ca90f1393c0e96bbbc
+        mime: image/jpeg
+        bytes: 51936
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_qd9cdq_002.tif
+    path: files/19/8a/198ae2be4208876e1055db7611f21e7ee78ad13d47d62193b93ad2fbe5041dad/original.tif
+    sha256: 198ae2be4208876e1055db7611f21e7ee78ad13d47d62193b93ad2fbe5041dad
+    mime: image/tiff
+    bytes: 19532212
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/19/8a/198ae2be4208876e1055db7611f21e7ee78ad13d47d62193b93ad2fbe5041dad/preview-400.7eefa4c27fab.jpg
+        sha256: 7eefa4c27fab1f6a84264ff379176e1ddc7a82fb937b1f0f5c3a4873135e78d5
+        mime: image/jpeg
+        bytes: 22251
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

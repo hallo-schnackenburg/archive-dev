@@ -1,0 +1,52 @@
+id: 01KNW5C83AZ424DSG6KAH30N05
+type: document
+subtype: letter
+title: Mitteilung aus Restorf an Familie Voss
+description: Handschriftlich, 4 Seiten.
+date: 1822-12-14
+location: Cumlosen, Zollamt
+geocode:
+  lat: 53.0255
+  lon: 11.6261
+  precision: street
+  source: osm
+origin:
+  name: Ilse Lemke
+  type: person
+  location: Laase
+recipient: Erika Burmester
+language: de
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Dachboden, Truhe
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Karl Garms
+    type: person
+  - name: Weihnachtsmarkt 1822
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_h30n05_001.tif
+    path: files/d4/be/d4be165be508147934a959d2ae73665db7a826e2af16544c344816065b832541/original.tif
+    sha256: d4be165be508147934a959d2ae73665db7a826e2af16544c344816065b832541
+    mime: image/tiff
+    bytes: 25019307
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/be/d4be165be508147934a959d2ae73665db7a826e2af16544c344816065b832541/preview-400.5a3a7c334d82.jpg
+        sha256: 5a3a7c334d821b0b3513439ef031c4aa25585ad90f449cef68353475178e92ed
+        mime: image/jpeg
+        bytes: 84004
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

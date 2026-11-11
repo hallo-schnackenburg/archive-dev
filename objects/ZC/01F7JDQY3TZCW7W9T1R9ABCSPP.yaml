@@ -1,0 +1,30 @@
+id: 01F7JDQY3TZCW7W9T1R9ABCSPP
+type: image
+subtype: print
+title: Postkarte Restorf, Schlachterei
+date: 1918-11-15
+location: Dömitz, Hinter den Höfen
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Laase
+files:
+  - role: main
+    original_name: scan_917.tif
+    path: files/c6/f7/c6f770ac99ec976ea8e32a65db517a5ca439eb98a9f7ea2d189195341498bc78/original.tif
+    sha256: c6f770ac99ec976ea8e32a65db517a5ca439eb98a9f7ea2d189195341498bc78
+    mime: image/tiff
+    bytes: 2938187
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/f7/c6f770ac99ec976ea8e32a65db517a5ca439eb98a9f7ea2d189195341498bc78/preview-400.7b04a86a811c.jpg
+        sha256: 7b04a86a811c67e6a9a20f8eceb042876fd0016e982d2e7d09efdfdc6852bf34
+        mime: image/jpeg
+        bytes: 87137
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

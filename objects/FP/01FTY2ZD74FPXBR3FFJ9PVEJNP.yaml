@@ -1,0 +1,34 @@
+id: 01FTY2ZD74FPXBR3FFJ9PVEJNP
+type: image
+subtype: plan
+title: Deichplan Gülden bis Wootz
+date: 190X
+location: Gorleben, Gartenstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Album 30/032
+parents:
+  - 01JQ24JYM14XMX215Z8SCN1PS1
+files:
+  - role: main
+    original_name: scan_915.tif
+    path: files/5c/74/5c7430b17d4041c8386ac21b50e0ac1454f8d5a29256fd1d104491a999664856/original.tif
+    sha256: 5c7430b17d4041c8386ac21b50e0ac1454f8d5a29256fd1d104491a999664856
+    mime: image/tiff
+    bytes: 11469464
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5c/74/5c7430b17d4041c8386ac21b50e0ac1454f8d5a29256fd1d104491a999664856/preview-400.35660a7d9f28.jpg
+        sha256: 35660a7d9f2889b88cb9c34607d6655219456841817e458b56fbee192ae443ea
+        mime: image/jpeg
+        bytes: 36117
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

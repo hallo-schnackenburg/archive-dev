@@ -1,0 +1,30 @@
+id: 01KFBMBRAY0EZ665K4D82ME0CR
+type: image
+subtype: plan
+title: Bauplan Poststelle 1929
+date: 1929-03
+location: Wittenberge, Schulstraße
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Laase
+files:
+  - role: main
+    original_name: scan_472.tif
+    path: files/3f/07/3f07c5fc328a3b748a37deeea197bca9de1382e8ee9efdafce5c916af3e7dfc1/original.tif
+    sha256: 3f07c5fc328a3b748a37deeea197bca9de1382e8ee9efdafce5c916af3e7dfc1
+    mime: image/tiff
+    bytes: 18771113
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3f/07/3f07c5fc328a3b748a37deeea197bca9de1382e8ee9efdafce5c916af3e7dfc1/preview-400.269463761a0f.jpg
+        sha256: 269463761a0fbb48aee90f82069bcfcad7ec28effc237574fb98e8398fc73a6e
+        mime: image/jpeg
+        bytes: 70718
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

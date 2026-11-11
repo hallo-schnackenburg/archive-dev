@@ -1,0 +1,66 @@
+id: 01KGG5JNDMZ5QPKEG0R1KCCQFR
+type: document
+subtype: note
+title: Quittung für Ilse Sievers
+description: Beleg mit Stempel.
+date: "1867"
+location: Wittenberge, Pumpenhaus
+origin:
+  name: Hermann Lemke
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 16/068
+subjects:
+  - name: Irmgard Wiegmann
+    type: person
+  - name: Einschulung 1867
+    type: event
+parents:
+  - 01J7HJZCB7JJH7C2451YX2QZGY
+  - 01F2FHHHC3A4CYH69SBK2R9NT8
+files:
+  - role: page
+    num: 1
+    original_name: note_kccqfr_001.tif
+    path: files/09/41/0941c382e5983170279f9591e6b8c1297db02b53b94ad86d861f4330050fd5f5/original.tif
+    sha256: 0941c382e5983170279f9591e6b8c1297db02b53b94ad86d861f4330050fd5f5
+    mime: image/tiff
+    bytes: 4336488
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/41/0941c382e5983170279f9591e6b8c1297db02b53b94ad86d861f4330050fd5f5/preview-400.85b4a1bd5a1f.jpg
+        sha256: 85b4a1bd5a1ff3d691e6ce85b7fa340cb39bdfb90af1725a046bc86a7bd62fa7
+        mime: image/jpeg
+        bytes: 53047
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_kccqfr_002.tif
+    path: files/82/1f/821f6618c75d197874e79dc15001dd3bd773863aa3fb6c4b872b7234e58162b0/original.tif
+    sha256: 821f6618c75d197874e79dc15001dd3bd773863aa3fb6c4b872b7234e58162b0
+    mime: image/tiff
+    bytes: 17343805
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/82/1f/821f6618c75d197874e79dc15001dd3bd773863aa3fb6c4b872b7234e58162b0/preview-400.6d2b9b97725a.jpg
+        sha256: 6d2b9b97725af3dda5def8cceb8f97626a39d39b3259fc5fe3b015f59d96041f
+        mime: image/jpeg
+        bytes: 32637
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

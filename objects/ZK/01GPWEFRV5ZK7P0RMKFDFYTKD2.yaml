@@ -1,0 +1,37 @@
+id: 01GPWEFRV5ZK7P0RMKFDFYTKD2
+type: image
+subtype: drawing
+title: Skizze Salzwedel, Hinter den Höfen
+date: "1982"
+location: Arendsee, Am Markt
+geocode:
+  lat: 52.9521
+  lon: 11.5241
+  precision: street
+  source: osm
+origin:
+  name: Walter Behrens
+  type: person
+  location: Kapern
+parents:
+  - 01JZKNVKBS64VYGFSCYTCB6QDJ
+files:
+  - role: main
+    original_name: scan_242.tif
+    path: files/b9/2c/b92c910aa477eec40ffce72dcd921cc864b9b3545bd38013d3c530ed0eae7387/original.tif
+    sha256: b92c910aa477eec40ffce72dcd921cc864b9b3545bd38013d3c530ed0eae7387
+    mime: image/tiff
+    bytes: 3435297
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b9/2c/b92c910aa477eec40ffce72dcd921cc864b9b3545bd38013d3c530ed0eae7387/preview-400.bc731c9dcb38.jpg
+        sha256: bc731c9dcb38873fa77b904d506e2ba534b995080dd5d496b086bad6a57f6da0
+        mime: image/jpeg
+        bytes: 82014
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

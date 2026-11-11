@@ -1,0 +1,63 @@
+id: 01GWTZZ431F4B660Y6QAJ4VZAD
+type: document
+subtype: note
+title: Kassenzettel Schmiede
+date: 1992-12-22
+location: Restorf, Lange Straße
+origin:
+  name: Gerda Krüger
+  type: person
+  location: Arendsee
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Kasten 19/047
+subjects:
+  - name: Gemeindehaus
+    type: building
+  - name: Kaufmannshaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_j4vzad_001.tif
+    path: files/9e/c6/9ec65a0e9a10e27a732594daa29b015153a5db2660755a197b343a0bf85541ca/original.tif
+    sha256: 9ec65a0e9a10e27a732594daa29b015153a5db2660755a197b343a0bf85541ca
+    mime: image/tiff
+    bytes: 4065473
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9e/c6/9ec65a0e9a10e27a732594daa29b015153a5db2660755a197b343a0bf85541ca/preview-400.6acf3e642dd5.jpg
+        sha256: 6acf3e642dd5ed6ffce8dc274fed30c8aa01c22d4814a75b15ed5e967ca5d569
+        mime: image/jpeg
+        bytes: 80600
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_j4vzad_002.tif
+    path: files/4c/ca/4ccab15de92dfc0b60a646dcc22787d3a4faa501d9699b268b1d44af13527b12/original.tif
+    sha256: 4ccab15de92dfc0b60a646dcc22787d3a4faa501d9699b268b1d44af13527b12
+    mime: image/tiff
+    bytes: 13501659
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4c/ca/4ccab15de92dfc0b60a646dcc22787d3a4faa501d9699b268b1d44af13527b12/preview-400.341b7e53ae87.jpg
+        sha256: 341b7e53ae87d16c986ed97e86c8575e1d5a822d2fd78e77d82c6e47198cfd77
+        mime: image/jpeg
+        bytes: 31106
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

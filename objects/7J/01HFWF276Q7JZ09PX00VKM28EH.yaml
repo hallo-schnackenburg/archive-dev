@@ -1,0 +1,44 @@
+id: 01HFWF276Q7JZ09PX00VKM28EH
+type: image
+subtype: print
+title: Postkarte Gorleben, Pumpenhaus
+date: "1773"
+location: Restorf, Hinter den Höfen
+geocode:
+  lat: 53.0829
+  lon: 11.5573
+  precision: exact
+  source: osm
+origin:
+  name: Marta Jeß
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro/Mappe 7/055
+  note: Schrank B
+parents:
+  - 01FEMA2K3GSA17BGZHHP3N0PEF
+files:
+  - role: main
+    original_name: scan_226.tif
+    path: files/26/54/265449d0c7cbcd101060db2a7470bccebe0551b4f613b635c17726dd22e413da/original.tif
+    sha256: 265449d0c7cbcd101060db2a7470bccebe0551b4f613b635c17726dd22e413da
+    mime: image/tiff
+    bytes: 1490452
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/26/54/265449d0c7cbcd101060db2a7470bccebe0551b4f613b635c17726dd22e413da/preview-400.2995887b6004.jpg
+        sha256: 2995887b60043c7865a7de0aac4e899bf118fcfcf696683f5b45144441ef3413
+        mime: image/jpeg
+        bytes: 82766
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

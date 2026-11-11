@@ -1,0 +1,36 @@
+id: 01HMXS1GMPTYWQ8JHH11VRK5JA
+type: image
+subtype: print
+title: "Kupferstich: Lüchow von der Elbseite, Schnackenburg"
+description: Postkarte, gelaufen 1903.
+date: 1943-05-19
+location: Wittenberge, Am Markt
+origin:
+  name: Gerda Krüger
+  type: person
+  location: Pretzier
+subjects:
+  - name: Sturmschaden 1943
+    type: event
+  - name: Seedorf
+    type: place
+files:
+  - role: main
+    original_name: scan_455.tif
+    path: files/1d/8d/1d8d80c04becb7384f30b128338f74c899492a3ac070d4b5fd083aa68672a09f/original.tif
+    sha256: 1d8d80c04becb7384f30b128338f74c899492a3ac070d4b5fd083aa68672a09f
+    mime: image/tiff
+    bytes: 21646288
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1d/8d/1d8d80c04becb7384f30b128338f74c899492a3ac070d4b5fd083aa68672a09f/preview-400.329ddb225e2b.jpg
+        sha256: 329ddb225e2b0e09c07566d5958bfd7b12f7607dcfac79d051d64b7c57a7ab64
+        mime: image/jpeg
+        bytes: 43810
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

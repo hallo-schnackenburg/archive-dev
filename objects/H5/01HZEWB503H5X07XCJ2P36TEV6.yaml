@@ -1,0 +1,59 @@
+id: 01HZEWB503H5X07XCJ2P36TEV6
+type: document
+subtype: note
+title: Rechnung Lenz, Schmiede
+description: Beleg mit Stempel.
+date: 1940/1946
+location: Lenzen, Lange Straße
+origin:
+  name: Karl Garms
+  type: person
+  location: Rüterberg
+language: de
+subjects:
+  - name: August Tiedemann
+    type: person
+parents:
+  - 01JP5EBH2JPHYSX1ABKRA99Q8F
+  - 01KSS5WSKYD8DQE3452TFH91F6
+files:
+  - role: page
+    num: 1
+    original_name: note_36tev6_001.tif
+    path: files/59/57/595705f626d9edb7796db8fd0df41c16865f4fe5c199ff28b86c98bd00bb45c7/original.tif
+    sha256: 595705f626d9edb7796db8fd0df41c16865f4fe5c199ff28b86c98bd00bb45c7
+    mime: image/tiff
+    bytes: 23985329
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/59/57/595705f626d9edb7796db8fd0df41c16865f4fe5c199ff28b86c98bd00bb45c7/preview-400.8946852dcfae.jpg
+        sha256: 8946852dcfae3133a5cb3c0ca8e9f04664213505a760c18de89fcaf5c77135d3
+        mime: image/jpeg
+        bytes: 89104
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_36tev6_002.tif
+    path: files/c3/04/c30411269bd3afc07e5acc22da51ff2239a7704512cb442087fbf0c77a60f7d5/original.tif
+    sha256: c30411269bd3afc07e5acc22da51ff2239a7704512cb442087fbf0c77a60f7d5
+    mime: image/tiff
+    bytes: 20877868
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c3/04/c30411269bd3afc07e5acc22da51ff2239a7704512cb442087fbf0c77a60f7d5/preview-400.6cff1aee79ec.jpg
+        sha256: 6cff1aee79ece2e0c9a80ae58fc4d9ca2f68bbb5b90a31bb1f610cc05bd676b9
+        mime: image/jpeg
+        bytes: 26732
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

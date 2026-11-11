@@ -1,0 +1,44 @@
+id: 01J19VT9PPNHN7Y6F032T9M69H
+type: document
+subtype: letter
+title: Feldpostbrief von Erika Brandt
+description: Betrifft Schulgeld.
+date: 1876-03-16
+location: Zadrau, Hinter den Höfen
+geocode:
+  lat: 52.9134
+  lon: 11.5616
+  precision: region
+  source: osm
+origin:
+  name: Walter Schulz
+  type: person
+  location: Hitzacker
+recipient: Elfriede Harms
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+files:
+  - role: page
+    num: 1
+    original_name: letter_t9m69h_001.tif
+    path: files/61/c6/61c6710c04b283c314df078f4dfa518e865c058a95ead7d0857a7f3667fd2ed1/original.tif
+    sha256: 61c6710c04b283c314df078f4dfa518e865c058a95ead7d0857a7f3667fd2ed1
+    mime: image/tiff
+    bytes: 24883011
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/61/c6/61c6710c04b283c314df078f4dfa518e865c058a95ead7d0857a7f3667fd2ed1/preview-400.de3ac1dd7901.jpg
+        sha256: de3ac1dd7901907469d9bcb724ae3f9675828957193d39ce7acf22cce75a439e
+        mime: image/jpeg
+        bytes: 72602
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

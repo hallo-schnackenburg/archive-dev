@@ -1,0 +1,40 @@
+id: 01HN3PS0M050ZT8359792ACP8A
+type: image
+subtype: print
+title: Lithographie Ziegelei, Salzwedel
+date: 1855-02-22
+location: Hitzacker, Heuberge
+geocode:
+  lat: 52.9576
+  lon: 11.598
+  precision: town
+  source: osm
+subjects:
+  - name: Wilhelm Wiese
+    type: person
+  - name: Wittenberge
+    type: place
+  - name: Deicharbeiten 1855
+    type: event
+parents:
+  - 01HETPQRM52KXM7ZS582C2ECF3
+files:
+  - role: main
+    original_name: scan_537.tif
+    path: files/c7/13/c713ef8485a8bf0fe1a1db36fb5fa37b284afe00fb5c7ab24d6aa164701b81e0/original.tif
+    sha256: c713ef8485a8bf0fe1a1db36fb5fa37b284afe00fb5c7ab24d6aa164701b81e0
+    mime: image/tiff
+    bytes: 6335518
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c7/13/c713ef8485a8bf0fe1a1db36fb5fa37b284afe00fb5c7ab24d6aa164701b81e0/preview-400.ea454389c766.jpg
+        sha256: ea454389c766f46225b3726343e7efba35e46c994f7bd006a8a32fc47d959f76
+        mime: image/jpeg
+        bytes: 53572
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

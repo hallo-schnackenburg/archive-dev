@@ -1,0 +1,36 @@
+id: 01HRFEFCJJ9CDDH9Z0P211Z7TV
+type: image
+subtype: photo
+title: Blick vom Wassermühle auf das Heuberge
+location: Gülden, Heuberge
+geocode:
+  lat: 52.9111
+  lon: 11.489
+  precision: region
+  source: osm
+origin:
+  name: Jürgen Rieke
+  type: person
+  location: Laase
+parents:
+  - 01KC4MRSQCBP77C8MHDY1DBTTR
+files:
+  - role: main
+    original_name: P7321.jpg
+    path: files/8a/c8/8ac8b3942a986298a23fb6db7ff1a4c3d06c05d5ef8d72068dec574ff5db04aa/original.jpg
+    sha256: 8ac8b3942a986298a23fb6db7ff1a4c3d06c05d5ef8d72068dec574ff5db04aa
+    mime: image/jpeg
+    bytes: 16679956
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/8a/c8/8ac8b3942a986298a23fb6db7ff1a4c3d06c05d5ef8d72068dec574ff5db04aa/preview-400.850688eb3759.jpg
+        sha256: 850688eb3759a38bc0eeee2654a84f2b349adeb888a7228e0b0d89fbc4c09f84
+        mime: image/jpeg
+        bytes: 70627
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

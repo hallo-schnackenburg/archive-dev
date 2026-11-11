@@ -1,0 +1,33 @@
+id: 01FVC3HS6C46P9DGRWCFY8X1N4
+type: image
+subtype: photo
+title: Walter Wegner, Porträt
+description: Abzug im Format 13 x 18 cm.
+date: "1960"
+location: Bömenzien, Mühlenweg
+origin:
+  name: Berta Pape
+  type: person
+  location: Rüterberg
+parents:
+  - 01KB00B1WA04Q0PWPM12MS4ZXR
+files:
+  - role: main
+    original_name: scan_722.tif
+    path: files/79/c5/79c51ae4115bce79f2f14b41556f3fe4286ef1a84eb0ac5bc1376e4ebafb5686/original.tif
+    sha256: 79c51ae4115bce79f2f14b41556f3fe4286ef1a84eb0ac5bc1376e4ebafb5686
+    mime: image/tiff
+    bytes: 12408116
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/79/c5/79c51ae4115bce79f2f14b41556f3fe4286ef1a84eb0ac5bc1376e4ebafb5686/preview-400.5809e4ed2793.jpg
+        sha256: 5809e4ed2793d92334b48ff610eba12f1098e04e91bc7cb10e4be10a74292586
+        mime: image/jpeg
+        bytes: 82376
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

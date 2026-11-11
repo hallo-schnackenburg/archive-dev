@@ -1,0 +1,45 @@
+id: 01HEZZKZTHAZWTD536DVPHS4NA
+type: image
+subtype: photo
+title: Schlachtfest 1983
+description: Farbfoto, leicht verblasst.
+date: 1983/1987
+location: Seedorf, Torhaus
+geocode:
+  lat: 53.0783
+  lon: 11.5228
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F/Album 22/101
+subjects:
+  - name: Dorfladen
+    type: building
+  - name: Irmgard Rohde
+    type: person
+parents:
+  - 01GBKP0DZ4S8BGQ19AMQB61K54
+files:
+  - role: main
+    original_name: P9273.jpg
+    path: files/05/5a/055a1d2eef794e49a3439f7d2608ddb5325cc3ce52630a7810e6c6f9f68a393d/original.jpg
+    sha256: 055a1d2eef794e49a3439f7d2608ddb5325cc3ce52630a7810e6c6f9f68a393d
+    mime: image/jpeg
+    bytes: 26706147
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/05/5a/055a1d2eef794e49a3439f7d2608ddb5325cc3ce52630a7810e6c6f9f68a393d/preview-400.647e3d0b885a.jpg
+        sha256: 647e3d0b885ad7f9e108789136d37922676df5ebb1eb46702ee307384b4a1ce4
+        mime: image/jpeg
+        bytes: 27632
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

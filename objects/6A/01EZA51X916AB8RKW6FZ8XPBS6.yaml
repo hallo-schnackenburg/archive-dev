@@ -1,0 +1,37 @@
+id: 01EZA51X916AB8RKW6FZ8XPBS6
+type: image
+subtype: plan
+title: Bauplan Tanzsaal 1957
+description: Mit handschriftlichen Ergänzungen.
+date: 1957-01-28
+owner:
+  name: Gustav Krüger
+  type: person
+  note: Nachlass
+subjects:
+  - name: Kaufmannshaus
+    type: building
+  - name: Tischlerei Bruns
+    type: building
+parents:
+  - 01HPH5JAF3E8TMGWEPVY0VVSZH
+files:
+  - role: main
+    original_name: scan_479.tif
+    path: files/af/ab/afab0e243bc9a6ad15b42772b3519738c70ddc1d3973f103e338c655d41f8161/original.tif
+    sha256: afab0e243bc9a6ad15b42772b3519738c70ddc1d3973f103e338c655d41f8161
+    mime: image/tiff
+    bytes: 14318538
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/af/ab/afab0e243bc9a6ad15b42772b3519738c70ddc1d3973f103e338c655d41f8161/preview-400.b9471d32ec21.jpg
+        sha256: b9471d32ec21cbf47c499afac1760d3862796caefc042ea22cf408c9210a713b
+        mime: image/jpeg
+        bytes: 47476
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

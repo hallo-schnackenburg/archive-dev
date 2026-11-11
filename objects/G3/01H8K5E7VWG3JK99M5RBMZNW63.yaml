@@ -1,0 +1,45 @@
+id: 01H8K5E7VWG3JK99M5RBMZNW63
+type: image
+subtype: photo
+title: Bahnhofstraße, Ecke Bahnhofstraße
+description: Zu sehen sind Gärtnerei und Apotheke.
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos/Kasten 12/022
+owner:
+  name: Käthe Burmester
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Helga Dreyer
+    type: person
+  - name: Eisgang 1994
+    type: event
+  - name: Lenzen
+    type: place
+parents:
+  - 01KTYRCAK48GPD0VE0FWRMS98S
+  - 01G8JVP67ZT9860RH8N2NEXXK7
+files:
+  - role: main
+    original_name: P8477.jpg
+    path: files/0a/a8/0aa8f6290971c8789a5162a40922aa6c70745d02fdd2152b55d82c201749b565/original.jpg
+    sha256: 0aa8f6290971c8789a5162a40922aa6c70745d02fdd2152b55d82c201749b565
+    mime: image/jpeg
+    bytes: 9810270
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/0a/a8/0aa8f6290971c8789a5162a40922aa6c70745d02fdd2152b55d82c201749b565/preview-400.5775f9b9229a.jpg
+        sha256: 5775f9b9229a3188aa8f6e677df28afa46dfe16f1d5160b556709cb7bc7ed7c3
+        mime: image/jpeg
+        bytes: 44117
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

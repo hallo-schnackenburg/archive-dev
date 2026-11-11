@@ -1,0 +1,29 @@
+id: 01F2KSFKSQGW2TTJ6P8RA7E5J9
+type: image
+subtype: plan
+title: Katasterblatt Ludolf
+date: 1927-05
+origin:
+  name: Ernst Matthies
+  type: person
+  location: Laase
+files:
+  - role: main
+    original_name: scan_793.tif
+    path: files/f7/93/f793a898f30d6c8ec3ec909d5986e5511a150705d527b942f8586234d7555089/original.tif
+    sha256: f793a898f30d6c8ec3ec909d5986e5511a150705d527b942f8586234d7555089
+    mime: image/tiff
+    bytes: 8051436
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f7/93/f793a898f30d6c8ec3ec909d5986e5511a150705d527b942f8586234d7555089/preview-400.325c2da4c305.jpg
+        sha256: 325c2da4c305b773649519c89ec08a3f5dca722dd84045e27044e2012e4a56fb
+        mime: image/jpeg
+        bytes: 21149
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

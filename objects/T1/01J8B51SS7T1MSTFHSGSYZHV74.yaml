@@ -1,0 +1,31 @@
+id: 01J8B51SS7T1MSTFHSGSYZHV74
+type: image
+subtype: plan
+title: Deichplan Dömitz bis Gorleben
+description: Maßstab 1:2500.
+date: 1842-06
+location: Laase, Mühlenweg
+geocode:
+  lat: 53.0308
+  lon: 11.6586
+  precision: region
+  source: osm
+origin:
+  name: Fritz Wegner
+  type: person
+  location: Wustrow
+subjects:
+  - name: August Rohde
+    type: person
+  - name: Fährjubiläum 1842
+    type: event
+parents:
+  - 01GVT1XHSVEKN4VCH3XGAC134Y
+storage: external
+external:
+  - type: archive
+    site: Wendlandarchiv
+    uri: https://wendlandarchiv.example.org/objekt/772721
+    reference: Best. 189 Nr. 1057
+    note: Digitalisat vorhanden
+    retrieved: 2025-03-06

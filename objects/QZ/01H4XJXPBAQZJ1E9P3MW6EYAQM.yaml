@@ -1,0 +1,48 @@
+id: 01H4XJXPBAQZJ1E9P3MW6EYAQM
+type: document
+subtype: note
+title: Rechnung Jürgens, Tanzsaal
+description: Zettel, Bleistift.
+date: 1883-01
+location: Wustrow, Schulstraße
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Wootz
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 15/016
+subjects:
+  - name: Glockenweihe 1883
+    type: event
+  - name: Tanzsaal
+    type: building
+  - name: Glockenweihe 1883
+    type: event
+parents:
+  - 01JQT54EAMY9FPSYNK9W7RJSV4
+files:
+  - role: page
+    num: 1
+    original_name: note_6eyaqm_001.tif
+    path: files/43/b6/43b618a321ed5b5140aacd643c7803427c164117e2aafa1261684d19e6310088/original.tif
+    sha256: 43b618a321ed5b5140aacd643c7803427c164117e2aafa1261684d19e6310088
+    mime: image/tiff
+    bytes: 26904723
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/43/b6/43b618a321ed5b5140aacd643c7803427c164117e2aafa1261684d19e6310088/preview-400.90e52ce8f7ad.jpg
+        sha256: 90e52ce8f7ad0622223f34889ec9eebd6198209bcea2a955ebf6802dbeadbea3
+        mime: image/jpeg
+        bytes: 72895
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01K3DQG7NVF3VPD8J9CCS5CZ0M
+type: image
+subtype: drawing
+title: Entwurf für Bäckerei Lüders, Zadrau
+description: Bleistift auf Papier.
+date: 1975-10-02
+location: Kapern, Am Elbdeich
+geocode:
+  lat: 52.9417
+  lon: 11.4629
+  precision: region
+  source: osm
+origin:
+  name: Wilhelm Bohlmann
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 12/084
+subjects:
+  - name: Zadrau
+    type: place
+files:
+  - role: main
+    original_name: scan_505.tif
+    path: files/26/c4/26c41fc95e326d5717f1c63ba13ed1e4039e062628e80c67110044b3b36c5e11/original.tif
+    sha256: 26c41fc95e326d5717f1c63ba13ed1e4039e062628e80c67110044b3b36c5e11
+    mime: image/tiff
+    bytes: 9908865
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/c4/26c41fc95e326d5717f1c63ba13ed1e4039e062628e80c67110044b3b36c5e11/preview-400.7805a4c1b19a.jpg
+        sha256: 7805a4c1b19ac110fa561b6c4fbb5ff0b1597e4a0509d72b7fe71db58389089c
+        mime: image/jpeg
+        bytes: 22627
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

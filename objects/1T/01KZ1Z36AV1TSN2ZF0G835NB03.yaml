@@ -1,0 +1,37 @@
+id: 01KZ1Z36AV1TSN2ZF0G835NB03
+type: image
+subtype: plan
+title: Bauplan Dorfladen 1931
+date: 1931-09
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Kegelbahn
+    type: building
+parents:
+  - 01F88NE4NP6MTSKBG15MEZQEXV
+  - 01HE6ENCA0W2Z468GKA6QXY516
+files:
+  - role: main
+    original_name: scan_030.tif
+    path: files/bc/44/bc44f5284bb8792fe6f0c712f2223c8867ae5399ae2eb8609d9e1599a5d13fb6/original.tif
+    sha256: bc44f5284bb8792fe6f0c712f2223c8867ae5399ae2eb8609d9e1599a5d13fb6
+    mime: image/tiff
+    bytes: 20218766
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bc/44/bc44f5284bb8792fe6f0c712f2223c8867ae5399ae2eb8609d9e1599a5d13fb6/preview-400.65ba5bbb0a00.jpg
+        sha256: 65ba5bbb0a0026baf9d1e9285de8121ed5662c7c1ea8fdd8dfae16a5612aa753
+        mime: image/jpeg
+        bytes: 79795
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

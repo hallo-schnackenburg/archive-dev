@@ -1,0 +1,41 @@
+id: 01JWPZ0RWRJCS9DE491C6FMXC7
+type: image
+subtype: drawing
+title: Wappenentwurf Lanz, Wootz
+description: Federzeichnung, laviert.
+date: "1961"
+location: Kapern, Bahnhofstraße
+geocode:
+  lat: 52.9571
+  lon: 11.5182
+  precision: exact
+  source: osm
+subjects:
+  - name: Otto Detlefs
+    type: person
+  - name: Anni Klatt
+    type: person
+  - name: Christa Lenz
+    type: person
+parents:
+  - 01GVT1XHSVEKN4VCH3XGAC134Y
+files:
+  - role: main
+    original_name: scan_860.tif
+    path: files/56/f4/56f4906ad258a5cb8727d1986042ddfb4f8ab7b0ddc833eb8c5145c9ee8e2412/original.tif
+    sha256: 56f4906ad258a5cb8727d1986042ddfb4f8ab7b0ddc833eb8c5145c9ee8e2412
+    mime: image/tiff
+    bytes: 21423204
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/56/f4/56f4906ad258a5cb8727d1986042ddfb4f8ab7b0ddc833eb8c5145c9ee8e2412/preview-400.ae03df418b6b.jpg
+        sha256: ae03df418b6bb9da8fe71e72b74013b9d6eca683bafd91119000c1f24e397b11
+        mime: image/jpeg
+        bytes: 85669
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

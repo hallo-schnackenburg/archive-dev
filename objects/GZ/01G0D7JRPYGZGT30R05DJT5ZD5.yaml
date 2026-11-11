@@ -1,0 +1,36 @@
+id: 01G0D7JRPYGZGT30R05DJT5ZD5
+type: image
+subtype: photo
+title: Försterei in Wootz
+description: Farbfoto, leicht verblasst.
+date: 1938?
+location: Nienwalde, Feuerwehrhaus
+origin:
+  name: Ernst Lemke
+  type: person
+  location: Havelberg
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: Viehmarkt 1938
+    type: event
+files:
+  - role: main
+    original_name: scan_312.tif
+    path: files/3f/c9/3fc994e5cecfabd76fccc7da6e0ecaec21249c53986a13624ff57c6356fa6d98/original.tif
+    sha256: 3fc994e5cecfabd76fccc7da6e0ecaec21249c53986a13624ff57c6356fa6d98
+    mime: image/tiff
+    bytes: 17366385
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3f/c9/3fc994e5cecfabd76fccc7da6e0ecaec21249c53986a13624ff57c6356fa6d98/preview-400.9901a182cd39.jpg
+        sha256: 9901a182cd398e62ce4ce93edf8f8203925c4867d3e788a6b4c7fa051885dfee
+        mime: image/jpeg
+        bytes: 22768
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

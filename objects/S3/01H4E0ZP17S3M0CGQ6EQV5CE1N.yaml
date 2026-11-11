@@ -1,0 +1,37 @@
+id: 01H4E0ZP17S3M0CGQ6EQV5CE1N
+type: image
+subtype: photo
+title: Sturmschaden 1928
+date: 1928?
+location: Gollensdorf, Bäckerei Lüders
+origin:
+  name: Lotte Sievers
+  type: person
+  location: Lüchow
+subjects:
+  - name: Laase
+    type: place
+  - name: Fastnacht 1928
+    type: event
+  - name: Wootz
+    type: place
+files:
+  - role: main
+    original_name: DSC6578.jpg
+    path: files/fe/16/fe164f40643936a634cab683f9b9365f1cc21c8da1ea0e50443c7c4e36388dd1/original.jpg
+    sha256: fe164f40643936a634cab683f9b9365f1cc21c8da1ea0e50443c7c4e36388dd1
+    mime: image/jpeg
+    bytes: 26003941
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fe/16/fe164f40643936a634cab683f9b9365f1cc21c8da1ea0e50443c7c4e36388dd1/preview-400.43f5a308168f.jpg
+        sha256: 43f5a308168fa854064078bba462c437fe6bf4f1ed402b41ad4df6f9b006cd2f
+        mime: image/jpeg
+        bytes: 71168
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01J6HRGHTQDBPH2QF1P4VTKQBW
+type: image
+subtype: plan
+title: Lageplan Kindergarten
+date: "1912"
+location: Bömenzien, Mühlenweg
+geocode:
+  lat: 52.9729
+  lon: 11.5624
+  precision: town
+  source: osm
+origin:
+  name: Otto Detlefs
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 30/079
+subjects:
+  - name: Torhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_953.tif
+    path: files/da/37/da377133a84d496540dcb2267f97ab03596352110a2adddeae0bfb19e066d542/original.tif
+    sha256: da377133a84d496540dcb2267f97ab03596352110a2adddeae0bfb19e066d542
+    mime: image/tiff
+    bytes: 23896539
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/da/37/da377133a84d496540dcb2267f97ab03596352110a2adddeae0bfb19e066d542/preview-400.d1a056a2af9d.jpg
+        sha256: d1a056a2af9d283897fbcc0858be46f09e4e97b63ae1b7bdac2ac9fc8030c44b
+        mime: image/jpeg
+        bytes: 56806
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

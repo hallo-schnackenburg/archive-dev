@@ -1,0 +1,43 @@
+id: 01F3P3A9WHKQTYZW162P54WR11
+type: image
+subtype: photo
+title: Bahnhof in Havelberg
+description: Zu sehen sind Zollamt und Tischlerei Bruns.
+date: 1903-05
+location: Havelberg, Fachwerkhaus Marktstraße 4
+origin:
+  name: Dieter Rieke
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Familie Rohde
+    type: person
+    location: Brünkendorf
+  reference: Fotos 10/397
+  note: Regal 1
+subjects:
+  - name: Schlachtfest 1903
+    type: event
+  - name: Mühle
+    type: building
+files:
+  - role: main
+    original_name: foto_3079.jpg
+    path: files/c5/de/c5ded32575aa30b754e81d8571e47a5b309a4ea0749b923bbcf5df7f5ee41af0/original.jpg
+    sha256: c5ded32575aa30b754e81d8571e47a5b309a4ea0749b923bbcf5df7f5ee41af0
+    mime: image/jpeg
+    bytes: 20578672
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/c5/de/c5ded32575aa30b754e81d8571e47a5b309a4ea0749b923bbcf5df7f5ee41af0/preview-400.bc95132a1b09.jpg
+        sha256: bc95132a1b09ab5d5743addbbb25eb472e96c7788504699ef0db6661fa4f3caa
+        mime: image/jpeg
+        bytes: 23933
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

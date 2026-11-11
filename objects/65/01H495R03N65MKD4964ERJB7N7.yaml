@@ -1,0 +1,38 @@
+id: 01H495R03N65MKD4964ERJB7N7
+type: image
+subtype: print
+title: Postkarte Gollensdorf, Gemeindehaus
+description: Postkarte, gelaufen 1927.
+date: 1712?
+origin:
+  name: Erika Gaede
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan/Kasten 7/053
+  note: Planschrank, Fach 3
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v15105
+files:
+  - role: main
+    original_name: scan_104.tif
+    path: files/73/8a/738a3623358e580518f45364aa1e09f2aa58d3b1b9ce040bfef72324c79b0870/original.tif
+    sha256: 738a3623358e580518f45364aa1e09f2aa58d3b1b9ce040bfef72324c79b0870
+    mime: image/tiff
+    bytes: 22288795
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/73/8a/738a3623358e580518f45364aa1e09f2aa58d3b1b9ce040bfef72324c79b0870/preview-400.87a7d124e1fb.jpg
+        sha256: 87a7d124e1fb21571ea8ac82eed2acfd7d791f59a7594e6af181727e8306eaab
+        mime: image/jpeg
+        bytes: 41409
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01GDQ2HWZTP38QZGRHXK1B1CFZ
+type: document
+subtype: note
+title: Kassenzettel Sparkasse
+description: Beleg mit Stempel.
+date: 1967-03-28
+location: Brünkendorf, Burgstraße
+geocode:
+  lat: 52.9967
+  lon: 11.52
+  precision: town
+  source: osm
+origin:
+  name: Ernst Voss
+  type: person
+  location: Gülden
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok 37/128
+  note: Schrank B
+parents:
+  - 01GBKP0DZ4S8BGQ19AMQB61K54
+storage: external
+external:
+  - type: archive
+    site: Kreisarchiv Lüchow-Dannenberg
+    uri: https://kreisarchiv-l-chow-dannenberg.example.org/objekt/104719
+    reference: Best. 50 Nr. 4774
+    note: nur Findbuch
+    retrieved: 2026-02-18
+  - type: website
+    site: Heimatverein Gartow
+    note: nur Findbuch
+    retrieved: 2025-04-07

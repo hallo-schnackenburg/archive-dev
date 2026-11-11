@@ -1,0 +1,43 @@
+id: 01JAS69D2GESWDSKN2MJVMV0Q5
+type: image
+subtype: print
+title: Postkarte Lüchow, Rathaus
+description: Postkarte, gelaufen 1915.
+date: 1803-10
+origin:
+  name: Dieter Kuhlmann
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Album 9/097
+subjects:
+  - name: Gasthof Meyer
+    type: building
+  - name: Gülden
+    type: place
+parents:
+  - 01JJRB980S7G97FX3YJ3JFCV87
+files:
+  - role: main
+    original_name: scan_075.tif
+    path: files/45/78/4578022670ba1b925e2074bda95b8d3ec96bdc9ca26a437cb9c222b1a2db4a24/original.tif
+    sha256: 4578022670ba1b925e2074bda95b8d3ec96bdc9ca26a437cb9c222b1a2db4a24
+    mime: image/tiff
+    bytes: 13884536
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/45/78/4578022670ba1b925e2074bda95b8d3ec96bdc9ca26a437cb9c222b1a2db4a24/preview-400.785e0b8bd3e1.jpg
+        sha256: 785e0b8bd3e134f6e97fa5c676c46630702e607836e9119d046a51d265ad090c
+        mime: image/jpeg
+        bytes: 68886
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

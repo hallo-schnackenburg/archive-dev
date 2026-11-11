@@ -1,0 +1,45 @@
+id: 01FQQ4T7J6E5SFK5PFFYXPP6B7
+type: image
+subtype: photo
+title: Karl Lemke vor dem Fachwerkhaus Marktstraße 4
+description: Aufnahme von Erika Voss.
+date: 1903-06
+location: Bömenzien, Pumpenhaus
+origin:
+  name: Wilhelm Wöhlk
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Familie Bohlmann
+    type: person
+    location: Nienwalde
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v26131
+subjects:
+  - name: Ilse Harms
+    type: person
+  - name: Walter Detlefs
+    type: person
+parents:
+  - 01HD1KFMRR65WK8D19R9SH3ANJ
+  - 01FVSGGTHXCNNWVMHHZN3NRKZQ
+files:
+  - role: main
+    original_name: scan_883.tif
+    path: files/90/c2/90c2763bdf32fe7caa5321d5b275193383e568fe7edf72fab38ab2e4251bdd3b/original.tif
+    sha256: 90c2763bdf32fe7caa5321d5b275193383e568fe7edf72fab38ab2e4251bdd3b
+    mime: image/tiff
+    bytes: 14135769
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/90/c2/90c2763bdf32fe7caa5321d5b275193383e568fe7edf72fab38ab2e4251bdd3b/preview-400.bb0b191acd89.jpg
+        sha256: bb0b191acd89f9fb7f3510898d5bbbcb6765e97b71bcb5cb568a54af780f72c1
+        mime: image/jpeg
+        bytes: 59782
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

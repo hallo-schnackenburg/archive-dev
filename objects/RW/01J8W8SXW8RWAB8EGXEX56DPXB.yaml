@@ -1,0 +1,38 @@
+id: 01J8W8SXW8RWAB8EGXEX56DPXB
+type: image
+subtype: photo
+title: Heinrich Wöhlk, Porträt
+description: Zu sehen sind Fachwerkhaus Marktstraße 4 und Schmiede.
+date: 193X
+location: Holtorf, Bahnhof
+origin:
+  name: Rudolf Pape
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Försterei
+    type: building
+  - name: Wustrow
+    type: place
+  - name: Brückeneinweihung 1933
+    type: event
+files:
+  - role: main
+    original_name: DSC7417.jpg
+    path: files/6e/ee/6eeea0dd59fe2c6e3d005fdae0dcefe20a35ea87a9e8c863d1d245526058113c/original.jpg
+    sha256: 6eeea0dd59fe2c6e3d005fdae0dcefe20a35ea87a9e8c863d1d245526058113c
+    mime: image/jpeg
+    bytes: 19829955
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/6e/ee/6eeea0dd59fe2c6e3d005fdae0dcefe20a35ea87a9e8c863d1d245526058113c/preview-400.86b5380f61a1.jpg
+        sha256: 86b5380f61a1936c0dd566bfbf4b826633cd57ea3d95565d13df596201abffac
+        mime: image/jpeg
+        bytes: 74752
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

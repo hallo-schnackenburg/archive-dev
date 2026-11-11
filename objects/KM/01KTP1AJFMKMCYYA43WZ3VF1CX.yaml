@@ -1,0 +1,39 @@
+id: 01KTP1AJFMKMCYYA43WZ3VF1CX
+type: image
+subtype: print
+title: Postkarte Cumlosen, Torhaus
+description: Lithographie, Rand beschnitten.
+date: "1770"
+location: Hitzacker, Deichstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Kaufmannshaus
+    type: building
+  - name: Wilhelm Dreyer
+    type: person
+  - name: Brunnen am Markt
+    type: building
+files:
+  - role: main
+    original_name: scan_998.tif
+    path: files/84/d4/84d43de5ccc9bc100a815a1bee7f2b2b30517e8b982ac96cffa3c7e1fcce4403/original.tif
+    sha256: 84d43de5ccc9bc100a815a1bee7f2b2b30517e8b982ac96cffa3c7e1fcce4403
+    mime: image/tiff
+    bytes: 637134
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/84/d4/84d43de5ccc9bc100a815a1bee7f2b2b30517e8b982ac96cffa3c7e1fcce4403/preview-400.2495f2393155.jpg
+        sha256: 2495f239315559903ca2412c0ec3a214590130c0ffffe8e722a4e598415b4989
+        mime: image/jpeg
+        bytes: 24484
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

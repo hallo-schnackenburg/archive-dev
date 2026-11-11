@@ -1,0 +1,40 @@
+id: 01GFDYF1FD9XW9J2WNQDPWTG6G
+type: image
+subtype: photo
+title: Blick vom Apotheke auf das Gasthof Meyer
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1927-08-08
+location: Salzwedel, Schulstraße
+origin:
+  name: Heinrich Rathjens
+  type: person
+  location: Wootz
+subjects:
+  - name: Hochwasser 1927
+    type: event
+  - name: Kindergarten
+    type: building
+  - name: Eisgang 1927
+    type: event
+parents:
+  - 01HWXZJSFPT1G68MTVYSQM6PXW
+files:
+  - role: main
+    original_name: IMG_0688.jpg
+    path: files/51/25/5125bd0a65251ab298762ef88ac60ed7859ca3fdc11a8f2065da83c100c9c901/original.jpg
+    sha256: 5125bd0a65251ab298762ef88ac60ed7859ca3fdc11a8f2065da83c100c9c901
+    mime: image/jpeg
+    bytes: 15301249
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/51/25/5125bd0a65251ab298762ef88ac60ed7859ca3fdc11a8f2065da83c100c9c901/preview-400.6d97132a5b57.jpg
+        sha256: 6d97132a5b57e051ec33a8c4da7a8b3b06f1448143f411ba027a59c4bd06cac9
+        mime: image/jpeg
+        bytes: 64002
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

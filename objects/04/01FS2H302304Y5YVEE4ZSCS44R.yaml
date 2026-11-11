@@ -1,0 +1,40 @@
+id: 01FS2H302304Y5YVEE4ZSCS44R
+type: image
+subtype: print
+title: Postkarte Salzwedel, Molkerei
+description: Kupferstich, koloriert.
+date: 1817-10-25
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg 1/097
+  note: Bücherregal links
+subjects:
+  - name: Pumpenhaus
+    type: building
+  - name: Torhaus
+    type: building
+parents:
+  - 01HKRG7RN0NA8YYR8Y8GWHXTB1
+files:
+  - role: main
+    original_name: scan_363.tif
+    path: files/04/8a/048aaad49242d64191ae57e6c54083a431f9be10ae60052dd9575e3769ff12db/original.tif
+    sha256: 048aaad49242d64191ae57e6c54083a431f9be10ae60052dd9575e3769ff12db
+    mime: image/tiff
+    bytes: 721842
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/04/8a/048aaad49242d64191ae57e6c54083a431f9be10ae60052dd9575e3769ff12db/preview-400.6987676a9b7b.jpg
+        sha256: 6987676a9b7b3b22197fd81365f672d4e5009703a4cc0c89f328232382b4d5b4
+        mime: image/jpeg
+        bytes: 34632
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

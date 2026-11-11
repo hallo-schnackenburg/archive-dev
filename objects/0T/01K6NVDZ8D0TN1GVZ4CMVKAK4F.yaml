@@ -1,0 +1,67 @@
+id: 01K6NVDZ8D0TN1GVZ4CMVKAK4F
+type: document
+subtype: note
+title: Quittung für Karl Ludolf
+description: Auf der Rückseite eines Formulars.
+date: "1909"
+location: Kapern, Elbstraße
+geocode:
+  lat: 53.0964
+  lon: 11.5082
+  precision: street
+  source: osm
+origin:
+  name: Dieter Schwarz
+  type: person
+  location: Cumlosen
+language: de
+subjects:
+  - name: Restorf
+    type: place
+  - name: Gorleben
+    type: place
+  - name: Dieter Voss
+    type: person
+parents:
+  - 01G533XGBTT96G9NVNFMP1W6YH
+files:
+  - role: page
+    num: 1
+    original_name: note_vkak4f_001.tif
+    path: files/ec/23/ec23e30d796c14e63772e4a100ea7fd3d39da25898ef03fd57233b3571ca7710/original.tif
+    sha256: ec23e30d796c14e63772e4a100ea7fd3d39da25898ef03fd57233b3571ca7710
+    mime: image/tiff
+    bytes: 6282010
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ec/23/ec23e30d796c14e63772e4a100ea7fd3d39da25898ef03fd57233b3571ca7710/preview-400.9f69ef583bb8.jpg
+        sha256: 9f69ef583bb8458f14c37b6be964d8b396fe28c84483dd50345053258c81eaa3
+        mime: image/jpeg
+        bytes: 30019
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_vkak4f_002.tif
+    path: files/93/7a/937aeb29dee7861b5a2f844af387e24320fb1fab3b393610dc1547af8feca065/original.tif
+    sha256: 937aeb29dee7861b5a2f844af387e24320fb1fab3b393610dc1547af8feca065
+    mime: image/tiff
+    bytes: 4973017
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/93/7a/937aeb29dee7861b5a2f844af387e24320fb1fab3b393610dc1547af8feca065/preview-400.df76622b1e4b.jpg
+        sha256: df76622b1e4bf7b491e682433dd184e5b116291a3937ece48f35958b177a90ae
+        mime: image/jpeg
+        bytes: 38636
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

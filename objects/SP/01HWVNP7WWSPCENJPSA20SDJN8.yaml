@@ -1,0 +1,39 @@
+id: 01HWVNP7WWSPCENJPSA20SDJN8
+type: image
+subtype: print
+title: "Kupferstich: Laase von der Elbseite, Arendsee"
+date: 1845-04
+origin:
+  name: Irmgard Hennings
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Kirmes 1845
+    type: event
+  - name: Försterei
+    type: building
+parents:
+  - 01JBC9B9VKQH5QPSKH6RMD1TRT
+  - 01H5HMCYV3GS9H3ZBJZMHBTPJV
+files:
+  - role: main
+    original_name: scan_885.tif
+    path: files/47/d2/47d2f7669c1516e32973824839b1ab8c330368ddd59410481e55df22a7ae68df/original.tif
+    sha256: 47d2f7669c1516e32973824839b1ab8c330368ddd59410481e55df22a7ae68df
+    mime: image/tiff
+    bytes: 23679793
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/47/d2/47d2f7669c1516e32973824839b1ab8c330368ddd59410481e55df22a7ae68df/preview-400.4b471401229f.jpg
+        sha256: 4b471401229ffa1d6094f47cced00ccfc1b4ca203bc9f86f3b6c1ae6b6e082c1
+        mime: image/jpeg
+        bytes: 89039
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

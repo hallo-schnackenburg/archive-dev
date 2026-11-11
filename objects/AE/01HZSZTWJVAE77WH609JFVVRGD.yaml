@@ -1,0 +1,37 @@
+id: 01HZSZTWJVAE77WH609JFVVRGD
+type: image
+subtype: plan
+title: Grundriss Molkerei
+date: 1847-03
+location: Hitzacker, Gutshaus
+origin:
+  name: Lotte Hennings
+  type: person
+  location: Lanz
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Käthe Lemke
+    type: person
+parents:
+  - 01KQVCCGD4CP4QYK6YQJ3YAGSW
+files:
+  - role: main
+    original_name: scan_866.tif
+    path: files/8f/a5/8fa520b1ddf5d1d370408bcf775386747a371bdf07c623cc1eb4feb4948c1ce8/original.tif
+    sha256: 8fa520b1ddf5d1d370408bcf775386747a371bdf07c623cc1eb4feb4948c1ce8
+    mime: image/tiff
+    bytes: 20734204
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8f/a5/8fa520b1ddf5d1d370408bcf775386747a371bdf07c623cc1eb4feb4948c1ce8/preview-400.333e28c0479a.jpg
+        sha256: 333e28c0479a8b3d0cb16a9980176327b0c0fb234f3c4006ccf32e78015e79e8
+        mime: image/jpeg
+        bytes: 29821
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

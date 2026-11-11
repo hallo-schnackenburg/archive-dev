@@ -1,0 +1,42 @@
+id: 01F31WFSPY6GNQMZ8BVJ78H6MW
+type: image
+subtype: print
+title: Postkarte Gollensdorf, Pumpenhaus
+date: 1800-02
+location: Seedorf, Fährstraße
+geocode:
+  lat: 53.0449
+  lon: 11.6939
+  precision: street
+  source: osm
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Havelberg
+subjects:
+  - name: Dorfteich
+    type: building
+  - name: Grenzöffnung 1800
+    type: event
+  - name: Ziegelei
+    type: building
+files:
+  - role: main
+    original_name: scan_475.tif
+    path: files/cd/83/cd837fc6494a985f43850f04c287894c3dc01984e42cf9db1dc0eb01e44629b4/original.tif
+    sha256: cd837fc6494a985f43850f04c287894c3dc01984e42cf9db1dc0eb01e44629b4
+    mime: image/tiff
+    bytes: 27639179
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cd/83/cd837fc6494a985f43850f04c287894c3dc01984e42cf9db1dc0eb01e44629b4/preview-400.85291e7dd172.jpg
+        sha256: 85291e7dd17220eaeeb75ced0bd7e31471668707f60c13319d6344dc244f3d6d
+        mime: image/jpeg
+        bytes: 24239
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

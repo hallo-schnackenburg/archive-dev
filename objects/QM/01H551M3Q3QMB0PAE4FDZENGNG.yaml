@@ -1,0 +1,41 @@
+id: 01H551M3Q3QMB0PAE4FDZENGNG
+type: image
+subtype: print
+title: Postkarte Rüterberg, Elbdeich, Gollensdorf
+description: Postkarte, gelaufen 1927.
+location: Laase, Burgstraße
+origin:
+  name: Otto Wiegmann
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Gartow
+    type: place
+  - name: Ladestraße
+    type: building
+  - name: Osterfeuer 1763
+    type: event
+parents:
+  - 01HR8855DCCGBPN12NSBDQW8VK
+  - 01H5DZWSA252A4P3AWD6J9T3TK
+files:
+  - role: main
+    original_name: scan_550.tif
+    path: files/bf/a8/bfa87e3d9bf41d33f38ad6e59ceb6127eac842ede181e653324367c142cbabc7/original.tif
+    sha256: bfa87e3d9bf41d33f38ad6e59ceb6127eac842ede181e653324367c142cbabc7
+    mime: image/tiff
+    bytes: 25503823
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/bf/a8/bfa87e3d9bf41d33f38ad6e59ceb6127eac842ede181e653324367c142cbabc7/preview-400.d00e4e672a78.jpg
+        sha256: d00e4e672a784b604121fbd92ac967233681c0a8ac766958c4732574ec936906
+        mime: image/jpeg
+        bytes: 23017
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Datum nach Rückseite geschätzt.

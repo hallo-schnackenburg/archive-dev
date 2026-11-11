@@ -1,0 +1,32 @@
+id: 01GPC97E8R3TTZGZSPRFXYG7EX
+type: image
+subtype: plan
+title: Bauplan Elbdeich 1843
+date: 1843-05-15
+origin:
+  name: Wilhelm Kuhlmann
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Kartoffelernte 1843
+    type: event
+files:
+  - role: main
+    original_name: scan_440.tif
+    path: files/ac/75/ac7551c2e99c1e594eb3d7251d7a7b25bc0f3a46987c2982f2a31da503974e7a/original.tif
+    sha256: ac7551c2e99c1e594eb3d7251d7a7b25bc0f3a46987c2982f2a31da503974e7a
+    mime: image/tiff
+    bytes: 6260667
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/75/ac7551c2e99c1e594eb3d7251d7a7b25bc0f3a46987c2982f2a31da503974e7a/preview-400.99de07a24fb0.jpg
+        sha256: 99de07a24fb02470b9f99e5a168fc5d98890634040afab26fb37e90672653008
+        mime: image/jpeg
+        bytes: 62054
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

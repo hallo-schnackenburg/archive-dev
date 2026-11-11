@@ -1,0 +1,40 @@
+id: 01JQ8TPEZV9M6Q116QVRX0EAP4
+type: image
+subtype: plan
+title: Bauplan Försterei 1865
+date: "1865"
+location: Dömitz, Gartenstraße
+geocode:
+  lat: 53.0542
+  lon: 11.542
+  precision: region
+  source: osm
+origin:
+  name: Friedrich Lemke
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+files:
+  - role: main
+    original_name: scan_487.tif
+    path: files/02/04/0204bde2189b66b543d5d724747ab1ab85c71736cf73e2e249a2a5d97a587a63/original.tif
+    sha256: 0204bde2189b66b543d5d724747ab1ab85c71736cf73e2e249a2a5d97a587a63
+    mime: image/tiff
+    bytes: 3868669
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/04/0204bde2189b66b543d5d724747ab1ab85c71736cf73e2e249a2a5d97a587a63/preview-400.1bd7ddb9f175.jpg
+        sha256: 1bd7ddb9f175a833e27469d221b9238cf83c79b7845506497332ba30d292dc60
+        mime: image/jpeg
+        bytes: 70052
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

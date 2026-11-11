@@ -1,0 +1,43 @@
+id: 01F2P8BZGSDXXAMMK4CE2NS6X0
+type: image
+subtype: print
+title: Postkarte Salzwedel, Apotheke
+description: Lithographie, Rand beschnitten.
+date: 181X
+origin:
+  name: Emma Krüger
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan 3/348
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Rudolf Ahrens
+    type: person
+parents:
+  - 01GSWGF0TVVWPKF3HT3DSA6W3N
+files:
+  - role: main
+    original_name: scan_464.tif
+    path: files/ed/5b/ed5be4c0dbfc77612ab37d570aedbcb09a6b5a69d6b48080bda0aba5f47aebc3/original.tif
+    sha256: ed5be4c0dbfc77612ab37d570aedbcb09a6b5a69d6b48080bda0aba5f47aebc3
+    mime: image/tiff
+    bytes: 26839622
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ed/5b/ed5be4c0dbfc77612ab37d570aedbcb09a6b5a69d6b48080bda0aba5f47aebc3/preview-400.ed122c78d8f0.jpg
+        sha256: ed122c78d8f0d2e40561ac8d62592ba7e43b528121ea514e8972fae0dec2b1ce
+        mime: image/jpeg
+        bytes: 74853
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

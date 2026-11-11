@@ -1,0 +1,33 @@
+id: 01GJANN5C1SFJNZ1RT5AFX1K5M
+type: image
+subtype: print
+title: Gruß aus Restorf, Zadrau
+origin:
+  name: Walter Meyer
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Dorffest 1828
+    type: event
+parents:
+  - 01J0TGH296RHC0G6JXY0S53XED
+files:
+  - role: main
+    original_name: scan_776.tif
+    path: files/be/b5/beb5170021c76273281396d7d62b03e0702a6a3572ec022caf3d7dbb6280c8d5/original.tif
+    sha256: beb5170021c76273281396d7d62b03e0702a6a3572ec022caf3d7dbb6280c8d5
+    mime: image/tiff
+    bytes: 12001014
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/be/b5/beb5170021c76273281396d7d62b03e0702a6a3572ec022caf3d7dbb6280c8d5/preview-400.d01fb003b358.jpg
+        sha256: d01fb003b3581bda62534e3fa1ad158e101f13dd277eb90bee6f6004a4d75ea8
+        mime: image/jpeg
+        bytes: 67604
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

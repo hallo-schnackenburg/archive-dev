@@ -1,0 +1,38 @@
+id: 01KJFTRBWDNNT6YAG2X7MVC92J
+type: image
+subtype: photo
+title: Weihnachtsmarkt 1981
+description: Abzug im Format 6 x 9 cm.
+date: 1981/1983
+location: Wittenberge, Hinter den Höfen
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Pretzier
+subjects:
+  - name: Hermann Voss
+    type: person
+  - name: Bömenzien
+    type: place
+  - name: Salzwedel
+    type: place
+files:
+  - role: main
+    original_name: IMG_2288.jpg
+    path: files/7c/dd/7cddbdc487fda72db623d81d9230a0ff7657230472f0e7ffe9101e4df7fcf2d8/original.jpg
+    sha256: 7cddbdc487fda72db623d81d9230a0ff7657230472f0e7ffe9101e4df7fcf2d8
+    mime: image/jpeg
+    bytes: 12750663
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/7c/dd/7cddbdc487fda72db623d81d9230a0ff7657230472f0e7ffe9101e4df7fcf2d8/preview-400.efd324e4862c.jpg
+        sha256: efd324e4862ce07e5986ba0d6ba0764868c36cf09902280af69f414aea5d59af
+        mime: image/jpeg
+        bytes: 86064
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

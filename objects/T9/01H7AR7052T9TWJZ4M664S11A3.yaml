@@ -1,0 +1,68 @@
+id: 01H7AR7052T9TWJZ4M664S11A3
+type: document
+subtype: letter
+title: Brief von Emma Wegner an Marta Wiegmann
+description: Handschriftlich, 1 Seiten.
+date: 1869-07
+location: Schnackenburg, Gartenstraße
+origin:
+  name: Rudolf Jeß
+  type: person
+  location: Havelberg
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 16/185
+subjects:
+  - name: Wilhelm Bohlmann
+    type: person
+  - name: Hochzeit 1869
+    type: event
+  - name: Brückeneinweihung 1869
+    type: event
+parents:
+  - 01H19H3S414JQDJQNW8FAB1631
+files:
+  - role: page
+    num: 1
+    original_name: letter_4s11a3_001.tif
+    path: files/f7/57/f757477e51e69d9f446a10f910b05c0a412824b2adff4ca27d1264ebec84e16a/original.tif
+    sha256: f757477e51e69d9f446a10f910b05c0a412824b2adff4ca27d1264ebec84e16a
+    mime: image/tiff
+    bytes: 559655
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f7/57/f757477e51e69d9f446a10f910b05c0a412824b2adff4ca27d1264ebec84e16a/preview-400.62ea86565d6e.jpg
+        sha256: 62ea86565d6eaf3f7a80b5527222f8bfc96450d0c5f9736b81fd48b294b536fb
+        mime: image/jpeg
+        bytes: 38277
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_4s11a3_002.tif
+    path: files/c0/9c/c09c9055c53debb14748b25d0e7d1476d193552c59e76c3757c81bb683923146/original.tif
+    sha256: c09c9055c53debb14748b25d0e7d1476d193552c59e76c3757c81bb683923146
+    mime: image/tiff
+    bytes: 9231413
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c0/9c/c09c9055c53debb14748b25d0e7d1476d193552c59e76c3757c81bb683923146/preview-400.77b855bb4c78.jpg
+        sha256: 77b855bb4c78e6975d65698d2c7a243bf03a3c7cdd2f70eda0c5869b20a280b8
+        mime: image/jpeg
+        bytes: 32617
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

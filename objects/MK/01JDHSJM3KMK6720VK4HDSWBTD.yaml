@@ -1,0 +1,36 @@
+id: 01JDHSJM3KMK6720VK4HDSWBTD
+type: image
+subtype: photo
+title: Marta Pape vor dem Windmühle
+description: Zu sehen sind Mühle und Schmiede.
+date: 1940-01-26
+location: Pretzier, Am Markt
+origin:
+  name: Otto Lemke
+  type: person
+  location: Arendsee
+subjects:
+  - name: Friedrich Jeß
+    type: person
+  - name: Holtorf
+    type: place
+files:
+  - role: main
+    original_name: scan_193.tif
+    path: files/70/0e/700e9232b4893bd2d914569e61c79c0b6b383fca3710b2afcd088724d1864f1b/original.tif
+    sha256: 700e9232b4893bd2d914569e61c79c0b6b383fca3710b2afcd088724d1864f1b
+    mime: image/tiff
+    bytes: 6280887
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/70/0e/700e9232b4893bd2d914569e61c79c0b6b383fca3710b2afcd088724d1864f1b/preview-400.c193a4360d96.jpg
+        sha256: c193a4360d96dd7430e7fda0706cabd863322262417e403f6f891c1707d3d61e
+        mime: image/jpeg
+        bytes: 66484
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

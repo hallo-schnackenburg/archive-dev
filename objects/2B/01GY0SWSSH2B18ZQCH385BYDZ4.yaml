@@ -1,0 +1,31 @@
+id: 01GY0SWSSH2B18ZQCH385BYDZ4
+type: image
+subtype: plan
+title: Bauplan Mühle 1938
+date: 193X
+location: Wustrow, Bäckerei Lüders
+subjects:
+  - name: Straßenfest 1938
+    type: event
+parents:
+  - 01M265RTMYNX5W0CM6R19YZYNH
+files:
+  - role: main
+    original_name: scan_626.tif
+    path: files/13/16/13167e5fb49b04cce13f27715f6cad6f7237dcc6619fe08aee10cc67d14fd5df/original.tif
+    sha256: 13167e5fb49b04cce13f27715f6cad6f7237dcc6619fe08aee10cc67d14fd5df
+    mime: image/tiff
+    bytes: 675775
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/13/16/13167e5fb49b04cce13f27715f6cad6f7237dcc6619fe08aee10cc67d14fd5df/preview-400.7783a0dbf113.jpg
+        sha256: 7783a0dbf1134cf72404790a48503f7e4624b6d0a1ba20d650bb294a5fb090fb
+        mime: image/jpeg
+        bytes: 21216
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,71 @@
+id: 01FHE0NQKV2NK3ECG43MFR9BD3
+type: document
+subtype: note
+title: Quittung für Erika Meyer
+description: Zettel, Bleistift.
+date: 1910-03-02
+location: Wittenberge, Bahnhof
+geocode:
+  lat: 52.9629
+  lon: 11.4579
+  precision: street
+  source: osm
+origin:
+  name: Karl Schulz
+  type: person
+  location: Gülden
+language: de
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 5/086
+subjects:
+  - name: Elfriede Ahrens
+    type: person
+  - name: Bömenzien
+    type: place
+  - name: Wootz
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_fr9bd3_001.tif
+    path: files/86/ac/86ac7b5131f94094170065a98df258d0d24fdda842eb151c5e9a58c36e927a2f/original.tif
+    sha256: 86ac7b5131f94094170065a98df258d0d24fdda842eb151c5e9a58c36e927a2f
+    mime: image/tiff
+    bytes: 20676461
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/ac/86ac7b5131f94094170065a98df258d0d24fdda842eb151c5e9a58c36e927a2f/preview-400.bc7555d78492.jpg
+        sha256: bc7555d784924c1f1114d396c969ed94a1ae7db89554b7bb32c55d376bc1b13e
+        mime: image/jpeg
+        bytes: 41875
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_fr9bd3_002.tif
+    path: files/d6/1c/d61ce0aec08b8ff40728e8e5df89576fe759a891bb3e436ae3b90ccffa63c08f/original.tif
+    sha256: d61ce0aec08b8ff40728e8e5df89576fe759a891bb3e436ae3b90ccffa63c08f
+    mime: image/tiff
+    bytes: 27278613
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d6/1c/d61ce0aec08b8ff40728e8e5df89576fe759a891bb3e436ae3b90ccffa63c08f/preview-400.4a3a8d05cd33.jpg
+        sha256: 4a3a8d05cd337fef3a5dddbf565afd140c1618c8eca4b7a0dd6b127dda442c87
+        mime: image/jpeg
+        bytes: 34241
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

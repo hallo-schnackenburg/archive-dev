@@ -1,0 +1,35 @@
+id: 01JPPDQBAVQT57X8ASQBD3NSHH
+type: image
+subtype: print
+title: Postkarte Brünkendorf, Torhaus
+description: Kupferstich, koloriert.
+date: 1709-02
+origin:
+  name: Karl Jeß
+  type: person
+  location: Wustrow
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Viehmarkt 1709
+    type: event
+files:
+  - role: main
+    original_name: scan_582.tif
+    path: files/8e/24/8e247ff856a4a64c65c97a49ac49f912a75017881cb9262c37c1b1003fb4faca/original.tif
+    sha256: 8e247ff856a4a64c65c97a49ac49f912a75017881cb9262c37c1b1003fb4faca
+    mime: image/tiff
+    bytes: 17254271
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8e/24/8e247ff856a4a64c65c97a49ac49f912a75017881cb9262c37c1b1003fb4faca/preview-400.313fc3938be5.jpg
+        sha256: 313fc3938be5bde77b2063881e020677b9a34000af95c320e84d9ed917b8b6e3
+        mime: image/jpeg
+        bytes: 85893
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

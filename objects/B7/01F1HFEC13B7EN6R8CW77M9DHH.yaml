@@ -1,0 +1,46 @@
+id: 01F1HFEC13B7EN6R8CW77M9DHH
+type: image
+subtype: photo
+title: Marta Krüger, Porträt
+description: Zu sehen sind Schlachterei und Wassermühle.
+date: 1924-06-17
+location: Seedorf, Burgstraße
+origin:
+  name: Fritz Jeß
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 27/034
+subjects:
+  - name: Hafen
+    type: building
+  - name: Schützenhaus
+    type: building
+  - name: Heinrich Krüger
+    type: person
+parents:
+  - 01F5BDT8RF2AK0D4775DY21054
+files:
+  - role: main
+    original_name: foto_0472.jpg
+    path: files/45/18/451864d345ba5e233d21f820e96449dd2fa47b5dc5faec12de965cf5bc9758b2/original.jpg
+    sha256: 451864d345ba5e233d21f820e96449dd2fa47b5dc5faec12de965cf5bc9758b2
+    mime: image/jpeg
+    bytes: 10708456
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/45/18/451864d345ba5e233d21f820e96449dd2fa47b5dc5faec12de965cf5bc9758b2/preview-400.162db23a6343.jpg
+        sha256: 162db23a63430d59c32e5abefb59b4ed3aea7d264ce6a5c7c4ddf457f4cdda38
+        mime: image/jpeg
+        bytes: 47070
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

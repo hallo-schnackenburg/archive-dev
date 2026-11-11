@@ -1,0 +1,67 @@
+id: 01JNQKWTFA35WH9RDX5XD9Z06P
+type: document
+subtype: note
+title: Rechnung Krüger, Dorfkrug
+description: Beleg mit Stempel.
+date: "1863"
+location: Gülden, Schlachterei
+origin:
+  name: Marta Lemke
+  type: person
+  location: Lenzen
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg 39/277
+  note: Dachboden, Truhe
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Kaufmannshaus
+    type: building
+parents:
+  - 01J8EFPX4R9MB05RW08DV43E95
+files:
+  - role: page
+    num: 1
+    original_name: note_d9z06p_001.tif
+    path: files/5a/cb/5acb56972df174bc04bea3981b4064c5bde2427aefa0571944a5b2e42f673a49/original.tif
+    sha256: 5acb56972df174bc04bea3981b4064c5bde2427aefa0571944a5b2e42f673a49
+    mime: image/tiff
+    bytes: 6125553
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5a/cb/5acb56972df174bc04bea3981b4064c5bde2427aefa0571944a5b2e42f673a49/preview-400.825a840701a4.jpg
+        sha256: 825a840701a4f8da33d6a1c945121991e9d54dc83df6fe13c4c51c16fd521566
+        mime: image/jpeg
+        bytes: 54287
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_d9z06p_002.tif
+    path: files/14/ab/14aba584853ac118915eff76b2cca3cdfdad6e98cbab6c6964bf3cb5882b2ea1/original.tif
+    sha256: 14aba584853ac118915eff76b2cca3cdfdad6e98cbab6c6964bf3cb5882b2ea1
+    mime: image/tiff
+    bytes: 2657892
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/ab/14aba584853ac118915eff76b2cca3cdfdad6e98cbab6c6964bf3cb5882b2ea1/preview-400.1c3184059909.jpg
+        sha256: 1c3184059909d0459962f53248f728c9ebcfed23127b2e32a8803f7c48c79420
+        mime: image/jpeg
+        bytes: 71579
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

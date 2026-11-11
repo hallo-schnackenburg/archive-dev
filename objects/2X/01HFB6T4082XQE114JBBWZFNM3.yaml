@@ -1,0 +1,32 @@
+id: 01HFB6T4082XQE114JBBWZFNM3
+type: image
+subtype: photo
+title: Sturmschaden 1937
+description: Farbfoto, leicht verblasst.
+date: 1937-03-21
+origin:
+  name: Walter Voss
+  type: person
+  location: Lanz
+parents:
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+files:
+  - role: main
+    original_name: P0797.jpg
+    path: files/b3/36/b336c00cde308064e2f1a55d9d1635ec6b772246ac3da614d11b24ed7514db7f/original.jpg
+    sha256: b336c00cde308064e2f1a55d9d1635ec6b772246ac3da614d11b24ed7514db7f
+    mime: image/jpeg
+    bytes: 11885620
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b3/36/b336c00cde308064e2f1a55d9d1635ec6b772246ac3da614d11b24ed7514db7f/preview-400.1800ae955934.jpg
+        sha256: 1800ae9559343b2200fe8baa18d50e8ac1717f2535fbd222807b273658ce1d5b
+        mime: image/jpeg
+        bytes: 55148
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

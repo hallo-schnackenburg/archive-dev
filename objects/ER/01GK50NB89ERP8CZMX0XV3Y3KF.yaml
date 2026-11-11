@@ -1,0 +1,89 @@
+id: 01GK50NB89ERP8CZMX0XV3Y3KF
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Handwerkerinnung 1928
+description: Anwesend waren 14 Personen.
+date: 1928-03
+location: Wootz, Tanzsaal
+geocode:
+  lat: 53.0974
+  lon: 11.5489
+  precision: town
+  source: osm
+origin:
+  name: Verbandsversammlung Restorf
+  type: business
+  location: Bömenzien
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 28/246
+subjects:
+  - name: Wilhelm Bohlmann
+    type: person
+parents:
+  - 01GXXVEKH9A0GJR23K785W58NQ
+files:
+  - role: page
+    num: 1
+    original_name: protocol_v3y3kf_001.tif
+    path: files/c8/0c/c80c0aadf41588685d16bd903a101e3c3664dbc1cc172df30bf06c5a26576f78/original.tif
+    sha256: c80c0aadf41588685d16bd903a101e3c3664dbc1cc172df30bf06c5a26576f78
+    mime: image/tiff
+    bytes: 8791042
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/0c/c80c0aadf41588685d16bd903a101e3c3664dbc1cc172df30bf06c5a26576f78/preview-400.90253db2219f.jpg
+        sha256: 90253db2219fe73bb0f0629db37bfe8fbe46b1bbb5a74a0bff6e48499cb6bcf6
+        mime: image/jpeg
+        bytes: 75035
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_v3y3kf_002.tif
+    path: files/97/20/9720ff95ed2052af7356be7ebfdc2304cff54bbddc1b2c59ffd4a54fc44bbabb/original.tif
+    sha256: 9720ff95ed2052af7356be7ebfdc2304cff54bbddc1b2c59ffd4a54fc44bbabb
+    mime: image/tiff
+    bytes: 17148355
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/20/9720ff95ed2052af7356be7ebfdc2304cff54bbddc1b2c59ffd4a54fc44bbabb/preview-400.06f4c9beef03.jpg
+        sha256: 06f4c9beef03d514595d6ed28a319178110774889b0af1276ec6fd470638f8b9
+        mime: image/jpeg
+        bytes: 45881
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_v3y3kf_003.tif
+    path: files/3c/10/3c1001e96c1cabf1046a99da393c77cbfdd960a4b122136c6ef80f4b62d103c4/original.tif
+    sha256: 3c1001e96c1cabf1046a99da393c77cbfdd960a4b122136c6ef80f4b62d103c4
+    mime: image/tiff
+    bytes: 19011642
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3c/10/3c1001e96c1cabf1046a99da393c77cbfdd960a4b122136c6ef80f4b62d103c4/preview-400.3a965abfd114.jpg
+        sha256: 3a965abfd11456c0c5818ca5983056c56ef8a1417c504f347f5c231b43372b6e
+        mime: image/jpeg
+        bytes: 50690
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

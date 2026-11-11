@@ -1,0 +1,37 @@
+id: 01M2NCSNTYA36X53RA5P5J8MWH
+type: image
+subtype: print
+title: Postkarte Kapern, Tanzsaal
+description: Postkarte, gelaufen 1951.
+date: 1945-06
+location: Lenzen, Gartenstraße
+geocode:
+  lat: 52.9809
+  lon: 11.6635
+  precision: street
+  source: osm
+subjects:
+  - name: Rüterberg
+    type: place
+parents:
+  - 01KX2QEWS5CRBXEA92Z62Z3K4Q
+files:
+  - role: main
+    original_name: scan_485.tif
+    path: files/24/f4/24f40574b16d6ecb4b89a3aa8d2c1771f6fea8dbe6fc4498c8c1b9d4103dd95e/original.tif
+    sha256: 24f40574b16d6ecb4b89a3aa8d2c1771f6fea8dbe6fc4498c8c1b9d4103dd95e
+    mime: image/tiff
+    bytes: 14884580
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/24/f4/24f40574b16d6ecb4b89a3aa8d2c1771f6fea8dbe6fc4498c8c1b9d4103dd95e/preview-400.c22aef04fa74.jpg
+        sha256: c22aef04fa747d4cf028048db9552dc996a7eaa5abc6d4712558682ceab6a4dd
+        mime: image/jpeg
+        bytes: 54309
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

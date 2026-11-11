@@ -1,0 +1,44 @@
+id: 01K33E4PTH2880PN3Y01EAPEQ9
+type: image
+subtype: print
+title: Ansichtskarte Am Elbdeich, Gartow
+date: 1722-01
+location: Gorleben, Gartenstraße
+origin:
+  name: Marta Brandt
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Försterei
+    type: building
+  - name: Lotte Wiese
+    type: person
+  - name: Wittenberge
+    type: place
+parents:
+  - 01JSYB7Z03WSNMJ0H37E7BWCQW
+files:
+  - role: main
+    original_name: scan_213.tif
+    path: files/62/e1/62e1271b6d6050dd6d6fa0611c16118d399bf8f17514dca2830a8dcbd34e3fb2/original.tif
+    sha256: 62e1271b6d6050dd6d6fa0611c16118d399bf8f17514dca2830a8dcbd34e3fb2
+    mime: image/tiff
+    bytes: 27852680
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/62/e1/62e1271b6d6050dd6d6fa0611c16118d399bf8f17514dca2830a8dcbd34e3fb2/preview-400.908d4772c436.jpg
+        sha256: 908d4772c4368e879cdd120b7524e662e1d88bc0b5acab8b7dd3642a7c6e083f
+        mime: image/jpeg
+        bytes: 60832
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

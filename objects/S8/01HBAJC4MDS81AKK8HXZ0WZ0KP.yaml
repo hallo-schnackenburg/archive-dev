@@ -1,0 +1,45 @@
+id: 01HBAJC4MDS81AKK8HXZ0WZ0KP
+type: document
+subtype: note
+title: Rechnung Krüger, Gutshaus
+description: Zettel, Bleistift.
+date: 1921-10-19
+location: Schnackenburg, Deichstraße
+geocode:
+  lat: 53.0082
+  lon: 11.5714
+  precision: region
+  source: osm
+origin:
+  name: Hans Plate
+  type: person
+  location: Schnackenburg
+language: de
+subjects:
+  - name: Maifeier 1921
+    type: event
+  - name: Ziegelei
+    type: building
+  - name: Heinrich Voss
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_0wz0kp_001.tif
+    path: files/c0/63/c0630773e5dfbd7773245b8d97a4f5fd668295c4c5cebe7b0c297f4329e64c10/original.tif
+    sha256: c0630773e5dfbd7773245b8d97a4f5fd668295c4c5cebe7b0c297f4329e64c10
+    mime: image/tiff
+    bytes: 15350484
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c0/63/c0630773e5dfbd7773245b8d97a4f5fd668295c4c5cebe7b0c297f4329e64c10/preview-400.4b7a1fad986e.jpg
+        sha256: 4b7a1fad986e096c200675180a156775818d3010bb2a904ff154e8b238e41a07
+        mime: image/jpeg
+        bytes: 35868
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

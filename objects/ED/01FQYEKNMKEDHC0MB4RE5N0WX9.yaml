@@ -1,0 +1,39 @@
+id: 01FQYEKNMKEDHC0MB4RE5N0WX9
+type: image
+subtype: print
+title: Gruß aus Bömenzien, Gorleben
+description: Postkarte, gelaufen 1942.
+date: 1770-12-01
+origin:
+  name: Erika Jeß
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Hedwig Wegner
+    type: person
+  - name: Grenzturm
+    type: building
+  - name: Tischlerei Bruns
+    type: building
+parents:
+  - 01GZXZG1A5CXM3AAT5P1TWE94F
+files:
+  - role: main
+    original_name: scan_651.tif
+    path: files/b3/65/b365d7657b9298487905950926b2c0e833d3ab8568c9865a9a2d0cd5aa142e6c/original.tif
+    sha256: b365d7657b9298487905950926b2c0e833d3ab8568c9865a9a2d0cd5aa142e6c
+    mime: image/tiff
+    bytes: 17338927
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/65/b365d7657b9298487905950926b2c0e833d3ab8568c9865a9a2d0cd5aa142e6c/preview-400.4beed27768ba.jpg
+        sha256: 4beed27768ba0a896ba497f944fd16de53c2fe59bb70e8e94be094a4fd9d49ca
+        mime: image/jpeg
+        bytes: 21534
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

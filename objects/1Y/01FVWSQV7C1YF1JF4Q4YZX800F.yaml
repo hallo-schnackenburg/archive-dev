@@ -1,0 +1,30 @@
+id: 01FVWSQV7C1YF1JF4Q4YZX800F
+type: image
+subtype: print
+title: Postkarte Havelberg, Gemeindehaus
+description: Postkarte, gelaufen 1927.
+date: 1779-09-12
+origin:
+  name: Irmgard Plate
+  type: person
+  location: Lanz
+files:
+  - role: main
+    original_name: scan_470.tif
+    path: files/be/cd/becde58011dce53c592fd81e3b429e2785759c87c396e79b8b58445018c7b142/original.tif
+    sha256: becde58011dce53c592fd81e3b429e2785759c87c396e79b8b58445018c7b142
+    mime: image/tiff
+    bytes: 26565168
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/cd/becde58011dce53c592fd81e3b429e2785759c87c396e79b8b58445018c7b142/preview-400.25fe4473689f.jpg
+        sha256: 25fe4473689ffbf2232617d3662ae21f603bea38f87c55932fc7f911312cdaf2
+        mime: image/jpeg
+        bytes: 54984
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,59 @@
+id: 01G0J9DKVRSYKHFCHR0VHF14XS
+type: document
+subtype: letter
+title: Brief von Heinrich Jeß an Heinrich Meyer
+description: Handschriftlich, 1 Seiten.
+date: 1868-10-16
+location: Bömenzien, Hafenstraße
+origin:
+  name: Renate Voss
+  type: person
+  location: Rüterberg
+recipient: Dieter Burmester
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+files:
+  - role: page
+    num: 1
+    original_name: letter_hf14xs_001.tif
+    path: files/c6/58/c658636a234a69763c84fc9df35d2221ed419b87ec6daa88ec24238a48e2605b/original.tif
+    sha256: c658636a234a69763c84fc9df35d2221ed419b87ec6daa88ec24238a48e2605b
+    mime: image/tiff
+    bytes: 13545426
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/58/c658636a234a69763c84fc9df35d2221ed419b87ec6daa88ec24238a48e2605b/preview-400.f8dc9faf0b4f.jpg
+        sha256: f8dc9faf0b4f5f290101b7292e883ef0ea6e1a4a907ed9e7c41e002913e824ad
+        mime: image/jpeg
+        bytes: 33503
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_hf14xs_002.tif
+    path: files/ee/ce/eece3410d66f3e4c667fa69616d0dee6a616ac879dd32fc022c121f66239db22/original.tif
+    sha256: eece3410d66f3e4c667fa69616d0dee6a616ac879dd32fc022c121f66239db22
+    mime: image/tiff
+    bytes: 6244147
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ee/ce/eece3410d66f3e4c667fa69616d0dee6a616ac879dd32fc022c121f66239db22/preview-400.02a1cb4ed7c7.jpg
+        sha256: 02a1cb4ed7c79d83240eeec46d009b941a21b183e56815f84934a19c7ac695f8
+        mime: image/jpeg
+        bytes: 83730
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

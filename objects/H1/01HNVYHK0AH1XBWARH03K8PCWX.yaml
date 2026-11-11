@@ -1,0 +1,70 @@
+id: 01HNVYHK0AH1XBWARH03K8PCWX
+type: document
+subtype: note
+title: Notiz zu Pachtvertrag
+description: Zettel, Bleistift.
+date: 191X
+location: Hitzacker, Am Markt
+geocode:
+  lat: 53.0252
+  lon: 11.6057
+  precision: exact
+  source: osm
+origin:
+  name: Wilhelm Wiegmann
+  type: person
+  location: Lanz
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 4/036
+  note: Kellerarchiv
+subjects:
+  - name: Hochzeit 1913
+    type: event
+parents:
+  - 01J2543CRBVAV30G60F9GTRGZ4
+files:
+  - role: page
+    num: 1
+    original_name: note_k8pcwx_001.tif
+    path: files/f1/5b/f15bca13a5a6665e93d2673a46f50c085d53f115c27f16c4e47f0ccc79e47199/original.tif
+    sha256: f15bca13a5a6665e93d2673a46f50c085d53f115c27f16c4e47f0ccc79e47199
+    mime: image/tiff
+    bytes: 17762758
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f1/5b/f15bca13a5a6665e93d2673a46f50c085d53f115c27f16c4e47f0ccc79e47199/preview-400.64aa9abce7b0.jpg
+        sha256: 64aa9abce7b0f48d21890eff5aa2149a3ef5ce62c93d9d4d8ba867db8e0a013c
+        mime: image/jpeg
+        bytes: 59108
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_k8pcwx_002.tif
+    path: files/c5/6c/c56cae56af3870cdc6b62b7e30e3e99087427cd3f69236db7674c2dc79b6a739/original.tif
+    sha256: c56cae56af3870cdc6b62b7e30e3e99087427cd3f69236db7674c2dc79b6a739
+    mime: image/tiff
+    bytes: 14051676
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c5/6c/c56cae56af3870cdc6b62b7e30e3e99087427cd3f69236db7674c2dc79b6a739/preview-400.ecfe3323c52a.jpg
+        sha256: ecfe3323c52a648c8b77e1a89b9478ddcc08cff93aca433b6f0ed67381e5e2b7
+        mime: image/jpeg
+        bytes: 42934
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

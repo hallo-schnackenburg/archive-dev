@@ -1,0 +1,59 @@
+id: 01HNGRB73G2ZBJ8J8F2JEXQ6N7
+type: document
+subtype: note
+title: Rechnung Lüders, Heuberge
+date: 1947-02
+location: Wustrow, Deichstraße
+origin:
+  name: Karl Ahrens
+  type: person
+  location: Havelberg
+language: de
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Storchennest
+    type: building
+  - name: Walter Wegner
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_exq6n7_001.tif
+    path: files/ff/be/ffbe7752dd446bc72883ca7f3d5e179d9d9c5da46be4096b519e4770795bd00a/original.tif
+    sha256: ffbe7752dd446bc72883ca7f3d5e179d9d9c5da46be4096b519e4770795bd00a
+    mime: image/tiff
+    bytes: 9784823
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/be/ffbe7752dd446bc72883ca7f3d5e179d9d9c5da46be4096b519e4770795bd00a/preview-400.e8ba9f293377.jpg
+        sha256: e8ba9f29337723bbb00b5c984a0f02448cff9f0e3c3a34d377ff8a72c1a9a749
+        mime: image/jpeg
+        bytes: 37136
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_exq6n7_002.tif
+    path: files/a4/9f/a49f705b8935eab12e7641c941fabe8aa938e51284805c8c225e4bcff34d947a/original.tif
+    sha256: a49f705b8935eab12e7641c941fabe8aa938e51284805c8c225e4bcff34d947a
+    mime: image/tiff
+    bytes: 26712863
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a4/9f/a49f705b8935eab12e7641c941fabe8aa938e51284805c8c225e4bcff34d947a/preview-400.1fddaed6ff61.jpg
+        sha256: 1fddaed6ff61db96aa4095f4183ffa51cf39b4c4dabed1b9bbb1639c3062d5ef
+        mime: image/jpeg
+        bytes: 67747
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

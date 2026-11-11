@@ -1,0 +1,41 @@
+id: 01FSDFQ5XHE3HQR6VEFG3QRRCE
+type: image
+subtype: plan
+title: Bauplan Feuerwehrhaus 1790
+date: 1790-08-12
+location: Lenzen, Burgstraße
+geocode:
+  lat: 52.9113
+  lon: 11.5522
+  precision: street
+  source: osm
+origin:
+  name: Berta Nitschke
+  type: person
+  location: Pretzier
+owner:
+  name: Walter Ahrens
+  type: person
+  note: Dauerleihgabe
+parents:
+  - 01GC32R7XA4RX5C5MWHXV94Y25
+files:
+  - role: main
+    original_name: scan_370.tif
+    path: files/63/10/63101e496108491b135d0f2d4e07f08ba52d9ee090b834c970ee9b3bddb98cf4/original.tif
+    sha256: 63101e496108491b135d0f2d4e07f08ba52d9ee090b834c970ee9b3bddb98cf4
+    mime: image/tiff
+    bytes: 6363855
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/63/10/63101e496108491b135d0f2d4e07f08ba52d9ee090b834c970ee9b3bddb98cf4/preview-400.e68a73dfcc3e.jpg
+        sha256: e68a73dfcc3e018c4f98dbe83e301b018b63e681c5ce27210889de8b70e98fc0
+        mime: image/jpeg
+        bytes: 39812
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

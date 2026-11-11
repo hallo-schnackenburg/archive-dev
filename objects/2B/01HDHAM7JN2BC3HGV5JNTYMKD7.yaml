@@ -1,0 +1,35 @@
+id: 01HDHAM7JN2BC3HGV5JNTYMKD7
+type: image
+subtype: plan
+title: Bauplan Fachwerkhaus Marktstraße 4 1756
+date: 1756-06-04
+location: Hitzacker, Kirchstraße
+geocode:
+  lat: 53.0688
+  lon: 11.6263
+  precision: exact
+  source: osm
+owner:
+  name: Wilhelm Schulz
+  type: person
+  note: Nachlass
+files:
+  - role: main
+    original_name: scan_368.tif
+    path: files/f5/e3/f5e3a34884cbf068b94694c2fc5a20756058890b19fd1cc3b7556594fbc4db84/original.tif
+    sha256: f5e3a34884cbf068b94694c2fc5a20756058890b19fd1cc3b7556594fbc4db84
+    mime: image/tiff
+    bytes: 11056446
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f5/e3/f5e3a34884cbf068b94694c2fc5a20756058890b19fd1cc3b7556594fbc4db84/preview-400.a87c43d027df.jpg
+        sha256: a87c43d027df8f1e79e490198cac4cbca84a7161ee2bf4dbd729677866f67c9a
+        mime: image/jpeg
+        bytes: 55294
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

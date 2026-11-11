@@ -1,0 +1,46 @@
+id: 01KXZV27VSRADW545J84Z0CKAS
+type: document
+subtype: note
+title: Quittung für Wilhelm Plate
+description: Auf der Rückseite eines Formulars.
+location: Schnackenburg, Schulstraße
+geocode:
+  lat: 53.0361
+  lon: 11.6572
+  precision: town
+  source: osm
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 2/015
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Tischlerei Bruns
+    type: building
+  - name: Otto Hennings
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_z0ckas_001.tif
+    path: files/1c/23/1c2349c7add26544894432b67f330a91402fe8fffe6a2adc8fa7826d7a4bc87b/original.tif
+    sha256: 1c2349c7add26544894432b67f330a91402fe8fffe6a2adc8fa7826d7a4bc87b
+    mime: image/tiff
+    bytes: 22899895
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/23/1c2349c7add26544894432b67f330a91402fe8fffe6a2adc8fa7826d7a4bc87b/preview-400.3dcf0fd472b0.jpg
+        sha256: 3dcf0fd472b071782c24b20492ba308ab7f2f671b69671a34f2cd7eaedc45b34
+        mime: image/jpeg
+        bytes: 89304
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

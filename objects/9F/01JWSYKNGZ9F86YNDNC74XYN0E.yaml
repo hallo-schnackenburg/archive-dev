@@ -1,0 +1,61 @@
+id: 01JWSYKNGZ9F86YNDNC74XYN0E
+type: document
+subtype: letter
+title: Feldpostbrief von Wilhelm Bohlmann
+description: Maschinenschriftlich, unterschrieben.
+date: 1942-04
+location: Schnackenburg, Gartenstraße
+origin:
+  name: Käthe Voss
+  type: person
+  location: Wittenberge
+recipient: Frieda Garms
+language: de
+subjects:
+  - name: Ortsbesichtigung 1942
+    type: event
+  - name: Nienwalde
+    type: place
+  - name: Kegelbahn
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_4xyn0e_001.tif
+    path: files/26/da/26da5ff964939f553752aa8764b0582adf40f12e7578665e6883aa5e31df8112/original.tif
+    sha256: 26da5ff964939f553752aa8764b0582adf40f12e7578665e6883aa5e31df8112
+    mime: image/tiff
+    bytes: 10052227
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/da/26da5ff964939f553752aa8764b0582adf40f12e7578665e6883aa5e31df8112/preview-400.4a9bffb9fe85.jpg
+        sha256: 4a9bffb9fe856e492c9b37a3ca4a3bb707b68a48ad4e128e9c4917d4680fc50c
+        mime: image/jpeg
+        bytes: 77502
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_4xyn0e_002.tif
+    path: files/4f/35/4f3540c174c9b8625df4dec84176120e308ba9a5c0a764fcea5635a046aedd4c/original.tif
+    sha256: 4f3540c174c9b8625df4dec84176120e308ba9a5c0a764fcea5635a046aedd4c
+    mime: image/tiff
+    bytes: 25037304
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4f/35/4f3540c174c9b8625df4dec84176120e308ba9a5c0a764fcea5635a046aedd4c/preview-400.c5c7d4595f46.jpg
+        sha256: c5c7d4595f4620eac9a223e571d94be382c63dfff246ce79c4c795dd5b0afd4c
+        mime: image/jpeg
+        bytes: 47072
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

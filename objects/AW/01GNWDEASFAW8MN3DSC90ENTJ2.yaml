@@ -1,0 +1,42 @@
+id: 01GNWDEASFAW8MN3DSC90ENTJ2
+type: image
+subtype: plan
+title: Bauplan Poststelle 1946
+description: Mit handschriftlichen Ergänzungen.
+date: "1946"
+location: Wittenberge, Kirchstraße
+geocode:
+  lat: 52.9041
+  lon: 11.6458
+  precision: town
+  source: osm
+origin:
+  name: Karl Wegner
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 17/368
+files:
+  - role: main
+    original_name: scan_312.tif
+    path: files/07/fb/07fbe274c77b6068c0af0a00cd98152b675a60a8eb7c6a42f439bfe8feba03f9/original.tif
+    sha256: 07fbe274c77b6068c0af0a00cd98152b675a60a8eb7c6a42f439bfe8feba03f9
+    mime: image/tiff
+    bytes: 7093133
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/fb/07fbe274c77b6068c0af0a00cd98152b675a60a8eb7c6a42f439bfe8feba03f9/preview-400.a5b42b2727cc.jpg
+        sha256: a5b42b2727cc5b9da1b7ee6dc17e6b34967479b6c9c4c9ee81ea7763c3669800
+        mime: image/jpeg
+        bytes: 51908
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

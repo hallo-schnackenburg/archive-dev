@@ -1,0 +1,41 @@
+id: 01JFPHTM9K8J7V63RYSMQ4GGWV
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Viehmarkt, Brünkendorf"
+description: Mit Anmerkungen am Rand.
+date: "1961"
+location: Seedorf, Gartenstraße
+geocode:
+  lat: 53.0799
+  lon: 11.6653
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 39/227
+subjects:
+  - name: Holtorf
+    type: place
+files:
+  - role: main
+    original_name: scan_196.tif
+    path: files/46/b5/46b563d87c8f628a56a14e3c9e4c068d8bcc7e6f99b85a55cd073b65c1684a5a/original.tif
+    sha256: 46b563d87c8f628a56a14e3c9e4c068d8bcc7e6f99b85a55cd073b65c1684a5a
+    mime: image/tiff
+    bytes: 21134765
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/46/b5/46b563d87c8f628a56a14e3c9e4c068d8bcc7e6f99b85a55cd073b65c1684a5a/preview-400.2936379388d0.jpg
+        sha256: 2936379388d047586483d9b462bdff62aa7fe2ad6cd9f997069b3703143defec
+        mime: image/jpeg
+        bytes: 41836
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

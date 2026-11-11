@@ -1,0 +1,42 @@
+id: 01KKGBQ2MMG3F8XR25RNCX5CXP
+type: image
+subtype: plan
+title: Bauplan Scheune 1903
+description: Tusche auf Transparentpapier.
+date: 1903-06-13
+location: Salzwedel, Gartenstraße
+origin:
+  name: August Gaede
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 36/091
+subjects:
+  - name: Beerdigung 1903
+    type: event
+  - name: Schlachterei
+    type: building
+files:
+  - role: main
+    original_name: scan_242.tif
+    path: files/33/23/3323c44b011a3cecdffd4b4122e4d607955cc0890fbf1f36c025cb8ba4072abd/original.tif
+    sha256: 3323c44b011a3cecdffd4b4122e4d607955cc0890fbf1f36c025cb8ba4072abd
+    mime: image/tiff
+    bytes: 2616036
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/33/23/3323c44b011a3cecdffd4b4122e4d607955cc0890fbf1f36c025cb8ba4072abd/preview-400.f0a5568ec504.jpg
+        sha256: f0a5568ec504427c4495657addd8ec3160a6ae2484f8fc283f2eb5be4d0d3388
+        mime: image/jpeg
+        bytes: 59088
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

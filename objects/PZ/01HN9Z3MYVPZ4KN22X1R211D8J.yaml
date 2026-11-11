@@ -1,0 +1,71 @@
+id: 01HN9Z3MYVPZ4KN22X1R211D8J
+type: document
+subtype: note
+title: Rechnung Wegner, Pumpenhaus
+description: Beleg mit Stempel.
+date: 1927-11-21
+origin:
+  name: Käthe Voss
+  type: person
+  location: Salzwedel
+language: de
+original:
+  holder:
+    name: Familie Hennings
+    type: person
+    location: Havelberg
+owner:
+  name: Walter Brandt
+  type: person
+  note: Nachlass
+subjects:
+  - name: Schützenhaus
+    type: building
+  - name: Havelberg
+    type: place
+  - name: Albert Dreyer
+    type: person
+parents:
+  - 01JDMR23P0ST4P21YFR11Z2B2R
+  - 01EWSDA9HNCJV2FVTXNNBEB0AC
+files:
+  - role: page
+    num: 1
+    original_name: note_211d8j_001.tif
+    path: files/a3/5b/a35b25a93ef3d0a018d5b76a59f3fbd67734388e7ffac01d500a8e5d9b8d3413/original.tif
+    sha256: a35b25a93ef3d0a018d5b76a59f3fbd67734388e7ffac01d500a8e5d9b8d3413
+    mime: image/tiff
+    bytes: 2486099
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a3/5b/a35b25a93ef3d0a018d5b76a59f3fbd67734388e7ffac01d500a8e5d9b8d3413/preview-400.e7c57afe0a5a.jpg
+        sha256: e7c57afe0a5ae986379f38577e6f9e00ee36cc5417f1dcbc3803972df79dbae4
+        mime: image/jpeg
+        bytes: 54846
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_211d8j_002.tif
+    path: files/c6/21/c6218b02ab22b89d7361e314126de5616babf0640b3e24679b08e1c8d77496e6/original.tif
+    sha256: c6218b02ab22b89d7361e314126de5616babf0640b3e24679b08e1c8d77496e6
+    mime: image/tiff
+    bytes: 12486754
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/21/c6218b02ab22b89d7361e314126de5616babf0640b3e24679b08e1c8d77496e6/preview-400.d8059cbf551b.jpg
+        sha256: d8059cbf551b9a89bc193533c7de4bca88c11eeb2515125e4a222ff1066a2641
+        mime: image/jpeg
+        bytes: 43604
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

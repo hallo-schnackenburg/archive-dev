@@ -1,0 +1,38 @@
+id: 01GKDSABKPT19C1YKHPD63JCFW
+type: image
+subtype: print
+title: Ansichtskarte Lange Straße, Zadrau
+description: Kupferstich, koloriert.
+location: Laase, Tanzsaal
+origin:
+  name: Friedrich Lemke
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Album 8/103
+parents:
+  - 01GKCFCDVMB3D019HAA4A20JFD
+files:
+  - role: main
+    original_name: scan_551.tif
+    path: files/9d/f6/9df696b857359ad3dd6c72dba1e6fb9032e1dc4f118495d43a3604c91ce58038/original.tif
+    sha256: 9df696b857359ad3dd6c72dba1e6fb9032e1dc4f118495d43a3604c91ce58038
+    mime: image/tiff
+    bytes: 27263754
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/9d/f6/9df696b857359ad3dd6c72dba1e6fb9032e1dc4f118495d43a3604c91ce58038/preview-400.2931716548d3.jpg
+        sha256: 2931716548d39466de5d7f38b26be5d907305112c7aafb526a6ee297f2050a1e
+        mime: image/jpeg
+        bytes: 43312
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

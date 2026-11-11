@@ -1,0 +1,38 @@
+id: 01H89MA1FAQTMX7D9QYK10NWDJ
+type: image
+subtype: plan
+title: Deichplan Dömitz bis Kapern
+description: Maßstab 1:1000.
+date: 1783/1784
+location: Cumlosen, Am Elbdeich
+origin:
+  name: Heinz Oelker
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Irmgard Rieke
+    type: person
+  - name: Weihnachtsmarkt 1783
+    type: event
+  - name: Karl Nitschke
+    type: person
+files:
+  - role: main
+    original_name: scan_471.tif
+    path: files/ff/e2/ffe2368ccc23680e1194dcd592a517b2b10a19e182627d106fe8f04d340383cd/original.tif
+    sha256: ffe2368ccc23680e1194dcd592a517b2b10a19e182627d106fe8f04d340383cd
+    mime: image/tiff
+    bytes: 27105206
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ff/e2/ffe2368ccc23680e1194dcd592a517b2b10a19e182627d106fe8f04d340383cd/preview-400.df6081505f2d.jpg
+        sha256: df6081505f2db9e955de310166bd44ffc0b2192993647aade4cf18079f709dc0
+        mime: image/jpeg
+        bytes: 21624
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

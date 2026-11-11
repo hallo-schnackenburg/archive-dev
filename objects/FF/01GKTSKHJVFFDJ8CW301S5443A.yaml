@@ -1,0 +1,45 @@
+id: 01GKTSKHJVFFDJ8CW301S5443A
+type: image
+subtype: photo
+title: Blick vom Elbdeich auf das Pumpenhaus
+description: Aufnahme von Rudolf Rieke.
+date: 1916-01-28
+location: Gorleben, Hinter den Höfen
+geocode:
+  lat: 52.9878
+  lon: 11.5761
+  precision: region
+  source: osm
+origin:
+  name: Hermann Gaede
+  type: person
+  location: Wootz
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Kapern
+    type: place
+  - name: Elbdeich
+    type: building
+parents:
+  - 01FPG45DMCQ4FJ212ZPBZF1YR1
+files:
+  - role: main
+    original_name: foto_5044.jpg
+    path: files/0c/b5/0cb50d8ddd2d03f7f05478e3f6e4d4d6ff1920c59c6afa9d826e2abcb26a1533/original.jpg
+    sha256: 0cb50d8ddd2d03f7f05478e3f6e4d4d6ff1920c59c6afa9d826e2abcb26a1533
+    mime: image/jpeg
+    bytes: 16392463
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/0c/b5/0cb50d8ddd2d03f7f05478e3f6e4d4d6ff1920c59c6afa9d826e2abcb26a1533/preview-400.e5de507f3c55.jpg
+        sha256: e5de507f3c55444d329ef3b4b6a210366abfbe667490f532fe8d1895e28607db
+        mime: image/jpeg
+        bytes: 84481
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

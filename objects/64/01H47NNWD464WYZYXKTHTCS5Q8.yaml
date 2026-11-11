@@ -1,0 +1,80 @@
+id: 01H47NNWD464WYZYXKTHTCS5Q8
+type: document
+subtype: letter
+title: Feldpostbrief von Gustav Wiegmann
+description: Mit Umschlag und Briefmarke.
+location: Laase, Dorfstraße
+geocode:
+  lat: 52.9106
+  lon: 11.5871
+  precision: street
+  source: osm
+recipient: Sabine Meyer
+language: de
+owner:
+  name: Käthe Lüders
+  type: person
+  note: Leihgabe
+parents:
+  - 01KFJF1DM6WA2NVDNSAADJ19BQ
+files:
+  - role: page
+    num: 1
+    original_name: letter_tcs5q8_001.tif
+    path: files/ee/c0/eec05f87cfe837a7fb03944d039df9a21223ae901f244cb2e8195980e9438843/original.tif
+    sha256: eec05f87cfe837a7fb03944d039df9a21223ae901f244cb2e8195980e9438843
+    mime: image/tiff
+    bytes: 15755193
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ee/c0/eec05f87cfe837a7fb03944d039df9a21223ae901f244cb2e8195980e9438843/preview-400.88538ac41a8c.jpg
+        sha256: 88538ac41a8c4e41f579886c1c66d683c819a9e3c18d5489cb0c6965a3543e0e
+        mime: image/jpeg
+        bytes: 66068
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_tcs5q8_002.tif
+    path: files/53/05/5305b1a9c40253747926f5b32bab830a3e5263d40ed2ad7c68e9b1f935775a35/original.tif
+    sha256: 5305b1a9c40253747926f5b32bab830a3e5263d40ed2ad7c68e9b1f935775a35
+    mime: image/tiff
+    bytes: 14904000
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/53/05/5305b1a9c40253747926f5b32bab830a3e5263d40ed2ad7c68e9b1f935775a35/preview-400.f7cee34e5cdb.jpg
+        sha256: f7cee34e5cdbbb6974249ad79f9d18a00ece3cf5c81864ec7aa8f9996040d3de
+        mime: image/jpeg
+        bytes: 53834
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_tcs5q8_003.tif
+    path: files/03/a4/03a4bab79763f92c469f6ff5213b1d5a0b7eda5d6e7a8d0bf27e6f3bd69924f3/original.tif
+    sha256: 03a4bab79763f92c469f6ff5213b1d5a0b7eda5d6e7a8d0bf27e6f3bd69924f3
+    mime: image/tiff
+    bytes: 9472263
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/03/a4/03a4bab79763f92c469f6ff5213b1d5a0b7eda5d6e7a8d0bf27e6f3bd69924f3/preview-400.09a667c3c816.jpg
+        sha256: 09a667c3c816f1a95568e17808ed83bdd26e36aee1b26abe0dc8e06c11b1d09e
+        mime: image/jpeg
+        bytes: 27982
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

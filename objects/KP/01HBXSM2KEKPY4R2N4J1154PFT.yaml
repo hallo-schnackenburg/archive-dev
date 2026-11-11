@@ -1,0 +1,52 @@
+id: 01HBXSM2KEKPY4R2N4J1154PFT
+type: image
+subtype: plan
+title: Deichplan Wootz bis Lüchow
+date: 1777-03
+location: Nienwalde, Storchennest
+geocode:
+  lat: 52.9195
+  lon: 11.5922
+  precision: exact
+  source: osm
+origin:
+  name: Walter Hennings
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 1/328
+owner:
+  name: Karl Wegner
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Pfarrhaus
+    type: building
+  - name: Ortsbesichtigung 1777
+    type: event
+  - name: Kirche St. Johannis
+    type: building
+files:
+  - role: main
+    original_name: scan_042.tif
+    path: files/04/39/043906a7e0158dd5681476e9a88d9dbeca35361afbb0643598473cda9d3b73b7/original.tif
+    sha256: 043906a7e0158dd5681476e9a88d9dbeca35361afbb0643598473cda9d3b73b7
+    mime: image/tiff
+    bytes: 6602610
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/39/043906a7e0158dd5681476e9a88d9dbeca35361afbb0643598473cda9d3b73b7/preview-400.95140c88ac6e.jpg
+        sha256: 95140c88ac6eb52197566e09f4eded4a4413173e04f8e2388f38f29e1ed8e703
+        mime: image/jpeg
+        bytes: 44871
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01FJ6E8GJXYGH5Q1K2XFTDTHKM
+type: image
+subtype: drawing
+title: Gasthof „Zur Elbe“, Aquarell, Bömenzien
+description: Bleistift auf Papier.
+date: 1825-10
+origin:
+  name: Heinrich Krüger
+  type: person
+  location: Gülden
+subjects:
+  - name: Försterei
+    type: building
+parents:
+  - 01FZ34PCDWH41HVN2Q034693E1
+files:
+  - role: main
+    original_name: scan_421.tif
+    path: files/7c/b0/7cb0bc0eff2f1adb4af9fbeefaa0888ccace76257b8e3c4e6a273252bfc280e8/original.tif
+    sha256: 7cb0bc0eff2f1adb4af9fbeefaa0888ccace76257b8e3c4e6a273252bfc280e8
+    mime: image/tiff
+    bytes: 22275389
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7c/b0/7cb0bc0eff2f1adb4af9fbeefaa0888ccace76257b8e3c4e6a273252bfc280e8/preview-400.7ef987c78896.jpg
+        sha256: 7ef987c78896ab4237c0542b8f749e77568b11e41087a3ebd863fd39a0b17eae
+        mime: image/jpeg
+        bytes: 72733
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

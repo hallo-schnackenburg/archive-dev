@@ -1,0 +1,42 @@
+id: 01H4WCM3W28BT9SE434JJ5QCM7
+type: image
+subtype: photo
+title: Viehmarkt der Angelverein
+description: Farbfoto, leicht verblasst.
+date: 1938-08-18
+location: Seedorf, Hafenstraße
+origin:
+  name: Ernst Plate
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Dachboden, Truhe
+subjects:
+  - name: Hochwasser 1938
+    type: event
+  - name: Schnackenburg
+    type: place
+files:
+  - role: main
+    original_name: foto_2257.jpg
+    path: files/90/d9/90d950c0c3b3f8b41d98b9fa7852745ef342e2f865ed1baa442614c0286041fe/original.jpg
+    sha256: 90d950c0c3b3f8b41d98b9fa7852745ef342e2f865ed1baa442614c0286041fe
+    mime: image/jpeg
+    bytes: 25060569
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/90/d9/90d950c0c3b3f8b41d98b9fa7852745ef342e2f865ed1baa442614c0286041fe/preview-400.ea72c09c9c29.jpg
+        sha256: ea72c09c9c2971cde35563152bc8b999fd20810fadf104cc1de78eedc89fa538
+        mime: image/jpeg
+        bytes: 50114
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

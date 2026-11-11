@@ -1,0 +1,36 @@
+id: 01K1GTP79HN72K0PQ3D16E2YRN
+type: image
+subtype: plan
+title: Grundriss Dorfkrug, Bömenzien
+date: 1886~
+location: Lanz, Gasthof Meyer
+geocode:
+  lat: 52.9905
+  lon: 11.5109
+  precision: street
+  source: osm
+subjects:
+  - name: Hochwasser 1886
+    type: event
+  - name: Heinrich Jeß
+    type: person
+files:
+  - role: main
+    original_name: scan_011.tif
+    path: files/e9/23/e92381b7e64f90491b5b14126f8be0aae023c5523f679193a3b8915e5e15b9b0/original.tif
+    sha256: e92381b7e64f90491b5b14126f8be0aae023c5523f679193a3b8915e5e15b9b0
+    mime: image/tiff
+    bytes: 22767261
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e9/23/e92381b7e64f90491b5b14126f8be0aae023c5523f679193a3b8915e5e15b9b0/preview-400.e54f028d1b2f.jpg
+        sha256: e54f028d1b2f33a17fcc7afc86bddd22337969176ecfe2c9c4042b2b7e4d0a0a
+        mime: image/jpeg
+        bytes: 81697
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

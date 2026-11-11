@@ -1,0 +1,37 @@
+id: 01HBZXBVV99MXR6AM6CHHFEVWM
+type: image
+subtype: photo
+title: Horst Hartwig, Porträt
+date: 1944/1947
+location: Zadrau, Poststelle
+geocode:
+  lat: 52.9025
+  lon: 11.6714
+  precision: town
+  source: osm
+origin:
+  name: Gerda Detlefs
+  type: person
+  location: Zadrau
+parents:
+  - 01FZ34PCDWH41HVN2Q034693E1
+files:
+  - role: main
+    original_name: foto_6102.jpg
+    path: files/df/76/df7600ec358577c1c6f8395f75688ba627cf0c5591cdf62f553578e5a89f99be/original.jpg
+    sha256: df7600ec358577c1c6f8395f75688ba627cf0c5591cdf62f553578e5a89f99be
+    mime: image/jpeg
+    bytes: 24964050
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/df/76/df7600ec358577c1c6f8395f75688ba627cf0c5591cdf62f553578e5a89f99be/preview-400.1d3dd56bf4bd.jpg
+        sha256: 1d3dd56bf4bd5b8062061834faa836eea10e89faac0ebae8e547009708eae752
+        mime: image/jpeg
+        bytes: 54702
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

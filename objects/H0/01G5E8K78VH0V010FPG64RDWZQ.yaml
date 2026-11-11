@@ -1,0 +1,41 @@
+id: 01G5E8K78VH0V010FPG64RDWZQ
+type: image
+subtype: print
+title: Postkarte Lenzen, Gasthof „Zur Elbe“
+description: Kupferstich, koloriert.
+date: 1766~
+location: Bömenzien, Dorfstraße
+origin:
+  name: Gerda Voss
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Kindergarten
+    type: building
+  - name: Rüterberg
+    type: place
+  - name: Brunnen am Markt
+    type: building
+parents:
+  - 01KQVCCGD4CP4QYK6YQJ3YAGSW
+  - 01H40DBW3NVXVHMCXP864M4XJA
+files:
+  - role: main
+    original_name: scan_082.tif
+    path: files/de/69/de69f4c4cc7415c6018444a1d1d15f6d84e1bd8185e84b756c7aa9330f00e961/original.tif
+    sha256: de69f4c4cc7415c6018444a1d1d15f6d84e1bd8185e84b756c7aa9330f00e961
+    mime: image/tiff
+    bytes: 952196
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/69/de69f4c4cc7415c6018444a1d1d15f6d84e1bd8185e84b756c7aa9330f00e961/preview-400.12663f6fe786.jpg
+        sha256: 12663f6fe786c0790841e13479b030b7277210f21e8de9be3a443ff187eb94ce
+        mime: image/jpeg
+        bytes: 54218
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

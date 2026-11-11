@@ -1,0 +1,32 @@
+id: 01FVA55V9SCZJMGXCCGX229R88
+type: image
+subtype: print
+title: Gruß aus Seedorf
+description: Lithographie, Rand beschnitten.
+date: 1915-01-06
+location: Lüchow, Am Elbdeich
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Weihnachtsmarkt 1915
+    type: event
+files:
+  - role: main
+    original_name: scan_289.tif
+    path: files/a6/48/a64838c236750764e59b9c720cef184379e6f2bd5f772502a9295b0e53381c3a/original.tif
+    sha256: a64838c236750764e59b9c720cef184379e6f2bd5f772502a9295b0e53381c3a
+    mime: image/tiff
+    bytes: 11801054
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a6/48/a64838c236750764e59b9c720cef184379e6f2bd5f772502a9295b0e53381c3a/preview-400.a9b334f66258.jpg
+        sha256: a9b334f66258fb65184b0dce81cdd7c9982f7e9178a1e5b40e1df82e31fcb8d5
+        mime: image/jpeg
+        bytes: 80990
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

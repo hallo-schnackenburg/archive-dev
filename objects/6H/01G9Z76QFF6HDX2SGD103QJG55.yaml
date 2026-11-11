@@ -1,0 +1,81 @@
+id: 01G9Z76QFF6HDX2SGD103QJG55
+type: document
+subtype: letter
+title: Zeugnis für Fritz Sievers
+date: "1843"
+location: Lenzen, Apotheke
+geocode:
+  lat: 52.9343
+  lon: 11.658
+  precision: region
+  source: osm
+origin:
+  name: Gerda Garms
+  type: person
+  location: Gartow
+recipient: Brigitte Voss
+language: de
+parents:
+  - 01FEEW1K0P7657HFN4R8JBV1AC
+  - 01HQP25DE5H8X2VZ17AF0KJD5M
+files:
+  - role: page
+    num: 1
+    original_name: letter_3qjg55_001.tif
+    path: files/dd/ab/ddab705368f81a0896072ceadc1f4a6b04f52d96de526283c954d0d5f65c0127/original.tif
+    sha256: ddab705368f81a0896072ceadc1f4a6b04f52d96de526283c954d0d5f65c0127
+    mime: image/tiff
+    bytes: 7652055
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/ab/ddab705368f81a0896072ceadc1f4a6b04f52d96de526283c954d0d5f65c0127/preview-400.baa7dbe910d4.jpg
+        sha256: baa7dbe910d4800c15005e02c5802ab8e99b509c0f561f7d0d31f6d7d0259c63
+        mime: image/jpeg
+        bytes: 71104
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_3qjg55_002.tif
+    path: files/6b/cc/6bcc7201411eccde3ebfec2e4887b049adbf8c436e6d44556a1c9de45b01f4e9/original.tif
+    sha256: 6bcc7201411eccde3ebfec2e4887b049adbf8c436e6d44556a1c9de45b01f4e9
+    mime: image/tiff
+    bytes: 416819
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6b/cc/6bcc7201411eccde3ebfec2e4887b049adbf8c436e6d44556a1c9de45b01f4e9/preview-400.3212c8262bf3.jpg
+        sha256: 3212c8262bf327ff0006d9d7bbd845764604543139f5d5bfb3d381c924ffe1b1
+        mime: image/jpeg
+        bytes: 24986
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_3qjg55_003.tif
+    path: files/29/ca/29ca0474a97673e22edea93c22d12670a6b7197667f8527710b96559d901f34e/original.tif
+    sha256: 29ca0474a97673e22edea93c22d12670a6b7197667f8527710b96559d901f34e
+    mime: image/tiff
+    bytes: 14843068
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/29/ca/29ca0474a97673e22edea93c22d12670a6b7197667f8527710b96559d901f34e/preview-400.a45169fcd4e3.jpg
+        sha256: a45169fcd4e3ebdf9e18a07fed69b3f0dad91359e841fbb1b71b5a2520f30fe2
+        mime: image/jpeg
+        bytes: 89134
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

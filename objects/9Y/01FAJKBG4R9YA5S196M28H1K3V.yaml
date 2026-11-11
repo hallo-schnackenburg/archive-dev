@@ -1,0 +1,36 @@
+id: 01FAJKBG4R9YA5S196M28H1K3V
+type: image
+subtype: drawing
+title: Wappenentwurf Restorf, Holtorf
+description: Bleistift auf Papier.
+location: Rüterberg, Am Markt
+origin:
+  name: Karl Dierks
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Kapern
+  reference: Br/Mappe 3/012
+files:
+  - role: main
+    original_name: scan_562.tif
+    path: files/d9/4f/d94fbfc3f1bb94fb8b0ef075bab1547fc32313516369fbfb77e41817da604b89/original.tif
+    sha256: d94fbfc3f1bb94fb8b0ef075bab1547fc32313516369fbfb77e41817da604b89
+    mime: image/tiff
+    bytes: 26709691
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d9/4f/d94fbfc3f1bb94fb8b0ef075bab1547fc32313516369fbfb77e41817da604b89/preview-400.69e6445715f3.jpg
+        sha256: 69e6445715f3c1e88dba801809e8a6f22e1c8e83b63b6b18d95b3caed113285f
+        mime: image/jpeg
+        bytes: 21608
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

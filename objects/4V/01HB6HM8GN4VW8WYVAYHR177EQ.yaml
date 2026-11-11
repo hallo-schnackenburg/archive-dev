@@ -1,0 +1,48 @@
+id: 01HB6HM8GN4VW8WYVAYHR177EQ
+type: image
+subtype: photo
+title: Zollamt in Pretzier
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1937~
+location: Rüterberg, Kindergarten
+geocode:
+  lat: 52.9888
+  lon: 11.6049
+  precision: town
+  source: osm
+origin:
+  name: Otto Garms
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Konfirmation 1937
+    type: event
+  - name: Anni Krüger
+    type: person
+parents:
+  - 01GBN6YKVFSAS5BGP6YM27NA9J
+files:
+  - role: main
+    original_name: IMG_7702.jpg
+    path: files/4c/bc/4cbcefab64231be5be0b910ffc0d64e06613e8c793994b8befaf6919e6cb0ba2/original.jpg
+    sha256: 4cbcefab64231be5be0b910ffc0d64e06613e8c793994b8befaf6919e6cb0ba2
+    mime: image/jpeg
+    bytes: 5468728
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4c/bc/4cbcefab64231be5be0b910ffc0d64e06613e8c793994b8befaf6919e6cb0ba2/preview-400.26a0c39cf884.jpg
+        sha256: 26a0c39cf88420bb461da90be362eb4c62028159ecf3556d78c6843ab5eebcbc
+        mime: image/jpeg
+        bytes: 27595
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

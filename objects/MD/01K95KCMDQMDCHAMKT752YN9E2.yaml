@@ -1,0 +1,36 @@
+id: 01K95KCMDQMDCHAMKT752YN9E2
+type: image
+subtype: drawing
+title: Tanzsaal, Aquarell, Salzwedel
+description: Mit Anmerkungen am Rand.
+date: "1823"
+location: Gülden, Am Markt
+origin:
+  name: Emma Wegner
+  type: person
+  location: Lenzen
+subjects:
+  - name: Einweihung 1823
+    type: event
+parents:
+  - 01FSR5RWMB3S1C3C5MHAYVRE65
+files:
+  - role: main
+    original_name: scan_706.tif
+    path: files/f2/f7/f2f767dce78c7ae7ec1e70b1d4e1b5025ba1b21e8e15d98c6eef3679dec93e85/original.tif
+    sha256: f2f767dce78c7ae7ec1e70b1d4e1b5025ba1b21e8e15d98c6eef3679dec93e85
+    mime: image/tiff
+    bytes: 17772052
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f2/f7/f2f767dce78c7ae7ec1e70b1d4e1b5025ba1b21e8e15d98c6eef3679dec93e85/preview-400.284cf67db8ce.jpg
+        sha256: 284cf67db8cea8a1e710ee17d75056571b437442023337c80d93cb0166d9287f
+        mime: image/jpeg
+        bytes: 22388
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

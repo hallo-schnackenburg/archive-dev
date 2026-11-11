@@ -1,0 +1,42 @@
+id: 01HQ9Q6SG2RJ406B4D68GSD1C8
+type: image
+subtype: photo
+title: Blick vom Pumpenhaus auf das Heuberge
+date: 1942?
+location: Gartow, Burgstraße
+geocode:
+  lat: 53.0811
+  lon: 11.5183
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok/Kasten 3/032
+subjects:
+  - name: Ladestraße
+    type: building
+parents:
+  - 01KC4MRSQCBP77C8MHDY1DBTTR
+files:
+  - role: main
+    original_name: foto_4228.jpg
+    path: files/b3/27/b3271cbbc1dbe1b2f7a0ecf9b81be54e383da9ba6ade4af4dee5d1aa03755c20/original.jpg
+    sha256: b3271cbbc1dbe1b2f7a0ecf9b81be54e383da9ba6ade4af4dee5d1aa03755c20
+    mime: image/jpeg
+    bytes: 23234350
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b3/27/b3271cbbc1dbe1b2f7a0ecf9b81be54e383da9ba6ade4af4dee5d1aa03755c20/preview-400.1071f3b97faa.jpg
+        sha256: 1071f3b97faa6d4a4b490591671da5ddc1d9452a98c097fefc64032ad6783a67
+        mime: image/jpeg
+        bytes: 77715
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

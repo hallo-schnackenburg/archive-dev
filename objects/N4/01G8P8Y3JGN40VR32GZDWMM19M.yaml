@@ -1,0 +1,44 @@
+id: 01G8P8Y3JGN40VR32GZDWMM19M
+type: image
+subtype: print
+title: Postkarte Lanz, Brunnen am Markt
+date: 1842?
+location: Laase, Hafenstraße
+geocode:
+  lat: 52.9119
+  lon: 11.5028
+  precision: street
+  source: osm
+origin:
+  name: Otto Plate
+  type: person
+  location: Holtorf
+owner:
+  name: Karl Tiedemann
+  type: person
+  note: Nachlass
+subjects:
+  - name: Straßenfest 1842
+    type: event
+parents:
+  - 01F83N316GB4JPE9NDSAS5ZR1M
+files:
+  - role: main
+    original_name: scan_501.tif
+    path: files/d8/8a/d88a266edd422288f878bbd28be2c8800190c89eeb3141c772bb6f3eb0548610/original.tif
+    sha256: d88a266edd422288f878bbd28be2c8800190c89eeb3141c772bb6f3eb0548610
+    mime: image/tiff
+    bytes: 24047663
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d8/8a/d88a266edd422288f878bbd28be2c8800190c89eeb3141c772bb6f3eb0548610/preview-400.fc3397b04f7a.jpg
+        sha256: fc3397b04f7a7cdd66671fb3f79f4bfd8287fa8e1497d044ccadf67188f1675b
+        mime: image/jpeg
+        bytes: 70601
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

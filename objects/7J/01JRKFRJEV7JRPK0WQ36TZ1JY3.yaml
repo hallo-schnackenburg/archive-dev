@@ -1,0 +1,40 @@
+id: 01JRKFRJEV7JRPK0WQ36TZ1JY3
+type: image
+subtype: drawing
+title: Federzeichnung Dorfladen, Dömitz
+description: Federzeichnung, laviert.
+location: Lüchow, Hinter den Höfen
+origin:
+  name: Hermann Harms
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 5/338
+  note: Regal 1
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v11023
+parents:
+  - 01FJMCPRQ0EG050EZ87JB0MN40
+files:
+  - role: main
+    original_name: scan_308.tif
+    path: files/ef/2d/ef2df5b5b3cb24959aa439b56388be3adc7da9ddf7610845f32a7d8ce6894bd0/original.tif
+    sha256: ef2df5b5b3cb24959aa439b56388be3adc7da9ddf7610845f32a7d8ce6894bd0
+    mime: image/tiff
+    bytes: 22056346
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ef/2d/ef2df5b5b3cb24959aa439b56388be3adc7da9ddf7610845f32a7d8ce6894bd0/preview-400.ce110951db2f.jpg
+        sha256: ce110951db2f6a7c4b969731ffe4e8bcc5d0ddbee0f3b9da662333ca76db61fb
+        mime: image/jpeg
+        bytes: 34772
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

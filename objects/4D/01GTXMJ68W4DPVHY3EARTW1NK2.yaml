@@ -1,0 +1,46 @@
+id: 01GTXMJ68W4DPVHY3EARTW1NK2
+type: image
+subtype: print
+title: Ansichtskarte Deichstraße, Schnackenburg (21)
+description: Kupferstich, koloriert.
+date: 1951-10-02
+location: Wootz, Dorfkrug
+origin:
+  name: Erika Wegner
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F/Album 22/068
+subjects:
+  - name: Schützenfest 1951
+    type: event
+  - name: Molkerei
+    type: building
+  - name: Elbdeich
+    type: building
+parents:
+  - 01FEEW1K0P7657HFN4R8JBV1AC
+files:
+  - role: main
+    original_name: scan_293.tif
+    path: files/56/cc/56cca06aad6391fccf78dd990b46cfbf9e68713f5d36bcba53bc9f344e2bbd1f/original.tif
+    sha256: 56cca06aad6391fccf78dd990b46cfbf9e68713f5d36bcba53bc9f344e2bbd1f
+    mime: image/tiff
+    bytes: 27481973
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/56/cc/56cca06aad6391fccf78dd990b46cfbf9e68713f5d36bcba53bc9f344e2bbd1f/preview-400.261b09439f9a.jpg
+        sha256: 261b09439f9a0a0defa0b5d560f770b6997ab63516b1e9aa106e5b145066a224
+        mime: image/jpeg
+        bytes: 46182
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

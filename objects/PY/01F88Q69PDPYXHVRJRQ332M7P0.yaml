@@ -1,0 +1,69 @@
+id: 01F88Q69PDPYXHVRJRQ332M7P0
+type: document
+subtype: letter
+title: Dankschreiben Theatergruppe
+date: 1908/1911
+location: Salzwedel, Brunnen am Markt
+geocode:
+  lat: 53.0788
+  lon: 11.6751
+  precision: region
+  source: osm
+recipient: Otto Hennings
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: F 39/362
+owner:
+  name: Ilse Dreyer
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Horst Kuhlmann
+    type: person
+  - name: Hochzeit 1908
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_32m7p0_001.tif
+    path: files/3a/e1/3ae13638639510b207345a3720381b0ca7c5de2e70b230d0686d316e5a17ca88/original.tif
+    sha256: 3ae13638639510b207345a3720381b0ca7c5de2e70b230d0686d316e5a17ca88
+    mime: image/tiff
+    bytes: 452852
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3a/e1/3ae13638639510b207345a3720381b0ca7c5de2e70b230d0686d316e5a17ca88/preview-400.653ce2f528ff.jpg
+        sha256: 653ce2f528ff6821713c40df718c9cb26ac8c3a05506b39772222eca727c7a04
+        mime: image/jpeg
+        bytes: 41047
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_32m7p0_002.tif
+    path: files/d1/f8/d1f8c9f8ceec737c0eea539443b4b97b9abee4385d9be81cc3ffa5003730242d/original.tif
+    sha256: d1f8c9f8ceec737c0eea539443b4b97b9abee4385d9be81cc3ffa5003730242d
+    mime: image/tiff
+    bytes: 10932230
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d1/f8/d1f8c9f8ceec737c0eea539443b4b97b9abee4385d9be81cc3ffa5003730242d/preview-400.150d96003a22.jpg
+        sha256: 150d96003a22bbddebb40010a34890250313f7c8a32b403236cea137c1299b30
+        mime: image/jpeg
+        bytes: 36080
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

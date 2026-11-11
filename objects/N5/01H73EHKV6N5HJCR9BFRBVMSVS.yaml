@@ -1,0 +1,40 @@
+id: 01H73EHKV6N5HJCR9BFRBVMSVS
+type: image
+subtype: drawing
+title: Entwurf für Grenzturm, Gülden
+date: 1963-02
+location: Gülden, Hinter den Höfen
+geocode:
+  lat: 53.0351
+  lon: 11.6163
+  precision: exact
+  source: osm
+origin:
+  name: Hedwig Heuer
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+files:
+  - role: main
+    original_name: scan_928.tif
+    path: files/66/72/6672558acf052676614557520164986e8933d54d69a0264e9c5a9a386ab2808c/original.tif
+    sha256: 6672558acf052676614557520164986e8933d54d69a0264e9c5a9a386ab2808c
+    mime: image/tiff
+    bytes: 19060098
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/66/72/6672558acf052676614557520164986e8933d54d69a0264e9c5a9a386ab2808c/preview-400.e0d93f40818d.jpg
+        sha256: e0d93f40818d7b3ce4e40840b715f04d79d9f65f2a7a58f786d91bc34a6438c4
+        mime: image/jpeg
+        bytes: 35061
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

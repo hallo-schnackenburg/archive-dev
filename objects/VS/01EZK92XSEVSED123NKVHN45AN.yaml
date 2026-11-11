@@ -1,0 +1,44 @@
+id: 01EZK92XSEVSED123NKVHN45AN
+type: image
+subtype: photo
+title: Bahnhof in Wustrow
+description: Zu sehen sind Tanzsaal und Poststelle.
+date: 1905?
+origin:
+  name: Renate Krüger
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 25/070
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Einschulung 1905
+    type: event
+  - name: Maifeier 1905
+    type: event
+parents:
+  - 01EWSDA9HNCJV2FVTXNNBEB0AC
+files:
+  - role: main
+    original_name: scan_697.tif
+    path: files/b1/df/b1df9341cde0bc430b834e27192951c734fec636ba32c91c176ba72372206d1d/original.tif
+    sha256: b1df9341cde0bc430b834e27192951c734fec636ba32c91c176ba72372206d1d
+    mime: image/tiff
+    bytes: 22258125
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b1/df/b1df9341cde0bc430b834e27192951c734fec636ba32c91c176ba72372206d1d/preview-400.ae6001289b5b.jpg
+        sha256: ae6001289b5b29c0c2930c21b22f59b82a24bae625421a70945d1e5c7a678988
+        mime: image/jpeg
+        bytes: 43732
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

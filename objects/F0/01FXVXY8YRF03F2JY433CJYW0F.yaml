@@ -1,0 +1,37 @@
+id: 01FXVXY8YRF03F2JY433CJYW0F
+type: image
+subtype: plan
+title: Deichplan Gülden bis Lanz
+date: 1896-06-10
+origin:
+  name: Friedrich Schulz
+  type: person
+  location: Gülden
+subjects:
+  - name: Walter Gerdes
+    type: person
+  - name: Marta Ludolf
+    type: person
+parents:
+  - 01KZ4MB5E6YQFP0FDWJ529S5A8
+files:
+  - role: main
+    original_name: scan_828.tif
+    path: files/e3/05/e3054bfbac1763b9d73af54c96f60dfec185990524fefd5a247cbf4f56787164/original.tif
+    sha256: e3054bfbac1763b9d73af54c96f60dfec185990524fefd5a247cbf4f56787164
+    mime: image/tiff
+    bytes: 16684655
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e3/05/e3054bfbac1763b9d73af54c96f60dfec185990524fefd5a247cbf4f56787164/preview-400.995ffd5bb78f.jpg
+        sha256: 995ffd5bb78f09c6692bb6b5ca5d417c6cb4ec2f49a7332ed790272664eee568
+        mime: image/jpeg
+        bytes: 25978
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Person links unbekannt.

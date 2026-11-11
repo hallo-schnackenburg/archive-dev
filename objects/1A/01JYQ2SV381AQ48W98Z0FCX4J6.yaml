@@ -1,0 +1,39 @@
+id: 01JYQ2SV381AQ48W98Z0FCX4J6
+type: image
+subtype: print
+title: Postkarte Hitzacker, Torhaus
+description: Kupferstich, koloriert.
+date: 1872-01
+location: Seedorf, Kirchstraße
+geocode:
+  lat: 52.9787
+  lon: 11.5942
+  precision: region
+  source: osm
+origin:
+  name: Wilhelm Lenz
+  type: person
+  location: Wustrow
+subjects:
+  - name: Fähranleger
+    type: building
+files:
+  - role: main
+    original_name: scan_693.tif
+    path: files/8f/5e/8f5ee6b3edc10ec4cecddf8a9f124e91b6c94aa7c38a655f5a16a7442e89ef77/original.tif
+    sha256: 8f5ee6b3edc10ec4cecddf8a9f124e91b6c94aa7c38a655f5a16a7442e89ef77
+    mime: image/tiff
+    bytes: 17086244
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/8f/5e/8f5ee6b3edc10ec4cecddf8a9f124e91b6c94aa7c38a655f5a16a7442e89ef77/preview-400.90f1e4401860.jpg
+        sha256: 90f1e4401860bc09ac074ff8975ce799c380b12d3c3f9246e6fa9ea270d4d2b6
+        mime: image/jpeg
+        bytes: 21191
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

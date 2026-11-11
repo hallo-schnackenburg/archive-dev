@@ -1,0 +1,45 @@
+id: 01EZ2Z0RZS0FS5KPR6SMK9XM04
+type: document
+subtype: note
+title: Quittung für Emma Lemke
+description: Beleg mit Stempel.
+date: "1885"
+location: Gollensdorf, Hafenstraße
+geocode:
+  lat: 52.9768
+  lon: 11.5609
+  precision: town
+  source: osm
+origin:
+  name: Erika Dreyer
+  type: person
+  location: Gorleben
+language: de
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Feuerwehrübung 1885
+    type: event
+parents:
+  - 01GT4AQMYDQV6X3W40VS0A09TX
+files:
+  - role: page
+    num: 1
+    original_name: note_k9xm04_001.tif
+    path: files/c7/7e/c77ef3ebdca25fb53146e477884ead3e0fd63f1892dbc24d097d61a158c9c6b4/original.tif
+    sha256: c77ef3ebdca25fb53146e477884ead3e0fd63f1892dbc24d097d61a158c9c6b4
+    mime: image/tiff
+    bytes: 2424840
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c7/7e/c77ef3ebdca25fb53146e477884ead3e0fd63f1892dbc24d097d61a158c9c6b4/preview-400.2376b10da295.jpg
+        sha256: 2376b10da295b4e05b40a8fd0cf0340506f80f739635a9ffca5784523cadc1d8
+        mime: image/jpeg
+        bytes: 42551
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

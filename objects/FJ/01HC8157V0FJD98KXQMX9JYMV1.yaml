@@ -1,0 +1,40 @@
+id: 01HC8157V0FJD98KXQMX9JYMV1
+type: image
+subtype: print
+title: Postkarte Dömitz, Elbdeich
+description: Kupferstich, koloriert.
+date: 1890-07-01
+location: Lüchow, Gartenstraße
+geocode:
+  lat: 52.9093
+  lon: 11.6596
+  precision: street
+  source: osm
+origin:
+  name: Hans Lemke
+  type: person
+  location: Arendsee
+owner:
+  name: Ursula Fricke
+  type: person
+  note: Leihgabe
+files:
+  - role: main
+    original_name: scan_774.tif
+    path: files/b8/b9/b8b96a9e6c6fa8a520cd919d20ba939885116559dba8581a57a09143895b10d1/original.tif
+    sha256: b8b96a9e6c6fa8a520cd919d20ba939885116559dba8581a57a09143895b10d1
+    mime: image/tiff
+    bytes: 8456424
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b8/b9/b8b96a9e6c6fa8a520cd919d20ba939885116559dba8581a57a09143895b10d1/preview-400.be388d6cd17c.jpg
+        sha256: be388d6cd17c4755594f093562fae58b9a13b9cb2d5e1162a56abe7e9cc51916
+        mime: image/jpeg
+        bytes: 31651
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

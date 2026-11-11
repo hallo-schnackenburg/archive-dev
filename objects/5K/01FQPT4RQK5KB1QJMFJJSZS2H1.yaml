@@ -1,0 +1,36 @@
+id: 01FQPT4RQK5KB1QJMFJJSZS2H1
+type: image
+subtype: photo
+title: Dorfladen in Gollensdorf
+description: Farbfoto, leicht verblasst.
+date: 1900-03-17
+location: Lüchow, Scheune
+origin:
+  name: Wilhelm Heuer
+  type: person
+  location: Havelberg
+subjects:
+  - name: Konfirmation 1900
+    type: event
+parents:
+  - 01KB43N3WF3CCAY1BW6XZDFMAY
+files:
+  - role: main
+    original_name: foto_5008.jpg
+    path: files/ca/57/ca578e0fbdc6f21f2df63090593ebb1449b7fb58c726f030209b5695c5b5016f/original.jpg
+    sha256: ca578e0fbdc6f21f2df63090593ebb1449b7fb58c726f030209b5695c5b5016f
+    mime: image/jpeg
+    bytes: 12801601
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ca/57/ca578e0fbdc6f21f2df63090593ebb1449b7fb58c726f030209b5695c5b5016f/preview-400.1dc509360075.jpg
+        sha256: 1dc5093600756548c82e39548f010a0e5316f87ae4e0e329b91fb3eebb57eebf
+        mime: image/jpeg
+        bytes: 81446
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01FAAFASBP7E0S9K7PY5MFHJGQ
+type: image
+subtype: plan
+title: Bauplan Poststelle 1972
+date: 1972/1982
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan/Album 28/075
+  note: Kellerarchiv
+subjects:
+  - name: Kirmes 1972
+    type: event
+  - name: Badestelle
+    type: building
+files:
+  - role: main
+    original_name: scan_610.tif
+    path: files/a1/9e/a19efa17b344c0f7919a4f29dfbf20fe39e063a3b03a930cbe5802b14ef0de5d/original.tif
+    sha256: a19efa17b344c0f7919a4f29dfbf20fe39e063a3b03a930cbe5802b14ef0de5d
+    mime: image/tiff
+    bytes: 9406902
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a1/9e/a19efa17b344c0f7919a4f29dfbf20fe39e063a3b03a930cbe5802b14ef0de5d/preview-400.cfd67282916f.jpg
+        sha256: cfd67282916f6be7a8b3ffbc051022a1cc7244eddde87619a306a332bd2300a8
+        mime: image/jpeg
+        bytes: 56356
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

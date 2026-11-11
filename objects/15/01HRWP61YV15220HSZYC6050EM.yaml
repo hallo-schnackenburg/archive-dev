@@ -1,0 +1,39 @@
+id: 01HRWP61YV15220HSZYC6050EM
+type: image
+subtype: photo
+title: Sturmschaden 1910
+description: Farbfoto, leicht verblasst.
+location: Wootz, Mühlenweg
+origin:
+  name: Frieda Kuhlmann
+  type: person
+  location: Gorleben
+subjects:
+  - name: Gülden
+    type: place
+  - name: Heinrich Wegner
+    type: person
+  - name: Holtorf
+    type: place
+parents:
+  - 01K8Q87E3JR4C3K8F7DC83NBAE
+files:
+  - role: main
+    original_name: IMG_1028.jpg
+    path: files/92/a0/92a079873a5772fadf279783b8c994df08c3cf2bbc905bf0c82b28adf1abff92/original.jpg
+    sha256: 92a079873a5772fadf279783b8c994df08c3cf2bbc905bf0c82b28adf1abff92
+    mime: image/jpeg
+    bytes: 22213763
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/92/a0/92a079873a5772fadf279783b8c994df08c3cf2bbc905bf0c82b28adf1abff92/preview-400.02e34ff62536.jpg
+        sha256: 02e34ff62536df9cb9bee5998d4c62de3880662dfa96017398f0c28c2d5f08df
+        mime: image/jpeg
+        bytes: 59068
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

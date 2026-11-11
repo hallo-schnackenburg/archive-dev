@@ -1,0 +1,88 @@
+id: 01KCP4BTJCX8MZCGY2N7RJ17WP
+type: document
+subtype: letter
+title: Feldpostbrief von Berta Krüger
+location: Wootz, Grenzturm
+geocode:
+  lat: 52.9152
+  lon: 11.5692
+  precision: exact
+  source: osm
+origin:
+  name: Hans Bohlmann
+  type: person
+  location: Wustrow
+recipient: Friedrich Bohlmann
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F 33/011
+subjects:
+  - name: Osterfeuer 1895
+    type: event
+  - name: Fährjubiläum 1895
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_rj17wp_001.tif
+    path: files/c0/99/c09940cb91df7cbf009ac768e5931db2b8cc55caec0377a55ce82e8bff6b851b/original.tif
+    sha256: c09940cb91df7cbf009ac768e5931db2b8cc55caec0377a55ce82e8bff6b851b
+    mime: image/tiff
+    bytes: 19936120
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c0/99/c09940cb91df7cbf009ac768e5931db2b8cc55caec0377a55ce82e8bff6b851b/preview-400.5a80baaf00c9.jpg
+        sha256: 5a80baaf00c9171d1e9869f802e6e53617a9d036a5ca482e95554d8e51e78cb7
+        mime: image/jpeg
+        bytes: 45023
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_rj17wp_002.tif
+    path: files/c2/10/c21049f1dc2129caf34a1df0a499f4cd2a95dc4dae31bc62fabad24a7b2845a3/original.tif
+    sha256: c21049f1dc2129caf34a1df0a499f4cd2a95dc4dae31bc62fabad24a7b2845a3
+    mime: image/tiff
+    bytes: 20977651
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/10/c21049f1dc2129caf34a1df0a499f4cd2a95dc4dae31bc62fabad24a7b2845a3/preview-400.198b1659fdc8.jpg
+        sha256: 198b1659fdc8ad6b958a77f1a59b6a4c63b7d734e70d8494b677603e17a6ff07
+        mime: image/jpeg
+        bytes: 31041
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_rj17wp_003.tif
+    path: files/9b/fc/9bfc58fda3c3db8b951f463fbfd5ad25662941799510f08a1bb83e43054049ee/original.tif
+    sha256: 9bfc58fda3c3db8b951f463fbfd5ad25662941799510f08a1bb83e43054049ee
+    mime: image/tiff
+    bytes: 5391411
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9b/fc/9bfc58fda3c3db8b951f463fbfd5ad25662941799510f08a1bb83e43054049ee/preview-400.4b97b5f60442.jpg
+        sha256: 4b97b5f604428707d0b58d4d73ba4186c766e2cd1290fafad0a74d4eda7ea2b8
+        mime: image/jpeg
+        bytes: 21830
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

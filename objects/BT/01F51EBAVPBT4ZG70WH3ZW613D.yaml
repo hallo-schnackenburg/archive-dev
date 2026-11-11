@@ -1,0 +1,75 @@
+id: 01F51EBAVPBT4ZG70WH3ZW613D
+type: document
+subtype: letter
+title: Korrespondenz Ursula Lenz
+description: Mit Umschlag und Briefmarke.
+origin:
+  name: Berta Lemke
+  type: person
+  location: Gollensdorf
+recipient: Karl Schulz
+language: de
+subjects:
+  - name: Viehmarkt 1932
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_zw613d_001.tif
+    path: files/fe/c8/fec80df5e1a6f9f5d64fa69b75a5096f9b9476c85b8dd5594ea875884213d6da/original.tif
+    sha256: fec80df5e1a6f9f5d64fa69b75a5096f9b9476c85b8dd5594ea875884213d6da
+    mime: image/tiff
+    bytes: 11817458
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fe/c8/fec80df5e1a6f9f5d64fa69b75a5096f9b9476c85b8dd5594ea875884213d6da/preview-400.a6bb682d6623.jpg
+        sha256: a6bb682d66237733cab67fe9bfc5412499d6cafe5400b4a8bcf956a4255bbfd3
+        mime: image/jpeg
+        bytes: 60510
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_zw613d_002.tif
+    path: files/cd/ad/cdade690c40a1894f1562e123e4b485efab74d3bc110426ecb73bd3962a3f229/original.tif
+    sha256: cdade690c40a1894f1562e123e4b485efab74d3bc110426ecb73bd3962a3f229
+    mime: image/tiff
+    bytes: 12735033
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/ad/cdade690c40a1894f1562e123e4b485efab74d3bc110426ecb73bd3962a3f229/preview-400.401f9ac7a6df.jpg
+        sha256: 401f9ac7a6df9152a670ad0d0bb2e764968505e7d78d10eef092ea7b8ad657f2
+        mime: image/jpeg
+        bytes: 69570
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_zw613d_003.tif
+    path: files/86/5c/865c716790842c3d823019ee8aae7a57f76e74764d480d778b5c310a2371137b/original.tif
+    sha256: 865c716790842c3d823019ee8aae7a57f76e74764d480d778b5c310a2371137b
+    mime: image/tiff
+    bytes: 23497220
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/5c/865c716790842c3d823019ee8aae7a57f76e74764d480d778b5c310a2371137b/preview-400.b8bd97fd9631.jpg
+        sha256: b8bd97fd9631e752bf7b537e9b53e5e1194a9659f9d415ff124f3298f5153057
+        mime: image/jpeg
+        bytes: 86979
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

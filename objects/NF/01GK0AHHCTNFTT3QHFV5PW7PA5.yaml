@@ -1,0 +1,41 @@
+id: 01GK0AHHCTNFTT3QHFV5PW7PA5
+type: image
+subtype: drawing
+title: Skizze Kapern, Hafenstraße, Schnackenburg
+date: 1971-02-02
+location: Schnackenburg, Gartenstraße
+geocode:
+  lat: 52.9915
+  lon: 11.6518
+  precision: exact
+  source: osm
+origin:
+  name: Dieter Krüger
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok 30/207
+files:
+  - role: main
+    original_name: scan_003.tif
+    path: files/75/e3/75e3b654ff6e22ec0dcfab43aa888676a34d26adf258f2233a6f048f317b2f0b/original.tif
+    sha256: 75e3b654ff6e22ec0dcfab43aa888676a34d26adf258f2233a6f048f317b2f0b
+    mime: image/tiff
+    bytes: 4162264
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/75/e3/75e3b654ff6e22ec0dcfab43aa888676a34d26adf258f2233a6f048f317b2f0b/preview-400.af6ab798a0aa.jpg
+        sha256: af6ab798a0aa8b19dc466ad9dc3f6c99778176e46999b53fe1dc1dfbfe079362
+        mime: image/jpeg
+        bytes: 32957
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

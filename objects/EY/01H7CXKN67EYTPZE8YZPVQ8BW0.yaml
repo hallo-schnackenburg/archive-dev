@@ -1,0 +1,36 @@
+id: 01H7CXKN67EYTPZE8YZPVQ8BW0
+type: image
+subtype: photo
+title: Schützenfest 1916
+description: Farbfoto, leicht verblasst.
+date: 1916-06-14
+origin:
+  name: Gustav Pape
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Elbdeich
+    type: building
+parents:
+  - 01JFKAQQ0R80TT983HC9766EP1
+  - 01FDG2W8NWMVK48918J24FXBW9
+files:
+  - role: main
+    original_name: IMG_9498.jpg
+    path: files/91/d6/91d6a86d5f6d4398b6d289e32ea054c1bd1c6d1b4e6fdfaaad0a8b064fc05d89/original.jpg
+    sha256: 91d6a86d5f6d4398b6d289e32ea054c1bd1c6d1b4e6fdfaaad0a8b064fc05d89
+    mime: image/jpeg
+    bytes: 5265710
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/91/d6/91d6a86d5f6d4398b6d289e32ea054c1bd1c6d1b4e6fdfaaad0a8b064fc05d89/preview-400.c014c186f43e.jpg
+        sha256: c014c186f43eba073f6092b463953bfda4bde2a8213edc5e19d51c6d27309a11
+        mime: image/jpeg
+        bytes: 54776
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,95 @@
+id: 01G25Q4X30BBFP2FJCJDPX3A23
+type: document
+subtype: letter
+title: Zeugnis für Ilse Rohde
+date: "1881"
+location: Lanz, Schützenhaus
+geocode:
+  lat: 52.9469
+  lon: 11.5705
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Brandt
+  type: person
+  location: Gülden
+recipient: Frieda Lüders
+language: fr
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 17/034
+  note: Dachboden, Truhe
+subjects:
+  - name: Straßenfest 1881
+    type: event
+  - name: Schlachterei
+    type: building
+  - name: Walter Wiese
+    type: person
+parents:
+  - 01K031Q9A4VAM2ZR0E2Y2SQX6S
+  - 01GSWGF0TVVWPKF3HT3DSA6W3N
+files:
+  - role: page
+    num: 1
+    original_name: letter_px3a23_001.tif
+    path: files/98/7b/987bb9ced29c8aaefe48c868f34422b921fe220ab53bc03c0f8f06ce95dadb1e/original.tif
+    sha256: 987bb9ced29c8aaefe48c868f34422b921fe220ab53bc03c0f8f06ce95dadb1e
+    mime: image/tiff
+    bytes: 17394301
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/98/7b/987bb9ced29c8aaefe48c868f34422b921fe220ab53bc03c0f8f06ce95dadb1e/preview-400.c5807af50c72.jpg
+        sha256: c5807af50c72c3dc564e05f3cb83392d1659e6aa0aabb3536a5b4255c9ffbbdc
+        mime: image/jpeg
+        bytes: 58430
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_px3a23_002.tif
+    path: files/26/6c/266c5f5df8f667a318f85dc1e3bf2edab09623a5b7a5a2d9eb11ced8a07296a3/original.tif
+    sha256: 266c5f5df8f667a318f85dc1e3bf2edab09623a5b7a5a2d9eb11ced8a07296a3
+    mime: image/tiff
+    bytes: 20779204
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/6c/266c5f5df8f667a318f85dc1e3bf2edab09623a5b7a5a2d9eb11ced8a07296a3/preview-400.11ac3dfe7115.jpg
+        sha256: 11ac3dfe7115fcc31acc91fee9eed8518296dda2bad2f7c63700fd57ac578f10
+        mime: image/jpeg
+        bytes: 36371
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_px3a23_003.tif
+    path: files/e9/53/e953ce81481a2f22935b1d133a542113a3afaff1346964f99259fa3a78531c4d/original.tif
+    sha256: e953ce81481a2f22935b1d133a542113a3afaff1346964f99259fa3a78531c4d
+    mime: image/tiff
+    bytes: 11007681
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e9/53/e953ce81481a2f22935b1d133a542113a3afaff1346964f99259fa3a78531c4d/preview-400.012acf64e2c8.jpg
+        sha256: 012acf64e2c8c66e8e30c7b17c8c254e6ae9962026df7313f11d5cf0f3762bec
+        mime: image/jpeg
+        bytes: 30347
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01G3N46FE1SB10BCF34PZZMDZV
+type: image
+subtype: drawing
+title: Entwurf für Tanzsaal, Havelberg
+date: "1896"
+origin:
+  name: Albert Wöhlk
+  type: person
+  location: Lenzen
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Apotheke
+    type: building
+parents:
+  - 01GV8MKHYPAWB1MAEXCSAW38CR
+files:
+  - role: main
+    original_name: scan_063.tif
+    path: files/fb/9d/fb9da28f89fcbbbba0e9bf7d10c7b0e42685aa87b0e8d38f4987b5ef9f75ca99/original.tif
+    sha256: fb9da28f89fcbbbba0e9bf7d10c7b0e42685aa87b0e8d38f4987b5ef9f75ca99
+    mime: image/tiff
+    bytes: 25439152
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fb/9d/fb9da28f89fcbbbba0e9bf7d10c7b0e42685aa87b0e8d38f4987b5ef9f75ca99/preview-400.bed3da1770c7.jpg
+        sha256: bed3da1770c711e801b6d4a798b0249eaaea486d92413ebbea966b71ea47c8f2
+        mime: image/jpeg
+        bytes: 83943
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

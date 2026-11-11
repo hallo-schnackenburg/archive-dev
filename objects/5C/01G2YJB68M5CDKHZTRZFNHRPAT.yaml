@@ -1,0 +1,43 @@
+id: 01G2YJB68M5CDKHZTRZFNHRPAT
+type: image
+subtype: photo
+title: Arbeiter beim Heuen
+location: Schnackenburg, Bahnhofstraße
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br/Album 2/005
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Nienwalde
+    type: place
+parents:
+  - 01JZ2DVH8HN29KX4QQA51CQ13F
+  - 01KY8J1GDY4VAD5089QJXPNM2S
+files:
+  - role: main
+    original_name: IMG_4708.jpg
+    path: files/0c/89/0c896f124a9ce64149daf365ab0e2c0d7413d21531040d18e461401bcc6de9da/original.jpg
+    sha256: 0c896f124a9ce64149daf365ab0e2c0d7413d21531040d18e461401bcc6de9da
+    mime: image/jpeg
+    bytes: 9812273
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0c/89/0c896f124a9ce64149daf365ab0e2c0d7413d21531040d18e461401bcc6de9da/preview-400.611fcd686f39.jpg
+        sha256: 611fcd686f39387a806b335a2313dad8a784614e0a6548c7d170b00064a79d66
+        mime: image/jpeg
+        bytes: 70771
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

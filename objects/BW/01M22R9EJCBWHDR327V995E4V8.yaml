@@ -1,0 +1,37 @@
+id: 01M22R9EJCBWHDR327V995E4V8
+type: image
+subtype: drawing
+title: Skizze Schnackenburg, Lange Straße
+description: Mit Anmerkungen am Rand.
+date: 1878/1881
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  note: Bücherregal links
+subjects:
+  - name: Brückeneinweihung 1878
+    type: event
+parents:
+  - 01H633W1F1PMRNTS6MYSVBSE45
+files:
+  - role: main
+    original_name: scan_082.tif
+    path: files/00/12/0012fc03f95d50b6131fe67763f36ecdeeac5705c241f2403a8eb2faf4aad01b/original.tif
+    sha256: 0012fc03f95d50b6131fe67763f36ecdeeac5705c241f2403a8eb2faf4aad01b
+    mime: image/tiff
+    bytes: 2358862
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/00/12/0012fc03f95d50b6131fe67763f36ecdeeac5705c241f2403a8eb2faf4aad01b/preview-400.ee2cc17353f5.jpg
+        sha256: ee2cc17353f5c244dd6ac0a43c35006198aa214afbb28eb35bec38f3f235a75b
+        mime: image/jpeg
+        bytes: 65525
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

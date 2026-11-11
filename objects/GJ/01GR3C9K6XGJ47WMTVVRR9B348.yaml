@@ -1,0 +1,38 @@
+id: 01GR3C9K6XGJ47WMTVVRR9B348
+type: image
+subtype: print
+title: Lithographie Tanzsaal, Schnackenburg
+description: Lithographie, Rand beschnitten.
+date: 194X
+location: Lüchow, Gartenstraße
+origin:
+  name: Heinrich Wöhlk
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro 20/105
+  note: Bücherregal links
+files:
+  - role: main
+    original_name: scan_110.tif
+    path: files/01/10/0110517434e419879d8b449c3bf78afb53dda79159d290b28a733a94f3438e46/original.tif
+    sha256: 0110517434e419879d8b449c3bf78afb53dda79159d290b28a733a94f3438e46
+    mime: image/tiff
+    bytes: 21124434
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/01/10/0110517434e419879d8b449c3bf78afb53dda79159d290b28a733a94f3438e46/preview-400.8af71a34f6c3.jpg
+        sha256: 8af71a34f6c3fa861330a9061f8a2bf154e34697b5512f80583ece6439374e3d
+        mime: image/jpeg
+        bytes: 55722
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

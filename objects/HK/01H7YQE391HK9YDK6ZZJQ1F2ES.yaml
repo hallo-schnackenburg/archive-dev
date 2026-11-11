@@ -1,0 +1,45 @@
+id: 01H7YQE391HK9YDK6ZZJQ1F2ES
+type: image
+subtype: plan
+title: Deichplan Zadrau bis Kapern, Wustrow
+description: Maßstab 1:250.
+date: 1995-08-26
+location: Pretzier, Mühle
+origin:
+  name: Walter Meyer
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 5/192
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Karl Eggers
+    type: person
+parents:
+  - 01FYF46BCNWMPMBZAF8Z3VZK3Y
+  - 01KJHV4RZ8X5ZNWBC3B15QV0TT
+files:
+  - role: main
+    original_name: scan_704.tif
+    path: files/ee/53/ee53e0f29d242f0b3fb6413da27ae371709c4faeba7c99f791f8ffdf55b5e5c8/original.tif
+    sha256: ee53e0f29d242f0b3fb6413da27ae371709c4faeba7c99f791f8ffdf55b5e5c8
+    mime: image/tiff
+    bytes: 21086886
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ee/53/ee53e0f29d242f0b3fb6413da27ae371709c4faeba7c99f791f8ffdf55b5e5c8/preview-400.3327ccce06fd.jpg
+        sha256: 3327ccce06fd24bd9d16860e77e41f44b40fb51adffe6b51145f570e3aa08d9d
+        mime: image/jpeg
+        bytes: 36078
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

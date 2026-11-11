@@ -1,0 +1,44 @@
+id: 01GSPR28G29FSAAD5467Y90EA4
+type: image
+subtype: photo
+title: Heinrich Hennings vor dem Pfarrhaus
+date: 1940-11-06
+location: Arendsee, Pumpenhaus
+geocode:
+  lat: 53.0517
+  lon: 11.6529
+  precision: town
+  source: osm
+origin:
+  name: Hermann Lemke
+  type: person
+  location: Lanz
+subjects:
+  - name: Grenzöffnung 1940
+    type: event
+  - name: Wittenberge
+    type: place
+  - name: Kartoffelernte 1940
+    type: event
+parents:
+  - 01FKKV9TY32Q9KHAS0G1HP77R3
+files:
+  - role: main
+    original_name: P2972.jpg
+    path: files/f6/41/f641988d8d57f291658e43d0cc4262b96bb72ab64a6db9627a84bb7253b375fc/original.jpg
+    sha256: f641988d8d57f291658e43d0cc4262b96bb72ab64a6db9627a84bb7253b375fc
+    mime: image/jpeg
+    bytes: 14611285
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/f6/41/f641988d8d57f291658e43d0cc4262b96bb72ab64a6db9627a84bb7253b375fc/preview-400.7a2c1761f343.jpg
+        sha256: 7a2c1761f343758ce40ff73a3ed07500d8ab93108aecbe43d5c6920b066713a2
+        mime: image/jpeg
+        bytes: 82229
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

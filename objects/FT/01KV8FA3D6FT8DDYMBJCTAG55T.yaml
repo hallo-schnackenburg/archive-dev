@@ -1,0 +1,40 @@
+id: 01KV8FA3D6FT8DDYMBJCTAG55T
+type: image
+subtype: plan
+title: Katasterblatt Kuhlmann
+description: Tusche auf Transparentpapier.
+date: "1841"
+location: Zadrau, Gasthof Meyer
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 10/026
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: Brückeneinweihung 1841
+    type: event
+parents:
+  - 01F6ZQ7TEP2TBDEHF40VAF0GAD
+files:
+  - role: main
+    original_name: scan_618.tif
+    path: files/cc/8d/cc8d5ac3c038e6be8d9c5dccf09185b1a1575871dc0b04a97b31e468c9aaa493/original.tif
+    sha256: cc8d5ac3c038e6be8d9c5dccf09185b1a1575871dc0b04a97b31e468c9aaa493
+    mime: image/tiff
+    bytes: 16926615
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cc/8d/cc8d5ac3c038e6be8d9c5dccf09185b1a1575871dc0b04a97b31e468c9aaa493/preview-400.1ac10a1b9439.jpg
+        sha256: 1ac10a1b94399b9c66c42f40ec0416bb4045cdfe129f42592293eba49eb063df
+        mime: image/jpeg
+        bytes: 70459
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

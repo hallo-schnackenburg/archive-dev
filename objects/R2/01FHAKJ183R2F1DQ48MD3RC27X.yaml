@@ -1,0 +1,37 @@
+id: 01FHAKJ183R2F1DQ48MD3RC27X
+type: image
+subtype: print
+title: Postkarte Lenzen, Dorfschule
+date: "1947"
+location: Gülden, Am Elbdeich
+origin:
+  name: Erika Lemke
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 2/008
+  note: Kellerarchiv
+files:
+  - role: main
+    original_name: scan_321.tif
+    path: files/3b/e4/3be4316d32fac4956d06e49f4e12e627e42450d70cb6063b0ab75e3df79c69ff/original.tif
+    sha256: 3be4316d32fac4956d06e49f4e12e627e42450d70cb6063b0ab75e3df79c69ff
+    mime: image/tiff
+    bytes: 9424131
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3b/e4/3be4316d32fac4956d06e49f4e12e627e42450d70cb6063b0ab75e3df79c69ff/preview-400.f8281d163d31.jpg
+        sha256: f8281d163d31a933637bd712b6369404162d9ca1ba7c84401a3e433530e5e6d4
+        mime: image/jpeg
+        bytes: 77099
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

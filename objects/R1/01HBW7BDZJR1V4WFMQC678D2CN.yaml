@@ -1,0 +1,45 @@
+id: 01HBW7BDZJR1V4WFMQC678D2CN
+type: image
+subtype: photo
+title: Ursula Behrens vor dem Gemeindehaus
+description: Aufnahme von Helga Gaede.
+date: 1965-09-17
+location: Wittenberge, Bahnhof
+geocode:
+  lat: 53.0908
+  lon: 11.6563
+  precision: street
+  source: osm
+origin:
+  name: Karl Matthies
+  type: person
+  location: Pretzier
+subjects:
+  - name: Laase
+    type: place
+  - name: Osterfeuer 1965
+    type: event
+  - name: Heinrich Krüger
+    type: person
+parents:
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+files:
+  - role: main
+    original_name: scan_099.tif
+    path: files/63/15/63155cef52167e0df11a074d6e9c13371a80050422c06cc66ce020429c240485/original.tif
+    sha256: 63155cef52167e0df11a074d6e9c13371a80050422c06cc66ce020429c240485
+    mime: image/tiff
+    bytes: 27427832
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/63/15/63155cef52167e0df11a074d6e9c13371a80050422c06cc66ce020429c240485/preview-400.4a78044bc4cc.jpg
+        sha256: 4a78044bc4cc8b999f39b75cef301def4d8f32fbe1c1fbe641b9162917474ad7
+        mime: image/jpeg
+        bytes: 86343
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01KXJT58WN0B1Z7BW53XF8CT3K
+type: image
+subtype: photo
+title: Emma Bohlmann vor dem Brunnen am Markt
+location: Kapern, Hinter den Höfen
+geocode:
+  lat: 53.045
+  lon: 11.5079
+  precision: town
+  source: osm
+origin:
+  name: Lotte Meyer
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro/Kasten 11/108
+files:
+  - role: main
+    original_name: DSC7637.jpg
+    path: files/7c/aa/7caa9ee5eb4f04a2e0572d6f1e4d82e8e3ebf079fbd0d3f5f1fee1cb78002176/original.jpg
+    sha256: 7caa9ee5eb4f04a2e0572d6f1e4d82e8e3ebf079fbd0d3f5f1fee1cb78002176
+    mime: image/jpeg
+    bytes: 19650695
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7c/aa/7caa9ee5eb4f04a2e0572d6f1e4d82e8e3ebf079fbd0d3f5f1fee1cb78002176/preview-400.dace477296d3.jpg
+        sha256: dace477296d3ff1e5751a0b987d19b7334c501b068399118aa7a4944ab3972f6
+        mime: image/jpeg
+        bytes: 78988
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

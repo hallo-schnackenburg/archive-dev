@@ -1,0 +1,43 @@
+id: 01H6ZE3MARZ83E0FE6GS7X3X0Y
+type: image
+subtype: photo
+title: Blick vom Poststelle auf das Gemeindehaus
+description: Farbfoto, leicht verblasst.
+date: "1920"
+location: Hitzacker, Schulstraße
+geocode:
+  lat: 53.0858
+  lon: 11.6702
+  precision: street
+  source: osm
+origin:
+  name: Christa Krüger
+  type: person
+  location: Gartow
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Zadrau
+    type: place
+  - name: Konfirmation 1920
+    type: event
+files:
+  - role: main
+    original_name: P3250.jpg
+    path: files/6b/6a/6b6a200b6dc2e7ca84bd7fa8e33086eb3b561945fb37cd801c282991efa4991f/original.jpg
+    sha256: 6b6a200b6dc2e7ca84bd7fa8e33086eb3b561945fb37cd801c282991efa4991f
+    mime: image/jpeg
+    bytes: 13482954
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/6b/6a/6b6a200b6dc2e7ca84bd7fa8e33086eb3b561945fb37cd801c282991efa4991f/preview-400.910401fae3bb.jpg
+        sha256: 910401fae3bb45b174a0a5c2efcdeabec4790c2ea4793e351b7e2784523813f1
+        mime: image/jpeg
+        bytes: 33867
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

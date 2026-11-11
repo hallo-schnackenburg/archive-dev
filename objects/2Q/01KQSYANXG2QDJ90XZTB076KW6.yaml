@@ -1,0 +1,93 @@
+id: 01KQSYANXG2QDJ90XZTB076KW6
+type: document
+subtype: letter
+title: Brief von Käthe Schulz an Friedrich Wegner
+description: Betrifft Brandversicherung.
+date: 1862-07-17
+location: Lüchow, Hinter den Höfen
+geocode:
+  lat: 52.9652
+  lon: 11.5126
+  precision: town
+  source: osm
+origin:
+  name: Irmgard Lüders
+  type: person
+  location: Gorleben
+recipient: Ursula Tiedemann
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan 1/048
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v13595
+subjects:
+  - name: Heinrich Pape
+    type: person
+  - name: Viehmarkt 1862
+    type: event
+parents:
+  - 01G488M9Q0MA5PAK1E0A8Z23Y9
+files:
+  - role: page
+    num: 1
+    original_name: letter_076kw6_001.tif
+    path: files/aa/eb/aaeb3a163c563e7269870fa4085fa490f7adf77b8cdfc9438be744a65f54cf7a/original.tif
+    sha256: aaeb3a163c563e7269870fa4085fa490f7adf77b8cdfc9438be744a65f54cf7a
+    mime: image/tiff
+    bytes: 23313569
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/aa/eb/aaeb3a163c563e7269870fa4085fa490f7adf77b8cdfc9438be744a65f54cf7a/preview-400.7f4f47157530.jpg
+        sha256: 7f4f4715753080e7db1bbd332041a76d36147df3b80d6b41a1315d84e450b750
+        mime: image/jpeg
+        bytes: 33182
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_076kw6_002.tif
+    path: files/e5/8f/e58fd39de692fc5e5a078960baa9aabc175640d128a3d03a709323fb1127fdbb/original.tif
+    sha256: e58fd39de692fc5e5a078960baa9aabc175640d128a3d03a709323fb1127fdbb
+    mime: image/tiff
+    bytes: 13748779
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e5/8f/e58fd39de692fc5e5a078960baa9aabc175640d128a3d03a709323fb1127fdbb/preview-400.f0862e0f5b9c.jpg
+        sha256: f0862e0f5b9ca5360df71ead535f86095e0dff827c439da1f51ccf5eede68f1a
+        mime: image/jpeg
+        bytes: 85170
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_076kw6_003.tif
+    path: files/2e/e4/2ee4fea80d08c7502b326eed4cd64d5fdd693ba764250dcd37f393af5eec6fdd/original.tif
+    sha256: 2ee4fea80d08c7502b326eed4cd64d5fdd693ba764250dcd37f393af5eec6fdd
+    mime: image/tiff
+    bytes: 2838054
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/e4/2ee4fea80d08c7502b326eed4cd64d5fdd693ba764250dcd37f393af5eec6fdd/preview-400.0f92f5e61c41.jpg
+        sha256: 0f92f5e61c41348589877395ab333013e9963eb8e335687f850cdc31a6ba4c16
+        mime: image/jpeg
+        bytes: 79443
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

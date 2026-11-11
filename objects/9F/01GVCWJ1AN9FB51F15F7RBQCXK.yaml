@@ -1,0 +1,48 @@
+id: 01GVCWJ1AN9FB51F15F7RBQCXK
+type: image
+subtype: photo
+title: Wilhelm Nitschke, Porträt
+description: Abzug im Format 6 x 9 cm.
+location: Kapern, Friedhofskapelle
+origin:
+  name: Karl Krüger
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Album 2/014
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v75381
+owner:
+  name: Lotte Wegner
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Brunnen am Markt
+    type: building
+  - name: Fährjubiläum 1906
+    type: event
+  - name: Erika Dreyer
+    type: person
+files:
+  - role: main
+    original_name: foto_7077.jpg
+    path: files/a2/e1/a2e1f37c4380417e8b0f325e95afcf32b94e78660d21924fc73a048edaa62311/original.jpg
+    sha256: a2e1f37c4380417e8b0f325e95afcf32b94e78660d21924fc73a048edaa62311
+    mime: image/jpeg
+    bytes: 9377432
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/a2/e1/a2e1f37c4380417e8b0f325e95afcf32b94e78660d21924fc73a048edaa62311/preview-400.3b7f20922105.jpg
+        sha256: 3b7f209221057f3eaa8519e30f944be0ff5ce4a8cfb9dc8a7f49cb3e112e07cc
+        mime: image/jpeg
+        bytes: 65209
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

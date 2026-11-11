@@ -1,0 +1,32 @@
+id: 01FWBA8TEY01SXE8N5T83ZS7G2
+type: image
+subtype: photo
+title: Paul Voss, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01HC0SR9SYX64FFEJNDSMWXADW
+files:
+  - role: main
+    original_name: P8995.jpg
+    path: files/f3/c0/f3c00fde16200dc16ed9e7c8eb16fd9701ea6d460852e03d9220d854f3215024/original.jpg
+    sha256: f3c00fde16200dc16ed9e7c8eb16fd9701ea6d460852e03d9220d854f3215024
+    mime: image/jpeg
+    bytes: 4705480
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/f3/c0/f3c00fde16200dc16ed9e7c8eb16fd9701ea6d460852e03d9220d854f3215024/preview-400.9e45e4c07876.jpg
+        sha256: 9e45e4c07876f56944adc8f8e3e0b05c61ed8b99055d5b1533db2e78f4329330
+        mime: image/jpeg
+        bytes: 62963
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01GZ0Z7279SYQ1KZQBF2BHNJZB
+type: image
+subtype: plan
+title: Bauplan Friedhofskapelle 1874
+date: "1874"
+location: Nienwalde, Burgstraße
+origin:
+  name: Karl Jeß
+  type: person
+  location: Arendsee
+subjects:
+  - name: Einweihung 1874
+    type: event
+  - name: Hedwig Tiedemann
+    type: person
+files:
+  - role: main
+    original_name: scan_356.tif
+    path: files/ea/99/ea9903a2d0b7085d022e6686126fe35e15ec4994c90b5d811bc38af30d7b3966/original.tif
+    sha256: ea9903a2d0b7085d022e6686126fe35e15ec4994c90b5d811bc38af30d7b3966
+    mime: image/tiff
+    bytes: 7893774
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ea/99/ea9903a2d0b7085d022e6686126fe35e15ec4994c90b5d811bc38af30d7b3966/preview-400.b4dc36f14f6f.jpg
+        sha256: b4dc36f14f6fc375ac15cdc5a4bec54b0a3adcfb2d2110566da2d0b9c33c2998
+        mime: image/jpeg
+        bytes: 82465
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

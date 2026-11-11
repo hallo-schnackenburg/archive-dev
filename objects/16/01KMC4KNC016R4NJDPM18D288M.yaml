@@ -1,0 +1,39 @@
+id: 01KMC4KNC016R4NJDPM18D288M
+type: image
+subtype: photo
+title: Friedhofskapelle in Havelberg
+description: Aufnahme von Hermann Lüders.
+date: 1989-03-25
+location: Havelberg, Apotheke
+geocode:
+  lat: 53.0433
+  lon: 11.498
+  precision: street
+  source: osm
+subjects:
+  - name: Sturmschaden 1989
+    type: event
+  - name: Grenzöffnung 1989
+    type: event
+  - name: Wilhelm Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_119.tif
+    path: files/a3/e4/a3e48433b496a25a4f52d9b5c92dbfe21ee35268f299fcddd3374b2079950033/original.tif
+    sha256: a3e48433b496a25a4f52d9b5c92dbfe21ee35268f299fcddd3374b2079950033
+    mime: image/tiff
+    bytes: 12371106
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a3/e4/a3e48433b496a25a4f52d9b5c92dbfe21ee35268f299fcddd3374b2079950033/preview-400.fe5455633d6f.jpg
+        sha256: fe5455633d6f4178cb68123c1571ab59bb383c26c23a206ef72681bda7a01201
+        mime: image/jpeg
+        bytes: 86105
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

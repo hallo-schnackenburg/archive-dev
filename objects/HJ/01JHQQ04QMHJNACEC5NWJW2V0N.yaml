@@ -1,0 +1,32 @@
+id: 01JHQQ04QMHJNACEC5NWJW2V0N
+type: image
+subtype: plan
+title: Flurkarte Gülden
+description: Mit handschriftlichen Ergänzungen.
+origin:
+  name: Renate Hartwig
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Käthe Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_168.tif
+    path: files/d7/08/d70846929e24f36c87d2395104e5d56519fec0605580d532a2c9108af5f7270f/original.tif
+    sha256: d70846929e24f36c87d2395104e5d56519fec0605580d532a2c9108af5f7270f
+    mime: image/tiff
+    bytes: 22290501
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/08/d70846929e24f36c87d2395104e5d56519fec0605580d532a2c9108af5f7270f/preview-400.d99619e0738e.jpg
+        sha256: d99619e0738ea7add2d8a9fc277fdc61911d15c21f335168d4a5d9923169bd9b
+        mime: image/jpeg
+        bytes: 76834
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

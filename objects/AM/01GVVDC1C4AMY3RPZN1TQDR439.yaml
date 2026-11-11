@@ -1,0 +1,57 @@
+id: 01GVVDC1C4AMY3RPZN1TQDR439
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Kirchenchor 1862
+date: 1862~
+location: Holtorf, Am Markt
+origin:
+  name: Verbandsversammlung Nienwalde
+  type: business
+  location: Lüchow
+language: de
+subjects:
+  - name: Fährjubiläum 1862
+    type: event
+parents:
+  - 01K5TW5781NJJRQNS4RN8CYBN2
+files:
+  - role: page
+    num: 1
+    original_name: protocol_qdr439_001.tif
+    path: files/d6/0a/d60ada3d2c79c5d5c0cfa267e9fe4e59271f470d9c5c201c1766bca8dc0721e6/original.tif
+    sha256: d60ada3d2c79c5d5c0cfa267e9fe4e59271f470d9c5c201c1766bca8dc0721e6
+    mime: image/tiff
+    bytes: 16060517
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d6/0a/d60ada3d2c79c5d5c0cfa267e9fe4e59271f470d9c5c201c1766bca8dc0721e6/preview-400.4f06f8fea1d7.jpg
+        sha256: 4f06f8fea1d7bb63297b594849415f6b7c875f6fed53b4dc1fbcb6ffe15c57fb
+        mime: image/jpeg
+        bytes: 84440
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_qdr439_002.tif
+    path: files/d1/24/d1241da3575c65b2fd01c95e0b165a10872eace0f6f7e68675482d914948876b/original.tif
+    sha256: d1241da3575c65b2fd01c95e0b165a10872eace0f6f7e68675482d914948876b
+    mime: image/tiff
+    bytes: 26434965
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d1/24/d1241da3575c65b2fd01c95e0b165a10872eace0f6f7e68675482d914948876b/preview-400.31f84f6f2fc1.jpg
+        sha256: 31f84f6f2fc15a88960440b7880187a31dcb669191c2b3cc5274af40c9b6d0fd
+        mime: image/jpeg
+        bytes: 52308
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

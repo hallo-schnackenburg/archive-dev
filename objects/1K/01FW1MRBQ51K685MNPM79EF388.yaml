@@ -1,0 +1,46 @@
+id: 01FW1MRBQ51K685MNPM79EF388
+type: image
+subtype: photo
+title: Deicharbeiten der Kriegerverein
+description: Abzug im Format 10 x 15 cm.
+location: Lenzen, Dorfstraße
+geocode:
+  lat: 53.035
+  lon: 11.4564
+  precision: exact
+  source: osm
+origin:
+  name: Paul Dierks
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 14/312
+subjects:
+  - name: Kapern
+    type: place
+  - name: Kegelbahn
+    type: building
+files:
+  - role: main
+    original_name: DSC9292.jpg
+    path: files/a5/af/a5af0ddd4473733bf332efdb75f67d0248381bf3666e928a53b94b7160813855/original.jpg
+    sha256: a5af0ddd4473733bf332efdb75f67d0248381bf3666e928a53b94b7160813855
+    mime: image/jpeg
+    bytes: 761240
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a5/af/a5af0ddd4473733bf332efdb75f67d0248381bf3666e928a53b94b7160813855/preview-400.0b0561e9f5a7.jpg
+        sha256: 0b0561e9f5a78824182808476378c0fa59c56d646bd02f9b7b251da987244a2c
+        mime: image/jpeg
+        bytes: 70991
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,46 @@
+id: 01HFYRY91EFDBRBE2TMQTS656A
+type: image
+subtype: photo
+title: Emma Hartwig, Porträt
+description: Abzug im Format 10 x 15 cm.
+date: 1993-11-04
+location: Gollensdorf, Lange Straße
+origin:
+  name: Hans Heuer
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Familie Kuhlmann
+    type: person
+    location: Holtorf
+  reference: Slg 40/321
+  note: Planschrank, Fach 3
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Karl Rieke
+    type: person
+parents:
+  - 01KT1B4YZD11RXC8P8PMNGFW3D
+  - 01FC66HKE682WMFYDMATY4QA8H
+files:
+  - role: main
+    original_name: scan_504.tif
+    path: files/0e/68/0e68a49f4314e3064f2d22669b8c8250a311868ef4fab860cb477006a890e10d/original.tif
+    sha256: 0e68a49f4314e3064f2d22669b8c8250a311868ef4fab860cb477006a890e10d
+    mime: image/tiff
+    bytes: 9240348
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0e/68/0e68a49f4314e3064f2d22669b8c8250a311868ef4fab860cb477006a890e10d/preview-400.edbc41ea19cd.jpg
+        sha256: edbc41ea19cd0bb9e5bf9b2232fcf9169a5d4ef385876348f5535f7b88c86491
+        mime: image/jpeg
+        bytes: 26079
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

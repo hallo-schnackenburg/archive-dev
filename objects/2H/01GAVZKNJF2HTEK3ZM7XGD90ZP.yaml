@@ -1,0 +1,43 @@
+id: 01GAVZKNJF2HTEK3ZM7XGD90ZP
+type: image
+subtype: print
+title: Postkarte Holtorf, Dorfladen
+description: Lithographie, Rand beschnitten.
+date: 1798-05
+location: Kapern, Kirchstraße
+origin:
+  name: Otto Hennings
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Einweihung 1798
+    type: event
+  - name: Elfriede Hennings
+    type: person
+parents:
+  - 01KSQSSGDYWJ8WM96BXT4QY5Z0
+files:
+  - role: main
+    original_name: scan_447.tif
+    path: files/e0/f6/e0f6bf598d4e9ca1f6d05589e88dcba7936603f3673edf4de6c756d0a49a5ae7/original.tif
+    sha256: e0f6bf598d4e9ca1f6d05589e88dcba7936603f3673edf4de6c756d0a49a5ae7
+    mime: image/tiff
+    bytes: 1482476
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e0/f6/e0f6bf598d4e9ca1f6d05589e88dcba7936603f3673edf4de6c756d0a49a5ae7/preview-400.1b671a3b5c06.jpg
+        sha256: 1b671a3b5c06ac233176d3678456a3a015e0988ad16664710cd04e9231d64ed1
+        mime: image/jpeg
+        bytes: 62441
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

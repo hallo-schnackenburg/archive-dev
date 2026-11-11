@@ -1,0 +1,43 @@
+id: 01GM4VBG10KKH0E3KG7801SYMD
+type: image
+subtype: print
+title: Postkarte Laase, Feuerwehrhaus
+description: Lithographie, Rand beschnitten.
+date: "1708"
+location: Wittenberge, Am Markt
+geocode:
+  lat: 52.9156
+  lon: 11.6925
+  precision: region
+  source: osm
+origin:
+  name: Dieter Sievers
+  type: person
+  location: Laase
+subjects:
+  - name: Erika Schulz
+    type: person
+  - name: Ingrid Wegner
+    type: person
+  - name: Rudolf Behrens
+    type: person
+files:
+  - role: main
+    original_name: scan_997.tif
+    path: files/7d/0d/7d0d554e831dd3fc82f082a5bcbdad30935cd014d5126682a498a5caeee8adcd/original.tif
+    sha256: 7d0d554e831dd3fc82f082a5bcbdad30935cd014d5126682a498a5caeee8adcd
+    mime: image/tiff
+    bytes: 16760220
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7d/0d/7d0d554e831dd3fc82f082a5bcbdad30935cd014d5126682a498a5caeee8adcd/preview-400.a13af680e7e5.jpg
+        sha256: a13af680e7e5b4cb579cb53305f49e67a6c84e16bfe76f122c3ed6adc4960902
+        mime: image/jpeg
+        bytes: 80885
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

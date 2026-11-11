@@ -1,0 +1,41 @@
+id: 01FRV02DYEKF7Y13BXC6HFEQNF
+type: image
+subtype: print
+title: Postkarte Lüchow, Kaufmannshaus
+date: "1943"
+location: Seedorf, Lange Straße
+origin:
+  name: Marta Jeß
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Mappe 11/111
+subjects:
+  - name: Heinrich Voss
+    type: person
+  - name: Friedhofskapelle
+    type: building
+files:
+  - role: main
+    original_name: scan_262.tif
+    path: files/32/66/32660c9d1926dfd60da5b1ac08c8166f8775328dc832257c78805d13581d9d91/original.tif
+    sha256: 32660c9d1926dfd60da5b1ac08c8166f8775328dc832257c78805d13581d9d91
+    mime: image/tiff
+    bytes: 9378034
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/32/66/32660c9d1926dfd60da5b1ac08c8166f8775328dc832257c78805d13581d9d91/preview-400.ac4ddb510ae6.jpg
+        sha256: ac4ddb510ae680c2e53d9411a3d293c5fb06883e65ab972b009169419a828c57
+        mime: image/jpeg
+        bytes: 75880
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

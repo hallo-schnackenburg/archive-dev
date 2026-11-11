@@ -1,0 +1,36 @@
+id: 01KJE0TH8N84JK2P01HH08MPJG
+type: image
+subtype: plan
+title: Bauplan Heuberge 1922
+date: 1922-09
+origin:
+  name: Ilse Lemke
+  type: person
+  location: Dömitz
+owner:
+  name: Hans Ahrens
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Ladestraße
+    type: building
+files:
+  - role: main
+    original_name: scan_914.tif
+    path: files/97/f3/97f354f65f4bdf16ff00d8162ce0997f17e9e6e0db6683235ba23b067a9c549e/original.tif
+    sha256: 97f354f65f4bdf16ff00d8162ce0997f17e9e6e0db6683235ba23b067a9c549e
+    mime: image/tiff
+    bytes: 19122732
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/f3/97f354f65f4bdf16ff00d8162ce0997f17e9e6e0db6683235ba23b067a9c549e/preview-400.31d6c45b2700.jpg
+        sha256: 31d6c45b2700d04bc4ac514cacfec5e04046918e7658c59498aa7f0fbc3b654b
+        mime: image/jpeg
+        bytes: 84569
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

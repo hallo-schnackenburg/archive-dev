@@ -1,0 +1,40 @@
+id: 01H5A0HDVS8XJS4TCQAC5JC9V6
+type: image
+subtype: photo
+title: Familie Voss beim Fährjubiläum
+description: Zu sehen sind Tischlerei Bruns und Grenzturm.
+date: 1954-05-05
+location: Holtorf, Deichstraße
+origin:
+  name: Gustav Voss
+  type: person
+  location: Arendsee
+subjects:
+  - name: Hafen
+    type: building
+  - name: Kartoffelernte 1954
+    type: event
+  - name: Dorfschule
+    type: building
+parents:
+  - 01KT1B4YZD11RXC8P8PMNGFW3D
+files:
+  - role: main
+    original_name: foto_8049.jpg
+    path: files/9c/30/9c309570e2e245a6d0df159d5db24fee2b50f96c5f231a96849142df3156bb1a/original.jpg
+    sha256: 9c309570e2e245a6d0df159d5db24fee2b50f96c5f231a96849142df3156bb1a
+    mime: image/jpeg
+    bytes: 11189711
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/9c/30/9c309570e2e245a6d0df159d5db24fee2b50f96c5f231a96849142df3156bb1a/preview-400.5fda44df4115.jpg
+        sha256: 5fda44df4115809de4f1d0356e270ce98022743907f2c47064aae8ff2a413fa1
+        mime: image/jpeg
+        bytes: 59286
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

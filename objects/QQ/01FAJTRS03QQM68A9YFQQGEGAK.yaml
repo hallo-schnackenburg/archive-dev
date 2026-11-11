@@ -1,0 +1,39 @@
+id: 01FAJTRS03QQM68A9YFQQGEGAK
+type: image
+subtype: photo
+title: Poststelle in Kapern
+description: Abzug im Format 13 x 18 cm.
+date: 1933-06-12
+location: Seedorf, Elbstraße
+geocode:
+  lat: 53.088
+  lon: 11.6166
+  precision: street
+  source: osm
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Gartow
+parents:
+  - 01JZXBT98ER840PDJR2YFFBCZR
+  - 01K07SKN5ZQ3VDE1287C9C0F74
+files:
+  - role: main
+    original_name: DSC5966.jpg
+    path: files/22/e3/22e3f2cb53fe78beb5e6d0fd6b24d5176e5cdc5aeb5a55e7059ff1413698cbe8/original.jpg
+    sha256: 22e3f2cb53fe78beb5e6d0fd6b24d5176e5cdc5aeb5a55e7059ff1413698cbe8
+    mime: image/jpeg
+    bytes: 10207492
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/22/e3/22e3f2cb53fe78beb5e6d0fd6b24d5176e5cdc5aeb5a55e7059ff1413698cbe8/preview-400.7b5cfbe816e1.jpg
+        sha256: 7b5cfbe816e161fc0030dc4004dc59347e1d72de689cb0fbbbb621fc8f454af1
+        mime: image/jpeg
+        bytes: 80942
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

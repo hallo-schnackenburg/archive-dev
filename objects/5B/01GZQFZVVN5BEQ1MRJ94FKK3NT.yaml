@@ -1,0 +1,60 @@
+id: 01GZQFZVVN5BEQ1MRJ94FKK3NT
+type: document
+subtype: letter
+title: Brief von Wilhelm Dreyer an Paul Heuer
+date: 1816-11
+location: Bömenzien, Försterei
+origin:
+  name: Karl Eggers
+  type: person
+  location: Bömenzien
+recipient: Wilhelm Voss
+language: de
+subjects:
+  - name: Kaufmannshaus
+    type: building
+  - name: Schützenfest 1816
+    type: event
+parents:
+  - 01GG9H557FNKNNHZ67KS9WW423
+files:
+  - role: page
+    num: 1
+    original_name: letter_fkk3nt_001.tif
+    path: files/df/7d/df7db85fc82d860137d575b2ed9338301e6de8944dee8054a62aba6f665dae1a/original.tif
+    sha256: df7db85fc82d860137d575b2ed9338301e6de8944dee8054a62aba6f665dae1a
+    mime: image/tiff
+    bytes: 19729317
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/df/7d/df7db85fc82d860137d575b2ed9338301e6de8944dee8054a62aba6f665dae1a/preview-400.691061a44275.jpg
+        sha256: 691061a442757e4357276dce3d2951aebf80331b4492f0d6f0bdc346913824d4
+        mime: image/jpeg
+        bytes: 42584
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_fkk3nt_002.tif
+    path: files/1b/b3/1bb387e4fd965ef8290f19adfed799dee20b99e3b050824b9a93535aed11b657/original.tif
+    sha256: 1bb387e4fd965ef8290f19adfed799dee20b99e3b050824b9a93535aed11b657
+    mime: image/tiff
+    bytes: 17047763
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1b/b3/1bb387e4fd965ef8290f19adfed799dee20b99e3b050824b9a93535aed11b657/preview-400.85938ec90e55.jpg
+        sha256: 85938ec90e55dd25976b042abcdbe73807b1338782e99dcc1a776b8a88ff3294
+        mime: image/jpeg
+        bytes: 66572
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

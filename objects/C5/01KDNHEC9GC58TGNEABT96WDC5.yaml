@@ -1,0 +1,30 @@
+id: 01KDNHEC9GC58TGNEABT96WDC5
+type: image
+subtype: photo
+title: Eisgang 1931
+description: Zu sehen sind Mühle und Kegelbahn.
+location: Brünkendorf, Am Elbdeich
+origin:
+  name: Berta Bruns
+  type: person
+  location: Gartow
+files:
+  - role: main
+    original_name: DSC5295.jpg
+    path: files/a8/e7/a8e7e348795ac4cb44820820e5cace522b4c56204364c6c8f3fec44c36ac380f/original.jpg
+    sha256: a8e7e348795ac4cb44820820e5cace522b4c56204364c6c8f3fec44c36ac380f
+    mime: image/jpeg
+    bytes: 19216428
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/a8/e7/a8e7e348795ac4cb44820820e5cace522b4c56204364c6c8f3fec44c36ac380f/preview-400.cb10ae9d963e.jpg
+        sha256: cb10ae9d963eb2a37f12c1719a29f4e85f49169febcd18b805be9cb35e5abecb
+        mime: image/jpeg
+        bytes: 36819
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

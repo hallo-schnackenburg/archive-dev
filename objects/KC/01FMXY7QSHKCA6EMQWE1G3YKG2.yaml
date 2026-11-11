@@ -1,0 +1,36 @@
+id: 01FMXY7QSHKCA6EMQWE1G3YKG2
+type: image
+subtype: print
+title: Postkarte Lanz, Försterei
+description: Kupferstich, koloriert.
+date: 1777-06-26
+origin:
+  name: Werner Jürgens
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg/Kasten 5/069
+files:
+  - role: main
+    original_name: scan_223.tif
+    path: files/85/c5/85c582a3439e51e91cb2e660dd4ee6927f062898011b2688d18f6d775957c518/original.tif
+    sha256: 85c582a3439e51e91cb2e660dd4ee6927f062898011b2688d18f6d775957c518
+    mime: image/tiff
+    bytes: 24142194
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/85/c5/85c582a3439e51e91cb2e660dd4ee6927f062898011b2688d18f6d775957c518/preview-400.63650cd3c265.jpg
+        sha256: 63650cd3c265144ea90bcc55b70439965aa7a242ffb65bb1668caac92dbe8567
+        mime: image/jpeg
+        bytes: 32840
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

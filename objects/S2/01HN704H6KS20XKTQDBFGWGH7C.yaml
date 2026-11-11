@@ -1,0 +1,40 @@
+id: 01HN704H6KS20XKTQDBFGWGH7C
+type: image
+subtype: photo
+title: Hermann Sievers, Porträt
+description: Zu sehen sind Dorfladen und Speicher.
+date: 1987-06-18
+location: Arendsee, Deichstraße
+origin:
+  name: Hans Lüders
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 6/004
+  note: Kellerarchiv
+parents:
+  - 01HYFCM6DN6A2J5RK4P4H4GN9C
+files:
+  - role: main
+    original_name: DSC0312.jpg
+    path: files/fa/c6/fac6e77eda183d59834ee34828c2c51721bd1a93c444c2b4b95017eb759de052/original.jpg
+    sha256: fac6e77eda183d59834ee34828c2c51721bd1a93c444c2b4b95017eb759de052
+    mime: image/jpeg
+    bytes: 6333499
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/fa/c6/fac6e77eda183d59834ee34828c2c51721bd1a93c444c2b4b95017eb759de052/preview-400.cc8c78bf8d9d.jpg
+        sha256: cc8c78bf8d9d2a23b5ebcf554e51806c48573124ce59038ee8497bbf9ce17bac
+        mime: image/jpeg
+        bytes: 34387
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

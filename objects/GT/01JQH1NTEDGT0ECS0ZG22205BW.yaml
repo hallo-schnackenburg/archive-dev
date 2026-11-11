@@ -1,0 +1,46 @@
+id: 01JQH1NTEDGT0ECS0ZG22205BW
+type: image
+subtype: photo
+title: Paul Ahrens vor dem Gasthof Meyer
+description: Aufnahme von Helga Lemke.
+date: 1907-02
+location: Arendsee, Feuerwehrhaus
+geocode:
+  lat: 53.082
+  lon: 11.5557
+  precision: street
+  source: osm
+origin:
+  name: Erika Voss
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+  - name: Hitzacker
+    type: place
+files:
+  - role: main
+    original_name: IMG_9367.jpg
+    path: files/09/94/0994b6d90b19842bd003d6832a92860e76eb6e2da3658e38e8070fc1b9b9dd40/original.jpg
+    sha256: 0994b6d90b19842bd003d6832a92860e76eb6e2da3658e38e8070fc1b9b9dd40
+    mime: image/jpeg
+    bytes: 26334387
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/09/94/0994b6d90b19842bd003d6832a92860e76eb6e2da3658e38e8070fc1b9b9dd40/preview-400.75577742d2c9.jpg
+        sha256: 75577742d2c9052e5bbb2e63eee07f85e429f658d18e07657c81ac73527e2db4
+        mime: image/jpeg
+        bytes: 61840
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

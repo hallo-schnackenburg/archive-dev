@@ -1,0 +1,35 @@
+id: 01G66ACDF6H389JWSE967H8PHD
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Kartoffelernte"
+description: Bleistift auf Papier.
+date: 184X
+subjects:
+  - name: Sabine Brandt
+    type: person
+  - name: Zadrau
+    type: place
+  - name: Dorffest 1847
+    type: event
+parents:
+  - 01KX0R6PE6GGZKHT99TAR1XJN4
+files:
+  - role: main
+    original_name: scan_053.tif
+    path: files/fd/2f/fd2fdf488275c0ba9aefd06333de7f5d3318ff7311b33514cf1816fbb7450c1f/original.tif
+    sha256: fd2fdf488275c0ba9aefd06333de7f5d3318ff7311b33514cf1816fbb7450c1f
+    mime: image/tiff
+    bytes: 10048779
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fd/2f/fd2fdf488275c0ba9aefd06333de7f5d3318ff7311b33514cf1816fbb7450c1f/preview-400.5b1cf970ae10.jpg
+        sha256: 5b1cf970ae106b7f6aa4ce326c54d0ed3686b40ac5d6b7d7be03d27ab59ab5e8
+        mime: image/jpeg
+        bytes: 63701
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

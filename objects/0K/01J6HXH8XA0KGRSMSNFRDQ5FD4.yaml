@@ -1,0 +1,47 @@
+id: 01J6HXH8XA0KGRSMSNFRDQ5FD4
+type: image
+subtype: plan
+title: Bauplan Kaufmannshaus 1784
+date: 1784-02
+location: Nienwalde, Dorfstraße
+geocode:
+  lat: 53.0371
+  lon: 11.6587
+  precision: town
+  source: osm
+origin:
+  name: Gerda Brandt
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos/Album 16/015
+  note: Bücherregal links
+subjects:
+  - name: Hedwig Fricke
+    type: person
+  - name: Sportplatz
+    type: building
+files:
+  - role: main
+    original_name: scan_670.tif
+    path: files/c6/86/c686ef51f19ea4d9fa666c8065074eee2bd6a4b9cd323e383ff0c92a46faaec7/original.tif
+    sha256: c686ef51f19ea4d9fa666c8065074eee2bd6a4b9cd323e383ff0c92a46faaec7
+    mime: image/tiff
+    bytes: 20928766
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/86/c686ef51f19ea4d9fa666c8065074eee2bd6a4b9cd323e383ff0c92a46faaec7/preview-400.79718983dce0.jpg
+        sha256: 79718983dce0dc8e43597690e0f4b957b02a491e60260f720b5d36876e95eade
+        mime: image/jpeg
+        bytes: 62695
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

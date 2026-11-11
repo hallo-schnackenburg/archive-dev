@@ -1,0 +1,62 @@
+id: 01GQ4849T4BB0EN2XZ7KG5AZW8
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Salzwedel 1946
+date: 1946~
+location: Holtorf, Elbdeich
+geocode:
+  lat: 52.9175
+  lon: 11.5724
+  precision: exact
+  source: osm
+origin:
+  name: Ortsrat Wootz
+  type: business
+  location: Holtorf
+language: de
+subjects:
+  - name: Laase
+    type: place
+  - name: Fritz Voss
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: protocol_g5azw8_001.tif
+    path: files/cd/db/cddb258440687b55195262b59ee24f776fe220ee2cf94a3d04d8ef09c8f0762b/original.tif
+    sha256: cddb258440687b55195262b59ee24f776fe220ee2cf94a3d04d8ef09c8f0762b
+    mime: image/tiff
+    bytes: 23544108
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/db/cddb258440687b55195262b59ee24f776fe220ee2cf94a3d04d8ef09c8f0762b/preview-400.7fae1dc09ba1.jpg
+        sha256: 7fae1dc09ba14ae0e2797716397ae6a1ba49f8dc7c4054b6812135ebb51e04ef
+        mime: image/jpeg
+        bytes: 57699
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_g5azw8_002.tif
+    path: files/b4/0d/b40d95682e72bde7d7b9315bcaa7bc105b6dc0bf1b62fc7f8e95688f254b6656/original.tif
+    sha256: b40d95682e72bde7d7b9315bcaa7bc105b6dc0bf1b62fc7f8e95688f254b6656
+    mime: image/tiff
+    bytes: 4332540
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/0d/b40d95682e72bde7d7b9315bcaa7bc105b6dc0bf1b62fc7f8e95688f254b6656/preview-400.443a5ca14fd2.jpg
+        sha256: 443a5ca14fd2fe383c896ce8a86e99d222c29c9393fe4d0bdbd5cf82921aacef
+        mime: image/jpeg
+        bytes: 36340
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

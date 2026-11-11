@@ -1,0 +1,48 @@
+id: 01HV3CTB8CH1WHTQ6AC0FD96T5
+type: image
+subtype: drawing
+title: Wappenentwurf Brünkendorf, Gartow
+date: "1875"
+location: Rüterberg, Fährstraße
+geocode:
+  lat: 52.9485
+  lon: 11.6451
+  precision: street
+  source: osm
+origin:
+  name: Lotte Schwarz
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Familie Voss
+    type: person
+    location: Dömitz
+  note: Regal 1
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Karl Voss
+    type: person
+parents:
+  - 01J2543CRBVAV30G60F9GTRGZ4
+files:
+  - role: main
+    original_name: scan_609.tif
+    path: files/70/9f/709fb429ac5ac30dcedf59f70e6674ae0c770dac900a784d5d0b01d8c802a33f/original.tif
+    sha256: 709fb429ac5ac30dcedf59f70e6674ae0c770dac900a784d5d0b01d8c802a33f
+    mime: image/tiff
+    bytes: 719233
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/70/9f/709fb429ac5ac30dcedf59f70e6674ae0c770dac900a784d5d0b01d8c802a33f/preview-400.9a8c627f7871.jpg
+        sha256: 9a8c627f7871afa16d0a06499c2c5d4bd3b092da9ea0700b3c2a2cf66996a000
+        mime: image/jpeg
+        bytes: 52333
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

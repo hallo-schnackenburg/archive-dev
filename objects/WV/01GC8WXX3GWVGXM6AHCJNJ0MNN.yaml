@@ -1,0 +1,36 @@
+id: 01GC8WXX3GWVGXM6AHCJNJ0MNN
+type: image
+subtype: plan
+title: Bauplan Bahnhof 1992
+description: Mit handschriftlichen Ergänzungen.
+date: 1992-09-22
+location: Gorleben, Mühlenweg
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Kellerarchiv
+subjects:
+  - name: Sparkasse
+    type: building
+files:
+  - role: main
+    original_name: scan_492.tif
+    path: files/f2/05/f2050f6ad767fb5736a0395a6e75d80caafdcf4d3025464b4f3c9348c14c4a63/original.tif
+    sha256: f2050f6ad767fb5736a0395a6e75d80caafdcf4d3025464b4f3c9348c14c4a63
+    mime: image/tiff
+    bytes: 2201413
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f2/05/f2050f6ad767fb5736a0395a6e75d80caafdcf4d3025464b4f3c9348c14c4a63/preview-400.a01411a90f1f.jpg
+        sha256: a01411a90f1fb7508d57f4bb1b91e800123773b297294ebc4be786f3a88c6911
+        mime: image/jpeg
+        bytes: 43985
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01GCEPZR6JW16XNSGPW1RMKBBX
+type: image
+subtype: print
+title: "Holzschnitt: Sturmschaden, Cumlosen"
+description: Lithographie, Rand beschnitten.
+date: 1956-08
+origin:
+  name: Karl Tiedemann
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Album 30/075
+  note: Planschrank, Fach 3
+parents:
+  - 01KD7CS4EBG51K60J3B74H2VS5
+  - 01JZ2DVH8HN29KX4QQA51CQ13F
+files:
+  - role: main
+    original_name: scan_519.tif
+    path: files/48/c4/48c4a8aa480b0c1243ebdba3b6689d9ac20a3af394716fefee36e6ede948ea0e/original.tif
+    sha256: 48c4a8aa480b0c1243ebdba3b6689d9ac20a3af394716fefee36e6ede948ea0e
+    mime: image/tiff
+    bytes: 4131329
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/48/c4/48c4a8aa480b0c1243ebdba3b6689d9ac20a3af394716fefee36e6ede948ea0e/preview-400.d6981d929f5d.jpg
+        sha256: d6981d929f5dd3cd13c755f50573de08dd1f82fc26c0674b04d38c760d86e9c6
+        mime: image/jpeg
+        bytes: 37036
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

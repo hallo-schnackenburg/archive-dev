@@ -1,0 +1,68 @@
+id: 01JD3YXJNKH51B637J1WD4PY42
+type: document
+subtype: note
+title: Aktennotiz Kirchenvorstand, Arendsee
+description: Zettel, Bleistift.
+date: 1902-03
+location: Wootz, Hafenstraße
+geocode:
+  lat: 52.9753
+  lon: 11.537
+  precision: region
+  source: osm
+origin:
+  name: Emma Lüders
+  type: person
+  location: Wootz
+language: de
+subjects:
+  - name: Einweihung 1902
+    type: event
+  - name: Hochzeit 1902
+    type: event
+  - name: Cumlosen
+    type: place
+parents:
+  - 01F5AE2XPF50SXP9GWBFQRZ78K
+  - 01JAG0VN6X3TDF0BEKQ3Q9ZYWP
+files:
+  - role: page
+    num: 1
+    original_name: note_d4py42_001.tif
+    path: files/de/a5/dea59a21e029a1f0aed05f4c0fd61c65185b011e2ab9e739a93fdd8a0fde230b/original.tif
+    sha256: dea59a21e029a1f0aed05f4c0fd61c65185b011e2ab9e739a93fdd8a0fde230b
+    mime: image/tiff
+    bytes: 20758177
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/a5/dea59a21e029a1f0aed05f4c0fd61c65185b011e2ab9e739a93fdd8a0fde230b/preview-400.46b8e2a0aba8.jpg
+        sha256: 46b8e2a0aba870a7393d0feed7d7a955e28d2ec79f0d4e66d29f9b8f0426b6e7
+        mime: image/jpeg
+        bytes: 69475
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_d4py42_002.tif
+    path: files/0d/32/0d32c35a684c76bb4f07d63e4cfb4af138b1963e34f3d6f14fc682b16a6ad2b9/original.tif
+    sha256: 0d32c35a684c76bb4f07d63e4cfb4af138b1963e34f3d6f14fc682b16a6ad2b9
+    mime: image/tiff
+    bytes: 7482477
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0d/32/0d32c35a684c76bb4f07d63e4cfb4af138b1963e34f3d6f14fc682b16a6ad2b9/preview-400.2c528cef7331.jpg
+        sha256: 2c528cef7331ed1a4d6d45a5419ae6ee3e46aa147c04605f602834adbe7b1f3d
+        mime: image/jpeg
+        bytes: 59895
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

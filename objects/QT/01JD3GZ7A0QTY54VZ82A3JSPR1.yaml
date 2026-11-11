@@ -1,0 +1,48 @@
+id: 01JD3GZ7A0QTY54VZ82A3JSPR1
+type: image
+subtype: photo
+title: Einschulung 1899
+description: Zu sehen sind Rathaus und Windmühle.
+date: 1899-05-17
+location: Hitzacker, Hafenstraße
+geocode:
+  lat: 52.9042
+  lon: 11.5084
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg 35/351
+  note: Schrank B
+subjects:
+  - name: Viehmarkt 1899
+    type: event
+  - name: Dömitz
+    type: place
+  - name: Sturmschaden 1899
+    type: event
+parents:
+  - 01JSF9V4MEBDGEQJGPBJV20THW
+files:
+  - role: main
+    original_name: DSC0945.jpg
+    path: files/a6/fc/a6fc2c8c1d20865abb32b1badfd4cdff4bdb91146c6f398bb498df3daa410daa/original.jpg
+    sha256: a6fc2c8c1d20865abb32b1badfd4cdff4bdb91146c6f398bb498df3daa410daa
+    mime: image/jpeg
+    bytes: 5881097
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/a6/fc/a6fc2c8c1d20865abb32b1badfd4cdff4bdb91146c6f398bb498df3daa410daa/preview-400.3966f067c516.jpg
+        sha256: 3966f067c5161fac2d1252b20d00e5c45a7fe308078e861fbb38855c61b437ab
+        mime: image/jpeg
+        bytes: 77919
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

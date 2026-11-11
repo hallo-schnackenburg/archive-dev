@@ -1,0 +1,62 @@
+id: 01FGNE66EBPWNS877CJ3RHPEFX
+type: document
+subtype: note
+title: Quittung für Ernst Wöhlk
+date: 1901-04
+location: Gollensdorf, Schulstraße
+origin:
+  name: Gisela Meyer
+  type: person
+  location: Arendsee
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Einschulung 1901
+    type: event
+parents:
+  - 01H1BYEG5XEQ1GH8387CWBMF4H
+files:
+  - role: page
+    num: 1
+    original_name: note_rhpefx_001.tif
+    path: files/b1/83/b18340f6de0fc78a8c1f89ac993b6f5867196d9436246f6323f1928b0e68464b/original.tif
+    sha256: b18340f6de0fc78a8c1f89ac993b6f5867196d9436246f6323f1928b0e68464b
+    mime: image/tiff
+    bytes: 14113724
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b1/83/b18340f6de0fc78a8c1f89ac993b6f5867196d9436246f6323f1928b0e68464b/preview-400.b81664c22d2c.jpg
+        sha256: b81664c22d2c6e118172e7d2a1d0fa01605604a0769f79ebceebbccd88710209
+        mime: image/jpeg
+        bytes: 80353
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_rhpefx_002.tif
+    path: files/50/9d/509d394b2c958da5d7cf44058e4403fbe727ec24e2b0b04308140ca947995b4b/original.tif
+    sha256: 509d394b2c958da5d7cf44058e4403fbe727ec24e2b0b04308140ca947995b4b
+    mime: image/tiff
+    bytes: 14055215
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/9d/509d394b2c958da5d7cf44058e4403fbe727ec24e2b0b04308140ca947995b4b/preview-400.e9f9d58537c1.jpg
+        sha256: e9f9d58537c1fcdd77b1cf71bcf48f82841250cb6e5d81ddbbf426a363ce7608
+        mime: image/jpeg
+        bytes: 20415
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

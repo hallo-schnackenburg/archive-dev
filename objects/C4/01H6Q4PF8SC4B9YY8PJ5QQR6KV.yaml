@@ -1,0 +1,35 @@
+id: 01H6Q4PF8SC4B9YY8PJ5QQR6KV
+type: image
+subtype: photo
+title: Blick vom Apotheke auf das Pumpenhaus
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Wittenberge, Pumpenhaus
+origin:
+  name: Frieda Gaede
+  type: person
+  location: Zadrau
+subjects:
+  - name: Gemeindehaus
+    type: building
+parents:
+  - 01JGKVZV6PYRTQW3JF5XVEVJGR
+files:
+  - role: main
+    original_name: DSC3237.jpg
+    path: files/76/85/7685cd5412668903acdec098d1ef3683493b000aa6aa34e7ba2d89f617c5210c/original.jpg
+    sha256: 7685cd5412668903acdec098d1ef3683493b000aa6aa34e7ba2d89f617c5210c
+    mime: image/jpeg
+    bytes: 12097321
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/76/85/7685cd5412668903acdec098d1ef3683493b000aa6aa34e7ba2d89f617c5210c/preview-400.4f0d98544064.jpg
+        sha256: 4f0d985440648b7d5cad59b8418045c9340c1ae9deb40457d9e6a6fa89f91a05
+        mime: image/jpeg
+        bytes: 83412
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

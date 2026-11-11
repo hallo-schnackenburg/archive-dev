@@ -1,0 +1,36 @@
+id: 01J97PDNFERTG2A45F4CQKER5S
+type: image
+subtype: photo
+title: Grenzturm nach dem Hochwasser
+location: Pretzier, Marktstraße
+geocode:
+  lat: 52.9711
+  lon: 11.6747
+  precision: region
+  source: osm
+origin:
+  name: Walter Schulz
+  type: person
+  location: Gollensdorf
+parents:
+  - 01HTZ3ZVCQNEKM8ZRY48BPENG4
+files:
+  - role: main
+    original_name: P3707.jpg
+    path: files/07/84/0784b4d759b7b1613c7ee33c8b4cbc1c1286cf978203f5f06e570001c479dd51/original.jpg
+    sha256: 0784b4d759b7b1613c7ee33c8b4cbc1c1286cf978203f5f06e570001c479dd51
+    mime: image/jpeg
+    bytes: 1276576
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/07/84/0784b4d759b7b1613c7ee33c8b4cbc1c1286cf978203f5f06e570001c479dd51/preview-400.57c27ef1519f.jpg
+        sha256: 57c27ef1519f0f5da3b5e45f0bebca7948360a1e8c55d133a48bbcc5099a7e56
+        mime: image/jpeg
+        bytes: 80811
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

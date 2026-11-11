@@ -1,0 +1,36 @@
+id: 01K9CGCPDG65GS045ARH4XTWTR
+type: image
+subtype: photo
+title: Friedrich Ludolf, Porträt
+description: Farbfoto, leicht verblasst.
+date: "1921"
+location: Gartow, Am Markt
+origin:
+  name: Wilhelm Jeß
+  type: person
+  location: Lüchow
+subjects:
+  - name: Straßenfest 1921
+    type: event
+parents:
+  - 01GEC3BDXTCY5KT0RTA97873HE
+files:
+  - role: main
+    original_name: IMG_2817.jpg
+    path: files/5b/f8/5bf8db7cb422bcb9fc27ad97af97622ca60f0a51e0ab210fef9446016970547b/original.jpg
+    sha256: 5bf8db7cb422bcb9fc27ad97af97622ca60f0a51e0ab210fef9446016970547b
+    mime: image/jpeg
+    bytes: 18083994
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/5b/f8/5bf8db7cb422bcb9fc27ad97af97622ca60f0a51e0ab210fef9446016970547b/preview-400.49f9d1e37ccd.jpg
+        sha256: 49f9d1e37ccda22e29e52479757b3d459641181a7ccd45fffd349c2a033ebcaa
+        mime: image/jpeg
+        bytes: 87408
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

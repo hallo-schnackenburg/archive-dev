@@ -1,0 +1,45 @@
+id: 01FVKE40HQ180WEGF6W20RE66C
+type: image
+subtype: photo
+title: Am Markt, Ecke Am Elbdeich
+description: Zu sehen sind Backhaus und Friedhofskapelle.
+date: 1992-09-20
+location: Gartow, Hafen
+origin:
+  name: August Behrens
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan/Mappe 19/100
+  note: Kellerarchiv
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Wootz
+    type: place
+parents:
+  - 01J5VEM4DET47BYJHEPTWJ7T8Q
+files:
+  - role: main
+    original_name: scan_872.tif
+    path: files/22/f5/22f55db5d3a0909148052ac49eb42af6a445904a5c371c567a6055b5bb24110c/original.tif
+    sha256: 22f55db5d3a0909148052ac49eb42af6a445904a5c371c567a6055b5bb24110c
+    mime: image/tiff
+    bytes: 25630429
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/22/f5/22f55db5d3a0909148052ac49eb42af6a445904a5c371c567a6055b5bb24110c/preview-400.17f7f466886a.jpg
+        sha256: 17f7f466886a699e2fb777f0ce100ad3293254b2e00b422c0df0845bf35285fb
+        mime: image/jpeg
+        bytes: 86686
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01JVGV6FX50TAPN0VAJ8M7QYQJ
+type: image
+subtype: plan
+title: Bauplan Elbdeich 1868
+date: 1868-10-28
+location: Wustrow, Scheune
+geocode:
+  lat: 52.9149
+  lon: 11.5068
+  precision: town
+  source: osm
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Wootz
+    type: place
+parents:
+  - 01J7ZY57D3ECK0QYZPPDYBXEE3
+files:
+  - role: main
+    original_name: scan_588.tif
+    path: files/87/10/87107e8e8167cb7536fcb321afff59e672adaf7f8a1929e85573c387d16a98a2/original.tif
+    sha256: 87107e8e8167cb7536fcb321afff59e672adaf7f8a1929e85573c387d16a98a2
+    mime: image/tiff
+    bytes: 9391409
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/87/10/87107e8e8167cb7536fcb321afff59e672adaf7f8a1929e85573c387d16a98a2/preview-400.ba802a717ed8.jpg
+        sha256: ba802a717ed8791e38b0edf4ba55dc75fddf2da57e5e33e950c8879f9d8a65f3
+        mime: image/jpeg
+        bytes: 56970
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

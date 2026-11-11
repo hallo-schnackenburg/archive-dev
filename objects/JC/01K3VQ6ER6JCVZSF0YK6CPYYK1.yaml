@@ -1,0 +1,39 @@
+id: 01K3VQ6ER6JCVZSF0YK6CPYYK1
+type: image
+subtype: plan
+title: Bauplan Hafen 1898
+date: 1898-09
+location: Havelberg, Kindergarten
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 28/081
+subjects:
+  - name: Ilse Wegner
+    type: person
+  - name: Laase
+    type: place
+parents:
+  - 01GRNKDHCV8TZCTNMXGJA4SPF6
+files:
+  - role: main
+    original_name: scan_392.tif
+    path: files/5e/0b/5e0bb826f0da2a098c181e20716b49ebcd1aedf20e4b3864ae17c8f653069a13/original.tif
+    sha256: 5e0bb826f0da2a098c181e20716b49ebcd1aedf20e4b3864ae17c8f653069a13
+    mime: image/tiff
+    bytes: 18262337
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5e/0b/5e0bb826f0da2a098c181e20716b49ebcd1aedf20e4b3864ae17c8f653069a13/preview-400.3e079033768d.jpg
+        sha256: 3e079033768d0aff75bfbfdbac24a29a4274a1de78375b882303b0ba58604fc5
+        mime: image/jpeg
+        bytes: 75584
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

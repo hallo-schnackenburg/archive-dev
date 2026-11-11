@@ -1,0 +1,36 @@
+id: 01GWMF21GKKV7M5FYFXHX83GQN
+type: image
+subtype: photo
+title: Familie Krüger beim Maifeier
+description: Farbfoto, leicht verblasst.
+date: "1968"
+location: Pretzier, Deichstraße
+geocode:
+  lat: 53.0733
+  lon: 11.54
+  precision: street
+  source: osm
+origin:
+  name: Dieter Wiegmann
+  type: person
+  location: Dömitz
+files:
+  - role: main
+    original_name: DSC1616.jpg
+    path: files/e1/96/e196e71d41ad7c9522da98e3fa6429b3037f791e173fceb87a46e20234005afa/original.jpg
+    sha256: e196e71d41ad7c9522da98e3fa6429b3037f791e173fceb87a46e20234005afa
+    mime: image/jpeg
+    bytes: 10754756
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/e1/96/e196e71d41ad7c9522da98e3fa6429b3037f791e173fceb87a46e20234005afa/preview-400.09074748abcb.jpg
+        sha256: 09074748abcb57fb9c6372150ab87548bf0837fa8536f22d87bc8fbf60237537
+        mime: image/jpeg
+        bytes: 60889
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

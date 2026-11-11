@@ -1,0 +1,42 @@
+id: 01GW2Q7THCKS6W3ZNT74BE5W5W
+type: image
+subtype: photo
+title: Heinrich Lüders vor dem Rathaus
+description: Aufnahme von Paul Sievers.
+date: 1899-08-13
+location: Rüterberg, Am Markt
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 15/231
+subjects:
+  - name: Friedhofskapelle
+    type: building
+  - name: Brünkendorf
+    type: place
+  - name: Kindergartenfest 1899
+    type: event
+parents:
+  - 01FRX0E5WBRJXBRWAVHTPJCDE5
+files:
+  - role: main
+    original_name: P2458.jpg
+    path: files/13/a0/13a0c67681e6a06d663512a26dd3d0ad8c34bf6d594e74a3dddbea44c76bc949/original.jpg
+    sha256: 13a0c67681e6a06d663512a26dd3d0ad8c34bf6d594e74a3dddbea44c76bc949
+    mime: image/jpeg
+    bytes: 2010150
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/13/a0/13a0c67681e6a06d663512a26dd3d0ad8c34bf6d594e74a3dddbea44c76bc949/preview-400.3788d7799078.jpg
+        sha256: 3788d779907868ab24f78ebd77b9125854b5f6e5cd20e7af807b6e27d8e0ed1d
+        mime: image/jpeg
+        bytes: 29568
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

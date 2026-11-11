@@ -1,0 +1,38 @@
+id: 01EZ9QBDN4CWV32V1096GDQ10Q
+type: image
+subtype: photo
+title: Heinrich Klatt, Porträt
+description: Zu sehen sind Gemeindehaus und Grenzturm.
+date: "1952"
+location: Wootz, Fährstraße
+origin:
+  name: Ilse Brandt
+  type: person
+  location: Lüchow
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Helga Jeß
+    type: person
+  - name: Salzwedel
+    type: place
+files:
+  - role: main
+    original_name: DSC6265.jpg
+    path: files/bb/12/bb122c0df71c3f6d1d0fde5186e8e93b266952329e19e3bdf8fb53913d2f424f/original.jpg
+    sha256: bb122c0df71c3f6d1d0fde5186e8e93b266952329e19e3bdf8fb53913d2f424f
+    mime: image/jpeg
+    bytes: 22418298
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/bb/12/bb122c0df71c3f6d1d0fde5186e8e93b266952329e19e3bdf8fb53913d2f424f/preview-400.31aa430812a6.jpg
+        sha256: 31aa430812a6ec340fc2c4ecea37e40e161ce845f7636843988c3c637c922037
+        mime: image/jpeg
+        bytes: 42225
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

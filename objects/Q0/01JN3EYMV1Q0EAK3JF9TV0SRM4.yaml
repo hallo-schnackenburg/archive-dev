@@ -1,0 +1,43 @@
+id: 01JN3EYMV1Q0EAK3JF9TV0SRM4
+type: image
+subtype: photo
+title: Familie Meyer beim Viehmarkt
+description: Aufnahme von Helga Krüger.
+date: 1907-07-24
+origin:
+  name: August Ahrens
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Familie Plate
+    type: person
+    location: Pretzier
+  note: Bücherregal links
+subjects:
+  - name: Marta Burmester
+    type: person
+  - name: Einschulung 1907
+    type: event
+  - name: Tanzsaal
+    type: building
+files:
+  - role: main
+    original_name: scan_693.tif
+    path: files/bc/dc/bcdc636ca42f86b9fe0b3c8f0b920eb633a8896fd68e293c97397ed9cda849bc/original.tif
+    sha256: bcdc636ca42f86b9fe0b3c8f0b920eb633a8896fd68e293c97397ed9cda849bc
+    mime: image/tiff
+    bytes: 14902497
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bc/dc/bcdc636ca42f86b9fe0b3c8f0b920eb633a8896fd68e293c97397ed9cda849bc/preview-400.da5b9e26b4d6.jpg
+        sha256: da5b9e26b4d63c23e5d0677b2d6a4ee713ef677d775927c8d8a7dce7ce1438a9
+        mime: image/jpeg
+        bytes: 30738
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,48 @@
+id: 01F8H407BVP3E749ATVN2GEK3F
+type: image
+subtype: plan
+title: Bauplan Fachwerkhaus Marktstraße 4 1799
+description: Mit handschriftlichen Ergänzungen.
+date: 1799-03
+location: Zadrau, Mühlenweg
+geocode:
+  lat: 53.0011
+  lon: 11.5628
+  precision: town
+  source: osm
+origin:
+  name: Karl Voss
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 13/040
+  note: Kellerarchiv
+subjects:
+  - name: Gerda Krüger
+    type: person
+  - name: Eisgang 1799
+    type: event
+files:
+  - role: main
+    original_name: scan_658.tif
+    path: files/c6/b2/c6b261aa1e208141dafd379ba6e7b05fc21a121768a53c9dcd54962382ad3192/original.tif
+    sha256: c6b261aa1e208141dafd379ba6e7b05fc21a121768a53c9dcd54962382ad3192
+    mime: image/tiff
+    bytes: 25976398
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/b2/c6b261aa1e208141dafd379ba6e7b05fc21a121768a53c9dcd54962382ad3192/preview-400.e08fdf80c8aa.jpg
+        sha256: e08fdf80c8aad67bb785debfd06362900c4624b37ff10e1236b128462924916a
+        mime: image/jpeg
+        bytes: 63544
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

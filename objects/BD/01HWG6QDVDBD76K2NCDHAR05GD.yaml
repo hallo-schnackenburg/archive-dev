@@ -1,0 +1,50 @@
+id: 01HWG6QDVDBD76K2NCDHAR05GD
+type: image
+subtype: print
+title: Lithographie Sparkasse, Wittenberge
+description: Postkarte, gelaufen 1913.
+date: 1949-07-27
+location: Gorleben, Elbstraße
+geocode:
+  lat: 53.0729
+  lon: 11.6655
+  precision: region
+  source: osm
+origin:
+  name: Horst Krüger
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 4/139
+  note: Bücherregal links
+subjects:
+  - name: Otto Garms
+    type: person
+  - name: Einschulung 1949
+    type: event
+  - name: Friedhofskapelle
+    type: building
+files:
+  - role: main
+    original_name: scan_128.tif
+    path: files/43/42/434212dd7635e939ea6700fb4d01cd7e8984c5861e3c5e94cca3ab69f55d5cfb/original.tif
+    sha256: 434212dd7635e939ea6700fb4d01cd7e8984c5861e3c5e94cca3ab69f55d5cfb
+    mime: image/tiff
+    bytes: 23924463
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/43/42/434212dd7635e939ea6700fb4d01cd7e8984c5861e3c5e94cca3ab69f55d5cfb/preview-400.f45c85d53f11.jpg
+        sha256: f45c85d53f11081bd4876eddc0bcb64cb84726c12c76805d7154399e72e86dd6
+        mime: image/jpeg
+        bytes: 54153
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

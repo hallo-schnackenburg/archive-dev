@@ -1,0 +1,35 @@
+id: 01FHTGQSZ9KNZT97FVGK9A4WVF
+type: image
+subtype: plan
+title: Bauplan Sparkasse 1972
+description: Tusche auf Transparentpapier.
+date: 1972-05
+origin:
+  name: Karl Rohde
+  type: person
+  location: Gartow
+subjects:
+  - name: Kindergarten
+    type: building
+  - name: Käthe Meyer
+    type: person
+files:
+  - role: main
+    original_name: scan_370.tif
+    path: files/47/dd/47dd189fb0d80024c92b02212dd15d81c95624f1134bfe3c6b2f04288881e649/original.tif
+    sha256: 47dd189fb0d80024c92b02212dd15d81c95624f1134bfe3c6b2f04288881e649
+    mime: image/tiff
+    bytes: 18622670
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/47/dd/47dd189fb0d80024c92b02212dd15d81c95624f1134bfe3c6b2f04288881e649/preview-400.ce81904dd606.jpg
+        sha256: ce81904dd6064f98eb8190d71c67547ecd622ffb4ddead93b5b6acd3421dad99
+        mime: image/jpeg
+        bytes: 63985
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

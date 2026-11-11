@@ -1,0 +1,67 @@
+id: 01FS55S1XEZ1Q0YBR5RGBYFXZG
+type: document
+subtype: letter
+title: Schreiben der Bürgerverein an den Gemeinderat
+date: 1902?
+location: Lenzen, Burgstraße
+origin:
+  name: Erika Albers
+  type: person
+  location: Salzwedel
+recipient: Dieter Dierks
+language: de
+owner:
+  name: Fritz Pape
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Kartoffelernte 1902
+    type: event
+  - name: Schlachterei
+    type: building
+parents:
+  - 01JWBMK7BHVBJEDZ8ATPAMX13A
+  - 01KP71Y1ZJN9JAVT84GFKBTVMW
+files:
+  - role: page
+    num: 1
+    original_name: letter_byfxzg_001.tif
+    path: files/1e/3b/1e3b9a36413403a907540862e2b483ac66a5c51122615b5984e46669a8c0a6b6/original.tif
+    sha256: 1e3b9a36413403a907540862e2b483ac66a5c51122615b5984e46669a8c0a6b6
+    mime: image/tiff
+    bytes: 13187337
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1e/3b/1e3b9a36413403a907540862e2b483ac66a5c51122615b5984e46669a8c0a6b6/preview-400.3dbd3e252dde.jpg
+        sha256: 3dbd3e252dde64d6c48ca890328d1cb118746a407fe32a4094598ba02cad643f
+        mime: image/jpeg
+        bytes: 33492
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_byfxzg_002.tif
+    path: files/4e/16/4e16716000be0ed8e74f6ed5aa6ad03816bb975b1169b85d8843fbabf4a1961f/original.tif
+    sha256: 4e16716000be0ed8e74f6ed5aa6ad03816bb975b1169b85d8843fbabf4a1961f
+    mime: image/tiff
+    bytes: 5963141
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4e/16/4e16716000be0ed8e74f6ed5aa6ad03816bb975b1169b85d8843fbabf4a1961f/preview-400.eff82671a24c.jpg
+        sha256: eff82671a24c15b183c1315a1d393fc5762ac45de0fe91a60e2db12346b430e4
+        mime: image/jpeg
+        bytes: 84062
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

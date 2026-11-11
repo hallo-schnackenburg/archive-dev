@@ -1,0 +1,66 @@
+id: 01FS8VQMQMMWA8AKYZ6WSYCWH1
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Gollensdorf 1850
+description: "Beschlossen wurde unter anderem: Friedhofsordnung."
+date: 1850-12-20
+location: Cumlosen, Speicher
+origin:
+  name: Kirchenvorstand Lanz
+  type: business
+  location: Gollensdorf
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Mappe 9/061
+subjects:
+  - name: Erika Ludolf
+    type: person
+  - name: Lüchow
+    type: place
+parents:
+  - 01FHXWS77V11495NM60GV2NEPP
+files:
+  - role: page
+    num: 1
+    original_name: protocol_sycwh1_001.tif
+    path: files/15/96/15969cdbe3dd6a6eda4c9158e197b9efcaa34db6000ca8c3f56286a1d8a8a395/original.tif
+    sha256: 15969cdbe3dd6a6eda4c9158e197b9efcaa34db6000ca8c3f56286a1d8a8a395
+    mime: image/tiff
+    bytes: 21781465
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/15/96/15969cdbe3dd6a6eda4c9158e197b9efcaa34db6000ca8c3f56286a1d8a8a395/preview-400.6585596c148e.jpg
+        sha256: 6585596c148e2c78674f39e4ed5ffb854ea220912be6be3041b4b3f97c5e3a6a
+        mime: image/jpeg
+        bytes: 37981
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_sycwh1_002.tif
+    path: files/82/2f/822fccf4ad933121c24a864fa0fbea8349c4e7e8c3be53a153b65cb5face443a/original.tif
+    sha256: 822fccf4ad933121c24a864fa0fbea8349c4e7e8c3be53a153b65cb5face443a
+    mime: image/tiff
+    bytes: 13908627
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/82/2f/822fccf4ad933121c24a864fa0fbea8349c4e7e8c3be53a153b65cb5face443a/preview-400.0367920a2be9.jpg
+        sha256: 0367920a2be947390b3a7b601b8e5ac631835b91b65a7f40e1583f9bfa4e6928
+        mime: image/jpeg
+        bytes: 46865
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

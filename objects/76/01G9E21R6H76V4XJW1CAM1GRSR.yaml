@@ -1,0 +1,58 @@
+id: 01G9E21R6H76V4XJW1CAM1GRSR
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Arendsee 1980
+description: Handschriftlich in Sütterlin.
+date: 1980-05-02
+location: Arendsee, Schlachterei
+language: de
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+  - name: Berta Wöhlk
+    type: person
+  - name: Osterfeuer 1980
+    type: event
+parents:
+  - 01K16728TJR9J7SKEG0YYC3BZ6
+files:
+  - role: page
+    num: 1
+    original_name: protocol_m1grsr_001.tif
+    path: files/5f/bb/5fbb187a840e51070024b0bfc1bfb6dbc1b1dbfae7aea903ac9fbaa988e6958e/original.tif
+    sha256: 5fbb187a840e51070024b0bfc1bfb6dbc1b1dbfae7aea903ac9fbaa988e6958e
+    mime: image/tiff
+    bytes: 12423784
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5f/bb/5fbb187a840e51070024b0bfc1bfb6dbc1b1dbfae7aea903ac9fbaa988e6958e/preview-400.f969a1149d8d.jpg
+        sha256: f969a1149d8dff462080afc8d4ef96b27774c6201a9c97d4a22806153727ef53
+        mime: image/jpeg
+        bytes: 51778
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_m1grsr_002.tif
+    path: files/bd/1d/bd1d6babbd350186167f9f3abf012a7ec3327fa0465f1075ac8fbc65f1267d77/original.tif
+    sha256: bd1d6babbd350186167f9f3abf012a7ec3327fa0465f1075ac8fbc65f1267d77
+    mime: image/tiff
+    bytes: 6056643
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/1d/bd1d6babbd350186167f9f3abf012a7ec3327fa0465f1075ac8fbc65f1267d77/preview-400.b175108b103a.jpg
+        sha256: b175108b103ac5b57b2698de5260baae3613300b6f5d1a6f6e8a5975a59f6157
+        mime: image/jpeg
+        bytes: 62642
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,50 @@
+id: 01HB0103H7W9PC0KE4H9P3FX9R
+type: image
+subtype: photo
+title: Wilhelm Sievers vor dem Dorfschule
+description: Aufnahme von Erika Lenz.
+date: 1946-12-11
+location: Laase, Kirchstraße
+geocode:
+  lat: 52.9763
+  lon: 11.6744
+  precision: street
+  source: osm
+origin:
+  name: Gustav Nitschke
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro/Album 6/075
+  note: Bücherregal links
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Lüchow
+    type: place
+  - name: Rudolf Ahrens
+    type: person
+files:
+  - role: main
+    original_name: scan_787.tif
+    path: files/87/a7/87a7b7a2600f3fb59b72b5716bcb33bcaf49be8d33a756109722930c6c2dc943/original.tif
+    sha256: 87a7b7a2600f3fb59b72b5716bcb33bcaf49be8d33a756109722930c6c2dc943
+    mime: image/tiff
+    bytes: 18600067
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/87/a7/87a7b7a2600f3fb59b72b5716bcb33bcaf49be8d33a756109722930c6c2dc943/preview-400.da6207ecd72e.jpg
+        sha256: da6207ecd72e0734872f08111667a6f54744f91051d2943e815115d2294babdb
+        mime: image/jpeg
+        bytes: 49554
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

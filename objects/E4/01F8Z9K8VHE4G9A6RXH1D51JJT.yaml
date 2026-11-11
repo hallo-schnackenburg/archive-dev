@@ -1,0 +1,35 @@
+id: 01F8Z9K8VHE4G9A6RXH1D51JJT
+type: image
+subtype: photo
+title: Kirche St. Johannis in Wootz
+location: Dömitz, Gartenstraße
+origin:
+  name: August Meyer
+  type: person
+  location: Wustrow
+subjects:
+  - name: Frieda Ahrens
+    type: person
+parents:
+  - 01JZKNVKBS64VYGFSCYTCB6QDJ
+  - 01FP0WJ7PX3NTMB1HWR0QPCV98
+files:
+  - role: main
+    original_name: IMG_8888.jpg
+    path: files/46/0c/460c56e260eefc78773a9f579cf1d3f43479cf47455a83b5e11a29a059fe225b/original.jpg
+    sha256: 460c56e260eefc78773a9f579cf1d3f43479cf47455a83b5e11a29a059fe225b
+    mime: image/jpeg
+    bytes: 14300112
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/46/0c/460c56e260eefc78773a9f579cf1d3f43479cf47455a83b5e11a29a059fe225b/preview-400.a64ca4dd4cf3.jpg
+        sha256: a64ca4dd4cf3e10f79e4eb90f077bdccc78a008ea1cb021f605a47ceeb7c70cd
+        mime: image/jpeg
+        bytes: 28695
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

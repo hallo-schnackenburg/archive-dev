@@ -1,0 +1,39 @@
+id: 01KX4NE5R2NEHBFJ734XP75HTM
+type: image
+subtype: photo
+title: Feuerwehrübung 1915
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1915-07-17
+origin:
+  name: Renate Matthies
+  type: person
+  location: Zadrau
+subjects:
+  - name: Kegelbahn
+    type: building
+  - name: Zollamt
+    type: building
+  - name: Kirmes 1915
+    type: event
+parents:
+  - 01J5CY5YG0F694895WWHN65481
+files:
+  - role: main
+    original_name: IMG_4190.jpg
+    path: files/21/31/213170ea728214e27ea6eed4d765fcaf649c482287f9ee2dfb3dd2398c0a065c/original.jpg
+    sha256: 213170ea728214e27ea6eed4d765fcaf649c482287f9ee2dfb3dd2398c0a065c
+    mime: image/jpeg
+    bytes: 638536
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/21/31/213170ea728214e27ea6eed4d765fcaf649c482287f9ee2dfb3dd2398c0a065c/preview-400.0a88d7412679.jpg
+        sha256: 0a88d74126790bea1686e425ea96911363b5b46fc39e2d6d743e93b8ca6580f9
+        mime: image/jpeg
+        bytes: 38296
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

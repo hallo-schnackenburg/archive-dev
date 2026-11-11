@@ -1,0 +1,32 @@
+id: 01H6T0JMDP6YYX7RM2VAWZA838
+type: image
+subtype: plan
+title: Bauplan Brunnen am Markt 1750
+description: Mit handschriftlichen Ergänzungen.
+date: 1750-11-12
+location: Schnackenburg, Dorfkrug
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Kartoffelernte 1750
+    type: event
+files:
+  - role: main
+    original_name: scan_370.tif
+    path: files/c6/f0/c6f04a40c48544badfe895af5b046b5edf88da69f9cb9a9f47c4d8a7da793ca5/original.tif
+    sha256: c6f04a40c48544badfe895af5b046b5edf88da69f9cb9a9f47c4d8a7da793ca5
+    mime: image/tiff
+    bytes: 14956084
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c6/f0/c6f04a40c48544badfe895af5b046b5edf88da69f9cb9a9f47c4d8a7da793ca5/preview-400.a8754543ee1d.jpg
+        sha256: a8754543ee1d60ecbad5bcf179a83f6351585d8334507b59856fb83373361992
+        mime: image/jpeg
+        bytes: 37458
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

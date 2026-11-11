@@ -1,0 +1,51 @@
+id: 01KAPQN02TPRD2PAX3FZY3DPH2
+type: image
+subtype: drawing
+title: Wappenentwurf Wittenberge, Rüterberg
+date: 1827-08-14
+location: Holtorf, Bäckerei Lüders
+geocode:
+  lat: 52.9017
+  lon: 11.6501
+  precision: street
+  source: osm
+origin:
+  name: Fritz Krüger
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Nienwalde
+  reference: Fotos 10/117
+subjects:
+  - name: Kapern
+    type: place
+  - name: Dieter Meyer
+    type: person
+  - name: Otto Lüders
+    type: person
+parents:
+  - 01FQ3YZE77QNA1ZTVZV37G0FNF
+  - 01EZC5C07CZY0ETCK5VD296P3F
+files:
+  - role: main
+    original_name: scan_636.tif
+    path: files/fb/4e/fb4e00f7396845b6172a5fa7ccefa82fc54475049c1abec6c4ea09e179b3ec31/original.tif
+    sha256: fb4e00f7396845b6172a5fa7ccefa82fc54475049c1abec6c4ea09e179b3ec31
+    mime: image/tiff
+    bytes: 19967751
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/fb/4e/fb4e00f7396845b6172a5fa7ccefa82fc54475049c1abec6c4ea09e179b3ec31/preview-400.a975c45177b0.jpg
+        sha256: a975c45177b0ca785a0283521c4831fec271e2ac7a5f67c8cd2391e89b8f918a
+        mime: image/jpeg
+        bytes: 27258
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

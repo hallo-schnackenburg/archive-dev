@@ -1,0 +1,37 @@
+id: 01KMWHNGJHYPG372T6AEF05JPW
+type: image
+subtype: plan
+title: Deichplan Kapern bis Gorleben
+description: Maßstab 1:1000.
+date: 1941-10-01
+origin:
+  name: Hans Gaede
+  type: person
+  location: Dömitz
+subjects:
+  - name: Helga Hennings
+    type: person
+  - name: Fähranleger
+    type: building
+  - name: Albert Brandt
+    type: person
+files:
+  - role: main
+    original_name: scan_387.tif
+    path: files/cd/e0/cde0eff885372f266fae1f7149e575c9b43bf94b861944e0a5cb10d004d5f4a1/original.tif
+    sha256: cde0eff885372f266fae1f7149e575c9b43bf94b861944e0a5cb10d004d5f4a1
+    mime: image/tiff
+    bytes: 22330574
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/e0/cde0eff885372f266fae1f7149e575c9b43bf94b861944e0a5cb10d004d5f4a1/preview-400.6bdccdfb3de6.jpg
+        sha256: 6bdccdfb3de64c0cb954812930cbbf6dfbb41e8dacedfef499d4bb96c3ef6394
+        mime: image/jpeg
+        bytes: 82290
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

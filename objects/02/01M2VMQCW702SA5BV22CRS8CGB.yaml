@@ -1,0 +1,32 @@
+id: 01M2VMQCW702SA5BV22CRS8CGB
+type: image
+subtype: plan
+title: Bauplan Brunnen am Markt 1956
+description: Tusche auf Transparentpapier.
+date: 1956-05
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  note: Dachboden, Truhe
+files:
+  - role: main
+    original_name: scan_482.tif
+    path: files/e1/38/e1385e06e2f3dcfba958b323c32f7a94ff9472646ad6e9113960383b41bfeff7/original.tif
+    sha256: e1385e06e2f3dcfba958b323c32f7a94ff9472646ad6e9113960383b41bfeff7
+    mime: image/tiff
+    bytes: 26466393
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e1/38/e1385e06e2f3dcfba958b323c32f7a94ff9472646ad6e9113960383b41bfeff7/preview-400.7441af2c576e.jpg
+        sha256: 7441af2c576ec9028252c86127365eaf545d2088410a9c5bb6d3d25621e55763
+        mime: image/jpeg
+        bytes: 88282
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,32 @@
+id: 01H00HZBZKM35KA6MVW72FAJZA
+type: image
+subtype: plan
+title: Deichplan Wootz bis Zadrau
+date: 1822?
+origin:
+  name: Otto Bohlmann
+  type: person
+  location: Wustrow
+subjects:
+  - name: Torhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_256.tif
+    path: files/37/d2/37d27ba47823ca6a1374cb3583656c01ea180fea1f33998e1dccfaa35b5909e3/original.tif
+    sha256: 37d27ba47823ca6a1374cb3583656c01ea180fea1f33998e1dccfaa35b5909e3
+    mime: image/tiff
+    bytes: 18080313
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/37/d2/37d27ba47823ca6a1374cb3583656c01ea180fea1f33998e1dccfaa35b5909e3/preview-400.0cda3cf9086d.jpg
+        sha256: 0cda3cf9086d7a4c913d17723f35e2d9dcd5f363cc61683be1fd1adf40b31a24
+        mime: image/jpeg
+        bytes: 74859
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

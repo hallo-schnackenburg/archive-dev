@@ -1,0 +1,43 @@
+id: 01FV929WWT9VNKQW7BBC8BVYJ3
+type: image
+subtype: photo
+title: "Kirchenchor: Gruppenbild Osterfeuer"
+date: 1903-11-11
+location: Zadrau, Wassermühle
+geocode:
+  lat: 53.0441
+  lon: 11.6794
+  precision: region
+  source: osm
+origin:
+  name: Karl Lenz
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Familie Brandt
+    type: person
+    location: Seedorf
+  reference: Br 21/069
+parents:
+  - 01K5TW5781NJJRQNS4RN8CYBN2
+files:
+  - role: main
+    original_name: DSC6867.jpg
+    path: files/47/71/4771ffdeb152e901fc73111c40d007ea1e204b34a330fb9647d5e34c1447a9c8/original.jpg
+    sha256: 4771ffdeb152e901fc73111c40d007ea1e204b34a330fb9647d5e34c1447a9c8
+    mime: image/jpeg
+    bytes: 2449105
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/47/71/4771ffdeb152e901fc73111c40d007ea1e204b34a330fb9647d5e34c1447a9c8/preview-400.505d0bc26e96.jpg
+        sha256: 505d0bc26e964b7349c9ddb9f445dc963ddd05d7b519a544d17699e6f0f4fe23
+        mime: image/jpeg
+        bytes: 53140
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

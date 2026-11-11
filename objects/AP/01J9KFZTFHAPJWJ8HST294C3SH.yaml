@@ -1,0 +1,40 @@
+id: 01J9KFZTFHAPJWJ8HST294C3SH
+type: image
+subtype: photo
+title: Elbstraße, Ecke Dorfstraße
+description: Aufnahme von August Ahrens.
+date: 1898-04
+location: Salzwedel, Elbstraße
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Gartow
+subjects:
+  - name: Hedwig Dreyer
+    type: person
+  - name: Gustav Kuhlmann
+    type: person
+  - name: Sparkasse
+    type: building
+parents:
+  - 01F28VANR68KA52XZKKNMJ33WV
+files:
+  - role: main
+    original_name: scan_953.tif
+    path: files/98/a1/98a109493634f9dec4fbbe3ad7c4411963dea29fc7fd32ea0fc862561d1b9157/original.tif
+    sha256: 98a109493634f9dec4fbbe3ad7c4411963dea29fc7fd32ea0fc862561d1b9157
+    mime: image/tiff
+    bytes: 4073654
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/98/a1/98a109493634f9dec4fbbe3ad7c4411963dea29fc7fd32ea0fc862561d1b9157/preview-400.18aeafaad539.jpg
+        sha256: 18aeafaad53984f5a8d4479a4a8635d2a33965beff01fac59f3e80bf46810975
+        mime: image/jpeg
+        bytes: 54864
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

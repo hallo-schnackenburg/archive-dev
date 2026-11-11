@@ -1,0 +1,38 @@
+id: 01K4FY8C6B9KGYXF3Q6GC06KQA
+type: image
+subtype: print
+title: Postkarte Gollensdorf, Dorfteich
+description: Kupferstich, koloriert.
+date: 1836-08-23
+location: Gorleben, Elbstraße
+origin:
+  name: Jürgen Behrens
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Marta Meyer
+    type: person
+parents:
+  - 01G5CJBY3RS88Q2T2XPXK8Z7QS
+files:
+  - role: main
+    original_name: scan_879.tif
+    path: files/7e/e3/7ee3a34a8a9d44252296ca018761d480e736feddb248395b4ea629caa056f531/original.tif
+    sha256: 7ee3a34a8a9d44252296ca018761d480e736feddb248395b4ea629caa056f531
+    mime: image/tiff
+    bytes: 20733341
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7e/e3/7ee3a34a8a9d44252296ca018761d480e736feddb248395b4ea629caa056f531/preview-400.a799705eeb8b.jpg
+        sha256: a799705eeb8bc6df995291fa079f0e0dd603a39b7ade15da502163e619a4f9f0
+        mime: image/jpeg
+        bytes: 41660
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

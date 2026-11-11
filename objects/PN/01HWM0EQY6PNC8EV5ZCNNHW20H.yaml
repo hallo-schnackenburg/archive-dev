@@ -1,0 +1,42 @@
+id: 01HWM0EQY6PNC8EV5ZCNNHW20H
+type: image
+subtype: plan
+title: Deichplan Wustrow bis Holtorf
+description: Tusche auf Transparentpapier.
+location: Bömenzien, Schulstraße
+geocode:
+  lat: 52.9407
+  lon: 11.6431
+  precision: exact
+  source: osm
+origin:
+  name: Irmgard Lemke
+  type: person
+  location: Dömitz
+subjects:
+  - name: Maifeier 1934
+    type: event
+  - name: Karl Hennings
+    type: person
+  - name: Schnackenburg
+    type: place
+files:
+  - role: main
+    original_name: scan_196.tif
+    path: files/ec/95/ec9549f728110847e65f6445f3e631142e14d0905110ac5fd738daa77cbbc56f/original.tif
+    sha256: ec9549f728110847e65f6445f3e631142e14d0905110ac5fd738daa77cbbc56f
+    mime: image/tiff
+    bytes: 19259327
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ec/95/ec9549f728110847e65f6445f3e631142e14d0905110ac5fd738daa77cbbc56f/preview-400.b64007d62196.jpg
+        sha256: b64007d62196f02388f4c0dd54680f676bb5f41f84f726cd609af703fb86b290
+        mime: image/jpeg
+        bytes: 25039
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

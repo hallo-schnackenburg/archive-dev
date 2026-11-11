@@ -1,0 +1,42 @@
+id: 01HYZGCW5GBA7WPAYE5FK18S0E
+type: image
+subtype: plan
+title: Bauplan Backhaus 1873
+description: Tusche auf Transparentpapier.
+date: 1873-09-05
+location: Lüchow, Grenzturm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 4/110
+subjects:
+  - name: Hochzeit 1873
+    type: event
+  - name: Ladestraße
+    type: building
+  - name: Poststelle
+    type: building
+parents:
+  - 01JGSEJ488A7DZQPFCQNBYWMJ1
+files:
+  - role: main
+    original_name: scan_433.tif
+    path: files/c4/27/c427b2fb108fc5a69f0d5c8b9bdb8f9addce7bb160e910e7accd6d9d91812d94/original.tif
+    sha256: c427b2fb108fc5a69f0d5c8b9bdb8f9addce7bb160e910e7accd6d9d91812d94
+    mime: image/tiff
+    bytes: 7728155
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c4/27/c427b2fb108fc5a69f0d5c8b9bdb8f9addce7bb160e910e7accd6d9d91812d94/preview-400.2ee0213998b8.jpg
+        sha256: 2ee0213998b8514d4039b2213340bc5fd629aefba039435eda9c38f30f84cb84
+        mime: image/jpeg
+        bytes: 68178
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

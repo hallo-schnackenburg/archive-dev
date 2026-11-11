@@ -1,0 +1,27 @@
+id: 01G5E45W6JHTAMC1DMDVJR2TQ4
+type: image
+subtype: plan
+title: Katasterblatt Tiedemann, Holtorf
+date: 1880-05
+parents:
+  - 01J8EFPX4R9MB05RW08DV43E95
+files:
+  - role: main
+    original_name: scan_192.tif
+    path: files/ff/35/ff35e7f221abf9367cf106c27442e80d94c0fe953a5be8d844fab337c4579020/original.tif
+    sha256: ff35e7f221abf9367cf106c27442e80d94c0fe953a5be8d844fab337c4579020
+    mime: image/tiff
+    bytes: 27988005
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/35/ff35e7f221abf9367cf106c27442e80d94c0fe953a5be8d844fab337c4579020/preview-400.20278a23cf87.jpg
+        sha256: 20278a23cf87b19973577b9fdb9221e815d55527c9e95420d36c42b8bcbce852
+        mime: image/jpeg
+        bytes: 46846
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

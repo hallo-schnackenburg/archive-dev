@@ -1,0 +1,36 @@
+id: 01K8CY6T91JSRMJ4PRWESGBZ89
+type: image
+subtype: print
+title: "Kupferstich: Dömitz von der Elbseite"
+description: Lithographie, Rand beschnitten.
+date: "1920"
+location: Kapern, Ziegelei
+subjects:
+  - name: Brückeneinweihung 1920
+    type: event
+  - name: Glockenweihe 1920
+    type: event
+  - name: Walter Oelker
+    type: person
+parents:
+  - 01F5BDT8RF2AK0D4775DY21054
+files:
+  - role: main
+    original_name: scan_251.tif
+    path: files/7c/89/7c89124cec0c1492eda609b827b7a41fb1787fdc8b062dacb7e6ef5f3a9cb1b7/original.tif
+    sha256: 7c89124cec0c1492eda609b827b7a41fb1787fdc8b062dacb7e6ef5f3a9cb1b7
+    mime: image/tiff
+    bytes: 6009033
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7c/89/7c89124cec0c1492eda609b827b7a41fb1787fdc8b062dacb7e6ef5f3a9cb1b7/preview-400.c004e6bc8c6f.jpg
+        sha256: c004e6bc8c6f8512eeb7d6ea26ed224581049a895fabde453f191663511f8528
+        mime: image/jpeg
+        bytes: 66169
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

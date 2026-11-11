@@ -1,0 +1,37 @@
+id: 01H0A17PB9ZE42S8V9H4WVFXY5
+type: image
+subtype: photo
+title: Ernst Ludolf, Porträt
+date: 1918-08-21
+location: Gorleben, Bahnhofstraße
+origin:
+  name: Marta Schulz
+  type: person
+  location: Gülden
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Holtorf
+    type: place
+  - name: Bäckerei Lüders
+    type: building
+files:
+  - role: main
+    original_name: scan_487.tif
+    path: files/5c/a2/5ca254ccf42904326fe70530e74651be8cf6891d6956d662e42b6259ce209405/original.tif
+    sha256: 5ca254ccf42904326fe70530e74651be8cf6891d6956d662e42b6259ce209405
+    mime: image/tiff
+    bytes: 27170709
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5c/a2/5ca254ccf42904326fe70530e74651be8cf6891d6956d662e42b6259ce209405/preview-400.d8da051b318d.jpg
+        sha256: d8da051b318d9856070a98b33e9b9aef23169ac59dcc880fba644204aaa48b70
+        mime: image/jpeg
+        bytes: 31898
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

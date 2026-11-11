@@ -1,0 +1,42 @@
+id: 01G9CF0563A8MZY96BEK5CD0G4
+type: image
+subtype: photo
+title: Erika Sievers, Porträt
+date: 1940/1946
+location: Dömitz, Scheune
+geocode:
+  lat: 53.0039
+  lon: 11.4768
+  precision: region
+  source: osm
+origin:
+  name: Helga Schulz
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Gülden
+    type: place
+  - name: Heinrich Wöhlk
+    type: person
+  - name: Hans Hennings
+    type: person
+files:
+  - role: main
+    original_name: foto_2891.jpg
+    path: files/7d/d5/7dd5e993d7ef4fbc9ff1689412166fb29ad7fc36309b1b831aec2c48adfec90a/original.jpg
+    sha256: 7dd5e993d7ef4fbc9ff1689412166fb29ad7fc36309b1b831aec2c48adfec90a
+    mime: image/jpeg
+    bytes: 19870402
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/7d/d5/7dd5e993d7ef4fbc9ff1689412166fb29ad7fc36309b1b831aec2c48adfec90a/preview-400.b22a5c2fa1ff.jpg
+        sha256: b22a5c2fa1ff41db5e0c1cf0fd202a71dd7ba7de56bd872106a4b8da3a253dc2
+        mime: image/jpeg
+        bytes: 38081
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01HGNKDHZ6KZA9TH2ZBS5N4X7T
+type: image
+subtype: print
+title: Postkarte Seedorf, Molkerei
+date: 1882-03-21
+location: Lenzen, Elbdeich
+origin:
+  name: Karl Schwarz
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Fritz Quast
+    type: person
+  - name: Tanzsaal
+    type: building
+  - name: Friedhofskapelle
+    type: building
+parents:
+  - 01JQT54EAMY9FPSYNK9W7RJSV4
+files:
+  - role: main
+    original_name: scan_689.tif
+    path: files/02/71/02712ff9c8945e6652002cd59303c74511ef6f21fcd5a9ecc34c989c00d9ba46/original.tif
+    sha256: 02712ff9c8945e6652002cd59303c74511ef6f21fcd5a9ecc34c989c00d9ba46
+    mime: image/tiff
+    bytes: 513896
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/71/02712ff9c8945e6652002cd59303c74511ef6f21fcd5a9ecc34c989c00d9ba46/preview-400.c5b951b78217.jpg
+        sha256: c5b951b782171db0bc0d884e762dc7c8082fc9158b21b18dfafe42b9fcc9c4fb
+        mime: image/jpeg
+        bytes: 56946
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

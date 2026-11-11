@@ -1,0 +1,36 @@
+id: 01HD2MVGQRK7T1SFB4TADZGY1Y
+type: image
+subtype: photo
+title: Eisgang 1906
+description: Aufnahme von Anni Schwarz.
+date: 1906~
+location: Kapern, Lange Straße
+geocode:
+  lat: 53.0198
+  lon: 11.5196
+  precision: region
+  source: osm
+origin:
+  name: Helga Garms
+  type: person
+  location: Kapern
+files:
+  - role: main
+    original_name: scan_272.tif
+    path: files/84/5b/845b60eb718c3f4c09b982c5e65d88e6e2f565477f2e1a0d1ec80c9fa825373f/original.tif
+    sha256: 845b60eb718c3f4c09b982c5e65d88e6e2f565477f2e1a0d1ec80c9fa825373f
+    mime: image/tiff
+    bytes: 15581069
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/84/5b/845b60eb718c3f4c09b982c5e65d88e6e2f565477f2e1a0d1ec80c9fa825373f/preview-400.2c25e41f90ce.jpg
+        sha256: 2c25e41f90ce0ec0732700302ff128210994e58ea5c11bfa26ba4f5acc36f980
+        mime: image/jpeg
+        bytes: 44572
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

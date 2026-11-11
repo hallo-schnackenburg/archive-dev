@@ -1,0 +1,77 @@
+id: 01H53K3N8791PH97MS6YF8GGCJ
+type: document
+subtype: note
+title: Quittung für Heinrich Krüger
+date: 1860~
+location: Havelberg, Fähranleger
+geocode:
+  lat: 52.9026
+  lon: 11.5373
+  precision: town
+  source: osm
+origin:
+  name: Hans Bohlmann
+  type: person
+  location: Gartow
+language: de
+original:
+  holder:
+    name: Familie Brandt
+    type: person
+    location: Wootz
+  reference: Fotos 1/051
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v22181
+owner:
+  name: Wilhelm Detlefs
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Friedrich Hennings
+    type: person
+  - name: Pfarrhaus
+    type: building
+  - name: Wustrow
+    type: place
+parents:
+  - 01H40DBW3NVXVHMCXP864M4XJA
+files:
+  - role: page
+    num: 1
+    original_name: note_f8ggcj_001.tif
+    path: files/e8/1c/e81c5c83430a30bb09b8d57395124290e23b6da02cf778df4310a614577fb2cd/original.tif
+    sha256: e81c5c83430a30bb09b8d57395124290e23b6da02cf778df4310a614577fb2cd
+    mime: image/tiff
+    bytes: 21392915
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/1c/e81c5c83430a30bb09b8d57395124290e23b6da02cf778df4310a614577fb2cd/preview-400.96f4b5f103e6.jpg
+        sha256: 96f4b5f103e6426a88ef718934ed8b5842733e1b7d424eb82652b2fdd57f24ca
+        mime: image/jpeg
+        bytes: 77932
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_f8ggcj_002.tif
+    path: files/d4/92/d4923cd912bf5cf9f32c132def81fb00bec8aa0c813bc897cdf04255802d9141/original.tif
+    sha256: d4923cd912bf5cf9f32c132def81fb00bec8aa0c813bc897cdf04255802d9141
+    mime: image/tiff
+    bytes: 4560018
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/92/d4923cd912bf5cf9f32c132def81fb00bec8aa0c813bc897cdf04255802d9141/preview-400.d21bd5886808.jpg
+        sha256: d21bd58868085684d302ded1986a10df17cd0b4742d6f51d3d93f7253a81adc7
+        mime: image/jpeg
+        bytes: 66730
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

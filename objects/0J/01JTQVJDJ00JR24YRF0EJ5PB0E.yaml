@@ -1,0 +1,36 @@
+id: 01JTQVJDJ00JR24YRF0EJ5PB0E
+type: image
+subtype: drawing
+title: Wappenentwurf Gollensdorf, Salzwedel
+description: Federzeichnung, laviert.
+date: "1969"
+location: Cumlosen, Schmiede
+geocode:
+  lat: 52.9095
+  lon: 11.545
+  precision: street
+  source: osm
+origin:
+  name: Albert Krüger
+  type: person
+  location: Kapern
+files:
+  - role: main
+    original_name: scan_539.tif
+    path: files/69/6b/696b1960694fa8242562b32f8ea9f682a60e7728b1611f6b22bf74fc864a2b0c/original.tif
+    sha256: 696b1960694fa8242562b32f8ea9f682a60e7728b1611f6b22bf74fc864a2b0c
+    mime: image/tiff
+    bytes: 27486030
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/69/6b/696b1960694fa8242562b32f8ea9f682a60e7728b1611f6b22bf74fc864a2b0c/preview-400.f8b3623a812a.jpg
+        sha256: f8b3623a812ab1a722336aceb0dfe1520d7e01fe79d79b03ffbd2cf6154bfe51
+        mime: image/jpeg
+        bytes: 29627
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

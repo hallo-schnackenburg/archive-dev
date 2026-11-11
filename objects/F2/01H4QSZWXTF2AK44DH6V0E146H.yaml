@@ -1,0 +1,36 @@
+id: 01H4QSZWXTF2AK44DH6V0E146H
+type: image
+subtype: photo
+title: Am Elbdeich, Ecke Am Elbdeich
+date: 1899-05
+origin:
+  name: Ilse Jeß
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Schlachterei
+    type: building
+  - name: Maifeier 1899
+    type: event
+parents:
+  - 01GAAM9QQBSTH4BDGRFAZTAR7N
+files:
+  - role: main
+    original_name: scan_457.tif
+    path: files/3e/c0/3ec0b79d80a97b67b357f90580f5bdf46b72647b6c02ee6e563d1845fa273ddb/original.tif
+    sha256: 3ec0b79d80a97b67b357f90580f5bdf46b72647b6c02ee6e563d1845fa273ddb
+    mime: image/tiff
+    bytes: 25317880
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/c0/3ec0b79d80a97b67b357f90580f5bdf46b72647b6c02ee6e563d1845fa273ddb/preview-400.2618f1a7afed.jpg
+        sha256: 2618f1a7afed1b5ab2736e9eeac94d64e13b04fd904a0b41e672de38bf67fea4
+        mime: image/jpeg
+        bytes: 58045
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

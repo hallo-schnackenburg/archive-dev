@@ -1,0 +1,38 @@
+id: 01HMNQH5QGKXWPW28Y3P24A3CB
+type: image
+subtype: print
+title: Postkarte Rüterberg, Kaufmannshaus
+description: Postkarte, gelaufen 1943.
+date: 1821-01
+location: Pretzier, Gärtnerei
+origin:
+  name: Erika Matthies
+  type: person
+  location: Seedorf
+subjects:
+  - name: August Plate
+    type: person
+  - name: Schlachterei
+    type: building
+parents:
+  - 01G1SK4H01859R5DZSSW1552Y7
+files:
+  - role: main
+    original_name: scan_450.tif
+    path: files/9f/a9/9fa99c533d73dff242740176be99f99fda16d3c04f081af812cbae25cdf2b0da/original.tif
+    sha256: 9fa99c533d73dff242740176be99f99fda16d3c04f081af812cbae25cdf2b0da
+    mime: image/tiff
+    bytes: 6143777
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9f/a9/9fa99c533d73dff242740176be99f99fda16d3c04f081af812cbae25cdf2b0da/preview-400.f11123d64c2d.jpg
+        sha256: f11123d64c2d7474d75c3fe351f7d9d115e6bc3c80c5d76430f92b4ef439e9e6
+        mime: image/jpeg
+        bytes: 59437
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

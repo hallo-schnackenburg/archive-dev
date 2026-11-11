@@ -1,0 +1,39 @@
+id: 01HV01SXZEEKBWS6FZ6MHQN5VZ
+type: image
+subtype: plan
+title: Bauplan Gasthof „Zur Elbe“ 1921
+description: Mit handschriftlichen Ergänzungen.
+date: 1921/1922
+location: Gülden, Gärtnerei
+origin:
+  name: Wilhelm Jeß
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Fotos/Kasten 30/040
+parents:
+  - 01J7HJZCB7JJH7C2451YX2QZGY
+files:
+  - role: main
+    original_name: scan_692.tif
+    path: files/21/01/210130bd969b46539d3a9a6e650efb9257a08ebbabc226ba778ac2aeda30286c/original.tif
+    sha256: 210130bd969b46539d3a9a6e650efb9257a08ebbabc226ba778ac2aeda30286c
+    mime: image/tiff
+    bytes: 8585934
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/21/01/210130bd969b46539d3a9a6e650efb9257a08ebbabc226ba778ac2aeda30286c/preview-400.6ca831b1fda1.jpg
+        sha256: 6ca831b1fda1ebfacacb675ef757112024be50350ddd10d4dfa236f34be7a2b1
+        mime: image/jpeg
+        bytes: 60926
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

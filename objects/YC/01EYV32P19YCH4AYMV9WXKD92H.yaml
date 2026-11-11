@@ -1,0 +1,37 @@
+id: 01EYV32P19YCH4AYMV9WXKD92H
+type: image
+subtype: photo
+title: Emma Bohlmann vor dem Backhaus
+location: Brünkendorf, Tischlerei Bruns
+geocode:
+  lat: 52.9343
+  lon: 11.5309
+  precision: town
+  source: osm
+subjects:
+  - name: Karl Matthies
+    type: person
+  - name: Feuerwehrübung 1964
+    type: event
+  - name: Schützenhaus
+    type: building
+files:
+  - role: main
+    original_name: IMG_6112.jpg
+    path: files/47/3f/473f442570020612818374edb82002be7592da28ff686dbfa67209a27366b2d6/original.jpg
+    sha256: 473f442570020612818374edb82002be7592da28ff686dbfa67209a27366b2d6
+    mime: image/jpeg
+    bytes: 18532574
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/47/3f/473f442570020612818374edb82002be7592da28ff686dbfa67209a27366b2d6/preview-400.cdb2dd685c73.jpg
+        sha256: cdb2dd685c732e4e3ee05a9eedf1b1a4c183d0ff1642104517b1539cec86690d
+        mime: image/jpeg
+        bytes: 65392
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

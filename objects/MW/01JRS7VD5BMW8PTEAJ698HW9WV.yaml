@@ -1,0 +1,91 @@
+id: 01JRS7VD5BMW8PTEAJ698HW9WV
+type: document
+subtype: letter
+title: Gesuch um Gemeindewahl
+date: 1878-01-08
+location: Zadrau, Mühlenweg
+geocode:
+  lat: 52.9665
+  lon: 11.4812
+  precision: town
+  source: osm
+origin:
+  name: Gerda Sievers
+  type: person
+  location: Wootz
+recipient: Berta Krüger
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F 8/125
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Kirmes 1878
+    type: event
+parents:
+  - 01FT5CTVAMDQF7480XV03FD2CZ
+  - 01JRGX3XFSMSVNN02PC0NNSHZP
+files:
+  - role: page
+    num: 1
+    original_name: letter_8hw9wv_001.tif
+    path: files/1a/d0/1ad0e6bf0bcb74435284281a68a9f7eafb238da12dd1704ad8a10d3d8593c5b3/original.tif
+    sha256: 1ad0e6bf0bcb74435284281a68a9f7eafb238da12dd1704ad8a10d3d8593c5b3
+    mime: image/tiff
+    bytes: 27910578
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1a/d0/1ad0e6bf0bcb74435284281a68a9f7eafb238da12dd1704ad8a10d3d8593c5b3/preview-400.ac38e6ba0d94.jpg
+        sha256: ac38e6ba0d94215ab52e36de086a5f1eb95c95621ab8c013a484b22da62b4685
+        mime: image/jpeg
+        bytes: 73068
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_8hw9wv_002.tif
+    path: files/91/0c/910c12542e6e29ec73f7d2f4e1f63e0f8036c8cdd4b654d8fa0ac7d72880e24b/original.tif
+    sha256: 910c12542e6e29ec73f7d2f4e1f63e0f8036c8cdd4b654d8fa0ac7d72880e24b
+    mime: image/tiff
+    bytes: 19666779
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/91/0c/910c12542e6e29ec73f7d2f4e1f63e0f8036c8cdd4b654d8fa0ac7d72880e24b/preview-400.eca749d9581f.jpg
+        sha256: eca749d9581ff60baf0dcd34137abf7becd090b9e7096c9efd3bf8e99dff2b1c
+        mime: image/jpeg
+        bytes: 43197
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_8hw9wv_003.tif
+    path: files/06/77/0677a19598ee2afbd8f2cc0de4a6f602361e56232fd51d7d8b76f0c661546391/original.tif
+    sha256: 0677a19598ee2afbd8f2cc0de4a6f602361e56232fd51d7d8b76f0c661546391
+    mime: image/tiff
+    bytes: 19242408
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/77/0677a19598ee2afbd8f2cc0de4a6f602361e56232fd51d7d8b76f0c661546391/preview-400.b858fe02a456.jpg
+        sha256: b858fe02a45612ed8f0eadd7aeb20a60ffa075a7b211e48b8d6acde59ed98a3a
+        mime: image/jpeg
+        bytes: 49376
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

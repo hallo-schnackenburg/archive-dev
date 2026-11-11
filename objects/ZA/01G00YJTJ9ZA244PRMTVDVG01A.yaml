@@ -1,0 +1,40 @@
+id: 01G00YJTJ9ZA244PRMTVDVG01A
+type: image
+subtype: drawing
+title: Skizze Holtorf, Gartenstraße
+description: Mit Anmerkungen am Rand.
+date: 1892-04
+origin:
+  name: Walter Behrens
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan/Album 27/090
+  note: Regal 4, Kiste 2
+parents:
+  - 01G8JVP67ZT9860RH8N2NEXXK7
+  - 01KANHTTYAXE4AQ68WK7VS6MK4
+files:
+  - role: main
+    original_name: scan_309.tif
+    path: files/4e/da/4eda3c89fa0e53cc858e9e3b79458a0d284d90c656613a32fb0472e72eca7509/original.tif
+    sha256: 4eda3c89fa0e53cc858e9e3b79458a0d284d90c656613a32fb0472e72eca7509
+    mime: image/tiff
+    bytes: 17055633
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/4e/da/4eda3c89fa0e53cc858e9e3b79458a0d284d90c656613a32fb0472e72eca7509/preview-400.bcc23802c38c.jpg
+        sha256: bcc23802c38c04d667d2d690418ba0f45fb662c76473d56ba079d9ac9d79822f
+        mime: image/jpeg
+        bytes: 60602
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

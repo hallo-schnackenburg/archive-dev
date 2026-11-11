@@ -1,0 +1,38 @@
+id: 01K210QG8GXXETW5EQS0J5C07X
+type: image
+subtype: photo
+title: Wassermühle nach dem Fährjubiläum
+description: Farbfoto, leicht verblasst.
+date: 1908/1909
+location: Nienwalde, Lange Straße
+geocode:
+  lat: 53.0899
+  lon: 11.6676
+  precision: street
+  source: osm
+origin:
+  name: Wilhelm Neumann
+  type: person
+  location: Rüterberg
+parents:
+  - 01G2WJPJPQXBE3BT808Y4JJJ99
+files:
+  - role: main
+    original_name: DSC4114.jpg
+    path: files/f6/3b/f63be0be6677b50503da841a1c3bc5bfae39d408f352721d924fa132286bebbe/original.jpg
+    sha256: f63be0be6677b50503da841a1c3bc5bfae39d408f352721d924fa132286bebbe
+    mime: image/jpeg
+    bytes: 26891640
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/f6/3b/f63be0be6677b50503da841a1c3bc5bfae39d408f352721d924fa132286bebbe/preview-400.dd0a3840fb13.jpg
+        sha256: dd0a3840fb1399eaca381ff0db0daed63cd8f69b3682204756eb7dbbefca97f5
+        mime: image/jpeg
+        bytes: 58888
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

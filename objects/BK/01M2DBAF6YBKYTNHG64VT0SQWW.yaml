@@ -1,0 +1,37 @@
+id: 01M2DBAF6YBKYTNHG64VT0SQWW
+type: image
+subtype: plan
+title: Grundriss Dorfladen
+date: 1942-08-01
+location: Laase, Am Elbdeich
+origin:
+  name: Irmgard Sievers
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Konfirmation 1942
+    type: event
+parents:
+  - 01HGWAATSHSQJT69MF82EV6W37
+files:
+  - role: main
+    original_name: scan_046.tif
+    path: files/88/87/88878ba43a4eab228160f231c7ec37202d1bb5d2fc0e7f339da85de7d28d8a52/original.tif
+    sha256: 88878ba43a4eab228160f231c7ec37202d1bb5d2fc0e7f339da85de7d28d8a52
+    mime: image/tiff
+    bytes: 4917271
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/88/87/88878ba43a4eab228160f231c7ec37202d1bb5d2fc0e7f339da85de7d28d8a52/preview-400.07f70d6b1a06.jpg
+        sha256: 07f70d6b1a0697a052fcd664a08d7aeef3434d2fbe4c2f5ebfea4762d53aaa7b
+        mime: image/jpeg
+        bytes: 48858
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01F4EKME9XWY2ZJPK55VEFK578
+type: image
+subtype: plan
+title: Bauplan Gutshaus 1824
+description: Mit handschriftlichen Ergänzungen.
+date: "1824"
+origin:
+  name: Gerda Bohlmann
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Ortsbesichtigung 1824
+    type: event
+  - name: Kirche St. Johannis
+    type: building
+files:
+  - role: main
+    original_name: scan_043.tif
+    path: files/31/df/31dfd6ac97eea935bff3b72fd0dd1b3fdc0b2d7491175281f8094ec20f33499e/original.tif
+    sha256: 31dfd6ac97eea935bff3b72fd0dd1b3fdc0b2d7491175281f8094ec20f33499e
+    mime: image/tiff
+    bytes: 5184388
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/31/df/31dfd6ac97eea935bff3b72fd0dd1b3fdc0b2d7491175281f8094ec20f33499e/preview-400.b2ed671fe528.jpg
+        sha256: b2ed671fe52886fcf204efe5d64d9ee323fc5df3514f4e0841a6c974feefe3bb
+        mime: image/jpeg
+        bytes: 72188
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

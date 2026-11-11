@@ -1,0 +1,38 @@
+id: 01KK0GESQM17DZ5MKB9M1292ZA
+type: image
+subtype: photo
+title: Familie Behrens beim Beerdigung
+date: 1983-12-06
+location: Rüterberg, Bahnhofstraße
+geocode:
+  lat: 52.9359
+  lon: 11.6115
+  precision: street
+  source: osm
+origin:
+  name: Lotte Wiegmann
+  type: person
+  location: Dömitz
+parents:
+  - 01HW1XG7P06SRWXZK7CKV1D89H
+  - 01J5VEM4DET47BYJHEPTWJ7T8Q
+files:
+  - role: main
+    original_name: scan_476.tif
+    path: files/30/95/309550a7ed45f8576806c1f0aec3d420178a3fc3b8f4c416c607bcec11de04ea/original.tif
+    sha256: 309550a7ed45f8576806c1f0aec3d420178a3fc3b8f4c416c607bcec11de04ea
+    mime: image/tiff
+    bytes: 26774409
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/30/95/309550a7ed45f8576806c1f0aec3d420178a3fc3b8f4c416c607bcec11de04ea/preview-400.ba4fe438d7b1.jpg
+        sha256: ba4fe438d7b1846a49e296a5e7d8ee4db1082cd26354bf9a3eb821723e8da4ae
+        mime: image/jpeg
+        bytes: 22005
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

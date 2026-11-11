@@ -1,0 +1,40 @@
+id: 01GW7YNK5PQQK0T0DJ2CCRTA7R
+type: image
+subtype: print
+title: Postkarte Restorf, Storchennest
+description: Kupferstich, koloriert.
+date: "1736"
+location: Lenzen, Heuberge
+origin:
+  name: Rudolf Meyer
+  type: person
+  location: Lüchow
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Richtfest 1736
+    type: event
+  - name: Richtfest 1736
+    type: event
+parents:
+  - 01HXAPP619H88A03THR4YYNB5Y
+files:
+  - role: main
+    original_name: scan_364.tif
+    path: files/37/bc/37bcd61025108535fce4dfc9eff322d410db871167e9e5a43175ad5e9e038808/original.tif
+    sha256: 37bcd61025108535fce4dfc9eff322d410db871167e9e5a43175ad5e9e038808
+    mime: image/tiff
+    bytes: 21052076
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/37/bc/37bcd61025108535fce4dfc9eff322d410db871167e9e5a43175ad5e9e038808/preview-400.fa0cf684c08a.jpg
+        sha256: fa0cf684c08a0a605a123a4e711635e5a2de36b7261ae491e7ad794398ef41c5
+        mime: image/jpeg
+        bytes: 50710
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

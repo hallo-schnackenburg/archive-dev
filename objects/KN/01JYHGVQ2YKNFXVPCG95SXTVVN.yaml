@@ -1,0 +1,34 @@
+id: 01JYHGVQ2YKNFXVPCG95SXTVVN
+type: image
+subtype: print
+title: Postkarte Wittenberge, Windmühle
+description: Kupferstich, koloriert.
+date: 1811/1817
+location: Wittenberge, Elbdeich
+origin:
+  name: Ilse Voss
+  type: person
+  location: Wustrow
+subjects:
+  - name: Poststelle
+    type: building
+files:
+  - role: main
+    original_name: scan_246.tif
+    path: files/3a/ad/3aad8f0ee559855746cedbd26870c21253439e59b40776a5f3fb9c05c8fb8c29/original.tif
+    sha256: 3aad8f0ee559855746cedbd26870c21253439e59b40776a5f3fb9c05c8fb8c29
+    mime: image/tiff
+    bytes: 25325154
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/3a/ad/3aad8f0ee559855746cedbd26870c21253439e59b40776a5f3fb9c05c8fb8c29/preview-400.3d23d74f01a5.jpg
+        sha256: 3d23d74f01a5bebfb3af627a497e227dc64340c48c77634d60b294cec471fed6
+        mime: image/jpeg
+        bytes: 63922
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01HHYNXFGJGA8T764RQQ2FY0PX
+type: image
+subtype: plan
+title: Bauplan Torhaus 1981
+date: "1981"
+origin:
+  name: Karl Krüger
+  type: person
+  location: Havelberg
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+parents:
+  - 01M265RTMYNX5W0CM6R19YZYNH
+files:
+  - role: main
+    original_name: scan_464.tif
+    path: files/3a/cc/3accd2bf444d8bb1eec9df70db4cf8581dc4b3ebee853c54081d73fa27ca89a7/original.tif
+    sha256: 3accd2bf444d8bb1eec9df70db4cf8581dc4b3ebee853c54081d73fa27ca89a7
+    mime: image/tiff
+    bytes: 3901974
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3a/cc/3accd2bf444d8bb1eec9df70db4cf8581dc4b3ebee853c54081d73fa27ca89a7/preview-400.e8156ba62de0.jpg
+        sha256: e8156ba62de05b61b6083c1c81549c1181cfca830454400e785f6e91df759e61
+        mime: image/jpeg
+        bytes: 22421
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

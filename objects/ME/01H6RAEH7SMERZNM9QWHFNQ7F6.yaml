@@ -1,0 +1,37 @@
+id: 01H6RAEH7SMERZNM9QWHFNQ7F6
+type: image
+subtype: drawing
+title: Skizze Schnackenburg, Bahnhofstraße
+date: 1869-05
+location: Seedorf, Lange Straße
+geocode:
+  lat: 52.9367
+  lon: 11.6078
+  precision: street
+  source: osm
+origin:
+  name: Otto Gaede
+  type: person
+  location: Salzwedel
+parents:
+  - 01J3V1AMRN38DQVKPXPMF1EE94
+files:
+  - role: main
+    original_name: scan_646.tif
+    path: files/28/40/2840342fd204b4429eeb5fb3f6eceebee306abfc622cf5aee31ba2927ea980d5/original.tif
+    sha256: 2840342fd204b4429eeb5fb3f6eceebee306abfc622cf5aee31ba2927ea980d5
+    mime: image/tiff
+    bytes: 26318420
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/28/40/2840342fd204b4429eeb5fb3f6eceebee306abfc622cf5aee31ba2927ea980d5/preview-400.28b70caa02fb.jpg
+        sha256: 28b70caa02fb1f5a325f9ad11c9ea5d52ec5f239970b384ac687e18717cb97e0
+        mime: image/jpeg
+        bytes: 27737
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

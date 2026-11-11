@@ -1,0 +1,56 @@
+id: 01HADBVSFZDE7PW16YGV9HCW9F
+type: document
+subtype: note
+title: Rechnung Wegner, Backhaus
+date: 1990/1997
+location: Nienwalde, Hafenstraße
+geocode:
+  lat: 52.9013
+  lon: 11.6313
+  precision: region
+  source: osm
+language: de
+parents:
+  - 01EZPB1VX62FRSWZHWBBH2D77Z
+  - 01J0KJQZCBVBB5P2CFE222P7V3
+files:
+  - role: page
+    num: 1
+    original_name: note_9hcw9f_001.tif
+    path: files/de/db/dedba562bc7209da3834a43c2ab1120f571d53776fba62dddefae217191c4e19/original.tif
+    sha256: dedba562bc7209da3834a43c2ab1120f571d53776fba62dddefae217191c4e19
+    mime: image/tiff
+    bytes: 1742871
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/db/dedba562bc7209da3834a43c2ab1120f571d53776fba62dddefae217191c4e19/preview-400.05df7fd0d9e4.jpg
+        sha256: 05df7fd0d9e41db97e7f1a14b07cdb83275cfc7edc62a73b88f42bb70f103a31
+        mime: image/jpeg
+        bytes: 24142
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_9hcw9f_002.tif
+    path: files/65/43/6543e599212f461e3033260dde2fa7680492a1ec6717e3976ec0977da0c4d6a7/original.tif
+    sha256: 6543e599212f461e3033260dde2fa7680492a1ec6717e3976ec0977da0c4d6a7
+    mime: image/tiff
+    bytes: 18852064
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/65/43/6543e599212f461e3033260dde2fa7680492a1ec6717e3976ec0977da0c4d6a7/preview-400.1acdebdb308e.jpg
+        sha256: 1acdebdb308ec61b98c562c33f295686845e7461d773d2342656b488558b3866
+        mime: image/jpeg
+        bytes: 31562
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

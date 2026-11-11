@@ -1,0 +1,33 @@
+id: 01JR4KD9KJKG7MWPN3S8DANAQD
+type: image
+subtype: plan
+title: Deichplan Cumlosen bis Nienwalde
+description: Maßstab 1:500.
+date: 1979-03-21
+origin:
+  name: Hans Garms
+  type: person
+  location: Arendsee
+subjects:
+  - name: Brunnen am Markt
+    type: building
+files:
+  - role: main
+    original_name: scan_468.tif
+    path: files/de/74/de74db4b99dd09209eeaf7c0c5fd5cd823ad96670742d03aa5d328855fc72a08/original.tif
+    sha256: de74db4b99dd09209eeaf7c0c5fd5cd823ad96670742d03aa5d328855fc72a08
+    mime: image/tiff
+    bytes: 14167196
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/74/de74db4b99dd09209eeaf7c0c5fd5cd823ad96670742d03aa5d328855fc72a08/preview-400.dedba4505efb.jpg
+        sha256: dedba4505efb390fbf38acc1e13d54700a8986db4e1ccdf4a50d3eb55280f612
+        mime: image/jpeg
+        bytes: 25619
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

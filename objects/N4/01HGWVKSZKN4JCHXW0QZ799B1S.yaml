@@ -1,0 +1,33 @@
+id: 01HGWVKSZKN4JCHXW0QZ799B1S
+type: image
+subtype: plan
+title: Bauplan Dorfkrug 1972
+description: Tusche auf Transparentpapier.
+date: 1972-11-19
+location: Lanz, Marktstraße
+origin:
+  name: Albert Sievers
+  type: person
+  location: Laase
+parents:
+  - 01J5VEM4DET47BYJHEPTWJ7T8Q
+files:
+  - role: main
+    original_name: scan_914.tif
+    path: files/2e/3b/2e3b3c11ba1c57070bb1e5d158db27b30faa43686f4b5a5132d420ff8d9aa95d/original.tif
+    sha256: 2e3b3c11ba1c57070bb1e5d158db27b30faa43686f4b5a5132d420ff8d9aa95d
+    mime: image/tiff
+    bytes: 14260282
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/3b/2e3b3c11ba1c57070bb1e5d158db27b30faa43686f4b5a5132d420ff8d9aa95d/preview-400.5d3e0055fb70.jpg
+        sha256: 5d3e0055fb70a5248e5b9a080b8fe7434702aada212e0f20222d7d43e663a103
+        mime: image/jpeg
+        bytes: 67728
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

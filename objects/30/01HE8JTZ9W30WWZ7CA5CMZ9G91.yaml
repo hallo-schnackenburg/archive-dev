@@ -1,0 +1,42 @@
+id: 01HE8JTZ9W30WWZ7CA5CMZ9G91
+type: image
+subtype: drawing
+title: Skizze Wustrow, Dorfstraße
+date: 1861?
+location: Schnackenburg, Schützenhaus
+geocode:
+  lat: 52.9223
+  lon: 11.597
+  precision: exact
+  source: osm
+origin:
+  name: Ingrid Bohlmann
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Elbdeich
+    type: building
+  - name: Grenzöffnung 1861
+    type: event
+  - name: Marta Meyer
+    type: person
+files:
+  - role: main
+    original_name: scan_654.tif
+    path: files/4e/00/4e000a92e6c77c056fa811d00d8d1d9dd39bf66c769010b08b4bc89727905bc1/original.tif
+    sha256: 4e000a92e6c77c056fa811d00d8d1d9dd39bf66c769010b08b4bc89727905bc1
+    mime: image/tiff
+    bytes: 7051496
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4e/00/4e000a92e6c77c056fa811d00d8d1d9dd39bf66c769010b08b4bc89727905bc1/preview-400.9801b3aa530c.jpg
+        sha256: 9801b3aa530c0beac3f340ee3c515add6288433917d8a88efc15e1c4e86e8709
+        mime: image/jpeg
+        bytes: 52877
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

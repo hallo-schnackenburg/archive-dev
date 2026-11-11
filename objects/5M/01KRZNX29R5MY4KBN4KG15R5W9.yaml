@@ -1,0 +1,32 @@
+id: 01KRZNX29R5MY4KBN4KG15R5W9
+type: image
+subtype: photo
+title: Dorffest 1903
+date: 1903-01
+subjects:
+  - name: Lanz
+    type: place
+  - name: Erntedankfest 1903
+    type: event
+parents:
+  - 01HEQM7NSGG9CPG145FYB637TF
+files:
+  - role: main
+    original_name: scan_197.tif
+    path: files/15/62/1562b9c891a967712da38785201ad998112fc071c5f9aed50354774616f2ad1a/original.tif
+    sha256: 1562b9c891a967712da38785201ad998112fc071c5f9aed50354774616f2ad1a
+    mime: image/tiff
+    bytes: 23763948
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/15/62/1562b9c891a967712da38785201ad998112fc071c5f9aed50354774616f2ad1a/preview-400.ec59a9a0e426.jpg
+        sha256: ec59a9a0e426da3592497526ce99bbe887b66c2fb7fe12a2b94246e684078ebe
+        mime: image/jpeg
+        bytes: 85562
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

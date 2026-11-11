@@ -1,0 +1,36 @@
+id: 01K55DJ9DB395PA80MTDMZ0Z4P
+type: image
+subtype: print
+title: Lithographie Apotheke, Hitzacker
+date: "1872"
+origin:
+  name: Marta Hennings
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Sturmschaden 1872
+    type: event
+  - name: Schützenfest 1872
+    type: event
+parents:
+  - 01H4PN30WRRJ626WVNCSGETHA9
+files:
+  - role: main
+    original_name: scan_693.tif
+    path: files/3d/73/3d7317831af70e45a98fd93b8644c7d6e87fda5ed13d5167864bf63410cd00b6/original.tif
+    sha256: 3d7317831af70e45a98fd93b8644c7d6e87fda5ed13d5167864bf63410cd00b6
+    mime: image/tiff
+    bytes: 23491342
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/3d/73/3d7317831af70e45a98fd93b8644c7d6e87fda5ed13d5167864bf63410cd00b6/preview-400.3d8517ac90c0.jpg
+        sha256: 3d8517ac90c05734993eda9f62c0700dab0ab2a931fe5d65292cb72ab51e3b36
+        mime: image/jpeg
+        bytes: 74188
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

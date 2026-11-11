@@ -1,0 +1,38 @@
+id: 01F3NYWEVMFKYHQNTAZDJ3DTYZ
+type: image
+subtype: photo
+title: Tanzsaal nach dem Einweihung
+date: 1952-03-16
+location: Zadrau, Bahnhofstraße
+geocode:
+  lat: 52.9009
+  lon: 11.496
+  precision: street
+  source: osm
+origin:
+  name: Karl Garms
+  type: person
+  location: Kapern
+subjects:
+  - name: Brückeneinweihung 1952
+    type: event
+files:
+  - role: main
+    original_name: foto_1168.jpg
+    path: files/62/06/6206208c1725eef6bbfe06a4efc7343bb5608beaaf252de2ab5b9aba72fe67e0/original.jpg
+    sha256: 6206208c1725eef6bbfe06a4efc7343bb5608beaaf252de2ab5b9aba72fe67e0
+    mime: image/jpeg
+    bytes: 9739948
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/62/06/6206208c1725eef6bbfe06a4efc7343bb5608beaaf252de2ab5b9aba72fe67e0/preview-400.c16c167362c1.jpg
+        sha256: c16c167362c1c858cf77f5e9542343ec02a83ffb5daca77ad9954f0f4ed5480a
+        mime: image/jpeg
+        bytes: 65499
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

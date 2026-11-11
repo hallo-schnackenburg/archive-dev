@@ -1,0 +1,47 @@
+id: 01HZ29539N5BW6NHNHCPKXSZTB
+type: image
+subtype: photo
+title: "Kirchenchor: Gruppenbild Viehmarkt"
+description: Aufnahme von Heinrich Wiese.
+date: "1983"
+location: Cumlosen, Am Elbdeich
+geocode:
+  lat: 53.0223
+  lon: 11.5132
+  precision: town
+  source: osm
+origin:
+  name: Heinz Brandt
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+parents:
+  - 01FEMA2K3GSA17BGZHHP3N0PEF
+  - 01JZKNVKBS64VYGFSCYTCB6QDJ
+files:
+  - role: main
+    original_name: DSC3071.jpg
+    path: files/92/e9/92e929a5f91326fa25180ccf4836bfa3db5eafcc07bc40db281bae8f2cb998b6/original.jpg
+    sha256: 92e929a5f91326fa25180ccf4836bfa3db5eafcc07bc40db281bae8f2cb998b6
+    mime: image/jpeg
+    bytes: 5908030
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/92/e9/92e929a5f91326fa25180ccf4836bfa3db5eafcc07bc40db281bae8f2cb998b6/preview-400.1dc562b3b8c6.jpg
+        sha256: 1dc562b3b8c61d5e8936280a1b3d6520f39a61fbd3117ede190336ee6d61c187
+        mime: image/jpeg
+        bytes: 39224
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

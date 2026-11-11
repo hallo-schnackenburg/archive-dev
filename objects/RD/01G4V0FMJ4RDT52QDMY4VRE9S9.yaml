@@ -1,0 +1,42 @@
+id: 01G4V0FMJ4RDT52QDMY4VRE9S9
+type: image
+subtype: photo
+title: Gartenstraße, Ecke Kirchstraße
+description: Zu sehen sind Schmiede und Kaufmannshaus.
+date: "1970"
+location: Dömitz, Bahnhofstraße
+origin:
+  name: Hans Eggers
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 1/324
+subjects:
+  - name: Wootz
+    type: place
+  - name: Kegelbahn
+    type: building
+files:
+  - role: main
+    original_name: IMG_8215.jpg
+    path: files/4d/c5/4dc5e4e902bce080b3aa946db01cd5a609657d2532cb6943db6c94a09880e125/original.jpg
+    sha256: 4dc5e4e902bce080b3aa946db01cd5a609657d2532cb6943db6c94a09880e125
+    mime: image/jpeg
+    bytes: 1017560
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/4d/c5/4dc5e4e902bce080b3aa946db01cd5a609657d2532cb6943db6c94a09880e125/preview-400.d3fec780ba34.jpg
+        sha256: d3fec780ba346abb7127364a9433c9278d69815000cba82368c8ae9a03935852
+        mime: image/jpeg
+        bytes: 39028
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

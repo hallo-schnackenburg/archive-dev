@@ -1,0 +1,41 @@
+id: 01HG3F3CCC5KF046EKZC0M0B52
+type: image
+subtype: print
+title: Lithographie Molkerei, Schnackenburg
+origin:
+  name: Wilhelm Ludolf
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 3/069
+subjects:
+  - name: Sturmschaden 1792
+    type: event
+  - name: August Sievers
+    type: person
+parents:
+  - 01FT5CTVAMDQF7480XV03FD2CZ
+files:
+  - role: main
+    original_name: scan_314.tif
+    path: files/cc/76/cc76ed2dda3d7c8b0c89426d102264398a0141c04ec1231f189de3fd6870118a/original.tif
+    sha256: cc76ed2dda3d7c8b0c89426d102264398a0141c04ec1231f189de3fd6870118a
+    mime: image/tiff
+    bytes: 26254638
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cc/76/cc76ed2dda3d7c8b0c89426d102264398a0141c04ec1231f189de3fd6870118a/preview-400.e130210fa575.jpg
+        sha256: e130210fa57504e82ed453604a833d18c30a6cfdaf85c843195052c5bf5f2c00
+        mime: image/jpeg
+        bytes: 47047
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

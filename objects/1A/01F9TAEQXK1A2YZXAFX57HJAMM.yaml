@@ -1,0 +1,55 @@
+id: 01F9TAEQXK1A2YZXAFX57HJAMM
+type: document
+subtype: protocol
+title: Protokoll des Stadtrat vom 1872
+language: de
+subjects:
+  - name: Hafen
+    type: building
+  - name: Wustrow
+    type: place
+  - name: Hochwasser 1872
+    type: event
+parents:
+  - 01FQ3YZE77QNA1ZTVZV37G0FNF
+files:
+  - role: page
+    num: 1
+    original_name: protocol_7hjamm_001.tif
+    path: files/5e/64/5e641f28f373f692fd20db795764d636a9aef62069c8e11b8857063870e87d7c/original.tif
+    sha256: 5e641f28f373f692fd20db795764d636a9aef62069c8e11b8857063870e87d7c
+    mime: image/tiff
+    bytes: 16811842
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5e/64/5e641f28f373f692fd20db795764d636a9aef62069c8e11b8857063870e87d7c/preview-400.de4b76ad1118.jpg
+        sha256: de4b76ad11184df730f7848431914c236cc30f42a9bb7a223a1f875d18129098
+        mime: image/jpeg
+        bytes: 81498
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_7hjamm_002.tif
+    path: files/97/74/9774bd3b7c042afe23f1c275217b6457b5ce1dbc3b2ea2a69993f2f9cb3ce813/original.tif
+    sha256: 9774bd3b7c042afe23f1c275217b6457b5ce1dbc3b2ea2a69993f2f9cb3ce813
+    mime: image/tiff
+    bytes: 26757830
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/74/9774bd3b7c042afe23f1c275217b6457b5ce1dbc3b2ea2a69993f2f9cb3ce813/preview-400.8c61cfe4b7b7.jpg
+        sha256: 8c61cfe4b7b770a443a2bb84fc901a037b954f42340c55c9e9bdf621d31b27ad
+        mime: image/jpeg
+        bytes: 72442
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

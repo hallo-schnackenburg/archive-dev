@@ -1,0 +1,39 @@
+id: 01KN2ECVFWERKJVPV4V43RRN39
+type: image
+subtype: photo
+title: Hochwasser 1974
+description: Farbfoto, leicht verblasst.
+date: "1974"
+origin:
+  name: Karl Sievers
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 7/031
+parents:
+  - 01GA39T3DGKMZM390K7AXRNKQW
+  - 01HD61F86MBNWMCVSSSSY9BBBD
+files:
+  - role: main
+    original_name: IMG_8930.jpg
+    path: files/4e/04/4e04a299449136536ddaa4532c84194bea06b4ed117e4c654482703e98597d75/original.jpg
+    sha256: 4e04a299449136536ddaa4532c84194bea06b4ed117e4c654482703e98597d75
+    mime: image/jpeg
+    bytes: 10833013
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/4e/04/4e04a299449136536ddaa4532c84194bea06b4ed117e4c654482703e98597d75/preview-400.1108e54b1d2a.jpg
+        sha256: 1108e54b1d2a3c49a38c77a46f5ca69c7cba2b80afaf5757c63c3ef8b80461cf
+        mime: image/jpeg
+        bytes: 31580
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01GPRBYDZBXMAP2DFDGP3DZFEW
+type: image
+subtype: photo
+title: Gerda Ludolf, Porträt
+date: 1921-07
+location: Wustrow, Bäckerei Lüders
+origin:
+  name: Hans Hennings
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Hochwasser 1921
+    type: event
+files:
+  - role: main
+    original_name: scan_597.tif
+    path: files/a5/a7/a5a7fa4a71ea9f51122d2c13fc586ef6e27d820edb4393a7d8dce9dd1c703e8a/original.tif
+    sha256: a5a7fa4a71ea9f51122d2c13fc586ef6e27d820edb4393a7d8dce9dd1c703e8a
+    mime: image/tiff
+    bytes: 19011004
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a5/a7/a5a7fa4a71ea9f51122d2c13fc586ef6e27d820edb4393a7d8dce9dd1c703e8a/preview-400.f5bf42c685b1.jpg
+        sha256: f5bf42c685b1d808f2de0dd152e9d5312c1d725ed5753c5e2bdc55b03bb98d89
+        mime: image/jpeg
+        bytes: 26851
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

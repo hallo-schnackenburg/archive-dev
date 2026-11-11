@@ -1,0 +1,38 @@
+id: 01G2NPX2PYKN52HTRDYJQ02RSY
+type: image
+subtype: plan
+title: Deichplan Dömitz bis Wittenberge
+description: Maßstab 1:1000.
+date: 1915?
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F 38/040
+  note: Planschrank, Fach 3
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Dorfkrug
+    type: building
+files:
+  - role: main
+    original_name: scan_596.tif
+    path: files/ea/c7/eac7fe7b2779f66f27203cc9cbeaf91663c613ad02ce5d83f1c8612bf978796f/original.tif
+    sha256: eac7fe7b2779f66f27203cc9cbeaf91663c613ad02ce5d83f1c8612bf978796f
+    mime: image/tiff
+    bytes: 7378944
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ea/c7/eac7fe7b2779f66f27203cc9cbeaf91663c613ad02ce5d83f1c8612bf978796f/preview-400.3db2503728f9.jpg
+        sha256: 3db2503728f9515098bdd03189aad644c07a260493c49496d9ec77e296a07836
+        mime: image/jpeg
+        bytes: 30780
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

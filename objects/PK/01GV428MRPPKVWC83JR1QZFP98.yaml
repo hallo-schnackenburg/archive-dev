@@ -1,0 +1,35 @@
+id: 01GV428MRPPKVWC83JR1QZFP98
+type: image
+subtype: plan
+title: Grundriss Wassermühle, Lenzen
+date: 181X
+location: Seedorf, Lange Straße
+origin:
+  name: Heinz Schulz
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Schützenhaus
+    type: building
+parents:
+  - 01JDP1HT97BVWFD5H634MRB0GA
+files:
+  - role: main
+    original_name: scan_456.tif
+    path: files/03/54/03549519c404913265b646ffd5b349937f610cc0a21af0d7083155e0a1b0499f/original.tif
+    sha256: 03549519c404913265b646ffd5b349937f610cc0a21af0d7083155e0a1b0499f
+    mime: image/tiff
+    bytes: 9057400
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/03/54/03549519c404913265b646ffd5b349937f610cc0a21af0d7083155e0a1b0499f/preview-400.4d71e30f19a1.jpg
+        sha256: 4d71e30f19a1045674b3ed5ecf1fb8995a56a46b96beda8f0d0c084bd8909d49
+        mime: image/jpeg
+        bytes: 57138
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

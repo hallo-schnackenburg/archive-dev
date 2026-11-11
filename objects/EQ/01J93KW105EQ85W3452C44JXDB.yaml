@@ -1,0 +1,45 @@
+id: 01J93KW105EQ85W3452C44JXDB
+type: image
+subtype: photo
+title: Fastnacht 1904
+date: 1904?
+location: Wootz, Bahnhofstraße
+origin:
+  name: Erika Lemke
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Gorleben
+  reference: F 23/020
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Badestelle
+    type: building
+  - name: Ziegelei
+    type: building
+parents:
+  - 01F267JRW9ANSP74NWFX31H9W4
+files:
+  - role: main
+    original_name: IMG_1942.jpg
+    path: files/06/d0/06d0138abaf73c3645ed3b0a20f53a05c77b1ffc13d8715051d3aee23d4ec09d/original.jpg
+    sha256: 06d0138abaf73c3645ed3b0a20f53a05c77b1ffc13d8715051d3aee23d4ec09d
+    mime: image/jpeg
+    bytes: 1183934
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/06/d0/06d0138abaf73c3645ed3b0a20f53a05c77b1ffc13d8715051d3aee23d4ec09d/preview-400.ec407488d690.jpg
+        sha256: ec407488d690e1f92db01c5ade2900d5de8b20fb2b26faa23c61cabdd8b3a3de
+        mime: image/jpeg
+        bytes: 83609
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

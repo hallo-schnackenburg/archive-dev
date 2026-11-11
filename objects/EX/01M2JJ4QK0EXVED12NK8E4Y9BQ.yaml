@@ -1,0 +1,38 @@
+id: 01M2JJ4QK0EXVED12NK8E4Y9BQ
+type: image
+subtype: print
+title: Ansichtskarte Mühlenweg, Wustrow
+description: Kupferstich, koloriert.
+date: "1752"
+location: Gülden, Hafenstraße
+owner:
+  name: Marta Ahrens
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Osterfeuer 1752
+    type: event
+  - name: Lüchow
+    type: place
+parents:
+  - 01GRV0HWYNKA4M54BH3W1TXJFJ
+files:
+  - role: main
+    original_name: scan_429.tif
+    path: files/c1/79/c1791c706ff0000bd7e950c72904e661261702511ee6a2ec65b26c62c714b37c/original.tif
+    sha256: c1791c706ff0000bd7e950c72904e661261702511ee6a2ec65b26c62c714b37c
+    mime: image/tiff
+    bytes: 23847954
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c1/79/c1791c706ff0000bd7e950c72904e661261702511ee6a2ec65b26c62c714b37c/preview-400.fa0a68e7aea7.jpg
+        sha256: fa0a68e7aea7ffee775b4d0b3696a6ae4b3064031eee9463ac97dd22b27813b6
+        mime: image/jpeg
+        bytes: 88316
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

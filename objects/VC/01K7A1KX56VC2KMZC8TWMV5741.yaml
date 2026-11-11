@@ -1,0 +1,36 @@
+id: 01K7A1KX56VC2KMZC8TWMV5741
+type: image
+subtype: print
+title: Ansichtskarte Deichstraße, Kapern
+description: Lithographie, Rand beschnitten.
+date: 1828-09-03
+location: Salzwedel, Schulstraße
+origin:
+  name: Friedrich Schwarz
+  type: person
+  location: Gorleben
+subjects:
+  - name: Brückeneinweihung 1828
+    type: event
+parents:
+  - 01JCDR7S9M7BM7M0ZNSCBA2064
+files:
+  - role: main
+    original_name: scan_386.tif
+    path: files/77/33/7733a2a0cd0804148e63bcb0079798f18bf489eb7d47acda5e4b1c14af89177f/original.tif
+    sha256: 7733a2a0cd0804148e63bcb0079798f18bf489eb7d47acda5e4b1c14af89177f
+    mime: image/tiff
+    bytes: 7469843
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/77/33/7733a2a0cd0804148e63bcb0079798f18bf489eb7d47acda5e4b1c14af89177f/preview-400.be282652a575.jpg
+        sha256: be282652a5757faf4d6f6924d17232fa1756c3ffb34d4b2d25525ae1103e850b
+        mime: image/jpeg
+        bytes: 50039
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01K7P6EGNNKH2CXQQGFN6YE0Z5
+type: image
+subtype: photo
+title: Rudolf Meyer, Porträt
+description: Aufnahme von Hans Harms.
+date: 1969-10-23
+location: Holtorf, Hinter den Höfen
+origin:
+  name: Karl Lenz
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  note: Regal 1
+subjects:
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: P5232.jpg
+    path: files/16/c4/16c4a99761fcc0d7af4f36d9edb8be7d09716f100b113c8d027565c2a5c0338d/original.jpg
+    sha256: 16c4a99761fcc0d7af4f36d9edb8be7d09716f100b113c8d027565c2a5c0338d
+    mime: image/jpeg
+    bytes: 20385265
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/16/c4/16c4a99761fcc0d7af4f36d9edb8be7d09716f100b113c8d027565c2a5c0338d/preview-400.871d24f191bf.jpg
+        sha256: 871d24f191bf097e229ac53cadcedfe60d73f00af7ccbc67cc8694022001110c
+        mime: image/jpeg
+        bytes: 88990
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

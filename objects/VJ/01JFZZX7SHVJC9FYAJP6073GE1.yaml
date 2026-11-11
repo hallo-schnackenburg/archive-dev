@@ -1,0 +1,37 @@
+id: 01JFZZX7SHVJC9FYAJP6073GE1
+type: image
+subtype: plan
+title: Bauplan Kindergarten 1817
+description: Maßstab 1:1000.
+location: Lenzen, Badestelle
+origin:
+  name: Helga Lüders
+  type: person
+  location: Holtorf
+subjects:
+  - name: Laase
+    type: place
+  - name: Kindergarten
+    type: building
+  - name: Feuerwehrübung 1817
+    type: event
+files:
+  - role: main
+    original_name: scan_989.tif
+    path: files/99/ac/99ac16bba24629c55538f216fe4fad2e0c39db81e5fdef8601d49e27a0b400cc/original.tif
+    sha256: 99ac16bba24629c55538f216fe4fad2e0c39db81e5fdef8601d49e27a0b400cc
+    mime: image/tiff
+    bytes: 3820084
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/99/ac/99ac16bba24629c55538f216fe4fad2e0c39db81e5fdef8601d49e27a0b400cc/preview-400.d09bbb391576.jpg
+        sha256: d09bbb391576c7633110afec545059ca562c27d089019a02c6263012215f8c63
+        mime: image/jpeg
+        bytes: 31398
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

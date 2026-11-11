@@ -1,0 +1,39 @@
+id: 01H0MSFCZSMWKAF7P3HPN06BAR
+type: image
+subtype: print
+title: Postkarte Dömitz, Wassermühle, Holtorf
+description: Lithographie, Rand beschnitten.
+date: 1752?
+origin:
+  name: Frieda Pape
+  type: person
+  location: Lanz
+owner:
+  name: Gerda Hennings
+  type: person
+  note: Nachlass
+subjects:
+  - name: Kaufmannshaus
+    type: building
+  - name: Jürgen Rohde
+    type: person
+files:
+  - role: main
+    original_name: scan_250.tif
+    path: files/e0/34/e0346850c73b97a3d9bdc00672a333738be78dc3f2bde0982899cae69e9d0871/original.tif
+    sha256: e0346850c73b97a3d9bdc00672a333738be78dc3f2bde0982899cae69e9d0871
+    mime: image/tiff
+    bytes: 3152702
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e0/34/e0346850c73b97a3d9bdc00672a333738be78dc3f2bde0982899cae69e9d0871/preview-400.425c22ab3b75.jpg
+        sha256: 425c22ab3b7521025518b551b3bd38f82fd11bcf86aff7d5b17a1349b36c2ef5
+        mime: image/jpeg
+        bytes: 50934
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

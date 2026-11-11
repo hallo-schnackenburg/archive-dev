@@ -1,0 +1,35 @@
+id: 01GP8PFWBJA5QTSWJJ287WKP6A
+type: image
+subtype: plan
+title: Bauplan Windmühle 1901
+date: "1901"
+location: Lenzen, Kaufmannshaus
+geocode:
+  lat: 52.9745
+  lon: 11.6783
+  precision: street
+  source: osm
+origin:
+  name: Marta Voss
+  type: person
+  location: Gorleben
+files:
+  - role: main
+    original_name: scan_855.tif
+    path: files/61/e1/61e1f180fde8cc0d1d6020d714c29eca5fe58360cec6ab647f672951e82697ed/original.tif
+    sha256: 61e1f180fde8cc0d1d6020d714c29eca5fe58360cec6ab647f672951e82697ed
+    mime: image/tiff
+    bytes: 11773466
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/61/e1/61e1f180fde8cc0d1d6020d714c29eca5fe58360cec6ab647f672951e82697ed/preview-400.37eb7a546343.jpg
+        sha256: 37eb7a546343a5ff18a236e24f47886887b4c9c2a71d12d14ccfe410a7dfe537
+        mime: image/jpeg
+        bytes: 24441
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

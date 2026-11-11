@@ -1,0 +1,30 @@
+id: 01GDKBS68AFJP6EFDXKT81A4XE
+type: image
+subtype: print
+title: Lithographie Schmiede, Restorf
+description: Kupferstich, koloriert.
+date: 1848-02-01
+origin:
+  name: Helga Voss
+  type: person
+  location: Lanz
+files:
+  - role: main
+    original_name: scan_970.tif
+    path: files/d2/7b/d27b78a2b058170916dd78d114243d255c747af0377852ed4e4fb0760ccfa0f7/original.tif
+    sha256: d27b78a2b058170916dd78d114243d255c747af0377852ed4e4fb0760ccfa0f7
+    mime: image/tiff
+    bytes: 11774500
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d2/7b/d27b78a2b058170916dd78d114243d255c747af0377852ed4e4fb0760ccfa0f7/preview-400.88ff227f1324.jpg
+        sha256: 88ff227f1324862eb25f990389b494459dd2ac39cb1689ada1f62edd605faf8c
+        mime: image/jpeg
+        bytes: 34958
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

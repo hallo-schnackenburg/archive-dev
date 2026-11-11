@@ -1,0 +1,34 @@
+id: 01JJPY4SEADGKAY4950F9E47ZH
+type: image
+subtype: drawing
+title: Wappenentwurf Zadrau, Gartow
+description: Bleistift auf Papier.
+date: "1932"
+location: Brünkendorf, Hafenstraße
+origin:
+  name: Otto Meyer
+  type: person
+  location: Gollensdorf
+parents:
+  - 01F5CNJT1P56W2G465BH02E933
+  - 01GTF0FAKD2Z78BGPYW8ZV7JE5
+files:
+  - role: main
+    original_name: scan_921.tif
+    path: files/35/be/35beffac1e48f12980f626583419c0b43d467313eb9bb18e0085440ab5014e7a/original.tif
+    sha256: 35beffac1e48f12980f626583419c0b43d467313eb9bb18e0085440ab5014e7a
+    mime: image/tiff
+    bytes: 8999888
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/35/be/35beffac1e48f12980f626583419c0b43d467313eb9bb18e0085440ab5014e7a/preview-400.643d88370fe5.jpg
+        sha256: 643d88370fe5b04cba5f99dc4b53f25eee29d062786775d8e4f8009227a7aac9
+        mime: image/jpeg
+        bytes: 60832
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

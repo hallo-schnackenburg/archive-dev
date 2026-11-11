@@ -1,0 +1,38 @@
+id: 01EYX5BMB7MFJ2V2172NCSKH17
+type: image
+subtype: photo
+title: Schützenhaus in Lenzen
+description: Farbfoto, leicht verblasst.
+location: Wustrow, Hinter den Höfen
+geocode:
+  lat: 53.0931
+  lon: 11.6704
+  precision: town
+  source: osm
+origin:
+  name: Ernst Meyer
+  type: person
+  location: Zadrau
+subjects:
+  - name: Dorfladen
+    type: building
+files:
+  - role: main
+    original_name: P6566.jpg
+    path: files/13/91/1391fc243acea02c228e646394da623389e4ac2eeca6b45dbe441a9902c25fa4/original.jpg
+    sha256: 1391fc243acea02c228e646394da623389e4ac2eeca6b45dbe441a9902c25fa4
+    mime: image/jpeg
+    bytes: 4014345
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/13/91/1391fc243acea02c228e646394da623389e4ac2eeca6b45dbe441a9902c25fa4/preview-400.3015e6a69cbc.jpg
+        sha256: 3015e6a69cbcca52803298f04521f548828723cbf15f0cd9f149cc81ddda440b
+        mime: image/jpeg
+        bytes: 58069
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

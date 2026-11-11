@@ -1,0 +1,44 @@
+id: 01HQ7D0KCK41WNH8DX71YEVJ9P
+type: document
+subtype: note
+title: Rechnung Wiese, Grenzturm
+description: Beleg mit Stempel.
+date: 1958-11
+location: Laase, Bäckerei Lüders
+language: de
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 19/150
+subjects:
+  - name: Gartow
+    type: place
+  - name: Grenzöffnung 1958
+    type: event
+  - name: Einweihung 1958
+    type: event
+parents:
+  - 01H5DZWSA252A4P3AWD6J9T3TK
+files:
+  - role: page
+    num: 1
+    original_name: note_yevj9p_001.tif
+    path: files/63/08/6308d7f801e01ffed0e00ec8110030951c85fb97a69b23d1683d8cbc0797e146/original.tif
+    sha256: 6308d7f801e01ffed0e00ec8110030951c85fb97a69b23d1683d8cbc0797e146
+    mime: image/tiff
+    bytes: 7090972
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/63/08/6308d7f801e01ffed0e00ec8110030951c85fb97a69b23d1683d8cbc0797e146/preview-400.7d2856b203f0.jpg
+        sha256: 7d2856b203f06448b7121a3f7cb177fc2be5b753531a76f987d6cd60ab9f5cd4
+        mime: image/jpeg
+        bytes: 60955
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

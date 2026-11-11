@@ -1,0 +1,37 @@
+id: 01GVK84MSP08JCCTCNGZVETSRC
+type: image
+subtype: plan
+title: Deichplan Wootz bis Brünkendorf
+description: Tusche auf Transparentpapier.
+date: 1972?
+origin:
+  name: Bernd Lemke
+  type: person
+  location: Wustrow
+subjects:
+  - name: Dieter Tiedemann
+    type: person
+  - name: Storchennest
+    type: building
+  - name: Sparkasse
+    type: building
+files:
+  - role: main
+    original_name: scan_715.tif
+    path: files/b3/7c/b37c2bf28d7393462cedf0465ebb000caa7fe18c330790757d1e89f5a45addf1/original.tif
+    sha256: b37c2bf28d7393462cedf0465ebb000caa7fe18c330790757d1e89f5a45addf1
+    mime: image/tiff
+    bytes: 26534844
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/7c/b37c2bf28d7393462cedf0465ebb000caa7fe18c330790757d1e89f5a45addf1/preview-400.18266ed3d184.jpg
+        sha256: 18266ed3d18459356d17be64ee64f7bda20af5951022a83f216bc9ba39e50b99
+        mime: image/jpeg
+        bytes: 41919
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

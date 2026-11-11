@@ -1,0 +1,38 @@
+id: 01FPB03GQVBFV0PVFX26NDZFC3
+type: image
+subtype: photo
+title: Familie Rohde beim Hochwasser
+date: "1913"
+location: Kapern, Sparkasse
+origin:
+  name: Walter Meyer
+  type: person
+  location: Holtorf
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Hochwasser 1913
+    type: event
+parents:
+  - 01GT8QZ1TC8KRDKD8TAJXY7YDB
+  - 01GVJSDJ9R4Q8JD7JQQP5X0PH0
+files:
+  - role: main
+    original_name: DSC9298.jpg
+    path: files/5f/88/5f883a86640a594cdb3bfde53e38cdf94aefca5cfe37b49ba43cac4c6979b4ad/original.jpg
+    sha256: 5f883a86640a594cdb3bfde53e38cdf94aefca5cfe37b49ba43cac4c6979b4ad
+    mime: image/jpeg
+    bytes: 25912567
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/5f/88/5f883a86640a594cdb3bfde53e38cdf94aefca5cfe37b49ba43cac4c6979b4ad/preview-400.e77d975ca8cf.jpg
+        sha256: e77d975ca8cf1a8e6fbcaf14594962851d30f462b08fb36ed7b600797aa13543
+        mime: image/jpeg
+        bytes: 85157
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01GRE97ACR3VG1EYYFJH7DASGR
+type: image
+subtype: print
+title: Postkarte Bömenzien, Pfarrhaus
+description: Kupferstich, koloriert.
+date: 1842?
+location: Lanz, Poststelle
+origin:
+  name: Albert Tiedemann
+  type: person
+  location: Kapern
+files:
+  - role: main
+    original_name: scan_603.tif
+    path: files/9b/68/9b688a34724f90d6810d609ee3fc8a384d34b8efdbcd2337588af33adba9ba9f/original.tif
+    sha256: 9b688a34724f90d6810d609ee3fc8a384d34b8efdbcd2337588af33adba9ba9f
+    mime: image/tiff
+    bytes: 25016833
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9b/68/9b688a34724f90d6810d609ee3fc8a384d34b8efdbcd2337588af33adba9ba9f/preview-400.3486af04463a.jpg
+        sha256: 3486af04463a8ae0de9bab4498f6afc4bea9a9d6459a9282057b8fc8b16b33bf
+        mime: image/jpeg
+        bytes: 38612
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

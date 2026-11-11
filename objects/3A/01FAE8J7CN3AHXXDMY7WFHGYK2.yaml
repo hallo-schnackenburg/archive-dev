@@ -1,0 +1,45 @@
+id: 01FAE8J7CN3AHXXDMY7WFHGYK2
+type: image
+subtype: photo
+title: Blick vom Dorfteich auf das Speicher
+description: Aufnahme von Ilse Schulz.
+date: "1989"
+location: Arendsee, Fachwerkhaus Marktstraße 4
+geocode:
+  lat: 53.0082
+  lon: 11.6457
+  precision: region
+  source: osm
+origin:
+  name: Erika Jeß
+  type: person
+  location: Bömenzien
+owner:
+  name: Heinrich Schulz
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Dorffest 1989
+    type: event
+  - name: Rudolf Voss
+    type: person
+files:
+  - role: main
+    original_name: foto_9833.jpg
+    path: files/c5/32/c53210c06bd7b4e1c2e58e945aae38e3574d25ef0e9c3a9fd18bf6229c36acf6/original.jpg
+    sha256: c53210c06bd7b4e1c2e58e945aae38e3574d25ef0e9c3a9fd18bf6229c36acf6
+    mime: image/jpeg
+    bytes: 27911420
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/c5/32/c53210c06bd7b4e1c2e58e945aae38e3574d25ef0e9c3a9fd18bf6229c36acf6/preview-400.b7b5721e224a.jpg
+        sha256: b7b5721e224a93cb0d568f2284a85e17778d79645e6a5ebbc16734186ec65732
+        mime: image/jpeg
+        bytes: 42762
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,63 @@
+id: 01FE5582BP00BREAWK52PX4BRD
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Kriegerverein 1940
+date: 1940-08
+location: Salzwedel, Schlachterei
+geocode:
+  lat: 52.9575
+  lon: 11.638
+  precision: exact
+  source: osm
+origin:
+  name: Samtgemeinderat Salzwedel
+  type: business
+  location: Gorleben
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 1
+files:
+  - role: page
+    num: 1
+    original_name: protocol_px4brd_001.tif
+    path: files/21/64/21643828e7dda7e4e7310195f619307acc86e244bf46e26f5fa964f8c5dcad89/original.tif
+    sha256: 21643828e7dda7e4e7310195f619307acc86e244bf46e26f5fa964f8c5dcad89
+    mime: image/tiff
+    bytes: 14694779
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/21/64/21643828e7dda7e4e7310195f619307acc86e244bf46e26f5fa964f8c5dcad89/preview-400.632a13f09e53.jpg
+        sha256: 632a13f09e530ef9b1eb8e494b4d8c65475dd92ee19a47769fed94972a944513
+        mime: image/jpeg
+        bytes: 31101
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_px4brd_002.tif
+    path: files/6e/57/6e5707826fdeaf2adf3fdb5c091dec52b188f851e5581e0a77e6af5032844e7a/original.tif
+    sha256: 6e5707826fdeaf2adf3fdb5c091dec52b188f851e5581e0a77e6af5032844e7a
+    mime: image/tiff
+    bytes: 4843620
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/57/6e5707826fdeaf2adf3fdb5c091dec52b188f851e5581e0a77e6af5032844e7a/preview-400.0d139a1e76ea.jpg
+        sha256: 0d139a1e76ead610ad4b3267821a8fef496c8a95c30ce230f4299df50cd700f8
+        mime: image/jpeg
+        bytes: 65688
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

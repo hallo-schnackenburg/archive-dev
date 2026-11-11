@@ -1,0 +1,42 @@
+id: 01FBCQCAHT6S3Z4E5VNMWNCCN3
+type: image
+subtype: plan
+title: Bauplan Dorfkrug 1806
+date: 1806-10-16
+origin:
+  name: Sabine Schwarz
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Frieda Pape
+    type: person
+parents:
+  - 01G1ZMXCSZWR93Z3JYH6CR645Y
+files:
+  - role: main
+    original_name: scan_541.tif
+    path: files/f5/8e/f58e1713fa89ab719f04649f8fcae93dd6e6fa1bee6005ce9a333de3b7a97f23/original.tif
+    sha256: f58e1713fa89ab719f04649f8fcae93dd6e6fa1bee6005ce9a333de3b7a97f23
+    mime: image/tiff
+    bytes: 12106903
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f5/8e/f58e1713fa89ab719f04649f8fcae93dd6e6fa1bee6005ce9a333de3b7a97f23/preview-400.05b5c5286293.jpg
+        sha256: 05b5c52862939dc454273928c53a6e7ce6a6958a077560d424d0e216ad7ab948
+        mime: image/jpeg
+        bytes: 66551
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Doppelt vorhanden?

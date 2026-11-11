@@ -1,0 +1,48 @@
+id: 01FZ8WTSFG05MS33JP9S2NBDWD
+type: image
+subtype: print
+title: "Holzschnitt: Deicharbeiten"
+date: 1790-06
+location: Bömenzien, Am Elbdeich
+geocode:
+  lat: 52.9397
+  lon: 11.5121
+  precision: street
+  source: osm
+origin:
+  name: Gisela Krüger
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Mappe 4/085
+subjects:
+  - name: Gartow
+    type: place
+  - name: Straßenfest 1790
+    type: event
+  - name: Dömitz
+    type: place
+files:
+  - role: main
+    original_name: scan_532.tif
+    path: files/46/95/46954020484c3b731b2d6f4b654ec4281e80e9905e0c8892cf412545f8b054bb/original.tif
+    sha256: 46954020484c3b731b2d6f4b654ec4281e80e9905e0c8892cf412545f8b054bb
+    mime: image/tiff
+    bytes: 724610
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/46/95/46954020484c3b731b2d6f4b654ec4281e80e9905e0c8892cf412545f8b054bb/preview-400.0f78e2a39543.jpg
+        sha256: 0f78e2a39543430393179020857d8e879c8d390aeeee3916a977f09deb9890c2
+        mime: image/jpeg
+        bytes: 58067
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

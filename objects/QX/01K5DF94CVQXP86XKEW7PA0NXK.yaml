@@ -1,0 +1,44 @@
+id: 01K5DF94CVQXP86XKEW7PA0NXK
+type: document
+subtype: letter
+title: Brief von Christa Lemke an Gisela Voss
+description: Mit Umschlag und Briefmarke.
+location: Cumlosen, Gutshaus
+geocode:
+  lat: 52.9734
+  lon: 11.5934
+  precision: region
+  source: osm
+origin:
+  name: Erika Lüders
+  type: person
+  location: Gorleben
+recipient: Hans Ihde
+language: de
+subjects:
+  - name: Gartow
+    type: place
+parents:
+  - 01HP6EAK3TB1B30E0D5T4P2J2A
+  - 01KCNQMHENJ8PAWGKRGSDX5HZ0
+files:
+  - role: page
+    num: 1
+    original_name: letter_pa0nxk_001.tif
+    path: files/57/27/57275c830d3d609d33239571a0829b6f18e7be3866790b7199ec3bbac0b04a72/original.tif
+    sha256: 57275c830d3d609d33239571a0829b6f18e7be3866790b7199ec3bbac0b04a72
+    mime: image/tiff
+    bytes: 12350340
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/27/57275c830d3d609d33239571a0829b6f18e7be3866790b7199ec3bbac0b04a72/preview-400.ab7d510059a6.jpg
+        sha256: ab7d510059a6aacd883970444b04728425e21a967106482380ec3cba1ce2d79b
+        mime: image/jpeg
+        bytes: 24527
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

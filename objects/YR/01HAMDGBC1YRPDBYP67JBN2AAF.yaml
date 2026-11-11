@@ -1,0 +1,45 @@
+id: 01HAMDGBC1YRPDBYP67JBN2AAF
+type: image
+subtype: photo
+title: Feuerwehrhaus in Pretzier
+description: Abzug im Format 13 x 18 cm.
+date: "1948"
+location: Brünkendorf, Hafenstraße
+geocode:
+  lat: 53.0168
+  lon: 11.4847
+  precision: town
+  source: osm
+origin:
+  name: Otto Gaede
+  type: person
+  location: Holtorf
+subjects:
+  - name: Kapern
+    type: place
+  - name: Marta Behrens
+    type: person
+  - name: Otto Hennings
+    type: person
+parents:
+  - 01J170QRQ1RW8QBV1KF3WPVAX6
+files:
+  - role: main
+    original_name: scan_053.tif
+    path: files/c0/be/c0befb3b608cbc6f1389e293eb44df46da59cfda5975d9745e899cdfeaa17e45/original.tif
+    sha256: c0befb3b608cbc6f1389e293eb44df46da59cfda5975d9745e899cdfeaa17e45
+    mime: image/tiff
+    bytes: 4291835
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c0/be/c0befb3b608cbc6f1389e293eb44df46da59cfda5975d9745e899cdfeaa17e45/preview-400.0fe7851abac8.jpg
+        sha256: 0fe7851abac85964dd5a0ab8fca1579d5d00f242127b0b5a032b0f12ccaaac8a
+        mime: image/jpeg
+        bytes: 34826
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

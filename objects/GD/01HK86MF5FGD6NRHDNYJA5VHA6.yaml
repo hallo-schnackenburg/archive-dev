@@ -1,0 +1,39 @@
+id: 01HK86MF5FGD6NRHDNYJA5VHA6
+type: image
+subtype: plan
+title: Lageplan Badestelle
+description: Maßstab 1:100.
+location: Salzwedel, Elbdeich
+origin:
+  name: Karl Behrens
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Weihnachtsmarkt 1753
+    type: event
+  - name: Gollensdorf
+    type: place
+  - name: Sportplatz
+    type: building
+parents:
+  - 01HJPB419DCSVPH6S0SEYBKD5Z
+files:
+  - role: main
+    original_name: scan_006.tif
+    path: files/4c/f6/4cf67c31dc0d9f08385e3e63716b8d2ade413d44a193ceb0d0efc0536b0b6fb7/original.tif
+    sha256: 4cf67c31dc0d9f08385e3e63716b8d2ade413d44a193ceb0d0efc0536b0b6fb7
+    mime: image/tiff
+    bytes: 12652853
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4c/f6/4cf67c31dc0d9f08385e3e63716b8d2ade413d44a193ceb0d0efc0536b0b6fb7/preview-400.3e5fdf062ffa.jpg
+        sha256: 3e5fdf062ffa60dac2a5cbfbd6ce7ec8048b402d4098c37e53b6addbb58b58ad
+        mime: image/jpeg
+        bytes: 51554
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

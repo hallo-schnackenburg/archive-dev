@@ -1,0 +1,37 @@
+id: 01G222X8KVQ9BHEF6ZQHP0S5VD
+type: image
+subtype: drawing
+title: Mühle, Aquarell, Lanz
+description: Mit Anmerkungen am Rand.
+origin:
+  name: Ilse Schulz
+  type: person
+  location: Lüchow
+subjects:
+  - name: Hafen
+    type: building
+  - name: Hitzacker
+    type: place
+parents:
+  - 01HH369QCTQQ41PT1K6NF00KAH
+  - 01JBC9B9VKQH5QPSKH6RMD1TRT
+files:
+  - role: main
+    original_name: scan_395.tif
+    path: files/30/95/3095d8babc904afbcaabd2b421aad513d9fa781d638633fb6d21a0b8794cc333/original.tif
+    sha256: 3095d8babc904afbcaabd2b421aad513d9fa781d638633fb6d21a0b8794cc333
+    mime: image/tiff
+    bytes: 21757931
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/30/95/3095d8babc904afbcaabd2b421aad513d9fa781d638633fb6d21a0b8794cc333/preview-400.d0606214cbe4.jpg
+        sha256: d0606214cbe4aab1cc5253ca667f9474a035ddae0d66b09f95702955a975910a
+        mime: image/jpeg
+        bytes: 25382
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

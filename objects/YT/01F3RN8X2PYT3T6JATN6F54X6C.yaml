@@ -1,0 +1,51 @@
+id: 01F3RN8X2PYT3T6JATN6F54X6C
+type: document
+subtype: letter
+title: Heinrich Wegner an die Gemeinde wegen Pachtvertrag
+description: Betrifft Friedhofsordnung.
+date: 1791-06-07
+location: Seedorf, Am Elbdeich
+geocode:
+  lat: 53.0622
+  lon: 11.505
+  precision: town
+  source: osm
+origin:
+  name: Ilse Schulz
+  type: person
+  location: Zadrau
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro 27/011
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Grenzöffnung 1791
+    type: event
+  - name: Dorfteich
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_f54x6c_001.tif
+    path: files/5e/86/5e86b917a5d4be844b1eccb18c960a1cbafb1fc686d54ffc8b9a95a64a63cb9e/original.tif
+    sha256: 5e86b917a5d4be844b1eccb18c960a1cbafb1fc686d54ffc8b9a95a64a63cb9e
+    mime: image/tiff
+    bytes: 27820038
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5e/86/5e86b917a5d4be844b1eccb18c960a1cbafb1fc686d54ffc8b9a95a64a63cb9e/preview-400.43fb77468bac.jpg
+        sha256: 43fb77468bacbc6fdb0bbc1b3cf8c61d064573fbcc1ee5037506286caba8bcbd
+        mime: image/jpeg
+        bytes: 27235
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

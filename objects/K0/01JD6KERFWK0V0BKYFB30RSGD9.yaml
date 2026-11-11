@@ -1,0 +1,40 @@
+id: 01JD6KERFWK0V0BKYFB30RSGD9
+type: image
+subtype: plan
+title: Bauplan Gutshaus 1754
+description: Maßstab 1:250.
+date: "1754"
+location: Restorf, Burgstraße
+origin:
+  name: Heinrich Brandt
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Laase
+    type: place
+  - name: Rudolf Detlefs
+    type: person
+  - name: Rudolf Voss
+    type: person
+parents:
+  - 01GKS14MYNZ2SH5MPVMV8DY5ZA
+files:
+  - role: main
+    original_name: scan_379.tif
+    path: files/95/63/95637d44b95149d97f64dba51886319377e27a0f25fa95c5d2f9f9765bb5900e/original.tif
+    sha256: 95637d44b95149d97f64dba51886319377e27a0f25fa95c5d2f9f9765bb5900e
+    mime: image/tiff
+    bytes: 25138118
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/63/95637d44b95149d97f64dba51886319377e27a0f25fa95c5d2f9f9765bb5900e/preview-400.d014266b8cd8.jpg
+        sha256: d014266b8cd85bedc1877e8b26a053f1c8d45129e00a9e5df5a5deac904555d6
+        mime: image/jpeg
+        bytes: 49093
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

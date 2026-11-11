@@ -1,0 +1,49 @@
+id: 01HQNYV3F10T80TFZDJ2HNJMXH
+type: image
+subtype: photo
+title: Bäckerei Lüders in Lüchow
+date: 1982-04-01
+location: Gorleben, Kindergarten
+geocode:
+  lat: 53.0474
+  lon: 11.6645
+  precision: region
+  source: osm
+origin:
+  name: Wilhelm Voss
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 33/178
+  note: Schrank B
+subjects:
+  - name: Gärtnerei
+    type: building
+  - name: Bömenzien
+    type: place
+  - name: Hochwasser 1982
+    type: event
+files:
+  - role: main
+    original_name: P7306.jpg
+    path: files/54/3e/543edf80df3ef23b7e37b6f3ee00f9cc5ce177ee329882bf13e48a4fd55c2fed/original.jpg
+    sha256: 543edf80df3ef23b7e37b6f3ee00f9cc5ce177ee329882bf13e48a4fd55c2fed
+    mime: image/jpeg
+    bytes: 6932119
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/54/3e/543edf80df3ef23b7e37b6f3ee00f9cc5ce177ee329882bf13e48a4fd55c2fed/preview-400.411d6b902f44.jpg
+        sha256: 411d6b902f447bd986395ce85a857a09fd680752c156fa109ec0137b095f92a7
+        mime: image/jpeg
+        bytes: 85891
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

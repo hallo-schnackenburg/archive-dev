@@ -1,0 +1,33 @@
+id: 01F39QEFP1FBTYWXWHVHRH7Y53
+type: image
+subtype: plan
+title: Bauplan Friedhofskapelle 1876
+description: Maßstab 1:250.
+date: 1876?
+subjects:
+  - name: Schützenfest 1876
+    type: event
+  - name: Bahnhof
+    type: building
+parents:
+  - 01FE51YC393SEJ3F0E3BYAZ1NB
+files:
+  - role: main
+    original_name: scan_632.tif
+    path: files/b6/fd/b6fd2e76c41f4f0e3719c8040a587929650c60764496bb393426ff1b747eda3a/original.tif
+    sha256: b6fd2e76c41f4f0e3719c8040a587929650c60764496bb393426ff1b747eda3a
+    mime: image/tiff
+    bytes: 17121237
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b6/fd/b6fd2e76c41f4f0e3719c8040a587929650c60764496bb393426ff1b747eda3a/preview-400.ad0a55a6844e.jpg
+        sha256: ad0a55a6844e54af403af466a5e3aaa4435b0f54aefaa6ba59803fa4a1f182c9
+        mime: image/jpeg
+        bytes: 75440
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

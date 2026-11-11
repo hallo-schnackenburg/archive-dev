@@ -1,0 +1,44 @@
+id: 01H0RNPEDA8T8E86B04TY8KR73
+type: image
+subtype: photo
+title: Schützenhaus in Wootz
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1921~
+location: Gülden, Elbstraße
+origin:
+  name: Brigitte Kuhlmann
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br 38/039
+subjects:
+  - name: Grenzöffnung 1921
+    type: event
+  - name: Gorleben
+    type: place
+parents:
+  - 01H8EQS4AVFVXGT4V39H7JSKCS
+files:
+  - role: main
+    original_name: scan_987.tif
+    path: files/3d/ed/3deddb5678af4441db7617db367bb340bea2489b6f7e2ef6b372541c23b88253/original.tif
+    sha256: 3deddb5678af4441db7617db367bb340bea2489b6f7e2ef6b372541c23b88253
+    mime: image/tiff
+    bytes: 18511347
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3d/ed/3deddb5678af4441db7617db367bb340bea2489b6f7e2ef6b372541c23b88253/preview-400.eacff43347f2.jpg
+        sha256: eacff43347f2a3ae19def8d938d7feceeb07f969cba0e25bc99319ac8c595a52
+        mime: image/jpeg
+        bytes: 26366
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

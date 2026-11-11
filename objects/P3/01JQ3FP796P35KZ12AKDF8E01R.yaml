@@ -1,0 +1,52 @@
+id: 01JQ3FP796P35KZ12AKDF8E01R
+type: image
+subtype: photo
+title: "Schützengesellschaft: Gruppenbild Sturmschaden"
+description: Abzug im Format 6 x 9 cm.
+date: 1989-10-11
+location: Hitzacker, Am Elbdeich
+geocode:
+  lat: 52.9727
+  lon: 11.4769
+  precision: street
+  source: osm
+origin:
+  name: Hedwig Ahrens
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Familie Lüders
+    type: person
+    location: Wittenberge
+  reference: Slg/Kasten 5/081
+  note: Mappe 12
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v83029
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Rüterberg
+    type: place
+parents:
+  - 01J36EBSGAM0EQS4K8346DJX88
+  - 01JE13KP3MCDRS8N82FYSXB27D
+files:
+  - role: main
+    original_name: scan_697.tif
+    path: files/26/b4/26b4a98e0694d3b1cdb4d53f90fc27f710dcb23ec1708f88b23801494248a231/original.tif
+    sha256: 26b4a98e0694d3b1cdb4d53f90fc27f710dcb23ec1708f88b23801494248a231
+    mime: image/tiff
+    bytes: 17909003
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/26/b4/26b4a98e0694d3b1cdb4d53f90fc27f710dcb23ec1708f88b23801494248a231/preview-400.0875e2199505.jpg
+        sha256: 0875e21995058aa78ce5ffd6a3c4c3f6b0f542abe71276ccd8e3663db5b6583f
+        mime: image/jpeg
+        bytes: 60389
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

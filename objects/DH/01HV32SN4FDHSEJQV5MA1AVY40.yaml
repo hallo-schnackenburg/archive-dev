@@ -1,0 +1,64 @@
+id: 01HV32SN4FDHSEJQV5MA1AVY40
+type: document
+subtype: letter
+title: Brief von Heinrich Brandt an Karl Gaede
+description: Handschriftlich, 2 Seiten.
+date: 1921-01
+location: Kapern, Kirchstraße
+origin:
+  name: Wilhelm Harms
+  type: person
+  location: Wittenberge
+language: de
+owner:
+  name: Paul Hennings
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Marta Eggers
+    type: person
+  - name: Bäckerei Lüders
+    type: building
+  - name: Fährjubiläum 1921
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_1avy40_001.tif
+    path: files/c7/78/c77884512f40c9e3536a95f1651e1d623753078261c2eb1d0411bd3aa403bf39/original.tif
+    sha256: c77884512f40c9e3536a95f1651e1d623753078261c2eb1d0411bd3aa403bf39
+    mime: image/tiff
+    bytes: 11264363
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c7/78/c77884512f40c9e3536a95f1651e1d623753078261c2eb1d0411bd3aa403bf39/preview-400.e422d15f87c2.jpg
+        sha256: e422d15f87c271862614d565deef57910010b472483f38e3b0ae51e34b73a24d
+        mime: image/jpeg
+        bytes: 54047
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_1avy40_002.tif
+    path: files/04/4b/044b31bcb899565d7a9227f62073a87b5de6dd8cfe1eccd3ce45674bc838e902/original.tif
+    sha256: 044b31bcb899565d7a9227f62073a87b5de6dd8cfe1eccd3ce45674bc838e902
+    mime: image/tiff
+    bytes: 2013122
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/4b/044b31bcb899565d7a9227f62073a87b5de6dd8cfe1eccd3ce45674bc838e902/preview-400.7dc2fd2cb661.jpg
+        sha256: 7dc2fd2cb661dd8c96de382d398a622b997bbb2b1871a0a4e349b6e9c9108944
+        mime: image/jpeg
+        bytes: 71681
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

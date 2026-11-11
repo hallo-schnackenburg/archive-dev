@@ -1,0 +1,39 @@
+id: 01JKBFBNKXYJRBZ6YRQY49Z5GT
+type: image
+subtype: print
+title: Lithographie Dorfteich, Dömitz
+date: 1766-10-25
+location: Holtorf, Gartenstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 14/111
+subjects:
+  - name: Petra Albers
+    type: person
+  - name: Dorfladen
+    type: building
+  - name: Gisela Schwarz
+    type: person
+files:
+  - role: main
+    original_name: scan_626.tif
+    path: files/25/31/2531391cf3e927db7b0ac7aaf58abf07938cf8cf9239a56de982c0c38952b761/original.tif
+    sha256: 2531391cf3e927db7b0ac7aaf58abf07938cf8cf9239a56de982c0c38952b761
+    mime: image/tiff
+    bytes: 10179771
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/25/31/2531391cf3e927db7b0ac7aaf58abf07938cf8cf9239a56de982c0c38952b761/preview-400.e31a3e6852dd.jpg
+        sha256: e31a3e6852dd4e6b835d203685ec569d63e702af6022e0a5faafe50c2edd6c8c
+        mime: image/jpeg
+        bytes: 25271
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,48 @@
+id: 01GB55XBANMEPSSEB3K7DT37T4
+type: image
+subtype: photo
+title: Rudolf Krüger, Porträt
+date: "1972"
+location: Dömitz, Schlachterei
+geocode:
+  lat: 53.0823
+  lon: 11.6876
+  precision: street
+  source: osm
+origin:
+  name: Marta Plate
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Dachboden, Truhe
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Poststelle
+    type: building
+  - name: Albert Brandt
+    type: person
+files:
+  - role: main
+    original_name: DSC2106.jpg
+    path: files/89/2f/892f743273c10526d866be710f6779c28be9cca4187d862d4df16b437a6ff67f/original.jpg
+    sha256: 892f743273c10526d866be710f6779c28be9cca4187d862d4df16b437a6ff67f
+    mime: image/jpeg
+    bytes: 24622874
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/89/2f/892f743273c10526d866be710f6779c28be9cca4187d862d4df16b437a6ff67f/preview-400.080d94ac644b.jpg
+        sha256: 080d94ac644be41b098573dd5e4efc98327b71dba1bea18ed72566dc3703f2bf
+        mime: image/jpeg
+        bytes: 76969
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

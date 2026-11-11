@@ -1,0 +1,59 @@
+id: 01GCV1YJFWMNKWGVCPJ9ENHP9P
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Gorleben 1964
+description: Anwesend waren 20 Personen.
+date: 1964-01
+origin:
+  name: Samtgemeinderat Hitzacker
+  type: business
+  location: Pretzier
+language: de
+subjects:
+  - name: Ernst Voss
+    type: person
+  - name: Erika Matthies
+    type: person
+parents:
+  - 01K7N09VTY5J80D3G50Q63P74F
+files:
+  - role: page
+    num: 1
+    original_name: protocol_enhp9p_001.tif
+    path: files/9d/5c/9d5cfccd5b3441f31c35504af230adcb62a5db8bed5de1b0c652276f1f93db70/original.tif
+    sha256: 9d5cfccd5b3441f31c35504af230adcb62a5db8bed5de1b0c652276f1f93db70
+    mime: image/tiff
+    bytes: 344596
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9d/5c/9d5cfccd5b3441f31c35504af230adcb62a5db8bed5de1b0c652276f1f93db70/preview-400.bbd244df95ff.jpg
+        sha256: bbd244df95ffb51ee7d1f9e5e745a288a248ac13501699afa25d4f6c87f1eb5f
+        mime: image/jpeg
+        bytes: 28103
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_enhp9p_002.tif
+    path: files/b6/c6/b6c65a8323ba823efec388680e4918aaf7c51826a9b4232b2e4ee50956d00819/original.tif
+    sha256: b6c65a8323ba823efec388680e4918aaf7c51826a9b4232b2e4ee50956d00819
+    mime: image/tiff
+    bytes: 5904538
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b6/c6/b6c65a8323ba823efec388680e4918aaf7c51826a9b4232b2e4ee50956d00819/preview-400.483a712df44d.jpg
+        sha256: 483a712df44d67718d60d989481c76285adecf4346a4c4e03df8ff0d0a1841be
+        mime: image/jpeg
+        bytes: 48833
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

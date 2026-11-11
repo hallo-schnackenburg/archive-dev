@@ -1,0 +1,43 @@
+id: 01HMYTHH5Y5G1B517W7KXCPFR6
+type: image
+subtype: photo
+title: Blick vom Gutshaus auf das Gemeindehaus
+date: 1890-11-04
+location: Salzwedel, Deichstraße
+origin:
+  name: Walter Kuhlmann
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 10/209
+subjects:
+  - name: Kegelbahn
+    type: building
+  - name: Schützenfest 1890
+    type: event
+  - name: Schützenhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_057.tif
+    path: files/06/bc/06bca04962aaf614213864ac194da3e623802cd354e43db70bd639b37ebccf5c/original.tif
+    sha256: 06bca04962aaf614213864ac194da3e623802cd354e43db70bd639b37ebccf5c
+    mime: image/tiff
+    bytes: 3545933
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/06/bc/06bca04962aaf614213864ac194da3e623802cd354e43db70bd639b37ebccf5c/preview-400.072bfe878ed3.jpg
+        sha256: 072bfe878ed3b1b742aef799e08b09f073b147ff027fde9678881d27638ad721
+        mime: image/jpeg
+        bytes: 30564
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

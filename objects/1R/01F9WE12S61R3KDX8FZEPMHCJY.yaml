@@ -1,0 +1,44 @@
+id: 01F9WE12S61R3KDX8FZEPMHCJY
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Grenzöffnung, Pretzier"
+description: Mit Anmerkungen am Rand.
+date: 1848-06
+origin:
+  name: August Rieke
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 28/207
+  note: Bücherregal links
+subjects:
+  - name: Sparkasse
+    type: building
+  - name: Laase
+    type: place
+parents:
+  - 01FJ86NA6W3C03D1PBGTPFRX8T
+files:
+  - role: main
+    original_name: scan_270.tif
+    path: files/7e/79/7e794a537832ff9bdb0dafbfb7e8a968863ef5e961b7df5fbf91b950d8a8ff29/original.tif
+    sha256: 7e794a537832ff9bdb0dafbfb7e8a968863ef5e961b7df5fbf91b950d8a8ff29
+    mime: image/tiff
+    bytes: 1269917
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7e/79/7e794a537832ff9bdb0dafbfb7e8a968863ef5e961b7df5fbf91b950d8a8ff29/preview-400.3db9702133b3.jpg
+        sha256: 3db9702133b3f4152c3907014c8d4552f16bc30c6d7146ad1cdb71d301ce211e
+        mime: image/jpeg
+        bytes: 70405
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01K9PC76KK97GX4KQGZZPQ137Q
+type: image
+subtype: print
+title: Postkarte Holtorf, Feuerwehrhaus
+date: "1919"
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 35/384
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Wassermühle
+    type: building
+  - name: Brunnen am Markt
+    type: building
+files:
+  - role: main
+    original_name: scan_442.tif
+    path: files/3e/49/3e491fd4d4e81be42997ef26ee61b5ef7184781f6eb399f4abcd7336d6ce0140/original.tif
+    sha256: 3e491fd4d4e81be42997ef26ee61b5ef7184781f6eb399f4abcd7336d6ce0140
+    mime: image/tiff
+    bytes: 10744944
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/49/3e491fd4d4e81be42997ef26ee61b5ef7184781f6eb399f4abcd7336d6ce0140/preview-400.05d7f74cd7be.jpg
+        sha256: 05d7f74cd7be7c660dca0612064c7d76ff9aa70f74f9bd32ca9e206e9cb7305e
+        mime: image/jpeg
+        bytes: 20477
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

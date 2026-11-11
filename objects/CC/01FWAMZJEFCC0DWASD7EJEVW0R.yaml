@@ -1,0 +1,33 @@
+id: 01FWAMZJEFCC0DWASD7EJEVW0R
+type: image
+subtype: photo
+title: Helga Rohde, Porträt
+description: Aufnahme von Karl Hennings.
+date: 1999-08-15
+location: Seedorf, Elbstraße
+origin:
+  name: Hermann Matthies
+  type: person
+  location: Gorleben
+parents:
+  - 01F9MQ787B1DZ88NJB119JTN0N
+files:
+  - role: main
+    original_name: foto_7795.jpg
+    path: files/b9/dd/b9dd232895ab88dab5d3faa86e0657f23f3db33d87f268ff6c3edc0c1904eafd/original.jpg
+    sha256: b9dd232895ab88dab5d3faa86e0657f23f3db33d87f268ff6c3edc0c1904eafd
+    mime: image/jpeg
+    bytes: 12290754
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/b9/dd/b9dd232895ab88dab5d3faa86e0657f23f3db33d87f268ff6c3edc0c1904eafd/preview-400.e26c1b1b66a0.jpg
+        sha256: e26c1b1b66a0fbcd75251f14e2ce2f2ed377c45cd61a98a69103dc4e915eb71f
+        mime: image/jpeg
+        bytes: 55459
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

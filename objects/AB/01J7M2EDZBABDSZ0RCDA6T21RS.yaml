@@ -1,0 +1,36 @@
+id: 01J7M2EDZBABDSZ0RCDA6T21RS
+type: image
+subtype: photo
+title: Fährjubiläum 1999
+date: 199X
+origin:
+  name: Dieter Tiedemann
+  type: person
+  location: Arendsee
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Erntedankfest 1999
+    type: event
+  - name: Gutshaus
+    type: building
+files:
+  - role: main
+    original_name: scan_003.tif
+    path: files/c7/9d/c79df593aa8fc4175a3797057411b82ef14bb2e4b158d8c82068c76a0ec26b52/original.tif
+    sha256: c79df593aa8fc4175a3797057411b82ef14bb2e4b158d8c82068c76a0ec26b52
+    mime: image/tiff
+    bytes: 18472435
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c7/9d/c79df593aa8fc4175a3797057411b82ef14bb2e4b158d8c82068c76a0ec26b52/preview-400.f981427b162d.jpg
+        sha256: f981427b162dc6a4d24854812a833b1c2e30d3c205a532840673d724bdd6b40e
+        mime: image/jpeg
+        bytes: 78413
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

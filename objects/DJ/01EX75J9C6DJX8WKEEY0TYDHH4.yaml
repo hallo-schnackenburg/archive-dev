@@ -1,0 +1,39 @@
+id: 01EX75J9C6DJX8WKEEY0TYDHH4
+type: image
+subtype: plan
+title: Bauplan Zollamt 1962
+date: 1962/1966
+location: Hitzacker, Deichstraße
+origin:
+  name: Rudolf Brandt
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 9/131
+  note: Planschrank, Fach 3
+parents:
+  - 01JQ24JYM14XMX215Z8SCN1PS1
+files:
+  - role: main
+    original_name: scan_571.tif
+    path: files/99/69/99693c7af10c4b89eb5a38646992eae065e5279b63548927aa4afec35b7aeefe/original.tif
+    sha256: 99693c7af10c4b89eb5a38646992eae065e5279b63548927aa4afec35b7aeefe
+    mime: image/tiff
+    bytes: 17820476
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/99/69/99693c7af10c4b89eb5a38646992eae065e5279b63548927aa4afec35b7aeefe/preview-400.24f0abec05c2.jpg
+        sha256: 24f0abec05c23f88fa979dd5329cc6937c1af2f92dddb90e1fd148c44f662757
+        mime: image/jpeg
+        bytes: 78892
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,50 @@
+id: 01F61EEB3J0X418K0FMXYG920E
+type: image
+subtype: drawing
+title: Skizze Hitzacker, Am Markt, Gorleben
+description: Mit Anmerkungen am Rand.
+date: 1880?
+location: Gollensdorf, Marktstraße
+geocode:
+  lat: 53.0054
+  lon: 11.6433
+  precision: region
+  source: osm
+origin:
+  name: Anni Meyer
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 33/166
+subjects:
+  - name: Konfirmation 1880
+    type: event
+  - name: Schützenhaus
+    type: building
+parents:
+  - 01JCYMRB83VZY8P4S2Q7H8E1H3
+  - 01KQE2MVHCH023HXPRAKNXXJ2W
+files:
+  - role: main
+    original_name: scan_835.tif
+    path: files/93/e0/93e055f259e0fbe99d944fa04c24a5bcb94b1c6584ed24926fc7fbe4cdbd9fc1/original.tif
+    sha256: 93e055f259e0fbe99d944fa04c24a5bcb94b1c6584ed24926fc7fbe4cdbd9fc1
+    mime: image/tiff
+    bytes: 11226201
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/93/e0/93e055f259e0fbe99d944fa04c24a5bcb94b1c6584ed24926fc7fbe4cdbd9fc1/preview-400.1005e3a18857.jpg
+        sha256: 1005e3a18857623c463436cdf6635fcf1ad94b3a108d2ab3e147ae34e1038ada
+        mime: image/jpeg
+        bytes: 41130
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

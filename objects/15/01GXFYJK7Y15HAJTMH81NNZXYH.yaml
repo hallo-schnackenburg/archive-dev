@@ -1,0 +1,38 @@
+id: 01GXFYJK7Y15HAJTMH81NNZXYH
+type: image
+subtype: plan
+title: Bauplan Dorfladen 1817
+date: 1817-01-01
+origin:
+  name: Karl Gaede
+  type: person
+  location: Lüchow
+owner:
+  name: Anni Jeß
+  type: person
+  note: Nachlass
+subjects:
+  - name: Gisela Schulz
+    type: person
+parents:
+  - 01KVHW9J5WMTP6BZZ691K647CF
+files:
+  - role: main
+    original_name: scan_536.tif
+    path: files/8f/23/8f238ab862c3f8a8485de89419ffc01dbb0cee930f993769e0e8fc7c8f3f3dd7/original.tif
+    sha256: 8f238ab862c3f8a8485de89419ffc01dbb0cee930f993769e0e8fc7c8f3f3dd7
+    mime: image/tiff
+    bytes: 8681484
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8f/23/8f238ab862c3f8a8485de89419ffc01dbb0cee930f993769e0e8fc7c8f3f3dd7/preview-400.607e1bfe0100.jpg
+        sha256: 607e1bfe01003428d3390c5cee7daae7c34522550db55117a116dc6e6767d79d
+        mime: image/jpeg
+        bytes: 41828
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

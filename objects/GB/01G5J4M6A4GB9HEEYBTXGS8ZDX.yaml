@@ -1,0 +1,64 @@
+id: 01G5J4M6A4GB9HEEYBTXGS8ZDX
+type: document
+subtype: letter
+title: Feldpostbrief von Emma Brandt
+location: Gorleben, Sportplatz
+geocode:
+  lat: 53.0602
+  lon: 11.6287
+  precision: street
+  source: osm
+origin:
+  name: Karl Voss
+  type: person
+  location: Gorleben
+recipient: Emma Tiedemann
+language: de
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+  - name: Laase
+    type: place
+parents:
+  - 01HH950XB5366QVZP40SHBAM42
+files:
+  - role: page
+    num: 1
+    original_name: letter_gs8zdx_001.tif
+    path: files/a2/f3/a2f315dac71de1c5c168a176b2ed4ee3ae8a99d4c4bce88016341d16aad31f8b/original.tif
+    sha256: a2f315dac71de1c5c168a176b2ed4ee3ae8a99d4c4bce88016341d16aad31f8b
+    mime: image/tiff
+    bytes: 26299924
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a2/f3/a2f315dac71de1c5c168a176b2ed4ee3ae8a99d4c4bce88016341d16aad31f8b/preview-400.5203c7b187c2.jpg
+        sha256: 5203c7b187c2a8de39267e1166a36b66564edc007bc80847af45fb2dc1d42689
+        mime: image/jpeg
+        bytes: 67053
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_gs8zdx_002.tif
+    path: files/87/78/8778d64ef1d4747ba0e878b13901600067619811e6d6947f832ed0f81b0fd736/original.tif
+    sha256: 8778d64ef1d4747ba0e878b13901600067619811e6d6947f832ed0f81b0fd736
+    mime: image/tiff
+    bytes: 17759830
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/87/78/8778d64ef1d4747ba0e878b13901600067619811e6d6947f832ed0f81b0fd736/preview-400.3a67a393af4d.jpg
+        sha256: 3a67a393af4db0dee276fe9013c2cb178f7c56fd3ed9faf7950161a67e81691f
+        mime: image/jpeg
+        bytes: 61362
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

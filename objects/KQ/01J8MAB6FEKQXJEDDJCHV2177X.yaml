@@ -1,0 +1,37 @@
+id: 01J8MAB6FEKQXJEDDJCHV2177X
+type: image
+subtype: photo
+title: Emma Ihde, Porträt
+date: "1918"
+location: Wustrow, Deichstraße
+geocode:
+  lat: 52.9517
+  lon: 11.4921
+  precision: region
+  source: osm
+origin:
+  name: Erika Behrens
+  type: person
+  location: Wootz
+parents:
+  - 01JTAHZQ2H6N377TQAEA3P4341
+files:
+  - role: main
+    original_name: scan_347.tif
+    path: files/81/8b/818b5568aeb37e894609b589009d29b2d1ca33a317c30c99aeb91a8cabc49498/original.tif
+    sha256: 818b5568aeb37e894609b589009d29b2d1ca33a317c30c99aeb91a8cabc49498
+    mime: image/tiff
+    bytes: 12628551
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/81/8b/818b5568aeb37e894609b589009d29b2d1ca33a317c30c99aeb91a8cabc49498/preview-400.5b1492669dc5.jpg
+        sha256: 5b1492669dc54b369fa200a9fb449b04b7b0681bdb31bec496f91a2c97ec27ed
+        mime: image/jpeg
+        bytes: 26494
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

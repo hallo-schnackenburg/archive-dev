@@ -1,0 +1,53 @@
+id: 01K202BJTB594RTG25RZ073QJ1
+type: document
+subtype: note
+title: Quittung für Frieda Timm
+description: Beleg mit Stempel.
+date: "1944"
+location: Salzwedel, Deichstraße
+geocode:
+  lat: 52.9304
+  lon: 11.5005
+  precision: street
+  source: osm
+origin:
+  name: Jürgen Heuer
+  type: person
+  location: Arendsee
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg 3/173
+  note: Mappe 12
+subjects:
+  - name: Fritz Behrens
+    type: person
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+parents:
+  - 01GF7F3QMSJY20DYHT7HM8AFKR
+  - 01HH950XB5366QVZP40SHBAM42
+files:
+  - role: page
+    num: 1
+    original_name: note_073qj1_001.tif
+    path: files/4e/67/4e67ed6653f09db489636d75ab99f4262dc28a7f44e670380e80581cd554996b/original.tif
+    sha256: 4e67ed6653f09db489636d75ab99f4262dc28a7f44e670380e80581cd554996b
+    mime: image/tiff
+    bytes: 12465146
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4e/67/4e67ed6653f09db489636d75ab99f4262dc28a7f44e670380e80581cd554996b/preview-400.e85d0d9ea18d.jpg
+        sha256: e85d0d9ea18d04ea7bc6ecc6d4d1ee8e8462a92fff22f9bfd71611f1459cd21c
+        mime: image/jpeg
+        bytes: 82442
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

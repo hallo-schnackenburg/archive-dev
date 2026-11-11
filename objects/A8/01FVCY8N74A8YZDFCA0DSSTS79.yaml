@@ -1,0 +1,31 @@
+id: 01FVCY8N74A8YZDFCA0DSSTS79
+type: image
+subtype: drawing
+title: Rathaus, Aquarell, Lenzen
+date: 1858-09
+location: Cumlosen, Hafenstraße
+geocode:
+  lat: 52.9966
+  lon: 11.6063
+  precision: street
+  source: osm
+files:
+  - role: main
+    original_name: scan_392.tif
+    path: files/95/f5/95f5150874167ed33d89557da21691d3e2f475e038f063bc2f1709b22dec9bc9/original.tif
+    sha256: 95f5150874167ed33d89557da21691d3e2f475e038f063bc2f1709b22dec9bc9
+    mime: image/tiff
+    bytes: 20573628
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/f5/95f5150874167ed33d89557da21691d3e2f475e038f063bc2f1709b22dec9bc9/preview-400.0931be84cc74.jpg
+        sha256: 0931be84cc743d9bada76e4a6f8f753f38870bc5c26c29aecacf88ede1ff2449
+        mime: image/jpeg
+        bytes: 85000
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

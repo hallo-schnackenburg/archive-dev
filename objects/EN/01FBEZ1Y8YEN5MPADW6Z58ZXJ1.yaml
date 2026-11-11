@@ -1,0 +1,35 @@
+id: 01FBEZ1Y8YEN5MPADW6Z58ZXJ1
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Rüterberg
+date: 1795/1796
+location: Cumlosen, Elbstraße
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br 37/290
+  note: Bücherregal links
+parents:
+  - 01HNVK3TWSXAG1X7MJP1AQW02W
+files:
+  - role: main
+    original_name: scan_621.tif
+    path: files/9a/ec/9aec79057093ed7b95bee5212804bb01da9f83fc88be942081a55df55d65e2c5/original.tif
+    sha256: 9aec79057093ed7b95bee5212804bb01da9f83fc88be942081a55df55d65e2c5
+    mime: image/tiff
+    bytes: 26514588
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9a/ec/9aec79057093ed7b95bee5212804bb01da9f83fc88be942081a55df55d65e2c5/preview-400.bd37ffe8b72e.jpg
+        sha256: bd37ffe8b72e2c5229fe3dc79b9128b96d9f78d241a5b7e8d6d275d7d33ac1d2
+        mime: image/jpeg
+        bytes: 25080
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

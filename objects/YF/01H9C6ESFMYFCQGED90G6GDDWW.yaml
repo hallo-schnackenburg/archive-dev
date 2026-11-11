@@ -1,0 +1,41 @@
+id: 01H9C6ESFMYFCQGED90G6GDDWW
+type: image
+subtype: photo
+title: Familie Wegner beim Viehmarkt
+description: Aufnahme von Hans Meyer.
+date: 1947-11
+location: Holtorf, Am Markt
+geocode:
+  lat: 52.9586
+  lon: 11.6678
+  precision: exact
+  source: osm
+origin:
+  name: Erika Lenz
+  type: person
+  location: Restorf
+subjects:
+  - name: Gülden
+    type: place
+parents:
+  - 01JGSEJ488A7DZQPFCQNBYWMJ1
+files:
+  - role: main
+    original_name: P9095.jpg
+    path: files/08/c0/08c0c05bccef2ef1f69d429b6f41aea8a709c8b9d35e2caca4fa1df6157f617c/original.jpg
+    sha256: 08c0c05bccef2ef1f69d429b6f41aea8a709c8b9d35e2caca4fa1df6157f617c
+    mime: image/jpeg
+    bytes: 7092181
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/08/c0/08c0c05bccef2ef1f69d429b6f41aea8a709c8b9d35e2caca4fa1df6157f617c/preview-400.269957c4583c.jpg
+        sha256: 269957c4583ce5f0cbfcd91fadbd9dcd3b7b21e5a123c72e7a38d0667eb53df8
+        mime: image/jpeg
+        bytes: 39289
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

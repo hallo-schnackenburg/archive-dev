@@ -1,0 +1,40 @@
+id: 01H75M7FPXRP3W509W1HY3RVA0
+type: image
+subtype: drawing
+title: Wappenentwurf Lüchow, Lanz
+description: Mit Anmerkungen am Rand.
+date: "1884"
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg/Kasten 30/088
+  note: Mappe 12
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Sturmschaden 1884
+    type: event
+  - name: Ilse Garms
+    type: person
+files:
+  - role: main
+    original_name: scan_648.tif
+    path: files/6d/12/6d1284304dd2ef1cfa573fe28977c25287eca1b691230a354ea7bb524b092ee0/original.tif
+    sha256: 6d1284304dd2ef1cfa573fe28977c25287eca1b691230a354ea7bb524b092ee0
+    mime: image/tiff
+    bytes: 22274302
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/6d/12/6d1284304dd2ef1cfa573fe28977c25287eca1b691230a354ea7bb524b092ee0/preview-400.b26ac7ca9011.jpg
+        sha256: b26ac7ca90110c6c7c4f431acfa295bd7f45f2e9b3214dbb2749438d07fc0611
+        mime: image/jpeg
+        bytes: 47591
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

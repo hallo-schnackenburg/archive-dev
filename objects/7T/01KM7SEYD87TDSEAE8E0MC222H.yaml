@@ -1,0 +1,54 @@
+id: 01KM7SEYD87TDSEAE8E0MC222H
+type: document
+subtype: protocol
+title: Protokoll des Bauausschuss vom 1974
+date: 1974?
+location: Seedorf, Ladestraße
+origin:
+  name: Bauausschuss Gollensdorf
+  type: business
+  location: Brünkendorf
+language: de
+parents:
+  - 01H7TAC1S0T298G0K08CGYD8Q7
+files:
+  - role: page
+    num: 1
+    original_name: protocol_mc222h_001.tif
+    path: files/1d/5f/1d5f50416d94b48a0ea034bbea712ffb1ac05775a8946f2fb27c3c53a67222cb/original.tif
+    sha256: 1d5f50416d94b48a0ea034bbea712ffb1ac05775a8946f2fb27c3c53a67222cb
+    mime: image/tiff
+    bytes: 5487694
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/5f/1d5f50416d94b48a0ea034bbea712ffb1ac05775a8946f2fb27c3c53a67222cb/preview-400.d32bbb08d641.jpg
+        sha256: d32bbb08d64160d85ae646e913d1bfd34666afab2bb57b4a66d1f4f9c9b53985
+        mime: image/jpeg
+        bytes: 76584
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_mc222h_002.tif
+    path: files/35/cf/35cf6b6901dd7b9aba5fb15288cdc337beef825b5fac630a5b53bcbf19dd9f4a/original.tif
+    sha256: 35cf6b6901dd7b9aba5fb15288cdc337beef825b5fac630a5b53bcbf19dd9f4a
+    mime: image/tiff
+    bytes: 716344
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/35/cf/35cf6b6901dd7b9aba5fb15288cdc337beef825b5fac630a5b53bcbf19dd9f4a/preview-400.9a9641ac6063.jpg
+        sha256: 9a9641ac6063c273970619497ea44fd84adfbfeb424e5a26b37c7f8c5de94d08
+        mime: image/jpeg
+        bytes: 79801
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

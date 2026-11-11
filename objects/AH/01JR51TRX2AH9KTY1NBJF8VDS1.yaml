@@ -1,0 +1,37 @@
+id: 01JR51TRX2AH9KTY1NBJF8VDS1
+type: image
+subtype: plan
+title: Grundriss Fachwerkhaus Marktstraße 4, Seedorf
+date: 1796?
+location: Havelberg, Fähranleger
+origin:
+  name: Rudolf Hennings
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+parents:
+  - 01EW7Y4DK0MKNT73TY4DDY8AY7
+files:
+  - role: main
+    original_name: scan_930.tif
+    path: files/a0/f3/a0f3c8a45861d973aead777fed73abdc54a1ab58aa715fe43d1ae178ed1f173b/original.tif
+    sha256: a0f3c8a45861d973aead777fed73abdc54a1ab58aa715fe43d1ae178ed1f173b
+    mime: image/tiff
+    bytes: 20885632
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a0/f3/a0f3c8a45861d973aead777fed73abdc54a1ab58aa715fe43d1ae178ed1f173b/preview-400.8bfdcb99b5b1.jpg
+        sha256: 8bfdcb99b5b1a2879de494a6fe9ddfe45c32409af4d59ce0242268254c5ac1fc
+        mime: image/jpeg
+        bytes: 66016
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

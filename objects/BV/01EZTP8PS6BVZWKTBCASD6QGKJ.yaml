@@ -1,0 +1,43 @@
+id: 01EZTP8PS6BVZWKTBCASD6QGKJ
+type: image
+subtype: plan
+title: Bauplan Schlachterei 1982
+description: Tusche auf Transparentpapier.
+date: 1982-04-09
+location: Gorleben, Gartenstraße
+origin:
+  name: Erika Schwarz
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Familie Ihde
+    type: person
+    location: Holtorf
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Lanz
+    type: place
+  - name: Grenzturm
+    type: building
+files:
+  - role: main
+    original_name: scan_834.tif
+    path: files/b5/4f/b54f0994b985898fb5d5f0b5d4913cc21a06453eb8c85f0cb27f170c3fc2e0dc/original.tif
+    sha256: b54f0994b985898fb5d5f0b5d4913cc21a06453eb8c85f0cb27f170c3fc2e0dc
+    mime: image/tiff
+    bytes: 10375902
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b5/4f/b54f0994b985898fb5d5f0b5d4913cc21a06453eb8c85f0cb27f170c3fc2e0dc/preview-400.b36f13725239.jpg
+        sha256: b36f1372523931536b9c1a0ef8a7043430ad27dfab90e133b1c17b9af941d531
+        mime: image/jpeg
+        bytes: 76652
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

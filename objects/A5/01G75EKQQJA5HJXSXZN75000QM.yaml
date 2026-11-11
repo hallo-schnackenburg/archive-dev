@@ -1,0 +1,67 @@
+id: 01G75EKQQJA5HJXSXZN75000QM
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Grenzverkehr 1849
+date: "1849"
+origin:
+  name: Feuerwehrausschuss Gorleben
+  type: business
+  location: Brünkendorf
+language: de
+original:
+  holder:
+    name: Familie Bohlmann
+    type: person
+    location: Brünkendorf
+  reference: Pro 36/001
+  note: Mappe 12
+subjects:
+  - name: Christa Schulz
+    type: person
+  - name: Kriegerdenkmal
+    type: building
+  - name: Hochzeit 1849
+    type: event
+parents:
+  - 01JD1W7G8C9Y7RM5P61EE5M4CB
+files:
+  - role: page
+    num: 1
+    original_name: protocol_5000qm_001.tif
+    path: files/2d/a8/2da8a3e864341342c6327053eb487ceb0d6664fca3a0f243aa23a60975a1add9/original.tif
+    sha256: 2da8a3e864341342c6327053eb487ceb0d6664fca3a0f243aa23a60975a1add9
+    mime: image/tiff
+    bytes: 18478955
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/a8/2da8a3e864341342c6327053eb487ceb0d6664fca3a0f243aa23a60975a1add9/preview-400.5f6d4e3de82a.jpg
+        sha256: 5f6d4e3de82aab079eee120fe85c213e09a337dd2955c0643c79cc68ad030f19
+        mime: image/jpeg
+        bytes: 62269
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_5000qm_002.tif
+    path: files/c1/15/c11532c2c48dff18b0310724ac3d994c5bf96ce0e547a17a4c4fd030b66805a7/original.tif
+    sha256: c11532c2c48dff18b0310724ac3d994c5bf96ce0e547a17a4c4fd030b66805a7
+    mime: image/tiff
+    bytes: 1798308
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c1/15/c11532c2c48dff18b0310724ac3d994c5bf96ce0e547a17a4c4fd030b66805a7/preview-400.8bcbe44d51fa.jpg
+        sha256: 8bcbe44d51fab679f35789df0261894417976045410c92d461cb4d185943d349
+        mime: image/jpeg
+        bytes: 40415
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

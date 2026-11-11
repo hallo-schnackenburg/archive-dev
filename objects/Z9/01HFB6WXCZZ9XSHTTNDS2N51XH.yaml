@@ -1,0 +1,38 @@
+id: 01HFB6WXCZZ9XSHTTNDS2N51XH
+type: image
+subtype: plan
+title: Deichplan Zadrau bis Holtorf
+date: 1958-02-07
+location: Gartow, Ladestraße
+geocode:
+  lat: 52.9892
+  lon: 11.639
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 10/063
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v64739
+files:
+  - role: main
+    original_name: scan_521.tif
+    path: files/9b/10/9b1032ad09d9b63db61f42a568c7247a4eef39cb6496135a82d201a80c8633de/original.tif
+    sha256: 9b1032ad09d9b63db61f42a568c7247a4eef39cb6496135a82d201a80c8633de
+    mime: image/tiff
+    bytes: 11493517
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9b/10/9b1032ad09d9b63db61f42a568c7247a4eef39cb6496135a82d201a80c8633de/preview-400.db3a2f549013.jpg
+        sha256: db3a2f54901350ebf1a3a6ba2d5babb726ab94546e8dce6cc41769338bff1191
+        mime: image/jpeg
+        bytes: 60783
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

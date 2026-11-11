@@ -1,0 +1,45 @@
+id: 01KP89Z4VSECTKKNMRKW2NY3CV
+type: image
+subtype: plan
+title: Bauplan Backhaus 1996
+date: 1996-06
+location: Wootz, Am Elbdeich
+geocode:
+  lat: 52.9127
+  lon: 11.5766
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Mappe 9/017
+  note: Mappe 12
+subjects:
+  - name: Restorf
+    type: place
+  - name: Dorfteich
+    type: building
+  - name: Schlachtfest 1996
+    type: event
+files:
+  - role: main
+    original_name: scan_844.tif
+    path: files/89/31/89310fb3ca096529788305230b13bc27a72d3d50fdee2fbe3cd85eba6fb170ac/original.tif
+    sha256: 89310fb3ca096529788305230b13bc27a72d3d50fdee2fbe3cd85eba6fb170ac
+    mime: image/tiff
+    bytes: 8241374
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/89/31/89310fb3ca096529788305230b13bc27a72d3d50fdee2fbe3cd85eba6fb170ac/preview-400.cf6debd8b61a.jpg
+        sha256: cf6debd8b61aec2b6f8c33231acfb253e2edfa014f895837b7b1a7fbd73bcfb0
+        mime: image/jpeg
+        bytes: 61763
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

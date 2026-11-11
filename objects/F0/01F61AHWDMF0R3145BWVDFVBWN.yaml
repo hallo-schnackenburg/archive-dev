@@ -1,0 +1,42 @@
+id: 01F61AHWDMF0R3145BWVDFVBWN
+type: image
+subtype: photo
+title: Weihnachtsmarkt 1965
+date: "1965"
+origin:
+  name: Otto Voss
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 31/042
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Speicher
+    type: building
+parents:
+  - 01KC6VVRX03XHNE2QA3QHP7TYJ
+files:
+  - role: main
+    original_name: P9494.jpg
+    path: files/57/e5/57e55a96a9c09b749c135ff81fb2501590d098ce9b561528cfe41b78025c5881/original.jpg
+    sha256: 57e55a96a9c09b749c135ff81fb2501590d098ce9b561528cfe41b78025c5881
+    mime: image/jpeg
+    bytes: 20722252
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/57/e5/57e55a96a9c09b749c135ff81fb2501590d098ce9b561528cfe41b78025c5881/preview-400.0d24103d6f84.jpg
+        sha256: 0d24103d6f84395746df426328361af0b0854372e4fe3e53b4e5993af25254fe
+        mime: image/jpeg
+        bytes: 85323
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

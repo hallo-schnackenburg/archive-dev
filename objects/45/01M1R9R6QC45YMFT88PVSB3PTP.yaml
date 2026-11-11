@@ -1,0 +1,33 @@
+id: 01M1R9R6QC45YMFT88PVSB3PTP
+type: image
+subtype: plan
+title: Deichplan Kapern bis Laase
+description: Tusche auf Transparentpapier.
+date: "1756"
+location: Arendsee, Ziegelei
+origin:
+  name: Heinrich Krüger
+  type: person
+  location: Gartow
+parents:
+  - 01JS8ZTXPKXF8SMDJ80AZF81V6
+files:
+  - role: main
+    original_name: scan_941.tif
+    path: files/21/7d/217d127be44646365073296f8e5da491fe02cc734617579f0e9842f00ac1c2e0/original.tif
+    sha256: 217d127be44646365073296f8e5da491fe02cc734617579f0e9842f00ac1c2e0
+    mime: image/tiff
+    bytes: 22300290
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/21/7d/217d127be44646365073296f8e5da491fe02cc734617579f0e9842f00ac1c2e0/preview-400.1fb339fe98d8.jpg
+        sha256: 1fb339fe98d854ca90d621072f58d4a6f26d8dc98dce48f5a01a95b4c9f122f7
+        mime: image/jpeg
+        bytes: 24193
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

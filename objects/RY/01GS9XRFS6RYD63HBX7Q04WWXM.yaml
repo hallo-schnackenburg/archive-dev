@@ -1,0 +1,46 @@
+id: 01GS9XRFS6RYD63HBX7Q04WWXM
+type: document
+subtype: letter
+title: Feldpostbrief von Erika Schulz
+date: 1977-05-04
+location: Gülden, Dorfstraße
+geocode:
+  lat: 53.0799
+  lon: 11.5643
+  precision: town
+  source: osm
+origin:
+  name: Walter Plate
+  type: person
+  location: Rüterberg
+recipient: Erika Heuer
+subjects:
+  - name: Schlachterei
+    type: building
+  - name: Hochwasser 1977
+    type: event
+  - name: Sturmschaden 1977
+    type: event
+parents:
+  - 01KVJ8Y27EYC61W5ZE473WC7YC
+files:
+  - role: page
+    num: 1
+    original_name: letter_04wwxm_001.tif
+    path: files/5c/9f/5c9f727e5ffb094884bc5a6aaddea363fc8dd96e2e9c7f309252b866de34c6cd/original.tif
+    sha256: 5c9f727e5ffb094884bc5a6aaddea363fc8dd96e2e9c7f309252b866de34c6cd
+    mime: image/tiff
+    bytes: 17488588
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5c/9f/5c9f727e5ffb094884bc5a6aaddea363fc8dd96e2e9c7f309252b866de34c6cd/preview-400.5307cb5735df.jpg
+        sha256: 5307cb5735df4586faa4897c3902cb21405b6744c19620e159477a5a9018c8ee
+        mime: image/jpeg
+        bytes: 45558
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

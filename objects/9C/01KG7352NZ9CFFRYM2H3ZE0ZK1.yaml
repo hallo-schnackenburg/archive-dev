@@ -1,0 +1,63 @@
+id: 01KG7352NZ9CFFRYM2H3ZE0ZK1
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Cumlosen 1888
+description: Anwesend waren 12 Personen.
+date: 1888-09
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 4/055
+subjects:
+  - name: Beerdigung 1888
+    type: event
+  - name: Ilse Rohde
+    type: person
+  - name: Schützenhaus
+    type: building
+parents:
+  - 01FC500G3M1EH4PAW2K7HHB2K0
+files:
+  - role: page
+    num: 1
+    original_name: protocol_ze0zk1_001.tif
+    path: files/05/44/054419e6782fd210951d78a9c7eac1e6a77997b6b791acf6d40722f6829103f2/original.tif
+    sha256: 054419e6782fd210951d78a9c7eac1e6a77997b6b791acf6d40722f6829103f2
+    mime: image/tiff
+    bytes: 19850106
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/44/054419e6782fd210951d78a9c7eac1e6a77997b6b791acf6d40722f6829103f2/preview-400.e1e4360cc4c5.jpg
+        sha256: e1e4360cc4c55a1706d0817a802d0bb842cedb40a772c668d1c300058c2ffca8
+        mime: image/jpeg
+        bytes: 65405
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_ze0zk1_002.tif
+    path: files/5b/38/5b38811f1e5cf4324f531341a66d79aa8af7cd011c8d4d9296171dc3a3966bca/original.tif
+    sha256: 5b38811f1e5cf4324f531341a66d79aa8af7cd011c8d4d9296171dc3a3966bca
+    mime: image/tiff
+    bytes: 24176315
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5b/38/5b38811f1e5cf4324f531341a66d79aa8af7cd011c8d4d9296171dc3a3966bca/preview-400.e174e9aa63bd.jpg
+        sha256: e174e9aa63bd137fa61360a64cd28a2be5d58a9d973ef760ef37e1b107a125fb
+        mime: image/jpeg
+        bytes: 58913
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

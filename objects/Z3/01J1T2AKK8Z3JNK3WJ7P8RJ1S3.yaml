@@ -1,0 +1,43 @@
+id: 01J1T2AKK8Z3JNK3WJ7P8RJ1S3
+type: image
+subtype: print
+title: Postkarte Restorf, Kirche St. Johannis
+date: 1874-02-13
+location: Lenzen, Hafen
+geocode:
+  lat: 52.9515
+  lon: 11.5324
+  precision: town
+  source: osm
+origin:
+  name: Walter Ahrens
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan/Mappe 5/060
+parents:
+  - 01JKQ421K5RBFQ8NV81GBKEPMH
+files:
+  - role: main
+    original_name: scan_255.tif
+    path: files/d7/74/d774a745eab81b9a65e8f5f2b01ad536a5dc8eb4578318f00dbe996224765bdd/original.tif
+    sha256: d774a745eab81b9a65e8f5f2b01ad536a5dc8eb4578318f00dbe996224765bdd
+    mime: image/tiff
+    bytes: 7252080
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d7/74/d774a745eab81b9a65e8f5f2b01ad536a5dc8eb4578318f00dbe996224765bdd/preview-400.c4e6067a8eec.jpg
+        sha256: c4e6067a8eec7e1ca510d9ba3ae5876be27d1005081649c664b0a92bd10801e3
+        mime: image/jpeg
+        bytes: 75601
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

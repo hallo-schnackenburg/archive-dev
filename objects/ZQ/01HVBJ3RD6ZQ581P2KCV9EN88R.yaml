@@ -1,0 +1,41 @@
+id: 01HVBJ3RD6ZQ581P2KCV9EN88R
+type: image
+subtype: drawing
+title: Skizze Nienwalde, Marktstraße, Gollensdorf
+date: 1889-11
+location: Wootz, Speicher
+geocode:
+  lat: 53.011
+  lon: 11.5693
+  precision: street
+  source: osm
+origin:
+  name: Erika Wegner
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 18/369
+files:
+  - role: main
+    original_name: scan_773.tif
+    path: files/6d/d6/6dd6f8c93aeb6f38c5eebe31dc94af33f4a273a43526ea450d8dddce389816a5/original.tif
+    sha256: 6dd6f8c93aeb6f38c5eebe31dc94af33f4a273a43526ea450d8dddce389816a5
+    mime: image/tiff
+    bytes: 8167446
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6d/d6/6dd6f8c93aeb6f38c5eebe31dc94af33f4a273a43526ea450d8dddce389816a5/preview-400.57c8cd86d603.jpg
+        sha256: 57c8cd86d60396576de04f5a862a5ab86c4bd65cb124d8ba2aaa25e4e1e9401a
+        mime: image/jpeg
+        bytes: 31571
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

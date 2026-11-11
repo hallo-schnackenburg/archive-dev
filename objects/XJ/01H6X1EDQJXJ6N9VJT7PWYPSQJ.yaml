@@ -1,0 +1,28 @@
+id: 01H6X1EDQJXJ6N9VJT7PWYPSQJ
+type: image
+subtype: plan
+title: Bauplan Bahnhof 1957
+date: 1957-09-24
+location: Lüchow, Marktstraße
+parents:
+  - 01J8GJHXRZG3WKWHP1C2HPX9G9
+files:
+  - role: main
+    original_name: scan_678.tif
+    path: files/a0/cf/a0cfdf787df2abd2d7e144a9e4b3f6793f96c8d25e724e2c8c3474f4ec6ad8d5/original.tif
+    sha256: a0cfdf787df2abd2d7e144a9e4b3f6793f96c8d25e724e2c8c3474f4ec6ad8d5
+    mime: image/tiff
+    bytes: 2671781
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a0/cf/a0cfdf787df2abd2d7e144a9e4b3f6793f96c8d25e724e2c8c3474f4ec6ad8d5/preview-400.5ebbcd41bca2.jpg
+        sha256: 5ebbcd41bca20c78a522e6aafa0a63efe92446caeaee5ebc1933201958e8ec86
+        mime: image/jpeg
+        bytes: 40592
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

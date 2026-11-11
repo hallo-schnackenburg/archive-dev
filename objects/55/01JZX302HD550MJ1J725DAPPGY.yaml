@@ -1,0 +1,44 @@
+id: 01JZX302HD550MJ1J725DAPPGY
+type: image
+subtype: photo
+title: Marta Schulz, Porträt
+date: 1917-07-25
+origin:
+  name: Elfriede Lemke
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 6/009
+subjects:
+  - name: Torhaus
+    type: building
+  - name: Hochzeit 1917
+    type: event
+  - name: Einweihung 1917
+    type: event
+parents:
+  - 01KZTC7HCNQEK4PPA9Y96PZJS7
+files:
+  - role: main
+    original_name: IMG_9817.jpg
+    path: files/93/6d/936df349854b540040f86f750b10930a0cb3613ecc4cecc136a57cd813b9c84e/original.jpg
+    sha256: 936df349854b540040f86f750b10930a0cb3613ecc4cecc136a57cd813b9c84e
+    mime: image/jpeg
+    bytes: 25497920
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/93/6d/936df349854b540040f86f750b10930a0cb3613ecc4cecc136a57cd813b9c84e/preview-400.8282188f47aa.jpg
+        sha256: 8282188f47aae39913dbb6e5b7504ec7dfaf0928a7c0396d72e10d8ec3b6d755
+        mime: image/jpeg
+        bytes: 42390
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,62 @@
+id: 01G39NNW1K2QKESG0A9NAV70M2
+type: document
+subtype: note
+title: Quittung für Heinz Lemke
+location: Kapern, Ziegelei
+origin:
+  name: Käthe Lemke
+  type: person
+  location: Gorleben
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 33/007
+subjects:
+  - name: Dorfschule
+    type: building
+parents:
+  - 01JKQ421K5RBFQ8NV81GBKEPMH
+files:
+  - role: page
+    num: 1
+    original_name: note_av70m2_001.tif
+    path: files/8c/a7/8ca7272cc03b8994e9c673ecfa2524c6bcef3ad7493e12cf36fddbef61f4328e/original.tif
+    sha256: 8ca7272cc03b8994e9c673ecfa2524c6bcef3ad7493e12cf36fddbef61f4328e
+    mime: image/tiff
+    bytes: 1137271
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8c/a7/8ca7272cc03b8994e9c673ecfa2524c6bcef3ad7493e12cf36fddbef61f4328e/preview-400.87aada11f2c4.jpg
+        sha256: 87aada11f2c4464cde738bc376cb59cbabd511201089d8d332b4d378280c9b27
+        mime: image/jpeg
+        bytes: 77862
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_av70m2_002.tif
+    path: files/97/ac/97ac4751b5381075001690be6559d16609bda5f1e8edb6f54a6057d153593a04/original.tif
+    sha256: 97ac4751b5381075001690be6559d16609bda5f1e8edb6f54a6057d153593a04
+    mime: image/tiff
+    bytes: 4525509
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/ac/97ac4751b5381075001690be6559d16609bda5f1e8edb6f54a6057d153593a04/preview-400.4634669321e6.jpg
+        sha256: 4634669321e629ba2bf36c930867d94fedbbe4dab8eebeabbe1cb1b48f3b54cb
+        mime: image/jpeg
+        bytes: 86318
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01H02DS9Z3Z44P351A67JGN4XN
+type: image
+subtype: print
+title: Ansichtskarte Am Markt, Nienwalde
+description: Kupferstich, koloriert.
+date: 1711-09-15
+location: Nienwalde, Bahnhofstraße
+geocode:
+  lat: 52.9653
+  lon: 11.5628
+  precision: region
+  source: osm
+origin:
+  name: Gerda Voss
+  type: person
+  location: Gartow
+subjects:
+  - name: Grenzöffnung 1711
+    type: event
+parents:
+  - 01GSWGF0TVVWPKF3HT3DSA6W3N
+  - 01GKNYMFKHFES83J477ZEHD22T
+files:
+  - role: main
+    original_name: scan_083.tif
+    path: files/64/80/64802486d5811f4d7a2ddaa8fbb268a6adfa3a15d18a8ddde792692c43f9a4b5/original.tif
+    sha256: 64802486d5811f4d7a2ddaa8fbb268a6adfa3a15d18a8ddde792692c43f9a4b5
+    mime: image/tiff
+    bytes: 6460269
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/64/80/64802486d5811f4d7a2ddaa8fbb268a6adfa3a15d18a8ddde792692c43f9a4b5/preview-400.06dc1c81fc8e.jpg
+        sha256: 06dc1c81fc8e8345b6cf338ef795afd94fb3feee428fe1662bd2c1675cc10592
+        mime: image/jpeg
+        bytes: 85794
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

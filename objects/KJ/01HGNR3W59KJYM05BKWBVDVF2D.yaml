@@ -1,0 +1,41 @@
+id: 01HGNR3W59KJYM05BKWBVDVF2D
+type: image
+subtype: photo
+title: Mühle in Gülden
+location: Hitzacker, Rathaus
+geocode:
+  lat: 53.0471
+  lon: 11.5396
+  precision: exact
+  source: osm
+origin:
+  name: August Lenz
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Wilhelm Wegner
+    type: person
+  - name: Feuerwehrübung 1895
+    type: event
+  - name: Eisgang 1895
+    type: event
+files:
+  - role: main
+    original_name: P2826.jpg
+    path: files/9f/e5/9fe552ec5d75b4f516dbb9597a2e715b93e5f4182d9fb33863c5d3d278fcc462/original.jpg
+    sha256: 9fe552ec5d75b4f516dbb9597a2e715b93e5f4182d9fb33863c5d3d278fcc462
+    mime: image/jpeg
+    bytes: 23217094
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/9f/e5/9fe552ec5d75b4f516dbb9597a2e715b93e5f4182d9fb33863c5d3d278fcc462/preview-400.0b2cd279cef6.jpg
+        sha256: 0b2cd279cef6cba56259c1fa6f8cf9b5383a54bfb6d68bb5e5f746b3360628c3
+        mime: image/jpeg
+        bytes: 82192
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

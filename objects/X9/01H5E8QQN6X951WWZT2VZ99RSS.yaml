@@ -1,0 +1,48 @@
+id: 01H5E8QQN6X951WWZT2VZ99RSS
+type: image
+subtype: photo
+title: Blick vom Kaufmannshaus auf das Kegelbahn
+location: Gollensdorf, Elbstraße
+geocode:
+  lat: 53.0083
+  lon: 11.6176
+  precision: exact
+  source: osm
+origin:
+  name: Ernst Plate
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+  - name: Kapern
+    type: place
+  - name: Restorf
+    type: place
+parents:
+  - 01H8RAP2NSBW425Q13KRW0P6FG
+files:
+  - role: main
+    original_name: scan_619.tif
+    path: files/68/e4/68e496479d44a675743069fce0ed471da3c64243a2b7071e03b7550187daceff/original.tif
+    sha256: 68e496479d44a675743069fce0ed471da3c64243a2b7071e03b7550187daceff
+    mime: image/tiff
+    bytes: 24331389
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/68/e4/68e496479d44a675743069fce0ed471da3c64243a2b7071e03b7550187daceff/preview-400.b3c0db7637e7.jpg
+        sha256: b3c0db7637e744c402f2b36499ad4b9f2be964cef70776c22128ac271d580f17
+        mime: image/jpeg
+        bytes: 30049
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,32 @@
+id: 01H0SDHN8HQEWHQVKC67T51JJ9
+type: image
+subtype: plan
+title: Grundriss Speicher
+location: Gartow, Sportplatz
+origin:
+  name: Gerda Wegner
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Dömitz
+    type: place
+files:
+  - role: main
+    original_name: scan_871.tif
+    path: files/d9/41/d9415e0a1b7fc6e963530522915c1ff1a3d2868a464b64d416acdde60a97600b/original.tif
+    sha256: d9415e0a1b7fc6e963530522915c1ff1a3d2868a464b64d416acdde60a97600b
+    mime: image/tiff
+    bytes: 309388
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d9/41/d9415e0a1b7fc6e963530522915c1ff1a3d2868a464b64d416acdde60a97600b/preview-400.d0151cf1044b.jpg
+        sha256: d0151cf1044bef1262b5fcd0190a0670931f1a7f64ab52da9f0daad29f30c1f2
+        mime: image/jpeg
+        bytes: 46861
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01KQ07SPRVQZKQGYWH5FFM9JYP
+type: image
+subtype: photo
+title: Hans Schulz, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1909-09
+location: Lüchow, Marktstraße
+origin:
+  name: Gerda Krüger
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Badestelle
+    type: building
+  - name: Wassermühle
+    type: building
+parents:
+  - 01HR1QV0ZXC6MF6JQQQ9T74SMN
+files:
+  - role: main
+    original_name: DSC2622.jpg
+    path: files/04/0c/040cd704ef2158a1734b741d29e4bc633392135ec394f413ccc90dc4512814e8/original.jpg
+    sha256: 040cd704ef2158a1734b741d29e4bc633392135ec394f413ccc90dc4512814e8
+    mime: image/jpeg
+    bytes: 19918206
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/04/0c/040cd704ef2158a1734b741d29e4bc633392135ec394f413ccc90dc4512814e8/preview-400.79553f809aa0.jpg
+        sha256: 79553f809aa0f4835ffb6f09bcb2233141487e6adae64084a44d4ba9d3cf4c38
+        mime: image/jpeg
+        bytes: 81833
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

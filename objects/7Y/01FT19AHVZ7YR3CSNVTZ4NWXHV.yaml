@@ -1,0 +1,64 @@
+id: 01FT19AHVZ7YR3CSNVTZ4NWXHV
+type: document
+subtype: note
+title: Rechnung Ludolf, Gasthof „Zur Elbe“
+description: Beleg mit Stempel.
+date: 1903-12
+origin:
+  name: Karl Rohde
+  type: person
+  location: Wootz
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F/Mappe 20/071
+  note: Planschrank, Fach 3
+subjects:
+  - name: Hochzeit 1903
+    type: event
+parents:
+  - 01KW7A26BTPJQVF2JX2JPDHVMK
+files:
+  - role: page
+    num: 1
+    original_name: note_4nwxhv_001.tif
+    path: files/fa/6a/fa6a9f33b01e2408b740dab478eeff993fad37e9f86bd61d5ff3cd0cfb6e76ea/original.tif
+    sha256: fa6a9f33b01e2408b740dab478eeff993fad37e9f86bd61d5ff3cd0cfb6e76ea
+    mime: image/tiff
+    bytes: 15409394
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fa/6a/fa6a9f33b01e2408b740dab478eeff993fad37e9f86bd61d5ff3cd0cfb6e76ea/preview-400.eb324be9fc21.jpg
+        sha256: eb324be9fc21b57356f87920988db012c96afb1468d9b65b057197da19413123
+        mime: image/jpeg
+        bytes: 31581
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_4nwxhv_002.tif
+    path: files/96/8e/968e4fbd14f95d8770bfb30efe64953c3eeb33127a8a70b50591f685a67ec8f9/original.tif
+    sha256: 968e4fbd14f95d8770bfb30efe64953c3eeb33127a8a70b50591f685a67ec8f9
+    mime: image/tiff
+    bytes: 19951768
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/96/8e/968e4fbd14f95d8770bfb30efe64953c3eeb33127a8a70b50591f685a67ec8f9/preview-400.47d6e5cd59f0.jpg
+        sha256: 47d6e5cd59f0b47d5ba66f7efd696e0defefd2f513e64e463b5bb641c7713ba3
+        mime: image/jpeg
+        bytes: 66284
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,66 @@
+id: 01HX3WEWRN3PVGCZD48E2W5HDE
+type: document
+subtype: note
+title: Quittung für Friedrich Fricke
+date: "1870"
+location: Wustrow, Dorfteich
+geocode:
+  lat: 53.0364
+  lon: 11.4854
+  precision: street
+  source: osm
+origin:
+  name: Paul Brandt
+  type: person
+  location: Wittenberge
+language: de
+original:
+  holder:
+    name: Familie Dreyer
+    type: person
+    location: Bömenzien
+  reference: Slg 1/264
+parents:
+  - 01FN6T6JHA18TW27M4TSYE0FQV
+files:
+  - role: page
+    num: 1
+    original_name: note_2w5hde_001.tif
+    path: files/4b/5a/4b5a1f378cd7ffff5712cdf7963af0309d01d177cbe02f1bfe5da5449af82eac/original.tif
+    sha256: 4b5a1f378cd7ffff5712cdf7963af0309d01d177cbe02f1bfe5da5449af82eac
+    mime: image/tiff
+    bytes: 13338387
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4b/5a/4b5a1f378cd7ffff5712cdf7963af0309d01d177cbe02f1bfe5da5449af82eac/preview-400.bb9cdbe63625.jpg
+        sha256: bb9cdbe63625d79d6b4a9bd626c0d5071c4a5a456ea7e12aa54da8da6f6b4fbe
+        mime: image/jpeg
+        bytes: 87180
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_2w5hde_002.tif
+    path: files/7c/73/7c73a0d2da182c82c8bcb55e3dcd7a2308b6ee35bf447d61fe175932b3307244/original.tif
+    sha256: 7c73a0d2da182c82c8bcb55e3dcd7a2308b6ee35bf447d61fe175932b3307244
+    mime: image/tiff
+    bytes: 1673267
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7c/73/7c73a0d2da182c82c8bcb55e3dcd7a2308b6ee35bf447d61fe175932b3307244/preview-400.69073398ab74.jpg
+        sha256: 69073398ab7476c27693dd4218b570250b8eb87deb3fb284474aad868be01485
+        mime: image/jpeg
+        bytes: 51201
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

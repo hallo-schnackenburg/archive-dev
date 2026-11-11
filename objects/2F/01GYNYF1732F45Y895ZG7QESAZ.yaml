@@ -1,0 +1,38 @@
+id: 01GYNYF1732F45Y895ZG7QESAZ
+type: image
+subtype: plan
+title: Deichplan Wustrow bis Salzwedel
+location: Schnackenburg, Hinter den Höfen
+origin:
+  name: Wilhelm Heuer
+  type: person
+  location: Havelberg
+subjects:
+  - name: Fähranleger
+    type: building
+  - name: Arendsee
+    type: place
+  - name: Bömenzien
+    type: place
+parents:
+  - 01JJVWHQS46WZ6EFA7FBGQH53P
+files:
+  - role: main
+    original_name: scan_018.tif
+    path: files/88/e7/88e72f44d6b14b1b24b7bd3841b003bab1972bdec30daf6de108556821b74400/original.tif
+    sha256: 88e72f44d6b14b1b24b7bd3841b003bab1972bdec30daf6de108556821b74400
+    mime: image/tiff
+    bytes: 1405360
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/88/e7/88e72f44d6b14b1b24b7bd3841b003bab1972bdec30daf6de108556821b74400/preview-400.7c6b40da96f2.jpg
+        sha256: 7c6b40da96f2fe4047a153e40dde2a47aabbd087c6311d190ee96111d20d45e2
+        mime: image/jpeg
+        bytes: 62303
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

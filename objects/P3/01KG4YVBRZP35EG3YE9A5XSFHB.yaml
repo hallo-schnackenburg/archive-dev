@@ -1,0 +1,38 @@
+id: 01KG4YVBRZP35EG3YE9A5XSFHB
+type: image
+subtype: print
+title: Postkarte Havelberg, Scheune
+date: 1929-02-22
+location: Havelberg, Pfarrhaus
+geocode:
+  lat: 53.0945
+  lon: 11.6288
+  precision: street
+  source: osm
+origin:
+  name: Heinrich Jeß
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Gustav Garms
+    type: person
+files:
+  - role: main
+    original_name: scan_653.tif
+    path: files/38/25/3825825e0df56448de30c9732552389e73dfbcab722af869547bab44b436e7a7/original.tif
+    sha256: 3825825e0df56448de30c9732552389e73dfbcab722af869547bab44b436e7a7
+    mime: image/tiff
+    bytes: 16827737
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/38/25/3825825e0df56448de30c9732552389e73dfbcab722af869547bab44b436e7a7/preview-400.7dca54bb9f77.jpg
+        sha256: 7dca54bb9f77e5dcc70a74e30e792805e7414065a17d0235a308379beedb4801
+        mime: image/jpeg
+        bytes: 20973
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

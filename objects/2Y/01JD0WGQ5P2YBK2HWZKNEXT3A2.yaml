@@ -1,0 +1,40 @@
+id: 01JD0WGQ5P2YBK2HWZKNEXT3A2
+type: image
+subtype: print
+title: "Holzschnitt: Feuerwehrübung, Lüchow"
+description: Kupferstich, koloriert.
+date: 1876~
+location: Bömenzien, Elbdeich
+origin:
+  name: Karl Schulz
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 28/055
+  note: Schrank B
+parents:
+  - 01KZTC7HCNQEK4PPA9Y96PZJS7
+files:
+  - role: main
+    original_name: scan_490.tif
+    path: files/75/69/7569f74e1180f83090e74ae72ad074ff6578fdc35fc99b29853acc0e265d0fd2/original.tif
+    sha256: 7569f74e1180f83090e74ae72ad074ff6578fdc35fc99b29853acc0e265d0fd2
+    mime: image/tiff
+    bytes: 3757952
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/75/69/7569f74e1180f83090e74ae72ad074ff6578fdc35fc99b29853acc0e265d0fd2/preview-400.65542d95a683.jpg
+        sha256: 65542d95a683fbd2841638cf42cc1ed784302fa82bbfdb6de2dc7e48c5080b0b
+        mime: image/jpeg
+        bytes: 62691
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

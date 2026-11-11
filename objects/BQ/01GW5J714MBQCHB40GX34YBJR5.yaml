@@ -1,0 +1,39 @@
+id: 01GW5J714MBQCHB40GX34YBJR5
+type: image
+subtype: print
+title: "Kupferstich: Lanz von der Elbseite, Gülden"
+description: Kupferstich, koloriert.
+date: 1740-10-07
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F 24/187
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Brückeneinweihung 1740
+    type: event
+parents:
+  - 01J8ED3E4SGG31ZRC1FEQ26FTD
+files:
+  - role: main
+    original_name: scan_759.tif
+    path: files/b2/c9/b2c9360888024959aa8c6945f5524ceda64252a2b03bccc6bed256a1337b7453/original.tif
+    sha256: b2c9360888024959aa8c6945f5524ceda64252a2b03bccc6bed256a1337b7453
+    mime: image/tiff
+    bytes: 4021069
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b2/c9/b2c9360888024959aa8c6945f5524ceda64252a2b03bccc6bed256a1337b7453/preview-400.84faa2284846.jpg
+        sha256: 84faa22848461108bf43d008d451558fbe6562393e4b66350ed155eff6057088
+        mime: image/jpeg
+        bytes: 60413
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

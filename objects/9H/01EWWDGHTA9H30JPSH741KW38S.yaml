@@ -1,0 +1,41 @@
+id: 01EWWDGHTA9H30JPSH741KW38S
+type: document
+subtype: letter
+title: Korrespondenz Emma Neumann
+description: Maschinenschriftlich, unterschrieben.
+origin:
+  name: Marta Ahrens
+  type: person
+  location: Gartow
+recipient: Paul Wiegmann
+language: de
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+  - name: Laase
+    type: place
+  - name: Grenzöffnung 1915
+    type: event
+parents:
+  - 01GZR4MDFA5EQY40GSVWP94FQ3
+files:
+  - role: page
+    num: 1
+    original_name: letter_1kw38s_001.tif
+    path: files/11/0c/110c5bcca2a3d4ef9f047c289b752261ae1855879fdf7ac2db1ec5572aa7442a/original.tif
+    sha256: 110c5bcca2a3d4ef9f047c289b752261ae1855879fdf7ac2db1ec5572aa7442a
+    mime: image/tiff
+    bytes: 20183495
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/0c/110c5bcca2a3d4ef9f047c289b752261ae1855879fdf7ac2db1ec5572aa7442a/preview-400.4d62b5e9a5b5.jpg
+        sha256: 4d62b5e9a5b5be027340f88f3479984c64dbc8b18b265e75654df9536130ec96
+        mime: image/jpeg
+        bytes: 47928
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

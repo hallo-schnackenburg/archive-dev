@@ -1,0 +1,37 @@
+id: 01F1S166T0FYPFDCVPGKEMKXAM
+type: image
+subtype: plan
+title: Bauplan Dorfladen 1883
+date: "1883"
+location: Gorleben, Scheune
+origin:
+  name: Erika Wegner
+  type: person
+  location: Pretzier
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Kindergarten
+    type: building
+parents:
+  - 01K8HWTS9YNZVY4EVEMNNZSHBJ
+files:
+  - role: main
+    original_name: scan_313.tif
+    path: files/cf/a7/cfa7e7eafd7a810065df9559586e0bc491289e6d6f9aee00d895475337e6175e/original.tif
+    sha256: cfa7e7eafd7a810065df9559586e0bc491289e6d6f9aee00d895475337e6175e
+    mime: image/tiff
+    bytes: 8320045
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/cf/a7/cfa7e7eafd7a810065df9559586e0bc491289e6d6f9aee00d895475337e6175e/preview-400.56d9363d5fa8.jpg
+        sha256: 56d9363d5fa81cfedc41679cca6d95f0c9194daca3b08b9e07dc5b6c38eeb5a1
+        mime: image/jpeg
+        bytes: 20859
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01HPMK8BH0737RHDH168WSP7HM
+type: image
+subtype: drawing
+title: Wappenentwurf Wustrow
+description: Mit Anmerkungen am Rand.
+date: 1968-05-26
+location: Laase, Kaufmannshaus
+origin:
+  name: Heinrich Wiegmann
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 25/059
+  note: Schrank B
+subjects:
+  - name: Günter Krüger
+    type: person
+  - name: Kartoffelernte 1968
+    type: event
+files:
+  - role: main
+    original_name: scan_804.tif
+    path: files/3d/2a/3d2ae25c3c231a978a26249018b8af8820821a4edec53da23352d478d0c9d215/original.tif
+    sha256: 3d2ae25c3c231a978a26249018b8af8820821a4edec53da23352d478d0c9d215
+    mime: image/tiff
+    bytes: 27575570
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3d/2a/3d2ae25c3c231a978a26249018b8af8820821a4edec53da23352d478d0c9d215/preview-400.fe9cc0e186c8.jpg
+        sha256: fe9cc0e186c88490dac3b476c440fda19a667f907817ddab7a706da0aceb4db5
+        mime: image/jpeg
+        bytes: 68780
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,69 @@
+id: 01F4C65MTCFK5733VP42YA4DQM
+type: document
+subtype: note
+title: Rechnung Krüger, Gärtnerei
+date: 1961~
+location: Restorf, Dorfstraße
+geocode:
+  lat: 53.0132
+  lon: 11.4835
+  precision: town
+  source: osm
+origin:
+  name: Otto Lemke
+  type: person
+  location: Kapern
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 23/388
+  note: Mappe 12
+subjects:
+  - name: Bahnhof
+    type: building
+parents:
+  - 01J8GJHXRZG3WKWHP1C2HPX9G9
+files:
+  - role: page
+    num: 1
+    original_name: note_ya4dqm_001.tif
+    path: files/af/fb/affb1ef683ddb4a8db4425a29459495faa4eab469f0ce67c9f44467fda0cecd7/original.tif
+    sha256: affb1ef683ddb4a8db4425a29459495faa4eab469f0ce67c9f44467fda0cecd7
+    mime: image/tiff
+    bytes: 19073983
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/af/fb/affb1ef683ddb4a8db4425a29459495faa4eab469f0ce67c9f44467fda0cecd7/preview-400.103fdd6b8a60.jpg
+        sha256: 103fdd6b8a601529418c097a3255389dc8ff5df3b6286fe3f959d9de6a51c6e9
+        mime: image/jpeg
+        bytes: 58937
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_ya4dqm_002.tif
+    path: files/7d/90/7d908019f65331609e7b21e690910f9163a0b95327ba42af5b3565863132659c/original.tif
+    sha256: 7d908019f65331609e7b21e690910f9163a0b95327ba42af5b3565863132659c
+    mime: image/tiff
+    bytes: 26939028
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7d/90/7d908019f65331609e7b21e690910f9163a0b95327ba42af5b3565863132659c/preview-400.033180449cdf.jpg
+        sha256: 033180449cdfa1c2542c25a175f69997e547a8b8cf4b3df2b3933087f312b400
+        mime: image/jpeg
+        bytes: 32433
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

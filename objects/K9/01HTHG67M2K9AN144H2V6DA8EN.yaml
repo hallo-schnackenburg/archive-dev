@@ -1,0 +1,38 @@
+id: 01HTHG67M2K9AN144H2V6DA8EN
+type: image
+subtype: photo
+title: Eisgang 1999
+date: "1999"
+origin:
+  name: Ilse Gaede
+  type: person
+  location: Gorleben
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Gartow
+    type: place
+  - name: Seedorf
+    type: place
+parents:
+  - 01G6DC0XN5QKR1Z7MS1R51BN2J
+files:
+  - role: main
+    original_name: DSC9275.jpg
+    path: files/f3/c6/f3c6488f042ea8f02169c3eb14f3ba31fe94be7e59c3e4183d179a58468656da/original.jpg
+    sha256: f3c6488f042ea8f02169c3eb14f3ba31fe94be7e59c3e4183d179a58468656da
+    mime: image/jpeg
+    bytes: 7164321
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/f3/c6/f3c6488f042ea8f02169c3eb14f3ba31fe94be7e59c3e4183d179a58468656da/preview-400.da185f0b9a48.jpg
+        sha256: da185f0b9a4819caf96dc69b67ee8cfe538d70f796d27cc7632ca8def5a41295
+        mime: image/jpeg
+        bytes: 37867
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01FHPCXST03X1MAZNNNXDYD0P2
+type: image
+subtype: print
+title: Gruß aus Laase, Laase
+date: 1817?
+origin:
+  name: Dieter Krüger
+  type: person
+  location: Restorf
+parents:
+  - 01FXP7C4VHXDAWP3MGADT9QA1F
+files:
+  - role: main
+    original_name: scan_890.tif
+    path: files/af/22/af22a5e1bad0dd49c7d9ccc9ce5efcfc842d448f311eb0257799cd6a3ec23e6f/original.tif
+    sha256: af22a5e1bad0dd49c7d9ccc9ce5efcfc842d448f311eb0257799cd6a3ec23e6f
+    mime: image/tiff
+    bytes: 6044522
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/af/22/af22a5e1bad0dd49c7d9ccc9ce5efcfc842d448f311eb0257799cd6a3ec23e6f/preview-400.7f7e69f8f1d3.jpg
+        sha256: 7f7e69f8f1d3dae21745dd400bd6800e8ca676b6a21993e9316700f0c4d22e0d
+        mime: image/jpeg
+        bytes: 35175
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

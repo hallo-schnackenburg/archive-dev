@@ -1,0 +1,36 @@
+id: 01FYZQK44355CGME3S6XB75F2C
+type: image
+subtype: print
+title: "Holzschnitt: Hochzeit"
+date: 1787-05
+location: Dömitz, Schulstraße
+geocode:
+  lat: 53.0958
+  lon: 11.5988
+  precision: region
+  source: osm
+subjects:
+  - name: Beerdigung 1787
+    type: event
+  - name: Sturmschaden 1787
+    type: event
+files:
+  - role: main
+    original_name: scan_722.tif
+    path: files/55/17/55171c00313de48c0aef596e9a7d59bd1d478603392376646d82f4623ad385e6/original.tif
+    sha256: 55171c00313de48c0aef596e9a7d59bd1d478603392376646d82f4623ad385e6
+    mime: image/tiff
+    bytes: 22266495
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/55/17/55171c00313de48c0aef596e9a7d59bd1d478603392376646d82f4623ad385e6/preview-400.f8d8a4ff45bd.jpg
+        sha256: f8d8a4ff45bd42f94c306c8445e11ae55a5e3eeff47b1add6dbe81f56ff4bdb4
+        mime: image/jpeg
+        bytes: 38960
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

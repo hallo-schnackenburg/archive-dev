@@ -1,0 +1,44 @@
+id: 01HGSGGS5AWCH245SVTYJ781Y8
+type: image
+subtype: print
+title: "Kupferstich: Cumlosen von der Elbseite, Arendsee"
+description: Postkarte, gelaufen 1914.
+date: 1909~
+location: Wittenberge, Ziegelei
+origin:
+  name: Dieter Detlefs
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 7/112
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Schlachtfest 1909
+    type: event
+  - name: Konfirmation 1909
+    type: event
+files:
+  - role: main
+    original_name: scan_458.tif
+    path: files/bc/ca/bcca45d9f7dc78c00c37bac7cd2724fc8783e7d9bc9e2f409716b9d9d5b5b2c7/original.tif
+    sha256: bcca45d9f7dc78c00c37bac7cd2724fc8783e7d9bc9e2f409716b9d9d5b5b2c7
+    mime: image/tiff
+    bytes: 19581809
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bc/ca/bcca45d9f7dc78c00c37bac7cd2724fc8783e7d9bc9e2f409716b9d9d5b5b2c7/preview-400.485480e2519b.jpg
+        sha256: 485480e2519b8c4622bc06155f348bf4f53037db27cc60a82192e666b12fd348
+        mime: image/jpeg
+        bytes: 46308
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

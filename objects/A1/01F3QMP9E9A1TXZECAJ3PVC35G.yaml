@@ -1,0 +1,33 @@
+id: 01F3QMP9E9A1TXZECAJ3PVC35G
+type: image
+subtype: plan
+title: Deichplan Lenzen bis Havelberg
+origin:
+  name: Emma Matthies
+  type: person
+  location: Gülden
+subjects:
+  - name: Laase
+    type: place
+parents:
+  - 01FC500G3M1EH4PAW2K7HHB2K0
+files:
+  - role: main
+    original_name: scan_069.tif
+    path: files/3a/1e/3a1e4d01a5cfae8fd1f268cbdf61015b5972547ec8c02dda89d0ab24b972299b/original.tif
+    sha256: 3a1e4d01a5cfae8fd1f268cbdf61015b5972547ec8c02dda89d0ab24b972299b
+    mime: image/tiff
+    bytes: 4828313
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/3a/1e/3a1e4d01a5cfae8fd1f268cbdf61015b5972547ec8c02dda89d0ab24b972299b/preview-400.6beafc57f1f7.jpg
+        sha256: 6beafc57f1f7d1c5fc1309155eae9ad817d67e9296ed5ad91dee3daeed4765f1
+        mime: image/jpeg
+        bytes: 75491
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

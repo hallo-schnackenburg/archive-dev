@@ -1,0 +1,37 @@
+id: 01G1JC5WW8EM07C7AETARBFSGH
+type: image
+subtype: plan
+title: Bauplan Heuberge 1771
+date: 177X
+location: Brünkendorf, Dorfschule
+origin:
+  name: Erika Plate
+  type: person
+  location: Lanz
+subjects:
+  - name: Pumpenhaus
+    type: building
+  - name: Erntedankfest 1771
+    type: event
+  - name: Mühle
+    type: building
+files:
+  - role: main
+    original_name: scan_535.tif
+    path: files/32/9a/329a80b4d44883c3ce84e9fbacf0d91af0afd096997175cc04a514522d97fde5/original.tif
+    sha256: 329a80b4d44883c3ce84e9fbacf0d91af0afd096997175cc04a514522d97fde5
+    mime: image/tiff
+    bytes: 24182032
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/32/9a/329a80b4d44883c3ce84e9fbacf0d91af0afd096997175cc04a514522d97fde5/preview-400.75fbe165e800.jpg
+        sha256: 75fbe165e8007ff42238ee7e260e32949107a396f9a4eee420598fcbb4bc2da7
+        mime: image/jpeg
+        bytes: 28804
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

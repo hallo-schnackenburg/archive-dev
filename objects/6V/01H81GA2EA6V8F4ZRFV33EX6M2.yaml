@@ -1,0 +1,38 @@
+id: 01H81GA2EA6V8F4ZRFV33EX6M2
+type: image
+subtype: plan
+title: Flurkarte Lenzen, Rüterberg
+description: Tusche auf Transparentpapier.
+date: "1871"
+location: Gorleben, Mühlenweg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 36/251
+subjects:
+  - name: Beerdigung 1871
+    type: event
+  - name: Brunnen am Markt
+    type: building
+files:
+  - role: main
+    original_name: scan_303.tif
+    path: files/c5/6a/c56ae4803fbdc946eb6e5cfd50fab9bdbb8f1d8fa32d30467c626155b911fd2e/original.tif
+    sha256: c56ae4803fbdc946eb6e5cfd50fab9bdbb8f1d8fa32d30467c626155b911fd2e
+    mime: image/tiff
+    bytes: 10109960
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c5/6a/c56ae4803fbdc946eb6e5cfd50fab9bdbb8f1d8fa32d30467c626155b911fd2e/preview-400.33626635a9a3.jpg
+        sha256: 33626635a9a3d20e1d7e1b8f8c022c4d7e5d66da6066d86dde18d74b490e77ed
+        mime: image/jpeg
+        bytes: 25026
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

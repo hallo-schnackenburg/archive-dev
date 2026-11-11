@@ -1,0 +1,46 @@
+id: 01KDJVD564JYK3CWVZ4FY4RVQR
+type: image
+subtype: print
+title: Postkarte Dömitz, Rathaus
+date: 1735?
+location: Brünkendorf, Am Elbdeich
+geocode:
+  lat: 52.961
+  lon: 11.4534
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Regal 1
+subjects:
+  - name: Torhaus
+    type: building
+  - name: Sturmschaden 1735
+    type: event
+  - name: Schützenhaus
+    type: building
+parents:
+  - 01FZ3FX8WBDRJ86RV9VJDC76PT
+files:
+  - role: main
+    original_name: scan_941.tif
+    path: files/c8/ce/c8ceb5284a70d5795dc5fe6da65a0df0b6dcd9bbdf616857c05a5ef801e99379/original.tif
+    sha256: c8ceb5284a70d5795dc5fe6da65a0df0b6dcd9bbdf616857c05a5ef801e99379
+    mime: image/tiff
+    bytes: 11394250
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c8/ce/c8ceb5284a70d5795dc5fe6da65a0df0b6dcd9bbdf616857c05a5ef801e99379/preview-400.a0a02198aea4.jpg
+        sha256: a0a02198aea4f41cb3bb0bb340c8113d196b046d7282391ed141a06ac691fd2c
+        mime: image/jpeg
+        bytes: 57202
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

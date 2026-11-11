@@ -1,0 +1,39 @@
+id: 01GKWA2WVGHZEPWRVEBPWXSQ8D
+type: image
+subtype: photo
+title: Hafen in Seedorf
+date: "1952"
+origin:
+  name: Gerda Wegner
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Familie Wiese
+    type: person
+    location: Kapern
+  reference: Fotos/Kasten 21/019
+  note: Kellerarchiv
+parents:
+  - 01F0QYSCYKSTCN1NTYT6RNDCR9
+  - 01JZ2DVH8HN29KX4QQA51CQ13F
+files:
+  - role: main
+    original_name: scan_113.tif
+    path: files/54/25/5425529d48729c8bc20a543cbfd4687147f0dd84c6000f09f02977cd4c592e02/original.tif
+    sha256: 5425529d48729c8bc20a543cbfd4687147f0dd84c6000f09f02977cd4c592e02
+    mime: image/tiff
+    bytes: 25376050
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/54/25/5425529d48729c8bc20a543cbfd4687147f0dd84c6000f09f02977cd4c592e02/preview-400.1beed0de859b.jpg
+        sha256: 1beed0de859b5b3600345fdbeb6cbf8ec4ec15da8578ef3c353bec6cf8f7083a
+        mime: image/jpeg
+        bytes: 22560
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

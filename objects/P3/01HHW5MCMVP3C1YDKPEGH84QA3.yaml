@@ -1,0 +1,40 @@
+id: 01HHW5MCMVP3C1YDKPEGH84QA3
+type: image
+subtype: photo
+title: Familie Schwarz beim Grenzöffnung
+description: Aufnahme von Hans Schulz.
+date: "1900"
+origin:
+  name: Hans Wegner
+  type: person
+  location: Laase
+subjects:
+  - name: Wilhelm Rohde
+    type: person
+  - name: Arendsee
+    type: place
+  - name: August Lemke
+    type: person
+parents:
+  - 01F8F6MXW2PVW8HD0CH1TYMBGX
+  - 01EW7Y4DK0MKNT73TY4DDY8AY7
+files:
+  - role: main
+    original_name: scan_312.tif
+    path: files/b4/b7/b4b7d5ccb3ba68a87c98b55d569067867c78ac9e26652d58041704143626e15b/original.tif
+    sha256: b4b7d5ccb3ba68a87c98b55d569067867c78ac9e26652d58041704143626e15b
+    mime: image/tiff
+    bytes: 26170953
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/b7/b4b7d5ccb3ba68a87c98b55d569067867c78ac9e26652d58041704143626e15b/preview-400.7d2e7c5c2623.jpg
+        sha256: 7d2e7c5c2623897f8ba5aa0d4d7339c6b97b7f8203cfb88098f4cc6c10bc9670
+        mime: image/jpeg
+        bytes: 66441
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

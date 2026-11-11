@@ -1,0 +1,38 @@
+id: 01FJ6YQ6NDDRQ2C7PW60ZHW0DJ
+type: image
+subtype: photo
+title: Eisgang 1903
+description: Aufnahme von Hans Pape.
+date: 190X
+location: Gülden, Sportplatz
+origin:
+  name: Wilhelm Fricke
+  type: person
+  location: Wootz
+subjects:
+  - name: Kindergarten
+    type: building
+  - name: Gustav Jeß
+    type: person
+parents:
+  - 01HZP17Y1NVSXA7HYV6RH1MVZS
+files:
+  - role: main
+    original_name: P0741.jpg
+    path: files/bc/9d/bc9d336d3d21cfb3431a897ab6f663c17c410bb1bdc5e091b50377d064e9808a/original.jpg
+    sha256: bc9d336d3d21cfb3431a897ab6f663c17c410bb1bdc5e091b50377d064e9808a
+    mime: image/jpeg
+    bytes: 19898445
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/bc/9d/bc9d336d3d21cfb3431a897ab6f663c17c410bb1bdc5e091b50377d064e9808a/preview-400.f7c5ad437e9b.jpg
+        sha256: f7c5ad437e9b2138f04a13506b1e83fcdb04016e0a834a124ed2281c962db241
+        mime: image/jpeg
+        bytes: 48476
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01J7B658Y7W3QDQR45Y2CPK5Y2
+type: image
+subtype: photo
+title: Blick vom Bahnhof auf das Molkerei
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Rüterberg, Bahnhof
+origin:
+  name: Heinrich Voss
+  type: person
+  location: Laase
+subjects:
+  - name: Laase
+    type: place
+  - name: Heinrich Mahnke
+    type: person
+  - name: Gerda Tiedemann
+    type: person
+files:
+  - role: main
+    original_name: DSC1722.jpg
+    path: files/20/ed/20edb16d3424a76e6c77986e724d978f799d2a1afcb230a6dd162dea8269875f/original.jpg
+    sha256: 20edb16d3424a76e6c77986e724d978f799d2a1afcb230a6dd162dea8269875f
+    mime: image/jpeg
+    bytes: 17654637
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/20/ed/20edb16d3424a76e6c77986e724d978f799d2a1afcb230a6dd162dea8269875f/preview-400.8a2357d7681a.jpg
+        sha256: 8a2357d7681aeda74460d0dc8b56629f381912f913b3352c77b61a92158ecf86
+        mime: image/jpeg
+        bytes: 50439
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

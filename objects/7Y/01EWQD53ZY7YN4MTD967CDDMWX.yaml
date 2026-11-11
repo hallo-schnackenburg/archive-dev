@@ -1,0 +1,42 @@
+id: 01EWQD53ZY7YN4MTD967CDDMWX
+type: image
+subtype: print
+title: Lithographie Apotheke, Cumlosen
+description: Postkarte, gelaufen 1931.
+date: 1867-02-20
+location: Lenzen, Gemeindehaus
+origin:
+  name: Marta Lemke
+  type: person
+  location: Salzwedel
+owner:
+  name: Helga Lemke
+  type: person
+  note: Nachlass
+subjects:
+  - name: Backhaus
+    type: building
+  - name: Frieda Meyer
+    type: person
+  - name: Brückeneinweihung 1867
+    type: event
+files:
+  - role: main
+    original_name: scan_208.tif
+    path: files/ad/9b/ad9b82ae73154a98c0f462297d82a84f70b1f69896557845d3a953e070f5b061/original.tif
+    sha256: ad9b82ae73154a98c0f462297d82a84f70b1f69896557845d3a953e070f5b061
+    mime: image/tiff
+    bytes: 15470209
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ad/9b/ad9b82ae73154a98c0f462297d82a84f70b1f69896557845d3a953e070f5b061/preview-400.bd43f9b8cdd4.jpg
+        sha256: bd43f9b8cdd4502c5f4271110e2a7012118f80338da40aa2ea7489a0a3be8588
+        mime: image/jpeg
+        bytes: 61917
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

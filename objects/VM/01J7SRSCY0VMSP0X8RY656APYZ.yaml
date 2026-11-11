@@ -1,0 +1,57 @@
+id: 01J7SRSCY0VMSP0X8RY656APYZ
+type: document
+subtype: letter
+title: Korrespondenz Gerda Plate
+date: "1862"
+origin:
+  name: Otto Lemke
+  type: person
+  location: Kapern
+recipient: Werner Jürgens
+language: de
+subjects:
+  - name: Eisgang 1862
+    type: event
+parents:
+  - 01F3WB9ZBJKKX10FSWQKEJV2M4
+files:
+  - role: page
+    num: 1
+    original_name: letter_56apyz_001.tif
+    path: files/ed/80/ed80f6de796f4864675efc2a67f652a2b16e914c1926e8d26216ae8e7b9cbcf8/original.tif
+    sha256: ed80f6de796f4864675efc2a67f652a2b16e914c1926e8d26216ae8e7b9cbcf8
+    mime: image/tiff
+    bytes: 26332047
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ed/80/ed80f6de796f4864675efc2a67f652a2b16e914c1926e8d26216ae8e7b9cbcf8/preview-400.27ffeb6511d9.jpg
+        sha256: 27ffeb6511d984119e46c7fc921bc4e602e374dffb0d4aba2460b935582b12f2
+        mime: image/jpeg
+        bytes: 20019
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_56apyz_002.tif
+    path: files/07/14/0714f33cd29554b2af6e615a7ed6b6e0bfafdab71ebb3d1deb639a34c3921278/original.tif
+    sha256: 0714f33cd29554b2af6e615a7ed6b6e0bfafdab71ebb3d1deb639a34c3921278
+    mime: image/tiff
+    bytes: 16269366
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/14/0714f33cd29554b2af6e615a7ed6b6e0bfafdab71ebb3d1deb639a34c3921278/preview-400.10f7c246f913.jpg
+        sha256: 10f7c246f91302f0651023016928a37897ce873a4df24155dea8cd7bc55c6daf
+        mime: image/jpeg
+        bytes: 81496
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

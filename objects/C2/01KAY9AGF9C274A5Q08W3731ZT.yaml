@@ -1,0 +1,34 @@
+id: 01KAY9AGF9C274A5Q08W3731ZT
+type: image
+subtype: print
+title: Ansichtskarte Burgstraße, Lanz
+description: Kupferstich, koloriert.
+date: 1890-04-12
+location: Seedorf, Am Elbdeich
+origin:
+  name: Karl Gerdes
+  type: person
+  location: Salzwedel
+parents:
+  - 01GEV5Y4J3FGXYTVXBWZX1MJPG
+  - 01FDG2W8NWMVK48918J24FXBW9
+files:
+  - role: main
+    original_name: scan_805.tif
+    path: files/ce/33/ce33d483dee2a35b3b6681b5b07c1b1f4415bfa22f39ba6b07032cfc9cc3c9dd/original.tif
+    sha256: ce33d483dee2a35b3b6681b5b07c1b1f4415bfa22f39ba6b07032cfc9cc3c9dd
+    mime: image/tiff
+    bytes: 23913042
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ce/33/ce33d483dee2a35b3b6681b5b07c1b1f4415bfa22f39ba6b07032cfc9cc3c9dd/preview-400.477fb04f4ca7.jpg
+        sha256: 477fb04f4ca7969f5c9d149bf286fa23444667d4d326f9fe208c8c015d15a0e4
+        mime: image/jpeg
+        bytes: 33402
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

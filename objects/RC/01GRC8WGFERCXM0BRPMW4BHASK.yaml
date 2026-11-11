@@ -1,0 +1,85 @@
+id: 01GRC8WGFERCXM0BRPMW4BHASK
+type: document
+subtype: letter
+title: Dieter Jeß an die Gemeinde wegen Straßenbeleuchtung
+description: Handschriftlich, 3 Seiten.
+date: "1816"
+location: Kapern, Deichstraße
+geocode:
+  lat: 53.0073
+  lon: 11.6601
+  precision: region
+  source: osm
+recipient: Marta Voss
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Laase
+  reference: Plan 14/053
+subjects:
+  - name: Einschulung 1816
+    type: event
+parents:
+  - 01M0CBRWW56FRQVDWWMJQPF72C
+files:
+  - role: page
+    num: 1
+    original_name: letter_4bhask_001.tif
+    path: files/6c/17/6c173318d6e5b4c4441f603a74a50b2c26e80ecacf17e5165ffc306ee56bb596/original.tif
+    sha256: 6c173318d6e5b4c4441f603a74a50b2c26e80ecacf17e5165ffc306ee56bb596
+    mime: image/tiff
+    bytes: 20495250
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6c/17/6c173318d6e5b4c4441f603a74a50b2c26e80ecacf17e5165ffc306ee56bb596/preview-400.5236a38859bf.jpg
+        sha256: 5236a38859bf151cbe5644541f02ff60aa4ab2e44582c1331d4bdc54cb2d1798
+        mime: image/jpeg
+        bytes: 28440
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_4bhask_002.tif
+    path: files/d8/fd/d8fd779a0ec12786777ed0ec28a454f252d08fa6e6079811243f83e7939d6f92/original.tif
+    sha256: d8fd779a0ec12786777ed0ec28a454f252d08fa6e6079811243f83e7939d6f92
+    mime: image/tiff
+    bytes: 15135853
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d8/fd/d8fd779a0ec12786777ed0ec28a454f252d08fa6e6079811243f83e7939d6f92/preview-400.80b86fd9c7d9.jpg
+        sha256: 80b86fd9c7d9dab282bde1235b31db8c0ccd737be79bfd806a511fc257fb0e4d
+        mime: image/jpeg
+        bytes: 73159
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_4bhask_003.tif
+    path: files/52/1e/521e1c1f651953477186544a47b1d7f18932d96ffecd206136b3ab582102b334/original.tif
+    sha256: 521e1c1f651953477186544a47b1d7f18932d96ffecd206136b3ab582102b334
+    mime: image/tiff
+    bytes: 27844194
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/1e/521e1c1f651953477186544a47b1d7f18932d96ffecd206136b3ab582102b334/preview-400.843dc3ed81b6.jpg
+        sha256: 843dc3ed81b6b807bc27e78a5fc170eb3a3772800637a6abfc6048cd16e6c83d
+        mime: image/jpeg
+        bytes: 63789
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

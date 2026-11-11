@@ -1,0 +1,30 @@
+id: 01FQWABTJ6GF667KSP28SAJZG7
+type: image
+subtype: photo
+title: Torhaus in Salzwedel
+description: Aufnahme von Helga Meyer.
+date: "1969"
+origin:
+  name: Wilhelm Pape
+  type: person
+  location: Seedorf
+files:
+  - role: main
+    original_name: scan_846.tif
+    path: files/7d/fd/7dfd11b9aa4f506e18269ea276dc797a1dd7b35677ef5f33a909c0bb17e43215/original.tif
+    sha256: 7dfd11b9aa4f506e18269ea276dc797a1dd7b35677ef5f33a909c0bb17e43215
+    mime: image/tiff
+    bytes: 6559008
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/7d/fd/7dfd11b9aa4f506e18269ea276dc797a1dd7b35677ef5f33a909c0bb17e43215/preview-400.a157f77e2b8e.jpg
+        sha256: a157f77e2b8e29ff8e3ba7f1fcea97409aeecc4e2368a9239d19ab8b98cf757b
+        mime: image/jpeg
+        bytes: 39355
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

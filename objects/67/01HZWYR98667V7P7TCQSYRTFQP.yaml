@@ -1,0 +1,42 @@
+id: 01HZWYR98667V7P7TCQSYRTFQP
+type: image
+subtype: drawing
+title: Wappenentwurf Lenzen, Restorf
+description: Mit Anmerkungen am Rand.
+location: Hitzacker, Gartenstraße
+origin:
+  name: Fritz Brandt
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos 24/098
+  note: Dachboden, Truhe
+subjects:
+  - name: Dorfkrug
+    type: building
+parents:
+  - 01J3DPEJ61GZW2DYZ6RC50SJBG
+files:
+  - role: main
+    original_name: scan_677.tif
+    path: files/67/7f/677f1403d830d5ff8b809ade03364ed625b2548ca0997fc1c0470e083b227c68/original.tif
+    sha256: 677f1403d830d5ff8b809ade03364ed625b2548ca0997fc1c0470e083b227c68
+    mime: image/tiff
+    bytes: 8979996
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/67/7f/677f1403d830d5ff8b809ade03364ed625b2548ca0997fc1c0470e083b227c68/preview-400.573e076b5df3.jpg
+        sha256: 573e076b5df31d11b570e74cb3c1523c5c08e8ce83c5ea3701867b257fda758b
+        mime: image/jpeg
+        bytes: 37740
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01HNBRBKTAPHPYB4TXVBHFHNJ7
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Richtfest, Lüchow"
+description: Federzeichnung, laviert.
+date: "1915"
+origin:
+  name: Karl Tiedemann
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F/Mappe 10/118
+subjects:
+  - name: Apotheke
+    type: building
+  - name: Dömitz
+    type: place
+  - name: Jürgen Sievers
+    type: person
+files:
+  - role: main
+    original_name: scan_940.tif
+    path: files/66/a3/66a3c1d10c99413892f9584a06d94d314c4266304d109ac2a3403a3c4e746631/original.tif
+    sha256: 66a3c1d10c99413892f9584a06d94d314c4266304d109ac2a3403a3c4e746631
+    mime: image/tiff
+    bytes: 25714190
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/66/a3/66a3c1d10c99413892f9584a06d94d314c4266304d109ac2a3403a3c4e746631/preview-400.5184325c7ee3.jpg
+        sha256: 5184325c7ee36cd026cde5012b64aa1717dcf7c4a42ca6ff9f5aeed809847e4b
+        mime: image/jpeg
+        bytes: 38278
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01M03CEWS3NYAWXAVQJGY4NJVN
+type: image
+subtype: photo
+title: Karl Bohlmann vor dem Mühle
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1924?
+location: Arendsee, Am Elbdeich
+geocode:
+  lat: 52.9498
+  lon: 11.5563
+  precision: town
+  source: osm
+origin:
+  name: Dieter Krüger
+  type: person
+  location: Gartow
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Grenzöffnung 1924
+    type: event
+files:
+  - role: main
+    original_name: P2083.jpg
+    path: files/18/9e/189edb395aeebaf435561c52b65271f90c965c3d7df9dbe857246e564dcf4314/original.jpg
+    sha256: 189edb395aeebaf435561c52b65271f90c965c3d7df9dbe857246e564dcf4314
+    mime: image/jpeg
+    bytes: 21441873
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/18/9e/189edb395aeebaf435561c52b65271f90c965c3d7df9dbe857246e564dcf4314/preview-400.6467fcf93d71.jpg
+        sha256: 6467fcf93d71429e71c41c7fb1f2961ec41be904fd8c887d2f145798ac0fc12e
+        mime: image/jpeg
+        bytes: 75762
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

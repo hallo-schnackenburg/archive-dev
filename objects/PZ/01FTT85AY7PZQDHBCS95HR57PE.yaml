@@ -1,0 +1,30 @@
+id: 01FTT85AY7PZQDHBCS95HR57PE
+type: document
+subtype: letter
+title: Feldpostbrief von Brigitte Pape
+description: Handschriftlich, 4 Seiten.
+location: Lenzen, Fähranleger
+geocode:
+  lat: 52.9984
+  lon: 11.6422
+  precision: street
+  source: osm
+origin:
+  name: Sabine Wegner
+  type: person
+  location: Wootz
+recipient: Käthe Brandt
+language: de
+subjects:
+  - name: Fährjubiläum 1862
+    type: event
+  - name: Cumlosen
+    type: place
+  - name: Manfred Dreyer
+    type: person
+storage: external
+external:
+  - type: archive
+    site: Landeskirchliches Archiv
+    uri: https://landeskirchliches-archiv.example.org/objekt/635301
+    retrieved: 2025-11-27

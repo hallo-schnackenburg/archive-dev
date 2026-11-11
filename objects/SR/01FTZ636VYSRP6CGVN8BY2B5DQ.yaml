@@ -1,0 +1,32 @@
+id: 01FTZ636VYSRP6CGVN8BY2B5DQ
+type: image
+subtype: plan
+title: Deichplan Rüterberg bis Pretzier
+description: Maßstab 1:100.
+location: Lenzen, Schulstraße
+origin:
+  name: Fritz Gerdes
+  type: person
+  location: Nienwalde
+parents:
+  - 01JN30QK7AA815KKZN3ATXX5V3
+files:
+  - role: main
+    original_name: scan_986.tif
+    path: files/6f/a3/6fa3a4bdc2ab1d3348336a3b63cbd31b3f34d591e74f08c6ae28bf4ce5236cbc/original.tif
+    sha256: 6fa3a4bdc2ab1d3348336a3b63cbd31b3f34d591e74f08c6ae28bf4ce5236cbc
+    mime: image/tiff
+    bytes: 23493468
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/6f/a3/6fa3a4bdc2ab1d3348336a3b63cbd31b3f34d591e74f08c6ae28bf4ce5236cbc/preview-400.0c977950238a.jpg
+        sha256: 0c977950238adfbd49489e85620cc84dea1906a9372184064cce8b5d94926bd7
+        mime: image/jpeg
+        bytes: 55878
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

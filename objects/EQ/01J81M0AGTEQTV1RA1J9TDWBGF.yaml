@@ -1,0 +1,37 @@
+id: 01J81M0AGTEQTV1RA1J9TDWBGF
+type: image
+subtype: plan
+title: Bauplan Bäckerei Lüders 1783
+description: Mit handschriftlichen Ergänzungen.
+date: 1783/1786
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok 21/120
+subjects:
+  - name: Restorf
+    type: place
+parents:
+  - 01KV80DFXW7572XGFSJ9A620CH
+files:
+  - role: main
+    original_name: scan_588.tif
+    path: files/e5/dc/e5dca690a4389dedeb4440c7cc8ab9a28ead8cab6e9f9367b66073cc271123c9/original.tif
+    sha256: e5dca690a4389dedeb4440c7cc8ab9a28ead8cab6e9f9367b66073cc271123c9
+    mime: image/tiff
+    bytes: 7366420
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e5/dc/e5dca690a4389dedeb4440c7cc8ab9a28ead8cab6e9f9367b66073cc271123c9/preview-400.d17497776951.jpg
+        sha256: d17497776951c7ccc1622500bcf2147b9941798328f18f26aabc7b72c0b77383
+        mime: image/jpeg
+        bytes: 62546
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

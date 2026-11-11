@@ -1,0 +1,42 @@
+id: 01GMT29WVETV1G5SF7T44TG23R
+type: image
+subtype: print
+title: "Kupferstich: Pretzier von der Elbseite, Rüterberg"
+date: "1796"
+location: Lüchow, Tischlerei Bruns
+origin:
+  name: Otto Lüders
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Karl Sievers
+    type: person
+  - name: Lotte Schwarz
+    type: person
+  - name: Hafen
+    type: building
+files:
+  - role: main
+    original_name: scan_277.tif
+    path: files/55/91/559101d8dfd90ec2489770a21970b72967518134406ca7e14f378e0201d2dff3/original.tif
+    sha256: 559101d8dfd90ec2489770a21970b72967518134406ca7e14f378e0201d2dff3
+    mime: image/tiff
+    bytes: 24289245
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/55/91/559101d8dfd90ec2489770a21970b72967518134406ca7e14f378e0201d2dff3/preview-400.90c3f35c8fd4.jpg
+        sha256: 90c3f35c8fd45cd6fc37296ae01e9227cfefe1abce077ab3b938c2b77e001f99
+        mime: image/jpeg
+        bytes: 66725
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

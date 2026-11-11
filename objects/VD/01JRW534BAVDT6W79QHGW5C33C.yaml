@@ -1,0 +1,38 @@
+id: 01JRW534BAVDT6W79QHGW5C33C
+type: image
+subtype: photo
+title: Brigitte Voss, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1919-06-01
+location: Gollensdorf, Schulstraße
+origin:
+  name: Dieter Lüders
+  type: person
+  location: Wootz
+subjects:
+  - name: Kartoffelernte 1919
+    type: event
+  - name: Dieter Voss
+    type: person
+  - name: Pumpenhaus
+    type: building
+files:
+  - role: main
+    original_name: P2002.jpg
+    path: files/85/56/8556921a04032c934aed3062f19fa557c5e4135fd2893f6ada62f261a0c726a6/original.jpg
+    sha256: 8556921a04032c934aed3062f19fa557c5e4135fd2893f6ada62f261a0c726a6
+    mime: image/jpeg
+    bytes: 521302
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/85/56/8556921a04032c934aed3062f19fa557c5e4135fd2893f6ada62f261a0c726a6/preview-400.5621ecf382fb.jpg
+        sha256: 5621ecf382fbed9834b7fc46760ec957537337c06175c973442b022a3e6e3ea3
+        mime: image/jpeg
+        bytes: 60806
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

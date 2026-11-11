@@ -1,0 +1,36 @@
+id: 01KAXV5Z9YCY3Z4DQXXVYGFGD6
+type: image
+subtype: drawing
+title: Skizze Hitzacker, Am Elbdeich
+date: 1849~
+origin:
+  name: Erika Lüders
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Berta Plate
+    type: person
+  - name: Konfirmation 1849
+    type: event
+parents:
+  - 01JKQ421K5RBFQ8NV81GBKEPMH
+files:
+  - role: main
+    original_name: scan_101.tif
+    path: files/58/29/5829dd42067aa3230d5eb6005a8196d5a782eecb5ad57ee804c5c6a7110c9ba1/original.tif
+    sha256: 5829dd42067aa3230d5eb6005a8196d5a782eecb5ad57ee804c5c6a7110c9ba1
+    mime: image/tiff
+    bytes: 24394974
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/58/29/5829dd42067aa3230d5eb6005a8196d5a782eecb5ad57ee804c5c6a7110c9ba1/preview-400.92041c0c63c0.jpg
+        sha256: 92041c0c63c004d2b87058228bd0e550bc75d13249f24a253ce77cd8e5ac76c6
+        mime: image/jpeg
+        bytes: 21605
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

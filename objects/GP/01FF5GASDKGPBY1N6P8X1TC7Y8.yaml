@@ -1,0 +1,41 @@
+id: 01FF5GASDKGPBY1N6P8X1TC7Y8
+type: image
+subtype: photo
+title: Weihnachtsmarkt 1992
+description: Zu sehen sind Hafen und Ladestraße.
+date: 1992-07-08
+location: Hitzacker, Torhaus
+origin:
+  name: Gisela Matthies
+  type: person
+  location: Pretzier
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Feuerwehrübung 1992
+    type: event
+  - name: Rathaus
+    type: building
+parents:
+  - 01FPBW8XQ5TR1SGGQ9277H4RM1
+  - 01KX0R6PE6GGZKHT99TAR1XJN4
+files:
+  - role: main
+    original_name: foto_1913.jpg
+    path: files/b8/ea/b8eafec08f6507f14f662a869c0f4d1f58cede4544ad6fbeba3d447dcbae89d2/original.jpg
+    sha256: b8eafec08f6507f14f662a869c0f4d1f58cede4544ad6fbeba3d447dcbae89d2
+    mime: image/jpeg
+    bytes: 17246895
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/b8/ea/b8eafec08f6507f14f662a869c0f4d1f58cede4544ad6fbeba3d447dcbae89d2/preview-400.809b5088203e.jpg
+        sha256: 809b5088203e1c00894585be3e46dd58728fe36ad78ca52a44017554095bca4f
+        mime: image/jpeg
+        bytes: 71085
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

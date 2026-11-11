@@ -1,0 +1,35 @@
+id: 01HQQA8C50AWQ1W84WFC66YF9M
+type: image
+subtype: photo
+title: Blick vom Friedhofskapelle auf das Pumpenhaus
+description: Farbfoto, leicht verblasst.
+location: Laase, Am Elbdeich
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 2/050
+  note: Mappe 12
+parents:
+  - 01HCD5GG1YH2QA7DYGGFJP6WBZ
+files:
+  - role: main
+    original_name: scan_444.tif
+    path: files/74/ed/74ed94c54b607389fb88da81283cf99fbe36b2b9fac0a05c1f5a40b968be717d/original.tif
+    sha256: 74ed94c54b607389fb88da81283cf99fbe36b2b9fac0a05c1f5a40b968be717d
+    mime: image/tiff
+    bytes: 4007802
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/74/ed/74ed94c54b607389fb88da81283cf99fbe36b2b9fac0a05c1f5a40b968be717d/preview-400.204945d5d599.jpg
+        sha256: 204945d5d5991cfbf397bede0ed8f92548c75ff0280e1f41ebde7f3bac433dde
+        mime: image/jpeg
+        bytes: 46630
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

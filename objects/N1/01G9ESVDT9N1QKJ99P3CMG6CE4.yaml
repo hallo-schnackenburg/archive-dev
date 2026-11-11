@@ -1,0 +1,37 @@
+id: 01G9ESVDT9N1QKJ99P3CMG6CE4
+type: image
+subtype: print
+title: "Holzschnitt: Einweihung, Lanz (5)"
+date: "1933"
+location: Salzwedel, Deichstraße
+origin:
+  name: Dieter Nitschke
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+parents:
+  - 01J0TGH296RHC0G6JXY0S53XED
+files:
+  - role: main
+    original_name: scan_709.tif
+    path: files/af/dd/afddf77f8988745f1be7e5bc1eb3583360540363112cdfd9e31241a41c1c3e0b/original.tif
+    sha256: afddf77f8988745f1be7e5bc1eb3583360540363112cdfd9e31241a41c1c3e0b
+    mime: image/tiff
+    bytes: 17383111
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/af/dd/afddf77f8988745f1be7e5bc1eb3583360540363112cdfd9e31241a41c1c3e0b/preview-400.73d61d22daca.jpg
+        sha256: 73d61d22dacab04f2867192266e5d1148d036ea6dd51c6cd382604377b525a0d
+        mime: image/jpeg
+        bytes: 25467
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

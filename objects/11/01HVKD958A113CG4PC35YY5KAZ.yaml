@@ -1,0 +1,43 @@
+id: 01HVKD958A113CG4PC35YY5KAZ
+type: image
+subtype: photo
+title: Brückeneinweihung 1954
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1954-09
+location: Cumlosen, Schulstraße
+geocode:
+  lat: 53.0922
+  lon: 11.6372
+  precision: exact
+  source: osm
+origin:
+  name: August Krüger
+  type: person
+  location: Gartow
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Deicharbeiten 1954
+    type: event
+parents:
+  - 01GVJSDJ9R4Q8JD7JQQP5X0PH0
+files:
+  - role: main
+    original_name: IMG_1640.jpg
+    path: files/04/94/04943fd86c86e12e92363dceeb2561767a443c0cf79f6e0dbd377b41ed710711/original.jpg
+    sha256: 04943fd86c86e12e92363dceeb2561767a443c0cf79f6e0dbd377b41ed710711
+    mime: image/jpeg
+    bytes: 5994315
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/04/94/04943fd86c86e12e92363dceeb2561767a443c0cf79f6e0dbd377b41ed710711/preview-400.943e90de04a5.jpg
+        sha256: 943e90de04a50c285b9c9aa16f5955dcd9cf71f457fd0a61835231fd22c4f692
+        mime: image/jpeg
+        bytes: 34421
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

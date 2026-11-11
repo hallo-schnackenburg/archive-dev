@@ -1,0 +1,41 @@
+id: 01FAXCP4XDM13MJHBG7HEF52H6
+type: document
+subtype: letter
+title: Brief von Walter Schulz an Karl Wiegmann
+description: Betrifft Wohnungsnot.
+date: "1897"
+location: Dömitz, Molkerei
+geocode:
+  lat: 53.0536
+  lon: 11.6907
+  precision: street
+  source: osm
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Nienwalde
+recipient: Dieter Plate
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Fotos/Mappe 24/111
+subjects:
+  - name: Glockenweihe 1897
+    type: event
+  - name: Gustav Wegner
+    type: person
+storage: external
+external:
+  - type: platform
+    site: Deutsche Digitale Bibliothek
+    uri: https://deutsche-digitale-bibliothek.example.org/objekt/650619
+    note: Seiten 12–19
+    retrieved: 2026-10-04
+  - type: archive
+    site: Bundesarchiv
+    uri: https://bundesarchiv.example.org/objekt/719741
+    reference: Hann. 3 Nr. 4564
+    retrieved: 2026-07-02

@@ -1,0 +1,45 @@
+id: 01F2HF5T4YWE86EKKHFT234M8E
+type: image
+subtype: photo
+title: Sturmschaden 1893
+date: "1893"
+origin:
+  name: Friedrich Schulz
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 1/029
+  note: Kellerarchiv
+owner:
+  name: Helga Wegner
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Deicharbeiten 1893
+    type: event
+parents:
+  - 01F9MQ787B1DZ88NJB119JTN0N
+files:
+  - role: main
+    original_name: scan_656.tif
+    path: files/09/61/096111dbaee70d1822a755c8f10dd9c3232e7f848bcf3a3920b8fa44a821baa3/original.tif
+    sha256: 096111dbaee70d1822a755c8f10dd9c3232e7f848bcf3a3920b8fa44a821baa3
+    mime: image/tiff
+    bytes: 24012586
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/09/61/096111dbaee70d1822a755c8f10dd9c3232e7f848bcf3a3920b8fa44a821baa3/preview-400.a09eee10f63c.jpg
+        sha256: a09eee10f63cfdf97762c0959ad5fe4effad8af03b9df4957f4b21c25a7c536e
+        mime: image/jpeg
+        bytes: 83462
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

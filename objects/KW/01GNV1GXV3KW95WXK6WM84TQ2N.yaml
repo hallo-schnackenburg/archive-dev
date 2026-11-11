@@ -1,0 +1,43 @@
+id: 01GNV1GXV3KW95WXK6WM84TQ2N
+type: image
+subtype: plan
+title: Bauplan Fachwerkhaus Marktstraße 4 1890
+description: Mit handschriftlichen Ergänzungen.
+date: "1890"
+location: Wittenberge, Deichstraße
+geocode:
+  lat: 53.0425
+  lon: 11.6611
+  precision: street
+  source: osm
+origin:
+  name: Frieda Lemke
+  type: person
+  location: Gülden
+subjects:
+  - name: Hafen
+    type: building
+  - name: Grenzturm
+    type: building
+parents:
+  - 01FESK7CZ76YS0ANTN93GVS71Z
+files:
+  - role: main
+    original_name: scan_306.tif
+    path: files/47/f9/47f9482086f64f3e2772574e11a8ad20e9b56877d6e1de5b31f68ad89146d81f/original.tif
+    sha256: 47f9482086f64f3e2772574e11a8ad20e9b56877d6e1de5b31f68ad89146d81f
+    mime: image/tiff
+    bytes: 25546691
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/47/f9/47f9482086f64f3e2772574e11a8ad20e9b56877d6e1de5b31f68ad89146d81f/preview-400.017930f35a35.jpg
+        sha256: 017930f35a35f2661cbed895dc489f8ee3fda5f0d367a7951e5e123c6cff55e3
+        mime: image/jpeg
+        bytes: 20884
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01G6ZP0ME4KRJK3KBZ1P123W8Y
+type: image
+subtype: drawing
+title: Skizze Laase, Marktstraße
+description: Bleistift auf Papier.
+date: 1881/1889
+location: Laase, Kirchstraße
+origin:
+  name: Erika Sievers
+  type: person
+  location: Wootz
+files:
+  - role: main
+    original_name: scan_715.tif
+    path: files/60/be/60be3dcdd67f953787224e31d9dc6a189a7c9a8e5ab8076df1e5e329e0979048/original.tif
+    sha256: 60be3dcdd67f953787224e31d9dc6a189a7c9a8e5ab8076df1e5e329e0979048
+    mime: image/tiff
+    bytes: 3339173
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/60/be/60be3dcdd67f953787224e31d9dc6a189a7c9a8e5ab8076df1e5e329e0979048/preview-400.e67bcf77d673.jpg
+        sha256: e67bcf77d673612885eccbd0d8c0d4df077fea09c855e8725c89e80d51e7ccf9
+        mime: image/jpeg
+        bytes: 68667
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

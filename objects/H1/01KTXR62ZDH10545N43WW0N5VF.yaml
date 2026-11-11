@@ -1,0 +1,37 @@
+id: 01KTXR62ZDH10545N43WW0N5VF
+type: image
+subtype: drawing
+title: Skizze Laase, Mühlenweg
+date: 1828-02
+location: Salzwedel, Dorfstraße
+origin:
+  name: Wilhelm Ludolf
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Hans Hartwig
+    type: person
+  - name: Holtorf
+    type: place
+parents:
+  - 01HV8Q29MRM56K8HKB6HH162VH
+files:
+  - role: main
+    original_name: scan_754.tif
+    path: files/0d/8c/0d8c7d3d63987c2c5272c3dffdaded6d849fb21a02ec0872aac01821a934df56/original.tif
+    sha256: 0d8c7d3d63987c2c5272c3dffdaded6d849fb21a02ec0872aac01821a934df56
+    mime: image/tiff
+    bytes: 20127908
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0d/8c/0d8c7d3d63987c2c5272c3dffdaded6d849fb21a02ec0872aac01821a934df56/preview-400.685ecda676e1.jpg
+        sha256: 685ecda676e1dd990ebafedca0f3ab6cbb7d5bca2f1fddcfe3ff2cac3e2f3a7f
+        mime: image/jpeg
+        bytes: 26600
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

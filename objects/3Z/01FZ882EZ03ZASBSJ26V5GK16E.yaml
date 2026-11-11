@@ -1,0 +1,40 @@
+id: 01FZ882EZ03ZASBSJ26V5GK16E
+type: document
+subtype: note
+title: Rechnung Garms, Torhaus
+description: Beleg mit Stempel.
+date: 1991-04
+location: Salzwedel, Hafenstraße
+origin:
+  name: Berta Oelker
+  type: person
+  location: Bömenzien
+language: de
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Hafen
+    type: building
+parents:
+  - 01EYD0F18CY2V0SS2SY7TJVC0D
+files:
+  - role: page
+    num: 1
+    original_name: note_5gk16e_001.tif
+    path: files/11/10/11103aa3174febbb5a547428f0a9df09286f6099dc2ada77e4ce56fdf36fef89/original.tif
+    sha256: 11103aa3174febbb5a547428f0a9df09286f6099dc2ada77e4ce56fdf36fef89
+    mime: image/tiff
+    bytes: 25002440
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/10/11103aa3174febbb5a547428f0a9df09286f6099dc2ada77e4ce56fdf36fef89/preview-400.ffaa339a3e93.jpg
+        sha256: ffaa339a3e930d43c4190ee8199c8211f34f35006e2e8433abbe82e9ff7f7a15
+        mime: image/jpeg
+        bytes: 45261
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

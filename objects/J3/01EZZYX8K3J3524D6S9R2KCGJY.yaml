@@ -1,0 +1,40 @@
+id: 01EZZYX8K3J3524D6S9R2KCGJY
+type: image
+subtype: plan
+title: Bauplan Tischlerei Bruns 1844
+location: Restorf, Am Markt
+origin:
+  name: Gerda Meyer
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 22/093
+subjects:
+  - name: Schützenfest 1844
+    type: event
+  - name: Emma Schulz
+    type: person
+files:
+  - role: main
+    original_name: scan_696.tif
+    path: files/40/e2/40e2db9a4507f63c4b5d12843f1b9bc56c2655ee8d8fb291dbeec524acd641e5/original.tif
+    sha256: 40e2db9a4507f63c4b5d12843f1b9bc56c2655ee8d8fb291dbeec524acd641e5
+    mime: image/tiff
+    bytes: 10550952
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/e2/40e2db9a4507f63c4b5d12843f1b9bc56c2655ee8d8fb291dbeec524acd641e5/preview-400.41743e8b958f.jpg
+        sha256: 41743e8b958fc8e8d877d44ca728737e96a60a91b32c4a065e66865b741e4af2
+        mime: image/jpeg
+        bytes: 75371
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

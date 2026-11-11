@@ -1,0 +1,37 @@
+id: 01F5P6BN2M2JAWSSRA3MJ7Z4BP
+type: image
+subtype: photo
+title: Weihnachtsmarkt 1969
+description: Zu sehen sind Dorfteich und Schützenhaus.
+date: "1969"
+location: Wootz, Lange Straße
+geocode:
+  lat: 52.969
+  lon: 11.5063
+  precision: street
+  source: osm
+subjects:
+  - name: Grenzturm
+    type: building
+parents:
+  - 01EZC5C07CZY0ETCK5VD296P3F
+files:
+  - role: main
+    original_name: P7287.jpg
+    path: files/24/b9/24b9adef3dc53ebf9e15bdca52d3be794244c7b6708632804d9e207f0259810b/original.jpg
+    sha256: 24b9adef3dc53ebf9e15bdca52d3be794244c7b6708632804d9e207f0259810b
+    mime: image/jpeg
+    bytes: 2647473
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/24/b9/24b9adef3dc53ebf9e15bdca52d3be794244c7b6708632804d9e207f0259810b/preview-400.5f4c7c958312.jpg
+        sha256: 5f4c7c958312e5caf9ddd440c368d5de169ed5996a3adf8cc50fac250e2e11b9
+        mime: image/jpeg
+        bytes: 62608
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01JMD80VE53CHGJCH8XHPENAEF
+type: image
+subtype: drawing
+title: Skizze Rüterberg, Schulstraße, Brünkendorf
+description: Mit Anmerkungen am Rand.
+date: 1924-09
+location: Gollensdorf, Gartenstraße
+geocode:
+  lat: 52.9809
+  lon: 11.6263
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Slg 39/160
+subjects:
+  - name: Schmiede
+    type: building
+  - name: Försterei
+    type: building
+files:
+  - role: main
+    original_name: scan_537.tif
+    path: files/2e/f5/2ef5949199d8d65d4e370ff57c1f08619ab4f44c22de9b3f65d70e44ac2dbbd2/original.tif
+    sha256: 2ef5949199d8d65d4e370ff57c1f08619ab4f44c22de9b3f65d70e44ac2dbbd2
+    mime: image/tiff
+    bytes: 11158111
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/f5/2ef5949199d8d65d4e370ff57c1f08619ab4f44c22de9b3f65d70e44ac2dbbd2/preview-400.e5d02000eabf.jpg
+        sha256: e5d02000eabf28a5ca9426211feca50d1a239dd4c962eb13250a6344b5beb295
+        mime: image/jpeg
+        bytes: 68353
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

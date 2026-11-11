@@ -1,0 +1,62 @@
+id: 01JKPJZ64V5XJK3C0VMXDHT80Y
+type: document
+subtype: note
+title: Aktennotiz Ortsrat, Gartow
+description: Beleg mit Stempel.
+date: 2006-09-21
+location: Wootz, Dorfstraße
+geocode:
+  lat: 52.9684
+  lon: 11.5689
+  precision: street
+  source: osm
+origin:
+  name: Helga Schwarz
+  type: person
+  location: Lenzen
+subjects:
+  - name: Otto Burmester
+    type: person
+  - name: Grenzöffnung 2006
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_dht80y_001.tif
+    path: files/d5/66/d566b36a2e2c2fe5446f92d8850ca621514f2699378bf91ba9cdb064bb61e788/original.tif
+    sha256: d566b36a2e2c2fe5446f92d8850ca621514f2699378bf91ba9cdb064bb61e788
+    mime: image/tiff
+    bytes: 21129025
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/66/d566b36a2e2c2fe5446f92d8850ca621514f2699378bf91ba9cdb064bb61e788/preview-400.8249cffc1d89.jpg
+        sha256: 8249cffc1d89f5896714f69741c4515cd1c8b2241a4e167fe48b241a9b660559
+        mime: image/jpeg
+        bytes: 46072
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_dht80y_002.tif
+    path: files/a8/02/a8022f5ee0e9c6853a1a8fae82467eb1e7153cbef9c0b19bf0a4930798bd81c1/original.tif
+    sha256: a8022f5ee0e9c6853a1a8fae82467eb1e7153cbef9c0b19bf0a4930798bd81c1
+    mime: image/tiff
+    bytes: 17877756
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a8/02/a8022f5ee0e9c6853a1a8fae82467eb1e7153cbef9c0b19bf0a4930798bd81c1/preview-400.f3f1c5fb6a7d.jpg
+        sha256: f3f1c5fb6a7dd399cd0a9dd17656ad5958916867e28b4d964bb2957cf572ccad
+        mime: image/jpeg
+        bytes: 83177
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

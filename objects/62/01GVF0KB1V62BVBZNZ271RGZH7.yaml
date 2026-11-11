@@ -1,0 +1,37 @@
+id: 01GVF0KB1V62BVBZNZ271RGZH7
+type: image
+subtype: photo
+title: Ortsbesichtigung 1963
+date: 1963-10-19
+location: Bömenzien, Windmühle
+origin:
+  name: Heinrich Plate
+  type: person
+  location: Lüchow
+subjects:
+  - name: Wilhelm Kuhlmann
+    type: person
+  - name: Kriegerdenkmal
+    type: building
+parents:
+  - 01JDKBQD7GHM630H1JSZYJRAVJ
+files:
+  - role: main
+    original_name: IMG_0838.jpg
+    path: files/5e/ca/5ecaf68838f50c128fbc4203ed4e1faee756a818cae2f7c37bdc9c7cca7f4c54/original.jpg
+    sha256: 5ecaf68838f50c128fbc4203ed4e1faee756a818cae2f7c37bdc9c7cca7f4c54
+    mime: image/jpeg
+    bytes: 25255499
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/5e/ca/5ecaf68838f50c128fbc4203ed4e1faee756a818cae2f7c37bdc9c7cca7f4c54/preview-400.d47d69df9cda.jpg
+        sha256: d47d69df9cdad653bcfa62a60ad5a3374deec443cbcc9f0b522a884ac79d1002
+        mime: image/jpeg
+        bytes: 87831
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01HPNTC864HTN12MXQJ0A7E8T2
+type: image
+subtype: photo
+title: Blick vom Bahnhof auf das Schmiede
+date: "1999"
+location: Gülden, Deichstraße
+origin:
+  name: Hans Bohlmann
+  type: person
+  location: Gülden
+subjects:
+  - name: Viehmarkt 1999
+    type: event
+parents:
+  - 01KCNQMHENJ8PAWGKRGSDX5HZ0
+files:
+  - role: main
+    original_name: P6799.jpg
+    path: files/83/5b/835b26076338144c2916947feb98d9364b3d0330204212967c4cec253fbb309e/original.jpg
+    sha256: 835b26076338144c2916947feb98d9364b3d0330204212967c4cec253fbb309e
+    mime: image/jpeg
+    bytes: 23546979
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/83/5b/835b26076338144c2916947feb98d9364b3d0330204212967c4cec253fbb309e/preview-400.0f16bf73269e.jpg
+        sha256: 0f16bf73269e648aba4c33f55132da16249d8a4019bffff5767029afcecc1d64
+        mime: image/jpeg
+        bytes: 21096
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

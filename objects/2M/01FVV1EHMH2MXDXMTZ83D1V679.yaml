@@ -1,0 +1,32 @@
+id: 01FVV1EHMH2MXDXMTZ83D1V679
+type: image
+subtype: plan
+title: Deichplan Wustrow bis Restorf
+description: Mit handschriftlichen Ergänzungen.
+date: 1798-02-02
+location: Hitzacker, Marktstraße
+subjects:
+  - name: Restorf
+    type: place
+  - name: Karl Lemke
+    type: person
+files:
+  - role: main
+    original_name: scan_484.tif
+    path: files/f4/17/f4173871a10dfd47695ce21287c66a37668a15b49ec4a0c41e3dd8edea662ef5/original.tif
+    sha256: f4173871a10dfd47695ce21287c66a37668a15b49ec4a0c41e3dd8edea662ef5
+    mime: image/tiff
+    bytes: 16434167
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f4/17/f4173871a10dfd47695ce21287c66a37668a15b49ec4a0c41e3dd8edea662ef5/preview-400.b82854da832f.jpg
+        sha256: b82854da832f5e5e8b7965e1f02030dfbe667cf9fe21b0d31a48b606253ffe7e
+        mime: image/jpeg
+        bytes: 85840
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

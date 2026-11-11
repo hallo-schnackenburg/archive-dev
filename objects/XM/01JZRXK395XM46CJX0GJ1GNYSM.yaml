@@ -1,0 +1,64 @@
+id: 01JZRXK395XM46CJX0GJ1GNYSM
+type: document
+subtype: note
+title: Rechnung Lemke, Poststelle
+date: 1881-04-27
+location: Pretzier, Deichstraße
+geocode:
+  lat: 53.0076
+  lon: 11.643
+  precision: street
+  source: osm
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br 1/063
+subjects:
+  - name: Hochwasser 1881
+    type: event
+  - name: Dorffest 1881
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_1gnysm_001.tif
+    path: files/26/fe/26feb6d731cedc049d15cf395ff32dd684d4be65a4a11f2cc12305f74272c88f/original.tif
+    sha256: 26feb6d731cedc049d15cf395ff32dd684d4be65a4a11f2cc12305f74272c88f
+    mime: image/tiff
+    bytes: 11981064
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/fe/26feb6d731cedc049d15cf395ff32dd684d4be65a4a11f2cc12305f74272c88f/preview-400.f9baf9e745e3.jpg
+        sha256: f9baf9e745e3b866c99eeb5f80c0db149ab204c8e2eadc879300ed0529f9dc2b
+        mime: image/jpeg
+        bytes: 80679
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_1gnysm_002.tif
+    path: files/ad/ed/aded3db523fdec743301aaa4145c10ea29cd17c5654c8276b791c59c4688e342/original.tif
+    sha256: aded3db523fdec743301aaa4145c10ea29cd17c5654c8276b791c59c4688e342
+    mime: image/tiff
+    bytes: 10438203
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ad/ed/aded3db523fdec743301aaa4145c10ea29cd17c5654c8276b791c59c4688e342/preview-400.a460b36fcf6a.jpg
+        sha256: a460b36fcf6a1d9c6bcecf19c37e26d2a1f91e49decabcd56294ecca36638ac8
+        mime: image/jpeg
+        bytes: 59034
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

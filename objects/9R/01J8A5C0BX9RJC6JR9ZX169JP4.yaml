@@ -1,0 +1,39 @@
+id: 01J8A5C0BX9RJC6JR9ZX169JP4
+type: image
+subtype: print
+title: Postkarte Arendsee, Friedhofskapelle
+description: Lithographie, Rand beschnitten.
+date: "1924"
+origin:
+  name: Wilhelm Kuhlmann
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 36/236
+subjects:
+  - name: Pfarrhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_118.tif
+    path: files/0a/0a/0a0a3a1dec30b6155200b4a929a60d87108be52a8bfdd39f4caab8731ceccc98/original.tif
+    sha256: 0a0a3a1dec30b6155200b4a929a60d87108be52a8bfdd39f4caab8731ceccc98
+    mime: image/tiff
+    bytes: 5895820
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/0a/0a/0a0a3a1dec30b6155200b4a929a60d87108be52a8bfdd39f4caab8731ceccc98/preview-400.13636cb5613d.jpg
+        sha256: 13636cb5613de7eabd77f7333010be996664295186eee90072d930b89e2da895
+        mime: image/jpeg
+        bytes: 58603
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

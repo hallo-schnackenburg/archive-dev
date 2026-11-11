@@ -1,0 +1,41 @@
+id: 01FC8BKYDXENBR2RVCYMZS3G04
+type: image
+subtype: photo
+title: Berta Lindemann vor dem Speicher
+description: Zu sehen sind Poststelle und Zollamt.
+date: 1928-02-12
+origin:
+  name: Ernst Burmester
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Eisgang 1928
+    type: event
+parents:
+  - 01KC4MRSQCBP77C8MHDY1DBTTR
+  - 01J6CWVRW5ZWM3PCSZT7CG4EQA
+files:
+  - role: main
+    original_name: DSC1369.jpg
+    path: files/4f/4b/4f4be3e966ba3c9eda6cb12af99b7bff2b6b67732c8ba05b22c637529f2a6c38/original.jpg
+    sha256: 4f4be3e966ba3c9eda6cb12af99b7bff2b6b67732c8ba05b22c637529f2a6c38
+    mime: image/jpeg
+    bytes: 25208213
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/4f/4b/4f4be3e966ba3c9eda6cb12af99b7bff2b6b67732c8ba05b22c637529f2a6c38/preview-400.bc076b65dac9.jpg
+        sha256: bc076b65dac915a8716a906cea0f874a3b6943220eeca536b8f8b2759d047d38
+        mime: image/jpeg
+        bytes: 55713
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

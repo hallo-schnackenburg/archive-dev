@@ -1,0 +1,37 @@
+id: 01GTYGBHVZHR2RJNBBAA39JGYF
+type: image
+subtype: photo
+title: Heinz Bruns, Porträt
+date: "1995"
+location: Seedorf, Friedhofskapelle
+origin:
+  name: Ernst Brandt
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Familie Lenz
+    type: person
+    location: Pretzier
+  reference: Br/Album 16/040
+  note: Mappe 12
+files:
+  - role: main
+    original_name: P6712.jpg
+    path: files/a9/f9/a9f93b283a636b5b24a7ebcf7d3dc74433c2d74596669b3ea48a9d2ee49d6f98/original.jpg
+    sha256: a9f93b283a636b5b24a7ebcf7d3dc74433c2d74596669b3ea48a9d2ee49d6f98
+    mime: image/jpeg
+    bytes: 27348855
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/a9/f9/a9f93b283a636b5b24a7ebcf7d3dc74433c2d74596669b3ea48a9d2ee49d6f98/preview-400.b4e398641e59.jpg
+        sha256: b4e398641e5998708f5180a9656d9a5b37063e60ed33d20fecb26802d116307c
+        mime: image/jpeg
+        bytes: 31401
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

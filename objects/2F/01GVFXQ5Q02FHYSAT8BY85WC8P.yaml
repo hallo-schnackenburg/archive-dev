@@ -1,0 +1,35 @@
+id: 01GVFXQ5Q02FHYSAT8BY85WC8P
+type: image
+subtype: plan
+title: Lageplan Dorfschule
+description: Maßstab 1:1000.
+date: 1931-03-18
+origin:
+  name: Irmgard Wiegmann
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+files:
+  - role: main
+    original_name: scan_673.tif
+    path: files/3e/83/3e837e9e338240dc5b38280dea7bd503cab3704240ff14da2ac5b7c5da9a1544/original.tif
+    sha256: 3e837e9e338240dc5b38280dea7bd503cab3704240ff14da2ac5b7c5da9a1544
+    mime: image/tiff
+    bytes: 6656640
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/83/3e837e9e338240dc5b38280dea7bd503cab3704240ff14da2ac5b7c5da9a1544/preview-400.1b3fda79b7ef.jpg
+        sha256: 1b3fda79b7ef11508b62bb732c07dfd62666fa21763c922d58aa5502d07d3478
+        mime: image/jpeg
+        bytes: 28449
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

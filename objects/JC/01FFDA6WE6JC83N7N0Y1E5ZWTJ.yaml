@@ -1,0 +1,37 @@
+id: 01FFDA6WE6JC83N7N0Y1E5ZWTJ
+type: image
+subtype: plan
+title: Grundriss Fähranleger, Kapern
+date: 1859-10
+location: Rüterberg, Lange Straße
+origin:
+  name: Erika Hennings
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Anni Cohrs
+    type: person
+  - name: Sturmschaden 1859
+    type: event
+  - name: Brunnen am Markt
+    type: building
+files:
+  - role: main
+    original_name: scan_192.tif
+    path: files/63/12/6312358e4d45c813b9f185586aff692dcc9b9bcf1c5ddc8bc770f8eda0437f81/original.tif
+    sha256: 6312358e4d45c813b9f185586aff692dcc9b9bcf1c5ddc8bc770f8eda0437f81
+    mime: image/tiff
+    bytes: 10788413
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/63/12/6312358e4d45c813b9f185586aff692dcc9b9bcf1c5ddc8bc770f8eda0437f81/preview-400.e47e82f49c22.jpg
+        sha256: e47e82f49c223c330ca51ba8e5d835afb57c94112e2c5287025d4f6d10950600
+        mime: image/jpeg
+        bytes: 26301
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

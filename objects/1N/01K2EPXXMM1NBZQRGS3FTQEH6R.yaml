@@ -1,0 +1,37 @@
+id: 01K2EPXXMM1NBZQRGS3FTQEH6R
+type: image
+subtype: photo
+title: Maifeier 1890
+date: 1890-03-15
+location: Pretzier, Gartenstraße
+geocode:
+  lat: 52.9175
+  lon: 11.6311
+  precision: exact
+  source: osm
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Lüchow
+parents:
+  - 01M3FABESZS5MMBAB10S45G2KH
+files:
+  - role: main
+    original_name: P3731.jpg
+    path: files/eb/1c/eb1c44bca2ae850b9f285464ab516609905e5b02143b83da4149e29a56d9f8e2/original.jpg
+    sha256: eb1c44bca2ae850b9f285464ab516609905e5b02143b83da4149e29a56d9f8e2
+    mime: image/jpeg
+    bytes: 17163730
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/eb/1c/eb1c44bca2ae850b9f285464ab516609905e5b02143b83da4149e29a56d9f8e2/preview-400.27782b081574.jpg
+        sha256: 27782b08157465f5a8f59d00ae408afc6c7f1fdf426c4344cd096c1af83fa4f1
+        mime: image/jpeg
+        bytes: 37320
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01K9GFDQH3HMRBY6ZTZ3V2RG9C
+type: image
+subtype: photo
+title: Schlachterei in Salzwedel
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1931-03-04
+location: Gülden, Hafen
+geocode:
+  lat: 53.0725
+  lon: 11.5085
+  precision: exact
+  source: osm
+origin:
+  name: Gerda Nitschke
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 7/305
+  note: Regal 1
+files:
+  - role: main
+    original_name: IMG_6337.jpg
+    path: files/d5/3b/d53bad6bc01d9b9694494a8cf3b1b789190582e698938bf2913e585f03dc3f99/original.jpg
+    sha256: d53bad6bc01d9b9694494a8cf3b1b789190582e698938bf2913e585f03dc3f99
+    mime: image/jpeg
+    bytes: 19323540
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/d5/3b/d53bad6bc01d9b9694494a8cf3b1b789190582e698938bf2913e585f03dc3f99/preview-400.f78ae67b6646.jpg
+        sha256: f78ae67b6646421e7a38e0db1f0fe0b10aef6a6f4e27e4c34c136ba1f55a670a
+        mime: image/jpeg
+        bytes: 72211
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

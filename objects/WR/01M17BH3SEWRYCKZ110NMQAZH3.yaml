@@ -1,0 +1,37 @@
+id: 01M17BH3SEWRYCKZ110NMQAZH3
+type: image
+subtype: photo
+title: "Fußballverein: Gruppenbild Kartoffelernte"
+description: Farbfoto, leicht verblasst.
+location: Brünkendorf, Schlachterei
+origin:
+  name: Otto Sievers
+  type: person
+  location: Gorleben
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Wilhelm Rieke
+    type: person
+  - name: Ilse Behrens
+    type: person
+files:
+  - role: main
+    original_name: P6163.jpg
+    path: files/f8/e0/f8e001a2ab9ace93d971064ae76d149e2c7cd5fe3d80681253765dd74e21f04d/original.jpg
+    sha256: f8e001a2ab9ace93d971064ae76d149e2c7cd5fe3d80681253765dd74e21f04d
+    mime: image/jpeg
+    bytes: 14156427
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/f8/e0/f8e001a2ab9ace93d971064ae76d149e2c7cd5fe3d80681253765dd74e21f04d/preview-400.3abf75026376.jpg
+        sha256: 3abf75026376761ac6a6989ae4c4253964f99fbea358139f3bd8f82328050a0f
+        mime: image/jpeg
+        bytes: 86194
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

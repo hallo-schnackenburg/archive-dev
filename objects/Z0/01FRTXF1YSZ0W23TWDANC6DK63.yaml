@@ -1,0 +1,34 @@
+id: 01FRTXF1YSZ0W23TWDANC6DK63
+type: image
+subtype: plan
+title: Bauplan Pumpenhaus 1789
+description: Tusche auf Transparentpapier.
+date: "1789"
+location: Cumlosen, Gutshaus
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Dieter Wegner
+    type: person
+files:
+  - role: main
+    original_name: scan_993.tif
+    path: files/4a/f5/4af5e0436bee21c24abd32eceea49d5c6604c91f1d12df249d1882f634b0e198/original.tif
+    sha256: 4af5e0436bee21c24abd32eceea49d5c6604c91f1d12df249d1882f634b0e198
+    mime: image/tiff
+    bytes: 15445274
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4a/f5/4af5e0436bee21c24abd32eceea49d5c6604c91f1d12df249d1882f634b0e198/preview-400.7675cc4a97a4.jpg
+        sha256: 7675cc4a97a4108494e2b315254dd4c01c3101d7888e65da43f0bec68cccbddc
+        mime: image/jpeg
+        bytes: 36402
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

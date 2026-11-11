@@ -1,0 +1,44 @@
+id: 01FX6PQ72EZ2K791XDEKPD5Q1E
+type: image
+subtype: photo
+title: Konfirmation 1986
+description: Aufnahme von Heinrich Lenz.
+date: 198X
+location: Restorf, Rathaus
+origin:
+  name: Ingrid Wiegmann
+  type: person
+  location: Wootz
+owner:
+  name: Heinrich Bruns
+  type: person
+  note: Nachlass
+subjects:
+  - name: Storchennest
+    type: building
+  - name: Christa Kuhlmann
+    type: person
+  - name: Apotheke
+    type: building
+parents:
+  - 01HS803SHHMBTDFXP1D594AZ1D
+files:
+  - role: main
+    original_name: IMG_8895.jpg
+    path: files/7b/80/7b80b46709935902f8ab85d7cc2f6a31190c92e421374fbc2ad0a9a21fbd058c/original.jpg
+    sha256: 7b80b46709935902f8ab85d7cc2f6a31190c92e421374fbc2ad0a9a21fbd058c
+    mime: image/jpeg
+    bytes: 18501962
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/7b/80/7b80b46709935902f8ab85d7cc2f6a31190c92e421374fbc2ad0a9a21fbd058c/preview-400.4a39825140c8.jpg
+        sha256: 4a39825140c8b4ad98ebf87685436a97beb7ba4b9702dffcd264bd1ca8a32cfd
+        mime: image/jpeg
+        bytes: 30706
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01H3S98YT58EPD7EK7684TVWYH
+type: image
+subtype: drawing
+title: Skizze Gollensdorf, Am Elbdeich
+date: "1850"
+location: Wustrow, Feuerwehrhaus
+geocode:
+  lat: 52.9792
+  lon: 11.4969
+  precision: street
+  source: osm
+origin:
+  name: Dieter Mahnke
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 4/391
+subjects:
+  - name: Schützenhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_887.tif
+    path: files/78/44/78442f28a7cd8724e22663349314b9835cc81a1e0b989eac21c8b29a60747652/original.tif
+    sha256: 78442f28a7cd8724e22663349314b9835cc81a1e0b989eac21c8b29a60747652
+    mime: image/tiff
+    bytes: 516883
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/78/44/78442f28a7cd8724e22663349314b9835cc81a1e0b989eac21c8b29a60747652/preview-400.33b4b4317aa7.jpg
+        sha256: 33b4b4317aa7ccc3873039b630cf76a33f45a24ecf0b1e50d5376bd9da960ff6
+        mime: image/jpeg
+        bytes: 21128
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

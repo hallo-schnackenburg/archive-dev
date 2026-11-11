@@ -1,0 +1,61 @@
+id: 01J1X4FZKCYPHKYXGKAJZG206F
+type: document
+subtype: note
+title: Rechnung Garms, Grenzturm
+description: Beleg mit Stempel.
+date: 1998-10-07
+location: Rüterberg, Schulstraße
+origin:
+  name: Otto Kuhlmann
+  type: person
+  location: Laase
+language: de
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 12/001
+parents:
+  - 01GA39T3DGKMZM390K7AXRNKQW
+files:
+  - role: page
+    num: 1
+    original_name: note_zg206f_001.tif
+    path: files/db/17/db17a1c1f8d5fd4ea1ec2399e40cc49a28729c14a2df25714e26947bbcc07c97/original.tif
+    sha256: db17a1c1f8d5fd4ea1ec2399e40cc49a28729c14a2df25714e26947bbcc07c97
+    mime: image/tiff
+    bytes: 22294133
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/17/db17a1c1f8d5fd4ea1ec2399e40cc49a28729c14a2df25714e26947bbcc07c97/preview-400.6267d42f4f0e.jpg
+        sha256: 6267d42f4f0e3e5c1053d329ce87a300cef4762c59a55c63b4603f3d518e8c7c
+        mime: image/jpeg
+        bytes: 26894
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_zg206f_002.tif
+    path: files/81/0f/810f720f4e25784b0de05646f4897f3f6af2530a211b853e711534e2233b4018/original.tif
+    sha256: 810f720f4e25784b0de05646f4897f3f6af2530a211b853e711534e2233b4018
+    mime: image/tiff
+    bytes: 22665410
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/81/0f/810f720f4e25784b0de05646f4897f3f6af2530a211b853e711534e2233b4018/preview-400.9f7d13017ea9.jpg
+        sha256: 9f7d13017ea96d56c5dce68442c10dd5e752aef4c897caf39efa60104ce0d40e
+        mime: image/jpeg
+        bytes: 58281
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

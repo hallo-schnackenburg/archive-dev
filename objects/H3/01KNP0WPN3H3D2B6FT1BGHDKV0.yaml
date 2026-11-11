@@ -1,0 +1,35 @@
+id: 01KNP0WPN3H3D2B6FT1BGHDKV0
+type: image
+subtype: photo
+title: Sturmschaden 1938
+description: Farbfoto, leicht verblasst.
+date: 1938/1942
+origin:
+  name: Klaus Ahrens
+  type: person
+  location: Pretzier
+subjects:
+  - name: Kindergartenfest 1938
+    type: event
+parents:
+  - 01JFKAQQ0R80TT983HC9766EP1
+files:
+  - role: main
+    original_name: scan_969.tif
+    path: files/4a/88/4a88f255922860fa1cb23b8a141974f63e9cff0b400c4067888602fe4e05fc98/original.tif
+    sha256: 4a88f255922860fa1cb23b8a141974f63e9cff0b400c4067888602fe4e05fc98
+    mime: image/tiff
+    bytes: 23026775
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/4a/88/4a88f255922860fa1cb23b8a141974f63e9cff0b400c4067888602fe4e05fc98/preview-400.796586f27025.jpg
+        sha256: 796586f270251d890fa5a452cdad430d19ab46c26d032ffe02c0942e80e80a8c
+        mime: image/jpeg
+        bytes: 46211
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

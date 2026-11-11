@@ -1,0 +1,37 @@
+id: 01JM4FMNPRSP1XBE5JH0H05FGY
+type: image
+subtype: plan
+title: Bauplan Ladestraße 1918
+description: Tusche auf Transparentpapier.
+date: 1918-07-27
+location: Lenzen, Marktstraße
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Renate Meyer
+    type: person
+  - name: Wilhelm Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_286.tif
+    path: files/8b/ba/8bbaa32a33658dc74706c47994b8ab281036fa8a6bdf28843c8849685d6e80a5/original.tif
+    sha256: 8bbaa32a33658dc74706c47994b8ab281036fa8a6bdf28843c8849685d6e80a5
+    mime: image/tiff
+    bytes: 9624438
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8b/ba/8bbaa32a33658dc74706c47994b8ab281036fa8a6bdf28843c8849685d6e80a5/preview-400.232cb65785f2.jpg
+        sha256: 232cb65785f2628038463b08d6b732215575ad8da8ffc86fc5175f8c41a8941b
+        mime: image/jpeg
+        bytes: 55595
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01J6WN87S94KENASN3P0WJKYGJ
+type: image
+subtype: plan
+title: Bauplan Dorfteich 1913
+description: Tusche auf Transparentpapier.
+date: 1913-05-06
+location: Hitzacker, Ziegelei
+subjects:
+  - name: Einweihung 1913
+    type: event
+  - name: Erika Schulz
+    type: person
+  - name: Schlachtfest 1913
+    type: event
+parents:
+  - 01JTHP4KSFGWQ8YZT350SBEYS1
+  - 01J9G2YFZQRW9H8YS0MWA1XHM0
+files:
+  - role: main
+    original_name: scan_869.tif
+    path: files/9e/85/9e858bcba73ce9ff031cc326e522d8a2442ba82568fbb479cdeefb9a207bc152/original.tif
+    sha256: 9e858bcba73ce9ff031cc326e522d8a2442ba82568fbb479cdeefb9a207bc152
+    mime: image/tiff
+    bytes: 9652352
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9e/85/9e858bcba73ce9ff031cc326e522d8a2442ba82568fbb479cdeefb9a207bc152/preview-400.5598fca0d12a.jpg
+        sha256: 5598fca0d12a8f82cb661771e54cdf7f6b502b52f81331c06efa570f4875eb5e
+        mime: image/jpeg
+        bytes: 83335
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

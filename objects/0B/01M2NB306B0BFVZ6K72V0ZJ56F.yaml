@@ -1,0 +1,47 @@
+id: 01M2NB306B0BFVZ6K72V0ZJ56F
+type: document
+subtype: note
+title: Kassenzettel Fachwerkhaus Marktstraße 4
+description: Beleg mit Stempel.
+location: Wittenberge, Elbstraße
+geocode:
+  lat: 53.0978
+  lon: 11.6518
+  precision: town
+  source: osm
+origin:
+  name: Helga Eggers
+  type: person
+  location: Restorf
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Speicher
+    type: building
+  - name: Frieda Stoll
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_0zj56f_001.tif
+    path: files/a6/ce/a6ced9bc9c6704d1e96a99b2d16d53ff20238eebc2a5044a76ffc003283b7837/original.tif
+    sha256: a6ced9bc9c6704d1e96a99b2d16d53ff20238eebc2a5044a76ffc003283b7837
+    mime: image/tiff
+    bytes: 9664064
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a6/ce/a6ced9bc9c6704d1e96a99b2d16d53ff20238eebc2a5044a76ffc003283b7837/preview-400.f023225108a5.jpg
+        sha256: f023225108a59d9dd9ce5509465a81096f11b634afd1064068d67102674d2bcd
+        mime: image/jpeg
+        bytes: 67832
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

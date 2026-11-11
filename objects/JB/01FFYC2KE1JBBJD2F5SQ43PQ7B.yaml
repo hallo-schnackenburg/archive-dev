@@ -1,0 +1,35 @@
+id: 01FFYC2KE1JBBJD2F5SQ43PQ7B
+type: image
+subtype: photo
+title: Hermann Lindemann, Porträt
+description: Zu sehen sind Ladestraße und Kirche St. Johannis.
+date: 1955~
+origin:
+  name: Hans Krüger
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Storchennest
+    type: building
+  - name: Sturmschaden 1955
+    type: event
+files:
+  - role: main
+    original_name: scan_554.tif
+    path: files/39/66/3966d44e1c48e2d7f9cc66fdcf99fc862f3b78aa3325e4b82bbcd2b6d03e956d/original.tif
+    sha256: 3966d44e1c48e2d7f9cc66fdcf99fc862f3b78aa3325e4b82bbcd2b6d03e956d
+    mime: image/tiff
+    bytes: 4090929
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/39/66/3966d44e1c48e2d7f9cc66fdcf99fc862f3b78aa3325e4b82bbcd2b6d03e956d/preview-400.de759dd5fa0d.jpg
+        sha256: de759dd5fa0d7c62e919c6eb350e54eb5d54c1d0e22c0b3f4b32e2f45e14dfe7
+        mime: image/jpeg
+        bytes: 57894
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

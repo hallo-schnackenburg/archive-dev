@@ -1,0 +1,46 @@
+id: 01KPA7WVKFZMGP5MAD1BWWKSN2
+type: image
+subtype: photo
+title: Brückeneinweihung 1975
+description: Farbfoto, leicht verblasst.
+date: 1975-04
+location: Brünkendorf, Hafenstraße
+geocode:
+  lat: 52.9545
+  lon: 11.4575
+  precision: exact
+  source: osm
+origin:
+  name: Gerda Dreyer
+  type: person
+  location: Pretzier
+subjects:
+  - name: Dorfteich
+    type: building
+  - name: Karl Oelker
+    type: person
+  - name: Kartoffelernte 1975
+    type: event
+parents:
+  - 01F084MHNWGJ7D7S7TBCXZMMB2
+  - 01FN6T6JHA18TW27M4TSYE0FQV
+files:
+  - role: main
+    original_name: foto_2510.jpg
+    path: files/1f/a9/1fa9c90dc17cc988761296dc7a38c674e69c37d14470eabcb8f37b5fb36c5b71/original.jpg
+    sha256: 1fa9c90dc17cc988761296dc7a38c674e69c37d14470eabcb8f37b5fb36c5b71
+    mime: image/jpeg
+    bytes: 3878065
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/1f/a9/1fa9c90dc17cc988761296dc7a38c674e69c37d14470eabcb8f37b5fb36c5b71/preview-400.4bb8aee8f06a.jpg
+        sha256: 4bb8aee8f06afe8095a447207acbdb11b47275d0a99fdbc59b2fce2723692766
+        mime: image/jpeg
+        bytes: 41043
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

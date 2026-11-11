@@ -1,0 +1,35 @@
+id: 01KH955QBNZ2PKCX9S444ZH784
+type: image
+subtype: drawing
+title: Skizze Wootz, Elbstraße
+origin:
+  name: Heinrich Krüger
+  type: person
+  location: Lanz
+subjects:
+  - name: Einweihung 1839
+    type: event
+  - name: Gorleben
+    type: place
+  - name: Käthe Meyer
+    type: person
+files:
+  - role: main
+    original_name: scan_018.tif
+    path: files/42/29/42292b4f95dad454b0166197dffab493639613f12dcf4281eccc79d9e6168516/original.tif
+    sha256: 42292b4f95dad454b0166197dffab493639613f12dcf4281eccc79d9e6168516
+    mime: image/tiff
+    bytes: 14495674
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/42/29/42292b4f95dad454b0166197dffab493639613f12dcf4281eccc79d9e6168516/preview-400.10ce90b4e8bf.jpg
+        sha256: 10ce90b4e8bfc175ff4199acbfc940bcf7a64c57a968b5329e92e2877dfbb53d
+        mime: image/jpeg
+        bytes: 68630
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

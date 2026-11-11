@@ -1,0 +1,45 @@
+id: 01HAS7XX0DF4991W20SX9GYBZ6
+type: image
+subtype: photo
+title: Familie Bohlmann beim Kartoffelernte
+description: Farbfoto, leicht verblasst.
+date: 1992-08-20
+location: Gollensdorf, Dorfteich
+geocode:
+  lat: 52.9405
+  lon: 11.5938
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok 18/297
+subjects:
+  - name: Heinrich Wöhlk
+    type: person
+  - name: Pretzier
+    type: place
+parents:
+  - 01JYMEAJWANE502SQPKMZ6JGSN
+files:
+  - role: main
+    original_name: scan_100.tif
+    path: files/3a/ab/3aabdd43f376816a9ec7f56b37d53f8bef8d03c365e4a23d20c0be24e9cfb7f8/original.tif
+    sha256: 3aabdd43f376816a9ec7f56b37d53f8bef8d03c365e4a23d20c0be24e9cfb7f8
+    mime: image/tiff
+    bytes: 21951246
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3a/ab/3aabdd43f376816a9ec7f56b37d53f8bef8d03c365e4a23d20c0be24e9cfb7f8/preview-400.d8efc9489051.jpg
+        sha256: d8efc9489051355a9a566d91f6da2be89e92e4181fe6091f45eb03afcd095587
+        mime: image/jpeg
+        bytes: 61437
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01FSTRJ6M5155VWJ8PVP138GPY
+type: image
+subtype: print
+title: Postkarte Havelberg, Feuerwehrhaus
+date: 172X
+origin:
+  name: Emma Wöhlk
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 19/120
+subjects:
+  - name: Bahnhof
+    type: building
+parents:
+  - 01HS9D6TNXGYQ746ZSEVHFEZN8
+  - 01HRVYM45E9Q1MV4SZNSP2VQV9
+files:
+  - role: main
+    original_name: scan_044.tif
+    path: files/78/2f/782fe6d518183258687d5b42ddb13bd11490889db1c2da2f5131987907ea0387/original.tif
+    sha256: 782fe6d518183258687d5b42ddb13bd11490889db1c2da2f5131987907ea0387
+    mime: image/tiff
+    bytes: 10689843
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/78/2f/782fe6d518183258687d5b42ddb13bd11490889db1c2da2f5131987907ea0387/preview-400.6f003485088b.jpg
+        sha256: 6f003485088bfaefd2afc00421800db1e2cba9f726e447b10469e3e837755281
+        mime: image/jpeg
+        bytes: 85900
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

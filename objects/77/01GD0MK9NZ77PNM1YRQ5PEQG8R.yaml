@@ -1,0 +1,41 @@
+id: 01GD0MK9NZ77PNM1YRQ5PEQG8R
+type: image
+subtype: plan
+title: Deichplan Kapern bis Wittenberge
+description: Mit handschriftlichen Ergänzungen.
+date: "1898"
+origin:
+  name: Walter Krüger
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro 19/384
+subjects:
+  - name: Lüchow
+    type: place
+parents:
+  - 01GT8QZ1TC8KRDKD8TAJXY7YDB
+files:
+  - role: main
+    original_name: scan_803.tif
+    path: files/b3/0c/b30cbc15018222768e37f0ae7667145eae4678f821225665fa74d939c7f698af/original.tif
+    sha256: b30cbc15018222768e37f0ae7667145eae4678f821225665fa74d939c7f698af
+    mime: image/tiff
+    bytes: 27962584
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b3/0c/b30cbc15018222768e37f0ae7667145eae4678f821225665fa74d939c7f698af/preview-400.f234d8596dcc.jpg
+        sha256: f234d8596dcc11a5cafdd8d53fcbe0b8986f12cc74d304c3a42fea978d1d81ae
+        mime: image/jpeg
+        bytes: 76590
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

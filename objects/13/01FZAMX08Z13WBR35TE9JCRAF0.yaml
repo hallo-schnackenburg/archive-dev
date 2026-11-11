@@ -1,0 +1,62 @@
+id: 01FZAMX08Z13WBR35TE9JCRAF0
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Wasserleitung 1947
+description: "Beschlossen wurde unter anderem: Flüchtlingsunterbringung."
+date: 1947-08-28
+location: Restorf, Marktstraße
+geocode:
+  lat: 52.9565
+  lon: 11.5305
+  precision: exact
+  source: osm
+language: de
+subjects:
+  - name: Kegelbahn
+    type: building
+  - name: Einschulung 1947
+    type: event
+parents:
+  - 01FVQ4AW5WXFEF57BN5S1PKQ3J
+files:
+  - role: page
+    num: 1
+    original_name: protocol_jcraf0_001.tif
+    path: files/da/19/da19dff3f5e1d78ba364ff3f911a6994baa58c77c17ac26fc7c5d413ed972c48/original.tif
+    sha256: da19dff3f5e1d78ba364ff3f911a6994baa58c77c17ac26fc7c5d413ed972c48
+    mime: image/tiff
+    bytes: 6906525
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/19/da19dff3f5e1d78ba364ff3f911a6994baa58c77c17ac26fc7c5d413ed972c48/preview-400.c6e1e515d2e4.jpg
+        sha256: c6e1e515d2e45ebd5010e8fcb398268c0fd572e89218fb5662122355cebf4df3
+        mime: image/jpeg
+        bytes: 88071
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_jcraf0_002.tif
+    path: files/14/e9/14e990d07c910fee6bcd114a54b0b46d1064a2947a22bcf498616c329c8c31cd/original.tif
+    sha256: 14e990d07c910fee6bcd114a54b0b46d1064a2947a22bcf498616c329c8c31cd
+    mime: image/tiff
+    bytes: 19618260
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/e9/14e990d07c910fee6bcd114a54b0b46d1064a2947a22bcf498616c329c8c31cd/preview-400.5cfb51a3da40.jpg
+        sha256: 5cfb51a3da40dc39d7fceb6231ee20adf3a1a0676900144ffba19db68c91fcc7
+        mime: image/jpeg
+        bytes: 74458
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

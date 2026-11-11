@@ -1,0 +1,45 @@
+id: 01GGA5C82370749TN5ZZXTCB9T
+type: image
+subtype: plan
+title: Deichplan Wustrow bis Kapern
+description: Tusche auf Transparentpapier.
+date: 1840/1848
+location: Holtorf, Dorfkrug
+geocode:
+  lat: 52.9438
+  lon: 11.4686
+  precision: street
+  source: osm
+origin:
+  name: Emma Rieke
+  type: person
+  location: Gülden
+subjects:
+  - name: Deicharbeiten 1840
+    type: event
+  - name: Erika Rohde
+    type: person
+  - name: Anni Meyer
+    type: person
+parents:
+  - 01HBSGHG52Z98SDKPVZX12Z93T
+files:
+  - role: main
+    original_name: scan_148.tif
+    path: files/cf/8d/cf8d0c3373319a41fa36da2293fec9b2b1a8eced40c21c70d952f704cecef8d7/original.tif
+    sha256: cf8d0c3373319a41fa36da2293fec9b2b1a8eced40c21c70d952f704cecef8d7
+    mime: image/tiff
+    bytes: 8591652
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cf/8d/cf8d0c3373319a41fa36da2293fec9b2b1a8eced40c21c70d952f704cecef8d7/preview-400.921f3458bb32.jpg
+        sha256: 921f3458bb32ddc43518028df310b4c9454195072fbadec7a0b777ae62e299f6
+        mime: image/jpeg
+        bytes: 33475
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

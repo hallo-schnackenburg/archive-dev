@@ -1,0 +1,79 @@
+id: 01HT6HJG6E92FQNM3HHATKKVHF
+type: document
+subtype: letter
+title: Feldpostbrief von Wilhelm Kuhlmann
+date: 1944-03-18
+location: Restorf, Dorfstraße
+geocode:
+  lat: 53.0146
+  lon: 11.5321
+  precision: region
+  source: osm
+recipient: Gerda Mahnke
+language: de
+subjects:
+  - name: Hochwasser 1944
+    type: event
+parents:
+  - 01F084MHNWGJ7D7S7TBCXZMMB2
+files:
+  - role: page
+    num: 1
+    original_name: letter_tkkvhf_001.tif
+    path: files/ac/b5/acb5c74b8308ba375fdf960f292cbe6c934e3854fd5ecc29eb4a881f505c862b/original.tif
+    sha256: acb5c74b8308ba375fdf960f292cbe6c934e3854fd5ecc29eb4a881f505c862b
+    mime: image/tiff
+    bytes: 4855543
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/b5/acb5c74b8308ba375fdf960f292cbe6c934e3854fd5ecc29eb4a881f505c862b/preview-400.8549fa6a3d5f.jpg
+        sha256: 8549fa6a3d5faad70b967ac9ee89980eebee92cf67f12a8c51b0ad677fabc8ae
+        mime: image/jpeg
+        bytes: 28893
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_tkkvhf_002.tif
+    path: files/1c/4a/1c4a903cba1dc678b7d030279c5ba7489327d649897bedbbb93dc2e69dc34172/original.tif
+    sha256: 1c4a903cba1dc678b7d030279c5ba7489327d649897bedbbb93dc2e69dc34172
+    mime: image/tiff
+    bytes: 16550650
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/4a/1c4a903cba1dc678b7d030279c5ba7489327d649897bedbbb93dc2e69dc34172/preview-400.dec7afc9f510.jpg
+        sha256: dec7afc9f510cdcb0b7f6fb2eaaadd01edb00db6ee0b69b95bef17c829c0f2fe
+        mime: image/jpeg
+        bytes: 58537
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_tkkvhf_003.tif
+    path: files/ca/80/ca80d4d2de36ddbc1cda38a7e13f836fe407730e7e4e93b06f6108ea7c770cdf/original.tif
+    sha256: ca80d4d2de36ddbc1cda38a7e13f836fe407730e7e4e93b06f6108ea7c770cdf
+    mime: image/tiff
+    bytes: 2688968
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ca/80/ca80d4d2de36ddbc1cda38a7e13f836fe407730e7e4e93b06f6108ea7c770cdf/preview-400.9593d9855f29.jpg
+        sha256: 9593d9855f29025cbff2e8ca5a49c5cd3159b4d920509c52a7b9b04e626841d0
+        mime: image/jpeg
+        bytes: 27276
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

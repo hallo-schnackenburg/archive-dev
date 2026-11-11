@@ -1,0 +1,35 @@
+id: 01G404FE7Q1KTYHBB642D2Y9BS
+type: image
+subtype: print
+title: Postkarte Schnackenburg, Fachwerkhaus Marktstraße 4
+description: Lithographie, Rand beschnitten.
+location: Schnackenburg, Am Elbdeich
+subjects:
+  - name: Karl Bohlmann
+    type: person
+  - name: Wittenberge
+    type: place
+  - name: Seedorf
+    type: place
+parents:
+  - 01FYF46BCNWMPMBZAF8Z3VZK3Y
+files:
+  - role: main
+    original_name: scan_622.tif
+    path: files/85/7c/857c950cfc5458311641e2f5fbbcdc51b7e27ba5395c0ee15cbf99c51042f952/original.tif
+    sha256: 857c950cfc5458311641e2f5fbbcdc51b7e27ba5395c0ee15cbf99c51042f952
+    mime: image/tiff
+    bytes: 16594834
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/85/7c/857c950cfc5458311641e2f5fbbcdc51b7e27ba5395c0ee15cbf99c51042f952/preview-400.76ad8b960279.jpg
+        sha256: 76ad8b96027918010e083d22e848ad4b5e62496c423cb3addb3ba075252cc8bd
+        mime: image/jpeg
+        bytes: 65943
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01GAH3AYVCC7XBKPT374Z03Z8B
+type: image
+subtype: print
+title: Lithographie Bahnhof, Seedorf
+date: "1792"
+origin:
+  name: Rudolf Tiedemann
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+owner:
+  name: Fritz Wöhlk
+  type: person
+  note: Nachlass
+subjects:
+  - name: Schlachtfest 1792
+    type: event
+  - name: Kapern
+    type: place
+files:
+  - role: main
+    original_name: scan_123.tif
+    path: files/7b/65/7b65a1d3e432b6a7f09b207fb9f7ddd756faaec698efc19d0f6d0a615ec9b313/original.tif
+    sha256: 7b65a1d3e432b6a7f09b207fb9f7ddd756faaec698efc19d0f6d0a615ec9b313
+    mime: image/tiff
+    bytes: 20114789
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7b/65/7b65a1d3e432b6a7f09b207fb9f7ddd756faaec698efc19d0f6d0a615ec9b313/preview-400.74c67846e3de.jpg
+        sha256: 74c67846e3deb39ba3ed93ce8967c98ff49657b8ada63aeeb6434b9a4815c204
+        mime: image/jpeg
+        bytes: 72844
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

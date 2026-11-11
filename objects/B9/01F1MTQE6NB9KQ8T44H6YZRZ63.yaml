@@ -1,0 +1,42 @@
+id: 01F1MTQE6NB9KQ8T44H6YZRZ63
+type: image
+subtype: plan
+title: Bauplan Feuerwehrhaus 1887
+date: 1887?
+location: Restorf, Windmühle
+origin:
+  name: Karl Schulz
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 1/368
+  note: Bücherregal links
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Ernst Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_537.tif
+    path: files/f6/30/f6304a33a6df8a42905997bc3f31bd5cf190db29e1d04ed606ec1cf0b7d2b862/original.tif
+    sha256: f6304a33a6df8a42905997bc3f31bd5cf190db29e1d04ed606ec1cf0b7d2b862
+    mime: image/tiff
+    bytes: 27190172
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f6/30/f6304a33a6df8a42905997bc3f31bd5cf190db29e1d04ed606ec1cf0b7d2b862/preview-400.d9b033e92851.jpg
+        sha256: d9b033e92851d88b57c4799ad6f69d9bd1ccc01bc412e37e8fff5df4c18ec04a
+        mime: image/jpeg
+        bytes: 71422
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

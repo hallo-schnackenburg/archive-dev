@@ -1,0 +1,41 @@
+id: 01GXTJ8HW2X9V1V7V57TQHKGXK
+type: image
+subtype: photo
+title: Karl Meyer vor dem Dorfschule
+date: 1903-11-16
+location: Gartow, Am Markt
+geocode:
+  lat: 52.9373
+  lon: 11.6737
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 12/184
+  note: Planschrank, Fach 3
+subjects:
+  - name: Försterei
+    type: building
+files:
+  - role: main
+    original_name: DSC8209.jpg
+    path: files/dc/f9/dcf96cd8f2d2d19c42b82cf2a8924c1a454527eaf329e8c7199000d965b67bc8/original.jpg
+    sha256: dcf96cd8f2d2d19c42b82cf2a8924c1a454527eaf329e8c7199000d965b67bc8
+    mime: image/jpeg
+    bytes: 11084625
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/dc/f9/dcf96cd8f2d2d19c42b82cf2a8924c1a454527eaf329e8c7199000d965b67bc8/preview-400.6555213a9dfb.jpg
+        sha256: 6555213a9dfb33eb8136ea07849e8abecf4585e2fad4486205516781ff46c4dc
+        mime: image/jpeg
+        bytes: 76367
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

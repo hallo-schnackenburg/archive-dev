@@ -1,0 +1,40 @@
+id: 01H6MVR3192AWT0YDBDV6JM100
+type: image
+subtype: print
+title: Postkarte Laase, Kindergarten
+date: "1804"
+location: Cumlosen, Marktstraße
+geocode:
+  lat: 52.9623
+  lon: 11.6342
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Feuerwehrübung 1804
+    type: event
+  - name: Apotheke
+    type: building
+files:
+  - role: main
+    original_name: scan_686.tif
+    path: files/ae/c3/aec3acf97de68ec06e932cbdaafbddf68053d9bb78a48b45f3d329d2ea8b6213/original.tif
+    sha256: aec3acf97de68ec06e932cbdaafbddf68053d9bb78a48b45f3d329d2ea8b6213
+    mime: image/tiff
+    bytes: 23953980
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ae/c3/aec3acf97de68ec06e932cbdaafbddf68053d9bb78a48b45f3d329d2ea8b6213/preview-400.65edb8dfffc7.jpg
+        sha256: 65edb8dfffc798652c666cb18dd58129c65a332e57558d06cfa7898f79685bef
+        mime: image/jpeg
+        bytes: 35211
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01JK1QCTYVH8BKST86EQENVMFB
+type: image
+subtype: print
+title: "Holzschnitt: Hochwasser, Schnackenburg"
+location: Havelberg, Sportplatz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Kindergarten
+    type: building
+parents:
+  - 01J0GYR8W2ERJ99C6YPH8ATKMN
+files:
+  - role: main
+    original_name: scan_489.tif
+    path: files/0b/a1/0ba14885b410ca2a9d4c95d1541dac19d0f8875e5818c9782dd583ebd15f5a47/original.tif
+    sha256: 0ba14885b410ca2a9d4c95d1541dac19d0f8875e5818c9782dd583ebd15f5a47
+    mime: image/tiff
+    bytes: 1080570
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0b/a1/0ba14885b410ca2a9d4c95d1541dac19d0f8875e5818c9782dd583ebd15f5a47/preview-400.d45650f0ed50.jpg
+        sha256: d45650f0ed5096109ece84773814a87bb7243b0cea32882c66940efc2049bf69
+        mime: image/jpeg
+        bytes: 62769
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

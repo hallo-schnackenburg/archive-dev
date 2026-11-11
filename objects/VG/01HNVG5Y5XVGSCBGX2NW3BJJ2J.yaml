@@ -1,0 +1,36 @@
+id: 01HNVG5Y5XVGSCBGX2NW3BJJ2J
+type: image
+subtype: drawing
+title: Skizze Wustrow, Bahnhofstraße, Wittenberge
+date: 1920-09-13
+origin:
+  name: Ernst Wöhlk
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Gartow
+    type: place
+  - name: Molkerei
+    type: building
+parents:
+  - 01JTAHZQ2H6N377TQAEA3P4341
+files:
+  - role: main
+    original_name: scan_125.tif
+    path: files/12/59/12590f2965942cefab083d9ea912e57734bbeb71edaf28404fad47095859be1c/original.tif
+    sha256: 12590f2965942cefab083d9ea912e57734bbeb71edaf28404fad47095859be1c
+    mime: image/tiff
+    bytes: 7782230
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/12/59/12590f2965942cefab083d9ea912e57734bbeb71edaf28404fad47095859be1c/preview-400.f62d32c4bbde.jpg
+        sha256: f62d32c4bbde05a3746f568c26d5646fba7192a1a8609996d7aee92166868867
+        mime: image/jpeg
+        bytes: 26801
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

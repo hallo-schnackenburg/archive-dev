@@ -1,0 +1,40 @@
+id: 01KNQSV485QKXBBS2WP0T2R38V
+type: image
+subtype: photo
+title: Familie Prieß beim Ortsbesichtigung
+date: "1930"
+location: Wittenberge, Fährstraße
+geocode:
+  lat: 52.9027
+  lon: 11.5879
+  precision: region
+  source: osm
+origin:
+  name: Karl Lemke
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Hedwig Sievers
+    type: person
+parents:
+  - 01KGBXSKRT00YBVNJ684TQMH5V
+files:
+  - role: main
+    original_name: foto_4295.jpg
+    path: files/be/15/be154a6d0ba830fddda6e14df853f50880c1bff5071afcaf90a0c814e16bf2d5/original.jpg
+    sha256: be154a6d0ba830fddda6e14df853f50880c1bff5071afcaf90a0c814e16bf2d5
+    mime: image/jpeg
+    bytes: 23995552
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/be/15/be154a6d0ba830fddda6e14df853f50880c1bff5071afcaf90a0c814e16bf2d5/preview-400.fe4157dac597.jpg
+        sha256: fe4157dac59760002a7d1a710097bd96677f4111142b8a8b4ef2e39e53f0b040
+        mime: image/jpeg
+        bytes: 41761
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

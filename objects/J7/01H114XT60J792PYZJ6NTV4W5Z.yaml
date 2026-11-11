@@ -1,0 +1,51 @@
+id: 01H114XT60J792PYZJ6NTV4W5Z
+type: document
+subtype: letter
+title: Zeugnis für Horst Lemke
+date: 1910-03-02
+location: Gülden, Am Elbdeich
+geocode:
+  lat: 52.9862
+  lon: 11.5601
+  precision: town
+  source: osm
+origin:
+  name: Karl Jeß
+  type: person
+  location: Salzwedel
+recipient: Walter Bohlmann
+language: en
+owner:
+  name: Hans Wegner
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Erntedankfest 1910
+    type: event
+  - name: Bahnhof
+    type: building
+  - name: Ladestraße
+    type: building
+parents:
+  - 01G9E0HEW5JYMGZH6NFA75XCR4
+files:
+  - role: page
+    num: 1
+    original_name: letter_tv4w5z_001.tif
+    path: files/11/e3/11e3c92558e0169ae874bc40c955e4227c6180b585bfaf7fedde09ca988393ea/original.tif
+    sha256: 11e3c92558e0169ae874bc40c955e4227c6180b585bfaf7fedde09ca988393ea
+    mime: image/tiff
+    bytes: 10593410
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/e3/11e3c92558e0169ae874bc40c955e4227c6180b585bfaf7fedde09ca988393ea/preview-400.2ad3dca85ab4.jpg
+        sha256: 2ad3dca85ab4a2179152a74b963a744ecaffa98fd384309b066efe8a0254dc7c
+        mime: image/jpeg
+        bytes: 31543
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

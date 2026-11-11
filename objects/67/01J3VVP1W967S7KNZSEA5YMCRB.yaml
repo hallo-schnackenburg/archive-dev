@@ -1,0 +1,37 @@
+id: 01J3VVP1W967S7KNZSEA5YMCRB
+type: image
+subtype: print
+title: Postkarte Hitzacker, Gutshaus
+location: Schnackenburg, Apotheke
+origin:
+  name: Karl Bohlmann
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok 10/049
+parents:
+  - 01HKFRFSECE3Q2H430VV51X3Q1
+files:
+  - role: main
+    original_name: scan_660.tif
+    path: files/f7/fb/f7fb90a8864a774897abaebeb16e528bce48b1a5191df301350618937a7a6f04/original.tif
+    sha256: f7fb90a8864a774897abaebeb16e528bce48b1a5191df301350618937a7a6f04
+    mime: image/tiff
+    bytes: 4578450
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f7/fb/f7fb90a8864a774897abaebeb16e528bce48b1a5191df301350618937a7a6f04/preview-400.5a8b551fa681.jpg
+        sha256: 5a8b551fa681d6ac8c4e34c092f30c1351609678f31f2cf9dbecda1eb0dad430
+        mime: image/jpeg
+        bytes: 38732
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

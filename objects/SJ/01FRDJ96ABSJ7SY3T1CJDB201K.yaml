@@ -1,0 +1,37 @@
+id: 01FRDJ96ABSJ7SY3T1CJDB201K
+type: image
+subtype: print
+title: Gruß aus Schnackenburg, Havelberg
+description: Kupferstich, koloriert.
+date: 1707-06-05
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 33/380
+subjects:
+  - name: Helga Dreyer
+    type: person
+parents:
+  - 01KWYFYPXA1XKFXQC49HAWMD3Q
+files:
+  - role: main
+    original_name: scan_111.tif
+    path: files/ef/a0/efa008106971b5a750433e46dd4959247b28f50c3d4c3a94e6287daf3c84609f/original.tif
+    sha256: efa008106971b5a750433e46dd4959247b28f50c3d4c3a94e6287daf3c84609f
+    mime: image/tiff
+    bytes: 9455310
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ef/a0/efa008106971b5a750433e46dd4959247b28f50c3d4c3a94e6287daf3c84609f/preview-400.8f8c3b696e79.jpg
+        sha256: 8f8c3b696e79a4a2557ccb3a2a00aeef870310b9381b8d374434aa079884ce7a
+        mime: image/jpeg
+        bytes: 47126
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

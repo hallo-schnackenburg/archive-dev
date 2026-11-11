@@ -1,0 +1,63 @@
+id: 01GH9X8N618WD3GNW7REGX4VGF
+type: document
+subtype: note
+title: Rechnung Voss, Gemeindehaus
+description: Zettel, Bleistift.
+date: 1905-09
+location: Nienwalde, Deichstraße
+geocode:
+  lat: 52.9475
+  lon: 11.6394
+  precision: region
+  source: osm
+origin:
+  name: Otto Ahrens
+  type: person
+  location: Dömitz
+language: de
+subjects:
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01GPX56NY6DD91HTSCGYG7TKDB
+files:
+  - role: page
+    num: 1
+    original_name: note_gx4vgf_001.tif
+    path: files/97/02/9702d488b70edb684c0d93a380d6f899031d8467fa0c72d3dfdd07d541ff8ed6/original.tif
+    sha256: 9702d488b70edb684c0d93a380d6f899031d8467fa0c72d3dfdd07d541ff8ed6
+    mime: image/tiff
+    bytes: 8646388
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/02/9702d488b70edb684c0d93a380d6f899031d8467fa0c72d3dfdd07d541ff8ed6/preview-400.79c81f8ded37.jpg
+        sha256: 79c81f8ded37c7327ba7c6626007a076559744cc102b3d1a712178d23de2ce55
+        mime: image/jpeg
+        bytes: 42462
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_gx4vgf_002.tif
+    path: files/2e/98/2e98e86dfeb1da50c74ae5b40adf6af28d4b125c136f1ad1cb31318f84f700ba/original.tif
+    sha256: 2e98e86dfeb1da50c74ae5b40adf6af28d4b125c136f1ad1cb31318f84f700ba
+    mime: image/tiff
+    bytes: 19831103
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/98/2e98e86dfeb1da50c74ae5b40adf6af28d4b125c136f1ad1cb31318f84f700ba/preview-400.fc5928960204.jpg
+        sha256: fc59289602047b36b5111e59c5ed038fe414dcf132d3e067f8d813566723266e
+        mime: image/jpeg
+        bytes: 74496
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

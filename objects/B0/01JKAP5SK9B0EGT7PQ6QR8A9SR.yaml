@@ -1,0 +1,38 @@
+id: 01JKAP5SK9B0EGT7PQ6QR8A9SR
+type: image
+subtype: plan
+title: Deichplan Kapern bis Gartow
+description: Mit handschriftlichen Ergänzungen.
+origin:
+  name: Heinrich Plate
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 4/009
+parents:
+  - 01J035Y4PJ757ZX8Y4WBMZGKNQ
+  - 01KD7CS4EBG51K60J3B74H2VS5
+files:
+  - role: main
+    original_name: scan_162.tif
+    path: files/6e/54/6e5403f6c9e8cc41289a58a612bcc353110e999c86fe98417d34707a462a9a97/original.tif
+    sha256: 6e5403f6c9e8cc41289a58a612bcc353110e999c86fe98417d34707a462a9a97
+    mime: image/tiff
+    bytes: 19762428
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/54/6e5403f6c9e8cc41289a58a612bcc353110e999c86fe98417d34707a462a9a97/preview-400.07b7efd51de0.jpg
+        sha256: 07b7efd51de07c9df68dc4c9968fcdec3b3d2882b5b12261f4904be1205c62be
+        mime: image/jpeg
+        bytes: 20931
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

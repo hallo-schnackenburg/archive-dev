@@ -1,0 +1,32 @@
+id: 01GMA6YV5GMNCHG3PJQQNAKWBB
+type: image
+subtype: plan
+title: Bauplan Kriegerdenkmal 1863
+date: 1863-10-26
+subjects:
+  - name: Schützenhaus
+    type: building
+  - name: Sturmschaden 1863
+    type: event
+  - name: Walter Lüders
+    type: person
+files:
+  - role: main
+    original_name: scan_914.tif
+    path: files/13/c3/13c31031a38ca2eaeb3e2fd138291c8da004decb003b69c6579fcb14c4d8c0a7/original.tif
+    sha256: 13c31031a38ca2eaeb3e2fd138291c8da004decb003b69c6579fcb14c4d8c0a7
+    mime: image/tiff
+    bytes: 11936469
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/13/c3/13c31031a38ca2eaeb3e2fd138291c8da004decb003b69c6579fcb14c4d8c0a7/preview-400.92fc4f032864.jpg
+        sha256: 92fc4f0328641e6e4b926ff0e9a812cda2b1f9a0d6fa27e6a40167ded4249a9e
+        mime: image/jpeg
+        bytes: 26208
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

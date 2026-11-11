@@ -1,0 +1,38 @@
+id: 01JPEG7BK7G77KB80G1G8EW3S5
+type: image
+subtype: photo
+title: Grenzöffnung 1933
+description: Zu sehen sind Kegelbahn und Sportplatz.
+date: 1933-01-12
+location: Kapern, Elbstraße
+origin:
+  name: Karl Tiedemann
+  type: person
+  location: Wustrow
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Grenzöffnung 1933
+    type: event
+parents:
+  - 01JKQ421K5RBFQ8NV81GBKEPMH
+files:
+  - role: main
+    original_name: scan_046.tif
+    path: files/69/9b/699b01c000da3ae6a146863a3c0ab05c09ec0ff658d7ce65a8789c012a741c4e/original.tif
+    sha256: 699b01c000da3ae6a146863a3c0ab05c09ec0ff658d7ce65a8789c012a741c4e
+    mime: image/tiff
+    bytes: 1834583
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/69/9b/699b01c000da3ae6a146863a3c0ab05c09ec0ff658d7ce65a8789c012a741c4e/preview-400.28670f2ec2d1.jpg
+        sha256: 28670f2ec2d178ba8b3f771350f4fa1c1b5a7e56110a42e3d59761b11f1fbe27
+        mime: image/jpeg
+        bytes: 27328
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

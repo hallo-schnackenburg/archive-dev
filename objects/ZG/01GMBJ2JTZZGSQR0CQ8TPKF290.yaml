@@ -1,0 +1,44 @@
+id: 01GMBJ2JTZZGSQR0CQ8TPKF290
+type: image
+subtype: photo
+title: Heinrich Wegner, Porträt
+description: Aufnahme von Dieter Tiedemann.
+date: 1904-03
+origin:
+  name: Anni Plate
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Hochwasser 1904
+    type: event
+  - name: Feuerwehrhaus
+    type: building
+  - name: Cumlosen
+    type: place
+parents:
+  - 01JJNGWHZ0RP8DV6ZT19QKH0BJ
+files:
+  - role: main
+    original_name: DSC7527.jpg
+    path: files/42/ff/42ffb7852022e8cb0df00284fc40329351c2adb472fe265ee2691303ec3a618f/original.jpg
+    sha256: 42ffb7852022e8cb0df00284fc40329351c2adb472fe265ee2691303ec3a618f
+    mime: image/jpeg
+    bytes: 11924886
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/42/ff/42ffb7852022e8cb0df00284fc40329351c2adb472fe265ee2691303ec3a618f/preview-400.fae95144eba6.jpg
+        sha256: fae95144eba670fcfde2026c530d2039e66efd09fd9529134faa21ed034de258
+        mime: image/jpeg
+        bytes: 24582
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

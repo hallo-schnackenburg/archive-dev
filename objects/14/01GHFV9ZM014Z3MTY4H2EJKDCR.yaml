@@ -1,0 +1,39 @@
+id: 01GHFV9ZM014Z3MTY4H2EJKDCR
+type: image
+subtype: print
+title: Lithographie Kegelbahn, Laase
+description: Kupferstich, koloriert.
+date: 1952-02-12
+origin:
+  name: Otto Tiedemann
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 28/097
+subjects:
+  - name: Ilse Plate
+    type: person
+files:
+  - role: main
+    original_name: scan_060.tif
+    path: files/6e/61/6e61c8a310d0edd7e60dd493237ba5ea169ee0d58179bd870a086ec4d0c99fa4/original.tif
+    sha256: 6e61c8a310d0edd7e60dd493237ba5ea169ee0d58179bd870a086ec4d0c99fa4
+    mime: image/tiff
+    bytes: 26837957
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/61/6e61c8a310d0edd7e60dd493237ba5ea169ee0d58179bd870a086ec4d0c99fa4/preview-400.efc0f87ba2e5.jpg
+        sha256: efc0f87ba2e52cc83439b92a09f17bb99de7f2a659af303f1cf11bd1a088340a
+        mime: image/jpeg
+        bytes: 68413
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

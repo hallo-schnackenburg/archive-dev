@@ -1,0 +1,38 @@
+id: 01JHE51TB3R9NGK7WRDAYZTKD4
+type: image
+subtype: photo
+title: Feuerwehrhaus nach dem Eisgang
+location: Wootz, Deichstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 21/129
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+  - name: Arendsee
+    type: place
+  - name: Gartow
+    type: place
+files:
+  - role: main
+    original_name: P6329.jpg
+    path: files/7d/05/7d05f104353900b93b87b14c8372fff4bc9241e494ba221b1043311a888487c0/original.jpg
+    sha256: 7d05f104353900b93b87b14c8372fff4bc9241e494ba221b1043311a888487c0
+    mime: image/jpeg
+    bytes: 15096135
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/7d/05/7d05f104353900b93b87b14c8372fff4bc9241e494ba221b1043311a888487c0/preview-400.296cf3aaa725.jpg
+        sha256: 296cf3aaa725f243906bf02fbc0d6540e264b8c81c0ade72d27ca299e70bd379
+        mime: image/jpeg
+        bytes: 25097
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

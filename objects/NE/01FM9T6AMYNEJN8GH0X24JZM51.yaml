@@ -1,0 +1,49 @@
+id: 01FM9T6AMYNEJN8GH0X24JZM51
+type: image
+subtype: plan
+title: Bauplan Dorfladen 1816
+description: Maßstab 1:100.
+date: 1816-12-05
+origin:
+  name: Erika Lüders
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+owner:
+  name: Gerda Wöhlk
+  type: person
+  note: Nachlass
+subjects:
+  - name: Schlachterei
+    type: building
+  - name: Bäckerei Lüders
+    type: building
+  - name: Gustav Schulz
+    type: person
+parents:
+  - 01FTBRH4CY1NRQ8V7FMPS575HJ
+  - 01JGPFTKQXNYFFYDJ57GMWQASN
+files:
+  - role: main
+    original_name: scan_918.tif
+    path: files/ad/34/ad34b7c50a95bbde7fa696b9f719aba885044c725008f6b11b6c4ce9371a2b95/original.tif
+    sha256: ad34b7c50a95bbde7fa696b9f719aba885044c725008f6b11b6c4ce9371a2b95
+    mime: image/tiff
+    bytes: 16152062
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ad/34/ad34b7c50a95bbde7fa696b9f719aba885044c725008f6b11b6c4ce9371a2b95/preview-400.1f403424ac47.jpg
+        sha256: 1f403424ac476b528b970346df9efd9782c0c3b2140a93bf95902c07ebbece09
+        mime: image/jpeg
+        bytes: 86485
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01KZGV0YMBVWAE3AWG7GTZJSKJ
+type: image
+subtype: plan
+title: Bauplan Windmühle 1937
+description: Tusche auf Transparentpapier.
+date: 1937-10
+location: Holtorf, Schulstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 1
+subjects:
+  - name: Fastnacht 1937
+    type: event
+parents:
+  - 01FWDEQ7341YMQ5FKJVM0QZ484
+  - 01FC500G3M1EH4PAW2K7HHB2K0
+files:
+  - role: main
+    original_name: scan_067.tif
+    path: files/8c/d7/8cd7978fef6cdc1a326b8bdc1451c9fcbe9582e4dcac7dadefe62ce25aa0785c/original.tif
+    sha256: 8cd7978fef6cdc1a326b8bdc1451c9fcbe9582e4dcac7dadefe62ce25aa0785c
+    mime: image/tiff
+    bytes: 1911425
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8c/d7/8cd7978fef6cdc1a326b8bdc1451c9fcbe9582e4dcac7dadefe62ce25aa0785c/preview-400.0f854ccc45d8.jpg
+        sha256: 0f854ccc45d8beb225107c3a42be13f2b340523e3c96758b1056f6000c756103
+        mime: image/jpeg
+        bytes: 64199
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

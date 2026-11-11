@@ -1,0 +1,50 @@
+id: 01FFZH7XMK4TMM5GZT3F7MK78H
+type: document
+subtype: note
+title: Rechnung Voss, Heuberge, Lenzen
+description: Auf der Rückseite eines Formulars.
+date: 192X
+location: Holtorf, Elbstraße
+geocode:
+  lat: 53.0565
+  lon: 11.5745
+  precision: region
+  source: osm
+origin:
+  name: Fritz Meyer
+  type: person
+  location: Gorleben
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 20/104
+subjects:
+  - name: Erntedankfest 1929
+    type: event
+  - name: Backhaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_7mk78h_001.tif
+    path: files/95/51/955164d2b75e6923d95c19132dd15c1c60a8a7c2439b6c0105afe81ef7f69d46/original.tif
+    sha256: 955164d2b75e6923d95c19132dd15c1c60a8a7c2439b6c0105afe81ef7f69d46
+    mime: image/tiff
+    bytes: 24578772
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/51/955164d2b75e6923d95c19132dd15c1c60a8a7c2439b6c0105afe81ef7f69d46/preview-400.a5a7d924e5b2.jpg
+        sha256: a5a7d924e5b23ddfcb35af854c7542020143f8af69be02fa4a9eca869bca3794
+        mime: image/jpeg
+        bytes: 68249
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Person links unbekannt.

@@ -1,0 +1,42 @@
+id: 01JDG8K9FHY6TETG2TK5MT2V1H
+type: image
+subtype: print
+title: "Kupferstich: Gollensdorf von der Elbseite, Lenzen"
+date: 1752-02-17
+location: Nienwalde, Lange Straße
+geocode:
+  lat: 52.9862
+  lon: 11.4663
+  precision: town
+  source: osm
+origin:
+  name: Berta Lemke
+  type: person
+  location: Arendsee
+subjects:
+  - name: Lanz
+    type: place
+  - name: Tischlerei Bruns
+    type: building
+  - name: Poststelle
+    type: building
+files:
+  - role: main
+    original_name: scan_903.tif
+    path: files/d6/3c/d63c7ad33f5aa35792917a7ac07355702786d4fdfef4e2f00c36f1c6c2175e78/original.tif
+    sha256: d63c7ad33f5aa35792917a7ac07355702786d4fdfef4e2f00c36f1c6c2175e78
+    mime: image/tiff
+    bytes: 8784934
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d6/3c/d63c7ad33f5aa35792917a7ac07355702786d4fdfef4e2f00c36f1c6c2175e78/preview-400.9aa5091255cb.jpg
+        sha256: 9aa5091255cb33127a5b4c4ddd0f6ff71686b772a19c933f281a50dd3ea74b7a
+        mime: image/jpeg
+        bytes: 73235
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

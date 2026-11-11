@@ -1,0 +1,38 @@
+id: 01KPXBAH915VVM4QG8RG0T3ANW
+type: image
+subtype: plan
+title: Deichplan Dömitz bis Brünkendorf
+description: Tusche auf Transparentpapier.
+date: 1933-01-08
+location: Wittenberge, Tanzsaal
+origin:
+  name: Irmgard Tiedemann
+  type: person
+  location: Restorf
+subjects:
+  - name: Lanz
+    type: place
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Brünkendorf
+    type: place
+files:
+  - role: main
+    original_name: scan_260.tif
+    path: files/da/c9/dac9d2e16c668f6e196e4c63b9bfd5a542b7a02a34795220f169484c64027607/original.tif
+    sha256: dac9d2e16c668f6e196e4c63b9bfd5a542b7a02a34795220f169484c64027607
+    mime: image/tiff
+    bytes: 4905742
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/da/c9/dac9d2e16c668f6e196e4c63b9bfd5a542b7a02a34795220f169484c64027607/preview-400.dd34e4e89fc7.jpg
+        sha256: dd34e4e89fc78e23b64bed8b83b71fd101fc26a223c95916308f5ff969d73356
+        mime: image/jpeg
+        bytes: 63594
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

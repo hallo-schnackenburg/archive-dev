@@ -1,0 +1,41 @@
+id: 01JYD1H4F1F6C0W7JGK57AFE32
+type: image
+subtype: plan
+title: Katasterblatt Behrens, Bömenzien
+description: Tusche auf Transparentpapier.
+date: 1822/1827
+location: Dömitz, Elbstraße
+origin:
+  name: Emma Meyer
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Hafen
+    type: building
+  - name: Scheune
+    type: building
+files:
+  - role: main
+    original_name: scan_729.tif
+    path: files/54/e6/54e6269f48530f87b5315d0b3b7a96cc7cad295d235a675ca106c97bbed8f8bb/original.tif
+    sha256: 54e6269f48530f87b5315d0b3b7a96cc7cad295d235a675ca106c97bbed8f8bb
+    mime: image/tiff
+    bytes: 25271804
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/54/e6/54e6269f48530f87b5315d0b3b7a96cc7cad295d235a675ca106c97bbed8f8bb/preview-400.f40b4a12aea5.jpg
+        sha256: f40b4a12aea5db7f80700461923d35f4ef3ed59012bf46e3ef5e8c6ba4e48d67
+        mime: image/jpeg
+        bytes: 71305
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

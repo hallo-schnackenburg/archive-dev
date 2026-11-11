@@ -1,0 +1,45 @@
+id: 01KF84HQREKVQHPXB6W4K8J7ZS
+type: document
+subtype: note
+title: Rechnung Garms, Tischlerei Bruns
+description: Beleg mit Stempel.
+date: 1876-12-21
+location: Holtorf, Am Elbdeich
+geocode:
+  lat: 52.9121
+  lon: 11.6008
+  precision: street
+  source: osm
+origin:
+  name: Walter Nitschke
+  type: person
+  location: Holtorf
+language: de
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Apotheke
+    type: building
+  - name: Schlachtfest 1876
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_k8j7zs_001.tif
+    path: files/95/1f/951fa87fe788a390312f83539eccbd30b65ef7ecf5000b1a8a8bc27c63c8357b/original.tif
+    sha256: 951fa87fe788a390312f83539eccbd30b65ef7ecf5000b1a8a8bc27c63c8357b
+    mime: image/tiff
+    bytes: 5919536
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/1f/951fa87fe788a390312f83539eccbd30b65ef7ecf5000b1a8a8bc27c63c8357b/preview-400.e071b289bfce.jpg
+        sha256: e071b289bfce12cdc7819ab951eaa1ad50096654584528e0a58788a36cf6065b
+        mime: image/jpeg
+        bytes: 64873
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

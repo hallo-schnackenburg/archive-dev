@@ -1,0 +1,46 @@
+id: 01JFGDK2F3GP2M2D0PW1GSKEVR
+type: image
+subtype: plan
+title: Bauplan Ladestraße 1787
+description: Maßstab 1:100.
+date: 1787/1789
+location: Gorleben, Marktstraße
+geocode:
+  lat: 53.0058
+  lon: 11.4566
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  note: Schrank B
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v79103
+subjects:
+  - name: Hochzeit 1787
+    type: event
+  - name: Dömitz
+    type: place
+  - name: Dorffest 1787
+    type: event
+files:
+  - role: main
+    original_name: scan_462.tif
+    path: files/39/58/39583e397b00a332891aea88bd69927ba1a0236ddc395b748a6b936495ab8784/original.tif
+    sha256: 39583e397b00a332891aea88bd69927ba1a0236ddc395b748a6b936495ab8784
+    mime: image/tiff
+    bytes: 26875726
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/39/58/39583e397b00a332891aea88bd69927ba1a0236ddc395b748a6b936495ab8784/preview-400.b20c3f087941.jpg
+        sha256: b20c3f087941f884d7c736f3223da724ddc8e3d845ac7ffc81e927e494d620ab
+        mime: image/jpeg
+        bytes: 41364
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

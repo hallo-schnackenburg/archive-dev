@@ -1,0 +1,46 @@
+id: 01GDSNF19A5ADVQZR9Q59A28WY
+type: image
+subtype: photo
+title: Otto Dierks, Porträt
+description: Aufnahme von Wilhelm Ludolf.
+date: 1940/1950
+location: Bömenzien, Bahnhofstraße
+origin:
+  name: Marta Brandt
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 20/093
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Renate Burmester
+    type: person
+  - name: Hitzacker
+    type: place
+parents:
+  - 01KNHD7DYF112CXGR0WVK2W8DQ
+files:
+  - role: main
+    original_name: IMG_6526.jpg
+    path: files/ef/48/ef4855f7dae8c17f4f1c6b13ed0d86ae546c31f74432506e7519f5bb1b0854b4/original.jpg
+    sha256: ef4855f7dae8c17f4f1c6b13ed0d86ae546c31f74432506e7519f5bb1b0854b4
+    mime: image/jpeg
+    bytes: 10595127
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/ef/48/ef4855f7dae8c17f4f1c6b13ed0d86ae546c31f74432506e7519f5bb1b0854b4/preview-400.9c1fec7d625d.jpg
+        sha256: 9c1fec7d625d9ece382210c903afb06835148f6444a068f8f21ba794fce26d1a
+        mime: image/jpeg
+        bytes: 42842
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

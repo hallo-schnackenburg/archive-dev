@@ -1,0 +1,61 @@
+id: 01HK2QN9FE89Y0T596JVVA8ZVG
+type: document
+subtype: letter
+title: Brief von Käthe Pape an Paul Wegner
+description: Mit Umschlag und Briefmarke.
+date: "1992"
+location: Salzwedel, Mühlenweg
+geocode:
+  lat: 52.9774
+  lon: 11.546
+  precision: exact
+  source: osm
+origin:
+  name: Fritz Lemke
+  type: person
+  location: Pretzier
+language: de
+subjects:
+  - name: Feuerwehrübung 1992
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_va8zvg_001.tif
+    path: files/6c/14/6c14f00aa9383abb0c4641c480a83d07f1c4e44352becf37360e878ad06668e0/original.tif
+    sha256: 6c14f00aa9383abb0c4641c480a83d07f1c4e44352becf37360e878ad06668e0
+    mime: image/tiff
+    bytes: 27252292
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6c/14/6c14f00aa9383abb0c4641c480a83d07f1c4e44352becf37360e878ad06668e0/preview-400.e94f5c239449.jpg
+        sha256: e94f5c2394492be81cb0f6a42869ddff3f586322a32c8100834cb84738b8db35
+        mime: image/jpeg
+        bytes: 58585
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_va8zvg_002.tif
+    path: files/25/93/2593ebdaa125f36f66b3a694fe206b462305ba1e8c402c04fbb6eb0f9c602146/original.tif
+    sha256: 2593ebdaa125f36f66b3a694fe206b462305ba1e8c402c04fbb6eb0f9c602146
+    mime: image/tiff
+    bytes: 12157562
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/25/93/2593ebdaa125f36f66b3a694fe206b462305ba1e8c402c04fbb6eb0f9c602146/preview-400.9a0efc649eba.jpg
+        sha256: 9a0efc649eba2f8872f2743f3088d40e6f27a27f7a71b893cf791b3ae93df7cb
+        mime: image/jpeg
+        bytes: 79214
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

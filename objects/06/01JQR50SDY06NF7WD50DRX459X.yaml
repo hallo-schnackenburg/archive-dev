@@ -1,0 +1,42 @@
+id: 01JQR50SDY06NF7WD50DRX459X
+type: image
+subtype: photo
+title: Otto Voss vor dem Hafen
+date: 1918-12
+location: Rüterberg, Gartenstraße
+geocode:
+  lat: 53.0511
+  lon: 11.579
+  precision: region
+  source: osm
+origin:
+  name: Gisela Rohde
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 20/185
+  note: Mappe 12
+files:
+  - role: main
+    original_name: P7963.jpg
+    path: files/02/74/02748a8f47f77e2c7cba9df566c24ce1de5ec3b11044f81be237202e065c9864/original.jpg
+    sha256: 02748a8f47f77e2c7cba9df566c24ce1de5ec3b11044f81be237202e065c9864
+    mime: image/jpeg
+    bytes: 17968978
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/02/74/02748a8f47f77e2c7cba9df566c24ce1de5ec3b11044f81be237202e065c9864/preview-400.bfb927a44085.jpg
+        sha256: bfb927a44085d5445c7e0d4e0ba4cc1efa373dd2c0975c823b04ddaf9baf61c4
+        mime: image/jpeg
+        bytes: 58273
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

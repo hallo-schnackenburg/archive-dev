@@ -1,0 +1,63 @@
+id: 01H79DG2Y3V09XV0RAKJ8NCDGT
+type: document
+subtype: protocol
+title: Protokoll des Stadtrat vom 2003
+description: Handschriftlich in Sütterlin.
+date: "2003"
+origin:
+  name: Finanzausschuss Wootz
+  type: business
+  location: Cumlosen
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br/Mappe 11/011
+subjects:
+  - name: Laase
+    type: place
+  - name: Tischlerei Bruns
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: protocol_8ncdgt_001.tif
+    path: files/40/75/40750e3d0ac901d67aa1fe78f0bbaa27b730150223c89b8f65efd7385fd16fb0/original.tif
+    sha256: 40750e3d0ac901d67aa1fe78f0bbaa27b730150223c89b8f65efd7385fd16fb0
+    mime: image/tiff
+    bytes: 500369
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/75/40750e3d0ac901d67aa1fe78f0bbaa27b730150223c89b8f65efd7385fd16fb0/preview-400.dfb71c28fd15.jpg
+        sha256: dfb71c28fd15a18a55f1f98a0d1bec87c7aa7e587f5d5da94465034aab5f4dec
+        mime: image/jpeg
+        bytes: 65212
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_8ncdgt_002.tif
+    path: files/83/9d/839d5c2c5d240794ba684f95ef4aa937a068d4ad3dda6d16e81c5563e57629b9/original.tif
+    sha256: 839d5c2c5d240794ba684f95ef4aa937a068d4ad3dda6d16e81c5563e57629b9
+    mime: image/tiff
+    bytes: 19950019
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/83/9d/839d5c2c5d240794ba684f95ef4aa937a068d4ad3dda6d16e81c5563e57629b9/preview-400.620378844d42.jpg
+        sha256: 620378844d4229149d34bd78517fe387bfecf34f7bd2febea5351fd818e26bc0
+        mime: image/jpeg
+        bytes: 58256
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

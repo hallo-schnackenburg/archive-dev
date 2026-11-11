@@ -1,0 +1,40 @@
+id: 01J86AV5ERPF9P3021QT05G9AM
+type: image
+subtype: print
+title: "Kupferstich: Wootz von der Elbseite, Pretzier"
+description: Kupferstich, koloriert.
+date: 1709~
+location: Havelberg, Dorfstraße
+origin:
+  name: Otto Bohlmann
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Kirmes 1709
+    type: event
+  - name: Anni Schwarz
+    type: person
+parents:
+  - 01H40DBW3NVXVHMCXP864M4XJA
+files:
+  - role: main
+    original_name: scan_413.tif
+    path: files/d9/7f/d97f7f2b3889b4f4ec8902a11aeb60a5845c24b1a707fa70012098c511545374/original.tif
+    sha256: d97f7f2b3889b4f4ec8902a11aeb60a5845c24b1a707fa70012098c511545374
+    mime: image/tiff
+    bytes: 2374601
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d9/7f/d97f7f2b3889b4f4ec8902a11aeb60a5845c24b1a707fa70012098c511545374/preview-400.0d275f880276.jpg
+        sha256: 0d275f8802768456ac444109ed3a6f5f517bd9a15d671b66fc9a06751f1f9f2a
+        mime: image/jpeg
+        bytes: 51362
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

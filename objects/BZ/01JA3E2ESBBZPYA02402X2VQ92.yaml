@@ -1,0 +1,32 @@
+id: 01JA3E2ESBBZPYA02402X2VQ92
+type: image
+subtype: photo
+title: Blick vom Sportplatz auf das Försterei
+description: Zu sehen sind Försterei und Fähranleger.
+origin:
+  name: Dieter Lemke
+  type: person
+  location: Pretzier
+parents:
+  - 01GZR4MDFA5EQY40GSVWP94FQ3
+  - 01KXD1F75H1JZH7SDYYBNHXZ0A
+files:
+  - role: main
+    original_name: P4745.jpg
+    path: files/fd/3d/fd3d909fefa61773b5bf4a9be22fc3908bab3e94e57ee78ccfc6972659e0e96c/original.jpg
+    sha256: fd3d909fefa61773b5bf4a9be22fc3908bab3e94e57ee78ccfc6972659e0e96c
+    mime: image/jpeg
+    bytes: 17618382
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/fd/3d/fd3d909fefa61773b5bf4a9be22fc3908bab3e94e57ee78ccfc6972659e0e96c/preview-400.a35ca2740380.jpg
+        sha256: a35ca27403808e59046585bd2d98ca02cd72577501d8caf8031a5776e4429758
+        mime: image/jpeg
+        bytes: 75455
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

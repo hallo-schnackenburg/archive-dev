@@ -1,0 +1,39 @@
+id: 01JWE1D6CZQH4DD67AVV3VRX5Y
+type: image
+subtype: photo
+title: Fastnacht 1955
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1955-01
+location: Gülden, Hinter den Höfen
+origin:
+  name: Hans Voss
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Gollensdorf
+  reference: Plan/Mappe 18/043
+parents:
+  - 01HRVYM45E9Q1MV4SZNSP2VQV9
+files:
+  - role: main
+    original_name: scan_125.tif
+    path: files/04/6c/046c612c98ae60d264e3582a0994ea88fb9dda4ae3449316b1cd1028695d0202/original.tif
+    sha256: 046c612c98ae60d264e3582a0994ea88fb9dda4ae3449316b1cd1028695d0202
+    mime: image/tiff
+    bytes: 27756573
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/6c/046c612c98ae60d264e3582a0994ea88fb9dda4ae3449316b1cd1028695d0202/preview-400.6c1459c55af1.jpg
+        sha256: 6c1459c55af154aca73900d40688a2c36cc3d8b1dc29e07ded0beb78dabc57b9
+        mime: image/jpeg
+        bytes: 48942
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

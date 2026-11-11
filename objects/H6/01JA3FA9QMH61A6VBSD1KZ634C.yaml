@@ -1,0 +1,49 @@
+id: 01JA3FA9QMH61A6VBSD1KZ634C
+type: image
+subtype: photo
+title: Feuerwehrübung der Handwerkerinnung
+description: Abzug im Format 13 x 18 cm.
+date: 1903-04-03
+location: Havelberg, Lange Straße
+geocode:
+  lat: 52.9987
+  lon: 11.4778
+  precision: region
+  source: osm
+origin:
+  name: Erika Meyer
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Mappe 30/025
+subjects:
+  - name: Erika Dreyer
+    type: person
+  - name: Dömitz
+    type: place
+  - name: Dorfladen
+    type: building
+files:
+  - role: main
+    original_name: foto_6787.jpg
+    path: files/4f/7f/4f7fa00f59254a4dc5dd63d9b924451db74591549c240b16a2c189fb111ff60e/original.jpg
+    sha256: 4f7fa00f59254a4dc5dd63d9b924451db74591549c240b16a2c189fb111ff60e
+    mime: image/jpeg
+    bytes: 25631001
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/4f/7f/4f7fa00f59254a4dc5dd63d9b924451db74591549c240b16a2c189fb111ff60e/preview-400.c97e8727407f.jpg
+        sha256: c97e8727407f3529e22bf0d745c8933b1fa0070775cd11c4335b8b96fae0f894
+        mime: image/jpeg
+        bytes: 42185
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

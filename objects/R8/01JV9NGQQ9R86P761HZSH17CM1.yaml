@@ -1,0 +1,41 @@
+id: 01JV9NGQQ9R86P761HZSH17CM1
+type: image
+subtype: print
+title: Lithographie Gemeindehaus, Zadrau
+date: 1714/1725
+location: Cumlosen, Kegelbahn
+origin:
+  name: Marta Lüders
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 1/099
+subjects:
+  - name: Molkerei
+    type: building
+parents:
+  - 01GP24D2SDXXFWEGVD1MK92BK9
+files:
+  - role: main
+    original_name: scan_558.tif
+    path: files/ca/12/ca1285cad894750fec5d41d608fd16d437e043b855b02a8d6c374a41f5b5ac67/original.tif
+    sha256: ca1285cad894750fec5d41d608fd16d437e043b855b02a8d6c374a41f5b5ac67
+    mime: image/tiff
+    bytes: 11930261
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ca/12/ca1285cad894750fec5d41d608fd16d437e043b855b02a8d6c374a41f5b5ac67/preview-400.8d7a9711216b.jpg
+        sha256: 8d7a9711216b732221582e7ee1590d0f260eae34e272cfffccfb1eaa320d5def
+        mime: image/jpeg
+        bytes: 24863
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

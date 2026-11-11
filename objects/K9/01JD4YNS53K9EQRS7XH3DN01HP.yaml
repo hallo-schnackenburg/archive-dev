@@ -1,0 +1,40 @@
+id: 01JD4YNS53K9EQRS7XH3DN01HP
+type: image
+subtype: plan
+title: Deichplan Gülden bis Cumlosen
+date: 194X
+location: Gorleben, Fährstraße
+origin:
+  name: August Sievers
+  type: person
+  location: Seedorf
+subjects:
+  - name: Hermann Meyer
+    type: person
+  - name: Arendsee
+    type: place
+  - name: Rudolf Meyer
+    type: person
+parents:
+  - 01KV80DFXW7572XGFSJ9A620CH
+  - 01KC4MRSQCBP77C8MHDY1DBTTR
+files:
+  - role: main
+    original_name: scan_084.tif
+    path: files/98/b9/98b9038cbb7a342b6123c51edae59e6e5111cfb2196b1b473641127f6fa907a8/original.tif
+    sha256: 98b9038cbb7a342b6123c51edae59e6e5111cfb2196b1b473641127f6fa907a8
+    mime: image/tiff
+    bytes: 630913
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/98/b9/98b9038cbb7a342b6123c51edae59e6e5111cfb2196b1b473641127f6fa907a8/preview-400.96b42408dadb.jpg
+        sha256: 96b42408dadb63215d3b90946c2bb2ca31a46cfe41f53eee0e7e7037ea91849b
+        mime: image/jpeg
+        bytes: 34785
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

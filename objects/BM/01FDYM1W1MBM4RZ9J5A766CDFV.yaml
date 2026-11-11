@@ -1,0 +1,36 @@
+id: 01FDYM1W1MBM4RZ9J5A766CDFV
+type: image
+subtype: plan
+title: Bauplan Ladestraße 1950
+date: 1950-07
+origin:
+  name: Hedwig Wiese
+  type: person
+  location: Holtorf
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Ziegelei
+    type: building
+parents:
+  - 01F5CJH4Q7NJEW1D0ZXEW20ZNC
+files:
+  - role: main
+    original_name: scan_879.tif
+    path: files/05/05/0505c3263c522b8fa295cf4245bc81d08638c6298bd25f6e4e7198d1fc932199/original.tif
+    sha256: 0505c3263c522b8fa295cf4245bc81d08638c6298bd25f6e4e7198d1fc932199
+    mime: image/tiff
+    bytes: 26173981
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/05/0505c3263c522b8fa295cf4245bc81d08638c6298bd25f6e4e7198d1fc932199/preview-400.652ff2c17db8.jpg
+        sha256: 652ff2c17db8bb4a6171a472becdafb1f4eb6f9115f8d1a8aee2ef7bec07db10
+        mime: image/jpeg
+        bytes: 61398
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01FGRE41AJGHEBVDDD34YEK12X
+type: image
+subtype: plan
+title: Bauplan Sparkasse 1908
+description: Maßstab 1:1000.
+date: "1908"
+location: Lüchow, Kirchstraße
+origin:
+  name: Wilhelm Heuer
+  type: person
+  location: Lüchow
+subjects:
+  - name: Einschulung 1908
+    type: event
+parents:
+  - 01K0DYSTF2EJ283ADN76W7FBTC
+files:
+  - role: main
+    original_name: scan_277.tif
+    path: files/5c/d0/5cd0fa356ab6d644dac91c4bb898ecbde93e3df5b2a12cdf205d91c1908e23f3/original.tif
+    sha256: 5cd0fa356ab6d644dac91c4bb898ecbde93e3df5b2a12cdf205d91c1908e23f3
+    mime: image/tiff
+    bytes: 9533618
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5c/d0/5cd0fa356ab6d644dac91c4bb898ecbde93e3df5b2a12cdf205d91c1908e23f3/preview-400.1429d8686731.jpg
+        sha256: 1429d868673136f113e0e0731a8767932e8cd46a490ba2b6f20509fae84f9520
+        mime: image/jpeg
+        bytes: 21455
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

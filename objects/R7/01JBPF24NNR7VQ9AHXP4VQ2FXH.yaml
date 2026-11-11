@@ -1,0 +1,38 @@
+id: 01JBPF24NNR7VQ9AHXP4VQ2FXH
+type: image
+subtype: photo
+title: Blick vom Kaufmannshaus auf das Grenzturm
+description: Farbfoto, leicht verblasst.
+origin:
+  name: Heinrich Schwarz
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Straßenfest 1891
+    type: event
+files:
+  - role: main
+    original_name: foto_4437.jpg
+    path: files/cf/3b/cf3b4c6795d91cdb892f6d8b9363bf95363bbc945315c0f21124e2b743733fed/original.jpg
+    sha256: cf3b4c6795d91cdb892f6d8b9363bf95363bbc945315c0f21124e2b743733fed
+    mime: image/jpeg
+    bytes: 7150998
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/cf/3b/cf3b4c6795d91cdb892f6d8b9363bf95363bbc945315c0f21124e2b743733fed/preview-400.602bc1f1c4f7.jpg
+        sha256: 602bc1f1c4f7ed3774883ce90087bef772778d0c44b597fa8a978ee2a92e5d9d
+        mime: image/jpeg
+        bytes: 64078
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

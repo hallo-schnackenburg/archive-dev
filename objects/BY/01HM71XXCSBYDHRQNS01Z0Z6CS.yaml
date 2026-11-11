@@ -1,0 +1,44 @@
+id: 01HM71XXCSBYDHRQNS01Z0Z6CS
+type: image
+subtype: photo
+title: Gerda Lemke vor dem Dorfkrug
+date: 1940-04
+location: Bömenzien, Mühlenweg
+geocode:
+  lat: 53.0465
+  lon: 11.6535
+  precision: town
+  source: osm
+origin:
+  name: Ilse Lemke
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Osterfeuer 1940
+    type: event
+  - name: Schnackenburg
+    type: place
+  - name: Hochwasser 1940
+    type: event
+parents:
+  - 01EZC5C07CZY0ETCK5VD296P3F
+files:
+  - role: main
+    original_name: scan_433.tif
+    path: files/d0/cc/d0cc07a9229d7faca1b6d9bc4803c22409bd6df163c8ed3d02e5e27d50ac0ac9/original.tif
+    sha256: d0cc07a9229d7faca1b6d9bc4803c22409bd6df163c8ed3d02e5e27d50ac0ac9
+    mime: image/tiff
+    bytes: 21275583
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d0/cc/d0cc07a9229d7faca1b6d9bc4803c22409bd6df163c8ed3d02e5e27d50ac0ac9/preview-400.1db5a2367f06.jpg
+        sha256: 1db5a2367f066b46d98e9e2c7fe2c6d8e4d6bdda26963f825645c63f1d57def8
+        mime: image/jpeg
+        bytes: 35969
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

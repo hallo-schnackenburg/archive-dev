@@ -1,0 +1,38 @@
+id: 01JDBM120PN3PJRE9X1B4G7T84
+type: image
+subtype: print
+title: Postkarte Bömenzien, Torhaus
+description: Postkarte, gelaufen 1949.
+location: Salzwedel, Gasthof „Zur Elbe“
+origin:
+  name: Erika Krüger
+  type: person
+  location: Gartow
+subjects:
+  - name: Lotte Voss
+    type: person
+  - name: Grenzturm
+    type: building
+parents:
+  - 01KEEQTF18ZM4ZAMFBC1AXYQ8V
+  - 01EWYE51ZQTFTFRZH9QFSNZE0B
+files:
+  - role: main
+    original_name: scan_514.tif
+    path: files/49/2d/492d0105bf31312f3aa975a003179371316420ecfd4e40f4da9b4becb66ce7c7/original.tif
+    sha256: 492d0105bf31312f3aa975a003179371316420ecfd4e40f4da9b4becb66ce7c7
+    mime: image/tiff
+    bytes: 6181513
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/49/2d/492d0105bf31312f3aa975a003179371316420ecfd4e40f4da9b4becb66ce7c7/preview-400.0b8e6c2a3731.jpg
+        sha256: 0b8e6c2a373158093dd636b254e5af99c835022e32489ca78aba5a2251a24436
+        mime: image/jpeg
+        bytes: 32322
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

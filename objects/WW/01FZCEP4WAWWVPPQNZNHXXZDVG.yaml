@@ -1,0 +1,45 @@
+id: 01FZCEP4WAWWVPPQNZNHXXZDVG
+type: image
+subtype: photo
+title: Dorfkrug nach dem Richtfest
+description: Farbfoto, leicht verblasst.
+date: 1967-08-12
+location: Wootz, Marktstraße
+geocode:
+  lat: 52.9449
+  lon: 11.4532
+  precision: exact
+  source: osm
+origin:
+  name: Karl Lüders
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Windmühle
+    type: building
+  - name: Rüterberg
+    type: place
+  - name: Weihnachtsmarkt 1967
+    type: event
+parents:
+  - 01HDS44JS4B8GN7QC5M5DZA42B
+files:
+  - role: main
+    original_name: IMG_0715.jpg
+    path: files/bc/e9/bce919bfeb591c8746f36970174d728a82ac6522528a8471df9e61228e09da10/original.jpg
+    sha256: bce919bfeb591c8746f36970174d728a82ac6522528a8471df9e61228e09da10
+    mime: image/jpeg
+    bytes: 1760716
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/bc/e9/bce919bfeb591c8746f36970174d728a82ac6522528a8471df9e61228e09da10/preview-400.f6dcac4f4e28.jpg
+        sha256: f6dcac4f4e2830bcb4607b8565d5f848ba0ec1e4f7140b695423d5658f8f7b5f
+        mime: image/jpeg
+        bytes: 46134
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

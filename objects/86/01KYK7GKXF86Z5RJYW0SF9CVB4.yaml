@@ -1,0 +1,37 @@
+id: 01KYK7GKXF86Z5RJYW0SF9CVB4
+type: image
+subtype: photo
+title: Elfriede Voss vor dem Heuberge
+date: "1906"
+location: Nienwalde, Am Elbdeich
+geocode:
+  lat: 53.0715
+  lon: 11.4543
+  precision: region
+  source: osm
+origin:
+  name: Hans Jeß
+  type: person
+  location: Wittenberge
+parents:
+  - 01K17ANV6BS1YN44GQNBJ2A6CF
+files:
+  - role: main
+    original_name: P7743.jpg
+    path: files/26/b5/26b5bc525b839c71a5f42468a2b9a41f9763a577bf89af44893fac78f8983598/original.jpg
+    sha256: 26b5bc525b839c71a5f42468a2b9a41f9763a577bf89af44893fac78f8983598
+    mime: image/jpeg
+    bytes: 3806983
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/26/b5/26b5bc525b839c71a5f42468a2b9a41f9763a577bf89af44893fac78f8983598/preview-400.3faac6c0920b.jpg
+        sha256: 3faac6c0920bb69a9be8c799229d1d6d2c5a84cd9558948a99c7288fcd7abf32
+        mime: image/jpeg
+        bytes: 85420
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

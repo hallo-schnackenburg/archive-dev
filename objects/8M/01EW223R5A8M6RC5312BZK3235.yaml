@@ -1,0 +1,43 @@
+id: 01EW223R5A8M6RC5312BZK3235
+type: image
+subtype: drawing
+title: Skizze Gorleben, Hinter den Höfen
+description: Mit Anmerkungen am Rand.
+date: 1866/1876
+location: Kapern, Bahnhof
+geocode:
+  lat: 52.9763
+  lon: 11.4939
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v78264
+subjects:
+  - name: Dorffest 1866
+    type: event
+parents:
+  - 01KTZKC2A5R5HHQXVWXFS5SF60
+files:
+  - role: main
+    original_name: scan_463.tif
+    path: files/41/ab/41ab47823dc7b26f6af1e610434b4089d7d27c9a78fdf64184241e3bcdf5e99d/original.tif
+    sha256: 41ab47823dc7b26f6af1e610434b4089d7d27c9a78fdf64184241e3bcdf5e99d
+    mime: image/tiff
+    bytes: 915250
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/41/ab/41ab47823dc7b26f6af1e610434b4089d7d27c9a78fdf64184241e3bcdf5e99d/preview-400.eb66745fae33.jpg
+        sha256: eb66745fae3340172c5b71cf8b29c1dcd5e9c2da6b2ab367910416739e9040a1
+        mime: image/jpeg
+        bytes: 43807
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

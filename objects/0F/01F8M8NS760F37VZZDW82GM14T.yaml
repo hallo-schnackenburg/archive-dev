@@ -1,0 +1,58 @@
+id: 01F8M8NS760F37VZZDW82GM14T
+type: document
+subtype: letter
+title: Feldpostbrief von Albert Meyer
+location: Wittenberge, Heuberge
+geocode:
+  lat: 53.032
+  lon: 11.5245
+  precision: exact
+  source: osm
+recipient: Karl Wegner
+language: de
+subjects:
+  - name: Schlachterei
+    type: building
+parents:
+  - 01JR4AKNGZNYFV9JQXZ29K40BD
+files:
+  - role: page
+    num: 1
+    original_name: letter_2gm14t_001.tif
+    path: files/ae/c1/aec128cfa1ace8db737898edece9af8548fa90fd6cccd06c65b281d5a4305fef/original.tif
+    sha256: aec128cfa1ace8db737898edece9af8548fa90fd6cccd06c65b281d5a4305fef
+    mime: image/tiff
+    bytes: 24870283
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ae/c1/aec128cfa1ace8db737898edece9af8548fa90fd6cccd06c65b281d5a4305fef/preview-400.692dea969ab1.jpg
+        sha256: 692dea969ab16a897ff6b6a0a97d3a8ba0ee5fd17a21403b688d2a2d1916c1a7
+        mime: image/jpeg
+        bytes: 83792
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_2gm14t_002.tif
+    path: files/20/e3/20e3d24177b8ee9cce5718e5462d7f0bc204f364a7f461aa826c1a4ef747bb99/original.tif
+    sha256: 20e3d24177b8ee9cce5718e5462d7f0bc204f364a7f461aa826c1a4ef747bb99
+    mime: image/tiff
+    bytes: 18320328
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/20/e3/20e3d24177b8ee9cce5718e5462d7f0bc204f364a7f461aa826c1a4ef747bb99/preview-400.ab63de24e4cf.jpg
+        sha256: ab63de24e4cffed7350373d9189af6565d34f676cffe871482af889563055822
+        mime: image/jpeg
+        bytes: 56899
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

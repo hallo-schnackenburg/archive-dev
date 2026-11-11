@@ -1,0 +1,48 @@
+id: 01HS13WTZACJVC4CT5X3SW08NQ
+type: image
+subtype: drawing
+title: Skizze Gollensdorf, Kirchstraße, Salzwedel
+description: Mit Anmerkungen am Rand.
+location: Nienwalde, Am Markt
+geocode:
+  lat: 52.9854
+  lon: 11.559
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v58888
+owner:
+  name: August Prieß
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Scheune
+    type: building
+parents:
+  - 01KT1B4YZD11RXC8P8PMNGFW3D
+files:
+  - role: main
+    original_name: scan_134.tif
+    path: files/67/0b/670b5b9aed5ff13c95f2c258e9660fcc151800be0d4d2d6386078ba638a306ee/original.tif
+    sha256: 670b5b9aed5ff13c95f2c258e9660fcc151800be0d4d2d6386078ba638a306ee
+    mime: image/tiff
+    bytes: 14732258
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/67/0b/670b5b9aed5ff13c95f2c258e9660fcc151800be0d4d2d6386078ba638a306ee/preview-400.bde68f44bdbc.jpg
+        sha256: bde68f44bdbc5ec5f1680e84b77cb2353e1d50135779983eb9ed25b45b71f645
+        mime: image/jpeg
+        bytes: 42015
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

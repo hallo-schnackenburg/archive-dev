@@ -1,0 +1,35 @@
+id: 01JC9JM4GXAM54WHE6C76S5YFT
+type: image
+subtype: photo
+title: Klaus Lenz, Porträt
+description: Farbfoto, leicht verblasst.
+date: "1997"
+origin:
+  name: Rudolf Ahrens
+  type: person
+  location: Zadrau
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Schnackenburg
+    type: place
+files:
+  - role: main
+    original_name: IMG_1042.jpg
+    path: files/d9/06/d90612086362a067b7a659ebc0f879b8883e8f8cfab44092baccf2b8bc88c192/original.jpg
+    sha256: d90612086362a067b7a659ebc0f879b8883e8f8cfab44092baccf2b8bc88c192
+    mime: image/jpeg
+    bytes: 6420662
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/d9/06/d90612086362a067b7a659ebc0f879b8883e8f8cfab44092baccf2b8bc88c192/preview-400.410fc88092b6.jpg
+        sha256: 410fc88092b614f3714f6841bd22317a03208d6310b000c23af15c1b78408dae
+        mime: image/jpeg
+        bytes: 84319
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

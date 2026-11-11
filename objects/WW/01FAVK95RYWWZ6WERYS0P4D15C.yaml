@@ -1,0 +1,45 @@
+id: 01FAVK95RYWWZ6WERYS0P4D15C
+type: image
+subtype: print
+title: Postkarte Nienwalde, Dorfkrug
+description: Kupferstich, koloriert.
+date: 1922-08-23
+origin:
+  name: Gerda Krüger
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 19/086
+subjects:
+  - name: Schlachtfest 1922
+    type: event
+  - name: Dorfteich
+    type: building
+  - name: Gartow
+    type: place
+parents:
+  - 01GNNQS1KVEQJ32KJGCMCP797M
+files:
+  - role: main
+    original_name: scan_993.tif
+    path: files/84/e9/84e95c632536efbe3e7a10a9f250b17f7471d1c39fb488943a2d0bdf16d60e08/original.tif
+    sha256: 84e95c632536efbe3e7a10a9f250b17f7471d1c39fb488943a2d0bdf16d60e08
+    mime: image/tiff
+    bytes: 12393521
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/84/e9/84e95c632536efbe3e7a10a9f250b17f7471d1c39fb488943a2d0bdf16d60e08/preview-400.2f668dee1601.jpg
+        sha256: 2f668dee1601526dac0867b3272280e1ed707aa886a34f92c72340b13ed93fa0
+        mime: image/jpeg
+        bytes: 83777
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

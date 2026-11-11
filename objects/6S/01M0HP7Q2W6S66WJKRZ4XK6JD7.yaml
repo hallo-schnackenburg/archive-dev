@@ -1,0 +1,89 @@
+id: 01M0HP7Q2W6S66WJKRZ4XK6JD7
+type: document
+subtype: letter
+title: Zeugnis für Hans Bohlmann
+description: Maschinenschriftlich, unterschrieben.
+date: 1959/1968
+location: Lanz, Ladestraße
+geocode:
+  lat: 52.9228
+  lon: 11.553
+  precision: street
+  source: osm
+origin:
+  name: Karl Jeß
+  type: person
+  location: Gülden
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F 21/361
+subjects:
+  - name: Pfarrhaus
+    type: building
+parents:
+  - 01J08P48B9HRVCXCZGRJBPCQ14
+files:
+  - role: page
+    num: 1
+    original_name: letter_xk6jd7_001.tif
+    path: files/92/03/920326a86423c75047bdd282692fd974c4962aecbc22e68da7578d0350a5c4fb/original.tif
+    sha256: 920326a86423c75047bdd282692fd974c4962aecbc22e68da7578d0350a5c4fb
+    mime: image/tiff
+    bytes: 13233026
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/03/920326a86423c75047bdd282692fd974c4962aecbc22e68da7578d0350a5c4fb/preview-400.fabc36976b68.jpg
+        sha256: fabc36976b68b360ca03ec511a54258ad8868d1a7e5b5b761d31d90e1e3e684c
+        mime: image/jpeg
+        bytes: 71264
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_xk6jd7_002.tif
+    path: files/57/68/57689e089ee1625ed0c275dce48e60920627548e63f3b5dae900ce20f3bb951b/original.tif
+    sha256: 57689e089ee1625ed0c275dce48e60920627548e63f3b5dae900ce20f3bb951b
+    mime: image/tiff
+    bytes: 9759827
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/68/57689e089ee1625ed0c275dce48e60920627548e63f3b5dae900ce20f3bb951b/preview-400.7009463d6261.jpg
+        sha256: 7009463d6261f349c1e7195419648b393da23e6f3dfbefd7110e1e301b57c31a
+        mime: image/jpeg
+        bytes: 30671
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_xk6jd7_003.tif
+    path: files/84/ec/84ecf5719cac8dc581644efc1b28ff1f94f1fbdfbfe4616ba8088142c816a75f/original.tif
+    sha256: 84ecf5719cac8dc581644efc1b28ff1f94f1fbdfbfe4616ba8088142c816a75f
+    mime: image/tiff
+    bytes: 11386967
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/84/ec/84ecf5719cac8dc581644efc1b28ff1f94f1fbdfbfe4616ba8088142c816a75f/preview-400.454948212ec8.jpg
+        sha256: 454948212ec8729b8023883aac888b1275b0ed13f0eb624a531896cfcf4daf18
+        mime: image/jpeg
+        bytes: 84240
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

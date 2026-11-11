@@ -1,0 +1,39 @@
+id: 01GXJXA6SZ2MYQH14CGJXJJRH4
+type: image
+subtype: drawing
+title: Skizze Restorf, Burgstraße
+date: 1912-10-20
+origin:
+  name: Frieda Rieke
+  type: person
+  location: Wustrow
+subjects:
+  - name: Ortsbesichtigung 1912
+    type: event
+  - name: Deicharbeiten 1912
+    type: event
+  - name: Wootz
+    type: place
+parents:
+  - 01H5DZWSA252A4P3AWD6J9T3TK
+  - 01JRGX3XFSMSVNN02PC0NNSHZP
+files:
+  - role: main
+    original_name: scan_737.tif
+    path: files/13/06/1306377597cfcc19c1890cec9fe55ae12fdc87bd30d6b624a9628c4ff091bb97/original.tif
+    sha256: 1306377597cfcc19c1890cec9fe55ae12fdc87bd30d6b624a9628c4ff091bb97
+    mime: image/tiff
+    bytes: 19301719
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/13/06/1306377597cfcc19c1890cec9fe55ae12fdc87bd30d6b624a9628c4ff091bb97/preview-400.034a0a7ff753.jpg
+        sha256: 034a0a7ff75370c33ef5d45aa15996c767a91b73d4fdddd9bf9b3f837e3d140e
+        mime: image/jpeg
+        bytes: 51678
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

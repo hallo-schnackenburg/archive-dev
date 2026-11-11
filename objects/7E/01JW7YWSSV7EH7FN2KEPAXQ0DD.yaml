@@ -1,0 +1,37 @@
+id: 01JW7YWSSV7EH7FN2KEPAXQ0DD
+type: image
+subtype: plan
+title: Bauplan Badestelle 1924
+description: Tusche auf Transparentpapier.
+date: 1924-09
+origin:
+  name: Marta Dierks
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 15/282
+  note: Planschrank, Fach 3
+files:
+  - role: main
+    original_name: scan_312.tif
+    path: files/72/94/7294f6cd4f67fb9be9e35b906ddd4cf7f66fefa1affda981b13923db3cf84e8d/original.tif
+    sha256: 7294f6cd4f67fb9be9e35b906ddd4cf7f66fefa1affda981b13923db3cf84e8d
+    mime: image/tiff
+    bytes: 11258297
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/72/94/7294f6cd4f67fb9be9e35b906ddd4cf7f66fefa1affda981b13923db3cf84e8d/preview-400.c3ce47aec166.jpg
+        sha256: c3ce47aec166854e9a2d9ae450633ca33d0ec219464d767ce0eb037327230eb5
+        mime: image/jpeg
+        bytes: 89859
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01FE0393M9YTYDB6DBZ8GRGWWW
+type: image
+subtype: photo
+title: Fähranleger in Rüterberg
+date: 1992-11
+location: Zadrau, Elbstraße
+geocode:
+  lat: 53.0047
+  lon: 11.5014
+  precision: town
+  source: osm
+origin:
+  name: Helga Pape
+  type: person
+  location: Dömitz
+subjects:
+  - name: Sturmschaden 1992
+    type: event
+  - name: Wustrow
+    type: place
+  - name: Heinrich Schulz
+    type: person
+parents:
+  - 01GVJSDJ9R4Q8JD7JQQP5X0PH0
+  - 01EZC5C07CZY0ETCK5VD296P3F
+files:
+  - role: main
+    original_name: P3707.jpg
+    path: files/5e/30/5e30ca0fe95085b5d16576fa5434aba571f1e7c603d8f0dcb038361bd45fef09/original.jpg
+    sha256: 5e30ca0fe95085b5d16576fa5434aba571f1e7c603d8f0dcb038361bd45fef09
+    mime: image/jpeg
+    bytes: 12516757
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/5e/30/5e30ca0fe95085b5d16576fa5434aba571f1e7c603d8f0dcb038361bd45fef09/preview-400.18d4ee5a861f.jpg
+        sha256: 18d4ee5a861fe684b831f35eb81a02b65fab0d8c78958dd5075cdf4b11318304
+        mime: image/jpeg
+        bytes: 38537
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

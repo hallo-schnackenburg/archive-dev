@@ -1,0 +1,39 @@
+id: 01HYSXNRWXVW3ZYFDXX41D7Q1Z
+type: document
+subtype: letter
+title: Zeugnis für Otto Wegner
+description: Maschinenschriftlich, unterschrieben.
+date: 1875-03-20
+location: Hitzacker, Am Elbdeich
+geocode:
+  lat: 53.0736
+  lon: 11.6737
+  precision: street
+  source: osm
+origin:
+  name: Fritz Hennings
+  type: person
+  location: Holtorf
+recipient: Heinrich Sievers
+language: de
+files:
+  - role: page
+    num: 1
+    original_name: letter_1d7q1z_001.tif
+    path: files/10/41/10418e77a253fc90c504037d4384c0ecd01e01efaa194b4b4424cbb83362eb8f/original.tif
+    sha256: 10418e77a253fc90c504037d4384c0ecd01e01efaa194b4b4424cbb83362eb8f
+    mime: image/tiff
+    bytes: 13838139
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/10/41/10418e77a253fc90c504037d4384c0ecd01e01efaa194b4b4424cbb83362eb8f/preview-400.eae57608fca0.jpg
+        sha256: eae57608fca0b7050118ed2de062e5a05acc9979d39cd3c54e9fef79d089107c
+        mime: image/jpeg
+        bytes: 66048
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

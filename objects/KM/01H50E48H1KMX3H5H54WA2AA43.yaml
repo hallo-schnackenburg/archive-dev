@@ -1,0 +1,38 @@
+id: 01H50E48H1KMX3H5H54WA2AA43
+type: image
+subtype: photo
+title: Kirmes 1921
+description: Aufnahme von Käthe Harms.
+date: 1921-10-21
+location: Seedorf, Fährstraße
+origin:
+  name: Rudolf Heuer
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Badestelle
+    type: building
+  - name: Wassermühle
+    type: building
+  - name: Försterei
+    type: building
+files:
+  - role: main
+    original_name: P3123.jpg
+    path: files/04/a6/04a6ff8303543e29021ee69ed590b5fd71e9071e166aa607f3aa51b2e1a20524/original.jpg
+    sha256: 04a6ff8303543e29021ee69ed590b5fd71e9071e166aa607f3aa51b2e1a20524
+    mime: image/jpeg
+    bytes: 19450837
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/04/a6/04a6ff8303543e29021ee69ed590b5fd71e9071e166aa607f3aa51b2e1a20524/preview-400.0de200c70eb0.jpg
+        sha256: 0de200c70eb072e1837edd5170c88a5601a2c502bca76d89a0f8919a7befafe3
+        mime: image/jpeg
+        bytes: 28619
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

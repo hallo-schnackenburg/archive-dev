@@ -1,0 +1,32 @@
+id: 01FJ59X1V6Y35YD81FCAH65AY0
+type: image
+subtype: plan
+title: Deichplan Salzwedel bis Lenzen
+date: 1754-06-22
+location: Bömenzien, Elbdeich
+origin:
+  name: Brigitte Pape
+  type: person
+  location: Gülden
+parents:
+  - 01HBSGHG52Z98SDKPVZX12Z93T
+files:
+  - role: main
+    original_name: scan_451.tif
+    path: files/7b/3f/7b3f9d1b2b61988f9113b1a65118f15b45b7a1ba820327220ec0c7a593a4f255/original.tif
+    sha256: 7b3f9d1b2b61988f9113b1a65118f15b45b7a1ba820327220ec0c7a593a4f255
+    mime: image/tiff
+    bytes: 12863088
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7b/3f/7b3f9d1b2b61988f9113b1a65118f15b45b7a1ba820327220ec0c7a593a4f255/preview-400.f1f0ec205277.jpg
+        sha256: f1f0ec205277bfda93da779946b344b0e3c7fcc377bd43f0d4d1fecda1aba43a
+        mime: image/jpeg
+        bytes: 70216
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

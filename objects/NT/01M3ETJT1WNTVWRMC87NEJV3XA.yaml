@@ -1,0 +1,40 @@
+id: 01M3ETJT1WNTVWRMC87NEJV3XA
+type: image
+subtype: plan
+title: Bauplan Dorfladen 1754
+date: 1754/1761
+location: Cumlosen, Hinter den Höfen
+origin:
+  name: Uwe Wöhlk
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 26/113
+  note: Planschrank, Fach 3
+subjects:
+  - name: Seedorf
+    type: place
+files:
+  - role: main
+    original_name: scan_921.tif
+    path: files/28/22/28228b6104696cbdf06d5a8fe393ed8f5c953d83a9130c659ee52278cff698de/original.tif
+    sha256: 28228b6104696cbdf06d5a8fe393ed8f5c953d83a9130c659ee52278cff698de
+    mime: image/tiff
+    bytes: 26146788
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/28/22/28228b6104696cbdf06d5a8fe393ed8f5c953d83a9130c659ee52278cff698de/preview-400.f78539791d7c.jpg
+        sha256: f78539791d7c99fd588172dacbc493b99ac21cd6f261cf4a8b08dc333d44e877
+        mime: image/jpeg
+        bytes: 60713
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01EYEEVHNFK5P657GHAPPDHHF4
+type: image
+subtype: photo
+title: Konfirmation 1932
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1932~
+origin:
+  name: Marta Detlefs
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Schnackenburg
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Kirche St. Johannis
+    type: building
+  - name: Richtfest 1932
+    type: event
+parents:
+  - 01K63FK3HHMM0W1GA0H3WZR13N
+files:
+  - role: main
+    original_name: DSC0082.jpg
+    path: files/18/92/189219c57d474d0accdd1d4b8961c9c726b9ca6875c7584de7c10fc1357d11aa/original.jpg
+    sha256: 189219c57d474d0accdd1d4b8961c9c726b9ca6875c7584de7c10fc1357d11aa
+    mime: image/jpeg
+    bytes: 9437694
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/18/92/189219c57d474d0accdd1d4b8961c9c726b9ca6875c7584de7c10fc1357d11aa/preview-400.5d6f67d1088e.jpg
+        sha256: 5d6f67d1088e27dbfe3832371a0e0e62c8926285d032523016d14822fde820c7
+        mime: image/jpeg
+        bytes: 77091
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

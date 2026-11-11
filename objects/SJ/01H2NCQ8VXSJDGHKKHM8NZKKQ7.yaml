@@ -1,0 +1,41 @@
+id: 01H2NCQ8VXSJDGHKKHM8NZKKQ7
+type: image
+subtype: photo
+title: Gustav Brandt, Porträt
+description: Abzug im Format 9 x 13 cm.
+date: 1913-11
+location: Wootz, Grenzturm
+origin:
+  name: Karl Jeß
+  type: person
+  location: Kapern
+subjects:
+  - name: Poststelle
+    type: building
+  - name: Einschulung 1913
+    type: event
+  - name: Seedorf
+    type: place
+parents:
+  - 01HP6EAK3TB1B30E0D5T4P2J2A
+  - 01KKPAYKN3WWQ9TTHPWVZWVHF9
+files:
+  - role: main
+    original_name: P7418.jpg
+    path: files/ab/38/ab384cee9f0925c77f58773c97964ed08d89428b0f46347f663e36c1d01fc57d/original.jpg
+    sha256: ab384cee9f0925c77f58773c97964ed08d89428b0f46347f663e36c1d01fc57d
+    mime: image/jpeg
+    bytes: 23700198
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ab/38/ab384cee9f0925c77f58773c97964ed08d89428b0f46347f663e36c1d01fc57d/preview-400.6d65d3ae3c99.jpg
+        sha256: 6d65d3ae3c995435e8574617c978ba6597cdafa988e9eceb101d3970d005d4ac
+        mime: image/jpeg
+        bytes: 31600
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

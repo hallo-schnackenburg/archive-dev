@@ -1,0 +1,33 @@
+id: 01F3C8FNZB7KR8XM7NCGP1RJCH
+type: image
+subtype: plan
+title: Bauplan Gärtnerei 1977
+description: Tusche auf Transparentpapier.
+date: 1977?
+location: Pretzier, Elbstraße
+origin:
+  name: Erika Lemke
+  type: person
+  location: Zadrau
+parents:
+  - 01H40DBW3NVXVHMCXP864M4XJA
+files:
+  - role: main
+    original_name: scan_645.tif
+    path: files/4d/3b/4d3bf5f17d6596b7d0ca1083b3c76cee79a4b94c99b7655eda66efb92b938971/original.tif
+    sha256: 4d3bf5f17d6596b7d0ca1083b3c76cee79a4b94c99b7655eda66efb92b938971
+    mime: image/tiff
+    bytes: 3815763
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/4d/3b/4d3bf5f17d6596b7d0ca1083b3c76cee79a4b94c99b7655eda66efb92b938971/preview-400.ff77e1ee9781.jpg
+        sha256: ff77e1ee97816b4de9bb38a4dc2ddebac211905f3205574e43364d7bf81185b2
+        mime: image/jpeg
+        bytes: 56030
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

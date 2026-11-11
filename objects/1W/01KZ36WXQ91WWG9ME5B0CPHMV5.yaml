@@ -1,0 +1,45 @@
+id: 01KZ36WXQ91WWG9ME5B0CPHMV5
+type: image
+subtype: photo
+title: Hafenstraße, Ecke Gartenstraße
+description: Zu sehen sind Ziegelei und Pfarrhaus.
+date: 1942-03-04
+location: Lüchow, Gasthof „Zur Elbe“
+geocode:
+  lat: 53.0013
+  lon: 11.5454
+  precision: exact
+  source: osm
+origin:
+  name: Wilhelm Voss
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 9/076
+parents:
+  - 01FVQ4AW5WXFEF57BN5S1PKQ3J
+  - 01K6MM688883CWMKTJ2NVR6F70
+files:
+  - role: main
+    original_name: DSC3313.jpg
+    path: files/c0/c2/c0c2794a25abdb4282ecd819080c906b572d2ea82d1f1afc401aceae23374bf6/original.jpg
+    sha256: c0c2794a25abdb4282ecd819080c906b572d2ea82d1f1afc401aceae23374bf6
+    mime: image/jpeg
+    bytes: 24267692
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c0/c2/c0c2794a25abdb4282ecd819080c906b572d2ea82d1f1afc401aceae23374bf6/preview-400.cdef2fd413e7.jpg
+        sha256: cdef2fd413e7ebfb197497be23f23b91319b5a7c462781e7038f978240fe16b2
+        mime: image/jpeg
+        bytes: 57566
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

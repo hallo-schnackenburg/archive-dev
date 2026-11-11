@@ -1,0 +1,62 @@
+id: 01HYP141F9HRZZQ8PMMBKEF3DB
+type: document
+subtype: letter
+title: Mitteilung aus Gorleben an Familie Brandt
+description: Handschriftlich, 3 Seiten.
+date: 1800-12
+origin:
+  name: Wilhelm Pape
+  type: person
+  location: Seedorf
+recipient: Karl Bohlmann
+language: de
+owner:
+  name: Wilhelm Brandt
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Lüchow
+    type: place
+parents:
+  - 01GA5Z0DBZAQFYJJA123R8HCJ9
+files:
+  - role: page
+    num: 1
+    original_name: letter_kef3db_001.tif
+    path: files/f8/91/f891222720eacc9efdc14830d42a97b8cade628d5c78cf9cb53f04770365c413/original.tif
+    sha256: f891222720eacc9efdc14830d42a97b8cade628d5c78cf9cb53f04770365c413
+    mime: image/tiff
+    bytes: 20381323
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f8/91/f891222720eacc9efdc14830d42a97b8cade628d5c78cf9cb53f04770365c413/preview-400.3016cca6193d.jpg
+        sha256: 3016cca6193de41f82521e0be94b35c5490aa0b69eb64936c780319a438db336
+        mime: image/jpeg
+        bytes: 26400
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_kef3db_002.tif
+    path: files/47/5e/475edb0a26907a6e659d091effad731ba5e01f126b6b82ea64ad041d77f20b00/original.tif
+    sha256: 475edb0a26907a6e659d091effad731ba5e01f126b6b82ea64ad041d77f20b00
+    mime: image/tiff
+    bytes: 8538070
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/47/5e/475edb0a26907a6e659d091effad731ba5e01f126b6b82ea64ad041d77f20b00/preview-400.a9284fb67258.jpg
+        sha256: a9284fb67258a9ede6846ffa65a1e3f45c1cd90642b42da8ed2a4af8ca647e45
+        mime: image/jpeg
+        bytes: 47645
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

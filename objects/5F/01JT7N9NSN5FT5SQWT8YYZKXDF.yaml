@@ -1,0 +1,41 @@
+id: 01JT7N9NSN5FT5SQWT8YYZKXDF
+type: document
+subtype: note
+title: Quittung für Wilhelm Lenz
+description: Beleg mit Stempel.
+date: 1967/1979
+location: Rüterberg, Lange Straße
+geocode:
+  lat: 53.0616
+  lon: 11.6937
+  precision: town
+  source: osm
+language: de
+subjects:
+  - name: Otto Sievers
+    type: person
+  - name: Sturmschaden 1967
+    type: event
+  - name: Wustrow
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_yzkxdf_001.tif
+    path: files/56/6d/566de88ef244a6268be4f10c0fe3aed31037d88f1059c6e67c623b03c79c9933/original.tif
+    sha256: 566de88ef244a6268be4f10c0fe3aed31037d88f1059c6e67c623b03c79c9933
+    mime: image/tiff
+    bytes: 18225729
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/56/6d/566de88ef244a6268be4f10c0fe3aed31037d88f1059c6e67c623b03c79c9933/preview-400.2207499a9ebf.jpg
+        sha256: 2207499a9ebf1aadaa257859b158da76fa0fba58c6ce7200ceb14094679437cd
+        mime: image/jpeg
+        bytes: 89619
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

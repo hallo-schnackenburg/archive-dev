@@ -1,0 +1,32 @@
+id: 01JSSQPZP477QMQ9QCS0CXSNVV
+type: image
+subtype: plan
+title: Bauplan Elbdeich 1935
+date: 1935-03
+origin:
+  name: Klaus Schwarz
+  type: person
+  location: Gartow
+parents:
+  - 01HCDYTRFHFRB82WRMENEDR10F
+  - 01JR4AKNGZNYFV9JQXZ29K40BD
+files:
+  - role: main
+    original_name: scan_260.tif
+    path: files/31/ae/31ae5a0fabb892c0a3195b399144199c5e93cff9196f981b97e8fdcb171a3b4e/original.tif
+    sha256: 31ae5a0fabb892c0a3195b399144199c5e93cff9196f981b97e8fdcb171a3b4e
+    mime: image/tiff
+    bytes: 4139440
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/31/ae/31ae5a0fabb892c0a3195b399144199c5e93cff9196f981b97e8fdcb171a3b4e/preview-400.4c15f74bdb8e.jpg
+        sha256: 4c15f74bdb8e9af5bbbcf3627e7159ec4f09c56e49a3d2c41a44a4872074605c
+        mime: image/jpeg
+        bytes: 66222
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

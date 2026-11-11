@@ -1,0 +1,43 @@
+id: 01FK9NPFQZP5WP8KQQ6F3BJ2V9
+type: image
+subtype: print
+title: "Holzschnitt: Brückeneinweihung, Holtorf"
+description: Kupferstich, koloriert.
+date: 1861-03
+origin:
+  name: Hermann Voss
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Familie Schulz
+    type: person
+    location: Brünkendorf
+  reference: Fotos 21/253
+subjects:
+  - name: Kapern
+    type: place
+  - name: Erika Wegner
+    type: person
+  - name: Straßenfest 1861
+    type: event
+files:
+  - role: main
+    original_name: scan_085.tif
+    path: files/e8/a5/e8a5a4cb82e039a86542a839ff9ddb3d65e1a4a4a9f1b3b61b78983e82753798/original.tif
+    sha256: e8a5a4cb82e039a86542a839ff9ddb3d65e1a4a4a9f1b3b61b78983e82753798
+    mime: image/tiff
+    bytes: 7575837
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/a5/e8a5a4cb82e039a86542a839ff9ddb3d65e1a4a4a9f1b3b61b78983e82753798/preview-400.7f80f5d9764b.jpg
+        sha256: 7f80f5d9764b7094dc363142494ee91627e8e4634724b60214a7d607b015c298
+        mime: image/jpeg
+        bytes: 68227
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

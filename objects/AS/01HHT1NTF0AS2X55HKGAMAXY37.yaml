@@ -1,0 +1,33 @@
+id: 01HHT1NTF0AS2X55HKGAMAXY37
+type: image
+subtype: plan
+title: Katasterblatt Hartwig
+date: "1775"
+origin:
+  name: Dieter Voss
+  type: person
+  location: Lüchow
+owner:
+  name: Dieter Jeß
+  type: person
+  note: Nachlass
+files:
+  - role: main
+    original_name: scan_165.tif
+    path: files/5d/a7/5da7cab3bc5e669acec09e4e9a949d847fdd3e9e4f68f23856b9a179ea78f882/original.tif
+    sha256: 5da7cab3bc5e669acec09e4e9a949d847fdd3e9e4f68f23856b9a179ea78f882
+    mime: image/tiff
+    bytes: 9083538
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/5d/a7/5da7cab3bc5e669acec09e4e9a949d847fdd3e9e4f68f23856b9a179ea78f882/preview-400.bfddbb89f3bf.jpg
+        sha256: bfddbb89f3bf4d90d5d473bef41a8b176de0f212cbfb1d33ab365cf9039afc63
+        mime: image/jpeg
+        bytes: 31607
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

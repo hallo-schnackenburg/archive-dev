@@ -1,0 +1,41 @@
+id: 01GPDADV12KV7DRCZC6NPX1HG6
+type: image
+subtype: photo
+title: Familie Dreyer beim Schlachtfest
+description: Abzug im Format 9 x 13 cm.
+date: 200X
+location: Pretzier, Pumpenhaus
+origin:
+  name: Lotte Pape
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Familie Burmester
+    type: person
+    location: Laase
+subjects:
+  - name: Lotte Wiegmann
+    type: person
+  - name: Gartow
+    type: place
+files:
+  - role: main
+    original_name: DSC4630.jpg
+    path: files/df/f1/dff14d9c809422068aa524e8c2fe9492ebe2f6427c44b1a3e01854499dc1af7b/original.jpg
+    sha256: dff14d9c809422068aa524e8c2fe9492ebe2f6427c44b1a3e01854499dc1af7b
+    mime: image/jpeg
+    bytes: 20269179
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/df/f1/dff14d9c809422068aa524e8c2fe9492ebe2f6427c44b1a3e01854499dc1af7b/preview-400.0674cd0052e6.jpg
+        sha256: 0674cd0052e6dacc08a5b86bc00a8635ff8e4762987bd70b6809f098ffc71895
+        mime: image/jpeg
+        bytes: 37662
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

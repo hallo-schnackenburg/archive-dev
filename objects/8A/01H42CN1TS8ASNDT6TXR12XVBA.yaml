@@ -1,0 +1,40 @@
+id: 01H42CN1TS8ASNDT6TXR12XVBA
+type: document
+subtype: letter
+title: Korrespondenz Paul Jeß
+description: Mit Umschlag und Briefmarke.
+date: "1952"
+origin:
+  name: Emma Ahrens
+  type: person
+  location: Wootz
+recipient: Erika Voss
+language: de
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Grenzöffnung 1952
+    type: event
+  - name: Nienwalde
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_12xvba_001.tif
+    path: files/01/1d/011d8d4b93b7405bf98101112469638d4d132d027e141d7eca7ce8f8ee370984/original.tif
+    sha256: 011d8d4b93b7405bf98101112469638d4d132d027e141d7eca7ce8f8ee370984
+    mime: image/tiff
+    bytes: 23126762
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/1d/011d8d4b93b7405bf98101112469638d4d132d027e141d7eca7ce8f8ee370984/preview-400.f411c4f40085.jpg
+        sha256: f411c4f40085e2b06e1e99c95f41ba3fb5a3eed00862c6df59876d4843af4dc1
+        mime: image/jpeg
+        bytes: 70364
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

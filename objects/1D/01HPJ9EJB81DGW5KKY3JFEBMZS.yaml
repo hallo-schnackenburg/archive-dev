@@ -1,0 +1,49 @@
+id: 01HPJ9EJB81DGW5KKY3JFEBMZS
+type: image
+subtype: drawing
+title: Wappenentwurf Laase, Rüterberg
+description: Bleistift auf Papier.
+date: "1969"
+location: Dömitz, Am Elbdeich
+geocode:
+  lat: 53.0986
+  lon: 11.5415
+  precision: town
+  source: osm
+origin:
+  name: Karl Schulz
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 28/081
+subjects:
+  - name: Eisgang 1969
+    type: event
+  - name: Laase
+    type: place
+parents:
+  - 01JBGVAY167R5WYZSBZK5TM9S3
+files:
+  - role: main
+    original_name: scan_437.tif
+    path: files/de/55/de55ca9c429e4b3efc7a819704cb987c4519b7d2b3be7373a76f38de6084a0b8/original.tif
+    sha256: de55ca9c429e4b3efc7a819704cb987c4519b7d2b3be7373a76f38de6084a0b8
+    mime: image/tiff
+    bytes: 2279777
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/de/55/de55ca9c429e4b3efc7a819704cb987c4519b7d2b3be7373a76f38de6084a0b8/preview-400.963aa509d5fa.jpg
+        sha256: 963aa509d5fa079cb1ed36e03a8ddfe16c2e7955e583976869e8d67aaebf0e8a
+        mime: image/jpeg
+        bytes: 44551
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

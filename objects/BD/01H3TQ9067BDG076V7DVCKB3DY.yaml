@@ -1,0 +1,41 @@
+id: 01H3TQ9067BDG076V7DVCKB3DY
+type: image
+subtype: drawing
+title: Skizze Havelberg, Kirchstraße
+description: Bleistift auf Papier.
+date: 1923-07
+location: Wittenberge, Dorfladen
+original:
+  holder:
+    name: Familie Pape
+    type: person
+    location: Salzwedel
+  reference: Plan 7/180
+  note: Schrank B
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Mühle
+    type: building
+  - name: Hochwasser 1923
+    type: event
+files:
+  - role: main
+    original_name: scan_612.tif
+    path: files/ec/cf/eccf53a3618f0be003d90b7fb4fd0c1ce5e331cbdece654ea386337dda00f069/original.tif
+    sha256: eccf53a3618f0be003d90b7fb4fd0c1ce5e331cbdece654ea386337dda00f069
+    mime: image/tiff
+    bytes: 11315727
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ec/cf/eccf53a3618f0be003d90b7fb4fd0c1ce5e331cbdece654ea386337dda00f069/preview-400.1aaa0b3a8b75.jpg
+        sha256: 1aaa0b3a8b751665ad961e735f2e97b06a7aaa7f84eca22326ba505b632f9325
+        mime: image/jpeg
+        bytes: 21494
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

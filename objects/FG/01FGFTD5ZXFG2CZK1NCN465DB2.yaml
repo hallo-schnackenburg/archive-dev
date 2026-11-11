@@ -1,0 +1,60 @@
+id: 01FGFTD5ZXFG2CZK1NCN465DB2
+type: document
+subtype: note
+title: Rechnung Wegner, Sportplatz
+description: Auf der Rückseite eines Formulars.
+date: 1905-01-09
+location: Arendsee, Dorfladen
+origin:
+  name: Hedwig Meyer
+  type: person
+  location: Lüchow
+language: de
+subjects:
+  - name: Schlachterei
+    type: building
+  - name: Fährjubiläum 1905
+    type: event
+parents:
+  - 01HBAGVGSH8T07D9N2JBVPMDAH
+files:
+  - role: page
+    num: 1
+    original_name: note_465db2_001.tif
+    path: files/ef/4c/ef4cc18d13cc3d038d93cd7e81feb055c8666c56ea692387ad81445bb78e2a3c/original.tif
+    sha256: ef4cc18d13cc3d038d93cd7e81feb055c8666c56ea692387ad81445bb78e2a3c
+    mime: image/tiff
+    bytes: 13525211
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ef/4c/ef4cc18d13cc3d038d93cd7e81feb055c8666c56ea692387ad81445bb78e2a3c/preview-400.493b55b8ae59.jpg
+        sha256: 493b55b8ae5969e095aa12808ff3bff66994d556815847564c6ca10854231101
+        mime: image/jpeg
+        bytes: 51346
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_465db2_002.tif
+    path: files/62/83/62833db6926b4a0770cf56ba6af55f8b28df1a6b523ac015d7abe7c925db99bb/original.tif
+    sha256: 62833db6926b4a0770cf56ba6af55f8b28df1a6b523ac015d7abe7c925db99bb
+    mime: image/tiff
+    bytes: 4500846
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/62/83/62833db6926b4a0770cf56ba6af55f8b28df1a6b523ac015d7abe7c925db99bb/preview-400.afe629c5991f.jpg
+        sha256: afe629c5991fc29a46c492054fbac71cc5944d6c0e3eebc95840f25159cfdc79
+        mime: image/jpeg
+        bytes: 85253
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

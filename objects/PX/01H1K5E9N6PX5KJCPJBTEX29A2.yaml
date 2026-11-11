@@ -1,0 +1,69 @@
+id: 01H1K5E9N6PX5KJCPJBTEX29A2
+type: document
+subtype: letter
+title: Feldpostbrief von Fritz Plate
+date: 1855-06
+location: Dömitz, Lange Straße
+geocode:
+  lat: 52.9387
+  lon: 11.5423
+  precision: street
+  source: osm
+recipient: Wilhelm Wöhlk
+language: de
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Nienwalde
+  reference: Dok 14/104
+subjects:
+  - name: Weihnachtsmarkt 1855
+    type: event
+  - name: Gollensdorf
+    type: place
+  - name: Erika Krüger
+    type: person
+parents:
+  - 01FPBW8XQ5TR1SGGQ9277H4RM1
+files:
+  - role: page
+    num: 1
+    original_name: letter_ex29a2_001.tif
+    path: files/3d/82/3d82d74861b71d4a69a8598a32dcb59588503d10740f5ceec09110d13246e40a/original.tif
+    sha256: 3d82d74861b71d4a69a8598a32dcb59588503d10740f5ceec09110d13246e40a
+    mime: image/tiff
+    bytes: 22514923
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3d/82/3d82d74861b71d4a69a8598a32dcb59588503d10740f5ceec09110d13246e40a/preview-400.6c68ed3f13d8.jpg
+        sha256: 6c68ed3f13d8ab800fb3c60ef8f489040845a2118d0a4b205b6d016342247164
+        mime: image/jpeg
+        bytes: 62411
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_ex29a2_002.tif
+    path: files/04/a5/04a524a288e537d8f035ddaeb8a11e05fc70be72a5916539c03418a83287dcbc/original.tif
+    sha256: 04a524a288e537d8f035ddaeb8a11e05fc70be72a5916539c03418a83287dcbc
+    mime: image/tiff
+    bytes: 8673091
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/a5/04a524a288e537d8f035ddaeb8a11e05fc70be72a5916539c03418a83287dcbc/preview-400.62ccb0f270f4.jpg
+        sha256: 62ccb0f270f4bc033d5d2639999a648f8a6a54984b91ff8e4e763a3cd455cf27
+        mime: image/jpeg
+        bytes: 87120
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

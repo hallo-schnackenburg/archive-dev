@@ -1,0 +1,64 @@
+id: 01FK61Y68BPAZGG9BWP9AA3YMZ
+type: document
+subtype: note
+title: Rechnung Voss, Friedhofskapelle
+date: 1917?
+origin:
+  name: Heinrich Krüger
+  type: person
+  location: Restorf
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 28/037
+subjects:
+  - name: Einschulung 1917
+    type: event
+  - name: Dieter Dreyer
+    type: person
+parents:
+  - 01H27588JYCJ6ZCQPR15QXAN99
+files:
+  - role: page
+    num: 1
+    original_name: note_aa3ymz_001.tif
+    path: files/ff/a5/ffa5d220c2b7297d667482347d7e242383809209d3cea6ad46d2cafdf4be6500/original.tif
+    sha256: ffa5d220c2b7297d667482347d7e242383809209d3cea6ad46d2cafdf4be6500
+    mime: image/tiff
+    bytes: 16373478
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/a5/ffa5d220c2b7297d667482347d7e242383809209d3cea6ad46d2cafdf4be6500/preview-400.0986b80198b2.jpg
+        sha256: 0986b80198b23197d893473f1761db64bf2cda19eb302a99706db40e8a12ddac
+        mime: image/jpeg
+        bytes: 28094
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_aa3ymz_002.tif
+    path: files/62/89/628990706eaa5b558315c1dfea1c6a4b49b1d87f0ffac49917dcd08f77a70256/original.tif
+    sha256: 628990706eaa5b558315c1dfea1c6a4b49b1d87f0ffac49917dcd08f77a70256
+    mime: image/tiff
+    bytes: 3785195
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/62/89/628990706eaa5b558315c1dfea1c6a4b49b1d87f0ffac49917dcd08f77a70256/preview-400.92ba0102bc75.jpg
+        sha256: 92ba0102bc75e7371afb66fd43e48ad6711754c1862bc455d68d806ede7a4cb8
+        mime: image/jpeg
+        bytes: 65576
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

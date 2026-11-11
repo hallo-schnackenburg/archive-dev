@@ -1,0 +1,49 @@
+id: 01JK1DRQX9J6SQC6QKPTVB32KX
+type: image
+subtype: photo
+title: Blick vom Poststelle auf das Bahnhof
+description: Zu sehen sind Försterei und Zollamt.
+date: 1956-05-03
+location: Kapern, Schlachterei
+geocode:
+  lat: 52.9568
+  lon: 11.5736
+  precision: street
+  source: osm
+origin:
+  name: Ingrid Matthies
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg 23/202
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Ziegelei
+    type: building
+parents:
+  - 01J8EFPX4R9MB05RW08DV43E95
+files:
+  - role: main
+    original_name: IMG_0346.jpg
+    path: files/6b/c6/6bc6545b6803d2d26b5e6edb58e09822ea633875ce6e3664424dd94c62f897b2/original.jpg
+    sha256: 6bc6545b6803d2d26b5e6edb58e09822ea633875ce6e3664424dd94c62f897b2
+    mime: image/jpeg
+    bytes: 15459218
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/6b/c6/6bc6545b6803d2d26b5e6edb58e09822ea633875ce6e3664424dd94c62f897b2/preview-400.6ffb38197443.jpg
+        sha256: 6ffb38197443d7cf802db1af7f8c9330272c1b8de686cab185d26964f062e8ed
+        mime: image/jpeg
+        bytes: 31190
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

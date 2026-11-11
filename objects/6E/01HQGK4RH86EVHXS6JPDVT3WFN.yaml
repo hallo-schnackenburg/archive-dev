@@ -1,0 +1,33 @@
+id: 01HQGK4RH86EVHXS6JPDVT3WFN
+type: image
+subtype: plan
+title: Katasterblatt Dreyer
+description: Mit handschriftlichen Ergänzungen.
+date: 1808-12
+location: Kapern, Bahnhofstraße
+origin:
+  name: Otto Voss
+  type: person
+  location: Rüterberg
+parents:
+  - 01FC500G3M1EH4PAW2K7HHB2K0
+files:
+  - role: main
+    original_name: scan_164.tif
+    path: files/11/35/1135fc1aee117e85cec5e98b24f3bf5a25c16de977bddabd2fc2cd62119139e9/original.tif
+    sha256: 1135fc1aee117e85cec5e98b24f3bf5a25c16de977bddabd2fc2cd62119139e9
+    mime: image/tiff
+    bytes: 17235014
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/35/1135fc1aee117e85cec5e98b24f3bf5a25c16de977bddabd2fc2cd62119139e9/preview-400.66f9b6640839.jpg
+        sha256: 66f9b6640839d369b46fd59337960975598e670e3954bbc305ef8418871ae5cc
+        mime: image/jpeg
+        bytes: 73944
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

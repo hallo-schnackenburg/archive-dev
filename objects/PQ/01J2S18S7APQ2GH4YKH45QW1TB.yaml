@@ -1,0 +1,50 @@
+id: 01J2S18S7APQ2GH4YKH45QW1TB
+type: image
+subtype: photo
+title: Hafenstraße, Ecke Hinter den Höfen
+date: 1977-09-16
+location: Bömenzien, Hinter den Höfen
+geocode:
+  lat: 53.0835
+  lon: 11.6961
+  precision: street
+  source: osm
+origin:
+  name: Frieda Voss
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 22/329
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: August Oelker
+    type: person
+  - name: Dorffest 1977
+    type: event
+parents:
+  - 01JZ3SNACCNPC796843QWD7KHP
+files:
+  - role: main
+    original_name: DSC8884.jpg
+    path: files/c9/61/c9616f9780ff834906aa13a5e580e891c54178a86fff03322d5452821798bfe0/original.jpg
+    sha256: c9616f9780ff834906aa13a5e580e891c54178a86fff03322d5452821798bfe0
+    mime: image/jpeg
+    bytes: 11298678
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/c9/61/c9616f9780ff834906aa13a5e580e891c54178a86fff03322d5452821798bfe0/preview-400.987b4885907b.jpg
+        sha256: 987b4885907b041ced95f9f92d443feefe954d719336948cfc6c9080f351f08b
+        mime: image/jpeg
+        bytes: 54876
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

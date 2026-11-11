@@ -1,0 +1,35 @@
+id: 01H7B0YJ9RSR6TE07032ZG42ER
+type: image
+subtype: plan
+title: Katasterblatt Sievers
+description: Mit handschriftlichen Ergänzungen.
+date: 1966-04
+location: Hitzacker, Am Elbdeich
+geocode:
+  lat: 53.0537
+  lon: 11.6577
+  precision: street
+  source: osm
+subjects:
+  - name: Viehmarkt 1966
+    type: event
+files:
+  - role: main
+    original_name: scan_517.tif
+    path: files/cc/0a/cc0ac3fe24c30e83ce51dfa364c6a16677627b5796feba3a5723c259a89bccd9/original.tif
+    sha256: cc0ac3fe24c30e83ce51dfa364c6a16677627b5796feba3a5723c259a89bccd9
+    mime: image/tiff
+    bytes: 21567263
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cc/0a/cc0ac3fe24c30e83ce51dfa364c6a16677627b5796feba3a5723c259a89bccd9/preview-400.400f56da0a0b.jpg
+        sha256: 400f56da0a0b5727a034c198af484fabea0a975a15a890c69efdd5e52a177243
+        mime: image/jpeg
+        bytes: 61877
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

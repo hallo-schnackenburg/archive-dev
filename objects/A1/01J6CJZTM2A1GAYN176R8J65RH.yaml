@@ -1,0 +1,37 @@
+id: 01J6CJZTM2A1GAYN176R8J65RH
+type: image
+subtype: plan
+title: Lageplan Friedhofskapelle
+location: Rüterberg, Am Elbdeich
+origin:
+  name: Walter Hennings
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Walter Wegner
+    type: person
+files:
+  - role: main
+    original_name: scan_958.tif
+    path: files/91/55/9155626949f003b99a15c63c29b31c6e4d6bfcb0b2b3bd3a89b9839d7640a81e/original.tif
+    sha256: 9155626949f003b99a15c63c29b31c6e4d6bfcb0b2b3bd3a89b9839d7640a81e
+    mime: image/tiff
+    bytes: 27255049
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/91/55/9155626949f003b99a15c63c29b31c6e4d6bfcb0b2b3bd3a89b9839d7640a81e/preview-400.76d8364b76f0.jpg
+        sha256: 76d8364b76f0d9f14b9615ae9c77e54ef90f7211670fc18d8487076de3cc297a
+        mime: image/jpeg
+        bytes: 36200
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

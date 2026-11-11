@@ -1,0 +1,38 @@
+id: 01K34DCZVBRFRHHAYRGAYYZSB2
+type: image
+subtype: plan
+title: Bauplan Bäckerei Lüders 1782
+description: Maßstab 1:1000.
+date: 1782?
+origin:
+  name: Fritz Nitschke
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Familie Behrens
+    type: person
+    location: Restorf
+  reference: Slg 8/004
+parents:
+  - 01JVVDQHBMNHTD5MF8KHV0G3FW
+files:
+  - role: main
+    original_name: scan_721.tif
+    path: files/18/4f/184fa7b1e42e06551b5298387b9a4acf06d98620dc140826aa8d56111c14332b/original.tif
+    sha256: 184fa7b1e42e06551b5298387b9a4acf06d98620dc140826aa8d56111c14332b
+    mime: image/tiff
+    bytes: 17940514
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/18/4f/184fa7b1e42e06551b5298387b9a4acf06d98620dc140826aa8d56111c14332b/preview-400.9ee0581634dd.jpg
+        sha256: 9ee0581634dde277dd23df97a30de59ba94d1fd3e5438e2513bc6b5a9bd6a67c
+        mime: image/jpeg
+        bytes: 25807
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

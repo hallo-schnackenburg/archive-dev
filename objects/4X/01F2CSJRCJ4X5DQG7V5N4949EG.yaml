@@ -1,0 +1,44 @@
+id: 01F2CSJRCJ4X5DQG7V5N4949EG
+type: image
+subtype: plan
+title: Deichplan Pretzier bis Lenzen, Lenzen
+date: 1831-05-13
+location: Hitzacker, Dorfkrug
+origin:
+  name: Emma Ludolf
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 27/116
+  note: Planschrank, Fach 3
+subjects:
+  - name: Karl Jürgens
+    type: person
+  - name: Arendsee
+    type: place
+parents:
+  - 01FKBD4BVD847YBHNZE34X0MBM
+files:
+  - role: main
+    original_name: scan_425.tif
+    path: files/19/9b/199bb82f7e8a696555368b0cd185d0cbb42451381859613bf772b285395f0f6a/original.tif
+    sha256: 199bb82f7e8a696555368b0cd185d0cbb42451381859613bf772b285395f0f6a
+    mime: image/tiff
+    bytes: 2014979
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/19/9b/199bb82f7e8a696555368b0cd185d0cbb42451381859613bf772b285395f0f6a/preview-400.bf7021a7e887.jpg
+        sha256: bf7021a7e8873134ff742df289bc045860aed0c910df309bcb698a763fadcb70
+        mime: image/jpeg
+        bytes: 44493
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

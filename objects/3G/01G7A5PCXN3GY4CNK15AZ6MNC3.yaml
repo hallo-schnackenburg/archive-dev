@@ -1,0 +1,63 @@
+id: 01G7A5PCXN3GY4CNK15AZ6MNC3
+type: document
+subtype: note
+title: Notiz zu Baugenehmigung, Havelberg
+date: 1966?
+location: Dömitz, Elbstraße
+geocode:
+  lat: 52.9842
+  lon: 11.4886
+  precision: town
+  source: osm
+origin:
+  name: August Heuer
+  type: person
+  location: Restorf
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan 1/191
+files:
+  - role: page
+    num: 1
+    original_name: note_z6mnc3_001.tif
+    path: files/6b/ed/6bed0d04bb624423e4cd72d8ac9f8afeceddba609ee8918f987461a5f597412f/original.tif
+    sha256: 6bed0d04bb624423e4cd72d8ac9f8afeceddba609ee8918f987461a5f597412f
+    mime: image/tiff
+    bytes: 19288976
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6b/ed/6bed0d04bb624423e4cd72d8ac9f8afeceddba609ee8918f987461a5f597412f/preview-400.7a634d469b1a.jpg
+        sha256: 7a634d469b1a763d0715fed7a53e7f055e32fc33f9d01280ff4784388ae1603e
+        mime: image/jpeg
+        bytes: 73050
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_z6mnc3_002.tif
+    path: files/60/a2/60a26fb09b6d52f09dc0a36b9277aebc7af9f64958850a9ef0d5fc69eec09943/original.tif
+    sha256: 60a26fb09b6d52f09dc0a36b9277aebc7af9f64958850a9ef0d5fc69eec09943
+    mime: image/tiff
+    bytes: 2523956
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/60/a2/60a26fb09b6d52f09dc0a36b9277aebc7af9f64958850a9ef0d5fc69eec09943/preview-400.ecf75e36d3a5.jpg
+        sha256: ecf75e36d3a57e1c525376a6d90573bae5912804a0927700f9d8f292a70759c4
+        mime: image/jpeg
+        bytes: 44821
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

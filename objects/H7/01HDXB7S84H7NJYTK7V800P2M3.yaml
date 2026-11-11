@@ -1,0 +1,30 @@
+id: 01HDXB7S84H7NJYTK7V800P2M3
+type: image
+subtype: photo
+title: Kinder am Apotheke
+description: Farbfoto, leicht verblasst.
+date: 2005~
+origin:
+  name: Hans Nitschke
+  type: person
+  location: Wootz
+files:
+  - role: main
+    original_name: IMG_0353.jpg
+    path: files/10/36/10369ba36f5bc6af9edd503fb42e373a89448cf4a52200de08822e5fe411b412/original.jpg
+    sha256: 10369ba36f5bc6af9edd503fb42e373a89448cf4a52200de08822e5fe411b412
+    mime: image/jpeg
+    bytes: 10403230
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/10/36/10369ba36f5bc6af9edd503fb42e373a89448cf4a52200de08822e5fe411b412/preview-400.2acab3ff7572.jpg
+        sha256: 2acab3ff75720c01e3386c99f286baba113b45dabf35227551d8b018c1871996
+        mime: image/jpeg
+        bytes: 20647
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

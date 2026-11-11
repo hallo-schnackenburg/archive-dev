@@ -1,0 +1,47 @@
+id: 01JSPBZGSKKMGPPVH4FWYS7SH6
+type: image
+subtype: print
+title: Postkarte Nienwalde, Kindergarten
+description: Postkarte, gelaufen 1920.
+date: 1703-01
+location: Dömitz, Dorfteich
+geocode:
+  lat: 52.9128
+  lon: 11.6346
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 23/216
+  note: Schrank B
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v23978
+subjects:
+  - name: Kegelbahn
+    type: building
+  - name: Dieter Schulz
+    type: person
+  - name: Richtfest 1703
+    type: event
+files:
+  - role: main
+    original_name: scan_979.tif
+    path: files/39/46/3946e284b31874fb23207fb8b1ae1bfbf41f58b4499555bb57b7c583c940264b/original.tif
+    sha256: 3946e284b31874fb23207fb8b1ae1bfbf41f58b4499555bb57b7c583c940264b
+    mime: image/tiff
+    bytes: 2433121
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/39/46/3946e284b31874fb23207fb8b1ae1bfbf41f58b4499555bb57b7c583c940264b/preview-400.e924b9d3958b.jpg
+        sha256: e924b9d3958baedae80b668f078e783644b620e6fb1e45e5f7f0eff9ebb8de9d
+        mime: image/jpeg
+        bytes: 87445
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

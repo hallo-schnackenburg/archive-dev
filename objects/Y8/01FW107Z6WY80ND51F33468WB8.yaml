@@ -1,0 +1,35 @@
+id: 01FW107Z6WY80ND51F33468WB8
+type: image
+subtype: drawing
+title: Skizze Nienwalde, Gartenstraße
+date: "1935"
+location: Gartow, Kirchstraße
+origin:
+  name: Dieter Tiedemann
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Familie Sievers
+    type: person
+    location: Wustrow
+files:
+  - role: main
+    original_name: scan_222.tif
+    path: files/42/07/4207733afca10c6836a7c93a6ba0af38123c08afbe74185a1a3ad739c8b63555/original.tif
+    sha256: 4207733afca10c6836a7c93a6ba0af38123c08afbe74185a1a3ad739c8b63555
+    mime: image/tiff
+    bytes: 7099936
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/42/07/4207733afca10c6836a7c93a6ba0af38123c08afbe74185a1a3ad739c8b63555/preview-400.feb768e3f08e.jpg
+        sha256: feb768e3f08e0d52591b2138e368d25f24c336a2de9f8464597ccc63656e735b
+        mime: image/jpeg
+        bytes: 39209
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

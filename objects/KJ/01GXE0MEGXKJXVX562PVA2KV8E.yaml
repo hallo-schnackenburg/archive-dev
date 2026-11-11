@@ -1,0 +1,39 @@
+id: 01GXE0MEGXKJXVX562PVA2KV8E
+type: image
+subtype: photo
+title: Hafenstraße, Ecke Am Markt
+date: "1910"
+location: Holtorf, Deichstraße
+geocode:
+  lat: 52.9623
+  lon: 11.5883
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01GF0SSB3PSQ3ZJJP70B51NM10
+  - 01JCTPZAEAG98DVMJJQRNTASRZ
+files:
+  - role: main
+    original_name: scan_322.tif
+    path: files/7e/2b/7e2bf3205e69e26edfb1b8b2d2ea927f451caa854654937480dec99eac7d9641/original.tif
+    sha256: 7e2bf3205e69e26edfb1b8b2d2ea927f451caa854654937480dec99eac7d9641
+    mime: image/tiff
+    bytes: 3193705
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7e/2b/7e2bf3205e69e26edfb1b8b2d2ea927f451caa854654937480dec99eac7d9641/preview-400.9e6de79fde6e.jpg
+        sha256: 9e6de79fde6ea7951fab3b437489ba9ab35b64eddfc070b32a7f8cf355240635
+        mime: image/jpeg
+        bytes: 43514
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

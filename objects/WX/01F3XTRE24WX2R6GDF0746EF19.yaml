@@ -1,0 +1,36 @@
+id: 01F3XTRE24WX2R6GDF0746EF19
+type: image
+subtype: photo
+title: Am Elbdeich, Ecke Lange Straße, Hitzacker
+description: Farbfoto, leicht verblasst.
+date: 1968-03-14
+location: Wustrow, Schulstraße
+origin:
+  name: Karl Lüders
+  type: person
+  location: Lenzen
+subjects:
+  - name: Gasthof Meyer
+    type: building
+  - name: Ziegelei
+    type: building
+files:
+  - role: main
+    original_name: DSC0403.jpg
+    path: files/03/2a/032a67662a6c529b90f0f26f8291b4f38a08fbdc89e2b0d5aa5dc6693a29d409/original.jpg
+    sha256: 032a67662a6c529b90f0f26f8291b4f38a08fbdc89e2b0d5aa5dc6693a29d409
+    mime: image/jpeg
+    bytes: 2612520
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/03/2a/032a67662a6c529b90f0f26f8291b4f38a08fbdc89e2b0d5aa5dc6693a29d409/preview-400.bce6d6321457.jpg
+        sha256: bce6d632145753a3c268e602f2ba6084a07cb68c6a922593469960c5017783f6
+        mime: image/jpeg
+        bytes: 39866
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

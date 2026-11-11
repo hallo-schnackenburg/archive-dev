@@ -1,0 +1,37 @@
+id: 01KNRAKBMD2R08VTBPFQC21BVG
+type: image
+subtype: photo
+title: Jürgen Dreyer, Porträt
+date: 1928-09-05
+location: Lenzen, Fährstraße
+geocode:
+  lat: 53.036
+  lon: 11.5368
+  precision: exact
+  source: osm
+origin:
+  name: Friedrich Dreyer
+  type: person
+  location: Lüchow
+parents:
+  - 01HG6JP5WA4TG6RE22EWVXDYF0
+files:
+  - role: main
+    original_name: foto_6470.jpg
+    path: files/5e/07/5e073366229f2ef403ab55d69ea49375cb7bac9adb97a5efd376c7e957d8e54f/original.jpg
+    sha256: 5e073366229f2ef403ab55d69ea49375cb7bac9adb97a5efd376c7e957d8e54f
+    mime: image/jpeg
+    bytes: 4717360
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/5e/07/5e073366229f2ef403ab55d69ea49375cb7bac9adb97a5efd376c7e957d8e54f/preview-400.fa0db5e633f3.jpg
+        sha256: fa0db5e633f31c0cc4f2e7c56290158492ce1420d568784935bc164863dedcca
+        mime: image/jpeg
+        bytes: 55655
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

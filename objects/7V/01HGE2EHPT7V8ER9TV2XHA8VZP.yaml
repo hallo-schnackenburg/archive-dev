@@ -1,0 +1,65 @@
+id: 01HGE2EHPT7V8ER9TV2XHA8VZP
+type: document
+subtype: protocol
+title: Protokoll des Bauausschuss vom 1963
+description: Handschriftlich in Sütterlin.
+date: 1963-02
+location: Gorleben, Elbstraße
+geocode:
+  lat: 53.0813
+  lon: 11.5704
+  precision: town
+  source: osm
+language: de
+owner:
+  name: Otto Pape
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Ernst Dreyer
+    type: person
+  - name: Gartow
+    type: place
+parents:
+  - 01GZR4MDFA5EQY40GSVWP94FQ3
+files:
+  - role: page
+    num: 1
+    original_name: protocol_ha8vzp_001.tif
+    path: files/92/db/92db485ed85f62ad565817f7e86a190099587f3926e6d689e2440fca4b34822a/original.tif
+    sha256: 92db485ed85f62ad565817f7e86a190099587f3926e6d689e2440fca4b34822a
+    mime: image/tiff
+    bytes: 24097828
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/db/92db485ed85f62ad565817f7e86a190099587f3926e6d689e2440fca4b34822a/preview-400.5b407b7bff75.jpg
+        sha256: 5b407b7bff759b52718bd6d3d92a075790c7a853b9ec3f7b3db7b6c284825bfe
+        mime: image/jpeg
+        bytes: 33092
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_ha8vzp_002.tif
+    path: files/fa/5d/fa5d728d230f729f7840858dea0ce64f420bd2db4ffb3bce6eb58059e8cddf87/original.tif
+    sha256: fa5d728d230f729f7840858dea0ce64f420bd2db4ffb3bce6eb58059e8cddf87
+    mime: image/tiff
+    bytes: 7826603
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fa/5d/fa5d728d230f729f7840858dea0ce64f420bd2db4ffb3bce6eb58059e8cddf87/preview-400.aa49f47c6116.jpg
+        sha256: aa49f47c6116fe89cf590f5249f76a600470f100b7184fa924622e9369f66fd8
+        mime: image/jpeg
+        bytes: 58018
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

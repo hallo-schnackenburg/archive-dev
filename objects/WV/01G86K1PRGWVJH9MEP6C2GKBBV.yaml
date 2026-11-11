@@ -1,0 +1,35 @@
+id: 01G86K1PRGWVJH9MEP6C2GKBBV
+type: image
+subtype: photo
+title: Schlachterei in Gülden
+description: Abzug im Format 10 x 15 cm.
+date: 1967/1969
+location: Seedorf, Schulstraße
+geocode:
+  lat: 53.0929
+  lon: 11.4831
+  precision: town
+  source: osm
+parents:
+  - 01JS809ECB0H6P74TPETN12T1S
+  - 01GHB8CACBDV42F0VWCD6Z5CC1
+files:
+  - role: main
+    original_name: foto_2280.jpg
+    path: files/c5/9b/c59b0449159a719541c56ee270e450313509627a55f5a83d1847820d59759a72/original.jpg
+    sha256: c59b0449159a719541c56ee270e450313509627a55f5a83d1847820d59759a72
+    mime: image/jpeg
+    bytes: 24162755
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/c5/9b/c59b0449159a719541c56ee270e450313509627a55f5a83d1847820d59759a72/preview-400.f93cf31d79cd.jpg
+        sha256: f93cf31d79cd4c5dac29bfd0cc7f3dc69b250760d3bc158daeab0cc97b2e0d0c
+        mime: image/jpeg
+        bytes: 69637
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

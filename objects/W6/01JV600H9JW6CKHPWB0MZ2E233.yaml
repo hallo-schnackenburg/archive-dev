@@ -1,0 +1,52 @@
+id: 01JV600H9JW6CKHPWB0MZ2E233
+type: document
+subtype: note
+title: Rechnung Hennings, Brunnen am Markt
+date: 1939-12
+location: Lüchow, Kirchstraße
+geocode:
+  lat: 52.9984
+  lon: 11.6145
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Brandt
+  type: person
+  location: Havelberg
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 29/288
+subjects:
+  - name: Bernd Voss
+    type: person
+  - name: Fritz Schwarz
+    type: person
+  - name: Schlachterei
+    type: building
+parents:
+  - 01J61X90CH264SW24N35G33X0N
+files:
+  - role: page
+    num: 1
+    original_name: note_z2e233_001.tif
+    path: files/41/28/412834f3fef8d94f1b247f3cf12d61137b1f4e48505056d2d328acd65d0906ad/original.tif
+    sha256: 412834f3fef8d94f1b247f3cf12d61137b1f4e48505056d2d328acd65d0906ad
+    mime: image/tiff
+    bytes: 23064628
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/41/28/412834f3fef8d94f1b247f3cf12d61137b1f4e48505056d2d328acd65d0906ad/preview-400.d1afd0572a59.jpg
+        sha256: d1afd0572a597799b882d57600a594d248802f3b704be2b0fdbd2a226ee81138
+        mime: image/jpeg
+        bytes: 22269
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

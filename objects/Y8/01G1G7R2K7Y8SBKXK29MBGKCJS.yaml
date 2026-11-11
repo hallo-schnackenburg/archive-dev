@@ -1,0 +1,36 @@
+id: 01G1G7R2K7Y8SBKXK29MBGKCJS
+type: image
+subtype: plan
+title: Grundriss Kirche St. Johannis
+date: 198X
+location: Wittenberge, Hinter den Höfen
+origin:
+  name: Brigitte Lemke
+  type: person
+  location: Lüchow
+subjects:
+  - name: Ortsbesichtigung 1985
+    type: event
+parents:
+  - 01F5CNJT1P56W2G465BH02E933
+files:
+  - role: main
+    original_name: scan_868.tif
+    path: files/f4/c2/f4c266c12da4b8eb0df5bf315c24a974d0865a93acab271d3115e767054c6959/original.tif
+    sha256: f4c266c12da4b8eb0df5bf315c24a974d0865a93acab271d3115e767054c6959
+    mime: image/tiff
+    bytes: 11550714
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f4/c2/f4c266c12da4b8eb0df5bf315c24a974d0865a93acab271d3115e767054c6959/preview-400.3b595d13b123.jpg
+        sha256: 3b595d13b1234525e721833396e598cde2ab71b324cf013f0807cd7bbe2e69da
+        mime: image/jpeg
+        bytes: 65570
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

@@ -1,0 +1,46 @@
+id: 01H4ST75FR88CGPF5QYKJ3Y8BV
+type: image
+subtype: print
+title: Ansichtskarte Lange Straße, Holtorf (61)
+date: "1723"
+location: Gülden, Dorfstraße
+geocode:
+  lat: 53.0324
+  lon: 11.4506
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 19/290
+subjects:
+  - name: Dorfladen
+    type: building
+  - name: Restorf
+    type: place
+  - name: Konfirmation 1723
+    type: event
+parents:
+  - 01KANHTTYAXE4AQ68WK7VS6MK4
+files:
+  - role: main
+    original_name: scan_657.tif
+    path: files/da/06/da06a62aa010e1c4e4148f95bcfe0133789a9a29afa2238e2375cb09262f5259/original.tif
+    sha256: da06a62aa010e1c4e4148f95bcfe0133789a9a29afa2238e2375cb09262f5259
+    mime: image/tiff
+    bytes: 5441676
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/da/06/da06a62aa010e1c4e4148f95bcfe0133789a9a29afa2238e2375cb09262f5259/preview-400.a9bb6c7176d8.jpg
+        sha256: a9bb6c7176d8ef604e89dcc22f7a14e77819488d08a39f0f6483b6ca7e58e9ee
+        mime: image/jpeg
+        bytes: 55033
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

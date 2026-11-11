@@ -1,0 +1,49 @@
+id: 01KMBSBG37H7RJ5BXAEMHHZ18G
+type: image
+subtype: print
+title: Postkarte Brünkendorf, Windmühle
+description: Lithographie, Rand beschnitten.
+date: 1811-09
+location: Kapern, Hafen
+geocode:
+  lat: 53.0098
+  lon: 11.5441
+  precision: exact
+  source: osm
+origin:
+  name: Dieter Stoll
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 33/138
+subjects:
+  - name: Helga Detlefs
+    type: person
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Backhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_984.tif
+    path: files/e5/ef/e5efe12c8ec7871e7a8fe2945235951afa5c2299650562eb0b57da87355c1c1d/original.tif
+    sha256: e5efe12c8ec7871e7a8fe2945235951afa5c2299650562eb0b57da87355c1c1d
+    mime: image/tiff
+    bytes: 11672579
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e5/ef/e5efe12c8ec7871e7a8fe2945235951afa5c2299650562eb0b57da87355c1c1d/preview-400.fe330be4b56e.jpg
+        sha256: fe330be4b56e73a31d6639019a5315e81796475c3acf293c99f5dee14540d1a4
+        mime: image/jpeg
+        bytes: 65325
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

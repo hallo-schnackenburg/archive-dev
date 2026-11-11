@@ -1,0 +1,43 @@
+id: 01JZSCQVPD7ZCWZPMNPKVQK834
+type: image
+subtype: photo
+title: Mühle nach dem Sturmschaden
+date: 198X
+origin:
+  name: Hans Meyer
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg 3/006
+  note: Planschrank, Fach 3
+subjects:
+  - name: Kaufmannshaus
+    type: building
+  - name: Zollamt
+    type: building
+  - name: Hans Wiegmann
+    type: person
+files:
+  - role: main
+    original_name: P7360.jpg
+    path: files/ee/dc/eedc63918b0429aa2aec06f0e7a75ec9372abbe5fa0f48cf6e467f14dbfe41a4/original.jpg
+    sha256: eedc63918b0429aa2aec06f0e7a75ec9372abbe5fa0f48cf6e467f14dbfe41a4
+    mime: image/jpeg
+    bytes: 16671744
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/ee/dc/eedc63918b0429aa2aec06f0e7a75ec9372abbe5fa0f48cf6e467f14dbfe41a4/preview-400.f6f8e89e14b6.jpg
+        sha256: f6f8e89e14b66cac07b74f70195587027602d892a7edd34982291f11ad909603
+        mime: image/jpeg
+        bytes: 36551
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

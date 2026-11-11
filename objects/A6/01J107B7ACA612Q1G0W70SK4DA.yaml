@@ -1,0 +1,38 @@
+id: 01J107B7ACA612Q1G0W70SK4DA
+type: image
+subtype: photo
+title: Marktstraße, Ecke Am Elbdeich
+location: Dömitz, Bahnhofstraße
+origin:
+  name: Erika Meyer
+  type: person
+  location: Kapern
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Poststelle
+    type: building
+  - name: Gorleben
+    type: place
+parents:
+  - 01KKDMB49XNP34JAQ6WF092FVT
+files:
+  - role: main
+    original_name: DSC5419.jpg
+    path: files/0d/22/0d22057f65498412c6295065aba3d79093f0f71a94a128817eda240d5f33ecdd/original.jpg
+    sha256: 0d22057f65498412c6295065aba3d79093f0f71a94a128817eda240d5f33ecdd
+    mime: image/jpeg
+    bytes: 27811380
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0d/22/0d22057f65498412c6295065aba3d79093f0f71a94a128817eda240d5f33ecdd/preview-400.48b9f5b08421.jpg
+        sha256: 48b9f5b08421723e0d4d420badf2e799c846c5f564cba2680ac2ac38c3534665
+        mime: image/jpeg
+        bytes: 77267
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

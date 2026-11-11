@@ -1,0 +1,61 @@
+id: 01GZE0ZXT317P7MNY8DQN330BK
+type: document
+subtype: note
+title: Rechnung Wöhlk, Sportplatz
+date: 1939-01-12
+location: Pretzier, Torhaus
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok 31/273
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Otto Lemke
+    type: person
+parents:
+  - 01HXKWJA1EQYHXN89QXEXV1595
+files:
+  - role: page
+    num: 1
+    original_name: note_n330bk_001.tif
+    path: files/fa/c6/fac6637ca0aef9ed7323d790e1e6e3fbca524db7d34332211eddb3bd89e095c0/original.tif
+    sha256: fac6637ca0aef9ed7323d790e1e6e3fbca524db7d34332211eddb3bd89e095c0
+    mime: image/tiff
+    bytes: 25113992
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fa/c6/fac6637ca0aef9ed7323d790e1e6e3fbca524db7d34332211eddb3bd89e095c0/preview-400.b9eb57ad8200.jpg
+        sha256: b9eb57ad820061b7a6081b61b2cf4764bb7fe120a3916701129bf2b7016a7b75
+        mime: image/jpeg
+        bytes: 66599
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_n330bk_002.tif
+    path: files/19/fc/19fce145aada55cfe8808fcfec2f80b7d62c5fbdfdb2b02ffdf0da848ad4bb0c/original.tif
+    sha256: 19fce145aada55cfe8808fcfec2f80b7d62c5fbdfdb2b02ffdf0da848ad4bb0c
+    mime: image/tiff
+    bytes: 16066695
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/19/fc/19fce145aada55cfe8808fcfec2f80b7d62c5fbdfdb2b02ffdf0da848ad4bb0c/preview-400.bb85bb0197a0.jpg
+        sha256: bb85bb0197a011cdb8e5baf4fea8603d7a04e6af550fe507924286a7f7832bf5
+        mime: image/jpeg
+        bytes: 30504
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

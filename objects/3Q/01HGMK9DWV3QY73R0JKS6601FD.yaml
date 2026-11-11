@@ -1,0 +1,45 @@
+id: 01HGMK9DWV3QY73R0JKS6601FD
+type: image
+subtype: photo
+title: Brückeneinweihung 1891
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1891/1901
+location: Arendsee, Ladestraße
+geocode:
+  lat: 52.9857
+  lon: 11.6014
+  precision: region
+  source: osm
+origin:
+  name: Erika Dreyer
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok 7/136
+parents:
+  - 01HR1QV0ZXC6MF6JQQQ9T74SMN
+  - 01GKNYMFKHFES83J477ZEHD22T
+files:
+  - role: main
+    original_name: foto_2684.jpg
+    path: files/d5/ab/d5abf93a55ed931a974aba41ec48448ac273146277c62187faf6ef5567a5f497/original.jpg
+    sha256: d5abf93a55ed931a974aba41ec48448ac273146277c62187faf6ef5567a5f497
+    mime: image/jpeg
+    bytes: 18270811
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/d5/ab/d5abf93a55ed931a974aba41ec48448ac273146277c62187faf6ef5567a5f497/preview-400.a83e8399ff05.jpg
+        sha256: a83e8399ff056941fb9970598b66d3a560715273c7b8094d1dfe1d5b2b4dd808
+        mime: image/jpeg
+        bytes: 20567
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

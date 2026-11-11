@@ -1,0 +1,42 @@
+id: 01HSCHD0BE48QPM7SJFYD1Y4ZF
+type: image
+subtype: drawing
+title: Skizze Zadrau, Fährstraße
+date: "1969"
+location: Dömitz, Hafenstraße
+origin:
+  name: Emma Jeß
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Dorfteich
+    type: building
+  - name: Pretzier
+    type: place
+parents:
+  - 01HQWPK8KVNS193A9510K7C6AQ
+files:
+  - role: main
+    original_name: scan_673.tif
+    path: files/27/6e/276edc3e55b625fa2e96dd3cb76063af3d9c6cd707dda2e12032dfd385b482a6/original.tif
+    sha256: 276edc3e55b625fa2e96dd3cb76063af3d9c6cd707dda2e12032dfd385b482a6
+    mime: image/tiff
+    bytes: 16888964
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/27/6e/276edc3e55b625fa2e96dd3cb76063af3d9c6cd707dda2e12032dfd385b482a6/preview-400.816e5f948f8e.jpg
+        sha256: 816e5f948f8e7a292e01dc4d03b65c7f791a4809e4d4157cb5a87e2d9f37b32f
+        mime: image/jpeg
+        bytes: 35319
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

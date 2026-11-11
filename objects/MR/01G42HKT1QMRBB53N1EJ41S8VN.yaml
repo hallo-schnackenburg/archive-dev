@@ -1,0 +1,37 @@
+id: 01G42HKT1QMRBB53N1EJ41S8VN
+type: image
+subtype: print
+title: Lithographie Dorfladen, Gorleben (70)
+date: "1811"
+location: Restorf, Fährstraße
+origin:
+  name: Hans Plate
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Kirche St. Johannis
+    type: building
+  - name: Dorfschule
+    type: building
+files:
+  - role: main
+    original_name: scan_103.tif
+    path: files/04/20/04208c076ddb5cc0b50aaf2b0bc874135d6c877f2370366ba69d225cb5f1484a/original.tif
+    sha256: 04208c076ddb5cc0b50aaf2b0bc874135d6c877f2370366ba69d225cb5f1484a
+    mime: image/tiff
+    bytes: 12617659
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/04/20/04208c076ddb5cc0b50aaf2b0bc874135d6c877f2370366ba69d225cb5f1484a/preview-400.7b4f4cb5e227.jpg
+        sha256: 7b4f4cb5e2273c52d1647773c98b22f73f3819e8a4ac96ffa8004fff3b3fd6e2
+        mime: image/jpeg
+        bytes: 60321
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

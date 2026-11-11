@@ -1,0 +1,38 @@
+id: 01KSR6DSZ06W70TR9XB9MVTW6E
+type: image
+subtype: drawing
+title: Skizze Nienwalde, Lange Straße
+description: Federzeichnung, laviert.
+date: "1830"
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Havelberg
+    type: place
+parents:
+  - 01J3V1AMRN38DQVKPXPMF1EE94
+files:
+  - role: main
+    original_name: scan_896.tif
+    path: files/ee/3b/ee3bee4eeb7bed7ca80a2fa75f168bf3e2db2af4cb65395306aa2d3187349674/original.tif
+    sha256: ee3bee4eeb7bed7ca80a2fa75f168bf3e2db2af4cb65395306aa2d3187349674
+    mime: image/tiff
+    bytes: 27731001
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ee/3b/ee3bee4eeb7bed7ca80a2fa75f168bf3e2db2af4cb65395306aa2d3187349674/preview-400.602abda09010.jpg
+        sha256: 602abda09010d12bfad81a06097ec32cd9e9b3e48f844b6d2b0f5524fd30561e
+        mime: image/jpeg
+        bytes: 71081
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

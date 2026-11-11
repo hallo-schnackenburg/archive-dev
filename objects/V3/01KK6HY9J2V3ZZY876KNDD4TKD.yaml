@@ -1,0 +1,44 @@
+id: 01KK6HY9J2V3ZZY876KNDD4TKD
+type: image
+subtype: photo
+title: Ernst Dreyer vor dem Gutshaus
+description: Aufnahme von Rudolf Nitschke.
+date: "1959"
+location: Wootz, Speicher
+origin:
+  name: Hans Tiedemann
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F 27/066
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Bömenzien
+    type: place
+  - name: August Jeß
+    type: person
+files:
+  - role: main
+    original_name: P2757.jpg
+    path: files/0f/dc/0fdc25debc25f58ffc4355ee67c6ec39e389f063248c6a2875fe5ac9ed6d8e9d/original.jpg
+    sha256: 0fdc25debc25f58ffc4355ee67c6ec39e389f063248c6a2875fe5ac9ed6d8e9d
+    mime: image/jpeg
+    bytes: 23232593
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/0f/dc/0fdc25debc25f58ffc4355ee67c6ec39e389f063248c6a2875fe5ac9ed6d8e9d/preview-400.476e89e67ae9.jpg
+        sha256: 476e89e67ae922401148af3eff6b79f7321a4c07d412968fc2f9f27a909c583c
+        mime: image/jpeg
+        bytes: 36481
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

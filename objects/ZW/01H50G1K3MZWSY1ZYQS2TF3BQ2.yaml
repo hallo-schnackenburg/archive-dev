@@ -1,0 +1,35 @@
+id: 01H50G1K3MZWSY1ZYQS2TF3BQ2
+type: image
+subtype: photo
+title: Blick vom Hafen auf das Schützenhaus
+date: 1943?
+location: Pretzier, Dorfteich
+origin:
+  name: Marta Wegner
+  type: person
+  location: Laase
+subjects:
+  - name: Feuerwehrübung 1943
+    type: event
+parents:
+  - 01JAT6399B3E9Z9P00A12BJSFT
+files:
+  - role: main
+    original_name: foto_6062.jpg
+    path: files/42/65/4265dd5c1167f9848f112bce27116d7b738a2039aa83e39c6dbd161abf3e9854/original.jpg
+    sha256: 4265dd5c1167f9848f112bce27116d7b738a2039aa83e39c6dbd161abf3e9854
+    mime: image/jpeg
+    bytes: 12573113
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/42/65/4265dd5c1167f9848f112bce27116d7b738a2039aa83e39c6dbd161abf3e9854/preview-400.b304ebf80508.jpg
+        sha256: b304ebf80508681501571015f745f0d5bbe1e2d6b2b7c5559a14bd790e530f80
+        mime: image/jpeg
+        bytes: 72463
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,49 @@
+id: 01G94T4EKNQJMP54M1A1216D4A
+type: image
+subtype: photo
+title: Kirchstraße, Ecke Mühlenweg
+date: "1948"
+location: Salzwedel, Am Elbdeich
+geocode:
+  lat: 53.0658
+  lon: 11.5885
+  precision: street
+  source: osm
+origin:
+  name: Ursula Voss
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br 18/337
+  note: Planschrank, Fach 3
+subjects:
+  - name: Maifeier 1948
+    type: event
+  - name: Glockenweihe 1948
+    type: event
+parents:
+  - 01HR8855DCCGBPN12NSBDQW8VK
+files:
+  - role: main
+    original_name: foto_0347.jpg
+    path: files/7b/b6/7bb69e270dd81b7cd39f8157297c2ceae2a87e5c052137964bf94966e834aa60/original.jpg
+    sha256: 7bb69e270dd81b7cd39f8157297c2ceae2a87e5c052137964bf94966e834aa60
+    mime: image/jpeg
+    bytes: 14393954
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/7b/b6/7bb69e270dd81b7cd39f8157297c2ceae2a87e5c052137964bf94966e834aa60/preview-400.64660008c553.jpg
+        sha256: 64660008c55325f5d5a8a18ad478ab4de53210e248694c81f8f8735d29658061
+        mime: image/jpeg
+        bytes: 35736
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,46 @@
+id: 01KHSFS4722GG61HDFZ884ZR29
+type: image
+subtype: photo
+title: Feuerwehrübung 1946
+description: Aufnahme von Karl Schulz.
+date: 1946~
+location: Zadrau, Am Elbdeich
+geocode:
+  lat: 53.0641
+  lon: 11.4722
+  precision: region
+  source: osm
+origin:
+  name: Otto Schwarz
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 22/262
+  note: Planschrank, Fach 3
+subjects:
+  - name: Badestelle
+    type: building
+files:
+  - role: main
+    original_name: scan_830.tif
+    path: files/07/1d/071d3b0a7ff968422b452f641b9b81db655b780efbc04a5cf4623367c2d1de16/original.tif
+    sha256: 071d3b0a7ff968422b452f641b9b81db655b780efbc04a5cf4623367c2d1de16
+    mime: image/tiff
+    bytes: 4320513
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/1d/071d3b0a7ff968422b452f641b9b81db655b780efbc04a5cf4623367c2d1de16/preview-400.86f560de8489.jpg
+        sha256: 86f560de84893a8266bb8433dcacb272882ec8664e3b48fe1a4c8597241647c0
+        mime: image/jpeg
+        bytes: 55332
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

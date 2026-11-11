@@ -1,0 +1,42 @@
+id: 01H6JR5143DTMWA5K6KQHMZS4J
+type: image
+subtype: plan
+title: Bauplan Sparkasse 1934
+date: "1934"
+origin:
+  name: Karl Brandt
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br/Album 20/086
+subjects:
+  - name: Albert Bohlmann
+    type: person
+  - name: Sparkasse
+    type: building
+  - name: Wootz
+    type: place
+files:
+  - role: main
+    original_name: scan_175.tif
+    path: files/86/5a/865a4ab315345d262130609c74ee612106fe71e50f96492db92e0a6fe207f1ac/original.tif
+    sha256: 865a4ab315345d262130609c74ee612106fe71e50f96492db92e0a6fe207f1ac
+    mime: image/tiff
+    bytes: 19754432
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/86/5a/865a4ab315345d262130609c74ee612106fe71e50f96492db92e0a6fe207f1ac/preview-400.106f5117fe9a.jpg
+        sha256: 106f5117fe9a557080823c59ad3827e5783457c3df55c00e44311e0e94ed6eec
+        mime: image/jpeg
+        bytes: 55369
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

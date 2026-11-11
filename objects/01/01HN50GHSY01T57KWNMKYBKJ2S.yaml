@@ -1,0 +1,38 @@
+id: 01HN50GHSY01T57KWNMKYBKJ2S
+type: image
+subtype: plan
+title: Bauplan Poststelle 1970
+description: Tusche auf Transparentpapier.
+date: "1970"
+location: Nienwalde, Hafenstraße
+origin:
+  name: Erika Lemke
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Schmiede
+    type: building
+  - name: Einschulung 1970
+    type: event
+parents:
+  - 01G5CJBY3RS88Q2T2XPXK8Z7QS
+files:
+  - role: main
+    original_name: scan_759.tif
+    path: files/12/2a/122adf38c9e51c74ed24e012eedd971652f9865002ae6bd116f2f86a96f9d9e6/original.tif
+    sha256: 122adf38c9e51c74ed24e012eedd971652f9865002ae6bd116f2f86a96f9d9e6
+    mime: image/tiff
+    bytes: 23553068
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/12/2a/122adf38c9e51c74ed24e012eedd971652f9865002ae6bd116f2f86a96f9d9e6/preview-400.757aa87da991.jpg
+        sha256: 757aa87da991cb2586b42b7eb41fb128cf009085f955608662a4c148b245395c
+        mime: image/jpeg
+        bytes: 83518
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

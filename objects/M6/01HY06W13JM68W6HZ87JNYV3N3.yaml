@@ -1,0 +1,33 @@
+id: 01HY06W13JM68W6HZ87JNYV3N3
+type: image
+subtype: plan
+title: Bauplan Gutshaus 1959
+date: "1959"
+location: Schnackenburg, Kaufmannshaus
+origin:
+  name: Gerda Nitschke
+  type: person
+  location: Kapern
+subjects:
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: scan_133.tif
+    path: files/26/e0/26e00f45771ebd646cf44855d3c2436c5bcc89a2fdd0eed4b1f0ee7fd74d6fdf/original.tif
+    sha256: 26e00f45771ebd646cf44855d3c2436c5bcc89a2fdd0eed4b1f0ee7fd74d6fdf
+    mime: image/tiff
+    bytes: 2867003
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/26/e0/26e00f45771ebd646cf44855d3c2436c5bcc89a2fdd0eed4b1f0ee7fd74d6fdf/preview-400.4836ac1c30a5.jpg
+        sha256: 4836ac1c30a5426997e9e240250179eba2b3dcc1d032d41a8d59b7f5629202dc
+        mime: image/jpeg
+        bytes: 50764
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01G30FZS24094C4KP4PTKFH82S
+type: image
+subtype: photo
+title: Blick vom Försterei auf das Hafen
+date: 1926-11-26
+origin:
+  name: Karl Tiedemann
+  type: person
+  location: Gorleben
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Karl Lüders
+    type: person
+  - name: Eisgang 1926
+    type: event
+parents:
+  - 01F267JRW9ANSP74NWFX31H9W4
+files:
+  - role: main
+    original_name: scan_566.tif
+    path: files/9a/b5/9ab5a501e663cb5bac1284c410c65592365378e140b4c60f79e050213e5b9194/original.tif
+    sha256: 9ab5a501e663cb5bac1284c410c65592365378e140b4c60f79e050213e5b9194
+    mime: image/tiff
+    bytes: 13352759
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9a/b5/9ab5a501e663cb5bac1284c410c65592365378e140b4c60f79e050213e5b9194/preview-400.e7d28970141d.jpg
+        sha256: e7d28970141dc14cc2753884bb214967b417f7312c73356cdde159c69d4af6a7
+        mime: image/jpeg
+        bytes: 63393
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

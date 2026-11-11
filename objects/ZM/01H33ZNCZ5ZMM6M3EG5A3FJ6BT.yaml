@@ -1,0 +1,37 @@
+id: 01H33ZNCZ5ZMM6M3EG5A3FJ6BT
+type: image
+subtype: plan
+title: Bauplan Friedhofskapelle 1992
+date: 1992-08
+location: Brünkendorf, Gasthof Meyer
+geocode:
+  lat: 53.0777
+  lon: 11.6028
+  precision: town
+  source: osm
+subjects:
+  - name: Holtorf
+    type: place
+parents:
+  - 01GVKN942N85NKH8CV072GG85G
+  - 01FT5CTVAMDQF7480XV03FD2CZ
+files:
+  - role: main
+    original_name: scan_785.tif
+    path: files/49/30/4930086deafdf86b10427c9eb02b7044c35c08c511291154e4d90b75d34658cd/original.tif
+    sha256: 4930086deafdf86b10427c9eb02b7044c35c08c511291154e4d90b75d34658cd
+    mime: image/tiff
+    bytes: 3060368
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/49/30/4930086deafdf86b10427c9eb02b7044c35c08c511291154e4d90b75d34658cd/preview-400.e3f1e57572b0.jpg
+        sha256: e3f1e57572b03a44c85db74b442fbfefad4b55d1b9e54f76221b435752250763
+        mime: image/jpeg
+        bytes: 87282
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

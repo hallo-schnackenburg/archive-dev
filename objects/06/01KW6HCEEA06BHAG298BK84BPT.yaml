@@ -1,0 +1,36 @@
+id: 01KW6HCEEA06BHAG298BK84BPT
+type: image
+subtype: photo
+title: Eisgang 2001
+description: Farbfoto, leicht verblasst.
+date: "2001"
+origin:
+  name: Gerda Fricke
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Schrank B
+files:
+  - role: main
+    original_name: P1717.jpg
+    path: files/4e/4b/4e4b3a0d9932dd37220157ac39150df403ea70dfd785b0ef4296b70a02ee8363/original.jpg
+    sha256: 4e4b3a0d9932dd37220157ac39150df403ea70dfd785b0ef4296b70a02ee8363
+    mime: image/jpeg
+    bytes: 1861506
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/4e/4b/4e4b3a0d9932dd37220157ac39150df403ea70dfd785b0ef4296b70a02ee8363/preview-400.d97577fffb6c.jpg
+        sha256: d97577fffb6c57aec19d3be440fce510546f3776861659e83247a802e53fcdd3
+        mime: image/jpeg
+        bytes: 85907
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

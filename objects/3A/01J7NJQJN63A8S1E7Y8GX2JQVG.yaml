@@ -1,0 +1,35 @@
+id: 01J7NJQJN63A8S1E7Y8GX2JQVG
+type: image
+subtype: plan
+title: Bauplan Speicher 1994
+description: Maßstab 1:250.
+date: "1994"
+origin:
+  name: Helga Lemke
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Kindergarten
+    type: building
+files:
+  - role: main
+    original_name: scan_758.tif
+    path: files/77/49/7749e1d86181d77351531fd9b2335049fd02434a21f8a87a9f1d91d98587884f/original.tif
+    sha256: 7749e1d86181d77351531fd9b2335049fd02434a21f8a87a9f1d91d98587884f
+    mime: image/tiff
+    bytes: 17134946
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/77/49/7749e1d86181d77351531fd9b2335049fd02434a21f8a87a9f1d91d98587884f/preview-400.130a9b4942e9.jpg
+        sha256: 130a9b4942e9b22d695eb9a693ef2acb23bae75aedc37e230fd67cc7d9291064
+        mime: image/jpeg
+        bytes: 60792
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

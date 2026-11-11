@@ -1,0 +1,84 @@
+id: 01G7F2WGP15H1H4BD1YZY8SMF8
+type: document
+subtype: letter
+title: Karl Schwarz an die Gemeinde wegen Viehseuche
+description: Mit Umschlag und Briefmarke.
+date: 1913-01-03
+location: Restorf, Lange Straße
+geocode:
+  lat: 53.0673
+  lon: 11.5275
+  precision: town
+  source: osm
+origin:
+  name: Käthe Lüders
+  type: person
+  location: Salzwedel
+recipient: Wilhelm Bohlmann
+language: de
+subjects:
+  - name: Mühle
+    type: building
+parents:
+  - 01JGSEJ488A7DZQPFCQNBYWMJ1
+files:
+  - role: page
+    num: 1
+    original_name: letter_y8smf8_001.tif
+    path: files/ba/62/ba62179e9e87fb93abcb4254331c4e7dcc5ea2c507cade81048d0655864eb3db/original.tif
+    sha256: ba62179e9e87fb93abcb4254331c4e7dcc5ea2c507cade81048d0655864eb3db
+    mime: image/tiff
+    bytes: 4008513
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ba/62/ba62179e9e87fb93abcb4254331c4e7dcc5ea2c507cade81048d0655864eb3db/preview-400.cec6944c434e.jpg
+        sha256: cec6944c434e0342e11ea749949670bfd36dd719357d2c454145913fdc9efc2d
+        mime: image/jpeg
+        bytes: 27023
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_y8smf8_002.tif
+    path: files/a9/4a/a94a84464f75d9ae35c602bef2d45e0d85fc5f89ec241ed7318c3fda569e0ec1/original.tif
+    sha256: a94a84464f75d9ae35c602bef2d45e0d85fc5f89ec241ed7318c3fda569e0ec1
+    mime: image/tiff
+    bytes: 19136599
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a9/4a/a94a84464f75d9ae35c602bef2d45e0d85fc5f89ec241ed7318c3fda569e0ec1/preview-400.9707054a7f23.jpg
+        sha256: 9707054a7f2305c5c9ec34313cdcf0626c06624fe9c5516616e11df0cd115c1c
+        mime: image/jpeg
+        bytes: 37069
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_y8smf8_003.tif
+    path: files/73/7e/737ef685b82a1f9339ef61378fca7fa2b9339ef7f32b16b504d5fc5627fe6b23/original.tif
+    sha256: 737ef685b82a1f9339ef61378fca7fa2b9339ef7f32b16b504d5fc5627fe6b23
+    mime: image/tiff
+    bytes: 1150249
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/73/7e/737ef685b82a1f9339ef61378fca7fa2b9339ef7f32b16b504d5fc5627fe6b23/preview-400.43efc5aab4aa.jpg
+        sha256: 43efc5aab4aa5132aa2cfe611db8fbedef8271f42ba59e9c4e82a6d5d43c74a7
+        mime: image/jpeg
+        bytes: 70268
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01K1Z4A84231PYTEVH7QD00R04
+type: image
+subtype: photo
+title: Günter Voss, Porträt
+date: 1928-02-03
+location: Lanz, Sportplatz
+geocode:
+  lat: 52.9941
+  lon: 11.6525
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Album 29/046
+  note: Schrank B
+subjects:
+  - name: Berta Oelker
+    type: person
+  - name: Rudolf Voss
+    type: person
+parents:
+  - 01HQPAG3WR0RA4T7KFW4A027V9
+files:
+  - role: main
+    original_name: foto_3218.jpg
+    path: files/25/0c/250ca769acc3a107c8625e9203ce972af620311e16efed512d4ba3c2f7df1980/original.jpg
+    sha256: 250ca769acc3a107c8625e9203ce972af620311e16efed512d4ba3c2f7df1980
+    mime: image/jpeg
+    bytes: 2942633
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/25/0c/250ca769acc3a107c8625e9203ce972af620311e16efed512d4ba3c2f7df1980/preview-400.67e6386f7595.jpg
+        sha256: 67e6386f75956f2363f2c2538d4823861ebcfe5640dfa590d251a00974fcca2a
+        mime: image/jpeg
+        bytes: 27498
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

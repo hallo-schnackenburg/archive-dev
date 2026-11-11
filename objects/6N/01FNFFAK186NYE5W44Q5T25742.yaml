@@ -1,0 +1,38 @@
+id: 01FNFFAK186NYE5W44Q5T25742
+type: image
+subtype: photo
+title: Friedrich Cohrs vor dem Poststelle
+date: "1904"
+origin:
+  name: Anni Gaede
+  type: person
+  location: Havelberg
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Hochzeit 1904
+    type: event
+  - name: Einschulung 1904
+    type: event
+parents:
+  - 01KNZ0SE3D6PEDW26H1C3A2K48
+files:
+  - role: main
+    original_name: foto_7600.jpg
+    path: files/32/f1/32f1636be30718749ede2af9ec3f72cdec8dfa84a677c714fc49cfb2a346de02/original.jpg
+    sha256: 32f1636be30718749ede2af9ec3f72cdec8dfa84a677c714fc49cfb2a346de02
+    mime: image/jpeg
+    bytes: 6521835
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/32/f1/32f1636be30718749ede2af9ec3f72cdec8dfa84a677c714fc49cfb2a346de02/preview-400.d0aeebbfda82.jpg
+        sha256: d0aeebbfda827218dec1483b10f0c8704e024308e4d170782be7a20f64d2327e
+        mime: image/jpeg
+        bytes: 53825
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

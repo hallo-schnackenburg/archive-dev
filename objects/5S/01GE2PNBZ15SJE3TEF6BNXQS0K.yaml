@@ -1,0 +1,48 @@
+id: 01GE2PNBZ15SJE3TEF6BNXQS0K
+type: image
+subtype: drawing
+title: Skizze Pretzier, Burgstraße
+description: Bleistift auf Papier.
+date: 1918-06
+origin:
+  name: Wilhelm Dreyer
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 11/061
+owner:
+  name: Erika Eggers
+  type: person
+  note: Nachlass
+subjects:
+  - name: Bömenzien
+    type: place
+  - name: Lanz
+    type: place
+parents:
+  - 01GKNYMFKHFES83J477ZEHD22T
+  - 01G13YFEMZ6M5B1HQ76CM2BWE2
+files:
+  - role: main
+    original_name: scan_635.tif
+    path: files/d9/5a/d95adf184f91571e1aadb7b4f778de48866b7937038d43134f6c7948b6ca3512/original.tif
+    sha256: d95adf184f91571e1aadb7b4f778de48866b7937038d43134f6c7948b6ca3512
+    mime: image/tiff
+    bytes: 3513884
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d9/5a/d95adf184f91571e1aadb7b4f778de48866b7937038d43134f6c7948b6ca3512/preview-400.0be693ea18e4.jpg
+        sha256: 0be693ea18e456d6e37d013207bbdc772ab6320bf7856c963c730dc59883e0dc
+        mime: image/jpeg
+        bytes: 39278
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

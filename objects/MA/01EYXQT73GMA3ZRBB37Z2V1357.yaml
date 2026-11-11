@@ -1,0 +1,42 @@
+id: 01EYXQT73GMA3ZRBB37Z2V1357
+type: image
+subtype: print
+title: Postkarte Lenzen, Dorfladen
+date: 1791?
+location: Kapern, Schulstraße
+origin:
+  name: Karl Kuhlmann
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Familie Behrens
+    type: person
+    location: Wootz
+subjects:
+  - name: Dorfteich
+    type: building
+  - name: Feuerwehrhaus
+    type: building
+  - name: Eisgang 1791
+    type: event
+files:
+  - role: main
+    original_name: scan_835.tif
+    path: files/b3/66/b366dbb20d7df9bb4f63ec76266531ed950d7756c36f50c9c887364677a7b532/original.tif
+    sha256: b366dbb20d7df9bb4f63ec76266531ed950d7756c36f50c9c887364677a7b532
+    mime: image/tiff
+    bytes: 15359072
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/66/b366dbb20d7df9bb4f63ec76266531ed950d7756c36f50c9c887364677a7b532/preview-400.ef74cccdfdcd.jpg
+        sha256: ef74cccdfdcd73ef9ef8dafa1740281adf43eac6913fa96cc48801e7cca9bd08
+        mime: image/jpeg
+        bytes: 39185
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01GKT75WHZT4F4GC56EB8PHZZF
+type: image
+subtype: plan
+title: Bauplan Sparkasse 1846
+date: 1846/1852
+original:
+  holder:
+    name: Familie Wiegmann
+    type: person
+    location: Lenzen
+  reference: Slg 5/049
+subjects:
+  - name: Osterfeuer 1846
+    type: event
+parents:
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+  - 01F5CNJT1P56W2G465BH02E933
+files:
+  - role: main
+    original_name: scan_618.tif
+    path: files/92/6b/926bb14906ad5cd50e4ddb7014ab151cdb2cbf2ea9ae02aa2dec00ba5dc4a140/original.tif
+    sha256: 926bb14906ad5cd50e4ddb7014ab151cdb2cbf2ea9ae02aa2dec00ba5dc4a140
+    mime: image/tiff
+    bytes: 7221352
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/92/6b/926bb14906ad5cd50e4ddb7014ab151cdb2cbf2ea9ae02aa2dec00ba5dc4a140/preview-400.70eb5a50c161.jpg
+        sha256: 70eb5a50c1615e75787e2958cf9b17eba9ee088e70eb8ba15f5ebe27ef9d3cb3
+        mime: image/jpeg
+        bytes: 42111
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

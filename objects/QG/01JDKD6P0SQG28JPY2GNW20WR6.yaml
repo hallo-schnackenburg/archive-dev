@@ -1,0 +1,43 @@
+id: 01JDKD6P0SQG28JPY2GNW20WR6
+type: image
+subtype: print
+title: Postkarte Cumlosen, Backhaus
+description: Kupferstich, koloriert.
+location: Cumlosen, Mühlenweg
+origin:
+  name: Ernst Ludolf
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 1/047
+subjects:
+  - name: Brückeneinweihung 1817
+    type: event
+  - name: Richtfest 1817
+    type: event
+  - name: Pretzier
+    type: place
+files:
+  - role: main
+    original_name: scan_620.tif
+    path: files/71/e0/71e0785d653d2c31b8d390806be6ffe3378cb1b811f4ca348e4dad9127f04448/original.tif
+    sha256: 71e0785d653d2c31b8d390806be6ffe3378cb1b811f4ca348e4dad9127f04448
+    mime: image/tiff
+    bytes: 4616624
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/71/e0/71e0785d653d2c31b8d390806be6ffe3378cb1b811f4ca348e4dad9127f04448/preview-400.6dcb28aa8113.jpg
+        sha256: 6dcb28aa81133aaf5ebb170f1f115e5db25bf4c7589f7dd2e6c8b5713e15bb40
+        mime: image/jpeg
+        bytes: 34116
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01GZRWDGDAY2Q70S6EJQBEREG2
+type: image
+subtype: plan
+title: Bauplan Friedhofskapelle 1828
+description: Mit handschriftlichen Ergänzungen.
+date: 1828-12-13
+location: Gartow, Bahnhofstraße
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Richtfest 1828
+    type: event
+  - name: Elbdeich
+    type: building
+parents:
+  - 01KYY4CVMJ2SF598S69P8F19XE
+files:
+  - role: main
+    original_name: scan_984.tif
+    path: files/aa/75/aa75f6da7fa1328a8a2e3011459acdab31e026437c0c8563fef338d3b20dfcbe/original.tif
+    sha256: aa75f6da7fa1328a8a2e3011459acdab31e026437c0c8563fef338d3b20dfcbe
+    mime: image/tiff
+    bytes: 10384174
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/aa/75/aa75f6da7fa1328a8a2e3011459acdab31e026437c0c8563fef338d3b20dfcbe/preview-400.f1e2b9eb9ce5.jpg
+        sha256: f1e2b9eb9ce5df25949955718be205500415ac4a751c0bcc7c346ddc96666cca
+        mime: image/jpeg
+        bytes: 83187
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

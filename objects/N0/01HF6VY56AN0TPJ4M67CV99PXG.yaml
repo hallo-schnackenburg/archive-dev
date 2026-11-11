@@ -1,0 +1,36 @@
+id: 01HF6VY56AN0TPJ4M67CV99PXG
+type: image
+subtype: plan
+title: Bauplan Dorfkrug 1810
+description: Mit handschriftlichen Ergänzungen.
+date: 1810~
+location: Bömenzien, Kirchstraße
+origin:
+  name: Renate Krüger
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Hans Timm
+    type: person
+parents:
+  - 01KD000830AWSSZZ7WT8DANPRF
+files:
+  - role: main
+    original_name: scan_399.tif
+    path: files/4d/10/4d10630f003459d6d69a56307dd02d531b10646e815d0343c1dfc8de811b9ec5/original.tif
+    sha256: 4d10630f003459d6d69a56307dd02d531b10646e815d0343c1dfc8de811b9ec5
+    mime: image/tiff
+    bytes: 24296924
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4d/10/4d10630f003459d6d69a56307dd02d531b10646e815d0343c1dfc8de811b9ec5/preview-400.0edf7a461269.jpg
+        sha256: 0edf7a4612696732277d65775d0d5abcc86e2e8af551e45210d695e6e06ca24e
+        mime: image/jpeg
+        bytes: 26417
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

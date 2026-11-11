@@ -1,0 +1,37 @@
+id: 01F8GJ93DD3DCAJ9Y97A4CRVP8
+type: image
+subtype: photo
+title: Rathaus in Wootz
+origin:
+  name: Karl Wiegmann
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 6/210
+subjects:
+  - name: Nienwalde
+    type: place
+files:
+  - role: main
+    original_name: scan_715.tif
+    path: files/53/dc/53dc728da4bdc8183ee42d3a2e3cbcdf9b2280671b22bfc7a471b1cb7f9fef46/original.tif
+    sha256: 53dc728da4bdc8183ee42d3a2e3cbcdf9b2280671b22bfc7a471b1cb7f9fef46
+    mime: image/tiff
+    bytes: 11504395
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/53/dc/53dc728da4bdc8183ee42d3a2e3cbcdf9b2280671b22bfc7a471b1cb7f9fef46/preview-400.14d971310ecd.jpg
+        sha256: 14d971310ecd48ae5a644ab7918fb1a88119cf957452a82b6172cd6b9f0c610b
+        mime: image/jpeg
+        bytes: 41640
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

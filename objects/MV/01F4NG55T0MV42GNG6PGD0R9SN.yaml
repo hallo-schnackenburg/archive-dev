@@ -1,0 +1,32 @@
+id: 01F4NG55T0MV42GNG6PGD0R9SN
+type: image
+subtype: photo
+title: Heinrich Wiese vor dem Wassermühle
+date: 198X
+location: Gartow, Am Elbdeich
+origin:
+  name: August Matthies
+  type: person
+  location: Zadrau
+parents:
+  - 01JGSEJ488A7DZQPFCQNBYWMJ1
+files:
+  - role: main
+    original_name: scan_450.tif
+    path: files/39/96/3996dd2e7740e86589e0e3e9d8c4b80a28513ea22a70e11d5d268d23a659520a/original.tif
+    sha256: 3996dd2e7740e86589e0e3e9d8c4b80a28513ea22a70e11d5d268d23a659520a
+    mime: image/tiff
+    bytes: 8243955
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/39/96/3996dd2e7740e86589e0e3e9d8c4b80a28513ea22a70e11d5d268d23a659520a/preview-400.f7efd758d0b3.jpg
+        sha256: f7efd758d0b3259d08fa4bddd1260eaeff23c2893fc2a8e9e0557f45cf96df23
+        mime: image/jpeg
+        bytes: 67545
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01KENJ29DGSX4BP1WKZ3NS8V43
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Eisgang"
+description: Federzeichnung, laviert.
+date: 1917?
+location: Gorleben, Bäckerei Lüders
+origin:
+  name: Erika Jürgens
+  type: person
+  location: Holtorf
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Tanzsaal
+    type: building
+files:
+  - role: main
+    original_name: scan_886.tif
+    path: files/f0/a3/f0a3108305fbc16912b713be39c762b94e22b6062f4247afd469a9df67fdf7f0/original.tif
+    sha256: f0a3108305fbc16912b713be39c762b94e22b6062f4247afd469a9df67fdf7f0
+    mime: image/tiff
+    bytes: 26042795
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f0/a3/f0a3108305fbc16912b713be39c762b94e22b6062f4247afd469a9df67fdf7f0/preview-400.6c180607266f.jpg
+        sha256: 6c180607266f06965691d241b80a11dd921a3ca094739b80cf2fb553ad06c8ea
+        mime: image/jpeg
+        bytes: 56564
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

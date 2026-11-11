@@ -1,0 +1,38 @@
+id: 01JF29ZA12TXHJS9K5743CQYA2
+type: image
+subtype: print
+title: Gruß aus Bömenzien, Gülden
+description: Kupferstich, koloriert.
+date: 1890-09-03
+location: Havelberg, Grenzturm
+origin:
+  name: Hans Garms
+  type: person
+  location: Wustrow
+subjects:
+  - name: Einweihung 1890
+    type: event
+  - name: Gorleben
+    type: place
+parents:
+  - 01K16728TJR9J7SKEG0YYC3BZ6
+files:
+  - role: main
+    original_name: scan_941.tif
+    path: files/44/cd/44cd96696be8980a3300646efca533391dbdc1dfaa3372c321829df79312969c/original.tif
+    sha256: 44cd96696be8980a3300646efca533391dbdc1dfaa3372c321829df79312969c
+    mime: image/tiff
+    bytes: 18338724
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/44/cd/44cd96696be8980a3300646efca533391dbdc1dfaa3372c321829df79312969c/preview-400.b24b11fcef24.jpg
+        sha256: b24b11fcef24660a45325106f7741e57db3f695777fd54cf50b81615803f364a
+        mime: image/jpeg
+        bytes: 89341
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

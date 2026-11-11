@@ -1,0 +1,31 @@
+id: 01HPBWJXZZ2SJ6NK81VZFT1WZ6
+type: image
+subtype: print
+title: Gruß aus Brünkendorf, Rüterberg
+date: "1853"
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg 25/186
+files:
+  - role: main
+    original_name: scan_629.tif
+    path: files/0f/57/0f5785e294fea5c028c85804866a66ca75265abd2ede542ae58d7256d1bbabed/original.tif
+    sha256: 0f5785e294fea5c028c85804866a66ca75265abd2ede542ae58d7256d1bbabed
+    mime: image/tiff
+    bytes: 25122373
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0f/57/0f5785e294fea5c028c85804866a66ca75265abd2ede542ae58d7256d1bbabed/preview-400.ecf9d61b0adf.jpg
+        sha256: ecf9d61b0adf62131151f725fef6b4f5a7475b4afc2e85aefa02c97c603864f3
+        mime: image/jpeg
+        bytes: 41119
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,32 @@
+id: 01JJEFZET4CXJR1ZSVN8BQN0P9
+type: image
+subtype: plan
+title: Bauplan Backhaus 1780
+description: Tusche auf Transparentpapier.
+date: 1780/1788
+location: Wootz, Dorfstraße
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+parents:
+  - 01KT1B4YZD11RXC8P8PMNGFW3D
+files:
+  - role: main
+    original_name: scan_904.tif
+    path: files/81/24/81242e41a809b12541edd72b2624b79152e36a472692d2da75bd123e54ba0910/original.tif
+    sha256: 81242e41a809b12541edd72b2624b79152e36a472692d2da75bd123e54ba0910
+    mime: image/tiff
+    bytes: 5233819
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/81/24/81242e41a809b12541edd72b2624b79152e36a472692d2da75bd123e54ba0910/preview-400.4852efd10016.jpg
+        sha256: 4852efd10016f42d020890b2f122f1d048a6913379e21d1d5db4fdd0ca9c5720
+        mime: image/jpeg
+        bytes: 28684
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

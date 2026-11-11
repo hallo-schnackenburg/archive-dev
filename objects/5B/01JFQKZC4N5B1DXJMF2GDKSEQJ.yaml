@@ -1,0 +1,40 @@
+id: 01JFQKZC4N5B1DXJMF2GDKSEQJ
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Eisgang, Lüchow"
+date: 1860-06
+origin:
+  name: Paul Detlefs
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Familie Garms
+    type: person
+    location: Gollensdorf
+  note: Kellerarchiv
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Ortsbesichtigung 1860
+    type: event
+files:
+  - role: main
+    original_name: scan_356.tif
+    path: files/6b/c2/6bc225fb12c3a97024eb78e46ea71519c25103336e04ce6374356f1b1fcaa129/original.tif
+    sha256: 6bc225fb12c3a97024eb78e46ea71519c25103336e04ce6374356f1b1fcaa129
+    mime: image/tiff
+    bytes: 25349274
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/6b/c2/6bc225fb12c3a97024eb78e46ea71519c25103336e04ce6374356f1b1fcaa129/preview-400.97f5b3a8bc88.jpg
+        sha256: 97f5b3a8bc887735cea9a70dd24dea5151abc1053da6502f85af3dd32496cc79
+        mime: image/jpeg
+        bytes: 89776
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

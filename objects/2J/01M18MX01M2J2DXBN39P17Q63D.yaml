@@ -1,0 +1,44 @@
+id: 01M18MX01M2J2DXBN39P17Q63D
+type: image
+subtype: plan
+title: Bauplan Gemeindehaus 1908
+date: 1908/1919
+location: Gorleben, Poststelle
+origin:
+  name: Elfriede Lindemann
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok 9/070
+  note: Dachboden, Truhe
+subjects:
+  - name: Windmühle
+    type: building
+  - name: Marta Lemke
+    type: person
+parents:
+  - 01JBGVAY167R5WYZSBZK5TM9S3
+files:
+  - role: main
+    original_name: scan_204.tif
+    path: files/da/df/dadf55bc3f54707132dd56d545f6f8d582d868ec9f49858eecce00780881d09d/original.tif
+    sha256: dadf55bc3f54707132dd56d545f6f8d582d868ec9f49858eecce00780881d09d
+    mime: image/tiff
+    bytes: 24040414
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/da/df/dadf55bc3f54707132dd56d545f6f8d582d868ec9f49858eecce00780881d09d/preview-400.92b0ce4eb197.jpg
+        sha256: 92b0ce4eb1975cfebdccfe85170c4c1a7dfca297128e2d0e0fb4081c87f5bd77
+        mime: image/jpeg
+        bytes: 26754
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01M0AVB29VXAAV0SM8ZT8ZYFFK
+type: image
+subtype: plan
+title: Deichplan Bömenzien bis Zadrau
+description: Tusche auf Transparentpapier.
+date: 1828-02
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Zadrau
+    type: place
+files:
+  - role: main
+    original_name: scan_460.tif
+    path: files/42/4b/424bfb1d7c8e295cf1da251e0b7601fb87ec3507a54e6f7145dbb896feafc9bf/original.tif
+    sha256: 424bfb1d7c8e295cf1da251e0b7601fb87ec3507a54e6f7145dbb896feafc9bf
+    mime: image/tiff
+    bytes: 18467096
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/42/4b/424bfb1d7c8e295cf1da251e0b7601fb87ec3507a54e6f7145dbb896feafc9bf/preview-400.6209335963c0.jpg
+        sha256: 6209335963c02563a0e346899352c4bc2fa587fcb0db4f3a74c86f2af8510ec6
+        mime: image/jpeg
+        bytes: 21028
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

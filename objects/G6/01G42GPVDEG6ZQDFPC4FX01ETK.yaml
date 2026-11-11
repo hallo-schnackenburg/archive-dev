@@ -1,0 +1,37 @@
+id: 01G42GPVDEG6ZQDFPC4FX01ETK
+type: image
+subtype: plan
+title: Deichplan Pretzier bis Nienwalde
+date: 1781-06-09
+origin:
+  name: Günter Gaede
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Karl Wegner
+    type: person
+files:
+  - role: main
+    original_name: scan_327.tif
+    path: files/41/45/414536bdf29e57f291181976afb28be82683394a184add71e1732cdd7bee6781/original.tif
+    sha256: 414536bdf29e57f291181976afb28be82683394a184add71e1732cdd7bee6781
+    mime: image/tiff
+    bytes: 9379909
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/41/45/414536bdf29e57f291181976afb28be82683394a184add71e1732cdd7bee6781/preview-400.7e60f37242bf.jpg
+        sha256: 7e60f37242bfc745c821e7ad6079497a0454468b8e5394105eb9fa1578b9ecab
+        mime: image/jpeg
+        bytes: 52075
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01HMT9MGNA594VZFW9CM76642G
+type: image
+subtype: plan
+title: Bauplan Storchennest 1986
+date: 1986?
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok/Kasten 25/064
+  note: Mappe 12
+subjects:
+  - name: Restorf
+    type: place
+  - name: Gülden
+    type: place
+  - name: Sportplatz
+    type: building
+parents:
+  - 01GEV5Y4J3FGXYTVXBWZX1MJPG
+files:
+  - role: main
+    original_name: scan_055.tif
+    path: files/a0/b6/a0b6d90784d310876a32c76db56e04df6762007093631309f01d0ed13e9f40ef/original.tif
+    sha256: a0b6d90784d310876a32c76db56e04df6762007093631309f01d0ed13e9f40ef
+    mime: image/tiff
+    bytes: 19508535
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a0/b6/a0b6d90784d310876a32c76db56e04df6762007093631309f01d0ed13e9f40ef/preview-400.5aff1b2f07df.jpg
+        sha256: 5aff1b2f07dff92d0aefb35717d80d101c81f37c40050c3d56f5e3b530be1ef8
+        mime: image/jpeg
+        bytes: 38591
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

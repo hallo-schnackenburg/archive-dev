@@ -1,0 +1,40 @@
+id: 01KX4CGDDQG84SSKBVA00H9561
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Weihnachtsmarkt"
+date: 1857-02-27
+location: Schnackenburg, Tanzsaal
+geocode:
+  lat: 53.045
+  lon: 11.4568
+  precision: town
+  source: osm
+origin:
+  name: Friedrich Wegner
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Schlachtfest 1857
+    type: event
+  - name: Ilse Krüger
+    type: person
+files:
+  - role: main
+    original_name: scan_930.tif
+    path: files/2e/ca/2ecab6a5dfe449d84b4dcf1fafbf6c6c3e6cbdad39ffdf383a9f828d6fe85fc1/original.tif
+    sha256: 2ecab6a5dfe449d84b4dcf1fafbf6c6c3e6cbdad39ffdf383a9f828d6fe85fc1
+    mime: image/tiff
+    bytes: 16069930
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/ca/2ecab6a5dfe449d84b4dcf1fafbf6c6c3e6cbdad39ffdf383a9f828d6fe85fc1/preview-400.62505f67cb43.jpg
+        sha256: 62505f67cb43effb2e5d506825e8615a119b695195f606862fb237bd1eec043a
+        mime: image/jpeg
+        bytes: 58815
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01F509FN357F51WFTQSQW5C8EG
+type: image
+subtype: plan
+title: Deichplan Arendsee bis Seedorf
+description: Maßstab 1:250.
+date: 1798-03-11
+location: Arendsee, Schützenhaus
+origin:
+  name: Rudolf Meyer
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Familie Plate
+    type: person
+    location: Lüchow
+  reference: Dok 2/266
+subjects:
+  - name: Otto Lindemann
+    type: person
+files:
+  - role: main
+    original_name: scan_578.tif
+    path: files/c1/2a/c12ab7b277ec5ca23ae1c4eaf2e8e428c7cb148431391550e4d661f4c3aca080/original.tif
+    sha256: c12ab7b277ec5ca23ae1c4eaf2e8e428c7cb148431391550e4d661f4c3aca080
+    mime: image/tiff
+    bytes: 14108648
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c1/2a/c12ab7b277ec5ca23ae1c4eaf2e8e428c7cb148431391550e4d661f4c3aca080/preview-400.78cfa922861d.jpg
+        sha256: 78cfa922861df89ce56c7e293db68a02ad0baa514359548e0dcf4eeaff529fe5
+        mime: image/jpeg
+        bytes: 77919
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

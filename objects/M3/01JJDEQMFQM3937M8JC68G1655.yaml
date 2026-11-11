@@ -1,0 +1,52 @@
+id: 01JJDEQMFQM3937M8JC68G1655
+type: image
+subtype: photo
+title: Ortsbesichtigung 1978
+description: Aufnahme von Emma Lemke.
+date: 1978-09-08
+location: Gollensdorf, Pfarrhaus
+geocode:
+  lat: 52.9644
+  lon: 11.4933
+  precision: street
+  source: osm
+origin:
+  name: Wilhelm Meyer
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 29/126
+  note: Mappe 12
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Fähranleger
+    type: building
+  - name: Mühle
+    type: building
+parents:
+  - 01HCRJBF96Y6XBHZZ8XQX7630X
+files:
+  - role: main
+    original_name: P1230.jpg
+    path: files/cf/30/cf3058573fc921c2dc215c427cbc68ba27d5bca2d4aceb5cf31c4212633e8abe/original.jpg
+    sha256: cf3058573fc921c2dc215c427cbc68ba27d5bca2d4aceb5cf31c4212633e8abe
+    mime: image/jpeg
+    bytes: 20623644
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/cf/30/cf3058573fc921c2dc215c427cbc68ba27d5bca2d4aceb5cf31c4212633e8abe/preview-400.6ba150321625.jpg
+        sha256: 6ba1503216250e884316f04edbfa255e3dc6de48d6caa3d9d240c3201c56307c
+        mime: image/jpeg
+        bytes: 52230
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

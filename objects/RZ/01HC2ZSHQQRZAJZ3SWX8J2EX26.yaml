@@ -1,0 +1,46 @@
+id: 01HC2ZSHQQRZAJZ3SWX8J2EX26
+type: image
+subtype: drawing
+title: Wappenentwurf Dömitz, Wootz
+date: 1873-09
+location: Lenzen, Elbstraße
+geocode:
+  lat: 53.0941
+  lon: 11.6883
+  precision: exact
+  source: osm
+origin:
+  name: Wilhelm Gaede
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 6/314
+subjects:
+  - name: Fastnacht 1873
+    type: event
+parents:
+  - 01KNHD7DYF112CXGR0WVK2W8DQ
+files:
+  - role: main
+    original_name: scan_971.tif
+    path: files/bc/01/bc01837dd2d3a9d47e1aa7c4a9ebf1d5c68ca3c9a1f490c70e636265399105d1/original.tif
+    sha256: bc01837dd2d3a9d47e1aa7c4a9ebf1d5c68ca3c9a1f490c70e636265399105d1
+    mime: image/tiff
+    bytes: 8354072
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bc/01/bc01837dd2d3a9d47e1aa7c4a9ebf1d5c68ca3c9a1f490c70e636265399105d1/preview-400.f4b83dec7d65.jpg
+        sha256: f4b83dec7d654a14f816e02121dd8abdcac97e570fca4038a1abc7805f2f61a2
+        mime: image/jpeg
+        bytes: 69932
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01FE52QWGFXFSJ38BTE8N6P5XH
+type: image
+subtype: drawing
+title: Skizze Wittenberge, Dorfstraße
+date: "1934"
+location: Cumlosen, Kirchstraße
+origin:
+  name: Walter Eggers
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Laase
+    type: place
+  - name: Erntedankfest 1934
+    type: event
+files:
+  - role: main
+    original_name: scan_022.tif
+    path: files/cf/3e/cf3e3018ae021eadc72d395089afb84bbca1a2a28afcc9d60af78209d4a6443e/original.tif
+    sha256: cf3e3018ae021eadc72d395089afb84bbca1a2a28afcc9d60af78209d4a6443e
+    mime: image/tiff
+    bytes: 6725323
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cf/3e/cf3e3018ae021eadc72d395089afb84bbca1a2a28afcc9d60af78209d4a6443e/preview-400.3e1392069fc0.jpg
+        sha256: 3e1392069fc0221ec28d2a37e72b08472e5f7124d9a7690e0178acd49f9d5892
+        mime: image/jpeg
+        bytes: 41747
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

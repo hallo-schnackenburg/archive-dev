@@ -1,0 +1,40 @@
+id: 01HNJENJ941A5SXRWC812RREQT
+type: image
+subtype: photo
+title: Lange Straße, Ecke Fährstraße
+date: 1931-12
+origin:
+  name: Otto Voss
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Familie Voss
+    type: person
+    location: Wustrow
+  reference: Slg 29/230
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Kegelbahn
+    type: building
+files:
+  - role: main
+    original_name: scan_396.tif
+    path: files/4b/61/4b618345786b506968fc9fa3f4dcdc2575f86f0e4d00b7ae7b842437cc26d86b/original.tif
+    sha256: 4b618345786b506968fc9fa3f4dcdc2575f86f0e4d00b7ae7b842437cc26d86b
+    mime: image/tiff
+    bytes: 22018933
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4b/61/4b618345786b506968fc9fa3f4dcdc2575f86f0e4d00b7ae7b842437cc26d86b/preview-400.9f773f81d357.jpg
+        sha256: 9f773f81d357fe4c2c9a471ca2d1ef473293e07d397d0267ee3d70d936030179
+        mime: image/jpeg
+        bytes: 20706
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

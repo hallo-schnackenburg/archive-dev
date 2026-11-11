@@ -1,0 +1,43 @@
+id: 01G0HN345J4HQT0HABJBP4RRGT
+type: image
+subtype: plan
+title: Bauplan Ladestraße 1778
+description: Maßstab 1:100.
+date: 1778-02-08
+location: Hitzacker, Gartenstraße
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg/Mappe 17/118
+subjects:
+  - name: Hochzeit 1778
+    type: event
+  - name: Dorffest 1778
+    type: event
+  - name: Dömitz
+    type: place
+parents:
+  - 01H5DZWSA252A4P3AWD6J9T3TK
+  - 01GP24D2SDXXFWEGVD1MK92BK9
+files:
+  - role: main
+    original_name: scan_663.tif
+    path: files/dd/ea/ddea338539801a77dff29ddb7df23f0c590413b2625780ac3a388b3e37ed2227/original.tif
+    sha256: ddea338539801a77dff29ddb7df23f0c590413b2625780ac3a388b3e37ed2227
+    mime: image/tiff
+    bytes: 25151792
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/dd/ea/ddea338539801a77dff29ddb7df23f0c590413b2625780ac3a388b3e37ed2227/preview-400.6da07a0a7945.jpg
+        sha256: 6da07a0a794583181a1947add3ae26994ac14860bda25a904755bc85fc6c3415
+        mime: image/jpeg
+        bytes: 25128
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

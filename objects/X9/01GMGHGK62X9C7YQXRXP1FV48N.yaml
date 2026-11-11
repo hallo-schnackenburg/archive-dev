@@ -1,0 +1,33 @@
+id: 01GMGHGK62X9C7YQXRXP1FV48N
+type: image
+subtype: drawing
+title: Heuberge, Aquarell, Gorleben
+description: Mit Anmerkungen am Rand.
+date: "1878"
+location: Salzwedel, Kindergarten
+origin:
+  name: Rudolf Pape
+  type: person
+  location: Wustrow
+parents:
+  - 01F74508EQW0M86CC6HKB6Q51Z
+files:
+  - role: main
+    original_name: scan_557.tif
+    path: files/8f/d3/8fd3c4a605da6d4288819d6a634fe859d691a869c9a1cf1b9b3d877cd97bce20/original.tif
+    sha256: 8fd3c4a605da6d4288819d6a634fe859d691a869c9a1cf1b9b3d877cd97bce20
+    mime: image/tiff
+    bytes: 15645491
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8f/d3/8fd3c4a605da6d4288819d6a634fe859d691a869c9a1cf1b9b3d877cd97bce20/preview-400.57f5f89750e6.jpg
+        sha256: 57f5f89750e614f5733c6c73f82733c5f321ebb4947ddb681e171647181766c4
+        mime: image/jpeg
+        bytes: 54175
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

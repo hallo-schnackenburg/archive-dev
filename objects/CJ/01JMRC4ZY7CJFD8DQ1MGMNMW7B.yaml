@@ -1,0 +1,44 @@
+id: 01JMRC4ZY7CJFD8DQ1MGMNMW7B
+type: image
+subtype: photo
+title: Hans Behrens vor dem Rathaus
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1896-02-26
+location: Kapern, Gartenstraße
+origin:
+  name: Ernst Bohlmann
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 5/026
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Gasthof Meyer
+    type: building
+  - name: Bömenzien
+    type: place
+files:
+  - role: main
+    original_name: foto_7103.jpg
+    path: files/9b/7c/9b7c4f165b1af853b4cc2d3994c6719a6350438e2160676d80beb70c1dd05540/original.jpg
+    sha256: 9b7c4f165b1af853b4cc2d3994c6719a6350438e2160676d80beb70c1dd05540
+    mime: image/jpeg
+    bytes: 18934685
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/9b/7c/9b7c4f165b1af853b4cc2d3994c6719a6350438e2160676d80beb70c1dd05540/preview-400.352c592fc3c0.jpg
+        sha256: 352c592fc3c06f34eada2db69d21f39ebb9d5bcfa4999fdcbc192a0730865608
+        mime: image/jpeg
+        bytes: 89492
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

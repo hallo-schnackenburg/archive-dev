@@ -1,0 +1,36 @@
+id: 01H6H0KAK0XDRJEW29D05SKXBX
+type: image
+subtype: photo
+title: Gasthof Meyer in Lenzen
+description: Aufnahme von Walter Bohlmann.
+origin:
+  name: Elfriede Gaede
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Restorf
+    type: place
+  - name: Gasthof Meyer
+    type: building
+  - name: Anni Ludolf
+    type: person
+files:
+  - role: main
+    original_name: scan_657.tif
+    path: files/20/cc/20cc5b5c293269f331f22e44b57288b0981cb2ab14796d09658fe0a56208b9f9/original.tif
+    sha256: 20cc5b5c293269f331f22e44b57288b0981cb2ab14796d09658fe0a56208b9f9
+    mime: image/tiff
+    bytes: 15654983
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/20/cc/20cc5b5c293269f331f22e44b57288b0981cb2ab14796d09658fe0a56208b9f9/preview-400.aa1372fbf3d8.jpg
+        sha256: aa1372fbf3d823938e4141db29751109f9bd2d49843fa2faa8295da6204401b5
+        mime: image/jpeg
+        bytes: 81012
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

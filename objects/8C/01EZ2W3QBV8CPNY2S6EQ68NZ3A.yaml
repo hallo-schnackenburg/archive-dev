@@ -1,0 +1,44 @@
+id: 01EZ2W3QBV8CPNY2S6EQ68NZ3A
+type: document
+subtype: note
+title: Rechnung Ihde, Försterei
+description: Auf der Rückseite eines Formulars.
+date: "2001"
+location: Wootz, Schulstraße
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 28/093
+  note: Regal 4, Kiste 2
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v13408
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Straßenfest 2001
+    type: event
+parents:
+  - 01J8GJHXRZG3WKWHP1C2HPX9G9
+files:
+  - role: page
+    num: 1
+    original_name: note_68nz3a_001.tif
+    path: files/91/6e/916eea871d544ece08b7da126d5709151fe74509a50972c1685ada2b99ceeb19/original.tif
+    sha256: 916eea871d544ece08b7da126d5709151fe74509a50972c1685ada2b99ceeb19
+    mime: image/tiff
+    bytes: 13507475
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/91/6e/916eea871d544ece08b7da126d5709151fe74509a50972c1685ada2b99ceeb19/preview-400.1bb379169ee9.jpg
+        sha256: 1bb379169ee9984257545ab2bd987a64b714bf728555c19e52d8c35d7d9253c7
+        mime: image/jpeg
+        bytes: 67450
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

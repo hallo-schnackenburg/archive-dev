@@ -1,0 +1,43 @@
+id: 01K4JX28JMVSXKH355713KP5RD
+type: image
+subtype: drawing
+title: Ziegelei, Aquarell
+description: Federzeichnung, laviert.
+date: 1860/1869
+location: Restorf, Elbstraße
+origin:
+  name: Walter Kuhlmann
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Hans Brandt
+    type: person
+  - name: Maifeier 1860
+    type: event
+parents:
+  - 01J0TGH296RHC0G6JXY0S53XED
+files:
+  - role: main
+    original_name: scan_374.tif
+    path: files/35/2e/352e4a1c8a332a3232c7c0a126e9bc038f24621d80ce5b25e5d21bcc575ff9c2/original.tif
+    sha256: 352e4a1c8a332a3232c7c0a126e9bc038f24621d80ce5b25e5d21bcc575ff9c2
+    mime: image/tiff
+    bytes: 24952563
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/35/2e/352e4a1c8a332a3232c7c0a126e9bc038f24621d80ce5b25e5d21bcc575ff9c2/preview-400.389a4ca34e62.jpg
+        sha256: 389a4ca34e62f2ce3bbedfc957a50fe9505230f9f7ebe344026720d2c6d292aa
+        mime: image/jpeg
+        bytes: 35286
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

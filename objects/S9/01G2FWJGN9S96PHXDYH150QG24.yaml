@@ -1,0 +1,40 @@
+id: 01G2FWJGN9S96PHXDYH150QG24
+type: image
+subtype: print
+title: Ansichtskarte Am Elbdeich, Bömenzien
+description: Postkarte, gelaufen 1918.
+date: 1835-10-18
+location: Wittenberge, Kirche St. Johannis
+origin:
+  name: Klaus Gaede
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 2/278
+subjects:
+  - name: Renate Krüger
+    type: person
+files:
+  - role: main
+    original_name: scan_841.tif
+    path: files/53/7a/537a39b318a2b594ed2cc7f3e3360730f35b72efffc6d57b65bf67722401fa9c/original.tif
+    sha256: 537a39b318a2b594ed2cc7f3e3360730f35b72efffc6d57b65bf67722401fa9c
+    mime: image/tiff
+    bytes: 11668725
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/53/7a/537a39b318a2b594ed2cc7f3e3360730f35b72efffc6d57b65bf67722401fa9c/preview-400.eee0f02fd584.jpg
+        sha256: eee0f02fd584722689ce8361d9d90a9ba9fa77893a624be3db6d86124926ef03
+        mime: image/jpeg
+        bytes: 24181
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

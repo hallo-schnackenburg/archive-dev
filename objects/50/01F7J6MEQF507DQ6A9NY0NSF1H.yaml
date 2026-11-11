@@ -1,0 +1,44 @@
+id: 01F7J6MEQF507DQ6A9NY0NSF1H
+type: image
+subtype: print
+title: Postkarte Lanz, Elbdeich
+description: Postkarte, gelaufen 1944.
+date: 1834-05-11
+location: Laase, Pfarrhaus
+geocode:
+  lat: 52.9961
+  lon: 11.4812
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Familie Dreyer
+    type: person
+    location: Lüchow
+subjects:
+  - name: Frieda Neumann
+    type: person
+  - name: Bahnhof
+    type: building
+  - name: Schützenfest 1834
+    type: event
+files:
+  - role: main
+    original_name: scan_014.tif
+    path: files/9f/95/9f9590aa76f95b03736cb9e84a30c5659ad7d496d101b29ca2058672fa908b47/original.tif
+    sha256: 9f9590aa76f95b03736cb9e84a30c5659ad7d496d101b29ca2058672fa908b47
+    mime: image/tiff
+    bytes: 20412929
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9f/95/9f9590aa76f95b03736cb9e84a30c5659ad7d496d101b29ca2058672fa908b47/preview-400.d5f1594a030a.jpg
+        sha256: d5f1594a030a271451b0e18af43ea22003c98f20b71dde454284f5aa1d8191c0
+        mime: image/jpeg
+        bytes: 46578
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

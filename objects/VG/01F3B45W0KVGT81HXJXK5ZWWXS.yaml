@@ -1,0 +1,45 @@
+id: 01F3B45W0KVGT81HXJXK5ZWWXS
+type: image
+subtype: photo
+title: Brückeneinweihung der Freiwillige Feuerwehr
+description: Aufnahme von Otto Neumann.
+date: 1936-08-06
+location: Lüchow, Dorfstraße
+geocode:
+  lat: 53.0278
+  lon: 11.632
+  precision: town
+  source: osm
+origin:
+  name: Hans Krüger
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 17/064
+subjects:
+  - name: Glockenweihe 1936
+    type: event
+files:
+  - role: main
+    original_name: P3983.jpg
+    path: files/d2/c7/d2c7008aa32415b754d072e3ebc7c0947de9ae9bbf8f4588bade5690847e156b/original.jpg
+    sha256: d2c7008aa32415b754d072e3ebc7c0947de9ae9bbf8f4588bade5690847e156b
+    mime: image/jpeg
+    bytes: 21845732
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d2/c7/d2c7008aa32415b754d072e3ebc7c0947de9ae9bbf8f4588bade5690847e156b/preview-400.20e94ac83731.jpg
+        sha256: 20e94ac83731dce660567f27a4fb330bd357e14d3ab964d5ddd4425327f4bc53
+        mime: image/jpeg
+        bytes: 28177
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

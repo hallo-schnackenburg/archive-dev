@@ -1,0 +1,44 @@
+id: 01FDWN62XMMHFERZWTGB59ZDM2
+type: image
+subtype: drawing
+title: Kirche St. Johannis, Aquarell
+description: Bleistift auf Papier.
+date: 1839-04-03
+location: Wootz, Apotheke
+origin:
+  name: Heinrich Oelker
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 3/016
+subjects:
+  - name: Lanz
+    type: place
+  - name: Grenzturm
+    type: building
+parents:
+  - 01K6MM688883CWMKTJ2NVR6F70
+files:
+  - role: main
+    original_name: scan_220.tif
+    path: files/89/bc/89bc6cfed688cb9a64783ad15a732aa265495d7970a41928ea763ff9e468bda4/original.tif
+    sha256: 89bc6cfed688cb9a64783ad15a732aa265495d7970a41928ea763ff9e468bda4
+    mime: image/tiff
+    bytes: 16751975
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/89/bc/89bc6cfed688cb9a64783ad15a732aa265495d7970a41928ea763ff9e468bda4/preview-400.bf4577d6732e.jpg
+        sha256: bf4577d6732e50205841b34c0c976f58aa76959da1f07583aaf76555133fdd9e
+        mime: image/jpeg
+        bytes: 49484
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01JMMBX3DS1DDRXE7DNVPQ7THQ
+type: image
+subtype: plan
+title: Deichplan Wittenberge bis Gülden
+description: Mit handschriftlichen Ergänzungen.
+date: 1802-06-20
+location: Seedorf, Burgstraße
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 16/103
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Feuerwehrübung 1802
+    type: event
+  - name: Brünkendorf
+    type: place
+  - name: Cumlosen
+    type: place
+files:
+  - role: main
+    original_name: scan_259.tif
+    path: files/ee/a4/eea42b14f503890d816bdc71e07b61ed853fa2dfd539fac5b941f375039c45ca/original.tif
+    sha256: eea42b14f503890d816bdc71e07b61ed853fa2dfd539fac5b941f375039c45ca
+    mime: image/tiff
+    bytes: 22824845
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ee/a4/eea42b14f503890d816bdc71e07b61ed853fa2dfd539fac5b941f375039c45ca/preview-400.f1c2c703705f.jpg
+        sha256: f1c2c703705fa2aa52f1870b9b91aa3c6f00c024f4679b4fcd6c7a38a984704b
+        mime: image/jpeg
+        bytes: 32629
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01HGDD7S144GCF978WBB0KH39E
+type: image
+subtype: plan
+title: Lageplan Försterei, Zadrau
+description: Tusche auf Transparentpapier.
+date: 1933-10-06
+origin:
+  name: Karl Kuhlmann
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Berta Ahrens
+    type: person
+  - name: Dorfkrug
+    type: building
+files:
+  - role: main
+    original_name: scan_809.tif
+    path: files/85/52/8552985e0a11baafac3a4ab5062ea59de5c3b8bd1f84c6672c8ba0d25e742169/original.tif
+    sha256: 8552985e0a11baafac3a4ab5062ea59de5c3b8bd1f84c6672c8ba0d25e742169
+    mime: image/tiff
+    bytes: 21519947
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/85/52/8552985e0a11baafac3a4ab5062ea59de5c3b8bd1f84c6672c8ba0d25e742169/preview-400.128a5f47f5cb.jpg
+        sha256: 128a5f47f5cbbc813d968c92948f9d5e7d493a8cd3e8cc160401ba3cc79b5ebe
+        mime: image/jpeg
+        bytes: 44669
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

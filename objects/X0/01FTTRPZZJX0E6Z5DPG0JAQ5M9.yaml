@@ -1,0 +1,38 @@
+id: 01FTTRPZZJX0E6Z5DPG0JAQ5M9
+type: image
+subtype: plan
+title: Lageplan Torhaus
+description: Maßstab 1:500.
+date: 1879-12-10
+location: Zadrau, Gärtnerei
+origin:
+  name: Erika Lemke
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Berta Rohde
+    type: person
+  - name: Einweihung 1879
+    type: event
+  - name: Kartoffelernte 1879
+    type: event
+files:
+  - role: main
+    original_name: scan_170.tif
+    path: files/46/dd/46dd52a2dbf1ff25838cd4751a2fedbb9aba0001975fcfea258819dbc0557177/original.tif
+    sha256: 46dd52a2dbf1ff25838cd4751a2fedbb9aba0001975fcfea258819dbc0557177
+    mime: image/tiff
+    bytes: 27464605
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/46/dd/46dd52a2dbf1ff25838cd4751a2fedbb9aba0001975fcfea258819dbc0557177/preview-400.15fdaae8fb2c.jpg
+        sha256: 15fdaae8fb2c44d0ee270e3c0e0a38dd99732739fe2f91d41af6e64c1582803b
+        mime: image/jpeg
+        bytes: 70818
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

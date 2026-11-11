@@ -1,0 +1,41 @@
+id: 01GNWCQKKQZ6SKPKXAHCEQD44C
+type: image
+subtype: print
+title: Postkarte Salzwedel, Torhaus
+description: Lithographie, Rand beschnitten.
+date: 1911-01
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro/Kasten 20/119
+subjects:
+  - name: Kindergartenfest 1911
+    type: event
+  - name: Wootz
+    type: place
+  - name: Frieda Schwarz
+    type: person
+parents:
+  - 01EV4688KBXRNWBE8H1MYHF0WE
+files:
+  - role: main
+    original_name: scan_412.tif
+    path: files/c6/e8/c6e819e9788af6cbcf38b0568d7ef3d848d277260f14b1b4ef4eb8c08c546e67/original.tif
+    sha256: c6e819e9788af6cbcf38b0568d7ef3d848d277260f14b1b4ef4eb8c08c546e67
+    mime: image/tiff
+    bytes: 22284655
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/e8/c6e819e9788af6cbcf38b0568d7ef3d848d277260f14b1b4ef4eb8c08c546e67/preview-400.f33b6bbe8f44.jpg
+        sha256: f33b6bbe8f446c0d491293aea3bd62f2b7ae3a824f1929841ccb9da512291b7d
+        mime: image/jpeg
+        bytes: 58411
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

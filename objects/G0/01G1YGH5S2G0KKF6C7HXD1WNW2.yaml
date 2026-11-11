@@ -1,0 +1,35 @@
+id: 01G1YGH5S2G0KKF6C7HXD1WNW2
+type: image
+subtype: plan
+title: Bauplan Schlachterei 1813
+location: Zadrau, Mühlenweg
+origin:
+  name: Käthe Lemke
+  type: person
+  location: Kapern
+subjects:
+  - name: Hochwasser 1813
+    type: event
+parents:
+  - 01J32BYFAQRP00FJPKBYMNQE6Z
+  - 01FQ3YZE77QNA1ZTVZV37G0FNF
+files:
+  - role: main
+    original_name: scan_966.tif
+    path: files/62/e8/62e8371f80b2b6dce0a98e1c206f1b084d23a27f4f35225a2c364cf9b1f5cb25/original.tif
+    sha256: 62e8371f80b2b6dce0a98e1c206f1b084d23a27f4f35225a2c364cf9b1f5cb25
+    mime: image/tiff
+    bytes: 24868545
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/62/e8/62e8371f80b2b6dce0a98e1c206f1b084d23a27f4f35225a2c364cf9b1f5cb25/preview-400.5c56996c4e75.jpg
+        sha256: 5c56996c4e75fcf11228d87a7a6ad71c55ec82569b4cf11d0dc485c592532a30
+        mime: image/jpeg
+        bytes: 54162
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

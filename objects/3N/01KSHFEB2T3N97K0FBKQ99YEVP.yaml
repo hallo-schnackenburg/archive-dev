@@ -1,0 +1,38 @@
+id: 01KSHFEB2T3N97K0FBKQ99YEVP
+type: image
+subtype: plan
+title: Bauplan Schmiede 1797
+date: "1797"
+location: Holtorf, Lange Straße
+origin:
+  name: Rudolf Wegner
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos 24/188
+parents:
+  - 01KCPF76CA7S8G3CA0KXJVYAVA
+files:
+  - role: main
+    original_name: scan_433.tif
+    path: files/09/2c/092cee8aabf7717ab3678b8a660d7a05471d927c67be259dceec2b8a30595832/original.tif
+    sha256: 092cee8aabf7717ab3678b8a660d7a05471d927c67be259dceec2b8a30595832
+    mime: image/tiff
+    bytes: 13834853
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/09/2c/092cee8aabf7717ab3678b8a660d7a05471d927c67be259dceec2b8a30595832/preview-400.fb1cfa38920c.jpg
+        sha256: fb1cfa38920c4526b4be577ffa0285c853cbaf316db763ab77dc12f55fb02c0b
+        mime: image/jpeg
+        bytes: 34126
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

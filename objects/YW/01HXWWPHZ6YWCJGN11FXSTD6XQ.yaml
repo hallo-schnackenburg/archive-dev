@@ -1,0 +1,63 @@
+id: 01HXWWPHZ6YWCJGN11FXSTD6XQ
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Brückenreparatur 2013
+description: "Beschlossen wurde unter anderem: Fährgeld."
+date: 2013-03
+origin:
+  name: Bauausschuss Wootz
+  type: business
+  location: Cumlosen
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 29/027
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+  - name: Dömitz
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: protocol_std6xq_001.tif
+    path: files/72/57/7257ff82e186f865fab0b4ac02bf68a47bed1133a8c950de89182c39b8c4c3a7/original.tif
+    sha256: 7257ff82e186f865fab0b4ac02bf68a47bed1133a8c950de89182c39b8c4c3a7
+    mime: image/tiff
+    bytes: 6780613
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/72/57/7257ff82e186f865fab0b4ac02bf68a47bed1133a8c950de89182c39b8c4c3a7/preview-400.b52e3de2eb43.jpg
+        sha256: b52e3de2eb43551c467c497a5c566a53ac9ce1614e5c4f70393a9cae603575d2
+        mime: image/jpeg
+        bytes: 75780
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_std6xq_002.tif
+    path: files/28/01/280144869ddb729f5b8ba0b9bbdbfde75693ea264b45d4cc7ba4e968287cd599/original.tif
+    sha256: 280144869ddb729f5b8ba0b9bbdbfde75693ea264b45d4cc7ba4e968287cd599
+    mime: image/tiff
+    bytes: 15233919
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/28/01/280144869ddb729f5b8ba0b9bbdbfde75693ea264b45d4cc7ba4e968287cd599/preview-400.a8012a1e19f1.jpg
+        sha256: a8012a1e19f13eca604f5da7babad5e59404184bc282ac85829913541a2299ed
+        mime: image/jpeg
+        bytes: 66494
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

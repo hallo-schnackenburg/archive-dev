@@ -1,0 +1,40 @@
+id: 01J1NNEBFRVX58FW3N6RH244E8
+type: image
+subtype: drawing
+title: Skizze Pretzier, Dorfstraße, Pretzier
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F/Kasten 17/002
+  note: Kellerarchiv
+subjects:
+  - name: Straßenfest 1864
+    type: event
+  - name: Fastnacht 1864
+    type: event
+  - name: Hans Lüders
+    type: person
+parents:
+  - 01FEEW1K0P7657HFN4R8JBV1AC
+files:
+  - role: main
+    original_name: scan_298.tif
+    path: files/64/24/6424768f97fa7749f689b444792c504836d299c4b9656248ba5c00ede9ce9e22/original.tif
+    sha256: 6424768f97fa7749f689b444792c504836d299c4b9656248ba5c00ede9ce9e22
+    mime: image/tiff
+    bytes: 5332623
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/64/24/6424768f97fa7749f689b444792c504836d299c4b9656248ba5c00ede9ce9e22/preview-400.883115d8f302.jpg
+        sha256: 883115d8f30290ddadf6298317a299871a4619c8c9a45f3d43a1b43d3b3408df
+        mime: image/jpeg
+        bytes: 46489
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

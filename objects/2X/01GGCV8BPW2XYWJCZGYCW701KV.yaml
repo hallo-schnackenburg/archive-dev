@@ -1,0 +1,44 @@
+id: 01GGCV8BPW2XYWJCZGYCW701KV
+type: image
+subtype: plan
+title: Deichplan Lanz bis Zadrau
+description: Mit handschriftlichen Ergänzungen.
+date: 1851/1863
+location: Nienwalde, Elbstraße
+origin:
+  name: Irmgard Meyer
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Bücherregal links
+subjects:
+  - name: Wassermühle
+    type: building
+  - name: August Heuer
+    type: person
+parents:
+  - 01KKPAYKN3WWQ9TTHPWVZWVHF9
+files:
+  - role: main
+    original_name: scan_520.tif
+    path: files/ae/47/ae4783c2c4d41d818cfa11f880cfe4dac207ae4f406d12592491fe2ec064d38c/original.tif
+    sha256: ae4783c2c4d41d818cfa11f880cfe4dac207ae4f406d12592491fe2ec064d38c
+    mime: image/tiff
+    bytes: 18289964
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ae/47/ae4783c2c4d41d818cfa11f880cfe4dac207ae4f406d12592491fe2ec064d38c/preview-400.cb42e5f4bd17.jpg
+        sha256: cb42e5f4bd173590c9e04eca10c5f6b29fc65072e2c3e081e78b062343107286
+        mime: image/jpeg
+        bytes: 84714
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

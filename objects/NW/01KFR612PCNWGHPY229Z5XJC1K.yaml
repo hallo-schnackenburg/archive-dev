@@ -1,0 +1,44 @@
+id: 01KFR612PCNWGHPY229Z5XJC1K
+type: image
+subtype: plan
+title: Katasterblatt Hennings, Lanz
+description: Tusche auf Transparentpapier.
+date: 1830-11-27
+origin:
+  name: Heinrich Jeß
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Familie Wegner
+    type: person
+    location: Nienwalde
+  reference: Br 31/254
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01GQNCNS1ENA3RKA5ZC1ZCYHJF
+  - 01J5CY5YG0F694895WWHN65481
+files:
+  - role: main
+    original_name: scan_290.tif
+    path: files/83/6a/836a916586121a4b2cb2e7b55359f5f1920dc2a37cf17f23dc08de9b2b149403/original.tif
+    sha256: 836a916586121a4b2cb2e7b55359f5f1920dc2a37cf17f23dc08de9b2b149403
+    mime: image/tiff
+    bytes: 20819951
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/83/6a/836a916586121a4b2cb2e7b55359f5f1920dc2a37cf17f23dc08de9b2b149403/preview-400.bf9a10c49476.jpg
+        sha256: bf9a10c494767f01d6cdeb00ac116a638c18e52858873b8b4f9e3ffe55ed688e
+        mime: image/jpeg
+        bytes: 75553
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

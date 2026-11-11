@@ -1,0 +1,37 @@
+id: 01H5E3JEZCEFPQZ5ESRYES10FD
+type: image
+subtype: photo
+title: Osterfeuer 1960
+description: Abzug im Format 9 x 13 cm.
+date: 1960-10
+location: Salzwedel, Kirchstraße
+origin:
+  name: Klaus Voss
+  type: person
+  location: Gartow
+subjects:
+  - name: Salzwedel
+    type: place
+parents:
+  - 01GGFA4BRHTCBTSYCZDK78S61J
+  - 01F4TNZXAP8C2DPZT6V4QF0N5Q
+files:
+  - role: main
+    original_name: scan_024.tif
+    path: files/74/96/74962b92ae1c22218b071163b6b39de91c55c7619c1837b69a46a66c3bb74d9c/original.tif
+    sha256: 74962b92ae1c22218b071163b6b39de91c55c7619c1837b69a46a66c3bb74d9c
+    mime: image/tiff
+    bytes: 17117842
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/74/96/74962b92ae1c22218b071163b6b39de91c55c7619c1837b69a46a66c3bb74d9c/preview-400.f281c27c8254.jpg
+        sha256: f281c27c825487c6b06c0a96911be9b1d614dffa3b6d1ef85b355984d2f6c90d
+        mime: image/jpeg
+        bytes: 75559
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

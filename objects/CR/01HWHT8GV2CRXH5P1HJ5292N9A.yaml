@@ -1,0 +1,38 @@
+id: 01HWHT8GV2CRXH5P1HJ5292N9A
+type: image
+subtype: photo
+title: Feuerwehrübung 1954
+description: Zu sehen sind Wassermühle und Gasthof „Zur Elbe“.
+date: 1954-10
+location: Kapern, Poststelle
+geocode:
+  lat: 53.0951
+  lon: 11.5061
+  precision: region
+  source: osm
+origin:
+  name: Hans Nitschke
+  type: person
+  location: Lanz
+parents:
+  - 01G1ZMXCSZWR93Z3JYH6CR645Y
+files:
+  - role: main
+    original_name: foto_2112.jpg
+    path: files/97/5b/975b19b961ddd3e1af196c62392f679a23e2300885710ff3df64a42032f2bbdd/original.jpg
+    sha256: 975b19b961ddd3e1af196c62392f679a23e2300885710ff3df64a42032f2bbdd
+    mime: image/jpeg
+    bytes: 18548881
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/97/5b/975b19b961ddd3e1af196c62392f679a23e2300885710ff3df64a42032f2bbdd/preview-400.883864888242.jpg
+        sha256: 883864888242e856b87409dd9bfc4f476bb6f627d430d6ddea6d55ae66049b41
+        mime: image/jpeg
+        bytes: 61509
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

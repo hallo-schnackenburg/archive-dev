@@ -1,0 +1,35 @@
+id: 01HFRZDFFN5XV1WQ5CFQBTPFKG
+type: image
+subtype: plan
+title: Bauplan Dorfschule 1880
+description: Tusche auf Transparentpapier.
+date: 1880-12-06
+location: Holtorf, Lange Straße
+origin:
+  name: Gerda Hennings
+  type: person
+  location: Gartow
+owner:
+  name: Elfriede Ahrens
+  type: person
+  note: Leihgabe
+files:
+  - role: main
+    original_name: scan_703.tif
+    path: files/e2/f4/e2f4815f8d5c0562a8291b83f8dd67f710c8007e5757def3ee74066d53d7685b/original.tif
+    sha256: e2f4815f8d5c0562a8291b83f8dd67f710c8007e5757def3ee74066d53d7685b
+    mime: image/tiff
+    bytes: 6528528
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e2/f4/e2f4815f8d5c0562a8291b83f8dd67f710c8007e5757def3ee74066d53d7685b/preview-400.aba171cf98d0.jpg
+        sha256: aba171cf98d0ed3b819be3cd054a69ab1fccb8de54eea3eee61535e9ca7ef3e7
+        mime: image/jpeg
+        bytes: 67362
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,33 @@
+id: 01FGW1P8NWXG0SPKH0YV16GHFH
+type: image
+subtype: plan
+title: Deichplan Wustrow bis Nienwalde
+description: Maßstab 1:500.
+date: 1792-04-21
+subjects:
+  - name: Beerdigung 1792
+    type: event
+  - name: Grenzöffnung 1792
+    type: event
+parents:
+  - 01HGWAATSHSQJT69MF82EV6W37
+files:
+  - role: main
+    original_name: scan_320.tif
+    path: files/d7/df/d7df72dc3418a5673b6b481cda51080c74b42c3740241366793146a288ffaa8b/original.tif
+    sha256: d7df72dc3418a5673b6b481cda51080c74b42c3740241366793146a288ffaa8b
+    mime: image/tiff
+    bytes: 19658918
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/df/d7df72dc3418a5673b6b481cda51080c74b42c3740241366793146a288ffaa8b/preview-400.0e49a245b0ab.jpg
+        sha256: 0e49a245b0ab462726dc46543c99010c598ed49c0df51b90512f113144e48981
+        mime: image/jpeg
+        bytes: 89046
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

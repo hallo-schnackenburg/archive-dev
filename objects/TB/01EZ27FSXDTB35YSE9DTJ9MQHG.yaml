@@ -1,0 +1,36 @@
+id: 01EZ27FSXDTB35YSE9DTJ9MQHG
+type: image
+subtype: photo
+title: Dorfteich in Dömitz
+description: Farbfoto, leicht verblasst.
+date: 1929/1935
+location: Holtorf, Bahnhof
+origin:
+  name: Walter Jeß
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+files:
+  - role: main
+    original_name: IMG_1354.jpg
+    path: files/f7/ca/f7caab142c19f96535ee7c8432f367422be7c1c6ccd0f55d7c2162dda814a8a6/original.jpg
+    sha256: f7caab142c19f96535ee7c8432f367422be7c1c6ccd0f55d7c2162dda814a8a6
+    mime: image/jpeg
+    bytes: 15348636
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/f7/ca/f7caab142c19f96535ee7c8432f367422be7c1c6ccd0f55d7c2162dda814a8a6/preview-400.9fd14f95242d.jpg
+        sha256: 9fd14f95242dd5db6c3ac5bd15bb79f88fe97df7ede07d7eb623ea0cc089d420
+        mime: image/jpeg
+        bytes: 31850
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

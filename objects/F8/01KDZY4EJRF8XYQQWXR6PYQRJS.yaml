@@ -1,0 +1,44 @@
+id: 01KDZY4EJRF8XYQQWXR6PYQRJS
+type: image
+subtype: drawing
+title: Skizze Nienwalde, Marktstraße
+date: 1956-11
+origin:
+  name: Wilhelm Voss
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 4/206
+subjects:
+  - name: Maifeier 1956
+    type: event
+  - name: Schlachterei
+    type: building
+  - name: Berta Schulz
+    type: person
+parents:
+  - 01FDA5WD2HAQWVA4SE72GX6KEJ
+files:
+  - role: main
+    original_name: scan_095.tif
+    path: files/28/c8/28c842965441ec2af3e9b51ce225dcd82fb88d84c229cbc119dcfeacae6f648c/original.tif
+    sha256: 28c842965441ec2af3e9b51ce225dcd82fb88d84c229cbc119dcfeacae6f648c
+    mime: image/tiff
+    bytes: 19400561
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/28/c8/28c842965441ec2af3e9b51ce225dcd82fb88d84c229cbc119dcfeacae6f648c/preview-400.3942b7735934.jpg
+        sha256: 3942b77359343daa88aac5a6e160b5e6a0115f59984a14920d14cf16474c9aaf
+        mime: image/jpeg
+        bytes: 20410
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

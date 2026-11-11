@@ -1,0 +1,38 @@
+id: 01H5FH29S5V3NC7HHZZW9D1WQE
+type: document
+subtype: note
+title: Rechnung Wegner, Dorfkrug
+description: Auf der Rückseite eines Formulars.
+origin:
+  name: Karl Lemke
+  type: person
+  location: Gülden
+language: de
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Ziegelei
+    type: building
+parents:
+  - 01JZ2DVH8HN29KX4QQA51CQ13F
+files:
+  - role: page
+    num: 1
+    original_name: note_9d1wqe_001.tif
+    path: files/e7/82/e782352a73f865e2b545da4ed53937e361c1d9de5b6449ca0517ae41eaedeec6/original.tif
+    sha256: e782352a73f865e2b545da4ed53937e361c1d9de5b6449ca0517ae41eaedeec6
+    mime: image/tiff
+    bytes: 5982574
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e7/82/e782352a73f865e2b545da4ed53937e361c1d9de5b6449ca0517ae41eaedeec6/preview-400.b5a280db84c7.jpg
+        sha256: b5a280db84c79326795466c79a0703a5400485b43cf0a8ed0956627277906f5e
+        mime: image/jpeg
+        bytes: 70259
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01JSSR4VJSQC633VZ8WDFENVQ3
+type: image
+subtype: plan
+title: Bauplan Friedhofskapelle 1849
+date: 1849-11-28
+location: Gülden, Am Elbdeich
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Zadrau
+subjects:
+  - name: Speicher
+    type: building
+  - name: Helga Nitschke
+    type: person
+  - name: Schützenfest 1849
+    type: event
+parents:
+  - 01HZ7W7GMZ9EC1Q7AQ30WK8PZ0
+files:
+  - role: main
+    original_name: scan_203.tif
+    path: files/36/e0/36e00fe73022cfaed533f8565ef23f9659f19602edd87ad86a2f9be126e1547a/original.tif
+    sha256: 36e00fe73022cfaed533f8565ef23f9659f19602edd87ad86a2f9be126e1547a
+    mime: image/tiff
+    bytes: 20552106
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/36/e0/36e00fe73022cfaed533f8565ef23f9659f19602edd87ad86a2f9be126e1547a/preview-400.2d231641a71a.jpg
+        sha256: 2d231641a71a4a58a20dfbdb160b60e9544df8030f564bffadfd051e7f57cedc
+        mime: image/jpeg
+        bytes: 67144
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

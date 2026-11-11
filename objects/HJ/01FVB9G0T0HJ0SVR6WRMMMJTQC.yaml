@@ -1,0 +1,51 @@
+id: 01FVB9G0T0HJ0SVR6WRMMMJTQC
+type: image
+subtype: drawing
+title: Entwurf für Fachwerkhaus Marktstraße 4
+description: Mit Anmerkungen am Rand.
+date: "1852"
+location: Kapern, Poststelle
+geocode:
+  lat: 52.9124
+  lon: 11.5765
+  precision: exact
+  source: osm
+origin:
+  name: Erika Krüger
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 13/066
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Molkerei
+    type: building
+  - name: Fastnacht 1852
+    type: event
+parents:
+  - 01KB00B1WA04Q0PWPM12MS4ZXR
+files:
+  - role: main
+    original_name: scan_851.tif
+    path: files/27/dd/27ddc81b16bbd64fdca81a3c317fdf09f23e23dc93677dd32c186e38b9dccdaf/original.tif
+    sha256: 27ddc81b16bbd64fdca81a3c317fdf09f23e23dc93677dd32c186e38b9dccdaf
+    mime: image/tiff
+    bytes: 1513213
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/27/dd/27ddc81b16bbd64fdca81a3c317fdf09f23e23dc93677dd32c186e38b9dccdaf/preview-400.f0147a136b68.jpg
+        sha256: f0147a136b68e773bd37eece14bd436391404e4607f0cf8288bba5b6ed220841
+        mime: image/jpeg
+        bytes: 64453
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

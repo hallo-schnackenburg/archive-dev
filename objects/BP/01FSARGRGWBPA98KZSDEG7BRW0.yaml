@@ -1,0 +1,41 @@
+id: 01FSARGRGWBPA98KZSDEG7BRW0
+type: image
+subtype: plan
+title: Bauplan Heuberge 1958
+date: 1958-03
+location: Pretzier, Ladestraße
+origin:
+  name: Manfred Schulz
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 15/071
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Lenzen
+    type: place
+files:
+  - role: main
+    original_name: scan_980.tif
+    path: files/96/e0/96e005a38b28223cd7c20a9acca7b13a1c709259d6f6c83ff72f259cda076ffe/original.tif
+    sha256: 96e005a38b28223cd7c20a9acca7b13a1c709259d6f6c83ff72f259cda076ffe
+    mime: image/tiff
+    bytes: 6200735
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/96/e0/96e005a38b28223cd7c20a9acca7b13a1c709259d6f6c83ff72f259cda076ffe/preview-400.e3d332dac6d0.jpg
+        sha256: e3d332dac6d032d93037440b6ab0bf30466e8d0aa0e182b3af906dc7f68d0606
+        mime: image/jpeg
+        bytes: 35633
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

@@ -1,0 +1,39 @@
+id: 01FGDFCWNHSP85YQNSZBQ6AS07
+type: image
+subtype: print
+title: Postkarte Arendsee, Gasthof Meyer
+description: Kupferstich, koloriert.
+date: 1818/1821
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 5/099
+subjects:
+  - name: Kirmes 1818
+    type: event
+  - name: Pretzier
+    type: place
+parents:
+  - 01J32BYFAQRP00FJPKBYMNQE6Z
+files:
+  - role: main
+    original_name: scan_479.tif
+    path: files/3f/90/3f908a2b06ee8956f12115a495dcac9fe7a6621ba00e70c20b4425d8b2cc75c3/original.tif
+    sha256: 3f908a2b06ee8956f12115a495dcac9fe7a6621ba00e70c20b4425d8b2cc75c3
+    mime: image/tiff
+    bytes: 17019645
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3f/90/3f908a2b06ee8956f12115a495dcac9fe7a6621ba00e70c20b4425d8b2cc75c3/preview-400.6b89b16eb057.jpg
+        sha256: 6b89b16eb057346c666f4e1084195339ce90e86c63e7422795601e01f8c697ab
+        mime: image/jpeg
+        bytes: 21321
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

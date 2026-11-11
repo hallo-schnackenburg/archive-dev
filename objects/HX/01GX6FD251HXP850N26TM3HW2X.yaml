@@ -1,0 +1,38 @@
+id: 01GX6FD251HXP850N26TM3HW2X
+type: image
+subtype: drawing
+title: Wappenentwurf Gollensdorf
+description: Federzeichnung, laviert.
+date: "1896"
+owner:
+  name: Marta Burmester
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Sturmschaden 1896
+    type: event
+  - name: Hochwasser 1896
+    type: event
+parents:
+  - 01J6CWVRW5ZWM3PCSZT7CG4EQA
+  - 01K4FGD1ECY3HP77BZASK6DQRW
+files:
+  - role: main
+    original_name: scan_515.tif
+    path: files/b9/30/b930fe6a3ccf3d4f6a237ac1f3edd4d5f4e18c446a5c9e2b86aeb575a2020efe/original.tif
+    sha256: b930fe6a3ccf3d4f6a237ac1f3edd4d5f4e18c446a5c9e2b86aeb575a2020efe
+    mime: image/tiff
+    bytes: 8398853
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b9/30/b930fe6a3ccf3d4f6a237ac1f3edd4d5f4e18c446a5c9e2b86aeb575a2020efe/preview-400.ec15794fb21f.jpg
+        sha256: ec15794fb21f078a7a0da5385cdde4023b19eac31cb6851909ac347eab9c134e
+        mime: image/jpeg
+        bytes: 66413
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

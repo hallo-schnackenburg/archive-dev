@@ -1,0 +1,40 @@
+id: 01GARCC63ZWWCM4HM3T69AKNDM
+type: document
+subtype: protocol
+title: Protokoll des Ortsrat vom 1913
+description: Anwesend waren 15 Personen.
+date: "1913"
+location: Seedorf, Ladestraße
+geocode:
+  lat: 53.0085
+  lon: 11.5879
+  precision: exact
+  source: osm
+origin:
+  name: Gemeinderat Brünkendorf
+  type: business
+  location: Cumlosen
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v29468
+subjects:
+  - name: Wilhelm Ahrens
+    type: person
+parents:
+  - 01KVCSCGQMX3Z8B4CPCNEPWYV0
+  - 01HVDJ86ZY2C149TJV9EQNA8ZX
+storage: external
+external:
+  - type: platform
+    site: YouTube
+    uri: https://youtube.example.org/objekt/746672
+    retrieved: 2025-11-04
+  - type: archive
+    site: Museum Lenzen
+    uri: https://museum-lenzen.example.org/objekt/182608
+    reference: Best. 14 Nr. 4981
+    retrieved: 2026-05-19

@@ -1,0 +1,32 @@
+id: 01J35V8ZJ5FHJBGDEKJCFN4Z3Q
+type: image
+subtype: plan
+title: Bauplan Elbdeich 1916
+date: 1916-04
+origin:
+  name: Ilse Lemke
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Gerda Hartwig
+    type: person
+files:
+  - role: main
+    original_name: scan_579.tif
+    path: files/03/cd/03cdd83c96c37cca561726927ea51e20008b8d48489401f4db0886167f90c2e6/original.tif
+    sha256: 03cdd83c96c37cca561726927ea51e20008b8d48489401f4db0886167f90c2e6
+    mime: image/tiff
+    bytes: 10524348
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/03/cd/03cdd83c96c37cca561726927ea51e20008b8d48489401f4db0886167f90c2e6/preview-400.6908183895f4.jpg
+        sha256: 6908183895f4cd80abb36a488865423eb6037110d57b54ee9b314dea08dd89e9
+        mime: image/jpeg
+        bytes: 27952
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

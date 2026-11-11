@@ -1,0 +1,38 @@
+id: 01HFWDXR88VA44VN879DZRCSC5
+type: image
+subtype: print
+title: Postkarte Lanz, Schützenhaus
+description: Postkarte, gelaufen 1954.
+date: 1803~
+origin:
+  name: Wilhelm Voss
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 5/045
+parents:
+  - 01HP3S6J7H7R7K5FQDZW91FMBP
+files:
+  - role: main
+    original_name: scan_476.tif
+    path: files/8f/cc/8fcc404b78f19cc041f4f342cd9c05e7066d9f0847891dc77884a8a2df7ce992/original.tif
+    sha256: 8fcc404b78f19cc041f4f342cd9c05e7066d9f0847891dc77884a8a2df7ce992
+    mime: image/tiff
+    bytes: 2318220
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8f/cc/8fcc404b78f19cc041f4f342cd9c05e7066d9f0847891dc77884a8a2df7ce992/preview-400.632bfb35c33a.jpg
+        sha256: 632bfb35c33a425c290fb7002cf87b41e1752bfd3ce630e29d6bb9648e634c20
+        mime: image/jpeg
+        bytes: 50522
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

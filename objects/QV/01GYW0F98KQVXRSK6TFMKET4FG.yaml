@@ -1,0 +1,68 @@
+id: 01GYW0F98KQVXRSK6TFMKET4FG
+type: document
+subtype: letter
+title: Korrespondenz Albert Pape
+description: Betrifft Schulspeisung.
+date: "1993"
+location: Wootz, Fährstraße
+origin:
+  name: Erika Jeß
+  type: person
+  location: Salzwedel
+recipient: Hans Lemke
+language: en
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro/Kasten 13/058
+subjects:
+  - name: Käthe Nitschke
+    type: person
+  - name: Albert Lemke
+    type: person
+parents:
+  - 01HJPB419DCSVPH6S0SEYBKD5Z
+  - 01F4HYKHGYRFV335Z3P04PNKHW
+files:
+  - role: page
+    num: 1
+    original_name: letter_ket4fg_001.tif
+    path: files/cb/e7/cbe79cebd49b87f0da91a944ab480003dca30f1ceca4b3b96c1be4ebb7743a0d/original.tif
+    sha256: cbe79cebd49b87f0da91a944ab480003dca30f1ceca4b3b96c1be4ebb7743a0d
+    mime: image/tiff
+    bytes: 7667385
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cb/e7/cbe79cebd49b87f0da91a944ab480003dca30f1ceca4b3b96c1be4ebb7743a0d/preview-400.a49fd661640a.jpg
+        sha256: a49fd661640adc8b4336c25751fee99fa2a8b17f91d6a94ce278882a6f1f9d40
+        mime: image/jpeg
+        bytes: 86685
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_ket4fg_002.tif
+    path: files/25/4b/254b7034638c5937f7bd49127f7445280022bd7d9beabf6e1a0ef53862d58a42/original.tif
+    sha256: 254b7034638c5937f7bd49127f7445280022bd7d9beabf6e1a0ef53862d58a42
+    mime: image/tiff
+    bytes: 8693429
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/25/4b/254b7034638c5937f7bd49127f7445280022bd7d9beabf6e1a0ef53862d58a42/preview-400.a5d8e8bc61d7.jpg
+        sha256: a5d8e8bc61d7643dbca5c80b74628abcebc223e9b2b5de007bc5e7b20acd6081
+        mime: image/jpeg
+        bytes: 28519
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

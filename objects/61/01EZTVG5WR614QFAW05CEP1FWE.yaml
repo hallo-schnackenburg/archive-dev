@@ -1,0 +1,39 @@
+id: 01EZTVG5WR614QFAW05CEP1FWE
+type: image
+subtype: photo
+title: Ziegelei in Holtorf
+date: 2002~
+location: Gorleben, Tischlerei Bruns
+origin:
+  name: Heinrich Brandt
+  type: person
+  location: Arendsee
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Tischlerei Bruns
+    type: building
+  - name: Wassermühle
+    type: building
+parents:
+  - 01K17ANV6BS1YN44GQNBJ2A6CF
+files:
+  - role: main
+    original_name: scan_870.tif
+    path: files/29/d6/29d6c4303537cbdcd1530c609e12c74708931c5aa933426423490e5da878846b/original.tif
+    sha256: 29d6c4303537cbdcd1530c609e12c74708931c5aa933426423490e5da878846b
+    mime: image/tiff
+    bytes: 26250414
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/29/d6/29d6c4303537cbdcd1530c609e12c74708931c5aa933426423490e5da878846b/preview-400.63506bebc9d9.jpg
+        sha256: 63506bebc9d964a795cf727be5cde8a9ad21aab46c6197b6e9a69c015269ad91
+        mime: image/jpeg
+        bytes: 60210
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

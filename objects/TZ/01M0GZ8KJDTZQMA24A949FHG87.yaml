@@ -1,0 +1,57 @@
+id: 01M0GZ8KJDTZQMA24A949FHG87
+type: document
+subtype: note
+title: Rechnung Brandt, Dorfladen, Bömenzien
+date: 1861-11-18
+location: Pretzier, Deichstraße
+geocode:
+  lat: 53.075
+  lon: 11.5691
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Sievers
+  type: person
+  location: Wootz
+language: de
+files:
+  - role: page
+    num: 1
+    original_name: note_9fhg87_001.tif
+    path: files/f0/fc/f0fc75e6bb63042818e7c41dbf40ab7a36ba5a758d3db7838c9a7ba997380ba6/original.tif
+    sha256: f0fc75e6bb63042818e7c41dbf40ab7a36ba5a758d3db7838c9a7ba997380ba6
+    mime: image/tiff
+    bytes: 26154537
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/fc/f0fc75e6bb63042818e7c41dbf40ab7a36ba5a758d3db7838c9a7ba997380ba6/preview-400.2970db747d6f.jpg
+        sha256: 2970db747d6f7284afbb661fc35686dec2eaaa4f702312a1392644ca6a24acbf
+        mime: image/jpeg
+        bytes: 33992
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_9fhg87_002.tif
+    path: files/34/87/3487ceaf25ffa81fefc9d249d14b58d1f5100286ef9a458151aa9c0ea8ae354b/original.tif
+    sha256: 3487ceaf25ffa81fefc9d249d14b58d1f5100286ef9a458151aa9c0ea8ae354b
+    mime: image/tiff
+    bytes: 6502884
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/34/87/3487ceaf25ffa81fefc9d249d14b58d1f5100286ef9a458151aa9c0ea8ae354b/preview-400.207e67ba4910.jpg
+        sha256: 207e67ba49106c6a93ba396e928ea401231c7f169fe7d2b66d077daaf422b32b
+        mime: image/jpeg
+        bytes: 68345
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01FDRHHR3K65HXXJ9EPTJ0F14C
+type: document
+subtype: note
+title: Rechnung Bohlmann, Tanzsaal, Dömitz
+description: Auf der Rückseite eines Formulars.
+date: 1954-02-08
+location: Wittenberge, Bahnhofstraße
+geocode:
+  lat: 52.963
+  lon: 11.664
+  precision: street
+  source: osm
+origin:
+  name: Dieter Meyer
+  type: person
+  location: Seedorf
+language: de
+subjects:
+  - name: Rathaus
+    type: building
+parents:
+  - 01GTF0FAKD2Z78BGPYW8ZV7JE5
+  - 01KVDK33TB3HJY6QE3J1AKEA7N
+files:
+  - role: page
+    num: 1
+    original_name: note_j0f14c_001.tif
+    path: files/c3/38/c338a08411a4ebd353064ef112b93c6837178f5083ff0e6b5d8ad0a6f1fc3e3a/original.tif
+    sha256: c338a08411a4ebd353064ef112b93c6837178f5083ff0e6b5d8ad0a6f1fc3e3a
+    mime: image/tiff
+    bytes: 21219186
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c3/38/c338a08411a4ebd353064ef112b93c6837178f5083ff0e6b5d8ad0a6f1fc3e3a/preview-400.4b1f4c2ec24f.jpg
+        sha256: 4b1f4c2ec24f53daf015273e5c2734416f1ac771b8d94b5c65e7c07ddeafaf86
+        mime: image/jpeg
+        bytes: 39370
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

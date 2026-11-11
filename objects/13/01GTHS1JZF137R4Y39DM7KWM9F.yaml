@@ -1,0 +1,34 @@
+id: 01GTHS1JZF137R4Y39DM7KWM9F
+type: image
+subtype: plan
+title: Bauplan Heuberge 1756
+date: 1756-04-08
+owner:
+  name: Emma Cohrs
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Hermann Ahrens
+    type: person
+  - name: Ilse Lemke
+    type: person
+files:
+  - role: main
+    original_name: scan_201.tif
+    path: files/25/92/2592ee7faf23024f94291766ae01f6e5c4d4057fd7a4f322c32577f99971eaf5/original.tif
+    sha256: 2592ee7faf23024f94291766ae01f6e5c4d4057fd7a4f322c32577f99971eaf5
+    mime: image/tiff
+    bytes: 1257221
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/25/92/2592ee7faf23024f94291766ae01f6e5c4d4057fd7a4f322c32577f99971eaf5/preview-400.b11b31c08c83.jpg
+        sha256: b11b31c08c8359ba933390dc8797f68969d91d63b2b766fea44b37f927c42a79
+        mime: image/jpeg
+        bytes: 73223
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

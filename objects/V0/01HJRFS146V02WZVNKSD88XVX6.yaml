@@ -1,0 +1,41 @@
+id: 01HJRFS146V02WZVNKSD88XVX6
+type: image
+subtype: drawing
+title: Federzeichnung Friedhofskapelle, Zadrau
+description: Federzeichnung, laviert.
+date: "1910"
+origin:
+  name: Heinrich Garms
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Regal 1
+subjects:
+  - name: Maifeier 1910
+    type: event
+  - name: Gustav Schulz
+    type: person
+files:
+  - role: main
+    original_name: scan_526.tif
+    path: files/41/a6/41a6824f204e4e1775ff2d377ae75ee407199227fccdc36a57cdee3316296365/original.tif
+    sha256: 41a6824f204e4e1775ff2d377ae75ee407199227fccdc36a57cdee3316296365
+    mime: image/tiff
+    bytes: 24576237
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/41/a6/41a6824f204e4e1775ff2d377ae75ee407199227fccdc36a57cdee3316296365/preview-400.b8c717d33145.jpg
+        sha256: b8c717d33145cf782cdeda8f4a6cefb8fb9cdfab7f6930ba6366e4f08932271f
+        mime: image/jpeg
+        bytes: 45108
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

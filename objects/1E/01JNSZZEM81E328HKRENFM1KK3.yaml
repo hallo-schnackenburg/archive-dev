@@ -1,0 +1,49 @@
+id: 01JNSZZEM81E328HKRENFM1KK3
+type: document
+subtype: note
+title: Rechnung Voss, Rathaus
+description: Auf der Rückseite eines Formulars.
+date: 2007-09-22
+location: Dömitz, Poststelle
+geocode:
+  lat: 53.0813
+  lon: 11.5048
+  precision: town
+  source: osm
+origin:
+  name: Karl Garms
+  type: person
+  location: Lenzen
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok/Mappe 24/102
+subjects:
+  - name: Dömitz
+    type: place
+parents:
+  - 01HSN5QZ6JGHWHBF50F9VB0XTK
+files:
+  - role: page
+    num: 1
+    original_name: note_fm1kk3_001.tif
+    path: files/94/e2/94e2ccb8f4bb9fcb56901692d64672f721ab9e75e480e32fc8228a54f03f8f34/original.tif
+    sha256: 94e2ccb8f4bb9fcb56901692d64672f721ab9e75e480e32fc8228a54f03f8f34
+    mime: image/tiff
+    bytes: 26348341
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/94/e2/94e2ccb8f4bb9fcb56901692d64672f721ab9e75e480e32fc8228a54f03f8f34/preview-400.1175a320f56a.jpg
+        sha256: 1175a320f56abc55b6d76c7ea822291b0c6f795b3885e679e07b630af6077bb5
+        mime: image/jpeg
+        bytes: 27267
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

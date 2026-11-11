@@ -1,0 +1,35 @@
+id: 01G988FK7911V5ABRTJ4CB2AJX
+type: image
+subtype: photo
+title: Gerda Ahrens vor dem Windmühle
+date: 190X
+location: Rüterberg, Kirchstraße
+origin:
+  name: Karl Rieke
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Kegelbahn
+    type: building
+parents:
+  - 01GWG9662GMDBHVAK54DXCMWG2
+files:
+  - role: main
+    original_name: IMG_8912.jpg
+    path: files/fb/4a/fb4a498bf26b2ef037bb7fed212eb1ff91f4ba2fe64a28bd6b7ef7a893ff477d/original.jpg
+    sha256: fb4a498bf26b2ef037bb7fed212eb1ff91f4ba2fe64a28bd6b7ef7a893ff477d
+    mime: image/jpeg
+    bytes: 4302093
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/fb/4a/fb4a498bf26b2ef037bb7fed212eb1ff91f4ba2fe64a28bd6b7ef7a893ff477d/preview-400.185ed62a3dff.jpg
+        sha256: 185ed62a3dff2b5ca5e262dd2ff1d43d1c97fda002f490be77b2223fbc38769f
+        mime: image/jpeg
+        bytes: 63437
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

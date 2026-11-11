@@ -1,0 +1,46 @@
+id: 01JHQV5SPZQBC2KCC40JJGAEJ9
+type: image
+subtype: print
+title: Postkarte Havelberg, Elbdeich
+description: Kupferstich, koloriert.
+date: 1817-11-12
+location: Hitzacker, Lange Straße
+geocode:
+  lat: 53.0399
+  lon: 11.5887
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Otto Kuhlmann
+    type: person
+  - name: Restorf
+    type: place
+  - name: Wilhelm Dreyer
+    type: person
+parents:
+  - 01J5VEM4DET47BYJHEPTWJ7T8Q
+files:
+  - role: main
+    original_name: scan_430.tif
+    path: files/0b/80/0b80fdbe8eaa37ef9ef47599a0894b107f6ace0527352d273bef0c614e7238d7/original.tif
+    sha256: 0b80fdbe8eaa37ef9ef47599a0894b107f6ace0527352d273bef0c614e7238d7
+    mime: image/tiff
+    bytes: 14690246
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/0b/80/0b80fdbe8eaa37ef9ef47599a0894b107f6ace0527352d273bef0c614e7238d7/preview-400.cd6efb52c31b.jpg
+        sha256: cd6efb52c31b2696bb16a8933d2eb742e737cc6d57e1d9404d4dd2699c476386
+        mime: image/jpeg
+        bytes: 71003
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

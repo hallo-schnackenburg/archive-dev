@@ -1,0 +1,67 @@
+id: 01GQFF1Q3Y0NYT376H2GEPT1AT
+type: document
+subtype: note
+title: Rechnung Dreyer, Gasthof „Zur Elbe“
+description: Beleg mit Stempel.
+date: 1952-01
+origin:
+  name: Marta Dreyer
+  type: person
+  location: Dömitz
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 20/119
+subjects:
+  - name: Fährjubiläum 1952
+    type: event
+  - name: Gerda Rohde
+    type: person
+  - name: Holtorf
+    type: place
+parents:
+  - 01HW1XG7P06SRWXZK7CKV1D89H
+files:
+  - role: page
+    num: 1
+    original_name: note_ept1at_001.tif
+    path: files/7f/ee/7fee704cecbc9b01e6fc2d730cacdbaa7e8c2901b51ba78567c5d73b25d86e7a/original.tif
+    sha256: 7fee704cecbc9b01e6fc2d730cacdbaa7e8c2901b51ba78567c5d73b25d86e7a
+    mime: image/tiff
+    bytes: 23131774
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7f/ee/7fee704cecbc9b01e6fc2d730cacdbaa7e8c2901b51ba78567c5d73b25d86e7a/preview-400.bc6115aeef80.jpg
+        sha256: bc6115aeef80075fad1d7c190be391f5d17c5e53c57c22031164772075ee8489
+        mime: image/jpeg
+        bytes: 84549
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_ept1at_002.tif
+    path: files/6e/32/6e32574fb7db00b7aa77f2e0a6768d0498029d9a0e29e8e0aaec2f7b635a032b/original.tif
+    sha256: 6e32574fb7db00b7aa77f2e0a6768d0498029d9a0e29e8e0aaec2f7b635a032b
+    mime: image/tiff
+    bytes: 5147332
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/32/6e32574fb7db00b7aa77f2e0a6768d0498029d9a0e29e8e0aaec2f7b635a032b/preview-400.59325c05f137.jpg
+        sha256: 59325c05f137c45e49cfdcf00ff7b124c447fca616d6bf3d865c5a553645b336
+        mime: image/jpeg
+        bytes: 21322
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

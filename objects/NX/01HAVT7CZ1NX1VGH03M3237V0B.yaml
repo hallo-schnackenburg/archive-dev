@@ -1,0 +1,38 @@
+id: 01HAVT7CZ1NX1VGH03M3237V0B
+type: image
+subtype: print
+title: Gruß aus Seedorf, Gartow
+date: 1700/1705
+origin:
+  name: Erika Schwarz
+  type: person
+  location: Lüchow
+subjects:
+  - name: Richtfest 1700
+    type: event
+  - name: Gartow
+    type: place
+  - name: Heinrich Gaede
+    type: person
+parents:
+  - 01JQ5ZJ8ZA1XA18X8HM3MHQ0SS
+files:
+  - role: main
+    original_name: scan_693.tif
+    path: files/30/ef/30ef87320f2f5a64c57fb44040eaae4516227d542e920d062483511c5313bc49/original.tif
+    sha256: 30ef87320f2f5a64c57fb44040eaae4516227d542e920d062483511c5313bc49
+    mime: image/tiff
+    bytes: 19961343
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/30/ef/30ef87320f2f5a64c57fb44040eaae4516227d542e920d062483511c5313bc49/preview-400.bbd55bf7121e.jpg
+        sha256: bbd55bf7121e8d9bf92ab971fe076a0901c7bca22e3c68156c0c09618afc3e0d
+        mime: image/jpeg
+        bytes: 22782
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,33 @@
+id: 01M3HM6RGS66QNHNGNDE4E5FGP
+type: image
+subtype: photo
+title: Ursula Wiegmann, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1942"
+origin:
+  name: Marta Harms
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Laase
+    type: place
+files:
+  - role: main
+    original_name: scan_731.tif
+    path: files/50/a1/50a16dbe9fabe4f178483d2fcd74ed59cbdffc8a695455d5973d9dc903cf771f/original.tif
+    sha256: 50a16dbe9fabe4f178483d2fcd74ed59cbdffc8a695455d5973d9dc903cf771f
+    mime: image/tiff
+    bytes: 2299986
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/a1/50a16dbe9fabe4f178483d2fcd74ed59cbdffc8a695455d5973d9dc903cf771f/preview-400.aba190f31730.jpg
+        sha256: aba190f317305c49a06dc1942ba3544e13295348086296b680db889397759229
+        mime: image/jpeg
+        bytes: 72374
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

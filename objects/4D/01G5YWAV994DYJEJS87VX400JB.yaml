@@ -1,0 +1,35 @@
+id: 01G5YWAV994DYJEJS87VX400JB
+type: image
+subtype: drawing
+title: Skizze Brünkendorf, Gartenstraße
+date: 1938-01-26
+location: Zadrau, Dorfladen
+origin:
+  name: Heinrich Voss
+  type: person
+  location: Gülden
+subjects:
+  - name: Friedrich Voss
+    type: person
+  - name: Ladestraße
+    type: building
+files:
+  - role: main
+    original_name: scan_856.tif
+    path: files/8c/f3/8cf36be1bc40e59b133265b6059d332e7f3c219ee64dcdb8e86c5b7dc32b3552/original.tif
+    sha256: 8cf36be1bc40e59b133265b6059d332e7f3c219ee64dcdb8e86c5b7dc32b3552
+    mime: image/tiff
+    bytes: 16983986
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8c/f3/8cf36be1bc40e59b133265b6059d332e7f3c219ee64dcdb8e86c5b7dc32b3552/preview-400.a61d7f81fe19.jpg
+        sha256: a61d7f81fe197a46ded500f427f7fe8fc385b8f8c322fa740c129fcdc19fc3bf
+        mime: image/jpeg
+        bytes: 35251
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

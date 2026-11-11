@@ -1,0 +1,41 @@
+id: 01JA1KA1ZQ128ZQ0VDN9TS4C53
+type: image
+subtype: photo
+title: Hochzeit 1949
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1949~
+location: Wustrow, Mühlenweg
+origin:
+  name: Ernst Lüders
+  type: person
+  location: Lüchow
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Otto Voss
+    type: person
+  - name: Dieter Voss
+    type: person
+parents:
+  - 01FQ7XJFBHG9XHBP2GHBKAZWD0
+  - 01JF4KWKVRQTHC2EW4F1D004T1
+files:
+  - role: main
+    original_name: IMG_2655.jpg
+    path: files/25/4f/254f5eb977b2297f40ebdb9fd314185e0e4b909d17b5f05454cb6897c2659e22/original.jpg
+    sha256: 254f5eb977b2297f40ebdb9fd314185e0e4b909d17b5f05454cb6897c2659e22
+    mime: image/jpeg
+    bytes: 12805104
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/25/4f/254f5eb977b2297f40ebdb9fd314185e0e4b909d17b5f05454cb6897c2659e22/preview-400.444e053b48df.jpg
+        sha256: 444e053b48df72e2336a08c6422811b2fffed9dccc0fb0e62dd1d4fbe09c0dcc
+        mime: image/jpeg
+        bytes: 47739
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

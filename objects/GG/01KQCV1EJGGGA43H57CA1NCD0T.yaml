@@ -1,0 +1,64 @@
+id: 01KQCV1EJGGGA43H57CA1NCD0T
+type: document
+subtype: note
+title: Rechnung Behrens, Kirche St. Johannis
+date: "1946"
+origin:
+  name: Karl Tiedemann
+  type: person
+  location: Pretzier
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Karl Schulz
+    type: person
+  - name: Bahnhof
+    type: building
+parents:
+  - 01GV9GBAAY8D1BK0CQF82R0YYD
+files:
+  - role: page
+    num: 1
+    original_name: note_1ncd0t_001.tif
+    path: files/08/aa/08aaffcf263444750237c32dd01c515c01cfd39d410f423d1f8aaecb13930a4a/original.tif
+    sha256: 08aaffcf263444750237c32dd01c515c01cfd39d410f423d1f8aaecb13930a4a
+    mime: image/tiff
+    bytes: 12495190
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/08/aa/08aaffcf263444750237c32dd01c515c01cfd39d410f423d1f8aaecb13930a4a/preview-400.2d7a0808e358.jpg
+        sha256: 2d7a0808e358d4140e6f3efa7eceec6444fc9ef930f1cf439050a13a5f29fabd
+        mime: image/jpeg
+        bytes: 40454
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_1ncd0t_002.tif
+    path: files/70/6f/706fef6c047f057aabd42f15575336db1e50e2b850e52a7109ae2e8367f6057f/original.tif
+    sha256: 706fef6c047f057aabd42f15575336db1e50e2b850e52a7109ae2e8367f6057f
+    mime: image/tiff
+    bytes: 505705
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/70/6f/706fef6c047f057aabd42f15575336db1e50e2b850e52a7109ae2e8367f6057f/preview-400.2525dee547c2.jpg
+        sha256: 2525dee547c252e4d8b7140a51fed318d479c206e3c0c058432e9a9f37016636
+        mime: image/jpeg
+        bytes: 41880
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01HV4C3G95SHV9KFRA48QW56A5
+type: image
+subtype: photo
+title: Dieter Albers vor dem Wassermühle
+date: "1898"
+location: Pretzier, Schützenhaus
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Kartoffelernte 1898
+    type: event
+  - name: Gülden
+    type: place
+parents:
+  - 01G6DC0XN5QKR1Z7MS1R51BN2J
+  - 01KB887JABSSE2YYYMZCE7AEZX
+files:
+  - role: main
+    original_name: DSC3168.jpg
+    path: files/75/ad/75ad05a27f3fe25872ed427560c82822599673a7587ed2a7eb40e1bc894df199/original.jpg
+    sha256: 75ad05a27f3fe25872ed427560c82822599673a7587ed2a7eb40e1bc894df199
+    mime: image/jpeg
+    bytes: 4945168
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/75/ad/75ad05a27f3fe25872ed427560c82822599673a7587ed2a7eb40e1bc894df199/preview-400.c176ff74ac5b.jpg
+        sha256: c176ff74ac5b0727e508c09197598eee2f626d3335b2b737e583d55e554f5497
+        mime: image/jpeg
+        bytes: 74354
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

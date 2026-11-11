@@ -1,0 +1,52 @@
+id: 01H19HSSVZ8N8M322WQ7AV9QNQ
+type: image
+subtype: photo
+title: Dorfstraße, Ecke Dorfstraße
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1961-03-27
+location: Gartow, Dorfstraße
+geocode:
+  lat: 52.9516
+  lon: 11.6182
+  precision: region
+  source: osm
+origin:
+  name: Ilse Tiedemann
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Einschulung 1961
+    type: event
+  - name: Deicharbeiten 1961
+    type: event
+  - name: Wittenberge
+    type: place
+parents:
+  - 01HRG40C1FAN8Q9TP1QT18AH5E
+  - 01K6MM688883CWMKTJ2NVR6F70
+files:
+  - role: main
+    original_name: IMG_0376.jpg
+    path: files/71/09/7109f6f397c0365bd603cac125be4faac4774f926cf65be71694de52b0a23b0e/original.jpg
+    sha256: 7109f6f397c0365bd603cac125be4faac4774f926cf65be71694de52b0a23b0e
+    mime: image/jpeg
+    bytes: 11389301
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/71/09/7109f6f397c0365bd603cac125be4faac4774f926cf65be71694de52b0a23b0e/preview-400.ea836360addb.jpg
+        sha256: ea836360addbfdbb8433f6fa2ee13e9a9114ece1282020e038efe5d4b4c759bf
+        mime: image/jpeg
+        bytes: 29935
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Person links unbekannt.

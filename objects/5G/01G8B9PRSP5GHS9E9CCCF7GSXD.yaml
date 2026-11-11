@@ -1,0 +1,38 @@
+id: 01G8B9PRSP5GHS9E9CCCF7GSXD
+type: image
+subtype: plan
+title: Bauplan Apotheke 1853
+description: Tusche auf Transparentpapier.
+date: 1853-08-14
+location: Lanz, Feuerwehrhaus
+origin:
+  name: Paul Ahrens
+  type: person
+  location: Arendsee
+subjects:
+  - name: Fährjubiläum 1853
+    type: event
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+parents:
+  - 01F5CNJT1P56W2G465BH02E933
+files:
+  - role: main
+    original_name: scan_100.tif
+    path: files/e1/7d/e17d0db88b9f5657681c83b7f746f1e2d4088febc9793d1bf86a26f25781170c/original.tif
+    sha256: e17d0db88b9f5657681c83b7f746f1e2d4088febc9793d1bf86a26f25781170c
+    mime: image/tiff
+    bytes: 9626454
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e1/7d/e17d0db88b9f5657681c83b7f746f1e2d4088febc9793d1bf86a26f25781170c/preview-400.fc55b16e1eaf.jpg
+        sha256: fc55b16e1eaf60170f174942fe10c09aaacb5adb14e3f8440bc39bf04adb33d6
+        mime: image/jpeg
+        bytes: 66695
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01FEHYJ5KCYRSBD36HTFZ7R7CA
+type: image
+subtype: plan
+title: Bauplan Hafen 1881
+date: 1881-02-16
+origin:
+  name: Dieter Schulz
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Otto Behrens
+    type: person
+  - name: Molkerei
+    type: building
+parents:
+  - 01JASR0HP1MS5AYRYN7A5XSTYQ
+files:
+  - role: main
+    original_name: scan_664.tif
+    path: files/71/e3/71e3d4b4f45cac3895bbfedbb808f5c5dda70c80036062d16b0ba019978801fb/original.tif
+    sha256: 71e3d4b4f45cac3895bbfedbb808f5c5dda70c80036062d16b0ba019978801fb
+    mime: image/tiff
+    bytes: 18439445
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/71/e3/71e3d4b4f45cac3895bbfedbb808f5c5dda70c80036062d16b0ba019978801fb/preview-400.c1679bc52fd9.jpg
+        sha256: c1679bc52fd9c7802c73dbb5affcbce0fd161ffa27adbfec3094889efa811a62
+        mime: image/jpeg
+        bytes: 50952
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

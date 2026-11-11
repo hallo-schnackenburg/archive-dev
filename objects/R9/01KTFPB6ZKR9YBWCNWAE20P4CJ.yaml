@@ -1,0 +1,41 @@
+id: 01KTFPB6ZKR9YBWCNWAE20P4CJ
+type: image
+subtype: photo
+title: Günter Ahrens, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1945-08-07
+location: Hitzacker, Poststelle
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 15/230
+  note: Regal 4, Kiste 2
+parents:
+  - 01JDP1HT97BVWFD5H634MRB0GA
+  - 01GT4AQMYDQV6X3W40VS0A09TX
+files:
+  - role: main
+    original_name: foto_1256.jpg
+    path: files/72/1d/721d596284df842fefa6bff2b7d7de650f884f1f20566fec3f23926dfbf21ab2/original.jpg
+    sha256: 721d596284df842fefa6bff2b7d7de650f884f1f20566fec3f23926dfbf21ab2
+    mime: image/jpeg
+    bytes: 14056907
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/72/1d/721d596284df842fefa6bff2b7d7de650f884f1f20566fec3f23926dfbf21ab2/preview-400.f8009566e71f.jpg
+        sha256: f8009566e71f9aece1fb326d660e9cbfaae4ed8714b8e73f334b147c839eabe8
+        mime: image/jpeg
+        bytes: 68979
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

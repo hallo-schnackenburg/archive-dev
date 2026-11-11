@@ -1,0 +1,38 @@
+id: 01F93DX11A0ZCKCDHT83V0FF7D
+type: image
+subtype: plan
+title: Deichplan Wustrow bis Dömitz
+description: Mit handschriftlichen Ergänzungen.
+date: "1950"
+location: Bömenzien, Fährstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 12/044
+subjects:
+  - name: Einschulung 1950
+    type: event
+  - name: Hochzeit 1950
+    type: event
+files:
+  - role: main
+    original_name: scan_644.tif
+    path: files/c1/a3/c1a38cdd565372cac981ebf9e1a69e069677e069d773e72e3fed7f74d47ca3b8/original.tif
+    sha256: c1a38cdd565372cac981ebf9e1a69e069677e069d773e72e3fed7f74d47ca3b8
+    mime: image/tiff
+    bytes: 8399427
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c1/a3/c1a38cdd565372cac981ebf9e1a69e069677e069d773e72e3fed7f74d47ca3b8/preview-400.b05bf75f44c5.jpg
+        sha256: b05bf75f44c5871f2cc0f95b2887804e29840557c5ffb243deec109ed46cd0d8
+        mime: image/jpeg
+        bytes: 32275
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

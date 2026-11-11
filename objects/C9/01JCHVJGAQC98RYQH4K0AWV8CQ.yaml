@@ -1,0 +1,42 @@
+id: 01JCHVJGAQC98RYQH4K0AWV8CQ
+type: image
+subtype: photo
+title: Familie Voss beim Schlachtfest
+description: Abzug im Format 6 x 9 cm.
+date: 1896-07-11
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F 2/228
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Glockenweihe 1896
+    type: event
+  - name: Pumpenhaus
+    type: building
+parents:
+  - 01HP82YB6MPZJ20Z4EGHA5QYFX
+  - 01GKS14MYNZ2SH5MPVMV8DY5ZA
+files:
+  - role: main
+    original_name: foto_2539.jpg
+    path: files/e6/4c/e64cc5e3905b32d0e8107ca7d86678202fc1ef25c474250c900b66e8d86624a3/original.jpg
+    sha256: e64cc5e3905b32d0e8107ca7d86678202fc1ef25c474250c900b66e8d86624a3
+    mime: image/jpeg
+    bytes: 6641255
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/e6/4c/e64cc5e3905b32d0e8107ca7d86678202fc1ef25c474250c900b66e8d86624a3/preview-400.0daec0991838.jpg
+        sha256: 0daec099183880643e1240775678a71ae27b8c3d309b303414516a738b718f3f
+        mime: image/jpeg
+        bytes: 62709
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

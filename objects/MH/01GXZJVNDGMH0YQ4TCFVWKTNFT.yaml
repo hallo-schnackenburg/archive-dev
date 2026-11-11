@@ -1,0 +1,65 @@
+id: 01GXZJVNDGMH0YQ4TCFVWKTNFT
+type: document
+subtype: note
+title: Quittung für Wilhelm Lemke
+date: 1899-08-17
+location: Zadrau, Schlachterei
+origin:
+  name: August Lemke
+  type: person
+  location: Rüterberg
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Album 23/113
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Windmühle
+    type: building
+parents:
+  - 01KD000830AWSSZZ7WT8DANPRF
+files:
+  - role: page
+    num: 1
+    original_name: note_wktnft_001.tif
+    path: files/48/aa/48aa0921b4b47aeecf088a68d992c5848406304af1d0507973f9afd088d757db/original.tif
+    sha256: 48aa0921b4b47aeecf088a68d992c5848406304af1d0507973f9afd088d757db
+    mime: image/tiff
+    bytes: 22317745
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/48/aa/48aa0921b4b47aeecf088a68d992c5848406304af1d0507973f9afd088d757db/preview-400.d0de4b3205c7.jpg
+        sha256: d0de4b3205c725606223c4ad2792425587f49917e8613909998fea406eff5892
+        mime: image/jpeg
+        bytes: 85661
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_wktnft_002.tif
+    path: files/1d/56/1d561f64515d58fd218038a823911f02a8305e34f3fc5db00a22e29f802d70db/original.tif
+    sha256: 1d561f64515d58fd218038a823911f02a8305e34f3fc5db00a22e29f802d70db
+    mime: image/tiff
+    bytes: 18304332
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/56/1d561f64515d58fd218038a823911f02a8305e34f3fc5db00a22e29f802d70db/preview-400.e59936da012d.jpg
+        sha256: e59936da012d80ba12693d8a5162cb70e7d457bac97288162ae73e6a4735b447
+        mime: image/jpeg
+        bytes: 43402
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

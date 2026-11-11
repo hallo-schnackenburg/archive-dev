@@ -1,0 +1,42 @@
+id: 01HKFYRYFH2QVQ61M8EJEMB7N1
+type: image
+subtype: photo
+title: Blick vom Sparkasse auf das Grenzturm
+date: 1998-07
+location: Lüchow, Deichstraße
+geocode:
+  lat: 52.9499
+  lon: 11.507
+  precision: exact
+  source: osm
+origin:
+  name: Gerda Nitschke
+  type: person
+  location: Pretzier
+subjects:
+  - name: Grenzturm
+    type: building
+  - name: Mühle
+    type: building
+parents:
+  - 01FKRCJXM1WMJBH86NTRWPP373
+files:
+  - role: main
+    original_name: scan_104.tif
+    path: files/70/37/703796d6436acd760b9709689cba3e4b8e9459d127e565677870fc9b23dac355/original.tif
+    sha256: 703796d6436acd760b9709689cba3e4b8e9459d127e565677870fc9b23dac355
+    mime: image/tiff
+    bytes: 20364585
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/70/37/703796d6436acd760b9709689cba3e4b8e9459d127e565677870fc9b23dac355/preview-400.07c87708e6ad.jpg
+        sha256: 07c87708e6ad8530b62a356596323ee627a1df0ea32e35a87a03ac87c2bb12bc
+        mime: image/jpeg
+        bytes: 44111
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

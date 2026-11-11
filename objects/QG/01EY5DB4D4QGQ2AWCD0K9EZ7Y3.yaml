@@ -1,0 +1,36 @@
+id: 01EY5DB4D4QGQ2AWCD0K9EZ7Y3
+type: image
+subtype: drawing
+title: Skizze Salzwedel, Marktstraße
+date: 1945-05-15
+origin:
+  name: Karl Cohrs
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Feuerwehrübung 1945
+    type: event
+parents:
+  - 01KP71Y1ZJN9JAVT84GFKBTVMW
+files:
+  - role: main
+    original_name: scan_015.tif
+    path: files/31/bc/31bce51e19223dc59980588eaae4fa800acacd89cf312d0282a7c4604f647f8a/original.tif
+    sha256: 31bce51e19223dc59980588eaae4fa800acacd89cf312d0282a7c4604f647f8a
+    mime: image/tiff
+    bytes: 9745426
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/31/bc/31bce51e19223dc59980588eaae4fa800acacd89cf312d0282a7c4604f647f8a/preview-400.b45b4c366f78.jpg
+        sha256: b45b4c366f78d2b6afcbab55701fb0f3061129c83baae81e1111c77cf9c562f9
+        mime: image/jpeg
+        bytes: 77858
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

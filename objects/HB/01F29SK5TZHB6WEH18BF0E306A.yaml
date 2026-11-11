@@ -1,0 +1,35 @@
+id: 01F29SK5TZHB6WEH18BF0E306A
+type: image
+subtype: plan
+title: Grundriss Sparkasse, Hitzacker
+date: 1857-11
+location: Schnackenburg, Deichstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 9/053
+parents:
+  - 01JVVDQHBMNHTD5MF8KHV0G3FW
+  - 01F9MQ787B1DZ88NJB119JTN0N
+files:
+  - role: main
+    original_name: scan_578.tif
+    path: files/cc/1d/cc1df56285c5b8fda6563b867fc1b6a6211034cc47e9337466e63bfd9c7e793e/original.tif
+    sha256: cc1df56285c5b8fda6563b867fc1b6a6211034cc47e9337466e63bfd9c7e793e
+    mime: image/tiff
+    bytes: 5833533
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cc/1d/cc1df56285c5b8fda6563b867fc1b6a6211034cc47e9337466e63bfd9c7e793e/preview-400.6d0cc2dd2ef3.jpg
+        sha256: 6d0cc2dd2ef31f52d5a6914050a28aeb888f4e701ee409de54c226bcaa355d7a
+        mime: image/jpeg
+        bytes: 64982
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

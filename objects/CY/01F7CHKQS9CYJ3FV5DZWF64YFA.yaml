@@ -1,0 +1,47 @@
+id: 01F7CHKQS9CYJ3FV5DZWF64YFA
+type: image
+subtype: photo
+title: Frieda Harms, Porträt
+description: Aufnahme von Erika Schulz.
+date: 1929-10-19
+location: Kapern, Elbdeich
+origin:
+  name: Brigitte Meyer
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Album 18/020
+subjects:
+  - name: Otto Meyer
+    type: person
+  - name: Einschulung 1929
+    type: event
+  - name: Wustrow
+    type: place
+parents:
+  - 01FSR5RWMB3S1C3C5MHAYVRE65
+  - 01HCDYTRFHFRB82WRMENEDR10F
+files:
+  - role: main
+    original_name: scan_833.tif
+    path: files/4b/f4/4bf4ffad49f8cf73b06337d50c920f7372130899c51af2e3692590e73d2d8f05/original.tif
+    sha256: 4bf4ffad49f8cf73b06337d50c920f7372130899c51af2e3692590e73d2d8f05
+    mime: image/tiff
+    bytes: 22107218
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4b/f4/4bf4ffad49f8cf73b06337d50c920f7372130899c51af2e3692590e73d2d8f05/preview-400.15ff6ff55af7.jpg
+        sha256: 15ff6ff55af704941d49a48cfb37ffea79b5f8662cdf37b5ce99d6cace840c12
+        mime: image/jpeg
+        bytes: 30457
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

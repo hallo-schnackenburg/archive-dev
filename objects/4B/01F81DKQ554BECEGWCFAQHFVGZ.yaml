@@ -1,0 +1,36 @@
+id: 01F81DKQ554BECEGWCFAQHFVGZ
+type: image
+subtype: print
+title: Postkarte Lüchow, Dorfkrug
+description: Lithographie, Rand beschnitten.
+date: 1762-04
+location: Seedorf, Burgstraße
+origin:
+  name: Hans Harms
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+files:
+  - role: main
+    original_name: scan_624.tif
+    path: files/2d/f0/2df0427c52eb4c75a5ce839d98a15a80dc40cb010fdc71a56a884af530f3a211/original.tif
+    sha256: 2df0427c52eb4c75a5ce839d98a15a80dc40cb010fdc71a56a884af530f3a211
+    mime: image/tiff
+    bytes: 18392308
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2d/f0/2df0427c52eb4c75a5ce839d98a15a80dc40cb010fdc71a56a884af530f3a211/preview-400.ad534bba7f82.jpg
+        sha256: ad534bba7f829e91cd535fedeae007908e4783050b6b704161ca3201364a96d3
+        mime: image/jpeg
+        bytes: 83663
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

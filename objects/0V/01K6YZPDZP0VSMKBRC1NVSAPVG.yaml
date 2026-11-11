@@ -1,0 +1,41 @@
+id: 01K6YZPDZP0VSMKBRC1NVSAPVG
+type: image
+subtype: print
+title: Postkarte Restorf, Tanzsaal
+description: Postkarte, gelaufen 1925.
+date: 1852-06-05
+location: Gorleben, Ziegelei
+geocode:
+  lat: 52.9366
+  lon: 11.4931
+  precision: street
+  source: osm
+origin:
+  name: August Wöhlk
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Scheune
+    type: building
+  - name: Cumlosen
+    type: place
+files:
+  - role: main
+    original_name: scan_751.tif
+    path: files/0c/a9/0ca9988fcca84d72da1cd9155352aae67c52a6a2e00c69b721905eb942b5aafa/original.tif
+    sha256: 0ca9988fcca84d72da1cd9155352aae67c52a6a2e00c69b721905eb942b5aafa
+    mime: image/tiff
+    bytes: 4522012
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/0c/a9/0ca9988fcca84d72da1cd9155352aae67c52a6a2e00c69b721905eb942b5aafa/preview-400.6c109e6968b3.jpg
+        sha256: 6c109e6968b3f8773e9a90b67105de014534d99eba747cabb9d4e4c393cf0d08
+        mime: image/jpeg
+        bytes: 76665
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

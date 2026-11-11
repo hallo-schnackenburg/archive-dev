@@ -1,0 +1,39 @@
+id: 01F56PZH6S2C2TGX38NTJKWSQQ
+type: image
+subtype: photo
+title: Kaufmannshaus in Wustrow
+description: Zu sehen sind Gutshaus und Grenzturm.
+date: 1916-02-14
+location: Lüchow, Am Elbdeich
+origin:
+  name: Erika Nitschke
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Försterei
+    type: building
+  - name: Feuerwehrhaus
+    type: building
+parents:
+  - 01J36EBSGAM0EQS4K8346DJX88
+  - 01F5GRETGD87YBWEF5TGR1E25C
+files:
+  - role: main
+    original_name: DSC0986.jpg
+    path: files/26/c5/26c56894d28fa9e514cb27d4d1cbcbd7f768b66234d40cec03e3587e88ee0ea6/original.jpg
+    sha256: 26c56894d28fa9e514cb27d4d1cbcbd7f768b66234d40cec03e3587e88ee0ea6
+    mime: image/jpeg
+    bytes: 21418632
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/26/c5/26c56894d28fa9e514cb27d4d1cbcbd7f768b66234d40cec03e3587e88ee0ea6/preview-400.8af68b2bb661.jpg
+        sha256: 8af68b2bb661ea0491912c38108c2705e904c43e29a7815fcaa059409dd16746
+        mime: image/jpeg
+        bytes: 35972
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

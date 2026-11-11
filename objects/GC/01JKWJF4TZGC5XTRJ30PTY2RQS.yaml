@@ -1,0 +1,38 @@
+id: 01JKWJF4TZGC5XTRJ30PTY2RQS
+type: image
+subtype: drawing
+title: Wappenentwurf Havelberg, Gülden
+description: Mit Anmerkungen am Rand.
+date: 1878-06-16
+location: Cumlosen, Lange Straße
+origin:
+  name: Gustav Krüger
+  type: person
+  location: Arendsee
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Schnackenburg
+    type: place
+  - name: Backhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_105.tif
+    path: files/1f/7d/1f7d7fb45cd761c04711cd05fb48e73180c6728c4e3c42c9dc5ea3f359f93ece/original.tif
+    sha256: 1f7d7fb45cd761c04711cd05fb48e73180c6728c4e3c42c9dc5ea3f359f93ece
+    mime: image/tiff
+    bytes: 12130313
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1f/7d/1f7d7fb45cd761c04711cd05fb48e73180c6728c4e3c42c9dc5ea3f359f93ece/preview-400.0b3120442e61.jpg
+        sha256: 0b3120442e616bda0e746f54286f7694666893ef4b902308adc39219abcd28a6
+        mime: image/jpeg
+        bytes: 50502
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

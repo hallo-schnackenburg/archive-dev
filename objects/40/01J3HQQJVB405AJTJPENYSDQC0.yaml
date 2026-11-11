@@ -1,0 +1,39 @@
+id: 01J3HQQJVB405AJTJPENYSDQC0
+type: image
+subtype: photo
+title: Grenzöffnung 1984
+description: Farbfoto, leicht verblasst.
+date: 1984-11
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 38/081
+subjects:
+  - name: Beerdigung 1984
+    type: event
+  - name: Friedhofskapelle
+    type: building
+  - name: Schützenfest 1984
+    type: event
+files:
+  - role: main
+    original_name: scan_586.tif
+    path: files/f0/11/f011565a3a2fdd31693b1ac106c04b1b90e8c085ae89cab35ec9177f100e7ab3/original.tif
+    sha256: f011565a3a2fdd31693b1ac106c04b1b90e8c085ae89cab35ec9177f100e7ab3
+    mime: image/tiff
+    bytes: 24323803
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f0/11/f011565a3a2fdd31693b1ac106c04b1b90e8c085ae89cab35ec9177f100e7ab3/preview-400.1d1c872b2619.jpg
+        sha256: 1d1c872b2619decbc18f555e2ccab5f34ecae9ce459a18eb209b754ef52b8425
+        mime: image/jpeg
+        bytes: 39191
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

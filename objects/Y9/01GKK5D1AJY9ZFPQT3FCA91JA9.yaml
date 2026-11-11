@@ -1,0 +1,42 @@
+id: 01GKK5D1AJY9ZFPQT3FCA91JA9
+type: document
+subtype: letter
+title: Brief von Klaus Rieke an Emma Lemke
+location: Gülden, Elbstraße
+geocode:
+  lat: 52.9307
+  lon: 11.607
+  precision: town
+  source: osm
+origin:
+  name: Hermann Schulz
+  type: person
+  location: Wootz
+recipient: Hermann Lenz
+language: de
+subjects:
+  - name: Poststelle
+    type: building
+  - name: Ortsbesichtigung 1856
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_a91ja9_001.tif
+    path: files/26/55/2655ecd17a43101be80b19bb59138936577df5b5e2ae61532d73dc1dad0f41f5/original.tif
+    sha256: 2655ecd17a43101be80b19bb59138936577df5b5e2ae61532d73dc1dad0f41f5
+    mime: image/tiff
+    bytes: 3780232
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/55/2655ecd17a43101be80b19bb59138936577df5b5e2ae61532d73dc1dad0f41f5/preview-400.20ad3e3f42c3.jpg
+        sha256: 20ad3e3f42c324eef9db16e8940774485ec9c9be0d29eb5066e7778920e9407d
+        mime: image/jpeg
+        bytes: 47378
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

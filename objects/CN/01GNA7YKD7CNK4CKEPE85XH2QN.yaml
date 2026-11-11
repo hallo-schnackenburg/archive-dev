@@ -1,0 +1,43 @@
+id: 01GNA7YKD7CNK4CKEPE85XH2QN
+type: image
+subtype: plan
+title: Bauplan Kegelbahn 1885
+description: Maßstab 1:500.
+date: "1885"
+location: Laase, Lange Straße
+origin:
+  name: Marta Schulz
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Osterfeuer 1885
+    type: event
+  - name: Elbdeich
+    type: building
+  - name: Rathaus
+    type: building
+files:
+  - role: main
+    original_name: scan_039.tif
+    path: files/d5/5e/d55efd08f346f1ff99475950bbea49058d51deb7248188d6009442ec0a3a35a5/original.tif
+    sha256: d55efd08f346f1ff99475950bbea49058d51deb7248188d6009442ec0a3a35a5
+    mime: image/tiff
+    bytes: 23655369
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d5/5e/d55efd08f346f1ff99475950bbea49058d51deb7248188d6009442ec0a3a35a5/preview-400.5db2fa06c0bb.jpg
+        sha256: 5db2fa06c0bb755875eccd6fc75d582f585e326b1f04f9e39d658dbe26161a72
+        mime: image/jpeg
+        bytes: 42142
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

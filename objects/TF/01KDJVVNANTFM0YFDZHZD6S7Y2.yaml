@@ -1,0 +1,41 @@
+id: 01KDJVVNANTFM0YFDZHZD6S7Y2
+type: image
+subtype: print
+title: Postkarte Holtorf, Kriegerdenkmal
+description: Kupferstich, koloriert.
+date: 1853-05
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro/Mappe 20/103
+subjects:
+  - name: Maifeier 1853
+    type: event
+  - name: Klaus Meyer
+    type: person
+  - name: Dorfkrug
+    type: building
+parents:
+  - 01HRVYM45E9Q1MV4SZNSP2VQV9
+files:
+  - role: main
+    original_name: scan_143.tif
+    path: files/00/48/0048654d9c64992bb34dad5c66dc57c4e0aa17dc969beeaa81535068ce5a6e6d/original.tif
+    sha256: 0048654d9c64992bb34dad5c66dc57c4e0aa17dc969beeaa81535068ce5a6e6d
+    mime: image/tiff
+    bytes: 15057838
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/00/48/0048654d9c64992bb34dad5c66dc57c4e0aa17dc969beeaa81535068ce5a6e6d/preview-400.f961d888a7d3.jpg
+        sha256: f961d888a7d330a8ca8a0cce9dff5bf016cc2c7da0784a770988a8e2288bc876
+        mime: image/jpeg
+        bytes: 73808
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

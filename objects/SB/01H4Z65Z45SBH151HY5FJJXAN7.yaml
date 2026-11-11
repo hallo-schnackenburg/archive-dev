@@ -1,0 +1,38 @@
+id: 01H4Z65Z45SBH151HY5FJJXAN7
+type: image
+subtype: plan
+title: Bauplan Elbdeich 1853
+description: Maßstab 1:500.
+date: 1853~
+location: Pretzier, Dorfstraße
+origin:
+  name: Emma Quast
+  type: person
+  location: Gorleben
+subjects:
+  - name: Wassermühle
+    type: building
+  - name: Zollamt
+    type: building
+parents:
+  - 01F5BDT8RF2AK0D4775DY21054
+files:
+  - role: main
+    original_name: scan_585.tif
+    path: files/05/22/05228d9940e19fbee9c4fd272fbfffd21b6edb6fcb27c9d2c157b13e33ec2565/original.tif
+    sha256: 05228d9940e19fbee9c4fd272fbfffd21b6edb6fcb27c9d2c157b13e33ec2565
+    mime: image/tiff
+    bytes: 7336259
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/22/05228d9940e19fbee9c4fd272fbfffd21b6edb6fcb27c9d2c157b13e33ec2565/preview-400.bb9178304ec7.jpg
+        sha256: bb9178304ec79aa5618d52b91c51815f25391896937b5f66a9e9215c187a12e4
+        mime: image/jpeg
+        bytes: 30899
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

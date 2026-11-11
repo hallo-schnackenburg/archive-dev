@@ -1,0 +1,41 @@
+id: 01HMJPWCKVHH0JPNHJFQMFYYY0
+type: image
+subtype: photo
+title: Grenzöffnung 1942
+description: Zu sehen sind Ziegelei und Storchennest.
+date: 1942?
+location: Seedorf, Fährstraße
+origin:
+  name: Anni Voss
+  type: person
+  location: Havelberg
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Seedorf
+    type: place
+  - name: Schlachtfest 1942
+    type: event
+parents:
+  - 01FTBRH4CY1NRQ8V7FMPS575HJ
+  - 01FHXWS77V11495NM60GV2NEPP
+files:
+  - role: main
+    original_name: DSC1966.jpg
+    path: files/a2/e0/a2e007aad3966bfceaadf093eb21cce606adef244224a606277d81368ccafe76/original.jpg
+    sha256: a2e007aad3966bfceaadf093eb21cce606adef244224a606277d81368ccafe76
+    mime: image/jpeg
+    bytes: 3099010
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/a2/e0/a2e007aad3966bfceaadf093eb21cce606adef244224a606277d81368ccafe76/preview-400.35cf131ead3d.jpg
+        sha256: 35cf131ead3d341df0e7ae3d8ed9b483a04553c947c1fcf94fc96162f417b2d7
+        mime: image/jpeg
+        bytes: 21528
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

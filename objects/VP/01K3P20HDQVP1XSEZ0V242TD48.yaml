@@ -1,0 +1,36 @@
+id: 01K3P20HDQVP1XSEZ0V242TD48
+type: image
+subtype: print
+title: Postkarte Arendsee, Fachwerkhaus Marktstraße 4
+description: Kupferstich, koloriert.
+date: 195X
+location: Dömitz, Am Markt
+origin:
+  name: Erika Dreyer
+  type: person
+  location: Gorleben
+subjects:
+  - name: Cumlosen
+    type: place
+parents:
+  - 01FC5K4GCY6W41KZKCK9P52A8H
+files:
+  - role: main
+    original_name: scan_445.tif
+    path: files/13/f3/13f3c29880e67dd14572914e8b22516072199578abd0cb3d2a16f6017579dade/original.tif
+    sha256: 13f3c29880e67dd14572914e8b22516072199578abd0cb3d2a16f6017579dade
+    mime: image/tiff
+    bytes: 17842488
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/13/f3/13f3c29880e67dd14572914e8b22516072199578abd0cb3d2a16f6017579dade/preview-400.e9257d67a741.jpg
+        sha256: e9257d67a7418f8376b7a7d8b4996517b793af31d48d47e6701089aa843c8868
+        mime: image/jpeg
+        bytes: 63057
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

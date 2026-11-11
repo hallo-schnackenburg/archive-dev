@@ -1,0 +1,40 @@
+id: 01G1N6AM4P2SEDJA68DCCEAGX6
+type: image
+subtype: photo
+title: Blick vom Schützenhaus auf das Tanzsaal
+date: "1999"
+location: Holtorf, Fährstraße
+geocode:
+  lat: 52.9241
+  lon: 11.5428
+  precision: street
+  source: osm
+origin:
+  name: Walter Wiese
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Laase
+    type: place
+  - name: Heuberge
+    type: building
+files:
+  - role: main
+    original_name: IMG_8044.jpg
+    path: files/9c/52/9c52845939e18544856de74126cf948667bf88372ef37947d681aede8df0217e/original.jpg
+    sha256: 9c52845939e18544856de74126cf948667bf88372ef37947d681aede8df0217e
+    mime: image/jpeg
+    bytes: 24954833
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/9c/52/9c52845939e18544856de74126cf948667bf88372ef37947d681aede8df0217e/preview-400.30f0ce9b8843.jpg
+        sha256: 30f0ce9b88438ff6f3eea9b3df1b433b8f47cdb3abe64d69456c4d5c2cc3e543
+        mime: image/jpeg
+        bytes: 61838
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

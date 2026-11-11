@@ -1,0 +1,39 @@
+id: 01HE4QE2JRG9NAQQDFT5TM0AAM
+type: image
+subtype: plan
+title: Deichplan Hitzacker bis Lüchow
+date: 1904-03-19
+origin:
+  name: Erika Quast
+  type: person
+  location: Holtorf
+subjects:
+  - name: Bahnhof
+    type: building
+  - name: Kaufmannshaus
+    type: building
+  - name: Torhaus
+    type: building
+parents:
+  - 01K3PA0AX7J3WY8KDDN8217RNG
+  - 01J8EFPX4R9MB05RW08DV43E95
+files:
+  - role: main
+    original_name: scan_340.tif
+    path: files/8a/21/8a21f7730ebefc5a0562b644b886246f55ea136f9259fdd4139dcc4f861886f7/original.tif
+    sha256: 8a21f7730ebefc5a0562b644b886246f55ea136f9259fdd4139dcc4f861886f7
+    mime: image/tiff
+    bytes: 18897734
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/8a/21/8a21f7730ebefc5a0562b644b886246f55ea136f9259fdd4139dcc4f861886f7/preview-400.2be21587128a.jpg
+        sha256: 2be21587128a3b9b89b59bb9b7b5022a13ea2b7080ddc6846cdcf099b5d43a9e
+        mime: image/jpeg
+        bytes: 59006
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01HDAFV3BX6F9Q94F91T5RZCG0
+type: image
+subtype: photo
+title: Kirmes der Freiwillige Feuerwehr
+date: "1939"
+location: Rüterberg, Dorfkrug
+origin:
+  name: Hermann Lemke
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Walter Garms
+    type: person
+  - name: Storchennest
+    type: building
+parents:
+  - 01FKBD4BVD847YBHNZE34X0MBM
+files:
+  - role: main
+    original_name: scan_197.tif
+    path: files/89/8d/898d034c990bc6a70d15c9f83af71f9763f22a7607023303ac63a813d92839f4/original.tif
+    sha256: 898d034c990bc6a70d15c9f83af71f9763f22a7607023303ac63a813d92839f4
+    mime: image/tiff
+    bytes: 13948085
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/89/8d/898d034c990bc6a70d15c9f83af71f9763f22a7607023303ac63a813d92839f4/preview-400.c322cfc1bb61.jpg
+        sha256: c322cfc1bb61b0928bd8d6ac9bbb9db63cebcbf83994601037953e7f2343fc15
+        mime: image/jpeg
+        bytes: 48142
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

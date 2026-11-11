@@ -1,0 +1,36 @@
+id: 01GCZ1R6D8FEAZGY2YNKFEE10J
+type: image
+subtype: photo
+title: Karl Plate, Porträt
+description: Aufnahme von Wilhelm Plate.
+date: 1990-11-24
+location: Gorleben, Hinter den Höfen
+geocode:
+  lat: 52.9445
+  lon: 11.5199
+  precision: town
+  source: osm
+origin:
+  name: Otto Matthies
+  type: person
+  location: Kapern
+files:
+  - role: main
+    original_name: DSC2068.jpg
+    path: files/ac/56/ac56c9b68208998fe703ef6247ddf0da18cd32cbf395e70ace07301235dd80b3/original.jpg
+    sha256: ac56c9b68208998fe703ef6247ddf0da18cd32cbf395e70ace07301235dd80b3
+    mime: image/jpeg
+    bytes: 26621970
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ac/56/ac56c9b68208998fe703ef6247ddf0da18cd32cbf395e70ace07301235dd80b3/preview-400.a6467c8b31db.jpg
+        sha256: a6467c8b31dba1861a61c9b61a6318ecabfb31ed4ca61f7b8d8bb9d2d709b278
+        mime: image/jpeg
+        bytes: 74749
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

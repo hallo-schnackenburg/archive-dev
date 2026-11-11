@@ -1,0 +1,35 @@
+id: 01J5RJGC4M12T8E7SFVBVNFM2M
+type: image
+subtype: photo
+title: Hermann Rohde, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 2001-06
+origin:
+  name: Walter Lemke
+  type: person
+  location: Wustrow
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Dieter Brandt
+    type: person
+files:
+  - role: main
+    original_name: DSC7442.jpg
+    path: files/12/34/12346b34c8c658c82091e471bfd192b95903e2bc2ccc8f874ceb97768be0726c/original.jpg
+    sha256: 12346b34c8c658c82091e471bfd192b95903e2bc2ccc8f874ceb97768be0726c
+    mime: image/jpeg
+    bytes: 7709388
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/12/34/12346b34c8c658c82091e471bfd192b95903e2bc2ccc8f874ceb97768be0726c/preview-400.43b5f02a564a.jpg
+        sha256: 43b5f02a564ac00a9b019c2eba064a048caaae803bc4428b1407000806a8cce1
+        mime: image/jpeg
+        bytes: 86081
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

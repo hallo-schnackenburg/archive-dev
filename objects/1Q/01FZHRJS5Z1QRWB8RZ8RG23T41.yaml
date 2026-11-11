@@ -1,0 +1,43 @@
+id: 01FZHRJS5Z1QRWB8RZ8RG23T41
+type: image
+subtype: photo
+title: Rudolf Plate, Porträt
+date: 1956-03-01
+location: Wustrow, Elbstraße
+origin:
+  name: Dieter Schwarz
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 20/398
+subjects:
+  - name: Badestelle
+    type: building
+  - name: Försterei
+    type: building
+parents:
+  - 01HDW7HWDAZMFCFD1ZXF076XXS
+files:
+  - role: main
+    original_name: DSC2407.jpg
+    path: files/0c/67/0c67425650017ed08a618100456b796c5224cdd1c04c5e709951cbc2b9ccfbfb/original.jpg
+    sha256: 0c67425650017ed08a618100456b796c5224cdd1c04c5e709951cbc2b9ccfbfb
+    mime: image/jpeg
+    bytes: 3809209
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/0c/67/0c67425650017ed08a618100456b796c5224cdd1c04c5e709951cbc2b9ccfbfb/preview-400.c60d6e129166.jpg
+        sha256: c60d6e129166125efc4302f2c5c687a94cda2da4ac737f4c68275f2dbd65ac0b
+        mime: image/jpeg
+        bytes: 66330
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

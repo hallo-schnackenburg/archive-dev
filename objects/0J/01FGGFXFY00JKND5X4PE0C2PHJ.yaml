@@ -1,0 +1,47 @@
+id: 01FGGFXFY00JKND5X4PE0C2PHJ
+type: image
+subtype: print
+title: Ansichtskarte Dorfstraße
+description: Postkarte, gelaufen 1905.
+date: 193X
+location: Bömenzien, Fährstraße
+geocode:
+  lat: 52.9521
+  lon: 11.6607
+  precision: street
+  source: osm
+origin:
+  name: Frieda Krüger
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok 26/158
+subjects:
+  - name: Lüchow
+    type: place
+parents:
+  - 01HS9D6TNXGYQ746ZSEVHFEZN8
+files:
+  - role: main
+    original_name: scan_674.tif
+    path: files/22/74/22747e5751a1844c10d29d12d238f1845e0036a6172e09d0084aa4884d906a43/original.tif
+    sha256: 22747e5751a1844c10d29d12d238f1845e0036a6172e09d0084aa4884d906a43
+    mime: image/tiff
+    bytes: 14348907
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/22/74/22747e5751a1844c10d29d12d238f1845e0036a6172e09d0084aa4884d906a43/preview-400.cf6b66e8689d.jpg
+        sha256: cf6b66e8689dd5955f3eb2a6af34ef9fe40bd9a7e7ea17b130aa009fa2544e48
+        mime: image/jpeg
+        bytes: 39410
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

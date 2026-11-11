@@ -1,0 +1,57 @@
+id: 01KCQTSW1P0GZBGXA1QHWJ2K6T
+type: document
+subtype: note
+title: Rechnung Ludolf, Dorfschule
+description: Auf der Rückseite eines Formulars.
+date: "1867"
+location: Zadrau, Marktstraße
+geocode:
+  lat: 53.0613
+  lon: 11.6151
+  precision: region
+  source: osm
+language: de
+subjects:
+  - name: Brünkendorf
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_wj2k6t_001.tif
+    path: files/27/0f/270f78d9775262580c7c835ecd8b36f4f2f0dbbb2a8998100aa4f41d2611f53d/original.tif
+    sha256: 270f78d9775262580c7c835ecd8b36f4f2f0dbbb2a8998100aa4f41d2611f53d
+    mime: image/tiff
+    bytes: 7076868
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/27/0f/270f78d9775262580c7c835ecd8b36f4f2f0dbbb2a8998100aa4f41d2611f53d/preview-400.c1023372e68b.jpg
+        sha256: c1023372e68b17cb678eb71d0eff33b1a1cd189a2e4ec2693e63bbe02cb0d150
+        mime: image/jpeg
+        bytes: 25002
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_wj2k6t_002.tif
+    path: files/4e/1c/4e1c4f04a74bf5ce281081f1dd713f05a5309f806ec7c0022d761156716c97be/original.tif
+    sha256: 4e1c4f04a74bf5ce281081f1dd713f05a5309f806ec7c0022d761156716c97be
+    mime: image/tiff
+    bytes: 16912397
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4e/1c/4e1c4f04a74bf5ce281081f1dd713f05a5309f806ec7c0022d761156716c97be/preview-400.0d9079a96781.jpg
+        sha256: 0d9079a96781cb92c63f0d89389b9fef9690f6847fb09d56dac369f02aa50535
+        mime: image/jpeg
+        bytes: 43000
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

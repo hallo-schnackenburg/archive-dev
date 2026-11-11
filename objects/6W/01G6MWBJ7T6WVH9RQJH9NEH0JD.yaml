@@ -1,0 +1,35 @@
+id: 01G6MWBJ7T6WVH9RQJH9NEH0JD
+type: image
+subtype: plan
+title: Flurkarte Gollensdorf
+description: Tusche auf Transparentpapier.
+location: Bömenzien, Dorfstraße
+origin:
+  name: Hans Meyer
+  type: person
+  location: Lenzen
+subjects:
+  - name: Kindergartenfest 1821
+    type: event
+  - name: Backhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_488.tif
+    path: files/ff/ab/ffabb8cd1409063dd8ba23515f5a0fad607414999c06ab1c636ce98bab9978fc/original.tif
+    sha256: ffabb8cd1409063dd8ba23515f5a0fad607414999c06ab1c636ce98bab9978fc
+    mime: image/tiff
+    bytes: 14621213
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ff/ab/ffabb8cd1409063dd8ba23515f5a0fad607414999c06ab1c636ce98bab9978fc/preview-400.a31c8301c88b.jpg
+        sha256: a31c8301c88bf5da5c11fa106944573967b5e9a6c8e07a4881aea481c8d3ce19
+        mime: image/jpeg
+        bytes: 54185
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

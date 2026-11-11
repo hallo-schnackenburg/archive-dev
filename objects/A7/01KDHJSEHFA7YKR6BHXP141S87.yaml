@@ -1,0 +1,47 @@
+id: 01KDHJSEHFA7YKR6BHXP141S87
+type: image
+subtype: photo
+title: Familie Sievers beim Brückeneinweihung
+description: Farbfoto, leicht verblasst.
+date: 1979~
+location: Lüchow, Ziegelei
+geocode:
+  lat: 52.932
+  lon: 11.6374
+  precision: street
+  source: osm
+origin:
+  name: Lotte Ihde
+  type: person
+  location: Pretzier
+owner:
+  name: August Schulz
+  type: person
+  note: Nachlass
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+  - name: Beerdigung 1979
+    type: event
+parents:
+  - 01GVKN942N85NKH8CV072GG85G
+files:
+  - role: main
+    original_name: P5580.jpg
+    path: files/3e/d4/3ed49b124db53f6193c25fa05d4e0b044b2319cd478952ff7cfaed4b32913f4a/original.jpg
+    sha256: 3ed49b124db53f6193c25fa05d4e0b044b2319cd478952ff7cfaed4b32913f4a
+    mime: image/jpeg
+    bytes: 12212417
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/3e/d4/3ed49b124db53f6193c25fa05d4e0b044b2319cd478952ff7cfaed4b32913f4a/preview-400.6795118323fd.jpg
+        sha256: 6795118323fd4b82fc3b69c79d1a8b8ca5d5162682ddf7a6705dcf97397cc2d5
+        mime: image/jpeg
+        bytes: 27856
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

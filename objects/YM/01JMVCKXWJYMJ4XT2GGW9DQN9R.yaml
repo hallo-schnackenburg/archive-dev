@@ -1,0 +1,37 @@
+id: 01JMVCKXWJYMJ4XT2GGW9DQN9R
+type: image
+subtype: print
+title: Postkarte Kapern, Speicher
+description: Kupferstich, koloriert.
+date: 1810-05-04
+origin:
+  name: Karl Wegner
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Friedrich Heuer
+    type: person
+  - name: Kindergarten
+    type: building
+  - name: Försterei
+    type: building
+files:
+  - role: main
+    original_name: scan_268.tif
+    path: files/0a/dd/0addc8c4e34bf389ff1605f449fef2762202abecf7fb9ec4a91e9e20561266fc/original.tif
+    sha256: 0addc8c4e34bf389ff1605f449fef2762202abecf7fb9ec4a91e9e20561266fc
+    mime: image/tiff
+    bytes: 8611565
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0a/dd/0addc8c4e34bf389ff1605f449fef2762202abecf7fb9ec4a91e9e20561266fc/preview-400.192fcfff62e9.jpg
+        sha256: 192fcfff62e912ca863aaa2e9184c1b74ce5786c7e044f787613134d22948405
+        mime: image/jpeg
+        bytes: 73868
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

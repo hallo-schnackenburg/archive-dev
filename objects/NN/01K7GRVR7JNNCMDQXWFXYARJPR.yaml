@@ -1,0 +1,33 @@
+id: 01K7GRVR7JNNCMDQXWFXYARJPR
+type: image
+subtype: print
+title: Postkarte Havelberg, Tischlerei Bruns
+description: Lithographie, Rand beschnitten.
+date: "1779"
+location: Laase, Mühlenweg
+origin:
+  name: Ilse Ahrens
+  type: person
+  location: Lanz
+parents:
+  - 01FHXWS77V11495NM60GV2NEPP
+files:
+  - role: main
+    original_name: scan_943.tif
+    path: files/f3/2e/f32ea34575fb5ca1a03dd08382cd5d765c1a0fd113c44dd57bd33a026cb8a009/original.tif
+    sha256: f32ea34575fb5ca1a03dd08382cd5d765c1a0fd113c44dd57bd33a026cb8a009
+    mime: image/tiff
+    bytes: 25013565
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f3/2e/f32ea34575fb5ca1a03dd08382cd5d765c1a0fd113c44dd57bd33a026cb8a009/preview-400.0ca16190571b.jpg
+        sha256: 0ca16190571b2c931fb4f9bd5207afdef9eff9b0005b9a545f446e62b00c0f88
+        mime: image/jpeg
+        bytes: 80590
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

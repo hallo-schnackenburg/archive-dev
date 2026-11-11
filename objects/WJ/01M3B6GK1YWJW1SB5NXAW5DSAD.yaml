@@ -1,0 +1,35 @@
+id: 01M3B6GK1YWJW1SB5NXAW5DSAD
+type: image
+subtype: photo
+title: Blick vom Pumpenhaus auf das Dorfteich
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Arendsee, Schulstraße
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Lüchow
+    type: place
+  - name: Rathaus
+    type: building
+parents:
+  - 01KW7A26BTPJQVF2JX2JPDHVMK
+files:
+  - role: main
+    original_name: DSC0078.jpg
+    path: files/70/55/70558423d3d8b05c6f8e154f083eb933b7c2b756631122bb920fc43bcf988c2c/original.jpg
+    sha256: 70558423d3d8b05c6f8e154f083eb933b7c2b756631122bb920fc43bcf988c2c
+    mime: image/jpeg
+    bytes: 4234904
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/70/55/70558423d3d8b05c6f8e154f083eb933b7c2b756631122bb920fc43bcf988c2c/preview-400.df6db3366f97.jpg
+        sha256: df6db3366f977f9935647f57f362685216efde8ce820cef62a47e60c0399c600
+        mime: image/jpeg
+        bytes: 33057
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

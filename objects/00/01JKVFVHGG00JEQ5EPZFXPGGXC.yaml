@@ -1,0 +1,37 @@
+id: 01JKVFVHGG00JEQ5EPZFXPGGXC
+type: image
+subtype: photo
+title: Eisgang der Jugendfeuerwehr
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1989-08-08
+location: Lüchow, Lange Straße
+geocode:
+  lat: 53.0852
+  lon: 11.584
+  precision: town
+  source: osm
+subjects:
+  - name: Hans Schulz
+    type: person
+  - name: Erntedankfest 1989
+    type: event
+files:
+  - role: main
+    original_name: DSC2981.jpg
+    path: files/27/b9/27b950e1d4e68b4b53bdcfa3b804a3e3d345e49f9c607555a78ec8573483595e/original.jpg
+    sha256: 27b950e1d4e68b4b53bdcfa3b804a3e3d345e49f9c607555a78ec8573483595e
+    mime: image/jpeg
+    bytes: 10527864
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/27/b9/27b950e1d4e68b4b53bdcfa3b804a3e3d345e49f9c607555a78ec8573483595e/preview-400.e6ae0c4beeee.jpg
+        sha256: e6ae0c4beeee5b60e2addbe2adfe19d2bededa52887f81d931239af080a38313
+        mime: image/jpeg
+        bytes: 50158
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01JB0210D99XER0YRMDM25QJCX
+type: image
+subtype: plan
+title: Deichplan Zadrau bis Arendsee
+date: "1915"
+location: Cumlosen, Dorfschule
+origin:
+  name: Dieter Tiedemann
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg 4/281
+files:
+  - role: main
+    original_name: scan_402.tif
+    path: files/cb/70/cb70920194748965b9114b335d38812043b47a5a1bec66df3de7a08d25ac0c98/original.tif
+    sha256: cb70920194748965b9114b335d38812043b47a5a1bec66df3de7a08d25ac0c98
+    mime: image/tiff
+    bytes: 9114197
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/cb/70/cb70920194748965b9114b335d38812043b47a5a1bec66df3de7a08d25ac0c98/preview-400.7eed9845a5b2.jpg
+        sha256: 7eed9845a5b2748e1cba4fea45ebb0de874fa775b0b47943bf319f2e0895a37d
+        mime: image/jpeg
+        bytes: 57072
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

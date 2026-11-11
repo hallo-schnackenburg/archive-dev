@@ -1,0 +1,44 @@
+id: 01KC265FFB1GVYZ4C92B332VXZ
+type: image
+subtype: photo
+title: Blick vom Bahnhof auf das Gasthof „Zur Elbe“
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Lüchow, Schulstraße
+geocode:
+  lat: 52.9479
+  lon: 11.6013
+  precision: town
+  source: osm
+origin:
+  name: Hermann Heuer
+  type: person
+  location: Lüchow
+subjects:
+  - name: Ortsbesichtigung 1972
+    type: event
+  - name: Scheune
+    type: building
+  - name: Fastnacht 1972
+    type: event
+parents:
+  - 01JJ7ZAGDW4T3Y162XJ5VXZV21
+files:
+  - role: main
+    original_name: foto_3515.jpg
+    path: files/ca/ba/caba6e5b536ce32d5f4870b18093fe6b927ebaa43e78b3e28888b2d8a9e6f8ee/original.jpg
+    sha256: caba6e5b536ce32d5f4870b18093fe6b927ebaa43e78b3e28888b2d8a9e6f8ee
+    mime: image/jpeg
+    bytes: 10935377
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/ca/ba/caba6e5b536ce32d5f4870b18093fe6b927ebaa43e78b3e28888b2d8a9e6f8ee/preview-400.d08424104fdd.jpg
+        sha256: d08424104fdda30a506076cdaa216ef5c93835c97c842bf3068883b591c5c74f
+        mime: image/jpeg
+        bytes: 44872
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

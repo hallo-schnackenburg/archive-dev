@@ -1,0 +1,38 @@
+id: 01EZVS91GHEP8YREY2NSCETQCV
+type: image
+subtype: drawing
+title: Skizze Wootz, Kirchstraße
+date: 1957-03
+location: Zadrau, Gartenstraße
+geocode:
+  lat: 52.9469
+  lon: 11.4864
+  precision: street
+  source: osm
+origin:
+  name: Rudolf Matthies
+  type: person
+  location: Wustrow
+parents:
+  - 01J60ZPHNFEPSYPBYBQHSWMT7Y
+  - 01FRHHN2TXE6MJ0TDGG4SGYAWP
+files:
+  - role: main
+    original_name: scan_210.tif
+    path: files/47/66/47666c596cca3e9b252d72606a0897e52a1c43545c58f271d83fbe2c569f9a41/original.tif
+    sha256: 47666c596cca3e9b252d72606a0897e52a1c43545c58f271d83fbe2c569f9a41
+    mime: image/tiff
+    bytes: 880961
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/47/66/47666c596cca3e9b252d72606a0897e52a1c43545c58f271d83fbe2c569f9a41/preview-400.940071704670.jpg
+        sha256: 94007170467039b9ddcd6b8fe835eb4bd0ead89a7a79c5d47a2c7d4f11277128
+        mime: image/jpeg
+        bytes: 82064
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

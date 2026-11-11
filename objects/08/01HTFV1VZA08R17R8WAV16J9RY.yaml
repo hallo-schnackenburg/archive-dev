@@ -1,0 +1,46 @@
+id: 01HTFV1VZA08R17R8WAV16J9RY
+type: image
+subtype: print
+title: Ansichtskarte Gartenstraße, Lüchow
+description: Kupferstich, koloriert.
+date: 1895-09-15
+location: Brünkendorf, Hafenstraße
+geocode:
+  lat: 52.9718
+  lon: 11.6332
+  precision: street
+  source: osm
+origin:
+  name: Hans Meyer
+  type: person
+  location: Gülden
+subjects:
+  - name: Bömenzien
+    type: place
+  - name: Molkerei
+    type: building
+  - name: Kegelbahn
+    type: building
+parents:
+  - 01GVFH3549S673SQ9MMEEV7ZGF
+  - 01G9F8WZMH640J1SBB5JSSJJX5
+files:
+  - role: main
+    original_name: scan_195.tif
+    path: files/44/af/44af3500708243732c3c3a70fd33bb2893722406b54417068289700643a4fc26/original.tif
+    sha256: 44af3500708243732c3c3a70fd33bb2893722406b54417068289700643a4fc26
+    mime: image/tiff
+    bytes: 18383697
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/44/af/44af3500708243732c3c3a70fd33bb2893722406b54417068289700643a4fc26/preview-400.c3fe9264c621.jpg
+        sha256: c3fe9264c621ad886674af4f4fefc274016736278cf00c5fd9a674a927eac66c
+        mime: image/jpeg
+        bytes: 51109
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

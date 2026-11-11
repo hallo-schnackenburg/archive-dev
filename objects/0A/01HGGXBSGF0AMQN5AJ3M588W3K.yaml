@@ -1,0 +1,37 @@
+id: 01HGGXBSGF0AMQN5AJ3M588W3K
+type: image
+subtype: photo
+title: Hans Krüger vor dem Hafen
+description: Farbfoto, leicht verblasst.
+date: "1943"
+origin:
+  name: Karl Krüger
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Kirmes 1943
+    type: event
+  - name: Hans Rieke
+    type: person
+parents:
+  - 01JTAHZQ2H6N377TQAEA3P4341
+files:
+  - role: main
+    original_name: foto_9366.jpg
+    path: files/02/31/02316bc59409f652e1ef2681c59d7d9b1abb93db8c8c24ec9e2022a886a4d894/original.jpg
+    sha256: 02316bc59409f652e1ef2681c59d7d9b1abb93db8c8c24ec9e2022a886a4d894
+    mime: image/jpeg
+    bytes: 16327140
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/02/31/02316bc59409f652e1ef2681c59d7d9b1abb93db8c8c24ec9e2022a886a4d894/preview-400.a20d28189c80.jpg
+        sha256: a20d28189c809e10f27ca4c4dd209dd9292cce9106abcd2baba92847649956dc
+        mime: image/jpeg
+        bytes: 61667
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

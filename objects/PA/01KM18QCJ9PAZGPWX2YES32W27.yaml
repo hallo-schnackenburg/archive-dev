@@ -1,0 +1,47 @@
+id: 01KM18QCJ9PAZGPWX2YES32W27
+type: document
+subtype: note
+title: Rechnung Kuhlmann, Mühle
+description: Zettel, Bleistift.
+date: 1936-11-25
+location: Cumlosen, Gärtnerei
+geocode:
+  lat: 52.9802
+  lon: 11.6848
+  precision: street
+  source: osm
+origin:
+  name: Lotte Rieke
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Maifeier 1936
+    type: event
+parents:
+  - 01FT5CTVAMDQF7480XV03FD2CZ
+files:
+  - role: page
+    num: 1
+    original_name: note_s32w27_001.tif
+    path: files/25/de/25de7b3788037390753c2614a5fd7e30d4429a12c09136453efd84219a3ae221/original.tif
+    sha256: 25de7b3788037390753c2614a5fd7e30d4429a12c09136453efd84219a3ae221
+    mime: image/tiff
+    bytes: 5109565
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/25/de/25de7b3788037390753c2614a5fd7e30d4429a12c09136453efd84219a3ae221/preview-400.785e3fc240ca.jpg
+        sha256: 785e3fc240ca441f51f485722a6225cccb24e5a08e9d2fb0cd705fa2a81e3dd5
+        mime: image/jpeg
+        bytes: 61800
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

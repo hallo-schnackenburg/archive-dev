@@ -1,0 +1,44 @@
+id: 01FQDBWWEWPTCGXS1V0WAQPQ89
+type: image
+subtype: photo
+title: Elfriede Garms vor dem Kirche St. Johannis
+date: 1986-10-05
+location: Brünkendorf, Storchennest
+geocode:
+  lat: 53.011
+  lon: 11.5593
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 23/036
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v98384
+subjects:
+  - name: Scheune
+    type: building
+parents:
+  - 01FC8S7RPDV4DQB5BVMRBYF4FC
+  - 01K7Q0067TYFAM11NH26A8ANPJ
+files:
+  - role: main
+    original_name: scan_163.tif
+    path: files/18/8c/188c74b5c2176e44a6c4dbeda87701b58a7d2bd18f6714816a65184f4071c8f9/original.tif
+    sha256: 188c74b5c2176e44a6c4dbeda87701b58a7d2bd18f6714816a65184f4071c8f9
+    mime: image/tiff
+    bytes: 27366897
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/18/8c/188c74b5c2176e44a6c4dbeda87701b58a7d2bd18f6714816a65184f4071c8f9/preview-400.0a1acfe02f92.jpg
+        sha256: 0a1acfe02f92011b8519e13506f711726dc76775c495283d9ee311f9ba206636
+        mime: image/jpeg
+        bytes: 41441
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

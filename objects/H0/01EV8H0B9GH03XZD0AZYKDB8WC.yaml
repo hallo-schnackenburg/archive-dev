@@ -1,0 +1,38 @@
+id: 01EV8H0B9GH03XZD0AZYKDB8WC
+type: image
+subtype: photo
+title: Bernd Krüger vor dem Dorfteich
+date: 1917-07-18
+location: Lüchow, Mühlenweg
+geocode:
+  lat: 53.0144
+  lon: 11.4669
+  precision: region
+  source: osm
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Sportplatz
+    type: building
+parents:
+  - 01F83N316GB4JPE9NDSAS5ZR1M
+files:
+  - role: main
+    original_name: P5105.jpg
+    path: files/5e/ed/5eede34173fd9593d27301356f0e1d7b231764e422589b27ce74a341ad670781/original.jpg
+    sha256: 5eede34173fd9593d27301356f0e1d7b231764e422589b27ce74a341ad670781
+    mime: image/jpeg
+    bytes: 7275984
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/5e/ed/5eede34173fd9593d27301356f0e1d7b231764e422589b27ce74a341ad670781/preview-400.6812ee05e338.jpg
+        sha256: 6812ee05e338bbe8750957864789b025d1ab573daf8cf4cb3e3890f65ad278cd
+        mime: image/jpeg
+        bytes: 31993
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01GSERB7K7BZAHWW309655JKYE
+type: image
+subtype: plan
+title: Deichplan Wootz bis Rüterberg, Nienwalde
+description: Maßstab 1:100.
+date: 1903-06
+origin:
+  name: Dieter Rieke
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Mappe 22/117
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+  - name: Kirche St. Johannis
+    type: building
+files:
+  - role: main
+    original_name: scan_428.tif
+    path: files/d3/5d/d35d52c9e6fec79761296bfdee9bcb1074a3ca9021a49b6c4770b2ba4a48e5fe/original.tif
+    sha256: d35d52c9e6fec79761296bfdee9bcb1074a3ca9021a49b6c4770b2ba4a48e5fe
+    mime: image/tiff
+    bytes: 27007483
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d3/5d/d35d52c9e6fec79761296bfdee9bcb1074a3ca9021a49b6c4770b2ba4a48e5fe/preview-400.b8dc694d8b31.jpg
+        sha256: b8dc694d8b31d786c58ebcdd86c53bc03439f14a7f5b81564cb0b499f0aad514
+        mime: image/jpeg
+        bytes: 70666
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

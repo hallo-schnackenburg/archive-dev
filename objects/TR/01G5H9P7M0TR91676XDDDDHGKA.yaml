@@ -1,0 +1,54 @@
+id: 01G5H9P7M0TR91676XDDDDHGKA
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Schulspeisung 1855
+date: 1855-09
+location: Restorf, Fährstraße
+origin:
+  name: Feuerwehrausschuss Lüchow
+  type: business
+  location: Hitzacker
+language: de
+parents:
+  - 01GQNCNS1ENA3RKA5ZC1ZCYHJF
+files:
+  - role: page
+    num: 1
+    original_name: protocol_ddhgka_001.tif
+    path: files/ce/da/ceda75295fc51f978efa4741037c98a3d378a713d8e88b49c9f1ef546730d90d/original.tif
+    sha256: ceda75295fc51f978efa4741037c98a3d378a713d8e88b49c9f1ef546730d90d
+    mime: image/tiff
+    bytes: 26499798
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ce/da/ceda75295fc51f978efa4741037c98a3d378a713d8e88b49c9f1ef546730d90d/preview-400.42c2e2edde44.jpg
+        sha256: 42c2e2edde449f16fda367da09195238a0039a747e9b1541753956726937a317
+        mime: image/jpeg
+        bytes: 43587
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_ddhgka_002.tif
+    path: files/be/e9/bee98932e7f1245c952eaacf2ce112d73c2befbd78fccc35233372935325c005/original.tif
+    sha256: bee98932e7f1245c952eaacf2ce112d73c2befbd78fccc35233372935325c005
+    mime: image/tiff
+    bytes: 12943908
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/e9/bee98932e7f1245c952eaacf2ce112d73c2befbd78fccc35233372935325c005/preview-400.6d3da4dd77d3.jpg
+        sha256: 6d3da4dd77d383f9f78934cad2273ff8b1fe4a21f493cce4c6fae627f2ee506b
+        mime: image/jpeg
+        bytes: 39128
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

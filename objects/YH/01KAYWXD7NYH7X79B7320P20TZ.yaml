@@ -1,0 +1,47 @@
+id: 01KAYWXD7NYH7X79B7320P20TZ
+type: image
+subtype: plan
+title: Katasterblatt Timm
+date: 1754-01-02
+location: Nienwalde, Deichstraße
+geocode:
+  lat: 53.0362
+  lon: 11.6095
+  precision: region
+  source: osm
+origin:
+  name: Gerda Tiedemann
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Sparkasse
+    type: building
+  - name: Fastnacht 1754
+    type: event
+  - name: Karl Jeß
+    type: person
+files:
+  - role: main
+    original_name: scan_256.tif
+    path: files/40/76/407655a416395576f575b29011bee1cafc3d1455c6dcb4e048d35ee0a4194ffa/original.tif
+    sha256: 407655a416395576f575b29011bee1cafc3d1455c6dcb4e048d35ee0a4194ffa
+    mime: image/tiff
+    bytes: 9161614
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/40/76/407655a416395576f575b29011bee1cafc3d1455c6dcb4e048d35ee0a4194ffa/preview-400.cdf70965bb89.jpg
+        sha256: cdf70965bb891865bb7c1dcef95a60121c8b5701ba8c8e80cd232270f22d9f9f
+        mime: image/jpeg
+        bytes: 79847
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

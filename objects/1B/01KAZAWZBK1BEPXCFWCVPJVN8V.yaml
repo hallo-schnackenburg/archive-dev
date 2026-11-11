@@ -1,0 +1,66 @@
+id: 01KAZAWZBK1BEPXCFWCVPJVN8V
+type: document
+subtype: note
+title: Rechnung Meyer, Kegelbahn
+date: 1939-08-16
+location: Schnackenburg, Am Elbdeich
+geocode:
+  lat: 52.9045
+  lon: 11.6711
+  precision: region
+  source: osm
+origin:
+  name: Lotte Schulz
+  type: person
+  location: Laase
+language: de
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Windmühle
+    type: building
+  - name: Wilhelm Rieke
+    type: person
+parents:
+  - 01J61X90CH264SW24N35G33X0N
+files:
+  - role: page
+    num: 1
+    original_name: note_pjvn8v_001.tif
+    path: files/ec/00/ec00efc6c8489ade8c615d2c58986c871385e2671c57b4bc52fa05df6931d9f4/original.tif
+    sha256: ec00efc6c8489ade8c615d2c58986c871385e2671c57b4bc52fa05df6931d9f4
+    mime: image/tiff
+    bytes: 20794235
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ec/00/ec00efc6c8489ade8c615d2c58986c871385e2671c57b4bc52fa05df6931d9f4/preview-400.54b2a7d83504.jpg
+        sha256: 54b2a7d83504016694aa0934524ef5fbbf1862979ff638fe39aabf1a6324fb66
+        mime: image/jpeg
+        bytes: 54620
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_pjvn8v_002.tif
+    path: files/fa/c7/fac71b4cde855645f9d1f1a58e3a5ed5f63f5c99accc1c0aa251295319ad9c7b/original.tif
+    sha256: fac71b4cde855645f9d1f1a58e3a5ed5f63f5c99accc1c0aa251295319ad9c7b
+    mime: image/tiff
+    bytes: 23511200
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fa/c7/fac71b4cde855645f9d1f1a58e3a5ed5f63f5c99accc1c0aa251295319ad9c7b/preview-400.974dcaad6da4.jpg
+        sha256: 974dcaad6da48ffbe968e6242eef409d0bd8803d6e9c9f8bcc0f2706150322fe
+        mime: image/jpeg
+        bytes: 21680
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

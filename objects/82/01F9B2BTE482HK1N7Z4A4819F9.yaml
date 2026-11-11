@@ -1,0 +1,44 @@
+id: 01F9B2BTE482HK1N7Z4A4819F9
+type: image
+subtype: plan
+title: Bauplan Schlachterei 1873
+description: Mit handschriftlichen Ergänzungen.
+date: 1873-06-12
+origin:
+  name: Erika Nitschke
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 3/198
+  note: Schrank B
+subjects:
+  - name: Kirmes 1873
+    type: event
+  - name: Restorf
+    type: place
+  - name: Karl Quast
+    type: person
+files:
+  - role: main
+    original_name: scan_342.tif
+    path: files/dc/7a/dc7ab3020d806dd37220381c27fedc0fae552ea5f1343cf9560727ae5a592aa1/original.tif
+    sha256: dc7ab3020d806dd37220381c27fedc0fae552ea5f1343cf9560727ae5a592aa1
+    mime: image/tiff
+    bytes: 15505009
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/7a/dc7ab3020d806dd37220381c27fedc0fae552ea5f1343cf9560727ae5a592aa1/preview-400.41723be12c2a.jpg
+        sha256: 41723be12c2a7d8b99fa3754d4deb9049d8681cf89cbbbe0d18ac0cc1f2c6a0c
+        mime: image/jpeg
+        bytes: 75290
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01KWQ45ACCM80TQ0HQSN9FZ8ZE
+type: image
+subtype: plan
+title: Bauplan Dorfkrug 1817
+date: 1817-02-10
+location: Kapern, Schulstraße
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 2/070
+owner:
+  name: Ernst Meyer
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Tanzsaal
+    type: building
+parents:
+  - 01G13YFEMZ6M5B1HQ76CM2BWE2
+  - 01KEEQTF18ZM4ZAMFBC1AXYQ8V
+files:
+  - role: main
+    original_name: scan_249.tif
+    path: files/99/f5/99f547bd55fc0546c81fc789c6f8b9a152c5db9f6df56e1c317f5449556301bf/original.tif
+    sha256: 99f547bd55fc0546c81fc789c6f8b9a152c5db9f6df56e1c317f5449556301bf
+    mime: image/tiff
+    bytes: 15446687
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/99/f5/99f547bd55fc0546c81fc789c6f8b9a152c5db9f6df56e1c317f5449556301bf/preview-400.7ac6b0cd8c8f.jpg
+        sha256: 7ac6b0cd8c8fdb091539b77695e9d777a53294dc2a2cc298e52c5fbc83c65f54
+        mime: image/jpeg
+        bytes: 30673
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

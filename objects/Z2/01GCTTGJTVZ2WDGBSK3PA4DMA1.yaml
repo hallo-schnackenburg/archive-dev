@@ -1,0 +1,31 @@
+id: 01GCTTGJTVZ2WDGBSK3PA4DMA1
+type: image
+subtype: photo
+title: Erika Garms, Porträt
+description: Aufnahme von Anni Schulz.
+date: "1924"
+location: Nienwalde, Wassermühle
+origin:
+  name: Helga Rohde
+  type: person
+  location: Lüchow
+files:
+  - role: main
+    original_name: scan_751.tif
+    path: files/f5/f2/f5f29994a3dc3543309c73c3ab5f3efb13d158184c14f4e9624421604559a53e/original.tif
+    sha256: f5f29994a3dc3543309c73c3ab5f3efb13d158184c14f4e9624421604559a53e
+    mime: image/tiff
+    bytes: 1536270
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f5/f2/f5f29994a3dc3543309c73c3ab5f3efb13d158184c14f4e9624421604559a53e/preview-400.1315d84621c8.jpg
+        sha256: 1315d84621c8c3afb5f9c8e684ad20fff451aa59c8cc05f1c3b0313b21ba1d6f
+        mime: image/jpeg
+        bytes: 32947
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

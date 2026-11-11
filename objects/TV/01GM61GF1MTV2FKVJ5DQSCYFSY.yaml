@@ -1,0 +1,32 @@
+id: 01GM61GF1MTV2FKVJ5DQSCYFSY
+type: image
+subtype: plan
+title: Deichplan Restorf bis Nienwalde
+description: Maßstab 1:500.
+date: 187X
+origin:
+  name: Paul Voss
+  type: person
+  location: Gartow
+parents:
+  - 01J5CY5YG0F694895WWHN65481
+files:
+  - role: main
+    original_name: scan_379.tif
+    path: files/e3/81/e381447515751192f7cc34c7ac38114c6cfdc9ccf9b1dfcbce8b9ba82e4a2035/original.tif
+    sha256: e381447515751192f7cc34c7ac38114c6cfdc9ccf9b1dfcbce8b9ba82e4a2035
+    mime: image/tiff
+    bytes: 26260512
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e3/81/e381447515751192f7cc34c7ac38114c6cfdc9ccf9b1dfcbce8b9ba82e4a2035/preview-400.a8a0f20295ae.jpg
+        sha256: a8a0f20295ae1e75c04a60e0e9a8dd7494d9fa7fe8db997a924fc3c2a319291a
+        mime: image/jpeg
+        bytes: 47169
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01HCKMPVM7H3A6Q5XPFQTTF4A9
+type: image
+subtype: photo
+title: Sturmschaden 1965
+description: Farbfoto, leicht verblasst.
+date: 1965-03-10
+location: Lüchow, Burgstraße
+origin:
+  name: Ilse Gaede
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Hafen
+    type: building
+  - name: Einweihung 1965
+    type: event
+files:
+  - role: main
+    original_name: IMG_9782.jpg
+    path: files/a3/91/a3918fb0d74ef9836380532246f1794423a1f3de120bff6088b12c1aef3ac323/original.jpg
+    sha256: a3918fb0d74ef9836380532246f1794423a1f3de120bff6088b12c1aef3ac323
+    mime: image/jpeg
+    bytes: 22273738
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/a3/91/a3918fb0d74ef9836380532246f1794423a1f3de120bff6088b12c1aef3ac323/preview-400.d537ed22ae3f.jpg
+        sha256: d537ed22ae3f183e5a68bd8595160257f37688319da3bd534e926ee71dacfe46
+        mime: image/jpeg
+        bytes: 58336
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

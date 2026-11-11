@@ -1,0 +1,37 @@
+id: 01JBG8K9XVFBK1JBZRSH0RFFJT
+type: image
+subtype: photo
+title: Wilhelm Wiegmann vor dem Kindergarten
+date: "1946"
+location: Hitzacker, Gartenstraße
+geocode:
+  lat: 53.0574
+  lon: 11.4976
+  precision: street
+  source: osm
+origin:
+  name: Frieda Wöhlk
+  type: person
+  location: Wootz
+parents:
+  - 01HBAGVGSH8T07D9N2JBVPMDAH
+files:
+  - role: main
+    original_name: foto_7829.jpg
+    path: files/75/73/7573327e5cc043c637179ca64fea9d1ceb879d0a219c32a76ab1900a604f5f4a/original.jpg
+    sha256: 7573327e5cc043c637179ca64fea9d1ceb879d0a219c32a76ab1900a604f5f4a
+    mime: image/jpeg
+    bytes: 20310687
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/75/73/7573327e5cc043c637179ca64fea9d1ceb879d0a219c32a76ab1900a604f5f4a/preview-400.c73f0a520bad.jpg
+        sha256: c73f0a520bad00c463d41dd4942c706fdbd15f387faf3dc1cb1245553eb0c4f7
+        mime: image/jpeg
+        bytes: 54879
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

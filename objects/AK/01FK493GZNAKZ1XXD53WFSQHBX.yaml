@@ -1,0 +1,40 @@
+id: 01FK493GZNAKZ1XXD53WFSQHBX
+type: document
+subtype: note
+title: Rechnung Fricke, Molkerei
+description: Beleg mit Stempel.
+date: 1867-08
+location: Cumlosen, Marktstraße
+origin:
+  name: Wilhelm Voss
+  type: person
+  location: Lüchow
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+parents:
+  - 01FWDEQ7341YMQ5FKJVM0QZ484
+files:
+  - role: page
+    num: 1
+    original_name: note_fsqhbx_001.tif
+    path: files/5d/82/5d82b6c670ff65032c0612af19a337253c1ae2c55e12f4f33467d9a1ad08e26c/original.tif
+    sha256: 5d82b6c670ff65032c0612af19a337253c1ae2c55e12f4f33467d9a1ad08e26c
+    mime: image/tiff
+    bytes: 12343263
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5d/82/5d82b6c670ff65032c0612af19a337253c1ae2c55e12f4f33467d9a1ad08e26c/preview-400.5f750d46f163.jpg
+        sha256: 5f750d46f1630310b73aa2579662fa8077b619f877c9f1200bcfce4ffdfed2ff
+        mime: image/jpeg
+        bytes: 76157
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

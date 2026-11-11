@@ -1,0 +1,45 @@
+id: 01KV1GSBQ68WDT9CXB2Z1HGPHF
+type: image
+subtype: plan
+title: Bauplan Sparkasse 1754
+description: Tusche auf Transparentpapier.
+date: "1754"
+location: Zadrau, Sparkasse
+origin:
+  name: Heinrich Tiedemann
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 28/119
+subjects:
+  - name: Fritz Voss
+    type: person
+  - name: Viehmarkt 1754
+    type: event
+  - name: Salzwedel
+    type: place
+files:
+  - role: main
+    original_name: scan_328.tif
+    path: files/e4/20/e4207213e164232e69a6a132bc515d756645c60601272b546b9507ffaf991443/original.tif
+    sha256: e4207213e164232e69a6a132bc515d756645c60601272b546b9507ffaf991443
+    mime: image/tiff
+    bytes: 20564133
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e4/20/e4207213e164232e69a6a132bc515d756645c60601272b546b9507ffaf991443/preview-400.682bfcea9be5.jpg
+        sha256: 682bfcea9be55f5e6ae12c40c83eb25cedd1e0acd6db8279ba623c59058568fe
+        mime: image/jpeg
+        bytes: 45575
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

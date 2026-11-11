@@ -1,0 +1,32 @@
+id: 01KJGBJW87S6Y3B6G60SAJGWEZ
+type: image
+subtype: print
+title: "Kupferstich: Brünkendorf von der Elbseite, Seedorf"
+description: Kupferstich, koloriert.
+date: 1740-10
+location: Nienwalde, Zollamt
+subjects:
+  - name: Heinrich Harms
+    type: person
+parents:
+  - 01F0QYSCYKSTCN1NTYT6RNDCR9
+files:
+  - role: main
+    original_name: scan_278.tif
+    path: files/35/ad/35ad66ae33cb51d494e78db33f6b8bfabd5d18db9a6ecc09ce6bd13c8da51e8e/original.tif
+    sha256: 35ad66ae33cb51d494e78db33f6b8bfabd5d18db9a6ecc09ce6bd13c8da51e8e
+    mime: image/tiff
+    bytes: 24348393
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/35/ad/35ad66ae33cb51d494e78db33f6b8bfabd5d18db9a6ecc09ce6bd13c8da51e8e/preview-400.8debff4b579d.jpg
+        sha256: 8debff4b579d1b06d0da7879357fd69dcb060389e6d6f9d954579cf864f9dfcd
+        mime: image/jpeg
+        bytes: 85466
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

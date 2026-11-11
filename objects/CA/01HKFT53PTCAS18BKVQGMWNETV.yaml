@@ -1,0 +1,31 @@
+id: 01HKFT53PTCAS18BKVQGMWNETV
+type: image
+subtype: drawing
+title: Zollamt, Aquarell, Lenzen
+origin:
+  name: Wilhelm Burmester
+  type: person
+  location: Pretzier
+subjects:
+  - name: Fähranleger
+    type: building
+files:
+  - role: main
+    original_name: scan_160.tif
+    path: files/57/20/572095cb9406d298598b35007dca89b0eefacfe09f18f7b18ee500d792812146/original.tif
+    sha256: 572095cb9406d298598b35007dca89b0eefacfe09f18f7b18ee500d792812146
+    mime: image/tiff
+    bytes: 4106793
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/57/20/572095cb9406d298598b35007dca89b0eefacfe09f18f7b18ee500d792812146/preview-400.b712c177a7fc.jpg
+        sha256: b712c177a7fcd61484886e646bf2ba2c4eabae685e3eb0d9ff39b5c39dd17859
+        mime: image/jpeg
+        bytes: 77396
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

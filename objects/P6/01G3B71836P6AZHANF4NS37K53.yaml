@@ -1,0 +1,43 @@
+id: 01G3B71836P6AZHANF4NS37K53
+type: image
+subtype: photo
+title: Blick vom Schmiede auf das Schmiede
+description: Farbfoto, leicht verblasst.
+date: 1912-03
+origin:
+  name: Otto Schulz
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F 38/290
+subjects:
+  - name: Marta Lemke
+    type: person
+  - name: Hedwig Bohlmann
+    type: person
+  - name: Schlachtfest 1912
+    type: event
+files:
+  - role: main
+    original_name: P1711.jpg
+    path: files/a3/18/a31870b510ad0f5b3e53d4e8eca018bcfb65c4d05652b2896d0a7272de665012/original.jpg
+    sha256: a31870b510ad0f5b3e53d4e8eca018bcfb65c4d05652b2896d0a7272de665012
+    mime: image/jpeg
+    bytes: 26493909
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/a3/18/a31870b510ad0f5b3e53d4e8eca018bcfb65c4d05652b2896d0a7272de665012/preview-400.a982ae14760c.jpg
+        sha256: a982ae14760c44c98914764a924605241a6df6673722b42a140c297809b8eb51
+        mime: image/jpeg
+        bytes: 50391
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

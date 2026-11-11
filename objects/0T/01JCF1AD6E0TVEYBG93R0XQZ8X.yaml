@@ -1,0 +1,42 @@
+id: 01JCF1AD6E0TVEYBG93R0XQZ8X
+type: image
+subtype: photo
+title: Erika Ihde, Porträt
+date: 1960~
+location: Lanz, Kirchstraße
+geocode:
+  lat: 53.0706
+  lon: 11.5357
+  precision: exact
+  source: osm
+origin:
+  name: Karl Pape
+  type: person
+  location: Arendsee
+subjects:
+  - name: Bömenzien
+    type: place
+  - name: Kirche St. Johannis
+    type: building
+parents:
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+files:
+  - role: main
+    original_name: foto_6469.jpg
+    path: files/54/8a/548a427b355f57e745f5579ac8af133d16b257fae5e7723db319c2d7c164324f/original.jpg
+    sha256: 548a427b355f57e745f5579ac8af133d16b257fae5e7723db319c2d7c164324f
+    mime: image/jpeg
+    bytes: 18846243
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/54/8a/548a427b355f57e745f5579ac8af133d16b257fae5e7723db319c2d7c164324f/preview-400.397d1b9b1f0c.jpg
+        sha256: 397d1b9b1f0c590d791964f863045a045ffa54f6add7d58694194c304b68f60c
+        mime: image/jpeg
+        bytes: 46092
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

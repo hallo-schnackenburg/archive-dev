@@ -1,0 +1,43 @@
+id: 01JAA1EA3EAG4DRS3WAH5C0XMF
+type: image
+subtype: photo
+title: Marta Jeß, Porträt
+date: "1983"
+location: Cumlosen, Kaufmannshaus
+origin:
+  name: Helga Eggers
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v79184
+subjects:
+  - name: Badestelle
+    type: building
+  - name: Beerdigung 1983
+    type: event
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: DSC0942.jpg
+    path: files/5d/55/5d5504181082c42a4a4fda79279552383733a9d8198a4b087f173432ab66d663/original.jpg
+    sha256: 5d5504181082c42a4a4fda79279552383733a9d8198a4b087f173432ab66d663
+    mime: image/jpeg
+    bytes: 8272820
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/5d/55/5d5504181082c42a4a4fda79279552383733a9d8198a4b087f173432ab66d663/preview-400.f67336cb8a0d.jpg
+        sha256: f67336cb8a0d2d4ef6b4c9bc60e2e12adda384db0d756c65d77f545d7cd071dd
+        mime: image/jpeg
+        bytes: 33833
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

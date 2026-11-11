@@ -1,0 +1,44 @@
+id: 01J6SPG62PYFSA2QT6N53XSEAG
+type: image
+subtype: photo
+title: Ortsbesichtigung 2003
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 2003-04-01
+location: Bömenzien, Bahnhof
+geocode:
+  lat: 53.0082
+  lon: 11.6232
+  precision: region
+  source: osm
+origin:
+  name: Lotte Lemke
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Karl Wegner
+    type: person
+  - name: Kindergarten
+    type: building
+parents:
+  - 01KVJ8Y27EYC61W5ZE473WC7YC
+  - 01F9YMN9D3JJVF02Y68XA8TP10
+files:
+  - role: main
+    original_name: foto_3909.jpg
+    path: files/1e/f4/1ef47741ef03f8a3768633824ce6b50802da7600f36e0d21dbbebdb3070c5806/original.jpg
+    sha256: 1ef47741ef03f8a3768633824ce6b50802da7600f36e0d21dbbebdb3070c5806
+    mime: image/jpeg
+    bytes: 5999171
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/1e/f4/1ef47741ef03f8a3768633824ce6b50802da7600f36e0d21dbbebdb3070c5806/preview-400.206839356c52.jpg
+        sha256: 206839356c524b2291dbeb3833d87af57512717a2e2e4530a2ed52bcf12712f7
+        mime: image/jpeg
+        bytes: 20301
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,67 @@
+id: 01GXV6ZTANJTBFTWBZ8DHBF0EC
+type: document
+subtype: letter
+title: Feldpostbrief von Marta Plate
+description: Maschinenschriftlich, unterschrieben.
+date: 1799-09-09
+location: Seedorf, Bahnhof
+geocode:
+  lat: 52.9288
+  lon: 11.4966
+  precision: street
+  source: osm
+origin:
+  name: Hermann Bruns
+  type: person
+  location: Lenzen
+recipient: Emma Rohde
+language: de
+subjects:
+  - name: Maifeier 1799
+    type: event
+  - name: Konfirmation 1799
+    type: event
+parents:
+  - 01J08P48B9HRVCXCZGRJBPCQ14
+  - 01K07SKN5ZQ3VDE1287C9C0F74
+files:
+  - role: page
+    num: 1
+    original_name: letter_hbf0ec_001.tif
+    path: files/f7/4f/f74fc155703104c85ae6cf339ef2ff3f04cbfa285f2aa8232167fce45979b920/original.tif
+    sha256: f74fc155703104c85ae6cf339ef2ff3f04cbfa285f2aa8232167fce45979b920
+    mime: image/tiff
+    bytes: 20742260
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f7/4f/f74fc155703104c85ae6cf339ef2ff3f04cbfa285f2aa8232167fce45979b920/preview-400.da29081e0a2f.jpg
+        sha256: da29081e0a2f46d8a955e892c54708e61c137ee994de36d2dc0f3d25a927e9d4
+        mime: image/jpeg
+        bytes: 35429
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_hbf0ec_002.tif
+    path: files/ca/2a/ca2ac8b0f61da3706a2266a83494acd308b6beac66cdbfafa52eb699342d090a/original.tif
+    sha256: ca2ac8b0f61da3706a2266a83494acd308b6beac66cdbfafa52eb699342d090a
+    mime: image/tiff
+    bytes: 20637469
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ca/2a/ca2ac8b0f61da3706a2266a83494acd308b6beac66cdbfafa52eb699342d090a/preview-400.c3deb897c336.jpg
+        sha256: c3deb897c336a5564f5ad3c5bd7b531252ebc5925e0ffb3aa145955812b88217
+        mime: image/jpeg
+        bytes: 36033
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

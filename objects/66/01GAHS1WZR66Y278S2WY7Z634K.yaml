@@ -1,0 +1,59 @@
+id: 01GAHS1WZR66Y278S2WY7Z634K
+type: document
+subtype: note
+title: Rechnung Rohde, Scheune
+description: Zettel, Bleistift.
+location: Gülden, Dorfstraße
+origin:
+  name: Dieter Lemke
+  type: person
+  location: Seedorf
+language: de
+subjects:
+  - name: Tanzsaal
+    type: building
+  - name: Hochzeit 1958
+    type: event
+parents:
+  - 01K16728TJR9J7SKEG0YYC3BZ6
+files:
+  - role: page
+    num: 1
+    original_name: note_7z634k_001.tif
+    path: files/d5/0d/d50dd4a138fdccf16f5c56817e2db355c23d81c54eb29d23cf775b87789f5a8d/original.tif
+    sha256: d50dd4a138fdccf16f5c56817e2db355c23d81c54eb29d23cf775b87789f5a8d
+    mime: image/tiff
+    bytes: 27660578
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/0d/d50dd4a138fdccf16f5c56817e2db355c23d81c54eb29d23cf775b87789f5a8d/preview-400.d7221c8cfa31.jpg
+        sha256: d7221c8cfa3121fc017e44f1833e98485f67ef89a95c20fccb41ff5572c30503
+        mime: image/jpeg
+        bytes: 88278
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_7z634k_002.tif
+    path: files/3d/3d/3d3d8d45b6209ccc6450e4a504734843a3e8d1c195cb22a31709ef1c3cc4cb16/original.tif
+    sha256: 3d3d8d45b6209ccc6450e4a504734843a3e8d1c195cb22a31709ef1c3cc4cb16
+    mime: image/tiff
+    bytes: 1972690
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3d/3d/3d3d8d45b6209ccc6450e4a504734843a3e8d1c195cb22a31709ef1c3cc4cb16/preview-400.a7996830225d.jpg
+        sha256: a7996830225d23320c0aa485c37d3602cb3989a1826bff74342f3b2c914e88d2
+        mime: image/jpeg
+        bytes: 29933
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

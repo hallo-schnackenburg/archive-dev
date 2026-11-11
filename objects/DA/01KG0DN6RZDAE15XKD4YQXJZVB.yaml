@@ -1,0 +1,37 @@
+id: 01KG0DN6RZDAE15XKD4YQXJZVB
+type: image
+subtype: photo
+title: Fastnacht 1971
+description: Zu sehen sind Dorfschule und Rathaus.
+date: 1971-08
+location: Gülden, Kirchstraße
+origin:
+  name: Frieda Fricke
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos/Mappe 20/004
+files:
+  - role: main
+    original_name: foto_2560.jpg
+    path: files/17/8c/178c514e5ce06ff65590e7c90024901ed2086a1f8852ad1f6ac6df008ee54a41/original.jpg
+    sha256: 178c514e5ce06ff65590e7c90024901ed2086a1f8852ad1f6ac6df008ee54a41
+    mime: image/jpeg
+    bytes: 15110134
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/17/8c/178c514e5ce06ff65590e7c90024901ed2086a1f8852ad1f6ac6df008ee54a41/preview-400.b5b8f858f725.jpg
+        sha256: b5b8f858f7254249a775986d122b950557ff3c8857361a7ecc8bd88b93e69043
+        mime: image/jpeg
+        bytes: 41158
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

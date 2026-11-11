@@ -1,0 +1,30 @@
+id: 01JAYWZ5PPRZYZZS98NPX4MA0F
+type: image
+subtype: print
+title: "Kupferstich: Lenzen von der Elbseite, Rüterberg"
+description: Postkarte, gelaufen 1916.
+date: 1812-01-22
+origin:
+  name: Ernst Harms
+  type: person
+  location: Bömenzien
+files:
+  - role: main
+    original_name: scan_913.tif
+    path: files/d4/f3/d4f3643280a01a04b3c383cf72cff16a161d709fe22affab82c142d3e71f6eac/original.tif
+    sha256: d4f3643280a01a04b3c383cf72cff16a161d709fe22affab82c142d3e71f6eac
+    mime: image/tiff
+    bytes: 19643552
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d4/f3/d4f3643280a01a04b3c383cf72cff16a161d709fe22affab82c142d3e71f6eac/preview-400.8caa1e58b192.jpg
+        sha256: 8caa1e58b19232d193364df93c51da98ea7cb7b99cabc63352cc28cb47260d07
+        mime: image/jpeg
+        bytes: 63579
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

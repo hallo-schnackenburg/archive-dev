@@ -1,0 +1,31 @@
+id: 01H5PW5CBWW4D26D0KCQYH0GZE
+type: image
+subtype: photo
+title: Wilhelm Rohde, Porträt
+date: "1969"
+location: Wootz, Deichstraße
+subjects:
+  - name: Elbdeich
+    type: building
+  - name: Viehmarkt 1969
+    type: event
+files:
+  - role: main
+    original_name: scan_933.tif
+    path: files/ef/11/ef11bbfc86cd0d96eb9f06ddfd772130e8ed2e5cadddb800417e802cf746459b/original.tif
+    sha256: ef11bbfc86cd0d96eb9f06ddfd772130e8ed2e5cadddb800417e802cf746459b
+    mime: image/tiff
+    bytes: 22733981
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ef/11/ef11bbfc86cd0d96eb9f06ddfd772130e8ed2e5cadddb800417e802cf746459b/preview-400.91ea39c42c2a.jpg
+        sha256: 91ea39c42c2a0c90747df7aaa42e3ecd9aa87f4e8fef89c83b306067c11912b9
+        mime: image/jpeg
+        bytes: 25019
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

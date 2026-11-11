@@ -1,0 +1,43 @@
+id: 01FNMPJJZET59YEHPEMCNDZ2JM
+type: image
+subtype: print
+title: Postkarte Wustrow, Wassermühle
+date: "1759"
+location: Gorleben, Mühlenweg
+geocode:
+  lat: 52.9554
+  lon: 11.6756
+  precision: street
+  source: osm
+origin:
+  name: Karl Bohlmann
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Bömenzien
+    type: place
+parents:
+  - 01F4TNZXAP8C2DPZT6V4QF0N5Q
+  - 01KVCSCGQMX3Z8B4CPCNEPWYV0
+files:
+  - role: main
+    original_name: scan_596.tif
+    path: files/a4/dd/a4ddcc00d452a1c3f465ffbe17fed34381b09bfc10bb5f5e8a628e056846e5f6/original.tif
+    sha256: a4ddcc00d452a1c3f465ffbe17fed34381b09bfc10bb5f5e8a628e056846e5f6
+    mime: image/tiff
+    bytes: 4178109
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a4/dd/a4ddcc00d452a1c3f465ffbe17fed34381b09bfc10bb5f5e8a628e056846e5f6/preview-400.922fe04b94d5.jpg
+        sha256: 922fe04b94d5ba53b5c4e33f40f8842a95d486c319c50ef56ef14b810bd04195
+        mime: image/jpeg
+        bytes: 42185
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

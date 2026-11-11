@@ -1,0 +1,37 @@
+id: 01J0XCCPS1Q6FY4P1WVP60G1EG
+type: image
+subtype: drawing
+title: Skizze Wustrow, Hinter den Höfen
+description: Mit Anmerkungen am Rand.
+location: Schnackenburg, Bahnhofstraße
+origin:
+  name: Karl Neumann
+  type: person
+  location: Havelberg
+subjects:
+  - name: Kaufmannshaus
+    type: building
+  - name: Nienwalde
+    type: place
+  - name: Ziegelei
+    type: building
+files:
+  - role: main
+    original_name: scan_734.tif
+    path: files/32/c0/32c0d7d0301f063452208ca545ef8208c6f6a2eb7c82c3a1149334f35afa5dc7/original.tif
+    sha256: 32c0d7d0301f063452208ca545ef8208c6f6a2eb7c82c3a1149334f35afa5dc7
+    mime: image/tiff
+    bytes: 10126296
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/32/c0/32c0d7d0301f063452208ca545ef8208c6f6a2eb7c82c3a1149334f35afa5dc7/preview-400.aa7b13b9d953.jpg
+        sha256: aa7b13b9d95382ca6a1759d823812e4413c6e508f868d17d65d5b192f7416740
+        mime: image/jpeg
+        bytes: 69614
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

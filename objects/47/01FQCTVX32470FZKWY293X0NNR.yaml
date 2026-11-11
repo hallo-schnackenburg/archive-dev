@@ -1,0 +1,44 @@
+id: 01FQCTVX32470FZKWY293X0NNR
+type: document
+subtype: note
+title: Rechnung Rohde, Poststelle
+date: 1913-07-14
+location: Holtorf, Kirchstraße
+geocode:
+  lat: 52.9234
+  lon: 11.4762
+  precision: region
+  source: osm
+origin:
+  name: Karl Schulz
+  type: person
+  location: Wustrow
+language: de
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Lüchow
+    type: place
+  - name: Feuerwehrübung 1913
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_3x0nnr_001.tif
+    path: files/b8/5a/b85af3d24d1a75bf33befef61717f8445bd3f9a0bc28dcf77c92fa8c369c6f4f/original.tif
+    sha256: b85af3d24d1a75bf33befef61717f8445bd3f9a0bc28dcf77c92fa8c369c6f4f
+    mime: image/tiff
+    bytes: 5499283
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b8/5a/b85af3d24d1a75bf33befef61717f8445bd3f9a0bc28dcf77c92fa8c369c6f4f/preview-400.b40adec23a3b.jpg
+        sha256: b40adec23a3b858676719d93700a26e57fc99ba52b8c23fa9156fd6fc3fa9acc
+        mime: image/jpeg
+        bytes: 32219
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

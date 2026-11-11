@@ -1,0 +1,36 @@
+id: 01FKYRBA528SQJJHP6CSBEJYJB
+type: image
+subtype: plan
+title: Flurkarte Rüterberg, Pretzier
+date: 1891~
+origin:
+  name: Karl Wegner
+  type: person
+  location: Wootz
+subjects:
+  - name: Fastnacht 1891
+    type: event
+  - name: Dorfkrug
+    type: building
+  - name: Weihnachtsmarkt 1891
+    type: event
+files:
+  - role: main
+    original_name: scan_869.tif
+    path: files/26/08/2608c4e669c14011d721cc3926ff0a59c3086b13bf46866ce64d6962e94c915d/original.tif
+    sha256: 2608c4e669c14011d721cc3926ff0a59c3086b13bf46866ce64d6962e94c915d
+    mime: image/tiff
+    bytes: 22788915
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/26/08/2608c4e669c14011d721cc3926ff0a59c3086b13bf46866ce64d6962e94c915d/preview-400.9ceb9590be05.jpg
+        sha256: 9ceb9590be05b9596cb25a913c2e88d3d1dd0df5d5a0a6458517354272975f33
+        mime: image/jpeg
+        bytes: 27860
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

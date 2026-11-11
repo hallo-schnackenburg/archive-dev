@@ -1,0 +1,42 @@
+id: 01KD0YMD27KN1E465CX3NYY7SP
+type: image
+subtype: photo
+title: "Theatergruppe: Gruppenbild Straßenfest"
+description: Aufnahme von Frieda Schulz.
+date: "1972"
+location: Wootz, Bahnhof
+geocode:
+  lat: 53.0512
+  lon: 11.5211
+  precision: town
+  source: osm
+subjects:
+  - name: Feuerwehrübung 1972
+    type: event
+  - name: Dömitz
+    type: place
+  - name: Hochzeit 1972
+    type: event
+parents:
+  - 01G533XGBTT96G9NVNFMP1W6YH
+  - 01HD61F86MBNWMCVSSSSY9BBBD
+files:
+  - role: main
+    original_name: IMG_6872.jpg
+    path: files/12/f0/12f0cd2814f4140e591e25b9dfdda6cdecd4ceb49a780ccb589518d3dbc97432/original.jpg
+    sha256: 12f0cd2814f4140e591e25b9dfdda6cdecd4ceb49a780ccb589518d3dbc97432
+    mime: image/jpeg
+    bytes: 2369890
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/12/f0/12f0cd2814f4140e591e25b9dfdda6cdecd4ceb49a780ccb589518d3dbc97432/preview-400.f8f0666b6d62.jpg
+        sha256: f8f0666b6d62941498d81901c494a86983520bb9339ca22de4fb99e19b8e6032
+        mime: image/jpeg
+        bytes: 44276
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

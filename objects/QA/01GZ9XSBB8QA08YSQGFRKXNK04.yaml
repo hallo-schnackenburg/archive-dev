@@ -1,0 +1,39 @@
+id: 01GZ9XSBB8QA08YSQGFRKXNK04
+type: image
+subtype: photo
+title: Schlachterei in Laase
+description: Aufnahme von Manfred Harms.
+date: "1986"
+origin:
+  name: Emma Jeß
+  type: person
+  location: Pretzier
+subjects:
+  - name: Osterfeuer 1986
+    type: event
+  - name: Otto Kuhlmann
+    type: person
+  - name: Heinrich Fricke
+    type: person
+parents:
+  - 01GF0SSB3PSQ3ZJJP70B51NM10
+files:
+  - role: main
+    original_name: P3282.jpg
+    path: files/7d/d0/7dd06ec25ce84f041e344c8b40e7cf7f94044963588ab621decf7c07faaeed78/original.jpg
+    sha256: 7dd06ec25ce84f041e344c8b40e7cf7f94044963588ab621decf7c07faaeed78
+    mime: image/jpeg
+    bytes: 13735558
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/7d/d0/7dd06ec25ce84f041e344c8b40e7cf7f94044963588ab621decf7c07faaeed78/preview-400.8cabc42201c1.jpg
+        sha256: 8cabc42201c1612a5015da5830448d1f5d26ae35e73d1c35147ba302d4fa746b
+        mime: image/jpeg
+        bytes: 50175
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

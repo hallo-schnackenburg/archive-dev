@@ -1,0 +1,40 @@
+id: 01GEGXNQY7HEKM4Y0BBRXF4AZJ
+type: image
+subtype: plan
+title: Bauplan Gasthof Meyer 1902
+description: Maßstab 1:100.
+date: "1902"
+location: Lüchow, Marktstraße
+origin:
+  name: Ilse Jeß
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos/Mappe 7/011
+  note: Mappe 12
+parents:
+  - 01JWBMK7BHVBJEDZ8ATPAMX13A
+files:
+  - role: main
+    original_name: scan_586.tif
+    path: files/e1/1c/e11ca076bccf1bb0fbbf58e03198b4c583cd16c2aa11b192d1e72590179cf7cc/original.tif
+    sha256: e11ca076bccf1bb0fbbf58e03198b4c583cd16c2aa11b192d1e72590179cf7cc
+    mime: image/tiff
+    bytes: 6040915
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e1/1c/e11ca076bccf1bb0fbbf58e03198b4c583cd16c2aa11b192d1e72590179cf7cc/preview-400.6385648f03ba.jpg
+        sha256: 6385648f03ba1c50826afc2a5b19a1e1b5477502b1a40f7e04783f518e3ed93c
+        mime: image/jpeg
+        bytes: 53385
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

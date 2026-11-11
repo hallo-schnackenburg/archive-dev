@@ -1,0 +1,41 @@
+id: 01FZTF8X8RJ9R3QS40M23CAWE5
+type: image
+subtype: photo
+title: Kartoffelernte 1986
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1986-08-25
+location: Pretzier, Bahnhofstraße
+geocode:
+  lat: 53.0755
+  lon: 11.6669
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Arendsee
+subjects:
+  - name: Heinrich Jeß
+    type: person
+parents:
+  - 01EVCP6NN2EADHWRTHNC79ZAS7
+files:
+  - role: main
+    original_name: scan_305.tif
+    path: files/8c/69/8c692dfdff1ea61c5072987911fbea00ea1752bce64ee8b22efd074bd91830a9/original.tif
+    sha256: 8c692dfdff1ea61c5072987911fbea00ea1752bce64ee8b22efd074bd91830a9
+    mime: image/tiff
+    bytes: 11167714
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8c/69/8c692dfdff1ea61c5072987911fbea00ea1752bce64ee8b22efd074bd91830a9/preview-400.63c484e528c2.jpg
+        sha256: 63c484e528c2fbd6752de1e1a2290192c738f9c402199dd4d9c318f8b80e4d2a
+        mime: image/jpeg
+        bytes: 70800
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01KMXVA10WZ8DZP1XX560E854H
+type: image
+subtype: plan
+title: Bauplan Sparkasse 1893
+original:
+  holder:
+    name: Familie Cohrs
+    type: person
+    location: Gartow
+  reference: F 25/299
+  note: Schrank B
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Wittenberge
+    type: place
+files:
+  - role: main
+    original_name: scan_097.tif
+    path: files/80/3a/803a3b881d2f4f70afe95cc150962f7f11559d8bc13f28d850c45c754b55097f/original.tif
+    sha256: 803a3b881d2f4f70afe95cc150962f7f11559d8bc13f28d850c45c754b55097f
+    mime: image/tiff
+    bytes: 20141588
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/80/3a/803a3b881d2f4f70afe95cc150962f7f11559d8bc13f28d850c45c754b55097f/preview-400.f5070eefddc3.jpg
+        sha256: f5070eefddc3c3872bcbb7789b7a966fb1fadcec16a05e6c6ed2af4711ea0db8
+        mime: image/jpeg
+        bytes: 33183
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

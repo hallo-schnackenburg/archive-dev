@@ -1,0 +1,40 @@
+id: 01F9KJWVDJ8VV76MBMAX3WY53V
+type: image
+subtype: plan
+title: Bauplan Kirche St. Johannis 1815
+date: 1815/1823
+location: Pretzier, Hinter den Höfen
+geocode:
+  lat: 52.9233
+  lon: 11.6824
+  precision: exact
+  source: osm
+origin:
+  name: Anni Kuhlmann
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Brünkendorf
+    type: place
+files:
+  - role: main
+    original_name: scan_952.tif
+    path: files/fd/92/fd92551700493c913fd6df44eece0ee0861c2ef62ded2773d9bdd15ba5fc8b7d/original.tif
+    sha256: fd92551700493c913fd6df44eece0ee0861c2ef62ded2773d9bdd15ba5fc8b7d
+    mime: image/tiff
+    bytes: 5231297
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fd/92/fd92551700493c913fd6df44eece0ee0861c2ef62ded2773d9bdd15ba5fc8b7d/preview-400.ea9f701e68f9.jpg
+        sha256: ea9f701e68f9ba746a9b0a76ed542f9af352b7aa5e783a2524bbcbbcea83f70b
+        mime: image/jpeg
+        bytes: 62270
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01K6WTEMS0DNZN70X9GHXG8C3P
+type: image
+subtype: plan
+title: Deichplan Wustrow bis Zadrau, Gorleben
+description: Tusche auf Transparentpapier.
+date: "1933"
+location: Schnackenburg, Gärtnerei
+origin:
+  name: Christa Gaede
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan/Mappe 18/029
+parents:
+  - 01GZXZG1A5CXM3AAT5P1TWE94F
+  - 01JMSDNGA55JGRT5ESX6NS0WKN
+files:
+  - role: main
+    original_name: scan_660.tif
+    path: files/7d/13/7d1363358f17af57ab7faa0bd0a0821096fe9b84dd7c20a73b5e947d827df149/original.tif
+    sha256: 7d1363358f17af57ab7faa0bd0a0821096fe9b84dd7c20a73b5e947d827df149
+    mime: image/tiff
+    bytes: 5360937
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/7d/13/7d1363358f17af57ab7faa0bd0a0821096fe9b84dd7c20a73b5e947d827df149/preview-400.59c68290e7bd.jpg
+        sha256: 59c68290e7bdbe2d6adb397d99f0ba55f65766d58b43487a8fb57b04cde116d5
+        mime: image/jpeg
+        bytes: 76749
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

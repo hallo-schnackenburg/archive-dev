@@ -1,0 +1,44 @@
+id: 01F0E5A6823RTZNSPBYXWYPQ94
+type: image
+subtype: drawing
+title: Skizze Gülden, Mühlenweg
+date: 1827?
+location: Wootz, Am Markt
+origin:
+  name: Emma Gaede
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 6/211
+subjects:
+  - name: Gerda Hartwig
+    type: person
+  - name: Kaufmannshaus
+    type: building
+parents:
+  - 01GV8MKHYPAWB1MAEXCSAW38CR
+  - 01K2NKV9ZRJGR8MNHBQ4VNYQV6
+files:
+  - role: main
+    original_name: scan_707.tif
+    path: files/4d/8f/4d8fddedc042fc68cd12d85f4ecb8d9b05d275d7b2f790da5b2608d2d43f0a9e/original.tif
+    sha256: 4d8fddedc042fc68cd12d85f4ecb8d9b05d275d7b2f790da5b2608d2d43f0a9e
+    mime: image/tiff
+    bytes: 24342349
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4d/8f/4d8fddedc042fc68cd12d85f4ecb8d9b05d275d7b2f790da5b2608d2d43f0a9e/preview-400.c3e5622d7f02.jpg
+        sha256: c3e5622d7f0291e9a32bd70fc407fa2ec4b04d53f56c616fb5fba4d02c3a8af8
+        mime: image/jpeg
+        bytes: 71507
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

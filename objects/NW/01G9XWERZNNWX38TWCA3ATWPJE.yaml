@@ -1,0 +1,44 @@
+id: 01G9XWERZNNWX38TWCA3ATWPJE
+type: image
+subtype: photo
+title: Am Elbdeich, Ecke Schulstraße
+date: 1930/1932
+location: Seedorf, Deichstraße
+origin:
+  name: Gisela Wöhlk
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F 35/097
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v67074
+subjects:
+  - name: Sturmschaden 1930
+    type: event
+  - name: Kapern
+    type: place
+parents:
+  - 01GVFH3549S673SQ9MMEEV7ZGF
+files:
+  - role: main
+    original_name: scan_421.tif
+    path: files/25/9e/259ea97e7dc717857d0795373718dd2b3c3edd0329991bf74241c77d5201fab3/original.tif
+    sha256: 259ea97e7dc717857d0795373718dd2b3c3edd0329991bf74241c77d5201fab3
+    mime: image/tiff
+    bytes: 16215241
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/25/9e/259ea97e7dc717857d0795373718dd2b3c3edd0329991bf74241c77d5201fab3/preview-400.f90b3c0e913b.jpg
+        sha256: f90b3c0e913bbf45f806c3e721649e60737d45686521b61ff2fb5f96a20cd791
+        mime: image/jpeg
+        bytes: 52028
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

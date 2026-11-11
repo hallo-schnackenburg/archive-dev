@@ -1,0 +1,41 @@
+id: 01KKBWWFHD29GEG8Q4ZJ4WCT1V
+type: image
+subtype: photo
+title: Hans Behrens, Porträt
+description: Aufnahme von Heinz Behrens.
+date: 1900-11
+origin:
+  name: Heinz Bohlmann
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Ernst Ahrens
+    type: person
+parents:
+  - 01JJ7ZAGDW4T3Y162XJ5VXZV21
+  - 01F0XSSMANGM9PNX5YW1P1YTG6
+files:
+  - role: main
+    original_name: scan_503.tif
+    path: files/39/fe/39fec3d0fb667447c4a25be7ca993098269cd29225978e68b4775a385469a785/original.tif
+    sha256: 39fec3d0fb667447c4a25be7ca993098269cd29225978e68b4775a385469a785
+    mime: image/tiff
+    bytes: 1803568
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/39/fe/39fec3d0fb667447c4a25be7ca993098269cd29225978e68b4775a385469a785/preview-400.d6f9e161d948.jpg
+        sha256: d6f9e161d948316d313e6cac52964a3a9b1a55b72023e9b4bb4fb6e12d1d6d4e
+        mime: image/jpeg
+        bytes: 48023
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

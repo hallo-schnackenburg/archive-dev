@@ -1,0 +1,59 @@
+id: 01JF5TNBF58KQ9RMD9G3S3HQCZ
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Gemeindewahl 1962
+date: 1962-02
+location: Lüchow, Hinter den Höfen
+origin:
+  name: Feuerwehrausschuss Gorleben
+  type: business
+  location: Brünkendorf
+language: de
+subjects:
+  - name: Konfirmation 1962
+    type: event
+  - name: Osterfeuer 1962
+    type: event
+parents:
+  - 01K8HWTS9YNZVY4EVEMNNZSHBJ
+files:
+  - role: page
+    num: 1
+    original_name: protocol_s3hqcz_001.tif
+    path: files/49/85/4985749bbbe05df3e6a607bb145e2aacafce71059e604662456931b6705efb6a/original.tif
+    sha256: 4985749bbbe05df3e6a607bb145e2aacafce71059e604662456931b6705efb6a
+    mime: image/tiff
+    bytes: 19041428
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/49/85/4985749bbbe05df3e6a607bb145e2aacafce71059e604662456931b6705efb6a/preview-400.9e86908dc985.jpg
+        sha256: 9e86908dc98545e3689c08bfc216abb07091df2e7ad697641919a701cbf6d4db
+        mime: image/jpeg
+        bytes: 41956
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_s3hqcz_002.tif
+    path: files/81/98/8198c3934d1d28cf1f6e363411ec12bec072cb48bba5c92173b1ac07783ea22c/original.tif
+    sha256: 8198c3934d1d28cf1f6e363411ec12bec072cb48bba5c92173b1ac07783ea22c
+    mime: image/tiff
+    bytes: 25973467
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/81/98/8198c3934d1d28cf1f6e363411ec12bec072cb48bba5c92173b1ac07783ea22c/preview-400.1e46fa92e1e1.jpg
+        sha256: 1e46fa92e1e118936ea33485d545621e87defc747e5cbc20c03c44f82c97b38f
+        mime: image/jpeg
+        bytes: 55137
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

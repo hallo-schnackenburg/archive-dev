@@ -1,0 +1,42 @@
+id: 01KEPEG5Q9HA3Z89YMNAEX966B
+type: image
+subtype: drawing
+title: Dorfkrug, Aquarell, Laase
+date: "1927"
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 18/053
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Karl Lüders
+    type: person
+  - name: Pfarrhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_851.tif
+    path: files/40/a4/40a49008d9553a981ee038a84cecf98b3d4494132f31b8b742da16285f228a59/original.tif
+    sha256: 40a49008d9553a981ee038a84cecf98b3d4494132f31b8b742da16285f228a59
+    mime: image/tiff
+    bytes: 21715429
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/a4/40a49008d9553a981ee038a84cecf98b3d4494132f31b8b742da16285f228a59/preview-400.12ca9c372584.jpg
+        sha256: 12ca9c372584012474a4dc7f3d58deaa492c5bfcd1d76064b094a9d85c9f9f77
+        mime: image/jpeg
+        bytes: 25196
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

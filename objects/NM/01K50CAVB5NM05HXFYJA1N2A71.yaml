@@ -1,0 +1,37 @@
+id: 01K50CAVB5NM05HXFYJA1N2A71
+type: image
+subtype: plan
+title: Bauplan Rathaus 1818
+date: 1818?
+location: Laase, Gartenstraße
+origin:
+  name: Walter Voss
+  type: person
+  location: Holtorf
+subjects:
+  - name: Otto Sievers
+    type: person
+  - name: Schlachtfest 1818
+    type: event
+  - name: Pretzier
+    type: place
+files:
+  - role: main
+    original_name: scan_426.tif
+    path: files/ec/ec/ecec388806024b6a5c2814af0a4eaff1ca95af264d1651cc0b26ff9bba693ccb/original.tif
+    sha256: ecec388806024b6a5c2814af0a4eaff1ca95af264d1651cc0b26ff9bba693ccb
+    mime: image/tiff
+    bytes: 22988471
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ec/ec/ecec388806024b6a5c2814af0a4eaff1ca95af264d1651cc0b26ff9bba693ccb/preview-400.2c3a0245d11b.jpg
+        sha256: 2c3a0245d11b22730ec4bec1ff8ec3ba60ef8e5359942c26a9a32afcf0941081
+        mime: image/jpeg
+        bytes: 64348
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

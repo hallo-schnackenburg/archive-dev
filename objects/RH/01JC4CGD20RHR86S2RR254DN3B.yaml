@@ -1,0 +1,37 @@
+id: 01JC4CGD20RHR86S2RR254DN3B
+type: image
+subtype: photo
+title: Hedwig Gaede vor dem Schlachterei
+date: 1899-08-05
+location: Pretzier, Lange Straße
+origin:
+  name: Ernst Wiese
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Gartow
+    type: place
+  - name: Hans Lemke
+    type: person
+files:
+  - role: main
+    original_name: DSC1364.jpg
+    path: files/98/c2/98c232c457c1935137a49e60809dc7b5a33eae1c42ea2d159f0faddffe8bb4b5/original.jpg
+    sha256: 98c232c457c1935137a49e60809dc7b5a33eae1c42ea2d159f0faddffe8bb4b5
+    mime: image/jpeg
+    bytes: 10880570
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/98/c2/98c232c457c1935137a49e60809dc7b5a33eae1c42ea2d159f0faddffe8bb4b5/preview-400.6cc880d9789a.jpg
+        sha256: 6cc880d9789ae9a702b6fb1c2cf41fd8fef54e2a68fcaa59b76fa4c14164b3dc
+        mime: image/jpeg
+        bytes: 85300
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

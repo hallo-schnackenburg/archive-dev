@@ -1,0 +1,42 @@
+id: 01HSBW7C6TK9PEJR0RBSJ1MHHH
+type: image
+subtype: photo
+title: Straßenfest 1974
+location: Wustrow, Kirche St. Johannis
+origin:
+  name: Walter Nitschke
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Familie Tiedemann
+    type: person
+    location: Hitzacker
+  reference: Fotos/Kasten 6/034
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Kirche St. Johannis
+    type: building
+  - name: Gasthof „Zur Elbe“
+    type: building
+files:
+  - role: main
+    original_name: DSC8218.jpg
+    path: files/60/e8/60e8c8b2410d9b71f00754fa326e4ef19d02ecbc640926680779c9ffd9d1f60d/original.jpg
+    sha256: 60e8c8b2410d9b71f00754fa326e4ef19d02ecbc640926680779c9ffd9d1f60d
+    mime: image/jpeg
+    bytes: 6056860
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/60/e8/60e8c8b2410d9b71f00754fa326e4ef19d02ecbc640926680779c9ffd9d1f60d/preview-400.a8b8da70be0f.jpg
+        sha256: a8b8da70be0fd66c1ab0cbc3de6b28f7c0d8a7a5e879f1c61bd7e6e403b3061a
+        mime: image/jpeg
+        bytes: 65115
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

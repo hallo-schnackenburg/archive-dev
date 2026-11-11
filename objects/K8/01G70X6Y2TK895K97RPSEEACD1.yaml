@@ -1,0 +1,35 @@
+id: 01G70X6Y2TK895K97RPSEEACD1
+type: image
+subtype: photo
+title: Blick vom Hafen auf das Kriegerdenkmal
+description: Abzug im Format 9 x 13 cm.
+location: Pretzier, Am Markt
+origin:
+  name: Werner Krüger
+  type: person
+  location: Wustrow
+subjects:
+  - name: Fähranleger
+    type: building
+parents:
+  - 01GWG9662GMDBHVAK54DXCMWG2
+files:
+  - role: main
+    original_name: scan_219.tif
+    path: files/73/02/7302ae902a4c7879158b438d6183e1111fe6b46fda50723b152358a51e6283ad/original.tif
+    sha256: 7302ae902a4c7879158b438d6183e1111fe6b46fda50723b152358a51e6283ad
+    mime: image/tiff
+    bytes: 13297591
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/73/02/7302ae902a4c7879158b438d6183e1111fe6b46fda50723b152358a51e6283ad/preview-400.b689c8e26460.jpg
+        sha256: b689c8e26460941279ca480ad2bb2e9de67fda8849cf74700c4a3bdb43f52d43
+        mime: image/jpeg
+        bytes: 54181
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

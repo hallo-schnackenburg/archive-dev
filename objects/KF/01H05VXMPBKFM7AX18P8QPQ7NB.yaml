@@ -1,0 +1,41 @@
+id: 01H05VXMPBKFM7AX18P8QPQ7NB
+type: image
+subtype: photo
+title: Erika Meyer, Porträt
+date: 1915/1926
+location: Schnackenburg, Elbstraße
+origin:
+  name: Heinrich Rieke
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F/Kasten 20/120
+subjects:
+  - name: Wassermühle
+    type: building
+parents:
+  - 01K6WHZ4NV2RR0PWJEAVQDNNZ8
+files:
+  - role: main
+    original_name: P4778.jpg
+    path: files/25/27/2527983be06774bc9d2a0101b04a4fdbeae608d14a1785b18d9bd295cf43ce29/original.jpg
+    sha256: 2527983be06774bc9d2a0101b04a4fdbeae608d14a1785b18d9bd295cf43ce29
+    mime: image/jpeg
+    bytes: 17431118
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/25/27/2527983be06774bc9d2a0101b04a4fdbeae608d14a1785b18d9bd295cf43ce29/preview-400.9066838befd6.jpg
+        sha256: 9066838befd6b4b58573799c684b74db6b5a0abbe58bbc76815b5848df8dae24
+        mime: image/jpeg
+        bytes: 83419
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

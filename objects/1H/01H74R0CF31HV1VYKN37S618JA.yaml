@@ -1,0 +1,49 @@
+id: 01H74R0CF31HV1VYKN37S618JA
+type: image
+subtype: photo
+title: Storchennest in Kapern
+description: Aufnahme von Frieda Heuer.
+date: 2003/2014
+location: Seedorf, Bahnhofstraße
+geocode:
+  lat: 52.9233
+  lon: 11.4596
+  precision: street
+  source: osm
+origin:
+  name: Otto Tiedemann
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br/Album 8/094
+subjects:
+  - name: Schlachtfest 2003
+    type: event
+  - name: Hedwig Voss
+    type: person
+parents:
+  - 01K7A9XBEKBQ32YCR4HNDFGW06
+files:
+  - role: main
+    original_name: scan_738.tif
+    path: files/1b/47/1b472f32695e7237012b80369e9e2421d435398c781edc1ebb0f0d3838fd3824/original.tif
+    sha256: 1b472f32695e7237012b80369e9e2421d435398c781edc1ebb0f0d3838fd3824
+    mime: image/tiff
+    bytes: 19949742
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1b/47/1b472f32695e7237012b80369e9e2421d435398c781edc1ebb0f0d3838fd3824/preview-400.29411cb3d233.jpg
+        sha256: 29411cb3d23316a40de1ace6694d21555aa6890c91f9ff1e671e8c631d7d2232
+        mime: image/jpeg
+        bytes: 85711
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

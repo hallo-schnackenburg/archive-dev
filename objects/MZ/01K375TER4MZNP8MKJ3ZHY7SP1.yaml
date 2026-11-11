@@ -1,0 +1,42 @@
+id: 01K375TER4MZNP8MKJ3ZHY7SP1
+type: image
+subtype: print
+title: "Kupferstich: Wittenberge von der Elbseite, Gülden"
+date: 1792-01
+location: Zadrau, Dorfkrug
+geocode:
+  lat: 52.9993
+  lon: 11.5218
+  precision: exact
+  source: osm
+origin:
+  name: Dieter Hennings
+  type: person
+  location: Lenzen
+subjects:
+  - name: Kapern
+    type: place
+  - name: Gerda Voss
+    type: person
+  - name: Friedrich Pape
+    type: person
+files:
+  - role: main
+    original_name: scan_169.tif
+    path: files/78/1f/781f7a626c0273a71796463b50f235bd3ebb48d93d253f3853addbecda170eeb/original.tif
+    sha256: 781f7a626c0273a71796463b50f235bd3ebb48d93d253f3853addbecda170eeb
+    mime: image/tiff
+    bytes: 26825366
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/78/1f/781f7a626c0273a71796463b50f235bd3ebb48d93d253f3853addbecda170eeb/preview-400.41834fa98bfc.jpg
+        sha256: 41834fa98bfc1199b45b3140f9b118c193050e0dca00b1d7815bf27d53100c81
+        mime: image/jpeg
+        bytes: 25137
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

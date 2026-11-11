@@ -1,0 +1,64 @@
+id: 01FJZ3D44GK3A365QVHR9M23RW
+type: document
+subtype: note
+title: Quittung für Emma Bruns
+origin:
+  name: Anni Jeß
+  type: person
+  location: Holtorf
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br 24/346
+subjects:
+  - name: Hochwasser 1945
+    type: event
+  - name: Dömitz
+    type: place
+parents:
+  - 01GXXVEKH9A0GJR23K785W58NQ
+  - 01HSN5QZ6JGHWHBF50F9VB0XTK
+files:
+  - role: page
+    num: 1
+    original_name: note_9m23rw_001.tif
+    path: files/28/1e/281ef370dcec55d2b7339e9b1ccd4ca74f343957ac675318d1a4357aeec94b62/original.tif
+    sha256: 281ef370dcec55d2b7339e9b1ccd4ca74f343957ac675318d1a4357aeec94b62
+    mime: image/tiff
+    bytes: 3489616
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/28/1e/281ef370dcec55d2b7339e9b1ccd4ca74f343957ac675318d1a4357aeec94b62/preview-400.12d6f3304a7b.jpg
+        sha256: 12d6f3304a7b75723d40227705435837cee6da607843076ee01530775028fd67
+        mime: image/jpeg
+        bytes: 86535
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_9m23rw_002.tif
+    path: files/be/ba/beba7b2f5b96d14590b5750c858f6b262adafcef2de721f02cb366a2f4487fa7/original.tif
+    sha256: beba7b2f5b96d14590b5750c858f6b262adafcef2de721f02cb366a2f4487fa7
+    mime: image/tiff
+    bytes: 8864834
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/ba/beba7b2f5b96d14590b5750c858f6b262adafcef2de721f02cb366a2f4487fa7/preview-400.37ee91631531.jpg
+        sha256: 37ee916315319cfddfeb54cca41af7bd4564765392c6d201a295c4c17ec70955
+        mime: image/jpeg
+        bytes: 22024
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

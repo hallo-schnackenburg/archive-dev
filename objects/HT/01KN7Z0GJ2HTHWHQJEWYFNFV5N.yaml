@@ -1,0 +1,48 @@
+id: 01KN7Z0GJ2HTHWHQJEWYFNFV5N
+type: image
+subtype: print
+title: Gruß aus Dömitz, Schnackenburg
+date: 1827-03-26
+location: Wustrow, Gartenstraße
+geocode:
+  lat: 52.9733
+  lon: 11.4744
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Behrens
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 18/103
+subjects:
+  - name: Gasthof Meyer
+    type: building
+  - name: Hochzeit 1827
+    type: event
+parents:
+  - 01KB00B1WA04Q0PWPM12MS4ZXR
+files:
+  - role: main
+    original_name: scan_613.tif
+    path: files/d5/d0/d5d0cdcbfe23285ebee42ba5a8a5dadb5b9089004bfaa6d6bdbda3336fe728a2/original.tif
+    sha256: d5d0cdcbfe23285ebee42ba5a8a5dadb5b9089004bfaa6d6bdbda3336fe728a2
+    mime: image/tiff
+    bytes: 4375204
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d5/d0/d5d0cdcbfe23285ebee42ba5a8a5dadb5b9089004bfaa6d6bdbda3336fe728a2/preview-400.f2f1ea316c65.jpg
+        sha256: f2f1ea316c65b98dcf2b098ec0206920381661abb13cb6775bd0cd544508962d
+        mime: image/jpeg
+        bytes: 89302
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

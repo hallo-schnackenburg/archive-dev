@@ -1,0 +1,41 @@
+id: 01GS1CES68FGS0YZ7HT6N15BA7
+type: image
+subtype: photo
+title: Heinrich Ludolf, Porträt
+date: 1891/1903
+origin:
+  name: Heinrich Schulz
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 23/332
+  note: Regal 1
+subjects:
+  - name: Weihnachtsmarkt 1891
+    type: event
+  - name: Sturmschaden 1891
+    type: event
+files:
+  - role: main
+    original_name: P0996.jpg
+    path: files/8d/f0/8df0989688a0d914726344c6ab48bb6c20a3ec70aa3ad59f6b26ee123ccba325/original.jpg
+    sha256: 8df0989688a0d914726344c6ab48bb6c20a3ec70aa3ad59f6b26ee123ccba325
+    mime: image/jpeg
+    bytes: 3138610
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/8d/f0/8df0989688a0d914726344c6ab48bb6c20a3ec70aa3ad59f6b26ee123ccba325/preview-400.1d27616992ce.jpg
+        sha256: 1d27616992ce2256ea6c955075155c9f9795a57eb3911c76e235457f9eb8b54f
+        mime: image/jpeg
+        bytes: 62566
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

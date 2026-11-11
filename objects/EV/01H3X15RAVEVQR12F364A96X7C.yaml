@@ -1,0 +1,59 @@
+id: 01H3X15RAVEVQR12F364A96X7C
+type: document
+subtype: note
+title: Rechnung Schulz, Feuerwehrhaus
+description: Auf der Rückseite eines Formulars.
+date: 1988-08
+location: Gollensdorf, Schlachterei
+geocode:
+  lat: 53.0696
+  lon: 11.544
+  precision: region
+  source: osm
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: note_a96x7c_001.tif
+    path: files/fe/f4/fef4bf9b17b3a99ef4cc6ce0f1d4ef4438c4c4cf121be7c737cc33a8fc12d101/original.tif
+    sha256: fef4bf9b17b3a99ef4cc6ce0f1d4ef4438c4c4cf121be7c737cc33a8fc12d101
+    mime: image/tiff
+    bytes: 15173976
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fe/f4/fef4bf9b17b3a99ef4cc6ce0f1d4ef4438c4c4cf121be7c737cc33a8fc12d101/preview-400.46b089e8587f.jpg
+        sha256: 46b089e8587fc669379bc1e21dfaf4ca22a8be41d3cd6caa3c831ab8f9050851
+        mime: image/jpeg
+        bytes: 65691
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_a96x7c_002.tif
+    path: files/ec/96/ec965ab12bff9e0cdeba0f7faa79b3a5dbb4ed936faca73ddeda45d806057eed/original.tif
+    sha256: ec965ab12bff9e0cdeba0f7faa79b3a5dbb4ed936faca73ddeda45d806057eed
+    mime: image/tiff
+    bytes: 15508516
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ec/96/ec965ab12bff9e0cdeba0f7faa79b3a5dbb4ed936faca73ddeda45d806057eed/preview-400.78ec3d9480eb.jpg
+        sha256: 78ec3d9480eb189614fc844b11aab9b3a1f9602dbca928b8b6612c12b613cf0b
+        mime: image/jpeg
+        bytes: 56748
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

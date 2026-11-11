@@ -1,0 +1,40 @@
+id: 01HJDTXB4F6VDS6S0RAE149FTT
+type: image
+subtype: drawing
+title: Skizze Zadrau, Mühlenweg, Zadrau
+date: "1960"
+location: Havelberg, Gasthof Meyer
+geocode:
+  lat: 52.937
+  lon: 11.6852
+  precision: street
+  source: osm
+origin:
+  name: Walter Behrens
+  type: person
+  location: Arendsee
+subjects:
+  - name: Fastnacht 1960
+    type: event
+  - name: Ortsbesichtigung 1960
+    type: event
+files:
+  - role: main
+    original_name: scan_990.tif
+    path: files/43/66/4366f30630cde56ed6cdd601d486ffcfb3bdf34563079801dd96d6d93c99efb1/original.tif
+    sha256: 4366f30630cde56ed6cdd601d486ffcfb3bdf34563079801dd96d6d93c99efb1
+    mime: image/tiff
+    bytes: 10052019
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/43/66/4366f30630cde56ed6cdd601d486ffcfb3bdf34563079801dd96d6d93c99efb1/preview-400.979693e33075.jpg
+        sha256: 979693e330752bcdf368e5e2e2cc85009e2d1180486ba22313d47101cb241449
+        mime: image/jpeg
+        bytes: 42575
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

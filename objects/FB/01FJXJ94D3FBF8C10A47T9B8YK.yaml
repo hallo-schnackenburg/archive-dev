@@ -1,0 +1,69 @@
+id: 01FJXJ94D3FBF8C10A47T9B8YK
+type: document
+subtype: note
+title: Quittung für Friedrich Jeß
+description: Beleg mit Stempel.
+date: 1890-11-10
+location: Zadrau, Tanzsaal
+origin:
+  name: Otto Matthies
+  type: person
+  location: Gollensdorf
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Album 8/074
+subjects:
+  - name: Hochzeit 1890
+    type: event
+  - name: Backhaus
+    type: building
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01JP9HS44VA7XZY3HAP9PA82HG
+  - 01M265RTMYNX5W0CM6R19YZYNH
+files:
+  - role: page
+    num: 1
+    original_name: note_t9b8yk_001.tif
+    path: files/9d/bb/9dbb51aa2af1d444fe663a33a8ce61fb74831ac8421f64a72dd23b43f13b0e34/original.tif
+    sha256: 9dbb51aa2af1d444fe663a33a8ce61fb74831ac8421f64a72dd23b43f13b0e34
+    mime: image/tiff
+    bytes: 25107784
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9d/bb/9dbb51aa2af1d444fe663a33a8ce61fb74831ac8421f64a72dd23b43f13b0e34/preview-400.ffc22e987b2b.jpg
+        sha256: ffc22e987b2bd7b7a4881198ba40dbb8fd89ab4bff3c2b841d0940664b13e3da
+        mime: image/jpeg
+        bytes: 63057
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_t9b8yk_002.tif
+    path: files/18/c1/18c113e883f80e685c4bcf8a6aa058dd22a43f81009866cc936d9d94ae1be81b/original.tif
+    sha256: 18c113e883f80e685c4bcf8a6aa058dd22a43f81009866cc936d9d94ae1be81b
+    mime: image/tiff
+    bytes: 23795700
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/18/c1/18c113e883f80e685c4bcf8a6aa058dd22a43f81009866cc936d9d94ae1be81b/preview-400.e7edeba29408.jpg
+        sha256: e7edeba294088df6b9c2bffc9c7b3d14007d6f11a396cd0425dbb222147f59b8
+        mime: image/jpeg
+        bytes: 88360
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

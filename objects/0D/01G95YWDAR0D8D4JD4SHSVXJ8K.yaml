@@ -1,0 +1,32 @@
+id: 01G95YWDAR0D8D4JD4SHSVXJ8K
+type: image
+subtype: print
+title: Postkarte Pretzier, Tischlerei Bruns
+description: Lithographie, Rand beschnitten.
+date: 1792-10-01
+location: Wootz, Fährstraße
+geocode:
+  lat: 53.0663
+  lon: 11.6714
+  precision: region
+  source: osm
+files:
+  - role: main
+    original_name: scan_289.tif
+    path: files/95/10/9510cc87d4eea27aa15718e03ddc2add7a0af56a96449717b542041c6424f96b/original.tif
+    sha256: 9510cc87d4eea27aa15718e03ddc2add7a0af56a96449717b542041c6424f96b
+    mime: image/tiff
+    bytes: 10463740
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/95/10/9510cc87d4eea27aa15718e03ddc2add7a0af56a96449717b542041c6424f96b/preview-400.d263399ed5cd.jpg
+        sha256: d263399ed5cd8bfe48ca8838e736c7c0cc5fedd78bf22cc27992b2f417dc485d
+        mime: image/jpeg
+        bytes: 27362
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

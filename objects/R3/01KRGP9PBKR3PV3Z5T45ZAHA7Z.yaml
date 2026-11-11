@@ -1,0 +1,37 @@
+id: 01KRGP9PBKR3PV3Z5T45ZAHA7Z
+type: image
+subtype: print
+title: Postkarte Wittenberge, Zollamt
+date: "1763"
+origin:
+  name: Erika Lemke
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 2/070
+parents:
+  - 01G8B1RBKCP0JCJ0TQ3WYMBBPZ
+files:
+  - role: main
+    original_name: scan_589.tif
+    path: files/ec/44/ec44c824a24104eaf1fd9de446b9ee3507d271e46d25126a79d75c460490a7b6/original.tif
+    sha256: ec44c824a24104eaf1fd9de446b9ee3507d271e46d25126a79d75c460490a7b6
+    mime: image/tiff
+    bytes: 15476341
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ec/44/ec44c824a24104eaf1fd9de446b9ee3507d271e46d25126a79d75c460490a7b6/preview-400.362afd66f7a7.jpg
+        sha256: 362afd66f7a71dceeeb1a3567d1010d4d2948e8e1443c597b6b6fd0b8ed7150a
+        mime: image/jpeg
+        bytes: 27890
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

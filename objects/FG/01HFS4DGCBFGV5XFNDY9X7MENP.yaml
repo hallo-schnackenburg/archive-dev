@@ -1,0 +1,45 @@
+id: 01HFS4DGCBFGV5XFNDY9X7MENP
+type: image
+subtype: plan
+title: Bauplan Tanzsaal 1788
+date: 1788-08-03
+location: Dömitz, Am Elbdeich
+origin:
+  name: Gerda Voss
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 11/178
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+  - name: Eisgang 1788
+    type: event
+  - name: Restorf
+    type: place
+parents:
+  - 01M2NXDF44FKVBFKSHH2CXM07G
+files:
+  - role: main
+    original_name: scan_847.tif
+    path: files/bf/92/bf92829cff7670d99a35ea33c9d9c0d5df9d5301f5999b567943d4d4f37b9f4f/original.tif
+    sha256: bf92829cff7670d99a35ea33c9d9c0d5df9d5301f5999b567943d4d4f37b9f4f
+    mime: image/tiff
+    bytes: 9639587
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bf/92/bf92829cff7670d99a35ea33c9d9c0d5df9d5301f5999b567943d4d4f37b9f4f/preview-400.d1448da3b014.jpg
+        sha256: d1448da3b0140655b4faf3da560ebc9e04c20a1edc06592bc385848f650d264e
+        mime: image/jpeg
+        bytes: 75361
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

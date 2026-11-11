@@ -1,0 +1,31 @@
+id: 01GBJS6DCQY5D50H6FXMGVHKHE
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Kriegerverein 1848
+description: Anwesend waren 14 Personen.
+location: Lanz, Schulstraße
+geocode:
+  lat: 52.9362
+  lon: 11.4549
+  precision: region
+  source: osm
+origin:
+  name: Bauausschuss Restorf
+  type: business
+  location: Lenzen
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Hochwasser 1848
+    type: event
+storage: external
+external:
+  - type: archive
+    site: Bundesarchiv
+    uri: https://bundesarchiv.example.org/objekt/538196
+    reference: NLA 72 Nr. 1407
+    retrieved: 2025-09-12

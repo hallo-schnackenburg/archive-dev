@@ -1,0 +1,33 @@
+id: 01FPAH4HMH2EGFQ7A4C1ZE3VJS
+type: image
+subtype: plan
+title: Katasterblatt Krüger, Schnackenburg
+description: Mit handschriftlichen Ergänzungen.
+date: 1917-12-02
+origin:
+  name: Anni Hennings
+  type: person
+  location: Gorleben
+subjects:
+  - name: Erika Detlefs
+    type: person
+files:
+  - role: main
+    original_name: scan_354.tif
+    path: files/48/2d/482ddf73f3ce1adb216a3f240be162dc5d20288dafed24daf9ae7b023abce686/original.tif
+    sha256: 482ddf73f3ce1adb216a3f240be162dc5d20288dafed24daf9ae7b023abce686
+    mime: image/tiff
+    bytes: 8570744
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/48/2d/482ddf73f3ce1adb216a3f240be162dc5d20288dafed24daf9ae7b023abce686/preview-400.5fac262a404a.jpg
+        sha256: 5fac262a404a65e624e0170e1178544f6bbb5553bc04a20edddd41f3321befdc
+        mime: image/jpeg
+        bytes: 76723
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

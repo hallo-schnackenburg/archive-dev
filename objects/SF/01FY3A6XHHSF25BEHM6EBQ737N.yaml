@@ -1,0 +1,41 @@
+id: 01FY3A6XHHSF25BEHM6EBQ737N
+type: image
+subtype: photo
+title: Erika Wegner vor dem Rathaus
+description: Abzug im Format 6 x 9 cm.
+date: 1969-03-03
+location: Gorleben, Dorfstraße
+geocode:
+  lat: 52.9667
+  lon: 11.5132
+  precision: town
+  source: osm
+origin:
+  name: Erika Prieß
+  type: person
+  location: Pretzier
+subjects:
+  - name: Konfirmation 1969
+    type: event
+parents:
+  - 01FKKV9TY32Q9KHAS0G1HP77R3
+files:
+  - role: main
+    original_name: IMG_4081.jpg
+    path: files/bc/6d/bc6db7c7c8e27b16695c7fc8be80320767a436cb89e8c474b609ca5396fe7748/original.jpg
+    sha256: bc6db7c7c8e27b16695c7fc8be80320767a436cb89e8c474b609ca5396fe7748
+    mime: image/jpeg
+    bytes: 19026862
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/bc/6d/bc6db7c7c8e27b16695c7fc8be80320767a436cb89e8c474b609ca5396fe7748/preview-400.2d87f73db5c0.jpg
+        sha256: 2d87f73db5c02c8ccd0a99079b7675f95549964d97ac5508b57ec55b2b14acb6
+        mime: image/jpeg
+        bytes: 20363
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01G2J1GN23MVR4C8WQ7HK0WQZZ
+type: image
+subtype: plan
+title: Bauplan Torhaus 1808
+description: Tusche auf Transparentpapier.
+date: 1808-11-01
+origin:
+  name: Käthe Kuhlmann
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Schrank B
+parents:
+  - 01JJVWHQS46WZ6EFA7FBGQH53P
+files:
+  - role: main
+    original_name: scan_852.tif
+    path: files/a9/88/a988ebc7e8194579d89529e8b3f59d818f27ebb0b92f35493edcdb12ae2b2f15/original.tif
+    sha256: a988ebc7e8194579d89529e8b3f59d818f27ebb0b92f35493edcdb12ae2b2f15
+    mime: image/tiff
+    bytes: 6035659
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a9/88/a988ebc7e8194579d89529e8b3f59d818f27ebb0b92f35493edcdb12ae2b2f15/preview-400.2f0d0bc55299.jpg
+        sha256: 2f0d0bc5529947e0d6b4e1cdeafec999bee5c4f16912fbf6613e2633215948b5
+        mime: image/jpeg
+        bytes: 63302
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

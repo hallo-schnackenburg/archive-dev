@@ -1,0 +1,41 @@
+id: 01FRFXX8J1N645CCT474BBQYY5
+type: image
+subtype: photo
+title: Gärtnerei in Arendsee
+description: Farbfoto, leicht verblasst.
+date: 1913~
+location: Dömitz, Pfarrhaus
+geocode:
+  lat: 53.0469
+  lon: 11.5209
+  precision: town
+  source: osm
+origin:
+  name: Fritz Hennings
+  type: person
+  location: Havelberg
+subjects:
+  - name: Gülden
+    type: place
+  - name: Rüterberg
+    type: place
+files:
+  - role: main
+    original_name: P3586.jpg
+    path: files/14/08/14080891c42c1ffed4fc48f6c1a30bd81907ef8a72432911fdec31fcf564f582/original.jpg
+    sha256: 14080891c42c1ffed4fc48f6c1a30bd81907ef8a72432911fdec31fcf564f582
+    mime: image/jpeg
+    bytes: 23395367
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/14/08/14080891c42c1ffed4fc48f6c1a30bd81907ef8a72432911fdec31fcf564f582/preview-400.e2e892d256d9.jpg
+        sha256: e2e892d256d951065c835cafbacbfeadc4c9f6d12f9ff7af853e91c0ecf3cd73
+        mime: image/jpeg
+        bytes: 53905
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

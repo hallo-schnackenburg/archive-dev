@@ -1,0 +1,43 @@
+id: 01HWQH05WCFJB4M6ZTWG14M0ZR
+type: image
+subtype: print
+title: Lithographie Speicher
+date: 1788-09-10
+location: Gorleben, Elbdeich
+geocode:
+  lat: 52.946
+  lon: 11.6311
+  precision: exact
+  source: osm
+origin:
+  name: Dieter Voss
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Mappe 12
+parents:
+  - 01FKRCJXM1WMJBH86NTRWPP373
+files:
+  - role: main
+    original_name: scan_256.tif
+    path: files/e6/cf/e6cfcd83d99714840f84c653d571caf711567e55d4a878f72884ed5c864a4f6e/original.tif
+    sha256: e6cfcd83d99714840f84c653d571caf711567e55d4a878f72884ed5c864a4f6e
+    mime: image/tiff
+    bytes: 11678134
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e6/cf/e6cfcd83d99714840f84c653d571caf711567e55d4a878f72884ed5c864a4f6e/preview-400.845846cd9ffe.jpg
+        sha256: 845846cd9ffe85fa2a116d8652829e39a0c8d54ba08e3dda4d940e87ef1ca2f5
+        mime: image/jpeg
+        bytes: 52957
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01J33GGRPJZ6BE6PBNXSFME5CE
+type: image
+subtype: print
+title: Lithographie Dorfkrug, Cumlosen
+date: "1790"
+location: Rüterberg, Burgstraße
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+files:
+  - role: main
+    original_name: scan_223.tif
+    path: files/5c/ee/5ceea70233faa1bc9609aa38e8d6c2ec682783e10ca26a08c0a0f15bd5116e9a/original.tif
+    sha256: 5ceea70233faa1bc9609aa38e8d6c2ec682783e10ca26a08c0a0f15bd5116e9a
+    mime: image/tiff
+    bytes: 11990290
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5c/ee/5ceea70233faa1bc9609aa38e8d6c2ec682783e10ca26a08c0a0f15bd5116e9a/preview-400.6c331ba8411c.jpg
+        sha256: 6c331ba8411ccece353b409ca2fb5bf103b494f2135f2ec9fc0a5e5986fac4b7
+        mime: image/jpeg
+        bytes: 37942
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

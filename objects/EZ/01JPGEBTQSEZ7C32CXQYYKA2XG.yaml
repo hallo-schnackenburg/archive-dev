@@ -1,0 +1,32 @@
+id: 01JPGEBTQSEZ7C32CXQYYKA2XG
+type: document
+subtype: protocol
+title: Protokoll des Verbandsversammlung vom 7. Juli 1844
+description: "Beschlossen wurde unter anderem: Dorferneuerung."
+date: 1844-07-07
+location: Restorf, Hinter den Höfen
+geocode:
+  lat: 53.026
+  lon: 11.4855
+  precision: street
+  source: osm
+origin:
+  name: Kirchenvorstand Rüterberg
+  type: business
+  location: Havelberg
+language: de
+subjects:
+  - name: Schützenfest 1844
+    type: event
+  - name: Weihnachtsmarkt 1844
+    type: event
+  - name: Gartow
+    type: place
+storage: external
+external:
+  - type: archive
+    site: Bundesarchiv
+    uri: https://bundesarchiv.example.org/objekt/812008
+    reference: Best. 279 Nr. 4627
+    retrieved: 2026-01-08
+notes: Von Frau Meyer erhalten.

@@ -1,0 +1,35 @@
+id: 01KQ91GWMMAFB6WC8GGQV3D3CH
+type: image
+subtype: plan
+title: Bauplan Fachwerkhaus Marktstraße 4 1914
+description: Mit handschriftlichen Ergänzungen.
+date: 1914-06-28
+origin:
+  name: Lotte Brandt
+  type: person
+  location: Kapern
+subjects:
+  - name: Konfirmation 1914
+    type: event
+parents:
+  - 01F2FHHHC3A4CYH69SBK2R9NT8
+files:
+  - role: main
+    original_name: scan_719.tif
+    path: files/0e/ca/0ecab1b1487bd7053039f546cfa6353091411a87cec158a72009e626c9cac98a/original.tif
+    sha256: 0ecab1b1487bd7053039f546cfa6353091411a87cec158a72009e626c9cac98a
+    mime: image/tiff
+    bytes: 17078705
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0e/ca/0ecab1b1487bd7053039f546cfa6353091411a87cec158a72009e626c9cac98a/preview-400.556b7ffea453.jpg
+        sha256: 556b7ffea453d9b39d2bb4783350ed373e510e78bef11713befd27caaf2e1c05
+        mime: image/jpeg
+        bytes: 87749
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

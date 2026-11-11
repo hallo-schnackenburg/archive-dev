@@ -1,0 +1,48 @@
+id: 01FQ23QX3TT9D0B6726SA5Y4X9
+type: image
+subtype: photo
+title: "Landfrauenverein: Gruppenbild Eisgang"
+date: 1989?
+location: Wittenberge, Schmiede
+geocode:
+  lat: 53.0135
+  lon: 11.4962
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 26/105
+  note: Kellerarchiv
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Grenzöffnung 1989
+    type: event
+  - name: Ortsbesichtigung 1989
+    type: event
+parents:
+  - 01G8B1RBKCP0JCJ0TQ3WYMBBPZ
+  - 01HS803SHHMBTDFXP1D594AZ1D
+files:
+  - role: main
+    original_name: P6278.jpg
+    path: files/cc/8c/cc8c4e81156337f7bcbff616e7045ccc3c8194a19699d7d73858833563e26675/original.jpg
+    sha256: cc8c4e81156337f7bcbff616e7045ccc3c8194a19699d7d73858833563e26675
+    mime: image/jpeg
+    bytes: 14581408
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/cc/8c/cc8c4e81156337f7bcbff616e7045ccc3c8194a19699d7d73858833563e26675/preview-400.ec69645c2245.jpg
+        sha256: ec69645c2245c4f26014d308c3a063efe34d613ff149a67b86708c956a93df1c
+        mime: image/jpeg
+        bytes: 57580
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,84 @@
+id: 01JKANS2VH9TX38B2WXHV9P41P
+type: document
+subtype: letter
+title: Friedrich Lüders an die Gemeinde wegen Wohnungsnot
+date: 1903-03-05
+location: Arendsee, Burgstraße
+geocode:
+  lat: 52.9121
+  lon: 11.6772
+  precision: street
+  source: osm
+origin:
+  name: Karl Hennings
+  type: person
+  location: Wootz
+recipient: Otto Lemke
+language: de
+owner:
+  name: Heinrich Gerdes
+  type: person
+  note: Leihgabe
+parents:
+  - 01KP71Y1ZJN9JAVT84GFKBTVMW
+files:
+  - role: page
+    num: 1
+    original_name: letter_v9p41p_001.tif
+    path: files/de/0e/de0e76d7b1a30bc3b61a88cd1262d50b3d6c6fd66553e5e3c11b6b7c7316868f/original.tif
+    sha256: de0e76d7b1a30bc3b61a88cd1262d50b3d6c6fd66553e5e3c11b6b7c7316868f
+    mime: image/tiff
+    bytes: 5178813
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/0e/de0e76d7b1a30bc3b61a88cd1262d50b3d6c6fd66553e5e3c11b6b7c7316868f/preview-400.9682178d018b.jpg
+        sha256: 9682178d018b5902d0caa807c7785f13fba62e281df71c1ee23653622dd1581d
+        mime: image/jpeg
+        bytes: 74526
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_v9p41p_002.tif
+    path: files/c0/7e/c07e1ca2be5b0aa341c8a07d3da39054d3d7afc7f8f087509c7159e5cb16be19/original.tif
+    sha256: c07e1ca2be5b0aa341c8a07d3da39054d3d7afc7f8f087509c7159e5cb16be19
+    mime: image/tiff
+    bytes: 1257143
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c0/7e/c07e1ca2be5b0aa341c8a07d3da39054d3d7afc7f8f087509c7159e5cb16be19/preview-400.20bd71d485cf.jpg
+        sha256: 20bd71d485cf6c0cfadb637361e60f272a1135e2275444cff8d7468cbddfee80
+        mime: image/jpeg
+        bytes: 28248
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_v9p41p_003.tif
+    path: files/d6/1f/d61f1c040b711b1bddeafe65ffe450c554d3ce43b5aae1b83695a04366b26927/original.tif
+    sha256: d61f1c040b711b1bddeafe65ffe450c554d3ce43b5aae1b83695a04366b26927
+    mime: image/tiff
+    bytes: 26089202
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d6/1f/d61f1c040b711b1bddeafe65ffe450c554d3ce43b5aae1b83695a04366b26927/preview-400.a358d817868c.jpg
+        sha256: a358d817868c68eb058de26d1b5fbbe5a657fd34ecf85e6411d549a74672791a
+        mime: image/jpeg
+        bytes: 30854
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

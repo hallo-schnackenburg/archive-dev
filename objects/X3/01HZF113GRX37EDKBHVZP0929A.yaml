@@ -1,0 +1,34 @@
+id: 01HZF113GRX37EDKBHVZP0929A
+type: image
+subtype: photo
+title: Erika Schulz vor dem Windmühle
+description: Farbfoto, leicht verblasst.
+origin:
+  name: Hans Rohde
+  type: person
+  location: Lanz
+subjects:
+  - name: Bahnhof
+    type: building
+parents:
+  - 01KKPAYKN3WWQ9TTHPWVZWVHF9
+files:
+  - role: main
+    original_name: DSC7991.jpg
+    path: files/d1/68/d168e12f4e78eebd8f0cae21b2d48e2f61fcf95668eba7a65aa34664ac571661/original.jpg
+    sha256: d168e12f4e78eebd8f0cae21b2d48e2f61fcf95668eba7a65aa34664ac571661
+    mime: image/jpeg
+    bytes: 22059379
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/d1/68/d168e12f4e78eebd8f0cae21b2d48e2f61fcf95668eba7a65aa34664ac571661/preview-400.2ac29ddc7b49.jpg
+        sha256: 2ac29ddc7b49416fa80f9ee9ed88fdf126ee68f3e8d3ffa1ca8f43f636b4efd6
+        mime: image/jpeg
+        bytes: 48746
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

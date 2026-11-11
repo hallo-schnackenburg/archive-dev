@@ -1,0 +1,30 @@
+id: 01FY6N8TQR70R2KF5GGRSZP4DC
+type: image
+subtype: plan
+title: Flurkarte Wustrow
+date: "1838"
+location: Gorleben, Apotheke
+origin:
+  name: Hedwig Behrens
+  type: person
+  location: Arendsee
+files:
+  - role: main
+    original_name: scan_066.tif
+    path: files/d5/13/d51300228e48504fec62ba99b5a82ab1680892614ed7c5f4182348dd6a912e90/original.tif
+    sha256: d51300228e48504fec62ba99b5a82ab1680892614ed7c5f4182348dd6a912e90
+    mime: image/tiff
+    bytes: 3937012
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d5/13/d51300228e48504fec62ba99b5a82ab1680892614ed7c5f4182348dd6a912e90/preview-400.7ca1c74860a6.jpg
+        sha256: 7ca1c74860a6edc1bfd106db1526f7245ff8129ad34bae1831d7b10fedb26fd3
+        mime: image/jpeg
+        bytes: 54183
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

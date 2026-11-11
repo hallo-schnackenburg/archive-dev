@@ -1,0 +1,45 @@
+id: 01GCBDNQ1DA2NEAAM567PDC3TJ
+type: image
+subtype: photo
+title: Blick vom Gasthof „Zur Elbe“ auf das Schützenhaus
+description: Aufnahme von Hans Detlefs.
+date: 1916-02-21
+location: Pretzier, Kirchstraße
+origin:
+  name: Paul Schwarz
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 7/077
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Konfirmation 1916
+    type: event
+parents:
+  - 01J36EBSGAM0EQS4K8346DJX88
+  - 01KDN24YGY3BMF4DSBZVBA7RX8
+files:
+  - role: main
+    original_name: scan_537.tif
+    path: files/d5/04/d504a4cb02471453a5a40c35b8db3a5cc7dae5cd2a81c91c0c531bd37ad1f78f/original.tif
+    sha256: d504a4cb02471453a5a40c35b8db3a5cc7dae5cd2a81c91c0c531bd37ad1f78f
+    mime: image/tiff
+    bytes: 21399027
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d5/04/d504a4cb02471453a5a40c35b8db3a5cc7dae5cd2a81c91c0c531bd37ad1f78f/preview-400.87d02c94dc12.jpg
+        sha256: 87d02c94dc12b5f6c0ad9a8cdff04c60367d59cef79acf699d395c006e0b5062
+        mime: image/jpeg
+        bytes: 30078
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

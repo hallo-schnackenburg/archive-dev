@@ -1,0 +1,48 @@
+id: 01K5PGFQKQ238C2WCGR77KNB29
+type: image
+subtype: plan
+title: Bauplan Scheune 1841
+description: Maßstab 1:100.
+date: 1841?
+location: Rüterberg, Hafenstraße
+geocode:
+  lat: 52.9558
+  lon: 11.5499
+  precision: exact
+  source: osm
+origin:
+  name: Gisela Voss
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Frieda Gaede
+    type: person
+  - name: Laase
+    type: place
+parents:
+  - 01K07SKN5ZQ3VDE1287C9C0F74
+files:
+  - role: main
+    original_name: scan_884.tif
+    path: files/8d/4a/8d4a465f988e899168bdc15691c023f88789609042d924930b18f506e90a96ff/original.tif
+    sha256: 8d4a465f988e899168bdc15691c023f88789609042d924930b18f506e90a96ff
+    mime: image/tiff
+    bytes: 23576846
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8d/4a/8d4a465f988e899168bdc15691c023f88789609042d924930b18f506e90a96ff/preview-400.e5c2da0f0435.jpg
+        sha256: e5c2da0f0435741722a297d3dd1d568a5f63030a741e3e7077ac579cb3653c56
+        mime: image/jpeg
+        bytes: 75350
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

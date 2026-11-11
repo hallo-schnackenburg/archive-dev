@@ -1,0 +1,32 @@
+id: 01HEV2ST2646Q1ECV5NVPZ9YCV
+type: image
+subtype: photo
+title: Sturmschaden 1897
+date: 1897-05-10
+origin:
+  name: Ilse Hennings
+  type: person
+  location: Restorf
+subjects:
+  - name: Windmühle
+    type: building
+files:
+  - role: main
+    original_name: IMG_6781.jpg
+    path: files/ca/63/ca63a5f0807268893f90848237c9c2028b0172764047150cc8019f08f9278c86/original.jpg
+    sha256: ca63a5f0807268893f90848237c9c2028b0172764047150cc8019f08f9278c86
+    mime: image/jpeg
+    bytes: 20826839
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ca/63/ca63a5f0807268893f90848237c9c2028b0172764047150cc8019f08f9278c86/preview-400.69161ed32964.jpg
+        sha256: 69161ed32964e0cc9940889dd0ea386ac81193fc1a0dc2fcdf6a451366bcb1e9
+        mime: image/jpeg
+        bytes: 68375
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

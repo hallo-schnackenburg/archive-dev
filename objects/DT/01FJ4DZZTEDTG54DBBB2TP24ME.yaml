@@ -1,0 +1,37 @@
+id: 01FJ4DZZTEDTG54DBBB2TP24ME
+type: image
+subtype: photo
+title: August Heuer vor dem Dorfladen
+date: 1934-09-22
+location: Nienwalde, Dorfteich
+geocode:
+  lat: 52.9611
+  lon: 11.6328
+  precision: town
+  source: osm
+origin:
+  name: Gerda Kuhlmann
+  type: person
+  location: Dömitz
+parents:
+  - 01KT1B4YZD11RXC8P8PMNGFW3D
+files:
+  - role: main
+    original_name: P3118.jpg
+    path: files/f3/0d/f30d4899bdc4943097e6f5b8ec5c7d8beef556c5967c28e4baa759e914ffda82/original.jpg
+    sha256: f30d4899bdc4943097e6f5b8ec5c7d8beef556c5967c28e4baa759e914ffda82
+    mime: image/jpeg
+    bytes: 15276934
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/f3/0d/f30d4899bdc4943097e6f5b8ec5c7d8beef556c5967c28e4baa759e914ffda82/preview-400.db7c82a4d5e0.jpg
+        sha256: db7c82a4d5e039e77fcdd3b71de3373c7889b6234503ae1741e24d417a26b98a
+        mime: image/jpeg
+        bytes: 53925
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

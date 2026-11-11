@@ -1,0 +1,33 @@
+id: 01F068A6D077BXDXQQTPW4HCD1
+type: image
+subtype: print
+title: Postkarte Brünkendorf, Brunnen am Markt
+date: 1707-02-17
+location: Zadrau, Apotheke
+origin:
+  name: Albert Lemke
+  type: person
+  location: Holtorf
+subjects:
+  - name: Sturmschaden 1707
+    type: event
+files:
+  - role: main
+    original_name: scan_307.tif
+    path: files/28/55/2855468ea9b7e55e646c22895639172ed4771efd53669aa79ea608626a4b1403/original.tif
+    sha256: 2855468ea9b7e55e646c22895639172ed4771efd53669aa79ea608626a4b1403
+    mime: image/tiff
+    bytes: 26945599
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/28/55/2855468ea9b7e55e646c22895639172ed4771efd53669aa79ea608626a4b1403/preview-400.8bc46335aeb9.jpg
+        sha256: 8bc46335aeb98386462ad50decedea02bb34c873a2bcffd4d142f080df3511e5
+        mime: image/jpeg
+        bytes: 24160
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

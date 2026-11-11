@@ -1,0 +1,40 @@
+id: 01KVNQB1SYS1P4FFB00NGHFZNA
+type: image
+subtype: drawing
+title: Skizze Holtorf, Lange Straße, Pretzier
+description: Mit Anmerkungen am Rand.
+date: 1887-11
+location: Bömenzien, Fährstraße
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro 29/336
+subjects:
+  - name: Walter Eggers
+    type: person
+  - name: Schlachterei
+    type: building
+parents:
+  - 01H902F8KH7FGB5792BQJBD6C6
+files:
+  - role: main
+    original_name: scan_872.tif
+    path: files/7b/c1/7bc151c69d1f1042a98e5e13c4b20f6ce0498083de5130f6aa3e47978e95ed3b/original.tif
+    sha256: 7bc151c69d1f1042a98e5e13c4b20f6ce0498083de5130f6aa3e47978e95ed3b
+    mime: image/tiff
+    bytes: 2029999
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7b/c1/7bc151c69d1f1042a98e5e13c4b20f6ce0498083de5130f6aa3e47978e95ed3b/preview-400.762448f83135.jpg
+        sha256: 762448f8313524cf52b223e0c4ccbd6e81722fa23bce450634b0ab100d2b15e4
+        mime: image/jpeg
+        bytes: 81062
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

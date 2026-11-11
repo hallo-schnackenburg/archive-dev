@@ -1,0 +1,40 @@
+id: 01GHEQF5F7C7ZD9A2WDD1SBENX
+type: image
+subtype: plan
+title: Grundriss Schützenhaus, Nienwalde
+date: "1966"
+location: Brünkendorf, Fährstraße
+geocode:
+  lat: 52.9233
+  lon: 11.5176
+  precision: exact
+  source: osm
+origin:
+  name: Wilhelm Voss
+  type: person
+  location: Laase
+subjects:
+  - name: Deicharbeiten 1966
+    type: event
+  - name: Rüterberg
+    type: place
+files:
+  - role: main
+    original_name: scan_920.tif
+    path: files/37/7d/377d67771935baba0f0c770fb5e1fe409aec635d7e3c880f6991970fc5d71276/original.tif
+    sha256: 377d67771935baba0f0c770fb5e1fe409aec635d7e3c880f6991970fc5d71276
+    mime: image/tiff
+    bytes: 14280194
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/37/7d/377d67771935baba0f0c770fb5e1fe409aec635d7e3c880f6991970fc5d71276/preview-400.c2aa3612adb9.jpg
+        sha256: c2aa3612adb9d93c7971db940a24739fd92818988c61dc7f3abba9b0279e2b7f
+        mime: image/jpeg
+        bytes: 38825
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

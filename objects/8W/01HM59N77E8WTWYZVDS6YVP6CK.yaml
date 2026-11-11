@@ -1,0 +1,48 @@
+id: 01HM59N77E8WTWYZVDS6YVP6CK
+type: image
+subtype: print
+title: Postkarte Gülden, Kirche St. Johannis
+description: Kupferstich, koloriert.
+date: 1720?
+location: Gartow, Grenzturm
+geocode:
+  lat: 53.0953
+  lon: 11.4593
+  precision: exact
+  source: osm
+origin:
+  name: Hans Lenz
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 17/055
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v71600
+subjects:
+  - name: Gasthof Meyer
+    type: building
+  - name: Albert Brandt
+    type: person
+files:
+  - role: main
+    original_name: scan_952.tif
+    path: files/a0/0d/a00d169ee00802845ac4967ff73c2d2f042ac8a57b3a4ae84c1724c4bb450e70/original.tif
+    sha256: a00d169ee00802845ac4967ff73c2d2f042ac8a57b3a4ae84c1724c4bb450e70
+    mime: image/tiff
+    bytes: 7971892
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a0/0d/a00d169ee00802845ac4967ff73c2d2f042ac8a57b3a4ae84c1724c4bb450e70/preview-400.9d5d817c5c94.jpg
+        sha256: 9d5d817c5c9430f4c0be8c9807026120fbd4dc0bd20eae572a26007708a8a1ac
+        mime: image/jpeg
+        bytes: 26823
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

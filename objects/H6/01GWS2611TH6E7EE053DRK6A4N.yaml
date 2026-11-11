@@ -1,0 +1,32 @@
+id: 01GWS2611TH6E7EE053DRK6A4N
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Nienwalde 1943
+date: 1943-07-06
+location: Bömenzien, Rathaus
+geocode:
+  lat: 52.9133
+  lon: 11.6353
+  precision: region
+  source: osm
+origin:
+  name: Finanzausschuss Laase
+  type: business
+  location: Schnackenburg
+language: de
+owner:
+  name: Rudolf Lemke
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Backhaus
+    type: building
+  - name: Osterfeuer 1943
+    type: event
+storage: external
+external:
+  - type: archive
+    site: Wendlandarchiv
+    uri: https://wendlandarchiv.example.org/objekt/830140
+    reference: NLA 105 Nr. 906
+    retrieved: 2026-02-28

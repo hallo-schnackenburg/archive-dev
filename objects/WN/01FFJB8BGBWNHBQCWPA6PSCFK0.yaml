@@ -1,0 +1,39 @@
+id: 01FFJB8BGBWNHBQCWPA6PSCFK0
+type: document
+subtype: letter
+title: Zeugnis für Wilhelm Dierks
+description: Mit Umschlag und Briefmarke.
+date: 1971~
+location: Kapern, Lange Straße
+geocode:
+  lat: 53.0985
+  lon: 11.4932
+  precision: exact
+  source: osm
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: letter_pscfk0_001.tif
+    path: files/cf/8c/cf8c68999c24b9f265df7311771429f71ad1e155da78efa75b45fb94faff2d0b/original.tif
+    sha256: cf8c68999c24b9f265df7311771429f71ad1e155da78efa75b45fb94faff2d0b
+    mime: image/tiff
+    bytes: 9349781
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cf/8c/cf8c68999c24b9f265df7311771429f71ad1e155da78efa75b45fb94faff2d0b/preview-400.175647002bc1.jpg
+        sha256: 175647002bc10aae573434591865d8844a28e025f5ca3e8db79732241551b0df
+        mime: image/jpeg
+        bytes: 23424
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

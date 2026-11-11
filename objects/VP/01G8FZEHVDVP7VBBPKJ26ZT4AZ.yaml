@@ -1,0 +1,43 @@
+id: 01G8FZEHVDVP7VBBPKJ26ZT4AZ
+type: image
+subtype: photo
+title: Deichstraße, Ecke Schulstraße
+description: Abzug im Format 10 x 15 cm.
+origin:
+  name: Karl Brandt
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan 38/072
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v86451
+subjects:
+  - name: Kegelbahn
+    type: building
+  - name: Dieter Voss
+    type: person
+  - name: Kindergartenfest 1980
+    type: event
+files:
+  - role: main
+    original_name: IMG_9918.jpg
+    path: files/4e/3e/4e3e7aa5886d713f904817921f44cf5abf7c040fa2f209c9f7991f4274ff0a18/original.jpg
+    sha256: 4e3e7aa5886d713f904817921f44cf5abf7c040fa2f209c9f7991f4274ff0a18
+    mime: image/jpeg
+    bytes: 490846
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/4e/3e/4e3e7aa5886d713f904817921f44cf5abf7c040fa2f209c9f7991f4274ff0a18/preview-400.7d42bb66cbaa.jpg
+        sha256: 7d42bb66cbaae1a83a694e8b435a526fe40ef3305a3f6e3bf1ac2c71701860e6
+        mime: image/jpeg
+        bytes: 48103
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

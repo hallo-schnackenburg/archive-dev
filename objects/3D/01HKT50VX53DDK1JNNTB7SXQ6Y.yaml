@@ -1,0 +1,40 @@
+id: 01HKT50VX53DDK1JNNTB7SXQ6Y
+type: image
+subtype: photo
+title: Brückeneinweihung 1952
+description: Zu sehen sind Kaufmannshaus und Dorfteich.
+date: 1952?
+location: Nienwalde, Bahnhofstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 22/271
+subjects:
+  - name: Marta Plate
+    type: person
+  - name: Fastnacht 1952
+    type: event
+parents:
+  - 01HE14GR0R8R7PECGB2EPQE94M
+files:
+  - role: main
+    original_name: DSC1690.jpg
+    path: files/bd/8d/bd8d23a999aed3860cd2cf2aab177b88269b1a300934a27ec9ec56aee2322070/original.jpg
+    sha256: bd8d23a999aed3860cd2cf2aab177b88269b1a300934a27ec9ec56aee2322070
+    mime: image/jpeg
+    bytes: 15681499
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/bd/8d/bd8d23a999aed3860cd2cf2aab177b88269b1a300934a27ec9ec56aee2322070/preview-400.ca5651896002.jpg
+        sha256: ca5651896002e3b95633cba0c22dd8d93c6b9cac500b3b2ccf2b8e09fb4c9bf2
+        mime: image/jpeg
+        bytes: 41324
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

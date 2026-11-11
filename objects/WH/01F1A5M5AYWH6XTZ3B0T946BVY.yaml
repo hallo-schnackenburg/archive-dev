@@ -1,0 +1,46 @@
+id: 01F1A5M5AYWH6XTZ3B0T946BVY
+type: image
+subtype: photo
+title: Horst Albers vor dem Kaufmannshaus
+description: Farbfoto, leicht verblasst.
+date: "1987"
+origin:
+  name: Gerda Plate
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 21/038
+subjects:
+  - name: Fährjubiläum 1987
+    type: event
+  - name: Wassermühle
+    type: building
+  - name: Einweihung 1987
+    type: event
+parents:
+  - 01J0GYR8W2ERJ99C6YPH8ATKMN
+  - 01HG6JP5WA4TG6RE22EWVXDYF0
+files:
+  - role: main
+    original_name: IMG_8054.jpg
+    path: files/ce/6e/ce6e6e0e979b8411c064ad90a8761f6d593ac1116ed9f8b9911c1a9d562b5333/original.jpg
+    sha256: ce6e6e0e979b8411c064ad90a8761f6d593ac1116ed9f8b9911c1a9d562b5333
+    mime: image/jpeg
+    bytes: 10861393
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/ce/6e/ce6e6e0e979b8411c064ad90a8761f6d593ac1116ed9f8b9911c1a9d562b5333/preview-400.3b8157ebc8e3.jpg
+        sha256: 3b8157ebc8e30a96952ebd03e39336ab0c881a18dd9e6034f659a53d9aa107fb
+        mime: image/jpeg
+        bytes: 56572
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

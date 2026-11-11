@@ -1,0 +1,45 @@
+id: 01GTM4WSX7FGSKF2B075F6555T
+type: image
+subtype: photo
+title: Fritz Bohlmann, Porträt
+description: Zu sehen sind Grenzturm und Kindergarten.
+date: "1917"
+origin:
+  name: Anni Krüger
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 35/391
+subjects:
+  - name: Heinrich Schwarz
+    type: person
+  - name: Tanzsaal
+    type: building
+  - name: Lenzen
+    type: place
+parents:
+  - 01F1Q5CD51G9ZH21J5XMQ18G3Z
+files:
+  - role: main
+    original_name: foto_5927.jpg
+    path: files/7e/8e/7e8eff85c2509714584c02d7d48baa0244c9483858a476a979fada112f86463c/original.jpg
+    sha256: 7e8eff85c2509714584c02d7d48baa0244c9483858a476a979fada112f86463c
+    mime: image/jpeg
+    bytes: 5585515
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/7e/8e/7e8eff85c2509714584c02d7d48baa0244c9483858a476a979fada112f86463c/preview-400.01287338f188.jpg
+        sha256: 01287338f188276ccede81d91f512b6c8ba88aa9a227977e2fb1873abea48085
+        mime: image/jpeg
+        bytes: 88596
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

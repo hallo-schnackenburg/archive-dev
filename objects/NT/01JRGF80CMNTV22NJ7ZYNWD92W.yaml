@@ -1,0 +1,36 @@
+id: 01JRGF80CMNTV22NJ7ZYNWD92W
+type: image
+subtype: photo
+title: Ernst Oelker, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1893-10-03
+location: Restorf, Lange Straße
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Einweihung 1893
+    type: event
+parents:
+  - 01FEMA2K3GSA17BGZHHP3N0PEF
+files:
+  - role: main
+    original_name: scan_572.tif
+    path: files/76/b5/76b58b9dfe4bc7bc3fa1fddb45ca318900a0f9f84edd847c2aabf98ce308c076/original.tif
+    sha256: 76b58b9dfe4bc7bc3fa1fddb45ca318900a0f9f84edd847c2aabf98ce308c076
+    mime: image/tiff
+    bytes: 9089472
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/76/b5/76b58b9dfe4bc7bc3fa1fddb45ca318900a0f9f84edd847c2aabf98ce308c076/preview-400.16ba45f26fa6.jpg
+        sha256: 16ba45f26fa6478bc92c34046f09ef0f0613f4174bbd8c369952e64a4f2278d3
+        mime: image/jpeg
+        bytes: 73022
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

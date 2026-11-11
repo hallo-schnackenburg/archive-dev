@@ -1,0 +1,45 @@
+id: 01KW5VQGSPCJK8WT72DW5EMFD3
+type: image
+subtype: photo
+title: Hafen in Zadrau
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1985-11
+origin:
+  name: Fritz Tiedemann
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 1
+subjects:
+  - name: Scheune
+    type: building
+  - name: Albert Schulz
+    type: person
+  - name: Gartow
+    type: place
+parents:
+  - 01HE6ENCA0W2Z468GKA6QXY516
+files:
+  - role: main
+    original_name: IMG_1632.jpg
+    path: files/0f/35/0f35263ae9ab059cf45cda375bbfa1312a195783b1874ef9ff6dbca5a0898535/original.jpg
+    sha256: 0f35263ae9ab059cf45cda375bbfa1312a195783b1874ef9ff6dbca5a0898535
+    mime: image/jpeg
+    bytes: 8894799
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/0f/35/0f35263ae9ab059cf45cda375bbfa1312a195783b1874ef9ff6dbca5a0898535/preview-400.fc8fc975f549.jpg
+        sha256: fc8fc975f5497ff66cc0482e3ebc0d63dd1223b0ee4f44121448e31e802fe55c
+        mime: image/jpeg
+        bytes: 64158
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

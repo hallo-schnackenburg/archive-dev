@@ -1,0 +1,42 @@
+id: 01J7YG04NPFDPD7EWTFNYZ8FX8
+type: image
+subtype: drawing
+title: Wappenentwurf Laase, Cumlosen
+description: Bleistift auf Papier.
+location: Wootz, Am Markt
+geocode:
+  lat: 52.9034
+  lon: 11.5467
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 16/093
+subjects:
+  - name: Windmühle
+    type: building
+parents:
+  - 01M265RTMYNX5W0CM6R19YZYNH
+files:
+  - role: main
+    original_name: scan_703.tif
+    path: files/b5/15/b515a2849bd3480868f65ea7da907b2f90926d9c255e223056ce0e91b9121f02/original.tif
+    sha256: b515a2849bd3480868f65ea7da907b2f90926d9c255e223056ce0e91b9121f02
+    mime: image/tiff
+    bytes: 6286273
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b5/15/b515a2849bd3480868f65ea7da907b2f90926d9c255e223056ce0e91b9121f02/preview-400.d2bee9879624.jpg
+        sha256: d2bee9879624222623e4043677fbfadae15a92999060f4cd36fb13ca862bbf9a
+        mime: image/jpeg
+        bytes: 41853
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

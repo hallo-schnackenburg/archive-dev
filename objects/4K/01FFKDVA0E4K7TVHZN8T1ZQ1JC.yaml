@@ -1,0 +1,40 @@
+id: 01FFKDVA0E4K7TVHZN8T1ZQ1JC
+type: image
+subtype: photo
+title: Kinder am Pfarrhaus
+description: Zu sehen sind Bahnhof und Tanzsaal.
+location: Salzwedel, Pfarrhaus
+origin:
+  name: Ernst Voss
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Restorf
+    type: place
+files:
+  - role: main
+    original_name: scan_377.tif
+    path: files/cc/29/cc29a808905905274fb5bb865c4f10bcb2b8a2a4c0d9a3398d1144e53aeb0a55/original.tif
+    sha256: cc29a808905905274fb5bb865c4f10bcb2b8a2a4c0d9a3398d1144e53aeb0a55
+    mime: image/tiff
+    bytes: 8771048
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cc/29/cc29a808905905274fb5bb865c4f10bcb2b8a2a4c0d9a3398d1144e53aeb0a55/preview-400.9ead6982bf2e.jpg
+        sha256: 9ead6982bf2eec01bdbd2777ee68507aa0438232a91f01edb82d7c5facd66a74
+        mime: image/jpeg
+        bytes: 42496
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

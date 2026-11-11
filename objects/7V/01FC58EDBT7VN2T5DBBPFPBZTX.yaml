@@ -1,0 +1,62 @@
+id: 01FC58EDBT7VN2T5DBBPFPBZTX
+type: document
+subtype: note
+title: "Handschriftliche Notiz: Schlachtfest"
+date: 1994-09-05
+location: Gartow, Fährstraße
+geocode:
+  lat: 53.062
+  lon: 11.4794
+  precision: exact
+  source: osm
+origin:
+  name: Friedrich Lemke
+  type: person
+  location: Wittenberge
+language: de
+subjects:
+  - name: Gerda Schulz
+    type: person
+  - name: Kindergarten
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_fpbztx_001.tif
+    path: files/96/81/9681cb6cfc0ae9e430b75def1d32495170912cc99f446ced31e3c4aac4110dc5/original.tif
+    sha256: 9681cb6cfc0ae9e430b75def1d32495170912cc99f446ced31e3c4aac4110dc5
+    mime: image/tiff
+    bytes: 17016370
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/96/81/9681cb6cfc0ae9e430b75def1d32495170912cc99f446ced31e3c4aac4110dc5/preview-400.8ccbf67327c9.jpg
+        sha256: 8ccbf67327c90beab7fa84ca768b9a7118e5dafa29a1220b96c3ce7dbc0cb3b4
+        mime: image/jpeg
+        bytes: 33755
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_fpbztx_002.tif
+    path: files/33/c9/33c97f77c3c312d4d2d9415be809a7323ec1ac28c5029e80c6154173dcefe48b/original.tif
+    sha256: 33c97f77c3c312d4d2d9415be809a7323ec1ac28c5029e80c6154173dcefe48b
+    mime: image/tiff
+    bytes: 14975262
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/33/c9/33c97f77c3c312d4d2d9415be809a7323ec1ac28c5029e80c6154173dcefe48b/preview-400.9445f0d0400c.jpg
+        sha256: 9445f0d0400c9498a8c06a3658d960190fb281859057027268623005bd80c32f
+        mime: image/jpeg
+        bytes: 69305
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01KAF9XP6XN8QFPFTVTY96QQBQ
+type: image
+subtype: plan
+title: Deichplan Hitzacker bis Brünkendorf
+description: Maßstab 1:2500.
+date: "1769"
+subjects:
+  - name: Grenzöffnung 1769
+    type: event
+parents:
+  - 01KKPAYKN3WWQ9TTHPWVZWVHF9
+files:
+  - role: main
+    original_name: scan_740.tif
+    path: files/55/cf/55cfae49a68b01d8fa5ea040267e4d3e9a7f5ff4cb38e5989ab8f29e811d94b4/original.tif
+    sha256: 55cfae49a68b01d8fa5ea040267e4d3e9a7f5ff4cb38e5989ab8f29e811d94b4
+    mime: image/tiff
+    bytes: 16357091
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/55/cf/55cfae49a68b01d8fa5ea040267e4d3e9a7f5ff4cb38e5989ab8f29e811d94b4/preview-400.1086b5e9f3e7.jpg
+        sha256: 1086b5e9f3e7681cfe0ebd9ec715c567ab87e691207716e41c4b7b75657aa7ad
+        mime: image/jpeg
+        bytes: 44524
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

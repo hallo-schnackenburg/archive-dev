@@ -1,0 +1,50 @@
+id: 01G67D9RKW6RRRY71EF8926RNC
+type: image
+subtype: photo
+title: Blick vom Dorfteich auf das Molkerei
+date: 1903?
+location: Gorleben, Ziegelei
+geocode:
+  lat: 53.0224
+  lon: 11.5912
+  precision: region
+  source: osm
+origin:
+  name: August Lemke
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok/Album 6/115
+subjects:
+  - name: Erika Kuhlmann
+    type: person
+  - name: Restorf
+    type: place
+  - name: Sturmschaden 1903
+    type: event
+parents:
+  - 01HEN36GX2JVN3M54R3NSB7YJF
+files:
+  - role: main
+    original_name: foto_3863.jpg
+    path: files/33/0e/330ef879e2ff2f7aa60f7d9148b0c60c350c5aa7f5b034d19d05ef99da6cfba0/original.jpg
+    sha256: 330ef879e2ff2f7aa60f7d9148b0c60c350c5aa7f5b034d19d05ef99da6cfba0
+    mime: image/jpeg
+    bytes: 7164878
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/33/0e/330ef879e2ff2f7aa60f7d9148b0c60c350c5aa7f5b034d19d05ef99da6cfba0/preview-400.8ceb91a424f8.jpg
+        sha256: 8ceb91a424f879c318a41b00fe67b54b56acb9477e23cad33f2acc9b535441c8
+        mime: image/jpeg
+        bytes: 67526
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

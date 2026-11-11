@@ -1,0 +1,50 @@
+id: 01JSVJYQHY5M5PM2F4BTG48PE4
+type: image
+subtype: plan
+title: Bauplan Kindergarten 1836
+description: Tusche auf Transparentpapier.
+date: 1836~
+location: Brünkendorf, Tanzsaal
+geocode:
+  lat: 53.0956
+  lon: 11.6661
+  precision: exact
+  source: osm
+origin:
+  name: Hermann Dreyer
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Friedhofskapelle
+    type: building
+  - name: Hitzacker
+    type: place
+parents:
+  - 01JCDR7S9M7BM7M0ZNSCBA2064
+files:
+  - role: main
+    original_name: scan_554.tif
+    path: files/19/dc/19dca3416ca052619265306e22c22be47b7298236ceab97602cf754dfa00c2b7/original.tif
+    sha256: 19dca3416ca052619265306e22c22be47b7298236ceab97602cf754dfa00c2b7
+    mime: image/tiff
+    bytes: 17913369
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/19/dc/19dca3416ca052619265306e22c22be47b7298236ceab97602cf754dfa00c2b7/preview-400.3696f156a936.jpg
+        sha256: 3696f156a9366a1c5714e0c8f84c28994ca331f49ebba49de63276c0badc216f
+        mime: image/jpeg
+        bytes: 84193
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

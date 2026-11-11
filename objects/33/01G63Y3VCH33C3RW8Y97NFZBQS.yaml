@@ -1,0 +1,34 @@
+id: 01G63Y3VCH33C3RW8Y97NFZBQS
+type: image
+subtype: plan
+title: Katasterblatt Garms, Wootz
+description: Maßstab 1:500.
+date: 1921~
+location: Hitzacker, Speicher
+origin:
+  name: Manfred Eggers
+  type: person
+  location: Lüchow
+subjects:
+  - name: Tanzsaal
+    type: building
+files:
+  - role: main
+    original_name: scan_746.tif
+    path: files/54/b5/54b582a8308d4d07fdc1bac7b9d920efbc89ce95d3a67e70842b8ba67e8bce4a/original.tif
+    sha256: 54b582a8308d4d07fdc1bac7b9d920efbc89ce95d3a67e70842b8ba67e8bce4a
+    mime: image/tiff
+    bytes: 27431082
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/54/b5/54b582a8308d4d07fdc1bac7b9d920efbc89ce95d3a67e70842b8ba67e8bce4a/preview-400.936b8c01b889.jpg
+        sha256: 936b8c01b889a3c51ec26bb58106d16f3d66d9b6901ac9c213a4ee80812bc2c6
+        mime: image/jpeg
+        bytes: 40277
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

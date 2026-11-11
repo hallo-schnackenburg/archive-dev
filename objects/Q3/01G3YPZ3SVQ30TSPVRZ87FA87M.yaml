@@ -1,0 +1,37 @@
+id: 01G3YPZ3SVQ30TSPVRZ87FA87M
+type: image
+subtype: plan
+title: Grundriss Kirche St. Johannis, Laase
+date: 1771-09-02
+location: Rüterberg, Deichstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Mappe 1/024
+subjects:
+  - name: Kartoffelernte 1771
+    type: event
+parents:
+  - 01FDA5WD2HAQWVA4SE72GX6KEJ
+files:
+  - role: main
+    original_name: scan_771.tif
+    path: files/24/e5/24e560b23b72bbdeaf37cb785fc2adc863a0f8dfb8979345fe062bb7d67cb8dc/original.tif
+    sha256: 24e560b23b72bbdeaf37cb785fc2adc863a0f8dfb8979345fe062bb7d67cb8dc
+    mime: image/tiff
+    bytes: 4504958
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/24/e5/24e560b23b72bbdeaf37cb785fc2adc863a0f8dfb8979345fe062bb7d67cb8dc/preview-400.435f7a480a71.jpg
+        sha256: 435f7a480a710c7ad7a2e331e5b173c7da1dcef0a315cce07653e616c98efd2f
+        mime: image/jpeg
+        bytes: 23089
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

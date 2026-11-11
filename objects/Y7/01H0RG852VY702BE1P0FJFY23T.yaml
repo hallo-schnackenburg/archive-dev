@@ -1,0 +1,39 @@
+id: 01H0RG852VY702BE1P0FJFY23T
+type: image
+subtype: photo
+title: Ernst Sievers, Porträt
+description: Zu sehen sind Gärtnerei und Fachwerkhaus Marktstraße 4.
+location: Wustrow, Ladestraße
+origin:
+  name: August Eggers
+  type: person
+  location: Gorleben
+subjects:
+  - name: Beerdigung 1902
+    type: event
+  - name: Ilse Wiegmann
+    type: person
+  - name: Kindergarten
+    type: building
+parents:
+  - 01HQWPK8KVNS193A9510K7C6AQ
+files:
+  - role: main
+    original_name: P1595.jpg
+    path: files/f8/e4/f8e4d615d7da2e576747991d63e169e18cd0a14dc4a2e9f14b0c44c87cd04051/original.jpg
+    sha256: f8e4d615d7da2e576747991d63e169e18cd0a14dc4a2e9f14b0c44c87cd04051
+    mime: image/jpeg
+    bytes: 18881999
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/f8/e4/f8e4d615d7da2e576747991d63e169e18cd0a14dc4a2e9f14b0c44c87cd04051/preview-400.0637ea12a02b.jpg
+        sha256: 0637ea12a02b405de79b31bf8654bc32aea417460d735463784d4454c49fe4f9
+        mime: image/jpeg
+        bytes: 20775
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

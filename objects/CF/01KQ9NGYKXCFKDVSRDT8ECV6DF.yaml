@@ -1,0 +1,41 @@
+id: 01KQ9NGYKXCFKDVSRDT8ECV6DF
+type: image
+subtype: drawing
+title: Tanzsaal, Aquarell
+date: 193X
+location: Dömitz, Elbstraße
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro 1/237
+subjects:
+  - name: Kaufmannshaus
+    type: building
+  - name: Pretzier
+    type: place
+  - name: Hermann Lüders
+    type: person
+parents:
+  - 01JBGVAY167R5WYZSBZK5TM9S3
+files:
+  - role: main
+    original_name: scan_186.tif
+    path: files/a6/99/a699b451caa455d9370e7ac3d27ca4aa80d37dc811e6ee2c9d606e9923a9d012/original.tif
+    sha256: a699b451caa455d9370e7ac3d27ca4aa80d37dc811e6ee2c9d606e9923a9d012
+    mime: image/tiff
+    bytes: 8106913
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a6/99/a699b451caa455d9370e7ac3d27ca4aa80d37dc811e6ee2c9d606e9923a9d012/preview-400.4bac63a3c56e.jpg
+        sha256: 4bac63a3c56e4f19aeae3bb6b51f5d172b7006abb972208760776a0c3ee1e591
+        mime: image/jpeg
+        bytes: 68034
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

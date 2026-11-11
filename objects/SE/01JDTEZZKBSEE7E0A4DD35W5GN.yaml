@@ -1,0 +1,34 @@
+id: 01JDTEZZKBSEE7E0A4DD35W5GN
+type: image
+subtype: plan
+title: Bauplan Dorfteich 1958
+date: "1958"
+location: Wittenberge, Elbdeich
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 32/076
+parents:
+  - 01JN30QK7AA815KKZN3ATXX5V3
+files:
+  - role: main
+    original_name: scan_102.tif
+    path: files/3c/8b/3c8b32b5f6e16d796b57b1144e613360c3aa751af96c67fc88c4191e62427735/original.tif
+    sha256: 3c8b32b5f6e16d796b57b1144e613360c3aa751af96c67fc88c4191e62427735
+    mime: image/tiff
+    bytes: 23619706
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3c/8b/3c8b32b5f6e16d796b57b1144e613360c3aa751af96c67fc88c4191e62427735/preview-400.f4dfa5858502.jpg
+        sha256: f4dfa58585028b486181594f8d511351931ce2e3919551f90523c494ee61bb02
+        mime: image/jpeg
+        bytes: 39468
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

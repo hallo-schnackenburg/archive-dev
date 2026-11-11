@@ -1,0 +1,47 @@
+id: 01KH5EX3D21W0DNEGKRD85GP6J
+type: image
+subtype: photo
+title: Anni Matthies vor dem Pfarrhaus
+description: Aufnahme von Käthe Wegner.
+date: 1913/1923
+location: Hitzacker, Storchennest
+geocode:
+  lat: 52.994
+  lon: 11.4665
+  precision: town
+  source: osm
+origin:
+  name: Berta Heuer
+  type: person
+  location: Lüchow
+owner:
+  name: Heinrich Fricke
+  type: person
+  note: Nachlass
+subjects:
+  - name: Feuerwehrübung 1913
+    type: event
+  - name: Straßenfest 1913
+    type: event
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: scan_569.tif
+    path: files/13/78/1378d8e4e43e7554d7c2393bc734a40f24c0a2d8727d5e4b800bd8684ac3afea/original.tif
+    sha256: 1378d8e4e43e7554d7c2393bc734a40f24c0a2d8727d5e4b800bd8684ac3afea
+    mime: image/tiff
+    bytes: 26697897
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/13/78/1378d8e4e43e7554d7c2393bc734a40f24c0a2d8727d5e4b800bd8684ac3afea/preview-400.746c270aebc8.jpg
+        sha256: 746c270aebc8b8fca6a43e4a80e1d41eb7a2c90f33d1c1eb90791a2a43a41d31
+        mime: image/jpeg
+        bytes: 45099
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

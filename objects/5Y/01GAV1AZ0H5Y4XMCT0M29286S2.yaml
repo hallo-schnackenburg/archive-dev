@@ -1,0 +1,51 @@
+id: 01GAV1AZ0H5Y4XMCT0M29286S2
+type: document
+subtype: note
+title: Kassenzettel Backhaus
+description: Zettel, Bleistift.
+date: 1878-02-28
+location: Havelberg, Bäckerei Lüders
+geocode:
+  lat: 53.0897
+  lon: 11.6184
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Voss
+  type: person
+  location: Arendsee
+language: de
+original:
+  holder:
+    name: Familie Brandt
+    type: person
+    location: Lüchow
+  reference: Slg 19/198
+owner:
+  name: Gustav Schulz
+  type: person
+  note: Nachlass
+subjects:
+  - name: Heuberge
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_9286s2_001.tif
+    path: files/e6/7b/e67b86171f29cb6ed01a8af5bf6c77197356d310bdf048bb025c663300c8ca0f/original.tif
+    sha256: e67b86171f29cb6ed01a8af5bf6c77197356d310bdf048bb025c663300c8ca0f
+    mime: image/tiff
+    bytes: 2735491
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e6/7b/e67b86171f29cb6ed01a8af5bf6c77197356d310bdf048bb025c663300c8ca0f/preview-400.2a4fb21240aa.jpg
+        sha256: 2a4fb21240aa74b7200274d986fffa94a79e771d8b535ce78067b58386837e13
+        mime: image/jpeg
+        bytes: 71646
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

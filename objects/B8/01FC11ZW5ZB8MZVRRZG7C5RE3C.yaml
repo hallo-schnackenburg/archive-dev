@@ -1,0 +1,34 @@
+id: 01FC11ZW5ZB8MZVRRZG7C5RE3C
+type: image
+subtype: plan
+title: Katasterblatt Nitschke
+description: Tusche auf Transparentpapier.
+date: "1930"
+location: Gorleben, Storchennest
+origin:
+  name: Hans Brandt
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Glockenweihe 1930
+    type: event
+files:
+  - role: main
+    original_name: scan_778.tif
+    path: files/f9/4b/f94b09d3fa1fbc5d38af3e429b25eb1991b3680079b9598504752d94096a5e97/original.tif
+    sha256: f94b09d3fa1fbc5d38af3e429b25eb1991b3680079b9598504752d94096a5e97
+    mime: image/tiff
+    bytes: 10644971
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f9/4b/f94b09d3fa1fbc5d38af3e429b25eb1991b3680079b9598504752d94096a5e97/preview-400.5a0ae3c09876.jpg
+        sha256: 5a0ae3c09876445bd2040fbe9f8dde9cd1b0631a80b891b518d215a5d66e8943
+        mime: image/jpeg
+        bytes: 54489
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

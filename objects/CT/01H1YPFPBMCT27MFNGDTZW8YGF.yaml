@@ -1,0 +1,43 @@
+id: 01H1YPFPBMCT27MFNGDTZW8YGF
+type: image
+subtype: drawing
+title: Federzeichnung Kaufmannshaus, Havelberg
+description: Federzeichnung, laviert.
+date: 1885-09-01
+location: Dömitz, Torhaus
+geocode:
+  lat: 53.0687
+  lon: 11.5936
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Meyer
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Mühle
+    type: building
+  - name: Kindergartenfest 1885
+    type: event
+parents:
+  - 01J5DJ7A6MS3KE1Z0TKMZBQRP7
+files:
+  - role: main
+    original_name: scan_280.tif
+    path: files/d7/f8/d7f83fe7ef53f0f855088a3f8c8561422cb6964fd557b821bdb1a3dd87e8a107/original.tif
+    sha256: d7f83fe7ef53f0f855088a3f8c8561422cb6964fd557b821bdb1a3dd87e8a107
+    mime: image/tiff
+    bytes: 18853831
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d7/f8/d7f83fe7ef53f0f855088a3f8c8561422cb6964fd557b821bdb1a3dd87e8a107/preview-400.ef4b815f2ee7.jpg
+        sha256: ef4b815f2ee7f0bdfd7339ea12d92b2f1d91bee97e0f4fd97717e402020e36cc
+        mime: image/jpeg
+        bytes: 45604
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

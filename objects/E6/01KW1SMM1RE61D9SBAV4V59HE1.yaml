@@ -1,0 +1,40 @@
+id: 01KW1SMM1RE61D9SBAV4V59HE1
+type: image
+subtype: print
+title: Postkarte Zadrau, Rathaus
+description: Lithographie, Rand beschnitten.
+date: "1736"
+location: Bömenzien, Burgstraße
+origin:
+  name: Hedwig Rieke
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 12/024
+subjects:
+  - name: Wustrow
+    type: place
+files:
+  - role: main
+    original_name: scan_092.tif
+    path: files/53/f0/53f057fba1dfe9057967d8c3f6ec86bd1cac5bff347f59603525fdbcdfe8c952/original.tif
+    sha256: 53f057fba1dfe9057967d8c3f6ec86bd1cac5bff347f59603525fdbcdfe8c952
+    mime: image/tiff
+    bytes: 2558674
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/53/f0/53f057fba1dfe9057967d8c3f6ec86bd1cac5bff347f59603525fdbcdfe8c952/preview-400.bc66c044c9cd.jpg
+        sha256: bc66c044c9cdc5910d52413a73cce23234f7f65a65dbe31f79ec139175deddd3
+        mime: image/jpeg
+        bytes: 60838
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

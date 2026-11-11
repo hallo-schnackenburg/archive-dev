@@ -1,0 +1,44 @@
+id: 01KG1602Q11YQRV1MSSGCPSCZH
+type: image
+subtype: plan
+title: Bauplan Elbdeich 1906
+description: Maßstab 1:250.
+date: 1906-09-17
+location: Seedorf, Kegelbahn
+origin:
+  name: Emma Lenz
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 7/338
+subjects:
+  - name: Elbdeich
+    type: building
+  - name: Einweihung 1906
+    type: event
+  - name: Osterfeuer 1906
+    type: event
+files:
+  - role: main
+    original_name: scan_329.tif
+    path: files/34/15/3415ffe88c2b12630b0efb479cf873e7ba5f80576a59a1a6890f331cf5ea2b91/original.tif
+    sha256: 3415ffe88c2b12630b0efb479cf873e7ba5f80576a59a1a6890f331cf5ea2b91
+    mime: image/tiff
+    bytes: 20183190
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/34/15/3415ffe88c2b12630b0efb479cf873e7ba5f80576a59a1a6890f331cf5ea2b91/preview-400.eaacc867b8e4.jpg
+        sha256: eaacc867b8e40aea39af691a220dd8cc0a7e72fd3bcf5333809c2a7dd8206ecb
+        mime: image/jpeg
+        bytes: 26505
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

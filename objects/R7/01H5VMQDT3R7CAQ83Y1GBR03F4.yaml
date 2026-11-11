@@ -1,0 +1,38 @@
+id: 01H5VMQDT3R7CAQ83Y1GBR03F4
+type: image
+subtype: plan
+title: Bauplan Speicher 1773
+description: Maßstab 1:1000.
+date: 1773-09-07
+location: Havelberg, Gartenstraße
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok 24/198
+subjects:
+  - name: Glockenweihe 1773
+    type: event
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: scan_263.tif
+    path: files/fe/4f/fe4f96f6f6817c117d91dfe95f442eb53fe62186fd6ea5e98eabd45f17a8f59a/original.tif
+    sha256: fe4f96f6f6817c117d91dfe95f442eb53fe62186fd6ea5e98eabd45f17a8f59a
+    mime: image/tiff
+    bytes: 2039359
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fe/4f/fe4f96f6f6817c117d91dfe95f442eb53fe62186fd6ea5e98eabd45f17a8f59a/preview-400.10f5cc13b713.jpg
+        sha256: 10f5cc13b7131899ac884359a87ab369aa93e39215cc42381b1cd6856915b382
+        mime: image/jpeg
+        bytes: 46020
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

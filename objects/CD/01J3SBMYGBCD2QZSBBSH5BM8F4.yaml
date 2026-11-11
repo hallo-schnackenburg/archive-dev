@@ -1,0 +1,31 @@
+id: 01J3SBMYGBCD2QZSBBSH5BM8F4
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Brückenreparatur 1892
+description: Anwesend waren 13 Personen.
+date: 1892-05-02
+location: Kapern, Gartenstraße
+geocode:
+  lat: 53.0879
+  lon: 11.5364
+  precision: street
+  source: osm
+origin:
+  name: Verbandsversammlung Rüterberg
+  type: business
+  location: Holtorf
+language: de
+subjects:
+  - name: Wootz
+    type: place
+  - name: Dieter Lemke
+    type: person
+parents:
+  - 01HETPQRM52KXM7ZS582C2ECF3
+storage: external
+external:
+  - type: platform
+    site: Deutsche Digitale Bibliothek
+    uri: https://deutsche-digitale-bibliothek.example.org/objekt/136465
+    note: nur Findbuch
+    retrieved: 2026-03-08

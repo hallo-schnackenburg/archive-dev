@@ -1,0 +1,43 @@
+id: 01EVD9QWQD6FW7SGP7J3M46E86
+type: image
+subtype: photo
+title: Kirmes 1960
+date: 1960/1967
+location: Restorf, Tanzsaal
+geocode:
+  lat: 52.9823
+  lon: 11.6821
+  precision: street
+  source: osm
+origin:
+  name: Gerda Plate
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 36/004
+parents:
+  - 01JP5EBH2JPHYSX1ABKRA99Q8F
+files:
+  - role: main
+    original_name: IMG_2154.jpg
+    path: files/84/57/8457717ed59df88aab5fc4ac9f99b850e36bcfa42dc3b5292fd15eba9d1f876c/original.jpg
+    sha256: 8457717ed59df88aab5fc4ac9f99b850e36bcfa42dc3b5292fd15eba9d1f876c
+    mime: image/jpeg
+    bytes: 6701476
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/84/57/8457717ed59df88aab5fc4ac9f99b850e36bcfa42dc3b5292fd15eba9d1f876c/preview-400.2733c3f8fb62.jpg
+        sha256: 2733c3f8fb62871d13e13724c0590fdacc86ae37fad08a7c71f2c4a8a99bcae9
+        mime: image/jpeg
+        bytes: 43626
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

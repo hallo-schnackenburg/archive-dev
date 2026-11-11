@@ -1,0 +1,39 @@
+id: 01FGWY0RS7CY79EZ50VZHY41NJ
+type: image
+subtype: print
+title: Ansichtskarte Kirchstraße, Gorleben
+description: Postkarte, gelaufen 1932.
+date: 1725-02-28
+location: Seedorf, Schulstraße
+geocode:
+  lat: 53.0943
+  lon: 11.5505
+  precision: street
+  source: osm
+origin:
+  name: Heinrich Brandt
+  type: person
+  location: Kapern
+subjects:
+  - name: Hafen
+    type: building
+files:
+  - role: main
+    original_name: scan_620.tif
+    path: files/fa/4b/fa4bca7a3ccaf152a07f26d09a84886b0c0ab1a898af2a1b2c35afa305eaa531/original.tif
+    sha256: fa4bca7a3ccaf152a07f26d09a84886b0c0ab1a898af2a1b2c35afa305eaa531
+    mime: image/tiff
+    bytes: 11405634
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fa/4b/fa4bca7a3ccaf152a07f26d09a84886b0c0ab1a898af2a1b2c35afa305eaa531/preview-400.0b743d2f925f.jpg
+        sha256: 0b743d2f925fc074aa689f80eb15e74b8127081fa3abfdea480471522fdcbe3c
+        mime: image/jpeg
+        bytes: 61230
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

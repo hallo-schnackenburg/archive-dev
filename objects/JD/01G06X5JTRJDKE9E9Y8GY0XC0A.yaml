@@ -1,0 +1,36 @@
+id: 01G06X5JTRJDKE9E9Y8GY0XC0A
+type: image
+subtype: print
+title: Gruß aus Lenzen, Gorleben
+date: "1886"
+location: Lanz, Heuberge
+origin:
+  name: Irmgard Heuer
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan 39/336
+files:
+  - role: main
+    original_name: scan_491.tif
+    path: files/98/a7/98a7d0f608a6e38d077b85a42157b4d58683a08b22a0f780477bdd315d8ad555/original.tif
+    sha256: 98a7d0f608a6e38d077b85a42157b4d58683a08b22a0f780477bdd315d8ad555
+    mime: image/tiff
+    bytes: 7560129
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/98/a7/98a7d0f608a6e38d077b85a42157b4d58683a08b22a0f780477bdd315d8ad555/preview-400.aeb3a8026a04.jpg
+        sha256: aeb3a8026a04701dc080aa0d641d06cd824b9fbd5866bcbed20beb44342104df
+        mime: image/jpeg
+        bytes: 73801
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01FN1GX98A9B8W0W401JGWFCTW
+type: image
+subtype: plan
+title: Deichplan Wustrow bis Bömenzien
+description: Tusche auf Transparentpapier.
+date: "1884"
+location: Zadrau, Kegelbahn
+origin:
+  name: Heinrich Brandt
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Viehmarkt 1884
+    type: event
+  - name: Hafen
+    type: building
+parents:
+  - 01HG6JP5WA4TG6RE22EWVXDYF0
+files:
+  - role: main
+    original_name: scan_013.tif
+    path: files/d9/5e/d95e3f3e5ee224fb9e9a0d58cba6edf4188970a4ca88e3f037efab8e6d1899cb/original.tif
+    sha256: d95e3f3e5ee224fb9e9a0d58cba6edf4188970a4ca88e3f037efab8e6d1899cb
+    mime: image/tiff
+    bytes: 13437831
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d9/5e/d95e3f3e5ee224fb9e9a0d58cba6edf4188970a4ca88e3f037efab8e6d1899cb/preview-400.b6b38a135404.jpg
+        sha256: b6b38a135404c1c250c4021984fdef5514d0542b58dad306d53a1f9ee6e8f473
+        mime: image/jpeg
+        bytes: 65850
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

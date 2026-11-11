@@ -1,0 +1,92 @@
+id: 01KMRQVDXDM8EGSAWCKCM3BS3D
+type: document
+subtype: letter
+title: Feldpostbrief von Emma Voss
+date: 187X
+location: Gartow, Marktstraße
+geocode:
+  lat: 52.935
+  lon: 11.5597
+  precision: exact
+  source: osm
+origin:
+  name: Gerda Bruns
+  type: person
+  location: Brünkendorf
+recipient: Hermann Garms
+language: de
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Wittenberge
+  reference: F 28/341
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Emma Wiegmann
+    type: person
+parents:
+  - 01J8GJHXRZG3WKWHP1C2HPX9G9
+  - 01JRGX3XFSMSVNN02PC0NNSHZP
+files:
+  - role: page
+    num: 1
+    original_name: letter_m3bs3d_001.tif
+    path: files/9c/ee/9ceef3c31a7975656a0a4507b1a6fa07015d3e4a83413e0f3cb354eb05ab8b90/original.tif
+    sha256: 9ceef3c31a7975656a0a4507b1a6fa07015d3e4a83413e0f3cb354eb05ab8b90
+    mime: image/tiff
+    bytes: 24802344
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9c/ee/9ceef3c31a7975656a0a4507b1a6fa07015d3e4a83413e0f3cb354eb05ab8b90/preview-400.b041e46eae90.jpg
+        sha256: b041e46eae9081fc7a40cf95c0f8e24cf2dcf645009ee5d933d50793618a9ff7
+        mime: image/jpeg
+        bytes: 44062
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_m3bs3d_002.tif
+    path: files/f9/3d/f93d81bee3e50cb83291f9847a83dfa15fc64f31ee4a6469ef7e39a64a172979/original.tif
+    sha256: f93d81bee3e50cb83291f9847a83dfa15fc64f31ee4a6469ef7e39a64a172979
+    mime: image/tiff
+    bytes: 1805409
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f9/3d/f93d81bee3e50cb83291f9847a83dfa15fc64f31ee4a6469ef7e39a64a172979/preview-400.9a225b2495bc.jpg
+        sha256: 9a225b2495bccbf364f01d30fe303a9a3ee6e6468a922f4188f6b3cf60f9964e
+        mime: image/jpeg
+        bytes: 23448
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_m3bs3d_003.tif
+    path: files/b7/46/b74644c8d7210bc813f00c96b288a3dec54a2e806dacf3017a22497c5547ecca/original.tif
+    sha256: b74644c8d7210bc813f00c96b288a3dec54a2e806dacf3017a22497c5547ecca
+    mime: image/tiff
+    bytes: 9119935
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b7/46/b74644c8d7210bc813f00c96b288a3dec54a2e806dacf3017a22497c5547ecca/preview-400.79af1688e3d4.jpg
+        sha256: 79af1688e3d40adaa8de0075bf1c51156926a0ff0fcefa0b6bfbc1e98b65b338
+        mime: image/jpeg
+        bytes: 44968
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

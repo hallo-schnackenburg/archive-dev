@@ -1,0 +1,43 @@
+id: 01F8RVEEXMCJG8GH75X6PTJGN1
+type: image
+subtype: photo
+title: Gutshaus in Dömitz
+location: Salzwedel, Bäckerei Lüders
+origin:
+  name: Karl Bohlmann
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Scheune
+    type: building
+  - name: Maifeier 1894
+    type: event
+  - name: Brückeneinweihung 1894
+    type: event
+parents:
+  - 01G533XGBTT96G9NVNFMP1W6YH
+files:
+  - role: main
+    original_name: foto_1041.jpg
+    path: files/fe/ce/fece683063c2a4d6b4317bba77fd42da4a8c509a9a0c8b30e139dba57332d56d/original.jpg
+    sha256: fece683063c2a4d6b4317bba77fd42da4a8c509a9a0c8b30e139dba57332d56d
+    mime: image/jpeg
+    bytes: 2484954
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/fe/ce/fece683063c2a4d6b4317bba77fd42da4a8c509a9a0c8b30e139dba57332d56d/preview-400.da68a0f3a507.jpg
+        sha256: da68a0f3a507097f6a9b25d78cf1ffb4d901cbbe09b93104a0326851a46542ab
+        mime: image/jpeg
+        bytes: 67798
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01FNWFF1XPXTVB0PFKC2QQSR31
+type: image
+subtype: photo
+title: Karl Garms vor dem Pumpenhaus
+date: 1971-07-25
+location: Dömitz, Ladestraße
+origin:
+  name: Karl Hennings
+  type: person
+  location: Holtorf
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Dömitz
+    type: place
+files:
+  - role: main
+    original_name: P9151.jpg
+    path: files/24/01/24010b27ef411886401a1eb6f09f9a40d0a6b452e3bf46071a2f6b75891a3b9b/original.jpg
+    sha256: 24010b27ef411886401a1eb6f09f9a40d0a6b452e3bf46071a2f6b75891a3b9b
+    mime: image/jpeg
+    bytes: 5301689
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/24/01/24010b27ef411886401a1eb6f09f9a40d0a6b452e3bf46071a2f6b75891a3b9b/preview-400.8d821319aa26.jpg
+        sha256: 8d821319aa268bb724d6fe8e4864981265e60d5479fc314fcd8e57f6e591bfa8
+        mime: image/jpeg
+        bytes: 56130
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

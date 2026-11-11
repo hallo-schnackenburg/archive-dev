@@ -1,0 +1,39 @@
+id: 01JCTYK3YE3CP8N3259A5DWTEX
+type: image
+subtype: photo
+title: Pfarrhaus in Laase
+description: Farbfoto, leicht verblasst.
+date: "1890"
+origin:
+  name: August Rieke
+  type: person
+  location: Havelberg
+subjects:
+  - name: Hans Rohde
+    type: person
+  - name: Zadrau
+    type: place
+  - name: Zadrau
+    type: place
+parents:
+  - 01KRNVBSTXBJR5NRDE3HAC7HXQ
+files:
+  - role: main
+    original_name: DSC9230.jpg
+    path: files/e8/4c/e84ce58f818ce6d987c85e01420823330c2c8048839f386fc1aeb38d18cc374a/original.jpg
+    sha256: e84ce58f818ce6d987c85e01420823330c2c8048839f386fc1aeb38d18cc374a
+    mime: image/jpeg
+    bytes: 15070880
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e8/4c/e84ce58f818ce6d987c85e01420823330c2c8048839f386fc1aeb38d18cc374a/preview-400.73b715c8b270.jpg
+        sha256: 73b715c8b2703be26cdda8411967253e11aea8d3ad1c35e8312999a5a9a7c5bd
+        mime: image/jpeg
+        bytes: 55249
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

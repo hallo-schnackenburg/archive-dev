@@ -1,0 +1,36 @@
+id: 01KPMW3AG0Z0PMBD8GV20J5SPK
+type: image
+subtype: drawing
+title: Dorfladen, Aquarell, Pretzier
+description: Bleistift auf Papier.
+date: "1846"
+location: Gollensdorf, Bäckerei Lüders
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Brünkendorf
+  reference: F/Album 7/107
+subjects:
+  - name: Gutshaus
+    type: building
+files:
+  - role: main
+    original_name: scan_891.tif
+    path: files/94/8c/948ce6dbed799d734295d5ec6395f8daf5b664290098c7cf4623fd8691f98cfc/original.tif
+    sha256: 948ce6dbed799d734295d5ec6395f8daf5b664290098c7cf4623fd8691f98cfc
+    mime: image/tiff
+    bytes: 1955358
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/94/8c/948ce6dbed799d734295d5ec6395f8daf5b664290098c7cf4623fd8691f98cfc/preview-400.ca28b38e5117.jpg
+        sha256: ca28b38e51173dd2cfd68ccc4d5f77bcb97f751729d9c313b1fa1b56a7d7bcc0
+        mime: image/jpeg
+        bytes: 62664
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

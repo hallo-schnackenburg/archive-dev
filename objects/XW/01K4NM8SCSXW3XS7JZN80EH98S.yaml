@@ -1,0 +1,29 @@
+id: 01K4NM8SCSXW3XS7JZN80EH98S
+type: document
+subtype: brochure
+title: Festschrift Heimatverein, 48 Jahre
+description: Gedruckt in Lanz, 55 Seiten.
+location: Gollensdorf, Zollamt
+geocode:
+  lat: 53.0795
+  lon: 11.6412
+  precision: region
+  source: osm
+origin:
+  name: Frieda Albers
+  type: person
+  location: Pretzier
+language: de
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Kirche St. Johannis
+    type: building
+storage: external
+external:
+  - type: archive
+    site: Wendlandarchiv
+    uri: https://wendlandarchiv.example.org/objekt/922008
+    reference: Hann. 258 Nr. 2829
+    note: nur Findbuch
+    retrieved: 2026-08-10

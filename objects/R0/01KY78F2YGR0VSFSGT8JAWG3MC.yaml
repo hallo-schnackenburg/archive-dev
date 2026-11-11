@@ -1,0 +1,62 @@
+id: 01KY78F2YGR0VSFSGT8JAWG3MC
+type: document
+subtype: note
+title: Rechnung Ahrens, Grenzturm
+date: 1933-03-13
+origin:
+  name: Albert Behrens
+  type: person
+  location: Laase
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 10/057
+subjects:
+  - name: Försterei
+    type: building
+  - name: Brünkendorf
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_awg3mc_001.tif
+    path: files/1c/94/1c940c0363b0d2f92ba2f5dc9454c78250f8394a01e30c70e4c4fa4f7da2554c/original.tif
+    sha256: 1c940c0363b0d2f92ba2f5dc9454c78250f8394a01e30c70e4c4fa4f7da2554c
+    mime: image/tiff
+    bytes: 21330910
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/94/1c940c0363b0d2f92ba2f5dc9454c78250f8394a01e30c70e4c4fa4f7da2554c/preview-400.2a4aaa70653d.jpg
+        sha256: 2a4aaa70653daf810044866e54c0dea87bc149c8aac8f0977644f8b53a9db550
+        mime: image/jpeg
+        bytes: 81652
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_awg3mc_002.tif
+    path: files/47/41/47413156218824e3b379b9bcd549d6ed69cc79c02c3d0c0b4a71e23254c8896d/original.tif
+    sha256: 47413156218824e3b379b9bcd549d6ed69cc79c02c3d0c0b4a71e23254c8896d
+    mime: image/tiff
+    bytes: 27532953
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/47/41/47413156218824e3b379b9bcd549d6ed69cc79c02c3d0c0b4a71e23254c8896d/preview-400.5e3757949b4c.jpg
+        sha256: 5e3757949b4c0842e781557f7c16798e73d56d065d6954e6bceca05bf00c3a55
+        mime: image/jpeg
+        bytes: 78850
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

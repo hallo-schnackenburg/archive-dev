@@ -1,0 +1,44 @@
+id: 01KQN1B773PX0Y1S56XT71BTPW
+type: image
+subtype: photo
+title: Blick vom Gemeindehaus auf das Mühle
+date: "1898"
+origin:
+  name: Elfriede Lemke
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 14/150
+subjects:
+  - name: Otto Lemke
+    type: person
+  - name: Bäckerei Lüders
+    type: building
+  - name: Lüchow
+    type: place
+parents:
+  - 01KDD6TJHRWYW5BFBZ7TKQREBJ
+files:
+  - role: main
+    original_name: DSC8259.jpg
+    path: files/79/0b/790b2b598a6bc812e8949d33e71731e03d6b27348e93e28aae1f32738a4014d8/original.jpg
+    sha256: 790b2b598a6bc812e8949d33e71731e03d6b27348e93e28aae1f32738a4014d8
+    mime: image/jpeg
+    bytes: 6772121
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/79/0b/790b2b598a6bc812e8949d33e71731e03d6b27348e93e28aae1f32738a4014d8/preview-400.b3265706aa9e.jpg
+        sha256: b3265706aa9e709cebd24f53ba867f0698cc9bb5b346344781c49ce44ba8d029
+        mime: image/jpeg
+        bytes: 52748
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

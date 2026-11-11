@@ -1,0 +1,38 @@
+id: 01FECYZTM299Q5Y3Q6QNRS80NQ
+type: image
+subtype: plan
+title: Deichplan Wootz bis Hitzacker
+location: Pretzier, Hafenstraße
+geocode:
+  lat: 53.0127
+  lon: 11.514
+  precision: town
+  source: osm
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+  - name: Sturmschaden 1998
+    type: event
+  - name: Viehmarkt 1998
+    type: event
+files:
+  - role: main
+    original_name: scan_385.tif
+    path: files/46/b9/46b9754e77ef44162b7fb8bb6c6bdd71cb6203e3796ddb156c71e83d56329e2f/original.tif
+    sha256: 46b9754e77ef44162b7fb8bb6c6bdd71cb6203e3796ddb156c71e83d56329e2f
+    mime: image/tiff
+    bytes: 7840309
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/46/b9/46b9754e77ef44162b7fb8bb6c6bdd71cb6203e3796ddb156c71e83d56329e2f/preview-400.3284008a15c4.jpg
+        sha256: 3284008a15c4e348e1c78731d41074067ebe9f30a7c49d7bb154adcaa4eed592
+        mime: image/jpeg
+        bytes: 30565
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

@@ -1,0 +1,42 @@
+id: 01HRMH5907XXHSAFGER6Y2PWST
+type: document
+subtype: letter
+title: Zeugnis für Hermann Sievers
+description: Betrifft Straßenbeleuchtung.
+date: 1897-03-07
+location: Rüterberg, Gartenstraße
+geocode:
+  lat: 53.0102
+  lon: 11.6729
+  precision: exact
+  source: osm
+recipient: Brigitte Jeß
+language: de
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Wustrow
+    type: place
+parents:
+  - 01F9YMN9D3JJVF02Y68XA8TP10
+files:
+  - role: page
+    num: 1
+    original_name: letter_y2pwst_001.tif
+    path: files/e3/25/e3256b0f6c7bd03587a5d75a88850b5010da1ebf014a7d28b40384e8e9f1176c/original.tif
+    sha256: e3256b0f6c7bd03587a5d75a88850b5010da1ebf014a7d28b40384e8e9f1176c
+    mime: image/tiff
+    bytes: 10401170
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e3/25/e3256b0f6c7bd03587a5d75a88850b5010da1ebf014a7d28b40384e8e9f1176c/preview-400.2bd921de754d.jpg
+        sha256: 2bd921de754d549161811facee951de57a64c3a9303af0288fba613a8c66c073
+        mime: image/jpeg
+        bytes: 34068
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

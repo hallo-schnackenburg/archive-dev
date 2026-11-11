@@ -1,0 +1,39 @@
+id: 01KFFH0FZ0HSHJJ6D2SYZDD4XR
+type: image
+subtype: drawing
+title: Kriegerdenkmal, Aquarell
+date: "1843"
+location: Kapern, Poststelle
+origin:
+  name: Rudolf Wegner
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan/Album 13/018
+parents:
+  - 01JJ7ZAGDW4T3Y162XJ5VXZV21
+  - 01GF7F3QMSJY20DYHT7HM8AFKR
+files:
+  - role: main
+    original_name: scan_368.tif
+    path: files/76/df/76dfa329b3fd1de616cdaafd57b4ae9dd0d1c89c44ea5d258ecde974c4f35234/original.tif
+    sha256: 76dfa329b3fd1de616cdaafd57b4ae9dd0d1c89c44ea5d258ecde974c4f35234
+    mime: image/tiff
+    bytes: 27667475
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/76/df/76dfa329b3fd1de616cdaafd57b4ae9dd0d1c89c44ea5d258ecde974c4f35234/preview-400.d36d11b552b6.jpg
+        sha256: d36d11b552b6de0870afd83cd0d5245a6df097b7613b9ba3cbd8b6f579c2582f
+        mime: image/jpeg
+        bytes: 47046
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

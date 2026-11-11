@@ -1,0 +1,45 @@
+id: 01H6APTCNR8AEY7X4QGWF9XBB6
+type: image
+subtype: plan
+title: Bauplan Tischlerei Bruns 1809
+description: Tusche auf Transparentpapier.
+date: "1809"
+location: Nienwalde, Speicher
+origin:
+  name: Fritz Meyer
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Familie Schwarz
+    type: person
+    location: Seedorf
+  reference: Br/Album 2/096
+  note: Regal 1
+subjects:
+  - name: Käthe Wegner
+    type: person
+  - name: Emma Voss
+    type: person
+parents:
+  - 01KEEQTF18ZM4ZAMFBC1AXYQ8V
+files:
+  - role: main
+    original_name: scan_003.tif
+    path: files/b4/d4/b4d4ce06546a3568875465af3ba94bf29b3c79233561ec74479ad4e8d49137a7/original.tif
+    sha256: b4d4ce06546a3568875465af3ba94bf29b3c79233561ec74479ad4e8d49137a7
+    mime: image/tiff
+    bytes: 27546386
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/d4/b4d4ce06546a3568875465af3ba94bf29b3c79233561ec74479ad4e8d49137a7/preview-400.bb3140dd4b03.jpg
+        sha256: bb3140dd4b0336285b059c3d282be6cc92af0b120c9b6e51ac24fb6a1398b001
+        mime: image/jpeg
+        bytes: 22253
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,50 @@
+id: 01KTK542EWR5A2H08X76DAR0EC
+type: image
+subtype: print
+title: "Kupferstich: Schnackenburg von der Elbseite, Laase"
+description: Lithographie, Rand beschnitten.
+date: "1747"
+location: Seedorf, Gartenstraße
+geocode:
+  lat: 52.9823
+  lon: 11.646
+  precision: region
+  source: osm
+origin:
+  name: Erika Voss
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 24/003
+subjects:
+  - name: Fastnacht 1747
+    type: event
+  - name: Speicher
+    type: building
+  - name: Einschulung 1747
+    type: event
+files:
+  - role: main
+    original_name: scan_667.tif
+    path: files/04/d1/04d11f819e492d94fb6f0182ee60961dc3455b89ea7ab92fc0f9f00d2aa79940/original.tif
+    sha256: 04d11f819e492d94fb6f0182ee60961dc3455b89ea7ab92fc0f9f00d2aa79940
+    mime: image/tiff
+    bytes: 24935696
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/d1/04d11f819e492d94fb6f0182ee60961dc3455b89ea7ab92fc0f9f00d2aa79940/preview-400.1e6a62561b5d.jpg
+        sha256: 1e6a62561b5d0394b52124f9bf8446222c9c3b814c419cd0e51a9c55638b9ba6
+        mime: image/jpeg
+        bytes: 64970
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Doppelt vorhanden?

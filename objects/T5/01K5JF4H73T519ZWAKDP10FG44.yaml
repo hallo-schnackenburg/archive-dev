@@ -1,0 +1,46 @@
+id: 01K5JF4H73T519ZWAKDP10FG44
+type: image
+subtype: plan
+title: Bauplan Elbdeich 1846
+date: 1846~
+location: Brünkendorf, Lange Straße
+origin:
+  name: Paul Meyer
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Familie Garms
+    type: person
+    location: Bömenzien
+  reference: Br/Mappe 6/091
+  note: Bücherregal links
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Wittenberge
+    type: place
+  - name: Kartoffelernte 1846
+    type: event
+parents:
+  - 01JQT54EAMY9FPSYNK9W7RJSV4
+files:
+  - role: main
+    original_name: scan_420.tif
+    path: files/ce/27/ce27960d03b843a961846b64c8d64f931f4786a5a3f539b89ce672df59889b4e/original.tif
+    sha256: ce27960d03b843a961846b64c8d64f931f4786a5a3f539b89ce672df59889b4e
+    mime: image/tiff
+    bytes: 7449014
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ce/27/ce27960d03b843a961846b64c8d64f931f4786a5a3f539b89ce672df59889b4e/preview-400.6afd420fb582.jpg
+        sha256: 6afd420fb582203b87101f0478487e1398a2ccdedc10392c5c68bc88396ff6b4
+        mime: image/jpeg
+        bytes: 71923
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

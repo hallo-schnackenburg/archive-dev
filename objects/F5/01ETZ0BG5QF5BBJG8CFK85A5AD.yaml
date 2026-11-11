@@ -1,0 +1,47 @@
+id: 01ETZ0BG5QF5BBJG8CFK85A5AD
+type: image
+subtype: plan
+title: Bauplan Molkerei 1762
+description: Tusche auf Transparentpapier.
+date: 1762-08-10
+location: Salzwedel, Scheune
+geocode:
+  lat: 52.9054
+  lon: 11.6304
+  precision: town
+  source: osm
+origin:
+  name: Lotte Rieke
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Fotos 26/387
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Gärtnerei
+    type: building
+files:
+  - role: main
+    original_name: scan_222.tif
+    path: files/f9/a3/f9a3a3d3da2a4d26bf4f1118e8a6cf9b059a51d556abce889b300fc7032581c4/original.tif
+    sha256: f9a3a3d3da2a4d26bf4f1118e8a6cf9b059a51d556abce889b300fc7032581c4
+    mime: image/tiff
+    bytes: 24155712
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f9/a3/f9a3a3d3da2a4d26bf4f1118e8a6cf9b059a51d556abce889b300fc7032581c4/preview-400.8d68bd09e998.jpg
+        sha256: 8d68bd09e998e5d0991644ef371e0c5412f0128b910d9cab6e2c6c74da942085
+        mime: image/jpeg
+        bytes: 55482
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

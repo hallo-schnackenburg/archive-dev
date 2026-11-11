@@ -1,0 +1,37 @@
+id: 01JFSEA6EG6SMHA4NSQET3JW4A
+type: image
+subtype: plan
+title: Grundriss Kegelbahn, Lenzen
+description: Tusche auf Transparentpapier.
+date: "1868"
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01G1ZMXCSZWR93Z3JYH6CR645Y
+files:
+  - role: main
+    original_name: scan_206.tif
+    path: files/a1/3f/a13fa1d8dfeafc11d8e96efd503a3dc20415c03087d2db6e3ffe07432ea654f8/original.tif
+    sha256: a13fa1d8dfeafc11d8e96efd503a3dc20415c03087d2db6e3ffe07432ea654f8
+    mime: image/tiff
+    bytes: 24170692
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a1/3f/a13fa1d8dfeafc11d8e96efd503a3dc20415c03087d2db6e3ffe07432ea654f8/preview-400.d34dafc828c8.jpg
+        sha256: d34dafc828c8cb896126605738ab10182ed2bac2f46090bd6e7da67cdd30c491
+        mime: image/jpeg
+        bytes: 68030
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

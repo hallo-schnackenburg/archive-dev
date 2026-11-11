@@ -1,0 +1,41 @@
+id: 01HGBQFMTXACAV397YF6BBSSX8
+type: image
+subtype: photo
+title: Konfirmation der Heimatverein
+description: Farbfoto, leicht verblasst.
+date: 1898-05
+origin:
+  name: Friedrich Ahrens
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Familie Lüders
+    type: person
+    location: Lanz
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v89777
+subjects:
+  - name: Hochwasser 1898
+    type: event
+  - name: Ladestraße
+    type: building
+files:
+  - role: main
+    original_name: P4222.jpg
+    path: files/37/82/378251ac1e3352436474b3c6a05be66ed250f40a8ffabd304bf51ade1d9fbfca/original.jpg
+    sha256: 378251ac1e3352436474b3c6a05be66ed250f40a8ffabd304bf51ade1d9fbfca
+    mime: image/jpeg
+    bytes: 19368539
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/37/82/378251ac1e3352436474b3c6a05be66ed250f40a8ffabd304bf51ade1d9fbfca/preview-400.8118b9def2d1.jpg
+        sha256: 8118b9def2d104d68511e1d2f4bcaf289857b1e31c3ca068bfde5ef4c713aaa1
+        mime: image/jpeg
+        bytes: 71925
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

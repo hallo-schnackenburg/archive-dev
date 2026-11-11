@@ -1,0 +1,41 @@
+id: 01KDZQ53270S5R98K9CTTKJTSC
+type: image
+subtype: photo
+title: Gerda Schulz vor dem Wassermühle
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1937"
+location: Rüterberg, Marktstraße
+geocode:
+  lat: 53.0294
+  lon: 11.4901
+  precision: region
+  source: osm
+origin:
+  name: August Ahrens
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Schützenhaus
+    type: building
+  - name: Pfarrhaus
+    type: building
+files:
+  - role: main
+    original_name: P3106.jpg
+    path: files/88/c3/88c3911316e30da59282f863deae775105ad81b7818874689ad6a0c85f879427/original.jpg
+    sha256: 88c3911316e30da59282f863deae775105ad81b7818874689ad6a0c85f879427
+    mime: image/jpeg
+    bytes: 23848473
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/88/c3/88c3911316e30da59282f863deae775105ad81b7818874689ad6a0c85f879427/preview-400.5a84d19122cd.jpg
+        sha256: 5a84d19122cd1ca6cd9b9263de10c7cbd98ebf0adb0d32c8b9d5d28923146b88
+        mime: image/jpeg
+        bytes: 30844
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

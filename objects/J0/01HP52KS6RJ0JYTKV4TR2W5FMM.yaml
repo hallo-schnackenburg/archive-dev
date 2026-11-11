@@ -1,0 +1,38 @@
+id: 01HP52KS6RJ0JYTKV4TR2W5FMM
+type: image
+subtype: print
+title: "Kupferstich: Gartow von der Elbseite, Seedorf (85)"
+date: "1905"
+origin:
+  name: Karl Lemke
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 12/217
+parents:
+  - 01H5HMCYV3GS9H3ZBJZMHBTPJV
+  - 01FC5K4GCY6W41KZKCK9P52A8H
+files:
+  - role: main
+    original_name: scan_917.tif
+    path: files/f8/a4/f8a4ff7413b7ad0a69a5623f97cb7a2eb5b0ee7adf66feb1e3076426324caaa0/original.tif
+    sha256: f8a4ff7413b7ad0a69a5623f97cb7a2eb5b0ee7adf66feb1e3076426324caaa0
+    mime: image/tiff
+    bytes: 18755881
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f8/a4/f8a4ff7413b7ad0a69a5623f97cb7a2eb5b0ee7adf66feb1e3076426324caaa0/preview-400.71db6b642b05.jpg
+        sha256: 71db6b642b0588f8862f3bf389ebfbda8bc41a4018e7cbed553208ff37e363af
+        mime: image/jpeg
+        bytes: 48604
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

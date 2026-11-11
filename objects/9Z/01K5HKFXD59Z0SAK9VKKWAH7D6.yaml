@@ -1,0 +1,40 @@
+id: 01K5HKFXD59Z0SAK9VKKWAH7D6
+type: image
+subtype: plan
+title: Deichplan Gartow bis Pretzier
+description: Tusche auf Transparentpapier.
+date: 1795-01
+location: Salzwedel, Lange Straße
+origin:
+  name: Karl Plate
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Familie Brandt
+    type: person
+    location: Bömenzien
+  reference: Plan/Kasten 29/099
+  note: Dachboden, Truhe
+parents:
+  - 01K6MM688883CWMKTJ2NVR6F70
+files:
+  - role: main
+    original_name: scan_056.tif
+    path: files/8a/46/8a46362a6621a5e73da7f17e7022a2cc90c5b1bd3aa90ebfe2c895a7147f3ade/original.tif
+    sha256: 8a46362a6621a5e73da7f17e7022a2cc90c5b1bd3aa90ebfe2c895a7147f3ade
+    mime: image/tiff
+    bytes: 7180772
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8a/46/8a46362a6621a5e73da7f17e7022a2cc90c5b1bd3aa90ebfe2c895a7147f3ade/preview-400.4ed754bdf11b.jpg
+        sha256: 4ed754bdf11beeec1fd3066901b52c014ab1972443d157d15bdeb254c7cced98
+        mime: image/jpeg
+        bytes: 76431
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

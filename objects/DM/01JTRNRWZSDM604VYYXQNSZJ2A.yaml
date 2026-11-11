@@ -1,0 +1,37 @@
+id: 01JTRNRWZSDM604VYYXQNSZJ2A
+type: image
+subtype: photo
+title: Karl Ulrich, Porträt
+description: Aufnahme von Emma Voss.
+date: "1941"
+location: Laase, Sparkasse
+origin:
+  name: Ilse Jeß
+  type: person
+  location: Arendsee
+subjects:
+  - name: Walter Tiedemann
+    type: person
+parents:
+  - 01J8ED3E4SGG31ZRC1FEQ26FTD
+  - 01J8GJHXRZG3WKWHP1C2HPX9G9
+files:
+  - role: main
+    original_name: DSC4933.jpg
+    path: files/52/a6/52a6c33e48a79ab67c768c1163fb96baff0cd3dbd5fcbdca5d25b09517792dbf/original.jpg
+    sha256: 52a6c33e48a79ab67c768c1163fb96baff0cd3dbd5fcbdca5d25b09517792dbf
+    mime: image/jpeg
+    bytes: 11555417
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/52/a6/52a6c33e48a79ab67c768c1163fb96baff0cd3dbd5fcbdca5d25b09517792dbf/preview-400.5eb9a0afbce3.jpg
+        sha256: 5eb9a0afbce3ae094a65075d6c89be2eeef5d9b4e47b6be338a4669edccf445c
+        mime: image/jpeg
+        bytes: 36195
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

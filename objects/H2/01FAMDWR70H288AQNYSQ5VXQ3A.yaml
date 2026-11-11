@@ -1,0 +1,45 @@
+id: 01FAMDWR70H288AQNYSQ5VXQ3A
+type: image
+subtype: photo
+title: Scheune in Gartow
+description: Farbfoto, leicht verblasst.
+date: 1927-12
+origin:
+  name: Walter Hennings
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Album 29/020
+subjects:
+  - name: Lanz
+    type: place
+  - name: Ziegelei
+    type: building
+  - name: Beerdigung 1927
+    type: event
+parents:
+  - 01KX29XZ6YEZXRZYXDTRF154JS
+files:
+  - role: main
+    original_name: foto_9131.jpg
+    path: files/73/16/73164ddd270bbb28916488fb6c7de1cab354e6f4973e52617f72d32903b4b0f1/original.jpg
+    sha256: 73164ddd270bbb28916488fb6c7de1cab354e6f4973e52617f72d32903b4b0f1
+    mime: image/jpeg
+    bytes: 12077065
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/73/16/73164ddd270bbb28916488fb6c7de1cab354e6f4973e52617f72d32903b4b0f1/preview-400.cf746c163e4c.jpg
+        sha256: cf746c163e4c8097699009640e51201005fc1ee9c8b675ac34591a467f0dabf1
+        mime: image/jpeg
+        bytes: 68526
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

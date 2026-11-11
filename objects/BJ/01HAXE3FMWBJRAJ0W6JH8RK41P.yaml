@@ -1,0 +1,46 @@
+id: 01HAXE3FMWBJRAJ0W6JH8RK41P
+type: image
+subtype: photo
+title: Heinrich Burmester, Porträt
+location: Wustrow, Fähranleger
+geocode:
+  lat: 52.9249
+  lon: 11.568
+  precision: exact
+  source: osm
+origin:
+  name: Erika Sievers
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Kasten 20/115
+  note: Mappe 12
+subjects:
+  - name: Dieter Sievers
+    type: person
+parents:
+  - 01HZP17Y1NVSXA7HYV6RH1MVZS
+files:
+  - role: main
+    original_name: P7874.jpg
+    path: files/5b/a1/5ba1e39461bfdcff78006dd238bf83f8be773dbcafc9e99a7da81c8f92ef48ed/original.jpg
+    sha256: 5ba1e39461bfdcff78006dd238bf83f8be773dbcafc9e99a7da81c8f92ef48ed
+    mime: image/jpeg
+    bytes: 10751960
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/5b/a1/5ba1e39461bfdcff78006dd238bf83f8be773dbcafc9e99a7da81c8f92ef48ed/preview-400.caf4f15e2d86.jpg
+        sha256: caf4f15e2d8651ffad36e5c145462d864e8efa2c22081ae39a50317bc4ccc650
+        mime: image/jpeg
+        bytes: 61289
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01GJ211VH02023F1BT1JA51WNY
+type: image
+subtype: print
+title: "Kupferstich: Seedorf von der Elbseite, Havelberg"
+date: 1773-10-17
+location: Rüterberg, Fährstraße
+geocode:
+  lat: 52.9392
+  lon: 11.5771
+  precision: region
+  source: osm
+origin:
+  name: Erika Eggers
+  type: person
+  location: Havelberg
+subjects:
+  - name: Karl Jeß
+    type: person
+files:
+  - role: main
+    original_name: scan_976.tif
+    path: files/ea/74/ea741d27d8bd0ec359a83bc681286cab1f47677676c7c4824e13981b0e0e88a2/original.tif
+    sha256: ea741d27d8bd0ec359a83bc681286cab1f47677676c7c4824e13981b0e0e88a2
+    mime: image/tiff
+    bytes: 18543427
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ea/74/ea741d27d8bd0ec359a83bc681286cab1f47677676c7c4824e13981b0e0e88a2/preview-400.33252ff60ec5.jpg
+        sha256: 33252ff60ec5cbc0209641a83fffe572b70ca88f3b63934b77b420120ff596c0
+        mime: image/jpeg
+        bytes: 80122
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

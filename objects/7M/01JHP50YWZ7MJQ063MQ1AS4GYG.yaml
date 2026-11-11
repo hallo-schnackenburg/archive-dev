@@ -1,0 +1,37 @@
+id: 01JHP50YWZ7MJQ063MQ1AS4GYG
+type: image
+subtype: plan
+title: Bauplan Pumpenhaus 1900
+date: 1900?
+location: Holtorf, Mühlenweg
+origin:
+  name: Hermann Wegner
+  type: person
+  location: Gülden
+subjects:
+  - name: Laase
+    type: place
+  - name: Bömenzien
+    type: place
+  - name: Brückeneinweihung 1900
+    type: event
+files:
+  - role: main
+    original_name: scan_746.tif
+    path: files/17/4d/174d95eb16abdb458e9ac6ef385abe7d69b8efd9e0c9f2f78f94f89259c91379/original.tif
+    sha256: 174d95eb16abdb458e9ac6ef385abe7d69b8efd9e0c9f2f78f94f89259c91379
+    mime: image/tiff
+    bytes: 13932478
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/17/4d/174d95eb16abdb458e9ac6ef385abe7d69b8efd9e0c9f2f78f94f89259c91379/preview-400.ea2776ca40e2.jpg
+        sha256: ea2776ca40e25ce29d5a3c85d1a4b9d1a5ee059ccac9e913cdad43f719201c18
+        mime: image/jpeg
+        bytes: 59311
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

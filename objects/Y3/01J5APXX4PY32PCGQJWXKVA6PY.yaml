@@ -1,0 +1,45 @@
+id: 01J5APXX4PY32PCGQJWXKVA6PY
+type: image
+subtype: print
+title: Lithographie Pfarrhaus, Dömitz
+date: 1714-02-27
+location: Nienwalde, Marktstraße
+origin:
+  name: Rudolf Meyer
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F/Mappe 27/038
+owner:
+  name: Berta Wegner
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Nienwalde
+    type: place
+parents:
+  - 01GVFH3549S673SQ9MMEEV7ZGF
+files:
+  - role: main
+    original_name: scan_547.tif
+    path: files/97/20/97206e52a9574928771b4f463f822fb3fc8e7885b1780c482767c90bf5cae96f/original.tif
+    sha256: 97206e52a9574928771b4f463f822fb3fc8e7885b1780c482767c90bf5cae96f
+    mime: image/tiff
+    bytes: 707540
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/20/97206e52a9574928771b4f463f822fb3fc8e7885b1780c482767c90bf5cae96f/preview-400.a5ca802ea060.jpg
+        sha256: a5ca802ea060f6386ed49667f7075a5aff847e0743cf9f5e297c3b1719a584e9
+        mime: image/jpeg
+        bytes: 76535
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

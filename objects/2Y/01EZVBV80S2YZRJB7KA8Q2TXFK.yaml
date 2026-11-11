@@ -1,0 +1,43 @@
+id: 01EZVBV80S2YZRJB7KA8Q2TXFK
+type: image
+subtype: drawing
+title: Skizze Gartow, Fährstraße
+description: Federzeichnung, laviert.
+date: 1844-03
+origin:
+  name: Walter Lindemann
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 19/034
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Windmühle
+    type: building
+  - name: Erntedankfest 1844
+    type: event
+files:
+  - role: main
+    original_name: scan_926.tif
+    path: files/df/b2/dfb2fc7f2495bf7c58f1fbf01f960001197a69bf993adadf0ebe0486ba4c9dbd/original.tif
+    sha256: dfb2fc7f2495bf7c58f1fbf01f960001197a69bf993adadf0ebe0486ba4c9dbd
+    mime: image/tiff
+    bytes: 27830850
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/df/b2/dfb2fc7f2495bf7c58f1fbf01f960001197a69bf993adadf0ebe0486ba4c9dbd/preview-400.5c3f015692ed.jpg
+        sha256: 5c3f015692edf5cbe8d3688d98876d140c224bbc35f12a43cfb3acb52f935c59
+        mime: image/jpeg
+        bytes: 75629
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

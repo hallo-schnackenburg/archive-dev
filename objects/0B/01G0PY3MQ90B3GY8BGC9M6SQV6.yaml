@@ -1,0 +1,34 @@
+id: 01G0PY3MQ90B3GY8BGC9M6SQV6
+type: image
+subtype: photo
+title: Weihnachtsmarkt 1901
+description: Zu sehen sind Gemeindehaus und Feuerwehrhaus.
+date: "1901"
+location: Laase, Mühlenweg
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Dorffest 1901
+    type: event
+  - name: Salzwedel
+    type: place
+files:
+  - role: main
+    original_name: DSC5663.jpg
+    path: files/1b/ee/1beeee6448c3ff270d50d246a2af249bc6ccc74b3fe9fd542bb3a6f453159dd0/original.jpg
+    sha256: 1beeee6448c3ff270d50d246a2af249bc6ccc74b3fe9fd542bb3a6f453159dd0
+    mime: image/jpeg
+    bytes: 10493351
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/1b/ee/1beeee6448c3ff270d50d246a2af249bc6ccc74b3fe9fd542bb3a6f453159dd0/preview-400.93fbc2214523.jpg
+        sha256: 93fbc221452365b9d89dbc37e31c7b8a695f954100b5e4b7357b77b93453d676
+        mime: image/jpeg
+        bytes: 55720
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

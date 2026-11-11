@@ -1,0 +1,35 @@
+id: 01KZ5E1SZ3CHQGGZA1H4BP9S9P
+type: image
+subtype: plan
+title: Deichplan Gorleben bis Wustrow
+date: 1920-06-16
+origin:
+  name: Karl Tiedemann
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 23/074
+files:
+  - role: main
+    original_name: scan_729.tif
+    path: files/c9/d6/c9d6404c84e236298bf7140a4bc69601f53e6814417c14ed426569a6872a40c1/original.tif
+    sha256: c9d6404c84e236298bf7140a4bc69601f53e6814417c14ed426569a6872a40c1
+    mime: image/tiff
+    bytes: 24515899
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c9/d6/c9d6404c84e236298bf7140a4bc69601f53e6814417c14ed426569a6872a40c1/preview-400.6529df101197.jpg
+        sha256: 6529df1011976d931648225e61a41efe39e14b53709e7a4d3112dd7d4a7a03af
+        mime: image/jpeg
+        bytes: 58713
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01KNM2B3FW11P306AGRGCS7J36
+type: image
+subtype: print
+title: Postkarte Lenzen, Bahnhof
+description: Lithographie, Rand beschnitten.
+date: 1826-03-05
+origin:
+  name: Karl Sievers
+  type: person
+  location: Lanz
+subjects:
+  - name: Fritz Matthies
+    type: person
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: scan_892.tif
+    path: files/1a/a3/1aa37dda938aa32154f0e6c3ada515abd420d76a275963a5546a53fe3bf88f75/original.tif
+    sha256: 1aa37dda938aa32154f0e6c3ada515abd420d76a275963a5546a53fe3bf88f75
+    mime: image/tiff
+    bytes: 10964773
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/1a/a3/1aa37dda938aa32154f0e6c3ada515abd420d76a275963a5546a53fe3bf88f75/preview-400.434d8f6e46b1.jpg
+        sha256: 434d8f6e46b15d24d20f12d0a30138a54b1b64d4949115a944a7d6f847098a1c
+        mime: image/jpeg
+        bytes: 73036
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

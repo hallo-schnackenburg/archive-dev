@@ -1,0 +1,46 @@
+id: 01GJGB94KS6BEMZSEJH936J8VA
+type: image
+subtype: photo
+title: Beerdigung 1984
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1984-11-06
+location: Havelberg, Lange Straße
+geocode:
+  lat: 52.9676
+  lon: 11.6134
+  precision: street
+  source: osm
+origin:
+  name: Karl Schulz
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Rudolf Matthies
+    type: person
+  - name: Seedorf
+    type: place
+  - name: Weihnachtsmarkt 1984
+    type: event
+parents:
+  - 01EZVF5X45RBX6V4W1ADQSS6DP
+  - 01KV80DFXW7572XGFSJ9A620CH
+files:
+  - role: main
+    original_name: foto_0448.jpg
+    path: files/23/5f/235f3e2269ea7fbeb67104786987e1ce0a5266032c7853b2a91a4e8f54c07c27/original.jpg
+    sha256: 235f3e2269ea7fbeb67104786987e1ce0a5266032c7853b2a91a4e8f54c07c27
+    mime: image/jpeg
+    bytes: 25379190
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/23/5f/235f3e2269ea7fbeb67104786987e1ce0a5266032c7853b2a91a4e8f54c07c27/preview-400.19107b9d0f7b.jpg
+        sha256: 19107b9d0f7b49dc89cc96bbb316ce5065df7b710cf96e94828d9a826e13b4bc
+        mime: image/jpeg
+        bytes: 71184
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

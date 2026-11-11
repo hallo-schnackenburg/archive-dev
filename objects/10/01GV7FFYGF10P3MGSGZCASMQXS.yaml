@@ -1,0 +1,41 @@
+id: 01GV7FFYGF10P3MGSGZCASMQXS
+type: image
+subtype: plan
+title: Lageplan Molkerei
+description: Mit handschriftlichen Ergänzungen.
+date: 1935-12
+location: Gorleben, Dorfstraße
+origin:
+  name: Jürgen Krüger
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 13/120
+owner:
+  name: Gustav Schwarz
+  type: person
+  note: Dauerleihgabe
+files:
+  - role: main
+    original_name: scan_372.tif
+    path: files/f3/f9/f3f9766a40c3c5cda2e89f824e9781362573439b0dbff483f676665e0a3adb02/original.tif
+    sha256: f3f9766a40c3c5cda2e89f824e9781362573439b0dbff483f676665e0a3adb02
+    mime: image/tiff
+    bytes: 3359937
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f3/f9/f3f9766a40c3c5cda2e89f824e9781362573439b0dbff483f676665e0a3adb02/preview-400.eff397cba9ac.jpg
+        sha256: eff397cba9ac8af3a39429493a1667351d3e5cd9bee9222bebe1d9033dd26d27
+        mime: image/jpeg
+        bytes: 50559
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,61 @@
+id: 01JWFP6HJF7G0RQF2BDN8993ED
+type: document
+subtype: note
+title: Rechnung Meyer, Pfarrhaus
+date: "1906"
+location: Cumlosen, Bahnhofstraße
+origin:
+  name: Wilhelm Nitschke
+  type: person
+  location: Rüterberg
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  note: Dachboden, Truhe
+subjects:
+  - name: Konfirmation 1906
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_8993ed_001.tif
+    path: files/86/54/86541ec551e038653112ac232a44a29fd801e726b43160e09d090e51962c3ca7/original.tif
+    sha256: 86541ec551e038653112ac232a44a29fd801e726b43160e09d090e51962c3ca7
+    mime: image/tiff
+    bytes: 9292677
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/54/86541ec551e038653112ac232a44a29fd801e726b43160e09d090e51962c3ca7/preview-400.b800228e8a41.jpg
+        sha256: b800228e8a41c27553411416793d8296659e3eb652b7f3c279c5485df46583e9
+        mime: image/jpeg
+        bytes: 63794
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_8993ed_002.tif
+    path: files/83/ad/83ada8c4fc5a6a734e5f7167ac5a2b55736aa2027f3e4af1cd111c35bf2e210b/original.tif
+    sha256: 83ada8c4fc5a6a734e5f7167ac5a2b55736aa2027f3e4af1cd111c35bf2e210b
+    mime: image/tiff
+    bytes: 5389885
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/83/ad/83ada8c4fc5a6a734e5f7167ac5a2b55736aa2027f3e4af1cd111c35bf2e210b/preview-400.341053a8879d.jpg
+        sha256: 341053a8879d0fe7e95978357122074baa853e5b11a617b60b90912df4c4e93a
+        mime: image/jpeg
+        bytes: 43350
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

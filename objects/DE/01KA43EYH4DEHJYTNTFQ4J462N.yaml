@@ -1,0 +1,40 @@
+id: 01KA43EYH4DEHJYTNTFQ4J462N
+type: image
+subtype: plan
+title: Bauplan Tischlerei Bruns 1816
+description: Mit handschriftlichen Ergänzungen.
+date: "1816"
+location: Rüterberg, Gartenstraße
+origin:
+  name: Karl Heuer
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Heuberge
+    type: building
+  - name: Maifeier 1816
+    type: event
+  - name: Gartow
+    type: place
+parents:
+  - 01KEEQTF18ZM4ZAMFBC1AXYQ8V
+files:
+  - role: main
+    original_name: scan_126.tif
+    path: files/bd/6b/bd6b41577e25273ac5637522cbfa3ea4c475dbb20e639c3878c03134500ec320/original.tif
+    sha256: bd6b41577e25273ac5637522cbfa3ea4c475dbb20e639c3878c03134500ec320
+    mime: image/tiff
+    bytes: 2855782
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bd/6b/bd6b41577e25273ac5637522cbfa3ea4c475dbb20e639c3878c03134500ec320/preview-400.4d3e597c9fd9.jpg
+        sha256: 4d3e597c9fd9bc9bf9125bb7b11bc31f39d9600c54163e9bb7916129dd3687e9
+        mime: image/jpeg
+        bytes: 28641
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

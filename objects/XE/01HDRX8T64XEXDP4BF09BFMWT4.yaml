@@ -1,0 +1,31 @@
+id: 01HDRX8T64XEXDP4BF09BFMWT4
+type: image
+subtype: photo
+title: Familie Schwarz beim Eisgang
+description: Aufnahme von Karl Harms.
+location: Wootz, Am Elbdeich
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Kartoffelernte 1963
+    type: event
+files:
+  - role: main
+    original_name: scan_916.tif
+    path: files/cb/40/cb4005d2f241c9513974d4edc32ef96283d588f47c6fa902e3d3c0fb4b61a077/original.tif
+    sha256: cb4005d2f241c9513974d4edc32ef96283d588f47c6fa902e3d3c0fb4b61a077
+    mime: image/tiff
+    bytes: 6316426
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/cb/40/cb4005d2f241c9513974d4edc32ef96283d588f47c6fa902e3d3c0fb4b61a077/preview-400.f59810160647.jpg
+        sha256: f59810160647d4dd7d98409b07857512e64f9da2e44d691b8cc8deb3dc612f46
+        mime: image/jpeg
+        bytes: 35113
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

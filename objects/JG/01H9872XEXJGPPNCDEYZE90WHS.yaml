@@ -1,0 +1,45 @@
+id: 01H9872XEXJGPPNCDEYZE90WHS
+type: image
+subtype: plan
+title: Deichplan Dömitz bis Laase
+description: Maßstab 1:1000.
+date: 1932-09-06
+origin:
+  name: Dieter Jeß
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Fotos/Kasten 1/074
+  note: Dachboden, Truhe
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Eisgang 1932
+    type: event
+parents:
+  - 01FC5K4GCY6W41KZKCK9P52A8H
+  - 01JP20QWTYZEWRGFHPQXP5662Q
+files:
+  - role: main
+    original_name: scan_003.tif
+    path: files/65/b8/65b8a22cf01ca110b57a40d885e1e370721b0dabf2044ae1ee47cbfb540853a6/original.tif
+    sha256: 65b8a22cf01ca110b57a40d885e1e370721b0dabf2044ae1ee47cbfb540853a6
+    mime: image/tiff
+    bytes: 8510772
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/65/b8/65b8a22cf01ca110b57a40d885e1e370721b0dabf2044ae1ee47cbfb540853a6/preview-400.a473187f0129.jpg
+        sha256: a473187f0129d519e4e96ea2412903e44d114a7bf477fa0378a8f7f6b497ab55
+        mime: image/jpeg
+        bytes: 22755
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01J33BPGDC7AQ55T77V0GJD0ZE
+type: image
+subtype: photo
+title: Brigitte Lüders vor dem Heuberge
+location: Arendsee, Schulstraße
+geocode:
+  lat: 53.0879
+  lon: 11.586
+  precision: region
+  source: osm
+origin:
+  name: Dieter Matthies
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Schrank B
+subjects:
+  - name: Marta Wegner
+    type: person
+  - name: Hans Matthies
+    type: person
+files:
+  - role: main
+    original_name: foto_8895.jpg
+    path: files/d1/f0/d1f003a0ca652cb06c9c5ba5fd9bcc7a1d9d5f592d31ec030e87e6134eee4468/original.jpg
+    sha256: d1f003a0ca652cb06c9c5ba5fd9bcc7a1d9d5f592d31ec030e87e6134eee4468
+    mime: image/jpeg
+    bytes: 7040505
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/d1/f0/d1f003a0ca652cb06c9c5ba5fd9bcc7a1d9d5f592d31ec030e87e6134eee4468/preview-400.9b96299bd755.jpg
+        sha256: 9b96299bd75542b659dbd190e25fba1ebc57594ef0cfb11aeedd7a53a8f2a9e2
+        mime: image/jpeg
+        bytes: 89629
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

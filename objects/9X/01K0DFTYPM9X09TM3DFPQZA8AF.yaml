@@ -1,0 +1,36 @@
+id: 01K0DFTYPM9X09TM3DFPQZA8AF
+type: image
+subtype: photo
+title: Schlachtfest 1901
+date: 190X
+location: Brünkendorf, Gärtnerei
+origin:
+  name: Helga Bruns
+  type: person
+  location: Holtorf
+subjects:
+  - name: Backhaus
+    type: building
+parents:
+  - 01FAQ3AREZBKTAGHNPJF8ZYQP7
+  - 01KGCTHH5QBAAENGAHP4MRPAPG
+files:
+  - role: main
+    original_name: scan_541.tif
+    path: files/76/9c/769c641ad4881996f3e0c491dc893564cfa6ffbbcc98c64e5152ddb9c0ae0b80/original.tif
+    sha256: 769c641ad4881996f3e0c491dc893564cfa6ffbbcc98c64e5152ddb9c0ae0b80
+    mime: image/tiff
+    bytes: 12851863
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/76/9c/769c641ad4881996f3e0c491dc893564cfa6ffbbcc98c64e5152ddb9c0ae0b80/preview-400.c7b6232fc02a.jpg
+        sha256: c7b6232fc02a5a3e12353127e0578ba1591d4932674b3636cc1746278c12ef82
+        mime: image/jpeg
+        bytes: 35126
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01G991TT2PSSTAS1NTY5065SC7
+type: image
+subtype: photo
+title: Blick vom Kaufmannshaus auf das Kaufmannshaus
+description: Aufnahme von Erika Wegner.
+date: 1999-07
+location: Brünkendorf, Apotheke
+geocode:
+  lat: 52.9343
+  lon: 11.5193
+  precision: street
+  source: osm
+origin:
+  name: Bernd Behrens
+  type: person
+  location: Laase
+subjects:
+  - name: Dömitz
+    type: place
+files:
+  - role: main
+    original_name: P8137.jpg
+    path: files/1e/0d/1e0d671595550bd5079f93c0292d83bdab68c0f201beeff461253a64f9237a8f/original.jpg
+    sha256: 1e0d671595550bd5079f93c0292d83bdab68c0f201beeff461253a64f9237a8f
+    mime: image/jpeg
+    bytes: 24158043
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/1e/0d/1e0d671595550bd5079f93c0292d83bdab68c0f201beeff461253a64f9237a8f/preview-400.f5f8d2998a22.jpg
+        sha256: f5f8d2998a22f29f820e18af287c77d29fd3d4eaccd4cde3f6f7b79ed3d1deff
+        mime: image/jpeg
+        bytes: 60624
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

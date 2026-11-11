@@ -1,0 +1,40 @@
+id: 01H2G589F8VW8MRDDP13A2PSBG
+type: image
+subtype: photo
+title: Bäckerei Lüders nach dem Schützenfest
+date: "1949"
+location: Wootz, Schlachterei
+geocode:
+  lat: 52.9604
+  lon: 11.5082
+  precision: street
+  source: osm
+origin:
+  name: Erika Heuer
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Schützenfest 1949
+    type: event
+  - name: Dorffest 1949
+    type: event
+files:
+  - role: main
+    original_name: scan_654.tif
+    path: files/78/fe/78fe41bb947e793a2e4a42e629451fe616b7c87b7c326310826db225e59f5da5/original.tif
+    sha256: 78fe41bb947e793a2e4a42e629451fe616b7c87b7c326310826db225e59f5da5
+    mime: image/tiff
+    bytes: 26125171
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/78/fe/78fe41bb947e793a2e4a42e629451fe616b7c87b7c326310826db225e59f5da5/preview-400.ee6266e97a0e.jpg
+        sha256: ee6266e97a0edf61d8e75067a1e768bf8fe26e6cf2a7201c8328e9ada19f2817
+        mime: image/jpeg
+        bytes: 61597
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

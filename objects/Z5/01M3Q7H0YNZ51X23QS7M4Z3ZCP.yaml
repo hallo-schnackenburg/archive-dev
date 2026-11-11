@@ -1,0 +1,42 @@
+id: 01M3Q7H0YNZ51X23QS7M4Z3ZCP
+type: image
+subtype: plan
+title: Lageplan Poststelle
+description: Maßstab 1:100.
+date: 1949-11
+location: Restorf, Schützenhaus
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 1/160
+subjects:
+  - name: Elbdeich
+    type: building
+  - name: Nienwalde
+    type: place
+  - name: Holtorf
+    type: place
+parents:
+  - 01J0TGH296RHC0G6JXY0S53XED
+files:
+  - role: main
+    original_name: scan_308.tif
+    path: files/bc/f7/bcf7884c605b173af362a4134a2083cdb6e1283bf7b20ca722779af3ab968400/original.tif
+    sha256: bcf7884c605b173af362a4134a2083cdb6e1283bf7b20ca722779af3ab968400
+    mime: image/tiff
+    bytes: 10410837
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bc/f7/bcf7884c605b173af362a4134a2083cdb6e1283bf7b20ca722779af3ab968400/preview-400.bfb299cbde94.jpg
+        sha256: bfb299cbde94d01dbccfce8c89263ba7413695bd459d3b115da2a09e631c427d
+        mime: image/jpeg
+        bytes: 26553
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01FNYWTHZ6YEGDGC8TKY4544G8
+type: image
+subtype: plan
+title: Katasterblatt Bruns
+description: Tusche auf Transparentpapier.
+date: 175X
+origin:
+  name: Heinrich Lenz
+  type: person
+  location: Restorf
+subjects:
+  - name: Wootz
+    type: place
+parents:
+  - 01H683J429KTWPMPPF52JN3Q9J
+files:
+  - role: main
+    original_name: scan_978.tif
+    path: files/4f/97/4f9740d79242e79502060dcdea9a4bfab6a87e319c3c2381e3289ed90e6f53ec/original.tif
+    sha256: 4f9740d79242e79502060dcdea9a4bfab6a87e319c3c2381e3289ed90e6f53ec
+    mime: image/tiff
+    bytes: 2664332
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4f/97/4f9740d79242e79502060dcdea9a4bfab6a87e319c3c2381e3289ed90e6f53ec/preview-400.b683c64b9bdf.jpg
+        sha256: b683c64b9bdf497c3bf82643caa79f25c9c295887cdefcdf031c22850283f0c0
+        mime: image/jpeg
+        bytes: 68660
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

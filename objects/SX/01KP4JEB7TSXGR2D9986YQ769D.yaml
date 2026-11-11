@@ -1,0 +1,38 @@
+id: 01KP4JEB7TSXGR2D9986YQ769D
+type: image
+subtype: photo
+title: Eisgang 1987
+description: Aufnahme von Frieda Bohlmann.
+date: "1987"
+origin:
+  name: Otto Gerdes
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 34/036
+parents:
+  - 01KQVCCGD4CP4QYK6YQJ3YAGSW
+files:
+  - role: main
+    original_name: foto_1969.jpg
+    path: files/f7/78/f7788c04023481b9ab2b980c722ef6f57c534eb3f5f23e6dc540286102dc2d69/original.jpg
+    sha256: f7788c04023481b9ab2b980c722ef6f57c534eb3f5f23e6dc540286102dc2d69
+    mime: image/jpeg
+    bytes: 6049541
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/f7/78/f7788c04023481b9ab2b980c722ef6f57c534eb3f5f23e6dc540286102dc2d69/preview-400.50f0509e8686.jpg
+        sha256: 50f0509e868698eac06924d737c5fa951435234f68f85584a4444588ff52b060
+        mime: image/jpeg
+        bytes: 76625
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

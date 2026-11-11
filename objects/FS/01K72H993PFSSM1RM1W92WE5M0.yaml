@@ -1,0 +1,58 @@
+id: 01K72H993PFSSM1RM1W92WE5M0
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Lüchow 1929
+date: 1929-01
+location: Gollensdorf, Kirchstraße
+origin:
+  name: Kirchenvorstand Kapern
+  type: business
+  location: Gollensdorf
+language: de
+subjects:
+  - name: Maifeier 1929
+    type: event
+parents:
+  - 01GWFE0FE3S612EGDSN47NZK4B
+  - 01JDVF1103F03HCTM49T0G4EC6
+files:
+  - role: page
+    num: 1
+    original_name: protocol_2we5m0_001.tif
+    path: files/b9/22/b922d52c7f8462c45e0c9c32b2d023f0bb584492470360bc70d16fac89db3bbc/original.tif
+    sha256: b922d52c7f8462c45e0c9c32b2d023f0bb584492470360bc70d16fac89db3bbc
+    mime: image/tiff
+    bytes: 20536552
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b9/22/b922d52c7f8462c45e0c9c32b2d023f0bb584492470360bc70d16fac89db3bbc/preview-400.bc31c2be1aa4.jpg
+        sha256: bc31c2be1aa4bbe8ce989c8b87b31fd29f2e6f8526334e512d9ad817eae41271
+        mime: image/jpeg
+        bytes: 89195
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_2we5m0_002.tif
+    path: files/f9/f2/f9f2e91f697b9e85f26446f284e3fbe55928f0eb4b905e51feb985d983068109/original.tif
+    sha256: f9f2e91f697b9e85f26446f284e3fbe55928f0eb4b905e51feb985d983068109
+    mime: image/tiff
+    bytes: 7926427
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f9/f2/f9f2e91f697b9e85f26446f284e3fbe55928f0eb4b905e51feb985d983068109/preview-400.0f43034d098a.jpg
+        sha256: 0f43034d098a677bd52a49b222e2c517670ebcb9baf15bb24d5e57d9cad05aa3
+        mime: image/jpeg
+        bytes: 22722
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

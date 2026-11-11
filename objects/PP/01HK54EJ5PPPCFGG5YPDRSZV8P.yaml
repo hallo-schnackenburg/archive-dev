@@ -1,0 +1,38 @@
+id: 01HK54EJ5PPPCFGG5YPDRSZV8P
+type: image
+subtype: photo
+title: Dieter Voss vor dem Storchennest
+date: 1963-03-17
+location: Cumlosen, Schulstraße
+geocode:
+  lat: 52.9626
+  lon: 11.6407
+  precision: region
+  source: osm
+subjects:
+  - name: Anni Voss
+    type: person
+  - name: Lanz
+    type: place
+  - name: Cumlosen
+    type: place
+files:
+  - role: main
+    original_name: P4791.jpg
+    path: files/b7/a0/b7a03125d575d5316b9accb58fe5bf8ec9e7178d08016c2eb4799f274cdc3a52/original.jpg
+    sha256: b7a03125d575d5316b9accb58fe5bf8ec9e7178d08016c2eb4799f274cdc3a52
+    mime: image/jpeg
+    bytes: 536748
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b7/a0/b7a03125d575d5316b9accb58fe5bf8ec9e7178d08016c2eb4799f274cdc3a52/preview-400.5c20873f9178.jpg
+        sha256: 5c20873f917873881c4a4a8553f3dac734d8ca423a1c173af169a2b9a00029b7
+        mime: image/jpeg
+        bytes: 70823
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

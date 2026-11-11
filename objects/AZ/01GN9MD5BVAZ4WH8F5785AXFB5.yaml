@@ -1,0 +1,35 @@
+id: 01GN9MD5BVAZ4WH8F5785AXFB5
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Beerdigung, Schnackenburg"
+date: 1888-01
+location: Rüterberg, Am Markt
+origin:
+  name: Ursula Lüders
+  type: person
+  location: Gorleben
+subjects:
+  - name: Otto Sievers
+    type: person
+parents:
+  - 01KDD6TJHRWYW5BFBZ7TKQREBJ
+files:
+  - role: main
+    original_name: scan_804.tif
+    path: files/41/02/4102a2acf7d284e3529986e20a8809e8a76e9d82b63acc6fb34b13608b70b08b/original.tif
+    sha256: 4102a2acf7d284e3529986e20a8809e8a76e9d82b63acc6fb34b13608b70b08b
+    mime: image/tiff
+    bytes: 21896277
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/41/02/4102a2acf7d284e3529986e20a8809e8a76e9d82b63acc6fb34b13608b70b08b/preview-400.d8487866a8c4.jpg
+        sha256: d8487866a8c47eb5353b2a10b65fe57902da7ecce87e8264116c05cb664cc3f1
+        mime: image/jpeg
+        bytes: 52481
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

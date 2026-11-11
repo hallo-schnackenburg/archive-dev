@@ -1,0 +1,33 @@
+id: 01GN778TC8QD0SB7VCZG716DNV
+type: image
+subtype: plan
+title: Flurkarte Brünkendorf
+description: Tusche auf Transparentpapier.
+date: 1758-08-22
+origin:
+  name: Karl Rohde
+  type: person
+  location: Lanz
+parents:
+  - 01KRNVBSTXBJR5NRDE3HAC7HXQ
+  - 01F9MQ787B1DZ88NJB119JTN0N
+files:
+  - role: main
+    original_name: scan_813.tif
+    path: files/e0/d9/e0d9517e157879d0c35cd230d391e4bf3f47daa80bfab7fc8e4888ee0bb9abf6/original.tif
+    sha256: e0d9517e157879d0c35cd230d391e4bf3f47daa80bfab7fc8e4888ee0bb9abf6
+    mime: image/tiff
+    bytes: 8727612
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e0/d9/e0d9517e157879d0c35cd230d391e4bf3f47daa80bfab7fc8e4888ee0bb9abf6/preview-400.a0fb13697046.jpg
+        sha256: a0fb13697046ec209508a1b8d0efb2485ba1a467e94e8c32bb7bc4fc26ef1a7c
+        mime: image/jpeg
+        bytes: 31500
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

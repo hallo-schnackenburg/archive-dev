@@ -1,0 +1,47 @@
+id: 01FTYJWHV170YE4B9ZTVFHPFTH
+type: image
+subtype: drawing
+title: Skizze Gollensdorf, Bahnhofstraße
+description: Bleistift auf Papier.
+date: 1939-07
+location: Lanz, Deichstraße
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Salzwedel
+  reference: Fotos/Mappe 8/102
+  note: Mappe 12
+owner:
+  name: Ilse Schwarz
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Lanz
+    type: place
+  - name: Heinrich Hennings
+    type: person
+  - name: Erntedankfest 1939
+    type: event
+parents:
+  - 01GWG9662GMDBHVAK54DXCMWG2
+files:
+  - role: main
+    original_name: scan_230.tif
+    path: files/2d/f1/2df189da95b869bd89a85ae81c2cf788ccea907f21e9931987e4b5b30adc77f8/original.tif
+    sha256: 2df189da95b869bd89a85ae81c2cf788ccea907f21e9931987e4b5b30adc77f8
+    mime: image/tiff
+    bytes: 7273470
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/2d/f1/2df189da95b869bd89a85ae81c2cf788ccea907f21e9931987e4b5b30adc77f8/preview-400.1c2ca1d78aaf.jpg
+        sha256: 1c2ca1d78aaf3719e8765cce957c3f6fcc76e990a8f10e9dd15cfcee177ac476
+        mime: image/jpeg
+        bytes: 28512
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01G2DBGFMY86Q4WYBP3VGGEJFJ
+type: image
+subtype: photo
+title: Familie Meyer beim Maifeier
+description: Farbfoto, leicht verblasst.
+date: 1904-06
+location: Bömenzien, Lange Straße
+origin:
+  name: Karl Kuhlmann
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Sportplatz
+    type: building
+  - name: Feuerwehrübung 1904
+    type: event
+  - name: Gülden
+    type: place
+files:
+  - role: main
+    original_name: foto_0332.jpg
+    path: files/a7/ce/a7cece519bcb8f511542a0c2fe4426a89aeae0c21d0ba69f48219d48f976dd88/original.jpg
+    sha256: a7cece519bcb8f511542a0c2fe4426a89aeae0c21d0ba69f48219d48f976dd88
+    mime: image/jpeg
+    bytes: 18175927
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/a7/ce/a7cece519bcb8f511542a0c2fe4426a89aeae0c21d0ba69f48219d48f976dd88/preview-400.0ad73647b2f1.jpg
+        sha256: 0ad73647b2f179f57169ebc434d2471f095cf063f023a82424d54ceac1353df5
+        mime: image/jpeg
+        bytes: 41948
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

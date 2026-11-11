@@ -1,0 +1,42 @@
+id: 01HEFVKRMW2RJNSDECH4JXH6G5
+type: image
+subtype: drawing
+title: Fachwerkhaus Marktstraße 4, Aquarell, Gülden
+description: Bleistift auf Papier.
+date: "1863"
+location: Wootz, Gutshaus
+origin:
+  name: Fritz Matthies
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 1/073
+subjects:
+  - name: Heinz Detlefs
+    type: person
+parents:
+  - 01H5HMCYV3GS9H3ZBJZMHBTPJV
+files:
+  - role: main
+    original_name: scan_840.tif
+    path: files/83/fb/83fbc47020518985ef43016fab317e7562caceb294ea1061dcaa4a4fdad81f0d/original.tif
+    sha256: 83fbc47020518985ef43016fab317e7562caceb294ea1061dcaa4a4fdad81f0d
+    mime: image/tiff
+    bytes: 959028
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/83/fb/83fbc47020518985ef43016fab317e7562caceb294ea1061dcaa4a4fdad81f0d/preview-400.06b64aca3e8b.jpg
+        sha256: 06b64aca3e8b0499b8777aafac40396fa47f1786747763b13769d095d4666a57
+        mime: image/jpeg
+        bytes: 89882
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01GXB63BY7XHXP5P6RFXXK55PM
+type: image
+subtype: plan
+title: Deichplan Laase bis Restorf
+date: 1874/1884
+location: Hitzacker, Kegelbahn
+geocode:
+  lat: 53.0626
+  lon: 11.5907
+  precision: town
+  source: osm
+origin:
+  name: Hans Rieke
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Brückeneinweihung 1874
+    type: event
+  - name: Gasthof Meyer
+    type: building
+files:
+  - role: main
+    original_name: scan_298.tif
+    path: files/1d/63/1d63492f6c001f7f4fb10607453929ed676de2c4e6f74171f9635b0aa3882d74/original.tif
+    sha256: 1d63492f6c001f7f4fb10607453929ed676de2c4e6f74171f9635b0aa3882d74
+    mime: image/tiff
+    bytes: 19647347
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/1d/63/1d63492f6c001f7f4fb10607453929ed676de2c4e6f74171f9635b0aa3882d74/preview-400.300fbeb66831.jpg
+        sha256: 300fbeb66831b0051afce03efc1b5825ed5635fae4dd144d7bd6c2d9ba414645
+        mime: image/jpeg
+        bytes: 66007
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

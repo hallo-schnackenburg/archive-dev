@@ -1,0 +1,36 @@
+id: 01KX71CMPZ8GSQYZE2XKF52VXX
+type: image
+subtype: photo
+title: Hafenstraße, Ecke Marktstraße
+date: 1943~
+origin:
+  name: Hermann Meyer
+  type: person
+  location: Lüchow
+subjects:
+  - name: Dieter Lemke
+    type: person
+  - name: Schlachterei
+    type: building
+parents:
+  - 01KVDK33TB3HJY6QE3J1AKEA7N
+files:
+  - role: main
+    original_name: scan_050.tif
+    path: files/a7/cf/a7cfd620b2d94479fc78fb2ff54a4e70647d694927b96c9740db6457e754087c/original.tif
+    sha256: a7cfd620b2d94479fc78fb2ff54a4e70647d694927b96c9740db6457e754087c
+    mime: image/tiff
+    bytes: 6928244
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a7/cf/a7cfd620b2d94479fc78fb2ff54a4e70647d694927b96c9740db6457e754087c/preview-400.a9408821a5e1.jpg
+        sha256: a9408821a5e1c8fec3391d58a2e5d9d3868fa214e6e188117cbddd4f59087c08
+        mime: image/jpeg
+        bytes: 25358
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

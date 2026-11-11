@@ -1,0 +1,35 @@
+id: 01GHS8PZVG2E2R801QSSNKC3AF
+type: image
+subtype: plan
+title: Bauplan Storchennest 1765
+description: Maßstab 1:2500.
+date: 1765-05
+origin:
+  name: Wilhelm Dierks
+  type: person
+  location: Restorf
+subjects:
+  - name: Einschulung 1765
+    type: event
+parents:
+  - 01FN6T6JHA18TW27M4TSYE0FQV
+files:
+  - role: main
+    original_name: scan_216.tif
+    path: files/18/5c/185c3213e349d0292c147322bffb063dc3a01cc01d825ee987088bb5c56850c2/original.tif
+    sha256: 185c3213e349d0292c147322bffb063dc3a01cc01d825ee987088bb5c56850c2
+    mime: image/tiff
+    bytes: 8842020
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/18/5c/185c3213e349d0292c147322bffb063dc3a01cc01d825ee987088bb5c56850c2/preview-400.149cf15e4a37.jpg
+        sha256: 149cf15e4a37561cd70d3193238488c7417fa31d12eebef3b18393c19cda8184
+        mime: image/jpeg
+        bytes: 28505
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

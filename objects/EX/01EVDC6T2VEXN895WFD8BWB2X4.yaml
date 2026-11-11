@@ -1,0 +1,65 @@
+id: 01EVDC6T2VEXN895WFD8BWB2X4
+type: document
+subtype: note
+title: Kassenzettel Poststelle
+description: Beleg mit Stempel.
+date: "1991"
+location: Havelberg, Lange Straße
+origin:
+  name: Hans Schwarz
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Heuberge
+    type: building
+parents:
+  - 01F46MZG12HDJQK9Z29HPTQV9B
+  - 01FPG45DMCQ4FJ212ZPBZF1YR1
+files:
+  - role: page
+    num: 1
+    original_name: note_bwb2x4_001.tif
+    path: files/6e/6b/6e6bcc0baa5890c97f667c0b8565b96ccbaa9fd6ae4df23ee320e23c05d450d7/original.tif
+    sha256: 6e6bcc0baa5890c97f667c0b8565b96ccbaa9fd6ae4df23ee320e23c05d450d7
+    mime: image/tiff
+    bytes: 26458192
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/6b/6e6bcc0baa5890c97f667c0b8565b96ccbaa9fd6ae4df23ee320e23c05d450d7/preview-400.7b87a0de0591.jpg
+        sha256: 7b87a0de0591bfabaf8b58afc40331c72b41e2c492e2219784791731f5e533ad
+        mime: image/jpeg
+        bytes: 31926
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_bwb2x4_002.tif
+    path: files/87/a8/87a8a9794aa32fb023015b9ce43b83530e25b32fbb2ad293382d02a0e1a860d5/original.tif
+    sha256: 87a8a9794aa32fb023015b9ce43b83530e25b32fbb2ad293382d02a0e1a860d5
+    mime: image/tiff
+    bytes: 1622700
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/87/a8/87a8a9794aa32fb023015b9ce43b83530e25b32fbb2ad293382d02a0e1a860d5/preview-400.ca103c21a477.jpg
+        sha256: ca103c21a4772e11f880a871f3f49806b872c4e7eb98f8d3db1e1b48e56758e6
+        mime: image/jpeg
+        bytes: 76559
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

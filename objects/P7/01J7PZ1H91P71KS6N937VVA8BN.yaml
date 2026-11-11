@@ -1,0 +1,68 @@
+id: 01J7PZ1H91P71KS6N937VVA8BN
+type: document
+subtype: note
+title: Quittung für Anni Detlefs
+description: Auf der Rückseite eines Formulars.
+date: 192X
+location: Brünkendorf, Am Elbdeich
+geocode:
+  lat: 53.0225
+  lon: 11.5496
+  precision: exact
+  source: osm
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan 19/335
+subjects:
+  - name: Heinz Brandt
+    type: person
+  - name: Elfriede Jeß
+    type: person
+parents:
+  - 01J0GVPF8CQ7XT4TS5V2ZE6DJJ
+  - 01K63FK3HHMM0W1GA0H3WZR13N
+files:
+  - role: page
+    num: 1
+    original_name: note_vva8bn_001.tif
+    path: files/8e/97/8e97b607083e0877089ab8268ce771dec63572fa10574bc67fedffc44aa69106/original.tif
+    sha256: 8e97b607083e0877089ab8268ce771dec63572fa10574bc67fedffc44aa69106
+    mime: image/tiff
+    bytes: 12611213
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8e/97/8e97b607083e0877089ab8268ce771dec63572fa10574bc67fedffc44aa69106/preview-400.bbc7a0a374fc.jpg
+        sha256: bbc7a0a374fc69b116dc88fbdc6852053989a8999193627b9f3652ee2fd736d9
+        mime: image/jpeg
+        bytes: 37196
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_vva8bn_002.tif
+    path: files/bf/6a/bf6a0cbfb9dfe4fd58aba624db77971d6f6c1d9767ff257fa3e5d3a2326a4a66/original.tif
+    sha256: bf6a0cbfb9dfe4fd58aba624db77971d6f6c1d9767ff257fa3e5d3a2326a4a66
+    mime: image/tiff
+    bytes: 25074815
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bf/6a/bf6a0cbfb9dfe4fd58aba624db77971d6f6c1d9767ff257fa3e5d3a2326a4a66/preview-400.e8ea91c3a7f0.jpg
+        sha256: e8ea91c3a7f09153055c453f58262c0daca38ea4b61742b77d5c3f49a166522d
+        mime: image/jpeg
+        bytes: 52083
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,48 @@
+id: 01F6ATBG1AJQHHFG61K92QAVVE
+type: image
+subtype: photo
+title: Hans Tiedemann, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1977-10
+location: Havelberg, Elbdeich
+geocode:
+  lat: 53.0035
+  lon: 11.5589
+  precision: region
+  source: osm
+origin:
+  name: Hans Wegner
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Walter Schulz
+    type: person
+  - name: Backhaus
+    type: building
+  - name: Dorfschule
+    type: building
+files:
+  - role: main
+    original_name: scan_230.tif
+    path: files/00/cf/00cf2e049888cde3a20d18197b94e59824b25c0ffc77dfb71160c1ee98b83ae2/original.tif
+    sha256: 00cf2e049888cde3a20d18197b94e59824b25c0ffc77dfb71160c1ee98b83ae2
+    mime: image/tiff
+    bytes: 24667634
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/00/cf/00cf2e049888cde3a20d18197b94e59824b25c0ffc77dfb71160c1ee98b83ae2/preview-400.f8fc011c80ec.jpg
+        sha256: f8fc011c80ec2ae2a8684d40ad79aec9715c162f920434241610271baa76fd8a
+        mime: image/jpeg
+        bytes: 53980
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01F6BENGWFWADV29F55S0EAZP4
+type: image
+subtype: print
+title: "Kupferstich: Bömenzien von der Elbseite, Gülden"
+description: Lithographie, Rand beschnitten.
+date: "1758"
+location: Gülden, Kirchstraße
+origin:
+  name: Gustav Jeß
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Hochzeit 1758
+    type: event
+parents:
+  - 01HS803SHHMBTDFXP1D594AZ1D
+files:
+  - role: main
+    original_name: scan_854.tif
+    path: files/14/59/14599d4e17777dd447361416bf48bd332290a5340de4b13d4c5956e78c4b470c/original.tif
+    sha256: 14599d4e17777dd447361416bf48bd332290a5340de4b13d4c5956e78c4b470c
+    mime: image/tiff
+    bytes: 6803320
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/59/14599d4e17777dd447361416bf48bd332290a5340de4b13d4c5956e78c4b470c/preview-400.064c38c2de96.jpg
+        sha256: 064c38c2de965d3b862ddfad5459aa78570f6f5375c4541f164f647e23dee096
+        mime: image/jpeg
+        bytes: 37824
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

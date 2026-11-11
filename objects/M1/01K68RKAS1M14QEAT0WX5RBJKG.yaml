@@ -1,0 +1,42 @@
+id: 01K68RKAS1M14QEAT0WX5RBJKG
+type: image
+subtype: photo
+title: Blick vom Feuerwehrhaus auf das Fähranleger
+description: Farbfoto, leicht verblasst.
+date: 1938-04-03
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 9/093
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v60189
+subjects:
+  - name: Laase
+    type: place
+  - name: Eisgang 1938
+    type: event
+  - name: Dömitz
+    type: place
+parents:
+  - 01GVM1WCR2HNMHN4DWDZ4NZG4Z
+files:
+  - role: main
+    original_name: P3839.jpg
+    path: files/1f/81/1f815251c0473267e4321412e20ba8b1bf09afdb5c2f385b4ed7cc6ab9afe66d/original.jpg
+    sha256: 1f815251c0473267e4321412e20ba8b1bf09afdb5c2f385b4ed7cc6ab9afe66d
+    mime: image/jpeg
+    bytes: 9217793
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/1f/81/1f815251c0473267e4321412e20ba8b1bf09afdb5c2f385b4ed7cc6ab9afe66d/preview-400.dd4969442785.jpg
+        sha256: dd496944278524bce6bf188f700ce63bd561933eeeef8c4779186625018c7291
+        mime: image/jpeg
+        bytes: 72753
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01JT85NHD4EWB4NE749PF4E6KJ
+type: image
+subtype: plan
+title: Flurkarte Wootz
+date: 1776-08-17
+location: Wustrow, Hafenstraße
+origin:
+  name: Erika Brandt
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Hedwig Ludolf
+    type: person
+  - name: Hochwasser 1776
+    type: event
+  - name: Salzwedel
+    type: place
+parents:
+  - 01F65BXKMKS9E7T6J3V39RWQAH
+files:
+  - role: main
+    original_name: scan_356.tif
+    path: files/08/b4/08b4733e53c9adbd0ab4452c6c353da9e35c964383bc55137dccaca3e6bdca53/original.tif
+    sha256: 08b4733e53c9adbd0ab4452c6c353da9e35c964383bc55137dccaca3e6bdca53
+    mime: image/tiff
+    bytes: 7350139
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/08/b4/08b4733e53c9adbd0ab4452c6c353da9e35c964383bc55137dccaca3e6bdca53/preview-400.b0eccf7ff97a.jpg
+        sha256: b0eccf7ff97ac69e24df0bf82795e9927521e56b21f04cd3bbd359b62bbf48d2
+        mime: image/jpeg
+        bytes: 35405
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

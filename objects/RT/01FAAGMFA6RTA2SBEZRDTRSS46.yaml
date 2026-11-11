@@ -1,0 +1,63 @@
+id: 01FAAGMFA6RTA2SBEZRDTRSS46
+type: document
+subtype: note
+title: Rechnung Detlefs, Fähranleger
+description: Zettel, Bleistift.
+date: 1931-11
+location: Cumlosen, Wassermühle
+geocode:
+  lat: 53.0982
+  lon: 11.526
+  precision: region
+  source: osm
+origin:
+  name: Gisela Voss
+  type: person
+  location: Brünkendorf
+language: de
+subjects:
+  - name: Helga Meyer
+    type: person
+parents:
+  - 01JDKBQD7GHM630H1JSZYJRAVJ
+files:
+  - role: page
+    num: 1
+    original_name: note_trss46_001.tif
+    path: files/f0/de/f0de519344accf191653e37502577365d69e6181a86a45c9a0833c956f80d342/original.tif
+    sha256: f0de519344accf191653e37502577365d69e6181a86a45c9a0833c956f80d342
+    mime: image/tiff
+    bytes: 24896711
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/de/f0de519344accf191653e37502577365d69e6181a86a45c9a0833c956f80d342/preview-400.ff10726c90ce.jpg
+        sha256: ff10726c90ce49aa79b62a415649ac2be280daa903316d8062df92ce4f635a54
+        mime: image/jpeg
+        bytes: 88184
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_trss46_002.tif
+    path: files/f5/cf/f5cf6f39121c39180558d04ec6b8482da61ee9e73451c40a77f00e636e95b5d4/original.tif
+    sha256: f5cf6f39121c39180558d04ec6b8482da61ee9e73451c40a77f00e636e95b5d4
+    mime: image/tiff
+    bytes: 26043193
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f5/cf/f5cf6f39121c39180558d04ec6b8482da61ee9e73451c40a77f00e636e95b5d4/preview-400.42851df902f7.jpg
+        sha256: 42851df902f72068c6dd4a0f628cdbcc15b9d67fd71a1fad2cb1bcef55e2cde1
+        mime: image/jpeg
+        bytes: 51000
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

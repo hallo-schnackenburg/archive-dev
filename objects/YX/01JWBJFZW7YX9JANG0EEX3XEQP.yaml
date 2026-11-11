@@ -1,0 +1,41 @@
+id: 01JWBJFZW7YX9JANG0EEX3XEQP
+type: image
+subtype: photo
+title: Bahnhof in Lenzen
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1962-10-12
+location: Wittenberge, Schützenhaus
+geocode:
+  lat: 53.0449
+  lon: 11.6606
+  precision: street
+  source: osm
+origin:
+  name: Ilse Jeß
+  type: person
+  location: Restorf
+subjects:
+  - name: Badestelle
+    type: building
+  - name: Grenzturm
+    type: building
+files:
+  - role: main
+    original_name: P0726.jpg
+    path: files/b7/c4/b7c4bf3b143f4d3b6aa37ca9608116c17d17f7c69568b3ff2f63439678528b66/original.jpg
+    sha256: b7c4bf3b143f4d3b6aa37ca9608116c17d17f7c69568b3ff2f63439678528b66
+    mime: image/jpeg
+    bytes: 21338018
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/b7/c4/b7c4bf3b143f4d3b6aa37ca9608116c17d17f7c69568b3ff2f63439678528b66/preview-400.85d81cfb185d.jpg
+        sha256: 85d81cfb185ddc9e2b7fa3c7d18f4a26952a06fe86c72468031315a00821679c
+        mime: image/jpeg
+        bytes: 23224
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

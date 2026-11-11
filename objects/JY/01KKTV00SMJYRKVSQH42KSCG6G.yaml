@@ -1,0 +1,50 @@
+id: 01KKTV00SMJYRKVSQH42KSCG6G
+type: image
+subtype: photo
+title: Familie Lüders beim Brückeneinweihung
+date: 1962-04
+location: Wustrow, Dorfstraße
+geocode:
+  lat: 52.9233
+  lon: 11.6167
+  precision: exact
+  source: osm
+origin:
+  name: Anni Lemke
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 30/078
+subjects:
+  - name: Eisgang 1962
+    type: event
+  - name: Wustrow
+    type: place
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01HJMR4YWKHDFKNS8WPV4XDY2Z
+files:
+  - role: main
+    original_name: IMG_2187.jpg
+    path: files/1e/6f/1e6f2f06f8dc8edd2313dad0afba0e6393e222b93d883a3a506508df115e5b2c/original.jpg
+    sha256: 1e6f2f06f8dc8edd2313dad0afba0e6393e222b93d883a3a506508df115e5b2c
+    mime: image/jpeg
+    bytes: 20907433
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/1e/6f/1e6f2f06f8dc8edd2313dad0afba0e6393e222b93d883a3a506508df115e5b2c/preview-400.2a4a6072a3f2.jpg
+        sha256: 2a4a6072a3f2abf98af8d58a082ff01415db9e879f499b935237ee715b2d3431
+        mime: image/jpeg
+        bytes: 67594
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

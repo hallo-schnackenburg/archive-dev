@@ -1,0 +1,41 @@
+id: 01GCPV1GTZ7P5R9NYQ6DZJGKXJ
+type: image
+subtype: photo
+title: Familie Harms beim Straßenfest
+location: Schnackenburg, Scheune
+geocode:
+  lat: 53.056
+  lon: 11.5124
+  precision: exact
+  source: osm
+origin:
+  name: Ursula Jeß
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Ortsbesichtigung 2002
+    type: event
+  - name: Restorf
+    type: place
+  - name: Straßenfest 2002
+    type: event
+files:
+  - role: main
+    original_name: foto_7093.jpg
+    path: files/03/7b/037b652911f089965021f77099ac14d63db827d7427f698ff271cc07fa2f3a39/original.jpg
+    sha256: 037b652911f089965021f77099ac14d63db827d7427f698ff271cc07fa2f3a39
+    mime: image/jpeg
+    bytes: 20493010
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/03/7b/037b652911f089965021f77099ac14d63db827d7427f698ff271cc07fa2f3a39/preview-400.73118fb47259.jpg
+        sha256: 73118fb47259cf92d51a35aaff144218d4684719706d37420f0ebbf8e4a2d223
+        mime: image/jpeg
+        bytes: 57766
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

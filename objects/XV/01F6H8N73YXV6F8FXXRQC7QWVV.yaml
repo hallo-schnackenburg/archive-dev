@@ -1,0 +1,41 @@
+id: 01F6H8N73YXV6F8FXXRQC7QWVV
+type: image
+subtype: drawing
+title: Brunnen am Markt, Aquarell, Pretzier
+date: 1917?
+location: Schnackenburg, Bahnhofstraße
+geocode:
+  lat: 52.9663
+  lon: 11.6253
+  precision: town
+  source: osm
+origin:
+  name: Fritz Ahrens
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Familie Dreyer
+    type: person
+    location: Schnackenburg
+  reference: Br 11/263
+files:
+  - role: main
+    original_name: scan_497.tif
+    path: files/5d/a6/5da60cb4c52e3086974411bd0b5c52de688e65d92c63f888b403231b19d95668/original.tif
+    sha256: 5da60cb4c52e3086974411bd0b5c52de688e65d92c63f888b403231b19d95668
+    mime: image/tiff
+    bytes: 17289727
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5d/a6/5da60cb4c52e3086974411bd0b5c52de688e65d92c63f888b403231b19d95668/preview-400.432d9dd27061.jpg
+        sha256: 432d9dd27061c83eadecd1bd2103cac538badc73b707892cee7cf9699c0a1e4a
+        mime: image/jpeg
+        bytes: 57221
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

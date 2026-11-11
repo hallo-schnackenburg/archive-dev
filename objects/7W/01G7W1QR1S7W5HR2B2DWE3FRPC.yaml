@@ -1,0 +1,37 @@
+id: 01G7W1QR1S7W5HR2B2DWE3FRPC
+type: image
+subtype: plan
+title: Lageplan Pfarrhaus
+date: 1872-01-20
+origin:
+  name: Günter Lemke
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: Windmühle
+    type: building
+parents:
+  - 01JTHP4KSFGWQ8YZT350SBEYS1
+  - 01F6ZQ7TEP2TBDEHF40VAF0GAD
+files:
+  - role: main
+    original_name: scan_515.tif
+    path: files/87/9d/879d4230c7153e9d7092b7d16607e77396e766a33661109ce836d788250affef/original.tif
+    sha256: 879d4230c7153e9d7092b7d16607e77396e766a33661109ce836d788250affef
+    mime: image/tiff
+    bytes: 25893814
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/87/9d/879d4230c7153e9d7092b7d16607e77396e766a33661109ce836d788250affef/preview-400.1069564aadb6.jpg
+        sha256: 1069564aadb6b48d2087c84b0380aae796c23f6741ca45080149ed79ae166c55
+        mime: image/jpeg
+        bytes: 23177
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

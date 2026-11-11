@@ -1,0 +1,36 @@
+id: 01HB7MY6AFVY62NWPHY6DJJ168
+type: image
+subtype: plan
+title: Bauplan Mühle 1820
+description: Tusche auf Transparentpapier.
+date: 1820/1822
+location: Bömenzien, Molkerei
+origin:
+  name: Erika Schulz
+  type: person
+  location: Zadrau
+subjects:
+  - name: Fastnacht 1820
+    type: event
+  - name: Dorffest 1820
+    type: event
+files:
+  - role: main
+    original_name: scan_750.tif
+    path: files/c8/40/c8406c91a5b49c2b7153582595a1602bf014f45fb2d05888c59d15808fd1bbd5/original.tif
+    sha256: c8406c91a5b49c2b7153582595a1602bf014f45fb2d05888c59d15808fd1bbd5
+    mime: image/tiff
+    bytes: 13824184
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c8/40/c8406c91a5b49c2b7153582595a1602bf014f45fb2d05888c59d15808fd1bbd5/preview-400.53fcc17da3ed.jpg
+        sha256: 53fcc17da3edba612c9d5f1a41ccc69cb9672b69fb92209bf665398a359fe486
+        mime: image/jpeg
+        bytes: 23947
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

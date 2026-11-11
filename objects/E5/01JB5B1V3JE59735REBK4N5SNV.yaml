@@ -1,0 +1,45 @@
+id: 01JB5B1V3JE59735REBK4N5SNV
+type: image
+subtype: photo
+title: Gasthof „Zur Elbe“ nach dem Straßenfest
+description: Aufnahme von Heinrich Sievers.
+date: 1926~
+location: Seedorf, Marktstraße
+geocode:
+  lat: 53.0689
+  lon: 11.6879
+  precision: exact
+  source: osm
+origin:
+  name: Rudolf Kuhlmann
+  type: person
+  location: Lüchow
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Wilhelm Lemke
+    type: person
+  - name: Dömitz
+    type: place
+parents:
+  - 01JGPFTKQXNYFFYDJ57GMWQASN
+files:
+  - role: main
+    original_name: scan_954.tif
+    path: files/f1/ff/f1ff231a9e402d1be5da4a1ff89926e0be1964bc7959f62385634848678d1755/original.tif
+    sha256: f1ff231a9e402d1be5da4a1ff89926e0be1964bc7959f62385634848678d1755
+    mime: image/tiff
+    bytes: 17426724
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f1/ff/f1ff231a9e402d1be5da4a1ff89926e0be1964bc7959f62385634848678d1755/preview-400.5985cb34d33e.jpg
+        sha256: 5985cb34d33e7ae25c83f335b157d39c622647a94de66fe70d4f986d2e28793e
+        mime: image/jpeg
+        bytes: 80114
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

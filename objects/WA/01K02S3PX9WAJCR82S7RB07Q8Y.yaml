@@ -1,0 +1,51 @@
+id: 01K02S3PX9WAJCR82S7RB07Q8Y
+type: document
+subtype: letter
+title: Gesuch um Wasserleitung
+date: "1808"
+location: Laase, Badestelle
+geocode:
+  lat: 52.9621
+  lon: 11.4562
+  precision: exact
+  source: osm
+origin:
+  name: Otto Harms
+  type: person
+  location: Zadrau
+recipient: Uwe Vogt
+language: de
+original:
+  holder:
+    name: Familie Jeß
+    type: person
+    location: Schnackenburg
+  reference: Fotos/Kasten 25/018
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Gutshaus
+    type: building
+parents:
+  - 01G13YFEMZ6M5B1HQ76CM2BWE2
+files:
+  - role: page
+    num: 1
+    original_name: letter_b07q8y_001.tif
+    path: files/e6/00/e600ceccf05c6660cbecb03b049b9debce829299dc0eba8fa3ea7a92a0efed85/original.tif
+    sha256: e600ceccf05c6660cbecb03b049b9debce829299dc0eba8fa3ea7a92a0efed85
+    mime: image/tiff
+    bytes: 11925573
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e6/00/e600ceccf05c6660cbecb03b049b9debce829299dc0eba8fa3ea7a92a0efed85/preview-400.2329640ca8cb.jpg
+        sha256: 2329640ca8cbb528a048386c4fed3ce225bffe246a1139dab6f440ea1587dd9e
+        mime: image/jpeg
+        bytes: 44762
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

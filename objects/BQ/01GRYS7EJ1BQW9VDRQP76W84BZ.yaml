@@ -1,0 +1,43 @@
+id: 01GRYS7EJ1BQW9VDRQP76W84BZ
+type: image
+subtype: photo
+title: Berta Behrens, Porträt
+date: 1918~
+location: Laase, Gemeindehaus
+geocode:
+  lat: 52.9521
+  lon: 11.5702
+  precision: street
+  source: osm
+origin:
+  name: Manfred Jeß
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  note: Mappe 12
+parents:
+  - 01KSS5WSKYD8DQE3452TFH91F6
+files:
+  - role: main
+    original_name: foto_4864.jpg
+    path: files/d1/cc/d1ccb555687e1a8c9b9fecb7458d92872140908251a6f75a27f58e639bb9b966/original.jpg
+    sha256: d1ccb555687e1a8c9b9fecb7458d92872140908251a6f75a27f58e639bb9b966
+    mime: image/jpeg
+    bytes: 24009975
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d1/cc/d1ccb555687e1a8c9b9fecb7458d92872140908251a6f75a27f58e639bb9b966/preview-400.253f4413b207.jpg
+        sha256: 253f4413b20768a84369aebe9b17d9834999f765e518f8e8824a5c37b7bdafbe
+        mime: image/jpeg
+        bytes: 21369
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

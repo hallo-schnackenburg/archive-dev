@@ -1,0 +1,59 @@
+id: 01H721DMD09SJC1WHET6YSB6YH
+type: document
+subtype: note
+title: Rechnung Dreyer, Schützenhaus
+description: Beleg mit Stempel.
+date: "1943"
+origin:
+  name: Hedwig Bohlmann
+  type: person
+  location: Dömitz
+language: de
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Hans Meyer
+    type: person
+parents:
+  - 01FTBRH4CY1NRQ8V7FMPS575HJ
+files:
+  - role: page
+    num: 1
+    original_name: note_ysb6yh_001.tif
+    path: files/e3/b6/e3b6ad5c177c0790e8ffe3532c1c7c5205b516438fdabb9518cd9dbe0b3c8894/original.tif
+    sha256: e3b6ad5c177c0790e8ffe3532c1c7c5205b516438fdabb9518cd9dbe0b3c8894
+    mime: image/tiff
+    bytes: 10254690
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e3/b6/e3b6ad5c177c0790e8ffe3532c1c7c5205b516438fdabb9518cd9dbe0b3c8894/preview-400.b6e2297cea4b.jpg
+        sha256: b6e2297cea4b1377c008de17fd13a2083f9914dc042daf10ca7f02e8061c8628
+        mime: image/jpeg
+        bytes: 26496
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_ysb6yh_002.tif
+    path: files/26/ee/26ee9bebd3aa80193d7d9dc96f575c7c8e58a6c8f43ab33c880a967b76d2406d/original.tif
+    sha256: 26ee9bebd3aa80193d7d9dc96f575c7c8e58a6c8f43ab33c880a967b76d2406d
+    mime: image/tiff
+    bytes: 8018269
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/ee/26ee9bebd3aa80193d7d9dc96f575c7c8e58a6c8f43ab33c880a967b76d2406d/preview-400.cab0b3c3bf49.jpg
+        sha256: cab0b3c3bf49e66188effe552dd33551d4aef5c4f08c5bf3e314dde1c1a247bc
+        mime: image/jpeg
+        bytes: 88058
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

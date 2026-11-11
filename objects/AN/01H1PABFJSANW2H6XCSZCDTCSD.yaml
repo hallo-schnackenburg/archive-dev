@@ -1,0 +1,39 @@
+id: 01H1PABFJSANW2H6XCSZCDTCSD
+type: image
+subtype: print
+title: Gruß aus Gollensdorf, Zadrau
+location: Wustrow, Burgstraße
+origin:
+  name: Wilhelm Klatt
+  type: person
+  location: Lenzen
+subjects:
+  - name: Ursula Wiegmann
+    type: person
+  - name: Laase
+    type: place
+  - name: Gerda Hennings
+    type: person
+parents:
+  - 01FPG45DMCQ4FJ212ZPBZF1YR1
+  - 01K0DYSTF2EJ283ADN76W7FBTC
+files:
+  - role: main
+    original_name: scan_852.tif
+    path: files/de/5f/de5f125e8c0ceaf230262bcf1313280596d4cc8c8c4c72de1aef76aa3df6e7fb/original.tif
+    sha256: de5f125e8c0ceaf230262bcf1313280596d4cc8c8c4c72de1aef76aa3df6e7fb
+    mime: image/tiff
+    bytes: 4417554
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/de/5f/de5f125e8c0ceaf230262bcf1313280596d4cc8c8c4c72de1aef76aa3df6e7fb/preview-400.cdcf09765cc5.jpg
+        sha256: cdcf09765cc52624cb017235f44422c368d5bddb8a66b1a4dec3e6077a998aa7
+        mime: image/jpeg
+        bytes: 78573
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

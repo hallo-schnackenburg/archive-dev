@@ -1,0 +1,40 @@
+id: 01FTVCR3ABVJCZ13EQJPB5D6Z3
+type: image
+subtype: photo
+title: Jürgen Wegner, Porträt
+date: "1977"
+location: Lüchow, Dorfladen
+geocode:
+  lat: 53.0786
+  lon: 11.6167
+  precision: exact
+  source: osm
+origin:
+  name: Dieter Voss
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+files:
+  - role: main
+    original_name: scan_081.tif
+    path: files/f3/8f/f38fb63d4661d94ddf43a9d1bfef2b9f23261ceea34d2287418262309bd81d83/original.tif
+    sha256: f38fb63d4661d94ddf43a9d1bfef2b9f23261ceea34d2287418262309bd81d83
+    mime: image/tiff
+    bytes: 21537428
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f3/8f/f38fb63d4661d94ddf43a9d1bfef2b9f23261ceea34d2287418262309bd81d83/preview-400.a87720159618.jpg
+        sha256: a8772015961888a2b4fbcf3e3895fab1f653ef7ed60b325655e22f3b5cdd164e
+        mime: image/jpeg
+        bytes: 75030
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

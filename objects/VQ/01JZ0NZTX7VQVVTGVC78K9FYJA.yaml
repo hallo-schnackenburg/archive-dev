@@ -1,0 +1,37 @@
+id: 01JZ0NZTX7VQVVTGVC78K9FYJA
+type: image
+subtype: photo
+title: Erntedankfest 1961
+description: Abzug im Format 9 x 13 cm.
+date: 1961-01-25
+origin:
+  name: Anni Lemke
+  type: person
+  location: Lenzen
+subjects:
+  - name: Einweihung 1961
+    type: event
+  - name: Glockenweihe 1961
+    type: event
+  - name: Badestelle
+    type: building
+files:
+  - role: main
+    original_name: DSC9830.jpg
+    path: files/17/c6/17c677da726970c3934a86e6239ddbc9f86165cc96edec13df0456127a3e8c2a/original.jpg
+    sha256: 17c677da726970c3934a86e6239ddbc9f86165cc96edec13df0456127a3e8c2a
+    mime: image/jpeg
+    bytes: 10401908
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/17/c6/17c677da726970c3934a86e6239ddbc9f86165cc96edec13df0456127a3e8c2a/preview-400.b65ae50d6a64.jpg
+        sha256: b65ae50d6a649f292822d32e2bfdb3a691f8c2b93f66486f64251bf992941414
+        mime: image/jpeg
+        bytes: 58320
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

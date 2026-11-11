@@ -1,0 +1,33 @@
+id: 01FGAKB69A5B77F3FYPQBKDV90
+type: image
+subtype: print
+title: Lithographie Elbdeich, Arendsee
+description: Kupferstich, koloriert.
+date: 1740-12
+origin:
+  name: Lotte Dreyer
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Albert Bohlmann
+    type: person
+files:
+  - role: main
+    original_name: scan_349.tif
+    path: files/5d/ca/5dca726cc74a9d6958cd2905cebfc900ca7d7dc9c6e3d2e1d26b702e4ecf425d/original.tif
+    sha256: 5dca726cc74a9d6958cd2905cebfc900ca7d7dc9c6e3d2e1d26b702e4ecf425d
+    mime: image/tiff
+    bytes: 9243313
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5d/ca/5dca726cc74a9d6958cd2905cebfc900ca7d7dc9c6e3d2e1d26b702e4ecf425d/preview-400.2f69b790f8b5.jpg
+        sha256: 2f69b790f8b5979fe468719cfd4cd88f72c6f749efcf9a31723a6932cdd0625e
+        mime: image/jpeg
+        bytes: 39733
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01G0C29DAAY2ZWK2XZGQW94BC2
+type: image
+subtype: drawing
+title: Skizze Restorf, Mühlenweg
+date: "1893"
+origin:
+  name: Heinrich Ihde
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 12/019
+subjects:
+  - name: Wootz
+    type: place
+  - name: Lanz
+    type: place
+files:
+  - role: main
+    original_name: scan_746.tif
+    path: files/3d/72/3d7287de862b5bef8e444bc82c6c6f529d771eb87b703f2bcc704e06e7cb08ca/original.tif
+    sha256: 3d7287de862b5bef8e444bc82c6c6f529d771eb87b703f2bcc704e06e7cb08ca
+    mime: image/tiff
+    bytes: 18484988
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3d/72/3d7287de862b5bef8e444bc82c6c6f529d771eb87b703f2bcc704e06e7cb08ca/preview-400.b3831a6ccc6c.jpg
+        sha256: b3831a6ccc6c10371c35f923f67b71584b4ede40074526d251752a0ad37ecbf3
+        mime: image/jpeg
+        bytes: 31899
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01HWAV0RYAZ32VZRVXV499HV6V
+type: image
+subtype: plan
+title: Deichplan Laase bis Wittenberge
+date: 1762-07-27
+location: Lenzen, Mühlenweg
+origin:
+  name: Frieda Krüger
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Beerdigung 1762
+    type: event
+  - name: Karl Lemke
+    type: person
+  - name: Lüchow
+    type: place
+parents:
+  - 01HX63HPJQWPA2R8TSS7RY7SQZ
+files:
+  - role: main
+    original_name: scan_575.tif
+    path: files/16/b2/16b233c716da5e71a9958195e1ebc83718773c6c2135ac6d5300cdcdfa540c13/original.tif
+    sha256: 16b233c716da5e71a9958195e1ebc83718773c6c2135ac6d5300cdcdfa540c13
+    mime: image/tiff
+    bytes: 21488427
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/16/b2/16b233c716da5e71a9958195e1ebc83718773c6c2135ac6d5300cdcdfa540c13/preview-400.539fe17cd70d.jpg
+        sha256: 539fe17cd70d52567be8d3f19f2f2a06e1988e99f1097a16e28ed61d664884fb
+        mime: image/jpeg
+        bytes: 37283
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

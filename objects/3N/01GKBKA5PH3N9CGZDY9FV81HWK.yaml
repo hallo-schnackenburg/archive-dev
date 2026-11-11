@@ -1,0 +1,43 @@
+id: 01GKBKA5PH3N9CGZDY9FV81HWK
+type: image
+subtype: print
+title: Gruß aus Pretzier
+description: Postkarte, gelaufen 1939.
+date: 1721-05-13
+location: Rüterberg, Fährstraße
+geocode:
+  lat: 53.0313
+  lon: 11.483
+  precision: street
+  source: osm
+origin:
+  name: Uwe Lemke
+  type: person
+  location: Holtorf
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Heinrich Lemke
+    type: person
+parents:
+  - 01FN6T6JHA18TW27M4TSYE0FQV
+files:
+  - role: main
+    original_name: scan_622.tif
+    path: files/11/f6/11f6116873bec0f88f2d65b9db55ed1c4f37c3a691b84c66b7741c36ac27feed/original.tif
+    sha256: 11f6116873bec0f88f2d65b9db55ed1c4f37c3a691b84c66b7741c36ac27feed
+    mime: image/tiff
+    bytes: 4743525
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/f6/11f6116873bec0f88f2d65b9db55ed1c4f37c3a691b84c66b7741c36ac27feed/preview-400.85869ec12fa5.jpg
+        sha256: 85869ec12fa56b3c1673c88f51cfb58fd944fb274f7c80497d0aa5b82d92746f
+        mime: image/jpeg
+        bytes: 75910
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

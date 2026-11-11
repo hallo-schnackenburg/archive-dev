@@ -1,0 +1,36 @@
+id: 01HR4M59R7FNKK7Z5MTQPJ73EC
+type: image
+subtype: plan
+title: Bauplan Windmühle 1904
+date: 1904-09
+location: Brünkendorf, Schlachterei
+geocode:
+  lat: 53.0288
+  lon: 11.5725
+  precision: town
+  source: osm
+subjects:
+  - name: Hans Brandt
+    type: person
+parents:
+  - 01F0BRQ2JGN7DY37JCS6H3RZJF
+files:
+  - role: main
+    original_name: scan_591.tif
+    path: files/8a/8f/8a8f3a2e16ee73f504f4ed013feb2a2d81e6e33afa3865d588706deff897adee/original.tif
+    sha256: 8a8f3a2e16ee73f504f4ed013feb2a2d81e6e33afa3865d588706deff897adee
+    mime: image/tiff
+    bytes: 9546325
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8a/8f/8a8f3a2e16ee73f504f4ed013feb2a2d81e6e33afa3865d588706deff897adee/preview-400.353bf5d336dd.jpg
+        sha256: 353bf5d336dd9d7fd0ecb804c7ba557dc66c486bfef4530a5170cf25e25cec37
+        mime: image/jpeg
+        bytes: 60388
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

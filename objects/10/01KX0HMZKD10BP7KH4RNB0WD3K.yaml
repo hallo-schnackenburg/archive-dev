@@ -1,0 +1,39 @@
+id: 01KX0HMZKD10BP7KH4RNB0WD3K
+type: image
+subtype: print
+title: Lithographie Sparkasse, Laase
+date: 1906-10-08
+location: Schnackenburg, Gasthof „Zur Elbe“
+origin:
+  name: Käthe Voss
+  type: person
+  location: Gartow
+subjects:
+  - name: Poststelle
+    type: building
+  - name: Eisgang 1906
+    type: event
+  - name: Hafen
+    type: building
+parents:
+  - 01K7N09VTY5J80D3G50Q63P74F
+files:
+  - role: main
+    original_name: scan_320.tif
+    path: files/73/5f/735fd86511e7b0d5747e825f9e822e4af5f5a321bd13a98424a88db79d846897/original.tif
+    sha256: 735fd86511e7b0d5747e825f9e822e4af5f5a321bd13a98424a88db79d846897
+    mime: image/tiff
+    bytes: 13264434
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/73/5f/735fd86511e7b0d5747e825f9e822e4af5f5a321bd13a98424a88db79d846897/preview-400.2cf98ee2828b.jpg
+        sha256: 2cf98ee2828bae51489e14401ad6241885df538f655fe8b4d6fab424fb6435fc
+        mime: image/jpeg
+        bytes: 25580
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

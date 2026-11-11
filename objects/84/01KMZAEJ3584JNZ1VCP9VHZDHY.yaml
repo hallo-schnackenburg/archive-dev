@@ -1,0 +1,44 @@
+id: 01KMZAEJ3584JNZ1VCP9VHZDHY
+type: image
+subtype: plan
+title: Deichplan Gorleben bis Brünkendorf
+date: 1889-08-23
+location: Rüterberg, Dorfstraße
+origin:
+  name: Irmgard Garms
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Album 12/030
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Feuerwehrübung 1889
+    type: event
+files:
+  - role: main
+    original_name: scan_013.tif
+    path: files/fb/72/fb72ae30614ae6619ed54f114012eb112dc2e02d81a9b6379c73eb30e80d77c6/original.tif
+    sha256: fb72ae30614ae6619ed54f114012eb112dc2e02d81a9b6379c73eb30e80d77c6
+    mime: image/tiff
+    bytes: 10158887
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/fb/72/fb72ae30614ae6619ed54f114012eb112dc2e02d81a9b6379c73eb30e80d77c6/preview-400.64100555f05b.jpg
+        sha256: 64100555f05b29978ee7913cf15d92a7f95cbe093f89ff7268e971791185d3e0
+        mime: image/jpeg
+        bytes: 32475
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

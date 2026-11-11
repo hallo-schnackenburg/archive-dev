@@ -1,0 +1,62 @@
+id: 01F7HZBG9RF21FYXSB1QQGZY17
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Wittenberge 1935
+description: Anwesend waren 9 Personen.
+date: 1935~
+origin:
+  name: Schulvorstand Kapern
+  type: business
+  location: Holtorf
+language: de
+original:
+  holder:
+    name: Familie Schulz
+    type: person
+    location: Lenzen
+  reference: F 3/156
+  note: Bücherregal links
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v22197
+parents:
+  - 01G8B1RBKCP0JCJ0TQ3WYMBBPZ
+files:
+  - role: page
+    num: 1
+    original_name: protocol_qgzy17_001.tif
+    path: files/db/47/db474bdfc3c896721524080833aeca01877719997d323dc9f922e3a262359d9a/original.tif
+    sha256: db474bdfc3c896721524080833aeca01877719997d323dc9f922e3a262359d9a
+    mime: image/tiff
+    bytes: 5746034
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/47/db474bdfc3c896721524080833aeca01877719997d323dc9f922e3a262359d9a/preview-400.35e704ee61e9.jpg
+        sha256: 35e704ee61e97c984646bfa2d8de17b337856da6e93c7cb3a02a8bfdbacef851
+        mime: image/jpeg
+        bytes: 72325
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_qgzy17_002.tif
+    path: files/df/9b/df9b42f105fca13ce98608feb027df51bfca1575c2507d6280d288be3cbccdea/original.tif
+    sha256: df9b42f105fca13ce98608feb027df51bfca1575c2507d6280d288be3cbccdea
+    mime: image/tiff
+    bytes: 16783141
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/df/9b/df9b42f105fca13ce98608feb027df51bfca1575c2507d6280d288be3cbccdea/preview-400.6f86062adc14.jpg
+        sha256: 6f86062adc14262a1098caa44c7dfac240ee95bb5cf776745b924f112a87a569
+        mime: image/jpeg
+        bytes: 35499
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

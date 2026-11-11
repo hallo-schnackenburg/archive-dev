@@ -1,0 +1,39 @@
+id: 01KCVBCW8BC0C1P9CMZ1R49NR3
+type: image
+subtype: photo
+title: Otto Pape, Porträt
+date: 1954-12-03
+origin:
+  name: Wilhelm Voss
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Schmiede
+    type: building
+  - name: Schnackenburg
+    type: place
+files:
+  - role: main
+    original_name: IMG_3617.jpg
+    path: files/f2/f2/f2f23890f29c66796f3a8ce761fce487efe37355e28ab70a871991ebe2f77d2d/original.jpg
+    sha256: f2f23890f29c66796f3a8ce761fce487efe37355e28ab70a871991ebe2f77d2d
+    mime: image/jpeg
+    bytes: 17244573
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/f2/f2/f2f23890f29c66796f3a8ce761fce487efe37355e28ab70a871991ebe2f77d2d/preview-400.fb4907550a53.jpg
+        sha256: fb4907550a535b320baa8c6f77fab09daebaa72ff7ab08391e3bd40c83d94c41
+        mime: image/jpeg
+        bytes: 34492
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

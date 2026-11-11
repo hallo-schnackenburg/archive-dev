@@ -1,0 +1,32 @@
+id: 01H8A1YGT33MF9DR4SB4ZWZZ6Q
+type: image
+subtype: photo
+title: Eisgang 1962
+description: Abzug im Format 10 x 15 cm.
+date: 1962-04-09
+location: Bömenzien, Burgstraße
+geocode:
+  lat: 53.0067
+  lon: 11.6075
+  precision: exact
+  source: osm
+files:
+  - role: main
+    original_name: DSC6895.jpg
+    path: files/dc/02/dc02018a76ac1d47377a99d7ff2be8a5b4dd9e30c939f2c8ae3b05ec4ffbb669/original.jpg
+    sha256: dc02018a76ac1d47377a99d7ff2be8a5b4dd9e30c939f2c8ae3b05ec4ffbb669
+    mime: image/jpeg
+    bytes: 24172866
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/dc/02/dc02018a76ac1d47377a99d7ff2be8a5b4dd9e30c939f2c8ae3b05ec4ffbb669/preview-400.67d2c866b29c.jpg
+        sha256: 67d2c866b29cdaffb0afb33bea43969d118cc2ac33c39bb3b13633ad93bde8ce
+        mime: image/jpeg
+        bytes: 42507
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

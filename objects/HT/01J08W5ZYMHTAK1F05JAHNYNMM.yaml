@@ -1,0 +1,41 @@
+id: 01J08W5ZYMHTAK1F05JAHNYNMM
+type: image
+subtype: photo
+title: Pfarrhaus in Pretzier
+date: 189X
+location: Lanz, Schulstraße
+origin:
+  name: Gerda Meyer
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 8/054
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Schmiede
+    type: building
+files:
+  - role: main
+    original_name: scan_604.tif
+    path: files/92/18/921880fd233ceeea6711b1deef3818808223074a3bc4292a9aa9dae40445ec58/original.tif
+    sha256: 921880fd233ceeea6711b1deef3818808223074a3bc4292a9aa9dae40445ec58
+    mime: image/tiff
+    bytes: 25499181
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/18/921880fd233ceeea6711b1deef3818808223074a3bc4292a9aa9dae40445ec58/preview-400.a0d29dc14c18.jpg
+        sha256: a0d29dc14c18057728020e969fcdc9d22402d081df3c0a104affb06d8fcfeb23
+        mime: image/jpeg
+        bytes: 27781
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

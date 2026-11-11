@@ -1,0 +1,36 @@
+id: 01GSDJYEXWK3TCCCGQWNS3PVHR
+type: image
+subtype: plan
+title: Bauplan Gärtnerei 1775
+description: Mit handschriftlichen Ergänzungen.
+date: 1775~
+location: Restorf, Pumpenhaus
+origin:
+  name: Hermann Lemke
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Karl Voss
+    type: person
+  - name: Käthe Jeß
+    type: person
+files:
+  - role: main
+    original_name: scan_060.tif
+    path: files/93/bc/93bc400c9915ccb5a2ebd5c49b454cc149d30a9eab54f9d5160b723edd0e0aa3/original.tif
+    sha256: 93bc400c9915ccb5a2ebd5c49b454cc149d30a9eab54f9d5160b723edd0e0aa3
+    mime: image/tiff
+    bytes: 2838881
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/93/bc/93bc400c9915ccb5a2ebd5c49b454cc149d30a9eab54f9d5160b723edd0e0aa3/preview-400.c7f2ea206151.jpg
+        sha256: c7f2ea206151a65242d5f068f87c9bffbbb5e05d3cc2fb0cec717544264030ef
+        mime: image/jpeg
+        bytes: 58396
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

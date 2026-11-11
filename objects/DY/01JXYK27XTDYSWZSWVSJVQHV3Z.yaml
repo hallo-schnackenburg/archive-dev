@@ -1,0 +1,30 @@
+id: 01JXYK27XTDYSWZSWVSJVQHV3Z
+type: image
+subtype: plan
+title: Bauplan Molkerei 1790
+date: 1790-09
+location: Lenzen, Gartenstraße
+origin:
+  name: Dieter Krüger
+  type: person
+  location: Lüchow
+files:
+  - role: main
+    original_name: scan_435.tif
+    path: files/0e/47/0e47fe7c039c0cda459ea04419ab577462bf8f3ebf9715dca3b004f1f39b8126/original.tif
+    sha256: 0e47fe7c039c0cda459ea04419ab577462bf8f3ebf9715dca3b004f1f39b8126
+    mime: image/tiff
+    bytes: 21765495
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0e/47/0e47fe7c039c0cda459ea04419ab577462bf8f3ebf9715dca3b004f1f39b8126/preview-400.cdf6e52527a5.jpg
+        sha256: cdf6e52527a56afe7265bfddffeb74877feee4909080d225262cd390c4f772f4
+        mime: image/jpeg
+        bytes: 63488
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01G8N8NAKCXRMA2JTPH3C3HKPF
+type: image
+subtype: plan
+title: Flurkarte Kapern, Pretzier
+description: Mit handschriftlichen Ergänzungen.
+date: 1846-09
+origin:
+  name: Friedrich Brandt
+  type: person
+  location: Lüchow
+owner:
+  name: Käthe Detlefs
+  type: person
+  note: Leihgabe
+files:
+  - role: main
+    original_name: scan_989.tif
+    path: files/22/7a/227ac8918e94e54ba17f64df3bb3d2ca7c14a58e7747eae76c9dcd087d2bb307/original.tif
+    sha256: 227ac8918e94e54ba17f64df3bb3d2ca7c14a58e7747eae76c9dcd087d2bb307
+    mime: image/tiff
+    bytes: 4803561
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/22/7a/227ac8918e94e54ba17f64df3bb3d2ca7c14a58e7747eae76c9dcd087d2bb307/preview-400.30537968d4f5.jpg
+        sha256: 30537968d4f5f6249c071a8809c8f07437dc25f78e125534490a1f56f6798ae5
+        mime: image/jpeg
+        bytes: 51733
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01KA9FNB45A30D22RXCX84E8CP
+type: image
+subtype: photo
+title: Fritz Brandt vor dem Scheune
+date: 1892-12
+location: Gülden, Tanzsaal
+geocode:
+  lat: 52.9916
+  lon: 11.6637
+  precision: region
+  source: osm
+origin:
+  name: Wilhelm Bohlmann
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 12/102
+files:
+  - role: main
+    original_name: IMG_2631.jpg
+    path: files/40/40/40404d44c372660c2e8df5ac80134644108b8327df6207d83baa964d07b5901b/original.jpg
+    sha256: 40404d44c372660c2e8df5ac80134644108b8327df6207d83baa964d07b5901b
+    mime: image/jpeg
+    bytes: 5662477
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/40/40/40404d44c372660c2e8df5ac80134644108b8327df6207d83baa964d07b5901b/preview-400.4e90d74d11a5.jpg
+        sha256: 4e90d74d11a55d96f2f9f3a3bb112a7c7b04bf8b484f05a602bd50159b984e47
+        mime: image/jpeg
+        bytes: 68269
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

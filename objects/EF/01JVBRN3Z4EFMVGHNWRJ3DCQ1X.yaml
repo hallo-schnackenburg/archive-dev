@@ -1,0 +1,36 @@
+id: 01JVBRN3Z4EFMVGHNWRJ3DCQ1X
+type: image
+subtype: drawing
+title: Entwurf für Bäckerei Lüders, Pretzier
+origin:
+  name: Rudolf Plate
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 25/050
+parents:
+  - 01KD000830AWSSZZ7WT8DANPRF
+files:
+  - role: main
+    original_name: scan_112.tif
+    path: files/a9/fd/a9fd1b648c080d91a6f60a5f00a6410a476efb20b4b5d66fab9a740ed21d356d/original.tif
+    sha256: a9fd1b648c080d91a6f60a5f00a6410a476efb20b4b5d66fab9a740ed21d356d
+    mime: image/tiff
+    bytes: 25896646
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a9/fd/a9fd1b648c080d91a6f60a5f00a6410a476efb20b4b5d66fab9a740ed21d356d/preview-400.f67a7e8bd20f.jpg
+        sha256: f67a7e8bd20f799c1de3cd1423b94092424303669844f5802128c02308805b51
+        mime: image/jpeg
+        bytes: 35919
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

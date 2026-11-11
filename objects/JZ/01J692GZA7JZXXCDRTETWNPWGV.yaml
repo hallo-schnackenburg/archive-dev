@@ -1,0 +1,57 @@
+id: 01J692GZA7JZXXCDRTETWNPWGV
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Wohnungsnot 1957
+date: 1957~
+location: Hitzacker, Pfarrhaus
+origin:
+  name: Kirchenvorstand Lüchow
+  type: business
+  location: Gülden
+language: de
+subjects:
+  - name: Einschulung 1957
+    type: event
+parents:
+  - 01G71PJ0VK24HFH5RX1917VY6A
+files:
+  - role: page
+    num: 1
+    original_name: protocol_wnpwgv_001.tif
+    path: files/0b/e9/0be99b26d2aebfeb2ba0c0c0a26ce015f6bd57a1ff09807a31cc16a5bc17b1fa/original.tif
+    sha256: 0be99b26d2aebfeb2ba0c0c0a26ce015f6bd57a1ff09807a31cc16a5bc17b1fa
+    mime: image/tiff
+    bytes: 6119092
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0b/e9/0be99b26d2aebfeb2ba0c0c0a26ce015f6bd57a1ff09807a31cc16a5bc17b1fa/preview-400.759e92555069.jpg
+        sha256: 759e92555069f630958edf034f5a27f5b15ff94c973fddc24c6cfd61768030fb
+        mime: image/jpeg
+        bytes: 35836
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_wnpwgv_002.tif
+    path: files/09/08/09089a8b0802072edf3f3d660d6489cf72d3a8c9b54df8d986312decef60b9b7/original.tif
+    sha256: 09089a8b0802072edf3f3d660d6489cf72d3a8c9b54df8d986312decef60b9b7
+    mime: image/tiff
+    bytes: 24635841
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/08/09089a8b0802072edf3f3d660d6489cf72d3a8c9b54df8d986312decef60b9b7/preview-400.70f6f63f7688.jpg
+        sha256: 70f6f63f7688e70d0760e7cc64078f041c5ae44a5067dea28343116380a1a178
+        mime: image/jpeg
+        bytes: 21737
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

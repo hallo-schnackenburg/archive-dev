@@ -1,0 +1,38 @@
+id: 01HQH3SCNE6KS9WSGFJ0J96224
+type: image
+subtype: photo
+title: Gustav Voss vor dem Bahnhof
+description: Farbfoto, leicht verblasst.
+date: "1893"
+location: Kapern, Schmiede
+origin:
+  name: Fritz Jeß
+  type: person
+  location: Lanz
+subjects:
+  - name: Fähranleger
+    type: building
+  - name: Erntedankfest 1893
+    type: event
+parents:
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+files:
+  - role: main
+    original_name: DSC2180.jpg
+    path: files/ae/69/ae690fb1031c5d745c4af593cc2ede12f03670074aeddf95eb94e1855dd028b5/original.jpg
+    sha256: ae690fb1031c5d745c4af593cc2ede12f03670074aeddf95eb94e1855dd028b5
+    mime: image/jpeg
+    bytes: 10841830
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ae/69/ae690fb1031c5d745c4af593cc2ede12f03670074aeddf95eb94e1855dd028b5/preview-400.76e0d786b2e9.jpg
+        sha256: 76e0d786b2e9ee5baec10b66555484c7ac8b5d90d8085822b1ae10f841454255
+        mime: image/jpeg
+        bytes: 20079
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

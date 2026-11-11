@@ -1,0 +1,39 @@
+id: 01HQ4R70B5XEB6J86QKQ6EVW7X
+type: image
+subtype: print
+title: Lithographie Molkerei, Pretzier
+date: 1940-12
+location: Wittenberge, Elbstraße
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Wustrow
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+  - name: Sportplatz
+    type: building
+parents:
+  - 01FVQ4AW5WXFEF57BN5S1PKQ3J
+files:
+  - role: main
+    original_name: scan_573.tif
+    path: files/e1/ce/e1ce37d43aa13633ee0bab118b20a68d173833707e8dc02ee909981207f4cb09/original.tif
+    sha256: e1ce37d43aa13633ee0bab118b20a68d173833707e8dc02ee909981207f4cb09
+    mime: image/tiff
+    bytes: 22430219
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e1/ce/e1ce37d43aa13633ee0bab118b20a68d173833707e8dc02ee909981207f4cb09/preview-400.b53883d66c08.jpg
+        sha256: b53883d66c08521eb2c38aff8f8f829e579acceec26acf5f69d47c5bcffb0ae3
+        mime: image/jpeg
+        bytes: 66750
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01JET51T5W2V8XQ19CNQDWMF54
+type: image
+subtype: plan
+title: Deichplan Lenzen bis Hitzacker
+date: 1793-10-09
+origin:
+  name: Walter Voss
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br 18/009
+files:
+  - role: main
+    original_name: scan_718.tif
+    path: files/cc/fc/ccfc752c9eed91e8d4d5bd29a94d443e09e9d4c4e2c1529899e5d994b41d2f85/original.tif
+    sha256: ccfc752c9eed91e8d4d5bd29a94d443e09e9d4c4e2c1529899e5d994b41d2f85
+    mime: image/tiff
+    bytes: 5045537
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cc/fc/ccfc752c9eed91e8d4d5bd29a94d443e09e9d4c4e2c1529899e5d994b41d2f85/preview-400.5330e257085b.jpg
+        sha256: 5330e257085ba8f8b5675c73cc537fa11d88de9af8c4088d1822073137e35890
+        mime: image/jpeg
+        bytes: 24577
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

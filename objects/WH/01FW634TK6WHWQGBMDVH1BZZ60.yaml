@@ -1,0 +1,36 @@
+id: 01FW634TK6WHWQGBMDVH1BZZ60
+type: image
+subtype: print
+title: Postkarte Hitzacker, Gasthof Meyer
+description: Kupferstich, koloriert.
+date: 1914-10-14
+location: Wustrow, Deichstraße
+origin:
+  name: Dieter Hartwig
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+parents:
+  - 01KCNQMHENJ8PAWGKRGSDX5HZ0
+files:
+  - role: main
+    original_name: scan_819.tif
+    path: files/5a/a8/5aa82c7ce74d24a7e58b81ed99d6ed1804f9522abdc30cc4ce787199f504cb5d/original.tif
+    sha256: 5aa82c7ce74d24a7e58b81ed99d6ed1804f9522abdc30cc4ce787199f504cb5d
+    mime: image/tiff
+    bytes: 27151382
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5a/a8/5aa82c7ce74d24a7e58b81ed99d6ed1804f9522abdc30cc4ce787199f504cb5d/preview-400.2693ba18d0f0.jpg
+        sha256: 2693ba18d0f0e489f8b64cb6a57fd8d54f9aaf49a340a619649643806a76b19e
+        mime: image/jpeg
+        bytes: 74817
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,48 @@
+id: 01M11SKFX1CCE1N3QQWZPP74WC
+type: image
+subtype: photo
+title: Emma Nitschke, Porträt
+date: 1927-11-02
+location: Bömenzien, Elbstraße
+geocode:
+  lat: 52.9396
+  lon: 11.5441
+  precision: street
+  source: osm
+origin:
+  name: August Schulz
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Album 20/011
+subjects:
+  - name: Gülden
+    type: place
+  - name: Viehmarkt 1927
+    type: event
+  - name: Hochwasser 1927
+    type: event
+files:
+  - role: main
+    original_name: scan_704.tif
+    path: files/d5/14/d5144738aa2ef45aeaf2b63c0b239ff7dbb7abae6ce5099d5246bc172666413d/original.tif
+    sha256: d5144738aa2ef45aeaf2b63c0b239ff7dbb7abae6ce5099d5246bc172666413d
+    mime: image/tiff
+    bytes: 15512914
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d5/14/d5144738aa2ef45aeaf2b63c0b239ff7dbb7abae6ce5099d5246bc172666413d/preview-400.864e92a2d175.jpg
+        sha256: 864e92a2d17525171b47be45a0e6956c2285fa8c7d3be93ccae7333577e744a6
+        mime: image/jpeg
+        bytes: 75327
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

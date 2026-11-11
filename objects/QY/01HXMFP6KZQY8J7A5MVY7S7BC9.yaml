@@ -1,0 +1,65 @@
+id: 01HXMFP6KZQY8J7A5MVY7S7BC9
+type: document
+subtype: letter
+title: Antwort auf das Gesuch zu Brückenreparatur, Brünkendorf
+description: Betrifft Schulgeld.
+date: 1862-02
+location: Restorf, Pumpenhaus
+geocode:
+  lat: 52.9928
+  lon: 11.4695
+  precision: street
+  source: osm
+origin:
+  name: August Heuer
+  type: person
+  location: Cumlosen
+language: de
+subjects:
+  - name: Restorf
+    type: place
+  - name: Wilhelm Lemke
+    type: person
+parents:
+  - 01GF0SSB3PSQ3ZJJP70B51NM10
+files:
+  - role: page
+    num: 1
+    original_name: letter_7s7bc9_001.tif
+    path: files/a4/17/a417485652387008cfe848932698811505ad611c8767002b266ae9836cbae9a3/original.tif
+    sha256: a417485652387008cfe848932698811505ad611c8767002b266ae9836cbae9a3
+    mime: image/tiff
+    bytes: 14966915
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a4/17/a417485652387008cfe848932698811505ad611c8767002b266ae9836cbae9a3/preview-400.bacfa4bbb356.jpg
+        sha256: bacfa4bbb356dd7b9d6ee630cdd9cc85185cc6fbbd0ced1f8a0067eeb623d841
+        mime: image/jpeg
+        bytes: 25962
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_7s7bc9_002.tif
+    path: files/86/18/8618876b9f088f9533fab3e69ac742267835a3f2fa6667fa1c2803608158c9d4/original.tif
+    sha256: 8618876b9f088f9533fab3e69ac742267835a3f2fa6667fa1c2803608158c9d4
+    mime: image/tiff
+    bytes: 2819778
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/18/8618876b9f088f9533fab3e69ac742267835a3f2fa6667fa1c2803608158c9d4/preview-400.03bc050ba23e.jpg
+        sha256: 03bc050ba23e0c5150d9b32e2fe975f9728f69b451983dd6eb27293a9c491a94
+        mime: image/jpeg
+        bytes: 62679
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

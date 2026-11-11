@@ -1,0 +1,40 @@
+id: 01J5YZD2WC4JV9WJH14G0GQV34
+type: image
+subtype: photo
+title: Heinrich Lenz, Porträt
+date: 1948/1958
+location: Zadrau, Bahnhof
+geocode:
+  lat: 53.076
+  lon: 11.5555
+  precision: exact
+  source: osm
+origin:
+  name: Heinz Hennings
+  type: person
+  location: Kapern
+subjects:
+  - name: Otto Lüders
+    type: person
+  - name: Rüterberg
+    type: place
+files:
+  - role: main
+    original_name: P0189.jpg
+    path: files/c7/33/c733d7c02e9eb6949a48e44da6eb78eb472b8f2d132736a8b93893395e6570b2/original.jpg
+    sha256: c733d7c02e9eb6949a48e44da6eb78eb472b8f2d132736a8b93893395e6570b2
+    mime: image/jpeg
+    bytes: 712829
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/c7/33/c733d7c02e9eb6949a48e44da6eb78eb472b8f2d132736a8b93893395e6570b2/preview-400.6a49d0c31f23.jpg
+        sha256: 6a49d0c31f23acfe7ec3ef05c3d4d73cba431ed693554fe1b837812e596c1242
+        mime: image/jpeg
+        bytes: 64215
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

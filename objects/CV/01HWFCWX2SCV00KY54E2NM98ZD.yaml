@@ -1,0 +1,42 @@
+id: 01HWFCWX2SCV00KY54E2NM98ZD
+type: image
+subtype: print
+title: Postkarte Dömitz, Kegelbahn
+date: 1906-12-08
+location: Zadrau, Kriegerdenkmal
+geocode:
+  lat: 52.9055
+  lon: 11.5774
+  precision: street
+  source: osm
+origin:
+  name: Rudolf Ludolf
+  type: person
+  location: Restorf
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Fastnacht 1906
+    type: event
+  - name: Erika Ahrens
+    type: person
+files:
+  - role: main
+    original_name: scan_962.tif
+    path: files/15/1f/151f358ec20bd98f27f7b2b56430d626811e307f45a864dec5723612032879d9/original.tif
+    sha256: 151f358ec20bd98f27f7b2b56430d626811e307f45a864dec5723612032879d9
+    mime: image/tiff
+    bytes: 6320100
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/15/1f/151f358ec20bd98f27f7b2b56430d626811e307f45a864dec5723612032879d9/preview-400.4cf4946e31b0.jpg
+        sha256: 4cf4946e31b0653ab51e372bf7e314d6e355fed5d3951a4bfad3134bca84384a
+        mime: image/jpeg
+        bytes: 22811
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

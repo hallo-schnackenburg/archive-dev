@@ -1,0 +1,43 @@
+id: 01F3W5BTRBVF3MJXPH4AWAZRJH
+type: image
+subtype: plan
+title: Deichplan Gollensdorf bis Arendsee
+description: Mit handschriftlichen Ergänzungen.
+date: 1959/1964
+origin:
+  name: Lotte Garms
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok/Kasten 22/021
+  note: Regal 4, Kiste 2
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9695
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Speicher
+    type: building
+files:
+  - role: main
+    original_name: scan_173.tif
+    path: files/1d/82/1d8249527f62f6b8e55ccaa96d1137399c0a756c92c42d8e1087ff9e6c5598d6/original.tif
+    sha256: 1d8249527f62f6b8e55ccaa96d1137399c0a756c92c42d8e1087ff9e6c5598d6
+    mime: image/tiff
+    bytes: 23309203
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/82/1d8249527f62f6b8e55ccaa96d1137399c0a756c92c42d8e1087ff9e6c5598d6/preview-400.7464698c5395.jpg
+        sha256: 7464698c5395f2976a6beba10ccaa00e1d27199b0f17d0e3253eedd8042d67d2
+        mime: image/jpeg
+        bytes: 77561
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

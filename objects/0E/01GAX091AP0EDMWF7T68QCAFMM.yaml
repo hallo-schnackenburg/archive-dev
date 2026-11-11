@@ -1,0 +1,63 @@
+id: 01GAX091AP0EDMWF7T68QCAFMM
+type: document
+subtype: letter
+title: Mitteilung aus Cumlosen an Familie Wiegmann
+description: Betrifft Pachtvertrag.
+location: Salzwedel, Deichstraße
+origin:
+  name: Ilse Schwarz
+  type: person
+  location: Wittenberge
+recipient: Gerda Lenz
+language: de
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Schützenfest 1890
+    type: event
+  - name: Restorf
+    type: place
+parents:
+  - 01HDS44JS4B8GN7QC5M5DZA42B
+  - 01FGVBASJXHEH355K2B76NTT5V
+files:
+  - role: page
+    num: 1
+    original_name: letter_qcafmm_001.tif
+    path: files/fb/00/fb003c40c25a5e47c976fd7e9600690a78ecb1d872a08f64df80882a55c8ae99/original.tif
+    sha256: fb003c40c25a5e47c976fd7e9600690a78ecb1d872a08f64df80882a55c8ae99
+    mime: image/tiff
+    bytes: 15988347
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fb/00/fb003c40c25a5e47c976fd7e9600690a78ecb1d872a08f64df80882a55c8ae99/preview-400.84d9e69b476d.jpg
+        sha256: 84d9e69b476d0bc27fd27861880431a079421ba4083f49506f870308e51cf1bc
+        mime: image/jpeg
+        bytes: 30771
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_qcafmm_002.tif
+    path: files/d0/bf/d0bf57a8025c124363ee26fc745204be8fad28cc58943a1a7e9c50a74ad63da7/original.tif
+    sha256: d0bf57a8025c124363ee26fc745204be8fad28cc58943a1a7e9c50a74ad63da7
+    mime: image/tiff
+    bytes: 26099495
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d0/bf/d0bf57a8025c124363ee26fc745204be8fad28cc58943a1a7e9c50a74ad63da7/preview-400.e4f891935c48.jpg
+        sha256: e4f891935c481539dd0cfbf0e44557896d0d959776bd64edc8110588bb1722b9
+        mime: image/jpeg
+        bytes: 66584
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

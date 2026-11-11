@@ -1,0 +1,49 @@
+id: 01J11JJFY08EPP2Q8WXR0A1QZQ
+type: image
+subtype: photo
+title: Familie Wiegmann beim Straßenfest
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1939-11
+location: Arendsee, Gartenstraße
+geocode:
+  lat: 52.9704
+  lon: 11.6237
+  precision: town
+  source: osm
+origin:
+  name: Sabine Kuhlmann
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Familie Krüger
+    type: person
+    location: Laase
+  reference: Pro 14/136
+subjects:
+  - name: Ortsbesichtigung 1939
+    type: event
+  - name: Irmgard Krüger
+    type: person
+parents:
+  - 01KB00B1WA04Q0PWPM12MS4ZXR
+files:
+  - role: main
+    original_name: P5551.jpg
+    path: files/da/d8/dad814149292bc03b2b7a1d589ceb02ddfa05b92c67c6ca62d1a421538ec65f9/original.jpg
+    sha256: dad814149292bc03b2b7a1d589ceb02ddfa05b92c67c6ca62d1a421538ec65f9
+    mime: image/jpeg
+    bytes: 15396459
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/da/d8/dad814149292bc03b2b7a1d589ceb02ddfa05b92c67c6ca62d1a421538ec65f9/preview-400.3a7fed1c8325.jpg
+        sha256: 3a7fed1c8325832a0a28ea02066d48f37613c73d075d9e0cdb8b39dbbe4f8bf6
+        mime: image/jpeg
+        bytes: 83189
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

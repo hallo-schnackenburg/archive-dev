@@ -1,0 +1,34 @@
+id: 01KWFMKP4ASTHXH37ZPGRX43RA
+type: image
+subtype: print
+title: Postkarte Wootz, Bäckerei Lüders
+location: Gülden, Lange Straße
+origin:
+  name: Heinrich Wiese
+  type: person
+  location: Gülden
+subjects:
+  - name: Hans Lüders
+    type: person
+parents:
+  - 01GTF0FAKD2Z78BGPYW8ZV7JE5
+files:
+  - role: main
+    original_name: scan_014.tif
+    path: files/dc/ca/dcca9ca278aa75f50f1a415534961d72573e6225de2cf3b506f7553564d8aea1/original.tif
+    sha256: dcca9ca278aa75f50f1a415534961d72573e6225de2cf3b506f7553564d8aea1
+    mime: image/tiff
+    bytes: 19598600
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/dc/ca/dcca9ca278aa75f50f1a415534961d72573e6225de2cf3b506f7553564d8aea1/preview-400.55e657026dca.jpg
+        sha256: 55e657026dcae51087dd5f91ede1a0990493a8a240cdba24e9e697dee440c38b
+        mime: image/jpeg
+        bytes: 46153
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

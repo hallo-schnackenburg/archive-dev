@@ -1,0 +1,35 @@
+id: 01F6W7MSH9PVNMHXBY60RFFYXJ
+type: image
+subtype: drawing
+title: Skizze Schnackenburg, Deichstraße
+description: Mit Anmerkungen am Rand.
+date: "1949"
+location: Lüchow, Deichstraße
+geocode:
+  lat: 52.9669
+  lon: 11.6188
+  precision: street
+  source: osm
+subjects:
+  - name: Tanzsaal
+    type: building
+files:
+  - role: main
+    original_name: scan_647.tif
+    path: files/62/8b/628b459b728ae2f606155a9be4ec991f7a37f3e7e636c482cd6acf8932f3c9ed/original.tif
+    sha256: 628b459b728ae2f606155a9be4ec991f7a37f3e7e636c482cd6acf8932f3c9ed
+    mime: image/tiff
+    bytes: 13228251
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/62/8b/628b459b728ae2f606155a9be4ec991f7a37f3e7e636c482cd6acf8932f3c9ed/preview-400.1ba1b434603e.jpg
+        sha256: 1ba1b434603ebbee0e65cab95f865db86f58cb68a540b90f6ddf209fcf36c9f2
+        mime: image/jpeg
+        bytes: 73298
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

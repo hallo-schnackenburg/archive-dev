@@ -1,0 +1,44 @@
+id: 01FA3F6MGRDZ9VXECW9C4RN333
+type: image
+subtype: photo
+title: Grenzöffnung 1996
+date: 199X
+origin:
+  name: Hans Bohlmann
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 16/147
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Lanz
+    type: place
+  - name: Dorfladen
+    type: building
+parents:
+  - 01GVFH3549S673SQ9MMEEV7ZGF
+files:
+  - role: main
+    original_name: IMG_5410.jpg
+    path: files/7e/ce/7ece051e711e0fc8cb6f69f1e1e136fdb2110c6d7bf70c7869660dfd64cf282e/original.jpg
+    sha256: 7ece051e711e0fc8cb6f69f1e1e136fdb2110c6d7bf70c7869660dfd64cf282e
+    mime: image/jpeg
+    bytes: 7851332
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/7e/ce/7ece051e711e0fc8cb6f69f1e1e136fdb2110c6d7bf70c7869660dfd64cf282e/preview-400.e7d40e6f31be.jpg
+        sha256: e7d40e6f31befea78251af5ae817ea1b3a0199adca860e29d0429b24a3ee606a
+        mime: image/jpeg
+        bytes: 57369
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

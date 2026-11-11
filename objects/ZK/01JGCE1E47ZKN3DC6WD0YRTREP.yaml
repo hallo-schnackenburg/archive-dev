@@ -1,0 +1,38 @@
+id: 01JGCE1E47ZKN3DC6WD0YRTREP
+type: image
+subtype: plan
+title: Bauplan Grenzturm 1838
+description: Maßstab 1:1000.
+date: 1838-02-01
+location: Holtorf, Bahnhofstraße
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Familie Wegner
+    type: person
+    location: Wootz
+parents:
+  - 01FA78F7DCMY60051YNWVNSZ2X
+files:
+  - role: main
+    original_name: scan_666.tif
+    path: files/3e/37/3e3731aafcfe6f9e488431663974891e3f5d1d6ffe3b68a0f8405ddab6bcc3c7/original.tif
+    sha256: 3e3731aafcfe6f9e488431663974891e3f5d1d6ffe3b68a0f8405ddab6bcc3c7
+    mime: image/tiff
+    bytes: 18288000
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3e/37/3e3731aafcfe6f9e488431663974891e3f5d1d6ffe3b68a0f8405ddab6bcc3c7/preview-400.ea3c2601de59.jpg
+        sha256: ea3c2601de592706896b6cdd91eb5295efdfc43341830c5f9c0de7fbda6057a4
+        mime: image/jpeg
+        bytes: 86367
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

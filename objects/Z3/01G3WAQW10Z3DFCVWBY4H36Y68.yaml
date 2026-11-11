@@ -1,0 +1,35 @@
+id: 01G3WAQW10Z3DFCVWBY4H36Y68
+type: image
+subtype: drawing
+title: Fähranleger, Aquarell, Gollensdorf
+date: "1844"
+subjects:
+  - name: Grenzturm
+    type: building
+  - name: Pretzier
+    type: place
+  - name: Gutshaus
+    type: building
+parents:
+  - 01FWY61A77XH3W72586VADGV50
+  - 01HP82YB6MPZJ20Z4EGHA5QYFX
+files:
+  - role: main
+    original_name: scan_440.tif
+    path: files/cf/7b/cf7bd5312b553dbf1f232c57c27be9d954cb52bbfc4762e0d81c31365a3fa113/original.tif
+    sha256: cf7bd5312b553dbf1f232c57c27be9d954cb52bbfc4762e0d81c31365a3fa113
+    mime: image/tiff
+    bytes: 26455982
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cf/7b/cf7bd5312b553dbf1f232c57c27be9d954cb52bbfc4762e0d81c31365a3fa113/preview-400.27ee165aee1e.jpg
+        sha256: 27ee165aee1eccedf24538b5ab9e9d74e32254f37937b649c519c4c498cde3c1
+        mime: image/jpeg
+        bytes: 48132
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

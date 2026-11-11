@@ -1,0 +1,38 @@
+id: 01JCQWCX4K0PMVYWV87X3YX1FS
+type: image
+subtype: print
+title: Postkarte Hitzacker, Kindergarten
+description: Lithographie, Rand beschnitten.
+location: Hitzacker, Fährstraße
+geocode:
+  lat: 52.9647
+  lon: 11.5356
+  precision: region
+  source: osm
+origin:
+  name: Albert Sievers
+  type: person
+  location: Lüchow
+subjects:
+  - name: Rüterberg
+    type: place
+files:
+  - role: main
+    original_name: scan_269.tif
+    path: files/b3/91/b3919d7a3811088046084400bebb0ef8cb7be38ac3bf466839c830fcf0b55c1e/original.tif
+    sha256: b3919d7a3811088046084400bebb0ef8cb7be38ac3bf466839c830fcf0b55c1e
+    mime: image/tiff
+    bytes: 12349987
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b3/91/b3919d7a3811088046084400bebb0ef8cb7be38ac3bf466839c830fcf0b55c1e/preview-400.5cb4b5ba40aa.jpg
+        sha256: 5cb4b5ba40aaa7ffa8a9164ef1ae084f20e2ce009485f37fdff969f8deb37182
+        mime: image/jpeg
+        bytes: 79667
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

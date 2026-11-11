@@ -1,0 +1,33 @@
+id: 01HJ8W3RH2JPKGAVNJX02Q53RQ
+type: image
+subtype: plan
+title: Bauplan Elbdeich 1945
+date: "1945"
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 13/036
+parents:
+  - 01HCRJBF96Y6XBHZZ8XQX7630X
+files:
+  - role: main
+    original_name: scan_233.tif
+    path: files/29/3c/293cad8786ca8d3b23e6f4c058c5d239a782f43f1d1771fcb6d5b1ecd36a48ce/original.tif
+    sha256: 293cad8786ca8d3b23e6f4c058c5d239a782f43f1d1771fcb6d5b1ecd36a48ce
+    mime: image/tiff
+    bytes: 2448487
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/29/3c/293cad8786ca8d3b23e6f4c058c5d239a782f43f1d1771fcb6d5b1ecd36a48ce/preview-400.507d30bf641f.jpg
+        sha256: 507d30bf641fea7b9aa5a59ecefe100903c2b78b8b9853d98f818c1047604b80
+        mime: image/jpeg
+        bytes: 43861
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

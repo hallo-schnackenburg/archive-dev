@@ -1,0 +1,32 @@
+id: 01FQV4QJKNNDP35FAQFNFCA7BP
+type: image
+subtype: plan
+title: Bauplan Sparkasse 1858
+description: Tusche auf Transparentpapier.
+date: 1858-03-18
+location: Lüchow, Hafenstraße
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Beerdigung 1858
+    type: event
+files:
+  - role: main
+    original_name: scan_904.tif
+    path: files/1e/2e/1e2eb7cd980a1714b5bf02f8bcb787baeaeccf4917b7df635e6700b527d3c49f/original.tif
+    sha256: 1e2eb7cd980a1714b5bf02f8bcb787baeaeccf4917b7df635e6700b527d3c49f
+    mime: image/tiff
+    bytes: 21106511
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1e/2e/1e2eb7cd980a1714b5bf02f8bcb787baeaeccf4917b7df635e6700b527d3c49f/preview-400.3e3b1991bd1f.jpg
+        sha256: 3e3b1991bd1f71b488aad33e489284856e8c53e007855886164c7f1c53be7596
+        mime: image/jpeg
+        bytes: 54551
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01GGXFT654FDTT2T7C44PF1T65
+type: image
+subtype: print
+title: Postkarte Seedorf, Wassermühle
+description: Postkarte, gelaufen 1918.
+date: "1727"
+origin:
+  name: Rudolf Wiese
+  type: person
+  location: Dömitz
+subjects:
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01FE51YC393SEJ3F0E3BYAZ1NB
+files:
+  - role: main
+    original_name: scan_766.tif
+    path: files/82/aa/82aaa0359ac60f8099de5d7746c1467a250542607a9aab1626d0d95e30712284/original.tif
+    sha256: 82aaa0359ac60f8099de5d7746c1467a250542607a9aab1626d0d95e30712284
+    mime: image/tiff
+    bytes: 9639488
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/82/aa/82aaa0359ac60f8099de5d7746c1467a250542607a9aab1626d0d95e30712284/preview-400.919dcc290a45.jpg
+        sha256: 919dcc290a45d7b5f0d16bbe66d1c9b56ea1634fa8a98f10eab226aa79041ce2
+        mime: image/jpeg
+        bytes: 81757
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

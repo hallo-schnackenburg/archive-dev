@@ -1,0 +1,52 @@
+id: 01H8HPQCM8RPMMH48WRKA0SRPD
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Gorleben 1842
+date: 1842?
+origin:
+  name: Schulvorstand Havelberg
+  type: business
+  location: Seedorf
+parents:
+  - 01GZR4MDFA5EQY40GSVWP94FQ3
+files:
+  - role: page
+    num: 1
+    original_name: protocol_a0srpd_001.tif
+    path: files/bf/e7/bfe7a102e49d9ad4c2ab9e0554102d0985719d26a0e0aed87f633bcf7ca4efad/original.tif
+    sha256: bfe7a102e49d9ad4c2ab9e0554102d0985719d26a0e0aed87f633bcf7ca4efad
+    mime: image/tiff
+    bytes: 19291590
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bf/e7/bfe7a102e49d9ad4c2ab9e0554102d0985719d26a0e0aed87f633bcf7ca4efad/preview-400.3c390ad2ee72.jpg
+        sha256: 3c390ad2ee724f4c6bae7abf30db73f4ba54fbd58eb700c7960bc3a39bc253da
+        mime: image/jpeg
+        bytes: 76021
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_a0srpd_002.tif
+    path: files/dc/1b/dc1b9637f1eeb902b2fd21688a26d17772169784301c4503efe4f01530a5d872/original.tif
+    sha256: dc1b9637f1eeb902b2fd21688a26d17772169784301c4503efe4f01530a5d872
+    mime: image/tiff
+    bytes: 19612208
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/1b/dc1b9637f1eeb902b2fd21688a26d17772169784301c4503efe4f01530a5d872/preview-400.89dbd2c4c8d3.jpg
+        sha256: 89dbd2c4c8d31ac7afac24bf8b1af001beec603a77867c4ce4f45ac98f453bfa
+        mime: image/jpeg
+        bytes: 27130
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

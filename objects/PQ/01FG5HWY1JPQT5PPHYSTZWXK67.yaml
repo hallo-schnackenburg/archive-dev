@@ -1,0 +1,42 @@
+id: 01FG5HWY1JPQT5PPHYSTZWXK67
+type: image
+subtype: print
+title: Postkarte Laase, Dorfladen
+date: 1776-01-11
+location: Dömitz, Dorfstraße
+geocode:
+  lat: 52.9618
+  lon: 11.4934
+  precision: street
+  source: osm
+origin:
+  name: Walter Ludolf
+  type: person
+  location: Wootz
+subjects:
+  - name: Heinz Hennings
+    type: person
+  - name: Rudolf Plate
+    type: person
+parents:
+  - 01G253EGHDFBNP7ZT73WK1Q02J
+files:
+  - role: main
+    original_name: scan_969.tif
+    path: files/b6/4c/b64c7e543fbd8903f7d2dc8994fbde5609986d2dd89572fb41437c8b13d4fc85/original.tif
+    sha256: b64c7e543fbd8903f7d2dc8994fbde5609986d2dd89572fb41437c8b13d4fc85
+    mime: image/tiff
+    bytes: 16427120
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b6/4c/b64c7e543fbd8903f7d2dc8994fbde5609986d2dd89572fb41437c8b13d4fc85/preview-400.55cb00b73975.jpg
+        sha256: 55cb00b739753a9ca46f2b8b282f640de3d22c0398b9aa3fb1bea5e9143cac71
+        mime: image/jpeg
+        bytes: 56276
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

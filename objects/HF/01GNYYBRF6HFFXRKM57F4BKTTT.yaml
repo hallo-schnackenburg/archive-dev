@@ -1,0 +1,32 @@
+id: 01GNYYBRF6HFFXRKM57F4BKTTT
+type: image
+subtype: plan
+title: Deichplan Pretzier bis Lenzen
+description: Maßstab 1:250.
+date: 1835/1841
+location: Laase, Kaufmannshaus
+subjects:
+  - name: Poststelle
+    type: building
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+files:
+  - role: main
+    original_name: scan_100.tif
+    path: files/cd/7f/cd7f6a77d8c64823ce32fe9aef43432f75deb1d8fbc0bf3d618cd3bcefb165f1/original.tif
+    sha256: cd7f6a77d8c64823ce32fe9aef43432f75deb1d8fbc0bf3d618cd3bcefb165f1
+    mime: image/tiff
+    bytes: 13381323
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cd/7f/cd7f6a77d8c64823ce32fe9aef43432f75deb1d8fbc0bf3d618cd3bcefb165f1/preview-400.0063526e2a91.jpg
+        sha256: 0063526e2a9101049da4f8d1cb2ed337fa850462b94a8aade4ab5a4bfbd3a40e
+        mime: image/jpeg
+        bytes: 23315
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

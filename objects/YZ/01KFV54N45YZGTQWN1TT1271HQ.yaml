@@ -1,0 +1,52 @@
+id: 01KFV54N45YZGTQWN1TT1271HQ
+type: image
+subtype: photo
+title: Blick vom Hafen auf das Dorfkrug
+description: Aufnahme von Frieda Lüders.
+date: 1952?
+location: Seedorf, Dorfstraße
+geocode:
+  lat: 52.9205
+  lon: 11.5277
+  precision: street
+  source: osm
+origin:
+  name: Lotte Hennings
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 27/040
+  note: Kellerarchiv
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v11614
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Dorffest 1952
+    type: event
+parents:
+  - 01KJC97F26R6G337E6PYCP8RR3
+  - 01FJ86NA6W3C03D1PBGTPFRX8T
+files:
+  - role: main
+    original_name: scan_827.tif
+    path: files/bd/3f/bd3fe2a3d582c25ff5430eecbc0a40ac30cd0f69c444112f0eeaf64dc2431fd5/original.tif
+    sha256: bd3fe2a3d582c25ff5430eecbc0a40ac30cd0f69c444112f0eeaf64dc2431fd5
+    mime: image/tiff
+    bytes: 23987739
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/3f/bd3fe2a3d582c25ff5430eecbc0a40ac30cd0f69c444112f0eeaf64dc2431fd5/preview-400.ec345e2dbbc8.jpg
+        sha256: ec345e2dbbc8890e0b0bdbe1d31f359900cb49f9bfb3662fe39f6b71b20c9a36
+        mime: image/jpeg
+        bytes: 76409
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01J0SZ885DHC76BZEYFR6ZACT9
+type: image
+subtype: drawing
+title: Skizze Gartow, Burgstraße
+description: Federzeichnung, laviert.
+date: 1862-12-17
+origin:
+  name: Fritz Schwarz
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Fotos 27/395
+subjects:
+  - name: Hochzeit 1862
+    type: event
+  - name: Restorf
+    type: place
+files:
+  - role: main
+    original_name: scan_809.tif
+    path: files/a7/28/a728378ffc2348548dcb78a1c6698efd556cb0534b93c8aadfbfad54c7deda7f/original.tif
+    sha256: a728378ffc2348548dcb78a1c6698efd556cb0534b93c8aadfbfad54c7deda7f
+    mime: image/tiff
+    bytes: 9482339
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a7/28/a728378ffc2348548dcb78a1c6698efd556cb0534b93c8aadfbfad54c7deda7f/preview-400.5a30c5d44cb3.jpg
+        sha256: 5a30c5d44cb36f9f617fcc91d724aa341564106f5b35f1cbd3764f8e1230509a
+        mime: image/jpeg
+        bytes: 63355
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

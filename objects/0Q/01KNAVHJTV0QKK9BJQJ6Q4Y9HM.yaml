@@ -1,0 +1,44 @@
+id: 01KNAVHJTV0QKK9BJQJ6Q4Y9HM
+type: image
+subtype: plan
+title: Bauplan Rathaus 1832
+description: Mit handschriftlichen Ergänzungen.
+date: 1832-07-24
+location: Gollensdorf, Burgstraße
+geocode:
+  lat: 52.9114
+  lon: 11.5771
+  precision: region
+  source: osm
+origin:
+  name: Erika Meyer
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Wilhelm Garms
+    type: person
+  - name: Gutshaus
+    type: building
+parents:
+  - 01K5TW5781NJJRQNS4RN8CYBN2
+  - 01GA39T3DGKMZM390K7AXRNKQW
+files:
+  - role: main
+    original_name: scan_733.tif
+    path: files/d3/64/d3649e7576874841da2e03cf1993d9816556028952840e374b2d265c879e3796/original.tif
+    sha256: d3649e7576874841da2e03cf1993d9816556028952840e374b2d265c879e3796
+    mime: image/tiff
+    bytes: 26494823
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d3/64/d3649e7576874841da2e03cf1993d9816556028952840e374b2d265c879e3796/preview-400.a23a186b0fb6.jpg
+        sha256: a23a186b0fb6a30dd0096fc4dd3b13718f9501bc4edd5a8537f20835a651c333
+        mime: image/jpeg
+        bytes: 47508
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

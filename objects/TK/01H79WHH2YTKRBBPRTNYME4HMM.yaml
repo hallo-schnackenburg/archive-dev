@@ -1,0 +1,37 @@
+id: 01H79WHH2YTKRBBPRTNYME4HMM
+type: image
+subtype: photo
+title: Emma Behrens, Porträt
+date: "1949"
+location: Gorleben, Kaufmannshaus
+geocode:
+  lat: 52.9663
+  lon: 11.4947
+  precision: street
+  source: osm
+origin:
+  name: Wilhelm Heuer
+  type: person
+  location: Hitzacker
+parents:
+  - 01F59EC1VBHH3WNCG7D36FBJZ4
+files:
+  - role: main
+    original_name: P5026.jpg
+    path: files/a5/24/a524ccd12dde3984ef3f351c9d1a7ef49d873a5fe4c14f139f450f814a4dfa30/original.jpg
+    sha256: a524ccd12dde3984ef3f351c9d1a7ef49d873a5fe4c14f139f450f814a4dfa30
+    mime: image/jpeg
+    bytes: 24318103
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/a5/24/a524ccd12dde3984ef3f351c9d1a7ef49d873a5fe4c14f139f450f814a4dfa30/preview-400.5e506fdab40a.jpg
+        sha256: 5e506fdab40aee01ebeec90d6c8a7398b4222d965ad33d8beaca65eac81167d5
+        mime: image/jpeg
+        bytes: 74691
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01FN9X21HZEE61QQ2RGNX8ZTRS
+type: image
+subtype: plan
+title: Bauplan Sparkasse 1751
+date: 1751-05-19
+location: Gollensdorf, Am Elbdeich
+geocode:
+  lat: 53.0153
+  lon: 11.4666
+  precision: region
+  source: osm
+origin:
+  name: Emma Matthies
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan 19/200
+files:
+  - role: main
+    original_name: scan_808.tif
+    path: files/c5/4f/c54fd852cb62bb69d72009e401014d39e97fa425c30726ffa5e06e3d21be551e/original.tif
+    sha256: c54fd852cb62bb69d72009e401014d39e97fa425c30726ffa5e06e3d21be551e
+    mime: image/tiff
+    bytes: 2250571
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c5/4f/c54fd852cb62bb69d72009e401014d39e97fa425c30726ffa5e06e3d21be551e/preview-400.cf362294f04c.jpg
+        sha256: cf362294f04c75899299d9ee8a57e1cd2724a18eb32927e2f3f3add698a6740a
+        mime: image/jpeg
+        bytes: 44241
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

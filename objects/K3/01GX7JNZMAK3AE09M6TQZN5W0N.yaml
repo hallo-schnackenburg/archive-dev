@@ -1,0 +1,28 @@
+id: 01GX7JNZMAK3AE09M6TQZN5W0N
+type: image
+subtype: plan
+title: Bauplan Molkerei 1844
+description: Tusche auf Transparentpapier.
+date: 1844-02-08
+parents:
+  - 01JWWTXH4CV5B4FWTT72A87FM2
+files:
+  - role: main
+    original_name: scan_554.tif
+    path: files/6a/cd/6acdef7bdf79042fd1879fbc56c4d3605d83d815653e0b5115550782eaa1a616/original.tif
+    sha256: 6acdef7bdf79042fd1879fbc56c4d3605d83d815653e0b5115550782eaa1a616
+    mime: image/tiff
+    bytes: 7911356
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6a/cd/6acdef7bdf79042fd1879fbc56c4d3605d83d815653e0b5115550782eaa1a616/preview-400.37b9b733239d.jpg
+        sha256: 37b9b733239df78600f4f361cc55995ef3ca5f79189b5d247940551bdd352eec
+        mime: image/jpeg
+        bytes: 49749
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

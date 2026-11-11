@@ -1,0 +1,46 @@
+id: 01H3SN31R35CSTZSKV9ZDEC52Q
+type: image
+subtype: photo
+title: Grenzöffnung 1994
+date: 199X
+location: Dömitz, Gasthof „Zur Elbe“
+geocode:
+  lat: 52.9031
+  lon: 11.6025
+  precision: region
+  source: osm
+origin:
+  name: Dieter Timm
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 31/369
+subjects:
+  - name: Hochwasser 1994
+    type: event
+parents:
+  - 01HRDW5A0Q0EQZ8XQ7B2M475H6
+files:
+  - role: main
+    original_name: IMG_8842.jpg
+    path: files/ca/fb/cafb4da090aaae85a3315d1e1bcbcd5818c4f06d1fca011211b99e7f46237306/original.jpg
+    sha256: cafb4da090aaae85a3315d1e1bcbcd5818c4f06d1fca011211b99e7f46237306
+    mime: image/jpeg
+    bytes: 2191538
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/ca/fb/cafb4da090aaae85a3315d1e1bcbcd5818c4f06d1fca011211b99e7f46237306/preview-400.90a946cef5bb.jpg
+        sha256: 90a946cef5bbc9ed41f042b0a2f04aaa8ecb27ac80139b22f0f947d1c793319e
+        mime: image/jpeg
+        bytes: 87116
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

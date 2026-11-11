@@ -1,0 +1,32 @@
+id: 01EZCSN2FEWV64D7D687SBE1AB
+type: image
+subtype: photo
+title: Ernst Plate, Porträt
+description: Abzug im Format 10 x 15 cm.
+date: 1914?
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v38293
+files:
+  - role: main
+    original_name: IMG_5216.jpg
+    path: files/e5/55/e5555af0a4a9d840462c5e1260297c5b125c1508e55264d65ecbb476c0eec700/original.jpg
+    sha256: e5555af0a4a9d840462c5e1260297c5b125c1508e55264d65ecbb476c0eec700
+    mime: image/jpeg
+    bytes: 27593123
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e5/55/e5555af0a4a9d840462c5e1260297c5b125c1508e55264d65ecbb476c0eec700/preview-400.3c1b70c5740a.jpg
+        sha256: 3c1b70c5740a2e83468f2ce5e7cc289ff31834e6464a2e3263976fc34015a13f
+        mime: image/jpeg
+        bytes: 55423
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

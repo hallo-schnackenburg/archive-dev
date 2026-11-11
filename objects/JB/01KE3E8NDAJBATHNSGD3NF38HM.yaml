@@ -1,0 +1,38 @@
+id: 01KE3E8NDAJBATHNSGD3NF38HM
+type: image
+subtype: photo
+title: Gemeindehaus in Rüterberg
+date: "1892"
+location: Gollensdorf, Kirchstraße
+origin:
+  name: Brigitte Meyer
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: F 22/229
+parents:
+  - 01HYD54FFAY9KMJSV99THJGVD5
+files:
+  - role: main
+    original_name: scan_190.tif
+    path: files/7e/c0/7ec09e8058d64f28721b634e3d405c5ffcad4f5eeb538219d4c5c0ba5091de02/original.tif
+    sha256: 7ec09e8058d64f28721b634e3d405c5ffcad4f5eeb538219d4c5c0ba5091de02
+    mime: image/tiff
+    bytes: 15985222
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7e/c0/7ec09e8058d64f28721b634e3d405c5ffcad4f5eeb538219d4c5c0ba5091de02/preview-400.0f0bb249eee9.jpg
+        sha256: 0f0bb249eee996044d28043f505986ac716025745c9d0797bef82ed885994f6d
+        mime: image/jpeg
+        bytes: 44814
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

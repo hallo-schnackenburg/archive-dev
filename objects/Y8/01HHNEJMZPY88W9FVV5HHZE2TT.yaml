@@ -1,0 +1,37 @@
+id: 01HHNEJMZPY88W9FVV5HHZE2TT
+type: image
+subtype: plan
+title: Deichplan Wootz bis Dömitz
+date: 1967/1971
+location: Pretzier, Hafenstraße
+origin:
+  name: Dieter Lenz
+  type: person
+  location: Lenzen
+subjects:
+  - name: Apotheke
+    type: building
+  - name: Heinrich Behrens
+    type: person
+  - name: Feuerwehrübung 1967
+    type: event
+files:
+  - role: main
+    original_name: scan_302.tif
+    path: files/cd/5a/cd5aec33789c5f6005c9e2da0292e94c13b126a26b91f4daefaf54b2eb63729b/original.tif
+    sha256: cd5aec33789c5f6005c9e2da0292e94c13b126a26b91f4daefaf54b2eb63729b
+    mime: image/tiff
+    bytes: 27673987
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/5a/cd5aec33789c5f6005c9e2da0292e94c13b126a26b91f4daefaf54b2eb63729b/preview-400.7ee4b0a0f519.jpg
+        sha256: 7ee4b0a0f519edee24599d1f4fd5e92e7f1104b81b48e486070f9694f4fb282b
+        mime: image/jpeg
+        bytes: 70411
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

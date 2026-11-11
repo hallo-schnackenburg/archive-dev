@@ -1,0 +1,43 @@
+id: 01FH0BTE5G2M1X9DENFN66J1EY
+type: image
+subtype: plan
+title: Katasterblatt Albers, Kapern
+date: 1914/1922
+location: Wootz, Am Markt
+origin:
+  name: Karl Garms
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 34/394
+subjects:
+  - name: Erntedankfest 1914
+    type: event
+  - name: Viehmarkt 1914
+    type: event
+  - name: Wilhelm Lenz
+    type: person
+files:
+  - role: main
+    original_name: scan_996.tif
+    path: files/e5/36/e536d7b3c9a00b0a7966a42f08f1961f4941587ca01dc674f996d3cf230bec4d/original.tif
+    sha256: e536d7b3c9a00b0a7966a42f08f1961f4941587ca01dc674f996d3cf230bec4d
+    mime: image/tiff
+    bytes: 10353085
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e5/36/e536d7b3c9a00b0a7966a42f08f1961f4941587ca01dc674f996d3cf230bec4d/preview-400.e5dfdd26d91a.jpg
+        sha256: e5dfdd26d91a411566d3ee918a56160bdbe52ef522a79e4bc86f6ce0c9bb9f87
+        mime: image/jpeg
+        bytes: 71414
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

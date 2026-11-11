@@ -1,0 +1,37 @@
+id: 01FJ84T7EW0ZKS6X6XNTB4TTA4
+type: image
+subtype: plan
+title: Katasterblatt Dierks
+description: Maßstab 1:500.
+date: 1997-11-14
+location: Zadrau, Fähranleger
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 13/091
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Bahnhof
+    type: building
+files:
+  - role: main
+    original_name: scan_784.tif
+    path: files/6e/ba/6eba9cb8e532ad7a58d66e680fb87a6b69406f584a022cbd792c04c74ec92f75/original.tif
+    sha256: 6eba9cb8e532ad7a58d66e680fb87a6b69406f584a022cbd792c04c74ec92f75
+    mime: image/tiff
+    bytes: 7542115
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6e/ba/6eba9cb8e532ad7a58d66e680fb87a6b69406f584a022cbd792c04c74ec92f75/preview-400.5a46a68b1f69.jpg
+        sha256: 5a46a68b1f69c5a67a0d6c198d4c29c128e026644d57a3201e03b68eb83eb1ff
+        mime: image/jpeg
+        bytes: 42531
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

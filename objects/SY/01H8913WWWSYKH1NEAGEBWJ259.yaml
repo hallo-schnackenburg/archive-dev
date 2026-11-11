@@ -1,0 +1,35 @@
+id: 01H8913WWWSYKH1NEAGEBWJ259
+type: image
+subtype: drawing
+title: Skizze Cumlosen, Kirchstraße
+date: 1860/1872
+location: Arendsee, Bäckerei Lüders
+origin:
+  name: Helga Krüger
+  type: person
+  location: Seedorf
+subjects:
+  - name: Windmühle
+    type: building
+parents:
+  - 01GVKN942N85NKH8CV072GG85G
+files:
+  - role: main
+    original_name: scan_659.tif
+    path: files/ae/18/ae187b8ca0f63d032002a596118311cf4ad77ea8d5956bf17e296f5d9839145a/original.tif
+    sha256: ae187b8ca0f63d032002a596118311cf4ad77ea8d5956bf17e296f5d9839145a
+    mime: image/tiff
+    bytes: 12090970
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ae/18/ae187b8ca0f63d032002a596118311cf4ad77ea8d5956bf17e296f5d9839145a/preview-400.7fa0339ae6b3.jpg
+        sha256: 7fa0339ae6b385b87f2111a44ed1ce6f69c76ab17524f8273918d9aba4532f23
+        mime: image/jpeg
+        bytes: 38264
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01HTA78GQ5QVATBKBAJ8Z4MPW4
+type: image
+subtype: drawing
+title: Wappenentwurf Kapern, Gorleben
+description: Mit Anmerkungen am Rand.
+date: 1844-05-21
+location: Kapern, Dorfstraße
+origin:
+  name: Albert Wegner
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Ilse Lemke
+    type: person
+  - name: Pretzier
+    type: place
+parents:
+  - 01JAG0VN6X3TDF0BEKQ3Q9ZYWP
+files:
+  - role: main
+    original_name: scan_252.tif
+    path: files/1d/bf/1dbf0ed37b1771ee3cc3b178762054c28d3acd88a759124d908de01a596d50b0/original.tif
+    sha256: 1dbf0ed37b1771ee3cc3b178762054c28d3acd88a759124d908de01a596d50b0
+    mime: image/tiff
+    bytes: 21105887
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/bf/1dbf0ed37b1771ee3cc3b178762054c28d3acd88a759124d908de01a596d50b0/preview-400.b18c25f09ab3.jpg
+        sha256: b18c25f09ab3f7345b2663c90557a612e6cb22a74a9eae8bc652b2757eb54b3a
+        mime: image/jpeg
+        bytes: 21778
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

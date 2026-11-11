@@ -1,0 +1,41 @@
+id: 01KM4M949H1TPWMET9F658CMPG
+type: image
+subtype: photo
+title: Kaufmannshaus in Salzwedel
+description: Aufnahme von Ernst Gaede.
+date: 1954/1961
+location: Wootz, Fähranleger
+geocode:
+  lat: 52.9347
+  lon: 11.4786
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Lanz
+subjects:
+  - name: Glockenweihe 1954
+    type: event
+  - name: Försterei
+    type: building
+files:
+  - role: main
+    original_name: DSC0899.jpg
+    path: files/c2/5f/c25f6b9c4808be68a98a909b5aa209a357d1e5a26245138972fc536b3a46c6c8/original.jpg
+    sha256: c25f6b9c4808be68a98a909b5aa209a357d1e5a26245138972fc536b3a46c6c8
+    mime: image/jpeg
+    bytes: 3457507
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/c2/5f/c25f6b9c4808be68a98a909b5aa209a357d1e5a26245138972fc536b3a46c6c8/preview-400.27c0fe219351.jpg
+        sha256: 27c0fe21935151991be9aedc9f04bf3a17d4223c11466f1314db598b165314e4
+        mime: image/jpeg
+        bytes: 54553
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

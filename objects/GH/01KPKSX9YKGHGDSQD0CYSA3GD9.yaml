@@ -1,0 +1,37 @@
+id: 01KPKSX9YKGHGDSQD0CYSA3GD9
+type: image
+subtype: print
+title: Postkarte Laase, Sparkasse
+description: Kupferstich, koloriert.
+date: 1868-09-02
+location: Kapern, Badestelle
+geocode:
+  lat: 52.9661
+  lon: 11.5729
+  precision: exact
+  source: osm
+subjects:
+  - name: Kindergartenfest 1868
+    type: event
+parents:
+  - 01H19H3S414JQDJQNW8FAB1631
+files:
+  - role: main
+    original_name: scan_308.tif
+    path: files/aa/77/aa77bfcdc2235d90e7341bcd2bf42e2aa14b6149dcad66dbd47eb3939c91e017/original.tif
+    sha256: aa77bfcdc2235d90e7341bcd2bf42e2aa14b6149dcad66dbd47eb3939c91e017
+    mime: image/tiff
+    bytes: 22250920
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/aa/77/aa77bfcdc2235d90e7341bcd2bf42e2aa14b6149dcad66dbd47eb3939c91e017/preview-400.4f2e0fb2b915.jpg
+        sha256: 4f2e0fb2b915ff0a29e97cd963dc0766e03b9abbd8eddff4dfbd1b9474aa5f26
+        mime: image/jpeg
+        bytes: 45881
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

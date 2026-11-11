@@ -1,0 +1,37 @@
+id: 01HMG2BR6DXTE21KCXA80H2BMY
+type: image
+subtype: drawing
+title: Scheune, Aquarell, Salzwedel
+description: Federzeichnung, laviert.
+date: 1940-12-11
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 1/015
+subjects:
+  - name: Hafen
+    type: building
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: scan_552.tif
+    path: files/f3/8b/f38bfffdebaa264e12d270cd92bcb9f879c3ac04aead5687812ba831551e9c55/original.tif
+    sha256: f38bfffdebaa264e12d270cd92bcb9f879c3ac04aead5687812ba831551e9c55
+    mime: image/tiff
+    bytes: 23454845
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f3/8b/f38bfffdebaa264e12d270cd92bcb9f879c3ac04aead5687812ba831551e9c55/preview-400.d3fde53b63d9.jpg
+        sha256: d3fde53b63d9cffc8608f86ed5c027f4e5084d3287a9f5ba23e013d32c7d602b
+        mime: image/jpeg
+        bytes: 62122
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

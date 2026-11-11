@@ -1,0 +1,41 @@
+id: 01FQE2WDXBGJPVASS56T96PD5Q
+type: image
+subtype: photo
+title: Karl Jeß, Porträt, Schnackenburg
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1925"
+location: Cumlosen, Hinter den Höfen
+origin:
+  name: Gerda Plate
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Dorfladen
+    type: building
+  - name: Fährjubiläum 1925
+    type: event
+  - name: Ernst Ahrens
+    type: person
+parents:
+  - 01FE51YC393SEJ3F0E3BYAZ1NB
+  - 01H5HMCYV3GS9H3ZBJZMHBTPJV
+files:
+  - role: main
+    original_name: scan_236.tif
+    path: files/04/b6/04b6396707f3adfcacf3628eb27d97f56de7e2995c90191e1fc7f26ffe6aac95/original.tif
+    sha256: 04b6396707f3adfcacf3628eb27d97f56de7e2995c90191e1fc7f26ffe6aac95
+    mime: image/tiff
+    bytes: 25905322
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/04/b6/04b6396707f3adfcacf3628eb27d97f56de7e2995c90191e1fc7f26ffe6aac95/preview-400.6897d155b74d.jpg
+        sha256: 6897d155b74d97884dfe12c74953f58e97ef732cbfbe1d07e208f71ffbee8df2
+        mime: image/jpeg
+        bytes: 62308
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

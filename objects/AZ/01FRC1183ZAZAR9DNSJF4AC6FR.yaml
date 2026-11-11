@@ -1,0 +1,45 @@
+id: 01FRC1183ZAZAR9DNSJF4AC6FR
+type: image
+subtype: photo
+title: Albert Fricke vor dem Dorfkrug
+date: 1919-04-05
+location: Havelberg, Mühlenweg
+origin:
+  name: Wilhelm Bohlmann
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Familie Wöhlk
+    type: person
+    location: Gollensdorf
+  note: Schrank B
+subjects:
+  - name: Ilse Nitschke
+    type: person
+  - name: Sturmschaden 1919
+    type: event
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+parents:
+  - 01K8Q87E3JR4C3K8F7DC83NBAE
+files:
+  - role: main
+    original_name: DSC2578.jpg
+    path: files/08/ad/08ada4610cadc49bbb9b72a8eaa2847242e5f526ce366782be7689cd8b9a7b98/original.jpg
+    sha256: 08ada4610cadc49bbb9b72a8eaa2847242e5f526ce366782be7689cd8b9a7b98
+    mime: image/jpeg
+    bytes: 8423421
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/08/ad/08ada4610cadc49bbb9b72a8eaa2847242e5f526ce366782be7689cd8b9a7b98/preview-400.8f932a869f18.jpg
+        sha256: 8f932a869f187c9d7ac146a2ffcba4bf103ab3fee33523a2933f568a5dc3420a
+        mime: image/jpeg
+        bytes: 89664
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

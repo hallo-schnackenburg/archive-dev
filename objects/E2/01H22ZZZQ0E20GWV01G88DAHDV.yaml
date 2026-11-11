@@ -1,0 +1,40 @@
+id: 01H22ZZZQ0E20GWV01G88DAHDV
+type: image
+subtype: photo
+title: "Posaunenchor: Gruppenbild Osterfeuer"
+description: Zu sehen sind Rathaus und Schlachterei.
+date: 1969-08
+location: Restorf, Lange Straße
+origin:
+  name: Brigitte Dreyer
+  type: person
+  location: Wootz
+subjects:
+  - name: Beerdigung 1969
+    type: event
+  - name: Friedhofskapelle
+    type: building
+  - name: Dorfteich
+    type: building
+parents:
+  - 01K7Q0067TYFAM11NH26A8ANPJ
+files:
+  - role: main
+    original_name: scan_454.tif
+    path: files/43/f3/43f327fcb9cafb348d244624f8499a91fe17ad14377f28ee6f82c2ee8e5a4a9d/original.tif
+    sha256: 43f327fcb9cafb348d244624f8499a91fe17ad14377f28ee6f82c2ee8e5a4a9d
+    mime: image/tiff
+    bytes: 14662700
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/43/f3/43f327fcb9cafb348d244624f8499a91fe17ad14377f28ee6f82c2ee8e5a4a9d/preview-400.74ee1426d647.jpg
+        sha256: 74ee1426d6474aecb4c4a956661668b4a799e78f4764e4edf1210b8529bf6a46
+        mime: image/jpeg
+        bytes: 50873
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

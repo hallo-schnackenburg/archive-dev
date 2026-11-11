@@ -1,0 +1,35 @@
+id: 01GJ1B0P7J3ZYZKEY5JHJT1AMN
+type: image
+subtype: print
+title: "Kupferstich: Restorf von der Elbseite, Havelberg"
+date: "1834"
+location: Pretzier, Elbstraße
+original:
+  holder:
+    name: Familie Dreyer
+    type: person
+    location: Dömitz
+  reference: Fotos/Album 16/008
+subjects:
+  - name: Fährjubiläum 1834
+    type: event
+files:
+  - role: main
+    original_name: scan_298.tif
+    path: files/a5/7b/a57b4cbf7c0f7dc4bfdb42502ac211c879b6300bb31da8974a699f80023dbfa4/original.tif
+    sha256: a57b4cbf7c0f7dc4bfdb42502ac211c879b6300bb31da8974a699f80023dbfa4
+    mime: image/tiff
+    bytes: 17314343
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a5/7b/a57b4cbf7c0f7dc4bfdb42502ac211c879b6300bb31da8974a699f80023dbfa4/preview-400.ccfd51cd5551.jpg
+        sha256: ccfd51cd55518a3800592f09eb3a1cba5e66f9c052301366f67fa882259e7f66
+        mime: image/jpeg
+        bytes: 74071
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

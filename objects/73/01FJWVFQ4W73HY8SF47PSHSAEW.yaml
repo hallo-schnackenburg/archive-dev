@@ -1,0 +1,41 @@
+id: 01FJWVFQ4W73HY8SF47PSHSAEW
+type: image
+subtype: plan
+title: Bauplan Heuberge 1815
+description: Mit handschriftlichen Ergänzungen.
+date: 1815~
+location: Hitzacker, Marktstraße
+geocode:
+  lat: 52.9694
+  lon: 11.6425
+  precision: street
+  source: osm
+origin:
+  name: Ilse Kuhlmann
+  type: person
+  location: Restorf
+subjects:
+  - name: Ilse Krüger
+    type: person
+parents:
+  - 01GZKK3S8ZTHZFVGYM1SQET170
+files:
+  - role: main
+    original_name: scan_049.tif
+    path: files/a9/5a/a95a8313980136df39e78bf0c932218fb5800e7560ab34f834946450fe9b333f/original.tif
+    sha256: a95a8313980136df39e78bf0c932218fb5800e7560ab34f834946450fe9b333f
+    mime: image/tiff
+    bytes: 6257092
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a9/5a/a95a8313980136df39e78bf0c932218fb5800e7560ab34f834946450fe9b333f/preview-400.1394d6c2c639.jpg
+        sha256: 1394d6c2c6391c473b7e296eecacc72aff4b65fad59c9ec4b61bfcc4597c1dbd
+        mime: image/jpeg
+        bytes: 76776
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

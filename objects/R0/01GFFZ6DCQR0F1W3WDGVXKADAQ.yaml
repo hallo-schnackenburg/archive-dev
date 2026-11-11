@@ -1,0 +1,41 @@
+id: 01GFFZ6DCQR0F1W3WDGVXKADAQ
+type: image
+subtype: plan
+title: Bauplan Scheune 1853
+location: Gollensdorf, Burgstraße
+geocode:
+  lat: 52.9662
+  lon: 11.6136
+  precision: town
+  source: osm
+origin:
+  name: Dieter Gerdes
+  type: person
+  location: Wustrow
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Erntedankfest 1853
+    type: event
+parents:
+  - 01HBAGVGSH8T07D9N2JBVPMDAH
+files:
+  - role: main
+    original_name: scan_512.tif
+    path: files/e8/48/e848598861ca01612ee7f5e3a14eb242ffa5622b6a253ac27a206b36196d13c3/original.tif
+    sha256: e848598861ca01612ee7f5e3a14eb242ffa5622b6a253ac27a206b36196d13c3
+    mime: image/tiff
+    bytes: 9140676
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e8/48/e848598861ca01612ee7f5e3a14eb242ffa5622b6a253ac27a206b36196d13c3/preview-400.c62c382571e7.jpg
+        sha256: c62c382571e79050a1dd899c5e9a6716f579070898f133c0e3fb6598f7f9b18f
+        mime: image/jpeg
+        bytes: 69170
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

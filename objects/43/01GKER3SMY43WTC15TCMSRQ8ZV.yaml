@@ -1,0 +1,36 @@
+id: 01GKER3SMY43WTC15TCMSRQ8ZV
+type: image
+subtype: photo
+title: Erika Lindemann, Porträt
+description: Zu sehen sind Heuberge und Dorfschule.
+date: 2003-04
+location: Cumlosen, Am Elbdeich
+origin:
+  name: Heinrich Matthies
+  type: person
+  location: Gülden
+subjects:
+  - name: Hitzacker
+    type: place
+parents:
+  - 01HRG40C1FAN8Q9TP1QT18AH5E
+files:
+  - role: main
+    original_name: P1547.jpg
+    path: files/78/ee/78eed34feb346986fd02e08358c39946a9892a615a98d15f5bfe1b1afc49a225/original.jpg
+    sha256: 78eed34feb346986fd02e08358c39946a9892a615a98d15f5bfe1b1afc49a225
+    mime: image/jpeg
+    bytes: 11515923
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/78/ee/78eed34feb346986fd02e08358c39946a9892a615a98d15f5bfe1b1afc49a225/preview-400.3867cd1d3b25.jpg
+        sha256: 3867cd1d3b25ea9b65918ee333e406789bbcefab393d83ad714ad3b3d11aec03
+        mime: image/jpeg
+        bytes: 22862
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

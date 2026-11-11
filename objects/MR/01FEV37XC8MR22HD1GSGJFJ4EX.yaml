@@ -1,0 +1,51 @@
+id: 01FEV37XC8MR22HD1GSGJFJ4EX
+type: image
+subtype: print
+title: Postkarte Rüterberg, Bahnhof
+description: Kupferstich, koloriert.
+date: 1914/1924
+location: Brünkendorf, Dorfstraße
+geocode:
+  lat: 53.0354
+  lon: 11.559
+  precision: exact
+  source: osm
+origin:
+  name: Hans Wiegmann
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok 38/288
+subjects:
+  - name: Ernst Ahrens
+    type: person
+  - name: Hochwasser 1914
+    type: event
+  - name: Osterfeuer 1914
+    type: event
+parents:
+  - 01FSR5RWMB3S1C3C5MHAYVRE65
+files:
+  - role: main
+    original_name: scan_204.tif
+    path: files/54/69/54696c690d6b62be82931b888b0c9e48e573fdb6f81aaf23f30d2349aa93ae98/original.tif
+    sha256: 54696c690d6b62be82931b888b0c9e48e573fdb6f81aaf23f30d2349aa93ae98
+    mime: image/tiff
+    bytes: 11358244
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/54/69/54696c690d6b62be82931b888b0c9e48e573fdb6f81aaf23f30d2349aa93ae98/preview-400.0c38e13b3153.jpg
+        sha256: 0c38e13b3153fc283b0449b27009570cf0d763b53031bda085f615d5ee721c59
+        mime: image/jpeg
+        bytes: 83182
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

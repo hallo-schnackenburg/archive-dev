@@ -1,0 +1,34 @@
+id: 01F4KVXPMX4PNJ7PKCPA70PAVF
+type: image
+subtype: plan
+title: Bauplan Poststelle 1908
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos 29/073
+files:
+  - role: main
+    original_name: scan_558.tif
+    path: files/6b/7b/6b7b5e9eef4b7c55c12ac76c9f8de5ae81c22eb01600e746057ef9ca8afc6798/original.tif
+    sha256: 6b7b5e9eef4b7c55c12ac76c9f8de5ae81c22eb01600e746057ef9ca8afc6798
+    mime: image/tiff
+    bytes: 12003525
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6b/7b/6b7b5e9eef4b7c55c12ac76c9f8de5ae81c22eb01600e746057ef9ca8afc6798/preview-400.15de96998f8d.jpg
+        sha256: 15de96998f8de8e234cdd04797462635c809d0919ea1c0ac3f1602a4a2efe692
+        mime: image/jpeg
+        bytes: 61806
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

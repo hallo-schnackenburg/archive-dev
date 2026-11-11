@@ -1,0 +1,45 @@
+id: 01FBBG64X4J3C28KCH6NCHEE8Z
+type: image
+subtype: drawing
+title: Kindergarten, Aquarell, Laase (80)
+description: Bleistift auf Papier.
+date: "1842"
+location: Pretzier, Hinter den Höfen
+geocode:
+  lat: 52.9436
+  lon: 11.5208
+  precision: street
+  source: osm
+origin:
+  name: Otto Nitschke
+  type: person
+  location: Pretzier
+owner:
+  name: Otto Garms
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Fährjubiläum 1842
+    type: event
+parents:
+  - 01KFJF1DM6WA2NVDNSAADJ19BQ
+files:
+  - role: main
+    original_name: scan_732.tif
+    path: files/2e/1f/2e1fc18b65f5868a939ae0aa24c8a55929aa9e6f0bc5ad6f65b42924fb5dc226/original.tif
+    sha256: 2e1fc18b65f5868a939ae0aa24c8a55929aa9e6f0bc5ad6f65b42924fb5dc226
+    mime: image/tiff
+    bytes: 9838574
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2e/1f/2e1fc18b65f5868a939ae0aa24c8a55929aa9e6f0bc5ad6f65b42924fb5dc226/preview-400.444383529bf4.jpg
+        sha256: 444383529bf493120b397e01ed7a2abc27ec7263fc5bb1e8ced9105f5683c087
+        mime: image/jpeg
+        bytes: 34063
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

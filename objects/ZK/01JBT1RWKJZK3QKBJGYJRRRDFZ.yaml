@@ -1,0 +1,43 @@
+id: 01JBT1RWKJZK3QKBJGYJRRRDFZ
+type: document
+subtype: letter
+title: Zeugnis für Helga Wegner
+description: Handschriftlich, 2 Seiten.
+date: 1992-12
+location: Arendsee, Am Elbdeich
+geocode:
+  lat: 52.9188
+  lon: 11.5297
+  precision: exact
+  source: osm
+origin:
+  name: Erika Gaede
+  type: person
+  location: Cumlosen
+language: de
+subjects:
+  - name: Anni Meyer
+    type: person
+parents:
+  - 01H683J429KTWPMPPF52JN3Q9J
+files:
+  - role: page
+    num: 1
+    original_name: letter_rrrdfz_001.tif
+    path: files/80/75/80758761ad2010cea1a609abc8e305113b5cb65c1359ee8ef116bfa10dbb2812/original.tif
+    sha256: 80758761ad2010cea1a609abc8e305113b5cb65c1359ee8ef116bfa10dbb2812
+    mime: image/tiff
+    bytes: 6779359
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/75/80758761ad2010cea1a609abc8e305113b5cb65c1359ee8ef116bfa10dbb2812/preview-400.959b0e6169ee.jpg
+        sha256: 959b0e6169ee4164d98e7ad1835839f6b170144a5a6b2fed5a8b099434927400
+        mime: image/jpeg
+        bytes: 47490
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

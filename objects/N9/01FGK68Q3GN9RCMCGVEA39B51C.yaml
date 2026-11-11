@@ -1,0 +1,34 @@
+id: 01FGK68Q3GN9RCMCGVEA39B51C
+type: image
+subtype: photo
+title: Richtfest 1999
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1999"
+location: Brünkendorf, Bahnhofstraße
+subjects:
+  - name: Karl Schulz
+    type: person
+  - name: Apotheke
+    type: building
+parents:
+  - 01HWXZJSFPT1G68MTVYSQM6PXW
+files:
+  - role: main
+    original_name: scan_392.tif
+    path: files/93/1e/931ee9e38470db56abf1304f49103d5b4b4f7b91a633324a94b21e16b19dc83f/original.tif
+    sha256: 931ee9e38470db56abf1304f49103d5b4b4f7b91a633324a94b21e16b19dc83f
+    mime: image/tiff
+    bytes: 6115382
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/93/1e/931ee9e38470db56abf1304f49103d5b4b4f7b91a633324a94b21e16b19dc83f/preview-400.313f497e22b7.jpg
+        sha256: 313f497e22b711b62848a96810e0000ee234669b57166b4f2bb9d6c1b913d18a
+        mime: image/jpeg
+        bytes: 37356
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

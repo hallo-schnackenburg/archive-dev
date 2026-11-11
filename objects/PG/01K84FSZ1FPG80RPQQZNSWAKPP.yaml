@@ -1,0 +1,38 @@
+id: 01K84FSZ1FPG80RPQQZNSWAKPP
+type: image
+subtype: photo
+title: Familie Wulf beim Schützenfest
+date: 1904-03
+location: Dömitz, Dorfstraße
+geocode:
+  lat: 52.9949
+  lon: 11.5043
+  precision: town
+  source: osm
+origin:
+  name: Rudolf Dreyer
+  type: person
+  location: Lenzen
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_959.tif
+    path: files/c7/dd/c7dd28b6165793d85d6b970352eaf969b3dbd4ee9579b209fc1f50283f3673cc/original.tif
+    sha256: c7dd28b6165793d85d6b970352eaf969b3dbd4ee9579b209fc1f50283f3673cc
+    mime: image/tiff
+    bytes: 4382010
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c7/dd/c7dd28b6165793d85d6b970352eaf969b3dbd4ee9579b209fc1f50283f3673cc/preview-400.f1727e006429.jpg
+        sha256: f1727e0064293d5a902d447efb8bf5d0ef0926f5eb42b3ef80374815d6057d29
+        mime: image/jpeg
+        bytes: 86261
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

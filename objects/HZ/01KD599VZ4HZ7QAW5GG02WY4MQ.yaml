@@ -1,0 +1,33 @@
+id: 01KD599VZ4HZ7QAW5GG02WY4MQ
+type: image
+subtype: plan
+title: Bauplan Badestelle 1776
+description: Tusche auf Transparentpapier.
+date: 1776-08
+subjects:
+  - name: Sturmschaden 1776
+    type: event
+  - name: August Rohde
+    type: person
+  - name: Brünkendorf
+    type: place
+files:
+  - role: main
+    original_name: scan_247.tif
+    path: files/2e/3a/2e3a7699a509b4dd4cb6252f58a395f7c495e3a54a8c0dbd05b226624a106281/original.tif
+    sha256: 2e3a7699a509b4dd4cb6252f58a395f7c495e3a54a8c0dbd05b226624a106281
+    mime: image/tiff
+    bytes: 4343979
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/3a/2e3a7699a509b4dd4cb6252f58a395f7c495e3a54a8c0dbd05b226624a106281/preview-400.c77c59f13eb8.jpg
+        sha256: c77c59f13eb8bc23391fb4184c19129e9b0571db014fc4ee6ff69a385e3ca298
+        mime: image/jpeg
+        bytes: 65060
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

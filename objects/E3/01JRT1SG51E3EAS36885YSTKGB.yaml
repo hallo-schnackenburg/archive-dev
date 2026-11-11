@@ -1,0 +1,47 @@
+id: 01JRT1SG51E3EAS36885YSTKGB
+type: image
+subtype: plan
+title: Deichplan Gülden bis Brünkendorf
+description: Maßstab 1:500.
+date: 189X
+location: Gorleben, Marktstraße
+origin:
+  name: Käthe Voss
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Kasten 4/072
+  note: Schrank B
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Gustav Wiegmann
+    type: person
+  - name: Laase
+    type: place
+parents:
+  - 01K7A9XBEKBQ32YCR4HNDFGW06
+files:
+  - role: main
+    original_name: scan_288.tif
+    path: files/bb/37/bb37e0194b8a549a3ab2579359a42e11f0ee2708352809402087cec2b26dc735/original.tif
+    sha256: bb37e0194b8a549a3ab2579359a42e11f0ee2708352809402087cec2b26dc735
+    mime: image/tiff
+    bytes: 14656844
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bb/37/bb37e0194b8a549a3ab2579359a42e11f0ee2708352809402087cec2b26dc735/preview-400.a33db3ed0985.jpg
+        sha256: a33db3ed0985e43ce17657e6d9c7ec280b82918ffebb9bc19fb75c7609d92fe1
+        mime: image/jpeg
+        bytes: 61730
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

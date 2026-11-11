@@ -1,0 +1,43 @@
+id: 01GK73B91QBM2PPF6KYV7VFR9G
+type: image
+subtype: drawing
+title: Kindergarten, Aquarell, Laase
+date: 1937-07
+location: Arendsee, Kaufmannshaus
+geocode:
+  lat: 52.9562
+  lon: 11.5569
+  precision: street
+  source: osm
+origin:
+  name: Emma Bruns
+  type: person
+  location: Lenzen
+subjects:
+  - name: Gülden
+    type: place
+  - name: Restorf
+    type: place
+parents:
+  - 01FTBRH4CY1NRQ8V7FMPS575HJ
+  - 01K7Q0067TYFAM11NH26A8ANPJ
+files:
+  - role: main
+    original_name: scan_353.tif
+    path: files/db/ed/dbed536c47a3554d37972cd239df111e7e3981df7603a49afdae00614aa62dfa/original.tif
+    sha256: dbed536c47a3554d37972cd239df111e7e3981df7603a49afdae00614aa62dfa
+    mime: image/tiff
+    bytes: 18052210
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/db/ed/dbed536c47a3554d37972cd239df111e7e3981df7603a49afdae00614aa62dfa/preview-400.99abe44f91f6.jpg
+        sha256: 99abe44f91f6ffa02fb27c555ccd02bc4040d60bc28e7025fc0f30329d2f6b9d
+        mime: image/jpeg
+        bytes: 21788
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

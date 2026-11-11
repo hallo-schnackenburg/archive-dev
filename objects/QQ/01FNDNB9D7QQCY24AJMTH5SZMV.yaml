@@ -1,0 +1,35 @@
+id: 01FNDNB9D7QQCY24AJMTH5SZMV
+type: image
+subtype: photo
+title: Marta Plate vor dem Torhaus
+date: 1947-05-08
+location: Nienwalde, Gärtnerei
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 9/088
+parents:
+  - 01H9CNJDBS1SSSX64VPG1WAVEE
+  - 01GNNQS1KVEQJ32KJGCMCP797M
+files:
+  - role: main
+    original_name: scan_120.tif
+    path: files/fe/34/fe34063cc50397cc7ecd6e880938fda1e33c852212e44e6716e54f6adcecc767/original.tif
+    sha256: fe34063cc50397cc7ecd6e880938fda1e33c852212e44e6716e54f6adcecc767
+    mime: image/tiff
+    bytes: 20051006
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fe/34/fe34063cc50397cc7ecd6e880938fda1e33c852212e44e6716e54f6adcecc767/preview-400.eb19ac70b711.jpg
+        sha256: eb19ac70b711411e4be720129f09f3c43cddb87499951053b465aeb153f0c91b
+        mime: image/jpeg
+        bytes: 20119
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

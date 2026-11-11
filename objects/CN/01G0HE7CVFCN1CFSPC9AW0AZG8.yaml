@@ -1,0 +1,40 @@
+id: 01G0HE7CVFCN1CFSPC9AW0AZG8
+type: image
+subtype: plan
+title: Bauplan Pfarrhaus 1911
+description: Mit handschriftlichen Ergänzungen.
+date: "1911"
+location: Wittenberge, Am Markt
+origin:
+  name: Horst Meyer
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Fotos 14/305
+subjects:
+  - name: Glockenweihe 1911
+    type: event
+files:
+  - role: main
+    original_name: scan_260.tif
+    path: files/5f/91/5f911e52d94ffea86ffbf653c3fca44eee9cc8201a568ee95f6100310b8cb283/original.tif
+    sha256: 5f911e52d94ffea86ffbf653c3fca44eee9cc8201a568ee95f6100310b8cb283
+    mime: image/tiff
+    bytes: 16599400
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5f/91/5f911e52d94ffea86ffbf653c3fca44eee9cc8201a568ee95f6100310b8cb283/preview-400.066570157e55.jpg
+        sha256: 066570157e5511d960168cc6ef9fbc6d80fd28b7de0bc02d55c9c265d0c3db5b
+        mime: image/jpeg
+        bytes: 21684
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

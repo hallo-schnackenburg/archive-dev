@@ -1,0 +1,45 @@
+id: 01J64NRBJEJYWZ5SK7H6MA7HQH
+type: image
+subtype: photo
+title: Heinz Krüger, Porträt
+date: "1907"
+location: Lüchow, Pumpenhaus
+origin:
+  name: Ilse Krüger
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 37/051
+owner:
+  name: Gerda Garms
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Schützenhaus
+    type: building
+  - name: Bahnhof
+    type: building
+files:
+  - role: main
+    original_name: scan_387.tif
+    path: files/84/0e/840ee8cac0d271c0ac33ea6cea2d96ba3963021244537c38d3ad16a00b119bc0/original.tif
+    sha256: 840ee8cac0d271c0ac33ea6cea2d96ba3963021244537c38d3ad16a00b119bc0
+    mime: image/tiff
+    bytes: 7824146
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/84/0e/840ee8cac0d271c0ac33ea6cea2d96ba3963021244537c38d3ad16a00b119bc0/preview-400.fda265e8645d.jpg
+        sha256: fda265e8645d863e2b30dedf2c862ba3225ae54e80f62472ec922d7d052e0d6c
+        mime: image/jpeg
+        bytes: 82619
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

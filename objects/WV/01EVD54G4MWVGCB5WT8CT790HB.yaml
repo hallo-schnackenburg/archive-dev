@@ -1,0 +1,44 @@
+id: 01EVD54G4MWVGCB5WT8CT790HB
+type: image
+subtype: plan
+title: Bauplan Feuerwehrhaus 1867
+date: "1867"
+location: Holtorf, Elbdeich
+origin:
+  name: August Voss
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Familie Schulz
+    type: person
+    location: Wootz
+  reference: Br 39/300
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Dorffest 1867
+    type: event
+  - name: Dorffest 1867
+    type: event
+  - name: Anni Wegner
+    type: person
+files:
+  - role: main
+    original_name: scan_575.tif
+    path: files/45/75/4575b263117d44f21a579cf9ebeac35142aa37329b808dcb9fced381081aba0b/original.tif
+    sha256: 4575b263117d44f21a579cf9ebeac35142aa37329b808dcb9fced381081aba0b
+    mime: image/tiff
+    bytes: 17467926
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/45/75/4575b263117d44f21a579cf9ebeac35142aa37329b808dcb9fced381081aba0b/preview-400.d71dbfd681fc.jpg
+        sha256: d71dbfd681fceaef29910ea03017e8bb500c75053b4711ba440977a634d1ae98
+        mime: image/jpeg
+        bytes: 69885
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

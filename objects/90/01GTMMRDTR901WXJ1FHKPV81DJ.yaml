@@ -1,0 +1,42 @@
+id: 01GTMMRDTR901WXJ1FHKPV81DJ
+type: image
+subtype: plan
+title: Bauplan Apotheke 1792
+description: Mit handschriftlichen Ergänzungen.
+date: 1792-12-16
+origin:
+  name: Karl Kuhlmann
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro 38/125
+  note: Planschrank, Fach 3
+subjects:
+  - name: Ilse Nitschke
+    type: person
+parents:
+  - 01FKBD4BVD847YBHNZE34X0MBM
+files:
+  - role: main
+    original_name: scan_121.tif
+    path: files/73/14/7314eb4eee1e01b2b602a5d6ea7c8cff84dd4815a682bc6b3b19402f371593db/original.tif
+    sha256: 7314eb4eee1e01b2b602a5d6ea7c8cff84dd4815a682bc6b3b19402f371593db
+    mime: image/tiff
+    bytes: 12994167
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/73/14/7314eb4eee1e01b2b602a5d6ea7c8cff84dd4815a682bc6b3b19402f371593db/preview-400.334b6221833c.jpg
+        sha256: 334b6221833c3acf0c4147f65869141f5e3aaaf04ff4ce36289b00fdc08eef7c
+        mime: image/jpeg
+        bytes: 45853
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

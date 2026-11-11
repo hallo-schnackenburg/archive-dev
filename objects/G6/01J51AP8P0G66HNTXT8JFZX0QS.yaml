@@ -1,0 +1,45 @@
+id: 01J51AP8P0G66HNTXT8JFZX0QS
+type: image
+subtype: photo
+title: Burgstraße, Ecke Dorfstraße
+description: Farbfoto, leicht verblasst.
+date: 2003-09
+location: Restorf, Elbdeich
+geocode:
+  lat: 52.9377
+  lon: 11.4663
+  precision: region
+  source: osm
+origin:
+  name: Fritz Hennings
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Dachboden, Truhe
+subjects:
+  - name: Frieda Bohlmann
+    type: person
+files:
+  - role: main
+    original_name: P1723.jpg
+    path: files/16/52/16528ab7ac13e936aa660ed3c063f7b1e52e77f8f5742e876b816e93843ca9dc/original.jpg
+    sha256: 16528ab7ac13e936aa660ed3c063f7b1e52e77f8f5742e876b816e93843ca9dc
+    mime: image/jpeg
+    bytes: 1069932
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/16/52/16528ab7ac13e936aa660ed3c063f7b1e52e77f8f5742e876b816e93843ca9dc/preview-400.bc6a12accdb0.jpg
+        sha256: bc6a12accdb0828537020a578326b917205e89b8a1e897b5c0527ab5639ba5cd
+        mime: image/jpeg
+        bytes: 46307
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

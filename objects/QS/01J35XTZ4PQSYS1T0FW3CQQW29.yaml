@@ -1,0 +1,44 @@
+id: 01J35XTZ4PQSYS1T0FW3CQQW29
+type: image
+subtype: photo
+title: Hans Sievers vor dem Tischlerei Bruns
+description: Zu sehen sind Kirche St. Johannis und Dorfladen.
+date: 1902-12
+origin:
+  name: Walter Voss
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Familie Krüger
+    type: person
+    location: Laase
+  reference: Plan 8/112
+  note: Mappe 12
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Gasthof Meyer
+    type: building
+parents:
+  - 01FQ7XJFBHG9XHBP2GHBKAZWD0
+files:
+  - role: main
+    original_name: IMG_5417.jpg
+    path: files/ea/a7/eaa7d00b967a23ed258ffcc9b40e38cc2fa032ee18ab730f95770485e8ed5692/original.jpg
+    sha256: eaa7d00b967a23ed258ffcc9b40e38cc2fa032ee18ab730f95770485e8ed5692
+    mime: image/jpeg
+    bytes: 15361171
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ea/a7/eaa7d00b967a23ed258ffcc9b40e38cc2fa032ee18ab730f95770485e8ed5692/preview-400.9593b2033bd7.jpg
+        sha256: 9593b2033bd722e3b28130b3674a300b1108373c4926c90218074cda53e58e4f
+        mime: image/jpeg
+        bytes: 47071
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

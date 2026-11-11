@@ -1,0 +1,36 @@
+id: 01F0BYFM4B4EM8R7Z0F75WXC4K
+type: image
+subtype: plan
+title: Lageplan Mühle, Wustrow
+date: 1836-03
+origin:
+  name: Hans Heuer
+  type: person
+  location: Wustrow
+subjects:
+  - name: Kirmes 1836
+    type: event
+  - name: Sportplatz
+    type: building
+  - name: Laase
+    type: place
+files:
+  - role: main
+    original_name: scan_892.tif
+    path: files/bc/1c/bc1c79bf38ac8e2db53602e90dbbbf9103e13807117d18365f2f138c489c03de/original.tif
+    sha256: bc1c79bf38ac8e2db53602e90dbbbf9103e13807117d18365f2f138c489c03de
+    mime: image/tiff
+    bytes: 17450425
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bc/1c/bc1c79bf38ac8e2db53602e90dbbbf9103e13807117d18365f2f138c489c03de/preview-400.9897554aa75c.jpg
+        sha256: 9897554aa75cf64e8ba821161c082811ac0804b4c181b15668c232302ae8a5f3
+        mime: image/jpeg
+        bytes: 25533
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

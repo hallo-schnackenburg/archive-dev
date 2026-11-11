@@ -1,0 +1,44 @@
+id: 01GYRC4H83A0CVT1Q9QEET1K4F
+type: image
+subtype: plan
+title: Lageplan Gutshaus, Wustrow
+date: 1948-12-03
+location: Schnackenburg, Burgstraße
+origin:
+  name: Fritz Neumann
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 33/395
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Bömenzien
+    type: place
+  - name: Lenzen
+    type: place
+parents:
+  - 01HAP62ST45VTQVM84K6Q2R732
+files:
+  - role: main
+    original_name: scan_937.tif
+    path: files/e6/6b/e66b06f8d0a39149a9c229c87ad3c9bc1c51976e5b962d837a2b875f0510ef55/original.tif
+    sha256: e66b06f8d0a39149a9c229c87ad3c9bc1c51976e5b962d837a2b875f0510ef55
+    mime: image/tiff
+    bytes: 6211934
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e6/6b/e66b06f8d0a39149a9c229c87ad3c9bc1c51976e5b962d837a2b875f0510ef55/preview-400.6603fed5777c.jpg
+        sha256: 6603fed5777cdf7f6098c67a86bb9e9ab63277cf7fa9225fda435063deabbaf4
+        mime: image/jpeg
+        bytes: 35355
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

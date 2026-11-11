@@ -1,0 +1,45 @@
+id: 01H3V8YPAPDMDVC5W9THBM27G4
+type: image
+subtype: plan
+title: Bauplan Torhaus 1967
+description: Maßstab 1:2500.
+date: "1967"
+origin:
+  name: Helga Klatt
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Mappe 10/065
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Hitzacker
+    type: place
+  - name: Fährjubiläum 1967
+    type: event
+parents:
+  - 01HXDE71QATS2M3MPMXYF5BQTB
+files:
+  - role: main
+    original_name: scan_566.tif
+    path: files/45/20/4520cb627136dd4cb240cfc2184fb05aee9a01eaa8b9fe9b40008bd1370733cf/original.tif
+    sha256: 4520cb627136dd4cb240cfc2184fb05aee9a01eaa8b9fe9b40008bd1370733cf
+    mime: image/tiff
+    bytes: 21876432
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/45/20/4520cb627136dd4cb240cfc2184fb05aee9a01eaa8b9fe9b40008bd1370733cf/preview-400.1e9e6d16c4f2.jpg
+        sha256: 1e9e6d16c4f29a9e48db83d56f218c45da6c8b983a66c4cae92f50d204ac01e1
+        mime: image/jpeg
+        bytes: 87130
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01EXSF1170F373SFBF1PF12W2M
+type: image
+subtype: plan
+title: Bauplan Rathaus 1933
+date: 1933-12-17
+location: Gartow, Brunnen am Markt
+geocode:
+  lat: 53.0168
+  lon: 11.6953
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Wittenberge
+  reference: Pro 18/272
+subjects:
+  - name: Grenzöffnung 1933
+    type: event
+files:
+  - role: main
+    original_name: scan_823.tif
+    path: files/e3/3e/e33ecfc7aa005b508fb56cc66398ff6dd369b2325ee5110ec71474743cb521e4/original.tif
+    sha256: e33ecfc7aa005b508fb56cc66398ff6dd369b2325ee5110ec71474743cb521e4
+    mime: image/tiff
+    bytes: 11025918
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e3/3e/e33ecfc7aa005b508fb56cc66398ff6dd369b2325ee5110ec71474743cb521e4/preview-400.ebaecc52a81f.jpg
+        sha256: ebaecc52a81fd0fee3b5b5250f24f502947779be5fb42b586db91650160d8acd
+        mime: image/jpeg
+        bytes: 21816
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

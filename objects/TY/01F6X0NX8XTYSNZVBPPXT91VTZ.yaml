@@ -1,0 +1,40 @@
+id: 01F6X0NX8XTYSNZVBPPXT91VTZ
+type: image
+subtype: print
+title: Lithographie Ziegelei
+description: Postkarte, gelaufen 1949.
+date: 1819?
+origin:
+  name: Rudolf Lüders
+  type: person
+  location: Lanz
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Lanz
+    type: place
+  - name: Kartoffelernte 1819
+    type: event
+parents:
+  - 01KKPAYKN3WWQ9TTHPWVZWVHF9
+  - 01M265RTMYNX5W0CM6R19YZYNH
+files:
+  - role: main
+    original_name: scan_748.tif
+    path: files/02/8e/028e8b304a627d80ccc4b3fdf5d181a68be392fb3f6c26826857da816776deb7/original.tif
+    sha256: 028e8b304a627d80ccc4b3fdf5d181a68be392fb3f6c26826857da816776deb7
+    mime: image/tiff
+    bytes: 19300816
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/02/8e/028e8b304a627d80ccc4b3fdf5d181a68be392fb3f6c26826857da816776deb7/preview-400.3f6739dd810c.jpg
+        sha256: 3f6739dd810cef46cab52a073972222210cd2bc39cf766a16d3300808be0db13
+        mime: image/jpeg
+        bytes: 36648
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

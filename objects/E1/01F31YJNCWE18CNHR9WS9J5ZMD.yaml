@@ -1,0 +1,41 @@
+id: 01F31YJNCWE18CNHR9WS9J5ZMD
+type: image
+subtype: print
+title: "Kupferstich: Gülden von der Elbseite, Restorf"
+description: Lithographie, Rand beschnitten.
+date: 1757/1762
+location: Holtorf, Hafenstraße
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: F/Mappe 29/107
+  note: Dachboden, Truhe
+subjects:
+  - name: Heuberge
+    type: building
+  - name: Lüchow
+    type: place
+parents:
+  - 01H4PN30WRRJ626WVNCSGETHA9
+files:
+  - role: main
+    original_name: scan_430.tif
+    path: files/40/ff/40ff8e740a8353aedf832db0d1daa56deb5461a70933a25c2be76120d366d02f/original.tif
+    sha256: 40ff8e740a8353aedf832db0d1daa56deb5461a70933a25c2be76120d366d02f
+    mime: image/tiff
+    bytes: 8055805
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/ff/40ff8e740a8353aedf832db0d1daa56deb5461a70933a25c2be76120d366d02f/preview-400.f8e3f933b645.jpg
+        sha256: f8e3f933b64531031b0e5fef2fd81c5212604bf8133523d3cc24afbf1f2f99b8
+        mime: image/jpeg
+        bytes: 58680
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

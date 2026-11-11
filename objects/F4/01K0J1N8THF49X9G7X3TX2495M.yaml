@@ -1,0 +1,49 @@
+id: 01K0J1N8THF49X9G7X3TX2495M
+type: image
+subtype: plan
+title: Bauplan Fachwerkhaus Marktstraße 4 1761
+description: Tusche auf Transparentpapier.
+date: 1761-04
+location: Holtorf, Gemeindehaus
+geocode:
+  lat: 53.0674
+  lon: 11.5576
+  precision: region
+  source: osm
+origin:
+  name: Otto Jeß
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Mappe 29/112
+subjects:
+  - name: Schlachterei
+    type: building
+  - name: Weihnachtsmarkt 1761
+    type: event
+parents:
+  - 01GV9GBAAY8D1BK0CQF82R0YYD
+files:
+  - role: main
+    original_name: scan_403.tif
+    path: files/57/64/5764d9da2d85ab286cc6ca85b6a5193da650ff3395a8099b90533e66c06c35e0/original.tif
+    sha256: 5764d9da2d85ab286cc6ca85b6a5193da650ff3395a8099b90533e66c06c35e0
+    mime: image/tiff
+    bytes: 17706400
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/57/64/5764d9da2d85ab286cc6ca85b6a5193da650ff3395a8099b90533e66c06c35e0/preview-400.0b5d1c083fb0.jpg
+        sha256: 0b5d1c083fb0bd9a8ec11c44a7d4e7d50601d68f74323f51786f764793210542
+        mime: image/jpeg
+        bytes: 83463
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

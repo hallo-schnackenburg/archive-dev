@@ -1,0 +1,45 @@
+id: 01FTGNFBCNXN1ES7T609424Z09
+type: image
+subtype: drawing
+title: Torhaus, Aquarell, Wittenberge
+description: Federzeichnung, laviert.
+date: 1897-02
+location: Arendsee, Kindergarten
+origin:
+  name: Dieter Dierks
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 19/063
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v88040
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Hermann Ludolf
+    type: person
+parents:
+  - 01FC8S7RPDV4DQB5BVMRBYF4FC
+files:
+  - role: main
+    original_name: scan_122.tif
+    path: files/4f/32/4f321710d3554a89f51fca168129e8087860d96c843ae47fa11c83b02ff959a4/original.tif
+    sha256: 4f321710d3554a89f51fca168129e8087860d96c843ae47fa11c83b02ff959a4
+    mime: image/tiff
+    bytes: 9550341
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4f/32/4f321710d3554a89f51fca168129e8087860d96c843ae47fa11c83b02ff959a4/preview-400.81fe6fd24615.jpg
+        sha256: 81fe6fd246154280acae67b0c2df2f26cf3da8f4b7fc801743e4d2757ea49916
+        mime: image/jpeg
+        bytes: 85202
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

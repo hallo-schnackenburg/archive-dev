@@ -1,0 +1,48 @@
+id: 01EZ5VX48ZNEZD1XTPC25Y72KW
+type: image
+subtype: photo
+title: Anni Lemke vor dem Pfarrhaus
+description: Abzug im Format 9 x 13 cm.
+date: 1967-02
+location: Nienwalde, Grenzturm
+geocode:
+  lat: 52.973
+  lon: 11.5253
+  precision: exact
+  source: osm
+origin:
+  name: Günter Rohde
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 29/117
+subjects:
+  - name: Kapern
+    type: place
+parents:
+  - 01F1Q5CD51G9ZH21J5XMQ18G3Z
+  - 01GBN6YKVFSAS5BGP6YM27NA9J
+files:
+  - role: main
+    original_name: scan_853.tif
+    path: files/07/f8/07f80e68ec5ae34255d92ce68323e34bc9778eb113985503929f66ecdc45d44f/original.tif
+    sha256: 07f80e68ec5ae34255d92ce68323e34bc9778eb113985503929f66ecdc45d44f
+    mime: image/tiff
+    bytes: 1335018
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/07/f8/07f80e68ec5ae34255d92ce68323e34bc9778eb113985503929f66ecdc45d44f/preview-400.9e381a3736f4.jpg
+        sha256: 9e381a3736f4b37ba08eed3ea5505e184118072ebc1bc7675571a7f777d9576a
+        mime: image/jpeg
+        bytes: 69830
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

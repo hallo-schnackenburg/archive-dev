@@ -1,0 +1,34 @@
+id: 01K6P0AV882E3JYDJJ4XB0F2D3
+type: image
+subtype: plan
+title: Flurkarte Lanz, Restorf
+description: Mit handschriftlichen Ergänzungen.
+date: 1907-07-11
+location: Laase, Lange Straße
+origin:
+  name: Albert Jeß
+  type: person
+  location: Gartow
+subjects:
+  - name: Arendsee
+    type: place
+files:
+  - role: main
+    original_name: scan_422.tif
+    path: files/53/0a/530ae6fb6d43bec4925d375721be91811a1b3c700a9c29aa629a423ebea97332/original.tif
+    sha256: 530ae6fb6d43bec4925d375721be91811a1b3c700a9c29aa629a423ebea97332
+    mime: image/tiff
+    bytes: 19319907
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/53/0a/530ae6fb6d43bec4925d375721be91811a1b3c700a9c29aa629a423ebea97332/preview-400.39a6451fcb5f.jpg
+        sha256: 39a6451fcb5f2ddb4d56de08eabbeff064cddda57ef63ef44ddc3d90027f4cd5
+        mime: image/jpeg
+        bytes: 48596
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

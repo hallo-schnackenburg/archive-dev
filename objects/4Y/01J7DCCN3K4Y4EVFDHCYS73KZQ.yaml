@@ -1,0 +1,43 @@
+id: 01J7DCCN3K4Y4EVFDHCYS73KZQ
+type: image
+subtype: print
+title: "Holzschnitt: Beerdigung, Salzwedel (60)"
+description: Kupferstich, koloriert.
+date: "1831"
+location: Wootz, Hafenstraße
+geocode:
+  lat: 53.0148
+  lon: 11.5254
+  precision: street
+  source: osm
+origin:
+  name: Otto Wiegmann
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Otto Meyer
+    type: person
+  - name: Pumpenhaus
+    type: building
+parents:
+  - 01GZKK3S8ZTHZFVGYM1SQET170
+files:
+  - role: main
+    original_name: scan_713.tif
+    path: files/19/44/19446fd047700eb5d0d9ce2ab35d2ee25651dea0d289cf1e4d1043d5e4e8a433/original.tif
+    sha256: 19446fd047700eb5d0d9ce2ab35d2ee25651dea0d289cf1e4d1043d5e4e8a433
+    mime: image/tiff
+    bytes: 1089637
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/19/44/19446fd047700eb5d0d9ce2ab35d2ee25651dea0d289cf1e4d1043d5e4e8a433/preview-400.8b8b848dd2b1.jpg
+        sha256: 8b8b848dd2b1850d8734a3212e276103a192fa6c0a74492f91ae8758f558589f
+        mime: image/jpeg
+        bytes: 52613
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

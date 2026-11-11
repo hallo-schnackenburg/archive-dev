@@ -1,0 +1,42 @@
+id: 01FDAKV7EEHPE3C7530PCS0A3D
+type: image
+subtype: drawing
+title: Backhaus, Aquarell, Pretzier
+date: "1853"
+origin:
+  name: Dieter Pape
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 34/325
+subjects:
+  - name: Restorf
+    type: place
+  - name: Sturmschaden 1853
+    type: event
+  - name: Bahnhof
+    type: building
+files:
+  - role: main
+    original_name: scan_940.tif
+    path: files/43/ae/43aeddeecfbf979707c43a843059560fd1bbac7e50ebdde5c496042cf40d437f/original.tif
+    sha256: 43aeddeecfbf979707c43a843059560fd1bbac7e50ebdde5c496042cf40d437f
+    mime: image/tiff
+    bytes: 8071580
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/43/ae/43aeddeecfbf979707c43a843059560fd1bbac7e50ebdde5c496042cf40d437f/preview-400.ecfe29d649de.jpg
+        sha256: ecfe29d649de3c12bbb8c439c2d6b38c8c50e8921df5614585b3d3c92d8441a5
+        mime: image/jpeg
+        bytes: 51744
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

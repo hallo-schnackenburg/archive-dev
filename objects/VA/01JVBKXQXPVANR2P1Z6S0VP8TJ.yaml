@@ -1,0 +1,37 @@
+id: 01JVBKXQXPVANR2P1Z6S0VP8TJ
+type: image
+subtype: photo
+title: Ernst Wiese, Porträt
+date: "2005"
+location: Zadrau, Fährstraße
+origin:
+  name: Ilse Lemke
+  type: person
+  location: Dömitz
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Werner Schwarz
+    type: person
+  - name: Irmgard Heuer
+    type: person
+files:
+  - role: main
+    original_name: scan_382.tif
+    path: files/1c/36/1c367a4f6953913996b2281d6353ffded8557536fb3ddfb538b9fdae1a10f738/original.tif
+    sha256: 1c367a4f6953913996b2281d6353ffded8557536fb3ddfb538b9fdae1a10f738
+    mime: image/tiff
+    bytes: 13325450
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/36/1c367a4f6953913996b2281d6353ffded8557536fb3ddfb538b9fdae1a10f738/preview-400.0decc05e2627.jpg
+        sha256: 0decc05e2627b6743502f485f980f7847564b2554bff61a60c4d2e3b5f2b7486
+        mime: image/jpeg
+        bytes: 59645
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

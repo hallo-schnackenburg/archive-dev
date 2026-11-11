@@ -1,0 +1,42 @@
+id: 01GW3R52JDKHCC2T5DQHR452KF
+type: image
+subtype: photo
+title: Richtfest 1910
+description: Farbfoto, leicht verblasst.
+date: 1910?
+origin:
+  name: Ursula Wöhlk
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 22/063
+  note: Bücherregal links
+subjects:
+  - name: Otto Ludolf
+    type: person
+parents:
+  - 01HH369QCTQQ41PT1K6NF00KAH
+files:
+  - role: main
+    original_name: foto_1415.jpg
+    path: files/7b/79/7b79b1f82d6abb8482a2e5c54991bf3bc0208041d6367806c56da9c9afe1ab7b/original.jpg
+    sha256: 7b79b1f82d6abb8482a2e5c54991bf3bc0208041d6367806c56da9c9afe1ab7b
+    mime: image/jpeg
+    bytes: 9056725
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/7b/79/7b79b1f82d6abb8482a2e5c54991bf3bc0208041d6367806c56da9c9afe1ab7b/preview-400.e8c803f2b871.jpg
+        sha256: e8c803f2b87106b296d1281ab930dd60999d460a2e7712c755b88975987359fb
+        mime: image/jpeg
+        bytes: 85953
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

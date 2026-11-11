@@ -1,0 +1,31 @@
+id: 01GWJ37KYBTV7A1M0474Q2GJB2
+type: image
+subtype: print
+title: Lithographie Gutshaus
+date: 1850-10-17
+location: Nienwalde, Torhaus
+subjects:
+  - name: Kartoffelernte 1850
+    type: event
+  - name: Heinrich Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_680.tif
+    path: files/67/23/67231260c1dbb593fefe46f64100a2eea3d2e203e36cb79cf4c936fa125a36ad/original.tif
+    sha256: 67231260c1dbb593fefe46f64100a2eea3d2e203e36cb79cf4c936fa125a36ad
+    mime: image/tiff
+    bytes: 5686443
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/67/23/67231260c1dbb593fefe46f64100a2eea3d2e203e36cb79cf4c936fa125a36ad/preview-400.9c4232104ec7.jpg
+        sha256: 9c4232104ec7150c9ba223a6072fa914ce1eea782f19837302a5dc56a654ac34
+        mime: image/jpeg
+        bytes: 79438
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

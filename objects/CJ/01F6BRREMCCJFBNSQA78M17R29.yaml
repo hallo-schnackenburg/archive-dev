@@ -1,0 +1,45 @@
+id: 01F6BRREMCCJFBNSQA78M17R29
+type: image
+subtype: photo
+title: Familie Gaede beim Weihnachtsmarkt
+description: Abzug im Format 10 x 15 cm.
+date: 1961-08
+location: Kapern, Kirchstraße
+geocode:
+  lat: 52.9634
+  lon: 11.6879
+  precision: exact
+  source: osm
+origin:
+  name: Erika Stoll
+  type: person
+  location: Lenzen
+subjects:
+  - name: Hans Dreyer
+    type: person
+  - name: Gärtnerei
+    type: building
+  - name: Viehmarkt 1961
+    type: event
+parents:
+  - 01GTF0FAKD2Z78BGPYW8ZV7JE5
+files:
+  - role: main
+    original_name: foto_4847.jpg
+    path: files/40/ca/40caf563b8cbe4894498649588a171a940ca115b57fd1be5b66eb25aed05f502/original.jpg
+    sha256: 40caf563b8cbe4894498649588a171a940ca115b57fd1be5b66eb25aed05f502
+    mime: image/jpeg
+    bytes: 18644519
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/40/ca/40caf563b8cbe4894498649588a171a940ca115b57fd1be5b66eb25aed05f502/preview-400.b128c5a033b2.jpg
+        sha256: b128c5a033b201e6b44ccd2f4fa9151c8d52a34ab4397e435e0e59bdee90b7c0
+        mime: image/jpeg
+        bytes: 60601
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

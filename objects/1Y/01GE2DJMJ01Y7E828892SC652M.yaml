@@ -1,0 +1,51 @@
+id: 01GE2DJMJ01Y7E828892SC652M
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Einweihung, Seedorf"
+description: Bleistift auf Papier.
+date: 182X
+location: Schnackenburg, Dorfstraße
+geocode:
+  lat: 53.0402
+  lon: 11.6742
+  precision: exact
+  source: osm
+origin:
+  name: Gerda Tiedemann
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 25/001
+subjects:
+  - name: Erntedankfest 1821
+    type: event
+  - name: Albert Bohlmann
+    type: person
+  - name: Hans Voss
+    type: person
+parents:
+  - 01GPX56NY6DD91HTSCGYG7TKDB
+files:
+  - role: main
+    original_name: scan_786.tif
+    path: files/b8/d1/b8d117e29c26bb289377594d003edf5eebe6ec08a436e8c648fad857654cff52/original.tif
+    sha256: b8d117e29c26bb289377594d003edf5eebe6ec08a436e8c648fad857654cff52
+    mime: image/tiff
+    bytes: 8116094
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b8/d1/b8d117e29c26bb289377594d003edf5eebe6ec08a436e8c648fad857654cff52/preview-400.cdeaff74827b.jpg
+        sha256: cdeaff74827b626ff2a3126518a8c97a19ec023a5395a8dca82a3087bf898969
+        mime: image/jpeg
+        bytes: 47649
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01KJQXWBM0QJPG1NGYRE1P3B9M
+type: image
+subtype: drawing
+title: Schmiede, Aquarell
+description: Mit Anmerkungen am Rand.
+date: 197X
+location: Gorleben, Dorfstraße
+origin:
+  name: Gerda Ihde
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Ernst Detlefs
+    type: person
+  - name: Fähranleger
+    type: building
+parents:
+  - 01HQR6RV72ZH2HDYEHKXXJ1EJM
+  - 01JFKAQQ0R80TT983HC9766EP1
+files:
+  - role: main
+    original_name: scan_766.tif
+    path: files/78/41/7841ca6dfb23587e1fb5de56d43410c5cef04fc540e715705edf89d08af5ada0/original.tif
+    sha256: 7841ca6dfb23587e1fb5de56d43410c5cef04fc540e715705edf89d08af5ada0
+    mime: image/tiff
+    bytes: 23304614
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/78/41/7841ca6dfb23587e1fb5de56d43410c5cef04fc540e715705edf89d08af5ada0/preview-400.2df60886e2fe.jpg
+        sha256: 2df60886e2fe9ec1dbb7bfce4c7c06ed17931fc154b9f634da129d2225cea11d
+        mime: image/jpeg
+        bytes: 21497
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

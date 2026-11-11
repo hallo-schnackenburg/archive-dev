@@ -1,0 +1,30 @@
+id: 01EYKPHRK8Z1412KZR8934JREF
+type: image
+subtype: plan
+title: Deichplan Wittenberge bis Dömitz
+description: Tusche auf Transparentpapier.
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Lenzen
+    type: place
+files:
+  - role: main
+    original_name: scan_235.tif
+    path: files/c2/60/c260dfacc4e1adc85333eea936339c3d163015036aa851e93904f9976a1a8f05/original.tif
+    sha256: c260dfacc4e1adc85333eea936339c3d163015036aa851e93904f9976a1a8f05
+    mime: image/tiff
+    bytes: 23958764
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c2/60/c260dfacc4e1adc85333eea936339c3d163015036aa851e93904f9976a1a8f05/preview-400.5205154b074b.jpg
+        sha256: 5205154b074bd1dda98cf859d01f188812ccc0b7a3d7b1199aed282fadf444b5
+        mime: image/jpeg
+        bytes: 66248
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01H91YD6DJ5XCYJFF3KDNKKQF7
+type: image
+subtype: print
+title: Postkarte Rüterberg, Gasthof „Zur Elbe“
+description: Kupferstich, koloriert.
+date: 1948-01
+location: Nienwalde, Dorfladen
+subjects:
+  - name: Scheune
+    type: building
+  - name: Zadrau
+    type: place
+  - name: Gerda Jürgens
+    type: person
+parents:
+  - 01JE13KP3MCDRS8N82FYSXB27D
+  - 01FDA5WD2HAQWVA4SE72GX6KEJ
+files:
+  - role: main
+    original_name: scan_850.tif
+    path: files/d0/be/d0be415a7f47cfb2d67a254f9c96f21cb5592fb595c7a5dcf80567ab78a6cb16/original.tif
+    sha256: d0be415a7f47cfb2d67a254f9c96f21cb5592fb595c7a5dcf80567ab78a6cb16
+    mime: image/tiff
+    bytes: 6344633
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d0/be/d0be415a7f47cfb2d67a254f9c96f21cb5592fb595c7a5dcf80567ab78a6cb16/preview-400.ed1662caba52.jpg
+        sha256: ed1662caba52104350b4d0ea667148de17f14ba4b3f8d9d20832a2404fb667f1
+        mime: image/jpeg
+        bytes: 36827
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

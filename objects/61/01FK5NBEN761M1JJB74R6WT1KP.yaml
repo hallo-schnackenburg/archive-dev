@@ -1,0 +1,35 @@
+id: 01FK5NBEN761M1JJB74R6WT1KP
+type: image
+subtype: drawing
+title: Federzeichnung Sparkasse
+description: Federzeichnung, laviert.
+date: 1920-07-19
+origin:
+  name: Hedwig Matthies
+  type: person
+  location: Wootz
+subjects:
+  - name: Mühle
+    type: building
+parents:
+  - 01GP24D2SDXXFWEGVD1MK92BK9
+files:
+  - role: main
+    original_name: scan_782.tif
+    path: files/94/cc/94cc7ba273bfc05b68cc2263cc43b0a7820a9ed6d4dfffedf905862e3cc9105a/original.tif
+    sha256: 94cc7ba273bfc05b68cc2263cc43b0a7820a9ed6d4dfffedf905862e3cc9105a
+    mime: image/tiff
+    bytes: 4201847
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/94/cc/94cc7ba273bfc05b68cc2263cc43b0a7820a9ed6d4dfffedf905862e3cc9105a/preview-400.2faede23e97b.jpg
+        sha256: 2faede23e97bc37ba2511377d45b7be6de00681a4dcdff0a023e6260af60c08b
+        mime: image/jpeg
+        bytes: 70584
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

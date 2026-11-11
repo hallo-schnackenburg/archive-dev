@@ -1,0 +1,38 @@
+id: 01HA8RQPPFF68YCDG2BHME1SSP
+type: image
+subtype: plan
+title: Bauplan Badestelle 1805
+description: Maßstab 1:100.
+date: 1805-06-09
+location: Schnackenburg, Dorfstraße
+origin:
+  name: Heinrich Hennings
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Ortsbesichtigung 1805
+    type: event
+  - name: Maifeier 1805
+    type: event
+  - name: Walter Wiegmann
+    type: person
+files:
+  - role: main
+    original_name: scan_341.tif
+    path: files/57/2f/572f58a06118b9e43cf3b5f4ac7c97d02574f7cf4d2a975804e0d28fb0712e83/original.tif
+    sha256: 572f58a06118b9e43cf3b5f4ac7c97d02574f7cf4d2a975804e0d28fb0712e83
+    mime: image/tiff
+    bytes: 14733268
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/57/2f/572f58a06118b9e43cf3b5f4ac7c97d02574f7cf4d2a975804e0d28fb0712e83/preview-400.68c0c8874916.jpg
+        sha256: 68c0c8874916ece90692944c6ff8b9432291fc629cccbfed2320110be0841417
+        mime: image/jpeg
+        bytes: 86893
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

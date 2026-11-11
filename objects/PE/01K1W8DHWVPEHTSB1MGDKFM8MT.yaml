@@ -1,0 +1,41 @@
+id: 01K1W8DHWVPEHTSB1MGDKFM8MT
+type: image
+subtype: print
+title: Postkarte Gorleben, Zollamt
+description: Lithographie, Rand beschnitten.
+date: 189X
+location: Bömenzien, Marktstraße
+origin:
+  name: Ilse Matthies
+  type: person
+  location: Arendsee
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Anni Lenz
+    type: person
+  - name: Molkerei
+    type: building
+parents:
+  - 01HCDYTRFHFRB82WRMENEDR10F
+  - 01F0QYSCYKSTCN1NTYT6RNDCR9
+files:
+  - role: main
+    original_name: scan_129.tif
+    path: files/7f/7a/7f7a344a5508e48d0e2c5ce2c8009ac3e82f358c793abbc1a0c8ce1387d5019d/original.tif
+    sha256: 7f7a344a5508e48d0e2c5ce2c8009ac3e82f358c793abbc1a0c8ce1387d5019d
+    mime: image/tiff
+    bytes: 9387055
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7f/7a/7f7a344a5508e48d0e2c5ce2c8009ac3e82f358c793abbc1a0c8ce1387d5019d/preview-400.427a1842f2ff.jpg
+        sha256: 427a1842f2ffb4367099172318ed4df781170b6eb14a005461ed1c9a9205712d
+        mime: image/jpeg
+        bytes: 80154
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

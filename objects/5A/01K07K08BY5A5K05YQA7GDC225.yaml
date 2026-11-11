@@ -1,0 +1,44 @@
+id: 01K07K08BY5A5K05YQA7GDC225
+type: image
+subtype: plan
+title: Lageplan Gutshaus, Laase
+description: Maßstab 1:1000.
+date: "1828"
+location: Seedorf, Am Markt
+geocode:
+  lat: 53.0259
+  lon: 11.504
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Schützenfest 1828
+    type: event
+  - name: Karl Sievers
+    type: person
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: scan_170.tif
+    path: files/e0/9c/e09cfdff4160e87cd30d96959bb4d25b4e8d59680013e0db1f3b1708f342b0fe/original.tif
+    sha256: e09cfdff4160e87cd30d96959bb4d25b4e8d59680013e0db1f3b1708f342b0fe
+    mime: image/tiff
+    bytes: 5745122
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e0/9c/e09cfdff4160e87cd30d96959bb4d25b4e8d59680013e0db1f3b1708f342b0fe/preview-400.527199b5751c.jpg
+        sha256: 527199b5751c03a242a4ba8350c3523d3f1f838e6ea754cd64206be47d9046c2
+        mime: image/jpeg
+        bytes: 83510
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

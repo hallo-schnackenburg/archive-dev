@@ -1,0 +1,52 @@
+id: 01G514ZHF67Q9H13Q92CZ64RWM
+type: document
+subtype: letter
+title: Beschwerde über Fährgeld
+description: Betrifft Wohnungsnot.
+date: 1873-10-16
+location: Lanz, Fähranleger
+geocode:
+  lat: 52.9415
+  lon: 11.5031
+  precision: town
+  source: osm
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Laase
+recipient: Walter Behrens
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 9/047
+subjects:
+  - name: Gülden
+    type: place
+  - name: Gärtnerei
+    type: building
+  - name: Hedwig Jeß
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_z64rwm_001.tif
+    path: files/77/b6/77b6b5cd8381de7e1a28871574d9c25d7c0259c01ec6a31d8a95b4bc4a982425/original.tif
+    sha256: 77b6b5cd8381de7e1a28871574d9c25d7c0259c01ec6a31d8a95b4bc4a982425
+    mime: image/tiff
+    bytes: 15750865
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/77/b6/77b6b5cd8381de7e1a28871574d9c25d7c0259c01ec6a31d8a95b4bc4a982425/preview-400.82dbfd693a6c.jpg
+        sha256: 82dbfd693a6c684517382e82418b05c64c2f8c070016a8051aa08428421716ef
+        mime: image/jpeg
+        bytes: 60831
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

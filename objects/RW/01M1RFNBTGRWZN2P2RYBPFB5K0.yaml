@@ -1,0 +1,40 @@
+id: 01M1RFNBTGRWZN2P2RYBPFB5K0
+type: image
+subtype: photo
+title: Kirche St. Johannis in Kapern
+description: Zu sehen sind Poststelle und Ladestraße.
+date: 1970-02-09
+location: Lüchow, Schulstraße
+geocode:
+  lat: 52.9663
+  lon: 11.509
+  precision: street
+  source: osm
+origin:
+  name: August Sievers
+  type: person
+  location: Dömitz
+owner:
+  name: Gisela Kuhlmann
+  type: person
+  note: Leihgabe
+files:
+  - role: main
+    original_name: IMG_2562.jpg
+    path: files/d5/77/d577fe32094914b26d42d98dd124d310c88496c318bdacc61dd42d6c72b6f33d/original.jpg
+    sha256: d577fe32094914b26d42d98dd124d310c88496c318bdacc61dd42d6c72b6f33d
+    mime: image/jpeg
+    bytes: 1749384
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/d5/77/d577fe32094914b26d42d98dd124d310c88496c318bdacc61dd42d6c72b6f33d/preview-400.fc7ddfd1a024.jpg
+        sha256: fc7ddfd1a0242b1e3cc239597605d883d2d09f552d5feef0659db63647ce8fc1
+        mime: image/jpeg
+        bytes: 49270
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

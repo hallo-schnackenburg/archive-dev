@@ -1,0 +1,37 @@
+id: 01G12HM5EXZQVHNE9DDMZDJVYQ
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Restorf
+date: "1818"
+location: Kapern, Gartenstraße
+origin:
+  name: Hans Rieke
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Eisgang 1818
+    type: event
+  - name: Lüchow
+    type: place
+parents:
+  - 01G6DC0XN5QKR1Z7MS1R51BN2J
+files:
+  - role: main
+    original_name: scan_356.tif
+    path: files/fb/86/fb86c2fafba71ddd7a62200f1dc9ad522c97a8278cf4bd5a352ff90381d3edb0/original.tif
+    sha256: fb86c2fafba71ddd7a62200f1dc9ad522c97a8278cf4bd5a352ff90381d3edb0
+    mime: image/tiff
+    bytes: 20959967
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/fb/86/fb86c2fafba71ddd7a62200f1dc9ad522c97a8278cf4bd5a352ff90381d3edb0/preview-400.9083244200f1.jpg
+        sha256: 9083244200f1fee640a4df4929b465a414dd46344eb4ac94aa562b4cf15d5dc3
+        mime: image/jpeg
+        bytes: 56073
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

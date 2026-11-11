@@ -1,0 +1,49 @@
+id: 01HJKSMRNKAY5Q9KQCA8CT0JE8
+type: image
+subtype: photo
+title: Familie Lemke beim Feuerwehrübung
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1940-07-27
+location: Brünkendorf, Elbdeich
+geocode:
+  lat: 53.0142
+  lon: 11.6527
+  precision: town
+  source: osm
+origin:
+  name: Karl Meyer
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan 22/081
+subjects:
+  - name: Hafen
+    type: building
+  - name: Gülden
+    type: place
+  - name: Erika Lemke
+    type: person
+files:
+  - role: main
+    original_name: foto_4809.jpg
+    path: files/da/64/da64f9320218eedae24ee6d5d1406cb59d5a393f1d4d1f987b68e7f78ca643a4/original.jpg
+    sha256: da64f9320218eedae24ee6d5d1406cb59d5a393f1d4d1f987b68e7f78ca643a4
+    mime: image/jpeg
+    bytes: 10938491
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/da/64/da64f9320218eedae24ee6d5d1406cb59d5a393f1d4d1f987b68e7f78ca643a4/preview-400.004a4f9b6ae5.jpg
+        sha256: 004a4f9b6ae508550f5de61a51fc2b3a4424779a5bf61d3d07d6a14e93a0b07f
+        mime: image/jpeg
+        bytes: 51020
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

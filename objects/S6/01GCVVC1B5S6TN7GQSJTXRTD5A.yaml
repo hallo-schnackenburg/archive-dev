@@ -1,0 +1,35 @@
+id: 01GCVVC1B5S6TN7GQSJTXRTD5A
+type: image
+subtype: photo
+title: August Rieke, Porträt
+date: 1964-03
+location: Salzwedel, Hinter den Höfen
+origin:
+  name: Gerda Meyer
+  type: person
+  location: Wustrow
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+parents:
+  - 01JCV95VZDBXMYRF9A0KB25RXZ
+files:
+  - role: main
+    original_name: P6299.jpg
+    path: files/db/3d/db3d7d3b014e008b761cefdf3abc78d72d28f112b67214e5c1ec45c9ff16d58a/original.jpg
+    sha256: db3d7d3b014e008b761cefdf3abc78d72d28f112b67214e5c1ec45c9ff16d58a
+    mime: image/jpeg
+    bytes: 18512552
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/db/3d/db3d7d3b014e008b761cefdf3abc78d72d28f112b67214e5c1ec45c9ff16d58a/preview-400.63b785b185f1.jpg
+        sha256: 63b785b185f186a5c104cf58a27786f1474585357c2dbf906b5358a9a6928ae5
+        mime: image/jpeg
+        bytes: 56769
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

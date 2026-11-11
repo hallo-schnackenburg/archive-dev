@@ -1,0 +1,43 @@
+id: 01KBXZ8C6YE13PVBDWW5MEJNYA
+type: image
+subtype: photo
+title: Heinrich Lüders, Porträt
+description: Abzug im Format 13 x 18 cm.
+date: 1941-05-17
+location: Lüchow, Hafenstraße
+geocode:
+  lat: 52.9435
+  lon: 11.6559
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan 6/088
+subjects:
+  - name: Seedorf
+    type: place
+parents:
+  - 01KQVCCGD4CP4QYK6YQJ3YAGSW
+files:
+  - role: main
+    original_name: scan_974.tif
+    path: files/9a/1a/9a1ab8d3135a50c9e2ecf1add2a0fbb45097cd1ba4eae6f81ad9bed1995884ab/original.tif
+    sha256: 9a1ab8d3135a50c9e2ecf1add2a0fbb45097cd1ba4eae6f81ad9bed1995884ab
+    mime: image/tiff
+    bytes: 19564925
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9a/1a/9a1ab8d3135a50c9e2ecf1add2a0fbb45097cd1ba4eae6f81ad9bed1995884ab/preview-400.1acd176ebdc2.jpg
+        sha256: 1acd176ebdc25c7bd62566fddb67a2aeed50f4f747e592c5e6aec493558fd199
+        mime: image/jpeg
+        bytes: 76625
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

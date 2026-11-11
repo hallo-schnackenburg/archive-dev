@@ -1,0 +1,29 @@
+id: 01K6149X401HMM7CRS4CGJKRC4
+type: image
+subtype: plan
+title: Bauplan Tischlerei Bruns 1761
+description: Mit handschriftlichen Ergänzungen.
+date: 1761/1773
+location: Brünkendorf, Schulstraße
+parents:
+  - 01HJMR4YWKHDFKNS8WPV4XDY2Z
+files:
+  - role: main
+    original_name: scan_709.tif
+    path: files/bd/6d/bd6d28fc9841a75a3689c9e053f5c4b759081ae74f729bfb27ddf40dd6066b3f/original.tif
+    sha256: bd6d28fc9841a75a3689c9e053f5c4b759081ae74f729bfb27ddf40dd6066b3f
+    mime: image/tiff
+    bytes: 1962790
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bd/6d/bd6d28fc9841a75a3689c9e053f5c4b759081ae74f729bfb27ddf40dd6066b3f/preview-400.86d4e6e597ab.jpg
+        sha256: 86d4e6e597abb73ced78deb5a5d687e24ce022342c869ac25ba4efd8cefc389d
+        mime: image/jpeg
+        bytes: 35878
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

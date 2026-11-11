@@ -1,0 +1,38 @@
+id: 01GQPMJF26NJ5341YE55GPGNHR
+type: image
+subtype: photo
+title: Otto Plate vor dem Heuberge
+description: Aufnahme von Jürgen Vogt.
+date: 1974-05-06
+location: Wustrow, Mühlenweg
+origin:
+  name: Karl Brandt
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Berta Schulz
+    type: person
+  - name: Gülden
+    type: place
+files:
+  - role: main
+    original_name: DSC7094.jpg
+    path: files/70/d1/70d1c5fc02b9dd9ec8b94c58d9c6ed7c4bbacc3043a640daf0fa7df2d4a2d3bd/original.jpg
+    sha256: 70d1c5fc02b9dd9ec8b94c58d9c6ed7c4bbacc3043a640daf0fa7df2d4a2d3bd
+    mime: image/jpeg
+    bytes: 796384
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/70/d1/70d1c5fc02b9dd9ec8b94c58d9c6ed7c4bbacc3043a640daf0fa7df2d4a2d3bd/preview-400.ed1ad55b1ce1.jpg
+        sha256: ed1ad55b1ce15d929af664fea1dc9bde07bd952b3716736fa11b354bbfe60473
+        mime: image/jpeg
+        bytes: 56659
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

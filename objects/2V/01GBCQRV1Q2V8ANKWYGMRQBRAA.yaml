@@ -1,0 +1,39 @@
+id: 01GBCQRV1Q2V8ANKWYGMRQBRAA
+type: image
+subtype: plan
+title: Lageplan Wassermühle
+date: 1986-03
+location: Restorf, Feuerwehrhaus
+origin:
+  name: Erika Fricke
+  type: person
+  location: Gülden
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Viehmarkt 1986
+    type: event
+  - name: Gerda Bohlmann
+    type: person
+parents:
+  - 01HEN36GX2JVN3M54R3NSB7YJF
+files:
+  - role: main
+    original_name: scan_021.tif
+    path: files/a9/e8/a9e8b8979e133bda569723540690397b725f02f3cc7599a7057375211fd389af/original.tif
+    sha256: a9e8b8979e133bda569723540690397b725f02f3cc7599a7057375211fd389af
+    mime: image/tiff
+    bytes: 19472381
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a9/e8/a9e8b8979e133bda569723540690397b725f02f3cc7599a7057375211fd389af/preview-400.421fb5985dbc.jpg
+        sha256: 421fb5985dbc775f465a4503ac7546acd4f46af3f68c53cebeb1d6b322c35029
+        mime: image/jpeg
+        bytes: 72158
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

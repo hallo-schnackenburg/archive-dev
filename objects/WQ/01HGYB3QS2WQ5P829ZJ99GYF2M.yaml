@@ -1,0 +1,40 @@
+id: 01HGYB3QS2WQ5P829ZJ99GYF2M
+type: image
+subtype: plan
+title: Deichplan Cumlosen bis Cumlosen
+location: Lanz, Schulstraße
+origin:
+  name: Lotte Lemke
+  type: person
+  location: Gartow
+owner:
+  name: Erika Lüders
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Kirmes 1997
+    type: event
+  - name: Dorfteich
+    type: building
+  - name: Berta Plate
+    type: person
+files:
+  - role: main
+    original_name: scan_205.tif
+    path: files/4f/28/4f28abddff414e384c5caa67075d735f0a0c32055dd4e1966ebeddcab19338a8/original.tif
+    sha256: 4f28abddff414e384c5caa67075d735f0a0c32055dd4e1966ebeddcab19338a8
+    mime: image/tiff
+    bytes: 16622993
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4f/28/4f28abddff414e384c5caa67075d735f0a0c32055dd4e1966ebeddcab19338a8/preview-400.1dcb8c3d318b.jpg
+        sha256: 1dcb8c3d318ba3fc89468f5bd2e0234d62ff0620fd851daeca87f739620840a9
+        mime: image/jpeg
+        bytes: 69688
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01GGDECQYV5PVPRWC47TVX7SPN
+type: image
+subtype: photo
+title: Sparkasse nach dem Richtfest
+description: Farbfoto, leicht verblasst.
+date: 1909-11-01
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 25/049
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Fastnacht 1909
+    type: event
+  - name: Nienwalde
+    type: place
+parents:
+  - 01GVM1WCR2HNMHN4DWDZ4NZG4Z
+files:
+  - role: main
+    original_name: IMG_8328.jpg
+    path: files/4a/34/4a349f19f5dbe1a8c4273ff32fe57a253012fbd2e7f4d586c18a4724b69172df/original.jpg
+    sha256: 4a349f19f5dbe1a8c4273ff32fe57a253012fbd2e7f4d586c18a4724b69172df
+    mime: image/jpeg
+    bytes: 2710444
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/4a/34/4a349f19f5dbe1a8c4273ff32fe57a253012fbd2e7f4d586c18a4724b69172df/preview-400.6d9fa393a52a.jpg
+        sha256: 6d9fa393a52a1ede167cb3e446904081bd5ceb4a1f2e26d181d675f80c670a5e
+        mime: image/jpeg
+        bytes: 62953
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

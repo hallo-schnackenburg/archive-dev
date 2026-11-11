@@ -1,0 +1,38 @@
+id: 01KNH9FA3BVKF00DN8EXTN3MPW
+type: image
+subtype: photo
+title: Blick vom Elbdeich auf das Storchennest
+date: 198X
+location: Wustrow, Fährstraße
+geocode:
+  lat: 53.0353
+  lon: 11.5359
+  precision: region
+  source: osm
+subjects:
+  - name: Einschulung 1981
+    type: event
+  - name: Beerdigung 1981
+    type: event
+  - name: Einweihung 1981
+    type: event
+files:
+  - role: main
+    original_name: IMG_1517.jpg
+    path: files/ed/8c/ed8c4f91377339851d4e187e126d5cf1fac959dbaeb961e505815fb8a5afd972/original.jpg
+    sha256: ed8c4f91377339851d4e187e126d5cf1fac959dbaeb961e505815fb8a5afd972
+    mime: image/jpeg
+    bytes: 27924061
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ed/8c/ed8c4f91377339851d4e187e126d5cf1fac959dbaeb961e505815fb8a5afd972/preview-400.74efda57fb3c.jpg
+        sha256: 74efda57fb3c235d71d871edef3743a1d610893eb72dc74adbe323da04427a65
+        mime: image/jpeg
+        bytes: 84467
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

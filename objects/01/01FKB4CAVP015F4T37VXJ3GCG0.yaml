@@ -1,0 +1,40 @@
+id: 01FKB4CAVP015F4T37VXJ3GCG0
+type: image
+subtype: drawing
+title: Skizze Hitzacker, Lange Straße, Gollensdorf
+description: Federzeichnung, laviert.
+date: 1922?
+location: Gollensdorf, Tanzsaal
+origin:
+  name: Gerda Rieke
+  type: person
+  location: Nienwalde
+subjects:
+  - name: August Wegner
+    type: person
+  - name: Grenzturm
+    type: building
+  - name: Albert Wöhlk
+    type: person
+parents:
+  - 01HYFCM6DN6A2J5RK4P4H4GN9C
+files:
+  - role: main
+    original_name: scan_309.tif
+    path: files/f3/92/f392c1830d9c71e23861e75123796aa429ab28e00a8d79724dbf4f35881331fb/original.tif
+    sha256: f392c1830d9c71e23861e75123796aa429ab28e00a8d79724dbf4f35881331fb
+    mime: image/tiff
+    bytes: 6718210
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f3/92/f392c1830d9c71e23861e75123796aa429ab28e00a8d79724dbf4f35881331fb/preview-400.9d4e1f86c461.jpg
+        sha256: 9d4e1f86c461735c0ec7e57b3b757446c4384daa3503eaf93941215188d202d4
+        mime: image/jpeg
+        bytes: 85282
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

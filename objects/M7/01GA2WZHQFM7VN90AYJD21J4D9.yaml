@@ -1,0 +1,37 @@
+id: 01GA2WZHQFM7VN90AYJD21J4D9
+type: image
+subtype: plan
+title: Bauplan Försterei 1854
+description: Maßstab 1:250.
+date: 1854-02
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  note: Kellerarchiv
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Einweihung 1854
+    type: event
+files:
+  - role: main
+    original_name: scan_753.tif
+    path: files/c6/e7/c6e7db6796871aecd759de58faef17f63dd2a124ab8d0a1f446bc089338e813b/original.tif
+    sha256: c6e7db6796871aecd759de58faef17f63dd2a124ab8d0a1f446bc089338e813b
+    mime: image/tiff
+    bytes: 25049513
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/e7/c6e7db6796871aecd759de58faef17f63dd2a124ab8d0a1f446bc089338e813b/preview-400.1271433e898e.jpg
+        sha256: 1271433e898e60dcffa424dd548d1fe598ee7179d49edbc725a1e814d13707de
+        mime: image/jpeg
+        bytes: 23109
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

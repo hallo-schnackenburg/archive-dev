@@ -1,0 +1,71 @@
+id: 01GADZ3WP1CEFPTWWS63WSFJ0R
+type: document
+subtype: note
+title: Rechnung Hartwig, Rathaus
+description: Beleg mit Stempel.
+date: "2006"
+location: Wustrow, Gartenstraße
+geocode:
+  lat: 52.9912
+  lon: 11.672
+  precision: region
+  source: osm
+origin:
+  name: Helga Bohlmann
+  type: person
+  location: Lenzen
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 3/036
+subjects:
+  - name: Karl Voss
+    type: person
+  - name: Nienwalde
+    type: place
+  - name: Rudolf Harms
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_wsfj0r_001.tif
+    path: files/44/39/44390e00f0e7dacd6fc4bba5a4295e8b74ea8a3b67dde949ee59ab7755ab4dfc/original.tif
+    sha256: 44390e00f0e7dacd6fc4bba5a4295e8b74ea8a3b67dde949ee59ab7755ab4dfc
+    mime: image/tiff
+    bytes: 10278258
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/44/39/44390e00f0e7dacd6fc4bba5a4295e8b74ea8a3b67dde949ee59ab7755ab4dfc/preview-400.45fd63b7bbf1.jpg
+        sha256: 45fd63b7bbf1e749eabc3bc511c049484f4e3a7d9c73915cbe78d7efecd11463
+        mime: image/jpeg
+        bytes: 38562
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_wsfj0r_002.tif
+    path: files/51/8f/518f47c2b5ef30e09bcac796d086dd4f7d4aabc68c36655e743158b6ebe115ff/original.tif
+    sha256: 518f47c2b5ef30e09bcac796d086dd4f7d4aabc68c36655e743158b6ebe115ff
+    mime: image/tiff
+    bytes: 25171454
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/51/8f/518f47c2b5ef30e09bcac796d086dd4f7d4aabc68c36655e743158b6ebe115ff/preview-400.aaeb1e3bd1e7.jpg
+        sha256: aaeb1e3bd1e776c4d9976735e76650656d86210939b59b42ee836ef86b917b97
+        mime: image/jpeg
+        bytes: 61816
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

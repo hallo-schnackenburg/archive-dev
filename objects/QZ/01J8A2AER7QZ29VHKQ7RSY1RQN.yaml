@@ -1,0 +1,35 @@
+id: 01J8A2AER7QZ29VHKQ7RSY1RQN
+type: image
+subtype: photo
+title: Hochwasser 1952
+description: Farbfoto, leicht verblasst.
+date: 1952/1964
+location: Wittenberge, Kriegerdenkmal
+geocode:
+  lat: 53.0697
+  lon: 11.6155
+  precision: town
+  source: osm
+subjects:
+  - name: Ortsbesichtigung 1952
+    type: event
+files:
+  - role: main
+    original_name: scan_902.tif
+    path: files/d3/25/d325486c3649a80fafdd98cd1da398680830ce70b39ca6db4f83fc951db1791a/original.tif
+    sha256: d325486c3649a80fafdd98cd1da398680830ce70b39ca6db4f83fc951db1791a
+    mime: image/tiff
+    bytes: 27701884
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d3/25/d325486c3649a80fafdd98cd1da398680830ce70b39ca6db4f83fc951db1791a/preview-400.293cfeb83833.jpg
+        sha256: 293cfeb8383337e8bb7edf642e9fb83964ce0955b6b7ecedd1b4672f88fbecf9
+        mime: image/jpeg
+        bytes: 23871
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

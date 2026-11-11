@@ -1,0 +1,35 @@
+id: 01K65R3ZXP1ZXNRBD8D12CKX32
+type: image
+subtype: plan
+title: Katasterblatt Heuer, Gülden
+description: Mit handschriftlichen Ergänzungen.
+date: 1782-04
+location: Wootz, Schmiede
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Gartow
+    type: place
+files:
+  - role: main
+    original_name: scan_522.tif
+    path: files/e3/e8/e3e872a1e94f39142b5f8df2dd8447d95632f05de12dc1b6a57a81e0e1b3a97f/original.tif
+    sha256: e3e872a1e94f39142b5f8df2dd8447d95632f05de12dc1b6a57a81e0e1b3a97f
+    mime: image/tiff
+    bytes: 8559253
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e3/e8/e3e872a1e94f39142b5f8df2dd8447d95632f05de12dc1b6a57a81e0e1b3a97f/preview-400.4c2be748143c.jpg
+        sha256: 4c2be748143c3ecc28f9b464753245e705ba3a9634996aea12c0785e875d9b7a
+        mime: image/jpeg
+        bytes: 42439
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

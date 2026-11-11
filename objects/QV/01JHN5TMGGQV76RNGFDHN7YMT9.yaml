@@ -1,0 +1,69 @@
+id: 01JHN5TMGGQV76RNGFDHN7YMT9
+type: document
+subtype: letter
+title: Vertrag über Wasserleitung
+date: 1872-05
+location: Lüchow, Dorfschule
+origin:
+  name: Heinz Voss
+  type: person
+  location: Gartow
+recipient: Otto Mahnke
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Album 24/053
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v52457
+subjects:
+  - name: Heuberge
+    type: building
+  - name: Kirche St. Johannis
+    type: building
+  - name: Lenzen
+    type: place
+parents:
+  - 01JDVF1103F03HCTM49T0G4EC6
+files:
+  - role: page
+    num: 1
+    original_name: letter_n7ymt9_001.tif
+    path: files/40/84/40841218c43569f39aa711e02bbc5b05551b792c60c7759b2574382b322184dd/original.tif
+    sha256: 40841218c43569f39aa711e02bbc5b05551b792c60c7759b2574382b322184dd
+    mime: image/tiff
+    bytes: 14714045
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/84/40841218c43569f39aa711e02bbc5b05551b792c60c7759b2574382b322184dd/preview-400.9635a83994f8.jpg
+        sha256: 9635a83994f8b17ba8ac274e5b1a2e3befc5139e9410e511f4bbeb69bb386c59
+        mime: image/jpeg
+        bytes: 80706
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_n7ymt9_002.tif
+    path: files/a5/af/a5af903be951ecb74e1d8648908d81f005b6178cf03a3a96db60bafb718ed659/original.tif
+    sha256: a5af903be951ecb74e1d8648908d81f005b6178cf03a3a96db60bafb718ed659
+    mime: image/tiff
+    bytes: 7589029
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a5/af/a5af903be951ecb74e1d8648908d81f005b6178cf03a3a96db60bafb718ed659/preview-400.8a8b5ba4ae69.jpg
+        sha256: 8a8b5ba4ae69d8cfbaa2a501ec8e86bbeb5dd0e4682bc9d6c489922a77614795
+        mime: image/jpeg
+        bytes: 50084
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

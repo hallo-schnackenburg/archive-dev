@@ -1,0 +1,44 @@
+id: 01G0YTX67F4NZW7KNDRN311GKR
+type: document
+subtype: letter
+title: Brief von Erika Voss an Karl Jeß
+description: Maschinenschriftlich, unterschrieben.
+date: 1807-11
+location: Havelberg, Gartenstraße
+geocode:
+  lat: 52.9694
+  lon: 11.6953
+  precision: town
+  source: osm
+origin:
+  name: Frieda Ahrens
+  type: person
+  location: Holtorf
+recipient: Horst Meyer
+language: de
+subjects:
+  - name: Fährjubiläum 1807
+    type: event
+  - name: Dorfkrug
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_311gkr_001.tif
+    path: files/c3/ae/c3ae1f468afb42d4bebea04678367b31305b589442181531c38cef52d479431c/original.tif
+    sha256: c3ae1f468afb42d4bebea04678367b31305b589442181531c38cef52d479431c
+    mime: image/tiff
+    bytes: 3278049
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c3/ae/c3ae1f468afb42d4bebea04678367b31305b589442181531c38cef52d479431c/preview-400.287868241d5a.jpg
+        sha256: 287868241d5a30e36802ec7c42756c11b899df31e8dc530dad83d150e677c126
+        mime: image/jpeg
+        bytes: 64772
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

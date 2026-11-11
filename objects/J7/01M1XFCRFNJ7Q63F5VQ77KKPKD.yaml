@@ -1,0 +1,31 @@
+id: 01M1XFCRFNJ7Q63F5VQ77KKPKD
+type: image
+subtype: print
+title: Ansichtskarte Fährstraße, Dömitz (42)
+description: Postkarte, gelaufen 1943.
+date: 187X
+location: Wootz, Lange Straße
+origin:
+  name: Marta Brandt
+  type: person
+  location: Rüterberg
+files:
+  - role: main
+    original_name: scan_934.tif
+    path: files/02/2e/022ec42b4fcef97e98d91cfff4f9a4ba86721ba78cc14733e5efe5017a3d543c/original.tif
+    sha256: 022ec42b4fcef97e98d91cfff4f9a4ba86721ba78cc14733e5efe5017a3d543c
+    mime: image/tiff
+    bytes: 26096222
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/2e/022ec42b4fcef97e98d91cfff4f9a4ba86721ba78cc14733e5efe5017a3d543c/preview-400.d899209cb6af.jpg
+        sha256: d899209cb6af240291f682da2a68a8f22f146d5eb2f8149c7d01ccc995e57821
+        mime: image/jpeg
+        bytes: 87292
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

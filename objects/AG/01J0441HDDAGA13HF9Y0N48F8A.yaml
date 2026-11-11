@@ -1,0 +1,36 @@
+id: 01J0441HDDAGA13HF9Y0N48F8A
+type: image
+subtype: plan
+title: Bauplan Scheune 1921
+date: 1921?
+origin:
+  name: Karl Jeß
+  type: person
+  location: Lenzen
+subjects:
+  - name: Hochwasser 1921
+    type: event
+  - name: Kaufmannshaus
+    type: building
+  - name: Restorf
+    type: place
+files:
+  - role: main
+    original_name: scan_366.tif
+    path: files/36/8d/368dee568c84f8171a0ee212a16d6e4fd858adc879f5a12b19ff5a836bec3b80/original.tif
+    sha256: 368dee568c84f8171a0ee212a16d6e4fd858adc879f5a12b19ff5a836bec3b80
+    mime: image/tiff
+    bytes: 25988391
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/36/8d/368dee568c84f8171a0ee212a16d6e4fd858adc879f5a12b19ff5a836bec3b80/preview-400.a54fe323e002.jpg
+        sha256: a54fe323e0020f38297c9d7a8e86cbee917c129998ebbbed33702818d4123f11
+        mime: image/jpeg
+        bytes: 42398
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

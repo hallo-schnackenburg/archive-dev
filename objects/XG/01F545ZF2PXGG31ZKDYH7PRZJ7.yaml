@@ -1,0 +1,44 @@
+id: 01F545ZF2PXGG31ZKDYH7PRZJ7
+type: image
+subtype: print
+title: "Kupferstich: Brünkendorf von der Elbseite, Arendsee"
+date: 1803-09-18
+location: Gorleben, Kirchstraße
+origin:
+  name: Elfriede Voss
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 19/213
+  note: Planschrank, Fach 3
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Wilhelm Schulz
+    type: person
+parents:
+  - 01KZTC7HCNQEK4PPA9Y96PZJS7
+files:
+  - role: main
+    original_name: scan_701.tif
+    path: files/74/a1/74a1990c6d1e97893e351030470b2448a8be0bb4fe4e25112e84f88745d1b30c/original.tif
+    sha256: 74a1990c6d1e97893e351030470b2448a8be0bb4fe4e25112e84f88745d1b30c
+    mime: image/tiff
+    bytes: 25239004
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/74/a1/74a1990c6d1e97893e351030470b2448a8be0bb4fe4e25112e84f88745d1b30c/preview-400.892c9b520730.jpg
+        sha256: 892c9b520730c829d5b5e5004912e2f49e1c69f9d0bb1cfc5ef563467001dace
+        mime: image/jpeg
+        bytes: 75416
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

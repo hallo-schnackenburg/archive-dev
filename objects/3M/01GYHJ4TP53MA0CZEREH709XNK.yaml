@@ -1,0 +1,38 @@
+id: 01GYHJ4TP53MA0CZEREH709XNK
+type: image
+subtype: plan
+title: Flurkarte Gorleben, Rüterberg
+date: 1900~
+origin:
+  name: Erika Burmester
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Kasten 14/078
+  note: Kellerarchiv
+parents:
+  - 01K2NKV9ZRJGR8MNHBQ4VNYQV6
+files:
+  - role: main
+    original_name: scan_060.tif
+    path: files/4d/07/4d0799b599dfc128a59202cbfe389926c709ca20339571c36b3c7fbba4071c33/original.tif
+    sha256: 4d0799b599dfc128a59202cbfe389926c709ca20339571c36b3c7fbba4071c33
+    mime: image/tiff
+    bytes: 25611985
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4d/07/4d0799b599dfc128a59202cbfe389926c709ca20339571c36b3c7fbba4071c33/preview-400.40d94e175a3b.jpg
+        sha256: 40d94e175a3bd88c06332a987c13326668f8895b4c33c55e015c2e02bc234895
+        mime: image/jpeg
+        bytes: 65119
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

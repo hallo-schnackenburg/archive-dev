@@ -1,0 +1,40 @@
+id: 01KVZ7RB9BJRAKCT6Z15VZPVZH
+type: image
+subtype: plan
+title: Deichplan Lenzen bis Arendsee
+date: 1797-01-25
+location: Nienwalde, Rathaus
+geocode:
+  lat: 53.0917
+  lon: 11.5756
+  precision: town
+  source: osm
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Erika Meyer
+    type: person
+  - name: Feuerwehrübung 1797
+    type: event
+parents:
+  - 01K4CSV2ZP5WMZZB5PTYVKX9F7
+files:
+  - role: main
+    original_name: scan_145.tif
+    path: files/af/69/af69b1ccda520d3c322dc1e43b2df783fb4c6813ea06b39e4345e519e82c9a79/original.tif
+    sha256: af69b1ccda520d3c322dc1e43b2df783fb4c6813ea06b39e4345e519e82c9a79
+    mime: image/tiff
+    bytes: 26913100
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/af/69/af69b1ccda520d3c322dc1e43b2df783fb4c6813ea06b39e4345e519e82c9a79/preview-400.a89fed683d5c.jpg
+        sha256: a89fed683d5c23b60f17f5cb172f1a6916ea8e19c4f6373cc95222cc5757f7a5
+        mime: image/jpeg
+        bytes: 29971
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

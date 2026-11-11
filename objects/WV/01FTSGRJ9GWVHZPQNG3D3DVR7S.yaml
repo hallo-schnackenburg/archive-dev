@@ -1,0 +1,40 @@
+id: 01FTSGRJ9GWVHZPQNG3D3DVR7S
+type: image
+subtype: photo
+title: Fährjubiläum 1895
+date: 1895-03-27
+location: Gorleben, Hafenstraße
+geocode:
+  lat: 53.0356
+  lon: 11.5632
+  precision: region
+  source: osm
+origin:
+  name: Gerda Jeß
+  type: person
+  location: Kapern
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Zollamt
+    type: building
+files:
+  - role: main
+    original_name: scan_479.tif
+    path: files/61/9d/619d123d97b27c1389a43889b9576bd39102c02675391a8862c964975e735c4c/original.tif
+    sha256: 619d123d97b27c1389a43889b9576bd39102c02675391a8862c964975e735c4c
+    mime: image/tiff
+    bytes: 21664776
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/61/9d/619d123d97b27c1389a43889b9576bd39102c02675391a8862c964975e735c4c/preview-400.654bdc8d3581.jpg
+        sha256: 654bdc8d35810cbf4d84f8245ac4e97703a8c7fba5f60f447c0ea3f49111cc05
+        mime: image/jpeg
+        bytes: 39499
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

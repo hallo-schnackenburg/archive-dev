@@ -1,0 +1,46 @@
+id: 01H45X6N1VF2EXG7PWZX2P1HR8
+type: image
+subtype: plan
+title: Deichplan Brünkendorf bis Seedorf
+description: Maßstab 1:1000.
+location: Havelberg, Tanzsaal
+geocode:
+  lat: 52.9582
+  lon: 11.6216
+  precision: town
+  source: osm
+origin:
+  name: Dieter Krüger
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Familie Rathjens
+    type: person
+    location: Wustrow
+  reference: Dok 32/378
+subjects:
+  - name: Bahnhof
+    type: building
+parents:
+  - 01EWYE51ZQTFTFRZH9QFSNZE0B
+files:
+  - role: main
+    original_name: scan_903.tif
+    path: files/e9/4e/e94e03a763358ac2413803aa87e90e315357ec5b19de448ef93b8409c18d18a0/original.tif
+    sha256: e94e03a763358ac2413803aa87e90e315357ec5b19de448ef93b8409c18d18a0
+    mime: image/tiff
+    bytes: 23063680
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e9/4e/e94e03a763358ac2413803aa87e90e315357ec5b19de448ef93b8409c18d18a0/preview-400.02958e7b6976.jpg
+        sha256: 02958e7b69769a8fb2b48bf018b30c5dd0efaa6b547ef5d82e7fd1736dbe3387
+        mime: image/jpeg
+        bytes: 21614
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

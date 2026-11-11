@@ -1,0 +1,37 @@
+id: 01GV44VDETZQEF1QBSWCBHB5B2
+type: image
+subtype: print
+title: Postkarte Kapern, Storchennest
+date: 1724?
+location: Zadrau, Burgstraße
+origin:
+  name: Ernst Sievers
+  type: person
+  location: Zadrau
+subjects:
+  - name: Beerdigung 1724
+    type: event
+  - name: Arendsee
+    type: place
+parents:
+  - 01HG6JP5WA4TG6RE22EWVXDYF0
+files:
+  - role: main
+    original_name: scan_534.tif
+    path: files/d6/5e/d65e4ae2d5776af7ba85f8aad25730b125142a480a80776f3c02d40eff92d20a/original.tif
+    sha256: d65e4ae2d5776af7ba85f8aad25730b125142a480a80776f3c02d40eff92d20a
+    mime: image/tiff
+    bytes: 14862392
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d6/5e/d65e4ae2d5776af7ba85f8aad25730b125142a480a80776f3c02d40eff92d20a/preview-400.0e8e4a887e58.jpg
+        sha256: 0e8e4a887e587c392822a94a6f640a6227c0ba52831ae152beff2258a64e2407
+        mime: image/jpeg
+        bytes: 35119
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

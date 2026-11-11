@@ -1,0 +1,37 @@
+id: 01FTG2XTTFBSQFQ4JHD50H538H
+type: document
+subtype: note
+title: Rechnung Bruns, Dorfkrug
+date: 191X
+location: Dömitz, Lange Straße
+geocode:
+  lat: 53.0295
+  lon: 11.4592
+  precision: town
+  source: osm
+subjects:
+  - name: Schmiede
+    type: building
+parents:
+  - 01JBGVAY167R5WYZSBZK5TM9S3
+files:
+  - role: page
+    num: 1
+    original_name: note_0h538h_001.tif
+    path: files/dd/2f/dd2f0797b46be0b03b8e24a7d8da9a9a556b8fb13ed35179180f94a239b16a29/original.tif
+    sha256: dd2f0797b46be0b03b8e24a7d8da9a9a556b8fb13ed35179180f94a239b16a29
+    mime: image/tiff
+    bytes: 7350585
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/2f/dd2f0797b46be0b03b8e24a7d8da9a9a556b8fb13ed35179180f94a239b16a29/preview-400.aa0c73298118.jpg
+        sha256: aa0c73298118b7f508dd25ce651dd75872e48d8ffa3478b784c28bb4911bb953
+        mime: image/jpeg
+        bytes: 23468
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

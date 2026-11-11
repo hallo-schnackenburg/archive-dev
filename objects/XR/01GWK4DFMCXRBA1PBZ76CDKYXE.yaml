@@ -1,0 +1,43 @@
+id: 01GWK4DFMCXRBA1PBZ76CDKYXE
+type: image
+subtype: plan
+title: Grundriss Försterei
+description: Tusche auf Transparentpapier.
+date: 1930-08
+location: Lenzen, Molkerei
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 27/334
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Grenzöffnung 1930
+    type: event
+  - name: Zadrau
+    type: place
+parents:
+  - 01K7X50YJVP4Q2EM4RD9TMVQVM
+  - 01F1C76VVA9D0FJCEKQVNQPP86
+files:
+  - role: main
+    original_name: scan_493.tif
+    path: files/a7/8e/a78e8a5c9dfe9c04c73e2a14f838390d3c790f007d3b838d14e53308b1142606/original.tif
+    sha256: a78e8a5c9dfe9c04c73e2a14f838390d3c790f007d3b838d14e53308b1142606
+    mime: image/tiff
+    bytes: 2484059
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a7/8e/a78e8a5c9dfe9c04c73e2a14f838390d3c790f007d3b838d14e53308b1142606/preview-400.e309c795ce2b.jpg
+        sha256: e309c795ce2b64186c710e3a9e58a2b209930bfbce931a9b5c1666c73ed16b95
+        mime: image/jpeg
+        bytes: 81335
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

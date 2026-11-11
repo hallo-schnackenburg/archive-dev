@@ -1,0 +1,38 @@
+id: 01GMRTZJCJK8F52WT75CG8B0E8
+type: image
+subtype: print
+title: Postkarte Wootz, Ladestraße
+origin:
+  name: Gerda Kuhlmann
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Schützenhaus
+    type: building
+parents:
+  - 01GWG9662GMDBHVAK54DXCMWG2
+files:
+  - role: main
+    original_name: scan_348.tif
+    path: files/4a/ab/4aabf40a151ce92045996a5d97c679ce7502e3d407a2ca8f69f4e0a1072f1332/original.tif
+    sha256: 4aabf40a151ce92045996a5d97c679ce7502e3d407a2ca8f69f4e0a1072f1332
+    mime: image/tiff
+    bytes: 21805818
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4a/ab/4aabf40a151ce92045996a5d97c679ce7502e3d407a2ca8f69f4e0a1072f1332/preview-400.3a3090679192.jpg
+        sha256: 3a3090679192729dee390d835b3a77425efe6209efbdc61ba0435b331fde1c80
+        mime: image/jpeg
+        bytes: 65377
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

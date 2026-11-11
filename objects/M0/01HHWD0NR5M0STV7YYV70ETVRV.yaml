@@ -1,0 +1,47 @@
+id: 01HHWD0NR5M0STV7YYV70ETVRV
+type: image
+subtype: photo
+title: Sturmschaden der Imkerverein
+description: Abzug im Format 6 x 9 cm.
+date: 2001-10-21
+location: Kapern, Friedhofskapelle
+geocode:
+  lat: 52.9305
+  lon: 11.6588
+  precision: street
+  source: osm
+origin:
+  name: Dieter Dreyer
+  type: person
+  location: Salzwedel
+owner:
+  name: Helga Krüger
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Einweihung 2001
+    type: event
+  - name: Elfriede Jürgens
+    type: person
+parents:
+  - 01HE6ENCA0W2Z468GKA6QXY516
+files:
+  - role: main
+    original_name: P4713.jpg
+    path: files/52/0e/520ed5926f9ab00a0500823cb750b0228afd3e59e61e3c58065058610e6d19db/original.jpg
+    sha256: 520ed5926f9ab00a0500823cb750b0228afd3e59e61e3c58065058610e6d19db
+    mime: image/jpeg
+    bytes: 23043362
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/52/0e/520ed5926f9ab00a0500823cb750b0228afd3e59e61e3c58065058610e6d19db/preview-400.e038a1fc6c8a.jpg
+        sha256: e038a1fc6c8a6b3b72b9c716f68ef7e9f0d7320eb9ddde56d91e9fd78c1f2ed4
+        mime: image/jpeg
+        bytes: 27270
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

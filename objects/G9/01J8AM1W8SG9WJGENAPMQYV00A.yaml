@@ -1,0 +1,38 @@
+id: 01J8AM1W8SG9WJGENAPMQYV00A
+type: image
+subtype: photo
+title: Richtfest 1936
+description: Aufnahme von Dieter Lenz.
+date: 1936-02
+location: Arendsee, Gärtnerei
+geocode:
+  lat: 52.9154
+  lon: 11.5927
+  precision: exact
+  source: osm
+origin:
+  name: Dieter Detlefs
+  type: person
+  location: Brünkendorf
+parents:
+  - 01G488M9Q0MA5PAK1E0A8Z23Y9
+files:
+  - role: main
+    original_name: DSC9545.jpg
+    path: files/60/bd/60bd13497a90e7abf784385529affb7dfe9b3395706d68df99196ab425eab454/original.jpg
+    sha256: 60bd13497a90e7abf784385529affb7dfe9b3395706d68df99196ab425eab454
+    mime: image/jpeg
+    bytes: 10952931
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/60/bd/60bd13497a90e7abf784385529affb7dfe9b3395706d68df99196ab425eab454/preview-400.7bac804ac90e.jpg
+        sha256: 7bac804ac90ef4a8dab4bd2200aafb338ccaa0e8974e9108c93dfa57a1a1745b
+        mime: image/jpeg
+        bytes: 32220
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

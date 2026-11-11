@@ -1,0 +1,42 @@
+id: 01HP7RF4KMTPHWMZXSWFAM40B6
+type: image
+subtype: drawing
+title: Skizze Salzwedel, Deichstraße
+description: Federzeichnung, laviert.
+date: 1913-03-13
+location: Wittenberge, Marktstraße
+geocode:
+  lat: 53.0653
+  lon: 11.6919
+  precision: town
+  source: osm
+origin:
+  name: Erika Sievers
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos 4/172
+files:
+  - role: main
+    original_name: scan_873.tif
+    path: files/47/3c/473c2915783fb8dc0acb5fbf26135728de3b955932d55d3ab4a76c3b0164b537/original.tif
+    sha256: 473c2915783fb8dc0acb5fbf26135728de3b955932d55d3ab4a76c3b0164b537
+    mime: image/tiff
+    bytes: 9982536
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/47/3c/473c2915783fb8dc0acb5fbf26135728de3b955932d55d3ab4a76c3b0164b537/preview-400.dee64212e886.jpg
+        sha256: dee64212e886c9fafe5fe9531593efb0440fe5d7e704fd5be250bc5866e9f3fb
+        mime: image/jpeg
+        bytes: 89355
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

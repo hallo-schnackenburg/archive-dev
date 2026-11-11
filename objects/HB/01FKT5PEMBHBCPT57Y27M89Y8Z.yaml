@@ -1,0 +1,37 @@
+id: 01FKT5PEMBHBCPT57Y27M89Y8Z
+type: image
+subtype: print
+title: Postkarte Brünkendorf, Heuberge
+description: Postkarte, gelaufen 1903.
+date: 1943-10
+origin:
+  name: Hans Gaede
+  type: person
+  location: Wustrow
+subjects:
+  - name: Kartoffelernte 1943
+    type: event
+  - name: Arendsee
+    type: place
+  - name: Brunnen am Markt
+    type: building
+files:
+  - role: main
+    original_name: scan_164.tif
+    path: files/b6/5f/b65f84157940afc6b771bdcc2ad29aac6c65ce93e5c6f495b5d3bb8a96a27cac/original.tif
+    sha256: b65f84157940afc6b771bdcc2ad29aac6c65ce93e5c6f495b5d3bb8a96a27cac
+    mime: image/tiff
+    bytes: 14071773
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b6/5f/b65f84157940afc6b771bdcc2ad29aac6c65ce93e5c6f495b5d3bb8a96a27cac/preview-400.20cab5e3c363.jpg
+        sha256: 20cab5e3c363a409c792312467ae2456b499f86097181bcf5715a64d4b186c6c
+        mime: image/jpeg
+        bytes: 89098
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

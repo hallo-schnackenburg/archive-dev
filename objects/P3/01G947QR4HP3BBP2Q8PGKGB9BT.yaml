@@ -1,0 +1,44 @@
+id: 01G947QR4HP3BBP2Q8PGKGB9BT
+type: image
+subtype: photo
+title: Grenzturm nach dem Sturmschaden
+description: Abzug im Format 10 x 15 cm.
+date: 1942~
+location: Lenzen, Am Elbdeich
+origin:
+  name: Wilhelm Wiegmann
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 39/066
+subjects:
+  - name: Einschulung 1942
+    type: event
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01JTHP4KSFGWQ8YZT350SBEYS1
+files:
+  - role: main
+    original_name: scan_960.tif
+    path: files/a8/89/a8898c431764d90fbab8ca736973fa07e1ee0971571fa664d90737e3d3d5be10/original.tif
+    sha256: a8898c431764d90fbab8ca736973fa07e1ee0971571fa664d90737e3d3d5be10
+    mime: image/tiff
+    bytes: 25788365
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a8/89/a8898c431764d90fbab8ca736973fa07e1ee0971571fa664d90737e3d3d5be10/preview-400.15b9a422e6a9.jpg
+        sha256: 15b9a422e6a900fb1b8756b245e347bf9b3caccfeed1c7edd5c57abce06b8922
+        mime: image/jpeg
+        bytes: 57146
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

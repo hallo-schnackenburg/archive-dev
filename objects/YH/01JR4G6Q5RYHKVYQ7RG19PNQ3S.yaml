@@ -1,0 +1,40 @@
+id: 01JR4G6Q5RYHKVYQ7RG19PNQ3S
+type: image
+subtype: photo
+title: Am Elbdeich, Ecke Elbstraße
+description: Farbfoto, leicht verblasst.
+date: 1913/1915
+location: Brünkendorf, Hafen
+origin:
+  name: Ernst Brandt
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Maifeier 1913
+    type: event
+  - name: Wootz
+    type: place
+  - name: Otto Lemke
+    type: person
+parents:
+  - 01K5TW5781NJJRQNS4RN8CYBN2
+files:
+  - role: main
+    original_name: DSC6049.jpg
+    path: files/d3/2c/d32c60e891aa81757a282255cd7de5be26fb51d080f192a0701a485a581c570c/original.jpg
+    sha256: d32c60e891aa81757a282255cd7de5be26fb51d080f192a0701a485a581c570c
+    mime: image/jpeg
+    bytes: 5149917
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/d3/2c/d32c60e891aa81757a282255cd7de5be26fb51d080f192a0701a485a581c570c/preview-400.eef707255ce5.jpg
+        sha256: eef707255ce5eecb8e0d698ba8e42c5b7310b44f7fdef77cfc2ae00ef276608b
+        mime: image/jpeg
+        bytes: 45171
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

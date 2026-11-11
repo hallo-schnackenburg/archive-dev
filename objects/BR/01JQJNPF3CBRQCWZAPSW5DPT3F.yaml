@@ -1,0 +1,40 @@
+id: 01JQJNPF3CBRQCWZAPSW5DPT3F
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Brückeneinweihung, Wittenberge"
+description: Federzeichnung, laviert.
+location: Arendsee, Gartenstraße
+origin:
+  name: Paul Krüger
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 3/374
+  note: Kellerarchiv
+subjects:
+  - name: Apotheke
+    type: building
+files:
+  - role: main
+    original_name: scan_372.tif
+    path: files/24/c6/24c68b985339269eb5c6598fe83733b7263f8804a058adc85cd7a6974b44f4c8/original.tif
+    sha256: 24c68b985339269eb5c6598fe83733b7263f8804a058adc85cd7a6974b44f4c8
+    mime: image/tiff
+    bytes: 23899394
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/24/c6/24c68b985339269eb5c6598fe83733b7263f8804a058adc85cd7a6974b44f4c8/preview-400.d8038f48a5c0.jpg
+        sha256: d8038f48a5c02c13893b8517bcf69095bb52da7708850da38680bf88f8de0f34
+        mime: image/jpeg
+        bytes: 23358
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01F5YEN40FWXHK8NQSB5GZ7GR8
+type: image
+subtype: photo
+title: Beerdigung der Schützengesellschaft
+description: Farbfoto, leicht verblasst.
+date: "1968"
+location: Nienwalde, Schulstraße
+geocode:
+  lat: 52.9655
+  lon: 11.5097
+  precision: town
+  source: osm
+origin:
+  name: Anni Lemke
+  type: person
+  location: Nienwalde
+owner:
+  name: Dieter Sievers
+  type: person
+  note: Dauerleihgabe
+parents:
+  - 01EWYE51ZQTFTFRZH9QFSNZE0B
+files:
+  - role: main
+    original_name: foto_7691.jpg
+    path: files/2c/2a/2c2a9c206fe104fb3355b5b4e3428813d8aabafc7842878bb88e19aff6772eb8/original.jpg
+    sha256: 2c2a9c206fe104fb3355b5b4e3428813d8aabafc7842878bb88e19aff6772eb8
+    mime: image/jpeg
+    bytes: 5004819
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2c/2a/2c2a9c206fe104fb3355b5b4e3428813d8aabafc7842878bb88e19aff6772eb8/preview-400.468b178de735.jpg
+        sha256: 468b178de7352044054541972690be4820497d899b629cb7e72abc095338a14f
+        mime: image/jpeg
+        bytes: 40297
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01M10RX33WS3SXQAC4GRGXADAM
+type: image
+subtype: photo
+title: Ernst Lenz vor dem Kindergarten
+description: Aufnahme von Erika Rieke.
+origin:
+  name: Heinrich Dreyer
+  type: person
+  location: Dömitz
+subjects:
+  - name: Pumpenhaus
+    type: building
+  - name: Hafen
+    type: building
+parents:
+  - 01M0CBRWW56FRQVDWWMJQPF72C
+files:
+  - role: main
+    original_name: P6046.jpg
+    path: files/46/4d/464dc756c4541cbed722b472be3ffd08477c338bc6dbfb281e9069320b08b009/original.jpg
+    sha256: 464dc756c4541cbed722b472be3ffd08477c338bc6dbfb281e9069320b08b009
+    mime: image/jpeg
+    bytes: 5715740
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/46/4d/464dc756c4541cbed722b472be3ffd08477c338bc6dbfb281e9069320b08b009/preview-400.bec4e69f04ff.jpg
+        sha256: bec4e69f04ff98d16663e8f6e6016a0f100c7e2c110fb8530bcc33a6c041c5bb
+        mime: image/jpeg
+        bytes: 41122
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

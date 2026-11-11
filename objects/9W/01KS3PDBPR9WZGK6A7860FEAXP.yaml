@@ -1,0 +1,32 @@
+id: 01KS3PDBPR9WZGK6A7860FEAXP
+type: image
+subtype: print
+title: Postkarte Wustrow, Ziegelei
+description: Lithographie, Rand beschnitten.
+date: "1820"
+location: Gollensdorf, Bahnhofstraße
+geocode:
+  lat: 53.0455
+  lon: 11.5136
+  precision: region
+  source: osm
+files:
+  - role: main
+    original_name: scan_100.tif
+    path: files/97/16/97162ff4a763926f7ff201ea54adc659d6a7f1bbc8c62f028d7f5de88511613d/original.tif
+    sha256: 97162ff4a763926f7ff201ea54adc659d6a7f1bbc8c62f028d7f5de88511613d
+    mime: image/tiff
+    bytes: 13157421
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/16/97162ff4a763926f7ff201ea54adc659d6a7f1bbc8c62f028d7f5de88511613d/preview-400.970cc3ff19e5.jpg
+        sha256: 970cc3ff19e555706eb91ef6938cad335f8fa6d6523058a25b43537458c12bf9
+        mime: image/jpeg
+        bytes: 55014
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

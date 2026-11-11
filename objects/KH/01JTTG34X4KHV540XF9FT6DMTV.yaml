@@ -1,0 +1,43 @@
+id: 01JTTG34X4KHV540XF9FT6DMTV
+type: image
+subtype: drawing
+title: Entwurf für Schlachterei
+description: Bleistift auf Papier.
+date: 198X
+location: Wootz, Gasthof „Zur Elbe“
+geocode:
+  lat: 52.9586
+  lon: 11.4959
+  precision: region
+  source: osm
+origin:
+  name: Erika Lemke
+  type: person
+  location: Seedorf
+subjects:
+  - name: Otto Lemke
+    type: person
+  - name: Wittenberge
+    type: place
+parents:
+  - 01HJPB419DCSVPH6S0SEYBKD5Z
+files:
+  - role: main
+    original_name: scan_681.tif
+    path: files/6c/75/6c75d319297244895975c29e5b92eadaa1b473ade32bc76cbe9e2a5526ba3c84/original.tif
+    sha256: 6c75d319297244895975c29e5b92eadaa1b473ade32bc76cbe9e2a5526ba3c84
+    mime: image/tiff
+    bytes: 15969366
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/6c/75/6c75d319297244895975c29e5b92eadaa1b473ade32bc76cbe9e2a5526ba3c84/preview-400.4b0bcf76c28f.jpg
+        sha256: 4b0bcf76c28fb2ec522dd6bd236ac243bb2bd22a8fc22f8378d70dacdcd9aa2b
+        mime: image/jpeg
+        bytes: 55616
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

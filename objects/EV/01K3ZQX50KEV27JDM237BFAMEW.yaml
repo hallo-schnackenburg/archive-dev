@@ -1,0 +1,44 @@
+id: 01K3ZQX50KEV27JDM237BFAMEW
+type: image
+subtype: photo
+title: Ziegelei nach dem Grenzöffnung
+description: Aufnahme von Käthe Kuhlmann.
+date: "1990"
+location: Salzwedel, Friedhofskapelle
+geocode:
+  lat: 53.0485
+  lon: 11.5071
+  precision: exact
+  source: osm
+origin:
+  name: Wilhelm Ahrens
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Gülden
+    type: place
+  - name: Erika Eggers
+    type: person
+parents:
+  - 01FDG2W8NWMVK48918J24FXBW9
+  - 01M3QTWQ9H2E1GP4N4HWKMEY2Z
+files:
+  - role: main
+    original_name: scan_414.tif
+    path: files/e7/d2/e7d2c91f83d8369369d6e47215dbd908056cd79badf4ae63e9a86b2693581353/original.tif
+    sha256: e7d2c91f83d8369369d6e47215dbd908056cd79badf4ae63e9a86b2693581353
+    mime: image/tiff
+    bytes: 19105444
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e7/d2/e7d2c91f83d8369369d6e47215dbd908056cd79badf4ae63e9a86b2693581353/preview-400.acec2b8c0ae0.jpg
+        sha256: acec2b8c0ae0e5299159a976a95e5e7e27abdf04cffe2b4d47deb60c9b0ffa58
+        mime: image/jpeg
+        bytes: 25301
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

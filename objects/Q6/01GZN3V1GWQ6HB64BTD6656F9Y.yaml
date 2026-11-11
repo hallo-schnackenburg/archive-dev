@@ -1,0 +1,45 @@
+id: 01GZN3V1GWQ6HB64BTD6656F9Y
+type: image
+subtype: photo
+title: Einschulung der Jugendfeuerwehr
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1899-02-07
+location: Brünkendorf, Hafenstraße
+geocode:
+  lat: 53.0291
+  lon: 11.4891
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Pumpenhaus
+    type: building
+  - name: Elbdeich
+    type: building
+parents:
+  - 01G8JVP67ZT9860RH8N2NEXXK7
+files:
+  - role: main
+    original_name: foto_2293.jpg
+    path: files/18/30/1830b15d2b0294948d6d5dca503586f58be1c0c867de4794d24acc976e16f53f/original.jpg
+    sha256: 1830b15d2b0294948d6d5dca503586f58be1c0c867de4794d24acc976e16f53f
+    mime: image/jpeg
+    bytes: 15168509
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/18/30/1830b15d2b0294948d6d5dca503586f58be1c0c867de4794d24acc976e16f53f/preview-400.52433b53f1fb.jpg
+        sha256: 52433b53f1fb1aea334a1db84de7508c547c146c13fd5e659bb96b4a8f4cc48b
+        mime: image/jpeg
+        bytes: 29015
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

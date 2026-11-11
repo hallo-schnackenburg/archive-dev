@@ -1,0 +1,49 @@
+id: 01H0NY48PQYW9164R2FE2W76E4
+type: document
+subtype: note
+title: "Handschriftliche Notiz: Grenzöffnung"
+description: Auf der Rückseite eines Formulars.
+date: 200X
+origin:
+  name: Karl Schulz
+  type: person
+  location: Laase
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+owner:
+  name: Anni Wegner
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Fritz Harms
+    type: person
+parents:
+  - 01J5VEM4DET47BYJHEPTWJ7T8Q
+  - 01H50FV4Y1X081JA2BHVBS4W88
+files:
+  - role: page
+    num: 1
+    original_name: note_2w76e4_001.tif
+    path: files/3e/26/3e26ed2a15e862260a9941cbd8bfa8ae0921026b80b120c3cc543cc2cb6b4a0e/original.tif
+    sha256: 3e26ed2a15e862260a9941cbd8bfa8ae0921026b80b120c3cc543cc2cb6b4a0e
+    mime: image/tiff
+    bytes: 11602807
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/26/3e26ed2a15e862260a9941cbd8bfa8ae0921026b80b120c3cc543cc2cb6b4a0e/preview-400.c978292df679.jpg
+        sha256: c978292df67991687618c538e78197ae34da1bde6e74c18b9e2481b18172b23d
+        mime: image/jpeg
+        bytes: 89371
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

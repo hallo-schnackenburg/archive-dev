@@ -1,0 +1,71 @@
+id: 01GA397VD426VJKBGFQ27SXEKB
+type: document
+subtype: letter
+title: Hermann Bohlmann an die Gemeinde wegen Pachtvertrag
+date: 1913-10-26
+location: Hitzacker, Mühlenweg
+geocode:
+  lat: 53.0019
+  lon: 11.4788
+  precision: region
+  source: osm
+origin:
+  name: Karl Krüger
+  type: person
+  location: Cumlosen
+recipient: Helga Lemke
+language: de
+original:
+  holder:
+    name: Familie Schulz
+    type: person
+    location: Kapern
+  reference: Plan/Album 28/027
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Backhaus
+    type: building
+  - name: Otto Wiese
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_7sxekb_001.tif
+    path: files/aa/a0/aaa07c2176fac05b1a8665898395b19ebcaa3f16446dd8f842c4738c8a9dd817/original.tif
+    sha256: aaa07c2176fac05b1a8665898395b19ebcaa3f16446dd8f842c4738c8a9dd817
+    mime: image/tiff
+    bytes: 12472737
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/aa/a0/aaa07c2176fac05b1a8665898395b19ebcaa3f16446dd8f842c4738c8a9dd817/preview-400.ecb2c792c561.jpg
+        sha256: ecb2c792c561f1533bed772a3e3743b02fef913782b0f3645ea92ce612889102
+        mime: image/jpeg
+        bytes: 26439
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_7sxekb_002.tif
+    path: files/41/f7/41f7a2ec3e9a538259420ada2776c199cfc6dc89f6fa2c854687620d13e59922/original.tif
+    sha256: 41f7a2ec3e9a538259420ada2776c199cfc6dc89f6fa2c854687620d13e59922
+    mime: image/tiff
+    bytes: 20366656
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/41/f7/41f7a2ec3e9a538259420ada2776c199cfc6dc89f6fa2c854687620d13e59922/preview-400.e9038d4bc638.jpg
+        sha256: e9038d4bc63843572e8a8f85e0ee44ee3422291aad6615e6ba229ee3efe084a7
+        mime: image/jpeg
+        bytes: 72821
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01JR3K4FY068NACKP6VJMHBQ12
+type: image
+subtype: drawing
+title: Speicher, Aquarell, Havelberg
+location: Pretzier, Kirche St. Johannis
+subjects:
+  - name: Schlachtfest 1907
+    type: event
+  - name: Hafen
+    type: building
+  - name: Hochzeit 1907
+    type: event
+parents:
+  - 01FRX0E5WBRJXBRWAVHTPJCDE5
+files:
+  - role: main
+    original_name: scan_238.tif
+    path: files/58/ff/58ffab98dadc07e2fe91aec694b846f02f2fed07bb733c134369deca09d9e834/original.tif
+    sha256: 58ffab98dadc07e2fe91aec694b846f02f2fed07bb733c134369deca09d9e834
+    mime: image/tiff
+    bytes: 12303550
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/58/ff/58ffab98dadc07e2fe91aec694b846f02f2fed07bb733c134369deca09d9e834/preview-400.6cab4c384315.jpg
+        sha256: 6cab4c384315cde41b1e81fb74d18dacf0cb5488b089dfd7a039f2de7fc3b89b
+        mime: image/jpeg
+        bytes: 50530
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

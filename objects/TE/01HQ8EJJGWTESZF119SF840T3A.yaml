@@ -1,0 +1,65 @@
+id: 01HQ8EJJGWTESZF119SF840T3A
+type: document
+subtype: note
+title: "Handschriftliche Notiz: Ortsbesichtigung"
+description: Zettel, Bleistift.
+date: 1897-02-19
+location: Brünkendorf, Dorfstraße
+geocode:
+  lat: 53.057
+  lon: 11.6537
+  precision: exact
+  source: osm
+origin:
+  name: Karl Gaede
+  type: person
+  location: Restorf
+language: de
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01H50FV4Y1X081JA2BHVBS4W88
+files:
+  - role: page
+    num: 1
+    original_name: note_840t3a_001.tif
+    path: files/e5/2c/e52cbd2abe82c076c07953b96f3b2ceaed2ed2f472da27f9e7ee7fb7a708406c/original.tif
+    sha256: e52cbd2abe82c076c07953b96f3b2ceaed2ed2f472da27f9e7ee7fb7a708406c
+    mime: image/tiff
+    bytes: 20992578
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e5/2c/e52cbd2abe82c076c07953b96f3b2ceaed2ed2f472da27f9e7ee7fb7a708406c/preview-400.aab77ad019d2.jpg
+        sha256: aab77ad019d2ade1bf239c36daac6c7712fd2590cfeb27d28cb8642a635a5588
+        mime: image/jpeg
+        bytes: 29425
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_840t3a_002.tif
+    path: files/4a/82/4a821b7516c4b9d80af35b49d66804d13c90e4928f1643a7b9d8332e0f994c4e/original.tif
+    sha256: 4a821b7516c4b9d80af35b49d66804d13c90e4928f1643a7b9d8332e0f994c4e
+    mime: image/tiff
+    bytes: 27012431
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4a/82/4a821b7516c4b9d80af35b49d66804d13c90e4928f1643a7b9d8332e0f994c4e/preview-400.16c2a74d3e0b.jpg
+        sha256: 16c2a74d3e0b16dadc7eed252bc008b5ad219ec19dad7c244309f2da9a08c546
+        mime: image/jpeg
+        bytes: 22967
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

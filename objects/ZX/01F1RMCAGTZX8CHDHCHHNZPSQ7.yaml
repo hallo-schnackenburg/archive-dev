@@ -1,0 +1,33 @@
+id: 01F1RMCAGTZX8CHDHCHHNZPSQ7
+type: image
+subtype: plan
+title: Katasterblatt Tiedemann, Wittenberge
+description: Tusche auf Transparentpapier.
+date: 1789-10
+location: Dömitz, Zollamt
+origin:
+  name: Otto Wegner
+  type: person
+  location: Salzwedel
+parents:
+  - 01KSQSSGDYWJ8WM96BXT4QY5Z0
+files:
+  - role: main
+    original_name: scan_166.tif
+    path: files/50/9f/509fac4f8525978fca9d1bd4d7762fa55f28f755326f14f3ab9c46d0ee2101cf/original.tif
+    sha256: 509fac4f8525978fca9d1bd4d7762fa55f28f755326f14f3ab9c46d0ee2101cf
+    mime: image/tiff
+    bytes: 4172617
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/9f/509fac4f8525978fca9d1bd4d7762fa55f28f755326f14f3ab9c46d0ee2101cf/preview-400.574538b198ec.jpg
+        sha256: 574538b198ec887c40385f3445757b11650738292f156eb0bb6a8cc21f219195
+        mime: image/jpeg
+        bytes: 41308
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

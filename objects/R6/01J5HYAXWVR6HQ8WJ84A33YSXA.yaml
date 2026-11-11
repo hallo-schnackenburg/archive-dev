@@ -1,0 +1,44 @@
+id: 01J5HYAXWVR6HQ8WJ84A33YSXA
+type: document
+subtype: note
+title: Rechnung Gaede, Poststelle
+description: Beleg mit Stempel.
+date: 1985-05-23
+location: Schnackenburg, Am Elbdeich
+geocode:
+  lat: 52.9716
+  lon: 11.6932
+  precision: town
+  source: osm
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Kasten 20/116
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Heinrich Behrens
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_33ysxa_001.tif
+    path: files/54/1e/541ef85935f0664ca0d8da5e7ba82006ec4209ea9bb213500775dc3de6297f0f/original.tif
+    sha256: 541ef85935f0664ca0d8da5e7ba82006ec4209ea9bb213500775dc3de6297f0f
+    mime: image/tiff
+    bytes: 21349225
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/54/1e/541ef85935f0664ca0d8da5e7ba82006ec4209ea9bb213500775dc3de6297f0f/preview-400.c2187fca94c0.jpg
+        sha256: c2187fca94c0c100d9f509e2af010603c40e109e0c802df916e96172e5dcd7da
+        mime: image/jpeg
+        bytes: 53656
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

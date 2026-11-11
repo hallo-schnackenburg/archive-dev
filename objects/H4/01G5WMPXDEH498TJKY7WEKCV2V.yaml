@@ -1,0 +1,33 @@
+id: 01G5WMPXDEH498TJKY7WEKCV2V
+type: image
+subtype: plan
+title: Deichplan Gülden bis Pretzier
+date: 1877-08-21
+location: Laase, Burgstraße
+origin:
+  name: Heinrich Voss
+  type: person
+  location: Wustrow
+subjects:
+  - name: Einschulung 1877
+    type: event
+files:
+  - role: main
+    original_name: scan_079.tif
+    path: files/3b/1d/3b1d3470bae52915e767471ef406bc2c6653fddd206c11c1750bdedd070c0c7f/original.tif
+    sha256: 3b1d3470bae52915e767471ef406bc2c6653fddd206c11c1750bdedd070c0c7f
+    mime: image/tiff
+    bytes: 15458804
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/3b/1d/3b1d3470bae52915e767471ef406bc2c6653fddd206c11c1750bdedd070c0c7f/preview-400.5f67301ed04a.jpg
+        sha256: 5f67301ed04aabfbb4054a6e61528bbab885fb716c3ebc607f1c69136b185b17
+        mime: image/jpeg
+        bytes: 37956
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

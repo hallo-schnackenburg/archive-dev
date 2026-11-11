@@ -1,0 +1,48 @@
+id: 01HGTPDB42FQCKFA3MZVN6RPXC
+type: image
+subtype: photo
+title: Glockenweihe der Kegelclub
+description: Abzug im Format 9 x 13 cm.
+date: 1901-08
+location: Havelberg, Dorfkrug
+geocode:
+  lat: 52.9863
+  lon: 11.6948
+  precision: street
+  source: osm
+origin:
+  name: Ernst Bohlmann
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro 19/269
+subjects:
+  - name: Ilse Wöhlk
+    type: person
+parents:
+  - 01HS9D6TNXGYQ746ZSEVHFEZN8
+  - 01F267JRW9ANSP74NWFX31H9W4
+files:
+  - role: main
+    original_name: DSC2929.jpg
+    path: files/86/42/8642ecc69c03b81c5d113147644f2c5ed610d30326202657b0331f2461285eef/original.jpg
+    sha256: 8642ecc69c03b81c5d113147644f2c5ed610d30326202657b0331f2461285eef
+    mime: image/jpeg
+    bytes: 588839
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/86/42/8642ecc69c03b81c5d113147644f2c5ed610d30326202657b0331f2461285eef/preview-400.5c05ff12489d.jpg
+        sha256: 5c05ff12489d41e91987432724928d39bdb52f76ffe83a682af6793e6a747830
+        mime: image/jpeg
+        bytes: 84722
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

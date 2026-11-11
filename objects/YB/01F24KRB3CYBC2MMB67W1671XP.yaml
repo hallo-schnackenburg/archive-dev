@@ -1,0 +1,42 @@
+id: 01F24KRB3CYBC2MMB67W1671XP
+type: image
+subtype: photo
+title: Käthe Wegner, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1915-10-05
+location: Lenzen, Deichstraße
+origin:
+  name: Erika Pape
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Slg 15/021
+subjects:
+  - name: Arendsee
+    type: place
+parents:
+  - 01F0QYSCYKSTCN1NTYT6RNDCR9
+files:
+  - role: main
+    original_name: scan_841.tif
+    path: files/e5/24/e5248865d404e86722df4183820870c02d1a8933a9317bb897691abb87d698b5/original.tif
+    sha256: e5248865d404e86722df4183820870c02d1a8933a9317bb897691abb87d698b5
+    mime: image/tiff
+    bytes: 24981593
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e5/24/e5248865d404e86722df4183820870c02d1a8933a9317bb897691abb87d698b5/preview-400.12d4fdbdd405.jpg
+        sha256: 12d4fdbdd4054bf474f4370333b31c03af159d198560cebae6dee941dac73f27
+        mime: image/jpeg
+        bytes: 64902
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

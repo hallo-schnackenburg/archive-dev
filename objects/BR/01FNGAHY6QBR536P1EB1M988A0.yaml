@@ -1,0 +1,46 @@
+id: 01FNGAHY6QBR536P1EB1M988A0
+type: image
+subtype: drawing
+title: Skizze Dömitz, Marktstraße
+description: Mit Anmerkungen am Rand.
+date: "1868"
+location: Wustrow, Dorfteich
+geocode:
+  lat: 53.0001
+  lon: 11.5825
+  precision: street
+  source: osm
+origin:
+  name: Gustav Kuhlmann
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Schützenfest 1868
+    type: event
+  - name: Erika Burmester
+    type: person
+files:
+  - role: main
+    original_name: scan_951.tif
+    path: files/83/ba/83baeefd070b6f548ed5e959b10fb499ae912ba5b91d13ce619e8c7c841ce33f/original.tif
+    sha256: 83baeefd070b6f548ed5e959b10fb499ae912ba5b91d13ce619e8c7c841ce33f
+    mime: image/tiff
+    bytes: 12818782
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/83/ba/83baeefd070b6f548ed5e959b10fb499ae912ba5b91d13ce619e8c7c841ce33f/preview-400.f475c3f42686.jpg
+        sha256: f475c3f426867cd2451d110c573d2fbba05321c88bb9bd7c6926b490cb3247ae
+        mime: image/jpeg
+        bytes: 39835
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

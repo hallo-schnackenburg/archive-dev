@@ -1,0 +1,37 @@
+id: 01GTVSM910QNBEX6W7XSR67NZ1
+type: image
+subtype: print
+title: "Holzschnitt: Sturmschaden, Wootz"
+date: 1882-11
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan 16/034
+parents:
+  - 01HJMR4YWKHDFKNS8WPV4XDY2Z
+files:
+  - role: main
+    original_name: scan_028.tif
+    path: files/54/f0/54f003efe7f771341e56917d1e8f11e017d99e9c71e0ab18c16a88344e73849d/original.tif
+    sha256: 54f003efe7f771341e56917d1e8f11e017d99e9c71e0ab18c16a88344e73849d
+    mime: image/tiff
+    bytes: 26312737
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/54/f0/54f003efe7f771341e56917d1e8f11e017d99e9c71e0ab18c16a88344e73849d/preview-400.4e9fc49b1da0.jpg
+        sha256: 4e9fc49b1da04be6480be1bdf3713a951ff288c7d6906bfd83223d2843efc7b0
+        mime: image/jpeg
+        bytes: 64530
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

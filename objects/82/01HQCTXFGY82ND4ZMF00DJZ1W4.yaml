@@ -1,0 +1,39 @@
+id: 01HQCTXFGY82ND4ZMF00DJZ1W4
+type: image
+subtype: print
+title: Postkarte Lüchow, Hafen
+description: Lithographie, Rand beschnitten.
+date: "1926"
+origin:
+  name: Karl Plate
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Gerda Klatt
+    type: person
+  - name: Backhaus
+    type: building
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01F1Q5CD51G9ZH21J5XMQ18G3Z
+files:
+  - role: main
+    original_name: scan_713.tif
+    path: files/3d/69/3d69f1a939d74de33724afb9c185f72ecc94aca7c65098601e688923f6b07a04/original.tif
+    sha256: 3d69f1a939d74de33724afb9c185f72ecc94aca7c65098601e688923f6b07a04
+    mime: image/tiff
+    bytes: 27526004
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3d/69/3d69f1a939d74de33724afb9c185f72ecc94aca7c65098601e688923f6b07a04/preview-400.948edd367bfc.jpg
+        sha256: 948edd367bfcc11b214e5b4a60016502c540b3ba5b5111382007c96e0440d47d
+        mime: image/jpeg
+        bytes: 35076
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01F80K798GS7PSSBJF6TQPN4B5
+type: image
+subtype: plan
+title: Bauplan Tanzsaal 1991
+description: Tusche auf Transparentpapier.
+date: "1991"
+origin:
+  name: Otto Cohrs
+  type: person
+  location: Holtorf
+subjects:
+  - name: Dömitz
+    type: place
+parents:
+  - 01JQ5ZJ8ZA1XA18X8HM3MHQ0SS
+files:
+  - role: main
+    original_name: scan_604.tif
+    path: files/bf/14/bf14fb90df2ebf14e51c26c5d4433d93866203dd283589b8d005cd2e1816e2e6/original.tif
+    sha256: bf14fb90df2ebf14e51c26c5d4433d93866203dd283589b8d005cd2e1816e2e6
+    mime: image/tiff
+    bytes: 19244428
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bf/14/bf14fb90df2ebf14e51c26c5d4433d93866203dd283589b8d005cd2e1816e2e6/preview-400.562ef2d6249b.jpg
+        sha256: 562ef2d6249bcf054de197a6f99fc5122a056a6a36bcb4e094215ca0182bf0b8
+        mime: image/jpeg
+        bytes: 76185
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

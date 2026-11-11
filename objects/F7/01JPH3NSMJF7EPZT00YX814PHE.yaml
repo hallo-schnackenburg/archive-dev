@@ -1,0 +1,31 @@
+id: 01JPH3NSMJF7EPZT00YX814PHE
+type: image
+subtype: plan
+title: Deichplan Rüterberg bis Lüchow
+description: Mit handschriftlichen Ergänzungen.
+date: 1885-12-09
+location: Holtorf, Elbstraße
+origin:
+  name: Anni Kuhlmann
+  type: person
+  location: Lüchow
+files:
+  - role: main
+    original_name: scan_168.tif
+    path: files/0f/7a/0f7a7a4b938837e5a66d79a969995f02974f1651ca60249a6f5d07665d4391d6/original.tif
+    sha256: 0f7a7a4b938837e5a66d79a969995f02974f1651ca60249a6f5d07665d4391d6
+    mime: image/tiff
+    bytes: 18954815
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0f/7a/0f7a7a4b938837e5a66d79a969995f02974f1651ca60249a6f5d07665d4391d6/preview-400.67af82be1a58.jpg
+        sha256: 67af82be1a58ec688f42da515162a9f43ac89499f401ce6c7b91eda532f30e9b
+        mime: image/jpeg
+        bytes: 62547
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

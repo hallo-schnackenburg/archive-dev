@@ -1,0 +1,70 @@
+id: 01FPHFA1RAW63HS95AGAB59ZWJ
+type: document
+subtype: letter
+title: Rudolf Voss an die Gemeinde wegen Strompreise
+date: 1944/1951
+location: Gollensdorf, Storchennest
+geocode:
+  lat: 52.9595
+  lon: 11.5241
+  precision: street
+  source: osm
+origin:
+  name: Otto Kuhlmann
+  type: person
+  location: Gorleben
+recipient: Fritz Hartwig
+language: de
+original:
+  holder:
+    name: Familie Ahrens
+    type: person
+    location: Wittenberge
+  reference: Br/Mappe 12/042
+  note: Mappe 12
+subjects:
+  - name: Schlachtfest 1944
+    type: event
+  - name: Berta Krüger
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_b59zwj_001.tif
+    path: files/66/4d/664dea2cd3ae81e43e1fd90ae22452f02bab4849dcbbb1c7ae1d461c477220bb/original.tif
+    sha256: 664dea2cd3ae81e43e1fd90ae22452f02bab4849dcbbb1c7ae1d461c477220bb
+    mime: image/tiff
+    bytes: 10494627
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/66/4d/664dea2cd3ae81e43e1fd90ae22452f02bab4849dcbbb1c7ae1d461c477220bb/preview-400.971ebbf0e102.jpg
+        sha256: 971ebbf0e102b6ac0071a9009ee63c8afb7c2ad42dbdd774a5ad2ffb0f9ca763
+        mime: image/jpeg
+        bytes: 31174
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_b59zwj_002.tif
+    path: files/41/4c/414c7c5ce26207972468752824e49151974dec5dd76d517e11363e08a650efa2/original.tif
+    sha256: 414c7c5ce26207972468752824e49151974dec5dd76d517e11363e08a650efa2
+    mime: image/tiff
+    bytes: 18589100
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/41/4c/414c7c5ce26207972468752824e49151974dec5dd76d517e11363e08a650efa2/preview-400.3b5cba314217.jpg
+        sha256: 3b5cba314217c9d1e9adf2c9e53c56194b67a13ef3282c8c2d061951c6ba6e2a
+        mime: image/jpeg
+        bytes: 44348
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

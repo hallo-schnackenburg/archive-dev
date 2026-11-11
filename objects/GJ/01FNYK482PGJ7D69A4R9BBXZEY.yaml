@@ -1,0 +1,43 @@
+id: 01FNYK482PGJ7D69A4R9BBXZEY
+type: image
+subtype: drawing
+title: Skizze Zadrau, Mühlenweg
+description: Bleistift auf Papier.
+date: 193X
+location: Rüterberg, Schützenhaus
+geocode:
+  lat: 53.0968
+  lon: 11.5218
+  precision: street
+  source: osm
+origin:
+  name: Karl Meyer
+  type: person
+  location: Holtorf
+subjects:
+  - name: Brunnen am Markt
+    type: building
+  - name: Kriegerdenkmal
+    type: building
+parents:
+  - 01HCRJBF96Y6XBHZZ8XQX7630X
+files:
+  - role: main
+    original_name: scan_994.tif
+    path: files/30/0f/300f172072e94c13813df9703daa9e3ed816933297293d0defa5c914ed7bfd2e/original.tif
+    sha256: 300f172072e94c13813df9703daa9e3ed816933297293d0defa5c914ed7bfd2e
+    mime: image/tiff
+    bytes: 27674758
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/30/0f/300f172072e94c13813df9703daa9e3ed816933297293d0defa5c914ed7bfd2e/preview-400.53393b7ff6c0.jpg
+        sha256: 53393b7ff6c0a24d2b5942f617662b46ca7d3c2b89c242e8d663c732fef794d4
+        mime: image/jpeg
+        bytes: 21011
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

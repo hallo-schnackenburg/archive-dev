@@ -1,0 +1,57 @@
+id: 01H1QCV93CW1S7RJTF35HV0WRQ
+type: document
+subtype: letter
+title: Brief von Emma Krüger an August Dreyer
+date: 1793-07-10
+location: Brünkendorf, Burgstraße
+geocode:
+  lat: 52.9121
+  lon: 11.5492
+  precision: region
+  source: osm
+recipient: Helga Schulz
+language: de
+subjects:
+  - name: Pfarrhaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_hv0wrq_001.tif
+    path: files/f5/44/f544ad72f472f09e6bf71525568fe7c25af7fe3539a1e90125c65ffb2ed5b592/original.tif
+    sha256: f544ad72f472f09e6bf71525568fe7c25af7fe3539a1e90125c65ffb2ed5b592
+    mime: image/tiff
+    bytes: 11134571
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f5/44/f544ad72f472f09e6bf71525568fe7c25af7fe3539a1e90125c65ffb2ed5b592/preview-400.722093bd195a.jpg
+        sha256: 722093bd195a7cc9633111ed764e4fcfe5b5a0133599ab874797230a8d3530a3
+        mime: image/jpeg
+        bytes: 27840
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_hv0wrq_002.tif
+    path: files/4c/6a/4c6a9420f3a9c25dacb195d32f948bff84f197d12872f521a39b8dc2abb37a43/original.tif
+    sha256: 4c6a9420f3a9c25dacb195d32f948bff84f197d12872f521a39b8dc2abb37a43
+    mime: image/tiff
+    bytes: 12836593
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4c/6a/4c6a9420f3a9c25dacb195d32f948bff84f197d12872f521a39b8dc2abb37a43/preview-400.4ef2769f2d13.jpg
+        sha256: 4ef2769f2d13c3febc4473e63b08abf682bf26c7565917aa0cf2e26d608436f5
+        mime: image/jpeg
+        bytes: 61544
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

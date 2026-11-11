@@ -1,0 +1,43 @@
+id: 01H8CTRKBNWR8WFWCKXG2JVPYK
+type: image
+subtype: photo
+title: Konfirmation 1965
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1965"
+location: Dömitz, Fährstraße
+geocode:
+  lat: 52.9547
+  lon: 11.6217
+  precision: town
+  source: osm
+origin:
+  name: Ernst Bodenstab
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 17/283
+  note: Regal 1
+files:
+  - role: main
+    original_name: foto_0482.jpg
+    path: files/11/d9/11d9c663a62b8a3e222fca72f541c532d00da5480596fba35a42268fa726fa2a/original.jpg
+    sha256: 11d9c663a62b8a3e222fca72f541c532d00da5480596fba35a42268fa726fa2a
+    mime: image/jpeg
+    bytes: 10062338
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/11/d9/11d9c663a62b8a3e222fca72f541c532d00da5480596fba35a42268fa726fa2a/preview-400.51002e0e6dd0.jpg
+        sha256: 51002e0e6dd0fe44ee8fc7726ff2463ade31c1a7f4b92f1850a498eee6510415
+        mime: image/jpeg
+        bytes: 49424
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

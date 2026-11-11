@@ -1,0 +1,43 @@
+id: 01HVTPZ110P5PFZ23KPJAQCG8G
+type: image
+subtype: photo
+title: Hans Bohlmann vor dem Rathaus
+date: 1925-04-13
+location: Nienwalde, Poststelle
+geocode:
+  lat: 53.0283
+  lon: 11.5589
+  precision: exact
+  source: osm
+origin:
+  name: Ilse Lemke
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br 8/111
+parents:
+  - 01HKFRFSECE3Q2H430VV51X3Q1
+files:
+  - role: main
+    original_name: IMG_2254.jpg
+    path: files/2c/7d/2c7dadf4ef8701f43c7a5cdd0736e9941f35aa25b639589c29e855583127eda3/original.jpg
+    sha256: 2c7dadf4ef8701f43c7a5cdd0736e9941f35aa25b639589c29e855583127eda3
+    mime: image/jpeg
+    bytes: 27122610
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/2c/7d/2c7dadf4ef8701f43c7a5cdd0736e9941f35aa25b639589c29e855583127eda3/preview-400.154d4da902d1.jpg
+        sha256: 154d4da902d19efbb4fb40f089b536686f55fcf659479072977b769dc9b0745d
+        mime: image/jpeg
+        bytes: 77608
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,59 @@
+id: 01KWCEHJ1CH4ZPVNNXTHAE3B84
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Theatergruppe 1880
+description: Handschriftlich in Sütterlin.
+date: 1880-12-11
+origin:
+  name: Feuerwehrausschuss Pretzier
+  type: business
+  location: Gartow
+language: de
+subjects:
+  - name: Restorf
+    type: place
+  - name: Hochwasser 1880
+    type: event
+  - name: Pfarrhaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: protocol_ae3b84_001.tif
+    path: files/27/cb/27cba51c2d9c79250c772fec17b9dbcb67d221e2f9cd79d530f3437d09469785/original.tif
+    sha256: 27cba51c2d9c79250c772fec17b9dbcb67d221e2f9cd79d530f3437d09469785
+    mime: image/tiff
+    bytes: 15384990
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/27/cb/27cba51c2d9c79250c772fec17b9dbcb67d221e2f9cd79d530f3437d09469785/preview-400.dd5c105b7180.jpg
+        sha256: dd5c105b71808952cd10b09c58cb2bb6b2d44cb8c1ae45671cd418591a55815b
+        mime: image/jpeg
+        bytes: 69624
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_ae3b84_002.tif
+    path: files/66/81/668172cf07ff8f5dcb327b3930f465b45085b276efff5e485a96873a57f9c4e8/original.tif
+    sha256: 668172cf07ff8f5dcb327b3930f465b45085b276efff5e485a96873a57f9c4e8
+    mime: image/tiff
+    bytes: 12988794
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/66/81/668172cf07ff8f5dcb327b3930f465b45085b276efff5e485a96873a57f9c4e8/preview-400.1b8045a415be.jpg
+        sha256: 1b8045a415be4b65eadc5d8c920e53dcbe38542769d739e1c5e3ceb0f7f11830
+        mime: image/jpeg
+        bytes: 55501
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

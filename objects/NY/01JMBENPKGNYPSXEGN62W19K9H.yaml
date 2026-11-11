@@ -1,0 +1,43 @@
+id: 01JMBENPKGNYPSXEGN62W19K9H
+type: image
+subtype: photo
+title: Walter Meyer, Porträt
+description: Farbfoto, leicht verblasst.
+date: "1916"
+location: Dömitz, Dorfstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 10/346
+subjects:
+  - name: Kirmes 1916
+    type: event
+  - name: Schnackenburg
+    type: place
+  - name: Heinrich Schulz
+    type: person
+parents:
+  - 01GV9GBAAY8D1BK0CQF82R0YYD
+  - 01FEEW1K0P7657HFN4R8JBV1AC
+files:
+  - role: main
+    original_name: foto_8890.jpg
+    path: files/a6/63/a663bb560d2ea1dc6fe9d386199fbe17471e1be89edd1435a68e50e018e91bc1/original.jpg
+    sha256: a663bb560d2ea1dc6fe9d386199fbe17471e1be89edd1435a68e50e018e91bc1
+    mime: image/jpeg
+    bytes: 16642415
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/a6/63/a663bb560d2ea1dc6fe9d386199fbe17471e1be89edd1435a68e50e018e91bc1/preview-400.c73bae6c24ad.jpg
+        sha256: c73bae6c24ad16c6e1172ed21a8c6fdc31cad412868eaac9980dad04318a2564
+        mime: image/jpeg
+        bytes: 78410
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

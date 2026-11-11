@@ -1,0 +1,40 @@
+id: 01G9Y86870KFG1EHPMZW3P0A89
+type: image
+subtype: photo
+title: Dorfladen in Gorleben
+date: 2001-06-06
+location: Wustrow, Gartenstraße
+geocode:
+  lat: 53.0074
+  lon: 11.4839
+  precision: town
+  source: osm
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Bahnhof
+    type: building
+  - name: Pumpenhaus
+    type: building
+parents:
+  - 01H683J429KTWPMPPF52JN3Q9J
+files:
+  - role: main
+    original_name: foto_1893.jpg
+    path: files/2b/25/2b25325663327938ca8cc04146f65a5a1491adde590c21e8bafe016d3e279e92/original.jpg
+    sha256: 2b25325663327938ca8cc04146f65a5a1491adde590c21e8bafe016d3e279e92
+    mime: image/jpeg
+    bytes: 26047131
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/2b/25/2b25325663327938ca8cc04146f65a5a1491adde590c21e8bafe016d3e279e92/preview-400.e7494d70e531.jpg
+        sha256: e7494d70e5312d2c74867c30bd5618c8c8f1e8c544a9d09cd1b9e7dc0bf52954
+        mime: image/jpeg
+        bytes: 24002
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

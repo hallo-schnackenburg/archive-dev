@@ -1,0 +1,36 @@
+id: 01F2NNDFYY63E4K4H2DRK4ZCMP
+type: image
+subtype: photo
+title: Elbdeich in Wootz
+description: Farbfoto, leicht verblasst.
+date: 1933-08-18
+location: Wootz, Elbstraße
+origin:
+  name: Friedrich Bohlmann
+  type: person
+  location: Dömitz
+subjects:
+  - name: Storchennest
+    type: building
+parents:
+  - 01KW7A26BTPJQVF2JX2JPDHVMK
+files:
+  - role: main
+    original_name: IMG_7640.jpg
+    path: files/5f/cb/5fcb6bff99ddcad73ad6b9448207f5d0d5d05c60044f1edd12b1e9fcdacd1518/original.jpg
+    sha256: 5fcb6bff99ddcad73ad6b9448207f5d0d5d05c60044f1edd12b1e9fcdacd1518
+    mime: image/jpeg
+    bytes: 1508815
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/5f/cb/5fcb6bff99ddcad73ad6b9448207f5d0d5d05c60044f1edd12b1e9fcdacd1518/preview-400.3d5366cc2e40.jpg
+        sha256: 3d5366cc2e400e6745788f2fe3f905a9712d8b63bebbb7bbe4928063552a32c5
+        mime: image/jpeg
+        bytes: 46091
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

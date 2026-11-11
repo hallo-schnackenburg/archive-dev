@@ -1,0 +1,43 @@
+id: 01KGYTTCS95831MVBM3B05RN9R
+type: image
+subtype: drawing
+title: Skizze Hitzacker, Kirchstraße
+date: 1833?
+origin:
+  name: Fritz Nitschke
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Deicharbeiten 1833
+    type: event
+  - name: Beerdigung 1833
+    type: event
+  - name: Wootz
+    type: place
+parents:
+  - 01HG6JP5WA4TG6RE22EWVXDYF0
+files:
+  - role: main
+    original_name: scan_791.tif
+    path: files/68/30/6830cdf154f60539141f5b4fd966a6285a9edf7f00fe742339407286d323ee9e/original.tif
+    sha256: 6830cdf154f60539141f5b4fd966a6285a9edf7f00fe742339407286d323ee9e
+    mime: image/tiff
+    bytes: 7699986
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/68/30/6830cdf154f60539141f5b4fd966a6285a9edf7f00fe742339407286d323ee9e/preview-400.d52be40ae5ed.jpg
+        sha256: d52be40ae5edc9b65807025d5eb6e82208d5f88de51fe86b534d6442c2d7f216
+        mime: image/jpeg
+        bytes: 85356
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

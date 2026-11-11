@@ -1,0 +1,43 @@
+id: 01HQ5FKA66Z9FGJ35DVCNF87AA
+type: image
+subtype: photo
+title: Feuerwehrübung 1993
+date: 1993-01
+origin:
+  name: Gerda Voss
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Familie Voss
+    type: person
+    location: Lanz
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Paul Krüger
+    type: person
+  - name: Fährjubiläum 1993
+    type: event
+parents:
+  - 01F0BRQ2JGN7DY37JCS6H3RZJF
+files:
+  - role: main
+    original_name: P9154.jpg
+    path: files/6b/41/6b41cd97b9ca4b5fcbb1d93ad010b7c09e87170975432c62e0c1dec59a80127b/original.jpg
+    sha256: 6b41cd97b9ca4b5fcbb1d93ad010b7c09e87170975432c62e0c1dec59a80127b
+    mime: image/jpeg
+    bytes: 7884398
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/6b/41/6b41cd97b9ca4b5fcbb1d93ad010b7c09e87170975432c62e0c1dec59a80127b/preview-400.a9ebaa7453f2.jpg
+        sha256: a9ebaa7453f277258540b75e58bffc6aeb3c88d83654bd16e4a212714182cc97
+        mime: image/jpeg
+        bytes: 56005
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

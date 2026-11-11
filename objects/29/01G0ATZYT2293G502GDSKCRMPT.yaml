@@ -1,0 +1,43 @@
+id: 01G0ATZYT2293G502GDSKCRMPT
+type: image
+subtype: photo
+title: Deicharbeiten 1892
+description: Zu sehen sind Wassermühle und Rathaus.
+date: 1892?
+location: Kapern, Schützenhaus
+geocode:
+  lat: 53.0257
+  lon: 11.5178
+  precision: exact
+  source: osm
+origin:
+  name: Fritz Meyer
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 15/073
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v77838
+files:
+  - role: main
+    original_name: DSC0267.jpg
+    path: files/5b/06/5b0632bda1a7f0a1a3cc247c1394cc523a9e296ad854f3a64bad6ef019a20d6b/original.jpg
+    sha256: 5b0632bda1a7f0a1a3cc247c1394cc523a9e296ad854f3a64bad6ef019a20d6b
+    mime: image/jpeg
+    bytes: 2402023
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/5b/06/5b0632bda1a7f0a1a3cc247c1394cc523a9e296ad854f3a64bad6ef019a20d6b/preview-400.b5aaa9bae7dc.jpg
+        sha256: b5aaa9bae7dc5e2778535c64c29054bf82039cf9c75dc2033583b6894850b8d3
+        mime: image/jpeg
+        bytes: 38370
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

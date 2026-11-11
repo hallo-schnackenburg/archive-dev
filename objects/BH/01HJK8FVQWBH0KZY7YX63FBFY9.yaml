@@ -1,0 +1,38 @@
+id: 01HJK8FVQWBH0KZY7YX63FBFY9
+type: image
+subtype: plan
+title: Bauplan Rathaus 1851
+description: Maßstab 1:2500.
+date: "1851"
+location: Arendsee, Dorfteich
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 13/098
+subjects:
+  - name: Sturmschaden 1851
+    type: event
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: scan_791.tif
+    path: files/02/3d/023d6f550e8eb8dd1df610af450a1ebeef876ea23745500a0edef0378a6e63ba/original.tif
+    sha256: 023d6f550e8eb8dd1df610af450a1ebeef876ea23745500a0edef0378a6e63ba
+    mime: image/tiff
+    bytes: 22066805
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/3d/023d6f550e8eb8dd1df610af450a1ebeef876ea23745500a0edef0378a6e63ba/preview-400.424dc1a9ecac.jpg
+        sha256: 424dc1a9ecacd5c9d0f3aa1ae11cebf92e6eb9cfe38b56fd0ba11bd1fa51a535
+        mime: image/jpeg
+        bytes: 66162
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

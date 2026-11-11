@@ -1,0 +1,62 @@
+id: 01KTNW8GQA6RPKFJ7R0F3FWD0K
+type: document
+subtype: letter
+title: Zeugnis für Paul Wöhlk
+date: "1810"
+location: Schnackenburg, Torhaus
+recipient: Wilhelm Plate
+language: de
+owner:
+  name: Otto Pape
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Holtorf
+    type: place
+  - name: Ladestraße
+    type: building
+parents:
+  - 01F65BXKMKS9E7T6J3V39RWQAH
+files:
+  - role: page
+    num: 1
+    original_name: letter_3fwd0k_001.tif
+    path: files/52/03/52037a7085ca31a192f7e9458108a70442e89396abd0b92a0a520fed357420d3/original.tif
+    sha256: 52037a7085ca31a192f7e9458108a70442e89396abd0b92a0a520fed357420d3
+    mime: image/tiff
+    bytes: 23743808
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/03/52037a7085ca31a192f7e9458108a70442e89396abd0b92a0a520fed357420d3/preview-400.42ddd1a9ae73.jpg
+        sha256: 42ddd1a9ae737f46f0eebc9f40b80ce2f50e51e3ed63ce68fd57c0d302577f1e
+        mime: image/jpeg
+        bytes: 71299
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_3fwd0k_002.tif
+    path: files/c8/65/c865990e6e02229adb6d65f14e830562c47ef12f5022ba4178dae54275eb6f0b/original.tif
+    sha256: c865990e6e02229adb6d65f14e830562c47ef12f5022ba4178dae54275eb6f0b
+    mime: image/tiff
+    bytes: 12158250
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/65/c865990e6e02229adb6d65f14e830562c47ef12f5022ba4178dae54275eb6f0b/preview-400.dd599ac1e89f.jpg
+        sha256: dd599ac1e89f4c8cc0fd0847f7d9bd3328b7e41464c35d976171b160e3a74e43
+        mime: image/jpeg
+        bytes: 30669
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

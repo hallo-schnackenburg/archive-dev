@@ -1,0 +1,40 @@
+id: 01FNPSZMEDACB3TEKMPRZAJWZD
+type: image
+subtype: drawing
+title: Federzeichnung Tanzsaal
+description: Bleistift auf Papier.
+date: 1837-03
+location: Wittenberge, Bahnhof
+geocode:
+  lat: 52.9394
+  lon: 11.621
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro 26/010
+parents:
+  - 01J8ED3E4SGG31ZRC1FEQ26FTD
+files:
+  - role: main
+    original_name: scan_500.tif
+    path: files/02/53/0253adac0aa3ae27d7d59f3f0f56eb3c8f636e8dd1fc111c94879316eff943c7/original.tif
+    sha256: 0253adac0aa3ae27d7d59f3f0f56eb3c8f636e8dd1fc111c94879316eff943c7
+    mime: image/tiff
+    bytes: 10344615
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/53/0253adac0aa3ae27d7d59f3f0f56eb3c8f636e8dd1fc111c94879316eff943c7/preview-400.e845f17e4f07.jpg
+        sha256: e845f17e4f07fe0fdb14f912e55349a6e4b9e16ea39a4a654f8acda8a49db473
+        mime: image/jpeg
+        bytes: 72626
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

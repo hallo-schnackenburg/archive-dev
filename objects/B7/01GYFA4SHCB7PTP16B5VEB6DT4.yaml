@@ -1,0 +1,44 @@
+id: 01GYFA4SHCB7PTP16B5VEB6DT4
+type: image
+subtype: photo
+title: Lotte Wegner vor dem Molkerei
+date: 1940-08-27
+location: Gollensdorf, Heuberge
+geocode:
+  lat: 52.9925
+  lon: 11.4923
+  precision: street
+  source: osm
+origin:
+  name: Friedrich Brandt
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Familie Kuhlmann
+    type: person
+    location: Zadrau
+  reference: Slg/Kasten 20/072
+subjects:
+  - name: Hochwasser 1940
+    type: event
+files:
+  - role: main
+    original_name: IMG_5905.jpg
+    path: files/cb/b3/cbb3428f18e246d0adf39800631e881fcefcf3c21da50e1885f9d901e0d92fe4/original.jpg
+    sha256: cbb3428f18e246d0adf39800631e881fcefcf3c21da50e1885f9d901e0d92fe4
+    mime: image/jpeg
+    bytes: 25384619
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/cb/b3/cbb3428f18e246d0adf39800631e881fcefcf3c21da50e1885f9d901e0d92fe4/preview-400.953540509efe.jpg
+        sha256: 953540509efec47b1ff1a2dfaec4af51702af573e9092d76161394a730001ce0
+        mime: image/jpeg
+        bytes: 85576
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

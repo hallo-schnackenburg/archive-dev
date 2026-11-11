@@ -1,0 +1,41 @@
+id: 01HF3JV572Z4V83KY3MH3CMWCT
+type: image
+subtype: photo
+title: Fastnacht 1892
+description: Farbfoto, leicht verblasst.
+date: 1892-03-28
+location: Cumlosen, Schützenhaus
+origin:
+  name: Manfred Lemke
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Speicher
+    type: building
+parents:
+  - 01G9E0HEW5JYMGZH6NFA75XCR4
+files:
+  - role: main
+    original_name: foto_2043.jpg
+    path: files/fd/3e/fd3ee27b9a036fd861565fec0d43bf6300323607de2d9f3f649299d1172e551d/original.jpg
+    sha256: fd3ee27b9a036fd861565fec0d43bf6300323607de2d9f3f649299d1172e551d
+    mime: image/jpeg
+    bytes: 5812367
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fd/3e/fd3ee27b9a036fd861565fec0d43bf6300323607de2d9f3f649299d1172e551d/preview-400.a18ae98a6099.jpg
+        sha256: a18ae98a6099447477e20e67e0dd09319a7485df78d8c8ec1f29bd84c649a938
+        mime: image/jpeg
+        bytes: 74005
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

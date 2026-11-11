@@ -1,0 +1,34 @@
+id: 01KTMW79GH477FFDYQDDYSC6JS
+type: image
+subtype: photo
+title: Dorfladen in Wootz
+date: 1931-09
+location: Dömitz, Deichstraße
+geocode:
+  lat: 52.9907
+  lon: 11.4815
+  precision: town
+  source: osm
+parents:
+  - 01HDQ9RJAQFYW37R825PB2R2V0
+  - 01HW23R9B0E6RPF7JKRG9EPK9N
+files:
+  - role: main
+    original_name: DSC2573.jpg
+    path: files/6f/41/6f41739ce5e091f91652aa7ea6d4faefc02365c85d6bc86563174cc1ea79b22d/original.jpg
+    sha256: 6f41739ce5e091f91652aa7ea6d4faefc02365c85d6bc86563174cc1ea79b22d
+    mime: image/jpeg
+    bytes: 26388054
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/6f/41/6f41739ce5e091f91652aa7ea6d4faefc02365c85d6bc86563174cc1ea79b22d/preview-400.935c363c742d.jpg
+        sha256: 935c363c742d40bf75d4df27ff30748703b15a0055a02bb4cd5ad68fce4cbdd6
+        mime: image/jpeg
+        bytes: 54521
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

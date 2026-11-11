@@ -1,0 +1,36 @@
+id: 01JA0F2S35KMNNZ9SA6FZXB239
+type: image
+subtype: plan
+title: Bauplan Gasthof Meyer 1894
+date: "1894"
+location: Restorf, Kirchstraße
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br 5/377
+  note: Regal 1
+parents:
+  - 01JSF9V4MEBDGEQJGPBJV20THW
+  - 01HETPQRM52KXM7ZS582C2ECF3
+files:
+  - role: main
+    original_name: scan_231.tif
+    path: files/a7/fb/a7fbddd224d5395cb3de281d19be668d0c78e2114777ef44c831dbb4b5ac0dda/original.tif
+    sha256: a7fbddd224d5395cb3de281d19be668d0c78e2114777ef44c831dbb4b5ac0dda
+    mime: image/tiff
+    bytes: 15736229
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a7/fb/a7fbddd224d5395cb3de281d19be668d0c78e2114777ef44c831dbb4b5ac0dda/preview-400.4ab9b780c0a9.jpg
+        sha256: 4ab9b780c0a95588984d21d92f2ce19ed0a501fa536d6597785892e6da892dd2
+        mime: image/jpeg
+        bytes: 24267
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

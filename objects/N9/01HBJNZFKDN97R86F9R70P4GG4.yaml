@@ -1,0 +1,40 @@
+id: 01HBJNZFKDN97R86F9R70P4GG4
+type: image
+subtype: photo
+title: Käthe Fricke vor dem Apotheke
+description: Aufnahme von Friedrich Meyer.
+date: 1999-01
+location: Schnackenburg, Bäckerei Lüders
+owner:
+  name: Ilse Voss
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Erika Lemke
+    type: person
+  - name: Havelberg
+    type: place
+  - name: Schmiede
+    type: building
+parents:
+  - 01J36EBSGAM0EQS4K8346DJX88
+files:
+  - role: main
+    original_name: scan_908.tif
+    path: files/6f/70/6f70a02ed9b6987a5c97da711e90acfa384b38ac1ed8ce186a774c0afdbf5530/original.tif
+    sha256: 6f70a02ed9b6987a5c97da711e90acfa384b38ac1ed8ce186a774c0afdbf5530
+    mime: image/tiff
+    bytes: 24759036
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/6f/70/6f70a02ed9b6987a5c97da711e90acfa384b38ac1ed8ce186a774c0afdbf5530/preview-400.6493e5db9f3d.jpg
+        sha256: 6493e5db9f3db8f12855cf97b28ac580e901947d78d9f0fd67f1cf7f35fb10f2
+        mime: image/jpeg
+        bytes: 87730
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

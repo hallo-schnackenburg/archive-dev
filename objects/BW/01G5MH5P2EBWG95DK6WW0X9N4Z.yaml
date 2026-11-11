@@ -1,0 +1,43 @@
+id: 01G5MH5P2EBWG95DK6WW0X9N4Z
+type: image
+subtype: drawing
+title: Skizze Nienwalde, Hafenstraße
+description: Bleistift auf Papier.
+date: 1852-08-06
+origin:
+  name: Wilhelm Ludolf
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 39/352
+subjects:
+  - name: Laase
+    type: place
+  - name: Wilhelm Gaede
+    type: person
+parents:
+  - 01KNHD7DYF112CXGR0WVK2W8DQ
+files:
+  - role: main
+    original_name: scan_997.tif
+    path: files/5b/ec/5bec41b40f68b258f64f6516616119019d8e23571629bf1b4f97b3906bdac875/original.tif
+    sha256: 5bec41b40f68b258f64f6516616119019d8e23571629bf1b4f97b3906bdac875
+    mime: image/tiff
+    bytes: 17187539
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5b/ec/5bec41b40f68b258f64f6516616119019d8e23571629bf1b4f97b3906bdac875/preview-400.494b8301eab0.jpg
+        sha256: 494b8301eab00ffb4bc88eefb666e6ec8d64de01353e08fa7aca120ccb921448
+        mime: image/jpeg
+        bytes: 85871
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

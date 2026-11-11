@@ -1,0 +1,40 @@
+id: 01KZMGP3T7GHMBK8E6Y1Q10VTR
+type: image
+subtype: print
+title: "Kupferstich: Kapern von der Elbseite, Rüterberg"
+date: 1898?
+origin:
+  name: Erika Voss
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 29/018
+subjects:
+  - name: Fährjubiläum 1898
+    type: event
+  - name: Hitzacker
+    type: place
+files:
+  - role: main
+    original_name: scan_971.tif
+    path: files/b0/70/b07089141176703a28ddd5c5eead9c3a5063937df232b39927c7fc774f86db46/original.tif
+    sha256: b07089141176703a28ddd5c5eead9c3a5063937df232b39927c7fc774f86db46
+    mime: image/tiff
+    bytes: 27461186
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b0/70/b07089141176703a28ddd5c5eead9c3a5063937df232b39927c7fc774f86db46/preview-400.3e80fe5b1c26.jpg
+        sha256: 3e80fe5b1c26e477f1a61daf71eb759348efc0b72246ae6ba7be7f38851fbec7
+        mime: image/jpeg
+        bytes: 39502
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

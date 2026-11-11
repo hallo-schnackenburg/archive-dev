@@ -1,0 +1,44 @@
+id: 01HYX3ZQ42CDCC8Z42VVZDGM67
+type: document
+subtype: letter
+title: Korrespondenz Hans Rieke
+description: Mit Umschlag und Briefmarke.
+date: 1913~
+location: Gülden, Fährstraße
+geocode:
+  lat: 53.0455
+  lon: 11.5651
+  precision: region
+  source: osm
+recipient: Friedrich Lemke
+language: de
+owner:
+  name: Otto Harms
+  type: person
+  note: Nachlass
+subjects:
+  - name: Einweihung 1913
+    type: event
+parents:
+  - 01KP71Y1ZJN9JAVT84GFKBTVMW
+files:
+  - role: page
+    num: 1
+    original_name: letter_zdgm67_001.tif
+    path: files/fd/0b/fd0b4475441df2219a6ab851f4a3b32d37b29fe08a878ed943ecf7c3a2d0a4c3/original.tif
+    sha256: fd0b4475441df2219a6ab851f4a3b32d37b29fe08a878ed943ecf7c3a2d0a4c3
+    mime: image/tiff
+    bytes: 22270613
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fd/0b/fd0b4475441df2219a6ab851f4a3b32d37b29fe08a878ed943ecf7c3a2d0a4c3/preview-400.7e90d88f9c11.jpg
+        sha256: 7e90d88f9c115e6cff78dfc5593b5df4e50f89298806999651de274652838a3e
+        mime: image/jpeg
+        bytes: 71240
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

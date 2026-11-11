@@ -1,0 +1,41 @@
+id: 01GV1TB6NEVYGNF6Y28QM11SGK
+type: document
+subtype: letter
+title: Gesuch um Hundesteuer
+description: Betrifft Schulspeisung.
+date: 1797-12
+location: Havelberg, Badestelle
+origin:
+  name: Dieter Sievers
+  type: person
+  location: Pretzier
+recipient: Wilhelm Plate
+language: de
+subjects:
+  - name: Emma Lüders
+    type: person
+  - name: Brunnen am Markt
+    type: building
+parents:
+  - 01HYFCM6DN6A2J5RK4P4H4GN9C
+files:
+  - role: page
+    num: 1
+    original_name: letter_m11sgk_001.tif
+    path: files/b1/84/b1845764f77f955649d7c576737d5bb937c2d32f6d732b0b3d1e8e0a106ecf87/original.tif
+    sha256: b1845764f77f955649d7c576737d5bb937c2d32f6d732b0b3d1e8e0a106ecf87
+    mime: image/tiff
+    bytes: 14039787
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b1/84/b1845764f77f955649d7c576737d5bb937c2d32f6d732b0b3d1e8e0a106ecf87/preview-400.c02c87aec48b.jpg
+        sha256: c02c87aec48b218827c76cad434793958d3ad83abe70b95fc96e1f0debf36154
+        mime: image/jpeg
+        bytes: 81883
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

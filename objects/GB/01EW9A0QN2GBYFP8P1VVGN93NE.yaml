@@ -1,0 +1,45 @@
+id: 01EW9A0QN2GBYFP8P1VVGN93NE
+type: image
+subtype: photo
+title: Viehmarkt 1937
+description: Abzug im Format 9 x 13 cm.
+location: Nienwalde, Dorfstraße
+geocode:
+  lat: 53.0036
+  lon: 11.5626
+  precision: street
+  source: osm
+origin:
+  name: Erika Behrens
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Ortsbesichtigung 1937
+    type: event
+  - name: Tanzsaal
+    type: building
+files:
+  - role: main
+    original_name: scan_064.tif
+    path: files/01/af/01af27096a7b7e715cc8c463ceb5e47c8ef5fc4ccc4ab90107dd4d714f392198/original.tif
+    sha256: 01af27096a7b7e715cc8c463ceb5e47c8ef5fc4ccc4ab90107dd4d714f392198
+    mime: image/tiff
+    bytes: 17694657
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/01/af/01af27096a7b7e715cc8c463ceb5e47c8ef5fc4ccc4ab90107dd4d714f392198/preview-400.dc1e6ca897e1.jpg
+        sha256: dc1e6ca897e1df26aa94a4f6f1452559fe866ecd842a74c6498b0b0881bf0376
+        mime: image/jpeg
+        bytes: 39235
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

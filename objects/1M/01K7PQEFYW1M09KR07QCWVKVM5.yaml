@@ -1,0 +1,39 @@
+id: 01K7PQEFYW1M09KR07QCWVKVM5
+type: image
+subtype: drawing
+title: Skizze Hitzacker, Dorfstraße
+date: 1937-11
+location: Schnackenburg, Bahnhofstraße
+origin:
+  name: Otto Voss
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Karl Plate
+    type: person
+  - name: Zollamt
+    type: building
+parents:
+  - 01GZR4MDFA5EQY40GSVWP94FQ3
+files:
+  - role: main
+    original_name: scan_470.tif
+    path: files/31/f0/31f09d6261eab372bf117de7c462ba14ad4131c231e126dd52655fa2457034e4/original.tif
+    sha256: 31f09d6261eab372bf117de7c462ba14ad4131c231e126dd52655fa2457034e4
+    mime: image/tiff
+    bytes: 19234570
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/31/f0/31f09d6261eab372bf117de7c462ba14ad4131c231e126dd52655fa2457034e4/preview-400.11b0fc9f47b4.jpg
+        sha256: 11b0fc9f47b493923c12c43349bdc9ddb27f3649ba7ebf7532ae0981e5e165e2
+        mime: image/jpeg
+        bytes: 50555
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,33 @@
+id: 01KXBDPP0ARR4Z5X2SCGC451T5
+type: image
+subtype: drawing
+title: Skizze Kapern, Mühlenweg
+date: 1979?
+location: Restorf, Gartenstraße
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Gorleben
+parents:
+  - 01HQWPK8KVNS193A9510K7C6AQ
+  - 01KP71Y1ZJN9JAVT84GFKBTVMW
+files:
+  - role: main
+    original_name: scan_707.tif
+    path: files/bc/66/bc66506ca4a9b3f467463af1fcfe304a07232ce7f9b7f47c4a2281a8eeceb117/original.tif
+    sha256: bc66506ca4a9b3f467463af1fcfe304a07232ce7f9b7f47c4a2281a8eeceb117
+    mime: image/tiff
+    bytes: 4441304
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bc/66/bc66506ca4a9b3f467463af1fcfe304a07232ce7f9b7f47c4a2281a8eeceb117/preview-400.58951129650c.jpg
+        sha256: 58951129650ca70f67b1db96ff2cf3c67415183966a8a77eaa0be2100e417e1a
+        mime: image/jpeg
+        bytes: 88462
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

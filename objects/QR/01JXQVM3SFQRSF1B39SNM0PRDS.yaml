@@ -1,0 +1,62 @@
+id: 01JXQVM3SFQRSF1B39SNM0PRDS
+type: document
+subtype: letter
+title: Korrespondenz Otto Jeß
+description: Betrifft Pachtvertrag.
+date: 1918/1926
+origin:
+  name: Karl Wegner
+  type: person
+  location: Wittenberge
+recipient: Otto Meyer
+language: de
+subjects:
+  - name: Karl Voss
+    type: person
+  - name: Lanz
+    type: place
+  - name: Wittenberge
+    type: place
+parents:
+  - 01FPG45DMCQ4FJ212ZPBZF1YR1
+files:
+  - role: page
+    num: 1
+    original_name: letter_m0prds_001.tif
+    path: files/45/be/45be6f0df088c629f9a5cfb60a44635915644f26f3daa215aa7ec4e76ac8a643/original.tif
+    sha256: 45be6f0df088c629f9a5cfb60a44635915644f26f3daa215aa7ec4e76ac8a643
+    mime: image/tiff
+    bytes: 5267555
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/45/be/45be6f0df088c629f9a5cfb60a44635915644f26f3daa215aa7ec4e76ac8a643/preview-400.37d651ed7b91.jpg
+        sha256: 37d651ed7b9188a3ebf8db9d8cf6a3dd08f17fc9826fd98092eb79ea7391a30d
+        mime: image/jpeg
+        bytes: 45474
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_m0prds_002.tif
+    path: files/65/ea/65eac0363cfdaa3de123f9152415aad4c5d4f8a01b3928378074822fa7593317/original.tif
+    sha256: 65eac0363cfdaa3de123f9152415aad4c5d4f8a01b3928378074822fa7593317
+    mime: image/tiff
+    bytes: 25658636
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/65/ea/65eac0363cfdaa3de123f9152415aad4c5d4f8a01b3928378074822fa7593317/preview-400.6a28c99df5f2.jpg
+        sha256: 6a28c99df5f256203e2eed14b424501391fceebe600968715c8d1977465c167e
+        mime: image/jpeg
+        bytes: 84955
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01J5R611D1BCFS3BTESSJJSVT8
+type: image
+subtype: drawing
+title: Wappenentwurf Gülden, Kapern
+date: "1830"
+origin:
+  name: Ilse Jeß
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Gutshaus
+    type: building
+  - name: Lanz
+    type: place
+  - name: Walter Plate
+    type: person
+parents:
+  - 01K4FGD1ECY3HP77BZASK6DQRW
+files:
+  - role: main
+    original_name: scan_641.tif
+    path: files/ef/2b/ef2b36b67a5935ab57fa922ed01c129745a67de35763d23adf1abe389831ab9d/original.tif
+    sha256: ef2b36b67a5935ab57fa922ed01c129745a67de35763d23adf1abe389831ab9d
+    mime: image/tiff
+    bytes: 16614956
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ef/2b/ef2b36b67a5935ab57fa922ed01c129745a67de35763d23adf1abe389831ab9d/preview-400.d86bc5438969.jpg
+        sha256: d86bc5438969b7518b33c620540b61ff521e5220d413d7bee82ab21811623edc
+        mime: image/jpeg
+        bytes: 74626
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

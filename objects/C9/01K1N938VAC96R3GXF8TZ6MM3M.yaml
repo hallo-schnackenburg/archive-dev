@@ -1,0 +1,58 @@
+id: 01K1N938VAC96R3GXF8TZ6MM3M
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Kirchenglocken 1965
+description: "Beschlossen wurde unter anderem: Fährgeld."
+date: "1965"
+location: Dömitz, Schulstraße
+language: de
+subjects:
+  - name: Erntedankfest 1965
+    type: event
+  - name: Restorf
+    type: place
+  - name: Kindergartenfest 1965
+    type: event
+parents:
+  - 01HDS44JS4B8GN7QC5M5DZA42B
+files:
+  - role: page
+    num: 1
+    original_name: protocol_z6mm3m_001.tif
+    path: files/ba/f9/baf9e87dbe2582dbd76fbbf15ca14ae5d45aafa95b89d8d834fc53bbd2492bc6/original.tif
+    sha256: baf9e87dbe2582dbd76fbbf15ca14ae5d45aafa95b89d8d834fc53bbd2492bc6
+    mime: image/tiff
+    bytes: 16030932
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ba/f9/baf9e87dbe2582dbd76fbbf15ca14ae5d45aafa95b89d8d834fc53bbd2492bc6/preview-400.c9d562555096.jpg
+        sha256: c9d5625550964ad7e025e3c82534cb779d0a397a2fb8053dc7c429ed84ab98a1
+        mime: image/jpeg
+        bytes: 25600
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_z6mm3m_002.tif
+    path: files/40/a1/40a1bff5ac71fd0e9626e2f1d20dde4e3f13b84a651959a8ed68de9fa0034e7f/original.tif
+    sha256: 40a1bff5ac71fd0e9626e2f1d20dde4e3f13b84a651959a8ed68de9fa0034e7f
+    mime: image/tiff
+    bytes: 16168231
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/a1/40a1bff5ac71fd0e9626e2f1d20dde4e3f13b84a651959a8ed68de9fa0034e7f/preview-400.46d31d9cdf7d.jpg
+        sha256: 46d31d9cdf7d5cd05374dd8bbb31234fc838401f79e704f355ea5fce6c0b2d6a
+        mime: image/jpeg
+        bytes: 58142
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

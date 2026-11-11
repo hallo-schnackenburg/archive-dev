@@ -1,0 +1,47 @@
+id: 01HS0W79HYGTNYZ6JADZPY2SCN
+type: image
+subtype: drawing
+title: Skizze Lenzen, Schulstraße
+description: Federzeichnung, laviert.
+date: 1891-06-20
+location: Gorleben, Bahnhofstraße
+origin:
+  name: Hans Schulz
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 28/243
+  note: Dachboden, Truhe
+subjects:
+  - name: Straßenfest 1891
+    type: event
+  - name: Kirche St. Johannis
+    type: building
+  - name: Heinrich Ahrens
+    type: person
+parents:
+  - 01G0X29EZ2FVG07FG6GWV5MNSG
+files:
+  - role: main
+    original_name: scan_105.tif
+    path: files/b5/3a/b53a66e44072bd7a3b02610bd39e02d5442ac4275a64228fc34abb7dbbcb2120/original.tif
+    sha256: b53a66e44072bd7a3b02610bd39e02d5442ac4275a64228fc34abb7dbbcb2120
+    mime: image/tiff
+    bytes: 13817483
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b5/3a/b53a66e44072bd7a3b02610bd39e02d5442ac4275a64228fc34abb7dbbcb2120/preview-400.32373de81ef5.jpg
+        sha256: 32373de81ef57611674858da14dd78c9eac77e931f8aaaaf3780bf344c6f3f18
+        mime: image/jpeg
+        bytes: 47666
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

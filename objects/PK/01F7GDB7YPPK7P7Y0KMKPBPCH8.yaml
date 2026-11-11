@@ -1,0 +1,36 @@
+id: 01F7GDB7YPPK7P7Y0KMKPBPCH8
+type: image
+subtype: photo
+title: Wilhelm Lüders, Porträt
+location: Gartow, Schulstraße
+origin:
+  name: Helga Pape
+  type: person
+  location: Holtorf
+subjects:
+  - name: Marta Plate
+    type: person
+  - name: Einschulung 1935
+    type: event
+  - name: Sportplatz
+    type: building
+files:
+  - role: main
+    original_name: DSC5960.jpg
+    path: files/5d/28/5d285557d7955512d190e6c9feb460992fe8678f66dd61db79830027f1dd3c94/original.jpg
+    sha256: 5d285557d7955512d190e6c9feb460992fe8678f66dd61db79830027f1dd3c94
+    mime: image/jpeg
+    bytes: 1603146
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/5d/28/5d285557d7955512d190e6c9feb460992fe8678f66dd61db79830027f1dd3c94/preview-400.f254abf92d3b.jpg
+        sha256: f254abf92d3bce51d6e567eaad932da016ca603f13befba9a03935ed57b8b470
+        mime: image/jpeg
+        bytes: 77071
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

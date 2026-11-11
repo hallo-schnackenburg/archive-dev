@@ -1,0 +1,43 @@
+id: 01H2Z0V9TMKQZ8YT65XG815N7A
+type: image
+subtype: drawing
+title: Kindergarten, Aquarell, Wootz
+description: Mit Anmerkungen am Rand.
+date: 1836-06-11
+origin:
+  name: Rudolf Heuer
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 1
+subjects:
+  - name: Karl Lüders
+    type: person
+  - name: Kapern
+    type: place
+parents:
+  - 01G8B1RBKCP0JCJ0TQ3WYMBBPZ
+files:
+  - role: main
+    original_name: scan_416.tif
+    path: files/44/e9/44e9240379fbcd7e27aad935f211bc34b8cece865013c4eb380fbb7f215e199d/original.tif
+    sha256: 44e9240379fbcd7e27aad935f211bc34b8cece865013c4eb380fbb7f215e199d
+    mime: image/tiff
+    bytes: 27996519
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/44/e9/44e9240379fbcd7e27aad935f211bc34b8cece865013c4eb380fbb7f215e199d/preview-400.f0008596425a.jpg
+        sha256: f0008596425a02b09a68b66a4d2d71da86b84c54a39a8352fe25f3845d1daf68
+        mime: image/jpeg
+        bytes: 22740
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

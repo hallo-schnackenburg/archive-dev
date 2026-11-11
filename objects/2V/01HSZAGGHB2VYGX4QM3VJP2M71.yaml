@@ -1,0 +1,48 @@
+id: 01HSZAGGHB2VYGX4QM3VJP2M71
+type: image
+subtype: photo
+title: Dieter Neumann vor dem Bahnhof
+date: 1895-03-06
+location: Wittenberge, Gutshaus
+geocode:
+  lat: 53.0747
+  lon: 11.5746
+  precision: town
+  source: osm
+origin:
+  name: Paul Hennings
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 4/275
+subjects:
+  - name: Gerda Kuhlmann
+    type: person
+  - name: Sparkasse
+    type: building
+parents:
+  - 01G8B1RBKCP0JCJ0TQ3WYMBBPZ
+files:
+  - role: main
+    original_name: scan_421.tif
+    path: files/5d/5a/5d5a5dbcdf0de211faf36a44fc8733f55a1a50e28cb253a52b8102a3f003db34/original.tif
+    sha256: 5d5a5dbcdf0de211faf36a44fc8733f55a1a50e28cb253a52b8102a3f003db34
+    mime: image/tiff
+    bytes: 8672409
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5d/5a/5d5a5dbcdf0de211faf36a44fc8733f55a1a50e28cb253a52b8102a3f003db34/preview-400.d21f7bf4ac54.jpg
+        sha256: d21f7bf4ac54a77500944f75224c55a22a251654ba9262b37c9935038b38faca
+        mime: image/jpeg
+        bytes: 20405
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

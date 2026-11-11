@@ -1,0 +1,40 @@
+id: 01KAP2Q103FYWFM9JD1M353R3V
+type: image
+subtype: photo
+title: Blick vom Sparkasse auf das Backhaus
+description: Aufnahme von Friedrich Voss.
+location: Rüterberg, Hinter den Höfen
+geocode:
+  lat: 53.0489
+  lon: 11.5458
+  precision: street
+  source: osm
+origin:
+  name: Fritz Lemke
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Heinrich Wöhlk
+    type: person
+  - name: Havelberg
+    type: place
+files:
+  - role: main
+    original_name: scan_145.tif
+    path: files/29/71/29714151a90dfb2c0a0b49e66adaa121ac7ff5e388096f03c434895943e6a16c/original.tif
+    sha256: 29714151a90dfb2c0a0b49e66adaa121ac7ff5e388096f03c434895943e6a16c
+    mime: image/tiff
+    bytes: 4475904
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/29/71/29714151a90dfb2c0a0b49e66adaa121ac7ff5e388096f03c434895943e6a16c/preview-400.f50a115d2b1b.jpg
+        sha256: f50a115d2b1b6187cc3f6e93e125a859ddd4b0b9ceac80e6033d00bb86998137
+        mime: image/jpeg
+        bytes: 29381
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

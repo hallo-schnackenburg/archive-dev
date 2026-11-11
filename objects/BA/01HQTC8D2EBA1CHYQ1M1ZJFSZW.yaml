@@ -1,0 +1,38 @@
+id: 01HQTC8D2EBA1CHYQ1M1ZJFSZW
+type: image
+subtype: photo
+title: Scheune in Wootz
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1925?
+location: Kapern, Schulstraße
+geocode:
+  lat: 52.9168
+  lon: 11.6655
+  precision: town
+  source: osm
+origin:
+  name: Fritz Wiese
+  type: person
+  location: Wootz
+parents:
+  - 01HKFRFSECE3Q2H430VV51X3Q1
+files:
+  - role: main
+    original_name: DSC9688.jpg
+    path: files/58/d4/58d4879a88ecc62b316cfb186ef6eb3431e936fd5f79df434f011816dcc44e89/original.jpg
+    sha256: 58d4879a88ecc62b316cfb186ef6eb3431e936fd5f79df434f011816dcc44e89
+    mime: image/jpeg
+    bytes: 25794523
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/58/d4/58d4879a88ecc62b316cfb186ef6eb3431e936fd5f79df434f011816dcc44e89/preview-400.1a2d6093d433.jpg
+        sha256: 1a2d6093d433bd69024f2b751ad884cbb04e9d0f34775512f77c5fe29ca84c47
+        mime: image/jpeg
+        bytes: 60495
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

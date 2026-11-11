@@ -1,0 +1,40 @@
+id: 01G19FRDSBFQKPCXZSD7C6MA95
+type: image
+subtype: photo
+title: Am Elbdeich, Ecke Dorfstraße
+date: 2005-02-11
+location: Rüterberg, Mühlenweg
+origin:
+  name: August Garms
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Poststelle
+    type: building
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: P5421.jpg
+    path: files/20/79/2079916d089572838e85ea9a70b179870fa6f5e6343a33b7bed876db3c290dbe/original.jpg
+    sha256: 2079916d089572838e85ea9a70b179870fa6f5e6343a33b7bed876db3c290dbe
+    mime: image/jpeg
+    bytes: 21572085
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/20/79/2079916d089572838e85ea9a70b179870fa6f5e6343a33b7bed876db3c290dbe/preview-400.29b95fe96f0c.jpg
+        sha256: 29b95fe96f0c2bd3a1056a4fc7d914071af2486af3c5ab02813252f26356a286
+        mime: image/jpeg
+        bytes: 46852
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

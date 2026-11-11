@@ -1,0 +1,33 @@
+id: 01JMDG2ARZYEYAT7Q56JKSRYK7
+type: image
+subtype: print
+title: Ansichtskarte Schulstraße, Lüchow
+date: "1945"
+location: Nienwalde, Torhaus
+geocode:
+  lat: 53.0375
+  lon: 11.6062
+  precision: exact
+  source: osm
+parents:
+  - 01FE51YC393SEJ3F0E3BYAZ1NB
+files:
+  - role: main
+    original_name: scan_835.tif
+    path: files/33/6b/336b15cad600fe08ccd3c13685cf8eaaa33412eaddddf7a003c8b984ed34995b/original.tif
+    sha256: 336b15cad600fe08ccd3c13685cf8eaaa33412eaddddf7a003c8b984ed34995b
+    mime: image/tiff
+    bytes: 16250078
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/33/6b/336b15cad600fe08ccd3c13685cf8eaaa33412eaddddf7a003c8b984ed34995b/preview-400.7801c5efeff5.jpg
+        sha256: 7801c5efeff58405628eebba576503eab41a701c0dc0657d34cbd1919ecc887b
+        mime: image/jpeg
+        bytes: 78190
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

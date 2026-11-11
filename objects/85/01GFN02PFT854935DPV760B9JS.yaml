@@ -1,0 +1,40 @@
+id: 01GFN02PFT854935DPV760B9JS
+type: image
+subtype: drawing
+title: Feuerwehrhaus, Aquarell, Zadrau
+description: Bleistift auf Papier.
+date: 1894-01-15
+location: Cumlosen, Brunnen am Markt
+origin:
+  name: Karl Voss
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Bücherregal links
+parents:
+  - 01FZ6M8QKXGB7D7RCJXJBP9MVH
+  - 01FBYZQVFEERGK9E2W84G9TFJ3
+files:
+  - role: main
+    original_name: scan_720.tif
+    path: files/ab/21/ab21c0978af140799a67c495e7d93c8557fc206426969996d552060a7e79c344/original.tif
+    sha256: ab21c0978af140799a67c495e7d93c8557fc206426969996d552060a7e79c344
+    mime: image/tiff
+    bytes: 2667525
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ab/21/ab21c0978af140799a67c495e7d93c8557fc206426969996d552060a7e79c344/preview-400.f2e457828932.jpg
+        sha256: f2e457828932a15cebf95a8888395da264c35e869b29fe8bb5a676c861322e34
+        mime: image/jpeg
+        bytes: 60960
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

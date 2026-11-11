@@ -1,0 +1,31 @@
+id: 01KGXA707XCHVVK85TGW7CM6C1
+type: image
+subtype: plan
+title: Bauplan Gasthof „Zur Elbe“ 1936
+date: 1936?
+location: Dömitz, Windmühle
+subjects:
+  - name: Elbdeich
+    type: building
+parents:
+  - 01J0GVPF8CQ7XT4TS5V2ZE6DJJ
+files:
+  - role: main
+    original_name: scan_108.tif
+    path: files/22/9b/229b00116512ef8bd469be65ebccf6795e3b00d0f16caee0830e7af7409aacfd/original.tif
+    sha256: 229b00116512ef8bd469be65ebccf6795e3b00d0f16caee0830e7af7409aacfd
+    mime: image/tiff
+    bytes: 1000569
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/22/9b/229b00116512ef8bd469be65ebccf6795e3b00d0f16caee0830e7af7409aacfd/preview-400.2af8662541e7.jpg
+        sha256: 2af8662541e71462feaf57772d810b1ac2af407c37dc6d66d8745312acc550ec
+        mime: image/jpeg
+        bytes: 39578
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01GR7FJ6G1NG62HSPCAEB6RKFA
+type: image
+subtype: plan
+title: Bauplan Torhaus 1836
+description: Maßstab 1:500.
+date: "1836"
+location: Gülden, Storchennest
+geocode:
+  lat: 53.0299
+  lon: 11.6631
+  precision: street
+  source: osm
+origin:
+  name: Berta Behrens
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Karl Lindemann
+    type: person
+files:
+  - role: main
+    original_name: scan_407.tif
+    path: files/18/4e/184e8fb9e1f61366daa588e0d4b4fbe84809984ebb5981542a1eeaa9b9981a60/original.tif
+    sha256: 184e8fb9e1f61366daa588e0d4b4fbe84809984ebb5981542a1eeaa9b9981a60
+    mime: image/tiff
+    bytes: 23981727
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/18/4e/184e8fb9e1f61366daa588e0d4b4fbe84809984ebb5981542a1eeaa9b9981a60/preview-400.36737b73f82d.jpg
+        sha256: 36737b73f82d804046b65a77cfc6df146fba91fa8006e34d04d0f6b7b9a1f177
+        mime: image/jpeg
+        bytes: 57497
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

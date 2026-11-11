@@ -1,0 +1,37 @@
+id: 01JMEA64QCN3BBA0A5ZBY62W2J
+type: image
+subtype: plan
+title: Deichplan Seedorf bis Havelberg
+description: Tusche auf Transparentpapier.
+location: Seedorf, Hinter den Höfen
+origin:
+  name: Karl Behrens
+  type: person
+  location: Arendsee
+subjects:
+  - name: Storchennest
+    type: building
+  - name: Einweihung 1886
+    type: event
+  - name: Holtorf
+    type: place
+files:
+  - role: main
+    original_name: scan_689.tif
+    path: files/26/1b/261b7d1b7324999348f8de1ca7b6e45bf0f6464cc806b27bbb3167f1fd5b4526/original.tif
+    sha256: 261b7d1b7324999348f8de1ca7b6e45bf0f6464cc806b27bbb3167f1fd5b4526
+    mime: image/tiff
+    bytes: 14502324
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/26/1b/261b7d1b7324999348f8de1ca7b6e45bf0f6464cc806b27bbb3167f1fd5b4526/preview-400.7bbdd9622521.jpg
+        sha256: 7bbdd9622521eea33e2e527be474dbf2869b4beaa2b86913805b9daf38393bdc
+        mime: image/jpeg
+        bytes: 38424
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

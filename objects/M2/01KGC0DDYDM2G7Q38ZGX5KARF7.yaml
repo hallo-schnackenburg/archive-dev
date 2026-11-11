@@ -1,0 +1,41 @@
+id: 01KGC0DDYDM2G7Q38ZGX5KARF7
+type: image
+subtype: drawing
+title: Wappenentwurf Lüchow, Holtorf
+date: 1869-01-13
+location: Salzwedel, Am Markt
+geocode:
+  lat: 52.9864
+  lon: 11.5438
+  precision: region
+  source: osm
+subjects:
+  - name: Maifeier 1869
+    type: event
+  - name: Ziegelei
+    type: building
+  - name: Fastnacht 1869
+    type: event
+parents:
+  - 01EV0D4XTDHPDC62G2HMCAGK8D
+  - 01KZTC7HCNQEK4PPA9Y96PZJS7
+files:
+  - role: main
+    original_name: scan_927.tif
+    path: files/87/79/8779a45d745f92ec8a5c3217382438ef74307327578bb78a9f095eef96964c62/original.tif
+    sha256: 8779a45d745f92ec8a5c3217382438ef74307327578bb78a9f095eef96964c62
+    mime: image/tiff
+    bytes: 17114776
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/87/79/8779a45d745f92ec8a5c3217382438ef74307327578bb78a9f095eef96964c62/preview-400.90faee0c7e95.jpg
+        sha256: 90faee0c7e9567bf6992c3617219724b80aedcbd636277ec62b7aca737d3262f
+        mime: image/jpeg
+        bytes: 56989
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

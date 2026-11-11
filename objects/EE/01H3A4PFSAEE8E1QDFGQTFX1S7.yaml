@@ -1,0 +1,34 @@
+id: 01H3A4PFSAEE8E1QDFGQTFX1S7
+type: image
+subtype: photo
+title: Windmühle nach dem Sturmschaden
+description: Zu sehen sind Gemeindehaus und Kriegerdenkmal.
+origin:
+  name: Rudolf Behrens
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Windmühle
+    type: building
+parents:
+  - 01FZRWF3VCQTN5JHADZZNEJ53B
+files:
+  - role: main
+    original_name: P8224.jpg
+    path: files/01/d9/01d9e1f375f048af496f35103d91d526bcc08b5d8bc520902dd705a9d8f2c6cb/original.jpg
+    sha256: 01d9e1f375f048af496f35103d91d526bcc08b5d8bc520902dd705a9d8f2c6cb
+    mime: image/jpeg
+    bytes: 21400167
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/01/d9/01d9e1f375f048af496f35103d91d526bcc08b5d8bc520902dd705a9d8f2c6cb/preview-400.2822bd14021d.jpg
+        sha256: 2822bd14021dbe53c0405160378bf8d458427f94e408c16dbe5a728dca41520e
+        mime: image/jpeg
+        bytes: 64556
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

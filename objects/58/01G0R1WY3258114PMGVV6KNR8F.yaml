@@ -1,0 +1,52 @@
+id: 01G0R1WY3258114PMGVV6KNR8F
+type: image
+subtype: plan
+title: Bauplan Zollamt 1956
+description: Tusche auf Transparentpapier.
+date: 1956-07
+location: Gorleben, Kindergarten
+geocode:
+  lat: 53.0422
+  lon: 11.5267
+  precision: town
+  source: osm
+origin:
+  name: Hedwig Wiegmann
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 11/262
+subjects:
+  - name: Emma Heuer
+    type: person
+  - name: Marta Wiegmann
+    type: person
+  - name: Wustrow
+    type: place
+parents:
+  - 01G2WJPJPQXBE3BT808Y4JJJ99
+files:
+  - role: main
+    original_name: scan_766.tif
+    path: files/ca/3f/ca3f7bb05fd332ae1b8ebc04b2b0cbc1beb60cd6948f5af4a1dd7c7907dfb5ea/original.tif
+    sha256: ca3f7bb05fd332ae1b8ebc04b2b0cbc1beb60cd6948f5af4a1dd7c7907dfb5ea
+    mime: image/tiff
+    bytes: 24819194
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ca/3f/ca3f7bb05fd332ae1b8ebc04b2b0cbc1beb60cd6948f5af4a1dd7c7907dfb5ea/preview-400.033927a30023.jpg
+        sha256: 033927a30023727bcfa3352449f3abf34f853f697e4a733ab8351fde48c71b5e
+        mime: image/jpeg
+        bytes: 83518
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Doppelt vorhanden?

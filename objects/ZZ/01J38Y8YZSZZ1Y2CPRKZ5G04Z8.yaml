@@ -1,0 +1,68 @@
+id: 01J38Y8YZSZZ1Y2CPRKZ5G04Z8
+type: document
+subtype: letter
+title: Feldpostbrief von Heinz Jeß
+description: Betrifft Wasserleitung.
+location: Holtorf, Elbstraße
+geocode:
+  lat: 52.9319
+  lon: 11.4573
+  precision: region
+  source: osm
+origin:
+  name: Emma Burmester
+  type: person
+  location: Bömenzien
+recipient: Günter Gaede
+language: de
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 3/261
+  note: Bücherregal links
+subjects:
+  - name: Kindergarten
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_5g04z8_001.tif
+    path: files/00/21/00211ab5a6522a3b06d3c8fe853f5c8e5629417f18936c16e51e189e71da18f1/original.tif
+    sha256: 00211ab5a6522a3b06d3c8fe853f5c8e5629417f18936c16e51e189e71da18f1
+    mime: image/tiff
+    bytes: 22157972
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/00/21/00211ab5a6522a3b06d3c8fe853f5c8e5629417f18936c16e51e189e71da18f1/preview-400.b1691691f69b.jpg
+        sha256: b1691691f69b654090a6213d91aaaed4b2d214c8985453a6120e5e5faafd1625
+        mime: image/jpeg
+        bytes: 21803
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_5g04z8_002.tif
+    path: files/09/fd/09fd879aedfd1eb3881e7887499d149cf21cfe6c6dec1075531f165099a12061/original.tif
+    sha256: 09fd879aedfd1eb3881e7887499d149cf21cfe6c6dec1075531f165099a12061
+    mime: image/tiff
+    bytes: 14084905
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/fd/09fd879aedfd1eb3881e7887499d149cf21cfe6c6dec1075531f165099a12061/preview-400.f0ba218db31a.jpg
+        sha256: f0ba218db31ab2f28a7cdb763d4f4799e4fa064908060b759c71b8e92104034f
+        mime: image/jpeg
+        bytes: 27057
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

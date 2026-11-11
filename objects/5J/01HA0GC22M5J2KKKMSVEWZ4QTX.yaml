@@ -1,0 +1,41 @@
+id: 01HA0GC22M5J2KKKMSVEWZ4QTX
+type: image
+subtype: photo
+title: Straßenfest 1934
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 193X
+location: Kapern, Burgstraße
+geocode:
+  lat: 52.95
+  lon: 11.5531
+  precision: street
+  source: osm
+origin:
+  name: Hans Lemke
+  type: person
+  location: Lanz
+subjects:
+  - name: Salzwedel
+    type: place
+parents:
+  - 01GFYCYYAZQZW68R0ZQ0RJFGD8
+files:
+  - role: main
+    original_name: P5898.jpg
+    path: files/fb/01/fb01f9845900746f68a5d12904a36c84c977f4e7de5c5450a5db9f5a407d0a9e/original.jpg
+    sha256: fb01f9845900746f68a5d12904a36c84c977f4e7de5c5450a5db9f5a407d0a9e
+    mime: image/jpeg
+    bytes: 12715812
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/fb/01/fb01f9845900746f68a5d12904a36c84c977f4e7de5c5450a5db9f5a407d0a9e/preview-400.020d8d073e16.jpg
+        sha256: 020d8d073e1650849e89d87f68e5259995eac54545961c4956e321765c79fda8
+        mime: image/jpeg
+        bytes: 69487
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

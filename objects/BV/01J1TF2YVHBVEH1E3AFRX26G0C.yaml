@@ -1,0 +1,38 @@
+id: 01J1TF2YVHBVEH1E3AFRX26G0C
+type: image
+subtype: photo
+title: Blick vom Dorfkrug auf das Hafen
+date: 1948-12-15
+location: Dömitz, Fährstraße
+origin:
+  name: Otto Voss
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Familie Voss
+    type: person
+    location: Gollensdorf
+  reference: F 2/134
+parents:
+  - 01FRX0E5WBRJXBRWAVHTPJCDE5
+files:
+  - role: main
+    original_name: scan_952.tif
+    path: files/f5/bf/f5bf4adbebfd8b59333eee93349f3959a84b301d8d220f7fac1cc4dc0135cab8/original.tif
+    sha256: f5bf4adbebfd8b59333eee93349f3959a84b301d8d220f7fac1cc4dc0135cab8
+    mime: image/tiff
+    bytes: 13717099
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f5/bf/f5bf4adbebfd8b59333eee93349f3959a84b301d8d220f7fac1cc4dc0135cab8/preview-400.f729e86f384c.jpg
+        sha256: f729e86f384c3460160b5610343e680ef04ed871f52a0f009d8957f684269399
+        mime: image/jpeg
+        bytes: 34097
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

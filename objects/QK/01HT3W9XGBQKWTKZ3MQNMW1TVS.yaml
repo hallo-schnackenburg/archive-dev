@@ -1,0 +1,39 @@
+id: 01HT3W9XGBQKWTKZ3MQNMW1TVS
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Eisgang, Brünkendorf"
+description: Mit Anmerkungen am Rand.
+date: 193X
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 23/091
+subjects:
+  - name: Fastnacht 1939
+    type: event
+  - name: Hafen
+    type: building
+  - name: Viehmarkt 1939
+    type: event
+files:
+  - role: main
+    original_name: scan_826.tif
+    path: files/13/80/138034ac5d0ecd857ec35dfa984338ae84f80555e7d468642e9812fae7f6d357/original.tif
+    sha256: 138034ac5d0ecd857ec35dfa984338ae84f80555e7d468642e9812fae7f6d357
+    mime: image/tiff
+    bytes: 14056511
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/13/80/138034ac5d0ecd857ec35dfa984338ae84f80555e7d468642e9812fae7f6d357/preview-400.4aea160bc5a1.jpg
+        sha256: 4aea160bc5a17dd76b3a19ba87b6aa6f2c71e42a1e253104330b26305fc16d1f
+        mime: image/jpeg
+        bytes: 82031
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

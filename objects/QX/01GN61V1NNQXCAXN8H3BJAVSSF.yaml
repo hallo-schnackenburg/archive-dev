@@ -1,0 +1,39 @@
+id: 01GN61V1NNQXCAXN8H3BJAVSSF
+type: image
+subtype: drawing
+title: Wappenentwurf Arendsee, Holtorf
+date: "1859"
+origin:
+  name: Paul Wöhlk
+  type: person
+  location: Dömitz
+subjects:
+  - name: Restorf
+    type: place
+  - name: Straßenfest 1859
+    type: event
+  - name: Karl Rieke
+    type: person
+parents:
+  - 01F0BRQ2JGN7DY37JCS6H3RZJF
+  - 01J0HACSSNAGX3A6WBE45H61AH
+files:
+  - role: main
+    original_name: scan_405.tif
+    path: files/bf/ec/bfec99c72925743c8cd9ca16c19f2f0762b387dbdad0db36f6dea14699cddde9/original.tif
+    sha256: bfec99c72925743c8cd9ca16c19f2f0762b387dbdad0db36f6dea14699cddde9
+    mime: image/tiff
+    bytes: 5368253
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bf/ec/bfec99c72925743c8cd9ca16c19f2f0762b387dbdad0db36f6dea14699cddde9/preview-400.dd03a18be647.jpg
+        sha256: dd03a18be647f77ca4cbb1898e8df6918251ff952aa28b600cc23c42a06099fa
+        mime: image/jpeg
+        bytes: 52136
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01HM9PR4BJJSX31NEFW7QGVXSJ
+type: image
+subtype: photo
+title: "Theatergruppe: Gruppenbild Viehmarkt"
+description: Aufnahme von Walter Lüders.
+date: 1898-04-02
+location: Wustrow, Elbstraße
+geocode:
+  lat: 52.9005
+  lon: 11.4835
+  precision: region
+  source: osm
+origin:
+  name: Marta Hennings
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Brückeneinweihung 1898
+    type: event
+  - name: Heinrich Krüger
+    type: person
+files:
+  - role: main
+    original_name: scan_686.tif
+    path: files/c9/34/c93446d0bd412c382df1b6432a79836ada0ff9fbb70e96b246412a6e4c3c203f/original.tif
+    sha256: c93446d0bd412c382df1b6432a79836ada0ff9fbb70e96b246412a6e4c3c203f
+    mime: image/tiff
+    bytes: 9335131
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c9/34/c93446d0bd412c382df1b6432a79836ada0ff9fbb70e96b246412a6e4c3c203f/preview-400.6afca378bfa0.jpg
+        sha256: 6afca378bfa06d2ca1cc5c569bb9fc552b0284ce4fac62f58309f21f68d1404b
+        mime: image/jpeg
+        bytes: 68562
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

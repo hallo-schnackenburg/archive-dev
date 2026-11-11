@@ -1,0 +1,40 @@
+id: 01KQ8TYDMKXM0HNRSK2XV06TN8
+type: image
+subtype: print
+title: Ansichtskarte Schulstraße
+description: Lithographie, Rand beschnitten.
+date: 1773-11-25
+location: Dömitz, Burgstraße
+origin:
+  name: Ilse Meyer
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Wilhelm Meyer
+    type: person
+  - name: Havelberg
+    type: place
+  - name: Windmühle
+    type: building
+parents:
+  - 01H46K9BSD0B1AGYJKV43CT13X
+files:
+  - role: main
+    original_name: scan_432.tif
+    path: files/08/19/08194e3d6e735e7acad0de8bcce519b2cb764a15c6ba6ebff4a62e13d90ac37f/original.tif
+    sha256: 08194e3d6e735e7acad0de8bcce519b2cb764a15c6ba6ebff4a62e13d90ac37f
+    mime: image/tiff
+    bytes: 23167044
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/08/19/08194e3d6e735e7acad0de8bcce519b2cb764a15c6ba6ebff4a62e13d90ac37f/preview-400.965671bdb800.jpg
+        sha256: 965671bdb8000283f88596634e25017121b01786ab2c492dacdd77c38ab60251
+        mime: image/jpeg
+        bytes: 43540
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

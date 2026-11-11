@@ -1,0 +1,42 @@
+id: 01KP53V6YWZY1EATHQ03XE1H7H
+type: image
+subtype: plan
+title: Deichplan Pretzier bis Rüterberg
+date: 183X
+origin:
+  name: Manfred Brandt
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Album 25/115
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+  - name: Fritz Wegner
+    type: person
+  - name: Richtfest 1835
+    type: event
+files:
+  - role: main
+    original_name: scan_761.tif
+    path: files/8e/0c/8e0cff3162f2d8f1bd6aa4f58b055840111e7ab5f91d476a8c9c651072d9b3fb/original.tif
+    sha256: 8e0cff3162f2d8f1bd6aa4f58b055840111e7ab5f91d476a8c9c651072d9b3fb
+    mime: image/tiff
+    bytes: 27679207
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/8e/0c/8e0cff3162f2d8f1bd6aa4f58b055840111e7ab5f91d476a8c9c651072d9b3fb/preview-400.ebe9dc3a6445.jpg
+        sha256: ebe9dc3a644544db045973db0ec7003c21d3b8e455019f409782e839fe5b144c
+        mime: image/jpeg
+        bytes: 47678
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

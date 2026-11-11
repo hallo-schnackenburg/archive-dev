@@ -1,0 +1,63 @@
+id: 01FJ0558VTFK27J26Q86P1JMBG
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Turnverein 1940
+description: Handschriftlich in Sütterlin.
+date: "1940"
+location: Wootz, Tanzsaal
+origin:
+  name: Finanzausschuss Rüterberg
+  type: business
+  location: Arendsee
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Karl Lemke
+    type: person
+  - name: Lenzen
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: protocol_p1jmbg_001.tif
+    path: files/4b/18/4b186fe40a3905b439bf636817e45f0c3b65b5d73ac55d4f2ab8da6a413dbdf9/original.tif
+    sha256: 4b186fe40a3905b439bf636817e45f0c3b65b5d73ac55d4f2ab8da6a413dbdf9
+    mime: image/tiff
+    bytes: 12774255
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4b/18/4b186fe40a3905b439bf636817e45f0c3b65b5d73ac55d4f2ab8da6a413dbdf9/preview-400.0c6449309c85.jpg
+        sha256: 0c6449309c852ab4e3c78e0f98105bac42f1aac22be54eaccf19d91b674722a9
+        mime: image/jpeg
+        bytes: 64963
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_p1jmbg_002.tif
+    path: files/14/53/1453ab6ae9163c7747d802e8449f6280ee59fbd32ef2ffc172929a3c8305be0a/original.tif
+    sha256: 1453ab6ae9163c7747d802e8449f6280ee59fbd32ef2ffc172929a3c8305be0a
+    mime: image/tiff
+    bytes: 21551885
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/53/1453ab6ae9163c7747d802e8449f6280ee59fbd32ef2ffc172929a3c8305be0a/preview-400.4ad9de144a59.jpg
+        sha256: 4ad9de144a590552d4858833ee30c29af77fdd249192c1c554ca6e4580222fd8
+        mime: image/jpeg
+        bytes: 59858
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

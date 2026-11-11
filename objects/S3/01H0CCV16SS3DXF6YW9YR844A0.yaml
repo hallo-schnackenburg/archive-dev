@@ -1,0 +1,31 @@
+id: 01H0CCV16SS3DXF6YW9YR844A0
+type: image
+subtype: print
+title: "Holzschnitt: Osterfeuer, Zadrau"
+description: Postkarte, gelaufen 1924.
+date: 1833-11-27
+location: Wootz, Lange Straße
+origin:
+  name: Günter Cohrs
+  type: person
+  location: Nienwalde
+files:
+  - role: main
+    original_name: scan_734.tif
+    path: files/dd/3e/dd3e50860f35d139c3a5de354a8410a8e33cc5bca551ec21759e95a121f84e29/original.tif
+    sha256: dd3e50860f35d139c3a5de354a8410a8e33cc5bca551ec21759e95a121f84e29
+    mime: image/tiff
+    bytes: 8161711
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/3e/dd3e50860f35d139c3a5de354a8410a8e33cc5bca551ec21759e95a121f84e29/preview-400.dd3b9b23f2aa.jpg
+        sha256: dd3b9b23f2aa6c5f5610f6d174c31a8db6b1ca4cce64a5ecbe2c311dade00e69
+        mime: image/jpeg
+        bytes: 58460
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

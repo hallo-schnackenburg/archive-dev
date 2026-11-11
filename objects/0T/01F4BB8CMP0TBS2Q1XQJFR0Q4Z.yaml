@@ -1,0 +1,34 @@
+id: 01F4BB8CMP0TBS2Q1XQJFR0Q4Z
+type: image
+subtype: photo
+title: Blick vom Gutshaus auf das Schmiede
+description: Aufnahme von Heinrich Tiedemann.
+location: Seedorf, Elbstraße
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Restorf
+    type: place
+parents:
+  - 01HETPQRM52KXM7ZS582C2ECF3
+  - 01JKPSVJPFP12GHYARDAWPBNEN
+files:
+  - role: main
+    original_name: scan_592.tif
+    path: files/a0/e0/a0e046a01a3ec4e178261fcd601ba528e948d22c76d4348f9da60b79d121d7fd/original.tif
+    sha256: a0e046a01a3ec4e178261fcd601ba528e948d22c76d4348f9da60b79d121d7fd
+    mime: image/tiff
+    bytes: 22485127
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a0/e0/a0e046a01a3ec4e178261fcd601ba528e948d22c76d4348f9da60b79d121d7fd/preview-400.f6c339f293a7.jpg
+        sha256: f6c339f293a723c514c734b248bdffde64219c7e1ed1b12f99a2af0c6de2c3fd
+        mime: image/jpeg
+        bytes: 27820
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

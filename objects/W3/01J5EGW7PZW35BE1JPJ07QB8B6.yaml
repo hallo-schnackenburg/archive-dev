@@ -1,0 +1,43 @@
+id: 01J5EGW7PZW35BE1JPJ07QB8B6
+type: image
+subtype: photo
+title: Kartoffelernte 1998
+date: 199X
+origin:
+  name: Dieter Garms
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 27/070
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v58397
+subjects:
+  - name: Brückeneinweihung 1998
+    type: event
+  - name: Viehmarkt 1998
+    type: event
+  - name: Molkerei
+    type: building
+files:
+  - role: main
+    original_name: P3266.jpg
+    path: files/a0/c5/a0c520254f33c7a623c3060695c505be14d01802950b48e68da948bdf608dbb7/original.jpg
+    sha256: a0c520254f33c7a623c3060695c505be14d01802950b48e68da948bdf608dbb7
+    mime: image/jpeg
+    bytes: 12978172
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/a0/c5/a0c520254f33c7a623c3060695c505be14d01802950b48e68da948bdf608dbb7/preview-400.dfc1ebb19684.jpg
+        sha256: dfc1ebb196844e30ad8b4cecbc1cea89a34ec75913b296bf8e26cbbc0699c076
+        mime: image/jpeg
+        bytes: 37430
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

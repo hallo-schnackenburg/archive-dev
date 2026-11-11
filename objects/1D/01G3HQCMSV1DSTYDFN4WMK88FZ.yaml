@@ -1,0 +1,39 @@
+id: 01G3HQCMSV1DSTYDFN4WMK88FZ
+type: image
+subtype: drawing
+title: Dorfkrug, Aquarell, Nienwalde
+date: "1855"
+location: Zadrau, Molkerei
+origin:
+  name: Bernd Hennings
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v56668
+subjects:
+  - name: Zollamt
+    type: building
+files:
+  - role: main
+    original_name: scan_435.tif
+    path: files/25/21/25211ce66988d6d5b10c8924b0807ad7b9edaad6ee2fd8552458b46027c28191/original.tif
+    sha256: 25211ce66988d6d5b10c8924b0807ad7b9edaad6ee2fd8552458b46027c28191
+    mime: image/tiff
+    bytes: 9247084
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/25/21/25211ce66988d6d5b10c8924b0807ad7b9edaad6ee2fd8552458b46027c28191/preview-400.ca59d96512d6.jpg
+        sha256: ca59d96512d6082eddc026c4b2f739858d984d6654c9477c8c2c5702519896ab
+        mime: image/jpeg
+        bytes: 78937
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

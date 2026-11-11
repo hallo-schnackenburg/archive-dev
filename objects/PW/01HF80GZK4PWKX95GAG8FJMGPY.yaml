@@ -1,0 +1,35 @@
+id: 01HF80GZK4PWKX95GAG8FJMGPY
+type: image
+subtype: photo
+title: "Heimatverein: Gruppenbild Eisgang"
+description: Farbfoto, leicht verblasst.
+date: 1905-02-22
+origin:
+  name: Otto Wegner
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Zadrau
+    type: place
+files:
+  - role: main
+    original_name: DSC6451.jpg
+    path: files/50/88/5088c26f62ef930b27eb9bc79249c071b70cd09f589e246c741462efc995d883/original.jpg
+    sha256: 5088c26f62ef930b27eb9bc79249c071b70cd09f589e246c741462efc995d883
+    mime: image/jpeg
+    bytes: 27067183
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/50/88/5088c26f62ef930b27eb9bc79249c071b70cd09f589e246c741462efc995d883/preview-400.e34e9570cddf.jpg
+        sha256: e34e9570cddfd62e6751b8f8ab3e57487b11d01a016a31ef337bf0ec2bc9f753
+        mime: image/jpeg
+        bytes: 32028
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

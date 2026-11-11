@@ -1,0 +1,60 @@
+id: 01HZ641QYZ0C3GMK9YFHHAVXVA
+type: document
+subtype: letter
+title: Brief von Karl Krüger an Emma Garms
+date: 1857-05-08
+origin:
+  name: Hans Krüger
+  type: person
+  location: Gülden
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 27/059
+parents:
+  - 01HJMR4YWKHDFKNS8WPV4XDY2Z
+  - 01H8RAP2NSBW425Q13KRW0P6FG
+files:
+  - role: page
+    num: 1
+    original_name: letter_havxva_001.tif
+    path: files/80/39/8039474046365a52d3276be8e350d1bff68b570857de4716a544e74ad7f0d0d6/original.tif
+    sha256: 8039474046365a52d3276be8e350d1bff68b570857de4716a544e74ad7f0d0d6
+    mime: image/tiff
+    bytes: 2199145
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/39/8039474046365a52d3276be8e350d1bff68b570857de4716a544e74ad7f0d0d6/preview-400.12f37031a0f0.jpg
+        sha256: 12f37031a0f016b170e00a5d7dcc536bc469b0b7869a538ce121df3fd4bf9ffe
+        mime: image/jpeg
+        bytes: 27471
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_havxva_002.tif
+    path: files/0b/bb/0bbbec4fa2a3f350050448a8b9a60109581d84957913fd146a09444320285285/original.tif
+    sha256: 0bbbec4fa2a3f350050448a8b9a60109581d84957913fd146a09444320285285
+    mime: image/tiff
+    bytes: 25743711
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0b/bb/0bbbec4fa2a3f350050448a8b9a60109581d84957913fd146a09444320285285/preview-400.79409c210a1a.jpg
+        sha256: 79409c210a1a6260a1012e3a0f44ce7eedc8ff070e68a44ef39eb6dfcf3a9e3d
+        mime: image/jpeg
+        bytes: 34122
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

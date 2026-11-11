@@ -1,0 +1,34 @@
+id: 01K0QBNDJG6FMPZ6EX2EAJA9R1
+type: image
+subtype: plan
+title: Grundriss Backhaus, Rüterberg
+description: Mit handschriftlichen Ergänzungen.
+date: 1808~
+location: Hitzacker, Am Markt
+origin:
+  name: Dieter Prieß
+  type: person
+  location: Schnackenburg
+parents:
+  - 01FC500G3M1EH4PAW2K7HHB2K0
+  - 01GT4AQMYDQV6X3W40VS0A09TX
+files:
+  - role: main
+    original_name: scan_986.tif
+    path: files/cc/64/cc64d73641eb5fddec0f5f2f292499a160236e497e381c661ec24fa91cb1867d/original.tif
+    sha256: cc64d73641eb5fddec0f5f2f292499a160236e497e381c661ec24fa91cb1867d
+    mime: image/tiff
+    bytes: 1925772
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/cc/64/cc64d73641eb5fddec0f5f2f292499a160236e497e381c661ec24fa91cb1867d/preview-400.b904a534c81c.jpg
+        sha256: b904a534c81c274f82147904d743a47c23ba97d775e39d0ed598f3f0429545f4
+        mime: image/jpeg
+        bytes: 73255
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

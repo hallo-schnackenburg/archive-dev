@@ -1,0 +1,44 @@
+id: 01GTTS0MWTNYV0BACFKMKS0ADD
+type: image
+subtype: photo
+title: "Turnverein: Gruppenbild Fährjubiläum"
+description: Farbfoto, leicht verblasst.
+location: Nienwalde, Badestelle
+geocode:
+  lat: 52.9744
+  lon: 11.6593
+  precision: town
+  source: osm
+origin:
+  name: Hans Bohlmann
+  type: person
+  location: Laase
+owner:
+  name: Paul Brandt
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: scan_547.tif
+    path: files/65/90/65901cacdede2a50381181a07404a49f7c8fc15115fa2ddd62a745dfb0734d17/original.tif
+    sha256: 65901cacdede2a50381181a07404a49f7c8fc15115fa2ddd62a745dfb0734d17
+    mime: image/tiff
+    bytes: 5273204
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/65/90/65901cacdede2a50381181a07404a49f7c8fc15115fa2ddd62a745dfb0734d17/preview-400.c2bb6cde3c8c.jpg
+        sha256: c2bb6cde3c8c2ba80c6845252d291604d8b7e45462a25915f8f6d4c0083f46cf
+        mime: image/jpeg
+        bytes: 78942
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

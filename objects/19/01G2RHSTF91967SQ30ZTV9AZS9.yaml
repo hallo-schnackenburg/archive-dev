@@ -1,0 +1,40 @@
+id: 01G2RHSTF91967SQ30ZTV9AZS9
+type: image
+subtype: drawing
+title: Skizze Arendsee, Bahnhofstraße
+date: 1963-06-28
+location: Arendsee, Am Markt
+origin:
+  name: Wilhelm Voss
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Familie Behrens
+    type: person
+    location: Lüchow
+subjects:
+  - name: Tanzsaal
+    type: building
+  - name: Hans Behrens
+    type: person
+files:
+  - role: main
+    original_name: scan_036.tif
+    path: files/f3/6f/f36f01cdb58bdb2929bd03b62413a45d1d08b33987d1c6e5846113da13279003/original.tif
+    sha256: f36f01cdb58bdb2929bd03b62413a45d1d08b33987d1c6e5846113da13279003
+    mime: image/tiff
+    bytes: 19430326
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f3/6f/f36f01cdb58bdb2929bd03b62413a45d1d08b33987d1c6e5846113da13279003/preview-400.50d42b2781df.jpg
+        sha256: 50d42b2781dfc5ba62217dd3d86ac0e4158c8fbbc6417781e2c2f404604f7266
+        mime: image/jpeg
+        bytes: 63644
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

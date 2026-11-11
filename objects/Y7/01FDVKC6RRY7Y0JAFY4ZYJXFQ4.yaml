@@ -1,0 +1,45 @@
+id: 01FDVKC6RRY7Y0JAFY4ZYJXFQ4
+type: image
+subtype: photo
+title: Gartenstraße, Ecke Schulstraße
+date: 1895-11-07
+location: Rüterberg, Hinter den Höfen
+geocode:
+  lat: 53.0613
+  lon: 11.5482
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F/Album 25/083
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Rudolf Ahrens
+    type: person
+parents:
+  - 01JAT6399B3E9Z9P00A12BJSFT
+files:
+  - role: main
+    original_name: IMG_1895.jpg
+    path: files/60/5d/605d0c67d484b64a26e7ed6dd7df0176f977b25cbd462f7ec902ebf22e1f0db3/original.jpg
+    sha256: 605d0c67d484b64a26e7ed6dd7df0176f977b25cbd462f7ec902ebf22e1f0db3
+    mime: image/jpeg
+    bytes: 22209775
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/60/5d/605d0c67d484b64a26e7ed6dd7df0176f977b25cbd462f7ec902ebf22e1f0db3/preview-400.092124798f40.jpg
+        sha256: 092124798f4014e955f78cd1fcbd7fa4b40134f2065f0ebf3f6deb9791251b68
+        mime: image/jpeg
+        bytes: 84055
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

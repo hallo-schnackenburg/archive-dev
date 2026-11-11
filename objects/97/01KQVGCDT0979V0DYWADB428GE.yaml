@@ -1,0 +1,42 @@
+id: 01KQVGCDT0979V0DYWADB428GE
+type: image
+subtype: photo
+title: Blick vom Fähranleger auf das Tanzsaal
+date: 1920/1929
+location: Gülden, Hafenstraße
+geocode:
+  lat: 52.9257
+  lon: 11.5882
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 40/003
+subjects:
+  - name: Lanz
+    type: place
+parents:
+  - 01J8ED3E4SGG31ZRC1FEQ26FTD
+files:
+  - role: main
+    original_name: DSC0755.jpg
+    path: files/5f/30/5f30b9b2f4339f7a2ba0cd7b4cf257aa76ff997693144bf7426c207dbed11378/original.jpg
+    sha256: 5f30b9b2f4339f7a2ba0cd7b4cf257aa76ff997693144bf7426c207dbed11378
+    mime: image/jpeg
+    bytes: 21272341
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/5f/30/5f30b9b2f4339f7a2ba0cd7b4cf257aa76ff997693144bf7426c207dbed11378/preview-400.ebc77b8906c2.jpg
+        sha256: ebc77b8906c2a65131bf8702c4078f3adfcb2fb5460dac48cfe18effd14909f3
+        mime: image/jpeg
+        bytes: 47329
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

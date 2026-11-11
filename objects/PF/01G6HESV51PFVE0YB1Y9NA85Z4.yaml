@@ -1,0 +1,45 @@
+id: 01G6HESV51PFVE0YB1Y9NA85Z4
+type: image
+subtype: print
+title: Postkarte Rüterberg, Schützenhaus, Wustrow
+description: Postkarte, gelaufen 1924.
+date: 1748/1753
+location: Gülden, Lange Straße
+geocode:
+  lat: 53.0813
+  lon: 11.6055
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 13/152
+subjects:
+  - name: Restorf
+    type: place
+  - name: Anni Albers
+    type: person
+  - name: Torhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_201.tif
+    path: files/27/a6/27a69c127db5531d4e241a8b84269372027ec8c71b1a81a4b23c0ee205af9abd/original.tif
+    sha256: 27a69c127db5531d4e241a8b84269372027ec8c71b1a81a4b23c0ee205af9abd
+    mime: image/tiff
+    bytes: 14335237
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/27/a6/27a69c127db5531d4e241a8b84269372027ec8c71b1a81a4b23c0ee205af9abd/preview-400.fe622230a832.jpg
+        sha256: fe622230a8325f7cc2334a8441244af2a65d778fa79ab442318104a63244b246
+        mime: image/jpeg
+        bytes: 76912
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

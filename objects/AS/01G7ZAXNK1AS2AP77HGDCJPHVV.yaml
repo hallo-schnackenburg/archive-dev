@@ -1,0 +1,39 @@
+id: 01G7ZAXNK1AS2AP77HGDCJPHVV
+type: image
+subtype: photo
+title: Apotheke in Kapern
+date: "1918"
+origin:
+  name: Heinrich Matthies
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos/Album 22/008
+  note: Bücherregal links
+subjects:
+  - name: Schnackenburg
+    type: place
+files:
+  - role: main
+    original_name: scan_146.tif
+    path: files/23/65/2365f93ae33bb41e2f2a5749d8cea732860e18c1f4b085b6a62454ce2fa9a742/original.tif
+    sha256: 2365f93ae33bb41e2f2a5749d8cea732860e18c1f4b085b6a62454ce2fa9a742
+    mime: image/tiff
+    bytes: 12770164
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/23/65/2365f93ae33bb41e2f2a5749d8cea732860e18c1f4b085b6a62454ce2fa9a742/preview-400.2a93c57b4896.jpg
+        sha256: 2a93c57b48969a7fad2cd1097a178243b3f2e8892d40127ca2cf9972b4e8bceb
+        mime: image/jpeg
+        bytes: 77112
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

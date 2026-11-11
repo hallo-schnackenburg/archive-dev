@@ -1,0 +1,37 @@
+id: 01GXDEC8ERWTKQP6XJ9DRT8K0M
+type: image
+subtype: drawing
+title: Skizze Schnackenburg, Am Markt
+description: Federzeichnung, laviert.
+date: "1935"
+origin:
+  name: Friedrich Jeß
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 24/007
+  note: Regal 1
+files:
+  - role: main
+    original_name: scan_387.tif
+    path: files/04/30/043040f5c84b69ace9a2d9301af5d7c0548564c2c836ed3d3dd5286723111219/original.tif
+    sha256: 043040f5c84b69ace9a2d9301af5d7c0548564c2c836ed3d3dd5286723111219
+    mime: image/tiff
+    bytes: 10544963
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/04/30/043040f5c84b69ace9a2d9301af5d7c0548564c2c836ed3d3dd5286723111219/preview-400.62c3fe67efd9.jpg
+        sha256: 62c3fe67efd9a5a3d85c3121fee4fc843da001a0c2c0b6ce538f191ad9a4ff37
+        mime: image/jpeg
+        bytes: 84665
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

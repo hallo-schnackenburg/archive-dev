@@ -1,0 +1,35 @@
+id: 01KNJYFSHQ6PPTV5J5VY6S2YD4
+type: image
+subtype: plan
+title: Bauplan Gemeindehaus 1895
+date: 1895/1897
+location: Arendsee, Am Elbdeich
+origin:
+  name: Rudolf Ihde
+  type: person
+  location: Restorf
+subjects:
+  - name: Helga Lüders
+    type: person
+  - name: Pretzier
+    type: place
+files:
+  - role: main
+    original_name: scan_632.tif
+    path: files/14/41/1441f0bd745147074154c0f98f2bd5ab7a7131c56b0d1463c9e42854ec1c5e2f/original.tif
+    sha256: 1441f0bd745147074154c0f98f2bd5ab7a7131c56b0d1463c9e42854ec1c5e2f
+    mime: image/tiff
+    bytes: 9924308
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/14/41/1441f0bd745147074154c0f98f2bd5ab7a7131c56b0d1463c9e42854ec1c5e2f/preview-400.a3f76ba08e66.jpg
+        sha256: a3f76ba08e660afd7379e942f83fa244b9a06250750d522d255bbebde8d2b2c7
+        mime: image/jpeg
+        bytes: 21223
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

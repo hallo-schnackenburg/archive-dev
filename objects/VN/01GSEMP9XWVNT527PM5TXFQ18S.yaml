@@ -1,0 +1,37 @@
+id: 01GSEMP9XWVNT527PM5TXFQ18S
+type: image
+subtype: photo
+title: Dorfkrug in Kapern
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1912"
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 23/038
+subjects:
+  - name: Konfirmation 1912
+    type: event
+  - name: Kirche St. Johannis
+    type: building
+files:
+  - role: main
+    original_name: foto_4430.jpg
+    path: files/b2/93/b293df4a4593db360fdadbd2f812bd83f6a6085b6b1b4343e58ca479ea25a375/original.jpg
+    sha256: b293df4a4593db360fdadbd2f812bd83f6a6085b6b1b4343e58ca479ea25a375
+    mime: image/jpeg
+    bytes: 16374369
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/b2/93/b293df4a4593db360fdadbd2f812bd83f6a6085b6b1b4343e58ca479ea25a375/preview-400.c5c8c844cd69.jpg
+        sha256: c5c8c844cd690d0d807c51cac1b2367762d3ee3e4594bd8505422608ee718290
+        mime: image/jpeg
+        bytes: 65459
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

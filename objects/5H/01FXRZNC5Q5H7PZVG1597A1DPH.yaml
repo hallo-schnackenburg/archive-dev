@@ -1,0 +1,43 @@
+id: 01FXRZNC5Q5H7PZVG1597A1DPH
+type: image
+subtype: drawing
+title: Entwurf für Dorfschule
+date: 1924-08-16
+location: Dömitz, Brunnen am Markt
+geocode:
+  lat: 53.0276
+  lon: 11.6291
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Wilhelm Jeß
+    type: person
+  - name: Heinrich Krüger
+    type: person
+  - name: Einschulung 1924
+    type: event
+files:
+  - role: main
+    original_name: scan_578.tif
+    path: files/c1/42/c142db8641eaa079de9c384131403f7a5d2c9abc7f9763107f3158c2934666af/original.tif
+    sha256: c142db8641eaa079de9c384131403f7a5d2c9abc7f9763107f3158c2934666af
+    mime: image/tiff
+    bytes: 8253100
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c1/42/c142db8641eaa079de9c384131403f7a5d2c9abc7f9763107f3158c2934666af/preview-400.21f1bb013b7e.jpg
+        sha256: 21f1bb013b7e3395438719268108722a4af723ff30de5c863f795a528f971551
+        mime: image/jpeg
+        bytes: 35564
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

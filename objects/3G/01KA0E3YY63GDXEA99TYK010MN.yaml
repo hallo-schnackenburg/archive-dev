@@ -1,0 +1,41 @@
+id: 01KA0E3YY63GDXEA99TYK010MN
+type: image
+subtype: print
+title: Ansichtskarte Hafenstraße
+description: Kupferstich, koloriert.
+date: 1903~
+location: Restorf, Dorfschule
+geocode:
+  lat: 53.0233
+  lon: 11.5716
+  precision: town
+  source: osm
+subjects:
+  - name: Torhaus
+    type: building
+  - name: Straßenfest 1903
+    type: event
+  - name: Ortsbesichtigung 1903
+    type: event
+parents:
+  - 01K2N0VJGKQKN7XPNR7CJ9ZRGF
+files:
+  - role: main
+    original_name: scan_954.tif
+    path: files/c8/6b/c86bc24fe1ec99f4e54cacb34e2f4f9ffc02758c7524ecb39f283aae020cee02/original.tif
+    sha256: c86bc24fe1ec99f4e54cacb34e2f4f9ffc02758c7524ecb39f283aae020cee02
+    mime: image/tiff
+    bytes: 492102
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/6b/c86bc24fe1ec99f4e54cacb34e2f4f9ffc02758c7524ecb39f283aae020cee02/preview-400.83187d8a188a.jpg
+        sha256: 83187d8a188a0326daa19263228d7dfa19c5f34cb8c8a9297716a36b75f4b4a2
+        mime: image/jpeg
+        bytes: 82850
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

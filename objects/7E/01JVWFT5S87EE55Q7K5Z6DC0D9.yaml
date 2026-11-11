@@ -1,0 +1,46 @@
+id: 01JVWFT5S87EE55Q7K5Z6DC0D9
+type: image
+subtype: drawing
+title: Skizze Zadrau, Marktstraße, Hitzacker
+date: 1886-08-08
+location: Hitzacker, Lange Straße
+geocode:
+  lat: 52.9496
+  lon: 11.4667
+  precision: exact
+  source: osm
+origin:
+  name: Berta Sievers
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 1/007
+subjects:
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01F084MHNWGJ7D7S7TBCXZMMB2
+files:
+  - role: main
+    original_name: scan_316.tif
+    path: files/b5/ab/b5abcd08f3a79bd939454c66c7171d0fc75af9ba86cd4225d4218e94ededf9cb/original.tif
+    sha256: b5abcd08f3a79bd939454c66c7171d0fc75af9ba86cd4225d4218e94ededf9cb
+    mime: image/tiff
+    bytes: 24775741
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b5/ab/b5abcd08f3a79bd939454c66c7171d0fc75af9ba86cd4225d4218e94ededf9cb/preview-400.0b5d002a7a48.jpg
+        sha256: 0b5d002a7a484aad5aa017b5b657afeb9db28f0d958b1de37ea6d53c5917edc0
+        mime: image/jpeg
+        bytes: 73834
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

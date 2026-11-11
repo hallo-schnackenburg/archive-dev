@@ -1,0 +1,66 @@
+id: 01KM5DQ5QXCPYGFWKXQWRMZP0D
+type: document
+subtype: note
+title: Rechnung Brandt, Apotheke
+date: "1926"
+location: Wittenberge, Kirchstraße
+geocode:
+  lat: 53.042
+  lon: 11.4515
+  precision: exact
+  source: osm
+origin:
+  name: Frieda Lemke
+  type: person
+  location: Bömenzien
+language: de
+owner:
+  name: Helga Brandt
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Ilse Detlefs
+    type: person
+  - name: Nienwalde
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_rmzp0d_001.tif
+    path: files/b9/8f/b98fade5970f8fa24f2d49caa14577b9150350d67ef7bfbdcb6b7e9c5685ccb4/original.tif
+    sha256: b98fade5970f8fa24f2d49caa14577b9150350d67ef7bfbdcb6b7e9c5685ccb4
+    mime: image/tiff
+    bytes: 22632041
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b9/8f/b98fade5970f8fa24f2d49caa14577b9150350d67ef7bfbdcb6b7e9c5685ccb4/preview-400.aaa8d13d696f.jpg
+        sha256: aaa8d13d696f8850f291b755b981938b12ca5fc42ff4a202ff1cdc7373a0596a
+        mime: image/jpeg
+        bytes: 45980
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_rmzp0d_002.tif
+    path: files/4b/8d/4b8db5e36bcfb77d5aa73913a94594ec8c5d94c15428bbf21080566ccd19d782/original.tif
+    sha256: 4b8db5e36bcfb77d5aa73913a94594ec8c5d94c15428bbf21080566ccd19d782
+    mime: image/tiff
+    bytes: 26848415
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4b/8d/4b8db5e36bcfb77d5aa73913a94594ec8c5d94c15428bbf21080566ccd19d782/preview-400.82142b7fc094.jpg
+        sha256: 82142b7fc094ebccd51d508bd77642e0ce31c55b05de710a06d70e45e5249b92
+        mime: image/jpeg
+        bytes: 30860
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

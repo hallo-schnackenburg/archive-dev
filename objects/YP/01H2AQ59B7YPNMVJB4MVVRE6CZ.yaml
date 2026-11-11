@@ -1,0 +1,38 @@
+id: 01H2AQ59B7YPNMVJB4MVVRE6CZ
+type: image
+subtype: drawing
+title: Skizze Lenzen, Marktstraße
+description: Mit Anmerkungen am Rand.
+date: 1834?
+location: Havelberg, Mühle
+origin:
+  name: Otto Sievers
+  type: person
+  location: Dömitz
+subjects:
+  - name: Heinrich Meyer
+    type: person
+  - name: Restorf
+    type: place
+parents:
+  - 01FESK7CZ76YS0ANTN93GVS71Z
+files:
+  - role: main
+    original_name: scan_631.tif
+    path: files/ab/4f/ab4f681e490f3d1501fc05ce8f7280be1749f3eb8bf097ce4ec35d063f3a2001/original.tif
+    sha256: ab4f681e490f3d1501fc05ce8f7280be1749f3eb8bf097ce4ec35d063f3a2001
+    mime: image/tiff
+    bytes: 16568994
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ab/4f/ab4f681e490f3d1501fc05ce8f7280be1749f3eb8bf097ce4ec35d063f3a2001/preview-400.6120edc4e73a.jpg
+        sha256: 6120edc4e73aaa6231a7a044f91c7a91a9b179a9f4360a89930e3f12e4c5a281
+        mime: image/jpeg
+        bytes: 81726
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

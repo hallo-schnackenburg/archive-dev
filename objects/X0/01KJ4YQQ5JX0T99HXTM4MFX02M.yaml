@@ -1,0 +1,64 @@
+id: 01KJ4YQQ5JX0T99HXTM4MFX02M
+type: document
+subtype: letter
+title: Korrespondenz Klaus Rohde
+description: Maschinenschriftlich, unterschrieben.
+date: 1983-06-01
+location: Arendsee, Tanzsaal
+geocode:
+  lat: 52.9037
+  lon: 11.666
+  precision: exact
+  source: osm
+recipient: Frieda Lemke
+language: de
+subjects:
+  - name: Straßenfest 1983
+    type: event
+  - name: Bernd Detlefs
+    type: person
+  - name: Gülden
+    type: place
+parents:
+  - 01KF2B6TP54JC25MG4X17B6G6E
+files:
+  - role: page
+    num: 1
+    original_name: letter_mfx02m_001.tif
+    path: files/ef/f0/eff0ed8b4eadf10a4e0e84e4f758bbc7d5d2186d74d88de9f7f75dd365919c7d/original.tif
+    sha256: eff0ed8b4eadf10a4e0e84e4f758bbc7d5d2186d74d88de9f7f75dd365919c7d
+    mime: image/tiff
+    bytes: 20241609
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ef/f0/eff0ed8b4eadf10a4e0e84e4f758bbc7d5d2186d74d88de9f7f75dd365919c7d/preview-400.977bd3afee95.jpg
+        sha256: 977bd3afee9523b6bc60bbb8226cf23421a6e120b666909800cf79b90b4d9887
+        mime: image/jpeg
+        bytes: 60032
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_mfx02m_002.tif
+    path: files/84/e5/84e5750e7f7677ad9e6cbb12b33ae8d4d6fbaa5ccdebbc20b14f28c0ad7e08f7/original.tif
+    sha256: 84e5750e7f7677ad9e6cbb12b33ae8d4d6fbaa5ccdebbc20b14f28c0ad7e08f7
+    mime: image/tiff
+    bytes: 9849617
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/84/e5/84e5750e7f7677ad9e6cbb12b33ae8d4d6fbaa5ccdebbc20b14f28c0ad7e08f7/preview-400.2ac97f9cb7b0.jpg
+        sha256: 2ac97f9cb7b00965b6f499bfbbff74e16bb0590ab8c9d0bce8585d7e247370c2
+        mime: image/jpeg
+        bytes: 73175
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,49 @@
+id: 01HN1FEYZKPV6X1Y0JQEERBMSV
+type: image
+subtype: print
+title: Gruß aus Seedorf, Lenzen
+description: Lithographie, Rand beschnitten.
+date: 1842-05-27
+location: Cumlosen, Gasthof „Zur Elbe“
+geocode:
+  lat: 53.0414
+  lon: 11.6516
+  precision: street
+  source: osm
+origin:
+  name: Heinrich Schulz
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Familie Wegner
+    type: person
+    location: Kapern
+  reference: Fotos/Kasten 24/057
+subjects:
+  - name: Wilhelm Kuhlmann
+    type: person
+  - name: Gärtnerei
+    type: building
+parents:
+  - 01K2N0VJGKQKN7XPNR7CJ9ZRGF
+files:
+  - role: main
+    original_name: scan_142.tif
+    path: files/26/a6/26a6f6dbc08bb5422c6fc4dc638026a2256a9dbdc68c61239dc72f02116be48b/original.tif
+    sha256: 26a6f6dbc08bb5422c6fc4dc638026a2256a9dbdc68c61239dc72f02116be48b
+    mime: image/tiff
+    bytes: 19258864
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/26/a6/26a6f6dbc08bb5422c6fc4dc638026a2256a9dbdc68c61239dc72f02116be48b/preview-400.aafb644bf717.jpg
+        sha256: aafb644bf71732cc6c6faf9d8aff5151d55df7e334aa5b562d0814a4a79c87a5
+        mime: image/jpeg
+        bytes: 38449
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

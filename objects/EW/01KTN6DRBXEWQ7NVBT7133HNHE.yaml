@@ -1,0 +1,44 @@
+id: 01KTN6DRBXEWQ7NVBT7133HNHE
+type: image
+subtype: plan
+title: Bauplan Zollamt 1759
+description: Mit handschriftlichen Ergänzungen.
+date: 1759-02-21
+location: Cumlosen, Dorfkrug
+geocode:
+  lat: 52.9867
+  lon: 11.6025
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 26/027
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9634
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Straßenfest 1759
+    type: event
+files:
+  - role: main
+    original_name: scan_688.tif
+    path: files/fc/6f/fc6f28e19259c693b7a47b074bec58f90c7abaffbb2920cdf98942e928f0718f/original.tif
+    sha256: fc6f28e19259c693b7a47b074bec58f90c7abaffbb2920cdf98942e928f0718f
+    mime: image/tiff
+    bytes: 16198712
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fc/6f/fc6f28e19259c693b7a47b074bec58f90c7abaffbb2920cdf98942e928f0718f/preview-400.5e5b5c8c99bf.jpg
+        sha256: 5e5b5c8c99bf68c010d61e051fb04b9c8eb542244bff850b2395e0d234f4dc6c
+        mime: image/jpeg
+        bytes: 33444
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

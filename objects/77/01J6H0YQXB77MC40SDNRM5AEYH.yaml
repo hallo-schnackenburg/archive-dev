@@ -1,0 +1,44 @@
+id: 01J6H0YQXB77MC40SDNRM5AEYH
+type: image
+subtype: plan
+title: Bauplan Storchennest 1971
+description: Maßstab 1:2500.
+date: 1971-05-06
+location: Laase, Tanzsaal
+origin:
+  name: Dieter Klatt
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Familie Plate
+    type: person
+    location: Seedorf
+  reference: Br/Mappe 23/065
+subjects:
+  - name: Ortsbesichtigung 1971
+    type: event
+  - name: Erntedankfest 1971
+    type: event
+parents:
+  - 01GTF0FAKD2Z78BGPYW8ZV7JE5
+files:
+  - role: main
+    original_name: scan_764.tif
+    path: files/b2/d5/b2d5680723e2cb8a1cd665c0018c7f7c983fa42549fde1f157e0b50dcfbef835/original.tif
+    sha256: b2d5680723e2cb8a1cd665c0018c7f7c983fa42549fde1f157e0b50dcfbef835
+    mime: image/tiff
+    bytes: 6442327
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b2/d5/b2d5680723e2cb8a1cd665c0018c7f7c983fa42549fde1f157e0b50dcfbef835/preview-400.1ea5bedfead6.jpg
+        sha256: 1ea5bedfead6520a1689ff1a568f10083d01cc258d1749ad0664fc5983e0795d
+        mime: image/jpeg
+        bytes: 74974
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

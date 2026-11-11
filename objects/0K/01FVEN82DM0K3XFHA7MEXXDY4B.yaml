@@ -1,0 +1,35 @@
+id: 01FVEN82DM0K3XFHA7MEXXDY4B
+type: image
+subtype: photo
+title: August Wiegmann vor dem Kaufmannshaus
+description: Zu sehen sind Ziegelei und Feuerwehrhaus.
+date: 198X
+subjects:
+  - name: Heuberge
+    type: building
+  - name: Karl Garms
+    type: person
+  - name: Hochzeit 1982
+    type: event
+parents:
+  - 01G0X29EZ2FVG07FG6GWV5MNSG
+files:
+  - role: main
+    original_name: IMG_0178.jpg
+    path: files/90/b6/90b659dc9a756222c94dedfce6bb74f5aa70391d6a195239e2ee372a0cdc5592/original.jpg
+    sha256: 90b659dc9a756222c94dedfce6bb74f5aa70391d6a195239e2ee372a0cdc5592
+    mime: image/jpeg
+    bytes: 7886943
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/90/b6/90b659dc9a756222c94dedfce6bb74f5aa70391d6a195239e2ee372a0cdc5592/preview-400.7f9c74d8204a.jpg
+        sha256: 7f9c74d8204a23efd36c5b626024cb58ffa6002a0fa2a5ea7e38a69948ae7c8f
+        mime: image/jpeg
+        bytes: 50381
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

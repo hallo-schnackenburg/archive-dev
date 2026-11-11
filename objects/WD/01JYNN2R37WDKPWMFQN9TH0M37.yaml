@@ -1,0 +1,36 @@
+id: 01JYNN2R37WDKPWMFQN9TH0M37
+type: image
+subtype: photo
+title: Friedrich Schulz, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1971-08
+location: Gartow, Kirchstraße
+origin:
+  name: Fritz Wiegmann
+  type: person
+  location: Arendsee
+subjects:
+  - name: Kindergartenfest 1971
+    type: event
+  - name: Tanzsaal
+    type: building
+files:
+  - role: main
+    original_name: DSC5314.jpg
+    path: files/db/3f/db3f0e2db7b310b8075b465cfa966516974a221358fe348d9709728fe787b0bd/original.jpg
+    sha256: db3f0e2db7b310b8075b465cfa966516974a221358fe348d9709728fe787b0bd
+    mime: image/jpeg
+    bytes: 7995201
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/db/3f/db3f0e2db7b310b8075b465cfa966516974a221358fe348d9709728fe787b0bd/preview-400.b61e79a6d49a.jpg
+        sha256: b61e79a6d49a3240cea036d82d755985773d16942f1641d04738fe809447bc53
+        mime: image/jpeg
+        bytes: 74204
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

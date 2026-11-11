@@ -1,0 +1,47 @@
+id: 01J4K66K1TTZJ1DBRNH3X1JB6C
+type: document
+subtype: note
+title: Quittung für Marta Krüger
+date: "1932"
+location: Pretzier, Kirchstraße
+geocode:
+  lat: 52.9214
+  lon: 11.6876
+  precision: town
+  source: osm
+origin:
+  name: Gerda Krüger
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Familie Wegner
+    type: person
+    location: Gülden
+  reference: Br/Mappe 16/061
+subjects:
+  - name: Pumpenhaus
+    type: building
+  - name: Osterfeuer 1932
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: note_x1jb6c_001.tif
+    path: files/22/7f/227f320848aac9ae6436243f06f91015b4034ed5ebf2793a2b8cd772b63f59ec/original.tif
+    sha256: 227f320848aac9ae6436243f06f91015b4034ed5ebf2793a2b8cd772b63f59ec
+    mime: image/tiff
+    bytes: 11150177
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/22/7f/227f320848aac9ae6436243f06f91015b4034ed5ebf2793a2b8cd772b63f59ec/preview-400.6b6a46996807.jpg
+        sha256: 6b6a46996807cd4d73b1b158f8d114a3bd87104728572f0b297eed31f6fde40f
+        mime: image/jpeg
+        bytes: 85722
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

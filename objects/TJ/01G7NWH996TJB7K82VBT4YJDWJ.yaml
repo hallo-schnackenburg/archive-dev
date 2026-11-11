@@ -1,0 +1,37 @@
+id: 01G7NWH996TJB7K82VBT4YJDWJ
+type: image
+subtype: plan
+title: Bauplan Gemeindehaus 1847
+description: Mit handschriftlichen Ergänzungen.
+location: Wustrow, Schützenhaus
+geocode:
+  lat: 53.0743
+  lon: 11.6726
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 24/052
+files:
+  - role: main
+    original_name: scan_623.tif
+    path: files/e2/37/e237dc046b15fedbce49654cc54989a4b8d4e919e58f7159f9aca8aa792618e8/original.tif
+    sha256: e237dc046b15fedbce49654cc54989a4b8d4e919e58f7159f9aca8aa792618e8
+    mime: image/tiff
+    bytes: 16463714
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e2/37/e237dc046b15fedbce49654cc54989a4b8d4e919e58f7159f9aca8aa792618e8/preview-400.cebd62a26b19.jpg
+        sha256: cebd62a26b1914cb2d9aed3d0bf4c420e4322c41dafe0c0e447fe07705bac95c
+        mime: image/jpeg
+        bytes: 53101
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

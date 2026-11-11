@@ -1,0 +1,49 @@
+id: 01M1B6MHRMFR2ZFEJPKK48NVGV
+type: image
+subtype: photo
+title: Dorffest 2003
+description: Aufnahme von Paul Meyer.
+date: "2003"
+location: Wittenberge, Bahnhofstraße
+origin:
+  name: Gerda Dreyer
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+owner:
+  name: Gerda Burmester
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Tanzsaal
+    type: building
+  - name: Ingrid Lüders
+    type: person
+  - name: Hans Kuhlmann
+    type: person
+parents:
+  - 01HXKWJA1EQYHXN89QXEXV1595
+files:
+  - role: main
+    original_name: P3804.jpg
+    path: files/10/f0/10f0aa8f3a446f62fd372f4b58ac540f0c960683482a0377eea31d423d99dadf/original.jpg
+    sha256: 10f0aa8f3a446f62fd372f4b58ac540f0c960683482a0377eea31d423d99dadf
+    mime: image/jpeg
+    bytes: 25642211
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/10/f0/10f0aa8f3a446f62fd372f4b58ac540f0c960683482a0377eea31d423d99dadf/preview-400.204a6e566261.jpg
+        sha256: 204a6e566261c3d61db9454065ae9009ca1bbdb7a1acd9963903140eb9a484e0
+        mime: image/jpeg
+        bytes: 86751
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

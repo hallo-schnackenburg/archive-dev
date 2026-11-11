@@ -1,0 +1,37 @@
+id: 01KYV1R0E9G0VFSPZNXH1ADD1G
+type: image
+subtype: photo
+title: Viehmarkt 2004
+description: Zu sehen sind Poststelle und Windmühle.
+date: 2004-08-18
+location: Brünkendorf, Kindergarten
+original:
+  holder:
+    name: Familie Rieke
+    type: person
+    location: Brünkendorf
+subjects:
+  - name: Hochzeit 2004
+    type: event
+  - name: Maifeier 2004
+    type: event
+files:
+  - role: main
+    original_name: IMG_5291.jpg
+    path: files/1b/9a/1b9a03df51791ac280642266c5f7d99da72ead6e003743490f66d4da6e8d1ac9/original.jpg
+    sha256: 1b9a03df51791ac280642266c5f7d99da72ead6e003743490f66d4da6e8d1ac9
+    mime: image/jpeg
+    bytes: 10119800
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/1b/9a/1b9a03df51791ac280642266c5f7d99da72ead6e003743490f66d4da6e8d1ac9/preview-400.860c76fd067c.jpg
+        sha256: 860c76fd067c49fa22afd3e3adbfd86ba6eacf02f25177af89bf550681a27d91
+        mime: image/jpeg
+        bytes: 45916
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

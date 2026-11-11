@@ -1,0 +1,61 @@
+id: 01FMSHR3DGC8DZKRB0FK6ERM94
+type: document
+subtype: protocol
+title: Protokoll des Stadtrat vom 1895
+description: Handschriftlich in Sütterlin.
+location: Wustrow, Hafen
+origin:
+  name: Bauausschuss Lenzen
+  type: business
+  location: Rüterberg
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 15/258
+subjects:
+  - name: Wassermühle
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: protocol_6erm94_001.tif
+    path: files/a6/67/a6675b6f9c40626c4bc0783ddc2fdcbbbbedb8170fb7ae3ce3bf40cac45d8eaa/original.tif
+    sha256: a6675b6f9c40626c4bc0783ddc2fdcbbbbedb8170fb7ae3ce3bf40cac45d8eaa
+    mime: image/tiff
+    bytes: 1697974
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a6/67/a6675b6f9c40626c4bc0783ddc2fdcbbbbedb8170fb7ae3ce3bf40cac45d8eaa/preview-400.d74a1c2fc3f1.jpg
+        sha256: d74a1c2fc3f166e2f79764931a672566777abf9835a378ab146ef0dbf4006e35
+        mime: image/jpeg
+        bytes: 29752
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_6erm94_002.tif
+    path: files/60/29/6029bad8ff5f3bde1b9da0f9f58c63089b1c820d838bb4d85c58382e688307b8/original.tif
+    sha256: 6029bad8ff5f3bde1b9da0f9f58c63089b1c820d838bb4d85c58382e688307b8
+    mime: image/tiff
+    bytes: 16266890
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/60/29/6029bad8ff5f3bde1b9da0f9f58c63089b1c820d838bb4d85c58382e688307b8/preview-400.bf72f31f85b6.jpg
+        sha256: bf72f31f85b629a56ad773668778ca75a7718242ca15dc4997e3ba877bcd2ca5
+        mime: image/jpeg
+        bytes: 26120
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

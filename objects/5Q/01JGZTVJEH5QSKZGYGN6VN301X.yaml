@@ -1,0 +1,36 @@
+id: 01JGZTVJEH5QSKZGYGN6VN301X
+type: image
+subtype: photo
+title: Jürgen Schulz, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1942-09-16
+location: Kapern, Gutshaus
+origin:
+  name: Erika Garms
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Wootz
+    type: place
+parents:
+  - 01EV0D4XTDHPDC62G2HMCAGK8D
+files:
+  - role: main
+    original_name: P0605.jpg
+    path: files/d3/84/d384c28057f941a7e5e1180a414a2c0488f559cbf35aa501191c3c522cd8310a/original.jpg
+    sha256: d384c28057f941a7e5e1180a414a2c0488f559cbf35aa501191c3c522cd8310a
+    mime: image/jpeg
+    bytes: 26616178
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/d3/84/d384c28057f941a7e5e1180a414a2c0488f559cbf35aa501191c3c522cd8310a/preview-400.b9a1563862da.jpg
+        sha256: b9a1563862dad9a176d78c7516a9fd7ef59dd726c190268b138dab2f18e9dbd4
+        mime: image/jpeg
+        bytes: 71250
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01KBBX5HFERSB6P42JJJ5XPFQW
+type: image
+subtype: print
+title: Postkarte Zadrau, Friedhofskapelle
+description: Postkarte, gelaufen 1944.
+date: "1946"
+origin:
+  name: Christa Wiegmann
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Friedhofskapelle
+    type: building
+  - name: Friedhofskapelle
+    type: building
+files:
+  - role: main
+    original_name: scan_993.tif
+    path: files/8a/f9/8af9b205f9896353c61716fefc5174bf28b3df974e61c982334db2dc12082e36/original.tif
+    sha256: 8af9b205f9896353c61716fefc5174bf28b3df974e61c982334db2dc12082e36
+    mime: image/tiff
+    bytes: 15052734
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8a/f9/8af9b205f9896353c61716fefc5174bf28b3df974e61c982334db2dc12082e36/preview-400.ae98b50bdaa0.jpg
+        sha256: ae98b50bdaa04e227c0299d387307f62cca177339ea2ccf3b25d3f91d77dc313
+        mime: image/jpeg
+        bytes: 22903
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

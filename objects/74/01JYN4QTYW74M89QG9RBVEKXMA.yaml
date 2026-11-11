@@ -1,0 +1,35 @@
+id: 01JYN4QTYW74M89QG9RBVEKXMA
+type: image
+subtype: photo
+title: Mühlenweg, Ecke Marktstraße
+date: 1951/1961
+location: Laase, Scheune
+geocode:
+  lat: 52.9819
+  lon: 11.5835
+  precision: exact
+  source: osm
+origin:
+  name: Rudolf Schulz
+  type: person
+  location: Bömenzien
+files:
+  - role: main
+    original_name: scan_539.tif
+    path: files/24/d4/24d4b1bec27b7ac7f157042f249885f4ae3dd573ec6352a9e65bb35d125487c6/original.tif
+    sha256: 24d4b1bec27b7ac7f157042f249885f4ae3dd573ec6352a9e65bb35d125487c6
+    mime: image/tiff
+    bytes: 25382649
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/24/d4/24d4b1bec27b7ac7f157042f249885f4ae3dd573ec6352a9e65bb35d125487c6/preview-400.01226a6a6881.jpg
+        sha256: 01226a6a68816bcef439f3f93dd9410527421cb9c33215dd46c2d506c31e2093
+        mime: image/jpeg
+        bytes: 57550
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

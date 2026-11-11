@@ -1,0 +1,35 @@
+id: 01FRF22WK4Z1NYAMBARY47M9SP
+type: image
+subtype: print
+title: "Kupferstich: Gartow von der Elbseite, Wittenberge"
+description: Postkarte, gelaufen 1927.
+date: "1928"
+origin:
+  name: Dieter Dreyer
+  type: person
+  location: Gülden
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Karl Matthies
+    type: person
+files:
+  - role: main
+    original_name: scan_326.tif
+    path: files/e1/6e/e16e07717d634cb8cdcc0942a70c5f99c9b52005b810905521297c47242d2b2c/original.tif
+    sha256: e16e07717d634cb8cdcc0942a70c5f99c9b52005b810905521297c47242d2b2c
+    mime: image/tiff
+    bytes: 16481217
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e1/6e/e16e07717d634cb8cdcc0942a70c5f99c9b52005b810905521297c47242d2b2c/preview-400.bc401ac0f1ae.jpg
+        sha256: bc401ac0f1ae4e5b894021b2b87cff012e83b403f4eab6a59519ec57b91e7e64
+        mime: image/jpeg
+        bytes: 39687
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

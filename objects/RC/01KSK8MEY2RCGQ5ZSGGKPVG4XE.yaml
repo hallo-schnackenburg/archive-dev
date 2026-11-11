@@ -1,0 +1,42 @@
+id: 01KSK8MEY2RCGQ5ZSGGKPVG4XE
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Spielmannszug 1843
+description: Anwesend waren 15 Personen.
+date: 1843-12
+location: Seedorf, Schulstraße
+geocode:
+  lat: 53.0813
+  lon: 11.4878
+  precision: street
+  source: osm
+origin:
+  name: Kirchenvorstand Wittenberge
+  type: business
+  location: Schnackenburg
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Kasten 13/104
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Speicher
+    type: building
+  - name: Maifeier 1843
+    type: event
+storage: external
+external:
+  - type: archive
+    site: Stadtarchiv Salzwedel
+    uri: https://stadtarchiv-salzwedel.example.org/objekt/995131
+    note: Seiten 12–19
+  - type: archive
+    site: Kreisarchiv Lüchow-Dannenberg
+    uri: https://kreisarchiv-l-chow-dannenberg.example.org/objekt/855852
+    reference: Hann. 24 Nr. 1159
+    note: Fotoserie, Nr. 3
+    retrieved: 2026-03-21

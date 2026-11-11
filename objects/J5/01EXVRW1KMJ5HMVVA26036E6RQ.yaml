@@ -1,0 +1,47 @@
+id: 01EXVRW1KMJ5HMVVA26036E6RQ
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Hochzeit"
+description: Federzeichnung, laviert.
+location: Kapern, Gartenstraße
+geocode:
+  lat: 53.0881
+  lon: 11.5828
+  precision: exact
+  source: osm
+origin:
+  name: Dieter Bohlmann
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Kasten 7/120
+  note: Schrank B
+subjects:
+  - name: Elfriede Sievers
+    type: person
+parents:
+  - 01M3RT3C17QDA971WE6FYTG43J
+files:
+  - role: main
+    original_name: scan_335.tif
+    path: files/b2/aa/b2aa9fe5a2dc24ecf0a3767d5b6980f7001647fdeb7953d51f248c58a2456e3e/original.tif
+    sha256: b2aa9fe5a2dc24ecf0a3767d5b6980f7001647fdeb7953d51f248c58a2456e3e
+    mime: image/tiff
+    bytes: 20405250
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b2/aa/b2aa9fe5a2dc24ecf0a3767d5b6980f7001647fdeb7953d51f248c58a2456e3e/preview-400.f214b92ffd35.jpg
+        sha256: f214b92ffd357337cf94ba59c9f4e260dd7f403099ad0b67d08098437b1f66c6
+        mime: image/jpeg
+        bytes: 84146
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

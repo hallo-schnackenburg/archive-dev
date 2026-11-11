@@ -1,0 +1,43 @@
+id: 01K3W0FM86RX9NZV9G4HDXXHEW
+type: image
+subtype: plan
+title: Bauplan Torhaus 1889
+description: Mit handschriftlichen Ergänzungen.
+date: 1889/1896
+origin:
+  name: Ernst Wiese
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok 15/025
+subjects:
+  - name: Sturmschaden 1889
+    type: event
+  - name: Tanzsaal
+    type: building
+  - name: Einschulung 1889
+    type: event
+files:
+  - role: main
+    original_name: scan_954.tif
+    path: files/ab/f6/abf6125aa16758dc80fce72c5b60369731c9ae4720e5a3b06d204e1fad632f0d/original.tif
+    sha256: abf6125aa16758dc80fce72c5b60369731c9ae4720e5a3b06d204e1fad632f0d
+    mime: image/tiff
+    bytes: 11172800
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ab/f6/abf6125aa16758dc80fce72c5b60369731c9ae4720e5a3b06d204e1fad632f0d/preview-400.964b4f52fb5a.jpg
+        sha256: 964b4f52fb5a2a3ffb1cbaf91ab9df4997939bc687bf566e301a73c45f4ebe04
+        mime: image/jpeg
+        bytes: 44441
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

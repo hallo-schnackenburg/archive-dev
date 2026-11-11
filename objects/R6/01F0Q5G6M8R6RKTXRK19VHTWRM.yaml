@@ -1,0 +1,65 @@
+id: 01F0Q5G6M8R6RKTXRK19VHTWRM
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Pretzier 1903
+date: "1903"
+origin:
+  name: Samtgemeinderat Holtorf
+  type: business
+  location: Dömitz
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Fotos 22/093
+subjects:
+  - name: Dieter Schulz
+    type: person
+  - name: Dorfladen
+    type: building
+parents:
+  - 01JDVF1103F03HCTM49T0G4EC6
+  - 01F54Y44HWBYAXTTC3F5NVVN21
+files:
+  - role: page
+    num: 1
+    original_name: protocol_vhtwrm_001.tif
+    path: files/23/90/2390f01f71e9796af6cb2da7dc079361b692372be927bd4af76b467c0a9a5661/original.tif
+    sha256: 2390f01f71e9796af6cb2da7dc079361b692372be927bd4af76b467c0a9a5661
+    mime: image/tiff
+    bytes: 23147466
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/23/90/2390f01f71e9796af6cb2da7dc079361b692372be927bd4af76b467c0a9a5661/preview-400.160192ecf975.jpg
+        sha256: 160192ecf9759d649cd0e744f67e4450dada9f1f696d0868790df2ba5035a653
+        mime: image/jpeg
+        bytes: 77735
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_vhtwrm_002.tif
+    path: files/66/1b/661b2bb096a5a39a15e05ea40386b2122c13459973bf7d5f879694a83d8bef3e/original.tif
+    sha256: 661b2bb096a5a39a15e05ea40386b2122c13459973bf7d5f879694a83d8bef3e
+    mime: image/tiff
+    bytes: 15067300
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/66/1b/661b2bb096a5a39a15e05ea40386b2122c13459973bf7d5f879694a83d8bef3e/preview-400.8cfe8a76486c.jpg
+        sha256: 8cfe8a76486caa13c16795905a66bd4b3942bbf0b0d34e7d53bd0d40399072c3
+        mime: image/jpeg
+        bytes: 43438
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

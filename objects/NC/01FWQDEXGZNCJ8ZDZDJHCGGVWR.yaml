@@ -1,0 +1,37 @@
+id: 01FWQDEXGZNCJ8ZDZDJHCGGVWR
+type: image
+subtype: photo
+title: Dieter Hennings vor dem Schützenhaus
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1979"
+location: Kapern, Mühlenweg
+geocode:
+  lat: 53.0693
+  lon: 11.5278
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+files:
+  - role: main
+    original_name: IMG_3186.jpg
+    path: files/98/60/9860c1da6d7dadc4cb720fa98c6b5ac7475515e4fd50ab915483eeae12c2874f/original.jpg
+    sha256: 9860c1da6d7dadc4cb720fa98c6b5ac7475515e4fd50ab915483eeae12c2874f
+    mime: image/jpeg
+    bytes: 8858038
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/98/60/9860c1da6d7dadc4cb720fa98c6b5ac7475515e4fd50ab915483eeae12c2874f/preview-400.ee499826a6a9.jpg
+        sha256: ee499826a6a9d8c66a3d0c288f83f171929b6a48f16ee1a2f5400918ee846cd4
+        mime: image/jpeg
+        bytes: 63914
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

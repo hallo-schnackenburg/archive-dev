@@ -1,0 +1,40 @@
+id: 01JR2YD84HJ0HFM34TPJ2E5SZ5
+type: image
+subtype: plan
+title: Bauplan Schlachterei 1946
+date: 1946?
+origin:
+  name: Hedwig Kuhlmann
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Kellerarchiv
+subjects:
+  - name: Windmühle
+    type: building
+parents:
+  - 01JSYB7Z03WSNMJ0H37E7BWCQW
+files:
+  - role: main
+    original_name: scan_495.tif
+    path: files/b5/c1/b5c15c171e0d44fbecd7d11ac3c5ab97703b7402d04aee6980efdb0e2cd566d0/original.tif
+    sha256: b5c15c171e0d44fbecd7d11ac3c5ab97703b7402d04aee6980efdb0e2cd566d0
+    mime: image/tiff
+    bytes: 19730351
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b5/c1/b5c15c171e0d44fbecd7d11ac3c5ab97703b7402d04aee6980efdb0e2cd566d0/preview-400.f0f8536c50b6.jpg
+        sha256: f0f8536c50b67bfb529d48b26d55ad1bb4916d51c1f6e19d5ede2ceb20fbb8a8
+        mime: image/jpeg
+        bytes: 53725
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

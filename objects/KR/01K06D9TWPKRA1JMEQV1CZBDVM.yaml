@@ -1,0 +1,41 @@
+id: 01K06D9TWPKRA1JMEQV1CZBDVM
+type: image
+subtype: photo
+title: Apotheke nach dem Straßenfest
+description: Zu sehen sind Dorfkrug und Schützenhaus.
+date: 1928~
+location: Seedorf, Bahnhofstraße
+origin:
+  name: Otto Timm
+  type: person
+  location: Kapern
+subjects:
+  - name: Hafen
+    type: building
+  - name: Maifeier 1928
+    type: event
+  - name: Elfriede Nitschke
+    type: person
+parents:
+  - 01FX13NA4AT0PM3FBRV1XBR89T
+  - 01F5CNJT1P56W2G465BH02E933
+files:
+  - role: main
+    original_name: scan_369.tif
+    path: files/74/c4/74c42b92e3dff253c65926c6b9ff059ee692c08bbaa2482587cdbcfac5628f15/original.tif
+    sha256: 74c42b92e3dff253c65926c6b9ff059ee692c08bbaa2482587cdbcfac5628f15
+    mime: image/tiff
+    bytes: 6377132
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/74/c4/74c42b92e3dff253c65926c6b9ff059ee692c08bbaa2482587cdbcfac5628f15/preview-400.db5be44ca427.jpg
+        sha256: db5be44ca427b922f14c38461cf4d59467bfe38127c5b609ae7e36fa6b639940
+        mime: image/jpeg
+        bytes: 28818
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01KGFN6FJXZAAR437G059VWTKW
+type: image
+subtype: print
+title: Lithographie Kirche St. Johannis
+description: Lithographie, Rand beschnitten.
+date: 1880/1883
+location: Salzwedel, Molkerei
+geocode:
+  lat: 52.9796
+  lon: 11.5856
+  precision: region
+  source: osm
+subjects:
+  - name: Speicher
+    type: building
+files:
+  - role: main
+    original_name: scan_014.tif
+    path: files/b1/db/b1dbb332302cd79d8a02876a86c37decb48f1170f4a6a5e5ccbe79bd49f8d8e7/original.tif
+    sha256: b1dbb332302cd79d8a02876a86c37decb48f1170f4a6a5e5ccbe79bd49f8d8e7
+    mime: image/tiff
+    bytes: 14827697
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b1/db/b1dbb332302cd79d8a02876a86c37decb48f1170f4a6a5e5ccbe79bd49f8d8e7/preview-400.61cac52c3db5.jpg
+        sha256: 61cac52c3db592621b52e8af1ec84b5f06134bf70f8eec0cf726af60ace8dd69
+        mime: image/jpeg
+        bytes: 42967
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

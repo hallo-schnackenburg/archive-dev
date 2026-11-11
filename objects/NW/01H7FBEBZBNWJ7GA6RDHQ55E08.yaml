@@ -1,0 +1,42 @@
+id: 01H7FBEBZBNWJ7GA6RDHQ55E08
+type: image
+subtype: photo
+title: Emma Sievers vor dem Friedhofskapelle
+date: "1921"
+location: Wootz, Mühlenweg
+geocode:
+  lat: 52.9862
+  lon: 11.6549
+  precision: exact
+  source: osm
+origin:
+  name: Berta Voss
+  type: person
+  location: Havelberg
+subjects:
+  - name: Ilse Lemke
+    type: person
+  - name: Scheune
+    type: building
+  - name: Irmgard Jeß
+    type: person
+files:
+  - role: main
+    original_name: foto_3187.jpg
+    path: files/7f/d0/7fd0b4897444b9f42142067831a7a2e1bf4fc265ce35c4cc1e62d42ef8b9763d/original.jpg
+    sha256: 7fd0b4897444b9f42142067831a7a2e1bf4fc265ce35c4cc1e62d42ef8b9763d
+    mime: image/jpeg
+    bytes: 26246656
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7f/d0/7fd0b4897444b9f42142067831a7a2e1bf4fc265ce35c4cc1e62d42ef8b9763d/preview-400.6c6cea28f243.jpg
+        sha256: 6c6cea28f243f8492ea8a00ffe0973e3a5c103da0b497d6273dcb22bb032d774
+        mime: image/jpeg
+        bytes: 73338
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

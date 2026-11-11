@@ -1,0 +1,44 @@
+id: 01KCX0K3PD4HMW6435N1NH232Z
+type: image
+subtype: photo
+title: Friedrich Ahrens, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 2002~
+location: Salzwedel, Gartenstraße
+origin:
+  name: August Rieke
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Album 8/069
+subjects:
+  - name: Heinrich Schulz
+    type: person
+  - name: Lanz
+    type: place
+parents:
+  - 01F0XSSMANGM9PNX5YW1P1YTG6
+files:
+  - role: main
+    original_name: foto_6474.jpg
+    path: files/b1/01/b101e2aab0c6b58acdc777ea3de8f64bf75ccc58c03cd425422a185b8851a997/original.jpg
+    sha256: b101e2aab0c6b58acdc777ea3de8f64bf75ccc58c03cd425422a185b8851a997
+    mime: image/jpeg
+    bytes: 23482744
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b1/01/b101e2aab0c6b58acdc777ea3de8f64bf75ccc58c03cd425422a185b8851a997/preview-400.b2441eb3f845.jpg
+        sha256: b2441eb3f84517b58fb90df59553337ca7bab07591e916522f16bbcf22cf8d41
+        mime: image/jpeg
+        bytes: 24888
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01KRZ2KZ89EE5SXB3NM9ZG9V6N
+type: image
+subtype: plan
+title: Bauplan Windmühle 1756
+description: Maßstab 1:100.
+location: Lüchow, Hafen
+subjects:
+  - name: Heinrich Klatt
+    type: person
+  - name: Tanzsaal
+    type: building
+files:
+  - role: main
+    original_name: scan_026.tif
+    path: files/ee/ac/eeac193ca6dec8da37eb5d58da0a3a4e6d1ef565fb487b048b8229b17b671d23/original.tif
+    sha256: eeac193ca6dec8da37eb5d58da0a3a4e6d1ef565fb487b048b8229b17b671d23
+    mime: image/tiff
+    bytes: 25769237
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ee/ac/eeac193ca6dec8da37eb5d58da0a3a4e6d1ef565fb487b048b8229b17b671d23/preview-400.fe3d2d7d6ea8.jpg
+        sha256: fe3d2d7d6ea8dfd77c6fc64cb313bb1ba7d85b3c71d182e6ad9e6f05ea796f53
+        mime: image/jpeg
+        bytes: 26115
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

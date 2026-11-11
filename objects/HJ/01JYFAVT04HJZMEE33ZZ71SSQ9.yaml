@@ -1,0 +1,68 @@
+id: 01JYFAVT04HJZMEE33ZZ71SSQ9
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Straßenbeleuchtung 1852
+date: 1852-02
+origin:
+  name: Verbandsversammlung Rüterberg
+  type: business
+  location: Gorleben
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 17/377
+owner:
+  name: Paul Meyer
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Tischlerei Bruns
+    type: building
+  - name: Sportplatz
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: protocol_71ssq9_001.tif
+    path: files/7b/c2/7bc2d5ab7fa3a800d93f3479728e3d45a767f9194839bc5bbf7c1a58f2020e54/original.tif
+    sha256: 7bc2d5ab7fa3a800d93f3479728e3d45a767f9194839bc5bbf7c1a58f2020e54
+    mime: image/tiff
+    bytes: 12650273
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7b/c2/7bc2d5ab7fa3a800d93f3479728e3d45a767f9194839bc5bbf7c1a58f2020e54/preview-400.b56261f7bbad.jpg
+        sha256: b56261f7bbad0c4e01a6288dac5d5429c0706a9305ba6029f402d3751055fdd6
+        mime: image/jpeg
+        bytes: 48187
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_71ssq9_002.tif
+    path: files/69/6f/696fe6db43881841afb3fdd4422aa4e70efa1e8afed59bc12bfa6dc3cb660ec7/original.tif
+    sha256: 696fe6db43881841afb3fdd4422aa4e70efa1e8afed59bc12bfa6dc3cb660ec7
+    mime: image/tiff
+    bytes: 15523405
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/69/6f/696fe6db43881841afb3fdd4422aa4e70efa1e8afed59bc12bfa6dc3cb660ec7/preview-400.75e5a703d773.jpg
+        sha256: 75e5a703d77375eae5eee6f555199a42be38aa12cd5116dd2dfad3d33c071f90
+        mime: image/jpeg
+        bytes: 37541
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

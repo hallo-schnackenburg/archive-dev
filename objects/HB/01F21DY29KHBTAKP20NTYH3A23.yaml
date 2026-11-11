@@ -1,0 +1,38 @@
+id: 01F21DY29KHBTAKP20NTYH3A23
+type: image
+subtype: photo
+title: Otto Lemke, Porträt
+date: "1899"
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg 32/152
+subjects:
+  - name: Osterfeuer 1899
+    type: event
+  - name: Dieter Schwarz
+    type: person
+  - name: Lanz
+    type: place
+files:
+  - role: main
+    original_name: scan_503.tif
+    path: files/32/57/3257139b9c1f3cb21d45c7933b3ba633f14b41e0835a23ca7bed62381dd5889d/original.tif
+    sha256: 3257139b9c1f3cb21d45c7933b3ba633f14b41e0835a23ca7bed62381dd5889d
+    mime: image/tiff
+    bytes: 13065520
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/32/57/3257139b9c1f3cb21d45c7933b3ba633f14b41e0835a23ca7bed62381dd5889d/preview-400.2e30ef7a549b.jpg
+        sha256: 2e30ef7a549b0a43d93221ca5cdd797d3ac1ff7fed8bf3676dfd467c531eda7f
+        mime: image/jpeg
+        bytes: 25493
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

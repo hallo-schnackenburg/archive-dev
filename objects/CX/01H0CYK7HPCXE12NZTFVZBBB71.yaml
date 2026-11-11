@@ -1,0 +1,37 @@
+id: 01H0CYK7HPCXE12NZTFVZBBB71
+type: image
+subtype: photo
+title: Sparkasse in Dömitz
+date: 1890-07
+origin:
+  name: Otto Schwarz
+  type: person
+  location: Laase
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: Gorleben
+    type: place
+parents:
+  - 01FA78F7DCMY60051YNWVNSZ2X
+  - 01JAG0VN6X3TDF0BEKQ3Q9ZYWP
+files:
+  - role: main
+    original_name: P9351.jpg
+    path: files/f1/38/f1380368e32b07542c52b2cb5427b049dd8f2f5bd4bdd597af75188702dfefc5/original.jpg
+    sha256: f1380368e32b07542c52b2cb5427b049dd8f2f5bd4bdd597af75188702dfefc5
+    mime: image/jpeg
+    bytes: 19785856
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/f1/38/f1380368e32b07542c52b2cb5427b049dd8f2f5bd4bdd597af75188702dfefc5/preview-400.27bfec9c3fd6.jpg
+        sha256: 27bfec9c3fd69495d6135bb7d34823a453864bd3230e91781db1cd1ffffb4955
+        mime: image/jpeg
+        bytes: 77751
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

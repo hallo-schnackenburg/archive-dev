@@ -1,0 +1,44 @@
+id: 01F1DQ0J1FARCKH1JV8B68MR2M
+type: document
+subtype: letter
+title: Feldpostbrief von Dieter Lenz
+description: Handschriftlich, 2 Seiten.
+location: Lüchow, Deichstraße
+geocode:
+  lat: 52.9116
+  lon: 11.4793
+  precision: exact
+  source: osm
+origin:
+  name: Emma Hennings
+  type: person
+  location: Dömitz
+language: de
+subjects:
+  - name: Einschulung 1822
+    type: event
+  - name: Lanz
+    type: place
+  - name: Richtfest 1822
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_68mr2m_001.tif
+    path: files/40/fc/40fca894218d435cca11f9f3bfd69c999133b17ac1c2aee5dbfe5fd4ccf59117/original.tif
+    sha256: 40fca894218d435cca11f9f3bfd69c999133b17ac1c2aee5dbfe5fd4ccf59117
+    mime: image/tiff
+    bytes: 19681194
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/fc/40fca894218d435cca11f9f3bfd69c999133b17ac1c2aee5dbfe5fd4ccf59117/preview-400.094e35623bd1.jpg
+        sha256: 094e35623bd1accb66b3169fdb1141c283000481c9325d8f824214978cc753b0
+        mime: image/jpeg
+        bytes: 59816
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

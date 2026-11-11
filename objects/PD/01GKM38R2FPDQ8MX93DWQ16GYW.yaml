@@ -1,0 +1,37 @@
+id: 01GKM38R2FPDQ8MX93DWQ16GYW
+type: image
+subtype: plan
+title: Deichplan Kapern bis Havelberg
+date: 1939-01-16
+location: Laase, Gartenstraße
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Gemeindehaus
+    type: building
+parents:
+  - 01HDS44JS4B8GN7QC5M5DZA42B
+  - 01FHAJMC0QDXRYDR1PV64RNJKV
+files:
+  - role: main
+    original_name: scan_022.tif
+    path: files/84/1d/841d8b46180c72287bc275c00b4642f84f6dba584ba305944ac5c9ed5ffa7e4d/original.tif
+    sha256: 841d8b46180c72287bc275c00b4642f84f6dba584ba305944ac5c9ed5ffa7e4d
+    mime: image/tiff
+    bytes: 11020155
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/84/1d/841d8b46180c72287bc275c00b4642f84f6dba584ba305944ac5c9ed5ffa7e4d/preview-400.70384b0a353e.jpg
+        sha256: 70384b0a353e1b67f1a0b7abce7546385f77edac95c852ddd8c92b686f6f0b11
+        mime: image/jpeg
+        bytes: 69800
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

@@ -1,0 +1,38 @@
+id: 01H64EE4EZA0ZAGV8TG2ZNKHMQ
+type: image
+subtype: photo
+title: Fastnacht 1946
+description: Abzug im Format 10 x 15 cm.
+date: 1946-04-04
+origin:
+  name: Walter Wegner
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Familie Ahrens
+    type: person
+    location: Hitzacker
+parents:
+  - 01J035Y4PJ757ZX8Y4WBMZGKNQ
+  - 01G0S6J3X949EDC2990D03JYRW
+files:
+  - role: main
+    original_name: scan_574.tif
+    path: files/cb/4a/cb4a431ff07c59e6a74fdd0ea36ea5410fb8da9ac74798f7d093a4000c734e68/original.tif
+    sha256: cb4a431ff07c59e6a74fdd0ea36ea5410fb8da9ac74798f7d093a4000c734e68
+    mime: image/tiff
+    bytes: 18488945
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cb/4a/cb4a431ff07c59e6a74fdd0ea36ea5410fb8da9ac74798f7d093a4000c734e68/preview-400.8c96e346285c.jpg
+        sha256: 8c96e346285cb5db50c94210db94d821bf4b1687eb925a95d79fe4b4a3d3a7a7
+        mime: image/jpeg
+        bytes: 87645
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

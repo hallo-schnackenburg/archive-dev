@@ -1,0 +1,37 @@
+id: 01JGVRC1BCMRH29D2K2FEW8013
+type: image
+subtype: print
+title: Postkarte Wittenberge, Schützenhaus
+date: 1734/1739
+origin:
+  name: Karl Harms
+  type: person
+  location: Seedorf
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Erika Ahrens
+    type: person
+parents:
+  - 01KFJF1DM6WA2NVDNSAADJ19BQ
+  - 01HTZ3ZVCQNEKM8ZRY48BPENG4
+files:
+  - role: main
+    original_name: scan_469.tif
+    path: files/1c/04/1c04faf36cd1bf1100824ef92b94b154add3f0aa4b11a9bc8091b219d0e78a78/original.tif
+    sha256: 1c04faf36cd1bf1100824ef92b94b154add3f0aa4b11a9bc8091b219d0e78a78
+    mime: image/tiff
+    bytes: 17887335
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1c/04/1c04faf36cd1bf1100824ef92b94b154add3f0aa4b11a9bc8091b219d0e78a78/preview-400.5a028b063f9d.jpg
+        sha256: 5a028b063f9d79414556deaaab66a2dc64c17b2d95031617e230838c2cbe09c1
+        mime: image/jpeg
+        bytes: 54705
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

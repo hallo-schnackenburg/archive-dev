@@ -1,0 +1,65 @@
+id: 01GG1WAD6TAQG0NTRN94F4ZQFB
+type: document
+subtype: letter
+title: Hans Lemke an die Gemeinde wegen Wohnungsnot
+date: "1849"
+location: Zadrau, Gartenstraße
+origin:
+  name: Gerda Brandt
+  type: person
+  location: Wittenberge
+recipient: Friedrich Meyer
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok 24/017
+subjects:
+  - name: Ilse Ludolf
+    type: person
+parents:
+  - 01FJ86NA6W3C03D1PBGTPFRX8T
+  - 01HP82YB6MPZJ20Z4EGHA5QYFX
+files:
+  - role: page
+    num: 1
+    original_name: letter_f4zqfb_001.tif
+    path: files/60/00/60002e7435a5ed4cf7009a5441dbf355c4b8a70d9d156580e80634168dc090d6/original.tif
+    sha256: 60002e7435a5ed4cf7009a5441dbf355c4b8a70d9d156580e80634168dc090d6
+    mime: image/tiff
+    bytes: 23602008
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/60/00/60002e7435a5ed4cf7009a5441dbf355c4b8a70d9d156580e80634168dc090d6/preview-400.2b449de37237.jpg
+        sha256: 2b449de372374df42fe7589a56abfc04c4d5ab31ecc7828337706280c111fd33
+        mime: image/jpeg
+        bytes: 77395
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_f4zqfb_002.tif
+    path: files/80/d3/80d326bfb2e05d8a342f911246de998a3999361d97a51daa4e4f172292f2e565/original.tif
+    sha256: 80d326bfb2e05d8a342f911246de998a3999361d97a51daa4e4f172292f2e565
+    mime: image/tiff
+    bytes: 2815654
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/d3/80d326bfb2e05d8a342f911246de998a3999361d97a51daa4e4f172292f2e565/preview-400.30fb11a01013.jpg
+        sha256: 30fb11a01013fa1c80bdcd918b9142767eccfbac0b708e11b4870c5425649d28
+        mime: image/jpeg
+        bytes: 75034
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

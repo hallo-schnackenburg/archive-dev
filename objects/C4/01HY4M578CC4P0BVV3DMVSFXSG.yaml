@@ -1,0 +1,50 @@
+id: 01HY4M578CC4P0BVV3DMVSFXSG
+type: image
+subtype: plan
+title: Deichplan Havelberg bis Schnackenburg
+date: 1835-06
+location: Pretzier, Apotheke
+geocode:
+  lat: 52.9486
+  lon: 11.6603
+  precision: town
+  source: osm
+origin:
+  name: August Behrens
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 34/288
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Beerdigung 1835
+    type: event
+  - name: Kriegerdenkmal
+    type: building
+parents:
+  - 01H7TAC1S0T298G0K08CGYD8Q7
+files:
+  - role: main
+    original_name: scan_542.tif
+    path: files/12/9e/129e1d5c37e342441432098a08db807043a435445165532d2f0b38f818481531/original.tif
+    sha256: 129e1d5c37e342441432098a08db807043a435445165532d2f0b38f818481531
+    mime: image/tiff
+    bytes: 1547719
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/12/9e/129e1d5c37e342441432098a08db807043a435445165532d2f0b38f818481531/preview-400.d9a270877242.jpg
+        sha256: d9a270877242e2700337619b48b8db83756d482f57a4416edbd3397bc6dc21e8
+        mime: image/jpeg
+        bytes: 28235
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

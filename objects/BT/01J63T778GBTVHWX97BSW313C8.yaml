@@ -1,0 +1,38 @@
+id: 01J63T778GBTVHWX97BSW313C8
+type: image
+subtype: plan
+title: Lageplan Gasthof „Zur Elbe“
+description: Mit handschriftlichen Ergänzungen.
+date: 1970-06-27
+location: Cumlosen, Pfarrhaus
+origin:
+  name: Gerda Ihde
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Bömenzien
+    type: place
+  - name: Kartoffelernte 1970
+    type: event
+  - name: Sturmschaden 1970
+    type: event
+files:
+  - role: main
+    original_name: scan_462.tif
+    path: files/a2/24/a22484cb1c492e12b77d49b734cffb5694343632676dbb93e0eed8536a40cda6/original.tif
+    sha256: a22484cb1c492e12b77d49b734cffb5694343632676dbb93e0eed8536a40cda6
+    mime: image/tiff
+    bytes: 9467606
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a2/24/a22484cb1c492e12b77d49b734cffb5694343632676dbb93e0eed8536a40cda6/preview-400.244e4987a34a.jpg
+        sha256: 244e4987a34aafb15e7d8ae1651bf5ed8b8bca8da9bf2bc5f422184815381172
+        mime: image/jpeg
+        bytes: 41408
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

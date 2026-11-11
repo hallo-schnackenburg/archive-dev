@@ -1,0 +1,42 @@
+id: 01GQYFXKTC97DCFCK180J492RS
+type: document
+subtype: letter
+title: Schreiben der Angelverein an den Samtgemeinderat
+description: Handschriftlich, 1 Seiten.
+date: 1966-06-13
+location: Dömitz, Gartenstraße
+geocode:
+  lat: 53.0476
+  lon: 11.6223
+  precision: street
+  source: osm
+recipient: Wilhelm Schulz
+language: de
+subjects:
+  - name: Kapern
+    type: place
+  - name: Eisgang 1966
+    type: event
+  - name: Dömitz
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_j492rs_001.tif
+    path: files/2b/cd/2bcd07e69382b58c2dd16a7860a5108dcced6c0482fc260ee1b25f33b71d781e/original.tif
+    sha256: 2bcd07e69382b58c2dd16a7860a5108dcced6c0482fc260ee1b25f33b71d781e
+    mime: image/tiff
+    bytes: 26978687
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2b/cd/2bcd07e69382b58c2dd16a7860a5108dcced6c0482fc260ee1b25f33b71d781e/preview-400.40c05b3b022b.jpg
+        sha256: 40c05b3b022b26deb9a8e2c861cd1c34423f54aa399c04e7cb1e3b1e7cc04c64
+        mime: image/jpeg
+        bytes: 43244
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

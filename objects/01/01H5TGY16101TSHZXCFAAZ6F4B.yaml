@@ -1,0 +1,43 @@
+id: 01H5TGY16101TSHZXCFAAZ6F4B
+type: image
+subtype: photo
+title: Gasthof „Zur Elbe“ in Lenzen
+description: Farbfoto, leicht verblasst.
+date: "1963"
+location: Restorf, Kirchstraße
+geocode:
+  lat: 52.9338
+  lon: 11.6142
+  precision: town
+  source: osm
+origin:
+  name: August Wegner
+  type: person
+  location: Arendsee
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: Konfirmation 1963
+    type: event
+parents:
+  - 01K0DYSTF2EJ283ADN76W7FBTC
+files:
+  - role: main
+    original_name: foto_8565.jpg
+    path: files/98/5e/985e20f9094dda0d663fd9afc85d99a3d8914c556fe651227b2dd0cc16aa55ef/original.jpg
+    sha256: 985e20f9094dda0d663fd9afc85d99a3d8914c556fe651227b2dd0cc16aa55ef
+    mime: image/jpeg
+    bytes: 14261708
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/98/5e/985e20f9094dda0d663fd9afc85d99a3d8914c556fe651227b2dd0cc16aa55ef/preview-400.9bc50d6816bf.jpg
+        sha256: 9bc50d6816bf94b61eb46c567b703c32e4eb77185b4519b8374ff78418ea90e5
+        mime: image/jpeg
+        bytes: 49566
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

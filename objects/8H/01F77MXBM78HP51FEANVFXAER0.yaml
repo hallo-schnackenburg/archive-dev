@@ -1,0 +1,45 @@
+id: 01F77MXBM78HP51FEANVFXAER0
+type: image
+subtype: photo
+title: Ursula Behrens, Porträt
+description: Zu sehen sind Feuerwehrhaus und Hafen.
+date: 197X
+location: Holtorf, Gasthof „Zur Elbe“
+geocode:
+  lat: 52.9868
+  lon: 11.5565
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos/Kasten 19/081
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Dieter Wöhlk
+    type: person
+  - name: Schnackenburg
+    type: place
+files:
+  - role: main
+    original_name: foto_6513.jpg
+    path: files/43/b3/43b371dbb7ab081cf9ea08b860f2feda36123460155c06b845a7b3bdee9b77e7/original.jpg
+    sha256: 43b371dbb7ab081cf9ea08b860f2feda36123460155c06b845a7b3bdee9b77e7
+    mime: image/jpeg
+    bytes: 10175800
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/43/b3/43b371dbb7ab081cf9ea08b860f2feda36123460155c06b845a7b3bdee9b77e7/preview-400.12fed3fd2384.jpg
+        sha256: 12fed3fd238401478a305988f997e0aadb411df3d65ea5096d5af10b1ed3e4a8
+        mime: image/jpeg
+        bytes: 54808
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

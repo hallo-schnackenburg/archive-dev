@@ -1,0 +1,39 @@
+id: 01H8HGHW9BFENA9RVB9FNPSE3Y
+type: image
+subtype: photo
+title: Kartoffelernte 1909
+description: Zu sehen sind Kaufmannshaus und Schlachterei.
+date: "1909"
+origin:
+  name: Dieter Schulz
+  type: person
+  location: Laase
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Bömenzien
+    type: place
+  - name: Dieter Kuhlmann
+    type: person
+parents:
+  - 01KRNVBSTXBJR5NRDE3HAC7HXQ
+files:
+  - role: main
+    original_name: IMG_4322.jpg
+    path: files/28/02/2802e642f1f7bd802314348235d298a23811d37b749159c8cce4a3585fcaaddd/original.jpg
+    sha256: 2802e642f1f7bd802314348235d298a23811d37b749159c8cce4a3585fcaaddd
+    mime: image/jpeg
+    bytes: 5200703
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/28/02/2802e642f1f7bd802314348235d298a23811d37b749159c8cce4a3585fcaaddd/preview-400.a5ac9a763d26.jpg
+        sha256: a5ac9a763d26d5dc2bcf1fb3513e0fbe3c5ab177a7915bd56dcc809cd9ef23cf
+        mime: image/jpeg
+        bytes: 30506
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

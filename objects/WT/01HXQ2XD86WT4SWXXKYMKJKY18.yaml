@@ -1,0 +1,35 @@
+id: 01HXQ2XD86WT4SWXXKYMKJKY18
+type: image
+subtype: plan
+title: Bauplan Sparkasse 1764
+description: Tusche auf Transparentpapier.
+date: 1764-07-19
+location: Restorf, Mühlenweg
+geocode:
+  lat: 52.9221
+  lon: 11.6591
+  precision: street
+  source: osm
+subjects:
+  - name: Försterei
+    type: building
+files:
+  - role: main
+    original_name: scan_971.tif
+    path: files/a2/5d/a25df2a80b5fe42556d02178e512b88e03205c143ad8a2212bfd5194684c75ab/original.tif
+    sha256: a25df2a80b5fe42556d02178e512b88e03205c143ad8a2212bfd5194684c75ab
+    mime: image/tiff
+    bytes: 16909440
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a2/5d/a25df2a80b5fe42556d02178e512b88e03205c143ad8a2212bfd5194684c75ab/preview-400.eff0b233e963.jpg
+        sha256: eff0b233e96329dd8243442c3a47b364e1e49ff8c7eca70bbad001f73f52bf0c
+        mime: image/jpeg
+        bytes: 68005
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

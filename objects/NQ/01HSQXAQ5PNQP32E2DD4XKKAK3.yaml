@@ -1,0 +1,40 @@
+id: 01HSQXAQ5PNQP32E2DD4XKKAK3
+type: image
+subtype: print
+title: Postkarte Lenzen, Elbdeich
+description: Postkarte, gelaufen 1934.
+origin:
+  name: Emma Meyer
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Familie Dreyer
+    type: person
+    location: Bömenzien
+  reference: Plan/Mappe 3/103
+subjects:
+  - name: Erika Plate
+    type: person
+  - name: Schlachterei
+    type: building
+files:
+  - role: main
+    original_name: scan_588.tif
+    path: files/79/00/79007048b75d54405f173cba3cad206dfed09f152df73ebc751de7867c129dd8/original.tif
+    sha256: 79007048b75d54405f173cba3cad206dfed09f152df73ebc751de7867c129dd8
+    mime: image/tiff
+    bytes: 25933855
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/79/00/79007048b75d54405f173cba3cad206dfed09f152df73ebc751de7867c129dd8/preview-400.19982ed1d0c8.jpg
+        sha256: 19982ed1d0c88d53113ae379be36f38942d3f6b257e3666f9a2a00088f79fc6a
+        mime: image/jpeg
+        bytes: 33559
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

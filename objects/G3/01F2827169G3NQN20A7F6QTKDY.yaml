@@ -1,0 +1,31 @@
+id: 01F2827169G3NQN20A7F6QTKDY
+type: image
+subtype: print
+title: Gruß aus Nienwalde, Zadrau
+date: 1733-03
+origin:
+  name: Karl Wiegmann
+  type: person
+  location: Nienwalde
+parents:
+  - 01J5CY5YG0F694895WWHN65481
+files:
+  - role: main
+    original_name: scan_896.tif
+    path: files/18/ac/18ac474d57b33f6729426cb0fd5fb1dca2da321e99c4ca0ea5206a7f29d3c297/original.tif
+    sha256: 18ac474d57b33f6729426cb0fd5fb1dca2da321e99c4ca0ea5206a7f29d3c297
+    mime: image/tiff
+    bytes: 24917092
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/18/ac/18ac474d57b33f6729426cb0fd5fb1dca2da321e99c4ca0ea5206a7f29d3c297/preview-400.be1887b2314b.jpg
+        sha256: be1887b2314b89ff5d95520b9398969d319ad066d158e3e14a8e4173a104b452
+        mime: image/jpeg
+        bytes: 69446
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

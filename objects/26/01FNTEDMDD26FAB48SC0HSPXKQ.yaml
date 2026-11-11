@@ -1,0 +1,40 @@
+id: 01FNTEDMDD26FAB48SC0HSPXKQ
+type: image
+subtype: photo
+title: Paul Tiedemann vor dem Dorfkrug
+date: "1954"
+location: Nienwalde, Burgstraße
+origin:
+  name: Erika Albers
+  type: person
+  location: Wustrow
+subjects:
+  - name: Hochzeit 1954
+    type: event
+  - name: Kirmes 1954
+    type: event
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01FJ86NA6W3C03D1PBGTPFRX8T
+  - 01KWT1T4KB5Q91S1TWXMCRMNCD
+files:
+  - role: main
+    original_name: P1869.jpg
+    path: files/07/82/078266f7fc6d76eb304ef2d918a2c1d3dd9ba1d0f12b4416d9fa4e50f75d659b/original.jpg
+    sha256: 078266f7fc6d76eb304ef2d918a2c1d3dd9ba1d0f12b4416d9fa4e50f75d659b
+    mime: image/jpeg
+    bytes: 4272492
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/07/82/078266f7fc6d76eb304ef2d918a2c1d3dd9ba1d0f12b4416d9fa4e50f75d659b/preview-400.df9e269dcf1d.jpg
+        sha256: df9e269dcf1dd7bc1b531b8722d4f1569195c06f70799db3a62c3c6b2151f8bc
+        mime: image/jpeg
+        bytes: 80981
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

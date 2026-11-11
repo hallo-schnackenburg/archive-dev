@@ -1,0 +1,36 @@
+id: 01H31VBSD0WN65G0SBEH24CYZM
+type: image
+subtype: photo
+title: Einweihung 1937
+description: Zu sehen sind Windmühle und Kriegerdenkmal.
+date: 1937-05-09
+origin:
+  name: Otto Brandt
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Familie Pape
+    type: person
+    location: Wootz
+  reference: Dok 1/066
+files:
+  - role: main
+    original_name: DSC0816.jpg
+    path: files/1f/d5/1fd5b6dc4cae03dd535b59c70265298016e31461da79552aae301421a11b253b/original.jpg
+    sha256: 1fd5b6dc4cae03dd535b59c70265298016e31461da79552aae301421a11b253b
+    mime: image/jpeg
+    bytes: 10822658
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/1f/d5/1fd5b6dc4cae03dd535b59c70265298016e31461da79552aae301421a11b253b/preview-400.dbb6c32356b3.jpg
+        sha256: dbb6c32356b3a228790bf6a9a97ed825417c6102db91bde6dad20bd0a20768e9
+        mime: image/jpeg
+        bytes: 84873
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

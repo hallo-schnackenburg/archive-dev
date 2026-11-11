@@ -1,0 +1,38 @@
+id: 01KV2596AS7DSV3MFRZEGEMSTS
+type: image
+subtype: photo
+title: Blick vom Zollamt auf das Gutshaus
+date: "1926"
+location: Lenzen, Pfarrhaus
+geocode:
+  lat: 52.9933
+  lon: 11.5405
+  precision: town
+  source: osm
+subjects:
+  - name: Beerdigung 1926
+    type: event
+  - name: Käthe Ahrens
+    type: person
+  - name: Feuerwehrübung 1926
+    type: event
+files:
+  - role: main
+    original_name: foto_6225.jpg
+    path: files/5e/bb/5ebb001f66d799b010e60ad1d01c68e96f53fa21262edd5b1f219220ce663738/original.jpg
+    sha256: 5ebb001f66d799b010e60ad1d01c68e96f53fa21262edd5b1f219220ce663738
+    mime: image/jpeg
+    bytes: 9541392
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/5e/bb/5ebb001f66d799b010e60ad1d01c68e96f53fa21262edd5b1f219220ce663738/preview-400.fa48e9d63943.jpg
+        sha256: fa48e9d63943ff421592ddd7d72eb3d3ea67e40f305f2aa7dc9486c31f116c80
+        mime: image/jpeg
+        bytes: 31513
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

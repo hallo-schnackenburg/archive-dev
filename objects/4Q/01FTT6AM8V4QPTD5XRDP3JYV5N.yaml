@@ -1,0 +1,43 @@
+id: 01FTT6AM8V4QPTD5XRDP3JYV5N
+type: image
+subtype: photo
+title: Straßenfest 1915
+date: 1915-06
+origin:
+  name: Fritz Meyer
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Brückeneinweihung 1915
+    type: event
+  - name: Deicharbeiten 1915
+    type: event
+  - name: Badestelle
+    type: building
+parents:
+  - 01F609NXHEBHNPDFETZVY63FSS
+files:
+  - role: main
+    original_name: foto_2932.jpg
+    path: files/89/7c/897cffc9020edd55ef99eeb4558b6a5295054e3bb7dde3d962e23150724100ed/original.jpg
+    sha256: 897cffc9020edd55ef99eeb4558b6a5295054e3bb7dde3d962e23150724100ed
+    mime: image/jpeg
+    bytes: 20609965
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/89/7c/897cffc9020edd55ef99eeb4558b6a5295054e3bb7dde3d962e23150724100ed/preview-400.02417b578653.jpg
+        sha256: 02417b578653c44b0cdc84418f22a19c8d9c4441890396e4f5b3a960ec3f5a0d
+        mime: image/jpeg
+        bytes: 54844
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

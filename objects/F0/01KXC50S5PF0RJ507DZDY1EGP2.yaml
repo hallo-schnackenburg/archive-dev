@@ -1,0 +1,36 @@
+id: 01KXC50S5PF0RJ507DZDY1EGP2
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Hitzacker
+description: Mit handschriftlichen Ergänzungen.
+date: 1796-09-12
+location: Wustrow, Apotheke
+origin:
+  name: Berta Bohlmann
+  type: person
+  location: Lenzen
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Lenzen
+    type: place
+files:
+  - role: main
+    original_name: scan_111.tif
+    path: files/96/ad/96adab5a36e7113f48ca2d0c776445ee0952d37def6607259d3d1c298418c330/original.tif
+    sha256: 96adab5a36e7113f48ca2d0c776445ee0952d37def6607259d3d1c298418c330
+    mime: image/tiff
+    bytes: 13797201
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/96/ad/96adab5a36e7113f48ca2d0c776445ee0952d37def6607259d3d1c298418c330/preview-400.4394c45dbb40.jpg
+        sha256: 4394c45dbb4023cced676595f07f77bc1bbba470ff8b57f59f480e1f0c95dcd6
+        mime: image/jpeg
+        bytes: 65134
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

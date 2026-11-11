@@ -1,0 +1,44 @@
+id: 01H45FK9CEZHEPVFDJ706232AR
+type: image
+subtype: photo
+title: Ilse Garms, Porträt
+description: Abzug im Format 6 x 9 cm.
+date: 194X
+location: Dömitz, Am Elbdeich
+origin:
+  name: Heinrich Wöhlk
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Album 18/043
+subjects:
+  - name: Restorf
+    type: place
+  - name: Schmiede
+    type: building
+  - name: Lenzen
+    type: place
+files:
+  - role: main
+    original_name: IMG_3387.jpg
+    path: files/a3/0f/a30f3ec772fc5e2a9eca3d288501a7b8cb924b30a2d8f84a68def81a9f0f2916/original.jpg
+    sha256: a30f3ec772fc5e2a9eca3d288501a7b8cb924b30a2d8f84a68def81a9f0f2916
+    mime: image/jpeg
+    bytes: 4734705
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/a3/0f/a30f3ec772fc5e2a9eca3d288501a7b8cb924b30a2d8f84a68def81a9f0f2916/preview-400.70ba5ae33c5f.jpg
+        sha256: 70ba5ae33c5f9d94f471a07552a48a066a4bf6525841e6b416e478a7aeea6828
+        mime: image/jpeg
+        bytes: 74795
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,65 @@
+id: 01GP4D9Z0ZW7RWSJS1ZWBX5JWT
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Kirchenglocken 1905
+description: Handschriftlich in Sütterlin.
+date: 1905-06-20
+origin:
+  name: Bauausschuss Rüterberg
+  type: business
+  location: Hitzacker
+original:
+  holder:
+    name: Familie Lüders
+    type: person
+    location: Dömitz
+  reference: Pro 32/210
+subjects:
+  - name: Erika Lenz
+    type: person
+  - name: Viehmarkt 1905
+    type: event
+parents:
+  - 01GRNKDHCV8TZCTNMXGJA4SPF6
+  - 01K63FK3HHMM0W1GA0H3WZR13N
+files:
+  - role: page
+    num: 1
+    original_name: protocol_bx5jwt_001.tif
+    path: files/50/6b/506bdeaf768816217bbb503569a3952e1d63df431001ddf638d81b8b9cbc3d90/original.tif
+    sha256: 506bdeaf768816217bbb503569a3952e1d63df431001ddf638d81b8b9cbc3d90
+    mime: image/tiff
+    bytes: 27394715
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/6b/506bdeaf768816217bbb503569a3952e1d63df431001ddf638d81b8b9cbc3d90/preview-400.bbdac4884c58.jpg
+        sha256: bbdac4884c581e61099d09d8b5309e66f89165010acae8cfbf206d1d34f0a770
+        mime: image/jpeg
+        bytes: 85561
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_bx5jwt_002.tif
+    path: files/bb/ae/bbae6085400ce659d5471b07b008a7ffbdb558a20e8eb2df0e680a9899575eed/original.tif
+    sha256: bbae6085400ce659d5471b07b008a7ffbdb558a20e8eb2df0e680a9899575eed
+    mime: image/tiff
+    bytes: 25573544
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bb/ae/bbae6085400ce659d5471b07b008a7ffbdb558a20e8eb2df0e680a9899575eed/preview-400.b9dd21d421a0.jpg
+        sha256: b9dd21d421a07c6138fbcb9ff94829c5d75783291d82baf483052c4b4c53d4c7
+        mime: image/jpeg
+        bytes: 65849
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

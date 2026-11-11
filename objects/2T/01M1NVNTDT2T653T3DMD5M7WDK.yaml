@@ -1,0 +1,43 @@
+id: 01M1NVNTDT2T653T3DMD5M7WDK
+type: image
+subtype: print
+title: Lithographie Gärtnerei, Lanz
+date: "1788"
+origin:
+  name: Erika Rieke
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Konfirmation 1788
+    type: event
+  - name: Lotte Lindemann
+    type: person
+  - name: Pretzier
+    type: place
+parents:
+  - 01H36RTMJEX4S0EGJJ5ANSCJNW
+files:
+  - role: main
+    original_name: scan_612.tif
+    path: files/a2/b3/a2b380150de1cdbd85407b9670c10fdbe803bdda1f30b50bf84b7d118ffaff84/original.tif
+    sha256: a2b380150de1cdbd85407b9670c10fdbe803bdda1f30b50bf84b7d118ffaff84
+    mime: image/tiff
+    bytes: 1987647
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a2/b3/a2b380150de1cdbd85407b9670c10fdbe803bdda1f30b50bf84b7d118ffaff84/preview-400.629ce977d14d.jpg
+        sha256: 629ce977d14d8ad1d326f914e9663fdb6208c38c66b5de9a8f03b12608dd9af8
+        mime: image/jpeg
+        bytes: 85741
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

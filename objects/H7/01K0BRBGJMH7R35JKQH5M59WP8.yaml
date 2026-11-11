@@ -1,0 +1,37 @@
+id: 01K0BRBGJMH7R35JKQH5M59WP8
+type: image
+subtype: plan
+title: Bauplan Brunnen am Markt 1960
+date: 1960-04
+origin:
+  name: Renate Lemke
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 10/366
+parents:
+  - 01HD1KFMRR65WK8D19R9SH3ANJ
+files:
+  - role: main
+    original_name: scan_965.tif
+    path: files/0d/48/0d488f31eb7ee2ad20e3bf1447f77cc0045d6aaf62d21e200d31c61f9b55f0ed/original.tif
+    sha256: 0d488f31eb7ee2ad20e3bf1447f77cc0045d6aaf62d21e200d31c61f9b55f0ed
+    mime: image/tiff
+    bytes: 13724967
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/0d/48/0d488f31eb7ee2ad20e3bf1447f77cc0045d6aaf62d21e200d31c61f9b55f0ed/preview-400.437b7ccf7ce1.jpg
+        sha256: 437b7ccf7ce1d8dedbd39b732c28a1f42bd669bba7360ac13066984f403589e0
+        mime: image/jpeg
+        bytes: 21779
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

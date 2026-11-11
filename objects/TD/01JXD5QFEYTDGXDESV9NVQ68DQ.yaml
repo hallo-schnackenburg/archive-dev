@@ -1,0 +1,30 @@
+id: 01JXD5QFEYTDGXDESV9NVQ68DQ
+type: image
+subtype: plan
+title: Deichplan Holtorf bis Restorf
+description: Mit handschriftlichen Ergänzungen.
+date: 1798~
+origin:
+  name: Berta Heuer
+  type: person
+  location: Gülden
+files:
+  - role: main
+    original_name: scan_264.tif
+    path: files/d3/69/d3690aec9edae22691bec23c6bd98aa2b2fd9ca55b0798a4ef5ffda754bf9766/original.tif
+    sha256: d3690aec9edae22691bec23c6bd98aa2b2fd9ca55b0798a4ef5ffda754bf9766
+    mime: image/tiff
+    bytes: 16310872
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d3/69/d3690aec9edae22691bec23c6bd98aa2b2fd9ca55b0798a4ef5ffda754bf9766/preview-400.0beda7608737.jpg
+        sha256: 0beda7608737e314ffdc4af8959f5e2981ffcf4929a53eafa147a705c12b37e2
+        mime: image/jpeg
+        bytes: 22879
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

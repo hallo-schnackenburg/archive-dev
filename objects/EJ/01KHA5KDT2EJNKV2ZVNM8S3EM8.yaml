@@ -1,0 +1,70 @@
+id: 01KHA5KDT2EJNKV2ZVNM8S3EM8
+type: document
+subtype: letter
+title: Antwort auf das Gesuch zu Deichbau, Lüchow
+description: Mit Umschlag und Briefmarke.
+date: 1852~
+location: Laase, Bahnhofstraße
+geocode:
+  lat: 53.0073
+  lon: 11.6583
+  precision: street
+  source: osm
+origin:
+  name: Erika Wiegmann
+  type: person
+  location: Wootz
+recipient: Karl Garms
+language: de
+owner:
+  name: Dieter Wegner
+  type: person
+  note: Nachlass
+subjects:
+  - name: Erntedankfest 1852
+    type: event
+  - name: Friedrich Plate
+    type: person
+parents:
+  - 01F83N316GB4JPE9NDSAS5ZR1M
+files:
+  - role: page
+    num: 1
+    original_name: letter_8s3em8_001.tif
+    path: files/ae/63/ae6384055999ab50e36a774789e703d9e98b27765655c444b78e51432cb43200/original.tif
+    sha256: ae6384055999ab50e36a774789e703d9e98b27765655c444b78e51432cb43200
+    mime: image/tiff
+    bytes: 17662753
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ae/63/ae6384055999ab50e36a774789e703d9e98b27765655c444b78e51432cb43200/preview-400.b7bbba06ed40.jpg
+        sha256: b7bbba06ed409387d6e541d36f9941b86e141a21c0febe591770a3026a695878
+        mime: image/jpeg
+        bytes: 26065
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_8s3em8_002.tif
+    path: files/f2/78/f278bd7d578b13b7acaf3f94790d00bda6cfc270f76fabf09a9f629c76d05045/original.tif
+    sha256: f278bd7d578b13b7acaf3f94790d00bda6cfc270f76fabf09a9f629c76d05045
+    mime: image/tiff
+    bytes: 6701824
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f2/78/f278bd7d578b13b7acaf3f94790d00bda6cfc270f76fabf09a9f629c76d05045/preview-400.bfed0824a6c1.jpg
+        sha256: bfed0824a6c1eb823da27b31e257ab6ddf5571ef9921e7ddf843f261ed99a300
+        mime: image/jpeg
+        bytes: 39252
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

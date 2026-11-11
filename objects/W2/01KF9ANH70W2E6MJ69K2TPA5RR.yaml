@@ -1,0 +1,67 @@
+id: 01KF9ANH70W2E6MJ69K2TPA5RR
+type: document
+subtype: note
+title: Rechnung Voss, Grenzturm
+description: Beleg mit Stempel.
+date: 1892?
+location: Brünkendorf, Feuerwehrhaus
+geocode:
+  lat: 52.9432
+  lon: 11.5387
+  precision: region
+  source: osm
+origin:
+  name: Ernst Krüger
+  type: person
+  location: Schnackenburg
+language: de
+original:
+  holder:
+    name: Familie Heuer
+    type: person
+    location: Wittenberge
+  reference: Dok 22/082
+  note: Planschrank, Fach 3
+parents:
+  - 01KW7A26BTPJQVF2JX2JPDHVMK
+files:
+  - role: page
+    num: 1
+    original_name: note_tpa5rr_001.tif
+    path: files/1e/73/1e736db62aa29eda65cde05f901936f70e32d6fde462b50ef933272cdd6e27f0/original.tif
+    sha256: 1e736db62aa29eda65cde05f901936f70e32d6fde462b50ef933272cdd6e27f0
+    mime: image/tiff
+    bytes: 7182255
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1e/73/1e736db62aa29eda65cde05f901936f70e32d6fde462b50ef933272cdd6e27f0/preview-400.e519c432a102.jpg
+        sha256: e519c432a1020f36a13a344d1d0a38c8e0549a5f432b25912ad6e85eb40c610e
+        mime: image/jpeg
+        bytes: 84398
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_tpa5rr_002.tif
+    path: files/c5/66/c566525544494e6e173a42e9fe2b08e08530a1a1f437ff7d0b97750c2976cad1/original.tif
+    sha256: c566525544494e6e173a42e9fe2b08e08530a1a1f437ff7d0b97750c2976cad1
+    mime: image/tiff
+    bytes: 20289473
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c5/66/c566525544494e6e173a42e9fe2b08e08530a1a1f437ff7d0b97750c2976cad1/preview-400.ecd25d5733cc.jpg
+        sha256: ecd25d5733ccb9807d3c6bc8da29875d4bb48ef92163b66324890674449090aa
+        mime: image/jpeg
+        bytes: 72960
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,65 @@
+id: 01GH6E8JSEFY1HG3C5E1SA4FT6
+type: document
+subtype: note
+title: Rechnung Brandt, Backhaus
+description: Auf der Rückseite eines Formulars.
+date: 1961~
+location: Lüchow, Elbstraße
+geocode:
+  lat: 52.9824
+  lon: 11.6048
+  precision: exact
+  source: osm
+origin:
+  name: Walter Meyer
+  type: person
+  location: Lanz
+language: de
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: Frieda Brandt
+    type: person
+parents:
+  - 01K3PA0AX7J3WY8KDDN8217RNG
+files:
+  - role: page
+    num: 1
+    original_name: note_sa4ft6_001.tif
+    path: files/31/ae/31aef0bc86b9a44658b234c3139f3872aea8415b5e34530a87fcbce4a3dcf7ba/original.tif
+    sha256: 31aef0bc86b9a44658b234c3139f3872aea8415b5e34530a87fcbce4a3dcf7ba
+    mime: image/tiff
+    bytes: 13709184
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/31/ae/31aef0bc86b9a44658b234c3139f3872aea8415b5e34530a87fcbce4a3dcf7ba/preview-400.dabf1041347d.jpg
+        sha256: dabf1041347d77a5e851056a88dcd40edb1b84b01ef7569cae5147e13ed93127
+        mime: image/jpeg
+        bytes: 60328
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_sa4ft6_002.tif
+    path: files/17/5a/175ada9e90e0a780bcd68ee7b7b3d3d30b5953a0a32b413a35906fd39a6e4859/original.tif
+    sha256: 175ada9e90e0a780bcd68ee7b7b3d3d30b5953a0a32b413a35906fd39a6e4859
+    mime: image/tiff
+    bytes: 21563433
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/17/5a/175ada9e90e0a780bcd68ee7b7b3d3d30b5953a0a32b413a35906fd39a6e4859/preview-400.e4dc47675a57.jpg
+        sha256: e4dc47675a57c8e2caca21b9abfe8d88ee00260c145936bb7a0353bd43858565
+        mime: image/jpeg
+        bytes: 54555
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

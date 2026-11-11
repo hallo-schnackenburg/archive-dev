@@ -1,0 +1,37 @@
+id: 01JXTRHGJ4GSARGSHS0JS1CPG1
+type: image
+subtype: plan
+title: Lageplan Poststelle, Gollensdorf
+date: 1851/1858
+location: Wootz, Burgstraße
+origin:
+  name: Lotte Jürgens
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+parents:
+  - 01KVHW9J5WMTP6BZZ691K647CF
+files:
+  - role: main
+    original_name: scan_598.tif
+    path: files/7f/c7/7fc7754a5bad57a5e2070510565cbf49a1a089f0832b4bd07ad12815027ab23d/original.tif
+    sha256: 7fc7754a5bad57a5e2070510565cbf49a1a089f0832b4bd07ad12815027ab23d
+    mime: image/tiff
+    bytes: 17262176
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7f/c7/7fc7754a5bad57a5e2070510565cbf49a1a089f0832b4bd07ad12815027ab23d/preview-400.250ea5051989.jpg
+        sha256: 250ea50519897b485cea1786cb869629a37591f7edad1b16cb1939481ed86d00
+        mime: image/jpeg
+        bytes: 88074
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01G2HKTCJEGWKRS00T2NE4NNJ8
+type: image
+subtype: print
+title: "Kupferstich: Salzwedel von der Elbseite, Lanz"
+description: Postkarte, gelaufen 1911.
+date: 1866?
+location: Rüterberg, Fährstraße
+origin:
+  name: Wilhelm Brandt
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 20/069
+subjects:
+  - name: Konfirmation 1866
+    type: event
+parents:
+  - 01FZ34PCDWH41HVN2Q034693E1
+  - 01G5CJBY3RS88Q2T2XPXK8Z7QS
+files:
+  - role: main
+    original_name: scan_520.tif
+    path: files/dc/9b/dc9b431593620d0a5382bae19e505963f26b8dff213d0f085de8371e2c6a1511/original.tif
+    sha256: dc9b431593620d0a5382bae19e505963f26b8dff213d0f085de8371e2c6a1511
+    mime: image/tiff
+    bytes: 25344771
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/9b/dc9b431593620d0a5382bae19e505963f26b8dff213d0f085de8371e2c6a1511/preview-400.8028570ecf1e.jpg
+        sha256: 8028570ecf1e4f3191e4f0f500f8544a37e041007e025ae2f8a1b3ef78ec9d3d
+        mime: image/jpeg
+        bytes: 51034
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

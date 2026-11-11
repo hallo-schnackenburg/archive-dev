@@ -1,0 +1,36 @@
+id: 01F80JY1Y3CXV3WDHTAC69AF0D
+type: image
+subtype: photo
+title: Kirmes 1972
+date: 1972-06-03
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Fastnacht 1972
+    type: event
+parents:
+  - 01FZ34PCDWH41HVN2Q034693E1
+  - 01KFJF1DM6WA2NVDNSAADJ19BQ
+files:
+  - role: main
+    original_name: P8013.jpg
+    path: files/68/2f/682f4de90c99e03e26d39b96115e1b96180813aea1d356f86b7081bc54caa6e1/original.jpg
+    sha256: 682f4de90c99e03e26d39b96115e1b96180813aea1d356f86b7081bc54caa6e1
+    mime: image/jpeg
+    bytes: 12291618
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/68/2f/682f4de90c99e03e26d39b96115e1b96180813aea1d356f86b7081bc54caa6e1/preview-400.f5983169a187.jpg
+        sha256: f5983169a1878386fb30b225af8f81b1f7d84ad57416cf56448e870507660d01
+        mime: image/jpeg
+        bytes: 49588
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

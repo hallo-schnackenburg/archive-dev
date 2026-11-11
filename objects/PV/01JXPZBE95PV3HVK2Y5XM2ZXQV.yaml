@@ -1,0 +1,63 @@
+id: 01JXPZBE95PV3HVK2Y5XM2ZXQV
+type: document
+subtype: note
+title: Rechnung Tiedemann, Friedhofskapelle
+description: Auf der Rückseite eines Formulars.
+date: 1982-08-05
+location: Lenzen, Hinter den Höfen
+geocode:
+  lat: 52.9951
+  lon: 11.5144
+  precision: exact
+  source: osm
+language: la
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F/Kasten 25/030
+subjects:
+  - name: Seedorf
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_m2zxqv_001.tif
+    path: files/51/89/5189d6f0bed892ab9030a4c473d0839b2288948bccecfe590fb658e2f794c405/original.tif
+    sha256: 5189d6f0bed892ab9030a4c473d0839b2288948bccecfe590fb658e2f794c405
+    mime: image/tiff
+    bytes: 6608354
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/51/89/5189d6f0bed892ab9030a4c473d0839b2288948bccecfe590fb658e2f794c405/preview-400.c66bd5108bc8.jpg
+        sha256: c66bd5108bc8e2a8eae067c830d256ef06b0b217b30e687e87d6cb647b70e933
+        mime: image/jpeg
+        bytes: 56071
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_m2zxqv_002.tif
+    path: files/96/0e/960e7454ba51e2985a418dd7925579b4f872c216cf4c550590ce0691d9cb7642/original.tif
+    sha256: 960e7454ba51e2985a418dd7925579b4f872c216cf4c550590ce0691d9cb7642
+    mime: image/tiff
+    bytes: 972830
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/96/0e/960e7454ba51e2985a418dd7925579b4f872c216cf4c550590ce0691d9cb7642/preview-400.2d78973eae97.jpg
+        sha256: 2d78973eae971cba8348e381e57fe8dcd29973e10f09fbe554287f550e48aefc
+        mime: image/jpeg
+        bytes: 47405
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

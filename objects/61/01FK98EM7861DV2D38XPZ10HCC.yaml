@@ -1,0 +1,48 @@
+id: 01FK98EM7861DV2D38XPZ10HCC
+type: document
+subtype: letter
+title: Feldpostbrief von Helga Lüders
+date: 1932-07-27
+location: Restorf, Dorfkrug
+origin:
+  name: Heinz Lüders
+  type: person
+  location: Holtorf
+language: de
+original:
+  holder:
+    name: Familie Kuhlmann
+    type: person
+    location: Wootz
+  reference: Slg/Kasten 7/021
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v15353
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Laase
+    type: place
+  - name: Feuerwehrübung 1932
+    type: event
+parents:
+  - 01GQNCNS1ENA3RKA5ZC1ZCYHJF
+files:
+  - role: page
+    num: 1
+    original_name: letter_z10hcc_001.tif
+    path: files/d4/02/d402389bcd55be0db6daa47aa9c84c2c33d57afb95f9e1a807357f2b4f781858/original.tif
+    sha256: d402389bcd55be0db6daa47aa9c84c2c33d57afb95f9e1a807357f2b4f781858
+    mime: image/tiff
+    bytes: 7566558
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/02/d402389bcd55be0db6daa47aa9c84c2c33d57afb95f9e1a807357f2b4f781858/preview-400.0a763abc7ed6.jpg
+        sha256: 0a763abc7ed66f6d2d68c224691ed29faf9c1c32cb630df8700969b6e3efc3af
+        mime: image/jpeg
+        bytes: 26012
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

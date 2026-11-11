@@ -1,0 +1,43 @@
+id: 01F9ATVFP8DDM7TFFDVVMTMXK6
+type: image
+subtype: photo
+title: Rudolf Dreyer, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1972-06-02
+location: Cumlosen, Elbstraße
+geocode:
+  lat: 53.0334
+  lon: 11.5568
+  precision: exact
+  source: osm
+origin:
+  name: Gerda Wiegmann
+  type: person
+  location: Lenzen
+subjects:
+  - name: Einweihung 1972
+    type: event
+  - name: Gerda Wöhlk
+    type: person
+  - name: Kaufmannshaus
+    type: building
+files:
+  - role: main
+    original_name: scan_323.tif
+    path: files/61/39/613966ddc73cbeb3e075cfb501d3ace453ae772ab5ca186ab94c5546fc2522ca/original.tif
+    sha256: 613966ddc73cbeb3e075cfb501d3ace453ae772ab5ca186ab94c5546fc2522ca
+    mime: image/tiff
+    bytes: 16829734
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/61/39/613966ddc73cbeb3e075cfb501d3ace453ae772ab5ca186ab94c5546fc2522ca/preview-400.75d1cdc52e2a.jpg
+        sha256: 75d1cdc52e2a33d8ec0d15ff4c2141c094fb00d55af00e36ab5f0d81e4c1ccd6
+        mime: image/jpeg
+        bytes: 22613
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

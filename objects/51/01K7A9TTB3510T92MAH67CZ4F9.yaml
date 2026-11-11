@@ -1,0 +1,41 @@
+id: 01K7A9TTB3510T92MAH67CZ4F9
+type: image
+subtype: drawing
+title: Backhaus, Aquarell, Gorleben
+description: Federzeichnung, laviert.
+date: 1930-07
+location: Rüterberg, Schmiede
+origin:
+  name: Dieter Pape
+  type: person
+  location: Arendsee
+subjects:
+  - name: Hans Jeß
+    type: person
+  - name: Wilhelm Brandt
+    type: person
+  - name: Gasthof „Zur Elbe“
+    type: building
+parents:
+  - 01F5WN4D1FQE5PP5MD0YFVKCS4
+  - 01EZC5C07CZY0ETCK5VD296P3F
+files:
+  - role: main
+    original_name: scan_843.tif
+    path: files/a9/1d/a91d43347063de23abca47db4e3f434e1d37100522b6d3483696eb8ba5c3e1cc/original.tif
+    sha256: a91d43347063de23abca47db4e3f434e1d37100522b6d3483696eb8ba5c3e1cc
+    mime: image/tiff
+    bytes: 21530158
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a9/1d/a91d43347063de23abca47db4e3f434e1d37100522b6d3483696eb8ba5c3e1cc/preview-400.2309fd56d1a3.jpg
+        sha256: 2309fd56d1a34b466c0c802c3008bdb3fb0e742440c5e20ac20eca9c51dce78f
+        mime: image/jpeg
+        bytes: 84292
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

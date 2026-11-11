@@ -1,0 +1,35 @@
+id: 01FQYJVA7Z2K7KF7S1QFM61VPA
+type: image
+subtype: photo
+title: Rudolf Lemke, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1965-12
+origin:
+  name: Petra Lemke
+  type: person
+  location: Kapern
+subjects:
+  - name: Schmiede
+    type: building
+  - name: Gülden
+    type: place
+files:
+  - role: main
+    original_name: scan_171.tif
+    path: files/f1/52/f15246fababe80bcfa9dec6539dc0af73eb8cf83cd55734f4d817a0270854110/original.tif
+    sha256: f15246fababe80bcfa9dec6539dc0af73eb8cf83cd55734f4d817a0270854110
+    mime: image/tiff
+    bytes: 15067775
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f1/52/f15246fababe80bcfa9dec6539dc0af73eb8cf83cd55734f4d817a0270854110/preview-400.496c672feb85.jpg
+        sha256: 496c672feb855f1ec62ec5cb22317909b6932ba436aac10a1b772ab8edabf12d
+        mime: image/jpeg
+        bytes: 83852
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

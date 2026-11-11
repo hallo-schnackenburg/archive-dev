@@ -1,0 +1,43 @@
+id: 01KVEMR9JX2F21YQDA9J0Q7T6A
+type: image
+subtype: print
+title: Lithographie Försterei, Wootz
+description: Postkarte, gelaufen 1933.
+date: "1817"
+origin:
+  name: Albert Krüger
+  type: person
+  location: Gartow
+owner:
+  name: Karl Krüger
+  type: person
+  note: Nachlass
+subjects:
+  - name: Sportplatz
+    type: building
+  - name: Gerda Schulz
+    type: person
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01K6MM688883CWMKTJ2NVR6F70
+files:
+  - role: main
+    original_name: scan_213.tif
+    path: files/76/ca/76ca59ea46449e343d1ab955eca6244675066acd41a839db99510641178f4289/original.tif
+    sha256: 76ca59ea46449e343d1ab955eca6244675066acd41a839db99510641178f4289
+    mime: image/tiff
+    bytes: 23556103
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/76/ca/76ca59ea46449e343d1ab955eca6244675066acd41a839db99510641178f4289/preview-400.dd1677ae8aae.jpg
+        sha256: dd1677ae8aae5c69b839d18a40d00151a7e0fc7cb85740f33d34a54ee2daa285
+        mime: image/jpeg
+        bytes: 40080
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

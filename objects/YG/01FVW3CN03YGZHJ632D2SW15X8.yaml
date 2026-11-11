@@ -1,0 +1,38 @@
+id: 01FVW3CN03YGZHJ632D2SW15X8
+type: image
+subtype: photo
+title: Arbeiter beim Pflügen
+description: Aufnahme von Erika Pape.
+date: 1942-05-15
+location: Bömenzien, Rathaus
+origin:
+  name: Otto Gaede
+  type: person
+  location: Lenzen
+subjects:
+  - name: Fritz Tiedemann
+    type: person
+  - name: Gutshaus
+    type: building
+parents:
+  - 01HV23CDKEHB2T4F0325HW90F9
+files:
+  - role: main
+    original_name: scan_544.tif
+    path: files/a2/d2/a2d2355fdd77e72ed6767daedee5f5041a1da58894c18d01e945371574fdaab9/original.tif
+    sha256: a2d2355fdd77e72ed6767daedee5f5041a1da58894c18d01e945371574fdaab9
+    mime: image/tiff
+    bytes: 2105125
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a2/d2/a2d2355fdd77e72ed6767daedee5f5041a1da58894c18d01e945371574fdaab9/preview-400.9a649c487572.jpg
+        sha256: 9a649c487572dd310e20d7d58d0776f3a3cab70419dadd5b749bbdae405ca7a6
+        mime: image/jpeg
+        bytes: 41001
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

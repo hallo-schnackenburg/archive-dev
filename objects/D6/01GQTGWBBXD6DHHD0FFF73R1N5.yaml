@@ -1,0 +1,35 @@
+id: 01GQTGWBBXD6DHHD0FFF73R1N5
+type: image
+subtype: print
+title: Gruß aus Wittenberge, Rüterberg
+date: "1790"
+subjects:
+  - name: Tanzsaal
+    type: building
+  - name: Dorfkrug
+    type: building
+  - name: Grenzturm
+    type: building
+parents:
+  - 01EY996B6TE8NGN69VQYD76406
+  - 01JMSDNGA55JGRT5ESX6NS0WKN
+files:
+  - role: main
+    original_name: scan_580.tif
+    path: files/65/bd/65bd70732684ac8334d2a5a8d7a2c5ebda6ec8890055dd29b9f6cb3f66c84101/original.tif
+    sha256: 65bd70732684ac8334d2a5a8d7a2c5ebda6ec8890055dd29b9f6cb3f66c84101
+    mime: image/tiff
+    bytes: 8046276
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/65/bd/65bd70732684ac8334d2a5a8d7a2c5ebda6ec8890055dd29b9f6cb3f66c84101/preview-400.bbf6bb1e895b.jpg
+        sha256: bbf6bb1e895b019fe29f77ec6eb6d6845ed4b4b2e921cd8052b638e3599bf80b
+        mime: image/jpeg
+        bytes: 85772
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

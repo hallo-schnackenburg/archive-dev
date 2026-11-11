@@ -1,0 +1,66 @@
+id: 01F2542NWHCJ8B0CEHWP3EQ3T1
+type: document
+subtype: note
+title: Notiz zu Grenzverkehr, Kapern
+date: 2009-02-28
+location: Zadrau, Lange Straße
+origin:
+  name: Karl Lüders
+  type: person
+  location: Cumlosen
+language: nds
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 21/027
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9113
+subjects:
+  - name: Karl Garms
+    type: person
+  - name: Sturmschaden 2009
+    type: event
+parents:
+  - 01KSQSSGDYWJ8WM96BXT4QY5Z0
+files:
+  - role: page
+    num: 1
+    original_name: note_3eq3t1_001.tif
+    path: files/54/18/54180004649bdb265969d83713ff16ee3aa5d0e411b02c3cdb627f0296cb8f8a/original.tif
+    sha256: 54180004649bdb265969d83713ff16ee3aa5d0e411b02c3cdb627f0296cb8f8a
+    mime: image/tiff
+    bytes: 25908232
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/54/18/54180004649bdb265969d83713ff16ee3aa5d0e411b02c3cdb627f0296cb8f8a/preview-400.a28e07300f4d.jpg
+        sha256: a28e07300f4d9fc73d97d080e80ee43eb5de5deb6fbf3ea38e718949aab85e44
+        mime: image/jpeg
+        bytes: 53931
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_3eq3t1_002.tif
+    path: files/fc/bb/fcbb8ff648c37210cccd7a8a73e5da4b265170e333f27f9ac2150bbaf65582a9/original.tif
+    sha256: fcbb8ff648c37210cccd7a8a73e5da4b265170e333f27f9ac2150bbaf65582a9
+    mime: image/tiff
+    bytes: 23639843
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/bb/fcbb8ff648c37210cccd7a8a73e5da4b265170e333f27f9ac2150bbaf65582a9/preview-400.c31f0c17101c.jpg
+        sha256: c31f0c17101cc4fd0f552825ebe07425cf1fc448b59f347d21b54139f4550e80
+        mime: image/jpeg
+        bytes: 43884
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01GKQ984VZJB4442C0VVHZMXS1
+type: image
+subtype: print
+title: Postkarte Nienwalde, Elbdeich
+description: Postkarte, gelaufen 1931.
+date: 1779/1788
+origin:
+  name: Hans Krüger
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 9/354
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Wilhelm Tiedemann
+    type: person
+  - name: Emma Wiegmann
+    type: person
+files:
+  - role: main
+    original_name: scan_222.tif
+    path: files/c1/b3/c1b3c8bcae511a177e5683f9ab4e3105eda0749b4a76727bbbd04322c06c409e/original.tif
+    sha256: c1b3c8bcae511a177e5683f9ab4e3105eda0749b4a76727bbbd04322c06c409e
+    mime: image/tiff
+    bytes: 25233611
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c1/b3/c1b3c8bcae511a177e5683f9ab4e3105eda0749b4a76727bbbd04322c06c409e/preview-400.b96bac8f6dc4.jpg
+        sha256: b96bac8f6dc41cf633cdfafebe5836b37cfe34d280e62ace3096197991b70fc7
+        mime: image/jpeg
+        bytes: 68957
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

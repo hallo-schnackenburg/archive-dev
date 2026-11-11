@@ -1,0 +1,44 @@
+id: 01J1M58CJG7X5Q1THKXTA4KBBS
+type: image
+subtype: photo
+title: Beerdigung 1965
+date: 1965-12-24
+location: Zadrau, Hafen
+origin:
+  name: Gustav Ludolf
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Otto Tiedemann
+    type: person
+  - name: Restorf
+    type: place
+parents:
+  - 01FXP7C4VHXDAWP3MGADT9QA1F
+files:
+  - role: main
+    original_name: foto_9570.jpg
+    path: files/ae/d6/aed6fa13cf1ccf10d1191f43aaa5668de4292a87ef257e0c502b0cb87d546e1b/original.jpg
+    sha256: aed6fa13cf1ccf10d1191f43aaa5668de4292a87ef257e0c502b0cb87d546e1b
+    mime: image/jpeg
+    bytes: 19638180
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ae/d6/aed6fa13cf1ccf10d1191f43aaa5668de4292a87ef257e0c502b0cb87d546e1b/preview-400.0caf0babd6a8.jpg
+        sha256: 0caf0babd6a8bfdca3f6b7bd68cebea6cabfe14e83075dad54eb1a557b301697
+        mime: image/jpeg
+        bytes: 76591
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

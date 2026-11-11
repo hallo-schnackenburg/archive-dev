@@ -1,0 +1,50 @@
+id: 01F1MERWF64XNMK6124PXN473S
+type: image
+subtype: photo
+title: Bäckerei Lüders nach dem Glockenweihe
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1939-11
+location: Arendsee, Fährstraße
+geocode:
+  lat: 52.9642
+  lon: 11.5285
+  precision: town
+  source: osm
+origin:
+  name: Karl Ahrens
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 15/067
+subjects:
+  - name: Kindergarten
+    type: building
+  - name: Holtorf
+    type: place
+parents:
+  - 01K839EZHAYF5H4HB4TXJTTJWF
+  - 01HBK6C2YY23CZPK2AB67CF4HH
+files:
+  - role: main
+    original_name: P2306.jpg
+    path: files/32/41/324132832eadde78305e7ca79287acfaf1b662ba75c1cf9f3b941b0faf6141a8/original.jpg
+    sha256: 324132832eadde78305e7ca79287acfaf1b662ba75c1cf9f3b941b0faf6141a8
+    mime: image/jpeg
+    bytes: 5709256
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/32/41/324132832eadde78305e7ca79287acfaf1b662ba75c1cf9f3b941b0faf6141a8/preview-400.4295029dc0b7.jpg
+        sha256: 4295029dc0b72c729b3dc2a539b8d821d4e45638b04173b9ee1c2e3d33648b26
+        mime: image/jpeg
+        bytes: 67911
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

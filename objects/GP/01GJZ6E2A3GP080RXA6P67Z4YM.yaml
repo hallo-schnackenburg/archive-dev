@@ -1,0 +1,41 @@
+id: 01GJZ6E2A3GP080RXA6P67Z4YM
+type: image
+subtype: photo
+title: Erika Matthies vor dem Wassermühle
+description: Zu sehen sind Mühle und Kindergarten.
+date: 1967?
+location: Rüterberg, Kirche St. Johannis
+geocode:
+  lat: 53.0934
+  lon: 11.4962
+  precision: town
+  source: osm
+origin:
+  name: Helga Tiedemann
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Ernst Sievers
+    type: person
+parents:
+  - 01HDS44JS4B8GN7QC5M5DZA42B
+files:
+  - role: main
+    original_name: DSC3388.jpg
+    path: files/ea/90/ea9001ebdbde0b63da5de9812503012dcee13f567d5140fdbd3e0879e5da0a6d/original.jpg
+    sha256: ea9001ebdbde0b63da5de9812503012dcee13f567d5140fdbd3e0879e5da0a6d
+    mime: image/jpeg
+    bytes: 488142
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ea/90/ea9001ebdbde0b63da5de9812503012dcee13f567d5140fdbd3e0879e5da0a6d/preview-400.f356e2745939.jpg
+        sha256: f356e2745939de54e02adc8b2bd91f31cf96620c16f7f6c089f6d8e68aa4b56f
+        mime: image/jpeg
+        bytes: 83432
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

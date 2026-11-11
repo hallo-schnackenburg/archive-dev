@@ -1,0 +1,36 @@
+id: 01HGE0CKXHGSZS91JPWH9FW8TJ
+type: image
+subtype: print
+title: Postkarte Seedorf, Dorfkrug
+date: "1891"
+location: Lenzen, Mühle
+origin:
+  name: Rudolf Lemke
+  type: person
+  location: Wustrow
+subjects:
+  - name: Ladestraße
+    type: building
+parents:
+  - 01F1Q5CD51G9ZH21J5XMQ18G3Z
+  - 01GZKK3S8ZTHZFVGYM1SQET170
+files:
+  - role: main
+    original_name: scan_509.tif
+    path: files/52/d7/52d7cffde9f654929ea4de79d3118feca041e4f9f32236ea28369f63abe91acf/original.tif
+    sha256: 52d7cffde9f654929ea4de79d3118feca041e4f9f32236ea28369f63abe91acf
+    mime: image/tiff
+    bytes: 24452846
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/52/d7/52d7cffde9f654929ea4de79d3118feca041e4f9f32236ea28369f63abe91acf/preview-400.8422b337650a.jpg
+        sha256: 8422b337650a24f3eec3499eb615c9b6f1f4d57c16d43256fe088e336b123b82
+        mime: image/jpeg
+        bytes: 62966
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

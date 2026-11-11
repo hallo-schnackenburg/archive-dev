@@ -1,0 +1,70 @@
+id: 01GWM95ZQ0JB3WXCWB7FN2FB3K
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Wootz 1910
+date: 1910-05-06
+location: Arendsee, Bahnhofstraße
+geocode:
+  lat: 52.9684
+  lon: 11.5192
+  precision: region
+  source: osm
+origin:
+  name: Finanzausschuss Holtorf
+  type: business
+  location: Havelberg
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg 20/067
+subjects:
+  - name: Hochzeit 1910
+    type: event
+  - name: Otto Sievers
+    type: person
+  - name: Erntedankfest 1910
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: protocol_n2fb3k_001.tif
+    path: files/7b/94/7b940ae57a23dff460a29ee2df93cf3f28f691520c5134d263f67005311833be/original.tif
+    sha256: 7b940ae57a23dff460a29ee2df93cf3f28f691520c5134d263f67005311833be
+    mime: image/tiff
+    bytes: 2710117
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7b/94/7b940ae57a23dff460a29ee2df93cf3f28f691520c5134d263f67005311833be/preview-400.353ca3d3b5d1.jpg
+        sha256: 353ca3d3b5d16b17a1d126235a3f5fc1d287f6ecf0a8e7e1ddec058b5993546b
+        mime: image/jpeg
+        bytes: 89619
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_n2fb3k_002.tif
+    path: files/ac/cb/accb40d18f5fe1f98b4db38c0baa7691aee3f27607ec9a8197441df92a67da90/original.tif
+    sha256: accb40d18f5fe1f98b4db38c0baa7691aee3f27607ec9a8197441df92a67da90
+    mime: image/tiff
+    bytes: 19813808
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/cb/accb40d18f5fe1f98b4db38c0baa7691aee3f27607ec9a8197441df92a67da90/preview-400.16bbb2987986.jpg
+        sha256: 16bbb29879867cad7126bb99c07c991f9ed8a28589b2686ddd8f8b030a0c24bb
+        mime: image/jpeg
+        bytes: 53243
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

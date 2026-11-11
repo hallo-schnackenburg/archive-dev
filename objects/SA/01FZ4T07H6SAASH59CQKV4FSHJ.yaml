@@ -1,0 +1,39 @@
+id: 01FZ4T07H6SAASH59CQKV4FSHJ
+type: image
+subtype: plan
+title: Deichplan Lenzen bis Laase, Arendsee
+description: Maßstab 1:1000.
+date: 1927?
+location: Lanz, Bahnhofstraße
+origin:
+  name: Irmgard Jeß
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Laase
+    type: place
+files:
+  - role: main
+    original_name: scan_219.tif
+    path: files/a8/fd/a8fd0410b5371d6ed260fd283d7a5479ef2f0752f11fef250e18b7f1e2a3b3a5/original.tif
+    sha256: a8fd0410b5371d6ed260fd283d7a5479ef2f0752f11fef250e18b7f1e2a3b3a5
+    mime: image/tiff
+    bytes: 15024499
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a8/fd/a8fd0410b5371d6ed260fd283d7a5479ef2f0752f11fef250e18b7f1e2a3b3a5/preview-400.37455d925727.jpg
+        sha256: 37455d92572707cd5f4fa53196790144a1af26d97a2902f60a396e1a4dee6dbe
+        mime: image/jpeg
+        bytes: 48958
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

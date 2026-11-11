@@ -1,0 +1,44 @@
+id: 01FW729CZQD1GKKCPE6BFFWW1X
+type: image
+subtype: plan
+title: Lageplan Bahnhof, Dömitz
+description: Tusche auf Transparentpapier.
+date: 1991~
+location: Schnackenburg, Kirchstraße
+geocode:
+  lat: 52.9517
+  lon: 11.6197
+  precision: town
+  source: osm
+origin:
+  name: Anni Voss
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 3/278
+parents:
+  - 01F084MHNWGJ7D7S7TBCXZMMB2
+files:
+  - role: main
+    original_name: scan_382.tif
+    path: files/f7/b7/f7b75dc7998eb0f78b257af87c5e9f97a8b39926b0902427e8dc837d1de5dbed/original.tif
+    sha256: f7b75dc7998eb0f78b257af87c5e9f97a8b39926b0902427e8dc837d1de5dbed
+    mime: image/tiff
+    bytes: 7242737
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f7/b7/f7b75dc7998eb0f78b257af87c5e9f97a8b39926b0902427e8dc837d1de5dbed/preview-400.8fbe8f71ccad.jpg
+        sha256: 8fbe8f71ccad685b626f0b0e60d62a7b767b2f03601662e62f78926a0fb74f0d
+        mime: image/jpeg
+        bytes: 41611
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

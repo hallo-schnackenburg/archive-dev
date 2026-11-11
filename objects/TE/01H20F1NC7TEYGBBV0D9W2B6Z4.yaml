@@ -1,0 +1,38 @@
+id: 01H20F1NC7TEYGBBV0D9W2B6Z4
+type: image
+subtype: photo
+title: Kirche St. Johannis in Hitzacker
+date: 1897?
+location: Nienwalde, Bahnhofstraße
+original:
+  holder:
+    name: Familie Rieke
+    type: person
+    location: Rüterberg
+subjects:
+  - name: Friedhofskapelle
+    type: building
+  - name: Deicharbeiten 1897
+    type: event
+  - name: Kindergartenfest 1897
+    type: event
+files:
+  - role: main
+    original_name: scan_397.tif
+    path: files/bc/5f/bc5f498d26ecae3f5b14ae325e1ab0f10a39be7f9b81eb8a5ee1da42e4266710/original.tif
+    sha256: bc5f498d26ecae3f5b14ae325e1ab0f10a39be7f9b81eb8a5ee1da42e4266710
+    mime: image/tiff
+    bytes: 20294243
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/bc/5f/bc5f498d26ecae3f5b14ae325e1ab0f10a39be7f9b81eb8a5ee1da42e4266710/preview-400.3081b4b0d5d3.jpg
+        sha256: 3081b4b0d5d3c3c7b54de764cf92de819d00d32918243816d1a0e8c28184a143
+        mime: image/jpeg
+        bytes: 48816
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

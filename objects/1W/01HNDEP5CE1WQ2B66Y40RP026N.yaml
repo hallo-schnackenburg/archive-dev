@@ -1,0 +1,50 @@
+id: 01HNDEP5CE1WQ2B66Y40RP026N
+type: image
+subtype: photo
+title: Sturmschaden der Jugendfeuerwehr
+date: 200X
+location: Wootz, Rathaus
+geocode:
+  lat: 52.9704
+  lon: 11.4535
+  precision: region
+  source: osm
+origin:
+  name: Karl Tiedemann
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 16/032
+subjects:
+  - name: Heinrich Lindemann
+    type: person
+  - name: Fastnacht 2001
+    type: event
+  - name: Lotte Krüger
+    type: person
+parents:
+  - 01HQWPK8KVNS193A9510K7C6AQ
+files:
+  - role: main
+    original_name: scan_487.tif
+    path: files/7a/5e/7a5e63fed6153e515098a050ac7348e9d7de784a84102fc075d4ac09136726b6/original.tif
+    sha256: 7a5e63fed6153e515098a050ac7348e9d7de784a84102fc075d4ac09136726b6
+    mime: image/tiff
+    bytes: 27561893
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7a/5e/7a5e63fed6153e515098a050ac7348e9d7de784a84102fc075d4ac09136726b6/preview-400.9d212b4dfcb6.jpg
+        sha256: 9d212b4dfcb616ea4e83a3725c7e53358b4d29c500e54c01d1649bc1e9130b34
+        mime: image/jpeg
+        bytes: 80591
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

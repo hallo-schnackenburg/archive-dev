@@ -1,0 +1,38 @@
+id: 01HEHD3NBCRQS3J58EYK0RB52F
+type: image
+subtype: plan
+title: Lageplan Sparkasse
+description: Maßstab 1:500.
+date: 1808-02-14
+location: Salzwedel, Mühlenweg
+origin:
+  name: Hans Meyer
+  type: person
+  location: Wustrow
+subjects:
+  - name: Gülden
+    type: place
+  - name: Glockenweihe 1808
+    type: event
+  - name: Hitzacker
+    type: place
+files:
+  - role: main
+    original_name: scan_289.tif
+    path: files/a2/02/a2020040e2285b9b87930b9fa222a254f14a80c09424ec9a3bea75661c0fef5c/original.tif
+    sha256: a2020040e2285b9b87930b9fa222a254f14a80c09424ec9a3bea75661c0fef5c
+    mime: image/tiff
+    bytes: 25362283
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a2/02/a2020040e2285b9b87930b9fa222a254f14a80c09424ec9a3bea75661c0fef5c/preview-400.cf2c69e4bc08.jpg
+        sha256: cf2c69e4bc08dc9963279e47b9eaf505e29f79afc985345530b36c319cd543ac
+        mime: image/jpeg
+        bytes: 74299
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

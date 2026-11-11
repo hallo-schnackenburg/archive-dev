@@ -1,0 +1,35 @@
+id: 01JA2N9AXBDXRK8FJZ1WT9HX01
+type: image
+subtype: photo
+title: Feuerwehrübung 2000
+description: Zu sehen sind Heuberge und Molkerei.
+date: 2000/2005
+origin:
+  name: Helga Jeß
+  type: person
+  location: Havelberg
+subjects:
+  - name: Windmühle
+    type: building
+  - name: Havelberg
+    type: place
+files:
+  - role: main
+    original_name: foto_9528.jpg
+    path: files/67/05/6705de8b67cf3a43d54e22b97a6df3f7e89c793efb193b6cefcf69688793356b/original.jpg
+    sha256: 6705de8b67cf3a43d54e22b97a6df3f7e89c793efb193b6cefcf69688793356b
+    mime: image/jpeg
+    bytes: 25265672
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/67/05/6705de8b67cf3a43d54e22b97a6df3f7e89c793efb193b6cefcf69688793356b/preview-400.5a86b0dfb277.jpg
+        sha256: 5a86b0dfb277d2b9decad1d00a80875c1512fc4db375888a461007da58c0821a
+        mime: image/jpeg
+        bytes: 37772
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

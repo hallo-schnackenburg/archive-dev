@@ -1,0 +1,37 @@
+id: 01M1VFRXSD3W318BNTWHTG94QS
+type: image
+subtype: plan
+title: Bauplan Kindergarten 1851
+date: 1851-04
+location: Zadrau, Fährstraße
+origin:
+  name: Fritz Krüger
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Album 26/037
+  note: Schrank B
+files:
+  - role: main
+    original_name: scan_485.tif
+    path: files/6f/e2/6fe2a0fe8d5bb6989782caefde0525a6bd63cf1fa0d60319de78042e32e64e8a/original.tif
+    sha256: 6fe2a0fe8d5bb6989782caefde0525a6bd63cf1fa0d60319de78042e32e64e8a
+    mime: image/tiff
+    bytes: 8528789
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6f/e2/6fe2a0fe8d5bb6989782caefde0525a6bd63cf1fa0d60319de78042e32e64e8a/preview-400.a8c7fc44ad96.jpg
+        sha256: a8c7fc44ad962350cd144f0a776207e2ac735de9c84924904bf48d687121dadf
+        mime: image/jpeg
+        bytes: 67780
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

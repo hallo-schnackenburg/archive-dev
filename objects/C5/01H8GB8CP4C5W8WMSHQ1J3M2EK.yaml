@@ -1,0 +1,45 @@
+id: 01H8GB8CP4C5W8WMSHQ1J3M2EK
+type: image
+subtype: drawing
+title: Federzeichnung Fähranleger
+description: Mit Anmerkungen am Rand.
+date: 1920-07-25
+location: Gartow, Marktstraße
+geocode:
+  lat: 52.9039
+  lon: 11.4958
+  precision: town
+  source: osm
+origin:
+  name: Dieter Krüger
+  type: person
+  location: Holtorf
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Wittenberge
+    type: place
+  - name: Kindergartenfest 1920
+    type: event
+parents:
+  - 01F1BHYRX3XQ5HK4ANVQXBQ5E6
+files:
+  - role: main
+    original_name: scan_226.tif
+    path: files/36/4b/364b3c05985d6a80b4bbbff71555dcf5cb482e99790f075b68e14d7f6e9598f7/original.tif
+    sha256: 364b3c05985d6a80b4bbbff71555dcf5cb482e99790f075b68e14d7f6e9598f7
+    mime: image/tiff
+    bytes: 12697028
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/36/4b/364b3c05985d6a80b4bbbff71555dcf5cb482e99790f075b68e14d7f6e9598f7/preview-400.3bc6711cb19a.jpg
+        sha256: 3bc6711cb19a971a29272b4cc3572887c240ec022ac44216e64b76c9afa7f805
+        mime: image/jpeg
+        bytes: 87399
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,60 @@
+id: 01K9RKFBK08T195JKPBE7XPXP2
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Spielmannszug 1906
+date: 1906-08-24
+location: Gartow, Poststelle
+origin:
+  name: Bauausschuss Havelberg
+  type: business
+  location: Nienwalde
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan/Kasten 5/014
+parents:
+  - 01JWBMK7BHVBJEDZ8ATPAMX13A
+files:
+  - role: page
+    num: 1
+    original_name: protocol_7xpxp2_001.tif
+    path: files/f9/d9/f9d9f1e2024105acfdf32c02608bafdd0df8a84c1e2035fb9817a00e0679d4eb/original.tif
+    sha256: f9d9f1e2024105acfdf32c02608bafdd0df8a84c1e2035fb9817a00e0679d4eb
+    mime: image/tiff
+    bytes: 1190354
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f9/d9/f9d9f1e2024105acfdf32c02608bafdd0df8a84c1e2035fb9817a00e0679d4eb/preview-400.10006995ad12.jpg
+        sha256: 10006995ad12c4d9e5f9aa3035e48cb1a96572b1249551218ab1151901d54b77
+        mime: image/jpeg
+        bytes: 68165
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_7xpxp2_002.tif
+    path: files/75/d5/75d5f79d290c2ea86ae8e636b4880a70508569fcb4787e3e4ee238e446dd7490/original.tif
+    sha256: 75d5f79d290c2ea86ae8e636b4880a70508569fcb4787e3e4ee238e446dd7490
+    mime: image/tiff
+    bytes: 14806539
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/75/d5/75d5f79d290c2ea86ae8e636b4880a70508569fcb4787e3e4ee238e446dd7490/preview-400.9641f80f70fb.jpg
+        sha256: 9641f80f70fb3bd7ebde420f1a76b4635e104390e7d8e6798ceb5402c771e16b
+        mime: image/jpeg
+        bytes: 82591
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

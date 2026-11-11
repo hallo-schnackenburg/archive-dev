@@ -1,0 +1,50 @@
+id: 01K9NV19K9JWKAWFH5VJXMS4R0
+type: image
+subtype: print
+title: "Holzschnitt: Sturmschaden, Dömitz"
+date: "1757"
+location: Lüchow, Wassermühle
+geocode:
+  lat: 53.0924
+  lon: 11.4744
+  precision: town
+  source: osm
+origin:
+  name: Irmgard Jeß
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg 25/381
+owner:
+  name: Karl Brandt
+  type: person
+  note: Nachlass
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+parents:
+  - 01FC500G3M1EH4PAW2K7HHB2K0
+files:
+  - role: main
+    original_name: scan_819.tif
+    path: files/ba/15/ba157b426270a2d41e4b5328f2f966515cc4d744e0541696d95d0161a94594e2/original.tif
+    sha256: ba157b426270a2d41e4b5328f2f966515cc4d744e0541696d95d0161a94594e2
+    mime: image/tiff
+    bytes: 18705049
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ba/15/ba157b426270a2d41e4b5328f2f966515cc4d744e0541696d95d0161a94594e2/preview-400.b3a924fd45b7.jpg
+        sha256: b3a924fd45b7d4f598696134c9908b8afade1d31089fac2b4ae8b00ba8f69e1e
+        mime: image/jpeg
+        bytes: 83342
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

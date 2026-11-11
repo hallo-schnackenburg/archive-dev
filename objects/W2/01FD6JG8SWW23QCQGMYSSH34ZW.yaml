@@ -1,0 +1,31 @@
+id: 01FD6JG8SWW23QCQGMYSSH34ZW
+type: image
+subtype: plan
+title: Bauplan Torhaus 1828
+description: Maßstab 1:2500.
+date: 182X
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Gasthof Meyer
+    type: building
+files:
+  - role: main
+    original_name: scan_068.tif
+    path: files/57/0f/570f3635b4351aca29ea91e8695a2017d046bc05b4f9deecbfa74d8e13e9e0cb/original.tif
+    sha256: 570f3635b4351aca29ea91e8695a2017d046bc05b4f9deecbfa74d8e13e9e0cb
+    mime: image/tiff
+    bytes: 1967948
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/57/0f/570f3635b4351aca29ea91e8695a2017d046bc05b4f9deecbfa74d8e13e9e0cb/preview-400.1fb6ef1755ce.jpg
+        sha256: 1fb6ef1755ce0b7de2c51495c57f7b2c9a9bf26fd6ad1df80a7cfd3813768238
+        mime: image/jpeg
+        bytes: 34175
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

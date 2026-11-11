@@ -1,0 +1,33 @@
+id: 01H1S77TNCJFG707YP41JBBYW9
+type: image
+subtype: plan
+title: Bauplan Feuerwehrhaus 1861
+date: "1861"
+location: Wootz, Lange Straße
+subjects:
+  - name: Sportplatz
+    type: building
+  - name: Karl Mahnke
+    type: person
+  - name: Badestelle
+    type: building
+files:
+  - role: main
+    original_name: scan_744.tif
+    path: files/0a/ce/0acefc97b22fda573150373941aa28b53f9a59f3ceb81c574ceeb2f6d6bcad77/original.tif
+    sha256: 0acefc97b22fda573150373941aa28b53f9a59f3ceb81c574ceeb2f6d6bcad77
+    mime: image/tiff
+    bytes: 19292612
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0a/ce/0acefc97b22fda573150373941aa28b53f9a59f3ceb81c574ceeb2f6d6bcad77/preview-400.1b95d9e97a88.jpg
+        sha256: 1b95d9e97a8832c823bd19afd42dd0972e0062ec4f6350eeb47be99a4a51c48f
+        mime: image/jpeg
+        bytes: 33527
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

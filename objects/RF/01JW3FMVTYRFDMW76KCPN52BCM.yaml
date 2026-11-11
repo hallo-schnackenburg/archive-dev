@@ -1,0 +1,41 @@
+id: 01JW3FMVTYRFDMW76KCPN52BCM
+type: image
+subtype: plan
+title: Bauplan Kirche St. Johannis 1936
+date: "1936"
+location: Dömitz, Marktstraße
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Lenzen
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Weihnachtsmarkt 1936
+    type: event
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01GGFA4BRHTCBTSYCZDK78S61J
+  - 01JE13KP3MCDRS8N82FYSXB27D
+files:
+  - role: main
+    original_name: scan_059.tif
+    path: files/94/f3/94f30fab1e967da12ac18e5e00ff0b51579eaba885a15dcdedc105f85855e8e4/original.tif
+    sha256: 94f30fab1e967da12ac18e5e00ff0b51579eaba885a15dcdedc105f85855e8e4
+    mime: image/tiff
+    bytes: 17229909
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/94/f3/94f30fab1e967da12ac18e5e00ff0b51579eaba885a15dcdedc105f85855e8e4/preview-400.1b0f8dffd51b.jpg
+        sha256: 1b0f8dffd51b41b8b5e0d8442a76288cafd847f8d8604b8256c09d109cb67c85
+        mime: image/jpeg
+        bytes: 22768
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Datum nach Rückseite geschätzt.

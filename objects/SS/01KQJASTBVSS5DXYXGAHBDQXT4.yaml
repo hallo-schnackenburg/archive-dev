@@ -1,0 +1,46 @@
+id: 01KQJASTBVSS5DXYXGAHBDQXT4
+type: image
+subtype: plan
+title: Deichplan Wootz bis Kapern
+date: 1787?
+origin:
+  name: Hermann Meyer
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos/Album 15/109
+owner:
+  name: Wilhelm Lemke
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Pumpenhaus
+    type: building
+parents:
+  - 01HH369QCTQQ41PT1K6NF00KAH
+files:
+  - role: main
+    original_name: scan_101.tif
+    path: files/b3/25/b325cab6bfd9332b4318b589305c7777f6b3fb1e4496c73dfe9468cc49c44462/original.tif
+    sha256: b325cab6bfd9332b4318b589305c7777f6b3fb1e4496c73dfe9468cc49c44462
+    mime: image/tiff
+    bytes: 11109129
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/25/b325cab6bfd9332b4318b589305c7777f6b3fb1e4496c73dfe9468cc49c44462/preview-400.8bce82eb22aa.jpg
+        sha256: 8bce82eb22aada73717839cc35d59e533de75cab8a3e1e10bf4b381f4f9f7c3e
+        mime: image/jpeg
+        bytes: 40527
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

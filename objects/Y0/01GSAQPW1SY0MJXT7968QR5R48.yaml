@@ -1,0 +1,31 @@
+id: 01GSAQPW1SY0MJXT7968QR5R48
+type: image
+subtype: photo
+title: Blick vom Hafen auf das Bahnhof
+location: Arendsee, Fährstraße
+origin:
+  name: Marta Krüger
+  type: person
+  location: Salzwedel
+parents:
+  - 01M265RTMYNX5W0CM6R19YZYNH
+files:
+  - role: main
+    original_name: foto_5188.jpg
+    path: files/2e/95/2e958754625e2aec73ee296bb43d3d722c933d6ae6c046b66dc70c27462ebaae/original.jpg
+    sha256: 2e958754625e2aec73ee296bb43d3d722c933d6ae6c046b66dc70c27462ebaae
+    mime: image/jpeg
+    bytes: 14051081
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/2e/95/2e958754625e2aec73ee296bb43d3d722c933d6ae6c046b66dc70c27462ebaae/preview-400.13c42cf23a03.jpg
+        sha256: 13c42cf23a03132417d1c076d673c75a8e5600220f3a08b16c44c973b5dd7dfd
+        mime: image/jpeg
+        bytes: 59989
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

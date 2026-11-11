@@ -1,0 +1,83 @@
+id: 01JEN793Z9BHRQCQK1SQ7E5SMS
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Brandversicherung 1900
+description: Anwesend waren 7 Personen.
+date: 1900-07-08
+location: Rüterberg, Elbstraße
+geocode:
+  lat: 53.0989
+  lon: 11.6942
+  precision: exact
+  source: osm
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 17/011
+subjects:
+  - name: Schützenfest 1900
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: protocol_7e5sms_001.tif
+    path: files/94/22/9422891e1f7f8cf5f34a5cb75838ed556d3d566d7c0582ce85187e2eb05ebb33/original.tif
+    sha256: 9422891e1f7f8cf5f34a5cb75838ed556d3d566d7c0582ce85187e2eb05ebb33
+    mime: image/tiff
+    bytes: 21535479
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/94/22/9422891e1f7f8cf5f34a5cb75838ed556d3d566d7c0582ce85187e2eb05ebb33/preview-400.961c89ea9c0a.jpg
+        sha256: 961c89ea9c0a3cf654dbc14f01fb18c3ca8810e1b0d4852633ab19f05d24d76a
+        mime: image/jpeg
+        bytes: 69351
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_7e5sms_002.tif
+    path: files/96/c4/96c43bf0ce25324b1f59204153d09b94817176c59d22253905bd96c01f68a3fe/original.tif
+    sha256: 96c43bf0ce25324b1f59204153d09b94817176c59d22253905bd96c01f68a3fe
+    mime: image/tiff
+    bytes: 4150992
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/96/c4/96c43bf0ce25324b1f59204153d09b94817176c59d22253905bd96c01f68a3fe/preview-400.3a3a49e7b4cf.jpg
+        sha256: 3a3a49e7b4cf8192ebcf905f49b197217213997ea83e4d4827784fa8fcba6de9
+        mime: image/jpeg
+        bytes: 76301
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_7e5sms_003.tif
+    path: files/d8/83/d8839e0e837342ca4bae92c67ff657c9b0e78d2c21f4008539c8b4a624e9ca2c/original.tif
+    sha256: d8839e0e837342ca4bae92c67ff657c9b0e78d2c21f4008539c8b4a624e9ca2c
+    mime: image/tiff
+    bytes: 24141229
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d8/83/d8839e0e837342ca4bae92c67ff657c9b0e78d2c21f4008539c8b4a624e9ca2c/preview-400.43865a07cf8c.jpg
+        sha256: 43865a07cf8cad1f94ccb50610b54d938b114da998e005e87b4cdd898da0afb5
+        mime: image/jpeg
+        bytes: 34689
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

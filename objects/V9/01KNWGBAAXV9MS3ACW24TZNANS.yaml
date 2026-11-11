@@ -1,0 +1,44 @@
+id: 01KNWGBAAXV9MS3ACW24TZNANS
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Seedorf
+description: Tusche auf Transparentpapier.
+date: "1907"
+origin:
+  name: Ilse Lemke
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Poststelle
+    type: building
+  - name: Hafen
+    type: building
+  - name: Ingrid Plate
+    type: person
+parents:
+  - 01HEN36GX2JVN3M54R3NSB7YJF
+files:
+  - role: main
+    original_name: scan_551.tif
+    path: files/d3/00/d3001a4aa252a8cbef1cb54f90f78e37407a0b503c5e6795a24ac94bfa60aeba/original.tif
+    sha256: d3001a4aa252a8cbef1cb54f90f78e37407a0b503c5e6795a24ac94bfa60aeba
+    mime: image/tiff
+    bytes: 26425769
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d3/00/d3001a4aa252a8cbef1cb54f90f78e37407a0b503c5e6795a24ac94bfa60aeba/preview-400.e697bd5ed24e.jpg
+        sha256: e697bd5ed24e887e81b2b21d95ad3e3035ccdde7c9136109bee7f3b060b445e7
+        mime: image/jpeg
+        bytes: 79456
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

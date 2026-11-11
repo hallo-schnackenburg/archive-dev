@@ -1,0 +1,41 @@
+id: 01HNCFPYEFPKBZDWK3BJJTF4G0
+type: image
+subtype: print
+title: Postkarte Restorf, Rathaus
+description: Kupferstich, koloriert.
+date: 1945-01
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 39/091
+subjects:
+  - name: Speicher
+    type: building
+  - name: Helga Pape
+    type: person
+  - name: Tanzsaal
+    type: building
+parents:
+  - 01HZP17Y1NVSXA7HYV6RH1MVZS
+files:
+  - role: main
+    original_name: scan_613.tif
+    path: files/dc/e5/dce51f5410c58284b2cf20c666d67cc82e72b98011723beb12a5e4b8e7cef5c2/original.tif
+    sha256: dce51f5410c58284b2cf20c666d67cc82e72b98011723beb12a5e4b8e7cef5c2
+    mime: image/tiff
+    bytes: 24425082
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/dc/e5/dce51f5410c58284b2cf20c666d67cc82e72b98011723beb12a5e4b8e7cef5c2/preview-400.b365c3d5496e.jpg
+        sha256: b365c3d5496edb62d87cda5657ba735fe1db3cd03f8ab2404947fbf0f53e2300
+        mime: image/jpeg
+        bytes: 37596
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01GPMPJ9QBH2DPRCDBS34XYGE7
+type: image
+subtype: drawing
+title: Skizze Restorf, Fährstraße
+date: 1859-04-22
+subjects:
+  - name: Apotheke
+    type: building
+  - name: Speicher
+    type: building
+  - name: Nienwalde
+    type: place
+parents:
+  - 01HSFT2Q2FD2XQC16T903QVHSK
+files:
+  - role: main
+    original_name: scan_188.tif
+    path: files/40/54/405489c090c9ffc07c2da0ec837482572a7654c38c80ac40aa87f97e26e59307/original.tif
+    sha256: 405489c090c9ffc07c2da0ec837482572a7654c38c80ac40aa87f97e26e59307
+    mime: image/tiff
+    bytes: 19789246
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/40/54/405489c090c9ffc07c2da0ec837482572a7654c38c80ac40aa87f97e26e59307/preview-400.6d4ab6700b0c.jpg
+        sha256: 6d4ab6700b0c00e7250b9889677957791148ab45b26fe64eae6c140161cc89f6
+        mime: image/jpeg
+        bytes: 55115
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

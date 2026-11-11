@@ -1,0 +1,51 @@
+id: 01KY5ZDMFV75SKSQ8YFPHW9AGW
+type: image
+subtype: plan
+title: Deichplan Bömenzien bis Laase
+description: Maßstab 1:500.
+date: 1870-01-11
+location: Zadrau, Backhaus
+geocode:
+  lat: 53.0132
+  lon: 11.6799
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Hennings
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 1/033
+owner:
+  name: Berta Tiedemann
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Emma Kuhlmann
+    type: person
+  - name: Heinrich Krüger
+    type: person
+files:
+  - role: main
+    original_name: scan_439.tif
+    path: files/c0/d6/c0d64073e14da82fbb4f52d1e6d93c102f8305f0972a2f8aeddac748ce5886a3/original.tif
+    sha256: c0d64073e14da82fbb4f52d1e6d93c102f8305f0972a2f8aeddac748ce5886a3
+    mime: image/tiff
+    bytes: 10907758
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c0/d6/c0d64073e14da82fbb4f52d1e6d93c102f8305f0972a2f8aeddac748ce5886a3/preview-400.1a4c42b27fcf.jpg
+        sha256: 1a4c42b27fcfd78a11a53816f574a4216d7d2a7b1bc036f746052bd156d547df
+        mime: image/jpeg
+        bytes: 65312
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

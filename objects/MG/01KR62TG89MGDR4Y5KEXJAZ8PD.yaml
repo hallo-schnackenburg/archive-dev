@@ -1,0 +1,53 @@
+id: 01KR62TG89MGDR4Y5KEXJAZ8PD
+type: image
+subtype: photo
+title: Kartoffelernte 1977
+description: Farbfoto, leicht verblasst.
+date: 1977/1978
+location: Holtorf, Tanzsaal
+geocode:
+  lat: 53.0887
+  lon: 11.6317
+  precision: town
+  source: osm
+origin:
+  name: Helga Brandt
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F/Album 19/027
+  note: Bücherregal links
+subjects:
+  - name: Restorf
+    type: place
+  - name: Maifeier 1977
+    type: event
+  - name: Poststelle
+    type: building
+parents:
+  - 01HS9D6TNXGYQ746ZSEVHFEZN8
+  - 01JDMR23P0ST4P21YFR11Z2B2R
+files:
+  - role: main
+    original_name: P1258.jpg
+    path: files/69/3f/693f6e2bb09ba1e3b8fb8890469a9cf1cd99a065f1e739431d5bb46aa3ea222a/original.jpg
+    sha256: 693f6e2bb09ba1e3b8fb8890469a9cf1cd99a065f1e739431d5bb46aa3ea222a
+    mime: image/jpeg
+    bytes: 20987728
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/69/3f/693f6e2bb09ba1e3b8fb8890469a9cf1cd99a065f1e739431d5bb46aa3ea222a/preview-400.5c68bac868ab.jpg
+        sha256: 5c68bac868ab15fdea6f1574ba0c78dfef2da8c1f413e3febc33c2b313e7b8e6
+        mime: image/jpeg
+        bytes: 69859
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

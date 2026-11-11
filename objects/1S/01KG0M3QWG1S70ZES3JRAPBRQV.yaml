@@ -1,0 +1,45 @@
+id: 01KG0M3QWG1S70ZES3JRAPBRQV
+type: document
+subtype: note
+title: Rechnung Hennings, Kindergarten
+date: 1860/1862
+location: Rüterberg, Friedhofskapelle
+origin:
+  name: Manfred Ahrens
+  type: person
+  location: Restorf
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v67649
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Kirmes 1860
+    type: event
+parents:
+  - 01H4PN30WRRJ626WVNCSGETHA9
+files:
+  - role: page
+    num: 1
+    original_name: note_apbrqv_001.tif
+    path: files/18/61/186150b3f4a5229ea4f5d587d2da675616515fdea4a0fc3e9107c9ad5f1d7d5f/original.tif
+    sha256: 186150b3f4a5229ea4f5d587d2da675616515fdea4a0fc3e9107c9ad5f1d7d5f
+    mime: image/tiff
+    bytes: 3036662
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/18/61/186150b3f4a5229ea4f5d587d2da675616515fdea4a0fc3e9107c9ad5f1d7d5f/preview-400.7d0d1523519d.jpg
+        sha256: 7d0d1523519d2a2c45cc91323d56863b79e45fa5d36ee9a586c1e5eaa5d2d240
+        mime: image/jpeg
+        bytes: 51895
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,48 @@
+id: 01H0P7F5JT8W3FYK0P49DP49YK
+type: image
+subtype: photo
+title: Familie Meyer beim Weihnachtsmarkt
+description: Abzug im Format 6 x 9 cm.
+date: "1973"
+location: Kapern, Hafenstraße
+geocode:
+  lat: 53.0986
+  lon: 11.6799
+  precision: street
+  source: osm
+origin:
+  name: Paul Quast
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 26/146
+  note: Regal 1
+subjects:
+  - name: Hafen
+    type: building
+parents:
+  - 01FJ86NA6W3C03D1PBGTPFRX8T
+files:
+  - role: main
+    original_name: DSC4869.jpg
+    path: files/c6/5a/c65ad4ceb1e60176ec1a383a8fafde0c604343f17fd2a70d789a324422604f4f/original.jpg
+    sha256: c65ad4ceb1e60176ec1a383a8fafde0c604343f17fd2a70d789a324422604f4f
+    mime: image/jpeg
+    bytes: 7042378
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/c6/5a/c65ad4ceb1e60176ec1a383a8fafde0c604343f17fd2a70d789a324422604f4f/preview-400.7f58f95215c7.jpg
+        sha256: 7f58f95215c7e339f213ce5e7acbeebd9a7f5c126cbab87bca8330fa1972b2ed
+        mime: image/jpeg
+        bytes: 56356
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

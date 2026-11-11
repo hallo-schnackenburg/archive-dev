@@ -1,0 +1,34 @@
+id: 01G2HG37KNBTDCQ6GT4A7GWVRT
+type: image
+subtype: drawing
+title: Wappenentwurf Wittenberge, Hitzacker
+description: Mit Anmerkungen am Rand.
+date: 1836-03-20
+location: Gollensdorf, Storchennest
+origin:
+  name: Walter Tiedemann
+  type: person
+  location: Wootz
+parents:
+  - 01KC6VVRX03XHNE2QA3QHP7TYJ
+  - 01J0KJQZCBVBB5P2CFE222P7V3
+files:
+  - role: main
+    original_name: scan_162.tif
+    path: files/62/05/62059ad32acfbe00ac7fb4cd4fc94315497e538140886d88f118804c63c2b790/original.tif
+    sha256: 62059ad32acfbe00ac7fb4cd4fc94315497e538140886d88f118804c63c2b790
+    mime: image/tiff
+    bytes: 7652195
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/62/05/62059ad32acfbe00ac7fb4cd4fc94315497e538140886d88f118804c63c2b790/preview-400.182fcae167dc.jpg
+        sha256: 182fcae167dcbe6fd27a328330157296f175d9e4e15ee28af7e0d6a498d7bb0f
+        mime: image/jpeg
+        bytes: 31288
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

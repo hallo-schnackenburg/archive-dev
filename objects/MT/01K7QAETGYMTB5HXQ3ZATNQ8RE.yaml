@@ -1,0 +1,49 @@
+id: 01K7QAETGYMTB5HXQ3ZATNQ8RE
+type: document
+subtype: note
+title: Kassenzettel Apotheke, Gollensdorf
+description: Auf der Rückseite eines Formulars.
+date: 196X
+location: Pretzier, Grenzturm
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Lenzen
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 26/020
+  note: Schrank B
+subjects:
+  - name: Kirmes 1967
+    type: event
+  - name: Hochwasser 1967
+    type: event
+  - name: Hermann Bohlmann
+    type: person
+parents:
+  - 01FGVBASJXHEH355K2B76NTT5V
+files:
+  - role: page
+    num: 1
+    original_name: note_tnq8re_001.tif
+    path: files/db/ca/dbcad103ae61f566e5c091b27d169c4a5de1b61e8db79b169778cd345601bf7a/original.tif
+    sha256: dbcad103ae61f566e5c091b27d169c4a5de1b61e8db79b169778cd345601bf7a
+    mime: image/tiff
+    bytes: 21677269
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/ca/dbcad103ae61f566e5c091b27d169c4a5de1b61e8db79b169778cd345601bf7a/preview-400.85fb3966cf0e.jpg
+        sha256: 85fb3966cf0e2da5db71dc215e82ff23e1b19036eed04ec8433ef5514b9f343f
+        mime: image/jpeg
+        bytes: 88981
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

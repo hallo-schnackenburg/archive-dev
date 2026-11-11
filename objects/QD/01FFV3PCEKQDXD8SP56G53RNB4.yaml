@@ -1,0 +1,41 @@
+id: 01FFV3PCEKQDXD8SP56G53RNB4
+type: image
+subtype: plan
+title: Grundriss Grenzturm
+description: Tusche auf Transparentpapier.
+date: 1854-01-11
+location: Lüchow, Am Markt
+origin:
+  name: Fritz Hennings
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro/Mappe 16/069
+subjects:
+  - name: Zollamt
+    type: building
+files:
+  - role: main
+    original_name: scan_702.tif
+    path: files/5a/eb/5aeb705f824977e60233f116550574416503c91279eb354e89987a880c76a413/original.tif
+    sha256: 5aeb705f824977e60233f116550574416503c91279eb354e89987a880c76a413
+    mime: image/tiff
+    bytes: 26659495
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5a/eb/5aeb705f824977e60233f116550574416503c91279eb354e89987a880c76a413/preview-400.f3874bff8793.jpg
+        sha256: f3874bff8793cca149d1d266d77d76365b9fbcd763698029f74494020bb71038
+        mime: image/jpeg
+        bytes: 71124
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Doppelt vorhanden?

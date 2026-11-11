@@ -1,0 +1,47 @@
+id: 01HA2EGR8TF0PX1GYWMGZT6QYQ
+type: document
+subtype: letter
+title: Zeugnis für Walter Jeß
+date: 1858?
+location: Zadrau, Am Markt
+geocode:
+  lat: 52.9143
+  lon: 11.6631
+  precision: street
+  source: osm
+recipient: Lotte Lemke
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F/Mappe 5/092
+subjects:
+  - name: Kindergarten
+    type: building
+  - name: Hitzacker
+    type: place
+  - name: Beerdigung 1858
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_zt6qyq_001.tif
+    path: files/38/c8/38c8b0e7bd75b7833489e4253bb33aa8f0225a25aa02625eddf22ae495c76432/original.tif
+    sha256: 38c8b0e7bd75b7833489e4253bb33aa8f0225a25aa02625eddf22ae495c76432
+    mime: image/tiff
+    bytes: 24626880
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/38/c8/38c8b0e7bd75b7833489e4253bb33aa8f0225a25aa02625eddf22ae495c76432/preview-400.37d729a29243.jpg
+        sha256: 37d729a292436e8295b462954db4ddddf2f1bd137c3fae4608ff02de6151acab
+        mime: image/jpeg
+        bytes: 55745
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

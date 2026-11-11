@@ -1,0 +1,44 @@
+id: 01KCCSMF64YG1XA5PAQTDC5KQ1
+type: document
+subtype: note
+title: Rechnung Bohlmann, Fähranleger
+description: Beleg mit Stempel.
+date: 1970-11-23
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 19/032
+subjects:
+  - name: Backhaus
+    type: building
+  - name: Laase
+    type: place
+  - name: Dorfschule
+    type: building
+parents:
+  - 01KRNVBSTXBJR5NRDE3HAC7HXQ
+  - 01FWDEQ7341YMQ5FKJVM0QZ484
+files:
+  - role: page
+    num: 1
+    original_name: note_dc5kq1_001.tif
+    path: files/ee/d7/eed702e97d9832af711fba15f93387d5e2278f9456cfb5b1b45d8ab43469b401/original.tif
+    sha256: eed702e97d9832af711fba15f93387d5e2278f9456cfb5b1b45d8ab43469b401
+    mime: image/tiff
+    bytes: 11270821
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ee/d7/eed702e97d9832af711fba15f93387d5e2278f9456cfb5b1b45d8ab43469b401/preview-400.a13852b7c37a.jpg
+        sha256: a13852b7c37abc92344e4f23a9ddb483e15dc6028700366bb5c38dc8c9c0d11c
+        mime: image/jpeg
+        bytes: 59585
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

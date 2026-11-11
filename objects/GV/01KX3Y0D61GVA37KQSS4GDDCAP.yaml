@@ -1,0 +1,45 @@
+id: 01KX3Y0D61GVA37KQSS4GDDCAP
+type: document
+subtype: letter
+title: Einladung zum Einweihung
+description: Betrifft Hochwasserschutz.
+date: 1932/1938
+location: Rüterberg, Elbstraße
+geocode:
+  lat: 53.0241
+  lon: 11.5325
+  precision: street
+  source: osm
+origin:
+  name: Karl Krüger
+  type: person
+  location: Gülden
+language: de
+subjects:
+  - name: Ernst Garms
+    type: person
+  - name: Arendsee
+    type: place
+parents:
+  - 01KVHW9J5WMTP6BZZ691K647CF
+files:
+  - role: page
+    num: 1
+    original_name: letter_gddcap_001.tif
+    path: files/c6/07/c607923f6cf32656833da51577a802ab7233aeb36839944222b3e9e3fb080706/original.tif
+    sha256: c607923f6cf32656833da51577a802ab7233aeb36839944222b3e9e3fb080706
+    mime: image/tiff
+    bytes: 8675807
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/07/c607923f6cf32656833da51577a802ab7233aeb36839944222b3e9e3fb080706/preview-400.c274762884d3.jpg
+        sha256: c274762884d35c8fb32651ad2794ae07b829430f01f29d34e2af04e486f93317
+        mime: image/jpeg
+        bytes: 32141
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

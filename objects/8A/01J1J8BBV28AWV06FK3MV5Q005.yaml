@@ -1,0 +1,45 @@
+id: 01J1J8BBV28AWV06FK3MV5Q005
+type: image
+subtype: photo
+title: Hochwasser der Landfrauenverein
+description: Farbfoto, leicht verblasst.
+date: 1956-06-19
+location: Gülden, Fährstraße
+geocode:
+  lat: 53.0406
+  lon: 11.6485
+  precision: street
+  source: osm
+origin:
+  name: Marta Rieke
+  type: person
+  location: Gorleben
+subjects:
+  - name: Erntedankfest 1956
+    type: event
+  - name: Brückeneinweihung 1956
+    type: event
+  - name: Richtfest 1956
+    type: event
+parents:
+  - 01GEV5Y4J3FGXYTVXBWZX1MJPG
+files:
+  - role: main
+    original_name: scan_663.tif
+    path: files/47/70/4770b10168fa60c884c2295f99dcea056a3b24e832cd8002cae4efcd23cd0b63/original.tif
+    sha256: 4770b10168fa60c884c2295f99dcea056a3b24e832cd8002cae4efcd23cd0b63
+    mime: image/tiff
+    bytes: 17567289
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/47/70/4770b10168fa60c884c2295f99dcea056a3b24e832cd8002cae4efcd23cd0b63/preview-400.cf3dc76d3218.jpg
+        sha256: cf3dc76d3218e1a338c4caaf296956a8842a72e39e3b69f7ec25b9d01e78c7eb
+        mime: image/jpeg
+        bytes: 58253
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

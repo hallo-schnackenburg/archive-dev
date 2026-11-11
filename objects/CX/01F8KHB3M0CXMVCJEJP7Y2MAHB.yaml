@@ -1,0 +1,40 @@
+id: 01F8KHB3M0CXMVCJEJP7Y2MAHB
+type: image
+subtype: plan
+title: Katasterblatt Tiedemann
+date: 1901-02
+location: Zadrau, Feuerwehrhaus
+geocode:
+  lat: 52.9565
+  lon: 11.6068
+  precision: region
+  source: osm
+subjects:
+  - name: Kindergartenfest 1901
+    type: event
+  - name: Wootz
+    type: place
+  - name: Dömitz
+    type: place
+parents:
+  - 01HW23R9B0E6RPF7JKRG9EPK9N
+files:
+  - role: main
+    original_name: scan_353.tif
+    path: files/20/bb/20bb0012e58a199deb7f1360356fafb0a75f2a73f0262a5549e2925439e96ccb/original.tif
+    sha256: 20bb0012e58a199deb7f1360356fafb0a75f2a73f0262a5549e2925439e96ccb
+    mime: image/tiff
+    bytes: 26371629
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/20/bb/20bb0012e58a199deb7f1360356fafb0a75f2a73f0262a5549e2925439e96ccb/preview-400.9d01a9ccfeb9.jpg
+        sha256: 9d01a9ccfeb95c30b22ced2754a8f0e8b14ba851ce30256dd3d91a5ee01bedcc
+        mime: image/jpeg
+        bytes: 55829
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

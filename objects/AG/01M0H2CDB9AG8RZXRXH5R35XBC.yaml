@@ -1,0 +1,65 @@
+id: 01M0H2CDB9AG8RZXRXH5R35XBC
+type: document
+subtype: note
+title: Quittung für Heinrich Ludolf
+date: "1882"
+location: Gartow, Mühlenweg
+origin:
+  name: Manfred Dreyer
+  type: person
+  location: Brünkendorf
+language: de
+owner:
+  name: Hans Lemke
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Viehmarkt 1882
+    type: event
+  - name: Hochwasser 1882
+    type: event
+  - name: Fähranleger
+    type: building
+parents:
+  - 01JE4HPA561FRN4MNN59BD0BZE
+files:
+  - role: page
+    num: 1
+    original_name: note_r35xbc_001.tif
+    path: files/1c/53/1c53e1a2954df2fd941fc6fbbaf17cb27cfb07877aa3506f06bf4e1d9ea23d80/original.tif
+    sha256: 1c53e1a2954df2fd941fc6fbbaf17cb27cfb07877aa3506f06bf4e1d9ea23d80
+    mime: image/tiff
+    bytes: 13129842
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/53/1c53e1a2954df2fd941fc6fbbaf17cb27cfb07877aa3506f06bf4e1d9ea23d80/preview-400.134a4ac96c45.jpg
+        sha256: 134a4ac96c45a355eb9f0aefe4bd91a449666643ee0458a5f97897ee05d033af
+        mime: image/jpeg
+        bytes: 39783
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_r35xbc_002.tif
+    path: files/e3/0a/e30a741c7b881cb4477852ff7093a44167680a00be55fd9d610a779f31ce8803/original.tif
+    sha256: e30a741c7b881cb4477852ff7093a44167680a00be55fd9d610a779f31ce8803
+    mime: image/tiff
+    bytes: 4883769
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e3/0a/e30a741c7b881cb4477852ff7093a44167680a00be55fd9d610a779f31ce8803/preview-400.063fb871291b.jpg
+        sha256: 063fb871291b4a8c8c94393d67b050f0fbc1734516ac7cdaefaedac62eb67134
+        mime: image/jpeg
+        bytes: 36947
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,49 @@
+id: 01H71EG0216F5R1KEACCZ33K89
+type: image
+subtype: plan
+title: Bauplan Storchennest 1933
+description: Mit handschriftlichen Ergänzungen.
+date: 1933-08
+location: Lüchow, Sparkasse
+geocode:
+  lat: 53.0471
+  lon: 11.512
+  precision: street
+  source: osm
+origin:
+  name: Helga Dreyer
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok/Album 16/106
+subjects:
+  - name: Brückeneinweihung 1933
+    type: event
+  - name: Kapern
+    type: place
+parents:
+  - 01K07SKN5ZQ3VDE1287C9C0F74
+files:
+  - role: main
+    original_name: scan_575.tif
+    path: files/48/b3/48b398669c25b3ddaae4d9cd7c12fa4ab79f29ebd0c9a9b6a04a949c50527d0d/original.tif
+    sha256: 48b398669c25b3ddaae4d9cd7c12fa4ab79f29ebd0c9a9b6a04a949c50527d0d
+    mime: image/tiff
+    bytes: 799136
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/48/b3/48b398669c25b3ddaae4d9cd7c12fa4ab79f29ebd0c9a9b6a04a949c50527d0d/preview-400.a4df4aa26a37.jpg
+        sha256: a4df4aa26a3773904ec23954f0025c0896b74c6b51511a7207448956724f5b00
+        mime: image/jpeg
+        bytes: 83982
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

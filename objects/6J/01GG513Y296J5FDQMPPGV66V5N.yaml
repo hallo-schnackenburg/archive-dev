@@ -1,0 +1,45 @@
+id: 01GG513Y296J5FDQMPPGV66V5N
+type: image
+subtype: print
+title: Postkarte Arendsee, Gärtnerei
+date: 174X
+location: Zadrau, Deichstraße
+origin:
+  name: Heinrich Wegner
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Familie Jeß
+    type: person
+    location: Pretzier
+  reference: Pro/Mappe 7/077
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Hochzeit 1740
+    type: event
+  - name: Gorleben
+    type: place
+parents:
+  - 01GBX4DSD6VXD835CH0X8R10EN
+files:
+  - role: main
+    original_name: scan_363.tif
+    path: files/dd/39/dd398d25bd5c33e311ac18bf4ddfee03a1409c5695184d9f39b0d49da5c3579f/original.tif
+    sha256: dd398d25bd5c33e311ac18bf4ddfee03a1409c5695184d9f39b0d49da5c3579f
+    mime: image/tiff
+    bytes: 25581514
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/39/dd398d25bd5c33e311ac18bf4ddfee03a1409c5695184d9f39b0d49da5c3579f/preview-400.b815b557750f.jpg
+        sha256: b815b557750f6691d12b50e558111e125bdc4c59efc4e4d94f7559919f348211
+        mime: image/jpeg
+        bytes: 63630
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

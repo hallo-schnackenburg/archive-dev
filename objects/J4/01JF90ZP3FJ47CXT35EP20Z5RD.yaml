@@ -1,0 +1,32 @@
+id: 01JF90ZP3FJ47CXT35EP20Z5RD
+type: image
+subtype: photo
+title: Dorfladen in Lüchow
+location: Havelberg, Dorfstraße
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Wilhelm Burmester
+    type: person
+  - name: Wilhelm Schulz
+    type: person
+files:
+  - role: main
+    original_name: scan_542.tif
+    path: files/fa/10/fa10102c9edd94ead29532bf79b69d42708f7dc3fda6964628557bac34ef06b8/original.tif
+    sha256: fa10102c9edd94ead29532bf79b69d42708f7dc3fda6964628557bac34ef06b8
+    mime: image/tiff
+    bytes: 2552415
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fa/10/fa10102c9edd94ead29532bf79b69d42708f7dc3fda6964628557bac34ef06b8/preview-400.898688b892d2.jpg
+        sha256: 898688b892d2c064b72df181413b9889961cabff01cb905819bf6ae71f63c85b
+        mime: image/jpeg
+        bytes: 54363
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01M1MSRSJPGPV3FV6FYXGZMEQT
+type: image
+subtype: drawing
+title: Pumpenhaus, Aquarell, Wittenberge
+date: 1898-07-15
+origin:
+  name: Ernst Dierks
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Beerdigung 1898
+    type: event
+  - name: Friedrich Mahnke
+    type: person
+parents:
+  - 01GQNCNS1ENA3RKA5ZC1ZCYHJF
+files:
+  - role: main
+    original_name: scan_950.tif
+    path: files/27/d8/27d8c466730922b2fa97f3d3c2bbd348d6d6f9102855527b99f7ffd960390c7f/original.tif
+    sha256: 27d8c466730922b2fa97f3d3c2bbd348d6d6f9102855527b99f7ffd960390c7f
+    mime: image/tiff
+    bytes: 4403696
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/27/d8/27d8c466730922b2fa97f3d3c2bbd348d6d6f9102855527b99f7ffd960390c7f/preview-400.27c6ca95294d.jpg
+        sha256: 27c6ca95294dc55e7b4bfc65763139cc67d8a2e7e3e976e80c57378c4e18f69c
+        mime: image/jpeg
+        bytes: 27579
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01FT0GPM4AZ7QBJCWKE4E2DVZ1
+type: image
+subtype: plan
+title: Katasterblatt Harms
+description: Mit handschriftlichen Ergänzungen.
+date: 1923~
+subjects:
+  - name: Anni Lemke
+    type: person
+  - name: Gülden
+    type: place
+files:
+  - role: main
+    original_name: scan_537.tif
+    path: files/c5/64/c5647092ac570d591420180abd56b8ecafa081fe4fa1fde147d1c5d2f7dc25ac/original.tif
+    sha256: c5647092ac570d591420180abd56b8ecafa081fe4fa1fde147d1c5d2f7dc25ac
+    mime: image/tiff
+    bytes: 19251693
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c5/64/c5647092ac570d591420180abd56b8ecafa081fe4fa1fde147d1c5d2f7dc25ac/preview-400.95a78d10be5a.jpg
+        sha256: 95a78d10be5ae5650e28375b6996f85151f66211799d4d40a516023b55b16d8c
+        mime: image/jpeg
+        bytes: 44081
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,61 @@
+id: 01FXA9H3DC9DFX4QEYCG28QTBY
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Straßenbeleuchtung 1999
+date: 1999-05-20
+origin:
+  name: Kirchenvorstand Gorleben
+  type: business
+  location: Restorf
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Weihnachtsmarkt 1999
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: protocol_28qtby_001.tif
+    path: files/86/fe/86fe513250e70904e79442e03fb64e1adccf10d36d8e75a97fbc539df2bf954f/original.tif
+    sha256: 86fe513250e70904e79442e03fb64e1adccf10d36d8e75a97fbc539df2bf954f
+    mime: image/tiff
+    bytes: 15177520
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/fe/86fe513250e70904e79442e03fb64e1adccf10d36d8e75a97fbc539df2bf954f/preview-400.b9af3e647ad7.jpg
+        sha256: b9af3e647ad73097f100763f76331fae22985013e57fd9f882c998b37c364223
+        mime: image/jpeg
+        bytes: 60562
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_28qtby_002.tif
+    path: files/76/57/76576742397cd5644cdf24dd8963f536e758d39c9e7ea4b358296ed54166d9b4/original.tif
+    sha256: 76576742397cd5644cdf24dd8963f536e758d39c9e7ea4b358296ed54166d9b4
+    mime: image/tiff
+    bytes: 13249120
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/76/57/76576742397cd5644cdf24dd8963f536e758d39c9e7ea4b358296ed54166d9b4/preview-400.1c3798d8ebf4.jpg
+        sha256: 1c3798d8ebf4b29ce5c1af483386ace49ba69d91fcd9130e6f2076b4fb2ba87b
+        mime: image/jpeg
+        bytes: 78500
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

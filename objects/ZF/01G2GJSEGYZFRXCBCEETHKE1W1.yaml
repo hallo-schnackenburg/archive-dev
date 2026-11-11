@@ -1,0 +1,47 @@
+id: 01G2GJSEGYZFRXCBCEETHKE1W1
+type: document
+subtype: note
+title: "Handschriftliche Notiz: Konfirmation"
+description: Beleg mit Stempel.
+date: 1869-01
+location: Gülden, Bahnhofstraße
+geocode:
+  lat: 53.0993
+  lon: 11.469
+  precision: exact
+  source: osm
+origin:
+  name: Ernst Kuhlmann
+  type: person
+  location: Gülden
+language: de
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Einweihung 1869
+    type: event
+  - name: Rathaus
+    type: building
+parents:
+  - 01FPG45DMCQ4FJ212ZPBZF1YR1
+files:
+  - role: page
+    num: 1
+    original_name: note_hke1w1_001.tif
+    path: files/11/22/1122479941b5a49cd2643969b1c74e3088c85a18b47401299a3eaa2deea783ad/original.tif
+    sha256: 1122479941b5a49cd2643969b1c74e3088c85a18b47401299a3eaa2deea783ad
+    mime: image/tiff
+    bytes: 5232572
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/22/1122479941b5a49cd2643969b1c74e3088c85a18b47401299a3eaa2deea783ad/preview-400.0adba1f203b4.jpg
+        sha256: 0adba1f203b4394147be5fed04e916a1a309ccf5e509ab817fe9ffb6c250b8ce
+        mime: image/jpeg
+        bytes: 33899
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

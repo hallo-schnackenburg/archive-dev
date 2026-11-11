@@ -1,0 +1,44 @@
+id: 01HCBSVMS7JM66JVXD23VYTXW5
+type: image
+subtype: photo
+title: Emma Rohde, Porträt
+description: Zu sehen sind Kriegerdenkmal und Fachwerkhaus Marktstraße 4.
+date: 1993/2003
+location: Seedorf, Lange Straße
+geocode:
+  lat: 53.0799
+  lon: 11.5646
+  precision: exact
+  source: osm
+origin:
+  name: Dieter Schwarz
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 19/085
+parents:
+  - 01J0GVPF8CQ7XT4TS5V2ZE6DJJ
+files:
+  - role: main
+    original_name: foto_2425.jpg
+    path: files/54/df/54df27f608857283fb7d3798c62469a17bfdbff01ffd399e58186f78146470d9/original.jpg
+    sha256: 54df27f608857283fb7d3798c62469a17bfdbff01ffd399e58186f78146470d9
+    mime: image/jpeg
+    bytes: 682126
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/54/df/54df27f608857283fb7d3798c62469a17bfdbff01ffd399e58186f78146470d9/preview-400.2a95ef1b724a.jpg
+        sha256: 2a95ef1b724a6c05c7e3010db6a21e4174ed361b8f9310f57de62a436e23b674
+        mime: image/jpeg
+        bytes: 66663
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,49 @@
+id: 01KK1BB0GGJV3SHPZFRACJKMSS
+type: document
+subtype: letter
+title: Feldpostbrief von Manfred Bruns
+description: Mit Umschlag und Briefmarke.
+date: 1797-10-04
+origin:
+  name: Karl Lüders
+  type: person
+  location: Cumlosen
+recipient: Käthe Wegner
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 15/009
+  note: Bücherregal links
+subjects:
+  - name: Viehmarkt 1797
+    type: event
+  - name: Dieter Heuer
+    type: person
+  - name: Erika Jeß
+    type: person
+parents:
+  - 01HBSGHG52Z98SDKPVZX12Z93T
+files:
+  - role: page
+    num: 1
+    original_name: letter_cjkmss_001.tif
+    path: files/de/0f/de0f4c9eaf7d0cf674be639006d3ff5ac23861db156278d23c53c9db4eabe6be/original.tif
+    sha256: de0f4c9eaf7d0cf674be639006d3ff5ac23861db156278d23c53c9db4eabe6be
+    mime: image/tiff
+    bytes: 24266381
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/0f/de0f4c9eaf7d0cf674be639006d3ff5ac23861db156278d23c53c9db4eabe6be/preview-400.dc63bd5ed22f.jpg
+        sha256: dc63bd5ed22f0ab09267f815bd76c1ab5cdf9d9af0ed8600575f0aba7fff9b01
+        mime: image/jpeg
+        bytes: 69622
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

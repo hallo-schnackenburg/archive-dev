@@ -1,0 +1,45 @@
+id: 01EYKCSK1CN8W390A2N8Q88WA8
+type: image
+subtype: photo
+title: Familie Voss beim Feuerwehrübung
+date: 1941-09
+location: Lenzen, Zollamt
+origin:
+  name: Ilse Lemke
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok/Kasten 18/088
+  note: Dachboden, Truhe
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Karl Lemke
+    type: person
+parents:
+  - 01G1DKZE5VGWDBWA4SKKX3DZT5
+  - 01J6CWVRW5ZWM3PCSZT7CG4EQA
+files:
+  - role: main
+    original_name: scan_981.tif
+    path: files/8d/5d/8d5db6e0a654d32661097d742136440e89ac77a35d5a7356e728a521bb84c8a6/original.tif
+    sha256: 8d5db6e0a654d32661097d742136440e89ac77a35d5a7356e728a521bb84c8a6
+    mime: image/tiff
+    bytes: 4185322
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8d/5d/8d5db6e0a654d32661097d742136440e89ac77a35d5a7356e728a521bb84c8a6/preview-400.da99fc688611.jpg
+        sha256: da99fc688611493f76f4c11da0cb8a3ce66d240935564db388d285f90fd8101f
+        mime: image/jpeg
+        bytes: 70963
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

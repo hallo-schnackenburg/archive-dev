@@ -1,0 +1,67 @@
+id: 01HDQR96S0EMWXYFH7QBZPNXCC
+type: document
+subtype: letter
+title: Zeugnis für Heinrich Schwarz
+description: Handschriftlich, 4 Seiten.
+date: 1795~
+origin:
+  name: Ernst Ludolf
+  type: person
+  location: Kapern
+recipient: Heinrich Klatt
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 4/161
+subjects:
+  - name: Pfarrhaus
+    type: building
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01KGHR1E94X26ENFVH4J79T0CP
+  - 01H36RTMJEX4S0EGJJ5ANSCJNW
+files:
+  - role: page
+    num: 1
+    original_name: letter_zpnxcc_001.tif
+    path: files/f2/aa/f2aaaee7a60c04943ab846042962518ee22cf2683d6212ce385b432f480a2ba8/original.tif
+    sha256: f2aaaee7a60c04943ab846042962518ee22cf2683d6212ce385b432f480a2ba8
+    mime: image/tiff
+    bytes: 10541271
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f2/aa/f2aaaee7a60c04943ab846042962518ee22cf2683d6212ce385b432f480a2ba8/preview-400.c8ab867ead4a.jpg
+        sha256: c8ab867ead4aaab3c8c9ea70758830aea5cb97d2a9e8e59f161c18ee9a7645fb
+        mime: image/jpeg
+        bytes: 22687
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_zpnxcc_002.tif
+    path: files/98/aa/98aacf40b7c947fef4601f325c064e78ff8720de4179d90b1a234410a135d1cf/original.tif
+    sha256: 98aacf40b7c947fef4601f325c064e78ff8720de4179d90b1a234410a135d1cf
+    mime: image/tiff
+    bytes: 16941722
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/98/aa/98aacf40b7c947fef4601f325c064e78ff8720de4179d90b1a234410a135d1cf/preview-400.2cf519f2b035.jpg
+        sha256: 2cf519f2b0357f7e44e38aad239d361bd24081df0721ddefb43a97962bbf9322
+        mime: image/jpeg
+        bytes: 58039
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

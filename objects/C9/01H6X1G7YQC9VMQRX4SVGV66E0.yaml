@@ -1,0 +1,83 @@
+id: 01H6X1G7YQC9VMQRX4SVGV66E0
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Holtorf 1961
+description: "Beschlossen wurde unter anderem: Schulgeld."
+date: "1961"
+origin:
+  name: Stadtrat Laase
+  type: business
+  location: Kapern
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos 9/044
+subjects:
+  - name: Feuerwehrübung 1961
+    type: event
+parents:
+  - 01JDMR23P0ST4P21YFR11Z2B2R
+files:
+  - role: page
+    num: 1
+    original_name: protocol_gv66e0_001.tif
+    path: files/9b/db/9bdbe79ad132e00b4c3fea18fba8ac4cdfd77e43fbcdb4ca24fa4b8941a3c73e/original.tif
+    sha256: 9bdbe79ad132e00b4c3fea18fba8ac4cdfd77e43fbcdb4ca24fa4b8941a3c73e
+    mime: image/tiff
+    bytes: 747626
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9b/db/9bdbe79ad132e00b4c3fea18fba8ac4cdfd77e43fbcdb4ca24fa4b8941a3c73e/preview-400.e571653aa51f.jpg
+        sha256: e571653aa51fa8087b81f438fbb775d42274b2be7215cd0a144f072509661032
+        mime: image/jpeg
+        bytes: 65515
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_gv66e0_002.tif
+    path: files/28/d5/28d510e148ebc643d83ae6117811887a9f7215b11e210e341b59eb3b9ca7602a/original.tif
+    sha256: 28d510e148ebc643d83ae6117811887a9f7215b11e210e341b59eb3b9ca7602a
+    mime: image/tiff
+    bytes: 5657232
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/28/d5/28d510e148ebc643d83ae6117811887a9f7215b11e210e341b59eb3b9ca7602a/preview-400.3beee963d282.jpg
+        sha256: 3beee963d282f9ad1fe5e05153c9b80aae9731fe99efde531ee62696adcb2199
+        mime: image/jpeg
+        bytes: 56882
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_gv66e0_003.tif
+    path: files/b0/15/b015157ec5cb61359756b865b8fe1c247ddf814c80e9e79b9e4afca085cccdc1/original.tif
+    sha256: b015157ec5cb61359756b865b8fe1c247ddf814c80e9e79b9e4afca085cccdc1
+    mime: image/tiff
+    bytes: 23072668
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b0/15/b015157ec5cb61359756b865b8fe1c247ddf814c80e9e79b9e4afca085cccdc1/preview-400.e3538040c3f6.jpg
+        sha256: e3538040c3f6564839d91c179ddc6b30f4e6d50223657deecd6e3152638e6c19
+        mime: image/jpeg
+        bytes: 31411
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

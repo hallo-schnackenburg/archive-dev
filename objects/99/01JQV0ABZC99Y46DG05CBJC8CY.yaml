@@ -1,0 +1,42 @@
+id: 01JQV0ABZC99Y46DG05CBJC8CY
+type: image
+subtype: plan
+title: Deichplan Restorf bis Hitzacker
+description: Maßstab 1:250.
+location: Havelberg, Gärtnerei
+geocode:
+  lat: 53.0191
+  lon: 11.6446
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 34/030
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Hochwasser 1930
+    type: event
+files:
+  - role: main
+    original_name: scan_805.tif
+    path: files/94/ac/94ac42664ad6f494d6d91044f6e6550dfed140ddbce720e1267088c16de2417a/original.tif
+    sha256: 94ac42664ad6f494d6d91044f6e6550dfed140ddbce720e1267088c16de2417a
+    mime: image/tiff
+    bytes: 15293804
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/94/ac/94ac42664ad6f494d6d91044f6e6550dfed140ddbce720e1267088c16de2417a/preview-400.e0229d0dd18e.jpg
+        sha256: e0229d0dd18e6c3c0afc25e5541cc07f53f2005643f67fef85c6bc0a11705840
+        mime: image/jpeg
+        bytes: 37913
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

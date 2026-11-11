@@ -1,0 +1,44 @@
+id: 01H9T8JQ2EA9V378W10AMD9N3B
+type: image
+subtype: photo
+title: Kindergartenfest 1983
+description: Zu sehen sind Gasthof „Zur Elbe“ und Sparkasse.
+date: 1983~
+location: Restorf, Burgstraße
+origin:
+  name: Erika Plate
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Nienwalde
+  reference: Slg/Album 25/056
+subjects:
+  - name: Ilse Voss
+    type: person
+  - name: Dorfschule
+    type: building
+parents:
+  - 01M2NXDF44FKVBFKSHH2CXM07G
+files:
+  - role: main
+    original_name: foto_1952.jpg
+    path: files/02/26/0226d13d71575383e48be46864977ef238e36b3ae32b6d78179eb7c5a053b5a9/original.jpg
+    sha256: 0226d13d71575383e48be46864977ef238e36b3ae32b6d78179eb7c5a053b5a9
+    mime: image/jpeg
+    bytes: 18174485
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/02/26/0226d13d71575383e48be46864977ef238e36b3ae32b6d78179eb7c5a053b5a9/preview-400.42cc3146b56b.jpg
+        sha256: 42cc3146b56b23cb0916506adbd1c55e3441d3d3e210525abca5c92dfd19ec8a
+        mime: image/jpeg
+        bytes: 67659
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01J3YBHW7GD03DCBHX7SNC034T
+type: image
+subtype: photo
+title: Familie Wiegmann beim Ortsbesichtigung
+date: "1941"
+location: Lanz, Schmiede
+geocode:
+  lat: 53.0845
+  lon: 11.6446
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 14/046
+subjects:
+  - name: Horst Ahrens
+    type: person
+  - name: Brunnen am Markt
+    type: building
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: scan_956.tif
+    path: files/66/bc/66bc57e8a476417717a2e37d01214ab5eae86f0a9d38499668d0c9408029d813/original.tif
+    sha256: 66bc57e8a476417717a2e37d01214ab5eae86f0a9d38499668d0c9408029d813
+    mime: image/tiff
+    bytes: 11789702
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/66/bc/66bc57e8a476417717a2e37d01214ab5eae86f0a9d38499668d0c9408029d813/preview-400.b5991b97473c.jpg
+        sha256: b5991b97473ce7c2cfd061947a13d519852fb641a26d3965ea255aa0d00b6b27
+        mime: image/jpeg
+        bytes: 70787
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

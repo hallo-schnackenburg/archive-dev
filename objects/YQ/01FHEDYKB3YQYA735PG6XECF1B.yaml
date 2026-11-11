@@ -1,0 +1,36 @@
+id: 01FHEDYKB3YQYA735PG6XECF1B
+type: image
+subtype: drawing
+title: Brunnen am Markt, Aquarell, Gartow
+description: Mit Anmerkungen am Rand.
+date: 1948~
+origin:
+  name: Albert Jeß
+  type: person
+  location: Gorleben
+subjects:
+  - name: Försterei
+    type: building
+parents:
+  - 01HBAGVGSH8T07D9N2JBVPMDAH
+  - 01FAQ3AREZBKTAGHNPJF8ZYQP7
+files:
+  - role: main
+    original_name: scan_193.tif
+    path: files/a1/20/a120b8611ab664acce06b425b8a972a82520dcae6007975477a80600b3287b63/original.tif
+    sha256: a120b8611ab664acce06b425b8a972a82520dcae6007975477a80600b3287b63
+    mime: image/tiff
+    bytes: 13820369
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a1/20/a120b8611ab664acce06b425b8a972a82520dcae6007975477a80600b3287b63/preview-400.139f3f4a33d6.jpg
+        sha256: 139f3f4a33d6e6602e9c858098883fac4ca7468193deef76846c7222f2d74366
+        mime: image/jpeg
+        bytes: 76064
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

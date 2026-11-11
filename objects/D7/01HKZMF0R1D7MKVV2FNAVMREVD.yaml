@@ -1,0 +1,43 @@
+id: 01HKZMF0R1D7MKVV2FNAVMREVD
+type: image
+subtype: photo
+title: Familie Jeß beim Deicharbeiten
+description: Zu sehen sind Friedhofskapelle und Apotheke.
+date: 1932?
+location: Kapern, Pumpenhaus
+origin:
+  name: Rudolf Meyer
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br 31/214
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v35604
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Zadrau
+    type: place
+files:
+  - role: main
+    original_name: scan_807.tif
+    path: files/c1/f6/c1f6148ce9b9a8fb41a34672539ccbc92bb0812205781cb873c775f695d951f5/original.tif
+    sha256: c1f6148ce9b9a8fb41a34672539ccbc92bb0812205781cb873c775f695d951f5
+    mime: image/tiff
+    bytes: 1855383
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c1/f6/c1f6148ce9b9a8fb41a34672539ccbc92bb0812205781cb873c775f695d951f5/preview-400.e7af474e72b4.jpg
+        sha256: e7af474e72b4e677f4fed31dfd9c00b36410ad8b22bc1592c0d3e825ad0a972c
+        mime: image/jpeg
+        bytes: 23094
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

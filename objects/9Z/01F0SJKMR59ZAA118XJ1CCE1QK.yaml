@@ -1,0 +1,35 @@
+id: 01F0SJKMR59ZAA118XJ1CCE1QK
+type: image
+subtype: plan
+title: Grundriss Sportplatz, Kapern
+date: 1911-12-27
+location: Gartow, Schulstraße
+owner:
+  name: Horst Lemke
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Deicharbeiten 1911
+    type: event
+parents:
+  - 01GHB8CACBDV42F0VWCD6Z5CC1
+files:
+  - role: main
+    original_name: scan_303.tif
+    path: files/16/2f/162f90d308f52ddc58694a84d3fd0adcd8b10d12721f482cf3df651f93e70053/original.tif
+    sha256: 162f90d308f52ddc58694a84d3fd0adcd8b10d12721f482cf3df651f93e70053
+    mime: image/tiff
+    bytes: 6676336
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/16/2f/162f90d308f52ddc58694a84d3fd0adcd8b10d12721f482cf3df651f93e70053/preview-400.e10831ec45cf.jpg
+        sha256: e10831ec45cf9aa23ede57b3894eeaa81d269f69823832bcd458fbc6d796e4f5
+        mime: image/jpeg
+        bytes: 67129
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

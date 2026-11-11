@@ -1,0 +1,49 @@
+id: 01HBFK95Y17B9R7WMJ02GC9MS2
+type: image
+subtype: photo
+title: Blick vom Tanzsaal auf das Feuerwehrhaus
+description: Abzug im Format 13 x 18 cm.
+date: 1987-08-26
+location: Seedorf, Am Elbdeich
+geocode:
+  lat: 52.9027
+  lon: 11.5459
+  precision: region
+  source: osm
+origin:
+  name: Hans Voss
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan 1/364
+subjects:
+  - name: Sportplatz
+    type: building
+  - name: Deicharbeiten 1987
+    type: event
+  - name: Bömenzien
+    type: place
+files:
+  - role: main
+    original_name: IMG_0415.jpg
+    path: files/02/60/026016f375238571e6493666c4cfcc1aa4988cd22b915b98580a686fcff2f32a/original.jpg
+    sha256: 026016f375238571e6493666c4cfcc1aa4988cd22b915b98580a686fcff2f32a
+    mime: image/jpeg
+    bytes: 22859844
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/02/60/026016f375238571e6493666c4cfcc1aa4988cd22b915b98580a686fcff2f32a/preview-400.3a96f4b7256d.jpg
+        sha256: 3a96f4b7256df816312a97ba7e97a663019ea85571b9083eb4bff9bc92e252b5
+        mime: image/jpeg
+        bytes: 42569
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

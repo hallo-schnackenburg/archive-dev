@@ -1,0 +1,38 @@
+id: 01KBRMSPPM9R23PR3X2HGKHAW5
+type: image
+subtype: print
+title: Postkarte Gorleben, Dorfteich
+description: Postkarte, gelaufen 1927.
+date: 1824-05
+location: Nienwalde, Bahnhofstraße
+origin:
+  name: Karl Rohde
+  type: person
+  location: Laase
+subjects:
+  - name: Heinrich Lüders
+    type: person
+  - name: Wassermühle
+    type: building
+parents:
+  - 01J1F26G843KSNYD4G1QK36C01
+files:
+  - role: main
+    original_name: scan_614.tif
+    path: files/32/4b/324b088aacb8f08971025cc71829031783d763fd5a9c27129495641dc8f6f83f/original.tif
+    sha256: 324b088aacb8f08971025cc71829031783d763fd5a9c27129495641dc8f6f83f
+    mime: image/tiff
+    bytes: 6958560
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/32/4b/324b088aacb8f08971025cc71829031783d763fd5a9c27129495641dc8f6f83f/preview-400.a567f7048326.jpg
+        sha256: a567f7048326f19b911d13e464b25a062087fd7b030d5e044136319cbfc9bad1
+        mime: image/jpeg
+        bytes: 78690
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

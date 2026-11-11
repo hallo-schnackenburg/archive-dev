@@ -1,0 +1,38 @@
+id: 01F55JQFJGYPXVTRHCKX5KZFA9
+type: image
+subtype: photo
+title: Blick vom Försterei auf das Rathaus
+date: 1968-11-25
+location: Gorleben, Bahnhof
+origin:
+  name: Albert Lüders
+  type: person
+  location: Wustrow
+subjects:
+  - name: Restorf
+    type: place
+  - name: Brückeneinweihung 1968
+    type: event
+parents:
+  - 01K7N09VTY5J80D3G50Q63P74F
+  - 01HR1QV0ZXC6MF6JQQQ9T74SMN
+files:
+  - role: main
+    original_name: P0113.jpg
+    path: files/7a/96/7a96207ff98f29795736034f1808dacc08744ee842f2e205629ffef873e25521/original.jpg
+    sha256: 7a96207ff98f29795736034f1808dacc08744ee842f2e205629ffef873e25521
+    mime: image/jpeg
+    bytes: 27437081
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/7a/96/7a96207ff98f29795736034f1808dacc08744ee842f2e205629ffef873e25521/preview-400.ee9aeb3ad8dd.jpg
+        sha256: ee9aeb3ad8dd94445b0d7942604d282be65a5dfc351eac1ae0e04d64cc4436db
+        mime: image/jpeg
+        bytes: 74526
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

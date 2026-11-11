@@ -1,0 +1,37 @@
+id: 01EZSFKPF57XB9YP5PM5ZY7TD2
+type: image
+subtype: photo
+title: Rathaus in Pretzier
+description: Zu sehen sind Ziegelei und Ladestraße.
+date: 1898-02-24
+origin:
+  name: Wilhelm Ahrens
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 22/330
+  note: Regal 1
+files:
+  - role: main
+    original_name: scan_857.tif
+    path: files/a3/71/a3710e039031e078e159ac713ec070180b21689e7ad105f3468e45ee06378765/original.tif
+    sha256: a3710e039031e078e159ac713ec070180b21689e7ad105f3468e45ee06378765
+    mime: image/tiff
+    bytes: 8620327
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a3/71/a3710e039031e078e159ac713ec070180b21689e7ad105f3468e45ee06378765/preview-400.668fe085c684.jpg
+        sha256: 668fe085c6848cf90fcda542d561db076a986bb30161d2e6577cbf515a0c3328
+        mime: image/jpeg
+        bytes: 42045
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

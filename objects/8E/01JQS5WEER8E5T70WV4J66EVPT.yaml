@@ -1,0 +1,36 @@
+id: 01JQS5WEER8E5T70WV4J66EVPT
+type: image
+subtype: plan
+title: Bauplan Dorfteich 1754
+date: 1754?
+location: Bömenzien, Mühlenweg
+origin:
+  name: Ernst Lemke
+  type: person
+  location: Lenzen
+subjects:
+  - name: Friedhofskapelle
+    type: building
+parents:
+  - 01FJMCPRQ0EG050EZ87JB0MN40
+  - 01G1ZMXCSZWR93Z3JYH6CR645Y
+files:
+  - role: main
+    original_name: scan_273.tif
+    path: files/66/45/6645ff6aa6b0df92ba84b28e77c0c5dde3cbcdec9e3e2de5a2648503f9466eda/original.tif
+    sha256: 6645ff6aa6b0df92ba84b28e77c0c5dde3cbcdec9e3e2de5a2648503f9466eda
+    mime: image/tiff
+    bytes: 13994331
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/66/45/6645ff6aa6b0df92ba84b28e77c0c5dde3cbcdec9e3e2de5a2648503f9466eda/preview-400.c0869b791eba.jpg
+        sha256: c0869b791eba18c17067dfdb0e79a1d34d690c2b8aa0b11095e6c40d8ba920ac
+        mime: image/jpeg
+        bytes: 49695
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

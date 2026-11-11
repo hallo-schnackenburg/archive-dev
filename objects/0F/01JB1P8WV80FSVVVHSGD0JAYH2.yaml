@@ -1,0 +1,37 @@
+id: 01JB1P8WV80FSVVVHSGD0JAYH2
+type: image
+subtype: print
+title: Postkarte Lanz, Badestelle
+description: Lithographie, Rand beschnitten.
+date: 178X
+original:
+  holder:
+    name: Familie Ahrens
+    type: person
+    location: Lenzen
+  reference: Slg/Kasten 26/081
+subjects:
+  - name: Gärtnerei
+    type: building
+  - name: Torhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_579.tif
+    path: files/0e/57/0e571276ab3aaf3dd6b5eca729f0b7c60346a424c3d9d1071c863048be40b29a/original.tif
+    sha256: 0e571276ab3aaf3dd6b5eca729f0b7c60346a424c3d9d1071c863048be40b29a
+    mime: image/tiff
+    bytes: 5367911
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/0e/57/0e571276ab3aaf3dd6b5eca729f0b7c60346a424c3d9d1071c863048be40b29a/preview-400.5021a79fc637.jpg
+        sha256: 5021a79fc6374f2ab1bd6205ae1fd0ecbaf8be06267e5a6d7086ac89c1c2a491
+        mime: image/jpeg
+        bytes: 80953
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

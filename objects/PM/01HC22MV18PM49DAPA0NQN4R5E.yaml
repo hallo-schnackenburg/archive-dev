@@ -1,0 +1,38 @@
+id: 01HC22MV18PM49DAPA0NQN4R5E
+type: image
+subtype: photo
+title: Friedrich Matthies, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Lenzen, Kriegerdenkmal
+origin:
+  name: Ernst Brandt
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Wilhelm Klatt
+    type: person
+files:
+  - role: main
+    original_name: DSC2176.jpg
+    path: files/ee/1e/ee1e24c163c4cf8f33beaedc4fe566da7e4e01516ee7df3579a458a95c65274c/original.jpg
+    sha256: ee1e24c163c4cf8f33beaedc4fe566da7e4e01516ee7df3579a458a95c65274c
+    mime: image/jpeg
+    bytes: 17125846
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ee/1e/ee1e24c163c4cf8f33beaedc4fe566da7e4e01516ee7df3579a458a95c65274c/preview-400.bc28d8479ed6.jpg
+        sha256: bc28d8479ed62bb2d5d5f8b66445accf8fadcb2b76c8ee6e54d8bb51d1a9ebe9
+        mime: image/jpeg
+        bytes: 70747
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

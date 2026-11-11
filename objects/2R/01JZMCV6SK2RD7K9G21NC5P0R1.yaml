@@ -1,0 +1,32 @@
+id: 01JZMCV6SK2RD7K9G21NC5P0R1
+type: image
+subtype: plan
+title: Grundriss Storchennest
+description: Tusche auf Transparentpapier.
+date: 1922/1925
+origin:
+  name: Erika Meyer
+  type: person
+  location: Havelberg
+parents:
+  - 01EY1NE802VNKMTZ9APK9WPWYD
+files:
+  - role: main
+    original_name: scan_703.tif
+    path: files/0d/b1/0db1ace06a356a31b6f41cf1636194fa97e4700f49d8919a66d86596b96eecec/original.tif
+    sha256: 0db1ace06a356a31b6f41cf1636194fa97e4700f49d8919a66d86596b96eecec
+    mime: image/tiff
+    bytes: 18666761
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0d/b1/0db1ace06a356a31b6f41cf1636194fa97e4700f49d8919a66d86596b96eecec/preview-400.75b54c544df7.jpg
+        sha256: 75b54c544df73dbc4f7d3e4ab8d236b84fc545de7bb28d310baf92375c423586
+        mime: image/jpeg
+        bytes: 26830
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

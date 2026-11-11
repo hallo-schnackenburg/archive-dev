@@ -1,0 +1,39 @@
+id: 01FW1DCVP3WRH0J71SPJ3GHRYN
+type: image
+subtype: print
+title: Postkarte Rüterberg, Zollamt
+description: Kupferstich, koloriert.
+date: 1910-12
+location: Schnackenburg, Lange Straße
+geocode:
+  lat: 53.0858
+  lon: 11.691
+  precision: exact
+  source: osm
+origin:
+  name: Detlef Tiedemann
+  type: person
+  location: Laase
+subjects:
+  - name: Wootz
+    type: place
+files:
+  - role: main
+    original_name: scan_258.tif
+    path: files/4a/b7/4ab70202c5ac7677fbc9c58c6129ce7d975aef56941dd9aa8cef368aa20c35a0/original.tif
+    sha256: 4ab70202c5ac7677fbc9c58c6129ce7d975aef56941dd9aa8cef368aa20c35a0
+    mime: image/tiff
+    bytes: 25277498
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4a/b7/4ab70202c5ac7677fbc9c58c6129ce7d975aef56941dd9aa8cef368aa20c35a0/preview-400.78124000517e.jpg
+        sha256: 78124000517ea5fd799230a261663e630ad121c49bb94611ea5f5592a3e954fe
+        mime: image/jpeg
+        bytes: 84510
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

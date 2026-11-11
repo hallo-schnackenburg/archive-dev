@@ -1,0 +1,33 @@
+id: 01HNEX2V53A53P7KTZE4HV0MCM
+type: image
+subtype: plan
+title: Deichplan Gollensdorf bis Gorleben
+date: 1982-03-18
+location: Dömitz, Fährstraße
+subjects:
+  - name: Hafen
+    type: building
+  - name: Wootz
+    type: place
+parents:
+  - 01KNZ0SE3D6PEDW26H1C3A2K48
+files:
+  - role: main
+    original_name: scan_664.tif
+    path: files/b9/9c/b99c5bd86ed8c46ed89dfde81c13cec57a65e72364519e3dde5edb15f0b1294b/original.tif
+    sha256: b99c5bd86ed8c46ed89dfde81c13cec57a65e72364519e3dde5edb15f0b1294b
+    mime: image/tiff
+    bytes: 9065412
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b9/9c/b99c5bd86ed8c46ed89dfde81c13cec57a65e72364519e3dde5edb15f0b1294b/preview-400.acc378aaff59.jpg
+        sha256: acc378aaff59611568a40899dbd35ab9c4ded770b01fdd972cd24f44962f4f55
+        mime: image/jpeg
+        bytes: 89329
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

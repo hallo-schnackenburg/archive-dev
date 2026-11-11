@@ -1,0 +1,35 @@
+id: 01J09QNNXDM75MH7F3SF1ZKW7M
+type: image
+subtype: plan
+title: Flurkarte Seedorf
+date: 1947-09-11
+location: Nienwalde, Gutshaus
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok 40/296
+subjects:
+  - name: Maifeier 1947
+    type: event
+files:
+  - role: main
+    original_name: scan_428.tif
+    path: files/d4/6d/d46db42110cc68494d591d0a9d5e426132692a78f429b87bd91f4e3eb55c4c60/original.tif
+    sha256: d46db42110cc68494d591d0a9d5e426132692a78f429b87bd91f4e3eb55c4c60
+    mime: image/tiff
+    bytes: 26380661
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d4/6d/d46db42110cc68494d591d0a9d5e426132692a78f429b87bd91f4e3eb55c4c60/preview-400.a491b85079ac.jpg
+        sha256: a491b85079ac6bc53c7cee1df1bd0700fd67c7b9c2fa87d48d61327a6010fd50
+        mime: image/jpeg
+        bytes: 38256
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

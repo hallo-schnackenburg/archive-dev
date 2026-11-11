@@ -1,0 +1,45 @@
+id: 01JPMA37QKG1BN8T9WGH9AQCK4
+type: image
+subtype: drawing
+title: Wappenentwurf Wittenberge, Seedorf
+date: 1915-03-18
+location: Restorf, Badestelle
+origin:
+  name: Elfriede Voss
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Cumlosen
+  reference: Dok 35/022
+subjects:
+  - name: Gemeindehaus
+    type: building
+  - name: Seedorf
+    type: place
+  - name: Wootz
+    type: place
+parents:
+  - 01FE51YC393SEJ3F0E3BYAZ1NB
+files:
+  - role: main
+    original_name: scan_183.tif
+    path: files/13/e2/13e2032566144605707abd4853e7006374b04887aac5df93cfd383597609fe44/original.tif
+    sha256: 13e2032566144605707abd4853e7006374b04887aac5df93cfd383597609fe44
+    mime: image/tiff
+    bytes: 3867455
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/13/e2/13e2032566144605707abd4853e7006374b04887aac5df93cfd383597609fe44/preview-400.5e866f013880.jpg
+        sha256: 5e866f013880dea248811240dcea7f6722a1e8ccb477482a5b0778e34b8d202c
+        mime: image/jpeg
+        bytes: 70475
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

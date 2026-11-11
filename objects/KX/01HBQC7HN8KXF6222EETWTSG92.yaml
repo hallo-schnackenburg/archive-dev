@@ -1,0 +1,69 @@
+id: 01HBQC7HN8KXF6222EETWTSG92
+type: document
+subtype: note
+title: Rechnung Wiese, Dorfschule
+description: Beleg mit Stempel.
+date: 1972-01-20
+location: Lüchow, Gasthof Meyer
+geocode:
+  lat: 52.956
+  lon: 11.628
+  precision: region
+  source: osm
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro 25/390
+owner:
+  name: Christa Kuhlmann
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Nienwalde
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_wtsg92_001.tif
+    path: files/f5/ed/f5ed07df8b2888b92f91722da8ed5ef83363461cec80e850db5e03da0f33b6f0/original.tif
+    sha256: f5ed07df8b2888b92f91722da8ed5ef83363461cec80e850db5e03da0f33b6f0
+    mime: image/tiff
+    bytes: 19952819
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f5/ed/f5ed07df8b2888b92f91722da8ed5ef83363461cec80e850db5e03da0f33b6f0/preview-400.c7ca6b3735b4.jpg
+        sha256: c7ca6b3735b4e2182b45d04170b47bf3f73f2a04efd96c0acb445c132db8ec61
+        mime: image/jpeg
+        bytes: 77199
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_wtsg92_002.tif
+    path: files/d9/f4/d9f4c82ac602c923e415ff9432c3c689be5174355cfcc400251ff414706e42d0/original.tif
+    sha256: d9f4c82ac602c923e415ff9432c3c689be5174355cfcc400251ff414706e42d0
+    mime: image/tiff
+    bytes: 893686
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d9/f4/d9f4c82ac602c923e415ff9432c3c689be5174355cfcc400251ff414706e42d0/preview-400.f35515d6f6b2.jpg
+        sha256: f35515d6f6b2820063d48689dbff4be8bbbbfc9d5e9fc4d099a3286cf119f40b
+        mime: image/jpeg
+        bytes: 59533
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

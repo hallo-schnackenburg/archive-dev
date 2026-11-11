@@ -1,0 +1,40 @@
+id: 01JAR10SRF4570EZ27XTGC74B2
+type: image
+subtype: plan
+title: Bauplan Dorfkrug 1956
+description: Tusche auf Transparentpapier.
+date: 1956-06-02
+location: Holtorf, Ziegelei
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 18/070
+subjects:
+  - name: Kindergarten
+    type: building
+  - name: Gülden
+    type: place
+parents:
+  - 01EV0D4XTDHPDC62G2HMCAGK8D
+files:
+  - role: main
+    original_name: scan_982.tif
+    path: files/12/5a/125a3dad3090119aafe966aa2f552b227dbfc14ab1211623deaba3ad7879435c/original.tif
+    sha256: 125a3dad3090119aafe966aa2f552b227dbfc14ab1211623deaba3ad7879435c
+    mime: image/tiff
+    bytes: 24877444
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/12/5a/125a3dad3090119aafe966aa2f552b227dbfc14ab1211623deaba3ad7879435c/preview-400.94d0a16c9baa.jpg
+        sha256: 94d0a16c9baa6f7eb35b3e4ab770fada9d972098d165da55e1e1bb6685382acd
+        mime: image/jpeg
+        bytes: 34510
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

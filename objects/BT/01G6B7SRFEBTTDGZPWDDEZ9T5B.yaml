@@ -1,0 +1,39 @@
+id: 01G6B7SRFEBTTDGZPWDDEZ9T5B
+type: image
+subtype: print
+title: Gruß aus Arendsee
+description: Postkarte, gelaufen 1960.
+date: 1890-11-13
+location: Wootz, Bahnhof
+origin:
+  name: Otto Lemke
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Beerdigung 1890
+    type: event
+files:
+  - role: main
+    original_name: scan_739.tif
+    path: files/95/e7/95e7afa5ab57663222c665987b8998e02ad2f10b35f53dad3228dfb6d3430ce4/original.tif
+    sha256: 95e7afa5ab57663222c665987b8998e02ad2f10b35f53dad3228dfb6d3430ce4
+    mime: image/tiff
+    bytes: 22682164
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/e7/95e7afa5ab57663222c665987b8998e02ad2f10b35f53dad3228dfb6d3430ce4/preview-400.e301390011ec.jpg
+        sha256: e301390011ec4be853b6ac440f7e729675b1ace55b82476079f93d45f5153db8
+        mime: image/jpeg
+        bytes: 43085
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

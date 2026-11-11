@@ -1,0 +1,40 @@
+id: 01JJS76CA3AG66XFTC584X51PH
+type: image
+subtype: photo
+title: Elfriede Plate, Porträt
+date: 1963-05
+location: Laase, Lange Straße
+geocode:
+  lat: 53.0141
+  lon: 11.4854
+  precision: street
+  source: osm
+origin:
+  name: Karl Krüger
+  type: person
+  location: Holtorf
+subjects:
+  - name: Wassermühle
+    type: building
+  - name: Karl Lemke
+    type: person
+files:
+  - role: main
+    original_name: P3858.jpg
+    path: files/a2/6e/a26ec29ae3a26aaf87d75bb49ee2e9683923b226381698d752b682a7fe8e2176/original.jpg
+    sha256: a26ec29ae3a26aaf87d75bb49ee2e9683923b226381698d752b682a7fe8e2176
+    mime: image/jpeg
+    bytes: 4191556
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a2/6e/a26ec29ae3a26aaf87d75bb49ee2e9683923b226381698d752b682a7fe8e2176/preview-400.29473e9b982a.jpg
+        sha256: 29473e9b982a248e9df8b75772181b282568f648be8c5182ffa63ccf397fda10
+        mime: image/jpeg
+        bytes: 43264
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

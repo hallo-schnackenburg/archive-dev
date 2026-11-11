@@ -1,0 +1,45 @@
+id: 01JAXXRPPEGWESPSBH9TRSCWDX
+type: image
+subtype: photo
+title: Emma Wegner vor dem Pfarrhaus
+description: Zu sehen sind Sparkasse und Bäckerei Lüders.
+date: 192X
+location: Pretzier, Ziegelei
+origin:
+  name: Gerda Lemke
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 22/039
+subjects:
+  - name: Einschulung 1928
+    type: event
+  - name: Wittenberge
+    type: place
+parents:
+  - 01K6WHZ4NV2RR0PWJEAVQDNNZ8
+  - 01F65BXKMKS9E7T6J3V39RWQAH
+files:
+  - role: main
+    original_name: P2800.jpg
+    path: files/27/a8/27a8a6190f3250ba5869d590f6ba93351173340db63d5c361aec1bda8a5fc71e/original.jpg
+    sha256: 27a8a6190f3250ba5869d590f6ba93351173340db63d5c361aec1bda8a5fc71e
+    mime: image/jpeg
+    bytes: 2316196
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/27/a8/27a8a6190f3250ba5869d590f6ba93351173340db63d5c361aec1bda8a5fc71e/preview-400.3bda06a1eb62.jpg
+        sha256: 3bda06a1eb6220808e13daf2f7232e904f5a63c06432c88d9b680dff7ee2ed36
+        mime: image/jpeg
+        bytes: 74697
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

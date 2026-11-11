@@ -1,0 +1,39 @@
+id: 01FNWHQ0T9QHV949WMC2CHPZPC
+type: image
+subtype: print
+title: Postkarte Lüchow, Backhaus
+date: 1793/1802
+location: Dömitz, Rathaus
+origin:
+  name: Emma Meyer
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 16/370
+  note: Schrank B
+parents:
+  - 01J8EFPX4R9MB05RW08DV43E95
+files:
+  - role: main
+    original_name: scan_704.tif
+    path: files/48/91/48915699596bd517c13febbdd27f10f2eb0e81c4426ed8b1af2ea15ae2afcf0b/original.tif
+    sha256: 48915699596bd517c13febbdd27f10f2eb0e81c4426ed8b1af2ea15ae2afcf0b
+    mime: image/tiff
+    bytes: 9473779
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/48/91/48915699596bd517c13febbdd27f10f2eb0e81c4426ed8b1af2ea15ae2afcf0b/preview-400.217089c11984.jpg
+        sha256: 217089c1198462246e41657fbebdc61fa865f14172bd4d47599186d8050fa2a0
+        mime: image/jpeg
+        bytes: 35118
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

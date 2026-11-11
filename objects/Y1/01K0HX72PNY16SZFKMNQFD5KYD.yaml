@@ -1,0 +1,41 @@
+id: 01K0HX72PNY16SZFKMNQFD5KYD
+type: image
+subtype: photo
+title: Hafen nach dem Kindergartenfest
+description: Zu sehen sind Schmiede und Elbdeich.
+date: "1956"
+location: Schnackenburg, Zollamt
+geocode:
+  lat: 52.931
+  lon: 11.6915
+  precision: street
+  source: osm
+origin:
+  name: Karl Voss
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Kirmes 1956
+    type: event
+parents:
+  - 01J1BQMAQVEW8DB40J658P2X0W
+files:
+  - role: main
+    original_name: foto_1113.jpg
+    path: files/3e/e8/3ee807ccf296a0c9fe829eadc07c475dc02b45e9c9e0caf2954c2d597393d88f/original.jpg
+    sha256: 3ee807ccf296a0c9fe829eadc07c475dc02b45e9c9e0caf2954c2d597393d88f
+    mime: image/jpeg
+    bytes: 27324670
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/3e/e8/3ee807ccf296a0c9fe829eadc07c475dc02b45e9c9e0caf2954c2d597393d88f/preview-400.ca0f4b15d4ad.jpg
+        sha256: ca0f4b15d4adacdd559a3ca9d34a00dfbed14677dbf906ee8e757503c2a0c17b
+        mime: image/jpeg
+        bytes: 80192
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

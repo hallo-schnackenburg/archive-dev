@@ -1,0 +1,37 @@
+id: 01GYYNVCQKMPNJHVMVNS5THRR1
+type: image
+subtype: print
+title: Postkarte Holtorf, Dorfschule
+location: Havelberg, Am Elbdeich
+origin:
+  name: Hermann Voss
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Storchennest
+    type: building
+files:
+  - role: main
+    original_name: scan_352.tif
+    path: files/a6/b0/a6b067221e40b7b9a233a0a276bb94a47282f71b8596778b1112c6893042703a/original.tif
+    sha256: a6b067221e40b7b9a233a0a276bb94a47282f71b8596778b1112c6893042703a
+    mime: image/tiff
+    bytes: 5285111
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a6/b0/a6b067221e40b7b9a233a0a276bb94a47282f71b8596778b1112c6893042703a/preview-400.ef658174160c.jpg
+        sha256: ef658174160c5baf82ee4f5d0f2dd45ab577df3551fb67bcc27e32f95151ad7a
+        mime: image/jpeg
+        bytes: 42535
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

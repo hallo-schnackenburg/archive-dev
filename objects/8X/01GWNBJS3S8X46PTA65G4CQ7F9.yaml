@@ -1,0 +1,44 @@
+id: 01GWNBJS3S8X46PTA65G4CQ7F9
+type: image
+subtype: drawing
+title: Skizze Lanz, Mühlenweg, Havelberg
+description: Bleistift auf Papier.
+date: 1831-08
+location: Arendsee, Pfarrhaus
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 20/129
+  note: Schrank B
+owner:
+  name: Friedrich Ahrens
+  type: person
+  note: Nachlass
+subjects:
+  - name: Kindergartenfest 1831
+    type: event
+parents:
+  - 01H9CNJDBS1SSSX64VPG1WAVEE
+  - 01HKFRFSECE3Q2H430VV51X3Q1
+files:
+  - role: main
+    original_name: scan_935.tif
+    path: files/84/a0/84a08a5a82df95ba6ad32e98b1db5e6662f01033b6f7534d7c444c854dbac7de/original.tif
+    sha256: 84a08a5a82df95ba6ad32e98b1db5e6662f01033b6f7534d7c444c854dbac7de
+    mime: image/tiff
+    bytes: 4420809
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/84/a0/84a08a5a82df95ba6ad32e98b1db5e6662f01033b6f7534d7c444c854dbac7de/preview-400.9354d0180d6f.jpg
+        sha256: 9354d0180d6f5c9d9e63ef645c4c038b90d643ec497bd21438975df05454729a
+        mime: image/jpeg
+        bytes: 48351
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

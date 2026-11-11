@@ -1,0 +1,31 @@
+id: 01GQZYW1KDF641KCK928KT9ANP
+type: image
+subtype: plan
+title: Flurkarte Salzwedel, Gülden
+description: Maßstab 1:2500.
+date: 1897-10
+subjects:
+  - name: Restorf
+    type: place
+  - name: Gutshaus
+    type: building
+files:
+  - role: main
+    original_name: scan_678.tif
+    path: files/1b/43/1b4388c6a5e7d49b8417c8a927653845bb129ceb3ae536a94e83aa1a8ea3dff4/original.tif
+    sha256: 1b4388c6a5e7d49b8417c8a927653845bb129ceb3ae536a94e83aa1a8ea3dff4
+    mime: image/tiff
+    bytes: 23265881
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1b/43/1b4388c6a5e7d49b8417c8a927653845bb129ceb3ae536a94e83aa1a8ea3dff4/preview-400.973a91b92c0a.jpg
+        sha256: 973a91b92c0a323db13f56807d1be9fedfe740407eff5d909a887f78559f97e1
+        mime: image/jpeg
+        bytes: 58236
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

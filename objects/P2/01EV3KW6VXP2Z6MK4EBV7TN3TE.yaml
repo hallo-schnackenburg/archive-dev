@@ -1,0 +1,45 @@
+id: 01EV3KW6VXP2Z6MK4EBV7TN3TE
+type: image
+subtype: photo
+title: Ernst Schulz, Porträt
+description: Aufnahme von Ilse Ahrens.
+date: 1996-07
+location: Gartow, Hafen
+geocode:
+  lat: 52.9743
+  lon: 11.5145
+  precision: region
+  source: osm
+origin:
+  name: Helga Harms
+  type: person
+  location: Holtorf
+owner:
+  name: Wilhelm Kuhlmann
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Speicher
+    type: building
+parents:
+  - 01JYMEAJWANE502SQPKMZ6JGSN
+files:
+  - role: main
+    original_name: IMG_7627.jpg
+    path: files/d1/25/d125a5703a44aa1d8d6fa292e1c7002f7d47b32e8f51a70233abb28629e34096/original.jpg
+    sha256: d125a5703a44aa1d8d6fa292e1c7002f7d47b32e8f51a70233abb28629e34096
+    mime: image/jpeg
+    bytes: 6692349
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/d1/25/d125a5703a44aa1d8d6fa292e1c7002f7d47b32e8f51a70233abb28629e34096/preview-400.99957c187487.jpg
+        sha256: 99957c187487909154ddbd35e86fa12c47577567f357c017ff82252aed5ffa2c
+        mime: image/jpeg
+        bytes: 81784
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

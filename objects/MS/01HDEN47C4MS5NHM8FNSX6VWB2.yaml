@@ -1,0 +1,51 @@
+id: 01HDEN47C4MS5NHM8FNSX6VWB2
+type: document
+subtype: letter
+title: Gesuch um Fährgeld, Cumlosen
+date: 1793-07-17
+location: Schnackenburg, Elbstraße
+origin:
+  name: Otto Voss
+  type: person
+  location: Wootz
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 23/056
+owner:
+  name: Heinz Rieke
+  type: person
+  note: Nachlass
+subjects:
+  - name: Elbdeich
+    type: building
+  - name: Konfirmation 1793
+    type: event
+  - name: Gärtnerei
+    type: building
+parents:
+  - 01JCDR7S9M7BM7M0ZNSCBA2064
+files:
+  - role: page
+    num: 1
+    original_name: letter_x6vwb2_001.tif
+    path: files/b0/dd/b0dd8becca64317e6e9a85492cf445fdcae0fceb9024c912ae19bcd0142cadcd/original.tif
+    sha256: b0dd8becca64317e6e9a85492cf445fdcae0fceb9024c912ae19bcd0142cadcd
+    mime: image/tiff
+    bytes: 20696250
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b0/dd/b0dd8becca64317e6e9a85492cf445fdcae0fceb9024c912ae19bcd0142cadcd/preview-400.996855c7b8a9.jpg
+        sha256: 996855c7b8a9adb8a13dac464e15359c0fc75bb01eaa5a9f2166b5db73ac33f0
+        mime: image/jpeg
+        bytes: 50149
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

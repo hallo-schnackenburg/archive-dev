@@ -1,0 +1,42 @@
+id: 01KBV6C3T3R2PMM5SVJR3M48Z8
+type: image
+subtype: photo
+title: Marktstraße, Ecke Am Markt
+date: 193X
+location: Laase, Schulstraße
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan/Mappe 18/116
+owner:
+  name: Lotte Meyer
+  type: person
+  note: Leihgabe
+parents:
+  - 01GRNKDHCV8TZCTNMXGJA4SPF6
+files:
+  - role: main
+    original_name: IMG_7997.jpg
+    path: files/e9/3b/e93b1763e71442d9d789e96b98d1f21c680f2e2e346aafa89f8d912465aa7aaa/original.jpg
+    sha256: e93b1763e71442d9d789e96b98d1f21c680f2e2e346aafa89f8d912465aa7aaa
+    mime: image/jpeg
+    bytes: 24111934
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/e9/3b/e93b1763e71442d9d789e96b98d1f21c680f2e2e346aafa89f8d912465aa7aaa/preview-400.e24fd07ddf86.jpg
+        sha256: e24fd07ddf86afc4a1ebab246c88ddb4013bce728e697162f02eb518e14417ab
+        mime: image/jpeg
+        bytes: 79679
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

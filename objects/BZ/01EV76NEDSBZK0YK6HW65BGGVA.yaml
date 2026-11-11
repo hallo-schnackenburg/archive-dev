@@ -1,0 +1,31 @@
+id: 01EV76NEDSBZK0YK6HW65BGGVA
+type: image
+subtype: plan
+title: Flurkarte Brünkendorf, Rüterberg
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Restorf
+    type: place
+parents:
+  - 01KJHV4RZ8X5ZNWBC3B15QV0TT
+files:
+  - role: main
+    original_name: scan_664.tif
+    path: files/c9/10/c910cc2308b52acb5cda171b84ba769feb37800b61797ab9d7a5fffb7b304343/original.tif
+    sha256: c910cc2308b52acb5cda171b84ba769feb37800b61797ab9d7a5fffb7b304343
+    mime: image/tiff
+    bytes: 16425891
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c9/10/c910cc2308b52acb5cda171b84ba769feb37800b61797ab9d7a5fffb7b304343/preview-400.6dc412c9f037.jpg
+        sha256: 6dc412c9f0373d030b5c48e188a88ea7b427a96edd6130182ddce993746a0614
+        mime: image/jpeg
+        bytes: 64900
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

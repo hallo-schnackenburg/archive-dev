@@ -1,0 +1,38 @@
+id: 01HR6YSKRA3QDQHSG7ETB2B4YE
+type: image
+subtype: plan
+title: Bauplan Wassermühle 1825
+location: Gollensdorf, Lange Straße
+owner:
+  name: Heinrich Voss
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Eisgang 1825
+    type: event
+  - name: Wittenberge
+    type: place
+parents:
+  - 01KX29XZ6YEZXRZYXDTRF154JS
+files:
+  - role: main
+    original_name: scan_348.tif
+    path: files/a2/2a/a22a05e855c1967a578c0824f36f6c06a87e3386ad48790176522e33d12e1e52/original.tif
+    sha256: a22a05e855c1967a578c0824f36f6c06a87e3386ad48790176522e33d12e1e52
+    mime: image/tiff
+    bytes: 11416698
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a2/2a/a22a05e855c1967a578c0824f36f6c06a87e3386ad48790176522e33d12e1e52/preview-400.08d05c0ceb9f.jpg
+        sha256: 08d05c0ceb9f2851451389d96e04e4b5f472cf7968c9773358c380f03db87ec2
+        mime: image/jpeg
+        bytes: 53746
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

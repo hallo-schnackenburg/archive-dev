@@ -1,0 +1,44 @@
+id: 01KF0Z0KBQ8CH25M5J8PPFQ7CC
+type: image
+subtype: photo
+title: Viehmarkt 1953
+description: Farbfoto, leicht verblasst.
+date: 1953~
+location: Bömenzien, Brunnen am Markt
+origin:
+  name: Heinrich Tiedemann
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Kartoffelernte 1953
+    type: event
+parents:
+  - 01HP82YB6MPZJ20Z4EGHA5QYFX
+  - 01F59EC1VBHH3WNCG7D36FBJZ4
+files:
+  - role: main
+    original_name: foto_7155.jpg
+    path: files/4c/2d/4c2df77d379af076f7133238a647c8630f13429c80a3c90584fb0f74f844851f/original.jpg
+    sha256: 4c2df77d379af076f7133238a647c8630f13429c80a3c90584fb0f74f844851f
+    mime: image/jpeg
+    bytes: 5892328
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4c/2d/4c2df77d379af076f7133238a647c8630f13429c80a3c90584fb0f74f844851f/preview-400.e2b361cb8bd9.jpg
+        sha256: e2b361cb8bd9627939612efbf0a86748fa96b1674b510e87f1281743b04bf603
+        mime: image/jpeg
+        bytes: 69513
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

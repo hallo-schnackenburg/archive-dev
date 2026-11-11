@@ -1,0 +1,40 @@
+id: 01HVAJ9VTF6A8Y477Q51EA8QHN
+type: image
+subtype: photo
+title: Gerda Tiedemann, Porträt
+description: Zu sehen sind Friedhofskapelle und Brunnen am Markt.
+date: 1915-12-02
+location: Rüterberg, Fährstraße
+geocode:
+  lat: 52.9453
+  lon: 11.5928
+  precision: exact
+  source: osm
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Gärtnerei
+    type: building
+parents:
+  - 01EVCP6NN2EADHWRTHNC79ZAS7
+  - 01K6AZXAQBY5GZ2MJ9739G5ZQB
+files:
+  - role: main
+    original_name: scan_708.tif
+    path: files/94/7d/947deb314e67199dac22a29f23358a2cb905b709b3538973a3d285b7cd4f91a8/original.tif
+    sha256: 947deb314e67199dac22a29f23358a2cb905b709b3538973a3d285b7cd4f91a8
+    mime: image/tiff
+    bytes: 8750541
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/94/7d/947deb314e67199dac22a29f23358a2cb905b709b3538973a3d285b7cd4f91a8/preview-400.aa60453342ab.jpg
+        sha256: aa60453342ab9486edf94c368fb09196de9046d4b556363fff6449550ea273e9
+        mime: image/jpeg
+        bytes: 22305
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,47 @@
+id: 01FPCKSTQJZ6Z288NV0K8CZQ5M
+type: image
+subtype: photo
+title: Ortsbesichtigung 1974
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1974"
+location: Wustrow, Friedhofskapelle
+origin:
+  name: Gerda Lemke
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 12/237
+  note: Planschrank, Fach 3
+subjects:
+  - name: Wassermühle
+    type: building
+  - name: Hedwig Kuhlmann
+    type: person
+  - name: Windmühle
+    type: building
+parents:
+  - 01FHAJMC0QDXRYDR1PV64RNJKV
+files:
+  - role: main
+    original_name: IMG_0327.jpg
+    path: files/17/2b/172b26e755c1fb2afdc03a7aa4440f2a8d0399bb3bd60b799f09815ae2ea8eee/original.jpg
+    sha256: 172b26e755c1fb2afdc03a7aa4440f2a8d0399bb3bd60b799f09815ae2ea8eee
+    mime: image/jpeg
+    bytes: 6835926
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/17/2b/172b26e755c1fb2afdc03a7aa4440f2a8d0399bb3bd60b799f09815ae2ea8eee/preview-400.c77ff2339e3c.jpg
+        sha256: c77ff2339e3c53cc702e7cdf67ad6c5f4ed025ee3428806d5103b19f07bcaa1f
+        mime: image/jpeg
+        bytes: 63109
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

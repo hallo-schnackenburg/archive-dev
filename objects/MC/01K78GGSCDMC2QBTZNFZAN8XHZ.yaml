@@ -1,0 +1,61 @@
+id: 01K78GGSCDMC2QBTZNFZAN8XHZ
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Cumlosen 1862
+description: Anwesend waren 10 Personen.
+date: 1862-08
+location: Lanz, Gartenstraße
+origin:
+  name: Samtgemeinderat Restorf
+  type: business
+  location: Seedorf
+language: de
+subjects:
+  - name: Schmiede
+    type: building
+  - name: Grenzöffnung 1862
+    type: event
+parents:
+  - 01F46MZG12HDJQK9Z29HPTQV9B
+  - 01HYMCFRJ492VAY6JD2NK5EJ56
+files:
+  - role: page
+    num: 1
+    original_name: protocol_an8xhz_001.tif
+    path: files/42/97/42974d30f5fdd09660ab92b2fd84331b1cf69d53a9b60ac6468b74e32bef7417/original.tif
+    sha256: 42974d30f5fdd09660ab92b2fd84331b1cf69d53a9b60ac6468b74e32bef7417
+    mime: image/tiff
+    bytes: 17552893
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/42/97/42974d30f5fdd09660ab92b2fd84331b1cf69d53a9b60ac6468b74e32bef7417/preview-400.014e64e15667.jpg
+        sha256: 014e64e15667e88cc9ff1b95fe5c59992863ea6ecf3a1cff2d778b3893f0da8b
+        mime: image/jpeg
+        bytes: 53399
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_an8xhz_002.tif
+    path: files/d3/e0/d3e0fa86e91c26ec4a5efb88c88cb20622fb91d2dda4337e420b0186309408b2/original.tif
+    sha256: d3e0fa86e91c26ec4a5efb88c88cb20622fb91d2dda4337e420b0186309408b2
+    mime: image/tiff
+    bytes: 16643554
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d3/e0/d3e0fa86e91c26ec4a5efb88c88cb20622fb91d2dda4337e420b0186309408b2/preview-400.104646717a93.jpg
+        sha256: 104646717a936a0bca2a8966ed96eb75e858724dbdf5343b8a58b1555acd7e7b
+        mime: image/jpeg
+        bytes: 41015
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

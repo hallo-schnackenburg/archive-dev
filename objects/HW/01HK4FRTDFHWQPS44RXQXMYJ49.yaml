@@ -1,0 +1,36 @@
+id: 01HK4FRTDFHWQPS44RXQXMYJ49
+type: image
+subtype: photo
+title: Hochzeit 1989
+description: Aufnahme von Walter Lindemann.
+date: 1989-08
+location: Kapern, Dorfstraße
+origin:
+  name: Wilhelm Detlefs
+  type: person
+  location: Restorf
+subjects:
+  - name: Einweihung 1989
+    type: event
+parents:
+  - 01KQE2MVHCH023HXPRAKNXXJ2W
+files:
+  - role: main
+    original_name: P1100.jpg
+    path: files/a2/4e/a24e046e7120b3c821e8a84a49ad43fb0afe2082e8a2f1654e1ece8860cdd48b/original.jpg
+    sha256: a24e046e7120b3c821e8a84a49ad43fb0afe2082e8a2f1654e1ece8860cdd48b
+    mime: image/jpeg
+    bytes: 9625692
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a2/4e/a24e046e7120b3c821e8a84a49ad43fb0afe2082e8a2f1654e1ece8860cdd48b/preview-400.2f5e7f5b8dad.jpg
+        sha256: 2f5e7f5b8dad3df9328a5314eba045e62dd263629d7b578c1d101c0449e6a5be
+        mime: image/jpeg
+        bytes: 78839
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

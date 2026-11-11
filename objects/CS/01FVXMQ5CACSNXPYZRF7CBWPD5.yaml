@@ -1,0 +1,49 @@
+id: 01FVXMQ5CACSNXPYZRF7CBWPD5
+type: document
+subtype: letter
+title: Korrespondenz Berta Schwarz
+description: Mit Umschlag und Briefmarke.
+date: 1803-10
+location: Rüterberg, Hinter den Höfen
+origin:
+  name: Wilhelm Hennings
+  type: person
+  location: Wustrow
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 30/048
+  note: Regal 1
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Friedrich Sievers
+    type: person
+  - name: Erika Lemke
+    type: person
+parents:
+  - 01JTVDYETN8G6S7M3ZJ0A2E9B3
+files:
+  - role: page
+    num: 1
+    original_name: letter_cbwpd5_001.tif
+    path: files/a8/ff/a8ff1ace99192ce8941f69af7800f4ab4c4f77ccd13684e7835d32d390ea66dc/original.tif
+    sha256: a8ff1ace99192ce8941f69af7800f4ab4c4f77ccd13684e7835d32d390ea66dc
+    mime: image/tiff
+    bytes: 26112356
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a8/ff/a8ff1ace99192ce8941f69af7800f4ab4c4f77ccd13684e7835d32d390ea66dc/preview-400.243b16d64343.jpg
+        sha256: 243b16d643433b008c8b0c5db4670ce6eefb1e33def5e66ced82dd1d8d490a71
+        mime: image/jpeg
+        bytes: 56089
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

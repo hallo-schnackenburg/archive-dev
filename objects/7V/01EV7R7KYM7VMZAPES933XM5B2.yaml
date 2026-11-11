@@ -1,0 +1,37 @@
+id: 01EV7R7KYM7VMZAPES933XM5B2
+type: image
+subtype: plan
+title: Bauplan Fähranleger 1880
+description: Maßstab 1:2500.
+date: 1880?
+owner:
+  name: Helga Rieke
+  type: person
+  note: Nachlass
+subjects:
+  - name: Scheune
+    type: building
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Brünkendorf
+    type: place
+files:
+  - role: main
+    original_name: scan_153.tif
+    path: files/88/a1/88a1fcf2bc92f8d6d0b45fc5055a5c7f8c65fa591975f07c89577b82c67cc70e/original.tif
+    sha256: 88a1fcf2bc92f8d6d0b45fc5055a5c7f8c65fa591975f07c89577b82c67cc70e
+    mime: image/tiff
+    bytes: 27215423
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/88/a1/88a1fcf2bc92f8d6d0b45fc5055a5c7f8c65fa591975f07c89577b82c67cc70e/preview-400.7d39406a8ae9.jpg
+        sha256: 7d39406a8ae9d17062425c404045007d57665a2f31a80f29c3dc6a03c02cf7df
+        mime: image/jpeg
+        bytes: 23311
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

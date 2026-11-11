@@ -1,0 +1,46 @@
+id: 01G8A8BTA6154TCYQS2RVGRV1W
+type: image
+subtype: photo
+title: Elbstraße, Ecke Fährstraße
+date: 189X
+location: Brünkendorf, Gasthof Meyer
+geocode:
+  lat: 52.9018
+  lon: 11.6314
+  precision: region
+  source: osm
+origin:
+  name: Dieter Bohlmann
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 22/044
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+parents:
+  - 01F609NXHEBHNPDFETZVY63FSS
+files:
+  - role: main
+    original_name: IMG_7060.jpg
+    path: files/fd/09/fd097bc1bb075b2567da57b1b3b0fdd3bb40f15280fadc41ee86d91f5a70a228/original.jpg
+    sha256: fd097bc1bb075b2567da57b1b3b0fdd3bb40f15280fadc41ee86d91f5a70a228
+    mime: image/jpeg
+    bytes: 24567765
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/fd/09/fd097bc1bb075b2567da57b1b3b0fdd3bb40f15280fadc41ee86d91f5a70a228/preview-400.cf27da7e4c16.jpg
+        sha256: cf27da7e4c16d204422c09f6d3e6b54adc67dd5b837e3c677885f0f3e214b032
+        mime: image/jpeg
+        bytes: 35957
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

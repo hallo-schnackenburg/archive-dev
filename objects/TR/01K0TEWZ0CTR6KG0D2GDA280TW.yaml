@@ -1,0 +1,66 @@
+id: 01K0TEWZ0CTR6KG0D2GDA280TW
+type: document
+subtype: note
+title: Quittung für Horst Krüger
+description: Auf der Rückseite eines Formulars.
+date: 1927-07-09
+location: Seedorf, Lange Straße
+geocode:
+  lat: 52.9973
+  lon: 11.6902
+  precision: region
+  source: osm
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 15/015
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Gasthof Meyer
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_a280tw_001.tif
+    path: files/57/cc/57ccde4ccf91bbd8ab4cb942e690d4e1cdd2a5b3dfae19790d2e995f0c3edb2a/original.tif
+    sha256: 57ccde4ccf91bbd8ab4cb942e690d4e1cdd2a5b3dfae19790d2e995f0c3edb2a
+    mime: image/tiff
+    bytes: 25277170
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/cc/57ccde4ccf91bbd8ab4cb942e690d4e1cdd2a5b3dfae19790d2e995f0c3edb2a/preview-400.8767073a9120.jpg
+        sha256: 8767073a91205c0a892733eaa94ffa29020f8f464484a304d8df2122f99725ed
+        mime: image/jpeg
+        bytes: 34121
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_a280tw_002.tif
+    path: files/a1/7a/a17ad07cd0d9508aa92de3e8449513f079e24eb7b37144857bb5e51932e75a6a/original.tif
+    sha256: a17ad07cd0d9508aa92de3e8449513f079e24eb7b37144857bb5e51932e75a6a
+    mime: image/tiff
+    bytes: 11448950
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a1/7a/a17ad07cd0d9508aa92de3e8449513f079e24eb7b37144857bb5e51932e75a6a/preview-400.7cf85653e7a4.jpg
+        sha256: 7cf85653e7a41ec88eef9decd58f659eb9545344058d3e13f1a97b3e1e5e8a47
+        mime: image/jpeg
+        bytes: 55299
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01H8E63RSGW3ZA8SGF4SFN0GXM
+type: image
+subtype: print
+title: "Holzschnitt: Kindergartenfest"
+description: Lithographie, Rand beschnitten.
+date: "1710"
+location: Pretzier, Deichstraße
+geocode:
+  lat: 52.9305
+  lon: 11.5785
+  precision: town
+  source: osm
+origin:
+  name: Otto Krüger
+  type: person
+  location: Salzwedel
+owner:
+  name: Erika Voss
+  type: person
+  note: Nachlass
+subjects:
+  - name: Kapern
+    type: place
+files:
+  - role: main
+    original_name: scan_067.tif
+    path: files/87/31/873137f069a41374f886db522df1457c800f2353a77f750c9cec56ee3ff8b28a/original.tif
+    sha256: 873137f069a41374f886db522df1457c800f2353a77f750c9cec56ee3ff8b28a
+    mime: image/tiff
+    bytes: 11522946
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/87/31/873137f069a41374f886db522df1457c800f2353a77f750c9cec56ee3ff8b28a/preview-400.2d2a8bf4967d.jpg
+        sha256: 2d2a8bf4967dcca4d8b590821533532d5a1023afc3370f1a58d25678776d0151
+        mime: image/jpeg
+        bytes: 21073
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

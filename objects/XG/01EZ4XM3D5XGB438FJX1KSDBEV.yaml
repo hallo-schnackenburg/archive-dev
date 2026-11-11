@@ -1,0 +1,44 @@
+id: 01EZ4XM3D5XGB438FJX1KSDBEV
+type: image
+subtype: plan
+title: Bauplan Gärtnerei 1833
+description: Maßstab 1:2500.
+date: 1833-11-25
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 1/257
+  note: Regal 1
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Ilse Lemke
+    type: person
+  - name: Elbdeich
+    type: building
+files:
+  - role: main
+    original_name: scan_967.tif
+    path: files/01/a1/01a1c99eb83c7937fc0a1df2c492aa8813c520090ce24ed94db8553c6f81e134/original.tif
+    sha256: 01a1c99eb83c7937fc0a1df2c492aa8813c520090ce24ed94db8553c6f81e134
+    mime: image/tiff
+    bytes: 27391635
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/01/a1/01a1c99eb83c7937fc0a1df2c492aa8813c520090ce24ed94db8553c6f81e134/preview-400.d2dd1e9b268f.jpg
+        sha256: d2dd1e9b268f36e1054a3dcae06e1467e9a29b183804121c6704fb717ab7f180
+        mime: image/jpeg
+        bytes: 81268
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

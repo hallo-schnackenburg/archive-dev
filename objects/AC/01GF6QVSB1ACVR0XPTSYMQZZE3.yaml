@@ -1,0 +1,40 @@
+id: 01GF6QVSB1ACVR0XPTSYMQZZE3
+type: image
+subtype: photo
+title: Gerda Krüger, Porträt
+date: "1950"
+location: Gorleben, Kegelbahn
+origin:
+  name: Elfriede Ahrens
+  type: person
+  location: Gülden
+subjects:
+  - name: Heinz Voss
+    type: person
+  - name: Zollamt
+    type: building
+  - name: Emma Krüger
+    type: person
+parents:
+  - 01EZPB1VX62FRSWZHWBBH2D77Z
+  - 01G996YXACFHKB4DAGY313MZ7B
+files:
+  - role: main
+    original_name: P0269.jpg
+    path: files/20/76/2076ce8caa909fdbd5331f1f5a707029cefaee6ba3496f4e54fa650675c68e67/original.jpg
+    sha256: 2076ce8caa909fdbd5331f1f5a707029cefaee6ba3496f4e54fa650675c68e67
+    mime: image/jpeg
+    bytes: 6158618
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/20/76/2076ce8caa909fdbd5331f1f5a707029cefaee6ba3496f4e54fa650675c68e67/preview-400.4e9d68739a90.jpg
+        sha256: 4e9d68739a9087327f65bea9763f4283120a796ac46f6fbeaa19f1b9b1931430
+        mime: image/jpeg
+        bytes: 47335
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

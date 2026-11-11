@@ -1,0 +1,35 @@
+id: 01K4MMTBMHPAT9V1XVY7ZPJ2XK
+type: image
+subtype: drawing
+title: Wappenentwurf Schnackenburg, Lenzen
+description: Mit Anmerkungen am Rand.
+date: 1964-09-19
+location: Cumlosen, Ladestraße
+geocode:
+  lat: 53.0344
+  lon: 11.5935
+  precision: region
+  source: osm
+subjects:
+  - name: Lüchow
+    type: place
+files:
+  - role: main
+    original_name: scan_794.tif
+    path: files/9e/91/9e91f39d9c5c7f80fbbfa08ec83a6fcfdc9a0291f94d000b3b37bb69daea092d/original.tif
+    sha256: 9e91f39d9c5c7f80fbbfa08ec83a6fcfdc9a0291f94d000b3b37bb69daea092d
+    mime: image/tiff
+    bytes: 15904109
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/9e/91/9e91f39d9c5c7f80fbbfa08ec83a6fcfdc9a0291f94d000b3b37bb69daea092d/preview-400.3dd1d16b477c.jpg
+        sha256: 3dd1d16b477ca598f99c614457b564d5c78439b864460898e2355a1f72c1bab3
+        mime: image/jpeg
+        bytes: 32904
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

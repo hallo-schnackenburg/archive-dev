@@ -1,0 +1,35 @@
+id: 01G7G3GXA0287AK5QBXZDWPE4M
+type: image
+subtype: photo
+title: Familie Wegner beim Kartoffelernte
+description: Aufnahme von Renate Wegner.
+location: Salzwedel, Bahnhof
+geocode:
+  lat: 53.0333
+  lon: 11.5236
+  precision: exact
+  source: osm
+origin:
+  name: Hedwig Heuer
+  type: person
+  location: Wootz
+files:
+  - role: main
+    original_name: DSC1521.jpg
+    path: files/d5/15/d515668413360561b49fdb219b85f752ad1ed019550fed299cf12c4984ef240b/original.jpg
+    sha256: d515668413360561b49fdb219b85f752ad1ed019550fed299cf12c4984ef240b
+    mime: image/jpeg
+    bytes: 10564417
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/d5/15/d515668413360561b49fdb219b85f752ad1ed019550fed299cf12c4984ef240b/preview-400.d03c07c78a9d.jpg
+        sha256: d03c07c78a9d2f228286592934f4733b1e3f8c0c589e10965474813d74145ab0
+        mime: image/jpeg
+        bytes: 82682
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

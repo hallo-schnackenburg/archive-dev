@@ -1,0 +1,38 @@
+id: 01F6MXJAY6DEF0YZ5RTHZP51R7
+type: image
+subtype: print
+title: Lithographie Sportplatz
+description: Kupferstich, koloriert.
+date: 192X
+location: Kapern, Am Markt
+origin:
+  name: Gerda Dreyer
+  type: person
+  location: Havelberg
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Fritz Ahrens
+    type: person
+  - name: Försterei
+    type: building
+files:
+  - role: main
+    original_name: scan_842.tif
+    path: files/d0/f8/d0f87dbda87e0a2073f8ed0586ad7d241a684c47cfd36d16868d0529d7552c67/original.tif
+    sha256: d0f87dbda87e0a2073f8ed0586ad7d241a684c47cfd36d16868d0529d7552c67
+    mime: image/tiff
+    bytes: 3134331
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d0/f8/d0f87dbda87e0a2073f8ed0586ad7d241a684c47cfd36d16868d0529d7552c67/preview-400.e76a0a0cdadd.jpg
+        sha256: e76a0a0cdadda669668ed22a69b5009309f66ea7caaf5153ed61e65b244cceb8
+        mime: image/jpeg
+        bytes: 55894
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

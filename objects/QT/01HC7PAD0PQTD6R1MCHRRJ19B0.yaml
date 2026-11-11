@@ -1,0 +1,37 @@
+id: 01HC7PAD0PQTD6R1MCHRRJ19B0
+type: image
+subtype: photo
+title: Ursula Pape, Porträt
+description: Aufnahme von Klaus Detlefs.
+date: 2004-08-13
+location: Gülden, Bahnhof
+geocode:
+  lat: 53.0039
+  lon: 11.4699
+  precision: exact
+  source: osm
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Dorfkrug
+    type: building
+files:
+  - role: main
+    original_name: IMG_2375.jpg
+    path: files/90/53/905306a53fcf9ec9ce3b5b070f3881a151932349d9c60228e3f2acf85b56949e/original.jpg
+    sha256: 905306a53fcf9ec9ce3b5b070f3881a151932349d9c60228e3f2acf85b56949e
+    mime: image/jpeg
+    bytes: 25097355
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/90/53/905306a53fcf9ec9ce3b5b070f3881a151932349d9c60228e3f2acf85b56949e/preview-400.7fde3e2a6d46.jpg
+        sha256: 7fde3e2a6d46df8b64bb97d659a5c151be462ab7fbcae07a1f11056f9e6f5667
+        mime: image/jpeg
+        bytes: 84397
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

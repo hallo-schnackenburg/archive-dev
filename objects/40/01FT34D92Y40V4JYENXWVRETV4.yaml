@@ -1,0 +1,37 @@
+id: 01FT34D92Y40V4JYENXWVRETV4
+type: image
+subtype: plan
+title: Deichplan Lüchow bis Gorleben
+date: 188X
+location: Rüterberg, Storchennest
+origin:
+  name: Walter Dreyer
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Bömenzien
+    type: place
+  - name: Klaus Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_430.tif
+    path: files/af/fa/affa98dba141300567cbeaf12bbbc5447a1cdc1b6007294c13fdf6289319920e/original.tif
+    sha256: affa98dba141300567cbeaf12bbbc5447a1cdc1b6007294c13fdf6289319920e
+    mime: image/tiff
+    bytes: 22219847
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/af/fa/affa98dba141300567cbeaf12bbbc5447a1cdc1b6007294c13fdf6289319920e/preview-400.7e0c40a1c1a7.jpg
+        sha256: 7e0c40a1c1a720a32e15da4d0a96335e0cd502d7002d32d901d37a4e5d349db2
+        mime: image/jpeg
+        bytes: 31414
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

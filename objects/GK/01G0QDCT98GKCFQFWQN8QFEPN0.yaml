@@ -1,0 +1,65 @@
+id: 01G0QDCT98GKCFQFWQN8QFEPN0
+type: document
+subtype: note
+title: Rechnung Harms, Friedhofskapelle
+date: 1880-05
+location: Laase, Molkerei
+geocode:
+  lat: 53.0571
+  lon: 11.6604
+  precision: region
+  source: osm
+origin:
+  name: Karl Voss
+  type: person
+  location: Pretzier
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Kindergarten
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_qfepn0_001.tif
+    path: files/0c/84/0c84749d073158a08ac2f98a84fcabafbb2b39c7cfc8960355d6209502f36eae/original.tif
+    sha256: 0c84749d073158a08ac2f98a84fcabafbb2b39c7cfc8960355d6209502f36eae
+    mime: image/tiff
+    bytes: 4982933
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0c/84/0c84749d073158a08ac2f98a84fcabafbb2b39c7cfc8960355d6209502f36eae/preview-400.d433111c4442.jpg
+        sha256: d433111c4442df835301e47e3fc1cf9e6014cdc2197f81374acd9a361d647317
+        mime: image/jpeg
+        bytes: 28695
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_qfepn0_002.tif
+    path: files/6c/dc/6cdc09f6a5678627adc93aa4d85b5827e0ef09e8e716bb3c475119e3eb59506f/original.tif
+    sha256: 6cdc09f6a5678627adc93aa4d85b5827e0ef09e8e716bb3c475119e3eb59506f
+    mime: image/tiff
+    bytes: 21852490
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6c/dc/6cdc09f6a5678627adc93aa4d85b5827e0ef09e8e716bb3c475119e3eb59506f/preview-400.14eda6a5c1fe.jpg
+        sha256: 14eda6a5c1fe54d2295f94b215cf663b963e74f6097df8de434cbbe56230d61c
+        mime: image/jpeg
+        bytes: 35008
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

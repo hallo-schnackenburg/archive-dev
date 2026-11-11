@@ -1,0 +1,32 @@
+id: 01HB8K17D6PEDNG9C2754D6T69
+type: image
+subtype: photo
+title: Schlachtfest 1914
+description: Zu sehen sind Kindergarten und Poststelle.
+date: 1914?
+origin:
+  name: Erika Bruns
+  type: person
+  location: Zadrau
+parents:
+  - 01JCYMRB83VZY8P4S2Q7H8E1H3
+files:
+  - role: main
+    original_name: scan_780.tif
+    path: files/6d/1e/6d1e7d6496dd5ed37afa23b5cd9c0aabc2b085f5fb4ea4b2d195313f51732e5e/original.tif
+    sha256: 6d1e7d6496dd5ed37afa23b5cd9c0aabc2b085f5fb4ea4b2d195313f51732e5e
+    mime: image/tiff
+    bytes: 3705094
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/6d/1e/6d1e7d6496dd5ed37afa23b5cd9c0aabc2b085f5fb4ea4b2d195313f51732e5e/preview-400.72bb49ee73c2.jpg
+        sha256: 72bb49ee73c2e3b6bee2e6da5be902f128a8b9d811f9ed137ca4c682cafcc310
+        mime: image/jpeg
+        bytes: 41809
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

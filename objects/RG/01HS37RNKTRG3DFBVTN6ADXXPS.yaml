@@ -1,0 +1,39 @@
+id: 01HS37RNKTRG3DFBVTN6ADXXPS
+type: image
+subtype: plan
+title: Bauplan Badestelle 1889
+date: "1889"
+location: Gorleben, Am Elbdeich
+origin:
+  name: Rudolf Bohlmann
+  type: person
+  location: Arendsee
+subjects:
+  - name: Gärtnerei
+    type: building
+  - name: Beerdigung 1889
+    type: event
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+parents:
+  - 01FD6EAZJKH5HBDF74E6D66JVA
+files:
+  - role: main
+    original_name: scan_095.tif
+    path: files/a6/cf/a6cfb1c3c2ec014d1122c4dc3c30ee445292c1df64f581208de69a02ecb32c7e/original.tif
+    sha256: a6cfb1c3c2ec014d1122c4dc3c30ee445292c1df64f581208de69a02ecb32c7e
+    mime: image/tiff
+    bytes: 21680086
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a6/cf/a6cfb1c3c2ec014d1122c4dc3c30ee445292c1df64f581208de69a02ecb32c7e/preview-400.8f1deabbea60.jpg
+        sha256: 8f1deabbea609158bdfc8876d985bcb44d45c5a941b7d80060fd37a289bcb96e
+        mime: image/jpeg
+        bytes: 38810
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

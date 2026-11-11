@@ -1,0 +1,54 @@
+id: 01KF4BJA0A1XDVK5BRJKCK8JHX
+type: document
+subtype: note
+title: Kassenzettel Dorfkrug
+description: Beleg mit Stempel.
+date: "1926"
+origin:
+  name: Hans Schulz
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_ck8jhx_001.tif
+    path: files/f2/d6/f2d656f6db5e232c26a80abda3c1a469d05a6661018e62b96b070aaa3dcff425/original.tif
+    sha256: f2d656f6db5e232c26a80abda3c1a469d05a6661018e62b96b070aaa3dcff425
+    mime: image/tiff
+    bytes: 11812563
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f2/d6/f2d656f6db5e232c26a80abda3c1a469d05a6661018e62b96b070aaa3dcff425/preview-400.5d30840e80c2.jpg
+        sha256: 5d30840e80c243ce2206bf5df5f2bce8ef5795371672ddfa93d9fe4f15ac0918
+        mime: image/jpeg
+        bytes: 51341
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_ck8jhx_002.tif
+    path: files/44/56/4456c7e60f3886a6d0b525268e174c22bac70eb6bd0a8b90cb60f2c14e052f40/original.tif
+    sha256: 4456c7e60f3886a6d0b525268e174c22bac70eb6bd0a8b90cb60f2c14e052f40
+    mime: image/tiff
+    bytes: 8052298
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/44/56/4456c7e60f3886a6d0b525268e174c22bac70eb6bd0a8b90cb60f2c14e052f40/preview-400.50b4dc76c082.jpg
+        sha256: 50b4dc76c08236f4d5187444865a476545dd8d93f07e3bb01b4312faa90d802b
+        mime: image/jpeg
+        bytes: 75187
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

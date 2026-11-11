@@ -1,0 +1,39 @@
+id: 01K5JE5SCMFCWEEF6FA8ZXXARS
+type: image
+subtype: photo
+title: Gasthof Meyer nach dem Maifeier
+description: Farbfoto, leicht verblasst.
+date: "1906"
+location: Lüchow, Tischlerei Bruns
+geocode:
+  lat: 52.9067
+  lon: 11.4607
+  precision: region
+  source: osm
+subjects:
+  - name: Ortsbesichtigung 1906
+    type: event
+  - name: Pretzier
+    type: place
+parents:
+  - 01K63FK3HHMM0W1GA0H3WZR13N
+files:
+  - role: main
+    original_name: scan_984.tif
+    path: files/d1/5c/d15c2c6a44bd6974bde40c439dc50dc2ded64ab38fe0c3609c9ea1ebdaa7b07b/original.tif
+    sha256: d15c2c6a44bd6974bde40c439dc50dc2ded64ab38fe0c3609c9ea1ebdaa7b07b
+    mime: image/tiff
+    bytes: 16540946
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d1/5c/d15c2c6a44bd6974bde40c439dc50dc2ded64ab38fe0c3609c9ea1ebdaa7b07b/preview-400.02f4d5c941a6.jpg
+        sha256: 02f4d5c941a6586444ef61f852faf9cb80dd89b0424f73b4206d6907d4365217
+        mime: image/jpeg
+        bytes: 51934
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

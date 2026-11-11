@@ -1,0 +1,42 @@
+id: 01GH45JAJVGQC0V4GFXSDRHP7Y
+type: image
+subtype: print
+title: Ansichtskarte Kirchstraße, Lanz
+description: Kupferstich, koloriert.
+date: 1860-08
+location: Holtorf, Fährstraße
+geocode:
+  lat: 53.0977
+  lon: 11.4597
+  precision: region
+  source: osm
+origin:
+  name: Helga Plate
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 4, Kiste 2
+files:
+  - role: main
+    original_name: scan_484.tif
+    path: files/52/38/5238379fe835178fb3bdc79fffa44697b6e0bac709cf48951842454192d7239f/original.tif
+    sha256: 5238379fe835178fb3bdc79fffa44697b6e0bac709cf48951842454192d7239f
+    mime: image/tiff
+    bytes: 17545635
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/38/5238379fe835178fb3bdc79fffa44697b6e0bac709cf48951842454192d7239f/preview-400.441fbd5d50aa.jpg
+        sha256: 441fbd5d50aafca2e729fe42e0fe0b2593c93d67a177546056ee98cc13c52ce3
+        mime: image/jpeg
+        bytes: 44069
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

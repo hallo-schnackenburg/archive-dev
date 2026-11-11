@@ -1,0 +1,33 @@
+id: 01GV4HVCAT47KXQEY6BS3GKRTJ
+type: image
+subtype: photo
+title: Hochzeit 1927
+date: 1927-11-27
+location: Gorleben, Burgstraße
+origin:
+  name: Helga Krüger
+  type: person
+  location: Nienwalde
+parents:
+  - 01JQ24JYM14XMX215Z8SCN1PS1
+  - 01F6ZQ7TEP2TBDEHF40VAF0GAD
+files:
+  - role: main
+    original_name: DSC0163.jpg
+    path: files/e5/77/e57745204bc711bd1fd15dbb5b01a5315790d35c9e2583d2b59de4f5cdc07674/original.jpg
+    sha256: e57745204bc711bd1fd15dbb5b01a5315790d35c9e2583d2b59de4f5cdc07674
+    mime: image/jpeg
+    bytes: 27579341
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e5/77/e57745204bc711bd1fd15dbb5b01a5315790d35c9e2583d2b59de4f5cdc07674/preview-400.3125c461dfac.jpg
+        sha256: 3125c461dfaca6ad43612aa0fc82a8b5dc54afae7ceb31f10501cdbb579514e4
+        mime: image/jpeg
+        bytes: 43381
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,65 @@
+id: 01HNAHAMXSBKYVECZQ8SSRQS73
+type: document
+subtype: note
+title: Notiz zu Kanalisation, Gülden
+description: Beleg mit Stempel.
+date: 1882~
+origin:
+  name: Anni Bruns
+  type: person
+  location: Lüchow
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 35/141
+subjects:
+  - name: Feuerwehrübung 1882
+    type: event
+  - name: Zadrau
+    type: place
+  - name: Cumlosen
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_srqs73_001.tif
+    path: files/77/8d/778d1e7338818166a74339cb71697386d6a63bcd8d393a1f91447581a94966bf/original.tif
+    sha256: 778d1e7338818166a74339cb71697386d6a63bcd8d393a1f91447581a94966bf
+    mime: image/tiff
+    bytes: 18937233
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/77/8d/778d1e7338818166a74339cb71697386d6a63bcd8d393a1f91447581a94966bf/preview-400.9e9d80498d52.jpg
+        sha256: 9e9d80498d52fde4b623ecb53fde5cbfc0a1c574f8dee23e4d1c8524d52be17b
+        mime: image/jpeg
+        bytes: 27757
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_srqs73_002.tif
+    path: files/57/7d/577dc859aa29ae4e9e0778232b746dc86681e64c8d237875bb823f3d1ad946de/original.tif
+    sha256: 577dc859aa29ae4e9e0778232b746dc86681e64c8d237875bb823f3d1ad946de
+    mime: image/tiff
+    bytes: 26279228
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/7d/577dc859aa29ae4e9e0778232b746dc86681e64c8d237875bb823f3d1ad946de/preview-400.a5b902bc1c12.jpg
+        sha256: a5b902bc1c1289c6dd8521ca9fdb2e34c7bf4c325df66c8a2a4f3b343ec02a75
+        mime: image/jpeg
+        bytes: 22669
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

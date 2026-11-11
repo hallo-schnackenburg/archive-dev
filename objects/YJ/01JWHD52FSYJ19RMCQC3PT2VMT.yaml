@@ -1,0 +1,36 @@
+id: 01JWHD52FSYJ19RMCQC3PT2VMT
+type: image
+subtype: plan
+title: Bauplan Badestelle 1993
+description: Tusche auf Transparentpapier.
+date: 199X
+location: Gorleben, Tischlerei Bruns
+origin:
+  name: Anni Krüger
+  type: person
+  location: Holtorf
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Poststelle
+    type: building
+files:
+  - role: main
+    original_name: scan_671.tif
+    path: files/21/b2/21b2e4fd7c18f8f71fa3a2730d247d69b79643d237d12f7aba9b06417c1c2b35/original.tif
+    sha256: 21b2e4fd7c18f8f71fa3a2730d247d69b79643d237d12f7aba9b06417c1c2b35
+    mime: image/tiff
+    bytes: 15980017
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/21/b2/21b2e4fd7c18f8f71fa3a2730d247d69b79643d237d12f7aba9b06417c1c2b35/preview-400.e2224e068754.jpg
+        sha256: e2224e068754dbd40fdda29bfe31238dfa2ffa383c0496b88327e32838ce9696
+        mime: image/jpeg
+        bytes: 59726
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01F2QDXWRB5XE8BHH71JKN2VCR
+type: image
+subtype: plan
+title: Bauplan Rathaus 1898
+description: Mit handschriftlichen Ergänzungen.
+date: 1898-10
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br/Mappe 21/025
+subjects:
+  - name: Kirmes 1898
+    type: event
+  - name: Salzwedel
+    type: place
+files:
+  - role: main
+    original_name: scan_394.tif
+    path: files/1b/95/1b954c295f88fa223219ad47676b6849168bef7866f0924bb20f0c5391dc8d1b/original.tif
+    sha256: 1b954c295f88fa223219ad47676b6849168bef7866f0924bb20f0c5391dc8d1b
+    mime: image/tiff
+    bytes: 2864218
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1b/95/1b954c295f88fa223219ad47676b6849168bef7866f0924bb20f0c5391dc8d1b/preview-400.ebf291180085.jpg
+        sha256: ebf29118008574655a68d0fea3312bade218b6fcc2eaaeab69a2c84a57aefef6
+        mime: image/jpeg
+        bytes: 26685
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

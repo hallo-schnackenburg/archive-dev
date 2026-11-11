@@ -1,0 +1,38 @@
+id: 01JA9GGDTFC0EM1GTK17MR6J8H
+type: image
+subtype: photo
+title: Frieda Lemke, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Brünkendorf, Lange Straße
+origin:
+  name: Gerda Lenz
+  type: person
+  location: Wustrow
+subjects:
+  - name: Dorfladen
+    type: building
+  - name: Kaufmannshaus
+    type: building
+parents:
+  - 01J5DJ7A6MS3KE1Z0TKMZBQRP7
+  - 01FX13NA4AT0PM3FBRV1XBR89T
+files:
+  - role: main
+    original_name: foto_9167.jpg
+    path: files/0a/68/0a6812d254b514a0390cbc521f1e20bcf181549096b9fdc34ea6ed11b11b79e5/original.jpg
+    sha256: 0a6812d254b514a0390cbc521f1e20bcf181549096b9fdc34ea6ed11b11b79e5
+    mime: image/jpeg
+    bytes: 23438798
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/0a/68/0a6812d254b514a0390cbc521f1e20bcf181549096b9fdc34ea6ed11b11b79e5/preview-400.9bf81f7b7abe.jpg
+        sha256: 9bf81f7b7abe6805748d23f6d61ec26ab8c46dd39b28aec3e167691a6b33cffd
+        mime: image/jpeg
+        bytes: 40213
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

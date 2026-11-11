@@ -1,0 +1,41 @@
+id: 01J0VQBWZFD7A3525FWXP09MYR
+type: image
+subtype: plan
+title: Deichplan Brünkendorf bis Hitzacker
+date: 1938/1941
+location: Bömenzien, Elbdeich
+origin:
+  name: Hermann Gaede
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Gerda Dreyer
+    type: person
+parents:
+  - 01HWXZJSFPT1G68MTVYSQM6PXW
+  - 01J3V1AMRN38DQVKPXPMF1EE94
+files:
+  - role: main
+    original_name: scan_468.tif
+    path: files/48/45/48458d98cd514a15212a703e492c73afbded977d3f35a46c277050fa8bc2d215/original.tif
+    sha256: 48458d98cd514a15212a703e492c73afbded977d3f35a46c277050fa8bc2d215
+    mime: image/tiff
+    bytes: 10892423
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/48/45/48458d98cd514a15212a703e492c73afbded977d3f35a46c277050fa8bc2d215/preview-400.b81587f0e3b6.jpg
+        sha256: b81587f0e3b69a18b4b9991596fc0bdc9a74979578f124a4e1ce27accd087169
+        mime: image/jpeg
+        bytes: 33128
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

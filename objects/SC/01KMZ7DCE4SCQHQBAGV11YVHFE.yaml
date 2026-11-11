@@ -1,0 +1,37 @@
+id: 01KMZ7DCE4SCQHQBAGV11YVHFE
+type: image
+subtype: plan
+title: Grundriss Hafen
+date: 1831-10
+location: Brünkendorf, Schlachterei
+origin:
+  name: Brigitte Lüders
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Wilhelm Ihde
+    type: person
+  - name: Bömenzien
+    type: place
+parents:
+  - 01KZTC7HCNQEK4PPA9Y96PZJS7
+files:
+  - role: main
+    original_name: scan_316.tif
+    path: files/c3/56/c35648065eb3258dd7f440a12c9d5caebcb1e4f6a8adaf9e519adca6ba9a9a9c/original.tif
+    sha256: c35648065eb3258dd7f440a12c9d5caebcb1e4f6a8adaf9e519adca6ba9a9a9c
+    mime: image/tiff
+    bytes: 19433212
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c3/56/c35648065eb3258dd7f440a12c9d5caebcb1e4f6a8adaf9e519adca6ba9a9a9c/preview-400.e2921dfb2c98.jpg
+        sha256: e2921dfb2c98c10ee5bd3cb9932a97813a4710d35ebd1b088712a1de9a8fd41e
+        mime: image/jpeg
+        bytes: 20847
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

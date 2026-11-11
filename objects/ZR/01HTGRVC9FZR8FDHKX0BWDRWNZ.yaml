@@ -1,0 +1,54 @@
+id: 01HTGRVC9FZR8FDHKX0BWDRWNZ
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Theatergruppe 1906
+description: Handschriftlich in Sütterlin.
+location: Gülden, Dorfladen
+origin:
+  name: Stadtrat Lüchow
+  type: business
+  location: Arendsee
+subjects:
+  - name: Brünkendorf
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: protocol_wdrwnz_001.tif
+    path: files/5c/52/5c5232bb463b368ea8c318d3e2a321854e2da88a4781bc86fa3d008e44ea57a6/original.tif
+    sha256: 5c5232bb463b368ea8c318d3e2a321854e2da88a4781bc86fa3d008e44ea57a6
+    mime: image/tiff
+    bytes: 15009806
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5c/52/5c5232bb463b368ea8c318d3e2a321854e2da88a4781bc86fa3d008e44ea57a6/preview-400.5d61cb7af3b0.jpg
+        sha256: 5d61cb7af3b05a98e1075b9532f54d9e57b605c31307ebe94c427a1bb2df8878
+        mime: image/jpeg
+        bytes: 52767
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_wdrwnz_002.tif
+    path: files/64/de/64de82ebce50ed93bc8db33cff9d2d46e0ac7440358acf6e13ef84ca10fb8e0b/original.tif
+    sha256: 64de82ebce50ed93bc8db33cff9d2d46e0ac7440358acf6e13ef84ca10fb8e0b
+    mime: image/tiff
+    bytes: 11616820
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/64/de/64de82ebce50ed93bc8db33cff9d2d46e0ac7440358acf6e13ef84ca10fb8e0b/preview-400.92610c153add.jpg
+        sha256: 92610c153addb80679d6c88d3f0ef4ab5520118d8f2d701cbd7281278d5518f8
+        mime: image/jpeg
+        bytes: 22510
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

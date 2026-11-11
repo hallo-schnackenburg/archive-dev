@@ -1,0 +1,39 @@
+id: 01J08VJXMDXFBK4DC3Z066RTRQ
+type: image
+subtype: plan
+title: Bauplan Kriegerdenkmal 1876
+description: Maßstab 1:1000.
+location: Salzwedel, Heuberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 9/087
+subjects:
+  - name: Maifeier 1876
+    type: event
+  - name: Laase
+    type: place
+  - name: Gärtnerei
+    type: building
+files:
+  - role: main
+    original_name: scan_180.tif
+    path: files/57/a1/57a1b82d7639285c74fe528f755464feeb34adc11ac1ea62adcae3ae093ecf5a/original.tif
+    sha256: 57a1b82d7639285c74fe528f755464feeb34adc11ac1ea62adcae3ae093ecf5a
+    mime: image/tiff
+    bytes: 9232886
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/a1/57a1b82d7639285c74fe528f755464feeb34adc11ac1ea62adcae3ae093ecf5a/preview-400.70eb8a23e0f7.jpg
+        sha256: 70eb8a23e0f70c40309c8f535f72d717eafd82bbb4599c1f77364127b2bd535c
+        mime: image/jpeg
+        bytes: 66201
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

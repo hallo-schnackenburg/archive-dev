@@ -1,0 +1,73 @@
+id: 01KC97J60Y621H1KR337YJ1DA3
+type: document
+subtype: note
+title: "Handschriftliche Notiz: Richtfest"
+date: 1935-09-15
+location: Nienwalde, Poststelle
+geocode:
+  lat: 52.9197
+  lon: 11.5238
+  precision: street
+  source: osm
+origin:
+  name: Rudolf Wiese
+  type: person
+  location: Laase
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Album 28/113
+  note: Regal 4, Kiste 2
+owner:
+  name: Gustav Krüger
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Dieter Wegner
+    type: person
+parents:
+  - 01JFKAQQ0R80TT983HC9766EP1
+files:
+  - role: page
+    num: 1
+    original_name: note_yj1da3_001.tif
+    path: files/39/4d/394d4975024af09a4d79596e96445a6c032b577279cd845a7b893e5884490753/original.tif
+    sha256: 394d4975024af09a4d79596e96445a6c032b577279cd845a7b893e5884490753
+    mime: image/tiff
+    bytes: 10797865
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/39/4d/394d4975024af09a4d79596e96445a6c032b577279cd845a7b893e5884490753/preview-400.8ba6aa8372e4.jpg
+        sha256: 8ba6aa8372e42db47a4d59b7cbefa1e42c170086b2d3461f7f94501bd9606a1a
+        mime: image/jpeg
+        bytes: 24778
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_yj1da3_002.tif
+    path: files/5e/68/5e682a4d55388dc3d905b79edeb9ffacd8fed6e3a38a5ae76b1c0a27f2020256/original.tif
+    sha256: 5e682a4d55388dc3d905b79edeb9ffacd8fed6e3a38a5ae76b1c0a27f2020256
+    mime: image/tiff
+    bytes: 26440340
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5e/68/5e682a4d55388dc3d905b79edeb9ffacd8fed6e3a38a5ae76b1c0a27f2020256/preview-400.d254798c7699.jpg
+        sha256: d254798c76995bfda48c2d8627089cefdc4576669bddbac19a47f9e8e893f75e
+        mime: image/jpeg
+        bytes: 50473
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

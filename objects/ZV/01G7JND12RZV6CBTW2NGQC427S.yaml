@@ -1,0 +1,37 @@
+id: 01G7JND12RZV6CBTW2NGQC427S
+type: image
+subtype: print
+title: Postkarte Salzwedel, Grenzturm
+description: Lithographie, Rand beschnitten.
+date: 1713-12
+location: Gorleben, Lange Straße
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Horst Voss
+    type: person
+parents:
+  - 01F4TNZXAP8C2DPZT6V4QF0N5Q
+files:
+  - role: main
+    original_name: scan_987.tif
+    path: files/c2/d7/c2d7744c5337bb5915263725aee127fc4b5b35ece030bfd3ff5bd78119d24222/original.tif
+    sha256: c2d7744c5337bb5915263725aee127fc4b5b35ece030bfd3ff5bd78119d24222
+    mime: image/tiff
+    bytes: 17812583
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c2/d7/c2d7744c5337bb5915263725aee127fc4b5b35ece030bfd3ff5bd78119d24222/preview-400.b7e644527f06.jpg
+        sha256: b7e644527f0607ad5a194be3b7cd1728711cd3510a863c5bc838681979456346
+        mime: image/jpeg
+        bytes: 59666
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01GYXPYH5PS444KTKF1V7NW0J3
+type: image
+subtype: plan
+title: Lageplan Zollamt
+description: Mit handschriftlichen Ergänzungen.
+date: "1984"
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br/Mappe 1/098
+subjects:
+  - name: Mühle
+    type: building
+  - name: Gülden
+    type: place
+files:
+  - role: main
+    original_name: scan_769.tif
+    path: files/d1/f5/d1f560f711f5966210e71dd7a9ae1e10434c6271431614b2cd9aa3537911e131/original.tif
+    sha256: d1f560f711f5966210e71dd7a9ae1e10434c6271431614b2cd9aa3537911e131
+    mime: image/tiff
+    bytes: 3027754
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d1/f5/d1f560f711f5966210e71dd7a9ae1e10434c6271431614b2cd9aa3537911e131/preview-400.bda68563b6f5.jpg
+        sha256: bda68563b6f55e9c5cc2d9a402d0098bb2c4c8f87a7a04ba6286b959cc8041b8
+        mime: image/jpeg
+        bytes: 30093
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

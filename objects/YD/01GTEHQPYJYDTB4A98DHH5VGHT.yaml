@@ -1,0 +1,35 @@
+id: 01GTEHQPYJYDTB4A98DHH5VGHT
+type: image
+subtype: print
+title: "Kupferstich: Gartow von der Elbseite, Seedorf"
+description: Kupferstich, koloriert.
+date: 1837?
+origin:
+  name: Karl Wegner
+  type: person
+  location: Dömitz
+subjects:
+  - name: Laase
+    type: place
+  - name: Ilse Garms
+    type: person
+files:
+  - role: main
+    original_name: scan_554.tif
+    path: files/3a/73/3a73e263c779bf64810d38dcef102521273f8fdd27aa36219ccd1d320105f8b6/original.tif
+    sha256: 3a73e263c779bf64810d38dcef102521273f8fdd27aa36219ccd1d320105f8b6
+    mime: image/tiff
+    bytes: 5269133
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3a/73/3a73e263c779bf64810d38dcef102521273f8fdd27aa36219ccd1d320105f8b6/preview-400.0bf99741cbc5.jpg
+        sha256: 0bf99741cbc5497040da652dc584748143303310026b51615489e8b7c902d9fb
+        mime: image/jpeg
+        bytes: 32123
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

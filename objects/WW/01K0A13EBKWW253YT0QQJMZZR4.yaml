@@ -1,0 +1,45 @@
+id: 01K0A13EBKWW253YT0QQJMZZR4
+type: document
+subtype: note
+title: Rechnung Krüger, Kindergarten
+date: 189X
+location: Zadrau, Kirchstraße
+geocode:
+  lat: 52.9859
+  lon: 11.5162
+  precision: street
+  source: osm
+origin:
+  name: Friedrich Voss
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 9/069
+subjects:
+  - name: Elfriede Wiegmann
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_jmzzr4_001.tif
+    path: files/5e/a6/5ea66c42692e46f477ca5ea92176684bfd1c66d6e40746a6955efefe71a951ed/original.tif
+    sha256: 5ea66c42692e46f477ca5ea92176684bfd1c66d6e40746a6955efefe71a951ed
+    mime: image/tiff
+    bytes: 19030355
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5e/a6/5ea66c42692e46f477ca5ea92176684bfd1c66d6e40746a6955efefe71a951ed/preview-400.fc6033d6ada8.jpg
+        sha256: fc6033d6ada8d82728fe3724db3a6fba48477aa74ac74b629ace32180c2689ee
+        mime: image/jpeg
+        bytes: 81732
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

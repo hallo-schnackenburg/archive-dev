@@ -1,0 +1,46 @@
+id: 01GK5JSNTG1MN1H7Z9Y0CXP7MC
+type: image
+subtype: photo
+title: Paul Klatt, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1937-06
+location: Wustrow, Schulstraße
+geocode:
+  lat: 53.0689
+  lon: 11.5908
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Familie Tiedemann
+    type: person
+    location: Holtorf
+  reference: Plan/Album 11/019
+  note: Schrank B
+subjects:
+  - name: Rudolf Gerdes
+    type: person
+  - name: Pfarrhaus
+    type: building
+  - name: Sturmschaden 1937
+    type: event
+files:
+  - role: main
+    original_name: scan_749.tif
+    path: files/79/59/79595638702cff0d5e54d42d13f09128eb0ed9fe9c586b63a281bf69159bfe34/original.tif
+    sha256: 79595638702cff0d5e54d42d13f09128eb0ed9fe9c586b63a281bf69159bfe34
+    mime: image/tiff
+    bytes: 6223385
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/79/59/79595638702cff0d5e54d42d13f09128eb0ed9fe9c586b63a281bf69159bfe34/preview-400.74dc8258a04f.jpg
+        sha256: 74dc8258a04fc8a7a5d8902a3f95efe43e5bcf30dfc097f0717b3f44f7395aea
+        mime: image/jpeg
+        bytes: 42879
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

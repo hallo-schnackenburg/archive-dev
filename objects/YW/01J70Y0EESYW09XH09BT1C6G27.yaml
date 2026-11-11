@@ -1,0 +1,39 @@
+id: 01J70Y0EESYW09XH09BT1C6G27
+type: image
+subtype: print
+title: Lithographie Badestelle, Gorleben
+description: Lithographie, Rand beschnitten.
+date: 1839?
+location: Gülden, Feuerwehrhaus
+geocode:
+  lat: 53.0782
+  lon: 11.6441
+  precision: town
+  source: osm
+subjects:
+  - name: Marta Wegner
+    type: person
+  - name: Hochzeit 1839
+    type: event
+  - name: Schützenhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_174.tif
+    path: files/86/7c/867c3917cadad620beb4f0382efa4236213f361bb1d2aefd2e90ff0186fa6fa6/original.tif
+    sha256: 867c3917cadad620beb4f0382efa4236213f361bb1d2aefd2e90ff0186fa6fa6
+    mime: image/tiff
+    bytes: 11882817
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/86/7c/867c3917cadad620beb4f0382efa4236213f361bb1d2aefd2e90ff0186fa6fa6/preview-400.81d353f047a7.jpg
+        sha256: 81d353f047a7dd4f63b701af720f8c51958164627961eee086b3695ed20fca2d
+        mime: image/jpeg
+        bytes: 27930
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

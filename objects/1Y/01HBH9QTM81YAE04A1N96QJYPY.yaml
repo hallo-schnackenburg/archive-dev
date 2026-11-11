@@ -1,0 +1,69 @@
+id: 01HBH9QTM81YAE04A1N96QJYPY
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Friedhofsordnung 1945
+description: Anwesend waren 10 Personen.
+location: Holtorf, Elbstraße
+geocode:
+  lat: 52.9735
+  lon: 11.5184
+  precision: region
+  source: osm
+origin:
+  name: Verbandsversammlung Pretzier
+  type: business
+  location: Salzwedel
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok/Mappe 16/112
+  note: Bücherregal links
+subjects:
+  - name: Hochzeit 1945
+    type: event
+parents:
+  - 01HV23CDKEHB2T4F0325HW90F9
+files:
+  - role: page
+    num: 1
+    original_name: protocol_6qjypy_001.tif
+    path: files/04/7f/047f6a05f03074db73ccb8f800718d9e36cd9f9069a28edce2bd5dd790f71c22/original.tif
+    sha256: 047f6a05f03074db73ccb8f800718d9e36cd9f9069a28edce2bd5dd790f71c22
+    mime: image/tiff
+    bytes: 6517247
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/04/7f/047f6a05f03074db73ccb8f800718d9e36cd9f9069a28edce2bd5dd790f71c22/preview-400.324243e76cac.jpg
+        sha256: 324243e76cac42f2c8ec49888c49e0c0a5342b7e8041303434269bbf8af5b5b5
+        mime: image/jpeg
+        bytes: 75954
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_6qjypy_002.tif
+    path: files/52/d2/52d2a4549513106be8b07831b31bf99f621c8557c87999e0ac3d265793e07942/original.tif
+    sha256: 52d2a4549513106be8b07831b31bf99f621c8557c87999e0ac3d265793e07942
+    mime: image/tiff
+    bytes: 12613583
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/d2/52d2a4549513106be8b07831b31bf99f621c8557c87999e0ac3d265793e07942/preview-400.d9caaaf80b59.jpg
+        sha256: d9caaaf80b59af57018bbc9ed5e44651e754202c48155bc49fc20784e9ffa544
+        mime: image/jpeg
+        bytes: 66874
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

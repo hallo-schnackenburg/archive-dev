@@ -1,0 +1,64 @@
+id: 01GRQ4VAZ54TGDGJM1TZN5FJ4J
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Flüchtlingsunterbringung 1950
+description: "Beschlossen wurde unter anderem: Marktgebühren."
+date: 1950~
+location: Laase, Mühlenweg
+origin:
+  name: Finanzausschuss Brünkendorf
+  type: business
+  location: Gülden
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 23/245
+subjects:
+  - name: Lüchow
+    type: place
+parents:
+  - 01K63FK3HHMM0W1GA0H3WZR13N
+files:
+  - role: page
+    num: 1
+    original_name: protocol_n5fj4j_001.tif
+    path: files/62/d8/62d88285c3773bdc37888c3c92fc6ed6b7b5d442b87aa28ec0b4447cf989dfa6/original.tif
+    sha256: 62d88285c3773bdc37888c3c92fc6ed6b7b5d442b87aa28ec0b4447cf989dfa6
+    mime: image/tiff
+    bytes: 1575044
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/62/d8/62d88285c3773bdc37888c3c92fc6ed6b7b5d442b87aa28ec0b4447cf989dfa6/preview-400.49f502fc4d50.jpg
+        sha256: 49f502fc4d50e67a933f8c5ad491fece32f6195ec1d76018172b97fdfa8887ad
+        mime: image/jpeg
+        bytes: 28015
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_n5fj4j_002.tif
+    path: files/0d/b4/0db41240f3c8dcb7cbaa8e35cdedb2710812f4c14803b0d17f50bc1c8ff970e9/original.tif
+    sha256: 0db41240f3c8dcb7cbaa8e35cdedb2710812f4c14803b0d17f50bc1c8ff970e9
+    mime: image/tiff
+    bytes: 9220353
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0d/b4/0db41240f3c8dcb7cbaa8e35cdedb2710812f4c14803b0d17f50bc1c8ff970e9/preview-400.9e5472e4f5e2.jpg
+        sha256: 9e5472e4f5e2e7d4e5adf71a339afbd6aa94553f7bdb906ba6c09b4128edddf4
+        mime: image/jpeg
+        bytes: 61234
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

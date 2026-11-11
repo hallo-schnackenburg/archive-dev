@@ -1,0 +1,38 @@
+id: 01J8KJJ69WMF4B52Z9AVFJ0FDA
+type: image
+subtype: photo
+title: Ernst Wegner vor dem Dorfteich
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Holtorf, Heuberge
+origin:
+  name: Wilhelm Matthies
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Ortsbesichtigung 1998
+    type: event
+files:
+  - role: main
+    original_name: scan_129.tif
+    path: files/1c/2e/1c2e245cc353478427a10bc2bfc32a69adf08db9bf9db12fff45818d97e6791b/original.tif
+    sha256: 1c2e245cc353478427a10bc2bfc32a69adf08db9bf9db12fff45818d97e6791b
+    mime: image/tiff
+    bytes: 8089363
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/2e/1c2e245cc353478427a10bc2bfc32a69adf08db9bf9db12fff45818d97e6791b/preview-400.81177eabee33.jpg
+        sha256: 81177eabee33e0e156172c13e207ed2125acd0bddea7e2ce4d60c3542c83d82f
+        mime: image/jpeg
+        bytes: 25850
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

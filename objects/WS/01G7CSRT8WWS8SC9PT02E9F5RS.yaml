@@ -1,0 +1,30 @@
+id: 01G7CSRT8WWS8SC9PT02E9F5RS
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Lüchow
+date: "1869"
+location: Lenzen, Backhaus
+origin:
+  name: Heinrich Ihde
+  type: person
+  location: Dömitz
+files:
+  - role: main
+    original_name: scan_481.tif
+    path: files/58/31/5831f987927eba6d578006ceed6df12023b9b9576641b92fee001861a7cfacac/original.tif
+    sha256: 5831f987927eba6d578006ceed6df12023b9b9576641b92fee001861a7cfacac
+    mime: image/tiff
+    bytes: 942565
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/58/31/5831f987927eba6d578006ceed6df12023b9b9576641b92fee001861a7cfacac/preview-400.49ec45f31a7a.jpg
+        sha256: 49ec45f31a7a68a2e7141c807fe2ba230eccad0d16227127b5671abc255cdd35
+        mime: image/jpeg
+        bytes: 73301
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

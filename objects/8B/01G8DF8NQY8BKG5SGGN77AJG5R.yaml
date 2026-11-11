@@ -1,0 +1,34 @@
+id: 01G8DF8NQY8BKG5SGGN77AJG5R
+type: image
+subtype: photo
+title: Gutshaus nach dem Hochwasser
+date: "1985"
+origin:
+  name: Heinrich Ahrens
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+files:
+  - role: main
+    original_name: DSC8940.jpg
+    path: files/87/2b/872baa237a5bcbc00255c89600b25add6ddb990525b93fbb621680d051eb5149/original.jpg
+    sha256: 872baa237a5bcbc00255c89600b25add6ddb990525b93fbb621680d051eb5149
+    mime: image/jpeg
+    bytes: 21397280
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/87/2b/872baa237a5bcbc00255c89600b25add6ddb990525b93fbb621680d051eb5149/preview-400.b3ad12d744f0.jpg
+        sha256: b3ad12d744f067f6044c2c1530b91e995cd762d0de4c3e1d3d6b4cf872a5f3d6
+        mime: image/jpeg
+        bytes: 28995
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

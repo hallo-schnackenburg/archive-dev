@@ -1,0 +1,43 @@
+id: 01KHQQBYHS6WEHX8FBQP7P1WPH
+type: document
+subtype: letter
+title: Gustav Rieke an die Gemeinde wegen Wegerecht
+description: Mit Umschlag und Briefmarke.
+date: 1944-01-21
+location: Holtorf, Burgstraße
+geocode:
+  lat: 53.0431
+  lon: 11.6706
+  precision: region
+  source: osm
+origin:
+  name: Wilhelm Schulz
+  type: person
+  location: Holtorf
+recipient: Wilhelm Jeß
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+files:
+  - role: page
+    num: 1
+    original_name: letter_7p1wph_001.tif
+    path: files/0e/98/0e98cda2821a9d05be762355143e6aa232e895c9aa024fb191939c4372c7358f/original.tif
+    sha256: 0e98cda2821a9d05be762355143e6aa232e895c9aa024fb191939c4372c7358f
+    mime: image/tiff
+    bytes: 8494087
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0e/98/0e98cda2821a9d05be762355143e6aa232e895c9aa024fb191939c4372c7358f/preview-400.e35c95af034d.jpg
+        sha256: e35c95af034dbc3e984e9fc92e5a4061e3294832ee227f0844314f72ee7406f0
+        mime: image/jpeg
+        bytes: 50045
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

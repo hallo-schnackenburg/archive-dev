@@ -1,0 +1,62 @@
+id: 01G3JG38266PMZG1M46Q1W65Y4
+type: document
+subtype: note
+title: Kassenzettel Gemeindehaus
+date: 1902-08
+location: Nienwalde, Gasthof „Zur Elbe“
+origin:
+  name: August Lemke
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 33/140
+subjects:
+  - name: Lenzen
+    type: place
+parents:
+  - 01JF4KWKVRQTHC2EW4F1D004T1
+files:
+  - role: page
+    num: 1
+    original_name: note_1w65y4_001.tif
+    path: files/57/db/57db48dc55d69c470dd80e4ec24fa84a3eb3af4cd21e3bf036a532de12a2132d/original.tif
+    sha256: 57db48dc55d69c470dd80e4ec24fa84a3eb3af4cd21e3bf036a532de12a2132d
+    mime: image/tiff
+    bytes: 1527381
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/db/57db48dc55d69c470dd80e4ec24fa84a3eb3af4cd21e3bf036a532de12a2132d/preview-400.a969f1a44340.jpg
+        sha256: a969f1a44340a11cad00c44dbc0f9276e828a9fc84966cb3e5bfb2d17388624d
+        mime: image/jpeg
+        bytes: 20525
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_1w65y4_002.tif
+    path: files/7c/d5/7cd566c5795e46e01bda038799c2e25d09bd347967b7383a638bdd9aade8e28a/original.tif
+    sha256: 7cd566c5795e46e01bda038799c2e25d09bd347967b7383a638bdd9aade8e28a
+    mime: image/tiff
+    bytes: 10431543
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7c/d5/7cd566c5795e46e01bda038799c2e25d09bd347967b7383a638bdd9aade8e28a/preview-400.791d2745809e.jpg
+        sha256: 791d2745809e885931ecce514f4af0b8afe2743ca87bef47ff0a6a574df91481
+        mime: image/jpeg
+        bytes: 47136
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

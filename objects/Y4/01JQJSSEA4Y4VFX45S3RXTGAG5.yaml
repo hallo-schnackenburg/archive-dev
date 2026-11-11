@@ -1,0 +1,36 @@
+id: 01JQJSSEA4Y4VFX45S3RXTGAG5
+type: image
+subtype: drawing
+title: Skizze Arendsee, Dorfstraße
+date: 1828-11
+location: Havelberg, Am Elbdeich
+origin:
+  name: Lotte Lüders
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 8/076
+files:
+  - role: main
+    original_name: scan_676.tif
+    path: files/47/7e/477e7ad102c9206f623e1ce82d6e764105af8da2b87e0a91da8e7db7d12c0318/original.tif
+    sha256: 477e7ad102c9206f623e1ce82d6e764105af8da2b87e0a91da8e7db7d12c0318
+    mime: image/tiff
+    bytes: 6290281
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/47/7e/477e7ad102c9206f623e1ce82d6e764105af8da2b87e0a91da8e7db7d12c0318/preview-400.0a18f90c53e8.jpg
+        sha256: 0a18f90c53e85b8dc96eef241472b92a4bf7fb7cd70568dadaf9b87dc6994622
+        mime: image/jpeg
+        bytes: 33027
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

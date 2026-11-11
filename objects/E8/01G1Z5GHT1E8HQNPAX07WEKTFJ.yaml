@@ -1,0 +1,57 @@
+id: 01G1Z5GHT1E8HQNPAX07WEKTFJ
+type: document
+subtype: note
+title: Quittung für Uwe Cohrs
+description: Beleg mit Stempel.
+date: 1947?
+location: Lüchow, Kindergarten
+geocode:
+  lat: 52.9148
+  lon: 11.6433
+  precision: street
+  source: osm
+language: de
+subjects:
+  - name: Hafen
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_wektfj_001.tif
+    path: files/ce/cd/cecd6d52b743ba661b280b524f8dcef48a2ab3cfd5cb9902ac9a5766ddc73f9c/original.tif
+    sha256: cecd6d52b743ba661b280b524f8dcef48a2ab3cfd5cb9902ac9a5766ddc73f9c
+    mime: image/tiff
+    bytes: 3970527
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ce/cd/cecd6d52b743ba661b280b524f8dcef48a2ab3cfd5cb9902ac9a5766ddc73f9c/preview-400.a596cae562d9.jpg
+        sha256: a596cae562d93afcaecbc8e1955fe3ffc8755f1a3ef43c6b390aeea82f17fa31
+        mime: image/jpeg
+        bytes: 52847
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_wektfj_002.tif
+    path: files/10/9e/109ea9d064d46499684e22f217c6d36e5d4c45ecb59e48f97ce53f1c3abf1e6c/original.tif
+    sha256: 109ea9d064d46499684e22f217c6d36e5d4c45ecb59e48f97ce53f1c3abf1e6c
+    mime: image/tiff
+    bytes: 23538152
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/10/9e/109ea9d064d46499684e22f217c6d36e5d4c45ecb59e48f97ce53f1c3abf1e6c/preview-400.46bc590e5db0.jpg
+        sha256: 46bc590e5db01fbf4b6384443f1d41ce9639230ca034e85cfb1bc0d0985832fc
+        mime: image/jpeg
+        bytes: 64806
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

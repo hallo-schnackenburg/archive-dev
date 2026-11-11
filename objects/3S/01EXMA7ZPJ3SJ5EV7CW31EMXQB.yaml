@@ -1,0 +1,49 @@
+id: 01EXMA7ZPJ3SJ5EV7CW31EMXQB
+type: image
+subtype: drawing
+title: Skizze Hitzacker, Mühlenweg
+description: Federzeichnung, laviert.
+date: 196X
+location: Bömenzien, Poststelle
+geocode:
+  lat: 52.9627
+  lon: 11.5946
+  precision: region
+  source: osm
+origin:
+  name: Wilhelm Hartwig
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 26/039
+subjects:
+  - name: Kindergartenfest 1969
+    type: event
+  - name: Pfarrhaus
+    type: building
+  - name: Kirmes 1969
+    type: event
+files:
+  - role: main
+    original_name: scan_608.tif
+    path: files/a2/25/a2259c44dd74a2cb079728ffb1a6d2ea2acb7151cb21dd37dc5ee39c348d0326/original.tif
+    sha256: a2259c44dd74a2cb079728ffb1a6d2ea2acb7151cb21dd37dc5ee39c348d0326
+    mime: image/tiff
+    bytes: 21851027
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a2/25/a2259c44dd74a2cb079728ffb1a6d2ea2acb7151cb21dd37dc5ee39c348d0326/preview-400.e1a9bb551d83.jpg
+        sha256: e1a9bb551d83113a1be08f9d7bc26d65175dda525827cbb0584187b2970e60de
+        mime: image/jpeg
+        bytes: 42198
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

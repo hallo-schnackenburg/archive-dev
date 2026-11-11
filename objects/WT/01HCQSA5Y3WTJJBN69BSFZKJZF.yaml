@@ -1,0 +1,37 @@
+id: 01HCQSA5Y3WTJJBN69BSFZKJZF
+type: image
+subtype: photo
+title: Emma Lüders vor dem Kirche St. Johannis
+date: 1962/1970
+location: Kapern, Elbstraße
+geocode:
+  lat: 53.0973
+  lon: 11.5351
+  precision: exact
+  source: osm
+owner:
+  name: Karl Kuhlmann
+  type: person
+  note: Leihgabe
+parents:
+  - 01FZRWF3VCQTN5JHADZZNEJ53B
+files:
+  - role: main
+    original_name: scan_813.tif
+    path: files/90/53/9053878c1fcd638bbb0f01b2ad4eb3471830cbb6ba684e84457c7ab1659fa33f/original.tif
+    sha256: 9053878c1fcd638bbb0f01b2ad4eb3471830cbb6ba684e84457c7ab1659fa33f
+    mime: image/tiff
+    bytes: 2187049
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/90/53/9053878c1fcd638bbb0f01b2ad4eb3471830cbb6ba684e84457c7ab1659fa33f/preview-400.2bc5b648d55d.jpg
+        sha256: 2bc5b648d55d350819922ed9e4ca5fdaa355bf7fff00f227493ac25d1f948076
+        mime: image/jpeg
+        bytes: 35453
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

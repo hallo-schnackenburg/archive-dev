@@ -1,0 +1,62 @@
+id: 01FDQD4Q8NPA4HD7VWVNK4J870
+type: document
+subtype: note
+title: Rechnung Krüger, Brunnen am Markt
+date: "1977"
+location: Cumlosen, Elbstraße
+geocode:
+  lat: 52.9913
+  lon: 11.4899
+  precision: street
+  source: osm
+language: de
+original:
+  holder:
+    name: Familie Voss
+    type: person
+    location: Holtorf
+  reference: Pro/Album 8/015
+parents:
+  - 01K4CSV2ZP5WMZZB5PTYVKX9F7
+  - 01FT5CTVAMDQF7480XV03FD2CZ
+files:
+  - role: page
+    num: 1
+    original_name: note_k4j870_001.tif
+    path: files/2e/17/2e173ba37577b1be45de636d5df0ecaf2c448d280388ada39fa67e8382cd395b/original.tif
+    sha256: 2e173ba37577b1be45de636d5df0ecaf2c448d280388ada39fa67e8382cd395b
+    mime: image/tiff
+    bytes: 12879802
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/17/2e173ba37577b1be45de636d5df0ecaf2c448d280388ada39fa67e8382cd395b/preview-400.dfb746bcaa4f.jpg
+        sha256: dfb746bcaa4fe0992b4a88040dbfa807d320960bf325b6eebfda4bb495056800
+        mime: image/jpeg
+        bytes: 24598
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_k4j870_002.tif
+    path: files/e7/e5/e7e5704aa58250196969d9cd11b53745c1f1f22b8e8c14cdbbcf6c497df812e5/original.tif
+    sha256: e7e5704aa58250196969d9cd11b53745c1f1f22b8e8c14cdbbcf6c497df812e5
+    mime: image/tiff
+    bytes: 22913015
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e7/e5/e7e5704aa58250196969d9cd11b53745c1f1f22b8e8c14cdbbcf6c497df812e5/preview-400.244da35320eb.jpg
+        sha256: 244da35320eb9ebdd4551aa745d0e6737f088c49835d6c58eb848efea9d5b963
+        mime: image/jpeg
+        bytes: 47998
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01H42ER7QZ3PQ3M8B0CGZ9WJ4S
+type: image
+subtype: print
+title: Lithographie Apotheke, Bömenzien
+description: Kupferstich, koloriert.
+date: 1896?
+location: Kapern, Gartenstraße
+origin:
+  name: Hans Bohlmann
+  type: person
+  location: Lanz
+subjects:
+  - name: Schnackenburg
+    type: place
+files:
+  - role: main
+    original_name: scan_732.tif
+    path: files/f9/bb/f9bb4b20267c0fa7c6e449574c2788a07d84c2343666b212749500e50b048c5c/original.tif
+    sha256: f9bb4b20267c0fa7c6e449574c2788a07d84c2343666b212749500e50b048c5c
+    mime: image/tiff
+    bytes: 1488720
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f9/bb/f9bb4b20267c0fa7c6e449574c2788a07d84c2343666b212749500e50b048c5c/preview-400.35fc7428d412.jpg
+        sha256: 35fc7428d41278941a0ddea7d52a24551a57d8e0070f5fe90110698591bc4cb5
+        mime: image/jpeg
+        bytes: 78745
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

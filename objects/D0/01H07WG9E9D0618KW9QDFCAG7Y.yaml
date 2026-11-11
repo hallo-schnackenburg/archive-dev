@@ -1,0 +1,36 @@
+id: 01H07WG9E9D0618KW9QDFCAG7Y
+type: image
+subtype: drawing
+title: Skizze Lüchow, Bahnhofstraße, Wustrow
+date: 1928-05
+location: Salzwedel, Mühlenweg
+origin:
+  name: Karl Lemke
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 22/064
+files:
+  - role: main
+    original_name: scan_999.tif
+    path: files/a0/ea/a0ea36b53442f8d005e5fa985ba3e65e97b3286713eb55adf47170aff02a6ff6/original.tif
+    sha256: a0ea36b53442f8d005e5fa985ba3e65e97b3286713eb55adf47170aff02a6ff6
+    mime: image/tiff
+    bytes: 5300124
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a0/ea/a0ea36b53442f8d005e5fa985ba3e65e97b3286713eb55adf47170aff02a6ff6/preview-400.315dcc45cb45.jpg
+        sha256: 315dcc45cb45e58c8e45390a5d6af1bce9e86ae7ad26e7d6dd9728182d31e352
+        mime: image/jpeg
+        bytes: 53141
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

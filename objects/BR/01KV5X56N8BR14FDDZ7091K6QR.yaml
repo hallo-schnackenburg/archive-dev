@@ -1,0 +1,47 @@
+id: 01KV5X56N8BR14FDDZ7091K6QR
+type: image
+subtype: photo
+title: Albert Tiedemann, Porträt
+description: Zu sehen sind Badestelle und Fachwerkhaus Marktstraße 4.
+date: 1970-01-10
+location: Salzwedel, Dorfkrug
+origin:
+  name: Gerda Meyer
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 23/314
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Fährjubiläum 1970
+    type: event
+  - name: Karl Lemke
+    type: person
+parents:
+  - 01H27588JYCJ6ZCQPR15QXAN99
+  - 01FC5K4GCY6W41KZKCK9P52A8H
+files:
+  - role: main
+    original_name: IMG_8144.jpg
+    path: files/81/8e/818e97e784b28b3ae2e0a38de0477a43aa805134564d36678f94983d240a4226/original.jpg
+    sha256: 818e97e784b28b3ae2e0a38de0477a43aa805134564d36678f94983d240a4226
+    mime: image/jpeg
+    bytes: 19220142
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/81/8e/818e97e784b28b3ae2e0a38de0477a43aa805134564d36678f94983d240a4226/preview-400.0877d2075323.jpg
+        sha256: 0877d207532379e7f494892a0e56fe3c8c2aa43248675f28f57c802ef59f52b7
+        mime: image/jpeg
+        bytes: 49922
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01KTJ3M4WMAR3H7BK63FKRT8MR
+type: image
+subtype: print
+title: Lithographie Dorfkrug, Restorf
+date: 1861~
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 27/088
+subjects:
+  - name: Wootz
+    type: place
+  - name: Konfirmation 1861
+    type: event
+parents:
+  - 01J0KJQZCBVBB5P2CFE222P7V3
+files:
+  - role: main
+    original_name: scan_052.tif
+    path: files/d2/2b/d22b5963d9ff2cbd1e965063e6cd301b7a173cc6169ea2996de9080f17fcefdc/original.tif
+    sha256: d22b5963d9ff2cbd1e965063e6cd301b7a173cc6169ea2996de9080f17fcefdc
+    mime: image/tiff
+    bytes: 13287909
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d2/2b/d22b5963d9ff2cbd1e965063e6cd301b7a173cc6169ea2996de9080f17fcefdc/preview-400.a3c1d3193d6e.jpg
+        sha256: a3c1d3193d6efc939a444ac2b01a635764f274b7b4c7afece405357ead3a63c5
+        mime: image/jpeg
+        bytes: 70440
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

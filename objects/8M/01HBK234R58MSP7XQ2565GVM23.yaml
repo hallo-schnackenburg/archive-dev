@@ -1,0 +1,62 @@
+id: 01HBK234R58MSP7XQ2565GVM23
+type: document
+subtype: letter
+title: Mitteilung aus Gülden an Familie Wöhlk
+description: Mit Umschlag und Briefmarke.
+date: 1987-07
+location: Rüterberg, Windmühle
+geocode:
+  lat: 52.9285
+  lon: 11.6027
+  precision: exact
+  source: osm
+origin:
+  name: Käthe Voss
+  type: person
+  location: Havelberg
+recipient: Erika Wegner
+language: de
+subjects:
+  - name: Anni Jeß
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_5gvm23_001.tif
+    path: files/4c/2f/4c2fef4395a51613259ae1136f7735a727d2633d9073b889c900d63b9ef7668e/original.tif
+    sha256: 4c2fef4395a51613259ae1136f7735a727d2633d9073b889c900d63b9ef7668e
+    mime: image/tiff
+    bytes: 1039936
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4c/2f/4c2fef4395a51613259ae1136f7735a727d2633d9073b889c900d63b9ef7668e/preview-400.039eba801310.jpg
+        sha256: 039eba801310525062e7798f6fc4745d11a65004a9a0c409db8b06465348d6f9
+        mime: image/jpeg
+        bytes: 82030
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_5gvm23_002.tif
+    path: files/12/12/121206f2e4396fb8810db8241cf8103e80116869358871d982cfd90e944b271c/original.tif
+    sha256: 121206f2e4396fb8810db8241cf8103e80116869358871d982cfd90e944b271c
+    mime: image/tiff
+    bytes: 3350046
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/12/12/121206f2e4396fb8810db8241cf8103e80116869358871d982cfd90e944b271c/preview-400.ea9fe56d6225.jpg
+        sha256: ea9fe56d62258f70492ed91b3a3c25e6eacfb2099a51cc3ab4cc5bb6bd018e67
+        mime: image/jpeg
+        bytes: 24945
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

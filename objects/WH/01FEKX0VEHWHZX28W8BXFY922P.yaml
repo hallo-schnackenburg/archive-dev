@@ -1,0 +1,37 @@
+id: 01FEKX0VEHWHZX28W8BXFY922P
+type: image
+subtype: photo
+title: Otto Voss, Porträt
+description: Aufnahme von Erika Dierks.
+date: 1987/1995
+origin:
+  name: Emma Krüger
+  type: person
+  location: Gülden
+subjects:
+  - name: Fähranleger
+    type: building
+  - name: Brückeneinweihung 1987
+    type: event
+parents:
+  - 01K3PA0AX7J3WY8KDDN8217RNG
+files:
+  - role: main
+    original_name: DSC9592.jpg
+    path: files/cf/7f/cf7fdeebbe196f4821444315b930bc9bf4befa24d487e0b0d25626842fc4783b/original.jpg
+    sha256: cf7fdeebbe196f4821444315b930bc9bf4befa24d487e0b0d25626842fc4783b
+    mime: image/jpeg
+    bytes: 2770987
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/cf/7f/cf7fdeebbe196f4821444315b930bc9bf4befa24d487e0b0d25626842fc4783b/preview-400.fbabca876f62.jpg
+        sha256: fbabca876f62c94e596cd0729d903ca7404ff9e7534fd89eb7cbf6aec9d4f7ef
+        mime: image/jpeg
+        bytes: 72609
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

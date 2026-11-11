@@ -1,0 +1,46 @@
+id: 01GY6PEGHXC3BVQBSM1N2EQKVM
+type: image
+subtype: print
+title: Postkarte Cumlosen, Gutshaus
+date: "1722"
+location: Gollensdorf, Gasthof Meyer
+origin:
+  name: Gerda Kuhlmann
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro 14/024
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Ilse Lemke
+    type: person
+  - name: Laase
+    type: place
+  - name: Einschulung 1722
+    type: event
+parents:
+  - 01GKNYMFKHFES83J477ZEHD22T
+files:
+  - role: main
+    original_name: scan_161.tif
+    path: files/de/c8/dec8fe76261535b1b00fcccf77a4ec622138df6dacde2a480bfad6d9f33a940d/original.tif
+    sha256: dec8fe76261535b1b00fcccf77a4ec622138df6dacde2a480bfad6d9f33a940d
+    mime: image/tiff
+    bytes: 4061510
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/de/c8/dec8fe76261535b1b00fcccf77a4ec622138df6dacde2a480bfad6d9f33a940d/preview-400.8d898e7c9557.jpg
+        sha256: 8d898e7c95574851d056d13c2f169a04e818ec4f72d268c39090a7bb006b85ec
+        mime: image/jpeg
+        bytes: 69923
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

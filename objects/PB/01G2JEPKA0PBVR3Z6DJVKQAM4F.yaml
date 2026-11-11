@@ -1,0 +1,27 @@
+id: 01G2JEPKA0PBVR3Z6DJVKQAM4F
+type: image
+subtype: plan
+title: Bauplan Tanzsaal 1765
+location: Gartow, Hafenstraße
+parents:
+  - 01HNVK3TWSXAG1X7MJP1AQW02W
+files:
+  - role: main
+    original_name: scan_308.tif
+    path: files/a4/97/a4979100869d5d67ceb60700e725f093083fad582fe3975553faa46bd33d3bde/original.tif
+    sha256: a4979100869d5d67ceb60700e725f093083fad582fe3975553faa46bd33d3bde
+    mime: image/tiff
+    bytes: 4765382
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a4/97/a4979100869d5d67ceb60700e725f093083fad582fe3975553faa46bd33d3bde/preview-400.90b9c84604b0.jpg
+        sha256: 90b9c84604b05ef319a23c3e12f8ff9763808418b9c46f82cae2c2071983fffa
+        mime: image/jpeg
+        bytes: 36084
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

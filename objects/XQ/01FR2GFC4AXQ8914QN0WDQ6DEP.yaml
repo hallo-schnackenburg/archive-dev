@@ -1,0 +1,34 @@
+id: 01FR2GFC4AXQ8914QN0WDQ6DEP
+type: image
+subtype: photo
+title: Grenzöffnung 1920
+description: Aufnahme von Hedwig Hennings.
+date: 192X
+location: Laase, Deichstraße
+origin:
+  name: Karl Lemke
+  type: person
+  location: Gollensdorf
+parents:
+  - 01HHR0N24ZWJF694Z9SN31KFR9
+  - 01FVB0ZV7D5S8N9566PY0PJ70J
+files:
+  - role: main
+    original_name: P2418.jpg
+    path: files/07/10/07105b36e73d6db8b63efc4c32b060a4bbf3201a2dc3fbe653227af1cfdc11d7/original.jpg
+    sha256: 07105b36e73d6db8b63efc4c32b060a4bbf3201a2dc3fbe653227af1cfdc11d7
+    mime: image/jpeg
+    bytes: 26724460
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/07/10/07105b36e73d6db8b63efc4c32b060a4bbf3201a2dc3fbe653227af1cfdc11d7/preview-400.e17b2d0ca496.jpg
+        sha256: e17b2d0ca496a782c1525c5b19d8e52d9f03cf2ec734c1228898f6beab5ddfaf
+        mime: image/jpeg
+        bytes: 56018
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

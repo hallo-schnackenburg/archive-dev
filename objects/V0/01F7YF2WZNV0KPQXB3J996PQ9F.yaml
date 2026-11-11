@@ -1,0 +1,45 @@
+id: 01F7YF2WZNV0KPQXB3J996PQ9F
+type: image
+subtype: photo
+title: Kartoffelernte 1940
+date: 1940-05-15
+location: Cumlosen, Kirchstraße
+geocode:
+  lat: 53.0686
+  lon: 11.4951
+  precision: street
+  source: osm
+origin:
+  name: Günter Meyer
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Album 15/093
+  note: Regal 4, Kiste 2
+parents:
+  - 01HRJYJMA6PZA35NA1FR6QZ5XX
+  - 01HD1KFMRR65WK8D19R9SH3ANJ
+files:
+  - role: main
+    original_name: P6222.jpg
+    path: files/cc/d2/ccd2f2ff88056f2dd6918a6a8e9051945a31a9cda1dca58c6c8fc2ed3c7c4f8e/original.jpg
+    sha256: ccd2f2ff88056f2dd6918a6a8e9051945a31a9cda1dca58c6c8fc2ed3c7c4f8e
+    mime: image/jpeg
+    bytes: 4875000
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/cc/d2/ccd2f2ff88056f2dd6918a6a8e9051945a31a9cda1dca58c6c8fc2ed3c7c4f8e/preview-400.5e02819d8e26.jpg
+        sha256: 5e02819d8e263589595b4bf67ad8c4d53cb500acad8f6740bb456453c4a86bec
+        mime: image/jpeg
+        bytes: 38305
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

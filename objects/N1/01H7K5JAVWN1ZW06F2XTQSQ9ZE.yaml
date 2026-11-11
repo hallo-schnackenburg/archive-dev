@@ -1,0 +1,40 @@
+id: 01H7K5JAVWN1ZW06F2XTQSQ9ZE
+type: image
+subtype: photo
+title: Blick vom Windmühle auf das Ziegelei
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1950-04-05
+location: Lüchow, Bahnhof
+origin:
+  name: Otto Meyer
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Eisgang 1950
+    type: event
+  - name: Poststelle
+    type: building
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01EY996B6TE8NGN69VQYD76406
+files:
+  - role: main
+    original_name: foto_5615.jpg
+    path: files/7c/3f/7c3ffa92968a43b600c0849af3c36f95695cdb8c9768ad0cc11382c1ed9b6b37/original.jpg
+    sha256: 7c3ffa92968a43b600c0849af3c36f95695cdb8c9768ad0cc11382c1ed9b6b37
+    mime: image/jpeg
+    bytes: 25725586
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7c/3f/7c3ffa92968a43b600c0849af3c36f95695cdb8c9768ad0cc11382c1ed9b6b37/preview-400.e4ebb3c88f62.jpg
+        sha256: e4ebb3c88f62c204e5a0fba8bcb1c04ff9862c8855d875a687a5eba4920dfb27
+        mime: image/jpeg
+        bytes: 22115
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

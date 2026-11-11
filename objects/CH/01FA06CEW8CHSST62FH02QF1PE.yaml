@@ -1,0 +1,39 @@
+id: 01FA06CEW8CHSST62FH02QF1PE
+type: image
+subtype: drawing
+title: Skizze Kapern, Elbstraße
+description: Mit Anmerkungen am Rand.
+date: 1954/1965
+location: Nienwalde, Lange Straße
+geocode:
+  lat: 52.931
+  lon: 11.4635
+  precision: region
+  source: osm
+subjects:
+  - name: Walter Wiegmann
+    type: person
+  - name: Dorfkrug
+    type: building
+  - name: Einschulung 1954
+    type: event
+files:
+  - role: main
+    original_name: scan_109.tif
+    path: files/3a/3e/3a3e297880016c7029670e36f123f39ca77491d0a607d3a85742547cf2e3c7dd/original.tif
+    sha256: 3a3e297880016c7029670e36f123f39ca77491d0a607d3a85742547cf2e3c7dd
+    mime: image/tiff
+    bytes: 11593993
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3a/3e/3a3e297880016c7029670e36f123f39ca77491d0a607d3a85742547cf2e3c7dd/preview-400.6a305ec02749.jpg
+        sha256: 6a305ec02749131f17b37a01cddfe481cd20796ea30616d907d429b147b9ca8d
+        mime: image/jpeg
+        bytes: 41044
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

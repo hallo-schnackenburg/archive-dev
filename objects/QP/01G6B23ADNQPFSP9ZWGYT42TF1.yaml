@@ -1,0 +1,39 @@
+id: 01G6B23ADNQPFSP9ZWGYT42TF1
+type: image
+subtype: plan
+title: Deichplan Laase bis Holtorf
+date: 1846~
+location: Arendsee, Mühlenweg
+origin:
+  name: Anni Schulz
+  type: person
+  location: Gorleben
+subjects:
+  - name: Einschulung 1846
+    type: event
+  - name: Kriegerdenkmal
+    type: building
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+parents:
+  - 01FC500G3M1EH4PAW2K7HHB2K0
+files:
+  - role: main
+    original_name: scan_798.tif
+    path: files/13/5c/135cdc468ce4f8158c90f6e48651d62aeecc16705a7511908964059b8ff51f4f/original.tif
+    sha256: 135cdc468ce4f8158c90f6e48651d62aeecc16705a7511908964059b8ff51f4f
+    mime: image/tiff
+    bytes: 16680353
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/13/5c/135cdc468ce4f8158c90f6e48651d62aeecc16705a7511908964059b8ff51f4f/preview-400.211725450ba2.jpg
+        sha256: 211725450ba20faf2566efd76add9c5e39a8666b7926a11782230e7d190468dc
+        mime: image/jpeg
+        bytes: 59013
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

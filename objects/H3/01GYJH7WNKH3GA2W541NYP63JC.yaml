@@ -1,0 +1,41 @@
+id: 01GYJH7WNKH3GA2W541NYP63JC
+type: image
+subtype: photo
+title: Ladestraße in Rüterberg
+date: 1926-06
+location: Laase, Deichstraße
+geocode:
+  lat: 53.0082
+  lon: 11.692
+  precision: town
+  source: osm
+origin:
+  name: Günter Wiegmann
+  type: person
+  location: Gülden
+subjects:
+  - name: Mühle
+    type: building
+parents:
+  - 01GEV5Y4J3FGXYTVXBWZX1MJPG
+  - 01EWSDA9HNCJV2FVTXNNBEB0AC
+files:
+  - role: main
+    original_name: foto_0525.jpg
+    path: files/ca/76/ca762d55fff13c24c4aeaaba8d15cff7319420a9741085e7a422cb4bb85efbd0/original.jpg
+    sha256: ca762d55fff13c24c4aeaaba8d15cff7319420a9741085e7a422cb4bb85efbd0
+    mime: image/jpeg
+    bytes: 4175008
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/ca/76/ca762d55fff13c24c4aeaaba8d15cff7319420a9741085e7a422cb4bb85efbd0/preview-400.6243f67a9ed4.jpg
+        sha256: 6243f67a9ed467ab442225c6dbbdd795ea205a94046286bcd30c40c255ca87d1
+        mime: image/jpeg
+        bytes: 88043
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

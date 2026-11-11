@@ -1,0 +1,31 @@
+id: 01HM5J5MJ3CFKZTK818R7ETJBJ
+type: image
+subtype: photo
+title: Eisgang 1953
+date: 1953~
+origin:
+  name: Wilhelm Hennings
+  type: person
+  location: Gollensdorf
+parents:
+  - 01HV11E038N92237YZT5N8S98R
+files:
+  - role: main
+    original_name: DSC2992.jpg
+    path: files/5e/cd/5ecdbf04b89920f3f6c6381b0a9635a8ea45e2f1dae661a7e6a654e99c341da3/original.jpg
+    sha256: 5ecdbf04b89920f3f6c6381b0a9635a8ea45e2f1dae661a7e6a654e99c341da3
+    mime: image/jpeg
+    bytes: 22978193
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/5e/cd/5ecdbf04b89920f3f6c6381b0a9635a8ea45e2f1dae661a7e6a654e99c341da3/preview-400.718e52c2cdab.jpg
+        sha256: 718e52c2cdab181818b000a653856e9ae1791e530a335bb65e54b18c48d55d6a
+        mime: image/jpeg
+        bytes: 20986
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

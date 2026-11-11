@@ -1,0 +1,45 @@
+id: 01J53EXY4YQ5JZ1BWBPG4W7C56
+type: image
+subtype: photo
+title: Schlachtfest 1989
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Gartow, Dorfstraße
+geocode:
+  lat: 52.9325
+  lon: 11.5361
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 25/016
+  note: Regal 1
+subjects:
+  - name: Dieter Kuhlmann
+    type: person
+  - name: Torhaus
+    type: building
+parents:
+  - 01K7R3BCASWDCHJS6K90MMNRBE
+files:
+  - role: main
+    original_name: foto_9966.jpg
+    path: files/97/cd/97cd5768c0da2f26d615b575bc9e108fa049830252b01904a04328a7a4b30ba4/original.jpg
+    sha256: 97cd5768c0da2f26d615b575bc9e108fa049830252b01904a04328a7a4b30ba4
+    mime: image/jpeg
+    bytes: 21091232
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/97/cd/97cd5768c0da2f26d615b575bc9e108fa049830252b01904a04328a7a4b30ba4/preview-400.260a68df5054.jpg
+        sha256: 260a68df5054dbe50836cbcb8f252faee55f6644934fbe1d616c3a2572631147
+        mime: image/jpeg
+        bytes: 46841
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

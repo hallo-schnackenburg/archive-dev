@@ -1,0 +1,44 @@
+id: 01F1N2DXNZQ3F9HMEM1YAS6M0H
+type: document
+subtype: note
+title: Quittung für Hermann Wiegmann
+description: Beleg mit Stempel.
+date: 1888-03
+location: Pretzier, Mühle
+geocode:
+  lat: 52.9722
+  lon: 11.6437
+  precision: street
+  source: osm
+language: de
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Kindergartenfest 1888
+    type: event
+  - name: Nienwalde
+    type: place
+parents:
+  - 01JRGX3XFSMSVNN02PC0NNSHZP
+  - 01JYMEAJWANE502SQPKMZ6JGSN
+files:
+  - role: page
+    num: 1
+    original_name: note_as6m0h_001.tif
+    path: files/d3/b0/d3b015cc4f4e40e47e85718ae9553816294b56d794d85101dd227de10eb56442/original.tif
+    sha256: d3b015cc4f4e40e47e85718ae9553816294b56d794d85101dd227de10eb56442
+    mime: image/tiff
+    bytes: 25521281
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d3/b0/d3b015cc4f4e40e47e85718ae9553816294b56d794d85101dd227de10eb56442/preview-400.2f8a82067165.jpg
+        sha256: 2f8a820671653d828276f0ca315a95a474abf4e0e39a697252b30defedde2860
+        mime: image/jpeg
+        bytes: 28292
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

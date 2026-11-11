@@ -1,0 +1,32 @@
+id: 01HMTFEMZGRH8C31THJB2PWQT1
+type: image
+subtype: plan
+title: Katasterblatt Wegner
+description: Maßstab 1:250.
+date: 1879?
+location: Brünkendorf, Kriegerdenkmal
+subjects:
+  - name: Eisgang 1879
+    type: event
+parents:
+  - 01GYVCE9612QGZYBGWYYZ1X9FF
+files:
+  - role: main
+    original_name: scan_037.tif
+    path: files/b7/3e/b73e8812c72a85f4bb9e6799e76b8ce94593524e48c597bf63cb92678ffa0b67/original.tif
+    sha256: b73e8812c72a85f4bb9e6799e76b8ce94593524e48c597bf63cb92678ffa0b67
+    mime: image/tiff
+    bytes: 2510479
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b7/3e/b73e8812c72a85f4bb9e6799e76b8ce94593524e48c597bf63cb92678ffa0b67/preview-400.24e0050a721a.jpg
+        sha256: 24e0050a721a1276ae151ed90d378cc0325da30dd843cc7b7550e6cef79ff742
+        mime: image/jpeg
+        bytes: 53524
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

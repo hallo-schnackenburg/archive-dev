@@ -1,0 +1,37 @@
+id: 01GX4SNCF9T3XQWNX1DDV8ZNZC
+type: image
+subtype: plan
+title: Flurkarte Holtorf, Bömenzien
+description: Maßstab 1:1000.
+date: 1782/1785
+location: Schnackenburg, Am Elbdeich
+origin:
+  name: August Bohlmann
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 10/035
+files:
+  - role: main
+    original_name: scan_536.tif
+    path: files/2f/66/2f66d84c15a7ae95b1e3a884aab25f6e09f492b0a918fc446a4bdb7a7eeccd59/original.tif
+    sha256: 2f66d84c15a7ae95b1e3a884aab25f6e09f492b0a918fc446a4bdb7a7eeccd59
+    mime: image/tiff
+    bytes: 21262159
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2f/66/2f66d84c15a7ae95b1e3a884aab25f6e09f492b0a918fc446a4bdb7a7eeccd59/preview-400.87c0fe28ee57.jpg
+        sha256: 87c0fe28ee5763d77ce6d30f060fed75914b338c5c535f16df7d140f6124b9b4
+        mime: image/jpeg
+        bytes: 58267
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

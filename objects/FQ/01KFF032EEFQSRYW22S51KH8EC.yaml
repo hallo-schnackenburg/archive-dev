@@ -1,0 +1,41 @@
+id: 01KFF032EEFQSRYW22S51KH8EC
+type: image
+subtype: print
+title: "Kupferstich: Gollensdorf von der Elbseite, Wootz"
+date: 1890-05-25
+origin:
+  name: Karl Lüders
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 40/039
+  note: Kellerarchiv
+subjects:
+  - name: Lanz
+    type: place
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: scan_097.tif
+    path: files/c7/ba/c7baecaef43b1f3f54cf2beb8da0f14d5bf8677fa97c739ded217e77951bf16e/original.tif
+    sha256: c7baecaef43b1f3f54cf2beb8da0f14d5bf8677fa97c739ded217e77951bf16e
+    mime: image/tiff
+    bytes: 25490793
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c7/ba/c7baecaef43b1f3f54cf2beb8da0f14d5bf8677fa97c739ded217e77951bf16e/preview-400.6a7201d135cb.jpg
+        sha256: 6a7201d135cbd21a8781e3ff90fa26b6b7ef66645332747282f97215a5b1794e
+        mime: image/jpeg
+        bytes: 25183
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

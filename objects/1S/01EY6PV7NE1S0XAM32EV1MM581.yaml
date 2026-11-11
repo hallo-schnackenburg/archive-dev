@@ -1,0 +1,45 @@
+id: 01EY6PV7NE1S0XAM32EV1MM581
+type: document
+subtype: note
+title: Rechnung Dreyer, Gasthof Meyer
+description: Beleg mit Stempel.
+date: 1919-10-21
+location: Schnackenburg, Elbstraße
+geocode:
+  lat: 52.9338
+  lon: 11.684
+  precision: region
+  source: osm
+origin:
+  name: Lotte Lemke
+  type: person
+  location: Brünkendorf
+language: de
+subjects:
+  - name: Kapern
+    type: place
+  - name: Dieter Lemke
+    type: person
+  - name: Ernst Garms
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_1mm581_001.tif
+    path: files/19/1f/191faf6258ae6821a4f3bb510ceebb00f4a38d50857c7bf0c169fc0bccdc94bf/original.tif
+    sha256: 191faf6258ae6821a4f3bb510ceebb00f4a38d50857c7bf0c169fc0bccdc94bf
+    mime: image/tiff
+    bytes: 5004425
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/19/1f/191faf6258ae6821a4f3bb510ceebb00f4a38d50857c7bf0c169fc0bccdc94bf/preview-400.60ca957485b8.jpg
+        sha256: 60ca957485b8e34e6f22341613c07a9357990306df582ceb8b9514abc1ff375f
+        mime: image/jpeg
+        bytes: 60918
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

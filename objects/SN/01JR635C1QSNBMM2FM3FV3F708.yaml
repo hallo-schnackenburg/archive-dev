@@ -1,0 +1,35 @@
+id: 01JR635C1QSNBMM2FM3FV3F708
+type: image
+subtype: photo
+title: Karl Wöhlk, Porträt
+description: Zu sehen sind Kaufmannshaus und Torhaus.
+date: 199X
+origin:
+  name: Hans Lüders
+  type: person
+  location: Wustrow
+subjects:
+  - name: Eisgang 1990
+    type: event
+  - name: Hochwasser 1990
+    type: event
+files:
+  - role: main
+    original_name: DSC1305.jpg
+    path: files/71/c3/71c3efaba51829f238929329c9cb9425979c9893c804deb5e4e1e0982d456e66/original.jpg
+    sha256: 71c3efaba51829f238929329c9cb9425979c9893c804deb5e4e1e0982d456e66
+    mime: image/jpeg
+    bytes: 12121694
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/71/c3/71c3efaba51829f238929329c9cb9425979c9893c804deb5e4e1e0982d456e66/preview-400.dc9a928497c3.jpg
+        sha256: dc9a928497c370fc031a897daadd2b0571442de6ef331485904f412a0f3336c6
+        mime: image/jpeg
+        bytes: 54229
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

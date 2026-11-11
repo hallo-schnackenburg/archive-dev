@@ -1,0 +1,33 @@
+id: 01FJ0D0TMSAZ9ME350GBH6GB2E
+type: image
+subtype: photo
+title: Maifeier 1987
+description: Abzug im Format 13 x 18 cm.
+date: 198X
+subjects:
+  - name: Gasthof Meyer
+    type: building
+  - name: Hafen
+    type: building
+parents:
+  - 01J5VEM4DET47BYJHEPTWJ7T8Q
+files:
+  - role: main
+    original_name: P1702.jpg
+    path: files/fc/d2/fcd2f2a1d546910cdeabae6ad9e363e870f67a9dec21bc9047df1ba9ff4432bf/original.jpg
+    sha256: fcd2f2a1d546910cdeabae6ad9e363e870f67a9dec21bc9047df1ba9ff4432bf
+    mime: image/jpeg
+    bytes: 9071747
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/fc/d2/fcd2f2a1d546910cdeabae6ad9e363e870f67a9dec21bc9047df1ba9ff4432bf/preview-400.afaa8c62473e.jpg
+        sha256: afaa8c62473ea387e2209943948a6b40b0fd31b3ef21dbcb872c8cf478e8c555
+        mime: image/jpeg
+        bytes: 67469
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01GG0X2XSD9K1M4KMM6KQYRKJE
+type: image
+subtype: print
+title: Postkarte Schnackenburg, Grenzturm
+description: Postkarte, gelaufen 1917.
+date: 1866/1868
+location: Dömitz, Lange Straße
+geocode:
+  lat: 53.0502
+  lon: 11.6434
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 32/334
+subjects:
+  - name: Kirmes 1866
+    type: event
+parents:
+  - 01HRJYJMA6PZA35NA1FR6QZ5XX
+files:
+  - role: main
+    original_name: scan_809.tif
+    path: files/8b/52/8b527aae5a6a2b461a7999b964043e6396d78948808f381635d5d67e30cc4cf9/original.tif
+    sha256: 8b527aae5a6a2b461a7999b964043e6396d78948808f381635d5d67e30cc4cf9
+    mime: image/tiff
+    bytes: 13820156
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/8b/52/8b527aae5a6a2b461a7999b964043e6396d78948808f381635d5d67e30cc4cf9/preview-400.9957986189b9.jpg
+        sha256: 9957986189b9360f3bbac6f6b813cb33034f277457f5f8ef23e35f156f65b4df
+        mime: image/jpeg
+        bytes: 22228
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

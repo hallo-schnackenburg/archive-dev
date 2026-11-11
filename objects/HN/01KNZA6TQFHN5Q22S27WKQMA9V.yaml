@@ -1,0 +1,37 @@
+id: 01KNZA6TQFHN5Q22S27WKQMA9V
+type: image
+subtype: drawing
+title: Pfarrhaus, Aquarell
+description: Federzeichnung, laviert.
+date: 1959-03-02
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 7/083
+subjects:
+  - name: Karl Wegner
+    type: person
+  - name: Wittenberge
+    type: place
+files:
+  - role: main
+    original_name: scan_732.tif
+    path: files/57/e1/57e19f6c683ff128f8f55fde27bede1aea115176e7e8872e414c48327c8466a2/original.tif
+    sha256: 57e19f6c683ff128f8f55fde27bede1aea115176e7e8872e414c48327c8466a2
+    mime: image/tiff
+    bytes: 7409750
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/e1/57e19f6c683ff128f8f55fde27bede1aea115176e7e8872e414c48327c8466a2/preview-400.5858da405288.jpg
+        sha256: 5858da405288ac721d49181695c431cc9847fb7b6734eafa7ccda09291c1926b
+        mime: image/jpeg
+        bytes: 44941
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

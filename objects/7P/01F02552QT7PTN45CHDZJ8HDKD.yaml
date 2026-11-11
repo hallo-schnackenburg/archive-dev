@@ -1,0 +1,44 @@
+id: 01F02552QT7PTN45CHDZJ8HDKD
+type: image
+subtype: print
+title: Lithographie Gärtnerei
+description: Lithographie, Rand beschnitten.
+date: 1789-02-25
+origin:
+  name: Heinz Ahrens
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 20/169
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v12823
+subjects:
+  - name: Kirmes 1789
+    type: event
+  - name: Karl Ludolf
+    type: person
+parents:
+  - 01HPYA59S9BTVVKYNA7APHK7GB
+files:
+  - role: main
+    original_name: scan_363.tif
+    path: files/1c/c3/1cc37daad18c2703e0456767886efc5025541ba3b8f61bff76202b2b64d9a992/original.tif
+    sha256: 1cc37daad18c2703e0456767886efc5025541ba3b8f61bff76202b2b64d9a992
+    mime: image/tiff
+    bytes: 20107829
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/c3/1cc37daad18c2703e0456767886efc5025541ba3b8f61bff76202b2b64d9a992/preview-400.6d687c048d74.jpg
+        sha256: 6d687c048d74609644527d9142c5d6bd5e09fc245e7ef20a72bbd6778a2b26cf
+        mime: image/jpeg
+        bytes: 59463
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

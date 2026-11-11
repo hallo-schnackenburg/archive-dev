@@ -1,0 +1,35 @@
+id: 01H06KKT3NTJHRNZJBVV06BDEW
+type: image
+subtype: photo
+title: Konfirmation 1938
+date: 1938-05
+location: Gollensdorf, Bahnhofstraße
+geocode:
+  lat: 52.9909
+  lon: 11.6234
+  precision: region
+  source: osm
+origin:
+  name: Lotte Pape
+  type: person
+  location: Rüterberg
+files:
+  - role: main
+    original_name: IMG_8899.jpg
+    path: files/27/dc/27dc7077d0acaf7a961382dc41e459a7473ea96fba0a52ba498fd71059fdd5e8/original.jpg
+    sha256: 27dc7077d0acaf7a961382dc41e459a7473ea96fba0a52ba498fd71059fdd5e8
+    mime: image/jpeg
+    bytes: 17733647
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/27/dc/27dc7077d0acaf7a961382dc41e459a7473ea96fba0a52ba498fd71059fdd5e8/preview-400.6be101be8a6f.jpg
+        sha256: 6be101be8a6fbf3c3891a36edf8d3afcfc0a9285341823aca0384837d052e58e
+        mime: image/jpeg
+        bytes: 35744
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

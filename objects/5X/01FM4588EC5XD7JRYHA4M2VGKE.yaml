@@ -1,0 +1,43 @@
+id: 01FM4588EC5XD7JRYHA4M2VGKE
+type: image
+subtype: plan
+title: Flurkarte Laase
+description: Mit handschriftlichen Ergänzungen.
+date: 1815-05-12
+location: Wustrow, Hafenstraße
+geocode:
+  lat: 53.034
+  lon: 11.5286
+  precision: street
+  source: osm
+origin:
+  name: Emma Ahrens
+  type: person
+  location: Seedorf
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Rudolf Lemke
+    type: person
+  - name: Elbdeich
+    type: building
+files:
+  - role: main
+    original_name: scan_269.tif
+    path: files/37/63/3763cbfac89f2e96f3c4b2554995dec3e0d0f9ca4a395bab27073ba04e4092b0/original.tif
+    sha256: 3763cbfac89f2e96f3c4b2554995dec3e0d0f9ca4a395bab27073ba04e4092b0
+    mime: image/tiff
+    bytes: 21006249
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/37/63/3763cbfac89f2e96f3c4b2554995dec3e0d0f9ca4a395bab27073ba04e4092b0/preview-400.a358f293d66e.jpg
+        sha256: a358f293d66e8846c3d4bef2543eb2c70c26e7cccf4e0ef46dec783b39848b96
+        mime: image/jpeg
+        bytes: 66970
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

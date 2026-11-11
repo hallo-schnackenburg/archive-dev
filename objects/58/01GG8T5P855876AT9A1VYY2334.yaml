@@ -1,0 +1,43 @@
+id: 01GG8T5P855876AT9A1VYY2334
+type: image
+subtype: print
+title: "Kupferstich: Pretzier von der Elbseite, Laase"
+description: Lithographie, Rand beschnitten.
+date: 1812~
+origin:
+  name: Rudolf Lemke
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 1/375
+subjects:
+  - name: Lanz
+    type: place
+  - name: Dorfkrug
+    type: building
+  - name: Wustrow
+    type: place
+files:
+  - role: main
+    original_name: scan_590.tif
+    path: files/6d/21/6d21aafd31e08d810c6b21abaadfacd252b343b9551f67ce1fb32f8ade3cd3ec/original.tif
+    sha256: 6d21aafd31e08d810c6b21abaadfacd252b343b9551f67ce1fb32f8ade3cd3ec
+    mime: image/tiff
+    bytes: 24606400
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6d/21/6d21aafd31e08d810c6b21abaadfacd252b343b9551f67ce1fb32f8ade3cd3ec/preview-400.e4d4e8363545.jpg
+        sha256: e4d4e836354532851a2d72f261ebadba4c87e3fdc6ce29f5dc8685087191a7be
+        mime: image/jpeg
+        bytes: 82561
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

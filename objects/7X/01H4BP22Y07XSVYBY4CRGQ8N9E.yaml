@@ -1,0 +1,47 @@
+id: 01H4BP22Y07XSVYBY4CRGQ8N9E
+type: document
+subtype: note
+title: Quittung für Gerda Wegner
+description: Auf der Rückseite eines Formulars.
+date: "1889"
+location: Brünkendorf, Storchennest
+geocode:
+  lat: 53.0384
+  lon: 11.6032
+  precision: region
+  source: osm
+language: nds
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg 6/247
+subjects:
+  - name: Erntedankfest 1889
+    type: event
+  - name: Laase
+    type: place
+parents:
+  - 01M3RT3C17QDA971WE6FYTG43J
+files:
+  - role: page
+    num: 1
+    original_name: note_gq8n9e_001.tif
+    path: files/58/7a/587a9bdcb6418611f8989d9cb6cdc6ecc2f06277bf9ee0a6b88aa52e41a81fd1/original.tif
+    sha256: 587a9bdcb6418611f8989d9cb6cdc6ecc2f06277bf9ee0a6b88aa52e41a81fd1
+    mime: image/tiff
+    bytes: 27880576
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/58/7a/587a9bdcb6418611f8989d9cb6cdc6ecc2f06277bf9ee0a6b88aa52e41a81fd1/preview-400.96614fae83f4.jpg
+        sha256: 96614fae83f4b80fb35af560d6eed6f53be9dd52d7639b17e3aaed6ab8cc5923
+        mime: image/jpeg
+        bytes: 83046
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

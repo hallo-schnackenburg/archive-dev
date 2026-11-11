@@ -1,0 +1,45 @@
+id: 01F0894F5WKYJS2HKXE99RNPYN
+type: image
+subtype: print
+title: Postkarte Salzwedel, Heuberge
+description: Kupferstich, koloriert.
+date: 1833-02
+location: Havelberg, Hinter den Höfen
+origin:
+  name: Karl Gerdes
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br 4/128
+  note: Dachboden, Truhe
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Windmühle
+    type: building
+parents:
+  - 01F5CNJT1P56W2G465BH02E933
+files:
+  - role: main
+    original_name: scan_137.tif
+    path: files/b8/2c/b82c71b6895aa37a7cf304051be5d6dca8e0a1d8699679431a8cea3daef37d3d/original.tif
+    sha256: b82c71b6895aa37a7cf304051be5d6dca8e0a1d8699679431a8cea3daef37d3d
+    mime: image/tiff
+    bytes: 23639501
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b8/2c/b82c71b6895aa37a7cf304051be5d6dca8e0a1d8699679431a8cea3daef37d3d/preview-400.9f2a771b8156.jpg
+        sha256: 9f2a771b8156f6346fdf57deaeb7af00c3cbcfc4964d940056017b6f42ce32ba
+        mime: image/jpeg
+        bytes: 75929
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,67 @@
+id: 01M1NK9SJR2B7TP4Z07F4RBF0A
+type: document
+subtype: letter
+title: Korrespondenz August Hennings
+description: Mit Umschlag und Briefmarke.
+date: 1972-08
+location: Lanz, Grenzturm
+geocode:
+  lat: 52.9121
+  lon: 11.587
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Lüders
+  type: person
+  location: Brünkendorf
+recipient: Helga Jürgens
+language: de
+subjects:
+  - name: Walter Garms
+    type: person
+  - name: Fritz Lemke
+    type: person
+parents:
+  - 01GEXDCNJFMMX07WG8TNDMERGT
+  - 01EY996B6TE8NGN69VQYD76406
+files:
+  - role: page
+    num: 1
+    original_name: letter_4rbf0a_001.tif
+    path: files/b9/43/b9436b5f6e81301aa47916906f1e4ad5d2cc07d1a603f8f690c0a3d541b9abe4/original.tif
+    sha256: b9436b5f6e81301aa47916906f1e4ad5d2cc07d1a603f8f690c0a3d541b9abe4
+    mime: image/tiff
+    bytes: 18667612
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b9/43/b9436b5f6e81301aa47916906f1e4ad5d2cc07d1a603f8f690c0a3d541b9abe4/preview-400.3be50de26b9e.jpg
+        sha256: 3be50de26b9edd7cd5d54efa8b415b3b01f2da2f67eeebaa0dcbd5c91c28c4af
+        mime: image/jpeg
+        bytes: 37706
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_4rbf0a_002.tif
+    path: files/e3/57/e3573e8e948cdb844355ad00d07673be76b6a7ab272a3ca46c20765f2db83229/original.tif
+    sha256: e3573e8e948cdb844355ad00d07673be76b6a7ab272a3ca46c20765f2db83229
+    mime: image/tiff
+    bytes: 14704258
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e3/57/e3573e8e948cdb844355ad00d07673be76b6a7ab272a3ca46c20765f2db83229/preview-400.c3a62f1ebefa.jpg
+        sha256: c3a62f1ebefa6e6f8d5b097b73925db29ac669a03012ca3273ac2df65a57cbd0
+        mime: image/jpeg
+        bytes: 71457
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

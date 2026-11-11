@@ -1,0 +1,59 @@
+id: 01G6QW65PQRGAZ7KEVPA9M0FP5
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Wasserleitung 1927
+date: 1927-01-16
+location: Brünkendorf, Bahnhofstraße
+origin:
+  name: Verbandsversammlung Lanz
+  type: business
+  location: Havelberg
+language: de
+subjects:
+  - name: Gülden
+    type: place
+  - name: Dieter Krüger
+    type: person
+  - name: Erntedankfest 1927
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: protocol_9m0fp5_001.tif
+    path: files/d6/42/d642f708ac0739c9f46a085a4100149e82487bd08790a7a23b1ac64a08cc5eec/original.tif
+    sha256: d642f708ac0739c9f46a085a4100149e82487bd08790a7a23b1ac64a08cc5eec
+    mime: image/tiff
+    bytes: 17655037
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d6/42/d642f708ac0739c9f46a085a4100149e82487bd08790a7a23b1ac64a08cc5eec/preview-400.5c86fa32499c.jpg
+        sha256: 5c86fa32499c84d652b9aefa2b163284472a09e7a259720c72c07c1a1cdb6c99
+        mime: image/jpeg
+        bytes: 52498
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_9m0fp5_002.tif
+    path: files/7a/8a/7a8a4cede89f8354395c7fb963b6c443a4428c3df40349911af24fe2c9f730d0/original.tif
+    sha256: 7a8a4cede89f8354395c7fb963b6c443a4428c3df40349911af24fe2c9f730d0
+    mime: image/tiff
+    bytes: 24089095
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7a/8a/7a8a4cede89f8354395c7fb963b6c443a4428c3df40349911af24fe2c9f730d0/preview-400.bb7e2f237da8.jpg
+        sha256: bb7e2f237da867d4b36fecd6901cb08054c133478de9818e58b720e0094edf52
+        mime: image/jpeg
+        bytes: 48621
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

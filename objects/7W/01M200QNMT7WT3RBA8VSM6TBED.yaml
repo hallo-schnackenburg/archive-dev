@@ -1,0 +1,61 @@
+id: 01M200QNMT7WT3RBA8VSM6TBED
+type: document
+subtype: letter
+title: Korrespondenz Albert Rohde
+description: Mit Umschlag und Briefmarke.
+date: "1830"
+location: Lüchow, Dorfstraße
+origin:
+  name: Albert Matthies
+  type: person
+  location: Gülden
+recipient: Ilse Plate
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01JZKNVKBS64VYGFSCYTCB6QDJ
+files:
+  - role: page
+    num: 1
+    original_name: letter_m6tbed_001.tif
+    path: files/2d/d5/2dd564152ea503120bcc0e0dc489ac513364aed8d44f9706042bc04b9b024285/original.tif
+    sha256: 2dd564152ea503120bcc0e0dc489ac513364aed8d44f9706042bc04b9b024285
+    mime: image/tiff
+    bytes: 5615091
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/d5/2dd564152ea503120bcc0e0dc489ac513364aed8d44f9706042bc04b9b024285/preview-400.a2098101b1c4.jpg
+        sha256: a2098101b1c480cad91fd5a8f66ff91b2e8075bb02b5c61ba2d147a3577b5a34
+        mime: image/jpeg
+        bytes: 35250
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_m6tbed_002.tif
+    path: files/3d/dd/3ddd9588c6777b74100deae575aab323630dbb2df86b4c69c027bfb617c25007/original.tif
+    sha256: 3ddd9588c6777b74100deae575aab323630dbb2df86b4c69c027bfb617c25007
+    mime: image/tiff
+    bytes: 20112114
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3d/dd/3ddd9588c6777b74100deae575aab323630dbb2df86b4c69c027bfb617c25007/preview-400.e1cb6056ddb6.jpg
+        sha256: e1cb6056ddb6ad7d236b14c389915a57ec5cd34c9608f6091983085cea22c2ed
+        mime: image/jpeg
+        bytes: 23344
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

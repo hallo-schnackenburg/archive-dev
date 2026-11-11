@@ -1,0 +1,35 @@
+id: 01G53WVPAWZ6TNN8613YSTSQ01
+type: image
+subtype: photo
+title: Dorfkrug in Brünkendorf
+description: Zu sehen sind Scheune und Dorfladen.
+location: Wustrow, Kirchstraße
+origin:
+  name: Dieter Tiedemann
+  type: person
+  location: Gülden
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+parents:
+  - 01FVQ4AW5WXFEF57BN5S1PKQ3J
+files:
+  - role: main
+    original_name: scan_859.tif
+    path: files/f9/f2/f9f212f787d6521a102cd2ec21f476f8de54ab10316b4f8e939185d617512ca8/original.tif
+    sha256: f9f212f787d6521a102cd2ec21f476f8de54ab10316b4f8e939185d617512ca8
+    mime: image/tiff
+    bytes: 15164660
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f9/f2/f9f212f787d6521a102cd2ec21f476f8de54ab10316b4f8e939185d617512ca8/preview-400.3b8c7542002b.jpg
+        sha256: 3b8c7542002b8cfaaf1a0a048514003cf0f71dcdebfddaddd1f842f4d8ffd0ef
+        mime: image/jpeg
+        bytes: 77812
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

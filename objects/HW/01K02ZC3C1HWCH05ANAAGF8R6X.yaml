@@ -1,0 +1,37 @@
+id: 01K02ZC3C1HWCH05ANAAGF8R6X
+type: image
+subtype: photo
+title: Walter Behrens, Porträt
+description: Zu sehen sind Kegelbahn und Molkerei.
+date: 1989-01
+origin:
+  name: August Lemke
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+parents:
+  - 01HW1XG7P06SRWXZK7CKV1D89H
+files:
+  - role: main
+    original_name: DSC2191.jpg
+    path: files/14/46/14462c1673e8a38a68e58db9bd0c7b583cb0549b89ebfdb46876222c83c53a37/original.jpg
+    sha256: 14462c1673e8a38a68e58db9bd0c7b583cb0549b89ebfdb46876222c83c53a37
+    mime: image/jpeg
+    bytes: 10410408
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/14/46/14462c1673e8a38a68e58db9bd0c7b583cb0549b89ebfdb46876222c83c53a37/preview-400.d20f7072f264.jpg
+        sha256: d20f7072f2646061753eee805c7a9ca6c74fb89091850e60172f511bbbb69c99
+        mime: image/jpeg
+        bytes: 42334
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

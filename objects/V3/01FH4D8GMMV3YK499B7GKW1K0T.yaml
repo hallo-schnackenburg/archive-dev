@@ -1,0 +1,32 @@
+id: 01FH4D8GMMV3YK499B7GKW1K0T
+type: image
+subtype: photo
+title: Fritz Eggers, Porträt
+location: Gorleben, Heuberge
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Schützenfest 1986
+    type: event
+parents:
+  - 01H6GZ1A9PWXWTSCHDX2966H18
+files:
+  - role: main
+    original_name: DSC1984.jpg
+    path: files/22/53/22539d64040a827370141188c54ea1039a01bc51d930a985cea111e82a51257e/original.jpg
+    sha256: 22539d64040a827370141188c54ea1039a01bc51d930a985cea111e82a51257e
+    mime: image/jpeg
+    bytes: 25106716
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/22/53/22539d64040a827370141188c54ea1039a01bc51d930a985cea111e82a51257e/preview-400.9d2bc6556e0c.jpg
+        sha256: 9d2bc6556e0c080536f07304b6be888afe01683f20d0111ea322737bceba7b6a
+        mime: image/jpeg
+        bytes: 52014
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,58 @@
+id: 01GF4NYZW64PJ5J3X831F6DB1T
+type: document
+subtype: letter
+title: Korrespondenz Karl Gerdes
+date: "1868"
+location: Zadrau, Marktstraße
+origin:
+  name: Otto Lemke
+  type: person
+  location: Brünkendorf
+recipient: Fritz Wegner
+language: de
+subjects:
+  - name: Wilhelm Plate
+    type: person
+parents:
+  - 01FDA5WD2HAQWVA4SE72GX6KEJ
+files:
+  - role: page
+    num: 1
+    original_name: letter_f6db1t_001.tif
+    path: files/4c/af/4caf0ac574434f40cf0541e2a1aa12a24a449e45e8ea10d339365392b02d7c8d/original.tif
+    sha256: 4caf0ac574434f40cf0541e2a1aa12a24a449e45e8ea10d339365392b02d7c8d
+    mime: image/tiff
+    bytes: 3861634
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4c/af/4caf0ac574434f40cf0541e2a1aa12a24a449e45e8ea10d339365392b02d7c8d/preview-400.bd2d66e5afe7.jpg
+        sha256: bd2d66e5afe73818a2de3db1ea5a9c62c6263d7b8b1b645d00da412afd3a1680
+        mime: image/jpeg
+        bytes: 87393
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_f6db1t_002.tif
+    path: files/9b/c9/9bc91f7b0faea44f953709e2412cd022c9414c4ff149dcc66a88abe62d478a57/original.tif
+    sha256: 9bc91f7b0faea44f953709e2412cd022c9414c4ff149dcc66a88abe62d478a57
+    mime: image/tiff
+    bytes: 21862074
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9b/c9/9bc91f7b0faea44f953709e2412cd022c9414c4ff149dcc66a88abe62d478a57/preview-400.4338caf24d3f.jpg
+        sha256: 4338caf24d3f289b198818953125d7418a14f33aaf92142e8eae3584e8430326
+        mime: image/jpeg
+        bytes: 32850
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

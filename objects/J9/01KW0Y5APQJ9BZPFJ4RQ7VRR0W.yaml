@@ -1,0 +1,31 @@
+id: 01KW0Y5APQJ9BZPFJ4RQ7VRR0W
+type: image
+subtype: photo
+title: Bernd Detlefs, Porträt
+date: "1942"
+origin:
+  name: Otto Lemke
+  type: person
+  location: Rüterberg
+parents:
+  - 01KCNQMHENJ8PAWGKRGSDX5HZ0
+files:
+  - role: main
+    original_name: scan_530.tif
+    path: files/33/17/33172095ce01dce3ab41e94568347d05d9f3e062a595cb6bc40d9ee28a6a8db5/original.tif
+    sha256: 33172095ce01dce3ab41e94568347d05d9f3e062a595cb6bc40d9ee28a6a8db5
+    mime: image/tiff
+    bytes: 2689275
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/33/17/33172095ce01dce3ab41e94568347d05d9f3e062a595cb6bc40d9ee28a6a8db5/preview-400.fd5bbdb70e76.jpg
+        sha256: fd5bbdb70e7666b34534c2d748498964b711920286899548b87f2a0ed3cc6646
+        mime: image/jpeg
+        bytes: 59171
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

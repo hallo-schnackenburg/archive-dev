@@ -1,0 +1,43 @@
+id: 01HJ4H41A57ZFW85E1SNMVAZYG
+type: image
+subtype: plan
+title: Bauplan Molkerei 1768
+description: Tusche auf Transparentpapier.
+date: 1768-07
+location: Bömenzien, Kirche St. Johannis
+origin:
+  name: Heinz Ihde
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Wilhelm Hennings
+    type: person
+  - name: Beerdigung 1768
+    type: event
+parents:
+  - 01K16728TJR9J7SKEG0YYC3BZ6
+files:
+  - role: main
+    original_name: scan_749.tif
+    path: files/5c/29/5c297066a1e1be57ab54d3169513474b6687ba189498b9053d8625b1b1a98201/original.tif
+    sha256: 5c297066a1e1be57ab54d3169513474b6687ba189498b9053d8625b1b1a98201
+    mime: image/tiff
+    bytes: 20412915
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5c/29/5c297066a1e1be57ab54d3169513474b6687ba189498b9053d8625b1b1a98201/preview-400.5d9596b984fd.jpg
+        sha256: 5d9596b984fd2e358e60de61deb2e2fa5bdb5c8f01d2e26d43e1627f5d9ffb15
+        mime: image/jpeg
+        bytes: 56407
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

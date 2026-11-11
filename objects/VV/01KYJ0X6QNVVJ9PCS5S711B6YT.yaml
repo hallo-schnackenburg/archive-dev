@@ -1,0 +1,36 @@
+id: 01KYJ0X6QNVVJ9PCS5S711B6YT
+type: image
+subtype: drawing
+title: Wappenentwurf Hitzacker, Bömenzien
+description: Bleistift auf Papier.
+date: 1823-01-19
+location: Lenzen, Grenzturm
+geocode:
+  lat: 53.0928
+  lon: 11.6748
+  precision: town
+  source: osm
+origin:
+  name: Erika Schulz
+  type: person
+  location: Hitzacker
+files:
+  - role: main
+    original_name: scan_607.tif
+    path: files/55/ef/55ef8189f9c322df8f286da7ed4300dffd51c21db8828f86d2e2b2382af7647d/original.tif
+    sha256: 55ef8189f9c322df8f286da7ed4300dffd51c21db8828f86d2e2b2382af7647d
+    mime: image/tiff
+    bytes: 5119849
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/55/ef/55ef8189f9c322df8f286da7ed4300dffd51c21db8828f86d2e2b2382af7647d/preview-400.af1bfd7beb0b.jpg
+        sha256: af1bfd7beb0bd255a42a894145928ec3884a283670fef5d5e8c6ab7f2febabc5
+        mime: image/jpeg
+        bytes: 59061
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

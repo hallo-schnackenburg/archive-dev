@@ -1,0 +1,42 @@
+id: 01GSCJN422HBKXMYEGFCBBKBEA
+type: image
+subtype: photo
+title: "Spielmannszug: Gruppenbild Deicharbeiten"
+description: Aufnahme von Wilhelm Pape.
+date: "1914"
+location: Nienwalde, Gutshaus
+geocode:
+  lat: 53.0507
+  lon: 11.6129
+  precision: region
+  source: osm
+origin:
+  name: Erika Lemke
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Karl Nitschke
+    type: person
+parents:
+  - 01GHXA70MDX353KKCRS2BQ39WE
+  - 01GZKK3S8ZTHZFVGYM1SQET170
+files:
+  - role: main
+    original_name: scan_660.tif
+    path: files/af/ba/afba089eb0bb26e91a757b42337c1e5a56840262ce47a4c9859552c53f5a6d32/original.tif
+    sha256: afba089eb0bb26e91a757b42337c1e5a56840262ce47a4c9859552c53f5a6d32
+    mime: image/tiff
+    bytes: 25054030
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/af/ba/afba089eb0bb26e91a757b42337c1e5a56840262ce47a4c9859552c53f5a6d32/preview-400.132cf83d8764.jpg
+        sha256: 132cf83d8764c5cf2d3ab2b386c3ebc1331ce6e8932d7d12320d27682a09dd35
+        mime: image/jpeg
+        bytes: 53216
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

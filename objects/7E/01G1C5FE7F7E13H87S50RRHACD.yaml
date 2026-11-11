@@ -1,0 +1,37 @@
+id: 01G1C5FE7F7E13H87S50RRHACD
+type: image
+subtype: plan
+title: Deichplan Brünkendorf bis Wittenberge
+location: Wootz, Kirchstraße
+origin:
+  name: Frieda Wiegmann
+  type: person
+  location: Wustrow
+subjects:
+  - name: Feuerwehrübung 1941
+    type: event
+  - name: Konfirmation 1941
+    type: event
+parents:
+  - 01GHXA70MDX353KKCRS2BQ39WE
+  - 01HCRJBF96Y6XBHZZ8XQX7630X
+files:
+  - role: main
+    original_name: scan_627.tif
+    path: files/34/f1/34f1d2cdbc7ddf6b6e580e878db35291ebd3f2d9ff7385f3a09610635c515359/original.tif
+    sha256: 34f1d2cdbc7ddf6b6e580e878db35291ebd3f2d9ff7385f3a09610635c515359
+    mime: image/tiff
+    bytes: 27317255
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/34/f1/34f1d2cdbc7ddf6b6e580e878db35291ebd3f2d9ff7385f3a09610635c515359/preview-400.33c38b4dd8b5.jpg
+        sha256: 33c38b4dd8b5592856484433a2cbe1f734420ff1bec56b14207db19eeccc75ef
+        mime: image/jpeg
+        bytes: 39085
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

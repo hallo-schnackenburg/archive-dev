@@ -1,0 +1,36 @@
+id: 01KY04P0BJ13WT62J5Q7S537RQ
+type: image
+subtype: plan
+title: Bauplan Zollamt 1797
+description: Mit handschriftlichen Ergänzungen.
+date: "1797"
+location: Holtorf, Bahnhofstraße
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Karl Krüger
+    type: person
+  - name: Pretzier
+    type: place
+parents:
+  - 01F46MZG12HDJQK9Z29HPTQV9B
+files:
+  - role: main
+    original_name: scan_215.tif
+    path: files/ac/eb/acebda3f84205b2b2f89c54bf52850ad9d1607bfa06965dafcb6fda1b29f873c/original.tif
+    sha256: acebda3f84205b2b2f89c54bf52850ad9d1607bfa06965dafcb6fda1b29f873c
+    mime: image/tiff
+    bytes: 4379227
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/eb/acebda3f84205b2b2f89c54bf52850ad9d1607bfa06965dafcb6fda1b29f873c/preview-400.44d2fbecbf23.jpg
+        sha256: 44d2fbecbf23263aefc56eae0e8acb29c22580d18ad29e0aa682d6c0dbbc37bb
+        mime: image/jpeg
+        bytes: 68395
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

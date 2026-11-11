@@ -1,0 +1,40 @@
+id: 01F2GQTPX0P4BAZEHZNZ7HMAAB
+type: image
+subtype: plan
+title: Deichplan Dömitz bis Pretzier
+description: Mit handschriftlichen Ergänzungen.
+date: 1783-10-13
+location: Restorf, Molkerei
+origin:
+  name: Karl Meyer
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 2/383
+subjects:
+  - name: Heinrich Ahrens
+    type: person
+files:
+  - role: main
+    original_name: scan_484.tif
+    path: files/80/92/8092b8e8134feef479c4f3c4c803fa32898a71ceb25065730740ba033b78efeb/original.tif
+    sha256: 8092b8e8134feef479c4f3c4c803fa32898a71ceb25065730740ba033b78efeb
+    mime: image/tiff
+    bytes: 6058476
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/80/92/8092b8e8134feef479c4f3c4c803fa32898a71ceb25065730740ba033b78efeb/preview-400.869bce836424.jpg
+        sha256: 869bce836424b84cf77dbc4b72ee5a5db4b17eb575dada962f07bc2f4528b1d4
+        mime: image/jpeg
+        bytes: 69816
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

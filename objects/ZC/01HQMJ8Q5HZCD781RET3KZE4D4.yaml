@@ -1,0 +1,43 @@
+id: 01HQMJ8Q5HZCD781RET3KZE4D4
+type: image
+subtype: print
+title: Postkarte Cumlosen, Heuberge
+description: Lithographie, Rand beschnitten.
+date: "1717"
+location: Gorleben, Mühlenweg
+geocode:
+  lat: 53.0446
+  lon: 11.6471
+  precision: town
+  source: osm
+origin:
+  name: Manfred Lemke
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Zadrau
+    type: place
+parents:
+  - 01K6MM688883CWMKTJ2NVR6F70
+files:
+  - role: main
+    original_name: scan_970.tif
+    path: files/6d/2d/6d2d9dc1de75f93293beeaeae47278b7fedf6faa3cd1cc87d20c6d8382da322a/original.tif
+    sha256: 6d2d9dc1de75f93293beeaeae47278b7fedf6faa3cd1cc87d20c6d8382da322a
+    mime: image/tiff
+    bytes: 23775594
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6d/2d/6d2d9dc1de75f93293beeaeae47278b7fedf6faa3cd1cc87d20c6d8382da322a/preview-400.3db149ef7bc0.jpg
+        sha256: 3db149ef7bc01e49a71b8a7141260a57fec1b894aa9028e7050ff249b78e40a8
+        mime: image/jpeg
+        bytes: 75355
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

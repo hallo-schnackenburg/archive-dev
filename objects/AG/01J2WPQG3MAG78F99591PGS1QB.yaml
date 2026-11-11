@@ -1,0 +1,30 @@
+id: 01J2WPQG3MAG78F99591PGS1QB
+type: image
+subtype: plan
+title: Bauplan Torhaus 1974
+date: 1974-01-16
+location: Gülden, Lange Straße
+origin:
+  name: Albert Krüger
+  type: person
+  location: Holtorf
+files:
+  - role: main
+    original_name: scan_711.tif
+    path: files/dc/58/dc584f1717b4aa060cd51e229399def0a356242006514647afd4d58575e74293/original.tif
+    sha256: dc584f1717b4aa060cd51e229399def0a356242006514647afd4d58575e74293
+    mime: image/tiff
+    bytes: 20453365
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/58/dc584f1717b4aa060cd51e229399def0a356242006514647afd4d58575e74293/preview-400.554add2c7bbc.jpg
+        sha256: 554add2c7bbc4b09dd182949d5d64835b2bcba4de7bc928b1293e218c7536fdc
+        mime: image/jpeg
+        bytes: 35715
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01EYAP8QFFA3P7KZR5VVD1TBKK
+type: image
+subtype: plan
+title: Deichplan Gorleben bis Gülden
+description: Mit handschriftlichen Ergänzungen.
+location: Holtorf, Kirchstraße
+origin:
+  name: Lotte Bohlmann
+  type: person
+  location: Lenzen
+subjects:
+  - name: Schlachtfest 1999
+    type: event
+  - name: Cumlosen
+    type: place
+  - name: Pfarrhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_496.tif
+    path: files/86/66/8666c4714c177149f6c4ceebfe49173bdfa190c727877fbd0891dcffaed4ee7d/original.tif
+    sha256: 8666c4714c177149f6c4ceebfe49173bdfa190c727877fbd0891dcffaed4ee7d
+    mime: image/tiff
+    bytes: 4044923
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/86/66/8666c4714c177149f6c4ceebfe49173bdfa190c727877fbd0891dcffaed4ee7d/preview-400.7a6422f446f2.jpg
+        sha256: 7a6422f446f2cbea9725f314038eafea86213170e10b3efb37aee2948acfd9b4
+        mime: image/jpeg
+        bytes: 89868
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

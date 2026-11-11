@@ -1,0 +1,42 @@
+id: 01HR3MX6ZZ7BVBNT3RZSHFE92X
+type: image
+subtype: print
+title: Postkarte Zadrau, Ladestraße
+description: Postkarte, gelaufen 1906.
+date: 1948-10-06
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 4/257
+  note: Dachboden, Truhe
+subjects:
+  - name: Wootz
+    type: place
+  - name: Kegelbahn
+    type: building
+  - name: Poststelle
+    type: building
+parents:
+  - 01KGHR1E94X26ENFVH4J79T0CP
+files:
+  - role: main
+    original_name: scan_994.tif
+    path: files/42/11/4211b8ba60791db316810887fde41074260ef25daae77b4d345bbf940889f6d6/original.tif
+    sha256: 4211b8ba60791db316810887fde41074260ef25daae77b4d345bbf940889f6d6
+    mime: image/tiff
+    bytes: 9568573
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/42/11/4211b8ba60791db316810887fde41074260ef25daae77b4d345bbf940889f6d6/preview-400.d5960f1fd18b.jpg
+        sha256: d5960f1fd18b0f45466f4d0bd1e74fa91faaeeab3b72992d5134e8f1c88b40aa
+        mime: image/jpeg
+        bytes: 56378
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

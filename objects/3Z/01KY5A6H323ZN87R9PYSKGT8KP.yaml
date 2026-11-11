@@ -1,0 +1,35 @@
+id: 01KY5A6H323ZN87R9PYSKGT8KP
+type: image
+subtype: plan
+title: Bauplan Dorfschule 1816
+date: 1816-04-16
+origin:
+  name: Marta Harms
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 4, Kiste 2
+files:
+  - role: main
+    original_name: scan_758.tif
+    path: files/06/1f/061ff68dc8451d0014f5b63652d016e64442cef7135e819d8fc27f2478580c7e/original.tif
+    sha256: 061ff68dc8451d0014f5b63652d016e64442cef7135e819d8fc27f2478580c7e
+    mime: image/tiff
+    bytes: 27557153
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/06/1f/061ff68dc8451d0014f5b63652d016e64442cef7135e819d8fc27f2478580c7e/preview-400.a0cd077dc2c3.jpg
+        sha256: a0cd077dc2c355d2fd5cac0fca6f10b8bdfe4464c4886810a53760b71535f0da
+        mime: image/jpeg
+        bytes: 89906
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

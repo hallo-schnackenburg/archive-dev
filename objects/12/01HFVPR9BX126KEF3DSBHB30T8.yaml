@@ -1,0 +1,31 @@
+id: 01HFVPR9BX126KEF3DSBHB30T8
+type: image
+subtype: photo
+title: Grenzöffnung 1935
+date: 1935-10-13
+location: Lenzen, Hafenstraße
+geocode:
+  lat: 52.9394
+  lon: 11.4567
+  precision: region
+  source: osm
+files:
+  - role: main
+    original_name: foto_0022.jpg
+    path: files/76/da/76da1c61be5b234c1b6670bb28bbb0bfd5a7e32b6dd9b313cbff4e8a40ea2891/original.jpg
+    sha256: 76da1c61be5b234c1b6670bb28bbb0bfd5a7e32b6dd9b313cbff4e8a40ea2891
+    mime: image/jpeg
+    bytes: 7135648
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/76/da/76da1c61be5b234c1b6670bb28bbb0bfd5a7e32b6dd9b313cbff4e8a40ea2891/preview-400.52a3acc288d3.jpg
+        sha256: 52a3acc288d30c11e6350c714e8ee8df7b1f4ef580f54fb1f2d3840055090499
+        mime: image/jpeg
+        bytes: 36812
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

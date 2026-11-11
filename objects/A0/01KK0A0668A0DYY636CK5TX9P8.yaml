@@ -1,0 +1,39 @@
+id: 01KK0A0668A0DYY636CK5TX9P8
+type: image
+subtype: plan
+title: Bauplan Backhaus 1836
+date: 1836-12
+origin:
+  name: Berta Ahrens
+  type: person
+  location: Havelberg
+subjects:
+  - name: Kapern
+    type: place
+  - name: Brünkendorf
+    type: place
+  - name: Petra Kuhlmann
+    type: person
+parents:
+  - 01KTZKC2A5R5HHQXVWXFS5SF60
+  - 01FX13NA4AT0PM3FBRV1XBR89T
+files:
+  - role: main
+    original_name: scan_197.tif
+    path: files/88/79/8879346baf8db36b68519710771e303f963b2b0971e6a90d8a30b9dedda133c9/original.tif
+    sha256: 8879346baf8db36b68519710771e303f963b2b0971e6a90d8a30b9dedda133c9
+    mime: image/tiff
+    bytes: 7615248
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/88/79/8879346baf8db36b68519710771e303f963b2b0971e6a90d8a30b9dedda133c9/preview-400.961d6d903529.jpg
+        sha256: 961d6d903529f2f04147c7db8a3055e985f85b755fe269b48fc97bd26457f89d
+        mime: image/jpeg
+        bytes: 86836
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

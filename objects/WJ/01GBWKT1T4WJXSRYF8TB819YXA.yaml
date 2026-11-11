@@ -1,0 +1,69 @@
+id: 01GBWKT1T4WJXSRYF8TB819YXA
+type: document
+subtype: note
+title: Quittung für Friedrich Hennings
+description: Zettel, Bleistift.
+date: 1992-09-16
+location: Havelberg, Hafenstraße
+geocode:
+  lat: 52.9587
+  lon: 11.6725
+  precision: street
+  source: osm
+origin:
+  name: Helga Sievers
+  type: person
+  location: Restorf
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 36/066
+subjects:
+  - name: Kegelbahn
+    type: building
+  - name: Fähranleger
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_819yxa_001.tif
+    path: files/01/4f/014f208de67f385cba8cb5ec366146b7070e73b3c690fb5da8bfec47fa895356/original.tif
+    sha256: 014f208de67f385cba8cb5ec366146b7070e73b3c690fb5da8bfec47fa895356
+    mime: image/tiff
+    bytes: 2502452
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/01/4f/014f208de67f385cba8cb5ec366146b7070e73b3c690fb5da8bfec47fa895356/preview-400.16471af60681.jpg
+        sha256: 16471af606811080617ba31a510ab45308cfa657be5d8b1406570955146cae3e
+        mime: image/jpeg
+        bytes: 31378
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_819yxa_002.tif
+    path: files/36/36/3636331ff80cbec1096b0315ffe2580853e69b5cacb51529b6923f2bdc123650/original.tif
+    sha256: 3636331ff80cbec1096b0315ffe2580853e69b5cacb51529b6923f2bdc123650
+    mime: image/tiff
+    bytes: 23096402
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/36/36/3636331ff80cbec1096b0315ffe2580853e69b5cacb51529b6923f2bdc123650/preview-400.cc193f5c8e11.jpg
+        sha256: cc193f5c8e11bc4365e3c70925edaa14ce5316f8c06511709314a3a17e7dedb2
+        mime: image/jpeg
+        bytes: 44673
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

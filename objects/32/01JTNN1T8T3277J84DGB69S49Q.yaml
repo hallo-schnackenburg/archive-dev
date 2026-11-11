@@ -1,0 +1,43 @@
+id: 01JTNN1T8T3277J84DGB69S49Q
+type: image
+subtype: photo
+title: Sportplatz in Restorf
+description: Aufnahme von Ernst Brandt.
+date: 1905-06-05
+location: Gollensdorf, Kaufmannshaus
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 5/032
+subjects:
+  - name: Ilse Rohde
+    type: person
+  - name: Hochwasser 1905
+    type: event
+  - name: Arendsee
+    type: place
+parents:
+  - 01JAT6399B3E9Z9P00A12BJSFT
+  - 01K0DYSTF2EJ283ADN76W7FBTC
+files:
+  - role: main
+    original_name: scan_809.tif
+    path: files/8d/85/8d855efb6248170d39c8922cc52a7584e4585491216e73931803bb4333605adc/original.tif
+    sha256: 8d855efb6248170d39c8922cc52a7584e4585491216e73931803bb4333605adc
+    mime: image/tiff
+    bytes: 6291608
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8d/85/8d855efb6248170d39c8922cc52a7584e4585491216e73931803bb4333605adc/preview-400.03ab939bbc3d.jpg
+        sha256: 03ab939bbc3d74fcaeeae4ada149336e577ffd7dc4b2953c3e5af792ad8c28cd
+        mime: image/jpeg
+        bytes: 83395
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

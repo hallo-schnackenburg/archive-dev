@@ -1,0 +1,33 @@
+id: 01JKKMP4TNQT6R7DYAGNHT2QKZ
+type: image
+subtype: plan
+title: Bauplan Tischlerei Bruns 1993
+description: Mit handschriftlichen Ergänzungen.
+date: 1993-01-13
+origin:
+  name: Ilse Lemke
+  type: person
+  location: Salzwedel
+parents:
+  - 01FPBW8XQ5TR1SGGQ9277H4RM1
+  - 01J8EFPX4R9MB05RW08DV43E95
+files:
+  - role: main
+    original_name: scan_848.tif
+    path: files/b6/84/b684d44e936dc337bcd5e4107b87e726a68f672af5ddf95890fd4d3d223f2c19/original.tif
+    sha256: b684d44e936dc337bcd5e4107b87e726a68f672af5ddf95890fd4d3d223f2c19
+    mime: image/tiff
+    bytes: 4394060
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b6/84/b684d44e936dc337bcd5e4107b87e726a68f672af5ddf95890fd4d3d223f2c19/preview-400.e94d58df3b45.jpg
+        sha256: e94d58df3b45a3625f26e10951ff40094174b4d5040ab388c8f76bdc8570dc6b
+        mime: image/jpeg
+        bytes: 25041
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

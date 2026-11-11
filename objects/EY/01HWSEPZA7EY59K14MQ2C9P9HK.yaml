@@ -1,0 +1,82 @@
+id: 01HWSEPZA7EY59K14MQ2C9P9HK
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Salzwedel 1858
+description: Handschriftlich in Sütterlin.
+date: 185X
+origin:
+  name: Ortsrat Gartow
+  type: business
+  location: Seedorf
+language: de
+subjects:
+  - name: Beerdigung 1858
+    type: event
+  - name: Holtorf
+    type: place
+  - name: Einschulung 1858
+    type: event
+parents:
+  - 01HAP62ST45VTQVM84K6Q2R732
+  - 01KSQSSGDYWJ8WM96BXT4QY5Z0
+files:
+  - role: page
+    num: 1
+    original_name: protocol_c9p9hk_001.tif
+    path: files/08/2f/082f9f4aab9e5754681d5490368bd1e07204299e1d17953c6fa74993d809fe1b/original.tif
+    sha256: 082f9f4aab9e5754681d5490368bd1e07204299e1d17953c6fa74993d809fe1b
+    mime: image/tiff
+    bytes: 12326583
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/08/2f/082f9f4aab9e5754681d5490368bd1e07204299e1d17953c6fa74993d809fe1b/preview-400.a8755121ce10.jpg
+        sha256: a8755121ce10be9734d211ca16e0728e6922ad4c8814bb90d9cbb02b3cd23fda
+        mime: image/jpeg
+        bytes: 53874
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_c9p9hk_002.tif
+    path: files/52/fe/52fefdee6dabfa4a8b119a45d9224a717f091fcc5c0b62c6ce7afdd3ba9207fc/original.tif
+    sha256: 52fefdee6dabfa4a8b119a45d9224a717f091fcc5c0b62c6ce7afdd3ba9207fc
+    mime: image/tiff
+    bytes: 16338853
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/fe/52fefdee6dabfa4a8b119a45d9224a717f091fcc5c0b62c6ce7afdd3ba9207fc/preview-400.a7f8a450280a.jpg
+        sha256: a7f8a450280aab7f8f0c775d59bce4c380f85b752f0a3a24069077069eebba80
+        mime: image/jpeg
+        bytes: 50993
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_c9p9hk_003.tif
+    path: files/b8/a5/b8a5ebb29df4d84f82aafc51a29f06aca81e50f9ab90b327bc1f787f4ca5c91d/original.tif
+    sha256: b8a5ebb29df4d84f82aafc51a29f06aca81e50f9ab90b327bc1f787f4ca5c91d
+    mime: image/tiff
+    bytes: 3213815
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b8/a5/b8a5ebb29df4d84f82aafc51a29f06aca81e50f9ab90b327bc1f787f4ca5c91d/preview-400.70911b19b59f.jpg
+        sha256: 70911b19b59f6fee026866881fbb83517e9b6b96f7f2fddae5618c8c6a6ff517
+        mime: image/jpeg
+        bytes: 72118
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,68 @@
+id: 01JWQ26VS4TZJW35439M6HWZZH
+type: document
+subtype: letter
+title: Brief von Brigitte Harms an Marta Rohde
+description: Mit Umschlag und Briefmarke.
+date: 1883?
+location: Zadrau, Am Markt
+geocode:
+  lat: 53.0812
+  lon: 11.4921
+  precision: street
+  source: osm
+origin:
+  name: Dieter Voss
+  type: person
+  location: Nienwalde
+recipient: Heinz Voss
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro/Mappe 30/007
+subjects:
+  - name: Maifeier 1883
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_6hwzzh_001.tif
+    path: files/23/1a/231a596b53b673e81d704d2664f03dbb173bbf7592f9a24caf80a592f4dc8ba5/original.tif
+    sha256: 231a596b53b673e81d704d2664f03dbb173bbf7592f9a24caf80a592f4dc8ba5
+    mime: image/tiff
+    bytes: 12605773
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/23/1a/231a596b53b673e81d704d2664f03dbb173bbf7592f9a24caf80a592f4dc8ba5/preview-400.2561cf735d5e.jpg
+        sha256: 2561cf735d5e6360f51621c6b78f4d722239b6454b35b4d3a2d26c1fe1a9f59c
+        mime: image/jpeg
+        bytes: 43268
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_6hwzzh_002.tif
+    path: files/a5/b1/a5b19572b852be6e3232b24847daa2e16b5c0df1f8e6231434131a810ffad583/original.tif
+    sha256: a5b19572b852be6e3232b24847daa2e16b5c0df1f8e6231434131a810ffad583
+    mime: image/tiff
+    bytes: 7924653
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a5/b1/a5b19572b852be6e3232b24847daa2e16b5c0df1f8e6231434131a810ffad583/preview-400.c21aeab32bf0.jpg
+        sha256: c21aeab32bf0fdb290219e922f609f873a94259f68fa2d22e86b1f141f93a7a1
+        mime: image/jpeg
+        bytes: 50466
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

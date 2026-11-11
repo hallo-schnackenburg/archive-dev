@@ -1,0 +1,38 @@
+id: 01HEVNW5VRRQK5GXJJJKF9G2TN
+type: image
+subtype: plan
+title: Bauplan Fähranleger 1873
+date: 1873-08-08
+origin:
+  name: Karl Burmester
+  type: person
+  location: Cumlosen
+owner:
+  name: Karl Meyer
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Salzwedel
+    type: place
+parents:
+  - 01GVM1WCR2HNMHN4DWDZ4NZG4Z
+files:
+  - role: main
+    original_name: scan_435.tif
+    path: files/37/81/37816c86a0a5d333964e64ac54f77ac64b65797d0f7089c00a1db4e396a393d1/original.tif
+    sha256: 37816c86a0a5d333964e64ac54f77ac64b65797d0f7089c00a1db4e396a393d1
+    mime: image/tiff
+    bytes: 1559029
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/37/81/37816c86a0a5d333964e64ac54f77ac64b65797d0f7089c00a1db4e396a393d1/preview-400.8b671e0c3b86.jpg
+        sha256: 8b671e0c3b86ff9db8b762e344b3c3be7ea41336a76adbb9822a293a9e70e9ae
+        mime: image/jpeg
+        bytes: 71913
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

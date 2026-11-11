@@ -1,0 +1,47 @@
+id: 01F0AB9WB11G21SASZYW4SXPCV
+type: image
+subtype: plan
+title: Bauplan Fähranleger 1805
+description: Mit handschriftlichen Ergänzungen.
+date: 1805-01-22
+location: Lenzen, Mühlenweg
+geocode:
+  lat: 53.0725
+  lon: 11.6931
+  precision: town
+  source: osm
+origin:
+  name: Frieda Meyer
+  type: person
+  location: Havelberg
+owner:
+  name: Gisela Eggers
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Dorffest 1805
+    type: event
+  - name: Nienwalde
+    type: place
+parents:
+  - 01FEEW1K0P7657HFN4R8JBV1AC
+files:
+  - role: main
+    original_name: scan_167.tif
+    path: files/c4/b9/c4b9c2a3d4c2eed15b6a6107ad2f8471865a8a6a029ecc88f9d606eab4ac7406/original.tif
+    sha256: c4b9c2a3d4c2eed15b6a6107ad2f8471865a8a6a029ecc88f9d606eab4ac7406
+    mime: image/tiff
+    bytes: 20802835
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c4/b9/c4b9c2a3d4c2eed15b6a6107ad2f8471865a8a6a029ecc88f9d606eab4ac7406/preview-400.240a8818a6b0.jpg
+        sha256: 240a8818a6b01d8725f8e0a95f8b5ac80dbb796cb8963a41b66e806a3ebe7a08
+        mime: image/jpeg
+        bytes: 37093
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

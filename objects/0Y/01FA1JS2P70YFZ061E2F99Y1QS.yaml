@@ -1,0 +1,44 @@
+id: 01FA1JS2P70YFZ061E2F99Y1QS
+type: document
+subtype: letter
+title: Zeugnis für Jürgen Wegner
+description: Handschriftlich, 1 Seiten.
+date: 1935~
+location: Arendsee, Mühlenweg
+geocode:
+  lat: 52.9344
+  lon: 11.539
+  precision: town
+  source: osm
+origin:
+  name: Fritz Hennings
+  type: person
+  location: Nienwalde
+recipient: Gerda Wegner
+language: de
+subjects:
+  - name: Backhaus
+    type: building
+  - name: Gülden
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_99y1qs_001.tif
+    path: files/30/ea/30ea93dc809250e025ea89a71529203adf13da05fbce2b20a00bc6996def3cc8/original.tif
+    sha256: 30ea93dc809250e025ea89a71529203adf13da05fbce2b20a00bc6996def3cc8
+    mime: image/tiff
+    bytes: 24809027
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/30/ea/30ea93dc809250e025ea89a71529203adf13da05fbce2b20a00bc6996def3cc8/preview-400.9ab30e64c76d.jpg
+        sha256: 9ab30e64c76de28e9466bdfbc270c63f632b6ce3a0b6edeffd317e3a00141a97
+        mime: image/jpeg
+        bytes: 86174
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

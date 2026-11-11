@@ -1,0 +1,45 @@
+id: 01H60VBRR9707MEKF5YJ5CDEW0
+type: image
+subtype: plan
+title: Bauplan Friedhofskapelle 1758
+description: Maßstab 1:100.
+date: 1758-02-03
+location: Laase, Kaufmannshaus
+geocode:
+  lat: 53.0568
+  lon: 11.6703
+  precision: region
+  source: osm
+origin:
+  name: Friedrich Schulz
+  type: person
+  location: Dömitz
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+  - name: Kartoffelernte 1758
+    type: event
+  - name: Otto Kuhlmann
+    type: person
+parents:
+  - 01KTYRCAK48GPD0VE0FWRMS98S
+files:
+  - role: main
+    original_name: scan_766.tif
+    path: files/3b/16/3b16f6b19358c69ba419fef366e020092879e04e15f089f6061b35baa8f6169f/original.tif
+    sha256: 3b16f6b19358c69ba419fef366e020092879e04e15f089f6061b35baa8f6169f
+    mime: image/tiff
+    bytes: 3610242
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3b/16/3b16f6b19358c69ba419fef366e020092879e04e15f089f6061b35baa8f6169f/preview-400.d59648379117.jpg
+        sha256: d596483791178656fb726d1a7f2d4275ca081bbbaa8dafb21eccea688246de08
+        mime: image/jpeg
+        bytes: 57802
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01EVZVXKG1HAR7150H2FYNFJKP
+type: image
+subtype: plan
+title: Lageplan Backhaus, Wittenberge
+location: Pretzier, Elbstraße
+origin:
+  name: Otto Ahrens
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 7/273
+owner:
+  name: Ilse Garms
+  type: person
+  note: Nachlass
+parents:
+  - 01F084MHNWGJ7D7S7TBCXZMMB2
+files:
+  - role: main
+    original_name: scan_387.tif
+    path: files/28/d7/28d7766dbc3b18db3ca41d80bcd6c03cbcff946aabce2557c5cf48695c8bf87d/original.tif
+    sha256: 28d7766dbc3b18db3ca41d80bcd6c03cbcff946aabce2557c5cf48695c8bf87d
+    mime: image/tiff
+    bytes: 15242862
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/28/d7/28d7766dbc3b18db3ca41d80bcd6c03cbcff946aabce2557c5cf48695c8bf87d/preview-400.223d08024b53.jpg
+        sha256: 223d08024b535b4ec07bc8d07ee91c1caa9eaf32aa96694f18b513915cb2a28a
+        mime: image/jpeg
+        bytes: 24898
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

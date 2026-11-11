@@ -1,0 +1,42 @@
+id: 01HQQWBYA2W8VMSG5K9FZ5ZEX5
+type: image
+subtype: drawing
+title: Skizze Brünkendorf, Am Markt, Wustrow
+date: "1932"
+location: Cumlosen, Speicher
+geocode:
+  lat: 53.0602
+  lon: 11.6563
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 3/057
+subjects:
+  - name: Karl Wiese
+    type: person
+parents:
+  - 01JS809ECB0H6P74TPETN12T1S
+files:
+  - role: main
+    original_name: scan_395.tif
+    path: files/6b/31/6b3119a49428d74d0f17c81cc13fd2ba01f287f1a7ef1baba60a76422d6c9de5/original.tif
+    sha256: 6b3119a49428d74d0f17c81cc13fd2ba01f287f1a7ef1baba60a76422d6c9de5
+    mime: image/tiff
+    bytes: 6833451
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6b/31/6b3119a49428d74d0f17c81cc13fd2ba01f287f1a7ef1baba60a76422d6c9de5/preview-400.fb6e298d2131.jpg
+        sha256: fb6e298d21310111e22b2383976ed915def3efead65e2273510b55bf1dda8ad0
+        mime: image/jpeg
+        bytes: 82536
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01HKKSCJC7817FRANEVV7KZNDW
+type: image
+subtype: plan
+title: Bauplan Hafen 1843
+date: 1843?
+origin:
+  name: Erika Jeß
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Sturmschaden 1843
+    type: event
+parents:
+  - 01FRHHN2TXE6MJ0TDGG4SGYAWP
+files:
+  - role: main
+    original_name: scan_031.tif
+    path: files/f6/24/f6245ee431f7faba171454148921dc496491bd2ec148957844878b40d9af018d/original.tif
+    sha256: f6245ee431f7faba171454148921dc496491bd2ec148957844878b40d9af018d
+    mime: image/tiff
+    bytes: 25058260
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f6/24/f6245ee431f7faba171454148921dc496491bd2ec148957844878b40d9af018d/preview-400.cd961a904cc7.jpg
+        sha256: cd961a904cc754814f20683316ebbc558d57146da2f9f4e2c1d5f40809733b6e
+        mime: image/jpeg
+        bytes: 65229
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

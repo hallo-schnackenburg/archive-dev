@@ -1,0 +1,37 @@
+id: 01FK74Z4979VFPQ993DQRAE8BQ
+type: image
+subtype: photo
+title: Frieda Plate, Porträt
+description: Abzug im Format 10 x 15 cm.
+date: 1912-07-19
+origin:
+  name: Frieda Wiese
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01GHXA70MDX353KKCRS2BQ39WE
+files:
+  - role: main
+    original_name: foto_0002.jpg
+    path: files/8f/8d/8f8dc40f122ec45523bf4bab249efe4ec00a28f6462b6347c65b3d47007c2722/original.jpg
+    sha256: 8f8dc40f122ec45523bf4bab249efe4ec00a28f6462b6347c65b3d47007c2722
+    mime: image/jpeg
+    bytes: 6543281
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/8f/8d/8f8dc40f122ec45523bf4bab249efe4ec00a28f6462b6347c65b3d47007c2722/preview-400.bc701c0944b7.jpg
+        sha256: bc701c0944b7061d6a001888095f267c019de8b7c1455b2440e168c79eea67dd
+        mime: image/jpeg
+        bytes: 36147
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

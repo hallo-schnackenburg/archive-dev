@@ -1,0 +1,44 @@
+id: 01HQH8GTCZ7948HXPH62QWMKWG
+type: image
+subtype: photo
+title: Schützenfest 1913
+description: Aufnahme von Karl Rieke.
+location: Bömenzien, Marktstraße
+geocode:
+  lat: 53.0504
+  lon: 11.5798
+  precision: region
+  source: osm
+owner:
+  name: Gerda Hennings
+  type: person
+  note: Nachlass
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Fritz Hennings
+    type: person
+  - name: Bahnhof
+    type: building
+parents:
+  - 01GGFA4BRHTCBTSYCZDK78S61J
+files:
+  - role: main
+    original_name: DSC1623.jpg
+    path: files/8f/fe/8ffed1dcd1831dfc85a0870a2b2df74c6870e6d21e83f054d1919bbdc445dde6/original.jpg
+    sha256: 8ffed1dcd1831dfc85a0870a2b2df74c6870e6d21e83f054d1919bbdc445dde6
+    mime: image/jpeg
+    bytes: 6969114
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/8f/fe/8ffed1dcd1831dfc85a0870a2b2df74c6870e6d21e83f054d1919bbdc445dde6/preview-400.eb9370219dc9.jpg
+        sha256: eb9370219dc94c668845fba40f6206bbb30084f48a35586f0d7d857f42b419a4
+        mime: image/jpeg
+        bytes: 21421
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

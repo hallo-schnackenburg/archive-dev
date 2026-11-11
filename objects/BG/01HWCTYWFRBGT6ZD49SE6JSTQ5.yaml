@@ -1,0 +1,32 @@
+id: 01HWCTYWFRBGT6ZD49SE6JSTQ5
+type: image
+subtype: photo
+title: Glockenweihe 1905
+date: 1905-06
+location: Gartow, Mühlenweg
+origin:
+  name: Günter Hennings
+  type: person
+  location: Havelberg
+parents:
+  - 01KJHV4RZ8X5ZNWBC3B15QV0TT
+files:
+  - role: main
+    original_name: scan_613.tif
+    path: files/fa/52/fa521463d48779e42b959072659818c2d8559b3b5ea7203ebbf07087571470cd/original.tif
+    sha256: fa521463d48779e42b959072659818c2d8559b3b5ea7203ebbf07087571470cd
+    mime: image/tiff
+    bytes: 7615309
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/fa/52/fa521463d48779e42b959072659818c2d8559b3b5ea7203ebbf07087571470cd/preview-400.4066c027e559.jpg
+        sha256: 4066c027e55949400cbb22b0e3eef01ade93b148cd2c2a3b3b42c02c72382289
+        mime: image/jpeg
+        bytes: 63852
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

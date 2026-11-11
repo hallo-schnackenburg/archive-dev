@@ -1,0 +1,45 @@
+id: 01GBKWN6KTCH2RFV4WYP818AKW
+type: image
+subtype: photo
+title: Kindergartenfest 1895
+date: 1895-04-23
+origin:
+  name: Bernd Harms
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 12/081
+  note: Dachboden, Truhe
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Schlachterei
+    type: building
+  - name: Karl Lemke
+    type: person
+parents:
+  - 01KNHD7DYF112CXGR0WVK2W8DQ
+files:
+  - role: main
+    original_name: scan_271.tif
+    path: files/c0/6c/c06ca43e1b168998691ff7e430e3a8ee69013234851c56bcdd2f960a6fef70aa/original.tif
+    sha256: c06ca43e1b168998691ff7e430e3a8ee69013234851c56bcdd2f960a6fef70aa
+    mime: image/tiff
+    bytes: 15663862
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c0/6c/c06ca43e1b168998691ff7e430e3a8ee69013234851c56bcdd2f960a6fef70aa/preview-400.22d5d790a5c6.jpg
+        sha256: 22d5d790a5c6c0794dd84e43d597d40ba88d71e944c17763d62dacd4e59b6432
+        mime: image/jpeg
+        bytes: 53500
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

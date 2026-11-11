@@ -1,0 +1,39 @@
+id: 01GARYTM1WWD6JVCK9P5ZBVGXC
+type: image
+subtype: plan
+title: Deichplan Pretzier bis Seedorf
+date: "1850"
+location: Gorleben, Dorfschule
+origin:
+  name: Günter Lemke
+  type: person
+  location: Seedorf
+subjects:
+  - name: Gärtnerei
+    type: building
+  - name: Grenzöffnung 1850
+    type: event
+  - name: Kirmes 1850
+    type: event
+parents:
+  - 01JGKVZV6PYRTQW3JF5XVEVJGR
+files:
+  - role: main
+    original_name: scan_596.tif
+    path: files/6a/1e/6a1ee4b6230a6237d327f5b6bf2c68a5e25401cb8e90c09a675c23905066c468/original.tif
+    sha256: 6a1ee4b6230a6237d327f5b6bf2c68a5e25401cb8e90c09a675c23905066c468
+    mime: image/tiff
+    bytes: 22330110
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6a/1e/6a1ee4b6230a6237d327f5b6bf2c68a5e25401cb8e90c09a675c23905066c468/preview-400.68bac32bca0b.jpg
+        sha256: 68bac32bca0bb5daed6553cd78329c822a23a870c89168760cda128ac9ca97e7
+        mime: image/jpeg
+        bytes: 87886
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

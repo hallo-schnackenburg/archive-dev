@@ -1,0 +1,34 @@
+id: 01FNQ0P40QD9ASKJZHZFJNF6TY
+type: image
+subtype: photo
+title: Osterfeuer 1914
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1914"
+location: Gartow, Deichstraße
+subjects:
+  - name: Kindergartenfest 1914
+    type: event
+  - name: Glockenweihe 1914
+    type: event
+parents:
+  - 01KSS5WSKYD8DQE3452TFH91F6
+files:
+  - role: main
+    original_name: scan_411.tif
+    path: files/0f/48/0f48ffbe61394e58adf2fab2c4091eca66999fe8b12d15dcf9767eefb464ed52/original.tif
+    sha256: 0f48ffbe61394e58adf2fab2c4091eca66999fe8b12d15dcf9767eefb464ed52
+    mime: image/tiff
+    bytes: 1301179
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0f/48/0f48ffbe61394e58adf2fab2c4091eca66999fe8b12d15dcf9767eefb464ed52/preview-400.295eb850f210.jpg
+        sha256: 295eb850f210a40518c4ac6f9c520526b9df9d171dbc05b24a53b1719aff5f9b
+        mime: image/jpeg
+        bytes: 40555
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

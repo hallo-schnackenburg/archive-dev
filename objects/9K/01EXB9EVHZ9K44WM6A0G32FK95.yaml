@@ -1,0 +1,58 @@
+id: 01EXB9EVHZ9K44WM6A0G32FK95
+type: document
+subtype: note
+title: Quittung für August Krüger
+date: 1981-02
+location: Wittenberge, Gasthof Meyer
+geocode:
+  lat: 52.9907
+  lon: 11.6191
+  precision: region
+  source: osm
+language: de
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Pumpenhaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_32fk95_001.tif
+    path: files/35/b7/35b793309e8f7cc58d6820078f9651887e776be660b23b7fd30f17ab630e9e3f/original.tif
+    sha256: 35b793309e8f7cc58d6820078f9651887e776be660b23b7fd30f17ab630e9e3f
+    mime: image/tiff
+    bytes: 1699193
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/35/b7/35b793309e8f7cc58d6820078f9651887e776be660b23b7fd30f17ab630e9e3f/preview-400.e917cba09778.jpg
+        sha256: e917cba09778368d9f7f731dd14795fedda021447ada86d21e5d921079ca77ed
+        mime: image/jpeg
+        bytes: 45036
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_32fk95_002.tif
+    path: files/78/21/78219281983559dcb8f362b217b5f352003bef9e619899b2bd0c444496218a22/original.tif
+    sha256: 78219281983559dcb8f362b217b5f352003bef9e619899b2bd0c444496218a22
+    mime: image/tiff
+    bytes: 22051577
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/78/21/78219281983559dcb8f362b217b5f352003bef9e619899b2bd0c444496218a22/preview-400.a7163856ed00.jpg
+        sha256: a7163856ed00cac656648ced896ea1aa0b21c6fd6f7b86e2c6d02ed681cc3953
+        mime: image/jpeg
+        bytes: 61845
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

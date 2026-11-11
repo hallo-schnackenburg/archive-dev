@@ -1,0 +1,37 @@
+id: 01K9GQG3GYYC62RB6VS2XAX9AS
+type: document
+subtype: note
+title: Rechnung Meyer, Sparkasse
+description: Beleg mit Stempel.
+date: 1908-12-02
+origin:
+  name: Heinrich Ihde
+  type: person
+  location: Restorf
+language: de
+subjects:
+  - name: Sturmschaden 1908
+    type: event
+parents:
+  - 01K6MM688883CWMKTJ2NVR6F70
+files:
+  - role: page
+    num: 1
+    original_name: note_xax9as_001.tif
+    path: files/86/aa/86aa4026a6cc4273722b313dd0af1f5747702e44355918daefac49b05e454168/original.tif
+    sha256: 86aa4026a6cc4273722b313dd0af1f5747702e44355918daefac49b05e454168
+    mime: image/tiff
+    bytes: 27328479
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/aa/86aa4026a6cc4273722b313dd0af1f5747702e44355918daefac49b05e454168/preview-400.01f262493875.jpg
+        sha256: 01f262493875bfcbb63433951ced60adc8a993de0985cb1b018e4352741a94a0
+        mime: image/jpeg
+        bytes: 71272
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

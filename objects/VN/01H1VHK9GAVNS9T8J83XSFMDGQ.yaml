@@ -1,0 +1,67 @@
+id: 01H1VHK9GAVNS9T8J83XSFMDGQ
+type: document
+subtype: letter
+title: Brief von Elfriede Tiedemann an Erika Brandt
+date: "1885"
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 22/071
+  note: Regal 4, Kiste 2
+owner:
+  name: Karl Lindemann
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Straßenfest 1885
+    type: event
+  - name: Ortsbesichtigung 1885
+    type: event
+  - name: Gorleben
+    type: place
+parents:
+  - 01KWT1T4KB5Q91S1TWXMCRMNCD
+files:
+  - role: page
+    num: 1
+    original_name: letter_sfmdgq_001.tif
+    path: files/86/d8/86d83166066ddc7e4d0f58f5f7733cb2b41c3e85e2aa3dcf2abcdb98568a88ae/original.tif
+    sha256: 86d83166066ddc7e4d0f58f5f7733cb2b41c3e85e2aa3dcf2abcdb98568a88ae
+    mime: image/tiff
+    bytes: 27543684
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/d8/86d83166066ddc7e4d0f58f5f7733cb2b41c3e85e2aa3dcf2abcdb98568a88ae/preview-400.1123c8a9121c.jpg
+        sha256: 1123c8a9121c990ee9e687114836b16d722514f550e3566359c1276b0289531b
+        mime: image/jpeg
+        bytes: 63876
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_sfmdgq_002.tif
+    path: files/b3/50/b350f25327fac175768eced0204362eba1b7a19fc6ba99a0de83dc80778a73fd/original.tif
+    sha256: b350f25327fac175768eced0204362eba1b7a19fc6ba99a0de83dc80778a73fd
+    mime: image/tiff
+    bytes: 13537366
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/50/b350f25327fac175768eced0204362eba1b7a19fc6ba99a0de83dc80778a73fd/preview-400.fc65fa144c60.jpg
+        sha256: fc65fa144c605ce91b49c891dcd8ed0136b180555e4a4f3b8fdb91d4ba0f6292
+        mime: image/jpeg
+        bytes: 80290
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01FV3WAXG98NTB2GCT49VNCTRR
+type: image
+subtype: drawing
+title: Federzeichnung Försterei, Gartow
+date: 1849-09
+location: Wittenberge, Fachwerkhaus Marktstraße 4
+origin:
+  name: Hedwig Ahrens
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 9/070
+subjects:
+  - name: Viehmarkt 1849
+    type: event
+parents:
+  - 01FJ86NA6W3C03D1PBGTPFRX8T
+files:
+  - role: main
+    original_name: scan_763.tif
+    path: files/7c/07/7c07d854803282c8a0fab0f59994cc747ff366297e28f2d041d489025b805ac8/original.tif
+    sha256: 7c07d854803282c8a0fab0f59994cc747ff366297e28f2d041d489025b805ac8
+    mime: image/tiff
+    bytes: 26948734
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7c/07/7c07d854803282c8a0fab0f59994cc747ff366297e28f2d041d489025b805ac8/preview-400.e3cc9f2128e9.jpg
+        sha256: e3cc9f2128e908fb1528337afe72e72cd7583df2dfdfca83ee2ddb5a4185c611
+        mime: image/jpeg
+        bytes: 51000
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

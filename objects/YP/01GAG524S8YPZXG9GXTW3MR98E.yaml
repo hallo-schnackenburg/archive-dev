@@ -1,0 +1,44 @@
+id: 01GAG524S8YPZXG9GXTW3MR98E
+type: image
+subtype: plan
+title: Deichplan Gorleben bis Kapern
+description: Maßstab 1:500.
+date: 1826/1835
+location: Gülden, Dorfteich
+origin:
+  name: Anni Eggers
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Familie Brandt
+    type: person
+    location: Gülden
+  reference: Br/Kasten 21/020
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Karl Kuhlmann
+    type: person
+parents:
+  - 01HKFRFSECE3Q2H430VV51X3Q1
+files:
+  - role: main
+    original_name: scan_820.tif
+    path: files/c7/1f/c71f3c42782cbb4fe78a8a9f0402e1b0602f5dad0c0c0052afa903fc73112319/original.tif
+    sha256: c71f3c42782cbb4fe78a8a9f0402e1b0602f5dad0c0c0052afa903fc73112319
+    mime: image/tiff
+    bytes: 24862157
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c7/1f/c71f3c42782cbb4fe78a8a9f0402e1b0602f5dad0c0c0052afa903fc73112319/preview-400.58d8ab75d01b.jpg
+        sha256: 58d8ab75d01b190aea5b7a2f377702e446d50e3455d0859bd6d0715e54309e5b
+        mime: image/jpeg
+        bytes: 61288
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,69 @@
+id: 01H5W4AKKE9BJXXFA1K5AK01S5
+type: document
+subtype: letter
+title: Vertrag über Pachtvertrag
+description: Mit Umschlag und Briefmarke.
+date: 1834-11
+location: Seedorf, Hafen
+geocode:
+  lat: 53.0649
+  lon: 11.4811
+  precision: town
+  source: osm
+recipient: Heinz Krüger
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 24/009
+  note: Bücherregal links
+subjects:
+  - name: Friedhofskapelle
+    type: building
+  - name: Tischlerei Bruns
+    type: building
+  - name: Wassermühle
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_ak01s5_001.tif
+    path: files/93/10/93103d3c25c82b8b2a4df5c555195aa2077602f390548ded14ef872326a67614/original.tif
+    sha256: 93103d3c25c82b8b2a4df5c555195aa2077602f390548ded14ef872326a67614
+    mime: image/tiff
+    bytes: 24955833
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/93/10/93103d3c25c82b8b2a4df5c555195aa2077602f390548ded14ef872326a67614/preview-400.108c643f2a03.jpg
+        sha256: 108c643f2a0372dfb1d60c6db59b434d677ac163d191f60d24883604e9d7c768
+        mime: image/jpeg
+        bytes: 67406
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_ak01s5_002.tif
+    path: files/66/7a/667ae8b0f80b39390196ae937761b136f06893cbbc5217939862c9d996d0c259/original.tif
+    sha256: 667ae8b0f80b39390196ae937761b136f06893cbbc5217939862c9d996d0c259
+    mime: image/tiff
+    bytes: 19770499
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/66/7a/667ae8b0f80b39390196ae937761b136f06893cbbc5217939862c9d996d0c259/preview-400.c6380ebfe79c.jpg
+        sha256: c6380ebfe79caaf0fbc4035274183381416712e554e6e6ca0e5675e8f1c3db12
+        mime: image/jpeg
+        bytes: 88447
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

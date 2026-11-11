@@ -1,0 +1,44 @@
+id: 01JQE2KR8G66N12Z0KER9E79CY
+type: image
+subtype: photo
+title: Blick vom Fähranleger auf das Bahnhof
+date: 1945-08-03
+location: Seedorf, Gemeindehaus
+geocode:
+  lat: 53.0855
+  lon: 11.5063
+  precision: region
+  source: osm
+origin:
+  name: Walter Schulz
+  type: person
+  location: Gartow
+owner:
+  name: Käthe Lüders
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Kartoffelernte 1945
+    type: event
+parents:
+  - 01JCTPZAEAG98DVMJJQRNTASRZ
+files:
+  - role: main
+    original_name: scan_691.tif
+    path: files/e6/22/e62220a526ddab58a1a74dd6cdebb4e019a9fbb7733196448c40c41638b16a42/original.tif
+    sha256: e62220a526ddab58a1a74dd6cdebb4e019a9fbb7733196448c40c41638b16a42
+    mime: image/tiff
+    bytes: 1336263
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e6/22/e62220a526ddab58a1a74dd6cdebb4e019a9fbb7733196448c40c41638b16a42/preview-400.4bcc4b90472d.jpg
+        sha256: 4bcc4b90472d695830722939eb3f4f442f582483d18d74dafeb5d89193ffaa6e
+        mime: image/jpeg
+        bytes: 55907
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01FV5RNEMJ7SX3021D0GSEMD95
+type: image
+subtype: print
+title: Gruß aus Gülden
+origin:
+  name: Erika Schulz
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Familie Burmester
+    type: person
+    location: Lüchow
+  reference: Fotos/Mappe 17/097
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+files:
+  - role: main
+    original_name: scan_964.tif
+    path: files/ac/02/ac02c35e0f389fbc9cdb6cd3e979d51c61570eb9ca1d447e55cedf0cc0c7c771/original.tif
+    sha256: ac02c35e0f389fbc9cdb6cd3e979d51c61570eb9ca1d447e55cedf0cc0c7c771
+    mime: image/tiff
+    bytes: 4678941
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/02/ac02c35e0f389fbc9cdb6cd3e979d51c61570eb9ca1d447e55cedf0cc0c7c771/preview-400.ab0048f3eae6.jpg
+        sha256: ab0048f3eae67541c339f814e77f13f598e00981f7aacd3bc98b1be27f7027c9
+        mime: image/jpeg
+        bytes: 82556
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

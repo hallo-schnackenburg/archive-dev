@@ -1,0 +1,36 @@
+id: 01K2JFRJ823PX1KCFDCRZ6EHDF
+type: image
+subtype: print
+title: Postkarte Seedorf, Pumpenhaus
+location: Schnackenburg, Schützenhaus
+origin:
+  name: Brigitte Jeß
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok 2/296
+  note: Regal 4, Kiste 2
+files:
+  - role: main
+    original_name: scan_884.tif
+    path: files/a5/d1/a5d1bcad7ccbe6bc1bef3a50c5355f8e2579f5be0b226a799dbb610c5214a997/original.tif
+    sha256: a5d1bcad7ccbe6bc1bef3a50c5355f8e2579f5be0b226a799dbb610c5214a997
+    mime: image/tiff
+    bytes: 11278373
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a5/d1/a5d1bcad7ccbe6bc1bef3a50c5355f8e2579f5be0b226a799dbb610c5214a997/preview-400.dbd075641aa9.jpg
+        sha256: dbd075641aa9e6b464863b549c57aedc4e2a46f6fd27ba15d47f3d932f745ffe
+        mime: image/jpeg
+        bytes: 43514
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

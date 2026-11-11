@@ -1,0 +1,45 @@
+id: 01FFH6E8YMV7SVCN7JKXJQSRPX
+type: image
+subtype: drawing
+title: Federzeichnung Fachwerkhaus Marktstraße 4
+description: Mit Anmerkungen am Rand.
+date: "1827"
+location: Arendsee, Torhaus
+origin:
+  name: Erika Schulz
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Mappe 1/024
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Rathaus
+    type: building
+parents:
+  - 01JQT54EAMY9FPSYNK9W7RJSV4
+  - 01GQDM3ZFG19XY70Y5T88AY6HH
+files:
+  - role: main
+    original_name: scan_665.tif
+    path: files/6d/1f/6d1f80c98effb70c071ae840ef6d5f650a8244225187ad1da7138ba46bb05410/original.tif
+    sha256: 6d1f80c98effb70c071ae840ef6d5f650a8244225187ad1da7138ba46bb05410
+    mime: image/tiff
+    bytes: 27097380
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6d/1f/6d1f80c98effb70c071ae840ef6d5f650a8244225187ad1da7138ba46bb05410/preview-400.f2f23abc7666.jpg
+        sha256: f2f23abc7666046e953fb25e83cbacafc724dc5e1dadd264904a6721dc66580e
+        mime: image/jpeg
+        bytes: 71906
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

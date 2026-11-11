@@ -1,0 +1,32 @@
+id: 01J6PMNQR23N4TWCZ79WAARN9R
+type: image
+subtype: plan
+title: Bauplan Pfarrhaus 1958
+description: Tusche auf Transparentpapier.
+subjects:
+  - name: Otto Hennings
+    type: person
+  - name: Ilse Schulz
+    type: person
+  - name: Schlachterei
+    type: building
+files:
+  - role: main
+    original_name: scan_201.tif
+    path: files/be/5d/be5d94ed01a2641653be0935f913dca622d35cedf96a402c08e39bb2647b52e1/original.tif
+    sha256: be5d94ed01a2641653be0935f913dca622d35cedf96a402c08e39bb2647b52e1
+    mime: image/tiff
+    bytes: 4112705
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/5d/be5d94ed01a2641653be0935f913dca622d35cedf96a402c08e39bb2647b52e1/preview-400.9563ce9c44fa.jpg
+        sha256: 9563ce9c44fae045f8385fe5e53c192f50df82f439d364390f3520bbced5dc07
+        mime: image/jpeg
+        bytes: 28363
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

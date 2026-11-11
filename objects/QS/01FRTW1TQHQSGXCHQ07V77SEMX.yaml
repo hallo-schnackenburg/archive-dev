@@ -1,0 +1,28 @@
+id: 01FRTW1TQHQSGXCHQ07V77SEMX
+type: image
+subtype: print
+title: Lithographie Zollamt, Wittenberge
+description: Postkarte, gelaufen 1950.
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_428.tif
+    path: files/9b/05/9b0500377bdfea55efa9c3320daa889115f2333c8792441a2afbb119059b5f48/original.tif
+    sha256: 9b0500377bdfea55efa9c3320daa889115f2333c8792441a2afbb119059b5f48
+    mime: image/tiff
+    bytes: 13431615
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9b/05/9b0500377bdfea55efa9c3320daa889115f2333c8792441a2afbb119059b5f48/preview-400.f0de48f081c5.jpg
+        sha256: f0de48f081c519ee5ad3f59d623e1074253bf3edca89dc2878a0e92c86134654
+        mime: image/jpeg
+        bytes: 28830
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

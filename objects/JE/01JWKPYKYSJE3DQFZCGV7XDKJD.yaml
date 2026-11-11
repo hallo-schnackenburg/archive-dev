@@ -1,0 +1,39 @@
+id: 01JWKPYKYSJE3DQFZCGV7XDKJD
+type: image
+subtype: plan
+title: Bauplan Gärtnerei 1950
+description: Maßstab 1:2500.
+date: 1950?
+origin:
+  name: Karl Gaede
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 35/129
+subjects:
+  - name: Gärtnerei
+    type: building
+files:
+  - role: main
+    original_name: scan_501.tif
+    path: files/75/35/7535b48c24cf7faa6f257e96c0183a38d0c39f844813264376c77bca5c5f0487/original.tif
+    sha256: 7535b48c24cf7faa6f257e96c0183a38d0c39f844813264376c77bca5c5f0487
+    mime: image/tiff
+    bytes: 5181091
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/75/35/7535b48c24cf7faa6f257e96c0183a38d0c39f844813264376c77bca5c5f0487/preview-400.bd7f0b2982f7.jpg
+        sha256: bd7f0b2982f7a04636fa65f1f2d78345b6fa13ad5718116ddfa67399d5fde6cf
+        mime: image/jpeg
+        bytes: 65993
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

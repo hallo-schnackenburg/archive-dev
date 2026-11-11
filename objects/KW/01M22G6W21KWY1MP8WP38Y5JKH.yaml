@@ -1,0 +1,42 @@
+id: 01M22G6W21KWY1MP8WP38Y5JKH
+type: image
+subtype: photo
+title: Grenzöffnung 1895
+description: Farbfoto, leicht verblasst.
+date: 1895-10-28
+location: Wootz, Gutshaus
+origin:
+  name: Karl Brandt
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  note: Regal 1
+subjects:
+  - name: Wootz
+    type: place
+parents:
+  - 01G8JVP67ZT9860RH8N2NEXXK7
+files:
+  - role: main
+    original_name: P7081.jpg
+    path: files/42/4f/424fcfb9d8eec1c5a067f792a9399f7aef111e9cc260e9f05a5f8f238a63d60b/original.jpg
+    sha256: 424fcfb9d8eec1c5a067f792a9399f7aef111e9cc260e9f05a5f8f238a63d60b
+    mime: image/jpeg
+    bytes: 18809262
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/42/4f/424fcfb9d8eec1c5a067f792a9399f7aef111e9cc260e9f05a5f8f238a63d60b/preview-400.c41a0c703b1b.jpg
+        sha256: c41a0c703b1bbd011a152d29cb150f266fbdc8f4f2ae53866b1d19e290bc4555
+        mime: image/jpeg
+        bytes: 29322
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

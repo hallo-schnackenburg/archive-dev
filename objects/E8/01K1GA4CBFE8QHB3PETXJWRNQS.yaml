@@ -1,0 +1,40 @@
+id: 01K1GA4CBFE8QHB3PETXJWRNQS
+type: image
+subtype: print
+title: Lithographie Gasthof Meyer, Kapern
+date: "1919"
+origin:
+  name: Jürgen Burmester
+  type: person
+  location: Hitzacker
+owner:
+  name: Ernst Wiegmann
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Maifeier 1919
+    type: event
+  - name: Glockenweihe 1919
+    type: event
+  - name: Zadrau
+    type: place
+files:
+  - role: main
+    original_name: scan_556.tif
+    path: files/d7/8e/d78e2bd346cfc9640789a40864360dca3044444372db38d105d8b119d8a868d0/original.tif
+    sha256: d78e2bd346cfc9640789a40864360dca3044444372db38d105d8b119d8a868d0
+    mime: image/tiff
+    bytes: 27213894
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/8e/d78e2bd346cfc9640789a40864360dca3044444372db38d105d8b119d8a868d0/preview-400.a75e268e30ff.jpg
+        sha256: a75e268e30ffe1e88f59bdf5af20c90ec64e1d0273d3a8fff9ee2fc454a19a59
+        mime: image/jpeg
+        bytes: 32867
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

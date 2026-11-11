@@ -1,0 +1,49 @@
+id: 01GYMG70DX8FAY89PV9A5T9J4K
+type: image
+subtype: photo
+title: Kindergarten in Wootz
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1997"
+location: Kapern, Mühlenweg
+geocode:
+  lat: 52.9175
+  lon: 11.6773
+  precision: street
+  source: osm
+origin:
+  name: Dieter Hennings
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro/Mappe 11/083
+subjects:
+  - name: Fastnacht 1997
+    type: event
+  - name: Sturmschaden 1997
+    type: event
+parents:
+  - 01KF2B6TP54JC25MG4X17B6G6E
+files:
+  - role: main
+    original_name: DSC5999.jpg
+    path: files/41/e7/41e7ea6b92a741c910ef5864c5542a0820881f84b7144e26f8cb47e1194dd985/original.jpg
+    sha256: 41e7ea6b92a741c910ef5864c5542a0820881f84b7144e26f8cb47e1194dd985
+    mime: image/jpeg
+    bytes: 22603155
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/41/e7/41e7ea6b92a741c910ef5864c5542a0820881f84b7144e26f8cb47e1194dd985/preview-400.eb4dcd98365a.jpg
+        sha256: eb4dcd98365a90074c11320447b25a4966aed2cc52c663dc28e3d9408eb38202
+        mime: image/jpeg
+        bytes: 60385
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01FSVMA8ZQ5K6MX8R68PZ84HVP
+type: image
+subtype: drawing
+title: Federzeichnung Friedhofskapelle, Arendsee
+description: Bleistift auf Papier.
+date: 189X
+location: Lüchow, Burgstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 27/238
+subjects:
+  - name: Kapern
+    type: place
+  - name: Bäckerei Lüders
+    type: building
+files:
+  - role: main
+    original_name: scan_042.tif
+    path: files/b7/cb/b7cb6bc4b47cccaf77c723a52a603f1bebc8b65128510465c679911a189a6c5f/original.tif
+    sha256: b7cb6bc4b47cccaf77c723a52a603f1bebc8b65128510465c679911a189a6c5f
+    mime: image/tiff
+    bytes: 1312928
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b7/cb/b7cb6bc4b47cccaf77c723a52a603f1bebc8b65128510465c679911a189a6c5f/preview-400.98c185e9c0b7.jpg
+        sha256: 98c185e9c0b79048e6f922fc65c10c372b64bc41de8194f16bdf7ced0d880dcf
+        mime: image/jpeg
+        bytes: 37706
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

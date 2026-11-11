@@ -1,0 +1,40 @@
+id: 01HKNDDGFB4RYPERFTX309M768
+type: image
+subtype: photo
+title: Käthe Dreyer, Porträt
+description: Farbfoto, leicht verblasst.
+date: "1968"
+location: Arendsee, Marktstraße
+geocode:
+  lat: 53.0583
+  lon: 11.6846
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg/Mappe 9/003
+parents:
+  - 01HGWAATSHSQJT69MF82EV6W37
+files:
+  - role: main
+    original_name: IMG_4841.jpg
+    path: files/c6/52/c652ba1bd4ba46654469ad9220c3db58151e940abf563f0211fd45be43ebb561/original.jpg
+    sha256: c652ba1bd4ba46654469ad9220c3db58151e940abf563f0211fd45be43ebb561
+    mime: image/jpeg
+    bytes: 22301044
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/c6/52/c652ba1bd4ba46654469ad9220c3db58151e940abf563f0211fd45be43ebb561/preview-400.a8ad506d0035.jpg
+        sha256: a8ad506d0035b439989cc1cf07065991b6e0d9382a294d2b58b035ece9ee7e05
+        mime: image/jpeg
+        bytes: 47733
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

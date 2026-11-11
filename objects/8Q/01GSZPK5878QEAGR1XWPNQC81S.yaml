@@ -1,0 +1,37 @@
+id: 01GSZPK5878QEAGR1XWPNQC81S
+type: image
+subtype: plan
+title: Deichplan Lüchow bis Gülden
+description: Tusche auf Transparentpapier.
+date: 1975~
+origin:
+  name: Erika Schulz
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Brunnen am Markt
+    type: building
+  - name: Gollensdorf
+    type: place
+  - name: Hans Brandt
+    type: person
+files:
+  - role: main
+    original_name: scan_234.tif
+    path: files/0a/b3/0ab32e3e59caaa5f5edae9259f7b67bef007243999ce60b5d3c00ce70f3b3cfa/original.tif
+    sha256: 0ab32e3e59caaa5f5edae9259f7b67bef007243999ce60b5d3c00ce70f3b3cfa
+    mime: image/tiff
+    bytes: 21836538
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0a/b3/0ab32e3e59caaa5f5edae9259f7b67bef007243999ce60b5d3c00ce70f3b3cfa/preview-400.1fbf4aee6137.jpg
+        sha256: 1fbf4aee61373e48abe5f4fa79d129dfbaace4139f2fc9ad0d719d5095f3369f
+        mime: image/jpeg
+        bytes: 66421
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

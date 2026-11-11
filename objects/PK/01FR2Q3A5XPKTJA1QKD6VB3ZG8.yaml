@@ -1,0 +1,32 @@
+id: 01FR2Q3A5XPKTJA1QKD6VB3ZG8
+type: image
+subtype: print
+title: Lithographie Mühle
+description: Kupferstich, koloriert.
+date: 1941-11
+origin:
+  name: Jürgen Pape
+  type: person
+  location: Lenzen
+parents:
+  - 01FGVBASJXHEH355K2B76NTT5V
+files:
+  - role: main
+    original_name: scan_632.tif
+    path: files/fc/ad/fcadf8c9423e4c77c1d365af8f6356d88ec72b1063217b69ee3f1adb7b302626/original.tif
+    sha256: fcadf8c9423e4c77c1d365af8f6356d88ec72b1063217b69ee3f1adb7b302626
+    mime: image/tiff
+    bytes: 676859
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fc/ad/fcadf8c9423e4c77c1d365af8f6356d88ec72b1063217b69ee3f1adb7b302626/preview-400.26b16ae1820d.jpg
+        sha256: 26b16ae1820d5523960c359486168fe1b42175bdba9f5eedc4f85088436b040c
+        mime: image/jpeg
+        bytes: 32549
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

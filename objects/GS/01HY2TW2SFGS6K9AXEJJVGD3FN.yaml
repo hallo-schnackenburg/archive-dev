@@ -1,0 +1,38 @@
+id: 01HY2TW2SFGS6K9AXEJJVGD3FN
+type: image
+subtype: photo
+title: Ernst Ahrens, Porträt
+date: 1967-03-15
+origin:
+  name: Hans Ludolf
+  type: person
+  location: Arendsee
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Scheune
+    type: building
+  - name: Hedwig Harms
+    type: person
+parents:
+  - 01FHXWS77V11495NM60GV2NEPP
+files:
+  - role: main
+    original_name: DSC5149.jpg
+    path: files/3f/23/3f23f3847a4bd3651edd3104c11dc4f1f31071329a1f276a0a72c7f7a3fe72ed/original.jpg
+    sha256: 3f23f3847a4bd3651edd3104c11dc4f1f31071329a1f276a0a72c7f7a3fe72ed
+    mime: image/jpeg
+    bytes: 19593217
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/3f/23/3f23f3847a4bd3651edd3104c11dc4f1f31071329a1f276a0a72c7f7a3fe72ed/preview-400.370af69577ab.jpg
+        sha256: 370af69577ab8bcf64bc99bd727091cd056d40a9d424149f8721c88f664d4da5
+        mime: image/jpeg
+        bytes: 83073
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

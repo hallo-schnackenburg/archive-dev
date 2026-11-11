@@ -1,0 +1,39 @@
+id: 01GFBJ4VQCMN7R8JBT2EFR2WDZ
+type: image
+subtype: print
+title: Postkarte Wittenberge, Backhaus
+date: 1808/1819
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Gartow
+    type: place
+  - name: Arendsee
+    type: place
+files:
+  - role: main
+    original_name: scan_062.tif
+    path: files/1b/da/1bdad20de9d44eb477fc7b55306d2de76df8fa2cb0ffae3c9478238ce44994f4/original.tif
+    sha256: 1bdad20de9d44eb477fc7b55306d2de76df8fa2cb0ffae3c9478238ce44994f4
+    mime: image/tiff
+    bytes: 8272263
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1b/da/1bdad20de9d44eb477fc7b55306d2de76df8fa2cb0ffae3c9478238ce44994f4/preview-400.2c2a17383c03.jpg
+        sha256: 2c2a17383c03044b8d8ca58b12b4592c7a65397dfb6cfe940a3b829a330c2465
+        mime: image/jpeg
+        bytes: 71544
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

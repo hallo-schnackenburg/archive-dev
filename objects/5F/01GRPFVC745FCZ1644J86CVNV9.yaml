@@ -1,0 +1,37 @@
+id: 01GRPFVC745FCZ1644J86CVNV9
+type: image
+subtype: photo
+title: Bäckerei Lüders nach dem Eisgang
+date: "1981"
+location: Laase, Feuerwehrhaus
+geocode:
+  lat: 53.0046
+  lon: 11.6659
+  precision: exact
+  source: osm
+origin:
+  name: Gerda Wegner
+  type: person
+  location: Zadrau
+parents:
+  - 01KY67T3MSFRGXDQ3PZ5V1DRZF
+files:
+  - role: main
+    original_name: IMG_7032.jpg
+    path: files/82/0c/820cc19e95c9d97250d47f0e6710cb44540b1e25c86e42f7044cbafde3cab434/original.jpg
+    sha256: 820cc19e95c9d97250d47f0e6710cb44540b1e25c86e42f7044cbafde3cab434
+    mime: image/jpeg
+    bytes: 21126348
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/82/0c/820cc19e95c9d97250d47f0e6710cb44540b1e25c86e42f7044cbafde3cab434/preview-400.093333fadeb6.jpg
+        sha256: 093333fadeb6957d8ab7d91aeebdca15c6868e69eb687b660a9def3cf13aff14
+        mime: image/jpeg
+        bytes: 55531
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

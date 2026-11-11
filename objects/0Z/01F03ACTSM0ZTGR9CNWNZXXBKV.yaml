@@ -1,0 +1,37 @@
+id: 01F03ACTSM0ZTGR9CNWNZXXBKV
+type: image
+subtype: print
+title: Postkarte Laase, Poststelle
+description: Lithographie, Rand beschnitten.
+date: 1900-02-15
+location: Laase, Hinter den Höfen
+origin:
+  name: Bernd Ahrens
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro/Mappe 3/030
+files:
+  - role: main
+    original_name: scan_015.tif
+    path: files/d9/fb/d9fbc8718482529e933c9627c3a4eaf88be9103664bef446d494ccea7b1da86a/original.tif
+    sha256: d9fbc8718482529e933c9627c3a4eaf88be9103664bef446d494ccea7b1da86a
+    mime: image/tiff
+    bytes: 18777645
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d9/fb/d9fbc8718482529e933c9627c3a4eaf88be9103664bef446d494ccea7b1da86a/preview-400.c80ab8b44dd7.jpg
+        sha256: c80ab8b44dd7bcca82f23c56067e3a20efc454b39e890a14a81c8aa7809873e7
+        mime: image/jpeg
+        bytes: 36851
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

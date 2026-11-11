@@ -1,0 +1,44 @@
+id: 01H480XY72SPAH7KZC684431R2
+type: image
+subtype: photo
+title: Paul Krüger, Porträt
+description: Aufnahme von Heinrich Bohlmann.
+date: "1940"
+location: Wittenberge, Burgstraße
+origin:
+  name: Walter Lemke
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 12/104
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Bahnhof
+    type: building
+parents:
+  - 01KSS5WSKYD8DQE3452TFH91F6
+files:
+  - role: main
+    original_name: IMG_0283.jpg
+    path: files/e0/8f/e08f86453a6a0664dd214b6270f11fc7486fc6ad85244884f5b317c887d8fffa/original.jpg
+    sha256: e08f86453a6a0664dd214b6270f11fc7486fc6ad85244884f5b317c887d8fffa
+    mime: image/jpeg
+    bytes: 7671303
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/e0/8f/e08f86453a6a0664dd214b6270f11fc7486fc6ad85244884f5b317c887d8fffa/preview-400.9b7015b9813f.jpg
+        sha256: 9b7015b9813fa064ffeff87057c5d3cd8239fdbf00b4cbf0160c1fa5909d70fe
+        mime: image/jpeg
+        bytes: 46212
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

@@ -1,0 +1,37 @@
+id: 01JXFCD0RHQ6WVC1G2R2Q6F2A7
+type: image
+subtype: print
+title: Postkarte Seedorf, Ladestraße
+date: 1833-07
+location: Hitzacker, Elbdeich
+geocode:
+  lat: 52.9906
+  lon: 11.6893
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 23/256
+files:
+  - role: main
+    original_name: scan_716.tif
+    path: files/e8/77/e87741a502ed770036f2667a0033d3c72e4b3bd898991fc4e394d2b74b7d59f6/original.tif
+    sha256: e87741a502ed770036f2667a0033d3c72e4b3bd898991fc4e394d2b74b7d59f6
+    mime: image/tiff
+    bytes: 22260065
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/77/e87741a502ed770036f2667a0033d3c72e4b3bd898991fc4e394d2b74b7d59f6/preview-400.8416ed22f732.jpg
+        sha256: 8416ed22f732901d4d2fd1f30b9e66ac3307d80b1b32c6f5b757190037165dc7
+        mime: image/jpeg
+        bytes: 82165
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

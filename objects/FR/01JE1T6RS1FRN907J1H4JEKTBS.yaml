@@ -1,0 +1,49 @@
+id: 01JE1T6RS1FRN907J1H4JEKTBS
+type: image
+subtype: print
+title: Postkarte Wittenberge, Dorfkrug
+description: Kupferstich, koloriert.
+date: 1802-09
+location: Havelberg, Marktstraße
+geocode:
+  lat: 52.9589
+  lon: 11.6884
+  precision: street
+  source: osm
+origin:
+  name: Berta Sievers
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 18/008
+subjects:
+  - name: Viehmarkt 1802
+    type: event
+  - name: Kartoffelernte 1802
+    type: event
+parents:
+  - 01JDKHA5MPQ8XVK9JCT9CYCPDT
+files:
+  - role: main
+    original_name: scan_097.tif
+    path: files/ff/e7/ffe721db487cabeefe90cd292e42d8286964482d75787a4495d1836982ec5778/original.tif
+    sha256: ffe721db487cabeefe90cd292e42d8286964482d75787a4495d1836982ec5778
+    mime: image/tiff
+    bytes: 5067817
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/e7/ffe721db487cabeefe90cd292e42d8286964482d75787a4495d1836982ec5778/preview-400.ca4d5ed7df56.jpg
+        sha256: ca4d5ed7df56cd60099995740bbb7d533b946f90dfdb1cbe6d6bab7599651148
+        mime: image/jpeg
+        bytes: 80514
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

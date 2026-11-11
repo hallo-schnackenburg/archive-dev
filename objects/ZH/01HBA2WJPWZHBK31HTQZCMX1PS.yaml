@@ -1,0 +1,45 @@
+id: 01HBA2WJPWZHBK31HTQZCMX1PS
+type: image
+subtype: photo
+title: Dorffest der Bürgerverein
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1958"
+location: Hitzacker, Bahnhof
+geocode:
+  lat: 53.0501
+  lon: 11.6412
+  precision: region
+  source: osm
+origin:
+  name: Karl Dreyer
+  type: person
+  location: Seedorf
+subjects:
+  - name: Osterfeuer 1958
+    type: event
+  - name: Erika Rieke
+    type: person
+  - name: Rudolf Lemke
+    type: person
+parents:
+  - 01G8B1RBKCP0JCJ0TQ3WYMBBPZ
+files:
+  - role: main
+    original_name: scan_669.tif
+    path: files/3e/19/3e195273794551bd842305c21d19928428ca9625539ffba673ca07aef3dd01ca/original.tif
+    sha256: 3e195273794551bd842305c21d19928428ca9625539ffba673ca07aef3dd01ca
+    mime: image/tiff
+    bytes: 9988906
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/19/3e195273794551bd842305c21d19928428ca9625539ffba673ca07aef3dd01ca/preview-400.146b6576c186.jpg
+        sha256: 146b6576c186a1e42e002c4f24f515c35a59f214e103be6f6462be7176cb34d3
+        mime: image/jpeg
+        bytes: 74043
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01KNFTRNPSGJE8KVJ05XKJMCJN
+type: image
+subtype: photo
+title: Fähranleger nach dem Sturmschaden
+date: 1928?
+location: Dömitz, Schlachterei
+origin:
+  name: Helga Brandt
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Scheune
+    type: building
+  - name: Heinrich Wiegmann
+    type: person
+  - name: Fährjubiläum 1928
+    type: event
+parents:
+  - 01JR4AKNGZNYFV9JQXZ29K40BD
+  - 01GZR4MDFA5EQY40GSVWP94FQ3
+files:
+  - role: main
+    original_name: P2735.jpg
+    path: files/ea/fb/eafbba64c65a45b843665746ba4dd660c1346d7189bc9578bbfd5baa5f016f33/original.jpg
+    sha256: eafbba64c65a45b843665746ba4dd660c1346d7189bc9578bbfd5baa5f016f33
+    mime: image/jpeg
+    bytes: 20405146
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/ea/fb/eafbba64c65a45b843665746ba4dd660c1346d7189bc9578bbfd5baa5f016f33/preview-400.ca30e4548192.jpg
+        sha256: ca30e4548192880f9115585a2166bec582e8f0a524eca31a7d4c8d663a087911
+        mime: image/jpeg
+        bytes: 65692
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

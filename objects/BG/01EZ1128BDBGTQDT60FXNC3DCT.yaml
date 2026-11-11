@@ -1,0 +1,40 @@
+id: 01EZ1128BDBGTQDT60FXNC3DCT
+type: image
+subtype: plan
+title: Bauplan Kriegerdenkmal 1802
+description: Maßstab 1:500.
+date: 1802-12-16
+location: Dömitz, Backhaus
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro/Album 20/103
+subjects:
+  - name: Erika Rieke
+    type: person
+  - name: Rüterberg
+    type: place
+  - name: Hochzeit 1802
+    type: event
+files:
+  - role: main
+    original_name: scan_704.tif
+    path: files/34/f0/34f0e39dcf2b00d24139c6d1bc18cfb6b2891e6015d6ef10eb2bba2bc61d71f6/original.tif
+    sha256: 34f0e39dcf2b00d24139c6d1bc18cfb6b2891e6015d6ef10eb2bba2bc61d71f6
+    mime: image/tiff
+    bytes: 8075957
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/34/f0/34f0e39dcf2b00d24139c6d1bc18cfb6b2891e6015d6ef10eb2bba2bc61d71f6/preview-400.0a5f28e2afaf.jpg
+        sha256: 0a5f28e2afaf816089096cc0cb219bd14dfffbb459fdb27918ea9d88614d9ede
+        mime: image/jpeg
+        bytes: 55573
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

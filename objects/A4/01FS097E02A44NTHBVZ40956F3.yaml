@@ -1,0 +1,30 @@
+id: 01FS097E02A44NTHBVZ40956F3
+type: image
+subtype: drawing
+title: Skizze Lüchow, Hafenstraße
+date: "1982"
+location: Havelberg, Deichstraße
+origin:
+  name: Wilhelm Plate
+  type: person
+  location: Hitzacker
+files:
+  - role: main
+    original_name: scan_533.tif
+    path: files/2d/89/2d8943f6776a20e2d7f72eb6ea05ab708d995e24ff0101d9d297038b56a12a09/original.tif
+    sha256: 2d8943f6776a20e2d7f72eb6ea05ab708d995e24ff0101d9d297038b56a12a09
+    mime: image/tiff
+    bytes: 2322200
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2d/89/2d8943f6776a20e2d7f72eb6ea05ab708d995e24ff0101d9d297038b56a12a09/preview-400.921fe28d91eb.jpg
+        sha256: 921fe28d91eb8db9d116c90b33e0944a28f4180a54cf3245ca49895214593f98
+        mime: image/jpeg
+        bytes: 63741
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

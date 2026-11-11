@@ -1,0 +1,35 @@
+id: 01G6E25A2RWFZ050TSMYT3SMFM
+type: image
+subtype: plan
+title: Bauplan Schlachterei 1928
+date: 1928-03
+location: Wustrow, Rathaus
+origin:
+  name: Gerda Meyer
+  type: person
+  location: Laase
+subjects:
+  - name: Kartoffelernte 1928
+    type: event
+  - name: Ziegelei
+    type: building
+files:
+  - role: main
+    original_name: scan_731.tif
+    path: files/47/b5/47b5b30ad949d4fadc9c6d4eb866ce78d275e2775a4e3eeb7fdef3f25297fe45/original.tif
+    sha256: 47b5b30ad949d4fadc9c6d4eb866ce78d275e2775a4e3eeb7fdef3f25297fe45
+    mime: image/tiff
+    bytes: 12671617
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/47/b5/47b5b30ad949d4fadc9c6d4eb866ce78d275e2775a4e3eeb7fdef3f25297fe45/preview-400.da91c92cd80c.jpg
+        sha256: da91c92cd80c1eca24fb59e03ceed85558ab5a84e8a314dc50cc8ae622595bfb
+        mime: image/jpeg
+        bytes: 21062
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

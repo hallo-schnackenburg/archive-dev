@@ -1,0 +1,40 @@
+id: 01GBJJ07JP2808H67A9FVJPTRG
+type: image
+subtype: drawing
+title: Federzeichnung Heuberge, Schnackenburg
+description: Bleistift auf Papier.
+date: 1837-01-06
+location: Nienwalde, Hinter den Höfen
+origin:
+  name: Ilse Burmester
+  type: person
+  location: Cumlosen
+owner:
+  name: Heinrich Bohlmann
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Dorfteich
+    type: building
+parents:
+  - 01JBC9B9VKQH5QPSKH6RMD1TRT
+files:
+  - role: main
+    original_name: scan_891.tif
+    path: files/1f/c8/1fc857d3e8919351ea886788d6df7f96a3e38cfd5ab7504acc3395ecfa9677e4/original.tif
+    sha256: 1fc857d3e8919351ea886788d6df7f96a3e38cfd5ab7504acc3395ecfa9677e4
+    mime: image/tiff
+    bytes: 27177117
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1f/c8/1fc857d3e8919351ea886788d6df7f96a3e38cfd5ab7504acc3395ecfa9677e4/preview-400.656f54388866.jpg
+        sha256: 656f54388866e80b55258e7084d73d8ed1c7340a565861e70b3d6cb30ae1962f
+        mime: image/jpeg
+        bytes: 33526
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

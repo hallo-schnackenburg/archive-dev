@@ -1,0 +1,40 @@
+id: 01F7KFGJ63JVMSW1KF4V3C9GVR
+type: image
+subtype: photo
+title: Kirchstraße, Ecke Hafenstraße
+date: "1926"
+location: Salzwedel, Kirche St. Johannis
+geocode:
+  lat: 53.051
+  lon: 11.5661
+  precision: town
+  source: osm
+subjects:
+  - name: Feuerwehrübung 1926
+    type: event
+  - name: Wilhelm Voss
+    type: person
+  - name: Deicharbeiten 1926
+    type: event
+parents:
+  - 01JF4KWKVRQTHC2EW4F1D004T1
+files:
+  - role: main
+    original_name: scan_815.tif
+    path: files/8b/b8/8bb8f6298248896b4f8b70ff5b8959063201fc26b2f32ff56b67f7c2d25ca985/original.tif
+    sha256: 8bb8f6298248896b4f8b70ff5b8959063201fc26b2f32ff56b67f7c2d25ca985
+    mime: image/tiff
+    bytes: 12333520
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8b/b8/8bb8f6298248896b4f8b70ff5b8959063201fc26b2f32ff56b67f7c2d25ca985/preview-400.ad4a30be8bac.jpg
+        sha256: ad4a30be8bacbf45aef1c42f35d537f0f18f8d235e7db2e7455d08c459109030
+        mime: image/jpeg
+        bytes: 45126
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

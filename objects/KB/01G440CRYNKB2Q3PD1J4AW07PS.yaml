@@ -1,0 +1,33 @@
+id: 01G440CRYNKB2Q3PD1J4AW07PS
+type: image
+subtype: drawing
+title: Skizze Rüterberg, Burgstraße
+description: Mit Anmerkungen am Rand.
+date: 1955-08
+location: Rüterberg, Hinter den Höfen
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  note: Planschrank, Fach 3
+files:
+  - role: main
+    original_name: scan_591.tif
+    path: files/1d/6e/1d6e2bc67208e697f357c60e9b1ca7ddf4fafee34b104eae6b5c20e4f2ba44f6/original.tif
+    sha256: 1d6e2bc67208e697f357c60e9b1ca7ddf4fafee34b104eae6b5c20e4f2ba44f6
+    mime: image/tiff
+    bytes: 12858683
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/6e/1d6e2bc67208e697f357c60e9b1ca7ddf4fafee34b104eae6b5c20e4f2ba44f6/preview-400.9a4231048049.jpg
+        sha256: 9a4231048049f66eba65b0857d068df83e298cac4e6a6a2a157d11519e184424
+        mime: image/jpeg
+        bytes: 89545
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

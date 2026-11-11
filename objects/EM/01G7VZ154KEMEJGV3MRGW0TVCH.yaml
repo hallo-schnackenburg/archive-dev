@@ -1,0 +1,35 @@
+id: 01G7VZ154KEMEJGV3MRGW0TVCH
+type: image
+subtype: photo
+title: Grenzöffnung 1943
+date: 1943-11-19
+origin:
+  name: Heinrich Hennings
+  type: person
+  location: Kapern
+subjects:
+  - name: Einschulung 1943
+    type: event
+parents:
+  - 01H1BYEG5XEQ1GH8387CWBMF4H
+  - 01G253EGHDFBNP7ZT73WK1Q02J
+files:
+  - role: main
+    original_name: DSC4975.jpg
+    path: files/55/b8/55b88a965ab46dff667d590887ff165b29afd7e092f25b5d88d0fba2f91f0376/original.jpg
+    sha256: 55b88a965ab46dff667d590887ff165b29afd7e092f25b5d88d0fba2f91f0376
+    mime: image/jpeg
+    bytes: 18692997
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/55/b8/55b88a965ab46dff667d590887ff165b29afd7e092f25b5d88d0fba2f91f0376/preview-400.7932c4980529.jpg
+        sha256: 7932c49805299feb06344dcb66d221f80ab2e2354eb3b0eb3b21dc4b56361201
+        mime: image/jpeg
+        bytes: 64877
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

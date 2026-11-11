@@ -1,0 +1,42 @@
+id: 01KBPNHT328Z06R5WXVZNMZCZQ
+type: document
+subtype: note
+title: Rechnung Tiedemann, Tischlerei Bruns
+date: 1935-11-07
+location: Gülden, Mühlenweg
+geocode:
+  lat: 52.9799
+  lon: 11.6822
+  precision: exact
+  source: osm
+language: de
+subjects:
+  - name: Wilhelm Brandt
+    type: person
+  - name: Walter Meyer
+    type: person
+  - name: Ortsbesichtigung 1935
+    type: event
+parents:
+  - 01KCPF76CA7S8G3CA0KXJVYAVA
+files:
+  - role: page
+    num: 1
+    original_name: note_nmzczq_001.tif
+    path: files/5f/a5/5fa55b14ddda7d79a78a11428e96c5e3ccc054a885e8f5d4be110f04b34857d9/original.tif
+    sha256: 5fa55b14ddda7d79a78a11428e96c5e3ccc054a885e8f5d4be110f04b34857d9
+    mime: image/tiff
+    bytes: 12264906
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5f/a5/5fa55b14ddda7d79a78a11428e96c5e3ccc054a885e8f5d4be110f04b34857d9/preview-400.8880e91ef759.jpg
+        sha256: 8880e91ef759749237cebb1a5d19054ea7adad736975185581d5459f13bed918
+        mime: image/jpeg
+        bytes: 37521
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

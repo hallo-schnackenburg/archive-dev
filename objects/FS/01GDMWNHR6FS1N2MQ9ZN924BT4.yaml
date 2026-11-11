@@ -1,0 +1,41 @@
+id: 01GDMWNHR6FS1N2MQ9ZN924BT4
+type: image
+subtype: drawing
+title: Wappenentwurf Havelberg, Gollensdorf
+description: Bleistift auf Papier.
+date: 1902-01-14
+location: Kapern, Ladestraße
+geocode:
+  lat: 52.9402
+  lon: 11.5593
+  precision: street
+  source: osm
+origin:
+  name: Erika Meyer
+  type: person
+  location: Lenzen
+subjects:
+  - name: Kegelbahn
+    type: building
+  - name: Laase
+    type: place
+files:
+  - role: main
+    original_name: scan_393.tif
+    path: files/9d/54/9d54f56796a341ec72dbaa38fa0a5d8b05b3b5d188732f1e95fad5f13a1c8d7d/original.tif
+    sha256: 9d54f56796a341ec72dbaa38fa0a5d8b05b3b5d188732f1e95fad5f13a1c8d7d
+    mime: image/tiff
+    bytes: 21381297
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9d/54/9d54f56796a341ec72dbaa38fa0a5d8b05b3b5d188732f1e95fad5f13a1c8d7d/preview-400.625d456f1aed.jpg
+        sha256: 625d456f1aed9b9ddc73adb72f12d4190a40cca021b4cea76c289a7be0c2c89d
+        mime: image/jpeg
+        bytes: 68211
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

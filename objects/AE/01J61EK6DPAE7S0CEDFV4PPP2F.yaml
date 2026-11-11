@@ -1,0 +1,35 @@
+id: 01J61EK6DPAE7S0CEDFV4PPP2F
+type: image
+subtype: photo
+title: Fastnacht 1951
+description: Farbfoto, leicht verblasst.
+date: 1951/1952
+origin:
+  name: Karl Neumann
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Hochwasser 1951
+    type: event
+parents:
+  - 01HYMCFRJ492VAY6JD2NK5EJ56
+files:
+  - role: main
+    original_name: IMG_8983.jpg
+    path: files/51/ad/51ad5f6ed0db0cb0248fbfdb969fc09005232bcb4c23e26115a89d917977895a/original.jpg
+    sha256: 51ad5f6ed0db0cb0248fbfdb969fc09005232bcb4c23e26115a89d917977895a
+    mime: image/jpeg
+    bytes: 6680379
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/51/ad/51ad5f6ed0db0cb0248fbfdb969fc09005232bcb4c23e26115a89d917977895a/preview-400.0315fba39482.jpg
+        sha256: 0315fba39482a075ee4e9239ad52427212005697620d837db23eb21b9eed5de1
+        mime: image/jpeg
+        bytes: 62790
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

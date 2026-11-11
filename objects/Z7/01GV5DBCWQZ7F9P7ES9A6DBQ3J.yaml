@@ -1,0 +1,37 @@
+id: 01GV5DBCWQZ7F9P7ES9A6DBQ3J
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Lenzen
+date: 1980-06
+location: Gorleben, Dorfstraße
+origin:
+  name: Hans Lemke
+  type: person
+  location: Kapern
+subjects:
+  - name: Försterei
+    type: building
+  - name: Fritz Schulz
+    type: person
+parents:
+  - 01GKCFCDVMB3D019HAA4A20JFD
+files:
+  - role: main
+    original_name: scan_152.tif
+    path: files/0d/b3/0db33dd059685cbd5daf96efc7c984426f88bdfd725a538a79ece331aa0bf94e/original.tif
+    sha256: 0db33dd059685cbd5daf96efc7c984426f88bdfd725a538a79ece331aa0bf94e
+    mime: image/tiff
+    bytes: 8787106
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0d/b3/0db33dd059685cbd5daf96efc7c984426f88bdfd725a538a79ece331aa0bf94e/preview-400.02c994b75e89.jpg
+        sha256: 02c994b75e892d1e864f020a66efd81e0f950c34556c62555951199b64a05fb0
+        mime: image/jpeg
+        bytes: 36807
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

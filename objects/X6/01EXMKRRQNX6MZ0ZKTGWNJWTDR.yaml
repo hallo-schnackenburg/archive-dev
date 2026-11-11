@@ -1,0 +1,38 @@
+id: 01EXMKRRQNX6MZ0ZKTGWNJWTDR
+type: image
+subtype: plan
+title: Deichplan Wootz bis Lenzen
+location: Arendsee, Fachwerkhaus Marktstraße 4
+origin:
+  name: Erika Kuhlmann
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Album 30/065
+parents:
+  - 01J5VEM4DET47BYJHEPTWJ7T8Q
+  - 01GT4AQMYDQV6X3W40VS0A09TX
+files:
+  - role: main
+    original_name: scan_128.tif
+    path: files/c5/54/c5545d4ee4e0132e8fd184723101239c670c0a9e14a7ec982a21f34097272244/original.tif
+    sha256: c5545d4ee4e0132e8fd184723101239c670c0a9e14a7ec982a21f34097272244
+    mime: image/tiff
+    bytes: 3589027
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c5/54/c5545d4ee4e0132e8fd184723101239c670c0a9e14a7ec982a21f34097272244/preview-400.a4aaee6076f4.jpg
+        sha256: a4aaee6076f43327f1fc9bbf38fc0266b97a40209a08aace692f50339f489575
+        mime: image/jpeg
+        bytes: 68314
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

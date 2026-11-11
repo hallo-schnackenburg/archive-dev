@@ -1,0 +1,84 @@
+id: 01KG5XQX3M860Y0GMF3J2AG8Y1
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Hundesteuer 1935
+date: "1935"
+location: Wittenberge, Apotheke
+geocode:
+  lat: 52.9634
+  lon: 11.598
+  precision: exact
+  source: osm
+origin:
+  name: Finanzausschuss Holtorf
+  type: business
+  location: Holtorf
+language: de
+original:
+  holder:
+    name: Familie Voss
+    type: person
+    location: Gorleben
+parents:
+  - 01FEEW1K0P7657HFN4R8JBV1AC
+files:
+  - role: page
+    num: 1
+    original_name: protocol_2ag8y1_001.tif
+    path: files/f4/8c/f48cdcaaeb26d2cdf94c84547700ce1a7828ba72f43be1a101e87f2856b72230/original.tif
+    sha256: f48cdcaaeb26d2cdf94c84547700ce1a7828ba72f43be1a101e87f2856b72230
+    mime: image/tiff
+    bytes: 21016854
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f4/8c/f48cdcaaeb26d2cdf94c84547700ce1a7828ba72f43be1a101e87f2856b72230/preview-400.7df6fdca8497.jpg
+        sha256: 7df6fdca84978ef140426c394d148c44898729782c73502ae527cf5d7c1bd864
+        mime: image/jpeg
+        bytes: 84126
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_2ag8y1_002.tif
+    path: files/c8/8c/c88ccceeaa6d87fa611727ce42843ed1705b8547703feade43e1a80819ce4922/original.tif
+    sha256: c88ccceeaa6d87fa611727ce42843ed1705b8547703feade43e1a80819ce4922
+    mime: image/tiff
+    bytes: 25738386
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/8c/c88ccceeaa6d87fa611727ce42843ed1705b8547703feade43e1a80819ce4922/preview-400.8dae64ba302e.jpg
+        sha256: 8dae64ba302e0b934df4b5fca3941028d44c11b0a43a8cf6c1a7d9b66b1471c9
+        mime: image/jpeg
+        bytes: 36366
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_2ag8y1_003.tif
+    path: files/2d/c4/2dc451a67773a56bc6a9b16683e1474f6f828c2ca8f54561f83bcce08d7f5f1e/original.tif
+    sha256: 2dc451a67773a56bc6a9b16683e1474f6f828c2ca8f54561f83bcce08d7f5f1e
+    mime: image/tiff
+    bytes: 18918826
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/c4/2dc451a67773a56bc6a9b16683e1474f6f828c2ca8f54561f83bcce08d7f5f1e/preview-400.b952d01b8102.jpg
+        sha256: b952d01b81027abba9305a07ce1689a9b33ae9091fb19523039f76f9c7f4638b
+        mime: image/jpeg
+        bytes: 87733
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

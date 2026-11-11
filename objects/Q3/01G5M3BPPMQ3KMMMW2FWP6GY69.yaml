@@ -1,0 +1,43 @@
+id: 01G5M3BPPMQ3KMMMW2FWP6GY69
+type: image
+subtype: plan
+title: Katasterblatt Wiegmann
+date: "1863"
+location: Holtorf, Badestelle
+geocode:
+  lat: 53.0585
+  lon: 11.6841
+  precision: town
+  source: osm
+origin:
+  name: Otto Rohde
+  type: person
+  location: Gartow
+subjects:
+  - name: Gartow
+    type: place
+  - name: Dieter Plate
+    type: person
+parents:
+  - 01GKNYMFKHFES83J477ZEHD22T
+  - 01H5HMCYV3GS9H3ZBJZMHBTPJV
+files:
+  - role: main
+    original_name: scan_403.tif
+    path: files/90/21/9021ebd588ba497cf0b1e9ea17ac73a4dfd30173ffee6a2e6978a3f9fe3cfaf9/original.tif
+    sha256: 9021ebd588ba497cf0b1e9ea17ac73a4dfd30173ffee6a2e6978a3f9fe3cfaf9
+    mime: image/tiff
+    bytes: 15414940
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/90/21/9021ebd588ba497cf0b1e9ea17ac73a4dfd30173ffee6a2e6978a3f9fe3cfaf9/preview-400.c2e3d458471e.jpg
+        sha256: c2e3d458471ea4bd503d666a0b89a8bf72b746a95f3901a13ac0bec78ed24dfa
+        mime: image/jpeg
+        bytes: 49063
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

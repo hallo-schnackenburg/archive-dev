@@ -1,0 +1,44 @@
+id: 01H2KQQT6JVXHT2H2VBVY6QAGK
+type: image
+subtype: photo
+title: Familie Schwarz beim Sturmschaden
+date: 1890-12
+location: Wootz, Bahnhofstraße
+geocode:
+  lat: 53.0139
+  lon: 11.6852
+  precision: street
+  source: osm
+origin:
+  name: Dieter Ludolf
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro/Mappe 17/111
+subjects:
+  - name: Feuerwehrübung 1890
+    type: event
+files:
+  - role: main
+    original_name: P8873.jpg
+    path: files/29/98/2998ee0dfaad52b1b5dbab8099c8bc880bcb2fa7c9ffc40172c3d95b7820b55c/original.jpg
+    sha256: 2998ee0dfaad52b1b5dbab8099c8bc880bcb2fa7c9ffc40172c3d95b7820b55c
+    mime: image/jpeg
+    bytes: 14576061
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/29/98/2998ee0dfaad52b1b5dbab8099c8bc880bcb2fa7c9ffc40172c3d95b7820b55c/preview-400.345201dfe910.jpg
+        sha256: 345201dfe91078f421abd288efd6e220dc0f97f2254b6ce5de3b2c0c88fe3af6
+        mime: image/jpeg
+        bytes: 34332
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

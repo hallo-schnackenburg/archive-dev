@@ -1,0 +1,34 @@
+id: 01EYA1KWEYZNN1KCRJ1TJF5SFM
+type: image
+subtype: print
+title: Postkarte Havelberg, Schützenhaus
+description: Lithographie, Rand beschnitten.
+date: 1945-04-24
+location: Seedorf, Bahnhof
+geocode:
+  lat: 53.098
+  lon: 11.649
+  precision: town
+  source: osm
+parents:
+  - 01KQE2MVHCH023HXPRAKNXXJ2W
+files:
+  - role: main
+    original_name: scan_929.tif
+    path: files/8a/cf/8acf6b66dcacc850d0b7bb834de3cc51834dfcfd8c3beaf9bb5f7daec6948df6/original.tif
+    sha256: 8acf6b66dcacc850d0b7bb834de3cc51834dfcfd8c3beaf9bb5f7daec6948df6
+    mime: image/tiff
+    bytes: 14392874
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8a/cf/8acf6b66dcacc850d0b7bb834de3cc51834dfcfd8c3beaf9bb5f7daec6948df6/preview-400.3cb58feeceea.jpg
+        sha256: 3cb58feeceeaa41cbdc22a6384876dd29da6d8b673cb18c0200020558b5d43cb
+        mime: image/jpeg
+        bytes: 43556
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

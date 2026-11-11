@@ -1,0 +1,39 @@
+id: 01FHNYRH0K41DQHYJWTSVPGHK3
+type: image
+subtype: plan
+title: Bauplan Dorfladen 1880
+description: Maßstab 1:1000.
+date: 188X
+location: Gollensdorf, Mühlenweg
+origin:
+  name: Gustav Wegner
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Familie Eggers
+    type: person
+    location: Pretzier
+  reference: Dok 16/272
+parents:
+  - 01HZ7W7GMZ9EC1Q7AQ30WK8PZ0
+files:
+  - role: main
+    original_name: scan_139.tif
+    path: files/56/27/5627eec96e8b853f87b0df9fa66016fa8ab8abd98e08a235546c3616684152e7/original.tif
+    sha256: 5627eec96e8b853f87b0df9fa66016fa8ab8abd98e08a235546c3616684152e7
+    mime: image/tiff
+    bytes: 3541669
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/56/27/5627eec96e8b853f87b0df9fa66016fa8ab8abd98e08a235546c3616684152e7/preview-400.d131a7c87b9e.jpg
+        sha256: d131a7c87b9e94944c03c0637826c585ab40bc30b8dbfecc83ab1590da7913b5
+        mime: image/jpeg
+        bytes: 83604
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

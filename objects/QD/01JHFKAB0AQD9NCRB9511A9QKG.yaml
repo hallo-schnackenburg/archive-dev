@@ -1,0 +1,39 @@
+id: 01JHFKAB0AQD9NCRB9511A9QKG
+type: image
+subtype: plan
+title: Katasterblatt Brandt, Havelberg
+description: Tusche auf Transparentpapier.
+date: 1923-01-20
+location: Holtorf, Kirchstraße
+geocode:
+  lat: 53.0365
+  lon: 11.6275
+  precision: exact
+  source: osm
+subjects:
+  - name: Gemeindehaus
+    type: building
+  - name: Straßenfest 1923
+    type: event
+  - name: Dorffest 1923
+    type: event
+files:
+  - role: main
+    original_name: scan_817.tif
+    path: files/f0/45/f0459e7443047c06e0f2aee0534da99b109aadf33cca15a1deb8dcdad34ff5b6/original.tif
+    sha256: f0459e7443047c06e0f2aee0534da99b109aadf33cca15a1deb8dcdad34ff5b6
+    mime: image/tiff
+    bytes: 7017596
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/45/f0459e7443047c06e0f2aee0534da99b109aadf33cca15a1deb8dcdad34ff5b6/preview-400.9e3ec532c883.jpg
+        sha256: 9e3ec532c883cf22200e800529ec166179d0038d5c13eca3bc274ca8d851fb4a
+        mime: image/jpeg
+        bytes: 46450
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,66 @@
+id: 01M1BT0426S8V1XEDM0E8NFW9K
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Laase 1843
+date: 1843/1847
+origin:
+  name: Samtgemeinderat Nienwalde
+  type: business
+  location: Gollensdorf
+language: de
+original:
+  holder:
+    name: Familie Plate
+    type: person
+    location: Holtorf
+  reference: Slg/Mappe 28/074
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Dorfteich
+    type: building
+  - name: Gerda Dreyer
+    type: person
+parents:
+  - 01FFXT95F2XCPVJ6NKJMCYEVVA
+files:
+  - role: page
+    num: 1
+    original_name: protocol_8nfw9k_001.tif
+    path: files/b4/4d/b44dd69717a7886c109ac4af3c7c13140925d1c6cf2df9410619d096e07d19ca/original.tif
+    sha256: b44dd69717a7886c109ac4af3c7c13140925d1c6cf2df9410619d096e07d19ca
+    mime: image/tiff
+    bytes: 25664074
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/4d/b44dd69717a7886c109ac4af3c7c13140925d1c6cf2df9410619d096e07d19ca/preview-400.029110a403ea.jpg
+        sha256: 029110a403ea951654f04b015e015bc9f868ef1fa3e5ea89bfc4790f86b007e0
+        mime: image/jpeg
+        bytes: 71748
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_8nfw9k_002.tif
+    path: files/d2/db/d2db0450f3b4c6e3ebdb6b2c6e99a63d88ae8aa14d5155f9cfdf02bf82d7c76b/original.tif
+    sha256: d2db0450f3b4c6e3ebdb6b2c6e99a63d88ae8aa14d5155f9cfdf02bf82d7c76b
+    mime: image/tiff
+    bytes: 24128299
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d2/db/d2db0450f3b4c6e3ebdb6b2c6e99a63d88ae8aa14d5155f9cfdf02bf82d7c76b/preview-400.9ef6c35019b8.jpg
+        sha256: 9ef6c35019b885c2e3f55ef41cb1322e02199744582cf6cd913b20c4d43ca89d
+        mime: image/jpeg
+        bytes: 34744
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

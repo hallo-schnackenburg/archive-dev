@@ -1,0 +1,34 @@
+id: 01HZPMKA01BPVTVWQ830YTEZPK
+type: image
+subtype: print
+title: "Kupferstich: Cumlosen von der Elbseite"
+date: 1835-01-26
+origin:
+  name: Elfriede Garms
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Ladestraße
+    type: building
+parents:
+  - 01GG9H557FNKNNHZ67KS9WW423
+files:
+  - role: main
+    original_name: scan_343.tif
+    path: files/e2/59/e2593bc9f45ba73b188c6d3bf991ac8f54846034cfa38d87bb5f4c1cf1114f20/original.tif
+    sha256: e2593bc9f45ba73b188c6d3bf991ac8f54846034cfa38d87bb5f4c1cf1114f20
+    mime: image/tiff
+    bytes: 18665578
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e2/59/e2593bc9f45ba73b188c6d3bf991ac8f54846034cfa38d87bb5f4c1cf1114f20/preview-400.83ca4805ba4c.jpg
+        sha256: 83ca4805ba4c878896a3be05bfdaf41f8209f35b4963d387462f78beaf31a71a
+        mime: image/jpeg
+        bytes: 23575
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

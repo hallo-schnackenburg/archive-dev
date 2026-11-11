@@ -1,0 +1,47 @@
+id: 01KT0K1YN2PN6WD8PW864B1ETH
+type: image
+subtype: photo
+title: Dorfschule nach dem Maifeier
+date: 1958-05
+location: Gorleben, Deichstraße
+geocode:
+  lat: 53.0519
+  lon: 11.4958
+  precision: region
+  source: osm
+origin:
+  name: Irmgard Ahrens
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Weihnachtsmarkt 1958
+    type: event
+  - name: Erika Rieke
+    type: person
+files:
+  - role: main
+    original_name: IMG_7881.jpg
+    path: files/f3/70/f370e19a4b23cb26eec19f0ce0ec729dc399bc65cbabb4ec95357b9f8ed2da83/original.jpg
+    sha256: f370e19a4b23cb26eec19f0ce0ec729dc399bc65cbabb4ec95357b9f8ed2da83
+    mime: image/jpeg
+    bytes: 5357100
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/f3/70/f370e19a4b23cb26eec19f0ce0ec729dc399bc65cbabb4ec95357b9f8ed2da83/preview-400.1156316498c6.jpg
+        sha256: 1156316498c688ff099222ba46a3640df7b6439726af35bfd07ff6875e6e489f
+        mime: image/jpeg
+        bytes: 38093
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

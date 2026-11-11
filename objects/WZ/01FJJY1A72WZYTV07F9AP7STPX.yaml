@@ -1,0 +1,39 @@
+id: 01FJJY1A72WZYTV07F9AP7STPX
+type: image
+subtype: drawing
+title: Skizze Cumlosen, Gartenstraße
+description: Bleistift auf Papier.
+date: 1900/1908
+location: Wootz, Schulstraße
+geocode:
+  lat: 52.9111
+  lon: 11.6049
+  precision: region
+  source: osm
+origin:
+  name: Lotte Bruns
+  type: person
+  location: Gorleben
+parents:
+  - 01JPMD8F3VGY301NNB2HGSHFGR
+  - 01EYD0F18CY2V0SS2SY7TJVC0D
+files:
+  - role: main
+    original_name: scan_084.tif
+    path: files/82/b5/82b5c62fb9f5b2a5c7d87386a6eb79bc4930fe7837fab267c2212ff906b26621/original.tif
+    sha256: 82b5c62fb9f5b2a5c7d87386a6eb79bc4930fe7837fab267c2212ff906b26621
+    mime: image/tiff
+    bytes: 15280371
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/82/b5/82b5c62fb9f5b2a5c7d87386a6eb79bc4930fe7837fab267c2212ff906b26621/preview-400.6327b2920b43.jpg
+        sha256: 6327b2920b43c31b8868607ca929f4f3dac792f9a4a02027c76b498b1634ed90
+        mime: image/jpeg
+        bytes: 22041
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

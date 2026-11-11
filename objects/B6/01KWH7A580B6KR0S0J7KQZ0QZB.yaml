@@ -1,0 +1,39 @@
+id: 01KWH7A580B6KR0S0J7KQZ0QZB
+type: image
+subtype: plan
+title: Bauplan Friedhofskapelle 1947
+description: Tusche auf Transparentpapier.
+date: "1947"
+location: Lenzen, Dorfteich
+origin:
+  name: Karl Lüders
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Friedrich Bohlmann
+    type: person
+files:
+  - role: main
+    original_name: scan_486.tif
+    path: files/27/ee/27ee606f2f838048e75d72aadaecd845a9a107a68a5824ded65cc0fff23b362b/original.tif
+    sha256: 27ee606f2f838048e75d72aadaecd845a9a107a68a5824ded65cc0fff23b362b
+    mime: image/tiff
+    bytes: 25715128
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/27/ee/27ee606f2f838048e75d72aadaecd845a9a107a68a5824ded65cc0fff23b362b/preview-400.faa2ea554786.jpg
+        sha256: faa2ea55478645174d3436cfc698085d6e60cd59595cbcceb5c1a3a1c4fd1777
+        mime: image/jpeg
+        bytes: 64388
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

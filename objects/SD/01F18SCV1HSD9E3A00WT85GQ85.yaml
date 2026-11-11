@@ -1,0 +1,30 @@
+id: 01F18SCV1HSD9E3A00WT85GQ85
+type: image
+subtype: print
+title: Gruß aus Gollensdorf, Wootz
+description: Postkarte, gelaufen 1945.
+location: Wustrow, Bahnhof
+origin:
+  name: Helga Behrens
+  type: person
+  location: Holtorf
+files:
+  - role: main
+    original_name: scan_935.tif
+    path: files/6f/ea/6fea870ed7bd77a37171949224e1c055322d4bfef57910d3dffb9ab849af4923/original.tif
+    sha256: 6fea870ed7bd77a37171949224e1c055322d4bfef57910d3dffb9ab849af4923
+    mime: image/tiff
+    bytes: 5059713
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6f/ea/6fea870ed7bd77a37171949224e1c055322d4bfef57910d3dffb9ab849af4923/preview-400.9b1ff7ef430a.jpg
+        sha256: 9b1ff7ef430a17790ab95bab354bae0887b8b8c7bb5acb20c126ab8a6ff5a6c2
+        mime: image/jpeg
+        bytes: 84832
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

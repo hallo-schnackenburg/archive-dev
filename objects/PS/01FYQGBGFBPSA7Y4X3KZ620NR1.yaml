@@ -1,0 +1,87 @@
+id: 01FYQGBGFBPSA7Y4X3KZ620NR1
+type: document
+subtype: letter
+title: Mitteilung aus Arendsee an Familie Lenz
+date: 1866-01
+location: Salzwedel, Schlachterei
+geocode:
+  lat: 52.9064
+  lon: 11.4581
+  precision: street
+  source: osm
+origin:
+  name: Ilse Brandt
+  type: person
+  location: Hitzacker
+recipient: Walter Voss
+language: de
+subjects:
+  - name: Marta Wiegmann
+    type: person
+  - name: Lotte Rohde
+    type: person
+  - name: Deicharbeiten 1866
+    type: event
+parents:
+  - 01HYFCM6DN6A2J5RK4P4H4GN9C
+files:
+  - role: page
+    num: 1
+    original_name: letter_620nr1_001.tif
+    path: files/92/69/9269eedd5e5bace1dabd6d14f067d15cf803355a275673d64e22106ce04355d1/original.tif
+    sha256: 9269eedd5e5bace1dabd6d14f067d15cf803355a275673d64e22106ce04355d1
+    mime: image/tiff
+    bytes: 9783761
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/69/9269eedd5e5bace1dabd6d14f067d15cf803355a275673d64e22106ce04355d1/preview-400.98e033aeaf5c.jpg
+        sha256: 98e033aeaf5cda7d3ffc9668bcf901a7404b7a789301630b6a6b8024a06cd922
+        mime: image/jpeg
+        bytes: 49722
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_620nr1_002.tif
+    path: files/7d/9d/7d9d5775c2e0e1a484fcaa24a4ccf9086889ec54284c2e40dd40dcab6016a561/original.tif
+    sha256: 7d9d5775c2e0e1a484fcaa24a4ccf9086889ec54284c2e40dd40dcab6016a561
+    mime: image/tiff
+    bytes: 8914830
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7d/9d/7d9d5775c2e0e1a484fcaa24a4ccf9086889ec54284c2e40dd40dcab6016a561/preview-400.ee7dc0cf8ee6.jpg
+        sha256: ee7dc0cf8ee6b01d97082a39b4621a167ac8bfb5bb7ae93a82ad18e38542990c
+        mime: image/jpeg
+        bytes: 44315
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_620nr1_003.tif
+    path: files/92/3d/923d94e3f6f64182aefc435545cf3fac810d7f20cd7f906d9c1c4daa175b1b65/original.tif
+    sha256: 923d94e3f6f64182aefc435545cf3fac810d7f20cd7f906d9c1c4daa175b1b65
+    mime: image/tiff
+    bytes: 15773749
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/3d/923d94e3f6f64182aefc435545cf3fac810d7f20cd7f906d9c1c4daa175b1b65/preview-400.af5b26ddcb82.jpg
+        sha256: af5b26ddcb82b99eed8f5d0db64e762a20dceb303bdc62dd9ba455c2350e2a35
+        mime: image/jpeg
+        bytes: 68262
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

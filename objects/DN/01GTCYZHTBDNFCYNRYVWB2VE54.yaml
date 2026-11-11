@@ -1,0 +1,40 @@
+id: 01GTCYZHTBDNFCYNRYVWB2VE54
+type: image
+subtype: photo
+title: Feuerwehrübung 1978
+date: 1978-01
+location: Gollensdorf, Schulstraße
+geocode:
+  lat: 52.9424
+  lon: 11.6014
+  precision: region
+  source: osm
+origin:
+  name: Berta Jeß
+  type: person
+  location: Lüchow
+subjects:
+  - name: Dorffest 1978
+    type: event
+  - name: Lenzen
+    type: place
+files:
+  - role: main
+    original_name: scan_186.tif
+    path: files/c2/5c/c25c4eb3f44085cf4559b7c6c0c5db13185fcd3f681d12864bdc4f4bae6779e7/original.tif
+    sha256: c25c4eb3f44085cf4559b7c6c0c5db13185fcd3f681d12864bdc4f4bae6779e7
+    mime: image/tiff
+    bytes: 10612369
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/5c/c25c4eb3f44085cf4559b7c6c0c5db13185fcd3f681d12864bdc4f4bae6779e7/preview-400.7898706ae2a1.jpg
+        sha256: 7898706ae2a1d897a746a868877861af46207a49274288bc4a2c909bb4f898e0
+        mime: image/jpeg
+        bytes: 50311
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

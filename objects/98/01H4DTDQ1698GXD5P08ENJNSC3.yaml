@@ -1,0 +1,43 @@
+id: 01H4DTDQ1698GXD5P08ENJNSC3
+type: image
+subtype: drawing
+title: Kegelbahn, Aquarell, Wustrow
+description: Bleistift auf Papier.
+date: 1940-08-01
+location: Pretzier, Burgstraße
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 17/193
+subjects:
+  - name: Straßenfest 1940
+    type: event
+  - name: Walter Hennings
+    type: person
+  - name: Tischlerei Bruns
+    type: building
+parents:
+  - 01GEX84R7PHBNGS82DD5CBHJ6Q
+  - 01HBSGHG52Z98SDKPVZX12Z93T
+files:
+  - role: main
+    original_name: scan_194.tif
+    path: files/03/5b/035b203f7a707aa4195f97122510314203a75520e1dd0d4a3913bcf41bbda752/original.tif
+    sha256: 035b203f7a707aa4195f97122510314203a75520e1dd0d4a3913bcf41bbda752
+    mime: image/tiff
+    bytes: 4896994
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/03/5b/035b203f7a707aa4195f97122510314203a75520e1dd0d4a3913bcf41bbda752/preview-400.c7c1b33984cf.jpg
+        sha256: c7c1b33984cfccc7abffa685d01014432866c6c575c6054262c923984cc5517c
+        mime: image/jpeg
+        bytes: 83987
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

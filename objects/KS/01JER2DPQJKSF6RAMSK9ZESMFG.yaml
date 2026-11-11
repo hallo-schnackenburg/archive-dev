@@ -1,0 +1,40 @@
+id: 01JER2DPQJKSF6RAMSK9ZESMFG
+type: image
+subtype: drawing
+title: Skizze Rüterberg, Kirchstraße
+date: 198X
+location: Lenzen, Pumpenhaus
+geocode:
+  lat: 52.9805
+  lon: 11.6594
+  precision: exact
+  source: osm
+origin:
+  name: Karl Lemke
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Ladestraße
+    type: building
+parents:
+  - 01M1YR053NPJBEH3Y4WNQMC2X8
+files:
+  - role: main
+    original_name: scan_846.tif
+    path: files/60/ae/60ae938bbbbd65abfc1de869660a24e0340cee099d950704ef64a29447e382e4/original.tif
+    sha256: 60ae938bbbbd65abfc1de869660a24e0340cee099d950704ef64a29447e382e4
+    mime: image/tiff
+    bytes: 10945251
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/60/ae/60ae938bbbbd65abfc1de869660a24e0340cee099d950704ef64a29447e382e4/preview-400.5b1db89462ec.jpg
+        sha256: 5b1db89462ecf95143e1fa6cdf48ba2c55d6a0c7bd8af1fbf98b424e16f19201
+        mime: image/jpeg
+        bytes: 66261
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

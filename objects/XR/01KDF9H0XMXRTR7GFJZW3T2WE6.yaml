@@ -1,0 +1,52 @@
+id: 01KDF9H0XMXRTR7GFJZW3T2WE6
+type: document
+subtype: note
+title: Quittung für Anni Brandt
+description: Auf der Rückseite eines Formulars.
+location: Salzwedel, Hafenstraße
+geocode:
+  lat: 52.9257
+  lon: 11.6127
+  precision: exact
+  source: osm
+origin:
+  name: Karl Meyer
+  type: person
+  location: Lanz
+language: de
+original:
+  holder:
+    name: Familie Rieke
+    type: person
+    location: Hitzacker
+  reference: Pro 28/121
+subjects:
+  - name: Hermann Tiedemann
+    type: person
+  - name: Havelberg
+    type: place
+  - name: Gerda Behrens
+    type: person
+parents:
+  - 01HR1QV0ZXC6MF6JQQQ9T74SMN
+files:
+  - role: page
+    num: 1
+    original_name: note_3t2we6_001.tif
+    path: files/6b/7a/6b7a7ff127a223b089d4b341f7464de114c9b55ac173e85569d8919a70d33e1f/original.tif
+    sha256: 6b7a7ff127a223b089d4b341f7464de114c9b55ac173e85569d8919a70d33e1f
+    mime: image/tiff
+    bytes: 14717683
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6b/7a/6b7a7ff127a223b089d4b341f7464de114c9b55ac173e85569d8919a70d33e1f/preview-400.df986c3f14ea.jpg
+        sha256: df986c3f14eab3576ef724ffe5c5ecb2fa007ef6fe56257ab78f7ecd1be84937
+        mime: image/jpeg
+        bytes: 53825
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

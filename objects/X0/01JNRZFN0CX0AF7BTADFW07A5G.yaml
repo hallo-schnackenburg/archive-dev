@@ -1,0 +1,34 @@
+id: 01JNRZFN0CX0AF7BTADFW07A5G
+type: image
+subtype: photo
+title: Helga Hennings, Porträt
+description: Farbfoto, leicht verblasst.
+subjects:
+  - name: Gerda Voss
+    type: person
+  - name: Sturmschaden 1937
+    type: event
+  - name: Ernst Lemke
+    type: person
+parents:
+  - 01GYVCE9612QGZYBGWYYZ1X9FF
+files:
+  - role: main
+    original_name: scan_994.tif
+    path: files/ca/52/ca528728b70efb3504e7eb79966a843c722468d1ff089b86830d0bc8137df8cc/original.tif
+    sha256: ca528728b70efb3504e7eb79966a843c722468d1ff089b86830d0bc8137df8cc
+    mime: image/tiff
+    bytes: 22717054
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ca/52/ca528728b70efb3504e7eb79966a843c722468d1ff089b86830d0bc8137df8cc/preview-400.07b913820d21.jpg
+        sha256: 07b913820d21dedb1562998490e7a4fe53d202ece458cbe9536684346644f048
+        mime: image/jpeg
+        bytes: 82733
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

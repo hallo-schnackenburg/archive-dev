@@ -1,0 +1,45 @@
+id: 01KN4TG3MS9RXQ55YM48HWXHBF
+type: image
+subtype: photo
+title: Brunnen am Markt in Nienwalde
+description: Zu sehen sind Schlachterei und Mühle.
+date: "2004"
+location: Bömenzien, Lange Straße
+geocode:
+  lat: 53.0051
+  lon: 11.608
+  precision: town
+  source: osm
+origin:
+  name: Emma Lemke
+  type: person
+  location: Lenzen
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Osterfeuer 2004
+    type: event
+  - name: Hochwasser 2004
+    type: event
+parents:
+  - 01G9F8WZMH640J1SBB5JSSJJX5
+files:
+  - role: main
+    original_name: foto_1399.jpg
+    path: files/c9/89/c9899fe3b3a220e95906851b0e0f2c7fe1a5490064e145e6993b53c394b1a68a/original.jpg
+    sha256: c9899fe3b3a220e95906851b0e0f2c7fe1a5490064e145e6993b53c394b1a68a
+    mime: image/jpeg
+    bytes: 8500622
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/c9/89/c9899fe3b3a220e95906851b0e0f2c7fe1a5490064e145e6993b53c394b1a68a/preview-400.f8c25fc26f35.jpg
+        sha256: f8c25fc26f35db739d6e51dfe9b289ced23bc92b1719f932825b78605a90f530
+        mime: image/jpeg
+        bytes: 25484
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

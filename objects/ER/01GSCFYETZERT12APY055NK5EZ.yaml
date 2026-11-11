@@ -1,0 +1,39 @@
+id: 01GSCFYETZERT12APY055NK5EZ
+type: image
+subtype: photo
+title: Blick vom Tanzsaal auf das Zollamt
+description: Farbfoto, leicht verblasst.
+location: Wittenberge, Ladestraße
+origin:
+  name: Dieter Behrens
+  type: person
+  location: Zadrau
+subjects:
+  - name: Straßenfest 1916
+    type: event
+  - name: Karl Schulz
+    type: person
+  - name: Storchennest
+    type: building
+parents:
+  - 01GWFE0FE3S612EGDSN47NZK4B
+files:
+  - role: main
+    original_name: scan_752.tif
+    path: files/68/21/6821240cbdd72aeb99094d189515b49c66dd99fa28e49aa18a55e1efb30cf0d5/original.tif
+    sha256: 6821240cbdd72aeb99094d189515b49c66dd99fa28e49aa18a55e1efb30cf0d5
+    mime: image/tiff
+    bytes: 16724075
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/68/21/6821240cbdd72aeb99094d189515b49c66dd99fa28e49aa18a55e1efb30cf0d5/preview-400.b1eb774cf92d.jpg
+        sha256: b1eb774cf92d3236000f268958a3e73122abfa09bbae79081b3bf031af28a5b3
+        mime: image/jpeg
+        bytes: 82839
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

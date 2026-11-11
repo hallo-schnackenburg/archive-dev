@@ -1,0 +1,36 @@
+id: 01KR39G86QR2TDKYEVHB9RHNEH
+type: image
+subtype: plan
+title: Bauplan Kaufmannshaus 1826
+description: Tusche auf Transparentpapier.
+date: 1826~
+location: Havelberg, Hafenstraße
+origin:
+  name: Erika Fricke
+  type: person
+  location: Arendsee
+subjects:
+  - name: Brückeneinweihung 1826
+    type: event
+  - name: Hermann Eggers
+    type: person
+files:
+  - role: main
+    original_name: scan_771.tif
+    path: files/5f/e3/5fe399fb3d9e4b5de46897ce7dd5a286f0782b9e9710f0ba479214c630fe52af/original.tif
+    sha256: 5fe399fb3d9e4b5de46897ce7dd5a286f0782b9e9710f0ba479214c630fe52af
+    mime: image/tiff
+    bytes: 14707071
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5f/e3/5fe399fb3d9e4b5de46897ce7dd5a286f0782b9e9710f0ba479214c630fe52af/preview-400.a95354db5906.jpg
+        sha256: a95354db5906fad7ce8ee22efce1144277bbf7be2fb29769690c7e6e748a2f98
+        mime: image/jpeg
+        bytes: 74332
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

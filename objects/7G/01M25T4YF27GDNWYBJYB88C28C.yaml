@@ -1,0 +1,36 @@
+id: 01M25T4YF27GDNWYBJYB88C28C
+type: image
+subtype: drawing
+title: Skizze Bömenzien, Dorfstraße
+date: "1840"
+location: Wustrow, Marktstraße
+geocode:
+  lat: 53.0987
+  lon: 11.647
+  precision: exact
+  source: osm
+subjects:
+  - name: Richtfest 1840
+    type: event
+parents:
+  - 01J60ZPHNFEPSYPBYBQHSWMT7Y
+files:
+  - role: main
+    original_name: scan_665.tif
+    path: files/ec/f6/ecf6792f81d73e018e7cba2f101922d8d7a7a3e71306c1e4ca0979b7cbdb3281/original.tif
+    sha256: ecf6792f81d73e018e7cba2f101922d8d7a7a3e71306c1e4ca0979b7cbdb3281
+    mime: image/tiff
+    bytes: 12655441
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ec/f6/ecf6792f81d73e018e7cba2f101922d8d7a7a3e71306c1e4ca0979b7cbdb3281/preview-400.178d8d3aa935.jpg
+        sha256: 178d8d3aa93527d48d956d7dea7efc6cfb113a8fc0e0cac1c3f813f056fcac66
+        mime: image/jpeg
+        bytes: 87910
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

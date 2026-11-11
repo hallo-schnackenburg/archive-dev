@@ -1,0 +1,44 @@
+id: 01M11VHGM784P9R684NY28Y8VP
+type: image
+subtype: photo
+title: Familie Voss beim Fastnacht
+description: Zu sehen sind Sparkasse und Storchennest.
+date: 1946-10
+location: Cumlosen, Apotheke
+origin:
+  name: Hans Garms
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 38/018
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Schlachterei
+    type: building
+  - name: Zollamt
+    type: building
+files:
+  - role: main
+    original_name: IMG_5948.jpg
+    path: files/ae/5f/ae5f4b17e5cb6dc58e7722b44cfd7e3efaebe413ac64b3ff115c3f957e00a0b6/original.jpg
+    sha256: ae5f4b17e5cb6dc58e7722b44cfd7e3efaebe413ac64b3ff115c3f957e00a0b6
+    mime: image/jpeg
+    bytes: 4787522
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ae/5f/ae5f4b17e5cb6dc58e7722b44cfd7e3efaebe413ac64b3ff115c3f957e00a0b6/preview-400.40627664ca26.jpg
+        sha256: 40627664ca26ae1a297471f11ba7e4ce2c543eafd8cc85ca99ed5301f4f739ce
+        mime: image/jpeg
+        bytes: 65417
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

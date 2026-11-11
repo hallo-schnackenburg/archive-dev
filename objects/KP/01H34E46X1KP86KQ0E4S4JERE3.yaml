@@ -1,0 +1,42 @@
+id: 01H34E46X1KP86KQ0E4S4JERE3
+type: document
+subtype: note
+title: Rechnung Lenz, Rathaus
+description: Zettel, Bleistift.
+date: 1980-05-06
+location: Wustrow, Dorfstraße
+origin:
+  name: Wilhelm Bohlmann
+  type: person
+  location: Laase
+language: de
+subjects:
+  - name: Ladestraße
+    type: building
+  - name: Lenzen
+    type: place
+  - name: Apotheke
+    type: building
+parents:
+  - 01GF0SSB3PSQ3ZJJP70B51NM10
+files:
+  - role: page
+    num: 1
+    original_name: note_4jere3_001.tif
+    path: files/63/1f/631f1e5d1d87f22e6e2f7acc345a5ce1911c62c397e933071bf686101cc92dc8/original.tif
+    sha256: 631f1e5d1d87f22e6e2f7acc345a5ce1911c62c397e933071bf686101cc92dc8
+    mime: image/tiff
+    bytes: 2877238
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/63/1f/631f1e5d1d87f22e6e2f7acc345a5ce1911c62c397e933071bf686101cc92dc8/preview-400.530d611fed1b.jpg
+        sha256: 530d611fed1bb0ec80e59e61c63792e5a7593b35e5d5ea1f458fd88bdd100e7c
+        mime: image/jpeg
+        bytes: 53583
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

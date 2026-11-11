@@ -1,0 +1,35 @@
+id: 01FXW3WDZ57PJ960D08N4KQ7VY
+type: image
+subtype: print
+title: Postkarte Pretzier, Rathaus
+location: Seedorf, Brunnen am Markt
+origin:
+  name: Karl Meyer
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  note: Planschrank, Fach 3
+files:
+  - role: main
+    original_name: scan_460.tif
+    path: files/a2/dd/a2ddbc66e03b0da07ac09e97e2c3190865d2a16e31be747123f8bf2430b4d61c/original.tif
+    sha256: a2ddbc66e03b0da07ac09e97e2c3190865d2a16e31be747123f8bf2430b4d61c
+    mime: image/tiff
+    bytes: 1677767
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a2/dd/a2ddbc66e03b0da07ac09e97e2c3190865d2a16e31be747123f8bf2430b4d61c/preview-400.7ff6cdf5b106.jpg
+        sha256: 7ff6cdf5b106d6b1d913e66fc43486bf1485d570c5d659108c8522fe94757095
+        mime: image/jpeg
+        bytes: 79661
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

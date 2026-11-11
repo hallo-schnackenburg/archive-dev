@@ -1,0 +1,43 @@
+id: 01FC1QT7CFEXY7YNRTAX58E2Y6
+type: image
+subtype: plan
+title: Deichplan Holtorf bis Wootz
+description: Maßstab 1:250.
+date: 1919?
+location: Lanz, Kirche St. Johannis
+origin:
+  name: Heinrich Tiedemann
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro 18/389
+subjects:
+  - name: Laase
+    type: place
+parents:
+  - 01K17ANV6BS1YN44GQNBJ2A6CF
+  - 01F6ZQ7TEP2TBDEHF40VAF0GAD
+files:
+  - role: main
+    original_name: scan_636.tif
+    path: files/fe/51/fe5107dda7e9eb4763a240f662609a1f59ab1a3adbae01005a7f0d65be03ee0c/original.tif
+    sha256: fe5107dda7e9eb4763a240f662609a1f59ab1a3adbae01005a7f0d65be03ee0c
+    mime: image/tiff
+    bytes: 26248639
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fe/51/fe5107dda7e9eb4763a240f662609a1f59ab1a3adbae01005a7f0d65be03ee0c/preview-400.1e9613e963dc.jpg
+        sha256: 1e9613e963dc1053e0be9bf6e9109756ce934873027ed57943956f271defc013
+        mime: image/jpeg
+        bytes: 85350
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

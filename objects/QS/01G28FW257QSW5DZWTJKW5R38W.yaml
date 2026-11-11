@@ -1,0 +1,84 @@
+id: 01G28FW257QSW5DZWTJKW5R38W
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Deichbau 1904
+description: Anwesend waren 22 Personen.
+date: 1904~
+location: Holtorf, Elbdeich
+geocode:
+  lat: 52.9054
+  lon: 11.6975
+  precision: region
+  source: osm
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Lanz
+    type: place
+parents:
+  - 01KTZKC2A5R5HHQXVWXFS5SF60
+files:
+  - role: page
+    num: 1
+    original_name: protocol_w5r38w_001.tif
+    path: files/97/52/97527a69a24892e179e57d21a4302eba06e690aa0c1b8990b9fe49b5d3dc8af5/original.tif
+    sha256: 97527a69a24892e179e57d21a4302eba06e690aa0c1b8990b9fe49b5d3dc8af5
+    mime: image/tiff
+    bytes: 12981933
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/52/97527a69a24892e179e57d21a4302eba06e690aa0c1b8990b9fe49b5d3dc8af5/preview-400.3d4daf018979.jpg
+        sha256: 3d4daf018979866fd52bf14162f0578e451c4423ee335c9803e66200e1b4851d
+        mime: image/jpeg
+        bytes: 35153
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_w5r38w_002.tif
+    path: files/7a/51/7a51f3bcf8dafdc5d2005d27933c7ea0b611d2cdfe3484fc136f44622ea78bc2/original.tif
+    sha256: 7a51f3bcf8dafdc5d2005d27933c7ea0b611d2cdfe3484fc136f44622ea78bc2
+    mime: image/tiff
+    bytes: 9895866
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7a/51/7a51f3bcf8dafdc5d2005d27933c7ea0b611d2cdfe3484fc136f44622ea78bc2/preview-400.4b8a046abcdb.jpg
+        sha256: 4b8a046abcdb1647c050e87e9e62254b436b80b02ccedbb3ec27b5812e6e835f
+        mime: image/jpeg
+        bytes: 83573
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_w5r38w_003.tif
+    path: files/b4/a3/b4a31d006fbd0aa5052520cbf0ac264a4c31c95166ca8c060fd414b297c42828/original.tif
+    sha256: b4a31d006fbd0aa5052520cbf0ac264a4c31c95166ca8c060fd414b297c42828
+    mime: image/tiff
+    bytes: 6475182
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/a3/b4a31d006fbd0aa5052520cbf0ac264a4c31c95166ca8c060fd414b297c42828/preview-400.df1e3b59e6a0.jpg
+        sha256: df1e3b59e6a0204e43e59650549d9c06d8ac2ec6c2e3ee1a638d5b3651ee4dee
+        mime: image/jpeg
+        bytes: 25010
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

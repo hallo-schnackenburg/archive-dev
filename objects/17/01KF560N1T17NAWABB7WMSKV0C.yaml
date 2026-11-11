@@ -1,0 +1,40 @@
+id: 01KF560N1T17NAWABB7WMSKV0C
+type: image
+subtype: photo
+title: Blick vom Försterei auf das Elbdeich
+date: 1940?
+location: Wootz, Fährstraße
+geocode:
+  lat: 52.9127
+  lon: 11.6888
+  precision: town
+  source: osm
+origin:
+  name: Frieda Pape
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Schützenhaus
+    type: building
+  - name: Wassermühle
+    type: building
+files:
+  - role: main
+    original_name: P7447.jpg
+    path: files/a1/df/a1dfa488374fd290ae1b3e0b2d96bd776e5a0e5264cf594372cb4173625f4d23/original.jpg
+    sha256: a1dfa488374fd290ae1b3e0b2d96bd776e5a0e5264cf594372cb4173625f4d23
+    mime: image/jpeg
+    bytes: 15134563
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/a1/df/a1dfa488374fd290ae1b3e0b2d96bd776e5a0e5264cf594372cb4173625f4d23/preview-400.e5b34e1fa68b.jpg
+        sha256: e5b34e1fa68b3c3b0be47e75f00c93a1b8b1c17265d5691ecf0845e2c0dcef42
+        mime: image/jpeg
+        bytes: 38808
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

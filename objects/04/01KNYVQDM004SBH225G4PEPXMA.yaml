@@ -1,0 +1,45 @@
+id: 01KNYVQDM004SBH225G4PEPXMA
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Feuerwehrübung"
+description: Federzeichnung, laviert.
+date: 1877-07
+location: Salzwedel, Lange Straße
+origin:
+  name: Käthe Tiedemann
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Fotos/Mappe 14/101
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Schmiede
+    type: building
+parents:
+  - 01F2FHHHC3A4CYH69SBK2R9NT8
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+files:
+  - role: main
+    original_name: scan_424.tif
+    path: files/2d/63/2d630c30ca7de34375c026b09b2da436e7051a86bfa3e525fc1abda71c7a5465/original.tif
+    sha256: 2d630c30ca7de34375c026b09b2da436e7051a86bfa3e525fc1abda71c7a5465
+    mime: image/tiff
+    bytes: 23953140
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/2d/63/2d630c30ca7de34375c026b09b2da436e7051a86bfa3e525fc1abda71c7a5465/preview-400.a3565cd88af0.jpg
+        sha256: a3565cd88af0827c05cbe5c85aade6cb633a213e649e9f8deb790926ae7bf11b
+        mime: image/jpeg
+        bytes: 71458
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

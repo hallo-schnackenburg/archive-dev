@@ -1,0 +1,36 @@
+id: 01G08B8Y8NQ07289AYCB1V1VTV
+type: image
+subtype: photo
+title: Marta Schulz vor dem Pfarrhaus
+description: Abzug im Format 10 x 15 cm.
+date: 1914-01-06
+location: Gülden, Pumpenhaus
+origin:
+  name: Otto Brandt
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Dorfteich
+    type: building
+parents:
+  - 01GM7NY0727P7EK5MCJ3J7A8SN
+files:
+  - role: main
+    original_name: P2120.jpg
+    path: files/19/68/19687bc1fd2e2d34408e28d5afdce9b310223bea665f1a6a5859324887d5ce78/original.jpg
+    sha256: 19687bc1fd2e2d34408e28d5afdce9b310223bea665f1a6a5859324887d5ce78
+    mime: image/jpeg
+    bytes: 3586547
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/19/68/19687bc1fd2e2d34408e28d5afdce9b310223bea665f1a6a5859324887d5ce78/preview-400.de408ec41dc6.jpg
+        sha256: de408ec41dc605098f12fdb4b018d723cc9553680f26f792d67e92b9ad4e4463
+        mime: image/jpeg
+        bytes: 64736
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

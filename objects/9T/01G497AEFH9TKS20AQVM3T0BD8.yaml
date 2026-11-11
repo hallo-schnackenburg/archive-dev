@@ -1,0 +1,39 @@
+id: 01G497AEFH9TKS20AQVM3T0BD8
+type: image
+subtype: photo
+title: Blick vom Dorfkrug auf das Försterei
+description: Aufnahme von Heinrich Schulz.
+date: "1904"
+location: Salzwedel, Schulstraße
+origin:
+  name: Anni Rieke
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Windmühle
+    type: building
+  - name: Wittenberge
+    type: place
+parents:
+  - 01FEEW1K0P7657HFN4R8JBV1AC
+  - 01J8ED3E4SGG31ZRC1FEQ26FTD
+files:
+  - role: main
+    original_name: foto_2428.jpg
+    path: files/d3/e3/d3e37cd3ec38943b17dd98e28a661dfa11b08dfc46f795dc00bf778e7927a442/original.jpg
+    sha256: d3e37cd3ec38943b17dd98e28a661dfa11b08dfc46f795dc00bf778e7927a442
+    mime: image/jpeg
+    bytes: 24385565
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/d3/e3/d3e37cd3ec38943b17dd98e28a661dfa11b08dfc46f795dc00bf778e7927a442/preview-400.ad11eea5d527.jpg
+        sha256: ad11eea5d5277076c3cd168b1701f5f231cc5e1dd1ae5da883ee52f77ebf7bdb
+        mime: image/jpeg
+        bytes: 65569
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

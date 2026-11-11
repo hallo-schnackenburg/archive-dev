@@ -1,0 +1,45 @@
+id: 01HDS8V51V7A06SR5CMQ4993QS
+type: image
+subtype: photo
+title: Wilhelm Krüger, Porträt
+date: 190X
+location: Brünkendorf, Molkerei
+geocode:
+  lat: 53.0691
+  lon: 11.6192
+  precision: region
+  source: osm
+origin:
+  name: Karl Brandt
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Gartow
+    type: place
+parents:
+  - 01EZPB1VX62FRSWZHWBBH2D77Z
+files:
+  - role: main
+    original_name: P7280.jpg
+    path: files/40/4c/404ca247965f817159b8bdb2268f3178c3443bfb8aaa9f9765a53810c8ff5468/original.jpg
+    sha256: 404ca247965f817159b8bdb2268f3178c3443bfb8aaa9f9765a53810c8ff5468
+    mime: image/jpeg
+    bytes: 307761
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/40/4c/404ca247965f817159b8bdb2268f3178c3443bfb8aaa9f9765a53810c8ff5468/preview-400.888d1a09ff77.jpg
+        sha256: 888d1a09ff7794052776ff0a4c050c862e04b826a59ccc2b5c65bcb2cee4ffab
+        mime: image/jpeg
+        bytes: 65689
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

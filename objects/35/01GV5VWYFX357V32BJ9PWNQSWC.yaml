@@ -1,0 +1,36 @@
+id: 01GV5VWYFX357V32BJ9PWNQSWC
+type: image
+subtype: photo
+title: Marktstraße, Ecke Am Markt, Dömitz
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1894"
+location: Cumlosen, Ladestraße
+geocode:
+  lat: 53.0714
+  lon: 11.5494
+  precision: town
+  source: osm
+origin:
+  name: Emma Lemke
+  type: person
+  location: Bömenzien
+files:
+  - role: main
+    original_name: P9301.jpg
+    path: files/f5/20/f520a73940abad586a9331f236d9c3336bdc5af0e5fe60d03b8ae75e827f951f/original.jpg
+    sha256: f520a73940abad586a9331f236d9c3336bdc5af0e5fe60d03b8ae75e827f951f
+    mime: image/jpeg
+    bytes: 9087438
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/f5/20/f520a73940abad586a9331f236d9c3336bdc5af0e5fe60d03b8ae75e827f951f/preview-400.042d17b661a0.jpg
+        sha256: 042d17b661a0888aa0de400c7f7bea824ff36f4d5b28e92db4540704093c283b
+        mime: image/jpeg
+        bytes: 56693
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

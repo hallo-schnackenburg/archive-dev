@@ -1,0 +1,39 @@
+id: 01KYM51M82VDGHY35N9PPR8Y8M
+type: image
+subtype: drawing
+title: Ziegelei, Aquarell, Dömitz
+description: Federzeichnung, laviert.
+date: 1850-05-19
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok/Kasten 24/020
+subjects:
+  - name: Wilhelm Hennings
+    type: person
+  - name: August Rieke
+    type: person
+  - name: Schützenhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_661.tif
+    path: files/9c/7d/9c7d23026f64da954bd28e4827b50570c89f92e2e70073f09aa7eb923ec90d86/original.tif
+    sha256: 9c7d23026f64da954bd28e4827b50570c89f92e2e70073f09aa7eb923ec90d86
+    mime: image/tiff
+    bytes: 2328624
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9c/7d/9c7d23026f64da954bd28e4827b50570c89f92e2e70073f09aa7eb923ec90d86/preview-400.dd9510e4a1f0.jpg
+        sha256: dd9510e4a1f0cbd27a49b524c44b00ce28e6d94186930d965fe076c7aabdb6a1
+        mime: image/jpeg
+        bytes: 65062
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

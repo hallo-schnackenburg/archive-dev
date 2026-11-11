@@ -1,0 +1,59 @@
+id: 01HQJVXBHF43A848CMGYZK3Q4Y
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Angelverein 1869
+description: Anwesend waren 10 Personen.
+location: Wootz, Gartenstraße
+origin:
+  name: Finanzausschuss Gülden
+  type: business
+  location: Bömenzien
+language: de
+subjects:
+  - name: Viehmarkt 1869
+    type: event
+  - name: Dieter Voss
+    type: person
+  - name: Fährjubiläum 1869
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: protocol_zk3q4y_001.tif
+    path: files/4a/38/4a38d2031b8a574116a67e0715c7ae9b1824fe113f4c273669d72eb108f0efca/original.tif
+    sha256: 4a38d2031b8a574116a67e0715c7ae9b1824fe113f4c273669d72eb108f0efca
+    mime: image/tiff
+    bytes: 10800890
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4a/38/4a38d2031b8a574116a67e0715c7ae9b1824fe113f4c273669d72eb108f0efca/preview-400.ddcec72f4cc5.jpg
+        sha256: ddcec72f4cc5ae7b359f6952e7cb2f166addd1387fe1ce0eeb8467fe82396614
+        mime: image/jpeg
+        bytes: 77772
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_zk3q4y_002.tif
+    path: files/42/1a/421a2b8cffdf7c55cc81601351fd5acaef42a41afb81078b4d5eb7fd2045a3bc/original.tif
+    sha256: 421a2b8cffdf7c55cc81601351fd5acaef42a41afb81078b4d5eb7fd2045a3bc
+    mime: image/tiff
+    bytes: 23302279
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/42/1a/421a2b8cffdf7c55cc81601351fd5acaef42a41afb81078b4d5eb7fd2045a3bc/preview-400.d1878884280d.jpg
+        sha256: d1878884280d52ae21a6d2ae70312a0e82442f7419a8b7c0f1f8edbec9948d8e
+        mime: image/jpeg
+        bytes: 69970
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

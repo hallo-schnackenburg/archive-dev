@@ -1,0 +1,60 @@
+id: 01F1DG48M3G1V8319RWHQN4R13
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Friedhofsordnung 1915
+description: Handschriftlich in Sütterlin.
+date: 1915~
+location: Laase, Schulstraße
+origin:
+  name: Finanzausschuss Brünkendorf
+  type: business
+  location: Seedorf
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01HNVK3TWSXAG1X7MJP1AQW02W
+files:
+  - role: page
+    num: 1
+    original_name: protocol_qn4r13_001.tif
+    path: files/8f/f8/8ff8511e991e2bff52fb68d1b911041f59951f9ab237334a8b4c967d84c05446/original.tif
+    sha256: 8ff8511e991e2bff52fb68d1b911041f59951f9ab237334a8b4c967d84c05446
+    mime: image/tiff
+    bytes: 8380655
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8f/f8/8ff8511e991e2bff52fb68d1b911041f59951f9ab237334a8b4c967d84c05446/preview-400.9309fedae6b4.jpg
+        sha256: 9309fedae6b4ab00c411c84d5f72e3a86f550bcf4800c9c7bb7fa86091f0928c
+        mime: image/jpeg
+        bytes: 30918
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_qn4r13_002.tif
+    path: files/18/06/18060313ec80a32fe9ecf973c00416ccafcf6af75692aa207c2d11c95b573321/original.tif
+    sha256: 18060313ec80a32fe9ecf973c00416ccafcf6af75692aa207c2d11c95b573321
+    mime: image/tiff
+    bytes: 10978548
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/18/06/18060313ec80a32fe9ecf973c00416ccafcf6af75692aa207c2d11c95b573321/preview-400.757014307285.jpg
+        sha256: 757014307285b0cbd4d35ccee7f3f312d8b4fe54613d6399ef4a6d8f5011d4ce
+        mime: image/jpeg
+        bytes: 55670
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

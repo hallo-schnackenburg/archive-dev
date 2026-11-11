@@ -1,0 +1,88 @@
+id: 01HQS5WDWWCEAB4WG45FBKABPY
+type: document
+subtype: letter
+title: Brief von Elfriede Meyer an Wilhelm Schulz
+description: Mit Umschlag und Briefmarke.
+date: "1862"
+location: Havelberg, Schulstraße
+geocode:
+  lat: 52.9813
+  lon: 11.5095
+  precision: street
+  source: osm
+origin:
+  name: Günter Jeß
+  type: person
+  location: Laase
+recipient: Karl Garms
+language: de
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Wustrow
+    type: place
+  - name: Otto Bohlmann
+    type: person
+parents:
+  - 01JP9HS44VA7XZY3HAP9PA82HG
+files:
+  - role: page
+    num: 1
+    original_name: letter_bkabpy_001.tif
+    path: files/c3/18/c3181ead385087ccae13e7c2efb7dcfaf5e27934d60db38f35473061b4a1226b/original.tif
+    sha256: c3181ead385087ccae13e7c2efb7dcfaf5e27934d60db38f35473061b4a1226b
+    mime: image/tiff
+    bytes: 13941219
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c3/18/c3181ead385087ccae13e7c2efb7dcfaf5e27934d60db38f35473061b4a1226b/preview-400.81d23c0bd689.jpg
+        sha256: 81d23c0bd6899391602d2f6ccea5cd46ba7e4eb37838798fcc3bb150cd45458c
+        mime: image/jpeg
+        bytes: 78751
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_bkabpy_002.tif
+    path: files/d0/7d/d07d0fbc1262fd166f38a94a3940724e10dcbe34b260c752748a5b3033619713/original.tif
+    sha256: d07d0fbc1262fd166f38a94a3940724e10dcbe34b260c752748a5b3033619713
+    mime: image/tiff
+    bytes: 24748628
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d0/7d/d07d0fbc1262fd166f38a94a3940724e10dcbe34b260c752748a5b3033619713/preview-400.783393656987.jpg
+        sha256: 783393656987f6f9cb5bede2908301f5b4a3d4bd41b6a135fa23a95117e09a3d
+        mime: image/jpeg
+        bytes: 53928
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_bkabpy_003.tif
+    path: files/ff/79/ff79d23910069fe38d958450ac5f84c4cc61a8c7eae6aa09f2b135c821b88664/original.tif
+    sha256: ff79d23910069fe38d958450ac5f84c4cc61a8c7eae6aa09f2b135c821b88664
+    mime: image/tiff
+    bytes: 17821225
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/79/ff79d23910069fe38d958450ac5f84c4cc61a8c7eae6aa09f2b135c821b88664/preview-400.de0ec40cb66e.jpg
+        sha256: de0ec40cb66e1f90ec01cb5dfcbfa7cf91847a4c56e555b25a42301ccae2072c
+        mime: image/jpeg
+        bytes: 81596
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

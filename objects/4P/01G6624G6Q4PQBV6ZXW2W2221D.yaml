@@ -1,0 +1,32 @@
+id: 01G6624G6Q4PQBV6ZXW2W2221D
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Theatergruppe 1934
+description: Handschriftlich in Sütterlin.
+date: 1934/1943
+location: Gartow, Schlachterei
+geocode:
+  lat: 52.9892
+  lon: 11.6965
+  precision: region
+  source: osm
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 15/228
+  note: Bücherregal links
+subjects:
+  - name: Konfirmation 1934
+    type: event
+parents:
+  - 01G2WJPJPQXBE3BT808Y4JJJ99
+storage: external
+external:
+  - type: archive
+    site: Landesarchiv Hannover
+    uri: https://landesarchiv-hannover.example.org/objekt/575135
+    note: Seiten 12–19
+    retrieved: 2026-09-28

@@ -1,0 +1,35 @@
+id: 01HF3VN3ZEGG1FSAEB0T6AB8HB
+type: image
+subtype: plan
+title: Lageplan Brunnen am Markt, Salzwedel
+description: Maßstab 1:100.
+date: "1875"
+location: Laase, Ziegelei
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan/Album 13/112
+parents:
+  - 01F20XMXWX2C707C5C7N0Y1A69
+files:
+  - role: main
+    original_name: scan_658.tif
+    path: files/69/f2/69f25f1f24688611a7e43ef5e6db57f1d52269b942cb122d2b8aad82a6884441/original.tif
+    sha256: 69f25f1f24688611a7e43ef5e6db57f1d52269b942cb122d2b8aad82a6884441
+    mime: image/tiff
+    bytes: 24862208
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/69/f2/69f25f1f24688611a7e43ef5e6db57f1d52269b942cb122d2b8aad82a6884441/preview-400.57a0078e7d92.jpg
+        sha256: 57a0078e7d92453a1f7e7493a7c1d6e3b4ae6edf8a593aa14f217b585089db9e
+        mime: image/jpeg
+        bytes: 68616
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

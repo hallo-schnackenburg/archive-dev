@@ -1,0 +1,34 @@
+id: 01JYKZHCXNSGHB0WH7NBBX75X7
+type: image
+subtype: plan
+title: Bauplan Backhaus 1777
+description: Tusche auf Transparentpapier.
+date: 1777-03-20
+location: Zadrau, Feuerwehrhaus
+origin:
+  name: Karl Lemke
+  type: person
+  location: Arendsee
+subjects:
+  - name: Lanz
+    type: place
+files:
+  - role: main
+    original_name: scan_185.tif
+    path: files/ae/f9/aef9f85ea4d70ce9a353549f810fcc150d44e75dc1d5af8c2405ef79b167891b/original.tif
+    sha256: aef9f85ea4d70ce9a353549f810fcc150d44e75dc1d5af8c2405ef79b167891b
+    mime: image/tiff
+    bytes: 20391639
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ae/f9/aef9f85ea4d70ce9a353549f810fcc150d44e75dc1d5af8c2405ef79b167891b/preview-400.4484669e6e11.jpg
+        sha256: 4484669e6e11d4f33a5f513c9ab84e6eff5937c33aeeacc2e4f5ac1220d24a7a
+        mime: image/jpeg
+        bytes: 23048
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

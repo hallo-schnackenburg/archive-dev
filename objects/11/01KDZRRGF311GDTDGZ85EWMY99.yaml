@@ -1,0 +1,39 @@
+id: 01KDZRRGF311GDTDGZ85EWMY99
+type: image
+subtype: drawing
+title: Skizze Wittenberge, Am Elbdeich
+description: Mit Anmerkungen am Rand.
+date: 1909-07
+location: Havelberg, Apotheke
+original:
+  holder:
+    name: Familie Pape
+    type: person
+    location: Restorf
+  reference: Plan 10/113
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v88164
+subjects:
+  - name: Hafen
+    type: building
+parents:
+  - 01G0X29EZ2FVG07FG6GWV5MNSG
+files:
+  - role: main
+    original_name: scan_445.tif
+    path: files/66/4b/664b0ca5195f2e68d4aca6aaf071e3935d33a757dfac843230a6de7efb6f652c/original.tif
+    sha256: 664b0ca5195f2e68d4aca6aaf071e3935d33a757dfac843230a6de7efb6f652c
+    mime: image/tiff
+    bytes: 4366597
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/66/4b/664b0ca5195f2e68d4aca6aaf071e3935d33a757dfac843230a6de7efb6f652c/preview-400.f4d9bc29ea44.jpg
+        sha256: f4d9bc29ea44dd6a1485653378b1ca104d159e479f0fd676ffa1696f09439026
+        mime: image/jpeg
+        bytes: 73677
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

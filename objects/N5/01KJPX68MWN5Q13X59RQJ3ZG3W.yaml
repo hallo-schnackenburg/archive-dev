@@ -1,0 +1,43 @@
+id: 01KJPX68MWN5Q13X59RQJ3ZG3W
+type: image
+subtype: drawing
+title: Skizze Brünkendorf, Fährstraße
+description: Federzeichnung, laviert.
+date: 1856-02-28
+location: Nienwalde, Am Elbdeich
+geocode:
+  lat: 53.0548
+  lon: 11.533
+  precision: town
+  source: osm
+origin:
+  name: Karl Krüger
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Karl Nitschke
+    type: person
+  - name: Wilhelm Pape
+    type: person
+  - name: Hochwasser 1856
+    type: event
+files:
+  - role: main
+    original_name: scan_957.tif
+    path: files/e9/59/e959318f36eebfd9094ce802a50d28a04225d1ac28ec711d1ab5e6b7ce5cf965/original.tif
+    sha256: e959318f36eebfd9094ce802a50d28a04225d1ac28ec711d1ab5e6b7ce5cf965
+    mime: image/tiff
+    bytes: 17339179
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e9/59/e959318f36eebfd9094ce802a50d28a04225d1ac28ec711d1ab5e6b7ce5cf965/preview-400.f34d3ecfe27c.jpg
+        sha256: f34d3ecfe27c0356ab556af84385c33ba1a117fc77b87342c8255e3b9180525f
+        mime: image/jpeg
+        bytes: 32726
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

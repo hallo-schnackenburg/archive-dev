@@ -1,0 +1,41 @@
+id: 01EVGXDQM1C092NMRTXDJFAFF8
+type: image
+subtype: plan
+title: Bauplan Torhaus 1877
+description: Tusche auf Transparentpapier.
+date: 1877/1881
+location: Gorleben, Kindergarten
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Karl Nitschke
+    type: person
+  - name: Gollensdorf
+    type: place
+  - name: Karl Lemke
+    type: person
+parents:
+  - 01F5BDT8RF2AK0D4775DY21054
+files:
+  - role: main
+    original_name: scan_643.tif
+    path: files/33/f6/33f65713a7fc8ae4647a04c4653d6e589aec8651a4ec1de3aac53ad70e47b390/original.tif
+    sha256: 33f65713a7fc8ae4647a04c4653d6e589aec8651a4ec1de3aac53ad70e47b390
+    mime: image/tiff
+    bytes: 18983244
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/33/f6/33f65713a7fc8ae4647a04c4653d6e589aec8651a4ec1de3aac53ad70e47b390/preview-400.972657ba1af4.jpg
+        sha256: 972657ba1af469885f5380fd49bc30067cad08290acbe152f8217ce511687bf6
+        mime: image/jpeg
+        bytes: 84205
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

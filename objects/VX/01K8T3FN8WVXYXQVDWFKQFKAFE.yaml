@@ -1,0 +1,47 @@
+id: 01K8T3FN8WVXYXQVDWFKQFKAFE
+type: image
+subtype: photo
+title: Wilhelm Tiedemann vor dem Bahnhof
+description: Farbfoto, leicht verblasst.
+date: 1922-12
+origin:
+  name: Karl Lemke
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro 26/246
+  note: Mappe 12
+subjects:
+  - name: Dieter Schwarz
+    type: person
+  - name: Walter Tiedemann
+    type: person
+  - name: Dorfteich
+    type: building
+parents:
+  - 01KNHD7DYF112CXGR0WVK2W8DQ
+  - 01J60ZPHNFEPSYPBYBQHSWMT7Y
+files:
+  - role: main
+    original_name: DSC7413.jpg
+    path: files/b4/26/b426a83e2da8dc427ba92b6f870034057002a196ea85e637ec0bab7d6004eb98/original.jpg
+    sha256: b426a83e2da8dc427ba92b6f870034057002a196ea85e637ec0bab7d6004eb98
+    mime: image/jpeg
+    bytes: 26747209
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b4/26/b426a83e2da8dc427ba92b6f870034057002a196ea85e637ec0bab7d6004eb98/preview-400.e6fbcc1b2f67.jpg
+        sha256: e6fbcc1b2f67c867f107b857381f93c72c0c1ca1ad9868ce33e7764e82364921
+        mime: image/jpeg
+        bytes: 59037
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

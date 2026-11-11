@@ -1,0 +1,58 @@
+id: 01FQC25GF64NSR91D2V3Q698HD
+type: document
+subtype: letter
+title: Zeugnis für Fritz Hennings
+date: 179X
+location: Gollensdorf, Dorfstraße
+origin:
+  name: Ilse Voss
+  type: person
+  location: Zadrau
+recipient: Wilhelm Tiedemann
+language: de
+subjects:
+  - name: Fährjubiläum 1790
+    type: event
+parents:
+  - 01KSS5WSKYD8DQE3452TFH91F6
+files:
+  - role: page
+    num: 1
+    original_name: letter_q698hd_001.tif
+    path: files/4d/8e/4d8e73eb266bc98017d7bce6c5e11f9e813a1891751d8623282935377173550a/original.tif
+    sha256: 4d8e73eb266bc98017d7bce6c5e11f9e813a1891751d8623282935377173550a
+    mime: image/tiff
+    bytes: 24557450
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4d/8e/4d8e73eb266bc98017d7bce6c5e11f9e813a1891751d8623282935377173550a/preview-400.781ed6cc29c7.jpg
+        sha256: 781ed6cc29c7866356f42050a36bdebe4e1a4ad022773da8401fe1c21f15d467
+        mime: image/jpeg
+        bytes: 48831
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_q698hd_002.tif
+    path: files/80/23/8023f861856f184a5440467ea82517aa30910f4e1958cf3da601345633048e45/original.tif
+    sha256: 8023f861856f184a5440467ea82517aa30910f4e1958cf3da601345633048e45
+    mime: image/tiff
+    bytes: 16169313
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/23/8023f861856f184a5440467ea82517aa30910f4e1958cf3da601345633048e45/preview-400.ef2a8af156c7.jpg
+        sha256: ef2a8af156c747ec1e446b22efefd73bd6da13289042382c16485f68cb45d6ba
+        mime: image/jpeg
+        bytes: 61282
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

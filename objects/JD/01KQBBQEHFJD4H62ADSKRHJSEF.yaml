@@ -1,0 +1,42 @@
+id: 01KQBBQEHFJD4H62ADSKRHJSEF
+type: image
+subtype: photo
+title: Schlachterei in Rüterberg
+date: 1932-09-20
+location: Wootz, Mühlenweg
+geocode:
+  lat: 52.98
+  lon: 11.6414
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Eisgang 1932
+    type: event
+parents:
+  - 01FXP7C4VHXDAWP3MGADT9QA1F
+  - 01HYMCFRJ492VAY6JD2NK5EJ56
+files:
+  - role: main
+    original_name: foto_2629.jpg
+    path: files/a4/de/a4def7361af33294e22728ed301468cae8d595e35c96b90504ef06669de1a289/original.jpg
+    sha256: a4def7361af33294e22728ed301468cae8d595e35c96b90504ef06669de1a289
+    mime: image/jpeg
+    bytes: 938858
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/a4/de/a4def7361af33294e22728ed301468cae8d595e35c96b90504ef06669de1a289/preview-400.8497b5ca7d22.jpg
+        sha256: 8497b5ca7d22a4f4dc53cf20683799cbfa40f5f78f19dc481fc476127bb05dbe
+        mime: image/jpeg
+        bytes: 20690
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

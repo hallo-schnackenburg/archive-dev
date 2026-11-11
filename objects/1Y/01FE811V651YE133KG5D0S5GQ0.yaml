@@ -1,0 +1,32 @@
+id: 01FE811V651YE133KG5D0S5GQ0
+type: image
+subtype: plan
+title: Deichplan Seedorf bis Cumlosen
+description: Maßstab 1:1000.
+date: 1786~
+location: Schnackenburg, Dorfstraße
+subjects:
+  - name: Kindergartenfest 1786
+    type: event
+  - name: Salzwedel
+    type: place
+files:
+  - role: main
+    original_name: scan_234.tif
+    path: files/67/64/6764c50f64a003f52a7410b0918f9d8ca60756b383480c11cf89ef53124052d0/original.tif
+    sha256: 6764c50f64a003f52a7410b0918f9d8ca60756b383480c11cf89ef53124052d0
+    mime: image/tiff
+    bytes: 9999228
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/67/64/6764c50f64a003f52a7410b0918f9d8ca60756b383480c11cf89ef53124052d0/preview-400.277c6529404e.jpg
+        sha256: 277c6529404eae3dfecce2576ed9496490a5d07d9fda958ffad39c1b460c65b9
+        mime: image/jpeg
+        bytes: 26300
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

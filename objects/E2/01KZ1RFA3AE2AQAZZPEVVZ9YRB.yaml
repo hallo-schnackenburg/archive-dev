@@ -1,0 +1,42 @@
+id: 01KZ1RFA3AE2AQAZZPEVVZ9YRB
+type: image
+subtype: print
+title: Gruß aus Salzwedel, Bömenzien
+date: 1849-06-13
+origin:
+  name: Karl Hartwig
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 32/038
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v96424
+subjects:
+  - name: Sturmschaden 1849
+    type: event
+parents:
+  - 01JQT54EAMY9FPSYNK9W7RJSV4
+  - 01K2N0VJGKQKN7XPNR7CJ9ZRGF
+files:
+  - role: main
+    original_name: scan_120.tif
+    path: files/0f/01/0f011af5ad74c2fd6c3143583fec4755399ee2dbc9ead875215b3b50dd9616d6/original.tif
+    sha256: 0f011af5ad74c2fd6c3143583fec4755399ee2dbc9ead875215b3b50dd9616d6
+    mime: image/tiff
+    bytes: 25703017
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0f/01/0f011af5ad74c2fd6c3143583fec4755399ee2dbc9ead875215b3b50dd9616d6/preview-400.0cf78a71ef17.jpg
+        sha256: 0cf78a71ef17a2bb8e700967cb15478ff1554fcd799bef85529b1f03d86b3e13
+        mime: image/jpeg
+        bytes: 78970
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

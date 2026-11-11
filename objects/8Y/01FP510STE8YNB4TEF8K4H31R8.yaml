@@ -1,0 +1,32 @@
+id: 01FP510STE8YNB4TEF8K4H31R8
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Wittenberge 1854
+date: "1854"
+location: Lenzen, Badestelle
+geocode:
+  lat: 53.0167
+  lon: 11.5387
+  precision: exact
+  source: osm
+origin:
+  name: Gemeinderat Holtorf
+  type: business
+  location: Arendsee
+language: de
+subjects:
+  - name: Eisgang 1854
+    type: event
+  - name: Erika Lüders
+    type: person
+  - name: Arendsee
+    type: place
+parents:
+  - 01HRVYM45E9Q1MV4SZNSP2VQV9
+storage: external
+external:
+  - type: archive
+    site: Bundesarchiv
+    uri: https://bundesarchiv.example.org/objekt/337488
+    reference: NLA 139 Nr. 3682
+    note: Digitalisat vorhanden

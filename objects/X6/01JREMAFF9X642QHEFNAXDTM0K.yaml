@@ -1,0 +1,38 @@
+id: 01JREMAFF9X642QHEFNAXDTM0K
+type: image
+subtype: photo
+title: Schützenfest 1974
+description: Farbfoto, leicht verblasst.
+date: "1974"
+location: Rüterberg, Dorfschule
+geocode:
+  lat: 52.981
+  lon: 11.5194
+  precision: street
+  source: osm
+origin:
+  name: Rudolf Rohde
+  type: person
+  location: Gollensdorf
+parents:
+  - 01G6DC0XN5QKR1Z7MS1R51BN2J
+files:
+  - role: main
+    original_name: IMG_2902.jpg
+    path: files/06/2c/062c2da83ba073a0e37c10211400393812c9ef3901c929fa8855773577610239/original.jpg
+    sha256: 062c2da83ba073a0e37c10211400393812c9ef3901c929fa8855773577610239
+    mime: image/jpeg
+    bytes: 26147289
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/06/2c/062c2da83ba073a0e37c10211400393812c9ef3901c929fa8855773577610239/preview-400.f8d9f2d76e97.jpg
+        sha256: f8d9f2d76e979d0e4fcb0935ea7ad20c666d3532212e8dc1297f3da0b8ac2402
+        mime: image/jpeg
+        bytes: 66061
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

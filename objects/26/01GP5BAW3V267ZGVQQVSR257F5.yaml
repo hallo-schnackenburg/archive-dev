@@ -1,0 +1,36 @@
+id: 01GP5BAW3V267ZGVQQVSR257F5
+type: image
+subtype: print
+title: Gruß aus Seedorf, Gartow (56)
+description: Kupferstich, koloriert.
+date: "1856"
+location: Wustrow, Lange Straße
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Lüchow
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Zadrau
+    type: place
+files:
+  - role: main
+    original_name: scan_427.tif
+    path: files/a5/36/a53622ac304debe594470cc84471833dac21386883f205c54ff7e8201ac8f3c1/original.tif
+    sha256: a53622ac304debe594470cc84471833dac21386883f205c54ff7e8201ac8f3c1
+    mime: image/tiff
+    bytes: 11675207
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a5/36/a53622ac304debe594470cc84471833dac21386883f205c54ff7e8201ac8f3c1/preview-400.098961ca2519.jpg
+        sha256: 098961ca2519b59a8e1a0985806eaf2a2c4fe9bf6f1b7dcf6a8d619e1f7d3dee
+        mime: image/jpeg
+        bytes: 59905
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

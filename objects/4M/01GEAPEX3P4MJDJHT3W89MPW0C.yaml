@@ -1,0 +1,52 @@
+id: 01GEAPEX3P4MJDJHT3W89MPW0C
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Fährjubiläum, Lanz"
+description: Federzeichnung, laviert.
+date: 1894-09
+location: Laase, Hinter den Höfen
+geocode:
+  lat: 52.9256
+  lon: 11.6635
+  precision: exact
+  source: osm
+origin:
+  name: Lotte Rohde
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Viehmarkt 1894
+    type: event
+  - name: Nienwalde
+    type: place
+parents:
+  - 01HKRG7RN0NA8YYR8Y8GWHXTB1
+  - 01FPBW8XQ5TR1SGGQ9277H4RM1
+files:
+  - role: main
+    original_name: scan_130.tif
+    path: files/23/87/238720eee2a77cb67a62d9063cdce7377c3c96639e17901925aa7fe579bdaaa7/original.tif
+    sha256: 238720eee2a77cb67a62d9063cdce7377c3c96639e17901925aa7fe579bdaaa7
+    mime: image/tiff
+    bytes: 23260397
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/23/87/238720eee2a77cb67a62d9063cdce7377c3c96639e17901925aa7fe579bdaaa7/preview-400.df812f79ed0f.jpg
+        sha256: df812f79ed0fae6a3ec481626118e3c6b36f1145179a0f3e4b7dd17416494888
+        mime: image/jpeg
+        bytes: 88992
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

@@ -1,0 +1,33 @@
+id: 01H7FD12X2A28GXB1X61NH0QGJ
+type: image
+subtype: drawing
+title: Skizze Zadrau, Am Markt
+description: Bleistift auf Papier.
+date: 1914-10
+location: Brünkendorf, Backhaus
+origin:
+  name: Heinz Schwarz
+  type: person
+  location: Wustrow
+parents:
+  - 01GC32R7XA4RX5C5MWHXV94Y25
+files:
+  - role: main
+    original_name: scan_514.tif
+    path: files/cd/3c/cd3c5ecff53a61a45c2ddf0d34fda9e8be75c07d3a80adde2c00afde7bd91d34/original.tif
+    sha256: cd3c5ecff53a61a45c2ddf0d34fda9e8be75c07d3a80adde2c00afde7bd91d34
+    mime: image/tiff
+    bytes: 6949878
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cd/3c/cd3c5ecff53a61a45c2ddf0d34fda9e8be75c07d3a80adde2c00afde7bd91d34/preview-400.054c16cf86b2.jpg
+        sha256: 054c16cf86b2c6daa07a6ef5f95810773e27de3d00364697abad38693626d7ec
+        mime: image/jpeg
+        bytes: 27423
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

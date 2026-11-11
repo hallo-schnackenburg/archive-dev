@@ -1,0 +1,42 @@
+id: 01H2BZCYWW8T4C8WHSCC3K1R70
+type: image
+subtype: drawing
+title: Skizze Zadrau, Marktstraße, Salzwedel
+description: Bleistift auf Papier.
+date: 1981-09
+location: Wustrow, Dorfstraße
+original:
+  holder:
+    name: Familie Hennings
+    type: person
+    location: Lanz
+  reference: Pro 30/323
+subjects:
+  - name: Hans Kuhlmann
+    type: person
+  - name: Wilhelm Rieke
+    type: person
+  - name: Dömitz
+    type: place
+parents:
+  - 01KXSMG16S33C92YAYMEJ5A0FZ
+files:
+  - role: main
+    original_name: scan_115.tif
+    path: files/5a/2d/5a2d001881998bd6865cd917ef689a167f71b0de4adc41729d74a3973482171e/original.tif
+    sha256: 5a2d001881998bd6865cd917ef689a167f71b0de4adc41729d74a3973482171e
+    mime: image/tiff
+    bytes: 19124455
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/5a/2d/5a2d001881998bd6865cd917ef689a167f71b0de4adc41729d74a3973482171e/preview-400.99cadebc2b4b.jpg
+        sha256: 99cadebc2b4b83fbbcb01493b6fc428ac9e0b8def243e6ab877fce050548e254
+        mime: image/jpeg
+        bytes: 53322
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

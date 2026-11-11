@@ -1,0 +1,37 @@
+id: 01KCE7ASVMHD6FJ5BZB78V5MND
+type: image
+subtype: photo
+title: Frieda Matthies vor dem Rathaus
+date: 1969-08-23
+origin:
+  name: Karl Dreyer
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Wilhelm Meyer
+    type: person
+  - name: Zollamt
+    type: building
+parents:
+  - 01KM675ZVCQFMKZVG8XHYFJ6C9
+  - 01KY8J1GDY4VAD5089QJXPNM2S
+files:
+  - role: main
+    original_name: scan_667.tif
+    path: files/96/bb/96bb2b606956becb2dc731ee7c264b7827105845074b75c59e8f99fa659825fc/original.tif
+    sha256: 96bb2b606956becb2dc731ee7c264b7827105845074b75c59e8f99fa659825fc
+    mime: image/tiff
+    bytes: 11524855
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/96/bb/96bb2b606956becb2dc731ee7c264b7827105845074b75c59e8f99fa659825fc/preview-400.7001bdc2925c.jpg
+        sha256: 7001bdc2925cfe64f402866ebe2a0ec206d4df026ee7b7d2082bb9fe3a69f147
+        mime: image/jpeg
+        bytes: 72300
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

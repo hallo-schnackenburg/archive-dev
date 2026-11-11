@@ -1,0 +1,47 @@
+id: 01FV25DSEMNGQYHQ3P0DA9DBKC
+type: image
+subtype: photo
+title: Blick vom Schmiede auf das Heuberge
+description: Farbfoto, leicht verblasst.
+date: 1920-11-26
+location: Brünkendorf, Hinter den Höfen
+origin:
+  name: Wilhelm Voss
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan 28/213
+  note: Dachboden, Truhe
+subjects:
+  - name: Apotheke
+    type: building
+  - name: Gorleben
+    type: place
+  - name: Dieter Hennings
+    type: person
+parents:
+  - 01GZKK3S8ZTHZFVGYM1SQET170
+files:
+  - role: main
+    original_name: P1420.jpg
+    path: files/74/1b/741be38f5c365322f17e3299857cfa0f8e2e9f89ea420005e2baedd58c8e450c/original.jpg
+    sha256: 741be38f5c365322f17e3299857cfa0f8e2e9f89ea420005e2baedd58c8e450c
+    mime: image/jpeg
+    bytes: 25779440
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/74/1b/741be38f5c365322f17e3299857cfa0f8e2e9f89ea420005e2baedd58c8e450c/preview-400.cf0149696dcb.jpg
+        sha256: cf0149696dcb6313fa99aabc3d0ad672c7db24385321c60fa0377aff357b7a2c
+        mime: image/jpeg
+        bytes: 34322
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

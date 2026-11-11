@@ -1,0 +1,41 @@
+id: 01KXS5Y4RJSKAETYXFHAS9RK1T
+type: image
+subtype: plan
+title: Flurkarte Lenzen
+description: Maßstab 1:500.
+date: 199X
+location: Hitzacker, Kindergarten
+origin:
+  name: Gerda Schulz
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Familie Wiese
+    type: person
+    location: Wittenberge
+subjects:
+  - name: Lüchow
+    type: place
+parents:
+  - 01JAG0VN6X3TDF0BEKQ3Q9ZYWP
+files:
+  - role: main
+    original_name: scan_343.tif
+    path: files/f8/05/f805f3d1ddece6bfb99e1c8ba3c47ba95c75edbb4f770c1102f03847da15e8d0/original.tif
+    sha256: f805f3d1ddece6bfb99e1c8ba3c47ba95c75edbb4f770c1102f03847da15e8d0
+    mime: image/tiff
+    bytes: 7535116
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f8/05/f805f3d1ddece6bfb99e1c8ba3c47ba95c75edbb4f770c1102f03847da15e8d0/preview-400.121b5e54e70d.jpg
+        sha256: 121b5e54e70d379e7100fe9d251f5c72cf8fb4cd2c3fb39345cad91479af3340
+        mime: image/jpeg
+        bytes: 70301
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

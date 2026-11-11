@@ -1,0 +1,40 @@
+id: 01HVJXSJMC8TJM81VHCPB1PDS7
+type: image
+subtype: plan
+title: Deichplan Lenzen bis Seedorf
+description: Tusche auf Transparentpapier.
+date: 191X
+location: Pretzier, Fähranleger
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 20/118
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v29034
+owner:
+  name: Otto Voss
+  type: person
+  note: Nachlass
+parents:
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+files:
+  - role: main
+    original_name: scan_137.tif
+    path: files/f8/da/f8da58162e269ce8003326758aa25d58858b20033cdcc755c5072d8ae9acb55e/original.tif
+    sha256: f8da58162e269ce8003326758aa25d58858b20033cdcc755c5072d8ae9acb55e
+    mime: image/tiff
+    bytes: 8657105
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f8/da/f8da58162e269ce8003326758aa25d58858b20033cdcc755c5072d8ae9acb55e/preview-400.14a73982e329.jpg
+        sha256: 14a73982e32966907944859df9ff4be3008849997177f71bfbf360f6944c86ba
+        mime: image/jpeg
+        bytes: 43774
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

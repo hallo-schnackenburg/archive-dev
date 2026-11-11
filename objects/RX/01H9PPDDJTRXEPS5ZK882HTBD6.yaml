@@ -1,0 +1,32 @@
+id: 01H9PPDDJTRXEPS5ZK882HTBD6
+type: image
+subtype: print
+title: Postkarte Gartow, Heuberge
+description: Kupferstich, koloriert.
+date: 1712-11
+origin:
+  name: Ilse Lüders
+  type: person
+  location: Nienwalde
+parents:
+  - 01JQT54EAMY9FPSYNK9W7RJSV4
+files:
+  - role: main
+    original_name: scan_261.tif
+    path: files/ac/10/ac103a92e331e7e98ea371f7fe565edd32b93936708c396a0b62bac99f22522f/original.tif
+    sha256: ac103a92e331e7e98ea371f7fe565edd32b93936708c396a0b62bac99f22522f
+    mime: image/tiff
+    bytes: 3600830
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ac/10/ac103a92e331e7e98ea371f7fe565edd32b93936708c396a0b62bac99f22522f/preview-400.9982e993fc65.jpg
+        sha256: 9982e993fc6526592b0aec056c2cf951e51a6361275108f08a51a40b1e1d67e5
+        mime: image/jpeg
+        bytes: 87226
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

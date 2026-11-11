@@ -1,0 +1,36 @@
+id: 01FQNY9M3MHXG6NXCQRZ0PKK45
+type: image
+subtype: plan
+title: Bauplan Bahnhof 1985
+description: Mit handschriftlichen Ergänzungen.
+date: 1985-06-01
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Brückeneinweihung 1985
+    type: event
+parents:
+  - 01JDKHA5MPQ8XVK9JCT9CYCPDT
+files:
+  - role: main
+    original_name: scan_076.tif
+    path: files/ee/ee/eeeee5128b282072ca4e93c259c862a586fc2183b9fbfeeeb605da0944578904/original.tif
+    sha256: eeeee5128b282072ca4e93c259c862a586fc2183b9fbfeeeb605da0944578904
+    mime: image/tiff
+    bytes: 14750182
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ee/ee/eeeee5128b282072ca4e93c259c862a586fc2183b9fbfeeeb605da0944578904/preview-400.ec0fb4f20e16.jpg
+        sha256: ec0fb4f20e168b9be44986cdd772864a145dea7e70b65155b85f16f0d08642ce
+        mime: image/jpeg
+        bytes: 44813
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

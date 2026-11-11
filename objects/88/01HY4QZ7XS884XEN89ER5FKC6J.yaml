@@ -1,0 +1,38 @@
+id: 01HY4QZ7XS884XEN89ER5FKC6J
+type: image
+subtype: plan
+title: Bauplan Fähranleger 1881
+description: Mit handschriftlichen Ergänzungen.
+date: 1881?
+location: Dömitz, Schulstraße
+geocode:
+  lat: 52.9798
+  lon: 11.5969
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro/Album 23/008
+files:
+  - role: main
+    original_name: scan_723.tif
+    path: files/bd/c8/bdc81788926ad2daf5fdee42077b767cd02629b436f7a74427f731298f0728cb/original.tif
+    sha256: bdc81788926ad2daf5fdee42077b767cd02629b436f7a74427f731298f0728cb
+    mime: image/tiff
+    bytes: 17380405
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bd/c8/bdc81788926ad2daf5fdee42077b767cd02629b436f7a74427f731298f0728cb/preview-400.21a5e7fa9cdb.jpg
+        sha256: 21a5e7fa9cdb4a98afa5120fca9ab2133f37f4c58dc0c43b043105f55dc15d04
+        mime: image/jpeg
+        bytes: 56672
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

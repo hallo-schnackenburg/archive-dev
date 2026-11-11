@@ -1,0 +1,42 @@
+id: 01FNTQQ1SE8H1B0A6Z4N0E9P97
+type: image
+subtype: plan
+title: Bauplan Tanzsaal 1898
+origin:
+  name: Helga Heuer
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok/Kasten 5/045
+  note: Bücherregal links
+subjects:
+  - name: Dorffest 1898
+    type: event
+  - name: Sturmschaden 1898
+    type: event
+parents:
+  - 01GBKP0DZ4S8BGQ19AMQB61K54
+files:
+  - role: main
+    original_name: scan_094.tif
+    path: files/69/30/69309f737bede623089db40598d039fc1cf0026156ea01a69a92f12fec3848a9/original.tif
+    sha256: 69309f737bede623089db40598d039fc1cf0026156ea01a69a92f12fec3848a9
+    mime: image/tiff
+    bytes: 3670235
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/69/30/69309f737bede623089db40598d039fc1cf0026156ea01a69a92f12fec3848a9/preview-400.1279e77a6c06.jpg
+        sha256: 1279e77a6c0667658fb7c5d6a8feadbd1f0de08fc9692e1d53f31e5bfa7cf6fd
+        mime: image/jpeg
+        bytes: 58446
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

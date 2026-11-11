@@ -1,0 +1,35 @@
+id: 01KC18S9ECPXPXD3NM0H7GZ5BK
+type: image
+subtype: print
+title: Ansichtskarte Fährstraße, Schnackenburg
+description: Postkarte, gelaufen 1954.
+date: 1841-07-03
+subjects:
+  - name: Lanz
+    type: place
+  - name: Otto Meyer
+    type: person
+  - name: Kartoffelernte 1841
+    type: event
+parents:
+  - 01KJ7GGRBA8CH4FBXH5MTWAXAD
+files:
+  - role: main
+    original_name: scan_957.tif
+    path: files/9f/bc/9fbce15ea35985a0e2c201dc092ef3676dae6753564c5fcbdc20bb6f86afe0e3/original.tif
+    sha256: 9fbce15ea35985a0e2c201dc092ef3676dae6753564c5fcbdc20bb6f86afe0e3
+    mime: image/tiff
+    bytes: 25802897
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9f/bc/9fbce15ea35985a0e2c201dc092ef3676dae6753564c5fcbdc20bb6f86afe0e3/preview-400.782977eb88ba.jpg
+        sha256: 782977eb88ba3b423a1f74e0bac2afd3622b64bdc29f03c1373bd4eb8fcda188
+        mime: image/jpeg
+        bytes: 74496
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

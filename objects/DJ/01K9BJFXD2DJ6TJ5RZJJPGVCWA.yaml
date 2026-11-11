@@ -1,0 +1,37 @@
+id: 01K9BJFXD2DJ6TJ5RZJJPGVCWA
+type: image
+subtype: plan
+title: Bauplan Dorfkrug 1857
+description: Tusche auf Transparentpapier.
+location: Rüterberg, Wassermühle
+origin:
+  name: Berta Ludolf
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Schlachtfest 1857
+    type: event
+  - name: Berta Kuhlmann
+    type: person
+parents:
+  - 01GM7NY0727P7EK5MCJ3J7A8SN
+files:
+  - role: main
+    original_name: scan_879.tif
+    path: files/4d/f6/4df6411a3948c4540d312f86957e673a0b72089b86cbc9fcb3f7bb61a423f2cd/original.tif
+    sha256: 4df6411a3948c4540d312f86957e673a0b72089b86cbc9fcb3f7bb61a423f2cd
+    mime: image/tiff
+    bytes: 3554305
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4d/f6/4df6411a3948c4540d312f86957e673a0b72089b86cbc9fcb3f7bb61a423f2cd/preview-400.58f0fb14bd51.jpg
+        sha256: 58f0fb14bd51510046ae09639209146051dff93c19df7786361b02aa09cfb611
+        mime: image/jpeg
+        bytes: 33225
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

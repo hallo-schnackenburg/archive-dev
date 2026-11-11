@@ -1,0 +1,36 @@
+id: 01GZ4E96B6BVWQETDNQ1YM5YJ8
+type: image
+subtype: plan
+title: Bauplan Dorfladen 1848
+description: Mit handschriftlichen Ergänzungen.
+date: 1848-01-16
+origin:
+  name: Gustav Meyer
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos/Kasten 6/107
+files:
+  - role: main
+    original_name: scan_826.tif
+    path: files/cf/52/cf52a063ee3b267efbf54aba24cef1630008f370263a653c99768991486d61bb/original.tif
+    sha256: cf52a063ee3b267efbf54aba24cef1630008f370263a653c99768991486d61bb
+    mime: image/tiff
+    bytes: 16751204
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cf/52/cf52a063ee3b267efbf54aba24cef1630008f370263a653c99768991486d61bb/preview-400.bf54f00da1ef.jpg
+        sha256: bf54f00da1ef9c4b1f016c9255e1c72227d754979854574d9a4f01a4319a066f
+        mime: image/jpeg
+        bytes: 27038
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

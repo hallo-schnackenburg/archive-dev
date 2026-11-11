@@ -1,0 +1,30 @@
+id: 01JKY9VAV6SNCR2XY2VBKCZ5M9
+type: image
+subtype: plan
+title: Bauplan Bäckerei Lüders 1771
+description: Tusche auf Transparentpapier.
+date: 1771-01
+location: Pretzier, Am Markt
+parents:
+  - 01HBSGHG52Z98SDKPVZX12Z93T
+  - 01JDKHA5MPQ8XVK9JCT9CYCPDT
+files:
+  - role: main
+    original_name: scan_944.tif
+    path: files/22/fa/22fa7cdd8010f579ea89952df7290b95ca4803b403aea4916e899e968d26e25f/original.tif
+    sha256: 22fa7cdd8010f579ea89952df7290b95ca4803b403aea4916e899e968d26e25f
+    mime: image/tiff
+    bytes: 19694100
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/22/fa/22fa7cdd8010f579ea89952df7290b95ca4803b403aea4916e899e968d26e25f/preview-400.5be13e0b2dad.jpg
+        sha256: 5be13e0b2dadf8e4f64e1a129c250c830b8d805374bc17ad3e399a8d5757aa5d
+        mime: image/jpeg
+        bytes: 26373
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

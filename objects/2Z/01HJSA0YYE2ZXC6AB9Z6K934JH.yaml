@@ -1,0 +1,39 @@
+id: 01HJSA0YYE2ZXC6AB9Z6K934JH
+type: image
+subtype: print
+title: Postkarte Cumlosen, Fähranleger
+description: Kupferstich, koloriert.
+date: 1771-06-17
+location: Rüterberg, Lange Straße
+geocode:
+  lat: 52.9721
+  lon: 11.5282
+  precision: town
+  source: osm
+origin:
+  name: Ilse Gaede
+  type: person
+  location: Kapern
+subjects:
+  - name: Einweihung 1771
+    type: event
+files:
+  - role: main
+    original_name: scan_005.tif
+    path: files/a8/e7/a8e74b8cefc9dba76ef985073ba76e980e37977227088a632d1d42526a22fed7/original.tif
+    sha256: a8e74b8cefc9dba76ef985073ba76e980e37977227088a632d1d42526a22fed7
+    mime: image/tiff
+    bytes: 18062129
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a8/e7/a8e74b8cefc9dba76ef985073ba76e980e37977227088a632d1d42526a22fed7/preview-400.f860f6e37378.jpg
+        sha256: f860f6e3737845e03487e7c16114a88ae355f644f3aaca68b8f536437e6b875f
+        mime: image/jpeg
+        bytes: 23810
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

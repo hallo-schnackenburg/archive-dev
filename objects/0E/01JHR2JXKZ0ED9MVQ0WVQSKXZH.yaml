@@ -1,0 +1,36 @@
+id: 01JHR2JXKZ0ED9MVQ0WVQSKXZH
+type: image
+subtype: print
+title: Postkarte Bömenzien, Kirche St. Johannis
+description: Postkarte, gelaufen 1941.
+date: "1766"
+location: Kapern, Elbstraße
+origin:
+  name: Marta Pape
+  type: person
+  location: Wustrow
+subjects:
+  - name: Weihnachtsmarkt 1766
+    type: event
+  - name: Schützenfest 1766
+    type: event
+files:
+  - role: main
+    original_name: scan_755.tif
+    path: files/c1/6a/c16a5f0224f0cbe2f36ca8d6ad5d10d33581eb771ddf24ff4c2ef0aca6ab46b7/original.tif
+    sha256: c16a5f0224f0cbe2f36ca8d6ad5d10d33581eb771ddf24ff4c2ef0aca6ab46b7
+    mime: image/tiff
+    bytes: 9937720
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c1/6a/c16a5f0224f0cbe2f36ca8d6ad5d10d33581eb771ddf24ff4c2ef0aca6ab46b7/preview-400.849f7922c0ef.jpg
+        sha256: 849f7922c0ef99a0a198f26f161589caf654fc9457f28ecf3f1bc328e6cbe139
+        mime: image/jpeg
+        bytes: 88087
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

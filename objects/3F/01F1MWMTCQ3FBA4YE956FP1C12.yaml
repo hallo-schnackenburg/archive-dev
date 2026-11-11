@@ -1,0 +1,39 @@
+id: 01F1MWMTCQ3FBA4YE956FP1C12
+type: image
+subtype: photo
+title: Heinrich Kuhlmann, Porträt
+description: Aufnahme von Wilhelm Dierks.
+date: "1934"
+origin:
+  name: Hans Cohrs
+  type: person
+  location: Lüchow
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Wilhelm Harms
+    type: person
+  - name: Torhaus
+    type: building
+parents:
+  - 01KCNQMHENJ8PAWGKRGSDX5HZ0
+files:
+  - role: main
+    original_name: P1518.jpg
+    path: files/99/f2/99f286b957884e40811d688eca370ce4ea7433f1a5063a7e3faa2c246c857f72/original.jpg
+    sha256: 99f286b957884e40811d688eca370ce4ea7433f1a5063a7e3faa2c246c857f72
+    mime: image/jpeg
+    bytes: 5189363
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/99/f2/99f286b957884e40811d688eca370ce4ea7433f1a5063a7e3faa2c246c857f72/preview-400.95f067cac2e5.jpg
+        sha256: 95f067cac2e5aa489babc650ff1a4771e58a88b738d3508d87a1c32b9500f180
+        mime: image/jpeg
+        bytes: 69434
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01GX6ZKXBJTW3HK2WB22HGQJ07
+type: image
+subtype: photo
+title: Blick vom Feuerwehrhaus auf das Dorfteich
+description: Abzug im Format 13 x 18 cm.
+location: Laase, Hinter den Höfen
+geocode:
+  lat: 52.9009
+  lon: 11.5708
+  precision: region
+  source: osm
+origin:
+  name: Karl Tiedemann
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg 2/122
+parents:
+  - 01FYF46BCNWMPMBZAF8Z3VZK3Y
+files:
+  - role: main
+    original_name: DSC1972.jpg
+    path: files/f2/f7/f2f75d2f3b43cdcbeaa8a79a16a727d9a1be640eb5b21c52243858605f136319/original.jpg
+    sha256: f2f75d2f3b43cdcbeaa8a79a16a727d9a1be640eb5b21c52243858605f136319
+    mime: image/jpeg
+    bytes: 10047950
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/f2/f7/f2f75d2f3b43cdcbeaa8a79a16a727d9a1be640eb5b21c52243858605f136319/preview-400.e3b4cc32b4bb.jpg
+        sha256: e3b4cc32b4bb561656c8b2c8df407c57294925347a9c7bcea3fcbaf62faf7692
+        mime: image/jpeg
+        bytes: 76881
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

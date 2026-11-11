@@ -1,0 +1,49 @@
+id: 01FM6QWMB48A5AG05NF9AE4Z74
+type: image
+subtype: photo
+title: Fastnacht der Handwerkerinnung
+description: Abzug im Format 13 x 18 cm.
+date: 1905-04-03
+location: Kapern, Kriegerdenkmal
+geocode:
+  lat: 52.9794
+  lon: 11.6006
+  precision: region
+  source: osm
+origin:
+  name: Helga Rohde
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 20/114
+subjects:
+  - name: Hochzeit 1905
+    type: event
+  - name: Lüchow
+    type: place
+  - name: Schützenhaus
+    type: building
+files:
+  - role: main
+    original_name: foto_3879.jpg
+    path: files/c8/a5/c8a50b339cfc94d455a43a5c24163a0d09fc1a82bf07e4cef6d4441d85f7ad39/original.jpg
+    sha256: c8a50b339cfc94d455a43a5c24163a0d09fc1a82bf07e4cef6d4441d85f7ad39
+    mime: image/jpeg
+    bytes: 2153711
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/c8/a5/c8a50b339cfc94d455a43a5c24163a0d09fc1a82bf07e4cef6d4441d85f7ad39/preview-400.ebcedd37d496.jpg
+        sha256: ebcedd37d4960f11ff0c423f3fa52649874a2ee20152c8a832453ff9ba5c7edc
+        mime: image/jpeg
+        bytes: 83696
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

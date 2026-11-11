@@ -1,0 +1,33 @@
+id: 01JYNPAWZGMMWFYB618SN6T0H8
+type: image
+subtype: plan
+title: Deichplan Schnackenburg bis Kapern
+subjects:
+  - name: Grenzturm
+    type: building
+  - name: Walter Krüger
+    type: person
+  - name: Cumlosen
+    type: place
+parents:
+  - 01KJHV4RZ8X5ZNWBC3B15QV0TT
+files:
+  - role: main
+    original_name: scan_758.tif
+    path: files/e9/38/e93804c7f49e8297f2ad7678c774f4b95416034133837d1422529d1a8f2187c9/original.tif
+    sha256: e93804c7f49e8297f2ad7678c774f4b95416034133837d1422529d1a8f2187c9
+    mime: image/tiff
+    bytes: 17288261
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e9/38/e93804c7f49e8297f2ad7678c774f4b95416034133837d1422529d1a8f2187c9/preview-400.f23df0461dde.jpg
+        sha256: f23df0461dde8422db44f70c81b6624d73736a41876a117e09c1b26f6fe916c8
+        mime: image/jpeg
+        bytes: 53424
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,64 @@
+id: 01K5CF0DY7G2PQHGK2P0FTK1WA
+type: document
+subtype: letter
+title: Zeugnis für Fritz Plate
+date: 1977/1986
+location: Havelberg, Bahnhofstraße
+geocode:
+  lat: 53.0794
+  lon: 11.5892
+  precision: street
+  source: osm
+origin:
+  name: Karl Meyer
+  type: person
+  location: Brünkendorf
+recipient: Heinz Wegner
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg 23/332
+files:
+  - role: page
+    num: 1
+    original_name: letter_ftk1wa_001.tif
+    path: files/3f/c5/3fc54dcd2ee6769dbe53eeae972b4d0aa929bd97f86d26bffbc50fd8ef7036ad/original.tif
+    sha256: 3fc54dcd2ee6769dbe53eeae972b4d0aa929bd97f86d26bffbc50fd8ef7036ad
+    mime: image/tiff
+    bytes: 25867315
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3f/c5/3fc54dcd2ee6769dbe53eeae972b4d0aa929bd97f86d26bffbc50fd8ef7036ad/preview-400.82547252fa1e.jpg
+        sha256: 82547252fa1e02a86d5362bcfed7175f2339129d5040266403662e25db84102e
+        mime: image/jpeg
+        bytes: 70181
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_ftk1wa_002.tif
+    path: files/c8/4e/c84e68088abbc94abf589bc284b9698303dce17672a464d29cff1e8c337af86a/original.tif
+    sha256: c84e68088abbc94abf589bc284b9698303dce17672a464d29cff1e8c337af86a
+    mime: image/tiff
+    bytes: 14171723
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/4e/c84e68088abbc94abf589bc284b9698303dce17672a464d29cff1e8c337af86a/preview-400.65623aaf105e.jpg
+        sha256: 65623aaf105ed474fbd526d256047f0a841becf05dfc1e82ccaf46383992e4dd
+        mime: image/jpeg
+        bytes: 26880
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01GC3N902B566J9S3S1EMRV0W1
+type: image
+subtype: print
+title: Postkarte Kapern, Molkerei
+date: 1876?
+location: Brünkendorf, Heuberge
+geocode:
+  lat: 53.0079
+  lon: 11.6355
+  precision: town
+  source: osm
+origin:
+  name: Karl Lemke
+  type: person
+  location: Lenzen
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Wootz
+    type: place
+  - name: Tischlerei Bruns
+    type: building
+parents:
+  - 01KCPF76CA7S8G3CA0KXJVYAVA
+  - 01K7X50YJVP4Q2EM4RD9TMVQVM
+files:
+  - role: main
+    original_name: scan_858.tif
+    path: files/37/ee/37ee4303242de08a6bb3e1c5a7a9f4f553c24af9c412cd3f7c8a165a6bfb66d3/original.tif
+    sha256: 37ee4303242de08a6bb3e1c5a7a9f4f553c24af9c412cd3f7c8a165a6bfb66d3
+    mime: image/tiff
+    bytes: 26063096
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/37/ee/37ee4303242de08a6bb3e1c5a7a9f4f553c24af9c412cd3f7c8a165a6bfb66d3/preview-400.864050843ff0.jpg
+        sha256: 864050843ff086be86a2436c529bedc701bc5b9d6e95cb0349fbb47310b76981
+        mime: image/jpeg
+        bytes: 49587
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

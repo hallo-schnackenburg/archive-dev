@@ -1,0 +1,37 @@
+id: 01FJAQBHQ1G8YJ4E4S1TG2R9EJ
+type: image
+subtype: plan
+title: Deichplan Restorf bis Havelberg
+description: Maßstab 1:250.
+location: Arendsee, Gutshaus
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 22/110
+subjects:
+  - name: Dieter Ahrens
+    type: person
+  - name: Heinz Dierks
+    type: person
+files:
+  - role: main
+    original_name: scan_980.tif
+    path: files/07/53/0753501e995429f68f43b4a88130695896fb07606ce309612ad71c63ebf0ed9c/original.tif
+    sha256: 0753501e995429f68f43b4a88130695896fb07606ce309612ad71c63ebf0ed9c
+    mime: image/tiff
+    bytes: 23638219
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/53/0753501e995429f68f43b4a88130695896fb07606ce309612ad71c63ebf0ed9c/preview-400.f76c744b988c.jpg
+        sha256: f76c744b988c3b1afa810264d58fd7a5b7bdf4c7290cfbc077aea1eecb5bec44
+        mime: image/jpeg
+        bytes: 71122
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

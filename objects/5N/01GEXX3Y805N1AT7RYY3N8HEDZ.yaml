@@ -1,0 +1,44 @@
+id: 01GEXX3Y805N1AT7RYY3N8HEDZ
+type: image
+subtype: print
+title: "Kupferstich: Dömitz von der Elbseite, Gülden"
+date: "1769"
+location: Seedorf, Kriegerdenkmal
+geocode:
+  lat: 52.9374
+  lon: 11.5655
+  precision: exact
+  source: osm
+origin:
+  name: Karl Behrens
+  type: person
+  location: Arendsee
+subjects:
+  - name: Walter Garms
+    type: person
+  - name: Gartow
+    type: place
+  - name: Nienwalde
+    type: place
+parents:
+  - 01GGFA4BRHTCBTSYCZDK78S61J
+files:
+  - role: main
+    original_name: scan_404.tif
+    path: files/34/82/34820b3ed442f7a7dc79c0acdb25589fc82e965f43fe97bd53d48a2aaecbb298/original.tif
+    sha256: 34820b3ed442f7a7dc79c0acdb25589fc82e965f43fe97bd53d48a2aaecbb298
+    mime: image/tiff
+    bytes: 1124941
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/34/82/34820b3ed442f7a7dc79c0acdb25589fc82e965f43fe97bd53d48a2aaecbb298/preview-400.3a0720354ea6.jpg
+        sha256: 3a0720354ea6079c380ac9f6a2f761954e3bba1c18fd7d09776fdb2710cf3bb0
+        mime: image/jpeg
+        bytes: 82538
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

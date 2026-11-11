@@ -1,0 +1,45 @@
+id: 01KXXG15MENN4F6DKHXKW5HJBV
+type: image
+subtype: photo
+title: Schmiede nach dem Fährjubiläum
+description: Aufnahme von Dieter Bohlmann.
+location: Hitzacker, Bahnhofstraße
+geocode:
+  lat: 53.0102
+  lon: 11.454
+  precision: town
+  source: osm
+origin:
+  name: Gerda Lemke
+  type: person
+  location: Dömitz
+owner:
+  name: Heinz Timm
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Torhaus
+    type: building
+parents:
+  - 01GBPB9GYE54BV2D1R1WP3GYSX
+  - 01HDS44JS4B8GN7QC5M5DZA42B
+files:
+  - role: main
+    original_name: DSC4028.jpg
+    path: files/1b/65/1b6596bee0893fdf0e791aac17058c9e7c1c1238ffc7d97adfd539716c75f70c/original.jpg
+    sha256: 1b6596bee0893fdf0e791aac17058c9e7c1c1238ffc7d97adfd539716c75f70c
+    mime: image/jpeg
+    bytes: 19545280
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/1b/65/1b6596bee0893fdf0e791aac17058c9e7c1c1238ffc7d97adfd539716c75f70c/preview-400.1cfe2e4f91e9.jpg
+        sha256: 1cfe2e4f91e9c915223d03a7877d15c28da0ad7787e739857bf4bdec9a497ed3
+        mime: image/jpeg
+        bytes: 43916
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

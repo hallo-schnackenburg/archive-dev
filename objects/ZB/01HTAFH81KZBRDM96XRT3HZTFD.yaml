@@ -1,0 +1,44 @@
+id: 01HTAFH81KZBRDM96XRT3HZTFD
+type: image
+subtype: photo
+title: Weihnachtsmarkt 1947
+description: Zu sehen sind Schützenhaus und Grenzturm.
+date: 1947-04-01
+origin:
+  name: Käthe Brandt
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 25/066
+  note: Bücherregal links
+subjects:
+  - name: Wassermühle
+    type: building
+  - name: Berta Matthies
+    type: person
+parents:
+  - 01HZMTYEG49WXPQXR5J73VXMAF
+files:
+  - role: main
+    original_name: P8810.jpg
+    path: files/31/2c/312c863a6f60eec89dbbfd8e9278963d6ec1e5cf80a2edd4d12207c9e6c2c20d/original.jpg
+    sha256: 312c863a6f60eec89dbbfd8e9278963d6ec1e5cf80a2edd4d12207c9e6c2c20d
+    mime: image/jpeg
+    bytes: 25645008
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/31/2c/312c863a6f60eec89dbbfd8e9278963d6ec1e5cf80a2edd4d12207c9e6c2c20d/preview-400.cb26c41d6059.jpg
+        sha256: cb26c41d6059c1528bac045dfcc412a7a1f62908159c4387b7fdc91da1715bdd
+        mime: image/jpeg
+        bytes: 21749
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

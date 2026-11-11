@@ -1,0 +1,39 @@
+id: 01F84MQ6JJ5SYY8XYH4H496AMQ
+type: image
+subtype: photo
+title: Heinrich Harms vor dem Sportplatz
+location: Lenzen, Gartenstraße
+geocode:
+  lat: 52.9833
+  lon: 11.4809
+  precision: town
+  source: osm
+subjects:
+  - name: Otto Lemke
+    type: person
+  - name: Lüchow
+    type: place
+  - name: Zollamt
+    type: building
+parents:
+  - 01FN6T6JHA18TW27M4TSYE0FQV
+files:
+  - role: main
+    original_name: DSC5978.jpg
+    path: files/3d/08/3d08f79b62a750a2bdac3f5b3043c5a62a54848618444daa722e337d3095ddee/original.jpg
+    sha256: 3d08f79b62a750a2bdac3f5b3043c5a62a54848618444daa722e337d3095ddee
+    mime: image/jpeg
+    bytes: 15280542
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/3d/08/3d08f79b62a750a2bdac3f5b3043c5a62a54848618444daa722e337d3095ddee/preview-400.712079f73b55.jpg
+        sha256: 712079f73b55324e51c1fc1b75e5c138646671c3d4f4d728bd8a00c7d571d20f
+        mime: image/jpeg
+        bytes: 42009
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

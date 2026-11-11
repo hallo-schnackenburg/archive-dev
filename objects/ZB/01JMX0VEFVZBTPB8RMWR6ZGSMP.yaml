@@ -1,0 +1,43 @@
+id: 01JMX0VEFVZBTPB8RMWR6ZGSMP
+type: image
+subtype: plan
+title: Bauplan Pfarrhaus 1863
+description: Maßstab 1:2500.
+date: "1863"
+origin:
+  name: Anni Krüger
+  type: person
+  location: Lanz
+owner:
+  name: Karl Wegner
+  type: person
+  note: Nachlass
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Ernst Lemke
+    type: person
+  - name: Ernst Wöhlk
+    type: person
+parents:
+  - 01GGFA4BRHTCBTSYCZDK78S61J
+files:
+  - role: main
+    original_name: scan_604.tif
+    path: files/57/e6/57e69824ec0938d045f5547d4a6ac889c8423db7d73ff125623f4fd8cf554ddc/original.tif
+    sha256: 57e69824ec0938d045f5547d4a6ac889c8423db7d73ff125623f4fd8cf554ddc
+    mime: image/tiff
+    bytes: 10449758
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/57/e6/57e69824ec0938d045f5547d4a6ac889c8423db7d73ff125623f4fd8cf554ddc/preview-400.67ab47ad94f1.jpg
+        sha256: 67ab47ad94f13183bab901690bc3b9c975a66c730bc816d9f82e56054f55fcf1
+        mime: image/jpeg
+        bytes: 85852
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

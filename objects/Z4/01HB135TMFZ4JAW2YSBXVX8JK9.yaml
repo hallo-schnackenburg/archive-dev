@@ -1,0 +1,43 @@
+id: 01HB135TMFZ4JAW2YSBXVX8JK9
+type: image
+subtype: photo
+title: Glockenweihe der Freiwillige Feuerwehr
+date: 1901-11
+location: Gollensdorf, Ziegelei
+geocode:
+  lat: 52.9085
+  lon: 11.64
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Lüders
+  type: person
+  location: Pretzier
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Anni Dreyer
+    type: person
+parents:
+  - 01JJVWHQS46WZ6EFA7FBGQH53P
+  - 01J60ZPHNFEPSYPBYBQHSWMT7Y
+files:
+  - role: main
+    original_name: foto_6750.jpg
+    path: files/5c/a9/5ca9f5bc1c15536b503c4a9f8d21c96cd7f282eb855c7479e0fe108ed974c89a/original.jpg
+    sha256: 5ca9f5bc1c15536b503c4a9f8d21c96cd7f282eb855c7479e0fe108ed974c89a
+    mime: image/jpeg
+    bytes: 3089622
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/5c/a9/5ca9f5bc1c15536b503c4a9f8d21c96cd7f282eb855c7479e0fe108ed974c89a/preview-400.882e01e5e773.jpg
+        sha256: 882e01e5e7732f2788b8aa6e1c711bbe8eeb0235378862112a153ba6ce703161
+        mime: image/jpeg
+        bytes: 79944
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

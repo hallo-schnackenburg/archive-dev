@@ -1,0 +1,36 @@
+id: 01HQ985YJ4VAPVNP0B487TFY23
+type: document
+subtype: brochure
+title: Programmheft Konfirmation 1885
+date: "1885"
+location: Kapern, Mühlenweg
+geocode:
+  lat: 53.0647
+  lon: 11.5368
+  precision: exact
+  source: osm
+origin:
+  name: Fritz Brandt
+  type: person
+  location: Dömitz
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 28/335
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v34432
+subjects:
+  - name: Feuerwehrübung 1885
+    type: event
+storage: external
+external:
+  - type: website
+    site: Elbe-Zeitung online
+  - type: archive
+    site: Wendlandarchiv
+    uri: https://wendlandarchiv.example.org/objekt/684262
+    reference: Rep. 177 Nr. 4521
+    note: nur Findbuch
+    retrieved: 2025-11-03

@@ -1,0 +1,42 @@
+id: 01JW00CM1X95PGDJ46H1TYXW0M
+type: image
+subtype: print
+title: Postkarte Restorf, Brunnen am Markt
+description: Kupferstich, koloriert.
+date: 1935-05-16
+origin:
+  name: Renate Meyer
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Dorfladen
+    type: building
+  - name: Feuerwehrübung 1935
+    type: event
+files:
+  - role: main
+    original_name: scan_812.tif
+    path: files/de/b9/deb9679e7223e3d417f6922636135eb13ab38680f6a7a38112deae563096225b/original.tif
+    sha256: deb9679e7223e3d417f6922636135eb13ab38680f6a7a38112deae563096225b
+    mime: image/tiff
+    bytes: 21685607
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/de/b9/deb9679e7223e3d417f6922636135eb13ab38680f6a7a38112deae563096225b/preview-400.92c9f1ee3edf.jpg
+        sha256: 92c9f1ee3edf769b3fa987f8a3315d1c9f2c18519124bcd97e98ebcf348f0c8b
+        mime: image/jpeg
+        bytes: 21521
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

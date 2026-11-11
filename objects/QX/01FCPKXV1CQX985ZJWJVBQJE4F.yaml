@@ -1,0 +1,42 @@
+id: 01FCPKXV1CQX985ZJWJVBQJE4F
+type: image
+subtype: drawing
+title: Skizze Gollensdorf, Hinter den Höfen
+date: 1831-08-04
+origin:
+  name: Anni Wegner
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 21/134
+subjects:
+  - name: Zadrau
+    type: place
+  - name: Gülden
+    type: place
+parents:
+  - 01FZ34PCDWH41HVN2Q034693E1
+files:
+  - role: main
+    original_name: scan_789.tif
+    path: files/d4/25/d42571fb3ede5511fdd02ed9f22152e9f52c9c475555b54273a77d3292fcaa5e/original.tif
+    sha256: d42571fb3ede5511fdd02ed9f22152e9f52c9c475555b54273a77d3292fcaa5e
+    mime: image/tiff
+    bytes: 719854
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/25/d42571fb3ede5511fdd02ed9f22152e9f52c9c475555b54273a77d3292fcaa5e/preview-400.4b09e682b37f.jpg
+        sha256: 4b09e682b37fa40be86739232b730e13714fff0bf01e0fffa34d3d632fadb32d
+        mime: image/jpeg
+        bytes: 75665
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

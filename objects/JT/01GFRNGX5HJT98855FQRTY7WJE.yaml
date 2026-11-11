@@ -1,0 +1,49 @@
+id: 01GFRNGX5HJT98855FQRTY7WJE
+type: image
+subtype: drawing
+title: Federzeichnung Fachwerkhaus Marktstraße 4, Arendsee
+description: Mit Anmerkungen am Rand.
+date: 1921-03
+location: Dömitz, Deichstraße
+origin:
+  name: Hermann Pape
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v21887
+owner:
+  name: Hans Meyer
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Scheune
+    type: building
+  - name: Marta Rohde
+    type: person
+parents:
+  - 01HDW7HWDAZMFCFD1ZXF076XXS
+  - 01H40DBW3NVXVHMCXP864M4XJA
+files:
+  - role: main
+    original_name: scan_247.tif
+    path: files/5a/19/5a195cedece745853ede8f25bb80370526e561c17fba3ec7a3eaf56f26ec3308/original.tif
+    sha256: 5a195cedece745853ede8f25bb80370526e561c17fba3ec7a3eaf56f26ec3308
+    mime: image/tiff
+    bytes: 5182049
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5a/19/5a195cedece745853ede8f25bb80370526e561c17fba3ec7a3eaf56f26ec3308/preview-400.d448450afc43.jpg
+        sha256: d448450afc4326a0d714ad4e12f0edf9a6210341d206b46f682066354744cb54
+        mime: image/jpeg
+        bytes: 37394
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

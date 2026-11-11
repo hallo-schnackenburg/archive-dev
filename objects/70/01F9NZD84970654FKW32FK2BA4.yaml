@@ -1,0 +1,62 @@
+id: 01F9NZD84970654FKW32FK2BA4
+type: document
+subtype: note
+title: Rechnung Wöhlk, Gutshaus
+date: 1937~
+location: Holtorf, Burgstraße
+origin:
+  name: Wilhelm Wöhlk
+  type: person
+  location: Gartow
+language: en
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Kegelbahn
+    type: building
+parents:
+  - 01KB00B1WA04Q0PWPM12MS4ZXR
+files:
+  - role: page
+    num: 1
+    original_name: note_fk2ba4_001.tif
+    path: files/34/8b/348bd10ab8d4d4b8f0dfbadc5ff632e53fee50c02d93a0e854e192027f4607d5/original.tif
+    sha256: 348bd10ab8d4d4b8f0dfbadc5ff632e53fee50c02d93a0e854e192027f4607d5
+    mime: image/tiff
+    bytes: 1878051
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/34/8b/348bd10ab8d4d4b8f0dfbadc5ff632e53fee50c02d93a0e854e192027f4607d5/preview-400.97cc386c72be.jpg
+        sha256: 97cc386c72bea1f1b13e3aa766caaa36353639eb1de3bf29a401057f2d1ad40c
+        mime: image/jpeg
+        bytes: 32420
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_fk2ba4_002.tif
+    path: files/e4/62/e462b0acdf963a926c53b8eb35f23763fa16b746dfe4dabf6591b9aa92266024/original.tif
+    sha256: e462b0acdf963a926c53b8eb35f23763fa16b746dfe4dabf6591b9aa92266024
+    mime: image/tiff
+    bytes: 3700409
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e4/62/e462b0acdf963a926c53b8eb35f23763fa16b746dfe4dabf6591b9aa92266024/preview-400.41b321af707e.jpg
+        sha256: 41b321af707e0bf637757fc77224580e7631c909ae2ffa9c397de038e9e898d0
+        mime: image/jpeg
+        bytes: 75218
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

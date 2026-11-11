@@ -1,0 +1,65 @@
+id: 01FJ1F63CT8DAB11KCJ2HZ99KH
+type: document
+subtype: note
+title: Rechnung Sievers, Kaufmannshaus
+date: 1907/1918
+origin:
+  name: Otto Jeß
+  type: person
+  location: Gollensdorf
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Backhaus
+    type: building
+  - name: Erika Tiedemann
+    type: person
+  - name: Bömenzien
+    type: place
+parents:
+  - 01KWYFYPXA1XKFXQC49HAWMD3Q
+files:
+  - role: page
+    num: 1
+    original_name: note_hz99kh_001.tif
+    path: files/b9/42/b942aece5d64e1262e3d844d31d83651ff19c13c627931b09b1776b1aca57c4f/original.tif
+    sha256: b942aece5d64e1262e3d844d31d83651ff19c13c627931b09b1776b1aca57c4f
+    mime: image/tiff
+    bytes: 23675929
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b9/42/b942aece5d64e1262e3d844d31d83651ff19c13c627931b09b1776b1aca57c4f/preview-400.c504b34d92c7.jpg
+        sha256: c504b34d92c7420cf058a415ee486664232b400e36681166525e98d57be1313d
+        mime: image/jpeg
+        bytes: 75575
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_hz99kh_002.tif
+    path: files/1e/35/1e356fb6532b98e699703076693b586920c380d05da59d202ad3c33260b0c441/original.tif
+    sha256: 1e356fb6532b98e699703076693b586920c380d05da59d202ad3c33260b0c441
+    mime: image/tiff
+    bytes: 2827416
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1e/35/1e356fb6532b98e699703076693b586920c380d05da59d202ad3c33260b0c441/preview-400.969cfcc31ae4.jpg
+        sha256: 969cfcc31ae49b8e10141a25b6f298fc66623e13c21ba91856b6683e90470028
+        mime: image/jpeg
+        bytes: 61868
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

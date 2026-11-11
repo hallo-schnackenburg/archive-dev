@@ -1,0 +1,63 @@
+id: 01HHPVFB42CJ3APHW8RJ951Z3N
+type: document
+subtype: letter
+title: Zeugnis für Gustav Rieke
+date: "1819"
+origin:
+  name: Hans Krüger
+  type: person
+  location: Rüterberg
+recipient: Ilse Stoll
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 14/089
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+parents:
+  - 01GEX84R7PHBNGS82DD5CBHJ6Q
+files:
+  - role: page
+    num: 1
+    original_name: letter_951z3n_001.tif
+    path: files/06/94/06943931b5d65b5643174cb1329d0da4dec7882275e29040f0d8568394083575/original.tif
+    sha256: 06943931b5d65b5643174cb1329d0da4dec7882275e29040f0d8568394083575
+    mime: image/tiff
+    bytes: 7058757
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/94/06943931b5d65b5643174cb1329d0da4dec7882275e29040f0d8568394083575/preview-400.7338876e66e8.jpg
+        sha256: 7338876e66e8a2fe2de2cd21d97aa689754139eae83f25fd38f027d17eaf67ef
+        mime: image/jpeg
+        bytes: 73520
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_951z3n_002.tif
+    path: files/59/2e/592e80574caaa9ebe6752bc53893ca292c68147f3a8d0c2b49969229e274cd87/original.tif
+    sha256: 592e80574caaa9ebe6752bc53893ca292c68147f3a8d0c2b49969229e274cd87
+    mime: image/tiff
+    bytes: 13007857
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/59/2e/592e80574caaa9ebe6752bc53893ca292c68147f3a8d0c2b49969229e274cd87/preview-400.27006f747d29.jpg
+        sha256: 27006f747d29bbf68533499dfada75e7e474f31da5a7817a49d80a04662f8030
+        mime: image/jpeg
+        bytes: 23834
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

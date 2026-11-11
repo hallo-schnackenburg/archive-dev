@@ -1,0 +1,37 @@
+id: 01FECSB0VDADWDAXJEAZ95SAZ9
+type: image
+subtype: print
+title: Postkarte Wustrow, Gärtnerei
+date: 182X
+location: Bömenzien, Schmiede
+origin:
+  name: Walter Schwarz
+  type: person
+  location: Zadrau
+subjects:
+  - name: Gartow
+    type: place
+  - name: Laase
+    type: place
+parents:
+  - 01JVVDQHBMNHTD5MF8KHV0G3FW
+files:
+  - role: main
+    original_name: scan_053.tif
+    path: files/e6/68/e6680adf0ddda963c16ce2b59ffca0ca66e7fecf46e14b6a0fcf7041da6e2699/original.tif
+    sha256: e6680adf0ddda963c16ce2b59ffca0ca66e7fecf46e14b6a0fcf7041da6e2699
+    mime: image/tiff
+    bytes: 20363772
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e6/68/e6680adf0ddda963c16ce2b59ffca0ca66e7fecf46e14b6a0fcf7041da6e2699/preview-400.a8a736df2432.jpg
+        sha256: a8a736df2432e31ab778445f868c6274598d91d7b9c9c5e255bca614c3e86a78
+        mime: image/jpeg
+        bytes: 50310
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

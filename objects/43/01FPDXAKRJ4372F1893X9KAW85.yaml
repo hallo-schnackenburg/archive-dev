@@ -1,0 +1,33 @@
+id: 01FPDXAKRJ4372F1893X9KAW85
+type: image
+subtype: plan
+title: Deichplan Salzwedel bis Gartow
+description: Mit handschriftlichen Ergänzungen.
+date: 1996-06-14
+location: Gorleben, Kirche St. Johannis
+origin:
+  name: Hedwig Plate
+  type: person
+  location: Lüchow
+parents:
+  - 01FVSGGTHXCNNWVMHHZN3NRKZQ
+files:
+  - role: main
+    original_name: scan_605.tif
+    path: files/be/00/be00d59b2fb85814893ef9a0f86f61e62fd6a32902788233d4eded5d3cf267ac/original.tif
+    sha256: be00d59b2fb85814893ef9a0f86f61e62fd6a32902788233d4eded5d3cf267ac
+    mime: image/tiff
+    bytes: 1727737
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/be/00/be00d59b2fb85814893ef9a0f86f61e62fd6a32902788233d4eded5d3cf267ac/preview-400.6e7da43aa5d6.jpg
+        sha256: 6e7da43aa5d60dd91b7beefc614158d2b47ab14ef215d549354ff139f2f1ab69
+        mime: image/jpeg
+        bytes: 62731
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

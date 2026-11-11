@@ -1,0 +1,45 @@
+id: 01K8XKGV3X17238WFWNP29STGW
+type: image
+subtype: plan
+title: Bauplan Torhaus 1848
+date: 1848-12
+location: Hitzacker, Gasthof „Zur Elbe“
+geocode:
+  lat: 53.0157
+  lon: 11.6158
+  precision: street
+  source: osm
+origin:
+  name: Albert Ahrens
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro 2/366
+  note: Kellerarchiv
+parents:
+  - 01K8Q87E3JR4C3K8F7DC83NBAE
+files:
+  - role: main
+    original_name: scan_938.tif
+    path: files/22/43/2243b891a663a2348760057a49c2d65caf4fcf5883fcadb6236f0bdc32727671/original.tif
+    sha256: 2243b891a663a2348760057a49c2d65caf4fcf5883fcadb6236f0bdc32727671
+    mime: image/tiff
+    bytes: 5702759
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/22/43/2243b891a663a2348760057a49c2d65caf4fcf5883fcadb6236f0bdc32727671/preview-400.694ee88c1ac2.jpg
+        sha256: 694ee88c1ac208f807c9b97de2f5db69abd80eb7d93869ab3e2e826d5e5c7108
+        mime: image/jpeg
+        bytes: 38570
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Datum nach Rückseite geschätzt.

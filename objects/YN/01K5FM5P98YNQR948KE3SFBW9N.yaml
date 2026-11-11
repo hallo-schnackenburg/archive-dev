@@ -1,0 +1,43 @@
+id: 01K5FM5P98YNQR948KE3SFBW9N
+type: image
+subtype: print
+title: "Holzschnitt: Einweihung, Laase"
+description: Lithographie, Rand beschnitten.
+date: 1757?
+location: Nienwalde, Fährstraße
+geocode:
+  lat: 52.9035
+  lon: 11.4797
+  precision: street
+  source: osm
+origin:
+  name: Emma Voss
+  type: person
+  location: Zadrau
+subjects:
+  - name: Kapern
+    type: place
+  - name: Badestelle
+    type: building
+  - name: Cumlosen
+    type: place
+files:
+  - role: main
+    original_name: scan_323.tif
+    path: files/31/d5/31d5cb0a11f83d736970ff489bdac1d2cddd1c0ef8f600490893dcb062b0571b/original.tif
+    sha256: 31d5cb0a11f83d736970ff489bdac1d2cddd1c0ef8f600490893dcb062b0571b
+    mime: image/tiff
+    bytes: 2697216
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/31/d5/31d5cb0a11f83d736970ff489bdac1d2cddd1c0ef8f600490893dcb062b0571b/preview-400.b6f293f70e7f.jpg
+        sha256: b6f293f70e7f4d7e5150e17e07c1b6739620acf30746a6c4ac990005eb584fdc
+        mime: image/jpeg
+        bytes: 71075
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

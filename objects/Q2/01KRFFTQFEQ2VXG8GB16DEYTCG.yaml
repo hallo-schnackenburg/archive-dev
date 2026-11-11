@@ -1,0 +1,60 @@
+id: 01KRFFTQFEQ2VXG8GB16DEYTCG
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Gartow 1998
+description: "Beschlossen wurde unter anderem: Deichbau."
+date: "1998"
+location: Restorf, Gartenstraße
+origin:
+  name: Gemeinderat Kapern
+  type: business
+  location: Gollensdorf
+language: de
+subjects:
+  - name: Fährjubiläum 1998
+    type: event
+  - name: Erntedankfest 1998
+    type: event
+  - name: Fastnacht 1998
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: protocol_deytcg_001.tif
+    path: files/a7/ea/a7ea201af9459e010000e041618013fdeb0e42eade14ca481915eb7c8f6ea5b4/original.tif
+    sha256: a7ea201af9459e010000e041618013fdeb0e42eade14ca481915eb7c8f6ea5b4
+    mime: image/tiff
+    bytes: 1075683
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a7/ea/a7ea201af9459e010000e041618013fdeb0e42eade14ca481915eb7c8f6ea5b4/preview-400.b75fa74d38e3.jpg
+        sha256: b75fa74d38e3ae19bdd3882db9ae7235eb1acf8cb4ab37713a632d0eb85e6af0
+        mime: image/jpeg
+        bytes: 88353
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_deytcg_002.tif
+    path: files/68/d9/68d9a4e3bc42e89ae89ebe0c11379a7295203a68743682929c6fd8bff016599e/original.tif
+    sha256: 68d9a4e3bc42e89ae89ebe0c11379a7295203a68743682929c6fd8bff016599e
+    mime: image/tiff
+    bytes: 19291506
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/68/d9/68d9a4e3bc42e89ae89ebe0c11379a7295203a68743682929c6fd8bff016599e/preview-400.ec21c78637fc.jpg
+        sha256: ec21c78637fc0ab49ad029305985cee77c6fd8054f2ef26a7ca8efe321e24461
+        mime: image/jpeg
+        bytes: 74189
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

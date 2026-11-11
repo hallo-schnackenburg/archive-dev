@@ -1,0 +1,58 @@
+id: 01K3VSVHJTE5FG5W36MS29Q7CY
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Flüchtlingsunterbringung 1885
+description: "Beschlossen wurde unter anderem: Kirchenglocken."
+date: 1885~
+location: Havelberg, Lange Straße
+origin:
+  name: Feuerwehrausschuss Rüterberg
+  type: business
+  location: Nienwalde
+language: de
+subjects:
+  - name: Kirmes 1885
+    type: event
+parents:
+  - 01HH369QCTQQ41PT1K6NF00KAH
+files:
+  - role: page
+    num: 1
+    original_name: protocol_29q7cy_001.tif
+    path: files/c4/1f/c41faf24ad50277746576239553586b66ec6dac87e95f5464081e0fe9af58342/original.tif
+    sha256: c41faf24ad50277746576239553586b66ec6dac87e95f5464081e0fe9af58342
+    mime: image/tiff
+    bytes: 20224824
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c4/1f/c41faf24ad50277746576239553586b66ec6dac87e95f5464081e0fe9af58342/preview-400.f3cd5f96ce9d.jpg
+        sha256: f3cd5f96ce9d2d16f94194fd0418a20cbc391ade33dba8febbc828a741fcc4bf
+        mime: image/jpeg
+        bytes: 82813
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_29q7cy_002.tif
+    path: files/32/a7/32a70942b63e5ff266151a1b441ca57fe56ff7dbd3d7e0328727069d5e8db729/original.tif
+    sha256: 32a70942b63e5ff266151a1b441ca57fe56ff7dbd3d7e0328727069d5e8db729
+    mime: image/tiff
+    bytes: 15810347
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/32/a7/32a70942b63e5ff266151a1b441ca57fe56ff7dbd3d7e0328727069d5e8db729/preview-400.76d2bd406260.jpg
+        sha256: 76d2bd406260b9b704b6234bb88b2fc1ca97b28119125dec7a45a04df15a703d
+        mime: image/jpeg
+        bytes: 84267
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

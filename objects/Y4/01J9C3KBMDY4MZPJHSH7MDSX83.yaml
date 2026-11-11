@@ -1,0 +1,34 @@
+id: 01J9C3KBMDY4MZPJHSH7MDSX83
+type: image
+subtype: photo
+title: Hochwasser der Bürgerverein
+description: Farbfoto, leicht verblasst.
+date: "1987"
+location: Gorleben, Hafenstraße
+origin:
+  name: Ernst Pape
+  type: person
+  location: Bömenzien
+parents:
+  - 01HV8Q29MRM56K8HKB6HH162VH
+  - 01FT5CTVAMDQF7480XV03FD2CZ
+files:
+  - role: main
+    original_name: IMG_3576.jpg
+    path: files/01/a3/01a30bd90d8f82d33b281605cd78d564186f95017c9ab0a2a4fedbaef7887bae/original.jpg
+    sha256: 01a30bd90d8f82d33b281605cd78d564186f95017c9ab0a2a4fedbaef7887bae
+    mime: image/jpeg
+    bytes: 18637791
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/01/a3/01a30bd90d8f82d33b281605cd78d564186f95017c9ab0a2a4fedbaef7887bae/preview-400.1a1d57be9316.jpg
+        sha256: 1a1d57be931671373331fc6d2f7e31286ece7555c23d31fa2f1065afd2af6775
+        mime: image/jpeg
+        bytes: 39864
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

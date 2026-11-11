@@ -1,0 +1,36 @@
+id: 01HB8MVDR1Z0F21PPAX6NJJ4BN
+type: image
+subtype: print
+title: Postkarte Gorleben, Scheune
+description: Postkarte, gelaufen 1948.
+date: 1956-09-16
+location: Wustrow, Mühlenweg
+origin:
+  name: Heinrich Gaede
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Pfarrhaus
+    type: building
+parents:
+  - 01FPBW8XQ5TR1SGGQ9277H4RM1
+files:
+  - role: main
+    original_name: scan_283.tif
+    path: files/33/ea/33ea05f786d7c1424d1b8ebc70c50f649bd3225a4f08aaa2f4446ac8ee302b95/original.tif
+    sha256: 33ea05f786d7c1424d1b8ebc70c50f649bd3225a4f08aaa2f4446ac8ee302b95
+    mime: image/tiff
+    bytes: 2090933
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/33/ea/33ea05f786d7c1424d1b8ebc70c50f649bd3225a4f08aaa2f4446ac8ee302b95/preview-400.9c6f0e9e3bfb.jpg
+        sha256: 9c6f0e9e3bfbc6bddc7693be6809d5de8d01287366e9c53370f9d7386fa0a5fc
+        mime: image/jpeg
+        bytes: 53033
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

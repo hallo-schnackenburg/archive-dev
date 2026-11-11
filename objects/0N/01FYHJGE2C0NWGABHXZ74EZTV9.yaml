@@ -1,0 +1,35 @@
+id: 01FYHJGE2C0NWGABHXZ74EZTV9
+type: image
+subtype: plan
+title: Deichplan Holtorf bis Wootz, Wootz
+description: Tusche auf Transparentpapier.
+location: Gollensdorf, Schmiede
+origin:
+  name: Erika Matthies
+  type: person
+  location: Havelberg
+subjects:
+  - name: Kirmes 1872
+    type: event
+parents:
+  - 01HX63HPJQWPA2R8TSS7RY7SQZ
+files:
+  - role: main
+    original_name: scan_928.tif
+    path: files/14/16/1416b015984b385d39929be15f511de19f37572e1f64c3c915ec87be606f74de/original.tif
+    sha256: 1416b015984b385d39929be15f511de19f37572e1f64c3c915ec87be606f74de
+    mime: image/tiff
+    bytes: 26759753
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/16/1416b015984b385d39929be15f511de19f37572e1f64c3c915ec87be606f74de/preview-400.5717e50bf92d.jpg
+        sha256: 5717e50bf92d1d97e5bd06da58e540603730d990f2e0b35605766fc51f82aeb5
+        mime: image/jpeg
+        bytes: 42699
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

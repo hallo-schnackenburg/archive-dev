@@ -1,0 +1,38 @@
+id: 01JHF9EFCNXJFQ8T6J13ZF5F7X
+type: image
+subtype: plan
+title: Bauplan Windmühle 1751
+date: "1751"
+location: Restorf, Fachwerkhaus Marktstraße 4
+geocode:
+  lat: 52.9867
+  lon: 11.6343
+  precision: exact
+  source: osm
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+  - name: Kartoffelernte 1751
+    type: event
+parents:
+  - 01J61X90CH264SW24N35G33X0N
+files:
+  - role: main
+    original_name: scan_997.tif
+    path: files/c5/52/c552a0268e60ef665f3211df857bb6ccbefe9c573431bdaddb4ae5349e2278be/original.tif
+    sha256: c552a0268e60ef665f3211df857bb6ccbefe9c573431bdaddb4ae5349e2278be
+    mime: image/tiff
+    bytes: 9134304
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c5/52/c552a0268e60ef665f3211df857bb6ccbefe9c573431bdaddb4ae5349e2278be/preview-400.4606e3642654.jpg
+        sha256: 4606e36426545c37dcf3c4f31b01212d82ddae2c8e22aabf5622b24fd930a334
+        mime: image/jpeg
+        bytes: 76560
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

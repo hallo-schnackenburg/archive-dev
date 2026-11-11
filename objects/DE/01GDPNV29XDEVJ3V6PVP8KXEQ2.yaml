@@ -1,0 +1,55 @@
+id: 01GDPNV29XDEVJ3V6PVP8KXEQ2
+type: document
+subtype: letter
+title: Brief von Ernst Meyer an Paul Brandt
+description: Mit Umschlag und Briefmarke.
+date: 1879-09
+location: Zadrau, Mühle
+geocode:
+  lat: 52.9702
+  lon: 11.6304
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Lüders
+  type: person
+  location: Arendsee
+recipient: Klaus Kuhlmann
+language: de
+original:
+  holder:
+    name: Familie Bohlmann
+    type: person
+    location: Salzwedel
+  reference: Pro 36/040
+subjects:
+  - name: Kartoffelernte 1879
+    type: event
+  - name: Nienwalde
+    type: place
+  - name: Sturmschaden 1879
+    type: event
+parents:
+  - 01FDG2W8NWMVK48918J24FXBW9
+  - 01FSR5RWMB3S1C3C5MHAYVRE65
+files:
+  - role: page
+    num: 1
+    original_name: letter_8kxeq2_001.tif
+    path: files/ae/aa/aeaa80279c0b1733df3c6b5341a740b6d69caf821b1d1c37f46176da5012cab9/original.tif
+    sha256: aeaa80279c0b1733df3c6b5341a740b6d69caf821b1d1c37f46176da5012cab9
+    mime: image/tiff
+    bytes: 26656409
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ae/aa/aeaa80279c0b1733df3c6b5341a740b6d69caf821b1d1c37f46176da5012cab9/preview-400.90c78c6a6abb.jpg
+        sha256: 90c78c6a6abb1a96f5d32ff1979a7ca48fd127834d6212f842d7bc7a302c193a
+        mime: image/jpeg
+        bytes: 39241
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

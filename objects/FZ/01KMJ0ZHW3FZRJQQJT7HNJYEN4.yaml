@@ -1,0 +1,62 @@
+id: 01KMJ0ZHW3FZRJQQJT7HNJYEN4
+type: document
+subtype: note
+title: Rechnung Jeß, Friedhofskapelle
+date: 1866-05-15
+location: Schnackenburg, Gartenstraße
+geocode:
+  lat: 52.9552
+  lon: 11.5575
+  precision: exact
+  source: osm
+language: de
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Christa Hennings
+    type: person
+  - name: Dieter Lemke
+    type: person
+parents:
+  - 01JS809ECB0H6P74TPETN12T1S
+files:
+  - role: page
+    num: 1
+    original_name: note_njyen4_001.tif
+    path: files/fa/5c/fa5cd90ec34d4bfb8d6b86637e2cb6f873bdb1cfa88183c216f73e125e2e7133/original.tif
+    sha256: fa5cd90ec34d4bfb8d6b86637e2cb6f873bdb1cfa88183c216f73e125e2e7133
+    mime: image/tiff
+    bytes: 2579076
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fa/5c/fa5cd90ec34d4bfb8d6b86637e2cb6f873bdb1cfa88183c216f73e125e2e7133/preview-400.752c6752e184.jpg
+        sha256: 752c6752e18473f2802dcfecde64fe3a5662edb2bcb4a71603637a60ef73ebff
+        mime: image/jpeg
+        bytes: 61219
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_njyen4_002.tif
+    path: files/d7/2b/d72b29606a5dc562fc1053fa50823bf5ddf0f5165beef884b2406730021a9b31/original.tif
+    sha256: d72b29606a5dc562fc1053fa50823bf5ddf0f5165beef884b2406730021a9b31
+    mime: image/tiff
+    bytes: 16204279
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/2b/d72b29606a5dc562fc1053fa50823bf5ddf0f5165beef884b2406730021a9b31/preview-400.da48e960f1f3.jpg
+        sha256: da48e960f1f308ced43eb106c2d32139e997e2e831c1d3bcd10099805dbb6b05
+        mime: image/jpeg
+        bytes: 72811
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

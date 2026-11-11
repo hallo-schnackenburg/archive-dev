@@ -13,10 +13,11 @@ origin:
   name: Karl Lemke
   type: person
   location: Schnackenburg
-holder:
-  name: Stadtarchiv Schnackenburg
-  type: business
-  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
 subjects:
   - name: Heinrich Meyer
     type: person

@@ -1,0 +1,44 @@
+id: 01HC4FNBF7G21AM3BZ2G1A81SE
+type: image
+subtype: photo
+title: Dieter Klatt, Porträt
+date: 1930/1931
+location: Rüterberg, Rathaus
+geocode:
+  lat: 52.9946
+  lon: 11.5603
+  precision: town
+  source: osm
+origin:
+  name: Gerda Lenz
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro/Album 10/031
+parents:
+  - 01GGFA4BRHTCBTSYCZDK78S61J
+  - 01JP9HS44VA7XZY3HAP9PA82HG
+files:
+  - role: main
+    original_name: scan_235.tif
+    path: files/fb/25/fb25e74c50a618121e0f8bb207809c8b716d4888f4b68eb122b59bff00531454/original.tif
+    sha256: fb25e74c50a618121e0f8bb207809c8b716d4888f4b68eb122b59bff00531454
+    mime: image/tiff
+    bytes: 8284029
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fb/25/fb25e74c50a618121e0f8bb207809c8b716d4888f4b68eb122b59bff00531454/preview-400.cae335ac883b.jpg
+        sha256: cae335ac883b5e65b4c5196575e02f43eade09fb619ca0761305abc043f05c2c
+        mime: image/jpeg
+        bytes: 75686
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

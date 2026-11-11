@@ -1,0 +1,43 @@
+id: 01JJBK1Y9D5AZ4SKWWHZ6Z6MW7
+type: image
+subtype: print
+title: Ansichtskarte Bahnhofstraße, Laase
+description: Postkarte, gelaufen 1941.
+date: 1907-08-04
+origin:
+  name: Anni Lemke
+  type: person
+  location: Bömenzien
+owner:
+  name: August Schulz
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Feuerwehrübung 1907
+    type: event
+  - name: Fastnacht 1907
+    type: event
+  - name: Pretzier
+    type: place
+parents:
+  - 01JMSDNGA55JGRT5ESX6NS0WKN
+files:
+  - role: main
+    original_name: scan_376.tif
+    path: files/86/dc/86dc1056389567ae11ba76f8475c7d7be915aa4ccca10dada4e7c370ebbfe344/original.tif
+    sha256: 86dc1056389567ae11ba76f8475c7d7be915aa4ccca10dada4e7c370ebbfe344
+    mime: image/tiff
+    bytes: 5578153
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/86/dc/86dc1056389567ae11ba76f8475c7d7be915aa4ccca10dada4e7c370ebbfe344/preview-400.fff95dd77147.jpg
+        sha256: fff95dd77147254650ade352b1d71f44ccb6f24c908fa73bfafbb284ac48bfcd
+        mime: image/jpeg
+        bytes: 58344
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

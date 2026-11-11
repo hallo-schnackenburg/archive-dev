@@ -1,0 +1,40 @@
+id: 01JRAZ3C2RZ8NCRA5NDPHK5FPP
+type: image
+subtype: photo
+title: Kirmes 1923
+date: "1923"
+location: Kapern, Bäckerei Lüders
+origin:
+  name: Heinrich Tiedemann
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Horst Meyer
+    type: person
+  - name: Fastnacht 1923
+    type: event
+files:
+  - role: main
+    original_name: scan_716.tif
+    path: files/f0/0b/f00b1f3e8751353f7cb572c743dd06873a6f688a9d865f849e48b546177328ba/original.tif
+    sha256: f00b1f3e8751353f7cb572c743dd06873a6f688a9d865f849e48b546177328ba
+    mime: image/tiff
+    bytes: 15650013
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/0b/f00b1f3e8751353f7cb572c743dd06873a6f688a9d865f849e48b546177328ba/preview-400.35cd2d53c8ed.jpg
+        sha256: 35cd2d53c8ed641705bbc165afe20a52ff667c6644850982216c2b997bfb0e81
+        mime: image/jpeg
+        bytes: 37449
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01HTN0H6513CDK4NV52MX89ZCT
+type: image
+subtype: drawing
+title: Entwurf für Elbdeich, Laase
+date: 1969-04-15
+location: Laase, Schulstraße
+geocode:
+  lat: 53.0597
+  lon: 11.4933
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Plate
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan/Mappe 8/110
+parents:
+  - 01GP24D2SDXXFWEGVD1MK92BK9
+  - 01G13YFEMZ6M5B1HQ76CM2BWE2
+files:
+  - role: main
+    original_name: scan_908.tif
+    path: files/ef/0e/ef0e85a19f31a5bc2e333bce826405faefa1a267be78c6c22d7c5f3cc5137fa9/original.tif
+    sha256: ef0e85a19f31a5bc2e333bce826405faefa1a267be78c6c22d7c5f3cc5137fa9
+    mime: image/tiff
+    bytes: 10123120
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ef/0e/ef0e85a19f31a5bc2e333bce826405faefa1a267be78c6c22d7c5f3cc5137fa9/preview-400.40874e86707a.jpg
+        sha256: 40874e86707a5f033b96e80943b7a544903de47506620420b567c32fa20afa45
+        mime: image/jpeg
+        bytes: 82000
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

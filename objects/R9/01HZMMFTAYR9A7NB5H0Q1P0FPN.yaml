@@ -1,0 +1,43 @@
+id: 01HZMMFTAYR9A7NB5H0Q1P0FPN
+type: image
+subtype: drawing
+title: Entwurf für Kindergarten, Lenzen
+description: Bleistift auf Papier.
+date: "1887"
+location: Bömenzien, Mühlenweg
+geocode:
+  lat: 52.9155
+  lon: 11.6206
+  precision: street
+  source: osm
+origin:
+  name: Karl Meyer
+  type: person
+  location: Kapern
+subjects:
+  - name: Gärtnerei
+    type: building
+  - name: Dieter Ludolf
+    type: person
+  - name: Feuerwehrübung 1887
+    type: event
+files:
+  - role: main
+    original_name: scan_959.tif
+    path: files/b3/14/b314d1d82b2099d55c1315a285ba8bd8f46886eb07c501e6fbd3f8e6f6f40fec/original.tif
+    sha256: b314d1d82b2099d55c1315a285ba8bd8f46886eb07c501e6fbd3f8e6f6f40fec
+    mime: image/tiff
+    bytes: 20388647
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/14/b314d1d82b2099d55c1315a285ba8bd8f46886eb07c501e6fbd3f8e6f6f40fec/preview-400.035645c6811a.jpg
+        sha256: 035645c6811a370b9bb1861f7d3e15c7eefdfcef9bcb1f5c97915657e086ad00
+        mime: image/jpeg
+        bytes: 34315
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

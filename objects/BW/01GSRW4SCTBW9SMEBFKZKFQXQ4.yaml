@@ -1,0 +1,44 @@
+id: 01GSRW4SCTBW9SMEBFKZKFQXQ4
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Hochwasser, Gollensdorf"
+description: Federzeichnung, laviert.
+location: Gorleben, Schmiede
+origin:
+  name: Hermann Dierks
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br 12/056
+  note: Regal 1
+subjects:
+  - name: Beerdigung 1971
+    type: event
+  - name: Wittenberge
+    type: place
+  - name: Wootz
+    type: place
+files:
+  - role: main
+    original_name: scan_206.tif
+    path: files/c8/89/c889d79d680c9197ff49c92d1d4bad6e340b95c0150d9646b4af32e29d6054d6/original.tif
+    sha256: c889d79d680c9197ff49c92d1d4bad6e340b95c0150d9646b4af32e29d6054d6
+    mime: image/tiff
+    bytes: 7238385
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/89/c889d79d680c9197ff49c92d1d4bad6e340b95c0150d9646b4af32e29d6054d6/preview-400.a2c297f14307.jpg
+        sha256: a2c297f14307d9dd92bdf4008e63c30183226cdd62ee6819f26e367aaf62d6af
+        mime: image/jpeg
+        bytes: 75402
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01GBS291D37TNW4G5RVA32XAWG
+type: image
+subtype: drawing
+title: Entwurf für Feuerwehrhaus, Schnackenburg
+description: Mit Anmerkungen am Rand.
+date: 1944-05
+origin:
+  name: Fritz Bruns
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok/Mappe 1/119
+subjects:
+  - name: Storchennest
+    type: building
+  - name: Pumpenhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_184.tif
+    path: files/1d/53/1d53fedb746315b1969621bcb70bc442c5829b772bb8739ff3f3ca886383114a/original.tif
+    sha256: 1d53fedb746315b1969621bcb70bc442c5829b772bb8739ff3f3ca886383114a
+    mime: image/tiff
+    bytes: 7415166
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/53/1d53fedb746315b1969621bcb70bc442c5829b772bb8739ff3f3ca886383114a/preview-400.996b6f822e98.jpg
+        sha256: 996b6f822e989eec3a0d730729fc5eafdc4cf51806389286153f60111f4f2336
+        mime: image/jpeg
+        bytes: 74289
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

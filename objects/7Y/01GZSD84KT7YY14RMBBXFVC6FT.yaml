@@ -1,0 +1,41 @@
+id: 01GZSD84KT7YY14RMBBXFVC6FT
+type: image
+subtype: photo
+title: Pfarrhaus in Lanz
+location: Dömitz, Bahnhofstraße
+geocode:
+  lat: 53.0217
+  lon: 11.6479
+  precision: street
+  source: osm
+origin:
+  name: Anni Plate
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Brigitte Bohlmann
+    type: person
+  - name: Zollamt
+    type: building
+files:
+  - role: main
+    original_name: scan_965.tif
+    path: files/06/8a/068a9f34aac7e70937822752ac4bc1256492b388cbba9b4830bedd66856fd4be/original.tif
+    sha256: 068a9f34aac7e70937822752ac4bc1256492b388cbba9b4830bedd66856fd4be
+    mime: image/tiff
+    bytes: 17424588
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/06/8a/068a9f34aac7e70937822752ac4bc1256492b388cbba9b4830bedd66856fd4be/preview-400.3e7726f4ad04.jpg
+        sha256: 3e7726f4ad041f6fc85e33c2cd1de7383c1fbc10058f3a3d9f3056f72c3a2c2b
+        mime: image/jpeg
+        bytes: 53280
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,63 @@
+id: 01H3V4BVMJSD57DQ1P3ZCBJSFN
+type: document
+subtype: note
+title: Rechnung Voss, Dorfkrug
+description: Zettel, Bleistift.
+date: 1880?
+location: Seedorf, Gutshaus
+origin:
+  name: Günter Jeß
+  type: person
+  location: Salzwedel
+language: de
+subjects:
+  - name: Hochwasser 1880
+    type: event
+  - name: Bömenzien
+    type: place
+  - name: Hochwasser 1880
+    type: event
+parents:
+  - 01H6GZ1A9PWXWTSCHDX2966H18
+  - 01K17ANV6BS1YN44GQNBJ2A6CF
+files:
+  - role: page
+    num: 1
+    original_name: note_cbjsfn_001.tif
+    path: files/5b/24/5b24d942ccda55567994696e4452c2072c1087c993b71864a5a935e7275bf598/original.tif
+    sha256: 5b24d942ccda55567994696e4452c2072c1087c993b71864a5a935e7275bf598
+    mime: image/tiff
+    bytes: 6717525
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5b/24/5b24d942ccda55567994696e4452c2072c1087c993b71864a5a935e7275bf598/preview-400.d38ba791a7e6.jpg
+        sha256: d38ba791a7e6cc984f1c1d351a4cd02f0480bcfd6c07d2b605f909cc763cd687
+        mime: image/jpeg
+        bytes: 73240
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_cbjsfn_002.tif
+    path: files/e3/b9/e3b99534c891651361b853854fd4acee6ab687d43e1e578fae317ec232faf3ce/original.tif
+    sha256: e3b99534c891651361b853854fd4acee6ab687d43e1e578fae317ec232faf3ce
+    mime: image/tiff
+    bytes: 18890005
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e3/b9/e3b99534c891651361b853854fd4acee6ab687d43e1e578fae317ec232faf3ce/preview-400.4195ca55b8f9.jpg
+        sha256: 4195ca55b8f99dbfbc7ef5f446c78f3c918a1e5e3117659ee0c630ff98faa180
+        mime: image/jpeg
+        bytes: 25810
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

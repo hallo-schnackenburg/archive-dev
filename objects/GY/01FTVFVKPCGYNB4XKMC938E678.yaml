@@ -1,0 +1,41 @@
+id: 01FTVFVKPCGYNB4XKMC938E678
+type: image
+subtype: drawing
+title: Federzeichnung Badestelle
+description: Mit Anmerkungen am Rand.
+location: Dömitz, Am Markt
+origin:
+  name: Albert Krüger
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Familie Behrens
+    type: person
+    location: Holtorf
+  reference: Pro/Mappe 2/059
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Fritz Krüger
+    type: person
+files:
+  - role: main
+    original_name: scan_116.tif
+    path: files/c9/c4/c9c47d07d979d078c3dac4517112e49aa2fe109f7500306fcd3a116b794e548c/original.tif
+    sha256: c9c47d07d979d078c3dac4517112e49aa2fe109f7500306fcd3a116b794e548c
+    mime: image/tiff
+    bytes: 12761145
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c9/c4/c9c47d07d979d078c3dac4517112e49aa2fe109f7500306fcd3a116b794e548c/preview-400.9c07195c7ab0.jpg
+        sha256: 9c07195c7ab044623293658764825dd688ac1730826be999db78ccfd062ee6b4
+        mime: image/jpeg
+        bytes: 80028
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

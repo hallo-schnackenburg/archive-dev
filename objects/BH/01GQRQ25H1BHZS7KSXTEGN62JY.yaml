@@ -1,0 +1,38 @@
+id: 01GQRQ25H1BHZS7KSXTEGN62JY
+type: image
+subtype: photo
+title: Brückeneinweihung 1995
+date: 199X
+location: Schnackenburg, Burgstraße
+geocode:
+  lat: 53.002
+  lon: 11.6241
+  precision: exact
+  source: osm
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Backhaus
+    type: building
+  - name: Friedrich Ludolf
+    type: person
+files:
+  - role: main
+    original_name: foto_5553.jpg
+    path: files/c1/b9/c1b9304e6e18f219215245263ea6b19247090842deb59b2cd70a2c380b3168ea/original.jpg
+    sha256: c1b9304e6e18f219215245263ea6b19247090842deb59b2cd70a2c380b3168ea
+    mime: image/jpeg
+    bytes: 9349068
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/c1/b9/c1b9304e6e18f219215245263ea6b19247090842deb59b2cd70a2c380b3168ea/preview-400.e30b8cd55b5b.jpg
+        sha256: e30b8cd55b5b23fdbccc29d9b7f7d1a3b39c5ced8a8ac5e587ef0a0cff4b5c9f
+        mime: image/jpeg
+        bytes: 33508
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

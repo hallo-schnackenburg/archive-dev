@@ -1,0 +1,42 @@
+id: 01GX5VYNPZWP838CCR45RQNMKE
+type: image
+subtype: print
+title: Postkarte Salzwedel, Gärtnerei
+description: Lithographie, Rand beschnitten.
+date: 1795-08
+location: Brünkendorf, Badestelle
+origin:
+  name: Ilse Cohrs
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg 26/221
+subjects:
+  - name: Wilhelm Heuer
+    type: person
+parents:
+  - 01JP5EBH2JPHYSX1ABKRA99Q8F
+files:
+  - role: main
+    original_name: scan_925.tif
+    path: files/91/2d/912df34aad226840329c6dcbfb413ca47cc16b74c0788b792cfc8926dae920c6/original.tif
+    sha256: 912df34aad226840329c6dcbfb413ca47cc16b74c0788b792cfc8926dae920c6
+    mime: image/tiff
+    bytes: 8881085
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/91/2d/912df34aad226840329c6dcbfb413ca47cc16b74c0788b792cfc8926dae920c6/preview-400.e2249cf8d8b1.jpg
+        sha256: e2249cf8d8b1285cbb14ad1971b10bf5f4775e976e66e4ffe4d21fb4f3a23109
+        mime: image/jpeg
+        bytes: 60956
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

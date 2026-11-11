@@ -1,0 +1,64 @@
+id: 01M2STMXZF47F5GR8BSGS2NV1F
+type: document
+subtype: note
+title: Quittung für Anni Ludolf
+date: 197X
+location: Bömenzien, Dorfstraße
+geocode:
+  lat: 52.9679
+  lon: 11.4526
+  precision: region
+  source: osm
+origin:
+  name: Karl Krüger
+  type: person
+  location: Holtorf
+language: de
+subjects:
+  - name: Wootz
+    type: place
+  - name: Dorfladen
+    type: building
+  - name: Zollamt
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_s2nv1f_001.tif
+    path: files/37/b0/37b0328fcc2b247038a107565336440fbeb1ff3b57c6998b5d367670d4323f3c/original.tif
+    sha256: 37b0328fcc2b247038a107565336440fbeb1ff3b57c6998b5d367670d4323f3c
+    mime: image/tiff
+    bytes: 25838030
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/37/b0/37b0328fcc2b247038a107565336440fbeb1ff3b57c6998b5d367670d4323f3c/preview-400.f2c7e65ad201.jpg
+        sha256: f2c7e65ad2012ca005a40c99e1d696a025230f498f70d0781e3552501907ca09
+        mime: image/jpeg
+        bytes: 85511
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_s2nv1f_002.tif
+    path: files/92/d7/92d76f217b73f2be53ddb8acd6b698a22d88fa06df805f78d8dea28108b0485c/original.tif
+    sha256: 92d76f217b73f2be53ddb8acd6b698a22d88fa06df805f78d8dea28108b0485c
+    mime: image/tiff
+    bytes: 23426643
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/d7/92d76f217b73f2be53ddb8acd6b698a22d88fa06df805f78d8dea28108b0485c/preview-400.1cf551bb43f6.jpg
+        sha256: 1cf551bb43f6481f2862edd158c00d753007015a2bb317099d1b4b259a440bb4
+        mime: image/jpeg
+        bytes: 83169
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

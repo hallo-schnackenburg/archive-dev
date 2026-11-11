@@ -1,0 +1,47 @@
+id: 01GMVKM8H7SPAWKGQTPYB83FAM
+type: image
+subtype: photo
+title: Karl Bohlmann, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1940-02-13
+location: Gorleben, Kegelbahn
+origin:
+  name: Heinrich Hennings
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Familie Krüger
+    type: person
+    location: Lüchow
+  reference: Plan 28/208
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+  - name: Gorleben
+    type: place
+  - name: Heinrich Lenz
+    type: person
+parents:
+  - 01G6DC0XN5QKR1Z7MS1R51BN2J
+  - 01HE14GR0R8R7PECGB2EPQE94M
+files:
+  - role: main
+    original_name: foto_2769.jpg
+    path: files/fc/2f/fc2fbdbc9aecd3324d062fb80c32d9064cb9851a37355ad1f73925f49d62f8f7/original.jpg
+    sha256: fc2fbdbc9aecd3324d062fb80c32d9064cb9851a37355ad1f73925f49d62f8f7
+    mime: image/jpeg
+    bytes: 6601465
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fc/2f/fc2fbdbc9aecd3324d062fb80c32d9064cb9851a37355ad1f73925f49d62f8f7/preview-400.9e09d80bd24e.jpg
+        sha256: 9e09d80bd24e60954da15c3bf0956eff944f4270a287db31dc10bab6a44151c8
+        mime: image/jpeg
+        bytes: 58637
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,51 @@
+id: 01G32M04ZA5CBR2C9YP7DR053R
+type: document
+subtype: note
+title: Kassenzettel Badestelle
+description: Beleg mit Stempel.
+date: "1892"
+location: Nienwalde, Hafen
+geocode:
+  lat: 53.0083
+  lon: 11.6537
+  precision: street
+  source: osm
+origin:
+  name: Wilhelm Nitschke
+  type: person
+  location: Schnackenburg
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 8/007
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Konfirmation 1892
+    type: event
+  - name: Laase
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_dr053r_001.tif
+    path: files/6d/c8/6dc87d9d83ea0b161fed4f25890bd848ab5f76e315d57df8c120661c1f505538/original.tif
+    sha256: 6dc87d9d83ea0b161fed4f25890bd848ab5f76e315d57df8c120661c1f505538
+    mime: image/tiff
+    bytes: 17701337
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6d/c8/6dc87d9d83ea0b161fed4f25890bd848ab5f76e315d57df8c120661c1f505538/preview-400.7347d2d6bb06.jpg
+        sha256: 7347d2d6bb0654057f2625056998f91b7f5b9e93272556c59f2cef458e2cfd1f
+        mime: image/jpeg
+        bytes: 66941
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

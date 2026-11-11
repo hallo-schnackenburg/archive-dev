@@ -1,0 +1,58 @@
+id: 01FF2234CMHJQYR3N34NB36CQF
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Wasserleitung 1974
+description: Handschriftlich in Sütterlin.
+date: 1974/1977
+location: Gülden, Badestelle
+origin:
+  name: Verbandsversammlung Seedorf
+  type: business
+  location: Gollensdorf
+language: de
+subjects:
+  - name: Rudolf Bohlmann
+    type: person
+parents:
+  - 01KGHR1E94X26ENFVH4J79T0CP
+files:
+  - role: page
+    num: 1
+    original_name: protocol_b36cqf_001.tif
+    path: files/5d/f1/5df1f6c86748e09eb1ed24e0b748e005b4eca2210fb3d9e00722159cf05d4a80/original.tif
+    sha256: 5df1f6c86748e09eb1ed24e0b748e005b4eca2210fb3d9e00722159cf05d4a80
+    mime: image/tiff
+    bytes: 23631185
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5d/f1/5df1f6c86748e09eb1ed24e0b748e005b4eca2210fb3d9e00722159cf05d4a80/preview-400.c74c60f86187.jpg
+        sha256: c74c60f86187ad4a9c3e4ea5fa5eb869c35f1810eb5effd4a3b8381ec1790d93
+        mime: image/jpeg
+        bytes: 23590
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_b36cqf_002.tif
+    path: files/43/eb/43eb4128677a32f21ddcbe72d65ec0dc07cf8abb4a11a46f10cac79651268d00/original.tif
+    sha256: 43eb4128677a32f21ddcbe72d65ec0dc07cf8abb4a11a46f10cac79651268d00
+    mime: image/tiff
+    bytes: 24207149
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/43/eb/43eb4128677a32f21ddcbe72d65ec0dc07cf8abb4a11a46f10cac79651268d00/preview-400.b64c86e3a93f.jpg
+        sha256: b64c86e3a93ff0e4b7405b2f81cb2544e1023d78aa121a74fd86ca0aadde861b
+        mime: image/jpeg
+        bytes: 48859
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

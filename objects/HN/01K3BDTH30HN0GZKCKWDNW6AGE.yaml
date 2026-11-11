@@ -1,0 +1,42 @@
+id: 01K3BDTH30HN0GZKCKWDNW6AGE
+type: image
+subtype: plan
+title: Deichplan Pretzier bis Lanz
+description: Mit handschriftlichen Ergänzungen.
+date: 1951-07-26
+location: Dömitz, Bahnhofstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 2/119
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Erntedankfest 1951
+    type: event
+  - name: Lenzen
+    type: place
+parents:
+  - 01JJRB980S7G97FX3YJ3JFCV87
+files:
+  - role: main
+    original_name: scan_098.tif
+    path: files/c3/fd/c3fdc072baa21a188e1c1d8e471b9b255f8246c2e6f16d46079e987f6f106bd4/original.tif
+    sha256: c3fdc072baa21a188e1c1d8e471b9b255f8246c2e6f16d46079e987f6f106bd4
+    mime: image/tiff
+    bytes: 18434610
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c3/fd/c3fdc072baa21a188e1c1d8e471b9b255f8246c2e6f16d46079e987f6f106bd4/preview-400.1ade5cba0229.jpg
+        sha256: 1ade5cba0229e5b3d7e85046f4dd5c634cb37fb754aaa00c359ee8cb59df0ded
+        mime: image/jpeg
+        bytes: 83701
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

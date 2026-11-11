@@ -1,0 +1,41 @@
+id: 01KBFE5V0ZWWQM4CFSXQ029PQR
+type: image
+subtype: photo
+title: Gerda Wegner, Porträt
+description: Aufnahme von Karl Lüders.
+date: 1920?
+location: Gollensdorf, Kirchstraße
+geocode:
+  lat: 53.078
+  lon: 11.5545
+  precision: exact
+  source: osm
+origin:
+  name: Anni Plate
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Schlachtfest 1920
+    type: event
+  - name: Gülden
+    type: place
+files:
+  - role: main
+    original_name: P7429.jpg
+    path: files/aa/be/aabec0614424649f4df4c218e286dbdc95eb8b8b0e2d186001533c2d6b5aab0b/original.jpg
+    sha256: aabec0614424649f4df4c218e286dbdc95eb8b8b0e2d186001533c2d6b5aab0b
+    mime: image/jpeg
+    bytes: 2633808
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/aa/be/aabec0614424649f4df4c218e286dbdc95eb8b8b0e2d186001533c2d6b5aab0b/preview-400.7d6b59a275ba.jpg
+        sha256: 7d6b59a275ba02b075c5af536c95fbfe5a3afb7ddddf8a0898630c6b5335499f
+        mime: image/jpeg
+        bytes: 51812
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,33 @@
+id: 01JDWMDT2MYTZV3YT0CR24AV62
+type: image
+subtype: print
+title: "Holzschnitt: Viehmarkt"
+description: Kupferstich, koloriert.
+date: "1922"
+location: Seedorf, Fährstraße
+origin:
+  name: Heinrich Stoll
+  type: person
+  location: Zadrau
+parents:
+  - 01M3QTWQ9H2E1GP4N4HWKMEY2Z
+files:
+  - role: main
+    original_name: scan_685.tif
+    path: files/8c/62/8c62afe0064058069372803e331c66899edaeb1c201633784de7abf263b787b9/original.tif
+    sha256: 8c62afe0064058069372803e331c66899edaeb1c201633784de7abf263b787b9
+    mime: image/tiff
+    bytes: 11490489
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8c/62/8c62afe0064058069372803e331c66899edaeb1c201633784de7abf263b787b9/preview-400.2afb76cad73c.jpg
+        sha256: 2afb76cad73c3ffb05a6a82470bc877d04f37fd69cdeb93a0200056e9215878a
+        mime: image/jpeg
+        bytes: 67481
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

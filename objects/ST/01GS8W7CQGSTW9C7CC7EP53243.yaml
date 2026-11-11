@@ -1,0 +1,37 @@
+id: 01GS8W7CQGSTW9C7CC7EP53243
+type: image
+subtype: drawing
+title: Entwurf für Apotheke, Lanz
+description: Bleistift auf Papier.
+date: 1859-06-10
+origin:
+  name: Wilhelm Garms
+  type: person
+  location: Pretzier
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+  - name: Scheune
+    type: building
+  - name: Heuberge
+    type: building
+files:
+  - role: main
+    original_name: scan_825.tif
+    path: files/5a/87/5a87da2349a7fe60ba014efed47830794db2965c2e9e8811fc11f18819344f6b/original.tif
+    sha256: 5a87da2349a7fe60ba014efed47830794db2965c2e9e8811fc11f18819344f6b
+    mime: image/tiff
+    bytes: 13120176
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/5a/87/5a87da2349a7fe60ba014efed47830794db2965c2e9e8811fc11f18819344f6b/preview-400.ac01d21293fc.jpg
+        sha256: ac01d21293fc3d1563797e49b03bea53f1b6ceaab3309968cbba06cbbcc525fd
+        mime: image/jpeg
+        bytes: 47786
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

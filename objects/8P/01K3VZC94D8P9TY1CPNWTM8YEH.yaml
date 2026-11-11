@@ -1,0 +1,34 @@
+id: 01K3VZC94D8P9TY1CPNWTM8YEH
+type: image
+subtype: drawing
+title: Kaufmannshaus, Aquarell, Seedorf
+description: Mit Anmerkungen am Rand.
+date: 1889/1901
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+parents:
+  - 01GRV0HWYNKA4M54BH3W1TXJFJ
+  - 01HCDYTRFHFRB82WRMENEDR10F
+files:
+  - role: main
+    original_name: scan_027.tif
+    path: files/c7/21/c721ed9a2825ac384ba3558b753e32b257ec41c7b0bdf1f70c6393117c45243d/original.tif
+    sha256: c721ed9a2825ac384ba3558b753e32b257ec41c7b0bdf1f70c6393117c45243d
+    mime: image/tiff
+    bytes: 11935919
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c7/21/c721ed9a2825ac384ba3558b753e32b257ec41c7b0bdf1f70c6393117c45243d/preview-400.946346bb4b1b.jpg
+        sha256: 946346bb4b1bcf1e8197d9e2a39a5dd483a735fda3f2dd87798149e684cafd6d
+        mime: image/jpeg
+        bytes: 23923
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,66 @@
+id: 01FGC5MDPXMABX96SRZWFGVXPA
+type: document
+subtype: protocol
+title: Protokoll des Kirchenvorstand vom 1917
+description: Anwesend waren 23 Personen.
+date: "1917"
+origin:
+  name: Kirchenvorstand Gartow
+  type: business
+  location: Schnackenburg
+language: en
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok/Kasten 11/018
+  note: Schrank B
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Gemeindehaus
+    type: building
+parents:
+  - 01J08P48B9HRVCXCZGRJBPCQ14
+files:
+  - role: page
+    num: 1
+    original_name: protocol_fgvxpa_001.tif
+    path: files/11/b0/11b076890a9da1c5f0acbba03fb6de298ff21f01cf05dac005754d0f8b7f4be3/original.tif
+    sha256: 11b076890a9da1c5f0acbba03fb6de298ff21f01cf05dac005754d0f8b7f4be3
+    mime: image/tiff
+    bytes: 24643028
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/11/b0/11b076890a9da1c5f0acbba03fb6de298ff21f01cf05dac005754d0f8b7f4be3/preview-400.c08f47e418f8.jpg
+        sha256: c08f47e418f89b7cb48171acc44d371f9b9fc9bd7dd4d129801a4010e5b9a45c
+        mime: image/jpeg
+        bytes: 82571
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_fgvxpa_002.tif
+    path: files/f8/7d/f87de588015ae8cfb103515a4e0cc4281be80347e5ed895a11a0fd849cb2e2af/original.tif
+    sha256: f87de588015ae8cfb103515a4e0cc4281be80347e5ed895a11a0fd849cb2e2af
+    mime: image/tiff
+    bytes: 7544222
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f8/7d/f87de588015ae8cfb103515a4e0cc4281be80347e5ed895a11a0fd849cb2e2af/preview-400.03e12081e91c.jpg
+        sha256: 03e12081e91c30c40b3a7cea5ec3caef9efa085f5853621ea6fc90924d73323b
+        mime: image/jpeg
+        bytes: 85007
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,47 @@
+id: 01JMQWJ085CXGYTQR78PZG00HX
+type: image
+subtype: photo
+title: Storchennest in Gartow
+description: Farbfoto, leicht verblasst.
+date: "1996"
+location: Lenzen, Gutshaus
+geocode:
+  lat: 52.9159
+  lon: 11.5122
+  precision: street
+  source: osm
+origin:
+  name: Hans Sievers
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro 7/140
+subjects:
+  - name: Gülden
+    type: place
+  - name: Fritz Garms
+    type: person
+files:
+  - role: main
+    original_name: IMG_5020.jpg
+    path: files/ae/17/ae17b9f5866bed164b1e2b9909a965d3252fd24322f26d73613a3427bd1d413e/original.jpg
+    sha256: ae17b9f5866bed164b1e2b9909a965d3252fd24322f26d73613a3427bd1d413e
+    mime: image/jpeg
+    bytes: 8728388
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/ae/17/ae17b9f5866bed164b1e2b9909a965d3252fd24322f26d73613a3427bd1d413e/preview-400.cbb0390607b9.jpg
+        sha256: cbb0390607b9f9fbe94e45ad076642b0a99d99f692ef7342a24cb38fb20d4d68
+        mime: image/jpeg
+        bytes: 76843
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

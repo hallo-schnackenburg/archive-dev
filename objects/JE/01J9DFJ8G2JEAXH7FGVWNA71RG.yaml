@@ -1,0 +1,56 @@
+id: 01J9DFJ8G2JEAXH7FGVWNA71RG
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Viehseuche 1901
+description: "Beschlossen wurde unter anderem: Pachtvertrag."
+date: 1901-11-10
+location: Seedorf, Marktstraße
+origin:
+  name: Kirchenvorstand Lenzen
+  type: business
+  location: Gorleben
+language: de
+subjects:
+  - name: Kartoffelernte 1901
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: protocol_na71rg_001.tif
+    path: files/fd/ab/fdab54f12c3e325f5a4a01386807c55f2006562b7012f5b0bc09470db26ea6a1/original.tif
+    sha256: fdab54f12c3e325f5a4a01386807c55f2006562b7012f5b0bc09470db26ea6a1
+    mime: image/tiff
+    bytes: 15216155
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fd/ab/fdab54f12c3e325f5a4a01386807c55f2006562b7012f5b0bc09470db26ea6a1/preview-400.8c0787746e22.jpg
+        sha256: 8c0787746e22b0bb10cdd0151451e0be09a31a9285aa23fceff33537520ebf1a
+        mime: image/jpeg
+        bytes: 36269
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_na71rg_002.tif
+    path: files/b6/89/b68972f547f868d3a43d8c9d6a059e2ab241e94ed5239c64a9825604a9dbf214/original.tif
+    sha256: b68972f547f868d3a43d8c9d6a059e2ab241e94ed5239c64a9825604a9dbf214
+    mime: image/tiff
+    bytes: 2773144
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b6/89/b68972f547f868d3a43d8c9d6a059e2ab241e94ed5239c64a9825604a9dbf214/preview-400.86c0de6b18d3.jpg
+        sha256: 86c0de6b18d39254920ce6a86fbc82e531f8298e1ae83f0808b8d280e1def868
+        mime: image/jpeg
+        bytes: 44219
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

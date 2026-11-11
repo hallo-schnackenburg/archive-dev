@@ -1,0 +1,46 @@
+id: 01J80251HP7QGD07DNX0YM38V3
+type: image
+subtype: print
+title: Lithographie Speicher, Brünkendorf (62)
+description: Kupferstich, koloriert.
+date: 1776-01
+location: Bömenzien, Fährstraße
+origin:
+  name: Ilse Hennings
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 28/083
+owner:
+  name: Albert Meyer
+  type: person
+  note: Nachlass
+subjects:
+  - name: Gutshaus
+    type: building
+  - name: Schmiede
+    type: building
+files:
+  - role: main
+    original_name: scan_090.tif
+    path: files/0c/ef/0cef79dcd5d692b366eecda1143d2e14b9b663863f1d3c29d338bae398042d5a/original.tif
+    sha256: 0cef79dcd5d692b366eecda1143d2e14b9b663863f1d3c29d338bae398042d5a
+    mime: image/tiff
+    bytes: 22505306
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/0c/ef/0cef79dcd5d692b366eecda1143d2e14b9b663863f1d3c29d338bae398042d5a/preview-400.805a3ec4240a.jpg
+        sha256: 805a3ec4240a43bcd6721f160cdfa21d05afdbcdfd69e534e7e6d5f693a58449
+        mime: image/jpeg
+        bytes: 70770
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01G4A7VVY18WPEKKR296GN8RYR
+type: image
+subtype: photo
+title: "Jugendfeuerwehr: Gruppenbild Grenzöffnung"
+description: Aufnahme von Jürgen Plate.
+date: 1944-02-12
+location: Brünkendorf, Pfarrhaus
+geocode:
+  lat: 52.9567
+  lon: 11.4502
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Wilhelm Eggers
+    type: person
+  - name: Sturmschaden 1944
+    type: event
+parents:
+  - 01FXP7C4VHXDAWP3MGADT9QA1F
+files:
+  - role: main
+    original_name: DSC4687.jpg
+    path: files/f6/22/f622a363ba7778deb4da59a1f4b891aeedd120d4c83229770682b52fb195f919/original.jpg
+    sha256: f622a363ba7778deb4da59a1f4b891aeedd120d4c83229770682b52fb195f919
+    mime: image/jpeg
+    bytes: 5738954
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/f6/22/f622a363ba7778deb4da59a1f4b891aeedd120d4c83229770682b52fb195f919/preview-400.5f57a020024b.jpg
+        sha256: 5f57a020024b29a781336852a0f0a526c86468a003988b6e74b42ecb02e039c7
+        mime: image/jpeg
+        bytes: 41176
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

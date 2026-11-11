@@ -1,0 +1,45 @@
+id: 01EVZY925WW2PXMMBHT716ZBRY
+type: image
+subtype: drawing
+title: Skizze Schnackenburg, Hafenstraße
+date: "1989"
+location: Wittenberge, Kirchstraße
+geocode:
+  lat: 53.0641
+  lon: 11.6787
+  precision: exact
+  source: osm
+origin:
+  name: Käthe Schulz
+  type: person
+  location: Arendsee
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Otto Plate
+    type: person
+  - name: Havelberg
+    type: place
+parents:
+  - 01G8B1RBKCP0JCJ0TQ3WYMBBPZ
+  - 01GFYCYYAZQZW68R0ZQ0RJFGD8
+files:
+  - role: main
+    original_name: scan_262.tif
+    path: files/eb/27/eb270157ac0a4039e782d583a7987a8d70cde57aef93749d8af4bacdb10cc46e/original.tif
+    sha256: eb270157ac0a4039e782d583a7987a8d70cde57aef93749d8af4bacdb10cc46e
+    mime: image/tiff
+    bytes: 22373752
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/eb/27/eb270157ac0a4039e782d583a7987a8d70cde57aef93749d8af4bacdb10cc46e/preview-400.2fb3d1d8f680.jpg
+        sha256: 2fb3d1d8f6801f0662becbb903b01677edda04bbccc8270ec054aa48d626aefb
+        mime: image/jpeg
+        bytes: 53553
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

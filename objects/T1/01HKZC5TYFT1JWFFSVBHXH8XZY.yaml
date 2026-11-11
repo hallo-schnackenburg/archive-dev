@@ -1,0 +1,33 @@
+id: 01HKZC5TYFT1JWFFSVBHXH8XZY
+type: image
+subtype: photo
+title: Kinder am Bäckerei Lüders
+date: 1946/1947
+location: Gartow, Lange Straße
+geocode:
+  lat: 53.0419
+  lon: 11.4647
+  precision: exact
+  source: osm
+parents:
+  - 01FPBW8XQ5TR1SGGQ9277H4RM1
+files:
+  - role: main
+    original_name: P0319.jpg
+    path: files/ed/be/edbe747ea5b97aeeb473d7bc10b9bb46dc1bab0beb24d6a2b03f1bc52697d161/original.jpg
+    sha256: edbe747ea5b97aeeb473d7bc10b9bb46dc1bab0beb24d6a2b03f1bc52697d161
+    mime: image/jpeg
+    bytes: 21884575
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ed/be/edbe747ea5b97aeeb473d7bc10b9bb46dc1bab0beb24d6a2b03f1bc52697d161/preview-400.bcfac50784fa.jpg
+        sha256: bcfac50784fa22fd53c9571a9a712fabe7ffc0f83487bc5c0bf09ae10949e1f0
+        mime: image/jpeg
+        bytes: 37808
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

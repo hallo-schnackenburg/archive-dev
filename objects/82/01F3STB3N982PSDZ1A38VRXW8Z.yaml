@@ -1,0 +1,41 @@
+id: 01F3STB3N982PSDZ1A38VRXW8Z
+type: image
+subtype: photo
+title: Gerda Rieke, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1969-01-22
+location: Laase, Fährstraße
+geocode:
+  lat: 52.9143
+  lon: 11.5531
+  precision: exact
+  source: osm
+origin:
+  name: Dieter Matthies
+  type: person
+  location: Seedorf
+subjects:
+  - name: Brunnen am Markt
+    type: building
+parents:
+  - 01H4PN30WRRJ626WVNCSGETHA9
+files:
+  - role: main
+    original_name: scan_381.tif
+    path: files/d5/47/d54724a43893fcbf44ef1680e42eea7d423686f7e3eb92ace38a02b2cb7d0cc5/original.tif
+    sha256: d54724a43893fcbf44ef1680e42eea7d423686f7e3eb92ace38a02b2cb7d0cc5
+    mime: image/tiff
+    bytes: 13152696
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/47/d54724a43893fcbf44ef1680e42eea7d423686f7e3eb92ace38a02b2cb7d0cc5/preview-400.50c092fdd033.jpg
+        sha256: 50c092fdd0330b13e90cce2bd9603506e725b0584f33eb763ba0261f5d002e7e
+        mime: image/jpeg
+        bytes: 62259
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

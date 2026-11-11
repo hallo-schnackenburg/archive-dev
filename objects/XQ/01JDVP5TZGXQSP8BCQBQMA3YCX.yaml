@@ -1,0 +1,41 @@
+id: 01JDVP5TZGXQSP8BCQBQMA3YCX
+type: image
+subtype: plan
+title: Bauplan Kaufmannshaus 1931
+date: "1931"
+location: Kapern, Gartenstraße
+origin:
+  name: Frieda Lüders
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 1/020
+subjects:
+  - name: Heinrich Eggers
+    type: person
+  - name: Berta Krüger
+    type: person
+files:
+  - role: main
+    original_name: scan_251.tif
+    path: files/26/dd/26dd6a270fa7cb3b1150bd59afe3f8d7ae385e58f9eba98b2f188724022f33eb/original.tif
+    sha256: 26dd6a270fa7cb3b1150bd59afe3f8d7ae385e58f9eba98b2f188724022f33eb
+    mime: image/tiff
+    bytes: 24325646
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/26/dd/26dd6a270fa7cb3b1150bd59afe3f8d7ae385e58f9eba98b2f188724022f33eb/preview-400.28e0aa4b42cf.jpg
+        sha256: 28e0aa4b42cf3263c097b50d61b8e5a8a50217b60b234a5675e1200b3930e7b6
+        mime: image/jpeg
+        bytes: 21886
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

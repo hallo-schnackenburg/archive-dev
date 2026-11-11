@@ -1,0 +1,30 @@
+id: 01HKWVF8GN54FM4MXTAXTCFMB4
+type: document
+subtype: protocol
+title: Protokoll des Feuerwehrausschuss vom 25. Januar 1881
+description: "Beschlossen wurde unter anderem: Pachtvertrag."
+date: 1881-01-25
+location: Wootz, Mühlenweg
+geocode:
+  lat: 52.9376
+  lon: 11.6864
+  precision: town
+  source: osm
+language: de
+subjects:
+  - name: Kapern
+    type: place
+  - name: Nienwalde
+    type: place
+  - name: Beerdigung 1881
+    type: event
+parents:
+  - 01KTZKC2A5R5HHQXVWXFS5SF60
+  - 01FDA5WD2HAQWVA4SE72GX6KEJ
+storage: external
+external:
+  - type: archive
+    site: Bundesarchiv
+    uri: https://bundesarchiv.example.org/objekt/666121
+    reference: Rep. 203 Nr. 1963
+    retrieved: 2025-04-07

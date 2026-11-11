@@ -1,0 +1,37 @@
+id: 01K91J0T2EP9GVZCX023MTF7Z3
+type: image
+subtype: print
+title: "Holzschnitt: Schlachtfest, Wustrow"
+date: "1925"
+location: Bömenzien, Kirchstraße
+origin:
+  name: Karl Ludolf
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br 26/331
+  note: Planschrank, Fach 3
+files:
+  - role: main
+    original_name: scan_492.tif
+    path: files/df/e4/dfe48816394a0f3d22357dab4c2828482b68fea2df4bfd8d4e6a47384f608ea4/original.tif
+    sha256: dfe48816394a0f3d22357dab4c2828482b68fea2df4bfd8d4e6a47384f608ea4
+    mime: image/tiff
+    bytes: 26225155
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/df/e4/dfe48816394a0f3d22357dab4c2828482b68fea2df4bfd8d4e6a47384f608ea4/preview-400.b74f7ccb1052.jpg
+        sha256: b74f7ccb1052a7b27de1ae770d8c9dc0bea3939d7c6c251eedd469a1dd860cb0
+        mime: image/jpeg
+        bytes: 69771
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

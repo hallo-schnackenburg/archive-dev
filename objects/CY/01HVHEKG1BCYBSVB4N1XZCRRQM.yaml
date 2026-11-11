@@ -1,0 +1,40 @@
+id: 01HVHEKG1BCYBSVB4N1XZCRRQM
+type: image
+subtype: photo
+title: Karl Lemke, Porträt
+date: 1917-06
+location: Restorf, Fachwerkhaus Marktstraße 4
+geocode:
+  lat: 53.0738
+  lon: 11.508
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 33/263
+subjects:
+  - name: Erika Rohde
+    type: person
+files:
+  - role: main
+    original_name: P5700.jpg
+    path: files/d4/cf/d4cf6ad0f059fcac1bdf52fa3660b975db5b10ce717e4c42b4326abb73abf348/original.jpg
+    sha256: d4cf6ad0f059fcac1bdf52fa3660b975db5b10ce717e4c42b4326abb73abf348
+    mime: image/jpeg
+    bytes: 19370372
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/d4/cf/d4cf6ad0f059fcac1bdf52fa3660b975db5b10ce717e4c42b4326abb73abf348/preview-400.0bda76217c0f.jpg
+        sha256: 0bda76217c0fc8ac1b8b40e3332ce21113c78af9009d6cfd3fab2a035d975454
+        mime: image/jpeg
+        bytes: 84552
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

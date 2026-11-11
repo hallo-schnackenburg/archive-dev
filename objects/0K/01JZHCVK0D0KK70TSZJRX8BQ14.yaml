@@ -1,0 +1,44 @@
+id: 01JZHCVK0D0KK70TSZJRX8BQ14
+type: image
+subtype: drawing
+title: Skizze Arendsee, Am Elbdeich, Cumlosen
+date: 1869?
+origin:
+  name: Ilse Pape
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  note: Dachboden, Truhe
+subjects:
+  - name: Grenzturm
+    type: building
+  - name: Seedorf
+    type: place
+  - name: Restorf
+    type: place
+parents:
+  - 01GKNYMFKHFES83J477ZEHD22T
+files:
+  - role: main
+    original_name: scan_312.tif
+    path: files/94/f5/94f53a9a5d9935ac03d585243357bb919c916ee90c27824eefbf6a41b003dd2a/original.tif
+    sha256: 94f53a9a5d9935ac03d585243357bb919c916ee90c27824eefbf6a41b003dd2a
+    mime: image/tiff
+    bytes: 10724388
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/94/f5/94f53a9a5d9935ac03d585243357bb919c916ee90c27824eefbf6a41b003dd2a/preview-400.cacd342c8643.jpg
+        sha256: cacd342c86436c9b1d9ebb6c9671da7c4b3530c3084f020f42e09b16f2edf92d
+        mime: image/jpeg
+        bytes: 72997
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

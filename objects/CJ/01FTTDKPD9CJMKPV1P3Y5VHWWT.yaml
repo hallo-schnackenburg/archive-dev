@@ -1,0 +1,52 @@
+id: 01FTTDKPD9CJMKPV1P3Y5VHWWT
+type: image
+subtype: photo
+title: Blick vom Elbdeich auf das Kaufmannshaus
+description: Farbfoto, leicht verblasst.
+date: "1920"
+location: Laase, Kirchstraße
+geocode:
+  lat: 53.0051
+  lon: 11.6737
+  precision: town
+  source: osm
+origin:
+  name: Heinz Garms
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok 2/347
+subjects:
+  - name: Beerdigung 1920
+    type: event
+  - name: Uwe Matthies
+    type: person
+  - name: Heinz Ahrens
+    type: person
+parents:
+  - 01HXKWJA1EQYHXN89QXEXV1595
+  - 01GXXVEKH9A0GJR23K785W58NQ
+files:
+  - role: main
+    original_name: scan_680.tif
+    path: files/c4/ec/c4ec588cda2b540cf6ff88a3a75f46c24ef1828118adfc4fbff7f03f5a825edd/original.tif
+    sha256: c4ec588cda2b540cf6ff88a3a75f46c24ef1828118adfc4fbff7f03f5a825edd
+    mime: image/tiff
+    bytes: 16515577
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c4/ec/c4ec588cda2b540cf6ff88a3a75f46c24ef1828118adfc4fbff7f03f5a825edd/preview-400.248e536be2b5.jpg
+        sha256: 248e536be2b5c38076126834aba01161ddcf8f4b22774d6e082d351a99356130
+        mime: image/jpeg
+        bytes: 87486
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

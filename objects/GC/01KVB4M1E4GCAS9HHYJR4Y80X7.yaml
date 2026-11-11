@@ -1,0 +1,65 @@
+id: 01KVB4M1E4GCAS9HHYJR4Y80X7
+type: document
+subtype: note
+title: Rechnung Wegner, Pfarrhaus
+date: 1967-12
+location: Gartow, Lange Straße
+geocode:
+  lat: 53.0747
+  lon: 11.685
+  precision: region
+  source: osm
+origin:
+  name: Hans Garms
+  type: person
+  location: Seedorf
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro/Album 21/101
+parents:
+  - 01KGHR1E94X26ENFVH4J79T0CP
+files:
+  - role: page
+    num: 1
+    original_name: note_4y80x7_001.tif
+    path: files/9b/f9/9bf900e787b78c9d1491f1a95292b12bb197ad7b4cfebbea134838037adb6d1c/original.tif
+    sha256: 9bf900e787b78c9d1491f1a95292b12bb197ad7b4cfebbea134838037adb6d1c
+    mime: image/tiff
+    bytes: 16632141
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9b/f9/9bf900e787b78c9d1491f1a95292b12bb197ad7b4cfebbea134838037adb6d1c/preview-400.810bebdb08d6.jpg
+        sha256: 810bebdb08d65665b8fbda77c6c52e61f66236e957dc18263e7b6f65522c4df2
+        mime: image/jpeg
+        bytes: 52357
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_4y80x7_002.tif
+    path: files/8c/4e/8c4ee349e85a4e0efb55d58ea1469eac2a69d83246b4c5e2fc00c41ee2b02e2d/original.tif
+    sha256: 8c4ee349e85a4e0efb55d58ea1469eac2a69d83246b4c5e2fc00c41ee2b02e2d
+    mime: image/tiff
+    bytes: 24628804
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8c/4e/8c4ee349e85a4e0efb55d58ea1469eac2a69d83246b4c5e2fc00c41ee2b02e2d/preview-400.390f3eb2c2ae.jpg
+        sha256: 390f3eb2c2ae3ca853c8416d98674af9df1e0bc95682c480e49d56c92e36d444
+        mime: image/jpeg
+        bytes: 30804
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,29 @@
+id: 01GK161W20ZCW58DD1TFNN5YEX
+type: image
+subtype: print
+title: Lithographie Schützenhaus
+description: Lithographie, Rand beschnitten.
+date: 1800/1806
+subjects:
+  - name: Nienwalde
+    type: place
+files:
+  - role: main
+    original_name: scan_909.tif
+    path: files/df/ff/dfffe2c3c57ad03ba248f9043ef08c84ad7421cf8f40998c6db6715a145e70ed/original.tif
+    sha256: dfffe2c3c57ad03ba248f9043ef08c84ad7421cf8f40998c6db6715a145e70ed
+    mime: image/tiff
+    bytes: 23407781
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/df/ff/dfffe2c3c57ad03ba248f9043ef08c84ad7421cf8f40998c6db6715a145e70ed/preview-400.0f908e76c2b2.jpg
+        sha256: 0f908e76c2b2ec9fcb1ad070b9131a597d8dbeb73b23d2739892b32041b5a245
+        mime: image/jpeg
+        bytes: 51413
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

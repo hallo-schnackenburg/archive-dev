@@ -1,0 +1,38 @@
+id: 01H8KE049ECQ15ME4WZC05GZ79
+type: image
+subtype: print
+title: Gruß aus Brünkendorf, Lenzen
+date: 1805-02
+location: Havelberg, Gemeindehaus
+geocode:
+  lat: 52.9306
+  lon: 11.6047
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Bohlmann
+  type: person
+  location: Brünkendorf
+parents:
+  - 01G2WJPJPQXBE3BT808Y4JJJ99
+  - 01KWYFYPXA1XKFXQC49HAWMD3Q
+files:
+  - role: main
+    original_name: scan_511.tif
+    path: files/07/b0/07b0ad626a9cb104f0032de04d126fc32826d82cf5520154197f0a41345981a4/original.tif
+    sha256: 07b0ad626a9cb104f0032de04d126fc32826d82cf5520154197f0a41345981a4
+    mime: image/tiff
+    bytes: 4366285
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/b0/07b0ad626a9cb104f0032de04d126fc32826d82cf5520154197f0a41345981a4/preview-400.10d61c4dc020.jpg
+        sha256: 10d61c4dc020b49091c9fe2eb706ffbaccc3a79ffe3509efd6ac2e1548fdcfdc
+        mime: image/jpeg
+        bytes: 22955
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

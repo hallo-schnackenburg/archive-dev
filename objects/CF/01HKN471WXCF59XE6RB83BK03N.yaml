@@ -1,0 +1,30 @@
+id: 01HKN471WXCF59XE6RB83BK03N
+type: image
+subtype: plan
+title: Bauplan Torhaus 1914
+date: "1914"
+location: Nienwalde, Marktstraße
+origin:
+  name: Gerda Voss
+  type: person
+  location: Zadrau
+files:
+  - role: main
+    original_name: scan_744.tif
+    path: files/36/53/3653425d68dfe0a84914f6efd6e1aab2a25d3e83c12a306816b984b5027c5436/original.tif
+    sha256: 3653425d68dfe0a84914f6efd6e1aab2a25d3e83c12a306816b984b5027c5436
+    mime: image/tiff
+    bytes: 5714246
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/36/53/3653425d68dfe0a84914f6efd6e1aab2a25d3e83c12a306816b984b5027c5436/preview-400.e958454c712f.jpg
+        sha256: e958454c712f3d356d75a9ce7b49b6204377f5082f77e1842a67a53bb5877e8e
+        mime: image/jpeg
+        bytes: 60645
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

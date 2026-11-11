@@ -1,0 +1,38 @@
+id: 01GK38C30Z04H8FJR1N32RBYP7
+type: image
+subtype: drawing
+title: Skizze Lanz, Hafenstraße
+description: Bleistift auf Papier.
+date: 1989-10-20
+location: Rüterberg, Kirchstraße
+origin:
+  name: Erika Wiese
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Hans Rohde
+    type: person
+  - name: Lanz
+    type: place
+  - name: Backhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_750.tif
+    path: files/88/be/88be6f613e3d455048982c223cdca3bb4dc70feb635ed37706fe800844e3ad45/original.tif
+    sha256: 88be6f613e3d455048982c223cdca3bb4dc70feb635ed37706fe800844e3ad45
+    mime: image/tiff
+    bytes: 18799515
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/88/be/88be6f613e3d455048982c223cdca3bb4dc70feb635ed37706fe800844e3ad45/preview-400.ffaad4e3a8b5.jpg
+        sha256: ffaad4e3a8b55975d58871a55500a783190849471ad167234fc41e5d58ae3674
+        mime: image/jpeg
+        bytes: 52341
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

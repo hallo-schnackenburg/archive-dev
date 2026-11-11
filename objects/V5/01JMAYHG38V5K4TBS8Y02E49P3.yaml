@@ -1,0 +1,37 @@
+id: 01JMAYHG38V5K4TBS8Y02E49P3
+type: image
+subtype: photo
+title: Viehmarkt der Kriegerverein
+date: 1898-07-27
+origin:
+  name: Heinrich Mahnke
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Gasthof Meyer
+    type: building
+parents:
+  - 01KR3FCH1Y6Q5X71Q48GVZ96QG
+  - 01FHAJMC0QDXRYDR1PV64RNJKV
+files:
+  - role: main
+    original_name: scan_760.tif
+    path: files/a2/aa/a2aa5cee291db71cbf7591e8d08f5e862e651318840ef168ed5354715ca78b14/original.tif
+    sha256: a2aa5cee291db71cbf7591e8d08f5e862e651318840ef168ed5354715ca78b14
+    mime: image/tiff
+    bytes: 25221511
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a2/aa/a2aa5cee291db71cbf7591e8d08f5e862e651318840ef168ed5354715ca78b14/preview-400.3a0b92d1701f.jpg
+        sha256: 3a0b92d1701fd273d16af1536c4ae98d5ed438384704460859d137868516d425
+        mime: image/jpeg
+        bytes: 63565
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

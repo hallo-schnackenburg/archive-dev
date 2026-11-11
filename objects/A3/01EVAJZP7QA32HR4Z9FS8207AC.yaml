@@ -1,0 +1,41 @@
+id: 01EVAJZP7QA32HR4Z9FS8207AC
+type: image
+subtype: print
+title: Postkarte Bömenzien, Poststelle
+description: Lithographie, Rand beschnitten.
+date: 1926/1937
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 29/104
+subjects:
+  - name: Fritz Lüders
+    type: person
+  - name: Laase
+    type: place
+  - name: Lanz
+    type: place
+parents:
+  - 01K7A9XBEKBQ32YCR4HNDFGW06
+files:
+  - role: main
+    original_name: scan_851.tif
+    path: files/36/07/3607889b59fd4a831b63f709cc093607e244fee55d0e81285402af8b92d39efd/original.tif
+    sha256: 3607889b59fd4a831b63f709cc093607e244fee55d0e81285402af8b92d39efd
+    mime: image/tiff
+    bytes: 20453633
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/36/07/3607889b59fd4a831b63f709cc093607e244fee55d0e81285402af8b92d39efd/preview-400.186e94e6ceda.jpg
+        sha256: 186e94e6cedaa59e7e29584531cf443367172e0b4a4a27299c23d29a8b16e97c
+        mime: image/jpeg
+        bytes: 39738
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

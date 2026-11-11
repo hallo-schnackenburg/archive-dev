@@ -1,0 +1,34 @@
+id: 01G6SCVR9YA8CXQ0Y036F6FSA4
+type: image
+subtype: plan
+title: Bauplan Tanzsaal 1836
+date: 1836-12-02
+subjects:
+  - name: Schlachterei
+    type: building
+  - name: Kapern
+    type: place
+  - name: Ortsbesichtigung 1836
+    type: event
+parents:
+  - 01FPG45DMCQ4FJ212ZPBZF1YR1
+files:
+  - role: main
+    original_name: scan_048.tif
+    path: files/9c/6c/9c6c26ed51e23a36e52e9b09826bdbe1406ea7912901de5916d1cf90daa04f7a/original.tif
+    sha256: 9c6c26ed51e23a36e52e9b09826bdbe1406ea7912901de5916d1cf90daa04f7a
+    mime: image/tiff
+    bytes: 26593801
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9c/6c/9c6c26ed51e23a36e52e9b09826bdbe1406ea7912901de5916d1cf90daa04f7a/preview-400.eff1a9d6fe5c.jpg
+        sha256: eff1a9d6fe5c9a45df5fffd145bf7d94b42b22498922a3abbd125707312b361d
+        mime: image/jpeg
+        bytes: 25128
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

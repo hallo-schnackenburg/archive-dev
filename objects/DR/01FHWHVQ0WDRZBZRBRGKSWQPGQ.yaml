@@ -1,0 +1,48 @@
+id: 01FHWHVQ0WDRZBZRBRGKSWQPGQ
+type: image
+subtype: print
+title: Postkarte Dömitz, Windmühle
+description: Postkarte, gelaufen 1954.
+date: 1950-02
+location: Rüterberg, Gärtnerei
+geocode:
+  lat: 52.9045
+  lon: 11.5283
+  precision: exact
+  source: osm
+origin:
+  name: Frieda Garms
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Speicher
+    type: building
+  - name: Elbdeich
+    type: building
+parents:
+  - 01JRGX3XFSMSVNN02PC0NNSHZP
+files:
+  - role: main
+    original_name: scan_342.tif
+    path: files/d6/b4/d6b420265b65f58acd4ef47e132672a1d554c6028d837eb6dc810241371c0fe9/original.tif
+    sha256: d6b420265b65f58acd4ef47e132672a1d554c6028d837eb6dc810241371c0fe9
+    mime: image/tiff
+    bytes: 23303256
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d6/b4/d6b420265b65f58acd4ef47e132672a1d554c6028d837eb6dc810241371c0fe9/preview-400.21412f56217a.jpg
+        sha256: 21412f56217adc4a79301bac1a708f0ce75b0cf2d8e0ea4fecef3e63ba661709
+        mime: image/jpeg
+        bytes: 53137
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

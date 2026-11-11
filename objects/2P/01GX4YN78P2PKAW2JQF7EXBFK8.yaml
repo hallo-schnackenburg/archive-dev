@@ -1,0 +1,43 @@
+id: 01GX4YN78P2PKAW2JQF7EXBFK8
+type: image
+subtype: plan
+title: Deichplan Seedorf bis Rüterberg
+description: Tusche auf Transparentpapier.
+date: 1974/1984
+origin:
+  name: Werner Rieke
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan/Kasten 23/059
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Hitzacker
+    type: place
+parents:
+  - 01KJHV4RZ8X5ZNWBC3B15QV0TT
+files:
+  - role: main
+    original_name: scan_835.tif
+    path: files/8d/01/8d01fc9d072a26a248c4ddcd7f1b17843c814e19cad32d6f2905edc2abf0c766/original.tif
+    sha256: 8d01fc9d072a26a248c4ddcd7f1b17843c814e19cad32d6f2905edc2abf0c766
+    mime: image/tiff
+    bytes: 8016618
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8d/01/8d01fc9d072a26a248c4ddcd7f1b17843c814e19cad32d6f2905edc2abf0c766/preview-400.35c9d2e6c317.jpg
+        sha256: 35c9d2e6c3178be9ed63a0fbab7e819a6d1766a07a89670be9a8da407f0d4120
+        mime: image/jpeg
+        bytes: 72522
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01K0J6BJFFDZ1PV1E5TWGQDVMW
+type: image
+subtype: plan
+title: Deichplan Zadrau bis Bömenzien
+date: 1833-04
+origin:
+  name: Hans Krüger
+  type: person
+  location: Lüchow
+subjects:
+  - name: Wootz
+    type: place
+  - name: Poststelle
+    type: building
+  - name: Ilse Plate
+    type: person
+parents:
+  - 01HSN5QZ6JGHWHBF50F9VB0XTK
+  - 01KX2QEWS5CRBXEA92Z62Z3K4Q
+files:
+  - role: main
+    original_name: scan_635.tif
+    path: files/16/a0/16a0becf9c2ffe1d0e6ded7639c670df8458d346e1ee075c55e8236bfc98cf7c/original.tif
+    sha256: 16a0becf9c2ffe1d0e6ded7639c670df8458d346e1ee075c55e8236bfc98cf7c
+    mime: image/tiff
+    bytes: 13855346
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/16/a0/16a0becf9c2ffe1d0e6ded7639c670df8458d346e1ee075c55e8236bfc98cf7c/preview-400.a3d31f3f1524.jpg
+        sha256: a3d31f3f152458fe99e396e7c0e8bf62c2853fc09865c6b0f1a652dba12ffa71
+        mime: image/jpeg
+        bytes: 65394
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

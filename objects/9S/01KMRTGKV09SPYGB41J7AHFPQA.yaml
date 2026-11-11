@@ -1,0 +1,30 @@
+id: 01KMRTGKV09SPYGB41J7AHFPQA
+type: image
+subtype: photo
+title: Friedrich Krüger, Porträt
+date: "1942"
+location: Gülden, Tischlerei Bruns
+origin:
+  name: Heinrich Jeß
+  type: person
+  location: Hitzacker
+files:
+  - role: main
+    original_name: IMG_2562.jpg
+    path: files/d5/d0/d5d0c13713179555749b4a013c093c23fc095cd9d36dd2b068cb732e290d15ab/original.jpg
+    sha256: d5d0c13713179555749b4a013c093c23fc095cd9d36dd2b068cb732e290d15ab
+    mime: image/jpeg
+    bytes: 2926793
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/d5/d0/d5d0c13713179555749b4a013c093c23fc095cd9d36dd2b068cb732e290d15ab/preview-400.3257efec4daf.jpg
+        sha256: 3257efec4dafbecc798bb7b9b11e5101c634bff7ecc9e831cccfff5a8d0f96d0
+        mime: image/jpeg
+        bytes: 39729
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

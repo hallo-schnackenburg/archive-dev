@@ -1,0 +1,33 @@
+id: 01H5SX6JFWJ4KYDZWJM2048FRX
+type: image
+subtype: photo
+title: Gärtnerei nach dem Straßenfest
+description: Abzug im Format 6 x 9 cm.
+date: "2004"
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Hochwasser 2004
+    type: event
+parents:
+  - 01KDD6TJHRWYW5BFBZ7TKQREBJ
+files:
+  - role: main
+    original_name: P8525.jpg
+    path: files/f3/c5/f3c5f1b854a1db8ae6da7b9afa928e243c8d0426a9a87b39d2c5dc331692b34e/original.jpg
+    sha256: f3c5f1b854a1db8ae6da7b9afa928e243c8d0426a9a87b39d2c5dc331692b34e
+    mime: image/jpeg
+    bytes: 23626725
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/f3/c5/f3c5f1b854a1db8ae6da7b9afa928e243c8d0426a9a87b39d2c5dc331692b34e/preview-400.56cf8ae1586d.jpg
+        sha256: 56cf8ae1586db63ec4f184b933f7d7ef9d95c8cf9cc9c45e51765030238de92b
+        mime: image/jpeg
+        bytes: 26312
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

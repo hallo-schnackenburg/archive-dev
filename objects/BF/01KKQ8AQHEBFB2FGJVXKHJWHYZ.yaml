@@ -1,0 +1,61 @@
+id: 01KKQ8AQHEBFB2FGJVXKHJWHYZ
+type: document
+subtype: letter
+title: Feldpostbrief von Erika Lenz
+description: Mit Umschlag und Briefmarke.
+date: "1924"
+location: Bömenzien, Försterei
+geocode:
+  lat: 53.0076
+  lon: 11.5234
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Plate
+  type: person
+  location: Dömitz
+recipient: Friedrich Detlefs
+language: de
+parents:
+  - 01M0CBRWW56FRQVDWWMJQPF72C
+files:
+  - role: page
+    num: 1
+    original_name: letter_hjwhyz_001.tif
+    path: files/28/cf/28cf06084996600d39127b09d7c155f9dc61d2fb8d4272b9e61513f045d39955/original.tif
+    sha256: 28cf06084996600d39127b09d7c155f9dc61d2fb8d4272b9e61513f045d39955
+    mime: image/tiff
+    bytes: 22325880
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/28/cf/28cf06084996600d39127b09d7c155f9dc61d2fb8d4272b9e61513f045d39955/preview-400.4d043a1981c6.jpg
+        sha256: 4d043a1981c6dc226ae31219decf6550ec6c3019429771a099f8771d83cb57bc
+        mime: image/jpeg
+        bytes: 74218
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_hjwhyz_002.tif
+    path: files/ff/8f/ff8f3565d5c5b3cb4efb274a53ae47139bbd13ae076dfadec83d0945889990d0/original.tif
+    sha256: ff8f3565d5c5b3cb4efb274a53ae47139bbd13ae076dfadec83d0945889990d0
+    mime: image/tiff
+    bytes: 6095896
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/8f/ff8f3565d5c5b3cb4efb274a53ae47139bbd13ae076dfadec83d0945889990d0/preview-400.f09e594a070a.jpg
+        sha256: f09e594a070ad5c2aae0481d236c28b24a7da9a7bee4b3b7122d3bc975cc9775
+        mime: image/jpeg
+        bytes: 42447
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

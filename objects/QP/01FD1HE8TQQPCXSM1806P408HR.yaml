@@ -1,0 +1,38 @@
+id: 01FD1HE8TQQPCXSM1806P408HR
+type: image
+subtype: print
+title: "Holzschnitt: Viehmarkt, Pretzier"
+date: 1953-05-13
+origin:
+  name: Paul Lüders
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 24/223
+parents:
+  - 01JFKAQQ0R80TT983HC9766EP1
+  - 01F267JRW9ANSP74NWFX31H9W4
+files:
+  - role: main
+    original_name: scan_813.tif
+    path: files/ac/ca/acca51458bfc194c287d22ca2492dfde444c000066397f3ed6f7390b50a45ff6/original.tif
+    sha256: acca51458bfc194c287d22ca2492dfde444c000066397f3ed6f7390b50a45ff6
+    mime: image/tiff
+    bytes: 21060364
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/ca/acca51458bfc194c287d22ca2492dfde444c000066397f3ed6f7390b50a45ff6/preview-400.12822bee4657.jpg
+        sha256: 12822bee465755a7f096a0de4833f9f902c65525626ec223b62438e0564b3ebc
+        mime: image/jpeg
+        bytes: 53384
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

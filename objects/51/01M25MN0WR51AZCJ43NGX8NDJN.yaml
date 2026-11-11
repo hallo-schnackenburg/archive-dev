@@ -1,0 +1,39 @@
+id: 01M25MN0WR51AZCJ43NGX8NDJN
+type: image
+subtype: plan
+title: Katasterblatt Meyer
+date: 1779-11
+origin:
+  name: Wilhelm Brandt
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok 30/075
+  note: Kellerarchiv
+subjects:
+  - name: Pumpenhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_540.tif
+    path: files/41/01/410151a8e859c6392d64188c662835f132dee09441b390b9f71dd522d03e33f5/original.tif
+    sha256: 410151a8e859c6392d64188c662835f132dee09441b390b9f71dd522d03e33f5
+    mime: image/tiff
+    bytes: 6878853
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/41/01/410151a8e859c6392d64188c662835f132dee09441b390b9f71dd522d03e33f5/preview-400.2d10ba24d695.jpg
+        sha256: 2d10ba24d695db4e64eb751cbdbd09b78b1b5b83d5e8e51be077294cd205901f
+        mime: image/jpeg
+        bytes: 29744
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

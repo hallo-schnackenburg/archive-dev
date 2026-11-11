@@ -1,0 +1,61 @@
+id: 01KV4WZS0T46C8XGZQW67ZGMR7
+type: document
+subtype: letter
+title: Korrespondenz Paul Brandt
+description: Mit Umschlag und Briefmarke.
+date: 1975?
+location: Dömitz, Pfarrhaus
+origin:
+  name: Heinrich Plate
+  type: person
+  location: Gartow
+recipient: Ursula Garms
+language: de
+subjects:
+  - name: Friedhofskapelle
+    type: building
+  - name: Erika Lemke
+    type: person
+parents:
+  - 01FD6EAZJKH5HBDF74E6D66JVA
+files:
+  - role: page
+    num: 1
+    original_name: letter_7zgmr7_001.tif
+    path: files/15/45/1545c1d81236a427d472755a8225a095b91f675c96c40e8e7fd69572d109c5fe/original.tif
+    sha256: 1545c1d81236a427d472755a8225a095b91f675c96c40e8e7fd69572d109c5fe
+    mime: image/tiff
+    bytes: 18133146
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/15/45/1545c1d81236a427d472755a8225a095b91f675c96c40e8e7fd69572d109c5fe/preview-400.133348b617d7.jpg
+        sha256: 133348b617d70adbaca0ea39758dccbf6e9b5970b9c5977304f1fe7b9dda4443
+        mime: image/jpeg
+        bytes: 58745
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_7zgmr7_002.tif
+    path: files/79/fb/79fb8a9341e633a13fc6d0a41ee2a011d6f156ece613506338adeb46a109153b/original.tif
+    sha256: 79fb8a9341e633a13fc6d0a41ee2a011d6f156ece613506338adeb46a109153b
+    mime: image/tiff
+    bytes: 20066785
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/79/fb/79fb8a9341e633a13fc6d0a41ee2a011d6f156ece613506338adeb46a109153b/preview-400.8918e2bc77db.jpg
+        sha256: 8918e2bc77dbcb8602cf1745d8f196b76c714836d1ffefb67f89b41f1d723244
+        mime: image/jpeg
+        bytes: 32200
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

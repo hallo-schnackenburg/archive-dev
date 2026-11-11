@@ -1,0 +1,31 @@
+id: 01F5QNWPM328SWXFHT7B7VTDS3
+type: image
+subtype: plan
+title: Bauplan Gasthof Meyer 1820
+date: 1820-11-18
+location: Lenzen, Bahnhofstraße
+subjects:
+  - name: Friedrich Brandt
+    type: person
+  - name: Richtfest 1820
+    type: event
+files:
+  - role: main
+    original_name: scan_646.tif
+    path: files/e9/3f/e93f5ea78b67fb11ce625f3f59fe656728caca9d76d32716f1455948bd159a0d/original.tif
+    sha256: e93f5ea78b67fb11ce625f3f59fe656728caca9d76d32716f1455948bd159a0d
+    mime: image/tiff
+    bytes: 24145229
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e9/3f/e93f5ea78b67fb11ce625f3f59fe656728caca9d76d32716f1455948bd159a0d/preview-400.354cd08baafe.jpg
+        sha256: 354cd08baafedafc137f88d6ceb4ebee3f12b0cfb718b065a02221b5c6fa42ba
+        mime: image/jpeg
+        bytes: 59592
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

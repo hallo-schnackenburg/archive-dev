@@ -1,0 +1,49 @@
+id: 01G5F8JBCRJGBYXHGYHH1E4CAY
+type: document
+subtype: letter
+title: Glückwunschkarte zum Erntedankfest
+description: Betrifft Brückenreparatur.
+date: 1860~
+location: Laase, Elbdeich
+geocode:
+  lat: 53.0391
+  lon: 11.4541
+  precision: street
+  source: osm
+origin:
+  name: Emma Kuhlmann
+  type: person
+  location: Seedorf
+recipient: Gerda Rieke
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Kaufmannshaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_1e4cay_001.tif
+    path: files/34/ec/34ec24c680a8327cb83842365aa38d1bc5ac0ba13cc2ec3572d814b46ba07453/original.tif
+    sha256: 34ec24c680a8327cb83842365aa38d1bc5ac0ba13cc2ec3572d814b46ba07453
+    mime: image/tiff
+    bytes: 13725252
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/34/ec/34ec24c680a8327cb83842365aa38d1bc5ac0ba13cc2ec3572d814b46ba07453/preview-400.05883efb7f3d.jpg
+        sha256: 05883efb7f3ddb9f528a6f9fe29dd3fc8fbaa3a58ab454d27243ffa083e4133e
+        mime: image/jpeg
+        bytes: 29591
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

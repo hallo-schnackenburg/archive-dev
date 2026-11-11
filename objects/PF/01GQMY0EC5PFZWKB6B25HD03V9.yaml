@@ -1,0 +1,42 @@
+id: 01GQMY0EC5PFZWKB6B25HD03V9
+type: image
+subtype: plan
+title: Bauplan Wassermühle 1869
+description: Maßstab 1:500.
+date: 1869-07
+location: Wootz, Am Markt
+origin:
+  name: Emma Ahrens
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 2/276
+subjects:
+  - name: Heinrich Meyer
+    type: person
+parents:
+  - 01EWSDA9HNCJV2FVTXNNBEB0AC
+files:
+  - role: main
+    original_name: scan_302.tif
+    path: files/5e/83/5e831341117743b1d3c8d55639a0c8006abdcae522024911832edc320a6c1e8a/original.tif
+    sha256: 5e831341117743b1d3c8d55639a0c8006abdcae522024911832edc320a6c1e8a
+    mime: image/tiff
+    bytes: 19372368
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5e/83/5e831341117743b1d3c8d55639a0c8006abdcae522024911832edc320a6c1e8a/preview-400.fa60d7a1eeb4.jpg
+        sha256: fa60d7a1eeb49732e95f0bf6d628419ebd64e21fd31b94ffdf93ac3ad4cb93aa
+        mime: image/jpeg
+        bytes: 79627
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

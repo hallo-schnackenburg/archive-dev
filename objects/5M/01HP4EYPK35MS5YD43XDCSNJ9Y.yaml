@@ -1,0 +1,36 @@
+id: 01HP4EYPK35MS5YD43XDCSNJ9Y
+type: image
+subtype: photo
+title: Speicher nach dem Deicharbeiten
+description: Aufnahme von Gerda Rohde.
+origin:
+  name: Otto Tiedemann
+  type: person
+  location: Restorf
+subjects:
+  - name: Sturmschaden 1964
+    type: event
+  - name: Lenzen
+    type: place
+parents:
+  - 01F3WB9ZBJKKX10FSWQKEJV2M4
+files:
+  - role: main
+    original_name: IMG_7603.jpg
+    path: files/8b/29/8b299b4e3b5e625bc2596949d21d57b4d44dc8937314c36830ed1231da5298cd/original.jpg
+    sha256: 8b299b4e3b5e625bc2596949d21d57b4d44dc8937314c36830ed1231da5298cd
+    mime: image/jpeg
+    bytes: 24083606
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/8b/29/8b299b4e3b5e625bc2596949d21d57b4d44dc8937314c36830ed1231da5298cd/preview-400.3c5d9193a835.jpg
+        sha256: 3c5d9193a835d7196bc510df67f078e873c139488b374d40f702ce01e3a90225
+        mime: image/jpeg
+        bytes: 61798
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

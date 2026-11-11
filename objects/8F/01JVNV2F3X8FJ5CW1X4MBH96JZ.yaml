@@ -1,0 +1,36 @@
+id: 01JVNV2F3X8FJ5CW1X4MBH96JZ
+type: image
+subtype: photo
+title: Erika Krüger vor dem Mühle
+description: Zu sehen sind Pumpenhaus und Hafen.
+date: 1903~
+location: Schnackenburg, Scheune
+origin:
+  name: Emma Jeß
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Gülden
+    type: place
+parents:
+  - 01FEMA2K3GSA17BGZHHP3N0PEF
+files:
+  - role: main
+    original_name: IMG_8125.jpg
+    path: files/ed/74/ed744cb20e39e3671c5c939f1cc318889b80728e4d26a553b621b9ce1f826fc9/original.jpg
+    sha256: ed744cb20e39e3671c5c939f1cc318889b80728e4d26a553b621b9ce1f826fc9
+    mime: image/jpeg
+    bytes: 1576171
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ed/74/ed744cb20e39e3671c5c939f1cc318889b80728e4d26a553b621b9ce1f826fc9/preview-400.e7eef91eed40.jpg
+        sha256: e7eef91eed40c08ba914a60e6961c86d1855199f887914bde86412e62af49197
+        mime: image/jpeg
+        bytes: 80053
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

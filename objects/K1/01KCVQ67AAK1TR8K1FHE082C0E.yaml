@@ -1,0 +1,45 @@
+id: 01KCVQ67AAK1TR8K1FHE082C0E
+type: image
+subtype: drawing
+title: Wappenentwurf Pretzier, Wootz
+description: Mit Anmerkungen am Rand.
+date: 191X
+location: Laase, Elbstraße
+origin:
+  name: Gisela Matthies
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 18/034
+  note: Planschrank, Fach 3
+subjects:
+  - name: Hochwasser 1916
+    type: event
+  - name: Wassermühle
+    type: building
+parents:
+  - 01JSEZ1KR3W9V6KCYZ4QHW4E4A
+files:
+  - role: main
+    original_name: scan_422.tif
+    path: files/64/c7/64c7d72dd298550d8de72987702beb09e957b877607e5a5b49ad6939847df57c/original.tif
+    sha256: 64c7d72dd298550d8de72987702beb09e957b877607e5a5b49ad6939847df57c
+    mime: image/tiff
+    bytes: 12968208
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/64/c7/64c7d72dd298550d8de72987702beb09e957b877607e5a5b49ad6939847df57c/preview-400.ae7608106bdc.jpg
+        sha256: ae7608106bdc6c7fb547a611ac2b4dee7f9ef29675cf78b2361a535fba9893a8
+        mime: image/jpeg
+        bytes: 55371
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

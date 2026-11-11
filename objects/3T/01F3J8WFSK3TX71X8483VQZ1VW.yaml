@@ -1,0 +1,37 @@
+id: 01F3J8WFSK3TX71X8483VQZ1VW
+type: image
+subtype: print
+title: Ansichtskarte Bahnhofstraße, Lüchow
+description: Lithographie, Rand beschnitten.
+date: 1723-08-10
+location: Salzwedel, Mühlenweg
+geocode:
+  lat: 53.06
+  lon: 11.6792
+  precision: street
+  source: osm
+subjects:
+  - name: Friedhofskapelle
+    type: building
+  - name: Dorffest 1723
+    type: event
+files:
+  - role: main
+    original_name: scan_379.tif
+    path: files/8f/69/8f6906ed83efa41f68c96acef8eb115ac475b96394501078cfbcc3be9ac4a7a8/original.tif
+    sha256: 8f6906ed83efa41f68c96acef8eb115ac475b96394501078cfbcc3be9ac4a7a8
+    mime: image/tiff
+    bytes: 7568634
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8f/69/8f6906ed83efa41f68c96acef8eb115ac475b96394501078cfbcc3be9ac4a7a8/preview-400.d2a07bdb0231.jpg
+        sha256: d2a07bdb023137d8261ce2eb348e476055708e54e2cbc9d5e968b5317370f474
+        mime: image/jpeg
+        bytes: 78514
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01FC9RBAF7RM4Z3ZBJNH33CAE0
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Dorffest, Gartow"
+description: Mit Anmerkungen am Rand.
+date: 1905-10
+location: Zadrau, Marktstraße
+geocode:
+  lat: 53.0691
+  lon: 11.5528
+  precision: street
+  source: osm
+origin:
+  name: Erika Plate
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Tanzsaal
+    type: building
+  - name: Günter Wegner
+    type: person
+  - name: Deicharbeiten 1905
+    type: event
+parents:
+  - 01J7ZY57D3ECK0QYZPPDYBXEE3
+files:
+  - role: main
+    original_name: scan_908.tif
+    path: files/46/bb/46bbe211ca5aa8a7d27087c3fa549f3662b70fc3c4f5ba606820494d72970672/original.tif
+    sha256: 46bbe211ca5aa8a7d27087c3fa549f3662b70fc3c4f5ba606820494d72970672
+    mime: image/tiff
+    bytes: 8346112
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/46/bb/46bbe211ca5aa8a7d27087c3fa549f3662b70fc3c4f5ba606820494d72970672/preview-400.4e75a7a55ab5.jpg
+        sha256: 4e75a7a55ab5993a60f00e64873754a1974e979c4dfa6e4d44db5ad7ba049589
+        mime: image/jpeg
+        bytes: 49355
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

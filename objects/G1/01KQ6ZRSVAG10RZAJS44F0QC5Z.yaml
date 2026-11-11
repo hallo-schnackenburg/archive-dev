@@ -1,0 +1,38 @@
+id: 01KQ6ZRSVAG10RZAJS44F0QC5Z
+type: image
+subtype: drawing
+title: Federzeichnung Feuerwehrhaus
+description: Federzeichnung, laviert.
+date: 1913/1925
+location: Wustrow, Försterei
+origin:
+  name: Erika Klatt
+  type: person
+  location: Gülden
+subjects:
+  - name: Wilhelm Behrens
+    type: person
+  - name: Wassermühle
+    type: building
+  - name: Otto Jeß
+    type: person
+files:
+  - role: main
+    original_name: scan_021.tif
+    path: files/78/f0/78f099e12c0512ec68b8c6e7cd1c56589a17bc1479f3a6ee743f20c3fef737ab/original.tif
+    sha256: 78f099e12c0512ec68b8c6e7cd1c56589a17bc1479f3a6ee743f20c3fef737ab
+    mime: image/tiff
+    bytes: 8942865
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/78/f0/78f099e12c0512ec68b8c6e7cd1c56589a17bc1479f3a6ee743f20c3fef737ab/preview-400.5bd20c1f6183.jpg
+        sha256: 5bd20c1f6183ae9752762bc56d66ffc32fb976ea1cbe578624570f1522834a87
+        mime: image/jpeg
+        bytes: 88791
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

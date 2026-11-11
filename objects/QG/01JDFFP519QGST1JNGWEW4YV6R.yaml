@@ -1,0 +1,43 @@
+id: 01JDFFP519QGST1JNGWEW4YV6R
+type: image
+subtype: plan
+title: Bauplan Fachwerkhaus Marktstraße 4 1838
+description: Mit handschriftlichen Ergänzungen.
+date: 1838-08-23
+location: Brünkendorf, Marktstraße
+origin:
+  name: Karl Ahrens
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Familie Ahrens
+    type: person
+    location: Lanz
+  reference: F/Kasten 12/066
+  note: Bücherregal links
+subjects:
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01JF4KWKVRQTHC2EW4F1D004T1
+files:
+  - role: main
+    original_name: scan_286.tif
+    path: files/78/c3/78c37a3b345e3481357c32d34311a8d7a6cef2de118dfd9516217d3677ff66e3/original.tif
+    sha256: 78c37a3b345e3481357c32d34311a8d7a6cef2de118dfd9516217d3677ff66e3
+    mime: image/tiff
+    bytes: 3337333
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/78/c3/78c37a3b345e3481357c32d34311a8d7a6cef2de118dfd9516217d3677ff66e3/preview-400.5d7ad2e89c7f.jpg
+        sha256: 5d7ad2e89c7fc7a61a2614663c11888618e8058f0c9cec488599b88dd5ea1599
+        mime: image/jpeg
+        bytes: 26877
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

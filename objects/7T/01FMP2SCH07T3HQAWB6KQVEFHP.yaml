@@ -1,0 +1,44 @@
+id: 01FMP2SCH07T3HQAWB6KQVEFHP
+type: image
+subtype: print
+title: Postkarte Zadrau, Tanzsaal
+description: Kupferstich, koloriert.
+date: 1851-10-17
+location: Pretzier, Backhaus
+origin:
+  name: Ilse Ahrens
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Albert Brandt
+    type: person
+  - name: Salzwedel
+    type: place
+parents:
+  - 01GBPB9GYE54BV2D1R1WP3GYSX
+  - 01FAQ3AREZBKTAGHNPJF8ZYQP7
+files:
+  - role: main
+    original_name: scan_554.tif
+    path: files/3f/c1/3fc1d88a734cb1da3951808487efc4e7ea9c4cd6fcd560186fb2a0056dc9f3b1/original.tif
+    sha256: 3fc1d88a734cb1da3951808487efc4e7ea9c4cd6fcd560186fb2a0056dc9f3b1
+    mime: image/tiff
+    bytes: 25809573
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3f/c1/3fc1d88a734cb1da3951808487efc4e7ea9c4cd6fcd560186fb2a0056dc9f3b1/preview-400.d9869e564921.jpg
+        sha256: d9869e56492140cefead0e45c4bbc02c7b66764868c1e321e25ba9542bb81d3e
+        mime: image/jpeg
+        bytes: 86006
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

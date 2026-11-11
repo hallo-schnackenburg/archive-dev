@@ -1,0 +1,40 @@
+id: 01J14YM05KYV7SCJST0CF8H6R8
+type: image
+subtype: plan
+title: Bauplan Kirche St. Johannis 1790
+date: 1790-06-25
+location: Kapern, Lange Straße
+geocode:
+  lat: 52.9192
+  lon: 11.6673
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 14/294
+subjects:
+  - name: August Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_697.tif
+    path: files/0a/3b/0a3b98b61e1ba43eb177b6fd0b63fda7e8bd483373a501e1e3bdac09fb44ec60/original.tif
+    sha256: 0a3b98b61e1ba43eb177b6fd0b63fda7e8bd483373a501e1e3bdac09fb44ec60
+    mime: image/tiff
+    bytes: 26048031
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0a/3b/0a3b98b61e1ba43eb177b6fd0b63fda7e8bd483373a501e1e3bdac09fb44ec60/preview-400.ca365f4103e5.jpg
+        sha256: ca365f4103e57c11f70e6821f75f2d2d3ecdd35a34d6daf956903b8bfdf70c27
+        mime: image/jpeg
+        bytes: 29645
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

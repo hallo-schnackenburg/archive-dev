@@ -1,0 +1,33 @@
+id: 01KFCFFNAPBKX88MRVVSHK3J3V
+type: image
+subtype: drawing
+title: Schmiede, Aquarell, Lanz
+description: Mit Anmerkungen am Rand.
+location: Bömenzien, Hafenstraße
+origin:
+  name: Brigitte Ahrens
+  type: person
+  location: Lüchow
+subjects:
+  - name: Ziegelei
+    type: building
+files:
+  - role: main
+    original_name: scan_215.tif
+    path: files/e6/8c/e68c11aa61b736452028f980c7c0462937117b32de9365679c32f0829c85e356/original.tif
+    sha256: e68c11aa61b736452028f980c7c0462937117b32de9365679c32f0829c85e356
+    mime: image/tiff
+    bytes: 23905551
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e6/8c/e68c11aa61b736452028f980c7c0462937117b32de9365679c32f0829c85e356/preview-400.258b0a5fb1c3.jpg
+        sha256: 258b0a5fb1c3969ca6095ac24c7d4f7d024e6ab225fdf211619a0844527c1fb8
+        mime: image/jpeg
+        bytes: 21552
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

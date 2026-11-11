@@ -1,0 +1,64 @@
+id: 01HRB6TWT7XB58984SKJRK954G
+type: document
+subtype: note
+title: Rechnung Ahrens, Fachwerkhaus Marktstraße 4
+date: 1863-04
+location: Seedorf, Schmiede
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Hitzacker
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Speicher
+    type: building
+  - name: Schlachterei
+    type: building
+parents:
+  - 01F9DH58STHY0SNK18ZFW9YJ7Y
+files:
+  - role: page
+    num: 1
+    original_name: note_rk954g_001.tif
+    path: files/83/79/8379f49bf99135d34dc839457033f67d351cac89ca6a6167a3770d7a2183e660/original.tif
+    sha256: 8379f49bf99135d34dc839457033f67d351cac89ca6a6167a3770d7a2183e660
+    mime: image/tiff
+    bytes: 26003049
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/83/79/8379f49bf99135d34dc839457033f67d351cac89ca6a6167a3770d7a2183e660/preview-400.edceb01161f3.jpg
+        sha256: edceb01161f3a74f13bef33b7a6730aa12c7cdb3bc6d9914817a1a0c2f1be606
+        mime: image/jpeg
+        bytes: 29570
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_rk954g_002.tif
+    path: files/ef/67/ef67c41b4f7d58f236bb8baae1335d3a315435639397dfafca0407b3920cbf3c/original.tif
+    sha256: ef67c41b4f7d58f236bb8baae1335d3a315435639397dfafca0407b3920cbf3c
+    mime: image/tiff
+    bytes: 26529852
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ef/67/ef67c41b4f7d58f236bb8baae1335d3a315435639397dfafca0407b3920cbf3c/preview-400.d088a7d34a6a.jpg
+        sha256: d088a7d34a6a39ae59835372ed41c6f2f0bbf7da45dec5f20c42fa56c97124be
+        mime: image/jpeg
+        bytes: 43406
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

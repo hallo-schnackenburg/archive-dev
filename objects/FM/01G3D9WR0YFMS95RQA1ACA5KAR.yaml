@@ -1,0 +1,83 @@
+id: 01G3D9WR0YFMS95RQA1ACA5KAR
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Bürgerverein 1914
+date: 1914/1922
+origin:
+  name: Schulvorstand Zadrau
+  type: business
+  location: Gülden
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Rüterberg
+    type: place
+parents:
+  - 01FRX0E5WBRJXBRWAVHTPJCDE5
+files:
+  - role: page
+    num: 1
+    original_name: protocol_ca5kar_001.tif
+    path: files/09/85/0985f8f7e21d8212d2a053c2c8c076abcb05eef45dbf5da1734328fb35560dff/original.tif
+    sha256: 0985f8f7e21d8212d2a053c2c8c076abcb05eef45dbf5da1734328fb35560dff
+    mime: image/tiff
+    bytes: 20523111
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/85/0985f8f7e21d8212d2a053c2c8c076abcb05eef45dbf5da1734328fb35560dff/preview-400.c290a720cff9.jpg
+        sha256: c290a720cff99a89a62da9f2c41412c61e4308e935df2055f5e36638678c5823
+        mime: image/jpeg
+        bytes: 43399
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_ca5kar_002.tif
+    path: files/fa/86/fa86196261be8a3cdb3c41f970c50032b17cdebe6ec9729ae5f93efe72328fa0/original.tif
+    sha256: fa86196261be8a3cdb3c41f970c50032b17cdebe6ec9729ae5f93efe72328fa0
+    mime: image/tiff
+    bytes: 22678030
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fa/86/fa86196261be8a3cdb3c41f970c50032b17cdebe6ec9729ae5f93efe72328fa0/preview-400.5060e6d14fe3.jpg
+        sha256: 5060e6d14fe3a3209c28dd1a1a662255891bcf13f5738b11add6162bd9851b49
+        mime: image/jpeg
+        bytes: 83038
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_ca5kar_003.tif
+    path: files/cd/a6/cda62aa3869dcddb30f2a05c016c3dee18909d774f7002ca5d0a523f00ae9003/original.tif
+    sha256: cda62aa3869dcddb30f2a05c016c3dee18909d774f7002ca5d0a523f00ae9003
+    mime: image/tiff
+    bytes: 13417781
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/a6/cda62aa3869dcddb30f2a05c016c3dee18909d774f7002ca5d0a523f00ae9003/preview-400.4d9a9b8a6a8c.jpg
+        sha256: 4d9a9b8a6a8c68747b81a3320ba13e45e168cc834898b3d4efb7b61ca53c5777
+        mime: image/jpeg
+        bytes: 80601
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

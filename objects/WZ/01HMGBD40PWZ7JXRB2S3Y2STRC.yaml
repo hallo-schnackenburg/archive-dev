@@ -1,0 +1,39 @@
+id: 01HMGBD40PWZ7JXRB2S3Y2STRC
+type: image
+subtype: print
+title: Ansichtskarte Gartenstraße
+description: Postkarte, gelaufen 1921.
+date: "1803"
+location: Holtorf, Gasthof „Zur Elbe“
+geocode:
+  lat: 52.9344
+  lon: 11.5249
+  precision: exact
+  source: osm
+origin:
+  name: Erika Jürgens
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Arendsee
+    type: place
+files:
+  - role: main
+    original_name: scan_235.tif
+    path: files/5f/40/5f4003b79268d6f213b122338c600a0c3b5c1507ba64bef7de07974b8b8b6d52/original.tif
+    sha256: 5f4003b79268d6f213b122338c600a0c3b5c1507ba64bef7de07974b8b8b6d52
+    mime: image/tiff
+    bytes: 27536618
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5f/40/5f4003b79268d6f213b122338c600a0c3b5c1507ba64bef7de07974b8b8b6d52/preview-400.a36337686acd.jpg
+        sha256: a36337686acd318299f0174d8b34267da3c6312e4a0bcbbdedbcd0a18d667251
+        mime: image/jpeg
+        bytes: 21379
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,49 @@
+id: 01F964VTZG61Q44WZ2PTQXGDFT
+type: image
+subtype: print
+title: "Kupferstich: Dömitz von der Elbseite, Havelberg"
+description: Postkarte, gelaufen 1919.
+date: 1802-09
+location: Kapern, Gärtnerei
+geocode:
+  lat: 53.0195
+  lon: 11.5712
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Kuhlmann
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 10/001
+subjects:
+  - name: Otto Brandt
+    type: person
+  - name: Fritz Lemke
+    type: person
+  - name: Maifeier 1802
+    type: event
+files:
+  - role: main
+    original_name: scan_286.tif
+    path: files/81/70/8170e405dd2c4422261198d13808a1f67a9d2ba69e28f4f473443089b8289b4f/original.tif
+    sha256: 8170e405dd2c4422261198d13808a1f67a9d2ba69e28f4f473443089b8289b4f
+    mime: image/tiff
+    bytes: 1441545
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/81/70/8170e405dd2c4422261198d13808a1f67a9d2ba69e28f4f473443089b8289b4f/preview-400.5178f99f06bc.jpg
+        sha256: 5178f99f06bccf79bc6373552220ac559ac571ac66d37a920f880738e2919daf
+        mime: image/jpeg
+        bytes: 23267
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

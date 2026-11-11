@@ -1,0 +1,37 @@
+id: 01GBS2827HZPXYVHC1M7W0N4S2
+type: image
+subtype: plan
+title: Bauplan Backhaus 1859
+description: Maßstab 1:500.
+date: "1859"
+origin:
+  name: Otto Oelker
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 12/052
+  note: Regal 4, Kiste 2
+files:
+  - role: main
+    original_name: scan_412.tif
+    path: files/2e/d6/2ed614981ca10c46a557dc43aa636253c5691f8f5d5851f3da0890b4313c4918/original.tif
+    sha256: 2ed614981ca10c46a557dc43aa636253c5691f8f5d5851f3da0890b4313c4918
+    mime: image/tiff
+    bytes: 6397731
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/2e/d6/2ed614981ca10c46a557dc43aa636253c5691f8f5d5851f3da0890b4313c4918/preview-400.d019cbd93293.jpg
+        sha256: d019cbd9329384b193a74c13d1199c4ee2d40bcd062396f97045cbac68b278d9
+        mime: image/jpeg
+        bytes: 86081
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

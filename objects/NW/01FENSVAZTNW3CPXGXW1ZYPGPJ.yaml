@@ -1,0 +1,41 @@
+id: 01FENSVAZTNW3CPXGXW1ZYPGPJ
+type: image
+subtype: photo
+title: Osterfeuer 2000
+description: Farbfoto, leicht verblasst.
+date: 2000/2006
+location: Pretzier, Apotheke
+geocode:
+  lat: 53.0772
+  lon: 11.6675
+  precision: street
+  source: osm
+origin:
+  name: Erika Schulz
+  type: person
+  location: Wustrow
+subjects:
+  - name: Ilse Brandt
+    type: person
+parents:
+  - 01JSEZ1KR3W9V6KCYZ4QHW4E4A
+files:
+  - role: main
+    original_name: DSC2931.jpg
+    path: files/7a/60/7a6031ed7d1e13fd3fd05980a568af67e7a9ddf4562a5fe162c63c8a7cb4ba72/original.jpg
+    sha256: 7a6031ed7d1e13fd3fd05980a568af67e7a9ddf4562a5fe162c63c8a7cb4ba72
+    mime: image/jpeg
+    bytes: 12806328
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7a/60/7a6031ed7d1e13fd3fd05980a568af67e7a9ddf4562a5fe162c63c8a7cb4ba72/preview-400.2996223fc590.jpg
+        sha256: 2996223fc5909ac6e91671e12fa06e0e2f95f461c9a0e264c7873f94abef7705
+        mime: image/jpeg
+        bytes: 86110
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

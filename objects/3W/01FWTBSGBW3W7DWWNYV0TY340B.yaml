@@ -1,0 +1,40 @@
+id: 01FWTBSGBW3W7DWWNYV0TY340B
+type: image
+subtype: print
+title: Ansichtskarte Hinter den Höfen, Zadrau (16)
+description: Postkarte, gelaufen 1911.
+date: 1824-08
+location: Wittenberge, Marktstraße
+origin:
+  name: Horst Heuer
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 20/075
+  note: Kellerarchiv
+parents:
+  - 01KHXJPG3828D54ZR9ZE2Z5K94
+files:
+  - role: main
+    original_name: scan_565.tif
+    path: files/ad/f3/adf3e8abbe18423eb8a487b8dd13368a80ef371e8d0d0b054860a0c6f23dcf3d/original.tif
+    sha256: adf3e8abbe18423eb8a487b8dd13368a80ef371e8d0d0b054860a0c6f23dcf3d
+    mime: image/tiff
+    bytes: 10614195
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ad/f3/adf3e8abbe18423eb8a487b8dd13368a80ef371e8d0d0b054860a0c6f23dcf3d/preview-400.72503369896a.jpg
+        sha256: 72503369896ac5284444cf690458b9b56201d319d02a385f53ba38c90f01a3f4
+        mime: image/jpeg
+        bytes: 30599
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

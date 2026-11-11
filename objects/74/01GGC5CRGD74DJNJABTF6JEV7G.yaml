@@ -1,0 +1,40 @@
+id: 01GGC5CRGD74DJNJABTF6JEV7G
+type: image
+subtype: print
+title: "Holzschnitt: Kirmes, Havelberg"
+description: Kupferstich, koloriert.
+date: 1907-11-26
+location: Schnackenburg, Fährstraße
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Dachboden, Truhe
+subjects:
+  - name: Viehmarkt 1907
+    type: event
+  - name: Holtorf
+    type: place
+  - name: Gülden
+    type: place
+files:
+  - role: main
+    original_name: scan_812.tif
+    path: files/a2/13/a21380ee96beb79df9fb1e581f941fbe4de53dfee00b7cd6fb77828dd3dd3309/original.tif
+    sha256: a21380ee96beb79df9fb1e581f941fbe4de53dfee00b7cd6fb77828dd3dd3309
+    mime: image/tiff
+    bytes: 311163
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a2/13/a21380ee96beb79df9fb1e581f941fbe4de53dfee00b7cd6fb77828dd3dd3309/preview-400.b872735d22ae.jpg
+        sha256: b872735d22aeb9c814bb143c490ec1b26dc4589227a072aa962bd34c632943ee
+        mime: image/jpeg
+        bytes: 23539
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

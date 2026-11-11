@@ -1,0 +1,30 @@
+id: 01K7534ZCZ94V8ZSYRD77ZT35B
+type: image
+subtype: photo
+title: Käthe Krüger, Porträt
+description: Aufnahme von Käthe Krüger.
+date: 1941?
+origin:
+  name: Karl Voss
+  type: person
+  location: Pretzier
+files:
+  - role: main
+    original_name: scan_663.tif
+    path: files/e8/b2/e8b204678f193c7792c5d3ad4936a4ddb817607824634aab0c437094cde0e62b/original.tif
+    sha256: e8b204678f193c7792c5d3ad4936a4ddb817607824634aab0c437094cde0e62b
+    mime: image/tiff
+    bytes: 2751516
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e8/b2/e8b204678f193c7792c5d3ad4936a4ddb817607824634aab0c437094cde0e62b/preview-400.aee65ab7c1c2.jpg
+        sha256: aee65ab7c1c2e83afbc4f8b6eefdec6b0f870205c9bc9c06939522430eb77fd3
+        mime: image/jpeg
+        bytes: 67520
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

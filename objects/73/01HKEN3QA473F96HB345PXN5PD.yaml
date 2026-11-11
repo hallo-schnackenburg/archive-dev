@@ -1,0 +1,38 @@
+id: 01HKEN3QA473F96HB345PXN5PD
+type: image
+subtype: plan
+title: Bauplan Wassermühle 1907
+description: Maßstab 1:2500.
+date: 190X
+location: Nienwalde, Burgstraße
+origin:
+  name: Brigitte Dreyer
+  type: person
+  location: Havelberg
+subjects:
+  - name: Grenzturm
+    type: building
+  - name: Straßenfest 1907
+    type: event
+  - name: Jürgen Lüders
+    type: person
+files:
+  - role: main
+    original_name: scan_256.tif
+    path: files/ae/f7/aef764fe567eb8aa66f7fbb926fee629089bdb8a47137b4eb10acf5984525e2f/original.tif
+    sha256: aef764fe567eb8aa66f7fbb926fee629089bdb8a47137b4eb10acf5984525e2f
+    mime: image/tiff
+    bytes: 17648747
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ae/f7/aef764fe567eb8aa66f7fbb926fee629089bdb8a47137b4eb10acf5984525e2f/preview-400.74d651091516.jpg
+        sha256: 74d65109151628337c0446d3796409b912cf31c408d9b1bd38d22f6357258ca0
+        mime: image/jpeg
+        bytes: 51411
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

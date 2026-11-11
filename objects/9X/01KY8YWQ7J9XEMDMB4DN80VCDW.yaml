@@ -1,0 +1,45 @@
+id: 01KY8YWQ7J9XEMDMB4DN80VCDW
+type: image
+subtype: photo
+title: Maifeier 1964
+description: Abzug im Format 9 x 13 cm.
+date: 1964-01
+location: Wustrow, Am Elbdeich
+origin:
+  name: Hans Wegner
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 19/139
+  note: Kellerarchiv
+subjects:
+  - name: Wootz
+    type: place
+  - name: Försterei
+    type: building
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_188.tif
+    path: files/82/d0/82d01a6d9769c1fc782ac706100304ffd9084bd488d6a91e334a61c1fc7644c9/original.tif
+    sha256: 82d01a6d9769c1fc782ac706100304ffd9084bd488d6a91e334a61c1fc7644c9
+    mime: image/tiff
+    bytes: 16364500
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/82/d0/82d01a6d9769c1fc782ac706100304ffd9084bd488d6a91e334a61c1fc7644c9/preview-400.d84b176cf291.jpg
+        sha256: d84b176cf29174fce3025a3bae0a3e8f77cfa623c2f546a78c9384cc3d1e089a
+        mime: image/jpeg
+        bytes: 61134
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

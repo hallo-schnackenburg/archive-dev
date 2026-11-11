@@ -1,0 +1,40 @@
+id: 01KZW98DESJKEC2VY3TEZW6A43
+type: image
+subtype: drawing
+title: Wappenentwurf Lanz, Lüchow
+description: Bleistift auf Papier.
+date: "1969"
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Album 6/078
+subjects:
+  - name: Windmühle
+    type: building
+  - name: Hochwasser 1969
+    type: event
+parents:
+  - 01HXDE71QATS2M3MPMXYF5BQTB
+  - 01FAPPTV88463SW7X0F9PVBNY3
+files:
+  - role: main
+    original_name: scan_336.tif
+    path: files/54/98/549847581ba4738eae5b2ad4a4389c8d6653b4f643d4d038dd1d1f170f95c56c/original.tif
+    sha256: 549847581ba4738eae5b2ad4a4389c8d6653b4f643d4d038dd1d1f170f95c56c
+    mime: image/tiff
+    bytes: 2410319
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/54/98/549847581ba4738eae5b2ad4a4389c8d6653b4f643d4d038dd1d1f170f95c56c/preview-400.da0073f1e850.jpg
+        sha256: da0073f1e850a45ce9ff855505d0aad27c723b14ce00fab12ba62831954033ff
+        mime: image/jpeg
+        bytes: 72812
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

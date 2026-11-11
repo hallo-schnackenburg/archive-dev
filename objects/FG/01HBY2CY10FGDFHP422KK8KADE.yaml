@@ -1,0 +1,65 @@
+id: 01HBY2CY10FGDFHP422KK8KADE
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Nienwalde 1967
+description: Handschriftlich in Sütterlin.
+date: 1967-07
+location: Salzwedel, Elbstraße
+geocode:
+  lat: 53.0731
+  lon: 11.6827
+  precision: street
+  source: osm
+origin:
+  name: Schulvorstand Wustrow
+  type: business
+  location: Gartow
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01JVVDQHBMNHTD5MF8KHV0G3FW
+files:
+  - role: page
+    num: 1
+    original_name: protocol_k8kade_001.tif
+    path: files/e0/aa/e0aad6619864c35932694664d0fbe6a1fd4119ad131917cbb8d8f330e932aa27/original.tif
+    sha256: e0aad6619864c35932694664d0fbe6a1fd4119ad131917cbb8d8f330e932aa27
+    mime: image/tiff
+    bytes: 12154686
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e0/aa/e0aad6619864c35932694664d0fbe6a1fd4119ad131917cbb8d8f330e932aa27/preview-400.67ecdcca3fbd.jpg
+        sha256: 67ecdcca3fbd6847fdc7fb38f0115611831200dee567d95f8da2fafeb3d891af
+        mime: image/jpeg
+        bytes: 20668
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_k8kade_002.tif
+    path: files/13/26/13260363882d69b9bdd0785d5cab9a4d8cd41e2d6eb9d1e135de2ee86d09b218/original.tif
+    sha256: 13260363882d69b9bdd0785d5cab9a4d8cd41e2d6eb9d1e135de2ee86d09b218
+    mime: image/tiff
+    bytes: 24519252
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/13/26/13260363882d69b9bdd0785d5cab9a4d8cd41e2d6eb9d1e135de2ee86d09b218/preview-400.f96887ae397e.jpg
+        sha256: f96887ae397eec8bd900deb3a01043fd8ae919e66aaf1fd87fd8296ae4058cdb
+        mime: image/jpeg
+        bytes: 21389
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

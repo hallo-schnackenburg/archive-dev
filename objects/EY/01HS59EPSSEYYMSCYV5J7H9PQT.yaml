@@ -1,0 +1,72 @@
+id: 01HS59EPSSEYYMSCYV5J7H9PQT
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Handwerkerinnung 1842
+date: 1842-06-17
+location: Gollensdorf, Hafenstraße
+geocode:
+  lat: 52.9587
+  lon: 11.5232
+  precision: town
+  source: osm
+origin:
+  name: Samtgemeinderat Schnackenburg
+  type: business
+  location: Gartow
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 26/011
+subjects:
+  - name: Fastnacht 1842
+    type: event
+  - name: Laase
+    type: place
+  - name: Glockenweihe 1842
+    type: event
+parents:
+  - 01KW7A26BTPJQVF2JX2JPDHVMK
+files:
+  - role: page
+    num: 1
+    original_name: protocol_7h9pqt_001.tif
+    path: files/76/0f/760f5ec1e9e51fdedf19b2a2d398ff1dec940735e39b34e59beb31171a6e8641/original.tif
+    sha256: 760f5ec1e9e51fdedf19b2a2d398ff1dec940735e39b34e59beb31171a6e8641
+    mime: image/tiff
+    bytes: 16828136
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/76/0f/760f5ec1e9e51fdedf19b2a2d398ff1dec940735e39b34e59beb31171a6e8641/preview-400.f686f0d3d3c1.jpg
+        sha256: f686f0d3d3c14a2f6058139477019e06fc2f6bff6c9e2df81d3103b827a4d189
+        mime: image/jpeg
+        bytes: 89913
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_7h9pqt_002.tif
+    path: files/a4/ed/a4ed88b5373f906a9fb90277a38f95009cc60258266e1a43dffb96560a0db8dd/original.tif
+    sha256: a4ed88b5373f906a9fb90277a38f95009cc60258266e1a43dffb96560a0db8dd
+    mime: image/tiff
+    bytes: 21394655
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a4/ed/a4ed88b5373f906a9fb90277a38f95009cc60258266e1a43dffb96560a0db8dd/preview-400.1fb2947fda6c.jpg
+        sha256: 1fb2947fda6c104621082a2662f2b581607775ab016723207f33e397dae49a01
+        mime: image/jpeg
+        bytes: 49580
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

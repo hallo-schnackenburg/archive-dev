@@ -4,10 +4,11 @@ subtype: protocol
 title: Visitationsprotokoll der Kirchengemeinde
 date: "1704"
 language: de
-holder:
-  name: Landeskirchliches Archiv Hannover
-  type: business
-  location: Hannover
+original:
+  holder:
+    name: Landeskirchliches Archiv Hannover
+    type: business
+    location: Hannover
 storage: external
 external:
   - type: archive

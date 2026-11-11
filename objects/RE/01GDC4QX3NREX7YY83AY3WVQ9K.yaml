@@ -1,0 +1,41 @@
+id: 01GDC4QX3NREX7YY83AY3WVQ9K
+type: document
+subtype: letter
+title: Zeugnis für Fritz Rieke
+description: Maschinenschriftlich, unterschrieben.
+date: 1865-05-06
+location: Wustrow, Fährstraße
+geocode:
+  lat: 53.0659
+  lon: 11.5099
+  precision: street
+  source: osm
+origin:
+  name: Erika Schulz
+  type: person
+  location: Lanz
+recipient: Erika Albers
+subjects:
+  - name: Hochwasser 1865
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_3wvq9k_001.tif
+    path: files/e8/f9/e8f91c34dd055247eed0085990254203c7a6df02b08fda7dd264951af49b7e8a/original.tif
+    sha256: e8f91c34dd055247eed0085990254203c7a6df02b08fda7dd264951af49b7e8a
+    mime: image/tiff
+    bytes: 24525768
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/f9/e8f91c34dd055247eed0085990254203c7a6df02b08fda7dd264951af49b7e8a/preview-400.82636dcd6adb.jpg
+        sha256: 82636dcd6adbf70ee6fa17d1774801a14b3711ead057ac3a796ac91be75f2814
+        mime: image/jpeg
+        bytes: 61492
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

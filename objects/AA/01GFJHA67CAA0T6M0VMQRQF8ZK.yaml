@@ -1,0 +1,42 @@
+id: 01GFJHA67CAA0T6M0VMQRQF8ZK
+type: image
+subtype: photo
+title: Kegelbahn in Seedorf
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1937-02-27
+location: Wootz, Tischlerei Bruns
+geocode:
+  lat: 52.9891
+  lon: 11.6314
+  precision: town
+  source: osm
+subjects:
+  - name: Dieter Meyer
+    type: person
+  - name: Tanzsaal
+    type: building
+  - name: Schlachtfest 1937
+    type: event
+parents:
+  - 01KQVCCGD4CP4QYK6YQJ3YAGSW
+  - 01M3QTWQ9H2E1GP4N4HWKMEY2Z
+files:
+  - role: main
+    original_name: P7041.jpg
+    path: files/d9/27/d927efae345e522d97e23d90340728d12e754bb71d7e1855e83a7adc83004eb1/original.jpg
+    sha256: d927efae345e522d97e23d90340728d12e754bb71d7e1855e83a7adc83004eb1
+    mime: image/jpeg
+    bytes: 18188553
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d9/27/d927efae345e522d97e23d90340728d12e754bb71d7e1855e83a7adc83004eb1/preview-400.4718600d516e.jpg
+        sha256: 4718600d516e48b1279f56d36ce72a3200b8a90f5a46ec3387343865806cf0a9
+        mime: image/jpeg
+        bytes: 24918
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

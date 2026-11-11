@@ -1,0 +1,58 @@
+id: 01KX7FRRW748WJ9XVKXNTK7BNF
+type: document
+subtype: protocol
+title: Protokoll des Stadtrat vom 1976
+date: "1976"
+origin:
+  name: Bauausschuss Gartow
+  type: business
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 7/077
+parents:
+  - 01KT1B4YZD11RXC8P8PMNGFW3D
+files:
+  - role: page
+    num: 1
+    original_name: protocol_tk7bnf_001.tif
+    path: files/d2/c5/d2c5a8dbcc8e461f8e37a15fe34b31cd473e14c6c44385879addd5cea1b41c9c/original.tif
+    sha256: d2c5a8dbcc8e461f8e37a15fe34b31cd473e14c6c44385879addd5cea1b41c9c
+    mime: image/tiff
+    bytes: 17251126
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d2/c5/d2c5a8dbcc8e461f8e37a15fe34b31cd473e14c6c44385879addd5cea1b41c9c/preview-400.11c683fb48eb.jpg
+        sha256: 11c683fb48ebaaf1ee273eebc54ce247ac325a2ef68bb82eb16dfcf5c0ebe4bf
+        mime: image/jpeg
+        bytes: 86380
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_tk7bnf_002.tif
+    path: files/61/30/613084163c7c721e3583a4672f2b3c627c4788c1ae08d77ed4b8e0c6d735482b/original.tif
+    sha256: 613084163c7c721e3583a4672f2b3c627c4788c1ae08d77ed4b8e0c6d735482b
+    mime: image/tiff
+    bytes: 26266317
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/61/30/613084163c7c721e3583a4672f2b3c627c4788c1ae08d77ed4b8e0c6d735482b/preview-400.321d8496012b.jpg
+        sha256: 321d8496012b44d5949c23b426ecd3be2e0134f9310bdffc61886a360e6c57c1
+        mime: image/jpeg
+        bytes: 33677
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

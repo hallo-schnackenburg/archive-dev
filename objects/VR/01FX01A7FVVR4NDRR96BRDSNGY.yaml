@@ -1,0 +1,50 @@
+id: 01FX01A7FVVR4NDRR96BRDSNGY
+type: image
+subtype: print
+title: Postkarte Gorleben, Kegelbahn
+date: 1753?
+location: Dömitz, Marktstraße
+geocode:
+  lat: 52.9311
+  lon: 11.6503
+  precision: street
+  source: osm
+origin:
+  name: Brigitte Ahrens
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Familie Bruns
+    type: person
+    location: Lanz
+  reference: Fotos 32/110
+subjects:
+  - name: Erntedankfest 1753
+    type: event
+  - name: Fritz Bohlmann
+    type: person
+  - name: Schlachtfest 1753
+    type: event
+parents:
+  - 01KWT1T4KB5Q91S1TWXMCRMNCD
+files:
+  - role: main
+    original_name: scan_128.tif
+    path: files/b1/79/b17960846a0065d68d0c904f934568eeda09d80865bc7babbd379a262f8a83da/original.tif
+    sha256: b17960846a0065d68d0c904f934568eeda09d80865bc7babbd379a262f8a83da
+    mime: image/tiff
+    bytes: 16798509
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b1/79/b17960846a0065d68d0c904f934568eeda09d80865bc7babbd379a262f8a83da/preview-400.a133ae000595.jpg
+        sha256: a133ae0005959d6443b162b467cc11e7072be6e8c7b27e4d1d5f64a8f3ce48ad
+        mime: image/jpeg
+        bytes: 67314
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01GV5DESHP5E11K9SQ2VX6W30M
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Gorleben
+description: Tusche auf Transparentpapier.
+date: 1982~
+location: Pretzier, Dorfstraße
+geocode:
+  lat: 52.9513
+  lon: 11.4983
+  precision: exact
+  source: osm
+subjects:
+  - name: Gasthof Meyer
+    type: building
+  - name: Hochzeit 1982
+    type: event
+  - name: Osterfeuer 1982
+    type: event
+files:
+  - role: main
+    original_name: scan_345.tif
+    path: files/cd/23/cd2354201859961ce611a60a82f66a2d70ed8be40cf3eed15d4990fc4de2956b/original.tif
+    sha256: cd2354201859961ce611a60a82f66a2d70ed8be40cf3eed15d4990fc4de2956b
+    mime: image/tiff
+    bytes: 17138291
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cd/23/cd2354201859961ce611a60a82f66a2d70ed8be40cf3eed15d4990fc4de2956b/preview-400.080748973055.jpg
+        sha256: 080748973055114693df7f44828884aa4d7d84ffac345e61cd29806847440217
+        mime: image/jpeg
+        bytes: 60670
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

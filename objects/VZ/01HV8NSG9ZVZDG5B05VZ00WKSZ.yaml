@@ -1,0 +1,92 @@
+id: 01HV8NSG9ZVZDG5B05VZ00WKSZ
+type: document
+subtype: letter
+title: Feldpostbrief von Karl Ahrens
+description: Handschriftlich, 4 Seiten.
+date: "1822"
+location: Nienwalde, Mühlenweg
+geocode:
+  lat: 53.0399
+  lon: 11.6065
+  precision: exact
+  source: osm
+origin:
+  name: Paul Jeß
+  type: person
+  location: Laase
+recipient: Otto Brandt
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 10/068
+subjects:
+  - name: Fährjubiläum 1822
+    type: event
+  - name: Glockenweihe 1822
+    type: event
+parents:
+  - 01GWFE0FE3S612EGDSN47NZK4B
+files:
+  - role: page
+    num: 1
+    original_name: letter_00wksz_001.tif
+    path: files/52/40/5240c3955de7f61785e688ec2fec5d372c129633a69c714927016fbd13fef414/original.tif
+    sha256: 5240c3955de7f61785e688ec2fec5d372c129633a69c714927016fbd13fef414
+    mime: image/tiff
+    bytes: 5854790
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/40/5240c3955de7f61785e688ec2fec5d372c129633a69c714927016fbd13fef414/preview-400.2c4d1e1ccf21.jpg
+        sha256: 2c4d1e1ccf21c599298faf3956e0c1c51c738823baf4718b7c3f8aa3990e7baf
+        mime: image/jpeg
+        bytes: 20616
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_00wksz_002.tif
+    path: files/a5/39/a5390d797f2f2e5384a1e0500b668aee99aeceea183537e0c4c0f53aea3e1c39/original.tif
+    sha256: a5390d797f2f2e5384a1e0500b668aee99aeceea183537e0c4c0f53aea3e1c39
+    mime: image/tiff
+    bytes: 26143093
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a5/39/a5390d797f2f2e5384a1e0500b668aee99aeceea183537e0c4c0f53aea3e1c39/preview-400.5be988644e96.jpg
+        sha256: 5be988644e96ea645bf75bf961085fb4904ae856d847922ac3c91e663a2f75fe
+        mime: image/jpeg
+        bytes: 55660
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_00wksz_003.tif
+    path: files/ba/ab/baab0661667918c336e0c373d1ef43b5367c50016cb17597e668c44ad2617c06/original.tif
+    sha256: baab0661667918c336e0c373d1ef43b5367c50016cb17597e668c44ad2617c06
+    mime: image/tiff
+    bytes: 10863556
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ba/ab/baab0661667918c336e0c373d1ef43b5367c50016cb17597e668c44ad2617c06/preview-400.459116a65f09.jpg
+        sha256: 459116a65f09dfe73d948bb8e06069d88c627c43455a39a1b1da6b94260a4a72
+        mime: image/jpeg
+        bytes: 56423
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

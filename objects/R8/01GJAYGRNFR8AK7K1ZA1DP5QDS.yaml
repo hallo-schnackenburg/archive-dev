@@ -1,0 +1,43 @@
+id: 01GJAYGRNFR8AK7K1ZA1DP5QDS
+type: image
+subtype: photo
+title: Pumpenhaus in Arendsee
+description: Farbfoto, leicht verblasst.
+date: 1961-12-02
+location: Wootz, Fährstraße
+geocode:
+  lat: 52.9399
+  lon: 11.6962
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Garms
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Kirmes 1961
+    type: event
+  - name: Nienwalde
+    type: place
+  - name: Seedorf
+    type: place
+files:
+  - role: main
+    original_name: DSC6232.jpg
+    path: files/f0/1a/f01a8a64555e391bd9086cbd1c8491d5b2c7cedccd36458921b35b05dbf9160a/original.jpg
+    sha256: f01a8a64555e391bd9086cbd1c8491d5b2c7cedccd36458921b35b05dbf9160a
+    mime: image/jpeg
+    bytes: 13923124
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/f0/1a/f01a8a64555e391bd9086cbd1c8491d5b2c7cedccd36458921b35b05dbf9160a/preview-400.84ebdad0f378.jpg
+        sha256: 84ebdad0f3783bf1c31df0c7c9e8431d7c37b8901401a80c664a36ec06834d95
+        mime: image/jpeg
+        bytes: 53597
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

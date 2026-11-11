@@ -1,0 +1,38 @@
+id: 01HNX35FPZYXH4K51SKDNQVAAD
+type: image
+subtype: print
+title: Postkarte Salzwedel, Dorfschule
+description: Lithographie, Rand beschnitten.
+date: 1772-10-01
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Salzwedel
+    type: place
+  - name: Emma Ahrens
+    type: person
+files:
+  - role: main
+    original_name: scan_248.tif
+    path: files/6a/08/6a08daf32fa8c48801928487edc83b228fb50df1462f9c857497cda38cdff680/original.tif
+    sha256: 6a08daf32fa8c48801928487edc83b228fb50df1462f9c857497cda38cdff680
+    mime: image/tiff
+    bytes: 13168037
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6a/08/6a08daf32fa8c48801928487edc83b228fb50df1462f9c857497cda38cdff680/preview-400.fec7eca1f549.jpg
+        sha256: fec7eca1f549ecef06348c49d89cd1255b3dd84fb0facf5469bba2d1966a02f5
+        mime: image/jpeg
+        bytes: 49808
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

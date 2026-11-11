@@ -1,0 +1,44 @@
+id: 01J7KAM7C06G4N8Q5JRXJH119K
+type: image
+subtype: drawing
+title: Wappenentwurf Laase, Hitzacker
+description: Federzeichnung, laviert.
+date: 1990-04-28
+location: Brünkendorf, Bahnhofstraße
+geocode:
+  lat: 52.9326
+  lon: 11.6295
+  precision: street
+  source: osm
+origin:
+  name: Erika Heuer
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 19/199
+parents:
+  - 01HE14GR0R8R7PECGB2EPQE94M
+files:
+  - role: main
+    original_name: scan_541.tif
+    path: files/e7/4a/e74a66ba7f83f04b6079309f21c7b8765ff335144d4aa4328a76292c3328386f/original.tif
+    sha256: e74a66ba7f83f04b6079309f21c7b8765ff335144d4aa4328a76292c3328386f
+    mime: image/tiff
+    bytes: 27864169
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e7/4a/e74a66ba7f83f04b6079309f21c7b8765ff335144d4aa4328a76292c3328386f/preview-400.bc9a4cf10bfa.jpg
+        sha256: bc9a4cf10bfa1802708330a080a65772034ad389e3314f7cbb0de66b1ebbcfe4
+        mime: image/jpeg
+        bytes: 85865
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01HRP87VVAXFRJZQ514N7V9R82
+type: image
+subtype: photo
+title: Wilhelm Ludolf, Porträt
+date: 1891-12-13
+origin:
+  name: Brigitte Jeß
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Album 5/036
+subjects:
+  - name: Gutshaus
+    type: building
+  - name: Havelberg
+    type: place
+files:
+  - role: main
+    original_name: P8641.jpg
+    path: files/3c/5c/3c5ce0914aaf17c283ca227a7252fd0f615321edd6f88510b8607a1976f086d8/original.jpg
+    sha256: 3c5ce0914aaf17c283ca227a7252fd0f615321edd6f88510b8607a1976f086d8
+    mime: image/jpeg
+    bytes: 6526475
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/3c/5c/3c5ce0914aaf17c283ca227a7252fd0f615321edd6f88510b8607a1976f086d8/preview-400.9c7b18c9cb7e.jpg
+        sha256: 9c7b18c9cb7e93df2a8869d5777926e93e0a2537cbc0e78e2a6a426f49dc13f0
+        mime: image/jpeg
+        bytes: 41899
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

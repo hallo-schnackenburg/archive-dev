@@ -1,0 +1,37 @@
+id: 01KDGV1PPC3BQBF0TVRT5FGVPQ
+type: document
+subtype: letter
+title: Brief von Gerda Lemke an Wilhelm Lemke
+date: 193X
+location: Salzwedel, Gartenstraße
+geocode:
+  lat: 52.9895
+  lon: 11.5612
+  precision: exact
+  source: osm
+recipient: Heinrich Lemke
+language: de
+parents:
+  - 01KT1B4YZD11RXC8P8PMNGFW3D
+  - 01JS809ECB0H6P74TPETN12T1S
+files:
+  - role: page
+    num: 1
+    original_name: letter_5fgvpq_001.tif
+    path: files/2f/eb/2febe6516ee2859c87f0542b39bf28fa15494dac6dab7e39a06bdce5a41dc4b6/original.tif
+    sha256: 2febe6516ee2859c87f0542b39bf28fa15494dac6dab7e39a06bdce5a41dc4b6
+    mime: image/tiff
+    bytes: 7895440
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2f/eb/2febe6516ee2859c87f0542b39bf28fa15494dac6dab7e39a06bdce5a41dc4b6/preview-400.c660b535df1e.jpg
+        sha256: c660b535df1e1627defd55a29b04fb9817ea73de068b2426aba7beb88c7e9fef
+        mime: image/jpeg
+        bytes: 22919
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

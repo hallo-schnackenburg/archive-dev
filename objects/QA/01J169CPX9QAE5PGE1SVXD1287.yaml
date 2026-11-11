@@ -1,0 +1,43 @@
+id: 01J169CPX9QAE5PGE1SVXD1287
+type: image
+subtype: photo
+title: Mühle in Gartow
+date: 1934-05-21
+location: Seedorf, Hafenstraße
+origin:
+  name: Dieter Detlefs
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro/Album 2/085
+subjects:
+  - name: Gärtnerei
+    type: building
+  - name: Badestelle
+    type: building
+parents:
+  - 01GGW9C3690VQN7H7FZF3TFT19
+files:
+  - role: main
+    original_name: P5247.jpg
+    path: files/d8/1c/d81c5e34615ee951e91757a9cd42343f39737a0389b7a40af56d59f48f311840/original.jpg
+    sha256: d81c5e34615ee951e91757a9cd42343f39737a0389b7a40af56d59f48f311840
+    mime: image/jpeg
+    bytes: 6084072
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/d8/1c/d81c5e34615ee951e91757a9cd42343f39737a0389b7a40af56d59f48f311840/preview-400.1de90c2c19c0.jpg
+        sha256: 1de90c2c19c04ac9b7cbc10ecd8a2f68791dc6309c89b0fe805663abcb2caab6
+        mime: image/jpeg
+        bytes: 77728
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

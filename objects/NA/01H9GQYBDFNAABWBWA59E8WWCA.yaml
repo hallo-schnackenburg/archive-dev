@@ -1,0 +1,37 @@
+id: 01H9GQYBDFNAABWBWA59E8WWCA
+type: image
+subtype: photo
+title: Familie Brandt beim Glockenweihe
+date: 1951-08-28
+location: Salzwedel, Hafenstraße
+geocode:
+  lat: 53.0213
+  lon: 11.4889
+  precision: exact
+  source: osm
+origin:
+  name: Erika Lüders
+  type: person
+  location: Gartow
+parents:
+  - 01FAPPTV88463SW7X0F9PVBNY3
+files:
+  - role: main
+    original_name: scan_341.tif
+    path: files/b0/dd/b0dd78eeca21f919131fd2f2a9c25c3ed6122e2ab01a8fc55906da85ffa48fb3/original.tif
+    sha256: b0dd78eeca21f919131fd2f2a9c25c3ed6122e2ab01a8fc55906da85ffa48fb3
+    mime: image/tiff
+    bytes: 27025498
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b0/dd/b0dd78eeca21f919131fd2f2a9c25c3ed6122e2ab01a8fc55906da85ffa48fb3/preview-400.a6d1f4bd1c40.jpg
+        sha256: a6d1f4bd1c40661b96233c667f06e9a75b0e04037bba106072d25d62cf429966
+        mime: image/jpeg
+        bytes: 36846
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01FVTBQZEVA8VDH8QGENJQPFFE
+type: image
+subtype: photo
+title: Wassermühle in Rüterberg
+description: Farbfoto, leicht verblasst.
+date: 1942-04-26
+location: Gülden, Dorfteich
+geocode:
+  lat: 52.9286
+  lon: 11.6613
+  precision: region
+  source: osm
+subjects:
+  - name: Weihnachtsmarkt 1942
+    type: event
+  - name: Rüterberg
+    type: place
+files:
+  - role: main
+    original_name: scan_436.tif
+    path: files/c6/4f/c64f4b6f6b3430f68bad29c7cc6a34b54f126f24f0d6f94354a20a2973df1a1a/original.tif
+    sha256: c64f4b6f6b3430f68bad29c7cc6a34b54f126f24f0d6f94354a20a2973df1a1a
+    mime: image/tiff
+    bytes: 21294785
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/4f/c64f4b6f6b3430f68bad29c7cc6a34b54f126f24f0d6f94354a20a2973df1a1a/preview-400.87b84b454aff.jpg
+        sha256: 87b84b454affffdb2b26f3e61a9033f78644cd15f9d8fef830f51d18290ed5c7
+        mime: image/jpeg
+        bytes: 25616
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

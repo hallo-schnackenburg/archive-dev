@@ -1,0 +1,51 @@
+id: 01HYERZG384J5YHY6WFE6TP5EP
+type: image
+subtype: photo
+title: "Fußballverein: Gruppenbild Hochwasser"
+date: 1903/1906
+location: Lenzen, Deichstraße
+geocode:
+  lat: 52.9704
+  lon: 11.4705
+  precision: region
+  source: osm
+origin:
+  name: Erika Behrens
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 10/066
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Erntedankfest 1903
+    type: event
+  - name: Gasthof Meyer
+    type: building
+parents:
+  - 01GNNQS1KVEQJ32KJGCMCP797M
+  - 01HTZ3ZVCQNEKM8ZRY48BPENG4
+files:
+  - role: main
+    original_name: DSC7546.jpg
+    path: files/0e/58/0e581628952b5eb3e9b34d3265b6c7cf4fed7d793b7a8373bb829ead8d607d21/original.jpg
+    sha256: 0e581628952b5eb3e9b34d3265b6c7cf4fed7d793b7a8373bb829ead8d607d21
+    mime: image/jpeg
+    bytes: 5871325
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/0e/58/0e581628952b5eb3e9b34d3265b6c7cf4fed7d793b7a8373bb829ead8d607d21/preview-400.46bb4bdc44c2.jpg
+        sha256: 46bb4bdc44c2cc0067c6aa4cd2bbd98fac81cef3755a3f3e1219eac1b50489fb
+        mime: image/jpeg
+        bytes: 62043
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

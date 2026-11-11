@@ -1,0 +1,42 @@
+id: 01KPSXY52BHMYSWCJZCX7V9T3H
+type: image
+subtype: photo
+title: Ernst Meyer vor dem Gutshaus
+description: Farbfoto, leicht verblasst.
+date: 1942-02-11
+origin:
+  name: Hans Bohlmann
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F/Mappe 4/035
+owner:
+  name: Wilhelm Garms
+  type: person
+  note: Dauerleihgabe
+parents:
+  - 01JAG0VN6X3TDF0BEKQ3Q9ZYWP
+files:
+  - role: main
+    original_name: IMG_3885.jpg
+    path: files/3b/1f/3b1fbe0264d1108461ac323cbcc25a140187c72841c78b437cc3c35ec3cca0bb/original.jpg
+    sha256: 3b1fbe0264d1108461ac323cbcc25a140187c72841c78b437cc3c35ec3cca0bb
+    mime: image/jpeg
+    bytes: 6319694
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/3b/1f/3b1fbe0264d1108461ac323cbcc25a140187c72841c78b437cc3c35ec3cca0bb/preview-400.300a6064d974.jpg
+        sha256: 300a6064d974fe3a95d4146b9ae4105c7be50ac4e971df13c5facbd452d46952
+        mime: image/jpeg
+        bytes: 64303
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

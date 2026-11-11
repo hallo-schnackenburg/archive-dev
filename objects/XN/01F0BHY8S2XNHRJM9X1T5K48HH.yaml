@@ -1,0 +1,37 @@
+id: 01F0BHY8S2XNHRJM9X1T5K48HH
+type: image
+subtype: plan
+title: Grundriss Ziegelei
+description: Maßstab 1:250.
+date: 1944-11-10
+location: Lenzen, Burgstraße
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Schrank B
+owner:
+  name: Fritz Lemke
+  type: person
+  note: Leihgabe
+files:
+  - role: main
+    original_name: scan_191.tif
+    path: files/1c/2f/1c2fb5058250f2746c2af9b97d1d29ee86adce9935c9a40038ff91ee8f5b242d/original.tif
+    sha256: 1c2fb5058250f2746c2af9b97d1d29ee86adce9935c9a40038ff91ee8f5b242d
+    mime: image/tiff
+    bytes: 12031021
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1c/2f/1c2fb5058250f2746c2af9b97d1d29ee86adce9935c9a40038ff91ee8f5b242d/preview-400.d29bcbee1963.jpg
+        sha256: d29bcbee196337764b6213baa8f3d8a00b3840c41de1225cbad4b6f1e25713eb
+        mime: image/jpeg
+        bytes: 77728
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

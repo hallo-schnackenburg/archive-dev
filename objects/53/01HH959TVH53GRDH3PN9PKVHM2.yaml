@@ -1,0 +1,72 @@
+id: 01HH959TVH53GRDH3PN9PKVHM2
+type: document
+subtype: letter
+title: Zeugnis für Hans Heuer
+date: 1941-12
+location: Salzwedel, Hafenstraße
+geocode:
+  lat: 53.0752
+  lon: 11.6543
+  precision: town
+  source: osm
+origin:
+  name: Marta Gerdes
+  type: person
+  location: Havelberg
+recipient: Werner Fricke
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 7/194
+  note: Kellerarchiv
+subjects:
+  - name: Werner Voss
+    type: person
+  - name: Einschulung 1941
+    type: event
+parents:
+  - 01HGWAATSHSQJT69MF82EV6W37
+files:
+  - role: page
+    num: 1
+    original_name: letter_pkvhm2_001.tif
+    path: files/be/69/be69263603e9f7475698050061d80d7ce569ef9bf5c0c17b9736fe60b1eb5936/original.tif
+    sha256: be69263603e9f7475698050061d80d7ce569ef9bf5c0c17b9736fe60b1eb5936
+    mime: image/tiff
+    bytes: 22940102
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/69/be69263603e9f7475698050061d80d7ce569ef9bf5c0c17b9736fe60b1eb5936/preview-400.58af2b718d22.jpg
+        sha256: 58af2b718d22bf0d0c6af18aedb1f01b82241c659ea2351d744e459f0966a1ad
+        mime: image/jpeg
+        bytes: 27082
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_pkvhm2_002.tif
+    path: files/b6/ee/b6ee4ea34fd0934e928b635153a4cac84f4e80db682a36d32000bf0ffd0aa727/original.tif
+    sha256: b6ee4ea34fd0934e928b635153a4cac84f4e80db682a36d32000bf0ffd0aa727
+    mime: image/tiff
+    bytes: 22045829
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b6/ee/b6ee4ea34fd0934e928b635153a4cac84f4e80db682a36d32000bf0ffd0aa727/preview-400.2846e590e325.jpg
+        sha256: 2846e590e3257ec3d44d1bab2c14f6e9aabc3c3c40796cc2026ac6fed8931ea4
+        mime: image/jpeg
+        bytes: 34449
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

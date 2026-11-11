@@ -1,0 +1,34 @@
+id: 01K8KYYYXPY7BKPV0NJ50EQQK4
+type: image
+subtype: print
+title: Gruß aus Gorleben, Holtorf
+description: Postkarte, gelaufen 1948.
+date: "1818"
+location: Brünkendorf, Elbstraße
+subjects:
+  - name: Hochwasser 1818
+    type: event
+  - name: Grenzöffnung 1818
+    type: event
+  - name: Erika Brandt
+    type: person
+files:
+  - role: main
+    original_name: scan_980.tif
+    path: files/4e/c9/4ec92da24b60a915ded8d7aff84194fba76e95ad4cfc0fb8d3f43b39ec129c05/original.tif
+    sha256: 4ec92da24b60a915ded8d7aff84194fba76e95ad4cfc0fb8d3f43b39ec129c05
+    mime: image/tiff
+    bytes: 14529223
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4e/c9/4ec92da24b60a915ded8d7aff84194fba76e95ad4cfc0fb8d3f43b39ec129c05/preview-400.dbcb06d14d45.jpg
+        sha256: dbcb06d14d454bd3226e8e6e139335be6537098221010b62d6b1ab0be8789cc1
+        mime: image/jpeg
+        bytes: 67087
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

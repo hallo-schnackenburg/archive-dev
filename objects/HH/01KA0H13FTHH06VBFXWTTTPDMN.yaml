@@ -1,0 +1,38 @@
+id: 01KA0H13FTHH06VBFXWTTTPDMN
+type: image
+subtype: plan
+title: Katasterblatt Mahnke
+description: Mit handschriftlichen Ergänzungen.
+date: "1904"
+location: Bömenzien, Am Markt
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 36/309
+subjects:
+  - name: Beerdigung 1904
+    type: event
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+files:
+  - role: main
+    original_name: scan_573.tif
+    path: files/0f/17/0f178355ced052f629123c990cedc17c147c7b2efc5d05b321f078a0bb7a08e3/original.tif
+    sha256: 0f178355ced052f629123c990cedc17c147c7b2efc5d05b321f078a0bb7a08e3
+    mime: image/tiff
+    bytes: 16107874
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/0f/17/0f178355ced052f629123c990cedc17c147c7b2efc5d05b321f078a0bb7a08e3/preview-400.f37e227ac408.jpg
+        sha256: f37e227ac408a68bdbf4a61d56880e2ecdf4e34b4708305cb5c64be2d070f97b
+        mime: image/jpeg
+        bytes: 65787
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

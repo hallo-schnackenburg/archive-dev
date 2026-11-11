@@ -1,0 +1,35 @@
+id: 01H6WG9AJKD7P6QBQ659D0W18B
+type: image
+subtype: print
+title: Postkarte Laase, Gasthof Meyer
+description: Lithographie, Rand beschnitten.
+date: 1733-11-06
+location: Lenzen, Pumpenhaus
+geocode:
+  lat: 53.0331
+  lon: 11.569
+  precision: region
+  source: osm
+subjects:
+  - name: Schnackenburg
+    type: place
+files:
+  - role: main
+    original_name: scan_462.tif
+    path: files/77/95/7795082d06dde29913a8e8ce81f8379dd16227877a44b416ac5e6224b44e103f/original.tif
+    sha256: 7795082d06dde29913a8e8ce81f8379dd16227877a44b416ac5e6224b44e103f
+    mime: image/tiff
+    bytes: 23665090
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/77/95/7795082d06dde29913a8e8ce81f8379dd16227877a44b416ac5e6224b44e103f/preview-400.d52255f32eec.jpg
+        sha256: d52255f32eec75e1391261a3596d37b903697c7d928bdcf772a38534dc89bdd1
+        mime: image/jpeg
+        bytes: 51178
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

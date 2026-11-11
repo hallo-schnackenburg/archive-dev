@@ -1,0 +1,31 @@
+id: 01HNF87136TCA5SYMQC8DM0SAW
+type: image
+subtype: plan
+title: Deichplan Gollensdorf bis Wootz
+description: Mit handschriftlichen Ergänzungen.
+date: 1759-05
+location: Wittenberge, Gutshaus
+origin:
+  name: Dieter Wiegmann
+  type: person
+  location: Gorleben
+files:
+  - role: main
+    original_name: scan_392.tif
+    path: files/7e/69/7e69b3ba6719851d19af55dc5a60a069185feb5e6f761f14fea6e838d68f9fa5/original.tif
+    sha256: 7e69b3ba6719851d19af55dc5a60a069185feb5e6f761f14fea6e838d68f9fa5
+    mime: image/tiff
+    bytes: 10247493
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7e/69/7e69b3ba6719851d19af55dc5a60a069185feb5e6f761f14fea6e838d68f9fa5/preview-400.d3bc507b3b38.jpg
+        sha256: d3bc507b3b384022c7d6506f4da0877bf28628f34b1eab445bc89c78b128866e
+        mime: image/jpeg
+        bytes: 59978
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

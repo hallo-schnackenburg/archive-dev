@@ -1,0 +1,43 @@
+id: 01KKGTGH72P1V697X2WHXWY0CG
+type: image
+subtype: photo
+title: Sabine Hennings, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1998-04-21
+origin:
+  name: Karl Harms
+  type: person
+  location: Nienwalde
+owner:
+  name: Karl Wöhlk
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Viehmarkt 1998
+    type: event
+  - name: Restorf
+    type: place
+  - name: Gärtnerei
+    type: building
+parents:
+  - 01H5HMCYV3GS9H3ZBJZMHBTPJV
+files:
+  - role: main
+    original_name: P4993.jpg
+    path: files/6f/f1/6ff193d0b31a2b538cfed19bf1c035c145e30b6891904df1e012835865178621/original.jpg
+    sha256: 6ff193d0b31a2b538cfed19bf1c035c145e30b6891904df1e012835865178621
+    mime: image/jpeg
+    bytes: 9075003
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/6f/f1/6ff193d0b31a2b538cfed19bf1c035c145e30b6891904df1e012835865178621/preview-400.807b341b5f28.jpg
+        sha256: 807b341b5f284f72a3f1ba1d780c1cb8adbb22a3578e109b9efc8924dfcf49ac
+        mime: image/jpeg
+        bytes: 41912
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

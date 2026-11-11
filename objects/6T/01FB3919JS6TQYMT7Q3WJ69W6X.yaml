@@ -1,0 +1,49 @@
+id: 01FB3919JS6TQYMT7Q3WJ69W6X
+type: image
+subtype: print
+title: Ansichtskarte Elbstraße, Cumlosen
+date: 1948~
+location: Nienwalde, Schulstraße
+geocode:
+  lat: 52.9592
+  lon: 11.5603
+  precision: town
+  source: osm
+origin:
+  name: Albert Voss
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Familie Ludolf
+    type: person
+    location: Laase
+  reference: Fotos/Kasten 21/030
+  note: Schrank B
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Otto Lemke
+    type: person
+  - name: Restorf
+    type: place
+files:
+  - role: main
+    original_name: scan_763.tif
+    path: files/ca/25/ca254d3faf5b33fb134881bd6d4e0697af9f0ce9b683c46ea6f6e5b1a38eabdc/original.tif
+    sha256: ca254d3faf5b33fb134881bd6d4e0697af9f0ce9b683c46ea6f6e5b1a38eabdc
+    mime: image/tiff
+    bytes: 12227041
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ca/25/ca254d3faf5b33fb134881bd6d4e0697af9f0ce9b683c46ea6f6e5b1a38eabdc/preview-400.828700568e12.jpg
+        sha256: 828700568e122ce09f84286df588bb54bcb04d9690224733ff77b9c4e462257e
+        mime: image/jpeg
+        bytes: 83310
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

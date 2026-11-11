@@ -1,0 +1,46 @@
+id: 01J0SKYVCGDS5PRVJR7S3MQGTH
+type: image
+subtype: photo
+title: Fastnacht 1965
+date: "1965"
+location: Pretzier, Marktstraße
+geocode:
+  lat: 52.9181
+  lon: 11.6985
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 31/319
+  note: Planschrank, Fach 3
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v62468
+subjects:
+  - name: Heinrich Tiedemann
+    type: person
+  - name: Glockenweihe 1965
+    type: event
+  - name: Karl Jeß
+    type: person
+files:
+  - role: main
+    original_name: scan_886.tif
+    path: files/a8/69/a8691b6575cddd4d6b70aa65b0d78a6bbbb93b9ec87a01ad46fac8afc683ab3b/original.tif
+    sha256: a8691b6575cddd4d6b70aa65b0d78a6bbbb93b9ec87a01ad46fac8afc683ab3b
+    mime: image/tiff
+    bytes: 7135564
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a8/69/a8691b6575cddd4d6b70aa65b0d78a6bbbb93b9ec87a01ad46fac8afc683ab3b/preview-400.dd5097690102.jpg
+        sha256: dd509769010256d2789b26dc2243fccb379dc2102d9399e86c8afe212b313e52
+        mime: image/jpeg
+        bytes: 35225
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

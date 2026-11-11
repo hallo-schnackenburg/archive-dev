@@ -1,0 +1,57 @@
+id: 01FQCMXGVRDKRD3JF5S6MGK3N3
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Straßenbeleuchtung 1963
+date: 1963-12
+origin:
+  name: Samtgemeinderat Laase
+  type: business
+  location: Gorleben
+language: de
+subjects:
+  - name: Bahnhof
+    type: building
+parents:
+  - 01GHB8CACBDV42F0VWCD6Z5CC1
+  - 01KVHW9J5WMTP6BZZ691K647CF
+files:
+  - role: page
+    num: 1
+    original_name: protocol_mgk3n3_001.tif
+    path: files/1d/40/1d40f6f477a58fbe1aed7e3db2b943062cd00800515f51708d5640ee0393d1ba/original.tif
+    sha256: 1d40f6f477a58fbe1aed7e3db2b943062cd00800515f51708d5640ee0393d1ba
+    mime: image/tiff
+    bytes: 22393940
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/40/1d40f6f477a58fbe1aed7e3db2b943062cd00800515f51708d5640ee0393d1ba/preview-400.edb41be6e1b4.jpg
+        sha256: edb41be6e1b46a69575e6c63a2c617662d5c131dd3d58fa147f1133ed8352af4
+        mime: image/jpeg
+        bytes: 62014
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_mgk3n3_002.tif
+    path: files/ac/11/ac11dfb204a4e601cc45f050eb2a8392b1d1af705d8edf6eb303a7f2569b89f1/original.tif
+    sha256: ac11dfb204a4e601cc45f050eb2a8392b1d1af705d8edf6eb303a7f2569b89f1
+    mime: image/tiff
+    bytes: 14303971
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/11/ac11dfb204a4e601cc45f050eb2a8392b1d1af705d8edf6eb303a7f2569b89f1/preview-400.73fe95128491.jpg
+        sha256: 73fe951284918bf91191498de14f6cbf236c3aa7e26623163317d1b61f179e5f
+        mime: image/jpeg
+        bytes: 21053
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

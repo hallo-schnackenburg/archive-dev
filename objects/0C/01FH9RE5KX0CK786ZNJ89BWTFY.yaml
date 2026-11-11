@@ -1,0 +1,33 @@
+id: 01FH9RE5KX0CK786ZNJ89BWTFY
+type: image
+subtype: print
+title: Ansichtskarte Lange Straße, Holtorf (22)
+description: Postkarte, gelaufen 1941.
+date: "1824"
+origin:
+  name: Karl Ahrens
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Schützenhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_520.tif
+    path: files/7b/ee/7bee9da5f657613e6769131e007e552dde413a1ade3cac045f8a6f8f74125274/original.tif
+    sha256: 7bee9da5f657613e6769131e007e552dde413a1ade3cac045f8a6f8f74125274
+    mime: image/tiff
+    bytes: 21232126
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7b/ee/7bee9da5f657613e6769131e007e552dde413a1ade3cac045f8a6f8f74125274/preview-400.dbd656bc9f68.jpg
+        sha256: dbd656bc9f68748bcab109fec77bc6c0e27aaec8f4fe030d7dfb6b12279496b0
+        mime: image/jpeg
+        bytes: 80605
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

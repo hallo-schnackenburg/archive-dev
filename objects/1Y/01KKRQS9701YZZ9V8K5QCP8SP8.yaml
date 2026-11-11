@@ -1,0 +1,44 @@
+id: 01KKRQS9701YZZ9V8K5QCP8SP8
+type: image
+subtype: photo
+title: Wassermühle in Lenzen
+date: 2004-09-05
+location: Gartow, Schmiede
+geocode:
+  lat: 52.9449
+  lon: 11.5309
+  precision: exact
+  source: osm
+origin:
+  name: Hermann Garms
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 13/028
+parents:
+  - 01M3FABESZS5MMBAB10S45G2KH
+  - 01J3V1AMRN38DQVKPXPMF1EE94
+files:
+  - role: main
+    original_name: scan_951.tif
+    path: files/57/d2/57d2d13431a71392c05d3d8c8806005e1c1229527aae9d8049321bc3685f1e2d/original.tif
+    sha256: 57d2d13431a71392c05d3d8c8806005e1c1229527aae9d8049321bc3685f1e2d
+    mime: image/tiff
+    bytes: 27429003
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/57/d2/57d2d13431a71392c05d3d8c8806005e1c1229527aae9d8049321bc3685f1e2d/preview-400.30fc20edaf3e.jpg
+        sha256: 30fc20edaf3e612d2379c1b8d0a44216d8e6a81d8622f334aba4a8ebfba875e9
+        mime: image/jpeg
+        bytes: 43289
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

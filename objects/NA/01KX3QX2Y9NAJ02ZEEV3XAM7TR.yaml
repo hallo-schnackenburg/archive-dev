@@ -1,0 +1,62 @@
+id: 01KX3QX2Y9NAJ02ZEEV3XAM7TR
+type: document
+subtype: note
+title: Rechnung Sievers, Dorfschule
+description: Auf der Rückseite eines Formulars.
+date: 1977-01-22
+location: Gartow, Rathaus
+origin:
+  name: Emma Ahrens
+  type: person
+  location: Havelberg
+language: de
+subjects:
+  - name: Feuerwehrübung 1977
+    type: event
+  - name: Molkerei
+    type: building
+  - name: Sparkasse
+    type: building
+parents:
+  - 01J6CWVRW5ZWM3PCSZT7CG4EQA
+files:
+  - role: page
+    num: 1
+    original_name: note_xam7tr_001.tif
+    path: files/78/40/78403abcb8c7230d8253416b199ddac10ab963b10dd3ada8bf5434189436a974/original.tif
+    sha256: 78403abcb8c7230d8253416b199ddac10ab963b10dd3ada8bf5434189436a974
+    mime: image/tiff
+    bytes: 24203596
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/78/40/78403abcb8c7230d8253416b199ddac10ab963b10dd3ada8bf5434189436a974/preview-400.72325f678a26.jpg
+        sha256: 72325f678a2678f907ed91e7a35fbbf0cf37a896e9c0adb23f4d24dd69b14212
+        mime: image/jpeg
+        bytes: 84977
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_xam7tr_002.tif
+    path: files/43/74/43743e4c4f574ab2f6d1008b0c3956a6312dd05d0722bb1b392f9c4900709765/original.tif
+    sha256: 43743e4c4f574ab2f6d1008b0c3956a6312dd05d0722bb1b392f9c4900709765
+    mime: image/tiff
+    bytes: 7641687
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/43/74/43743e4c4f574ab2f6d1008b0c3956a6312dd05d0722bb1b392f9c4900709765/preview-400.6ad3d9968354.jpg
+        sha256: 6ad3d99683544708390c8c364e31b9de38f757e5653b9afebb1053412992646d
+        mime: image/jpeg
+        bytes: 68213
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

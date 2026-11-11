@@ -1,0 +1,44 @@
+id: 01KYNQC57R3GSA7F5PR011KAW0
+type: image
+subtype: print
+title: Postkarte Hitzacker, Tanzsaal
+date: 1890-03-24
+origin:
+  name: Gustav Tiedemann
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro 27/210
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v49705
+subjects:
+  - name: Schlachterei
+    type: building
+  - name: Wilhelm Kuhlmann
+    type: person
+parents:
+  - 01FJMCPRQ0EG050EZ87JB0MN40
+  - 01FQ7XJFBHG9XHBP2GHBKAZWD0
+files:
+  - role: main
+    original_name: scan_359.tif
+    path: files/1e/03/1e032885b2d1cf29e1dfade772d984e8dc24919743a1cecc8be79575dc55e9e0/original.tif
+    sha256: 1e032885b2d1cf29e1dfade772d984e8dc24919743a1cecc8be79575dc55e9e0
+    mime: image/tiff
+    bytes: 27894815
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1e/03/1e032885b2d1cf29e1dfade772d984e8dc24919743a1cecc8be79575dc55e9e0/preview-400.db6205f2a1bf.jpg
+        sha256: db6205f2a1bf3d301dfaee404abc18035f9ef2c5d10aad41c30ba0a961cbb205
+        mime: image/jpeg
+        bytes: 58292
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

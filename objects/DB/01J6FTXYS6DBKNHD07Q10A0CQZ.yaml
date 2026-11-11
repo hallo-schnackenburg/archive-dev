@@ -1,0 +1,36 @@
+id: 01J6FTXYS6DBKNHD07Q10A0CQZ
+type: image
+subtype: plan
+title: Bauplan Tanzsaal 1828
+date: 1828?
+origin:
+  name: Helga Fricke
+  type: person
+  location: Zadrau
+subjects:
+  - name: Scheune
+    type: building
+  - name: Frieda Stoll
+    type: person
+parents:
+  - 01FA78F7DCMY60051YNWVNSZ2X
+files:
+  - role: main
+    original_name: scan_261.tif
+    path: files/c5/ad/c5ad2b40c4537d04ad408c44ac95075d48bee772138488e56a686626dff14b7b/original.tif
+    sha256: c5ad2b40c4537d04ad408c44ac95075d48bee772138488e56a686626dff14b7b
+    mime: image/tiff
+    bytes: 10628657
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c5/ad/c5ad2b40c4537d04ad408c44ac95075d48bee772138488e56a686626dff14b7b/preview-400.84c3a9f0fd03.jpg
+        sha256: 84c3a9f0fd03eb152203073f7caebf2d11071e1e416bc3ad54c40dba6ac3c6ee
+        mime: image/jpeg
+        bytes: 33142
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

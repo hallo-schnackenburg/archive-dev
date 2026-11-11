@@ -1,0 +1,43 @@
+id: 01FZFQHV4HDSGRY0ZZ2GKBH08P
+type: document
+subtype: note
+title: Aktennotiz Ortsrat, Nienwalde
+location: Gollensdorf, Scheune
+geocode:
+  lat: 53.0376
+  lon: 11.6546
+  precision: exact
+  source: osm
+origin:
+  name: Karl Wiegmann
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 16/221
+parents:
+  - 01GBPB9GYE54BV2D1R1WP3GYSX
+files:
+  - role: page
+    num: 1
+    original_name: note_kbh08p_001.tif
+    path: files/87/f7/87f7157c503c6c051b77576a48b6ba6f4b0054793aa752d336ebc714cfc2c21c/original.tif
+    sha256: 87f7157c503c6c051b77576a48b6ba6f4b0054793aa752d336ebc714cfc2c21c
+    mime: image/tiff
+    bytes: 4103291
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/87/f7/87f7157c503c6c051b77576a48b6ba6f4b0054793aa752d336ebc714cfc2c21c/preview-400.f303676139c8.jpg
+        sha256: f303676139c8e0ac14227317929b51a96380f407a574198c88135c9034b32032
+        mime: image/jpeg
+        bytes: 47667
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

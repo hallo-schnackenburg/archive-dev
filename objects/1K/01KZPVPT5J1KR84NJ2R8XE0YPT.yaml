@@ -1,0 +1,61 @@
+id: 01KZPVPT5J1KR84NJ2R8XE0YPT
+type: document
+subtype: note
+title: Rechnung Bohlmann, Schützenhaus
+date: 2001-09-15
+location: Pretzier, Kindergarten
+origin:
+  name: Käthe Lenz
+  type: person
+  location: Wootz
+language: de
+subjects:
+  - name: Viehmarkt 2001
+    type: event
+  - name: Dorfladen
+    type: building
+  - name: Försterei
+    type: building
+parents:
+  - 01FVSGGTHXCNNWVMHHZN3NRKZQ
+files:
+  - role: page
+    num: 1
+    original_name: note_xe0ypt_001.tif
+    path: files/c6/08/c608fa616e202c3f23b8fa1a173c4fe7f2a51bc7842587c0deb990de8f0616cf/original.tif
+    sha256: c608fa616e202c3f23b8fa1a173c4fe7f2a51bc7842587c0deb990de8f0616cf
+    mime: image/tiff
+    bytes: 16689895
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/08/c608fa616e202c3f23b8fa1a173c4fe7f2a51bc7842587c0deb990de8f0616cf/preview-400.57631833daa4.jpg
+        sha256: 57631833daa4f6af4ddc281f06ea90639bc6574b62cb9c303064889cad5f82f5
+        mime: image/jpeg
+        bytes: 86233
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_xe0ypt_002.tif
+    path: files/f5/d6/f5d6ed22d5d0f9fe8322a9e991590e9606a53580b732c0d37725216e35ae0557/original.tif
+    sha256: f5d6ed22d5d0f9fe8322a9e991590e9606a53580b732c0d37725216e35ae0557
+    mime: image/tiff
+    bytes: 23791421
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f5/d6/f5d6ed22d5d0f9fe8322a9e991590e9606a53580b732c0d37725216e35ae0557/preview-400.f5ad11981194.jpg
+        sha256: f5ad1198119433cb06e3aa13518fc9b6c0f9cac773a757f33839cb5cca08776f
+        mime: image/jpeg
+        bytes: 78053
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01HBK0B039DT9NRS7RYCADEC4F
+type: image
+subtype: drawing
+title: Skizze Holtorf, Hinter den Höfen, Gartow
+description: Federzeichnung, laviert.
+date: 1857?
+location: Wootz, Backhaus
+origin:
+  name: Wilhelm Brandt
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Kasten 30/009
+subjects:
+  - name: Lanz
+    type: place
+  - name: Gartow
+    type: place
+  - name: Backhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_968.tif
+    path: files/3f/78/3f780a1b8454d179e1f7fd662251826cd0176563a642687dd3db38e499746c68/original.tif
+    sha256: 3f780a1b8454d179e1f7fd662251826cd0176563a642687dd3db38e499746c68
+    mime: image/tiff
+    bytes: 27988099
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3f/78/3f780a1b8454d179e1f7fd662251826cd0176563a642687dd3db38e499746c68/preview-400.fb30ed0a2199.jpg
+        sha256: fb30ed0a219952dfae977d203570f2933d7d74fd664eecc9b03634c4a5d5e521
+        mime: image/jpeg
+        bytes: 23792
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

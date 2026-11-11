@@ -1,0 +1,58 @@
+id: 01FMZ4T1GKTFA0DRHD8S6491WK
+type: document
+subtype: letter
+title: Feldpostbrief von Berta Wiegmann
+description: Handschriftlich, 4 Seiten.
+date: 1904-02-17
+recipient: Marta Wiegmann
+language: de
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Schützenfest 1904
+    type: event
+  - name: Feuerwehrhaus
+    type: building
+parents:
+  - 01FYF46BCNWMPMBZAF8Z3VZK3Y
+files:
+  - role: page
+    num: 1
+    original_name: letter_6491wk_001.tif
+    path: files/ca/ed/caed430ff01a87ea7d548f953953013731fea58634872b3fd2f35144cd3d92e4/original.tif
+    sha256: caed430ff01a87ea7d548f953953013731fea58634872b3fd2f35144cd3d92e4
+    mime: image/tiff
+    bytes: 13641846
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ca/ed/caed430ff01a87ea7d548f953953013731fea58634872b3fd2f35144cd3d92e4/preview-400.cd4926328af6.jpg
+        sha256: cd4926328af69e762b0b2e9cacdb0c9d8223d396153b251b57a6f72e75f16172
+        mime: image/jpeg
+        bytes: 31567
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_6491wk_002.tif
+    path: files/1d/71/1d71c5abb80cb036b6815a5196003e1f6c728326f5401c89624eb5763e1f8171/original.tif
+    sha256: 1d71c5abb80cb036b6815a5196003e1f6c728326f5401c89624eb5763e1f8171
+    mime: image/tiff
+    bytes: 10803769
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/71/1d71c5abb80cb036b6815a5196003e1f6c728326f5401c89624eb5763e1f8171/preview-400.9192a88dab5f.jpg
+        sha256: 9192a88dab5f5c9cf645241667b242536963ccd0f5c86d64ed1731170dc8769b
+        mime: image/jpeg
+        bytes: 81184
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

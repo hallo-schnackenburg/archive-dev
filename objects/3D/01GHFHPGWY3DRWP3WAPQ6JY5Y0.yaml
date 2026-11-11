@@ -1,0 +1,82 @@
+id: 01GHFHPGWY3DRWP3WAPQ6JY5Y0
+type: document
+subtype: letter
+title: Korrespondenz Rudolf Lenz
+description: Mit Umschlag und Briefmarke.
+date: "1877"
+location: Wootz, Dorfstraße
+geocode:
+  lat: 52.9277
+  lon: 11.6713
+  precision: region
+  source: osm
+origin:
+  name: Dieter Lüders
+  type: person
+  location: Gülden
+recipient: Wilhelm Brandt
+language: de
+subjects:
+  - name: Glockenweihe 1877
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_6jy5y0_001.tif
+    path: files/8f/a2/8fa2101ce7b928d908935ee9fc38868eeacc014b5d60826bcffd45ad0cfa2794/original.tif
+    sha256: 8fa2101ce7b928d908935ee9fc38868eeacc014b5d60826bcffd45ad0cfa2794
+    mime: image/tiff
+    bytes: 3719030
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8f/a2/8fa2101ce7b928d908935ee9fc38868eeacc014b5d60826bcffd45ad0cfa2794/preview-400.9956cab163f3.jpg
+        sha256: 9956cab163f38a87696accbb1be39d887c42a9bde52988ef946e79fae4b989b8
+        mime: image/jpeg
+        bytes: 71059
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_6jy5y0_002.tif
+    path: files/62/b4/62b481a8222c0fae2d59881e3409eb5b0c77aa9852e5bfd8732d3b4b9c62c9c5/original.tif
+    sha256: 62b481a8222c0fae2d59881e3409eb5b0c77aa9852e5bfd8732d3b4b9c62c9c5
+    mime: image/tiff
+    bytes: 11518281
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/62/b4/62b481a8222c0fae2d59881e3409eb5b0c77aa9852e5bfd8732d3b4b9c62c9c5/preview-400.9200c09f8a44.jpg
+        sha256: 9200c09f8a44e40c7cca7264bdb0709a711cb7a122d29676a22e980cf38b36be
+        mime: image/jpeg
+        bytes: 69368
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_6jy5y0_003.tif
+    path: files/7f/43/7f436a5c47dfd34900ab0aaeee63ecd4199e2426650d55be46ebdcb1e12699b3/original.tif
+    sha256: 7f436a5c47dfd34900ab0aaeee63ecd4199e2426650d55be46ebdcb1e12699b3
+    mime: image/tiff
+    bytes: 22028964
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7f/43/7f436a5c47dfd34900ab0aaeee63ecd4199e2426650d55be46ebdcb1e12699b3/preview-400.dbed913626fb.jpg
+        sha256: dbed913626fbbe342dd9e42ecd40397025c9909133a7c8af512709e38d182d1c
+        mime: image/jpeg
+        bytes: 74578
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

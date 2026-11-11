@@ -1,0 +1,36 @@
+id: 01FGBASRHDCWWFW7K0SKQKG666
+type: image
+subtype: plan
+title: Deichplan Lüchow bis Rüterberg
+description: Mit handschriftlichen Ergänzungen.
+date: 1824-05
+location: Wustrow, Kegelbahn
+origin:
+  name: Irmgard Voss
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Rudolf Lemke
+    type: person
+  - name: Elfriede Bruns
+    type: person
+files:
+  - role: main
+    original_name: scan_807.tif
+    path: files/dc/05/dc05ad2c2ccf9e5718877f95e84135fc21efd337795986c3f432c81ead30e17a/original.tif
+    sha256: dc05ad2c2ccf9e5718877f95e84135fc21efd337795986c3f432c81ead30e17a
+    mime: image/tiff
+    bytes: 20100383
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/05/dc05ad2c2ccf9e5718877f95e84135fc21efd337795986c3f432c81ead30e17a/preview-400.6e3a839582c9.jpg
+        sha256: 6e3a839582c9c399040b9360b708a903fec17db70a5f7b0370614191b85266ff
+        mime: image/jpeg
+        bytes: 29006
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

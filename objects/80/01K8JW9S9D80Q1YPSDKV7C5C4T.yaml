@@ -1,0 +1,39 @@
+id: 01K8JW9S9D80Q1YPSDKV7C5C4T
+type: image
+subtype: photo
+title: Dieter Lemke, Porträt
+description: Farbfoto, leicht verblasst.
+date: "1916"
+location: Gollensdorf, Ladestraße
+geocode:
+  lat: 53.0648
+  lon: 11.6797
+  precision: region
+  source: osm
+origin:
+  name: Rudolf Vogt
+  type: person
+  location: Pretzier
+subjects:
+  - name: Rathaus
+    type: building
+files:
+  - role: main
+    original_name: DSC1665.jpg
+    path: files/48/4a/484a46f85a9ff9d13340dd100651cc19714bbd23e699c769ffe4312a10de557c/original.jpg
+    sha256: 484a46f85a9ff9d13340dd100651cc19714bbd23e699c769ffe4312a10de557c
+    mime: image/jpeg
+    bytes: 7521930
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/48/4a/484a46f85a9ff9d13340dd100651cc19714bbd23e699c769ffe4312a10de557c/preview-400.a7eacf3763ec.jpg
+        sha256: a7eacf3763ec262af3fb76c32d77a773824dba78ab2b4c5fba7698c1f88aae3d
+        mime: image/jpeg
+        bytes: 45599
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

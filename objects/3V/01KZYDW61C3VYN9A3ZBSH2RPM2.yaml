@@ -1,0 +1,41 @@
+id: 01KZYDW61C3VYN9A3ZBSH2RPM2
+type: image
+subtype: drawing
+title: Skizze Zadrau, Gartenstraße
+date: 1858-04-12
+location: Gülden, Hafenstraße
+origin:
+  name: Walter Rieke
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Mappe 27/109
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Walter Jeß
+    type: person
+files:
+  - role: main
+    original_name: scan_287.tif
+    path: files/ef/fc/effc901d1c4180a29d78ab1984508e4b0c927fb3ce953e1f67e85e630f24a6d6/original.tif
+    sha256: effc901d1c4180a29d78ab1984508e4b0c927fb3ce953e1f67e85e630f24a6d6
+    mime: image/tiff
+    bytes: 12654639
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ef/fc/effc901d1c4180a29d78ab1984508e4b0c927fb3ce953e1f67e85e630f24a6d6/preview-400.ce1025faeeac.jpg
+        sha256: ce1025faeeac7b72cec4b9085c75ecf3e24719e4bcb9877ad190e5fa4bdc52ef
+        mime: image/jpeg
+        bytes: 75572
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

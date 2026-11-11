@@ -1,0 +1,35 @@
+id: 01JSSR2N7NE25GVKVNN4FEBV2J
+type: image
+subtype: print
+title: Ansichtskarte Lange Straße, Nienwalde
+description: Lithographie, Rand beschnitten.
+date: 1722-08-14
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 14/109
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v37517
+parents:
+  - 01GEXDCNJFMMX07WG8TNDMERGT
+files:
+  - role: main
+    original_name: scan_601.tif
+    path: files/ee/6d/ee6d82ac164d0c8cf8259e93d626044fac820700e946917e1764e1e898c736b3/original.tif
+    sha256: ee6d82ac164d0c8cf8259e93d626044fac820700e946917e1764e1e898c736b3
+    mime: image/tiff
+    bytes: 27696362
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ee/6d/ee6d82ac164d0c8cf8259e93d626044fac820700e946917e1764e1e898c736b3/preview-400.2f261b1d7046.jpg
+        sha256: 2f261b1d7046b341427da258e84a47755c7b20cb385002bceab30ec0f4adc6cf
+        mime: image/jpeg
+        bytes: 38583
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

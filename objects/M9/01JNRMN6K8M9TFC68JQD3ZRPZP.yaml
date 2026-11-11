@@ -1,0 +1,35 @@
+id: 01JNRMN6K8M9TFC68JQD3ZRPZP
+type: image
+subtype: plan
+title: Bauplan Sportplatz 1914
+description: Tusche auf Transparentpapier.
+date: 1914-08
+location: Bömenzien, Ziegelei
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Mappe 1/074
+parents:
+  - 01G5CJBY3RS88Q2T2XPXK8Z7QS
+files:
+  - role: main
+    original_name: scan_488.tif
+    path: files/3b/ee/3beef0dc1ca7089ac4b7dcc3f57c16688e9bc66b4be596c1efacd98b1ddf2e3c/original.tif
+    sha256: 3beef0dc1ca7089ac4b7dcc3f57c16688e9bc66b4be596c1efacd98b1ddf2e3c
+    mime: image/tiff
+    bytes: 8906059
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/3b/ee/3beef0dc1ca7089ac4b7dcc3f57c16688e9bc66b4be596c1efacd98b1ddf2e3c/preview-400.f61fc064c069.jpg
+        sha256: f61fc064c069b83626e828d54339575df2cf594256d3d86fce3ec10d7ca16f6c
+        mime: image/jpeg
+        bytes: 41196
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

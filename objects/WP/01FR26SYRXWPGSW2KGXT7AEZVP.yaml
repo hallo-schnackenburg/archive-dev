@@ -1,0 +1,37 @@
+id: 01FR26SYRXWPGSW2KGXT7AEZVP
+type: image
+subtype: plan
+title: Deichplan Wittenberge bis Wittenberge
+description: Maßstab 1:1000.
+date: "1988"
+origin:
+  name: Rudolf Wegner
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Bömenzien
+    type: place
+  - name: Kindergarten
+    type: building
+parents:
+  - 01M1YR053NPJBEH3Y4WNQMC2X8
+files:
+  - role: main
+    original_name: scan_474.tif
+    path: files/d0/4d/d04db15adc77f1f25789a25a6128a7528bc3e30afa42beb69ee49c55d9269e95/original.tif
+    sha256: d04db15adc77f1f25789a25a6128a7528bc3e30afa42beb69ee49c55d9269e95
+    mime: image/tiff
+    bytes: 7851629
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d0/4d/d04db15adc77f1f25789a25a6128a7528bc3e30afa42beb69ee49c55d9269e95/preview-400.2d2e1897e93e.jpg
+        sha256: 2d2e1897e93e29b8e62ee909f7b8cb90a529423ddfc887cef3ee7816c35cc50e
+        mime: image/jpeg
+        bytes: 46291
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

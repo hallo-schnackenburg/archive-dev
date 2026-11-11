@@ -1,0 +1,35 @@
+id: 01JRAT4KGJF9D666D1YK83SHA2
+type: image
+subtype: print
+title: "Kupferstich: Hitzacker von der Elbseite, Dömitz"
+date: 1894/1901
+location: Bömenzien, Am Elbdeich
+origin:
+  name: Elfriede Hennings
+  type: person
+  location: Wootz
+subjects:
+  - name: Erika Brandt
+    type: person
+  - name: Straßenfest 1894
+    type: event
+files:
+  - role: main
+    original_name: scan_717.tif
+    path: files/26/58/2658aceb767bf178e5e683c7a3f6777174ed1bd53fcda09545330e0f23fa6489/original.tif
+    sha256: 2658aceb767bf178e5e683c7a3f6777174ed1bd53fcda09545330e0f23fa6489
+    mime: image/tiff
+    bytes: 15442923
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/58/2658aceb767bf178e5e683c7a3f6777174ed1bd53fcda09545330e0f23fa6489/preview-400.1a0236b41b69.jpg
+        sha256: 1a0236b41b696a20af956acb0e301807c0963c477c7b9322925d2ced3449837e
+        mime: image/jpeg
+        bytes: 88952
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01KJ13AFJ3MXBBQXKRMWPJQ1S5
+type: image
+subtype: photo
+title: Ladestraße nach dem Viehmarkt, Salzwedel
+location: Wustrow, Schützenhaus
+geocode:
+  lat: 53.0627
+  lon: 11.6691
+  precision: town
+  source: osm
+origin:
+  name: Erika Meyer
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+files:
+  - role: main
+    original_name: IMG_1862.jpg
+    path: files/46/f8/46f85e356affdaff70bc92341952183b8e6d930cf823fae6d370f7abbb380fb9/original.jpg
+    sha256: 46f85e356affdaff70bc92341952183b8e6d930cf823fae6d370f7abbb380fb9
+    mime: image/jpeg
+    bytes: 10829931
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/46/f8/46f85e356affdaff70bc92341952183b8e6d930cf823fae6d370f7abbb380fb9/preview-400.83696044a1d7.jpg
+        sha256: 83696044a1d75a7a1dd80a77eee4f30155f36a9a68d866cf6fdbbab5b5a7ff6a
+        mime: image/jpeg
+        bytes: 88797
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01G3EDHMPJ2CSPQWPP68Y0GFHR
+type: image
+subtype: photo
+title: Rathaus in Wustrow
+description: Abzug im Format 13 x 18 cm.
+date: 1917-09-13
+origin:
+  name: Emma Wegner
+  type: person
+  location: Dömitz
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+parents:
+  - 01KD000830AWSSZZ7WT8DANPRF
+  - 01K7X50YJVP4Q2EM4RD9TMVQVM
+files:
+  - role: main
+    original_name: DSC1542.jpg
+    path: files/46/eb/46ebe77575f64341aac751ce4527872a50ee6f2540f9ac1c5037398c2910c9d4/original.jpg
+    sha256: 46ebe77575f64341aac751ce4527872a50ee6f2540f9ac1c5037398c2910c9d4
+    mime: image/jpeg
+    bytes: 11577633
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/46/eb/46ebe77575f64341aac751ce4527872a50ee6f2540f9ac1c5037398c2910c9d4/preview-400.3d350e092a72.jpg
+        sha256: 3d350e092a72fb89864b85250e4c2436d0669a401f4da7884b0b037c682408b1
+        mime: image/jpeg
+        bytes: 34615
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

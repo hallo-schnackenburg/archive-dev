@@ -1,0 +1,37 @@
+id: 01FJ8H4G7D6SWDPM2CTNYY321D
+type: image
+subtype: print
+title: Ansichtskarte Burgstraße, Hitzacker
+description: Postkarte, gelaufen 1928.
+date: 1938-02-14
+origin:
+  name: Hermann Schulz
+  type: person
+  location: Lüchow
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Elbdeich
+    type: building
+parents:
+  - 01H46K9BSD0B1AGYJKV43CT13X
+files:
+  - role: main
+    original_name: scan_817.tif
+    path: files/93/9a/939aa1b74e986367280bd6ef1f51e7e5b73709b17ccd8601d8b349af2244e0aa/original.tif
+    sha256: 939aa1b74e986367280bd6ef1f51e7e5b73709b17ccd8601d8b349af2244e0aa
+    mime: image/tiff
+    bytes: 16738309
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/93/9a/939aa1b74e986367280bd6ef1f51e7e5b73709b17ccd8601d8b349af2244e0aa/preview-400.227f2427e8a5.jpg
+        sha256: 227f2427e8a5275cc592f7ed8842dc5c7294b0c79750086889194b9471c0eb56
+        mime: image/jpeg
+        bytes: 35080
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

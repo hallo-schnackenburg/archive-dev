@@ -1,0 +1,36 @@
+id: 01JTSKEFTM0AKZ7ZNP84DH46T2
+type: image
+subtype: plan
+title: Bauplan Fachwerkhaus Marktstraße 4 1828
+description: Tusche auf Transparentpapier.
+date: 1828-01-03
+location: Pretzier, Am Elbdeich
+origin:
+  name: Ilse Bohlmann
+  type: person
+  location: Wootz
+subjects:
+  - name: Laase
+    type: place
+  - name: Gerda Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_040.tif
+    path: files/24/bc/24bc9ec1837e7f2b46f96a8fc83cae0902a422080cd93dc08796c92e0c6e80c5/original.tif
+    sha256: 24bc9ec1837e7f2b46f96a8fc83cae0902a422080cd93dc08796c92e0c6e80c5
+    mime: image/tiff
+    bytes: 8487683
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/24/bc/24bc9ec1837e7f2b46f96a8fc83cae0902a422080cd93dc08796c92e0c6e80c5/preview-400.2a066075bd5d.jpg
+        sha256: 2a066075bd5dc8ed81703d74b45aae4523aecb9e606f9f027887c447118b41da
+        mime: image/jpeg
+        bytes: 58672
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

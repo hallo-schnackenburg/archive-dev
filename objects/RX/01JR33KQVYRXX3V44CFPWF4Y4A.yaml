@@ -1,0 +1,60 @@
+id: 01JR33KQVYRXX3V44CFPWF4Y4A
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Heimatverein 1941
+description: "Beschlossen wurde unter anderem: Pachtvertrag."
+date: "1941"
+location: Gülden, Lange Straße
+language: de
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Laase
+  reference: F/Album 27/010
+subjects:
+  - name: Friedrich Lemke
+    type: person
+parents:
+  - 01KWT1T4KB5Q91S1TWXMCRMNCD
+files:
+  - role: page
+    num: 1
+    original_name: protocol_wf4y4a_001.tif
+    path: files/1b/bd/1bbd8e45c44bbf6c4ee92d4a516b08104609eb00d3f9b84365dc96bdc50e1a88/original.tif
+    sha256: 1bbd8e45c44bbf6c4ee92d4a516b08104609eb00d3f9b84365dc96bdc50e1a88
+    mime: image/tiff
+    bytes: 19160985
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1b/bd/1bbd8e45c44bbf6c4ee92d4a516b08104609eb00d3f9b84365dc96bdc50e1a88/preview-400.ecd435a6e185.jpg
+        sha256: ecd435a6e185e65978201d2d1e8706c607a2d3912362b3b983b48511e345d9e7
+        mime: image/jpeg
+        bytes: 62713
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_wf4y4a_002.tif
+    path: files/c2/c5/c2c561e0723a3657d0926ac68f4b73663748461af53be17234557c030342c581/original.tif
+    sha256: c2c561e0723a3657d0926ac68f4b73663748461af53be17234557c030342c581
+    mime: image/tiff
+    bytes: 3966771
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/c5/c2c561e0723a3657d0926ac68f4b73663748461af53be17234557c030342c581/preview-400.ef849770266f.jpg
+        sha256: ef849770266f4a018d0623876331b134e50e881a9a073fca7a5fa8e5ccb34bed
+        mime: image/jpeg
+        bytes: 75145
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

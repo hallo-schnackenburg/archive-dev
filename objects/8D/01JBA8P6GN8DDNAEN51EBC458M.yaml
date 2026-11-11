@@ -1,0 +1,40 @@
+id: 01JBA8P6GN8DDNAEN51EBC458M
+type: image
+subtype: drawing
+title: Wappenentwurf Dömitz, Restorf
+date: "1967"
+location: Wootz, Bahnhofstraße
+geocode:
+  lat: 53.096
+  lon: 11.5575
+  precision: exact
+  source: osm
+origin:
+  name: Marta Gerdes
+  type: person
+  location: Holtorf
+subjects:
+  - name: Backhaus
+    type: building
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_678.tif
+    path: files/5b/39/5b3938e8f2187574edb70e1b10d9cee1e7039de845288e6367c3f48f28004783/original.tif
+    sha256: 5b3938e8f2187574edb70e1b10d9cee1e7039de845288e6367c3f48f28004783
+    mime: image/tiff
+    bytes: 4202700
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/5b/39/5b3938e8f2187574edb70e1b10d9cee1e7039de845288e6367c3f48f28004783/preview-400.2c2f6038f85a.jpg
+        sha256: 2c2f6038f85a6f217e521be880c7231c6aae2f5440db29763bd0f73816448b99
+        mime: image/jpeg
+        bytes: 22229
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

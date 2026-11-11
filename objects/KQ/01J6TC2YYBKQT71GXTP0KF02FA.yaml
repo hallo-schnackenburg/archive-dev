@@ -1,0 +1,40 @@
+id: 01J6TC2YYBKQT71GXTP0KF02FA
+type: image
+subtype: plan
+title: Bauplan Feuerwehrhaus 1869
+description: Mit handschriftlichen Ergänzungen.
+date: 1869-04-03
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Holtorf
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Kartoffelernte 1869
+    type: event
+  - name: Karl Garms
+    type: person
+parents:
+  - 01FJ86NA6W3C03D1PBGTPFRX8T
+files:
+  - role: main
+    original_name: scan_415.tif
+    path: files/1d/d3/1dd3a12a33318e2cc9120508a2a2a461cc9615b290322f54fde9e91bfd4524fd/original.tif
+    sha256: 1dd3a12a33318e2cc9120508a2a2a461cc9615b290322f54fde9e91bfd4524fd
+    mime: image/tiff
+    bytes: 7304879
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1d/d3/1dd3a12a33318e2cc9120508a2a2a461cc9615b290322f54fde9e91bfd4524fd/preview-400.4243053cb5e6.jpg
+        sha256: 4243053cb5e680f28d4390052d049ca80b4c4f92c68399c804972c0a9e4efe1c
+        mime: image/jpeg
+        bytes: 56464
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Doppelt vorhanden?

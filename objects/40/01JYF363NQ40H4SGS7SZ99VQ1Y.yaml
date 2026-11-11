@@ -1,0 +1,39 @@
+id: 01JYF363NQ40H4SGS7SZ99VQ1Y
+type: image
+subtype: photo
+title: Frieda Behrens, Porträt
+description: Abzug im Format 13 x 18 cm.
+date: 1932-07-28
+location: Schnackenburg, Kirchstraße
+geocode:
+  lat: 52.9616
+  lon: 11.5529
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Brandt
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Badestelle
+    type: building
+files:
+  - role: main
+    original_name: DSC1021.jpg
+    path: files/0a/2d/0a2d438c5afb85a8a4d624ecdc07176b085d354ba8ab8f0391b01cefad7e910b/original.jpg
+    sha256: 0a2d438c5afb85a8a4d624ecdc07176b085d354ba8ab8f0391b01cefad7e910b
+    mime: image/jpeg
+    bytes: 19753425
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0a/2d/0a2d438c5afb85a8a4d624ecdc07176b085d354ba8ab8f0391b01cefad7e910b/preview-400.f7d24a119caf.jpg
+        sha256: f7d24a119caf8347e00d929bed6fb11a70e346281f45e22d858c46f431092ecc
+        mime: image/jpeg
+        bytes: 22021
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

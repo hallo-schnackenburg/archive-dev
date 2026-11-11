@@ -1,0 +1,32 @@
+id: 01HBRFHACRD0A4BPZB88NBM4TW
+type: image
+subtype: plan
+title: Bauplan Feuerwehrhaus 1828
+description: Maßstab 1:250.
+date: 1828-09-13
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v92155
+files:
+  - role: main
+    original_name: scan_627.tif
+    path: files/24/44/244495e0e18b9522fa99605a8188f469bc130973739538ebbfc5bd8a4b133190/original.tif
+    sha256: 244495e0e18b9522fa99605a8188f469bc130973739538ebbfc5bd8a4b133190
+    mime: image/tiff
+    bytes: 16773549
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/24/44/244495e0e18b9522fa99605a8188f469bc130973739538ebbfc5bd8a4b133190/preview-400.e46fe112b461.jpg
+        sha256: e46fe112b46113e35c932b9dcff2a69b9aefd14dfd9cee372287b58c6143491c
+        mime: image/jpeg
+        bytes: 78493
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

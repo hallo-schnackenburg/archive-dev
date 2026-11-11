@@ -1,0 +1,38 @@
+id: 01KJV0TBNGGGVVWZXMQNRW4BCX
+type: image
+subtype: photo
+title: Karl Wöhlk vor dem Schlachterei
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1983"
+location: Lanz, Schlachterei
+origin:
+  name: Marta Tiedemann
+  type: person
+  location: Lanz
+subjects:
+  - name: Schlachterei
+    type: building
+  - name: Karl Bohlmann
+    type: person
+  - name: Torhaus
+    type: building
+files:
+  - role: main
+    original_name: DSC0239.jpg
+    path: files/0e/96/0e9604a44f31cda7d46a02dbc4e35ce904d607dd08fa50e6ffadf04665201ce4/original.jpg
+    sha256: 0e9604a44f31cda7d46a02dbc4e35ce904d607dd08fa50e6ffadf04665201ce4
+    mime: image/jpeg
+    bytes: 16070463
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0e/96/0e9604a44f31cda7d46a02dbc4e35ce904d607dd08fa50e6ffadf04665201ce4/preview-400.d6a4a18fab5a.jpg
+        sha256: d6a4a18fab5afb2fcb21323fcf45d5ffa1f8e8d7e76a2663cefcf9262a345220
+        mime: image/jpeg
+        bytes: 61840
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

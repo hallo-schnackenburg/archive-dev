@@ -1,0 +1,62 @@
+id: 01K9X6FEMMKRZT4Y3EHM17WD9A
+type: document
+subtype: note
+title: Quittung für Brigitte Gaede
+description: Auf der Rückseite eines Formulars.
+date: "1965"
+location: Havelberg, Hafen
+geocode:
+  lat: 53.0138
+  lon: 11.6314
+  precision: exact
+  source: osm
+origin:
+  name: Käthe Lemke
+  type: person
+  location: Wustrow
+subjects:
+  - name: Holtorf
+    type: place
+parents:
+  - 01J0GYR8W2ERJ99C6YPH8ATKMN
+files:
+  - role: page
+    num: 1
+    original_name: note_17wd9a_001.tif
+    path: files/4e/4f/4e4f657a740afff83f65463df969333266c9249e9dbd08ae51e316e42ae58b65/original.tif
+    sha256: 4e4f657a740afff83f65463df969333266c9249e9dbd08ae51e316e42ae58b65
+    mime: image/tiff
+    bytes: 25356547
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4e/4f/4e4f657a740afff83f65463df969333266c9249e9dbd08ae51e316e42ae58b65/preview-400.4aa81d792be7.jpg
+        sha256: 4aa81d792be74d9b9b20688d6d3aae663e9444b2ea6c239c40ad883cc022a080
+        mime: image/jpeg
+        bytes: 23129
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_17wd9a_002.tif
+    path: files/17/64/176444e61e89a688b83a8ec04a7bd3351d41f627072a471006a2c4b8235e7f57/original.tif
+    sha256: 176444e61e89a688b83a8ec04a7bd3351d41f627072a471006a2c4b8235e7f57
+    mime: image/tiff
+    bytes: 19621805
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/17/64/176444e61e89a688b83a8ec04a7bd3351d41f627072a471006a2c4b8235e7f57/preview-400.cf0977d8dffc.jpg
+        sha256: cf0977d8dffcce385eae0c4387ff7e4506ccfbb4de7b9cd38f11867f942c9fd3
+        mime: image/jpeg
+        bytes: 78091
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

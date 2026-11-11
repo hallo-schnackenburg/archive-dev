@@ -1,0 +1,42 @@
+id: 01HAGTBMVRQSG7YAC7PM6QTW8C
+type: image
+subtype: print
+title: Postkarte Dömitz, Pfarrhaus
+description: Postkarte, gelaufen 1926.
+date: "1708"
+location: Lenzen, Hafenstraße
+geocode:
+  lat: 52.9713
+  lon: 11.6005
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br 19/045
+  note: Kellerarchiv
+subjects:
+  - name: Grenzturm
+    type: building
+files:
+  - role: main
+    original_name: scan_211.tif
+    path: files/c5/96/c596af2f712c97523da8c656370b2d876d5085fb97c80baa73253801ac258d40/original.tif
+    sha256: c596af2f712c97523da8c656370b2d876d5085fb97c80baa73253801ac258d40
+    mime: image/tiff
+    bytes: 4515243
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c5/96/c596af2f712c97523da8c656370b2d876d5085fb97c80baa73253801ac258d40/preview-400.65b6d8db401b.jpg
+        sha256: 65b6d8db401ba254e438efcf77ecd373784b02c3f0ee21af82c49ceaf7fca514
+        mime: image/jpeg
+        bytes: 25423
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01G6S04PWZ596PTVAM5N7TGHDQ
+type: image
+subtype: photo
+title: Apotheke in Lanz
+date: 2003-10-16
+location: Gollensdorf, Försterei
+geocode:
+  lat: 53.0871
+  lon: 11.4501
+  precision: street
+  source: osm
+origin:
+  name: Anni Jeß
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Restorf
+    type: place
+files:
+  - role: main
+    original_name: foto_9711.jpg
+    path: files/a4/8c/a48cc95067c7ad8a0f5e85cdfc558cd27783e42ee73f4672289419fc221ba354/original.jpg
+    sha256: a48cc95067c7ad8a0f5e85cdfc558cd27783e42ee73f4672289419fc221ba354
+    mime: image/jpeg
+    bytes: 7798718
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a4/8c/a48cc95067c7ad8a0f5e85cdfc558cd27783e42ee73f4672289419fc221ba354/preview-400.8c95872d1b4b.jpg
+        sha256: 8c95872d1b4bfe61f555f9bcfbe26d98056c04fdb057a2a8c28da4f0b051bf50
+        mime: image/jpeg
+        bytes: 81626
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01GZ5AMMB64QPBAKT53E3SRHPS
+type: image
+subtype: plan
+title: Katasterblatt Lemke
+description: Maßstab 1:2500.
+date: "1945"
+location: Zadrau, Ziegelei
+origin:
+  name: Gerda Behrens
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Familie Behrens
+    type: person
+    location: Pretzier
+  reference: Br/Album 24/002
+  note: Bücherregal links
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Dömitz
+    type: place
+files:
+  - role: main
+    original_name: scan_123.tif
+    path: files/36/40/3640fb0a72e73f4eb3506ee81ad8a94c2add2f8838bbce535cf7730cbf548f64/original.tif
+    sha256: 3640fb0a72e73f4eb3506ee81ad8a94c2add2f8838bbce535cf7730cbf548f64
+    mime: image/tiff
+    bytes: 7539220
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/36/40/3640fb0a72e73f4eb3506ee81ad8a94c2add2f8838bbce535cf7730cbf548f64/preview-400.803c0f497caa.jpg
+        sha256: 803c0f497caafd00986c503bc3415edfcb1d151e708898590f3ee0c7822c5cda
+        mime: image/jpeg
+        bytes: 44417
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

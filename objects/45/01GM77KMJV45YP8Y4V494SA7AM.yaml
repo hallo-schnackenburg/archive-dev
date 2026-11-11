@@ -1,0 +1,36 @@
+id: 01GM77KMJV45YP8Y4V494SA7AM
+type: image
+subtype: plan
+title: Bauplan Schlachterei 1840
+description: Maßstab 1:250.
+date: 1840/1841
+location: Lanz, Kegelbahn
+origin:
+  name: Paul Ulrich
+  type: person
+  location: Gartow
+subjects:
+  - name: Gülden
+    type: place
+parents:
+  - 01F609NXHEBHNPDFETZVY63FSS
+files:
+  - role: main
+    original_name: scan_229.tif
+    path: files/75/48/7548bd2adfcdd2d1d0c6c9db72a6ea13d16fa610c74e4f196d2b1e6d4be95777/original.tif
+    sha256: 7548bd2adfcdd2d1d0c6c9db72a6ea13d16fa610c74e4f196d2b1e6d4be95777
+    mime: image/tiff
+    bytes: 27109018
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/75/48/7548bd2adfcdd2d1d0c6c9db72a6ea13d16fa610c74e4f196d2b1e6d4be95777/preview-400.61d69d5039c3.jpg
+        sha256: 61d69d5039c34343122e1dffa019fa5fc546a797a3bfb1902f894562562f4e44
+        mime: image/jpeg
+        bytes: 25916
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

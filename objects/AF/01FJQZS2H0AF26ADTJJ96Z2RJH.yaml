@@ -1,0 +1,43 @@
+id: 01FJQZS2H0AF26ADTJJ96Z2RJH
+type: image
+subtype: plan
+title: Deichplan Salzwedel bis Hitzacker
+description: Maßstab 1:1000.
+date: 1866~
+origin:
+  name: Karl Wiese
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Wootz
+    type: place
+  - name: Gülden
+    type: place
+  - name: Försterei
+    type: building
+files:
+  - role: main
+    original_name: scan_455.tif
+    path: files/5d/93/5d939b6c8199dce65ea9b46c381bb2d6c154562c3f8d355f22f947c432571be7/original.tif
+    sha256: 5d939b6c8199dce65ea9b46c381bb2d6c154562c3f8d355f22f947c432571be7
+    mime: image/tiff
+    bytes: 5507721
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5d/93/5d939b6c8199dce65ea9b46c381bb2d6c154562c3f8d355f22f947c432571be7/preview-400.da5a90d723ac.jpg
+        sha256: da5a90d723aca83bdecbf0b2677e30ca2c32a232050326136eb7eab417e17499
+        mime: image/jpeg
+        bytes: 37344
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Person links unbekannt.

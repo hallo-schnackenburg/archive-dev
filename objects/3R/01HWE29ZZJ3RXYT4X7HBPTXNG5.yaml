@@ -1,0 +1,37 @@
+id: 01HWE29ZZJ3RXYT4X7HBPTXNG5
+type: image
+subtype: photo
+title: Kinder am Schmiede
+location: Lenzen, Zollamt
+origin:
+  name: Erika Meyer
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Sportplatz
+    type: building
+  - name: Salzwedel
+    type: place
+parents:
+  - 01K031Q9A4VAM2ZR0E2Y2SQX6S
+  - 01HD61F86MBNWMCVSSSSY9BBBD
+files:
+  - role: main
+    original_name: scan_383.tif
+    path: files/9e/aa/9eaa7a7560e8e627dad3678693437441f94ecb119fbc0764077218e2bfb94086/original.tif
+    sha256: 9eaa7a7560e8e627dad3678693437441f94ecb119fbc0764077218e2bfb94086
+    mime: image/tiff
+    bytes: 1522338
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/9e/aa/9eaa7a7560e8e627dad3678693437441f94ecb119fbc0764077218e2bfb94086/preview-400.79bb1994c40f.jpg
+        sha256: 79bb1994c40f33b8001cae8fd5d6db8833952672c59837221ce2fec8176c26fe
+        mime: image/jpeg
+        bytes: 89623
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

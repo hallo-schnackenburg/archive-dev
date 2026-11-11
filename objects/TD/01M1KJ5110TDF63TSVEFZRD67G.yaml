@@ -1,0 +1,41 @@
+id: 01M1KJ5110TDF63TSVEFZRD67G
+type: image
+subtype: drawing
+title: Federzeichnung Hafen, Arendsee
+description: Mit Anmerkungen am Rand.
+date: 1854?
+location: Gorleben, Am Markt
+geocode:
+  lat: 52.9991
+  lon: 11.5806
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Ahrens
+  type: person
+  location: Kapern
+subjects:
+  - name: Einschulung 1854
+    type: event
+parents:
+  - 01HQP25DE5H8X2VZ17AF0KJD5M
+files:
+  - role: main
+    original_name: scan_039.tif
+    path: files/6a/6e/6a6ef526076655b20e75229a08a0a8becfcb3acc9ab4037452fbe212ef9fe9d0/original.tif
+    sha256: 6a6ef526076655b20e75229a08a0a8becfcb3acc9ab4037452fbe212ef9fe9d0
+    mime: image/tiff
+    bytes: 17318456
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6a/6e/6a6ef526076655b20e75229a08a0a8becfcb3acc9ab4037452fbe212ef9fe9d0/preview-400.1294cf10b4e9.jpg
+        sha256: 1294cf10b4e9e5dead1caf6a042fae0865594e98a861d31ea0d4e19bc4a7cf08
+        mime: image/jpeg
+        bytes: 85516
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01F9HBTTQ38M7JWC9T8NFDN5A8
+type: image
+subtype: plan
+title: Bauplan Molkerei 1861
+date: 1861-10-14
+location: Restorf, Bahnhofstraße
+geocode:
+  lat: 52.9073
+  lon: 11.6166
+  precision: street
+  source: osm
+origin:
+  name: Otto Lemke
+  type: person
+  location: Dömitz
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Heinrich Meyer
+    type: person
+  - name: Gustav Meyer
+    type: person
+files:
+  - role: main
+    original_name: scan_970.tif
+    path: files/fc/ed/fcedf2798c0aa395c80374306b0fb1629059d121bbc73edbe0fa783091f459f5/original.tif
+    sha256: fcedf2798c0aa395c80374306b0fb1629059d121bbc73edbe0fa783091f459f5
+    mime: image/tiff
+    bytes: 2582421
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/fc/ed/fcedf2798c0aa395c80374306b0fb1629059d121bbc73edbe0fa783091f459f5/preview-400.9c9a8bdcad3f.jpg
+        sha256: 9c9a8bdcad3fedfbecf0089a1ad2e76fac24f9eedc39ec32f6aff32c44e3da48
+        mime: image/jpeg
+        bytes: 58221
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

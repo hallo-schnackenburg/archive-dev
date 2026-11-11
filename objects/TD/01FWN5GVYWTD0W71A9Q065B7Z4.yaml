@@ -1,0 +1,35 @@
+id: 01FWN5GVYWTD0W71A9Q065B7Z4
+type: image
+subtype: print
+title: Gruß aus Holtorf
+date: 1796-11
+location: Lanz, Marktstraße
+subjects:
+  - name: Einschulung 1796
+    type: event
+  - name: Fastnacht 1796
+    type: event
+  - name: Heinrich Plate
+    type: person
+parents:
+  - 01J61X90CH264SW24N35G33X0N
+files:
+  - role: main
+    original_name: scan_353.tif
+    path: files/25/13/2513f1e5783c3aa12f67a90fbb99b242ab996af219fb509bf427c756fcd49a66/original.tif
+    sha256: 2513f1e5783c3aa12f67a90fbb99b242ab996af219fb509bf427c756fcd49a66
+    mime: image/tiff
+    bytes: 10620806
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/25/13/2513f1e5783c3aa12f67a90fbb99b242ab996af219fb509bf427c756fcd49a66/preview-400.bddbe36a3c74.jpg
+        sha256: bddbe36a3c749959e0b39dd734c565c83a500d002068e0fc32fdce9f99da47df
+        mime: image/jpeg
+        bytes: 48978
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

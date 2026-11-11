@@ -1,0 +1,38 @@
+id: 01J8NFQ27TTJZP8JKW19PA45QH
+type: image
+subtype: photo
+title: Erntedankfest der Fußballverein
+date: 1926/1930
+location: Gartow, Gartenstraße
+geocode:
+  lat: 53.0982
+  lon: 11.6687
+  precision: exact
+  source: osm
+subjects:
+  - name: Erika Bruns
+    type: person
+  - name: Viehmarkt 1926
+    type: event
+  - name: Zadrau
+    type: place
+files:
+  - role: main
+    original_name: IMG_7206.jpg
+    path: files/53/df/53df37edffb22d35f04c01c54b2484ff69fd19b47be6c5908af09fe814ec6110/original.jpg
+    sha256: 53df37edffb22d35f04c01c54b2484ff69fd19b47be6c5908af09fe814ec6110
+    mime: image/jpeg
+    bytes: 18989352
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/53/df/53df37edffb22d35f04c01c54b2484ff69fd19b47be6c5908af09fe814ec6110/preview-400.0dc49947e4c2.jpg
+        sha256: 0dc49947e4c2a582e18a125cd6405276b92aa5c052185cf3e895906354f3e02e
+        mime: image/jpeg
+        bytes: 86981
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,46 @@
+id: 01HHQ089BAM27ZZZ4SE2D2MN77
+type: image
+subtype: photo
+title: Heuberge in Lüchow
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1919-07-19
+location: Zadrau, Elbstraße
+geocode:
+  lat: 52.9078
+  lon: 11.4757
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 20/243
+subjects:
+  - name: Walter Dreyer
+    type: person
+  - name: Frieda Wegner
+    type: person
+parents:
+  - 01JDP1HT97BVWFD5H634MRB0GA
+  - 01G9E0HEW5JYMGZH6NFA75XCR4
+files:
+  - role: main
+    original_name: IMG_7458.jpg
+    path: files/b6/6e/b66e5d6b5369b19382dd371c85964e5dbf7166b40af90bb10e44807e5d5fa173/original.jpg
+    sha256: b66e5d6b5369b19382dd371c85964e5dbf7166b40af90bb10e44807e5d5fa173
+    mime: image/jpeg
+    bytes: 25386300
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b6/6e/b66e5d6b5369b19382dd371c85964e5dbf7166b40af90bb10e44807e5d5fa173/preview-400.5c99c64e5244.jpg
+        sha256: 5c99c64e524434c5f6af729daad9fde71a51b012370d13f99cd1933cee5268af
+        mime: image/jpeg
+        bytes: 85361
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

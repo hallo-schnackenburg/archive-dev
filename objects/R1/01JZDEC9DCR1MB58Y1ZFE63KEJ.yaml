@@ -1,0 +1,36 @@
+id: 01JZDEC9DCR1MB58Y1ZFE63KEJ
+type: image
+subtype: plan
+title: Deichplan Gorleben bis Arendsee
+location: Dömitz, Fährstraße
+origin:
+  name: Marta Ahrens
+  type: person
+  location: Wootz
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Wassermühle
+    type: building
+  - name: Nienwalde
+    type: place
+files:
+  - role: main
+    original_name: scan_234.tif
+    path: files/18/14/18148c998c232a9f3bed05c329b47db98a8a149ba2923a19440164c51f8f2927/original.tif
+    sha256: 18148c998c232a9f3bed05c329b47db98a8a149ba2923a19440164c51f8f2927
+    mime: image/tiff
+    bytes: 18093814
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/18/14/18148c998c232a9f3bed05c329b47db98a8a149ba2923a19440164c51f8f2927/preview-400.1ccc22c75181.jpg
+        sha256: 1ccc22c75181c8008971c28497ae7fbcdf51618264f1ba02fe35a628528218fa
+        mime: image/jpeg
+        bytes: 23466
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

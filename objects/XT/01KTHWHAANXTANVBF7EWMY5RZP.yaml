@@ -1,0 +1,49 @@
+id: 01KTHWHAANXTANVBF7EWMY5RZP
+type: image
+subtype: plan
+title: Bauplan Bahnhof 1863
+description: Tusche auf Transparentpapier.
+date: 1863-07
+location: Bömenzien, Fähranleger
+geocode:
+  lat: 52.9246
+  lon: 11.5076
+  precision: street
+  source: osm
+origin:
+  name: Heinrich Lemke
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro/Mappe 29/031
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Rudolf Lemke
+    type: person
+parents:
+  - 01F5AE2XPF50SXP9GWBFQRZ78K
+files:
+  - role: main
+    original_name: scan_417.tif
+    path: files/fa/35/fa35c161a4466dc4fe10ec1a5a622e35c111559ab61d3f1d4e109bbf5e60a4cd/original.tif
+    sha256: fa35c161a4466dc4fe10ec1a5a622e35c111559ab61d3f1d4e109bbf5e60a4cd
+    mime: image/tiff
+    bytes: 25739300
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fa/35/fa35c161a4466dc4fe10ec1a5a622e35c111559ab61d3f1d4e109bbf5e60a4cd/preview-400.2e543c74339d.jpg
+        sha256: 2e543c74339d2b265fb6bf4a739c79c4975e1e4e661125a6678cbcfc8ad52bab
+        mime: image/jpeg
+        bytes: 27677
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

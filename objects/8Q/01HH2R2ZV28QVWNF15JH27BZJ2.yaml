@@ -1,0 +1,30 @@
+id: 01HH2R2ZV28QVWNF15JH27BZJ2
+type: image
+subtype: photo
+title: Hans Kuhlmann, Porträt
+location: Rüterberg, Dorfschule
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+files:
+  - role: main
+    original_name: IMG_3610.jpg
+    path: files/ef/1c/ef1cabd62ef0b6deb8511a8ad22f7bc44cea010c8a4d29dbddabe0920ea599f5/original.jpg
+    sha256: ef1cabd62ef0b6deb8511a8ad22f7bc44cea010c8a4d29dbddabe0920ea599f5
+    mime: image/jpeg
+    bytes: 7096975
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ef/1c/ef1cabd62ef0b6deb8511a8ad22f7bc44cea010c8a4d29dbddabe0920ea599f5/preview-400.3b3e4b882885.jpg
+        sha256: 3b3e4b88288555a933dc191e98e1e1fcebf4c3848699f294c03ac8eeccecf4f2
+        mime: image/jpeg
+        bytes: 44192
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

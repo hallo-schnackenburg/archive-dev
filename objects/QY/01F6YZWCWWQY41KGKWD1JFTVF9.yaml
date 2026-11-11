@@ -1,0 +1,60 @@
+id: 01F6YZWCWWQY41KGKWD1JFTVF9
+type: document
+subtype: letter
+title: Korrespondenz Käthe Albers
+date: 1879/1889
+location: Gülden, Gartenstraße
+origin:
+  name: Wilhelm Meyer
+  type: person
+  location: Salzwedel
+recipient: Erika Rohde
+language: de
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Gülden
+    type: place
+  - name: Osterfeuer 1879
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_jftvf9_001.tif
+    path: files/e0/96/e0964a8544736dc51bfdda260a1b38f10e2b8c2fa8ba657210639cc318d95f7e/original.tif
+    sha256: e0964a8544736dc51bfdda260a1b38f10e2b8c2fa8ba657210639cc318d95f7e
+    mime: image/tiff
+    bytes: 9422873
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e0/96/e0964a8544736dc51bfdda260a1b38f10e2b8c2fa8ba657210639cc318d95f7e/preview-400.4b8fb0f55fcb.jpg
+        sha256: 4b8fb0f55fcb083711f3b9ebf201fa2078f65bbf48826ba331b855abad13233a
+        mime: image/jpeg
+        bytes: 36573
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_jftvf9_002.tif
+    path: files/2b/07/2b07952c730559894262c804859ae871623b85a85f5d55c8b7798fffdb414f1a/original.tif
+    sha256: 2b07952c730559894262c804859ae871623b85a85f5d55c8b7798fffdb414f1a
+    mime: image/tiff
+    bytes: 6534637
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2b/07/2b07952c730559894262c804859ae871623b85a85f5d55c8b7798fffdb414f1a/preview-400.dd1ff24df0f1.jpg
+        sha256: dd1ff24df0f18eac11db19366367bbf8690b30f0e4100ccdac91d734e6f59dbe
+        mime: image/jpeg
+        bytes: 73503
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

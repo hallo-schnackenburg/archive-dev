@@ -1,0 +1,38 @@
+id: 01JN8RVFAMFNQ1AQ05SWERT4YN
+type: image
+subtype: print
+title: Ansichtskarte Schulstraße, Schnackenburg
+description: Postkarte, gelaufen 1922.
+date: 1785?
+origin:
+  name: Hermann Bohlmann
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Bahnhof
+    type: building
+parents:
+  - 01KV80DFXW7572XGFSJ9A620CH
+  - 01KSQSSGDYWJ8WM96BXT4QY5Z0
+files:
+  - role: main
+    original_name: scan_854.tif
+    path: files/bc/93/bc93ecf99590048aafb9105d5b493c1cfa7ee4a61788adafef62efde6ed8e2a6/original.tif
+    sha256: bc93ecf99590048aafb9105d5b493c1cfa7ee4a61788adafef62efde6ed8e2a6
+    mime: image/tiff
+    bytes: 2862162
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bc/93/bc93ecf99590048aafb9105d5b493c1cfa7ee4a61788adafef62efde6ed8e2a6/preview-400.e7c60c8ab94d.jpg
+        sha256: e7c60c8ab94d56f1a838229e615f0b56c00459be9e0625b6c44f41830a688109
+        mime: image/jpeg
+        bytes: 57007
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

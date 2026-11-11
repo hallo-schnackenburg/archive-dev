@@ -1,0 +1,37 @@
+id: 01F2NMM2J2GC1EV19STWY5BN2Z
+type: image
+subtype: print
+title: Lithographie Storchennest, Holtorf
+date: 1952-04-06
+location: Arendsee, Pumpenhaus
+origin:
+  name: Heinrich Kuhlmann
+  type: person
+  location: Havelberg
+subjects:
+  - name: Rathaus
+    type: building
+  - name: Kapern
+    type: place
+  - name: Erntedankfest 1952
+    type: event
+files:
+  - role: main
+    original_name: scan_865.tif
+    path: files/98/ca/98ca4fc0c4918f59e8d06c48a8aa3949ad5cc6ed40d6fbdb268c44185a09bf6f/original.tif
+    sha256: 98ca4fc0c4918f59e8d06c48a8aa3949ad5cc6ed40d6fbdb268c44185a09bf6f
+    mime: image/tiff
+    bytes: 4149259
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/98/ca/98ca4fc0c4918f59e8d06c48a8aa3949ad5cc6ed40d6fbdb268c44185a09bf6f/preview-400.691212528b1f.jpg
+        sha256: 691212528b1f665be8687410157fb24b88db10e51e23fadfc18840fc9501d8e0
+        mime: image/jpeg
+        bytes: 68238
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

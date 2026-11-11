@@ -1,0 +1,35 @@
+id: 01JRWY3GDHVNP7MAS6B8VHE91S
+type: image
+subtype: drawing
+title: Skizze Zadrau, Lange Straße
+description: Federzeichnung, laviert.
+date: 1946-12-22
+origin:
+  name: Erika Ahrens
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Hafen
+    type: building
+  - name: Bahnhof
+    type: building
+files:
+  - role: main
+    original_name: scan_882.tif
+    path: files/d5/f6/d5f6cc7ef51f8f53c586ea061b1cc8bbde44def652ca3aa2e1edbcf6296d07d2/original.tif
+    sha256: d5f6cc7ef51f8f53c586ea061b1cc8bbde44def652ca3aa2e1edbcf6296d07d2
+    mime: image/tiff
+    bytes: 15711497
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d5/f6/d5f6cc7ef51f8f53c586ea061b1cc8bbde44def652ca3aa2e1edbcf6296d07d2/preview-400.6d35d114f9f2.jpg
+        sha256: 6d35d114f9f207a55d1892483e53a7bf6e056861a6044de4968d601e2057086f
+        mime: image/jpeg
+        bytes: 82520
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01K5BJ695820PKN35H69P64FCT
+type: image
+subtype: photo
+title: Rathaus in Wittenberge
+description: Zu sehen sind Elbdeich und Torhaus.
+date: 1981-09
+location: Lanz, Pumpenhaus
+geocode:
+  lat: 53.0727
+  lon: 11.4555
+  precision: town
+  source: osm
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+files:
+  - role: main
+    original_name: DSC6303.jpg
+    path: files/6c/1c/6c1ca2003b8402698461f53ca24b610b13a180061f56a82d4d34d7b553215406/original.jpg
+    sha256: 6c1ca2003b8402698461f53ca24b610b13a180061f56a82d4d34d7b553215406
+    mime: image/jpeg
+    bytes: 14719734
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/6c/1c/6c1ca2003b8402698461f53ca24b610b13a180061f56a82d4d34d7b553215406/preview-400.6b3260e7fc01.jpg
+        sha256: 6b3260e7fc019408075b186a9880f34f2e904e3388bc1d96a9b1a35dc5124c87
+        mime: image/jpeg
+        bytes: 70661
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

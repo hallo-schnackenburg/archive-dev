@@ -1,0 +1,38 @@
+id: 01GSRF25C0KN8S0T6YV00NWW75
+type: image
+subtype: photo
+title: Sportplatz in Wootz
+description: Zu sehen sind Backhaus und Tanzsaal.
+date: "1892"
+location: Bömenzien, Kirchstraße
+geocode:
+  lat: 53.0064
+  lon: 11.6148
+  precision: town
+  source: osm
+origin:
+  name: Paul Wegner
+  type: person
+  location: Lenzen
+parents:
+  - 01GV9GBAAY8D1BK0CQF82R0YYD
+files:
+  - role: main
+    original_name: scan_189.tif
+    path: files/df/f8/dff85c11cd65bf115f2b65d102b10fa29e445872afddf3d5eb65d7d4f14387d9/original.tif
+    sha256: dff85c11cd65bf115f2b65d102b10fa29e445872afddf3d5eb65d7d4f14387d9
+    mime: image/tiff
+    bytes: 18084523
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/df/f8/dff85c11cd65bf115f2b65d102b10fa29e445872afddf3d5eb65d7d4f14387d9/preview-400.b5b40d86cb85.jpg
+        sha256: b5b40d86cb85e253a629cf4ea12472e71333155949bc052c6ccc3944fadaeea2
+        mime: image/jpeg
+        bytes: 73044
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

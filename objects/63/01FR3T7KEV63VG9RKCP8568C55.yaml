@@ -1,0 +1,36 @@
+id: 01FR3T7KEV63VG9RKCP8568C55
+type: image
+subtype: print
+title: Ansichtskarte Deichstraße
+description: Kupferstich, koloriert.
+date: 1876-10-09
+location: Gorleben, Backhaus
+origin:
+  name: Rudolf Ahrens
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Ortsbesichtigung 1876
+    type: event
+files:
+  - role: main
+    original_name: scan_787.tif
+    path: files/52/4d/524d39a755557f67ec2ff6d92664ab3e502a9fca2ad1d53234dddf0ce330ff18/original.tif
+    sha256: 524d39a755557f67ec2ff6d92664ab3e502a9fca2ad1d53234dddf0ce330ff18
+    mime: image/tiff
+    bytes: 19653982
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/4d/524d39a755557f67ec2ff6d92664ab3e502a9fca2ad1d53234dddf0ce330ff18/preview-400.cfe7f5093af1.jpg
+        sha256: cfe7f5093af1501602d93764b4f6306eb3a2bc6a10a2295c6d7b6e4b1508308f
+        mime: image/jpeg
+        bytes: 45114
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01GPXRR7H12ER21C4GGXNEVT39
+type: image
+subtype: plan
+title: Bauplan Badestelle 1988
+date: 1988-11
+location: Kapern, Mühlenweg
+origin:
+  name: Dieter Wegner
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 5/147
+files:
+  - role: main
+    original_name: scan_829.tif
+    path: files/b3/89/b389ac63864f576401a55b100cd4bab5f4426970cc286cc349d46ac094b26711/original.tif
+    sha256: b389ac63864f576401a55b100cd4bab5f4426970cc286cc349d46ac094b26711
+    mime: image/tiff
+    bytes: 8054620
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b3/89/b389ac63864f576401a55b100cd4bab5f4426970cc286cc349d46ac094b26711/preview-400.059d3ebee1da.jpg
+        sha256: 059d3ebee1da3b8a1c90063cbb556f96e44e7ae30f14795073ad20eed04e2160
+        mime: image/jpeg
+        bytes: 44546
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

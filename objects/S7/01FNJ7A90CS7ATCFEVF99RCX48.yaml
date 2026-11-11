@@ -1,0 +1,42 @@
+id: 01FNJ7A90CS7ATCFEVF99RCX48
+type: image
+subtype: print
+title: Postkarte Holtorf, Speicher
+date: 1731-02-24
+location: Rüterberg, Hafenstraße
+geocode:
+  lat: 52.9005
+  lon: 11.4555
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 38/354
+subjects:
+  - name: Zadrau
+    type: place
+parents:
+  - 01GHB8CACBDV42F0VWCD6Z5CC1
+files:
+  - role: main
+    original_name: scan_937.tif
+    path: files/c9/94/c9943e3f667571c72efffb5681784849a77afd035beb93b090892fdca2b90bac/original.tif
+    sha256: c9943e3f667571c72efffb5681784849a77afd035beb93b090892fdca2b90bac
+    mime: image/tiff
+    bytes: 1081899
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c9/94/c9943e3f667571c72efffb5681784849a77afd035beb93b090892fdca2b90bac/preview-400.82821ed6a317.jpg
+        sha256: 82821ed6a3171136ca819564309944722ccd541ac25ccc0c113243efa6c0d344
+        mime: image/jpeg
+        bytes: 53554
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

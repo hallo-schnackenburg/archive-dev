@@ -1,0 +1,30 @@
+id: 01G2FJTPRVSK2GF1E78FKE25SA
+type: image
+subtype: plan
+title: Bauplan Gemeindehaus 1988
+description: Tusche auf Transparentpapier.
+date: 1988-11-20
+origin:
+  name: Ingrid Wiegmann
+  type: person
+  location: Nienwalde
+files:
+  - role: main
+    original_name: scan_779.tif
+    path: files/ce/76/ce76ef6efb73c5c544816e1ec2ae3b7856afab2e827010d236985310fc8e2d38/original.tif
+    sha256: ce76ef6efb73c5c544816e1ec2ae3b7856afab2e827010d236985310fc8e2d38
+    mime: image/tiff
+    bytes: 1402849
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ce/76/ce76ef6efb73c5c544816e1ec2ae3b7856afab2e827010d236985310fc8e2d38/preview-400.01198b7f6eab.jpg
+        sha256: 01198b7f6eab8e1a5a5fd5db7b7d3ff3ca6c044b66bdd6a98f02df848cb8caa3
+        mime: image/jpeg
+        bytes: 70922
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

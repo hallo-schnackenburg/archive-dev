@@ -1,0 +1,39 @@
+id: 01EXHED86BQ1MDGSQV0DRY4N53
+type: image
+subtype: print
+title: Lithographie Kriegerdenkmal
+date: 1824-11-21
+location: Restorf, Burgstraße
+origin:
+  name: Karl Lemke
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 9/059
+  note: Regal 1
+parents:
+  - 01JRGX3XFSMSVNN02PC0NNSHZP
+files:
+  - role: main
+    original_name: scan_919.tif
+    path: files/45/4b/454bb582d6d3e177f88551e29f0f3646ab6f1caaed66b756cd02cb930787c526/original.tif
+    sha256: 454bb582d6d3e177f88551e29f0f3646ab6f1caaed66b756cd02cb930787c526
+    mime: image/tiff
+    bytes: 5670106
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/45/4b/454bb582d6d3e177f88551e29f0f3646ab6f1caaed66b756cd02cb930787c526/preview-400.5978ecd4161e.jpg
+        sha256: 5978ecd4161e4ae81cbb80287c169e481aa6313e41c987be34851771c3ca8164
+        mime: image/jpeg
+        bytes: 30699
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

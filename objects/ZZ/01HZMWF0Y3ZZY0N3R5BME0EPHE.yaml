@@ -1,0 +1,65 @@
+id: 01HZMWF0Y3ZZY0N3R5BME0EPHE
+type: document
+subtype: note
+title: Quittung für Marta Ahrens
+date: 1999-02-13
+location: Gülden, Kirchstraße
+origin:
+  name: Paul Behrens
+  type: person
+  location: Rüterberg
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4042
+subjects:
+  - name: Bömenzien
+    type: place
+  - name: Seedorf
+    type: place
+parents:
+  - 01FAPPTV88463SW7X0F9PVBNY3
+files:
+  - role: page
+    num: 1
+    original_name: note_e0ephe_001.tif
+    path: files/bc/f8/bcf8f7c76ac328d113cf225311e16de6c1b4e7d1a81a1794da108c18c8c80419/original.tif
+    sha256: bcf8f7c76ac328d113cf225311e16de6c1b4e7d1a81a1794da108c18c8c80419
+    mime: image/tiff
+    bytes: 11007361
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bc/f8/bcf8f7c76ac328d113cf225311e16de6c1b4e7d1a81a1794da108c18c8c80419/preview-400.1f29398de028.jpg
+        sha256: 1f29398de028a3939bd484b1bef89564b75224dbd9e78cb7a348defda294b744
+        mime: image/jpeg
+        bytes: 86014
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_e0ephe_002.tif
+    path: files/e1/27/e1272d6bf6c4062624e425bd5da17f6d040ccd4dbd4d8da2ca1be86f5d08a6fa/original.tif
+    sha256: e1272d6bf6c4062624e425bd5da17f6d040ccd4dbd4d8da2ca1be86f5d08a6fa
+    mime: image/tiff
+    bytes: 14825356
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e1/27/e1272d6bf6c4062624e425bd5da17f6d040ccd4dbd4d8da2ca1be86f5d08a6fa/preview-400.173e03cc2cf4.jpg
+        sha256: 173e03cc2cf4204dde3b46d470ad98c8c12d0889ec7390296137c495221a9846
+        mime: image/jpeg
+        bytes: 67512
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01GHDVXX98SMKDPH0AZWRQWGJ2
+type: image
+subtype: plan
+title: Grundriss Wassermühle
+date: 1814-08-13
+location: Zadrau, Bahnhofstraße
+origin:
+  name: Erika Jeß
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Badestelle
+    type: building
+parents:
+  - 01J8GJHXRZG3WKWHP1C2HPX9G9
+  - 01K839EZHAYF5H4HB4TXJTTJWF
+files:
+  - role: main
+    original_name: scan_309.tif
+    path: files/ec/bb/ecbbbca1fbe1e4b1eed24af1696b99ee5026afaeab4e6bd586f19a3c0d003737/original.tif
+    sha256: ecbbbca1fbe1e4b1eed24af1696b99ee5026afaeab4e6bd586f19a3c0d003737
+    mime: image/tiff
+    bytes: 11819548
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ec/bb/ecbbbca1fbe1e4b1eed24af1696b99ee5026afaeab4e6bd586f19a3c0d003737/preview-400.25f658272f1e.jpg
+        sha256: 25f658272f1e7a802207077978bbd8eced15a318e9a65d6118b7d831352222d3
+        mime: image/jpeg
+        bytes: 31419
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01EYETPVH2M9BT4P88Z34S0R1X
+type: image
+subtype: photo
+title: Klaus Pape, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1951-02-25
+origin:
+  name: Karl Lemke
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Feuerwehrübung 1951
+    type: event
+  - name: Helga Schulz
+    type: person
+files:
+  - role: main
+    original_name: DSC4382.jpg
+    path: files/5e/17/5e17871cc19ae685235ccb07927bfe25a058bc2a283afc7a5fb57015f0025dcd/original.jpg
+    sha256: 5e17871cc19ae685235ccb07927bfe25a058bc2a283afc7a5fb57015f0025dcd
+    mime: image/jpeg
+    bytes: 12005963
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/5e/17/5e17871cc19ae685235ccb07927bfe25a058bc2a283afc7a5fb57015f0025dcd/preview-400.349f769f9575.jpg
+        sha256: 349f769f9575a4dc0791ac2bdf368143b258b591671dc10f6ad5e0290b5c4b0a
+        mime: image/jpeg
+        bytes: 26361
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

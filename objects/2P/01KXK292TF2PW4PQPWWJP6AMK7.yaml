@@ -1,0 +1,61 @@
+id: 01KXK292TF2PW4PQPWWJP6AMK7
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Jugendfeuerwehr 1930
+description: Handschriftlich in Sütterlin.
+date: 1930-11-10
+location: Nienwalde, Pfarrhaus
+language: de
+original:
+  holder:
+    name: Familie Wöhlk
+    type: person
+    location: Schnackenburg
+  reference: Slg 15/007
+  note: Planschrank, Fach 3
+subjects:
+  - name: Beerdigung 1930
+    type: event
+  - name: Försterei
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: protocol_p6amk7_001.tif
+    path: files/14/7a/147a4aaaaf81619afb275b0d9a02d465b9538bfa442e3489ecee7443361fb700/original.tif
+    sha256: 147a4aaaaf81619afb275b0d9a02d465b9538bfa442e3489ecee7443361fb700
+    mime: image/tiff
+    bytes: 14003908
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/7a/147a4aaaaf81619afb275b0d9a02d465b9538bfa442e3489ecee7443361fb700/preview-400.e674ff973db7.jpg
+        sha256: e674ff973db726713ee7ca2f8ba46ba078a2a8e02924aceb93c056aa97160a8d
+        mime: image/jpeg
+        bytes: 81023
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_p6amk7_002.tif
+    path: files/fa/f2/faf219ca676ce1e7fb6a6b791fb0486dd69bcf01b8828a941a14839f536b8966/original.tif
+    sha256: faf219ca676ce1e7fb6a6b791fb0486dd69bcf01b8828a941a14839f536b8966
+    mime: image/tiff
+    bytes: 23333391
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fa/f2/faf219ca676ce1e7fb6a6b791fb0486dd69bcf01b8828a941a14839f536b8966/preview-400.6752ed22a031.jpg
+        sha256: 6752ed22a031ad442c325408fb3afd36d878b87dadf397d391fc45a42f47e2ef
+        mime: image/jpeg
+        bytes: 40273
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

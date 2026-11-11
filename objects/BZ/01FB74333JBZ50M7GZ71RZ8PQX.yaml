@@ -1,0 +1,39 @@
+id: 01FB74333JBZ50M7GZ71RZ8PQX
+type: image
+subtype: plan
+title: Lageplan Schmiede, Lanz
+description: Mit handschriftlichen Ergänzungen.
+date: 1789/1800
+location: Nienwalde, Fachwerkhaus Marktstraße 4
+geocode:
+  lat: 52.9753
+  lon: 11.5958
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Meyer
+  type: person
+  location: Kapern
+subjects:
+  - name: Ortsbesichtigung 1789
+    type: event
+files:
+  - role: main
+    original_name: scan_785.tif
+    path: files/c8/2d/c82df0cf3aaaa19741ac80ac63233c0769e9e087fde5c93da0acd1837b3145e3/original.tif
+    sha256: c82df0cf3aaaa19741ac80ac63233c0769e9e087fde5c93da0acd1837b3145e3
+    mime: image/tiff
+    bytes: 24212207
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/2d/c82df0cf3aaaa19741ac80ac63233c0769e9e087fde5c93da0acd1837b3145e3/preview-400.82b8f6ef94ff.jpg
+        sha256: 82b8f6ef94ff26769e8ac3d9d62823cb838fc5dc1b0845efe9700063d247dccf
+        mime: image/jpeg
+        bytes: 44545
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

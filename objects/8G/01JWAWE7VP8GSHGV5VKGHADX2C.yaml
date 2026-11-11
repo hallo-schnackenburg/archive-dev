@@ -1,0 +1,39 @@
+id: 01JWAWE7VP8GSHGV5VKGHADX2C
+type: image
+subtype: print
+title: Gruß aus Restorf
+description: Lithographie, Rand beschnitten.
+date: 1712/1717
+location: Holtorf, Elbstraße
+geocode:
+  lat: 52.9736
+  lon: 11.5503
+  precision: region
+  source: osm
+origin:
+  name: Erika Schulz
+  type: person
+  location: Kapern
+subjects:
+  - name: Walter Ahrens
+    type: person
+files:
+  - role: main
+    original_name: scan_623.tif
+    path: files/7c/f8/7cf8fa82723122f927dce8bb29bdd0d8169221964ee440172a8e89de6a9a2faa/original.tif
+    sha256: 7cf8fa82723122f927dce8bb29bdd0d8169221964ee440172a8e89de6a9a2faa
+    mime: image/tiff
+    bytes: 23955952
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7c/f8/7cf8fa82723122f927dce8bb29bdd0d8169221964ee440172a8e89de6a9a2faa/preview-400.11dcff46da9d.jpg
+        sha256: 11dcff46da9da68ae711f6ca57b24486ef4fa9ae43294e9b6bd2f67c1a1c6e75
+        mime: image/jpeg
+        bytes: 70128
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

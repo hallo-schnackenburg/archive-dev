@@ -1,0 +1,38 @@
+id: 01FB2PQE2H2H5H4JSRWGKDG2RV
+type: image
+subtype: print
+title: Postkarte Lenzen, Molkerei
+date: 1800-07-13
+location: Gülden, Burgstraße
+geocode:
+  lat: 52.9813
+  lon: 11.533
+  precision: street
+  source: osm
+origin:
+  name: Dieter Schulz
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Marta Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_985.tif
+    path: files/3b/af/3bafec9d5d4b8846459352535e48a0c8f9c9c933683e4159cedaf052f319c090/original.tif
+    sha256: 3bafec9d5d4b8846459352535e48a0c8f9c9c933683e4159cedaf052f319c090
+    mime: image/tiff
+    bytes: 17782645
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/3b/af/3bafec9d5d4b8846459352535e48a0c8f9c9c933683e4159cedaf052f319c090/preview-400.88a5beb35781.jpg
+        sha256: 88a5beb35781451f0905a5d8bf912d0c12b6985561f5f7e178e29a556546b703
+        mime: image/jpeg
+        bytes: 57485
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

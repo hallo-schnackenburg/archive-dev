@@ -1,0 +1,42 @@
+id: 01K307R5SS1TSRYBPW9Q4MEQ68
+type: image
+subtype: plan
+title: Lageplan Sportplatz
+date: "1810"
+location: Hitzacker, Pfarrhaus
+geocode:
+  lat: 52.9206
+  lon: 11.4842
+  precision: town
+  source: osm
+origin:
+  name: Brigitte Lüders
+  type: person
+  location: Dömitz
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Lenzen
+    type: place
+  - name: Wilhelm Ahrens
+    type: person
+files:
+  - role: main
+    original_name: scan_511.tif
+    path: files/97/2e/972e7f66da848ec6dd4987fc321e29a25e2b07c60cc582b6da96d98e0c5dc0d3/original.tif
+    sha256: 972e7f66da848ec6dd4987fc321e29a25e2b07c60cc582b6da96d98e0c5dc0d3
+    mime: image/tiff
+    bytes: 5972956
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/97/2e/972e7f66da848ec6dd4987fc321e29a25e2b07c60cc582b6da96d98e0c5dc0d3/preview-400.227bae3bd53a.jpg
+        sha256: 227bae3bd53aceb0859bf4ab25fd14a3fec1e48ab570fd0c9c506e3edb135b91
+        mime: image/jpeg
+        bytes: 69312
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

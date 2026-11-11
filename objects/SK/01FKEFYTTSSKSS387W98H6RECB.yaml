@@ -1,0 +1,60 @@
+id: 01FKEFYTTSSKSS387W98H6RECB
+type: document
+subtype: note
+title: Kassenzettel Försterei, Brünkendorf
+date: 1901~
+location: Wustrow, Kirchstraße
+geocode:
+  lat: 53.0637
+  lon: 11.4886
+  precision: region
+  source: osm
+language: de
+subjects:
+  - name: Maifeier 1901
+    type: event
+  - name: Berta Meyer
+    type: person
+parents:
+  - 01J3V1AMRN38DQVKPXPMF1EE94
+files:
+  - role: page
+    num: 1
+    original_name: note_h6recb_001.tif
+    path: files/bc/72/bc72d0d28d8a925065c73ae0ae02ef4cddcd97d1056e34eae47493bc5e06a08b/original.tif
+    sha256: bc72d0d28d8a925065c73ae0ae02ef4cddcd97d1056e34eae47493bc5e06a08b
+    mime: image/tiff
+    bytes: 17602306
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bc/72/bc72d0d28d8a925065c73ae0ae02ef4cddcd97d1056e34eae47493bc5e06a08b/preview-400.1b185c17881f.jpg
+        sha256: 1b185c17881ffdd6df91c02807d8f433ce1fe881a7936c945031f5fc74d91e0e
+        mime: image/jpeg
+        bytes: 76405
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_h6recb_002.tif
+    path: files/12/85/12857ba0f1187410990eca197218ec0e7217621ab3df87deb9ca9ef53b138284/original.tif
+    sha256: 12857ba0f1187410990eca197218ec0e7217621ab3df87deb9ca9ef53b138284
+    mime: image/tiff
+    bytes: 24970946
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/12/85/12857ba0f1187410990eca197218ec0e7217621ab3df87deb9ca9ef53b138284/preview-400.a8e38ad3d341.jpg
+        sha256: a8e38ad3d341f599576097452086b13859b0e888620bc1f9fc7c11560bb61a09
+        mime: image/jpeg
+        bytes: 79619
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

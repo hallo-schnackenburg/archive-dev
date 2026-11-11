@@ -1,0 +1,43 @@
+id: 01HWJCY1546T4DXCYDEK5T4DDM
+type: image
+subtype: photo
+title: Erika Schwarz, Porträt
+date: 1982-11-15
+location: Rüterberg, Elbstraße
+geocode:
+  lat: 52.9908
+  lon: 11.5078
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Dierks
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok 18/025
+parents:
+  - 01KKPAYKN3WWQ9TTHPWVZWVHF9
+files:
+  - role: main
+    original_name: foto_8547.jpg
+    path: files/c9/c0/c9c08653c7c76f503ab89aced34e66e5d8626153c47c5b607743b7ad33c64419/original.jpg
+    sha256: c9c08653c7c76f503ab89aced34e66e5d8626153c47c5b607743b7ad33c64419
+    mime: image/jpeg
+    bytes: 23534198
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/c9/c0/c9c08653c7c76f503ab89aced34e66e5d8626153c47c5b607743b7ad33c64419/preview-400.9fca5ff9cb40.jpg
+        sha256: 9fca5ff9cb4016e15177ad97ddda9744c653a25d685942ea7e0d29d5c2a411f2
+        mime: image/jpeg
+        bytes: 20102
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

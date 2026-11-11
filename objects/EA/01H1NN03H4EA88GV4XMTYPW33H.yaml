@@ -1,0 +1,67 @@
+id: 01H1NN03H4EA88GV4XMTYPW33H
+type: document
+subtype: letter
+title: Korrespondenz Gerda Voss
+date: 1987?
+location: Rüterberg, Grenzturm
+geocode:
+  lat: 53.0148
+  lon: 11.5554
+  precision: street
+  source: osm
+recipient: Berta Voss
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro/Mappe 9/016
+subjects:
+  - name: Fährjubiläum 1987
+    type: event
+  - name: Cumlosen
+    type: place
+  - name: Dieter Krüger
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_ypw33h_001.tif
+    path: files/79/36/7936f55dcaa2530ecc8de8b98a9bff6fed2f1f97ec96e9dfe7499931b0c4e9c0/original.tif
+    sha256: 7936f55dcaa2530ecc8de8b98a9bff6fed2f1f97ec96e9dfe7499931b0c4e9c0
+    mime: image/tiff
+    bytes: 23755756
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/79/36/7936f55dcaa2530ecc8de8b98a9bff6fed2f1f97ec96e9dfe7499931b0c4e9c0/preview-400.a6e6e290fef3.jpg
+        sha256: a6e6e290fef37b866c751ef75e5cee6db071b3fa1405ba93ee1a0b37abd9e89c
+        mime: image/jpeg
+        bytes: 67187
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_ypw33h_002.tif
+    path: files/aa/38/aa38f5b1eff9a5dd52d5e04152a9cbe8289621f91c784f514297d156937aca70/original.tif
+    sha256: aa38f5b1eff9a5dd52d5e04152a9cbe8289621f91c784f514297d156937aca70
+    mime: image/tiff
+    bytes: 7052269
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/aa/38/aa38f5b1eff9a5dd52d5e04152a9cbe8289621f91c784f514297d156937aca70/preview-400.9c0c901361a6.jpg
+        sha256: 9c0c901361a64e9ef711480072f7fe73f98938ff76a8c5611179c7b647f08e5f
+        mime: image/jpeg
+        bytes: 83815
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

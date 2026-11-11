@@ -1,0 +1,35 @@
+id: 01HG2SCTVRF6QXZA3BQ2NX2J14
+type: image
+subtype: photo
+title: Weihnachtsmarkt 1974
+description: Zu sehen sind Gasthof „Zur Elbe“ und Gasthof Meyer.
+date: "1974"
+subjects:
+  - name: Karl Rieke
+    type: person
+  - name: Schnackenburg
+    type: place
+  - name: Otto Ahrens
+    type: person
+parents:
+  - 01GAAM9QQBSTH4BDGRFAZTAR7N
+files:
+  - role: main
+    original_name: scan_591.tif
+    path: files/dc/99/dc994034a2ebd9a1a0525b7e0acdda730117a0a06d5a6b386014036b714e142e/original.tif
+    sha256: dc994034a2ebd9a1a0525b7e0acdda730117a0a06d5a6b386014036b714e142e
+    mime: image/tiff
+    bytes: 4894207
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/99/dc994034a2ebd9a1a0525b7e0acdda730117a0a06d5a6b386014036b714e142e/preview-400.bca074a22fe2.jpg
+        sha256: bca074a22fe29ff1b3b8c57bb927fddf4c413a0607a2632769b944709a6ed485
+        mime: image/jpeg
+        bytes: 52882
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

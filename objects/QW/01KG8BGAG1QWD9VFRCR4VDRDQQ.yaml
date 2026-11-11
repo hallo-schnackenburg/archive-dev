@@ -1,0 +1,38 @@
+id: 01KG8BGAG1QWD9VFRCR4VDRDQQ
+type: image
+subtype: print
+title: Postkarte Wustrow, Hafen
+date: 1754-04-14
+origin:
+  name: Dieter Lüders
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Karl Brandt
+    type: person
+  - name: Frieda Rieke
+    type: person
+parents:
+  - 01GEXDCNJFMMX07WG8TNDMERGT
+files:
+  - role: main
+    original_name: scan_347.tif
+    path: files/db/44/db44ef09d973457bd60a460aa860b6507fe383f0f5250276249cd25aa6e6282c/original.tif
+    sha256: db44ef09d973457bd60a460aa860b6507fe383f0f5250276249cd25aa6e6282c
+    mime: image/tiff
+    bytes: 1980085
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/44/db44ef09d973457bd60a460aa860b6507fe383f0f5250276249cd25aa6e6282c/preview-400.53dea3e2e6c4.jpg
+        sha256: 53dea3e2e6c4fc8926bc1746464b79cb487113be8b606251672da6d8bb6ebf89
+        mime: image/jpeg
+        bytes: 55205
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

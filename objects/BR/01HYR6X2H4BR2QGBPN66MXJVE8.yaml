@@ -1,0 +1,45 @@
+id: 01HYR6X2H4BR2QGBPN66MXJVE8
+type: image
+subtype: photo
+title: Kartoffelernte 1905
+description: Zu sehen sind Schlachterei und Torhaus.
+date: 1905-10
+location: Restorf, Schützenhaus
+geocode:
+  lat: 53.0734
+  lon: 11.5823
+  precision: street
+  source: osm
+origin:
+  name: Otto Schulz
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Ingrid Schwarz
+    type: person
+  - name: Kartoffelernte 1905
+    type: event
+  - name: Wustrow
+    type: place
+parents:
+  - 01M1YR053NPJBEH3Y4WNQMC2X8
+files:
+  - role: main
+    original_name: DSC4502.jpg
+    path: files/0f/6c/0f6ce5945f95d55a3cb82b786ce80552f5ff6b3613d85f8cb8f2e7b50fec430c/original.jpg
+    sha256: 0f6ce5945f95d55a3cb82b786ce80552f5ff6b3613d85f8cb8f2e7b50fec430c
+    mime: image/jpeg
+    bytes: 15188500
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0f/6c/0f6ce5945f95d55a3cb82b786ce80552f5ff6b3613d85f8cb8f2e7b50fec430c/preview-400.791cf4d6cfb4.jpg
+        sha256: 791cf4d6cfb45d8d09eddc70b0576d911e807b3e411ebd113c6a435206b7c595
+        mime: image/jpeg
+        bytes: 46363
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

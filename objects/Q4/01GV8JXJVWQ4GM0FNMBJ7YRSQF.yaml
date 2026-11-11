@@ -1,0 +1,49 @@
+id: 01GV8JXJVWQ4GM0FNMBJ7YRSQF
+type: image
+subtype: photo
+title: Blick vom Schmiede auf das Bäckerei Lüders
+description: Aufnahme von Karl Krüger.
+date: 1965-09-16
+location: Restorf, Bahnhofstraße
+geocode:
+  lat: 52.9363
+  lon: 11.6122
+  precision: exact
+  source: osm
+origin:
+  name: Wilhelm Gaede
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Kasten 1/072
+subjects:
+  - name: Kirmes 1965
+    type: event
+  - name: Konfirmation 1965
+    type: event
+parents:
+  - 01KDD6TJHRWYW5BFBZ7TKQREBJ
+files:
+  - role: main
+    original_name: IMG_0926.jpg
+    path: files/55/52/5552e7b1361a80894ca275bec7e250daba8e9ac5652cc669100bac271b6a296d/original.jpg
+    sha256: 5552e7b1361a80894ca275bec7e250daba8e9ac5652cc669100bac271b6a296d
+    mime: image/jpeg
+    bytes: 11005359
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/55/52/5552e7b1361a80894ca275bec7e250daba8e9ac5652cc669100bac271b6a296d/preview-400.437e7018b962.jpg
+        sha256: 437e7018b962c9adbe6c50f73fc643cd47dcf66416c2ea30040167b08c099a86
+        mime: image/jpeg
+        bytes: 65682
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

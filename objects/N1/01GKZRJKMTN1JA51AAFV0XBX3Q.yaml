@@ -1,0 +1,36 @@
+id: 01GKZRJKMTN1JA51AAFV0XBX3Q
+type: image
+subtype: drawing
+title: Federzeichnung Kirche St. Johannis
+description: Federzeichnung, laviert.
+date: 1950-04
+location: Rüterberg, Tanzsaal
+origin:
+  name: Gerda Rohde
+  type: person
+  location: Lüchow
+subjects:
+  - name: Karl Meyer
+    type: person
+parents:
+  - 01FKBD4BVD847YBHNZE34X0MBM
+files:
+  - role: main
+    original_name: scan_951.tif
+    path: files/1a/34/1a34d190db9f547009cf7aae90a2a17c14037f9ce93cc9db587b013f534a2466/original.tif
+    sha256: 1a34d190db9f547009cf7aae90a2a17c14037f9ce93cc9db587b013f534a2466
+    mime: image/tiff
+    bytes: 25586461
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1a/34/1a34d190db9f547009cf7aae90a2a17c14037f9ce93cc9db587b013f534a2466/preview-400.d14d535034c9.jpg
+        sha256: d14d535034c9d0208c3fa44868523183d5a9ac2b5d5a32fe824189191d0354e7
+        mime: image/jpeg
+        bytes: 80479
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

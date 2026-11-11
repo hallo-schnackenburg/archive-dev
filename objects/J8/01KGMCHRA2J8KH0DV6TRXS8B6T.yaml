@@ -1,0 +1,42 @@
+id: 01KGMCHRA2J8KH0DV6TRXS8B6T
+type: document
+subtype: note
+title: Quittung für Hermann Voss
+date: 1950-07-27
+location: Seedorf, Schulstraße
+geocode:
+  lat: 52.9102
+  lon: 11.4515
+  precision: exact
+  source: osm
+language: de
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Gutshaus
+    type: building
+  - name: Günter Behrens
+    type: person
+parents:
+  - 01KD000830AWSSZZ7WT8DANPRF
+files:
+  - role: page
+    num: 1
+    original_name: note_xs8b6t_001.tif
+    path: files/b5/9d/b59d99cb4e4cf9484f075bb00a64f5a5c75bc422e2edd17f07d5b1b31856fcb7/original.tif
+    sha256: b59d99cb4e4cf9484f075bb00a64f5a5c75bc422e2edd17f07d5b1b31856fcb7
+    mime: image/tiff
+    bytes: 1335282
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b5/9d/b59d99cb4e4cf9484f075bb00a64f5a5c75bc422e2edd17f07d5b1b31856fcb7/preview-400.b6626fa24dbb.jpg
+        sha256: b6626fa24dbb4a38d57310ae2bde3f0d198e87e2040cddce333b15a2242c1d6b
+        mime: image/jpeg
+        bytes: 59447
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

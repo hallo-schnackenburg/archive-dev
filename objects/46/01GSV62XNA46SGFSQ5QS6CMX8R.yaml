@@ -1,0 +1,35 @@
+id: 01GSV62XNA46SGFSQ5QS6CMX8R
+type: image
+subtype: plan
+title: Deichplan Lüchow bis Pretzier
+date: 1750-08-03
+location: Wootz, Deichstraße
+origin:
+  name: Elfriede Nitschke
+  type: person
+  location: Zadrau
+subjects:
+  - name: Dorffest 1750
+    type: event
+  - name: Zollamt
+    type: building
+files:
+  - role: main
+    original_name: scan_260.tif
+    path: files/8f/9f/8f9fa365a43c662fc6e6a37d75698ee267ea2d904ba565a161d990f577e88691/original.tif
+    sha256: 8f9fa365a43c662fc6e6a37d75698ee267ea2d904ba565a161d990f577e88691
+    mime: image/tiff
+    bytes: 6412506
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8f/9f/8f9fa365a43c662fc6e6a37d75698ee267ea2d904ba565a161d990f577e88691/preview-400.e9e0877d6ce2.jpg
+        sha256: e9e0877d6ce29bf56387aeec3d5feabd4ca69fd052fe513568299460a896130e
+        mime: image/jpeg
+        bytes: 74175
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

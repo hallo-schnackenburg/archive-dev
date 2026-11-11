@@ -1,0 +1,68 @@
+id: 01G6P28S7HJVQ8ZE6PSW3EW0F6
+type: document
+subtype: letter
+title: Hermann Krüger an die Gemeinde wegen Friedhofsordnung
+description: Betrifft Wasserleitung.
+location: Gorleben, Hafenstraße
+origin:
+  name: Ilse Brandt
+  type: person
+  location: Cumlosen
+recipient: Marta Krüger
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 30/069
+subjects:
+  - name: Einschulung 1935
+    type: event
+  - name: Schmiede
+    type: building
+  - name: Poststelle
+    type: building
+parents:
+  - 01G5YQX49NEBDKWNJMDBV4BH06
+files:
+  - role: page
+    num: 1
+    original_name: letter_3ew0f6_001.tif
+    path: files/6a/49/6a496d82647fb3776812f6c1f7a0fb1585e3bcabbe56ad947156211c57c5b726/original.tif
+    sha256: 6a496d82647fb3776812f6c1f7a0fb1585e3bcabbe56ad947156211c57c5b726
+    mime: image/tiff
+    bytes: 5567510
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6a/49/6a496d82647fb3776812f6c1f7a0fb1585e3bcabbe56ad947156211c57c5b726/preview-400.5d20dbb2b67e.jpg
+        sha256: 5d20dbb2b67e19b21f6ddaf7b0364b04a9d63d1d192a92e701c62c544fa0d518
+        mime: image/jpeg
+        bytes: 20856
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_3ew0f6_002.tif
+    path: files/ac/d4/acd49b49881d071237d2ed01a63c23c29e4fb855e5985f43fa241b5460d78eae/original.tif
+    sha256: acd49b49881d071237d2ed01a63c23c29e4fb855e5985f43fa241b5460d78eae
+    mime: image/tiff
+    bytes: 24938653
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/d4/acd49b49881d071237d2ed01a63c23c29e4fb855e5985f43fa241b5460d78eae/preview-400.1a9363018cb1.jpg
+        sha256: 1a9363018cb1fb7286a664684b33d064b708023aa843ffc22462bc389cd814cf
+        mime: image/jpeg
+        bytes: 44632
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

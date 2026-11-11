@@ -1,0 +1,38 @@
+id: 01H8VM3VXCJ54QBQJYRFD2Z5QT
+type: image
+subtype: photo
+title: Deichstraße, Ecke Fährstraße
+description: Zu sehen sind Friedhofskapelle und Kriegerdenkmal.
+date: "1893"
+location: Wootz, Gutshaus
+origin:
+  name: Dieter Jeß
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Feuerwehrübung 1893
+    type: event
+  - name: Grenzturm
+    type: building
+  - name: Speicher
+    type: building
+files:
+  - role: main
+    original_name: P6673.jpg
+    path: files/e2/ba/e2ba37580bb95ce9dd3fec3afb631467850fd7267f7057e9fd130385ea9f062b/original.jpg
+    sha256: e2ba37580bb95ce9dd3fec3afb631467850fd7267f7057e9fd130385ea9f062b
+    mime: image/jpeg
+    bytes: 3231967
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/e2/ba/e2ba37580bb95ce9dd3fec3afb631467850fd7267f7057e9fd130385ea9f062b/preview-400.2c5f177412b4.jpg
+        sha256: 2c5f177412b4225917ae8467d80833302a2431c474c5c5794473c6e91b6e55d5
+        mime: image/jpeg
+        bytes: 57360
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

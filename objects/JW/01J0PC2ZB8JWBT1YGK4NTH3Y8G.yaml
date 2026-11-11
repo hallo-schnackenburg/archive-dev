@@ -1,0 +1,34 @@
+id: 01J0PC2ZB8JWBT1YGK4NTH3Y8G
+type: image
+subtype: plan
+title: Bauplan Schützenhaus 1884
+location: Kapern, Am Elbdeich
+origin:
+  name: Elfriede Schulz
+  type: person
+  location: Gülden
+subjects:
+  - name: Mühle
+    type: building
+  - name: Arendsee
+    type: place
+files:
+  - role: main
+    original_name: scan_360.tif
+    path: files/1d/ac/1dac94823d66eeaf1529690684446f4bad8b4b82d0baa8e7f1abd78ed140a313/original.tif
+    sha256: 1dac94823d66eeaf1529690684446f4bad8b4b82d0baa8e7f1abd78ed140a313
+    mime: image/tiff
+    bytes: 1780677
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/ac/1dac94823d66eeaf1529690684446f4bad8b4b82d0baa8e7f1abd78ed140a313/preview-400.033176d2bc67.jpg
+        sha256: 033176d2bc678c7f522653149fcdcf2da3ddfebaa7bc7dca51de7b1125d5958b
+        mime: image/jpeg
+        bytes: 79449
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01H5ZE603X8VWC0J428M5HVE94
+type: image
+subtype: drawing
+title: Skizze Arendsee, Fährstraße
+description: Federzeichnung, laviert.
+date: 1919-12-20
+location: Arendsee, Elbstraße
+geocode:
+  lat: 53.0119
+  lon: 11.4963
+  precision: region
+  source: osm
+origin:
+  name: Anni Bruns
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+files:
+  - role: main
+    original_name: scan_408.tif
+    path: files/c7/26/c7265b7e29271da638d383b5277f6aca5e3263d47f3b6e7a1a63fd49d582e8cf/original.tif
+    sha256: c7265b7e29271da638d383b5277f6aca5e3263d47f3b6e7a1a63fd49d582e8cf
+    mime: image/tiff
+    bytes: 7771343
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c7/26/c7265b7e29271da638d383b5277f6aca5e3263d47f3b6e7a1a63fd49d582e8cf/preview-400.465f65931b29.jpg
+        sha256: 465f65931b291aab16dfd5fcf46a8f386d117a43e3d1fd6db968067ab861b2bd
+        mime: image/jpeg
+        bytes: 82087
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

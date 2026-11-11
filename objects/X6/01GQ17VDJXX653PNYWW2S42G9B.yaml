@@ -1,0 +1,44 @@
+id: 01GQ17VDJXX653PNYWW2S42G9B
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Eisgang, Wittenberge"
+description: Bleistift auf Papier.
+date: 1858-11-02
+location: Wittenberge, Dorfschule
+origin:
+  name: Hans Lemke
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Album 29/112
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Pretzier
+    type: place
+parents:
+  - 01G0X29EZ2FVG07FG6GWV5MNSG
+files:
+  - role: main
+    original_name: scan_559.tif
+    path: files/bb/b0/bbb00c13f9a7bfe214c6546a549db4772f923fa2388adbf588320a7427f9d26a/original.tif
+    sha256: bbb00c13f9a7bfe214c6546a549db4772f923fa2388adbf588320a7427f9d26a
+    mime: image/tiff
+    bytes: 7918092
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bb/b0/bbb00c13f9a7bfe214c6546a549db4772f923fa2388adbf588320a7427f9d26a/preview-400.0a87d325e8ed.jpg
+        sha256: 0a87d325e8ed130026da5c731df1a4fcd92040544204f99b0509d5f196d7ad41
+        mime: image/jpeg
+        bytes: 32145
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

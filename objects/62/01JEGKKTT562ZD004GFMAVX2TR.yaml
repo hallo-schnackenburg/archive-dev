@@ -1,0 +1,44 @@
+id: 01JEGKKTT562ZD004GFMAVX2TR
+type: image
+subtype: plan
+title: Deichplan Gorleben bis Gartow
+description: Mit handschriftlichen Ergänzungen.
+location: Gollensdorf, Lange Straße
+origin:
+  name: Fritz Garms
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 39/047
+  note: Dachboden, Truhe
+subjects:
+  - name: Gerda Ahrens
+    type: person
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01M1D2FGQR97JS2R2G2HQVPQ5E
+files:
+  - role: main
+    original_name: scan_798.tif
+    path: files/db/5b/db5b14033c663373e6bcd3eb4ba1495631c86385b8959093610e6b9f46839be3/original.tif
+    sha256: db5b14033c663373e6bcd3eb4ba1495631c86385b8959093610e6b9f46839be3
+    mime: image/tiff
+    bytes: 18010137
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/5b/db5b14033c663373e6bcd3eb4ba1495631c86385b8959093610e6b9f46839be3/preview-400.c61328f416ce.jpg
+        sha256: c61328f416ce16d3ccf907230ed9da3b89a36d74b10ffc2eb2d423dca10ad782
+        mime: image/jpeg
+        bytes: 76446
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

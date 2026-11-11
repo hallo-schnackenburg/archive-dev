@@ -1,0 +1,30 @@
+id: 01EXFBPJWT6BAHDEYQ4YX6M5VH
+type: image
+subtype: plan
+title: Bauplan Badestelle 1821
+date: 1821~
+location: Zadrau, Am Elbdeich
+origin:
+  name: Rudolf Gaede
+  type: person
+  location: Schnackenburg
+files:
+  - role: main
+    original_name: scan_207.tif
+    path: files/67/16/6716ca34ceefd00f4b9d24d620f1bb7b2062cc34d7caabc030a0f1675123c2f6/original.tif
+    sha256: 6716ca34ceefd00f4b9d24d620f1bb7b2062cc34d7caabc030a0f1675123c2f6
+    mime: image/tiff
+    bytes: 5360776
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/67/16/6716ca34ceefd00f4b9d24d620f1bb7b2062cc34d7caabc030a0f1675123c2f6/preview-400.a08d73399f2d.jpg
+        sha256: a08d73399f2d808b91420447f98beff003dc3a541ca1ba3d77f2c03e03204852
+        mime: image/jpeg
+        bytes: 29671
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

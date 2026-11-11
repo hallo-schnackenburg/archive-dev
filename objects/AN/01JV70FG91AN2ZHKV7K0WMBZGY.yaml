@@ -1,0 +1,37 @@
+id: 01JV70FG91AN2ZHKV7K0WMBZGY
+type: image
+subtype: plan
+title: Bauplan Windmühle 1930
+description: Mit handschriftlichen Ergänzungen.
+date: 1930-07-01
+location: Schnackenburg, Ladestraße
+origin:
+  name: Erika Kuhlmann
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: F/Mappe 24/105
+files:
+  - role: main
+    original_name: scan_634.tif
+    path: files/b0/2c/b02c5fa32a0ca7024b78357c12cfd7fae31ed66fa3536ba8953ca8b4433e9061/original.tif
+    sha256: b02c5fa32a0ca7024b78357c12cfd7fae31ed66fa3536ba8953ca8b4433e9061
+    mime: image/tiff
+    bytes: 3841105
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b0/2c/b02c5fa32a0ca7024b78357c12cfd7fae31ed66fa3536ba8953ca8b4433e9061/preview-400.01363108d811.jpg
+        sha256: 01363108d811b1042a0e281ef898be8f3ca3c110faa87249a58bd38df73bbc19
+        mime: image/jpeg
+        bytes: 44992
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01G261JNYNBTA5J4STJCA3D17E
+type: image
+subtype: print
+title: Postkarte Pretzier, Scheune, Restorf
+description: Kupferstich, koloriert.
+date: 1783-10
+location: Wustrow, Am Elbdeich
+geocode:
+  lat: 53.0128
+  lon: 11.6452
+  precision: town
+  source: osm
+origin:
+  name: Hans Garms
+  type: person
+  location: Seedorf
+files:
+  - role: main
+    original_name: scan_104.tif
+    path: files/0f/1f/0f1fa5b510ac11a897d1ca5cacad07a0df8b2a78a94d3cca8f81b8be80b24871/original.tif
+    sha256: 0f1fa5b510ac11a897d1ca5cacad07a0df8b2a78a94d3cca8f81b8be80b24871
+    mime: image/tiff
+    bytes: 22451491
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0f/1f/0f1fa5b510ac11a897d1ca5cacad07a0df8b2a78a94d3cca8f81b8be80b24871/preview-400.23b69b64cc2e.jpg
+        sha256: 23b69b64cc2e3a49caffffdb51cdc803826877f9c638a86f494216cb908f8cfa
+        mime: image/jpeg
+        bytes: 81770
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

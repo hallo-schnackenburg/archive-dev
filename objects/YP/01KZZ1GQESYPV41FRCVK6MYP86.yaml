@@ -1,0 +1,40 @@
+id: 01KZZ1GQESYPV41FRCVK6MYP86
+type: image
+subtype: photo
+title: Dorfschule in Lenzen
+description: Aufnahme von August Ludolf.
+date: 1963-06
+origin:
+  name: Dieter Behrens
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Ilse Voss
+    type: person
+  - name: Gutshaus
+    type: building
+files:
+  - role: main
+    original_name: scan_219.tif
+    path: files/fa/03/fa03bbcd41e1f3da200a6a461b6c85fd3aa0008a28edcd777d99979b5f3d0722/original.tif
+    sha256: fa03bbcd41e1f3da200a6a461b6c85fd3aa0008a28edcd777d99979b5f3d0722
+    mime: image/tiff
+    bytes: 10252041
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/fa/03/fa03bbcd41e1f3da200a6a461b6c85fd3aa0008a28edcd777d99979b5f3d0722/preview-400.28b3e067d346.jpg
+        sha256: 28b3e067d346aff8aa3b8429681a7155b63a10e86765b152b1ad60f20cd0c75c
+        mime: image/jpeg
+        bytes: 80384
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

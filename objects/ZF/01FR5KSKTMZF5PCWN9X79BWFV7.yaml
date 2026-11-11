@@ -1,0 +1,65 @@
+id: 01FR5KSKTMZF5PCWN9X79BWFV7
+type: document
+subtype: letter
+title: Zeugnis für Karl Timm
+description: Maschinenschriftlich, unterschrieben.
+date: 1979/1991
+location: Hitzacker, Bahnhofstraße
+geocode:
+  lat: 52.984
+  lon: 11.6794
+  precision: street
+  source: osm
+origin:
+  name: Hans Bohlmann
+  type: person
+  location: Holtorf
+recipient: Heinrich Krüger
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Fastnacht 1979
+    type: event
+parents:
+  - 01HPYA59S9BTVVKYNA7APHK7GB
+files:
+  - role: page
+    num: 1
+    original_name: letter_9bwfv7_001.tif
+    path: files/73/fc/73fccef70e4d114eb49407380278d5768383ae89f1e48f8db9720dd5ccddd450/original.tif
+    sha256: 73fccef70e4d114eb49407380278d5768383ae89f1e48f8db9720dd5ccddd450
+    mime: image/tiff
+    bytes: 14746844
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/73/fc/73fccef70e4d114eb49407380278d5768383ae89f1e48f8db9720dd5ccddd450/preview-400.9df83beb3919.jpg
+        sha256: 9df83beb39198ec24f6d2dcdf22bd9e3fad095810e5b3c541dfaef7090ed250b
+        mime: image/jpeg
+        bytes: 76161
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_9bwfv7_002.tif
+    path: files/b7/2d/b72db9300228d2e47bf5177f3c908630da9e14238a3172cc35e0d955266fa4c4/original.tif
+    sha256: b72db9300228d2e47bf5177f3c908630da9e14238a3172cc35e0d955266fa4c4
+    mime: image/tiff
+    bytes: 27125809
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b7/2d/b72db9300228d2e47bf5177f3c908630da9e14238a3172cc35e0d955266fa4c4/preview-400.8497599a8399.jpg
+        sha256: 8497599a8399534f74c8054030eb81bbc4ec151dded372cd6e2d22e4fdd0ab66
+        mime: image/jpeg
+        bytes: 25652
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

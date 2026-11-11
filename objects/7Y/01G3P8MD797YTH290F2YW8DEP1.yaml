@@ -1,0 +1,62 @@
+id: 01G3P8MD797YTH290F2YW8DEP1
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Dömitz 1960
+description: Anwesend waren 6 Personen.
+date: 1960-09-08
+location: Bömenzien, Fährstraße
+origin:
+  name: Gemeinderat Seedorf
+  type: business
+  location: Hitzacker
+language: de
+subjects:
+  - name: Einschulung 1960
+    type: event
+  - name: Grenzöffnung 1960
+    type: event
+  - name: Rathaus
+    type: building
+parents:
+  - 01HKRG7RN0NA8YYR8Y8GWHXTB1
+files:
+  - role: page
+    num: 1
+    original_name: protocol_w8dep1_001.tif
+    path: files/70/b3/70b35bd07511eb6b648783a88ffffc9a36665a133c2e8fbba2d5b4c0c38cfc70/original.tif
+    sha256: 70b35bd07511eb6b648783a88ffffc9a36665a133c2e8fbba2d5b4c0c38cfc70
+    mime: image/tiff
+    bytes: 4348881
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/70/b3/70b35bd07511eb6b648783a88ffffc9a36665a133c2e8fbba2d5b4c0c38cfc70/preview-400.60e848f96103.jpg
+        sha256: 60e848f9610359c4b1414527a2b3dbc12b7d49ecbdbbb51c21f2c6122335f7de
+        mime: image/jpeg
+        bytes: 35073
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_w8dep1_002.tif
+    path: files/1c/3a/1c3aa5f83c6ea8ebc18002a6b18f53b55a06c49563e3d093733ce379d4cff7ae/original.tif
+    sha256: 1c3aa5f83c6ea8ebc18002a6b18f53b55a06c49563e3d093733ce379d4cff7ae
+    mime: image/tiff
+    bytes: 6705786
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/3a/1c3aa5f83c6ea8ebc18002a6b18f53b55a06c49563e3d093733ce379d4cff7ae/preview-400.fbe69429344c.jpg
+        sha256: fbe69429344cb6264d1e4783e3b4a9eb336b8921d70944d0be1f7287896da2e7
+        mime: image/jpeg
+        bytes: 41681
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

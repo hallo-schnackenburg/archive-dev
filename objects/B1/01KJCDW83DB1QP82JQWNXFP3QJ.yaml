@@ -1,0 +1,33 @@
+id: 01KJCDW83DB1QP82JQWNXFP3QJ
+type: image
+subtype: plan
+title: Bauplan Brunnen am Markt 1778
+date: 1778/1788
+location: Gollensdorf, Schützenhaus
+origin:
+  name: Hans Vogt
+  type: person
+  location: Cumlosen
+parents:
+  - 01GWFE0FE3S612EGDSN47NZK4B
+  - 01HETPQRM52KXM7ZS582C2ECF3
+files:
+  - role: main
+    original_name: scan_354.tif
+    path: files/10/59/1059d3556b73b5bbd6744cb69cd51db6dc74e67db8608c81688ea61b67e6674d/original.tif
+    sha256: 1059d3556b73b5bbd6744cb69cd51db6dc74e67db8608c81688ea61b67e6674d
+    mime: image/tiff
+    bytes: 19402909
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/10/59/1059d3556b73b5bbd6744cb69cd51db6dc74e67db8608c81688ea61b67e6674d/preview-400.697baff9be60.jpg
+        sha256: 697baff9be60774c06765545da682a61cd19cdeecb88c929a61b3e2843a8d59c
+        mime: image/jpeg
+        bytes: 25598
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

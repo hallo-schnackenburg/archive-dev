@@ -1,0 +1,63 @@
+id: 01G1VAY63VMB4ZEZGN2GXE158R
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Flüchtlingsunterbringung 1933
+date: 1933-10-08
+location: Kapern, Hinter den Höfen
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 16/025
+subjects:
+  - name: Einschulung 1933
+    type: event
+  - name: Seedorf
+    type: place
+  - name: Feuerwehrhaus
+    type: building
+parents:
+  - 01M265RTMYNX5W0CM6R19YZYNH
+files:
+  - role: page
+    num: 1
+    original_name: protocol_xe158r_001.tif
+    path: files/ab/f8/abf81716e4f5cfa89457aeb46901c9734bd1ec35adcc62a08c38913a991e1127/original.tif
+    sha256: abf81716e4f5cfa89457aeb46901c9734bd1ec35adcc62a08c38913a991e1127
+    mime: image/tiff
+    bytes: 5550425
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ab/f8/abf81716e4f5cfa89457aeb46901c9734bd1ec35adcc62a08c38913a991e1127/preview-400.4dc89445fcbc.jpg
+        sha256: 4dc89445fcbc1b006586092710ab0b76790eba06286e85ef4621aac8cb8e7cce
+        mime: image/jpeg
+        bytes: 44243
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_xe158r_002.tif
+    path: files/39/db/39dbe9bef19cb4cfbaccaf59785e7c4d0ba9fbe7fd76d7bd926f0e20f76276e4/original.tif
+    sha256: 39dbe9bef19cb4cfbaccaf59785e7c4d0ba9fbe7fd76d7bd926f0e20f76276e4
+    mime: image/tiff
+    bytes: 10376725
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/39/db/39dbe9bef19cb4cfbaccaf59785e7c4d0ba9fbe7fd76d7bd926f0e20f76276e4/preview-400.f27545e2ec3b.jpg
+        sha256: f27545e2ec3b038d64c8d400a1e9f299736b082ccca684edef9f9f9a916b3094
+        mime: image/jpeg
+        bytes: 40875
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01GENG4Q60781H7PB0AJBHM6F8
+type: document
+subtype: note
+title: Kassenzettel Hafen
+date: 194X
+location: Gollensdorf, Elbstraße
+geocode:
+  lat: 52.948
+  lon: 11.5364
+  precision: town
+  source: osm
+origin:
+  name: Marta Gaede
+  type: person
+  location: Schnackenburg
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro 1/376
+files:
+  - role: page
+    num: 1
+    original_name: note_bhm6f8_001.tif
+    path: files/d8/da/d8da29cd5bb697113e5b53a5a2c3a03ea4614288a546f247618b9af0c9e4520a/original.tif
+    sha256: d8da29cd5bb697113e5b53a5a2c3a03ea4614288a546f247618b9af0c9e4520a
+    mime: image/tiff
+    bytes: 1214612
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d8/da/d8da29cd5bb697113e5b53a5a2c3a03ea4614288a546f247618b9af0c9e4520a/preview-400.b222c38aa40f.jpg
+        sha256: b222c38aa40f940c66040c289cae8da27544293c0db89e9b293c2a008090c2da
+        mime: image/jpeg
+        bytes: 43053
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,66 @@
+id: 01JB9YF7NA8HEAHQZHM8FK3TE0
+type: document
+subtype: protocol
+title: Protokoll der Mitgliederversammlung, Jugendfeuerwehr
+location: Nienwalde, Hinter den Höfen
+geocode:
+  lat: 52.9203
+  lon: 11.4722
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Bücherregal links
+subjects:
+  - name: Schlachtfest 1891
+    type: event
+  - name: Wustrow
+    type: place
+  - name: Eisgang 1891
+    type: event
+parents:
+  - 01G5YQX49NEBDKWNJMDBV4BH06
+files:
+  - role: page
+    num: 1
+    original_name: protocol_fk3te0_001.tif
+    path: files/80/c5/80c59cf4775a7a76a7bb99a37e561f24b35ebc3a96f93765320f827b5bc7e952/original.tif
+    sha256: 80c59cf4775a7a76a7bb99a37e561f24b35ebc3a96f93765320f827b5bc7e952
+    mime: image/tiff
+    bytes: 25488636
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/c5/80c59cf4775a7a76a7bb99a37e561f24b35ebc3a96f93765320f827b5bc7e952/preview-400.363396287f40.jpg
+        sha256: 363396287f40ceea480f0ba2d324b70582df2379de2d96cb13a6acf89900d7a7
+        mime: image/jpeg
+        bytes: 52298
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_fk3te0_002.tif
+    path: files/95/1e/951e54c246b8a67d7c019ce0f614f77d9646c372ce531f29f09bce376421c2e5/original.tif
+    sha256: 951e54c246b8a67d7c019ce0f614f77d9646c372ce531f29f09bce376421c2e5
+    mime: image/tiff
+    bytes: 2541277
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/1e/951e54c246b8a67d7c019ce0f614f77d9646c372ce531f29f09bce376421c2e5/preview-400.5512275f91a5.jpg
+        sha256: 5512275f91a5670b1972d96d3cb199bfd53c824a564f1f5d395898961d8f7129
+        mime: image/jpeg
+        bytes: 34995
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,30 @@
+id: 01FDJS5RB91WNCRAHZ5Y38NDPV
+type: image
+subtype: plan
+title: Bauplan Elbdeich 1920
+description: Mit handschriftlichen Ergänzungen.
+date: 1920-12
+location: Nienwalde, Storchennest
+geocode:
+  lat: 52.9352
+  lon: 11.5372
+  precision: region
+  source: osm
+origin:
+  name: August Jürgens
+  type: person
+  location: Arendsee
+subjects:
+  - name: Badestelle
+    type: building
+  - name: Karl Ahrens
+    type: person
+  - name: Gülden
+    type: place
+parents:
+  - 01HBK6C2YY23CZPK2AB67CF4HH
+storage: external
+external:
+  - type: platform
+    site: Deutsche Digitale Bibliothek
+    uri: https://deutsche-digitale-bibliothek.example.org/objekt/518905

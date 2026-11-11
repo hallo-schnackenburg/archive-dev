@@ -1,0 +1,47 @@
+id: 01HQ72WGPDQACQEM2RM6DHJ5T3
+type: document
+subtype: letter
+title: Korrespondenz Hans Lenz
+description: Mit Umschlag und Briefmarke.
+location: Brünkendorf, Bahnhof
+geocode:
+  lat: 52.9281
+  lon: 11.6621
+  precision: town
+  source: osm
+recipient: August Voss
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 12/355
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Gorleben
+    type: place
+  - name: Hans Krüger
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_dhj5t3_001.tif
+    path: files/e1/a3/e1a319194cc99a64e66cd583592b789337f4cfc0b38bf246bfd65566f2ad86f2/original.tif
+    sha256: e1a319194cc99a64e66cd583592b789337f4cfc0b38bf246bfd65566f2ad86f2
+    mime: image/tiff
+    bytes: 6028991
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e1/a3/e1a319194cc99a64e66cd583592b789337f4cfc0b38bf246bfd65566f2ad86f2/preview-400.49ea643ce9bd.jpg
+        sha256: 49ea643ce9bd3380742d3ca777976b1d9f67e80ee59a468e2ba8a140e3fdc9cd
+        mime: image/jpeg
+        bytes: 84157
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

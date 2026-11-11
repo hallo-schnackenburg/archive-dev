@@ -1,0 +1,32 @@
+id: 01JEBRQM86TTNZRV99TZQBWYNW
+type: image
+subtype: print
+title: Ansichtskarte Fährstraße, Pretzier
+description: Postkarte, gelaufen 1946.
+date: "1766"
+location: Schnackenburg, Fähranleger
+geocode:
+  lat: 53.0581
+  lon: 11.4968
+  precision: exact
+  source: osm
+files:
+  - role: main
+    original_name: scan_776.tif
+    path: files/12/0f/120f8dff1259050242ebff0d4205ccd8db191147d91e9024b85fef7c32a9f42f/original.tif
+    sha256: 120f8dff1259050242ebff0d4205ccd8db191147d91e9024b85fef7c32a9f42f
+    mime: image/tiff
+    bytes: 19005754
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/12/0f/120f8dff1259050242ebff0d4205ccd8db191147d91e9024b85fef7c32a9f42f/preview-400.244c43df83f2.jpg
+        sha256: 244c43df83f2e82c4156536cd1e38f1ac212892d6f9df5f88575124f3a16b2c9
+        mime: image/jpeg
+        bytes: 62025
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

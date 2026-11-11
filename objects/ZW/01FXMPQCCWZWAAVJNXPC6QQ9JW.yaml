@@ -1,0 +1,42 @@
+id: 01FXMPQCCWZWAAVJNXPC6QQ9JW
+type: image
+subtype: photo
+title: Kindergarten nach dem Ortsbesichtigung
+date: "1906"
+location: Gollensdorf, Ziegelei
+geocode:
+  lat: 52.9933
+  lon: 11.4534
+  precision: exact
+  source: osm
+origin:
+  name: Erika Brandt
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Grenzöffnung 1906
+    type: event
+  - name: Kaufmannshaus
+    type: building
+  - name: Restorf
+    type: place
+files:
+  - role: main
+    original_name: DSC3208.jpg
+    path: files/a4/82/a482839a60b44566a67a68a621cd61c7956e696289c3f94a4723986001979fe3/original.jpg
+    sha256: a482839a60b44566a67a68a621cd61c7956e696289c3f94a4723986001979fe3
+    mime: image/jpeg
+    bytes: 18261441
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/a4/82/a482839a60b44566a67a68a621cd61c7956e696289c3f94a4723986001979fe3/preview-400.41cc6bb1ca73.jpg
+        sha256: 41cc6bb1ca73d0ffc234df9f442d6fcf912676ea9a3955c459c0e2ae6f5b294c
+        mime: image/jpeg
+        bytes: 85784
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

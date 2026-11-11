@@ -1,0 +1,40 @@
+id: 01FMGMG6XS2N93FYZX187GQ2HN
+type: image
+subtype: photo
+title: Dorfteich nach dem Kartoffelernte
+date: 1969-09
+location: Cumlosen, Torhaus
+geocode:
+  lat: 53.0357
+  lon: 11.64
+  precision: region
+  source: osm
+origin:
+  name: Wilhelm Lüders
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Hans Wöhlk
+    type: person
+  - name: Deicharbeiten 1969
+    type: event
+files:
+  - role: main
+    original_name: IMG_8201.jpg
+    path: files/bc/28/bc2811244197260cebf007b180b711d2748887516ed1b87197c5d26e6668ba0a/original.jpg
+    sha256: bc2811244197260cebf007b180b711d2748887516ed1b87197c5d26e6668ba0a
+    mime: image/jpeg
+    bytes: 12234640
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/bc/28/bc2811244197260cebf007b180b711d2748887516ed1b87197c5d26e6668ba0a/preview-400.9245efbeea87.jpg
+        sha256: 9245efbeea872a351219d401688d96eb6f8f16eade2cdbb3b84336eb96695772
+        mime: image/jpeg
+        bytes: 59645
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

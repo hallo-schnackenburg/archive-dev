@@ -1,0 +1,47 @@
+id: 01K42PE78QKMAZ0FTS8B2WDK16
+type: image
+subtype: photo
+title: Familie Lüders beim Schützenfest
+description: Farbfoto, leicht verblasst.
+date: 1891-02-14
+location: Zadrau, Gemeindehaus
+geocode:
+  lat: 53.0536
+  lon: 11.6871
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Rieke
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 28/060
+subjects:
+  - name: Wustrow
+    type: place
+parents:
+  - 01GC32R7XA4RX5C5MWHXV94Y25
+files:
+  - role: main
+    original_name: scan_378.tif
+    path: files/1d/1b/1d1b071d3d1f7b5376ac6aa03a9813acf968ea0def647177395d8482bc09f417/original.tif
+    sha256: 1d1b071d3d1f7b5376ac6aa03a9813acf968ea0def647177395d8482bc09f417
+    mime: image/tiff
+    bytes: 23939275
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/1d/1b/1d1b071d3d1f7b5376ac6aa03a9813acf968ea0def647177395d8482bc09f417/preview-400.7b0a1d12ab7a.jpg
+        sha256: 7b0a1d12ab7a5a260d76f83ba1a7de68bf33f8ac9fdcad26d74b2bd971011feb
+        mime: image/jpeg
+        bytes: 60461
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

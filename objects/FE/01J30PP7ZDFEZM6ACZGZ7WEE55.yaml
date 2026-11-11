@@ -1,0 +1,43 @@
+id: 01J30PP7ZDFEZM6ACZGZ7WEE55
+type: document
+subtype: note
+title: Quittung für Ilse Meyer
+date: 1999-12
+location: Wustrow, Kirchstraße
+geocode:
+  lat: 53.0622
+  lon: 11.4596
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Rieke
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Otto Dreyer
+    type: person
+  - name: Hans Meyer
+    type: person
+parents:
+  - 01KR3FCH1Y6Q5X71Q48GVZ96QG
+files:
+  - role: page
+    num: 1
+    original_name: note_7wee55_001.tif
+    path: files/f1/ec/f1ec093a29f02869b07dc1cd52b1067bf8b77c815ff57c77e588858688d3e3f6/original.tif
+    sha256: f1ec093a29f02869b07dc1cd52b1067bf8b77c815ff57c77e588858688d3e3f6
+    mime: image/tiff
+    bytes: 21426865
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f1/ec/f1ec093a29f02869b07dc1cd52b1067bf8b77c815ff57c77e588858688d3e3f6/preview-400.65c1bb1b0469.jpg
+        sha256: 65c1bb1b04696cb96ac2def74c9bbb3d5551583c71de31a1af9848f9396c7762
+        mime: image/jpeg
+        bytes: 84092
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

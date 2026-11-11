@@ -1,0 +1,43 @@
+id: 01H9PQXB5410HPR0NG74618YNT
+type: image
+subtype: photo
+title: Kaufmannshaus in Zadrau, Lanz
+description: Abzug im Format 13 x 18 cm.
+date: "1898"
+location: Wittenberge, Elbstraße
+geocode:
+  lat: 52.9829
+  lon: 11.6178
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Familie Rieke
+    type: person
+    location: Havelberg
+  reference: Plan 37/339
+subjects:
+  - name: Gülden
+    type: place
+  - name: Hafen
+    type: building
+files:
+  - role: main
+    original_name: IMG_8330.jpg
+    path: files/64/e5/64e5e617b5c6b78ba836f37ef3d4ffac66324c4ad89ba080e4254c81647e02f9/original.jpg
+    sha256: 64e5e617b5c6b78ba836f37ef3d4ffac66324c4ad89ba080e4254c81647e02f9
+    mime: image/jpeg
+    bytes: 11864799
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/64/e5/64e5e617b5c6b78ba836f37ef3d4ffac66324c4ad89ba080e4254c81647e02f9/preview-400.389b21b969a2.jpg
+        sha256: 389b21b969a22a707115d36d2d199df5c52defe3a71f22f947a5d5430b30fef5
+        mime: image/jpeg
+        bytes: 45852
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

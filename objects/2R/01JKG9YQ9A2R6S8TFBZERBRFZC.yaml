@@ -1,0 +1,37 @@
+id: 01JKG9YQ9A2R6S8TFBZERBRFZC
+type: image
+subtype: photo
+title: Ursula Bohlmann vor dem Gärtnerei
+description: Farbfoto, leicht verblasst.
+date: 1901-09-04
+origin:
+  name: Erika Dierks
+  type: person
+  location: Havelberg
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+  - name: Gartow
+    type: place
+parents:
+  - 01KQVCCGD4CP4QYK6YQJ3YAGSW
+files:
+  - role: main
+    original_name: scan_311.tif
+    path: files/4a/cc/4acc13572d4bc67d834ba854a7851db910fca3bb069d46027f701b899047fc50/original.tif
+    sha256: 4acc13572d4bc67d834ba854a7851db910fca3bb069d46027f701b899047fc50
+    mime: image/tiff
+    bytes: 11697010
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4a/cc/4acc13572d4bc67d834ba854a7851db910fca3bb069d46027f701b899047fc50/preview-400.1f8c3e424361.jpg
+        sha256: 1f8c3e424361dbf99b969935ab7bd3fa44aaf59c8240f2d2817613ba465b1149
+        mime: image/jpeg
+        bytes: 70164
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

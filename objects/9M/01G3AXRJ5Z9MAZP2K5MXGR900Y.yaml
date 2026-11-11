@@ -1,0 +1,58 @@
+id: 01G3AXRJ5Z9MAZP2K5MXGR900Y
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Strompreise 1974
+date: 197X
+origin:
+  name: Schulvorstand Brünkendorf
+  type: business
+  location: Salzwedel
+language: de
+subjects:
+  - name: Kartoffelernte 1974
+    type: event
+  - name: Straßenfest 1974
+    type: event
+parents:
+  - 01J3WMQQBAAF8A7JDSEC500W36
+files:
+  - role: page
+    num: 1
+    original_name: protocol_gr900y_001.tif
+    path: files/c6/81/c681f68ec4c00a99c43c0ce61a38f1dcebed07015d84aa99a5876420a363dd0a/original.tif
+    sha256: c681f68ec4c00a99c43c0ce61a38f1dcebed07015d84aa99a5876420a363dd0a
+    mime: image/tiff
+    bytes: 14767711
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/81/c681f68ec4c00a99c43c0ce61a38f1dcebed07015d84aa99a5876420a363dd0a/preview-400.0ed384e20987.jpg
+        sha256: 0ed384e20987528ee96be7799364afb09815ffbd88eeb38943179eaa61d72a1b
+        mime: image/jpeg
+        bytes: 71162
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_gr900y_002.tif
+    path: files/8f/a8/8fa8a49901f5e34808b65e5f43bb9b1ce81978cb93c86ddd6f1e992f186a4f2d/original.tif
+    sha256: 8fa8a49901f5e34808b65e5f43bb9b1ce81978cb93c86ddd6f1e992f186a4f2d
+    mime: image/tiff
+    bytes: 17904808
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8f/a8/8fa8a49901f5e34808b65e5f43bb9b1ce81978cb93c86ddd6f1e992f186a4f2d/preview-400.eda879fd170d.jpg
+        sha256: eda879fd170ddfc56b545167c95b64703df52b126df7fba1066e37915e32b91b
+        mime: image/jpeg
+        bytes: 54220
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

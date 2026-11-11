@@ -1,0 +1,38 @@
+id: 01FGMETM3FF1RC4RV3STEDYZ6N
+type: image
+subtype: drawing
+title: Entwurf für Kaufmannshaus
+description: Bleistift auf Papier.
+date: "1952"
+location: Schnackenburg, Gutshaus
+origin:
+  name: Günter Kuhlmann
+  type: person
+  location: Laase
+subjects:
+  - name: Schmiede
+    type: building
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+parents:
+  - 01GWFE0FE3S612EGDSN47NZK4B
+files:
+  - role: main
+    original_name: scan_416.tif
+    path: files/03/5e/035e193f84efbbfb76b984cef29e4f799f0abe33ca898fcf58f1c302505a7f33/original.tif
+    sha256: 035e193f84efbbfb76b984cef29e4f799f0abe33ca898fcf58f1c302505a7f33
+    mime: image/tiff
+    bytes: 16679819
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/03/5e/035e193f84efbbfb76b984cef29e4f799f0abe33ca898fcf58f1c302505a7f33/preview-400.d2d642d8076e.jpg
+        sha256: d2d642d8076e5b3500d47f26f7cfdcfe180846b99eea5d84e036d5197158a02a
+        mime: image/jpeg
+        bytes: 51592
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

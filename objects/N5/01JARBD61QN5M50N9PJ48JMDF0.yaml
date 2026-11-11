@@ -1,0 +1,31 @@
+id: 01JARBD61QN5M50N9PJ48JMDF0
+type: image
+subtype: drawing
+title: Federzeichnung Gutshaus, Salzwedel
+description: Bleistift auf Papier.
+date: 1861~
+location: Nienwalde, Schützenhaus
+origin:
+  name: Friedrich Matthies
+  type: person
+  location: Bömenzien
+files:
+  - role: main
+    original_name: scan_490.tif
+    path: files/cb/10/cb10c0fbafced39b59656166522eedc37b245125d83acc6b2f927b7dec737348/original.tif
+    sha256: cb10c0fbafced39b59656166522eedc37b245125d83acc6b2f927b7dec737348
+    mime: image/tiff
+    bytes: 13303846
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/cb/10/cb10c0fbafced39b59656166522eedc37b245125d83acc6b2f927b7dec737348/preview-400.95c7d4b79fee.jpg
+        sha256: 95c7d4b79fee17a442a4cad52b65b24ba2e4c02edbcd01fdbb2bbeaf8e4b0b9e
+        mime: image/jpeg
+        bytes: 43836
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

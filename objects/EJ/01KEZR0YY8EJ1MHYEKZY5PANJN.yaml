@@ -1,0 +1,43 @@
+id: 01KEZR0YY8EJ1MHYEKZY5PANJN
+type: image
+subtype: drawing
+title: Skizze Kapern, Hinter den Höfen
+description: Federzeichnung, laviert.
+date: 1898-08-18
+location: Hitzacker, Am Markt
+geocode:
+  lat: 52.9354
+  lon: 11.533
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Wegner
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Osterfeuer 1898
+    type: event
+  - name: Fastnacht 1898
+    type: event
+parents:
+  - 01KNV35QF9MCTPV2ME9SCJY459
+files:
+  - role: main
+    original_name: scan_795.tif
+    path: files/1a/d7/1ad78637dc4ede9c72a850f33e757332768b8061f1b31950c692032f92fd3404/original.tif
+    sha256: 1ad78637dc4ede9c72a850f33e757332768b8061f1b31950c692032f92fd3404
+    mime: image/tiff
+    bytes: 13601048
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/1a/d7/1ad78637dc4ede9c72a850f33e757332768b8061f1b31950c692032f92fd3404/preview-400.083019803113.jpg
+        sha256: 083019803113936ba81cc206e2f282cb9db37b6a7de7e3565152a99f70bb1716
+        mime: image/jpeg
+        bytes: 61706
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01GAF9HBEA2V0WF9MFNCN32HCN
+type: image
+subtype: photo
+title: Friedhofskapelle nach dem Weihnachtsmarkt
+description: Abzug im Format 6 x 9 cm.
+date: 1971~
+location: Schnackenburg, Am Elbdeich
+geocode:
+  lat: 52.9091
+  lon: 11.6602
+  precision: region
+  source: osm
+origin:
+  name: Dieter Detlefs
+  type: person
+  location: Dömitz
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Deicharbeiten 1971
+    type: event
+  - name: Hermann Schulz
+    type: person
+parents:
+  - 01FX13NA4AT0PM3FBRV1XBR89T
+files:
+  - role: main
+    original_name: P5859.jpg
+    path: files/73/b3/73b32d860936dfc43bc839301377e3d57bceb15fb247b0e2b27c556e0d401791/original.jpg
+    sha256: 73b32d860936dfc43bc839301377e3d57bceb15fb247b0e2b27c556e0d401791
+    mime: image/jpeg
+    bytes: 20972339
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/73/b3/73b32d860936dfc43bc839301377e3d57bceb15fb247b0e2b27c556e0d401791/preview-400.a213c069f79a.jpg
+        sha256: a213c069f79ad151730c3c37fa3f48408ec0bc4898694a679ecd12ddc53e38bc
+        mime: image/jpeg
+        bytes: 86323
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

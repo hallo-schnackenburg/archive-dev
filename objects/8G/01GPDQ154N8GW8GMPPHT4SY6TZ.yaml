@@ -1,0 +1,64 @@
+id: 01GPDQ154N8GW8GMPPHT4SY6TZ
+type: document
+subtype: note
+title: Quittung für Erika Gerdes
+date: 1921-05-28
+location: Gartow, Dorfteich
+geocode:
+  lat: 52.982
+  lon: 11.5878
+  precision: town
+  source: osm
+origin:
+  name: Gerda Tiedemann
+  type: person
+  location: Restorf
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+parents:
+  - 01JSYB7Z03WSNMJ0H37E7BWCQW
+files:
+  - role: page
+    num: 1
+    original_name: note_4sy6tz_001.tif
+    path: files/6b/d4/6bd43899e1d690c7809d896f0b912ac686acb8dcde47636b0e246b6c3079b9b1/original.tif
+    sha256: 6bd43899e1d690c7809d896f0b912ac686acb8dcde47636b0e246b6c3079b9b1
+    mime: image/tiff
+    bytes: 21652249
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6b/d4/6bd43899e1d690c7809d896f0b912ac686acb8dcde47636b0e246b6c3079b9b1/preview-400.7bfa21555a34.jpg
+        sha256: 7bfa21555a34792143fbb4cd234fa93f0566dcf4c79815feb432901fc29a652a
+        mime: image/jpeg
+        bytes: 55883
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_4sy6tz_002.tif
+    path: files/29/60/296096b3562a54cd69135fbc7b762eb29b2afea72f2f6d0a99b099cbb4c5fc21/original.tif
+    sha256: 296096b3562a54cd69135fbc7b762eb29b2afea72f2f6d0a99b099cbb4c5fc21
+    mime: image/tiff
+    bytes: 22672324
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/29/60/296096b3562a54cd69135fbc7b762eb29b2afea72f2f6d0a99b099cbb4c5fc21/preview-400.fc4cf6fb787f.jpg
+        sha256: fc4cf6fb787fbf18c98bf78445e75302f9753c6573cfed30b739d2a3e6acb2dc
+        mime: image/jpeg
+        bytes: 22195
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

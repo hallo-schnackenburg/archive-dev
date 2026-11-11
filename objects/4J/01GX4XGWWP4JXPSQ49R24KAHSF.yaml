@@ -1,0 +1,38 @@
+id: 01GX4XGWWP4JXPSQ49R24KAHSF
+type: image
+subtype: plan
+title: Grundriss Brunnen am Markt
+date: 1857-04-15
+origin:
+  name: Marta Plate
+  type: person
+  location: Zadrau
+subjects:
+  - name: Erika Dierks
+    type: person
+  - name: Kaufmannshaus
+    type: building
+  - name: Hochzeit 1857
+    type: event
+parents:
+  - 01JCDR7S9M7BM7M0ZNSCBA2064
+files:
+  - role: main
+    original_name: scan_168.tif
+    path: files/1d/90/1d9005b2a02bd2fa94cdddca25cf91c45bdffc9e5f401a850ca762c8e9f25691/original.tif
+    sha256: 1d9005b2a02bd2fa94cdddca25cf91c45bdffc9e5f401a850ca762c8e9f25691
+    mime: image/tiff
+    bytes: 16942824
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/90/1d9005b2a02bd2fa94cdddca25cf91c45bdffc9e5f401a850ca762c8e9f25691/preview-400.6b297c60fd0a.jpg
+        sha256: 6b297c60fd0aa11e291092a0bf2843d3d3ef08c02ef6f853bc523f4e1d865f74
+        mime: image/jpeg
+        bytes: 72783
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

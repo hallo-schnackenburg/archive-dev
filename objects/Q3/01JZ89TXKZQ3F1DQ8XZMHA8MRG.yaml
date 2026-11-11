@@ -1,0 +1,39 @@
+id: 01JZ89TXKZQ3F1DQ8XZMHA8MRG
+type: image
+subtype: plan
+title: Bauplan Feuerwehrhaus 1779
+date: 1779?
+location: Wittenberge, Kindergarten
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  note: Bücherregal links
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+  - name: Einschulung 1779
+    type: event
+  - name: Emma Ludolf
+    type: person
+files:
+  - role: main
+    original_name: scan_723.tif
+    path: files/f9/95/f995b2b3f3cb3f4e4d9bcd47add7b31f9cc68a055a87df32e822726d6549d8aa/original.tif
+    sha256: f995b2b3f3cb3f4e4d9bcd47add7b31f9cc68a055a87df32e822726d6549d8aa
+    mime: image/tiff
+    bytes: 8824897
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f9/95/f995b2b3f3cb3f4e4d9bcd47add7b31f9cc68a055a87df32e822726d6549d8aa/preview-400.8b2a39d3094e.jpg
+        sha256: 8b2a39d3094e769826fb31c19870c3dbf4b1c78377d199f32faff481db628668
+        mime: image/jpeg
+        bytes: 31426
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

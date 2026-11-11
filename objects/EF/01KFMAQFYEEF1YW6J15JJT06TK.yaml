@@ -1,0 +1,44 @@
+id: 01KFMAQFYEEF1YW6J15JJT06TK
+type: image
+subtype: photo
+title: Blick vom Wassermühle auf das Ladestraße
+description: Abzug im Format 9 x 13 cm.
+date: 1986-12-14
+location: Gülden, Bahnhofstraße
+geocode:
+  lat: 53.0616
+  lon: 11.5124
+  precision: town
+  source: osm
+origin:
+  name: Erika Jeß
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  note: Kellerarchiv
+parents:
+  - 01F1BRES3HCVYVM1NJ072546P5
+files:
+  - role: main
+    original_name: P5099.jpg
+    path: files/ec/3e/ec3ebdc38719d988fb3b211b750771652a06159bce7ecb7f1f8d4cb8238ea5bc/original.jpg
+    sha256: ec3ebdc38719d988fb3b211b750771652a06159bce7ecb7f1f8d4cb8238ea5bc
+    mime: image/jpeg
+    bytes: 363136
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ec/3e/ec3ebdc38719d988fb3b211b750771652a06159bce7ecb7f1f8d4cb8238ea5bc/preview-400.32d98a5a9fa8.jpg
+        sha256: 32d98a5a9fa81d02dfd81ed3251998e5d164a5e847bc540fa0d69bad86a0f01a
+        mime: image/jpeg
+        bytes: 33696
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

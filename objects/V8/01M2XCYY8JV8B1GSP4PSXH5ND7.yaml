@@ -1,0 +1,41 @@
+id: 01M2XCYY8JV8B1GSP4PSXH5ND7
+type: image
+subtype: photo
+title: Viehmarkt der Jugendfeuerwehr
+description: Aufnahme von Wilhelm Plate.
+date: 1902-12-22
+location: Gollensdorf, Hinter den Höfen
+geocode:
+  lat: 53.0231
+  lon: 11.4581
+  precision: exact
+  source: osm
+origin:
+  name: Petra Meyer
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Mühle
+    type: building
+parents:
+  - 01H36RTMJEX4S0EGJJ5ANSCJNW
+files:
+  - role: main
+    original_name: scan_160.tif
+    path: files/aa/de/aadec28adee2b299aeb7a554a5b364830fe81c643273a9435f53d3a6f8e9fa30/original.tif
+    sha256: aadec28adee2b299aeb7a554a5b364830fe81c643273a9435f53d3a6f8e9fa30
+    mime: image/tiff
+    bytes: 5972343
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/aa/de/aadec28adee2b299aeb7a554a5b364830fe81c643273a9435f53d3a6f8e9fa30/preview-400.05d684b5bd62.jpg
+        sha256: 05d684b5bd6234b9b009a914c02660a309bdf9ac007acb7c24073cc1d5e913cf
+        mime: image/jpeg
+        bytes: 84124
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

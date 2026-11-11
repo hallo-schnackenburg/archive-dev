@@ -1,0 +1,48 @@
+id: 01FQEP1DG5HZXGNHAQFX3HVEDC
+type: image
+subtype: print
+title: Postkarte Wustrow, Rathaus
+description: Lithographie, Rand beschnitten.
+date: 185X
+location: Kapern, Gasthof Meyer
+origin:
+  name: Erika Rohde
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 29/110
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Hochzeit 1852
+    type: event
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Dömitz
+    type: place
+parents:
+  - 01H6GZ1A9PWXWTSCHDX2966H18
+  - 01JDVF1103F03HCTM49T0G4EC6
+files:
+  - role: main
+    original_name: scan_247.tif
+    path: files/45/22/4522757256d34401271f7a34ac74077595ce70522ff6f639c744468539a6a722/original.tif
+    sha256: 4522757256d34401271f7a34ac74077595ce70522ff6f639c744468539a6a722
+    mime: image/tiff
+    bytes: 5116068
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/45/22/4522757256d34401271f7a34ac74077595ce70522ff6f639c744468539a6a722/preview-400.7458d2d45db2.jpg
+        sha256: 7458d2d45db26954abd96f8265f6a304c106525c6dd52cda3898fdbd5af4183a
+        mime: image/jpeg
+        bytes: 42111
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

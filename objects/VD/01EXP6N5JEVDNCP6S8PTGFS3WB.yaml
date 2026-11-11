@@ -1,0 +1,39 @@
+id: 01EXP6N5JEVDNCP6S8PTGFS3WB
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Einweihung, Rüterberg"
+description: Federzeichnung, laviert.
+date: 1928-05-26
+location: Brünkendorf, Schulstraße
+origin:
+  name: Hermann Gaede
+  type: person
+  location: Arendsee
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Fritz Garms
+    type: person
+parents:
+  - 01EY996B6TE8NGN69VQYD76406
+  - 01K07SKN5ZQ3VDE1287C9C0F74
+files:
+  - role: main
+    original_name: scan_446.tif
+    path: files/8b/b5/8bb50a260e94da6856b851e3928567cbee4a237392bbd6833c1241a64bc81e60/original.tif
+    sha256: 8bb50a260e94da6856b851e3928567cbee4a237392bbd6833c1241a64bc81e60
+    mime: image/tiff
+    bytes: 15878203
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/8b/b5/8bb50a260e94da6856b851e3928567cbee4a237392bbd6833c1241a64bc81e60/preview-400.0f51442d5846.jpg
+        sha256: 0f51442d5846baf421a958d7a1a1324c9773048e931b32fb9fd255de75cffed5
+        mime: image/jpeg
+        bytes: 52762
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

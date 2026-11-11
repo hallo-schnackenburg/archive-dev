@@ -1,0 +1,49 @@
+id: 01KVANJ6AZAZBR40MFB73P16VP
+type: image
+subtype: photo
+title: Feuerwehrhaus nach dem Dorffest
+description: Abzug im Format 9 x 13 cm.
+date: 2002-10-07
+location: Pretzier, Mühlenweg
+geocode:
+  lat: 52.9569
+  lon: 11.4766
+  precision: town
+  source: osm
+origin:
+  name: Friedrich Bohlmann
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 15/098
+subjects:
+  - name: Karl Meyer
+    type: person
+  - name: Nienwalde
+    type: place
+  - name: Wootz
+    type: place
+files:
+  - role: main
+    original_name: scan_752.tif
+    path: files/64/a9/64a9de9d0db2206ce3cf0063dcdda62476b82070021a053612aff4e2474ee81e/original.tif
+    sha256: 64a9de9d0db2206ce3cf0063dcdda62476b82070021a053612aff4e2474ee81e
+    mime: image/tiff
+    bytes: 7044894
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/64/a9/64a9de9d0db2206ce3cf0063dcdda62476b82070021a053612aff4e2474ee81e/preview-400.98e5ddfb7c70.jpg
+        sha256: 98e5ddfb7c70d070844fcaafeb0719ff4aca2e7f09bb6381a484f1cbfc8d0828
+        mime: image/jpeg
+        bytes: 72289
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

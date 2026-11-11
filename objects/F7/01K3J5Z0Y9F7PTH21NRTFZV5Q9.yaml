@@ -1,0 +1,33 @@
+id: 01K3J5Z0Y9F7PTH21NRTFZV5Q9
+type: image
+subtype: plan
+title: Bauplan Schützenhaus 1807
+description: Maßstab 1:250.
+date: 1807?
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Mühle
+    type: building
+  - name: Eisgang 1807
+    type: event
+files:
+  - role: main
+    original_name: scan_437.tif
+    path: files/94/03/9403ee53addaec7aee1b729ba4891f5a197242c0f957419a215919c798c27384/original.tif
+    sha256: 9403ee53addaec7aee1b729ba4891f5a197242c0f957419a215919c798c27384
+    mime: image/tiff
+    bytes: 14550089
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/94/03/9403ee53addaec7aee1b729ba4891f5a197242c0f957419a215919c798c27384/preview-400.47f3db6328d1.jpg
+        sha256: 47f3db6328d1be6443acfd4e82c742a6d3aacd9ab81e756a656efb97008aeb23
+        mime: image/jpeg
+        bytes: 56690
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

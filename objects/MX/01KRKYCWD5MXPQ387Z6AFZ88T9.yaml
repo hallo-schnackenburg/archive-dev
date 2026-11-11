@@ -1,0 +1,43 @@
+id: 01KRKYCWD5MXPQ387Z6AFZ88T9
+type: image
+subtype: photo
+title: Viehmarkt 1944
+description: Abzug im Format 6 x 9 cm.
+date: 1944?
+origin:
+  name: Erika Krüger
+  type: person
+  location: Brünkendorf
+owner:
+  name: Heinrich Rohde
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Erntedankfest 1944
+    type: event
+  - name: Salzwedel
+    type: place
+  - name: Schützenfest 1944
+    type: event
+parents:
+  - 01HD61F86MBNWMCVSSSSY9BBBD
+files:
+  - role: main
+    original_name: P9300.jpg
+    path: files/9b/40/9b406e2913544f74a3b4cb6a053716b1120e2b5a950bf70ae69b68550b309e6e/original.jpg
+    sha256: 9b406e2913544f74a3b4cb6a053716b1120e2b5a950bf70ae69b68550b309e6e
+    mime: image/jpeg
+    bytes: 7879101
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/9b/40/9b406e2913544f74a3b4cb6a053716b1120e2b5a950bf70ae69b68550b309e6e/preview-400.20d28626fb5d.jpg
+        sha256: 20d28626fb5dfa06ab14197e1bae08351e8c5f4223d95ffa62e37ed4708db0bc
+        mime: image/jpeg
+        bytes: 34414
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

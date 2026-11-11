@@ -1,0 +1,47 @@
+id: 01H6EP1VNQMP9FA253K49WJ331
+type: image
+subtype: photo
+title: Helga Lemke vor dem Schlachterei
+location: Arendsee, Deichstraße
+geocode:
+  lat: 53.0837
+  lon: 11.4761
+  precision: town
+  source: osm
+origin:
+  name: Anni Heuer
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 1
+subjects:
+  - name: Deicharbeiten 1892
+    type: event
+  - name: Dieter Dreyer
+    type: person
+parents:
+  - 01GA5Z0DBZAQFYJJA123R8HCJ9
+files:
+  - role: main
+    original_name: scan_295.tif
+    path: files/f4/50/f4502f72722f33f527759f5230c1eafed80d04f10fe2139f757ea0a5001f78da/original.tif
+    sha256: f4502f72722f33f527759f5230c1eafed80d04f10fe2139f757ea0a5001f78da
+    mime: image/tiff
+    bytes: 3768294
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f4/50/f4502f72722f33f527759f5230c1eafed80d04f10fe2139f757ea0a5001f78da/preview-400.3db2956f379d.jpg
+        sha256: 3db2956f379d34796b11c53f9b1baeb64ca6ed7728b38bad06a38e3e5a207d07
+        mime: image/jpeg
+        bytes: 23811
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

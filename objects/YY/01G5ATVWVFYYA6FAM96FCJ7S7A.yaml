@@ -1,0 +1,48 @@
+id: 01G5ATVWVFYYA6FAM96FCJ7S7A
+type: image
+subtype: photo
+title: Hochzeit 1933
+date: 1933-04-08
+location: Gartow, Lange Straße
+geocode:
+  lat: 52.9237
+  lon: 11.6198
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Wegner
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Familie Matthies
+    type: person
+    location: Gartow
+  reference: F/Kasten 27/030
+subjects:
+  - name: Kapern
+    type: place
+  - name: Kirche St. Johannis
+    type: building
+parents:
+  - 01EY1NE802VNKMTZ9APK9WPWYD
+files:
+  - role: main
+    original_name: P7119.jpg
+    path: files/7f/64/7f641cba4b9704c7bba795f04c50151e2ce6db2c4639c50af4ee9db1eb36c7d7/original.jpg
+    sha256: 7f641cba4b9704c7bba795f04c50151e2ce6db2c4639c50af4ee9db1eb36c7d7
+    mime: image/jpeg
+    bytes: 14306748
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/7f/64/7f641cba4b9704c7bba795f04c50151e2ce6db2c4639c50af4ee9db1eb36c7d7/preview-400.ea5f0368c3f2.jpg
+        sha256: ea5f0368c3f2617f1042ab5388234ad6d709112c2169b0b4ff57a6ad292111b8
+        mime: image/jpeg
+        bytes: 81927
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

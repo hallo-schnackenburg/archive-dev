@@ -1,0 +1,39 @@
+id: 01KN919HSRVVCNM1DNF9DVNAG8
+type: image
+subtype: photo
+title: Grenzöffnung 1993
+date: 1993-05-04
+origin:
+  name: Heinrich Wiegmann
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Schützenhaus
+    type: building
+parents:
+  - 01M3RT3C17QDA971WE6FYTG43J
+files:
+  - role: main
+    original_name: DSC4427.jpg
+    path: files/39/a6/39a6885ec4b3bae0e1468419aea53167eca5af5dd9e33ddf4aa4bb76acc5a03e/original.jpg
+    sha256: 39a6885ec4b3bae0e1468419aea53167eca5af5dd9e33ddf4aa4bb76acc5a03e
+    mime: image/jpeg
+    bytes: 15404212
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/39/a6/39a6885ec4b3bae0e1468419aea53167eca5af5dd9e33ddf4aa4bb76acc5a03e/preview-400.0979d0d4d8df.jpg
+        sha256: 0979d0d4d8df1a899cdb93d02926554dfe9715f16935d387c35fb675eaec7448
+        mime: image/jpeg
+        bytes: 73370
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01J498835V6AZTVCGHGK21K7TJ
+type: image
+subtype: photo
+title: Speicher in Kapern
+description: Aufnahme von Helga Tiedemann.
+location: Gorleben, Fährstraße
+origin:
+  name: Anni Gerdes
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 10/011
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v72792
+subjects:
+  - name: Fritz Garms
+    type: person
+  - name: Brückeneinweihung 1915
+    type: event
+files:
+  - role: main
+    original_name: IMG_4409.jpg
+    path: files/e5/d1/e5d1a8d98f839cc736a039563f6983caee249cc746b531f8044c55df047e77e9/original.jpg
+    sha256: e5d1a8d98f839cc736a039563f6983caee249cc746b531f8044c55df047e77e9
+    mime: image/jpeg
+    bytes: 19704471
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/e5/d1/e5d1a8d98f839cc736a039563f6983caee249cc746b531f8044c55df047e77e9/preview-400.45ce3609b271.jpg
+        sha256: 45ce3609b2712c5c118c54363ef78587098eca77031e89ce9206fb1c8d28cf44
+        mime: image/jpeg
+        bytes: 43019
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

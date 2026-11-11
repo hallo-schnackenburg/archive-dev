@@ -1,0 +1,41 @@
+id: 01KA8NSFK66ZQTF96P1P60RQJV
+type: image
+subtype: plan
+title: Deichplan Gorleben bis Bömenzien
+date: 1906?
+origin:
+  name: Sabine Brandt
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Sturmschaden 1906
+    type: event
+  - name: Hitzacker
+    type: place
+  - name: Günter Tiedemann
+    type: person
+files:
+  - role: main
+    original_name: scan_334.tif
+    path: files/56/f4/56f4f296fdf7fa89c22ec5324f51bd0550b06048b1caf8af1f0556520fca0c91/original.tif
+    sha256: 56f4f296fdf7fa89c22ec5324f51bd0550b06048b1caf8af1f0556520fca0c91
+    mime: image/tiff
+    bytes: 7913458
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/56/f4/56f4f296fdf7fa89c22ec5324f51bd0550b06048b1caf8af1f0556520fca0c91/preview-400.1f2430ece5c9.jpg
+        sha256: 1f2430ece5c9130565172d20752962731ba867950fab45c659bbc9c9114f5183
+        mime: image/jpeg
+        bytes: 69545
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

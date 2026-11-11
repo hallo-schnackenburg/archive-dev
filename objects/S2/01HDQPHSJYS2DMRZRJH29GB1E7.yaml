@@ -1,0 +1,36 @@
+id: 01HDQPHSJYS2DMRZRJH29GB1E7
+type: image
+subtype: photo
+title: Erntedankfest 1900
+description: Farbfoto, leicht verblasst.
+date: "1900"
+location: Cumlosen, Pumpenhaus
+origin:
+  name: Dieter Prieß
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Karl Voss
+    type: person
+  - name: Karl Lemke
+    type: person
+files:
+  - role: main
+    original_name: IMG_0219.jpg
+    path: files/56/e0/56e0ddc0be16eed70edc7d0956ef33b1b14f1c5e55aa97e8880db0e49e81f71c/original.jpg
+    sha256: 56e0ddc0be16eed70edc7d0956ef33b1b14f1c5e55aa97e8880db0e49e81f71c
+    mime: image/jpeg
+    bytes: 16702134
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/56/e0/56e0ddc0be16eed70edc7d0956ef33b1b14f1c5e55aa97e8880db0e49e81f71c/preview-400.71bfe6875692.jpg
+        sha256: 71bfe6875692ff731fc1453f406d52a7609ccad2bbc6836ad2a1ac9f4216b19c
+        mime: image/jpeg
+        bytes: 50642
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

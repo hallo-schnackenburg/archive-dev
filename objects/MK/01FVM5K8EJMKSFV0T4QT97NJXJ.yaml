@@ -1,0 +1,61 @@
+id: 01FVM5K8EJMKSFV0T4QT97NJXJ
+type: document
+subtype: letter
+title: Zeugnis für Ilse Garms
+date: 1936?
+location: Gartow, Marktstraße
+geocode:
+  lat: 53.0019
+  lon: 11.5987
+  precision: street
+  source: osm
+origin:
+  name: Karl Voss
+  type: person
+  location: Nienwalde
+recipient: Karl Meyer
+language: nds
+subjects:
+  - name: Hermann Schulz
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_97njxj_001.tif
+    path: files/4d/bf/4dbf1d934b53ce91a9768f56bf64239c0d327a5eb043414eb5ba6639bff8ea84/original.tif
+    sha256: 4dbf1d934b53ce91a9768f56bf64239c0d327a5eb043414eb5ba6639bff8ea84
+    mime: image/tiff
+    bytes: 9940574
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4d/bf/4dbf1d934b53ce91a9768f56bf64239c0d327a5eb043414eb5ba6639bff8ea84/preview-400.518e08e0044a.jpg
+        sha256: 518e08e0044af198a7406522752da98ab49fc08f4bd4a770ab1e268719bf7ac8
+        mime: image/jpeg
+        bytes: 53717
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_97njxj_002.tif
+    path: files/05/3e/053e45e2f82257b770ce7b8ae946d44c140df90bca73511582448b8587ad6b6e/original.tif
+    sha256: 053e45e2f82257b770ce7b8ae946d44c140df90bca73511582448b8587ad6b6e
+    mime: image/tiff
+    bytes: 21964881
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/3e/053e45e2f82257b770ce7b8ae946d44c140df90bca73511582448b8587ad6b6e/preview-400.e0f48fd41709.jpg
+        sha256: e0f48fd4170973e4eed5215202db27a13fdb7a927e1cd6906c5a55e75da792b9
+        mime: image/jpeg
+        bytes: 86166
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

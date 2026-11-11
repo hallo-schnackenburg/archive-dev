@@ -1,0 +1,37 @@
+id: 01HZGYYKNBNBANWS5QNQ1BVZZT
+type: image
+subtype: print
+title: Postkarte Bömenzien, Bäckerei Lüders
+date: 1780-10-07
+location: Gülden, Badestelle
+origin:
+  name: Karl Harms
+  type: person
+  location: Zadrau
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Fährjubiläum 1780
+    type: event
+parents:
+  - 01FYF46BCNWMPMBZAF8Z3VZK3Y
+files:
+  - role: main
+    original_name: scan_144.tif
+    path: files/fb/2b/fb2bef612b05da2a6f9c568e506faf548d285eee635e7315c40471b0e5ffc17c/original.tif
+    sha256: fb2bef612b05da2a6f9c568e506faf548d285eee635e7315c40471b0e5ffc17c
+    mime: image/tiff
+    bytes: 10734634
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fb/2b/fb2bef612b05da2a6f9c568e506faf548d285eee635e7315c40471b0e5ffc17c/preview-400.834eca31abda.jpg
+        sha256: 834eca31abda1039b1223c46da747f6f4718d04425686cc83beeb7b398b3837a
+        mime: image/jpeg
+        bytes: 52206
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

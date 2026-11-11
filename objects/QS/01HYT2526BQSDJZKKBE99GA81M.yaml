@@ -1,0 +1,40 @@
+id: 01HYT2526BQSDJZKKBE99GA81M
+type: image
+subtype: drawing
+title: Skizze Rüterberg, Hinter den Höfen
+description: Mit Anmerkungen am Rand.
+date: "1942"
+location: Schnackenburg, Ziegelei
+origin:
+  name: Ernst Tiedemann
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan/Album 24/001
+subjects:
+  - name: Einschulung 1942
+    type: event
+files:
+  - role: main
+    original_name: scan_751.tif
+    path: files/1b/8c/1b8cec196da8fe3ec94bb1305fc1bb5d742f2e2531559266a5594c06adda86a5/original.tif
+    sha256: 1b8cec196da8fe3ec94bb1305fc1bb5d742f2e2531559266a5594c06adda86a5
+    mime: image/tiff
+    bytes: 26723517
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1b/8c/1b8cec196da8fe3ec94bb1305fc1bb5d742f2e2531559266a5594c06adda86a5/preview-400.d735d3f34c0c.jpg
+        sha256: d735d3f34c0cc9c340e8c57444e999782aa35d40e85cfc3b1879bad193875873
+        mime: image/jpeg
+        bytes: 81028
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

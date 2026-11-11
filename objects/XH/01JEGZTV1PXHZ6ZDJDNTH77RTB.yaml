@@ -1,0 +1,35 @@
+id: 01JEGZTV1PXHZ6ZDJDNTH77RTB
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Wootz 1905
+description: "Beschlossen wurde unter anderem: Hundesteuer."
+date: 1905?
+location: Cumlosen, Kirche St. Johannis
+geocode:
+  lat: 53.059
+  lon: 11.4941
+  precision: region
+  source: osm
+origin:
+  name: Bauausschuss Holtorf
+  type: business
+  location: Salzwedel
+language: de
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Album 5/004
+subjects:
+  - name: Einweihung 1905
+    type: event
+  - name: Maifeier 1905
+    type: event
+storage: external
+external:
+  - type: archive
+    site: Kreisarchiv Lüchow-Dannenberg
+    uri: https://kreisarchiv-l-chow-dannenberg.example.org/objekt/166324
+    note: Seiten 12–19
+    retrieved: 2025-03-01

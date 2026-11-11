@@ -1,0 +1,37 @@
+id: 01GJ1HHRPGAR82F845W6B73BTA
+type: image
+subtype: photo
+title: Blick vom Backhaus auf das Ziegelei
+date: 1950-03-11
+location: Rüterberg, Marktstraße
+geocode:
+  lat: 53.0668
+  lon: 11.5796
+  precision: exact
+  source: osm
+origin:
+  name: Käthe Schulz
+  type: person
+  location: Zadrau
+parents:
+  - 01GHB8CACBDV42F0VWCD6Z5CC1
+files:
+  - role: main
+    original_name: scan_650.tif
+    path: files/a3/77/a37726a48fff5b12a7f0f183ab97a7e654e3df6a88b294bd6fb4ccd426df14f1/original.tif
+    sha256: a37726a48fff5b12a7f0f183ab97a7e654e3df6a88b294bd6fb4ccd426df14f1
+    mime: image/tiff
+    bytes: 5130051
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a3/77/a37726a48fff5b12a7f0f183ab97a7e654e3df6a88b294bd6fb4ccd426df14f1/preview-400.598b3e7a7e84.jpg
+        sha256: 598b3e7a7e84791fb82cbcf851c24c9a210e0030872886835d7a7b919bb560c8
+        mime: image/jpeg
+        bytes: 61544
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

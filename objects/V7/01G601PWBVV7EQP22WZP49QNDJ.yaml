@@ -1,0 +1,27 @@
+id: 01G601PWBVV7EQP22WZP49QNDJ
+type: document
+subtype: brochure
+title: Programmheft Sturmschaden 1924
+description: Mit Werbeanzeigen der örtlichen Betriebe.
+date: 1924-12-27
+location: Gartow, Försterei
+geocode:
+  lat: 53.0266
+  lon: 11.5898
+  precision: town
+  source: osm
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Schlachtfest 1924
+    type: event
+  - name: Günter Quast
+    type: person
+storage: external
+external:
+  - type: archive
+    site: Kreisarchiv Lüchow-Dannenberg
+    uri: https://kreisarchiv-l-chow-dannenberg.example.org/objekt/31306
+    reference: Hann. 15 Nr. 3919
+    note: nur Findbuch
+    retrieved: 2026-02-05

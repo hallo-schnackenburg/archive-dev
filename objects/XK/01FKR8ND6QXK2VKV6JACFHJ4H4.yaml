@@ -1,0 +1,63 @@
+id: 01FKR8ND6QXK2VKV6JACFHJ4H4
+type: document
+subtype: letter
+title: Mitteilung aus Wittenberge an Familie Voss
+description: Maschinenschriftlich, unterschrieben.
+location: Pretzier, Bahnhofstraße
+geocode:
+  lat: 53.0715
+  lon: 11.6525
+  precision: town
+  source: osm
+origin:
+  name: Erika Lüders
+  type: person
+  location: Seedorf
+recipient: Karl Wegner
+language: de
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Apotheke
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_fhj4h4_001.tif
+    path: files/f5/ac/f5aca1e382e706dfedaede44109c4703aeaf5d5850e237be13d2880402029425/original.tif
+    sha256: f5aca1e382e706dfedaede44109c4703aeaf5d5850e237be13d2880402029425
+    mime: image/tiff
+    bytes: 19997661
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f5/ac/f5aca1e382e706dfedaede44109c4703aeaf5d5850e237be13d2880402029425/preview-400.11dd53be2ba5.jpg
+        sha256: 11dd53be2ba52161b5cd48168e1ca2f95760b47245eae1925ee760ca33fe479f
+        mime: image/jpeg
+        bytes: 48066
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_fhj4h4_002.tif
+    path: files/d4/24/d4241d5501561156b28e491fe5bb11ef64f153160986af4f59b0a4df819f548a/original.tif
+    sha256: d4241d5501561156b28e491fe5bb11ef64f153160986af4f59b0a4df819f548a
+    mime: image/tiff
+    bytes: 9627969
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/24/d4241d5501561156b28e491fe5bb11ef64f153160986af4f59b0a4df819f548a/preview-400.28f67495b04e.jpg
+        sha256: 28f67495b04e891cbe07f80c652039a9d7056af0bf28dc61435598126ed379d8
+        mime: image/jpeg
+        bytes: 67158
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

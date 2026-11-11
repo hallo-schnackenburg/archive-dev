@@ -1,0 +1,59 @@
+id: 01H807B6QXC8RTP73409XJFM5B
+type: document
+subtype: letter
+title: Feldpostbrief von Ilse Matthies
+date: 1904?
+location: Lanz, Dorfladen
+origin:
+  name: Karl Rohde
+  type: person
+  location: Rüterberg
+language: de
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Weihnachtsmarkt 1904
+    type: event
+parents:
+  - 01GC32R7XA4RX5C5MWHXV94Y25
+files:
+  - role: page
+    num: 1
+    original_name: letter_xjfm5b_001.tif
+    path: files/95/ae/95ae90693e98e13c88a2174641b00c2441942493a386bfab2e010edca62f295d/original.tif
+    sha256: 95ae90693e98e13c88a2174641b00c2441942493a386bfab2e010edca62f295d
+    mime: image/tiff
+    bytes: 4893498
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/ae/95ae90693e98e13c88a2174641b00c2441942493a386bfab2e010edca62f295d/preview-400.9f834a2f4d87.jpg
+        sha256: 9f834a2f4d87e0dcba53eba1490732880f4ed039de22cfdc2479c1ff9ec008ca
+        mime: image/jpeg
+        bytes: 78268
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_xjfm5b_002.tif
+    path: files/fd/83/fd83eb2db3a9e159a130ed8e87ca81233f2cd20cef2b31f2ad0ab505b886a0d1/original.tif
+    sha256: fd83eb2db3a9e159a130ed8e87ca81233f2cd20cef2b31f2ad0ab505b886a0d1
+    mime: image/tiff
+    bytes: 20264945
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fd/83/fd83eb2db3a9e159a130ed8e87ca81233f2cd20cef2b31f2ad0ab505b886a0d1/preview-400.f3705a26a7a3.jpg
+        sha256: f3705a26a7a36a862e3cc88f1f7567348741e549eba25c61549076eb33939fc5
+        mime: image/jpeg
+        bytes: 78722
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

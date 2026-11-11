@@ -1,0 +1,34 @@
+id: 01H8Y1SB2PAW7B6ST9G95Z8W0Q
+type: image
+subtype: photo
+title: Dieter Lemke vor dem Storchennest
+origin:
+  name: Gustav Voss
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Konfirmation 1946
+    type: event
+parents:
+  - 01FEMA2K3GSA17BGZHHP3N0PEF
+  - 01J5VEM4DET47BYJHEPTWJ7T8Q
+files:
+  - role: main
+    original_name: P2668.jpg
+    path: files/ae/f0/aef01e44ef8ff7d32d7091c19498beeb16145898e3e8051ae9f7d194531a9c7a/original.jpg
+    sha256: aef01e44ef8ff7d32d7091c19498beeb16145898e3e8051ae9f7d194531a9c7a
+    mime: image/jpeg
+    bytes: 11274364
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ae/f0/aef01e44ef8ff7d32d7091c19498beeb16145898e3e8051ae9f7d194531a9c7a/preview-400.02b4dc1b5fed.jpg
+        sha256: 02b4dc1b5fedcf791f5387b0ceafa1e09d9e2c567c3069b28fd24d2a9c5ebd36
+        mime: image/jpeg
+        bytes: 50143
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

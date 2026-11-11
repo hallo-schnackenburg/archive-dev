@@ -1,0 +1,51 @@
+id: 01H2SETM1PPT72JXG1T60Z6G65
+type: image
+subtype: photo
+title: Dorfkrug in Holtorf
+description: Zu sehen sind Scheune und Kriegerdenkmal.
+date: 1927-11-16
+location: Wittenberge, Burgstraße
+geocode:
+  lat: 53.0456
+  lon: 11.4609
+  precision: exact
+  source: osm
+origin:
+  name: Rudolf Harms
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 19/063
+subjects:
+  - name: Paul Harms
+    type: person
+  - name: Seedorf
+    type: place
+  - name: Seedorf
+    type: place
+parents:
+  - 01J0TGH296RHC0G6JXY0S53XED
+files:
+  - role: main
+    original_name: scan_904.tif
+    path: files/87/61/876142040675c4a8ea75568c0c0323d6d7c8cdc787aa074fb67ece03c6e67b55/original.tif
+    sha256: 876142040675c4a8ea75568c0c0323d6d7c8cdc787aa074fb67ece03c6e67b55
+    mime: image/tiff
+    bytes: 8674594
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/87/61/876142040675c4a8ea75568c0c0323d6d7c8cdc787aa074fb67ece03c6e67b55/preview-400.a4284440ff9e.jpg
+        sha256: a4284440ff9efd8202277f890719b2cc3f70da9d61560585cea8edd7f365eaf2
+        mime: image/jpeg
+        bytes: 38154
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

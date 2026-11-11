@@ -1,0 +1,33 @@
+id: 01HN8JRH7EY4V03DX06TQJQNMS
+type: image
+subtype: photo
+title: Bernd Wiese vor dem Hafen
+description: Zu sehen sind Kriegerdenkmal und Kriegerdenkmal.
+date: 1955-07
+location: Gorleben, Elbstraße
+origin:
+  name: Dieter Brandt
+  type: person
+  location: Wustrow
+parents:
+  - 01F5CNJT1P56W2G465BH02E933
+files:
+  - role: main
+    original_name: DSC5989.jpg
+    path: files/3f/ca/3fca8d7f19a6fb6a30f3071d0ae2d90de481bf6f6e0b61b19794f72551321254/original.jpg
+    sha256: 3fca8d7f19a6fb6a30f3071d0ae2d90de481bf6f6e0b61b19794f72551321254
+    mime: image/jpeg
+    bytes: 25619568
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/3f/ca/3fca8d7f19a6fb6a30f3071d0ae2d90de481bf6f6e0b61b19794f72551321254/preview-400.5a80ce6a9854.jpg
+        sha256: 5a80ce6a9854dddc74011ebaec31e3a45938caa3234b1e981ceed4a03449f94d
+        mime: image/jpeg
+        bytes: 40486
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

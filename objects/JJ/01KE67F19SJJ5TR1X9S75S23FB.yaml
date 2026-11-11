@@ -1,0 +1,40 @@
+id: 01KE67F19SJJ5TR1X9S75S23FB
+type: image
+subtype: drawing
+title: Federzeichnung Apotheke
+description: Bleistift auf Papier.
+date: 1872-01-28
+location: Schnackenburg, Bahnhofstraße
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok 8/293
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Brunnen am Markt
+    type: building
+parents:
+  - 01HPH5JAF3E8TMGWEPVY0VVSZH
+files:
+  - role: main
+    original_name: scan_723.tif
+    path: files/dd/69/dd69b15e3abcdbe726b87f980d64015f2d14f3bf51e6536f0c03250eaa65f9c8/original.tif
+    sha256: dd69b15e3abcdbe726b87f980d64015f2d14f3bf51e6536f0c03250eaa65f9c8
+    mime: image/tiff
+    bytes: 648196
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/dd/69/dd69b15e3abcdbe726b87f980d64015f2d14f3bf51e6536f0c03250eaa65f9c8/preview-400.96fb5cfc53ff.jpg
+        sha256: 96fb5cfc53fff5f33924e8f4015bf0e431a834d1af8d0380e5c8f71131cabd4f
+        mime: image/jpeg
+        bytes: 74656
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01JYEJP4D1TWC5R43S5CPKBNCF
+type: image
+subtype: plan
+title: Grundriss Fähranleger
+description: Tusche auf Transparentpapier.
+origin:
+  name: Manfred Burmester
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 15/093
+subjects:
+  - name: Schützenfest 1818
+    type: event
+parents:
+  - 01GZKK3S8ZTHZFVGYM1SQET170
+files:
+  - role: main
+    original_name: scan_036.tif
+    path: files/7e/31/7e314fb4eaf3b6d82cdb2c1ed859b1c82ba767b6767773de924f57bd5b9c7b6e/original.tif
+    sha256: 7e314fb4eaf3b6d82cdb2c1ed859b1c82ba767b6767773de924f57bd5b9c7b6e
+    mime: image/tiff
+    bytes: 16160856
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7e/31/7e314fb4eaf3b6d82cdb2c1ed859b1c82ba767b6767773de924f57bd5b9c7b6e/preview-400.d1dfbdf93b4d.jpg
+        sha256: d1dfbdf93b4d573f5c045eeab1d91f96f7834ea9ced7d3e839f29e14a6159d55
+        mime: image/jpeg
+        bytes: 47375
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01KRVDYARH2HTV6TWG98ZG2G3D
+type: image
+subtype: photo
+title: Am Elbdeich, Ecke Bahnhofstraße
+description: Abzug im Format 10 x 15 cm.
+date: "1895"
+location: Kapern, Ladestraße
+geocode:
+  lat: 52.9168
+  lon: 11.6816
+  precision: exact
+  source: osm
+origin:
+  name: Otto Brandt
+  type: person
+  location: Wustrow
+subjects:
+  - name: Karl Tiedemann
+    type: person
+  - name: Wustrow
+    type: place
+  - name: Ziegelei
+    type: building
+files:
+  - role: main
+    original_name: P4757.jpg
+    path: files/a3/43/a343cbab1b3429dec2ef0e06fc7c291c5a82a42506d5fe42e60655e5e645d296/original.jpg
+    sha256: a343cbab1b3429dec2ef0e06fc7c291c5a82a42506d5fe42e60655e5e645d296
+    mime: image/jpeg
+    bytes: 3678602
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a3/43/a343cbab1b3429dec2ef0e06fc7c291c5a82a42506d5fe42e60655e5e645d296/preview-400.4e616130b861.jpg
+        sha256: 4e616130b8617aacfa5ebbaa6c3a65004a3502b3b214c966330e6c18e1e08b7e
+        mime: image/jpeg
+        bytes: 45290
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

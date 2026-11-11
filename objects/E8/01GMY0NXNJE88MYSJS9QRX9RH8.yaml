@@ -1,0 +1,63 @@
+id: 01GMY0NXNJE88MYSJS9QRX9RH8
+type: document
+subtype: note
+title: Rechnung Schwarz, Gärtnerei
+description: Beleg mit Stempel.
+date: 1917~
+origin:
+  name: Karl Lüders
+  type: person
+  location: Rüterberg
+language: de
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Dömitz
+  reference: Br/Mappe 21/069
+subjects:
+  - name: Zadrau
+    type: place
+parents:
+  - 01KC6VVRX03XHNE2QA3QHP7TYJ
+files:
+  - role: page
+    num: 1
+    original_name: note_rx9rh8_001.tif
+    path: files/a4/7e/a47e72fe260c1a8bec5d1bdf62751511944f5364e5f9016b51301765e426191f/original.tif
+    sha256: a47e72fe260c1a8bec5d1bdf62751511944f5364e5f9016b51301765e426191f
+    mime: image/tiff
+    bytes: 2903193
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a4/7e/a47e72fe260c1a8bec5d1bdf62751511944f5364e5f9016b51301765e426191f/preview-400.ccfcde3935a8.jpg
+        sha256: ccfcde3935a89ddcb916a61f540dbd66e2cedf23aec9855312e957b07b60bda9
+        mime: image/jpeg
+        bytes: 27787
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_rx9rh8_002.tif
+    path: files/39/b5/39b54a2d7c32688942ddb24246ae2cc9fa74165b048574d5872198b48add30fa/original.tif
+    sha256: 39b54a2d7c32688942ddb24246ae2cc9fa74165b048574d5872198b48add30fa
+    mime: image/tiff
+    bytes: 24924433
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/39/b5/39b54a2d7c32688942ddb24246ae2cc9fa74165b048574d5872198b48add30fa/preview-400.c40fe0346fd4.jpg
+        sha256: c40fe0346fd4919a1ed5eb9bab08c93809e79ba170c618a8c12505298e498534
+        mime: image/jpeg
+        bytes: 77000
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

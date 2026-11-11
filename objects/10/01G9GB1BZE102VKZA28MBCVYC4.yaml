@@ -1,0 +1,43 @@
+id: 01G9GB1BZE102VKZA28MBCVYC4
+type: image
+subtype: print
+title: Lithographie Tischlerei Bruns, Laase
+description: Lithographie, Rand beschnitten.
+date: 1860-04-13
+location: Hitzacker, Kirche St. Johannis
+origin:
+  name: Karl Lemke
+  type: person
+  location: Salzwedel
+owner:
+  name: Erika Jürgens
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Wilhelm Plate
+    type: person
+parents:
+  - 01G5CJBY3RS88Q2T2XPXK8Z7QS
+  - 01HCRJBF96Y6XBHZZ8XQX7630X
+files:
+  - role: main
+    original_name: scan_256.tif
+    path: files/ad/f6/adf6c7ad4854ef0d710e268cc3f2a534e7514354944b64e67d7b0cd424d6fb68/original.tif
+    sha256: adf6c7ad4854ef0d710e268cc3f2a534e7514354944b64e67d7b0cd424d6fb68
+    mime: image/tiff
+    bytes: 6069496
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ad/f6/adf6c7ad4854ef0d710e268cc3f2a534e7514354944b64e67d7b0cd424d6fb68/preview-400.ab0b48a67c10.jpg
+        sha256: ab0b48a67c10190b2fbebbe840d1a6904eaa40eaa549571dd88f8e289199b53c
+        mime: image/jpeg
+        bytes: 86636
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,47 @@
+id: 01EY31M139BR2JWDZJVD2MH66E
+type: image
+subtype: print
+title: Postkarte Seedorf, Zollamt
+description: Lithographie, Rand beschnitten.
+date: 1856-02
+location: Bömenzien, Apotheke
+origin:
+  name: Jürgen Lemke
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Fotos/Album 25/057
+  note: Dachboden, Truhe
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Walter Matthies
+    type: person
+  - name: Laase
+    type: place
+parents:
+  - 01HV23CDKEHB2T4F0325HW90F9
+files:
+  - role: main
+    original_name: scan_680.tif
+    path: files/21/c9/21c991985c148965f435ed9db904eb4b795c04fa4309b76b900ce5ed64f26c96/original.tif
+    sha256: 21c991985c148965f435ed9db904eb4b795c04fa4309b76b900ce5ed64f26c96
+    mime: image/tiff
+    bytes: 15321023
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/21/c9/21c991985c148965f435ed9db904eb4b795c04fa4309b76b900ce5ed64f26c96/preview-400.7ce256c23767.jpg
+        sha256: 7ce256c237679f4fd4a858468553b472b71359b43a4c6c380dd82ab0e58a2479
+        mime: image/jpeg
+        bytes: 80369
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

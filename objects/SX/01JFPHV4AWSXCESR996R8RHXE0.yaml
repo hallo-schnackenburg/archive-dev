@@ -1,0 +1,38 @@
+id: 01JFPHV4AWSXCESR996R8RHXE0
+type: image
+subtype: plan
+title: Bauplan Sportplatz 1766
+description: Mit handschriftlichen Ergänzungen.
+origin:
+  name: Marta Rathjens
+  type: person
+  location: Laase
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Gerda Meyer
+    type: person
+  - name: Kartoffelernte 1766
+    type: event
+parents:
+  - 01HV23CDKEHB2T4F0325HW90F9
+files:
+  - role: main
+    original_name: scan_590.tif
+    path: files/3a/fc/3afc815068eaeacaa4c3e4c93d9e2f388b8160895fd3af5237c5c87983ecae07/original.tif
+    sha256: 3afc815068eaeacaa4c3e4c93d9e2f388b8160895fd3af5237c5c87983ecae07
+    mime: image/tiff
+    bytes: 1624740
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/3a/fc/3afc815068eaeacaa4c3e4c93d9e2f388b8160895fd3af5237c5c87983ecae07/preview-400.ccded64debf2.jpg
+        sha256: ccded64debf2eeb750e2bf2283e3a983ae871772367aecd853a9ab40a72bec04
+        mime: image/jpeg
+        bytes: 48985
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

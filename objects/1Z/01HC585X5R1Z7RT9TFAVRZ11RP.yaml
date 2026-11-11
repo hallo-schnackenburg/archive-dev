@@ -1,0 +1,50 @@
+id: 01HC585X5R1Z7RT9TFAVRZ11RP
+type: image
+subtype: print
+title: Gruß aus Laase, Gollensdorf
+date: "1731"
+location: Lenzen, Kirche St. Johannis
+geocode:
+  lat: 53.0566
+  lon: 11.6178
+  precision: exact
+  source: osm
+origin:
+  name: Erika Meyer
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 1
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Dieter Lemke
+    type: person
+  - name: Havelberg
+    type: place
+parents:
+  - 01HDS44JS4B8GN7QC5M5DZA42B
+files:
+  - role: main
+    original_name: scan_715.tif
+    path: files/d3/1f/d31f3f5eed81fafe214c19be1dbce5b1e6e9f7957e5f79e859907c8ef8420450/original.tif
+    sha256: d31f3f5eed81fafe214c19be1dbce5b1e6e9f7957e5f79e859907c8ef8420450
+    mime: image/tiff
+    bytes: 5117391
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d3/1f/d31f3f5eed81fafe214c19be1dbce5b1e6e9f7957e5f79e859907c8ef8420450/preview-400.eb354fc3f893.jpg
+        sha256: eb354fc3f8937da7b6303e50e5c434e74ec281f3a1a791cf4f621ba6f9c20700
+        mime: image/jpeg
+        bytes: 78046
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01M30RWAR856N8WZ8GXB54E5AH
+type: image
+subtype: print
+title: Postkarte Wustrow, Gemeindehaus
+description: Postkarte, gelaufen 1954.
+date: "1885"
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 11/070
+subjects:
+  - name: Ilse Meyer
+    type: person
+  - name: Bäckerei Lüders
+    type: building
+parents:
+  - 01KQE2MVHCH023HXPRAKNXXJ2W
+files:
+  - role: main
+    original_name: scan_958.tif
+    path: files/f6/40/f6403d3d4e86496285199eed14cfc3152eb848f55e6a3af4ad0f635a275b5e61/original.tif
+    sha256: f6403d3d4e86496285199eed14cfc3152eb848f55e6a3af4ad0f635a275b5e61
+    mime: image/tiff
+    bytes: 14195266
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f6/40/f6403d3d4e86496285199eed14cfc3152eb848f55e6a3af4ad0f635a275b5e61/preview-400.e3cf556151d2.jpg
+        sha256: e3cf556151d23e875f635b3eb5296dd0b466a2c3cde429baffe1f852c255b719
+        mime: image/jpeg
+        bytes: 79086
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

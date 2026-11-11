@@ -1,0 +1,37 @@
+id: 01JDAYDX8ZNYJCWGT23TP41QGS
+type: image
+subtype: print
+title: Postkarte Gollensdorf, Schmiede
+date: 1916-10
+location: Bömenzien, Gutshaus
+origin:
+  name: Rudolf Rieke
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Erntedankfest 1916
+    type: event
+  - name: Ortsbesichtigung 1916
+    type: event
+parents:
+  - 01HEQM7NSGG9CPG145FYB637TF
+files:
+  - role: main
+    original_name: scan_577.tif
+    path: files/de/0a/de0ad877fbab9ecd8cc247087c8e5d4dc146a958d852bc560a95f112a359038d/original.tif
+    sha256: de0ad877fbab9ecd8cc247087c8e5d4dc146a958d852bc560a95f112a359038d
+    mime: image/tiff
+    bytes: 7230745
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/0a/de0ad877fbab9ecd8cc247087c8e5d4dc146a958d852bc560a95f112a359038d/preview-400.24267be60025.jpg
+        sha256: 24267be600259d8e63539b934b10e5b635ac8ff2878bc6db3a4d8c687dcb03db
+        mime: image/jpeg
+        bytes: 69539
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

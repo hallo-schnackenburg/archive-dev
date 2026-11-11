@@ -1,0 +1,41 @@
+id: 01J5Z82WG0QEZ6T4E6X97WJY92
+type: image
+subtype: plan
+title: Bauplan Försterei 1960
+description: Maßstab 1:100.
+date: "1960"
+location: Pretzier, Mühlenweg
+origin:
+  name: Albert Rieke
+  type: person
+  location: Wustrow
+subjects:
+  - name: Gartow
+    type: place
+  - name: Erika Pape
+    type: person
+  - name: Schlachtfest 1960
+    type: event
+parents:
+  - 01EVCP6NN2EADHWRTHNC79ZAS7
+  - 01GVJSDJ9R4Q8JD7JQQP5X0PH0
+files:
+  - role: main
+    original_name: scan_367.tif
+    path: files/52/6f/526fd4002b5af8de91842b69b0585e93d0e222791eb995bda2892ad68b45c9d0/original.tif
+    sha256: 526fd4002b5af8de91842b69b0585e93d0e222791eb995bda2892ad68b45c9d0
+    mime: image/tiff
+    bytes: 10960427
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/52/6f/526fd4002b5af8de91842b69b0585e93d0e222791eb995bda2892ad68b45c9d0/preview-400.6d7f01cb16e1.jpg
+        sha256: 6d7f01cb16e13c5312b956e7c8f50d8020b3dab1cc66f8a92055f3871c571a8b
+        mime: image/jpeg
+        bytes: 63711
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

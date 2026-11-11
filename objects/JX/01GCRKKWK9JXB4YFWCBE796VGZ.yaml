@@ -1,0 +1,61 @@
+id: 01GCRKKWK9JXB4YFWCBE796VGZ
+type: document
+subtype: note
+title: Rechnung Lemke, Ladestraße
+date: 1926-04
+location: Wootz, Molkerei
+geocode:
+  lat: 53.088
+  lon: 11.5381
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Wegner
+  type: person
+  location: Salzwedel
+language: de
+subjects:
+  - name: Zadrau
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_796vgz_001.tif
+    path: files/f0/bc/f0bce290c8620f1e54a031840f6d0af9126e994df2e80ec119f9e0a163136a62/original.tif
+    sha256: f0bce290c8620f1e54a031840f6d0af9126e994df2e80ec119f9e0a163136a62
+    mime: image/tiff
+    bytes: 25624540
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/bc/f0bce290c8620f1e54a031840f6d0af9126e994df2e80ec119f9e0a163136a62/preview-400.10b354ba459a.jpg
+        sha256: 10b354ba459a776083e5fc3ff09d982c8efb5ea65d1921199f506c2013ea218c
+        mime: image/jpeg
+        bytes: 24195
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_796vgz_002.tif
+    path: files/c8/ec/c8ec04a1a00b118c4b54a9afeb5bf60b2075e639325425e4152cf76e0c8f6b84/original.tif
+    sha256: c8ec04a1a00b118c4b54a9afeb5bf60b2075e639325425e4152cf76e0c8f6b84
+    mime: image/tiff
+    bytes: 21649571
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/ec/c8ec04a1a00b118c4b54a9afeb5bf60b2075e639325425e4152cf76e0c8f6b84/preview-400.ef7ac7eb372a.jpg
+        sha256: ef7ac7eb372adb0171d21d41991b72d5be2e50bc7390b0f1bb3e31fbb58bbcf7
+        mime: image/jpeg
+        bytes: 63985
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

@@ -1,0 +1,36 @@
+id: 01JFKW4Q1169T0F1ERZ52VPC3A
+type: image
+subtype: photo
+title: Deichstraße, Ecke Kirchstraße
+description: Farbfoto, leicht verblasst.
+date: 1923-04-05
+location: Salzwedel, Dorfladen
+origin:
+  name: Fritz Wiegmann
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+files:
+  - role: main
+    original_name: scan_172.tif
+    path: files/a4/d4/a4d432d417910dcabdc49594d79ff60b251ee3aaa37bf4e1cd2e76d4f4064af9/original.tif
+    sha256: a4d432d417910dcabdc49594d79ff60b251ee3aaa37bf4e1cd2e76d4f4064af9
+    mime: image/tiff
+    bytes: 19205455
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a4/d4/a4d432d417910dcabdc49594d79ff60b251ee3aaa37bf4e1cd2e76d4f4064af9/preview-400.608e4d54fcef.jpg
+        sha256: 608e4d54fcef679aa608d74c8a0f1494b7cc26327e39d1240b1748fe7bd03ffa
+        mime: image/jpeg
+        bytes: 81403
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

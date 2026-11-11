@@ -1,0 +1,94 @@
+id: 01G0TY26EEJ442W6Z8YXWCT18Z
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Kirchenglocken 1851
+date: 1851-09
+location: Hitzacker, Kegelbahn
+geocode:
+  lat: 52.9853
+  lon: 11.5151
+  precision: town
+  source: osm
+origin:
+  name: Verbandsversammlung Pretzier
+  type: business
+  location: Gorleben
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 5/008
+  note: Bücherregal links
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v39544
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Schmiede
+    type: building
+  - name: Einschulung 1851
+    type: event
+parents:
+  - 01K17ANV6BS1YN44GQNBJ2A6CF
+files:
+  - role: page
+    num: 1
+    original_name: protocol_wct18z_001.tif
+    path: files/d9/17/d9173ec2f7b4ce7516990070151f7f92996e000d3cd1e014d6d5b168a513d159/original.tif
+    sha256: d9173ec2f7b4ce7516990070151f7f92996e000d3cd1e014d6d5b168a513d159
+    mime: image/tiff
+    bytes: 17261855
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d9/17/d9173ec2f7b4ce7516990070151f7f92996e000d3cd1e014d6d5b168a513d159/preview-400.555118b652e2.jpg
+        sha256: 555118b652e23de21812ab8bfbfab366a08c401aec3371e034e4b7ccd72d0e86
+        mime: image/jpeg
+        bytes: 67310
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_wct18z_002.tif
+    path: files/22/83/22838373934c34833c37dd7114f3290921c6de4e83db07c981f9f7e40f22425e/original.tif
+    sha256: 22838373934c34833c37dd7114f3290921c6de4e83db07c981f9f7e40f22425e
+    mime: image/tiff
+    bytes: 17825581
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/22/83/22838373934c34833c37dd7114f3290921c6de4e83db07c981f9f7e40f22425e/preview-400.e749b955ba33.jpg
+        sha256: e749b955ba33d8bc61592b10d7bca28257235354065c4aa30e5081a9181df942
+        mime: image/jpeg
+        bytes: 66253
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_wct18z_003.tif
+    path: files/3a/cd/3acdff423730d08099115b3bb90aac00598ce68542d6cd66f42632a7651ff314/original.tif
+    sha256: 3acdff423730d08099115b3bb90aac00598ce68542d6cd66f42632a7651ff314
+    mime: image/tiff
+    bytes: 2492650
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3a/cd/3acdff423730d08099115b3bb90aac00598ce68542d6cd66f42632a7651ff314/preview-400.6cf3189d8fb0.jpg
+        sha256: 6cf3189d8fb0bde9bc4b19a33ac13e2ae567973d5a0273a5bbeb0293278e2c31
+        mime: image/jpeg
+        bytes: 28974
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

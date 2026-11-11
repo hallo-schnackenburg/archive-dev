@@ -1,0 +1,47 @@
+id: 01GFMHHHQ0EGM7MYP9WP1A9HPB
+type: image
+subtype: plan
+title: Deichplan Schnackenburg bis Bömenzien
+description: Maßstab 1:500.
+date: 1912-05-27
+location: Hitzacker, Deichstraße
+origin:
+  name: Heinrich Krüger
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v65373
+subjects:
+  - name: Hochwasser 1912
+    type: event
+  - name: Ilse Zander
+    type: person
+  - name: Tischlerei Bruns
+    type: building
+parents:
+  - 01F5CJH4Q7NJEW1D0ZXEW20ZNC
+  - 01HV23CDKEHB2T4F0325HW90F9
+files:
+  - role: main
+    original_name: scan_080.tif
+    path: files/4d/8f/4d8f25bbdead27098e52009c394b8d86181e30e46e3a2e352f71239b64a39396/original.tif
+    sha256: 4d8f25bbdead27098e52009c394b8d86181e30e46e3a2e352f71239b64a39396
+    mime: image/tiff
+    bytes: 11044102
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4d/8f/4d8f25bbdead27098e52009c394b8d86181e30e46e3a2e352f71239b64a39396/preview-400.0ea364bb55fd.jpg
+        sha256: 0ea364bb55fd4ab79aa0c6275d9f21242a633ba7f7b14ab899047f2ef7b978f7
+        mime: image/jpeg
+        bytes: 72838
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,56 @@
+id: 01KAT1SQGFHK9QNSN7VQPBNVRQ
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Kirchenchor 1842
+location: Nienwalde, Deichstraße
+language: de
+subjects:
+  - name: Dorfteich
+    type: building
+  - name: Friedhofskapelle
+    type: building
+  - name: Sparkasse
+    type: building
+parents:
+  - 01F0XSSMANGM9PNX5YW1P1YTG6
+files:
+  - role: page
+    num: 1
+    original_name: protocol_pbnvrq_001.tif
+    path: files/d1/e8/d1e8d5636df7bd89da726b370cbf203bf1247bf271e06efb8c47095ec2fda28b/original.tif
+    sha256: d1e8d5636df7bd89da726b370cbf203bf1247bf271e06efb8c47095ec2fda28b
+    mime: image/tiff
+    bytes: 8775849
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d1/e8/d1e8d5636df7bd89da726b370cbf203bf1247bf271e06efb8c47095ec2fda28b/preview-400.7d2c4abb2b00.jpg
+        sha256: 7d2c4abb2b002d919ce2733e2366b6e8f53f2994251cbf7484a77cf815f3ff42
+        mime: image/jpeg
+        bytes: 77024
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_pbnvrq_002.tif
+    path: files/de/a1/dea19146ee623e5279e992ce7cf1c4b1163c11aeacba92c5c592adc60c6f76eb/original.tif
+    sha256: dea19146ee623e5279e992ce7cf1c4b1163c11aeacba92c5c592adc60c6f76eb
+    mime: image/tiff
+    bytes: 11175286
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/a1/dea19146ee623e5279e992ce7cf1c4b1163c11aeacba92c5c592adc60c6f76eb/preview-400.f72c8d23380c.jpg
+        sha256: f72c8d23380c9577a6a005d5357e00be33f07b67b20334b6f76c55283ada6cea
+        mime: image/jpeg
+        bytes: 73086
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

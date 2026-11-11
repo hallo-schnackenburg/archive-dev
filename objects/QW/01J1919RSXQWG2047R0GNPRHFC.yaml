@@ -1,0 +1,42 @@
+id: 01J1919RSXQWG2047R0GNPRHFC
+type: image
+subtype: photo
+title: Osterfeuer 1956
+date: 1956-08-24
+location: Lanz, Dorfstraße
+geocode:
+  lat: 53.0848
+  lon: 11.4641
+  precision: town
+  source: osm
+origin:
+  name: Karl Plate
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Hafen
+    type: building
+  - name: Heinrich Lindemann
+    type: person
+  - name: Laase
+    type: place
+files:
+  - role: main
+    original_name: foto_0302.jpg
+    path: files/c2/59/c2599513b9cb92180dd5aa7d9f8e504c57621963e8787dcae518f3eec1d11ede/original.jpg
+    sha256: c2599513b9cb92180dd5aa7d9f8e504c57621963e8787dcae518f3eec1d11ede
+    mime: image/jpeg
+    bytes: 20630485
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/c2/59/c2599513b9cb92180dd5aa7d9f8e504c57621963e8787dcae518f3eec1d11ede/preview-400.10496ec0cf09.jpg
+        sha256: 10496ec0cf09cc0635ad16b951ef64002d29f42780a376975539d107125e12e9
+        mime: image/jpeg
+        bytes: 60241
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

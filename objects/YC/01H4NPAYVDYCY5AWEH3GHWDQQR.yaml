@@ -1,0 +1,40 @@
+id: 01H4NPAYVDYCY5AWEH3GHWDQQR
+type: image
+subtype: photo
+title: Scheune in Lenzen
+description: Farbfoto, leicht verblasst.
+date: 1892-07-18
+location: Rüterberg, Am Markt
+origin:
+  name: Käthe Albers
+  type: person
+  location: Wootz
+subjects:
+  - name: Kartoffelernte 1892
+    type: event
+  - name: Tanzsaal
+    type: building
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+parents:
+  - 01J0GVPF8CQ7XT4TS5V2ZE6DJJ
+files:
+  - role: main
+    original_name: scan_150.tif
+    path: files/79/29/79298f9fea3824e0cd69f044e7dde347600ed0d59a3207d280704342f5f9f479/original.tif
+    sha256: 79298f9fea3824e0cd69f044e7dde347600ed0d59a3207d280704342f5f9f479
+    mime: image/tiff
+    bytes: 6247860
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/79/29/79298f9fea3824e0cd69f044e7dde347600ed0d59a3207d280704342f5f9f479/preview-400.4d35510c93b8.jpg
+        sha256: 4d35510c93b815f2e07bbfe639cdce9b6745befbcdc6a970e0b073109352d3c3
+        mime: image/jpeg
+        bytes: 22681
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

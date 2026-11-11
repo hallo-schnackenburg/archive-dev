@@ -1,0 +1,35 @@
+id: 01JQ4CGQ54BXH4HTZP887SESR5
+type: image
+subtype: plan
+title: Deichplan Holtorf bis Cumlosen
+description: Maßstab 1:2500.
+date: 1986/1988
+location: Dömitz, Mühlenweg
+subjects:
+  - name: Marta Meyer
+    type: person
+  - name: Speicher
+    type: building
+parents:
+  - 01FGVBASJXHEH355K2B76NTT5V
+  - 01FVB0ZV7D5S8N9566PY0PJ70J
+files:
+  - role: main
+    original_name: scan_049.tif
+    path: files/e9/85/e985e548459561d4c273e4ee64c02567d8c6054b8e087792961ba3f8846eb1a4/original.tif
+    sha256: e985e548459561d4c273e4ee64c02567d8c6054b8e087792961ba3f8846eb1a4
+    mime: image/tiff
+    bytes: 16666680
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e9/85/e985e548459561d4c273e4ee64c02567d8c6054b8e087792961ba3f8846eb1a4/preview-400.be75cbfb8875.jpg
+        sha256: be75cbfb887572f72e0c7e3071f1ee9cdd3e0c24cf6ec42465cc6094e65d5203
+        mime: image/jpeg
+        bytes: 85853
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

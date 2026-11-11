@@ -1,0 +1,30 @@
+id: 01GJEMR8XCATE8T123MTRYPW71
+type: image
+subtype: plan
+title: Grundriss Dorfkrug
+date: "1907"
+subjects:
+  - name: Gasthof Meyer
+    type: building
+  - name: August Cohrs
+    type: person
+files:
+  - role: main
+    original_name: scan_282.tif
+    path: files/73/a8/73a802ffd3b05c29e624e3beb5c940bd3a1dd90765455906320feffc9f5358f0/original.tif
+    sha256: 73a802ffd3b05c29e624e3beb5c940bd3a1dd90765455906320feffc9f5358f0
+    mime: image/tiff
+    bytes: 17968325
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/73/a8/73a802ffd3b05c29e624e3beb5c940bd3a1dd90765455906320feffc9f5358f0/preview-400.771449bd7cec.jpg
+        sha256: 771449bd7cec09ff36c29161711e3f12d8e2f65a63b6fdf6d2b45454d3c9d738
+        mime: image/jpeg
+        bytes: 41034
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

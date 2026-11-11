@@ -1,0 +1,32 @@
+id: 01H1XA0GZNW56DM7WAFG872ME5
+type: image
+subtype: print
+title: Postkarte Lüchow, Brunnen am Markt
+description: Postkarte, gelaufen 1907.
+date: "1954"
+location: Holtorf, Heuberge
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+files:
+  - role: main
+    original_name: scan_511.tif
+    path: files/e0/c7/e0c7284a59f31658a5518c6d6ebc2b84780603b1cf90ca89e6aa203470dd9074/original.tif
+    sha256: e0c7284a59f31658a5518c6d6ebc2b84780603b1cf90ca89e6aa203470dd9074
+    mime: image/tiff
+    bytes: 11224966
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e0/c7/e0c7284a59f31658a5518c6d6ebc2b84780603b1cf90ca89e6aa203470dd9074/preview-400.fd180b7f9f86.jpg
+        sha256: fd180b7f9f86ae2bf5c2a18333db2ab9b77a079eeb4b55a65f8977c61f48ec69
+        mime: image/jpeg
+        bytes: 25149
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

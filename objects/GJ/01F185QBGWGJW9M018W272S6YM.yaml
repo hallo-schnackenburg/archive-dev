@@ -1,0 +1,65 @@
+id: 01F185QBGWGJW9M018W272S6YM
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Deichbau 1918
+description: Handschriftlich in Sütterlin.
+date: "1918"
+origin:
+  name: Samtgemeinderat Kapern
+  type: business
+  location: Kapern
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 15/065
+subjects:
+  - name: Hochzeit 1918
+    type: event
+  - name: Apotheke
+    type: building
+parents:
+  - 01K4FGD1ECY3HP77BZASK6DQRW
+files:
+  - role: page
+    num: 1
+    original_name: protocol_72s6ym_001.tif
+    path: files/55/e7/55e7229fef81f914228e31159a37e034eb2c8ee4b42330070eea7af08981f5ec/original.tif
+    sha256: 55e7229fef81f914228e31159a37e034eb2c8ee4b42330070eea7af08981f5ec
+    mime: image/tiff
+    bytes: 14855096
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/55/e7/55e7229fef81f914228e31159a37e034eb2c8ee4b42330070eea7af08981f5ec/preview-400.e42585580e0f.jpg
+        sha256: e42585580e0f050baa3d20f1fb2aeaba85cedfaaf3412b4982bf8ea7da1b780b
+        mime: image/jpeg
+        bytes: 74781
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_72s6ym_002.tif
+    path: files/ec/92/ec92b2a16fd860a20e76f10981648af8bf20b7029e06582a47ffa1507930ed40/original.tif
+    sha256: ec92b2a16fd860a20e76f10981648af8bf20b7029e06582a47ffa1507930ed40
+    mime: image/tiff
+    bytes: 7456513
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ec/92/ec92b2a16fd860a20e76f10981648af8bf20b7029e06582a47ffa1507930ed40/preview-400.f165f08e7c47.jpg
+        sha256: f165f08e7c473ae920a14f74fc4267c4504eb55044862292a82be383aa020da4
+        mime: image/jpeg
+        bytes: 46082
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

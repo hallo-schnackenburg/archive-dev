@@ -1,0 +1,61 @@
+id: 01KQP1N6SAVJRSFJNZ1ACEPF30
+type: document
+subtype: letter
+title: Schreiben der Kriegerverein an den Verbandsversammlung
+description: Mit Umschlag und Briefmarke.
+date: 1989-02-18
+location: Gülden, Sparkasse
+geocode:
+  lat: 53.0551
+  lon: 11.5334
+  precision: exact
+  source: osm
+origin:
+  name: Otto Wegner
+  type: person
+  location: Wustrow
+recipient: Ursula Behrens
+subjects:
+  - name: Hans Lemke
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_cepf30_001.tif
+    path: files/6e/ac/6eac020fa2967a5aadbabfa5517d29fcfd910e014935dc7e6e878c2e8211554e/original.tif
+    sha256: 6eac020fa2967a5aadbabfa5517d29fcfd910e014935dc7e6e878c2e8211554e
+    mime: image/tiff
+    bytes: 23668621
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/ac/6eac020fa2967a5aadbabfa5517d29fcfd910e014935dc7e6e878c2e8211554e/preview-400.2ddd7660a347.jpg
+        sha256: 2ddd7660a3475fde0da6120d8ffb1c6d36fc0360e8ec16f38b92cbc0856081a2
+        mime: image/jpeg
+        bytes: 64397
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_cepf30_002.tif
+    path: files/1c/d8/1cd879d4997f1e0543656ef9d10ae4c3fc685b4dda3af447245d5df014d26c47/original.tif
+    sha256: 1cd879d4997f1e0543656ef9d10ae4c3fc685b4dda3af447245d5df014d26c47
+    mime: image/tiff
+    bytes: 1167082
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/d8/1cd879d4997f1e0543656ef9d10ae4c3fc685b4dda3af447245d5df014d26c47/preview-400.a3b0c249e353.jpg
+        sha256: a3b0c249e35321b46f9109fbe5f06368773f5fdfbae900d12689cccadc9dbcec
+        mime: image/jpeg
+        bytes: 34197
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

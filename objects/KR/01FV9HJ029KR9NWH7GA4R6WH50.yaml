@@ -1,0 +1,29 @@
+id: 01FV9HJ029KR9NWH7GA4R6WH50
+type: image
+subtype: photo
+title: Eisgang 1895
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1895-01-23
+location: Rüterberg, Hafenstraße
+parents:
+  - 01F59EC1VBHH3WNCG7D36FBJZ4
+files:
+  - role: main
+    original_name: scan_249.tif
+    path: files/7e/ed/7eed94a35c431b8f12473fe94207fa4ff30c2e98cd6cc4d4da93120909ab69e4/original.tif
+    sha256: 7eed94a35c431b8f12473fe94207fa4ff30c2e98cd6cc4d4da93120909ab69e4
+    mime: image/tiff
+    bytes: 11104389
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7e/ed/7eed94a35c431b8f12473fe94207fa4ff30c2e98cd6cc4d4da93120909ab69e4/preview-400.cf6448430e08.jpg
+        sha256: cf6448430e08cfa4123db0b64516118181f78aa8a9538a314780391f0c672fc5
+        mime: image/jpeg
+        bytes: 50602
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

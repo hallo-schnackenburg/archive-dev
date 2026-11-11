@@ -1,0 +1,35 @@
+id: 01GE6VFAHT3HNHTQXMVEA8DWKG
+type: image
+subtype: drawing
+title: Federzeichnung Elbdeich, Salzwedel
+date: 1930-08-06
+location: Laase, Kaufmannshaus
+origin:
+  name: Marta Krüger
+  type: person
+  location: Restorf
+subjects:
+  - name: Nienwalde
+    type: place
+parents:
+  - 01KM675ZVCQFMKZVG8XHYFJ6C9
+files:
+  - role: main
+    original_name: scan_941.tif
+    path: files/2e/67/2e673cdbd4eea0916c8809206194a392bb7af9bebaa7888ce5adb246fd8725dd/original.tif
+    sha256: 2e673cdbd4eea0916c8809206194a392bb7af9bebaa7888ce5adb246fd8725dd
+    mime: image/tiff
+    bytes: 9765375
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/67/2e673cdbd4eea0916c8809206194a392bb7af9bebaa7888ce5adb246fd8725dd/preview-400.f08278cc730f.jpg
+        sha256: f08278cc730fda7980e0bcd2ec4500c275d3f721c24c82398bc314f002c3afd3
+        mime: image/jpeg
+        bytes: 57784
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

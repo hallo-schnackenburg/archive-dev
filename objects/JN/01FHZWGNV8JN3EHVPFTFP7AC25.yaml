@@ -1,0 +1,40 @@
+id: 01FHZWGNV8JN3EHVPFTFP7AC25
+type: image
+subtype: print
+title: Postkarte Lenzen, Gasthof Meyer
+description: Lithographie, Rand beschnitten.
+date: 186X
+location: Schnackenburg, Hafen
+origin:
+  name: Karl Lemke
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br/Album 4/017
+subjects:
+  - name: Hitzacker
+    type: place
+files:
+  - role: main
+    original_name: scan_801.tif
+    path: files/10/87/1087bca145a911ce422d9dfe2478eaf76c1c96c1a4d7b2ddf2768b5c742b5725/original.tif
+    sha256: 1087bca145a911ce422d9dfe2478eaf76c1c96c1a4d7b2ddf2768b5c742b5725
+    mime: image/tiff
+    bytes: 7697426
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/10/87/1087bca145a911ce422d9dfe2478eaf76c1c96c1a4d7b2ddf2768b5c742b5725/preview-400.c49be11f9af1.jpg
+        sha256: c49be11f9af1714340aef338e0618832515bc9184b02135dcd57b6db926b940c
+        mime: image/jpeg
+        bytes: 28475
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

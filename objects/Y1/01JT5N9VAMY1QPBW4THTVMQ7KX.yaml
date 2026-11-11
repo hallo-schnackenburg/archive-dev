@@ -1,0 +1,35 @@
+id: 01JT5N9VAMY1QPBW4THTVMQ7KX
+type: image
+subtype: photo
+title: Dorfstraße, Ecke Elbstraße
+date: 2003-03-10
+location: Dömitz, Schulstraße
+subjects:
+  - name: Kapern
+    type: place
+  - name: Erika Meyer
+    type: person
+  - name: Havelberg
+    type: place
+parents:
+  - 01FJMCPRQ0EG050EZ87JB0MN40
+files:
+  - role: main
+    original_name: P9330.jpg
+    path: files/a7/e2/a7e2fc588e36826bd1a0b264f22640017ba55971759a60a67565873826f0b737/original.jpg
+    sha256: a7e2fc588e36826bd1a0b264f22640017ba55971759a60a67565873826f0b737
+    mime: image/jpeg
+    bytes: 12267885
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/a7/e2/a7e2fc588e36826bd1a0b264f22640017ba55971759a60a67565873826f0b737/preview-400.3bd4e83c933c.jpg
+        sha256: 3bd4e83c933c2cbc7ab5795ba6a276d7966da2ff0912d339847d953ae00823ea
+        mime: image/jpeg
+        bytes: 37765
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

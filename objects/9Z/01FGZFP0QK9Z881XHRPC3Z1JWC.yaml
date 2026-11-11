@@ -1,0 +1,31 @@
+id: 01FGZFP0QK9Z881XHRPC3Z1JWC
+type: image
+subtype: plan
+title: Bauplan Kriegerdenkmal 1893
+description: Tusche auf Transparentpapier.
+date: "1893"
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Restorf
+    type: place
+files:
+  - role: main
+    original_name: scan_608.tif
+    path: files/91/69/9169fdba6b1b51f33286caabb87072665a4a978ef3409eea980839eef8400f97/original.tif
+    sha256: 9169fdba6b1b51f33286caabb87072665a4a978ef3409eea980839eef8400f97
+    mime: image/tiff
+    bytes: 9849277
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/91/69/9169fdba6b1b51f33286caabb87072665a4a978ef3409eea980839eef8400f97/preview-400.22fe43774643.jpg
+        sha256: 22fe43774643e0a499af6e9f4d55f641c4065191043cadcf6c7f56fc6ff8a8b6
+        mime: image/jpeg
+        bytes: 45203
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

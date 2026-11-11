@@ -1,0 +1,43 @@
+id: 01FZG1DXMH1VA2CHSV9NX7RZ99
+type: image
+subtype: photo
+title: Grenzöffnung 1927
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1927/1934
+location: Gartow, Fährstraße
+geocode:
+  lat: 52.9098
+  lon: 11.5534
+  precision: street
+  source: osm
+origin:
+  name: Günter Hartwig
+  type: person
+  location: Lenzen
+subjects:
+  - name: Hochwasser 1927
+    type: event
+  - name: Gasthof „Zur Elbe“
+    type: building
+parents:
+  - 01K16728TJR9J7SKEG0YYC3BZ6
+files:
+  - role: main
+    original_name: scan_750.tif
+    path: files/3e/1a/3e1a6b78fdd4e9d592cecb5c026b0fdb5ae0f7944fca2a81e515666d30062994/original.tif
+    sha256: 3e1a6b78fdd4e9d592cecb5c026b0fdb5ae0f7944fca2a81e515666d30062994
+    mime: image/tiff
+    bytes: 470360
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/1a/3e1a6b78fdd4e9d592cecb5c026b0fdb5ae0f7944fca2a81e515666d30062994/preview-400.6555e8021f26.jpg
+        sha256: 6555e8021f266669a35598ee200107425355273232872407071138a3b420ce25
+        mime: image/jpeg
+        bytes: 47980
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

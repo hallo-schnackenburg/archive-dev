@@ -1,0 +1,67 @@
+id: 01HGH6TZN9B4NZ6X2855HGM3E4
+type: document
+subtype: note
+title: Rechnung Kuhlmann, Backhaus
+date: 1936~
+location: Havelberg, Gärtnerei
+geocode:
+  lat: 53.0571
+  lon: 11.5332
+  precision: street
+  source: osm
+origin:
+  name: Helga Lemke
+  type: person
+  location: Holtorf
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br 19/129
+  note: Schrank B
+subjects:
+  - name: Pfarrhaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_hgm3e4_001.tif
+    path: files/ce/f9/cef90c0602bcc81e686834cb1051291d707d400836521bc77d7e6f99a3c924fb/original.tif
+    sha256: cef90c0602bcc81e686834cb1051291d707d400836521bc77d7e6f99a3c924fb
+    mime: image/tiff
+    bytes: 4481945
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ce/f9/cef90c0602bcc81e686834cb1051291d707d400836521bc77d7e6f99a3c924fb/preview-400.0793de9b84c0.jpg
+        sha256: 0793de9b84c05e37a35cd5ed78a25dee46ab269d9695c50897e6038381770ed0
+        mime: image/jpeg
+        bytes: 31131
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_hgm3e4_002.tif
+    path: files/fa/f3/faf39d38410a54aad503ff6ea922b9202a71ecebff374591592e5e6146cfb248/original.tif
+    sha256: faf39d38410a54aad503ff6ea922b9202a71ecebff374591592e5e6146cfb248
+    mime: image/tiff
+    bytes: 12076210
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fa/f3/faf39d38410a54aad503ff6ea922b9202a71ecebff374591592e5e6146cfb248/preview-400.453801a518f3.jpg
+        sha256: 453801a518f3d6f4e2e831473a64ee3d6a7fde0086496ee0611dc2cdb28de03a
+        mime: image/jpeg
+        bytes: 39827
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

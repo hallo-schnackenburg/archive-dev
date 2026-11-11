@@ -1,0 +1,40 @@
+id: 01FKDSFASNMDTZ01M96T5EW0V2
+type: image
+subtype: plan
+title: Bauplan Bäckerei Lüders 1912
+description: Maßstab 1:1000.
+location: Cumlosen, Am Markt
+origin:
+  name: Lotte Brandt
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Familie Rieke
+    type: person
+    location: Havelberg
+subjects:
+  - name: Kindergarten
+    type: building
+  - name: Ernst Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_523.tif
+    path: files/6c/17/6c174ebf5cc542772aea5cbb0cbaf976511524c52d78f47355b516a886647e4c/original.tif
+    sha256: 6c174ebf5cc542772aea5cbb0cbaf976511524c52d78f47355b516a886647e4c
+    mime: image/tiff
+    bytes: 16221130
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6c/17/6c174ebf5cc542772aea5cbb0cbaf976511524c52d78f47355b516a886647e4c/preview-400.fca51bbbc56f.jpg
+        sha256: fca51bbbc56f24fca5e0643be9f5453c2dbcbc7358b857accacf2882b4644b7a
+        mime: image/jpeg
+        bytes: 43731
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

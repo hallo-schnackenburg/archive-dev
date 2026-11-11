@@ -1,0 +1,38 @@
+id: 01JZRXXV8K7DEPFM3VMF4011RE
+type: image
+subtype: plan
+title: Bauplan Brunnen am Markt 1939
+description: Mit handschriftlichen Ergänzungen.
+date: 1939-08-10
+location: Holtorf, Gartenstraße
+origin:
+  name: Friedrich Jeß
+  type: person
+  location: Gartow
+subjects:
+  - name: Badestelle
+    type: building
+  - name: Kapern
+    type: place
+  - name: Gemeindehaus
+    type: building
+files:
+  - role: main
+    original_name: scan_109.tif
+    path: files/80/38/803843ed3c67b94353ba41d5a166f616322ed4be308c34c6554a6a504b429512/original.tif
+    sha256: 803843ed3c67b94353ba41d5a166f616322ed4be308c34c6554a6a504b429512
+    mime: image/tiff
+    bytes: 11030271
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/38/803843ed3c67b94353ba41d5a166f616322ed4be308c34c6554a6a504b429512/preview-400.2cddf89c2222.jpg
+        sha256: 2cddf89c22228d1ef0267833c5de9eb02fc285dbda541c85c201a5bd0e3f4b90
+        mime: image/jpeg
+        bytes: 63533
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

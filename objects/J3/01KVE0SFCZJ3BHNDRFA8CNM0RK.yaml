@@ -1,0 +1,33 @@
+id: 01KVE0SFCZJ3BHNDRFA8CNM0RK
+type: image
+subtype: print
+title: "Kupferstich: Dömitz von der Elbseite, Kapern"
+date: 1824-07
+location: Havelberg, Fährstraße
+origin:
+  name: Fritz Schulz
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Bömenzien
+    type: place
+files:
+  - role: main
+    original_name: scan_490.tif
+    path: files/f2/f0/f2f05ccc08feac7e59097efa9b0666a5f6f8606568c297bac0183dc3b5768188/original.tif
+    sha256: f2f05ccc08feac7e59097efa9b0666a5f6f8606568c297bac0183dc3b5768188
+    mime: image/tiff
+    bytes: 17707965
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f2/f0/f2f05ccc08feac7e59097efa9b0666a5f6f8606568c297bac0183dc3b5768188/preview-400.15b9f7443ffc.jpg
+        sha256: 15b9f7443ffce46fa63a8dc72b51dbd94530e158ff4574f52dc4ce9e883f8a3e
+        mime: image/jpeg
+        bytes: 85393
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

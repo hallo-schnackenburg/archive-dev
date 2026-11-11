@@ -1,0 +1,42 @@
+id: 01KZVY773AKKNM9AG90JMNN6Q8
+type: image
+subtype: drawing
+title: Skizze Bömenzien, Fährstraße
+description: Mit Anmerkungen am Rand.
+date: 197X
+origin:
+  name: Dieter Ludolf
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 18/106
+  note: Schrank B
+subjects:
+  - name: Irmgard Lemke
+    type: person
+parents:
+  - 01JPMD8F3VGY301NNB2HGSHFGR
+files:
+  - role: main
+    original_name: scan_865.tif
+    path: files/7a/4f/7a4f654c49312641e10242ddef7636aafe28bbd4d26ded42fc0df15296a6271b/original.tif
+    sha256: 7a4f654c49312641e10242ddef7636aafe28bbd4d26ded42fc0df15296a6271b
+    mime: image/tiff
+    bytes: 15041621
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7a/4f/7a4f654c49312641e10242ddef7636aafe28bbd4d26ded42fc0df15296a6271b/preview-400.d1457c4ccfa0.jpg
+        sha256: d1457c4ccfa0dc73aeb3a7ae89b8860b6ad6debd8ada3e49e153ad00afe876a1
+        mime: image/jpeg
+        bytes: 38902
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

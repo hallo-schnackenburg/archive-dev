@@ -1,0 +1,36 @@
+id: 01KT4K538CS06WQJD4RY7R63QH
+type: image
+subtype: print
+title: Gruß aus Hitzacker
+description: Lithographie, Rand beschnitten.
+date: 190X
+location: Nienwalde, Gemeindehaus
+subjects:
+  - name: Pumpenhaus
+    type: building
+  - name: Dorfteich
+    type: building
+  - name: Einschulung 1909
+    type: event
+parents:
+  - 01GGFA4BRHTCBTSYCZDK78S61J
+files:
+  - role: main
+    original_name: scan_930.tif
+    path: files/e2/8f/e28f07c27d7f914114ff3470731f6a49f1a3fbd5c0df0bc8977dfaa2ddabb17f/original.tif
+    sha256: e28f07c27d7f914114ff3470731f6a49f1a3fbd5c0df0bc8977dfaa2ddabb17f
+    mime: image/tiff
+    bytes: 17587316
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e2/8f/e28f07c27d7f914114ff3470731f6a49f1a3fbd5c0df0bc8977dfaa2ddabb17f/preview-400.4e35f8563386.jpg
+        sha256: 4e35f85633862e9e749413d2ce9e4f6fd13e42ac631583bef813dff3f2aaae46
+        mime: image/jpeg
+        bytes: 89827
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

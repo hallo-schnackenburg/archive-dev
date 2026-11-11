@@ -1,0 +1,42 @@
+id: 01J687XZ99QSPGASDHDSXGDT6P
+type: image
+subtype: photo
+title: Blick vom Kaufmannshaus auf das Gutshaus
+date: "2001"
+location: Laase, Am Markt
+geocode:
+  lat: 53.0822
+  lon: 11.6618
+  precision: region
+  source: osm
+origin:
+  name: Karl Cohrs
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Speicher
+    type: building
+parents:
+  - 01K6MM688883CWMKTJ2NVR6F70
+files:
+  - role: main
+    original_name: IMG_3996.jpg
+    path: files/79/cc/79cc290d673d7d140672ad939498f2ba6c937bc30fb40bc0b2241493f44efe1a/original.jpg
+    sha256: 79cc290d673d7d140672ad939498f2ba6c937bc30fb40bc0b2241493f44efe1a
+    mime: image/jpeg
+    bytes: 11810310
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/79/cc/79cc290d673d7d140672ad939498f2ba6c937bc30fb40bc0b2241493f44efe1a/preview-400.841756fc0063.jpg
+        sha256: 841756fc0063259bb1a371f694ed448b013c790d20ff6167e19f909a1c366c7a
+        mime: image/jpeg
+        bytes: 22665
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

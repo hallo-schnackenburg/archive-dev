@@ -1,0 +1,42 @@
+id: 01GASZQWJR1VKF1APJ3N12PGDE
+type: image
+subtype: photo
+title: Kriegerdenkmal in Brünkendorf
+description: Zu sehen sind Backhaus und Mühle.
+date: 1960~
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 21/075
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Karl Schulz
+    type: person
+  - name: Gerda Jeß
+    type: person
+parents:
+  - 01FEEW1K0P7657HFN4R8JBV1AC
+  - 01J0KJQZCBVBB5P2CFE222P7V3
+files:
+  - role: main
+    original_name: P6593.jpg
+    path: files/d0/a0/d0a032298eee521a1e20ec44e2a634a42f98ebe766c8dc75fa466e70f4fd6ebf/original.jpg
+    sha256: d0a032298eee521a1e20ec44e2a634a42f98ebe766c8dc75fa466e70f4fd6ebf
+    mime: image/jpeg
+    bytes: 10184913
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/d0/a0/d0a032298eee521a1e20ec44e2a634a42f98ebe766c8dc75fa466e70f4fd6ebf/preview-400.a49f70c2af14.jpg
+        sha256: a49f70c2af148e6ab79cf815373f5c59c958280e55b0f31db2f8a9ef71b5a5e5
+        mime: image/jpeg
+        bytes: 27591
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

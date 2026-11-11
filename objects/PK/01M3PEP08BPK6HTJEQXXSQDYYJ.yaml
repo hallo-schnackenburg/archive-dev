@@ -1,0 +1,38 @@
+id: 01M3PEP08BPK6HTJEQXXSQDYYJ
+type: image
+subtype: print
+title: Postkarte Schnackenburg, Ladestraße
+description: Postkarte, gelaufen 1960.
+date: 1881~
+original:
+  holder:
+    name: Familie Harms
+    type: person
+    location: Restorf
+  reference: Fotos 36/093
+owner:
+  name: Karl Wegner
+  type: person
+  note: Dauerleihgabe
+parents:
+  - 01G1ZMXCSZWR93Z3JYH6CR645Y
+files:
+  - role: main
+    original_name: scan_171.tif
+    path: files/10/59/1059ae19319686ee1ee3302f9648fbf2f171ad357ebaa8c42e11d359e6dd29e1/original.tif
+    sha256: 1059ae19319686ee1ee3302f9648fbf2f171ad357ebaa8c42e11d359e6dd29e1
+    mime: image/tiff
+    bytes: 19210639
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/10/59/1059ae19319686ee1ee3302f9648fbf2f171ad357ebaa8c42e11d359e6dd29e1/preview-400.3f88795509ad.jpg
+        sha256: 3f88795509ad6194d049eb323d15c153bebbec5b3f33292fe86bef5b7e5fab1c
+        mime: image/jpeg
+        bytes: 46994
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

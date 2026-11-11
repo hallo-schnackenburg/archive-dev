@@ -1,0 +1,38 @@
+id: 01FVM3HTN8C5363QZ2CDQQVM44
+type: image
+subtype: drawing
+title: Skizze Gorleben, Elbstraße
+date: "1973"
+location: Pretzier, Elbdeich
+origin:
+  name: Heinrich Wegner
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  note: Regal 4, Kiste 2
+parents:
+  - 01KFJF1DM6WA2NVDNSAADJ19BQ
+files:
+  - role: main
+    original_name: scan_750.tif
+    path: files/ca/36/ca3652090dcaa741abfb371fa586c090c8b7600201c8e0f10104faab9393869f/original.tif
+    sha256: ca3652090dcaa741abfb371fa586c090c8b7600201c8e0f10104faab9393869f
+    mime: image/tiff
+    bytes: 9426602
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ca/36/ca3652090dcaa741abfb371fa586c090c8b7600201c8e0f10104faab9393869f/preview-400.bed2df42d0d3.jpg
+        sha256: bed2df42d0d38d96d53da35ad828f4cbf5b6d86f79d4d365155d1ba4ba5b3fdb
+        mime: image/jpeg
+        bytes: 40417
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

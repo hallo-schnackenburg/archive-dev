@@ -1,0 +1,41 @@
+id: 01FC0ETS2Z12T4W9R6JCNVAADF
+type: image
+subtype: plan
+title: Bauplan Ziegelei 1849
+description: Tusche auf Transparentpapier.
+date: 1849~
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 21/053
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Friedrich Wöhlk
+    type: person
+  - name: Schlachtfest 1849
+    type: event
+parents:
+  - 01GKS14MYNZ2SH5MPVMV8DY5ZA
+files:
+  - role: main
+    original_name: scan_285.tif
+    path: files/ee/59/ee597d374f552797581791afa65cffe1d3862527e2188e71673a07617127659f/original.tif
+    sha256: ee597d374f552797581791afa65cffe1d3862527e2188e71673a07617127659f
+    mime: image/tiff
+    bytes: 10152738
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ee/59/ee597d374f552797581791afa65cffe1d3862527e2188e71673a07617127659f/preview-400.8e3c80e08427.jpg
+        sha256: 8e3c80e0842726b153f682330cb248d09949f9c7fcb6dbca5ea207943c865302
+        mime: image/jpeg
+        bytes: 64475
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

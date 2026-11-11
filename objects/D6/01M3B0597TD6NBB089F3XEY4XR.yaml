@@ -1,0 +1,45 @@
+id: 01M3B0597TD6NBB089F3XEY4XR
+type: image
+subtype: photo
+title: Konfirmation 2001
+date: 2001-06-15
+location: Lenzen, Elbstraße
+origin:
+  name: Marta Wegner
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro 21/070
+owner:
+  name: Erika Schulz
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Weihnachtsmarkt 2001
+    type: event
+  - name: Restorf
+    type: place
+files:
+  - role: main
+    original_name: DSC7517.jpg
+    path: files/1f/c2/1fc2faa4923ef8156952276f4f6b2f69a22bcfff5f4bfed683ece6035211f351/original.jpg
+    sha256: 1fc2faa4923ef8156952276f4f6b2f69a22bcfff5f4bfed683ece6035211f351
+    mime: image/jpeg
+    bytes: 3961656
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/1f/c2/1fc2faa4923ef8156952276f4f6b2f69a22bcfff5f4bfed683ece6035211f351/preview-400.cf4ad8884737.jpg
+        sha256: cf4ad888473721d979744abdbbce472404ef9b3be6e76ad6d13d173ad4400f56
+        mime: image/jpeg
+        bytes: 49179
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

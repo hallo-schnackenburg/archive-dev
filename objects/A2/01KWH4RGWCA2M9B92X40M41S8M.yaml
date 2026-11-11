@@ -1,0 +1,41 @@
+id: 01KWH4RGWCA2M9B92X40M41S8M
+type: image
+subtype: drawing
+title: Entwurf für Apotheke
+date: 190X
+origin:
+  name: Hans Lemke
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Familie Lenz
+    type: person
+    location: Nienwalde
+  reference: F 25/007
+subjects:
+  - name: Gerda Lindemann
+    type: person
+parents:
+  - 01K1X786PFNA5XRTNM32Z243KC
+  - 01GZR4MDFA5EQY40GSVWP94FQ3
+files:
+  - role: main
+    original_name: scan_379.tif
+    path: files/cf/ef/cfef0d21c2135f133f1850dafc5383fd45b4542e387fdd12250f264469e14338/original.tif
+    sha256: cfef0d21c2135f133f1850dafc5383fd45b4542e387fdd12250f264469e14338
+    mime: image/tiff
+    bytes: 15530379
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cf/ef/cfef0d21c2135f133f1850dafc5383fd45b4542e387fdd12250f264469e14338/preview-400.97c04eaa7303.jpg
+        sha256: 97c04eaa730392af29fabbe0f9b874042dc8b2b76874de73b64478905b09be88
+        mime: image/jpeg
+        bytes: 41392
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

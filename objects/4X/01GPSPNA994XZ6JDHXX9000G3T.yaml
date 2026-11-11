@@ -1,0 +1,59 @@
+id: 01GPSPNA994XZ6JDHXX9000G3T
+type: document
+subtype: letter
+title: Vertrag über Brückenreparatur
+description: Mit Umschlag und Briefmarke.
+date: 1848-06-19
+location: Gartow, Elbstraße
+origin:
+  name: Gerda Lemke
+  type: person
+  location: Cumlosen
+recipient: Wilhelm Ahrens
+language: de
+subjects:
+  - name: Karl Ihde
+    type: person
+parents:
+  - 01HASDKXR0Y5AFEJ03TVA5J3T7
+files:
+  - role: page
+    num: 1
+    original_name: letter_000g3t_001.tif
+    path: files/e0/56/e0564c3e0eb64b9a4f4f0759f077fcd3d3dc6eedad26bb9f59fc36de172a05c2/original.tif
+    sha256: e0564c3e0eb64b9a4f4f0759f077fcd3d3dc6eedad26bb9f59fc36de172a05c2
+    mime: image/tiff
+    bytes: 3015546
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e0/56/e0564c3e0eb64b9a4f4f0759f077fcd3d3dc6eedad26bb9f59fc36de172a05c2/preview-400.01bfa7ed9100.jpg
+        sha256: 01bfa7ed910048ff8557c5c167af9b3fb10c4b998123fb043233532ae172ca52
+        mime: image/jpeg
+        bytes: 57611
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_000g3t_002.tif
+    path: files/95/d8/95d87caa6d56ced4c7eb96c65094b305df79194e5b82ea3558c2607495fe8494/original.tif
+    sha256: 95d87caa6d56ced4c7eb96c65094b305df79194e5b82ea3558c2607495fe8494
+    mime: image/tiff
+    bytes: 27314823
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/d8/95d87caa6d56ced4c7eb96c65094b305df79194e5b82ea3558c2607495fe8494/preview-400.dbcff03cf032.jpg
+        sha256: dbcff03cf0321a6b0349f2d24fbcfb58280dc5c88d16a229b332f10a383ca3f9
+        mime: image/jpeg
+        bytes: 30545
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

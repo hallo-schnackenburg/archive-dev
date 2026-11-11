@@ -1,0 +1,38 @@
+id: 01GCE8G5T7AGFDJAZMZYRJETPA
+type: image
+subtype: print
+title: Lithographie Dorfteich
+description: Lithographie, Rand beschnitten.
+date: 1740-10-19
+location: Hitzacker, Fährstraße
+origin:
+  name: Karl Tiedemann
+  type: person
+  location: Zadrau
+subjects:
+  - name: Eisgang 1740
+    type: event
+  - name: Tanzsaal
+    type: building
+parents:
+  - 01G6DC0XN5QKR1Z7MS1R51BN2J
+files:
+  - role: main
+    original_name: scan_402.tif
+    path: files/4e/7b/4e7bc7d4da800c399919f30dedcf9b8078fce4fc69f7a9ebf63f3627ed2ce138/original.tif
+    sha256: 4e7bc7d4da800c399919f30dedcf9b8078fce4fc69f7a9ebf63f3627ed2ce138
+    mime: image/tiff
+    bytes: 16609226
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/4e/7b/4e7bc7d4da800c399919f30dedcf9b8078fce4fc69f7a9ebf63f3627ed2ce138/preview-400.d9d035e94b4c.jpg
+        sha256: d9d035e94b4c4170a7c1bc30421421c8d0aa3bc7f475aac4af52eb482f2cf4ec
+        mime: image/jpeg
+        bytes: 51290
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

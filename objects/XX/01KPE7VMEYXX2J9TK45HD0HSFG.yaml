@@ -1,0 +1,31 @@
+id: 01KPE7VMEYXX2J9TK45HD0HSFG
+type: image
+subtype: drawing
+title: Skizze Wittenberge, Kirchstraße
+date: "1851"
+location: Gülden, Sportplatz
+geocode:
+  lat: 52.9752
+  lon: 11.5161
+  precision: region
+  source: osm
+files:
+  - role: main
+    original_name: scan_569.tif
+    path: files/d1/50/d150fb6aa2e4338c4e642787573aa640ea8f7ec3078192856f81abbe97180cf8/original.tif
+    sha256: d150fb6aa2e4338c4e642787573aa640ea8f7ec3078192856f81abbe97180cf8
+    mime: image/tiff
+    bytes: 10452366
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d1/50/d150fb6aa2e4338c4e642787573aa640ea8f7ec3078192856f81abbe97180cf8/preview-400.b2d84a81f0a5.jpg
+        sha256: b2d84a81f0a5797b0ac6e78dac411e88ed90ba5890bcec728c4776410d04c1c8
+        mime: image/jpeg
+        bytes: 66848
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

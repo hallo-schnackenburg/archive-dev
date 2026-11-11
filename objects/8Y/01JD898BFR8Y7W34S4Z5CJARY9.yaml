@@ -1,0 +1,44 @@
+id: 01JD898BFR8Y7W34S4Z5CJARY9
+type: image
+subtype: plan
+title: Deichplan Restorf bis Holtorf
+date: "1916"
+location: Wittenberge, Hinter den Höfen
+geocode:
+  lat: 53.0411
+  lon: 11.6935
+  precision: exact
+  source: osm
+origin:
+  name: Helga Rieke
+  type: person
+  location: Wustrow
+subjects:
+  - name: Maifeier 1916
+    type: event
+  - name: Grenzöffnung 1916
+    type: event
+  - name: Salzwedel
+    type: place
+parents:
+  - 01K7J4DX7VRH2T02JPNZCE3TH0
+files:
+  - role: main
+    original_name: scan_806.tif
+    path: files/ba/38/ba381d563fc249bc1335d0bf0cb178c24b23f4431d8ea811471cbfdaf69e54df/original.tif
+    sha256: ba381d563fc249bc1335d0bf0cb178c24b23f4431d8ea811471cbfdaf69e54df
+    mime: image/tiff
+    bytes: 2886508
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ba/38/ba381d563fc249bc1335d0bf0cb178c24b23f4431d8ea811471cbfdaf69e54df/preview-400.190c037918b6.jpg
+        sha256: 190c037918b6824b440505ec0a94410f94f71dcf726a60759666840e1df50c2a
+        mime: image/jpeg
+        bytes: 55674
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

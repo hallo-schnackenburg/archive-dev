@@ -1,0 +1,47 @@
+id: 01JJ1PGPDQ8VR0AYHV5SDD3PJ2
+type: image
+subtype: photo
+title: Weihnachtsmarkt 1979
+date: 1979/1986
+location: Wittenberge, Am Markt
+geocode:
+  lat: 52.9788
+  lon: 11.6787
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 15/024
+  note: Bücherregal links
+subjects:
+  - name: Wilhelm Schulz
+    type: person
+  - name: Bäckerei Lüders
+    type: building
+  - name: Seedorf
+    type: place
+parents:
+  - 01FPG45DMCQ4FJ212ZPBZF1YR1
+files:
+  - role: main
+    original_name: DSC3526.jpg
+    path: files/4e/08/4e080cc6f3273bf9cc4be0879c4d2b5888aaf23b89ce6dc66458dbf9c23953e6/original.jpg
+    sha256: 4e080cc6f3273bf9cc4be0879c4d2b5888aaf23b89ce6dc66458dbf9c23953e6
+    mime: image/jpeg
+    bytes: 22179900
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/4e/08/4e080cc6f3273bf9cc4be0879c4d2b5888aaf23b89ce6dc66458dbf9c23953e6/preview-400.01489d6a9e73.jpg
+        sha256: 01489d6a9e737a349f65428d83b9f077c6c0905fe02bdc665d908de55ead1872
+        mime: image/jpeg
+        bytes: 66623
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,33 @@
+id: 01KVMK9Y21K82K2AVCW0FAB68W
+type: image
+subtype: plan
+title: Deichplan Schnackenburg bis Seedorf
+description: Tusche auf Transparentpapier.
+date: 1927-04-19
+location: Kapern, Kirchstraße
+origin:
+  name: August Krüger
+  type: person
+  location: Gartow
+parents:
+  - 01GG9H557FNKNNHZ67KS9WW423
+files:
+  - role: main
+    original_name: scan_214.tif
+    path: files/38/0c/380cfe09eaf74c7310aeeb70b1b0dea776c66dcbaa6884f47a1c93de7c9e58cb/original.tif
+    sha256: 380cfe09eaf74c7310aeeb70b1b0dea776c66dcbaa6884f47a1c93de7c9e58cb
+    mime: image/tiff
+    bytes: 16272961
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/38/0c/380cfe09eaf74c7310aeeb70b1b0dea776c66dcbaa6884f47a1c93de7c9e58cb/preview-400.2520ce304d1e.jpg
+        sha256: 2520ce304d1e3d1c1d593b461bb7a697a308c4646ba6ffcae520d2ffd2f4b8f5
+        mime: image/jpeg
+        bytes: 84400
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

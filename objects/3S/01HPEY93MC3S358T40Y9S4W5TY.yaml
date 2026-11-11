@@ -1,0 +1,62 @@
+id: 01HPEY93MC3S358T40Y9S4W5TY
+type: document
+subtype: note
+title: Rechnung Matthies, Kaufmannshaus
+date: 1992-03
+location: Nienwalde, Schlachterei
+geocode:
+  lat: 52.9459
+  lon: 11.5431
+  precision: region
+  source: osm
+origin:
+  name: Ilse Meyer
+  type: person
+  location: Lüchow
+language: de
+subjects:
+  - name: Heinrich Tiedemann
+    type: person
+  - name: Schlachterei
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_s4w5ty_001.tif
+    path: files/86/ab/86ab75318f915e366b924c70b1ffa5df099f07b4a70e7455ddf2866f19b711c6/original.tif
+    sha256: 86ab75318f915e366b924c70b1ffa5df099f07b4a70e7455ddf2866f19b711c6
+    mime: image/tiff
+    bytes: 1019760
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/ab/86ab75318f915e366b924c70b1ffa5df099f07b4a70e7455ddf2866f19b711c6/preview-400.32cb48940e16.jpg
+        sha256: 32cb48940e16f6a172bc3fbc57c863ef566cd827436c21620c98d8ab9442fa91
+        mime: image/jpeg
+        bytes: 51803
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_s4w5ty_002.tif
+    path: files/62/07/62079938e7310dcd04566c2090a4860721dc9ae1ef1181ebf185eab9f1e930ae/original.tif
+    sha256: 62079938e7310dcd04566c2090a4860721dc9ae1ef1181ebf185eab9f1e930ae
+    mime: image/tiff
+    bytes: 12985193
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/62/07/62079938e7310dcd04566c2090a4860721dc9ae1ef1181ebf185eab9f1e930ae/preview-400.cca0412520d5.jpg
+        sha256: cca0412520d5f1ce8daa566fe1af6f125703b360475f5069bb20c181dad93d1f
+        mime: image/jpeg
+        bytes: 28126
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

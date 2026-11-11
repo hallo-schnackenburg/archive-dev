@@ -1,0 +1,46 @@
+id: 01K7S20QVRDZ6ZCZ14EKRGK28E
+type: image
+subtype: photo
+title: Günter Garms, Porträt
+date: 1909?
+location: Rüterberg, Mühle
+geocode:
+  lat: 52.9955
+  lon: 11.6774
+  precision: town
+  source: osm
+origin:
+  name: August Voss
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Familie Hartwig
+    type: person
+    location: Wustrow
+  reference: F 17/042
+subjects:
+  - name: Zollamt
+    type: building
+parents:
+  - 01GT8QZ1TC8KRDKD8TAJXY7YDB
+files:
+  - role: main
+    original_name: foto_7184.jpg
+    path: files/f5/19/f519abcd1d629ee647abe67ab5183d20a77c4e78fadde402c25b22f97b9bbc71/original.jpg
+    sha256: f519abcd1d629ee647abe67ab5183d20a77c4e78fadde402c25b22f97b9bbc71
+    mime: image/jpeg
+    bytes: 7519418
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/f5/19/f519abcd1d629ee647abe67ab5183d20a77c4e78fadde402c25b22f97b9bbc71/preview-400.48331ade3bad.jpg
+        sha256: 48331ade3bad940c84de143ef8c244653f618e29e298056c04259b33058ade54
+        mime: image/jpeg
+        bytes: 49335
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

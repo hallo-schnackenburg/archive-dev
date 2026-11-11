@@ -1,0 +1,44 @@
+id: 01JSB9S9HWAMQ0QQB8Z8FHSHFW
+type: image
+subtype: drawing
+title: Skizze Cumlosen, Am Markt
+date: 1858-12
+location: Lanz, Am Markt
+geocode:
+  lat: 52.9116
+  lon: 11.5595
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Kuhlmann
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Planschrank, Fach 3
+subjects:
+  - name: Feuerwehrübung 1858
+    type: event
+files:
+  - role: main
+    original_name: scan_859.tif
+    path: files/3b/c5/3bc5aa27552a6c53deb2502ddbbcbdbf988ae71ccd60c967b5b3c36327893c5e/original.tif
+    sha256: 3bc5aa27552a6c53deb2502ddbbcbdbf988ae71ccd60c967b5b3c36327893c5e
+    mime: image/tiff
+    bytes: 1522792
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3b/c5/3bc5aa27552a6c53deb2502ddbbcbdbf988ae71ccd60c967b5b3c36327893c5e/preview-400.f4ff19ab6eab.jpg
+        sha256: f4ff19ab6eabc1e1daee16421e732281de7b9eee63896130b842d0f1622f8325
+        mime: image/jpeg
+        bytes: 36523
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

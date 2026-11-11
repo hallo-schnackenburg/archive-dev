@@ -1,0 +1,43 @@
+id: 01J97DSZN3BE0AW253VHKYDX61
+type: image
+subtype: plan
+title: Deichplan Schnackenburg bis Wustrow
+description: Tusche auf Transparentpapier.
+date: 1889~
+location: Dömitz, Dorfstraße
+origin:
+  name: Heinrich Burmester
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 24/189
+  note: Kellerarchiv
+subjects:
+  - name: Karl Lemke
+    type: person
+  - name: Wittenberge
+    type: place
+files:
+  - role: main
+    original_name: scan_961.tif
+    path: files/de/0a/de0a01511b35fc9d30fb8e4bcc799db7e7f61f7498d57168b67546888f6c98c0/original.tif
+    sha256: de0a01511b35fc9d30fb8e4bcc799db7e7f61f7498d57168b67546888f6c98c0
+    mime: image/tiff
+    bytes: 10231620
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/de/0a/de0a01511b35fc9d30fb8e4bcc799db7e7f61f7498d57168b67546888f6c98c0/preview-400.3be7c826775e.jpg
+        sha256: 3be7c826775ed135a6e6d9a3bfd2b848dfac472f86e62200c39e8e2b0ce0db42
+        mime: image/jpeg
+        bytes: 72307
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

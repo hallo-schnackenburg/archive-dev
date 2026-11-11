@@ -1,0 +1,46 @@
+id: 01FERN1PZKA79VPMRKDNPYPDDN
+type: image
+subtype: photo
+title: Kinder am Schützenhaus
+description: Zu sehen sind Wassermühle und Kaufmannshaus.
+date: 1953-01-23
+location: Laase, Apotheke
+origin:
+  name: Otto Kuhlmann
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  note: Planschrank, Fach 3
+subjects:
+  - name: Pumpenhaus
+    type: building
+  - name: Zadrau
+    type: place
+  - name: Konfirmation 1953
+    type: event
+parents:
+  - 01H7TAC1S0T298G0K08CGYD8Q7
+files:
+  - role: main
+    original_name: P5244.jpg
+    path: files/8b/bd/8bbded79fff5ef64217ec58528cc1c255a118ce2ae03650ed39f5dd737bc55d0/original.jpg
+    sha256: 8bbded79fff5ef64217ec58528cc1c255a118ce2ae03650ed39f5dd737bc55d0
+    mime: image/jpeg
+    bytes: 19636441
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/8b/bd/8bbded79fff5ef64217ec58528cc1c255a118ce2ae03650ed39f5dd737bc55d0/preview-400.be88638b7de8.jpg
+        sha256: be88638b7de8c0ad2a1f3fb06b1b715b96ca7059ff3a31c86bc263f138cbe515
+        mime: image/jpeg
+        bytes: 41290
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

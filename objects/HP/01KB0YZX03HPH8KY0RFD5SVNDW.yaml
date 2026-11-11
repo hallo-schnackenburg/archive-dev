@@ -1,0 +1,40 @@
+id: 01KB0YZX03HPH8KY0RFD5SVNDW
+type: image
+subtype: print
+title: Ansichtskarte Schulstraße, Holtorf
+date: "1706"
+origin:
+  name: Hermann Lemke
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok/Kasten 14/022
+subjects:
+  - name: Kegelbahn
+    type: building
+  - name: Maifeier 1706
+    type: event
+files:
+  - role: main
+    original_name: scan_527.tif
+    path: files/1f/04/1f0408f6d2f6fef78e8307ad1ef76251d9ac767f3fe72a044bdd701450e55e29/original.tif
+    sha256: 1f0408f6d2f6fef78e8307ad1ef76251d9ac767f3fe72a044bdd701450e55e29
+    mime: image/tiff
+    bytes: 16021074
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1f/04/1f0408f6d2f6fef78e8307ad1ef76251d9ac767f3fe72a044bdd701450e55e29/preview-400.47206f943b95.jpg
+        sha256: 47206f943b956d2abdecc065cda8b30c34b408c4d61125a6da1577492e72473e
+        mime: image/jpeg
+        bytes: 72331
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

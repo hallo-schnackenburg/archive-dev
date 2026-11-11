@@ -1,0 +1,60 @@
+id: 01K7A95WBGAPXRCG0E58YMFJM7
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Laase 1893
+description: Handschriftlich in Sütterlin.
+origin:
+  name: Schulvorstand Gartow
+  type: business
+  location: Lenzen
+language: de
+subjects:
+  - name: Dorffest 1893
+    type: event
+  - name: Bömenzien
+    type: place
+  - name: Ernst Wiese
+    type: person
+parents:
+  - 01HSN5QZ6JGHWHBF50F9VB0XTK
+files:
+  - role: page
+    num: 1
+    original_name: protocol_ymfjm7_001.tif
+    path: files/50/01/500149f18dfd42485c5cb4aa623015c1bab685238c2ab407cfd95eb8759d5c62/original.tif
+    sha256: 500149f18dfd42485c5cb4aa623015c1bab685238c2ab407cfd95eb8759d5c62
+    mime: image/tiff
+    bytes: 8038434
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/01/500149f18dfd42485c5cb4aa623015c1bab685238c2ab407cfd95eb8759d5c62/preview-400.7f6ca8795072.jpg
+        sha256: 7f6ca8795072a6fa201673171768e537a632718f0ffbe52442ac136b58c30823
+        mime: image/jpeg
+        bytes: 66496
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_ymfjm7_002.tif
+    path: files/c5/a6/c5a684ebd1f9443b119f3bc0397706abc0f3d06b48dadfb82589d2b285bf903c/original.tif
+    sha256: c5a684ebd1f9443b119f3bc0397706abc0f3d06b48dadfb82589d2b285bf903c
+    mime: image/tiff
+    bytes: 26136387
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c5/a6/c5a684ebd1f9443b119f3bc0397706abc0f3d06b48dadfb82589d2b285bf903c/preview-400.a67e9093ab09.jpg
+        sha256: a67e9093ab096db4cf2405beb4f763dab723ee5c43999d8a0d11f0c5b61f52e3
+        mime: image/jpeg
+        bytes: 58978
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,48 @@
+id: 01GT1NX85JWVAPYMM272VR1TCC
+type: image
+subtype: photo
+title: Schützenfest 1914
+description: Farbfoto, leicht verblasst.
+date: 1914-08
+location: Gorleben, Gasthof Meyer
+geocode:
+  lat: 53.0488
+  lon: 11.6697
+  precision: exact
+  source: osm
+origin:
+  name: Lotte Wegner
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 25/042
+  note: Planschrank, Fach 3
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+parents:
+  - 01G2TCR62BVVGQGXN7R02P1CQQ
+files:
+  - role: main
+    original_name: foto_3959.jpg
+    path: files/ce/30/ce30dbe065717318ba70e85edb4485ac929ea9b5b582e7e462f5b66c14a32ef5/original.jpg
+    sha256: ce30dbe065717318ba70e85edb4485ac929ea9b5b582e7e462f5b66c14a32ef5
+    mime: image/jpeg
+    bytes: 24667203
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ce/30/ce30dbe065717318ba70e85edb4485ac929ea9b5b582e7e462f5b66c14a32ef5/preview-400.be79f48b0e89.jpg
+        sha256: be79f48b0e894954c827a0a9b8333ad1e9e43a7e78715e80286904e9982c0570
+        mime: image/jpeg
+        bytes: 62002
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

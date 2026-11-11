@@ -1,0 +1,41 @@
+id: 01FKVQNWYTAJPEPQMWXDH8FFMC
+type: image
+subtype: drawing
+title: Skizze Dömitz, Am Markt
+description: Bleistift auf Papier.
+date: 1940-03-20
+location: Kapern, Lange Straße
+owner:
+  name: Heinrich Matthies
+  type: person
+  note: Nachlass
+subjects:
+  - name: Kapern
+    type: place
+  - name: Tischlerei Bruns
+    type: building
+  - name: Sportplatz
+    type: building
+parents:
+  - 01GV8MKHYPAWB1MAEXCSAW38CR
+  - 01JE4HPA561FRN4MNN59BD0BZE
+files:
+  - role: main
+    original_name: scan_414.tif
+    path: files/d1/55/d15537f4a35aa708cefda460f22c697b793af1eb45d841ec8e863c7c5f55b448/original.tif
+    sha256: d15537f4a35aa708cefda460f22c697b793af1eb45d841ec8e863c7c5f55b448
+    mime: image/tiff
+    bytes: 1093068
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d1/55/d15537f4a35aa708cefda460f22c697b793af1eb45d841ec8e863c7c5f55b448/preview-400.1cfd43056f18.jpg
+        sha256: 1cfd43056f1843c0d8ea55692ceeb4bb0d65664b489446950b916fe7799a142b
+        mime: image/jpeg
+        bytes: 66449
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

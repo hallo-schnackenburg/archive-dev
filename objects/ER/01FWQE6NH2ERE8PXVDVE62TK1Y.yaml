@@ -1,0 +1,47 @@
+id: 01FWQE6NH2ERE8PXVDVE62TK1Y
+type: image
+subtype: photo
+title: Familie Hennings beim Einschulung
+date: "1964"
+location: Schnackenburg, Gasthof Meyer
+geocode:
+  lat: 52.9271
+  lon: 11.678
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 5/021
+subjects:
+  - name: Mühle
+    type: building
+  - name: Käthe Voss
+    type: person
+  - name: Schützenfest 1964
+    type: event
+parents:
+  - 01K5TW5781NJJRQNS4RN8CYBN2
+  - 01KBCYJZPX2SPV1MBZZ3QST2X6
+files:
+  - role: main
+    original_name: P2315.jpg
+    path: files/6a/3c/6a3c6d52fff5232a670a43c7d9e8c90fed60f6f9807728bcd498f13168bf32f8/original.jpg
+    sha256: 6a3c6d52fff5232a670a43c7d9e8c90fed60f6f9807728bcd498f13168bf32f8
+    mime: image/jpeg
+    bytes: 16167665
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/6a/3c/6a3c6d52fff5232a670a43c7d9e8c90fed60f6f9807728bcd498f13168bf32f8/preview-400.a46c45fbce94.jpg
+        sha256: a46c45fbce94708614bf60b7b6e48c6be1851c4642f09f80723cac76631f1cb6
+        mime: image/jpeg
+        bytes: 57628
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,46 @@
+id: 01JSHSASGSFPB8JAMXRCVQ7H4P
+type: image
+subtype: photo
+title: Manfred Wegner vor dem Kegelbahn
+description: Abzug im Format 10 x 15 cm.
+date: "1927"
+location: Zadrau, Deichstraße
+geocode:
+  lat: 52.9442
+  lon: 11.5313
+  precision: street
+  source: osm
+origin:
+  name: Dieter Garms
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Fritz Hennings
+    type: person
+files:
+  - role: main
+    original_name: DSC4519.jpg
+    path: files/3e/0b/3e0b99b6ccbb6b3bfae26e9ef8ac35f0013d1c90c78dfe373a09a9a9084f0716/original.jpg
+    sha256: 3e0b99b6ccbb6b3bfae26e9ef8ac35f0013d1c90c78dfe373a09a9a9084f0716
+    mime: image/jpeg
+    bytes: 22662719
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/3e/0b/3e0b99b6ccbb6b3bfae26e9ef8ac35f0013d1c90c78dfe373a09a9a9084f0716/preview-400.41ee2752f3d2.jpg
+        sha256: 41ee2752f3d205f4ca74a78426d494b58a8f35d4d9763f4d8ba6a9f227859f88
+        mime: image/jpeg
+        bytes: 79196
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01FAFTVXQX5HTQS7SRHX2TDMMJ
+type: image
+subtype: photo
+title: Gasthof Meyer in Bömenzien
+date: "1952"
+location: Seedorf, Hafenstraße
+origin:
+  name: Karl Ahrens
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Pumpenhaus
+    type: building
+parents:
+  - 01KYY4CVMJ2SF598S69P8F19XE
+files:
+  - role: main
+    original_name: scan_268.tif
+    path: files/7a/63/7a6343c0103c96d807bc9d7640830495faaa995c8719c02629c7ea60faa16ccc/original.tif
+    sha256: 7a6343c0103c96d807bc9d7640830495faaa995c8719c02629c7ea60faa16ccc
+    mime: image/tiff
+    bytes: 13598797
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7a/63/7a6343c0103c96d807bc9d7640830495faaa995c8719c02629c7ea60faa16ccc/preview-400.4cb434be71bc.jpg
+        sha256: 4cb434be71bc1aecaa763fd7e88e0c4b227db5876beac52d129e7f3ec2233142
+        mime: image/jpeg
+        bytes: 39921
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

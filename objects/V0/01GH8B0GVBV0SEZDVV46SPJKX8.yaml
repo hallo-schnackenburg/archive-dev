@@ -1,0 +1,31 @@
+id: 01GH8B0GVBV0SEZDVV46SPJKX8
+type: image
+subtype: photo
+title: Kirmes 1941
+description: Farbfoto, leicht verblasst.
+date: 1941-05
+location: Dömitz, Schützenhaus
+origin:
+  name: Lotte Voss
+  type: person
+  location: Laase
+files:
+  - role: main
+    original_name: scan_467.tif
+    path: files/a7/11/a7110e00aa0e43951a3190225ed0e75282b7d91e2100533b25057acda89c21b0/original.tif
+    sha256: a7110e00aa0e43951a3190225ed0e75282b7d91e2100533b25057acda89c21b0
+    mime: image/tiff
+    bytes: 7614648
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a7/11/a7110e00aa0e43951a3190225ed0e75282b7d91e2100533b25057acda89c21b0/preview-400.6773a2c949ca.jpg
+        sha256: 6773a2c949ca4e5cb5da5d89739072c1da4da5f28e4e1d21f3d771fdbc92036f
+        mime: image/jpeg
+        bytes: 83435
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

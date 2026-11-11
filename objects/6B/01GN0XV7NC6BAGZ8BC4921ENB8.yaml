@@ -1,0 +1,31 @@
+id: 01GN0XV7NC6BAGZ8BC4921ENB8
+type: image
+subtype: photo
+title: Hochzeit der Fußballverein
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Arendsee, Dorfladen
+subjects:
+  - name: Straßenfest 1934
+    type: event
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_589.tif
+    path: files/f1/1f/f11fb023443488d00cf555806e87e2d66cf79b1e404f454fbca408dd8661ea22/original.tif
+    sha256: f11fb023443488d00cf555806e87e2d66cf79b1e404f454fbca408dd8661ea22
+    mime: image/tiff
+    bytes: 12722929
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f1/1f/f11fb023443488d00cf555806e87e2d66cf79b1e404f454fbca408dd8661ea22/preview-400.0501bba5697e.jpg
+        sha256: 0501bba5697ea9a384beaa494b9b6ab13d30a941b091018e058f6903934b137e
+        mime: image/jpeg
+        bytes: 48904
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

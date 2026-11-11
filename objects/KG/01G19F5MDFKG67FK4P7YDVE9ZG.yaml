@@ -1,0 +1,39 @@
+id: 01G19F5MDFKG67FK4P7YDVE9ZG
+type: image
+subtype: drawing
+title: Kirche St. Johannis, Aquarell, Havelberg
+description: Federzeichnung, laviert.
+date: 1880-12-12
+location: Gollensdorf, Zollamt
+geocode:
+  lat: 53.0812
+  lon: 11.5045
+  precision: exact
+  source: osm
+origin:
+  name: Rudolf Wöhlk
+  type: person
+  location: Kapern
+subjects:
+  - name: Karl Krüger
+    type: person
+files:
+  - role: main
+    original_name: scan_040.tif
+    path: files/7a/87/7a8721ea253bf4933c1a9f279552d660490c803061bba0dfc77fb968f780bbe7/original.tif
+    sha256: 7a8721ea253bf4933c1a9f279552d660490c803061bba0dfc77fb968f780bbe7
+    mime: image/tiff
+    bytes: 20297581
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7a/87/7a8721ea253bf4933c1a9f279552d660490c803061bba0dfc77fb968f780bbe7/preview-400.985f9b0c29fd.jpg
+        sha256: 985f9b0c29fdb6b53f3307cf1f606e63c5b7fd924a8487040c43050e0ae4d016
+        mime: image/jpeg
+        bytes: 87442
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

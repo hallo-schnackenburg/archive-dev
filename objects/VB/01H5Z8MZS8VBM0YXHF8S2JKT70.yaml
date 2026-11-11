@@ -1,0 +1,44 @@
+id: 01H5Z8MZS8VBM0YXHF8S2JKT70
+type: image
+subtype: print
+title: Lithographie Gasthof „Zur Elbe“, Lenzen
+description: Kupferstich, koloriert.
+date: "1804"
+location: Hitzacker, Hafen
+origin:
+  name: Horst Voss
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok/Album 13/027
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Einweihung 1804
+    type: event
+  - name: Laase
+    type: place
+files:
+  - role: main
+    original_name: scan_749.tif
+    path: files/99/6f/996f9b55e5af9939deb179b70a063f6ddcde0d07777bc25422bdc90c35917b2b/original.tif
+    sha256: 996f9b55e5af9939deb179b70a063f6ddcde0d07777bc25422bdc90c35917b2b
+    mime: image/tiff
+    bytes: 20905456
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/99/6f/996f9b55e5af9939deb179b70a063f6ddcde0d07777bc25422bdc90c35917b2b/preview-400.984833f97193.jpg
+        sha256: 984833f9719316a0e4057af43296f6e74c0171a5e427fe7c78b767756e4b2e29
+        mime: image/jpeg
+        bytes: 81246
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

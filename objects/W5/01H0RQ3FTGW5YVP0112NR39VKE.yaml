@@ -1,0 +1,31 @@
+id: 01H0RQ3FTGW5YVP0112NR39VKE
+type: image
+subtype: plan
+title: Lageplan Försterei
+date: 1914/1920
+location: Holtorf, Gartenstraße
+subjects:
+  - name: Fährjubiläum 1914
+    type: event
+  - name: Käthe Schwarz
+    type: person
+files:
+  - role: main
+    original_name: scan_479.tif
+    path: files/94/76/9476f9f15a0fe8efdc6a071257f6106eb45c0c1569c1133df09b5eceee4278b8/original.tif
+    sha256: 9476f9f15a0fe8efdc6a071257f6106eb45c0c1569c1133df09b5eceee4278b8
+    mime: image/tiff
+    bytes: 21353386
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/94/76/9476f9f15a0fe8efdc6a071257f6106eb45c0c1569c1133df09b5eceee4278b8/preview-400.204397dd52fa.jpg
+        sha256: 204397dd52fa99e98fdbb85fc8f6e85d172dae67dc21072365347dcce4a416ac
+        mime: image/jpeg
+        bytes: 54876
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,46 @@
+id: 01HT7D4R1TTKEVXTH2V0CG5P2D
+type: image
+subtype: photo
+title: Wilhelm Sievers, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1929/1935
+location: Arendsee, Lange Straße
+geocode:
+  lat: 52.9031
+  lon: 11.6079
+  precision: region
+  source: osm
+origin:
+  name: Helga Krüger
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 38/340
+  note: Mappe 12
+subjects:
+  - name: Berta Bohlmann
+    type: person
+files:
+  - role: main
+    original_name: P9247.jpg
+    path: files/32/89/3289bcf1c507c37e1e69612a8389ecb38c5c07be8e0cca0709ff16c9f6c2c7c5/original.jpg
+    sha256: 3289bcf1c507c37e1e69612a8389ecb38c5c07be8e0cca0709ff16c9f6c2c7c5
+    mime: image/jpeg
+    bytes: 19208283
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/32/89/3289bcf1c507c37e1e69612a8389ecb38c5c07be8e0cca0709ff16c9f6c2c7c5/preview-400.99d09c367c45.jpg
+        sha256: 99d09c367c45321f064e3a594dfd4c763e53982c3eae1f980f90e609993bb892
+        mime: image/jpeg
+        bytes: 74639
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,68 @@
+id: 01FBPAMJFMZGF2YG8K1DSMJKZK
+type: document
+subtype: note
+title: Notiz zu Wegerecht
+description: Zettel, Bleistift.
+date: 2002-05-22
+location: Lanz, Am Markt
+origin:
+  name: Paul Ahrens
+  type: person
+  location: Dömitz
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 16/211
+subjects:
+  - name: Walter Harms
+    type: person
+  - name: Schnackenburg
+    type: place
+  - name: Heinrich Pape
+    type: person
+parents:
+  - 01JD1W7G8C9Y7RM5P61EE5M4CB
+files:
+  - role: page
+    num: 1
+    original_name: note_smjkzk_001.tif
+    path: files/77/16/77166d6472065dae4ab513e3d19a529de89615c0054f605da6e1d4f2ecba774a/original.tif
+    sha256: 77166d6472065dae4ab513e3d19a529de89615c0054f605da6e1d4f2ecba774a
+    mime: image/tiff
+    bytes: 17208250
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/77/16/77166d6472065dae4ab513e3d19a529de89615c0054f605da6e1d4f2ecba774a/preview-400.025ff3a20ed9.jpg
+        sha256: 025ff3a20ed9b409ed518a29353a54ae0079d2343d30ade3a65e4160f4352c51
+        mime: image/jpeg
+        bytes: 53463
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_smjkzk_002.tif
+    path: files/71/6b/716ba89fb4d0a7493c0c290e8c79533a1f8afff6e74c0937c36a941fccdb4193/original.tif
+    sha256: 716ba89fb4d0a7493c0c290e8c79533a1f8afff6e74c0937c36a941fccdb4193
+    mime: image/tiff
+    bytes: 6593339
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/71/6b/716ba89fb4d0a7493c0c290e8c79533a1f8afff6e74c0937c36a941fccdb4193/preview-400.b68ab95a960a.jpg
+        sha256: b68ab95a960a0a8a6c4f38d667a9016f376a3dd972fdddb709916d8dc9ff2c14
+        mime: image/jpeg
+        bytes: 38004
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

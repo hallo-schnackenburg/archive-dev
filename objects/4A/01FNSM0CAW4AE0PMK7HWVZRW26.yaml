@@ -1,0 +1,37 @@
+id: 01FNSM0CAW4AE0PMK7HWVZRW26
+type: image
+subtype: drawing
+title: Wappenentwurf Cumlosen, Gorleben
+description: Federzeichnung, laviert.
+date: 186X
+location: Havelberg, Torhaus
+geocode:
+  lat: 53.0179
+  lon: 11.6047
+  precision: exact
+  source: osm
+subjects:
+  - name: Lanz
+    type: place
+  - name: Feuerwehrübung 1864
+    type: event
+files:
+  - role: main
+    original_name: scan_140.tif
+    path: files/e3/f8/e3f8b14ea0f5b543729bbbfcedfe675633ef43115be252eb88a76a39685b0775/original.tif
+    sha256: e3f8b14ea0f5b543729bbbfcedfe675633ef43115be252eb88a76a39685b0775
+    mime: image/tiff
+    bytes: 16819056
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e3/f8/e3f8b14ea0f5b543729bbbfcedfe675633ef43115be252eb88a76a39685b0775/preview-400.8139fd5c0826.jpg
+        sha256: 8139fd5c0826d8839ac78660722f5449523ac9fd75992accf42e6dfb81ead912
+        mime: image/jpeg
+        bytes: 48442
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

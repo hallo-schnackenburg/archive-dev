@@ -1,0 +1,44 @@
+id: 01J4XXNZF155WBKT3K7SYDR1S5
+type: image
+subtype: plan
+title: Deichplan Cumlosen bis Schnackenburg
+description: Maßstab 1:250.
+date: 1883-05-17
+location: Nienwalde, Am Markt
+origin:
+  name: Karl Wegner
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 17/046
+subjects:
+  - name: Glockenweihe 1883
+    type: event
+  - name: Pretzier
+    type: place
+  - name: Konfirmation 1883
+    type: event
+files:
+  - role: main
+    original_name: scan_619.tif
+    path: files/97/78/9778c1e4649ec0a6702887cd17babb8d5ba285692c665966793d20b0c8d4c8c1/original.tif
+    sha256: 9778c1e4649ec0a6702887cd17babb8d5ba285692c665966793d20b0c8d4c8c1
+    mime: image/tiff
+    bytes: 21555136
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/78/9778c1e4649ec0a6702887cd17babb8d5ba285692c665966793d20b0c8d4c8c1/preview-400.2bd0ec55737e.jpg
+        sha256: 2bd0ec55737e836c776a0377315f76d686200db2f0aaa6c449c4f466119af72b
+        mime: image/jpeg
+        bytes: 81758
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

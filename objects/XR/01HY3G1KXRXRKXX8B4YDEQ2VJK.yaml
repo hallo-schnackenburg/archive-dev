@@ -1,0 +1,58 @@
+id: 01HY3G1KXRXRKXX8B4YDEQ2VJK
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Brandversicherung 2003
+description: Anwesend waren 20 Personen.
+date: "2003"
+location: Gülden, Elbstraße
+geocode:
+  lat: 53.0438
+  lon: 11.4952
+  precision: region
+  source: osm
+origin:
+  name: Kirchenvorstand Lanz
+  type: business
+  location: Laase
+language: de
+files:
+  - role: page
+    num: 1
+    original_name: protocol_eq2vjk_001.tif
+    path: files/87/8b/878b09b86d80e7abf81008d3c13afdfe9fffdbdf90ac1ed97ad0963d8986d242/original.tif
+    sha256: 878b09b86d80e7abf81008d3c13afdfe9fffdbdf90ac1ed97ad0963d8986d242
+    mime: image/tiff
+    bytes: 4495185
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/87/8b/878b09b86d80e7abf81008d3c13afdfe9fffdbdf90ac1ed97ad0963d8986d242/preview-400.269b10b25f6f.jpg
+        sha256: 269b10b25f6ff70ca4a5b07b20e760e41f05ee528b25a2b26115450079ff40ed
+        mime: image/jpeg
+        bytes: 73660
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_eq2vjk_002.tif
+    path: files/29/4b/294be89e27d0b4ae460214897aa0e9d24660fae50cd7f90f0e18979bc2be7575/original.tif
+    sha256: 294be89e27d0b4ae460214897aa0e9d24660fae50cd7f90f0e18979bc2be7575
+    mime: image/tiff
+    bytes: 12951940
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/29/4b/294be89e27d0b4ae460214897aa0e9d24660fae50cd7f90f0e18979bc2be7575/preview-400.309b6ce2c51b.jpg
+        sha256: 309b6ce2c51b2585a33eb41568ba2e3055e5f646d4d672d3a39db569afc6080c
+        mime: image/jpeg
+        bytes: 86476
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

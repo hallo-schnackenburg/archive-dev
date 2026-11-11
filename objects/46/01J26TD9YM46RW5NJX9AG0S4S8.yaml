@@ -1,0 +1,33 @@
+id: 01J26TD9YM46RW5NJX9AG0S4S8
+type: image
+subtype: plan
+title: Bauplan Wassermühle 1827
+date: "1827"
+location: Hitzacker, Fährstraße
+origin:
+  name: Erika Meyer
+  type: person
+  location: Arendsee
+parents:
+  - 01J59Y3GT8EG81RDPY4TJCRWFY
+  - 01HP3S6J7H7R7K5FQDZW91FMBP
+files:
+  - role: main
+    original_name: scan_475.tif
+    path: files/02/60/0260ae264c66610e594a74d34ad7e84bbceeb22d9a10e668bc1bdf935890f01d/original.tif
+    sha256: 0260ae264c66610e594a74d34ad7e84bbceeb22d9a10e668bc1bdf935890f01d
+    mime: image/tiff
+    bytes: 4077274
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/02/60/0260ae264c66610e594a74d34ad7e84bbceeb22d9a10e668bc1bdf935890f01d/preview-400.05f383385b11.jpg
+        sha256: 05f383385b11650e0333869e9f81ae9158f9dd186ee9073d946ca3c22870494a
+        mime: image/jpeg
+        bytes: 20938
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

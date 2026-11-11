@@ -1,0 +1,43 @@
+id: 01HR9V9PWWJC6GQXBFCA4XBM7H
+type: image
+subtype: photo
+title: Albert Voss vor dem Sparkasse
+date: 1905?
+origin:
+  name: Gerda Voss
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 26/201
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v54550
+subjects:
+  - name: Heinz Wöhlk
+    type: person
+  - name: Bömenzien
+    type: place
+parents:
+  - 01HW23R9B0E6RPF7JKRG9EPK9N
+files:
+  - role: main
+    original_name: foto_5789.jpg
+    path: files/c1/7b/c17bbe5cf3b5c9fb34b74f9bc978ab43b3887d866b32eb82c071b8b211df7ca2/original.jpg
+    sha256: c17bbe5cf3b5c9fb34b74f9bc978ab43b3887d866b32eb82c071b8b211df7ca2
+    mime: image/jpeg
+    bytes: 20257145
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/c1/7b/c17bbe5cf3b5c9fb34b74f9bc978ab43b3887d866b32eb82c071b8b211df7ca2/preview-400.4d3effb71715.jpg
+        sha256: 4d3effb71715e2715e9126da8804979613ce9840b2c491d35adeebda3135d72e
+        mime: image/jpeg
+        bytes: 26839
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

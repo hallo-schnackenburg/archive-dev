@@ -1,0 +1,35 @@
+id: 01K88VV33QMPGKD37YECT3R551
+type: image
+subtype: plan
+title: Lageplan Gutshaus
+description: Tusche auf Transparentpapier.
+date: 1993-09-14
+origin:
+  name: Anni Plate
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+parents:
+  - 01FKBD4BVD847YBHNZE34X0MBM
+files:
+  - role: main
+    original_name: scan_371.tif
+    path: files/ba/9e/ba9eafd88ae0a7482d334825ad8e3f4d78c43d7b802bc1b52c10069726f0d5ad/original.tif
+    sha256: ba9eafd88ae0a7482d334825ad8e3f4d78c43d7b802bc1b52c10069726f0d5ad
+    mime: image/tiff
+    bytes: 10181284
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ba/9e/ba9eafd88ae0a7482d334825ad8e3f4d78c43d7b802bc1b52c10069726f0d5ad/preview-400.f5a534e520b5.jpg
+        sha256: f5a534e520b5c996f244c81234ad0fc0b51d53eb2f837c18d0c3d51c4357ea95
+        mime: image/jpeg
+        bytes: 22994
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,32 @@
+id: 01KR121N6ZPM9DS6D7BWWVVFZ7
+type: image
+subtype: plan
+title: Katasterblatt Brandt
+description: Maßstab 1:1000.
+date: 1850-02-16
+location: Brünkendorf, Bahnhofstraße
+subjects:
+  - name: Salzwedel
+    type: place
+parents:
+  - 01G1SK4H01859R5DZSSW1552Y7
+files:
+  - role: main
+    original_name: scan_231.tif
+    path: files/29/12/29125f0cadb0570a60c11ba58db2ec8a88f778a5b02bbbb9addd567d4948cc5f/original.tif
+    sha256: 29125f0cadb0570a60c11ba58db2ec8a88f778a5b02bbbb9addd567d4948cc5f
+    mime: image/tiff
+    bytes: 8072141
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/29/12/29125f0cadb0570a60c11ba58db2ec8a88f778a5b02bbbb9addd567d4948cc5f/preview-400.1f675a67e7c3.jpg
+        sha256: 1f675a67e7c374edfd221ffbba75b6d0f048c181326583fb2e6fb3ba70474a10
+        mime: image/jpeg
+        bytes: 30989
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

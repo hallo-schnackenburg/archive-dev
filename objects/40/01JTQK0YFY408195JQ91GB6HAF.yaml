@@ -1,0 +1,43 @@
+id: 01JTQK0YFY408195JQ91GB6HAF
+type: image
+subtype: print
+title: Postkarte Schnackenburg, Ziegelei
+date: 1732-05-05
+location: Arendsee, Dorfstraße
+geocode:
+  lat: 53.0149
+  lon: 11.5242
+  precision: exact
+  source: osm
+origin:
+  name: Erika Neumann
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 13/191
+parents:
+  - 01HXDE71QATS2M3MPMXYF5BQTB
+files:
+  - role: main
+    original_name: scan_701.tif
+    path: files/82/06/82064e2e8a32503f0acc006aec664e73d38bbcc42dbf0bd2d1734db307c88ea6/original.tif
+    sha256: 82064e2e8a32503f0acc006aec664e73d38bbcc42dbf0bd2d1734db307c88ea6
+    mime: image/tiff
+    bytes: 21560458
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/82/06/82064e2e8a32503f0acc006aec664e73d38bbcc42dbf0bd2d1734db307c88ea6/preview-400.96bf09a98b4e.jpg
+        sha256: 96bf09a98b4e64651d2f1c5155dcc0c07fdaf3712f94b56ea3d77afaf3c984cf
+        mime: image/jpeg
+        bytes: 67821
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

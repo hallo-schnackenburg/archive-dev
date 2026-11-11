@@ -1,0 +1,40 @@
+id: 01G6NZH9EPGT20RQPTP585X7W6
+type: image
+subtype: drawing
+title: Skizze Arendsee, Am Elbdeich
+description: Mit Anmerkungen am Rand.
+date: "1911"
+location: Dömitz, Elbstraße
+origin:
+  name: Heinz Hennings
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Gemeindehaus
+    type: building
+  - name: Erika Wegner
+    type: person
+  - name: Kapern
+    type: place
+parents:
+  - 01F2FHHHC3A4CYH69SBK2R9NT8
+files:
+  - role: main
+    original_name: scan_912.tif
+    path: files/57/05/570549c1eb2e43c18bcc556c66556785f68d6f2b438bce346179f58b45609846/original.tif
+    sha256: 570549c1eb2e43c18bcc556c66556785f68d6f2b438bce346179f58b45609846
+    mime: image/tiff
+    bytes: 4764071
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/05/570549c1eb2e43c18bcc556c66556785f68d6f2b438bce346179f58b45609846/preview-400.de8cdab75726.jpg
+        sha256: de8cdab757262ca605e01413324196a5cc669b8b6770d23e0788f96558325b18
+        mime: image/jpeg
+        bytes: 49143
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

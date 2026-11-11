@@ -1,0 +1,46 @@
+id: 01FQDY5W34G1DYZB4HR8XFDMDS
+type: image
+subtype: photo
+title: Hafenstraße, Ecke Burgstraße
+date: "1930"
+location: Lüchow, Gartenstraße
+geocode:
+  lat: 53.0098
+  lon: 11.4892
+  precision: region
+  source: osm
+origin:
+  name: Karl Lemke
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Kasten 10/120
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Wittenberge
+    type: place
+files:
+  - role: main
+    original_name: IMG_9673.jpg
+    path: files/84/3e/843e84c5a889af37855b66f53fb77c460e3fb5a6e7ebbae62f2be248df75a691/original.jpg
+    sha256: 843e84c5a889af37855b66f53fb77c460e3fb5a6e7ebbae62f2be248df75a691
+    mime: image/jpeg
+    bytes: 22997086
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/84/3e/843e84c5a889af37855b66f53fb77c460e3fb5a6e7ebbae62f2be248df75a691/preview-400.511c2e8f35ce.jpg
+        sha256: 511c2e8f35ce2ca212a054e2eb217fc94d76957a76d28c37fec5bf0257b2319c
+        mime: image/jpeg
+        bytes: 44751
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

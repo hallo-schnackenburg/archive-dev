@@ -1,0 +1,40 @@
+id: 01FP4YQF8E2CCAR48XN8869MZ0
+type: image
+subtype: plan
+title: Deichplan Laase bis Laase
+date: 1848/1854
+origin:
+  name: Fritz Ahrens
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br/Kasten 24/022
+subjects:
+  - name: Erntedankfest 1848
+    type: event
+parents:
+  - 01FXP7C4VHXDAWP3MGADT9QA1F
+files:
+  - role: main
+    original_name: scan_060.tif
+    path: files/dc/65/dc65d1dfaad1ca6b95a28001e2fcf095ca1d6a7c43e5bca6a020b044a16c2c85/original.tif
+    sha256: dc65d1dfaad1ca6b95a28001e2fcf095ca1d6a7c43e5bca6a020b044a16c2c85
+    mime: image/tiff
+    bytes: 2247891
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/65/dc65d1dfaad1ca6b95a28001e2fcf095ca1d6a7c43e5bca6a020b044a16c2c85/preview-400.ae0b9402ba15.jpg
+        sha256: ae0b9402ba15d9f28d48d4b067f22b9a733a70b04bcf6a255ec2e7dea3300c2d
+        mime: image/jpeg
+        bytes: 39051
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

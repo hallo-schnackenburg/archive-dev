@@ -1,0 +1,40 @@
+id: 01F5HXZ97H3RXARA36T1J32DXT
+type: image
+subtype: photo
+title: Blick vom Grenzturm auf das Bahnhof
+description: Zu sehen sind Speicher und Gasthof „Zur Elbe“.
+date: 1919-08
+location: Gartow, Gasthof Meyer
+origin:
+  name: Dieter Voss
+  type: person
+  location: Pretzier
+subjects:
+  - name: Deicharbeiten 1919
+    type: event
+  - name: Scheune
+    type: building
+  - name: Dömitz
+    type: place
+parents:
+  - 01FHXWS77V11495NM60GV2NEPP
+files:
+  - role: main
+    original_name: IMG_0597.jpg
+    path: files/6c/4c/6c4c540eedec5bdc02343d64e1b51c06274fffce8413107812a2dcd7b7fe41fb/original.jpg
+    sha256: 6c4c540eedec5bdc02343d64e1b51c06274fffce8413107812a2dcd7b7fe41fb
+    mime: image/jpeg
+    bytes: 21549241
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/6c/4c/6c4c540eedec5bdc02343d64e1b51c06274fffce8413107812a2dcd7b7fe41fb/preview-400.10ae1e9c1efe.jpg
+        sha256: 10ae1e9c1efe96f1be5bf35cebbcea079dba0affac312c05448fe066899bbd1c
+        mime: image/jpeg
+        bytes: 68161
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

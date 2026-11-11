@@ -1,0 +1,42 @@
+id: 01GKK3N3KCW8RZ8JZRPB5E6QX1
+type: image
+subtype: print
+title: Lithographie Kegelbahn, Pretzier
+date: 1758-06
+location: Salzwedel, Kriegerdenkmal
+geocode:
+  lat: 53.0471
+  lon: 11.4646
+  precision: region
+  source: osm
+origin:
+  name: Marta Dreyer
+  type: person
+  location: Lenzen
+subjects:
+  - name: Brückeneinweihung 1758
+    type: event
+  - name: Lenzen
+    type: place
+parents:
+  - 01FESK7CZ76YS0ANTN93GVS71Z
+files:
+  - role: main
+    original_name: scan_317.tif
+    path: files/e2/f8/e2f838d0ff9ef1ffd5076026bec10ea17d87a7600fd86a6064b262aa2bb37b0b/original.tif
+    sha256: e2f838d0ff9ef1ffd5076026bec10ea17d87a7600fd86a6064b262aa2bb37b0b
+    mime: image/tiff
+    bytes: 18659022
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e2/f8/e2f838d0ff9ef1ffd5076026bec10ea17d87a7600fd86a6064b262aa2bb37b0b/preview-400.aaf494bbdf91.jpg
+        sha256: aaf494bbdf913b353417c7ef83f55d265c24a08085b7b7f75f44b27a46c406d8
+        mime: image/jpeg
+        bytes: 25356
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

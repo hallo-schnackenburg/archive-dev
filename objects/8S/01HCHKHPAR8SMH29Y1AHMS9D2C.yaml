@@ -1,0 +1,46 @@
+id: 01HCHKHPAR8SMH29Y1AHMS9D2C
+type: image
+subtype: plan
+title: Deichplan Havelberg bis Wootz
+date: 1943~
+location: Wootz, Kirchstraße
+origin:
+  name: Erika Lemke
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F 10/175
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Laase
+    type: place
+  - name: Laase
+    type: place
+  - name: Rudolf Pape
+    type: person
+parents:
+  - 01HW1XG7P06SRWXZK7CKV1D89H
+files:
+  - role: main
+    original_name: scan_236.tif
+    path: files/07/47/074785bf90915bb6f6278b5d12cd7c1eb1944bb9e2db4fe64d10fe4fd8e775cb/original.tif
+    sha256: 074785bf90915bb6f6278b5d12cd7c1eb1944bb9e2db4fe64d10fe4fd8e775cb
+    mime: image/tiff
+    bytes: 20349852
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/07/47/074785bf90915bb6f6278b5d12cd7c1eb1944bb9e2db4fe64d10fe4fd8e775cb/preview-400.0e4a0c110d4f.jpg
+        sha256: 0e4a0c110d4f0a243e367b5add09b5c9f19fe53d2e4d2e6e49dc62407b154f85
+        mime: image/jpeg
+        bytes: 89208
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

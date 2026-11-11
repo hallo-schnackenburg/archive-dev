@@ -1,0 +1,41 @@
+id: 01HYV7XY3A39VY9ZYYH973FX83
+type: image
+subtype: photo
+title: Heinz Rieke, Porträt
+date: 1911~
+location: Gollensdorf, Dorfschule
+origin:
+  name: Dieter Schulz
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 14/051
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Karl Ahrens
+    type: person
+files:
+  - role: main
+    original_name: scan_608.tif
+    path: files/da/21/da21223452c399ca89e02f94a218307203e5351faa23f2a5696dc65e97ed058c/original.tif
+    sha256: da21223452c399ca89e02f94a218307203e5351faa23f2a5696dc65e97ed058c
+    mime: image/tiff
+    bytes: 3434869
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/21/da21223452c399ca89e02f94a218307203e5351faa23f2a5696dc65e97ed058c/preview-400.d13812eb72d4.jpg
+        sha256: d13812eb72d47d09dc94b76b24924be10e87ab6810af12faca2cfc36a086b772
+        mime: image/jpeg
+        bytes: 31158
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

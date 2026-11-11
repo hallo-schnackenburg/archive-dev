@@ -1,0 +1,74 @@
+id: 01GVW094J5X98W8P6B3R98F5YD
+type: document
+subtype: note
+title: Quittung für Ernst Lemke
+description: Beleg mit Stempel.
+date: 194X
+location: Kapern, Bahnhofstraße
+geocode:
+  lat: 53.0933
+  lon: 11.5819
+  precision: region
+  source: osm
+origin:
+  name: Ilse Lemke
+  type: person
+  location: Restorf
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 13/081
+  note: Schrank B
+subjects:
+  - name: Wootz
+    type: place
+  - name: Otto Meyer
+    type: person
+  - name: Kapern
+    type: place
+parents:
+  - 01JJRB980S7G97FX3YJ3JFCV87
+files:
+  - role: page
+    num: 1
+    original_name: note_98f5yd_001.tif
+    path: files/e0/70/e070d4ef899aba35b91c9934f100ebb5bc7fb77ba3eb75f1c8c2392c4cf535b7/original.tif
+    sha256: e070d4ef899aba35b91c9934f100ebb5bc7fb77ba3eb75f1c8c2392c4cf535b7
+    mime: image/tiff
+    bytes: 15608243
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e0/70/e070d4ef899aba35b91c9934f100ebb5bc7fb77ba3eb75f1c8c2392c4cf535b7/preview-400.ba393bf5be69.jpg
+        sha256: ba393bf5be69d97c778991283d182b904499d9998d0076316a4d50474b99a941
+        mime: image/jpeg
+        bytes: 37886
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_98f5yd_002.tif
+    path: files/fd/e0/fde02a78c980a122f922e5eaf63e31f0fc7cd1143986146c9cc45e98fa8ed9eb/original.tif
+    sha256: fde02a78c980a122f922e5eaf63e31f0fc7cd1143986146c9cc45e98fa8ed9eb
+    mime: image/tiff
+    bytes: 12229758
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fd/e0/fde02a78c980a122f922e5eaf63e31f0fc7cd1143986146c9cc45e98fa8ed9eb/preview-400.a0d604d3b789.jpg
+        sha256: a0d604d3b7896552a8e37fe666666bef0c8eb4be8d12f66fd0cd1241dedb2a53
+        mime: image/jpeg
+        bytes: 34598
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

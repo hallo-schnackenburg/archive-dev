@@ -1,0 +1,71 @@
+id: 01FEYHNQK6VX7R102BT8NFMMQG
+type: document
+subtype: note
+title: Kassenzettel Mühle
+description: Auf der Rückseite eines Formulars.
+date: 1976-09-22
+location: Brünkendorf, Pfarrhaus
+geocode:
+  lat: 52.9222
+  lon: 11.625
+  precision: exact
+  source: osm
+origin:
+  name: Hedwig Lüders
+  type: person
+  location: Hitzacker
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 10/050
+subjects:
+  - name: Elbdeich
+    type: building
+  - name: Gasthof „Zur Elbe“
+    type: building
+parents:
+  - 01F54Y44HWBYAXTTC3F5NVVN21
+files:
+  - role: page
+    num: 1
+    original_name: note_nfmmqg_001.tif
+    path: files/46/a4/46a4c44377297fffbb23bebe43def2daa0871451877fec51ed79d01ade44bbb6/original.tif
+    sha256: 46a4c44377297fffbb23bebe43def2daa0871451877fec51ed79d01ade44bbb6
+    mime: image/tiff
+    bytes: 18065401
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/46/a4/46a4c44377297fffbb23bebe43def2daa0871451877fec51ed79d01ade44bbb6/preview-400.1b0de0bab194.jpg
+        sha256: 1b0de0bab19404df942291c0b751057d0be8964146adedea257c42e01f27fbb3
+        mime: image/jpeg
+        bytes: 70716
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_nfmmqg_002.tif
+    path: files/90/11/90110ec730b6034c1a32e9549a34df8e2006b33b9510b2c5ae51051a57b4ebfc/original.tif
+    sha256: 90110ec730b6034c1a32e9549a34df8e2006b33b9510b2c5ae51051a57b4ebfc
+    mime: image/tiff
+    bytes: 12591569
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/90/11/90110ec730b6034c1a32e9549a34df8e2006b33b9510b2c5ae51051a57b4ebfc/preview-400.2e59df6d1c79.jpg
+        sha256: 2e59df6d1c793d8a27ac5cbe514031a606d2c9ea97f04a172552fee8ca81e5e6
+        mime: image/jpeg
+        bytes: 77771
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

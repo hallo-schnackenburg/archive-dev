@@ -1,0 +1,46 @@
+id: 01F8QB0T5CV9CXMJYENW2EFJBY
+type: image
+subtype: plan
+title: Katasterblatt Detlefs
+description: Mit handschriftlichen Ergänzungen.
+date: 1996-07-10
+location: Schnackenburg, Ziegelei
+geocode:
+  lat: 53.0466
+  lon: 11.4538
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan 9/036
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v35797
+subjects:
+  - name: Hedwig Krüger
+    type: person
+  - name: Speicher
+    type: building
+parents:
+  - 01GCVDVYZT1NS1DF3M44F3CN1W
+files:
+  - role: main
+    original_name: scan_384.tif
+    path: files/b9/12/b912b33b28d55a89ae51ec85d40d54dbc21da314616349d23d04c82119c0ca84/original.tif
+    sha256: b912b33b28d55a89ae51ec85d40d54dbc21da314616349d23d04c82119c0ca84
+    mime: image/tiff
+    bytes: 3892779
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b9/12/b912b33b28d55a89ae51ec85d40d54dbc21da314616349d23d04c82119c0ca84/preview-400.8d6189b4b0d9.jpg
+        sha256: 8d6189b4b0d94fbdc624427e70510993575f0ad93876aa4105d14578b22841fa
+        mime: image/jpeg
+        bytes: 53964
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

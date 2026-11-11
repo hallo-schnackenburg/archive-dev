@@ -1,0 +1,35 @@
+id: 01FVH37WYKCRT8AJWH2JT9TQMP
+type: image
+subtype: print
+title: Lithographie Elbdeich, Pretzier
+date: 1736-05
+origin:
+  name: Emma Brandt
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro 36/335
+files:
+  - role: main
+    original_name: scan_906.tif
+    path: files/cd/62/cd62d5ac4f5769658ea931bf548f68133bb37418ebbfc0b4aa50d492397e9c74/original.tif
+    sha256: cd62d5ac4f5769658ea931bf548f68133bb37418ebbfc0b4aa50d492397e9c74
+    mime: image/tiff
+    bytes: 360792
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/62/cd62d5ac4f5769658ea931bf548f68133bb37418ebbfc0b4aa50d492397e9c74/preview-400.37515ddd6009.jpg
+        sha256: 37515ddd60096cf29115de1edb79eacb947cb44c3b007964216a64ce561422cb
+        mime: image/jpeg
+        bytes: 42995
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

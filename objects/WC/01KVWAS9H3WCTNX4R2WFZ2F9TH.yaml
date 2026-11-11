@@ -1,0 +1,40 @@
+id: 01KVWAS9H3WCTNX4R2WFZ2F9TH
+type: image
+subtype: photo
+title: Brückeneinweihung 1964
+description: Abzug im Format 9 x 13 cm.
+date: 1964-07
+location: Arendsee, Am Elbdeich
+origin:
+  name: Gustav Burmester
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Kartoffelernte 1964
+    type: event
+  - name: Osterfeuer 1964
+    type: event
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01J6CWVRW5ZWM3PCSZT7CG4EQA
+files:
+  - role: main
+    original_name: P9890.jpg
+    path: files/70/50/7050d4ae1bc28f6b951469cb14b2b575fef5dcd032d160a0ea295183364836c2/original.jpg
+    sha256: 7050d4ae1bc28f6b951469cb14b2b575fef5dcd032d160a0ea295183364836c2
+    mime: image/jpeg
+    bytes: 23668344
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/70/50/7050d4ae1bc28f6b951469cb14b2b575fef5dcd032d160a0ea295183364836c2/preview-400.bf02d87e80c0.jpg
+        sha256: bf02d87e80c025ba531bb47c82fba5aae04a366f99dbf1faf679b61d959c7511
+        mime: image/jpeg
+        bytes: 88217
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

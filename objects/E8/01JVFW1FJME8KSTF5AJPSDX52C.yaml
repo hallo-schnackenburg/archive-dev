@@ -1,0 +1,42 @@
+id: 01JVFW1FJME8KSTF5AJPSDX52C
+type: image
+subtype: print
+title: "Kupferstich: Pretzier von der Elbseite, Schnackenburg"
+description: Lithographie, Rand beschnitten.
+date: 1848-02-02
+origin:
+  name: Gerda Brandt
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Plan 5/004
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v8973
+subjects:
+  - name: Ilse Dreyer
+    type: person
+  - name: Deicharbeiten 1848
+    type: event
+files:
+  - role: main
+    original_name: scan_836.tif
+    path: files/ac/86/ac86232d56d0880a2f3cdfa594faaabd590fb15415e9b471e8ff497ba2e6b6b5/original.tif
+    sha256: ac86232d56d0880a2f3cdfa594faaabd590fb15415e9b471e8ff497ba2e6b6b5
+    mime: image/tiff
+    bytes: 16863968
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ac/86/ac86232d56d0880a2f3cdfa594faaabd590fb15415e9b471e8ff497ba2e6b6b5/preview-400.b64e695ca334.jpg
+        sha256: b64e695ca33464cd2cde8b414b29e40a4ea892b8ecb870764f328ffa769e31f1
+        mime: image/jpeg
+        bytes: 34062
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

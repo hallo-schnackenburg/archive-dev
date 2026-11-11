@@ -1,0 +1,32 @@
+id: 01HHNQCCFV040GREXDFTCAYBJ6
+type: image
+subtype: plan
+title: Bauplan Tanzsaal 1959
+description: Mit handschriftlichen Ergänzungen.
+date: "1959"
+location: Wittenberge, Bahnhofstraße
+subjects:
+  - name: Wassermühle
+    type: building
+parents:
+  - 01FAQ3AREZBKTAGHNPJF8ZYQP7
+files:
+  - role: main
+    original_name: scan_728.tif
+    path: files/00/ba/00ba27396d900ec005ee4cc632e195e2f84b70ffda4e9d56bee0be8d3de7fd24/original.tif
+    sha256: 00ba27396d900ec005ee4cc632e195e2f84b70ffda4e9d56bee0be8d3de7fd24
+    mime: image/tiff
+    bytes: 14928899
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/00/ba/00ba27396d900ec005ee4cc632e195e2f84b70ffda4e9d56bee0be8d3de7fd24/preview-400.ee5f03721157.jpg
+        sha256: ee5f037211571388ac8ef578d55a4086060d3fb36e1e0690f91483e9df43f69e
+        mime: image/jpeg
+        bytes: 65719
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

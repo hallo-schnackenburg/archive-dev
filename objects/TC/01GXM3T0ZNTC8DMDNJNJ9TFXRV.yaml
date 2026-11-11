@@ -1,0 +1,36 @@
+id: 01GXM3T0ZNTC8DMDNJNJ9TFXRV
+type: image
+subtype: photo
+title: Hans Voss, Porträt
+description: Zu sehen sind Hafen und Rathaus.
+date: 1951?
+location: Arendsee, Hinter den Höfen
+origin:
+  name: Horst Schulz
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Maifeier 1951
+    type: event
+  - name: Brückeneinweihung 1951
+    type: event
+files:
+  - role: main
+    original_name: IMG_6944.jpg
+    path: files/cd/77/cd77e8f92d253861909b703a16b9b51b67c2dd60fd51304ed648d17d79248535/original.jpg
+    sha256: cd77e8f92d253861909b703a16b9b51b67c2dd60fd51304ed648d17d79248535
+    mime: image/jpeg
+    bytes: 14767575
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/cd/77/cd77e8f92d253861909b703a16b9b51b67c2dd60fd51304ed648d17d79248535/preview-400.31a12134d2b6.jpg
+        sha256: 31a12134d2b647c485564b6531a0acf9d60e11853cb5eec9b04edd64aabb9c23
+        mime: image/jpeg
+        bytes: 58367
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

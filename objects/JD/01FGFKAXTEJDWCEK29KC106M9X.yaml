@@ -1,0 +1,42 @@
+id: 01FGFKAXTEJDWCEK29KC106M9X
+type: image
+subtype: plan
+title: Bauplan Sportplatz 1813
+description: Mit handschriftlichen Ergänzungen.
+date: 1813-05-28
+location: Gorleben, Am Markt
+origin:
+  name: Karl Heuer
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 30/145
+subjects:
+  - name: Grenzöffnung 1813
+    type: event
+  - name: Schmiede
+    type: building
+files:
+  - role: main
+    original_name: scan_163.tif
+    path: files/5f/6e/5f6e21a6e4712b1b6e8011dfc44490c2d2058d1e9e8cf29f78306237e7838d15/original.tif
+    sha256: 5f6e21a6e4712b1b6e8011dfc44490c2d2058d1e9e8cf29f78306237e7838d15
+    mime: image/tiff
+    bytes: 5748055
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5f/6e/5f6e21a6e4712b1b6e8011dfc44490c2d2058d1e9e8cf29f78306237e7838d15/preview-400.11e2b370384d.jpg
+        sha256: 11e2b370384d35a9850e4b7fe36fc224b29d5bbeb34e06b6a3a88a36938bb288
+        mime: image/jpeg
+        bytes: 30272
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

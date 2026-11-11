@@ -1,0 +1,41 @@
+id: 01FXWGMH0WJ995SK6T5RCF8PZ3
+type: image
+subtype: print
+title: Postkarte Lanz, Grenzturm
+description: Lithographie, Rand beschnitten.
+location: Lanz, Hinter den Höfen
+origin:
+  name: Günter Gaede
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v18226
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Grenzturm
+    type: building
+files:
+  - role: main
+    original_name: scan_218.tif
+    path: files/5c/3d/5c3d25b7d3e47d0988ad285f0938fbb4d013a79220662d95473d76e2856fd1a6/original.tif
+    sha256: 5c3d25b7d3e47d0988ad285f0938fbb4d013a79220662d95473d76e2856fd1a6
+    mime: image/tiff
+    bytes: 3343797
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5c/3d/5c3d25b7d3e47d0988ad285f0938fbb4d013a79220662d95473d76e2856fd1a6/preview-400.1c251794dfb0.jpg
+        sha256: 1c251794dfb07084bbd9c7ae5bbc17c9d2b2c3428529ea215064a90a05bfa076
+        mime: image/jpeg
+        bytes: 56288
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

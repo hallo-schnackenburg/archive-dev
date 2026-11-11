@@ -1,0 +1,58 @@
+id: 01HEGMES77P9CSNMD5GTESD74R
+type: document
+subtype: letter
+title: Brief von Heinrich Voss an Erika Harms
+description: Mit Umschlag und Briefmarke.
+date: 1827-10-17
+location: Brünkendorf, Dorfstraße
+geocode:
+  lat: 53.0141
+  lon: 11.473
+  precision: street
+  source: osm
+recipient: Otto Gaede
+language: de
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_esd74r_001.tif
+    path: files/c8/8f/c88f45f25777fa235a18001fa2eadaa3d7a559e38ec6c4b9933479a3643e3470/original.tif
+    sha256: c88f45f25777fa235a18001fa2eadaa3d7a559e38ec6c4b9933479a3643e3470
+    mime: image/tiff
+    bytes: 5576325
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/8f/c88f45f25777fa235a18001fa2eadaa3d7a559e38ec6c4b9933479a3643e3470/preview-400.6bf90e2741aa.jpg
+        sha256: 6bf90e2741aa26ebe301573fb3523d416529be05f0f717bf902691acea532d4e
+        mime: image/jpeg
+        bytes: 69211
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_esd74r_002.tif
+    path: files/c6/f0/c6f0ff9882db00250d907176ca82bd2c8488d43dbd2cfce68c0992ce9fe88e55/original.tif
+    sha256: c6f0ff9882db00250d907176ca82bd2c8488d43dbd2cfce68c0992ce9fe88e55
+    mime: image/tiff
+    bytes: 2428821
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/f0/c6f0ff9882db00250d907176ca82bd2c8488d43dbd2cfce68c0992ce9fe88e55/preview-400.7ba25cc77373.jpg
+        sha256: 7ba25cc7737377f494a20639cc2b9963f0133a11f5d5cba6400b902060cb56cb
+        mime: image/jpeg
+        bytes: 58183
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

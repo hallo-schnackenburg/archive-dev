@@ -1,0 +1,37 @@
+id: 01GDK0G5GQT3WCTHBK6KV8EZ19
+type: image
+subtype: plan
+title: Bauplan Fähranleger 1765
+description: Mit handschriftlichen Ergänzungen.
+date: 1765-10
+location: Brünkendorf, Marktstraße
+origin:
+  name: Karl Wegner
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 12/275
+files:
+  - role: main
+    original_name: scan_663.tif
+    path: files/c2/cf/c2cf40a07c9edd60299ccb474b91d975fb709e25f346a3c34eaa0cc1a80e3b23/original.tif
+    sha256: c2cf40a07c9edd60299ccb474b91d975fb709e25f346a3c34eaa0cc1a80e3b23
+    mime: image/tiff
+    bytes: 3072008
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/cf/c2cf40a07c9edd60299ccb474b91d975fb709e25f346a3c34eaa0cc1a80e3b23/preview-400.47d8de7af3db.jpg
+        sha256: 47d8de7af3db0e7327704305ce00deb4bd7fdcc22271914f8cb0569abe3b8d89
+        mime: image/jpeg
+        bytes: 51709
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

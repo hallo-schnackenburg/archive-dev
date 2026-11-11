@@ -1,0 +1,58 @@
+id: 01G327EXPN80PCHW6QCHBQVERP
+type: document
+subtype: note
+title: Rechnung Krüger, Rathaus
+description: Auf der Rückseite eines Formulars.
+date: 1904-01-11
+location: Kapern, Dorfteich
+geocode:
+  lat: 53.0016
+  lon: 11.5474
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Brandt
+  type: person
+  location: Lenzen
+language: de
+files:
+  - role: page
+    num: 1
+    original_name: note_bqverp_001.tif
+    path: files/09/61/09612df2f9116b8fbaef7abd5c777d1ce4dad355b16cd3be81947f2866e17407/original.tif
+    sha256: 09612df2f9116b8fbaef7abd5c777d1ce4dad355b16cd3be81947f2866e17407
+    mime: image/tiff
+    bytes: 5105619
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/09/61/09612df2f9116b8fbaef7abd5c777d1ce4dad355b16cd3be81947f2866e17407/preview-400.fd520abbbccb.jpg
+        sha256: fd520abbbccbf395cfc8993decee5a4dc489c1ee2dd183a9f89e57767412bcf2
+        mime: image/jpeg
+        bytes: 52933
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_bqverp_002.tif
+    path: files/4e/40/4e40c5537962cfd605f1b2ac11b87cb5c2249cd42e53fb26970b0c337ab69f85/original.tif
+    sha256: 4e40c5537962cfd605f1b2ac11b87cb5c2249cd42e53fb26970b0c337ab69f85
+    mime: image/tiff
+    bytes: 17677602
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4e/40/4e40c5537962cfd605f1b2ac11b87cb5c2249cd42e53fb26970b0c337ab69f85/preview-400.b00581b05a47.jpg
+        sha256: b00581b05a4779fc5c98c52543f3cd4778a836ba4d619225cc0c89ec904433b0
+        mime: image/jpeg
+        bytes: 47087
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

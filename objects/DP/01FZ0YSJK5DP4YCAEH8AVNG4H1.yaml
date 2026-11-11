@@ -1,0 +1,48 @@
+id: 01FZ0YSJK5DP4YCAEH8AVNG4H1
+type: image
+subtype: photo
+title: Beerdigung 1920
+date: 1920-05
+location: Lüchow, Fährstraße
+geocode:
+  lat: 52.9122
+  lon: 11.551
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Cohrs
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  note: Bücherregal links
+subjects:
+  - name: Heinz Hennings
+    type: person
+  - name: Eisgang 1920
+    type: event
+  - name: Pretzier
+    type: place
+files:
+  - role: main
+    original_name: IMG_0620.jpg
+    path: files/04/a6/04a691d1daa1953c5523b3112f4d04fda31c3aaa3b609d3b0b9af78487fda0ce/original.jpg
+    sha256: 04a691d1daa1953c5523b3112f4d04fda31c3aaa3b609d3b0b9af78487fda0ce
+    mime: image/jpeg
+    bytes: 8020325
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/04/a6/04a691d1daa1953c5523b3112f4d04fda31c3aaa3b609d3b0b9af78487fda0ce/preview-400.1c1ba12dc94d.jpg
+        sha256: 1c1ba12dc94d36ef17c7d1e6f19184f449c9ee3e43af5ee7a01ae78a9d1357dc
+        mime: image/jpeg
+        bytes: 55077
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

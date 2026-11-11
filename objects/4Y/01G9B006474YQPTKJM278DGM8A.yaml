@@ -1,0 +1,35 @@
+id: 01G9B006474YQPTKJM278DGM8A
+type: image
+subtype: plan
+title: Flurkarte Laase, Lüchow
+origin:
+  name: Karl Ludolf
+  type: person
+  location: Lanz
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Ladestraße
+    type: building
+  - name: Erika Klatt
+    type: person
+files:
+  - role: main
+    original_name: scan_693.tif
+    path: files/12/f3/12f3ae76bdd52351439679058f496d7f5468bc336fd71616ac4b8dc4befbae5c/original.tif
+    sha256: 12f3ae76bdd52351439679058f496d7f5468bc336fd71616ac4b8dc4befbae5c
+    mime: image/tiff
+    bytes: 12427095
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/12/f3/12f3ae76bdd52351439679058f496d7f5468bc336fd71616ac4b8dc4befbae5c/preview-400.4871985afe42.jpg
+        sha256: 4871985afe42c7a89d1654176c268f2011530119cc647be4d0ef3f6308769a26
+        mime: image/jpeg
+        bytes: 48931
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

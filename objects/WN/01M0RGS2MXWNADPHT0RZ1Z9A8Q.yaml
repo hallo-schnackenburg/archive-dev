@@ -1,0 +1,44 @@
+id: 01M0RGS2MXWNADPHT0RZ1Z9A8Q
+type: image
+subtype: drawing
+title: Federzeichnung Grenzturm, Lenzen
+description: Mit Anmerkungen am Rand.
+date: 192X
+location: Wittenberge, Deichstraße
+origin:
+  name: Walter Gerdes
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 40/110
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Sparkasse
+    type: building
+parents:
+  - 01KR3FCH1Y6Q5X71Q48GVZ96QG
+files:
+  - role: main
+    original_name: scan_621.tif
+    path: files/ea/ca/eaca8740cde01c3eea3805b98edd2756eeebced7d01c53563cb58dcb1c641c5c/original.tif
+    sha256: eaca8740cde01c3eea3805b98edd2756eeebced7d01c53563cb58dcb1c641c5c
+    mime: image/tiff
+    bytes: 25681206
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ea/ca/eaca8740cde01c3eea3805b98edd2756eeebced7d01c53563cb58dcb1c641c5c/preview-400.b6f33b41e03a.jpg
+        sha256: b6f33b41e03a7519e6a9ca85042bca67657dd52a4c9d73f245d43ab09ac10d57
+        mime: image/jpeg
+        bytes: 35424
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

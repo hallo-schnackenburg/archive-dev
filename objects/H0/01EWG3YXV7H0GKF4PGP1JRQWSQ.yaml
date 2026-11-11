@@ -1,0 +1,36 @@
+id: 01EWG3YXV7H0GKF4PGP1JRQWSQ
+type: image
+subtype: photo
+title: Familie Ludolf beim Fastnacht
+description: Farbfoto, leicht verblasst.
+date: "1898"
+location: Lüchow, Deichstraße
+geocode:
+  lat: 53.0508
+  lon: 11.5392
+  precision: street
+  source: osm
+origin:
+  name: Otto Schwarz
+  type: person
+  location: Hitzacker
+files:
+  - role: main
+    original_name: foto_7785.jpg
+    path: files/4d/b3/4db3cab3b4f04ed9958aa3f1eff9d9a945ca7886c8a0016fb571d80bf1863eb7/original.jpg
+    sha256: 4db3cab3b4f04ed9958aa3f1eff9d9a945ca7886c8a0016fb571d80bf1863eb7
+    mime: image/jpeg
+    bytes: 4732845
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4d/b3/4db3cab3b4f04ed9958aa3f1eff9d9a945ca7886c8a0016fb571d80bf1863eb7/preview-400.a411bab57371.jpg
+        sha256: a411bab573711fe548da2d12f8a747d3647938b4c84cc2a0ce132bb999c24e48
+        mime: image/jpeg
+        bytes: 23463
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

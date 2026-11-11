@@ -1,0 +1,36 @@
+id: 01JTND4QHJYX9WF11P9XSMGHKE
+type: image
+subtype: photo
+title: Fritz Wiegmann, Porträt
+location: Brünkendorf, Fährstraße
+origin:
+  name: Wilhelm Krüger
+  type: person
+  location: Seedorf
+subjects:
+  - name: Wilhelm Matthies
+    type: person
+  - name: Frieda Schulz
+    type: person
+parents:
+  - 01EZC5C07CZY0ETCK5VD296P3F
+files:
+  - role: main
+    original_name: IMG_3078.jpg
+    path: files/d6/e6/d6e6f24777e3cbf6d2755f662eba648c4847ea3f0e90613c07721203a53300f5/original.jpg
+    sha256: d6e6f24777e3cbf6d2755f662eba648c4847ea3f0e90613c07721203a53300f5
+    mime: image/jpeg
+    bytes: 26448004
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d6/e6/d6e6f24777e3cbf6d2755f662eba648c4847ea3f0e90613c07721203a53300f5/preview-400.d18da94156cb.jpg
+        sha256: d18da94156cbb4eb08631e0bb5822b90e8b1e8d9574ac838db14b772bfbf8c2c
+        mime: image/jpeg
+        bytes: 87635
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

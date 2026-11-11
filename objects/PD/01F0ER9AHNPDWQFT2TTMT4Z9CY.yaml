@@ -1,0 +1,37 @@
+id: 01F0ER9AHNPDWQFT2TTMT4Z9CY
+type: image
+subtype: photo
+title: Heinz Lüders, Porträt
+date: 193X
+location: Pretzier, Scheune
+origin:
+  name: Helga Detlefs
+  type: person
+  location: Lüchow
+subjects:
+  - name: Hans Wiegmann
+    type: person
+  - name: Hermann Brandt
+    type: person
+  - name: Heinrich Bohlmann
+    type: person
+files:
+  - role: main
+    original_name: DSC9809.jpg
+    path: files/64/d6/64d697b6a4892aa7d03175dbb4930f9be1a4bbbabfbeea21c63c4fc6cd5bd0e8/original.jpg
+    sha256: 64d697b6a4892aa7d03175dbb4930f9be1a4bbbabfbeea21c63c4fc6cd5bd0e8
+    mime: image/jpeg
+    bytes: 21024106
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/64/d6/64d697b6a4892aa7d03175dbb4930f9be1a4bbbabfbeea21c63c4fc6cd5bd0e8/preview-400.cca7180bb5dd.jpg
+        sha256: cca7180bb5dde56f1b0f5fac5a41d8d63e7dc6dd4981d9f8701c09599fd16d8b
+        mime: image/jpeg
+        bytes: 66870
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

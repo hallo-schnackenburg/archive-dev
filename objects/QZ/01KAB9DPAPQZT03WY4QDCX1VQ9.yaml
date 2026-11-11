@@ -1,0 +1,72 @@
+id: 01KAB9DPAPQZT03WY4QDCX1VQ9
+type: document
+subtype: letter
+title: Brief von Marta Meyer an Dieter Hennings
+description: Handschriftlich, 4 Seiten.
+date: 1793-12-01
+location: Schnackenburg, Wassermühle
+geocode:
+  lat: 53.0781
+  lon: 11.5406
+  precision: town
+  source: osm
+origin:
+  name: Gustav Timm
+  type: person
+  location: Wootz
+recipient: Karl Prieß
+language: de
+original:
+  holder:
+    name: Familie Behrens
+    type: person
+    location: Lanz
+  reference: Dok/Album 5/008
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Ernst Brandt
+    type: person
+  - name: Wootz
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_cx1vq9_001.tif
+    path: files/db/cf/dbcfa42e512de8f14d8b48e74df4f672a4608bf9a353f88ae4b4ee6830f5dfdf/original.tif
+    sha256: dbcfa42e512de8f14d8b48e74df4f672a4608bf9a353f88ae4b4ee6830f5dfdf
+    mime: image/tiff
+    bytes: 19062870
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/cf/dbcfa42e512de8f14d8b48e74df4f672a4608bf9a353f88ae4b4ee6830f5dfdf/preview-400.88b4f4d58519.jpg
+        sha256: 88b4f4d58519211bbd93027b3af0a84c402a0821627f97f94f8c31bae6da4c5e
+        mime: image/jpeg
+        bytes: 74665
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_cx1vq9_002.tif
+    path: files/67/c1/67c1e2f1bb554a1cf0877b2397998a9ebdbb8abd4fc18a150756cd2445a420bb/original.tif
+    sha256: 67c1e2f1bb554a1cf0877b2397998a9ebdbb8abd4fc18a150756cd2445a420bb
+    mime: image/tiff
+    bytes: 3444038
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/67/c1/67c1e2f1bb554a1cf0877b2397998a9ebdbb8abd4fc18a150756cd2445a420bb/preview-400.623d90f5f2ec.jpg
+        sha256: 623d90f5f2ec35c68f02f902c862227bb3b7fa5acdbe878c9965240cda513522
+        mime: image/jpeg
+        bytes: 27790
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

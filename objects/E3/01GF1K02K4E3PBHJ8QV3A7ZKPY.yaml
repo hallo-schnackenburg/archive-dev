@@ -1,0 +1,41 @@
+id: 01GF1K02K4E3PBHJ8QV3A7ZKPY
+type: image
+subtype: photo
+title: Blick vom Wassermühle auf das Försterei
+location: Kapern, Mühlenweg
+geocode:
+  lat: 52.9565
+  lon: 11.5263
+  precision: street
+  source: osm
+origin:
+  name: Erika Jeß
+  type: person
+  location: Wustrow
+subjects:
+  - name: Wilhelm Lindemann
+    type: person
+  - name: Klaus Quast
+    type: person
+  - name: Käthe Wegner
+    type: person
+files:
+  - role: main
+    original_name: P4441.jpg
+    path: files/c3/55/c35587cfba1149d7386fbf7b358d9c65b0ee9ecc251b47db421a580b905b131b/original.jpg
+    sha256: c35587cfba1149d7386fbf7b358d9c65b0ee9ecc251b47db421a580b905b131b
+    mime: image/jpeg
+    bytes: 27363017
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c3/55/c35587cfba1149d7386fbf7b358d9c65b0ee9ecc251b47db421a580b905b131b/preview-400.67cef881b1ce.jpg
+        sha256: 67cef881b1ce767a0e2def72eefca313e79d2ad68b486d2c8337310aa3b9a115
+        mime: image/jpeg
+        bytes: 32597
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

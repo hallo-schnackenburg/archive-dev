@@ -1,0 +1,35 @@
+id: 01JQ3A4V6FKP41BZPA0VTS5V38
+type: image
+subtype: photo
+title: Feuerwehrübung 1943
+description: Farbfoto, leicht verblasst.
+date: "1943"
+origin:
+  name: Wilhelm Dreyer
+  type: person
+  location: Wootz
+subjects:
+  - name: Mühle
+    type: building
+parents:
+  - 01GPX56NY6DD91HTSCGYG7TKDB
+files:
+  - role: main
+    original_name: IMG_3531.jpg
+    path: files/2d/f6/2df6aef8927a5b89068673acc2fd28e0dfd5154cd003a64acc7edd9c167fc9c2/original.jpg
+    sha256: 2df6aef8927a5b89068673acc2fd28e0dfd5154cd003a64acc7edd9c167fc9c2
+    mime: image/jpeg
+    bytes: 14439273
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/2d/f6/2df6aef8927a5b89068673acc2fd28e0dfd5154cd003a64acc7edd9c167fc9c2/preview-400.a82b28d3febb.jpg
+        sha256: a82b28d3febbc3b8086b0edced88462ae4910ce0b55968814f46a5ec5f6c43c6
+        mime: image/jpeg
+        bytes: 55753
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

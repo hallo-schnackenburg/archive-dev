@@ -1,0 +1,47 @@
+id: 01FAE6QEVXKB28H4D17RQM3S2T
+type: image
+subtype: photo
+title: Wilhelm Ihde vor dem Pumpenhaus
+description: Abzug im Format 6 x 9 cm.
+date: 2004-11-22
+location: Restorf, Mühlenweg
+geocode:
+  lat: 52.9944
+  lon: 11.5155
+  precision: exact
+  source: osm
+origin:
+  name: Heinz Brandt
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg/Kasten 17/051
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Ortsbesichtigung 2004
+    type: event
+files:
+  - role: main
+    original_name: DSC8391.jpg
+    path: files/5d/6f/5d6f23755a7d1bcc2913208159180f8fd47c6b8e88c4d959059af7ddd5d8a656/original.jpg
+    sha256: 5d6f23755a7d1bcc2913208159180f8fd47c6b8e88c4d959059af7ddd5d8a656
+    mime: image/jpeg
+    bytes: 7889428
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/5d/6f/5d6f23755a7d1bcc2913208159180f8fd47c6b8e88c4d959059af7ddd5d8a656/preview-400.a11e1bfbfb3a.jpg
+        sha256: a11e1bfbfb3a6ea46f402a212c25f88c0bf4040e6380e42fbe29a593d7a50355
+        mime: image/jpeg
+        bytes: 73085
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

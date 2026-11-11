@@ -1,0 +1,43 @@
+id: 01J3AZ45QY5XZA3BBWQMKBMZMA
+type: image
+subtype: photo
+title: Feuerwehrhaus in Lanz
+description: Abzug im Format 10 x 15 cm.
+date: 1932-12-22
+location: Bömenzien, Dorfladen
+origin:
+  name: Wilhelm Kuhlmann
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 7/004
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v49529
+subjects:
+  - name: Restorf
+    type: place
+parents:
+  - 01K031Q9A4VAM2ZR0E2Y2SQX6S
+files:
+  - role: main
+    original_name: foto_2065.jpg
+    path: files/23/77/237724763e4666d818941f36fc668124b37f1c4f56033dcdff3356270e3edc73/original.jpg
+    sha256: 237724763e4666d818941f36fc668124b37f1c4f56033dcdff3356270e3edc73
+    mime: image/jpeg
+    bytes: 16479346
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/23/77/237724763e4666d818941f36fc668124b37f1c4f56033dcdff3356270e3edc73/preview-400.ddbeefd14c5a.jpg
+        sha256: ddbeefd14c5ad36364fdf4768f132598b8ced4ded9655ebd5f8a093efa8a4e24
+        mime: image/jpeg
+        bytes: 76188
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

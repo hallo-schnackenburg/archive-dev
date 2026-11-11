@@ -1,0 +1,44 @@
+id: 01HENCP30H6Q9A63Y0VB53740X
+type: document
+subtype: note
+title: Rechnung Lüders, Kaufmannshaus
+date: 1948?
+location: Seedorf, Burgstraße
+geocode:
+  lat: 52.9834
+  lon: 11.5019
+  precision: town
+  source: osm
+origin:
+  name: Gerda Dierks
+  type: person
+  location: Arendsee
+language: de
+subjects:
+  - name: Rudolf Lemke
+    type: person
+  - name: Heinrich Harms
+    type: person
+parents:
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+files:
+  - role: page
+    num: 1
+    original_name: note_53740x_001.tif
+    path: files/3a/ca/3acac1101f9fd44b5f3c114aa6d234c5da056f4f1e045a9ab51ddab956bb5fac/original.tif
+    sha256: 3acac1101f9fd44b5f3c114aa6d234c5da056f4f1e045a9ab51ddab956bb5fac
+    mime: image/tiff
+    bytes: 6631931
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3a/ca/3acac1101f9fd44b5f3c114aa6d234c5da056f4f1e045a9ab51ddab956bb5fac/preview-400.c1b0321654b6.jpg
+        sha256: c1b0321654b65785eba7b41e8e6c1f5c121bac35aa9384bbfecb2fee779f262b
+        mime: image/jpeg
+        bytes: 40621
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

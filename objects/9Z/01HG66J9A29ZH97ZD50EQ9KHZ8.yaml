@@ -1,0 +1,52 @@
+id: 01HG66J9A29ZH97ZD50EQ9KHZ8
+type: image
+subtype: photo
+title: "Posaunenchor: Gruppenbild Grenzöffnung"
+description: Farbfoto, leicht verblasst.
+date: 1902-09-06
+location: Wootz, Deichstraße
+geocode:
+  lat: 52.9071
+  lon: 11.6823
+  precision: region
+  source: osm
+origin:
+  name: Elfriede Klatt
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 30/013
+subjects:
+  - name: Scheune
+    type: building
+  - name: Gustav Wegner
+    type: person
+  - name: Sparkasse
+    type: building
+parents:
+  - 01F1Q5CD51G9ZH21J5XMQ18G3Z
+  - 01J6CWVRW5ZWM3PCSZT7CG4EQA
+files:
+  - role: main
+    original_name: scan_163.tif
+    path: files/99/d7/99d7d2429b7c94b49fd17651a52f3119354bee9e1fc013fa78c72f86c40bfc6d/original.tif
+    sha256: 99d7d2429b7c94b49fd17651a52f3119354bee9e1fc013fa78c72f86c40bfc6d
+    mime: image/tiff
+    bytes: 24190270
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/99/d7/99d7d2429b7c94b49fd17651a52f3119354bee9e1fc013fa78c72f86c40bfc6d/preview-400.6d28f6c8f133.jpg
+        sha256: 6d28f6c8f1331e8a84e0807d6651a3635836d23d808a9b77358fa56ae07e2a0c
+        mime: image/jpeg
+        bytes: 30227
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

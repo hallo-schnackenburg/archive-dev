@@ -1,0 +1,48 @@
+id: 01G8SJR4AZR4M956P4FMS1F1Q6
+type: image
+subtype: drawing
+title: Torhaus, Aquarell
+date: 1892-07-08
+location: Arendsee, Burgstraße
+geocode:
+  lat: 52.9501
+  lon: 11.5605
+  precision: region
+  source: osm
+origin:
+  name: Dieter Behrens
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Planschrank, Fach 3
+subjects:
+  - name: Friedhofskapelle
+    type: building
+  - name: Restorf
+    type: place
+  - name: Maifeier 1892
+    type: event
+files:
+  - role: main
+    original_name: scan_478.tif
+    path: files/74/55/7455246e413626810fc5c182c4ce5d0de27ab04c004650f7910bc7db3d07b38f/original.tif
+    sha256: 7455246e413626810fc5c182c4ce5d0de27ab04c004650f7910bc7db3d07b38f
+    mime: image/tiff
+    bytes: 12963581
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/74/55/7455246e413626810fc5c182c4ce5d0de27ab04c004650f7910bc7db3d07b38f/preview-400.1b7d35c7cab0.jpg
+        sha256: 1b7d35c7cab0df9e85af892c1ef9e4ef5565dafa59ba8cb5fe40827322c693ec
+        mime: image/jpeg
+        bytes: 51934
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

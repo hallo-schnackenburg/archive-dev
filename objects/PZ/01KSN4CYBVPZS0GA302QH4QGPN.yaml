@@ -1,0 +1,32 @@
+id: 01KSN4CYBVPZS0GA302QH4QGPN
+type: image
+subtype: plan
+title: Bauplan Pfarrhaus 1994
+date: "1994"
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Wassermühle
+    type: building
+parents:
+  - 01KJ7GGRBA8CH4FBXH5MTWAXAD
+files:
+  - role: main
+    original_name: scan_683.tif
+    path: files/42/56/4256e87baba09062a4938f7370fa363008d65a8b6e6e596d331339877e57eb43/original.tif
+    sha256: 4256e87baba09062a4938f7370fa363008d65a8b6e6e596d331339877e57eb43
+    mime: image/tiff
+    bytes: 13091965
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/42/56/4256e87baba09062a4938f7370fa363008d65a8b6e6e596d331339877e57eb43/preview-400.b3b56cb87c2a.jpg
+        sha256: b3b56cb87c2a2194364962271e9434db6b738d7c6121be58c2d8cec9a36dea0b
+        mime: image/jpeg
+        bytes: 35003
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

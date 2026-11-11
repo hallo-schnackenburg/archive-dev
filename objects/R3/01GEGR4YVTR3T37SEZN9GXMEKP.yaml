@@ -1,0 +1,59 @@
+id: 01GEGR4YVTR3T37SEZN9GXMEKP
+type: document
+subtype: letter
+title: Feldpostbrief von Hans Lemke
+description: Handschriftlich, 2 Seiten.
+origin:
+  name: Hedwig Matthies
+  type: person
+  location: Havelberg
+recipient: Manfred Rieke
+language: de
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Fährjubiläum 1850
+    type: event
+parents:
+  - 01HJMR4YWKHDFKNS8WPV4XDY2Z
+files:
+  - role: page
+    num: 1
+    original_name: letter_gxmekp_001.tif
+    path: files/49/e4/49e430a46fed38b8022b1bb40fdc8216d0480cd0a7c628842575da98ab4ebdda/original.tif
+    sha256: 49e430a46fed38b8022b1bb40fdc8216d0480cd0a7c628842575da98ab4ebdda
+    mime: image/tiff
+    bytes: 14420150
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/49/e4/49e430a46fed38b8022b1bb40fdc8216d0480cd0a7c628842575da98ab4ebdda/preview-400.14649f133aef.jpg
+        sha256: 14649f133aefb6d8539290616ef196a04b2eb8e3804a266898cd08c505712912
+        mime: image/jpeg
+        bytes: 44065
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_gxmekp_002.tif
+    path: files/6b/0c/6b0c1b8e8ff4640bec8ecc31b0760c91f0c256c7fc56303d8b1ee3824b8fa1f4/original.tif
+    sha256: 6b0c1b8e8ff4640bec8ecc31b0760c91f0c256c7fc56303d8b1ee3824b8fa1f4
+    mime: image/tiff
+    bytes: 623898
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6b/0c/6b0c1b8e8ff4640bec8ecc31b0760c91f0c256c7fc56303d8b1ee3824b8fa1f4/preview-400.26270af51d30.jpg
+        sha256: 26270af51d306aa8e973a65270c7a89cafdded10a6c351f0c07ed979afe3cb58
+        mime: image/jpeg
+        bytes: 66416
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

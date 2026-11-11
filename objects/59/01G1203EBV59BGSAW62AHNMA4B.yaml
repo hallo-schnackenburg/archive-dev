@@ -1,0 +1,63 @@
+id: 01G1203EBV59BGSAW62AHNMA4B
+type: document
+subtype: note
+title: Rechnung Brandt, Kaufmannshaus
+description: Beleg mit Stempel.
+date: "1935"
+location: Kapern, Gasthof Meyer
+origin:
+  name: Friedrich Cohrs
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F/Album 5/010
+subjects:
+  - name: Rathaus
+    type: building
+parents:
+  - 01JGKVZV6PYRTQW3JF5XVEVJGR
+files:
+  - role: page
+    num: 1
+    original_name: note_hnma4b_001.tif
+    path: files/3a/ca/3acacf10ea82db1b505381d15216599e80e2ebb13ad9072a58553c41ea27e341/original.tif
+    sha256: 3acacf10ea82db1b505381d15216599e80e2ebb13ad9072a58553c41ea27e341
+    mime: image/tiff
+    bytes: 24511844
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3a/ca/3acacf10ea82db1b505381d15216599e80e2ebb13ad9072a58553c41ea27e341/preview-400.700e5bed5504.jpg
+        sha256: 700e5bed5504384e5dc6a5571c95a0127c63adbed6e59e543b35e9ba00d4ac63
+        mime: image/jpeg
+        bytes: 80586
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_hnma4b_002.tif
+    path: files/3f/26/3f2627402816d056e1466129bbcb10f09599125b20cc124e24148907342226e7/original.tif
+    sha256: 3f2627402816d056e1466129bbcb10f09599125b20cc124e24148907342226e7
+    mime: image/tiff
+    bytes: 2049124
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3f/26/3f2627402816d056e1466129bbcb10f09599125b20cc124e24148907342226e7/preview-400.96940186a61e.jpg
+        sha256: 96940186a61e264aba3185fa172be74d12400243b80525a097f25bccea361000
+        mime: image/jpeg
+        bytes: 29369
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

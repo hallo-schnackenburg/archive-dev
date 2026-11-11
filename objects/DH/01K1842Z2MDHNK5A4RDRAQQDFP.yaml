@@ -1,0 +1,51 @@
+id: 01K1842Z2MDHNK5A4RDRAQQDFP
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Straßenfest, Lanz"
+description: Bleistift auf Papier.
+date: 1979-04-07
+location: Hitzacker, Hafenstraße
+geocode:
+  lat: 53.0296
+  lon: 11.4816
+  precision: region
+  source: osm
+origin:
+  name: Werner Bohlmann
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 2/094
+subjects:
+  - name: Brunnen am Markt
+    type: building
+  - name: Storchennest
+    type: building
+  - name: Hans Lemke
+    type: person
+parents:
+  - 01G9E0HEW5JYMGZH6NFA75XCR4
+files:
+  - role: main
+    original_name: scan_763.tif
+    path: files/40/27/4027265b55f67f65b98486c6fd33365282445663f5c0e6030368c827b943d3ff/original.tif
+    sha256: 4027265b55f67f65b98486c6fd33365282445663f5c0e6030368c827b943d3ff
+    mime: image/tiff
+    bytes: 18888600
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/40/27/4027265b55f67f65b98486c6fd33365282445663f5c0e6030368c827b943d3ff/preview-400.a3b196942a7e.jpg
+        sha256: a3b196942a7e761bc75e3f160a5bbad3a23bfc838dd6e45111d44b978062cab5
+        mime: image/jpeg
+        bytes: 67023
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01H4ZXG067S45WGY7H9N9V4XJF
+type: image
+subtype: photo
+title: Gerda Ahrens vor dem Zollamt
+description: Zu sehen sind Gasthof Meyer und Feuerwehrhaus.
+date: "1926"
+origin:
+  name: Paul Voss
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+files:
+  - role: main
+    original_name: scan_162.tif
+    path: files/71/74/7174fb7f8c4cb70d89223b98ce639a8bbe950d85db42b1ed6640a08627464d80/original.tif
+    sha256: 7174fb7f8c4cb70d89223b98ce639a8bbe950d85db42b1ed6640a08627464d80
+    mime: image/tiff
+    bytes: 19289491
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/71/74/7174fb7f8c4cb70d89223b98ce639a8bbe950d85db42b1ed6640a08627464d80/preview-400.e0f5cd1c8ca4.jpg
+        sha256: e0f5cd1c8ca48e234d519ecf5529b6640141ec0b587c33f301bd82bdecb3f873
+        mime: image/jpeg
+        bytes: 69274
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

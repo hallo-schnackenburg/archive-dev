@@ -1,0 +1,58 @@
+id: 01FYD6A0CY1FJFVZJW0WC0HYGN
+type: document
+subtype: letter
+title: Zeugnis für Walter Wöhlk
+description: Handschriftlich, 3 Seiten.
+date: 1847-07-24
+origin:
+  name: Ernst Meyer
+  type: person
+  location: Gorleben
+recipient: Heinrich Kuhlmann
+language: de
+subjects:
+  - name: Gutshaus
+    type: building
+  - name: Richtfest 1847
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_c0hygn_001.tif
+    path: files/1d/af/1daf348e41be86f2d5c7f45b1ffd5438907a117c15bbf87b92847d0664235da1/original.tif
+    sha256: 1daf348e41be86f2d5c7f45b1ffd5438907a117c15bbf87b92847d0664235da1
+    mime: image/tiff
+    bytes: 19216628
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/af/1daf348e41be86f2d5c7f45b1ffd5438907a117c15bbf87b92847d0664235da1/preview-400.39112bcadcd3.jpg
+        sha256: 39112bcadcd391c2e3e3cea7da0831a2a314112556c68ba0e27e742df3a8f706
+        mime: image/jpeg
+        bytes: 38486
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_c0hygn_002.tif
+    path: files/b8/4d/b84d1c859287aae9957015675e513c100e7210caad35eeb2a7fee6c0a6946952/original.tif
+    sha256: b84d1c859287aae9957015675e513c100e7210caad35eeb2a7fee6c0a6946952
+    mime: image/tiff
+    bytes: 13558894
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b8/4d/b84d1c859287aae9957015675e513c100e7210caad35eeb2a7fee6c0a6946952/preview-400.d27cb5ec4bd6.jpg
+        sha256: d27cb5ec4bd60752abf1ad8a8e6ce73071de1bc627582b0b5c2936279184aeba
+        mime: image/jpeg
+        bytes: 56278
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01HJEYHT40R5YF1DZB0QQ0Y704
+type: image
+subtype: plan
+title: Bauplan Storchennest 1881
+date: 1881~
+location: Kapern, Schlachterei
+geocode:
+  lat: 52.9585
+  lon: 11.5218
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Jürgens
+  type: person
+  location: Gorleben
+parents:
+  - 01H9CNJDBS1SSSX64VPG1WAVEE
+files:
+  - role: main
+    original_name: scan_173.tif
+    path: files/ad/15/ad15477fe19c62f4f9987dd33d2b9f74582ddee9e83a435deda43e87555b5f46/original.tif
+    sha256: ad15477fe19c62f4f9987dd33d2b9f74582ddee9e83a435deda43e87555b5f46
+    mime: image/tiff
+    bytes: 17677213
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ad/15/ad15477fe19c62f4f9987dd33d2b9f74582ddee9e83a435deda43e87555b5f46/preview-400.172d75744d07.jpg
+        sha256: 172d75744d071af798e2637e4cb4c9cd1bd96b66a6257cb7cab4c35919548186
+        mime: image/jpeg
+        bytes: 21038
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

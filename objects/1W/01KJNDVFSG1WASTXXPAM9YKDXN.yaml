@@ -1,0 +1,40 @@
+id: 01KJNDVFSG1WASTXXPAM9YKDXN
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Havelberg
+date: "1799"
+location: Nienwalde, Schulstraße
+origin:
+  name: Hermann Schulz
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 33/020
+subjects:
+  - name: Lüchow
+    type: place
+files:
+  - role: main
+    original_name: scan_885.tif
+    path: files/81/98/81985708cf43fb195c2ab86633ecb781cbfb51ce4c1e7fc8b1c76c6669ad99da/original.tif
+    sha256: 81985708cf43fb195c2ab86633ecb781cbfb51ce4c1e7fc8b1c76c6669ad99da
+    mime: image/tiff
+    bytes: 22582228
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/81/98/81985708cf43fb195c2ab86633ecb781cbfb51ce4c1e7fc8b1c76c6669ad99da/preview-400.cf3880ddcc05.jpg
+        sha256: cf3880ddcc05589c7f0a4a5258a62a2fe4fb9da164a13dec7bfcef0389ee5cd2
+        mime: image/jpeg
+        bytes: 22788
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Doppelt vorhanden?

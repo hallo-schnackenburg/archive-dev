@@ -1,0 +1,40 @@
+id: 01J8Z4A5T69QK4G3FCRME2RVS0
+type: image
+subtype: print
+title: Gruß aus Bömenzien
+date: 1707-06
+location: Gartow, Am Markt
+origin:
+  name: Gerda Schwarz
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 18/313
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v73386
+parents:
+  - 01JTAHZQ2H6N377TQAEA3P4341
+  - 01HX63HPJQWPA2R8TSS7RY7SQZ
+files:
+  - role: main
+    original_name: scan_988.tif
+    path: files/96/b0/96b04a34a18ffde20d2ebd9d7b56a74642061a3b3814078762f480eed5857746/original.tif
+    sha256: 96b04a34a18ffde20d2ebd9d7b56a74642061a3b3814078762f480eed5857746
+    mime: image/tiff
+    bytes: 17309314
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/96/b0/96b04a34a18ffde20d2ebd9d7b56a74642061a3b3814078762f480eed5857746/preview-400.744ef89fd574.jpg
+        sha256: 744ef89fd574e9f7fcf18ff5f7e78f6689f401f8689e51d56eed24d24bbbbb43
+        mime: image/jpeg
+        bytes: 59379
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

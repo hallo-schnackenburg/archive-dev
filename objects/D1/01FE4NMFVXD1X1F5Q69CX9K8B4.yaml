@@ -1,0 +1,38 @@
+id: 01FE4NMFVXD1X1F5Q69CX9K8B4
+type: image
+subtype: photo
+title: Lotte Voss, Porträt
+description: Aufnahme von Uwe Krüger.
+date: 1959/1963
+location: Dömitz, Brunnen am Markt
+origin:
+  name: Käthe Lüders
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Ernst Krüger
+    type: person
+  - name: Nienwalde
+    type: place
+files:
+  - role: main
+    original_name: scan_675.tif
+    path: files/47/8a/478a42a57ddb8d2576571c89edd8cdbf889b116be3d07a17ff874e14be3c2cd7/original.tif
+    sha256: 478a42a57ddb8d2576571c89edd8cdbf889b116be3d07a17ff874e14be3c2cd7
+    mime: image/tiff
+    bytes: 7985211
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/47/8a/478a42a57ddb8d2576571c89edd8cdbf889b116be3d07a17ff874e14be3c2cd7/preview-400.3bf903de34b5.jpg
+        sha256: 3bf903de34b5502eed27559e83b6152f3228742d44c874cb025a0ad572e31575
+        mime: image/jpeg
+        bytes: 50592
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

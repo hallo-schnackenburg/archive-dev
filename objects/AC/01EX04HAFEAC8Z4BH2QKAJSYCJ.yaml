@@ -1,0 +1,61 @@
+id: 01EX04HAFEAC8Z4BH2QKAJSYCJ
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Müllabfuhr 1857
+location: Salzwedel, Windmühle
+origin:
+  name: Finanzausschuss Havelberg
+  type: business
+  location: Havelberg
+language: de
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 29/073
+  note: Dachboden, Truhe
+parents:
+  - 01FZ34PCDWH41HVN2Q034693E1
+files:
+  - role: page
+    num: 1
+    original_name: protocol_ajsycj_001.tif
+    path: files/72/59/72591ec306fb4552750608d269505dc344ecb86d64ac6e82a12e975511855958/original.tif
+    sha256: 72591ec306fb4552750608d269505dc344ecb86d64ac6e82a12e975511855958
+    mime: image/tiff
+    bytes: 6531506
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/72/59/72591ec306fb4552750608d269505dc344ecb86d64ac6e82a12e975511855958/preview-400.9b0ded210ddd.jpg
+        sha256: 9b0ded210dddb5de2770f7c103c86ae28474e6bc1d599395e9f0e07bf748c57e
+        mime: image/jpeg
+        bytes: 63564
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_ajsycj_002.tif
+    path: files/2e/6f/2e6fe66f01e41b64257a0a3e83910f4b84cc537039d4a978d369054ce5767969/original.tif
+    sha256: 2e6fe66f01e41b64257a0a3e83910f4b84cc537039d4a978d369054ce5767969
+    mime: image/tiff
+    bytes: 14113189
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/6f/2e6fe66f01e41b64257a0a3e83910f4b84cc537039d4a978d369054ce5767969/preview-400.dc528ee55dc2.jpg
+        sha256: dc528ee55dc2f783779e66a997da8fff779b0b02c8bad605bcea1bea762cd1f3
+        mime: image/jpeg
+        bytes: 72254
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

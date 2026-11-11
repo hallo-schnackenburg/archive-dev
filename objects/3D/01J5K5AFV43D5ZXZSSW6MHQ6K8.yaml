@@ -1,0 +1,40 @@
+id: 01J5K5AFV43D5ZXZSSW6MHQ6K8
+type: image
+subtype: photo
+title: Karl Behrens vor dem Schmiede
+description: Zu sehen sind Torhaus und Apotheke.
+date: 1895/1899
+location: Lanz, Burgstraße
+origin:
+  name: Ilse Lemke
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Brückeneinweihung 1895
+    type: event
+  - name: Heinrich Bohlmann
+    type: person
+parents:
+  - 01JDMR23P0ST4P21YFR11Z2B2R
+files:
+  - role: main
+    original_name: scan_159.tif
+    path: files/9f/6a/9f6ad712a7fa78e7e9c0372739570156f70cfb91ff9b709a7411e1e196d68cbb/original.tif
+    sha256: 9f6ad712a7fa78e7e9c0372739570156f70cfb91ff9b709a7411e1e196d68cbb
+    mime: image/tiff
+    bytes: 25795021
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9f/6a/9f6ad712a7fa78e7e9c0372739570156f70cfb91ff9b709a7411e1e196d68cbb/preview-400.d31100ac1e06.jpg
+        sha256: d31100ac1e06889ab235a6c88da1aeb39b03e957d339a669594a9ab2e0670980
+        mime: image/jpeg
+        bytes: 54584
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

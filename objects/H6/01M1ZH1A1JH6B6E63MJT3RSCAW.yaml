@@ -1,0 +1,54 @@
+id: 01M1ZH1A1JH6B6E63MJT3RSCAW
+type: document
+subtype: letter
+title: Korrespondenz Anni Dreyer
+date: 1900?
+location: Brünkendorf, Gartenstraße
+geocode:
+  lat: 52.9645
+  lon: 11.5988
+  precision: region
+  source: osm
+origin:
+  name: Gerda Krüger
+  type: person
+  location: Zadrau
+recipient: Irmgard Albers
+language: en
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos 40/141
+subjects:
+  - name: Fastnacht 1900
+    type: event
+  - name: Schlachtfest 1900
+    type: event
+  - name: Lenzen
+    type: place
+parents:
+  - 01J61X90CH264SW24N35G33X0N
+  - 01J5VEM4DET47BYJHEPTWJ7T8Q
+files:
+  - role: page
+    num: 1
+    original_name: letter_3rscaw_001.tif
+    path: files/9d/7d/9d7d405c095c5be25a5ee86985e7cda2c2b2b94b0dbb93929148dd38e5109243/original.tif
+    sha256: 9d7d405c095c5be25a5ee86985e7cda2c2b2b94b0dbb93929148dd38e5109243
+    mime: image/tiff
+    bytes: 1704269
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9d/7d/9d7d405c095c5be25a5ee86985e7cda2c2b2b94b0dbb93929148dd38e5109243/preview-400.936ac911d3c9.jpg
+        sha256: 936ac911d3c94d6c8cb958d62049e0f6f4107f005dc4397cbd3705936013c54b
+        mime: image/jpeg
+        bytes: 47090
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

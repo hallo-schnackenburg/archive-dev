@@ -1,0 +1,31 @@
+id: 01KVH1N7Q5ZK7H6PA7XJBZPD0G
+type: image
+subtype: print
+title: "Kupferstich: Restorf von der Elbseite, Gartow"
+description: Kupferstich, koloriert.
+subjects:
+  - name: Poststelle
+    type: building
+parents:
+  - 01HVDJ86ZY2C149TJV9EQNA8ZX
+  - 01J9G2YFZQRW9H8YS0MWA1XHM0
+files:
+  - role: main
+    original_name: scan_049.tif
+    path: files/e3/0f/e30f42aaa7616eeba9021d325a06e2116087df7c5edd08c588e5e3f13396a3d8/original.tif
+    sha256: e30f42aaa7616eeba9021d325a06e2116087df7c5edd08c588e5e3f13396a3d8
+    mime: image/tiff
+    bytes: 18426977
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e3/0f/e30f42aaa7616eeba9021d325a06e2116087df7c5edd08c588e5e3f13396a3d8/preview-400.4fdb5d6468cf.jpg
+        sha256: 4fdb5d6468cfd8c30396a3cae133863c286462bbefafa40d2948a3cd98aa995f
+        mime: image/jpeg
+        bytes: 35156
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

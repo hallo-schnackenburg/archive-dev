@@ -1,0 +1,44 @@
+id: 01HKW0KNQRW794NMHAP79Y6JEE
+type: image
+subtype: print
+title: Postkarte Restorf, Schützenhaus
+description: Lithographie, Rand beschnitten.
+date: 1901?
+location: Cumlosen, Apotheke
+original:
+  holder:
+    name: Familie Wiegmann
+    type: person
+    location: Schnackenburg
+  reference: Slg 20/035
+  note: Kellerarchiv
+subjects:
+  - name: Karl Hennings
+    type: person
+  - name: Pretzier
+    type: place
+  - name: Anni Meyer
+    type: person
+parents:
+  - 01J3DPEJ61GZW2DYZ6RC50SJBG
+  - 01J0HACSSNAGX3A6WBE45H61AH
+files:
+  - role: main
+    original_name: scan_777.tif
+    path: files/b3/4c/b34c711d24967c556b9bb0f29c533ceac2478ed308f8ac7d32e3779e6517ae76/original.tif
+    sha256: b34c711d24967c556b9bb0f29c533ceac2478ed308f8ac7d32e3779e6517ae76
+    mime: image/tiff
+    bytes: 7689209
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b3/4c/b34c711d24967c556b9bb0f29c533ceac2478ed308f8ac7d32e3779e6517ae76/preview-400.e1ac96b0701e.jpg
+        sha256: e1ac96b0701ec1b0429363a17a2064c0741e5f0ab1de3b54eb298cd76d56e0c8
+        mime: image/jpeg
+        bytes: 46034
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

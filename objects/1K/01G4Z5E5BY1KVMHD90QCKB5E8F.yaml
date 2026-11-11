@@ -1,0 +1,43 @@
+id: 01G4Z5E5BY1KVMHD90QCKB5E8F
+type: image
+subtype: drawing
+title: Wappenentwurf Wootz, Lanz
+description: Mit Anmerkungen am Rand.
+date: "1923"
+location: Bömenzien, Schmiede
+geocode:
+  lat: 53.0174
+  lon: 11.4804
+  precision: region
+  source: osm
+origin:
+  name: Karl Krüger
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Restorf
+    type: place
+parents:
+  - 01J2MAW622CTKQ3RF50GE3CC82
+files:
+  - role: main
+    original_name: scan_835.tif
+    path: files/56/b4/56b471e9a95deaea38d8a627736096f6a45f29aa39c95a5d206d848ae41002e5/original.tif
+    sha256: 56b471e9a95deaea38d8a627736096f6a45f29aa39c95a5d206d848ae41002e5
+    mime: image/tiff
+    bytes: 6223613
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/56/b4/56b471e9a95deaea38d8a627736096f6a45f29aa39c95a5d206d848ae41002e5/preview-400.128d0a43b483.jpg
+        sha256: 128d0a43b4837cf666bff339a79311f56b00289c5d2dc9dd8017fb48ee59a0da
+        mime: image/jpeg
+        bytes: 20357
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

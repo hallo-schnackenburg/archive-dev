@@ -1,0 +1,42 @@
+id: 01F7BP5SYB8PCWG529Q92051SB
+type: image
+subtype: plan
+title: Grundriss Dorfteich, Lenzen
+description: Mit handschriftlichen Ergänzungen.
+date: 1759-04-03
+location: Lüchow, Am Markt
+origin:
+  name: Fritz Meyer
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg 25/326
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v53902
+owner:
+  name: Rudolf Tiedemann
+  type: person
+  note: Dauerleihgabe
+files:
+  - role: main
+    original_name: scan_443.tif
+    path: files/da/bf/dabf8996ee7abb5cb27fed606a324bc74312e00dba1a2e3e2737435a24b170c3/original.tif
+    sha256: dabf8996ee7abb5cb27fed606a324bc74312e00dba1a2e3e2737435a24b170c3
+    mime: image/tiff
+    bytes: 25468917
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/bf/dabf8996ee7abb5cb27fed606a324bc74312e00dba1a2e3e2737435a24b170c3/preview-400.3de5fff9148a.jpg
+        sha256: 3de5fff9148a7d7d65544b41b2fae1b483d67190e1ff5cfd804249439560742c
+        mime: image/jpeg
+        bytes: 54463
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

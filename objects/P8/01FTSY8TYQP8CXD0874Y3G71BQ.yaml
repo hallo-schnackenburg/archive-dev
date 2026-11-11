@@ -1,0 +1,64 @@
+id: 01FTSY8TYQP8CXD0874Y3G71BQ
+type: document
+subtype: letter
+title: Mitteilung aus Schnackenburg an Familie Harms
+date: "1945"
+location: Lanz, Hinter den Höfen
+geocode:
+  lat: 52.9907
+  lon: 11.5569
+  precision: town
+  source: osm
+origin:
+  name: Ernst Wiegmann
+  type: person
+  location: Holtorf
+language: de
+subjects:
+  - name: Karl Voss
+    type: person
+  - name: Ziegelei
+    type: building
+parents:
+  - 01FE51YC393SEJ3F0E3BYAZ1NB
+files:
+  - role: page
+    num: 1
+    original_name: letter_3g71bq_001.tif
+    path: files/96/6b/966b139ec3ecf660883f415296b503d2ddec542223f078db6aa75becd9535d61/original.tif
+    sha256: 966b139ec3ecf660883f415296b503d2ddec542223f078db6aa75becd9535d61
+    mime: image/tiff
+    bytes: 3744164
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/96/6b/966b139ec3ecf660883f415296b503d2ddec542223f078db6aa75becd9535d61/preview-400.590b26eed90c.jpg
+        sha256: 590b26eed90c1ebef09a0ec590ef7e22599790ada56b4489ee57fa213cb5a332
+        mime: image/jpeg
+        bytes: 23113
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_3g71bq_002.tif
+    path: files/7b/7c/7b7c5bda2b14b46fda3edd8af0895afcf04bf15a0a4b886eb5c6a3ddbdd854c3/original.tif
+    sha256: 7b7c5bda2b14b46fda3edd8af0895afcf04bf15a0a4b886eb5c6a3ddbdd854c3
+    mime: image/tiff
+    bytes: 11935634
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7b/7c/7b7c5bda2b14b46fda3edd8af0895afcf04bf15a0a4b886eb5c6a3ddbdd854c3/preview-400.e1ff79fdcdd8.jpg
+        sha256: e1ff79fdcdd8b8bf58bf3dbe9cf1bd60aa6a58d2e8d9a52c77fdc6c54f73765c
+        mime: image/jpeg
+        bytes: 84755
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

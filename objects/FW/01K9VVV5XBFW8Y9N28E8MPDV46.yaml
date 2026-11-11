@@ -1,0 +1,45 @@
+id: 01K9VVV5XBFW8Y9N28E8MPDV46
+type: image
+subtype: photo
+title: Heuberge nach dem Feuerwehrübung
+date: 1933-10-19
+location: Gartow, Lange Straße
+geocode:
+  lat: 52.9752
+  lon: 11.589
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Pape
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Familie Harms
+    type: person
+    location: Holtorf
+subjects:
+  - name: Einschulung 1933
+    type: event
+  - name: Schnackenburg
+    type: place
+files:
+  - role: main
+    original_name: P7749.jpg
+    path: files/35/4f/354fc8f1523627e80413d47cdf925ab1cd3eafc63cb07ac08fdaa55be98a61bc/original.jpg
+    sha256: 354fc8f1523627e80413d47cdf925ab1cd3eafc63cb07ac08fdaa55be98a61bc
+    mime: image/jpeg
+    bytes: 16145064
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/35/4f/354fc8f1523627e80413d47cdf925ab1cd3eafc63cb07ac08fdaa55be98a61bc/preview-400.ba906494cac9.jpg
+        sha256: ba906494cac99d60f18a9981250d3c03d08e457be17b3dbbfd65eacee1c1217f
+        mime: image/jpeg
+        bytes: 48595
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

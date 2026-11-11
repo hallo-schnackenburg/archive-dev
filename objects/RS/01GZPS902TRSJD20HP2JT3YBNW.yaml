@@ -1,0 +1,43 @@
+id: 01GZPS902TRSJD20HP2JT3YBNW
+type: image
+subtype: print
+title: "Holzschnitt: Beerdigung"
+description: Kupferstich, koloriert.
+date: 1741-02-22
+location: Lüchow, Tischlerei Bruns
+original:
+  holder:
+    name: Familie Gerdes
+    type: person
+    location: Havelberg
+  reference: Slg/Album 12/045
+  note: Bücherregal links
+subjects:
+  - name: Hochwasser 1741
+    type: event
+  - name: Dömitz
+    type: place
+  - name: Lotte Lemke
+    type: person
+parents:
+  - 01GGW9C3690VQN7H7FZF3TFT19
+files:
+  - role: main
+    original_name: scan_120.tif
+    path: files/4a/da/4adacae5a2da7016c46c2b6f47d70afb099b1340a7bc2aaa8b18372ba8ce427a/original.tif
+    sha256: 4adacae5a2da7016c46c2b6f47d70afb099b1340a7bc2aaa8b18372ba8ce427a
+    mime: image/tiff
+    bytes: 14489265
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/4a/da/4adacae5a2da7016c46c2b6f47d70afb099b1340a7bc2aaa8b18372ba8ce427a/preview-400.9051429c0400.jpg
+        sha256: 9051429c0400a6e4cabd6ea84152a4842295c762ba804ecdc3e9afe5f9fcba2d
+        mime: image/jpeg
+        bytes: 57696
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

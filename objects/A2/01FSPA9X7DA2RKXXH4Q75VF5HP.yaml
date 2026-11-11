@@ -1,0 +1,48 @@
+id: 01FSPA9X7DA2RKXXH4Q75VF5HP
+type: image
+subtype: plan
+title: Bauplan Badestelle 1897
+description: Maßstab 1:1000.
+date: 1897~
+location: Gülden, Gutshaus
+geocode:
+  lat: 52.9097
+  lon: 11.5428
+  precision: street
+  source: osm
+origin:
+  name: Erika Prieß
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Kirmes 1897
+    type: event
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+parents:
+  - 01EY1NE802VNKMTZ9APK9WPWYD
+files:
+  - role: main
+    original_name: scan_220.tif
+    path: files/9f/82/9f82d6934cbda919e464649f11c7e8c434d82c0d0a491a5447d3ace32b0e892b/original.tif
+    sha256: 9f82d6934cbda919e464649f11c7e8c434d82c0d0a491a5447d3ace32b0e892b
+    mime: image/tiff
+    bytes: 27680826
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9f/82/9f82d6934cbda919e464649f11c7e8c434d82c0d0a491a5447d3ace32b0e892b/preview-400.f4963af88a1a.jpg
+        sha256: f4963af88a1ac49f9c3c2cd507902940b2e755e5796e8e5ef97963ff9a10ab1f
+        mime: image/jpeg
+        bytes: 65997
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

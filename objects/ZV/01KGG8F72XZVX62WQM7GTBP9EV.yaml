@@ -1,0 +1,34 @@
+id: 01KGG8F72XZVX62WQM7GTBP9EV
+type: image
+subtype: plan
+title: Deichplan Arendsee bis Brünkendorf
+description: Mit handschriftlichen Ergänzungen.
+location: Cumlosen, Backhaus
+geocode:
+  lat: 52.999
+  lon: 11.5643
+  precision: street
+  source: osm
+subjects:
+  - name: Wassermühle
+    type: building
+files:
+  - role: main
+    original_name: scan_369.tif
+    path: files/35/a6/35a66e0b007266aaf5b05886cce24f66374c68483c7e363089e13e0597e03a05/original.tif
+    sha256: 35a66e0b007266aaf5b05886cce24f66374c68483c7e363089e13e0597e03a05
+    mime: image/tiff
+    bytes: 1724549
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/35/a6/35a66e0b007266aaf5b05886cce24f66374c68483c7e363089e13e0597e03a05/preview-400.aca5fe08c893.jpg
+        sha256: aca5fe08c8932c6afa0bc2f87002f5d5c8486ace30bd15d23696bf72ee043a47
+        mime: image/jpeg
+        bytes: 22025
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

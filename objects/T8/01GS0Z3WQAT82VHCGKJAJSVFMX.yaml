@@ -1,0 +1,63 @@
+id: 01GS0Z3WQAT82VHCGKJAJSVFMX
+type: document
+subtype: note
+title: Quittung für Hermann Plate
+description: Beleg mit Stempel.
+date: 1888/1889
+location: Brünkendorf, Am Elbdeich
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F 13/312
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v46487
+subjects:
+  - name: Dorffest 1888
+    type: event
+  - name: Speicher
+    type: building
+parents:
+  - 01J2MAW622CTKQ3RF50GE3CC82
+files:
+  - role: page
+    num: 1
+    original_name: note_jsvfmx_001.tif
+    path: files/fe/51/fe51c69c979b9d08be4eef697d2cbdb20e8e009e8f0b2321212f746c17849e3b/original.tif
+    sha256: fe51c69c979b9d08be4eef697d2cbdb20e8e009e8f0b2321212f746c17849e3b
+    mime: image/tiff
+    bytes: 345699
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fe/51/fe51c69c979b9d08be4eef697d2cbdb20e8e009e8f0b2321212f746c17849e3b/preview-400.05798d31abe5.jpg
+        sha256: 05798d31abe59af0c976b5b00e93cf168bcf2efd364f1c545d007876258d2a39
+        mime: image/jpeg
+        bytes: 46699
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_jsvfmx_002.tif
+    path: files/7e/0d/7e0dbf15b985dbc34bb3a61f745bae8561d946a0012c9e05a7a74da6312b04d3/original.tif
+    sha256: 7e0dbf15b985dbc34bb3a61f745bae8561d946a0012c9e05a7a74da6312b04d3
+    mime: image/tiff
+    bytes: 5441572
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7e/0d/7e0dbf15b985dbc34bb3a61f745bae8561d946a0012c9e05a7a74da6312b04d3/preview-400.9bbdb1d6f224.jpg
+        sha256: 9bbdb1d6f224c525b2eb5b2246f38eb4a2ace213378f6cda6949262ccac855fd
+        mime: image/jpeg
+        bytes: 37909
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01G5A1FNEZ57DS6XVF9P1F1HH3
+type: image
+subtype: plan
+title: Deichplan Hitzacker bis Wittenberge
+description: Tusche auf Transparentpapier.
+location: Kapern, Hafenstraße
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Berta Neumann
+    type: person
+  - name: Ernst Lüders
+    type: person
+  - name: Osterfeuer 1810
+    type: event
+parents:
+  - 01K7N09VTY5J80D3G50Q63P74F
+files:
+  - role: main
+    original_name: scan_612.tif
+    path: files/78/e7/78e7a6e003cbbb5ebef32ce1a9706be949f190eff12d471b23dfbe0f4f10eaea/original.tif
+    sha256: 78e7a6e003cbbb5ebef32ce1a9706be949f190eff12d471b23dfbe0f4f10eaea
+    mime: image/tiff
+    bytes: 22135533
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/78/e7/78e7a6e003cbbb5ebef32ce1a9706be949f190eff12d471b23dfbe0f4f10eaea/preview-400.7b584c2b7ea2.jpg
+        sha256: 7b584c2b7ea2bb44ce6fcce6a115f0a04b341e97c8bd53886e96847a131852ef
+        mime: image/jpeg
+        bytes: 64325
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

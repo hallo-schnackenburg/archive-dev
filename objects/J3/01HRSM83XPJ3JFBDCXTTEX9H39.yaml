@@ -1,0 +1,44 @@
+id: 01HRSM83XPJ3JFBDCXTTEX9H39
+type: image
+subtype: photo
+title: Viehmarkt 1920
+description: Zu sehen sind Elbdeich und Backhaus.
+date: "1920"
+location: Gorleben, Kirchstraße
+origin:
+  name: Gustav Hennings
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 8/347
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Hochwasser 1920
+    type: event
+  - name: Erika Wulf
+    type: person
+files:
+  - role: main
+    original_name: foto_3068.jpg
+    path: files/03/e3/03e3d0526ed2aeab374cd8a285069498bb5d565b207905d9975664b03603b7dc/original.jpg
+    sha256: 03e3d0526ed2aeab374cd8a285069498bb5d565b207905d9975664b03603b7dc
+    mime: image/jpeg
+    bytes: 19684077
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/03/e3/03e3d0526ed2aeab374cd8a285069498bb5d565b207905d9975664b03603b7dc/preview-400.8266de1b16b7.jpg
+        sha256: 8266de1b16b7acd70ef9c7a3b7ca9f28a0c930beab017c8d383fed80197fb1f7
+        mime: image/jpeg
+        bytes: 75437
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

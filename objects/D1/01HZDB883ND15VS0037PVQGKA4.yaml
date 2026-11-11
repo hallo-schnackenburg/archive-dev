@@ -1,0 +1,36 @@
+id: 01HZDB883ND15VS0037PVQGKA4
+type: image
+subtype: print
+title: Lithographie Zollamt
+description: Lithographie, Rand beschnitten.
+date: 1781-09-09
+location: Brünkendorf, Fährstraße
+subjects:
+  - name: Käthe Harms
+    type: person
+  - name: Ladestraße
+    type: building
+  - name: Gerda Schulz
+    type: person
+parents:
+  - 01JE4HPA561FRN4MNN59BD0BZE
+files:
+  - role: main
+    original_name: scan_454.tif
+    path: files/6f/99/6f99a983d1e044a50b2f82266f8b2252152e32941df7b0218ba49c98da984fbc/original.tif
+    sha256: 6f99a983d1e044a50b2f82266f8b2252152e32941df7b0218ba49c98da984fbc
+    mime: image/tiff
+    bytes: 23263040
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/6f/99/6f99a983d1e044a50b2f82266f8b2252152e32941df7b0218ba49c98da984fbc/preview-400.d6e8816ba4b8.jpg
+        sha256: d6e8816ba4b838f61e6654fd0b17e78c330ecdcac878ec6f5256ed43dd7dfa43
+        mime: image/jpeg
+        bytes: 76104
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01HFCEZCH16Y88JMV3CD992Z0Q
+type: image
+subtype: photo
+title: Familie Kuhlmann beim Ortsbesichtigung
+date: 1930?
+origin:
+  name: Gustav Bohlmann
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Dok/Album 18/107
+subjects:
+  - name: Beerdigung 1930
+    type: event
+  - name: Einschulung 1930
+    type: event
+  - name: Sportplatz
+    type: building
+parents:
+  - 01FHXWS77V11495NM60GV2NEPP
+files:
+  - role: main
+    original_name: scan_792.tif
+    path: files/53/b9/53b9fd258f181b647918d921d70de492ba2e2b6be680f8cf2396190f7e29713f/original.tif
+    sha256: 53b9fd258f181b647918d921d70de492ba2e2b6be680f8cf2396190f7e29713f
+    mime: image/tiff
+    bytes: 17324080
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/53/b9/53b9fd258f181b647918d921d70de492ba2e2b6be680f8cf2396190f7e29713f/preview-400.20d78d20f35a.jpg
+        sha256: 20d78d20f35af14747cdcd1f00be9eb5f8621f8f69722a59aa18a2719c54e073
+        mime: image/jpeg
+        bytes: 80658
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

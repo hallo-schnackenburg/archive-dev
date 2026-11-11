@@ -1,0 +1,39 @@
+id: 01GNFN0PGMT4V9ACBN8HTSD3A4
+type: image
+subtype: plan
+title: Bauplan Torhaus 1831
+description: Tusche auf Transparentpapier.
+location: Arendsee, Pumpenhaus
+origin:
+  name: Anni Voss
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 6/154
+subjects:
+  - name: Sparkasse
+    type: building
+files:
+  - role: main
+    original_name: scan_828.tif
+    path: files/d6/3f/d63fe945c522161986f402b1dcc1128a4a8bcc35086f3bcb73fb333e68e6c661/original.tif
+    sha256: d63fe945c522161986f402b1dcc1128a4a8bcc35086f3bcb73fb333e68e6c661
+    mime: image/tiff
+    bytes: 1397052
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d6/3f/d63fe945c522161986f402b1dcc1128a4a8bcc35086f3bcb73fb333e68e6c661/preview-400.5e68806853d7.jpg
+        sha256: 5e68806853d767f46edd54896a3b4024537c5f07ea767fa48fcafa5337f24228
+        mime: image/jpeg
+        bytes: 47674
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

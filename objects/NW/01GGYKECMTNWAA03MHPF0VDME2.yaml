@@ -1,0 +1,36 @@
+id: 01GGYKECMTNWAA03MHPF0VDME2
+type: image
+subtype: photo
+title: Heinrich Wulf, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+location: Rüterberg, Schmiede
+geocode:
+  lat: 53.0704
+  lon: 11.6723
+  precision: exact
+  source: osm
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Wilhelm Dreyer
+    type: person
+files:
+  - role: main
+    original_name: DSC1224.jpg
+    path: files/c8/ae/c8aebe97e74c2fa79854cee9325957cf18ed2890bfe6fde5bd2c9706a257d12f/original.jpg
+    sha256: c8aebe97e74c2fa79854cee9325957cf18ed2890bfe6fde5bd2c9706a257d12f
+    mime: image/jpeg
+    bytes: 6105825
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/c8/ae/c8aebe97e74c2fa79854cee9325957cf18ed2890bfe6fde5bd2c9706a257d12f/preview-400.6cb69f4b78e2.jpg
+        sha256: 6cb69f4b78e287449f86dc6b740ef0b540a598d2ef5289b106986cbb68957335
+        mime: image/jpeg
+        bytes: 89612
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

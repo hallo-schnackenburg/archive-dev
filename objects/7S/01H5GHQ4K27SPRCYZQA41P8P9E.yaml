@@ -1,0 +1,41 @@
+id: 01H5GHQ4K27SPRCYZQA41P8P9E
+type: image
+subtype: drawing
+title: Federzeichnung Sparkasse, Schnackenburg
+date: 1887~
+location: Arendsee, Wassermühle
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro 5/169
+subjects:
+  - name: Hafen
+    type: building
+  - name: Torhaus
+    type: building
+  - name: Fastnacht 1887
+    type: event
+parents:
+  - 01GRNKDHCV8TZCTNMXGJA4SPF6
+files:
+  - role: main
+    original_name: scan_256.tif
+    path: files/99/1f/991fc484c226c41c44c30d1bdaf19f4756011fee1169725d7b1066fd2fef502c/original.tif
+    sha256: 991fc484c226c41c44c30d1bdaf19f4756011fee1169725d7b1066fd2fef502c
+    mime: image/tiff
+    bytes: 20733826
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/99/1f/991fc484c226c41c44c30d1bdaf19f4756011fee1169725d7b1066fd2fef502c/preview-400.4cf457cfccbc.jpg
+        sha256: 4cf457cfccbc71b94900d903a5aef368f3f7b7558f97a6a074726863f4c4d1e8
+        mime: image/jpeg
+        bytes: 48969
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

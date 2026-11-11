@@ -1,0 +1,44 @@
+id: 01J26RVY6EBN3MF430KF87PNEN
+type: image
+subtype: print
+title: Gruß aus Lüchow, Hitzacker
+description: Kupferstich, koloriert.
+date: 1753?
+location: Pretzier, Windmühle
+origin:
+  name: Irmgard Detlefs
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Kasten 9/120
+subjects:
+  - name: Kindergartenfest 1753
+    type: event
+  - name: Deicharbeiten 1753
+    type: event
+  - name: Havelberg
+    type: place
+files:
+  - role: main
+    original_name: scan_077.tif
+    path: files/fc/49/fc49a46003c808dd6115690a6fc4582e42850517435b50f0841f65fdeb8ab1e8/original.tif
+    sha256: fc49a46003c808dd6115690a6fc4582e42850517435b50f0841f65fdeb8ab1e8
+    mime: image/tiff
+    bytes: 22067529
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/49/fc49a46003c808dd6115690a6fc4582e42850517435b50f0841f65fdeb8ab1e8/preview-400.1f706af5b583.jpg
+        sha256: 1f706af5b583c65e2ede46a8c5a154248df59639072e9c5f8ff7c69b638ca81d
+        mime: image/jpeg
+        bytes: 31490
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

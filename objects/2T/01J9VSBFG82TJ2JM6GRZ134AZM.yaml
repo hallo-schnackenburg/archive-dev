@@ -1,0 +1,36 @@
+id: 01J9VSBFG82TJ2JM6GRZ134AZM
+type: image
+subtype: plan
+title: Bauplan Gasthof Meyer 1812
+location: Havelberg, Sportplatz
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Gülden
+subjects:
+  - name: Richtfest 1812
+    type: event
+  - name: Paul Tiedemann
+    type: person
+parents:
+  - 01G253EGHDFBNP7ZT73WK1Q02J
+files:
+  - role: main
+    original_name: scan_089.tif
+    path: files/12/c4/12c4024b85ae3dd99fa82b7fcbf102e57439eeae992d80215dcdc75d9e80be28/original.tif
+    sha256: 12c4024b85ae3dd99fa82b7fcbf102e57439eeae992d80215dcdc75d9e80be28
+    mime: image/tiff
+    bytes: 19771537
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/12/c4/12c4024b85ae3dd99fa82b7fcbf102e57439eeae992d80215dcdc75d9e80be28/preview-400.5db8bdeb0387.jpg
+        sha256: 5db8bdeb0387044a14585f45cd72829db52ea0e69f584083b384306cdfda6897
+        mime: image/jpeg
+        bytes: 45674
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

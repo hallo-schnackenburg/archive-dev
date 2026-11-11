@@ -1,0 +1,65 @@
+id: 01H7HHS5DFQ19D8FDH0A4GFBEG
+type: document
+subtype: note
+title: Rechnung Plate, Kegelbahn
+description: Beleg mit Stempel.
+date: 1860-11
+location: Lenzen, Hinter den Höfen
+geocode:
+  lat: 52.9472
+  lon: 11.4642
+  precision: exact
+  source: osm
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok 28/217
+subjects:
+  - name: Dorfkrug
+    type: building
+parents:
+  - 01KTZKC2A5R5HHQXVWXFS5SF60
+files:
+  - role: page
+    num: 1
+    original_name: note_4gfbeg_001.tif
+    path: files/89/97/8997d0750fe81a9ca0ba38ad52aeeb2cb88b754407e02322e58c21e365d07025/original.tif
+    sha256: 8997d0750fe81a9ca0ba38ad52aeeb2cb88b754407e02322e58c21e365d07025
+    mime: image/tiff
+    bytes: 10293412
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/89/97/8997d0750fe81a9ca0ba38ad52aeeb2cb88b754407e02322e58c21e365d07025/preview-400.7db93b171146.jpg
+        sha256: 7db93b1711467d7aa4a865d81e8e20a9f9d2eb28b70ffa50c4f3b195990b9a4c
+        mime: image/jpeg
+        bytes: 82799
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_4gfbeg_002.tif
+    path: files/2e/29/2e299107d424e6c968f3fb8ed5941498af668e8b956a346854b66ef3542c60c3/original.tif
+    sha256: 2e299107d424e6c968f3fb8ed5941498af668e8b956a346854b66ef3542c60c3
+    mime: image/tiff
+    bytes: 15116463
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2e/29/2e299107d424e6c968f3fb8ed5941498af668e8b956a346854b66ef3542c60c3/preview-400.5f7a5aed3b6e.jpg
+        sha256: 5f7a5aed3b6e7458bd948e62c3fd20544058fc61f214e6fc774a1c7b1ee30580
+        mime: image/jpeg
+        bytes: 63743
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

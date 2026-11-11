@@ -1,0 +1,87 @@
+id: 01GBCR3NXHYHGJSAAN92PK6AHY
+type: document
+subtype: letter
+title: Mitteilung aus Lenzen an Familie Voss
+date: 1876/1880
+location: Wootz, Bahnhofstraße
+geocode:
+  lat: 53.037
+  lon: 11.4782
+  precision: town
+  source: osm
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Dömitz
+recipient: Heinrich Burmester
+language: de
+subjects:
+  - name: Hochwasser 1876
+    type: event
+  - name: Pfarrhaus
+    type: building
+  - name: Sturmschaden 1876
+    type: event
+parents:
+  - 01KC6VVRX03XHNE2QA3QHP7TYJ
+files:
+  - role: page
+    num: 1
+    original_name: letter_pk6ahy_001.tif
+    path: files/84/79/8479af14b1ffc5abc2a066e17f3768d7c11172409fb4fba3df239ed9503a94e5/original.tif
+    sha256: 8479af14b1ffc5abc2a066e17f3768d7c11172409fb4fba3df239ed9503a94e5
+    mime: image/tiff
+    bytes: 22771421
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/84/79/8479af14b1ffc5abc2a066e17f3768d7c11172409fb4fba3df239ed9503a94e5/preview-400.30c148c45fc9.jpg
+        sha256: 30c148c45fc9418d49de8bb68f36a493b3b52e7ab1edc9b04f2326dda1e62325
+        mime: image/jpeg
+        bytes: 81126
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_pk6ahy_002.tif
+    path: files/db/ea/dbeae18f5babf99a0926376e5fc28b6132714e1646af2045952e872626a199da/original.tif
+    sha256: dbeae18f5babf99a0926376e5fc28b6132714e1646af2045952e872626a199da
+    mime: image/tiff
+    bytes: 27194036
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/db/ea/dbeae18f5babf99a0926376e5fc28b6132714e1646af2045952e872626a199da/preview-400.68fc97bd5feb.jpg
+        sha256: 68fc97bd5feb006214dfeec79780a4e5af15f379a122ceec287714dce3c77ea3
+        mime: image/jpeg
+        bytes: 84643
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_pk6ahy_003.tif
+    path: files/6b/12/6b127009b5e79484499e551fe9749c31545a30a29a22f0d98681831b674754b1/original.tif
+    sha256: 6b127009b5e79484499e551fe9749c31545a30a29a22f0d98681831b674754b1
+    mime: image/tiff
+    bytes: 14688679
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6b/12/6b127009b5e79484499e551fe9749c31545a30a29a22f0d98681831b674754b1/preview-400.348e56752a7f.jpg
+        sha256: 348e56752a7f8ceb70d7b483d9dbb45265ca4979fdd45d607bbf2d6ac36eab36
+        mime: image/jpeg
+        bytes: 59306
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

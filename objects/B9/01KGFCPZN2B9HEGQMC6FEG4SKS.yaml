@@ -1,0 +1,31 @@
+id: 01KGFCPZN2B9HEGQMC6FEG4SKS
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Laase 1883
+description: "Beschlossen wurde unter anderem: Wasserleitung."
+date: 1883-09-28
+location: Dömitz, Deichstraße
+geocode:
+  lat: 53.0079
+  lon: 11.6097
+  precision: region
+  source: osm
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 25/084
+subjects:
+  - name: Beerdigung 1883
+    type: event
+parents:
+  - 01EZC5C07CZY0ETCK5VD296P3F
+storage: external
+external:
+  - type: platform
+    site: Deutsche Digitale Bibliothek
+    uri: https://deutsche-digitale-bibliothek.example.org/objekt/737044
+    note: Digitalisat vorhanden
+    retrieved: 2025-02-03

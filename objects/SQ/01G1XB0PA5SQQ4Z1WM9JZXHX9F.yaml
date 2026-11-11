@@ -1,0 +1,42 @@
+id: 01G1XB0PA5SQQ4Z1WM9JZXHX9F
+type: image
+subtype: plan
+title: Bauplan Schmiede 1809
+date: 1809-11-23
+location: Gartow, Kirche St. Johannis
+geocode:
+  lat: 52.9947
+  lon: 11.6846
+  precision: town
+  source: osm
+origin:
+  name: Lotte Detlefs
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Richtfest 1809
+    type: event
+  - name: Friedrich Lenz
+    type: person
+parents:
+  - 01F5WN4D1FQE5PP5MD0YFVKCS4
+files:
+  - role: main
+    original_name: scan_540.tif
+    path: files/05/24/05243713dec09ddd1b0947e1f28ab696a0acbe76f491aacf12ea7b3469b6eb6a/original.tif
+    sha256: 05243713dec09ddd1b0947e1f28ab696a0acbe76f491aacf12ea7b3469b6eb6a
+    mime: image/tiff
+    bytes: 2782825
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/24/05243713dec09ddd1b0947e1f28ab696a0acbe76f491aacf12ea7b3469b6eb6a/preview-400.e0ce13e1c8d6.jpg
+        sha256: e0ce13e1c8d6e3a4174008ce95c81066878432c34ae7b241d134ae0c5e093830
+        mime: image/jpeg
+        bytes: 27092
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

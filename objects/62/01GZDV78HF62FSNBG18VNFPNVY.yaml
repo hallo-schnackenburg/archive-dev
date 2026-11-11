@@ -1,0 +1,69 @@
+id: 01GZDV78HF62FSNBG18VNFPNVY
+type: document
+subtype: note
+title: Quittung für Frieda Meyer
+date: 2003-02-12
+location: Cumlosen, Marktstraße
+geocode:
+  lat: 52.9808
+  lon: 11.5084
+  precision: region
+  source: osm
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 25/071
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Heinrich Lemke
+    type: person
+  - name: Brückeneinweihung 2003
+    type: event
+  - name: Heinrich Wöhlk
+    type: person
+parents:
+  - 01FKRCJXM1WMJBH86NTRWPP373
+files:
+  - role: page
+    num: 1
+    original_name: note_nfpnvy_001.tif
+    path: files/3d/aa/3daa6f218334c1215f0ef5a586d9bb76bdd0ad5732626e383e77ffa31020d134/original.tif
+    sha256: 3daa6f218334c1215f0ef5a586d9bb76bdd0ad5732626e383e77ffa31020d134
+    mime: image/tiff
+    bytes: 27257657
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3d/aa/3daa6f218334c1215f0ef5a586d9bb76bdd0ad5732626e383e77ffa31020d134/preview-400.686274bc5866.jpg
+        sha256: 686274bc5866096f46b5122707459badc754bfac6c66cbf61d097dc9ca590946
+        mime: image/jpeg
+        bytes: 88066
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_nfpnvy_002.tif
+    path: files/3b/64/3b64385f1ac93e7f975a11117a8fcab8bcf787391a7cfc492d3365b8deaa8047/original.tif
+    sha256: 3b64385f1ac93e7f975a11117a8fcab8bcf787391a7cfc492d3365b8deaa8047
+    mime: image/tiff
+    bytes: 19686350
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3b/64/3b64385f1ac93e7f975a11117a8fcab8bcf787391a7cfc492d3365b8deaa8047/preview-400.6f758b1a151e.jpg
+        sha256: 6f758b1a151ea0ea1a4c5521b415e76eb7a868829176fd5dd24b0af5682620d0
+        mime: image/jpeg
+        bytes: 49079
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

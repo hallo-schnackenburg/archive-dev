@@ -1,0 +1,44 @@
+id: 01HY8RTYV162J36NSPH01SF0XA
+type: image
+subtype: drawing
+title: Entwurf für Bäckerei Lüders, Zadrau (10)
+description: Federzeichnung, laviert.
+date: 1944-09-15
+location: Gorleben, Försterei
+geocode:
+  lat: 52.9665
+  lon: 11.5376
+  precision: region
+  source: osm
+origin:
+  name: Heinz Dreyer
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Straßenfest 1944
+    type: event
+  - name: Marta Prieß
+    type: person
+parents:
+  - 01JMT0ZRHTVSQ2MA5HJ6W5MNW7
+  - 01FDA5WD2HAQWVA4SE72GX6KEJ
+files:
+  - role: main
+    original_name: scan_468.tif
+    path: files/5c/38/5c38042c83164271791cb634210df21f7d28bc44302894edcc526e41ce77a9da/original.tif
+    sha256: 5c38042c83164271791cb634210df21f7d28bc44302894edcc526e41ce77a9da
+    mime: image/tiff
+    bytes: 6095015
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5c/38/5c38042c83164271791cb634210df21f7d28bc44302894edcc526e41ce77a9da/preview-400.156298b41c47.jpg
+        sha256: 156298b41c47bf0191dcaebec4fc112264a57d6d8c7211d1a059bad3f72df4e1
+        mime: image/jpeg
+        bytes: 45911
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01J2YRSFAYKS6ECCCZ5Y7AJD24
+type: image
+subtype: photo
+title: Tanzsaal nach dem Maifeier
+location: Kapern, Dorfladen
+geocode:
+  lat: 52.9858
+  lon: 11.6975
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  note: Schrank B
+files:
+  - role: main
+    original_name: DSC2916.jpg
+    path: files/d9/61/d961a7c6a7253028d20d0f09db3a2e953fabb5d297f60158efab3a0b5f0a44d9/original.jpg
+    sha256: d961a7c6a7253028d20d0f09db3a2e953fabb5d297f60158efab3a0b5f0a44d9
+    mime: image/jpeg
+    bytes: 12458003
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/d9/61/d961a7c6a7253028d20d0f09db3a2e953fabb5d297f60158efab3a0b5f0a44d9/preview-400.03b0916102b0.jpg
+        sha256: 03b0916102b0d5fbaa30e8d6776bd6a262f5453b7a905691aabad6f6aea5b513
+        mime: image/jpeg
+        bytes: 66707
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

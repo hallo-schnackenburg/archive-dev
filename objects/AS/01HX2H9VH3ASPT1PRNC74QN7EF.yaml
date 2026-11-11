@@ -1,0 +1,29 @@
+id: 01HX2H9VH3ASPT1PRNC74QN7EF
+type: image
+subtype: plan
+title: Katasterblatt Schwarz, Seedorf
+date: "1891"
+origin:
+  name: August Lemke
+  type: person
+  location: Gollensdorf
+files:
+  - role: main
+    original_name: scan_732.tif
+    path: files/a0/c9/a0c9128acb04f8e16b9bb2fd7b3bef82e59d31a62739a2c908e2e9039c340449/original.tif
+    sha256: a0c9128acb04f8e16b9bb2fd7b3bef82e59d31a62739a2c908e2e9039c340449
+    mime: image/tiff
+    bytes: 21300929
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a0/c9/a0c9128acb04f8e16b9bb2fd7b3bef82e59d31a62739a2c908e2e9039c340449/preview-400.54128df4233c.jpg
+        sha256: 54128df4233c0b03924ed188ad6afe61b8dc4ab725d7db4a8c7517898d112c9d
+        mime: image/jpeg
+        bytes: 41561
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,69 @@
+id: 01G3CX3PM3Z0CKM6XC604CBACT
+type: document
+subtype: note
+title: Rechnung Rieke, Apotheke
+date: 1919~
+location: Gorleben, Dorfstraße
+geocode:
+  lat: 52.9916
+  lon: 11.6005
+  precision: exact
+  source: osm
+origin:
+  name: Hans Schulz
+  type: person
+  location: Gollensdorf
+language: de
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Schrank B
+subjects:
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01KF2B6TP54JC25MG4X17B6G6E
+  - 01GHB8CACBDV42F0VWCD6Z5CC1
+files:
+  - role: page
+    num: 1
+    original_name: note_4cbact_001.tif
+    path: files/17/21/1721e1eebe2bd4516d54a39d39bafaed9cda9eab6f692221bfcffb839b0ff0dd/original.tif
+    sha256: 1721e1eebe2bd4516d54a39d39bafaed9cda9eab6f692221bfcffb839b0ff0dd
+    mime: image/tiff
+    bytes: 18037786
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/17/21/1721e1eebe2bd4516d54a39d39bafaed9cda9eab6f692221bfcffb839b0ff0dd/preview-400.cdee8a807162.jpg
+        sha256: cdee8a807162205df0d73904c9eeffcfc50307e57e26e3589f038537b0acf035
+        mime: image/jpeg
+        bytes: 37921
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_4cbact_002.tif
+    path: files/e8/ba/e8ba6ed55b9cddf6d2364c7db66bb67239a774823f49b8370eaf8121688e24ba/original.tif
+    sha256: e8ba6ed55b9cddf6d2364c7db66bb67239a774823f49b8370eaf8121688e24ba
+    mime: image/tiff
+    bytes: 5219834
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/ba/e8ba6ed55b9cddf6d2364c7db66bb67239a774823f49b8370eaf8121688e24ba/preview-400.6308f50f90b4.jpg
+        sha256: 6308f50f90b459ad3cb3abf06b66dffdc262eaa86b07c78350c7ee9b73137ae1
+        mime: image/jpeg
+        bytes: 74586
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

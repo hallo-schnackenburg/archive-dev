@@ -1,0 +1,38 @@
+id: 01F50XKNTN1D8K1Q7XC6PW4TB1
+type: image
+subtype: photo
+title: Ernst Dreyer, Porträt
+description: Farbfoto, leicht verblasst.
+date: "1962"
+location: Gülden, Hafenstraße
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Holtorf
+owner:
+  name: Erika Krüger
+  type: person
+  note: Dauerleihgabe
+parents:
+  - 01FC500G3M1EH4PAW2K7HHB2K0
+  - 01HH369QCTQQ41PT1K6NF00KAH
+files:
+  - role: main
+    original_name: P3750.jpg
+    path: files/e7/bd/e7bd360459d2257b62b12dffb434600615219b516bea325d36ed11fc9b0c9f5b/original.jpg
+    sha256: e7bd360459d2257b62b12dffb434600615219b516bea325d36ed11fc9b0c9f5b
+    mime: image/jpeg
+    bytes: 13787544
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/e7/bd/e7bd360459d2257b62b12dffb434600615219b516bea325d36ed11fc9b0c9f5b/preview-400.319b9359b5bf.jpg
+        sha256: 319b9359b5bfceb8eb2470525efe157db597aed117490dcadc42539c73bff5d9
+        mime: image/jpeg
+        bytes: 43803
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

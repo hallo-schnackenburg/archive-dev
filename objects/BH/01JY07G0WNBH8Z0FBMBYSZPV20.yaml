@@ -1,0 +1,40 @@
+id: 01JY07G0WNBH8Z0FBMBYSZPV20
+type: image
+subtype: plan
+title: Deichplan Rüterberg bis Zadrau
+description: Tusche auf Transparentpapier.
+date: 1898?
+location: Laase, Marktstraße
+origin:
+  name: August Ahrens
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Gülden
+    type: place
+  - name: Arendsee
+    type: place
+  - name: Schützenhaus
+    type: building
+parents:
+  - 01FJMCPRQ0EG050EZ87JB0MN40
+files:
+  - role: main
+    original_name: scan_679.tif
+    path: files/41/84/41841d385f8edbc5d97ff52aa454a523c1a9a5a68070725972ee1e9623533b4e/original.tif
+    sha256: 41841d385f8edbc5d97ff52aa454a523c1a9a5a68070725972ee1e9623533b4e
+    mime: image/tiff
+    bytes: 4076034
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/41/84/41841d385f8edbc5d97ff52aa454a523c1a9a5a68070725972ee1e9623533b4e/preview-400.a5edc6369a17.jpg
+        sha256: a5edc6369a17fcb9b9d7b5600cf315bf185acb55307db9d75d8e547e10de9822
+        mime: image/jpeg
+        bytes: 53145
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

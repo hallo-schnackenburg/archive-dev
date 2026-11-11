@@ -1,0 +1,41 @@
+id: 01H1XT7MP0M30WM5ZM2C13H0M7
+type: image
+subtype: plan
+title: Bauplan Kirche St. Johannis 1808
+description: Mit handschriftlichen Ergänzungen.
+date: 1808-05
+location: Pretzier, Hafenstraße
+origin:
+  name: Hans Eggers
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Fastnacht 1808
+    type: event
+parents:
+  - 01GA5Z0DBZAQFYJJA123R8HCJ9
+files:
+  - role: main
+    original_name: scan_373.tif
+    path: files/b5/f6/b5f69495d8532556f00b8898c9920d621b92edc6f02b7e585ff0e5e0b15e7458/original.tif
+    sha256: b5f69495d8532556f00b8898c9920d621b92edc6f02b7e585ff0e5e0b15e7458
+    mime: image/tiff
+    bytes: 11702603
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b5/f6/b5f69495d8532556f00b8898c9920d621b92edc6f02b7e585ff0e5e0b15e7458/preview-400.811df9e6d607.jpg
+        sha256: 811df9e6d607d0cdd3e432162db31658f51f20367d989c0ddd2781bc166f3560
+        mime: image/jpeg
+        bytes: 79782
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

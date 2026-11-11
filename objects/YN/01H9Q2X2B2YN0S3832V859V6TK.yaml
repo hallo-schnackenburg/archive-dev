@@ -1,0 +1,45 @@
+id: 01H9Q2X2B2YN0S3832V859V6TK
+type: image
+subtype: photo
+title: Kindergartenfest 1922
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1922"
+location: Cumlosen, Elbstraße
+geocode:
+  lat: 52.9572
+  lon: 11.6396
+  precision: town
+  source: osm
+origin:
+  name: Werner Detlefs
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg/Kasten 18/009
+subjects:
+  - name: Beerdigung 1922
+    type: event
+files:
+  - role: main
+    original_name: IMG_0682.jpg
+    path: files/9b/38/9b38732466e9da94d72d40d8edbad21a2843b7109c4246ad73323164d2446fab/original.jpg
+    sha256: 9b38732466e9da94d72d40d8edbad21a2843b7109c4246ad73323164d2446fab
+    mime: image/jpeg
+    bytes: 13710307
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/9b/38/9b38732466e9da94d72d40d8edbad21a2843b7109c4246ad73323164d2446fab/preview-400.9da94c9cea03.jpg
+        sha256: 9da94c9cea030685be1c5c6bc5bda1212899a598e5ec2d4840e904f66574d7e1
+        mime: image/jpeg
+        bytes: 26088
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

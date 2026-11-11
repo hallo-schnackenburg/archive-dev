@@ -1,0 +1,43 @@
+id: 01JJS18S8ZCFNJV7PZQBHJ9GPC
+type: image
+subtype: print
+title: Postkarte Salzwedel, Badestelle, Dömitz
+description: Lithographie, Rand beschnitten.
+date: 1768/1771
+location: Wootz, Hafenstraße
+origin:
+  name: Renate Lüders
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 1/009
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v65397
+subjects:
+  - name: Heuberge
+    type: building
+parents:
+  - 01F267JRW9ANSP74NWFX31H9W4
+files:
+  - role: main
+    original_name: scan_683.tif
+    path: files/62/0d/620d035803064cfbbc349fc83e53df2b61c9da6ea942766674446f5f10951797/original.tif
+    sha256: 620d035803064cfbbc349fc83e53df2b61c9da6ea942766674446f5f10951797
+    mime: image/tiff
+    bytes: 1499354
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/62/0d/620d035803064cfbbc349fc83e53df2b61c9da6ea942766674446f5f10951797/preview-400.cc6e5d85dfeb.jpg
+        sha256: cc6e5d85dfebb61b1a89878177a5723cc311fcd3c541f00fd15e8dadeed9e745
+        mime: image/jpeg
+        bytes: 78930
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01FGTJWC9FTJJRRH2RHQ043P4R
+type: image
+subtype: photo
+title: Blick vom Ladestraße auf das Tischlerei Bruns
+date: 1922~
+location: Lenzen, Dorfstraße
+origin:
+  name: Gustav Schulz
+  type: person
+  location: Havelberg
+subjects:
+  - name: Weihnachtsmarkt 1922
+    type: event
+  - name: Apotheke
+    type: building
+  - name: Feuerwehrübung 1922
+    type: event
+parents:
+  - 01JAG0VN6X3TDF0BEKQ3Q9ZYWP
+  - 01J8GJHXRZG3WKWHP1C2HPX9G9
+files:
+  - role: main
+    original_name: scan_385.tif
+    path: files/5e/14/5e14582c45efaaf102923f81aaa37b21c5abec3fb0b43b2bf6d2b8a1804cf604/original.tif
+    sha256: 5e14582c45efaaf102923f81aaa37b21c5abec3fb0b43b2bf6d2b8a1804cf604
+    mime: image/tiff
+    bytes: 26761764
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5e/14/5e14582c45efaaf102923f81aaa37b21c5abec3fb0b43b2bf6d2b8a1804cf604/preview-400.3fc32944cf5b.jpg
+        sha256: 3fc32944cf5b2f0b785dc7116ae43718857a801316ac2c16cb230475768d63db
+        mime: image/jpeg
+        bytes: 31283
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

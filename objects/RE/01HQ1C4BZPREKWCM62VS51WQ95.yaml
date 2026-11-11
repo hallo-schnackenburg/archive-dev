@@ -1,0 +1,41 @@
+id: 01HQ1C4BZPREKWCM62VS51WQ95
+type: image
+subtype: print
+title: Ansichtskarte Mühlenweg, Lenzen
+description: Kupferstich, koloriert.
+date: 1911~
+location: Cumlosen, Fährstraße
+geocode:
+  lat: 52.9438
+  lon: 11.5877
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Lenz
+  type: person
+  location: Restorf
+subjects:
+  - name: Gartow
+    type: place
+parents:
+  - 01GQDM3ZFG19XY70Y5T88AY6HH
+files:
+  - role: main
+    original_name: scan_768.tif
+    path: files/00/d4/00d487480a94598d8468f016d38cc086fee6ceb5aaedd47f5bab05bb89ef6e35/original.tif
+    sha256: 00d487480a94598d8468f016d38cc086fee6ceb5aaedd47f5bab05bb89ef6e35
+    mime: image/tiff
+    bytes: 13539929
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/00/d4/00d487480a94598d8468f016d38cc086fee6ceb5aaedd47f5bab05bb89ef6e35/preview-400.011bf781a720.jpg
+        sha256: 011bf781a720eaeccd6e3f8ae59f6af64abe98f775ce6c65c4a522c55e324421
+        mime: image/jpeg
+        bytes: 78592
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

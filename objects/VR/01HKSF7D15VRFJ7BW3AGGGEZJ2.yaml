@@ -1,0 +1,44 @@
+id: 01HKSF7D15VRFJ7BW3AGGGEZJ2
+type: image
+subtype: print
+title: Postkarte Laase, Schützenhaus
+description: Kupferstich, koloriert.
+date: "1878"
+location: Holtorf, Hafenstraße
+origin:
+  name: Günter Lemke
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos 35/282
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Wilhelm Jeß
+    type: person
+  - name: Cumlosen
+    type: place
+files:
+  - role: main
+    original_name: scan_578.tif
+    path: files/20/f6/20f69fe461120896f254cc052a18aae3c3afbfb82c9b7279122a783ba809bc1f/original.tif
+    sha256: 20f69fe461120896f254cc052a18aae3c3afbfb82c9b7279122a783ba809bc1f
+    mime: image/tiff
+    bytes: 2197401
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/20/f6/20f69fe461120896f254cc052a18aae3c3afbfb82c9b7279122a783ba809bc1f/preview-400.4b2f9d42ea17.jpg
+        sha256: 4b2f9d42ea17599a1c88459bda986633c51dee02ea9990e27feac690c8921959
+        mime: image/jpeg
+        bytes: 40088
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

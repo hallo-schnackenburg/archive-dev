@@ -1,0 +1,37 @@
+id: 01H7TATA6SV4JFBV8NFJ3GDVS3
+type: image
+subtype: photo
+title: Klaus Rieke, Porträt
+description: Abzug im Format 6 x 9 cm.
+location: Wootz, Schulstraße
+origin:
+  name: Hans Meyer
+  type: person
+  location: Zadrau
+subjects:
+  - name: Apotheke
+    type: building
+  - name: Bömenzien
+    type: place
+  - name: Tischlerei Bruns
+    type: building
+files:
+  - role: main
+    original_name: IMG_9918.jpg
+    path: files/4e/66/4e665164397a1b6c09bcfa4983e3a1e9fb04c017cc7be2d116ab8a4566f42432/original.jpg
+    sha256: 4e665164397a1b6c09bcfa4983e3a1e9fb04c017cc7be2d116ab8a4566f42432
+    mime: image/jpeg
+    bytes: 5493735
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4e/66/4e665164397a1b6c09bcfa4983e3a1e9fb04c017cc7be2d116ab8a4566f42432/preview-400.9e57b73dce4a.jpg
+        sha256: 9e57b73dce4a803905d02df0073a5b0cb41d83a0b48013e23505ec2b387a4f76
+        mime: image/jpeg
+        bytes: 75921
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,33 @@
+id: 01H7ZQAZEDR1GNQCAD3QCCS10E
+type: image
+subtype: photo
+title: Blick vom Windmühle auf das Pumpenhaus
+description: Abzug im Format 6 x 9 cm.
+date: "1922"
+location: Wustrow, Tischlerei Bruns
+origin:
+  name: Karl Tiedemann
+  type: person
+  location: Wittenberge
+parents:
+  - 01HCRJBF96Y6XBHZZ8XQX7630X
+files:
+  - role: main
+    original_name: scan_360.tif
+    path: files/df/70/df7048e4ae9baf395b1e358237cdbbd6b92b05f00bcac7e95f89494d179993f1/original.tif
+    sha256: df7048e4ae9baf395b1e358237cdbbd6b92b05f00bcac7e95f89494d179993f1
+    mime: image/tiff
+    bytes: 16280447
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/df/70/df7048e4ae9baf395b1e358237cdbbd6b92b05f00bcac7e95f89494d179993f1/preview-400.cbf145623530.jpg
+        sha256: cbf1456235306d75f1a92ae5242ba706a96de4e4120692f0d30c429a8c9013df
+        mime: image/jpeg
+        bytes: 74275
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

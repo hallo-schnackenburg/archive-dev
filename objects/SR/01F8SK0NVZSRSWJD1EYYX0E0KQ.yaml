@@ -1,0 +1,45 @@
+id: 01F8SK0NVZSRSWJD1EYYX0E0KQ
+type: image
+subtype: drawing
+title: Skizze Gülden, Fährstraße
+description: Mit Anmerkungen am Rand.
+date: 1851~
+location: Restorf, Mühle
+geocode:
+  lat: 53.0136
+  lon: 11.666
+  precision: exact
+  source: osm
+origin:
+  name: Ilse Plate
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 3/038
+  note: Regal 1
+parents:
+  - 01JSEZ1KR3W9V6KCYZ4QHW4E4A
+files:
+  - role: main
+    original_name: scan_560.tif
+    path: files/5f/02/5f022176760ca774540b2a6ba9432084738bb54e92a59d9113ba3f509ec31a2a/original.tif
+    sha256: 5f022176760ca774540b2a6ba9432084738bb54e92a59d9113ba3f509ec31a2a
+    mime: image/tiff
+    bytes: 9734524
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/5f/02/5f022176760ca774540b2a6ba9432084738bb54e92a59d9113ba3f509ec31a2a/preview-400.6857937df06b.jpg
+        sha256: 6857937df06bb84f4947b7f9875dfdd9a1827081523bc7c68c3872727ecb0af3
+        mime: image/jpeg
+        bytes: 69718
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

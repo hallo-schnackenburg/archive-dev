@@ -1,0 +1,33 @@
+id: 01G7HY6GYV805BHHBVF3XD7VQB
+type: image
+subtype: photo
+title: Fähranleger in Brünkendorf
+date: 1926-02
+location: Cumlosen, Bahnhof
+geocode:
+  lat: 52.9109
+  lon: 11.5624
+  precision: street
+  source: osm
+parents:
+  - 01H633W1F1PMRNTS6MYSVBSE45
+files:
+  - role: main
+    original_name: scan_304.tif
+    path: files/a2/af/a2afbb1eb252c91acf311726ed8e9e67fafb235192fc783da1191d80c4cb7287/original.tif
+    sha256: a2afbb1eb252c91acf311726ed8e9e67fafb235192fc783da1191d80c4cb7287
+    mime: image/tiff
+    bytes: 22648682
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a2/af/a2afbb1eb252c91acf311726ed8e9e67fafb235192fc783da1191d80c4cb7287/preview-400.ba79feb4a71f.jpg
+        sha256: ba79feb4a71fdab69c5139708582f19316c3172628ee7c611ae449c74f57a0aa
+        mime: image/jpeg
+        bytes: 45680
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

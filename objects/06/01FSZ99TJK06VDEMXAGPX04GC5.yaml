@@ -1,0 +1,37 @@
+id: 01FSZ99TJK06VDEMXAGPX04GC5
+type: image
+subtype: plan
+title: Bauplan Schmiede 1918
+description: Maßstab 1:2500.
+date: 1918/1924
+origin:
+  name: Gerda Meyer
+  type: person
+  location: Kapern
+subjects:
+  - name: Fähranleger
+    type: building
+  - name: Bäckerei Lüders
+    type: building
+  - name: Apotheke
+    type: building
+files:
+  - role: main
+    original_name: scan_297.tif
+    path: files/5c/2d/5c2d5f287409b3385464cbb65deb4adfd345bca2d8207f285ef9eb1985c835b2/original.tif
+    sha256: 5c2d5f287409b3385464cbb65deb4adfd345bca2d8207f285ef9eb1985c835b2
+    mime: image/tiff
+    bytes: 22280313
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5c/2d/5c2d5f287409b3385464cbb65deb4adfd345bca2d8207f285ef9eb1985c835b2/preview-400.5631dcdd794f.jpg
+        sha256: 5631dcdd794f44e25b0e869b8b0c78a74b0136d73d81d4ba3352354c5224da3a
+        mime: image/jpeg
+        bytes: 65092
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

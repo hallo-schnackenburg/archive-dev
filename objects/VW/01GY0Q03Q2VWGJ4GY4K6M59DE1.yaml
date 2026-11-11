@@ -1,0 +1,32 @@
+id: 01GY0Q03Q2VWGJ4GY4K6M59DE1
+type: image
+subtype: plan
+title: Grundriss Schlachterei
+date: 1843-06
+origin:
+  name: Jürgen Dreyer
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Dorfschule
+    type: building
+files:
+  - role: main
+    original_name: scan_714.tif
+    path: files/dd/33/dd337252807224efba8c5f0bcc3bf630cb03cb546f862c779ab36e295486dbf3/original.tif
+    sha256: dd337252807224efba8c5f0bcc3bf630cb03cb546f862c779ab36e295486dbf3
+    mime: image/tiff
+    bytes: 2800964
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/33/dd337252807224efba8c5f0bcc3bf630cb03cb546f862c779ab36e295486dbf3/preview-400.6134b5490759.jpg
+        sha256: 6134b54907595abf30b48df749cd3adc2e192c61cacec13ad34abb18c92826f8
+        mime: image/jpeg
+        bytes: 27019
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

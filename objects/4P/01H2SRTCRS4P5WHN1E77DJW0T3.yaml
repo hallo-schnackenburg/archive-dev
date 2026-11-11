@@ -1,0 +1,33 @@
+id: 01H2SRTCRS4P5WHN1E77DJW0T3
+type: image
+subtype: photo
+title: Kinder am Heuberge
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Walter Meyer
+    type: person
+  - name: Windmühle
+    type: building
+parents:
+  - 01HCRJBF96Y6XBHZZ8XQX7630X
+files:
+  - role: main
+    original_name: IMG_1068.jpg
+    path: files/d2/18/d21820b2eba8fbb5e8101566a92c2fc712d305953166b5da4091fdd306e8ec52/original.jpg
+    sha256: d21820b2eba8fbb5e8101566a92c2fc712d305953166b5da4091fdd306e8ec52
+    mime: image/jpeg
+    bytes: 6578826
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/d2/18/d21820b2eba8fbb5e8101566a92c2fc712d305953166b5da4091fdd306e8ec52/preview-400.b5b9bbde67a1.jpg
+        sha256: b5b9bbde67a19f68cb3c4744b1a6170ecc585b28406caf0a27ce88a6f611e085
+        mime: image/jpeg
+        bytes: 33315
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

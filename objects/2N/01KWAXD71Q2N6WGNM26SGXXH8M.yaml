@@ -1,0 +1,41 @@
+id: 01KWAXD71Q2N6WGNM26SGXXH8M
+type: image
+subtype: drawing
+title: Skizze Dömitz, Deichstraße, Nienwalde
+description: Mit Anmerkungen am Rand.
+date: 1840-01-04
+origin:
+  name: Karl Gerdes
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 29/063
+  note: Planschrank, Fach 3
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v86320
+subjects:
+  - name: Lotte Krüger
+    type: person
+files:
+  - role: main
+    original_name: scan_396.tif
+    path: files/b6/4f/b64fb0f6958a3e4c925944e6173499ff4e91fe9d8a4fd85f36e709b89a1c8235/original.tif
+    sha256: b64fb0f6958a3e4c925944e6173499ff4e91fe9d8a4fd85f36e709b89a1c8235
+    mime: image/tiff
+    bytes: 11110870
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b6/4f/b64fb0f6958a3e4c925944e6173499ff4e91fe9d8a4fd85f36e709b89a1c8235/preview-400.86e7d02e6548.jpg
+        sha256: 86e7d02e6548a7c48f15063903d308023c2fb76b4e10e38b546ba0a4292bcdf0
+        mime: image/jpeg
+        bytes: 82854
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

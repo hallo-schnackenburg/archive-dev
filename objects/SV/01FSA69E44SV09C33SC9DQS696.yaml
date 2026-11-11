@@ -1,0 +1,35 @@
+id: 01FSA69E44SV09C33SC9DQS696
+type: image
+subtype: plan
+title: Bauplan Gemeindehaus 1752
+location: Kapern, Bahnhof
+geocode:
+  lat: 53.0068
+  lon: 11.6889
+  precision: exact
+  source: osm
+subjects:
+  - name: Paul Cohrs
+    type: person
+  - name: Osterfeuer 1752
+    type: event
+files:
+  - role: main
+    original_name: scan_024.tif
+    path: files/7c/8c/7c8cfd0a3f57e83e7a8b8eab9e45bd9ca861908cad8fccde9bd892783c83a45d/original.tif
+    sha256: 7c8cfd0a3f57e83e7a8b8eab9e45bd9ca861908cad8fccde9bd892783c83a45d
+    mime: image/tiff
+    bytes: 19886816
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7c/8c/7c8cfd0a3f57e83e7a8b8eab9e45bd9ca861908cad8fccde9bd892783c83a45d/preview-400.fcf9877c3591.jpg
+        sha256: fcf9877c3591688a6da137f9bbb7cc0fa5b464f716f2b75125eadf9d3b35c207
+        mime: image/jpeg
+        bytes: 64562
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

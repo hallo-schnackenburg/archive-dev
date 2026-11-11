@@ -1,0 +1,37 @@
+id: 01GFVQQDC7QNRNAQB3WTSDN91Z
+type: image
+subtype: photo
+title: Fährjubiläum 1973
+location: Pretzier, Kirche St. Johannis
+origin:
+  name: Heinrich Rohde
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 24/069
+parents:
+  - 01JSYB7Z03WSNMJ0H37E7BWCQW
+files:
+  - role: main
+    original_name: DSC1082.jpg
+    path: files/75/c6/75c6ad31a081ad659effd8285216532cd17bd942ff056af4e77e35e092153d71/original.jpg
+    sha256: 75c6ad31a081ad659effd8285216532cd17bd942ff056af4e77e35e092153d71
+    mime: image/jpeg
+    bytes: 19484947
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/75/c6/75c6ad31a081ad659effd8285216532cd17bd942ff056af4e77e35e092153d71/preview-400.d2898917682e.jpg
+        sha256: d2898917682ee2d87e896b5536c889ea552cb75f23a85013a8503f3822626c02
+        mime: image/jpeg
+        bytes: 79144
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

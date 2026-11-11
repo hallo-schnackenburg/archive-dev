@@ -1,0 +1,31 @@
+id: 01HDG1GZ23KDGSA0ZDTYM27AMG
+type: image
+subtype: plan
+title: Katasterblatt Fricke
+date: 1921-10-07
+location: Hitzacker, Speicher
+subjects:
+  - name: Hermann Lenz
+    type: person
+  - name: Kirche St. Johannis
+    type: building
+files:
+  - role: main
+    original_name: scan_415.tif
+    path: files/07/95/0795adb869b9443f48f8b7a1320f248dcaf143d25b7581fcefb4ed8ba4c648e3/original.tif
+    sha256: 0795adb869b9443f48f8b7a1320f248dcaf143d25b7581fcefb4ed8ba4c648e3
+    mime: image/tiff
+    bytes: 418830
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/95/0795adb869b9443f48f8b7a1320f248dcaf143d25b7581fcefb4ed8ba4c648e3/preview-400.dfbc96e0609e.jpg
+        sha256: dfbc96e0609e5a54bf671b5c094010432c65aadde536e1d7e8ccc544abd43bbf
+        mime: image/jpeg
+        bytes: 82160
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

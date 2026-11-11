@@ -1,0 +1,60 @@
+id: 01K0N4HWDKPRPEKF8Z12JGJAJT
+type: document
+subtype: note
+title: Rechnung Lemke, Grenzturm
+description: Beleg mit Stempel.
+date: 1899~
+location: Wustrow, Speicher
+origin:
+  name: Dieter Meyer
+  type: person
+  location: Seedorf
+language: de
+subjects:
+  - name: Wilhelm Ludolf
+    type: person
+  - name: Cumlosen
+    type: place
+  - name: Wassermühle
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_jgjajt_001.tif
+    path: files/38/32/3832f180c28ff82b04875325a3ea1f11cc9d92fe3e5c12f00d138ce005f36edc/original.tif
+    sha256: 3832f180c28ff82b04875325a3ea1f11cc9d92fe3e5c12f00d138ce005f36edc
+    mime: image/tiff
+    bytes: 24770465
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/38/32/3832f180c28ff82b04875325a3ea1f11cc9d92fe3e5c12f00d138ce005f36edc/preview-400.1f486eabc195.jpg
+        sha256: 1f486eabc195d88b63d8bcc050cc50403367d59619869b3ca5ddfc250958b8cc
+        mime: image/jpeg
+        bytes: 72093
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_jgjajt_002.tif
+    path: files/b5/ae/b5ae0ab23d437f64bfb2e10ca4ef2e88d3672e599c7fad0b59f54418645ec3bc/original.tif
+    sha256: b5ae0ab23d437f64bfb2e10ca4ef2e88d3672e599c7fad0b59f54418645ec3bc
+    mime: image/tiff
+    bytes: 6229062
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b5/ae/b5ae0ab23d437f64bfb2e10ca4ef2e88d3672e599c7fad0b59f54418645ec3bc/preview-400.e08d01262048.jpg
+        sha256: e08d0126204855879b7c06a11c28e15c4892abfc46d4c734c1d90b84217b8a65
+        mime: image/jpeg
+        bytes: 49038
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

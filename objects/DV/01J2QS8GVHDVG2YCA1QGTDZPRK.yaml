@@ -1,0 +1,43 @@
+id: 01J2QS8GVHDVG2YCA1QGTDZPRK
+type: image
+subtype: photo
+title: Gartenstraße, Ecke Dorfstraße
+date: 1983-09-12
+location: Salzwedel, Scheune
+geocode:
+  lat: 53.0026
+  lon: 11.5738
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos/Mappe 4/093
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v64281
+subjects:
+  - name: Beerdigung 1983
+    type: event
+parents:
+  - 01HV23CDKEHB2T4F0325HW90F9
+files:
+  - role: main
+    original_name: foto_4605.jpg
+    path: files/bd/8f/bd8f4386a42ef6d7a246ac446dd8c449565e1d05804b6452d3719959de68d23a/original.jpg
+    sha256: bd8f4386a42ef6d7a246ac446dd8c449565e1d05804b6452d3719959de68d23a
+    mime: image/jpeg
+    bytes: 4438033
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/bd/8f/bd8f4386a42ef6d7a246ac446dd8c449565e1d05804b6452d3719959de68d23a/preview-400.3209253fccad.jpg
+        sha256: 3209253fccad6b632ed1607949c4f639b16c79b1505f840a6cce5ca60ca0b506
+        mime: image/jpeg
+        bytes: 51703
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

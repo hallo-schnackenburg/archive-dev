@@ -1,0 +1,41 @@
+id: 01J800V4C9JEZG4SF4BR9HDS2C
+type: image
+subtype: print
+title: Gruß aus Hitzacker, Holtorf
+description: Postkarte, gelaufen 1949.
+date: 1954?
+location: Brünkendorf, Hafenstraße
+origin:
+  name: Karl Hennings
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Gärtnerei
+    type: building
+parents:
+  - 01JBC9B9VKQH5QPSKH6RMD1TRT
+files:
+  - role: main
+    original_name: scan_870.tif
+    path: files/f3/f1/f3f14aa9591677d3000a0cee40e2c63ad4a7f812e6e8ca4b75e8d1df0ee0c599/original.tif
+    sha256: f3f14aa9591677d3000a0cee40e2c63ad4a7f812e6e8ca4b75e8d1df0ee0c599
+    mime: image/tiff
+    bytes: 5467296
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f3/f1/f3f14aa9591677d3000a0cee40e2c63ad4a7f812e6e8ca4b75e8d1df0ee0c599/preview-400.566ee6453441.jpg
+        sha256: 566ee6453441aaf72d60fc17bee7d8bd1d8778ad46cfcbf03354de6b035ac84b
+        mime: image/jpeg
+        bytes: 20771
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

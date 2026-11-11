@@ -1,0 +1,37 @@
+id: 01JHHPANP7T79GF1MXRN8DYB9B
+type: image
+subtype: plan
+title: Bauplan Försterei 1943
+origin:
+  name: Wilhelm Plate
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 13/393
+subjects:
+  - name: Gustav Lemke
+    type: person
+files:
+  - role: main
+    original_name: scan_192.tif
+    path: files/07/c5/07c51054d783ea5b50cfbc1991dbbe12190cc099269249cf8af0a857c8698989/original.tif
+    sha256: 07c51054d783ea5b50cfbc1991dbbe12190cc099269249cf8af0a857c8698989
+    mime: image/tiff
+    bytes: 4739856
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/07/c5/07c51054d783ea5b50cfbc1991dbbe12190cc099269249cf8af0a857c8698989/preview-400.731dce13188a.jpg
+        sha256: 731dce13188a85758fb00c6933ad40ce6bd70988d2ae98a1e08eb9acef2e1881
+        mime: image/jpeg
+        bytes: 45312
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

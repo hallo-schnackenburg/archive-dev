@@ -1,0 +1,44 @@
+id: 01FFCR4Q0THGKR9X7P56Q1TA8W
+type: image
+subtype: photo
+title: Straßenfest 1988
+location: Cumlosen, Kirchstraße
+origin:
+  name: Klaus Ahrens
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Karl Plate
+    type: person
+  - name: Wootz
+    type: place
+  - name: Käthe Jeß
+    type: person
+parents:
+  - 01M265RTMYNX5W0CM6R19YZYNH
+  - 01GHB8CACBDV42F0VWCD6Z5CC1
+files:
+  - role: main
+    original_name: P9189.jpg
+    path: files/76/c1/76c17a1ffc1516db850404703088d5136c895e4d8f25a3df9f6380b4354ff4d2/original.jpg
+    sha256: 76c17a1ffc1516db850404703088d5136c895e4d8f25a3df9f6380b4354ff4d2
+    mime: image/jpeg
+    bytes: 7152575
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/76/c1/76c17a1ffc1516db850404703088d5136c895e4d8f25a3df9f6380b4354ff4d2/preview-400.5c54cac71959.jpg
+        sha256: 5c54cac71959319a082150e6365952c5aa2a7ff2073766c4e867401ebe15d7ce
+        mime: image/jpeg
+        bytes: 49235
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

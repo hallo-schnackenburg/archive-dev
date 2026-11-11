@@ -1,0 +1,33 @@
+id: 01KNR4M3N143H3KNQF36AGRVM1
+type: image
+subtype: drawing
+title: Skizze Havelberg, Marktstraße
+description: Mit Anmerkungen am Rand.
+date: "1990"
+location: Havelberg, Am Elbdeich
+origin:
+  name: Karl Ahrens
+  type: person
+  location: Gorleben
+parents:
+  - 01K7R3BCASWDCHJS6K90MMNRBE
+files:
+  - role: main
+    original_name: scan_561.tif
+    path: files/97/62/9762c9b0fc64799d9c76bbdb3366a85eb39fa907ab8cb6949e52be18c3577b57/original.tif
+    sha256: 9762c9b0fc64799d9c76bbdb3366a85eb39fa907ab8cb6949e52be18c3577b57
+    mime: image/tiff
+    bytes: 14892075
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/62/9762c9b0fc64799d9c76bbdb3366a85eb39fa907ab8cb6949e52be18c3577b57/preview-400.a20ba781c4fa.jpg
+        sha256: a20ba781c4fa15d965c16fde6fb03b2dd95de7814532e492abbb534645cd29a8
+        mime: image/jpeg
+        bytes: 81703
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

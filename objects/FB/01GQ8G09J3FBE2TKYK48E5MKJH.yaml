@@ -1,0 +1,47 @@
+id: 01GQ8G09J3FBE2TKYK48E5MKJH
+type: image
+subtype: plan
+title: Bauplan Kirche St. Johannis 1832
+description: Maßstab 1:100.
+date: "1832"
+location: Hitzacker, Kirchstraße
+geocode:
+  lat: 53.0301
+  lon: 11.6277
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Plan/Kasten 12/105
+subjects:
+  - name: Laase
+    type: place
+  - name: Kirche St. Johannis
+    type: building
+  - name: Ortsbesichtigung 1832
+    type: event
+parents:
+  - 01G13YFEMZ6M5B1HQ76CM2BWE2
+files:
+  - role: main
+    original_name: scan_833.tif
+    path: files/cc/e4/cce40364a9146ca68674a9b8696c96f117ee7b1eb72874a03caa6b081ad299e6/original.tif
+    sha256: cce40364a9146ca68674a9b8696c96f117ee7b1eb72874a03caa6b081ad299e6
+    mime: image/tiff
+    bytes: 14124434
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cc/e4/cce40364a9146ca68674a9b8696c96f117ee7b1eb72874a03caa6b081ad299e6/preview-400.ade2970a66d3.jpg
+        sha256: ade2970a66d364d90387d263bb00341a0c84523c4fa4cbd4928e981696147197
+        mime: image/jpeg
+        bytes: 52012
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

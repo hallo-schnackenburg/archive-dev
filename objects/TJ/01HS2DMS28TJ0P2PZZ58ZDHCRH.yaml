@@ -1,0 +1,42 @@
+id: 01HS2DMS28TJ0P2PZZ58ZDHCRH
+type: image
+subtype: photo
+title: Dorfschule nach dem Grenzöffnung
+description: Aufnahme von Lotte Timm.
+date: 1943?
+location: Seedorf, Schulstraße
+geocode:
+  lat: 52.936
+  lon: 11.5627
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Laase
+    type: place
+  - name: Kartoffelernte 1943
+    type: event
+files:
+  - role: main
+    original_name: foto_8014.jpg
+    path: files/1d/3c/1d3c7989ca34699f6dad7b264d0810d7f52972f12965ce9166947489da8a79e8/original.jpg
+    sha256: 1d3c7989ca34699f6dad7b264d0810d7f52972f12965ce9166947489da8a79e8
+    mime: image/jpeg
+    bytes: 465086
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/1d/3c/1d3c7989ca34699f6dad7b264d0810d7f52972f12965ce9166947489da8a79e8/preview-400.fb9a7402b6c4.jpg
+        sha256: fb9a7402b6c490a06e75339b15520cd3d296769a2c69920dd67fbf297cda7313
+        mime: image/jpeg
+        bytes: 55056
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

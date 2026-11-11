@@ -1,0 +1,35 @@
+id: 01HY7F5C5GXVT9355XXRPMMADJ
+type: image
+subtype: print
+title: Postkarte Lüchow, Schützenhaus
+description: Kupferstich, koloriert.
+date: 1791-01
+origin:
+  name: Karl Schulz
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01KXSMG16S33C92YAYMEJ5A0FZ
+files:
+  - role: main
+    original_name: scan_295.tif
+    path: files/fd/35/fd352a43f990e5d44929a44064f6e9307f69f95fde35bb2d19ce579ce6a79572/original.tif
+    sha256: fd352a43f990e5d44929a44064f6e9307f69f95fde35bb2d19ce579ce6a79572
+    mime: image/tiff
+    bytes: 1731835
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/fd/35/fd352a43f990e5d44929a44064f6e9307f69f95fde35bb2d19ce579ce6a79572/preview-400.2c1d42bfeafc.jpg
+        sha256: 2c1d42bfeafc81f324e06de185d9da49555dc2feb492c2b175527b5ab309ce89
+        mime: image/jpeg
+        bytes: 82676
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

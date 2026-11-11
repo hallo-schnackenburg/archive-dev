@@ -1,0 +1,39 @@
+id: 01F51QME0F0D9G72VDRXBG34KJ
+type: image
+subtype: print
+title: Lithographie Gemeindehaus
+description: Kupferstich, koloriert.
+date: 1895-02
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Fotos 19/380
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Laase
+    type: place
+  - name: Ladestraße
+    type: building
+files:
+  - role: main
+    original_name: scan_756.tif
+    path: files/58/31/5831d8686679c278d862a524cdd5e3abec630361430394da7fff0cc83fa3dec4/original.tif
+    sha256: 5831d8686679c278d862a524cdd5e3abec630361430394da7fff0cc83fa3dec4
+    mime: image/tiff
+    bytes: 8434107
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/58/31/5831d8686679c278d862a524cdd5e3abec630361430394da7fff0cc83fa3dec4/preview-400.5f9721fe3248.jpg
+        sha256: 5f9721fe324876298938409c97ef11d2bc8a682cb9d1b96fdadbed8a70e5c7bd
+        mime: image/jpeg
+        bytes: 28966
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

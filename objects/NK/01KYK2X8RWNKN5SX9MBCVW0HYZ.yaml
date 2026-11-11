@@ -1,0 +1,40 @@
+id: 01KYK2X8RWNKN5SX9MBCVW0HYZ
+type: image
+subtype: photo
+title: Elbstraße, Ecke Bahnhofstraße
+description: Zu sehen sind Kaufmannshaus und Molkerei.
+date: 1942-04-14
+location: Gorleben, Kirchstraße
+geocode:
+  lat: 53.0107
+  lon: 11.4731
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos/Album 8/042
+parents:
+  - 01J6CWVRW5ZWM3PCSZT7CG4EQA
+files:
+  - role: main
+    original_name: IMG_9015.jpg
+    path: files/41/60/4160c7a8bc0f057ce5c0542ef651222cc6e47ca6c72a9b4deb7a10e9953a542a/original.jpg
+    sha256: 4160c7a8bc0f057ce5c0542ef651222cc6e47ca6c72a9b4deb7a10e9953a542a
+    mime: image/jpeg
+    bytes: 2708901
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/41/60/4160c7a8bc0f057ce5c0542ef651222cc6e47ca6c72a9b4deb7a10e9953a542a/preview-400.a957f80a1ed9.jpg
+        sha256: a957f80a1ed9e8184835a18fdb533b34df5d642a3367203a01c9d3bae866b82c
+        mime: image/jpeg
+        bytes: 82772
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

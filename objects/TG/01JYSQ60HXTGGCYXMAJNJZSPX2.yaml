@@ -1,0 +1,40 @@
+id: 01JYSQ60HXTGGCYXMAJNJZSPX2
+type: image
+subtype: photo
+title: Konfirmation 1898
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1898"
+location: Gülden, Am Markt
+origin:
+  name: Fritz Garms
+  type: person
+  location: Dömitz
+subjects:
+  - name: Schlachtfest 1898
+    type: event
+  - name: Schlachtfest 1898
+    type: event
+  - name: Straßenfest 1898
+    type: event
+parents:
+  - 01EV4688KBXRNWBE8H1MYHF0WE
+files:
+  - role: main
+    original_name: foto_4684.jpg
+    path: files/ed/76/ed7604c126c13a3dbcb888b627d2ad1622ec7c35ab1bb2e55d031cc5dd7710ca/original.jpg
+    sha256: ed7604c126c13a3dbcb888b627d2ad1622ec7c35ab1bb2e55d031cc5dd7710ca
+    mime: image/jpeg
+    bytes: 1703823
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ed/76/ed7604c126c13a3dbcb888b627d2ad1622ec7c35ab1bb2e55d031cc5dd7710ca/preview-400.34a34f546b6c.jpg
+        sha256: 34a34f546b6c575edd307cfae31184d82b07ef47ab3725e399ad35747b82cc14
+        mime: image/jpeg
+        bytes: 62336
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

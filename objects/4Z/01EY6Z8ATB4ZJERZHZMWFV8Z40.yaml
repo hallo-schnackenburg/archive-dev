@@ -1,0 +1,50 @@
+id: 01EY6Z8ATB4ZJERZHZMWFV8Z40
+type: image
+subtype: photo
+title: Eisgang 1980
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1980-02-04
+location: Gartow, Schmiede
+origin:
+  name: Hermann Schulz
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 4/075
+owner:
+  name: Berta Voss
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Sturmschaden 1980
+    type: event
+  - name: Gorleben
+    type: place
+  - name: Tischlerei Bruns
+    type: building
+parents:
+  - 01J59Y3GT8EG81RDPY4TJCRWFY
+files:
+  - role: main
+    original_name: P5401.jpg
+    path: files/54/a5/54a53eb1355e9d46abebaa6592bdd889b65c74061fa4ef6370c04bad1cacb385/original.jpg
+    sha256: 54a53eb1355e9d46abebaa6592bdd889b65c74061fa4ef6370c04bad1cacb385
+    mime: image/jpeg
+    bytes: 2865692
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/54/a5/54a53eb1355e9d46abebaa6592bdd889b65c74061fa4ef6370c04bad1cacb385/preview-400.b91305201f9c.jpg
+        sha256: b91305201f9cd869e73ad03e0cfc5ab4e435726e03f2489905b809251c6afd48
+        mime: image/jpeg
+        bytes: 65044
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

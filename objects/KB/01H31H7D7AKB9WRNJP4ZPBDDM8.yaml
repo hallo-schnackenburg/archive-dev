@@ -1,0 +1,47 @@
+id: 01H31H7D7AKB9WRNJP4ZPBDDM8
+type: image
+subtype: photo
+title: Blick vom Tanzsaal auf das Wassermühle
+description: Abzug im Format 10 x 15 cm.
+date: 1936-03
+location: Dömitz, Windmühle
+geocode:
+  lat: 53.0718
+  lon: 11.4996
+  precision: street
+  source: osm
+origin:
+  name: Hermann Lemke
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Kellerarchiv
+subjects:
+  - name: Ernst Lüders
+    type: person
+  - name: Hans Bohlmann
+    type: person
+files:
+  - role: main
+    original_name: IMG_0976.jpg
+    path: files/d7/5b/d75b777370be53839e67b3a1dff66f5ca5500bfdd4a15c90d52b3ce52da7e963/original.jpg
+    sha256: d75b777370be53839e67b3a1dff66f5ca5500bfdd4a15c90d52b3ce52da7e963
+    mime: image/jpeg
+    bytes: 1792810
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/d7/5b/d75b777370be53839e67b3a1dff66f5ca5500bfdd4a15c90d52b3ce52da7e963/preview-400.2fcd02089da1.jpg
+        sha256: 2fcd02089da15330ee4ff3c7a8fc479628fa65ae93f1fdd7cc6d06835f3a21b2
+        mime: image/jpeg
+        bytes: 85287
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

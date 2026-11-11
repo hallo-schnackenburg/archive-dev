@@ -1,0 +1,35 @@
+id: 01HJRVAB1MK0K34N2WDYNAEYVG
+type: image
+subtype: plan
+title: Bauplan Storchennest 1904
+description: Tusche auf Transparentpapier.
+date: "1904"
+origin:
+  name: Gustav Sievers
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Ortsbesichtigung 1904
+    type: event
+  - name: Ilse Schulz
+    type: person
+files:
+  - role: main
+    original_name: scan_898.tif
+    path: files/f0/6b/f06b8ad521cb2b6b722c03721f93689721483cbf643cb8aa1ddfc9e846af1ffb/original.tif
+    sha256: f06b8ad521cb2b6b722c03721f93689721483cbf643cb8aa1ddfc9e846af1ffb
+    mime: image/tiff
+    bytes: 3643129
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f0/6b/f06b8ad521cb2b6b722c03721f93689721483cbf643cb8aa1ddfc9e846af1ffb/preview-400.6176b14cb1c3.jpg
+        sha256: 6176b14cb1c3bb013e27d18abc604be5be01bdc879dbb93e5b3b8adf643b7b94
+        mime: image/jpeg
+        bytes: 73890
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

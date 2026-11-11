@@ -1,0 +1,36 @@
+id: 01K5HFKHEATMNV1D3G65KS6Z46
+type: image
+subtype: photo
+title: Familie Bruns beim Hochwasser
+description: Abzug im Format 6 x 9 cm.
+location: Gorleben, Försterei
+geocode:
+  lat: 52.9017
+  lon: 11.5819
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Familie Nitschke
+    type: person
+    location: Restorf
+files:
+  - role: main
+    original_name: scan_871.tif
+    path: files/31/14/31146225f3aaf731db07ba0c297ccd4d6ef264ef7c4ed40c817f28750c37ff21/original.tif
+    sha256: 31146225f3aaf731db07ba0c297ccd4d6ef264ef7c4ed40c817f28750c37ff21
+    mime: image/tiff
+    bytes: 20305513
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/31/14/31146225f3aaf731db07ba0c297ccd4d6ef264ef7c4ed40c817f28750c37ff21/preview-400.2be0caa60d91.jpg
+        sha256: 2be0caa60d91c2ae59f95ebd1e0dadd3e957c0ad20683307f4ac42922c0877fc
+        mime: image/jpeg
+        bytes: 62016
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

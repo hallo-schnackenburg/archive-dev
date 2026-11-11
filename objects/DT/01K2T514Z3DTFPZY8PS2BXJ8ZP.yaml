@@ -1,0 +1,37 @@
+id: 01K2T514Z3DTFPZY8PS2BXJ8ZP
+type: image
+subtype: plan
+title: Bauplan Gasthof Meyer 1788
+description: Tusche auf Transparentpapier.
+date: 1788~
+origin:
+  name: August Ludolf
+  type: person
+  location: Lanz
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Pretzier
+    type: place
+  - name: Erntedankfest 1788
+    type: event
+files:
+  - role: main
+    original_name: scan_770.tif
+    path: files/89/65/89656e6adb7ab8ab97ccc7d01926e573e97fecda501e95d3aa0afb866ba0f78d/original.tif
+    sha256: 89656e6adb7ab8ab97ccc7d01926e573e97fecda501e95d3aa0afb866ba0f78d
+    mime: image/tiff
+    bytes: 21909903
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/89/65/89656e6adb7ab8ab97ccc7d01926e573e97fecda501e95d3aa0afb866ba0f78d/preview-400.0219e21d0cc6.jpg
+        sha256: 0219e21d0cc6a939bce18d537dd05cc51a0d5b81de4a5b71f97f31386351de71
+        mime: image/jpeg
+        bytes: 36516
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01GD3C9KB1V6HWHTQT97BC3Q87
+type: image
+subtype: drawing
+title: Skizze Seedorf, Gartenstraße
+date: "1825"
+location: Gartow, Friedhofskapelle
+origin:
+  name: Wilhelm Wiegmann
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  note: Planschrank, Fach 3
+subjects:
+  - name: Straßenfest 1825
+    type: event
+  - name: Laase
+    type: place
+  - name: Dorfschule
+    type: building
+parents:
+  - 01F54Y44HWBYAXTTC3F5NVVN21
+files:
+  - role: main
+    original_name: scan_982.tif
+    path: files/d3/04/d30485846ead27cba936269fe11a7c66f7c3bbba72230bfd3b2a4532262af16d/original.tif
+    sha256: d30485846ead27cba936269fe11a7c66f7c3bbba72230bfd3b2a4532262af16d
+    mime: image/tiff
+    bytes: 4770530
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d3/04/d30485846ead27cba936269fe11a7c66f7c3bbba72230bfd3b2a4532262af16d/preview-400.183c24e00137.jpg
+        sha256: 183c24e001376f26e70bc319ddea115b6c84aea3150f1b337c8b9dc27eda4350
+        mime: image/jpeg
+        bytes: 59157
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

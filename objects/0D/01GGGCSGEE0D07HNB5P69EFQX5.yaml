@@ -1,0 +1,47 @@
+id: 01GGGCSGEE0D07HNB5P69EFQX5
+type: image
+subtype: photo
+title: Erntedankfest der Posaunenchor
+description: Farbfoto, leicht verblasst.
+date: "1910"
+location: Salzwedel, Kaufmannshaus
+geocode:
+  lat: 52.9574
+  lon: 11.6085
+  precision: exact
+  source: osm
+origin:
+  name: Jürgen Hennings
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Familie Dreyer
+    type: person
+    location: Zadrau
+  reference: F 12/247
+subjects:
+  - name: Karl Rohde
+    type: person
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: IMG_4810.jpg
+    path: files/fb/f7/fbf757b7fffc75f6da26d071f15ab29d7aeb9e05f2ef0560156dd22062c5548e/original.jpg
+    sha256: fbf757b7fffc75f6da26d071f15ab29d7aeb9e05f2ef0560156dd22062c5548e
+    mime: image/jpeg
+    bytes: 17647413
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/fb/f7/fbf757b7fffc75f6da26d071f15ab29d7aeb9e05f2ef0560156dd22062c5548e/preview-400.38a1e7b4edb3.jpg
+        sha256: 38a1e7b4edb3e47b4c18a68afc6d666b47457e147380539a9118fd84613d4437
+        mime: image/jpeg
+        bytes: 44105
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

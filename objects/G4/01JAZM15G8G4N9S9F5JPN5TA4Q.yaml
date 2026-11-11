@@ -1,0 +1,41 @@
+id: 01JAZM15G8G4N9S9F5JPN5TA4Q
+type: image
+subtype: print
+title: Postkarte Havelberg, Bäckerei Lüders
+description: Kupferstich, koloriert.
+date: 1838-04-01
+origin:
+  name: Gerda Bohlmann
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 25/132
+subjects:
+  - name: Lanz
+    type: place
+parents:
+  - 01KBCYJZPX2SPV1MBZZ3QST2X6
+files:
+  - role: main
+    original_name: scan_911.tif
+    path: files/52/6a/526ab288ef8b7f93959a555d551c67efd4b5fb833eccfa174deb52be7954afab/original.tif
+    sha256: 526ab288ef8b7f93959a555d551c67efd4b5fb833eccfa174deb52be7954afab
+    mime: image/tiff
+    bytes: 17635996
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/52/6a/526ab288ef8b7f93959a555d551c67efd4b5fb833eccfa174deb52be7954afab/preview-400.77a60083dc18.jpg
+        sha256: 77a60083dc189b55e97d5f9ee1ec66e8d3c7fa33c27ec0619dc6f90d3a6ed9a7
+        mime: image/jpeg
+        bytes: 37243
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

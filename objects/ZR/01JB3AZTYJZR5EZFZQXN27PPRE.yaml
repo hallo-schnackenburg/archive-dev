@@ -1,0 +1,31 @@
+id: 01JB3AZTYJZR5EZFZQXN27PPRE
+type: image
+subtype: print
+title: Postkarte Holtorf, Ziegelei
+description: Kupferstich, koloriert.
+date: 1872-08
+location: Salzwedel, Tischlerei Bruns
+origin:
+  name: August Brandt
+  type: person
+  location: Kapern
+files:
+  - role: main
+    original_name: scan_608.tif
+    path: files/17/67/176766d5b6a9e723bab98a4d4079c39fb538f4e221bd7342d107c2a9dadf0221/original.tif
+    sha256: 176766d5b6a9e723bab98a4d4079c39fb538f4e221bd7342d107c2a9dadf0221
+    mime: image/tiff
+    bytes: 6640550
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/17/67/176766d5b6a9e723bab98a4d4079c39fb538f4e221bd7342d107c2a9dadf0221/preview-400.4bed6cc38f3f.jpg
+        sha256: 4bed6cc38f3f80cb1434fd8b81d341087217284bd7687a136cc754344768bca2
+        mime: image/jpeg
+        bytes: 33774
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

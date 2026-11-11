@@ -1,0 +1,36 @@
+id: 01GXF9ZWQ5R4GM5AF0VM980EAT
+type: image
+subtype: drawing
+title: Federzeichnung Schützenhaus
+description: Bleistift auf Papier.
+date: 1981-02-21
+location: Wustrow, Kirchstraße
+geocode:
+  lat: 53.0033
+  lon: 11.6458
+  precision: street
+  source: osm
+origin:
+  name: Käthe Krüger
+  type: person
+  location: Arendsee
+files:
+  - role: main
+    original_name: scan_580.tif
+    path: files/71/d8/71d8aaf4200cd4dc77b683af3b97d7bb20ffbd05be403f7af47635f757824e74/original.tif
+    sha256: 71d8aaf4200cd4dc77b683af3b97d7bb20ffbd05be403f7af47635f757824e74
+    mime: image/tiff
+    bytes: 11996788
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/71/d8/71d8aaf4200cd4dc77b683af3b97d7bb20ffbd05be403f7af47635f757824e74/preview-400.a026af683861.jpg
+        sha256: a026af6838610203829f07faac5599c1ec0987eacfa98fb295c711de6b401c93
+        mime: image/jpeg
+        bytes: 73062
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

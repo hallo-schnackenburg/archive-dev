@@ -1,0 +1,37 @@
+id: 01K62Y84J4W0GADF80AJ8QCTZ4
+type: image
+subtype: photo
+title: Beerdigung 1960
+description: Farbfoto, leicht verblasst.
+date: 1960-01
+origin:
+  name: Heinrich Plate
+  type: person
+  location: Pretzier
+subjects:
+  - name: Schlachtfest 1960
+    type: event
+  - name: Karl Schwarz
+    type: person
+parents:
+  - 01EWYE51ZQTFTFRZH9QFSNZE0B
+files:
+  - role: main
+    original_name: DSC9518.jpg
+    path: files/26/6d/266d89bf759309422b2e0eef55fbeae2ef639278f3a053d858d76ac1448b1a00/original.jpg
+    sha256: 266d89bf759309422b2e0eef55fbeae2ef639278f3a053d858d76ac1448b1a00
+    mime: image/jpeg
+    bytes: 26429117
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/26/6d/266d89bf759309422b2e0eef55fbeae2ef639278f3a053d858d76ac1448b1a00/preview-400.27787890efbb.jpg
+        sha256: 27787890efbb447b743a198b08111eda01713748a3b461f4ee224b4ef3b3c87d
+        mime: image/jpeg
+        bytes: 22843
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

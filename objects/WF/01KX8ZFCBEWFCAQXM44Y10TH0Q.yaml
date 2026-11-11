@@ -1,0 +1,35 @@
+id: 01KX8ZFCBEWFCAQXM44Y10TH0Q
+type: image
+subtype: photo
+title: Familie Lüders beim Osterfeuer
+description: Zu sehen sind Schützenhaus und Schlachterei.
+date: "1960"
+origin:
+  name: Karl Wegner
+  type: person
+  location: Havelberg
+subjects:
+  - name: Dorfteich
+    type: building
+parents:
+  - 01JJ7ZAGDW4T3Y162XJ5VXZV21
+files:
+  - role: main
+    original_name: IMG_8720.jpg
+    path: files/6d/6d/6d6d596fd94fdf92aafd84237346f150508db54c9c64bf82df550376d2b92694/original.jpg
+    sha256: 6d6d596fd94fdf92aafd84237346f150508db54c9c64bf82df550376d2b92694
+    mime: image/jpeg
+    bytes: 26090895
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/6d/6d/6d6d596fd94fdf92aafd84237346f150508db54c9c64bf82df550376d2b92694/preview-400.f647b5da2f79.jpg
+        sha256: f647b5da2f79a846b07184bf107b14ea35a8aa0006ff43dca837bef370b4fec0
+        mime: image/jpeg
+        bytes: 82565
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

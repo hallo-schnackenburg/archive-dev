@@ -1,0 +1,50 @@
+id: 01J6DNVD7N1PHPWDFK9PV1T9MV
+type: document
+subtype: letter
+title: Korrespondenz Emma Plate
+description: Betrifft Brandversicherung.
+date: 1912-05-13
+location: Gorleben, Schulstraße
+geocode:
+  lat: 53.0239
+  lon: 11.5602
+  precision: town
+  source: osm
+origin:
+  name: Gerda Meyer
+  type: person
+  location: Dömitz
+recipient: Walter Wegner
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: F/Mappe 23/051
+subjects:
+  - name: Konfirmation 1912
+    type: event
+  - name: Badestelle
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: letter_v1t9mv_001.tif
+    path: files/86/f0/86f0881c4ecad20393f11d82676795f88167f28437daaa2895fd5b37f09ca1c4/original.tif
+    sha256: 86f0881c4ecad20393f11d82676795f88167f28437daaa2895fd5b37f09ca1c4
+    mime: image/tiff
+    bytes: 14584400
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/f0/86f0881c4ecad20393f11d82676795f88167f28437daaa2895fd5b37f09ca1c4/preview-400.391c54c69fb5.jpg
+        sha256: 391c54c69fb5d142b84fe2721de878c6db07308c0fff1cc9787b612e0d2ab6fd
+        mime: image/jpeg
+        bytes: 44496
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

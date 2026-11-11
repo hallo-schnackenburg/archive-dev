@@ -1,0 +1,45 @@
+id: 01KS3VPDQYWYGNHKKEY9P3FA6C
+type: image
+subtype: print
+title: Lithographie Tanzsaal, Wittenberge
+description: Kupferstich, koloriert.
+date: 1775?
+location: Pretzier, Schulstraße
+geocode:
+  lat: 53.0612
+  lon: 11.6733
+  precision: town
+  source: osm
+origin:
+  name: Helga Rohde
+  type: person
+  location: Seedorf
+owner:
+  name: Hans Tiedemann
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Sportplatz
+    type: building
+parents:
+  - 01H4PN30WRRJ626WVNCSGETHA9
+files:
+  - role: main
+    original_name: scan_755.tif
+    path: files/16/1d/161dad2402d65fe85e2ff876c73db4ed6d8779f255e357b4c257f3cf5c6c7569/original.tif
+    sha256: 161dad2402d65fe85e2ff876c73db4ed6d8779f255e357b4c257f3cf5c6c7569
+    mime: image/tiff
+    bytes: 24553806
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/16/1d/161dad2402d65fe85e2ff876c73db4ed6d8779f255e357b4c257f3cf5c6c7569/preview-400.38507e26d63b.jpg
+        sha256: 38507e26d63bd9f3e68a6b72e2560255fac8f0b19bd8edac190d21b58403ff63
+        mime: image/jpeg
+        bytes: 48800
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

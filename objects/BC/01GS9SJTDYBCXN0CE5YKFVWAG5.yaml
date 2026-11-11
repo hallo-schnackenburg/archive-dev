@@ -1,0 +1,39 @@
+id: 01GS9SJTDYBCXN0CE5YKFVWAG5
+type: image
+subtype: plan
+title: Bauplan Molkerei 1775
+date: 1775-06
+origin:
+  name: Käthe Garms
+  type: person
+  location: Lenzen
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Restorf
+    type: place
+  - name: Brückeneinweihung 1775
+    type: event
+parents:
+  - 01F5CJH4Q7NJEW1D0ZXEW20ZNC
+  - 01F0QYSCYKSTCN1NTYT6RNDCR9
+files:
+  - role: main
+    original_name: scan_396.tif
+    path: files/af/96/af969f1c54321b44274863aa40ce6ae3ef298d3ae281be0919b6ae62c0bb95a5/original.tif
+    sha256: af969f1c54321b44274863aa40ce6ae3ef298d3ae281be0919b6ae62c0bb95a5
+    mime: image/tiff
+    bytes: 10873911
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/af/96/af969f1c54321b44274863aa40ce6ae3ef298d3ae281be0919b6ae62c0bb95a5/preview-400.104968e36f35.jpg
+        sha256: 104968e36f3537b4a20b52548b8c4151502ba8885000141b2223c012a054f12a
+        mime: image/jpeg
+        bytes: 72669
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

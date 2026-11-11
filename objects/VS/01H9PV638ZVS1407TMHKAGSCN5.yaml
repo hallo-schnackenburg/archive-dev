@@ -1,0 +1,61 @@
+id: 01H9PV638ZVS1407TMHKAGSCN5
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Wittenberge 1899
+origin:
+  name: Schulvorstand Cumlosen
+  type: business
+  location: Salzwedel
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Mappe 29/119
+subjects:
+  - name: Fritz Meyer
+    type: person
+  - name: Kapern
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: protocol_agscn5_001.tif
+    path: files/ae/cd/aecd55d0d43ed406e8e216999ba66d763e4cdaa7ea3213bdd9363bd026de6a28/original.tif
+    sha256: aecd55d0d43ed406e8e216999ba66d763e4cdaa7ea3213bdd9363bd026de6a28
+    mime: image/tiff
+    bytes: 745653
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ae/cd/aecd55d0d43ed406e8e216999ba66d763e4cdaa7ea3213bdd9363bd026de6a28/preview-400.bab464cba0a8.jpg
+        sha256: bab464cba0a82d70752a1f575dda087d98dcedd53f7d2b810bdb49e8ad966a26
+        mime: image/jpeg
+        bytes: 25010
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_agscn5_002.tif
+    path: files/a8/86/a886d0a86d20603030cf35e16ae4b240a9c070ecb094edcb8a2cef9bf4f5e82d/original.tif
+    sha256: a886d0a86d20603030cf35e16ae4b240a9c070ecb094edcb8a2cef9bf4f5e82d
+    mime: image/tiff
+    bytes: 20902774
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a8/86/a886d0a86d20603030cf35e16ae4b240a9c070ecb094edcb8a2cef9bf4f5e82d/preview-400.6e03acc4b6cb.jpg
+        sha256: 6e03acc4b6cb946b4e90ce75f90a20e03faf4afda598f1de74e3c464b20f0fff
+        mime: image/jpeg
+        bytes: 69435
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

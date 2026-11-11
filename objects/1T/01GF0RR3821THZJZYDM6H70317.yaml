@@ -1,0 +1,60 @@
+id: 01GF0RR3821THZJZYDM6H70317
+type: document
+subtype: letter
+title: Gesuch um Marktgebühren
+date: 1984-01
+location: Dömitz, Am Markt
+geocode:
+  lat: 53.0801
+  lon: 11.4606
+  precision: town
+  source: osm
+origin:
+  name: Dieter Fricke
+  type: person
+  location: Bömenzien
+recipient: Frieda Lemke
+subjects:
+  - name: Brünkendorf
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_h70317_001.tif
+    path: files/e1/69/e16986f683d816a8e95033df8390a93c6413263d3b0f31d4a51771a8d5a9951b/original.tif
+    sha256: e16986f683d816a8e95033df8390a93c6413263d3b0f31d4a51771a8d5a9951b
+    mime: image/tiff
+    bytes: 2501641
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e1/69/e16986f683d816a8e95033df8390a93c6413263d3b0f31d4a51771a8d5a9951b/preview-400.12da8d58265d.jpg
+        sha256: 12da8d58265d520f9b3f6c3f878b154fc23e99d3db5ac0481f4d13b1b6d3ae65
+        mime: image/jpeg
+        bytes: 50545
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_h70317_002.tif
+    path: files/27/f7/27f7ba23245579d553ec777538b2a231de71a5ec8059cdb67bd6741ff7bc1f28/original.tif
+    sha256: 27f7ba23245579d553ec777538b2a231de71a5ec8059cdb67bd6741ff7bc1f28
+    mime: image/tiff
+    bytes: 23013678
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/27/f7/27f7ba23245579d553ec777538b2a231de71a5ec8059cdb67bd6741ff7bc1f28/preview-400.ccb5d3a4ec33.jpg
+        sha256: ccb5d3a4ec338eb6eea885fd31c2b7553c7c107216799f0e7d18c2016ed7ae59
+        mime: image/jpeg
+        bytes: 44556
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

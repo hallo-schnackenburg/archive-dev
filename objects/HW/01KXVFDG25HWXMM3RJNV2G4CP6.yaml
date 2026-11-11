@@ -1,0 +1,36 @@
+id: 01KXVFDG25HWXMM3RJNV2G4CP6
+type: image
+subtype: drawing
+title: Skizze Zadrau, Marktstraße
+date: "1896"
+origin:
+  name: Friedrich Rieke
+  type: person
+  location: Havelberg
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Otto Ludolf
+    type: person
+parents:
+  - 01FPG45DMCQ4FJ212ZPBZF1YR1
+files:
+  - role: main
+    original_name: scan_988.tif
+    path: files/26/8f/268f87c2323a424b73ca7e6953e9878cd1af2faf5a374dc5a55f6384b0c0c749/original.tif
+    sha256: 268f87c2323a424b73ca7e6953e9878cd1af2faf5a374dc5a55f6384b0c0c749
+    mime: image/tiff
+    bytes: 6321536
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/26/8f/268f87c2323a424b73ca7e6953e9878cd1af2faf5a374dc5a55f6384b0c0c749/preview-400.7c126877bd2f.jpg
+        sha256: 7c126877bd2ff2f37ec774dfae10264af24bc0f24006cdc0954c942a6347cf71
+        mime: image/jpeg
+        bytes: 41220
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

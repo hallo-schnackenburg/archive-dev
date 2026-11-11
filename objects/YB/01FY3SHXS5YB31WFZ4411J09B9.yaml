@@ -1,0 +1,33 @@
+id: 01FY3SHXS5YB31WFZ4411J09B9
+type: image
+subtype: print
+title: Postkarte Salzwedel, Elbdeich
+description: Kupferstich, koloriert.
+date: "1919"
+origin:
+  name: Erika Lemke
+  type: person
+  location: Zadrau
+subjects:
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: scan_836.tif
+    path: files/d8/37/d837b5d18f8ec0b8cfc281480fa536dc8a7ba102af436d1f9b3323643462ef1f/original.tif
+    sha256: d837b5d18f8ec0b8cfc281480fa536dc8a7ba102af436d1f9b3323643462ef1f
+    mime: image/tiff
+    bytes: 6222075
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d8/37/d837b5d18f8ec0b8cfc281480fa536dc8a7ba102af436d1f9b3323643462ef1f/preview-400.b2fc9eb450b2.jpg
+        sha256: b2fc9eb450b2e66db7c63523a97c455ce8918767a5f9c363b4a8ed2fd34d6ef3
+        mime: image/jpeg
+        bytes: 59139
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01GFVDGTBKC6WP1FC5ZV8BJTF1
+type: image
+subtype: photo
+title: Grenzturm in Wootz
+description: Farbfoto, leicht verblasst.
+date: "1953"
+location: Arendsee, Lange Straße
+origin:
+  name: Ilse Tiedemann
+  type: person
+  location: Lanz
+subjects:
+  - name: Kirmes 1953
+    type: event
+  - name: Rüterberg
+    type: place
+files:
+  - role: main
+    original_name: scan_357.tif
+    path: files/bc/8e/bc8e438f98c637522686e5dc470c29f72f0ce8d5366c8f7ec00a63b4b9b2a7fb/original.tif
+    sha256: bc8e438f98c637522686e5dc470c29f72f0ce8d5366c8f7ec00a63b4b9b2a7fb
+    mime: image/tiff
+    bytes: 15146623
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bc/8e/bc8e438f98c637522686e5dc470c29f72f0ce8d5366c8f7ec00a63b4b9b2a7fb/preview-400.fa10c25feb0d.jpg
+        sha256: fa10c25feb0df5d45a5be356547d24c548d44ba68ef7835f0d80916be2d198f6
+        mime: image/jpeg
+        bytes: 86383
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

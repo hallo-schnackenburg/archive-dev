@@ -1,0 +1,60 @@
+id: 01H64411ZV3MT8V83K9EZ7GAAJ
+type: document
+subtype: letter
+title: Zeugnis für Erika Gaede
+date: "1864"
+origin:
+  name: Ernst Heuer
+  type: person
+  location: Zadrau
+recipient: Anni Krüger
+language: de
+subjects:
+  - name: Frieda Voss
+    type: person
+  - name: Ortsbesichtigung 1864
+    type: event
+parents:
+  - 01FKRCJXM1WMJBH86NTRWPP373
+  - 01FAQ3AREZBKTAGHNPJF8ZYQP7
+files:
+  - role: page
+    num: 1
+    original_name: letter_z7gaaj_001.tif
+    path: files/cd/8f/cd8fd1541161c5252b7d1e73c0884b7d7253668b972be157773a97cf33180bec/original.tif
+    sha256: cd8fd1541161c5252b7d1e73c0884b7d7253668b972be157773a97cf33180bec
+    mime: image/tiff
+    bytes: 3294257
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cd/8f/cd8fd1541161c5252b7d1e73c0884b7d7253668b972be157773a97cf33180bec/preview-400.e7d481912dd6.jpg
+        sha256: e7d481912dd6fde54025de344696879aa38676977dc243134c9c5f1b5aa84755
+        mime: image/jpeg
+        bytes: 62755
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_z7gaaj_002.tif
+    path: files/fc/98/fc98608a4470d8832f6af215ca9a716ee566cc4ca9887252360e2efab073ab01/original.tif
+    sha256: fc98608a4470d8832f6af215ca9a716ee566cc4ca9887252360e2efab073ab01
+    mime: image/tiff
+    bytes: 3024206
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/98/fc98608a4470d8832f6af215ca9a716ee566cc4ca9887252360e2efab073ab01/preview-400.3fb1d4d9f2bd.jpg
+        sha256: 3fb1d4d9f2bdae795af861d5cd5159d8e49a502b3543b0931989c76a8b4ae254
+        mime: image/jpeg
+        bytes: 84632
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

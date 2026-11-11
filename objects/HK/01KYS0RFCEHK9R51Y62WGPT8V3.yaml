@@ -1,0 +1,48 @@
+id: 01KYS0RFCEHK9R51Y62WGPT8V3
+type: image
+subtype: photo
+title: Familie Cohrs beim Grenzöffnung
+location: Seedorf, Hafenstraße
+geocode:
+  lat: 53.0197
+  lon: 11.6995
+  precision: street
+  source: osm
+origin:
+  name: Karl Garms
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Familie Ahrens
+    type: person
+    location: Salzwedel
+subjects:
+  - name: Einschulung 1977
+    type: event
+  - name: Lüchow
+    type: place
+  - name: Einweihung 1977
+    type: event
+parents:
+  - 01HR8855DCCGBPN12NSBDQW8VK
+files:
+  - role: main
+    original_name: DSC2098.jpg
+    path: files/05/50/0550e1a7df0721ccf60c47b3289a8f3484077a1974dd1871de0ed1f7a55b7584/original.jpg
+    sha256: 0550e1a7df0721ccf60c47b3289a8f3484077a1974dd1871de0ed1f7a55b7584
+    mime: image/jpeg
+    bytes: 12389978
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/05/50/0550e1a7df0721ccf60c47b3289a8f3484077a1974dd1871de0ed1f7a55b7584/preview-400.e35b5d1f2a49.jpg
+        sha256: e35b5d1f2a493a5486a946276094d80b67cbfa6d2e5b74d02876484c9d6e29e8
+        mime: image/jpeg
+        bytes: 20723
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

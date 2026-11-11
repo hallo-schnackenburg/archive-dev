@@ -1,0 +1,37 @@
+id: 01EXSDD62R6404Z7N9TR3HETST
+type: image
+subtype: photo
+title: Kaufmannshaus in Nienwalde
+location: Nienwalde, Deichstraße
+origin:
+  name: Paul Detlefs
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 7/099
+parents:
+  - 01HPH5JAF3E8TMGWEPVY0VVSZH
+files:
+  - role: main
+    original_name: scan_093.tif
+    path: files/1b/07/1b0739b954e2a4087fdcdf9d32a3928f29b944faa015ec80d90322a8608afeac/original.tif
+    sha256: 1b0739b954e2a4087fdcdf9d32a3928f29b944faa015ec80d90322a8608afeac
+    mime: image/tiff
+    bytes: 7948642
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1b/07/1b0739b954e2a4087fdcdf9d32a3928f29b944faa015ec80d90322a8608afeac/preview-400.5f40b7b39988.jpg
+        sha256: 5f40b7b399888cdfbe98971e398db7991b1259e9d86948bbb04eae667af3c2fb
+        mime: image/jpeg
+        bytes: 88403
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

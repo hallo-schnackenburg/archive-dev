@@ -1,0 +1,47 @@
+id: 01GKS1NY2Q5SGBC79PNRC1QJNF
+type: image
+subtype: photo
+title: Familie Hennings beim Fährjubiläum
+date: 197X
+location: Wootz, Försterei
+geocode:
+  lat: 52.9266
+  lon: 11.5416
+  precision: exact
+  source: osm
+origin:
+  name: Anni Schulz
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Regal 4, Kiste 2
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v29553
+subjects:
+  - name: Einschulung 1970
+    type: event
+parents:
+  - 01JTPFAGJV7HD3HHWGXV6FNT27
+files:
+  - role: main
+    original_name: foto_7524.jpg
+    path: files/7e/84/7e845d8639744d2e1b5e1ca575bb9a643eca46ebc5fa5319ea2614f1ccc99bf9/original.jpg
+    sha256: 7e845d8639744d2e1b5e1ca575bb9a643eca46ebc5fa5319ea2614f1ccc99bf9
+    mime: image/jpeg
+    bytes: 19773969
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/7e/84/7e845d8639744d2e1b5e1ca575bb9a643eca46ebc5fa5319ea2614f1ccc99bf9/preview-400.7b21c99da27a.jpg
+        sha256: 7b21c99da27a49076146c29d4e3cb48275452a5386233b940d33c44d1a2d0522
+        mime: image/jpeg
+        bytes: 56845
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

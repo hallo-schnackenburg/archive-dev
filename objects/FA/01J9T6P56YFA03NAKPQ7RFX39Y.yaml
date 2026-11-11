@@ -1,0 +1,41 @@
+id: 01J9T6P56YFA03NAKPQ7RFX39Y
+type: image
+subtype: drawing
+title: Wassermühle, Aquarell, Lüchow
+date: 1958-08-13
+location: Dömitz, Schulstraße
+geocode:
+  lat: 52.9212
+  lon: 11.5118
+  precision: town
+  source: osm
+origin:
+  name: Walter Lemke
+  type: person
+  location: Arendsee
+owner:
+  name: Karl Schulz
+  type: person
+  note: Nachlass
+parents:
+  - 01H36RTMJEX4S0EGJJ5ANSCJNW
+files:
+  - role: main
+    original_name: scan_220.tif
+    path: files/7c/1d/7c1dfcabbbff1576cd783b4aa1cb540e6384b8d17901a7b83dab2ad27d99b2a9/original.tif
+    sha256: 7c1dfcabbbff1576cd783b4aa1cb540e6384b8d17901a7b83dab2ad27d99b2a9
+    mime: image/tiff
+    bytes: 6837691
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7c/1d/7c1dfcabbbff1576cd783b4aa1cb540e6384b8d17901a7b83dab2ad27d99b2a9/preview-400.4eb63cba07f4.jpg
+        sha256: 4eb63cba07f4d35084fa81e326d371c1774d564ba1aabdfbe3ed9c51164f65d4
+        mime: image/jpeg
+        bytes: 64997
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

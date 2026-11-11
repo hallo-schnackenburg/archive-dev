@@ -1,0 +1,31 @@
+id: 01H5RYX6WZ9884S0HTYB4AWDQH
+type: image
+subtype: plan
+title: Grundriss Tanzsaal
+description: Mit handschriftlichen Ergänzungen.
+origin:
+  name: Walter Neumann
+  type: person
+  location: Schnackenburg
+parents:
+  - 01K7A9XBEKBQ32YCR4HNDFGW06
+files:
+  - role: main
+    original_name: scan_048.tif
+    path: files/14/52/1452f1da80fd030e3032ebd4c9a487fbd6b42c548200dec1e1322f21bfc07e1d/original.tif
+    sha256: 1452f1da80fd030e3032ebd4c9a487fbd6b42c548200dec1e1322f21bfc07e1d
+    mime: image/tiff
+    bytes: 27920708
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/52/1452f1da80fd030e3032ebd4c9a487fbd6b42c548200dec1e1322f21bfc07e1d/preview-400.de1aa35ae652.jpg
+        sha256: de1aa35ae6522a9a55060fe5447da62c443544cb95b285d25e58696bcb079120
+        mime: image/jpeg
+        bytes: 50705
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

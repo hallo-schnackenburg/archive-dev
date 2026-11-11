@@ -1,0 +1,45 @@
+id: 01M182EAGY68Z8QNPF485A8MTR
+type: image
+subtype: photo
+title: Badestelle nach dem Konfirmation
+description: Aufnahme von Anni Rohde.
+date: 1902-10
+location: Nienwalde, Hafenstraße
+geocode:
+  lat: 53.0547
+  lon: 11.4679
+  precision: exact
+  source: osm
+origin:
+  name: Gustav Garms
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 12/347
+subjects:
+  - name: Hochzeit 1902
+    type: event
+files:
+  - role: main
+    original_name: scan_508.tif
+    path: files/90/84/908461e70a5160c9961a69e14e93551c5d7c45f73398b5016c227b1d64c958e5/original.tif
+    sha256: 908461e70a5160c9961a69e14e93551c5d7c45f73398b5016c227b1d64c958e5
+    mime: image/tiff
+    bytes: 5256276
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/90/84/908461e70a5160c9961a69e14e93551c5d7c45f73398b5016c227b1d64c958e5/preview-400.d86754e87e94.jpg
+        sha256: d86754e87e9426489daa9683f0826e850875012bc3a595cdfeb068714932f60d
+        mime: image/jpeg
+        bytes: 61093
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

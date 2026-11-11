@@ -1,0 +1,44 @@
+id: 01HE6982T7WW3J60FQAXS7AMXX
+type: image
+subtype: photo
+title: Tanzsaal in Zadrau
+description: Farbfoto, leicht verblasst.
+date: 1924-02
+location: Wootz, Marktstraße
+geocode:
+  lat: 53.0376
+  lon: 11.6026
+  precision: region
+  source: osm
+origin:
+  name: Paul Hennings
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Wustrow
+    type: place
+files:
+  - role: main
+    original_name: IMG_9830.jpg
+    path: files/3f/f2/3ff24231c35fdc7a1cece12f188f6d27fa1bed64c86f74fe410a07e36f5519ec/original.jpg
+    sha256: 3ff24231c35fdc7a1cece12f188f6d27fa1bed64c86f74fe410a07e36f5519ec
+    mime: image/jpeg
+    bytes: 27359572
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/3f/f2/3ff24231c35fdc7a1cece12f188f6d27fa1bed64c86f74fe410a07e36f5519ec/preview-400.d68e7ab173ad.jpg
+        sha256: d68e7ab173ad4e3c6aa3a7ae49faeeb94a096b6401bb65b268068a447e5bfb30
+        mime: image/jpeg
+        bytes: 31655
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,65 @@
+id: 01GMXSR96KGQYD489A36J1EHVW
+type: document
+subtype: note
+title: Rechnung Gaede, Wassermühle
+date: 2008-05-24
+location: Holtorf, Dorfstraße
+geocode:
+  lat: 53.0449
+  lon: 11.4542
+  precision: region
+  source: osm
+origin:
+  name: August Brandt
+  type: person
+  location: Nienwalde
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 7/104
+parents:
+  - 01GG9H557FNKNNHZ67KS9WW423
+files:
+  - role: page
+    num: 1
+    original_name: note_j1ehvw_001.tif
+    path: files/f9/b0/f9b0f83cac30e811ee3b726244cbb811c6b673591b651265d3ed03747c90baac/original.tif
+    sha256: f9b0f83cac30e811ee3b726244cbb811c6b673591b651265d3ed03747c90baac
+    mime: image/tiff
+    bytes: 8241511
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f9/b0/f9b0f83cac30e811ee3b726244cbb811c6b673591b651265d3ed03747c90baac/preview-400.50b38d2a9589.jpg
+        sha256: 50b38d2a958990fc0794412483a98cd0ff94e2ff7044efb1126f5d16cae67238
+        mime: image/jpeg
+        bytes: 78085
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_j1ehvw_002.tif
+    path: files/73/e0/73e05da1b32359a5fd419076f7e6a30a7853f35379c0fc802878a43b622f1379/original.tif
+    sha256: 73e05da1b32359a5fd419076f7e6a30a7853f35379c0fc802878a43b622f1379
+    mime: image/tiff
+    bytes: 4049250
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/73/e0/73e05da1b32359a5fd419076f7e6a30a7853f35379c0fc802878a43b622f1379/preview-400.d50cb47d11e8.jpg
+        sha256: d50cb47d11e8870affbc3c4bab47d8d6b53ff823a443e6612fb9c513be502e05
+        mime: image/jpeg
+        bytes: 20030
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

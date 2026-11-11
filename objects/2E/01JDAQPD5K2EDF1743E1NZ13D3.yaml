@@ -1,0 +1,41 @@
+id: 01JDAQPD5K2EDF1743E1NZ13D3
+type: image
+subtype: photo
+title: Familie Plate beim Hochzeit
+description: Farbfoto, leicht verblasst.
+date: 1992?
+location: Wustrow, Hafen
+geocode:
+  lat: 52.9599
+  lon: 11.5565
+  precision: street
+  source: osm
+origin:
+  name: Erika Harms
+  type: person
+  location: Seedorf
+subjects:
+  - name: Storchennest
+    type: building
+  - name: Pfarrhaus
+    type: building
+files:
+  - role: main
+    original_name: P6668.jpg
+    path: files/e7/5b/e75b84cbca0eba1d03b9e5779ca4f97239bf2ea1e1d52132178da45f731c0036/original.jpg
+    sha256: e75b84cbca0eba1d03b9e5779ca4f97239bf2ea1e1d52132178da45f731c0036
+    mime: image/jpeg
+    bytes: 894570
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/e7/5b/e75b84cbca0eba1d03b9e5779ca4f97239bf2ea1e1d52132178da45f731c0036/preview-400.c1595ce45845.jpg
+        sha256: c1595ce458456ed6909f52c1e76dc1bcd227dbeef795443be3e7f24cf336a503
+        mime: image/jpeg
+        bytes: 65076
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

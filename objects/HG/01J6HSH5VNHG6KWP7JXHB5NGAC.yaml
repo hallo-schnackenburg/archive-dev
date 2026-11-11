@@ -1,0 +1,62 @@
+id: 01J6HSH5VNHG6KWP7JXHB5NGAC
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Laase 1989
+description: Handschriftlich in Sütterlin.
+date: 1989-07-12
+location: Wustrow, Schulstraße
+origin:
+  name: Schulvorstand Arendsee
+  type: business
+  location: Holtorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Schützenhaus
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: protocol_b5ngac_001.tif
+    path: files/67/0f/670ffc6e72efd0395facbe1dbbdd0f8b674ba9176c1d3ea83ef6705a06a918a6/original.tif
+    sha256: 670ffc6e72efd0395facbe1dbbdd0f8b674ba9176c1d3ea83ef6705a06a918a6
+    mime: image/tiff
+    bytes: 24059375
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/67/0f/670ffc6e72efd0395facbe1dbbdd0f8b674ba9176c1d3ea83ef6705a06a918a6/preview-400.002894e39b66.jpg
+        sha256: 002894e39b66a73e8f7c8ecc74701655c967b65cc1e8b3f339c0d41e9cdd977d
+        mime: image/jpeg
+        bytes: 53769
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_b5ngac_002.tif
+    path: files/83/36/8336aa8c089813dd5b89e84419b0096a6c5ee6d63e70f76d3615a3b03e04fff4/original.tif
+    sha256: 8336aa8c089813dd5b89e84419b0096a6c5ee6d63e70f76d3615a3b03e04fff4
+    mime: image/tiff
+    bytes: 1166413
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/83/36/8336aa8c089813dd5b89e84419b0096a6c5ee6d63e70f76d3615a3b03e04fff4/preview-400.e6109da3cf5e.jpg
+        sha256: e6109da3cf5e9608ea6f282b9aec8d267bf42902ec57ddb616038c91dce3bc01
+        mime: image/jpeg
+        bytes: 22907
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

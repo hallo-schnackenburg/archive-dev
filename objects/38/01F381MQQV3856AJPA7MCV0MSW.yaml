@@ -1,0 +1,37 @@
+id: 01F381MQQV3856AJPA7MCV0MSW
+type: image
+subtype: plan
+title: Bauplan Elbdeich 1758
+description: Tusche auf Transparentpapier.
+date: 1758-03-14
+origin:
+  name: Klaus Dierks
+  type: person
+  location: Laase
+subjects:
+  - name: Friedhofskapelle
+    type: building
+  - name: Kapern
+    type: place
+parents:
+  - 01M1D2FGQR97JS2R2G2HQVPQ5E
+files:
+  - role: main
+    original_name: scan_743.tif
+    path: files/fe/5b/fe5b63c498d4708dcc96201cb970a13b3f579b712f95311c12cbad0a1e6f73d2/original.tif
+    sha256: fe5b63c498d4708dcc96201cb970a13b3f579b712f95311c12cbad0a1e6f73d2
+    mime: image/tiff
+    bytes: 4071978
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fe/5b/fe5b63c498d4708dcc96201cb970a13b3f579b712f95311c12cbad0a1e6f73d2/preview-400.91011532b288.jpg
+        sha256: 91011532b2880037ed86143c422c6224dcfbc5b2885ab4beace8b72315881aca
+        mime: image/jpeg
+        bytes: 73960
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

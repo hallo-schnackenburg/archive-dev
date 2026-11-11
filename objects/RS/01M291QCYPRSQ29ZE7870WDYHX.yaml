@@ -1,0 +1,34 @@
+id: 01M291QCYPRSQ29ZE7870WDYHX
+type: image
+subtype: photo
+title: Hochwasser 1969
+date: 1969~
+location: Gorleben, Hinter den Höfen
+geocode:
+  lat: 52.9136
+  lon: 11.4878
+  precision: region
+  source: osm
+subjects:
+  - name: Rathaus
+    type: building
+files:
+  - role: main
+    original_name: IMG_4218.jpg
+    path: files/fc/5e/fc5e26ae55479a80c42f137cb858d280ca347a61db908d39032689842a53630d/original.jpg
+    sha256: fc5e26ae55479a80c42f137cb858d280ca347a61db908d39032689842a53630d
+    mime: image/jpeg
+    bytes: 17653342
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/fc/5e/fc5e26ae55479a80c42f137cb858d280ca347a61db908d39032689842a53630d/preview-400.72af8227cc2b.jpg
+        sha256: 72af8227cc2b952d556a289ff9d3c4a059aea3b987f93ed42b45cde3034dd342
+        mime: image/jpeg
+        bytes: 63681
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

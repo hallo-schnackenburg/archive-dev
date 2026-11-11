@@ -1,0 +1,37 @@
+id: 01JER8S9AR2KDCA3E7QNZZFPBW
+type: image
+subtype: plan
+title: Bauplan Kegelbahn 1790
+date: 1790-04
+location: Dömitz, Deichstraße
+geocode:
+  lat: 52.9751
+  lon: 11.6072
+  precision: exact
+  source: osm
+origin:
+  name: Rudolf Lemke
+  type: person
+  location: Rüterberg
+parents:
+  - 01GGFA4BRHTCBTSYCZDK78S61J
+files:
+  - role: main
+    original_name: scan_113.tif
+    path: files/e4/a0/e4a0b44a435127e4c0a4d9e7465ff7e54ec9efd92c1b19682dcb95bd2f20b475/original.tif
+    sha256: e4a0b44a435127e4c0a4d9e7465ff7e54ec9efd92c1b19682dcb95bd2f20b475
+    mime: image/tiff
+    bytes: 17267036
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e4/a0/e4a0b44a435127e4c0a4d9e7465ff7e54ec9efd92c1b19682dcb95bd2f20b475/preview-400.c691319de500.jpg
+        sha256: c691319de500addd364da12721d3bcfd71963f378357c123bab3a70aca873459
+        mime: image/jpeg
+        bytes: 20719
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,33 @@
+id: 01HM5G52FGJNBV06149352W6GN
+type: image
+subtype: plan
+title: Grundriss Elbdeich
+description: Tusche auf Transparentpapier.
+date: 1776-01-24
+origin:
+  name: Karl Schwarz
+  type: person
+  location: Laase
+subjects:
+  - name: Nienwalde
+    type: place
+files:
+  - role: main
+    original_name: scan_274.tif
+    path: files/f0/a8/f0a8b346d9aa44b25919c34eb29f643468fe3f0b8b00740448f0667d3e503bb1/original.tif
+    sha256: f0a8b346d9aa44b25919c34eb29f643468fe3f0b8b00740448f0667d3e503bb1
+    mime: image/tiff
+    bytes: 4411240
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f0/a8/f0a8b346d9aa44b25919c34eb29f643468fe3f0b8b00740448f0667d3e503bb1/preview-400.37a256da952c.jpg
+        sha256: 37a256da952c7c66f1b8a60914b0bad2be698d07ff11469f01cd216aa29ee83d
+        mime: image/jpeg
+        bytes: 47408
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

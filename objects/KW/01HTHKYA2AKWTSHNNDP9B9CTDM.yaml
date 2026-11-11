@@ -1,0 +1,41 @@
+id: 01HTHKYA2AKWTSHNNDP9B9CTDM
+type: image
+subtype: photo
+title: Fährjubiläum 1952
+description: Zu sehen sind Kegelbahn und Kindergarten.
+date: 1952-09
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 5/078
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Schlachterei
+    type: building
+  - name: Storchennest
+    type: building
+parents:
+  - 01HASDKXR0Y5AFEJ03TVA5J3T7
+files:
+  - role: main
+    original_name: P8076.jpg
+    path: files/20/fc/20fc683fc56fdea2776f625c95bebe1f07af49936655e08a30d3c39452c8b53a/original.jpg
+    sha256: 20fc683fc56fdea2776f625c95bebe1f07af49936655e08a30d3c39452c8b53a
+    mime: image/jpeg
+    bytes: 7668732
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/20/fc/20fc683fc56fdea2776f625c95bebe1f07af49936655e08a30d3c39452c8b53a/preview-400.ddcd62028424.jpg
+        sha256: ddcd62028424e73e158fa7076dd6c37f3efaa2684ecfc6dd10cf166ed86d1ac3
+        mime: image/jpeg
+        bytes: 81314
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

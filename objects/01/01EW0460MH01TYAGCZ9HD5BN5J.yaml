@@ -1,0 +1,112 @@
+id: 01EW0460MH01TYAGCZ9HD5BN5J
+type: document
+subtype: protocol
+title: Protokoll des Bauausschuss vom 1877
+date: 1877-12
+location: Bömenzien, Försterei
+geocode:
+  lat: 52.9045
+  lon: 11.5568
+  precision: town
+  source: osm
+origin:
+  name: Bauausschuss Lüchow
+  type: business
+  location: Lüchow
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F 22/318
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+  - name: Sturmschaden 1877
+    type: event
+  - name: Bahnhof
+    type: building
+parents:
+  - 01FC500G3M1EH4PAW2K7HHB2K0
+files:
+  - role: page
+    num: 1
+    original_name: protocol_d5bn5j_001.tif
+    path: files/7b/47/7b4791a3147c7835cc8c4d259e1d414bfaff1f37f09365242bacdcc8b3df9552/original.tif
+    sha256: 7b4791a3147c7835cc8c4d259e1d414bfaff1f37f09365242bacdcc8b3df9552
+    mime: image/tiff
+    bytes: 11560622
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7b/47/7b4791a3147c7835cc8c4d259e1d414bfaff1f37f09365242bacdcc8b3df9552/preview-400.1555386f8a12.jpg
+        sha256: 1555386f8a12700430c3597288bed06fc131407013f0df73430043c488a275dd
+        mime: image/jpeg
+        bytes: 20171
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_d5bn5j_002.tif
+    path: files/0a/83/0a83b7eb957984785714af0dcb09c209baa41aa57ac2c4eb89550a5c6b7392d5/original.tif
+    sha256: 0a83b7eb957984785714af0dcb09c209baa41aa57ac2c4eb89550a5c6b7392d5
+    mime: image/tiff
+    bytes: 17775546
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0a/83/0a83b7eb957984785714af0dcb09c209baa41aa57ac2c4eb89550a5c6b7392d5/preview-400.cdf7215362cc.jpg
+        sha256: cdf7215362ccd11526f745ef680d6bcba20a9e93968ac02d19e4b4c89e81190d
+        mime: image/jpeg
+        bytes: 88315
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_d5bn5j_003.tif
+    path: files/3c/a8/3ca818174507f374d14e423b47610c0a164247a295080c9cb548b27675a5b6b7/original.tif
+    sha256: 3ca818174507f374d14e423b47610c0a164247a295080c9cb548b27675a5b6b7
+    mime: image/tiff
+    bytes: 23640163
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3c/a8/3ca818174507f374d14e423b47610c0a164247a295080c9cb548b27675a5b6b7/preview-400.f3d5b1b0e5e0.jpg
+        sha256: f3d5b1b0e5e04d303ace2ee82c2963da51903970690e54d0ba95127b0094fb24
+        mime: image/jpeg
+        bytes: 58245
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 4
+    original_name: protocol_d5bn5j_004.tif
+    path: files/0f/30/0f30646bb55542d3cadc38110c3a21e88ed7ab840b8b5921ac9bf44684abaee7/original.tif
+    sha256: 0f30646bb55542d3cadc38110c3a21e88ed7ab840b8b5921ac9bf44684abaee7
+    mime: image/tiff
+    bytes: 18977992
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0f/30/0f30646bb55542d3cadc38110c3a21e88ed7ab840b8b5921ac9bf44684abaee7/preview-400.155deef64bcb.jpg
+        sha256: 155deef64bcbfe951a3f7e9611b4e3c2199c445fac6afbe24b648c5c5d8373b5
+        mime: image/jpeg
+        bytes: 44902
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,66 @@
+id: 01FVGEADTHPKV2F2QEEQ2PRQPW
+type: document
+subtype: note
+title: Kassenzettel Tanzsaal, Seedorf
+description: Zettel, Bleistift.
+date: 1975-10
+location: Havelberg, Brunnen am Markt
+geocode:
+  lat: 52.9824
+  lon: 11.6833
+  precision: region
+  source: osm
+origin:
+  name: Jürgen Brandt
+  type: person
+  location: Gollensdorf
+language: fr
+subjects:
+  - name: Heinrich Lüders
+    type: person
+  - name: Maifeier 1975
+    type: event
+parents:
+  - 01JTAHZQ2H6N377TQAEA3P4341
+  - 01KYY4CVMJ2SF598S69P8F19XE
+files:
+  - role: page
+    num: 1
+    original_name: note_2prqpw_001.tif
+    path: files/a0/ef/a0ef84e14dd33780696c427c3fae725abd8092904f8dbf76cd0ac6b3f64adb9a/original.tif
+    sha256: a0ef84e14dd33780696c427c3fae725abd8092904f8dbf76cd0ac6b3f64adb9a
+    mime: image/tiff
+    bytes: 25868110
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a0/ef/a0ef84e14dd33780696c427c3fae725abd8092904f8dbf76cd0ac6b3f64adb9a/preview-400.dfa0ab15209b.jpg
+        sha256: dfa0ab15209b67c226f2cf905579b8f53510d4f06f103852ddbd227886265677
+        mime: image/jpeg
+        bytes: 52759
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_2prqpw_002.tif
+    path: files/49/4d/494d8cfbbaedbaa446d805a1e1a6466bbf2022146591c30b07dfcf59e7a968ca/original.tif
+    sha256: 494d8cfbbaedbaa446d805a1e1a6466bbf2022146591c30b07dfcf59e7a968ca
+    mime: image/tiff
+    bytes: 8418801
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/49/4d/494d8cfbbaedbaa446d805a1e1a6466bbf2022146591c30b07dfcf59e7a968ca/preview-400.4c33b4e3af27.jpg
+        sha256: 4c33b4e3af27a9383a9834b138471ae5fa7eac1457e8d16a91fc2f054c8d5960
+        mime: image/jpeg
+        bytes: 46176
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

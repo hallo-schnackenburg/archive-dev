@@ -1,0 +1,33 @@
+id: 01KPC9H2BPG38Y3PSE0RZFKVZ5
+type: image
+subtype: photo
+title: Schlachtfest 1995
+date: 1995-07
+location: Rüterberg, Marktstraße
+origin:
+  name: Hans Plate
+  type: person
+  location: Seedorf
+subjects:
+  - name: Friedrich Lemke
+    type: person
+files:
+  - role: main
+    original_name: P7460.jpg
+    path: files/33/c5/33c58f30a479c41a43f392567e32096e00fa00a08a58dc24a9dc8f622091f1d1/original.jpg
+    sha256: 33c58f30a479c41a43f392567e32096e00fa00a08a58dc24a9dc8f622091f1d1
+    mime: image/jpeg
+    bytes: 9589427
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/33/c5/33c58f30a479c41a43f392567e32096e00fa00a08a58dc24a9dc8f622091f1d1/preview-400.a5691edb2178.jpg
+        sha256: a5691edb217849677d98e3a97b44f693483dc13cd87c6ec6be5fe3d5a51435e2
+        mime: image/jpeg
+        bytes: 64708
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

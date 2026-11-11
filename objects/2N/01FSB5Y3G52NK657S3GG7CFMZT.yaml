@@ -1,0 +1,48 @@
+id: 01FSB5Y3G52NK657S3GG7CFMZT
+type: document
+subtype: letter
+title: Gesuch um Fährgeld
+description: Mit Umschlag und Briefmarke.
+date: 193X
+location: Pretzier, Hafenstraße
+origin:
+  name: Hans Hennings
+  type: person
+  location: Laase
+recipient: Wilhelm Gaede
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 2/061
+  note: Mappe 12
+subjects:
+  - name: Walter Sievers
+    type: person
+  - name: Viehmarkt 1934
+    type: event
+parents:
+  - 01GTBPQD1S4KYDH3R014D5J1PZ
+files:
+  - role: page
+    num: 1
+    original_name: letter_7cfmzt_001.tif
+    path: files/53/eb/53ebf0bb7ebda4561897d45d9e83357a5bfcaaef470047f66b0e06d43180caa3/original.tif
+    sha256: 53ebf0bb7ebda4561897d45d9e83357a5bfcaaef470047f66b0e06d43180caa3
+    mime: image/tiff
+    bytes: 3203455
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/53/eb/53ebf0bb7ebda4561897d45d9e83357a5bfcaaef470047f66b0e06d43180caa3/preview-400.d0b9d82fae82.jpg
+        sha256: d0b9d82fae8210b5345c0172e84228037581f9753faeb5c52e5bef8f6e329aa9
+        mime: image/jpeg
+        bytes: 34223
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

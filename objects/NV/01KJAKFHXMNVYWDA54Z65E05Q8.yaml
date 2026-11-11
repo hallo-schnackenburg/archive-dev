@@ -1,0 +1,62 @@
+id: 01KJAKFHXMNVYWDA54Z65E05Q8
+type: document
+subtype: letter
+title: Schreiben der Schützengesellschaft an den Schulvorstand
+description: Betrifft Brückenreparatur.
+date: 1806-12
+location: Brünkendorf, Mühlenweg
+origin:
+  name: Wilhelm Cohrs
+  type: person
+  location: Gülden
+language: de
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+  - name: Wootz
+    type: place
+  - name: Sparkasse
+    type: building
+parents:
+  - 01FAPPTV88463SW7X0F9PVBNY3
+files:
+  - role: page
+    num: 1
+    original_name: letter_5e05q8_001.tif
+    path: files/10/66/10668a5166332f7219d5e9befe334a7909dc74d98bd62884c7611a22716ecdf8/original.tif
+    sha256: 10668a5166332f7219d5e9befe334a7909dc74d98bd62884c7611a22716ecdf8
+    mime: image/tiff
+    bytes: 6260795
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/10/66/10668a5166332f7219d5e9befe334a7909dc74d98bd62884c7611a22716ecdf8/preview-400.dc5c2ca67b32.jpg
+        sha256: dc5c2ca67b3257f27ea93172a1c5875324a0213c665186983a0b1e2d29abdfa4
+        mime: image/jpeg
+        bytes: 40666
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_5e05q8_002.tif
+    path: files/7e/72/7e728d57c97bbb43af628c83ee138ab015837641b92079a48c137c3e3046d62d/original.tif
+    sha256: 7e728d57c97bbb43af628c83ee138ab015837641b92079a48c137c3e3046d62d
+    mime: image/tiff
+    bytes: 13976962
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7e/72/7e728d57c97bbb43af628c83ee138ab015837641b92079a48c137c3e3046d62d/preview-400.74aea1b303de.jpg
+        sha256: 74aea1b303def4ac9fc8c6369d73e9dca99d3af52acb72ec7ff4466455f65516
+        mime: image/jpeg
+        bytes: 67250
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01HXYZMG425MBGTCQ5E50FVJCK
+type: image
+subtype: photo
+title: Mühle in Brünkendorf
+description: Abzug im Format 6 x 9 cm.
+date: 1998-04
+location: Gollensdorf, Hafenstraße
+geocode:
+  lat: 52.9325
+  lon: 11.6414
+  precision: street
+  source: osm
+subjects:
+  - name: Kirmes 1998
+    type: event
+parents:
+  - 01JWWTXH4CV5B4FWTT72A87FM2
+  - 01J1BQMAQVEW8DB40J658P2X0W
+files:
+  - role: main
+    original_name: P7898.jpg
+    path: files/f2/6d/f26d6a0f592b0a3fc0fd5853593408462f4591191787d9a83ab9db0277650724/original.jpg
+    sha256: f26d6a0f592b0a3fc0fd5853593408462f4591191787d9a83ab9db0277650724
+    mime: image/jpeg
+    bytes: 17002797
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/f2/6d/f26d6a0f592b0a3fc0fd5853593408462f4591191787d9a83ab9db0277650724/preview-400.5b2f607f0d1b.jpg
+        sha256: 5b2f607f0d1bb499aca662eef64b25aca4a215aac8ac3a28a0b315376d5d6f95
+        mime: image/jpeg
+        bytes: 61253
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

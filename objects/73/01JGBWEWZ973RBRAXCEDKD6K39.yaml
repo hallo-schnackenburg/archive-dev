@@ -1,0 +1,51 @@
+id: 01JGBWEWZ973RBRAXCEDKD6K39
+type: image
+subtype: photo
+title: Christa Nitschke, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1922/1924
+location: Gartow, Wassermühle
+origin:
+  name: Lotte Ihde
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Mappe 29/015
+  note: Schrank B
+owner:
+  name: Gerda Lüders
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Sportplatz
+    type: building
+  - name: Helga Krüger
+    type: person
+  - name: Dorffest 1922
+    type: event
+parents:
+  - 01EV4688KBXRNWBE8H1MYHF0WE
+files:
+  - role: main
+    original_name: DSC8796.jpg
+    path: files/05/dd/05ddbcedc80922367719645d8529a895ff1d467f6d6574954ac8dd6904f688e6/original.jpg
+    sha256: 05ddbcedc80922367719645d8529a895ff1d467f6d6574954ac8dd6904f688e6
+    mime: image/jpeg
+    bytes: 26900036
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/05/dd/05ddbcedc80922367719645d8529a895ff1d467f6d6574954ac8dd6904f688e6/preview-400.7513a881e8c1.jpg
+        sha256: 7513a881e8c176a203aff1c5e0f90c41c478c262594d15b2b864d150227e74ad
+        mime: image/jpeg
+        bytes: 28816
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

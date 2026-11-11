@@ -1,0 +1,60 @@
+id: 01H9B3VBRM1PC50H0ZTB8B9C7F
+type: document
+subtype: note
+title: Rechnung Garms, Apotheke
+date: 1944-07-01
+origin:
+  name: Wilhelm Ahrens
+  type: person
+  location: Bömenzien
+language: de
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Pretzier
+    type: place
+  - name: Ladestraße
+    type: building
+parents:
+  - 01KNHD7DYF112CXGR0WVK2W8DQ
+files:
+  - role: page
+    num: 1
+    original_name: note_8b9c7f_001.tif
+    path: files/67/3c/673ced3b1af6cc2d85a2453dfd342dc5741d9ce939f5a344e92b1595bf551f5a/original.tif
+    sha256: 673ced3b1af6cc2d85a2453dfd342dc5741d9ce939f5a344e92b1595bf551f5a
+    mime: image/tiff
+    bytes: 13512691
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/67/3c/673ced3b1af6cc2d85a2453dfd342dc5741d9ce939f5a344e92b1595bf551f5a/preview-400.7d81b0180413.jpg
+        sha256: 7d81b018041358ed9d3be55385a7d2b69976917cacb88e7a3ebd2b5c72f8f545
+        mime: image/jpeg
+        bytes: 25998
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_8b9c7f_002.tif
+    path: files/14/c0/14c0c8a9444785d59e2f13819af88c7538c6441093b11e9f08418d0fe744255a/original.tif
+    sha256: 14c0c8a9444785d59e2f13819af88c7538c6441093b11e9f08418d0fe744255a
+    mime: image/tiff
+    bytes: 11113520
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/c0/14c0c8a9444785d59e2f13819af88c7538c6441093b11e9f08418d0fe744255a/preview-400.7b04b92ec923.jpg
+        sha256: 7b04b92ec923a84bc617813f8843808e731a7f9e03984f594ee16d35c6757ac6
+        mime: image/jpeg
+        bytes: 28613
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

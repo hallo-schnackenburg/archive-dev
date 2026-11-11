@@ -1,0 +1,44 @@
+id: 01H1FWGVD29K7SRN45D94RX2PD
+type: image
+subtype: photo
+title: "Heimatverein: Gruppenbild Osterfeuer"
+description: Zu sehen sind Brunnen am Markt und Rathaus.
+date: "1909"
+origin:
+  name: Heinrich Rohde
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Album 8/016
+  note: Regal 1
+subjects:
+  - name: Dieter Hennings
+    type: person
+  - name: Fastnacht 1909
+    type: event
+parents:
+  - 01JJVWHQS46WZ6EFA7FBGQH53P
+files:
+  - role: main
+    original_name: P6979.jpg
+    path: files/86/fb/86fbc7cd186c36b5562385d3b21d6badec04a15d704c816320e642fd8d43bcbe/original.jpg
+    sha256: 86fbc7cd186c36b5562385d3b21d6badec04a15d704c816320e642fd8d43bcbe
+    mime: image/jpeg
+    bytes: 18625488
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/86/fb/86fbc7cd186c36b5562385d3b21d6badec04a15d704c816320e642fd8d43bcbe/preview-400.2f68aed39c2d.jpg
+        sha256: 2f68aed39c2d35b282c4b7f74e770814120c431d52df4d39a02d01a266cea128
+        mime: image/jpeg
+        bytes: 86583
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

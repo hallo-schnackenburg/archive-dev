@@ -1,0 +1,41 @@
+id: 01KXN7SCSSCF5RKXJ24FEZ2KSH
+type: image
+subtype: print
+title: Postkarte Seedorf, Backhaus
+description: Lithographie, Rand beschnitten.
+date: 1826?
+origin:
+  name: Fritz Voss
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: F 24/363
+subjects:
+  - name: Karl Voss
+    type: person
+parents:
+  - 01FGVBASJXHEH355K2B76NTT5V
+files:
+  - role: main
+    original_name: scan_070.tif
+    path: files/1e/87/1e87cf80e6d0904fdf5dda613fd751a6e045c903dd79563f3336212153309ca2/original.tif
+    sha256: 1e87cf80e6d0904fdf5dda613fd751a6e045c903dd79563f3336212153309ca2
+    mime: image/tiff
+    bytes: 4697285
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1e/87/1e87cf80e6d0904fdf5dda613fd751a6e045c903dd79563f3336212153309ca2/preview-400.e99c5389cc90.jpg
+        sha256: e99c5389cc90f84c3913cce9b55f27bbd4fca5ec45cca46b850bd155730b75ca
+        mime: image/jpeg
+        bytes: 32027
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

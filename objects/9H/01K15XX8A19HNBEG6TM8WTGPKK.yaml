@@ -1,0 +1,38 @@
+id: 01K15XX8A19HNBEG6TM8WTGPKK
+type: image
+subtype: photo
+title: Paul Dreyer, Porträt
+description: Farbfoto, leicht verblasst.
+origin:
+  name: Hans Voss
+  type: person
+  location: Gorleben
+owner:
+  name: Wilhelm Hennings
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Kirmes 2001
+    type: event
+parents:
+  - 01F4HYKHGYRFV335Z3P04PNKHW
+files:
+  - role: main
+    original_name: scan_352.tif
+    path: files/63/64/63641012a02a539fc700408e8bbe3414546de16e541b804692554f013ef09c8c/original.tif
+    sha256: 63641012a02a539fc700408e8bbe3414546de16e541b804692554f013ef09c8c
+    mime: image/tiff
+    bytes: 12118651
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/63/64/63641012a02a539fc700408e8bbe3414546de16e541b804692554f013ef09c8c/preview-400.0add3129c552.jpg
+        sha256: 0add3129c552aa39ba1a6b2b8379c19e1efd7d299e1515241de37bb308d06aac
+        mime: image/jpeg
+        bytes: 62589
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

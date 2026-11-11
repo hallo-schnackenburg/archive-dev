@@ -1,0 +1,51 @@
+id: 01EYNPC80XH7MAG6CZDE3CFV94
+type: image
+subtype: plan
+title: Bauplan Dorfkrug 1929
+date: 1929-06-06
+location: Wootz, Deichstraße
+geocode:
+  lat: 53.02
+  lon: 11.5969
+  precision: region
+  source: osm
+origin:
+  name: Ernst Voss
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos 14/135
+  note: Regal 1
+subjects:
+  - name: Gasthof Meyer
+    type: building
+  - name: Hochzeit 1929
+    type: event
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01H902F8KH7FGB5792BQJBD6C6
+files:
+  - role: main
+    original_name: scan_719.tif
+    path: files/81/88/8188b867d96ed97ba9db176e31566524ba9483bf440f7d3310fa0b56e1c334ed/original.tif
+    sha256: 8188b867d96ed97ba9db176e31566524ba9483bf440f7d3310fa0b56e1c334ed
+    mime: image/tiff
+    bytes: 13329018
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/81/88/8188b867d96ed97ba9db176e31566524ba9483bf440f7d3310fa0b56e1c334ed/preview-400.5f89ea60bb93.jpg
+        sha256: 5f89ea60bb935c6dae6443815ca8a441cca4d51a9e8cadf70a5430cb4c40af06
+        mime: image/jpeg
+        bytes: 20534
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

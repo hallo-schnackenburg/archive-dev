@@ -1,0 +1,36 @@
+id: 01FGPYV6WZT5R7Z71VAZV553FG
+type: image
+subtype: plan
+title: Bauplan Bahnhof 1835
+date: "1835"
+location: Wustrow, Dorfstraße
+origin:
+  name: Berta Lemke
+  type: person
+  location: Gorleben
+subjects:
+  - name: Zollamt
+    type: building
+parents:
+  - 01FVB0ZV7D5S8N9566PY0PJ70J
+  - 01FT5CTVAMDQF7480XV03FD2CZ
+files:
+  - role: main
+    original_name: scan_468.tif
+    path: files/77/ee/77ee491db843a60878922d965fc44347d7b0554eb83ad417de33355eed31d040/original.tif
+    sha256: 77ee491db843a60878922d965fc44347d7b0554eb83ad417de33355eed31d040
+    mime: image/tiff
+    bytes: 22826126
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/77/ee/77ee491db843a60878922d965fc44347d7b0554eb83ad417de33355eed31d040/preview-400.4ebae0d935e5.jpg
+        sha256: 4ebae0d935e54e2a183515f06cde42bf7e3afcf7a096d1c92d7bf78e76975830
+        mime: image/jpeg
+        bytes: 30926
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

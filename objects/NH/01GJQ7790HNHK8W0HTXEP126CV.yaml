@@ -1,0 +1,35 @@
+id: 01GJQ7790HNHK8W0HTXEP126CV
+type: image
+subtype: print
+title: Postkarte Pretzier, Molkerei
+description: Lithographie, Rand beschnitten.
+date: "1794"
+location: Wustrow, Schulstraße
+geocode:
+  lat: 52.9529
+  lon: 11.4927
+  precision: town
+  source: osm
+subjects:
+  - name: Wassermühle
+    type: building
+files:
+  - role: main
+    original_name: scan_508.tif
+    path: files/73/6d/736df1f9da6fc4a3cafdbd5de2bd6a7910bd073cbd876ec8906f29d1e59d715e/original.tif
+    sha256: 736df1f9da6fc4a3cafdbd5de2bd6a7910bd073cbd876ec8906f29d1e59d715e
+    mime: image/tiff
+    bytes: 327307
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/73/6d/736df1f9da6fc4a3cafdbd5de2bd6a7910bd073cbd876ec8906f29d1e59d715e/preview-400.b769b7d3333d.jpg
+        sha256: b769b7d3333dfb12a445260e93c038b04fd6cac1fd9ea31194fcef436bbf67a8
+        mime: image/jpeg
+        bytes: 33002
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

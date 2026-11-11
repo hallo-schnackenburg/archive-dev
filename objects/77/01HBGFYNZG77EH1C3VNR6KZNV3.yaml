@@ -1,0 +1,45 @@
+id: 01HBGFYNZG77EH1C3VNR6KZNV3
+type: image
+subtype: photo
+title: Monika Garms, Porträt
+description: Farbfoto, leicht verblasst.
+date: "1987"
+location: Laase, Elbstraße
+geocode:
+  lat: 52.9183
+  lon: 11.6967
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F/Kasten 24/027
+subjects:
+  - name: Gülden
+    type: place
+  - name: Dorfladen
+    type: building
+parents:
+  - 01JASR0HP1MS5AYRYN7A5XSTYQ
+files:
+  - role: main
+    original_name: scan_507.tif
+    path: files/6f/d4/6fd4895e36b067da2d420f03b89742c4011582cc165ffcaaf4412aebf3bd2806/original.tif
+    sha256: 6fd4895e36b067da2d420f03b89742c4011582cc165ffcaaf4412aebf3bd2806
+    mime: image/tiff
+    bytes: 3790037
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6f/d4/6fd4895e36b067da2d420f03b89742c4011582cc165ffcaaf4412aebf3bd2806/preview-400.d4fe667864b4.jpg
+        sha256: d4fe667864b4b36df1a39dffa71d15f41570bd0a353ce8951d9cc3cbbee496bd
+        mime: image/jpeg
+        bytes: 64812
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,64 @@
+id: 01HD4SQ6R4FJYSMFFX25W3KG54
+type: document
+subtype: letter
+title: Feldpostbrief von Werner Voss
+date: "1812"
+location: Restorf, Kirche St. Johannis
+geocode:
+  lat: 52.9389
+  lon: 11.4686
+  precision: town
+  source: osm
+origin:
+  name: Dieter Wegner
+  type: person
+  location: Arendsee
+recipient: Lotte Rieke
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 25/050
+files:
+  - role: page
+    num: 1
+    original_name: letter_w3kg54_001.tif
+    path: files/c8/ef/c8efc7c3fe5c0e27a67163571e18fb1909b00de9354011324f837f23f17c77c8/original.tif
+    sha256: c8efc7c3fe5c0e27a67163571e18fb1909b00de9354011324f837f23f17c77c8
+    mime: image/tiff
+    bytes: 3938492
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/ef/c8efc7c3fe5c0e27a67163571e18fb1909b00de9354011324f837f23f17c77c8/preview-400.3eac4d04a41b.jpg
+        sha256: 3eac4d04a41bde4733469ebf72ed5590fc304be22489b610e9aee212c8fe0388
+        mime: image/jpeg
+        bytes: 52438
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_w3kg54_002.tif
+    path: files/85/3f/853f8f751babd1000fa1ebc01cd171f4dc7206fa802e6b312e5893ead556c11b/original.tif
+    sha256: 853f8f751babd1000fa1ebc01cd171f4dc7206fa802e6b312e5893ead556c11b
+    mime: image/tiff
+    bytes: 14912770
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/85/3f/853f8f751babd1000fa1ebc01cd171f4dc7206fa802e6b312e5893ead556c11b/preview-400.5b55b96e7f4b.jpg
+        sha256: 5b55b96e7f4bd24fb0460ff939915198e7838698eb4d478890049a311c3979a6
+        mime: image/jpeg
+        bytes: 51582
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

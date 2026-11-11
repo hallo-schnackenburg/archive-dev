@@ -1,0 +1,46 @@
+id: 01GGHAT8XGPJ91GCZJBKBB994J
+type: image
+subtype: plan
+title: Flurkarte Wittenberge
+date: 1864-10-01
+location: Zadrau, Deichstraße
+origin:
+  name: August Rieke
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 19/017
+subjects:
+  - name: Deicharbeiten 1864
+    type: event
+  - name: Straßenfest 1864
+    type: event
+  - name: Molkerei
+    type: building
+parents:
+  - 01JQ24JYM14XMX215Z8SCN1PS1
+  - 01FSR5RWMB3S1C3C5MHAYVRE65
+files:
+  - role: main
+    original_name: scan_906.tif
+    path: files/80/55/8055245dda930c5bf7dcec46ab7a2e16ca5d589e9b836dac4cc7a71bcf8accc6/original.tif
+    sha256: 8055245dda930c5bf7dcec46ab7a2e16ca5d589e9b836dac4cc7a71bcf8accc6
+    mime: image/tiff
+    bytes: 7502690
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/55/8055245dda930c5bf7dcec46ab7a2e16ca5d589e9b836dac4cc7a71bcf8accc6/preview-400.f9844c441a34.jpg
+        sha256: f9844c441a34360a729a5752f96f6cc5304c62419dd0fa99cc8ef58f4a78c8a3
+        mime: image/jpeg
+        bytes: 36843
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

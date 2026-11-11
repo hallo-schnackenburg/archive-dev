@@ -1,0 +1,39 @@
+id: 01GYEG053VPGBX948EAKXRKZEQ
+type: image
+subtype: plan
+title: Katasterblatt Pape
+description: Maßstab 1:2500.
+date: "1864"
+location: Restorf, Schulstraße
+origin:
+  name: Erika Wiegmann
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Richtfest 1864
+    type: event
+files:
+  - role: main
+    original_name: scan_923.tif
+    path: files/5c/93/5c93fe555fb8af796f0ad7ea8cbd523989e600f0303108d9311bd0527173e443/original.tif
+    sha256: 5c93fe555fb8af796f0ad7ea8cbd523989e600f0303108d9311bd0527173e443
+    mime: image/tiff
+    bytes: 8172186
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5c/93/5c93fe555fb8af796f0ad7ea8cbd523989e600f0303108d9311bd0527173e443/preview-400.ee26babc2b46.jpg
+        sha256: ee26babc2b4600b219b66d295bf557df6cba0aab5cde851d1b668e2e4646b585
+        mime: image/jpeg
+        bytes: 89652
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

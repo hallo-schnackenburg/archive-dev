@@ -1,0 +1,47 @@
+id: 01G8R9DP0QMS1C6R8HAYVR5YVJ
+type: document
+subtype: letter
+title: Feldpostbrief von Hans Voss
+description: Betrifft Hundesteuer.
+date: 1813?
+location: Gartow, Fachwerkhaus Marktstraße 4
+geocode:
+  lat: 52.9115
+  lon: 11.5902
+  precision: region
+  source: osm
+recipient: Heinrich Nitschke
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Nienwalde
+    type: place
+  - name: Karl Krüger
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_vr5yvj_001.tif
+    path: files/b4/c2/b4c2705c7906d5c50ab0509588a9d32b843a2c48fbe1b8b82cf9d6b99e2b4df9/original.tif
+    sha256: b4c2705c7906d5c50ab0509588a9d32b843a2c48fbe1b8b82cf9d6b99e2b4df9
+    mime: image/tiff
+    bytes: 26614873
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b4/c2/b4c2705c7906d5c50ab0509588a9d32b843a2c48fbe1b8b82cf9d6b99e2b4df9/preview-400.07d87622f3f0.jpg
+        sha256: 07d87622f3f02be8e041e62b915de4449dfa832cef133657f8b2f254bdede7b7
+        mime: image/jpeg
+        bytes: 42658
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

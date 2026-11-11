@@ -1,0 +1,43 @@
+id: 01FQ627MY2FDYT298PSFJZ15JG
+type: image
+subtype: print
+title: Lithographie Badestelle
+description: Postkarte, gelaufen 1953.
+date: 1737/1741
+origin:
+  name: Marta Schulz
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Ilse Wiegmann
+    type: person
+parents:
+  - 01JDMR23P0ST4P21YFR11Z2B2R
+  - 01JCV95VZDBXMYRF9A0KB25RXZ
+files:
+  - role: main
+    original_name: scan_251.tif
+    path: files/71/48/714821eff378853adcdfe7efb13acba751573dab216947ca0c4daa1972b47689/original.tif
+    sha256: 714821eff378853adcdfe7efb13acba751573dab216947ca0c4daa1972b47689
+    mime: image/tiff
+    bytes: 20678848
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/71/48/714821eff378853adcdfe7efb13acba751573dab216947ca0c4daa1972b47689/preview-400.cdac373a09bb.jpg
+        sha256: cdac373a09bb74b3e6165c72450a5142aa1c46c51ac7e17fbbeef2e005a6b8b4
+        mime: image/jpeg
+        bytes: 71138
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

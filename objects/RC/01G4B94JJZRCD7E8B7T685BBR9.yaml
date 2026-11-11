@@ -1,0 +1,44 @@
+id: 01G4B94JJZRCD7E8B7T685BBR9
+type: image
+subtype: print
+title: Ansichtskarte Lange Straße, Schnackenburg
+description: Postkarte, gelaufen 1919.
+date: 1819-10
+location: Zadrau, Schulstraße
+geocode:
+  lat: 53.0092
+  lon: 11.4929
+  precision: town
+  source: osm
+origin:
+  name: Karl Voss
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01JGPFTKQXNYFFYDJ57GMWQASN
+  - 01HTZ3ZVCQNEKM8ZRY48BPENG4
+files:
+  - role: main
+    original_name: scan_213.tif
+    path: files/8e/47/8e47c7d3d2412cac3da2d2576eb1832c642b256ad03c2362060c69091595ffd9/original.tif
+    sha256: 8e47c7d3d2412cac3da2d2576eb1832c642b256ad03c2362060c69091595ffd9
+    mime: image/tiff
+    bytes: 17278766
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8e/47/8e47c7d3d2412cac3da2d2576eb1832c642b256ad03c2362060c69091595ffd9/preview-400.38e42cb6b3b0.jpg
+        sha256: 38e42cb6b3b0911af56e2cb0867b072c56c738ee93ef1e719b34a4e9fedca063
+        mime: image/jpeg
+        bytes: 80799
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

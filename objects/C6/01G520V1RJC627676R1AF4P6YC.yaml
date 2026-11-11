@@ -1,0 +1,41 @@
+id: 01G520V1RJC627676R1AF4P6YC
+type: image
+subtype: plan
+title: Bauplan Tischlerei Bruns 1907
+description: Maßstab 1:500.
+date: 1907~
+origin:
+  name: Elfriede Lemke
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 17/077
+subjects:
+  - name: Brückeneinweihung 1907
+    type: event
+  - name: Maifeier 1907
+    type: event
+files:
+  - role: main
+    original_name: scan_618.tif
+    path: files/97/96/979664add55c8aebb63cf4cb8ca0a46bf271767260d74079816023317d20e7b0/original.tif
+    sha256: 979664add55c8aebb63cf4cb8ca0a46bf271767260d74079816023317d20e7b0
+    mime: image/tiff
+    bytes: 27382401
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/97/96/979664add55c8aebb63cf4cb8ca0a46bf271767260d74079816023317d20e7b0/preview-400.926cfd341e0c.jpg
+        sha256: 926cfd341e0ca36133e50150719db85777a2049e56c858892328a5834a406bf0
+        mime: image/jpeg
+        bytes: 87598
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01FCMY50JMM1GJ48RZ3P6K2G4C
+type: image
+subtype: photo
+title: Blick vom Schützenhaus auf das Windmühle
+description: Farbfoto, leicht verblasst.
+date: "1930"
+location: Bömenzien, Apotheke
+geocode:
+  lat: 53.0147
+  lon: 11.5888
+  precision: street
+  source: osm
+origin:
+  name: August Schulz
+  type: person
+  location: Arendsee
+subjects:
+  - name: Windmühle
+    type: building
+files:
+  - role: main
+    original_name: P8659.jpg
+    path: files/ab/99/ab99322d63ae61282459b33b9f75ac57443df175dd834cf9d5c1271c0ee40431/original.jpg
+    sha256: ab99322d63ae61282459b33b9f75ac57443df175dd834cf9d5c1271c0ee40431
+    mime: image/jpeg
+    bytes: 27411493
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ab/99/ab99322d63ae61282459b33b9f75ac57443df175dd834cf9d5c1271c0ee40431/preview-400.f3ad1649cd4d.jpg
+        sha256: f3ad1649cd4d3c43b2258cbb2ee60cb664821e21b0fcba4380bedf83b672c333
+        mime: image/jpeg
+        bytes: 28163
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

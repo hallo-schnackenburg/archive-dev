@@ -1,0 +1,83 @@
+id: 01HC0Q2QGG890BCM3RASBVQNVM
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Posaunenchor 1966
+description: Handschriftlich in Sütterlin.
+date: 1966-04-11
+location: Hitzacker, Schulstraße
+origin:
+  name: Gemeinderat Wittenberge
+  type: business
+  location: Wittenberge
+language: de
+subjects:
+  - name: Lüchow
+    type: place
+  - name: Fastnacht 1966
+    type: event
+  - name: Grenzturm
+    type: building
+parents:
+  - 01HDS44JS4B8GN7QC5M5DZA42B
+  - 01F6ZQ7TEP2TBDEHF40VAF0GAD
+files:
+  - role: page
+    num: 1
+    original_name: protocol_bvqnvm_001.tif
+    path: files/7d/14/7d14ca38c65f9fc3e8eefee91186f33e354dd434b36ad39ae55231536e72c667/original.tif
+    sha256: 7d14ca38c65f9fc3e8eefee91186f33e354dd434b36ad39ae55231536e72c667
+    mime: image/tiff
+    bytes: 11060145
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7d/14/7d14ca38c65f9fc3e8eefee91186f33e354dd434b36ad39ae55231536e72c667/preview-400.6e28d809380f.jpg
+        sha256: 6e28d809380f283bc93d8169e81264e0cfae8c562638056b133dfe1d185092e2
+        mime: image/jpeg
+        bytes: 73831
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_bvqnvm_002.tif
+    path: files/cf/a0/cfa0fcb45ba25fbb170ed3d1f383f35df15644913b15a76b440a7e1096188350/original.tif
+    sha256: cfa0fcb45ba25fbb170ed3d1f383f35df15644913b15a76b440a7e1096188350
+    mime: image/tiff
+    bytes: 22859379
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cf/a0/cfa0fcb45ba25fbb170ed3d1f383f35df15644913b15a76b440a7e1096188350/preview-400.ba9e403d21cc.jpg
+        sha256: ba9e403d21cc0cfc74748795a2adc5cf6004fa19ec19944aa1317eaa0a082c3c
+        mime: image/jpeg
+        bytes: 44964
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_bvqnvm_003.tif
+    path: files/f3/5c/f35c307f17af5c905787375895a260469b03ab06901a9d6783c0c00e12e2fc73/original.tif
+    sha256: f35c307f17af5c905787375895a260469b03ab06901a9d6783c0c00e12e2fc73
+    mime: image/tiff
+    bytes: 2488887
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f3/5c/f35c307f17af5c905787375895a260469b03ab06901a9d6783c0c00e12e2fc73/preview-400.076cdfd6b461.jpg
+        sha256: 076cdfd6b461cd5f30d69e674c05e03ba1284763a32e525a924ff4b5f6883a31
+        mime: image/jpeg
+        bytes: 22027
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

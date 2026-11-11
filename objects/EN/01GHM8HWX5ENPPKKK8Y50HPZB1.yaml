@@ -1,0 +1,42 @@
+id: 01GHM8HWX5ENPPKKK8Y50HPZB1
+type: image
+subtype: print
+title: "Kupferstich: Havelberg von der Elbseite, Dömitz"
+date: 1794-07
+location: Salzwedel, Dorfstraße
+geocode:
+  lat: 52.9785
+  lon: 11.6698
+  precision: exact
+  source: osm
+origin:
+  name: Marta Brandt
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Wootz
+    type: place
+  - name: Gasthof Meyer
+    type: building
+  - name: Holtorf
+    type: place
+files:
+  - role: main
+    original_name: scan_593.tif
+    path: files/7a/9b/7a9b5e1dadea8636da1f0810237660caed3f4beb778d1203b5617378ecc51f05/original.tif
+    sha256: 7a9b5e1dadea8636da1f0810237660caed3f4beb778d1203b5617378ecc51f05
+    mime: image/tiff
+    bytes: 13736314
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7a/9b/7a9b5e1dadea8636da1f0810237660caed3f4beb778d1203b5617378ecc51f05/preview-400.04b4a488ee6b.jpg
+        sha256: 04b4a488ee6bf88b0164a84384033ce6af5a819180a3f3fa07c55d0842dae55d
+        mime: image/jpeg
+        bytes: 81609
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

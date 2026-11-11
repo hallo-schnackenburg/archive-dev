@@ -1,0 +1,42 @@
+id: 01HXE934EVJBVF38FMGPCBF2T8
+type: image
+subtype: photo
+title: Blick vom Kindergarten auf das Feuerwehrhaus
+date: 1964-09-26
+location: Laase, Hinter den Höfen
+geocode:
+  lat: 52.9206
+  lon: 11.6913
+  precision: town
+  source: osm
+origin:
+  name: Otto Gaede
+  type: person
+  location: Restorf
+subjects:
+  - name: Elfriede Matthies
+    type: person
+  - name: Scheune
+    type: building
+parents:
+  - 01F5AE2XPF50SXP9GWBFQRZ78K
+files:
+  - role: main
+    original_name: DSC3119.jpg
+    path: files/ac/92/ac920642e3394687019a37300a1a1c92432f8c7ce113d1bef0d59c9b5a7326b2/original.jpg
+    sha256: ac920642e3394687019a37300a1a1c92432f8c7ce113d1bef0d59c9b5a7326b2
+    mime: image/jpeg
+    bytes: 26814444
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/ac/92/ac920642e3394687019a37300a1a1c92432f8c7ce113d1bef0d59c9b5a7326b2/preview-400.2681b560a19e.jpg
+        sha256: 2681b560a19efeb07e4690c58e62a17cbd4ffde3bb9fa8088300ee861bbd3af0
+        mime: image/jpeg
+        bytes: 72952
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

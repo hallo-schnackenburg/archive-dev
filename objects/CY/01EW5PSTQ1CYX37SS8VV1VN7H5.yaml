@@ -1,0 +1,33 @@
+id: 01EW5PSTQ1CYX37SS8VV1VN7H5
+type: image
+subtype: print
+title: Lithographie Feuerwehrhaus
+date: "1758"
+location: Rüterberg, Feuerwehrhaus
+origin:
+  name: Albert Ihde
+  type: person
+  location: Holtorf
+subjects:
+  - name: Hochzeit 1758
+    type: event
+files:
+  - role: main
+    original_name: scan_463.tif
+    path: files/61/95/6195a22d3fc5aec32c33c543336d708e978474b51183702ef184c921a8c19e9b/original.tif
+    sha256: 6195a22d3fc5aec32c33c543336d708e978474b51183702ef184c921a8c19e9b
+    mime: image/tiff
+    bytes: 20548199
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/61/95/6195a22d3fc5aec32c33c543336d708e978474b51183702ef184c921a8c19e9b/preview-400.b480d3866b92.jpg
+        sha256: b480d3866b92f1a6a3bbffde62443754dd47169cd31f31930f560e925751471e
+        mime: image/jpeg
+        bytes: 80995
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

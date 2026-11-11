@@ -1,0 +1,47 @@
+id: 01GCZ3PZYTFFGSSF584NAHG52X
+type: document
+subtype: letter
+title: Brief von Karl Wegner an Wilhelm Wiegmann
+description: Mit Umschlag und Briefmarke.
+date: 1896-12
+location: Wittenberge, Kegelbahn
+origin:
+  name: Walter Harms
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro 5/246
+subjects:
+  - name: Ortsbesichtigung 1896
+    type: event
+  - name: Bömenzien
+    type: place
+  - name: Eisgang 1896
+    type: event
+parents:
+  - 01J2543CRBVAV30G60F9GTRGZ4
+files:
+  - role: page
+    num: 1
+    original_name: letter_ahg52x_001.tif
+    path: files/9d/04/9d04a28a72d1680ccc521827a2ada7b54592af6039a5462c8836a422186bf965/original.tif
+    sha256: 9d04a28a72d1680ccc521827a2ada7b54592af6039a5462c8836a422186bf965
+    mime: image/tiff
+    bytes: 26101107
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9d/04/9d04a28a72d1680ccc521827a2ada7b54592af6039a5462c8836a422186bf965/preview-400.0eddd5c12475.jpg
+        sha256: 0eddd5c12475dbbe674bcbf98dca919b8ec8cd093723b1f9a72099a113ff9a55
+        mime: image/jpeg
+        bytes: 56689
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

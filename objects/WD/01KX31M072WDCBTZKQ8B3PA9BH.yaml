@@ -1,0 +1,66 @@
+id: 01KX31M072WDCBTZKQ8B3PA9BH
+type: document
+subtype: letter
+title: Gerda Albers an die Gemeinde wegen Wohnungsnot
+location: Schnackenburg, Am Markt
+origin:
+  name: Bernd Wiegmann
+  type: person
+  location: Hitzacker
+recipient: Hedwig Lenz
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan/Album 28/006
+subjects:
+  - name: Deicharbeiten 1834
+    type: event
+  - name: Salzwedel
+    type: place
+parents:
+  - 01FSFJ347AK0X35M67AK3MGJ67
+  - 01KQVCCGD4CP4QYK6YQJ3YAGSW
+files:
+  - role: page
+    num: 1
+    original_name: letter_3pa9bh_001.tif
+    path: files/4c/93/4c934ed4c4297d4d84b2304dd249191a121b31dc34367e28c8440f8ba16eb3ee/original.tif
+    sha256: 4c934ed4c4297d4d84b2304dd249191a121b31dc34367e28c8440f8ba16eb3ee
+    mime: image/tiff
+    bytes: 8583029
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4c/93/4c934ed4c4297d4d84b2304dd249191a121b31dc34367e28c8440f8ba16eb3ee/preview-400.d0661a413dc3.jpg
+        sha256: d0661a413dc3c6fed5351446a757cc04900215c98ef6036317006b8985bc3c25
+        mime: image/jpeg
+        bytes: 23556
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_3pa9bh_002.tif
+    path: files/e8/a2/e8a2d1e7db2960f66e9cc8e09f08a5faa1cb61d0e76f5b8f5c87420ced4e32d4/original.tif
+    sha256: e8a2d1e7db2960f66e9cc8e09f08a5faa1cb61d0e76f5b8f5c87420ced4e32d4
+    mime: image/tiff
+    bytes: 12426159
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/a2/e8a2d1e7db2960f66e9cc8e09f08a5faa1cb61d0e76f5b8f5c87420ced4e32d4/preview-400.d421e5e9a0e4.jpg
+        sha256: d421e5e9a0e4f0265adfb1972c39726f78adcf89cddb85795f45add511e0d839
+        mime: image/jpeg
+        bytes: 29604
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

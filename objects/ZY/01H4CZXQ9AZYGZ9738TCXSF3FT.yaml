@@ -1,0 +1,41 @@
+id: 01H4CZXQ9AZYGZ9738TCXSF3FT
+type: document
+subtype: letter
+title: Schreiben der Angelverein an den Finanzausschuss
+date: 1817-09-13
+location: Gorleben, Gasthof Meyer
+geocode:
+  lat: 52.9031
+  lon: 11.5495
+  precision: town
+  source: osm
+recipient: Gerda Lemke
+language: de
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+  - name: Scheune
+    type: building
+parents:
+  - 01KQVCCGD4CP4QYK6YQJ3YAGSW
+files:
+  - role: page
+    num: 1
+    original_name: letter_xsf3ft_001.tif
+    path: files/c8/9c/c89c8e39f303d92be17bcdb1757271372f6beff4f8671ca5fe69a55a1d796045/original.tif
+    sha256: c89c8e39f303d92be17bcdb1757271372f6beff4f8671ca5fe69a55a1d796045
+    mime: image/tiff
+    bytes: 21157052
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c8/9c/c89c8e39f303d92be17bcdb1757271372f6beff4f8671ca5fe69a55a1d796045/preview-400.7dfdd1bee967.jpg
+        sha256: 7dfdd1bee9675c6cdf51690b636d7ad969bc1d962db899989698e84f9e42bb0a
+        mime: image/jpeg
+        bytes: 61629
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

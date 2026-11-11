@@ -1,0 +1,39 @@
+id: 01J6RWRJ2Z8WV05Q6CSCND13QF
+type: image
+subtype: print
+title: "Kupferstich: Holtorf von der Elbseite, Schnackenburg"
+date: 1710-06
+origin:
+  name: Marta Ahrens
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Marta Ahrens
+    type: person
+  - name: Erika Brandt
+    type: person
+files:
+  - role: main
+    original_name: scan_990.tif
+    path: files/97/2f/972f93e796e96840d8a74bea25460ce3891858f461775b64323fcfbcb0f8572e/original.tif
+    sha256: 972f93e796e96840d8a74bea25460ce3891858f461775b64323fcfbcb0f8572e
+    mime: image/tiff
+    bytes: 27479026
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/2f/972f93e796e96840d8a74bea25460ce3891858f461775b64323fcfbcb0f8572e/preview-400.a982a090ac78.jpg
+        sha256: a982a090ac7847111cd096fc01917a6cb345392bc0eeeade2e85a8588e8fa482
+        mime: image/jpeg
+        bytes: 39519
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,68 @@
+id: 01KME5PBTJVFX1STC5Y9SVPBB9
+type: document
+subtype: protocol
+title: Protokoll des Feuerwehrausschuss vom 1884
+date: "1884"
+location: Lenzen, Schulstraße
+geocode:
+  lat: 53.0912
+  lon: 11.5876
+  precision: street
+  source: osm
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 32/258
+subjects:
+  - name: Gerda Tiedemann
+    type: person
+  - name: Weihnachtsmarkt 1884
+    type: event
+  - name: Karl Lemke
+    type: person
+parents:
+  - 01F46MZG12HDJQK9Z29HPTQV9B
+files:
+  - role: page
+    num: 1
+    original_name: protocol_svpbb9_001.tif
+    path: files/7b/6b/7b6b0fa124de1fa7310e43638fe962bb788a4671d0f4d6d41f37157416b2798c/original.tif
+    sha256: 7b6b0fa124de1fa7310e43638fe962bb788a4671d0f4d6d41f37157416b2798c
+    mime: image/tiff
+    bytes: 15960484
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7b/6b/7b6b0fa124de1fa7310e43638fe962bb788a4671d0f4d6d41f37157416b2798c/preview-400.4bd932be8aad.jpg
+        sha256: 4bd932be8aad88aa8d42fea0667961d16e647c59f214182e350f32c93531eb9e
+        mime: image/jpeg
+        bytes: 77294
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_svpbb9_002.tif
+    path: files/15/a3/15a3a77ceeab1f94090c7cfe4f6f2c8c459251c3f9a466b55ae6779fcc715717/original.tif
+    sha256: 15a3a77ceeab1f94090c7cfe4f6f2c8c459251c3f9a466b55ae6779fcc715717
+    mime: image/tiff
+    bytes: 5234108
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/15/a3/15a3a77ceeab1f94090c7cfe4f6f2c8c459251c3f9a466b55ae6779fcc715717/preview-400.0b76dba58f24.jpg
+        sha256: 0b76dba58f2421606a925aa17d88775997d1ee147c080b09ebb7cd6a572ea31a
+        mime: image/jpeg
+        bytes: 56816
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

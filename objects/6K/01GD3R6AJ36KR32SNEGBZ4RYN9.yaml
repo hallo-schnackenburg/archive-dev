@@ -1,0 +1,33 @@
+id: 01GD3R6AJ36KR32SNEGBZ4RYN9
+type: image
+subtype: photo
+title: Windmühle in Gartow
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1942?
+location: Lüchow, Lange Straße
+origin:
+  name: Wilhelm Ludolf
+  type: person
+  location: Laase
+parents:
+  - 01FRHHN2TXE6MJ0TDGG4SGYAWP
+files:
+  - role: main
+    original_name: scan_448.tif
+    path: files/43/ef/43efa9f7a14c68294964b57c1eec985a3f5b0a9cd09f6f7ff01e3ac9441c0cf4/original.tif
+    sha256: 43efa9f7a14c68294964b57c1eec985a3f5b0a9cd09f6f7ff01e3ac9441c0cf4
+    mime: image/tiff
+    bytes: 4397742
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/43/ef/43efa9f7a14c68294964b57c1eec985a3f5b0a9cd09f6f7ff01e3ac9441c0cf4/preview-400.652efdc3a73e.jpg
+        sha256: 652efdc3a73ef9756b826ada7d9cd3a6de33f2fe415d335faf888d8f2fc2f4a6
+        mime: image/jpeg
+        bytes: 40221
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01HT7DJRBNHR4GTCAXGZDF3N15
+type: image
+subtype: photo
+title: Otto Wegner vor dem Molkerei
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1999/2009
+origin:
+  name: Lotte Bohlmann
+  type: person
+  location: Seedorf
+subjects:
+  - name: Erika Meyer
+    type: person
+  - name: Anni Bruns
+    type: person
+parents:
+  - 01JDVF1103F03HCTM49T0G4EC6
+files:
+  - role: main
+    original_name: P5609.jpg
+    path: files/df/5a/df5ad1d84cb59822bf97a595e2ccd0901b53b481768ffa8c968e002e368c12ea/original.jpg
+    sha256: df5ad1d84cb59822bf97a595e2ccd0901b53b481768ffa8c968e002e368c12ea
+    mime: image/jpeg
+    bytes: 8866923
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/df/5a/df5ad1d84cb59822bf97a595e2ccd0901b53b481768ffa8c968e002e368c12ea/preview-400.b4d5ffe14ddf.jpg
+        sha256: b4d5ffe14ddfd37789b05037009d52624627d0d219d2be69c185c67633830bcd
+        mime: image/jpeg
+        bytes: 57238
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

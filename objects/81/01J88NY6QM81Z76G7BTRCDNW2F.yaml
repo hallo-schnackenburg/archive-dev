@@ -1,0 +1,32 @@
+id: 01J88NY6QM81Z76G7BTRCDNW2F
+type: image
+subtype: photo
+title: Heinrich Plate, Porträt
+date: "1940"
+location: Lenzen, Dorfschule
+geocode:
+  lat: 52.9803
+  lon: 11.4628
+  precision: exact
+  source: osm
+origin:
+  name: Otto Schulz
+  type: person
+  location: Laase
+subjects:
+  - name: Einweihung 1940
+    type: event
+  - name: Frieda Garms
+    type: person
+  - name: Laase
+    type: place
+storage: external
+external:
+  - type: archive
+    site: Bundesarchiv
+    reference: Rep. 22 Nr. 3069
+    retrieved: 2025-02-15
+  - type: platform
+    site: Deutsche Digitale Bibliothek
+    uri: https://deutsche-digitale-bibliothek.example.org/objekt/245265
+    retrieved: 2025-10-05

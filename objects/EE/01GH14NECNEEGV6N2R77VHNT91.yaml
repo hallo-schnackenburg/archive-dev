@@ -1,0 +1,39 @@
+id: 01GH14NECNEEGV6N2R77VHNT91
+type: image
+subtype: print
+title: Postkarte Wootz, Pumpenhaus
+description: Kupferstich, koloriert.
+date: 1890-07-27
+location: Schnackenburg, Bahnhofstraße
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 23/061
+  note: Kellerarchiv
+subjects:
+  - name: Schützenfest 1890
+    type: event
+parents:
+  - 01GZBYX4A88TP2NKQ77RVEKH6X
+files:
+  - role: main
+    original_name: scan_532.tif
+    path: files/ef/33/ef339302091ce1cf1c4c06d9c4868c665a8de829782d629e0c294fb068736b46/original.tif
+    sha256: ef339302091ce1cf1c4c06d9c4868c665a8de829782d629e0c294fb068736b46
+    mime: image/tiff
+    bytes: 20200149
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ef/33/ef339302091ce1cf1c4c06d9c4868c665a8de829782d629e0c294fb068736b46/preview-400.7f17cd2cf724.jpg
+        sha256: 7f17cd2cf7247039f46a60959fbeaf083f7c2a96d1e2584c4ca7e67bdada45f8
+        mime: image/jpeg
+        bytes: 33133
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

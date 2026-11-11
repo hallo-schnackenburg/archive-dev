@@ -1,0 +1,43 @@
+id: 01K6VATSAZGM5VNYDV9A0Q1RJJ
+type: image
+subtype: photo
+title: Kirchstraße, Ecke Schulstraße
+description: Aufnahme von Hans Nitschke.
+date: 1930/1933
+location: Pretzier, Hinter den Höfen
+origin:
+  name: Gerda Rieke
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 13/347
+  note: Dachboden, Truhe
+subjects:
+  - name: Friedhofskapelle
+    type: building
+  - name: Apotheke
+    type: building
+files:
+  - role: main
+    original_name: IMG_3075.jpg
+    path: files/dc/54/dc5487b7f0af6065d417b0a4f05ed98a8a34bbb005de771a445e425f5e9dc4e1/original.jpg
+    sha256: dc5487b7f0af6065d417b0a4f05ed98a8a34bbb005de771a445e425f5e9dc4e1
+    mime: image/jpeg
+    bytes: 21281159
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/dc/54/dc5487b7f0af6065d417b0a4f05ed98a8a34bbb005de771a445e425f5e9dc4e1/preview-400.c9446e85ff30.jpg
+        sha256: c9446e85ff306cc70af3fbdca72490260176932f82998a91b7ef331fd07ee3e7
+        mime: image/jpeg
+        bytes: 42584
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

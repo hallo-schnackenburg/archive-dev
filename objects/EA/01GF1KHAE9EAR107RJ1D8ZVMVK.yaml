@@ -1,0 +1,41 @@
+id: 01GF1KHAE9EAR107RJ1D8ZVMVK
+type: image
+subtype: photo
+title: Dorfladen in Pretzier
+description: Aufnahme von Gustav Ahrens.
+location: Arendsee, Schulstraße
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok 34/368
+subjects:
+  - name: Ernst Voss
+    type: person
+  - name: Laase
+    type: place
+  - name: Salzwedel
+    type: place
+parents:
+  - 01K839EZHAYF5H4HB4TXJTTJWF
+files:
+  - role: main
+    original_name: DSC6026.jpg
+    path: files/a9/9b/a99be7afbc3c34c725466856c7f684f4d9eb4de3dea2b701b36c3dcd439b8fb6/original.jpg
+    sha256: a99be7afbc3c34c725466856c7f684f4d9eb4de3dea2b701b36c3dcd439b8fb6
+    mime: image/jpeg
+    bytes: 23946916
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/a9/9b/a99be7afbc3c34c725466856c7f684f4d9eb4de3dea2b701b36c3dcd439b8fb6/preview-400.d970cd05c28c.jpg
+        sha256: d970cd05c28cf1255416196ae42617a55968f1449827adc255513fde9b881e51
+        mime: image/jpeg
+        bytes: 68819
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

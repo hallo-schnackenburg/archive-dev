@@ -1,0 +1,38 @@
+id: 01EY15JXBDR06HEJMFK9Q1XV5A
+type: image
+subtype: photo
+title: Erika Hennings, Porträt
+date: 1965~
+location: Lenzen, Lange Straße
+geocode:
+  lat: 53.039
+  lon: 11.5009
+  precision: region
+  source: osm
+subjects:
+  - name: Torhaus
+    type: building
+  - name: Hitzacker
+    type: place
+  - name: Wustrow
+    type: place
+files:
+  - role: main
+    original_name: scan_513.tif
+    path: files/e4/59/e459cc10b419f0afa3dc5e2944830972f7d415aed0a88d1d051fbc36be10c45c/original.tif
+    sha256: e459cc10b419f0afa3dc5e2944830972f7d415aed0a88d1d051fbc36be10c45c
+    mime: image/tiff
+    bytes: 9957076
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e4/59/e459cc10b419f0afa3dc5e2944830972f7d415aed0a88d1d051fbc36be10c45c/preview-400.30641e26c7f7.jpg
+        sha256: 30641e26c7f74d5680965beaf5f519a78968537085d76f092135290a3c016cd0
+        mime: image/jpeg
+        bytes: 28224
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

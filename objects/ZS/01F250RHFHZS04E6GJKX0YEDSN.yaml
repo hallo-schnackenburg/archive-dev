@@ -1,0 +1,32 @@
+id: 01F250RHFHZS04E6GJKX0YEDSN
+type: image
+subtype: photo
+title: Sturmschaden 1990
+date: 1990-04-15
+location: Wootz, Elbstraße
+origin:
+  name: Käthe Lemke
+  type: person
+  location: Wustrow
+parents:
+  - 01H8EQS4AVFVXGT4V39H7JSKCS
+files:
+  - role: main
+    original_name: scan_619.tif
+    path: files/84/5a/845a1d63cecd99a9d3b125cd16bd356f5ccb11c73138cf148759de9eef210826/original.tif
+    sha256: 845a1d63cecd99a9d3b125cd16bd356f5ccb11c73138cf148759de9eef210826
+    mime: image/tiff
+    bytes: 16866409
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/84/5a/845a1d63cecd99a9d3b125cd16bd356f5ccb11c73138cf148759de9eef210826/preview-400.94c80b0cdb12.jpg
+        sha256: 94c80b0cdb1206c50be5f69c92c4603b7b85d479ba24964812d08c254070023b
+        mime: image/jpeg
+        bytes: 81586
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

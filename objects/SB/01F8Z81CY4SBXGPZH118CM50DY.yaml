@@ -1,0 +1,32 @@
+id: 01F8Z81CY4SBXGPZH118CM50DY
+type: image
+subtype: plan
+title: Bauplan Sparkasse 1814
+description: Mit handschriftlichen Ergänzungen.
+date: 1814/1821
+owner:
+  name: Hermann Meyer
+  type: person
+  note: Leihgabe
+parents:
+  - 01FDG2W8NWMVK48918J24FXBW9
+files:
+  - role: main
+    original_name: scan_468.tif
+    path: files/be/27/be27a37af4b9154db2b26c48b2b684b58f9a2518c63dbb4070269619c10219ee/original.tif
+    sha256: be27a37af4b9154db2b26c48b2b684b58f9a2518c63dbb4070269619c10219ee
+    mime: image/tiff
+    bytes: 12412262
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/27/be27a37af4b9154db2b26c48b2b684b58f9a2518c63dbb4070269619c10219ee/preview-400.5aff5a954c46.jpg
+        sha256: 5aff5a954c463ebcb0dae31f9497b55aa602b48fecf516160a9d07ff01a0697d
+        mime: image/jpeg
+        bytes: 25947
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

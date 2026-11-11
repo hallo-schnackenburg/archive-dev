@@ -1,0 +1,36 @@
+id: 01HMR0B5BDQ7YA1QX2K26FW7SJ
+type: image
+subtype: print
+title: Ansichtskarte Mühlenweg, Lüchow
+description: Lithographie, Rand beschnitten.
+date: "1882"
+location: Gartow, Kirchstraße
+origin:
+  name: Ilse Krüger
+  type: person
+  location: Pretzier
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+parents:
+  - 01GQNCNS1ENA3RKA5ZC1ZCYHJF
+files:
+  - role: main
+    original_name: scan_570.tif
+    path: files/75/eb/75eb2ddf1c35081c45d19be1e88f65c93837aa60ce69884422958bf757d27ad8/original.tif
+    sha256: 75eb2ddf1c35081c45d19be1e88f65c93837aa60ce69884422958bf757d27ad8
+    mime: image/tiff
+    bytes: 26208592
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/75/eb/75eb2ddf1c35081c45d19be1e88f65c93837aa60ce69884422958bf757d27ad8/preview-400.3f8dc2bbe085.jpg
+        sha256: 3f8dc2bbe0856c1220390cb747f0dd026f798281885ca7810593c81821e0e7b9
+        mime: image/jpeg
+        bytes: 50199
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

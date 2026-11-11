@@ -1,0 +1,40 @@
+id: 01J1GSCRBY1BHFH6YY97SHVHM2
+type: image
+subtype: print
+title: Ansichtskarte Lange Straße, Rüterberg
+location: Gollensdorf, Dorfstraße
+origin:
+  name: Otto Rohde
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Familie Behrens
+    type: person
+    location: Cumlosen
+  reference: Slg 5/101
+subjects:
+  - name: Konfirmation 1939
+    type: event
+parents:
+  - 01KANHTTYAXE4AQ68WK7VS6MK4
+files:
+  - role: main
+    original_name: scan_034.tif
+    path: files/90/b8/90b8d50f399ac75958946981b67f1169daf26dc24d614b235feabff114729894/original.tif
+    sha256: 90b8d50f399ac75958946981b67f1169daf26dc24d614b235feabff114729894
+    mime: image/tiff
+    bytes: 8596514
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/90/b8/90b8d50f399ac75958946981b67f1169daf26dc24d614b235feabff114729894/preview-400.2661a892fd87.jpg
+        sha256: 2661a892fd8749bde5596a07f49d72dd95010d54a04f04f584b982b07298b1d3
+        mime: image/jpeg
+        bytes: 46187
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

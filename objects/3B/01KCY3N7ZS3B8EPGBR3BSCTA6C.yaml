@@ -1,0 +1,35 @@
+id: 01KCY3N7ZS3B8EPGBR3BSCTA6C
+type: image
+subtype: photo
+title: Grenzturm in Cumlosen
+date: 1959-11-19
+origin:
+  name: Ernst Voss
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v70457
+files:
+  - role: main
+    original_name: scan_145.tif
+    path: files/ca/0b/ca0bf146fe31ca84914bc9942d612c2ed327de64d639003ce6a464662cb2cadf/original.tif
+    sha256: ca0bf146fe31ca84914bc9942d612c2ed327de64d639003ce6a464662cb2cadf
+    mime: image/tiff
+    bytes: 5005946
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ca/0b/ca0bf146fe31ca84914bc9942d612c2ed327de64d639003ce6a464662cb2cadf/preview-400.73f088f1718b.jpg
+        sha256: 73f088f1718b948fd396851c46faefa4810c51b97ac7f9d1aa7bc480f26a7f47
+        mime: image/jpeg
+        bytes: 88591
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

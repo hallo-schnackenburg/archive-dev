@@ -1,0 +1,41 @@
+id: 01FDPVABWW01WP42RWJ6XDG860
+type: image
+subtype: drawing
+title: Wappenentwurf Wittenberge, Laase
+description: Bleistift auf Papier.
+date: 1984-05
+location: Gollensdorf, Am Elbdeich
+geocode:
+  lat: 53.0156
+  lon: 11.6538
+  precision: town
+  source: osm
+subjects:
+  - name: Dieter Voss
+    type: person
+  - name: Badestelle
+    type: building
+  - name: Dömitz
+    type: place
+parents:
+  - 01GA5Z0DBZAQFYJJA123R8HCJ9
+files:
+  - role: main
+    original_name: scan_963.tif
+    path: files/33/b9/33b96e7d934606130125f35faa728c08bca614a45dd1c3eb68d21fdb332a7f26/original.tif
+    sha256: 33b96e7d934606130125f35faa728c08bca614a45dd1c3eb68d21fdb332a7f26
+    mime: image/tiff
+    bytes: 21134177
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/33/b9/33b96e7d934606130125f35faa728c08bca614a45dd1c3eb68d21fdb332a7f26/preview-400.349bad99cc5c.jpg
+        sha256: 349bad99cc5c61cc6ea6834a4dd97494816d0d3d8c562f2369523dc794b1117a
+        mime: image/jpeg
+        bytes: 20983
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01FB6R96ZAN6DHFJKK6GWHYC6Z
+type: image
+subtype: print
+title: Gruß aus Lenzen
+date: 1817-12
+origin:
+  name: Ilse Plate
+  type: person
+  location: Havelberg
+subjects:
+  - name: Heinrich Brandt
+    type: person
+  - name: Bahnhof
+    type: building
+  - name: Scheune
+    type: building
+files:
+  - role: main
+    original_name: scan_036.tif
+    path: files/ac/e2/ace26e4d0cc9260828e57ce836d51df92ff941e99ec58530f2e267999c53a5ce/original.tif
+    sha256: ace26e4d0cc9260828e57ce836d51df92ff941e99ec58530f2e267999c53a5ce
+    mime: image/tiff
+    bytes: 26014814
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/e2/ace26e4d0cc9260828e57ce836d51df92ff941e99ec58530f2e267999c53a5ce/preview-400.f29225da78e1.jpg
+        sha256: f29225da78e13d69f90785b982636f8b3717c93326be245e3438f65bd4653d64
+        mime: image/jpeg
+        bytes: 26171
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01F9QVAMTPS4GWWGSY889P1S22
+type: image
+subtype: photo
+title: Ursula Dreyer, Porträt
+date: 198X
+origin:
+  name: Hans Dreyer
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg 11/013
+subjects:
+  - name: Schützenfest 1989
+    type: event
+  - name: Lanz
+    type: place
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01EVCP6NN2EADHWRTHNC79ZAS7
+files:
+  - role: main
+    original_name: P2462.jpg
+    path: files/1e/91/1e919c47f294499f8bc783f2d3ab9af767c62ff77a36e1e373c1757ed0baa41d/original.jpg
+    sha256: 1e919c47f294499f8bc783f2d3ab9af767c62ff77a36e1e373c1757ed0baa41d
+    mime: image/jpeg
+    bytes: 16847149
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/1e/91/1e919c47f294499f8bc783f2d3ab9af767c62ff77a36e1e373c1757ed0baa41d/preview-400.d076e9d7b343.jpg
+        sha256: d076e9d7b343a38a464587d4a470b48c098c282fc001955ae640adb76b3423fe
+        mime: image/jpeg
+        bytes: 56995
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

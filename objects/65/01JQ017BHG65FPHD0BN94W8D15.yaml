@@ -1,0 +1,61 @@
+id: 01JQ017BHG65FPHD0BN94W8D15
+type: document
+subtype: letter
+title: Feldpostbrief von August Voss
+description: Betrifft Viehseuche.
+date: 1819-12-26
+location: Lanz, Dorfkrug
+origin:
+  name: Wilhelm Meyer
+  type: person
+  location: Gorleben
+recipient: Karl Heuer
+language: de
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+  - name: Gartow
+    type: place
+  - name: Lenzen
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_4w8d15_001.tif
+    path: files/c2/f4/c2f4ac4921d709b629e6730d742147750b28920de4ceabbf3a859999f7c151f7/original.tif
+    sha256: c2f4ac4921d709b629e6730d742147750b28920de4ceabbf3a859999f7c151f7
+    mime: image/tiff
+    bytes: 7632653
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/f4/c2f4ac4921d709b629e6730d742147750b28920de4ceabbf3a859999f7c151f7/preview-400.11220381e74a.jpg
+        sha256: 11220381e74ac75e38b91061063c3da3f1e96eb73517d6c2e275d78faeb88325
+        mime: image/jpeg
+        bytes: 76915
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_4w8d15_002.tif
+    path: files/6b/d6/6bd6ada3462b0229501b3812ae92526564d0b45e36a9416dbeeb2407dbdd4f32/original.tif
+    sha256: 6bd6ada3462b0229501b3812ae92526564d0b45e36a9416dbeeb2407dbdd4f32
+    mime: image/tiff
+    bytes: 22442243
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6b/d6/6bd6ada3462b0229501b3812ae92526564d0b45e36a9416dbeeb2407dbdd4f32/preview-400.50be2a4e3a7b.jpg
+        sha256: 50be2a4e3a7b322d31ee107a750d37b834eee9cbe52b2aef4fe96667337156cc
+        mime: image/jpeg
+        bytes: 32105
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

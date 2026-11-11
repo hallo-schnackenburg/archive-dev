@@ -1,0 +1,79 @@
+id: 01FQYYFZC56W4HDPR47YVXX9RF
+type: document
+subtype: protocol
+title: Protokoll des Feuerwehrausschuss vom 1972
+date: 1972-08
+origin:
+  name: Feuerwehrausschuss Laase
+  type: business
+  location: Lanz
+language: de
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Windmühle
+    type: building
+parents:
+  - 01KXSMG16S33C92YAYMEJ5A0FZ
+  - 01HE6ENCA0W2Z468GKA6QXY516
+files:
+  - role: page
+    num: 1
+    original_name: protocol_vxx9rf_001.tif
+    path: files/7d/16/7d1673ce76abfc0af1ac837ad87d95e47493d19f91338cc7f271c4027568503b/original.tif
+    sha256: 7d1673ce76abfc0af1ac837ad87d95e47493d19f91338cc7f271c4027568503b
+    mime: image/tiff
+    bytes: 22720852
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7d/16/7d1673ce76abfc0af1ac837ad87d95e47493d19f91338cc7f271c4027568503b/preview-400.6cbdce0571ab.jpg
+        sha256: 6cbdce0571ab08c40477352a0a3e5ea4a24ac9c23195d0a97a000f82bf709815
+        mime: image/jpeg
+        bytes: 29376
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_vxx9rf_002.tif
+    path: files/0c/e8/0ce88f347f6ae77911576bbc40d5d56e3b97b33f9f6bff73b4ae8767e55e8b96/original.tif
+    sha256: 0ce88f347f6ae77911576bbc40d5d56e3b97b33f9f6bff73b4ae8767e55e8b96
+    mime: image/tiff
+    bytes: 17638407
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0c/e8/0ce88f347f6ae77911576bbc40d5d56e3b97b33f9f6bff73b4ae8767e55e8b96/preview-400.440f1806ea6c.jpg
+        sha256: 440f1806ea6c71b6e96756d896fde9b78953836a27af6b2b816eb683485eecb0
+        mime: image/jpeg
+        bytes: 28428
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_vxx9rf_003.tif
+    path: files/c9/21/c921928987128c214834da766a947aa5f1ff766d65cf36365e1abebbb6f49035/original.tif
+    sha256: c921928987128c214834da766a947aa5f1ff766d65cf36365e1abebbb6f49035
+    mime: image/tiff
+    bytes: 24062472
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c9/21/c921928987128c214834da766a947aa5f1ff766d65cf36365e1abebbb6f49035/preview-400.a0aa286ad598.jpg
+        sha256: a0aa286ad59871b23b431afbf00390da052d4587c9087037eec982eff34ffe1b
+        mime: image/jpeg
+        bytes: 62259
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

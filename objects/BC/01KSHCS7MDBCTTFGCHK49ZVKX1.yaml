@@ -1,0 +1,47 @@
+id: 01KSHCS7MDBCTTFGCHK49ZVKX1
+type: image
+subtype: plan
+title: Deichplan Pretzier bis Holtorf
+description: Mit handschriftlichen Ergänzungen.
+date: "1872"
+location: Gorleben, Hinter den Höfen
+origin:
+  name: Gerda Tiedemann
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 1/321
+  note: Planschrank, Fach 3
+subjects:
+  - name: Gerda Harms
+    type: person
+  - name: Günter Krüger
+    type: person
+  - name: Restorf
+    type: place
+parents:
+  - 01M0CBRWW56FRQVDWWMJQPF72C
+files:
+  - role: main
+    original_name: scan_209.tif
+    path: files/68/65/68652b5eb46eb5214bb4fa9a62c2c648eda65ef7dad679c9e5570eb4b187ff6c/original.tif
+    sha256: 68652b5eb46eb5214bb4fa9a62c2c648eda65ef7dad679c9e5570eb4b187ff6c
+    mime: image/tiff
+    bytes: 8432369
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/68/65/68652b5eb46eb5214bb4fa9a62c2c648eda65ef7dad679c9e5570eb4b187ff6c/preview-400.cd2cba0eb430.jpg
+        sha256: cd2cba0eb4309bb8f9f2ec05e1063d244f77dd7d2e37dc6feef02a7bdf7fc04a
+        mime: image/jpeg
+        bytes: 70557
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,49 @@
+id: 01GA2T9AQMWWC6VJQJY9HJ157K
+type: image
+subtype: plan
+title: Bauplan Schützenhaus 1803
+description: Maßstab 1:1000.
+date: 1803-08-24
+location: Arendsee, Speicher
+geocode:
+  lat: 53.0639
+  lon: 11.5055
+  precision: exact
+  source: osm
+origin:
+  name: Dieter Lemke
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 1/041
+subjects:
+  - name: Brückeneinweihung 1803
+    type: event
+  - name: Weihnachtsmarkt 1803
+    type: event
+  - name: Walter Meyer
+    type: person
+files:
+  - role: main
+    original_name: scan_512.tif
+    path: files/1d/d5/1dd5bea414c423ce9a4f941edbf164902628a2a4497d075304f1aee45634bfb1/original.tif
+    sha256: 1dd5bea414c423ce9a4f941edbf164902628a2a4497d075304f1aee45634bfb1
+    mime: image/tiff
+    bytes: 13388378
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/d5/1dd5bea414c423ce9a4f941edbf164902628a2a4497d075304f1aee45634bfb1/preview-400.a9e37b3f7e72.jpg
+        sha256: a9e37b3f7e7283008d94a4cbc4a7bd7085e0817d0027808eab7b76d660d872bd
+        mime: image/jpeg
+        bytes: 20587
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

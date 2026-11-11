@@ -1,0 +1,50 @@
+id: 01HTR6ZMEKYKVJRKMQH12SDY2E
+type: image
+subtype: drawing
+title: Skizze Brünkendorf, Dorfstraße
+description: Mit Anmerkungen am Rand.
+date: 1919-02-11
+location: Gartow, Gartenstraße
+geocode:
+  lat: 53.0649
+  lon: 11.5717
+  precision: town
+  source: osm
+origin:
+  name: Marta Rieke
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 9/085
+  note: Mappe 12
+subjects:
+  - name: Scheune
+    type: building
+  - name: Fährjubiläum 1919
+    type: event
+  - name: Ortsbesichtigung 1919
+    type: event
+files:
+  - role: main
+    original_name: scan_535.tif
+    path: files/3b/30/3b30eb5919229c855a73ac843e351e43379128e1519e771759f6d7e4bc7b9476/original.tif
+    sha256: 3b30eb5919229c855a73ac843e351e43379128e1519e771759f6d7e4bc7b9476
+    mime: image/tiff
+    bytes: 1572494
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3b/30/3b30eb5919229c855a73ac843e351e43379128e1519e771759f6d7e4bc7b9476/preview-400.2ac01a0f7c27.jpg
+        sha256: 2ac01a0f7c2779b96e21fc47d2774cfe43be25497343080c0a6fa6a2c17c3b1c
+        mime: image/jpeg
+        bytes: 81421
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

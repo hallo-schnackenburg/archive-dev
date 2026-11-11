@@ -1,0 +1,67 @@
+id: 01GQ88X9WG3DJV2YTEYSHSERG6
+type: document
+subtype: note
+title: Rechnung Fricke, Tanzsaal
+description: Beleg mit Stempel.
+date: 1864~
+location: Gartow, Gutshaus
+geocode:
+  lat: 53.021
+  lon: 11.6306
+  precision: town
+  source: osm
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F/Mappe 30/080
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Pretzier
+    type: place
+  - name: Emma Ahrens
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_hserg6_001.tif
+    path: files/4d/43/4d4303a71cfeedefb8d7a845cba894367cfd0346ef9674024dc8e751aec850df/original.tif
+    sha256: 4d4303a71cfeedefb8d7a845cba894367cfd0346ef9674024dc8e751aec850df
+    mime: image/tiff
+    bytes: 6041202
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4d/43/4d4303a71cfeedefb8d7a845cba894367cfd0346ef9674024dc8e751aec850df/preview-400.cd6489aac2dc.jpg
+        sha256: cd6489aac2dc5cccb322c56ea8c423db14ac8560d306a9d11b32ad6f35b21d8e
+        mime: image/jpeg
+        bytes: 68115
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_hserg6_002.tif
+    path: files/5f/ed/5fed5b6819c642049316dde5e5d2063116275db281cddcda9dad79323e21ac09/original.tif
+    sha256: 5fed5b6819c642049316dde5e5d2063116275db281cddcda9dad79323e21ac09
+    mime: image/tiff
+    bytes: 15335881
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5f/ed/5fed5b6819c642049316dde5e5d2063116275db281cddcda9dad79323e21ac09/preview-400.8a5eda9d8c63.jpg
+        sha256: 8a5eda9d8c6355e8ba433e2a517ff352ae9f31d19bbe3fd0a0a1d3fed7c634f9
+        mime: image/jpeg
+        bytes: 69778
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

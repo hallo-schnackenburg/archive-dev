@@ -1,0 +1,45 @@
+id: 01G3P3PK6VVNP6RZ24AVNV2H40
+type: image
+subtype: drawing
+title: Schützenhaus, Aquarell
+date: 1933-10
+location: Lenzen, Dorfschule
+origin:
+  name: Ilse Bohlmann
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Kindergartenfest 1933
+    type: event
+  - name: Hermann Tiedemann
+    type: person
+parents:
+  - 01HW23R9B0E6RPF7JKRG9EPK9N
+  - 01GQNCNS1ENA3RKA5ZC1ZCYHJF
+files:
+  - role: main
+    original_name: scan_319.tif
+    path: files/dd/bb/ddbb0690d9d72910cbab692b3376c602d7e93aaeba38fe70d913760c6bd933b3/original.tif
+    sha256: ddbb0690d9d72910cbab692b3376c602d7e93aaeba38fe70d913760c6bd933b3
+    mime: image/tiff
+    bytes: 23413400
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/bb/ddbb0690d9d72910cbab692b3376c602d7e93aaeba38fe70d913760c6bd933b3/preview-400.1f69630f1995.jpg
+        sha256: 1f69630f19959251f48234b09ecd7ad7098d43b1f81390f1ec8e82b8a85cb549
+        mime: image/jpeg
+        bytes: 30142
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

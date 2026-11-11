@@ -1,0 +1,44 @@
+id: 01GPZBGBGBAJE898JKT3F2B5EH
+type: image
+subtype: photo
+title: Kartoffelernte der Gesangverein „Liedertafel“
+date: "1962"
+location: Wittenberge, Fährstraße
+geocode:
+  lat: 53.001
+  lon: 11.5456
+  precision: street
+  source: osm
+origin:
+  name: Ilse Behrens
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Richtfest 1962
+    type: event
+  - name: Berta Detlefs
+    type: person
+parents:
+  - 01JDP1HT97BVWFD5H634MRB0GA
+files:
+  - role: main
+    original_name: scan_986.tif
+    path: files/c7/7b/c77b70b300d290b1258c64702854140507c7eca11fdbdcd71f2ded11ff93afc9/original.tif
+    sha256: c77b70b300d290b1258c64702854140507c7eca11fdbdcd71f2ded11ff93afc9
+    mime: image/tiff
+    bytes: 3490694
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c7/7b/c77b70b300d290b1258c64702854140507c7eca11fdbdcd71f2ded11ff93afc9/preview-400.6de6930d2b21.jpg
+        sha256: 6de6930d2b21a4eed99c4ca8bf2495e8d32d26a0b2c70c8bf48665334e881d1d
+        mime: image/jpeg
+        bytes: 72964
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

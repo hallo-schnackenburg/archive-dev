@@ -1,0 +1,38 @@
+id: 01EY3YM6H2GGFHAGQKYXRXD4X7
+type: image
+subtype: photo
+title: Kirmes der Heimatverein
+date: 1918-08
+location: Kapern, Bahnhofstraße
+origin:
+  name: Käthe Heuer
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Schützenfest 1918
+    type: event
+  - name: Molkerei
+    type: building
+parents:
+  - 01G533XGBTT96G9NVNFMP1W6YH
+  - 01GQDM3ZFG19XY70Y5T88AY6HH
+files:
+  - role: main
+    original_name: P1619.jpg
+    path: files/ed/5b/ed5b686a2c7d2904c6e78dd1799e5c354d68d75b02c976b6f13e8b974163dcfa/original.jpg
+    sha256: ed5b686a2c7d2904c6e78dd1799e5c354d68d75b02c976b6f13e8b974163dcfa
+    mime: image/jpeg
+    bytes: 13325884
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/ed/5b/ed5b686a2c7d2904c6e78dd1799e5c354d68d75b02c976b6f13e8b974163dcfa/preview-400.b979fce83aad.jpg
+        sha256: b979fce83aad812918f3aa0b8ebfbddc972b36d9ec0020da405d1a563b784864
+        mime: image/jpeg
+        bytes: 64319
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

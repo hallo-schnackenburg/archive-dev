@@ -1,0 +1,37 @@
+id: 01HJRVK534TCGH19YM5AXAGZH2
+type: image
+subtype: plan
+title: Deichplan Dömitz bis Schnackenburg
+description: Tusche auf Transparentpapier.
+origin:
+  name: Heinrich Krüger
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro 40/302
+  note: Dachboden, Truhe
+files:
+  - role: main
+    original_name: scan_278.tif
+    path: files/c4/bc/c4bcc9dc70ef96fad2e24ce68e669d6a69394ddece6ba4204d52398d86fc85c0/original.tif
+    sha256: c4bcc9dc70ef96fad2e24ce68e669d6a69394ddece6ba4204d52398d86fc85c0
+    mime: image/tiff
+    bytes: 16882972
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c4/bc/c4bcc9dc70ef96fad2e24ce68e669d6a69394ddece6ba4204d52398d86fc85c0/preview-400.2419408ee0a6.jpg
+        sha256: 2419408ee0a63619a96148e7bfafcafee446207f04038379d2b2a714c624a2b8
+        mime: image/jpeg
+        bytes: 32784
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

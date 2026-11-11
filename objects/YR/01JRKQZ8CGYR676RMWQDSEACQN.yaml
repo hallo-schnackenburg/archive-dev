@@ -1,0 +1,44 @@
+id: 01JRKQZ8CGYR676RMWQDSEACQN
+type: image
+subtype: photo
+title: Blick vom Kindergarten auf das Hafen
+date: 2000-10-28
+location: Hitzacker, Am Elbdeich
+geocode:
+  lat: 52.9899
+  lon: 11.5473
+  precision: region
+  source: osm
+origin:
+  name: August Meyer
+  type: person
+  location: Lanz
+subjects:
+  - name: Torhaus
+    type: building
+  - name: Rüterberg
+    type: place
+  - name: Badestelle
+    type: building
+parents:
+  - 01J08P48B9HRVCXCZGRJBPCQ14
+files:
+  - role: main
+    original_name: IMG_4569.jpg
+    path: files/5f/d9/5fd99957f6c235f69c2907fba7827d66c1c2293bef8c4950b7483389b0644206/original.jpg
+    sha256: 5fd99957f6c235f69c2907fba7827d66c1c2293bef8c4950b7483389b0644206
+    mime: image/jpeg
+    bytes: 473918
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/5f/d9/5fd99957f6c235f69c2907fba7827d66c1c2293bef8c4950b7483389b0644206/preview-400.1a8cc16e5d5e.jpg
+        sha256: 1a8cc16e5d5eb47f4b07526c585dc218b5ed1c5394b4622ee149aa6f3e884b10
+        mime: image/jpeg
+        bytes: 33320
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

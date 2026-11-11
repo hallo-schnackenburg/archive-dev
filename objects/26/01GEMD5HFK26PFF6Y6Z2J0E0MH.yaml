@@ -1,0 +1,32 @@
+id: 01GEMD5HFK26PFF6Y6Z2J0E0MH
+type: image
+subtype: plan
+title: Bauplan Pfarrhaus 1829
+date: 1829-11
+location: Wustrow, Fährstraße
+origin:
+  name: Heinrich Harms
+  type: person
+  location: Lanz
+parents:
+  - 01F5BDT8RF2AK0D4775DY21054
+files:
+  - role: main
+    original_name: scan_050.tif
+    path: files/b8/dc/b8dc25c5c5769ed361e9cae8e879d04d9931f2ce026bcff95ec0d9bf735917e9/original.tif
+    sha256: b8dc25c5c5769ed361e9cae8e879d04d9931f2ce026bcff95ec0d9bf735917e9
+    mime: image/tiff
+    bytes: 7769830
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b8/dc/b8dc25c5c5769ed361e9cae8e879d04d9931f2ce026bcff95ec0d9bf735917e9/preview-400.2b84f958803e.jpg
+        sha256: 2b84f958803e6b2f2e7aadbec0e0b612f4db13ab103ceb2c0256328845c6da6d
+        mime: image/jpeg
+        bytes: 88163
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

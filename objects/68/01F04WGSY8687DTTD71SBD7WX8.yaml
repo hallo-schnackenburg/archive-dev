@@ -1,0 +1,38 @@
+id: 01F04WGSY8687DTTD71SBD7WX8
+type: image
+subtype: photo
+title: Speicher in Rüterberg
+date: 1964-01
+location: Lüchow, Dorfschule
+geocode:
+  lat: 52.9644
+  lon: 11.5569
+  precision: region
+  source: osm
+origin:
+  name: August Klatt
+  type: person
+  location: Dömitz
+parents:
+  - 01F1BHYRX3XQ5HK4ANVQXBQ5E6
+  - 01KCPF76CA7S8G3CA0KXJVYAVA
+files:
+  - role: main
+    original_name: scan_338.tif
+    path: files/3d/eb/3debb1daebb4c50ece1532a627fe9ec20818ee038eb915d862cbc571bb772ac7/original.tif
+    sha256: 3debb1daebb4c50ece1532a627fe9ec20818ee038eb915d862cbc571bb772ac7
+    mime: image/tiff
+    bytes: 12081583
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3d/eb/3debb1daebb4c50ece1532a627fe9ec20818ee038eb915d862cbc571bb772ac7/preview-400.487f536f0420.jpg
+        sha256: 487f536f0420c3b334f3b2549163a7b3e4c835fe4e7872d707a13d7189a287f7
+        mime: image/jpeg
+        bytes: 31617
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

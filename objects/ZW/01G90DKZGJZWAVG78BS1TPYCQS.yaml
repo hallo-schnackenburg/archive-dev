@@ -1,0 +1,40 @@
+id: 01G90DKZGJZWAVG78BS1TPYCQS
+type: image
+subtype: drawing
+title: Federzeichnung Gasthof Meyer, Restorf
+date: "1915"
+location: Rüterberg, Fährstraße
+origin:
+  name: Hans Harms
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Familie Eggers
+    type: person
+    location: Pretzier
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+parents:
+  - 01K6AZXAQBY5GZ2MJ9739G5ZQB
+files:
+  - role: main
+    original_name: scan_883.tif
+    path: files/9c/d7/9cd7eab53ac743ee707478ccdf656416c6b793f8e8c4ccc8be64ffa072e857e9/original.tif
+    sha256: 9cd7eab53ac743ee707478ccdf656416c6b793f8e8c4ccc8be64ffa072e857e9
+    mime: image/tiff
+    bytes: 24223681
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/9c/d7/9cd7eab53ac743ee707478ccdf656416c6b793f8e8c4ccc8be64ffa072e857e9/preview-400.4530155f776f.jpg
+        sha256: 4530155f776fed7804f62e3f34fc47d1c7f6a4f5687c844556c85b41399ee087
+        mime: image/jpeg
+        bytes: 79190
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

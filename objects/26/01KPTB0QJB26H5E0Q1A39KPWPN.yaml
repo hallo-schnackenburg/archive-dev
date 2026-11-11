@@ -1,0 +1,42 @@
+id: 01KPTB0QJB26H5E0Q1A39KPWPN
+type: image
+subtype: print
+title: Postkarte Kapern, Wassermühle
+date: 1880-08
+location: Bömenzien, Schulstraße
+geocode:
+  lat: 52.9188
+  lon: 11.6974
+  precision: region
+  source: osm
+origin:
+  name: Berta Hennings
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01G533XGBTT96G9NVNFMP1W6YH
+files:
+  - role: main
+    original_name: scan_380.tif
+    path: files/55/e6/55e61044979e4e083264f657629978b93c9ad674801fcb6c02fb68e376e26dd8/original.tif
+    sha256: 55e61044979e4e083264f657629978b93c9ad674801fcb6c02fb68e376e26dd8
+    mime: image/tiff
+    bytes: 25306319
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/55/e6/55e61044979e4e083264f657629978b93c9ad674801fcb6c02fb68e376e26dd8/preview-400.29b72ca64a7b.jpg
+        sha256: 29b72ca64a7b533fae3324b62cc49dbe9e7c40f7aad9d414da5f7aab3458ae66
+        mime: image/jpeg
+        bytes: 78602
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01K0V6N070THNDBV76X64Z1ARZ
+type: image
+subtype: print
+title: Postkarte Salzwedel, Poststelle
+date: 1940-11-13
+origin:
+  name: Emma Meyer
+  type: person
+  location: Gartow
+subjects:
+  - name: Lanz
+    type: place
+  - name: Hochzeit 1940
+    type: event
+parents:
+  - 01J0GYR8W2ERJ99C6YPH8ATKMN
+files:
+  - role: main
+    original_name: scan_998.tif
+    path: files/07/9c/079c99d4028e4bb2a9ead46aaec46d58ee8d1a98457f8aeef007ff1d9b7e3f55/original.tif
+    sha256: 079c99d4028e4bb2a9ead46aaec46d58ee8d1a98457f8aeef007ff1d9b7e3f55
+    mime: image/tiff
+    bytes: 16543665
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/9c/079c99d4028e4bb2a9ead46aaec46d58ee8d1a98457f8aeef007ff1d9b7e3f55/preview-400.61432029c0f4.jpg
+        sha256: 61432029c0f483f84753d009a77f50bf409d852a421ffcaf6446f268be28f0e8
+        mime: image/jpeg
+        bytes: 76180
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

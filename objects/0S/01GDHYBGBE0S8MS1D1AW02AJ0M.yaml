@@ -1,0 +1,36 @@
+id: 01GDHYBGBE0S8MS1D1AW02AJ0M
+type: image
+subtype: print
+title: Postkarte Gollensdorf, Tanzsaal
+date: "1939"
+location: Wootz, Gartenstraße
+geocode:
+  lat: 52.9941
+  lon: 11.5782
+  precision: exact
+  source: osm
+subjects:
+  - name: Kindergartenfest 1939
+    type: event
+parents:
+  - 01J1F26G843KSNYD4G1QK36C01
+files:
+  - role: main
+    original_name: scan_694.tif
+    path: files/54/c7/54c79afd6259d35687a9ba52cc11eee9260c46ed767ba70fc82874ddde33cc63/original.tif
+    sha256: 54c79afd6259d35687a9ba52cc11eee9260c46ed767ba70fc82874ddde33cc63
+    mime: image/tiff
+    bytes: 8590645
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/54/c7/54c79afd6259d35687a9ba52cc11eee9260c46ed767ba70fc82874ddde33cc63/preview-400.a04c2a6c9281.jpg
+        sha256: a04c2a6c92816496bbcce83e7cfece1a9485983fbc51f342a795df1e3af89b6b
+        mime: image/jpeg
+        bytes: 66303
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

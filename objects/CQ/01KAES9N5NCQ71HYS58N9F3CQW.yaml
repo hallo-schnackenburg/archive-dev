@@ -1,0 +1,63 @@
+id: 01KAES9N5NCQ71HYS58N9F3CQW
+type: document
+subtype: note
+title: Quittung für Emma Dreyer
+description: Beleg mit Stempel.
+date: 1923~
+location: Restorf, Elbstraße
+geocode:
+  lat: 52.9114
+  lon: 11.5673
+  precision: street
+  source: osm
+origin:
+  name: Paul Nitschke
+  type: person
+  location: Holtorf
+language: de
+subjects:
+  - name: Gartow
+    type: place
+parents:
+  - 01KX29XZ6YEZXRZYXDTRF154JS
+files:
+  - role: page
+    num: 1
+    original_name: note_9f3cqw_001.tif
+    path: files/e9/70/e9708a95ddc13c7b71c1cacd975721a49c8c12d11e2fb61e9f9a7a5638eafdd9/original.tif
+    sha256: e9708a95ddc13c7b71c1cacd975721a49c8c12d11e2fb61e9f9a7a5638eafdd9
+    mime: image/tiff
+    bytes: 2953865
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e9/70/e9708a95ddc13c7b71c1cacd975721a49c8c12d11e2fb61e9f9a7a5638eafdd9/preview-400.146954f2a657.jpg
+        sha256: 146954f2a657dc5d912d030bc47e2f8d3775417d537b560117bb234b6bd03aec
+        mime: image/jpeg
+        bytes: 26933
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_9f3cqw_002.tif
+    path: files/b3/78/b37816c2f33c997f7c50acbe24ffba9d891f43f0dccdb91067d07bcdcfecbe03/original.tif
+    sha256: b37816c2f33c997f7c50acbe24ffba9d891f43f0dccdb91067d07bcdcfecbe03
+    mime: image/tiff
+    bytes: 18325580
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b3/78/b37816c2f33c997f7c50acbe24ffba9d891f43f0dccdb91067d07bcdcfecbe03/preview-400.e580d1b943e8.jpg
+        sha256: e580d1b943e8915218359c3897de0d6137411c6f813120dd1f0e367e79bb2f11
+        mime: image/jpeg
+        bytes: 31816
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

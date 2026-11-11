@@ -1,0 +1,41 @@
+id: 01HTE3E41FRQ1P4YH4ZC8JEFGH
+type: image
+subtype: plan
+title: Grundriss Gasthof „Zur Elbe“, Dömitz
+date: 1912-09-21
+location: Havelberg, Hafen
+origin:
+  name: Ilse Tiedemann
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos 14/329
+subjects:
+  - name: Bömenzien
+    type: place
+parents:
+  - 01KVDK33TB3HJY6QE3J1AKEA7N
+files:
+  - role: main
+    original_name: scan_330.tif
+    path: files/68/69/68698a4704048734dcac67a67b80ad8fbe312a8e4005dec5d255aadd96108ef1/original.tif
+    sha256: 68698a4704048734dcac67a67b80ad8fbe312a8e4005dec5d255aadd96108ef1
+    mime: image/tiff
+    bytes: 5987805
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/68/69/68698a4704048734dcac67a67b80ad8fbe312a8e4005dec5d255aadd96108ef1/preview-400.292659d26726.jpg
+        sha256: 292659d267262f795b5d92f4991208e2b79a6a36872cf85b893609f9f2584001
+        mime: image/jpeg
+        bytes: 22803
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

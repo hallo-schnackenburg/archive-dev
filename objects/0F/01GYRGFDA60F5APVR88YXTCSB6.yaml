@@ -1,0 +1,50 @@
+id: 01GYRGFDA60F5APVR88YXTCSB6
+type: image
+subtype: drawing
+title: Ladestraße, Aquarell
+description: Bleistift auf Papier.
+date: 1942-11-02
+location: Zadrau, Am Elbdeich
+geocode:
+  lat: 53.0493
+  lon: 11.4649
+  precision: region
+  source: osm
+origin:
+  name: Marta Eggers
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok 2/051
+subjects:
+  - name: Karl Dierks
+    type: person
+  - name: Eisgang 1942
+    type: event
+parents:
+  - 01FJ86NA6W3C03D1PBGTPFRX8T
+files:
+  - role: main
+    original_name: scan_331.tif
+    path: files/b6/c3/b6c305b3bf01a24a132dcf284e00c118449389951015627165d4e7d2d90082d9/original.tif
+    sha256: b6c305b3bf01a24a132dcf284e00c118449389951015627165d4e7d2d90082d9
+    mime: image/tiff
+    bytes: 2571658
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b6/c3/b6c305b3bf01a24a132dcf284e00c118449389951015627165d4e7d2d90082d9/preview-400.6ae5ff4e23f7.jpg
+        sha256: 6ae5ff4e23f775d98940249f7d0dee6458cfedb1802ff89d2814b24e5105f8a7
+        mime: image/jpeg
+        bytes: 78393
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

@@ -1,0 +1,35 @@
+id: 01J4QYCS1S20HQSVZHKX5Z5GSQ
+type: image
+subtype: photo
+title: Blick vom Bahnhof auf das Kriegerdenkmal
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 198X
+origin:
+  name: Hans Jeß
+  type: person
+  location: Pretzier
+subjects:
+  - name: Karl Wulf
+    type: person
+  - name: Schnackenburg
+    type: place
+files:
+  - role: main
+    original_name: DSC1596.jpg
+    path: files/2d/be/2dbed62bb65aa45aec82e8d583dbc9cf091d4882d98105deaab5c36bad3e3dae/original.jpg
+    sha256: 2dbed62bb65aa45aec82e8d583dbc9cf091d4882d98105deaab5c36bad3e3dae
+    mime: image/jpeg
+    bytes: 26724060
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/2d/be/2dbed62bb65aa45aec82e8d583dbc9cf091d4882d98105deaab5c36bad3e3dae/preview-400.c5fe548ba58b.jpg
+        sha256: c5fe548ba58b54fbbe143ef04e29d19e93fdb09ecf332787ccbba08017514a83
+        mime: image/jpeg
+        bytes: 55370
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

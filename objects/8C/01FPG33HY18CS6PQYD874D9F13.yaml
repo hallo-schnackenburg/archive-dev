@@ -1,0 +1,33 @@
+id: 01FPG33HY18CS6PQYD874D9F13
+type: image
+subtype: plan
+title: Bauplan Ziegelei 1884
+date: 1884-03-17
+location: Zadrau, Dorfstraße
+original:
+  holder:
+    name: Familie Wiese
+    type: person
+    location: Nienwalde
+parents:
+  - 01JDMR23P0ST4P21YFR11Z2B2R
+files:
+  - role: main
+    original_name: scan_529.tif
+    path: files/fd/12/fd12d4e7213c332a287019d68d29295af04e9853b1c6c6ffca8a5375a31f82a6/original.tif
+    sha256: fd12d4e7213c332a287019d68d29295af04e9853b1c6c6ffca8a5375a31f82a6
+    mime: image/tiff
+    bytes: 23781437
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fd/12/fd12d4e7213c332a287019d68d29295af04e9853b1c6c6ffca8a5375a31f82a6/preview-400.466dfb9da72c.jpg
+        sha256: 466dfb9da72c7aad490ca8cbfd19de118fd6d9394ea14d27eb544036d3bbabc1
+        mime: image/jpeg
+        bytes: 82628
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

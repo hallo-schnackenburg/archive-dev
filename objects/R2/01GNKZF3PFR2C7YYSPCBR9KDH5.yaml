@@ -1,0 +1,32 @@
+id: 01GNKZF3PFR2C7YYSPCBR9KDH5
+type: image
+subtype: plan
+title: Deichplan Wittenberge bis Lüchow
+date: 1967-09-20
+location: Wittenberge, Gasthof „Zur Elbe“
+origin:
+  name: Heinrich Rieke
+  type: person
+  location: Zadrau
+parents:
+  - 01F1BHYRX3XQ5HK4ANVQXBQ5E6
+files:
+  - role: main
+    original_name: scan_316.tif
+    path: files/ff/6c/ff6c86b6ffed8d124d2249c48d4c33fdf3c169ea27c87ac78a3208d6abb7ccbe/original.tif
+    sha256: ff6c86b6ffed8d124d2249c48d4c33fdf3c169ea27c87ac78a3208d6abb7ccbe
+    mime: image/tiff
+    bytes: 25086216
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ff/6c/ff6c86b6ffed8d124d2249c48d4c33fdf3c169ea27c87ac78a3208d6abb7ccbe/preview-400.19819d7732c4.jpg
+        sha256: 19819d7732c40c0327fd96855d8d20d1222b4ed6d0d9b9a2cb982962f762b2c3
+        mime: image/jpeg
+        bytes: 57867
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,64 @@
+id: 01FKJ0W4NPQZR85MQFAA5Z4E4S
+type: document
+subtype: letter
+title: Brief von Albert Jeß an Wilhelm Meyer
+date: 1930-03-05
+location: Zadrau, Deichstraße
+origin:
+  name: Heinrich Jürgens
+  type: person
+  location: Gorleben
+recipient: Rudolf Kuhlmann
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 16/323
+subjects:
+  - name: Heuberge
+    type: building
+  - name: Schnackenburg
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_5z4e4s_001.tif
+    path: files/eb/61/eb612c772b36aaa73c7376d321d7a3508be756103bc79572ce93b5133ad2d71e/original.tif
+    sha256: eb612c772b36aaa73c7376d321d7a3508be756103bc79572ce93b5133ad2d71e
+    mime: image/tiff
+    bytes: 13216843
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/eb/61/eb612c772b36aaa73c7376d321d7a3508be756103bc79572ce93b5133ad2d71e/preview-400.38658e57a50e.jpg
+        sha256: 38658e57a50e98c6529c7d4c41c349aba557a2b9d0cf0bcb5fbcdf42529679f0
+        mime: image/jpeg
+        bytes: 37482
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_5z4e4s_002.tif
+    path: files/17/97/1797dcdf387dca12dba719336a68e1a3e9edee4596c2981ac92d44efe36e042a/original.tif
+    sha256: 1797dcdf387dca12dba719336a68e1a3e9edee4596c2981ac92d44efe36e042a
+    mime: image/tiff
+    bytes: 812791
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/17/97/1797dcdf387dca12dba719336a68e1a3e9edee4596c2981ac92d44efe36e042a/preview-400.d45901a0ecf9.jpg
+        sha256: d45901a0ecf960c6788fee88f0546b9859acbcdbf00392296901dd5f3d44e277
+        mime: image/jpeg
+        bytes: 53433
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

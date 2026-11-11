@@ -1,0 +1,43 @@
+id: 01J473DH9B2DDT7TCYTT0WPQJ2
+type: image
+subtype: photo
+title: Heinrich Schwarz, Porträt
+date: "1956"
+location: Holtorf, Schulstraße
+geocode:
+  lat: 52.9971
+  lon: 11.4764
+  precision: town
+  source: osm
+origin:
+  name: Karl Brandt
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos 28/104
+parents:
+  - 01FW1Z22ADA66X2V6627E3G693
+files:
+  - role: main
+    original_name: P9661.jpg
+    path: files/4d/d9/4dd968cd0b4b31e037c1f534e55dbeb5f90b66c2983abe2f00ed4ccf22321153/original.jpg
+    sha256: 4dd968cd0b4b31e037c1f534e55dbeb5f90b66c2983abe2f00ed4ccf22321153
+    mime: image/jpeg
+    bytes: 5371562
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/4d/d9/4dd968cd0b4b31e037c1f534e55dbeb5f90b66c2983abe2f00ed4ccf22321153/preview-400.0278583aa6e2.jpg
+        sha256: 0278583aa6e21f102c958c6c3e47a0b381fb854119e0fe5f38e1b1f011acd847
+        mime: image/jpeg
+        bytes: 37651
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

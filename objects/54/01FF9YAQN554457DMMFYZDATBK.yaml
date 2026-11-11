@@ -1,0 +1,45 @@
+id: 01FF9YAQN554457DMMFYZDATBK
+type: image
+subtype: photo
+title: Familie Lemke beim Erntedankfest
+description: Abzug im Format 13 x 18 cm.
+date: 1989-01-16
+location: Gorleben, Fährstraße
+geocode:
+  lat: 53.0374
+  lon: 11.5274
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 6/059
+subjects:
+  - name: Wootz
+    type: place
+  - name: Erika Lüders
+    type: person
+  - name: Glockenweihe 1989
+    type: event
+files:
+  - role: main
+    original_name: IMG_1040.jpg
+    path: files/23/c8/23c83353c7301d2e07c76e92211a288f070ef3a278d5723c2354afb2d4a634e6/original.jpg
+    sha256: 23c83353c7301d2e07c76e92211a288f070ef3a278d5723c2354afb2d4a634e6
+    mime: image/jpeg
+    bytes: 9703329
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/23/c8/23c83353c7301d2e07c76e92211a288f070ef3a278d5723c2354afb2d4a634e6/preview-400.77819d3b6c5c.jpg
+        sha256: 77819d3b6c5c3db83a4e3402da4ee83c65c6dc4a4271e9df3f3422f2a90fa28b
+        mime: image/jpeg
+        bytes: 29643
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

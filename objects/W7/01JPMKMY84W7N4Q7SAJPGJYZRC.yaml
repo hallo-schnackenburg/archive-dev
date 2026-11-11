@@ -1,0 +1,38 @@
+id: 01JPMKMY84W7N4Q7SAJPGJYZRC
+type: image
+subtype: print
+title: Postkarte Restorf, Dorfschule
+date: 1799/1803
+origin:
+  name: Rudolf Meyer
+  type: person
+  location: Gorleben
+subjects:
+  - name: Berta Kuhlmann
+    type: person
+  - name: Paul Lüders
+    type: person
+  - name: Havelberg
+    type: place
+parents:
+  - 01H40DBW3NVXVHMCXP864M4XJA
+files:
+  - role: main
+    original_name: scan_611.tif
+    path: files/cd/7c/cd7cb61e2eb1bac377990e699c41b4a3b8c6cb8bf3264e3ae4e5bcc8870e2325/original.tif
+    sha256: cd7cb61e2eb1bac377990e699c41b4a3b8c6cb8bf3264e3ae4e5bcc8870e2325
+    mime: image/tiff
+    bytes: 7426347
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cd/7c/cd7cb61e2eb1bac377990e699c41b4a3b8c6cb8bf3264e3ae4e5bcc8870e2325/preview-400.7c6d88ce91c5.jpg
+        sha256: 7c6d88ce91c570e8aa90d68100157e4e17b1e87c83e6ee94b600cc8b7d4329f2
+        mime: image/jpeg
+        bytes: 66938
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,58 @@
+id: 01HR6PQBRE8Z1FY3R12EJ1YFG5
+type: document
+subtype: note
+title: Kassenzettel Schlachterei
+description: Beleg mit Stempel.
+date: 1880-03-07
+location: Zadrau, Ladestraße
+origin:
+  name: Walter Tiedemann
+  type: person
+  location: Brünkendorf
+language: de
+subjects:
+  - name: Eisgang 1880
+    type: event
+  - name: Karl Garms
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_j1yfg5_001.tif
+    path: files/d7/6c/d76ce7099e29e821d9e54f13ae9816de9ee6550f785d5be4fe46de6edee60c34/original.tif
+    sha256: d76ce7099e29e821d9e54f13ae9816de9ee6550f785d5be4fe46de6edee60c34
+    mime: image/tiff
+    bytes: 3337587
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/6c/d76ce7099e29e821d9e54f13ae9816de9ee6550f785d5be4fe46de6edee60c34/preview-400.d360c04f8088.jpg
+        sha256: d360c04f80880f237c8d14bae23363a49eddcf81f25ff8d9c945d095d0847804
+        mime: image/jpeg
+        bytes: 44472
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_j1yfg5_002.tif
+    path: files/57/5e/575e99aa2a5182f686605c12fefafaf876385ecfa664f8059fd9b61b3c847726/original.tif
+    sha256: 575e99aa2a5182f686605c12fefafaf876385ecfa664f8059fd9b61b3c847726
+    mime: image/tiff
+    bytes: 22908276
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/5e/575e99aa2a5182f686605c12fefafaf876385ecfa664f8059fd9b61b3c847726/preview-400.b2e2b4a6448a.jpg
+        sha256: b2e2b4a6448a6fa78a0dc29bbf2c233dd6b1ff11bf7e3599de2019605b2dfb40
+        mime: image/jpeg
+        bytes: 63417
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

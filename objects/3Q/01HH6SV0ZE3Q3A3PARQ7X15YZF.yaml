@@ -1,0 +1,39 @@
+id: 01HH6SV0ZE3Q3A3PARQ7X15YZF
+type: image
+subtype: plan
+title: Katasterblatt Heuer
+description: Maßstab 1:250.
+date: 1767-02-10
+location: Gartow, Am Markt
+origin:
+  name: Elfriede Wiegmann
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Schrank B
+parents:
+  - 01FAQ3AREZBKTAGHNPJF8ZYQP7
+files:
+  - role: main
+    original_name: scan_276.tif
+    path: files/7c/b5/7cb53ee4fb276e5c3746db9b6bf9df217190fbad32f2b1304b2e20cae71e3344/original.tif
+    sha256: 7cb53ee4fb276e5c3746db9b6bf9df217190fbad32f2b1304b2e20cae71e3344
+    mime: image/tiff
+    bytes: 2467551
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/7c/b5/7cb53ee4fb276e5c3746db9b6bf9df217190fbad32f2b1304b2e20cae71e3344/preview-400.d79abe378042.jpg
+        sha256: d79abe378042e053f1c18d36571d48d46dcedd8463e0744757d1ff962c911870
+        mime: image/jpeg
+        bytes: 82276
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

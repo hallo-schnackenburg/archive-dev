@@ -1,0 +1,37 @@
+id: 01KT39GT67NCEPWYEG9KWYN14T
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Beerdigung, Rüterberg"
+date: 1943?
+location: Gülden, Windmühle
+origin:
+  name: Karl Ahrens
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Gärtnerei
+    type: building
+  - name: Dieter Ahrens
+    type: person
+parents:
+  - 01KD000830AWSSZZ7WT8DANPRF
+files:
+  - role: main
+    original_name: scan_233.tif
+    path: files/91/ff/91ff16c37cedf8da154aa6d15018c2690f208f66ad84646ed689fe3051b429a8/original.tif
+    sha256: 91ff16c37cedf8da154aa6d15018c2690f208f66ad84646ed689fe3051b429a8
+    mime: image/tiff
+    bytes: 10376102
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/91/ff/91ff16c37cedf8da154aa6d15018c2690f208f66ad84646ed689fe3051b429a8/preview-400.1fa944b9bf02.jpg
+        sha256: 1fa944b9bf0266b1f680de71c487e90e27c944abdc65a6b9ac3bdb215a02b3de
+        mime: image/jpeg
+        bytes: 80951
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

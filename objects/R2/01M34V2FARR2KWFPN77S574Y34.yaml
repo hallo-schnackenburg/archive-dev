@@ -1,0 +1,41 @@
+id: 01M34V2FARR2KWFPN77S574Y34
+type: image
+subtype: plan
+title: Grundriss Ladestraße
+description: Tusche auf Transparentpapier.
+date: 1910/1922
+location: Nienwalde, Elbstraße
+origin:
+  name: Lotte Wöhlk
+  type: person
+  location: Gorleben
+original:
+  holder:
+    name: Familie Detlefs
+    type: person
+    location: Seedorf
+subjects:
+  - name: Fritz Garms
+    type: person
+parents:
+  - 01KGBXSKRT00YBVNJ684TQMH5V
+files:
+  - role: main
+    original_name: scan_102.tif
+    path: files/95/7e/957e76197dcef055e6a2bc41c9d3a9d1a08a15169647e61d4449f4ac6565143d/original.tif
+    sha256: 957e76197dcef055e6a2bc41c9d3a9d1a08a15169647e61d4449f4ac6565143d
+    mime: image/tiff
+    bytes: 12300337
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/7e/957e76197dcef055e6a2bc41c9d3a9d1a08a15169647e61d4449f4ac6565143d/preview-400.93c7f7771e50.jpg
+        sha256: 93c7f7771e50addcd01a97d3055f4fa8700d6c05bb786f639599974bdd2e6397
+        mime: image/jpeg
+        bytes: 44132
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

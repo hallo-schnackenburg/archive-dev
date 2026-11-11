@@ -1,0 +1,38 @@
+id: 01GHZ6CVW7CFW0NS865JFEGEX0
+type: image
+subtype: print
+title: Postkarte Lanz, Bahnhof
+description: Lithographie, Rand beschnitten.
+date: 1854-01
+origin:
+  name: Klaus Ahrens
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F 36/343
+parents:
+  - 01JGPFTKQXNYFFYDJ57GMWQASN
+files:
+  - role: main
+    original_name: scan_508.tif
+    path: files/93/18/9318879447318773f82caa84266da7e46bd82ea80c2399d376c4cb543a5f00de/original.tif
+    sha256: 9318879447318773f82caa84266da7e46bd82ea80c2399d376c4cb543a5f00de
+    mime: image/tiff
+    bytes: 24462513
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/93/18/9318879447318773f82caa84266da7e46bd82ea80c2399d376c4cb543a5f00de/preview-400.27105d12ec03.jpg
+        sha256: 27105d12ec031dc58a152c23950e556e9e3627d33bc76a8997f8254cfdcd84d8
+        mime: image/jpeg
+        bytes: 55939
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

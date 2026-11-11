@@ -1,0 +1,41 @@
+id: 01FXGX0T7DXE2JHSM1QRBDXVQK
+type: image
+subtype: photo
+title: Rathaus nach dem Fastnacht
+description: Farbfoto, leicht verblasst.
+date: 1892-06-11
+location: Dömitz, Burgstraße
+origin:
+  name: Berta Lemke
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan/Mappe 10/092
+  note: Kellerarchiv
+parents:
+  - 01JSYB7Z03WSNMJ0H37E7BWCQW
+  - 01JZXBT98ER840PDJR2YFFBCZR
+files:
+  - role: main
+    original_name: DSC4790.jpg
+    path: files/2a/9f/2a9f707d20164ad909b1c71fec65f4dd9228f68e56ff97b8deb5b75a8a5b49c1/original.jpg
+    sha256: 2a9f707d20164ad909b1c71fec65f4dd9228f68e56ff97b8deb5b75a8a5b49c1
+    mime: image/jpeg
+    bytes: 7460824
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/2a/9f/2a9f707d20164ad909b1c71fec65f4dd9228f68e56ff97b8deb5b75a8a5b49c1/preview-400.2b38ed0735c2.jpg
+        sha256: 2b38ed0735c27303425f3bbbd32db11ee39796a2e81ed0882bb9eef938d5b3fd
+        mime: image/jpeg
+        bytes: 52195
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

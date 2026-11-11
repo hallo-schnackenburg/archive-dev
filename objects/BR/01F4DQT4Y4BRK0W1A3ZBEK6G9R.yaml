@@ -1,0 +1,41 @@
+id: 01F4DQT4Y4BRK0W1A3ZBEK6G9R
+type: image
+subtype: photo
+title: Maifeier 1930
+description: Zu sehen sind Schmiede und Schmiede.
+date: 1930-02
+location: Havelberg, Deichstraße
+origin:
+  name: Erika Rohde
+  type: person
+  location: Gartow
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Schlachterei
+    type: building
+  - name: Gerda Lemke
+    type: person
+parents:
+  - 01J3V1AMRN38DQVKPXPMF1EE94
+  - 01JDVF1103F03HCTM49T0G4EC6
+files:
+  - role: main
+    original_name: IMG_6933.jpg
+    path: files/33/c5/33c5535cb6d5795ac37c7bb114dd4c8f38450daa1ec41b1c93b274d51ac9666c/original.jpg
+    sha256: 33c5535cb6d5795ac37c7bb114dd4c8f38450daa1ec41b1c93b274d51ac9666c
+    mime: image/jpeg
+    bytes: 15585888
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/33/c5/33c5535cb6d5795ac37c7bb114dd4c8f38450daa1ec41b1c93b274d51ac9666c/preview-400.cea19e9c5678.jpg
+        sha256: cea19e9c56780f0eedc9446b42102badd1b124cdc73ed39ab4999e1a9c64c90a
+        mime: image/jpeg
+        bytes: 84735
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

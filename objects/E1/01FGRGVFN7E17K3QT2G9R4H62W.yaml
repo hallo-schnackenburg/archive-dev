@@ -1,0 +1,66 @@
+id: 01FGRGVFN7E17K3QT2G9R4H62W
+type: document
+subtype: note
+title: Aktennotiz Feuerwehrausschuss, Wootz
+date: 1920-11
+location: Lanz, Storchennest
+geocode:
+  lat: 52.9621
+  lon: 11.5638
+  precision: town
+  source: osm
+origin:
+  name: Fritz Dreyer
+  type: person
+  location: Cumlosen
+language: de
+subjects:
+  - name: Ilse Krüger
+    type: person
+  - name: Rudolf Gaede
+    type: person
+  - name: Grenzturm
+    type: building
+parents:
+  - 01JZ2DVH8HN29KX4QQA51CQ13F
+files:
+  - role: page
+    num: 1
+    original_name: note_r4h62w_001.tif
+    path: files/08/cc/08ccc9d45264f486083d0ce902bf9aabc5f89d6e404fbe3ac85d67b0cbf37243/original.tif
+    sha256: 08ccc9d45264f486083d0ce902bf9aabc5f89d6e404fbe3ac85d67b0cbf37243
+    mime: image/tiff
+    bytes: 706186
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/08/cc/08ccc9d45264f486083d0ce902bf9aabc5f89d6e404fbe3ac85d67b0cbf37243/preview-400.792f87593358.jpg
+        sha256: 792f87593358f84fbe66aaaabf087a27b718627d0717748f05adf2787a2f9678
+        mime: image/jpeg
+        bytes: 51685
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_r4h62w_002.tif
+    path: files/95/fa/95fa2bb1cb0060e683314b6292ed464acefde41da37e5a485d1053dfc4731a66/original.tif
+    sha256: 95fa2bb1cb0060e683314b6292ed464acefde41da37e5a485d1053dfc4731a66
+    mime: image/tiff
+    bytes: 26826776
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/fa/95fa2bb1cb0060e683314b6292ed464acefde41da37e5a485d1053dfc4731a66/preview-400.52d6df854afe.jpg
+        sha256: 52d6df854afee48b9ade58f28f949c667729bdd684e9f213c5bb7346a5e0113b
+        mime: image/jpeg
+        bytes: 76876
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

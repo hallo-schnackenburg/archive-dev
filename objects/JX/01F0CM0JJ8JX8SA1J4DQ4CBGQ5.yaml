@@ -1,0 +1,36 @@
+id: 01F0CM0JJ8JX8SA1J4DQ4CBGQ5
+type: image
+subtype: print
+title: Postkarte Rüterberg, Gutshaus
+description: Postkarte, gelaufen 1940.
+date: 1814-07-15
+location: Holtorf, Marktstraße
+origin:
+  name: Karl Hartwig
+  type: person
+  location: Lanz
+subjects:
+  - name: Tanzsaal
+    type: building
+parents:
+  - 01FFXT95F2XCPVJ6NKJMCYEVVA
+files:
+  - role: main
+    original_name: scan_720.tif
+    path: files/0f/47/0f47cbb4a41706a1358dff3ae2952d79da5e8ce5c072d6bd067607a38d4e39de/original.tif
+    sha256: 0f47cbb4a41706a1358dff3ae2952d79da5e8ce5c072d6bd067607a38d4e39de
+    mime: image/tiff
+    bytes: 25611029
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0f/47/0f47cbb4a41706a1358dff3ae2952d79da5e8ce5c072d6bd067607a38d4e39de/preview-400.395c36045ef5.jpg
+        sha256: 395c36045ef5dd1aa179b90ca2be226530dc070ac765a94c2b31d4f29650a428
+        mime: image/jpeg
+        bytes: 33565
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

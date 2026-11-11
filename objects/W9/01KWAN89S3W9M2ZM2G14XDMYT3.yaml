@@ -1,0 +1,40 @@
+id: 01KWAN89S3W9M2ZM2G14XDMYT3
+type: image
+subtype: plan
+title: Grundriss Kaufmannshaus
+description: Maßstab 1:250.
+date: 1992?
+origin:
+  name: Wilhelm Bohlmann
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Gemeindehaus
+    type: building
+  - name: Zollamt
+    type: building
+files:
+  - role: main
+    original_name: scan_204.tif
+    path: files/23/fa/23facff81aeecc155498fe5e8cfce215e0dd4abb1e1251c9754fc697a7f24c31/original.tif
+    sha256: 23facff81aeecc155498fe5e8cfce215e0dd4abb1e1251c9754fc697a7f24c31
+    mime: image/tiff
+    bytes: 21353566
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/23/fa/23facff81aeecc155498fe5e8cfce215e0dd4abb1e1251c9754fc697a7f24c31/preview-400.68c9b4538bad.jpg
+        sha256: 68c9b4538bada0b584593be8a8e3ec4447f5555a783311a9e8755a375b286daa
+        mime: image/jpeg
+        bytes: 40627
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

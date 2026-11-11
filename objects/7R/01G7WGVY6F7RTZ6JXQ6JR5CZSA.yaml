@@ -1,0 +1,33 @@
+id: 01G7WGVY6F7RTZ6JXQ6JR5CZSA
+type: image
+subtype: photo
+title: Osterfeuer der Heimatverein
+description: Farbfoto, leicht verblasst.
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 21/042
+parents:
+  - 01F46MZG12HDJQK9Z29HPTQV9B
+files:
+  - role: main
+    original_name: scan_363.tif
+    path: files/40/c6/40c643c7a87d6ffad22b4b8ef4f2b0ec03ae40df799e4dd7478c340b6a18a06f/original.tif
+    sha256: 40c643c7a87d6ffad22b4b8ef4f2b0ec03ae40df799e4dd7478c340b6a18a06f
+    mime: image/tiff
+    bytes: 5508508
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/40/c6/40c643c7a87d6ffad22b4b8ef4f2b0ec03ae40df799e4dd7478c340b6a18a06f/preview-400.a8af8e05211f.jpg
+        sha256: a8af8e05211fe192ef061517f99a47391c811844fd5e344753856ea111ad6eca
+        mime: image/jpeg
+        bytes: 54600
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

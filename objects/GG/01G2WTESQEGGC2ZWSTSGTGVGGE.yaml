@@ -1,0 +1,33 @@
+id: 01G2WTESQEGGC2ZWSTSGTGVGGE
+type: image
+subtype: drawing
+title: Tischlerei Bruns, Aquarell, Kapern
+description: Bleistift auf Papier.
+date: 1988-07-18
+location: Wittenberge, Am Markt
+origin:
+  name: Ernst Ahrens
+  type: person
+  location: Wustrow
+parents:
+  - 01K4CSV2ZP5WMZZB5PTYVKX9F7
+files:
+  - role: main
+    original_name: scan_599.tif
+    path: files/74/07/7407367fda6e62a2c06a5a2e3fd86c87b6e82c9385b2eb8f98741edcf66254c7/original.tif
+    sha256: 7407367fda6e62a2c06a5a2e3fd86c87b6e82c9385b2eb8f98741edcf66254c7
+    mime: image/tiff
+    bytes: 2499258
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/74/07/7407367fda6e62a2c06a5a2e3fd86c87b6e82c9385b2eb8f98741edcf66254c7/preview-400.ec4fc3a3cc3c.jpg
+        sha256: ec4fc3a3cc3c4ccb25ae604635ff79bdd8df81410e6c92a41a3f653382073741
+        mime: image/jpeg
+        bytes: 34060
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

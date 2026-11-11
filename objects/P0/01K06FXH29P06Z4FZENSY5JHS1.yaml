@@ -1,0 +1,44 @@
+id: 01K06FXH29P06Z4FZENSY5JHS1
+type: image
+subtype: print
+title: Ansichtskarte Schulstraße, Havelberg
+description: Lithographie, Rand beschnitten.
+date: 1737?
+location: Lenzen, Dorfschule
+origin:
+  name: Rudolf Ahrens
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan/Kasten 22/009
+subjects:
+  - name: Erika Lemke
+    type: person
+  - name: Sturmschaden 1737
+    type: event
+parents:
+  - 01FSFJ347AK0X35M67AK3MGJ67
+files:
+  - role: main
+    original_name: scan_544.tif
+    path: files/99/dd/99dd78feeca7a827dc7c84288dca00379432f96249b413bef91ec1c4750140dc/original.tif
+    sha256: 99dd78feeca7a827dc7c84288dca00379432f96249b413bef91ec1c4750140dc
+    mime: image/tiff
+    bytes: 19927617
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/99/dd/99dd78feeca7a827dc7c84288dca00379432f96249b413bef91ec1c4750140dc/preview-400.9c8f2454d36a.jpg
+        sha256: 9c8f2454d36aecd40bc496f1440c02d3121d09d1b754db8c6e49de4d41764f97
+        mime: image/jpeg
+        bytes: 47608
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

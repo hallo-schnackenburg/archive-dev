@@ -1,0 +1,39 @@
+id: 01GG8D2T9ZMQ39ESMGH1BP7HTC
+type: image
+subtype: photo
+title: Apotheke nach dem Ortsbesichtigung
+description: Zu sehen sind Apotheke und Bäckerei Lüders.
+date: 1942-02-19
+location: Hitzacker, Marktstraße
+origin:
+  name: Karl Dierks
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Viehmarkt 1942
+    type: event
+  - name: Einweihung 1942
+    type: event
+parents:
+  - 01HBAGVGSH8T07D9N2JBVPMDAH
+  - 01F54Y44HWBYAXTTC3F5NVVN21
+files:
+  - role: main
+    original_name: foto_0309.jpg
+    path: files/8a/13/8a137960d93088b3b8add4f42270aab9246a8a266ed6428eda7f6f3a338678dc/original.jpg
+    sha256: 8a137960d93088b3b8add4f42270aab9246a8a266ed6428eda7f6f3a338678dc
+    mime: image/jpeg
+    bytes: 11110130
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/8a/13/8a137960d93088b3b8add4f42270aab9246a8a266ed6428eda7f6f3a338678dc/preview-400.a695110aacb9.jpg
+        sha256: a695110aacb90d54406458e408324a952592f8329fcd52beafe94893046a582d
+        mime: image/jpeg
+        bytes: 50029
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

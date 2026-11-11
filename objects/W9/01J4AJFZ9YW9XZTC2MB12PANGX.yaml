@@ -1,0 +1,36 @@
+id: 01J4AJFZ9YW9XZTC2MB12PANGX
+type: image
+subtype: print
+title: Gruß aus Dömitz
+description: Lithographie, Rand beschnitten.
+date: 1738-06
+location: Gartow, Bahnhofstraße
+origin:
+  name: Rudolf Brandt
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Schlachterei
+    type: building
+  - name: Dorfkrug
+    type: building
+files:
+  - role: main
+    original_name: scan_211.tif
+    path: files/c0/c1/c0c1b0239309339056ac6d0394d120aa9e3ca57ad468c3edfd45d5bdd5b42ae4/original.tif
+    sha256: c0c1b0239309339056ac6d0394d120aa9e3ca57ad468c3edfd45d5bdd5b42ae4
+    mime: image/tiff
+    bytes: 20355005
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c0/c1/c0c1b0239309339056ac6d0394d120aa9e3ca57ad468c3edfd45d5bdd5b42ae4/preview-400.4f31eca84606.jpg
+        sha256: 4f31eca84606de0936cbee1b65b8a99a9eec38c51eca87e533cf434a0ea26a2b
+        mime: image/jpeg
+        bytes: 65150
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,43 @@
+id: 01FGBBCB8WD41WGA595XEYSC3R
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Fährjubiläum, Nienwalde"
+description: Federzeichnung, laviert.
+date: 1930/1931
+origin:
+  name: Karl Krüger
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F/Kasten 13/047
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Apotheke
+    type: building
+parents:
+  - 01GA5Z0DBZAQFYJJA123R8HCJ9
+files:
+  - role: main
+    original_name: scan_073.tif
+    path: files/ed/f5/edf51137b4a5b583ed09983bf16a0be1765fbaff3b00d3d63ce52dfad3d6b8cc/original.tif
+    sha256: edf51137b4a5b583ed09983bf16a0be1765fbaff3b00d3d63ce52dfad3d6b8cc
+    mime: image/tiff
+    bytes: 14240582
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ed/f5/edf51137b4a5b583ed09983bf16a0be1765fbaff3b00d3d63ce52dfad3d6b8cc/preview-400.c1b6fcc9ae12.jpg
+        sha256: c1b6fcc9ae12c98d6f117465ceecdd048bd0e3a624bed2e27acc14ddb23c7ab3
+        mime: image/jpeg
+        bytes: 81822
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

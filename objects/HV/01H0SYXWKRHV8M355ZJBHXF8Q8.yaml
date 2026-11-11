@@ -1,0 +1,46 @@
+id: 01H0SYXWKRHV8M355ZJBHXF8Q8
+type: image
+subtype: photo
+title: Blick vom Kirche St. Johannis auf das Windmühle
+date: 1992-05-17
+origin:
+  name: Berta Dierks
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 29/084
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v8189
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Fähranleger
+    type: building
+  - name: Sturmschaden 1992
+    type: event
+parents:
+  - 01HP82YB6MPZJ20Z4EGHA5QYFX
+  - 01H7TAC1S0T298G0K08CGYD8Q7
+files:
+  - role: main
+    original_name: scan_926.tif
+    path: files/ed/b3/edb318579715ee85c3fcbbec9c34f992e5a04ab289bf115295f74f288ed60ced/original.tif
+    sha256: edb318579715ee85c3fcbbec9c34f992e5a04ab289bf115295f74f288ed60ced
+    mime: image/tiff
+    bytes: 4150098
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ed/b3/edb318579715ee85c3fcbbec9c34f992e5a04ab289bf115295f74f288ed60ced/preview-400.fd239e673f9c.jpg
+        sha256: fd239e673f9cfddc847f716334ffaee50b4c3b7b311538a27f12ca5d00849d35
+        mime: image/jpeg
+        bytes: 27054
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

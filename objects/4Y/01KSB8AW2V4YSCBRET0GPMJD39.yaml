@@ -1,0 +1,31 @@
+id: 01KSB8AW2V4YSCBRET0GPMJD39
+type: image
+subtype: plan
+title: Bauplan Schmiede 1754
+date: 1754-10-11
+origin:
+  name: Dieter Kuhlmann
+  type: person
+  location: Lanz
+parents:
+  - 01GWFE0FE3S612EGDSN47NZK4B
+files:
+  - role: main
+    original_name: scan_343.tif
+    path: files/45/f5/45f5b397c4e93765dc28da77b7ce5a95f5dce9609f35d75a9e38b36fa62ffc8d/original.tif
+    sha256: 45f5b397c4e93765dc28da77b7ce5a95f5dce9609f35d75a9e38b36fa62ffc8d
+    mime: image/tiff
+    bytes: 13589650
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/45/f5/45f5b397c4e93765dc28da77b7ce5a95f5dce9609f35d75a9e38b36fa62ffc8d/preview-400.b514bb560fd6.jpg
+        sha256: b514bb560fd63558df3ca238722ceb2469aeb3db7962bd457cdab6d23f143b97
+        mime: image/jpeg
+        bytes: 64468
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

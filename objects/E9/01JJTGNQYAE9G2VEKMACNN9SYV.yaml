@@ -1,0 +1,40 @@
+id: 01JJTGNQYAE9G2VEKMACNN9SYV
+type: image
+subtype: photo
+title: Ziegelei in Rüterberg
+date: 1962-01-03
+location: Rüterberg, Storchennest
+geocode:
+  lat: 52.9925
+  lon: 11.6415
+  precision: region
+  source: osm
+origin:
+  name: Rudolf Hennings
+  type: person
+  location: Wootz
+subjects:
+  - name: Hochwasser 1962
+    type: event
+parents:
+  - 01J3V1AMRN38DQVKPXPMF1EE94
+files:
+  - role: main
+    original_name: scan_475.tif
+    path: files/10/ac/10ace41417c021c6a9d89236163c19100a63781c6cceca0a7d7946635691f3f3/original.tif
+    sha256: 10ace41417c021c6a9d89236163c19100a63781c6cceca0a7d7946635691f3f3
+    mime: image/tiff
+    bytes: 9999350
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/10/ac/10ace41417c021c6a9d89236163c19100a63781c6cceca0a7d7946635691f3f3/preview-400.26d7e7ec38d5.jpg
+        sha256: 26d7e7ec38d5aa246f4b3cc92e43b11f752715e7f6782d6e63f8096524b0f1be
+        mime: image/jpeg
+        bytes: 47812
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

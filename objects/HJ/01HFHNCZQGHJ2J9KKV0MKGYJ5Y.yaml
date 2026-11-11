@@ -1,0 +1,45 @@
+id: 01HFHNCZQGHJ2J9KKV0MKGYJ5Y
+type: image
+subtype: drawing
+title: Skizze Wittenberge, Burgstraße
+date: "1923"
+location: Rüterberg, Elbstraße
+geocode:
+  lat: 53.0288
+  lon: 11.6128
+  precision: region
+  source: osm
+origin:
+  name: Otto Schwarz
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+subjects:
+  - name: Gemeindehaus
+    type: building
+parents:
+  - 01J9G2YFZQRW9H8YS0MWA1XHM0
+files:
+  - role: main
+    original_name: scan_780.tif
+    path: files/80/48/8048184aa8b8e61ed35d5b4a7ba72cfe06fecbc22b246ba62e54bc8e993de535/original.tif
+    sha256: 8048184aa8b8e61ed35d5b4a7ba72cfe06fecbc22b246ba62e54bc8e993de535
+    mime: image/tiff
+    bytes: 10822578
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/80/48/8048184aa8b8e61ed35d5b4a7ba72cfe06fecbc22b246ba62e54bc8e993de535/preview-400.492965068e4e.jpg
+        sha256: 492965068e4e885083b1d085b8dfd7ea6b3ec09c7997a073282e13222d71e9cd
+        mime: image/jpeg
+        bytes: 26795
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

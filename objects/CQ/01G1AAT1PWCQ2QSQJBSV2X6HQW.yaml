@@ -1,0 +1,43 @@
+id: 01G1AAT1PWCQ2QSQJBSV2X6HQW
+type: image
+subtype: plan
+title: Deichplan Rüterberg bis Kapern
+date: 1930-11
+location: Gollensdorf, Am Markt
+geocode:
+  lat: 53.0089
+  lon: 11.5208
+  precision: region
+  source: osm
+origin:
+  name: Lotte Kuhlmann
+  type: person
+  location: Havelberg
+subjects:
+  - name: Karl Kuhlmann
+    type: person
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+parents:
+  - 01GHXA70MDX353KKCRS2BQ39WE
+  - 01KQVCCGD4CP4QYK6YQJ3YAGSW
+files:
+  - role: main
+    original_name: scan_515.tif
+    path: files/63/9e/639ea27845b8232c76993f6c95e1a4931ddeaac86bbb05e949383cf58fb7f9aa/original.tif
+    sha256: 639ea27845b8232c76993f6c95e1a4931ddeaac86bbb05e949383cf58fb7f9aa
+    mime: image/tiff
+    bytes: 4154311
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/63/9e/639ea27845b8232c76993f6c95e1a4931ddeaac86bbb05e949383cf58fb7f9aa/preview-400.938dedc5c892.jpg
+        sha256: 938dedc5c89233ec161174054de07b9a263452425ae465ec4dc256c2a95e0ab5
+        mime: image/jpeg
+        bytes: 39726
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

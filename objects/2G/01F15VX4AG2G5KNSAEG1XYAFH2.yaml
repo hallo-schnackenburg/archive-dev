@@ -1,0 +1,35 @@
+id: 01F15VX4AG2G5KNSAEG1XYAFH2
+type: image
+subtype: print
+title: Lithographie Gasthof „Zur Elbe“, Dömitz
+date: 1782-09-28
+origin:
+  name: Frieda Bohlmann
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Zadrau
+    type: place
+parents:
+  - 01KD000830AWSSZZ7WT8DANPRF
+  - 01K7J4DX7VRH2T02JPNZCE3TH0
+files:
+  - role: main
+    original_name: scan_806.tif
+    path: files/fe/3f/fe3f8e7765d93bf154fff79c55778530c9c43293edf1cc692639d417680798ff/original.tif
+    sha256: fe3f8e7765d93bf154fff79c55778530c9c43293edf1cc692639d417680798ff
+    mime: image/tiff
+    bytes: 18255440
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fe/3f/fe3f8e7765d93bf154fff79c55778530c9c43293edf1cc692639d417680798ff/preview-400.07131dd1713c.jpg
+        sha256: 07131dd1713c2fcbad2bee6a0f9fbc5df518de8668a44aa770a41f3177763bae
+        mime: image/jpeg
+        bytes: 46897
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

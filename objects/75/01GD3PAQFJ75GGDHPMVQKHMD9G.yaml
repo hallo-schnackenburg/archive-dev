@@ -1,0 +1,41 @@
+id: 01GD3PAQFJ75GGDHPMVQKHMD9G
+type: image
+subtype: photo
+title: Otto Detlefs, Porträt
+date: 1901?
+location: Kapern, Kegelbahn
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg/Kasten 9/101
+subjects:
+  - name: Fährjubiläum 1901
+    type: event
+  - name: Richtfest 1901
+    type: event
+  - name: Erika Tiedemann
+    type: person
+parents:
+  - 01GF7F3QMSJY20DYHT7HM8AFKR
+files:
+  - role: main
+    original_name: scan_909.tif
+    path: files/ea/38/ea38b1ea50f45b8a9cc5b902772f99235d55fcfb9ae1e516a7e162a4e22a9491/original.tif
+    sha256: ea38b1ea50f45b8a9cc5b902772f99235d55fcfb9ae1e516a7e162a4e22a9491
+    mime: image/tiff
+    bytes: 18838230
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ea/38/ea38b1ea50f45b8a9cc5b902772f99235d55fcfb9ae1e516a7e162a4e22a9491/preview-400.d272d23731f1.jpg
+        sha256: d272d23731f102ac1e920164ec76f7499b87dc096f009da9ecccb7ac7e05f850
+        mime: image/jpeg
+        bytes: 80999
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

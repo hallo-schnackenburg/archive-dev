@@ -1,0 +1,64 @@
+id: 01KX0EJJWSCV9PNJQGD7JX4WJ4
+type: document
+subtype: protocol
+title: Protokoll des Verbandsversammlung vom 1970
+date: 1970-06
+location: Arendsee, Grenzturm
+geocode:
+  lat: 53.0765
+  lon: 11.5818
+  precision: street
+  source: osm
+origin:
+  name: Ortsrat Laase
+  type: business
+  location: Wustrow
+language: de
+subjects:
+  - name: Scheune
+    type: building
+  - name: Heinrich Schulz
+    type: person
+parents:
+  - 01H5HMCYV3GS9H3ZBJZMHBTPJV
+files:
+  - role: page
+    num: 1
+    original_name: protocol_jx4wj4_001.tif
+    path: files/4f/61/4f616c0f0d5b20ebcd9daf0f3b25532c110d6ca744dedfab20e257f48e1ea780/original.tif
+    sha256: 4f616c0f0d5b20ebcd9daf0f3b25532c110d6ca744dedfab20e257f48e1ea780
+    mime: image/tiff
+    bytes: 11967865
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4f/61/4f616c0f0d5b20ebcd9daf0f3b25532c110d6ca744dedfab20e257f48e1ea780/preview-400.71dceb11a3d6.jpg
+        sha256: 71dceb11a3d6d6f9c206201e3609ec62a00a4d79d588ba8a1788fd762afc87eb
+        mime: image/jpeg
+        bytes: 68899
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_jx4wj4_002.tif
+    path: files/4e/d1/4ed1b737a067e973ad27a91a851bf9b98d4c57f51ad6b8020262c54ed8f699c6/original.tif
+    sha256: 4ed1b737a067e973ad27a91a851bf9b98d4c57f51ad6b8020262c54ed8f699c6
+    mime: image/tiff
+    bytes: 6501565
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4e/d1/4ed1b737a067e973ad27a91a851bf9b98d4c57f51ad6b8020262c54ed8f699c6/preview-400.1d14eb3e94df.jpg
+        sha256: 1d14eb3e94df95aa5f50a5c8318b2fc908fe75a4231c1044762f82fde3a891ef
+        mime: image/jpeg
+        bytes: 51155
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

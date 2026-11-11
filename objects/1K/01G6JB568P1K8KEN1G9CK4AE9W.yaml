@@ -1,0 +1,36 @@
+id: 01G6JB568P1K8KEN1G9CK4AE9W
+type: image
+subtype: print
+title: Gruß aus Rüterberg, Lenzen
+description: Lithographie, Rand beschnitten.
+date: 1809-09
+location: Kapern, Heuberge
+origin:
+  name: Wilhelm Mahnke
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Fährjubiläum 1809
+    type: event
+parents:
+  - 01FC66HKE682WMFYDMATY4QA8H
+files:
+  - role: main
+    original_name: scan_372.tif
+    path: files/a1/69/a169ba7fd3c18b8e9c9048ca767c43325e824980271bdc3f74249dbebe2cac24/original.tif
+    sha256: a169ba7fd3c18b8e9c9048ca767c43325e824980271bdc3f74249dbebe2cac24
+    mime: image/tiff
+    bytes: 3404381
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a1/69/a169ba7fd3c18b8e9c9048ca767c43325e824980271bdc3f74249dbebe2cac24/preview-400.559815fba750.jpg
+        sha256: 559815fba750ddc6991814c01c96d34516fea579ad3d45b9956717a1f9611136
+        mime: image/jpeg
+        bytes: 28835
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

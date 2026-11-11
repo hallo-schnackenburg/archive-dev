@@ -1,0 +1,43 @@
+id: 01GM49A8PWWGP10R14NSF1V26V
+type: image
+subtype: print
+title: "Kupferstich: Gorleben von der Elbseite, Schnackenburg"
+date: 1737-10-24
+origin:
+  name: Erika Lindemann
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Familie Garms
+    type: person
+    location: Arendsee
+  reference: Pro 19/113
+  note: Mappe 12
+subjects:
+  - name: Hans Plate
+    type: person
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01HASDKXR0Y5AFEJ03TVA5J3T7
+files:
+  - role: main
+    original_name: scan_617.tif
+    path: files/57/08/5708052b200c48ab0fa02ed8609b9aeb342547bba8595d878c97c237add0f311/original.tif
+    sha256: 5708052b200c48ab0fa02ed8609b9aeb342547bba8595d878c97c237add0f311
+    mime: image/tiff
+    bytes: 11724000
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/57/08/5708052b200c48ab0fa02ed8609b9aeb342547bba8595d878c97c237add0f311/preview-400.8347783713f8.jpg
+        sha256: 8347783713f82bd9521d41922d90bb2567f3379fc6c0d5654d10a0780e5c7a24
+        mime: image/jpeg
+        bytes: 61939
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

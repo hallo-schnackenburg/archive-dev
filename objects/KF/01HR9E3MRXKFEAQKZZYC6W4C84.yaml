@@ -1,0 +1,44 @@
+id: 01HR9E3MRXKFEAQKZZYC6W4C84
+type: image
+subtype: plan
+title: Deichplan Laase bis Nienwalde
+date: 1913-06
+location: Gorleben, Pumpenhaus
+geocode:
+  lat: 52.9337
+  lon: 11.5274
+  precision: region
+  source: osm
+origin:
+  name: Karl Behrens
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos 28/101
+  note: Kellerarchiv
+parents:
+  - 01GM7NY0727P7EK5MCJ3J7A8SN
+files:
+  - role: main
+    original_name: scan_563.tif
+    path: files/8c/42/8c42b49d77038334ddfc99b781ceddbd64fb98d0a00949343dff572fd29d0354/original.tif
+    sha256: 8c42b49d77038334ddfc99b781ceddbd64fb98d0a00949343dff572fd29d0354
+    mime: image/tiff
+    bytes: 1569978
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8c/42/8c42b49d77038334ddfc99b781ceddbd64fb98d0a00949343dff572fd29d0354/preview-400.71c46518a3e8.jpg
+        sha256: 71c46518a3e84bafb618ab316f860626b04418a03cded1feec8996021c27116c
+        mime: image/jpeg
+        bytes: 69856
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

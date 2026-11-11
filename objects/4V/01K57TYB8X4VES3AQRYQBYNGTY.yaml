@@ -1,0 +1,32 @@
+id: 01K57TYB8X4VES3AQRYQBYNGTY
+type: image
+subtype: print
+title: "Holzschnitt: Hochwasser, Nienwalde"
+description: Kupferstich, koloriert.
+date: "1725"
+location: Brünkendorf, Rathaus
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+parents:
+  - 01FWDEQ7341YMQ5FKJVM0QZ484
+files:
+  - role: main
+    original_name: scan_081.tif
+    path: files/80/6f/806fdf985858fa92f271465718aa224524381cc3e54a7996dcd2c0e46a6c2c62/original.tif
+    sha256: 806fdf985858fa92f271465718aa224524381cc3e54a7996dcd2c0e46a6c2c62
+    mime: image/tiff
+    bytes: 22333423
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/80/6f/806fdf985858fa92f271465718aa224524381cc3e54a7996dcd2c0e46a6c2c62/preview-400.e2a8ff094ed8.jpg
+        sha256: e2a8ff094ed86ec25ac262dc778df0cc82bffe76e93c5c1b15ee82b33834681f
+        mime: image/jpeg
+        bytes: 22418
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,40 @@
+id: 01G5Y3BEXRQNJY2AKBDPF248YQ
+type: image
+subtype: plan
+title: Grundriss Poststelle, Lanz
+description: Maßstab 1:2500.
+date: 1903-10
+origin:
+  name: Frieda Lemke
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 17/260
+  note: Dachboden, Truhe
+subjects:
+  - name: Richtfest 1903
+    type: event
+files:
+  - role: main
+    original_name: scan_795.tif
+    path: files/13/18/13180c425e3377dce33ca2b7c3d497ea607f7fd244f66b01a1da5903b1591b82/original.tif
+    sha256: 13180c425e3377dce33ca2b7c3d497ea607f7fd244f66b01a1da5903b1591b82
+    mime: image/tiff
+    bytes: 18728658
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/13/18/13180c425e3377dce33ca2b7c3d497ea607f7fd244f66b01a1da5903b1591b82/preview-400.82849d8c1359.jpg
+        sha256: 82849d8c13598c8a093c26f012b099f0a29e8f27aaedbb57c47bdcaae920b940
+        mime: image/jpeg
+        bytes: 59140
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

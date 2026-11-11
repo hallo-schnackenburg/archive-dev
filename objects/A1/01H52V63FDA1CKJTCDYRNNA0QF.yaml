@@ -1,0 +1,37 @@
+id: 01H52V63FDA1CKJTCDYRNNA0QF
+type: image
+subtype: plan
+title: Bauplan Pumpenhaus 1843
+description: Maßstab 1:2500.
+date: 1843-11-15
+location: Rüterberg, Schlachterei
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Karl Voss
+    type: person
+parents:
+  - 01K0DYSTF2EJ283ADN76W7FBTC
+files:
+  - role: main
+    original_name: scan_938.tif
+    path: files/d3/20/d3200c00419daed9a0402a58ce827d9168cb1e06db27efb2cdfd3b955c7080c6/original.tif
+    sha256: d3200c00419daed9a0402a58ce827d9168cb1e06db27efb2cdfd3b955c7080c6
+    mime: image/tiff
+    bytes: 11403876
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d3/20/d3200c00419daed9a0402a58ce827d9168cb1e06db27efb2cdfd3b955c7080c6/preview-400.d453c3dd804c.jpg
+        sha256: d453c3dd804c8d873e4a6c36381b88fe5efaaa2afc675c4800a89ae95df37fa2
+        mime: image/jpeg
+        bytes: 87122
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

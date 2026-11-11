@@ -1,0 +1,40 @@
+id: 01GXZP9EJ28AN12W4MZ19DE0WD
+type: image
+subtype: plan
+title: Bauplan Dorfladen 1783
+date: "1783"
+origin:
+  name: Ursula Wegner
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Pro/Kasten 13/048
+subjects:
+  - name: Gartow
+    type: place
+  - name: Kirche St. Johannis
+    type: building
+files:
+  - role: main
+    original_name: scan_612.tif
+    path: files/66/ab/66ab574b7e2be4127f2de0dca420c12b93a4589cffc95b18530ece6bdb408fa2/original.tif
+    sha256: 66ab574b7e2be4127f2de0dca420c12b93a4589cffc95b18530ece6bdb408fa2
+    mime: image/tiff
+    bytes: 994421
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/66/ab/66ab574b7e2be4127f2de0dca420c12b93a4589cffc95b18530ece6bdb408fa2/preview-400.bb7e04876e34.jpg
+        sha256: bb7e04876e34cc9d1af56d36f08f0c40c3addece29d30f8e1ae906d8f2e3adf3
+        mime: image/jpeg
+        bytes: 76325
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01EVZCYVD1Y90DP5TK0H6WXVJY
+type: image
+subtype: photo
+title: Familie Jeß beim Feuerwehrübung
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1901-05-11
+location: Lenzen, Pumpenhaus
+geocode:
+  lat: 53.071
+  lon: 11.4867
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 38/221
+subjects:
+  - name: Erika Brandt
+    type: person
+  - name: Gorleben
+    type: place
+  - name: Fastnacht 1901
+    type: event
+files:
+  - role: main
+    original_name: scan_410.tif
+    path: files/d6/71/d67172fbf5ca564b86001367977b12ff1096f9a40da0e29efa7b4841fe048445/original.tif
+    sha256: d67172fbf5ca564b86001367977b12ff1096f9a40da0e29efa7b4841fe048445
+    mime: image/tiff
+    bytes: 3998162
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d6/71/d67172fbf5ca564b86001367977b12ff1096f9a40da0e29efa7b4841fe048445/preview-400.ef410c47cc27.jpg
+        sha256: ef410c47cc275a3f9cd20b6a091809c53375cf87a79e0662cdfb863604663b6d
+        mime: image/jpeg
+        bytes: 25128
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,27 @@
+id: 01HCY92X3JWVQ77QEJH528R71M
+type: image
+subtype: plan
+title: Katasterblatt Bohlmann, Seedorf
+description: Maßstab 1:100.
+date: "1932"
+location: Gülden, Gartenstraße
+files:
+  - role: main
+    original_name: scan_761.tif
+    path: files/32/cc/32cc84cf5acd9a13bd79968541bf464d2a90f84ffd1a73254623dcd2d4aa2b47/original.tif
+    sha256: 32cc84cf5acd9a13bd79968541bf464d2a90f84ffd1a73254623dcd2d4aa2b47
+    mime: image/tiff
+    bytes: 17975654
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/32/cc/32cc84cf5acd9a13bd79968541bf464d2a90f84ffd1a73254623dcd2d4aa2b47/preview-400.c6d9ac904194.jpg
+        sha256: c6d9ac904194853fe56df19ade41a4bc4c1afe493c7110ed33ed330b91df0ba0
+        mime: image/jpeg
+        bytes: 67505
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

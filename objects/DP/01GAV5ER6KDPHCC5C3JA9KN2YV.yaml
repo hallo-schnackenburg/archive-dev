@@ -1,0 +1,34 @@
+id: 01GAV5ER6KDPHCC5C3JA9KN2YV
+type: image
+subtype: plan
+title: Bauplan Gasthof „Zur Elbe“ 1884
+date: 1884/1885
+origin:
+  name: Berta Wiegmann
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Dorfladen
+    type: building
+parents:
+  - 01JTVDYETN8G6S7M3ZJ0A2E9B3
+files:
+  - role: main
+    original_name: scan_853.tif
+    path: files/86/07/86074440a6e9609255a0bf3da844fa1bc95f323aa1b6878f397662b8786e26a2/original.tif
+    sha256: 86074440a6e9609255a0bf3da844fa1bc95f323aa1b6878f397662b8786e26a2
+    mime: image/tiff
+    bytes: 21781841
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/86/07/86074440a6e9609255a0bf3da844fa1bc95f323aa1b6878f397662b8786e26a2/preview-400.be6a06021167.jpg
+        sha256: be6a060211678e70116fe61e580fe30f3ca3ae97673d8936ffc1ed58ce7d6492
+        mime: image/jpeg
+        bytes: 81427
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

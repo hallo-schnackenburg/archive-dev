@@ -1,0 +1,44 @@
+id: 01KXCBYBTJYFWZGRJNEPB5WXJN
+type: image
+subtype: photo
+title: Mühlenweg, Ecke Hafenstraße
+description: Aufnahme von Rudolf Ludolf.
+date: "1958"
+location: Schnackenburg, Kirchstraße
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  note: Dachboden, Truhe
+owner:
+  name: Karl Meyer
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Eisgang 1958
+    type: event
+  - name: Gärtnerei
+    type: building
+  - name: Viehmarkt 1958
+    type: event
+files:
+  - role: main
+    original_name: DSC3468.jpg
+    path: files/78/cd/78cd87341c06fd6129fc659da0b9229af655a5aa501dc03339c8434181c7c642/original.jpg
+    sha256: 78cd87341c06fd6129fc659da0b9229af655a5aa501dc03339c8434181c7c642
+    mime: image/jpeg
+    bytes: 26611348
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/78/cd/78cd87341c06fd6129fc659da0b9229af655a5aa501dc03339c8434181c7c642/preview-400.5b23c33d8443.jpg
+        sha256: 5b23c33d8443f6a31223913de1ee8e46a36ba0ca4b26bb7fccad3c27cfe9c855
+        mime: image/jpeg
+        bytes: 53449
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01EZBM6ZCAD8XX3ABPZDF59BR8
+type: image
+subtype: photo
+title: Familie Pape beim Grenzöffnung
+description: Farbfoto, leicht verblasst.
+date: 198X
+origin:
+  name: Karl Voss
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Hochzeit 1987
+    type: event
+  - name: Heinrich Mahnke
+    type: person
+  - name: Heinz Lemke
+    type: person
+files:
+  - role: main
+    original_name: foto_7803.jpg
+    path: files/ef/c3/efc3cc40db66d84d725db7d8d62abadf158c4f50fa14dad755067c1762e505c0/original.jpg
+    sha256: efc3cc40db66d84d725db7d8d62abadf158c4f50fa14dad755067c1762e505c0
+    mime: image/jpeg
+    bytes: 21946286
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ef/c3/efc3cc40db66d84d725db7d8d62abadf158c4f50fa14dad755067c1762e505c0/preview-400.e47b263285aa.jpg
+        sha256: e47b263285aafd7cee5d7d6e6eac642c75c0b6f1e335911ae7104c96bce1f301
+        mime: image/jpeg
+        bytes: 57292
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

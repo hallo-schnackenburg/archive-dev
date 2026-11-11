@@ -1,0 +1,46 @@
+id: 01KF90HEZACKXTX7MQ5KVQ2JDA
+type: image
+subtype: photo
+title: Kirchstraße, Ecke Dorfstraße
+description: Farbfoto, leicht verblasst.
+date: "1997"
+location: Holtorf, Gärtnerei
+geocode:
+  lat: 52.9628
+  lon: 11.4926
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 6/249
+  note: Mappe 12
+subjects:
+  - name: Weihnachtsmarkt 1997
+    type: event
+  - name: Salzwedel
+    type: place
+parents:
+  - 01HAP62ST45VTQVM84K6Q2R732
+files:
+  - role: main
+    original_name: scan_747.tif
+    path: files/70/11/7011740b73e8ee86bea19741409b1ad8694bd90362e9dcb7091c2ff1a7228f57/original.tif
+    sha256: 7011740b73e8ee86bea19741409b1ad8694bd90362e9dcb7091c2ff1a7228f57
+    mime: image/tiff
+    bytes: 1001306
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/70/11/7011740b73e8ee86bea19741409b1ad8694bd90362e9dcb7091c2ff1a7228f57/preview-400.8c77fceb2736.jpg
+        sha256: 8c77fceb2736e5391b2fc71a926f7c06806b75ea93a6764d45988da1312fa75a
+        mime: image/jpeg
+        bytes: 58350
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

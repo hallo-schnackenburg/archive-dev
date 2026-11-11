@@ -1,0 +1,33 @@
+id: 01HMASB74WN5TF5ATBRCDRK0CS
+type: image
+subtype: print
+title: "Kupferstich: Hitzacker von der Elbseite, Seedorf"
+description: Postkarte, gelaufen 1910.
+date: 1809-04-02
+location: Dömitz, Gutshaus
+origin:
+  name: Fritz Voss
+  type: person
+  location: Gollensdorf
+parents:
+  - 01GBN6YKVFSAS5BGP6YM27NA9J
+files:
+  - role: main
+    original_name: scan_209.tif
+    path: files/75/02/7502ab2d5b8df8f791e16f94e65266b07be7f7eed58bb623ad51444710a7ea73/original.tif
+    sha256: 7502ab2d5b8df8f791e16f94e65266b07be7f7eed58bb623ad51444710a7ea73
+    mime: image/tiff
+    bytes: 24430638
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/75/02/7502ab2d5b8df8f791e16f94e65266b07be7f7eed58bb623ad51444710a7ea73/preview-400.024551b1ab20.jpg
+        sha256: 024551b1ab20f7dda8424c6b86eec1110eeaa32bd9bff5ab3de144eb92a3f6cc
+        mime: image/jpeg
+        bytes: 29406
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,48 @@
+id: 01FVHX5G67F72AJDKKP1MMWSRC
+type: image
+subtype: photo
+title: Badestelle nach dem Brückeneinweihung
+description: Zu sehen sind Dorfladen und Kindergarten.
+date: 1935-07-17
+location: Nienwalde, Mühlenweg
+geocode:
+  lat: 52.912
+  lon: 11.6726
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Familie Jeß
+    type: person
+    location: Holtorf
+  reference: Plan 37/383
+  note: Dachboden, Truhe
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Gerda Matthies
+    type: person
+  - name: Maifeier 1935
+    type: event
+parents:
+  - 01F0BRQ2JGN7DY37JCS6H3RZJF
+files:
+  - role: main
+    original_name: foto_4293.jpg
+    path: files/2a/19/2a19e5b61f4772e83135b027a4dde9aa3b5c269b874a475f6d7dcf1ca22536d7/original.jpg
+    sha256: 2a19e5b61f4772e83135b027a4dde9aa3b5c269b874a475f6d7dcf1ca22536d7
+    mime: image/jpeg
+    bytes: 19089297
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/2a/19/2a19e5b61f4772e83135b027a4dde9aa3b5c269b874a475f6d7dcf1ca22536d7/preview-400.3c68bdf13dca.jpg
+        sha256: 3c68bdf13dca8b4d79fb28734b24d55ab48d7288ce7a2d68879499b84b53a21f
+        mime: image/jpeg
+        bytes: 75258
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

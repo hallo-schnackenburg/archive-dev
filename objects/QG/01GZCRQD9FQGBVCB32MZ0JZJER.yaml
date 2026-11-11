@@ -1,0 +1,46 @@
+id: 01GZCRQD9FQGBVCB32MZ0JZJER
+type: image
+subtype: photo
+title: Grenzturm nach dem Maifeier
+description: Aufnahme von Karl Meyer.
+location: Wootz, Dorfstraße
+origin:
+  name: Ingrid Garms
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 27/226
+subjects:
+  - name: Kartoffelernte 1921
+    type: event
+  - name: Wootz
+    type: place
+  - name: Storchennest
+    type: building
+parents:
+  - 01FJ86NA6W3C03D1PBGTPFRX8T
+  - 01FPBW8XQ5TR1SGGQ9277H4RM1
+files:
+  - role: main
+    original_name: scan_525.tif
+    path: files/00/49/00492466895f28bbcc68c3c9c3e90320a5cbaeb8bc833d2dba2acdf1df1a96ae/original.tif
+    sha256: 00492466895f28bbcc68c3c9c3e90320a5cbaeb8bc833d2dba2acdf1df1a96ae
+    mime: image/tiff
+    bytes: 5114009
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/00/49/00492466895f28bbcc68c3c9c3e90320a5cbaeb8bc833d2dba2acdf1df1a96ae/preview-400.e7c47bd3253a.jpg
+        sha256: e7c47bd3253adebc24a995614ed484edbfad6cb728b8cb6edb56fb2923b1129b
+        mime: image/jpeg
+        bytes: 61202
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

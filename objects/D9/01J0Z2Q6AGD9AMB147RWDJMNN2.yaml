@@ -1,0 +1,42 @@
+id: 01J0Z2Q6AGD9AMB147RWDJMNN2
+type: image
+subtype: photo
+title: Apotheke in Brünkendorf
+description: Aufnahme von Helga Schulz.
+date: 1904?
+location: Pretzier, Gartenstraße
+origin:
+  name: Irmgard Wöhlk
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Bücherregal links
+subjects:
+  - name: Holtorf
+    type: place
+parents:
+  - 01GQDM3ZFG19XY70Y5T88AY6HH
+files:
+  - role: main
+    original_name: IMG_8207.jpg
+    path: files/bd/30/bd309a317d46abb04888acc22fc06b00d1b2552b4fb805e64228e81b3ff1ceb4/original.jpg
+    sha256: bd309a317d46abb04888acc22fc06b00d1b2552b4fb805e64228e81b3ff1ceb4
+    mime: image/jpeg
+    bytes: 27407315
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/bd/30/bd309a317d46abb04888acc22fc06b00d1b2552b4fb805e64228e81b3ff1ceb4/preview-400.6a5d4e44bb2a.jpg
+        sha256: 6a5d4e44bb2a8d9e5a13c664deb51a27b1e5143ab6808b89bec7967e1c6d9c6f
+        mime: image/jpeg
+        bytes: 26652
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

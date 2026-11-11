@@ -1,0 +1,32 @@
+id: 01KSCXANGJ3SWPJFE9MZR73GV3
+type: image
+subtype: plan
+title: Deichplan Laase bis Cumlosen
+description: Mit handschriftlichen Ergänzungen.
+date: 1921-02
+location: Wittenberge, Elbstraße
+subjects:
+  - name: Apotheke
+    type: building
+parents:
+  - 01HRJYJMA6PZA35NA1FR6QZ5XX
+files:
+  - role: main
+    original_name: scan_658.tif
+    path: files/bb/6f/bb6fc758d4fe2c0b6132481ed7f6d0f03b568324d12eb093c04c627d0807cf38/original.tif
+    sha256: bb6fc758d4fe2c0b6132481ed7f6d0f03b568324d12eb093c04c627d0807cf38
+    mime: image/tiff
+    bytes: 16387833
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bb/6f/bb6fc758d4fe2c0b6132481ed7f6d0f03b568324d12eb093c04c627d0807cf38/preview-400.2e89eca6ecb4.jpg
+        sha256: 2e89eca6ecb40bf0b9a51b66d5ef42e736659f43e185fe10c6b42e463cd306a6
+        mime: image/jpeg
+        bytes: 68077
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,44 @@
+id: 01F4EFYCE1VD7G99N5QBV008X6
+type: image
+subtype: print
+title: Postkarte Holtorf, Gutshaus
+date: "1890"
+location: Salzwedel, Kirchstraße
+geocode:
+  lat: 52.9638
+  lon: 11.6501
+  precision: exact
+  source: osm
+origin:
+  name: Ilse Jeß
+  type: person
+  location: Lanz
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Otto Lemke
+    type: person
+  - name: Wustrow
+    type: place
+parents:
+  - 01F5AE2XPF50SXP9GWBFQRZ78K
+files:
+  - role: main
+    original_name: scan_105.tif
+    path: files/e9/68/e9688c1e0af773c076e7d6f89082c92e81057f03c7fc7e70a7338b4f37e37620/original.tif
+    sha256: e9688c1e0af773c076e7d6f89082c92e81057f03c7fc7e70a7338b4f37e37620
+    mime: image/tiff
+    bytes: 23955755
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e9/68/e9688c1e0af773c076e7d6f89082c92e81057f03c7fc7e70a7338b4f37e37620/preview-400.43c511e7c201.jpg
+        sha256: 43c511e7c20113bf68f208b8f7aa62b03f4736e97117d0503ac310012d97632a
+        mime: image/jpeg
+        bytes: 78933
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

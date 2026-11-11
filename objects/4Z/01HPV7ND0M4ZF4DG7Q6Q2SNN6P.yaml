@@ -1,0 +1,36 @@
+id: 01HPV7ND0M4ZF4DG7Q6Q2SNN6P
+type: image
+subtype: plan
+title: Bauplan Schmiede 1951
+description: Mit handschriftlichen Ergänzungen.
+date: 1951/1960
+location: Gorleben, Deichstraße
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Schnackenburg
+    type: place
+  - name: Badestelle
+    type: building
+parents:
+  - 01G5YQX49NEBDKWNJMDBV4BH06
+files:
+  - role: main
+    original_name: scan_385.tif
+    path: files/68/9e/689eb6e84e3892957b757d08cda9b66730ec2b3704597939e49c895a8794bcae/original.tif
+    sha256: 689eb6e84e3892957b757d08cda9b66730ec2b3704597939e49c895a8794bcae
+    mime: image/tiff
+    bytes: 10087248
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/68/9e/689eb6e84e3892957b757d08cda9b66730ec2b3704597939e49c895a8794bcae/preview-400.73bbe394c36f.jpg
+        sha256: 73bbe394c36f4b5e362b4b6f933832ac071aaa003cb43f16b1abb850f9ebf4b4
+        mime: image/jpeg
+        bytes: 39109
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

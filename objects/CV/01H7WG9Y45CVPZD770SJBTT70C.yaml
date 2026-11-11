@@ -1,0 +1,42 @@
+id: 01H7WG9Y45CVPZD770SJBTT70C
+type: image
+subtype: photo
+title: Erntedankfest der Bürgerverein
+date: 2002-02-02
+location: Lenzen, Mühlenweg
+geocode:
+  lat: 52.9219
+  lon: 11.5537
+  precision: town
+  source: osm
+origin:
+  name: Ursula Bohlmann
+  type: person
+  location: Wootz
+subjects:
+  - name: Marta Gaede
+    type: person
+  - name: Ladestraße
+    type: building
+  - name: Zollamt
+    type: building
+files:
+  - role: main
+    original_name: scan_509.tif
+    path: files/90/30/903064ec8bb287b9d4bd2ed3926f7c5f2af208015af0be7e161a8c4401f51d33/original.tif
+    sha256: 903064ec8bb287b9d4bd2ed3926f7c5f2af208015af0be7e161a8c4401f51d33
+    mime: image/tiff
+    bytes: 13835126
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/90/30/903064ec8bb287b9d4bd2ed3926f7c5f2af208015af0be7e161a8c4401f51d33/preview-400.4c4e026cbb05.jpg
+        sha256: 4c4e026cbb059be18e84f8cffc14e632522a2fabc8e4972a0f01dd58f089735e
+        mime: image/jpeg
+        bytes: 63270
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

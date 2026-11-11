@@ -1,0 +1,47 @@
+id: 01JNZ6MP7HM6PYX8Y6NWWZ4ATK
+type: image
+subtype: print
+title: Postkarte Zadrau, Kindergarten
+description: Kupferstich, koloriert.
+date: "1795"
+location: Arendsee, Schulstraße
+geocode:
+  lat: 53.0895
+  lon: 11.5375
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos 12/175
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Elfriede Lemke
+    type: person
+  - name: Paul Schwarz
+    type: person
+parents:
+  - 01HQWPK8KVNS193A9510K7C6AQ
+files:
+  - role: main
+    original_name: scan_138.tif
+    path: files/8a/cb/8acb96b8aeb53744a882674f2570d7b40882970faf737e52a672cb3f0a96aeac/original.tif
+    sha256: 8acb96b8aeb53744a882674f2570d7b40882970faf737e52a672cb3f0a96aeac
+    mime: image/tiff
+    bytes: 14838955
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/8a/cb/8acb96b8aeb53744a882674f2570d7b40882970faf737e52a672cb3f0a96aeac/preview-400.93dab7b5b433.jpg
+        sha256: 93dab7b5b43366f696a4c8a88a6742d4226554b81633f6cce640ca2455fe3088
+        mime: image/jpeg
+        bytes: 78882
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

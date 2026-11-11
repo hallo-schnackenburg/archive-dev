@@ -1,0 +1,41 @@
+id: 01F4ZHFKJCBJEZEZDNBNKJHKKB
+type: image
+subtype: photo
+title: Straßenfest der Freiwillige Feuerwehr
+description: Zu sehen sind Molkerei und Mühle.
+date: 1928-03-15
+location: Arendsee, Kirchstraße
+geocode:
+  lat: 52.9209
+  lon: 11.6138
+  precision: street
+  source: osm
+origin:
+  name: Marta Neumann
+  type: person
+  location: Gartow
+subjects:
+  - name: Wootz
+    type: place
+parents:
+  - 01GGFA4BRHTCBTSYCZDK78S61J
+files:
+  - role: main
+    original_name: IMG_6480.jpg
+    path: files/91/74/9174d0e1aa37ed034fa2dbbd70a7d1cf09376bcf67dfd11f2f2f1fbb0b5de670/original.jpg
+    sha256: 9174d0e1aa37ed034fa2dbbd70a7d1cf09376bcf67dfd11f2f2f1fbb0b5de670
+    mime: image/jpeg
+    bytes: 11054358
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/91/74/9174d0e1aa37ed034fa2dbbd70a7d1cf09376bcf67dfd11f2f2f1fbb0b5de670/preview-400.d8d4359140c3.jpg
+        sha256: d8d4359140c3118889fafd15eaab4aef4b49c1e35c427bf6119c35f813de01d4
+        mime: image/jpeg
+        bytes: 20759
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

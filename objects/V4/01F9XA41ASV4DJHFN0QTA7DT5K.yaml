@@ -1,0 +1,34 @@
+id: 01F9XA41ASV4DJHFN0QTA7DT5K
+type: image
+subtype: plan
+title: Bauplan Sportplatz 1946
+date: 1946-10-13
+origin:
+  name: Karl Rieke
+  type: person
+  location: Zadrau
+subjects:
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01FFXT95F2XCPVJ6NKJMCYEVVA
+files:
+  - role: main
+    original_name: scan_145.tif
+    path: files/c6/3f/c63f166052995050089de5ca98fada2d7a1f97a36e61a4be0a511c104f8b666e/original.tif
+    sha256: c63f166052995050089de5ca98fada2d7a1f97a36e61a4be0a511c104f8b666e
+    mime: image/tiff
+    bytes: 17078325
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c6/3f/c63f166052995050089de5ca98fada2d7a1f97a36e61a4be0a511c104f8b666e/preview-400.4a8889f6d418.jpg
+        sha256: 4a8889f6d418a56913b9918f8f06fa0b051362541a0c6b2825aab1de5c2602e2
+        mime: image/jpeg
+        bytes: 30494
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01KEDVTCA8PMBXMXEDNQ8PJD7T
+type: image
+subtype: plan
+title: Bauplan Backhaus 1894
+date: 1894/1901
+location: Rüterberg, Dorfkrug
+origin:
+  name: Gustav Nitschke
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 22/081
+subjects:
+  - name: Ortsbesichtigung 1894
+    type: event
+  - name: Maifeier 1894
+    type: event
+  - name: Fritz Ahrens
+    type: person
+parents:
+  - 01K8HWTS9YNZVY4EVEMNNZSHBJ
+files:
+  - role: main
+    original_name: scan_011.tif
+    path: files/e7/4b/e74b30a14be3d464fd79adf965f44fea6b8faecbf8d41315a683225dcc09bc7f/original.tif
+    sha256: e74b30a14be3d464fd79adf965f44fea6b8faecbf8d41315a683225dcc09bc7f
+    mime: image/tiff
+    bytes: 14871161
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e7/4b/e74b30a14be3d464fd79adf965f44fea6b8faecbf8d41315a683225dcc09bc7f/preview-400.a18006b0ec97.jpg
+        sha256: a18006b0ec97d9a986fc0c880c7cff07de5a938dea47d87590f8538ab829d0c7
+        mime: image/jpeg
+        bytes: 28716
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

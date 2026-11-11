@@ -1,0 +1,38 @@
+id: 01KFA1BSZHE67B472XN2Z5CZGN
+type: image
+subtype: photo
+title: Heinz Ahrens, Porträt
+description: Zu sehen sind Kriegerdenkmal und Bahnhof.
+date: 1890-05-28
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br 17/261
+  note: Kellerarchiv
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Zollamt
+    type: building
+files:
+  - role: main
+    original_name: DSC1721.jpg
+    path: files/17/01/1701eb227c9681685071a3a4bd006656bce1e25c1a3b19bc9cfa7b4433117845/original.jpg
+    sha256: 1701eb227c9681685071a3a4bd006656bce1e25c1a3b19bc9cfa7b4433117845
+    mime: image/jpeg
+    bytes: 25640505
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/17/01/1701eb227c9681685071a3a4bd006656bce1e25c1a3b19bc9cfa7b4433117845/preview-400.c89471dc2f6d.jpg
+        sha256: c89471dc2f6d1a257082beb51ac4ae3f95856b449070942937482ff96bc90338
+        mime: image/jpeg
+        bytes: 52221
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

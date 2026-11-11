@@ -1,0 +1,38 @@
+id: 01JFNGNAAYC15QZ92GJF7FHD4X
+type: image
+subtype: drawing
+title: Skizze Wittenberge, Am Markt
+description: Bleistift auf Papier.
+date: 1937-05-19
+location: Salzwedel, Gemeindehaus
+origin:
+  name: Marta Ludolf
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Torhaus
+    type: building
+  - name: Rüterberg
+    type: place
+  - name: Dieter Tiedemann
+    type: person
+files:
+  - role: main
+    original_name: scan_203.tif
+    path: files/cb/aa/cbaa6e809e18ace142ccd6a0c09843aeda0260acd7cf70a7549de2725c41b0b0/original.tif
+    sha256: cbaa6e809e18ace142ccd6a0c09843aeda0260acd7cf70a7549de2725c41b0b0
+    mime: image/tiff
+    bytes: 25770114
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cb/aa/cbaa6e809e18ace142ccd6a0c09843aeda0260acd7cf70a7549de2725c41b0b0/preview-400.769a3a07359f.jpg
+        sha256: 769a3a07359f6d5ea91c07237045aa7b1e0dc4be14d8b69e41ae812f6e2a48ef
+        mime: image/jpeg
+        bytes: 74909
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

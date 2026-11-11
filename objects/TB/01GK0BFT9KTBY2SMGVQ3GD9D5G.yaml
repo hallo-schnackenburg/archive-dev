@@ -1,0 +1,73 @@
+id: 01GK0BFT9KTBY2SMGVQ3GD9D5G
+type: document
+subtype: letter
+title: Feldpostbrief von Karl Detlefs
+date: 1915~
+location: Wustrow, Brunnen am Markt
+geocode:
+  lat: 53.0352
+  lon: 11.492
+  precision: town
+  source: osm
+origin:
+  name: Heinz Pape
+  type: person
+  location: Hitzacker
+recipient: Karl Behrens
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos 4/002
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Bömenzien
+    type: place
+  - name: Heuberge
+    type: building
+parents:
+  - 01JDMR23P0ST4P21YFR11Z2B2R
+files:
+  - role: page
+    num: 1
+    original_name: letter_gd9d5g_001.tif
+    path: files/1b/2d/1b2d50be066b0b8d792d8f7f5ae977ada96b0941587b54a4a32cee5a8c4bc727/original.tif
+    sha256: 1b2d50be066b0b8d792d8f7f5ae977ada96b0941587b54a4a32cee5a8c4bc727
+    mime: image/tiff
+    bytes: 2363729
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1b/2d/1b2d50be066b0b8d792d8f7f5ae977ada96b0941587b54a4a32cee5a8c4bc727/preview-400.e878565c8b55.jpg
+        sha256: e878565c8b55adffb23b10bc45b91edaa6d0f7e60bd4b87717ae23bbd247fd50
+        mime: image/jpeg
+        bytes: 29722
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_gd9d5g_002.tif
+    path: files/4a/00/4a00535d95c10734f0589a1296db7583e58d5c93fea8eab23ba2c4ad0eafe799/original.tif
+    sha256: 4a00535d95c10734f0589a1296db7583e58d5c93fea8eab23ba2c4ad0eafe799
+    mime: image/tiff
+    bytes: 12494637
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4a/00/4a00535d95c10734f0589a1296db7583e58d5c93fea8eab23ba2c4ad0eafe799/preview-400.e5568928f5c5.jpg
+        sha256: e5568928f5c56502662d1cbba69de0f8594e667f782c9c595b0d8c86b7d8396d
+        mime: image/jpeg
+        bytes: 25392
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01J3TK634SC3E9XD6V08CBC550
+type: image
+subtype: plan
+title: Lageplan Dorfkrug
+description: Mit handschriftlichen Ergänzungen.
+date: "1875"
+subjects:
+  - name: Fährjubiläum 1875
+    type: event
+  - name: Sturmschaden 1875
+    type: event
+  - name: Lanz
+    type: place
+parents:
+  - 01K1X786PFNA5XRTNM32Z243KC
+files:
+  - role: main
+    original_name: scan_253.tif
+    path: files/0c/fd/0cfd6fdd646026c56b2ad6da48e34ff8053dfbcf5f908c132362ecae55d5e472/original.tif
+    sha256: 0cfd6fdd646026c56b2ad6da48e34ff8053dfbcf5f908c132362ecae55d5e472
+    mime: image/tiff
+    bytes: 22555802
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0c/fd/0cfd6fdd646026c56b2ad6da48e34ff8053dfbcf5f908c132362ecae55d5e472/preview-400.4c4055fd04fd.jpg
+        sha256: 4c4055fd04fdac12309fdf87632799d8eddb53e24f1036fd25ac0c9f68ec891a
+        mime: image/jpeg
+        bytes: 26427
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

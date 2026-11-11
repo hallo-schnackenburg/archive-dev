@@ -1,0 +1,47 @@
+id: 01EWRKCR5C8H9WBM4WKBQFE8RS
+type: image
+subtype: photo
+title: Klaus Garms, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1924-09
+location: Brünkendorf, Poststelle
+geocode:
+  lat: 52.9423
+  lon: 11.4761
+  precision: exact
+  source: osm
+origin:
+  name: Emma Meyer
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 14/045
+subjects:
+  - name: Grenzturm
+    type: building
+  - name: Erntedankfest 1924
+    type: event
+files:
+  - role: main
+    original_name: IMG_3171.jpg
+    path: files/ad/b0/adb0a1dc7cb45fa2316b371947bc618dffc544aa5a6f64ff198ee4d561ff3c2a/original.jpg
+    sha256: adb0a1dc7cb45fa2316b371947bc618dffc544aa5a6f64ff198ee4d561ff3c2a
+    mime: image/jpeg
+    bytes: 24265673
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ad/b0/adb0a1dc7cb45fa2316b371947bc618dffc544aa5a6f64ff198ee4d561ff3c2a/preview-400.58fb7cd7b37e.jpg
+        sha256: 58fb7cd7b37eead469b6892294d463144af06435ecd8e27474219f2cf06eb940
+        mime: image/jpeg
+        bytes: 35342
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

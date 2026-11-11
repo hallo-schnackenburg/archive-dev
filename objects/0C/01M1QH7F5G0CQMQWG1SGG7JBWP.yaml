@@ -1,0 +1,43 @@
+id: 01M1QH7F5G0CQMQWG1SGG7JBWP
+type: image
+subtype: photo
+title: Ladestraße nach dem Einweihung
+description: Zu sehen sind Poststelle und Dorfkrug.
+date: 1926-09-18
+location: Lüchow, Bahnhofstraße
+geocode:
+  lat: 52.9908
+  lon: 11.5326
+  precision: street
+  source: osm
+origin:
+  name: Karl Brandt
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Karl Lüders
+    type: person
+  - name: Friedrich Wiese
+    type: person
+parents:
+  - 01KY67T3MSFRGXDQ3PZ5V1DRZF
+files:
+  - role: main
+    original_name: foto_2335.jpg
+    path: files/9c/b5/9cb5805ec173217cb045b46078a6781113b96ad288325072ca539339719ffb94/original.jpg
+    sha256: 9cb5805ec173217cb045b46078a6781113b96ad288325072ca539339719ffb94
+    mime: image/jpeg
+    bytes: 18225166
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/9c/b5/9cb5805ec173217cb045b46078a6781113b96ad288325072ca539339719ffb94/preview-400.188156a0231f.jpg
+        sha256: 188156a0231f3221ceb4217ac262f5945013a1fe249cf770015d48f1770cfd23
+        mime: image/jpeg
+        bytes: 32858
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

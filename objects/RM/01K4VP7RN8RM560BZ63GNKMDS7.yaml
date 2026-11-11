@@ -1,0 +1,62 @@
+id: 01K4VP7RN8RM560BZ63GNKMDS7
+type: document
+subtype: note
+title: Aktennotiz Feuerwehrausschuss
+description: Auf der Rückseite eines Formulars.
+date: 1895-03
+location: Arendsee, Schlachterei
+origin:
+  name: Wilhelm Garms
+  type: person
+  location: Schnackenburg
+language: de
+subjects:
+  - name: Erika Sievers
+    type: person
+  - name: Ilse Tiedemann
+    type: person
+  - name: Kapern
+    type: place
+parents:
+  - 01KZTC7HCNQEK4PPA9Y96PZJS7
+files:
+  - role: page
+    num: 1
+    original_name: note_nkmds7_001.tif
+    path: files/af/ef/afef8f337171f66cdf0c614d2f4afab178ef6432c005c4d0107caea4dbb732f9/original.tif
+    sha256: afef8f337171f66cdf0c614d2f4afab178ef6432c005c4d0107caea4dbb732f9
+    mime: image/tiff
+    bytes: 25319965
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/af/ef/afef8f337171f66cdf0c614d2f4afab178ef6432c005c4d0107caea4dbb732f9/preview-400.2d73cbe33016.jpg
+        sha256: 2d73cbe330165c756058d27667847adbf3312457019579031d604baf07871b25
+        mime: image/jpeg
+        bytes: 76655
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_nkmds7_002.tif
+    path: files/fc/87/fc87faf0036fd2d42fdd9b6168581ddf02891c415db9a8c1818d9ea7719aa4fb/original.tif
+    sha256: fc87faf0036fd2d42fdd9b6168581ddf02891c415db9a8c1818d9ea7719aa4fb
+    mime: image/tiff
+    bytes: 1756007
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/87/fc87faf0036fd2d42fdd9b6168581ddf02891c415db9a8c1818d9ea7719aa4fb/preview-400.77390d525fb3.jpg
+        sha256: 77390d525fb313cb6ec9e9d06a0801145ce9858ffa16b85931973e371228952e
+        mime: image/jpeg
+        bytes: 48543
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

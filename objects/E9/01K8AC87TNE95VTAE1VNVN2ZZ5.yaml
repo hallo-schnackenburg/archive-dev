@@ -1,0 +1,35 @@
+id: 01K8AC87TNE95VTAE1VNVN2ZZ5
+type: image
+subtype: print
+title: Postkarte Restorf, Tischlerei Bruns
+description: Postkarte, gelaufen 1949.
+date: 1725/1735
+origin:
+  name: Helga Detlefs
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Kaufmannshaus
+    type: building
+files:
+  - role: main
+    original_name: scan_565.tif
+    path: files/bb/2c/bb2cae0b196912c3723f9a7b5e5a5c74739551d36e4bb0f19574859d5a70c012/original.tif
+    sha256: bb2cae0b196912c3723f9a7b5e5a5c74739551d36e4bb0f19574859d5a70c012
+    mime: image/tiff
+    bytes: 3336169
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bb/2c/bb2cae0b196912c3723f9a7b5e5a5c74739551d36e4bb0f19574859d5a70c012/preview-400.cd7dffc300ca.jpg
+        sha256: cd7dffc300cabe1f1c2125e0a25362d41179105bf83fea9b169d436303a14953
+        mime: image/jpeg
+        bytes: 30016
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

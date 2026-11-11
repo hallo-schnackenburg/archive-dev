@@ -1,0 +1,45 @@
+id: 01KQNJ0D7YBEEXKX6EVA4WTXXV
+type: image
+subtype: photo
+title: Erntedankfest der Kegelclub
+description: Aufnahme von Gustav Krüger.
+date: 1966-06
+location: Havelberg, Gartenstraße
+geocode:
+  lat: 52.9139
+  lon: 11.4608
+  precision: street
+  source: osm
+origin:
+  name: Ilse Lindemann
+  type: person
+  location: Lüchow
+subjects:
+  - name: Kartoffelernte 1966
+    type: event
+  - name: Backhaus
+    type: building
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+parents:
+  - 01F1Q5CD51G9ZH21J5XMQ18G3Z
+files:
+  - role: main
+    original_name: P7960.jpg
+    path: files/12/0f/120f6846791e89861ae9d8d6c402c110f1eea3d6e308e465c15d57092e25172b/original.jpg
+    sha256: 120f6846791e89861ae9d8d6c402c110f1eea3d6e308e465c15d57092e25172b
+    mime: image/jpeg
+    bytes: 17235617
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/12/0f/120f6846791e89861ae9d8d6c402c110f1eea3d6e308e465c15d57092e25172b/preview-400.3c3d918d7827.jpg
+        sha256: 3c3d918d7827aa990bcc9bc7502badd2244a2d143e08a6f49ad29c1a1a5d150a
+        mime: image/jpeg
+        bytes: 20311
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

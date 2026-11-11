@@ -1,0 +1,47 @@
+id: 01FPRN5CQNJZTNTYCFBPTWSKYA
+type: document
+subtype: note
+title: Rechnung Pape, Scheune
+description: Auf der Rückseite eines Formulars.
+origin:
+  name: Ernst Voss
+  type: person
+  location: Wustrow
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+owner:
+  name: Dieter Wöhlk
+  type: person
+  note: Nachlass
+subjects:
+  - name: Heinrich Schwarz
+    type: person
+  - name: Deicharbeiten 1956
+    type: event
+parents:
+  - 01KNV35QF9MCTPV2ME9SCJY459
+files:
+  - role: page
+    num: 1
+    original_name: note_twskya_001.tif
+    path: files/81/4e/814eec054404a279b867a08d12b65f4e81c812987dffb3086d51ec8f38808b84/original.tif
+    sha256: 814eec054404a279b867a08d12b65f4e81c812987dffb3086d51ec8f38808b84
+    mime: image/tiff
+    bytes: 23078648
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/81/4e/814eec054404a279b867a08d12b65f4e81c812987dffb3086d51ec8f38808b84/preview-400.5b6e1393856c.jpg
+        sha256: 5b6e1393856c5a93bfef171e1791f6c66f56c20ac264c0665c7d0fccca37e882
+        mime: image/jpeg
+        bytes: 52591
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

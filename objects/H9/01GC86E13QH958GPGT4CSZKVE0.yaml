@@ -1,0 +1,42 @@
+id: 01GC86E13QH958GPGT4CSZKVE0
+type: image
+subtype: plan
+title: Deichplan Restorf bis Lenzen
+description: Maßstab 1:1000.
+date: 1835?
+location: Laase, Kegelbahn
+origin:
+  name: Erika Hartwig
+  type: person
+  location: Gollensdorf
+owner:
+  name: Heinrich Plate
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Hans Eggers
+    type: person
+  - name: Richtfest 1835
+    type: event
+parents:
+  - 01J7HJZCB7JJH7C2451YX2QZGY
+files:
+  - role: main
+    original_name: scan_016.tif
+    path: files/6a/0c/6a0ceca4f8bcea80e8ec3f00dacfa709c09e17e5759f363e1af8b06531c0c0fc/original.tif
+    sha256: 6a0ceca4f8bcea80e8ec3f00dacfa709c09e17e5759f363e1af8b06531c0c0fc
+    mime: image/tiff
+    bytes: 16320352
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6a/0c/6a0ceca4f8bcea80e8ec3f00dacfa709c09e17e5759f363e1af8b06531c0c0fc/preview-400.802f03275b1f.jpg
+        sha256: 802f03275b1f1fed9c680250946164da8fe5049eed18ab411e4150229c0da3e0
+        mime: image/jpeg
+        bytes: 66246
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

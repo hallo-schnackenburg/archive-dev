@@ -1,0 +1,41 @@
+id: 01J8VNJQPDNRF228ZCB1NVKE9N
+type: image
+subtype: print
+title: "Kupferstich: Wustrow von der Elbseite, Bömenzien"
+date: 1802-06-07
+origin:
+  name: Erika Lemke
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos/Mappe 13/085
+subjects:
+  - name: Hitzacker
+    type: place
+parents:
+  - 01J5CY5YG0F694895WWHN65481
+  - 01K7J4DX7VRH2T02JPNZCE3TH0
+files:
+  - role: main
+    original_name: scan_575.tif
+    path: files/a3/50/a3501d976305532f311d5d71ed5f8fe399b4fa60ff3c70f53e41439c24408669/original.tif
+    sha256: a3501d976305532f311d5d71ed5f8fe399b4fa60ff3c70f53e41439c24408669
+    mime: image/tiff
+    bytes: 12706825
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a3/50/a3501d976305532f311d5d71ed5f8fe399b4fa60ff3c70f53e41439c24408669/preview-400.1db27da85916.jpg
+        sha256: 1db27da859167faa6170eb4d7e21ab01a7fb75db1679f8d98a34fc4f895bdcac
+        mime: image/jpeg
+        bytes: 68290
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

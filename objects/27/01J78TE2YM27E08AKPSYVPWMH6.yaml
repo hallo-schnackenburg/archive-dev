@@ -1,0 +1,39 @@
+id: 01J78TE2YM27E08AKPSYVPWMH6
+type: image
+subtype: plan
+title: Bauplan Wassermühle 1750
+date: 1750-06-17
+location: Rüterberg, Lange Straße
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 1/019
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v86122
+parents:
+  - 01J2MAW622CTKQ3RF50GE3CC82
+files:
+  - role: main
+    original_name: scan_077.tif
+    path: files/ba/68/ba680aa686654483ce609915e8a2dc8c7018779655552439662e5ebaa4d8424d/original.tif
+    sha256: ba680aa686654483ce609915e8a2dc8c7018779655552439662e5ebaa4d8424d
+    mime: image/tiff
+    bytes: 23226991
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ba/68/ba680aa686654483ce609915e8a2dc8c7018779655552439662e5ebaa4d8424d/preview-400.1563132368d9.jpg
+        sha256: 1563132368d90ae64d6d7f4e609704d671f7d25804aca7ecd98b32a043338676
+        mime: image/jpeg
+        bytes: 60620
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

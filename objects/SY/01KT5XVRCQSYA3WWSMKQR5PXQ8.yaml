@@ -1,0 +1,37 @@
+id: 01KT5XVRCQSYA3WWSMKQR5PXQ8
+type: image
+subtype: print
+title: Postkarte Nienwalde, Backhaus
+description: Postkarte, gelaufen 1910.
+date: "1737"
+location: Bömenzien, Ziegelei
+geocode:
+  lat: 53.0745
+  lon: 11.6616
+  precision: town
+  source: osm
+subjects:
+  - name: Ilse Dierks
+    type: person
+  - name: Heinz Ahrens
+    type: person
+files:
+  - role: main
+    original_name: scan_813.tif
+    path: files/88/74/88740482aea421f9ad234ab9e8c4f4a6bc8e31719d380ad2fd224daa9f800977/original.tif
+    sha256: 88740482aea421f9ad234ab9e8c4f4a6bc8e31719d380ad2fd224daa9f800977
+    mime: image/tiff
+    bytes: 3629531
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/88/74/88740482aea421f9ad234ab9e8c4f4a6bc8e31719d380ad2fd224daa9f800977/preview-400.0cb450806d95.jpg
+        sha256: 0cb450806d95fe771a08c2d4acbc6a91f67f1add71fc0b52702a3371b731506c
+        mime: image/jpeg
+        bytes: 61841
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

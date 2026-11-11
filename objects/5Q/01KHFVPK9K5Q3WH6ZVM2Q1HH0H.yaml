@@ -1,0 +1,38 @@
+id: 01KHFVPK9K5Q3WH6ZVM2Q1HH0H
+type: image
+subtype: photo
+title: Straßenfest 1941
+description: Abzug im Format 13 x 18 cm.
+date: 1941-03
+location: Restorf, Friedhofskapelle
+origin:
+  name: Marta Ahrens
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Bömenzien
+    type: place
+  - name: Försterei
+    type: building
+  - name: Wittenberge
+    type: place
+files:
+  - role: main
+    original_name: DSC7731.jpg
+    path: files/d3/0e/d30e518446057f184e6f07bb5983cac4185f2350de9dadaa948001a2e286e2ff/original.jpg
+    sha256: d30e518446057f184e6f07bb5983cac4185f2350de9dadaa948001a2e286e2ff
+    mime: image/jpeg
+    bytes: 26591507
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/d3/0e/d30e518446057f184e6f07bb5983cac4185f2350de9dadaa948001a2e286e2ff/preview-400.7c133f4b663e.jpg
+        sha256: 7c133f4b663e8adeb7bbc54ed7a33a5e68ed5d792c0817ea9eca8cd1a8a85183
+        mime: image/jpeg
+        bytes: 38715
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

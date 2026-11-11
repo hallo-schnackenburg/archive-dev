@@ -1,0 +1,88 @@
+id: 01JJXKJY8EE62Y4R7SWESDFNVF
+type: document
+subtype: letter
+title: Feldpostbrief von Gustav Ludolf
+description: Betrifft Baugenehmigung.
+date: 1851-09
+location: Arendsee, Am Elbdeich
+geocode:
+  lat: 53.0552
+  lon: 11.5268
+  precision: town
+  source: osm
+origin:
+  name: Gerda Lemke
+  type: person
+  location: Salzwedel
+recipient: Albert Meyer
+language: de
+subjects:
+  - name: Restorf
+    type: place
+  - name: Irmgard Schulz
+    type: person
+  - name: Erntedankfest 1851
+    type: event
+parents:
+  - 01KJ7GGRBA8CH4FBXH5MTWAXAD
+files:
+  - role: page
+    num: 1
+    original_name: letter_sdfnvf_001.tif
+    path: files/93/1c/931c14cd1f554225e696e13632daeedf9625194ddb065ba60ef22a61c814260f/original.tif
+    sha256: 931c14cd1f554225e696e13632daeedf9625194ddb065ba60ef22a61c814260f
+    mime: image/tiff
+    bytes: 1298190
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/93/1c/931c14cd1f554225e696e13632daeedf9625194ddb065ba60ef22a61c814260f/preview-400.1ffc1f829fa9.jpg
+        sha256: 1ffc1f829fa9a5868567e1146f8017dd9f3a7b96f85f6c57cfac53b6918bda63
+        mime: image/jpeg
+        bytes: 67041
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_sdfnvf_002.tif
+    path: files/02/d3/02d30343dbd43433c2fc3eda2d5ad99ff8db607a8ea60e7e88488216df0ceadb/original.tif
+    sha256: 02d30343dbd43433c2fc3eda2d5ad99ff8db607a8ea60e7e88488216df0ceadb
+    mime: image/tiff
+    bytes: 16980203
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/d3/02d30343dbd43433c2fc3eda2d5ad99ff8db607a8ea60e7e88488216df0ceadb/preview-400.46abfb08ce4f.jpg
+        sha256: 46abfb08ce4f74a07a7a9ffa78fa42e714fa723abb775c65688de6c2986d88b2
+        mime: image/jpeg
+        bytes: 81031
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_sdfnvf_003.tif
+    path: files/91/6f/916fc71c749d79eed07665b2e70fc9b9400d725224c762ac2d2da5669d854acc/original.tif
+    sha256: 916fc71c749d79eed07665b2e70fc9b9400d725224c762ac2d2da5669d854acc
+    mime: image/tiff
+    bytes: 1705265
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/91/6f/916fc71c749d79eed07665b2e70fc9b9400d725224c762ac2d2da5669d854acc/preview-400.4ca4939283bb.jpg
+        sha256: 4ca4939283bb76459b8592d0f5c8860375d05d1450ad3529887abf458c7dd6dc
+        mime: image/jpeg
+        bytes: 39310
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

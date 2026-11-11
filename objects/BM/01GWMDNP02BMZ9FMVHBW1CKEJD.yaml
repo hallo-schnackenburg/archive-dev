@@ -1,0 +1,42 @@
+id: 01GWMDNP02BMZ9FMVHBW1CKEJD
+type: image
+subtype: photo
+title: Kriegerdenkmal nach dem Kirmes
+date: "1940"
+location: Havelberg, Försterei
+geocode:
+  lat: 52.9195
+  lon: 11.656
+  precision: street
+  source: osm
+origin:
+  name: Otto Klatt
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Richtfest 1940
+    type: event
+  - name: Tischlerei Bruns
+    type: building
+files:
+  - role: main
+    original_name: DSC4471.jpg
+    path: files/c8/d5/c8d5cde99ebcaa77c4ea0cab37fb322cec674efd78614689ffba370cb8504aae/original.jpg
+    sha256: c8d5cde99ebcaa77c4ea0cab37fb322cec674efd78614689ffba370cb8504aae
+    mime: image/jpeg
+    bytes: 6450344
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/c8/d5/c8d5cde99ebcaa77c4ea0cab37fb322cec674efd78614689ffba370cb8504aae/preview-400.9c99348d2ccb.jpg
+        sha256: 9c99348d2ccbfce3b1c15934301f5a9a619b8528f185f7d5a79d12f7dc049d70
+        mime: image/jpeg
+        bytes: 58949
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

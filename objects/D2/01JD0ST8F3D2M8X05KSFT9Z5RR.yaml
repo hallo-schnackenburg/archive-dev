@@ -1,0 +1,42 @@
+id: 01JD0ST8F3D2M8X05KSFT9Z5RR
+type: image
+subtype: photo
+title: Blick vom Försterei auf das Mühle
+date: 1997-02-12
+location: Dömitz, Mühlenweg
+geocode:
+  lat: 52.9852
+  lon: 11.6536
+  precision: street
+  source: osm
+origin:
+  name: Gerda Krüger
+  type: person
+  location: Havelberg
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Konfirmation 1997
+    type: event
+  - name: Richtfest 1997
+    type: event
+files:
+  - role: main
+    original_name: scan_158.tif
+    path: files/08/e5/08e58da103e9441fe95eef38f8a695f533636c148b65889052bf187759f403da/original.tif
+    sha256: 08e58da103e9441fe95eef38f8a695f533636c148b65889052bf187759f403da
+    mime: image/tiff
+    bytes: 9918869
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/08/e5/08e58da103e9441fe95eef38f8a695f533636c148b65889052bf187759f403da/preview-400.f6ff4f5a375e.jpg
+        sha256: f6ff4f5a375eec9a68892144affadc6eb8cc55474bde8fff3b5f1a537122da17
+        mime: image/jpeg
+        bytes: 33128
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

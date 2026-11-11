@@ -1,0 +1,48 @@
+id: 01JFTAC4HMV917M68WFQV182BX
+type: image
+subtype: plan
+title: Bauplan Gärtnerei 1789
+description: Maßstab 1:250.
+location: Gorleben, Kirchstraße
+geocode:
+  lat: 53.0289
+  lon: 11.6112
+  precision: region
+  source: osm
+origin:
+  name: Karl Wiegmann
+  type: person
+  location: Zadrau
+owner:
+  name: Hermann Lemke
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Hochwasser 1789
+    type: event
+  - name: Brünkendorf
+    type: place
+  - name: Mühle
+    type: building
+parents:
+  - 01G0S6J3X949EDC2990D03JYRW
+files:
+  - role: main
+    original_name: scan_728.tif
+    path: files/1c/6d/1c6d10370c1d471d505dd772beba6dacc88010c01ca25c60e45dd24d87982da3/original.tif
+    sha256: 1c6d10370c1d471d505dd772beba6dacc88010c01ca25c60e45dd24d87982da3
+    mime: image/tiff
+    bytes: 18968341
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/6d/1c6d10370c1d471d505dd772beba6dacc88010c01ca25c60e45dd24d87982da3/preview-400.e83523917009.jpg
+        sha256: e835239170098a274f3b338d1d4162332629a056c3a36c9fd811fd450f0c05c3
+        mime: image/jpeg
+        bytes: 48801
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

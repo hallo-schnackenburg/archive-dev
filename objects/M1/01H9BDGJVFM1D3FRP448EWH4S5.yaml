@@ -1,0 +1,38 @@
+id: 01H9BDGJVFM1D3FRP448EWH4S5
+type: image
+subtype: print
+title: Postkarte Hitzacker, Zollamt
+description: Postkarte, gelaufen 1913.
+date: "1889"
+location: Zadrau, Brunnen am Markt
+geocode:
+  lat: 53.0275
+  lon: 11.5359
+  precision: region
+  source: osm
+origin:
+  name: Dieter Schulz
+  type: person
+  location: Lüchow
+parents:
+  - 01HM10JM58C78RZE1Y6NV78KDE
+files:
+  - role: main
+    original_name: scan_930.tif
+    path: files/dc/61/dc61adca588b0560e17eab1c1413a41700a3ae8a339181bc8a55f399f6cf0546/original.tif
+    sha256: dc61adca588b0560e17eab1c1413a41700a3ae8a339181bc8a55f399f6cf0546
+    mime: image/tiff
+    bytes: 2517579
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/dc/61/dc61adca588b0560e17eab1c1413a41700a3ae8a339181bc8a55f399f6cf0546/preview-400.be74e96ffae8.jpg
+        sha256: be74e96ffae8386da6664afc670ee96ee9de3817e7dcf6553e5f39a87ac4950a
+        mime: image/jpeg
+        bytes: 29422
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

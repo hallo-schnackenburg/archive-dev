@@ -1,0 +1,44 @@
+id: 01JG6ZS1MKJ8NXGVPC1JT00HRQ
+type: image
+subtype: plan
+title: Grundriss Kriegerdenkmal
+description: Mit handschriftlichen Ergänzungen.
+location: Lüchow, Hafen
+origin:
+  name: Wilhelm Tiedemann
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Familie Lüders
+    type: person
+    location: Salzwedel
+  reference: Plan 35/145
+subjects:
+  - name: Dorfladen
+    type: building
+  - name: Lüchow
+    type: place
+parents:
+  - 01FHAJMC0QDXRYDR1PV64RNJKV
+  - 01JP20QWTYZEWRGFHPQXP5662Q
+files:
+  - role: main
+    original_name: scan_775.tif
+    path: files/88/7b/887b9c6c60f224626814a511fb0e49a4206fc7394a11e6995507634d62136e87/original.tif
+    sha256: 887b9c6c60f224626814a511fb0e49a4206fc7394a11e6995507634d62136e87
+    mime: image/tiff
+    bytes: 19247909
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/88/7b/887b9c6c60f224626814a511fb0e49a4206fc7394a11e6995507634d62136e87/preview-400.c7c0c9b8f587.jpg
+        sha256: c7c0c9b8f5874593629e1b72379ad11fb51d848d8ca9b19add4b77d4ba042a03
+        mime: image/jpeg
+        bytes: 87257
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

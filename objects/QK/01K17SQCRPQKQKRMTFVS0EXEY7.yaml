@@ -1,0 +1,40 @@
+id: 01K17SQCRPQKQKRMTFVS0EXEY7
+type: image
+subtype: plan
+title: Deichplan Wittenberge bis Seedorf
+description: Maßstab 1:100.
+date: 1875-06-19
+origin:
+  name: August Tiedemann
+  type: person
+  location: Wootz
+subjects:
+  - name: Maifeier 1875
+    type: event
+  - name: Gemeindehaus
+    type: building
+  - name: Osterfeuer 1875
+    type: event
+parents:
+  - 01FA78F7DCMY60051YNWVNSZ2X
+  - 01G488M9Q0MA5PAK1E0A8Z23Y9
+files:
+  - role: main
+    original_name: scan_971.tif
+    path: files/e0/37/e0378b7135c6f969f7d3a7823a688532d9d9626add9dced7788db588bd6a5edd/original.tif
+    sha256: e0378b7135c6f969f7d3a7823a688532d9d9626add9dced7788db588bd6a5edd
+    mime: image/tiff
+    bytes: 12990496
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e0/37/e0378b7135c6f969f7d3a7823a688532d9d9626add9dced7788db588bd6a5edd/preview-400.75bb482064ba.jpg
+        sha256: 75bb482064ba1f3cd8eada1234fc7a54d7d68e098f650d07663c8ae5652e1b61
+        mime: image/jpeg
+        bytes: 77334
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

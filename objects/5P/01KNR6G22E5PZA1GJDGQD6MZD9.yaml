@@ -1,0 +1,44 @@
+id: 01KNR6G22E5PZA1GJDGQD6MZD9
+type: image
+subtype: drawing
+title: Federzeichnung Ladestraße
+date: 1934-04-12
+location: Zadrau, Hinter den Höfen
+origin:
+  name: Gerda Tiedemann
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 12/043
+  note: Planschrank, Fach 3
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Brünkendorf
+    type: place
+  - name: Pumpenhaus
+    type: building
+files:
+  - role: main
+    original_name: scan_253.tif
+    path: files/89/e6/89e60a162f6014e1b210e105aba1066d17d6975cba519440cf8ad156122912f4/original.tif
+    sha256: 89e60a162f6014e1b210e105aba1066d17d6975cba519440cf8ad156122912f4
+    mime: image/tiff
+    bytes: 15624930
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/89/e6/89e60a162f6014e1b210e105aba1066d17d6975cba519440cf8ad156122912f4/preview-400.da4d12b6cfbc.jpg
+        sha256: da4d12b6cfbcb4266acc011aef884a0cead8217e3509379a2ac46bc58008374a
+        mime: image/jpeg
+        bytes: 89223
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

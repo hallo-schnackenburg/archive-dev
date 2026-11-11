@@ -1,0 +1,38 @@
+id: 01FTB6Y232M4HAV1300ZSBQ4Y6
+type: image
+subtype: print
+title: "Holzschnitt: Einschulung, Wittenberge (12)"
+description: Kupferstich, koloriert.
+date: 1794?
+origin:
+  name: Erika Stoll
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro 30/226
+parents:
+  - 01JQ24JYM14XMX215Z8SCN1PS1
+files:
+  - role: main
+    original_name: scan_412.tif
+    path: files/82/1d/821d703bf7a839080739bae6a3d7866dc8a249ebe9f8bcdbb8472bf8b320cf39/original.tif
+    sha256: 821d703bf7a839080739bae6a3d7866dc8a249ebe9f8bcdbb8472bf8b320cf39
+    mime: image/tiff
+    bytes: 16857237
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/82/1d/821d703bf7a839080739bae6a3d7866dc8a249ebe9f8bcdbb8472bf8b320cf39/preview-400.263c3c81b3bb.jpg
+        sha256: 263c3c81b3bb39b1efed91bc0b9eaf8c41a9adc99a62153aef827bd5a668d040
+        mime: image/jpeg
+        bytes: 72800
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

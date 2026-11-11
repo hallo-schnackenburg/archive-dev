@@ -1,0 +1,44 @@
+id: 01H910H4464Y0DQ660NR4XJZC8
+type: image
+subtype: photo
+title: Försterei nach dem Osterfeuer
+description: Aufnahme von Karl Wiese.
+location: Wittenberge, Badestelle
+origin:
+  name: Ilse Meyer
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok/Album 28/037
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v25478
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Schlachterei
+    type: building
+parents:
+  - 01K8Q87E3JR4C3K8F7DC83NBAE
+files:
+  - role: main
+    original_name: scan_380.tif
+    path: files/08/38/08384b3c5c9f88d66c7903710cf8abc0c9e8c59a33989dea2e4aa462bd1ec1b6/original.tif
+    sha256: 08384b3c5c9f88d66c7903710cf8abc0c9e8c59a33989dea2e4aa462bd1ec1b6
+    mime: image/tiff
+    bytes: 13910639
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/08/38/08384b3c5c9f88d66c7903710cf8abc0c9e8c59a33989dea2e4aa462bd1ec1b6/preview-400.f53686f06be4.jpg
+        sha256: f53686f06be4707d1c44a6aeca89a667737a43d4cc4852f90922cf9d9326be5b
+        mime: image/jpeg
+        bytes: 37511
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

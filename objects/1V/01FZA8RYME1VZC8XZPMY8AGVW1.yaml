@@ -1,0 +1,42 @@
+id: 01FZA8RYME1VZC8XZPMY8AGVW1
+type: image
+subtype: plan
+title: Deichplan Lüchow bis Arendsee
+description: Tusche auf Transparentpapier.
+date: 197X
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  note: Schrank B
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v76706
+subjects:
+  - name: Richtfest 1971
+    type: event
+  - name: Hochwasser 1971
+    type: event
+  - name: Hochwasser 1971
+    type: event
+parents:
+  - 01GM7NY0727P7EK5MCJ3J7A8SN
+files:
+  - role: main
+    original_name: scan_233.tif
+    path: files/19/d6/19d697e5fea6c07735d4122634e1c4606b5b0eff9acb21d8eff93953acc41fb4/original.tif
+    sha256: 19d697e5fea6c07735d4122634e1c4606b5b0eff9acb21d8eff93953acc41fb4
+    mime: image/tiff
+    bytes: 24038941
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/19/d6/19d697e5fea6c07735d4122634e1c4606b5b0eff9acb21d8eff93953acc41fb4/preview-400.3ba34255b230.jpg
+        sha256: 3ba34255b230fba0c9a4ec175c389e7d2bdcd9a402612321069092c21ba70719
+        mime: image/jpeg
+        bytes: 63497
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

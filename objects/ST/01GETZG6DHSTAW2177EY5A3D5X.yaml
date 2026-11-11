@@ -1,0 +1,47 @@
+id: 01GETZG6DHSTAW2177EY5A3D5X
+type: image
+subtype: drawing
+title: Heuberge, Aquarell
+description: Federzeichnung, laviert.
+date: 1857?
+location: Bömenzien, Kriegerdenkmal
+origin:
+  name: Ilse Schulz
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 25/380
+subjects:
+  - name: Schlachterei
+    type: building
+  - name: Frieda Lemke
+    type: person
+  - name: Irmgard Klatt
+    type: person
+parents:
+  - 01F54Y44HWBYAXTTC3F5NVVN21
+  - 01JWWTXH4CV5B4FWTT72A87FM2
+files:
+  - role: main
+    original_name: scan_897.tif
+    path: files/36/52/365217541969f38a8a0fbcd78a1b8c0f1a5f2558a7ec3592bffecb5bf538f010/original.tif
+    sha256: 365217541969f38a8a0fbcd78a1b8c0f1a5f2558a7ec3592bffecb5bf538f010
+    mime: image/tiff
+    bytes: 17329935
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/36/52/365217541969f38a8a0fbcd78a1b8c0f1a5f2558a7ec3592bffecb5bf538f010/preview-400.e1933808c475.jpg
+        sha256: e1933808c475726238087dae40deb6dad5a0c64bf06c9711e5f960943f04ab8f
+        mime: image/jpeg
+        bytes: 70181
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

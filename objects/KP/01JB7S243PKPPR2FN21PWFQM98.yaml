@@ -1,0 +1,46 @@
+id: 01JB7S243PKPPR2FN21PWFQM98
+type: image
+subtype: photo
+title: Familie Burmester beim Konfirmation
+description: Farbfoto, leicht verblasst.
+date: 1909-12
+location: Wustrow, Dorfstraße
+origin:
+  name: Heinrich Bruns
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 3/085
+subjects:
+  - name: Gasthof Meyer
+    type: building
+  - name: Lüchow
+    type: place
+  - name: Anni Jürgens
+    type: person
+parents:
+  - 01GYVCE9612QGZYBGWYYZ1X9FF
+files:
+  - role: main
+    original_name: P0689.jpg
+    path: files/ec/5b/ec5b63498702d3050e6f863ff1a5f761fb0e6b4c38e364b6b61699befd925fff/original.jpg
+    sha256: ec5b63498702d3050e6f863ff1a5f761fb0e6b4c38e364b6b61699befd925fff
+    mime: image/jpeg
+    bytes: 13465236
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/ec/5b/ec5b63498702d3050e6f863ff1a5f761fb0e6b4c38e364b6b61699befd925fff/preview-400.3b1de739e67c.jpg
+        sha256: 3b1de739e67c9ebac95ca8b68795314e8382826683785423e9633d1105068c54
+        mime: image/jpeg
+        bytes: 52133
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

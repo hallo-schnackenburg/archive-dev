@@ -1,0 +1,37 @@
+id: 01KNKDE5FEQ08TFP8HSSFR24P7
+type: image
+subtype: plan
+title: Grundriss Pfarrhaus, Holtorf
+description: Maßstab 1:250.
+date: "1869"
+location: Havelberg, Torhaus
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Osterfeuer 1869
+    type: event
+  - name: Apotheke
+    type: building
+files:
+  - role: main
+    original_name: scan_781.tif
+    path: files/cf/ab/cfabc01897433fe6e20a67df1233cb0842a35614f92b15713c6d9f610e09f930/original.tif
+    sha256: cfabc01897433fe6e20a67df1233cb0842a35614f92b15713c6d9f610e09f930
+    mime: image/tiff
+    bytes: 13297830
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/cf/ab/cfabc01897433fe6e20a67df1233cb0842a35614f92b15713c6d9f610e09f930/preview-400.6042db2e6689.jpg
+        sha256: 6042db2e668995a2d51b965b0e8a6b9ca2048651462fe089a833441d45c7945e
+        mime: image/jpeg
+        bytes: 78159
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

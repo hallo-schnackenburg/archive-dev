@@ -1,0 +1,47 @@
+id: 01HQ7GN8ZAQJB5B7BC193SHRGQ
+type: image
+subtype: photo
+title: Blick vom Mühle auf das Bahnhof
+description: Abzug im Format 6 x 9 cm.
+date: 1995-06
+location: Rüterberg, Deichstraße
+origin:
+  name: Heinrich Bruns
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 21/102
+  note: Kellerarchiv
+subjects:
+  - name: Viehmarkt 1995
+    type: event
+  - name: Rudolf Lemke
+    type: person
+  - name: Gorleben
+    type: place
+parents:
+  - 01HYMCFRJ492VAY6JD2NK5EJ56
+files:
+  - role: main
+    original_name: scan_017.tif
+    path: files/a0/a6/a0a684b98f616450fd4038a28c2ae2a161d1bbcf3ba6640cc2ce7d754d9a5981/original.tif
+    sha256: a0a684b98f616450fd4038a28c2ae2a161d1bbcf3ba6640cc2ce7d754d9a5981
+    mime: image/tiff
+    bytes: 7944250
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a0/a6/a0a684b98f616450fd4038a28c2ae2a161d1bbcf3ba6640cc2ce7d754d9a5981/preview-400.c61c69bd4737.jpg
+        sha256: c61c69bd47379d8bda8c30d263d4621231a2aeda15f047eb2aa78e336b23a6d5
+        mime: image/jpeg
+        bytes: 24700
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,37 @@
+id: 01JDPNM1JMQQKT0WZ61NCP8DVN
+type: document
+subtype: letter
+title: Feldpostbrief von Albert Ahrens
+description: Betrifft Marktgebühren.
+date: 1902-04-06
+location: Bömenzien, Deichstraße
+geocode:
+  lat: 53.0563
+  lon: 11.5284
+  precision: town
+  source: osm
+origin:
+  name: Frieda Lüders
+  type: person
+  location: Rüterberg
+recipient: Fritz Lemke
+language: nds
+original:
+  holder:
+    name: Familie Ahrens
+    type: person
+    location: Gartow
+  reference: Br 3/170
+subjects:
+  - name: Karl Lemke
+    type: person
+  - name: Schlachtfest 1902
+    type: event
+  - name: Weihnachtsmarkt 1902
+    type: event
+storage: external
+external:
+  - type: archive
+    site: Wendlandarchiv
+    uri: https://wendlandarchiv.example.org/objekt/103222
+    retrieved: 2025-05-08

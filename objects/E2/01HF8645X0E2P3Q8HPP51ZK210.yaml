@@ -1,0 +1,34 @@
+id: 01HF8645X0E2P3Q8HPP51ZK210
+type: image
+subtype: plan
+title: Katasterblatt Quast
+date: 1848-05
+subjects:
+  - name: Emma Mahnke
+    type: person
+  - name: Dorfschule
+    type: building
+  - name: Ortsbesichtigung 1848
+    type: event
+parents:
+  - 01JMSDNGA55JGRT5ESX6NS0WKN
+files:
+  - role: main
+    original_name: scan_100.tif
+    path: files/43/bf/43bfddd46ccbbca0c07382822bf679680c62469a098ddb56e39a5c8a44632a8c/original.tif
+    sha256: 43bfddd46ccbbca0c07382822bf679680c62469a098ddb56e39a5c8a44632a8c
+    mime: image/tiff
+    bytes: 12574249
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/43/bf/43bfddd46ccbbca0c07382822bf679680c62469a098ddb56e39a5c8a44632a8c/preview-400.0a01b082235c.jpg
+        sha256: 0a01b082235c04ad71cd914c1b2e826bb7b66413edaaccdb8e5a6474567fe3d9
+        mime: image/jpeg
+        bytes: 23293
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

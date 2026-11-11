@@ -1,0 +1,39 @@
+id: 01FFF1SCM08RY80JECBC1PJDZ7
+type: image
+subtype: photo
+title: Anni Brandt, Porträt
+date: 1991-10
+origin:
+  name: Wilhelm Matthies
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Hochwasser 1991
+    type: event
+  - name: Havelberg
+    type: place
+  - name: Gutshaus
+    type: building
+parents:
+  - 01HZ7W7GMZ9EC1Q7AQ30WK8PZ0
+  - 01KC4MRSQCBP77C8MHDY1DBTTR
+files:
+  - role: main
+    original_name: DSC7085.jpg
+    path: files/bc/f9/bcf9d90ea5b1250fab84fa0caa4755982aa66b764f75592c1c2fa57ceb0a7832/original.jpg
+    sha256: bcf9d90ea5b1250fab84fa0caa4755982aa66b764f75592c1c2fa57ceb0a7832
+    mime: image/jpeg
+    bytes: 18924265
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/bc/f9/bcf9d90ea5b1250fab84fa0caa4755982aa66b764f75592c1c2fa57ceb0a7832/preview-400.c503dbeb8dcf.jpg
+        sha256: c503dbeb8dcf583e4ec91bc409bca838de604d39db29f4ef5cd61b51abcd1d2a
+        mime: image/jpeg
+        bytes: 75828
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

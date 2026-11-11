@@ -1,0 +1,33 @@
+id: 01F0CMD091PWEBDJK363RQD5ME
+type: image
+subtype: photo
+title: Kinder am Grenzturm
+origin:
+  name: Heinrich Timm
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Lanz
+    type: place
+parents:
+  - 01FDA5WD2HAQWVA4SE72GX6KEJ
+files:
+  - role: main
+    original_name: P8826.jpg
+    path: files/a1/2a/a12a9830b4be8eb9cadb7367c49f942bcd85dc0f275b8e3a09a17c2a71300589/original.jpg
+    sha256: a12a9830b4be8eb9cadb7367c49f942bcd85dc0f275b8e3a09a17c2a71300589
+    mime: image/jpeg
+    bytes: 10692630
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/a1/2a/a12a9830b4be8eb9cadb7367c49f942bcd85dc0f275b8e3a09a17c2a71300589/preview-400.03c010ea4bf1.jpg
+        sha256: 03c010ea4bf1ee256bfa6d3324b645db78901acf866ea3d947a55bbeab3e98e8
+        mime: image/jpeg
+        bytes: 45539
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

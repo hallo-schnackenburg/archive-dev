@@ -1,0 +1,37 @@
+id: 01GFB78Q717ZEQ5JKHBNQQ078M
+type: image
+subtype: photo
+title: Kartoffelernte 1892
+description: Farbfoto, leicht verblasst.
+date: "1892"
+location: Gülden, Am Elbdeich
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Dachboden, Truhe
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v31507
+subjects:
+  - name: Glockenweihe 1892
+    type: event
+files:
+  - role: main
+    original_name: foto_1600.jpg
+    path: files/dc/e2/dce2f801f4562bf0a9bd7b547142a242c5fa81837e66d51baa2507471f93d7fa/original.jpg
+    sha256: dce2f801f4562bf0a9bd7b547142a242c5fa81837e66d51baa2507471f93d7fa
+    mime: image/jpeg
+    bytes: 23435304
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/dc/e2/dce2f801f4562bf0a9bd7b547142a242c5fa81837e66d51baa2507471f93d7fa/preview-400.b498c4f30ff0.jpg
+        sha256: b498c4f30ff0c925ca3b5daff94007c4b04d2348053bb39ef5d768da237fd022
+        mime: image/jpeg
+        bytes: 47135
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

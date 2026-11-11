@@ -1,0 +1,34 @@
+id: 01HX8X2KD09GXMH0QMS9GV35XM
+type: image
+subtype: drawing
+title: Wappenentwurf Gartow
+description: Mit Anmerkungen am Rand.
+date: "1965"
+location: Gartow, Fährstraße
+origin:
+  name: Heinrich Bruns
+  type: person
+  location: Wootz
+parents:
+  - 01FDG2W8NWMVK48918J24FXBW9
+  - 01K17ANV6BS1YN44GQNBJ2A6CF
+files:
+  - role: main
+    original_name: scan_555.tif
+    path: files/6f/7f/6f7fdd3a34f0b8a684e54c215d91022a450df21f51092a90dddfbed9a8cb483f/original.tif
+    sha256: 6f7fdd3a34f0b8a684e54c215d91022a450df21f51092a90dddfbed9a8cb483f
+    mime: image/tiff
+    bytes: 25471486
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/6f/7f/6f7fdd3a34f0b8a684e54c215d91022a450df21f51092a90dddfbed9a8cb483f/preview-400.66055f464a5c.jpg
+        sha256: 66055f464a5c5d6233e238b0a568a93cd36abfb940cca221a0243b20ec561c77
+        mime: image/jpeg
+        bytes: 83855
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

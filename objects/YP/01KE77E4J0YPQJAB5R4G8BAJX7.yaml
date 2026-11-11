@@ -1,0 +1,48 @@
+id: 01KE77E4J0YPQJAB5R4G8BAJX7
+type: document
+subtype: letter
+title: Korrespondenz Walter Lemke
+description: Maschinenschriftlich, unterschrieben.
+date: 1896/1897
+location: Dömitz, Fährstraße
+geocode:
+  lat: 53.0635
+  lon: 11.4929
+  precision: region
+  source: osm
+origin:
+  name: Sabine Prieß
+  type: person
+  location: Laase
+recipient: Wilhelm Schulz
+language: de
+owner:
+  name: Helga Eggers
+  type: person
+  note: Nachlass
+subjects:
+  - name: Badestelle
+    type: building
+  - name: Arendsee
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: letter_8bajx7_001.tif
+    path: files/fe/2f/fe2f500eba87dd8349357ca43acffafded4bfd4c70dc388281663615b38f7b82/original.tif
+    sha256: fe2f500eba87dd8349357ca43acffafded4bfd4c70dc388281663615b38f7b82
+    mime: image/tiff
+    bytes: 8786621
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fe/2f/fe2f500eba87dd8349357ca43acffafded4bfd4c70dc388281663615b38f7b82/preview-400.bd6e89abe760.jpg
+        sha256: bd6e89abe760292b66ab830f9e28f5144f3c9b8df6b8c702a44a93beba22c26c
+        mime: image/jpeg
+        bytes: 26568
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

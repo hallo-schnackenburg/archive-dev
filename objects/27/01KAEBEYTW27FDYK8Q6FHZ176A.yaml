@@ -1,0 +1,36 @@
+id: 01KAEBEYTW27FDYK8Q6FHZ176A
+type: image
+subtype: plan
+title: Grundriss Bahnhof
+date: 1980-09-23
+location: Lanz, Brunnen am Markt
+origin:
+  name: Wilhelm Brandt
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Album 12/067
+files:
+  - role: main
+    original_name: scan_106.tif
+    path: files/05/a2/05a2fd8c4efa40663ae538b250d314d8f55cd51b57dde6d692db8dcd98fb1101/original.tif
+    sha256: 05a2fd8c4efa40663ae538b250d314d8f55cd51b57dde6d692db8dcd98fb1101
+    mime: image/tiff
+    bytes: 9073221
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/a2/05a2fd8c4efa40663ae538b250d314d8f55cd51b57dde6d692db8dcd98fb1101/preview-400.0e37325fded5.jpg
+        sha256: 0e37325fded5c705c21ba1866e461db9671f12d757fffb264c3a1ad549013461
+        mime: image/jpeg
+        bytes: 37129
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

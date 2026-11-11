@@ -1,0 +1,88 @@
+id: 01FK4E6V5233VVMAGMRPAPECBB
+type: document
+subtype: letter
+title: Mitteilung aus Hitzacker an Familie Rieke
+date: 1875-08-10
+location: Schnackenburg, Scheune
+geocode:
+  lat: 53.0892
+  lon: 11.5289
+  precision: street
+  source: osm
+origin:
+  name: Marta Meyer
+  type: person
+  location: Gollensdorf
+recipient: Wilhelm Wegner
+language: de
+subjects:
+  - name: Wittenberge
+    type: place
+  - name: Hans Detlefs
+    type: person
+  - name: Kirmes 1875
+    type: event
+parents:
+  - 01G8B1RBKCP0JCJ0TQ3WYMBBPZ
+  - 01HG6JP5WA4TG6RE22EWVXDYF0
+files:
+  - role: page
+    num: 1
+    original_name: letter_apecbb_001.tif
+    path: files/e8/82/e882c9e926907e7a67a4d0e8f6b0ac1b6faea27cca79912f7394996a301bdcae/original.tif
+    sha256: e882c9e926907e7a67a4d0e8f6b0ac1b6faea27cca79912f7394996a301bdcae
+    mime: image/tiff
+    bytes: 17445193
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/82/e882c9e926907e7a67a4d0e8f6b0ac1b6faea27cca79912f7394996a301bdcae/preview-400.fb36475bd09a.jpg
+        sha256: fb36475bd09ab6fad30a83af65eb846e2c4ec3ccc5c1e8b506bd07ecf96e6fb1
+        mime: image/jpeg
+        bytes: 67454
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_apecbb_002.tif
+    path: files/70/6c/706c336bb73e8dcc03242e117cc04a94d6205bedeff88fccf2c758e8e1f54f7f/original.tif
+    sha256: 706c336bb73e8dcc03242e117cc04a94d6205bedeff88fccf2c758e8e1f54f7f
+    mime: image/tiff
+    bytes: 2636907
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/70/6c/706c336bb73e8dcc03242e117cc04a94d6205bedeff88fccf2c758e8e1f54f7f/preview-400.7c997adc144f.jpg
+        sha256: 7c997adc144fb2631bb1966c79250fe0d555ff2f659e45d7c39095b5b892e650
+        mime: image/jpeg
+        bytes: 67356
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_apecbb_003.tif
+    path: files/8d/02/8d02de8368ff962413571157856adc037f3ddb9515faf650fe0d48240820df68/original.tif
+    sha256: 8d02de8368ff962413571157856adc037f3ddb9515faf650fe0d48240820df68
+    mime: image/tiff
+    bytes: 686626
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8d/02/8d02de8368ff962413571157856adc037f3ddb9515faf650fe0d48240820df68/preview-400.8eacff8975be.jpg
+        sha256: 8eacff8975be0651ac24dfd1b6d02a577b90390e9253b955d9e745b113a487df
+        mime: image/jpeg
+        bytes: 25529
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

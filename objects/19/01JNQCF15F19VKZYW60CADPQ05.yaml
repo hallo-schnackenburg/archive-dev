@@ -1,0 +1,44 @@
+id: 01JNQCF15F19VKZYW60CADPQ05
+type: image
+subtype: photo
+title: Lange Straße, Ecke Am Markt
+date: "1988"
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro 32/111
+owner:
+  name: Walter Hennings
+  type: person
+  note: Nachlass
+subjects:
+  - name: Karl Behrens
+    type: person
+  - name: Wittenberge
+    type: place
+  - name: Gisela Schulz
+    type: person
+parents:
+  - 01JKQ421K5RBFQ8NV81GBKEPMH
+files:
+  - role: main
+    original_name: P3334.jpg
+    path: files/3b/d0/3bd09f07da758cc71782bc5a8649f6d0e0bddf6b4950cb502d1a44250e3de05e/original.jpg
+    sha256: 3bd09f07da758cc71782bc5a8649f6d0e0bddf6b4950cb502d1a44250e3de05e
+    mime: image/jpeg
+    bytes: 17171097
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/3b/d0/3bd09f07da758cc71782bc5a8649f6d0e0bddf6b4950cb502d1a44250e3de05e/preview-400.8e3857afe288.jpg
+        sha256: 8e3857afe2886ddb905723de2c4c3711a0d13524b1603c159c9983fe29390597
+        mime: image/jpeg
+        bytes: 87703
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

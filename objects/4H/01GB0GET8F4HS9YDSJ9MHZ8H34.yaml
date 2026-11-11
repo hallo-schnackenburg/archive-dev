@@ -1,0 +1,45 @@
+id: 01GB0GET8F4HS9YDSJ9MHZ8H34
+type: image
+subtype: photo
+title: Bernd Schulz vor dem Poststelle
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 2004-01
+origin:
+  name: Otto Bohlmann
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan 2/200
+subjects:
+  - name: Laase
+    type: place
+  - name: Backhaus
+    type: building
+  - name: Tischlerei Bruns
+    type: building
+parents:
+  - 01HCDYTRFHFRB82WRMENEDR10F
+files:
+  - role: main
+    original_name: scan_248.tif
+    path: files/78/22/7822135c8f767567e7790567a43ec304544f91b8505f67462fc48775d3e36335/original.tif
+    sha256: 7822135c8f767567e7790567a43ec304544f91b8505f67462fc48775d3e36335
+    mime: image/tiff
+    bytes: 3452273
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/78/22/7822135c8f767567e7790567a43ec304544f91b8505f67462fc48775d3e36335/preview-400.7dff9d1c722a.jpg
+        sha256: 7dff9d1c722a202cc7bb283c23ca018c83686fc0d3452ad68b991b6dc51fcab3
+        mime: image/jpeg
+        bytes: 87847
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

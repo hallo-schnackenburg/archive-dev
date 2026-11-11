@@ -1,0 +1,39 @@
+id: 01G3SVHKG1VFE08C9Z54D1E09V
+type: image
+subtype: photo
+title: Lotte Lüders vor dem Mühle
+date: 1995-02-26
+location: Schnackenburg, Schulstraße
+origin:
+  name: Anni Meyer
+  type: person
+  location: Seedorf
+subjects:
+  - name: Molkerei
+    type: building
+  - name: Schlachtfest 1995
+    type: event
+  - name: Havelberg
+    type: place
+parents:
+  - 01F88NE4NP6MTSKBG15MEZQEXV
+files:
+  - role: main
+    original_name: scan_766.tif
+    path: files/fc/3c/fc3cb5f50d80de24e46c75db594359066b3fd2bace969375fbf07d49052bae39/original.tif
+    sha256: fc3cb5f50d80de24e46c75db594359066b3fd2bace969375fbf07d49052bae39
+    mime: image/tiff
+    bytes: 11001728
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/3c/fc3cb5f50d80de24e46c75db594359066b3fd2bace969375fbf07d49052bae39/preview-400.80de63063553.jpg
+        sha256: 80de630635539305cc296fbe652f8ad26223beffcb7984e1461e8915debb497d
+        mime: image/jpeg
+        bytes: 48958
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

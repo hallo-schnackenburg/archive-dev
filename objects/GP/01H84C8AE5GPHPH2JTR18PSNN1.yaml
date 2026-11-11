@@ -1,0 +1,44 @@
+id: 01H84C8AE5GPHPH2JTR18PSNN1
+type: image
+subtype: photo
+title: Backhaus in Gülden
+description: Farbfoto, leicht verblasst.
+date: 190X
+location: Gülden, Am Markt
+geocode:
+  lat: 53.0045
+  lon: 11.6474
+  precision: exact
+  source: osm
+origin:
+  name: Anni Ahrens
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok/Kasten 22/049
+parents:
+  - 01HV8Q29MRM56K8HKB6HH162VH
+files:
+  - role: main
+    original_name: IMG_5104.jpg
+    path: files/5c/66/5c66f7a63f639c5c4350c215d2736142102238936e389a077cb8981c25bb5633/original.jpg
+    sha256: 5c66f7a63f639c5c4350c215d2736142102238936e389a077cb8981c25bb5633
+    mime: image/jpeg
+    bytes: 14067852
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/5c/66/5c66f7a63f639c5c4350c215d2736142102238936e389a077cb8981c25bb5633/preview-400.e2ee54b4e26b.jpg
+        sha256: e2ee54b4e26b237fc8e8fc3976d42fcff6a391b07500e244d78e2ab498661fbb
+        mime: image/jpeg
+        bytes: 46793
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

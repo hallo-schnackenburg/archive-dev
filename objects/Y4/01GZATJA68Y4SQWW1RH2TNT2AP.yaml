@@ -1,0 +1,35 @@
+id: 01GZATJA68Y4SQWW1RH2TNT2AP
+type: image
+subtype: plan
+title: Bauplan Gemeindehaus 1915
+description: Tusche auf Transparentpapier.
+date: 1915-09-20
+origin:
+  name: August Ludolf
+  type: person
+  location: Gülden
+subjects:
+  - name: Deicharbeiten 1915
+    type: event
+  - name: Scheune
+    type: building
+files:
+  - role: main
+    original_name: scan_865.tif
+    path: files/d2/c5/d2c5f136fb6f2ed08b7a69db2325bfbda2a9080e6d4d79f88680d047082d68d7/original.tif
+    sha256: d2c5f136fb6f2ed08b7a69db2325bfbda2a9080e6d4d79f88680d047082d68d7
+    mime: image/tiff
+    bytes: 18241489
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d2/c5/d2c5f136fb6f2ed08b7a69db2325bfbda2a9080e6d4d79f88680d047082d68d7/preview-400.148830194223.jpg
+        sha256: 1488301942231f14a0f308ca2bd833de6a772ea8637332c7904ec6ed2bfbf736
+        mime: image/jpeg
+        bytes: 20584
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

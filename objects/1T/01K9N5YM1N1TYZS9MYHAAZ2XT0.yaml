@@ -1,0 +1,36 @@
+id: 01K9N5YM1N1TYZS9MYHAAZ2XT0
+type: image
+subtype: plan
+title: Bauplan Windmühle 1773
+description: Mit handschriftlichen Ergänzungen.
+date: 1773/1782
+location: Zadrau, Tischlerei Bruns
+subjects:
+  - name: Gerda Lemke
+    type: person
+  - name: Kapern
+    type: place
+  - name: Emma Brandt
+    type: person
+parents:
+  - 01H4PN30WRRJ626WVNCSGETHA9
+files:
+  - role: main
+    original_name: scan_594.tif
+    path: files/07/04/0704f38b611fa7919767d178d0778a8eb431f6fbd2624514056f4cef6aa82442/original.tif
+    sha256: 0704f38b611fa7919767d178d0778a8eb431f6fbd2624514056f4cef6aa82442
+    mime: image/tiff
+    bytes: 19001631
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/04/0704f38b611fa7919767d178d0778a8eb431f6fbd2624514056f4cef6aa82442/preview-400.5c450fe01ece.jpg
+        sha256: 5c450fe01ece6189a2bc895734d135d8c44c73525bed7e1069dcf91f7421380f
+        mime: image/jpeg
+        bytes: 80050
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

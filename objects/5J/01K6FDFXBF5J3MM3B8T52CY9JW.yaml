@@ -1,0 +1,35 @@
+id: 01K6FDFXBF5J3MM3B8T52CY9JW
+type: image
+subtype: plan
+title: Bauplan Storchennest 1982
+date: 1982-10-27
+location: Nienwalde, Am Markt
+geocode:
+  lat: 53.014
+  lon: 11.6812
+  precision: exact
+  source: osm
+origin:
+  name: Friedrich Ahrens
+  type: person
+  location: Hitzacker
+files:
+  - role: main
+    original_name: scan_619.tif
+    path: files/9b/8a/9b8ace3bb5e2d388369567a9b3b43e57d35890e6adbe41c3599865143debabe1/original.tif
+    sha256: 9b8ace3bb5e2d388369567a9b3b43e57d35890e6adbe41c3599865143debabe1
+    mime: image/tiff
+    bytes: 22395185
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9b/8a/9b8ace3bb5e2d388369567a9b3b43e57d35890e6adbe41c3599865143debabe1/preview-400.07de693bd620.jpg
+        sha256: 07de693bd620a671112ceb6cf1ab03d8ee6e717c1181956943716a6752712e82
+        mime: image/jpeg
+        bytes: 49529
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

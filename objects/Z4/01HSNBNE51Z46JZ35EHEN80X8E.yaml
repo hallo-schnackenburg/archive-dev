@@ -1,0 +1,44 @@
+id: 01HSNBNE51Z46JZ35EHEN80X8E
+type: image
+subtype: print
+title: Postkarte Havelberg, Schlachterei, Lanz
+description: Postkarte, gelaufen 1960.
+date: 1839-12-04
+origin:
+  name: Wilhelm Rohde
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 13/064
+  note: Kellerarchiv
+owner:
+  name: Ilse Rieke
+  type: person
+  note: Nachlass
+parents:
+  - 01HETPQRM52KXM7ZS582C2ECF3
+  - 01JYMEAJWANE502SQPKMZ6JGSN
+files:
+  - role: main
+    original_name: scan_048.tif
+    path: files/bf/ca/bfca6c0463a94ff98cba8b22344f9326590f8de04a08929e518bc9633a9e77f7/original.tif
+    sha256: bfca6c0463a94ff98cba8b22344f9326590f8de04a08929e518bc9633a9e77f7
+    mime: image/tiff
+    bytes: 5913827
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bf/ca/bfca6c0463a94ff98cba8b22344f9326590f8de04a08929e518bc9633a9e77f7/preview-400.92ce0d9927c7.jpg
+        sha256: 92ce0d9927c768ebda58c74aad657c5b5dd5f4a2d0cd1e0e08bb5eb8a149dfc8
+        mime: image/jpeg
+        bytes: 63775
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

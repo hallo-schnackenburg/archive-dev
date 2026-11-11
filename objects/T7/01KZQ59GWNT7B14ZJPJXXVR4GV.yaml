@@ -1,0 +1,82 @@
+id: 01KZQ59GWNT7B14ZJPJXXVR4GV
+type: document
+subtype: letter
+title: Mitteilung aus Zadrau an Familie Garms
+description: Handschriftlich, 2 Seiten.
+date: 182X
+location: Wustrow, Gartenstraße
+geocode:
+  lat: 52.9781
+  lon: 11.6337
+  precision: street
+  source: osm
+origin:
+  name: Erika Garms
+  type: person
+  location: Lanz
+recipient: Helga Bruns
+language: de
+subjects:
+  - name: Feuerwehrübung 1826
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_xvr4gv_001.tif
+    path: files/44/2a/442a850217fe7f16f0331c192d1e7af08d9458b4076cb03ffc84b4124e3f8a9a/original.tif
+    sha256: 442a850217fe7f16f0331c192d1e7af08d9458b4076cb03ffc84b4124e3f8a9a
+    mime: image/tiff
+    bytes: 21112093
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/44/2a/442a850217fe7f16f0331c192d1e7af08d9458b4076cb03ffc84b4124e3f8a9a/preview-400.e1a30a5f5551.jpg
+        sha256: e1a30a5f5551891c50491dc11a1d77875e10c251f02c98ae4b51c0669dfb42d5
+        mime: image/jpeg
+        bytes: 86288
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_xvr4gv_002.tif
+    path: files/16/31/163191770f21c69c0ea7e5b43b242924108a9a634980b29b7e5541e213242829/original.tif
+    sha256: 163191770f21c69c0ea7e5b43b242924108a9a634980b29b7e5541e213242829
+    mime: image/tiff
+    bytes: 21317305
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/16/31/163191770f21c69c0ea7e5b43b242924108a9a634980b29b7e5541e213242829/preview-400.ca0bfc54dd92.jpg
+        sha256: ca0bfc54dd92a3152c0b28b2edba516493f42117fc9ac23e6857f1a59ce9473e
+        mime: image/jpeg
+        bytes: 44374
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_xvr4gv_003.tif
+    path: files/6a/37/6a37da9ce462bf48d7ebec1be6fc3a32a8b9feb68755760838e91489a9195d4d/original.tif
+    sha256: 6a37da9ce462bf48d7ebec1be6fc3a32a8b9feb68755760838e91489a9195d4d
+    mime: image/tiff
+    bytes: 16017470
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6a/37/6a37da9ce462bf48d7ebec1be6fc3a32a8b9feb68755760838e91489a9195d4d/preview-400.b48180bea6eb.jpg
+        sha256: b48180bea6eb44606c845e0ef6bfd34b3aa50bb7b07912bf553b22cc2177ba45
+        mime: image/jpeg
+        bytes: 32124
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

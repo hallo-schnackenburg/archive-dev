@@ -1,0 +1,40 @@
+id: 01KSBFBP3R5A1AC6HMP5A9B3EJ
+type: image
+subtype: photo
+title: Schützenhaus nach dem Straßenfest
+description: Farbfoto, leicht verblasst.
+date: 1893-05-17
+location: Seedorf, Schulstraße
+geocode:
+  lat: 52.9596
+  lon: 11.6961
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Familie Jeß
+    type: person
+    location: Salzwedel
+  reference: F/Album 23/100
+parents:
+  - 01HBSGHG52Z98SDKPVZX12Z93T
+files:
+  - role: main
+    original_name: P1507.jpg
+    path: files/0d/bc/0dbc544c6a55c256d7a1772af51e2732862755db0ad4c03b9d4439c973eea70d/original.jpg
+    sha256: 0dbc544c6a55c256d7a1772af51e2732862755db0ad4c03b9d4439c973eea70d
+    mime: image/jpeg
+    bytes: 22420453
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/0d/bc/0dbc544c6a55c256d7a1772af51e2732862755db0ad4c03b9d4439c973eea70d/preview-400.10ae481cb411.jpg
+        sha256: 10ae481cb411b2fa633bf7051072ca1432bbbba1e65b4afb2b7fcd079e9b5b7d
+        mime: image/jpeg
+        bytes: 76104
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

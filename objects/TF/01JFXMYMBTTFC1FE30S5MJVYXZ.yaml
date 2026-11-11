@@ -1,0 +1,39 @@
+id: 01JFXMYMBTTFC1FE30S5MJVYXZ
+type: image
+subtype: plan
+title: Bauplan Windmühle 1836
+description: Maßstab 1:1000.
+date: 1836-12-05
+origin:
+  name: Hedwig Wiese
+  type: person
+  location: Lanz
+subjects:
+  - name: Fährjubiläum 1836
+    type: event
+  - name: Glockenweihe 1836
+    type: event
+  - name: Lotte Krüger
+    type: person
+parents:
+  - 01JASR0HP1MS5AYRYN7A5XSTYQ
+files:
+  - role: main
+    original_name: scan_366.tif
+    path: files/07/ab/07abe13e533db12f83e4da88a5fd913cbbaaca06b928c981dada597cd3f0270d/original.tif
+    sha256: 07abe13e533db12f83e4da88a5fd913cbbaaca06b928c981dada597cd3f0270d
+    mime: image/tiff
+    bytes: 24503091
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/ab/07abe13e533db12f83e4da88a5fd913cbbaaca06b928c981dada597cd3f0270d/preview-400.3aca4e7fa9f7.jpg
+        sha256: 3aca4e7fa9f75f87adb2c38b7449f92a63a3a35fd7ef6669ea67e9747e355a5d
+        mime: image/jpeg
+        bytes: 83617
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

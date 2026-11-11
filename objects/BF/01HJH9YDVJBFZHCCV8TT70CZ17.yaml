@@ -1,0 +1,39 @@
+id: 01HJH9YDVJBFZHCCV8TT70CZ17
+type: image
+subtype: plan
+title: Lageplan Tischlerei Bruns
+description: Tusche auf Transparentpapier.
+date: 1921-12
+origin:
+  name: Brigitte Heuer
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 25/112
+subjects:
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: scan_486.tif
+    path: files/fa/e5/fae5fa3e0b90d887722b19492c9460ef939859b6568458671d3f208d70be0938/original.tif
+    sha256: fae5fa3e0b90d887722b19492c9460ef939859b6568458671d3f208d70be0938
+    mime: image/tiff
+    bytes: 27205172
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/fa/e5/fae5fa3e0b90d887722b19492c9460ef939859b6568458671d3f208d70be0938/preview-400.20bb9afaa362.jpg
+        sha256: 20bb9afaa3626413924ee29b0922b0ccaf0c61d7a73c93177ace81c67956d9d5
+        mime: image/jpeg
+        bytes: 24542
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

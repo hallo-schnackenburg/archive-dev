@@ -1,0 +1,42 @@
+id: 01HJQ820NAJKP642HG74ZZKPDH
+type: image
+subtype: photo
+title: Anni Lemke vor dem Heuberge
+origin:
+  name: Käthe Jeß
+  type: person
+  location: Brünkendorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Wassermühle
+    type: building
+  - name: Sturmschaden 1980
+    type: event
+  - name: Klaus Lemke
+    type: person
+parents:
+  - 01KX29XZ6YEZXRZYXDTRF154JS
+files:
+  - role: main
+    original_name: scan_848.tif
+    path: files/b8/3d/b83db89f36862c6efd29ebb76efc7e23ea95846cece11beb154200b8349f48a6/original.tif
+    sha256: b83db89f36862c6efd29ebb76efc7e23ea95846cece11beb154200b8349f48a6
+    mime: image/tiff
+    bytes: 1676664
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b8/3d/b83db89f36862c6efd29ebb76efc7e23ea95846cece11beb154200b8349f48a6/preview-400.e9445197b800.jpg
+        sha256: e9445197b800303186397004b21379365c038edb22f43ab7729bda1ba4c55cac
+        mime: image/jpeg
+        bytes: 61717
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

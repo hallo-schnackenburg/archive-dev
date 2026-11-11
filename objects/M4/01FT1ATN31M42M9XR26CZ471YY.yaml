@@ -1,0 +1,41 @@
+id: 01FT1ATN31M42M9XR26CZ471YY
+type: image
+subtype: photo
+title: Hochzeit 1987
+description: Aufnahme von Gustav Lüders.
+date: 1987-02
+location: Laase, Bahnhofstraße
+geocode:
+  lat: 53.0242
+  lon: 11.6717
+  precision: exact
+  source: osm
+origin:
+  name: Frieda Rieke
+  type: person
+  location: Gorleben
+subjects:
+  - name: Apotheke
+    type: building
+  - name: Marta Plate
+    type: person
+files:
+  - role: main
+    original_name: scan_616.tif
+    path: files/be/24/be2475ccd8c7cfec1ba548bab3843818063c27152fe574381c48ab7296ff2479/original.tif
+    sha256: be2475ccd8c7cfec1ba548bab3843818063c27152fe574381c48ab7296ff2479
+    mime: image/tiff
+    bytes: 24049128
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/24/be2475ccd8c7cfec1ba548bab3843818063c27152fe574381c48ab7296ff2479/preview-400.12b3327bd0ab.jpg
+        sha256: 12b3327bd0ab3c60e8e3ac2c7dc79aef0c9d1054a91c5b3eb3d4396752ae6c44
+        mime: image/jpeg
+        bytes: 72064
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

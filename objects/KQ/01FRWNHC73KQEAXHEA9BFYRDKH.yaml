@@ -1,0 +1,35 @@
+id: 01FRWNHC73KQEAXHEA9BFYRDKH
+type: image
+subtype: photo
+title: Kirmes 1917
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1917-12-20
+location: Hitzacker, Gutshaus
+geocode:
+  lat: 53.0411
+  lon: 11.6659
+  precision: street
+  source: osm
+subjects:
+  - name: Paul Rohde
+    type: person
+files:
+  - role: main
+    original_name: foto_7961.jpg
+    path: files/4d/ee/4deec0398b188f3be76d002172e31e89db401cc826e84da40e874bfe52c0ad06/original.jpg
+    sha256: 4deec0398b188f3be76d002172e31e89db401cc826e84da40e874bfe52c0ad06
+    mime: image/jpeg
+    bytes: 26022445
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/4d/ee/4deec0398b188f3be76d002172e31e89db401cc826e84da40e874bfe52c0ad06/preview-400.983e34417f07.jpg
+        sha256: 983e34417f07938b5156af85e4d51714fc185fd490400c435515e0c793fad35b
+        mime: image/jpeg
+        bytes: 64135
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

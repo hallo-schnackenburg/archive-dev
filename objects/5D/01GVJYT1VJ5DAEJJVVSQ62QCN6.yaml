@@ -1,0 +1,32 @@
+id: 01GVJYT1VJ5DAEJJVVSQ62QCN6
+type: image
+subtype: photo
+title: Schulstraße, Ecke Hafenstraße
+description: Abzug im Format 13 x 18 cm.
+date: 1987~
+location: Salzwedel, Elbstraße
+geocode:
+  lat: 53.0141
+  lon: 11.6393
+  precision: town
+  source: osm
+files:
+  - role: main
+    original_name: foto_6227.jpg
+    path: files/30/a6/30a66651d55add9a08128fdf1dc057b94a2fd7db369c1e41512b67b5ed8aa5c0/original.jpg
+    sha256: 30a66651d55add9a08128fdf1dc057b94a2fd7db369c1e41512b67b5ed8aa5c0
+    mime: image/jpeg
+    bytes: 7738137
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/30/a6/30a66651d55add9a08128fdf1dc057b94a2fd7db369c1e41512b67b5ed8aa5c0/preview-400.319b98801d3f.jpg
+        sha256: 319b98801d3f8d4f814f3353110eb0795021dadb180a265314092add5ab1db84
+        mime: image/jpeg
+        bytes: 52643
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

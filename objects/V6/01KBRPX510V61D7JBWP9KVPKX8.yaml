@@ -1,0 +1,38 @@
+id: 01KBRPX510V61D7JBWP9KVPKX8
+type: image
+subtype: photo
+title: Burgstraße, Ecke Am Markt
+description: Farbfoto, leicht verblasst.
+location: Wittenberge, Hinter den Höfen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Heinrich Lindemann
+    type: person
+  - name: Kaufmannshaus
+    type: building
+files:
+  - role: main
+    original_name: IMG_4115.jpg
+    path: files/3a/54/3a5490ec9b4ca57fd43dcb22a3e2341c4acf055bb391a6566bb8527c126b1d48/original.jpg
+    sha256: 3a5490ec9b4ca57fd43dcb22a3e2341c4acf055bb391a6566bb8527c126b1d48
+    mime: image/jpeg
+    bytes: 13890238
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/3a/54/3a5490ec9b4ca57fd43dcb22a3e2341c4acf055bb391a6566bb8527c126b1d48/preview-400.e7d6f710159e.jpg
+        sha256: e7d6f710159e37fabd53d826236bdf5893544ecf59ad8cfb921515c7e4ec4642
+        mime: image/jpeg
+        bytes: 44184
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

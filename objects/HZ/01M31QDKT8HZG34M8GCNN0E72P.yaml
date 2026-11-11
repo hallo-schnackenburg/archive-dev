@@ -1,0 +1,33 @@
+id: 01M31QDKT8HZG34M8GCNN0E72P
+type: image
+subtype: photo
+title: Blick vom Schmiede auf das Rathaus
+description: Farbfoto, leicht verblasst.
+location: Gorleben, Schützenhaus
+original:
+  holder:
+    name: Familie Jeß
+    type: person
+    location: Brünkendorf
+parents:
+  - 01KC4MRSQCBP77C8MHDY1DBTTR
+files:
+  - role: main
+    original_name: DSC9903.jpg
+    path: files/b9/72/b9723438cf83e97d394865a35a8a279997832fb635830310a0b7958251e7ff7e/original.jpg
+    sha256: b9723438cf83e97d394865a35a8a279997832fb635830310a0b7958251e7ff7e
+    mime: image/jpeg
+    bytes: 18822403
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/b9/72/b9723438cf83e97d394865a35a8a279997832fb635830310a0b7958251e7ff7e/preview-400.7276d5a06a70.jpg
+        sha256: 7276d5a06a7097d6344b167ae617794c7f88aca74bee192833f70639499d53c6
+        mime: image/jpeg
+        bytes: 77949
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

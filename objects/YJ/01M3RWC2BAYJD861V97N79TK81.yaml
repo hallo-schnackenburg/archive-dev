@@ -1,0 +1,43 @@
+id: 01M3RWC2BAYJD861V97N79TK81
+type: image
+subtype: drawing
+title: Skizze Holtorf, Am Markt
+description: Mit Anmerkungen am Rand.
+date: 1976-10
+location: Rüterberg, Gartenstraße
+geocode:
+  lat: 52.9324
+  lon: 11.5626
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 15/118
+subjects:
+  - name: Viehmarkt 1976
+    type: event
+  - name: Kriegerdenkmal
+    type: building
+files:
+  - role: main
+    original_name: scan_250.tif
+    path: files/aa/54/aa54355820461fc112f8811fca37f6327494c97e8d62caab925473384a082371/original.tif
+    sha256: aa54355820461fc112f8811fca37f6327494c97e8d62caab925473384a082371
+    mime: image/tiff
+    bytes: 18720163
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/aa/54/aa54355820461fc112f8811fca37f6327494c97e8d62caab925473384a082371/preview-400.f6de8538a419.jpg
+        sha256: f6de8538a419fc10954f7af608044edc1da4d332f616ce198c0fc06f93e39433
+        mime: image/jpeg
+        bytes: 25581
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

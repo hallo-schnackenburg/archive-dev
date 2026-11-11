@@ -1,0 +1,47 @@
+id: 01F137CBVR75VWCXS98PSK70KP
+type: document
+subtype: letter
+title: Dankschreiben Gesangverein „Liedertafel“, Salzwedel
+description: Maschinenschriftlich, unterschrieben.
+location: Arendsee, Am Markt
+geocode:
+  lat: 53.0942
+  lon: 11.5599
+  precision: region
+  source: osm
+origin:
+  name: Marta Schulz
+  type: person
+  location: Wustrow
+recipient: Hermann Dreyer
+language: de
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+  - name: Gülden
+    type: place
+  - name: Brückeneinweihung 1886
+    type: event
+parents:
+  - 01G6DC0XN5QKR1Z7MS1R51BN2J
+files:
+  - role: page
+    num: 1
+    original_name: letter_sk70kp_001.tif
+    path: files/45/75/457596f397ae30ab0236ec96a16af47cb3458eb65c17dacfa133b555e1f7803d/original.tif
+    sha256: 457596f397ae30ab0236ec96a16af47cb3458eb65c17dacfa133b555e1f7803d
+    mime: image/tiff
+    bytes: 25226657
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/45/75/457596f397ae30ab0236ec96a16af47cb3458eb65c17dacfa133b555e1f7803d/preview-400.e2531b0de208.jpg
+        sha256: e2531b0de2086ec06df8e2bd10d81049994f9acf29c5abd40925ce9adde62914
+        mime: image/jpeg
+        bytes: 76628
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01EYM6ZPSRCEWYS1ZPRZA67CM5
+type: image
+subtype: photo
+title: Marta Bohlmann, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1892~
+location: Lüchow, Heuberge
+geocode:
+  lat: 53.0955
+  lon: 11.5291
+  precision: exact
+  source: osm
+origin:
+  name: Hans Krüger
+  type: person
+  location: Wustrow
+subjects:
+  - name: Laase
+    type: place
+  - name: Käthe Rohde
+    type: person
+  - name: Schützenfest 1892
+    type: event
+parents:
+  - 01KGHR1E94X26ENFVH4J79T0CP
+files:
+  - role: main
+    original_name: foto_9803.jpg
+    path: files/af/c9/afc941e4f5a4174081a33454f52219f5c0518ef54308a342ae08ef9b9951b2eb/original.jpg
+    sha256: afc941e4f5a4174081a33454f52219f5c0518ef54308a342ae08ef9b9951b2eb
+    mime: image/jpeg
+    bytes: 16058207
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/af/c9/afc941e4f5a4174081a33454f52219f5c0518ef54308a342ae08ef9b9951b2eb/preview-400.7baea99535d4.jpg
+        sha256: 7baea99535d4befee621919f4aad532606a287d76a581453650d78c5a7db7803
+        mime: image/jpeg
+        bytes: 28713
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

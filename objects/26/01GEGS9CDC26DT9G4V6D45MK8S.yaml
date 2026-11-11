@@ -1,0 +1,41 @@
+id: 01GEGS9CDC26DT9G4V6D45MK8S
+type: image
+subtype: plan
+title: Bauplan Badestelle 1794
+date: "1794"
+location: Gorleben, Am Markt
+origin:
+  name: Ernst Krüger
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Kasten 12/112
+subjects:
+  - name: Viehmarkt 1794
+    type: event
+parents:
+  - 01KR3FCH1Y6Q5X71Q48GVZ96QG
+files:
+  - role: main
+    original_name: scan_172.tif
+    path: files/9c/8d/9c8d0cfd7bdd974476aa5555d140553233f88a638bd7c53c2d5929b88b8dfc9c/original.tif
+    sha256: 9c8d0cfd7bdd974476aa5555d140553233f88a638bd7c53c2d5929b88b8dfc9c
+    mime: image/tiff
+    bytes: 13356939
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9c/8d/9c8d0cfd7bdd974476aa5555d140553233f88a638bd7c53c2d5929b88b8dfc9c/preview-400.d611d9b38d6f.jpg
+        sha256: d611d9b38d6f32bb16d08e4c976ba28bb52d49bbecad9a023711d9e4f1fb3f40
+        mime: image/jpeg
+        bytes: 73802
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

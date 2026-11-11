@@ -1,0 +1,42 @@
+id: 01GY1Q7P3432FSBA825XYJR1XY
+type: image
+subtype: plan
+title: Bauplan Gärtnerei 1907
+date: "1907"
+location: Lanz, Am Elbdeich
+origin:
+  name: Ilse Lenz
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 21/256
+  note: Bücherregal links
+subjects:
+  - name: Elbdeich
+    type: building
+  - name: Hitzacker
+    type: place
+files:
+  - role: main
+    original_name: scan_966.tif
+    path: files/aa/d9/aad9b32bf214e61ee32f024c7f1658fc7c6d9106cb88cbf83723b4bd0362afa9/original.tif
+    sha256: aad9b32bf214e61ee32f024c7f1658fc7c6d9106cb88cbf83723b4bd0362afa9
+    mime: image/tiff
+    bytes: 21237258
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/aa/d9/aad9b32bf214e61ee32f024c7f1658fc7c6d9106cb88cbf83723b4bd0362afa9/preview-400.f4d55133c797.jpg
+        sha256: f4d55133c79772afc3a87760a06991dbe990fa142f7b9efd04c3a3716539ce11
+        mime: image/jpeg
+        bytes: 37104
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

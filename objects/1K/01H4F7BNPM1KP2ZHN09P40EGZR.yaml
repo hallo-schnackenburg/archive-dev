@@ -1,0 +1,60 @@
+id: 01H4F7BNPM1KP2ZHN09P40EGZR
+type: document
+subtype: note
+title: Quittung für Käthe Wiegmann
+description: Beleg mit Stempel.
+date: 1881/1893
+origin:
+  name: Paul Ahrens
+  type: person
+  location: Pretzier
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 11/310
+parents:
+  - 01JS8ZTXPKXF8SMDJ80AZF81V6
+files:
+  - role: page
+    num: 1
+    original_name: note_40egzr_001.tif
+    path: files/51/a5/51a54a808813dc7ae4979eabc28fb19d2e83c2dc0e6aa6ca4882d8a13bc7e992/original.tif
+    sha256: 51a54a808813dc7ae4979eabc28fb19d2e83c2dc0e6aa6ca4882d8a13bc7e992
+    mime: image/tiff
+    bytes: 10554460
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/51/a5/51a54a808813dc7ae4979eabc28fb19d2e83c2dc0e6aa6ca4882d8a13bc7e992/preview-400.066e64598cc0.jpg
+        sha256: 066e64598cc0aeb7c232d825b1d0cf25b832e96d4afc2b7b74a7f771c1ff65e7
+        mime: image/jpeg
+        bytes: 59596
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_40egzr_002.tif
+    path: files/fc/de/fcdeb7c02404e6578ed54471726c8d215d2f5675dbf3a99aa681c04939b4d578/original.tif
+    sha256: fcdeb7c02404e6578ed54471726c8d215d2f5675dbf3a99aa681c04939b4d578
+    mime: image/tiff
+    bytes: 20212796
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/de/fcdeb7c02404e6578ed54471726c8d215d2f5675dbf3a99aa681c04939b4d578/preview-400.eea822456e38.jpg
+        sha256: eea822456e3891c31f1635f7e668e5019e584f2421502d2cbc15a5222e390002
+        mime: image/jpeg
+        bytes: 30393
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

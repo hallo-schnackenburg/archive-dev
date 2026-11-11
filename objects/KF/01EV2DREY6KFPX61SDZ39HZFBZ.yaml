@@ -1,0 +1,40 @@
+id: 01EV2DREY6KFPX61SDZ39HZFBZ
+type: image
+subtype: photo
+title: Hochzeit 1950
+date: 1950-06-09
+location: Arendsee, Lange Straße
+geocode:
+  lat: 53.0062
+  lon: 11.4816
+  precision: town
+  source: osm
+subjects:
+  - name: Eisgang 1950
+    type: event
+  - name: Lüchow
+    type: place
+  - name: Kapern
+    type: place
+parents:
+  - 01F65BXKMKS9E7T6J3V39RWQAH
+files:
+  - role: main
+    original_name: IMG_3138.jpg
+    path: files/1f/ef/1fefaad0690c9ce739b997021442f0dae68d345bf75803169a9b35d8ef0a0b2a/original.jpg
+    sha256: 1fefaad0690c9ce739b997021442f0dae68d345bf75803169a9b35d8ef0a0b2a
+    mime: image/jpeg
+    bytes: 15939999
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/1f/ef/1fefaad0690c9ce739b997021442f0dae68d345bf75803169a9b35d8ef0a0b2a/preview-400.323d898beec1.jpg
+        sha256: 323d898beec11f3dd6817c5c59bee3c65fa83b93ec46414aee54537e0fa8e7f6
+        mime: image/jpeg
+        bytes: 79992
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

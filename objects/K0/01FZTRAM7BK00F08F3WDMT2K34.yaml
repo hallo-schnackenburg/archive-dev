@@ -1,0 +1,39 @@
+id: 01FZTRAM7BK00F08F3WDMT2K34
+type: document
+subtype: note
+title: Kassenzettel Fähranleger
+date: 1992-02-02
+location: Kapern, Burgstraße
+geocode:
+  lat: 52.9697
+  lon: 11.4503
+  precision: exact
+  source: osm
+origin:
+  name: Emma Bohlmann
+  type: person
+  location: Cumlosen
+language: de
+parents:
+  - 01K8Q87E3JR4C3K8F7DC83NBAE
+files:
+  - role: page
+    num: 1
+    original_name: note_mt2k34_001.tif
+    path: files/52/98/5298309e59217b747cc00d27a7c67712d13c57ab57f0db1882020d0ae3674f80/original.tif
+    sha256: 5298309e59217b747cc00d27a7c67712d13c57ab57f0db1882020d0ae3674f80
+    mime: image/tiff
+    bytes: 2576278
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/52/98/5298309e59217b747cc00d27a7c67712d13c57ab57f0db1882020d0ae3674f80/preview-400.fa456ca83ab9.jpg
+        sha256: fa456ca83ab95479b27fc11125273c6c43a5a8a611e890aea4bd3fc5b50238bc
+        mime: image/jpeg
+        bytes: 51147
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

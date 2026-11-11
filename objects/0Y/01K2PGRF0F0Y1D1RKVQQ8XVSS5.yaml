@@ -1,0 +1,40 @@
+id: 01K2PGRF0F0Y1D1RKVQQ8XVSS5
+type: image
+subtype: photo
+title: Viehmarkt 1891
+date: 1891/1896
+location: Lanz, Marktstraße
+origin:
+  name: Heinrich Jeß
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Torhaus
+    type: building
+  - name: Straßenfest 1891
+    type: event
+  - name: Brückeneinweihung 1891
+    type: event
+parents:
+  - 01G8B1RBKCP0JCJ0TQ3WYMBBPZ
+  - 01JTAHZQ2H6N377TQAEA3P4341
+files:
+  - role: main
+    original_name: scan_285.tif
+    path: files/89/4b/894b2ae50fcaee87e6ed1dc07faefef7a0d00d11cf23335b0ff9ed8027c5ab77/original.tif
+    sha256: 894b2ae50fcaee87e6ed1dc07faefef7a0d00d11cf23335b0ff9ed8027c5ab77
+    mime: image/tiff
+    bytes: 374271
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/89/4b/894b2ae50fcaee87e6ed1dc07faefef7a0d00d11cf23335b0ff9ed8027c5ab77/preview-400.ca598e8ac608.jpg
+        sha256: ca598e8ac608da422d6b1524564bcad839892a425d8b76ca0a2611b35ae4cda0
+        mime: image/jpeg
+        bytes: 42593
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

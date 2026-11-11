@@ -1,0 +1,36 @@
+id: 01JYEP53FHX2Q81QXA98SAJWNN
+type: image
+subtype: print
+title: Postkarte Dömitz, Bäckerei Lüders
+description: Postkarte, gelaufen 1916.
+date: 1825-08-12
+location: Seedorf, Kegelbahn
+origin:
+  name: Berta Detlefs
+  type: person
+  location: Lenzen
+subjects:
+  - name: Brückeneinweihung 1825
+    type: event
+  - name: Tischlerei Bruns
+    type: building
+files:
+  - role: main
+    original_name: scan_602.tif
+    path: files/00/16/001660141077dd6a72676c2117a52b76538c0095f5183f007baae0c46d7d78ec/original.tif
+    sha256: 001660141077dd6a72676c2117a52b76538c0095f5183f007baae0c46d7d78ec
+    mime: image/tiff
+    bytes: 471152
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/00/16/001660141077dd6a72676c2117a52b76538c0095f5183f007baae0c46d7d78ec/preview-400.436a542cfbc3.jpg
+        sha256: 436a542cfbc35337fa211584e7a58a43c5e593e420531c92e73a6a0fe708956b
+        mime: image/jpeg
+        bytes: 20302
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

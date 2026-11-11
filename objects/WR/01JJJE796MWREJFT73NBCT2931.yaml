@@ -1,0 +1,38 @@
+id: 01JJJE796MWREJFT73NBCT2931
+type: image
+subtype: print
+title: Postkarte Gollensdorf, Torhaus
+description: Kupferstich, koloriert.
+date: 1845-02
+location: Gülden, Ladestraße
+origin:
+  name: Albert Burmester
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Storchennest
+    type: building
+  - name: Bahnhof
+    type: building
+files:
+  - role: main
+    original_name: scan_385.tif
+    path: files/8e/7b/8e7b2d0403c53b7709d407f47388c26cf002b330f73a06a40790638139ac5709/original.tif
+    sha256: 8e7b2d0403c53b7709d407f47388c26cf002b330f73a06a40790638139ac5709
+    mime: image/tiff
+    bytes: 12591296
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8e/7b/8e7b2d0403c53b7709d407f47388c26cf002b330f73a06a40790638139ac5709/preview-400.443fd178c05a.jpg
+        sha256: 443fd178c05a26c930a12f808d34001e7044a22784deaabb158b46ceb0393de6
+        mime: image/jpeg
+        bytes: 50255
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

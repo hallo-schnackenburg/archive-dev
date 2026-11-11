@@ -1,0 +1,49 @@
+id: 01GH1RWPYQGRZQM1H21X55BMPY
+type: image
+subtype: drawing
+title: Entwurf für Kindergarten, Pretzier
+description: Bleistift auf Papier.
+date: 1865-12-06
+location: Pretzier, Marktstraße
+geocode:
+  lat: 52.96
+  lon: 11.6452
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro 19/190
+owner:
+  name: Wilhelm Rohde
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Karl Bohlmann
+    type: person
+  - name: Sportplatz
+    type: building
+files:
+  - role: main
+    original_name: scan_454.tif
+    path: files/ab/c1/abc13bcb33003e9158239ef6b9e4fcb78c0eded81fd80df9ce3ec6526c81167f/original.tif
+    sha256: abc13bcb33003e9158239ef6b9e4fcb78c0eded81fd80df9ce3ec6526c81167f
+    mime: image/tiff
+    bytes: 1395060
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ab/c1/abc13bcb33003e9158239ef6b9e4fcb78c0eded81fd80df9ce3ec6526c81167f/preview-400.2dab367bc532.jpg
+        sha256: 2dab367bc532158d24398ce7707a3ee4a2039850d684269978efb987f794b592
+        mime: image/jpeg
+        bytes: 68930
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,46 @@
+id: 01HR4XRZCZFPGYPWSMJRK0VYGH
+type: image
+subtype: print
+title: Lithographie Pfarrhaus
+description: Kupferstich, koloriert.
+date: 1874-09
+location: Zadrau, Schulstraße
+origin:
+  name: Karl Lemke
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+  - name: Lüchow
+    type: place
+  - name: Anni Hennings
+    type: person
+parents:
+  - 01F1C76VVA9D0FJCEKQVNQPP86
+  - 01FDN6VE2CD44TNGX826M38XCP
+files:
+  - role: main
+    original_name: scan_459.tif
+    path: files/0c/01/0c01670827ff6aaabf8d7f5c2d3155df7da15217eb1b86d22dbbd617279afb5f/original.tif
+    sha256: 0c01670827ff6aaabf8d7f5c2d3155df7da15217eb1b86d22dbbd617279afb5f
+    mime: image/tiff
+    bytes: 16412391
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0c/01/0c01670827ff6aaabf8d7f5c2d3155df7da15217eb1b86d22dbbd617279afb5f/preview-400.bfe38f905fd2.jpg
+        sha256: bfe38f905fd2a6cd88bf861df6b4fe1cd35121abe99cfba9ef3fa32f8030abc1
+        mime: image/jpeg
+        bytes: 47703
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

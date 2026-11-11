@@ -1,0 +1,45 @@
+id: 01FPPTPG5EZ8JY1B83RQEKXVKV
+type: image
+subtype: photo
+title: Familie Lemke beim Richtfest
+description: Abzug im Format 10 x 15 cm.
+date: 1899-04
+location: Wootz, Gartenstraße
+geocode:
+  lat: 53.0937
+  lon: 11.5591
+  precision: region
+  source: osm
+origin:
+  name: Karl Meyer
+  type: person
+  location: Lüchow
+subjects:
+  - name: Dieter Meyer
+    type: person
+  - name: Tischlerei Bruns
+    type: building
+  - name: Dorffest 1899
+    type: event
+parents:
+  - 01EWYE51ZQTFTFRZH9QFSNZE0B
+files:
+  - role: main
+    original_name: foto_9365.jpg
+    path: files/81/e0/81e0218b8777c51a8a1d49119953fa0f61c23c9eb193a06edf36b22fcd633b9d/original.jpg
+    sha256: 81e0218b8777c51a8a1d49119953fa0f61c23c9eb193a06edf36b22fcd633b9d
+    mime: image/jpeg
+    bytes: 11901205
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/81/e0/81e0218b8777c51a8a1d49119953fa0f61c23c9eb193a06edf36b22fcd633b9d/preview-400.b90035fe42d8.jpg
+        sha256: b90035fe42d83b42d709eb38fe80eb66c8224b35f7ae90357e45e66b78864e32
+        mime: image/jpeg
+        bytes: 24942
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

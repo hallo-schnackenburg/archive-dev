@@ -1,0 +1,45 @@
+id: 01HZ702A0VW37V90V41PMEB5V6
+type: image
+subtype: photo
+title: Dieter Cohrs, Porträt
+date: 1941-05
+location: Bömenzien, Deichstraße
+geocode:
+  lat: 52.9029
+  lon: 11.5602
+  precision: street
+  source: osm
+origin:
+  name: Ilse Jeß
+  type: person
+  location: Gülden
+original:
+  holder:
+    name: Familie Hennings
+    type: person
+    location: Lanz
+subjects:
+  - name: Viehmarkt 1941
+    type: event
+parents:
+  - 01F59EC1VBHH3WNCG7D36FBJZ4
+files:
+  - role: main
+    original_name: scan_053.tif
+    path: files/0d/96/0d962814ccb0f12013aec7b8693f3468d40ae6374368988b7e9d8a6f19ce5f2f/original.tif
+    sha256: 0d962814ccb0f12013aec7b8693f3468d40ae6374368988b7e9d8a6f19ce5f2f
+    mime: image/tiff
+    bytes: 5489824
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0d/96/0d962814ccb0f12013aec7b8693f3468d40ae6374368988b7e9d8a6f19ce5f2f/preview-400.effeda3bdcd1.jpg
+        sha256: effeda3bdcd17cfc2a6373de51b7aca8249e6f08d5fda36461822d7e15305990
+        mime: image/jpeg
+        bytes: 72464
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01HC8QD8EZ27J28EFQQZDXAV2C
+type: image
+subtype: plan
+title: Deichplan Hitzacker bis Cumlosen
+description: Mit handschriftlichen Ergänzungen.
+date: "1960"
+origin:
+  name: Ilse Garms
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 38/177
+parents:
+  - 01GZBYX4A88TP2NKQ77RVEKH6X
+  - 01GQDM3ZFG19XY70Y5T88AY6HH
+files:
+  - role: main
+    original_name: scan_192.tif
+    path: files/3c/e4/3ce49a7f29b8578065cbb3c6383172969e61cab179327813a9a47ec2bf864ece/original.tif
+    sha256: 3ce49a7f29b8578065cbb3c6383172969e61cab179327813a9a47ec2bf864ece
+    mime: image/tiff
+    bytes: 21214782
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3c/e4/3ce49a7f29b8578065cbb3c6383172969e61cab179327813a9a47ec2bf864ece/preview-400.b0b8b3164b77.jpg
+        sha256: b0b8b3164b778f917e9990e81f97f6b1126d9aa1f10203bb14a49bf295f701db
+        mime: image/jpeg
+        bytes: 65399
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

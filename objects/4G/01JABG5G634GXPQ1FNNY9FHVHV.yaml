@@ -1,0 +1,46 @@
+id: 01JABG5G634GXPQ1FNNY9FHVHV
+type: image
+subtype: photo
+title: Familie Schulz beim Beerdigung
+date: "1896"
+location: Gartow, Lange Straße
+geocode:
+  lat: 52.9191
+  lon: 11.6258
+  precision: town
+  source: osm
+origin:
+  name: Otto Lemke
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Familie Wegner
+    type: person
+    location: Gartow
+  reference: Dok/Kasten 8/031
+subjects:
+  - name: Elbdeich
+    type: building
+  - name: Mühle
+    type: building
+files:
+  - role: main
+    original_name: IMG_4913.jpg
+    path: files/b4/c4/b4c41e57a9660c851a2024f2b5a0bab62b71485a30eefbe22c31388c5d1fe0e9/original.jpg
+    sha256: b4c41e57a9660c851a2024f2b5a0bab62b71485a30eefbe22c31388c5d1fe0e9
+    mime: image/jpeg
+    bytes: 15293508
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b4/c4/b4c41e57a9660c851a2024f2b5a0bab62b71485a30eefbe22c31388c5d1fe0e9/preview-400.f166b5ff955e.jpg
+        sha256: f166b5ff955ef893265ea0eae37b84ac4f687e56bdbdfa112408b47126d165e9
+        mime: image/jpeg
+        bytes: 51351
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01H84XC50Q449BQPQY47JE9K5W
+type: image
+subtype: print
+title: "Kupferstich: Arendsee von der Elbseite, Wustrow"
+location: Nienwalde, Ziegelei
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Mappe 23/092
+subjects:
+  - name: Rathaus
+    type: building
+files:
+  - role: main
+    original_name: scan_061.tif
+    path: files/a2/1c/a21cd917314af571073bc7e934a6f3e5c7cfe6c97de3e8bc3e8bf201a2c0eae1/original.tif
+    sha256: a21cd917314af571073bc7e934a6f3e5c7cfe6c97de3e8bc3e8bf201a2c0eae1
+    mime: image/tiff
+    bytes: 14156416
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a2/1c/a21cd917314af571073bc7e934a6f3e5c7cfe6c97de3e8bc3e8bf201a2c0eae1/preview-400.3d4895347b9c.jpg
+        sha256: 3d4895347b9ce02765d079c02b752e2e48e9908cf1dc9bdf60b504d60e5c91f8
+        mime: image/jpeg
+        bytes: 40183
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01FFGAPEXMYG97KFM1GFKSX3WR
+type: image
+subtype: photo
+title: Familie Gaede beim Schlachtfest
+date: 1919?
+location: Gülden, Hafenstraße
+geocode:
+  lat: 52.9796
+  lon: 11.6823
+  precision: region
+  source: osm
+origin:
+  name: Ernst Kuhlmann
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Familie Wiegmann
+    type: person
+    location: Holtorf
+  note: Kellerarchiv
+files:
+  - role: main
+    original_name: scan_810.tif
+    path: files/7f/bc/7fbc3318b430ad987e37b49d8357708e69d80cc43c64ffdbd2c6db35d64cc434/original.tif
+    sha256: 7fbc3318b430ad987e37b49d8357708e69d80cc43c64ffdbd2c6db35d64cc434
+    mime: image/tiff
+    bytes: 27558363
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7f/bc/7fbc3318b430ad987e37b49d8357708e69d80cc43c64ffdbd2c6db35d64cc434/preview-400.c06a7b3856a5.jpg
+        sha256: c06a7b3856a5d68f65df06c5330dc9fad9e19fc97ce4e3edc78b80cdd70e27df
+        mime: image/jpeg
+        bytes: 72500
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

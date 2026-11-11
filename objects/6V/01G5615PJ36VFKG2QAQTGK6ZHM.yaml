@@ -1,0 +1,45 @@
+id: 01G5615PJ36VFKG2QAQTGK6ZHM
+type: image
+subtype: photo
+title: Wilhelm Wiese, Porträt
+description: Zu sehen sind Schlachterei und Elbdeich.
+date: 1961-08-21
+location: Seedorf, Deichstraße
+geocode:
+  lat: 53.0404
+  lon: 11.6049
+  precision: town
+  source: osm
+origin:
+  name: Ernst Meyer
+  type: person
+  location: Gülden
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Arendsee
+    type: place
+  - name: Karl Behrens
+    type: person
+parents:
+  - 01FC5K4GCY6W41KZKCK9P52A8H
+files:
+  - role: main
+    original_name: P3637.jpg
+    path: files/27/7a/277aec3e920f0d915940d95e8e45587ae75e3d35e8b0054e91baf180ac6cac45/original.jpg
+    sha256: 277aec3e920f0d915940d95e8e45587ae75e3d35e8b0054e91baf180ac6cac45
+    mime: image/jpeg
+    bytes: 23940607
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/27/7a/277aec3e920f0d915940d95e8e45587ae75e3d35e8b0054e91baf180ac6cac45/preview-400.842459ae04aa.jpg
+        sha256: 842459ae04aa21460f39a83c63031f88b6706b4956397f3ce1e3e15c74d10abb
+        mime: image/jpeg
+        bytes: 60279
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

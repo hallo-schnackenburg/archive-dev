@@ -1,0 +1,38 @@
+id: 01FFQVKM8D5CNMQ6D86EZQCHSN
+type: image
+subtype: photo
+title: Ilse Wiegmann vor dem Försterei
+description: Abzug im Format 9 x 13 cm.
+date: "1942"
+origin:
+  name: Karl Lemke
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Familie Meyer
+    type: person
+    location: Restorf
+  reference: Pro 31/326
+parents:
+  - 01F0QYSCYKSTCN1NTYT6RNDCR9
+files:
+  - role: main
+    original_name: scan_236.tif
+    path: files/92/72/927264c384809ed5094f59c392d4de4c6feafc83626c1d3577ce8e20d2e349c6/original.tif
+    sha256: 927264c384809ed5094f59c392d4de4c6feafc83626c1d3577ce8e20d2e349c6
+    mime: image/tiff
+    bytes: 26044570
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/72/927264c384809ed5094f59c392d4de4c6feafc83626c1d3577ce8e20d2e349c6/preview-400.e87cf8c1052c.jpg
+        sha256: e87cf8c1052c98409d9a0fda3e2917b94904b99c8b6bc6be8354dfb9e7e00b30
+        mime: image/jpeg
+        bytes: 30719
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

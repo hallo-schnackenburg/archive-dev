@@ -1,0 +1,43 @@
+id: 01GX1N1TX2DY6PPCBNAM5CGJYF
+type: image
+subtype: drawing
+title: Skizze Nienwalde, Burgstraße
+date: "1937"
+location: Holtorf, Gasthof Meyer
+geocode:
+  lat: 53.0121
+  lon: 11.4758
+  precision: street
+  source: osm
+origin:
+  name: Marta Kuhlmann
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Kindergarten
+    type: building
+  - name: Karl Meyer
+    type: person
+parents:
+  - 01HR1QV0ZXC6MF6JQQQ9T74SMN
+  - 01JE4HPA561FRN4MNN59BD0BZE
+files:
+  - role: main
+    original_name: scan_242.tif
+    path: files/93/33/9333686149ce9e5996dd88dd03aa5155fe11e1d70578ee6ce5835b607336a3fb/original.tif
+    sha256: 9333686149ce9e5996dd88dd03aa5155fe11e1d70578ee6ce5835b607336a3fb
+    mime: image/tiff
+    bytes: 4485378
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/93/33/9333686149ce9e5996dd88dd03aa5155fe11e1d70578ee6ce5835b607336a3fb/preview-400.13723253be94.jpg
+        sha256: 13723253be944c7db4a3ed8a0d119be5482c65e47f92d4b68e424f0032d7f80e
+        mime: image/jpeg
+        bytes: 52075
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

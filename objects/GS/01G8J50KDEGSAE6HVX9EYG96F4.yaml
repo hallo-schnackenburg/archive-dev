@@ -1,0 +1,38 @@
+id: 01G8J50KDEGSAE6HVX9EYG96F4
+type: image
+subtype: plan
+title: Lageplan Brunnen am Markt
+date: 1982-06-06
+location: Gorleben, Gemeindehaus
+geocode:
+  lat: 53.0846
+  lon: 11.659
+  precision: exact
+  source: osm
+subjects:
+  - name: Gemeindehaus
+    type: building
+  - name: Ortsbesichtigung 1982
+    type: event
+parents:
+  - 01EYD0F18CY2V0SS2SY7TJVC0D
+files:
+  - role: main
+    original_name: scan_999.tif
+    path: files/a1/2f/a12fe01a4ed02b047c462edeeb14d4f870d4d7f59214545f7e50ea1432fe3c2d/original.tif
+    sha256: a12fe01a4ed02b047c462edeeb14d4f870d4d7f59214545f7e50ea1432fe3c2d
+    mime: image/tiff
+    bytes: 24028251
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a1/2f/a12fe01a4ed02b047c462edeeb14d4f870d4d7f59214545f7e50ea1432fe3c2d/preview-400.7a743698ded4.jpg
+        sha256: 7a743698ded4a13cc0d5d90457e3c7c5b5f3794aec1f2864045e6fc2cc5320cd
+        mime: image/jpeg
+        bytes: 34009
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01H620M3AJ4XX0VKA82PHYFEWX
+type: image
+subtype: print
+title: "Holzschnitt: Straßenfest, Cumlosen"
+origin:
+  name: Paul Voss
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Mühle
+    type: building
+  - name: Kindergartenfest 1866
+    type: event
+parents:
+  - 01EY1NE802VNKMTZ9APK9WPWYD
+files:
+  - role: main
+    original_name: scan_900.tif
+    path: files/3e/43/3e43d01bfa3e5639bc655ad548c9fe2cf38ef2db8a2d9f7f06aa3e51fbd065b1/original.tif
+    sha256: 3e43d01bfa3e5639bc655ad548c9fe2cf38ef2db8a2d9f7f06aa3e51fbd065b1
+    mime: image/tiff
+    bytes: 3355346
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3e/43/3e43d01bfa3e5639bc655ad548c9fe2cf38ef2db8a2d9f7f06aa3e51fbd065b1/preview-400.2eee62bbd1e6.jpg
+        sha256: 2eee62bbd1e68488ff84f04370fd32f6547aa12daa70560eb07d6226d8d339b0
+        mime: image/jpeg
+        bytes: 58717
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

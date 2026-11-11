@@ -1,0 +1,93 @@
+id: 01G937HWBGJXQPHYZZKZB2QFWV
+type: document
+subtype: letter
+title: Korrespondenz Christa Voss
+description: Betrifft Pachtvertrag.
+date: 1990?
+location: Seedorf, Burgstraße
+geocode:
+  lat: 53.061
+  lon: 11.6594
+  precision: street
+  source: osm
+origin:
+  name: Heinrich Ahrens
+  type: person
+  location: Dömitz
+recipient: Fritz Wiese
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 1
+subjects:
+  - name: Nienwalde
+    type: place
+  - name: Heinrich Wöhlk
+    type: person
+parents:
+  - 01KSQSSGDYWJ8WM96BXT4QY5Z0
+  - 01GVKN942N85NKH8CV072GG85G
+files:
+  - role: page
+    num: 1
+    original_name: letter_b2qfwv_001.tif
+    path: files/da/f1/daf1c7c864c5a74575e92b5958a40df3eed4aad9bb9b2c81e490972288e7352c/original.tif
+    sha256: daf1c7c864c5a74575e92b5958a40df3eed4aad9bb9b2c81e490972288e7352c
+    mime: image/tiff
+    bytes: 16401469
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/f1/daf1c7c864c5a74575e92b5958a40df3eed4aad9bb9b2c81e490972288e7352c/preview-400.737a1b111420.jpg
+        sha256: 737a1b111420a968e05ec09ccadb99f19543338940391d6a95a1129f93763c9d
+        mime: image/jpeg
+        bytes: 25517
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_b2qfwv_002.tif
+    path: files/05/fd/05fd65bccd135a8cd7e86384344a94b9e96916c71e29cf2dd9c994c010184dd5/original.tif
+    sha256: 05fd65bccd135a8cd7e86384344a94b9e96916c71e29cf2dd9c994c010184dd5
+    mime: image/tiff
+    bytes: 3363295
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/05/fd/05fd65bccd135a8cd7e86384344a94b9e96916c71e29cf2dd9c994c010184dd5/preview-400.d7b126d2b243.jpg
+        sha256: d7b126d2b2430eacc85cbd026b25051307f3ba0488b4bb6e8a58d87d2121a412
+        mime: image/jpeg
+        bytes: 35318
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_b2qfwv_003.tif
+    path: files/c5/77/c5777fb1555dd06664424d95dece0260e4532d7b52b7881eab9bf20d40acb94d/original.tif
+    sha256: c5777fb1555dd06664424d95dece0260e4532d7b52b7881eab9bf20d40acb94d
+    mime: image/tiff
+    bytes: 27416973
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c5/77/c5777fb1555dd06664424d95dece0260e4532d7b52b7881eab9bf20d40acb94d/preview-400.e7c0cd3fdbac.jpg
+        sha256: e7c0cd3fdbacd390a692ba4d9c996439d600395a665f8d580e2baf7131f77749
+        mime: image/jpeg
+        bytes: 50073
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

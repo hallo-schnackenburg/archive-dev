@@ -1,0 +1,38 @@
+id: 01F1Q8MHVC2EMBEEN4NZV8W1S3
+type: image
+subtype: photo
+title: Blick vom Schlachterei auf das Dorfkrug
+date: 1915-01-20
+location: Gorleben, Friedhofskapelle
+geocode:
+  lat: 53.0096
+  lon: 11.5699
+  precision: street
+  source: osm
+origin:
+  name: Käthe Lemke
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Gemeindehaus
+    type: building
+files:
+  - role: main
+    original_name: DSC6009.jpg
+    path: files/ef/86/ef86ab0d860f3c6599ea985b7d9717059d1d2e179c07faef8e13fb79c4b11a6a/original.jpg
+    sha256: ef86ab0d860f3c6599ea985b7d9717059d1d2e179c07faef8e13fb79c4b11a6a
+    mime: image/jpeg
+    bytes: 20804277
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/ef/86/ef86ab0d860f3c6599ea985b7d9717059d1d2e179c07faef8e13fb79c4b11a6a/preview-400.f1e3790be577.jpg
+        sha256: f1e3790be577df745b7cb1e736a9aacc65f3082f0d8360028f4e64d573975989
+        mime: image/jpeg
+        bytes: 83878
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

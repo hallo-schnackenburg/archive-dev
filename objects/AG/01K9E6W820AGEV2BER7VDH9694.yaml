@@ -1,0 +1,39 @@
+id: 01K9E6W820AGEV2BER7VDH9694
+type: image
+subtype: photo
+title: Heinrich Pape vor dem Hafen
+description: Farbfoto, leicht verblasst.
+date: "2002"
+location: Restorf, Tanzsaal
+geocode:
+  lat: 52.9476
+  lon: 11.6142
+  precision: town
+  source: osm
+origin:
+  name: Rudolf Lemke
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Pretzier
+    type: place
+files:
+  - role: main
+    original_name: scan_457.tif
+    path: files/36/b7/36b739282325a81be045bf28c2b588d5eaaa5ba341f49daaf084972bd0f2923a/original.tif
+    sha256: 36b739282325a81be045bf28c2b588d5eaaa5ba341f49daaf084972bd0f2923a
+    mime: image/tiff
+    bytes: 20092712
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/36/b7/36b739282325a81be045bf28c2b588d5eaaa5ba341f49daaf084972bd0f2923a/preview-400.c594e9aa1210.jpg
+        sha256: c594e9aa12100641114c755ba3cfe1e4f6519165f3f7df46022d9e413312e370
+        mime: image/jpeg
+        bytes: 31623
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

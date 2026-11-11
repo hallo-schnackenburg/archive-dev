@@ -1,0 +1,42 @@
+id: 01FPDA5KNXJYRYGC7DVYDRPF8J
+type: image
+subtype: plan
+title: Deichplan Zadrau bis Hitzacker
+location: Zadrau, Kegelbahn
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Havelberg
+owner:
+  name: Heinrich Rieke
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Speicher
+    type: building
+  - name: Wassermühle
+    type: building
+  - name: Nienwalde
+    type: place
+parents:
+  - 01FVB0ZV7D5S8N9566PY0PJ70J
+files:
+  - role: main
+    original_name: scan_970.tif
+    path: files/52/f9/52f9786823fc1309c249333a2d059ec4090e630409e4932a7cda64bc5a532a7e/original.tif
+    sha256: 52f9786823fc1309c249333a2d059ec4090e630409e4932a7cda64bc5a532a7e
+    mime: image/tiff
+    bytes: 20019387
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/52/f9/52f9786823fc1309c249333a2d059ec4090e630409e4932a7cda64bc5a532a7e/preview-400.8ae9aaa9e493.jpg
+        sha256: 8ae9aaa9e4939e0a7740ce9b0ac4eb847755044f7524f95dd7827540f3a59ac5
+        mime: image/jpeg
+        bytes: 88099
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

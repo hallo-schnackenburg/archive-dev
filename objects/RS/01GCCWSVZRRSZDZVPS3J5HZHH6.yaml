@@ -1,0 +1,36 @@
+id: 01GCCWSVZRRSZDZVPS3J5HZHH6
+type: image
+subtype: plan
+title: Deichplan Dömitz bis Wootz
+date: "1762"
+origin:
+  name: Erika Meyer
+  type: person
+  location: Wootz
+subjects:
+  - name: Apotheke
+    type: building
+  - name: Dömitz
+    type: place
+  - name: Molkerei
+    type: building
+files:
+  - role: main
+    original_name: scan_809.tif
+    path: files/46/bf/46bf6bbae3abf9c689f8d26bbe0a2166b107e523d3b643ab6f5ea18d7b724d99/original.tif
+    sha256: 46bf6bbae3abf9c689f8d26bbe0a2166b107e523d3b643ab6f5ea18d7b724d99
+    mime: image/tiff
+    bytes: 18232064
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/46/bf/46bf6bbae3abf9c689f8d26bbe0a2166b107e523d3b643ab6f5ea18d7b724d99/preview-400.c57867a9efaf.jpg
+        sha256: c57867a9efaf6cc7b886ce4e7b6f279e634eada2a23b944046bf2d7c3d0e8c51
+        mime: image/jpeg
+        bytes: 67785
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

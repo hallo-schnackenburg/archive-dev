@@ -1,0 +1,32 @@
+id: 01HYYJE3BSQEFSB1562ZM5WX84
+type: image
+subtype: photo
+title: Ilse Fricke, Porträt
+description: Aufnahme von Elfriede Hartwig.
+date: 1891-12
+location: Brünkendorf, Marktstraße
+geocode:
+  lat: 53.0771
+  lon: 11.5236
+  precision: exact
+  source: osm
+files:
+  - role: main
+    original_name: DSC6048.jpg
+    path: files/44/19/44197186eb12b3ca0712d5e45fbb392b54e2dacd543ba78d4196ad76c50f9b29/original.jpg
+    sha256: 44197186eb12b3ca0712d5e45fbb392b54e2dacd543ba78d4196ad76c50f9b29
+    mime: image/jpeg
+    bytes: 13096377
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/44/19/44197186eb12b3ca0712d5e45fbb392b54e2dacd543ba78d4196ad76c50f9b29/preview-400.0952ad3fbd58.jpg
+        sha256: 0952ad3fbd5832354ca87ba0e5798fb6ae265836ab0c25f853ca864505110ed7
+        mime: image/jpeg
+        bytes: 40010
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

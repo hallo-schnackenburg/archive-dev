@@ -1,0 +1,47 @@
+id: 01KK4HDSHRXB4C5FF6XEDNZJEY
+type: image
+subtype: photo
+title: Wassermühle nach dem Kartoffelernte
+date: "1920"
+location: Brünkendorf, Deichstraße
+geocode:
+  lat: 52.9918
+  lon: 11.5198
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Burmester
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 21/160
+subjects:
+  - name: Osterfeuer 1920
+    type: event
+parents:
+  - 01HV23CDKEHB2T4F0325HW90F9
+  - 01F8F6MXW2PVW8HD0CH1TYMBGX
+files:
+  - role: main
+    original_name: P0816.jpg
+    path: files/64/66/646620001b39344990b4cfdf1b5fe7456811d0558d88c94530d5aa90c5051bfc/original.jpg
+    sha256: 646620001b39344990b4cfdf1b5fe7456811d0558d88c94530d5aa90c5051bfc
+    mime: image/jpeg
+    bytes: 27155211
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/64/66/646620001b39344990b4cfdf1b5fe7456811d0558d88c94530d5aa90c5051bfc/preview-400.0921222bce5b.jpg
+        sha256: 0921222bce5b42569263799c8f0bf272bbc5094d0b931f41731e020b8c074af8
+        mime: image/jpeg
+        bytes: 80158
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

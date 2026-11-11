@@ -1,0 +1,88 @@
+id: 01J38P73ZJPXCDV4A6C4S4HY5R
+type: document
+subtype: letter
+title: Korrespondenz Wilhelm Wiegmann
+description: Maschinenschriftlich, unterschrieben.
+date: "1865"
+location: Restorf, Elbdeich
+geocode:
+  lat: 52.9645
+  lon: 11.619
+  precision: region
+  source: osm
+origin:
+  name: Ursula Hennings
+  type: person
+  location: Zadrau
+recipient: Käthe Plate
+language: de
+subjects:
+  - name: Ilse Wegner
+    type: person
+  - name: Grenzöffnung 1865
+    type: event
+  - name: Gustav Brandt
+    type: person
+parents:
+  - 01K8HWTS9YNZVY4EVEMNNZSHBJ
+files:
+  - role: page
+    num: 1
+    original_name: letter_s4hy5r_001.tif
+    path: files/d0/59/d05986d3496a7dce9252fbb08da30fd53c2a3cdd8b618c982c6566c4a07185bb/original.tif
+    sha256: d05986d3496a7dce9252fbb08da30fd53c2a3cdd8b618c982c6566c4a07185bb
+    mime: image/tiff
+    bytes: 6277012
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d0/59/d05986d3496a7dce9252fbb08da30fd53c2a3cdd8b618c982c6566c4a07185bb/preview-400.091f25c28efd.jpg
+        sha256: 091f25c28efd783136a9fc5b6e554d518d6b94a1ab9c341d31f567325965cc4b
+        mime: image/jpeg
+        bytes: 75518
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_s4hy5r_002.tif
+    path: files/6e/67/6e67b51848f5809c58522cc77318f9237e88fa3a583848953916a08feda36d96/original.tif
+    sha256: 6e67b51848f5809c58522cc77318f9237e88fa3a583848953916a08feda36d96
+    mime: image/tiff
+    bytes: 13494331
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/67/6e67b51848f5809c58522cc77318f9237e88fa3a583848953916a08feda36d96/preview-400.c450a705cdcd.jpg
+        sha256: c450a705cdcd76271737d0e0c5789967b656dddaaa485280d153e72810ca2e30
+        mime: image/jpeg
+        bytes: 78299
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_s4hy5r_003.tif
+    path: files/5d/65/5d65fa64fe22142c16f9b54502a6b74a9a8ebbd290f7eb2fa0ac9137f7064671/original.tif
+    sha256: 5d65fa64fe22142c16f9b54502a6b74a9a8ebbd290f7eb2fa0ac9137f7064671
+    mime: image/tiff
+    bytes: 7466493
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5d/65/5d65fa64fe22142c16f9b54502a6b74a9a8ebbd290f7eb2fa0ac9137f7064671/preview-400.30a89f6aef3d.jpg
+        sha256: 30a89f6aef3deb1db80e6926708be7d282e41f221b4f5c01d22823ca85f2433e
+        mime: image/jpeg
+        bytes: 25230
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

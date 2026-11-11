@@ -1,0 +1,43 @@
+id: 01FR14HYJ54EDZT7QJEER9NHJY
+type: document
+subtype: note
+title: Quittung für Hans Lindemann
+description: Beleg mit Stempel.
+date: 2010-03-28
+location: Havelberg, Hinter den Höfen
+geocode:
+  lat: 52.9199
+  lon: 11.5503
+  precision: town
+  source: osm
+origin:
+  name: Dieter Brandt
+  type: person
+  location: Lüchow
+language: de
+subjects:
+  - name: Kartoffelernte 2010
+    type: event
+  - name: Scheune
+    type: building
+files:
+  - role: page
+    num: 1
+    original_name: note_r9nhjy_001.tif
+    path: files/d0/a2/d0a23e391c4032e9dfc1beaf309771e50ae85b0a4952ade1beda71fece6394c9/original.tif
+    sha256: d0a23e391c4032e9dfc1beaf309771e50ae85b0a4952ade1beda71fece6394c9
+    mime: image/tiff
+    bytes: 5527065
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d0/a2/d0a23e391c4032e9dfc1beaf309771e50ae85b0a4952ade1beda71fece6394c9/preview-400.b619ce0912ec.jpg
+        sha256: b619ce0912ec7dfb0170fe3b14159247ab20ee7dafdf54dfb1ec03e825f8d568
+        mime: image/jpeg
+        bytes: 62573
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

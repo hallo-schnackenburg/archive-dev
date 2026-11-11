@@ -1,0 +1,42 @@
+id: 01GQN2TTEQKCFDMCXM5FJPG1NJ
+type: image
+subtype: photo
+title: Lange Straße, Ecke Mühlenweg
+date: 1971-02-19
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 7/143
+  note: Bücherregal links
+subjects:
+  - name: Fastnacht 1971
+    type: event
+  - name: Gülden
+    type: place
+  - name: Sturmschaden 1971
+    type: event
+parents:
+  - 01G1SK4H01859R5DZSSW1552Y7
+  - 01HP82YB6MPZJ20Z4EGHA5QYFX
+files:
+  - role: main
+    original_name: scan_482.tif
+    path: files/b4/05/b40535831cdc6c8741c8108057e079efc2ca609bae4690ced880e2bc34bd1933/original.tif
+    sha256: b40535831cdc6c8741c8108057e079efc2ca609bae4690ced880e2bc34bd1933
+    mime: image/tiff
+    bytes: 9768852
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b4/05/b40535831cdc6c8741c8108057e079efc2ca609bae4690ced880e2bc34bd1933/preview-400.4e1e32faa17d.jpg
+        sha256: 4e1e32faa17d52fb983925d6d2f9adb16d0359794c526ce55999a00ab55dec36
+        mime: image/jpeg
+        bytes: 54206
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

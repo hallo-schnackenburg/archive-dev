@@ -1,0 +1,41 @@
+id: 01J8J34DZT2J4EBDWPZEEVH4TY
+type: image
+subtype: photo
+title: Gutshaus nach dem Kindergartenfest
+description: Zu sehen sind Elbdeich und Bahnhof.
+date: 1972/1981
+location: Pretzier, Kegelbahn
+geocode:
+  lat: 53.0917
+  lon: 11.5155
+  precision: region
+  source: osm
+origin:
+  name: Marta Voss
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Schützenfest 1972
+    type: event
+files:
+  - role: main
+    original_name: scan_118.tif
+    path: files/6e/d4/6ed4e22151a07486bd50bca47d3ccede44788f45377d710a9139fcfa040ccbed/original.tif
+    sha256: 6ed4e22151a07486bd50bca47d3ccede44788f45377d710a9139fcfa040ccbed
+    mime: image/tiff
+    bytes: 10638292
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6e/d4/6ed4e22151a07486bd50bca47d3ccede44788f45377d710a9139fcfa040ccbed/preview-400.b3dc6390f5eb.jpg
+        sha256: b3dc6390f5eb7247e349f181f48457448f3b1486e22c77fde9f0c0a4cec2f4be
+        mime: image/jpeg
+        bytes: 31015
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

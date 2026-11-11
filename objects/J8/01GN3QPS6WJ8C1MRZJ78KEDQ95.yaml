@@ -1,0 +1,44 @@
+id: 01GN3QPS6WJ8C1MRZJ78KEDQ95
+type: image
+subtype: photo
+title: Elbstraße, Ecke Elbstraße
+date: 1991-02
+location: Havelberg, Hinter den Höfen
+geocode:
+  lat: 53.0697
+  lon: 11.4975
+  precision: region
+  source: osm
+origin:
+  name: Otto Bohlmann
+  type: person
+  location: Lenzen
+subjects:
+  - name: Christa Sievers
+    type: person
+  - name: Scheune
+    type: building
+  - name: Arendsee
+    type: place
+parents:
+  - 01JSF9V4MEBDGEQJGPBJV20THW
+files:
+  - role: main
+    original_name: foto_4780.jpg
+    path: files/50/62/50629c677227070fdff2353dc1694898a281c6f2788fe3a9643d6f600a1eb3b9/original.jpg
+    sha256: 50629c677227070fdff2353dc1694898a281c6f2788fe3a9643d6f600a1eb3b9
+    mime: image/jpeg
+    bytes: 900512
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/50/62/50629c677227070fdff2353dc1694898a281c6f2788fe3a9643d6f600a1eb3b9/preview-400.1346b27c121e.jpg
+        sha256: 1346b27c121e0eb9d7d1fc870bf19dd6435b6769dc3a8acbfc5ec608a4fb80a4
+        mime: image/jpeg
+        bytes: 71080
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

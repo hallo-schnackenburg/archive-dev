@@ -1,0 +1,67 @@
+id: 01HP5A9RBH73E3523M1PVJEM5X
+type: document
+subtype: letter
+title: Zeugnis für Käthe Wiese
+date: "1956"
+location: Salzwedel, Zollamt
+geocode:
+  lat: 52.9034
+  lon: 11.6535
+  precision: region
+  source: osm
+origin:
+  name: Marta Schulz
+  type: person
+  location: Dömitz
+recipient: Dieter Wegner
+language: de
+subjects:
+  - name: Ortsbesichtigung 1956
+    type: event
+  - name: Dorffest 1956
+    type: event
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01HQP25DE5H8X2VZ17AF0KJD5M
+files:
+  - role: page
+    num: 1
+    original_name: letter_vjem5x_001.tif
+    path: files/3f/a6/3fa690b2ff119bf62aed9a0405ebeeb386aa4ba3beb78a968333ecb53d8f5b52/original.tif
+    sha256: 3fa690b2ff119bf62aed9a0405ebeeb386aa4ba3beb78a968333ecb53d8f5b52
+    mime: image/tiff
+    bytes: 1990841
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3f/a6/3fa690b2ff119bf62aed9a0405ebeeb386aa4ba3beb78a968333ecb53d8f5b52/preview-400.511892993c77.jpg
+        sha256: 511892993c77b500d627e211a388157992cca21e4c3358fdedd3622a51f0b0df
+        mime: image/jpeg
+        bytes: 78095
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_vjem5x_002.tif
+    path: files/87/2a/872a6baa009579d5813a908d42e4a0ccb76ccde9598dec6c9c54bb5f59ae7f41/original.tif
+    sha256: 872a6baa009579d5813a908d42e4a0ccb76ccde9598dec6c9c54bb5f59ae7f41
+    mime: image/tiff
+    bytes: 9004733
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/87/2a/872a6baa009579d5813a908d42e4a0ccb76ccde9598dec6c9c54bb5f59ae7f41/preview-400.ff0f1f8fd266.jpg
+        sha256: ff0f1f8fd266005f9a9d7153e4ed18186086e8f10802e67503ae3d83a93b61c8
+        mime: image/jpeg
+        bytes: 69238
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

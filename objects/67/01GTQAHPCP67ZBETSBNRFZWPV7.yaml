@@ -1,0 +1,40 @@
+id: 01GTQAHPCP67ZBETSBNRFZWPV7
+type: image
+subtype: photo
+title: Heinz Kuhlmann vor dem Bahnhof
+date: 1892-02-17
+location: Laase, Elbstraße
+origin:
+  name: Wilhelm Wegner
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Familie Mahnke
+    type: person
+    location: Wittenberge
+subjects:
+  - name: Rüterberg
+    type: place
+parents:
+  - 01F1BHYRX3XQ5HK4ANVQXBQ5E6
+files:
+  - role: main
+    original_name: foto_8608.jpg
+    path: files/73/59/7359b54d8374645d3a5464048a7d9a7b89eee928fc1de4561ffdfdf7825ff772/original.jpg
+    sha256: 7359b54d8374645d3a5464048a7d9a7b89eee928fc1de4561ffdfdf7825ff772
+    mime: image/jpeg
+    bytes: 17685254
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/73/59/7359b54d8374645d3a5464048a7d9a7b89eee928fc1de4561ffdfdf7825ff772/preview-400.33c94167012e.jpg
+        sha256: 33c94167012e8e7413676e0c1ac13b91cd3a4ad920894a7f687d56e6f037a054
+        mime: image/jpeg
+        bytes: 33870
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01K4RTHW54CPTHBZYCYTFZASK5
+type: image
+subtype: plan
+title: Katasterblatt Burmester
+description: Mit handschriftlichen Ergänzungen.
+date: 1960-11-20
+location: Gülden, Molkerei
+origin:
+  name: Paul Wiegmann
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 29/001
+  note: Dachboden, Truhe
+subjects:
+  - name: Karl Sievers
+    type: person
+  - name: Maifeier 1960
+    type: event
+  - name: Einweihung 1960
+    type: event
+files:
+  - role: main
+    original_name: scan_264.tif
+    path: files/b5/11/b511c9eaed8e2de0be3f23ba43431e886b660c5490727f378ca9cfaa7530d9ae/original.tif
+    sha256: b511c9eaed8e2de0be3f23ba43431e886b660c5490727f378ca9cfaa7530d9ae
+    mime: image/tiff
+    bytes: 1359715
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b5/11/b511c9eaed8e2de0be3f23ba43431e886b660c5490727f378ca9cfaa7530d9ae/preview-400.8aab733c4fd1.jpg
+        sha256: 8aab733c4fd168a932d6f1f8e5b248fb023935d50bc06bcd39b9454fc6cb5dca
+        mime: image/jpeg
+        bytes: 72859
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

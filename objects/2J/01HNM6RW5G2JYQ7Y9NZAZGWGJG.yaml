@@ -1,0 +1,37 @@
+id: 01HNM6RW5G2JYQ7Y9NZAZGWGJG
+type: image
+subtype: photo
+title: Wilhelm Eggers, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1951"
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  note: Dachboden, Truhe
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Laase
+    type: place
+files:
+  - role: main
+    original_name: scan_975.tif
+    path: files/16/86/16862571d5f9cf3480edfbf230139753774d2923d8c084163f08e52e61a543b2/original.tif
+    sha256: 16862571d5f9cf3480edfbf230139753774d2923d8c084163f08e52e61a543b2
+    mime: image/tiff
+    bytes: 25803985
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/16/86/16862571d5f9cf3480edfbf230139753774d2923d8c084163f08e52e61a543b2/preview-400.101ee21b473b.jpg
+        sha256: 101ee21b473b43a2f92a2efc137469e98717c691af7acf547e5a0d490cd64890
+        mime: image/jpeg
+        bytes: 28118
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

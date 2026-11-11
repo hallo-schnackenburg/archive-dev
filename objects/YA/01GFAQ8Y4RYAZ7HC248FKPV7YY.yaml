@@ -1,0 +1,41 @@
+id: 01GFAQ8Y4RYAZ7HC248FKPV7YY
+type: image
+subtype: photo
+title: Emma Behrens vor dem Gutshaus
+description: Farbfoto, leicht verblasst.
+date: 1978-11-28
+origin:
+  name: Hermann Wiegmann
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 26/208
+subjects:
+  - name: Weihnachtsmarkt 1978
+    type: event
+parents:
+  - 01KXD1F75H1JZH7SDYYBNHXZ0A
+files:
+  - role: main
+    original_name: foto_7496.jpg
+    path: files/be/f9/bef97bfa84d8299b03502195a56e4d40bc717a1bad3b831cee9f22b6cb9cbe6c/original.jpg
+    sha256: bef97bfa84d8299b03502195a56e4d40bc717a1bad3b831cee9f22b6cb9cbe6c
+    mime: image/jpeg
+    bytes: 8550238
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/be/f9/bef97bfa84d8299b03502195a56e4d40bc717a1bad3b831cee9f22b6cb9cbe6c/preview-400.508d892c73e1.jpg
+        sha256: 508d892c73e15dce21f003241d250164292e4aa06380c3737e7c0362a2fe90cd
+        mime: image/jpeg
+        bytes: 62310
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,47 @@
+id: 01G2YQGXR5Y7ZDDGK4KQ9YKW3M
+type: image
+subtype: photo
+title: Sturmschaden 2005
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 2005-09-13
+location: Rüterberg, Lange Straße
+geocode:
+  lat: 52.9859
+  lon: 11.4503
+  precision: town
+  source: osm
+origin:
+  name: Karl Burmester
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Familie Garms
+    type: person
+    location: Bömenzien
+  reference: Fotos/Album 21/065
+subjects:
+  - name: Einschulung 2005
+    type: event
+parents:
+  - 01FHXWS77V11495NM60GV2NEPP
+files:
+  - role: main
+    original_name: foto_2362.jpg
+    path: files/77/2a/772aadf650f715484540b269a5c2cdac59939c7858ff7bd4a8fc32d3cd77bf77/original.jpg
+    sha256: 772aadf650f715484540b269a5c2cdac59939c7858ff7bd4a8fc32d3cd77bf77
+    mime: image/jpeg
+    bytes: 27422008
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/77/2a/772aadf650f715484540b269a5c2cdac59939c7858ff7bd4a8fc32d3cd77bf77/preview-400.1c86612dda06.jpg
+        sha256: 1c86612dda064d9f40877535c3ef4dbbdbe19d841b8c15b410f50b524a37544a
+        mime: image/jpeg
+        bytes: 21297
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

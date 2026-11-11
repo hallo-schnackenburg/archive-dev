@@ -1,0 +1,37 @@
+id: 01GKZRVGVYH32C9NVYYAY6R8YC
+type: image
+subtype: plan
+title: Bauplan Kaufmannshaus 1985
+date: 1985-09-27
+location: Lanz, Fähranleger
+geocode:
+  lat: 53.0744
+  lon: 11.5306
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br/Kasten 6/034
+files:
+  - role: main
+    original_name: scan_800.tif
+    path: files/e4/70/e4709d0fb2b328c0a648804f48320939771ff3eab6d3eb72e9a685f215bd4873/original.tif
+    sha256: e4709d0fb2b328c0a648804f48320939771ff3eab6d3eb72e9a685f215bd4873
+    mime: image/tiff
+    bytes: 18229500
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e4/70/e4709d0fb2b328c0a648804f48320939771ff3eab6d3eb72e9a685f215bd4873/preview-400.c0d451bd1314.jpg
+        sha256: c0d451bd13142a526f226f634a0976475e15311720b4fa57866b12d78f4b988d
+        mime: image/jpeg
+        bytes: 62484
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

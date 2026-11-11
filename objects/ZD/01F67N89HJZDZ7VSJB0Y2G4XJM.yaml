@@ -1,0 +1,40 @@
+id: 01F67N89HJZDZ7VSJB0Y2G4XJM
+type: image
+subtype: photo
+title: Lotte Hennings, Porträt
+description: Zu sehen sind Windmühle und Friedhofskapelle.
+date: "1904"
+location: Zadrau, Sportplatz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Fotos/Mappe 8/062
+subjects:
+  - name: Einweihung 1904
+    type: event
+  - name: Richtfest 1904
+    type: event
+parents:
+  - 01HQP25DE5H8X2VZ17AF0KJD5M
+files:
+  - role: main
+    original_name: IMG_9139.jpg
+    path: files/f2/cf/f2cf17f032deb042c5d9284632b3d5242c7fd52311ebeb50b8cfbc42e24b41a6/original.jpg
+    sha256: f2cf17f032deb042c5d9284632b3d5242c7fd52311ebeb50b8cfbc42e24b41a6
+    mime: image/jpeg
+    bytes: 24601867
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/f2/cf/f2cf17f032deb042c5d9284632b3d5242c7fd52311ebeb50b8cfbc42e24b41a6/preview-400.b9a10d57c4e8.jpg
+        sha256: b9a10d57c4e8ec52ad4f5512de4ab06b1811aa1fff93f716effe719922061578
+        mime: image/jpeg
+        bytes: 53031
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

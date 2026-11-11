@@ -1,0 +1,40 @@
+id: 01G73GF5G1JN76DPA1RWHA21PQ
+type: image
+subtype: photo
+title: Blick vom Wassermühle auf das Zollamt
+date: 1962-06-07
+location: Lenzen, Schlachterei
+geocode:
+  lat: 53.0056
+  lon: 11.5229
+  precision: street
+  source: osm
+origin:
+  name: Erika Schwarz
+  type: person
+  location: Gartow
+subjects:
+  - name: Deicharbeiten 1962
+    type: event
+  - name: Bahnhof
+    type: building
+files:
+  - role: main
+    original_name: IMG_0171.jpg
+    path: files/53/eb/53eb9da21c78878ef3c6b73e7dc40d3f4ad280657ccc8211851483a349c28da3/original.jpg
+    sha256: 53eb9da21c78878ef3c6b73e7dc40d3f4ad280657ccc8211851483a349c28da3
+    mime: image/jpeg
+    bytes: 16531892
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/53/eb/53eb9da21c78878ef3c6b73e7dc40d3f4ad280657ccc8211851483a349c28da3/preview-400.4399591e4801.jpg
+        sha256: 4399591e48012709a508ac5d163a20392a8c0527e147025627e2db46bfcd14a7
+        mime: image/jpeg
+        bytes: 46130
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

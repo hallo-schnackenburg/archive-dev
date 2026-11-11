@@ -1,0 +1,39 @@
+id: 01KA6A8ADN32FKZMC53J31ZFKR
+type: image
+subtype: plan
+title: Bauplan Badestelle 1915
+date: 1915-03
+location: Lanz, Dorfkrug
+origin:
+  name: Gerda Hennings
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Familie Fricke
+    type: person
+    location: Gorleben
+  reference: Plan/Mappe 15/013
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+files:
+  - role: main
+    original_name: scan_093.tif
+    path: files/2b/74/2b74f700ba9410f2560190430f986215c2e6726540874f9cc1a14ffb1b30369a/original.tif
+    sha256: 2b74f700ba9410f2560190430f986215c2e6726540874f9cc1a14ffb1b30369a
+    mime: image/tiff
+    bytes: 11460418
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2b/74/2b74f700ba9410f2560190430f986215c2e6726540874f9cc1a14ffb1b30369a/preview-400.923169d33d58.jpg
+        sha256: 923169d33d58de554d88bf4337419fedd431608270d85613413fb4dc0e473969
+        mime: image/jpeg
+        bytes: 66503
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

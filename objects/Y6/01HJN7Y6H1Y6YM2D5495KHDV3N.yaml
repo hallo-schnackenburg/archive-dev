@@ -1,0 +1,33 @@
+id: 01HJN7Y6H1Y6YM2D5495KHDV3N
+type: image
+subtype: print
+title: "Kupferstich: Lanz von der Elbseite, Cumlosen"
+description: Lithographie, Rand beschnitten.
+date: 1706~
+location: Gollensdorf, Fachwerkhaus Marktstraße 4
+origin:
+  name: Gustav Lemke
+  type: person
+  location: Arendsee
+parents:
+  - 01G253EGHDFBNP7ZT73WK1Q02J
+files:
+  - role: main
+    original_name: scan_103.tif
+    path: files/6e/25/6e252bfa33007692ba4b86156df8150f5885b15d3a5f869b3317dc6b81ee8686/original.tif
+    sha256: 6e252bfa33007692ba4b86156df8150f5885b15d3a5f869b3317dc6b81ee8686
+    mime: image/tiff
+    bytes: 21754896
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/25/6e252bfa33007692ba4b86156df8150f5885b15d3a5f869b3317dc6b81ee8686/preview-400.e78caad99664.jpg
+        sha256: e78caad9966458ded888fcf4bb647f2730de996bf2bfa5235b36b37e240272f6
+        mime: image/jpeg
+        bytes: 67817
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,51 @@
+id: 01GW5DYBCBD6TWVPYVCHY4E1T1
+type: image
+subtype: photo
+title: Glockenweihe 1981, Wittenberge
+date: 198X
+location: Lenzen, Gutshaus
+geocode:
+  lat: 53.0242
+  lon: 11.5799
+  precision: town
+  source: osm
+origin:
+  name: Marta Voss
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 5/381
+  note: Bücherregal links
+subjects:
+  - name: Frieda Lenz
+    type: person
+  - name: Speicher
+    type: building
+  - name: Ilse Jeß
+    type: person
+parents:
+  - 01JMT0ZRHTVSQ2MA5HJ6W5MNW7
+files:
+  - role: main
+    original_name: DSC1835.jpg
+    path: files/c8/8b/c88b26ebfc1bfd16eae75995157ed2f52bef3f15b65b575f8ef7601ee11729db/original.jpg
+    sha256: c88b26ebfc1bfd16eae75995157ed2f52bef3f15b65b575f8ef7601ee11729db
+    mime: image/jpeg
+    bytes: 9205993
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/c8/8b/c88b26ebfc1bfd16eae75995157ed2f52bef3f15b65b575f8ef7601ee11729db/preview-400.f5fcbcc1d647.jpg
+        sha256: f5fcbcc1d647e28d053b2fd397bf585acdb9bba8b4ef6ac9d528c71c00985b8e
+        mime: image/jpeg
+        bytes: 66619
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

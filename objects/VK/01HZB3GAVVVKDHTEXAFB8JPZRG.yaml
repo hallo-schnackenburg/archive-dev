@@ -1,0 +1,64 @@
+id: 01HZB3GAVVVKDHTEXAFB8JPZRG
+type: document
+subtype: letter
+title: Zeugnis für Karl Jürgens
+date: "1856"
+location: Pretzier, Am Markt
+geocode:
+  lat: 52.9292
+  lon: 11.4964
+  precision: region
+  source: osm
+origin:
+  name: Sabine Lemke
+  type: person
+  location: Lenzen
+recipient: Ilse Heuer
+language: de
+subjects:
+  - name: August Ahrens
+    type: person
+parents:
+  - 01HBK6C2YY23CZPK2AB67CF4HH
+  - 01HV8Q29MRM56K8HKB6HH162VH
+files:
+  - role: page
+    num: 1
+    original_name: letter_8jpzrg_001.tif
+    path: files/df/c4/dfc4045603e561aa260792107564bd75025ea399c8015f51b0f230047ef51c2b/original.tif
+    sha256: dfc4045603e561aa260792107564bd75025ea399c8015f51b0f230047ef51c2b
+    mime: image/tiff
+    bytes: 23217428
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/df/c4/dfc4045603e561aa260792107564bd75025ea399c8015f51b0f230047ef51c2b/preview-400.ae7ac9d19104.jpg
+        sha256: ae7ac9d19104e83c3398afc40f32e95554f0cbe5326e71fe8e94e40a246cda73
+        mime: image/jpeg
+        bytes: 84120
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_8jpzrg_002.tif
+    path: files/39/58/3958c2b56bd1b58c54fa509ea22511491d43c7b57a5aa8d5addba94a8caae2f2/original.tif
+    sha256: 3958c2b56bd1b58c54fa509ea22511491d43c7b57a5aa8d5addba94a8caae2f2
+    mime: image/tiff
+    bytes: 23480824
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/39/58/3958c2b56bd1b58c54fa509ea22511491d43c7b57a5aa8d5addba94a8caae2f2/preview-400.9fcad3766516.jpg
+        sha256: 9fcad3766516a18515773d786107fe48903a76ace476073605cdf01e0f32b570
+        mime: image/jpeg
+        bytes: 71206
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

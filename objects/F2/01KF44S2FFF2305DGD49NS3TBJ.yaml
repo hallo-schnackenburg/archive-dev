@@ -1,0 +1,38 @@
+id: 01KF44S2FFF2305DGD49NS3TBJ
+type: document
+subtype: letter
+title: Zeugnis für Otto Sievers
+description: Mit Umschlag und Briefmarke.
+date: "1854"
+origin:
+  name: Otto Matthies
+  type: person
+  location: Holtorf
+recipient: Emma Lemke
+language: de
+subjects:
+  - name: Arendsee
+    type: place
+parents:
+  - 01K839EZHAYF5H4HB4TXJTTJWF
+files:
+  - role: page
+    num: 1
+    original_name: letter_ns3tbj_001.tif
+    path: files/21/bd/21bd3fb2df3ff9ed9960170e690cad12c863759a7cbb959f0f3cb99356649036/original.tif
+    sha256: 21bd3fb2df3ff9ed9960170e690cad12c863759a7cbb959f0f3cb99356649036
+    mime: image/tiff
+    bytes: 9503934
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/21/bd/21bd3fb2df3ff9ed9960170e690cad12c863759a7cbb959f0f3cb99356649036/preview-400.a0ec340999aa.jpg
+        sha256: a0ec340999aa6fbacb02a86044cacdc4ddef452bd23d83257920e3db5d7e301f
+        mime: image/jpeg
+        bytes: 39826
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

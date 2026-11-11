@@ -1,0 +1,45 @@
+id: 01K4VHMHA2P1NEDSVDP6DKY8GX
+type: image
+subtype: plan
+title: Katasterblatt Jürgens
+description: Mit handschriftlichen Ergänzungen.
+date: "1832"
+location: Wittenberge, Speicher
+origin:
+  name: Hermann Fricke
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F 17/120
+  note: Kellerarchiv
+subjects:
+  - name: Badestelle
+    type: building
+  - name: Gerda Wiegmann
+    type: person
+  - name: Rathaus
+    type: building
+files:
+  - role: main
+    original_name: scan_252.tif
+    path: files/6f/b2/6fb21dc1062e4350ea3262f549b5dc6ca14a956c696cb6892b010a6c619a1647/original.tif
+    sha256: 6fb21dc1062e4350ea3262f549b5dc6ca14a956c696cb6892b010a6c619a1647
+    mime: image/tiff
+    bytes: 27462880
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6f/b2/6fb21dc1062e4350ea3262f549b5dc6ca14a956c696cb6892b010a6c619a1647/preview-400.782c7cff0937.jpg
+        sha256: 782c7cff09371524020322567031292f27e865f8f099c82fe11eb455efba5274
+        mime: image/jpeg
+        bytes: 24142
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

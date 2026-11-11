@@ -1,0 +1,43 @@
+id: 01HJGWCVXGAV8ANBRGG8HGVS9M
+type: image
+subtype: drawing
+title: Kaufmannshaus, Aquarell, Havelberg
+date: 193X
+location: Dömitz, Kirchstraße
+origin:
+  name: Bernd Schwarz
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 7/076
+subjects:
+  - name: Wilhelm Cohrs
+    type: person
+  - name: Brückeneinweihung 1936
+    type: event
+parents:
+  - 01JKQ421K5RBFQ8NV81GBKEPMH
+files:
+  - role: main
+    original_name: scan_024.tif
+    path: files/06/9e/069e137a8192cc3c69f656d703a08f2306fdad2bfa4c3dc872df445a9487e012/original.tif
+    sha256: 069e137a8192cc3c69f656d703a08f2306fdad2bfa4c3dc872df445a9487e012
+    mime: image/tiff
+    bytes: 27281090
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/06/9e/069e137a8192cc3c69f656d703a08f2306fdad2bfa4c3dc872df445a9487e012/preview-400.ace2327b4e5a.jpg
+        sha256: ace2327b4e5af835c06c83877e5f4f69b5230e98bebeef4620e1c3c9b15ac5c8
+        mime: image/jpeg
+        bytes: 26723
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

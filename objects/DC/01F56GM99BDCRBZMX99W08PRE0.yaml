@@ -1,0 +1,70 @@
+id: 01F56GM99BDCRBZMX99W08PRE0
+type: document
+subtype: letter
+title: Zeugnis für Ilse Mahnke
+description: Handschriftlich, 3 Seiten.
+location: Arendsee, Lange Straße
+geocode:
+  lat: 53.0292
+  lon: 11.6854
+  precision: exact
+  source: osm
+origin:
+  name: Heinrich Krüger
+  type: person
+  location: Pretzier
+recipient: Wilhelm Meyer
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Fotos/Mappe 20/022
+  note: Regal 1
+subjects:
+  - name: Cumlosen
+    type: place
+parents:
+  - 01HCDYTRFHFRB82WRMENEDR10F
+files:
+  - role: page
+    num: 1
+    original_name: letter_08pre0_001.tif
+    path: files/dc/8b/dc8b14ac1c623a0101dab7b0b3f7d2df5017dcc965c66691ef73baca87e935de/original.tif
+    sha256: dc8b14ac1c623a0101dab7b0b3f7d2df5017dcc965c66691ef73baca87e935de
+    mime: image/tiff
+    bytes: 4195485
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dc/8b/dc8b14ac1c623a0101dab7b0b3f7d2df5017dcc965c66691ef73baca87e935de/preview-400.715b74ebca52.jpg
+        sha256: 715b74ebca5214acb6bc5c2b66709e8171c326222e0a975f70ddbc7cea1f9ca2
+        mime: image/jpeg
+        bytes: 50104
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_08pre0_002.tif
+    path: files/8a/98/8a98b5dae10a01f11e4c7d813b9d7c090d5027a86d048070acd4f5e54d3523e3/original.tif
+    sha256: 8a98b5dae10a01f11e4c7d813b9d7c090d5027a86d048070acd4f5e54d3523e3
+    mime: image/tiff
+    bytes: 3009024
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8a/98/8a98b5dae10a01f11e4c7d813b9d7c090d5027a86d048070acd4f5e54d3523e3/preview-400.fb397865253d.jpg
+        sha256: fb397865253dba4913dd88f3d8ed6116555540acd28ec8291b851c4ef0dd8147
+        mime: image/jpeg
+        bytes: 66537
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

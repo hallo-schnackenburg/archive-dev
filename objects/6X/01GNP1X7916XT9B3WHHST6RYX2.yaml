@@ -1,0 +1,37 @@
+id: 01GNP1X7916XT9B3WHHST6RYX2
+type: image
+subtype: drawing
+title: Skizze Havelberg, Gartenstraße
+date: "1903"
+location: Cumlosen, Fährstraße
+origin:
+  name: Karl Pape
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Hans Tiedemann
+    type: person
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01FE51YC393SEJ3F0E3BYAZ1NB
+files:
+  - role: main
+    original_name: scan_935.tif
+    path: files/7c/e4/7ce4313318de85aca8bbef21d3ecabf6d27775b70dd64355ecda62d5ba316e3c/original.tif
+    sha256: 7ce4313318de85aca8bbef21d3ecabf6d27775b70dd64355ecda62d5ba316e3c
+    mime: image/tiff
+    bytes: 617827
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7c/e4/7ce4313318de85aca8bbef21d3ecabf6d27775b70dd64355ecda62d5ba316e3c/preview-400.8046a392658c.jpg
+        sha256: 8046a392658c4c0b2f85d48df6deea01a79616f81ad4bbb4a003d25e5c106916
+        mime: image/jpeg
+        bytes: 80199
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

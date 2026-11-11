@@ -1,0 +1,44 @@
+id: 01GAQRN8JQ3CBZP81F528SN30X
+type: image
+subtype: photo
+title: "Angelverein: Gruppenbild Grenzöffnung"
+description: Abzug im Format 6 x 9 cm.
+date: 1953-10
+location: Bömenzien, Poststelle
+geocode:
+  lat: 53.0551
+  lon: 11.489
+  precision: region
+  source: osm
+origin:
+  name: Gerda Dreyer
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  note: Regal 4, Kiste 2
+parents:
+  - 01J59Y3GT8EG81RDPY4TJCRWFY
+files:
+  - role: main
+    original_name: scan_551.tif
+    path: files/0c/19/0c196c5dc4c085eb50828bd033a118b1058f23e1583cd835ada30bd7e6b0c878/original.tif
+    sha256: 0c196c5dc4c085eb50828bd033a118b1058f23e1583cd835ada30bd7e6b0c878
+    mime: image/tiff
+    bytes: 22160595
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0c/19/0c196c5dc4c085eb50828bd033a118b1058f23e1583cd835ada30bd7e6b0c878/preview-400.a15d42e5b78c.jpg
+        sha256: a15d42e5b78c7939bc866864b4fa924e25f4d83bd5d4ac61d6548b764f8834f3
+        mime: image/jpeg
+        bytes: 63080
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

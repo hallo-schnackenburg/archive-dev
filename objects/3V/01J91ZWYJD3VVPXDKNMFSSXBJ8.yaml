@@ -1,0 +1,44 @@
+id: 01J91ZWYJD3VVPXDKNMFSSXBJ8
+type: image
+subtype: photo
+title: Einweihung 1904
+description: Aufnahme von Karl Hennings.
+date: 1904-08
+origin:
+  name: Fritz Nitschke
+  type: person
+  location: Lanz
+original:
+  holder:
+    name: Familie Klatt
+    type: person
+    location: Cumlosen
+  reference: Plan 27/158
+  note: Regal 1
+subjects:
+  - name: Gasthof Meyer
+    type: building
+  - name: Hafen
+    type: building
+  - name: Anni Schulz
+    type: person
+files:
+  - role: main
+    original_name: scan_430.tif
+    path: files/74/fa/74faccefe928c94d2f850194a976d97a0e809a3f11242fb41ad6d8ba9bf50f4b/original.tif
+    sha256: 74faccefe928c94d2f850194a976d97a0e809a3f11242fb41ad6d8ba9bf50f4b
+    mime: image/tiff
+    bytes: 26363738
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/74/fa/74faccefe928c94d2f850194a976d97a0e809a3f11242fb41ad6d8ba9bf50f4b/preview-400.22905490bf11.jpg
+        sha256: 22905490bf11550e657c6fad8847adf0af7c92a3c499517468c2531eb0d25360
+        mime: image/jpeg
+        bytes: 44878
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

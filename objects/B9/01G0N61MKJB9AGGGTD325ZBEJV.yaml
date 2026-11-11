@@ -1,0 +1,44 @@
+id: 01G0N61MKJB9AGGGTD325ZBEJV
+type: image
+subtype: photo
+title: Hochzeit der Kegelclub
+date: 2004-12-12
+location: Hitzacker, Hinter den Höfen
+geocode:
+  lat: 52.9192
+  lon: 11.5009
+  precision: exact
+  source: osm
+origin:
+  name: Karl Albers
+  type: person
+  location: Nienwalde
+owner:
+  name: Paul Schulz
+  type: person
+  note: Nachlass
+subjects:
+  - name: Emma Ahrens
+    type: person
+  - name: Storchennest
+    type: building
+files:
+  - role: main
+    original_name: scan_856.tif
+    path: files/7a/0e/7a0e4e01d2bf79e877068f6eb0b3a82d1f7f983b99eae7545ad0a656c5663097/original.tif
+    sha256: 7a0e4e01d2bf79e877068f6eb0b3a82d1f7f983b99eae7545ad0a656c5663097
+    mime: image/tiff
+    bytes: 14867423
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7a/0e/7a0e4e01d2bf79e877068f6eb0b3a82d1f7f983b99eae7545ad0a656c5663097/preview-400.80275e455fa3.jpg
+        sha256: 80275e455fa3a7deba31703771e0c1e7281b62864e4282b4642b72dafcaefa46
+        mime: image/jpeg
+        bytes: 55916
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

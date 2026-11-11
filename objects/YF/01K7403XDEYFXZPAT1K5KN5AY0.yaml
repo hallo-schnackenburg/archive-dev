@@ -1,0 +1,33 @@
+id: 01K7403XDEYFXZPAT1K5KN5AY0
+type: image
+subtype: print
+title: "Kupferstich: Pretzier von der Elbseite, Wustrow"
+description: Kupferstich, koloriert.
+date: 1806/1811
+location: Gollensdorf, Burgstraße
+origin:
+  name: Anni Krüger
+  type: person
+  location: Gollensdorf
+parents:
+  - 01FKRCJXM1WMJBH86NTRWPP373
+files:
+  - role: main
+    original_name: scan_057.tif
+    path: files/f1/bd/f1bd4fe3ee03cb84bc938ebf9d475f3a540c413c492438bf541929c0d9e241ef/original.tif
+    sha256: f1bd4fe3ee03cb84bc938ebf9d475f3a540c413c492438bf541929c0d9e241ef
+    mime: image/tiff
+    bytes: 5237579
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f1/bd/f1bd4fe3ee03cb84bc938ebf9d475f3a540c413c492438bf541929c0d9e241ef/preview-400.aac28a46cdb2.jpg
+        sha256: aac28a46cdb26f836810a8e7840210c98596d7abd6dd313963b2deefb68edee7
+        mime: image/jpeg
+        bytes: 24211
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

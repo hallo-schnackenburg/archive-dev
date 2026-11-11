@@ -1,0 +1,31 @@
+id: 01JWSER8KRE9RS0GXXF7G7KT9E
+type: image
+subtype: plan
+title: Bauplan Kegelbahn 1975
+date: "1975"
+location: Lenzen, Burgstraße
+subjects:
+  - name: Schützenhaus
+    type: building
+  - name: Sturmschaden 1975
+    type: event
+files:
+  - role: main
+    original_name: scan_851.tif
+    path: files/54/20/5420c80b848cd9081dd29ebf06d98ff30712911f69d5d0817260fe08cc0c4c0d/original.tif
+    sha256: 5420c80b848cd9081dd29ebf06d98ff30712911f69d5d0817260fe08cc0c4c0d
+    mime: image/tiff
+    bytes: 13178853
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/54/20/5420c80b848cd9081dd29ebf06d98ff30712911f69d5d0817260fe08cc0c4c0d/preview-400.0f499c01e88d.jpg
+        sha256: 0f499c01e88d79bc4209594b057baf5850af50160d693f5b0da79cc9527df2ca
+        mime: image/jpeg
+        bytes: 48548
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

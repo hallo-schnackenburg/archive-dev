@@ -1,0 +1,90 @@
+id: 01EY60RHNMT9C9TEPAZZWRWEZR
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Havelberg 1904
+description: Handschriftlich in Sütterlin.
+date: 1904~
+location: Brünkendorf, Gartenstraße
+geocode:
+  lat: 53.0872
+  lon: 11.5478
+  precision: street
+  source: osm
+origin:
+  name: Bauausschuss Gülden
+  type: business
+  location: Gorleben
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg/Kasten 10/016
+  note: Kellerarchiv
+subjects:
+  - name: Gerda Behrens
+    type: person
+  - name: Osterfeuer 1904
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: protocol_wrwezr_001.tif
+    path: files/bc/97/bc97bf0da57fa5d85cbffb08f138c3343c9a12bc1b5b977132994b7903a70657/original.tif
+    sha256: bc97bf0da57fa5d85cbffb08f138c3343c9a12bc1b5b977132994b7903a70657
+    mime: image/tiff
+    bytes: 10853302
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bc/97/bc97bf0da57fa5d85cbffb08f138c3343c9a12bc1b5b977132994b7903a70657/preview-400.6b467692fe45.jpg
+        sha256: 6b467692fe452f236e27b1b35d97210c76955b27c2fc7c89d9af62c820a3181e
+        mime: image/jpeg
+        bytes: 43682
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_wrwezr_002.tif
+    path: files/cb/e3/cbe3c1558205958df4f49179369d71536e3e3178106dd4950229299d19b1c8f4/original.tif
+    sha256: cbe3c1558205958df4f49179369d71536e3e3178106dd4950229299d19b1c8f4
+    mime: image/tiff
+    bytes: 26389760
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/cb/e3/cbe3c1558205958df4f49179369d71536e3e3178106dd4950229299d19b1c8f4/preview-400.d6e2bf162da6.jpg
+        sha256: d6e2bf162da6a90de6a86848c954040ad8abc8870f37dec591f73fbf7643e728
+        mime: image/jpeg
+        bytes: 89838
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_wrwezr_003.tif
+    path: files/34/60/34605900ccd95fd292b93b920a57e8702a1fc421c5bffb1fc417cde35949e556/original.tif
+    sha256: 34605900ccd95fd292b93b920a57e8702a1fc421c5bffb1fc417cde35949e556
+    mime: image/tiff
+    bytes: 16668586
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/34/60/34605900ccd95fd292b93b920a57e8702a1fc421c5bffb1fc417cde35949e556/preview-400.7e2ad077ff19.jpg
+        sha256: 7e2ad077ff19c619de01d86126217932958d2c26964094351040a73c00cb3f83
+        mime: image/jpeg
+        bytes: 52564
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

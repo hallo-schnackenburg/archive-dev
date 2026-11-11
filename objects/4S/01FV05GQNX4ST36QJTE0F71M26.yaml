@@ -1,0 +1,47 @@
+id: 01FV05GQNX4ST36QJTE0F71M26
+type: image
+subtype: drawing
+title: Entwurf für Elbdeich
+description: Mit Anmerkungen am Rand.
+date: 1895?
+location: Schnackenburg, Poststelle
+origin:
+  name: Heinrich Heuer
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Mappe 23/036
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v31626
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Osterfeuer 1895
+    type: event
+  - name: Schmiede
+    type: building
+parents:
+  - 01J8ED3E4SGG31ZRC1FEQ26FTD
+files:
+  - role: main
+    original_name: scan_872.tif
+    path: files/81/6b/816bfeeb988b7c19070844ed2fcc089ca1957b98f663bf1f932f6091184f0ba0/original.tif
+    sha256: 816bfeeb988b7c19070844ed2fcc089ca1957b98f663bf1f932f6091184f0ba0
+    mime: image/tiff
+    bytes: 20470217
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/81/6b/816bfeeb988b7c19070844ed2fcc089ca1957b98f663bf1f932f6091184f0ba0/preview-400.8031d039feda.jpg
+        sha256: 8031d039feda68a8de134fa177b3db0e8a9905d8bba7311b1fe556eece5d6896
+        mime: image/jpeg
+        bytes: 81411
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

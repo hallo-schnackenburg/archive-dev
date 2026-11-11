@@ -1,0 +1,40 @@
+id: 01JPRG4QN6M8RZ4K11CDFZ7XHV
+type: image
+subtype: photo
+title: Hochzeit 2002
+description: Farbfoto, leicht verblasst.
+origin:
+  name: Manfred Hennings
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 12/345
+subjects:
+  - name: Elfriede Schulz
+    type: person
+  - name: Erntedankfest 2002
+    type: event
+files:
+  - role: main
+    original_name: IMG_3037.jpg
+    path: files/a1/47/a147fffe433bffe15c0532f04f490ef9dfb48fadd5bd6f61aa752cfe0557f9fd/original.jpg
+    sha256: a147fffe433bffe15c0532f04f490ef9dfb48fadd5bd6f61aa752cfe0557f9fd
+    mime: image/jpeg
+    bytes: 26425237
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/a1/47/a147fffe433bffe15c0532f04f490ef9dfb48fadd5bd6f61aa752cfe0557f9fd/preview-400.aebec00b41e9.jpg
+        sha256: aebec00b41e9950645d553b11e00872d56befaf9f18dcf7184b8c6cd545eb07c
+        mime: image/jpeg
+        bytes: 83566
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

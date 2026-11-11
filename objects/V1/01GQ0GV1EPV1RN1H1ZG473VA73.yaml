@@ -1,0 +1,71 @@
+id: 01GQ0GV1EPV1RN1H1ZG473VA73
+type: document
+subtype: letter
+title: Ernst Meyer an die Gemeinde wegen Kanalisation
+description: Betrifft Straßenbeleuchtung.
+date: 1793-11-10
+location: Gorleben, Gartenstraße
+geocode:
+  lat: 52.9029
+  lon: 11.606
+  precision: street
+  source: osm
+origin:
+  name: Karl Krüger
+  type: person
+  location: Lenzen
+recipient: Emma Dreyer
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Dorfladen
+    type: building
+  - name: Kartoffelernte 1793
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_73va73_001.tif
+    path: files/86/1d/861d9a87a4c82132d60e4787307877106934079d21c5d975f598157da435f929/original.tif
+    sha256: 861d9a87a4c82132d60e4787307877106934079d21c5d975f598157da435f929
+    mime: image/tiff
+    bytes: 12478275
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/86/1d/861d9a87a4c82132d60e4787307877106934079d21c5d975f598157da435f929/preview-400.7c8c2e421c33.jpg
+        sha256: 7c8c2e421c33368b970598d7ae7f75a975a6f0832af135a9e336678ab4e47a6c
+        mime: image/jpeg
+        bytes: 81557
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_73va73_002.tif
+    path: files/fc/09/fc09c53b88e133912a83cc163cd732f7410c2c440b73cbe9a9955bd8344c78b1/original.tif
+    sha256: fc09c53b88e133912a83cc163cd732f7410c2c440b73cbe9a9955bd8344c78b1
+    mime: image/tiff
+    bytes: 4192846
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fc/09/fc09c53b88e133912a83cc163cd732f7410c2c440b73cbe9a9955bd8344c78b1/preview-400.5a21363d4516.jpg
+        sha256: 5a21363d4516080a46982df68df176d2f1cabcca70e1bc3ac80a68d9365ce551
+        mime: image/jpeg
+        bytes: 83068
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

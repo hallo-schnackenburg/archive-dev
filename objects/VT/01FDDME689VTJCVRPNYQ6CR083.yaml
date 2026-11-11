@@ -1,0 +1,40 @@
+id: 01FDDME689VTJCVRPNYQ6CR083
+type: image
+subtype: plan
+title: Deichplan Seedorf bis Laase
+date: 1837-01
+location: Pretzier, Schulstraße
+origin:
+  name: Karl Schulz
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Erika Voss
+    type: person
+  - name: Cumlosen
+    type: place
+files:
+  - role: main
+    original_name: scan_700.tif
+    path: files/51/ca/51ca8a3de5bc24ad57fb5e9d33239e0551b84bc6c661a3acd7f2a453d59fceaa/original.tif
+    sha256: 51ca8a3de5bc24ad57fb5e9d33239e0551b84bc6c661a3acd7f2a453d59fceaa
+    mime: image/tiff
+    bytes: 25373434
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/51/ca/51ca8a3de5bc24ad57fb5e9d33239e0551b84bc6c661a3acd7f2a453d59fceaa/preview-400.f935c906cde5.jpg
+        sha256: f935c906cde5287b4147b58fe79ff7e2c55a911dd512d15a5c78ce7fd6c5a4e4
+        mime: image/jpeg
+        bytes: 77246
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

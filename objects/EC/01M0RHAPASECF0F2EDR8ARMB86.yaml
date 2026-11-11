@@ -1,0 +1,33 @@
+id: 01M0RHAPASECF0F2EDR8ARMB86
+type: image
+subtype: plan
+title: Bauplan Mühle 1884
+description: Mit handschriftlichen Ergänzungen.
+date: 1884-10
+origin:
+  name: Frieda Kuhlmann
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Einschulung 1884
+    type: event
+files:
+  - role: main
+    original_name: scan_296.tif
+    path: files/09/7a/097ad92af90eb4355d648b3e01b123d873dd3433c9d2b1b991df52e58788cada/original.tif
+    sha256: 097ad92af90eb4355d648b3e01b123d873dd3433c9d2b1b991df52e58788cada
+    mime: image/tiff
+    bytes: 12372364
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/09/7a/097ad92af90eb4355d648b3e01b123d873dd3433c9d2b1b991df52e58788cada/preview-400.19bf605d42af.jpg
+        sha256: 19bf605d42af812edbb01311c2f9a47a9848e1b8bef78757534943c1923634c0
+        mime: image/jpeg
+        bytes: 55707
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

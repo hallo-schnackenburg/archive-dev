@@ -1,0 +1,35 @@
+id: 01HM72ET4ZJ65WN37EYY33ZHYD
+type: image
+subtype: drawing
+title: Wappenentwurf Lanz, Rüterberg
+date: "1842"
+location: Wustrow, Burgstraße
+geocode:
+  lat: 53.0765
+  lon: 11.6462
+  precision: town
+  source: osm
+origin:
+  name: Petra Voss
+  type: person
+  location: Pretzier
+files:
+  - role: main
+    original_name: scan_650.tif
+    path: files/c6/35/c635a62824f7b580ee48264357b928189238647abb12fa1858822591ae45094d/original.tif
+    sha256: c635a62824f7b580ee48264357b928189238647abb12fa1858822591ae45094d
+    mime: image/tiff
+    bytes: 23598624
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c6/35/c635a62824f7b580ee48264357b928189238647abb12fa1858822591ae45094d/preview-400.1209f1dd73bb.jpg
+        sha256: 1209f1dd73bbc5a5e663fb8f66fcf5aa35db039e1c1769e0cd95d2407a320ccf
+        mime: image/jpeg
+        bytes: 51272
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

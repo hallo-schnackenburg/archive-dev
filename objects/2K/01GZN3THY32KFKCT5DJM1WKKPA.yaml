@@ -1,0 +1,37 @@
+id: 01GZN3THY32KFKCT5DJM1WKKPA
+type: image
+subtype: drawing
+title: Skizze Laase, Hinter den Höfen
+location: Pretzier, Bahnhofstraße
+geocode:
+  lat: 52.907
+  lon: 11.4916
+  precision: region
+  source: osm
+owner:
+  name: Hans Ahrens
+  type: person
+  note: Nachlass
+subjects:
+  - name: Hochzeit 1842
+    type: event
+files:
+  - role: main
+    original_name: scan_187.tif
+    path: files/bd/2a/bd2a7cb88e36e60119c58f457efd6314d331bff573264ac9cc31fd9fe7effb7d/original.tif
+    sha256: bd2a7cb88e36e60119c58f457efd6314d331bff573264ac9cc31fd9fe7effb7d
+    mime: image/tiff
+    bytes: 3705762
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bd/2a/bd2a7cb88e36e60119c58f457efd6314d331bff573264ac9cc31fd9fe7effb7d/preview-400.29e8eae42cf6.jpg
+        sha256: 29e8eae42cf6c6bc38b17067d590b83c506923681f00e5d6ba6c9aea4d27b9a2
+        mime: image/jpeg
+        bytes: 51525
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

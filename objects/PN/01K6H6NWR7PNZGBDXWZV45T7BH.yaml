@@ -1,0 +1,46 @@
+id: 01K6H6NWR7PNZGBDXWZV45T7BH
+type: document
+subtype: letter
+title: Mitteilung aus Gartow an Familie Lemke
+description: Mit Umschlag und Briefmarke.
+date: "1810"
+location: Restorf, Hinter den Höfen
+geocode:
+  lat: 53.0761
+  lon: 11.5204
+  precision: street
+  source: osm
+origin:
+  name: Hans Dreyer
+  type: person
+  location: Zadrau
+recipient: Erika Gerdes
+language: de
+subjects:
+  - name: Wilhelm Wiegmann
+    type: person
+  - name: Wittenberge
+    type: place
+  - name: Schützenfest 1810
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_45t7bh_001.tif
+    path: files/92/e2/92e2b106f628a075ed2e88f20da96fe1a3bcb4009bea02a6955e9b13e69f4c26/original.tif
+    sha256: 92e2b106f628a075ed2e88f20da96fe1a3bcb4009bea02a6955e9b13e69f4c26
+    mime: image/tiff
+    bytes: 4204789
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/92/e2/92e2b106f628a075ed2e88f20da96fe1a3bcb4009bea02a6955e9b13e69f4c26/preview-400.f025457df70c.jpg
+        sha256: f025457df70c1abacad40772533a9aa19d1462133f39cdc7d5fd4940db1ac75b
+        mime: image/jpeg
+        bytes: 58989
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01H5YNV77G4V2BPV8J23GHC0Y0
+type: image
+subtype: photo
+title: Familie Jeß beim Sturmschaden
+date: 1919-05-12
+origin:
+  name: Erika Jeß
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 23/178
+  note: Regal 1
+subjects:
+  - name: Sturmschaden 1919
+    type: event
+parents:
+  - 01J36EBSGAM0EQS4K8346DJX88
+files:
+  - role: main
+    original_name: DSC8395.jpg
+    path: files/d3/e2/d3e2c23be8b4424b18204cbb7543fe300c5cc8d7fba86bbec0a620f318bd6f6d/original.jpg
+    sha256: d3e2c23be8b4424b18204cbb7543fe300c5cc8d7fba86bbec0a620f318bd6f6d
+    mime: image/jpeg
+    bytes: 18467523
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/d3/e2/d3e2c23be8b4424b18204cbb7543fe300c5cc8d7fba86bbec0a620f318bd6f6d/preview-400.fb860f38d849.jpg
+        sha256: fb860f38d849bb623ea79d69f21e0c13539d9a47592866a8a79f675eb64e5ffe
+        mime: image/jpeg
+        bytes: 67272
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

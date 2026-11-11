@@ -1,0 +1,42 @@
+id: 01KARE0PQ679ECX1P2YXE0YPPD
+type: image
+subtype: print
+title: Gruß aus Havelberg
+description: Postkarte, gelaufen 1924.
+date: "1846"
+location: Kapern, Mühlenweg
+geocode:
+  lat: 52.9289
+  lon: 11.5815
+  precision: exact
+  source: osm
+origin:
+  name: Hedwig Schwarz
+  type: person
+  location: Cumlosen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 31/383
+files:
+  - role: main
+    original_name: scan_261.tif
+    path: files/23/a2/23a226b6660e237da6fc1deae740b5b505bfd39a1f883c5cd4cafffc3c104476/original.tif
+    sha256: 23a226b6660e237da6fc1deae740b5b505bfd39a1f883c5cd4cafffc3c104476
+    mime: image/tiff
+    bytes: 11682511
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/23/a2/23a226b6660e237da6fc1deae740b5b505bfd39a1f883c5cd4cafffc3c104476/preview-400.e34c638b0e0f.jpg
+        sha256: e34c638b0e0f6985c5f4b6c8e3a1fa0cad4b1118ef6bcbc1213258f4d6a18b4f
+        mime: image/jpeg
+        bytes: 55294
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

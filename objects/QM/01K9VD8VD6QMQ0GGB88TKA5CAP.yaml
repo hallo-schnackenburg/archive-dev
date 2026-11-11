@@ -1,0 +1,60 @@
+id: 01K9VD8VD6QMQ0GGB88TKA5CAP
+type: document
+subtype: letter
+title: Mitteilung aus Gorleben an Familie Lemke
+date: 1799-05-02
+location: Lenzen, Marktstraße
+geocode:
+  lat: 53.013
+  lon: 11.5245
+  precision: region
+  source: osm
+origin:
+  name: Dieter Meyer
+  type: person
+  location: Bömenzien
+recipient: Anni Voss
+language: de
+parents:
+  - 01J0HACSSNAGX3A6WBE45H61AH
+files:
+  - role: page
+    num: 1
+    original_name: letter_ka5cap_001.tif
+    path: files/d9/73/d973878bf2e54d30fc8a52a0c78956ee5a1209198c5b2d0098d92a9b6c0f50d3/original.tif
+    sha256: d973878bf2e54d30fc8a52a0c78956ee5a1209198c5b2d0098d92a9b6c0f50d3
+    mime: image/tiff
+    bytes: 6487661
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d9/73/d973878bf2e54d30fc8a52a0c78956ee5a1209198c5b2d0098d92a9b6c0f50d3/preview-400.83a265b74107.jpg
+        sha256: 83a265b74107e8e4c75030e87f8a2f7d5d265f1981dbbf8068c464633708b5af
+        mime: image/jpeg
+        bytes: 84782
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_ka5cap_002.tif
+    path: files/e8/5b/e85b5d719a1f8dc8d99929db2d0867424bb185c4d18cf16f26c5425d44de2022/original.tif
+    sha256: e85b5d719a1f8dc8d99929db2d0867424bb185c4d18cf16f26c5425d44de2022
+    mime: image/tiff
+    bytes: 7872339
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/5b/e85b5d719a1f8dc8d99929db2d0867424bb185c4d18cf16f26c5425d44de2022/preview-400.8a008bb511b5.jpg
+        sha256: 8a008bb511b5fff5d761e095ec5b975d1d78e90225dafa56d31d62d4f8767b21
+        mime: image/jpeg
+        bytes: 80764
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,60 @@
+id: 01JK4VG6BZ3FVG7PW7PHDQCQDA
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Dorferneuerung 1919
+date: 1919-04
+location: Lenzen, Schulstraße
+origin:
+  name: Kirchenvorstand Pretzier
+  type: business
+  location: Pretzier
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Kasten 11/025
+parents:
+  - 01H683J429KTWPMPPF52JN3Q9J
+files:
+  - role: page
+    num: 1
+    original_name: protocol_dqcqda_001.tif
+    path: files/e4/5c/e45c79a412f727be3fb23e2c795c11b8ae119bd86019d4a57bc854b277758a7e/original.tif
+    sha256: e45c79a412f727be3fb23e2c795c11b8ae119bd86019d4a57bc854b277758a7e
+    mime: image/tiff
+    bytes: 1104442
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e4/5c/e45c79a412f727be3fb23e2c795c11b8ae119bd86019d4a57bc854b277758a7e/preview-400.a66cc9ca57cc.jpg
+        sha256: a66cc9ca57cce8146a8158ab6d510f448d770ed5e4669b9bf28a566bc9eb1a3e
+        mime: image/jpeg
+        bytes: 27641
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_dqcqda_002.tif
+    path: files/9e/ba/9ebae79e189502569842899668ae38b82bb7c51f44d9c76963cc16f486fa35f0/original.tif
+    sha256: 9ebae79e189502569842899668ae38b82bb7c51f44d9c76963cc16f486fa35f0
+    mime: image/tiff
+    bytes: 8627466
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9e/ba/9ebae79e189502569842899668ae38b82bb7c51f44d9c76963cc16f486fa35f0/preview-400.fc86a6ba6a67.jpg
+        sha256: fc86a6ba6a670e01906dd2eeaa2be2db20265faf529b63d98ec29c041582fb8c
+        mime: image/jpeg
+        bytes: 42615
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01H093GJJ5PNXWS31F6FK87WJF
+type: image
+subtype: print
+title: Ansichtskarte Am Markt, Wootz
+description: Postkarte, gelaufen 1927.
+date: 1738-07-14
+location: Pretzier, Burgstraße
+origin:
+  name: Gustav Schwarz
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Rüterberg
+    type: place
+  - name: Gasthof „Zur Elbe“
+    type: building
+  - name: Sturmschaden 1738
+    type: event
+files:
+  - role: main
+    original_name: scan_812.tif
+    path: files/6f/2b/6f2b5692b1cb2d509e8549410e7e7ceeb7d6859b19f75b51986373999c073bd0/original.tif
+    sha256: 6f2b5692b1cb2d509e8549410e7e7ceeb7d6859b19f75b51986373999c073bd0
+    mime: image/tiff
+    bytes: 17099267
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6f/2b/6f2b5692b1cb2d509e8549410e7e7ceeb7d6859b19f75b51986373999c073bd0/preview-400.d6fe7fc77194.jpg
+        sha256: d6fe7fc77194334cd3be3c0ae470bad636e5727e08be706463fe4b83a57cbb89
+        mime: image/jpeg
+        bytes: 60188
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

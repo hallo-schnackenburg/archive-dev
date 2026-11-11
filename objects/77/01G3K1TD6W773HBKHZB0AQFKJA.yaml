@@ -1,0 +1,29 @@
+id: 01G3K1TD6W773HBKHZB0AQFKJA
+type: image
+subtype: plan
+title: Bauplan Schlachterei 1916
+description: Tusche auf Transparentpapier.
+date: 1916/1925
+location: Arendsee, Schmiede
+parents:
+  - 01HEN36GX2JVN3M54R3NSB7YJF
+files:
+  - role: main
+    original_name: scan_854.tif
+    path: files/fe/e0/fee0d334cc9323a6b286a7cc1ebd6e1affd21103723c4f63f3b8bcb8c52de928/original.tif
+    sha256: fee0d334cc9323a6b286a7cc1ebd6e1affd21103723c4f63f3b8bcb8c52de928
+    mime: image/tiff
+    bytes: 22868305
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fe/e0/fee0d334cc9323a6b286a7cc1ebd6e1affd21103723c4f63f3b8bcb8c52de928/preview-400.030e084212fe.jpg
+        sha256: 030e084212fe47a6e46f8ac6683afbfe7c4434597c842bcb042de2d54a6908ef
+        mime: image/jpeg
+        bytes: 72319
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

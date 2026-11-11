@@ -1,0 +1,37 @@
+id: 01EVMM6P0Z9W505FWXVWY998T7
+type: image
+subtype: photo
+title: Viehmarkt der Fußballverein
+origin:
+  name: Fritz Oelker
+  type: person
+  location: Kapern
+subjects:
+  - name: Wootz
+    type: place
+  - name: Poststelle
+    type: building
+  - name: Seedorf
+    type: place
+parents:
+  - 01F4HYKHGYRFV335Z3P04PNKHW
+files:
+  - role: main
+    original_name: scan_088.tif
+    path: files/7d/20/7d20fd26c2a78fff9204f39b8981c681db1e36fef19f73e6820805a140639420/original.tif
+    sha256: 7d20fd26c2a78fff9204f39b8981c681db1e36fef19f73e6820805a140639420
+    mime: image/tiff
+    bytes: 6975324
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7d/20/7d20fd26c2a78fff9204f39b8981c681db1e36fef19f73e6820805a140639420/preview-400.85d556d898db.jpg
+        sha256: 85d556d898db015890ca96517ccfdc336c701157bb2ddb620d3cd82532fb774a
+        mime: image/jpeg
+        bytes: 31610
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

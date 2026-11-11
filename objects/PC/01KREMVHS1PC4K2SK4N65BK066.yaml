@@ -1,0 +1,42 @@
+id: 01KREMVHS1PC4K2SK4N65BK066
+type: image
+subtype: plan
+title: Deichplan Salzwedel bis Gollensdorf
+description: Mit handschriftlichen Ergänzungen.
+date: "1770"
+location: Lenzen, Am Elbdeich
+origin:
+  name: Erika Lemke
+  type: person
+  location: Gorleben
+owner:
+  name: Hans Detlefs
+  type: person
+  note: Nachlass
+subjects:
+  - name: Bömenzien
+    type: place
+  - name: Försterei
+    type: building
+parents:
+  - 01GZKK3S8ZTHZFVGYM1SQET170
+files:
+  - role: main
+    original_name: scan_430.tif
+    path: files/ed/ce/edce2887026767ddfef21701a62eb5c0466e9d781d52f63c1ad786b5abfa57a5/original.tif
+    sha256: edce2887026767ddfef21701a62eb5c0466e9d781d52f63c1ad786b5abfa57a5
+    mime: image/tiff
+    bytes: 7183775
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ed/ce/edce2887026767ddfef21701a62eb5c0466e9d781d52f63c1ad786b5abfa57a5/preview-400.a7c92fd16f4f.jpg
+        sha256: a7c92fd16f4fde15fed91a7589db0bb9fb9c527af6f48a5e917433615f994d87
+        mime: image/jpeg
+        bytes: 37512
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

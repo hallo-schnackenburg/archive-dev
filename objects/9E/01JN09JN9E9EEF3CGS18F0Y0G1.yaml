@@ -1,0 +1,35 @@
+id: 01JN09JN9E9EEF3CGS18F0Y0G1
+type: image
+subtype: plan
+title: Lageplan Gärtnerei, Hitzacker
+date: 1777-02-17
+location: Seedorf, Hafenstraße
+geocode:
+  lat: 53.0774
+  lon: 11.5517
+  precision: street
+  source: osm
+origin:
+  name: Karl Schwarz
+  type: person
+  location: Hitzacker
+files:
+  - role: main
+    original_name: scan_020.tif
+    path: files/f9/9a/f99abe397a644256efe3e0b9ef042f802dd9ce2fe99cee3d80a30e4a2cc90789/original.tif
+    sha256: f99abe397a644256efe3e0b9ef042f802dd9ce2fe99cee3d80a30e4a2cc90789
+    mime: image/tiff
+    bytes: 23653913
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f9/9a/f99abe397a644256efe3e0b9ef042f802dd9ce2fe99cee3d80a30e4a2cc90789/preview-400.9b24b5181200.jpg
+        sha256: 9b24b51812008ee4b87314dbd309b2bf0164ed13737a66697ddfb977c972ca77
+        mime: image/jpeg
+        bytes: 77167
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

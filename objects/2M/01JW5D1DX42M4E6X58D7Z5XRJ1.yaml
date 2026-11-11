@@ -1,0 +1,36 @@
+id: 01JW5D1DX42M4E6X58D7Z5XRJ1
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Laase
+description: Tusche auf Transparentpapier.
+date: 1880?
+location: Gartow, Gemeindehaus
+origin:
+  name: Ilse Wegner
+  type: person
+  location: Wootz
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Arendsee
+    type: place
+files:
+  - role: main
+    original_name: scan_261.tif
+    path: files/02/ad/02ad8d99b89a18e5d8387a9d20f023171b1664c02b6d9f368048815ffc9951f3/original.tif
+    sha256: 02ad8d99b89a18e5d8387a9d20f023171b1664c02b6d9f368048815ffc9951f3
+    mime: image/tiff
+    bytes: 19967549
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/02/ad/02ad8d99b89a18e5d8387a9d20f023171b1664c02b6d9f368048815ffc9951f3/preview-400.1e43d4af190b.jpg
+        sha256: 1e43d4af190b7a952a33138f343934086ca709d7c34bb1edf552e042b1e5e225
+        mime: image/jpeg
+        bytes: 86640
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

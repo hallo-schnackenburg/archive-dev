@@ -1,0 +1,38 @@
+id: 01HCW807E3YZ23M2VSJ0KQ9Q2M
+type: image
+subtype: plan
+title: Bauplan Schlachterei 1764
+date: "1764"
+location: Gülden, Marktstraße
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 29/029
+  note: Schrank B
+subjects:
+  - name: Otto Lemke
+    type: person
+parents:
+  - 01GBX4DSD6VXD835CH0X8R10EN
+files:
+  - role: main
+    original_name: scan_213.tif
+    path: files/21/98/2198a2671cdd7893432ef2e44f2a1572f347c32bcb68f11ba510c8235332b4fa/original.tif
+    sha256: 2198a2671cdd7893432ef2e44f2a1572f347c32bcb68f11ba510c8235332b4fa
+    mime: image/tiff
+    bytes: 9497056
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/21/98/2198a2671cdd7893432ef2e44f2a1572f347c32bcb68f11ba510c8235332b4fa/preview-400.6e233ef66c1e.jpg
+        sha256: 6e233ef66c1e9d223928357b22c6d3a4749455d26501272866e8efba7e1763af
+        mime: image/jpeg
+        bytes: 86965
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

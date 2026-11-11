@@ -1,0 +1,42 @@
+id: 01JMC5PK3JXFN1R795C2KZV6HB
+type: image
+subtype: drawing
+title: Skizze Seedorf, Hafenstraße, Salzwedel
+date: 1845-08-18
+location: Wootz, Hinter den Höfen
+geocode:
+  lat: 53.0291
+  lon: 11.4871
+  precision: exact
+  source: osm
+origin:
+  name: Erika Fricke
+  type: person
+  location: Wustrow
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Hafen
+    type: building
+  - name: Hans Lemke
+    type: person
+files:
+  - role: main
+    original_name: scan_319.tif
+    path: files/44/4a/444a1bbd8fe165abc5a71154050a5b9735342e6182e19012160a7f727a8fd462/original.tif
+    sha256: 444a1bbd8fe165abc5a71154050a5b9735342e6182e19012160a7f727a8fd462
+    mime: image/tiff
+    bytes: 22421098
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/44/4a/444a1bbd8fe165abc5a71154050a5b9735342e6182e19012160a7f727a8fd462/preview-400.82f0323ad030.jpg
+        sha256: 82f0323ad03063256ad5e370ca75d8a6dc32c5058ea25f60a1963a3cfa15db1f
+        mime: image/jpeg
+        bytes: 58401
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

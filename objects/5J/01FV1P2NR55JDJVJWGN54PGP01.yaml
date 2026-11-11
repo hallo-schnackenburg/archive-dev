@@ -1,0 +1,37 @@
+id: 01FV1P2NR55JDJVJWGN54PGP01
+type: image
+subtype: print
+title: Postkarte Arendsee, Schlachterei
+date: 185X
+location: Seedorf, Bahnhofstraße
+origin:
+  name: Dieter Voss
+  type: person
+  location: Restorf
+subjects:
+  - name: Restorf
+    type: place
+  - name: Gemeindehaus
+    type: building
+  - name: Sportplatz
+    type: building
+files:
+  - role: main
+    original_name: scan_048.tif
+    path: files/6a/ed/6aed7c2d8abd520e0aff8985390adf293a63548ab60cab49c2e431457910a2fc/original.tif
+    sha256: 6aed7c2d8abd520e0aff8985390adf293a63548ab60cab49c2e431457910a2fc
+    mime: image/tiff
+    bytes: 22306145
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6a/ed/6aed7c2d8abd520e0aff8985390adf293a63548ab60cab49c2e431457910a2fc/preview-400.b1ce16d7bd82.jpg
+        sha256: b1ce16d7bd82b3c657a81ce2de549ccc315bd3875b674ff87d8a525eab21ccbf
+        mime: image/jpeg
+        bytes: 83717
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

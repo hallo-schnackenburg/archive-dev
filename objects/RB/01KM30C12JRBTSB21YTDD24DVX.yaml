@@ -1,0 +1,51 @@
+id: 01KM30C12JRBTSB21YTDD24DVX
+type: image
+subtype: photo
+title: Richtfest der Bürgerverein
+description: Farbfoto, leicht verblasst.
+date: "1921"
+location: Holtorf, Dorfstraße
+geocode:
+  lat: 52.9531
+  lon: 11.6997
+  precision: town
+  source: osm
+origin:
+  name: Hans Hennings
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F/Mappe 8/005
+subjects:
+  - name: Schlachterei
+    type: building
+  - name: Friedhofskapelle
+    type: building
+  - name: Gülden
+    type: place
+parents:
+  - 01G8B1RBKCP0JCJ0TQ3WYMBBPZ
+files:
+  - role: main
+    original_name: P5433.jpg
+    path: files/4a/27/4a27fa6d5bf124694814a1a9bd5ea86935d1935f1594733ab58a17e2e4f3826d/original.jpg
+    sha256: 4a27fa6d5bf124694814a1a9bd5ea86935d1935f1594733ab58a17e2e4f3826d
+    mime: image/jpeg
+    bytes: 15423238
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/4a/27/4a27fa6d5bf124694814a1a9bd5ea86935d1935f1594733ab58a17e2e4f3826d/preview-400.7acb86c2f3ee.jpg
+        sha256: 7acb86c2f3ee3c3533e759ae9e4d132ef240b9552ec225c0200d16428fc35d8e
+        mime: image/jpeg
+        bytes: 26906
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

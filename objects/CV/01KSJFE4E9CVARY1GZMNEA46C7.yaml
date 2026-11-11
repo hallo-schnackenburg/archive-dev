@@ -1,0 +1,39 @@
+id: 01KSJFE4E9CVARY1GZMNEA46C7
+type: image
+subtype: print
+title: Lithographie Dorfschule, Wootz
+description: Kupferstich, koloriert.
+location: Brünkendorf, Deichstraße
+origin:
+  name: Ernst Dierks
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Cumlosen
+    type: place
+  - name: Bömenzien
+    type: place
+  - name: Erntedankfest 1707
+    type: event
+parents:
+  - 01GV8MKHYPAWB1MAEXCSAW38CR
+files:
+  - role: main
+    original_name: scan_179.tif
+    path: files/e5/64/e564104760f479b0bf14a63fb58fcd63f30e99e724adf783229cacf48803449b/original.tif
+    sha256: e564104760f479b0bf14a63fb58fcd63f30e99e724adf783229cacf48803449b
+    mime: image/tiff
+    bytes: 12265648
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e5/64/e564104760f479b0bf14a63fb58fcd63f30e99e724adf783229cacf48803449b/preview-400.d5c1bffc2006.jpg
+        sha256: d5c1bffc20068fa21d9a37b9f7c99f6e5eb40ce921ac3355b0d9df46cf8324b6
+        mime: image/jpeg
+        bytes: 79190
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

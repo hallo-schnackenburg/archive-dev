@@ -1,0 +1,43 @@
+id: 01JTPQGZXCD43076DMC614Q7ZJ
+type: image
+subtype: photo
+title: Karl Jeß vor dem Schmiede
+description: Abzug im Format 10 x 15 cm.
+date: 1909-06-14
+location: Arendsee, Dorfteich
+geocode:
+  lat: 53.0667
+  lon: 11.5324
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Familie Lemke
+    type: person
+    location: Gartow
+  reference: Br/Album 7/036
+subjects:
+  - name: Kindergarten
+    type: building
+parents:
+  - 01FSR5RWMB3S1C3C5MHAYVRE65
+files:
+  - role: main
+    original_name: P8194.jpg
+    path: files/d5/47/d5471046555c18d52b177d09307e7365849bbec3ea580ea6c7c67775b6c75f76/original.jpg
+    sha256: d5471046555c18d52b177d09307e7365849bbec3ea580ea6c7c67775b6c75f76
+    mime: image/jpeg
+    bytes: 13221710
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d5/47/d5471046555c18d52b177d09307e7365849bbec3ea580ea6c7c67775b6c75f76/preview-400.03f2fea533aa.jpg
+        sha256: 03f2fea533aa1770e09cf005ffee6150a04ab75d9473456679e689e497235afe
+        mime: image/jpeg
+        bytes: 71843
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

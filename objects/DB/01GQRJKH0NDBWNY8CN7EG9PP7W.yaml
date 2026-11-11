@@ -1,0 +1,44 @@
+id: 01GQRJKH0NDBWNY8CN7EG9PP7W
+type: image
+subtype: print
+title: Postkarte Kapern, Rathaus
+description: Postkarte, gelaufen 1951.
+date: "1781"
+location: Brünkendorf, Bahnhofstraße
+origin:
+  name: Dieter Meyer
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok 31/026
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Kirche St. Johannis
+    type: building
+  - name: Kegelbahn
+    type: building
+files:
+  - role: main
+    original_name: scan_623.tif
+    path: files/ef/34/ef3440fed2d57797ec521cfffc880c4c1df61644b9a49b9a43aa6e195f5c7a53/original.tif
+    sha256: ef3440fed2d57797ec521cfffc880c4c1df61644b9a49b9a43aa6e195f5c7a53
+    mime: image/tiff
+    bytes: 15371997
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ef/34/ef3440fed2d57797ec521cfffc880c4c1df61644b9a49b9a43aa6e195f5c7a53/preview-400.67a6a87a3848.jpg
+        sha256: 67a6a87a384842b76eb51534535764fd2f647d4d4c5119c0aa7d22dfc1bc2c72
+        mime: image/jpeg
+        bytes: 86125
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,52 @@
+id: 01GQBDEXT0P214Q0H423Z10BDZ
+type: image
+subtype: photo
+title: Blick vom Rathaus auf das Sparkasse
+description: Abzug im Format 10 x 15 cm.
+date: 1893~
+location: Dömitz, Am Markt
+geocode:
+  lat: 52.9505
+  lon: 11.6455
+  precision: street
+  source: osm
+origin:
+  name: Anni Garms
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Mappe 17/107
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v29328
+subjects:
+  - name: Wassermühle
+    type: building
+  - name: Pumpenhaus
+    type: building
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+parents:
+  - 01KTYRCAK48GPD0VE0FWRMS98S
+files:
+  - role: main
+    original_name: foto_6115.jpg
+    path: files/87/0a/870af2c2495edef406c5567bda4f30594d7c7faba7a92a00c6b08c2166fcfa10/original.jpg
+    sha256: 870af2c2495edef406c5567bda4f30594d7c7faba7a92a00c6b08c2166fcfa10
+    mime: image/jpeg
+    bytes: 2469368
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/87/0a/870af2c2495edef406c5567bda4f30594d7c7faba7a92a00c6b08c2166fcfa10/preview-400.5a4bf8896443.jpg
+        sha256: 5a4bf8896443766a5755409f31fdb462b3ab32d5628ebd4cc977fb08f6af8339
+        mime: image/jpeg
+        bytes: 25751
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

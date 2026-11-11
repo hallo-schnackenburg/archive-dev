@@ -1,0 +1,39 @@
+id: 01FFCEZTDMHMBBDJDFQBRBJQHJ
+type: image
+subtype: print
+title: Lithographie Schützenhaus, Brünkendorf
+description: Lithographie, Rand beschnitten.
+date: 1915-10
+location: Lüchow, Dorfschule
+geocode:
+  lat: 53.0533
+  lon: 11.4715
+  precision: town
+  source: osm
+origin:
+  name: Walter Bohlmann
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Dorfkrug
+    type: building
+files:
+  - role: main
+    original_name: scan_057.tif
+    path: files/be/0d/be0db17ea928a19a01dc716c334d619d594e9347e831301ca91c3ee03e321b53/original.tif
+    sha256: be0db17ea928a19a01dc716c334d619d594e9347e831301ca91c3ee03e321b53
+    mime: image/tiff
+    bytes: 22249799
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/be/0d/be0db17ea928a19a01dc716c334d619d594e9347e831301ca91c3ee03e321b53/preview-400.d82d2ff93852.jpg
+        sha256: d82d2ff9385292f7fa4570aa3a59cf81a4fed9b71aecdddca87d448a958ed857
+        mime: image/jpeg
+        bytes: 21541
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

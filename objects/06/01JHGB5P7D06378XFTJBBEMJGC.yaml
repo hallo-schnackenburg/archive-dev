@@ -1,0 +1,31 @@
+id: 01JHGB5P7D06378XFTJBBEMJGC
+type: image
+subtype: print
+title: Gruß aus Nienwalde
+date: "1956"
+origin:
+  name: Günter Dreyer
+  type: person
+  location: Laase
+parents:
+  - 01JJ7ZAGDW4T3Y162XJ5VXZV21
+files:
+  - role: main
+    original_name: scan_066.tif
+    path: files/1a/11/1a11bc94dff4e0532299e96a0d937a0f39c1abed14389628fa9c2eabb5c7c03c/original.tif
+    sha256: 1a11bc94dff4e0532299e96a0d937a0f39c1abed14389628fa9c2eabb5c7c03c
+    mime: image/tiff
+    bytes: 4015009
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/1a/11/1a11bc94dff4e0532299e96a0d937a0f39c1abed14389628fa9c2eabb5c7c03c/preview-400.5df0c8b8d8d9.jpg
+        sha256: 5df0c8b8d8d925cf902185ea886b3895b7dbac80c759d2924de905385267812d
+        mime: image/jpeg
+        bytes: 49229
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

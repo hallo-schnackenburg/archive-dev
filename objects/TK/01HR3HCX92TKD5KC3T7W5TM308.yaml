@@ -1,0 +1,36 @@
+id: 01HR3HCX92TKD5KC3T7W5TM308
+type: image
+subtype: drawing
+title: Skizze Kapern, Am Markt
+date: 191X
+location: Hitzacker, Deichstraße
+geocode:
+  lat: 52.9006
+  lon: 11.5304
+  precision: exact
+  source: osm
+subjects:
+  - name: Lüchow
+    type: place
+parents:
+  - 01JWWTXH4CV5B4FWTT72A87FM2
+files:
+  - role: main
+    original_name: scan_748.tif
+    path: files/6d/03/6d0331acafaa692eb755f5f5d2e1c124856c2600ce7419a7a4e40804132d7d9e/original.tif
+    sha256: 6d0331acafaa692eb755f5f5d2e1c124856c2600ce7419a7a4e40804132d7d9e
+    mime: image/tiff
+    bytes: 12609226
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6d/03/6d0331acafaa692eb755f5f5d2e1c124856c2600ce7419a7a4e40804132d7d9e/preview-400.c23088ffd5b0.jpg
+        sha256: c23088ffd5b0df3732ff075877046f5fe421e7689a0459103afe4297aefc173e
+        mime: image/jpeg
+        bytes: 81349
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

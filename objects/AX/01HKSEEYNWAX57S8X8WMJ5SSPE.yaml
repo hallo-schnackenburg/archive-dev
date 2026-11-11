@@ -1,0 +1,38 @@
+id: 01HKSEEYNWAX57S8X8WMJ5SSPE
+type: image
+subtype: photo
+title: Heinrich Nitschke, Porträt
+description: Zu sehen sind Ladestraße und Pfarrhaus.
+date: 1900?
+location: Gartow, Kirchstraße
+origin:
+  name: Heinz Brandt
+  type: person
+  location: Havelberg
+subjects:
+  - name: Fährjubiläum 1900
+    type: event
+  - name: Gollensdorf
+    type: place
+  - name: Kartoffelernte 1900
+    type: event
+files:
+  - role: main
+    original_name: P0698.jpg
+    path: files/c2/82/c28213dfbc4e753622b4baa1b3f555853f56618e34c8218659e427cdfd2b8770/original.jpg
+    sha256: c28213dfbc4e753622b4baa1b3f555853f56618e34c8218659e427cdfd2b8770
+    mime: image/jpeg
+    bytes: 9285267
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/c2/82/c28213dfbc4e753622b4baa1b3f555853f56618e34c8218659e427cdfd2b8770/preview-400.42bded5c6330.jpg
+        sha256: 42bded5c6330c8aa2c27cfa5700ed85674e8189b9d93a0e56613a864f7b692fd
+        mime: image/jpeg
+        bytes: 43413
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,51 @@
+id: 01FYABJ7KBW9YDHNK3BXTR2DXV
+type: image
+subtype: plan
+title: Bauplan Schützenhaus 1951
+date: 1951-07-22
+location: Lenzen, Kirchstraße
+geocode:
+  lat: 53.0196
+  lon: 11.5342
+  precision: street
+  source: osm
+origin:
+  name: Dieter Ludolf
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 21/381
+  note: Kellerarchiv
+subjects:
+  - name: Richtfest 1951
+    type: event
+  - name: Wootz
+    type: place
+  - name: Salzwedel
+    type: place
+parents:
+  - 01KB43N3WF3CCAY1BW6XZDFMAY
+files:
+  - role: main
+    original_name: scan_311.tif
+    path: files/50/ea/50ead4587e1afaf00cff45db765865ea6a4f8ee0de0445262c8113ba6f59c78f/original.tif
+    sha256: 50ead4587e1afaf00cff45db765865ea6a4f8ee0de0445262c8113ba6f59c78f
+    mime: image/tiff
+    bytes: 17390743
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/ea/50ead4587e1afaf00cff45db765865ea6a4f8ee0de0445262c8113ba6f59c78f/preview-400.c736d1b79eaa.jpg
+        sha256: c736d1b79eaa4026bcb0f54c16a61a3ea48204770a82cdcf6544cc78f4655d44
+        mime: image/jpeg
+        bytes: 70593
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,62 @@
+id: 01HVYQTKD4K1DFTVA17RHRTZ3C
+type: document
+subtype: note
+title: Rechnung Plate, Dorfkrug
+description: Auf der Rückseite eines Formulars.
+date: "1968"
+location: Lanz, Kaufmannshaus
+geocode:
+  lat: 53.0462
+  lon: 11.5459
+  precision: street
+  source: osm
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Holtorf
+subjects:
+  - name: Elfriede Brandt
+    type: person
+  - name: Restorf
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: note_hrtz3c_001.tif
+    path: files/a5/54/a55477e6848e63612843344e3e5d477576683e00ad6484ec21bdb00fa301bc6c/original.tif
+    sha256: a55477e6848e63612843344e3e5d477576683e00ad6484ec21bdb00fa301bc6c
+    mime: image/tiff
+    bytes: 14342825
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a5/54/a55477e6848e63612843344e3e5d477576683e00ad6484ec21bdb00fa301bc6c/preview-400.4b8d008f519b.jpg
+        sha256: 4b8d008f519b5c7948fada415b4ca6e7059c8e76bbf8ad43f7b3d9e460dce57d
+        mime: image/jpeg
+        bytes: 76098
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_hrtz3c_002.tif
+    path: files/7e/0f/7e0f9b77771c43e93efca5d49427b7104880110f91d50eaefabcc572bea18df6/original.tif
+    sha256: 7e0f9b77771c43e93efca5d49427b7104880110f91d50eaefabcc572bea18df6
+    mime: image/tiff
+    bytes: 8635992
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7e/0f/7e0f9b77771c43e93efca5d49427b7104880110f91d50eaefabcc572bea18df6/preview-400.18b51d7d2d31.jpg
+        sha256: 18b51d7d2d31011df6469ff136d5f07e2cb6a7f2947afe36938e8a5406c5d3cc
+        mime: image/jpeg
+        bytes: 65062
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

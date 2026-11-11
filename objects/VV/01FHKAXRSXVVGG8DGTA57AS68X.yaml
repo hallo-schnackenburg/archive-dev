@@ -1,0 +1,35 @@
+id: 01FHKAXRSXVVGG8DGTA57AS68X
+type: image
+subtype: photo
+title: Kirmes 1905
+date: 1905?
+location: Gorleben, Deichstraße
+subjects:
+  - name: Einweihung 1905
+    type: event
+  - name: Osterfeuer 1905
+    type: event
+  - name: Brunnen am Markt
+    type: building
+parents:
+  - 01F9MQ787B1DZ88NJB119JTN0N
+files:
+  - role: main
+    original_name: IMG_2249.jpg
+    path: files/b2/04/b2043dfe9baf3628413eacdad55747096923e490c0d145cb664142cafd6ec8a1/original.jpg
+    sha256: b2043dfe9baf3628413eacdad55747096923e490c0d145cb664142cafd6ec8a1
+    mime: image/jpeg
+    bytes: 5914981
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b2/04/b2043dfe9baf3628413eacdad55747096923e490c0d145cb664142cafd6ec8a1/preview-400.f2020594f2c1.jpg
+        sha256: f2020594f2c1c0d370ad733050097a5c6d5f9491a39ca099b056b73d6565db77
+        mime: image/jpeg
+        bytes: 84545
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

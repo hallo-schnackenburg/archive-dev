@@ -1,0 +1,43 @@
+id: 01G7WXTHBS5JG0BQM125EMTER3
+type: image
+subtype: drawing
+title: Federzeichnung Hafen, Wootz
+date: 1976/1979
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Bömenzien
+    type: place
+  - name: Horst Lüders
+    type: person
+  - name: Schmiede
+    type: building
+parents:
+  - 01G2TCR62BVVGQGXN7R02P1CQQ
+files:
+  - role: main
+    original_name: scan_979.tif
+    path: files/94/9a/949a0cd266c449a8e2e6ba0922e551b0d9bc32d7b3012a1fc09295beb4950df2/original.tif
+    sha256: 949a0cd266c449a8e2e6ba0922e551b0d9bc32d7b3012a1fc09295beb4950df2
+    mime: image/tiff
+    bytes: 12262085
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/94/9a/949a0cd266c449a8e2e6ba0922e551b0d9bc32d7b3012a1fc09295beb4950df2/preview-400.1594bbeb9c20.jpg
+        sha256: 1594bbeb9c20c556b441c9fc7a73c924e55b152023d0076789e989abe4e2dc62
+        mime: image/jpeg
+        bytes: 72173
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

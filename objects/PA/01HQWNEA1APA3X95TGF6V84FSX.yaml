@@ -1,0 +1,42 @@
+id: 01HQWNEA1APA3X95TGF6V84FSX
+type: image
+subtype: photo
+title: Dorfladen nach dem Einweihung
+description: Zu sehen sind Speicher und Kirche St. Johannis.
+location: Wittenberge, Poststelle
+geocode:
+  lat: 53.0098
+  lon: 11.5052
+  precision: town
+  source: osm
+origin:
+  name: Renate Meyer
+  type: person
+  location: Wustrow
+subjects:
+  - name: Gärtnerei
+    type: building
+  - name: Kindergarten
+    type: building
+parents:
+  - 01GEV5Y4J3FGXYTVXBWZX1MJPG
+files:
+  - role: main
+    original_name: DSC8340.jpg
+    path: files/0d/f1/0df1b573252a4438edf84a3717cd4f967921fe4c518a43b3a18943f92a0d7558/original.jpg
+    sha256: 0df1b573252a4438edf84a3717cd4f967921fe4c518a43b3a18943f92a0d7558
+    mime: image/jpeg
+    bytes: 14606065
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/0d/f1/0df1b573252a4438edf84a3717cd4f967921fe4c518a43b3a18943f92a0d7558/preview-400.26a793c238aa.jpg
+        sha256: 26a793c238aa54a65b2d9a1649796bd80c8bb72942d8640ea1017eeda30b7039
+        mime: image/jpeg
+        bytes: 34988
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,68 @@
+id: 01F8X20RV11A66KJ8VN1ZDWB4B
+type: document
+subtype: letter
+title: Zeugnis für Wilhelm Rieke
+description: Mit Umschlag und Briefmarke.
+date: 1898-08
+location: Schnackenburg, Marktstraße
+geocode:
+  lat: 53.0309
+  lon: 11.5441
+  precision: exact
+  source: osm
+origin:
+  name: Lotte Matthies
+  type: person
+  location: Wittenberge
+recipient: Karl Wegner
+language: de
+subjects:
+  - name: Gollensdorf
+    type: place
+  - name: Dömitz
+    type: place
+  - name: Otto Lemke
+    type: person
+parents:
+  - 01KX0R6PE6GGZKHT99TAR1XJN4
+files:
+  - role: page
+    num: 1
+    original_name: letter_zdwb4b_001.tif
+    path: files/03/28/032829c74192371b66818d0328f061143d4550e0118b5e286dbc0ae0464b5125/original.tif
+    sha256: 032829c74192371b66818d0328f061143d4550e0118b5e286dbc0ae0464b5125
+    mime: image/tiff
+    bytes: 22897108
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/03/28/032829c74192371b66818d0328f061143d4550e0118b5e286dbc0ae0464b5125/preview-400.3ba284135b1c.jpg
+        sha256: 3ba284135b1c48882b52c8a7e09b243ef3cd758ed5d5b6f71a8bc808914ad872
+        mime: image/jpeg
+        bytes: 59284
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_zdwb4b_002.tif
+    path: files/a0/32/a03231f58fb9a870941855b8965c10623fd3d6f2761f256eabc3abce75512110/original.tif
+    sha256: a03231f58fb9a870941855b8965c10623fd3d6f2761f256eabc3abce75512110
+    mime: image/tiff
+    bytes: 12951922
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a0/32/a03231f58fb9a870941855b8965c10623fd3d6f2761f256eabc3abce75512110/preview-400.8b2e4c2a81e8.jpg
+        sha256: 8b2e4c2a81e8b6bbd2b49db8e045c97e29b13b603984bb55b797bac16b2b2766
+        mime: image/jpeg
+        bytes: 77396
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

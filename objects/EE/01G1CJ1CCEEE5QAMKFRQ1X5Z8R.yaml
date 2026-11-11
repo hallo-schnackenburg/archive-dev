@@ -1,0 +1,47 @@
+id: 01G1CJ1CCEEE5QAMKFRQ1X5Z8R
+type: image
+subtype: photo
+title: "Landfrauenverein: Gruppenbild Fährjubiläum"
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1978-04-27
+location: Seedorf, Feuerwehrhaus
+geocode:
+  lat: 53.0318
+  lon: 11.6283
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Mappe 20/044
+subjects:
+  - name: Mühle
+    type: building
+  - name: Hafen
+    type: building
+  - name: Elbdeich
+    type: building
+parents:
+  - 01FZRWF3VCQTN5JHADZZNEJ53B
+files:
+  - role: main
+    original_name: P3314.jpg
+    path: files/17/f2/17f22fd2be0b8343e21319286e235f83470ce6a545172f4857012f5d54de64d0/original.jpg
+    sha256: 17f22fd2be0b8343e21319286e235f83470ce6a545172f4857012f5d54de64d0
+    mime: image/jpeg
+    bytes: 18409795
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/17/f2/17f22fd2be0b8343e21319286e235f83470ce6a545172f4857012f5d54de64d0/preview-400.52cb516253bb.jpg
+        sha256: 52cb516253bb2b3a10cba10af6eb21d1ee3ff119603195ef9ed4c19571e1b5e8
+        mime: image/jpeg
+        bytes: 72237
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

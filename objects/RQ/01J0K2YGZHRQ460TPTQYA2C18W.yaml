@@ -1,0 +1,44 @@
+id: 01J0K2YGZHRQ460TPTQYA2C18W
+type: image
+subtype: plan
+title: Bauplan Molkerei 1799
+date: 1799-07
+location: Salzwedel, Hinter den Höfen
+geocode:
+  lat: 52.963
+  lon: 11.5703
+  precision: town
+  source: osm
+origin:
+  name: Heinz Krüger
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Anni Schulz
+    type: person
+  - name: Cumlosen
+    type: place
+parents:
+  - 01KD000830AWSSZZ7WT8DANPRF
+  - 01KY8J1GDY4VAD5089QJXPNM2S
+files:
+  - role: main
+    original_name: scan_308.tif
+    path: files/91/c3/91c3ef95979f786fa201bd0568f8746343f72013bd13563a6266de97772f18dd/original.tif
+    sha256: 91c3ef95979f786fa201bd0568f8746343f72013bd13563a6266de97772f18dd
+    mime: image/tiff
+    bytes: 16685914
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/91/c3/91c3ef95979f786fa201bd0568f8746343f72013bd13563a6266de97772f18dd/preview-400.225918c1a433.jpg
+        sha256: 225918c1a433f41ed4b46803a984d897d520375a85a888b60c9f9713dc11c5c1
+        mime: image/jpeg
+        bytes: 69895
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

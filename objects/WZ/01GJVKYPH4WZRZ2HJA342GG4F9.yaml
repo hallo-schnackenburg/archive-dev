@@ -1,0 +1,48 @@
+id: 01GJVKYPH4WZRZ2HJA342GG4F9
+type: image
+subtype: photo
+title: Blick vom Torhaus auf das Fähranleger
+date: 1966-01
+location: Rüterberg, Schulstraße
+geocode:
+  lat: 53.052
+  lon: 11.496
+  precision: street
+  source: osm
+origin:
+  name: Erika Kuhlmann
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg/Album 24/073
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+  - name: Dorfschule
+    type: building
+parents:
+  - 01HEN36GX2JVN3M54R3NSB7YJF
+files:
+  - role: main
+    original_name: DSC2367.jpg
+    path: files/df/9b/df9bac175e43fe10c2f591138a5c9f316e97fb04d7bb0e0efe2fd2ede847ad92/original.jpg
+    sha256: df9bac175e43fe10c2f591138a5c9f316e97fb04d7bb0e0efe2fd2ede847ad92
+    mime: image/jpeg
+    bytes: 6068869
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/df/9b/df9bac175e43fe10c2f591138a5c9f316e97fb04d7bb0e0efe2fd2ede847ad92/preview-400.aaa97299771e.jpg
+        sha256: aaa97299771edcc3fb6f32cf305f8b3cb74b62c258fcc9a94368a8123244f674
+        mime: image/jpeg
+        bytes: 37586
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

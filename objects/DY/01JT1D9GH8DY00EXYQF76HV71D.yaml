@@ -1,0 +1,39 @@
+id: 01JT1D9GH8DY00EXYQF76HV71D
+type: image
+subtype: photo
+title: Hermann Wiegmann, Porträt
+date: 1902-05
+origin:
+  name: Hermann Lemke
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Kapern
+    type: place
+parents:
+  - 01K5TW5781NJJRQNS4RN8CYBN2
+files:
+  - role: main
+    original_name: DSC1642.jpg
+    path: files/30/ca/30ca9b9004b53163f2350ff3ed536002e8508ad80eadab0d3c64a515d62a4faa/original.jpg
+    sha256: 30ca9b9004b53163f2350ff3ed536002e8508ad80eadab0d3c64a515d62a4faa
+    mime: image/jpeg
+    bytes: 9032213
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/30/ca/30ca9b9004b53163f2350ff3ed536002e8508ad80eadab0d3c64a515d62a4faa/preview-400.675c6be919f5.jpg
+        sha256: 675c6be919f54bab1d2ec26b071ab3b2c56a398b29cc153d074a2e564c290277
+        mime: image/jpeg
+        bytes: 89021
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

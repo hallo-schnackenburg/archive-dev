@@ -1,0 +1,28 @@
+id: 01HMXRWGADAVZSY5E9CVQ3AAVQ
+type: image
+subtype: plan
+title: Bauplan Gärtnerei 1932
+date: "1932"
+location: Dömitz, Pfarrhaus
+parents:
+  - 01F5WN4D1FQE5PP5MD0YFVKCS4
+files:
+  - role: main
+    original_name: scan_402.tif
+    path: files/48/6a/486a343faa2e035a1a3c6286f6bee0edda319e0382f52c30b47ca3c67b0e25cd/original.tif
+    sha256: 486a343faa2e035a1a3c6286f6bee0edda319e0382f52c30b47ca3c67b0e25cd
+    mime: image/tiff
+    bytes: 25564673
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/48/6a/486a343faa2e035a1a3c6286f6bee0edda319e0382f52c30b47ca3c67b0e25cd/preview-400.bee893406bcb.jpg
+        sha256: bee893406bcb681dd7a2af186417859620f6964c5f8a7dbb9c08d4746e63a011
+        mime: image/jpeg
+        bytes: 59957
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

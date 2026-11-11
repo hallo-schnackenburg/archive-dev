@@ -1,0 +1,66 @@
+id: 01KHB1TVT8BJFR44DFBP41QMPG
+type: document
+subtype: letter
+title: Korrespondenz Ernst Jeß
+description: Maschinenschriftlich, unterschrieben.
+origin:
+  name: Paul Brandt
+  type: person
+  location: Arendsee
+recipient: Ilse Tiedemann
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Br 23/257
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Sparkasse
+    type: building
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+parents:
+  - 01FPG45DMCQ4FJ212ZPBZF1YR1
+files:
+  - role: page
+    num: 1
+    original_name: letter_41qmpg_001.tif
+    path: files/23/18/231804ed5b961999bc53cc3aca169563515af50d45d959219e17627ab83c7dfc/original.tif
+    sha256: 231804ed5b961999bc53cc3aca169563515af50d45d959219e17627ab83c7dfc
+    mime: image/tiff
+    bytes: 9940054
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/23/18/231804ed5b961999bc53cc3aca169563515af50d45d959219e17627ab83c7dfc/preview-400.3c842fb32289.jpg
+        sha256: 3c842fb32289b385e012cef09aad7f07019fd9cd152ecb21ff32d003d5b4bbab
+        mime: image/jpeg
+        bytes: 35735
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_41qmpg_002.tif
+    path: files/c3/e4/c3e4f0473c5a131f35748f65327d56ccfb84e839d2c120d5860db255afa010f0/original.tif
+    sha256: c3e4f0473c5a131f35748f65327d56ccfb84e839d2c120d5860db255afa010f0
+    mime: image/tiff
+    bytes: 9774999
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c3/e4/c3e4f0473c5a131f35748f65327d56ccfb84e839d2c120d5860db255afa010f0/preview-400.2249784c0713.jpg
+        sha256: 2249784c071372316bac9746b997bfaba6f6794217a745e6e07894c7e2045c18
+        mime: image/jpeg
+        bytes: 79755
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

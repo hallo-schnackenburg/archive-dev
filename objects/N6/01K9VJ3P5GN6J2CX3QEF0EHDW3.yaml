@@ -1,0 +1,33 @@
+id: 01K9VJ3P5GN6J2CX3QEF0EHDW3
+type: image
+subtype: photo
+title: Eisgang 1950
+origin:
+  name: Marta Krüger
+  type: person
+  location: Holtorf
+subjects:
+  - name: Lenzen
+    type: place
+parents:
+  - 01F54Y44HWBYAXTTC3F5NVVN21
+files:
+  - role: main
+    original_name: DSC6320.jpg
+    path: files/5b/9b/5b9bec9594216df54fa9ad9bf50ab068b67f5ae7f9c6e3469db42a9595ec3038/original.jpg
+    sha256: 5b9bec9594216df54fa9ad9bf50ab068b67f5ae7f9c6e3469db42a9595ec3038
+    mime: image/jpeg
+    bytes: 19797888
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/5b/9b/5b9bec9594216df54fa9ad9bf50ab068b67f5ae7f9c6e3469db42a9595ec3038/preview-400.164f9b0e60be.jpg
+        sha256: 164f9b0e60be2b419e4975aa08a57f24d447049ff9daa374ebf654794bf0d530
+        mime: image/jpeg
+        bytes: 77370
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

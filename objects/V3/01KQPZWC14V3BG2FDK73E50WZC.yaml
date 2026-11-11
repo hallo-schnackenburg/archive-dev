@@ -1,0 +1,66 @@
+id: 01KQPZWC14V3BG2FDK73E50WZC
+type: document
+subtype: letter
+title: Brief von Hans Voss an Gerda Gaede
+date: 1825-04
+location: Cumlosen, Bahnhofstraße
+origin:
+  name: Uwe Ahrens
+  type: person
+  location: Rüterberg
+language: de
+original:
+  holder:
+    name: Familie Krüger
+    type: person
+    location: Rüterberg
+  reference: F 20/200
+subjects:
+  - name: Schmiede
+    type: building
+  - name: Brigitte Bohlmann
+    type: person
+parents:
+  - 01FZ3FX8WBDRJ86RV9VJDC76PT
+  - 01FDG2W8NWMVK48918J24FXBW9
+files:
+  - role: page
+    num: 1
+    original_name: letter_e50wzc_001.tif
+    path: files/95/41/95416fa6ff9e79d39620a6ac2066733c2b378b928185d7345df01f5f5fe53d47/original.tif
+    sha256: 95416fa6ff9e79d39620a6ac2066733c2b378b928185d7345df01f5f5fe53d47
+    mime: image/tiff
+    bytes: 1881988
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/95/41/95416fa6ff9e79d39620a6ac2066733c2b378b928185d7345df01f5f5fe53d47/preview-400.71c4a7e5e873.jpg
+        sha256: 71c4a7e5e873441dc1edc5b53fb58da1f0fe168f942b859888e9124c417c2d5a
+        mime: image/jpeg
+        bytes: 73497
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_e50wzc_002.tif
+    path: files/13/3a/133ab5de87521a6955143ce8811c51d696656cc87bbeef506c033b9e07e2e92d/original.tif
+    sha256: 133ab5de87521a6955143ce8811c51d696656cc87bbeef506c033b9e07e2e92d
+    mime: image/tiff
+    bytes: 14317725
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/13/3a/133ab5de87521a6955143ce8811c51d696656cc87bbeef506c033b9e07e2e92d/preview-400.d4a1dffe2c1d.jpg
+        sha256: d4a1dffe2c1d00427ac1b72048d18b727cd64c2e6d787fbf1fe3d22d63c074f3
+        mime: image/jpeg
+        bytes: 57771
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

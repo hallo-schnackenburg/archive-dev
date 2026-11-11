@@ -1,0 +1,61 @@
+id: 01GHHSS59VXAFGXAMABAWRAVR9
+type: document
+subtype: letter
+title: Zeugnis für Karl Plate
+description: Mit Umschlag und Briefmarke.
+date: 185X
+location: Kapern, Mühlenweg
+origin:
+  name: Heinrich Rieke
+  type: person
+  location: Salzwedel
+recipient: Dieter Meyer
+language: de
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Planschrank, Fach 3
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v45265
+files:
+  - role: page
+    num: 1
+    original_name: letter_wravr9_001.tif
+    path: files/2d/dc/2ddc3ae9c46535183f62789ae96d2badfecc455507d4c20b11a311fcf234a0dc/original.tif
+    sha256: 2ddc3ae9c46535183f62789ae96d2badfecc455507d4c20b11a311fcf234a0dc
+    mime: image/tiff
+    bytes: 20656468
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/dc/2ddc3ae9c46535183f62789ae96d2badfecc455507d4c20b11a311fcf234a0dc/preview-400.5034181e9445.jpg
+        sha256: 5034181e94453321b00dc13a11a3a740ee769d289651ad2985348998da328b0e
+        mime: image/jpeg
+        bytes: 82185
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_wravr9_002.tif
+    path: files/f5/b5/f5b58965c97d513be8d991560a942033c7031b89f4088a6df132ff476e48a192/original.tif
+    sha256: f5b58965c97d513be8d991560a942033c7031b89f4088a6df132ff476e48a192
+    mime: image/tiff
+    bytes: 16389220
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f5/b5/f5b58965c97d513be8d991560a942033c7031b89f4088a6df132ff476e48a192/preview-400.118b863b58bc.jpg
+        sha256: 118b863b58bc4f48eb76d6378e8898e193e760b615bd7ccf92810ed68c31f20a
+        mime: image/jpeg
+        bytes: 21255
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

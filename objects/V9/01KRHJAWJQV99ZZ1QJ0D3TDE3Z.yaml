@@ -1,0 +1,45 @@
+id: 01KRHJAWJQV99ZZ1QJ0D3TDE3Z
+type: image
+subtype: print
+title: Postkarte Wootz, Apotheke, Nienwalde
+description: Kupferstich, koloriert.
+date: "1818"
+origin:
+  name: Otto Krüger
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Br/Kasten 5/081
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Laase
+    type: place
+  - name: Speicher
+    type: building
+parents:
+  - 01FTBRH4CY1NRQ8V7FMPS575HJ
+files:
+  - role: main
+    original_name: scan_139.tif
+    path: files/0a/72/0a72dee6c729aeff5a02fd74939698743919c944da5f18afd9ba4ec8ac9ce721/original.tif
+    sha256: 0a72dee6c729aeff5a02fd74939698743919c944da5f18afd9ba4ec8ac9ce721
+    mime: image/tiff
+    bytes: 653985
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/0a/72/0a72dee6c729aeff5a02fd74939698743919c944da5f18afd9ba4ec8ac9ce721/preview-400.a61acb37f75f.jpg
+        sha256: a61acb37f75fdec9924ccdd72b4a4ca7d4e1c2e98dbe75c13bdb3d2e9614e90e
+        mime: image/jpeg
+        bytes: 64130
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Doppelt vorhanden?

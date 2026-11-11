@@ -1,0 +1,55 @@
+id: 01HCXV0R61XE2NHQPEKNY5YZE9
+type: document
+subtype: note
+title: Rechnung Mahnke, Fachwerkhaus Marktstraße 4
+description: Auf der Rückseite eines Formulars.
+date: 1947-12
+location: Seedorf, Hinter den Höfen
+geocode:
+  lat: 52.9071
+  lon: 11.6488
+  precision: street
+  source: osm
+origin:
+  name: Karl Schwarz
+  type: person
+  location: Wustrow
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 12/061
+  note: Mappe 12
+subjects:
+  - name: Wassermühle
+    type: building
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+  - name: Gärtnerei
+    type: building
+parents:
+  - 01KHXJPG3828D54ZR9ZE2Z5K94
+  - 01GVFH3549S673SQ9MMEEV7ZGF
+files:
+  - role: page
+    num: 1
+    original_name: note_y5yze9_001.tif
+    path: files/1b/8f/1b8f1b639a0bbf743e1bc664fc734264f4779db16091b9bf3878e858cc7c9ee8/original.tif
+    sha256: 1b8f1b639a0bbf743e1bc664fc734264f4779db16091b9bf3878e858cc7c9ee8
+    mime: image/tiff
+    bytes: 20874387
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1b/8f/1b8f1b639a0bbf743e1bc664fc734264f4779db16091b9bf3878e858cc7c9ee8/preview-400.c76f90115027.jpg
+        sha256: c76f901150277cdea2d1f43b8a7b1c905a396a9fc46f208fee4fa6305a8fafae
+        mime: image/jpeg
+        bytes: 81537
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

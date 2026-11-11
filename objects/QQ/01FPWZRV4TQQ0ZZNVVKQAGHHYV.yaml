@@ -1,0 +1,38 @@
+id: 01FPWZRV4TQQ0ZZNVVKQAGHHYV
+type: image
+subtype: print
+title: Lithographie Elbdeich
+description: Kupferstich, koloriert.
+date: 1939-03-13
+location: Zadrau, Bahnhofstraße
+geocode:
+  lat: 53.0513
+  lon: 11.5476
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+files:
+  - role: main
+    original_name: scan_861.tif
+    path: files/bc/60/bc60e828b5f2fe06209de054548a5512852b9824023e6ba9223e937dedacdf92/original.tif
+    sha256: bc60e828b5f2fe06209de054548a5512852b9824023e6ba9223e937dedacdf92
+    mime: image/tiff
+    bytes: 3290209
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bc/60/bc60e828b5f2fe06209de054548a5512852b9824023e6ba9223e937dedacdf92/preview-400.11251db5a830.jpg
+        sha256: 11251db5a8302217f44ca419a092eaaca01dc7d33c5055177cc6d7d9aefc33be
+        mime: image/jpeg
+        bytes: 47588
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Doppelt vorhanden?

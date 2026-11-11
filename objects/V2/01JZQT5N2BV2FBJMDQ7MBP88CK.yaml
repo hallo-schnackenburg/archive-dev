@@ -1,0 +1,35 @@
+id: 01JZQT5N2BV2FBJMDQ7MBP88CK
+type: image
+subtype: plan
+title: Bauplan Badestelle 1977
+origin:
+  name: Heinrich Behrens
+  type: person
+  location: Arendsee
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Apotheke
+    type: building
+  - name: Hans Rohde
+    type: person
+files:
+  - role: main
+    original_name: scan_654.tif
+    path: files/d7/90/d7900e37cbcbbf73f40f9562ae895e341b3decef36ed13b65338ca6e7e9992d8/original.tif
+    sha256: d7900e37cbcbbf73f40f9562ae895e341b3decef36ed13b65338ca6e7e9992d8
+    mime: image/tiff
+    bytes: 21190509
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/90/d7900e37cbcbbf73f40f9562ae895e341b3decef36ed13b65338ca6e7e9992d8/preview-400.a9e17d86c9f7.jpg
+        sha256: a9e17d86c9f731364d884896ce60953daad266449c6e534b709289b01d347178
+        mime: image/jpeg
+        bytes: 23204
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01K2M13HZ4XSX1XMBZEYKM1PY4
+type: image
+subtype: photo
+title: Schützenhaus in Gorleben
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1928-06
+location: Gülden, Heuberge
+geocode:
+  lat: 52.9418
+  lon: 11.4692
+  precision: town
+  source: osm
+origin:
+  name: Horst Wiegmann
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Ernst Lüders
+    type: person
+  - name: Zollamt
+    type: building
+files:
+  - role: main
+    original_name: scan_154.tif
+    path: files/0f/df/0fdf22431fae6f851b467dce5f37aa18da8e72cfc43d5133da95a092e064282f/original.tif
+    sha256: 0fdf22431fae6f851b467dce5f37aa18da8e72cfc43d5133da95a092e064282f
+    mime: image/tiff
+    bytes: 24873653
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/0f/df/0fdf22431fae6f851b467dce5f37aa18da8e72cfc43d5133da95a092e064282f/preview-400.845c9d63e078.jpg
+        sha256: 845c9d63e078dedf2923a55ada1bdaa8c48c84eda83d0c5f5a7853cab3019e01
+        mime: image/jpeg
+        bytes: 47193
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

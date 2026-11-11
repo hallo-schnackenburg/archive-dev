@@ -1,0 +1,32 @@
+id: 01FCM9HFAS0EGNE9VQ0K0X8GY0
+type: image
+subtype: plan
+title: Deichplan Lenzen bis Gülden
+description: Mit handschriftlichen Ergänzungen.
+date: 1823-02
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg/Album 27/014
+files:
+  - role: main
+    original_name: scan_231.tif
+    path: files/7d/7a/7d7abc3f9dd57905fa37954771d17a58d2aa8b3893569c4ccc5a117e94d8ff97/original.tif
+    sha256: 7d7abc3f9dd57905fa37954771d17a58d2aa8b3893569c4ccc5a117e94d8ff97
+    mime: image/tiff
+    bytes: 9326215
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/7d/7a/7d7abc3f9dd57905fa37954771d17a58d2aa8b3893569c4ccc5a117e94d8ff97/preview-400.1e94b18829f7.jpg
+        sha256: 1e94b18829f79735bd941a6b4c210da9cb5fffa972e6b67395d356f080336b63
+        mime: image/jpeg
+        bytes: 86757
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

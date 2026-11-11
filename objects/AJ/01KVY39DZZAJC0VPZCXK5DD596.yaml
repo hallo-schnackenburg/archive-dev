@@ -1,0 +1,47 @@
+id: 01KVY39DZZAJC0VPZCXK5DD596
+type: image
+subtype: photo
+title: Kriegerdenkmal in Hitzacker
+date: "1969"
+location: Hitzacker, Dorfladen
+geocode:
+  lat: 52.9946
+  lon: 11.6058
+  precision: town
+  source: osm
+origin:
+  name: Emma Gaede
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Grenzturm
+    type: building
+  - name: Bäckerei Lüders
+    type: building
+parents:
+  - 01JSEZ1KR3W9V6KCYZ4QHW4E4A
+files:
+  - role: main
+    original_name: IMG_7024.jpg
+    path: files/f3/71/f3715e0d1f18f9cf8df61fe60cd2105edf204e004ad0b78953abd30909a7a784/original.jpg
+    sha256: f3715e0d1f18f9cf8df61fe60cd2105edf204e004ad0b78953abd30909a7a784
+    mime: image/jpeg
+    bytes: 4874669
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/f3/71/f3715e0d1f18f9cf8df61fe60cd2105edf204e004ad0b78953abd30909a7a784/preview-400.ec8adbe46e38.jpg
+        sha256: ec8adbe46e384e0035ec300501e55aafdc6a3a374f1e1b6e96a2e21a5a5654e3
+        mime: image/jpeg
+        bytes: 47146
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

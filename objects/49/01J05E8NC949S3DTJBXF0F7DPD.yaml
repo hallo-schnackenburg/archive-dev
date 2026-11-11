@@ -1,0 +1,39 @@
+id: 01J05E8NC949S3DTJBXF0F7DPD
+type: image
+subtype: plan
+title: Deichplan Gülden bis Seedorf
+description: Tusche auf Transparentpapier.
+date: "1832"
+location: Bömenzien, Dorfstraße
+origin:
+  name: Erika Nitschke
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Windmühle
+    type: building
+files:
+  - role: main
+    original_name: scan_832.tif
+    path: files/69/8f/698f5c79b288765aeb811c8fe7cc12dda876451c08d5a0cf2087fb932053d007/original.tif
+    sha256: 698f5c79b288765aeb811c8fe7cc12dda876451c08d5a0cf2087fb932053d007
+    mime: image/tiff
+    bytes: 24517415
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/69/8f/698f5c79b288765aeb811c8fe7cc12dda876451c08d5a0cf2087fb932053d007/preview-400.482d667df019.jpg
+        sha256: 482d667df019743c5983b179e60059fd4d4c943d4051f1556a9035ce334fca4b
+        mime: image/jpeg
+        bytes: 66582
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

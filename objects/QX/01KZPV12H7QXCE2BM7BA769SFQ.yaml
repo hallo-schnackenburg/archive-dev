@@ -1,0 +1,47 @@
+id: 01KZPV12H7QXCE2BM7BA769SFQ
+type: image
+subtype: print
+title: "Holzschnitt: Schützenfest"
+date: 1849-10-16
+location: Salzwedel, Apotheke
+geocode:
+  lat: 52.9373
+  lon: 11.6994
+  precision: region
+  source: osm
+origin:
+  name: Friedrich Fricke
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Plan/Kasten 7/081
+  note: Planschrank, Fach 3
+subjects:
+  - name: Havelberg
+    type: place
+parents:
+  - 01FVB0ZV7D5S8N9566PY0PJ70J
+files:
+  - role: main
+    original_name: scan_107.tif
+    path: files/b2/4d/b24de49186e2ea2dd9339831f2590e6f6d6272afe41c49a7fde19bf9f8a47cd6/original.tif
+    sha256: b24de49186e2ea2dd9339831f2590e6f6d6272afe41c49a7fde19bf9f8a47cd6
+    mime: image/tiff
+    bytes: 22441759
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b2/4d/b24de49186e2ea2dd9339831f2590e6f6d6272afe41c49a7fde19bf9f8a47cd6/preview-400.294e40ef2deb.jpg
+        sha256: 294e40ef2debd2378761fdde2247c3caea9bd311092383406a8a267b6299c1e3
+        mime: image/jpeg
+        bytes: 26831
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

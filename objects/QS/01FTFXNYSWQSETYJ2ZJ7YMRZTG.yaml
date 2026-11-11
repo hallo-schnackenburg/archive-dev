@@ -1,0 +1,56 @@
+id: 01FTFXNYSWQSETYJ2ZJ7YMRZTG
+type: document
+subtype: note
+title: Quittung für Heinz Brandt
+description: Auf der Rückseite eines Formulars.
+date: 1941-01-16
+location: Wootz, Hafen
+origin:
+  name: Fritz Ahrens
+  type: person
+  location: Dömitz
+language: de
+subjects:
+  - name: Heinrich Schulz
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_ymrztg_001.tif
+    path: files/55/bc/55bc2d82609e2c246170f4f70c70a8c5db6e4fa82b7ab5a79df27e1948782c95/original.tif
+    sha256: 55bc2d82609e2c246170f4f70c70a8c5db6e4fa82b7ab5a79df27e1948782c95
+    mime: image/tiff
+    bytes: 4933376
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/55/bc/55bc2d82609e2c246170f4f70c70a8c5db6e4fa82b7ab5a79df27e1948782c95/preview-400.f37bc6db986f.jpg
+        sha256: f37bc6db986f975188ce0d72dcbe5556af3f750891eb764d8101c5e4cce6d268
+        mime: image/jpeg
+        bytes: 30449
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_ymrztg_002.tif
+    path: files/39/cd/39cd68cba318700f2894e610c59e13f901468007f665bdea6c7d36beda54fbef/original.tif
+    sha256: 39cd68cba318700f2894e610c59e13f901468007f665bdea6c7d36beda54fbef
+    mime: image/tiff
+    bytes: 24577377
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/39/cd/39cd68cba318700f2894e610c59e13f901468007f665bdea6c7d36beda54fbef/preview-400.2eb023cc41e3.jpg
+        sha256: 2eb023cc41e34a77342d2862ffc96969443a179a0542e4e2aafff4746513655e
+        mime: image/jpeg
+        bytes: 77496
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

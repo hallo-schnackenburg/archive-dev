@@ -1,0 +1,39 @@
+id: 01EZ840XDJEYWX1ZQJW6K36D4J
+type: image
+subtype: plan
+title: Bauplan Sportplatz 1752
+description: Mit handschriftlichen Ergänzungen.
+date: 1752-10-10
+origin:
+  name: Erika Lemke
+  type: person
+  location: Gülden
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Sparkasse
+    type: building
+  - name: Dieter Matthies
+    type: person
+parents:
+  - 01G996YXACFHKB4DAGY313MZ7B
+files:
+  - role: main
+    original_name: scan_411.tif
+    path: files/c7/e7/c7e766916d4a67249fc24205af742c7d3f6ca26a1986e02d6bd0b2bc2c516937/original.tif
+    sha256: c7e766916d4a67249fc24205af742c7d3f6ca26a1986e02d6bd0b2bc2c516937
+    mime: image/tiff
+    bytes: 26331450
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c7/e7/c7e766916d4a67249fc24205af742c7d3f6ca26a1986e02d6bd0b2bc2c516937/preview-400.0ee9c2fd85b9.jpg
+        sha256: 0ee9c2fd85b9176b27fbfe5c36657688063b3368f3ccb726aee86da7fc969755
+        mime: image/jpeg
+        bytes: 29831
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

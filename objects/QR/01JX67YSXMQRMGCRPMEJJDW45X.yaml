@@ -1,0 +1,44 @@
+id: 01JX67YSXMQRMGCRPMEJJDW45X
+type: image
+subtype: photo
+title: Paul Meyer, Porträt
+date: "1931"
+location: Wittenberge, Am Markt
+geocode:
+  lat: 53.0113
+  lon: 11.5904
+  precision: exact
+  source: osm
+origin:
+  name: Rudolf Bohlmann
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Familie Sievers
+    type: person
+    location: Nienwalde
+  reference: Slg 19/373
+  note: Regal 4, Kiste 2
+parents:
+  - 01G5CJBY3RS88Q2T2XPXK8Z7QS
+files:
+  - role: main
+    original_name: P3789.jpg
+    path: files/78/10/7810e9250f6248faebfe181b155d3d0fce5b37f870d7524457d253443587c86c/original.jpg
+    sha256: 7810e9250f6248faebfe181b155d3d0fce5b37f870d7524457d253443587c86c
+    mime: image/jpeg
+    bytes: 13523803
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/78/10/7810e9250f6248faebfe181b155d3d0fce5b37f870d7524457d253443587c86c/preview-400.08f390a7fa4f.jpg
+        sha256: 08f390a7fa4fc78c484527214dacdb98b24ddb0b25d22ccd2b9395c47b2cdd85
+        mime: image/jpeg
+        bytes: 77585
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

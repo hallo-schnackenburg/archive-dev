@@ -1,0 +1,42 @@
+id: 01KJ66J843YW649EHHYMCGVAVR
+type: image
+subtype: photo
+title: Dorfteich in Zadrau
+origin:
+  name: Dieter Ahrens
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 15/259
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v98520
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+  - name: Hochzeit 1910
+    type: event
+  - name: Hedwig Pape
+    type: person
+files:
+  - role: main
+    original_name: scan_516.tif
+    path: files/bd/ed/bdedc89809cf39f969538ac358e1e5d4fea78ee65c649faf651776c063b983e1/original.tif
+    sha256: bdedc89809cf39f969538ac358e1e5d4fea78ee65c649faf651776c063b983e1
+    mime: image/tiff
+    bytes: 22237071
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/bd/ed/bdedc89809cf39f969538ac358e1e5d4fea78ee65c649faf651776c063b983e1/preview-400.a5148e982592.jpg
+        sha256: a5148e982592442c2a76f9952ada61e8e1618f96c1d7b42f6a8a3eb829c745ab
+        mime: image/jpeg
+        bytes: 31294
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

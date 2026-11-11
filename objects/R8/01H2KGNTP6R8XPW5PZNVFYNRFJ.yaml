@@ -1,0 +1,36 @@
+id: 01H2KGNTP6R8XPW5PZNVFYNRFJ
+type: image
+subtype: plan
+title: Lageplan Poststelle, Havelberg
+date: "1833"
+origin:
+  name: Fritz Plate
+  type: person
+  location: Arendsee
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+  - name: Emma Detlefs
+    type: person
+parents:
+  - 01J8EFPX4R9MB05RW08DV43E95
+files:
+  - role: main
+    original_name: scan_730.tif
+    path: files/f8/af/f8af502d5ed3b70ce5ec76fd991555a28c09b467edb005fa89a0cdf9b58a52a0/original.tif
+    sha256: f8af502d5ed3b70ce5ec76fd991555a28c09b467edb005fa89a0cdf9b58a52a0
+    mime: image/tiff
+    bytes: 5138115
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f8/af/f8af502d5ed3b70ce5ec76fd991555a28c09b467edb005fa89a0cdf9b58a52a0/preview-400.161a00de0058.jpg
+        sha256: 161a00de0058842b0b87353f1373260f18cc60891806616656723728e9716ce1
+        mime: image/jpeg
+        bytes: 30845
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,35 @@
+id: 01HY1SSBQ2EYSVYN98V5WTPCZR
+type: image
+subtype: print
+title: Ansichtskarte Kirchstraße, Seedorf
+description: Lithographie, Rand beschnitten.
+date: 175X
+origin:
+  name: Berta Plate
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Familie Ahrens
+    type: person
+    location: Hitzacker
+files:
+  - role: main
+    original_name: scan_955.tif
+    path: files/6a/28/6a28d749f5233ed5da0b9f5896cb188b1c64defbdb962793f11d9b8f83882e60/original.tif
+    sha256: 6a28d749f5233ed5da0b9f5896cb188b1c64defbdb962793f11d9b8f83882e60
+    mime: image/tiff
+    bytes: 7957031
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6a/28/6a28d749f5233ed5da0b9f5896cb188b1c64defbdb962793f11d9b8f83882e60/preview-400.48508409d1de.jpg
+        sha256: 48508409d1de24ae075ac0618e430d3db4f3bf197cce7ad6640eb656e01c0ef3
+        mime: image/jpeg
+        bytes: 24989
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

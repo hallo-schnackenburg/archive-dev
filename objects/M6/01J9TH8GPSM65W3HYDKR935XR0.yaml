@@ -1,0 +1,35 @@
+id: 01J9TH8GPSM65W3HYDKR935XR0
+type: image
+subtype: plan
+title: Bauplan Gasthof „Zur Elbe“ 1817
+description: Mit handschriftlichen Ergänzungen.
+date: 1817~
+location: Havelberg, Dorfstraße
+geocode:
+  lat: 53.0856
+  lon: 11.4855
+  precision: region
+  source: osm
+subjects:
+  - name: Gülden
+    type: place
+files:
+  - role: main
+    original_name: scan_188.tif
+    path: files/73/13/731352cbeea4e0b7f72ce81f17655ae91a642bb6e24a353621f631288fac88f0/original.tif
+    sha256: 731352cbeea4e0b7f72ce81f17655ae91a642bb6e24a353621f631288fac88f0
+    mime: image/tiff
+    bytes: 3967223
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/73/13/731352cbeea4e0b7f72ce81f17655ae91a642bb6e24a353621f631288fac88f0/preview-400.86ddbf34553b.jpg
+        sha256: 86ddbf34553b8607ed81479d0660d7db028ec7fa7bdd8908beeb053813f881b4
+        mime: image/jpeg
+        bytes: 85237
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

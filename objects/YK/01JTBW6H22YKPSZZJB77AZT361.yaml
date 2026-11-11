@@ -1,0 +1,66 @@
+id: 01JTBW6H22YKPSZZJB77AZT361
+type: document
+subtype: letter
+title: Brief von Brigitte Schwarz an Rudolf Wiegmann
+description: Handschriftlich, 2 Seiten.
+date: 1805?
+location: Lanz, Gemeindehaus
+geocode:
+  lat: 52.9322
+  lon: 11.4697
+  precision: town
+  source: osm
+origin:
+  name: Hans Ahrens
+  type: person
+  location: Wootz
+recipient: Rudolf Krüger
+language: de
+subjects:
+  - name: Dorfschule
+    type: building
+  - name: Schmiede
+    type: building
+  - name: Helga Wegner
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_azt361_001.tif
+    path: files/d8/41/d8417dbf41bfc116616b0690478ec4a6bfa48a41f3d4c2259e4b827fbc60813b/original.tif
+    sha256: d8417dbf41bfc116616b0690478ec4a6bfa48a41f3d4c2259e4b827fbc60813b
+    mime: image/tiff
+    bytes: 14326050
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d8/41/d8417dbf41bfc116616b0690478ec4a6bfa48a41f3d4c2259e4b827fbc60813b/preview-400.afc4c1271fb4.jpg
+        sha256: afc4c1271fb4d658de18550f443ef99bb3e0a47af87ff550e3475db3278589de
+        mime: image/jpeg
+        bytes: 73695
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_azt361_002.tif
+    path: files/22/b5/22b5f38c2969884e1d25594b3953874416b1b2925cb790426633cb704ba3a96f/original.tif
+    sha256: 22b5f38c2969884e1d25594b3953874416b1b2925cb790426633cb704ba3a96f
+    mime: image/tiff
+    bytes: 10237298
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/22/b5/22b5f38c2969884e1d25594b3953874416b1b2925cb790426633cb704ba3a96f/preview-400.b67cd88c10d0.jpg
+        sha256: b67cd88c10d078865ecfb29b3b0805632fcfb9f1935a6ef417099eca0882baec
+        mime: image/jpeg
+        bytes: 85818
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

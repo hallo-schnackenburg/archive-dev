@@ -1,0 +1,47 @@
+id: 01HDCN217RAQS8DP0704QZPXZ5
+type: image
+subtype: photo
+title: Hochzeit 1961
+description: Farbfoto, leicht verblasst.
+date: 1961-12
+location: Nienwalde, Hinter den Höfen
+geocode:
+  lat: 52.9034
+  lon: 11.5851
+  precision: exact
+  source: osm
+origin:
+  name: Lotte Garms
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 27/107
+subjects:
+  - name: Osterfeuer 1961
+    type: event
+parents:
+  - 01F59EC1VBHH3WNCG7D36FBJZ4
+files:
+  - role: main
+    original_name: scan_129.tif
+    path: files/93/79/93799b10b0b6111a7143148232abd805cebe85386272d66185e104c0d4687db0/original.tif
+    sha256: 93799b10b0b6111a7143148232abd805cebe85386272d66185e104c0d4687db0
+    mime: image/tiff
+    bytes: 2668458
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/93/79/93799b10b0b6111a7143148232abd805cebe85386272d66185e104c0d4687db0/preview-400.3a8b2ed74e98.jpg
+        sha256: 3a8b2ed74e9889f6d3a73c8615657b426083d7bade4f7a6146b9fe8ea235f58b
+        mime: image/jpeg
+        bytes: 63196
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

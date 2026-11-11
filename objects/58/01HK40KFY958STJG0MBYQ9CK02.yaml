@@ -1,0 +1,35 @@
+id: 01HK40KFY958STJG0MBYQ9CK02
+type: image
+subtype: print
+title: Postkarte Restorf, Molkerei
+date: 1871-09-22
+location: Wootz, Gartenstraße
+origin:
+  name: Rudolf Ahrens
+  type: person
+  location: Dömitz
+subjects:
+  - name: Dorfladen
+    type: building
+parents:
+  - 01HPH5JAF3E8TMGWEPVY0VVSZH
+files:
+  - role: main
+    original_name: scan_892.tif
+    path: files/97/f3/97f3b17e3def35419f7247a93e86e90fad1a78f6e5fadb52aedea1edd7070776/original.tif
+    sha256: 97f3b17e3def35419f7247a93e86e90fad1a78f6e5fadb52aedea1edd7070776
+    mime: image/tiff
+    bytes: 24210036
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/97/f3/97f3b17e3def35419f7247a93e86e90fad1a78f6e5fadb52aedea1edd7070776/preview-400.c5e6deec74b2.jpg
+        sha256: c5e6deec74b2b44bba7a415db33cf446eff87d397788e15d7f442689e1dd8108
+        mime: image/jpeg
+        bytes: 84962
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

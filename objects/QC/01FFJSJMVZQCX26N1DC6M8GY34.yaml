@@ -1,0 +1,39 @@
+id: 01FFJSJMVZQCX26N1DC6M8GY34
+type: image
+subtype: plan
+title: Deichplan Holtorf bis Laase
+date: 1944~
+location: Gartow, Gutshaus
+origin:
+  name: Brigitte Jeß
+  type: person
+  location: Seedorf
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Havelberg
+    type: place
+  - name: Kindergartenfest 1944
+    type: event
+parents:
+  - 01JN30QK7AA815KKZN3ATXX5V3
+files:
+  - role: main
+    original_name: scan_230.tif
+    path: files/67/07/67074cc63951e5e912891045da335d1e0caed3c21502eda429c0ea07523b2aa1/original.tif
+    sha256: 67074cc63951e5e912891045da335d1e0caed3c21502eda429c0ea07523b2aa1
+    mime: image/tiff
+    bytes: 1454558
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/67/07/67074cc63951e5e912891045da335d1e0caed3c21502eda429c0ea07523b2aa1/preview-400.edbed764738c.jpg
+        sha256: edbed764738cac313d519c9b1690db18ca264cfbec1aaa690bd7a7d489b03039
+        mime: image/jpeg
+        bytes: 20079
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

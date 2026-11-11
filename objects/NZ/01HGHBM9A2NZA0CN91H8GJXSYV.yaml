@@ -1,0 +1,41 @@
+id: 01HGHBM9A2NZA0CN91H8GJXSYV
+type: image
+subtype: print
+title: Postkarte Brünkendorf, Badestelle
+description: Lithographie, Rand beschnitten.
+date: "1855"
+origin:
+  name: Anni Matthies
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Familie Behrens
+    type: person
+    location: Lenzen
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Kirche St. Johannis
+    type: building
+parents:
+  - 01F0BRQ2JGN7DY37JCS6H3RZJF
+files:
+  - role: main
+    original_name: scan_488.tif
+    path: files/62/62/626205b24e5759c88d3819fa25cbaead6521c15812f30e1bc00cf02b10574fe5/original.tif
+    sha256: 626205b24e5759c88d3819fa25cbaead6521c15812f30e1bc00cf02b10574fe5
+    mime: image/tiff
+    bytes: 19904530
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/62/62/626205b24e5759c88d3819fa25cbaead6521c15812f30e1bc00cf02b10574fe5/preview-400.ef26ace0fc47.jpg
+        sha256: ef26ace0fc47f290b325470a0f6ea382dd3f5198d24f9ed6e9206a782ee4ff7f
+        mime: image/jpeg
+        bytes: 26464
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

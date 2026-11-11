@@ -1,0 +1,38 @@
+id: 01G1FD6S6NHNMSARACF6YRQSV9
+type: image
+subtype: drawing
+title: Skizze Laase, Hafenstraße
+description: Federzeichnung, laviert.
+date: "1885"
+location: Gorleben, Am Markt
+origin:
+  name: Emma Schwarz
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Heinrich Schulz
+    type: person
+  - name: Pretzier
+    type: place
+parents:
+  - 01FW1Z22ADA66X2V6627E3G693
+files:
+  - role: main
+    original_name: scan_302.tif
+    path: files/a4/f9/a4f9ae941538f6ea81f179e1964413fda5eef68784c66a14253f4f64e304f6c5/original.tif
+    sha256: a4f9ae941538f6ea81f179e1964413fda5eef68784c66a14253f4f64e304f6c5
+    mime: image/tiff
+    bytes: 6505161
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a4/f9/a4f9ae941538f6ea81f179e1964413fda5eef68784c66a14253f4f64e304f6c5/preview-400.b9d384d42367.jpg
+        sha256: b9d384d42367bc98957dda95a7dae732293eed8264a0acfb8ffd689cb99f3ba5
+        mime: image/jpeg
+        bytes: 57831
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

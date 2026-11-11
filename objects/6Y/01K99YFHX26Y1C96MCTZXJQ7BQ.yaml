@@ -1,0 +1,31 @@
+id: 01K99YFHX26Y1C96MCTZXJQ7BQ
+type: image
+subtype: plan
+title: Katasterblatt Cohrs
+description: Maßstab 1:2500.
+date: 1916-09
+location: Pretzier, Feuerwehrhaus
+origin:
+  name: Emma Krüger
+  type: person
+  location: Pretzier
+files:
+  - role: main
+    original_name: scan_737.tif
+    path: files/e7/a7/e7a7712ccbc802311a9e0ef2e8e7d063d600a5f68f4dde20a323a4d8f1d44975/original.tif
+    sha256: e7a7712ccbc802311a9e0ef2e8e7d063d600a5f68f4dde20a323a4d8f1d44975
+    mime: image/tiff
+    bytes: 19658339
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e7/a7/e7a7712ccbc802311a9e0ef2e8e7d063d600a5f68f4dde20a323a4d8f1d44975/preview-400.14641c11d48f.jpg
+        sha256: 14641c11d48fae605dfa456e19f997eb9dc1ff855a0bb51b9400fd3aa7f449c7
+        mime: image/jpeg
+        bytes: 31263
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

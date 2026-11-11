@@ -1,0 +1,33 @@
+id: 01JKASTXZQXFDQDACCM12YT371
+type: image
+subtype: photo
+title: Hermann Brandt vor dem Gasthof „Zur Elbe“
+description: Farbfoto, leicht verblasst.
+location: Holtorf, Mühlenweg
+subjects:
+  - name: Friedhofskapelle
+    type: building
+  - name: Erika Schulz
+    type: person
+parents:
+  - 01FHAJMC0QDXRYDR1PV64RNJKV
+files:
+  - role: main
+    original_name: IMG_2010.jpg
+    path: files/6a/1a/6a1aeb700e4b6bb6b2de48c9bc0ea096eb7ec3fdba08657dcc137bc2c37a38d1/original.jpg
+    sha256: 6a1aeb700e4b6bb6b2de48c9bc0ea096eb7ec3fdba08657dcc137bc2c37a38d1
+    mime: image/jpeg
+    bytes: 2393035
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/6a/1a/6a1aeb700e4b6bb6b2de48c9bc0ea096eb7ec3fdba08657dcc137bc2c37a38d1/preview-400.1e92fc390966.jpg
+        sha256: 1e92fc390966dd6dc0a9aada0016531613e68b0e5e73fb4c347cff90202dd3c8
+        mime: image/jpeg
+        bytes: 29821
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

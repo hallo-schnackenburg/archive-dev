@@ -1,0 +1,84 @@
+id: 01G7AQDQSSG2NJRMZD1EWDPS7S
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Bürgerverein 1978
+date: 1978-04-09
+location: Bömenzien, Gutshaus
+geocode:
+  lat: 52.9457
+  lon: 11.6803
+  precision: region
+  source: osm
+origin:
+  name: Verbandsversammlung Lanz
+  type: business
+  location: Holtorf
+language: de
+subjects:
+  - name: Mühle
+    type: building
+  - name: Walter Tiedemann
+    type: person
+parents:
+  - 01FC5K4GCY6W41KZKCK9P52A8H
+files:
+  - role: page
+    num: 1
+    original_name: protocol_wdps7s_001.tif
+    path: files/fb/f3/fbf3c22928704a912f750c6e495b8633d65de518cbf325866af15aa1c755f921/original.tif
+    sha256: fbf3c22928704a912f750c6e495b8633d65de518cbf325866af15aa1c755f921
+    mime: image/tiff
+    bytes: 17171597
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fb/f3/fbf3c22928704a912f750c6e495b8633d65de518cbf325866af15aa1c755f921/preview-400.fb77a5f3905b.jpg
+        sha256: fb77a5f3905bf43699abdaa5879ab113eb3294abfafb389dffb89c70dceabb45
+        mime: image/jpeg
+        bytes: 20581
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_wdps7s_002.tif
+    path: files/07/7f/077f8775b94c8aa33c92e3e5453cb18f6d0b34d7661993aaf98812bac1aa4ad2/original.tif
+    sha256: 077f8775b94c8aa33c92e3e5453cb18f6d0b34d7661993aaf98812bac1aa4ad2
+    mime: image/tiff
+    bytes: 15614874
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/7f/077f8775b94c8aa33c92e3e5453cb18f6d0b34d7661993aaf98812bac1aa4ad2/preview-400.07d07b375c06.jpg
+        sha256: 07d07b375c06cd38ce607bfa3af0554d2673e9c2934ca532df56f1064805d46b
+        mime: image/jpeg
+        bytes: 69875
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_wdps7s_003.tif
+    path: files/25/73/25739a1052624a22bbc0d46729b2fc0bd58e84e34fbb37e7a18db01c51e470fc/original.tif
+    sha256: 25739a1052624a22bbc0d46729b2fc0bd58e84e34fbb37e7a18db01c51e470fc
+    mime: image/tiff
+    bytes: 9376758
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/25/73/25739a1052624a22bbc0d46729b2fc0bd58e84e34fbb37e7a18db01c51e470fc/preview-400.6c63e84aea79.jpg
+        sha256: 6c63e84aea79a9da6313d3c6111480da54ff930e01b5d3c04ee5a11591c55f45
+        mime: image/jpeg
+        bytes: 28228
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

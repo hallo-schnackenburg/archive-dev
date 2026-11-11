@@ -1,0 +1,38 @@
+id: 01JFDKVCEWA365281Z03EVX0PZ
+type: image
+subtype: photo
+title: Richtfest 1926
+description: Zu sehen sind Poststelle und Heuberge.
+date: 192X
+location: Nienwalde, Tischlerei Bruns
+origin:
+  name: Ilse Bohlmann
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Poststelle
+    type: building
+  - name: Maifeier 1926
+    type: event
+parents:
+  - 01FRX0E5WBRJXBRWAVHTPJCDE5
+files:
+  - role: main
+    original_name: P9708.jpg
+    path: files/27/a0/27a0189cc711c56112e75e14a6a16220e73d036cb696a592c1fb4ee5916b4238/original.jpg
+    sha256: 27a0189cc711c56112e75e14a6a16220e73d036cb696a592c1fb4ee5916b4238
+    mime: image/jpeg
+    bytes: 5134644
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/27/a0/27a0189cc711c56112e75e14a6a16220e73d036cb696a592c1fb4ee5916b4238/preview-400.186041817b70.jpg
+        sha256: 186041817b70afcd336582542bd4fceb21524edf83fe89eca3398b4a85e00fbc
+        mime: image/jpeg
+        bytes: 60493
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

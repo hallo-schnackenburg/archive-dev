@@ -1,0 +1,63 @@
+id: 01K8220CM4DDCPKBMP8MMNAQ64
+type: document
+subtype: note
+title: Aktennotiz Finanzausschuss, Cumlosen
+description: Beleg mit Stempel.
+date: 1893-08-08
+location: Restorf, Am Markt
+geocode:
+  lat: 53.0081
+  lon: 11.6023
+  precision: region
+  source: osm
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Fotos 22/023
+subjects:
+  - name: Ursula Lemke
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: note_mnaq64_001.tif
+    path: files/bb/71/bb716eace6e7ab61fec37c594cd94199fdcc8c973529c11fb46b532107228dce/original.tif
+    sha256: bb716eace6e7ab61fec37c594cd94199fdcc8c973529c11fb46b532107228dce
+    mime: image/tiff
+    bytes: 11060219
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bb/71/bb716eace6e7ab61fec37c594cd94199fdcc8c973529c11fb46b532107228dce/preview-400.d1691a1c642f.jpg
+        sha256: d1691a1c642ffec00d5d3c66078ef58a261e1732399f3ef23aafde4beb0812c4
+        mime: image/jpeg
+        bytes: 36542
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_mnaq64_002.tif
+    path: files/51/19/511998dae60325447d550d2575395f5b9804f9dcb59d14acdce662726f07d095/original.tif
+    sha256: 511998dae60325447d550d2575395f5b9804f9dcb59d14acdce662726f07d095
+    mime: image/tiff
+    bytes: 10181117
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/51/19/511998dae60325447d550d2575395f5b9804f9dcb59d14acdce662726f07d095/preview-400.710fcfb65fc5.jpg
+        sha256: 710fcfb65fc5495c75b3490af3d93970c85be6711fd789790752154816636158
+        mime: image/jpeg
+        bytes: 89223
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01F92Y7Z1EVPN5A0BGSD2PTH6C
+type: image
+subtype: photo
+title: Erntedankfest 1910
+date: 1910-04
+location: Holtorf, Am Markt
+geocode:
+  lat: 52.9451
+  lon: 11.5425
+  precision: region
+  source: osm
+origin:
+  name: Käthe Wegner
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+parents:
+  - 01F5WN4D1FQE5PP5MD0YFVKCS4
+files:
+  - role: main
+    original_name: IMG_2255.jpg
+    path: files/7a/c2/7ac28a3f6bb1b70dfa63db954b3bab7adad48e368c6fd45f3560afb53b0b70ee/original.jpg
+    sha256: 7ac28a3f6bb1b70dfa63db954b3bab7adad48e368c6fd45f3560afb53b0b70ee
+    mime: image/jpeg
+    bytes: 19351860
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/7a/c2/7ac28a3f6bb1b70dfa63db954b3bab7adad48e368c6fd45f3560afb53b0b70ee/preview-400.d3a9b698c764.jpg
+        sha256: d3a9b698c7640e98d79fd920380947bd90b58b24f72b8bcbcb17b143327266f5
+        mime: image/jpeg
+        bytes: 55774
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

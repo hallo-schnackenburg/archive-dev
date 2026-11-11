@@ -1,0 +1,58 @@
+id: 01GD13M5FM7CB4H9HJ57XSJ34C
+type: document
+subtype: letter
+title: Zeugnis für Brigitte Meyer
+description: Maschinenschriftlich, unterschrieben.
+date: "1824"
+location: Salzwedel, Dorfstraße
+geocode:
+  lat: 53.0453
+  lon: 11.4765
+  precision: town
+  source: osm
+recipient: Emma Gerdes
+language: de
+parents:
+  - 01K5TW5781NJJRQNS4RN8CYBN2
+  - 01F0XSSMANGM9PNX5YW1P1YTG6
+files:
+  - role: page
+    num: 1
+    original_name: letter_xsj34c_001.tif
+    path: files/3a/65/3a65e1d3d0010b006740d408b4949db405d8050e0e407e18c14c0ba8b56ce0f7/original.tif
+    sha256: 3a65e1d3d0010b006740d408b4949db405d8050e0e407e18c14c0ba8b56ce0f7
+    mime: image/tiff
+    bytes: 5373261
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3a/65/3a65e1d3d0010b006740d408b4949db405d8050e0e407e18c14c0ba8b56ce0f7/preview-400.a55b9668400f.jpg
+        sha256: a55b9668400f3cc9fceeb181eceec56eeda933e409d97f32750f0ae597824d40
+        mime: image/jpeg
+        bytes: 45758
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_xsj34c_002.tif
+    path: files/98/b3/98b354188df8a2ceed211fa0a5e0bb35b095bb36395e3f88d8c66c4c50a697bc/original.tif
+    sha256: 98b354188df8a2ceed211fa0a5e0bb35b095bb36395e3f88d8c66c4c50a697bc
+    mime: image/tiff
+    bytes: 7291232
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/98/b3/98b354188df8a2ceed211fa0a5e0bb35b095bb36395e3f88d8c66c4c50a697bc/preview-400.86d760f7be06.jpg
+        sha256: 86d760f7be065445601078abfc60f137fde00afb0afbe79bac65d82591427702
+        mime: image/jpeg
+        bytes: 50218
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

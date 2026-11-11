@@ -1,0 +1,58 @@
+id: 01FHY5A6GG4C63Q9F731FA2C6E
+type: document
+subtype: protocol
+title: Protokoll des Bauausschuss vom 1858
+date: 1858?
+location: Zadrau, Gartenstraße
+geocode:
+  lat: 53.0505
+  lon: 11.5617
+  precision: exact
+  source: osm
+language: de
+subjects:
+  - name: Kartoffelernte 1858
+    type: event
+parents:
+  - 01F0QYSCYKSTCN1NTYT6RNDCR9
+files:
+  - role: page
+    num: 1
+    original_name: protocol_fa2c6e_001.tif
+    path: files/df/40/df409cb5e9ade7c654a7be97347835ed8ba03ef9cfeae65ce80de27f023639b1/original.tif
+    sha256: df409cb5e9ade7c654a7be97347835ed8ba03ef9cfeae65ce80de27f023639b1
+    mime: image/tiff
+    bytes: 14868300
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/df/40/df409cb5e9ade7c654a7be97347835ed8ba03ef9cfeae65ce80de27f023639b1/preview-400.c6d80d0e2af5.jpg
+        sha256: c6d80d0e2af52887d693d0784cbd76b3cd4000f5a309d132dc1c0c904834706e
+        mime: image/jpeg
+        bytes: 34465
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_fa2c6e_002.tif
+    path: files/bf/a7/bfa7e4d4ad568994acb0d1e2d35a9b1be4d645e4ad2d9dfd61f5b23b6f953da0/original.tif
+    sha256: bfa7e4d4ad568994acb0d1e2d35a9b1be4d645e4ad2d9dfd61f5b23b6f953da0
+    mime: image/tiff
+    bytes: 7639385
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bf/a7/bfa7e4d4ad568994acb0d1e2d35a9b1be4d645e4ad2d9dfd61f5b23b6f953da0/preview-400.8009e9be066f.jpg
+        sha256: 8009e9be066f680fdad4713db42f113960f201afeaba862b699c73487a9c1a99
+        mime: image/jpeg
+        bytes: 47483
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

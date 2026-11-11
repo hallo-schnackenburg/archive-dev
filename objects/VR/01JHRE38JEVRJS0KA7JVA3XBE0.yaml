@@ -1,0 +1,50 @@
+id: 01JHRE38JEVRJS0KA7JVA3XBE0
+type: image
+subtype: drawing
+title: Federzeichnung Schmiede
+description: Mit Anmerkungen am Rand.
+date: 1986-05-02
+location: Wootz, Am Markt
+origin:
+  name: Hans Behrens
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 6/275
+owner:
+  name: Otto Lemke
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Einweihung 1986
+    type: event
+  - name: Arendsee
+    type: place
+  - name: Restorf
+    type: place
+parents:
+  - 01KW7A26BTPJQVF2JX2JPDHVMK
+files:
+  - role: main
+    original_name: scan_902.tif
+    path: files/08/4f/084f3eef172a4943989756fb4d514e0f16680eb62866535c8c516e3c7f09dd9a/original.tif
+    sha256: 084f3eef172a4943989756fb4d514e0f16680eb62866535c8c516e3c7f09dd9a
+    mime: image/tiff
+    bytes: 17950330
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/08/4f/084f3eef172a4943989756fb4d514e0f16680eb62866535c8c516e3c7f09dd9a/preview-400.e189fcb80f7c.jpg
+        sha256: e189fcb80f7cd137ef9f0a1df8b4e3d56d2da649e7e5bb74b8eaa72e3e13d21e
+        mime: image/jpeg
+        bytes: 88085
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

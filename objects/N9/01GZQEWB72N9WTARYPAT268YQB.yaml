@@ -1,0 +1,44 @@
+id: 01GZQEWB72N9WTARYPAT268YQB
+type: image
+subtype: plan
+title: Bauplan Dorfladen 1766
+location: Gollensdorf, Hafenstraße
+origin:
+  name: Fritz Behrens
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Fotos 34/292
+subjects:
+  - name: Anni Bohlmann
+    type: person
+  - name: Deicharbeiten 1766
+    type: event
+  - name: Lanz
+    type: place
+parents:
+  - 01JMSDNGA55JGRT5ESX6NS0WKN
+files:
+  - role: main
+    original_name: scan_168.tif
+    path: files/f2/93/f29365df6c9cf907616ba21e723fb6d8dae7e8a1c00c922414c99cd519180ec1/original.tif
+    sha256: f29365df6c9cf907616ba21e723fb6d8dae7e8a1c00c922414c99cd519180ec1
+    mime: image/tiff
+    bytes: 16910980
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f2/93/f29365df6c9cf907616ba21e723fb6d8dae7e8a1c00c922414c99cd519180ec1/preview-400.7a30b4348ca6.jpg
+        sha256: 7a30b4348ca6135401e368af20c822f7bd823d0a9ed8d810e91d9e726c8a0313
+        mime: image/jpeg
+        bytes: 34188
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

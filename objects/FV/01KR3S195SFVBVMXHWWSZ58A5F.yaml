@@ -1,0 +1,30 @@
+id: 01KR3S195SFVBVMXHWWSZ58A5F
+type: image
+subtype: print
+title: Postkarte Lüchow, Ladestraße
+date: 1735~
+location: Pretzier, Poststelle
+origin:
+  name: Detlef Garms
+  type: person
+  location: Dömitz
+files:
+  - role: main
+    original_name: scan_904.tif
+    path: files/84/22/842281c23d24e40761451fe7b27ccda919b95aa707b445c8624fdbb65226c6f6/original.tif
+    sha256: 842281c23d24e40761451fe7b27ccda919b95aa707b445c8624fdbb65226c6f6
+    mime: image/tiff
+    bytes: 17221439
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/84/22/842281c23d24e40761451fe7b27ccda919b95aa707b445c8624fdbb65226c6f6/preview-400.dd77036df534.jpg
+        sha256: dd77036df534328d20987e538d4d3bb6713de37b20aa5e3c5de639a10e1b513b
+        mime: image/jpeg
+        bytes: 21864
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

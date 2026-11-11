@@ -1,0 +1,31 @@
+id: 01JF2RDS7W1PSYEVNCH13NTVFT
+type: image
+subtype: plan
+title: Lageplan Feuerwehrhaus
+description: Tusche auf Transparentpapier.
+date: 1790-08-22
+location: Gartow, Gartenstraße
+origin:
+  name: Karl Plate
+  type: person
+  location: Bömenzien
+files:
+  - role: main
+    original_name: scan_189.tif
+    path: files/af/98/af98dd2fc4df51011eaf7b54f175fd3c315e0bcbd5c2e6a241e6154e1339f8b3/original.tif
+    sha256: af98dd2fc4df51011eaf7b54f175fd3c315e0bcbd5c2e6a241e6154e1339f8b3
+    mime: image/tiff
+    bytes: 1435139
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/af/98/af98dd2fc4df51011eaf7b54f175fd3c315e0bcbd5c2e6a241e6154e1339f8b3/preview-400.47b30e734c8f.jpg
+        sha256: 47b30e734c8f51006845a23bf29afe0b89d0a1120a528fe12601b06efa039a1a
+        mime: image/jpeg
+        bytes: 25925
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

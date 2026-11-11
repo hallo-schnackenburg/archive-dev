@@ -1,0 +1,35 @@
+id: 01J8WW1T5BPB5XHPG4FMAQGYJ4
+type: image
+subtype: drawing
+title: Dorfkrug, Aquarell
+description: Bleistift auf Papier.
+date: 1938-08-26
+origin:
+  name: Karl Pape
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Poststelle
+    type: building
+parents:
+  - 01GRNKDHCV8TZCTNMXGJA4SPF6
+files:
+  - role: main
+    original_name: scan_909.tif
+    path: files/91/50/9150c4e05f3a976ec688639f88166c07972573310019427a79e4d6122fccaa09/original.tif
+    sha256: 9150c4e05f3a976ec688639f88166c07972573310019427a79e4d6122fccaa09
+    mime: image/tiff
+    bytes: 19618608
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/91/50/9150c4e05f3a976ec688639f88166c07972573310019427a79e4d6122fccaa09/preview-400.3b07d7f710cd.jpg
+        sha256: 3b07d7f710cd56e35a1442775186aeb882e2b618d37a8c764dee8ef5fe7a5530
+        mime: image/jpeg
+        bytes: 69677
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

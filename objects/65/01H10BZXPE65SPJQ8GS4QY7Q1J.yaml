@@ -1,0 +1,47 @@
+id: 01H10BZXPE65SPJQ8GS4QY7Q1J
+type: image
+subtype: photo
+title: Friedhofskapelle nach dem Straßenfest
+date: 1896~
+location: Zadrau, Ladestraße
+geocode:
+  lat: 52.9669
+  lon: 11.5546
+  precision: region
+  source: osm
+origin:
+  name: Ilse Pape
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Havelberg
+    type: place
+  - name: Beerdigung 1896
+    type: event
+files:
+  - role: main
+    original_name: scan_964.tif
+    path: files/66/53/66530b0a5d73ef16251a6dd73fc03a9f2200f22b3dcdc1dae2b8031348378319/original.tif
+    sha256: 66530b0a5d73ef16251a6dd73fc03a9f2200f22b3dcdc1dae2b8031348378319
+    mime: image/tiff
+    bytes: 16810177
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/66/53/66530b0a5d73ef16251a6dd73fc03a9f2200f22b3dcdc1dae2b8031348378319/preview-400.da53fd816d44.jpg
+        sha256: da53fd816d44d0b9b772072d8cc27cbdd668e089c99754cec3f5dde1485b4ec8
+        mime: image/jpeg
+        bytes: 79426
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

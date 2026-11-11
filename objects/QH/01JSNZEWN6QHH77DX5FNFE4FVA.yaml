@@ -1,0 +1,38 @@
+id: 01JSNZEWN6QHH77DX5FNFE4FVA
+type: image
+subtype: photo
+title: Hochzeit 1970
+date: "1970"
+location: Lanz, Hinter den Höfen
+geocode:
+  lat: 53.0257
+  lon: 11.6638
+  precision: street
+  source: osm
+subjects:
+  - name: Pretzier
+    type: place
+  - name: Berta Ahrens
+    type: person
+  - name: Arendsee
+    type: place
+files:
+  - role: main
+    original_name: foto_1312.jpg
+    path: files/08/02/0802b5977b795aa806cc58ae1dbb922b5dc8da311aeb45d9a540065858a843ce/original.jpg
+    sha256: 0802b5977b795aa806cc58ae1dbb922b5dc8da311aeb45d9a540065858a843ce
+    mime: image/jpeg
+    bytes: 17511472
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/08/02/0802b5977b795aa806cc58ae1dbb922b5dc8da311aeb45d9a540065858a843ce/preview-400.64021ae57130.jpg
+        sha256: 64021ae5713059a235c9e119c315b7d0e5601e55049863b2a2e3c3332a0e2b2d
+        mime: image/jpeg
+        bytes: 54481
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

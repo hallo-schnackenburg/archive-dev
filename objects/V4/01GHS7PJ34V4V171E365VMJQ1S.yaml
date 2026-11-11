@@ -1,0 +1,44 @@
+id: 01GHS7PJ34V4V171E365VMJQ1S
+type: image
+subtype: photo
+title: Emma Bohlmann vor dem Schlachterei
+date: 1974?
+location: Zadrau, Am Markt
+geocode:
+  lat: 53.092
+  lon: 11.6024
+  precision: region
+  source: osm
+origin:
+  name: Gerda Plate
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 36/313
+subjects:
+  - name: Kirmes 1974
+    type: event
+files:
+  - role: main
+    original_name: scan_321.tif
+    path: files/ba/71/ba7161f0f4d12d17ce4f42544f492bb54cf8d55d53c9bcfbb86281d34427fd77/original.tif
+    sha256: ba7161f0f4d12d17ce4f42544f492bb54cf8d55d53c9bcfbb86281d34427fd77
+    mime: image/tiff
+    bytes: 8752331
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ba/71/ba7161f0f4d12d17ce4f42544f492bb54cf8d55d53c9bcfbb86281d34427fd77/preview-400.57b9eba33b94.jpg
+        sha256: 57b9eba33b9444a5762b83bb1c0db6cca424fc2358c0ea655637f95992c74b1c
+        mime: image/jpeg
+        bytes: 62817
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

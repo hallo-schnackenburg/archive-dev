@@ -1,0 +1,37 @@
+id: 01HFN6QTR0KDZPEXDPS1MX4R2C
+type: image
+subtype: plan
+title: Bauplan Grenzturm 1956
+date: 1956?
+location: Bömenzien, Deichstraße
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F/Mappe 23/079
+subjects:
+  - name: Lanz
+    type: place
+parents:
+  - 01HHR0N24ZWJF694Z9SN31KFR9
+files:
+  - role: main
+    original_name: scan_943.tif
+    path: files/c9/22/c922e272dc89183b02ccad5de79ab4bde0b2315fd965863fe120323051093e38/original.tif
+    sha256: c922e272dc89183b02ccad5de79ab4bde0b2315fd965863fe120323051093e38
+    mime: image/tiff
+    bytes: 10686749
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c9/22/c922e272dc89183b02ccad5de79ab4bde0b2315fd965863fe120323051093e38/preview-400.0458d1713031.jpg
+        sha256: 0458d1713031db328a2ce9a6c5052848383adcf6125bfd5b9c616ef21c006f6a
+        mime: image/jpeg
+        bytes: 89917
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

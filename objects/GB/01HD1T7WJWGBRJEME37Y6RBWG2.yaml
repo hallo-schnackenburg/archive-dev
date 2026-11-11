@@ -1,0 +1,41 @@
+id: 01HD1T7WJWGBRJEME37Y6RBWG2
+type: image
+subtype: drawing
+title: Skizze Rüterberg, Hafenstraße
+date: "1940"
+location: Rüterberg, Pumpenhaus
+origin:
+  name: Walter Meyer
+  type: person
+  location: Restorf
+owner:
+  name: August Garms
+  type: person
+  note: Nachlass
+subjects:
+  - name: Heinrich Harms
+    type: person
+  - name: Kindergartenfest 1940
+    type: event
+  - name: Hans Dierks
+    type: person
+files:
+  - role: main
+    original_name: scan_283.tif
+    path: files/91/2c/912c342f16f65b60ce366b006d15b38a28dcc26d982cba1e439721212151623b/original.tif
+    sha256: 912c342f16f65b60ce366b006d15b38a28dcc26d982cba1e439721212151623b
+    mime: image/tiff
+    bytes: 13661296
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/91/2c/912c342f16f65b60ce366b006d15b38a28dcc26d982cba1e439721212151623b/preview-400.2d76d4339e9e.jpg
+        sha256: 2d76d4339e9e9659f703697ed49cee889fe7c5eca7814e00ee9416c9aebf264e
+        mime: image/jpeg
+        bytes: 86808
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

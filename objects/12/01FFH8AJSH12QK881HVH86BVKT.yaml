@@ -1,0 +1,67 @@
+id: 01FFH8AJSH12QK881HVH86BVKT
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Viehseuche 1874
+date: 1874-01-09
+location: Arendsee, Deichstraße
+origin:
+  name: Verbandsversammlung Rüterberg
+  type: business
+  location: Nienwalde
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg/Album 9/019
+subjects:
+  - name: Ilse Meyer
+    type: person
+  - name: Konfirmation 1874
+    type: event
+  - name: Maifeier 1874
+    type: event
+parents:
+  - 01GS7MA2G71Y6PMRCSMWZZR135
+files:
+  - role: page
+    num: 1
+    original_name: protocol_86bvkt_001.tif
+    path: files/23/30/2330e939ce2556ac4e70d5fcb1827f842f97cf4ef8804357019e8fbca91345ac/original.tif
+    sha256: 2330e939ce2556ac4e70d5fcb1827f842f97cf4ef8804357019e8fbca91345ac
+    mime: image/tiff
+    bytes: 11265574
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/23/30/2330e939ce2556ac4e70d5fcb1827f842f97cf4ef8804357019e8fbca91345ac/preview-400.a0ab75e4d0cb.jpg
+        sha256: a0ab75e4d0cbd2d8d1955680f14ba64ca30b2a45ab96d70b1fd8f17f7c78bd2b
+        mime: image/jpeg
+        bytes: 38377
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_86bvkt_002.tif
+    path: files/b2/31/b2310802807aff672a504c81f719710d10a8c08e8db17ee5a48c8a3783d7e2d6/original.tif
+    sha256: b2310802807aff672a504c81f719710d10a8c08e8db17ee5a48c8a3783d7e2d6
+    mime: image/tiff
+    bytes: 21841819
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b2/31/b2310802807aff672a504c81f719710d10a8c08e8db17ee5a48c8a3783d7e2d6/preview-400.235736651652.jpg
+        sha256: 235736651652e72b6455c3aa26a6ca6e52c1d45367b5f1b5c479c7cba5500e80
+        mime: image/jpeg
+        bytes: 89756
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,31 @@
+id: 01GXSD9J9MRAZNHB4TR2PPFFDV
+type: image
+subtype: print
+title: Postkarte Lenzen, Grenzturm
+description: Postkarte, gelaufen 1908.
+date: 1943-06-02
+location: Arendsee, Pumpenhaus
+origin:
+  name: Rudolf Lemke
+  type: person
+  location: Nienwalde
+files:
+  - role: main
+    original_name: scan_654.tif
+    path: files/5b/61/5b613e163870dfbeae937db2c915081f69590ae326c2ae20279784072aa35e4f/original.tif
+    sha256: 5b613e163870dfbeae937db2c915081f69590ae326c2ae20279784072aa35e4f
+    mime: image/tiff
+    bytes: 24028558
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/5b/61/5b613e163870dfbeae937db2c915081f69590ae326c2ae20279784072aa35e4f/preview-400.4837dd4be179.jpg
+        sha256: 4837dd4be17941e7a784075cef8f5d121acffa5bf6cafb7b58a50a9009c17d21
+        mime: image/jpeg
+        bytes: 67912
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

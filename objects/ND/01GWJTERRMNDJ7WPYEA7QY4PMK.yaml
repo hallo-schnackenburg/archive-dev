@@ -1,0 +1,50 @@
+id: 01GWJTERRMNDJ7WPYEA7QY4PMK
+type: image
+subtype: print
+title: Lithographie Feuerwehrhaus, Bömenzien
+date: 1909-12-07
+location: Wittenberge, Brunnen am Markt
+geocode:
+  lat: 52.9019
+  lon: 11.5761
+  precision: exact
+  source: osm
+origin:
+  name: Otto Behrens
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok 31/301
+owner:
+  name: Dieter Ahrens
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Hafen
+    type: building
+files:
+  - role: main
+    original_name: scan_212.tif
+    path: files/40/1a/401aad9e1231a7130745582af1ae583b142528efc5070af2aba4a99a8c73da43/original.tif
+    sha256: 401aad9e1231a7130745582af1ae583b142528efc5070af2aba4a99a8c73da43
+    mime: image/tiff
+    bytes: 26475225
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/40/1a/401aad9e1231a7130745582af1ae583b142528efc5070af2aba4a99a8c73da43/preview-400.bc88f1bf1500.jpg
+        sha256: bc88f1bf1500eea788805ce028985c37e39a8c48de8f9c117bc0dd5fa70c4774
+        mime: image/jpeg
+        bytes: 72270
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

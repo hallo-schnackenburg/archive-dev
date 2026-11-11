@@ -1,0 +1,44 @@
+id: 01FTVNR0YSQS5EXBTJF3JEBGEB
+type: image
+subtype: print
+title: "Holzschnitt: Glockenweihe, Brünkendorf"
+date: 1895~
+location: Salzwedel, Dorfstraße
+geocode:
+  lat: 52.9792
+  lon: 11.5941
+  precision: region
+  source: osm
+origin:
+  name: Karl Lemke
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Grenzöffnung 1895
+    type: event
+  - name: Osterfeuer 1895
+    type: event
+  - name: Wassermühle
+    type: building
+parents:
+  - 01HXKWJA1EQYHXN89QXEXV1595
+files:
+  - role: main
+    original_name: scan_453.tif
+    path: files/7d/46/7d46315cb6eb76deb7bb3015ad0df9c789b7e1ae5114d065c9a1d6a584881a8d/original.tif
+    sha256: 7d46315cb6eb76deb7bb3015ad0df9c789b7e1ae5114d065c9a1d6a584881a8d
+    mime: image/tiff
+    bytes: 23921508
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7d/46/7d46315cb6eb76deb7bb3015ad0df9c789b7e1ae5114d065c9a1d6a584881a8d/preview-400.987083ed7096.jpg
+        sha256: 987083ed70964c9ddbfdafeeec64aeb791fd15c1921557b9f53be2fb6f9f224a
+        mime: image/jpeg
+        bytes: 82712
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

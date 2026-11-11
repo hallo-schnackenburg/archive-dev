@@ -1,0 +1,38 @@
+id: 01HHM7Y03589K13HRWBFB7EG3Z
+type: image
+subtype: photo
+title: Fritz Jeß, Porträt
+date: "1949"
+location: Salzwedel, Pumpenhaus
+geocode:
+  lat: 53.0226
+  lon: 11.6943
+  precision: town
+  source: osm
+origin:
+  name: Karl Jeß
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Wustrow
+    type: place
+files:
+  - role: main
+    original_name: P8172.jpg
+    path: files/0e/0a/0e0ab0f66f94d85b2da8fe0c5584488c4c8c218a9c300dfc4ddeca0eac3a711b/original.jpg
+    sha256: 0e0ab0f66f94d85b2da8fe0c5584488c4c8c218a9c300dfc4ddeca0eac3a711b
+    mime: image/jpeg
+    bytes: 20473487
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/0e/0a/0e0ab0f66f94d85b2da8fe0c5584488c4c8c218a9c300dfc4ddeca0eac3a711b/preview-400.d3e3b1b0770e.jpg
+        sha256: d3e3b1b0770eaf24da7ff8802b082ceeb4d70bbf4dd6c921f9824644613c3d50
+        mime: image/jpeg
+        bytes: 43856
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

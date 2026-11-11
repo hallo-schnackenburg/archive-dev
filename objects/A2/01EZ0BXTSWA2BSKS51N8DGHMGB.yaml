@@ -1,0 +1,47 @@
+id: 01EZ0BXTSWA2BSKS51N8DGHMGB
+type: image
+subtype: plan
+title: Bauplan Badestelle 1926
+date: "1926"
+location: Pretzier, Friedhofskapelle
+origin:
+  name: Dieter Pape
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+owner:
+  name: Karl Gaede
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Wilhelm Schwarz
+    type: person
+  - name: Hermann Matthies
+    type: person
+parents:
+  - 01J0GYR8W2ERJ99C6YPH8ATKMN
+  - 01HE14GR0R8R7PECGB2EPQE94M
+files:
+  - role: main
+    original_name: scan_264.tif
+    path: files/37/11/3711387a93ca6f704aecb719a12cf46ac7826ac57a17d93af7507c723000807b/original.tif
+    sha256: 3711387a93ca6f704aecb719a12cf46ac7826ac57a17d93af7507c723000807b
+    mime: image/tiff
+    bytes: 20197456
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/37/11/3711387a93ca6f704aecb719a12cf46ac7826ac57a17d93af7507c723000807b/preview-400.85017102456a.jpg
+        sha256: 85017102456a09ae06df94cf5bb770419b2c0ef12e68102bd1494ec47fd0dda1
+        mime: image/jpeg
+        bytes: 45530
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

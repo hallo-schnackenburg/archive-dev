@@ -1,0 +1,34 @@
+id: 01F5C6893JK835DYADGA7VJF0S
+type: image
+subtype: print
+title: Lithographie Brunnen am Markt
+location: Gollensdorf, Dorfstraße
+origin:
+  name: Gerda Jeß
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Weihnachtsmarkt 1817
+    type: event
+  - name: Kapern
+    type: place
+files:
+  - role: main
+    original_name: scan_093.tif
+    path: files/98/ae/98ae158b9bcd21bfc950e362b516d54d337d06a3f6577e82040d563e80eef93c/original.tif
+    sha256: 98ae158b9bcd21bfc950e362b516d54d337d06a3f6577e82040d563e80eef93c
+    mime: image/tiff
+    bytes: 5947135
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/98/ae/98ae158b9bcd21bfc950e362b516d54d337d06a3f6577e82040d563e80eef93c/preview-400.6498a4a4dcdc.jpg
+        sha256: 6498a4a4dcdca225145e81410c0dfa2b06cd0ec25866e9f2bc3124d650a1419c
+        mime: image/jpeg
+        bytes: 28081
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

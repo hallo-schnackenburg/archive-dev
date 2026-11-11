@@ -1,0 +1,59 @@
+id: 01K1PS3VY43DKTZ3YN3TX60BH2
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Landfrauenverein 1856
+date: "1856"
+location: Dömitz, Kegelbahn
+geocode:
+  lat: 52.995
+  lon: 11.5872
+  precision: region
+  source: osm
+origin:
+  name: Verbandsversammlung Havelberg
+  type: business
+  location: Havelberg
+subjects:
+  - name: Ortsbesichtigung 1856
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: protocol_x60bh2_001.tif
+    path: files/f8/2f/f82f0c1ada12747087a15749372d95ea72147bc051ae44a570148be9a51fdb01/original.tif
+    sha256: f82f0c1ada12747087a15749372d95ea72147bc051ae44a570148be9a51fdb01
+    mime: image/tiff
+    bytes: 15574591
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f8/2f/f82f0c1ada12747087a15749372d95ea72147bc051ae44a570148be9a51fdb01/preview-400.9eed7872f655.jpg
+        sha256: 9eed7872f6559c7f5e8e7e994a35c0f24d262d1c1f9dbc69dbbcd42e100a9624
+        mime: image/jpeg
+        bytes: 25342
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_x60bh2_002.tif
+    path: files/d7/75/d7757ab8743c657d29ec92dbf074c7a365d694baea223594bdd19432944a9192/original.tif
+    sha256: d7757ab8743c657d29ec92dbf074c7a365d694baea223594bdd19432944a9192
+    mime: image/tiff
+    bytes: 11934820
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/75/d7757ab8743c657d29ec92dbf074c7a365d694baea223594bdd19432944a9192/preview-400.d73629e0c7b3.jpg
+        sha256: d73629e0c7b3bd5ace4bf545d50ce4c837ce96797bd946fea75e184181f7dd85
+        mime: image/jpeg
+        bytes: 20438
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

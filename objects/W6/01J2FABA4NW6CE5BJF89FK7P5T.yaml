@@ -1,0 +1,33 @@
+id: 01J2FABA4NW6CE5BJF89FK7P5T
+type: image
+subtype: plan
+title: Deichplan Havelberg bis Gartow
+description: Maßstab 1:2500.
+date: "1898"
+subjects:
+  - name: Bäckerei Lüders
+    type: building
+  - name: Pretzier
+    type: place
+  - name: Nienwalde
+    type: place
+files:
+  - role: main
+    original_name: scan_114.tif
+    path: files/59/c2/59c2e2e884139bcf6bf4d9f5090c01a380c3bd9bb5d03edf0661b7a7b8a73cc6/original.tif
+    sha256: 59c2e2e884139bcf6bf4d9f5090c01a380c3bd9bb5d03edf0661b7a7b8a73cc6
+    mime: image/tiff
+    bytes: 19779536
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/59/c2/59c2e2e884139bcf6bf4d9f5090c01a380c3bd9bb5d03edf0661b7a7b8a73cc6/preview-400.fdfbcaab2d6d.jpg
+        sha256: fdfbcaab2d6d2fcbcc874eb81cbdd16eb762e71e68a3ba0edd74a347af896535
+        mime: image/jpeg
+        bytes: 23363
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

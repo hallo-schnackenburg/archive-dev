@@ -1,0 +1,36 @@
+id: 01HT6WRB44X82Z6ED3WPJTAPC0
+type: image
+subtype: print
+title: Lithographie Pfarrhaus, Havelberg
+description: Lithographie, Rand beschnitten.
+date: 1904/1913
+location: Restorf, Mühlenweg
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Otto Albers
+    type: person
+  - name: Gerda Ludolf
+    type: person
+parents:
+  - 01HS803SHHMBTDFXP1D594AZ1D
+files:
+  - role: main
+    original_name: scan_649.tif
+    path: files/ff/2e/ff2e97d71c68b0687113b85813fb3e04840ccae466f7f60d95dc03f684edce8b/original.tif
+    sha256: ff2e97d71c68b0687113b85813fb3e04840ccae466f7f60d95dc03f684edce8b
+    mime: image/tiff
+    bytes: 19133808
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ff/2e/ff2e97d71c68b0687113b85813fb3e04840ccae466f7f60d95dc03f684edce8b/preview-400.b02313048370.jpg
+        sha256: b0231304837091d97589161f1cf9d62911061802bd3e78cababa46df13355012
+        mime: image/jpeg
+        bytes: 56486
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

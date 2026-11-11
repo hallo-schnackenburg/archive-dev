@@ -1,0 +1,43 @@
+id: 01GGP9P9M2EZR6XZ2W0Z740922
+type: image
+subtype: photo
+title: Blick vom Bahnhof auf das Heuberge
+description: Aufnahme von Brigitte Bohlmann.
+date: "1913"
+origin:
+  name: Ursula Schulz
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg 19/278
+subjects:
+  - name: Fritz Voss
+    type: person
+  - name: Zollamt
+    type: building
+parents:
+  - 01FQ3YZE77QNA1ZTVZV37G0FNF
+files:
+  - role: main
+    original_name: scan_322.tif
+    path: files/b8/5d/b85d7fa35fc126057903745405a7813f12a48838e65ea9928c10ccece45dacc9/original.tif
+    sha256: b85d7fa35fc126057903745405a7813f12a48838e65ea9928c10ccece45dacc9
+    mime: image/tiff
+    bytes: 21632456
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/b8/5d/b85d7fa35fc126057903745405a7813f12a48838e65ea9928c10ccece45dacc9/preview-400.55802041280f.jpg
+        sha256: 55802041280fc93ba6eb3f2665204cdad2e71d625cbea2cd99dcb0506a521b10
+        mime: image/jpeg
+        bytes: 29324
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

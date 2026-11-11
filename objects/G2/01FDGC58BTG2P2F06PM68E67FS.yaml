@@ -1,0 +1,44 @@
+id: 01FDGC58BTG2P2F06PM68E67FS
+type: image
+subtype: photo
+title: Blick vom Schmiede auf das Kaufmannshaus
+origin:
+  name: Karl Behrens
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 29/075
+  note: Regal 4, Kiste 2
+subjects:
+  - name: Backhaus
+    type: building
+  - name: Sportplatz
+    type: building
+  - name: Karl Burmester
+    type: person
+parents:
+  - 01FDG2W8NWMVK48918J24FXBW9
+files:
+  - role: main
+    original_name: scan_974.tif
+    path: files/01/1a/011a50ddaf606d08cf7a2f22593eb66b2115d94673015f1093aea805fa9c10b5/original.tif
+    sha256: 011a50ddaf606d08cf7a2f22593eb66b2115d94673015f1093aea805fa9c10b5
+    mime: image/tiff
+    bytes: 9218064
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/01/1a/011a50ddaf606d08cf7a2f22593eb66b2115d94673015f1093aea805fa9c10b5/preview-400.1284aed70f6a.jpg
+        sha256: 1284aed70f6ab4b181744c011968300888fe2304d127883689f79e11df5214cf
+        mime: image/jpeg
+        bytes: 22536
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

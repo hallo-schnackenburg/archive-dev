@@ -1,0 +1,34 @@
+id: 01F56NB91J84CPYVKNDFECPQ1G
+type: image
+subtype: plan
+title: Lageplan Bahnhof, Kapern
+date: 1789-09-14
+origin:
+  name: Dieter Sievers
+  type: person
+  location: Zadrau
+subjects:
+  - name: Gutshaus
+    type: building
+parents:
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+files:
+  - role: main
+    original_name: scan_870.tif
+    path: files/80/fe/80fe8707db951b454787c15e2b6d5fb3e37f082318a47eb29b24562de99ee12b/original.tif
+    sha256: 80fe8707db951b454787c15e2b6d5fb3e37f082318a47eb29b24562de99ee12b
+    mime: image/tiff
+    bytes: 11315339
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/80/fe/80fe8707db951b454787c15e2b6d5fb3e37f082318a47eb29b24562de99ee12b/preview-400.ff23fd0e1496.jpg
+        sha256: ff23fd0e1496e76e0c1e1fd1afed1cf72b834834e20c23a8404bcd1104f8ac11
+        mime: image/jpeg
+        bytes: 68186
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

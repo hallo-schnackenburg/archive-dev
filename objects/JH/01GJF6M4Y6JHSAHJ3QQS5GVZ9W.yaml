@@ -1,0 +1,30 @@
+id: 01GJF6M4Y6JHSAHJ3QQS5GVZ9W
+type: image
+subtype: plan
+title: Flurkarte Lanz, Nienwalde
+date: "1951"
+location: Brünkendorf, Ziegelei
+origin:
+  name: Günter Kuhlmann
+  type: person
+  location: Schnackenburg
+files:
+  - role: main
+    original_name: scan_010.tif
+    path: files/04/82/0482db7078dbe159747470464b9bb02640e9d113dc12cb17adacbfece93f25f6/original.tif
+    sha256: 0482db7078dbe159747470464b9bb02640e9d113dc12cb17adacbfece93f25f6
+    mime: image/tiff
+    bytes: 8220114
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/04/82/0482db7078dbe159747470464b9bb02640e9d113dc12cb17adacbfece93f25f6/preview-400.314a2a6bb98c.jpg
+        sha256: 314a2a6bb98c929ac216b95bc868dba9dda373fea14e538ed81b9e33c4df5e2a
+        mime: image/jpeg
+        bytes: 21886
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01G6BT1GAC7J4R4GX2VZ26A9DG
+type: image
+subtype: plan
+title: Flurkarte Zadrau, Seedorf
+description: Maßstab 1:250.
+date: 1757-04-03
+location: Restorf, Fähranleger
+origin:
+  name: Heinrich Gaede
+  type: person
+  location: Lenzen
+subjects:
+  - name: Dorffest 1757
+    type: event
+  - name: Paul Rohde
+    type: person
+parents:
+  - 01GV8MKHYPAWB1MAEXCSAW38CR
+files:
+  - role: main
+    original_name: scan_405.tif
+    path: files/c7/f8/c7f846a53d9d029ea155fdbf11fb03c227fc6bfb2e52ee18e46aa65e96ee6b7e/original.tif
+    sha256: c7f846a53d9d029ea155fdbf11fb03c227fc6bfb2e52ee18e46aa65e96ee6b7e
+    mime: image/tiff
+    bytes: 1267673
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c7/f8/c7f846a53d9d029ea155fdbf11fb03c227fc6bfb2e52ee18e46aa65e96ee6b7e/preview-400.8e153cf45b58.jpg
+        sha256: 8e153cf45b58639a426608390e10c083772bb77d1de5303a28b7bbf3c2bc49bf
+        mime: image/jpeg
+        bytes: 81608
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

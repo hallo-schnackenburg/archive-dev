@@ -1,0 +1,46 @@
+id: 01GNJMPPP6MBWXTDKKX6SP26VR
+type: image
+subtype: photo
+title: Blick vom Dorfladen auf das Sparkasse
+description: Aufnahme von Helga Lemke.
+date: 1918-07-23
+location: Schnackenburg, Am Markt
+geocode:
+  lat: 52.9632
+  lon: 11.5146
+  precision: street
+  source: osm
+origin:
+  name: Gerda Harms
+  type: person
+  location: Dömitz
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Seedorf
+    type: place
+  - name: Gisela Brandt
+    type: person
+parents:
+  - 01HQR6RV72ZH2HDYEHKXXJ1EJM
+  - 01KDD6TJHRWYW5BFBZ7TKQREBJ
+files:
+  - role: main
+    original_name: IMG_1235.jpg
+    path: files/0f/f8/0ff87a9de91ee9cae7cfc78b87779aea97ef61afc2551fdb8093a9e649fb8ed7/original.jpg
+    sha256: 0ff87a9de91ee9cae7cfc78b87779aea97ef61afc2551fdb8093a9e649fb8ed7
+    mime: image/jpeg
+    bytes: 12466815
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/0f/f8/0ff87a9de91ee9cae7cfc78b87779aea97ef61afc2551fdb8093a9e649fb8ed7/preview-400.409ce7ad167a.jpg
+        sha256: 409ce7ad167aaf4ef57230f129574f0232af867f6df3dee39ee9e2d736b9e37e
+        mime: image/jpeg
+        bytes: 33531
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

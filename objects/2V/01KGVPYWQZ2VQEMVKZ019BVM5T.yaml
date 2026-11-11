@@ -1,0 +1,35 @@
+id: 01KGVPYWQZ2VQEMVKZ019BVM5T
+type: image
+subtype: photo
+title: Karl Dreyer, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1976-07-12
+location: Laase, Elbstraße
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Album 24/116
+parents:
+  - 01K7X50YJVP4Q2EM4RD9TMVQVM
+files:
+  - role: main
+    original_name: scan_643.tif
+    path: files/6e/1c/6e1cdee8d5bdf60113d73ee1fdacb1bf9084653f7aee108faf4de482274d0bdc/original.tif
+    sha256: 6e1cdee8d5bdf60113d73ee1fdacb1bf9084653f7aee108faf4de482274d0bdc
+    mime: image/tiff
+    bytes: 408924
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6e/1c/6e1cdee8d5bdf60113d73ee1fdacb1bf9084653f7aee108faf4de482274d0bdc/preview-400.8e77ec086fbb.jpg
+        sha256: 8e77ec086fbb2599469c718142f1ec9bacfaba8709b6ad82cb64a2d4b5052b91
+        mime: image/jpeg
+        bytes: 66510
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

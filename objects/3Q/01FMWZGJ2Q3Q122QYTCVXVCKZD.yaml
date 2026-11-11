@@ -1,0 +1,40 @@
+id: 01FMWZGJ2Q3Q122QYTCVXVCKZD
+type: image
+subtype: print
+title: Postkarte Lanz, Sparkasse
+description: Kupferstich, koloriert.
+date: 1740?
+location: Salzwedel, Försterei
+origin:
+  name: Karl Lemke
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 29/089
+subjects:
+  - name: Pretzier
+    type: place
+files:
+  - role: main
+    original_name: scan_541.tif
+    path: files/ec/9a/ec9a0dee204ff6fab4edb66b99a3fc51390bccab747fc8deb4401939e00ad0ec/original.tif
+    sha256: ec9a0dee204ff6fab4edb66b99a3fc51390bccab747fc8deb4401939e00ad0ec
+    mime: image/tiff
+    bytes: 21196174
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ec/9a/ec9a0dee204ff6fab4edb66b99a3fc51390bccab747fc8deb4401939e00ad0ec/preview-400.8bd048fa1f8b.jpg
+        sha256: 8bd048fa1f8b5e342bc91634dff63607bb73ad89e57705fcf5c9f1692c7ace66
+        mime: image/jpeg
+        bytes: 50586
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

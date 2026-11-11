@@ -1,0 +1,44 @@
+id: 01F64WWPE3W3F4JKY7YX52VQM2
+type: image
+subtype: photo
+title: Schulstraße, Ecke Schulstraße
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1926-01
+origin:
+  name: Ernst Lüders
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 26/324
+  note: Kellerarchiv
+subjects:
+  - name: Erika Pape
+    type: person
+  - name: Kirmes 1926
+    type: event
+  - name: Apotheke
+    type: building
+files:
+  - role: main
+    original_name: foto_0511.jpg
+    path: files/a7/88/a788d93a33cfb76dd23460834a6923df2ac28f7779977cb0d6b5522f31b647e7/original.jpg
+    sha256: a788d93a33cfb76dd23460834a6923df2ac28f7779977cb0d6b5522f31b647e7
+    mime: image/jpeg
+    bytes: 10007888
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a7/88/a788d93a33cfb76dd23460834a6923df2ac28f7779977cb0d6b5522f31b647e7/preview-400.33789a4ab8a9.jpg
+        sha256: 33789a4ab8a975cd9d585c14ae1a2d806c1ef7bb8eb7bc5e075d64f24f2d77b5
+        mime: image/jpeg
+        bytes: 50419
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

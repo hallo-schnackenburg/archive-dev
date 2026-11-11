@@ -1,0 +1,31 @@
+id: 01HMM7W1K31RA6G3PJS46X17CF
+type: image
+subtype: plan
+title: Deichplan Wittenberge bis Salzwedel
+date: 1853-12-01
+origin:
+  name: Rudolf Quast
+  type: person
+  location: Cumlosen
+parents:
+  - 01JCTPZAEAG98DVMJJQRNTASRZ
+files:
+  - role: main
+    original_name: scan_933.tif
+    path: files/1e/15/1e153b39b4c14b80e88d8bcdb6e1d361412610351e26d163cf5c5a86054dae2d/original.tif
+    sha256: 1e153b39b4c14b80e88d8bcdb6e1d361412610351e26d163cf5c5a86054dae2d
+    mime: image/tiff
+    bytes: 22594656
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/1e/15/1e153b39b4c14b80e88d8bcdb6e1d361412610351e26d163cf5c5a86054dae2d/preview-400.55d4764fa325.jpg
+        sha256: 55d4764fa3256018c2c4e290591f9a829b74428fb5aa80908f4f870a7c3bddc0
+        mime: image/jpeg
+        bytes: 79030
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

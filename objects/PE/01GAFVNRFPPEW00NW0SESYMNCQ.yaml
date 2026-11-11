@@ -1,0 +1,44 @@
+id: 01GAFVNRFPPEW00NW0SESYMNCQ
+type: image
+subtype: drawing
+title: Skizze Wustrow, Bahnhofstraße
+description: Bleistift auf Papier.
+date: 1835~
+origin:
+  name: Friedrich Voss
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 15/130
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v28653
+subjects:
+  - name: Lanz
+    type: place
+  - name: Dieter Burmester
+    type: person
+  - name: Karl Matthies
+    type: person
+files:
+  - role: main
+    original_name: scan_744.tif
+    path: files/73/8d/738d6f02629f9935abd54c2e5ad884b5df9f2f21da3b03a3ab6795174ccaca3b/original.tif
+    sha256: 738d6f02629f9935abd54c2e5ad884b5df9f2f21da3b03a3ab6795174ccaca3b
+    mime: image/tiff
+    bytes: 10911605
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/73/8d/738d6f02629f9935abd54c2e5ad884b5df9f2f21da3b03a3ab6795174ccaca3b/preview-400.23f778c40075.jpg
+        sha256: 23f778c40075f36e57d7b2a77deba556a7727fac43267c2f43fa8d7b1fd5e2e7
+        mime: image/jpeg
+        bytes: 80738
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

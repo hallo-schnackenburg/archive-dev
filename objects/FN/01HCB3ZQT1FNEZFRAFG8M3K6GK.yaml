@@ -1,0 +1,35 @@
+id: 01HCB3ZQT1FNEZFRAFG8M3K6GK
+type: image
+subtype: plan
+title: Bauplan Schützenhaus 1926
+description: Maßstab 1:250.
+date: 1926?
+subjects:
+  - name: Walter Nitschke
+    type: person
+  - name: Beerdigung 1926
+    type: event
+  - name: Zadrau
+    type: place
+parents:
+  - 01F6ZQ7TEP2TBDEHF40VAF0GAD
+files:
+  - role: main
+    original_name: scan_321.tif
+    path: files/9d/3f/9d3f874de1444c51a3e5befba3d053cc5c19eccdb1595c0561a641df8a8618ba/original.tif
+    sha256: 9d3f874de1444c51a3e5befba3d053cc5c19eccdb1595c0561a641df8a8618ba
+    mime: image/tiff
+    bytes: 4028072
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/9d/3f/9d3f874de1444c51a3e5befba3d053cc5c19eccdb1595c0561a641df8a8618ba/preview-400.1b7cf7acf29c.jpg
+        sha256: 1b7cf7acf29c53d84193af2704d5e06174a4cb29f4e50cb25b02a945e9356c82
+        mime: image/jpeg
+        bytes: 50439
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

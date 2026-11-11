@@ -1,0 +1,83 @@
+id: 01KFKZGYHKA09PVKW9YKGP0FDY
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Laase 1889
+description: Anwesend waren 17 Personen.
+date: 188X
+location: Laase, Elbstraße
+geocode:
+  lat: 53.0414
+  lon: 11.6938
+  precision: street
+  source: osm
+origin:
+  name: Verbandsversammlung Wootz
+  type: business
+  location: Rüterberg
+language: de
+subjects:
+  - name: Restorf
+    type: place
+  - name: Gülden
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: protocol_gp0fdy_001.tif
+    path: files/ca/7f/ca7f23cf47f0cf507b29a685ffbfcf4f779b1c8235b33fac161fc884e23b03b3/original.tif
+    sha256: ca7f23cf47f0cf507b29a685ffbfcf4f779b1c8235b33fac161fc884e23b03b3
+    mime: image/tiff
+    bytes: 15271978
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ca/7f/ca7f23cf47f0cf507b29a685ffbfcf4f779b1c8235b33fac161fc884e23b03b3/preview-400.58d150b20312.jpg
+        sha256: 58d150b20312d000204ff26a55618cc635eb594060d125121ac3b524a07e862e
+        mime: image/jpeg
+        bytes: 67740
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_gp0fdy_002.tif
+    path: files/ed/6e/ed6e3f5dfd817ad33427e9fa03fc06b18d460edf18500fe7c420a918cdbb7d7e/original.tif
+    sha256: ed6e3f5dfd817ad33427e9fa03fc06b18d460edf18500fe7c420a918cdbb7d7e
+    mime: image/tiff
+    bytes: 2506349
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ed/6e/ed6e3f5dfd817ad33427e9fa03fc06b18d460edf18500fe7c420a918cdbb7d7e/preview-400.34a3eced7fe3.jpg
+        sha256: 34a3eced7fe3a5834c3ca253d1c5fb7cf52da13f28a64772bee420e5d4e776ef
+        mime: image/jpeg
+        bytes: 41707
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: protocol_gp0fdy_003.tif
+    path: files/0e/98/0e98a25f73535e8c03b45b4cda7a95b34811c57cd1376be9f3a78787374d56fc/original.tif
+    sha256: 0e98a25f73535e8c03b45b4cda7a95b34811c57cd1376be9f3a78787374d56fc
+    mime: image/tiff
+    bytes: 9074624
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0e/98/0e98a25f73535e8c03b45b4cda7a95b34811c57cd1376be9f3a78787374d56fc/preview-400.faddf09f882f.jpg
+        sha256: faddf09f882f869f02d0a2f9779eb540d4ef0956354b2a418f6ed33af7534d3f
+        mime: image/jpeg
+        bytes: 58456
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

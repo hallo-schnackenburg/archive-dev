@@ -1,0 +1,43 @@
+id: 01GNTZ2GVHMX487D6FNBJHT4G3
+type: image
+subtype: photo
+title: Windmühle nach dem Straßenfest
+description: Aufnahme von Heinrich Garms.
+date: 1955/1965
+location: Gollensdorf, Kaufmannshaus
+geocode:
+  lat: 53.0038
+  lon: 11.4855
+  precision: street
+  source: osm
+origin:
+  name: Frieda Meyer
+  type: person
+  location: Arendsee
+subjects:
+  - name: Mühle
+    type: building
+  - name: Eisgang 1955
+    type: event
+parents:
+  - 01HW1XG7P06SRWXZK7CKV1D89H
+files:
+  - role: main
+    original_name: DSC7584.jpg
+    path: files/8f/04/8f04b64beca3e898bd4cfba82681630f9ab4ff7c5aaab1e7f1a53bd8f86b5ad6/original.jpg
+    sha256: 8f04b64beca3e898bd4cfba82681630f9ab4ff7c5aaab1e7f1a53bd8f86b5ad6
+    mime: image/jpeg
+    bytes: 16789217
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/8f/04/8f04b64beca3e898bd4cfba82681630f9ab4ff7c5aaab1e7f1a53bd8f86b5ad6/preview-400.9467766a4bbe.jpg
+        sha256: 9467766a4bbebcec0311531eb0e0ccd587eb737149552dfd3bf87a88fc28a860
+        mime: image/jpeg
+        bytes: 42713
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

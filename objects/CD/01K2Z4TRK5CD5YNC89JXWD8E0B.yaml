@@ -1,0 +1,40 @@
+id: 01K2Z4TRK5CD5YNC89JXWD8E0B
+type: image
+subtype: drawing
+title: Hafen, Aquarell, Hitzacker
+description: Mit Anmerkungen am Rand.
+date: 196X
+location: Nienwalde, Dorfstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Kasten 20/117
+subjects:
+  - name: Pfarrhaus
+    type: building
+  - name: Hans Voss
+    type: person
+  - name: Karl Lemke
+    type: person
+files:
+  - role: main
+    original_name: scan_948.tif
+    path: files/93/b5/93b5bd439a301198abcb9b9a8cd0fbe2ea0be75cd6a4c4403ef4aab8aa5bb0f3/original.tif
+    sha256: 93b5bd439a301198abcb9b9a8cd0fbe2ea0be75cd6a4c4403ef4aab8aa5bb0f3
+    mime: image/tiff
+    bytes: 21193635
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/93/b5/93b5bd439a301198abcb9b9a8cd0fbe2ea0be75cd6a4c4403ef4aab8aa5bb0f3/preview-400.671b947c7221.jpg
+        sha256: 671b947c7221425a0b2887202d4dd1a4625f90b1878ae4343aa18018c6b5ac96
+        mime: image/jpeg
+        bytes: 83963
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

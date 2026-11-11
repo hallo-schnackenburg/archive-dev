@@ -1,0 +1,35 @@
+id: 01HGK771ZQE4QXVWYQRH0NZQPE
+type: image
+subtype: photo
+title: Marta Kuhlmann, Porträt
+location: Dömitz, Hinter den Höfen
+origin:
+  name: Otto Gaede
+  type: person
+  location: Arendsee
+subjects:
+  - name: Fachwerkhaus Marktstraße 4
+    type: building
+parents:
+  - 01K7J4DX7VRH2T02JPNZCE3TH0
+  - 01FX13NA4AT0PM3FBRV1XBR89T
+files:
+  - role: main
+    original_name: DSC0538.jpg
+    path: files/f4/32/f432b682c1cb62604154e41ce39f09c854adb9d6a2ffa539e7ad51389d672ff9/original.jpg
+    sha256: f432b682c1cb62604154e41ce39f09c854adb9d6a2ffa539e7ad51389d672ff9
+    mime: image/jpeg
+    bytes: 22800815
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/f4/32/f432b682c1cb62604154e41ce39f09c854adb9d6a2ffa539e7ad51389d672ff9/preview-400.183f7205efc6.jpg
+        sha256: 183f7205efc690bd24a4e8ba17768187af6a8420d50345d004223d536cfa6f4c
+        mime: image/jpeg
+        bytes: 34379
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

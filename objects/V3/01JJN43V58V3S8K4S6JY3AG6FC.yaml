@@ -1,0 +1,32 @@
+id: 01JJN43V58V3S8K4S6JY3AG6FC
+type: image
+subtype: plan
+title: Lageplan Ziegelei
+description: Mit handschriftlichen Ergänzungen.
+date: 1763-11
+location: Wittenberge, Gartenstraße
+geocode:
+  lat: 52.9862
+  lon: 11.5551
+  precision: region
+  source: osm
+origin:
+  name: Friedrich Brandt
+  type: person
+  location: Lanz
+subjects:
+  - name: Pumpenhaus
+    type: building
+  - name: Osterfeuer 1763
+    type: event
+parents:
+  - 01EZVF5X45RBX6V4W1ADQSS6DP
+storage: external
+external:
+  - type: archive
+    site: Wendlandarchiv
+    uri: https://wendlandarchiv.example.org/objekt/260327
+  - type: website
+    site: Elbe-Zeitung online
+    uri: https://elbe-zeitung-online.example.org/objekt/58041
+notes: Person links unbekannt.

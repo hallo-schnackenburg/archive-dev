@@ -1,0 +1,42 @@
+id: 01JFSRT2EAXWFHMNXRXRWXEQWA
+type: image
+subtype: photo
+title: Blick vom Heuberge auf das Tischlerei Bruns
+description: Aufnahme von Manfred Gaede.
+date: "1949"
+location: Schnackenburg, Fähranleger
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  note: Schrank B
+subjects:
+  - name: Fährjubiläum 1949
+    type: event
+  - name: Arendsee
+    type: place
+files:
+  - role: main
+    original_name: scan_835.tif
+    path: files/a3/b7/a3b7a1ad2252a924bce94c010c858bdbe07040303af1f6af1fbeee8fb286130b/original.tif
+    sha256: a3b7a1ad2252a924bce94c010c858bdbe07040303af1f6af1fbeee8fb286130b
+    mime: image/tiff
+    bytes: 19834754
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a3/b7/a3b7a1ad2252a924bce94c010c858bdbe07040303af1f6af1fbeee8fb286130b/preview-400.739074d91532.jpg
+        sha256: 739074d91532f3165364058fc0b486e78b62e761e2a8dc66400898e0074db25e
+        mime: image/jpeg
+        bytes: 30408
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

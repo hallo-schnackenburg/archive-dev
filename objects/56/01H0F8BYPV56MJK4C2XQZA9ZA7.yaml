@@ -1,0 +1,42 @@
+id: 01H0F8BYPV56MJK4C2XQZA9ZA7
+type: image
+subtype: photo
+title: Feuerwehrhaus in Arendsee
+description: Aufnahme von Karl Tiedemann.
+location: Lanz, Schulstraße
+origin:
+  name: Heinrich Eggers
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Gasthof Meyer
+    type: building
+  - name: Backhaus
+    type: building
+  - name: Seedorf
+    type: place
+files:
+  - role: main
+    original_name: IMG_3208.jpg
+    path: files/7e/02/7e0297ad59f20b5c5c3ea98da84fdf919d4c465e145b8dd0bb70ef1aa9af9b0e/original.jpg
+    sha256: 7e0297ad59f20b5c5c3ea98da84fdf919d4c465e145b8dd0bb70ef1aa9af9b0e
+    mime: image/jpeg
+    bytes: 26411515
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/7e/02/7e0297ad59f20b5c5c3ea98da84fdf919d4c465e145b8dd0bb70ef1aa9af9b0e/preview-400.c873b41d432b.jpg
+        sha256: c873b41d432b8f255a5b24aa06fed059cfcc07db8c085111d119aaa480a223e1
+        mime: image/jpeg
+        bytes: 41704
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

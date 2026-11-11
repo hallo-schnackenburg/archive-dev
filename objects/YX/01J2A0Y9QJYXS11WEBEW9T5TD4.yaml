@@ -1,0 +1,35 @@
+id: 01J2A0Y9QJYXS11WEBEW9T5TD4
+type: image
+subtype: print
+title: Lithographie Backhaus, Rüterberg
+date: 1770-11
+location: Wittenberge, Grenzturm
+origin:
+  name: Karl Kuhlmann
+  type: person
+  location: Gülden
+subjects:
+  - name: Kapern
+    type: place
+parents:
+  - 01HX63HPJQWPA2R8TSS7RY7SQZ
+files:
+  - role: main
+    original_name: scan_503.tif
+    path: files/4b/31/4b318d3504090958a327e54e2118c9f9a6aba69dc328cf1f359a91231099809b/original.tif
+    sha256: 4b318d3504090958a327e54e2118c9f9a6aba69dc328cf1f359a91231099809b
+    mime: image/tiff
+    bytes: 12821996
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4b/31/4b318d3504090958a327e54e2118c9f9a6aba69dc328cf1f359a91231099809b/preview-400.946e334ee088.jpg
+        sha256: 946e334ee088d3570b0d3f7cf3e13e5ee550033fe6ef21b4d0f7f2f3ec09b619
+        mime: image/jpeg
+        bytes: 49841
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

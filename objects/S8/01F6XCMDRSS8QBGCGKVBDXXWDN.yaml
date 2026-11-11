@@ -1,0 +1,40 @@
+id: 01F6XCMDRSS8QBGCGKVBDXXWDN
+type: image
+subtype: photo
+title: Zollamt in Brünkendorf
+description: Zu sehen sind Gasthof Meyer und Brunnen am Markt.
+location: Bömenzien, Torhaus
+geocode:
+  lat: 53.0452
+  lon: 11.55
+  precision: region
+  source: osm
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Mühle
+    type: building
+  - name: Holtorf
+    type: place
+parents:
+  - 01H5HMCYV3GS9H3ZBJZMHBTPJV
+files:
+  - role: main
+    original_name: IMG_4033.jpg
+    path: files/8b/0e/8b0eecf7124ab63ef0b5adffc021509c1f921c334fc57878b5cd2cac6b90e3a4/original.jpg
+    sha256: 8b0eecf7124ab63ef0b5adffc021509c1f921c334fc57878b5cd2cac6b90e3a4
+    mime: image/jpeg
+    bytes: 908354
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/8b/0e/8b0eecf7124ab63ef0b5adffc021509c1f921c334fc57878b5cd2cac6b90e3a4/preview-400.3a8e1731e2aa.jpg
+        sha256: 3a8e1731e2aa2bd3840600f9c606d80ff299d0e278999409244c8e4669487cca
+        mime: image/jpeg
+        bytes: 88051
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

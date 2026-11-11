@@ -1,0 +1,36 @@
+id: 01JKZKWS869NX097WAX3MV3TJX
+type: image
+subtype: photo
+title: Gerda Gaede vor dem Mühle
+description: Aufnahme von Hedwig Rohde.
+date: 1931-02-05
+location: Salzwedel, Apotheke
+origin:
+  name: Frieda Pape
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Mühle
+    type: building
+  - name: Feuerwehrübung 1931
+    type: event
+files:
+  - role: main
+    original_name: DSC5189.jpg
+    path: files/a6/25/a625b3b67b103f001b89353defc30ce6eadc59667e3eb066d0661c28f915d6fd/original.jpg
+    sha256: a625b3b67b103f001b89353defc30ce6eadc59667e3eb066d0661c28f915d6fd
+    mime: image/jpeg
+    bytes: 26597691
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/a6/25/a625b3b67b103f001b89353defc30ce6eadc59667e3eb066d0661c28f915d6fd/preview-400.32a8a76a7cac.jpg
+        sha256: 32a8a76a7cac5df834526809d3c74d41b5b45507ae643977a52a71727c54914f
+        mime: image/jpeg
+        bytes: 78762
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

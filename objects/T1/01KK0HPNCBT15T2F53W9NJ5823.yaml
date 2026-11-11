@@ -1,0 +1,32 @@
+id: 01KK0HPNCBT15T2F53W9NJ5823
+type: image
+subtype: plan
+title: Bauplan Sparkasse 1946
+description: Mit handschriftlichen Ergänzungen.
+date: 1946-09-12
+location: Salzwedel, Am Markt
+subjects:
+  - name: Cumlosen
+    type: place
+parents:
+  - 01GT4AQMYDQV6X3W40VS0A09TX
+files:
+  - role: main
+    original_name: scan_768.tif
+    path: files/cc/79/cc792856a09859614caaabdd00972ae11379184f2639ff989fcb672d464194ac/original.tif
+    sha256: cc792856a09859614caaabdd00972ae11379184f2639ff989fcb672d464194ac
+    mime: image/tiff
+    bytes: 1450934
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cc/79/cc792856a09859614caaabdd00972ae11379184f2639ff989fcb672d464194ac/preview-400.8cd6ca9a9079.jpg
+        sha256: 8cd6ca9a90797f0b600e929313c161ff8e81575742c5c6c9f04b53a8dc9d1171
+        mime: image/jpeg
+        bytes: 35096
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

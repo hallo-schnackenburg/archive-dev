@@ -1,0 +1,37 @@
+id: 01KACDCCSV24YVPRARE3BXRHKP
+type: image
+subtype: plan
+title: Deichplan Nienwalde bis Wustrow
+date: 1853-06
+location: Gorleben, Hafen
+origin:
+  name: August Sievers
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Straßenfest 1853
+    type: event
+  - name: Wootz
+    type: place
+  - name: Straßenfest 1853
+    type: event
+files:
+  - role: main
+    original_name: scan_778.tif
+    path: files/ce/23/ce23a871d74aa711f07f522794127a78a93f211c43f3eca71710c8915643fe35/original.tif
+    sha256: ce23a871d74aa711f07f522794127a78a93f211c43f3eca71710c8915643fe35
+    mime: image/tiff
+    bytes: 20085722
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ce/23/ce23a871d74aa711f07f522794127a78a93f211c43f3eca71710c8915643fe35/preview-400.dfc6ae2c6733.jpg
+        sha256: dfc6ae2c6733a4146361fc96f2d24ff8839390ddd9467c3e222e4aa4e36b6a77
+        mime: image/jpeg
+        bytes: 27943
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

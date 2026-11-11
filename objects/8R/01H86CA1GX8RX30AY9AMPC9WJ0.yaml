@@ -1,0 +1,32 @@
+id: 01H86CA1GX8RX30AY9AMPC9WJ0
+type: image
+subtype: plan
+title: Grundriss Gärtnerei
+date: 1957-12
+origin:
+  name: Otto Heuer
+  type: person
+  location: Kapern
+parents:
+  - 01K6MM688883CWMKTJ2NVR6F70
+  - 01H6GZ1A9PWXWTSCHDX2966H18
+files:
+  - role: main
+    original_name: scan_293.tif
+    path: files/a1/22/a1221a07d0c6dfd72c8c69c04cafae71e747a5092c3b316df77f5ab71d9b3d69/original.tif
+    sha256: a1221a07d0c6dfd72c8c69c04cafae71e747a5092c3b316df77f5ab71d9b3d69
+    mime: image/tiff
+    bytes: 10860710
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a1/22/a1221a07d0c6dfd72c8c69c04cafae71e747a5092c3b316df77f5ab71d9b3d69/preview-400.8b7bbdcf2924.jpg
+        sha256: 8b7bbdcf29243a6a77d0347ec095691dbc1733e76c13fe40b791f3b0e546a552
+        mime: image/jpeg
+        bytes: 55707
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

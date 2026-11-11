@@ -1,0 +1,34 @@
+id: 01HW9FCT5DSBY5XS03C2Y5S70J
+type: image
+subtype: photo
+title: Käthe Schulz, Porträt
+date: 1974-11
+location: Bömenzien, Dorfladen
+geocode:
+  lat: 52.9493
+  lon: 11.5319
+  precision: street
+  source: osm
+subjects:
+  - name: Dorfladen
+    type: building
+files:
+  - role: main
+    original_name: foto_5448.jpg
+    path: files/cf/48/cf485c76d4c003a54ff34a362f6e863d61670245cf74ccb272422f8adb2f36d4/original.jpg
+    sha256: cf485c76d4c003a54ff34a362f6e863d61670245cf74ccb272422f8adb2f36d4
+    mime: image/jpeg
+    bytes: 16791762
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/cf/48/cf485c76d4c003a54ff34a362f6e863d61670245cf74ccb272422f8adb2f36d4/preview-400.e33b3bc5026d.jpg
+        sha256: e33b3bc5026d332db9d93b9f840696bafad294113c8e3504a19ff0834b6e0dbc
+        mime: image/jpeg
+        bytes: 39043
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

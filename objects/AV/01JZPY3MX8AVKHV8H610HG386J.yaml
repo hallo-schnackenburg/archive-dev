@@ -1,0 +1,38 @@
+id: 01JZPY3MX8AVKHV8H610HG386J
+type: image
+subtype: print
+title: Postkarte Dömitz, Fähranleger
+date: 1957-02-15
+origin:
+  name: Hedwig Brandt
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Pumpenhaus
+    type: building
+  - name: Restorf
+    type: place
+  - name: Havelberg
+    type: place
+parents:
+  - 01GTF0FAKD2Z78BGPYW8ZV7JE5
+files:
+  - role: main
+    original_name: scan_139.tif
+    path: files/7c/28/7c286a6f03f1d9c7282d9113871bd9502ea69850cc562c33fac5ed05ad3cd071/original.tif
+    sha256: 7c286a6f03f1d9c7282d9113871bd9502ea69850cc562c33fac5ed05ad3cd071
+    mime: image/tiff
+    bytes: 13720956
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/7c/28/7c286a6f03f1d9c7282d9113871bd9502ea69850cc562c33fac5ed05ad3cd071/preview-400.36ecb25d1135.jpg
+        sha256: 36ecb25d11350c242a524fdae083e9a7cc97142ef268419b802531dbdd2e2b72
+        mime: image/jpeg
+        bytes: 87340
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

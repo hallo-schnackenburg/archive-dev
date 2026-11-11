@@ -1,0 +1,44 @@
+id: 01KAP1Y49MFHMPXPZ1S6DW4ZX0
+type: image
+subtype: drawing
+title: Schützenhaus, Aquarell, Cumlosen
+description: Bleistift auf Papier.
+date: 1979-03-10
+location: Lenzen, Friedhofskapelle
+origin:
+  name: Irmgard Voss
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F/Album 3/036
+subjects:
+  - name: Erika Garms
+    type: person
+  - name: Hochwasser 1979
+    type: event
+parents:
+  - 01KGBXSKRT00YBVNJ684TQMH5V
+files:
+  - role: main
+    original_name: scan_687.tif
+    path: files/bc/38/bc3837fdcd4da37983a70f5c8e1fe5278bbe0433421d1e9546b21e4ec4033e01/original.tif
+    sha256: bc3837fdcd4da37983a70f5c8e1fe5278bbe0433421d1e9546b21e4ec4033e01
+    mime: image/tiff
+    bytes: 969831
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bc/38/bc3837fdcd4da37983a70f5c8e1fe5278bbe0433421d1e9546b21e4ec4033e01/preview-400.e93706eec51a.jpg
+        sha256: e93706eec51ad8513a7f5bf41100262f57d3031b789eae01628bcc0362ad25fd
+        mime: image/jpeg
+        bytes: 31488
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01HVCE4DFCBSK55CCJGA2FVEWR
+type: image
+subtype: photo
+title: Deichstraße, Ecke Elbstraße
+date: "1992"
+origin:
+  name: Fritz Krüger
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 34/382
+subjects:
+  - name: Eisgang 1992
+    type: event
+  - name: Erika Behrens
+    type: person
+  - name: Weihnachtsmarkt 1992
+    type: event
+files:
+  - role: main
+    original_name: P4394.jpg
+    path: files/66/2b/662b9046f5d598eb7e0b891567808dc58a45a61632b985cf1b498467b36cf8e6/original.jpg
+    sha256: 662b9046f5d598eb7e0b891567808dc58a45a61632b985cf1b498467b36cf8e6
+    mime: image/jpeg
+    bytes: 23049401
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/66/2b/662b9046f5d598eb7e0b891567808dc58a45a61632b985cf1b498467b36cf8e6/preview-400.1b33d56638ff.jpg
+        sha256: 1b33d56638ff82bfd45a3162408bac96456e86d2495bbb3038e4e025f6c97a55
+        mime: image/jpeg
+        bytes: 20231
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

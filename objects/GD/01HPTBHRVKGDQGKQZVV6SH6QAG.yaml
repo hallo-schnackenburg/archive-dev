@@ -1,0 +1,46 @@
+id: 01HPTBHRVKGDQGKQZVV6SH6QAG
+type: image
+subtype: photo
+title: Speicher in Lenzen
+date: 1973/1974
+location: Seedorf, Bahnhofstraße
+geocode:
+  lat: 52.9559
+  lon: 11.665
+  precision: town
+  source: osm
+origin:
+  name: Frieda Wegner
+  type: person
+  location: Kapern
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 1/084
+subjects:
+  - name: Viehmarkt 1973
+    type: event
+  - name: Fährjubiläum 1973
+    type: event
+files:
+  - role: main
+    original_name: P0300.jpg
+    path: files/e0/ce/e0ce677c3eb452b26820d3fe3b65577624bdc1788231aa9eb6f00b5e2fca79ab/original.jpg
+    sha256: e0ce677c3eb452b26820d3fe3b65577624bdc1788231aa9eb6f00b5e2fca79ab
+    mime: image/jpeg
+    bytes: 3820937
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/e0/ce/e0ce677c3eb452b26820d3fe3b65577624bdc1788231aa9eb6f00b5e2fca79ab/preview-400.e277c67009c5.jpg
+        sha256: e277c67009c5bdfee6820ab5b466bec769859a247b70feb0fb3ac20436867614
+        mime: image/jpeg
+        bytes: 52149
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01KFN4FSTT0808EK150F82BC9D
+type: image
+subtype: plan
+title: Bauplan Apotheke 1803
+description: Mit handschriftlichen Ergänzungen.
+date: "1803"
+location: Pretzier, Fährstraße
+origin:
+  name: Walter Jeß
+  type: person
+  location: Lenzen
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Molkerei
+    type: building
+  - name: Erika Wiegmann
+    type: person
+files:
+  - role: main
+    original_name: scan_821.tif
+    path: files/3c/d5/3cd57ba0bd14497d8fda14daccddc4066d644acafc8f3396764331fbe61e5ba2/original.tif
+    sha256: 3cd57ba0bd14497d8fda14daccddc4066d644acafc8f3396764331fbe61e5ba2
+    mime: image/tiff
+    bytes: 20674019
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/3c/d5/3cd57ba0bd14497d8fda14daccddc4066d644acafc8f3396764331fbe61e5ba2/preview-400.b1a0da40f568.jpg
+        sha256: b1a0da40f5681823b4cda66061e31410969fd6af4f3fad8073a5cb402564524c
+        mime: image/jpeg
+        bytes: 57760
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

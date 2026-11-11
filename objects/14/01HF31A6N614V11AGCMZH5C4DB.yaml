@@ -1,0 +1,42 @@
+id: 01HF31A6N614V11AGCMZH5C4DB
+type: image
+subtype: photo
+title: Jürgen Voss, Porträt
+description: Farbfoto, leicht verblasst.
+date: "1900"
+location: Brünkendorf, Grenzturm
+origin:
+  name: Karl Bruns
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Br 34/039
+subjects:
+  - name: Paul Lemke
+    type: person
+  - name: Erika Lemke
+    type: person
+files:
+  - role: main
+    original_name: scan_639.tif
+    path: files/ef/15/ef15b4a82e6cc17639c0e9540368968127b1951000ec8fb2f104da13512c2ff2/original.tif
+    sha256: ef15b4a82e6cc17639c0e9540368968127b1951000ec8fb2f104da13512c2ff2
+    mime: image/tiff
+    bytes: 12292205
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ef/15/ef15b4a82e6cc17639c0e9540368968127b1951000ec8fb2f104da13512c2ff2/preview-400.94dca0934a55.jpg
+        sha256: 94dca0934a55524376ec95be96ed0014ac00ca7c3976ec62ba3a5c4a17af9418
+        mime: image/jpeg
+        bytes: 66697
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

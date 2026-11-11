@@ -1,0 +1,31 @@
+id: 01JYVMZJQCJP0N8EHT1YSG2MP0
+type: image
+subtype: print
+title: Postkarte Schnackenburg, Hafen
+description: Kupferstich, koloriert.
+date: 1938-03-17
+location: Nienwalde, Fähranleger
+origin:
+  name: Wilhelm Bohlmann
+  type: person
+  location: Lenzen
+files:
+  - role: main
+    original_name: scan_313.tif
+    path: files/ec/82/ec82b87e5c7e485342488ca8f5ca7b7a8b3a8ce1bd979e843d1176d6506dac69/original.tif
+    sha256: ec82b87e5c7e485342488ca8f5ca7b7a8b3a8ce1bd979e843d1176d6506dac69
+    mime: image/tiff
+    bytes: 3306266
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ec/82/ec82b87e5c7e485342488ca8f5ca7b7a8b3a8ce1bd979e843d1176d6506dac69/preview-400.1ec250a1d333.jpg
+        sha256: 1ec250a1d3338008e7e621dc72b93071d4917cd77db2743a8570a570bbe44c05
+        mime: image/jpeg
+        bytes: 37721
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

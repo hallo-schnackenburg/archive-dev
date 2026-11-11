@@ -1,0 +1,36 @@
+id: 01HYKH75A2PXJRNJYWWYAN007S
+type: image
+subtype: drawing
+title: Federzeichnung Mühle, Wustrow
+description: Federzeichnung, laviert.
+date: 1949-04
+location: Wittenberge, Fährstraße
+origin:
+  name: Wilhelm Rohde
+  type: person
+  location: Lüchow
+subjects:
+  - name: Pfarrhaus
+    type: building
+parents:
+  - 01GGW9C3690VQN7H7FZF3TFT19
+files:
+  - role: main
+    original_name: scan_928.tif
+    path: files/28/05/2805bcfc476cdefcafceee5ffc69835b5424b5e239b535a5bce0688796eef168/original.tif
+    sha256: 2805bcfc476cdefcafceee5ffc69835b5424b5e239b535a5bce0688796eef168
+    mime: image/tiff
+    bytes: 15626907
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/28/05/2805bcfc476cdefcafceee5ffc69835b5424b5e239b535a5bce0688796eef168/preview-400.9df0dd810b9f.jpg
+        sha256: 9df0dd810b9f40c7621ae7a3c288ec049a6022b1acd0b36100b5d20b925a5782
+        mime: image/jpeg
+        bytes: 74296
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

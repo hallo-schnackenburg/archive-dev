@@ -1,0 +1,34 @@
+id: 01J7TSF39BHRAM0CMWQP3FVQQV
+type: image
+subtype: plan
+title: Deichplan Seedorf bis Dömitz
+location: Pretzier, Badestelle
+geocode:
+  lat: 53.0056
+  lon: 11.5924
+  precision: exact
+  source: osm
+origin:
+  name: Heinz Dreyer
+  type: person
+  location: Havelberg
+files:
+  - role: main
+    original_name: scan_962.tif
+    path: files/68/9b/689b489d4398d98c8cdfa73b8f8b051038b27fd61f7078f943d0a28ea0a6ab3f/original.tif
+    sha256: 689b489d4398d98c8cdfa73b8f8b051038b27fd61f7078f943d0a28ea0a6ab3f
+    mime: image/tiff
+    bytes: 14029973
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/68/9b/689b489d4398d98c8cdfa73b8f8b051038b27fd61f7078f943d0a28ea0a6ab3f/preview-400.e918fba3c196.jpg
+        sha256: e918fba3c1968a7236819efb2fd6c9bbe953f649102555d72f3eea8097aba73a
+        mime: image/jpeg
+        bytes: 31189
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

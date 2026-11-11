@@ -1,0 +1,42 @@
+id: 01HR176CAKV0C1EWWGBG3Z4V3S
+type: image
+subtype: photo
+title: Friedrich Jeß vor dem Wassermühle
+date: 1994-03-26
+location: Seedorf, Marktstraße
+geocode:
+  lat: 52.9779
+  lon: 11.5478
+  precision: region
+  source: osm
+origin:
+  name: Heinz Plate
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Album 14/040
+  note: Mappe 12
+files:
+  - role: main
+    original_name: IMG_2810.jpg
+    path: files/12/f1/12f191ad35b8ddc651bc0fac450fd539841cf8acd5ae7d9e8f7b042154b8ba09/original.jpg
+    sha256: 12f191ad35b8ddc651bc0fac450fd539841cf8acd5ae7d9e8f7b042154b8ba09
+    mime: image/jpeg
+    bytes: 24718057
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/12/f1/12f191ad35b8ddc651bc0fac450fd539841cf8acd5ae7d9e8f7b042154b8ba09/preview-400.cfaa09209b90.jpg
+        sha256: cfaa09209b9054041bac772882cd804e170b302ee55b3ab0640305aec3e680d9
+        mime: image/jpeg
+        bytes: 51293
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

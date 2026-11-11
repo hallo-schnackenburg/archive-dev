@@ -1,0 +1,39 @@
+id: 01GH9PBJBV7KB54V3GXFB2V6DF
+type: image
+subtype: photo
+title: Weihnachtsmarkt der Gesangverein „Liedertafel“
+origin:
+  name: Fritz Lemke
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro 18/208
+subjects:
+  - name: Fähranleger
+    type: building
+  - name: Lanz
+    type: place
+files:
+  - role: main
+    original_name: scan_919.tif
+    path: files/79/01/7901245f26c393c8f3c21fef77fbe4dec2e9ca31d5f283632ebde86fa74e66be/original.tif
+    sha256: 7901245f26c393c8f3c21fef77fbe4dec2e9ca31d5f283632ebde86fa74e66be
+    mime: image/tiff
+    bytes: 23203205
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/79/01/7901245f26c393c8f3c21fef77fbe4dec2e9ca31d5f283632ebde86fa74e66be/preview-400.fc81e0c8ffca.jpg
+        sha256: fc81e0c8ffca09c39474fd06850912a8c2aef6971a1687eb2999a4c0c23cc328
+        mime: image/jpeg
+        bytes: 38078
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,39 @@
+id: 01FV22X26KV02E811M9HDSKRP4
+type: image
+subtype: photo
+title: Glockenweihe der Handwerkerinnung
+location: Gartow, Dorfstraße
+geocode:
+  lat: 52.9576
+  lon: 11.6519
+  precision: region
+  source: osm
+origin:
+  name: Karl Cohrs
+  type: person
+  location: Gorleben
+subjects:
+  - name: Maifeier 1897
+    type: event
+  - name: Lotte Jeß
+    type: person
+files:
+  - role: main
+    original_name: DSC1708.jpg
+    path: files/e4/46/e446e830874e6f91bab1539339ef4faaeb802f1f690685ec7d824a98e9b45685/original.jpg
+    sha256: e446e830874e6f91bab1539339ef4faaeb802f1f690685ec7d824a98e9b45685
+    mime: image/jpeg
+    bytes: 8622647
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/e4/46/e446e830874e6f91bab1539339ef4faaeb802f1f690685ec7d824a98e9b45685/preview-400.4cfe82cfb7eb.jpg
+        sha256: 4cfe82cfb7eb5c6262ea25bcea0279df135927cbbf69ccaa04b448439b0863ed
+        mime: image/jpeg
+        bytes: 69469
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

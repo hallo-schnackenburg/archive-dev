@@ -1,0 +1,40 @@
+id: 01HAW6YYYF4KZTHAYK8T9NF15Y
+type: image
+subtype: print
+title: Postkarte Gartow, Apotheke
+description: Kupferstich, koloriert.
+date: 1857-02
+location: Lüchow, Elbstraße
+origin:
+  name: Heinz Voss
+  type: person
+  location: Cumlosen
+subjects:
+  - name: Zollamt
+    type: building
+  - name: Fährjubiläum 1857
+    type: event
+  - name: Kartoffelernte 1857
+    type: event
+parents:
+  - 01F54Y44HWBYAXTTC3F5NVVN21
+files:
+  - role: main
+    original_name: scan_272.tif
+    path: files/27/15/2715517296f3dc14ff1da0d911454f109e35a63590307907e7b0e5e5914366bc/original.tif
+    sha256: 2715517296f3dc14ff1da0d911454f109e35a63590307907e7b0e5e5914366bc
+    mime: image/tiff
+    bytes: 27547185
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/27/15/2715517296f3dc14ff1da0d911454f109e35a63590307907e7b0e5e5914366bc/preview-400.1e2cb9b1b70c.jpg
+        sha256: 1e2cb9b1b70c6ebcad9151b39bb775bd1a84e8342c0db0ec3e9049e19f2a655f
+        mime: image/jpeg
+        bytes: 22899
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

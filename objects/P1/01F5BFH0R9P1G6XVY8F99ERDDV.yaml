@@ -1,0 +1,33 @@
+id: 01F5BFH0R9P1G6XVY8F99ERDDV
+type: image
+subtype: drawing
+title: Apotheke, Aquarell
+description: Bleistift auf Papier.
+date: 1947-01
+origin:
+  name: Hedwig Wegner
+  type: person
+  location: Gülden
+parents:
+  - 01GTBPQD1S4KYDH3R014D5J1PZ
+  - 01H4PN30WRRJ626WVNCSGETHA9
+files:
+  - role: main
+    original_name: scan_925.tif
+    path: files/f8/e0/f8e0009d70553476b3d0a97743a3686ec8486dbd1dd3bf8e4abe613d4b570183/original.tif
+    sha256: f8e0009d70553476b3d0a97743a3686ec8486dbd1dd3bf8e4abe613d4b570183
+    mime: image/tiff
+    bytes: 22929441
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f8/e0/f8e0009d70553476b3d0a97743a3686ec8486dbd1dd3bf8e4abe613d4b570183/preview-400.7794eaac2f5b.jpg
+        sha256: 7794eaac2f5bcfc2b9b40fcab0da0e95b05b4c3aadc360dfdf317128684a6023
+        mime: image/jpeg
+        bytes: 53146
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

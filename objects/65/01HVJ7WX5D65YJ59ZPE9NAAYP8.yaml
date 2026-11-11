@@ -1,0 +1,60 @@
+id: 01HVJ7WX5D65YJ59ZPE9NAAYP8
+type: document
+subtype: letter
+title: Zeugnis für Ilse Rieke
+date: 1910-06
+location: Bömenzien, Scheune
+geocode:
+  lat: 52.9422
+  lon: 11.4685
+  precision: street
+  source: osm
+origin:
+  name: Paul Wöhlk
+  type: person
+  location: Havelberg
+recipient: Wilhelm Plate
+language: de
+parents:
+  - 01F88NE4NP6MTSKBG15MEZQEXV
+files:
+  - role: page
+    num: 1
+    original_name: letter_naayp8_001.tif
+    path: files/2b/ab/2bab891f3c5ddbaf1429396a21cb7a52998c06895deee528b6ff8c0b3bd68b2a/original.tif
+    sha256: 2bab891f3c5ddbaf1429396a21cb7a52998c06895deee528b6ff8c0b3bd68b2a
+    mime: image/tiff
+    bytes: 15458769
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2b/ab/2bab891f3c5ddbaf1429396a21cb7a52998c06895deee528b6ff8c0b3bd68b2a/preview-400.7e8037e0a316.jpg
+        sha256: 7e8037e0a316468260af4f6b1b95c64220eb053c46502aed3fc1f4d0e32a78fa
+        mime: image/jpeg
+        bytes: 33659
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_naayp8_002.tif
+    path: files/f9/57/f957ae69dc53aea2707e862e495086ba8f48963176e32c7d701973d160a1dcb3/original.tif
+    sha256: f957ae69dc53aea2707e862e495086ba8f48963176e32c7d701973d160a1dcb3
+    mime: image/tiff
+    bytes: 26763001
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f9/57/f957ae69dc53aea2707e862e495086ba8f48963176e32c7d701973d160a1dcb3/preview-400.6101840062fe.jpg
+        sha256: 6101840062fe97a5a5919534076852dfe1c566d71f819d256422239f5e54d34d
+        mime: image/jpeg
+        bytes: 56624
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

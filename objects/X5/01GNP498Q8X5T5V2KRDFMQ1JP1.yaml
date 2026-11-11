@@ -1,0 +1,32 @@
+id: 01GNP498Q8X5T5V2KRDFMQ1JP1
+type: image
+subtype: print
+title: "Kupferstich: Arendsee von der Elbseite, Pretzier"
+date: "1909"
+location: Salzwedel, Deichstraße
+origin:
+  name: Günter Lemke
+  type: person
+  location: Gartow
+parents:
+  - 01F267JRW9ANSP74NWFX31H9W4
+files:
+  - role: main
+    original_name: scan_850.tif
+    path: files/85/48/8548ddbf05e42004720cab01ae594d8b49ec6d4f138c3955794e4b4841b7fae9/original.tif
+    sha256: 8548ddbf05e42004720cab01ae594d8b49ec6d4f138c3955794e4b4841b7fae9
+    mime: image/tiff
+    bytes: 17725616
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/85/48/8548ddbf05e42004720cab01ae594d8b49ec6d4f138c3955794e4b4841b7fae9/preview-400.f1ceae204d90.jpg
+        sha256: f1ceae204d9060805b671d09cc5d9ca34f7368bbec0cf88a897c13f59cdc3787
+        mime: image/jpeg
+        bytes: 62168
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

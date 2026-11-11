@@ -1,0 +1,43 @@
+id: 01J0JBN950T1S2TMFWGQ0CJK6S
+type: image
+subtype: photo
+title: Badestelle in Lenzen
+description: Farbfoto, leicht verblasst.
+date: 1948-12
+location: Seedorf, Scheune
+geocode:
+  lat: 53.0943
+  lon: 11.5181
+  precision: town
+  source: osm
+origin:
+  name: Erika Nitschke
+  type: person
+  location: Zadrau
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Wustrow
+    type: place
+  - name: Dieter Lemke
+    type: person
+files:
+  - role: main
+    original_name: foto_5748.jpg
+    path: files/2e/3c/2e3c22933c0068c9e34895a025d0cdee7a2869818251ac787515311a2be698d0/original.jpg
+    sha256: 2e3c22933c0068c9e34895a025d0cdee7a2869818251ac787515311a2be698d0
+    mime: image/jpeg
+    bytes: 11006267
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/2e/3c/2e3c22933c0068c9e34895a025d0cdee7a2869818251ac787515311a2be698d0/preview-400.5490dfa88fd9.jpg
+        sha256: 5490dfa88fd9d6fffe6c6ae1dd48ad38e5d70869921693eafa176c5079d680e7
+        mime: image/jpeg
+        bytes: 32387
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,45 @@
+id: 01HSNDR5GDZDT5NFYT9JPH484K
+type: image
+subtype: photo
+title: Blick vom Kirche St. Johannis auf das Kaufmannshaus
+description: Farbfoto, leicht verblasst.
+date: 1958-09-24
+origin:
+  name: Hedwig Schulz
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 38/068
+  note: Kellerarchiv
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v56415
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+  - name: Beerdigung 1958
+    type: event
+parents:
+  - 01M0CBRWW56FRQVDWWMJQPF72C
+files:
+  - role: main
+    original_name: scan_346.tif
+    path: files/c2/e3/c2e38640ef15de6f6956fafbbfcda5e5bb28dca78cb1da89ff2878fabcc41f3f/original.tif
+    sha256: c2e38640ef15de6f6956fafbbfcda5e5bb28dca78cb1da89ff2878fabcc41f3f
+    mime: image/tiff
+    bytes: 12037392
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/e3/c2e38640ef15de6f6956fafbbfcda5e5bb28dca78cb1da89ff2878fabcc41f3f/preview-400.82ade5195f8f.jpg
+        sha256: 82ade5195f8fe74f41087b4c80c2b481db2a31acc5796974d8e1d6eb7f48b553
+        mime: image/jpeg
+        bytes: 66378
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

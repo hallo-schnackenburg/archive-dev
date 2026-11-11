@@ -1,0 +1,73 @@
+id: 01F3N9Y9K0HWEQMG1PRE4BQ6FQ
+type: document
+subtype: protocol
+title: Protokoll des Stadtrat vom 1911
+description: "Beschlossen wurde unter anderem: Schulgeld."
+date: 1911-04
+location: Gülden, Dorfstraße
+geocode:
+  lat: 52.9359
+  lon: 11.493
+  precision: region
+  source: osm
+origin:
+  name: Ortsrat Brünkendorf
+  type: business
+  location: Lanz
+language: de
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Schrank B
+owner:
+  name: Heinrich Heuer
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Seedorf
+    type: place
+  - name: Brünkendorf
+    type: place
+files:
+  - role: page
+    num: 1
+    original_name: protocol_4bq6fq_001.tif
+    path: files/c2/63/c26331999dce8f67121efad5832b05b1ffa18837217723da964ca2272b0024a8/original.tif
+    sha256: c26331999dce8f67121efad5832b05b1ffa18837217723da964ca2272b0024a8
+    mime: image/tiff
+    bytes: 6645721
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/63/c26331999dce8f67121efad5832b05b1ffa18837217723da964ca2272b0024a8/preview-400.2286aff42fad.jpg
+        sha256: 2286aff42fad2ab401dfa56abc6be8359e64f01503bf5d4ff48b5ce4b5106f8e
+        mime: image/jpeg
+        bytes: 87279
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_4bq6fq_002.tif
+    path: files/0b/2a/0b2acc5b614d7775e179f96f74309baf07824c46d3b914b6de1796debc1f3430/original.tif
+    sha256: 0b2acc5b614d7775e179f96f74309baf07824c46d3b914b6de1796debc1f3430
+    mime: image/tiff
+    bytes: 26056165
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0b/2a/0b2acc5b614d7775e179f96f74309baf07824c46d3b914b6de1796debc1f3430/preview-400.4b784d357368.jpg
+        sha256: 4b784d3573686c2c161685d128691d6e2d59a79593a20a1077df7ea3f91fcf91
+        mime: image/jpeg
+        bytes: 84487
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

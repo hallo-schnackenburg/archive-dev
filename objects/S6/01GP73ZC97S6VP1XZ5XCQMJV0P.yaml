@@ -1,0 +1,41 @@
+id: 01GP73ZC97S6VP1XZ5XCQMJV0P
+type: image
+subtype: photo
+title: Ortsbesichtigung der Freiwillige Feuerwehr
+description: Zu sehen sind Sparkasse und Ladestraße.
+date: 1899?
+location: Salzwedel, Tischlerei Bruns
+geocode:
+  lat: 52.9424
+  lon: 11.6123
+  precision: street
+  source: osm
+origin:
+  name: August Lemke
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+files:
+  - role: main
+    original_name: scan_042.tif
+    path: files/89/7a/897aa3938e9fff425d27ce7682cbe232d134d8298caa40d5427779585e303d56/original.tif
+    sha256: 897aa3938e9fff425d27ce7682cbe232d134d8298caa40d5427779585e303d56
+    mime: image/tiff
+    bytes: 13893643
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/89/7a/897aa3938e9fff425d27ce7682cbe232d134d8298caa40d5427779585e303d56/preview-400.ec730b13a8ea.jpg
+        sha256: ec730b13a8ea5ad7c137187f730c3cd222ec553ca5f64f165068277e980dd5ef
+        mime: image/jpeg
+        bytes: 87199
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

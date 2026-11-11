@@ -1,0 +1,42 @@
+id: 01HH1E7HHPEDWR48GN18G9RZT3
+type: image
+subtype: photo
+title: Eisgang 2002
+description: Aufnahme von Käthe Gaede.
+date: "2002"
+location: Rüterberg, Gartenstraße
+geocode:
+  lat: 52.9985
+  lon: 11.6946
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 20/254
+  note: Bücherregal links
+subjects:
+  - name: Konfirmation 2002
+    type: event
+files:
+  - role: main
+    original_name: scan_862.tif
+    path: files/e3/41/e3416dd1fcab0829726022a0d528603fd0dc33167874e653d261b1251575b8fb/original.tif
+    sha256: e3416dd1fcab0829726022a0d528603fd0dc33167874e653d261b1251575b8fb
+    mime: image/tiff
+    bytes: 16044691
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e3/41/e3416dd1fcab0829726022a0d528603fd0dc33167874e653d261b1251575b8fb/preview-400.9922e3eba790.jpg
+        sha256: 9922e3eba790ff2669be85ae62b1f13e37b867fbc65e25fb0b408194cf15ceac
+        mime: image/jpeg
+        bytes: 82990
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

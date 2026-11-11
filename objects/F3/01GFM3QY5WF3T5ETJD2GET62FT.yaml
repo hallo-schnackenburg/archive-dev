@@ -1,0 +1,37 @@
+id: 01GFM3QY5WF3T5ETJD2GET62FT
+type: image
+subtype: photo
+title: Hans Rieke, Porträt
+date: 1895-10-05
+location: Hitzacker, Lange Straße
+origin:
+  name: Petra Voss
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Hochzeit 1895
+    type: event
+  - name: Weihnachtsmarkt 1895
+    type: event
+  - name: Ilse Hartwig
+    type: person
+files:
+  - role: main
+    original_name: IMG_9584.jpg
+    path: files/05/da/05da5874886a573d77befc6afdde6672b85dd3d4ade734888ee803b9c3017bc1/original.jpg
+    sha256: 05da5874886a573d77befc6afdde6672b85dd3d4ade734888ee803b9c3017bc1
+    mime: image/jpeg
+    bytes: 15610576
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/05/da/05da5874886a573d77befc6afdde6672b85dd3d4ade734888ee803b9c3017bc1/preview-400.2951743e0d45.jpg
+        sha256: 2951743e0d4592a4f8654687f0bbea6f27a0e7d64a4ce1d22d57122b46d8674d
+        mime: image/jpeg
+        bytes: 51574
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

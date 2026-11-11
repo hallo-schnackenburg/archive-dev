@@ -1,0 +1,35 @@
+id: 01JG9Z3V100RPT66NWNM7H084H
+type: image
+subtype: print
+title: Postkarte Arendsee, Feuerwehrhaus
+description: Kupferstich, koloriert.
+date: 1932-11-22
+origin:
+  name: Karl Nitschke
+  type: person
+  location: Holtorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+files:
+  - role: main
+    original_name: scan_028.tif
+    path: files/4e/bb/4ebb6e327bf55c2d464f679590da473906a7b3577bac5d5f484ba0879a2ffd1a/original.tif
+    sha256: 4ebb6e327bf55c2d464f679590da473906a7b3577bac5d5f484ba0879a2ffd1a
+    mime: image/tiff
+    bytes: 2244059
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/4e/bb/4ebb6e327bf55c2d464f679590da473906a7b3577bac5d5f484ba0879a2ffd1a/preview-400.e1cb1eb1b0d5.jpg
+        sha256: e1cb1eb1b0d55f523f5a078daea4967c5fc693f96b2afc5c9604b27049d1ca57
+        mime: image/jpeg
+        bytes: 89928
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

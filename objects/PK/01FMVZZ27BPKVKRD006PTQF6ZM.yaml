@@ -1,0 +1,74 @@
+id: 01FMVZZ27BPKVKRD006PTQF6ZM
+type: document
+subtype: letter
+title: Dankschreiben Handwerkerinnung
+date: 1950-05
+location: Salzwedel, Deichstraße
+geocode:
+  lat: 52.9231
+  lon: 11.4548
+  precision: street
+  source: osm
+origin:
+  name: Erika Jeß
+  type: person
+  location: Pretzier
+recipient: Käthe Meyer
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 4/064
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Tischlerei Bruns
+    type: building
+  - name: Ortsbesichtigung 1950
+    type: event
+parents:
+  - 01GT4AQMYDQV6X3W40VS0A09TX
+files:
+  - role: page
+    num: 1
+    original_name: letter_tqf6zm_001.tif
+    path: files/d4/73/d4733bd967e39d55e51807e401b5b73f84d479485000f5a6a8c7038924b9df33/original.tif
+    sha256: d4733bd967e39d55e51807e401b5b73f84d479485000f5a6a8c7038924b9df33
+    mime: image/tiff
+    bytes: 6867893
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/73/d4733bd967e39d55e51807e401b5b73f84d479485000f5a6a8c7038924b9df33/preview-400.20eaafaced1d.jpg
+        sha256: 20eaafaced1d077cc3dd4e0107340581437be36659e6cf571d045f8156371eb7
+        mime: image/jpeg
+        bytes: 58043
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_tqf6zm_002.tif
+    path: files/43/42/4342ad88dad8bc48758340f3fa12b78dc60e1c246cad53c5a0c563c059abb884/original.tif
+    sha256: 4342ad88dad8bc48758340f3fa12b78dc60e1c246cad53c5a0c563c059abb884
+    mime: image/tiff
+    bytes: 14215938
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/43/42/4342ad88dad8bc48758340f3fa12b78dc60e1c246cad53c5a0c563c059abb884/preview-400.6cd2d0dc9079.jpg
+        sha256: 6cd2d0dc9079f896df286b364940b8a50ebde0c5349388892fc9a5a8154d970c
+        mime: image/jpeg
+        bytes: 22034
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

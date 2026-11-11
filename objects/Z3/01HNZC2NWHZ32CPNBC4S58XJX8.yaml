@@ -1,0 +1,32 @@
+id: 01HNZC2NWHZ32CPNBC4S58XJX8
+type: image
+subtype: print
+title: Postkarte Hitzacker, Gemeindehaus
+location: Nienwalde, Lange Straße
+origin:
+  name: Frieda Hennings
+  type: person
+  location: Restorf
+subjects:
+  - name: Heinrich Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_138.tif
+    path: files/b9/2b/b92bc14e951c3b26c10bf863637e96807575da2a116eeaa308472a773eb9d9a2/original.tif
+    sha256: b92bc14e951c3b26c10bf863637e96807575da2a116eeaa308472a773eb9d9a2
+    mime: image/tiff
+    bytes: 12119572
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b9/2b/b92bc14e951c3b26c10bf863637e96807575da2a116eeaa308472a773eb9d9a2/preview-400.7c6a29ee4be6.jpg
+        sha256: 7c6a29ee4be64f06c85c20aa2e9d9fe878d430c8ce8f5fcf123ae2d719f0b1b0
+        mime: image/jpeg
+        bytes: 89222
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

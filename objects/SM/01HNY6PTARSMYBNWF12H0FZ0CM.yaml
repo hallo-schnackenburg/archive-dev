@@ -1,0 +1,35 @@
+id: 01HNY6PTARSMYBNWF12H0FZ0CM
+type: image
+subtype: print
+title: "Kupferstich: Restorf von der Elbseite, Lanz"
+date: 1951-02-01
+location: Gorleben, Friedhofskapelle
+geocode:
+  lat: 53.0619
+  lon: 11.6612
+  precision: street
+  source: osm
+origin:
+  name: Käthe Cohrs
+  type: person
+  location: Cumlosen
+files:
+  - role: main
+    original_name: scan_495.tif
+    path: files/c2/49/c249ff5ad75354ae593b9f175f211c31b69e06ef2b250097418dee97c802c21f/original.tif
+    sha256: c249ff5ad75354ae593b9f175f211c31b69e06ef2b250097418dee97c802c21f
+    mime: image/tiff
+    bytes: 14778953
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c2/49/c249ff5ad75354ae593b9f175f211c31b69e06ef2b250097418dee97c802c21f/preview-400.dfdd4872d973.jpg
+        sha256: dfdd4872d973a3bc25738a5ae94f5fcc0346defd2081b76f4806b40619ca2be4
+        mime: image/jpeg
+        bytes: 36922
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

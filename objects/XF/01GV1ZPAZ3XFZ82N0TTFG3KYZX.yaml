@@ -1,0 +1,31 @@
+id: 01GV1ZPAZ3XFZ82N0TTFG3KYZX
+type: image
+subtype: print
+title: Postkarte Rüterberg, Hafen
+description: Postkarte, gelaufen 1945.
+date: 1745/1746
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+files:
+  - role: main
+    original_name: scan_762.tif
+    path: files/62/cb/62cbb9a8384f1efe1a66aaa7e3ee0cc954aff6100e075c2c6ddb6d982c3c5b0e/original.tif
+    sha256: 62cbb9a8384f1efe1a66aaa7e3ee0cc954aff6100e075c2c6ddb6d982c3c5b0e
+    mime: image/tiff
+    bytes: 21552979
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/62/cb/62cbb9a8384f1efe1a66aaa7e3ee0cc954aff6100e075c2c6ddb6d982c3c5b0e/preview-400.969156f5276f.jpg
+        sha256: 969156f5276fa302d41451035f59e742227b9ee8525eda8ba09be75a82055e44
+        mime: image/jpeg
+        bytes: 37570
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,33 @@
+id: 01FABJ5C20WR4QEGFJV7YFD3QD
+type: image
+subtype: print
+title: Lithographie Sportplatz, Arendsee
+description: Kupferstich, koloriert.
+date: 1785/1789
+origin:
+  name: Emma Lüders
+  type: person
+  location: Havelberg
+subjects:
+  - name: Havelberg
+    type: place
+files:
+  - role: main
+    original_name: scan_871.tif
+    path: files/d5/af/d5afecd41850f76c8d9248edc6a93ae6ecfc12ba7236b1fc61e3a0b359ea7277/original.tif
+    sha256: d5afecd41850f76c8d9248edc6a93ae6ecfc12ba7236b1fc61e3a0b359ea7277
+    mime: image/tiff
+    bytes: 9798616
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d5/af/d5afecd41850f76c8d9248edc6a93ae6ecfc12ba7236b1fc61e3a0b359ea7277/preview-400.649f6f5cf9d2.jpg
+        sha256: 649f6f5cf9d27f07c911c6a20dadeb6f9832c4008fa6646283d2181385823f37
+        mime: image/jpeg
+        bytes: 24672
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

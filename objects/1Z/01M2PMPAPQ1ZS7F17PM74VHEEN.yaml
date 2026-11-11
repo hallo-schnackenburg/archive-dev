@@ -1,0 +1,47 @@
+id: 01M2PMPAPQ1ZS7F17PM74VHEEN
+type: image
+subtype: drawing
+title: Skizze Schnackenburg, Burgstraße
+description: Bleistift auf Papier.
+date: 1848-06-25
+location: Rüterberg, Windmühle
+origin:
+  name: Otto Tiedemann
+  type: person
+  location: Gartow
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 12/338
+subjects:
+  - name: Kindergarten
+    type: building
+  - name: Kapern
+    type: place
+  - name: Karl Bohlmann
+    type: person
+parents:
+  - 01HQR6RV72ZH2HDYEHKXXJ1EJM
+  - 01FW1Z22ADA66X2V6627E3G693
+files:
+  - role: main
+    original_name: scan_743.tif
+    path: files/43/ab/43ab94f98c5a2570c8d3d5a6b4829be83f29ec9d2314ef7ce6ee87515bcbd21a/original.tif
+    sha256: 43ab94f98c5a2570c8d3d5a6b4829be83f29ec9d2314ef7ce6ee87515bcbd21a
+    mime: image/tiff
+    bytes: 25233672
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/43/ab/43ab94f98c5a2570c8d3d5a6b4829be83f29ec9d2314ef7ce6ee87515bcbd21a/preview-400.bf520903c471.jpg
+        sha256: bf520903c471b3744868d74e345df8f4682141660ffdd84a21c8b0fe90e13288
+        mime: image/jpeg
+        bytes: 45323
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,50 @@
+id: 01GRMYW84WAHBHR1MAJ17A593G
+type: image
+subtype: photo
+title: Familie Mahnke beim Hochzeit
+description: Abzug im Format 13 x 18 cm.
+location: Havelberg, Bäckerei Lüders
+geocode:
+  lat: 52.9326
+  lon: 11.4954
+  precision: region
+  source: osm
+origin:
+  name: Otto Plate
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F 19/169
+subjects:
+  - name: Weihnachtsmarkt 1971
+    type: event
+  - name: Dorfkrug
+    type: building
+  - name: Erika Tiedemann
+    type: person
+parents:
+  - 01H46K9BSD0B1AGYJKV43CT13X
+files:
+  - role: main
+    original_name: P4329.jpg
+    path: files/a0/a8/a0a81bfbd37a52488ae8a1735a62083893815af9c7862fabb1a0359d3b3512de/original.jpg
+    sha256: a0a81bfbd37a52488ae8a1735a62083893815af9c7862fabb1a0359d3b3512de
+    mime: image/jpeg
+    bytes: 18383401
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/a0/a8/a0a81bfbd37a52488ae8a1735a62083893815af9c7862fabb1a0359d3b3512de/preview-400.339a5ac3d22b.jpg
+        sha256: 339a5ac3d22befd98e7ecb4b1523f00d4ba1453e0cea2c9710eb002ee8b8f29f
+        mime: image/jpeg
+        bytes: 67314
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

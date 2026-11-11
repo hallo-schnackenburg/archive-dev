@@ -1,0 +1,30 @@
+id: 01FNJ1XMDKBTZBE2KCZHS7RBCP
+type: image
+subtype: photo
+title: Viehmarkt 1909
+description: Aufnahme von Wilhelm Lemke.
+date: 1909-04-26
+location: Wootz, Am Elbdeich
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+files:
+  - role: main
+    original_name: DSC4619.jpg
+    path: files/3e/d0/3ed072d23431e778e649eef785c591a9f5d5646390a5e720518c884e3f22d06b/original.jpg
+    sha256: 3ed072d23431e778e649eef785c591a9f5d5646390a5e720518c884e3f22d06b
+    mime: image/jpeg
+    bytes: 14698561
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/3e/d0/3ed072d23431e778e649eef785c591a9f5d5646390a5e720518c884e3f22d06b/preview-400.1752a222208e.jpg
+        sha256: 1752a222208e37a4feb2be947ccc40ab504f8c8ab9a54d1b11dcefa7e6439830
+        mime: image/jpeg
+        bytes: 47509
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

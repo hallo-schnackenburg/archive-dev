@@ -1,0 +1,65 @@
+id: 01J0PS3HFFFMWA8YHXSP4W84AH
+type: document
+subtype: letter
+title: Beschwerde über Schulspeisung
+date: 1962-03-15
+location: Nienwalde, Mühlenweg
+geocode:
+  lat: 53.0208
+  lon: 11.5846
+  precision: street
+  source: osm
+origin:
+  name: Marta Rieke
+  type: person
+  location: Wittenberge
+recipient: Karl Schulz
+language: de
+subjects:
+  - name: Dieter Wiegmann
+    type: person
+  - name: Zadrau
+    type: place
+  - name: Fährjubiläum 1962
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: letter_4w84ah_001.tif
+    path: files/82/05/8205b9932350ef1344db704b8ca71ca6b797423b78b0948133427ed58983c582/original.tif
+    sha256: 8205b9932350ef1344db704b8ca71ca6b797423b78b0948133427ed58983c582
+    mime: image/tiff
+    bytes: 25411659
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/82/05/8205b9932350ef1344db704b8ca71ca6b797423b78b0948133427ed58983c582/preview-400.3fc6233aabd2.jpg
+        sha256: 3fc6233aabd249c6d61933ce9ac80457e3950b122f8cf0071945430f0c613cf0
+        mime: image/jpeg
+        bytes: 74993
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_4w84ah_002.tif
+    path: files/da/2a/da2ab05af588bfe3a775b0259b1ed2278444d1cdc5a7cc7e0a5cf292fbaae68e/original.tif
+    sha256: da2ab05af588bfe3a775b0259b1ed2278444d1cdc5a7cc7e0a5cf292fbaae68e
+    mime: image/tiff
+    bytes: 1471204
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/2a/da2ab05af588bfe3a775b0259b1ed2278444d1cdc5a7cc7e0a5cf292fbaae68e/preview-400.2fe8878a08d2.jpg
+        sha256: 2fe8878a08d2a21854aec3a084ea58913aa258b788b567bd0c71c6943fb313e8
+        mime: image/jpeg
+        bytes: 38036
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

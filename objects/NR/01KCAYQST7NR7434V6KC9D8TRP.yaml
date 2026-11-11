@@ -1,0 +1,43 @@
+id: 01KCAYQST7NR7434V6KC9D8TRP
+type: image
+subtype: photo
+title: Familie Garms beim Erntedankfest
+date: 1952-06
+location: Lenzen, Deichstraße
+geocode:
+  lat: 53.0153
+  lon: 11.5963
+  precision: street
+  source: osm
+origin:
+  name: Erika Krüger
+  type: person
+  location: Nienwalde
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 27/079
+parents:
+  - 01FPBW8XQ5TR1SGGQ9277H4RM1
+files:
+  - role: main
+    original_name: scan_645.tif
+    path: files/b6/c8/b6c8e6a6ad69ef5570b5557c23707426025fd2a9891204b5c38ae80a499d01b3/original.tif
+    sha256: b6c8e6a6ad69ef5570b5557c23707426025fd2a9891204b5c38ae80a499d01b3
+    mime: image/tiff
+    bytes: 21322028
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b6/c8/b6c8e6a6ad69ef5570b5557c23707426025fd2a9891204b5c38ae80a499d01b3/preview-400.cdc1b69242ee.jpg
+        sha256: cdc1b69242ee6941ad75266acdce2a6f7f926ccc7e038817a76a44db4a9934d8
+        mime: image/jpeg
+        bytes: 31078
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

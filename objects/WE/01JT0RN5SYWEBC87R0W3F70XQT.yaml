@@ -1,0 +1,57 @@
+id: 01JT0RN5SYWEBC87R0W3F70XQT
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Kegelclub 1903
+date: 1903-08
+location: Holtorf, Burgstraße
+geocode:
+  lat: 52.9444
+  lon: 11.6792
+  precision: region
+  source: osm
+origin:
+  name: Verbandsversammlung Lenzen
+  type: business
+  location: Brünkendorf
+language: de
+files:
+  - role: page
+    num: 1
+    original_name: protocol_f70xqt_001.tif
+    path: files/63/4a/634a05d74f39446dfa43d7c2dae9fb89e97b623aee91e400f1792d3aa1ee8a65/original.tif
+    sha256: 634a05d74f39446dfa43d7c2dae9fb89e97b623aee91e400f1792d3aa1ee8a65
+    mime: image/tiff
+    bytes: 3202901
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/63/4a/634a05d74f39446dfa43d7c2dae9fb89e97b623aee91e400f1792d3aa1ee8a65/preview-400.66885c9a092a.jpg
+        sha256: 66885c9a092a84d9f01b39a98cd947746915bc2d06e05901f2f14b91ab3450e7
+        mime: image/jpeg
+        bytes: 84359
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_f70xqt_002.tif
+    path: files/d0/89/d08991bebfe1249ac6c7008146bb7fc4e50dbff937802a1886d831f8a2c7caae/original.tif
+    sha256: d08991bebfe1249ac6c7008146bb7fc4e50dbff937802a1886d831f8a2c7caae
+    mime: image/tiff
+    bytes: 17872905
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d0/89/d08991bebfe1249ac6c7008146bb7fc4e50dbff937802a1886d831f8a2c7caae/preview-400.ed7f83dce0c5.jpg
+        sha256: ed7f83dce0c5a0ed4949a1cc7e0dc2a06d5d86fd581ffaae3ef2e5a6051885d4
+        mime: image/jpeg
+        bytes: 47236
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

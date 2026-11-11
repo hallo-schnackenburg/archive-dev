@@ -1,0 +1,44 @@
+id: 01HP5KH4JQX8F1VDEV395EH07B
+type: image
+subtype: photo
+title: Dorfladen nach dem Feuerwehrübung
+description: Farbfoto, leicht verblasst.
+date: 1951-07
+location: Gorleben, Windmühle
+geocode:
+  lat: 52.9005
+  lon: 11.5768
+  precision: region
+  source: osm
+origin:
+  name: Uwe Matthies
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 4/274
+parents:
+  - 01HEQM7NSGG9CPG145FYB637TF
+files:
+  - role: main
+    original_name: P5436.jpg
+    path: files/fd/69/fd69d856d5ef0a491776d4dc56658439425e3fbdbe9495c0d02f4e67f7bd2243/original.jpg
+    sha256: fd69d856d5ef0a491776d4dc56658439425e3fbdbe9495c0d02f4e67f7bd2243
+    mime: image/jpeg
+    bytes: 12388613
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/fd/69/fd69d856d5ef0a491776d4dc56658439425e3fbdbe9495c0d02f4e67f7bd2243/preview-400.8aca405a06d4.jpg
+        sha256: 8aca405a06d4409b145778d70f68bf933b79831a1585bca19ef06dddb718cbc0
+        mime: image/jpeg
+        bytes: 86771
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,29 @@
+id: 01GNC9123P07T61NB2WT84H6ZA
+type: image
+subtype: plan
+title: Bauplan Kirche St. Johannis 1937
+date: 1937-05
+origin:
+  name: Karl Lenz
+  type: person
+  location: Kapern
+files:
+  - role: main
+    original_name: scan_238.tif
+    path: files/82/30/823002d58b3ccfe8955e028745fb566869f47acb425937445fb33a7ac8f9752c/original.tif
+    sha256: 823002d58b3ccfe8955e028745fb566869f47acb425937445fb33a7ac8f9752c
+    mime: image/tiff
+    bytes: 25970456
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/82/30/823002d58b3ccfe8955e028745fb566869f47acb425937445fb33a7ac8f9752c/preview-400.f57f89049286.jpg
+        sha256: f57f890492865d5b8594f38af6e43eb25a511505e9c6d09b6ec645574ac3e8b1
+        mime: image/jpeg
+        bytes: 61311
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

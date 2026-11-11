@@ -1,0 +1,41 @@
+id: 01H423KW7QND45B6A6JCPSNJ74
+type: image
+subtype: photo
+title: Erika Bohlmann vor dem Bäckerei Lüders
+description: Aufnahme von Ilse Brandt.
+date: "1895"
+origin:
+  name: Brigitte Schulz
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 25/203
+subjects:
+  - name: Straßenfest 1895
+    type: event
+parents:
+  - 01J6CWVRW5ZWM3PCSZT7CG4EQA
+files:
+  - role: main
+    original_name: scan_549.tif
+    path: files/5d/6e/5d6e24c1b98046e942d88712b3968d9da9e3a8de22a8ac6f2ba7a9766627d538/original.tif
+    sha256: 5d6e24c1b98046e942d88712b3968d9da9e3a8de22a8ac6f2ba7a9766627d538
+    mime: image/tiff
+    bytes: 497150
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/5d/6e/5d6e24c1b98046e942d88712b3968d9da9e3a8de22a8ac6f2ba7a9766627d538/preview-400.db545d8a71e8.jpg
+        sha256: db545d8a71e8ea2bc7bbe68e42f6d4e552e9cb9de7316dbd5c6431357386d55e
+        mime: image/jpeg
+        bytes: 36134
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

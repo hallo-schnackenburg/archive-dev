@@ -1,0 +1,69 @@
+id: 01JGH23AGY22K1RXG9DN3V81S6
+type: document
+subtype: note
+title: Quittung für Erika Kuhlmann
+date: 1870-12-21
+location: Restorf, Gärtnerei
+geocode:
+  lat: 53.0393
+  lon: 11.6363
+  precision: town
+  source: osm
+origin:
+  name: Walter Burmester
+  type: person
+  location: Zadrau
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Plan 30/372
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v96136
+subjects:
+  - name: Deicharbeiten 1870
+    type: event
+parents:
+  - 01KM675ZVCQFMKZVG8XHYFJ6C9
+files:
+  - role: page
+    num: 1
+    original_name: note_3v81s6_001.tif
+    path: files/43/18/4318f401a67b7fce6796b6ef00c2da13541e3ab8c7ea09d46258b4e6fe4aa182/original.tif
+    sha256: 4318f401a67b7fce6796b6ef00c2da13541e3ab8c7ea09d46258b4e6fe4aa182
+    mime: image/tiff
+    bytes: 12204913
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/43/18/4318f401a67b7fce6796b6ef00c2da13541e3ab8c7ea09d46258b4e6fe4aa182/preview-400.61e725a80973.jpg
+        sha256: 61e725a80973acc9d4fdaeb724d417d5d70a140f5e561433ff1f90dd0fd269b3
+        mime: image/jpeg
+        bytes: 36796
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_3v81s6_002.tif
+    path: files/9d/e0/9de07bea58405ea53e961a6438173128c8665d634efb62f84d5b7dd69da91cf7/original.tif
+    sha256: 9de07bea58405ea53e961a6438173128c8665d634efb62f84d5b7dd69da91cf7
+    mime: image/tiff
+    bytes: 7689282
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9d/e0/9de07bea58405ea53e961a6438173128c8665d634efb62f84d5b7dd69da91cf7/preview-400.8c5576c8b028.jpg
+        sha256: 8c5576c8b028812fac4ef72c253c310527dfbedf58df8f691c173ae2ef340d27
+        mime: image/jpeg
+        bytes: 72209
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

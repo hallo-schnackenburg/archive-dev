@@ -1,0 +1,30 @@
+id: 01FRNSK9Q1416VFC7DZVG1Q3SW
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Turnverein 1972
+date: 1972-12
+location: Pretzier, Dorfstraße
+geocode:
+  lat: 52.9639
+  lon: 11.4846
+  precision: town
+  source: osm
+origin:
+  name: Finanzausschuss Gartow
+  type: business
+  location: Havelberg
+language: de
+subjects:
+  - name: Brückeneinweihung 1972
+    type: event
+  - name: Molkerei
+    type: building
+  - name: Karl Burmester
+    type: person
+storage: external
+external:
+  - type: archive
+    site: Museum Lenzen
+    uri: https://museum-lenzen.example.org/objekt/986091
+    reference: Best. 29 Nr. 3948
+    retrieved: 2026-02-07

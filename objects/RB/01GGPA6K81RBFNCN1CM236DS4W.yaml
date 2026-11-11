@@ -1,0 +1,37 @@
+id: 01GGPA6K81RBFNCN1CM236DS4W
+type: image
+subtype: photo
+title: Emma Voss vor dem Sportplatz
+description: Abzug im Format 6 x 9 cm.
+date: 1964-03
+location: Schnackenburg, Deichstraße
+geocode:
+  lat: 52.9481
+  lon: 11.5828
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Familie Ahrens
+    type: person
+    location: Havelberg
+files:
+  - role: main
+    original_name: IMG_9232.jpg
+    path: files/a2/44/a244840006b91bc21672566ee4c81d20b2bd698d7ac63a6c4edef3f16e695ffa/original.jpg
+    sha256: a244840006b91bc21672566ee4c81d20b2bd698d7ac63a6c4edef3f16e695ffa
+    mime: image/jpeg
+    bytes: 22158990
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/a2/44/a244840006b91bc21672566ee4c81d20b2bd698d7ac63a6c4edef3f16e695ffa/preview-400.223c3be38f3b.jpg
+        sha256: 223c3be38f3b0d85a70239ff6447c62d6dfe4001abfc8597b9d5d3f0b45dbec6
+        mime: image/jpeg
+        bytes: 31432
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

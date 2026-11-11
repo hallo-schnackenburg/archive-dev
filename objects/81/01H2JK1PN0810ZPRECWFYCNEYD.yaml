@@ -1,0 +1,46 @@
+id: 01H2JK1PN0810ZPRECWFYCNEYD
+type: document
+subtype: letter
+title: Brief von Otto Gaede an Klaus Lemke
+description: Handschriftlich, 1 Seiten.
+date: 1872-01-07
+location: Wootz, Mühlenweg
+geocode:
+  lat: 53.0552
+  lon: 11.589
+  precision: street
+  source: osm
+recipient: Manfred Lemke
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan/Mappe 18/056
+subjects:
+  - name: Nienwalde
+    type: place
+parents:
+  - 01GG9H557FNKNNHZ67KS9WW423
+files:
+  - role: page
+    num: 1
+    original_name: letter_ycneyd_001.tif
+    path: files/4e/a5/4ea594145a0008e8d741b3c4f7d02b4e56440d6d1e2f3281779953ed313cfb81/original.tif
+    sha256: 4ea594145a0008e8d741b3c4f7d02b4e56440d6d1e2f3281779953ed313cfb81
+    mime: image/tiff
+    bytes: 3485904
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4e/a5/4ea594145a0008e8d741b3c4f7d02b4e56440d6d1e2f3281779953ed313cfb81/preview-400.1a1255dc9584.jpg
+        sha256: 1a1255dc9584491bca2877bc5c3e6b71ddfd45010aeeffce2f21bd891d47fe8b
+        mime: image/jpeg
+        bytes: 83443
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

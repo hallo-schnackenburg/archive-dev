@@ -1,0 +1,48 @@
+id: 01G68910HKGB3HB06F12GQTQ4M
+type: image
+subtype: photo
+title: Familie Ahrens beim Maifeier
+date: 1939-03-19
+location: Hitzacker, Deichstraße
+geocode:
+  lat: 53.0249
+  lon: 11.4967
+  precision: exact
+  source: osm
+origin:
+  name: Karl Kuhlmann
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Pro 27/242
+subjects:
+  - name: Erntedankfest 1939
+    type: event
+  - name: Torhaus
+    type: building
+parents:
+  - 01J08P48B9HRVCXCZGRJBPCQ14
+files:
+  - role: main
+    original_name: foto_1254.jpg
+    path: files/21/ba/21bac02880baee150e67063763891a1a1e04060a4b3947512b616ab4a983e77a/original.jpg
+    sha256: 21bac02880baee150e67063763891a1a1e04060a4b3947512b616ab4a983e77a
+    mime: image/jpeg
+    bytes: 21670378
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/21/ba/21bac02880baee150e67063763891a1a1e04060a4b3947512b616ab4a983e77a/preview-400.5a957aed195f.jpg
+        sha256: 5a957aed195f3ca0f7d08c1599ad27480e17865baafc415c9f4e2f31b7d636c0
+        mime: image/jpeg
+        bytes: 82594
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

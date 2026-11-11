@@ -1,0 +1,38 @@
+id: 01EZNTYVXDKAVXVCG04JB0KT61
+type: image
+subtype: print
+title: Lithographie Dorfladen
+description: Kupferstich, koloriert.
+date: "1950"
+location: Wustrow, Gutshaus
+origin:
+  name: Otto Jeß
+  type: person
+  location: Brünkendorf
+subjects:
+  - name: Wassermühle
+    type: building
+  - name: Erika Sievers
+    type: person
+parents:
+  - 01JSF9V4MEBDGEQJGPBJV20THW
+files:
+  - role: main
+    original_name: scan_787.tif
+    path: files/70/9c/709cbd6ddd1ade619785201b423483209ca60bdb2d87be03523bddda18632117/original.tif
+    sha256: 709cbd6ddd1ade619785201b423483209ca60bdb2d87be03523bddda18632117
+    mime: image/tiff
+    bytes: 6932604
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/70/9c/709cbd6ddd1ade619785201b423483209ca60bdb2d87be03523bddda18632117/preview-400.387c3f75a236.jpg
+        sha256: 387c3f75a23662f81ecb36cf8b4593401e7140b17a352d5606a4babd36e445d4
+        mime: image/jpeg
+        bytes: 25179
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

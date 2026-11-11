@@ -1,0 +1,38 @@
+id: 01GQN7K4VA2HQRW02X7V1EQ0BA
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Sturmschaden, Kapern"
+description: Federzeichnung, laviert.
+date: 1900?
+location: Brünkendorf, Elbstraße
+origin:
+  name: Walter Rohde
+  type: person
+  location: Pretzier
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Slg/Kasten 8/032
+  note: Kellerarchiv
+files:
+  - role: main
+    original_name: scan_715.tif
+    path: files/a5/d1/a5d1acbad03f5aad39253383bbdacac1de3e57b031412759fe0ba0ec4b272173/original.tif
+    sha256: a5d1acbad03f5aad39253383bbdacac1de3e57b031412759fe0ba0ec4b272173
+    mime: image/tiff
+    bytes: 27112957
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a5/d1/a5d1acbad03f5aad39253383bbdacac1de3e57b031412759fe0ba0ec4b272173/preview-400.7447e2222809.jpg
+        sha256: 7447e2222809b1a5517b22ff0dd449ee133588d48338d53dae0d2d193324457f
+        mime: image/jpeg
+        bytes: 73422
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

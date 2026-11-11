@@ -1,0 +1,42 @@
+id: 01HCVCW4CD1Y3EE5MEF2CMZNMS
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Eisgang, Kapern"
+date: 1940-08-17
+location: Laase, Schulstraße
+origin:
+  name: Werner Oelker
+  type: person
+  location: Havelberg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 21/149
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v72297
+subjects:
+  - name: Dorffest 1940
+    type: event
+  - name: Wootz
+    type: place
+files:
+  - role: main
+    original_name: scan_651.tif
+    path: files/66/1f/661fd68626a9a6f7190b3bb56ec243529008111e5c07031b19d5b2b942271a3c/original.tif
+    sha256: 661fd68626a9a6f7190b3bb56ec243529008111e5c07031b19d5b2b942271a3c
+    mime: image/tiff
+    bytes: 18159655
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/66/1f/661fd68626a9a6f7190b3bb56ec243529008111e5c07031b19d5b2b942271a3c/preview-400.e7c1fe5f0e8d.jpg
+        sha256: e7c1fe5f0e8d02629da6a62ff440883c4528e9244f59982269468059c7dae606
+        mime: image/jpeg
+        bytes: 58999
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

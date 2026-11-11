@@ -1,0 +1,38 @@
+id: 01HCQEDANDR4Z4K2QTNQ2X1N98
+type: image
+subtype: plan
+title: Bauplan Brunnen am Markt 1975
+date: 1975-11
+location: Bömenzien, Lange Straße
+origin:
+  name: Paul Fricke
+  type: person
+  location: Wustrow
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Hochzeit 1975
+    type: event
+parents:
+  - 01J6CWVRW5ZWM3PCSZT7CG4EQA
+  - 01EV4688KBXRNWBE8H1MYHF0WE
+files:
+  - role: main
+    original_name: scan_212.tif
+    path: files/94/23/94236697017b3ce0e4ca794026cec4fb5a200919a0442d8e425c802201457b27/original.tif
+    sha256: 94236697017b3ce0e4ca794026cec4fb5a200919a0442d8e425c802201457b27
+    mime: image/tiff
+    bytes: 10724750
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/94/23/94236697017b3ce0e4ca794026cec4fb5a200919a0442d8e425c802201457b27/preview-400.c91c898f2551.jpg
+        sha256: c91c898f255136b3e2509b55d4dd0695e7e5de33ee6e25ebe4bdc8daa62df844
+        mime: image/jpeg
+        bytes: 54074
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

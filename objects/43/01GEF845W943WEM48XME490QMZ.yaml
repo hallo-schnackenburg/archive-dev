@@ -1,0 +1,43 @@
+id: 01GEF845W943WEM48XME490QMZ
+type: image
+subtype: print
+title: Postkarte Cumlosen, Gemeindehaus
+description: Kupferstich, koloriert.
+date: 1705-05
+location: Schnackenburg, Wassermühle
+geocode:
+  lat: 53.0958
+  lon: 11.6364
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Mappe 10/005
+subjects:
+  - name: Zollamt
+    type: building
+parents:
+  - 01K2NKV9ZRJGR8MNHBQ4VNYQV6
+files:
+  - role: main
+    original_name: scan_036.tif
+    path: files/ba/a4/baa46859c3e3b48e571e7a86c961f0ce547b9117a8ed2fec01a87b03d08ce321/original.tif
+    sha256: baa46859c3e3b48e571e7a86c961f0ce547b9117a8ed2fec01a87b03d08ce321
+    mime: image/tiff
+    bytes: 23969339
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ba/a4/baa46859c3e3b48e571e7a86c961f0ce547b9117a8ed2fec01a87b03d08ce321/preview-400.1d5c3cbbe3a2.jpg
+        sha256: 1d5c3cbbe3a24037ab110a8c7072fc70e3050dcd78e62ce9959b63dc70b207d1
+        mime: image/jpeg
+        bytes: 30131
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

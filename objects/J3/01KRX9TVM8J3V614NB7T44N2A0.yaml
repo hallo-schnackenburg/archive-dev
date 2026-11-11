@@ -1,0 +1,41 @@
+id: 01KRX9TVM8J3V614NB7T44N2A0
+type: image
+subtype: print
+title: "Holzschnitt: Hochzeit, Wootz"
+date: 1867-12-15
+location: Lüchow, Bahnhofstraße
+geocode:
+  lat: 52.958
+  lon: 11.4919
+  precision: town
+  source: osm
+origin:
+  name: Dieter Brandt
+  type: person
+  location: Havelberg
+subjects:
+  - name: Karl Tiedemann
+    type: person
+parents:
+  - 01H683J429KTWPMPPF52JN3Q9J
+  - 01HQR6RV72ZH2HDYEHKXXJ1EJM
+files:
+  - role: main
+    original_name: scan_933.tif
+    path: files/11/51/11513e0b94ba2bdc29540cb9af196bd2f17a512a75aafe8f4d898346e01972d8/original.tif
+    sha256: 11513e0b94ba2bdc29540cb9af196bd2f17a512a75aafe8f4d898346e01972d8
+    mime: image/tiff
+    bytes: 8879576
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/11/51/11513e0b94ba2bdc29540cb9af196bd2f17a512a75aafe8f4d898346e01972d8/preview-400.9d54fef0923b.jpg
+        sha256: 9d54fef0923b03caaec97e933a44a099d9b6bf9797c916bea71e20997d22d8db
+        mime: image/jpeg
+        bytes: 83309
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

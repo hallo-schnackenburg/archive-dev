@@ -1,0 +1,68 @@
+id: 01FAK0P1GQP0RWXGNYV2GZST10
+type: document
+subtype: letter
+title: Feldpostbrief von Erika Voss
+description: Maschinenschriftlich, unterschrieben.
+date: "1953"
+location: Salzwedel, Am Markt
+geocode:
+  lat: 53.0068
+  lon: 11.4685
+  precision: region
+  source: osm
+origin:
+  name: Helga Wiese
+  type: person
+  location: Zadrau
+recipient: Heinrich Ahrens
+language: de
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro 25/007
+subjects:
+  - name: Helga Voss
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_gzst10_001.tif
+    path: files/a4/ed/a4ed5a4e08e8293f19ccf0ddded51b7113aa95c54cedcaecc10b912ddc6ccbb3/original.tif
+    sha256: a4ed5a4e08e8293f19ccf0ddded51b7113aa95c54cedcaecc10b912ddc6ccbb3
+    mime: image/tiff
+    bytes: 16720826
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/a4/ed/a4ed5a4e08e8293f19ccf0ddded51b7113aa95c54cedcaecc10b912ddc6ccbb3/preview-400.7ed436200b5d.jpg
+        sha256: 7ed436200b5d4b1b0a1c8d3ca52d85e699adae37f8514c3d46e3ede5ee18ebdb
+        mime: image/jpeg
+        bytes: 63353
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_gzst10_002.tif
+    path: files/5d/ba/5dba14388cdab51e63c1ec5c9dcc18ca89f170df94cb52eac86c13459a8cac74/original.tif
+    sha256: 5dba14388cdab51e63c1ec5c9dcc18ca89f170df94cb52eac86c13459a8cac74
+    mime: image/tiff
+    bytes: 13718256
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5d/ba/5dba14388cdab51e63c1ec5c9dcc18ca89f170df94cb52eac86c13459a8cac74/preview-400.73a6a693f2aa.jpg
+        sha256: 73a6a693f2aa4d4f10a4df785aa63897e6515c20288e154999b816dda2ec3b51
+        mime: image/jpeg
+        bytes: 70384
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

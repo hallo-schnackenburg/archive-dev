@@ -1,0 +1,33 @@
+id: 01GPKNY8CX4EXCCTKA3DJYZX39
+type: image
+subtype: plan
+title: Bauplan Hafen 1918
+description: Mit handschriftlichen Ergänzungen.
+date: 1918-06-01
+origin:
+  name: Erika Voss
+  type: person
+  location: Gartow
+parents:
+  - 01KD7CS4EBG51K60J3B74H2VS5
+files:
+  - role: main
+    original_name: scan_782.tif
+    path: files/a6/81/a6819bd850693b350d6753a6c7181b79fcdabc338bd40047798ab690fcd8af73/original.tif
+    sha256: a6819bd850693b350d6753a6c7181b79fcdabc338bd40047798ab690fcd8af73
+    mime: image/tiff
+    bytes: 8967214
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/a6/81/a6819bd850693b350d6753a6c7181b79fcdabc338bd40047798ab690fcd8af73/preview-400.dc71bee0cd6e.jpg
+        sha256: dc71bee0cd6eb037d981a5d45c3b0d3e86ca80735ae4865b09653a2ca8158630
+        mime: image/jpeg
+        bytes: 30995
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Von Frau Meyer erhalten.

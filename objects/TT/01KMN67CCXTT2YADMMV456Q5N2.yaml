@@ -1,0 +1,40 @@
+id: 01KMN67CCXTT2YADMMV456Q5N2
+type: image
+subtype: drawing
+title: Skizze Brünkendorf, Deichstraße
+description: Federzeichnung, laviert.
+date: 1921-06-27
+location: Laase, Lange Straße
+origin:
+  name: Ernst Tiedemann
+  type: person
+  location: Laase
+subjects:
+  - name: Laase
+    type: place
+  - name: Schlachterei
+    type: building
+  - name: Dorfteich
+    type: building
+parents:
+  - 01G0S6J3X949EDC2990D03JYRW
+files:
+  - role: main
+    original_name: scan_373.tif
+    path: files/c1/9d/c19dc72278008eb403f42b769aed40653b045e2e6eb84e0a11681e8647f9fde1/original.tif
+    sha256: c19dc72278008eb403f42b769aed40653b045e2e6eb84e0a11681e8647f9fde1
+    mime: image/tiff
+    bytes: 20164820
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c1/9d/c19dc72278008eb403f42b769aed40653b045e2e6eb84e0a11681e8647f9fde1/preview-400.71b2c9d4bc3d.jpg
+        sha256: 71b2c9d4bc3def62fd6a35ed96e6329cf387e5efc279e899e21767f1048feb9c
+        mime: image/jpeg
+        bytes: 34857
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

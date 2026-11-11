@@ -1,0 +1,38 @@
+id: 01G0XV15MWCVH54QKWW7FMRP3S
+type: image
+subtype: print
+title: "Kupferstich: Pretzier von der Elbseite, Gorleben"
+date: 1900/1904
+location: Pretzier, Mühlenweg
+origin:
+  name: Erika Meyer
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+subjects:
+  - name: Rudolf Behrens
+    type: person
+files:
+  - role: main
+    original_name: scan_729.tif
+    path: files/ef/bc/efbc3029575d2c1b5f5ac405cae3231afc864b6837f0397c065fe58e1c38d6e1/original.tif
+    sha256: efbc3029575d2c1b5f5ac405cae3231afc864b6837f0397c065fe58e1c38d6e1
+    mime: image/tiff
+    bytes: 25721455
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/ef/bc/efbc3029575d2c1b5f5ac405cae3231afc864b6837f0397c065fe58e1c38d6e1/preview-400.6a6e771c74f7.jpg
+        sha256: 6a6e771c74f7ca922e42a861e3470ea03de6d8b655f4a01457568781f6e34692
+        mime: image/jpeg
+        bytes: 77071
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

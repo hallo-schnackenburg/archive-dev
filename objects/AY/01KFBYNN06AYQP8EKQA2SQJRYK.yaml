@@ -1,0 +1,29 @@
+id: 01KFBYNN06AYQP8EKQA2SQJRYK
+type: image
+subtype: plan
+title: Bauplan Bahnhof 1790
+description: Tusche auf Transparentpapier.
+date: 1790-07
+location: Lüchow, Am Markt
+geocode:
+  lat: 52.9375
+  lon: 11.6516
+  precision: town
+  source: osm
+subjects:
+  - name: Heuberge
+    type: building
+  - name: Schlachtfest 1790
+    type: event
+  - name: Apotheke
+    type: building
+parents:
+  - 01KTZKC2A5R5HHQXVWXFS5SF60
+  - 01HE6ENCA0W2Z468GKA6QXY516
+storage: external
+external:
+  - type: platform
+    site: Wikimedia Commons
+    uri: https://wikimedia-commons.example.org/objekt/897503
+    note: Seiten 12–19
+    retrieved: 2025-08-01

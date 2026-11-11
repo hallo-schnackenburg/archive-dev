@@ -1,0 +1,40 @@
+id: 01H04Y8W7ZVP14YZHSF5ZCZ9VB
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Einweihung, Wootz"
+description: Federzeichnung, laviert.
+date: "1852"
+location: Kapern, Hinter den Höfen
+origin:
+  name: Ilse Meyer
+  type: person
+  location: Wootz
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Kegelbahn
+    type: building
+  - name: Hermann Heuer
+    type: person
+parents:
+  - 01K4FGD1ECY3HP77BZASK6DQRW
+files:
+  - role: main
+    original_name: scan_667.tif
+    path: files/c9/0d/c90d2d4cd06c73b579366f959495db46acfdad0b2bb6dcc08f0b5c8f04d6f0af/original.tif
+    sha256: c90d2d4cd06c73b579366f959495db46acfdad0b2bb6dcc08f0b5c8f04d6f0af
+    mime: image/tiff
+    bytes: 23704595
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c9/0d/c90d2d4cd06c73b579366f959495db46acfdad0b2bb6dcc08f0b5c8f04d6f0af/preview-400.482d2b1c41ac.jpg
+        sha256: 482d2b1c41ac4b703008b056cb168a5610b5cba94f9158a74a18f6cf4174ba21
+        mime: image/jpeg
+        bytes: 44780
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

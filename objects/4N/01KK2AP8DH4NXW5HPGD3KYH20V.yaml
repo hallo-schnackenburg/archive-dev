@@ -1,0 +1,41 @@
+id: 01KK2AP8DH4NXW5HPGD3KYH20V
+type: image
+subtype: plan
+title: Bauplan Hafen 1784
+date: 1784?
+origin:
+  name: Karl Ahrens
+  type: person
+  location: Schnackenburg
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Ziegelei
+    type: building
+  - name: Hans Detlefs
+    type: person
+parents:
+  - 01K5TW5781NJJRQNS4RN8CYBN2
+files:
+  - role: main
+    original_name: scan_052.tif
+    path: files/1d/49/1d49e02ba7b49c4b53ac688a44a7d93077f28583439f3fced214f8f5d8e71d99/original.tif
+    sha256: 1d49e02ba7b49c4b53ac688a44a7d93077f28583439f3fced214f8f5d8e71d99
+    mime: image/tiff
+    bytes: 15877979
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1d/49/1d49e02ba7b49c4b53ac688a44a7d93077f28583439f3fced214f8f5d8e71d99/preview-400.b270e4dbe251.jpg
+        sha256: b270e4dbe2516929237885966fbb88952d886fe7870382f1f0639ffe6da14fb1
+        mime: image/jpeg
+        bytes: 89553
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

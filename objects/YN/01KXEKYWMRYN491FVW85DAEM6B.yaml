@@ -1,0 +1,36 @@
+id: 01KXEKYWMRYN491FVW85DAEM6B
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Osterfeuer"
+date: 1845-04-26
+origin:
+  name: Walter Lüders
+  type: person
+  location: Gartow
+subjects:
+  - name: Fastnacht 1845
+    type: event
+  - name: Heuberge
+    type: building
+parents:
+  - 01H36RTMJEX4S0EGJJ5ANSCJNW
+files:
+  - role: main
+    original_name: scan_301.tif
+    path: files/62/4c/624c8e0c2b5b62eae2e7c1316cd982cc31f2a800c9aca08de1ad2fc5d1af8ae1/original.tif
+    sha256: 624c8e0c2b5b62eae2e7c1316cd982cc31f2a800c9aca08de1ad2fc5d1af8ae1
+    mime: image/tiff
+    bytes: 12293873
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/62/4c/624c8e0c2b5b62eae2e7c1316cd982cc31f2a800c9aca08de1ad2fc5d1af8ae1/preview-400.aa5b747237f8.jpg
+        sha256: aa5b747237f8138d46becb90057063572305935f493fdfd2c532d326caafcad5
+        mime: image/jpeg
+        bytes: 83907
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

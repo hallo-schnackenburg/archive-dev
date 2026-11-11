@@ -1,0 +1,30 @@
+id: 01HZ8DF1JJWJJ9JCSMEGBBCXWT
+type: image
+subtype: photo
+title: Otto Kuhlmann, Porträt
+date: 1935-06-01
+location: Salzwedel, Badestelle
+origin:
+  name: Hans Voss
+  type: person
+  location: Kapern
+files:
+  - role: main
+    original_name: IMG_5238.jpg
+    path: files/33/ee/33ee24e3393a3532949cc1e4c588e81a58d794b2ccde0c81e769b70fad70872d/original.jpg
+    sha256: 33ee24e3393a3532949cc1e4c588e81a58d794b2ccde0c81e769b70fad70872d
+    mime: image/jpeg
+    bytes: 20221636
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/33/ee/33ee24e3393a3532949cc1e4c588e81a58d794b2ccde0c81e769b70fad70872d/preview-400.45dcd3b364b0.jpg
+        sha256: 45dcd3b364b02c69e04af773d789d702117aa12498ae5d3153278ff274068928
+        mime: image/jpeg
+        bytes: 43871
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

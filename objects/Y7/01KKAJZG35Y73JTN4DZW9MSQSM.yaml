@@ -1,0 +1,39 @@
+id: 01KKAJZG35Y73JTN4DZW9MSQSM
+type: image
+subtype: print
+title: Ansichtskarte Bahnhofstraße, Hitzacker
+description: Lithographie, Rand beschnitten.
+date: 1752-09-17
+location: Wootz, Heuberge
+origin:
+  name: Hedwig Krüger
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: F/Kasten 28/026
+parents:
+  - 01JANJ5JJG4Y5EZGHHW3FHZSGB
+files:
+  - role: main
+    original_name: scan_454.tif
+    path: files/aa/4b/aa4b3b1fc088d6d56dcca02ec548fd68a6a4f0d9f1e6370c310a2407e21d84ad/original.tif
+    sha256: aa4b3b1fc088d6d56dcca02ec548fd68a6a4f0d9f1e6370c310a2407e21d84ad
+    mime: image/tiff
+    bytes: 9059072
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/aa/4b/aa4b3b1fc088d6d56dcca02ec548fd68a6a4f0d9f1e6370c310a2407e21d84ad/preview-400.53a927b4ca01.jpg
+        sha256: 53a927b4ca01fc20651a3f53e67f35730da58ca50b4bb4ef5a9ba3dcba2fe6ad
+        mime: image/jpeg
+        bytes: 20815
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

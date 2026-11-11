@@ -1,0 +1,38 @@
+id: 01H7F34B5GCPCMD7TFRDSH3N83
+type: image
+subtype: plan
+title: Lageplan Heuberge
+description: Maßstab 1:1000.
+date: "1805"
+origin:
+  name: Marta Bruns
+  type: person
+  location: Lenzen
+subjects:
+  - name: Kirmes 1805
+    type: event
+  - name: August Prieß
+    type: person
+parents:
+  - 01G9F8WZMH640J1SBB5JSSJJX5
+  - 01F6ZQ7TEP2TBDEHF40VAF0GAD
+files:
+  - role: main
+    original_name: scan_374.tif
+    path: files/14/41/1441c5208e7aa29e8977efa4663f7f9f512a4daf9bf1c42883838d5a6b583834/original.tif
+    sha256: 1441c5208e7aa29e8977efa4663f7f9f512a4daf9bf1c42883838d5a6b583834
+    mime: image/tiff
+    bytes: 22929853
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/41/1441c5208e7aa29e8977efa4663f7f9f512a4daf9bf1c42883838d5a6b583834/preview-400.b32fbde71815.jpg
+        sha256: b32fbde71815a3a350f0148dcaa25756468dfbce28076dbe5d768ad3a60fd3de
+        mime: image/jpeg
+        bytes: 37157
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

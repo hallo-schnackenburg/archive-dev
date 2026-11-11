@@ -1,0 +1,43 @@
+id: 01KRVGS0DX0EM7SDGMWRM5HZ4Q
+type: image
+subtype: plan
+title: Deichplan Salzwedel bis Dömitz
+description: Tusche auf Transparentpapier.
+date: 177X
+location: Salzwedel, Gartenstraße
+geocode:
+  lat: 53.0156
+  lon: 11.6581
+  precision: street
+  source: osm
+origin:
+  name: Friedrich Wöhlk
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Brünkendorf
+    type: place
+  - name: Osterfeuer 1779
+    type: event
+files:
+  - role: main
+    original_name: scan_067.tif
+    path: files/84/99/849900cd0a10f98822620024c2e81d5058675903d511581c810b6afc3d421157/original.tif
+    sha256: 849900cd0a10f98822620024c2e81d5058675903d511581c810b6afc3d421157
+    mime: image/tiff
+    bytes: 326198
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/84/99/849900cd0a10f98822620024c2e81d5058675903d511581c810b6afc3d421157/preview-400.c07caf11537d.jpg
+        sha256: c07caf11537d839326ced88f8cc2da14547fe7cfd0116c1e0cc3b39286367919
+        mime: image/jpeg
+        bytes: 59286
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

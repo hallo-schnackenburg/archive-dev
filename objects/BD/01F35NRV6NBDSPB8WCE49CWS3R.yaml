@@ -1,0 +1,36 @@
+id: 01F35NRV6NBDSPB8WCE49CWS3R
+type: image
+subtype: photo
+title: Tanzsaal in Gollensdorf
+description: Aufnahme von Dieter Timm.
+date: 1894-05
+location: Brünkendorf, Elbstraße
+origin:
+  name: Karl Krüger
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Karl Plate
+    type: person
+  - name: Havelberg
+    type: place
+files:
+  - role: main
+    original_name: scan_240.tif
+    path: files/d3/69/d36917001ac00aecf712f49b8b3b0bb6718dfde00d92f416360af6b9608077b5/original.tif
+    sha256: d36917001ac00aecf712f49b8b3b0bb6718dfde00d92f416360af6b9608077b5
+    mime: image/tiff
+    bytes: 13690287
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/d3/69/d36917001ac00aecf712f49b8b3b0bb6718dfde00d92f416360af6b9608077b5/preview-400.e4bac9471923.jpg
+        sha256: e4bac94719238877d3e238c467e80cc23ae67047881f1101d1d5b4185e79265f
+        mime: image/jpeg
+        bytes: 22701
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

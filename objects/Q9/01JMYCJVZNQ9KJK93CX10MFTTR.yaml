@@ -1,0 +1,37 @@
+id: 01JMYCJVZNQ9KJK93CX10MFTTR
+type: image
+subtype: print
+title: Postkarte Kapern, Gasthof Meyer
+description: Kupferstich, koloriert.
+date: 1859-10
+location: Gartow, Torhaus
+origin:
+  name: Erika Lemke
+  type: person
+  location: Rüterberg
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  note: Regal 1
+files:
+  - role: main
+    original_name: scan_049.tif
+    path: files/56/90/5690f469fffc28f399129fccab1505763ba757ea8740af2f2f4c325cfdfd6812/original.tif
+    sha256: 5690f469fffc28f399129fccab1505763ba757ea8740af2f2f4c325cfdfd6812
+    mime: image/tiff
+    bytes: 23957161
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/56/90/5690f469fffc28f399129fccab1505763ba757ea8740af2f2f4c325cfdfd6812/preview-400.ab15de3d9312.jpg
+        sha256: ab15de3d931232331a92265e346da3659cb4267eea6d0511998c6c9e7066ac1d
+        mime: image/jpeg
+        bytes: 44230
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01GM1J5147WGYG1QQ23TH7B1B3
+type: image
+subtype: drawing
+title: Skizze Gülden, Hinter den Höfen, Restorf
+date: "1848"
+location: Laase, Burgstraße
+geocode:
+  lat: 53.0177
+  lon: 11.5111
+  precision: town
+  source: osm
+origin:
+  name: Rudolf Garms
+  type: person
+  location: Lüchow
+subjects:
+  - name: Ilse Lüders
+    type: person
+  - name: Erika Ulrich
+    type: person
+parents:
+  - 01HEQM7NSGG9CPG145FYB637TF
+files:
+  - role: main
+    original_name: scan_410.tif
+    path: files/cd/9e/cd9ebda0cd2ba8aa9a88612539747156e2d17cb8fe3d2137514eb174f6e210c2/original.tif
+    sha256: cd9ebda0cd2ba8aa9a88612539747156e2d17cb8fe3d2137514eb174f6e210c2
+    mime: image/tiff
+    bytes: 26514728
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/cd/9e/cd9ebda0cd2ba8aa9a88612539747156e2d17cb8fe3d2137514eb174f6e210c2/preview-400.b07c566d5c62.jpg
+        sha256: b07c566d5c628218faaff6bc3385e52bd61e72a554fa29f6777e698bb02cbd29
+        mime: image/jpeg
+        bytes: 53555
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

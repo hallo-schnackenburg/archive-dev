@@ -1,0 +1,40 @@
+id: 01M3TBHJMF4VG5WRR30H7P9BJT
+type: image
+subtype: photo
+title: "Handwerkerinnung: Gruppenbild Kartoffelernte"
+date: 1900-01-03
+location: Brünkendorf, Tischlerei Bruns
+geocode:
+  lat: 53.0157
+  lon: 11.597
+  precision: region
+  source: osm
+origin:
+  name: Wilhelm Schwarz
+  type: person
+  location: Seedorf
+subjects:
+  - name: Havelberg
+    type: place
+  - name: Hans Sievers
+    type: person
+files:
+  - role: main
+    original_name: scan_351.tif
+    path: files/c3/bd/c3bd2c12b68eabc36c415e95301d0b92fc9bd2101e291321e551d225c4cc5685/original.tif
+    sha256: c3bd2c12b68eabc36c415e95301d0b92fc9bd2101e291321e551d225c4cc5685
+    mime: image/tiff
+    bytes: 905590
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c3/bd/c3bd2c12b68eabc36c415e95301d0b92fc9bd2101e291321e551d225c4cc5685/preview-400.bb8676ef06ef.jpg
+        sha256: bb8676ef06efa4b3af8de6c0d424e2eca2b479c674d4b8b1ccc1c48f3023636e
+        mime: image/jpeg
+        bytes: 82439
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

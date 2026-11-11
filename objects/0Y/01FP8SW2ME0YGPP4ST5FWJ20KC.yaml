@@ -1,0 +1,39 @@
+id: 01FP8SW2ME0YGPP4ST5FWJ20KC
+type: image
+subtype: drawing
+title: Skizze Wootz, Dorfstraße, Gartow
+description: Federzeichnung, laviert.
+date: 1839~
+location: Arendsee, Kirchstraße
+geocode:
+  lat: 52.9406
+  lon: 11.5368
+  precision: exact
+  source: osm
+subjects:
+  - name: Emma Ludolf
+    type: person
+  - name: Richtfest 1839
+    type: event
+  - name: Pretzier
+    type: place
+files:
+  - role: main
+    original_name: scan_699.tif
+    path: files/f3/5d/f35d52f3c8aff0f127ea836025555dc0db24c27459b14dc9abbeff621ad5c64b/original.tif
+    sha256: f35d52f3c8aff0f127ea836025555dc0db24c27459b14dc9abbeff621ad5c64b
+    mime: image/tiff
+    bytes: 10805671
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/f3/5d/f35d52f3c8aff0f127ea836025555dc0db24c27459b14dc9abbeff621ad5c64b/preview-400.11bf17fc684b.jpg
+        sha256: 11bf17fc684b3e85793909214234ecca4410841fc26ff9afecc6157390d32d91
+        mime: image/jpeg
+        bytes: 31917
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

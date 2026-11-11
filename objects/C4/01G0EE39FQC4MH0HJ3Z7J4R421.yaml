@@ -1,0 +1,41 @@
+id: 01G0EE39FQC4MH0HJ3Z7J4R421
+type: image
+subtype: print
+title: Lithographie Fachwerkhaus Marktstraße 4
+date: "1754"
+location: Zadrau, Bahnhofstraße
+origin:
+  name: Marta Wegner
+  type: person
+  location: Hitzacker
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  note: Mappe 12
+subjects:
+  - name: Bahnhof
+    type: building
+  - name: Ilse Fricke
+    type: person
+files:
+  - role: main
+    original_name: scan_168.tif
+    path: files/77/11/771130f736ddb95e06eb25af9867cf4a5b555655b73bacb6566584381d0541fc/original.tif
+    sha256: 771130f736ddb95e06eb25af9867cf4a5b555655b73bacb6566584381d0541fc
+    mime: image/tiff
+    bytes: 22482396
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/77/11/771130f736ddb95e06eb25af9867cf4a5b555655b73bacb6566584381d0541fc/preview-400.690adb46bd9c.jpg
+        sha256: 690adb46bd9c98d231e88e0ab763ee89575bae5cf1a6a50e45d6a8fbf0dcf872
+        mime: image/jpeg
+        bytes: 20483
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

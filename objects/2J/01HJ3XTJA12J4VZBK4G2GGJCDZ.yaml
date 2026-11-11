@@ -1,0 +1,37 @@
+id: 01HJ3XTJA12J4VZBK4G2GGJCDZ
+type: image
+subtype: drawing
+title: Mühle, Aquarell, Cumlosen
+description: Federzeichnung, laviert.
+date: 182X
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro/Kasten 11/012
+subjects:
+  - name: Feuerwehrhaus
+    type: building
+  - name: Heinz Matthies
+    type: person
+files:
+  - role: main
+    original_name: scan_022.tif
+    path: files/fb/e7/fbe71dede9a5ddf3341b2872d890c419e6c5daf4caabebbbca330da84d4c199f/original.tif
+    sha256: fbe71dede9a5ddf3341b2872d890c419e6c5daf4caabebbbca330da84d4c199f
+    mime: image/tiff
+    bytes: 11316225
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/fb/e7/fbe71dede9a5ddf3341b2872d890c419e6c5daf4caabebbbca330da84d4c199f/preview-400.ebf570fbd89f.jpg
+        sha256: ebf570fbd89f7854229adbc5d1a1066295df4e15cd988b084ee51f3fbbbfc401
+        mime: image/jpeg
+        bytes: 84228
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

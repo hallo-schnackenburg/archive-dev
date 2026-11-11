@@ -1,0 +1,40 @@
+id: 01F9XQB13FZFW5AANVXBQRHX85
+type: image
+subtype: print
+title: "Kupferstich: Lüchow von der Elbseite, Pretzier"
+description: Lithographie, Rand beschnitten.
+date: "1720"
+location: Gollensdorf, Kirchstraße
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 2/019
+subjects:
+  - name: Holtorf
+    type: place
+  - name: Lenzen
+    type: place
+parents:
+  - 01EV0D4XTDHPDC62G2HMCAGK8D
+files:
+  - role: main
+    original_name: scan_889.tif
+    path: files/a3/d6/a3d6399344e3a42e81ac8bee80231ccf154a7fed3536c482affd8a5f8012f83e/original.tif
+    sha256: a3d6399344e3a42e81ac8bee80231ccf154a7fed3536c482affd8a5f8012f83e
+    mime: image/tiff
+    bytes: 2182770
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a3/d6/a3d6399344e3a42e81ac8bee80231ccf154a7fed3536c482affd8a5f8012f83e/preview-400.9f20385defce.jpg
+        sha256: 9f20385defce0ad67965c470891440e638fb14eb2456a859d44eb299f7c10194
+        mime: image/jpeg
+        bytes: 26720
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

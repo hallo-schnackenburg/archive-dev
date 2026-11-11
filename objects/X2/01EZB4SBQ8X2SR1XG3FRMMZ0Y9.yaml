@@ -1,0 +1,33 @@
+id: 01EZB4SBQ8X2SR1XG3FRMMZ0Y9
+type: image
+subtype: plan
+title: Bauplan Feuerwehrhaus 1906
+date: 1906-09-05
+location: Wittenberge, Mühlenweg
+origin:
+  name: Heinz Meyer
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Käthe Garms
+    type: person
+files:
+  - role: main
+    original_name: scan_090.tif
+    path: files/d4/4a/d44a83bb43401249418450bcc8c345d20e4c6db712c987a63e544dad93f8142d/original.tif
+    sha256: d44a83bb43401249418450bcc8c345d20e4c6db712c987a63e544dad93f8142d
+    mime: image/tiff
+    bytes: 13801899
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/4a/d44a83bb43401249418450bcc8c345d20e4c6db712c987a63e544dad93f8142d/preview-400.d930f16ba07c.jpg
+        sha256: d930f16ba07c91c755ebeb5d27a5bdc7fc264ba0872c632154ff0255982a00ea
+        mime: image/jpeg
+        bytes: 85034
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,33 @@
+id: 01JGS4Z17YC06E9YBVWCB8V3G8
+type: image
+subtype: plan
+title: Bauplan Scheune 1902
+description: Maßstab 1:500.
+date: 1902-02-17
+location: Bömenzien, Bahnhofstraße
+origin:
+  name: Berta Lemke
+  type: person
+  location: Lanz
+parents:
+  - 01JDKBQD7GHM630H1JSZYJRAVJ
+files:
+  - role: main
+    original_name: scan_891.tif
+    path: files/38/59/3859a0f848e930982adf799a2cf1c5dd578709f90734e8c2d1b25e1ee7034e07/original.tif
+    sha256: 3859a0f848e930982adf799a2cf1c5dd578709f90734e8c2d1b25e1ee7034e07
+    mime: image/tiff
+    bytes: 18122599
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/38/59/3859a0f848e930982adf799a2cf1c5dd578709f90734e8c2d1b25e1ee7034e07/preview-400.e479c3eddab4.jpg
+        sha256: e479c3eddab4f9927572a9bf4251b5898e2af07b2bc40c427288e257c6389389
+        mime: image/jpeg
+        bytes: 75910
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

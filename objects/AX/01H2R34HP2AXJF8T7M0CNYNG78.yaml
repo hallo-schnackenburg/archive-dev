@@ -1,0 +1,46 @@
+id: 01H2R34HP2AXJF8T7M0CNYNG78
+type: document
+subtype: note
+title: Quittung für Käthe Cohrs
+date: "1935"
+location: Dömitz, Kriegerdenkmal
+geocode:
+  lat: 53.0719
+  lon: 11.652
+  precision: street
+  source: osm
+origin:
+  name: Irmgard Cohrs
+  type: person
+  location: Lüchow
+language: de
+subjects:
+  - name: Kriegerdenkmal
+    type: building
+  - name: Werner Gaede
+    type: person
+  - name: Gollensdorf
+    type: place
+parents:
+  - 01HX63HPJQWPA2R8TSS7RY7SQZ
+files:
+  - role: page
+    num: 1
+    original_name: note_nyng78_001.tif
+    path: files/d2/96/d2968efe0a61c6bad84bab057b26c4ab484c8b51ecc79088ee7dc32f04a288ca/original.tif
+    sha256: d2968efe0a61c6bad84bab057b26c4ab484c8b51ecc79088ee7dc32f04a288ca
+    mime: image/tiff
+    bytes: 12860007
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d2/96/d2968efe0a61c6bad84bab057b26c4ab484c8b51ecc79088ee7dc32f04a288ca/preview-400.9d51223920f2.jpg
+        sha256: 9d51223920f2162320699b511ac16e5d6538e275810f8004e6bfa199479a6aea
+        mime: image/jpeg
+        bytes: 59630
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

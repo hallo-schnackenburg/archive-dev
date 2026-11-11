@@ -1,0 +1,43 @@
+id: 01KZKA4T73KTT5DNRZMS9083FW
+type: image
+subtype: drawing
+title: Skizze Kapern, Hafenstraße
+description: Federzeichnung, laviert.
+date: 1898/1907
+origin:
+  name: Frieda Jeß
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Familie Gaede
+    type: person
+    location: Wittenberge
+  reference: Dok 29/022
+  note: Regal 1
+subjects:
+  - name: Cumlosen
+    type: place
+parents:
+  - 01G9E0HEW5JYMGZH6NFA75XCR4
+  - 01JMSDNGA55JGRT5ESX6NS0WKN
+files:
+  - role: main
+    original_name: scan_069.tif
+    path: files/e3/62/e3627846c81d47e900f0fc19caa0b5d9e472f0336b0e88dd025998355246da6c/original.tif
+    sha256: e3627846c81d47e900f0fc19caa0b5d9e472f0336b0e88dd025998355246da6c
+    mime: image/tiff
+    bytes: 8071734
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e3/62/e3627846c81d47e900f0fc19caa0b5d9e472f0336b0e88dd025998355246da6c/preview-400.ec3e82cf575d.jpg
+        sha256: ec3e82cf575d023b736f697bea4937e14d33e386146fe7e2c2c8d7abdad153c4
+        mime: image/jpeg
+        bytes: 69930
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01F1P408FNW8H41Q6CBG7H0QHJ
+type: image
+subtype: drawing
+title: Entwurf für Dorfladen, Schnackenburg
+date: 187X
+origin:
+  name: Anni Lemke
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Bernd Ludolf
+    type: person
+  - name: Deicharbeiten 1872
+    type: event
+parents:
+  - 01HP3S6J7H7R7K5FQDZW91FMBP
+  - 01HNVK3TWSXAG1X7MJP1AQW02W
+files:
+  - role: main
+    original_name: scan_153.tif
+    path: files/c6/b2/c6b2dd489eae85bca89a0733605a71d65a3d6536470c64234475088fc4c9a35c/original.tif
+    sha256: c6b2dd489eae85bca89a0733605a71d65a3d6536470c64234475088fc4c9a35c
+    mime: image/tiff
+    bytes: 10834514
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c6/b2/c6b2dd489eae85bca89a0733605a71d65a3d6536470c64234475088fc4c9a35c/preview-400.3a2478d4b049.jpg
+        sha256: 3a2478d4b049e9787e5224cbd42d3f481c0a8b5c80526606adb5f16fb020c653
+        mime: image/jpeg
+        bytes: 46673
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

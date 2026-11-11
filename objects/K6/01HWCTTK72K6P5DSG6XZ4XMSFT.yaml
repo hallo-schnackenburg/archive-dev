@@ -1,0 +1,35 @@
+id: 01HWCTTK72K6P5DSG6XZ4XMSFT
+type: image
+subtype: plan
+title: Deichplan Gollensdorf bis Wittenberge
+description: Maßstab 1:100.
+date: 1972-02-02
+origin:
+  name: Heinrich Voss
+  type: person
+  location: Havelberg
+subjects:
+  - name: Kaufmannshaus
+    type: building
+  - name: Arendsee
+    type: place
+files:
+  - role: main
+    original_name: scan_796.tif
+    path: files/07/d8/07d8a0933b57202725b5b42d4b3b8b353aa7a984b60ebb5a4ed178c0c1b7a5fc/original.tif
+    sha256: 07d8a0933b57202725b5b42d4b3b8b353aa7a984b60ebb5a4ed178c0c1b7a5fc
+    mime: image/tiff
+    bytes: 13457015
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/d8/07d8a0933b57202725b5b42d4b3b8b353aa7a984b60ebb5a4ed178c0c1b7a5fc/preview-400.36d58b805e31.jpg
+        sha256: 36d58b805e313c7be818d1fd1b81f3f975752ad50c080777aaf6abf338fe8beb
+        mime: image/jpeg
+        bytes: 52682
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

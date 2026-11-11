@@ -1,0 +1,39 @@
+id: 01JQBSQGZ8QQ295078MJ1H3TQK
+type: image
+subtype: drawing
+title: Skizze Gorleben, Burgstraße
+description: Mit Anmerkungen am Rand.
+date: 1923-08-05
+origin:
+  name: Berta Hennings
+  type: person
+  location: Gorleben
+subjects:
+  - name: Kirmes 1923
+    type: event
+  - name: Gorleben
+    type: place
+  - name: Viehmarkt 1923
+    type: event
+parents:
+  - 01GWFE0FE3S612EGDSN47NZK4B
+files:
+  - role: main
+    original_name: scan_706.tif
+    path: files/16/b9/16b9d3f8d587332cee914c667cdcd678959cad0cf0f726e25b3e30af46b5a331/original.tif
+    sha256: 16b9d3f8d587332cee914c667cdcd678959cad0cf0f726e25b3e30af46b5a331
+    mime: image/tiff
+    bytes: 10251962
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/16/b9/16b9d3f8d587332cee914c667cdcd678959cad0cf0f726e25b3e30af46b5a331/preview-400.2f401cabe453.jpg
+        sha256: 2f401cabe453558c71edc7f225f7d9a27f315b01ed6c30fbfaaf51dcd99930df
+        mime: image/jpeg
+        bytes: 29794
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

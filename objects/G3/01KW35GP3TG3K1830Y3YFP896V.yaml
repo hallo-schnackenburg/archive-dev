@@ -1,0 +1,41 @@
+id: 01KW35GP3TG3K1830Y3YFP896V
+type: image
+subtype: photo
+title: Erntedankfest der Angelverein
+description: Zu sehen sind Gasthof Meyer und Kriegerdenkmal.
+date: 1978-01-02
+location: Laase, Hinter den Höfen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: F 37/084
+  note: Schrank B
+subjects:
+  - name: Erntedankfest 1978
+    type: event
+  - name: Zollamt
+    type: building
+  - name: Sparkasse
+    type: building
+files:
+  - role: main
+    original_name: scan_718.tif
+    path: files/dc/67/dc67154bfdb5e3a6bd5c7e242bf850312a9fb8f49ea9fac13be166079c91cc1d/original.tif
+    sha256: dc67154bfdb5e3a6bd5c7e242bf850312a9fb8f49ea9fac13be166079c91cc1d
+    mime: image/tiff
+    bytes: 23123574
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/dc/67/dc67154bfdb5e3a6bd5c7e242bf850312a9fb8f49ea9fac13be166079c91cc1d/preview-400.a80557e8bd2f.jpg
+        sha256: a80557e8bd2f1f196197ed58164666c712764d5e876bc056a970108c9af9be05
+        mime: image/jpeg
+        bytes: 31313
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

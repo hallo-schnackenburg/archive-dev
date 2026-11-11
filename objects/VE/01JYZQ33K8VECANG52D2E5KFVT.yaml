@@ -1,0 +1,32 @@
+id: 01JYZQ33K8VECANG52D2E5KFVT
+type: image
+subtype: photo
+title: Straßenfest 1913
+date: "1913"
+origin:
+  name: Rudolf Hennings
+  type: person
+  location: Kapern
+parents:
+  - 01HP6EAK3TB1B30E0D5T4P2J2A
+  - 01FEMA2K3GSA17BGZHHP3N0PEF
+files:
+  - role: main
+    original_name: P8223.jpg
+    path: files/ca/58/ca58c8828f0804a5fc266be7838b5a4a534c433134e0fa2eb917d15e18caa8ca/original.jpg
+    sha256: ca58c8828f0804a5fc266be7838b5a4a534c433134e0fa2eb917d15e18caa8ca
+    mime: image/jpeg
+    bytes: 7194817
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/ca/58/ca58c8828f0804a5fc266be7838b5a4a534c433134e0fa2eb917d15e18caa8ca/preview-400.106b135f96f2.jpg
+        sha256: 106b135f96f2091ca9e458ae6618ef416462756c2edc1325147273e1c07c2034
+        mime: image/jpeg
+        bytes: 73206
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01H4WKYC148H54D6YHW3GJHTSN
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Maifeier, Kapern"
+date: 1964/1973
+location: Seedorf, Kaufmannshaus
+geocode:
+  lat: 53.0534
+  lon: 11.5476
+  precision: region
+  source: osm
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Erika Kuhlmann
+    type: person
+  - name: Seedorf
+    type: place
+files:
+  - role: main
+    original_name: scan_731.tif
+    path: files/17/9b/179b5d07819dc960173ceb61ca8e71ebf4d2dd6d662d8ca4d8aa8cfd80584288/original.tif
+    sha256: 179b5d07819dc960173ceb61ca8e71ebf4d2dd6d662d8ca4d8aa8cfd80584288
+    mime: image/tiff
+    bytes: 9207748
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/17/9b/179b5d07819dc960173ceb61ca8e71ebf4d2dd6d662d8ca4d8aa8cfd80584288/preview-400.e596ebb5b139.jpg
+        sha256: e596ebb5b139d342b783f7e94bb82f2554925008b9cf95452eaaa810d1f0e17f
+        mime: image/jpeg
+        bytes: 29198
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

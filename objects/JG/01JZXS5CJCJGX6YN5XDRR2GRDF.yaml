@@ -1,0 +1,37 @@
+id: 01JZXS5CJCJGX6YN5XDRR2GRDF
+type: image
+subtype: plan
+title: Bauplan Fähranleger 1980
+date: 1980-10
+location: Bömenzien, Tanzsaal
+geocode:
+  lat: 52.959
+  lon: 11.6382
+  precision: town
+  source: osm
+subjects:
+  - name: Lenzen
+    type: place
+parents:
+  - 01KYDMSXHX7AFCZAAJ5K4HGX9B
+  - 01JDVF1103F03HCTM49T0G4EC6
+files:
+  - role: main
+    original_name: scan_397.tif
+    path: files/63/9f/639f1963abfd758d3be4254339ac44f9257deee1fbf2c43c21fba0e13e0a8bdb/original.tif
+    sha256: 639f1963abfd758d3be4254339ac44f9257deee1fbf2c43c21fba0e13e0a8bdb
+    mime: image/tiff
+    bytes: 23987635
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/63/9f/639f1963abfd758d3be4254339ac44f9257deee1fbf2c43c21fba0e13e0a8bdb/preview-400.8729b3038755.jpg
+        sha256: 8729b30387555dd6884cc997450645cd43a4803dcd15948eda5dd101a144dbe6
+        mime: image/jpeg
+        bytes: 60234
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

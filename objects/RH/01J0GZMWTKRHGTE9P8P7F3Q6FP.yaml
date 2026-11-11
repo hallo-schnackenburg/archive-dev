@@ -1,0 +1,46 @@
+id: 01J0GZMWTKRHGTE9P8P7F3Q6FP
+type: image
+subtype: photo
+title: Straßenfest 1989
+description: Aufnahme von Albert Wegner.
+date: 1989/1992
+location: Gartow, Hafenstraße
+geocode:
+  lat: 52.9319
+  lon: 11.537
+  precision: street
+  source: osm
+origin:
+  name: Erika Hennings
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Slg 17/350
+  note: Dachboden, Truhe
+parents:
+  - 01F65BXKMKS9E7T6J3V39RWQAH
+  - 01JS809ECB0H6P74TPETN12T1S
+files:
+  - role: main
+    original_name: foto_3170.jpg
+    path: files/a0/f6/a0f6d1b3c2c36b23dfeba17a5aa34c1c89b2ab644b01fe8eb313082f57f6f559/original.jpg
+    sha256: a0f6d1b3c2c36b23dfeba17a5aa34c1c89b2ab644b01fe8eb313082f57f6f559
+    mime: image/jpeg
+    bytes: 11007422
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/a0/f6/a0f6d1b3c2c36b23dfeba17a5aa34c1c89b2ab644b01fe8eb313082f57f6f559/preview-400.e2a972597f28.jpg
+        sha256: e2a972597f28bde1daba56df449f3071b9d6c8c62da540aa08a5dc11a7299f65
+        mime: image/jpeg
+        bytes: 62027
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

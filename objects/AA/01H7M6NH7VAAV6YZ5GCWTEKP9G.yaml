@@ -1,0 +1,41 @@
+id: 01H7M6NH7VAAV6YZ5GCWTEKP9G
+type: document
+subtype: letter
+title: Brief von Otto Lemke an Erika Wegner
+date: 1917-04
+location: Pretzier, Speicher
+geocode:
+  lat: 52.971
+  lon: 11.5731
+  precision: street
+  source: osm
+recipient: Heinrich Wöhlk
+language: de
+subjects:
+  - name: Schlachtfest 1917
+    type: event
+  - name: Marta Burmester
+    type: person
+  - name: Dieter Plate
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_tekp9g_001.tif
+    path: files/0f/7f/0f7f605382239ee1a96ad7d9c72d8ba97ef57b0aae8f5f9f70389e8f1fcfd7ed/original.tif
+    sha256: 0f7f605382239ee1a96ad7d9c72d8ba97ef57b0aae8f5f9f70389e8f1fcfd7ed
+    mime: image/tiff
+    bytes: 18344495
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0f/7f/0f7f605382239ee1a96ad7d9c72d8ba97ef57b0aae8f5f9f70389e8f1fcfd7ed/preview-400.de254eaead57.jpg
+        sha256: de254eaead5746f0e63129c78897af4f20702f1f38b56881a4fc5cbb811e80a0
+        mime: image/jpeg
+        bytes: 76245
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

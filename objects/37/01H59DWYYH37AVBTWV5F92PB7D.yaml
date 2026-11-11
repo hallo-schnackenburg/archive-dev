@@ -1,0 +1,35 @@
+id: 01H59DWYYH37AVBTWV5F92PB7D
+type: image
+subtype: plan
+title: Flurkarte Seedorf, Brünkendorf
+date: 1966~
+location: Lanz, Fährstraße
+origin:
+  name: Hans Lemke
+  type: person
+  location: Seedorf
+subjects:
+  - name: Fritz Lemke
+    type: person
+  - name: Gorleben
+    type: place
+files:
+  - role: main
+    original_name: scan_776.tif
+    path: files/5d/a6/5da6846d7f40578c22cb4dc73ff3762ae5b5de75aa733e4eb025181380a62aef/original.tif
+    sha256: 5da6846d7f40578c22cb4dc73ff3762ae5b5de75aa733e4eb025181380a62aef
+    mime: image/tiff
+    bytes: 15413806
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5d/a6/5da6846d7f40578c22cb4dc73ff3762ae5b5de75aa733e4eb025181380a62aef/preview-400.87ad20c13db5.jpg
+        sha256: 87ad20c13db52c47743dfb2c1907050823bb0268adc4c75019accd5adc8f5e01
+        mime: image/jpeg
+        bytes: 41416
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

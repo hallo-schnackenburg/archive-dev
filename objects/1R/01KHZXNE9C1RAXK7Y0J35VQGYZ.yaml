@@ -1,0 +1,59 @@
+id: 01KHZXNE9C1RAXK7Y0J35VQGYZ
+type: document
+subtype: protocol
+title: Gemeinderatsprotokoll Restorf 1944
+description: Handschriftlich in Sütterlin.
+date: "1944"
+language: nds
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Dok 23/237
+subjects:
+  - name: Otto Schwarz
+    type: person
+parents:
+  - 01F9YMN9D3JJVF02Y68XA8TP10
+files:
+  - role: page
+    num: 1
+    original_name: protocol_5vqgyz_001.tif
+    path: files/0c/b0/0cb0b45f4d6c0071f9d96cc4145769b907f4639e6f3a43b17cffb7b7629bc613/original.tif
+    sha256: 0cb0b45f4d6c0071f9d96cc4145769b907f4639e6f3a43b17cffb7b7629bc613
+    mime: image/tiff
+    bytes: 11958559
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/0c/b0/0cb0b45f4d6c0071f9d96cc4145769b907f4639e6f3a43b17cffb7b7629bc613/preview-400.3559b26a1dbb.jpg
+        sha256: 3559b26a1dbb2af3a884a429ef4ac1e89c5ce1f04ea3a6b4b5fe8d0eaaad2519
+        mime: image/jpeg
+        bytes: 56270
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_5vqgyz_002.tif
+    path: files/7a/f7/7af73e6de3db52a837b17facc4b563180aa5afb7fffa26b55e0eea00d991721e/original.tif
+    sha256: 7af73e6de3db52a837b17facc4b563180aa5afb7fffa26b55e0eea00d991721e
+    mime: image/tiff
+    bytes: 5995500
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7a/f7/7af73e6de3db52a837b17facc4b563180aa5afb7fffa26b55e0eea00d991721e/preview-400.a8a012307a19.jpg
+        sha256: a8a012307a1965b5cb93fe9344250e4ca1a2442c33098f9dfff170f20106e5cd
+        mime: image/jpeg
+        bytes: 50074
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,51 @@
+id: 01K149XK2H6JM73GA0NX4JCEZN
+type: image
+subtype: photo
+title: Wassermühle nach dem Erntedankfest
+description: Zu sehen sind Torhaus und Scheune.
+location: Seedorf, Kirche St. Johannis
+geocode:
+  lat: 52.9561
+  lon: 11.6684
+  precision: region
+  source: osm
+origin:
+  name: Horst Bruns
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg/Kasten 5/015
+  note: Planschrank, Fach 3
+subjects:
+  - name: Kapern
+    type: place
+  - name: Osterfeuer 2003
+    type: event
+  - name: Feuerwehrhaus
+    type: building
+parents:
+  - 01J3DPEJ61GZW2DYZ6RC50SJBG
+files:
+  - role: main
+    original_name: IMG_4095.jpg
+    path: files/85/6b/856b870e99ad629667ca941e84d4aa1c4d54e4875cc9f8fcd926c0ffaeb7a02a/original.jpg
+    sha256: 856b870e99ad629667ca941e84d4aa1c4d54e4875cc9f8fcd926c0ffaeb7a02a
+    mime: image/jpeg
+    bytes: 6275287
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/85/6b/856b870e99ad629667ca941e84d4aa1c4d54e4875cc9f8fcd926c0ffaeb7a02a/preview-400.86b72e77fe83.jpg
+        sha256: 86b72e77fe83d132c5562646f2299f3cdf0248cadcba4d84b8df43cd11b530ee
+        mime: image/jpeg
+        bytes: 30415
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

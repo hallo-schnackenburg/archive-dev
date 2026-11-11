@@ -1,0 +1,37 @@
+id: 01HA8G40TTG96ENV9D1G2G2GAA
+type: image
+subtype: photo
+title: Helga Krüger, Porträt
+description: Aufnahme von Ernst Wöhlk.
+date: 1898-05
+origin:
+  name: Gerda Dreyer
+  type: person
+  location: Salzwedel
+subjects:
+  - name: Konfirmation 1898
+    type: event
+  - name: Richtfest 1898
+    type: event
+  - name: Heinz Burmester
+    type: person
+files:
+  - role: main
+    original_name: IMG_2898.jpg
+    path: files/f2/17/f2177c93fd95a53bd45e1d36c4aa51d7db71fcfa40e3c1dbe42404b1bc4d963f/original.jpg
+    sha256: f2177c93fd95a53bd45e1d36c4aa51d7db71fcfa40e3c1dbe42404b1bc4d963f
+    mime: image/jpeg
+    bytes: 15177009
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/f2/17/f2177c93fd95a53bd45e1d36c4aa51d7db71fcfa40e3c1dbe42404b1bc4d963f/preview-400.ab9995b5a232.jpg
+        sha256: ab9995b5a2327e4c9d4ade1cb59499f92e4da7a9e762ce3d270ace1ed00c9764
+        mime: image/jpeg
+        bytes: 84115
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

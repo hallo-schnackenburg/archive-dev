@@ -1,0 +1,41 @@
+id: 01M2410WCEMBSTEJE1VPGXG0SH
+type: image
+subtype: print
+title: Postkarte Laase, Pfarrhaus
+description: Lithographie, Rand beschnitten.
+date: 1716/1721
+location: Salzwedel, Burgstraße
+origin:
+  name: Lotte Brandt
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  reference: Dok/Album 19/047
+  note: Dachboden, Truhe
+subjects:
+  - name: Schmiede
+    type: building
+files:
+  - role: main
+    original_name: scan_138.tif
+    path: files/7b/09/7b09b77f89216607aae69c7ef0e466eaf4b3e26cef89e15d5846361077902bda/original.tif
+    sha256: 7b09b77f89216607aae69c7ef0e466eaf4b3e26cef89e15d5846361077902bda
+    mime: image/tiff
+    bytes: 25376140
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7b/09/7b09b77f89216607aae69c7ef0e466eaf4b3e26cef89e15d5846361077902bda/preview-400.5b7a722d5e42.jpg
+        sha256: 5b7a722d5e4290b59db085b7ec2cf5305a2c4033ed46cb745ed52ecb4464f0eb
+        mime: image/jpeg
+        bytes: 49432
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

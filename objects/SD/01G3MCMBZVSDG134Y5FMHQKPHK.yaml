@@ -1,0 +1,36 @@
+id: 01G3MCMBZVSDG134Y5FMHQKPHK
+type: image
+subtype: drawing
+title: Federzeichnung Gemeindehaus
+description: Mit Anmerkungen am Rand.
+date: 1962-05
+origin:
+  name: Frieda Jeß
+  type: person
+  location: Bömenzien
+subjects:
+  - name: Gasthof „Zur Elbe“
+    type: building
+parents:
+  - 01G0X29EZ2FVG07FG6GWV5MNSG
+  - 01FJMCPRQ0EG050EZ87JB0MN40
+files:
+  - role: main
+    original_name: scan_999.tif
+    path: files/1c/7c/1c7c3f067c4ef85e99a016a44d01a56c78cb0cc9dfb7305b8e590324052736a6/original.tif
+    sha256: 1c7c3f067c4ef85e99a016a44d01a56c78cb0cc9dfb7305b8e590324052736a6
+    mime: image/tiff
+    bytes: 3792558
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/7c/1c7c3f067c4ef85e99a016a44d01a56c78cb0cc9dfb7305b8e590324052736a6/preview-400.b2845d091cca.jpg
+        sha256: b2845d091ccaf95a68aa2653cb411c7d96f190d7c1010571ac1b0be255eacad6
+        mime: image/jpeg
+        bytes: 27890
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

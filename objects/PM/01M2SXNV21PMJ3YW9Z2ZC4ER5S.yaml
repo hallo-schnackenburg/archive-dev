@@ -1,0 +1,36 @@
+id: 01M2SXNV21PMJ3YW9Z2ZC4ER5S
+type: image
+subtype: plan
+title: Katasterblatt Prieß
+description: Maßstab 1:250.
+date: "1754"
+location: Seedorf, Marktstraße
+origin:
+  name: Dieter Jeß
+  type: person
+  location: Lüchow
+subjects:
+  - name: Lotte Plate
+    type: person
+parents:
+  - 01HX63HPJQWPA2R8TSS7RY7SQZ
+files:
+  - role: main
+    original_name: scan_115.tif
+    path: files/2d/6b/2d6b02c246fa05564c6865c85dd0404cf6dc45c6356688103ef395e69b2019ed/original.tif
+    sha256: 2d6b02c246fa05564c6865c85dd0404cf6dc45c6356688103ef395e69b2019ed
+    mime: image/tiff
+    bytes: 16707919
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/2d/6b/2d6b02c246fa05564c6865c85dd0404cf6dc45c6356688103ef395e69b2019ed/preview-400.371dffefeff0.jpg
+        sha256: 371dffefeff0494368495af7257af6a2749defcc6bace8db229a34037ad7d39b
+        mime: image/jpeg
+        bytes: 23567
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

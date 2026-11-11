@@ -1,0 +1,42 @@
+id: 01GKRR62VMAJVWW3MHY8W7NASB
+type: image
+subtype: plan
+title: Bauplan Molkerei 1995
+description: Mit handschriftlichen Ergänzungen.
+date: 1995-12-22
+origin:
+  name: Fritz Garms
+  type: person
+  location: Wootz
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Günter Ahrens
+    type: person
+  - name: Gartow
+    type: place
+  - name: Erika Lemke
+    type: person
+files:
+  - role: main
+    original_name: scan_940.tif
+    path: files/57/c8/57c8a1900d7f688a00bf425dbabc5ae610f4a72a417fcf55e8848e261ff061ef/original.tif
+    sha256: 57c8a1900d7f688a00bf425dbabc5ae610f4a72a417fcf55e8848e261ff061ef
+    mime: image/tiff
+    bytes: 624053
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/c8/57c8a1900d7f688a00bf425dbabc5ae610f4a72a417fcf55e8848e261ff061ef/preview-400.1f7e20cf6705.jpg
+        sha256: 1f7e20cf6705282d9de4087ab299cd3f97d4a7ebbcee2b2cbf05c43214d611f8
+        mime: image/jpeg
+        bytes: 87884
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

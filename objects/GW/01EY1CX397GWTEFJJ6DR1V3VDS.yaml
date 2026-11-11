@@ -1,0 +1,39 @@
+id: 01EY1CX397GWTEFJJ6DR1V3VDS
+type: image
+subtype: drawing
+title: Wappenentwurf Gorleben, Hitzacker
+description: Mit Anmerkungen am Rand.
+date: 1855-12-07
+location: Rüterberg, Fährstraße
+geocode:
+  lat: 52.9334
+  lon: 11.5304
+  precision: town
+  source: osm
+subjects:
+  - name: Hochzeit 1855
+    type: event
+  - name: Viehmarkt 1855
+    type: event
+parents:
+  - 01GZBYX4A88TP2NKQ77RVEKH6X
+files:
+  - role: main
+    original_name: scan_457.tif
+    path: files/2f/21/2f21322252d3412b70ca1e82bd194d46af3b167993e624db808c99d15a2fafbf/original.tif
+    sha256: 2f21322252d3412b70ca1e82bd194d46af3b167993e624db808c99d15a2fafbf
+    mime: image/tiff
+    bytes: 3473797
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/2f/21/2f21322252d3412b70ca1e82bd194d46af3b167993e624db808c99d15a2fafbf/preview-400.bc57f8f488f8.jpg
+        sha256: bc57f8f488f8a7b087c80cd4980db919a7077c212c5ba3327b8ab14c69d39543
+        mime: image/jpeg
+        bytes: 47938
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,34 @@
+id: 01JCQBCNKGBMP5K33HMXJDQKX7
+type: image
+subtype: drawing
+title: Skizze Rüterberg, Dorfstraße
+description: Bleistift auf Papier.
+date: 1848-02-12
+location: Cumlosen, Dorfstraße
+origin:
+  name: Karl Lemke
+  type: person
+  location: Restorf
+subjects:
+  - name: Cumlosen
+    type: place
+files:
+  - role: main
+    original_name: scan_301.tif
+    path: files/5c/2e/5c2e07e1cb2c115a1e7303ae3a8ab14b84429227bcc822a0760b266b603f8633/original.tif
+    sha256: 5c2e07e1cb2c115a1e7303ae3a8ab14b84429227bcc822a0760b266b603f8633
+    mime: image/tiff
+    bytes: 5097013
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/5c/2e/5c2e07e1cb2c115a1e7303ae3a8ab14b84429227bcc822a0760b266b603f8633/preview-400.e5c14294445e.jpg
+        sha256: e5c14294445e50291ce87848f9c8bb34ff7868af6ca952e695fe80613a070712
+        mime: image/jpeg
+        bytes: 40184
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

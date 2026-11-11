@@ -1,0 +1,41 @@
+id: 01KX70YWAF7GCV0GP7NT667701
+type: image
+subtype: photo
+title: Paul Hennings, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: 1985-02-21
+location: Gartow, Ladestraße
+geocode:
+  lat: 53.0455
+  lon: 11.4694
+  precision: street
+  source: osm
+origin:
+  name: Helga Lüders
+  type: person
+  location: Schnackenburg
+subjects:
+  - name: Renate Schulz
+    type: person
+parents:
+  - 01KNZ0SE3D6PEDW26H1C3A2K48
+files:
+  - role: main
+    original_name: foto_5314.jpg
+    path: files/67/34/6734c03af1279448ec75bb92b77f8cab8018661663fe91666ef44fe3ad257501/original.jpg
+    sha256: 6734c03af1279448ec75bb92b77f8cab8018661663fe91666ef44fe3ad257501
+    mime: image/jpeg
+    bytes: 1508246
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/67/34/6734c03af1279448ec75bb92b77f8cab8018661663fe91666ef44fe3ad257501/preview-400.c8dd355736a5.jpg
+        sha256: c8dd355736a5f54e650b3a437df10c2422b12593aa597664e6e23f2e2ad98959
+        mime: image/jpeg
+        bytes: 29409
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,32 @@
+id: 01H7KZMTGF3M4QVHGRG05BZYP7
+type: image
+subtype: print
+title: Postkarte Restorf, Bahnhof
+date: 1716/1725
+location: Rüterberg, Fährstraße
+origin:
+  name: Emma Wegner
+  type: person
+  location: Wootz
+parents:
+  - 01GWG9662GMDBHVAK54DXCMWG2
+files:
+  - role: main
+    original_name: scan_195.tif
+    path: files/1a/00/1a00ab7bb1ea098323b9e2287a976dbba64cec0a7ee172ed3e19e8cb5e517fb5/original.tif
+    sha256: 1a00ab7bb1ea098323b9e2287a976dbba64cec0a7ee172ed3e19e8cb5e517fb5
+    mime: image/tiff
+    bytes: 21870599
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/1a/00/1a00ab7bb1ea098323b9e2287a976dbba64cec0a7ee172ed3e19e8cb5e517fb5/preview-400.3caa30d34c06.jpg
+        sha256: 3caa30d34c06867b1c10a08bb99703b805bb5422b0ff92bcef3a6db26209d820
+        mime: image/jpeg
+        bytes: 51960
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

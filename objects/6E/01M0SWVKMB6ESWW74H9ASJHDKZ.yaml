@@ -1,0 +1,29 @@
+id: 01M0SWVKMB6ESWW74H9ASJHDKZ
+type: image
+subtype: plan
+title: Bauplan Heuberge 1784
+subjects:
+  - name: Kartoffelernte 1784
+    type: event
+  - name: Lanz
+    type: place
+files:
+  - role: main
+    original_name: scan_983.tif
+    path: files/6a/20/6a20c57687629a00a94ddfe4c0a62cd76d6dbf6828fecfd51142fe4e471b0a76/original.tif
+    sha256: 6a20c57687629a00a94ddfe4c0a62cd76d6dbf6828fecfd51142fe4e471b0a76
+    mime: image/tiff
+    bytes: 18629372
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/6a/20/6a20c57687629a00a94ddfe4c0a62cd76d6dbf6828fecfd51142fe4e471b0a76/preview-400.840aa7b420ef.jpg
+        sha256: 840aa7b420ef0788acb7288414e6f58f1e617125d18ddf898d8d8eec1a733982
+        mime: image/jpeg
+        bytes: 46641
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

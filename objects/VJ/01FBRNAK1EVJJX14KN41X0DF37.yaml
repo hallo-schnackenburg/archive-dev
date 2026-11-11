@@ -1,0 +1,87 @@
+id: 01FBRNAK1EVJJX14KN41X0DF37
+type: document
+subtype: letter
+title: Korrespondenz Marta Nitschke
+date: 1911?
+location: Gartow, Marktstraße
+geocode:
+  lat: 52.9941
+  lon: 11.5287
+  precision: town
+  source: osm
+recipient: Gerda Lüders
+language: de
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: Dok/Album 13/006
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Wilhelm Lemke
+    type: person
+parents:
+  - 01HAP62ST45VTQVM84K6Q2R732
+files:
+  - role: page
+    num: 1
+    original_name: letter_x0df37_001.tif
+    path: files/06/83/06831467bff91ce9b04a5d445fd21d834b8f60110ab5b4691039100bb536cdc9/original.tif
+    sha256: 06831467bff91ce9b04a5d445fd21d834b8f60110ab5b4691039100bb536cdc9
+    mime: image/tiff
+    bytes: 18558126
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/06/83/06831467bff91ce9b04a5d445fd21d834b8f60110ab5b4691039100bb536cdc9/preview-400.9083b5175562.jpg
+        sha256: 9083b5175562e04ac72fe6d79ad3edbe2214477739db02fbbecb20e3cc1085b0
+        mime: image/jpeg
+        bytes: 28096
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_x0df37_002.tif
+    path: files/bd/0d/bd0da10ffab636b096f620d20ddaddf3b984e4151286fcfaf318e8047b808cf3/original.tif
+    sha256: bd0da10ffab636b096f620d20ddaddf3b984e4151286fcfaf318e8047b808cf3
+    mime: image/tiff
+    bytes: 9627684
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bd/0d/bd0da10ffab636b096f620d20ddaddf3b984e4151286fcfaf318e8047b808cf3/preview-400.715cb037cbb2.jpg
+        sha256: 715cb037cbb29bd9e4dfedd1a2166edd9617261590d4ed097dd5d5f054b94c87
+        mime: image/jpeg
+        bytes: 59861
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_x0df37_003.tif
+    path: files/8c/b1/8cb14b86dc4932712e3ad17642442c127fba4b2b0db07722827d7a64fac316ce/original.tif
+    sha256: 8cb14b86dc4932712e3ad17642442c127fba4b2b0db07722827d7a64fac316ce
+    mime: image/tiff
+    bytes: 27089105
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/8c/b1/8cb14b86dc4932712e3ad17642442c127fba4b2b0db07722827d7a64fac316ce/preview-400.69bf27d6cbe4.jpg
+        sha256: 69bf27d6cbe4637fd5541baa1c4e6f9576ccce6385cd806a52c6189165a3d476
+        mime: image/jpeg
+        bytes: 52675
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

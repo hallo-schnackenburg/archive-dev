@@ -1,0 +1,60 @@
+id: 01H59RQFB0PF0RGJD8XPNVKVEG
+type: document
+subtype: note
+title: Rechnung Lüders, Dorfladen
+description: Beleg mit Stempel.
+date: 1943-05-16
+location: Zadrau, Pumpenhaus
+origin:
+  name: Erika Hennings
+  type: person
+  location: Wittenberge
+language: de
+subjects:
+  - name: Gorleben
+    type: place
+  - name: Restorf
+    type: place
+parents:
+  - 01K7R3BCASWDCHJS6K90MMNRBE
+files:
+  - role: page
+    num: 1
+    original_name: note_nvkveg_001.tif
+    path: files/ec/b0/ecb0bbaa6155e48fabacbe3c922c845a8445e29952c9e08aae9b4330df8a358e/original.tif
+    sha256: ecb0bbaa6155e48fabacbe3c922c845a8445e29952c9e08aae9b4330df8a358e
+    mime: image/tiff
+    bytes: 23968672
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ec/b0/ecb0bbaa6155e48fabacbe3c922c845a8445e29952c9e08aae9b4330df8a358e/preview-400.829ee1fe2aec.jpg
+        sha256: 829ee1fe2aec8930f117bf3a0155a77761f3680dc8fc13bb264ae41cd46f7b8c
+        mime: image/jpeg
+        bytes: 24592
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_nvkveg_002.tif
+    path: files/dd/4e/dd4ed9c4ddc31975d6f448b006c63ebbe6615cdf4b4c947b251be6ab4bd8cbf2/original.tif
+    sha256: dd4ed9c4ddc31975d6f448b006c63ebbe6615cdf4b4c947b251be6ab4bd8cbf2
+    mime: image/tiff
+    bytes: 13786970
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/dd/4e/dd4ed9c4ddc31975d6f448b006c63ebbe6615cdf4b4c947b251be6ab4bd8cbf2/preview-400.2ff7c7b082e0.jpg
+        sha256: 2ff7c7b082e0c2484ca529f312e926c1beadf6f35be1de834fae985638773598
+        mime: image/jpeg
+        bytes: 79053
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

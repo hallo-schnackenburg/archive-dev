@@ -1,0 +1,38 @@
+id: 01F6VT4JE6VFN5RJF3S7N69C2K
+type: image
+subtype: print
+title: Postkarte Salzwedel, Kaufmannshaus
+description: Postkarte, gelaufen 1906.
+date: 1787/1798
+location: Zadrau, Bahnhofstraße
+origin:
+  name: Lotte Brandt
+  type: person
+  location: Gollensdorf
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+parents:
+  - 01KXD1F75H1JZH7SDYYBNHXZ0A
+files:
+  - role: main
+    original_name: scan_937.tif
+    path: files/58/21/5821daa2a423b912b9bea5db909c2099e0ffc88af230fa4b275ca735983e6018/original.tif
+    sha256: 5821daa2a423b912b9bea5db909c2099e0ffc88af230fa4b275ca735983e6018
+    mime: image/tiff
+    bytes: 19037893
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/58/21/5821daa2a423b912b9bea5db909c2099e0ffc88af230fa4b275ca735983e6018/preview-400.68968231f376.jpg
+        sha256: 68968231f37696311060386c8a527d7cc2bebb74a3bbe6ecff0a6706d4543bc8
+        mime: image/jpeg
+        bytes: 81946
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

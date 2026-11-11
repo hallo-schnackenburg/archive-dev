@@ -1,0 +1,59 @@
+id: 01FZWD909KXQHJDN8VF575ZH1Y
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Friedhofsordnung 1840
+description: Handschriftlich in Sütterlin.
+date: "1840"
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br/Album 9/101
+subjects:
+  - name: Kapern
+    type: place
+  - name: Schlachtfest 1840
+    type: event
+files:
+  - role: page
+    num: 1
+    original_name: protocol_75zh1y_001.tif
+    path: files/9e/2c/9e2ce7bdd5c6a9b8c6144d7bf3a1f052b9139d930648f1051d502146c9142e08/original.tif
+    sha256: 9e2ce7bdd5c6a9b8c6144d7bf3a1f052b9139d930648f1051d502146c9142e08
+    mime: image/tiff
+    bytes: 1860562
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/9e/2c/9e2ce7bdd5c6a9b8c6144d7bf3a1f052b9139d930648f1051d502146c9142e08/preview-400.71e9a91c72c2.jpg
+        sha256: 71e9a91c72c2af69f38dfcc73369bfcf29f21f93bbac5d608a4cb578fd66e221
+        mime: image/jpeg
+        bytes: 38583
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_75zh1y_002.tif
+    path: files/f6/07/f6079c87ee5d7ed51da5dd601c71bcf247444eccf448d28a93dec36d608c3d91/original.tif
+    sha256: f6079c87ee5d7ed51da5dd601c71bcf247444eccf448d28a93dec36d608c3d91
+    mime: image/tiff
+    bytes: 27670398
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f6/07/f6079c87ee5d7ed51da5dd601c71bcf247444eccf448d28a93dec36d608c3d91/preview-400.7746cf077c88.jpg
+        sha256: 7746cf077c88d6da6f5ef6e62d55413ceae8abafe4ae41b805fe8df8ca79ca3f
+        mime: image/jpeg
+        bytes: 21135
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

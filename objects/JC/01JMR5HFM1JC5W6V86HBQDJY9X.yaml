@@ -1,0 +1,39 @@
+id: 01JMR5HFM1JC5W6V86HBQDJY9X
+type: image
+subtype: plan
+title: Deichplan Gartow bis Rüterberg
+description: Tusche auf Transparentpapier.
+location: Rüterberg, Bäckerei Lüders
+origin:
+  name: Otto Kuhlmann
+  type: person
+  location: Laase
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Pro/Album 12/019
+subjects:
+  - name: Marta Bruns
+    type: person
+files:
+  - role: main
+    original_name: scan_494.tif
+    path: files/ce/90/ce90fedfe91ed441902f2c3dd4aee046c01f7a10fcd5aacdd3c71f32ba6a9ac0/original.tif
+    sha256: ce90fedfe91ed441902f2c3dd4aee046c01f7a10fcd5aacdd3c71f32ba6a9ac0
+    mime: image/tiff
+    bytes: 5615842
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ce/90/ce90fedfe91ed441902f2c3dd4aee046c01f7a10fcd5aacdd3c71f32ba6a9ac0/preview-400.8ce813e6ac75.jpg
+        sha256: 8ce813e6ac755f70719763429b7bb47af4a064fda86b7b4248bb1ba605f988bb
+        mime: image/jpeg
+        bytes: 43109
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,69 @@
+id: 01G7MQFC24W1GW41G7PBBZNX3X
+type: document
+subtype: note
+title: Quittung für Walter Gaede
+description: Beleg mit Stempel.
+date: 1954-06-01
+location: Hitzacker, Hinter den Höfen
+origin:
+  name: Dieter Wegner
+  type: person
+  location: Seedorf
+language: de
+original:
+  holder:
+    name: Familie Detlefs
+    type: person
+    location: Kapern
+  reference: F/Kasten 15/072
+  note: Planschrank, Fach 3
+subjects:
+  - name: Feuerwehrübung 1954
+    type: event
+  - name: Pfarrhaus
+    type: building
+  - name: Kindergarten
+    type: building
+parents:
+  - 01KGCTHH5QBAAENGAHP4MRPAPG
+files:
+  - role: page
+    num: 1
+    original_name: note_bznx3x_001.tif
+    path: files/36/ed/36ed285fdb2327634ab4b4a1ee9243bb0a4dc012e0a7cb2c36ec9fdffec8e329/original.tif
+    sha256: 36ed285fdb2327634ab4b4a1ee9243bb0a4dc012e0a7cb2c36ec9fdffec8e329
+    mime: image/tiff
+    bytes: 1354844
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/36/ed/36ed285fdb2327634ab4b4a1ee9243bb0a4dc012e0a7cb2c36ec9fdffec8e329/preview-400.b645c5407e55.jpg
+        sha256: b645c5407e552a0976893ef6c07e1d375297de0d7e083e019a6badc6cbdc0899
+        mime: image/jpeg
+        bytes: 26101
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: note_bznx3x_002.tif
+    path: files/d0/c6/d0c625d4ede708b223a642afa9928894f3da0222958c23159c1ce426cd76afaa/original.tif
+    sha256: d0c625d4ede708b223a642afa9928894f3da0222958c23159c1ce426cd76afaa
+    mime: image/tiff
+    bytes: 18752887
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d0/c6/d0c625d4ede708b223a642afa9928894f3da0222958c23159c1ce426cd76afaa/preview-400.e240074b3f1f.jpg
+        sha256: e240074b3f1faaa8724d305da968a802e3e008bc5092145048a4a82352f6ef60
+        mime: image/jpeg
+        bytes: 57429
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

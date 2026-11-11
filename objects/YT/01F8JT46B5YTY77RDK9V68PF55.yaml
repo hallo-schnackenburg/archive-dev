@@ -1,0 +1,35 @@
+id: 01F8JT46B5YTY77RDK9V68PF55
+type: image
+subtype: plan
+title: Deichplan Seedorf bis Salzwedel
+description: Tusche auf Transparentpapier.
+date: "1835"
+location: Arendsee, Lange Straße
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Fotos/Mappe 12/112
+parents:
+  - 01FYF46BCNWMPMBZAF8Z3VZK3Y
+files:
+  - role: main
+    original_name: scan_537.tif
+    path: files/14/80/1480840cd1b38066c339ece6421fb96d2d98079dd6907155a18508760f40430e/original.tif
+    sha256: 1480840cd1b38066c339ece6421fb96d2d98079dd6907155a18508760f40430e
+    mime: image/tiff
+    bytes: 8705191
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/14/80/1480840cd1b38066c339ece6421fb96d2d98079dd6907155a18508760f40430e/preview-400.082a98d66926.jpg
+        sha256: 082a98d669267305aa5523851fad893269cf84467a2036e594c79be9b696e199
+        mime: image/jpeg
+        bytes: 81583
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

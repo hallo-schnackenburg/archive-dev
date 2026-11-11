@@ -1,0 +1,31 @@
+id: 01GVSJ6SJT6Z827XGEE85E6HYB
+type: image
+subtype: photo
+title: Kriegerdenkmal in Arendsee
+description: Aufnahme von Hans Kuhlmann.
+date: "1929"
+location: Restorf, Dorfkrug
+origin:
+  name: Helga Lemke
+  type: person
+  location: Bömenzien
+files:
+  - role: main
+    original_name: DSC1790.jpg
+    path: files/87/6b/876bfb6747a0c3fad15efa48b0954545b202389b567b856f5f579515d9a5e851/original.jpg
+    sha256: 876bfb6747a0c3fad15efa48b0954545b202389b567b856f5f579515d9a5e851
+    mime: image/jpeg
+    bytes: 27451753
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/87/6b/876bfb6747a0c3fad15efa48b0954545b202389b567b856f5f579515d9a5e851/preview-400.f3ea076a5b92.jpg
+        sha256: f3ea076a5b923ebaef3017dabe1c06072c3cd93dd0a724c41987585ad26a23c9
+        mime: image/jpeg
+        bytes: 47990
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

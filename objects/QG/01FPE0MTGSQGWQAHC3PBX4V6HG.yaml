@@ -1,0 +1,38 @@
+id: 01FPE0MTGSQGWQAHC3PBX4V6HG
+type: image
+subtype: photo
+title: Weihnachtsmarkt 1941
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1941"
+location: Restorf, Hafenstraße
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  note: Bücherregal links
+subjects:
+  - name: Feuerwehrübung 1941
+    type: event
+  - name: Sparkasse
+    type: building
+files:
+  - role: main
+    original_name: DSC8514.jpg
+    path: files/07/d6/07d615cda2118a1a7dfc46b3ed27633683c5cb0dae6323161a7b4e4177b0df3d/original.jpg
+    sha256: 07d615cda2118a1a7dfc46b3ed27633683c5cb0dae6323161a7b4e4177b0df3d
+    mime: image/jpeg
+    bytes: 9635891
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/07/d6/07d615cda2118a1a7dfc46b3ed27633683c5cb0dae6323161a7b4e4177b0df3d/preview-400.ff6f1a2b3023.jpg
+        sha256: ff6f1a2b3023e155d19a24c9a11c9955b5d0febc356d0665f6ecd2cc9390f9e4
+        mime: image/jpeg
+        bytes: 70823
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

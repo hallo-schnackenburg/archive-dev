@@ -1,0 +1,44 @@
+id: 01GX3JYWAKHBHC8PYEMQZQ0ZCN
+type: image
+subtype: photo
+title: Otto Lüders vor dem Pfarrhaus
+description: Zu sehen sind Apotheke und Gutshaus.
+date: 1977?
+location: Restorf, Dorfschule
+geocode:
+  lat: 52.9191
+  lon: 11.6516
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Fotos/Album 1/040
+  note: Kellerarchiv
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Einweihung 1977
+    type: event
+files:
+  - role: main
+    original_name: IMG_7729.jpg
+    path: files/35/8a/358a32d03aea782bc9c1b53d6ca6b249ead7ebb862ccac920c8656b5eeea3ed9/original.jpg
+    sha256: 358a32d03aea782bc9c1b53d6ca6b249ead7ebb862ccac920c8656b5eeea3ed9
+    mime: image/jpeg
+    bytes: 4963348
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/35/8a/358a32d03aea782bc9c1b53d6ca6b249ead7ebb862ccac920c8656b5eeea3ed9/preview-400.cac31627939f.jpg
+        sha256: cac31627939fd8e5db7bcd01facb9353777043b94a30e69456a951ff6fdbe28f
+        mime: image/jpeg
+        bytes: 35598
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

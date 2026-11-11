@@ -1,0 +1,28 @@
+id: 01HA7KXMZ5CGVQ9CV3M4JNQ7D0
+type: image
+subtype: plan
+title: Bauplan Kegelbahn 1988
+date: 1988-05-01
+location: Laase, Dorfstraße
+parents:
+  - 01G0X29EZ2FVG07FG6GWV5MNSG
+files:
+  - role: main
+    original_name: scan_621.tif
+    path: files/da/8d/da8ddcebf1eb6d5b4480e7902d7d75027ba5224bf56c0cc6e5b53e328df1518a/original.tif
+    sha256: da8ddcebf1eb6d5b4480e7902d7d75027ba5224bf56c0cc6e5b53e328df1518a
+    mime: image/tiff
+    bytes: 2035441
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/da/8d/da8ddcebf1eb6d5b4480e7902d7d75027ba5224bf56c0cc6e5b53e328df1518a/preview-400.b9b0aeebc326.jpg
+        sha256: b9b0aeebc3268b6925a86aece26c927d683557f90450abd38add6effe2e53050
+        mime: image/jpeg
+        bytes: 86005
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

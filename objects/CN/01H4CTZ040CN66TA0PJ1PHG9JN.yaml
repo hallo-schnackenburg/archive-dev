@@ -1,0 +1,37 @@
+id: 01H4CTZ040CN66TA0PJ1PHG9JN
+type: image
+subtype: photo
+title: Berta Jeß vor dem Torhaus
+date: 1975-08-03
+location: Schnackenburg, Mühlenweg
+geocode:
+  lat: 52.9621
+  lon: 11.5047
+  precision: region
+  source: osm
+origin:
+  name: Dieter Ihde
+  type: person
+  location: Pretzier
+parents:
+  - 01EVCP6NN2EADHWRTHNC79ZAS7
+files:
+  - role: main
+    original_name: DSC5092.jpg
+    path: files/d0/c5/d0c5702b4fddaa02480da62c8ad4a0b3b35730d67af4b391d8d52c83115fd16d/original.jpg
+    sha256: d0c5702b4fddaa02480da62c8ad4a0b3b35730d67af4b391d8d52c83115fd16d
+    mime: image/jpeg
+    bytes: 6802420
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/d0/c5/d0c5702b4fddaa02480da62c8ad4a0b3b35730d67af4b391d8d52c83115fd16d/preview-400.708025f14349.jpg
+        sha256: 708025f14349448aed2da68461a1c3abac88b415924efe521c7caf4bf025601c
+        mime: image/jpeg
+        bytes: 31177
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

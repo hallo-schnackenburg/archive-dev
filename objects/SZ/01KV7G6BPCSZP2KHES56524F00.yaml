@@ -1,0 +1,53 @@
+id: 01KV7G6BPCSZP2KHES56524F00
+type: document
+subtype: note
+title: Rechnung Garms, Gutshaus
+description: Zettel, Bleistift.
+date: 1955-09-13
+location: Gartow, Deichstraße
+geocode:
+  lat: 53.0436
+  lon: 11.6246
+  precision: region
+  source: osm
+origin:
+  name: Marta Wiegmann
+  type: person
+  location: Wittenberge
+language: de
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos 2/350
+  note: Bücherregal links
+subjects:
+  - name: Torhaus
+    type: building
+  - name: Arendsee
+    type: place
+parents:
+  - 01H683J429KTWPMPPF52JN3Q9J
+  - 01HDW7HWDAZMFCFD1ZXF076XXS
+files:
+  - role: page
+    num: 1
+    original_name: note_524f00_001.tif
+    path: files/75/7f/757fac9caa59ba31a00c95476c4d85a3faa8cf9cb5c98691688fd587627251ca/original.tif
+    sha256: 757fac9caa59ba31a00c95476c4d85a3faa8cf9cb5c98691688fd587627251ca
+    mime: image/tiff
+    bytes: 14521674
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/75/7f/757fac9caa59ba31a00c95476c4d85a3faa8cf9cb5c98691688fd587627251ca/preview-400.a5e936af2da6.jpg
+        sha256: a5e936af2da6e47f8182ec8355e323e53fdaec5f398c45a7950f40cc4d5c5db3
+        mime: image/jpeg
+        bytes: 25692
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

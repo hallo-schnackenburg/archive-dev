@@ -1,0 +1,45 @@
+id: 01F9DDS7D82S1SS2GMXKS6C5KF
+type: document
+subtype: note
+title: Rechnung Jeß, Windmühle
+date: 2009-10
+location: Arendsee, Burgstraße
+geocode:
+  lat: 52.9315
+  lon: 11.6683
+  precision: street
+  source: osm
+owner:
+  name: Rudolf Ihde
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Brünkendorf
+    type: place
+  - name: Dorfkrug
+    type: building
+  - name: Eisgang 2009
+    type: event
+parents:
+  - 01KCNQMHENJ8PAWGKRGSDX5HZ0
+files:
+  - role: page
+    num: 1
+    original_name: note_s6c5kf_001.tif
+    path: files/55/a7/55a7177179955c88d21c099dd02400bc26a6e9cc5d3374b20134e8bfd1b8d3ad/original.tif
+    sha256: 55a7177179955c88d21c099dd02400bc26a6e9cc5d3374b20134e8bfd1b8d3ad
+    mime: image/tiff
+    bytes: 6864255
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/55/a7/55a7177179955c88d21c099dd02400bc26a6e9cc5d3374b20134e8bfd1b8d3ad/preview-400.712529704954.jpg
+        sha256: 71252970495414e79e23dd24c2bd18a909353720bc73fd1e7c34f943aa8e2ce1
+        mime: image/jpeg
+        bytes: 85900
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

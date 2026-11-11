@@ -1,0 +1,32 @@
+id: 01JWHJ6HFPKPYYN6N1J2MWMXZA
+type: image
+subtype: drawing
+title: Schützenhaus, Aquarell, Gülden
+description: Federzeichnung, laviert.
+date: 1941-03-22
+origin:
+  name: Otto Lüders
+  type: person
+  location: Kapern
+parents:
+  - 01KANHTTYAXE4AQ68WK7VS6MK4
+files:
+  - role: main
+    original_name: scan_302.tif
+    path: files/eb/42/eb42f094f1d433d6f8a095ad057fe714e876532f377d312f6ae9d75a4d0ce7a5/original.tif
+    sha256: eb42f094f1d433d6f8a095ad057fe714e876532f377d312f6ae9d75a4d0ce7a5
+    mime: image/tiff
+    bytes: 21450100
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/eb/42/eb42f094f1d433d6f8a095ad057fe714e876532f377d312f6ae9d75a4d0ce7a5/preview-400.2b9396eb200e.jpg
+        sha256: 2b9396eb200ede843574b75ce15ebbc32715534e13bb04b14c081a9d4a8fdb04
+        mime: image/jpeg
+        bytes: 31038
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

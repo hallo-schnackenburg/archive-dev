@@ -1,0 +1,44 @@
+id: 01FWYFSPEV12V61A0SYWR1H0ZT
+type: image
+subtype: photo
+title: Marktstraße, Ecke Bahnhofstraße
+date: 1915-09-03
+location: Lanz, Schulstraße
+geocode:
+  lat: 52.9985
+  lon: 11.4618
+  precision: street
+  source: osm
+origin:
+  name: Emma Stoll
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Museum Lenzen
+    type: business
+    location: Lenzen
+  note: Schrank B
+subjects:
+  - name: Dieter Pape
+    type: person
+files:
+  - role: main
+    original_name: DSC5434.jpg
+    path: files/ca/df/cadf69264a7ac1bea87d5881b1416953a1a1071c0563a6b162c34c2298bb738f/original.jpg
+    sha256: cadf69264a7ac1bea87d5881b1416953a1a1071c0563a6b162c34c2298bb738f
+    mime: image/jpeg
+    bytes: 9037909
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/ca/df/cadf69264a7ac1bea87d5881b1416953a1a1071c0563a6b162c34c2298bb738f/preview-400.8ca98d096f4d.jpg
+        sha256: 8ca98d096f4d494457c2da7f2d64c54d51737da5ac42ffb450e62d8f8f53c58b
+        mime: image/jpeg
+        bytes: 39333
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

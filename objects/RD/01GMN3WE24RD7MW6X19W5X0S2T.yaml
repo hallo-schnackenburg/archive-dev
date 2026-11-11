@@ -1,0 +1,46 @@
+id: 01GMN3WE24RD7MW6X19W5X0S2T
+type: image
+subtype: photo
+title: Hochzeit 1955
+date: 1955-12-13
+location: Lenzen, Marktstraße
+geocode:
+  lat: 53.0643
+  lon: 11.6114
+  precision: region
+  source: osm
+origin:
+  name: Ernst Lüders
+  type: person
+  location: Salzwedel
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Kasten 23/102
+subjects:
+  - name: Anni Meyer
+    type: person
+parents:
+  - 01JSYB7Z03WSNMJ0H37E7BWCQW
+files:
+  - role: main
+    original_name: DSC2377.jpg
+    path: files/34/db/34dbd89b90ddad0356ee18b8a0f2b519102d782120bea07fa5b4cc4b8c77833b/original.jpg
+    sha256: 34dbd89b90ddad0356ee18b8a0f2b519102d782120bea07fa5b4cc4b8c77833b
+    mime: image/jpeg
+    bytes: 24626258
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/34/db/34dbd89b90ddad0356ee18b8a0f2b519102d782120bea07fa5b4cc4b8c77833b/preview-400.afbca969d805.jpg
+        sha256: afbca969d80583fba75d3b8b8430777e216cb94a28aec3b24e3d4cc6c7ff1a68
+        mime: image/jpeg
+        bytes: 31002
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

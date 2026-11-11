@@ -1,0 +1,48 @@
+id: 01FTJSXWWHRKWCRP70HHC3GE6G
+type: image
+subtype: plan
+title: Bauplan Speicher 1960
+date: 1960-08
+location: Bömenzien, Fährstraße
+geocode:
+  lat: 53.0756
+  lon: 11.4849
+  precision: region
+  source: osm
+origin:
+  name: Heinrich Brandt
+  type: person
+  location: Zadrau
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Pro 23/064
+subjects:
+  - name: Gustav Wegner
+    type: person
+  - name: Cumlosen
+    type: place
+  - name: Ilse Voss
+    type: person
+files:
+  - role: main
+    original_name: scan_659.tif
+    path: files/97/db/97db39e89d8d06aa95738dbed34ec137cea352bcde381813115f28b1ec4d438c/original.tif
+    sha256: 97db39e89d8d06aa95738dbed34ec137cea352bcde381813115f28b1ec4d438c
+    mime: image/tiff
+    bytes: 11832746
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/97/db/97db39e89d8d06aa95738dbed34ec137cea352bcde381813115f28b1ec4d438c/preview-400.e30f9ddbfabe.jpg
+        sha256: e30f9ddbfabe951f46c19befd4f6e64481609c248c114ebbe063456e970d8d88
+        mime: image/jpeg
+        bytes: 40676
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

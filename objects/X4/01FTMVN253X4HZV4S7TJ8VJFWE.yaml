@@ -1,0 +1,35 @@
+id: 01FTMVN253X4HZV4S7TJ8VJFWE
+type: image
+subtype: print
+title: Postkarte Lenzen, Pumpenhaus
+description: Postkarte, gelaufen 1942.
+date: 1919-10
+origin:
+  name: Marta Meyer
+  type: person
+  location: Lanz
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Käthe Albers
+    type: person
+files:
+  - role: main
+    original_name: scan_750.tif
+    path: files/23/73/237322367d922fb066115e07b4b14e4cc247abac965ef2cb12a4dc5714b7b65f/original.tif
+    sha256: 237322367d922fb066115e07b4b14e4cc247abac965ef2cb12a4dc5714b7b65f
+    mime: image/tiff
+    bytes: 11621999
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/23/73/237322367d922fb066115e07b4b14e4cc247abac965ef2cb12a4dc5714b7b65f/preview-400.53852380a983.jpg
+        sha256: 53852380a983c7c1a7bea3dc4405e05ddbd424a4c149a41cdbea60faba39471d
+        mime: image/jpeg
+        bytes: 37808
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

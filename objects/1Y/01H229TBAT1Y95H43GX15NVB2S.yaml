@@ -1,0 +1,35 @@
+id: 01H229TBAT1Y95H43GX15NVB2S
+type: image
+subtype: print
+title: Lithographie Dorfladen, Gorleben
+date: 1711?
+location: Bömenzien, Hafenstraße
+origin:
+  name: Lotte Wiese
+  type: person
+  location: Lanz
+subjects:
+  - name: Brünkendorf
+    type: place
+parents:
+  - 01G1ZMXCSZWR93Z3JYH6CR645Y
+files:
+  - role: main
+    original_name: scan_880.tif
+    path: files/e4/9d/e49d60d1e60f064d3fdbd81bb2557e6629e7b9df51eb86ab685a190dca3dff6f/original.tif
+    sha256: e49d60d1e60f064d3fdbd81bb2557e6629e7b9df51eb86ab685a190dca3dff6f
+    mime: image/tiff
+    bytes: 19287758
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/e4/9d/e49d60d1e60f064d3fdbd81bb2557e6629e7b9df51eb86ab685a190dca3dff6f/preview-400.a25531f412bb.jpg
+        sha256: a25531f412bb219d0034262805ad78e8cd09afb6fd6abd79ea64fe5915219fe2
+        mime: image/jpeg
+        bytes: 57766
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

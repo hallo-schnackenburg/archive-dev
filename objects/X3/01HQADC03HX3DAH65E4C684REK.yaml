@@ -1,0 +1,38 @@
+id: 01HQADC03HX3DAH65E4C684REK
+type: image
+subtype: photo
+title: Burgstraße, Ecke Kirchstraße
+date: 1918/1920
+location: Gollensdorf, Bahnhofstraße
+geocode:
+  lat: 53.0596
+  lon: 11.6291
+  precision: street
+  source: osm
+origin:
+  name: Paul Lüders
+  type: person
+  location: Seedorf
+subjects:
+  - name: Kirmes 1918
+    type: event
+files:
+  - role: main
+    original_name: foto_7346.jpg
+    path: files/c7/33/c7330b85e47b4330fd8fabe25bc62d6f08862eeec5854b50d32aa79f87db3dbb/original.jpg
+    sha256: c7330b85e47b4330fd8fabe25bc62d6f08862eeec5854b50d32aa79f87db3dbb
+    mime: image/jpeg
+    bytes: 23593888
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/c7/33/c7330b85e47b4330fd8fabe25bc62d6f08862eeec5854b50d32aa79f87db3dbb/preview-400.feb1686d5785.jpg
+        sha256: feb1686d578540df7eb78183438fb51d02acb81439b703ff3b7417a7eb0a89d3
+        mime: image/jpeg
+        bytes: 80283
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

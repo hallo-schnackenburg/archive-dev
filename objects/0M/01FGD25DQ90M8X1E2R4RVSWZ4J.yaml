@@ -1,0 +1,38 @@
+id: 01FGD25DQ90M8X1E2R4RVSWZ4J
+type: image
+subtype: drawing
+title: Skizze Seedorf, Burgstraße
+date: "1923"
+origin:
+  name: Hermann Wegner
+  type: person
+  location: Wootz
+subjects:
+  - name: Hitzacker
+    type: place
+  - name: Karl Sievers
+    type: person
+  - name: Albert Bohlmann
+    type: person
+parents:
+  - 01GVKN942N85NKH8CV072GG85G
+files:
+  - role: main
+    original_name: scan_307.tif
+    path: files/83/02/830236e1d7261eee0a489671d3e38cfb324c0599761e599b0259a2f090e9d9c3/original.tif
+    sha256: 830236e1d7261eee0a489671d3e38cfb324c0599761e599b0259a2f090e9d9c3
+    mime: image/tiff
+    bytes: 17098741
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/83/02/830236e1d7261eee0a489671d3e38cfb324c0599761e599b0259a2f090e9d9c3/preview-400.8835db1d0e40.jpg
+        sha256: 8835db1d0e4004cb1ce0e03b2020211b9da5336ef1148fd87b6f263ea28975d2
+        mime: image/jpeg
+        bytes: 20612
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01JH2EVGDNFB6RCD8D3QZBPRJ4
+type: document
+subtype: letter
+title: Feldpostbrief von Otto Plate
+date: 1806~
+location: Lanz, Bahnhofstraße
+origin:
+  name: Wilhelm Hennings
+  type: person
+  location: Schnackenburg
+recipient: Otto Nitschke
+language: de
+subjects:
+  - name: Dorfkrug
+    type: building
+  - name: Wittenberge
+    type: place
+  - name: Wootz
+    type: place
+parents:
+  - 01GTF0FAKD2Z78BGPYW8ZV7JE5
+files:
+  - role: page
+    num: 1
+    original_name: letter_zbprj4_001.tif
+    path: files/7b/e4/7be4ed6ed78cd616550eee3aab894a19d092ff27769872de998462913b9c3d19/original.tif
+    sha256: 7be4ed6ed78cd616550eee3aab894a19d092ff27769872de998462913b9c3d19
+    mime: image/tiff
+    bytes: 14707307
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/7b/e4/7be4ed6ed78cd616550eee3aab894a19d092ff27769872de998462913b9c3d19/preview-400.8cb04148836e.jpg
+        sha256: 8cb04148836e095717bdc8fc323b197f2be45bb15f221b5e691227fde291d8a7
+        mime: image/jpeg
+        bytes: 86753
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

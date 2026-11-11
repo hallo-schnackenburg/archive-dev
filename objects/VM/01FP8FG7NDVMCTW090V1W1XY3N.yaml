@@ -1,0 +1,38 @@
+id: 01FP8FG7NDVMCTW090V1W1XY3N
+type: image
+subtype: photo
+title: Blick vom Sparkasse auf das Hafen
+description: Abzug im Format 6 x 9 cm.
+location: Kapern, Lange Straße
+geocode:
+  lat: 52.9113
+  lon: 11.5191
+  precision: exact
+  source: osm
+origin:
+  name: Karl Lüders
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Gutshaus
+    type: building
+files:
+  - role: main
+    original_name: DSC3929.jpg
+    path: files/35/19/3519cb48a4a67dddbf54f2d997b786bda07d8bbc9bc3df8bfc380fceeb3c919b/original.jpg
+    sha256: 3519cb48a4a67dddbf54f2d997b786bda07d8bbc9bc3df8bfc380fceeb3c919b
+    mime: image/jpeg
+    bytes: 27686556
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/35/19/3519cb48a4a67dddbf54f2d997b786bda07d8bbc9bc3df8bfc380fceeb3c919b/preview-400.e2021e256350.jpg
+        sha256: e2021e2563507524c38351d15fdbb9b71f3498976479630454a6acef42bd2ac9
+        mime: image/jpeg
+        bytes: 89739
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

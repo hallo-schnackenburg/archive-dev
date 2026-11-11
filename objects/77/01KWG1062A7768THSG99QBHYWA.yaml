@@ -1,0 +1,41 @@
+id: 01KWG1062A7768THSG99QBHYWA
+type: image
+subtype: plan
+title: Deichplan Lanz bis Lanz
+description: Mit handschriftlichen Ergänzungen.
+date: "1810"
+location: Salzwedel, Hinter den Höfen
+geocode:
+  lat: 52.9864
+  lon: 11.4727
+  precision: street
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 27/361
+subjects:
+  - name: Gutshaus
+    type: building
+files:
+  - role: main
+    original_name: scan_032.tif
+    path: files/23/d2/23d2e9b5222d450753d601e7c03d0290c6eb57af02e0a539f20f9718d66999a9/original.tif
+    sha256: 23d2e9b5222d450753d601e7c03d0290c6eb57af02e0a539f20f9718d66999a9
+    mime: image/tiff
+    bytes: 10060584
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/23/d2/23d2e9b5222d450753d601e7c03d0290c6eb57af02e0a539f20f9718d66999a9/preview-400.c5175206deee.jpg
+        sha256: c5175206deee724b2bb161e632ae265b23608bee91d69d3ed7792a7ea7ca0968
+        mime: image/jpeg
+        bytes: 89748
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

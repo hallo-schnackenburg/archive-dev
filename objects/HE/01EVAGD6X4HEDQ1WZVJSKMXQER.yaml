@@ -1,0 +1,33 @@
+id: 01EVAGD6X4HEDQ1WZVJSKMXQER
+type: image
+subtype: plan
+title: Bauplan Scheune 1946
+description: Maßstab 1:500.
+date: 1946-11
+subjects:
+  - name: Eisgang 1946
+    type: event
+  - name: Karl Plate
+    type: person
+parents:
+  - 01JAT6399B3E9Z9P00A12BJSFT
+files:
+  - role: main
+    original_name: scan_644.tif
+    path: files/d4/39/d439d5e4d3cf318e08775d0efae957c880bdfcf5d8002849d591c6106a665688/original.tif
+    sha256: d439d5e4d3cf318e08775d0efae957c880bdfcf5d8002849d591c6106a665688
+    mime: image/tiff
+    bytes: 9650842
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d4/39/d439d5e4d3cf318e08775d0efae957c880bdfcf5d8002849d591c6106a665688/preview-400.e49aaac98ae1.jpg
+        sha256: e49aaac98ae127f5933e9f925717099adb393963109f9acada44999176e4dd52
+        mime: image/jpeg
+        bytes: 30939
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

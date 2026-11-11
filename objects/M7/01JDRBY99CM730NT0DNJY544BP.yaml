@@ -1,0 +1,35 @@
+id: 01JDRBY99CM730NT0DNJY544BP
+type: image
+subtype: print
+title: Ansichtskarte Lange Straße, Restorf
+date: 1903-10-11
+location: Brünkendorf, Deichstraße
+origin:
+  name: Hans Matthies
+  type: person
+  location: Lüchow
+subjects:
+  - name: Torhaus
+    type: building
+parents:
+  - 01K7Q0067TYFAM11NH26A8ANPJ
+files:
+  - role: main
+    original_name: scan_477.tif
+    path: files/91/bb/91bb60a76758c68f340088d900b84071af0b96e0473a8dfeb6da40cf523623e1/original.tif
+    sha256: 91bb60a76758c68f340088d900b84071af0b96e0473a8dfeb6da40cf523623e1
+    mime: image/tiff
+    bytes: 19468363
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/91/bb/91bb60a76758c68f340088d900b84071af0b96e0473a8dfeb6da40cf523623e1/preview-400.3a7d3279647a.jpg
+        sha256: 3a7d3279647aef5f910ad6a8de6ae55f13429fac338773718143cc13fad2637b
+        mime: image/jpeg
+        bytes: 41241
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

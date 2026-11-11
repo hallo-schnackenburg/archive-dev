@@ -1,0 +1,86 @@
+id: 01G5XSPMHAGDHAW49YWWZJ29FV
+type: document
+subtype: letter
+title: Beschwerde über Deichbau, Wootz
+description: Handschriftlich, 2 Seiten.
+date: 1874-01-21
+location: Holtorf, Brunnen am Markt
+geocode:
+  lat: 53.0494
+  lon: 11.4805
+  precision: street
+  source: osm
+origin:
+  name: Heinrich Schulz
+  type: person
+  location: Lüchow
+recipient: Gerda Ahrens
+language: de
+original:
+  holder:
+    name: Familie Klatt
+    type: person
+    location: Gollensdorf
+parents:
+  - 01HASDKXR0Y5AFEJ03TVA5J3T7
+files:
+  - role: page
+    num: 1
+    original_name: letter_zj29fv_001.tif
+    path: files/d7/30/d730a939f8a80d3ef5df2b28b171b85ed94a13a1c318af480765bf011b59ce31/original.tif
+    sha256: d730a939f8a80d3ef5df2b28b171b85ed94a13a1c318af480765bf011b59ce31
+    mime: image/tiff
+    bytes: 24750980
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d7/30/d730a939f8a80d3ef5df2b28b171b85ed94a13a1c318af480765bf011b59ce31/preview-400.d410d252059b.jpg
+        sha256: d410d252059b68bc36619980072fe348381d2706f928096e2a7104a8a2ab92db
+        mime: image/jpeg
+        bytes: 80739
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_zj29fv_002.tif
+    path: files/ac/a3/aca3f83221b4b060503beffb8a2e1bb67fa9eb895b86f94705519da0f01f811d/original.tif
+    sha256: aca3f83221b4b060503beffb8a2e1bb67fa9eb895b86f94705519da0f01f811d
+    mime: image/tiff
+    bytes: 7864991
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/a3/aca3f83221b4b060503beffb8a2e1bb67fa9eb895b86f94705519da0f01f811d/preview-400.6ac7c951bc2a.jpg
+        sha256: 6ac7c951bc2acd29828da518c889dc143aafc992e4c8ccc3b1a7cadbbe88351b
+        mime: image/jpeg
+        bytes: 41334
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 3
+    original_name: letter_zj29fv_003.tif
+    path: files/b1/46/b146a9faac284a0cc091932c404c31dc6c729dabf02806bb2a22d1fd1f29df64/original.tif
+    sha256: b146a9faac284a0cc091932c404c31dc6c729dabf02806bb2a22d1fd1f29df64
+    mime: image/tiff
+    bytes: 4896603
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b1/46/b146a9faac284a0cc091932c404c31dc6c729dabf02806bb2a22d1fd1f29df64/preview-400.92458aa78145.jpg
+        sha256: 92458aa78145ddf02012c86939cdf2690cdec33cb6b39f7a6ab1df3dfc0d4f47
+        mime: image/jpeg
+        bytes: 49230
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

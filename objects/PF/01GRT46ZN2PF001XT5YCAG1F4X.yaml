@@ -1,0 +1,35 @@
+id: 01GRT46ZN2PF001XT5YCAG1F4X
+type: image
+subtype: photo
+title: Irmgard Wiese, Porträt
+description: Aufnahme von Fritz Gaede.
+date: 1983-04
+origin:
+  name: Fritz Wegner
+  type: person
+  location: Gollensdorf
+subjects:
+  - name: Schnackenburg
+    type: place
+  - name: Kindergarten
+    type: building
+files:
+  - role: main
+    original_name: scan_195.tif
+    path: files/9a/9b/9a9b26f04620b3042424224b961dd4750fc6e56e09a6342ad631b30437671231/original.tif
+    sha256: 9a9b26f04620b3042424224b961dd4750fc6e56e09a6342ad631b30437671231
+    mime: image/tiff
+    bytes: 8698842
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/9a/9b/9a9b26f04620b3042424224b961dd4750fc6e56e09a6342ad631b30437671231/preview-400.aa046e6320ce.jpg
+        sha256: aa046e6320ce5dafccad6dfc7fdbce1d8f19003267721b9ba1d0d71345e05115
+        mime: image/jpeg
+        bytes: 46798
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

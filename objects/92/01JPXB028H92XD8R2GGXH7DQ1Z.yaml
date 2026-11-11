@@ -1,0 +1,38 @@
+id: 01JPXB028H92XD8R2GGXH7DQ1Z
+type: image
+subtype: photo
+title: Elbdeich in Bömenzien
+description: Zu sehen sind Mühle und Badestelle.
+date: 2004-11-19
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Slg/Mappe 12/016
+  uri: https://arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v87112
+subjects:
+  - name: Lüchow
+    type: place
+parents:
+  - 01KXD1F75H1JZH7SDYYBNHXZ0A
+files:
+  - role: main
+    original_name: IMG_5917.jpg
+    path: files/e0/bc/e0bc52dfb5e1dbb6487767f6aeced6c46d3007c41cffd9566af608ca600fd9af/original.jpg
+    sha256: e0bc52dfb5e1dbb6487767f6aeced6c46d3007c41cffd9566af608ca600fd9af
+    mime: image/jpeg
+    bytes: 4979501
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/e0/bc/e0bc52dfb5e1dbb6487767f6aeced6c46d3007c41cffd9566af608ca600fd9af/preview-400.4414b5586eb0.jpg
+        sha256: 4414b5586eb04e1b7e1d2af5204aafb45f27c3c5416dddea8081f8dc73efbac6
+        mime: image/jpeg
+        bytes: 81387
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

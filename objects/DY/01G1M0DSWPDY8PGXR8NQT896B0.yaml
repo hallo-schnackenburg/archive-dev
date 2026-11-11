@@ -1,0 +1,31 @@
+id: 01G1M0DSWPDY8PGXR8NQT896B0
+type: image
+subtype: plan
+title: Bauplan Fähranleger 1802
+description: Maßstab 1:100.
+date: 1802~
+location: Holtorf, Schulstraße
+origin:
+  name: Gisela Voss
+  type: person
+  location: Seedorf
+files:
+  - role: main
+    original_name: scan_948.tif
+    path: files/ce/87/ce87059b23c8298d8fb6c746e4437923bd2cbada21081d7df8c0567b4b368c54/original.tif
+    sha256: ce87059b23c8298d8fb6c746e4437923bd2cbada21081d7df8c0567b4b368c54
+    mime: image/tiff
+    bytes: 15919689
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ce/87/ce87059b23c8298d8fb6c746e4437923bd2cbada21081d7df8c0567b4b368c54/preview-400.dc3e39d8d87e.jpg
+        sha256: dc3e39d8d87e34b61b9e355d50b70da8e5740430ee635c6290550aeba6b9520f
+        mime: image/jpeg
+        bytes: 46140
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

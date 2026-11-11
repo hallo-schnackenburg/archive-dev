@@ -1,0 +1,47 @@
+id: 01KN01B81M3EREQZ3E6YDSY71F
+type: image
+subtype: drawing
+title: Windmühle, Aquarell, Wustrow
+date: 1983-02
+location: Nienwalde, Bahnhofstraße
+geocode:
+  lat: 53.0226
+  lon: 11.4721
+  precision: region
+  source: osm
+origin:
+  name: Rudolf Hennings
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Pro/Kasten 15/086
+  note: Schrank B
+subjects:
+  - name: Hans Lüders
+    type: person
+  - name: Lüchow
+    type: place
+files:
+  - role: main
+    original_name: scan_714.tif
+    path: files/e8/de/e8de015534f0b7541624f357b3f39be72aa4973334fce1bf1d13556b13f8bf93/original.tif
+    sha256: e8de015534f0b7541624f357b3f39be72aa4973334fce1bf1d13556b13f8bf93
+    mime: image/tiff
+    bytes: 19962805
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/e8/de/e8de015534f0b7541624f357b3f39be72aa4973334fce1bf1d13556b13f8bf93/preview-400.4f3a44eb02d7.jpg
+        sha256: 4f3a44eb02d735581a52bd103470856a53476e6b25c1f4e8ea6e451d65e78e80
+        mime: image/jpeg
+        bytes: 82472
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

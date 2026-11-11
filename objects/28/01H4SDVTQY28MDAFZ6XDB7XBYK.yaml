@@ -1,0 +1,41 @@
+id: 01H4SDVTQY28MDAFZ6XDB7XBYK
+type: image
+subtype: print
+title: Ansichtskarte Elbstraße, Arendsee
+description: Postkarte, gelaufen 1913.
+date: 1717-07-08
+location: Pretzier, Am Elbdeich
+geocode:
+  lat: 53.0022
+  lon: 11.482
+  precision: exact
+  source: osm
+origin:
+  name: Gerda Lemke
+  type: person
+  location: Arendsee
+original:
+  holder:
+    name: Familie Gerdes
+    type: person
+    location: Gollensdorf
+files:
+  - role: main
+    original_name: scan_606.tif
+    path: files/f1/be/f1be7233f068636d4f4df7959120f8e200c388bd036d4a12867a92b666b03966/original.tif
+    sha256: f1be7233f068636d4f4df7959120f8e200c388bd036d4a12867a92b666b03966
+    mime: image/tiff
+    bytes: 27491625
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/f1/be/f1be7233f068636d4f4df7959120f8e200c388bd036d4a12867a92b666b03966/preview-400.c4bcc291b225.jpg
+        sha256: c4bcc291b225f1594f334832a6d560d6a2e5ae1094aab93467269266fa8625c1
+        mime: image/jpeg
+        bytes: 45403
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01HVP5DCTP8RPMY0T5TWRN7DGX
+type: image
+subtype: photo
+title: Sportplatz nach dem Schlachtfest
+description: Aufnahme von Karl Ihde.
+origin:
+  name: Hans Wöhlk
+  type: person
+  location: Wustrow
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br 10/020
+subjects:
+  - name: Restorf
+    type: place
+  - name: Havelberg
+    type: place
+parents:
+  - 01EZVF5X45RBX6V4W1ADQSS6DP
+files:
+  - role: main
+    original_name: DSC4187.jpg
+    path: files/3a/80/3a801ad12c78853e06cab54f988c09cdfe423a56701a3c8de5296657f2f376fa/original.jpg
+    sha256: 3a801ad12c78853e06cab54f988c09cdfe423a56701a3c8de5296657f2f376fa
+    mime: image/jpeg
+    bytes: 20067862
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/3a/80/3a801ad12c78853e06cab54f988c09cdfe423a56701a3c8de5296657f2f376fa/preview-400.137cd91da5c5.jpg
+        sha256: 137cd91da5c53905c404435299564447761e3ffe8e407722c01e759abab165ba
+        mime: image/jpeg
+        bytes: 83503
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

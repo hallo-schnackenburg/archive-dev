@@ -1,0 +1,36 @@
+id: 01H2YB61TSZH75P8XT0XYXJ6VA
+type: image
+subtype: print
+title: Postkarte Kapern, Schützenhaus
+date: 178X
+location: Kapern, Torhaus
+geocode:
+  lat: 52.9105
+  lon: 11.6214
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Familie Schulz
+    type: person
+    location: Zadrau
+files:
+  - role: main
+    original_name: scan_088.tif
+    path: files/d5/c8/d5c83d1dd162a711c6749e1e43c0055370799932e97c662f7e14f6c50b35c1f2/original.tif
+    sha256: d5c83d1dd162a711c6749e1e43c0055370799932e97c662f7e14f6c50b35c1f2
+    mime: image/tiff
+    bytes: 5485921
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d5/c8/d5c83d1dd162a711c6749e1e43c0055370799932e97c662f7e14f6c50b35c1f2/preview-400.22b5136adab2.jpg
+        sha256: 22b5136adab2bd86c8a599465dbe99fbc0cee87694043e896dce184ec0c3710b
+        mime: image/jpeg
+        bytes: 36254
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

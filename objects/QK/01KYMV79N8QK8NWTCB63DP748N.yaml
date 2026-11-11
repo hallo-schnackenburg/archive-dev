@@ -1,0 +1,47 @@
+id: 01KYMV79N8QK8NWTCB63DP748N
+type: image
+subtype: print
+title: Postkarte Holtorf, Sparkasse
+description: Kupferstich, koloriert.
+date: 1918-06-11
+location: Restorf, Hafenstraße
+geocode:
+  lat: 53.0422
+  lon: 11.6373
+  precision: exact
+  source: osm
+origin:
+  name: Ilse Garms
+  type: person
+  location: Wittenberge
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok 26/340
+subjects:
+  - name: Kapern
+    type: place
+parents:
+  - 01F1BRES3HCVYVM1NJ072546P5
+files:
+  - role: main
+    original_name: scan_156.tif
+    path: files/f9/03/f90348a78051b50b561d3c779f9f9ee27427adfea879c6f06c9fa349642112b4/original.tif
+    sha256: f90348a78051b50b561d3c779f9f9ee27427adfea879c6f06c9fa349642112b4
+    mime: image/tiff
+    bytes: 24942879
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/f9/03/f90348a78051b50b561d3c779f9f9ee27427adfea879c6f06c9fa349642112b4/preview-400.3155733bf533.jpg
+        sha256: 3155733bf5335c97c3985b5c0eb29f096cfbcab8e394182aaaa3a81d091bb6a1
+        mime: image/jpeg
+        bytes: 39499
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

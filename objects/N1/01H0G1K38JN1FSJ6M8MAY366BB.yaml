@@ -1,0 +1,43 @@
+id: 01H0G1K38JN1FSJ6M8MAY366BB
+type: image
+subtype: photo
+title: Gerda Rieke vor dem Molkerei
+description: Abzug im Format 6 x 9 cm.
+date: 1904/1905
+location: Nienwalde, Gasthof Meyer
+geocode:
+  lat: 52.9425
+  lon: 11.5425
+  precision: exact
+  source: osm
+origin:
+  name: Ilse Pape
+  type: person
+  location: Laase
+subjects:
+  - name: Windmühle
+    type: building
+  - name: Fährjubiläum 1904
+    type: event
+  - name: Hans Meyer
+    type: person
+files:
+  - role: main
+    original_name: scan_152.tif
+    path: files/c1/dc/c1dc11bb067295b73ccb093667a1b03ef6b8adca1024e77419c996cee622e9a6/original.tif
+    sha256: c1dc11bb067295b73ccb093667a1b03ef6b8adca1024e77419c996cee622e9a6
+    mime: image/tiff
+    bytes: 27571440
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c1/dc/c1dc11bb067295b73ccb093667a1b03ef6b8adca1024e77419c996cee622e9a6/preview-400.2fc9ad75f300.jpg
+        sha256: 2fc9ad75f300760d8bf3357df7db2fdbc6ea6321d87e375e2b9b015f8d3d4266
+        mime: image/jpeg
+        bytes: 58808
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

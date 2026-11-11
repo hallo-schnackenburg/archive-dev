@@ -1,0 +1,39 @@
+id: 01G7F4634CDW3HHATMNBG2DY8X
+type: image
+subtype: plan
+title: Bauplan Wassermühle 1892
+date: 1892-07-14
+location: Bömenzien, Friedhofskapelle
+origin:
+  name: Hermann Harms
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Dok/Mappe 16/102
+subjects:
+  - name: Bahnhof
+    type: building
+files:
+  - role: main
+    original_name: scan_596.tif
+    path: files/30/60/3060300e4980d7e12776ddb9ea67136b607b708a6eb691464d8b29542e0dbb66/original.tif
+    sha256: 3060300e4980d7e12776ddb9ea67136b607b708a6eb691464d8b29542e0dbb66
+    mime: image/tiff
+    bytes: 6084882
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/30/60/3060300e4980d7e12776ddb9ea67136b607b708a6eb691464d8b29542e0dbb66/preview-400.aeef8cdcb3a2.jpg
+        sha256: aeef8cdcb3a25324eec1edb1222c89191dac12c55099c18214ec0188f55ea409
+        mime: image/jpeg
+        bytes: 52864
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

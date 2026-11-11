@@ -1,0 +1,39 @@
+id: 01JGWXQE62AF9JHAJSGW5F80X5
+type: image
+subtype: print
+title: Postkarte Gülden, Kegelbahn
+description: Postkarte, gelaufen 1918.
+date: "1943"
+origin:
+  name: Heinrich Ludolf
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Familie Lüders
+    type: person
+    location: Schnackenburg
+  reference: Plan/Kasten 26/038
+  note: Regal 4, Kiste 2
+parents:
+  - 01HW1XG7P06SRWXZK7CKV1D89H
+files:
+  - role: main
+    original_name: scan_067.tif
+    path: files/ee/f2/eef20d7118413cd4da79e09a8121c3d1e15f229500131c9e8d6f0649a685ebc6/original.tif
+    sha256: eef20d7118413cd4da79e09a8121c3d1e15f229500131c9e8d6f0649a685ebc6
+    mime: image/tiff
+    bytes: 3219806
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ee/f2/eef20d7118413cd4da79e09a8121c3d1e15f229500131c9e8d6f0649a685ebc6/preview-400.5bd84e06fb44.jpg
+        sha256: 5bd84e06fb447ce5ae015f89e5c85679a710a917d6369b440bad18f6a357671a
+        mime: image/jpeg
+        bytes: 73242
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

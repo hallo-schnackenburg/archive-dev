@@ -1,0 +1,46 @@
+id: 01JQ41EAZN8KX0XNM9JR89SK7Y
+type: image
+subtype: drawing
+title: Wappenentwurf Zadrau, Arendsee
+description: Bleistift auf Papier.
+date: 1891-06-07
+location: Pretzier, Marktstraße
+origin:
+  name: Marta Krüger
+  type: person
+  location: Bömenzien
+original:
+  holder:
+    name: Familie Brandt
+    type: person
+    location: Zadrau
+  reference: Dok 9/022
+subjects:
+  - name: Straßenfest 1891
+    type: event
+  - name: Storchennest
+    type: building
+  - name: Rathaus
+    type: building
+parents:
+  - 01F1BRES3HCVYVM1NJ072546P5
+files:
+  - role: main
+    original_name: scan_539.tif
+    path: files/a1/fb/a1fb2844aa002cbaddc5822e37a7c34a6c8738260900f80c5cc0f51910bde593/original.tif
+    sha256: a1fb2844aa002cbaddc5822e37a7c34a6c8738260900f80c5cc0f51910bde593
+    mime: image/tiff
+    bytes: 3623048
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a1/fb/a1fb2844aa002cbaddc5822e37a7c34a6c8738260900f80c5cc0f51910bde593/preview-400.b83601e17c00.jpg
+        sha256: b83601e17c009ee93d6186700fea21f50cce4586ceda8f0512590e6d4646f830
+        mime: image/jpeg
+        bytes: 24190
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

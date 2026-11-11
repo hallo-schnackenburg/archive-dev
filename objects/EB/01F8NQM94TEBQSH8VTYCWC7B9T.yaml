@@ -1,0 +1,37 @@
+id: 01F8NQM94TEBQSH8VTYCWC7B9T
+type: image
+subtype: plan
+title: Bauplan Grenzturm 1878
+date: 1878/1890
+location: Rüterberg, Hafenstraße
+geocode:
+  lat: 52.9844
+  lon: 11.66
+  precision: region
+  source: osm
+origin:
+  name: Walter Gerdes
+  type: person
+  location: Lanz
+parents:
+  - 01KSQSSGDYWJ8WM96BXT4QY5Z0
+files:
+  - role: main
+    original_name: scan_246.tif
+    path: files/c2/2d/c22de09ff902a523e3161ad81eb861fad4ce30a48dec8a2fa6e925f69314fe6f/original.tif
+    sha256: c22de09ff902a523e3161ad81eb861fad4ce30a48dec8a2fa6e925f69314fe6f
+    mime: image/tiff
+    bytes: 21054063
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c2/2d/c22de09ff902a523e3161ad81eb861fad4ce30a48dec8a2fa6e925f69314fe6f/preview-400.981deae17b4c.jpg
+        sha256: 981deae17b4cf84b2118438ad151f0d64009f47c3c0994310cd639b38226ae54
+        mime: image/jpeg
+        bytes: 77779
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

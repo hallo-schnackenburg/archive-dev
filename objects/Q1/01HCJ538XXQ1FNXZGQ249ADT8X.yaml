@@ -1,0 +1,37 @@
+id: 01HCJ538XXQ1FNXZGQ249ADT8X
+type: image
+subtype: plan
+title: Deichplan Holtorf bis Lüchow
+description: Mit handschriftlichen Ergänzungen.
+date: 1775-11-01
+location: Laase, Hafenstraße
+origin:
+  name: Walter Meyer
+  type: person
+  location: Restorf
+subjects:
+  - name: Gerda Lemke
+    type: person
+parents:
+  - 01KX2QEWS5CRBXEA92Z62Z3K4Q
+  - 01K8HWTS9YNZVY4EVEMNNZSHBJ
+files:
+  - role: main
+    original_name: scan_173.tif
+    path: files/e3/7e/e37ed78e7dcadef5bdde8c63f8c0a8c47098c6f4c74d48425f9e69297dd53e04/original.tif
+    sha256: e37ed78e7dcadef5bdde8c63f8c0a8c47098c6f4c74d48425f9e69297dd53e04
+    mime: image/tiff
+    bytes: 14039395
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/e3/7e/e37ed78e7dcadef5bdde8c63f8c0a8c47098c6f4c74d48425f9e69297dd53e04/preview-400.42f45a72efd8.jpg
+        sha256: 42f45a72efd804dd0e5fe87e11d1c7d83e5232ff6697b56a08c0f9c19fe191b6
+        mime: image/jpeg
+        bytes: 46854
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

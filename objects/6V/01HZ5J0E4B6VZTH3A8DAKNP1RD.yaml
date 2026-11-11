@@ -1,0 +1,43 @@
+id: 01HZ5J0E4B6VZTH3A8DAKNP1RD
+type: image
+subtype: drawing
+title: "Schülerzeichnung: Fastnacht, Havelberg"
+description: Mit Anmerkungen am Rand.
+date: "1893"
+location: Rüterberg, Bahnhof
+geocode:
+  lat: 52.9746
+  lon: 11.6021
+  precision: town
+  source: osm
+origin:
+  name: Wilhelm Lemke
+  type: person
+  location: Kapern
+subjects:
+  - name: Dömitz
+    type: place
+  - name: Weihnachtsmarkt 1893
+    type: event
+parents:
+  - 01HM10JM58C78RZE1Y6NV78KDE
+files:
+  - role: main
+    original_name: scan_456.tif
+    path: files/91/c6/91c66fc297a880ef28c7a684d2e625870fcd91659d792c668d5de29ad2175c9a/original.tif
+    sha256: 91c66fc297a880ef28c7a684d2e625870fcd91659d792c668d5de29ad2175c9a
+    mime: image/tiff
+    bytes: 14655382
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/91/c6/91c66fc297a880ef28c7a684d2e625870fcd91659d792c668d5de29ad2175c9a/preview-400.bb4c40e9f390.jpg
+        sha256: bb4c40e9f390b2db157c37b28c6de7ed46632209323d4b047c9e46cfb92c74ba
+        mime: image/jpeg
+        bytes: 70874
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,38 @@
+id: 01HGH5EEG0FRKX6Z48XDRWKFZ2
+type: image
+subtype: photo
+title: August Brandt, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1977/1984
+location: Brünkendorf, Schulstraße
+geocode:
+  lat: 53.0179
+  lon: 11.6939
+  precision: town
+  source: osm
+origin:
+  name: Ernst Hennings
+  type: person
+  location: Lenzen
+parents:
+  - 01KX0R6PE6GGZKHT99TAR1XJN4
+files:
+  - role: main
+    original_name: scan_145.tif
+    path: files/06/2b/062be1311ccd150742db55203ad9908bed3337ab5c1dacf03c1910703131a9a3/original.tif
+    sha256: 062be1311ccd150742db55203ad9908bed3337ab5c1dacf03c1910703131a9a3
+    mime: image/tiff
+    bytes: 3957627
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/06/2b/062be1311ccd150742db55203ad9908bed3337ab5c1dacf03c1910703131a9a3/preview-400.6a3397f9083b.jpg
+        sha256: 6a3397f9083bfc0cd61e589685fbb2c246d20f10fa00a091affaae66d6b1dea0
+        mime: image/jpeg
+        bytes: 39213
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

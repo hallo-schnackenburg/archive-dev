@@ -1,0 +1,42 @@
+id: 01FMCSVW0SM53ZJJ763HN4Q37C
+type: image
+subtype: photo
+title: Familie Brandt beim Kindergartenfest
+date: 1965~
+location: Schnackenburg, Mühlenweg
+geocode:
+  lat: 52.9974
+  lon: 11.5779
+  precision: town
+  source: osm
+origin:
+  name: Heinrich Meyer
+  type: person
+  location: Holtorf
+subjects:
+  - name: Wustrow
+    type: place
+  - name: Marta Voss
+    type: person
+  - name: Elbdeich
+    type: building
+files:
+  - role: main
+    original_name: DSC5689.jpg
+    path: files/a3/54/a354539ab840019fcb2143e1f3359bacb7b664069692361bd3de378f17905f73/original.jpg
+    sha256: a354539ab840019fcb2143e1f3359bacb7b664069692361bd3de378f17905f73
+    mime: image/jpeg
+    bytes: 18875380
+    width: 3000
+    height: 2000
+    variants:
+      - kind: preview
+        path: files/a3/54/a354539ab840019fcb2143e1f3359bacb7b664069692361bd3de378f17905f73/preview-400.4597ae62bc4e.jpg
+        sha256: 4597ae62bc4eda87ea795245330babe2d2164a8541609b178f9426059eb03d1c
+        mime: image/jpeg
+        bytes: 40276
+        width: 400
+        height: 267
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,41 @@
+id: 01GSB6RKP3WVMP5ANVY519FP72
+type: image
+subtype: photo
+title: Albert Hennings, Porträt
+date: 193X
+location: Restorf, Deichstraße
+origin:
+  name: Wilhelm Hennings
+  type: person
+  location: Restorf
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Fotos/Album 6/051
+subjects:
+  - name: Karl Ludolf
+    type: person
+  - name: Osterfeuer 1939
+    type: event
+files:
+  - role: main
+    original_name: foto_4777.jpg
+    path: files/cd/78/cd78c3cba1bc469a71adec565d0834c54670858cf18967882cb4a252b9e33e9e/original.jpg
+    sha256: cd78c3cba1bc469a71adec565d0834c54670858cf18967882cb4a252b9e33e9e
+    mime: image/jpeg
+    bytes: 23148965
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/cd/78/cd78c3cba1bc469a71adec565d0834c54670858cf18967882cb4a252b9e33e9e/preview-400.b99086b32259.jpg
+        sha256: b99086b3225965338a79ab4b55abe997edd0c34726204d0b8f8ec0dc194d59b7
+        mime: image/jpeg
+        bytes: 85666
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

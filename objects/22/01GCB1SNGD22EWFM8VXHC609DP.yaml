@@ -1,0 +1,40 @@
+id: 01GCB1SNGD22EWFM8VXHC609DP
+type: image
+subtype: print
+title: Postkarte Gartow, Rathaus
+date: 1774-03-08
+location: Rüterberg, Bahnhofstraße
+geocode:
+  lat: 53.0039
+  lon: 11.6435
+  precision: street
+  source: osm
+origin:
+  name: Hermann Behrens
+  type: person
+  location: Wootz
+subjects:
+  - name: Kindergartenfest 1774
+    type: event
+parents:
+  - 01KHXJPG3828D54ZR9ZE2Z5K94
+files:
+  - role: main
+    original_name: scan_448.tif
+    path: files/a6/25/a6250ebcbe00d905d82202bd14eebb9ffe78e6026a781f475d65810babcd84af/original.tif
+    sha256: a6250ebcbe00d905d82202bd14eebb9ffe78e6026a781f475d65810babcd84af
+    mime: image/tiff
+    bytes: 17016217
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/a6/25/a6250ebcbe00d905d82202bd14eebb9ffe78e6026a781f475d65810babcd84af/preview-400.eca928589e57.jpg
+        sha256: eca928589e5791e43300ca5cdb480cb75f63af4a6fc35f57f1745faea02d9d14
+        mime: image/jpeg
+        bytes: 21891
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

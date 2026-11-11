@@ -1,0 +1,43 @@
+id: 01JCW9Z26MKPF7VN1B7JRJ5WSF
+type: image
+subtype: drawing
+title: Sportplatz, Aquarell, Gartow
+description: Federzeichnung, laviert.
+date: 1950-11
+location: Brünkendorf, Hinter den Höfen
+geocode:
+  lat: 52.9094
+  lon: 11.5751
+  precision: exact
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Plan 34/007
+subjects:
+  - name: Wootz
+    type: place
+parents:
+  - 01KXD1F75H1JZH7SDYYBNHXZ0A
+files:
+  - role: main
+    original_name: scan_585.tif
+    path: files/6c/69/6c69bd52c9ae18a27a7b4f3699d60a73a21816496cdb2a7e0ea52619d39a67ac/original.tif
+    sha256: 6c69bd52c9ae18a27a7b4f3699d60a73a21816496cdb2a7e0ea52619d39a67ac
+    mime: image/tiff
+    bytes: 809721
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/6c/69/6c69bd52c9ae18a27a7b4f3699d60a73a21816496cdb2a7e0ea52619d39a67ac/preview-400.cef71470f189.jpg
+        sha256: cef71470f189ef1988fb930ae3b1b0a12f4b2d27749b705f26dd4e56619a3289
+        mime: image/jpeg
+        bytes: 89834
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

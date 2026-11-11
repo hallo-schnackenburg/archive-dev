@@ -1,0 +1,38 @@
+id: 01KQD06QSFG88CXVTFJ83N37F7
+type: image
+subtype: photo
+title: Walter Heuer vor dem Gasthof „Zur Elbe“
+description: Farbfoto, leicht verblasst.
+date: 1918-03-19
+location: Holtorf, Bahnhof
+geocode:
+  lat: 53.0685
+  lon: 11.6543
+  precision: exact
+  source: osm
+subjects:
+  - name: Rathaus
+    type: building
+parents:
+  - 01GEV5Y4J3FGXYTVXBWZX1MJPG
+  - 01FC8S7RPDV4DQB5BVMRBYF4FC
+files:
+  - role: main
+    original_name: IMG_3953.jpg
+    path: files/de/97/de970f8d7b7e982ff4e3fa9daee8adac5239b43cd46bdbbdcf5fd233c4e94016/original.jpg
+    sha256: de970f8d7b7e982ff4e3fa9daee8adac5239b43cd46bdbbdcf5fd233c4e94016
+    mime: image/jpeg
+    bytes: 15051201
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/de/97/de970f8d7b7e982ff4e3fa9daee8adac5239b43cd46bdbbdcf5fd233c4e94016/preview-400.8ef09c71aaa4.jpg
+        sha256: 8ef09c71aaa4d783e820d2cad65bcd3a06cd86e618ffcca8248d3b30a9b4063c
+        mime: image/jpeg
+        bytes: 83930
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

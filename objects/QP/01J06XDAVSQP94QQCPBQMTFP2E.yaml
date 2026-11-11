@@ -1,0 +1,53 @@
+id: 01J06XDAVSQP94QQCPBQMTFP2E
+type: document
+subtype: protocol
+title: Verhandlungsniederschrift Brandversicherung 1865
+description: Handschriftlich in Sütterlin.
+date: "1865"
+location: Salzwedel, Schulstraße
+origin:
+  name: Gemeinderat Gollensdorf
+  type: business
+  location: Seedorf
+language: de
+files:
+  - role: page
+    num: 1
+    original_name: protocol_mtfp2e_001.tif
+    path: files/24/a4/24a4673d274a6d5d95d3cb5d0404aea17158827ed055d1f25e5201ec360e8db2/original.tif
+    sha256: 24a4673d274a6d5d95d3cb5d0404aea17158827ed055d1f25e5201ec360e8db2
+    mime: image/tiff
+    bytes: 6286408
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/24/a4/24a4673d274a6d5d95d3cb5d0404aea17158827ed055d1f25e5201ec360e8db2/preview-400.d2b5c1290229.jpg
+        sha256: d2b5c129022946c060418d067f9f932e825f6f49df465fa581092a0639bd3c68
+        mime: image/jpeg
+        bytes: 48598
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_mtfp2e_002.tif
+    path: files/bf/16/bf163e58c3e7db1f355c4de942b5d64d64c486352abff93635a5b85bc16d21c5/original.tif
+    sha256: bf163e58c3e7db1f355c4de942b5d64d64c486352abff93635a5b85bc16d21c5
+    mime: image/tiff
+    bytes: 14820389
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/bf/16/bf163e58c3e7db1f355c4de942b5d64d64c486352abff93635a5b85bc16d21c5/preview-400.0f3258ce679f.jpg
+        sha256: 0f3258ce679f33384308d08c0766762506a6903a72c9ef46d5ba90bf97594896
+        mime: image/jpeg
+        bytes: 33797
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

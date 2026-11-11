@@ -1,0 +1,37 @@
+id: 01KJ11VQMGDXYVZKZNJWS4S2Q7
+type: image
+subtype: plan
+title: Bauplan Dorfkrug 1953
+date: 1953-02-07
+location: Wittenberge, Lange Straße
+origin:
+  name: Günter Meyer
+  type: person
+  location: Arendsee
+subjects:
+  - name: Fastnacht 1953
+    type: event
+  - name: August Lüders
+    type: person
+parents:
+  - 01GVM1WCR2HNMHN4DWDZ4NZG4Z
+files:
+  - role: main
+    original_name: scan_058.tif
+    path: files/c7/62/c7625ebd1b9ce71a2f647561d00b4b1577b40b383f6f694722736bfd074ccab9/original.tif
+    sha256: c7625ebd1b9ce71a2f647561d00b4b1577b40b383f6f694722736bfd074ccab9
+    mime: image/tiff
+    bytes: 5399502
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c7/62/c7625ebd1b9ce71a2f647561d00b4b1577b40b383f6f694722736bfd074ccab9/preview-400.ecc8a8ca159f.jpg
+        sha256: ecc8a8ca159f6c250623e51d16992e0acfcc515029399aa025d23b631403a168
+        mime: image/jpeg
+        bytes: 33498
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

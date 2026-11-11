@@ -1,0 +1,38 @@
+id: 01GQXMYRRD7S44GB74XY1QPTTB
+type: image
+subtype: drawing
+title: Skizze Dömitz, Lange Straße
+date: 1984-12-14
+location: Gollensdorf, Storchennest
+geocode:
+  lat: 52.9376
+  lon: 11.6423
+  precision: town
+  source: osm
+origin:
+  name: Ilse Krüger
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Grenzöffnung 1984
+    type: event
+files:
+  - role: main
+    original_name: scan_490.tif
+    path: files/d2/49/d249dc87a1b024fa7ceef3483ffaeefbeb658f9f29fc58da5a40d8ab7a608caf/original.tif
+    sha256: d249dc87a1b024fa7ceef3483ffaeefbeb658f9f29fc58da5a40d8ab7a608caf
+    mime: image/tiff
+    bytes: 5749691
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/d2/49/d249dc87a1b024fa7ceef3483ffaeefbeb658f9f29fc58da5a40d8ab7a608caf/preview-400.469882cbcb18.jpg
+        sha256: 469882cbcb18a54ec0d663a12b0fe163810fd75c363fc36ac27f5d6c4e2c9df5
+        mime: image/jpeg
+        bytes: 53575
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

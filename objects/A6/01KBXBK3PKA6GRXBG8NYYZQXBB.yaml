@@ -1,0 +1,35 @@
+id: 01KBXBK3PKA6GRXBG8NYYZQXBB
+type: image
+subtype: plan
+title: Deichplan Kapern bis Restorf
+location: Wootz, Kirchstraße
+origin:
+  name: Günter Meyer
+  type: person
+  location: Hitzacker
+subjects:
+  - name: Osterfeuer 1805
+    type: event
+  - name: Gollensdorf
+    type: place
+files:
+  - role: main
+    original_name: scan_693.tif
+    path: files/c6/dc/c6dcdaff929b28dafda4d1dffe0b95ebdaa8bd893c2dbf05e42259cea8a101eb/original.tif
+    sha256: c6dcdaff929b28dafda4d1dffe0b95ebdaa8bd893c2dbf05e42259cea8a101eb
+    mime: image/tiff
+    bytes: 27222589
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/c6/dc/c6dcdaff929b28dafda4d1dffe0b95ebdaa8bd893c2dbf05e42259cea8a101eb/preview-400.7790af5eb071.jpg
+        sha256: 7790af5eb071edfa466c1a86858d12d792ee2cdb25a06adf730adab5ae397b62
+        mime: image/jpeg
+        bytes: 69531
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

@@ -1,0 +1,35 @@
+id: 01KT04MCK5RTX8CGFVB4HA7WQF
+type: image
+subtype: photo
+title: Walter Detlefs, Porträt
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1942"
+origin:
+  name: Christa Voss
+  type: person
+  location: Rüterberg
+subjects:
+  - name: Wittenberge
+    type: place
+parents:
+  - 01FJMCPRQ0EG050EZ87JB0MN40
+files:
+  - role: main
+    original_name: scan_862.tif
+    path: files/ed/7c/ed7c27788b6a5e31a12d50759870ddf8b23195e7da626cf28490adaeaa00fb8d/original.tif
+    sha256: ed7c27788b6a5e31a12d50759870ddf8b23195e7da626cf28490adaeaa00fb8d
+    mime: image/tiff
+    bytes: 18642049
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ed/7c/ed7c27788b6a5e31a12d50759870ddf8b23195e7da626cf28490adaeaa00fb8d/preview-400.6c59c93a0370.jpg
+        sha256: 6c59c93a037083e6abf5a1c9d6767585c8620f80e749ba4cf541a4f3bd55f0cf
+        mime: image/jpeg
+        bytes: 28476
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

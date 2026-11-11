@@ -1,0 +1,43 @@
+id: 01JWTMYDRYTS6PJP1V96KT2V2H
+type: image
+subtype: photo
+title: Blick vom Ladestraße auf das Schmiede
+description: Aufnahme von Ilse Schulz.
+date: "2005"
+location: Lanz, Mühlenweg
+geocode:
+  lat: 52.954
+  lon: 11.6364
+  precision: street
+  source: osm
+origin:
+  name: Hermann Krüger
+  type: person
+  location: Gorleben
+subjects:
+  - name: Karl Bohlmann
+    type: person
+  - name: Dorffest 2005
+    type: event
+parents:
+  - 01KHXJPG3828D54ZR9ZE2Z5K94
+files:
+  - role: main
+    original_name: scan_768.tif
+    path: files/ad/5f/ad5f0ba0304ecaad2fd294f594c183180d9ef50ec4e8e3584c8f6bfa617419a9/original.tif
+    sha256: ad5f0ba0304ecaad2fd294f594c183180d9ef50ec4e8e3584c8f6bfa617419a9
+    mime: image/tiff
+    bytes: 11842635
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ad/5f/ad5f0ba0304ecaad2fd294f594c183180d9ef50ec4e8e3584c8f6bfa617419a9/preview-400.7b781cc5a93c.jpg
+        sha256: 7b781cc5a93c1b414c7f73fb9cc48a29b106e861ba2f92c37ce9827131bbb93f
+        mime: image/jpeg
+        bytes: 56252
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

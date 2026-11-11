@@ -1,0 +1,30 @@
+id: 01HTWVCQF71PHCH3V1Y7HAW0B5
+type: image
+subtype: plan
+title: Bauplan Gemeindehaus 1824
+description: Maßstab 1:500.
+date: 1824~
+location: Wootz, Fähranleger
+subjects:
+  - name: Arendsee
+    type: place
+files:
+  - role: main
+    original_name: scan_170.tif
+    path: files/b9/6b/b96b35f362b9ee1f59696194d868119c6e3ad82868909be4a3eb549be094cd87/original.tif
+    sha256: b96b35f362b9ee1f59696194d868119c6e3ad82868909be4a3eb549be094cd87
+    mime: image/tiff
+    bytes: 5172011
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/b9/6b/b96b35f362b9ee1f59696194d868119c6e3ad82868909be4a3eb549be094cd87/preview-400.353e0faee67b.jpg
+        sha256: 353e0faee67b25e22314d1454fe0a26c4b2b4e444607b14739beebe8f9726ba5
+        mime: image/jpeg
+        bytes: 21185
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

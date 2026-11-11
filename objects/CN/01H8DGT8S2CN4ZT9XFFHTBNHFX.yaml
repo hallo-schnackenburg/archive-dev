@@ -1,0 +1,41 @@
+id: 01H8DGT8S2CN4ZT9XFFHTBNHFX
+type: image
+subtype: photo
+title: Richtfest 1934
+description: Abzug im Format 6 x 9 cm.
+date: 1934/1945
+origin:
+  name: Otto Timm
+  type: person
+  location: Pretzier
+owner:
+  name: Heinrich Tiedemann
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Tischlerei Bruns
+    type: building
+  - name: Sportplatz
+    type: building
+parents:
+  - 01KV80DFXW7572XGFSJ9A620CH
+files:
+  - role: main
+    original_name: scan_871.tif
+    path: files/90/a1/90a1b586a1246cac8b37c7f186953f19c64ce0179cdada098e2a32708175ce0c/original.tif
+    sha256: 90a1b586a1246cac8b37c7f186953f19c64ce0179cdada098e2a32708175ce0c
+    mime: image/tiff
+    bytes: 1566952
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/90/a1/90a1b586a1246cac8b37c7f186953f19c64ce0179cdada098e2a32708175ce0c/preview-400.fb230133e888.jpg
+        sha256: fb230133e8882c6def7e09926ea0ae11d5d8eebd1a6b112a77b4428b92740115
+        mime: image/jpeg
+        bytes: 81844
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

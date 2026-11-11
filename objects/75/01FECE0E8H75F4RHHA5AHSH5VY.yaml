@@ -1,0 +1,38 @@
+id: 01FECE0E8H75F4RHHA5AHSH5VY
+type: image
+subtype: plan
+title: Bauplan Gutshaus 1917
+date: 191X
+location: Schnackenburg, Am Markt
+origin:
+  name: Anni Voss
+  type: person
+  location: Lanz
+subjects:
+  - name: Gartow
+    type: place
+  - name: Klaus Bohlmann
+    type: person
+parents:
+  - 01JD1W7G8C9Y7RM5P61EE5M4CB
+  - 01J0TGH296RHC0G6JXY0S53XED
+files:
+  - role: main
+    original_name: scan_479.tif
+    path: files/57/d8/57d889c52e96c9707ca31ba3370f5212bc140195d9702c8b6718ffd97add151e/original.tif
+    sha256: 57d889c52e96c9707ca31ba3370f5212bc140195d9702c8b6718ffd97add151e
+    mime: image/tiff
+    bytes: 16603382
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/57/d8/57d889c52e96c9707ca31ba3370f5212bc140195d9702c8b6718ffd97add151e/preview-400.2d57ab556063.jpg
+        sha256: 2d57ab556063b2b8d7cc94e7d657c700416a6ee5e7a9d6481578d84591893c8e
+        mime: image/jpeg
+        bytes: 40084
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

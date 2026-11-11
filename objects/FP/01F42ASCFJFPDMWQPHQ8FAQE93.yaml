@@ -1,0 +1,44 @@
+id: 01F42ASCFJFPDMWQPHQ8FAQE93
+type: image
+subtype: photo
+title: Eisgang 1892
+description: Farbfoto, leicht verblasst.
+date: 1892-03-11
+origin:
+  name: Ernst Brandt
+  type: person
+  location: Lenzen
+original:
+  holder:
+    name: Heimatverein Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Arendsee
+    type: place
+  - name: Tischlerei Bruns
+    type: building
+  - name: Straßenfest 1892
+    type: event
+parents:
+  - 01HD1KFMRR65WK8D19R9SH3ANJ
+files:
+  - role: main
+    original_name: IMG_1042.jpg
+    path: files/e7/99/e7999018380a913c0e1801bc1bcc082115396115b93d403a640312eb6de6a8c0/original.jpg
+    sha256: e7999018380a913c0e1801bc1bcc082115396115b93d403a640312eb6de6a8c0
+    mime: image/jpeg
+    bytes: 18522138
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/e7/99/e7999018380a913c0e1801bc1bcc082115396115b93d403a640312eb6de6a8c0/preview-400.144a511c1281.jpg
+        sha256: 144a511c1281f8fab563b5922d44474387fd50b02d7a6a98f965ca2582001552
+        mime: image/jpeg
+        bytes: 56863
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

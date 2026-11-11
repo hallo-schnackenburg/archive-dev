@@ -1,0 +1,31 @@
+id: 01KZQWYNZFC9X47EWHENEMBVS9
+type: image
+subtype: print
+title: Postkarte Gartow, Feuerwehrhaus
+description: Kupferstich, koloriert.
+date: 1946/1955
+location: Kapern, Gasthof Meyer
+origin:
+  name: Marta Ahrens
+  type: person
+  location: Wootz
+files:
+  - role: main
+    original_name: scan_010.tif
+    path: files/24/0d/240dd4e5d49397b6e37285f86ef7ced341459452b5df8445270a234c095a1800/original.tif
+    sha256: 240dd4e5d49397b6e37285f86ef7ced341459452b5df8445270a234c095a1800
+    mime: image/tiff
+    bytes: 12704078
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/24/0d/240dd4e5d49397b6e37285f86ef7ced341459452b5df8445270a234c095a1800/preview-400.0a6816f23f08.jpg
+        sha256: 0a6816f23f081420e93d9fae33db553e8696494dc843be7bc19475a4a8ca68c0
+        mime: image/jpeg
+        bytes: 63836
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

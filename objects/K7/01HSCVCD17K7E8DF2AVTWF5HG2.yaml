@@ -1,0 +1,60 @@
+id: 01HSCVCD17K7E8DF2AVTWF5HG2
+type: document
+subtype: letter
+title: Brief von Otto Lemke an Ernst Schwarz
+date: "1791"
+location: Gollensdorf, Gartenstraße
+recipient: Horst Krüger
+language: de
+owner:
+  name: Walter Wiegmann
+  type: person
+  note: Dauerleihgabe
+subjects:
+  - name: Tanzsaal
+    type: building
+  - name: Kapern
+    type: place
+parents:
+  - 01F5GRETGD87YBWEF5TGR1E25C
+files:
+  - role: page
+    num: 1
+    original_name: letter_wf5hg2_001.tif
+    path: files/d6/e9/d6e930e7bd415dc6a35a2037340e531f44ae82ca7bd81bcfb4de071565d7b03d/original.tif
+    sha256: d6e930e7bd415dc6a35a2037340e531f44ae82ca7bd81bcfb4de071565d7b03d
+    mime: image/tiff
+    bytes: 1276475
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/d6/e9/d6e930e7bd415dc6a35a2037340e531f44ae82ca7bd81bcfb4de071565d7b03d/preview-400.1498f655639a.jpg
+        sha256: 1498f655639a889ad229fa92a24e6f9e33d27662392ee560cc34e6ba7c94f64f
+        mime: image/jpeg
+        bytes: 74077
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_wf5hg2_002.tif
+    path: files/b7/ab/b7ab4ce8a32718442ee1b24615b71af95eb038c1187dfb037c4ab493dd4741f6/original.tif
+    sha256: b7ab4ce8a32718442ee1b24615b71af95eb038c1187dfb037c4ab493dd4741f6
+    mime: image/tiff
+    bytes: 16251522
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/b7/ab/b7ab4ce8a32718442ee1b24615b71af95eb038c1187dfb037c4ab493dd4741f6/preview-400.f7a773de6adc.jpg
+        sha256: f7a773de6adc4fb481cd88cf94c9a098d28623939a5c25827c8f1cdcb9300a7d
+        mime: image/jpeg
+        bytes: 64225
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

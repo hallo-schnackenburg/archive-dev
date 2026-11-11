@@ -1,0 +1,57 @@
+id: 01HATSEMWEJRCRSHPAD0Y297NX
+type: document
+subtype: protocol
+title: Sitzungsprotokoll Spielmannszug 1966
+description: "Beschlossen wurde unter anderem: Straßenbeleuchtung."
+date: "1966"
+origin:
+  name: Feuerwehrausschuss Wittenberge
+  type: business
+  location: Lüchow
+language: de
+subjects:
+  - name: Irmgard Meyer
+    type: person
+parents:
+  - 01JS809ECB0H6P74TPETN12T1S
+files:
+  - role: page
+    num: 1
+    original_name: protocol_y297nx_001.tif
+    path: files/3d/7a/3d7a967c4b4c33f743223f6d86d494a2b5ab66085c45a9a11f0f58630cc7aa5b/original.tif
+    sha256: 3d7a967c4b4c33f743223f6d86d494a2b5ab66085c45a9a11f0f58630cc7aa5b
+    mime: image/tiff
+    bytes: 24336226
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/3d/7a/3d7a967c4b4c33f743223f6d86d494a2b5ab66085c45a9a11f0f58630cc7aa5b/preview-400.2c5656fcf0b1.jpg
+        sha256: 2c5656fcf0b109844a7311d6d898b64e6c120968647b141ffe071b2dc981dd68
+        mime: image/jpeg
+        bytes: 74219
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_y297nx_002.tif
+    path: files/50/65/5065ca697a8008c6f9a106f51811a05544b8a3fb94f77950d0f5129f8887adaf/original.tif
+    sha256: 5065ca697a8008c6f9a106f51811a05544b8a3fb94f77950d0f5129f8887adaf
+    mime: image/tiff
+    bytes: 15758779
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/50/65/5065ca697a8008c6f9a106f51811a05544b8a3fb94f77950d0f5129f8887adaf/preview-400.23a3c3e1d2c4.jpg
+        sha256: 23a3c3e1d2c475882cda7f60d66c5fdb7a9ef7f7056cfa2c4fc38abac88c2595
+        mime: image/jpeg
+        bytes: 26433
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

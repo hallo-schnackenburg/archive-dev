@@ -1,0 +1,44 @@
+id: 01JEGKB8RM0SG9CE4T5XF8JJJ0
+type: image
+subtype: drawing
+title: Entwurf für Hafen, Rüterberg
+description: Mit Anmerkungen am Rand.
+date: 1963?
+location: Bömenzien, Burgstraße
+geocode:
+  lat: 53.074
+  lon: 11.6342
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+  reference: Br/Mappe 7/093
+subjects:
+  - name: Schnackenburg
+    type: place
+parents:
+  - 01KX0R6PE6GGZKHT99TAR1XJN4
+  - 01JAG0VN6X3TDF0BEKQ3Q9ZYWP
+files:
+  - role: main
+    original_name: scan_884.tif
+    path: files/1c/26/1c26480fd1e0ee70924d0724ac00a21e5457d94ce57a5fd6e4c8ce5d8277762f/original.tif
+    sha256: 1c26480fd1e0ee70924d0724ac00a21e5457d94ce57a5fd6e4c8ce5d8277762f
+    mime: image/tiff
+    bytes: 15688071
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/1c/26/1c26480fd1e0ee70924d0724ac00a21e5457d94ce57a5fd6e4c8ce5d8277762f/preview-400.f57f8bfd0a51.jpg
+        sha256: f57f8bfd0a51fd745e51aa5dc8aa3d10a4a5b98b1162455d6691ba5ab2911871
+        mime: image/jpeg
+        bytes: 33269
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,36 @@
+id: 01KBJ16R7A5RARTZ7AA4T64VFX
+type: image
+subtype: drawing
+title: Skizze Dömitz, Mühlenweg
+description: Mit Anmerkungen am Rand.
+date: 1978/1988
+location: Hitzacker, Tischlerei Bruns
+origin:
+  name: Karl Stoll
+  type: person
+  location: Wustrow
+subjects:
+  - name: Dorffest 1978
+    type: event
+  - name: Salzwedel
+    type: place
+files:
+  - role: main
+    original_name: scan_965.tif
+    path: files/c4/8f/c48fb0eb30b92dfc5c2be6c113713099bc5d930ba669c5da0d7cf50f2deb2bcf/original.tif
+    sha256: c48fb0eb30b92dfc5c2be6c113713099bc5d930ba669c5da0d7cf50f2deb2bcf
+    mime: image/tiff
+    bytes: 5240418
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/c4/8f/c48fb0eb30b92dfc5c2be6c113713099bc5d930ba669c5da0d7cf50f2deb2bcf/preview-400.3d4c61b6e0e3.jpg
+        sha256: 3d4c61b6e0e330ba32271f1f044cc896004c9b8057fb5cfc1814ce5f0c875300
+        mime: image/jpeg
+        bytes: 65926
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

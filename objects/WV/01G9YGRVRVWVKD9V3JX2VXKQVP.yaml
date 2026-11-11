@@ -1,0 +1,38 @@
+id: 01G9YGRVRVWVKD9V3JX2VXKQVP
+type: image
+subtype: photo
+title: Fastnacht 1891
+date: 1891?
+origin:
+  name: Karl Albers
+  type: person
+  location: Wittenberge
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Pfarrhaus
+    type: building
+  - name: Kriegerdenkmal
+    type: building
+parents:
+  - 01FZ6M8QKXGB7D7RCJXJBP9MVH
+files:
+  - role: main
+    original_name: P1530.jpg
+    path: files/9b/29/9b296bcf3bd75b9d07b57c5624284f6da38b7f96ee1bcdaf8e6ff1846db5c320/original.jpg
+    sha256: 9b296bcf3bd75b9d07b57c5624284f6da38b7f96ee1bcdaf8e6ff1846db5c320
+    mime: image/jpeg
+    bytes: 24626459
+    width: 2000
+    height: 3000
+    variants:
+      - kind: preview
+        path: files/9b/29/9b296bcf3bd75b9d07b57c5624284f6da38b7f96ee1bcdaf8e6ff1846db5c320/preview-400.d08f47e1674d.jpg
+        sha256: d08f47e1674da98a5800a8c6201545c0c9ee821907afc51b94b8b85117e7fd15
+        mime: image/jpeg
+        bytes: 38285
+        width: 400
+        height: 600
+        generator:
+          name: browser-canvas
+          version: "1"

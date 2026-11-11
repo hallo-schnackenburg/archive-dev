@@ -1,0 +1,40 @@
+id: 01KS8P1BYXHXJ25VK05W6X76XJ
+type: image
+subtype: photo
+title: Fährjubiläum 1994
+description: Schwarzweißfoto, Rückseite beschriftet.
+date: "1994"
+location: Restorf, Fährstraße
+geocode:
+  lat: 52.9697
+  lon: 11.5067
+  precision: town
+  source: osm
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: Slg/Album 16/044
+parents:
+  - 01JCDR7S9M7BM7M0ZNSCBA2064
+files:
+  - role: main
+    original_name: foto_8041.jpg
+    path: files/db/b0/dbb0bdeb0bc48ef16b08c04663637a402ad62031b043775f06d3041a4ce0ed8d/original.jpg
+    sha256: dbb0bdeb0bc48ef16b08c04663637a402ad62031b043775f06d3041a4ce0ed8d
+    mime: image/jpeg
+    bytes: 27587178
+    width: 3024
+    height: 4032
+    variants:
+      - kind: preview
+        path: files/db/b0/dbb0bdeb0bc48ef16b08c04663637a402ad62031b043775f06d3041a4ce0ed8d/preview-400.0e65f8bb521d.jpg
+        sha256: 0e65f8bb521d660e275fafecd8b01cd3877b797bc7372154e8e614810f7d3252
+        mime: image/jpeg
+        bytes: 36479
+        width: 400
+        height: 533
+        generator:
+          name: browser-canvas
+          version: "1"

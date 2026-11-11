@@ -1,0 +1,41 @@
+id: 01H6PGYJ2472BDYMP8PMY588JS
+type: image
+subtype: print
+title: Ansichtskarte Am Markt, Laase
+date: "1947"
+location: Brünkendorf, Dorfteich
+origin:
+  name: Bernd Lemke
+  type: person
+  location: Lüchow
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: Br 19/123
+subjects:
+  - name: Seedorf
+    type: place
+parents:
+  - 01HRJYJMA6PZA35NA1FR6QZ5XX
+files:
+  - role: main
+    original_name: scan_204.tif
+    path: files/07/a7/07a784835dd048a91f7decb0fe32c06de6b493b68a204e7be5af967bc9aedcf7/original.tif
+    sha256: 07a784835dd048a91f7decb0fe32c06de6b493b68a204e7be5af967bc9aedcf7
+    mime: image/tiff
+    bytes: 3164211
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/07/a7/07a784835dd048a91f7decb0fe32c06de6b493b68a204e7be5af967bc9aedcf7/preview-400.383da415c380.jpg
+        sha256: 383da415c38045b2fc480ab0c92021e6ef439423c0529972473a44f338607389
+        mime: image/jpeg
+        bytes: 88628
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

@@ -1,0 +1,42 @@
+id: 01JKA3TFQW1Q5TNSB2P4ZHJYWA
+type: image
+subtype: photo
+title: "Handwerkerinnung: Gruppenbild Maifeier"
+description: Abzug im Format 6 x 9 cm.
+location: Cumlosen, Am Elbdeich
+geocode:
+  lat: 52.9081
+  lon: 11.4661
+  precision: region
+  source: osm
+original:
+  holder:
+    name: Stadtarchiv Schnackenburg
+    type: business
+    location: Schnackenburg
+subjects:
+  - name: Gartow
+    type: place
+parents:
+  - 01HWXZJSFPT1G68MTVYSQM6PXW
+  - 01FYF46BCNWMPMBZAF8Z3VZK3Y
+files:
+  - role: main
+    original_name: scan_269.tif
+    path: files/81/ea/81ea9920fafeca76c1cf1d62cb15acb61becfbe23460c47990398733123969e6/original.tif
+    sha256: 81ea9920fafeca76c1cf1d62cb15acb61becfbe23460c47990398733123969e6
+    mime: image/tiff
+    bytes: 25935434
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/81/ea/81ea9920fafeca76c1cf1d62cb15acb61becfbe23460c47990398733123969e6/preview-400.b8e4b014e58a.jpg
+        sha256: b8e4b014e58acf603bf44968800e0abaf8b4e0ad2fecaa70f26dbfea4e753bfd
+        mime: image/jpeg
+        bytes: 23626
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

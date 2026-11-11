@@ -1,0 +1,63 @@
+id: 01HW41P34CNZMYFRP74HSR616Q
+type: document
+subtype: protocol
+title: Protokoll des Stadtrat vom 1859
+description: "Beschlossen wurde unter anderem: Wohnungsnot."
+date: 1859-02
+location: Zadrau, Am Markt
+geocode:
+  lat: 52.9758
+  lon: 11.6672
+  precision: town
+  source: osm
+origin:
+  name: Finanzausschuss Zadrau
+  type: business
+  location: Zadrau
+language: de
+subjects:
+  - name: Otto Harms
+    type: person
+parents:
+  - 01HWXZJSFPT1G68MTVYSQM6PXW
+files:
+  - role: page
+    num: 1
+    original_name: protocol_sr616q_001.tif
+    path: files/61/b8/61b8becdc7fe5d4d477d3cc81d0cff484f8d66d3f970039081c4332c05368ea9/original.tif
+    sha256: 61b8becdc7fe5d4d477d3cc81d0cff484f8d66d3f970039081c4332c05368ea9
+    mime: image/tiff
+    bytes: 2287518
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/61/b8/61b8becdc7fe5d4d477d3cc81d0cff484f8d66d3f970039081c4332c05368ea9/preview-400.6e1ad4ebf12a.jpg
+        sha256: 6e1ad4ebf12aa7ccdefe7593a611a54bd1f917d173602a1ad44cea4c496e44bc
+        mime: image/jpeg
+        bytes: 56822
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: protocol_sr616q_002.tif
+    path: files/c5/c8/c5c841c1849654b0dbdbe69395d8080fa5ca9f180807b44e40fbe4f2e2dab233/original.tif
+    sha256: c5c841c1849654b0dbdbe69395d8080fa5ca9f180807b44e40fbe4f2e2dab233
+    mime: image/tiff
+    bytes: 2746492
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/c5/c8/c5c841c1849654b0dbdbe69395d8080fa5ca9f180807b44e40fbe4f2e2dab233/preview-400.a97b378544df.jpg
+        sha256: a97b378544dfbb86ed39d3fe29cb9a92e61a3c68ffd163dc8b716104d8d68b60
+        mime: image/jpeg
+        bytes: 76483
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

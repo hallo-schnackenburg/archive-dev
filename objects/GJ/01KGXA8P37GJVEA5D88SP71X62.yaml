@@ -1,0 +1,40 @@
+id: 01KGXA8P37GJVEA5D88SP71X62
+type: image
+subtype: drawing
+title: Gutshaus, Aquarell
+description: Mit Anmerkungen am Rand.
+date: 1939-02
+location: Schnackenburg, Lange Straße
+origin:
+  name: Petra Schwarz
+  type: person
+  location: Pretzier
+subjects:
+  - name: Karl Krüger
+    type: person
+  - name: Richtfest 1939
+    type: event
+  - name: Fritz Harms
+    type: person
+parents:
+  - 01J59Y3GT8EG81RDPY4TJCRWFY
+files:
+  - role: main
+    original_name: scan_930.tif
+    path: files/17/8b/178b916dfa668495f0ae096b639ae68bcec0c8990a49ef8793681ae36bebdf3b/original.tif
+    sha256: 178b916dfa668495f0ae096b639ae68bcec0c8990a49ef8793681ae36bebdf3b
+    mime: image/tiff
+    bytes: 8435232
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/17/8b/178b916dfa668495f0ae096b639ae68bcec0c8990a49ef8793681ae36bebdf3b/preview-400.4905a8c7cf56.jpg
+        sha256: 4905a8c7cf560a318012c233d6cd5b2708d54de461f8f79ce354b18677e55f7e
+        mime: image/jpeg
+        bytes: 72323
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"

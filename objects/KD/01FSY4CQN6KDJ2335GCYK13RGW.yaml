@@ -1,0 +1,42 @@
+id: 01FSY4CQN6KDJ2335GCYK13RGW
+type: image
+subtype: print
+title: Lithographie Schmiede
+date: 1915-07-14
+origin:
+  name: Heinrich Bruns
+  type: person
+  location: Dömitz
+original:
+  holder:
+    name: Kirchengemeinde St. Johannis
+    type: business
+    location: Schnackenburg
+  reference: F 39/314
+subjects:
+  - name: Fritz Matthies
+    type: person
+  - name: Wassermühle
+    type: building
+  - name: Kapern
+    type: place
+files:
+  - role: main
+    original_name: scan_359.tif
+    path: files/4c/40/4c40b2fe6627e4e1350fab639fb5b6eb8e01dd4a29ceff225dda6afc8d6748b7/original.tif
+    sha256: 4c40b2fe6627e4e1350fab639fb5b6eb8e01dd4a29ceff225dda6afc8d6748b7
+    mime: image/tiff
+    bytes: 8567434
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4c/40/4c40b2fe6627e4e1350fab639fb5b6eb8e01dd4a29ceff225dda6afc8d6748b7/preview-400.4c90e6a1ac96.jpg
+        sha256: 4c90e6a1ac96f3e0521e2bef5c234415c68b3d14e60296a6b98203649db189fc
+        mime: image/jpeg
+        bytes: 81522
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

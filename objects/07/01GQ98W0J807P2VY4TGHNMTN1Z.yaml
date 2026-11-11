@@ -1,0 +1,48 @@
+id: 01GQ98W0J807P2VY4TGHNMTN1Z
+type: image
+subtype: photo
+title: Christa Behrens, Porträt
+description: Farbfoto, leicht verblasst.
+date: 1965-04
+location: Salzwedel, Kirchstraße
+geocode:
+  lat: 52.9261
+  lon: 11.6671
+  precision: street
+  source: osm
+origin:
+  name: Günter Lemke
+  type: person
+  location: Dömitz
+owner:
+  name: Heinrich Schulz
+  type: person
+  note: Leihgabe
+subjects:
+  - name: Schützenhaus
+    type: building
+  - name: Hitzacker
+    type: place
+parents:
+  - 01HASDKXR0Y5AFEJ03TVA5J3T7
+  - 01JGKVZV6PYRTQW3JF5XVEVJGR
+files:
+  - role: main
+    original_name: IMG_1924.jpg
+    path: files/b1/bf/b1bfad85e09c3a01e14296947ef2065628f3af7155acd4d154655a91b5f504ba/original.jpg
+    sha256: b1bfad85e09c3a01e14296947ef2065628f3af7155acd4d154655a91b5f504ba
+    mime: image/jpeg
+    bytes: 19165290
+    width: 4032
+    height: 3024
+    variants:
+      - kind: preview
+        path: files/b1/bf/b1bfad85e09c3a01e14296947ef2065628f3af7155acd4d154655a91b5f504ba/preview-400.113d48cdfb1e.jpg
+        sha256: 113d48cdfb1e79f6ab63d141262e11621a7fc5ae17f98fa5fd4474e6e192edca
+        mime: image/jpeg
+        bytes: 41263
+        width: 400
+        height: 300
+        generator:
+          name: browser-canvas
+          version: "1"

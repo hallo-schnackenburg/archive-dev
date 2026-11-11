@@ -1,0 +1,39 @@
+id: 01GTQKKZ6MTTAJZRA23D2SV5VQ
+type: image
+subtype: plan
+title: Bauplan Sportplatz 1982
+description: Maßstab 1:1000.
+date: 1982?
+location: Holtorf, Fährstraße
+origin:
+  name: Gerda Krüger
+  type: person
+  location: Nienwalde
+subjects:
+  - name: Salzwedel
+    type: place
+  - name: Dömitz
+    type: place
+parents:
+  - 01FHAJMC0QDXRYDR1PV64RNJKV
+files:
+  - role: main
+    original_name: scan_289.tif
+    path: files/40/8f/408f719e203c4cacaee02efe66cc65ecd1a5748561c0996d5fa1a9672f340d85/original.tif
+    sha256: 408f719e203c4cacaee02efe66cc65ecd1a5748561c0996d5fa1a9672f340d85
+    mime: image/tiff
+    bytes: 9700572
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/40/8f/408f719e203c4cacaee02efe66cc65ecd1a5748561c0996d5fa1a9672f340d85/preview-400.807b4cf6da58.jpg
+        sha256: 807b4cf6da58542b88d565f9542323006b684e27adef8314e2bc3ca616f82388
+        mime: image/jpeg
+        bytes: 53466
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
+notes: Zustand prüfen.

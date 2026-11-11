@@ -1,0 +1,67 @@
+id: 01H20B0XDK2TBB9E3YJ32TZ1HB
+type: document
+subtype: letter
+title: Korrespondenz Ernst Meyer
+description: Mit Umschlag und Briefmarke.
+location: Brünkendorf, Burgstraße
+origin:
+  name: Renate Brandt
+  type: person
+  location: Gartow
+recipient: Friedrich Gerdes
+language: de
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
+  reference: F 40/251
+  note: Bücherregal links
+subjects:
+  - name: Sturmschaden 1965
+    type: event
+  - name: Scheune
+    type: building
+  - name: Frieda Schwarz
+    type: person
+files:
+  - role: page
+    num: 1
+    original_name: letter_2tz1hb_001.tif
+    path: files/ac/d1/acd1243ade35d22fa4856a418f453a2ae3c6b2a652e757f43d358f24544b7479/original.tif
+    sha256: acd1243ade35d22fa4856a418f453a2ae3c6b2a652e757f43d358f24544b7479
+    mime: image/tiff
+    bytes: 5000991
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/ac/d1/acd1243ade35d22fa4856a418f453a2ae3c6b2a652e757f43d358f24544b7479/preview-400.d99104464519.jpg
+        sha256: d9910446451972aa77435ef47411570f33df04f27d75beac7c906e9ecfb94994
+        mime: image/jpeg
+        bytes: 35091
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: letter_2tz1hb_002.tif
+    path: files/4a/4e/4a4ee4688769be954f205270c6573895e4632a61bb712bd13cd160f34e3b42cf/original.tif
+    sha256: 4a4ee4688769be954f205270c6573895e4632a61bb712bd13cd160f34e3b42cf
+    mime: image/tiff
+    bytes: 9991863
+    width: 4961
+    height: 7016
+    variants:
+      - kind: preview
+        path: files/4a/4e/4a4ee4688769be954f205270c6573895e4632a61bb712bd13cd160f34e3b42cf/preview-400.19d37ab77079.jpg
+        sha256: 19d37ab770794ec066e7f02f355d7ccf77c68b63a3937584a6f3564e980faa34
+        mime: image/jpeg
+        bytes: 52457
+        width: 400
+        height: 566
+        generator:
+          name: browser-canvas
+          version: "1"

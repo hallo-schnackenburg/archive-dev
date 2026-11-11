@@ -8,10 +8,11 @@ origin:
   name: Verlag Merian-Erben
   type: business
   location: Frankfurt
-holder:
-  name: Landesbibliothek Hannover
-  type: business
-  location: Hannover
+original:
+  holder:
+    name: Landesbibliothek Hannover
+    type: business
+    location: Hannover
 files:
   - role: main
     original_name: stich_stadtansicht.tif

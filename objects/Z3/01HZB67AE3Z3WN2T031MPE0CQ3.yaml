@@ -1,0 +1,39 @@
+id: 01HZB67AE3Z3WN2T031MPE0CQ3
+type: image
+subtype: print
+title: Postkarte Lüchow, Pfarrhaus
+description: Kupferstich, koloriert.
+date: 1805-11-12
+location: Pretzier, Dorfkrug
+origin:
+  name: Dieter Ludolf
+  type: person
+  location: Seedorf
+original:
+  holder:
+    name: Kreisarchiv Lüchow-Dannenberg
+    type: business
+    location: Lüchow
+  reference: F 12/232
+parents:
+  - 01J36EBSGAM0EQS4K8346DJX88
+files:
+  - role: main
+    original_name: scan_156.tif
+    path: files/24/21/242114dd6900da8a2ee79206e0c7a1898a415c873ad469a2e72db86a98e82775/original.tif
+    sha256: 242114dd6900da8a2ee79206e0c7a1898a415c873ad469a2e72db86a98e82775
+    mime: image/tiff
+    bytes: 22980332
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/24/21/242114dd6900da8a2ee79206e0c7a1898a415c873ad469a2e72db86a98e82775/preview-400.6b93b293c714.jpg
+        sha256: 6b93b293c71452c321808b036bc7bca71362688ba2667504d1002ceb547b6970
+        mime: image/jpeg
+        bytes: 61004
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

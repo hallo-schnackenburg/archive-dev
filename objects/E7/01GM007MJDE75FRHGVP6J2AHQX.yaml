@@ -1,0 +1,36 @@
+id: 01GM007MJDE75FRHGVP6J2AHQX
+type: image
+subtype: print
+title: Lithographie Fähranleger, Rüterberg
+description: Kupferstich, koloriert.
+date: "1822"
+location: Zadrau, Burgstraße
+origin:
+  name: Karl Lemke
+  type: person
+  location: Kapern
+subjects:
+  - name: Hafen
+    type: building
+  - name: Cumlosen
+    type: place
+files:
+  - role: main
+    original_name: scan_090.tif
+    path: files/5f/a6/5fa65dc62dc269c4edc2448f13c0a9b8f573660748331cdfe0a5370f777eae3e/original.tif
+    sha256: 5fa65dc62dc269c4edc2448f13c0a9b8f573660748331cdfe0a5370f777eae3e
+    mime: image/tiff
+    bytes: 25117087
+    width: 3500
+    height: 2500
+    variants:
+      - kind: preview
+        path: files/5f/a6/5fa65dc62dc269c4edc2448f13c0a9b8f573660748331cdfe0a5370f777eae3e/preview-400.c78b08d28ad4.jpg
+        sha256: c78b08d28ad4fa3a74f0efe1ea58b2bab9850ea7790ea12542daf85d1ee7898b
+        mime: image/jpeg
+        bytes: 66217
+        width: 400
+        height: 286
+        generator:
+          name: browser-canvas
+          version: "1"

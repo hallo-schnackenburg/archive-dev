@@ -1,0 +1,37 @@
+id: 01FPV35N7YSWQBDC0725CTGKWW
+type: image
+subtype: plan
+title: Bauplan Poststelle 1786
+date: 178X
+location: Arendsee, Bahnhof
+origin:
+  name: Otto Jeß
+  type: person
+  location: Wootz
+subjects:
+  - name: Lenzen
+    type: place
+  - name: Gollensdorf
+    type: place
+  - name: Heinrich Schulz
+    type: person
+files:
+  - role: main
+    original_name: scan_069.tif
+    path: files/ca/be/cabe4f3f951ce976ad471dcd049f87411e719ecf80aa11b9531c169305788a98/original.tif
+    sha256: cabe4f3f951ce976ad471dcd049f87411e719ecf80aa11b9531c169305788a98
+    mime: image/tiff
+    bytes: 16199467
+    width: 7016
+    height: 4961
+    variants:
+      - kind: preview
+        path: files/ca/be/cabe4f3f951ce976ad471dcd049f87411e719ecf80aa11b9531c169305788a98/preview-400.7730a67a90e9.jpg
+        sha256: 7730a67a90e9a9c3a4489589dadb6e35153b2a1515f736aa8ae941e794efd22c
+        mime: image/jpeg
+        bytes: 57987
+        width: 400
+        height: 283
+        generator:
+          name: browser-canvas
+          version: "1"
