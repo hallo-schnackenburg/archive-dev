@@ -1,0 +1,76 @@
+id: 01M78SPDDHEY0Z6KAWK9ABAHB8
+type: document
+subtype: brochure
+title: Universalofen W31
+date: "1929"
+origin:
+  name: Max Ketterer
+  type: business
+  location: Leipzig
+location: Schnackenburg, Niedernstr. 10
+original:
+  holder:
+    name: Dorothee Möller
+    type: person
+language: de
+files:
+  - role: page
+    num: 1
+    original_name: prospekt-universal-ofen-1.jpeg
+    path: files/12/e8/12e8453a85d8fb1329a0146a3ff050fc430ca3547172d9dddee8c722095f0bdf/original.jpeg
+    sha256: 12e8453a85d8fb1329a0146a3ff050fc430ca3547172d9dddee8c722095f0bdf
+    mime: image/jpeg
+    bytes: 821689
+    width: 2048
+    height: 1339
+    variants:
+      - kind: preview
+        path: files/12/e8/12e8453a85d8fb1329a0146a3ff050fc430ca3547172d9dddee8c722095f0bdf/preview-400.b0051e26b308.jpg
+        sha256: b0051e26b3086ad6fcd362e7fc7cd1531b54266d6b3a3b0142c145195e63edd6
+        mime: image/jpeg
+        bytes: 52377
+        width: 400
+        height: 262
+        generator:
+          name: browser-canvas
+          version: "1"
+      - kind: web
+        path: files/12/e8/12e8453a85d8fb1329a0146a3ff050fc430ca3547172d9dddee8c722095f0bdf/web-2000.ef3c6d59a1c6.jpg
+        sha256: ef3c6d59a1c658644a2322b018657d4413e45cf07a494b3c43947c5405b6a7b4
+        mime: image/jpeg
+        bytes: 629220
+        width: 2000
+        height: 1308
+        generator:
+          name: browser-canvas
+          version: "1"
+  - role: page
+    num: 2
+    original_name: prospekt-universal-ofen-2.jpeg
+    path: files/75/8f/758fc1f8617f99ed6ba566d61dc1f6fc03fc31703895ae4b9bf371bc43d71f71/original.jpeg
+    sha256: 758fc1f8617f99ed6ba566d61dc1f6fc03fc31703895ae4b9bf371bc43d71f71
+    mime: image/jpeg
+    bytes: 750611
+    width: 2048
+    height: 1395
+    variants:
+      - kind: preview
+        path: files/75/8f/758fc1f8617f99ed6ba566d61dc1f6fc03fc31703895ae4b9bf371bc43d71f71/preview-400.a573bee3f0bb.jpg
+        sha256: a573bee3f0bb323b10b76af7d6926138e0393a8a7c7a3ace3f2ab376af6e60b0
+        mime: image/jpeg
+        bytes: 47518
+        width: 400
+        height: 272
+        generator:
+          name: browser-canvas
+          version: "1"
+      - kind: web
+        path: files/75/8f/758fc1f8617f99ed6ba566d61dc1f6fc03fc31703895ae4b9bf371bc43d71f71/web-2000.445b1e41bafd.jpg
+        sha256: 445b1e41bafd3128a79210845ff3bf1c43dea3bc19dd0e718169ad07173abe34
+        mime: image/jpeg
+        bytes: 575050
+        width: 2000
+        height: 1362
+        generator:
+          name: browser-canvas
+          version: "1"
